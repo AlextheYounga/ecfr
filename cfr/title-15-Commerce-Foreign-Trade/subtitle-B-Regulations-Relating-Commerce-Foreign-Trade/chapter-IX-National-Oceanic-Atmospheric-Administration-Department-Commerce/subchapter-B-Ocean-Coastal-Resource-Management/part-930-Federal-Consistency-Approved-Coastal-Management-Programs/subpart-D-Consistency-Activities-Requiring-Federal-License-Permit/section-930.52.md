@@ -1,0 +1,3 @@
+##### § 930.52 Applicant. #####
+
+The term “applicant” means any individual, public or private corporation, partnership, association, or other entity organized or existing under the laws of any nation, State, or any State, regional, or local government, who, following management program approval, either files an application for a required individual federal license or permit, or who files a consistency certification for a required general federal license or permit under § 930.31(d) to conduct an activity affecting any coastal use or resource. The term “applicant” does not include Federal agencies applying for federal licenses or permits. Federal agency activities requiring federal licenses or permits are subject to subpart C of this part.

@@ -1,0 +1,3 @@
+##### § 503.54 Submission of documents to the Administrative Review Board. #####
+
+All documents submitted to the ARB will be filed with the Administrative Review Board, U.S. Department of Labor, 200 Constitution Avenue NW., Room S-5220, Washington, DC 20210. An original and two copies of all documents must be filed. Documents are not deemed filed with the ARB until actually received by the ARB. All documents, including documents filed by mail, must be received by the ARB either on or before the due date. Copies of all documents filed with the ARB must be served upon all other parties involved in the proceeding.

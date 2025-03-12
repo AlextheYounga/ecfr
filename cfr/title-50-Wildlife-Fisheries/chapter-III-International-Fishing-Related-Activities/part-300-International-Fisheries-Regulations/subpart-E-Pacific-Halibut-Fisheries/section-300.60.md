@@ -1,0 +1,3 @@
+##### § 300.60 Purpose and scope. #####
+
+This subpart implements the North Pacific Halibut Act of 1982 (Act) and is intended to supplement, not conflict with, the annual fishery management measures adopted by the International Pacific Halibut Commission (Commission) under the Convention between the United States and Canada for the Preservation of the Halibut Fishery of the Northern Pacific Ocean and Bering Sea (Convention).

@@ -1,0 +1,5 @@
+##### § 5.359 Housing programs: Rejection of units by applicants for tenancy. #####
+
+(a) An applicant for tenancy in a project for the elderly or persons with disabilities may reject a unit offered by a project owner if the unit is in close proximity to a dwelling unit in which an existing tenant of the project owns or keeps a common household pet. An applicant's rejection of a unit under this section shall not adversely affect his or her application for tenancy in the project, including (but not limited to) his or her position on the project waiting list or qualification for any tenant selection preference.
+
+(b) Nothing in this subpart C imposes a duty on project owners to provide alternate dwelling units to existing or prospective tenants because of the proximity of common household pets to a particular unit or the presence of such pets in the project.

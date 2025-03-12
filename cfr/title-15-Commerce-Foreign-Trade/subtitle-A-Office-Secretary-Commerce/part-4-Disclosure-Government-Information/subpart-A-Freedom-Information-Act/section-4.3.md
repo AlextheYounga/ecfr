@@ -1,0 +1,11 @@
+##### § 4.3 Records under the FOIA. #####
+
+(a) Records under the FOIA include all Government records, regardless of format, medium or physical characteristics, and electronic records and information, audiotapes, videotapes, Compact Disks, DVDs, and photographs.
+
+(b) In response to a FOIA request, the Department has no obligation to create, compile, or obtain from outside the Department a record to satisfy a request (for example, extrapolating information from existing agency records, reformatting available information, preparing new electronic programs or databases, or creating data through calculations of rations, proportions, percentages, trends, frequency distributions, correlations, or comparisons). In complying with a request for records (including data and other electronically-stored information), whether the Department creates or compiles records (as by undertaking significant programming work) or merely extracts them from an existing database is fact dependent. The Department shall undertake reasonable efforts to search for records stored in electronic format (including data and other electronically-stored information).
+
+(c) Department officials may, upon request, create and provide new records to the public pursuant to statutes that authorize the creation and provision of new records for a fee, such as the first paragraph of 15 U.S.C. 1525, or in accordance with authority otherwise provided by law. Such creation and provision of records is outside the scope of the FOIA.
+
+(d) Components shall preserve all correspondence pertaining to the requests they receive under this subpart, as well as copies of all requested records, until disposition or destruction is authorized by Title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 14. Components shall not dispose of records while they are the subject of a pending request, appeal, or lawsuit under the FOIA.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62558, Oct. 20, 2014]

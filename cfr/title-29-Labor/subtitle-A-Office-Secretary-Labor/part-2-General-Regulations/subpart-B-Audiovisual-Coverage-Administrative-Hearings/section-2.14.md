@@ -1,0 +1,3 @@
+##### § 2.14 Proceedings in which the Department balances conflicting values. #####
+
+In proceedings not covered by §§ 2.12 and 2.13, the Department should determine whether the public's right to know outbalances the individual's right to privacy. When audiovisual coverage is restricted or excluded, the record shall state fully the reasons for such restriction or exclusion. For example, there would be included in this category hearings before the Board of Contract Appeals involving appeals from contracting officer decisions involving claims for extra costs for extra work, extra costs for delay in completion caused by the Government or for changes in the work, conformity hearings arising under State unemployment insurance laws, etc.

@@ -1,0 +1,3 @@
+##### § 208.45 Advance of funds. #####
+
+At the time of Activation of a Task Force, the Task Force will develop the documentation necessary to request an advance of funds be paid to such Task Force's Sponsoring Agency. Upon approval, DHS will submit the documentation to the Assistance Officer and will request an advance of funds up to 75 percent of the estimated personnel costs for the Activation. The estimated personnel costs will include the salaries, benefits, and Backfill costs for Task Force Members and an estimate of the salaries, benefits and Backfill costs required for equipment cache rehabilitation. The advance of funds will not include any costs for equipment purchase.

@@ -1,0 +1,9 @@
+##### § 204.25 FEMA-State agreement for fire management assistance grant program. #####
+
+(a) After a State's request for a fire management assistance declaration has been approved, the Governor and Regional Administrator will enter into a standing FEMA-State Agreement (the Agreement) for the declared fire and for future declared fires in that calendar year. The State must have a signed and up-to-date FEMA-State Agreement before receiving Federal funding for fire management assistance grants. FEMA will provide no funding absent a signed and up-to-date Agreement. An Indian tribal government serving as recipient, must sign a FEMA-Tribal Agreement, modeled upon the FEMA-State Agreement.
+
+(b) The Agreement states the understandings, commitments, and conditions under which FEMA will provide Federal assistance, including the cost share provision and articles of agreement necessary for the administration of grants approved under fire management assistance declarations. The Agreement must also identify the State legislative authority for firefighting, as well as the State's compliance with the laws, regulations, and other provisions applicable to the Fire Management Assistance Grant Program.
+
+(c) For each subsequently declared fire within the calendar year, the parties must add a properly executed amendment, which defines the incident period and contains the official declaration number. Other amendments modifying the standing Agreement may be added throughout the year to reflect changes in the program or signatory parties.
+
+[66 FR 57347, Nov. 14, 2001, as amended at 79 FR 63546, Oct. 24, 2014; 82 FR 42, Jan. 3, 2017]

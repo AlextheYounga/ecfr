@@ -1,0 +1,5 @@
+##### § 930.37 Consistency determinations and National Environmental Policy Act (NEPA) requirements. #####
+
+A Federal agency may use its NEPA documents as a vehicle for its consistency determination or negative determination under this subpart. However, a Federal agency's federal consistency obligations under the Act are independent of those required under NEPA and are not necessarily fulfilled by the submission of a NEPA document. State agencies shall not require Federal agencies to submit NEPA documents as information required pursuant to § 930.39. If a Federal agency includes its consistency determination or negative determination in a NEPA document, the Federal agency shall ensure that the NEPA document includes the information and adheres to the timeframes required by this subpart. Federal agencies and State agencies should mutually agree on how to best coordinate the requirements of NEPA and the Act.
+
+[65 FR 77154, Dec. 8, 2000, as amended at 71 FR 827, Jan. 5, 2006]

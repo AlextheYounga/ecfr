@@ -1,0 +1,9 @@
+##### § 930.81 Multiple permit review. #####
+
+(a) A person submitting a consistency certification for federal license or permit activities described in detail in an OCS plan is strongly encouraged to work with other Federal agencies in an effort to include, for consolidated State agency review, consistency certifications and supporting data and information applicable to OCS-related federal license or permit activities affecting any coastal use or resource which are not required to be described in detail in OCS plans but which are subject to State agency consistency review (e.g., Corps of Engineer permits for the placement of structures on the OCS and for dredging and the transportation of dredged material, Environmental Protection Agency air and water quality permits for offshore operations and onshore support and processing facilities). In the event the person does not consolidate such OCS-related permit activities with the State agency's review of the OCS plan, such activities will remain subject to individual State agency review under the requirements of subpart D of this part.
+
+(b) A State agency objection to one or more of the OCS-related federal license or permit activities submitted for consolidated review shall not prevent the person from receiving Federal agency approval:
+
+(1) For those OCS-related license or permit activities found by the State agency to be consistent with the management program; and
+
+(2) For the license or permit activities described in detail in the OCS plan provided the State agency concurs with the consistency certification for such plan. Similarly, a State agency objection to the consistency certification for an OCS plan shall not prevent the person from receiving Federal agency approval for those OCS-related license or permit activities determined by the State agency to be consistent with the management program.

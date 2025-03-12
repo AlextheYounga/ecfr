@@ -1,0 +1,3 @@
+##### § 125.12 Cartage for examination at importers' premises or other place. #####
+
+Merchandise designated for examination at an importer's premises or other place not in the charge of a Customs officer may be carted, lightered, or carried to any such place by the importer without a cartman's or lighterman's license, when in the judgment of the port director the revenue will not be endangered. Otherwise, such transfer shall be done by a licensed cartman, who shall be the contract cartman whenever practicable.

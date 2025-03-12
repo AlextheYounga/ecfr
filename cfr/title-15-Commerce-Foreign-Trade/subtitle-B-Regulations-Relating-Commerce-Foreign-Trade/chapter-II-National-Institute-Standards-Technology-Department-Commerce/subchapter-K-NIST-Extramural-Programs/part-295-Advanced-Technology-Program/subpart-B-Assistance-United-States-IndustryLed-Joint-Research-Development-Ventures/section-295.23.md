@@ -1,0 +1,3 @@
+##### § 295.23 Dissolution of joint research and development ventures. #####
+
+Upon dissolution of any joint research and development venture receiving funds under these procedures or at a time otherwise agreed upon, the Federal Government shall be entitled to a share of the residual assets of the joint venture proportional to the Federal share of the costs of the joint venture as determined by independent audit.

@@ -1,0 +1,3 @@
+##### § 2570.36 Where to file an application. #####
+
+The Department's prohibited transaction exemption program is administered by the Employee Benefits Security Administration (EBSA). Any exemption application governed by these procedures may be mailed via first-class mail to: Employee Benefits Security Administration, Office of Exemption Determinations, U.S. Department of Labor, Room N-5700, 200 Constitution Avenue NW., Washington, DC 20210. Alternatively, applications may be emailed to the Department at *e-OED@dol.gov* or transmitted via facsimile at (202) 219-0204. Notwithstanding the foregoing methods of transmission, applicants are also required to submit one paper copy of the exemption application for the Department's file.

@@ -1,0 +1,3 @@
+##### § 15.11 Distribution of handbills. #####
+
+We prohibit the distribution of materials such as pamphlets, handbills or flyers, and the displaying of placards or posting of materials on bulletin boards or elsewhere at Mt. Weather and the NETC unless the Administrator, the Mt. Weather Executive Director, or the Deputy Assistant Administrator for the United States Fire Administration or designee, approves such distribution or display, or when such distribution or display is conducted as part of authorized government activities.

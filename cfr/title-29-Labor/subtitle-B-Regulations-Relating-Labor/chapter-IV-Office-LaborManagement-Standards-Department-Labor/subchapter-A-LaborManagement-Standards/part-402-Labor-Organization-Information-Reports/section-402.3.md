@@ -1,0 +1,11 @@
+##### § 402.3 Filing of initial reports. #####
+
+(a) Every labor organization shall file with the Office of Labor-Management Standards the report and (subject to the provisions of paragraph (b) of this section, where applicable) a copy of its constitution and bylaws required by section 201(a) of the Act and § 402.2, together with one additional copy of each, within 90 days after the date on which it first becomes subject to the Act.
+
+(b) A labor organization subject to paragraph (a) of this section may adopt or may have adopted as its constitution and bylaws (whether by formal action or by virtue of affiliation with a parent organization) a constitution and bylaws of a national or international labor organization which the national or international organization is required to file under section 201(a) of the Act and this part. In such a case, a filing by the national or international labor organization of copies of such constitution and bylaws will be accepted as a filing of such documents by each such adopting labor organization within the meaning of section 201(a) of the Act and this part, if the following conditions are met:
+
+(1) The national or international labor organizations shows in its report filed under paragraph (a) of this section that copies of its constitution and bylaws are being filed on behalf of such adopting organizations as well as on its own behalf, and files such number of additional copies as the Office of Labor-Management Standards may request, and
+
+(2) The adopting labor organization shows in its report filed under paragraph (a) of this section that the national or international constitution and bylaws are also its constitution and bylaws and that copies are filed on its behalf by the national or international labor organization.
+
+If the constitution and bylaws of the adopting labor organization include other documents, this shall be shown in such report and copies shall be filed as provided in paragraph (a) of this section.[28 FR 14381, Dec. 27, 1963, as amended at 35 FR 2990, Feb. 13, 1970; 40 FR 58856, Dec. 19, 1975; 50 FR 31309, Aug. 1, 1985]

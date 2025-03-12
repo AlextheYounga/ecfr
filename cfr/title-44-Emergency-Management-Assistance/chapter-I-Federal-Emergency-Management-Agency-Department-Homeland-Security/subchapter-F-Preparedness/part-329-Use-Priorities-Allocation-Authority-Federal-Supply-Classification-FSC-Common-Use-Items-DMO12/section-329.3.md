@@ -1,0 +1,3 @@
+##### § 329.3 Procedures. #####
+
+Requests for additional authorizations of Classes, Groups, or Items should be presented to General Services Administration (AP), Washington, DC, 20405, accompanied by a statement of justification indicating why the Class, Group, or Item should be regarded as necessary or appropriate to promote the national defense and why defense-related requirements cannot be met without the use of priorities.

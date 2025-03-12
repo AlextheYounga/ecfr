@@ -1,0 +1,3 @@
+##### § 1300.36 Appeals of written decision by a Regional Administrator. #####
+
+The State shall submit an appeal of any written decision by a Regional Administrator regarding the administration of the grants in writing, signed by the Governor's Representative for Highway Safety, to the Regional Administrator. The Regional Administrator shall promptly forward the appeal to the NHTSA Associate Administrator, Regional Operations and Program Delivery. The decision of the NHTSA Associate Administrator shall be final and shall be transmitted to the Governor's Representative for Highway Safety through the Regional Administrator.

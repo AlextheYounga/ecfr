@@ -1,0 +1,3 @@
+##### § 2580.412-23 Exemption. #####
+
+An exemption from the bonding requirements of the Welfare and Pension Plans Disclosure Act is granted by this section whereby bonding arrangements (which otherwise comply with the requirements of section 13 of the Act and the regulations issued thereunder) with companies authorized by the Secretary of the Treasury as acceptable reinsurers on Federal bonds will satisfy the bonding requirements of the Act.

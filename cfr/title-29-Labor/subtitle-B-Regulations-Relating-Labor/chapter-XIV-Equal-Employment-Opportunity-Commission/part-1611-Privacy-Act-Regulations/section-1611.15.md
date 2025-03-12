@@ -1,0 +1,5 @@
+##### § 1611.15 Exemption—EEOC Personnel Security Files. #####
+
+EEOC's system of records entitled EEOC Personnel Security Files contains records that document and support decisions regarding suitability, eligibility and fitness for service of applicants for EEOC employment and contract positions. The records include background investigation records. Pursuant to section (k)(5) of the Privacy Act, 5 U.S.C. 552a(k)(5), this system of records is exempt from the provisions of sections (c)(3) and (d)(1) of the Privacy Act, 5 U.S.C. 552a(c)(3) and (d)(1), but only to the extent that the accounting of disclosures or the disclosure of such material would reveal the identity of a source who furnished information to the government under an express promise that the identity of the source would be held in confidence.
+
+[74 FR 6832, Feb. 11, 2009]

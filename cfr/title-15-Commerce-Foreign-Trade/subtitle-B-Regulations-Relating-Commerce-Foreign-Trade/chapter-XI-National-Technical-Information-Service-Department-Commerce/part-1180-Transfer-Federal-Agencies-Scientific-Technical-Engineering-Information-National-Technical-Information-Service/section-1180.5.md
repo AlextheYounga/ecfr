@@ -1,0 +1,3 @@
+##### § 1180.5 Timeliness. #####
+
+A single copy of a final product or summary described in § 1180.3 must be transferred to NTIS within fifteen days of the date it is first made available for public dissemination through any distribution channel, and, whenever practical, as soon as it has been approved by the agency for final printing or other reproduction, unless the agency and the Director have otherwise agreed.

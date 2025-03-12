@@ -1,0 +1,7 @@
+##### § 401.87 Assessment of costs; Appeals. #####
+
+(a) Whenever a hearing is conducted under this subpart, the costs thereof, as defined in this subpart, shall be assessed by the Hearing Officer to the party requesting the hearing unless apportioned between the interested parties where cost sharing is deemed fair and equitable by the Hearing Officer. For the purposes of this section costs include all incremental costs incurred by the Commission, including, but not limited to, hearing examiner and expert consultants reasonably necessary in the matter, stenographic record, rental of a hearing room and other related expenses.
+
+(b) Upon scheduling of a matter for hearing, the Secretary shall furnish to the applicant and/or interested parties a reasonable estimate of the costs to be incurred under this section. The applicant and/or interested parties may be required to furnish security for such costs either by cash deposit or by a surety bond of a corporate surety authorized to do business in a signatory state.
+
+(c) An appeal of the assessment of costs may be submitted in writing to the Commission within ten (10) days of the assessment. A copy of the appeal shall be filed with the Secretary and served on all interested parties. The filing of said appeal shall not stay the Hearing.

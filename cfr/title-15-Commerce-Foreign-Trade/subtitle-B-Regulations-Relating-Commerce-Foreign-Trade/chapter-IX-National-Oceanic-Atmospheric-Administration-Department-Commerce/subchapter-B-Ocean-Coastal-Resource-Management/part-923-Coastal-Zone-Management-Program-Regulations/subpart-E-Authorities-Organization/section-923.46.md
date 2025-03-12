@@ -1,0 +1,3 @@
+##### § 923.46 Organizational structure. #####
+
+The State must be organized to implement the management program. The management program must describe the organizational structure that will be used to implement and administer the management program including a discussion of those state and other agencies, including local governments, that will have responsibility for administering, enforcing and/or monitoring those authorities or techniques required pursuant to the following subsections of the Act: 306(d)(3)(B); 306(d)(10); 306(d)(10) (A) and (B); 306(d) (11) and (12); and 307(f). The management program must also describe the relationship of these administering agencies to the state agency designated pursuant to subsection 306(d)(6) of the Act.

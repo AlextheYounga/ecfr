@@ -1,0 +1,3 @@
+##### § 660.101 Purpose. #####
+
+The purpose of this subpart is to implement the Forest Highway (FH) Program which enhances local, regional, and national benefits of FHs funded under the public lands highway category of the coordinated Federal Lands Highway Program. As provided in 23 U.S.C. 202, 203, and 204, the program, developed in cooperation with State and local agencies, provides safe and adequate transportation access to and through National Forest System (NFS) lands for visitors, recreationists, resource users, and others which is not met by other transportation programs. Forest highways assist rural and community economic development and promote tourism and travel.

@@ -1,0 +1,3 @@
+##### § 3282.360 PIA acceptance of product certification programs or listings. #####
+
+In determining whether products to be included in a manufactured home are acceptable under the standards set out in part 3280 of 24 CFR, all PIAs shall accept all product verification programs, labelings, and listings unless the PIA has reason to believe that a particular certification is not acceptable, in which case, the PIA shall so inform the Secretary and provide the Secretary with full documentation and information on which it bases its belief. Pending a determination by the Secretary, the PIA shall provisionally accept the certification. The Secretary's determination shall be binding on all PIAs.

@@ -1,0 +1,3 @@
+##### § 780.200 Inclusion of forestry or lumbering operations in agriculture is limited. #####
+
+Employment in forestry or lumbering operations is expressly included in agriculture if the operations are performed “by a farmer or on a farm as an incident to or in conjunction with such farming operation.” While “agriculture” is sometimes used in a broad sense as including the science and art of cultivating forests, the language quoted in the preceding sentence is a limitation on the forestry and lumbering operations which will be considered agricultural for purposes of section 3(f). It follows that employees of an employer engaged exclusively in forestry or lumbering operations are not considered agricultural employees.

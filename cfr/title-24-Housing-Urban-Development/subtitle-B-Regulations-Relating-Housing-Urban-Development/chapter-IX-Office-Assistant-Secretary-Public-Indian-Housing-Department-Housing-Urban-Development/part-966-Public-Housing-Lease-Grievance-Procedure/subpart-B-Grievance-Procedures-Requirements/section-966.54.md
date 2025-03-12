@@ -1,0 +1,5 @@
+##### § 966.54 Informal settlement of grievance. #####
+
+Any grievance shall be personally presented, either orally or in writing, to the PHA office or to the office of the project in which the complainant resides so that the grievance may be discussed informally and settled without a hearing. A summary of such discussion shall be prepared within a reasonable time and one copy shall be given to the tenant and one retained in the PHA's tenant file. The summary shall specify the names of the participants, dates of meeting, the nature of the proposed disposition of the complaint and the specific reasons therefor, and shall specify the procedures by which a hearing may be obtained if the complainant is not satisfied.
+
+[40 FR 33406, Aug. 7, 1975. Redesignated at 49 FR 6714, Feb. 23, 1984, as amended at 81 FR 12374, Mar. 8, 2016]

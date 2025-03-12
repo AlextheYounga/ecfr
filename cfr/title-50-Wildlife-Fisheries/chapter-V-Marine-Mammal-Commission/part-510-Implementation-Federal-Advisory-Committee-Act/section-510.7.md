@@ -1,0 +1,5 @@
+##### § 510.7 Closed meetings. #####
+
+(a) Whenever the committee seeks to have all or a portion of a meeting closed to the public on the basis of an exemption provided in 5 U.S.C. 552(b), the Chairperson shall notify the Designee at least 30 days before the scheduled date of the meeting. The notification shall be in writing and shall specify all the reasons for closing any part of the meeting.
+
+(b) If, after consultation with the General Counsel of the Commission, the Designee finds the request to be warranted and in accordance with the policy of the Act, the request shall be granted. The determination of the Designee to grant any such request shall be in writing and shall state the specific reasons for closing all or a part of the meeting. Copies of the determination shall be made available to the public upon request.

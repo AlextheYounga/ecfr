@@ -1,0 +1,5 @@
+##### § 296.6 Valuation of transfers. #####
+
+(a) This section applies to transfers of goods, including computer software, and services provided by the transferor related to the maintenance of those goods, when those goods or services are transferred from one joint venture member to another separately-owned joint venture member.
+
+(b) The greater amount of the actual cost of the transferred goods and services as determined in accordance with applicable Federal cost principles, or 75 percent of the best customer price of the transferred goods and services, shall be deemed to be allowable costs. Best customer price means the GSA schedule price, or if such price is unavailable, the lowest price at which a sale was made during the last twelve months prior to the transfer of the particular good or service.

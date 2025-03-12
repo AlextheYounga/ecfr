@@ -1,0 +1,3 @@
+##### § 452.65 Interval between nominations and election. #####
+
+The Act specifies no time interval between nominations and election. Thus, both may be scheduled to be held at the same meeting if, during a reasonable period prior to such nomination-election meeting, every member eligible to hold office who intends to run for office is afforded the protection provided in section 401(c), including sufficient opportunity to campaign for office.

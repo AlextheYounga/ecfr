@@ -1,0 +1,3 @@
+##### § 725.5 Council studies. #####
+
+All studies and appraisals performed by the Council pursuant to section 102 of Pub. L. 89-80 and any recommendations based on these activities shall include specific analyses for reflection of and opportunities to meet the objectives of E.O. 11988 and E.O. 11990. The Council's Floodplain Management Guidelines (43 FR 6030), E.O. 11988 and E.O. 11990 provide the basic evaluation tools for these analyses.

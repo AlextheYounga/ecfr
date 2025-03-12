@@ -1,0 +1,3 @@
+##### § 417.10 Rights of participants. #####
+
+Every interested person shall have the right to present oral or documentary evidence, to submit evidence in rebuttal, and to conduct such examination or cross-examination as may be required for a full and true disclosure of the facts (subject to the rulings of the Administrative Law Judge), and to object to admissions or exclusions of evidence. The Department of Labor, through its officers and attorneys shall have all rights accorded interested persons by the provisions of this subpart A.

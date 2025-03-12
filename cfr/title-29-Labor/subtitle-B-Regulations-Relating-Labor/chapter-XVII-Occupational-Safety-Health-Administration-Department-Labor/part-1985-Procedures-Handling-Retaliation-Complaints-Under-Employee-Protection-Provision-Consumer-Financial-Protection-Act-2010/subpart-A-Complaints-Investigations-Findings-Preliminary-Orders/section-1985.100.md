@@ -1,0 +1,5 @@
+##### § 1985.100 Purpose and scope. #####
+
+(a) This Part sets forth procedures for, and interpretations of, the employee protection provision of the Consumer Financial Protection Act of 2010, Section 1057 of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (CFPA or the Act), Pub. L. 111-203, 124 Stat. 1376, 1955 (July 21, 2010) (codified at 12 U.S.C. 5567). CFPA provides for employee protection from retaliation because the employee has engaged in protected activity pertaining to the offering or provision of consumer financial products or services.
+
+(b) This part establishes procedures under CFPA for the expeditious handling of retaliation complaints filed by employees, or by persons acting on their behalf. These rules, together with those codified at 29 CFR part 18, set forth the procedures under CFPA for submission of complaints, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges (ALJs), post-hearing administrative review, and withdrawals and settlements. In addition, these rules provide the Secretary's interpretations on certain statutory issues.

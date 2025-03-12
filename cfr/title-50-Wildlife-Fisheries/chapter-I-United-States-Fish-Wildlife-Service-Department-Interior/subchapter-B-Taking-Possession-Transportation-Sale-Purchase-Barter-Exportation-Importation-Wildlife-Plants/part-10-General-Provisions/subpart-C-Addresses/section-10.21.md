@@ -1,0 +1,7 @@
+##### § 10.21 Director. #####
+
+(a) Mail forwarded to the Director for law enforcement purposes should be addressed to Chief, Office of Law Enforcement, at the address provided at 50 CFR 2.1(b).
+
+(b) Mail sent to the Director regarding permits for the Convention on International Trade in Endangered Species of Wild Fauna and Fauna (CITES), injurious wildlife, Wild Bird Conservation Act species, international movement of all ESA-listed endangered or threatened species, and scientific research on, exhibition of, or interstate commerce in nonnative ESA-listed endangered and threatened species should be addressed to: Director, U.S. Fish and Wildlife Service, (Attention: Division of Management Authority), at the address provided for the Division of Management Authority at 50 CFR 2.1(b). Address mail for the following permits to the Regional Director. In the address include one of the following: for import/export licenses and exception to designated port permits (Attention: Import/export license); for native endangered and threatened species (Attention: Endangered/threatened species permit); and for migratory birds and eagles (Attention: Migratory bird permit office). You can find addresses for regional offices at 50 CFR 2.2.
+
+[55 FR 48851, Nov. 23, 1990, as amended at 63 FR 52633, Oct. 1, 1998; 80 FR 26467, May 8, 2015]

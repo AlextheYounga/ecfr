@@ -1,0 +1,3 @@
+##### § 20.50 Purpose and scope. #####
+
+The regulations in this subpart establish the policies and procedures to implement section 11 of the Debt Collection Act of 1982 (Pub. L. 97-365), 31 U.S.C. 3717. Among other things, this statute authorizes the head of each agency to assess interest, penalties and administrative costs against debtors with respect to delinquent debts arising under the agency's program. This subpart establishes the standards and procedures that will be followed by the Department of Labor in assessing such charges.

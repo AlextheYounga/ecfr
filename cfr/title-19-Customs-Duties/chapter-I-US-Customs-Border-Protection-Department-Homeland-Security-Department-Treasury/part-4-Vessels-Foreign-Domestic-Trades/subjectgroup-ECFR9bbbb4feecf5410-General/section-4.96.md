@@ -1,0 +1,43 @@
+##### § 4.96 Fisheries. #####
+
+(a) As used in this section:
+
+(1) The term “convention vessel” means a Canadian fishing vessel which, at the time of its arrival in the United States, is engaged only in the North Pacific halibut fishery and which is therefore entitled to the privileges provided for by the Halibut Fishing Vessels Convention between the United States and Canada signed at Ottawa, Canada, on March 24, 1950 (T.D. 52862);
+
+(2) The term “nonconvention fishing vessel” means any vessel other than a convention vessel which is employed in whole or in part in fishing at the time of its arrival in the United States and
+
+(i) Which is documented under the laws of a foreign county,
+
+(ii) Which is undocumented, of 5 net tons or over, and owned in whole or in part by a person other than a citizen of the United States, or
+
+(iii) Which is undocumented, of less than 5 net tons, and owned in whole or in part by a person who is neither a citizen nor a resident of the United States;
+
+(3) The term “nonconvention cargo vessel” means any vessel which is not employed in fishing at the time of its arrival in the United States, but which is engaged in whole or in part in the transportation of fish or fish products131a and
+
+131a Except as otherwise provided by treaty or convention to which the United States is a party, no foreign-flag vessel shall, whether documented as a cargo vessel or otherwise, land in a port of the United States its catch of fish taken on board such vessels on the high seas or fish products processed therefrom, or any fish or fish products taken on board such vessel on the high seas from a vessel engaged in fishing operations or in the processing of fish or fish products.” (46 U.S.C. 251)
+
+132 [Reserved]
+
+(i) Which is documented under the laws of a foreign country or
+
+(ii) Which is undocumented and owned by a person other than a citizen of the United States;
+
+(4) The term “treaty vessel” means a Canadian fishing vessel which at the time of its arrival in the United States is engaged in the albacore tuna fishery and which is therefore entitled to the privileges provided for by the treaty with Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges, entered into force at Ottawa, Canada, on July 29, 1981 (T.D. 81-227); and
+
+(5) The term “fishing” means the planting, cultivation, or taking of fish, shell fish, marine animals, pearls, shells, or marine vegetation, or the transportation of any of those marine products to the United States by the taking vessel or another vessel under the complete control and management of a common owner or bareboat charterer.
+
+(b) Except as otherwise provided by treaty or convention to which the United States is a party (see paragraphs (d) and (g) of this section), no foreign-flag vessel shall, whether documented as a cargo vessel or otherwise, land in a port of the United States its catch of fish taken on board such vessel on the high seas or fish products processed therefrom, or any fish or fish products taken on board such vessel on the high seas from a vessel engaged in fishing operations or in the processing of fish or fish products. (46 U.S.C. 251). This prohibition applies regardless of the intended ultimate disposition of the fish or fish products (e.g., it applies to transshipments from the foreign vessel to another vessel in United States territorial waters; it applies to landing for transshipment in bond to Canada or Mexico; it applies to landing for exportation under bond; and it applies to landing in a Foreign Trade Zone). However, the prohibition is limited to fish, or fish products processed therefrom, taken on board the foreign vessel on the high seas.
+
+(c) A vessel of the United States to be employed in the fisheries must have a Certificate of Documentation endorsed with a fishery license. “Fisheries” includes processing, storing, transporting (except in foreign commerce), planting, cultivating, catching, taking, or harvesting fish, shellfish, marine animals, pearls, shells, or marine vegetation in the navigable waters of the United States or the exclusive economic zone.
+
+(d) A convention vessel may come into a port of entry on the Pacific coast of the United States, including Alaska, to land its catch of halibut and incidentally-caught sable fish, or to secure supplies, equipment, or repairs. Such a vessel may come into any other port of entry or, if properly authorized to do so under § 101.4(b) of this chapter, into any place other than a port of entry, for the purpose of securing supplies, equipment, or repairs only, but shall not land its catch. A convention vessel which comes into the United States as provided for in this paragraph shall comply with the usual requirements applicable to foreign vessels arriving at and departing from ports of the United States.
+
+(e) A nonconvention fishing vessel, other than a treaty vessel, may come into a port of entry in the United States or, if granted permission under § 101.4(b) of this chapter, into a place other than a port of entry for the purpose of securing supplies, equipment, or repairs, but shall not land its catch. A nonconvention fishing vessel which comes into the United States as provided for in this paragraph shall comply with the usual requirements applicable to foreign vessels arriving at and departing from ports of the United States.
+
+(f) A nonconvention cargo vessel, although not prohibited by law from coming into the United States, shall not be permitted to land in the United States its catch of fish taken on the high seas or any fish or fish products taken on board on the high seas from a vessel employed in fishing or in the processing of fish or fish products, but may land fish taken on board at any place other than the high seas upon compliance with the usual requirements. Before any such fish may be landed the master shall satisfy the port director that the fish were not taken on board on the high seas by presenting declarations of the master and two or more officers or members of the crew of the vessel, of whom the person next in authority to the master shall be one, or other evidence acceptable to the port director which establishes the place of lading to his satisfaction.
+
+(g) A treaty vessel may come into a port or place of the United States named in Annex B of the Treaty with Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges to land its catch of albacore tuna, or to secure fuel, supplies, equipment and repairs. Such a vessel may come into any other port of entry or, if properly authorized to do so under § 101.4(b) of this chapter, into any place other than a port of entry, for the purpose of securing supplies, equipment, or repairs only, but shall not land its catch. A treaty vessel which comes into the United States as provided for in this paragraph shall comply with the usual requirements applicable to foreign vessels arriving at and departing from ports of the United States.
+
+(h) A convention vessel, a nonconvention fishing vessel, a nonconvention cargo vessel, or a treaty vessel, which arrives in the United States in distress shall be subject to the usual requirements applicable to foreign vessels arriving in distress. While in the United States, supplies, equipment, or repairs may be secured, but, except as specified in the next sentence, fish shall not be landed unless the vessel's master, or other authorized representative of the owner, shows to the satisfaction of the port director that it will not be possible, by the exercise of due diligence, for the vessel to transport its catch to a foreign port without spoilage, in which event the port director may allow the vessel upon compliance with all applicable requirements, to land, transship, or otherwise dispose of its catch. Nothing herein shall prevent, upon compliance with normal Customs procedures, a convention vessel arriving in distress from landing its catch of halibut and incidentally-caught sable fish at a port of entry on the Pacific coast, including Alaska; a foreign cargo vessel arriving in distress from landing its cargo of fish taken on board at any place not on the high seas; or a treaty vessel arriving in distress from landing its catch of albacore tuna at a port of entry on the Pacific coast, including Alaska.
+
+[T.D. 82-144, 47 FR 35182, Aug. 13, 1982, as amended by T.D. 83-214, 48 FR 46513, Oct. 13, 1983; T.D. 83-214, 48 FR 50075, Oct. 31, 1983; T.D. 93-12, 58 FR 13197, Mar. 10, 1993]

@@ -1,0 +1,11 @@
+##### § 1307.8 Compliance information. #####
+
+(a) *Cooperation and assistance.* TVA shall to the fullest extent practicable seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to TVA timely, complete and accurate compliance reports at such times, and in such form and containing such information, as TVA may determine to be necessary to enable it to ascertain whether the recipient has complied or is complying with this part. In the case which a primary recipient extends financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(c) *Access to sources of information.* Each recipient shall permit access by TVA during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities, as TVA may require to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and this agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and set forth the efforts it has made to obtain the information.
+
+(d) *Information to employees, beneficiaries and participants.* Each recipient shall make available to employees, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program or activity for which the recipient receives financial assistance, and shall make such information available to them in such manner, as TVA finds necessary to apprise such persons of the protections against discrimination assured them by section 504 and this part.
+
+[45 FR 22895, Apr. 4, 1980, as amended at 68 FR 51356, Aug. 26, 2003]

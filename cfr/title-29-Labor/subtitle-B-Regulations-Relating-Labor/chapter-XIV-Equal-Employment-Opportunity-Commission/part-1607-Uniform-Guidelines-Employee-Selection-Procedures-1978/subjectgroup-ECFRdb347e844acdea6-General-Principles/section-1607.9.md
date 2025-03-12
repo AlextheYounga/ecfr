@@ -1,0 +1,5 @@
+##### § 1607.9 No assumption of validity. #####
+
+A. *Unacceptable substitutes for evidence of validity.* Under no circumstances will the general reputation of a test or other selection procedures, its author or its publisher, or casual reports of its validity be accepted in lieu of evidence of validity. Specifically ruled out are: assumptions of validity based on a procedure's name or descriptive labels; all forms of promotional literature; data bearing on the frequency of a procedure's usage; testimonial statements and credentials of sellers, users, or consultants; and other nonempirical or anecdotal accounts of selection practices or selection outcomes.
+
+B. *Encouragement of professional supervision.* Professional supervision of selection activities is encouraged but is not a substitute for documented evidence of validity. The enforcement agencies will take into account the fact that a thorough job analysis was conducted and that careful development and use of a selection procedure in accordance with professional standards enhance the probability that the selection procedure is valid for the job.

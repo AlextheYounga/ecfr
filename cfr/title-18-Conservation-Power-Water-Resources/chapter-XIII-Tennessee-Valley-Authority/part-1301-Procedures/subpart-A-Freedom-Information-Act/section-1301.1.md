@@ -1,0 +1,5 @@
+##### § 1301.1 General provisions. #####
+
+(a) This subpart contains the rules that TVA follows in processing requests for records under the Freedom of Information Act (FOIA), 5 U.S.C. 552. These rules should be read together with the FOIA, which provides additional information about access to records maintained by TVA. Requests made by individuals for records about themselves under the Privacy Act of 1974, 5 U.S.C. 552a, which are processed under subpart B of this part, are processed under this subpart also. Information routinely provided to the public as part of a regular TVA activity (for example, press releases) may be provided to the public without the need for a FOIA request under this subpart. As a matter of policy, TVA makes discretionary disclosures of records or information exempt from disclosure under the FOIA whenever disclosure would not foreseeably harm an interest protected by a FOIA exemption, but this policy does not create any right enforceable in court.
+
+(b) Nothing in this subpart shall be construed to entitle any person, as of right, to any service or to the disclosure of any record to which such person is not entitled under the FOIA.

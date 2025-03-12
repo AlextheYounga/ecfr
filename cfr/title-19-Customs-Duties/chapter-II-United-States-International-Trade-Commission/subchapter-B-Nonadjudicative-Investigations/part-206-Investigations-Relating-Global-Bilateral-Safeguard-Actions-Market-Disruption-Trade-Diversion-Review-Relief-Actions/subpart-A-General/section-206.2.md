@@ -1,0 +1,5 @@
+##### § 206.2 Identification of type of petition or request. #####
+
+An investigation under this part may be commenced on the basis of a petition, request, resolution, or motion as provided for in the statutory provisions listed in §§ 206.1 and 206.31. Each petition or request, as the case maybe, filed by an entity representative of a domestic industry under this part shall state clearly on the first page thereof “This is a [petition or request] under section [citing the statutory provision] and Subpart [B, C, D, E, F, or G] of part 206 of the rules of practice and procedure of the United States International Trade Commission.” A paper original and eight (8) true paper copies of a petition, request, resolution, or motion shall be filed. One copy of any exhibits, appendices, and attachments to the document shall be filed in electronic form on CD-ROM, DVD, or other portable electronic format approved by the Secretary.
+
+[80 FR 39380, July 9, 2015]

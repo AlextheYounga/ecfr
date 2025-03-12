@@ -1,0 +1,5 @@
+##### § 1960.59 Training of employees and employee representatives. #####
+
+(a) Each agency shall provide appropriate safety and health training for employees including specialized job safety and health training appropriate to the work performed by the employee, for example: Clerical; printing; welding; crane operation; chemical analysis, and computer operations. Such training also shall inform employees of the agency occupational safety and health program, with emphasis on their rights and responsibilities.
+
+(b) Occupational safety and health training for employees of the agency who are representatives of employee groups, such as labor organizations which are recognized by the agency, shall include both introductory and specialized courses and materials that will enable such groups to function appropriately in ensuring safe and healthful working conditions and practices in the workplace and enable them to effectively assist in conducting workplace safety and health inspections. Nothing in this paragraph shall be construed to alter training provisions provided by law, Executive Order, or collective bargaining arrangements.

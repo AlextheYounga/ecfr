@@ -1,0 +1,3 @@
+##### § 500.73 Required purchase of goods or services solely from any person prohibited. #####
+
+The Act prohibits a farm labor contractor, agricultural employer or agricultural association from requiring a migrant or seasonal agricultural worker to purchase goods or services solely from such farm labor contractor, agricultural employer, or agricultural association, or any other person acting as an agent for any person subject to this prohibition.

@@ -1,0 +1,7 @@
+##### § 18.125 How the Service will evaluate a request for a Letter of Authorization (LOA). #####
+
+(a) We will evaluate each request for an LOA based on the specific activity and the specific geographic location. We will determine whether the level of activity identified in the request exceeds that analyzed by us in considering the number of animals likely to be taken and evaluating whether there will be a negligible impact on the species or an adverse impact on the availability of the species for subsistence uses. If the level of activity is greater, we will reevaluate our findings to determine if those findings continue to be appropriate based on the greater level of activity that the applicant has requested. Depending on the results of the evaluation, we may grant the authorization, add further conditions, or deny the authorization.
+
+(b) In accordance with § 18.27(f)(5), we will make decisions concerning withdrawals of an LOA, either on an individual or class basis, only after notice and opportunity for public comment.
+
+(c) The requirement for notice and public comment in paragraph (b) of this section will not apply should we determine that an emergency exists that poses a significant risk to the well-being of the species or stocks of polar bears or Pacific walruses.

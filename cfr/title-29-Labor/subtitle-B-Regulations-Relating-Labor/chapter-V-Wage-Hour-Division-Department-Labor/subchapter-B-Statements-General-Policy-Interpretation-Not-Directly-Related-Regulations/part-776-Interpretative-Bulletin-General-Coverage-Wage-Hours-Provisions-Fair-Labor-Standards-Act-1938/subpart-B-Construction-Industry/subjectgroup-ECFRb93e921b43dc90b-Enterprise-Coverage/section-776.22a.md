@@ -1,0 +1,9 @@
+##### § 776.22a Extension of coverage to employment in certain enterprises. #####
+
+Whether or not individually covered on the traditional basis, an employee is covered on an “enterprise” basis by the Act as amended in 1961 and 1966 if he is “employed in an enterprise engaged in commerce or in the production of goods for commerce” as defined in section 3 (r), (s), of the Act. “Enterprise” is defined generally by section 3(r) to mean “the related activities performed (either through unified operation or common control) by any person or persons for a common business purpose, and includes all such activities whether performed in one or more establishments or by one or more corporate or other organizational units.” If an “enterprise” as thus defined is an “enterprise engaged in commerce or in the production of goods for commerce” as defined and described in section 3(s) of the Act as amended, any employee employed in such enterprise is subject to the provisions of the Act to the same extent as if he were individually engaged “in commerce or in the production of goods for commerce”, unless specifically exempt, section 3(s), insofar as pertinent to the construction industry, reads as follows:
+
+Enterprise engaged in commerce or in the production of goods for commerce means an enterprise which has employees engaged in commerce or in the production of goods for commerce, including employees handling, selling, or otherwise working on goods that have been moved in or produced for commerce by any person, and which:
+
+(3) Is engaged in the business of construction or reconstruction, or both.
+
+Questions of “enterprise coverage” in the construction industry which are not answered in published statements of the Department of Labor may be addressed to the Administrator of the Wage and Hour Division, Department of Labor, Washington, DC 20210, or assistance may be requested from any of the Regional or District Offices of the Division.[35 FR 5543, Apr. 3, 1970]

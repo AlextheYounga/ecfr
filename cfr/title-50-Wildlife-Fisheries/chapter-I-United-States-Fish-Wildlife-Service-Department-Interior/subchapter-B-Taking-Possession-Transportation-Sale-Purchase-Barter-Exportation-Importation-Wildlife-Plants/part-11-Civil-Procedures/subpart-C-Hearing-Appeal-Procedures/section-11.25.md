@@ -1,0 +1,7 @@
+##### § 11.25 Appeal. #####
+
+(a) Either the respondent or the Director may seek an appeal from the decision of an administrative law judge rendered subsequent to January 1, 1974, by the filing of a “Notice of Request for Appeal” with the Director, Office of Hearings and Appeals, U.S. Department of the Interior, 351 South West Temple, Suite 6.300, Salt Lake City, Utah 84101, within 30 calendar days of the date of the administrative law judge's decision. Such notice shall be accompanied by proof of service on the administrative law judge and the opposing party.
+
+(b) Upon receipt of such a request, the Director, Office of Hearings and Appeals, shall appoint an ad hoc appeals board to determine whether an appeal should be granted, and to hear and decide an appeal. To the extent they are not inconsistent herewith, the provisions of subpart G of the Department Hearings and Appeals Procedures in 43 CFR part 4 shall apply to appeal proceedings under this subpart. The determination of the board to grant or deny an appeal, as well as its decision on the merits of an appeal, shall be in writing and become effective as the final administrative determination of the Secretary in the proceeding on the date it is rendered, unless otherwise specified therein.
+
+[39 FR 1159, Jan. 4, 1974, as amended at 81 FR 41865, June 28, 2016]

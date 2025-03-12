@@ -1,0 +1,3 @@
+##### § 20.1 Purpose and scope. #####
+
+The regulations in this subpart establish procedures to implement section 3 of the Debt Collection Act of 1982 (Pub. L. 97-365), 31 U.S.C. 3711(f). This statute, and other applicable authority, authorizes Department heads to disclose to credit reporting agencies information concerning claims owed the United States under programs administered by the Department head. This disclosure is limited to certain information and must be in accordance with procedures set forth in the Debt Collection Act and other applicable laws. This subpart specifies the agency procedures and debtor rights that will be followed in making a disclosure to a credit reporting agency.

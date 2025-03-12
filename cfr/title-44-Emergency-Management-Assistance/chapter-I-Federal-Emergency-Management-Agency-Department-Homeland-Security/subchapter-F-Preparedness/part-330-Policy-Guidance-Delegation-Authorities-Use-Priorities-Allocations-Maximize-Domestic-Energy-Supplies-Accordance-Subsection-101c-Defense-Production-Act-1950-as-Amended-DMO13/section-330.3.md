@@ -1,0 +1,13 @@
+##### § 330.3 Delegation of authority. #####
+
+(a) The functions of the Administrator of the Federal Management Agency under subsection 101(c) of the Act are hereby delegated to the Secretary of Commerce with respect to the areas of responsibility designated and subject to the limitations prescribed and section 7 of Executive Order 11912. Specifically:
+
+(1) The Secretary of Commerce is delegated the function, provided in subsection 101(c)(1) of the Act, of requiring the allocation of, or priority performance under contracts or orders (other than contracts of employment) relating to, supplies of materials and equipment to maximize domestic energy supplies, if the findings specified in subsection 101(c)(3) of the Act are made.
+
+(2) The Secretary of Commerce is delegated those functions provided in subsection 101(c)(3) of the Act, but shall redelegate to the Secretary of Energy the function of making the findings that supplies of materials and equipment are critical and essential to maximize domestic energy supplies. The Secretary of Commerce shall retain the functions of finding that supplies of materials and equipment are scarce, and that the purposes described in subsection 101(c)(3)(B) of the Act cannot reasonably be accomplished without exercising the authority specified in subsection 101(c)(1). This finding will include, to the extent practicable, an assessment of the effects of using the authority for the project in question on other significantly impacted projects.
+
+(b) The Administrator of the Federal Emergency Management Agency shall be responsible for the overall coordination and direction of the functions provided by subsection 101(c) of the Act in a manner similar to the exercise of functions under subsections 101(a) and 101(b) of the Act. In line with these functions, the Administrator is also responsible for resolving any conflicts between claimant agencies regarding particular supplies of materials and equipment. In addition, the Federal Emergency Management Agency will monitor the impact of the implementation of the authorities of subsection 101(c) and other authorities under section 101 of the Defense Production Act on each other and on the national economy.
+
+(c) The functions assigned, delegated, or required to be redelegated by this order to the Secretary of Commerce and the Secretary of Energy may not be redelegated to other agencies without first being coordinated with the Administrator, Federal Emergency Management Agency.
+
+(d) Procedures to execute the above delegations will be carried out in accordance with guidance provided by the Administrator, Federal Emergency Management Agency, pursuant to this order and Executive Order 11912.

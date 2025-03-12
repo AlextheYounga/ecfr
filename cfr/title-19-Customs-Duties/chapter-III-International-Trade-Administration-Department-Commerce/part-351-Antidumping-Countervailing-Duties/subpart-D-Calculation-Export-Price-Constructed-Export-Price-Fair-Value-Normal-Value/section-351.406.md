@@ -1,0 +1,5 @@
+##### § 351.406 Calculation of normal value if sales are made at less than cost of production. #####
+
+(a) *Introduction.* In determining normal value, the Secretary may disregard sales of the foreign like product made at prices that are less than the cost of production of that product. However, such sales will be disregarded only if they are made within an extended period of time, in substantial quantities, and are not at prices which permit recovery of costs within a reasonable period of time. (*See* section 773(b) of the Act.) This section clarifies the meaning of the term “extended period of time” as used in the Act.
+
+(b) *Extended period of time.* The “extended period of time” under section 773(b)(1)(A) of the Act normally will coincide with the period in which the sales under consideration for the determination of normal value were made.

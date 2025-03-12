@@ -1,0 +1,3 @@
+##### § 1922.2 Purpose and scope. #####
+
+Whenever any serious injury results from the employments covered by the Act or whenever it is otherwise appropriate, the Assistant Secretary may appoint a Board of Investigation to hold an investigational hearing during the course of any investigation made under section 41 of the Act. This part prescribes the manner in which any investigational hearings shall be conducted. This part does not apply to any adjudicative proceedings held under section 41(b)(5) of the Act.

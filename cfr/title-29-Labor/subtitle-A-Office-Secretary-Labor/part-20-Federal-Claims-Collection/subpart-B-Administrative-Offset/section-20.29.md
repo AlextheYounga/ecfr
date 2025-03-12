@@ -1,0 +1,3 @@
+##### § 20.29 Notice of offset. #####
+
+Prior to effecting an administrative offset, the agency holding funds of a debtor should advise the debtor of the impending offset. This notice should state that the debtor has been provided his/her rights under the Federal Claims Collection Standards, that a determination has been made that collection by administrative offset would be in the best interests of the United States, the amount of the offset, and the source of funds from which the offset will be made.

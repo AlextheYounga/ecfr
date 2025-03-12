@@ -1,0 +1,3 @@
+##### § 270.322 Voluntary permission to enter and inspect property where building components, materials, artifacts, and records with respect to a building failure are located. #####
+
+After the Director establishes and deploys a Team, members of the public are encouraged to voluntarily permit Team members to enter property where building components, materials, artifacts, and records with respect to the building failure are located, and take action necessary, appropriate, and reasonable in light of the nature of the property to be inspected and to carry out the duties of the Team.

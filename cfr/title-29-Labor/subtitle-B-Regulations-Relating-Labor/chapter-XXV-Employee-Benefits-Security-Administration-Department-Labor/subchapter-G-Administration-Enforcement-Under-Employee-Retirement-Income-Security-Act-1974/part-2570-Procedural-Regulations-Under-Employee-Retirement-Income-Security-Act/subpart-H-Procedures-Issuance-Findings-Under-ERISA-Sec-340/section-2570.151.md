@@ -1,0 +1,3 @@
+##### § 2570.151 In general. #####
+
+If there is an attempt to assert state jurisdiction or the application of state law, either by the issuance of a state administrative or court subpoena to, or the initiation of administrative or judicial proceedings against, a plan or other arrangement that alleges it is covered by title I of ERISA, 29 U.S.C. 1003, the plan or other arrangement may petition the Secretary to make a finding under section 3(40)(A)(i) of ERISA that it is a plan established or maintained under or pursuant to an agreement or agreements that the Secretary finds to be collective bargaining agreements for purposes of section 3(40) of ERISA.

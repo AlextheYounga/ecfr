@@ -1,0 +1,5 @@
+##### § 6.30 Form of requests. #####
+
+(a) An individual who seeks access to his or her record or to any information pertaining to the individual which is contained in a system of records should notify the system manager at the address indicated in the Federal Register notice describing the pertinent system. The notice should bear the legend “Privacy Act Request” both on the request letter and on the envelope. It will help in the processing of a request if the request letter contains the complete name and identifying number of the system as published in the Federal Register; the full name and address of the subject individual; a brief description of the nature, time, place, and circumstances of the individual's association with FEMA; and any other information which the individual believes would help the system manager to determine whether the information about the individual is included in the system of records. The system manager shall answer or acknowledge the request within 10 workdays of its receipt by FEMA.
+
+(b) The system manager, at his discretion, may accept oral requests for access subject to verification of identity.

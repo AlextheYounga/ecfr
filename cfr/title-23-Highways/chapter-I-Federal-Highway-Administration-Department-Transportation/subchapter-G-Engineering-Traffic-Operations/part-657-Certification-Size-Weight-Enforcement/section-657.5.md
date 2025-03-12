@@ -1,0 +1,3 @@
+##### § 657.5 Policy. #####
+
+Federal Highway Administration (FHWA) policy is that each State enforce vehicle size and weight laws to assure that violations are discouraged and that vehicles traversing the highway system do not exceed the limits specified by law. These size and weight limits are based upon design specifications and safety considerations, and enforcement shall be developed and maintained both to prevent premature deterioration of the highway pavement and structures and to provide a safe driving environment.

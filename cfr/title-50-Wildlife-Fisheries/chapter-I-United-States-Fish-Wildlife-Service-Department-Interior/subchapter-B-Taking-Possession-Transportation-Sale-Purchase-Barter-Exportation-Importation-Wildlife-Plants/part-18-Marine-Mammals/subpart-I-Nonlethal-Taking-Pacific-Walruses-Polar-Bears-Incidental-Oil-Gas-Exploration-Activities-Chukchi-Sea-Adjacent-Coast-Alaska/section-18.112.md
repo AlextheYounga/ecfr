@@ -1,0 +1,5 @@
+##### § 18.112 In what specified geographic region does this subpart apply? #####
+
+This subpart applies to the specified geographic region defined as the continental shelf of the Arctic Ocean adjacent to western Alaska. This area includes the waters (State of Alaska and Outer Continental Shelf waters) and seabed of the Chukchi Sea, which encompasses all waters north and west of Point Hope (68°20′20″ N, −166°50′40 W, BGN 1947) to the U.S.-Russia Convention Line of 1867, west of a north-south line through Point Barrow (71°23′29″ N, −156°28′30 W, BGN 1944), and up to 200 miles north of Point Barrow. The region also includes the terrestrial coastal land 25 miles inland between the western boundary of the south National Petroleum Reserve - Alaska (NPR-A) near Icy Cape (70°20′00″ N, −148°12′00 W) and the north-south line from Point Barrow. This terrestrial region encompasses a portion of the Northwest and South Planning Areas of the NPR-A. Figure 1 shows the area where this subpart applies.
+
+![](/graphics/er12jn13.000.gif)

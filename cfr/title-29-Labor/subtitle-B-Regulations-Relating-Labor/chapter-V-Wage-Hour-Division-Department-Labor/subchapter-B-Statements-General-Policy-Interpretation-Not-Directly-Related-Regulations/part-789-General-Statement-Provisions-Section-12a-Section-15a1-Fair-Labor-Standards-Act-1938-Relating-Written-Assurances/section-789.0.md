@@ -1,0 +1,15 @@
+##### § 789.0 Introductory statement. #####
+
+(a) Section 12(a) and section 15(a)(1) of the Fair Labor Standards Act of 19381 (hereinafter referred to as the (Act) contain certain prohibitions against putting into interstate or foreign commerce any goods ineligible for shipment (commonly called “hot goods”), in the production of which the child-labor or wage-hour standards of the Act were not observed. These sections were amended by the Fair Labor Standards Amendments of 19492 to provide, among other things, protection against these “hot goods” prohibitions with respect to purchasers “who acquired such goods for value without notice of such violation” if they did so “in good faith in reliance on” a specified “written assurance.”
+
+1 Pub. L. 718, 75th Cong., 3d sess. (52 Stat. 1060), as amended by the Act of June 26, 1940 (Pub. Res. No. 88, 76th Cong., 3d sess., 54 Stat. 616); by Reorganization Plan No. 2 (60 Stat. 616); by Reorganization Plan No. 2 (60 Stat. 1095), effective July 16, 1946; by the Portal-to-Portal Act of 1947, approved May 14, 1947 (61 Stat. 84); by the Fair Labor Standards Amendments of 1949, approved October 26, 1949 (Pub. L. 393, 81st Cong., 1st sess., 63 Stat. 910); by Reorganization Plan No. 6 of 1950 (15 FR 3174), effective May 24, 1950; and by the Fair Labor Standards Amendments of 1955, approved August 12, 1955 (Pub. L. 381, 84th Cong., 1st sess., C. 867, 69 Stat. 711).
+
+2 Pub. L. 393, 81st Cong., 1st sess. 963 Stat. 910.
+
+(b) These amendments to the Act relating to purchasers in good faith and written assurances are for the protection of purchasers. The Act does not provide that a purchaser must secure such an assurance or that a supplier must give it. The amendments confer no express authority for the Department of Labor to require the use of these assurances or to prescribe their form or content. Whether any particular written assurance affords the statutory protection to a purchaser who acquires his goods in good faith and for value without notice of an applicable violation, is left for determination by the courts. Opinions issued by the Department of Labor on this question are advisory only and represent simply the Department's best judgment as to what the courts may hold.
+
+(c) The interpretations contained in this general statement are confined to the statutory protection accorded these purchasers in section 12(a) and section 15(a)(1) of the Act. These interpretations, with respect to this protection of purchasers, indicate the construction of the law which the Secretary of Labor and the Administrator of the Wage and Hour Division3 believe to be correct and which will guide them in the performance of their administrative duties under the Act unless and until they are otherwise directed by authoritative decisions of the courts or conclude, upon re-examination of an interpretation, that it is incorrect.
+
+3 The functions of the Secretary and the Administrator under the Act are delineated in 13 FR 2195, 12 FR 6971, and 15 FR 3290.
+
+[15 FR 5047, Aug. 5, 1950, as amended at 21 FR 1450, Mar. 6, 1956]

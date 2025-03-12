@@ -1,0 +1,3 @@
+##### § 296.10 Third party in-kind contribution of research services. #####
+
+NIST shall not issue a TIP award to a single recipient or joint venture whose proposed budget includes the use of third party in-kind contribution of research as cost share, and no costs shall be incurred under such a TIP project, until such time as an agreement between the recipient and the third party contributor of in-kind research has been executed by both parties and approved by NIST.

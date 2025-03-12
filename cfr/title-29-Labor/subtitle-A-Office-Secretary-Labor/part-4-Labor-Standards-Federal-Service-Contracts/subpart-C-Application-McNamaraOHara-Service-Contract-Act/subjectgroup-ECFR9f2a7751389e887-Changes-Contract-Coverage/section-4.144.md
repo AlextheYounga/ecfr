@@ -1,0 +1,5 @@
+##### § 4.144 Contract modifications affecting amount. #####
+
+Where a contract that was originally issued in an amount not in excess of $2,500 is later modified so that its amount may exceed that figure, all the provisions of section 2(a) of the Act, and the regulations thereunder, are applicable from the date of modification to the date of contract completion. In the event of such modification, the contracting officer shall immediately obtain a wage determination from the Department of Labor using the e98 application or directly from WDOL, and insert the required contract clauses and any wage determination issued into the contract. In the event that a contract for services subject to the Act in excess of $2,500 is modified so that it cannot exceed $2,500, compliance with the provisions of section 2(a) of the Act and the contract clauses required thereunder ceases to be an obligation of the contractor when such modification becomes effective.
+
+[70 FR 50899, Aug. 26, 2005]

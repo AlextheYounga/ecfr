@@ -1,0 +1,3 @@
+##### § 147.0 Scope. #####
+
+This part governs the entry of merchandise intended for exhibition or for use in constructing, installing, or maintaining foreign exhibits at trade fairs which have been so designated by the Secretary of Commerce. It also contains provisions concerning Customs supervision of the merchandise, and the disposition of the merchandise after the fair has closed. The entry of articles which may be admitted free of duty under other provisions of this chapter may be governed by those provisions rather than the regulations in this part.

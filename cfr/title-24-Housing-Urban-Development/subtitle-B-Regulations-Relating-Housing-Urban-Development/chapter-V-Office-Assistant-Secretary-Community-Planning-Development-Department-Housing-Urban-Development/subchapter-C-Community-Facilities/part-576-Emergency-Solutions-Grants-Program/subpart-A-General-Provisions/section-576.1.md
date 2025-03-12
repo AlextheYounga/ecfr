@@ -1,0 +1,3 @@
+##### § 576.1 Applicability and purpose. #####
+
+This part implements the Emergency Solutions Grants (ESG) program authorized by subtitle B of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11371-11378). The program authorizes the Department of Housing and Urban Development (HUD) to make grants to States, units of general purpose local government, and territories for the rehabilitation or conversion of buildings for use as emergency shelter for the homeless, for the payment of certain expenses related to operating emergency shelters, for essential services related to emergency shelters and street outreach for the homeless, and for homelessness prevention and rapid re-housing assistance.

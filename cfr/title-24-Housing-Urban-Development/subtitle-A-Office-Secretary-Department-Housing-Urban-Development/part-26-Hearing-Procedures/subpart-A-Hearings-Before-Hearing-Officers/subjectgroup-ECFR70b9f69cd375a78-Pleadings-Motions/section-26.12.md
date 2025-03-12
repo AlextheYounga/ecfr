@@ -1,0 +1,3 @@
+##### § 26.12 Notice of administrative action. #####
+
+In every case, there shall be a notice of administrative action. The notice shall be in writing and inform the party of the nature of that administrative action. The notice shall state the reasons for the proposed or imposed action, except where general terms are permitted by 2 CFR part 2424, and shall inform the party of any right to a hearing to challenge the administrative action, and the manner and time in which to request such hearing. A supplemental notice may be issued in the discretion of the initiating official to add to or modify the reasons for the action.

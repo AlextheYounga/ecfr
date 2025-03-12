@@ -1,0 +1,7 @@
+##### § 667.5 Data time period, availability, and sources. #####
+
+(a) The beginning date for every evaluation under this part shall be January 1, 1997. The end date must be no earlier than December 31 of the year preceding the date on which the evaluation is due for completion. Evaluations should cover a longer period if useful data is reasonably available. Subject to the timing provisions in § 667.7, evaluations must include any road, highway, or bridge that, on or after January 1, 1997, required repair and reconstruction on two or more occasions due to emergency events.
+
+(b) State DOTs must use reasonable efforts to obtain the data needed for the evaluation. If the State DOT determines the necessary data for the evaluation is unavailable, the State DOT must document in the evaluation the lack of available data for that facility.
+
+(c) A State DOT may use whatever sources and types of data it determines are useful to the evaluation. Available data sources include reports or other information required to receive emergency repair funds under title 23, other sources used to apply for Federal or nonfederal funding, and State or local records pertaining to damage sustained and/or funding sought.

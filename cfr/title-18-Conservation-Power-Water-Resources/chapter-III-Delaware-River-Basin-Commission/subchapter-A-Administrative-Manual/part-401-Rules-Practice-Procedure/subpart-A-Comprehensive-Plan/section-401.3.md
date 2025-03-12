@@ -1,0 +1,3 @@
+##### § 401.3 Other agencies. #####
+
+Projects of the federal agencies affecting the water resources of the Basin, subject to the limitations in Section 1.4 of the Compact, shall be governed by Section 11.1 of the Compact. Projects of the signatory states, their political subdivisions and public corporations affecting the water resources of the Basin, shall be governed by the provisions of Section 11.2 of the Compact.

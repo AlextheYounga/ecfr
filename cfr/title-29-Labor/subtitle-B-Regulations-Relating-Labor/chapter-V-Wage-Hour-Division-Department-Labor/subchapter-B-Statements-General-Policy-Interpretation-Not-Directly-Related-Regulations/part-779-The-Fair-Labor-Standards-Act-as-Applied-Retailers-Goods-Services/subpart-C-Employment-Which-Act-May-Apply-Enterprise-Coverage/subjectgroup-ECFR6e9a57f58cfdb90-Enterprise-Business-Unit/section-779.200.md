@@ -1,0 +1,3 @@
+##### § 779.200 Coverage expanded by 1961 and 1966 amendments. #####
+
+The 1961 amendments for the first time since the enactment of the Fair Labor Standards Act of 1938 provided that all employees in a particular business unit are covered by the Act. Prior to the 1961 amendments each employee's coverage depended on whether that employee's activities were in commerce or constituted the production of goods for commerce. All employees employed in an “enterprise” described in section 3(s)(1) through (5) of the Act as it was amended in 1961 and section 3(s)(1) through (4) of the Act as amended in 1966 are also covered. Thus, it is necessary to consider the meaning of the term “enterprise” as used in the Act.

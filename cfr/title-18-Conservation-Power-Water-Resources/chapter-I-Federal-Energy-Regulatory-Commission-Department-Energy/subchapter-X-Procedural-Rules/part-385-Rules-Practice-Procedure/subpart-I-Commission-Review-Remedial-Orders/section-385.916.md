@@ -1,0 +1,5 @@
+##### § 385.916 Withdrawal of petition for review (Rule 916). #####
+
+(a) At any time, including after a hearing has been held or convened, the petitioner may submit to the presiding officer, and serve on other participants in the proceeding, a withdrawal of the petition for review of the contested order. The presiding officer will thereupon issue, and serve the participants, an order terminating the proceeding conducted pursuant to this subpart, which order will be effective 10 days after issuance.
+
+(b) Termination of the proceeding under paragraph (a) of this section, may be appealed to the Commission, within 10 days after issuance of the termination order, except that if the Commission does not act on an appeal within 30 days, it is deemed denied. The termination order is stayed pending the appeal. If the Commission rescinds the termination order, the proceeding will continue in accordance with this subpart.

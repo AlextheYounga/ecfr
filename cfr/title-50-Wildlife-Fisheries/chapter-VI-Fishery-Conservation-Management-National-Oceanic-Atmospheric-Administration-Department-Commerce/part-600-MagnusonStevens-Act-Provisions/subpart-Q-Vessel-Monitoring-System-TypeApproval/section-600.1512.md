@@ -1,0 +1,3 @@
+##### § 600.1512 Vessel Monitoring System type-approval period. #####
+
+A type-approval or type-approval renewal is valid for a period of 3 years from the date of the Federal Register notice issued pursuant to § 600.1510, subject to the revocation process at § 600.1514. All MTUs, EMTUs, MCSs, and bundles with valid type-approvals on January 23, 2015 will continue to be type-approved. However, if the type-approval date is more than 3 years old, the type-approval will expire on February 23, 2015. The type-approval holder may request a type-approval renewal as provided in § 600.1513.

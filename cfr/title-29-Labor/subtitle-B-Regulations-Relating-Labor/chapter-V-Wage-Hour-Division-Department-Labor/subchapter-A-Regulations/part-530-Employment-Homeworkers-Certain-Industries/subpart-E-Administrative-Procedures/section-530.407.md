@@ -1,0 +1,3 @@
+##### § 530.407 Procedures for initiating and undertaking review. #####
+
+Any party desiring review of the decision of the Administrative Law Judge may petition the Secretary to review the decision. To be effective, such petition must be received by the Secretary within 30 days of the date of the decision of the Administrative Law Judge. Copies of the petition shall be served on all parties and on the Chief Administrative Law Judge. If the Secretary does not issue a notice accepting a petition for review within 30 days after receipt of a timely filing of the petition, or within 30 days of the date of the decision if no petition has been received, the decision of the Administrative Law Judge shall be deemed the final agency action.

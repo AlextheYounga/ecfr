@@ -1,0 +1,3 @@
+##### § 18.24 Briefs from amicus curiae. #####
+
+The United States or an officer or agency thereof, or a State, Territory, Commonwealth, or the District of Columbia may file an amicus brief without the consent of the parties or leave of the judge. Any other amicus curiae may file a brief only by leave of the judge, upon the judge's request, or if the brief states that all parties have consented to its filing. A request for leave to file an amicus brief must be made by written motion that states the interest of the movant in the proceeding. The deadline for submission of an amicus brief will be set by the presiding judge.

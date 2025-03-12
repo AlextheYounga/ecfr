@@ -1,0 +1,5 @@
+##### § 127.25 Advertisement of sale. #####
+
+(a) *Regular advertising.* Except as prescribed in § 127.28 (c), (d), and (h), and in paragraph (b) of this section, a brief notice of the time and place of sale shall be given for three successive weeks, immediately preceding the sale, in one newspaper of extensive circulation published at the port where the sale is to be held. The newspaper is to be selected by the port director and publication of the notice shall be authorized on the standard form provided for that purpose. The notice shall designate the place where catalogs may be obtained and a reasonable opportunity to inspect the merchandise shall be afforded prospective purchasers.
+
+(b) *Where proceeds are insufficient to pay expenses and duties.* If the port director is satisfied that the proceeds of the sale will not be sufficient to pay the expenses and duties, a written or printed notice of the sale in lieu of the advertisement shall be conspicuously posted in the customhouse, and, if deemed necessary, at some other proper place for the time specified in paragraph (a) of this section.

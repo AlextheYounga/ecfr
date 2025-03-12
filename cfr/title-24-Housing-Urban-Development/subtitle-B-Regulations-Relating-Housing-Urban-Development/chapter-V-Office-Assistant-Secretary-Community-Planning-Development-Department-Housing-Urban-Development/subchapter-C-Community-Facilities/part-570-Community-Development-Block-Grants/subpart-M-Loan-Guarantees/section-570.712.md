@@ -1,0 +1,11 @@
+##### § 570.712 Collection of fees; procedure to determine amount of the fee. #####
+
+This section contains additional procedures for guarantees of debt obligations under section 108 when HUD is required or authorized to collect fees to pay the credit subsidy costs of the loan guarantee program.
+
+(a) *Collection of fees.* HUD may collect fees from borrowers for the purpose of paying the credit subsidy cost of the loan guarantee. Each public entity or its designated public agency and each State issuing debt obligations under this subpart is responsible for the payment of any and all fees charged pursuant to this section. The fees are payable from the grant allocated to the issuer pursuant to the Act (including program income derived therefrom) or from other sources, but are only payable from guaranteed loan funds if the fee is deducted from the disbursement of guaranteed loan funds.
+
+(b) *Amount and determination of fee.* (1) HUD shall calculate the amount of the fee as a percentage of the principal amount of the guaranteed loan as provided by this section, based on a determination that the fees when collected will reduce the credit subsidy cost to the amount established by applicable appropriation acts. The amount of the fee payable by the public entity or State shall be based on the date of the loan guarantee commitment and shall be determined by applying the percentages announced by Federal Register notice to guaranteed loan disbursements as they occur or periodically to outstanding principal balances, or both.
+
+(2) HUD shall publish in the Federal Register the fees required under paragraph (a) of this section, announcing the fee to be applied, the effective date of the fee, and any other necessary information regarding payment of the fee and, if necessary, provide a 30-day public comment period for the purpose of inviting comment on the proposed fee before adopting changes to the assumptions underlying the fee calculation or if the fee structure itself raises new considerations for Borrowers. HUD will publish a second Federal Register notice, if necessary, after consideration of public comments.
+
+[80 FR 67633, Nov. 3, 2015]

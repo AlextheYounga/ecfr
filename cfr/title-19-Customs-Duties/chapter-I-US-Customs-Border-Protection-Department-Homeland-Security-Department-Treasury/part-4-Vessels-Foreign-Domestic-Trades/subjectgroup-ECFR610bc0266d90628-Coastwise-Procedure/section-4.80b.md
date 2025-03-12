@@ -1,0 +1,7 @@
+##### § 4.80b Coastwise transportation of merchandise. #####
+
+(a) *Effect of manufacturing or processing at intermediate port or place.* A coastwise transportation of merchandise takes place, within the meaning of the coastwise laws, when merchandise laden at a point embraced within the coastwise laws (“coastwise point”) is unladen at another coastwise point, regardless of the origin or ultimate destination of the merchandise. However, merchandise is not transported coastwise if at an intermediate port or place other than a coastwise point (that is at a foreign port or place, or at a port or place in a territory or possession of the United States not subject to the coastwise laws), it is manufactured or processed into a new and different product, and the new and different product thereafter is transported to a coastwise point.
+
+(b) *Request for ruling.* Interested parties may request an advisory ruling from Headquarters, U.S. Customs and Border Protection, Attention: Cargo Security, Carriers & Immigration Branch, Office of International Trade, as to whether a specific action taken or to be taken with respect to merchandise at the intermediate port or place will result in its becoming a new and different product for purposes of this section. The request shall be filed in accordance with the provisions of part 177 of this chapter.
+
+[T.D. 79-193, 44 FR 42178, July 19, 1979, as amended by T.D. 91-77, 56 FR 46114, Sept. 10, 1991; 56 FR 47268, Sept. 18, 1991; T.D. 99-27, 64 FR 13675, Mar. 22, 1999]

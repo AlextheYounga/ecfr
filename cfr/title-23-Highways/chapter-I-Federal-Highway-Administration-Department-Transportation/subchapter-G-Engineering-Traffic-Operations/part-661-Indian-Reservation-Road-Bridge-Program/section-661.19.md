@@ -1,0 +1,3 @@
+##### § 661.19 When is a bridge eligible for replacement? #####
+
+To be eligible for replacement, the bridge must be considered structurally deficient or functionally obsolete and must be in accordance with 23 CFR part 650.409(a) for bridge replacement. After an existing bridge is replaced under the IRRBP, it must be taken completely out of service and removed from the inventory. If the original bridge is considered historic, it must still be removed from the inventory, however the Tribe is allowed to request an exemption from the BIA Division of Transportation (BIADOT) to allow the bridge to remain in place.

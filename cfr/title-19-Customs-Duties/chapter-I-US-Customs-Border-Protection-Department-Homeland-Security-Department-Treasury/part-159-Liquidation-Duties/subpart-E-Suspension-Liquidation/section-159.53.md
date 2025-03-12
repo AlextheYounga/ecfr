@@ -1,0 +1,3 @@
+##### § 159.53 Proof of duty-free or reduced-duty status. #####
+
+Various provisions in part 10 of this chapter provide for suspending liquidation of entries covering certain merchandise entered at a conditionally free or conditionally reduced rate of duty, pending production of required proof. Upon production of the required proof, or upon failure to produce the proof within the required time, the entries shall be liquidated accordingly.

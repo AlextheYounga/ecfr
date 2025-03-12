@@ -1,0 +1,7 @@
+##### § 107.35 Complaints. #####
+
+(a) The Assistant Secretary for FH&EO, or designee, shall conduct such compliance reviews, investigations, inquiries, and informal meetings as may be necessary to effect compliance with this part.
+
+(b) Complaints under this part may be filed by any person and must be filed within one year of date of the alleged act of discrimination unless the time for filing is extended by the Assistant Secretary for FH&EO. Complaints must be signed by the complainant and may be filed with the Assistant Secretary for Fair Housing and Equal Opportunity, Department of Housing and Urban Development, Washington, DC 20410, or any Regional or Area Office of the Department. All complaints shall be forwarded to the Director, Office of Regional Fair Housing and Equal Opportunity in the appropriate Regional Office which has jurisdiction in the area in which the property is located.
+
+(c) Upon receipt of a timely complaint, the Director of the Office of Regional FH&EO shall determine whether the complaint indicates a possible violation of the Executive Order or this part. The Director of the Office of Regional FH&EO or a designee within a reasonable period of time shall conduct an investigation into the facts. The complainant shall be notified of the determination.

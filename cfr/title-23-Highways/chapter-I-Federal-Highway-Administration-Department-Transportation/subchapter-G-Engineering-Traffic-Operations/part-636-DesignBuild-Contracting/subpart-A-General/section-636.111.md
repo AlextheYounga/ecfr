@@ -1,0 +1,5 @@
+##### § 636.111 Can oral presentations be used during the procurement process? #####
+
+(a) Yes, the use of oral presentations as a substitute for portions of a written proposal can be effective in streamlining the source selection process. Oral presentations may occur at any time in the acquisition process, however, you must comply with the appropriate State procurement integrity standards.
+
+(b) Oral presentations may substitute for, or augment, written information. You must maintain a record of oral presentations to document what information you relied upon in making the source selection decision. You may decide the appropriate method and level of detail for the record (e.g., videotaping, audio tape recording, written record, contracting agency notes, copies of offeror briefing slides or presentation notes). A copy of the record should be placed in the contract file and may be provided to offerors upon request.

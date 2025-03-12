@@ -1,0 +1,3 @@
+##### § 511.305 Policy. #####
+
+This part establishes the provisions and parameters for the Real-Time System Management Information Program for State DOTs, other responsible agencies, and partnerships with other commercial entities in establishing real-time information programs that provide accessibility to traffic and travel conditions information by other public agencies, the traveling public, and by other parties who may deliver value-added information products.

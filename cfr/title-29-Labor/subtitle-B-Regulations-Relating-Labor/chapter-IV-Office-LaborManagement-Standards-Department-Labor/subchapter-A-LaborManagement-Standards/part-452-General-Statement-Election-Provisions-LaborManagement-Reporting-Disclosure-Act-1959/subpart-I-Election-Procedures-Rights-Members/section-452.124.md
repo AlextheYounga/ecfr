@@ -1,0 +1,5 @@
+##### § 452.124 Delegates from units which are not labor organizations. #####
+
+To the extent that units, such as committees, which do not meet the definition of a labor organization under the Act55 participate in the election of officers of a national or international labor organization or an intermediate body, through delegates to the convention or otherwise, the provisions of title IV are, nevertheless, applicable to the election of such delegates. The following example is typical in organizations of railway employees. The chairman of a local grievance committee, which is not a labor organization under the Act, is not an officer within the meaning of the Act. If such a local chairman is a delegate to the general grievance committee, which is considered to be an intermediate body under the Act, however, he must be elected by secret ballot vote of the members he represents, if he votes for officers of the general grievance committee.
+
+55 Act, sec. 3 (i) and (j) and part 451 of this chapter.

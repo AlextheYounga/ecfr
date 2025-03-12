@@ -1,0 +1,5 @@
+##### § 946.3 Notification of changes in operations and restructuring. #####
+
+(a) Beginning with the Fiscal Year 1994 budget submission to Congress and until the modernization is complete, the NWS will submit to Congress annually a National Implementation Plan. The NWS may amend a Plan prior to the submission of the next Plan to include modifications provided that notification of any additional proposed changes in operations or identification of any additional proposed restructuring actions shall be provided to Congress at least 90 days prior to the date of the action.
+
+(b) The NWS will neither change operations at, nor restructure, any field office after September 30, 1993, pursuant to the implementation of the Strategic Plan unless it has provided notification of the relevant action in the most current edition of the National Implementation Plan, or an amendment thereof, and has complied with all requirements of these regulations.

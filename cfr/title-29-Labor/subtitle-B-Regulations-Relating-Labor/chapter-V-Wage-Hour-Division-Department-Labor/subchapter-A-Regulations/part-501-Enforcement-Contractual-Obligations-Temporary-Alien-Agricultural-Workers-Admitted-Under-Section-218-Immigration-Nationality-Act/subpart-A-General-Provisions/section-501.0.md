@@ -1,0 +1,3 @@
+##### § 501.0 Introduction. #####
+
+The regulations in this part cover the enforcement of all contractual obligations, including requirements under 8 U.S.C. 1188 and 20 CFR part 655, subpart B applicable to the employment of H-2A workers and workers in corresponding employment, including obligations to offer employment to eligible United States (U.S.) workers and to not lay off or displace U.S. workers in a manner prohibited by the regulations in this part or 20 CFR part 655, subpart B.

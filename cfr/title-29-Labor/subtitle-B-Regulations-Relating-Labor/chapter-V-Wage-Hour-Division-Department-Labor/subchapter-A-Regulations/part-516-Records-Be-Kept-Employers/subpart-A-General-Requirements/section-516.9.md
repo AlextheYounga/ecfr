@@ -1,0 +1,7 @@
+##### § 516.9 Petitions for exceptions. #####
+
+(a) *Submission of petitions for relief.* Any employer or group of employers who, due to peculiar conditions under which they must operate, desire authority to maintain records in a manner other than required in this part, or to be relieved of preserving certain records for the period specified in this part, may submit a written petition to the Administrator requesting such authority, setting forth the reasons therefor.
+
+(b) *Action on petitions.* If, after review of the petition, the Administrator finds that the authority requested will not hinder enforcement of the Act, the Administrator may grant such authority limited by any conditions determined necessary and subject to subsequent revocation. Prior to revocation of such authority because of noncompliance with any of the prescribed conditions, the employer will be notified of the reasons and given an opportunity to come into compliance.
+
+(c) *Compliance after submission of petitions.* The submission of a petition or the delay of the Administrator in acting upon such petition will not relieve any employer or group of employers from any obligations to comply with all the applicable requirements of the regulations in this part. However, the Administrator will provide a response to all petitions as soon as possible.

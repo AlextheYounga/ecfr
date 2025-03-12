@@ -1,0 +1,9 @@
+##### § 4.104 Amendment of exemption. #####
+
+(a) An exemption holder must construct and operate its project as described in the exemption application approved by the Commission or its delegate.
+
+(b) If an exemption holder desires to change the design, location, method of construction or operation of its project, it must first notify the appropriate Federal and state fish and wildlife agencies and inform them in writing of the changes it intends to implement. If these agencies determine that the changes would not cause the project to violate the terms and conditions imposed by the agencies, and if the changes would not materially alter the design, location, method of construction or operation of the project, the exemption holder may implement the changes. If any of these agencies determines that the changes would cause the project to violate the terms and conditions imposed by that agency, or if the changes would materially alter the design, location, method of construction or the operation of the project works, the exemption holder may not implement the changes without first acquiring authorization from the Commission to amend its exemption or acquiring a license for the project works that authorizes the project, as changed.
+
+(c) An application to amend an exemption may be filed only by the holder of an exemption. An application to amend an exemption will be governed by the Commission's regulations governing applications for exemption. The Commission will not accept applications in competition with an application to amend an exemption, unless the Director of the Office of Energy Projects determines that it is in the public interest to do so.
+
+[Order 413, 50 FR 11688, Mar. 25, 1985, as amended by Order 699, 72 FR 45324, Aug. 14, 2007]

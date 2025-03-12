@@ -1,0 +1,3 @@
+##### § 779.12 Commerce. #####
+
+*Commerce* as used in the Act includes interstate and foreign commerce. It is defined in section 3(b) of the Act to mean “trade, commerce, transportation, transmission or communication among the several States or between any State and any place outside thereof.” (For the definition of “State” see § 779.16.) The application of this definition and the kinds of activities which it includes are discussed at length in the interpretative bulletin on general coverage of the Act, part 776 of this chapter.

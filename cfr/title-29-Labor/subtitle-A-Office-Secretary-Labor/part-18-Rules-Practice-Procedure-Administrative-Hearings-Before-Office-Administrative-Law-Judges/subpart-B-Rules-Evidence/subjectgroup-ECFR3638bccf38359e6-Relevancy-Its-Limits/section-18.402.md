@@ -1,0 +1,3 @@
+##### § 18.402 Relevant evidence generally admissible; irrelevant evidence inadmissible. #####
+
+All relevant evidence is admissible, except as otherwise provided by the Constitution of the United States, by Act of Congress, pursuant to executive order, by these rules, or by other rules or regulations prescribed by the administrative agency pursuant to statutory authority. Evidence which is not relevant is not admissible.

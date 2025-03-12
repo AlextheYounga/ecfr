@@ -1,0 +1,3 @@
+##### § 578.79 Limitation on transitional housing. #####
+
+A homeless individual or family may remain in transitional housing for a period longer than 24 months, if permanent housing for the individual or family has not been located or if the individual or family requires additional time to prepare for independent living. However, HUD may discontinue assistance for a transitional housing project if more than half of the homeless individuals or families remain in that project longer than 24 months.

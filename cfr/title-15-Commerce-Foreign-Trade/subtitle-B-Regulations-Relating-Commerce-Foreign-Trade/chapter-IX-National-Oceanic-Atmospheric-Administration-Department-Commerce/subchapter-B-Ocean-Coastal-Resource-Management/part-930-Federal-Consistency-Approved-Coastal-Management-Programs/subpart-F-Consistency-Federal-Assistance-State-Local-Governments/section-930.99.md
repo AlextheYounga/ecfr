@@ -1,0 +1,3 @@
+##### § 930.99 Availability of mediation for federal assistance disputes. #####
+
+In the event of a serious disagreement between a Federal agency and the State agency regarding whether a federal assistance activity is subject to the consistency requirement either party may request the OCRM mediation or Secretarial mediation services provided for in subpart G of this part. The existence of a serious disagreement will not relieve the Federal agency from the responsibility for withholding federal assistance for the activity pending satisfaction of the requirements of this subpart, except in cases where the Director has disapproved a State agency decision to review an activity.

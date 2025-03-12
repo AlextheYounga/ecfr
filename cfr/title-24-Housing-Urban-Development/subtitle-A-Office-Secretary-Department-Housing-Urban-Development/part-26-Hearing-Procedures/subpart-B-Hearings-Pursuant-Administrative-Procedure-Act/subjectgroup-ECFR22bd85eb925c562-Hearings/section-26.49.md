@@ -1,0 +1,3 @@
+##### § 26.49 The record. #####
+
+The hearing will be recorded and transcribed by a reporter designated by the Department under the supervision of the ALJ. The parties and the public, at their own expense, may obtain copies of transcripts from the reporter. A copy of the transcript shall be made available at cost to the parties upon request. The transcript of testimony, exhibits, and other evidence admitted at the hearing and all papers and requests filed in the proceeding constitute the record for the decision by the ALJ and the Secretary or designee.

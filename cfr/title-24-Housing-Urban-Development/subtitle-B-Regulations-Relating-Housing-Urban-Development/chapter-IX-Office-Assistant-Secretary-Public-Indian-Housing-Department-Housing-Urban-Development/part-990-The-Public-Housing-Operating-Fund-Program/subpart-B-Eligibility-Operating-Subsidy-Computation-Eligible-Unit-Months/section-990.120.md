@@ -1,0 +1,5 @@
+##### § 990.120 Unit months. #####
+
+(a) Some of the components of HUD's Operating Fund Formula are based on a measure known as unit months. Unit months represent a PHA's public housing inventory during a specified period of time. The unit months eligible for operating subsidy in a 12-month period are equal to the number of months that the units are in an operating subsidy-eligible category, adjusted for changes in inventory (*e.g.*, units added or removed), as described below.
+
+(b) A PHA is eligible to receive operating subsidy for a unit on the date it is both placed under the ACC and occupied. The date a unit is eligible for operating subsidy does not change the Date of Full Availability (DOFA) or the date of the End of Initial Operating Period (EIOP), nor does this provision place a project into management status.

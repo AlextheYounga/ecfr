@@ -1,0 +1,5 @@
+##### § 401.452 Property standards for rehabilitation. #####
+
+The restructuring plan must provide for the level of rehabilitation needed to restore the property to the non-luxury standard adequate for the rental market for which the project was originally approved. If the standard has changed over time, the rehabilitation may include improvements to meet the current standards. The rehabilitation also may include the addition of significant features, in accordance with § 401.472. The result of the rehabilitation should be a project that can attract non-subsidized tenants, but competes on rent rather than on amenities. When a range of options exists for satisfying the rehabilitation standard, the PAE must choose the least costly option considering both capital and operating costs and taking into account the marketability of the property and the remaining useful life of all building systems. Nothing in this part exempts rehabilitation from the requirements of part 8 of this title concerning accessibility to persons with disabilities.
+
+[72 FR 66038, Nov. 26, 2007]

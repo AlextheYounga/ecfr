@@ -1,0 +1,9 @@
+##### § 295.11 Technical and educational services for ATP recipients. #####
+
+(a) Under the Federal Technology Transfer Act of 1986, the National Institute of Standards and Technology of the Technology Administration has the authority to enter into cooperative research and development agreements with non-Federal parties to provide personnel, services, facilities, equipment, or other resources except funds toward the conduct of specified research or development efforts which are consistent with the missions of the laboratory. In turn, the National Institute of Standards and Technology has the authority to accept funds, personnel, services, facilities, equipment and other resources from the non-Federal party or parties for the joint research effort. Cooperative research and development agreements do not include procurement contracts or cooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31, United States Code.
+
+(b) In no event will the National Institute of Standards and Technology enter into a cooperative research and development agreement with a recipient of awards under the Program which provides for the payment of Program funds from the award recipient to the National Institute of Standards and Technology.
+
+(c) From time to time, ATP may conduct public workshops and undertake other educational activities to foster the collaboration of funding Recipients with other funding resources for purposes of further development and commercialization of ATP-related technologies. In no event will ATP provide recommendations, endorsements, or approvals of any ATP funding Recipients to any outside party.
+
+[55 FR 30145, July 24, 1990. Redesignated at 59 FR 667, Jan. 6, 1994. Redesignated and amended at 63 FR 64415, Nov. 20, 1998]

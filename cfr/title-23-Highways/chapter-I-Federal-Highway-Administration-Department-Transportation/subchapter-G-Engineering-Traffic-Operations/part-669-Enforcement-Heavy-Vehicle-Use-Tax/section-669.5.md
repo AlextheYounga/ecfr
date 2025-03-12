@@ -1,0 +1,3 @@
+##### § 669.5 Objective. #####
+
+The objective of this regulation is to establish realistic and workable procedures for an annual certification process to provide suitable evidence that an effective program is being conducted by the states and to ensure that the states are not registering vehicles which have not been accounted for under the tax collection procedures instituted by the Internal Revenue Service (IRS).

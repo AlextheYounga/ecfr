@@ -1,0 +1,3 @@
+##### § 63.3 Requirement to be covered by a contract for flood insurance by June 1, 1988. #####
+
+The requirement in section 1306(c)(4)(C)(i) of the Act that a structure be “covered by a contract for flood insurance under this title—(i) on or before June 1, 1988” was met if presentation of the appropriate premium and a properly completed flood insurance application form was made to the National Flood Insurance Program or a Write Your Own (WYO) Company on or before June 1, 1988.

@@ -1,0 +1,3 @@
+##### § 785.45 Suggestion systems. #####
+
+Generally, time spent by employees outside of their regular working hours in developing suggestions under a general suggestion system is not working time, but if employees are permitted to work on suggestions during regular working hours the time spent must be counted as hours worked. Where an employee is assigned to work on the development of a suggestion, the time is considered hours worked.

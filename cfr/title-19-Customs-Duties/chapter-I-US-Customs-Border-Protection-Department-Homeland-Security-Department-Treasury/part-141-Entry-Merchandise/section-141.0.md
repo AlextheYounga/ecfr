@@ -1,0 +1,3 @@
+##### § 141.0 Scope. #####
+
+This part sets forth general requirements and procedures for the entry of imported merchandise, except entries under carnet, and entries for transportation in bond or exportation, for foreign-trade zones, or for trade fairs, which are covered in parts 114, 18, 146, and 147 of this chapter. More specific requirements and procedures in addition to those in this part are set forth in parts 143, 144, and 145 of this chapter for consumption, appraisement and informal entries, for warehouse entries, and for mail entries.

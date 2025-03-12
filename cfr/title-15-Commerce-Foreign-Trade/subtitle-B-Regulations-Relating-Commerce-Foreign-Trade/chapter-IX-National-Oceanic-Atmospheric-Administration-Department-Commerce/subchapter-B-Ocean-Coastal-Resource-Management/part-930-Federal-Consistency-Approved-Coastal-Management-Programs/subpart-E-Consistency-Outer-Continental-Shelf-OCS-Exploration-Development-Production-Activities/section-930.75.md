@@ -1,0 +1,3 @@
+##### § 930.75 State agency assistance to persons. #####
+
+As a preliminary matter, any person intending to submit to the Secretary of the Interior an OCS plan which describes in detail federal license or permit activities affecting any coastal use or resource should obtain the views and assistance of the State agency regarding the means for ensuring that such activities will be conducted in a manner consistent with the management program. As part of its assistance efforts, the State agency shall make available for inspection copies of the management program document. Upon request by such persons, the State agency shall identify any enforceable policies applicable to the proposed activities, based upon the information submitted to the State agency.

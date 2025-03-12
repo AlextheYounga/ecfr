@@ -1,0 +1,3 @@
+##### § 1200.36 Appeals of written decision by Approving Official. #####
+
+Review of any written decision regarding the administration of the grants by an Approving Official under this subpart may be obtained by submitting a written appeal of such decision, signed by the Governor's Representative for Highway Safety, to the Approving Official. Such appeal shall be forwarded promptly to the NHTSA Associate Administrator, Regional Operations and Program Delivery. The decision of the NHTSA Associate Administrator shall be final and shall be transmitted to the Governor's Representative for Highway Safety through the cognizant Approving Official.

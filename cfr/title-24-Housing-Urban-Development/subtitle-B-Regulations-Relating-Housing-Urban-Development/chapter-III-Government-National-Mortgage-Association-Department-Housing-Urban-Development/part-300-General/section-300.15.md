@@ -1,0 +1,3 @@
+##### § 300.15 Exceptions. #####
+
+In the conduct of its affairs, in individual cases or classes of cases, the Association reserves the right, consistent with law, without prior notice and at any time, to alter or waive any of the requirements contained in this chapter or elsewhere or to impose other and additional requirements; it further reserves the right, without prior notice and at any time, to amend or rescind any or all of the material set forth herein.

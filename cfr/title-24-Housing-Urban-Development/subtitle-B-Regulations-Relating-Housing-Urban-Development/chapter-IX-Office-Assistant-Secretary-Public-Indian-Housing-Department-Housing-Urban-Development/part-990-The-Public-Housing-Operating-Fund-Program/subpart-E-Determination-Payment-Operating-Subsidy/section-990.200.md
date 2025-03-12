@@ -1,0 +1,7 @@
+##### § 990.200 Determination of formula amount. #####
+
+(a) *General.* The amount of operating subsidy that a PHA is eligible for is the difference between its formula expenses (as calculated under subpart C of this part) and its formula income (as calculated under subpart D of this part).
+
+(b) *Use of HUD databases to calculate formula amount.* HUD shall utilize its databases to make the formula calculations. HUD's databases are intended to be employed to provide information on all primary factors in determining the operating subsidy amount. Each PHA is responsible for supplying accurate information on the status of each of its units in HUD's databases.
+
+(c) *PHA responsibility to submit timely data.* PHAs shall submit data used in the formula on a regular and timely basis to ensure accurate calculation under the formula. If a PHA fails to provide accurate data, HUD will make a determination as to the PHA's inventory, occupancy, and financial information using available or verified data, which may result in a lower operating subsidy. HUD has the right to adjust any or all formula amounts based on clerical, mathematical, and information system errors that affect any of the data elements used in the calculation of the formula.

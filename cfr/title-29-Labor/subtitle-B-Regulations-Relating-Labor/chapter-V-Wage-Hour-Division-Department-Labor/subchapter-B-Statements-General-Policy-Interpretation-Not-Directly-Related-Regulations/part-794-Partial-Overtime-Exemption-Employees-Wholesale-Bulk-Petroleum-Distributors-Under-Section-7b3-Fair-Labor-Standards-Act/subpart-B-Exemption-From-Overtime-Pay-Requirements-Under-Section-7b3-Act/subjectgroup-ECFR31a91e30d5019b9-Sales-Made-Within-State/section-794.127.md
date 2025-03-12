@@ -1,0 +1,3 @@
+##### § 794.127 Exemption conditioned on making 75 percent of sales within the State. #####
+
+A further requirement of the section 7(b)(3) exemption is that more than 75 percent of the sales of the enterprise engaged in the wholesale or bulk distribution of petroleum products (measured by annual dollar volume) must be made “within the State in which such enterprise is located.” This means that over 75 percent of the annual dollar volume of sales must be from sales to customers within the same State in which the enterprise is located. If 25 percent or more of its sales volume is from sales to customers outside the State of its location, the requirement is not met and the enterprise cannot qualify for exemption.

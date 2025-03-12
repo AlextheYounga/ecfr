@@ -1,0 +1,3 @@
+##### § 102.122 Enforcement. #####
+
+All matters relating to the enforcement of rights, privileges, or immunities granted or guaranteed under section 222(f) of the Communications Act of 1934, as amended, shall be governed by the provisions of subparts A, B, I, J, K, and M of this part, insofar as applicable, except that reference in subpart B of this part to “unfair labor practices” or “unfair labor practices affecting commerce” shall for the purposes of this article mean the denial of any rights, privileges, or immunities granted or guaranteed under section 222(f) of the Communications Act of 1934, as amended.

@@ -1,0 +1,5 @@
+##### § 10.553 Textile and apparel site visits. #####
+
+(a) *Visits to enterprises of Singapore.* U.S. officials may undertake to conduct site visits to enterprises in the territory of Singapore. U.S. officials will conduct such visits together with responsible officials of the Government of Singapore and in accordance with the laws of Singapore.
+
+(b) *Denial of permission to visit.* If the responsible officials of an enterprise of Singapore that is proposed to be visited do not consent to the site visit, CBP will, if directed by The Committee for the Implementation of Textile Agreements (CITA), exclude from the territory of the United States textile or apparel goods produced or exported by the enterprise until CITA determines that the enterprise's production of, and capability to produce, such goods is consistent with statements by the enterprise that textile or apparel goods it produces or has produced are originating goods or products of Singapore.

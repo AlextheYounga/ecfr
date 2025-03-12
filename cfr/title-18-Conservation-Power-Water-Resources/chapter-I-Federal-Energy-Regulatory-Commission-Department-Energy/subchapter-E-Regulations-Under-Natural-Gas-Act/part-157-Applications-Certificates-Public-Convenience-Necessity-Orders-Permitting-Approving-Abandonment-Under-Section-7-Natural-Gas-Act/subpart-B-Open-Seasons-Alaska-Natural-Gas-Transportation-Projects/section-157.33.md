@@ -1,0 +1,7 @@
+##### § 157.33 Requirement for open season. #####
+
+(a) Any application for a certificate of public convenience and necessity or other authorization for a proposed Alaska natural gas transportation project must include a demonstration that the applicant has conducted an open season for capacity on its proposed project, in accordance with the requirements of this subpart. Failure to provide the requisite demonstration will result in an application being rejected as incomplete.
+
+(b) Initial capacity on a proposed Alaska natural gas transportation project may be acquired prior to an open season through pre-subscription agreements, provided that in any open season as required in paragraph (a) of this section, capacity is offered to all prospective bidders at the same rates and on the same terms and conditions as contained in the pre-subscription agreements. All pre-subscription agreements shall be made public by posting on Internet websites and press releases within ten days of their execution. In the event there is more than one such agreement, all prospective bidders shall be allowed the option of selecting among the several agreements all of the rates, terms and conditions contained in any one such agreement.
+
+[Order 2005, 70 FR 8286, Feb. 18, 2005, as amended by Order 2005-A, 70 FR 35026, June 16, 2005]

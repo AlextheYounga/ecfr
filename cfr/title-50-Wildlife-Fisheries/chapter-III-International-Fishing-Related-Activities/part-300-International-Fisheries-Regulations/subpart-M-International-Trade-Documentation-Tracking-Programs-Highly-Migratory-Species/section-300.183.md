@@ -1,0 +1,19 @@
+##### § 300.183 Permit holder reporting and recordkeeping requirements. #####
+
+(a) *Biweekly reports.* Any person trading fish and fish products regulated under this subpart and required to obtain a trade permit under § 300.322 must submit to NMFS, on forms supplied by NMFS, a biweekly report of entries for consumption, exports and re-exports of fish and fish products regulated under this subpart, except shark fins.
+
+(1) The report required to be submitted under this paragraph (a) must be received within 10 days after the end of each biweekly reporting period in which fish or fish products regulated under this subpart except shark fins were entered for consumption, exported, or re-exported. The bi-weekly reporting periods are the first day to the 15th day of each month, and the 16th day to the last day of each month.
+
+(2) Each report must specify accurately and completely the requested information for each consignment of fish or fish products regulated under this subpart, except shark fins, that is entered for consumption, exported, or re-exported.
+
+(3) A biweekly report is not required for export consignments of bluefin tuna when the information required on the biweekly report has been previously supplied on a biweekly report submitted under § 635.5(b)(2)(i)(B) of this title. The person required to obtain a trade permit under § 300.322 must retain, at his/her principal place of business, a copy of the biweekly report which includes the required information and is submitted under § 635.5(b)(2)(i)(B) of this title, for a period of 2 years from the date on which each report was submitted to NMFS.
+
+(b) *Recordkeeping.* Any person trading fish and fish products regulated under this subpart and required to submit biweekly reports under paragraph (a) of this section must retain, at his/her principal place of business, a copy of each biweekly report and all supporting records for a period of 2 years from the date on which each report was submitted to NMFS.
+
+(c) *Other requirements.* Any person trading fish and fish products regulated under this subpart and required to obtain a trade permit under § 300.322 is also subject to the reporting and recordkeeping requirements identified in § 300.185.
+
+(d) *Inspection.* Any person authorized to carry out the enforcement activities under the regulations in this subpart (authorized person) has the authority, without warrant or other process, to inspect, at any reasonable time: fish or fish products regulated under this subpart, biweekly reports, statistical documents, catch documents, re-export certificates, relevant sales receipts, import and export documentation, and any other records or reports made, retained, or submitted pursuant to this subpart. A permit holder must allow NMFS or an authorized person to inspect any fish or fish products regulated under this subpart, and inspect and copy any import export, and re-export documentation and any reports required under this subpart, and the records, in any form, on which the completed reports are based, wherever they exist. Any agent of a person trading and required to obtain a trade permit under § 300.322, or anyone responsible for importing, exporting, re-exporting, storing, packing, or selling fish or fish products regulated under this subpart, shall be subject to the inspection provisions of this section.
+
+(e) *Applicability of reporting and recordkeeping requirements.* Reporting and recordkeeping requirements in this subpart apply to any person engaging in international trade regardless of whether a trade permit has been issued to that person.
+
+[73 FR 31385, June 2, 2008, as amended at 81 FR 51134, Aug. 3, 2016]

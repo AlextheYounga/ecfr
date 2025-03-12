@@ -1,0 +1,3 @@
+##### § 633.101 Purpose. #####
+
+To prescribe for Federal-aid highway proposals and construction contracts the method for inclusion of required contract provisions of existing regulations which cover employment, nonsegregated facilities, record of materials and supplies, subletting or assigning the contract, safety, false statements concerning highway projects, termination of a contract, and implementation of the Clean Air Act and the Federal Water Pollution Control Act, and other provisions as shall from time-to-time be required by law and regulation as conditions of Federal assistance.

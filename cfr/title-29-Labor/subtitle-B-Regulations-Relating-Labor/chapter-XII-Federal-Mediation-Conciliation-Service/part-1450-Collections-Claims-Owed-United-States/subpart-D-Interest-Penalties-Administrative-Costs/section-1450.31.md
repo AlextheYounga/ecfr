@@ -1,0 +1,3 @@
+##### § 1450.31 Other sanctions. #####
+
+The sanctions stated in this subpart are not intended to be exclusive. Other sanctions which may be imposed by the Director of FMCS include placement of the debtor's name on a list of debarred, suspended or ineligible contractors or grantees; conversion of method of payment under a grant from an advance payment method to a reimbursement method; or revocation of a letter of credit. Notice will be given by FMCS to the debtor regarding the imposition of such other sanctions.

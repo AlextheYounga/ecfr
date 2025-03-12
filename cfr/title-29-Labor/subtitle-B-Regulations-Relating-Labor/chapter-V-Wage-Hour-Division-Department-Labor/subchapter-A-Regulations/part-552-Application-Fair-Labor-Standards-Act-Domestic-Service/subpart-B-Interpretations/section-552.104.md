@@ -1,0 +1,11 @@
+##### § 552.104 Babysitting services performed on a casual basis. #####
+
+(a) Employees performing babysitting services on a casual basis, as defined in § 552.5 are excluded from the minimum wage and overtime provisions of the Act. The rationale for this exclusion is that such persons are usually not dependent upon the income from rendering such services for their livelihood. Such services are often provided by (1) Teenagers during non-school hours or for a short period after completing high school but prior to entering other employment as a vocation, or (2) older persons whose main source of livelihood is from other means.
+
+(b) Employment in babysitting services would usually be on a “casual basis,” whether performed for one or more employees, if such employment by all such employers does not exceed 20 hours per week in the aggregate. Employment in excess of these hours may still be on a “casual basis” if the excessive hours of employment are without regularity or are for irregular or intermittent periods. Employment in babysitting services shall also be deemed to be on a “casual basis” (regardless of the number of weekly hours worked by the babysitter) in the case of individuals whose vocations are not domestic service who accompany families for a vacation period to take care of the children if the duration of such employment does not exceed 6 weeks.
+
+(c) If the individual performing babysitting services on a “casual basis” devotes more than 20 percent of his or her time to household work during a babysitting assignment, the exemption for “babysitting services on a casual basis” does not apply during that assignment and the individual must be paid in accordance with the Act's minimum wage and overtime requirements. This does not affect the application of the exemption for previous or subsequent babysitting assignments where the 20 percent tolerance is not exceeded.
+
+(d) Individuals who engage in babysitting as a full-time occupation are not employed on a “casual basis.”
+
+[40 FR 7405, Feb. 20, 1975, as amended at 60 FR 46768, Sept. 8, 1995]

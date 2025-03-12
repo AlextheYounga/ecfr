@@ -1,0 +1,3 @@
+##### § 100.618 Bankruptcy claims. #####
+
+When the NLRB learns that a bankruptcy petition has been filed by a debtor, before proceeding with further collection action, the NLRB will immediately seek legal advice from the NLRB's Office of Special Counsel concerning the impact of the Bankruptcy Code on any pending or contemplated collection activities. After seeking legal advice from the NLRB's Office of Special Counsel, the NLRB will take any necessary action in accordance with the provisions of 31 CFR 901.2(h).

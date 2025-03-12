@@ -1,0 +1,3 @@
+##### § 661.29 How does ownership impact project selection? #####
+
+Since the Federal government has both a trust responsibility and owns the BIA bridges on Indian reservations, primary consideration will be given to eligible projects on BIA and Tribally owned IRR bridges. A smaller percentage of available funds will be set aside for non-BIA IRR bridges, since States and counties have access to Federal-aid and other funding to design, replace and rehabilitate their bridges and that 23 U.S.C. 204(c) requires that IRR funds be supplemental to and not in lieu of other funds apportioned to the State. The program policy will be to maximize the number of IRR bridges participating in the IRRBP in a given fiscal year regardless of ownership.

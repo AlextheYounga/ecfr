@@ -1,0 +1,3 @@
+##### § 90.3 Applicability of part. #####
+
+This part 90 generally relates to certifications of eligibility made under the Act. Subpart B specifically applies to the initiation and conduct of worker investigations and the issuance of determinations and certifications of eligibility to apply for adjustment assistance. Subpart C applies to studies of workers in industries which are the subject of investigations for industry import relief. Subpart D contains general provisions with respect to filing of documents and public availability of documents.

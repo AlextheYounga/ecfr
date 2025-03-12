@@ -1,0 +1,5 @@
+##### § 776.22 Subpart limited to individual employee coverage. #####
+
+This subpart, which was adopted before the amendments of 1961 and 1966 to the Fair Labor Standards Act, is limited to discussion of the traditional general coverage of employees employed in activities of the character performed in the construction industry, which depends on whether such employees are, individually, “engaged in commerce or in the production of goods for commerce” within the meaning of the Act. The 1961 and 1966 amendments broadened coverage by extending it to other employees of the construction industry on an “enterprise” basis, as explained in § 776.22a. Employees covered under the principles discussed in this subpart remain covered under the Act as amended; however, an employee who would not be individually covered under the principles discussed in this subpart may now be subject to the Act if he is employed in an enterprise engaged in covered construction as defined in the amendments.
+
+[35 FR 5543, Apr. 3, 1970]

@@ -1,0 +1,7 @@
+##### § 1301.47 Transcripts of closed meetings. #####
+
+(a) For every meeting closed pursuant to § 1301.46, the presiding officer of the meeting shall prepare a statement setting forth the time and place of the meeting, and the persons present, and such statement shall be retained by TVA.
+
+(b) TVA shall maintain a complete transcript or electronic recording adequate to record fully the proceedings of each meeting, or portion of a meeting, closed to the public, except that in the case of a meeting, or portion of a meeting, closed to the public pursuant to paragraph (h), (i)(1), or (j) of § 1301.46, TVA shall maintain either such a transcript or recording, or a set of minutes. Such minutes shall fully and clearly describe all matters discussed and shall provide a full and accurate summary of any actions taken, and the reasons therefor, including a description of each of the views expressed on any item and the record of any rollcall vote (reflecting the vote of each member on the question). All documents considered in connection with any action shall be identified in such minutes.
+
+(c) TVA shall maintain a complete verbatim copy of the transcript, a complete copy of the minutes, or a complete electronic recording of each meeting, or portion of a meeting, closed to the public, for a period of at least two years after such meeting, or until one year after the conclusion of any TVA proceeding with respect to which the meeting or portion was held, whichever occurs later.

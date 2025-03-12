@@ -1,0 +1,5 @@
+##### § 218.240 Modifications to Letters of Authorization. #####
+
+(a) Except as provided in paragraph (b) of this section, no substantial modification (including withdrawal or suspension) to a Letter of Authorization subject to the provisions of this subpart shall be made by NMFS until after notification and an opportunity for public comment has been provided. For purposes of this paragraph, a renewal of a Letter of Authorization, without modification, except for the period of validity and a listing of planned operating areas, or for moving the authorized SURTASS LFA sonar system from one ship to another, is not considered a substantial modification.
+
+(b) If NMFS determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in § 218.230(b)(1), (2), or (3), NMFS may modify a Letter of Authorization without prior notice and opportunity for public comment. Notification will be published in the Federal Register within 30 days of the action.

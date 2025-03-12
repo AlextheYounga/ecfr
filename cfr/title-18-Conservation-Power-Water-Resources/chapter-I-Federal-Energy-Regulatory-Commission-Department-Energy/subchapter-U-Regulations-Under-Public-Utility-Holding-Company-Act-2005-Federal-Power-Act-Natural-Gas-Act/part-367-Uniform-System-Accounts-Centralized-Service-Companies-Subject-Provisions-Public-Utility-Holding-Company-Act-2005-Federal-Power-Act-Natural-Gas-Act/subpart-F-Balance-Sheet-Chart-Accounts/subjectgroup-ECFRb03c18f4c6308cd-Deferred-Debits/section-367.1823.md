@@ -1,0 +1,9 @@
+##### § 367.1823 Account 182.3, Other regulatory assets. #####
+
+(a) This account must include the amounts of regulatory-created assets, not includible in other accounts, resulting from the ratemaking actions of regulatory agencies. (*See* Definitions § 367.1(a)(38).)
+
+(b) The amounts included in this account are to be established by those charges which would have been included in net income, or accumulated other comprehensive income, determinations in the current period under the general requirements of the Uniform System of Accounts but for it being probable that such items will be included in a different period(s) for purposes of developing rates that the utility is authorized to charge for its utility services. When specific identification of the particular source of a regulatory asset cannot be made, such as in plant phase-ins, rate moderation plans, or rate levelization plans, account 407.4, Regulatory credits (§ 367.4074), must be credited. The amounts recorded in this account are generally to be charged, concurrently with the recovery of the amounts in rates, to the same account that would have been charged if included in income when incurred, except all regulatory assets established through the use of account 407.4 (§ 367.4074) must be charged to account 407.3, Regulatory debits (§ 367.4073), concurrent with the recovery in rates.
+
+(c) If rate recovery of all or part of an amount included in this account is disallowed, the disallowed amount must be charged to Account 426.5, Other deductions (§ 367.4265), or Account 435, Extraordinary deductions (§ 367.4350), in the year of the disallowance.
+
+(d) The records supporting the entries to this account must be kept so that the service company can furnish full information as to the nature and amount of each regulatory asset included in this account, including justification for inclusion of such amounts in this account.

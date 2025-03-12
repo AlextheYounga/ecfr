@@ -1,0 +1,3 @@
+##### § 780.517 “For use as Cigar-wrapper tobacco.” #####
+
+The phrase “for use as Cigar-wrapper tobacco” limits the type of end product which may be produced by the exempt operations. As its name indicates, cigar-wrapper tobacco is used as a cigar wrapper and is distinguished from other types of tobacco which serve other purposes such as filler, pipe, chewing, and other kinds of tobacco. Normally, shade-grown tobacco is used only for cigar wrappers. However, if the tobacco is not being processed by the employer for such specific and limited use, the employee is not engaged in exempt processing operations.

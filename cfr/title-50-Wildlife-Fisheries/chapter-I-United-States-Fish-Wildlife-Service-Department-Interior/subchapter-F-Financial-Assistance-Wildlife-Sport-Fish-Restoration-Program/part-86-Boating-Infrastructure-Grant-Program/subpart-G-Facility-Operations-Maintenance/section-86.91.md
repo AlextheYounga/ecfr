@@ -1,0 +1,5 @@
+##### § 86.91 May an operator of a BIG-funded facility increase or decrease user fees during its useful life? #####
+
+(a) An operator of a BIG-funded facility may increase or decrease user fees during its useful life without our prior approval if they are consistent with prevailing market rates. The grantee may impose separate restrictions on an operator or subgrantee.
+
+(b) If the grantee or we discover that fees charged by the operator of a BIG-funded facility do not follow § 86.90 and the facility unfairly competes with other marinas or makes excessive profits, the grantee must notify the operator in writing. The operator must respond to the notice in writing, and either justify or correct the fee schedule. If the operator justifies the fee schedule, the grantee and we must allow reasonable business decisions and only call for a change in the fee schedule if the operator is unable to show that the increase or decrease is reasonable.

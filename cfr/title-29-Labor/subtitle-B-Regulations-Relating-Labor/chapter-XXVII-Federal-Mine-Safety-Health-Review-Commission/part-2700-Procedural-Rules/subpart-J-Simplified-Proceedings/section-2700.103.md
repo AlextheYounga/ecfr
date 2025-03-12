@@ -1,0 +1,9 @@
+##### § 2700.103 Party request for simplified proceedings. #####
+
+(a) *Party request.* Any party may request that a case be designated for Simplified Proceedings. The request must be in writing and should address the characteristics specified in § 2700.101. The request must be filed with the Commission in accordance with the provisions of § 2700.5 and served on all parties in accordance with the provisions of § 2700.7. The requesting party shall confer or make reasonable efforts to confer with the other parties and shall state in the request if any other party opposes or does not oppose the request. Parties opposing the request shall have eight business days after service of the motion to file an opposition.
+
+(b) *Judge's ruling on request.* The Chief Administrative Law Judge or the Judge assigned to the case may grant a party's request and designate a case for Simplified Proceedings at the Judge's discretion.
+
+(c) *Notice of appearance.* Unless the contact information described in this paragraph has already been provided to the Judge, within 15 calendar days after receiving an order granting a request for Simplified Proceedings, the parties shall file with the Judge notices of appearance described in § 2700.102(c). Notices of appearance shall be served on all parties in accordance with the provisions of § 2700.7.
+
+(d) *No filing of an answer under Subpart C of this part.* If a case has been designated for Simplified Proceedings, an answer pursuant to § 2700.29 is not required to be filed. If a request for Simplified Proceedings is denied, the period for filing an answer will begin to run upon issuance of the Judge's order denying Simplified Proceedings.

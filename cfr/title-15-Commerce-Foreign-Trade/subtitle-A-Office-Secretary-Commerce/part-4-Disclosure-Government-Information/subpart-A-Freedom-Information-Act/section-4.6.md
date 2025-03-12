@@ -1,0 +1,41 @@
+##### § 4.6 Time limits and expedited processing. #####
+
+(a) *In general.* Components ordinarily shall respond to requests according to their order of receipt.
+
+(b) *Initial response and appeal.* Unless the component and the requester have agreed otherwise, or when “unusual circumstances” exist as provided for in paragraph (d) of this section, a determination whether to comply with a FOIA request shall be made by components within 20 working days (*i.e.,* excluding Saturdays, Sundays, and legal public holidays) of the receipt of a request for a record under this part by the proper component identified in accordance with § 4.5(a). In instances involving misdirected requests that are re-routed pursuant to § 4.5(a), the response time shall commence on the date that the request is received by the proper component, but in any event not later than ten working days after the request is first received by any designated component. An administrative appeal, other than an appeal from a request made to the Office of the Inspector General, shall be decided within 20 working days of its receipt by the Office of the General Counsel. An administrative appeal from a request made to the Office of the Inspector General shall be decided within 20 working days of its receipt by the Office of the Inspector General Office of Counsel. The Department's failure to comply with the time limits identified in this paragraph constitutes exhaustion of the requester's administrative remedies for the purposes of judicial action to compel disclosure.
+
+(c) *Clarification of request.* Components may seek a one-time clarification of a request for records under this part. The component's request for clarification must be in writing. When a component seeks clarification of a request, the time for responding to a request set forth in § 4.6(b) is tolled until the requester responds to the clarification request. The tolled period will end when the component that sought the clarification receives a response from the requester. If a component asks for clarification and does not receive a written response from the requester within 30 calendar days from the date of the component's clarification request, the component will presume that the requester is no longer interested and notify the requester that the request will be closed.
+
+(d) *Unusual circumstances.* (1) Components may extend the time period for processing a FOIA request only in “unusual circumstances,” as described in paragraph (d)(2) of this section, in which the component shall, before expiration of the twenty-day period to respond, notify the requester of the extension in writing of the unusual circumstances involved and of the date by which processing of the request is expected to be completed. If the extension is for more than ten working days, the component shall provide the requester with an opportunity to modify the request or agree to an alternative time period for processing the original or modified request.
+
+(2) For purposes of this section, *unusual circumstances* include:
+
+(i) The need to search for and collect the requested agency records from field facilities or other establishments that are separate from the office processing the request;
+
+(ii) The need to search for, collect, and appropriately examine a voluminous amount of separate and distinct records that are the subject of a single request; or
+
+(iii) The need to consult with another Federal agency having a substantial interest in the determination of the FOIA request or among two or more components of the Department having substantial subject-matter interest in the determination of the request.
+
+(3) If a component reasonably believes that multiple requests submitted by a requester, or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances, and the requests involve clearly related matters, the component may aggregate them. Multiple requests involving unrelated matters will not be aggregated.
+
+(e) *Multi-track processing.* (1) A component must use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work and/or time needed to process the request, including the amount of pages involved, and whether the request qualifies for expedited processing as described in paragraph (f) of this section.
+
+(2) A component using multi-track processing may provide requesters in its slower track(s) with an opportunity to limit the scope of their requests in order to qualify for faster processing. A component doing so shall contact the requester by telephone, email, letter, or through the FOIAonline Web site, *http://foiaonline.regulations.gov,* whichever is the most efficient in each case.
+
+(f) *Expedited processing.* (1) Requests and appeals shall be taken out of order and given expedited treatment whenever it is determined that they involve:
+
+(i) Circumstances in which the lack of expedited treatment could reasonably be expected to pose an imminent threat to the life or physical safety of an individual;
+
+(ii) The loss of substantial due process rights;
+
+(iii) A matter of widespread and exceptional media interest involving questions about the Government's integrity which affect public confidence; or
+
+(iv) An urgency to inform the public about an actual or alleged Federal Government activity, if made by a person primarily engaged in disseminating information.
+
+(2) A request for expedited processing may be made at the time of the initial request for records or at any later time. For a prompt determination, a request for expedited processing should be sent to the component listed in Appendix A to this part that maintains the records requested.
+
+(3) A requester who seeks expedited processing must submit a statement, certified to be true and correct to the best of that person's knowledge and belief, explaining in detail the basis for requesting expedited processing. For example, a requester within the category described in paragraph (f)(1)(iv) of this section, if not a full-time member of the news media, must establish that he or she is a person whose primary professional activity or occupation is information dissemination, though it need not be his or her sole occupation. A requester within the category described in paragraph (f)(1)(iv) of this section must also establish a particular urgency to inform the public about the Government activity involved in the request - one that extends beyond the public's right to know about Government activity generally. The existence of numerous articles published on a given subject can be helpful to establishing the requirement that there be an “urgency to inform” the public on a topic. As a matter of administrative discretion, a component may waive the formal certification requirement.
+
+(4) Within ten calendar days of its receipt of a request for expedited processing, the proper component shall decide whether to grant it and shall notify the requester of the decision. Solely for purposes of calculating the foregoing time limit, any request for expedited processing shall always be considered received on the actual date of receipt by the proper component. If a request for expedited processing is granted, the request shall be given priority and processed as soon as practicable, subject to § 4.11(i). If a request for expedited processing is denied, any appeal of that decision shall be acted on expeditiously.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62559, Oct. 20, 2014]

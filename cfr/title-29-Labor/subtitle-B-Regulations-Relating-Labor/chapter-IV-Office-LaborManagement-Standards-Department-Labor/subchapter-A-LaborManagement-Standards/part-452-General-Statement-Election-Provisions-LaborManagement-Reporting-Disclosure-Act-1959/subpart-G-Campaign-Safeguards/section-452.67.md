@@ -1,0 +1,3 @@
+##### § 452.67 Distribution of campaign literature. #####
+
+The Act imposes the duty on the union and its officers to comply with all reasonable requests of any candidate to distribute his campaign literature to the membership at his expense. When the organization or its officers authorize distribution of campaign literature on behalf of any candidate, similar distribution under the same conditions must be made for any other candidate, if he requests it. In order to avoid charges of disparity of treatment among candidates, it is advised that a union inform all candidates in advance of the conditions under which distribution will be made and promptly advise them of any change in those conditions.

@@ -1,0 +1,3 @@
+##### § 207.120 Public notice of sanctions. #####
+
+If the final Commission decision is that there has been a prohibited act, and that public sanctions are to be imposed, notice of the decision will be published in the Federal Register and forwarded to the Secretariat. Such publication will occur no sooner than fourteen (14) days after issuance of a final decision or after any motion for reconsideration has been denied. The Commission Secretary shall also serve notice of the Commission decision upon such departments and agencies of the United States, Canadian and Mexican governments as the Commission deems appropriate.

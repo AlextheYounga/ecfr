@@ -1,0 +1,3 @@
+##### § 1202.13 Air carriers. #####
+
+By the terms of title II of the Railway Labor Act, which was approved April 10, 1936, all of title I, except section 3, which relates to the National Railroad Adjustment Board, was extended to cover every common carrier by air engaged in interstate or foreign commerce, and every carrier by air transporting mail for or under contract with the United States Government, and to all employees or subordinate officials of such air carriers.

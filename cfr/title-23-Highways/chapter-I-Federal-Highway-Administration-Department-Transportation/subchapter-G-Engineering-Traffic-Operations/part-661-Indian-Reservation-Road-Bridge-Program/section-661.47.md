@@ -1,0 +1,3 @@
+##### § 661.47 Can bridge maintenance be performed with IRRBP funds? #####
+
+No. Bridge maintenance repairs, e.g., guard rail repair, deck repairs, repair of traffic control devices, striping, cleaning scuppers, deck sweeping, snow and debris removal, etc., are not eligible uses of IRRBP funding. The Department of the Interior annual allocation for maintenance and IRR Program construction funds are eligible funding sources for bridge maintenance.

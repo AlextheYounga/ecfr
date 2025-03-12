@@ -1,0 +1,13 @@
+##### § 150.5 Joint Public Safety Awards Board. #####
+
+(a) A Joint Public Safety Awards Board (Joint Board) is hereby established to fulfill the responsibilities of the Administrator of FEMA and the Attorney General by administering the process of nomination for the President's Award and by participating in the selection process with the Executive Office of the President. The Joint Board shall consist of ten representatives who are Federal employees and are of appropriate rank (at or equivalent to grades GM-14 or above). Five persons shall be named by and represent the Administrator of FEMA, and five persons shall be named by and represent the Attorney General. The representatives serving on the Joint Board shall select one of their number to act as the chairperson.
+
+(b) Representatives on the Joint Board shall serve in addition to their regular duties and without additional compensation. Consistent with the requirements of this part, the members of the Joint Board shall establish the procedures by which the selections for the President's Award shall be made to assure the timely presentation of these awards.
+
+(c) A National Emergency Training Center employee shall act as Executive Secretary of the Joint Board. The Executive Secretary shall perform such functions as are appropriate to the Board's responsibilities, including the receipt of all nominations and the communication of nomination information, for the purpose of receiving comments thereon, from members of the public safety community pursuant to § 150.5(e). The Executive Secretary shall be appointed by the Associate Director, Training and Fire Programs of FEMA.
+
+(d) The Joint Board shall review the nominations for the President's Award and shall recommend to the Administrator , FEMA, and the Attorney General by February 1 of each year, those nominees determined by it to merit consideration for the President's Award together with reasons therefor. The Administrator and the Attorney General shall then recommend to the President those nominees determined by them to merit the President's Award, together with the reasons therefor. Recommendations for 1983 shall be submitted on or before March 29, 1985.
+
+(e) The Joint Board may request that persons representing a cross-section of the national public safety community comment upon nominations made to the Board for the President's Award. Both the request for comments and the comments themselves shall be made in writing.
+
+[49 FR 39845, Oct. 11, 1984, as amended at 50 FR 3350, Jan. 24, 1985]

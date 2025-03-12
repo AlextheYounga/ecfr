@@ -1,0 +1,13 @@
+##### § 1979.111 Withdrawal of complaints, objections, and findings; settlement. #####
+
+(a) At any time prior to the filing of objections to the findings or preliminary order, a complainant may withdraw his or her complaint under the Act by filing a written withdrawal with the Assistant Secretary. The Assistant Secretary will then determine whether the withdrawal will be approved. The Assistant Secretary will notify the named person of the approval of any withdrawal. If the complaint is withdrawn because of settlement, the settlement shall be approved in accordance with paragraph (d) of this section.
+
+(b) The Assistant Secretary may withdraw his or her findings or a preliminary order at any time before the expiration of the 30-day objection period described in § 1979.106, provided that no objection has yet been filed, and substitute new findings or preliminary order. The date of the receipt of the substituted findings or order will begin a new 30-day objection period.
+
+(c) At any time before the findings or order become final, a party may withdraw his or her objections to the findings or order by filing a written withdrawal with the administrative law judge or, if the case is on review, with the Board. The judge or the Board, as the case may be, will determine whether the withdrawal will be approved. If the objections are withdrawn because of settlement, the settlement shall be approved in accordance with paragraph (d) of this section.
+
+(d)(1) *Investigative settlements.* At any time after the filing of a complaint, and before the findings and/or order are objected to or become a final order by operation of law, the case may be settled if the Assistant Secretary, the complainant and the named person agree to a settlement.
+
+(2) *Adjudicatory settlements.* At any time after the filing of objections to the Assistant Secretary's findings and/or order, the case may be settled if the participating parties agree to a settlement and the settlement is approved by the administrative law judge if the case is before the judge, or by the Board if a timely petition for review has been filed with the Board. A copy of the settlement shall be filed with the administrative law judge or the Board, as the case may be.
+
+(e) Any settlement approved by the Assistant Secretary, the administrative law judge, or the Board, shall constitute the final order of the Secretary and may be enforced pursuant to § 1979.113.

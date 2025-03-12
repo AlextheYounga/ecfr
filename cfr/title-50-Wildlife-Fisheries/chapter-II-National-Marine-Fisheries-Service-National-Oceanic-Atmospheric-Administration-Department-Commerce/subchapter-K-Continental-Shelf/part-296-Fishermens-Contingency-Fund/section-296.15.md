@@ -1,0 +1,3 @@
+##### § 296.15 Judicial review. #####
+
+Any claimant or other person who is aggrieved by a final determination may, no later than 30 days after the determination, seek judicial review of the determination in the United States District Court for such judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States District Court for the judicial district in which the claimant's home port is located.

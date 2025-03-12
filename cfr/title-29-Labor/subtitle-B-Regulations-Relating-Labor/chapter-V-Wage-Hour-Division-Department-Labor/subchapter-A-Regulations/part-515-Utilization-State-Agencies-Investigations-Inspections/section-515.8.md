@@ -1,0 +1,3 @@
+##### § 515.8 Enforcement. #####
+
+All litigation relating to the enforcement of the Acts, other than civil actions for the recovery of wages due instituted pursuant to section 16(b) of the Fair Labor Standards Act of 1938 and all administrative proceedings instituted pursuant to section 5 of the Public Contracts Act shall be undertaken by and be under the direction and control of the Federal Government. Any State agency intending to institute a civil action in behalf of an employee or employees for the recovery of wages due, pursuant to section 16(b) of the Fair Labor Standards Act of 1938 shall notify the Division and the Secretary of Labor prior to the institution of such action.

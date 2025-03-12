@@ -1,0 +1,3 @@
+##### § 1627.2 Forms of records. #####
+
+No particular order or form of records is required by the regulations in this part 1627. It is required only that the records contain in some form the information specified. If the information required is available in records kept for other purposes, or can be obtained readily by recomputing or extending data recorded in some other form, no further records are required to be made or kept on a routine basis by this part 1627.

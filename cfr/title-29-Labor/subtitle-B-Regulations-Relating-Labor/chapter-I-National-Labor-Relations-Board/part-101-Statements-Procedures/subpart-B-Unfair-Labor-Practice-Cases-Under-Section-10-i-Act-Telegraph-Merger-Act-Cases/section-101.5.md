@@ -1,0 +1,3 @@
+##### § 101.5 Withdrawal of charges. #####
+
+If investigation reveals that there has been no violation of the National Labor Relations Act or the evidence is insufficient to substantiate the charge, the Regional Director recommends withdrawal of the charge by the person who filed. Withdrawal may also be requested on the initiative of the complainant. If the complainant accepts the recommendation of the Regional Director or requests withdrawal, the respondent is immediately notified of the withdrawal of the charge.

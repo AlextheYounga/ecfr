@@ -1,0 +1,3 @@
+##### § 23.17 What are the requirements for CITES specimens traded internationally by diplomatic, consular, military, and other persons exempt from customs duties or inspections? #####
+
+A specimen of a CITES species imported, introduced from the sea, exported, or re-exported by a person receiving duty-free or inspection exemption privileges under customs laws must meet the requirements of CITES and the regulations in this part.

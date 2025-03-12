@@ -1,0 +1,3 @@
+##### § 600.517 Allocations. #####
+
+The Secretary of State, in cooperation with the Secretary, determines the allocation among foreign nations of fish species and species groups. The Secretary of State officially notifies each foreign nation of its allocation. The burden of ascertaining and accurately transmitting current allocations and status of harvest of an applicable allocation to fishing vessels is upon the foreign nation and the owner or operator of the FFV.

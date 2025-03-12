@@ -1,0 +1,3 @@
+##### § 10.820 Certificate of eligibility. #####
+
+Upon request, an importer claiming preferential tariff treatment on a non-originating cotton or man-made fiber good specified in § 10.819 of this subpart must submit to CBP a certificate of eligibility. The certificate of eligibility must be completed and signed by an authorized official of the Government of Bahrain and must be in the possession of the importer at the time the preferential tariff treatment is claimed.

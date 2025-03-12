@@ -1,0 +1,5 @@
+##### § 203.377 Inspection and preservation of properties. #####
+
+The mortgagee, upon learning that a property subject to a mortgage insured under this part is vacant or abandoned, shall be responsible for the inspection of such property at least monthly, if the loan thereon is in default. When a mortgage is in default and a payment thereon is not received within 45 days of the due date, and efforts to reach the mortgagor by telephone within that period have been unsuccessful, the mortgagee shall be responsible for a visual inspection of the security property to determine whether the property is vacant. The mortgagee shall take reasonable action to protect and preserve such security property when it is determined or should have been determined to be vacant or abandoned until its conveyance to the Secretary, if such action does not constitute an illegal trespass. “Reasonable action” includes the commencement of foreclosure within the time required by § 203.355(b) of this part.
+
+[57 FR 47972, Oct. 20, 1992]

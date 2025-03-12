@@ -1,0 +1,5 @@
+##### § 18.70 Basis and purpose. #####
+
+(a) Sections 101(a)(2), 101(a)(3)(A), and 101(b) of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1371(a)(2), 1371(a)(3)(A), and 1371(b)) and these regulations authorize the Director, U.S. Fish and Wildlife Service, to: (1) Impose regulations governing the taking of marine mammals incidental to commercial fishing operations; (2) waive the moratorium and adopt regulations with respect to the taking and importing of animals from each species of marine mammals under his jurisdiction; and (3) prescribe regulations governing the taking of depleted marine mammals by any Indian, Aleut or Eskimo, respectively. In prescribing regulations to carry out the provisions of said sections, the act refers the Director to section 103 (16 U.S.C. 1373). In accordance with section 103(d), regulations must be made on the record after opportunity for an agency hearing on such regulations and, in the case of a waiver, on the determination by the Director to waive the moratorium pursuant to section 101(a)(3)(A) (16 U.S.C. 1371(a)(3)(A)).
+
+(b) [Reserved]

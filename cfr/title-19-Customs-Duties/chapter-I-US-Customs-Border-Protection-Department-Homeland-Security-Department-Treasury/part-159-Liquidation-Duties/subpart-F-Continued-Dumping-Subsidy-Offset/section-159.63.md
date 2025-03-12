@@ -1,0 +1,41 @@
+##### § 159.63 Certifications. #####
+
+(a) *Requirement and purpose for certification.* In order to obtain a distribution of the offset, each affected domestic producer must submit a certification, in triplicate, or electronically as authorized by CBP, to the Assistant Commissioner, Office of Administration, Headquarters, or designee, that must be received within 60 days after the date of publication of the notice in the Federal Register, indicating that the affected domestic producer desires to receive a distribution. The certification must enumerate the qualifying expenditures incurred by the domestic producer since the issuance of an order or finding for which a distribution has not previously been made, and it must demonstrate that the domestic producer is eligible to receive a distribution as an affected domestic producer.
+
+(b) *Content of certification.* While there is no established format for a certification, the certification must identify the date of the Federal Register notice under which it is submitted, and the case name and the number of the particular order or finding cited in the Federal Register notice. The certification must be executed and dated by a party legally authorized to bind the domestic producer. The certification must also state that the information contained in the certification is true and accurate to the best of the certifier's knowledge and belief under penalty of law, and that the domestic producer has records to support the qualifying expenditures being claimed.
+
+(1) *Identifying information for domestic producer.* The certification must include the following identifying information related to the domestic producer:
+
+(i) The name of the domestic producer and any name qualifier, if applicable (for example, any other name under which the domestic producer does business or is also known);
+
+(ii) The address of the domestic producer (if a post office box, the secondary street address must also be included);
+
+(iii) The Internal Revenue Service (IRS) number (with suffix) of the domestic producer, employer identification number, or social security number, as applicable;
+
+(iv) The specific business organization of the domestic producer (corporation, partnership, sole proprietorship); and
+
+(v) The name(s) of any individual(s) designated by the domestic producer as the contact person(s) concerning the certification, together with the phone number(s) and/or facsimile transmission number(s) and electronic mail (email) address(es) for the person(s).
+
+(2) *Amount of claim.* In calculating the amount of the distribution being claimed as an offset, the certification must enumerate the following:
+
+(i) The total amount of qualifying expenditures currently and previously certified by the domestic producer, and the amount certified by category (see § 159.61(c)(1) through (c)(10));
+
+(ii) The total amount of those expenditures which have been the subject of any prior distribution under section 754, Tariff Act of 1930, as amended (19 U.S.C. 1675c); and
+
+(iii) The net amount for new and remaining qualifying expenditures being claimed in the current certification (the total amount currently and previously certified as noted in paragraph (b)(2)(i) of this section minus the total amount the subject of any prior distribution as noted in paragraph (b)(2)(ii) of this section).
+
+(3) *Statement of eligibility to receive distribution.* The certification must contain a statement that the domestic producer desires to receive a distribution and is eligible to receive the distribution as an affected domestic producer (see § 159.61(b)(1) and (b)(2)).
+
+(i) *Amount certified for payment.* The affected domestic producer must affirm that the net amount certified for distribution does not encompass any qualifying expenditures for which distribution has previously been made (see paragraphs (b)(2)(ii) and (b)(2)(iii) of this section).
+
+(ii) *Same qualifying expenditures included on more than one certification.* Where the domestic producer is listed as an affected domestic producer on more than one order or finding covering the same product and files a separate certification for each order or finding using the same qualifying expenditures as the basis for distribution in each case, each certification must list all the other orders or findings where the producer is claiming the same qualifying expenditures.
+
+(iii) *Continued production of product covered by order or finding; acquisition by related company.* The statement must include information as to whether the domestic producer remains in operation and continues to produce the product covered by the particular order or finding under which the distribution is sought (see § 159.61(b)(2)(i)). In addition, the domestic producer must state whether it has been acquired by a company or business that is related to a company, within the meaning of § 159.61(b)(2)(ii)(A)(*1*) through (*3*), that opposed the antidumping or countervailing duty investigation that resulted in the order or finding under which the distribution is sought.
+
+(c) *Review and correction of certification.* A certification that is submitted in response to a notice of distribution and received within 60 days after the date of publication of the notice in the Federal Register may be reviewed before acceptance to ensure that all informational requirements are complied with and that any amounts set forth in the certification for current and prior qualifying expenditures, including the amount claimed for distribution, appear to be correct (see paragraph (b)(2) of this section). A certification that is found to be materially incorrect or incomplete will be returned to the domestic producer within 15 days after the close of the 60-day filing period. Within 10 days of the date that Customs returns a certification as being materially incorrect or incomplete, Customs must receive a corrected certification from the affected domestic producer. Customs will make every effort to assist companies to perfect their certifications and will not return claims for minor errors or omissions. However, it remains the sole responsibility of the domestic producer to ensure that the certification is correct, complete and satisfactory so as to demonstrate the entitlement of the domestic producer to the distribution requested. Failure to ensure that the certification is correct, complete and satisfactory as provided in this paragraph will result in the domestic producer not receiving a distribution.
+
+(d) *Verification of certification; supporting records.* Certifications are subject to verification. Parties, therefore, are required to maintain the accounting records used in developing their claims, for a period of five years after the filing of the certification. The records supporting certifications must be those that are normally kept in the ordinary course of business (see § 163.1(a)(1) and (a)(2)(vi) of this chapter). Parties must be able to demonstrate that their records specifically support each qualifying expenditure enumerated in a certification. In addition, the claimant must be able to support how qualifying expenditures are determined to be related to the production of the product covered by the order or finding.
+
+(e) *Disclosure of information in certifications; acceptance by producer.* The name of the affected domestic producer, the total dollar amount claimed by that party on the certification, as well as the total dollar amount that Customs actually disburses to that company as an offset, will be available for disclosure to the public (see § 159.64(g)(1)). The submission of the certification will be construed as an understanding and acceptance on the part of the domestic producer that this information will be disclosed to the public. Alternatively, a statement in a certification that this information is proprietary and exempt from disclosure will result in Customs rejection of the certification.
+
+[T.D. 01-68, 66 FR 48552, Sept. 21, 2001, as amended by CBP Dec. 12-21, 77 FR 73309, Dec. 10, 2012]

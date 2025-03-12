@@ -1,0 +1,7 @@
+##### § 146.69 Supplies, equipment, and repair material for vessels or aircraft. #####
+
+(a) *General.* Any merchandise which may be withdrawn duty and tax free in Customs territory under section 309 or 317, Tariff Act of 1930, as amended (19 U.S.C. 1309, 1317), and under §§ 10.59 through 10.65 of this chapter, may similarly be transferred from a zone, regardless of its zone status, under those statutes and regulations. Each transfer from a zone for delivery to a qualified vessel or aircraft, will be made on Customs Form 5512 (see § 10.60 of this chapter). The person making entry shall furnish a bond on Customs Form 301 containing the bond conditions provided for in § 113.62 of this chapter.
+
+(b) *Merchandise for delivery within zone.* Upon acceptance of the entry and bond, the port director shall release the merchandise to the operator for delivery to the qualified vessel or aircraft for lading in the zone.
+
+(c) *Merchandise for delivery outside zone.* Upon acceptance of the entry and bond, the port director shall release the merchandise to the operator for delivery to the bonded cartmen, lighterman, or carrier, for transportation through the Customs territory to the qualified lading vessel or aircraft.

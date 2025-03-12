@@ -1,0 +1,3 @@
+##### § 230.1 Purpose and scope. #####
+
+The purpose of the regulations in this part is to implement the Whaling Convention Act (16 U.S.C. 916 *et seq.*) by prohibiting whaling except for aboriginal subsistence whaling allowed by the International Whaling Commission. Provisions of the Marine Mammal Protection Act of 1972 (16 U.S.C. 1361 *et seq.*) and the Endangered Species Act of 1973 (16 U.S.C. 1531 *et seq.*) also pertain to human interactions with whales. Rules elsewhere in this chapter govern such topics as scientific research permits, and incidental take and harassment of marine mammals.

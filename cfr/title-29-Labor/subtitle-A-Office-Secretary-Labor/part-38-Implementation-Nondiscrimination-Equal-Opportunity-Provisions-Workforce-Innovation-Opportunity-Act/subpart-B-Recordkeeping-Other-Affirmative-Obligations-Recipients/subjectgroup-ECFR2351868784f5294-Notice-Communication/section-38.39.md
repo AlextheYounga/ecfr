@@ -1,0 +1,3 @@
+##### § 38.39 Communication of notice in orientations. #####
+
+During each presentation to orient new participants, new employees, and/or the general public to its WIOA Title I-financially assisted program or activity, in person or over the internet or using other technology, a recipient must include a discussion of rights and responsibilities under the nondiscrimination and equal opportunity provisions of WIOA and this part, including the right to file a complaint of discrimination with the recipient or the Director. This information must be communicated in appropriate languages as required in § 38.9 and in formats accessible for individuals with disabilities as required in this part and specified in § 38.15.

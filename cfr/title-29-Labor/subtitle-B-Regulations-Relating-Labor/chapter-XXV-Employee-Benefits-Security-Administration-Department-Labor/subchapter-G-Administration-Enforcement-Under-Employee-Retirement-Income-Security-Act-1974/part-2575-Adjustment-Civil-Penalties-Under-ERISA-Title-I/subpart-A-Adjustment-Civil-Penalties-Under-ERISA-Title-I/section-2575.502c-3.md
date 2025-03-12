@@ -1,0 +1,3 @@
+##### § 2575.502c-3 Adjusted civil penalty under section 502(c)(3). #####
+
+In accordance with the requirements of the 1990 Act, as amended, the maximum amount of the civil monetary penalty established by section 502(c)(3) of the Employee Retirement Income Security Act of 1974, as amended (ERISA), is hereby increased from $100 a day to $110 a day. This adjusted penalty applies only to violations occurring after July 29, 1997.

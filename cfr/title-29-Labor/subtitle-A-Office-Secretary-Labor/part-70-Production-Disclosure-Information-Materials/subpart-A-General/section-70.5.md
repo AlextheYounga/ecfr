@@ -1,0 +1,3 @@
+##### § 70.5 Compilation of new records. #####
+
+Nothing in 5 U.S.C. 552 or this part requires that any agency or component create a new record in order to respond to a request for records. A component must, however, make reasonable efforts to search for records that already exist in electronic form or format, except when such efforts would significantly interfere with the operation of the component's automated information systems. The component will determine what constitutes a reasonable effort on a case-by-case basis.

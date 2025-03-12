@@ -1,0 +1,7 @@
+##### § 301.5 Changes in Average System Cost methodology. #####
+
+(a) The Administrator, at his or her discretion, or upon written request from three-quarters of the utilities that are parties to contracts authorized by section 5(c) of the Northwest Power Act, or from three-quarters of Bonneville's preference customers, or from three-quarters of Bonneville's direct-service industrial customers may initiate a consultation process as provided in section 5(c) of the Northwest Power Act. After completion of this process, Bonneville's Administrator may file the new ASC methodology with the Commission.
+
+(b) The Administrator will not initiate any consultation process until one year of experience has been gained under the then-existing ASC methodology, that is, one year after the then-existing ASC methodology is adopted by Bonneville and approved by the Commission, through interim or final approval, whichever occurs first.
+
+(c) The Administrator may, from time to time, issue interpretations of the ASC methodology. The Administrator also may modify the functionalization code of any Account to comply with the limitations identified in sections 5(c)(7)(A)-(C) of the Northwest Power Act or to conform to Commission revisions to the Uniform System of Accounts.

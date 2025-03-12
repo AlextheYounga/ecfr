@@ -1,0 +1,3 @@
+##### § 2705.9 Disclosure of record to a person other than the individual to whom the record pertains. #####
+
+The Commission will not disclose a record to any individual other than the individual to whom the record pertains without receiving the prior written consent of the individual to whom the record pertains, unless the disclosure has been listed as a “routine use” in the Commission's notices of its system of records, or falls within one of the special disclosure situations listed in the Privacy Act of 1974 (5 U.S.C. 552a(b)).

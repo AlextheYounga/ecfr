@@ -1,0 +1,9 @@
+##### § 1902.10 Submission. #####
+
+(a) An authorized representative of the State agency or agencies responsible for administering the plan shall submit one copy of the plan to the appropriate Assistant Regional Director of the Occupational Safety and Health Administration, U.S. Department of Labor. The State plan shall include supporting papers conforming to the requirements specified in the subpart B of this part, and the State occupational safety and health standards to be included in the plan, including a copy of any specific or enabling State laws and regulations relating to such standards. If any of the representations concerning the requirements of subpart B of this part are dependent upon any judicial or administrative interpretations of the State standards or enforcement provisions, the State shall furnish citations to any pertinent judicial decisions and the text of any pertinent administrative decisions.
+
+(b) Upon receipt of the State plan the Assistant Regional Director shall make a preliminary examination of the plan. If his examination reveals any defect in the plan, the Assistant Regional Director shall offer assistance to the State agency and shall provide the agency an opportunity to cure such defect. After his preliminary examination, and after affording the State agency such opportunity to cure defects, the Assistant Regional Director shall submit the plan to the Assistant Secretary.
+
+(c) Upon receipt of the plan from the Assistant Regional Director, the Assistant Secretary shall examine the plan and supporting materials. If the examination discloses no cause for rejecting the plan, the Assistant Secretary shall follow the procedure prescribed in § 1902.11. If the examination discloses cause for rejection of the plan, the Assistant Secretary shall follow the procedure prescribed in § 1902.17.
+
+[36 FR 20751, Oct. 29, 1971, as amended at 80 FR 49903, Aug. 18, 2015]

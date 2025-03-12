@@ -1,0 +1,5 @@
+##### § 10.723 Filing of claim for preferential tariff treatment upon importation. #####
+
+(a) *Claim.* An importer may make a claim for AFTA preferential tariff treatment, including an exemption from the merchandise processing fee, based on the importer's knowledge or information in the importer's possession that the good qualifies as an originating good. The claim is made by including on the entry summary, or equivalent documentation, the letters “AU” as a prefix to the subheading of the HTSUS under which each qualifying good is classified, or by the method specified for equivalent reporting via an authorized electronic data interchange system.
+
+(b) *Corrected claim.* If, after making the claim required under paragraph (a) of this section, the importer becomes aware that the claim is invalid, the importer must promptly and voluntarily correct the claim and pay any duties that may be due. The importer must submit a statement either in writing or via an authorized electronic data interchange system to the CBP office where the original claim was filed specifying the correction (*see* §§ 10.746 and 10.747 of this subpart).

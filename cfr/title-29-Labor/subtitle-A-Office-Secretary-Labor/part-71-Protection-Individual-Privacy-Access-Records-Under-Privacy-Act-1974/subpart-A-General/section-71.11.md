@@ -1,0 +1,3 @@
+##### § 71.11 Emergency disclosures. #####
+
+If the record of an individual has been disclosed to any person under compelling circumstances affecting the health or safety of any person, as described in 5 U.S.C. 552a(b)(8), the individual to whom the record pertains shall be notified of the disclosure at his last known address within 10 working days. The notice of such disclosure shall be in writing and shall state the nature of the information disclosed, the person or agency to whom it was disclosed, the date of disclosure, and the compelling circumstances justifying the disclosure. The officer who made or authorized the disclosure shall be responsible for providing such notification.

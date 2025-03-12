@@ -1,0 +1,7 @@
+##### § 103.500 Prompt judicial action. #####
+
+(a) If at any time following the filing of a complaint, the General Counsel concludes that prompt judicial action is necessary to carry out the purposes of this part or 24 CFR part 180, the General Counsel may authorize the Attorney General to commence a civil action for appropriate temporary or preliminary relief pending final disposition of the complaint. To ensure the prompt initiation of the civil action, the General Counsel will consult with the Assistant Attorney General for the Civil Rights Division before making the determination that prompt judicial action is necessary. The commencement of a civil action by the Attorney General under this section will not affect the initiation or continuation of proceedings under this part or administrative proceedings under part 180.
+
+(b) If the General Counsel has reason to believe that a basis exists for the commencement of proceedings against the respondent under section 814(a) of the Fair Housing Act (Pattern or Practice Cases), proceedings under section 814(c) of the Fair Housing Act (Enforcement of Subpoenas), or proceedings by any governmental licensing or supervisory authorities, the General Counsel shall transmit the information upon which that belief is based to the Attorney General and to other appropriate authorities.
+
+[54 FR 3292, Jan. 23, 1989, as amended at 61 FR 52218, Oct. 4, 1996]

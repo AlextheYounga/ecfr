@@ -1,0 +1,13 @@
+##### § 259.35 Annual deposit and withdrawal reports required. #####
+
+(a) The Secretary will require from each Interim CCF Agreement holder (Party) the following annual deposit and withdrawal reports. Failure to submit such reports may be cause for involuntary termination of CCF Agreements.
+
+(1) A preliminary deposit and withdrawal report at the end of each calendar year, which must be submitted not later than 45 days after the close of the calendar year. The report must give the amounts withdrawn from and deposited into the party's CCF during the subject year, and be in letter form showing the agreement holder's name, FVCCF identification number, and taxpayer identification number. Each report must bear certification that the deposit and withdrawal information given includes all deposit and withdrawal activity for the year and the account reported. Negative reports must be submitted in those cases where there is no deposit and/or withdrawal activity. If the party's tax year is the same as the calendar year, and if the final deposit and withdrawal report required under paragraph (a)(2) of this section is submitted before the due date for this preliminary report, then this report is not required.
+
+(2) A final deposit and withdrawal report at the end of the tax year, which shall be submitted not later than 30 days after expiration of the due date, with extensions (if any), for filing the party's Federal income tax return. The report must be made on a form prescribed by the Secretary using a separate form for each FVCCF depository. Each report must bear certification that the deposit and withdrawal information given includes all deposit and withdrawal activity for the year and account reported. Negative reports must be submitted in those cases where there is no deposit and/or withdrawal activity.
+
+(b) Failure to submit the required annual deposit and withdrawal reports shall be cause after due notice for either, or both, disqualification of withdrawals or involuntary termination of the Interim CCF Agreement, at the Secretary's discretion.
+
+(c) Additionally, the Secretary shall require from each Interim CCF Agreement holder, not later than 30 days after expiration of the party's tax due date, with extensions (if any), a copy of the party's Federal Income Tax Return filed with IRS for the preceding tax year. Failure to submit shall after due notice be cause for the same adverse action specified in the paragraph above.
+
+[39 FR 33675, Sept. 19, 1974, as amended at 48 FR 57302, Dec. 29, 1983; 53 FR 35203, Sept. 12, 1988]

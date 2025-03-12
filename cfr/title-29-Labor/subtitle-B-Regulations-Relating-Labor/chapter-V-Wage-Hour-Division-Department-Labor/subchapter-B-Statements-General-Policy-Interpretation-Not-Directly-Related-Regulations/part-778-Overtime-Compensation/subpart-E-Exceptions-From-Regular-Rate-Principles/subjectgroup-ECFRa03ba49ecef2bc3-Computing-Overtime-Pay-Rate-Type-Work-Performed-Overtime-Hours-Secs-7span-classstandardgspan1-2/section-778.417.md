@@ -1,0 +1,7 @@
+##### § 778.417 General requirements of section 7(g). #####
+
+The following general requirements must be met in every case before the overtime computation authorized under section 7(g)(1) or (2) may be utilized.
+
+(a) First, in order to insure that the method of computing overtime pay permitted in this section will not in any circumstances be seized upon as a device for avoiding payment of the minimum wage due for each hour, the requirement must be met that employee's average hourly earnings for the workweek (exclusive of overtime pay and of all other pay which is excluded from the regular rate) are not less than the minimum. This requirement insures that the employer cannot pay subminimum nonovertime rates with a view to offsetting part of the compensation earned during the overtime hours against the minimum wage due for the workweek.
+
+(b) Second, in order to insure that the method of computing overtime pay permitted in this section will not be used to circumvent or avoid the payment of proper overtime compensation due on other sums paid to employees, such as bonuses which are part of the regular rate, the section requires that extra overtime compensation must be properly computed and paid on other forms of additional pay required to be included in computing the regular rate.

@@ -1,0 +1,5 @@
+##### § 10.6 Shooks and staves; claim for duty exemption. #####
+
+An importer, seeking an exemption from duty on account of boxes or barrels made from American shooks or staves, must make such a claim on Customs Form 4455, or its electronic equivalent, at the time of filing the entry. Upon receipt, from the director of the port of exportation of the shooks and staves, of corroboration that the records of exportation do not conflict materially with such a claim, the exemption may be allowed. If the claim for an exemption is disallowed in full or in part, the importer may file a request within 15 days of the date of the port director's notice to him of any disallowance, for referral of the question to the Commissioner of Customs for review.
+
+[T.D. 87-75, 52 FR 20066, May 29, 1987, as amended by T.D. 98-52, 63 FR 29954, June 2, 1998; CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

@@ -1,0 +1,3 @@
+##### § 531.26 Relation to other laws. #####
+
+Various Federal, State, and local legislation requires the payment of wages in cash; prohibits or regulates the issuance of scrip, tokens, credit cards, “dope checks” or coupons; prevents or restricts payment of wages in services or facilities; controls company stores and commissaries; outlaws “kickbacks”; restrains assignment and garnishment of wages; and generally governs the calculation of wages and the frequency and manner of paying them. Where such legislation is applicable and does not contravene the requirements of the Act, nothing in the Act, the regulations, or the interpretations announced by the Administrator should be taken to override or nullify the provisions of these laws.

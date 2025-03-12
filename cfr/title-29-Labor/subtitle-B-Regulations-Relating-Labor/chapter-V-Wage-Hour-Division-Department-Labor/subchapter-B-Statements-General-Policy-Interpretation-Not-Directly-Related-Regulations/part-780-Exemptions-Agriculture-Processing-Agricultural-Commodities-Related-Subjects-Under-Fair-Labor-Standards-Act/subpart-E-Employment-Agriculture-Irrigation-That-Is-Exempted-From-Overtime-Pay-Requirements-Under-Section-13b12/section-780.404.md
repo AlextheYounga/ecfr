@@ -1,0 +1,3 @@
+##### § 780.404 Activities of the employer considered in some situations. #####
+
+Although the activities of the individual employee, as distinguished from those of his employer, constitute the ultimate test for applying the exemption, it is necessary in some instances to examine the activities of the employer. For example, in resolving the status of the employees of an irrigation company for purposes of the agriculture exemption, the U.S. Supreme Court, found it necessary to consider the nature of the employer's activities (*Farmers Reservoir Co.* v. *McComb,* 337 U.S. 755).

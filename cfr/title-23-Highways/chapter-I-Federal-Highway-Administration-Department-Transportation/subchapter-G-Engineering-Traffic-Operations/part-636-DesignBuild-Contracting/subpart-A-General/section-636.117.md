@@ -1,0 +1,3 @@
+##### § 636.117 What conflict of interest standards apply to individuals who serve as selection team members for the owner? #####
+
+State laws and procedures governing improper business practices and personal conflicts of interest will apply to the owner's selection team members. In the absence of such State provisions, the requirements of 48 CFR Part 3, Improper Business Practices and Personal Conflicts of Interest, will apply to selection team members.

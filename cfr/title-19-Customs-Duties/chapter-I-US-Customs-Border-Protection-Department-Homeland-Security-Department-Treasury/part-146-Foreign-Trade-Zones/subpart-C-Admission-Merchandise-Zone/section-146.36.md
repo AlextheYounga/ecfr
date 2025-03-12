@@ -1,0 +1,3 @@
+##### § 146.36 Examination of merchandise. #####
+
+Except for direct delivery procedures provided for in § 146.39, all merchandise covered by a Customs Form 214 may be retained for Customs examination at the place of unlading, the zone, or another location, as designated by the port director. The port director may authorize release of the merchandise without examination, as provided in § 151.2 of this chapter. If a physical examination is conducted, the Customs officer shall note the results of the examination on the examination invoices.

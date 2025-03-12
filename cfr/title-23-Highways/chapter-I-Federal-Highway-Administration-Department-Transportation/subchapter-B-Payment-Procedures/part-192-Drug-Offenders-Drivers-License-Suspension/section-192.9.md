@@ -1,0 +1,3 @@
+##### § 192.9 Effect of noncompliance. #####
+
+If a State has not met the requirements of 23 U.S.C. 159(a)(3) at the end of the period for which funds withheld under § 1212.4 are available for apportionment to a State under § 1212.6, then such funds shall lapse or, in the case of funds withheld from apportionment under 23 U.S.C. 104(b)(5), shall lapse and be made available by the Secretary for projects in accordance with 23 U.S.C. 118(b).

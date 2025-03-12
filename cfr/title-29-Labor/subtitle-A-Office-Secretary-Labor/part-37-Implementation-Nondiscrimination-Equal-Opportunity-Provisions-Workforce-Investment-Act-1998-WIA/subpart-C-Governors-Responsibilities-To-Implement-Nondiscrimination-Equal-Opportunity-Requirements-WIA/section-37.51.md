@@ -1,0 +1,3 @@
+##### § 37.51 What are a Governor's oversight responsibilities? #####
+
+The Governor is responsible for oversight of all WIA Title I-financially assisted State programs. This responsibility includes ensuring compliance with the nondiscrimination and equal opportunity provisions of WIA and this part, and negotiating, where appropriate, with a recipient to secure voluntary compliance when noncompliance is found under § 37.95(b).

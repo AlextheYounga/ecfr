@@ -1,0 +1,5 @@
+##### § 12.22 Labels; samples. #####
+
+Each package of such products imported for sale, barter, or exchange shall be labeled or plainly marked with the name, address, and license number of the manufacturer, and the date beyond which the contents cannot be expected to yield their specific results. From each lot of product the port director shall select at random at least two final containers. The random sample together with a copy of the associated documents which describe and identify the shipment shall be forwarded to the Director, Bureau of Biologics, Food and Drug Administration, 8800 Rockville Pike, Bethesda, Md. 20014. For shipments of 20 or less final containers, samples need not be forwarded, provided a copy of an official release from the Bureau of Biologics accompanies each shipment.
+
+[T.D. 69-201, 34 FR 14328, Sept. 12, 1969, as amended by T.D. 82-145, 47 FR 35476, Aug. 16, 1982]

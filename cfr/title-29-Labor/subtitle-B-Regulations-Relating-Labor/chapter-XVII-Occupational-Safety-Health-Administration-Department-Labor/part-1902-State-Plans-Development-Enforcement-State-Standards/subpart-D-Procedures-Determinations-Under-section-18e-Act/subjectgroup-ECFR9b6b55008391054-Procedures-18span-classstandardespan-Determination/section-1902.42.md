@@ -1,0 +1,9 @@
+##### § 1902.42 Effect of affirmative 18(e) determination. #####
+
+(a) In making an affirmative 18(e) determination, the Assistant Secretary determines that a State has applied the provisions of its plan, or any modification thereof, in accordance with the criteria of section 18(c) of the Act and that the State has applied the provisions of this part in a manner which renders the actual operations of the State program “at least as effective as” operations under the Federal program.
+
+(b) In the case of an affirmative 18(e) determination of a separable portion(s) of a plan, the Assistant Secretary determines that the State has applied the separable portion(s) of the plan in accordance with the criteria of section 18(c) of the Act in a manner comparable to Federal operations covering such portions and that the criteria of this part are being applied in a manner which renders the actual operations of such separable portion(s) of the State program “at least as effective as” operations of such portions under the Federal program.
+
+(c) Upon making an affirmative 18(e) determination, the standards promulgated under section 6 of the Act and the enforcement provisions of section 5(a)(2), 8 (except for the purpose of continuing evaluations under section 18(f) of the Act), 9, 10, 13 and 17 of the Act shall not apply with respect to those occupational safety and health issues covered under the plan for which an affirmative 18(e) determination has been granted. The Assistant Secretary shall retain his authority under the above sections for those issues covered in the plan which have not been granted an affirmative 18(e) determination.
+
+(d) The Assistant Secretary will retain jurisdiction under the citation and contest provisions of sections 9 and 10 of the Act and the imminent-danger provisions of section 13 where such proceedings have been commenced prior to the date of his determination.

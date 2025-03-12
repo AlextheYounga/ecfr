@@ -1,0 +1,3 @@
+##### § 208.38 Reimbursement for re-supply and logistics costs incurred during Activation. #####
+
+With the exception of emergency procurement authorized in the Activation Order, and replacement of consumable items provided for in § 208.43(a)(2) of this subpart, DHS will not reimburse costs incurred for re-supply and logistical support during Activation. Re-supply and logistical support of Task Forces needed during Activation are the responsibility of the Joint Management Team.

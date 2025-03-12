@@ -1,0 +1,3 @@
+##### § 1308.17 Failure to render timely decision. #####
+
+Any failure by Contracting Officer to issue a decision on a submitted claim within the period required or permitted by § 1308.13, will be deemed to be a decision by the Contracting Officer denying the claim and will authorize the commencement of an appeal on the claim under this part, or a suit on the claim as provided in section 10(a)(2) of the Act. If no appeal or suit pursuant to this section has been commenced at the time the Contracting Officer issues a decision, the right to sue or appeal and the time limits therefor shall be determined as otherwise provided in this part and the Act, and this section shall not authorize an appeal or suit from the decision.

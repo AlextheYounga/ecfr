@@ -1,0 +1,3 @@
+##### § 10.2001 Scope. #####
+
+This subpart implements the duty preference and related customs provisions applicable to imported and exported goods under the United States-Panama Trade Promotion Agreement (the PANTPA) signed on June 28, 2007, and under the United States-Panama Trade Promotion Agreement Implementation Act (“the Act”), Public Law 112-43, 125 Stat. 497 (19 U.S.C. 3805 note). Except as otherwise specified in this subpart, the procedures and other requirements set forth in this subpart are in addition to the customs procedures and requirements of general application contained elsewhere in this chapter. Additional provisions implementing certain aspects of the PANTPA and the Act are contained in parts 24, 162, and 163 of this chapter.

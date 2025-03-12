@@ -1,0 +1,3 @@
+##### § 260.60 How samples are to be shipped. #####
+
+Unless otherwise directed by the Secretary, samples which are to be shipped to any office of inspection shall be forwarded to the office of inspection serving the area in which the processed prodcuts from which the samples were drawn is located. Such samples shall be shipped in a manner to avoid, if possible, any material change in the quality or condition of the sample of the processed product. All transportation charges in connection with such shipments of samples shall be at the expense of the applicant and wherever practicable, such charges shall be prepaid by him.

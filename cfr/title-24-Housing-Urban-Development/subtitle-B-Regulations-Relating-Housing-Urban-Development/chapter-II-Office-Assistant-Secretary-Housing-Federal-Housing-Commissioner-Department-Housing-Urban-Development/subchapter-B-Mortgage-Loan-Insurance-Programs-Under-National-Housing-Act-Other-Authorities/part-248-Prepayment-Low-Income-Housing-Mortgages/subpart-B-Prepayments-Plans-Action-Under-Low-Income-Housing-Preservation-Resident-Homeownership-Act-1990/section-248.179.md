@@ -1,0 +1,3 @@
+##### § 248.179 Consultation with other interested parties. #####
+
+The Commissioner shall confer with any appropriate State or local government agency to confirm any State or local assistance that is available to achieve the purposes of subpart B of this part and shall give consideration to the views of any such agency when making determinations under subpart B of this part. The Commissioner shall also confer with appropriate interested parties that the Commissioner believes could assist in the development of a plan of action that best achieves the purposes of subpart B of this part.

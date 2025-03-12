@@ -1,0 +1,5 @@
+##### § 701.60 Procedures for revision of rules and regulations. #####
+
+Revisions proposed by the Water Resources Council Members to the Principles and Standards Manual of Procedures promulgated as rules and regulations by the Water Resources Council are to be submitted in writing by one or more Members of the Water Resouces Council to the Director, Water Resources Council, to be handled as an action item in accordance with § 701.53. Proposed revisons adopted by the Council in accordance with § 701.53 will be published in the Federal Register as proposed interim, or final changes. Proposed or interim changes shall be subject to a minimum 60-day public comment period; after the comment period, the Water Resources Council will publich notice that the revision is final as written or as changed to reflect comment or is revoked. Final changes will not be subject to a public comment period following publication in the Federal Register and will become effective when published or at specified date.
+
+[44 FR 72584, Dec. 14, 1979]

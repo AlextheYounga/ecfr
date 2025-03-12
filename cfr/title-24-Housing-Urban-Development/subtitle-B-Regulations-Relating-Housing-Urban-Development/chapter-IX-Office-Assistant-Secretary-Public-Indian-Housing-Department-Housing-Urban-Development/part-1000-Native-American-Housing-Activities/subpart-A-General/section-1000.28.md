@@ -1,0 +1,3 @@
+##### § 1000.28 May a self-governance Indian tribe be exempted from the applicability of § 1000.26? #####
+
+Yes. A self-governance Indian tribe shall certify that its administrative requirements, standards and systems meet or exceed the comparable requirements of § 1000.26. For purposes of this section, a self-governance Indian tribe is an Indian tribe that participates in tribal self-governance as authorized under Public Law 93-638, as amended (25 U.S.C. 450 *et seq.*).

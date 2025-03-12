@@ -1,0 +1,29 @@
+##### § 402.45 Alternative consultation on FIFRA actions that are not likely to adversely affect listed species or critical habitat. #####
+
+(a) *Consultation obligations for FIFRA actions that are not likely to adversely affect listed species or critical habitat when alternative consultation agreement is in effect.* If EPA and the Service have entered into an alternative consultation agreement as provided below, EPA may make a determination that a FIFRA action is not likely to adversely affect a listed species or critical habitat without informal consultation or written concurrence from the Director, and upon making such a determination for a listed species or critical habitat, EPA need not initiate any additional consultation on that FIFRA action as to that listed species or critical habitat. As part of any subsequent request for formal consultation on that FIFRA action under this subpart or subpart B of this part, EPA shall include a list of all listed species and critical habitat for which EPA has concluded consultation under this section.
+
+(b) *Procedures for adopting and implementing an alternative consultation agreement.* EPA and the Service may enter into an alternative consultation agreement using the following procedures:
+
+(1) *Initiation.* EPA submits a written notification to the Service Director of its intent to enter into an alternative consultation agreement.
+
+(2) *Required contents of the alternative consultation agreement.* The alternative consultation agreement will, at a minimum, include the following components:
+
+(i) *Adequacy of EPA Determinations under the ESA.* The alternative consultation agreement shall describe actions that EPA and the Service have taken to ensure that EPA's determinations regarding the effects of its actions on listed species or critical habitat are consistent with the ESA and applicable implementing regulations.
+
+(ii) *Training.* The alternative consultation agreement shall describe actions that EPA and the Service intend to take to ensure that EPA and Service personnel are adequately trained to carry out their respective roles under the alternative consultation agreement. The alternative consultation agreement shall provide that all effects determinations made by EPA under this subpart have been reviewed and concurred on by an EPA staff member who holds a current certification as having received appropriate training under the alternative consultation agreement.
+
+(iii) *Incorporation of new information.* The alternative consultation agreement shall describe processes that EPA and the Service intend to use to ensure that new information relevant to EPA's effects determinations is timely and appropriately considered.
+
+(iv) *Incorporation of scientific advances.* The alternative consultation agreement shall describe processes that EPA and the Service intend to use to ensure that the ecological risk assessment methodologies supporting EPA's effects determinations incorporate relevant scientific advances.
+
+(v) *Oversight.* The alternative consultation agreement shall describe the program and associated record keeping procedures that the Service and EPA intend to use to evaluate EPA's processes for making effects determinations consistent with these regulations and the alternative consultation agreement. The alternative consultation agreement shall provide that the Service's oversight will be based on periodic evaluation of EPA's program for making effects determinations under this subpart. Periodic program evaluation will occur at the end of the first year following signature of the alternative consultation agreement and should normally occur at least every five years thereafter.
+
+(vi) *Records.* The alternative consultation agreement shall include a provision for EPA to maintain a list of FIFRA actions for which EPA has made determinations under this section and to provide the list to the Services on request. EPA will also maintain the necessary records to allow the Service to complete program evaluations.
+
+(vii) *Review of Alternative Consultation Agreement.* The alternative consultation agreement shall include provisions for regular review and, as appropriate, modification of the agreement by EPA and the Service, and for departure from its terms in a particular case to the extent deemed necessary by both EPA and the Service.
+
+(3) *Training.* After EPA and the Service enter into the alternative consultation agreement, EPA and the Service will implement the training program outlined in the alternative consultation agreement to the mutual satisfaction of EPA and the Service.
+
+(4) *Public availability.* The alternative consultation agreement and any related oversight or monitoring reports shall be made available to the public to the extent provided by law.
+
+(c) *Oversight of alternative consultation agreement implementation.* Through the program evaluations set forth in the alternative consultation agreement, the Service will determine whether the implementation of this section by EPA is consistent with the best scientific and commercial information available, the ESA, and applicable implementing regulations. The Service Director may use the results of the program evaluations described in the alternative consultation agreement to recommend changes to EPA's implementation of the alternative consultation agreement. The Service Director retains discretion to terminate or suspend the alternative consultation agreement if, in using the procedures in this subpart, EPA fails to comply with the requirements of this subpart, section 7 of the ESA, or the terms of the alternative consultation agreement. Termination, suspension, or modification of an alternative consultation agreement does not affect the validity of any NLAA determinations made previously under the authority of this subpart.

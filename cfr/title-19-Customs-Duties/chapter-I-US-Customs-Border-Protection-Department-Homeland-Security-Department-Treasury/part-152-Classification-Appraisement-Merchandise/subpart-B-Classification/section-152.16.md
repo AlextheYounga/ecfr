@@ -1,0 +1,17 @@
+##### § 152.16 Judicial changes in classification. #####
+
+Link to an amendment published at 81 FR 93022, December 20, 2016.
+
+The following procedures apply to changes in classification made by decision of either the United States Court of International Trade or the United States Court of Appeals for the Federal Circuit, except to the extent otherwise provided in a ruling published in the Customs Bulletin pursuant to § 177.10(a) of this chapter:
+
+(a) *Identical merchandise under decision favorable to Government.* The principles of any court decision favorable to the Government shall be applied to all merchandise identical with that passed on by the court which is covered by unliquidated entries, whether for consumption or warehouse.
+
+(b) *Similar merchandise under decision favorable to Government.* The principles of any court decision favorable to the Government shall be applied to merchandise, though not identical with the merchandise the subject of the court's decision, if its classification is affected by such principles, provided that it has been entered or withdrawn for consumption after 30 days from the date of publication of the court's decision in the Customs Bulletin.
+
+(c) *Higher rate.* If a court decision overruling a protest contains a definite statement that a higher rate than that assessed by the port director was properly chargeable, such higher rate shall be applied to all merchandise, whether identical or similar to that passed on by the court, which is affected by the principles of the court's decision and which is entered or withdrawn for consumption after 30 days from the date of the publication of the court's decision in the Customs Bulletin.
+
+(d) *American manufacturer's petition upheld.* If the court upholds a petition made by an American manufacturer, producer, or wholesaler under the provisions of section 516, Tariff Act of 1930, as amended (19 U.S.C. 1516), the principles of the court's decision shall be applicable to all merchandise of that character which is entered or withdrawn for consumption after the date of publication of the court's decision in the Customs Bulletin. The liquidation of entries covering merchandise of that character made after publication of the court's decision shall be suspended in accordance with § 159.57 of this chapter pending any rehearing or review, then liquidated, or, if necessary, reliquidated in accordance with the final judicial decision.
+
+(e) *Other decisions adverse to Government.* Unless the Commissioner of Customs otherwise directs, the principles of any court decision adverse to the Government (except for a decision upholding an American manufacturer's petition as covered in paragraph (d) of this section) shall be applied to unliquidated entries and protested entries which have not been denied in whole or in part and in which the same issue is involved as soon as the time within which an application for a rehearing or review may be filed has expired without such application having been made. See § 176.31 of this chapter for the treatment of entries which are the subject of a court decision.
+
+[T.D. 73-175, 38 FR 17477, July 2, 1973, as amended by T.D. 75-186, 40 FR 31928, July 30, 1975; T.D. 85-90, 50 FR 21430, May 24, 1985]

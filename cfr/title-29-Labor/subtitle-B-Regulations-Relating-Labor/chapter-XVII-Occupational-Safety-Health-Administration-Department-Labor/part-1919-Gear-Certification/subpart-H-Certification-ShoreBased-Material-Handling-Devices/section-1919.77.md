@@ -1,0 +1,3 @@
+##### § 1919.77 Safe working load increase. #####
+
+(a) In no case shall safe working loads be increased beyond the manufacturer's ratings or original design limitations unless such increase meets with the manufacturer's approval. Where the manufacturer's services are not available, or where the equipment is of foreign manufacture, engineering design analysis by, or acceptable to, the accredited certification agency is required. All necessary structural changes shall be carried out.

@@ -1,0 +1,3 @@
+##### § 1620.22 Employment cost not a “factor other than sex.” #####
+
+A wage differential based on claimed differences between the average cost of employing workers of one sex as a group and the average cost of employing workers of the opposite sex as a group is discriminatory and does not qualify as a differential based on any “factor other than sex,” and will result in a violation of the equal pay provisions, if the equal pay standard otherwise applies.

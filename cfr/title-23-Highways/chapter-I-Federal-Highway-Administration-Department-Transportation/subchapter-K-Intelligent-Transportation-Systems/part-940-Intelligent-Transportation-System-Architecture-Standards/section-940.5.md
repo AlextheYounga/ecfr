@@ -1,0 +1,3 @@
+##### § 940.5 Policy. #####
+
+ITS projects shall conform to the National ITS Architecture and standards in accordance with the requirements contained in this part. Conformance with the National ITS Architecture is interpreted to mean the use of the National ITS Architecture to develop a regional ITS architecture, and the subsequent adherence of all ITS projects to that regional ITS architecture. Development of the regional ITS architecture should be consistent with the transportation planning process for Statewide and Metropolitan Transportation Planning.

@@ -1,0 +1,3 @@
+##### § 922.165 Emergency regulations. #####
+
+Where necessary to prevent or minimize the destruction of, loss of, or injury to a Sanctuary resource or quality, or minimize the imminent risk of such destruction, loss, or injury, any and all activities are subject to immediate temporary regulation, including prohibition. Emergency regulations shall not take effect in Florida territorial waters until approved by the Governor of the State of Florida. Any temporary regulation may be in effect for up to 60 days, with one 60-day extension. Additional or extended action will require notice and comment rulemaking under the Administrative Procedure Act, notice in local newspapers, notice to Mariners, and press releases.

@@ -1,0 +1,3 @@
+##### § 553.225 Early relief. #####
+
+It is a common practice among employees engaged in fire protection activities to relieve employees on the previous shift prior to the scheduled starting time. Such early relief time may occur pursuant to employee agreement, either expressed or implied. This practice will not have the effect of increasing the number of compensable hours of work for employees employed under section 7(k) where it is voluntary on the part of the employees and does not result, over a period of time, in their failure to receive proper compensation for all hours actually worked. On the other hand, if the practice is required by the employer, the time involved must be added to the employee's tour of duty and treated as compensable hours of work.

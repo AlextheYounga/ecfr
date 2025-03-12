@@ -1,0 +1,3 @@
+##### § 453.24 Payment of bonding costs. #####
+
+The Act does not prohibit payment of the cost of the bonds, required by section 502(a), by labor organizations or by trusts in which a labor organization is interested. The decision whether such costs are to be borne by the labor organization or trust or by the bonded person is left to the duly authorized discretion and agreement of the parties concerned in each case.

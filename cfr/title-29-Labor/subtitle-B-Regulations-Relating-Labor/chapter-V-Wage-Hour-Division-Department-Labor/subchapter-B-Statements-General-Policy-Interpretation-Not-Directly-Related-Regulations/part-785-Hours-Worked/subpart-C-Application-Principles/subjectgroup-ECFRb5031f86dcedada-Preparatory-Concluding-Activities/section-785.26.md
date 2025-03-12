@@ -1,0 +1,5 @@
+##### § 785.26 Section 3(o) of the Fair Labor Standards Act. #####
+
+Section 3(o) of the Act provides an exception to the general rule for employees under collective bargaining agreements. This section provides for the exclusion from hours worked of time spent by an employee in changing clothes or washing at the beginning or end of each workday which was excluded from measured working time during the week involved by the express terms of or by custom or practice under a bona fide collective-bargaining agreement applicable to the particular employee. During any week in which such clothes-changing or washing time was not so excluded, it must be counted as hours worked if the changing of clothes or washing is indispensable to the performance of the employee's work or is required by law or by the rules of the employer. The same would be true if the changing of clothes or washing was a preliminary or postliminary activity compensable by contract, custom, or practice as provided by section 4 of the Portal-to-Portal Act, and as discussed in § 785.9 and part 790 of this chapter.
+
+[30 FR 9912, Aug. 10, 1965]

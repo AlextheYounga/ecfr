@@ -1,0 +1,15 @@
+##### § 26.20 Depositions. #####
+
+(a) *Taking oral deposition.* A party may take the oral deposition of any person. Reasonable written notice of deposition shall be served upon the opposing party and the deponent. The attendance of a deponent may be compelled by subpoena where authorized by law or by other order of the hearing officer.
+
+(b) *Testifying on oral deposition.* Each person testifying on oral deposition shall be placed under oath by the person before whom the deposition is taken. The deponent may be examined and cross-examined. The questions and the answers, together with all objections made, shall be recorded by the person before whom the deposition is to be taken, or under that person's direction.
+
+(c) *Objections.* Objection may be made to questions or answers for any reason that would require the exclusion of the testimony under § 26.24 as if the witness were present and testifying at hearing. Objections shall be in short form, stating every ground for objection. Failure to object to any question or answer shall be considered a waiver of objection, unless the parties agree otherwise. Rulings on any objections shall be made by the hearing officer at hearing, or at such other time requested by motion. The examination shall proceed, with the testimony being taken subject to the objections; the deponent may be instructed not to answer only when necessary to preserve a privilege, to enforce a limitation directed by the hearing officer, or to present a motion for a protective order under § 26.18(c)(2).
+
+(d) *Submission to deponent.* A transcript of the deposition shall be submitted to the deponent for examination and signature, unless submission is waived by the deponent and the parties. Any changes in form or substance that the deponent desires to make shall be entered upon the transcript by the person before whom the deposition was taken, with a statement of reasons given by the deponent for making them. The transcript shall then be signed by the deponent, unless the parties by stipulation waive the signing or the deponent is ill, cannot be found, or refuses to sign. If the transcript is not signed, the person before whom the deposition was taken shall sign it and state on the record the reason that it is not signed.
+
+(e) *Certification and filing.* The person before whom the deposition was taken shall make a certification on the transcript as to its accuracy. Interested parties shall make their own arrangements with the person recording the testimony for copies of the testimony and the exhibits.
+
+(f) *Deposition as evidence.* Subject to appropriate rulings by the hearing officer on objections, the deposition or any part may be introduced into evidence for any purpose if the deponent is unavailable. Only that part of a deposition that is received in evidence at a hearing shall constitute a part of the record in the proceeding upon which a decision may be based. Nothing in this rule is intended to limit the use of a deposition for impeachment purposes.
+
+(g) *Payment of fees.* Fees shall be paid by the person upon whose application the deposition is taken.

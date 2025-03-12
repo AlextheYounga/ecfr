@@ -1,0 +1,5 @@
+##### § 70.1 Purpose of part. #####
+
+The purpose of this part is to provide an administrative procedure whereby the Federal Insurance Administrator will review the scientific or technical submissions of an owner or lessee of property who believes his property has been inadvertently included in designated A, AO, A1-30, AE, AH, A99, AR, AR/A1-30, AR/AE, AR/AO, AR/AH, AR/A, VO, V1-30, VE, and V Zones, as a result of the transposition of the curvilinear line to either street or to other readily identifiable features. The necessity for this part is due in part to the technical difficulty of accurately delineating the curvilinear line on either an FHBM or FIRM. These procedures shall not apply when there has been any alteration of topography since the effective date of the first NFIP map (i.e., FHBM or FIRM) showing the property within an area of special flood hazard. Appeals in such circumstances are subject to the provisions of part 65 of this subchapter.
+
+[62 FR 55718, Oct. 27, 1997]

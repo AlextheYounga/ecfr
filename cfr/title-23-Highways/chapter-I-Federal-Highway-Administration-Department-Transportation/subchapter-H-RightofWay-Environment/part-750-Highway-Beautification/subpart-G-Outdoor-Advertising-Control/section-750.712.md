@@ -1,0 +1,3 @@
+##### § 750.712 Reclassification of signs. #####
+
+Any sign lawfully erected after the effective date of a State outdoor advertising control law which is reclassified from legal-conforming to nonconforming and subject to removal under revised State statutes or regulations and policy pursuant to this regulation is eligible for Federal participation in just compensation payments and other eligible costs.

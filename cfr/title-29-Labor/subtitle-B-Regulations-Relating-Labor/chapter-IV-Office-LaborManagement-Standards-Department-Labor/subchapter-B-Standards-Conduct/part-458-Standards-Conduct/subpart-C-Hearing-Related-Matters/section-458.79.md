@@ -1,0 +1,5 @@
+##### § 458.79 Burden of proof. #####
+
+In a hearing concerning an alleged violation of § 458.2 (Bill of rights of members of labor organizations) or § 458.37 (Prohibition of certain discipline), the complainant shall have the burden of proving the allegations of the complaint by a preponderance of the evidence. In a hearing concerning an alleged violation of §§ 458.26-458.30, the Chief, DOE shall have the burden of proving the allegations of the complaint by a preponderance of the evidence. In a hearing concerning an alleged violation of other standards of conduct matters, the District Director shall have the burden of proving the allegations of the complaint by a preponderance of the evidence.
+
+[45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]

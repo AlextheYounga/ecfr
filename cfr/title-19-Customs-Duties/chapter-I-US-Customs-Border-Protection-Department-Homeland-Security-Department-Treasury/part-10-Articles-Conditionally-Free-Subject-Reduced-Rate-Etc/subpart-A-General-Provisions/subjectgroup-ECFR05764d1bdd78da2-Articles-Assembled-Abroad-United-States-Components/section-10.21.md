@@ -1,0 +1,5 @@
+##### § 10.21 Updating cost data and other information. #####
+
+When a claim for the exemption is predicated on estimated cost data furnished either in advance of or at the time of entry, this fact should be clearly stated in writing at the time of entry, and suspension of liquidation may be requested by the importer or his agent pending the furnishing of actual cost data. Actual cost data must be submitted as soon as accounting procedures permit. To insure that information used for Customs purposes is reasonably current, the importer shall ordinarily be required to furnish updated cost and assembly data at least every six months, regardless of whether he considers that significant changes have occurred. The 6-month period for the submission of updated cost or other data may be extended by the port director if such extension is appropriate for the type of merchandise involved, or because of the accounting period normally used in the trade, or because of other relevant circumstances.
+
+[T.D. 75-230, 40 FR 43025, Sept. 18, 1975]

@@ -1,0 +1,3 @@
+##### § 296.31 Dissemination of results. #####
+
+Results stemming from the analyses required by § 296.30 will be disseminated in periodic working papers, fact sheets, and meetings, which will address the progress that the Program has made from both a project and a portfolio perspective. Such disseminated results will serve to educate both external constituencies as well as internal audiences on research results, best practices, and recommended changes to existing operations based on solid analysis.

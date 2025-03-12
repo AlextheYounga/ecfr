@@ -1,0 +1,5 @@
+##### § 501.42 Procedures for initiating and undertaking review. #####
+
+(a) A respondent, the WHD, or any other party wishing review, including judicial review, of the decision of an ALJ shall, within 30 days of the decision of the ALJ, petition the ARB to review the decision. Copies of the petition shall be served on all parties and on the ALJ. If the ARB does not issue a notice accepting a petition for review of the decision within 30 days after receipt of a timely filing of the petition, or within 30 days of the date of the decision if no petition has been received, the decision of the ALJ shall be deemed the final agency action.
+
+(b) Whenever the ARB, either on the ARB's own motion or by acceptance of a party's petition, determines to review the decision of an ALJ, a notice of the same shall be served upon the ALJ and upon all parties to the proceeding.

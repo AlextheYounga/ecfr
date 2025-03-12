@@ -1,0 +1,3 @@
+##### § 750.701 Purpose. #####
+
+This subpart prescribes the Federal Highway Administration (FHWA) policies and requirements relating to the effective control of outdoor advertising under 23 U.S.C. 131. The purpose of these policies and requirements is to assure that there is effective State control of outdoor advertising in areas adjacent to Interstate and Federal-aid primary highways. Nothing in this subpart shall be construed to prevent a State from establishing more stringent outdoor advertising control requirements along Interstate and Primary Systems than provided herein.

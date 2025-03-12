@@ -1,0 +1,3 @@
+##### § 661.45 What happens when IRRBP funds cannot be obligated by the end of the fiscal year? #####
+
+IRRBP funds provided to a project that cannot be obligated by the end of the fiscal year are to be returned to FHWA during August redistribution. The returned funds will be re-allocated to the BIA the following fiscal year after receipt and acceptance at FHWA from BIA of a formal request for the funds, which includes a justification for the amounts requested and the reason for the failure of the prior year obligation.

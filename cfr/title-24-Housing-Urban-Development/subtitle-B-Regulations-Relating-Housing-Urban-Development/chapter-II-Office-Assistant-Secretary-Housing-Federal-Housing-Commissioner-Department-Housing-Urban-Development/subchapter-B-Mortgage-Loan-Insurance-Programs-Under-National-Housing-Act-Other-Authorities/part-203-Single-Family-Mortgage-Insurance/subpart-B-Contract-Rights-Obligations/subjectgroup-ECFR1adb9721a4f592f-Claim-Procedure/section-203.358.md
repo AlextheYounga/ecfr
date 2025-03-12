@@ -1,0 +1,3 @@
+##### § 203.358 Direct conveyance of property. #####
+
+In acquiring the property or conveying the property to the Commissioner the mortgagee may arrange for the deed to be made directly to the Commissioner from the mortgagor or other grantor. The mortgagee shall be responsible for determining that such conveyance will comply with all of the provisions of this part conveying good marketable title and satisfactory title evidence.

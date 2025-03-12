@@ -1,0 +1,3 @@
+##### § 242.28 Allowable costs for consultants. #####
+
+Consulting fees for work essential to the development of the project may be included in the insured mortgage. Allowable consulting fees include those for analysis of market demand, expected revenues, and costs; site analysis; architectural and engineering design; and such other fees as HUD may determine to be essential to project development. Fees for work performed more than 2 years prior to application are not allowable. Fees for work performed by any party with an identity of interest with the proposed mortgagor or mortgagee are not allowable.

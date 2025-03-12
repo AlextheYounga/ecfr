@@ -1,0 +1,3 @@
+##### § 9.9 Consumer education. #####
+
+The Department of Commerce, in close cooperation and coordination with interested Government agencies, appropriate industry trade associations and industry members, and interested consumers and environmentalists shall carry out a program to educate consumers relative to the significance of the labeling program. Some elements of this program shall also be directed toward informing retailers and other interested groups about the program.

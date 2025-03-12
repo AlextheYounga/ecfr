@@ -1,0 +1,3 @@
+##### § 417.18 Hearings—removal of officers of local labor organizations. #####
+
+Hearings pursuant to order of the court and concerning the removal of officers under section 402(b) of the Act shall be for the purpose of introducing testimony and evidence showing why an officer or officers accused of serious misconduct should or should not be removed. Hearings shall be conducted by the officers of the labor organization (subject to § 417.19) in accordance with the constitution and bylaws of the labor organization insofar as they are not inconsistent with title IV of the Act, or with the provisions of this part 417: *Provided, however,* That no officer(s) accused of serious misconduct shall participate in such hearings in any capacity except as witness or counsel.

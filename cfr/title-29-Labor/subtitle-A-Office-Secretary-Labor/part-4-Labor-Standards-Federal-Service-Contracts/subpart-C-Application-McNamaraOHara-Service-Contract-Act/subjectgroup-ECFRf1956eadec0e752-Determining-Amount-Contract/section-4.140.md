@@ -1,0 +1,3 @@
+##### § 4.140 Significance of contract amount. #####
+
+As set forth in § 4.104 and in the requirements of §§ 4.6-4.7, the obligations of a contractor with respect to labor standards differ in the case of a covered and nonexempt contract, depending on whether the contract is or is not in excess of $2,500. Rules for resolving questions that may arise as to whether a contract is or is not in excess of this figure are set forth in the following sections.

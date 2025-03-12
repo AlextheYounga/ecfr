@@ -1,0 +1,7 @@
+##### § 1312.1 Purpose. #####
+
+(a) The regulations in this part implement provisions of the Archaeological Resources Protection Act of 1979, as amended (16 U.S.C. 470aa-mm) by establishing the uniform definitions, standards, and procedures to be followed by all Federal land managers in providing protection for archaeological resources, located on public lands and Indian lands of the United States. These regulations enable Federal land managers to protect archaeological resources, taking into consideration provisions of the American Indian Religious Freedom Act (92 Stat. 469; 42 U.S.C. 1996), through permits authorizing excavation and/or removal of archaeological resources, through civil penalties for unauthorized excavation and/or removal, through provisions for the preservation of archaeological resource collections and data, and through provisions for ensuring confidentiality of information about archaeological resources when disclosure would threaten the archaeological resources. The regulations in this part also enable TVA's law enforcement agents to issue petty offense citations for violations of any provision of 16 U.S.C. 470ee or 16 U.S.C. 433.
+
+(b) The regulations in this part do not impose any new restrictions on activities permitted under other laws, authorities, and regulations relating to mining, mineral leasing, reclamation, and other multiple uses of the public lands.
+
+[49 FR 1028, Jan. 6, 1984, as amended at 60 FR 5259, 5260, Jan. 26, 1995; 81 FR 54499, Aug. 16, 2016]

@@ -1,0 +1,5 @@
+##### § 302.1 Purpose. #####
+
+(a) The regulations in this part prescribe the requirements applicable to the Emergency Management Assistance (EMA) program for Federal financial contributions to the States, and through the States to their political subdivisions, for up to one half of the necessary and essential State and local civil defense personnel and administrative expenses, under section 205 of the Federal Civil Defense Act of 1950, as amended, and set forth the conditions under which such contributions will be made.
+
+(b) The intent of this program is to increase civil defense operational capability at the State and local levels of government by providing Federal financial assistance so that personnel and other resources can be made available for essential planning and other administrative functions and activities required in order to accomplish this objective.

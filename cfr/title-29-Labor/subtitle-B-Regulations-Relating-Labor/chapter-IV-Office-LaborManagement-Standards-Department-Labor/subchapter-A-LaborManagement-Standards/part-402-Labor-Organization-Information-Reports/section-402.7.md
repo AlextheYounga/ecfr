@@ -1,0 +1,3 @@
+##### § 402.7 Effect of acknowledgment and filing by the Office of Labor-Management Standards. #####
+
+Acknowledgment by the Office of Labor-Management Standards of the receipt of reports and documents submitted for filing under this part, is intended solely to inform the sender of the receipt thereof by the Office, and neither such acknowledgment nor the filing of such reports and documents by the Office constitutes express or implied approval thereof, or in any manner indicates that the content of any such report or document fulfills the reporting or other requirements of the Act, or of the regulations in this chapter, applicable thereto.

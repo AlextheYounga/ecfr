@@ -1,0 +1,3 @@
+##### § 300.96 Penalties. #####
+
+Any treaty Indian who commits any act that is unlawful under this subpart normally will be referred to the applicable tribe for prosecution and punishment. If such tribe fails to prosecute such persons in a diligent manner for the offense(s) referred to the tribe, or if other good cause exists, such treaty Indian may be subject to the penalties and procedures described in the Magnuson-Stevens Act.

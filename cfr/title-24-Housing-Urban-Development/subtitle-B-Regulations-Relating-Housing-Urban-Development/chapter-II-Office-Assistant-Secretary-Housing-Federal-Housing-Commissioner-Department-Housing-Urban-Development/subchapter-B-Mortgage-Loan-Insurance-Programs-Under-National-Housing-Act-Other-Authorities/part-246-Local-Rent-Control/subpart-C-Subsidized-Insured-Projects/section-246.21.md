@@ -1,0 +1,5 @@
+##### § 246.21 Rental charges. #####
+
+The Department finds that it is necessary and desirable to minimize defaults by the mortgagor in its financial obligations with regard to projects covered by this subpart, and to assist mortgagors to preserve the continued viability of those projects as a housing resource for low-income families. The Department also finds that it is necessary and desirable to protect the substantial economic interest of the Federal Government in those projects. Therefore, the Department concludes that it is in the national interest to preempt, and it does hereby preempt, the entire field of rent regulation by local rent control boards, (hereinafter referred to as board), or other authority, acting pursuant to state or local law as it affects projects covered by this subpart.
+
+[40 FR 49318, Oct. 22, 1975. Redesignated at 44 FR 58506, Oct. 10, 1979, and at 49 FR 6713, Feb. 23, 1984]

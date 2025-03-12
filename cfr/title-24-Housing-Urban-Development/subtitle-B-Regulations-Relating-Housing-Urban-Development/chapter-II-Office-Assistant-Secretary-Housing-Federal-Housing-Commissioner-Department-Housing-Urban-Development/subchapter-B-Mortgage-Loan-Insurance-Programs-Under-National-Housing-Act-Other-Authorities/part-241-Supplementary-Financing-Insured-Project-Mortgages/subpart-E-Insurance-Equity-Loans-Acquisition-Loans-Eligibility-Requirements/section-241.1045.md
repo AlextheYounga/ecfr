@@ -1,0 +1,3 @@
+##### § 241.1045 Note and security form. #####
+
+The lender shall present for insurance a note and security instrument on forms approved by the Commissioner for use in the jurisdiction in which the property is located, which shall not be changed without the prior approval of the Commissioner. The security instrument shall provide for accelerated repayment at the request of the Commissioner pursuant to § 241.1046(b).

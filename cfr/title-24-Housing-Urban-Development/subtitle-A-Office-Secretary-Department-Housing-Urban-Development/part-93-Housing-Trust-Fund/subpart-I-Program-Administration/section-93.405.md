@@ -1,0 +1,3 @@
+##### § 93.405 Applicability of uniform administrative requirements, cost principles, and audits. #####
+
+The requirements of 2 CFR part 200 apply to the grantees and subgrantees receiving HTF funds, except for the following provisions: §§ 200.307, 200.311, 300.328(b), 200.329, and 200.333. If there is a conflict between the definitions in 2 CFR part 200 and 24 CFR part 93, the definitions in part 93 govern.

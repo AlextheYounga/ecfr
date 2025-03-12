@@ -1,0 +1,9 @@
+##### § 825.600 Special rules for school employees, definitions. #####
+
+(a) Certain special rules apply to employees of local educational agencies, including public school boards and elementary and secondary schools under their jurisdiction, and private elementary and secondary schools. The special rules do not apply to other kinds of educational institutions, such as colleges and universities, trade schools, and preschools.
+
+(b) Educational institutions are covered by FMLA (and these special rules) and the Act's 50-employee coverage test does not apply. The usual requirements for employees to be eligible do apply, however, including employment at a worksite where at least 50 employees are employed within 75 miles. For example, employees of a rural school would not be eligible for FMLA leave if the school has fewer than 50 employees and there are no other schools under the jurisdiction of the same employer (usually, a school board) within 75 miles.
+
+(c) The special rules affect the taking of intermittent leave or leave on a reduced leave schedule, or leave near the end of an academic term (semester), by instructional employees. *Instructional employees* are those whose principal function is to teach and instruct students in a class, a small group, or an individual setting. This term includes not only teachers, but also athletic coaches, driving instructors, and special education assistants such as signers for the hearing impaired. It does not include, and the special rules do not apply to, teacher assistants or aides who do not have as their principal job actual teaching or instructing, nor does it include auxiliary personnel such as counselors, psychologists, or curriculum specialists. It also does not include cafeteria workers, maintenance workers, or bus drivers.
+
+(d) Special rules which apply to restoration to an equivalent position apply to all employees of local educational agencies.

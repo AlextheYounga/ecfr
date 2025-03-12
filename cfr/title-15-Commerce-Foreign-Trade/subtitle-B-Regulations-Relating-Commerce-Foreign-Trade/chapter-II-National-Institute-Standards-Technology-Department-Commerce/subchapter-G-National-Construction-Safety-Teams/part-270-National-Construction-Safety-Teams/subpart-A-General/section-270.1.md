@@ -1,0 +1,11 @@
+##### § 270.1 Description of rule; purpose; applicability. #####
+
+(a) The National Construction Safety Team Act (the Act) (Pub. L. 107-231) provides for the establishment of investigative teams to assess building performance and emergency response and evacuation procedures in the wake of any building failure that has resulted in substantial loss of life or that posed significant potential of substantial loss of life.
+
+(b)(1) The purpose of the Act is to provide for the establishment of investigative teams to assess building performance and emergency response and evacuation procedures in the wake of any building failure that has resulted in substantial loss of life or that posed significant potential of substantial loss of life. The role of NIST in implementing the Act is to understand the factors contributing to the building failure and to develop recommendations for improving national building and fire model codes, standards, and practices. To do this, the Teams produce technical reports containing data, findings, and recommendations for consideration by private sector bodies responsible for the affected national building and fire model code, standard, or practice. While NIST is an active participant in many of these organizations, NIST's recommendations are one of many factors considered by these bodies. NIST is not now and will not become a participant in the processes and adoption of practices, standards, or codes by state or local regulatory authorities.
+
+(2) It is not NIST's role to determine whether a failed building resulted from a criminal act, violated any applicable federal requirements or state or local code or regulatory requirements, or to determine any culpability associated therewith. These are matters for other federal, state, or local authorities, who enforce their regulations.
+
+(c) This part is applicable to the establishment and deployment of Teams and the conduct of investigations under the Act.
+
+[68 FR 4694, Jan. 30, 2003, as amended at 68 FR 66704, Nov. 28, 2003; 69 FR 33571, June 16, 2004]

@@ -1,0 +1,5 @@
+##### § 203.249 Effect of amendments. #####
+
+The regulations in this subpart may be amended by the Secretary at any time and from time to time, in whole or in part, but such amendment will not adversely affect the interests of a mortgagee under the contract of insurance on any mortgage or loan already insured, and will not adversely affect the interest of a mortgagee on any mortgage or loan to be insured for which either the Direct Endorsement or Lender Insurance mortgagee has approved the mortgagor and all terms and conditions of the mortgage or loan, or the Secretary has issued a firm commitment. In addition, such amendment will not adversely affect the eligibility of specific property if such property is covered by a conditional commitment issued by the Secretary, a certificate of reasonable value issued by the Secretary of Veterans Affairs, or an appraisal report approved by a Direct Endorsement or Lender Insurance underwriter.
+
+[62 FR 30226, June 2, 1997]

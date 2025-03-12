@@ -1,0 +1,3 @@
+##### § 20.201 Purpose. #####
+
+This section provides procedures the U.S. Department of Labor may use to collect money from a debtor's disposable pay by means of administrative wage garnishment to satisfy delinquent nontax debt owed to the Department. In accordance with the procedures set forth in 31 U.S.C. 3720D and 31 CFR 285.11, the Department may request that a non-Federal employer garnish the disposable pay of an individual to collect delinquent non-tax debt owed to the Department or in connection with any program administered by the Department.

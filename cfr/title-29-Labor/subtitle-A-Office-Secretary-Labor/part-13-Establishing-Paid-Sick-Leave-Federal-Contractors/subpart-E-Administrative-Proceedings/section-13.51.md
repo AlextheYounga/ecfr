@@ -1,0 +1,19 @@
+##### § 13.51 Disputes concerning contractor compliance. #####
+
+(a) This section sets forth the procedures for resolution of disputes of fact or law concerning a contractor's compliance with this part. The procedures in this section may be initiated upon the Administrator's own motion or upon request of the contractor.
+
+(b)(1) In the event of a dispute described in paragraph (a) of this section in which it appears that relevant facts are at issue, the Administrator will notify the affected contractor(s) and the prime contractor (if different) of the investigative findings by certified mail to the last known address.
+
+(2) A contractor desiring a hearing concerning the Administrator's investigative findings letter shall request such a hearing by letter postmarked within 30 calendar days of the date of the Administrator's letter. The request shall set forth those findings that are in dispute with respect to the violations and/or debarment, as appropriate, explain how the findings are in dispute including by making reference to any affirmative defenses.
+
+(3) Upon receipt of a timely request for a hearing, the Administrator shall refer the case to the Chief Administrative Law Judge by Order of Reference, to which shall be attached a copy of the investigative findings letter from the Administrator and response thereto, for designation to an Administrative Law Judge to conduct such hearings as may be necessary to resolve the disputed matters. The hearing shall be conducted in accordance with the procedures set forth in 29 CFR part 6.
+
+(c)(1) In the event of a dispute described in paragraph (a) of this section in which it appears that there are no relevant facts at issue, and where there is not at that time reasonable cause to institute debarment proceedings under § 13.52, the Administrator shall notify the contractor(s) of the investigative findings by certified mail to the last known address, and shall issue a ruling in the investigative findings letter on any issues of law known to be in dispute.
+
+(2)(i) If the contractor disagrees with the factual findings of the Administrator or believes that there are relevant facts in dispute, the contractor shall so advise the Administrator by letter postmarked within 30 calendar days of the date of the Administrator's letter. In the response, the contractor shall explain in detail the facts alleged to be in dispute and attach any supporting documentation.
+
+(ii) Upon receipt of a timely response under paragraph (c)(2)(i) of this section alleging the existence of a factual dispute, the Administrator shall examine the information submitted. If the Administrator determines that there is a relevant issue of fact, the Administrator shall refer the case to the Chief Administrative Law Judge in accordance with paragraph (b)(3) of this section. If the Administrator determines that there is no relevant issue of fact, the Administrator shall so rule and advise the contractor accordingly.
+
+(3) If the contractor desires review of the ruling issued by the Administrator under paragraph (c)(1) or the final sentence of (c)(2)(ii) of this section, the contractor shall file a petition for review thereof with the Administrative Review Board postmarked within 30 calendar days of the date of the ruling, with a copy thereof to the Administrator. The petition for review shall be filed in accordance with the procedures set forth in 29 CFR part 7.
+
+(d) If a timely response to the Administrator's investigative findings letter is not made or a timely petition for review is not filed, the Administrator's investigative findings letter shall become the final order of the Secretary. If a timely response or petition for review is filed, the Administrator's letter shall be inoperative unless and until the decision is upheld by an Administrative Law Judge or the Administrative Review Board or otherwise becomes a final order of the Secretary.

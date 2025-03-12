@@ -1,0 +1,5 @@
+##### § 6.3 Termination of license. #####
+
+Licenses may be terminated by written order of the Commission not less than 90 days after notice thereof shall have been mailed to the licensee by certified mail to the last address whereof the Commission has been notified by the licensee, if there is failure to commence actual construction of the project works within the time prescribed in the license, or as extended by the Commission. Upon like notice, the authority granted under a license with respect to any separable part of the project works may be terminated if there is failure to begin construction of such separable part within the time prescribed or as extended by the Commission.
+
+(Administrative Procedure Act, 5 U.S.C. 551-557 (1976); Federal Power Act, as amended, 16 U.S.C. 291-628 (1976 & Supp. V 1981), Dept. of Energy Organization Act 42 U.S.C. 7101-7352 (Supp. V 1981); E.O. 12009, 3 CFR 142 (1978))[Order 141, 12 FR 8491, Dec. 19, 1947, as amended by Order 344, 48 FR 49010, Oct. 24, 1983]

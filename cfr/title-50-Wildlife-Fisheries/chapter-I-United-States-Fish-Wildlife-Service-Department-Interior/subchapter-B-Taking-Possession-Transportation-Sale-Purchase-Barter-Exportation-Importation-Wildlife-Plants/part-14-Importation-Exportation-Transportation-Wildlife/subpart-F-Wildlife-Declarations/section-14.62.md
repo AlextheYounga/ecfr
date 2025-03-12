@@ -1,0 +1,17 @@
+##### § 14.62 Exceptions to import declaration requirements. #####
+
+(a) Except for wildlife requiring a permit pursuant to part 17 or 23 of this subchapter B, an importer or his/her agent does not have to file a Declaration for Importation or Exportation of Fish or Wildlife (Form 3-177) for importation of shellfish and fishery products imported for purposes of human or animal consumption, or taken in waters under the jurisdiction of the United States or on the high seas for recreational purposes;
+
+(b) Except for wildlife requiring a permit pursuant to part 16, 17, 18, 21, or 23 of this subchapter B, a Declaration for Importation or Exportation of Fish or Wildlife (Form 3-177) does not have to be filed for importation of the following:
+
+(1) Fish taken for recreational purposes in Canada or Mexico;
+
+(2) Wildlife products or manufactured articles that are not intended for commercial use and are used as clothing or contained in accompanying personal baggage, except that an importer or his/her agent must file a Form 3-177 for raw or dressed furs; for raw, salted, or crusted hides or skins; and for game or game trophies; and
+
+(3) Wildlife products or manufactured articles that are not intended for commercial use and are a part of a shipment of the household effects of persons moving their residence to the United States, except that an importer or his/her agent must file a declaration for raw or dressed furs and for raw, salted, or crusted hides or skins.
+
+(c) *General declarations for certain specimens.* Notwithstanding the provisions of 14.61 and except for wildlife included in paragraph (d) of this section, an importer or his/her agent may describe in general terms on a Declaration for the Importation or Exportation of Fish or Wildlife (Form 3-177) scientific specimens imported for scientific institutions for taxonomic, systematic research, or faunal survey purposes. An importer or his/her agent must file an amended Form 3-177 within 180 days after filing of the general declaration with the Service. The declaration must identify specimens to the most accurate taxonomic classification reasonably practicable using the best available taxonomic information. The Director may grant extensions of the 180-day period.
+
+(d) Except for wildlife requiring a permit pursuant to part 16, 17, 18, 21, 22 or 23 of this subchapter, an importer or his/her agent does not have to file a Declaration for the Importation or Exportation of Fish or Wildlife (Form 3-177) at the time of importation for shipments of dead, preserved, dried, or embedded scientific specimens or parts thereof, imported by accredited scientists or accredited scientific institutions for taxonomic or systematic research purposes. An importer or his/her agent must file a Form 3-177 within 180 days of importation with the appropriate Assistant Regional Director—Law Enforcement in the Region where the importation occurs. The declaration must identify the specimens to the most accurate taxonomic classification reasonably practicable using the best available taxonomic information, and must declare the country of origin. *Except:* That this exception will not apply to any specimens or parts thereof taken as a result of sport hunting.
+
+[45 FR 56673, Aug. 25, 1980; 45 FR 64953, Oct. 1, 1980, as amended at 61 FR 31870, June 21, 1996]

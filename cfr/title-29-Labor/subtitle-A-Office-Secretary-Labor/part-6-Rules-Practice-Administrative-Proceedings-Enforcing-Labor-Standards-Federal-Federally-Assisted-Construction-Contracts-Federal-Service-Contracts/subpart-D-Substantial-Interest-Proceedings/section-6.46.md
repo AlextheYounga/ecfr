@@ -1,0 +1,3 @@
+##### § 6.46 Ineligible list. #####
+
+Upon the final decision of the Administrative Law Judge, Administrative Review Board, as appropriate, the Administrator promptly shall forward to the Comptroller General the names of any firm, corporation, partnership, or association in which a person or firm debarred pursuant to section 5(a) of the Service Contract Act or § 5.12(a) of part 5 of this title has a substantial interest; and/or the name of any firm, corporation, partnership, or association in which a person or firm debarred pursuant to section 3(a) of the Davis-Bacon Act has an interest.

@@ -1,0 +1,3 @@
+##### § 930.157 Mediation and informal negotiations. #####
+
+The relevant provisions contained in subpart G of this part are available for resolution of disputes between affected States, relevant Federal agencies, and applicants or applicant agencies The parties to the dispute are also encouraged to use alternative means for resolving their disagreement. OCRM shall be available to assist the parties in these efforts.

@@ -1,0 +1,3 @@
+##### § 330.10 Eligible collateral. #####
+
+The Association, in its discretion, shall determine what collateral is eligible for inclusion in the Multiclass Securities program. Eligible collateral may include GNMA MBS certificates, government mortgages, consolidated securities, and other securities approved by the Association. Categories of these GNMA MBS certificates, government mortgages, consolidated securities, and other securities as approved by the Association become eligible collateral when they are published as eligible collateral in the Multiclass Guide or on the GNMA electronic bulletin board. Eligible collateral may differ for various Association guaranteed multiclass securities.

@@ -1,0 +1,7 @@
+##### § 990.20 Relationship to the CERCLA natural resource damage assessment regulations. #####
+
+(a) *General.* Regulations for assessing natural resource damages resulting from hazardous substance releases under the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, as amended (CERCLA), 42 U.S.C. 9601 *et seq.,* and the Federal Water Pollution Control Act (Clean Water Act), 33 U.S.C. 1321 *et seq.,* are codified at 43 CFR part 11. The CERCLA regulations originally applied to natural resource damages resulting from oil discharges as well as hazardous substance releases. This part supersedes 43 CFR part 11 with regard to oil discharges covered by OPA.
+
+(b) *Assessments commenced before February 5, 1996.* If trustees commenced a natural resource damage assessment for an oil discharge under 43 CFR part 11 prior to February 5, 1996 they may complete the assessment in compliance with 43 CFR part 11, or they may elect to use this part, and obtain a rebuttable presumption.
+
+(c) *Oil and hazardous substance mixtures.* For natural resource damages resulting from a discharge or release of a mixture of oil and hazardous substances, trustees must use 43 CFR part 11 in order to obtain a rebuttable presumption.

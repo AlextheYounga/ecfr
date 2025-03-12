@@ -1,0 +1,3 @@
+##### § 34.3 Discrimination prohibited. #####
+
+No individual in the United States shall, on the ground of race, color, religion, sex, national origin, age, disability, political affiliation or belief, and for beneficiaries only, citizenship or participation in JTPA, be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in the administration of or in connection with any JTPA-funded program or activity.

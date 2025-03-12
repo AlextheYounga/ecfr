@@ -1,0 +1,3 @@
+##### § 352.22 Functions of the Federal Radiological Preparedness Coordinating Committee (FRPCC). #####
+
+Under 44 CFR part 351, the role of the FRPCC is to assist FEMA in providing policy direction for the program of technical assistance to State and local governments in their radiological emergency planning and preparedness activities. Under this subpart, the role of the FRPCC is to provide advice to FEMA regarding Federal assistance and Federal facilities and resources for implementing subparts A and B of this part. This assistance activity is extended to licensees. The FRPCC will assist FEMA in revising the Federal Radiological Emergency Response Plan (FRERP).

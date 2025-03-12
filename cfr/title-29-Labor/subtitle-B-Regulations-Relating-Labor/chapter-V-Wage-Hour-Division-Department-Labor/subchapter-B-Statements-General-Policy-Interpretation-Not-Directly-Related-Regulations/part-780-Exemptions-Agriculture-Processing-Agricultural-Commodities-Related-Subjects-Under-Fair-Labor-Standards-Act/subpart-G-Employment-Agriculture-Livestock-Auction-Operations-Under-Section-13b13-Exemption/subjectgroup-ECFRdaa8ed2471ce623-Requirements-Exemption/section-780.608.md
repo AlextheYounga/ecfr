@@ -1,0 +1,3 @@
+##### § 780.608 “During his workweek.” #####
+
+Section 13(b)(13) specifically requires that the unit of time to be used in determining whether an employee is primarily employed in agriculture is “during his workweek.” The employee's own workweek, and not that of any other person, is to be used in applying the exemption. The employee's employment must meet the “primarily” test in each workweek in which the exemption is applied to him.

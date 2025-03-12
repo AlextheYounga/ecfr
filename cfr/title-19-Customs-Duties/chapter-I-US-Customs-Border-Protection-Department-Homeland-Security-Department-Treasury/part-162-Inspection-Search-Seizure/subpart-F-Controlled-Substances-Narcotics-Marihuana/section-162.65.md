@@ -1,0 +1,17 @@
+##### § 162.65 Penalties for failure to manifest narcotic drugs or marihuana. #####
+
+(a) *Cargo or baggage containing unmanifested narcotic drugs or marihuana.* When a package of regular cargo or a passenger's baggage otherwise properly manifested is found to contain any narcotic drug or marihuana imported for sale or other commercial purpose and not shown as such on the manifest, the penalties prescribed in section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584), shall be assessed with respect to such narcotic drug or marihuana.
+
+(b) *Unmanifested narcotic drugs or marihuana.* When an unmanifested narcotic drug or marihuana is found on board of, or after having been unladen from, a vessel, vehicle, or aircraft, the penalties prescribed in section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584), shall be assessed. The penalty shall be applied without exception and without regard to any question of negligence or responsibility.
+
+(c) *Notice and demand for payment of penalty.* A written notice and demand for payment of the penalty for failure to manifest incurred under section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584), shall be sent to the master of the vessel, or commander of the aircraft, or the person in charge of the vehicle, and to the owner of the vessel, aircraft, or vehicle or any person directly or indirectly responsible. In the case of a vessel, if bond has been given, the notice also shall be sent to each surety. When a petition for relief from such penalty has been filed in accordance with part 171 of this chapter, and a decision has been made thereon, the Fines, Penalties, and Forfeitures Officer shall send notice of such decision to the interested persons together with a demand for any payment required under the terms of such decision.
+
+(d) *Referral to the U.S. attorney.* If the penalty incurred under section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584), is not paid, or a petition is not filed as provided in part 171 of this chapter, or if payment is not made in accordance with the decision on a petition or a supplemental petition, the Fines, Penalties, and Forfeitures Officer, after required collection action, shall refer the case to the U.S. attorney.
+
+(e) *Withholding clearance of vessel.* Where a penalty has been incurred under section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584), for failure to manifest narcotic drugs or marihuana, clearance of the vessel involved shall be withheld until the penalty is paid or a bond satisfactory to the Fines, Penalties, and Forfeitures Officer is given for the payment thereof unless
+
+(1) The narcotics or marihuana were discovered in a passenger's baggage and the Fines, Penalties, and Forfeitures Officer is satisfied that neither the master nor any of the officers nor the owner of the vessel knew or had any reason to know or suspect that the narcotics or marihuana had been on board the vessel, or
+
+(2) Prior authority for the clearance without payment of the penalty or the furnishing of the bond is obtained from Customs.
+
+[T.D. 72-211, 37 FR 16488, Aug. 15, 1972, as amended by T.D. 79-160, 44 FR 31958, June 4, 1979; T.D. 86-59, 51 FR 8489, Mar. 12, 1986; T.D. 99-27, 64 FR 13676, Mar. 22, 1999; T.D. 99-64, 64 FR 43267, Aug. 10, 1999]

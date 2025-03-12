@@ -1,0 +1,3 @@
+##### § 780.0 Purpose of interpretative bulletins in this part. #####
+
+It is the purpose of the interpretative bulletins in this part to provide an official statement of the views of the Department of Labor with respect to the application and meaning of the provisions of the Fair Labor Standards Act of 1938, as amended, which exempt certain employees from the minimum wage or overtime pay requirements, or both, when employed in agriculture or in certain related activities or in certain operations with respect to agricultural or horticultural commodities.

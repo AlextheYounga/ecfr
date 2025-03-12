@@ -1,0 +1,5 @@
+##### § 11.2a Release from Customs custody without payment of tax on cigars, cigarettes and cigarette papers and tubes. #####
+
+Cigars, cigarettes, and cigarette papers and tubes may be released from Customs custody without payment of any applicable internal revenue tax upon presentation of the Customs entry or withdrawal form and three copies of Alcohol, Tobacco and Firearms Form 2145 (5200.11) or 3072 (5210.14), certified by the appropriate regional regulatory administrator, Bureau of Alcohol, and Tobacco and Firearms. The Customs officer shall complete the notice of release, retain one copy, send one copy to the regional regulatory administrator, and return one copy to the manufacturer. The release may not be made under a mail entry. See § 145.13(b) of this chapter.
+
+[T.D. 78-329, 43 FR 43454, Sept. 26, 1978]

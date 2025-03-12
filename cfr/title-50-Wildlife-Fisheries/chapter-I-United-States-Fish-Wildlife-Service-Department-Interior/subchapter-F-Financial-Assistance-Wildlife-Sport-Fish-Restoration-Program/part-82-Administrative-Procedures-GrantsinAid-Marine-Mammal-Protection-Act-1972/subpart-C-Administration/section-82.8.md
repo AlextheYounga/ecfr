@@ -1,0 +1,5 @@
+##### § 82.8 Prosecution of work. #####
+
+(a) The grantee shall pursue the agreed-upon objectives expeditiously, adhering to the procedures set forth in the Cooperative Agreement. Failure to do so or failure to provide timely and adequate reports shall be cause for the Secretary to withhold further reimbursements to the grantee until project commitments are satisfactorily met. All further disbursement of funds under the cooperative agreement may be terminated upon determination by the Secretary that satisfactory progress has not been maintained.
+
+(b) All work shall be performed in accordance with applicable Federal, state, and local laws, including safety, health and sanitation laws, except that when state and local laws are in conflict with Federal laws or regulations, such Federal laws or regulations shall prevail.

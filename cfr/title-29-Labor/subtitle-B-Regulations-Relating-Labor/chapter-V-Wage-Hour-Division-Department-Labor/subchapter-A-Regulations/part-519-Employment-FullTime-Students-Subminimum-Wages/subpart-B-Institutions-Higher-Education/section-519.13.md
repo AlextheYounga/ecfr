@@ -1,0 +1,11 @@
+##### § 519.13 Application for a full-time student certificate. #####
+
+(a) Whenever the employment of its full-time students working in an institution at wages lower than the minimum wage applicable under section 6 of the Fair Labor Standards Act is believed to be necessary to prevent curtailment of opportunities for employment and employment of them will not create a substantial probability of reducing the full-time employment opportunities of other workers, an application for a certificate may be filed by their employer with the appropriate Regional Office of the Wage and Hour Division (or the Denver, Colorado Area Office for Colorado, North Dakota and South Dakota; the Salt Lake City, Utah Area Office for Montana, Utah and Wyoming; and the Caribbean Office for the area it covers). Such an application shall be signed by an authorized representative of the employer.
+
+(b) The application provided for under § 519.14 must be filed in duplicate on official forms or exact copies thereof. The forms are available at the offices mentioned in paragraph (a) of this section. The application must contain the information on numbers of full-time students and full-time employees (other than full-time students), minimum full-time student wages, and other information for which request is made on the form.
+
+(c) Separate application must be made for each campus of an institution of higher education for which authority to employ full-time students at subminimum wage rates is sought.
+
+(d) Application for renewal of a certificate shall be made on the same type of form as is used for a new application. No certificate in effect shall expire until action on such an application shall have been finally determined, provided that such application has been properly executed, and is received by the office specified in paragraph (a) of this section not less than 15 nor more than 30 days prior to the expiration date. A properly executed application is one which fully and accurately contains the information required on the form, and the required certification by an authorized representative of the employer.
+
+[40 FR 6329, Feb. 11, 1975; 40 FR 22546, May 23, 1975]

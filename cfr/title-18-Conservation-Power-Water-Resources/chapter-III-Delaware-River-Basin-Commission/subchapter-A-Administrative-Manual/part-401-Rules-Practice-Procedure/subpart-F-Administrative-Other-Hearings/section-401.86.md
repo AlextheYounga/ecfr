@@ -1,0 +1,3 @@
+##### § 401.86 Record of proceedings. #####
+
+A record of the proceedings and evidence at each hearing shall be made by a qualified stenographer designated by the Executive Director. Where demanded by the applicant, objector, or any other person who is a party to these proceedings, or where deemed necessary by the Hearing Officer, the testimony shall be transcribed. In those instances where a transcript of proceedings is made, two copies shall be delivered to the Commission. The applicant, objector, or other persons who desire copies shall obtain them from the stenographer at such price as may be agreed upon by the stenographer and the person desiring the transcript.

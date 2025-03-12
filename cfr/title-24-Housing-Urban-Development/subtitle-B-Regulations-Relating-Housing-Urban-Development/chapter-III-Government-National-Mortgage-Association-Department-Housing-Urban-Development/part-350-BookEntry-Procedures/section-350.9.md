@@ -1,0 +1,3 @@
+##### § 350.9 Waiver of Regulations. #####
+
+Ginnie Mae reserves the right in its discretion, to waive any provision(s) of these regulations in any case or class of cases for the convenience of Ginnie Mae or the United States, or in order to relieve any Person(s) of unnecessary hardship, if such action is not inconsistent with law, does not adversely affect any substantial existing rights, and the Association is satisfied that such action will not subject the Association or the United States to any substantial expense or liability.

@@ -1,0 +1,3 @@
+##### § 780.903 General scope of exemption. #####
+
+The exemption provided by section 13(b)(16) is in two parts, subsection (A), which exempts employees engaged in the described transportation and preparation for transportation of fruits or vegetables, and subsection (B) which exempts employees engaged in the specified transportation of employees who harvest fruits or vegetables. The transportation and preparation for transportation of fruits and vegetables must be from the farm to a place of first processing or first marketing located in the same State where the farm is located; the transportation of harvesters must be between the farm and a place located in the same State as the farm.

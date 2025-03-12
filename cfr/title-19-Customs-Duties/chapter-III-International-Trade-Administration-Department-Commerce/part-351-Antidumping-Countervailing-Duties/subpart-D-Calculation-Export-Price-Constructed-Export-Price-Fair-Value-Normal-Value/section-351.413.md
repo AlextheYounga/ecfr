@@ -1,0 +1,3 @@
+##### § 351.413 Disregarding insignificant adjustments. #####
+
+Ordinarily, under section 777A(a)(2) of the Act, an “insignificant adjustment” is any individual adjustment having an *ad valorem* effect of less than 0.33 percent, or any group of adjustments having an *ad valorem* effect of less than 1.0 percent, of the export price, constructed export price, or normal value, as the case may be. Groups of adjustments are adjustments for differences in circumstances of sale under § 351.410, adjustments for differences in the physical characteristics of the merchandise under § 351.411, and adjustments for differences in the levels of trade under § 351.412.

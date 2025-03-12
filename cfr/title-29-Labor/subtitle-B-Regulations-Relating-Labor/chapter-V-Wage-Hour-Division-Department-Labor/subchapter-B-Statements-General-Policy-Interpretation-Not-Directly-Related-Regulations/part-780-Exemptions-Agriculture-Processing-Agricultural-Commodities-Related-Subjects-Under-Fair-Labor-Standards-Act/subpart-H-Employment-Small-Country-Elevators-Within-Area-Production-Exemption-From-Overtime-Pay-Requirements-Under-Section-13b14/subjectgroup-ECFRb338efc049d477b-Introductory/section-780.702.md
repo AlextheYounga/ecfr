@@ -1,0 +1,3 @@
+##### § 780.702 What determines application of the exemption. #####
+
+The application of the section 13(b)(14) exemption depends on te employment of the employee by an establishment of the kind described in the section, and on such employment “within the area of production” as defined by regulation. In any workweek when an employee is employed in country elevator activities by such an establishment within the area of production, the overtime pay requirements of the Act will not apply to him.

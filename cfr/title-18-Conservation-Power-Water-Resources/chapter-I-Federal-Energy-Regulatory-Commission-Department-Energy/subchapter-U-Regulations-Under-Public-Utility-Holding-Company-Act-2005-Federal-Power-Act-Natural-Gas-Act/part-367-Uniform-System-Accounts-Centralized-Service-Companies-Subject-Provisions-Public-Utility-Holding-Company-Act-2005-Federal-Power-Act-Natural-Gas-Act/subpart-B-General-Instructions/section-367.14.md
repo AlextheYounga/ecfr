@@ -1,0 +1,3 @@
+##### § 367.14 Transactions with associate companies. #####
+
+Each service company must keep its accounts and records so as to be able to furnish accurately and expeditiously statements of all transactions with associate companies. The statements may be required to show the general nature of the transactions, the amounts involved in the transactions and the amounts included in each account prescribed in this part with respect to such transactions. Transactions with associate companies must be recorded in the appropriate accounts for transactions of the same nature. Nothing contained in this part, however, must be construed as restraining the service company from subdividing accounts for the purpose of recording separately transactions with associate companies.

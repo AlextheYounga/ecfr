@@ -1,0 +1,5 @@
+##### § 4.83 Trade between United States ports on the Great Lakes and other ports of the United States. #####
+
+If a vessel proceeding from or to a port of the United States on the Great Lakes to or from any other port of the United States via the St. Lawrence River is intended to touch at any foreign port and does so touch, it will be subject to the usual requirements for manifesting, clearing, report of arrival, entry, payment of fees for entry and clearance, and tonnage taxes. Vessels which are boarded on the St. Lawrence River by Canadian authorities for the purposes of inspecting the vessel and taking a passing report are not deemed to have touched at a foreign port, provided that no ship's stores are landed or taken aboard and no other business is transacted at the port or place of boarding.
+
+[28 FR 14596, Dec. 31, 1963, as amended by T.D. 69-266, 34 FR 20423, Dec. 31, 1969; T.D. 83-214, 48 FR 46513, Oct. 13, 1983; CBP Dec. 12-21, 77 FR 73308, Dec. 10, 2012]

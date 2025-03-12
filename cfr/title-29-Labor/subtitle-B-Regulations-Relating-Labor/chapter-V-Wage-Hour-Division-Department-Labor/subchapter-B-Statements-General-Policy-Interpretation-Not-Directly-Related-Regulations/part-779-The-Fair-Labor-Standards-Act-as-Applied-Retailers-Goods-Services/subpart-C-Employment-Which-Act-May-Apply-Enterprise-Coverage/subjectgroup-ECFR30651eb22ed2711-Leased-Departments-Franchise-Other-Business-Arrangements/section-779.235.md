@@ -1,0 +1,3 @@
+##### § 779.235 Other “enterprises.” #####
+
+No attempt has been made in the discussion of the term “enterprise,” to consider every possible situation which may, within the meaning of section 3(r), constitute an “enterprise” under the Act. The discussion is designed to explain and illustrate the application of the term in some cases; in others, the discussion may serve as a guide in applying the criteria of the definition to the particular fact situation. A more complete discussion is contained in part 776 of this chapter.

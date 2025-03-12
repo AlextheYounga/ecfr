@@ -1,0 +1,9 @@
+##### § 1000.30 What prohibitions regarding conflict of interest are applicable? #####
+
+(a) *Applicability.* In the procurement of supplies, equipment, other property, construction and services by recipients and subrecipients, the conflict of interest provisions of 2 CFR 200.318 shall apply. In all cases not governed by 2 CFR 200.318, the following provisions of this section shall apply.
+
+(b) *Conflicts prohibited.* No person who participates in the decision-making process or who gains inside information with regard to NAHASDA assisted activities may obtain a personal or financial interest or benefit from such activities, except for the use of NAHASDA funds to pay salaries or other related administrative costs. Such persons include anyone with an interest in any contract, subcontract or agreement or proceeds thereunder, either for themselves or others with whom they have business or immediate family ties. Immediate family ties are determined by the Indian tribe or TDHE in its operating policies.
+
+(c) The conflict of interest provision does not apply in instances where a person who might otherwise be included under the conflict provision is low-income and is selected for assistance in accordance with the recipient's written policies for eligibility, admission and occupancy of families for housing assistance with IHBG funds, provided that there is no conflict of interest under applicable tribal or state law. The recipient must make a public disclosure of the nature of assistance to be provided and the specific basis for the selection of the person. The recipient shall provide the appropriate Area ONAP with a copy of the disclosure before the assistance is provided to the person.
+
+[63 FR 12349, Mar. 12, 1998, as amended at 80 FR 75944, Dec. 7, 2015]

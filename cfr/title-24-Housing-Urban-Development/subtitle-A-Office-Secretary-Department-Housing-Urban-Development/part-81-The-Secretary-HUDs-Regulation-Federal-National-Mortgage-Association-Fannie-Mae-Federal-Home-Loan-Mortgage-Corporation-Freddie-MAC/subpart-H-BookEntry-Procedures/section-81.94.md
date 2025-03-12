@@ -1,0 +1,11 @@
+##### § 81.94 Obligations of GSEs; no adverse claims. #####
+
+(a) Except in the case of a security interest in favor of the United States or a Federal Reserve Bank or otherwise as provided in § 81.93(c)(1), for the purposes of this subpart H, the GSE and the Federal Reserve Banks shall treat the Participant to whose Securities Account an interest in a Book-entry GSE Security has been credited as the person exclusively entitled to issue a Transfer Message, to receive interest and other payments with respect thereof and otherwise to exercise all the rights and powers with respect to such Security, notwithstanding any information or notice to the contrary. Neither the Federal Reserve Banks nor a GSE is liable to a Person asserting or having an adverse claim to a Security Entitlement or to a Book-entry GSE Security in a Participant's Securities Account, including any such claim arising as a result of the transfer or disposition of a Book-entry GSE Security by a Federal Reserve Bank pursuant to a Transfer Message that the Federal Reserve Bank reasonably believes to be genuine.
+
+(b) The obligation of the GSE to make payments (including payments of interest and principal) with respect to Book-entry GSE Securities is discharged at the time payment in the appropriate amount is made as follows:
+
+(1) Interest or other payments on Book-entry GSE Securities is either credited by a Federal Reserve Bank to a Funds Account maintained at such Bank or otherwise paid as directed by the Participant.
+
+(2) Book-entry GSE Securities are redeemed in accordance with their terms by a Federal Reserve Bank withdrawing the securities from the Participant's Securities Account in which they are maintained and by either crediting the amount of the redemption proceeds, including both redemption proceeds, where applicable, to a Funds Account at such Bank or otherwise paying such redemption proceeds as directed by the Participant. No action by the Participant ordinarily is required in connection with the redemption of a Book-entry GSE Security.
+
+[61 FR 63948, Dec. 2, 1996, as amended at 62 FR 28977, May 28, 1997]

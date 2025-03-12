@@ -1,0 +1,5 @@
+##### § 10.420 Filing of claim for tariff preference level. #####
+
+A cotton or man-made fiber fabric or apparel good described in § 10.421 of this subpart that does not qualify as an originating good under § 10.451 of this subpart may nevertheless be entitled to preferential tariff treatment under the US-CFTA under an applicable tariff preference level (TPL). To make a TPL claim, the importer must include on the entry summary, or equivalent documentation, the applicable subheading in Chapter 99 of the HTSUS (9911.99.20 for a good described in § 10.421(a) or (b) of this subpart or 9911.99.40 for a good described in § 10.421(c) of this subpart) immediately above the applicable subheading in Chapter 52 through 62 of the HTSUS under which each non-originating cotton or man-made fiber fabric or apparel good is classified.
+
+[CBP Dec. 05-07, 70 FR 10873, Mar. 7, 2005, as amended by CBP Dec. 06-39, 71 FR 76133, Dec. 20, 2006]

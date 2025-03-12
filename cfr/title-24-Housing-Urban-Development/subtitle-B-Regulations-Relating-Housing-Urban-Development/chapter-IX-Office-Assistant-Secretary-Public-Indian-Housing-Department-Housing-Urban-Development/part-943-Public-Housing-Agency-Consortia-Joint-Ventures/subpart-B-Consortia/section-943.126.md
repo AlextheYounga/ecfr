@@ -1,0 +1,3 @@
+##### § 943.126 What is the relationship between HUD and a consortium? #####
+
+HUD has a direct relationship with the consortium through the PHA Plan process and through one or more payment agreements, executed in a form prescribed by HUD, under which HUD and the participating PHAs agree that program funds will be paid to the lead agency on behalf of the participating PHAs. Such funds must be used in accordance with the consortium agreement, the joint PHA Plan and HUD regulations and requirements.

@@ -1,0 +1,3 @@
+##### § 200.111 Witnessing of operations. #####
+
+NIST welcomes scientists and engineers who may wish to visit its laboratories and discuss its methods. Ordinarily visitors will not be permitted to witness the actual carrying out of highly precise measurements because their presence introduces distraction that may lead to errors or delays. This policy may be waived in those cases where NIST determines that the visitor can be of service in setting up apparatus of a new or unusual nature, in the case of referee tests, or in other cases in which the legal validity of the result may require the presence of duly authorized witnesses.

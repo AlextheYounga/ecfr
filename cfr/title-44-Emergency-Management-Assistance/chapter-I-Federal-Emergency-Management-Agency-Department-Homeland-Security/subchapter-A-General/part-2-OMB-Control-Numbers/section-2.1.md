@@ -1,0 +1,3 @@
+##### § 2.1 Purpose. #####
+
+This part collects and displays the control numbers assigned to information collection requirements of FEMA by the Office of Management and Budget (OMB) pursuant to the Paperwork Reduction Act of 1980 (44 U.S.C. 3501 *et seq.*). FEMA intends that this part comply with the requirements of section 3507(f) of the Paperwork Reduction Act, which requires that agencies display a current control number assigned by the Director of OMB for each agency information collection requirement.

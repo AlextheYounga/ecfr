@@ -1,0 +1,3 @@
+##### § 401.117 Disclosure to other Federal government departments and agencies. #####
+
+Any Commission record otherwise exempt from public disclosure may be disclosed to other Federal Government departments and agencies, except that trade secrets may be disclosed only to a department or agency that has concurrent jurisdiction over the matter and separate legal authority to obtain the specific information involved. Any disclosure under this section shall be pursuant to an agreement that the record shall not be further disclosed by the other department or agency except with the written permission of the Commission.

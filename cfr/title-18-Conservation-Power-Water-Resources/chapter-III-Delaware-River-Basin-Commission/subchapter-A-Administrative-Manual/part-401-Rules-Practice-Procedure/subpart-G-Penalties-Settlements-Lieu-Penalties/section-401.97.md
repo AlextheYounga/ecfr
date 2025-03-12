@@ -1,0 +1,3 @@
+##### § 401.97 Enforcement of penalties. #####
+
+Any penalty imposed by the Commission shall be paid within 30 days or such further time period as shall be fixed by the Commission. The Executive Director and Commission counsel are authorized to take such action as may be necessary to assure enforcement of this subpart. If a proceeding before a court becomes necessary, the action of the Commission in determining a penalty amount shall constitute the penalty amount recommended by the Commission to be fixed by the court pursuant to § 14.17 of the Compact.

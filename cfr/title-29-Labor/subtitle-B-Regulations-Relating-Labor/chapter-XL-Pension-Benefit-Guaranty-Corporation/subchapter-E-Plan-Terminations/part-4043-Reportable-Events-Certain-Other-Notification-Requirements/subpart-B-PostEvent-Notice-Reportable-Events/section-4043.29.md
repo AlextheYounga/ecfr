@@ -1,0 +1,21 @@
+##### § 4043.29 Change in contributing sponsor or controlled group. #####
+
+(a) *Reportable event.* A reportable event occurs for a plan when there is a transaction that results, or will result, in one or more persons' ceasing to be members of the plan's controlled group (other than by merger involving members of the same controlled group). For purposes of this section, the term “transaction” includes, but is not limited to, a legally binding agreement, whether or not written, to transfer ownership, an actual transfer of ownership, and an actual change in ownership that occurs as a matter of law or through the exercise or lapse of pre-existing rights. Whether an agreement is legally binding is to be determined without regard to any conditions in the agreement. A transaction is not reportable if it will result solely in a reorganization involving a mere change in identity, form, or place of organization, however effected.
+
+(b) *Waivers.* (1) De minimis *10-percent segment.* Notice under this section is waived if the person or persons that will cease to be members of the plan's controlled group represent a *de minimis* 10-percent segment of the plan's old controlled group for the most recent fiscal year(s) ending on or before the date the reportable event occurs.
+
+(2) *Foreign entity.* Notice under this section is waived if each person that will cease to be a member of the plan's controlled group is a foreign entity other than a foreign parent.
+
+(3) *Small plan.* Notice under this section is waived if the plan had 100 or fewer participants for whom flat-rate premiums were payable for the plan year preceding the event year.
+
+(4) *Low-default-risk.* Notice under this section is waived if each post-event contributing sponsor of the plan and the highest level U.S. parent of each post-event contributing sponsor are low-default-risk on the date of the event.
+
+(5) *Well-funded plan.* Notice under this section is waived if the plan is in the well-funded plan safe harbor for the event year.
+
+(6) *Public company.* Notice under this section is waived if any contributing sponsor of the plan before the transaction is a public company and the contributing sponsor timely files a SEC Form 8-K disclosing the event under an item of the Form 8-K other than under Item 2.02 (Results of Operations and Financial Condition) or in financial statements under Item 9.01 (Financial Statements and Exhibits).
+
+(c) *Examples.* The following examples assume that no waiver applies.
+
+(1) *Controlled group breakup.* Plan A's controlled group consists of Company A (its contributing sponsor), Company B (which maintains Plan B), and Company C. As a result of a transaction, the controlled group will break into two separate controlled groups - one segment consisting of Company A and the other segment consisting of Companies B and C. Both Company A (Plan A's contributing sponsor) and the plan administrator of Plan A are required to report that Companies B and C will leave Plan A's controlled group. Company B (Plan B's contributing sponsor) and the plan administrator of Plan B are required to report that Company A will leave Plan B's controlled group. Company C is not required to report because it is not a contributing sponsor or a plan administrator.
+
+(2) *Change in contributing sponsor.* Plan Q is maintained by Company Q. Company Q enters into a binding contract to sell a portion of its assets and to transfer employees participating in Plan Q, along with Plan Q, to Company R, which is not a member of Company Q's controlled group. There will be no change in the structure of Company Q's controlled group. On the effective date of the sale, Company R will become the contributing sponsor of Plan Q. A reportable event occurs on the date of the transaction (*i.e.,* the date the binding contract was executed), because as a result of the transaction, Company Q (and any other member of its controlled group) will cease to be a member of Plan Q's controlled group. The event is not reported before the notice date. If on the notice date the change in the contributing sponsor has not yet become effective, Company Q has the reporting obligation. If the change in the contributing sponsor has become effective by the notice date, Company R has the reporting obligation.

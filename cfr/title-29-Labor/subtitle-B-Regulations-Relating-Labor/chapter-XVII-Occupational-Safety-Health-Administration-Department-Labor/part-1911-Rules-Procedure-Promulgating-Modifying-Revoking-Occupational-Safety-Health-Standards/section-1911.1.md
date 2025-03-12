@@ -1,0 +1,3 @@
+##### § 1911.1 Purpose and scope. #####
+
+This part sets forth rules of procedure for promulgating, modifying, or revoking occupational safety or health standards under section 6(b) (1), (2), (3), and (4) of the Williams-Steiger Occupational Safety and Health Act of 1970 and under any of the particular statutes listed in § 1911.2(d) which may also cover the employments affected by the standards. The purpose of the rules is to provide for single proceedings in the setting of standards under the several statutes, in order to assure uniformity of the standards to be enforced under the several statutes and in order to avoid needless multiplicity of rulemaking proceedings dealing with the same subjects and issues relating to occupational safety and health standards.

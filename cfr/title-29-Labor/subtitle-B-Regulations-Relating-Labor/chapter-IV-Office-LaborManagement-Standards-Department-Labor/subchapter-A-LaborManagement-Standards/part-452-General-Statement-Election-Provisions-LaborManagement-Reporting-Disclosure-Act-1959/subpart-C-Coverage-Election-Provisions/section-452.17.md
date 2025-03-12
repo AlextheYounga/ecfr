@@ -1,0 +1,3 @@
+##### § 452.17 Officer. #####
+
+Section 3(n) of the Act defines the word “officer” and it is this definition which must be used as a guide in determining what particular positions in a labor organization are to be filled in the manner prescribed in the Act. For purposes of the Act, “officer” means “any constitutional officer, any person authorized to perform the functions of president, vice president, secretary, treasurer, or other executive functions of a labor organization, and any member of its executive board or similar governing body.”

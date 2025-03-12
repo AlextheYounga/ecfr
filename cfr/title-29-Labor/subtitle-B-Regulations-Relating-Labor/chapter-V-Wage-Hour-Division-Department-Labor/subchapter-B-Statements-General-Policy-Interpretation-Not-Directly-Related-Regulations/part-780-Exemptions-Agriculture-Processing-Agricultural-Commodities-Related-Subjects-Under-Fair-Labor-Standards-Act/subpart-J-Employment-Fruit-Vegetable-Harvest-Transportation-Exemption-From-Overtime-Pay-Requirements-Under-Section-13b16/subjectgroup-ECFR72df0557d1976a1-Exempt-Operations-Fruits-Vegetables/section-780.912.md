@@ -1,0 +1,3 @@
+##### § 780.912 Exempt preparation. #####
+
+The following operations, if required in order to move the commodities from the farm and to deliver them to a place of first marketing or first processing, are considered preparation for transportation: Assembling, weighing, placing the fruits or vegetables in containers such as lugs, crates, boxes or bags, icing, marking, labeling or fastening containers, and moving the commodities from storage or concentration areas on the farm to loading sites.

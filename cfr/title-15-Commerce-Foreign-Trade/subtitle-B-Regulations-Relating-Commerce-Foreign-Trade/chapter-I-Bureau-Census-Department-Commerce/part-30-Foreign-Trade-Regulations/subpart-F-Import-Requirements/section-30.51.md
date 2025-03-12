@@ -1,0 +1,3 @@
+##### § 30.51 Statistical information required for import entries. #####
+
+The information required for statistical purposes is, in most cases, also required by CBP regulations for other purposes. Refer to CBP Web site at *http://www.cbp.gov* to download “Instructions for Preparation of CBP-7501,” for completing the paper entry summary documentation (CBP-7501). Refer to the Customs and Trade Automated Interface Requirements for instructions on submitting an ABI electronic record, or instructions for completing CBP-226 for declaring any equipment, repair parts, materials purchased, or expense for repairs incurred outside of the United States.

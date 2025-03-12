@@ -1,0 +1,3 @@
+##### § 122.116 Identification of manifest sheets. #####
+
+When the original cargo manifest for the aircraft on which the cargo arrives is presented by the aircraft commander or its authorized agent at the port of arrival, a manifest number will be given to the aircraft entry documents by Customs. The number given shall be used by the airline to identify all copies of the transit air cargo manifest. All copies of the manifest shall be correctly numbered before cargo will be released from the port of arrival as transit air cargo.

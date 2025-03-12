@@ -1,0 +1,5 @@
+##### § 12.4 Filing of documents. #####
+
+(a) Whenever any document is required by this part to be filed or served within a certain period of time, such document will be considered filed or served as of the date of receipt by the party with or upon whom filing or service is required. The time periods established by this part shall begin to run on the day following the date of filing or service.
+
+(b) If an oral or written application is made before the expiration of a time period established by this part, an extension of such period for a fixed number of days may be granted where there are reasonable grounds for the failure to file or serve the document within the period required. Any such extension shall be in writing. Except as provided in this paragraph, no other requests for an extension shall be granted.

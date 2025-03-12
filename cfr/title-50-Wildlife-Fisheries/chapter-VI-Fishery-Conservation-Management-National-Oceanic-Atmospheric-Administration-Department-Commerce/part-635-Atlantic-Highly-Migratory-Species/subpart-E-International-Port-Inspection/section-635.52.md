@@ -1,0 +1,7 @@
+##### § 635.52 Vessels subject to inspection. #####
+
+(a) All U.S. fishing vessels carrying fish species subject to regulation pursuant to a recommendation of ICCAT that have not been previously landed or transshipped at port, as well as the vessel's catch, gear, equipment, records, and any documents the authorized officer deems necessary to determine compliance with ICCAT conservation and management measures, are subject to inspection when in a port of any ICCAT contracting or cooperating non-contracting party. A list of ports, designated by ICCAT contracting or cooperating non-contracting parties, to which foreign vessels carrying fish species subject to regulation pursuant to a recommendation of ICCAT may seek entry is available on the ICCAT Web site.
+
+(b) While in port, the master, crewmember, or any other person on a U.S. vessel carrying fish species subject to regulation pursuant to a recommendation of ICCAT must cooperate with an authorized officer during the conduct of an inspection, including by facilitating safe boarding. ICCAT recommendations require that inspections be carried out so that the vessel suffers minimum interference and inconvenience, and so that degradation of the quality of catch is avoided.
+
+[79 FR 72559, Dec. 8, 2014]

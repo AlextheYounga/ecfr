@@ -1,0 +1,5 @@
+##### § 520.409 When will authority to pay apprentices special minimum wages become effective and what is the special minimum wage rate? #####
+
+(a) An apprenticeship program which has been registered with a recognized apprenticeship agency shall constitute a temporary special certificate authorizing the employment of an apprentice at the wages and under the conditions specified in such program until a special certificate is issued or denied. This temporary authorization is, however, conditioned on the requirement that within 90 days from the beginning date of employment of the apprentice, the employer or the apprenticeship committee shall send one copy of each apprenticeship agreement, with evidence of registration, to the appropriate Regional Office of the Wage and Hour Division.
+
+(b) The wage rate specified by the apprenticeship program becomes the special minimum wage rate that must be paid unless the Administrator issues a certificate modifying the terms and conditions of employment of apprentices at special minimum wages.

@@ -1,0 +1,3 @@
+##### § 2584.8477(e)-1 General. #####
+
+5 U.S.C. 8477(e)(1)(E) provides that any fiduciary with respect to the Thrift Savings Fund of the Federal Employees Retirement System who allocates a fiduciary responsibility to another person pursuant to procedures prescribed by the Secretary of Labor shall not be liable for an act or omission of such person except in specified circumstances. This part sets forth the procedures which have been prescribed by the Secretary of Labor for the allocation of fiduciary responsibilities.

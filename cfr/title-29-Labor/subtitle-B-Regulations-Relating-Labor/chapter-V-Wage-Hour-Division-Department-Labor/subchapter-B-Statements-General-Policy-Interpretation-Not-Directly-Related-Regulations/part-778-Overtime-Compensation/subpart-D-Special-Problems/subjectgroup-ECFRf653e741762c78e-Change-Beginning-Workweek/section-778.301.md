@@ -1,0 +1,3 @@
+##### § 778.301 Overlapping when change of workweek is made. #####
+
+As stated in § 778.105, the beginning of the workweek may be changed for an employee or for a group of employees if the change is intended to be permanent and is not designed to evade the overtime requirements of the Act. A change in the workweek necessarily results in a situation in which one or more hours or days fall in both the “old” workweek as previously constituted and the “new” workweek. Thus, if the workweek in the plant commenced at 7 a.m. on Monday and it is now proposed to begin the workweek at 7 a.m. on Sunday, the hours worked from 7 a.m. Sunday to 7 a.m. Monday will constitute both the last hours of the old workweek and the first hours of the newly established workweek.

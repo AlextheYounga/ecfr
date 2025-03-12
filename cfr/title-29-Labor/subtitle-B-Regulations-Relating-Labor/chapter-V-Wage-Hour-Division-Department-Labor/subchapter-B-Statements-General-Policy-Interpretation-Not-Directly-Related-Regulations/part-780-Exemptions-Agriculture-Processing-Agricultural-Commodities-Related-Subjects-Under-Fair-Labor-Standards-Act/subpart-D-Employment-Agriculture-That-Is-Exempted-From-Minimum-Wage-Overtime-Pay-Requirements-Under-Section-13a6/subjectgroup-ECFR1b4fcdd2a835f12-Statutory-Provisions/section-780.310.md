@@ -1,0 +1,3 @@
+##### § 780.310 Exemption for local hand harvest laborers. #####
+
+Section 13(a)(6)(C) was added to the Act by the Fair Labor Standards Amendments of 1966. The legislative history of the exemption indicates that it was intended to apply to the local worker who goes out on a temporary basis during the harvest season to harvest crops. The exemption was not intended to apply to a full-time farmworker, that is, one who earns a livelihood at farming. For instance, migrant laborers who travel from farm to farm were not intended to be within the scope of this exemption.

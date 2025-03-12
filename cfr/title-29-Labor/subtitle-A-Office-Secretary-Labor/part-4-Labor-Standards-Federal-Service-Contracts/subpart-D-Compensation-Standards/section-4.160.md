@@ -1,0 +1,3 @@
+##### § 4.160 Effect of section 6(e) of the Fair Labor Standards Act. #####
+
+Contractors and subcontractors performing work on contracts subject to the Service Contract Act are required to pay all employees, including those employees who are not performing work on or in connection with such contracts, not less than the general minimum wage standard provided in section 6(a)(1) of the Fair Labor Standards Act, as amended (Pub. L. 95-151).

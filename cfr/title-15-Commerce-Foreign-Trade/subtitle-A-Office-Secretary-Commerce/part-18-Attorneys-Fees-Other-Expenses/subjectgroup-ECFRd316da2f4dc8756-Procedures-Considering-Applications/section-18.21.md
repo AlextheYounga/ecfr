@@ -1,0 +1,5 @@
+##### § 18.21 Decision. #####
+
+The adjudicative officer shall issue an initial decision on the application within 30 calendar days after completion of proceedings on the application. The initial decision of the adjudicative officer shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Department's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust. If the applicant has sought an award against more than one agency, the decision shall allocate responsibility for payment of any award made among the agencies, and shall explain the reasons for the allocation made.
+
+[47 FR 13510, Mar. 31, 1982, as amended at 53 FR 6799, Mar. 3, 1988]

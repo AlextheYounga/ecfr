@@ -1,0 +1,3 @@
+##### § 127.26 Catalogs. #####
+
+Catalogs, if used shall specify the description of packages, the description and quantities of their contents, the appraised value thereof, and also the domestic value at the time and place of the examination of the merchandise. They shall be distributed at the sale and announcement made that the Government does not guarantee quality or value and that no allowance will be made for any deficiency found after sale.

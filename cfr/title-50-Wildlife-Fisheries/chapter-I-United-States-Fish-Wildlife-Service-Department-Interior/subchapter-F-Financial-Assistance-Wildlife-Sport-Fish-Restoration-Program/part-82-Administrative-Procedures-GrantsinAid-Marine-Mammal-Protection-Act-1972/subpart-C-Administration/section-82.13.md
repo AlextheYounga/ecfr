@@ -1,0 +1,3 @@
+##### § 82.13 Ownership of property. #####
+
+When property is acquired pursuant to the provisions of the Act, title to such property or interests therein shall be vested in the grantee as long as the property is used for the authorized purpose. When the property is no longer needed for such purpose, the Director and the grantee shall mutually agree regarding the assignment of title and any compensations consistent with the terms of Federal Management Circular 74-7 or other appropriate referenced Federal Management Circulars cited in § 82.3 of this part.

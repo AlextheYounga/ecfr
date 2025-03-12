@@ -1,0 +1,3 @@
+##### § 1921.1 Applicability of rules. #####
+
+This part provides rules of practice for administrative hearings relating to the enforcement of section 41 of the Longshoremen's and Harbor Workers' Compensation Act and the safety regulations promulgated thereunder which are published in parts 1915 and 1918 of this subtitle. This part applies only to proceedings held under section 41(b)(5) of the Act. It does not apply to any other administrative proceedings held under section 41 of the Act.

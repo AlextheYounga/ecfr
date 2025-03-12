@@ -1,0 +1,3 @@
+##### § 453.13 The statutory provision. #####
+
+Section 502(a) of the Act requires that the bond of each “person” handling “funds or other property” who must be bonded be fixed “at the beginning of the organization's fiscal year \* \* \* in an amount not less than 10 percentum of the funds handled by him and his predecessor or predecessors, if any, during the preceding fiscal year, but in no case more than $500,000.” If there is no preceding fiscal year, the amount of each required bond is set at not less than $1,000 for local labor organizations and at not less than $10,000 for other labor organizations or for trusts in which a labor organization is interested.

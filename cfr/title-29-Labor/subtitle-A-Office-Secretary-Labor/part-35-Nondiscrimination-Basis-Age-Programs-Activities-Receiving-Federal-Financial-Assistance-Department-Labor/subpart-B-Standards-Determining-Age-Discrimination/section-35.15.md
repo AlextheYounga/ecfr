@@ -1,0 +1,3 @@
+##### § 35.15 Remedial action. #####
+
+Even in the absence of a finding of discrimination, a recipient, in administering a program, may take steps to overcome the effects of conditions that resulted in a limited participation on the basis of age. Nothing in this section will permit any otherwise prohibited use of age distinctions that have the effect of excluding individuals from, denying them benefits of, subjecting them to discrimination under, or limiting them in their opportunity to participate in any program or activity receiving Federal financial assistance from DOL.

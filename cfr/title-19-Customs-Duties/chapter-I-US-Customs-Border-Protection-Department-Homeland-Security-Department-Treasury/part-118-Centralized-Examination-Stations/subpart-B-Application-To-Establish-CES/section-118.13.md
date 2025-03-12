@@ -1,0 +1,3 @@
+##### § 118.13 Notification of selection or nonselection. #####
+
+The applicant selected to operate a CES will be notified in writing by the port director of his tentative selection. The selection shall become final upon execution of the written agreement between Customs and the applicant under § 118.3 of this part, and the port director will advise the public of the final selection and of the date on which the CES will commence operation under the agreement in accordance with the notice procedures set forth in § 118.2 of this part. Each applicant not selected to be a CES operator will be so notified in writing and with a statement of the reason of nonselection.

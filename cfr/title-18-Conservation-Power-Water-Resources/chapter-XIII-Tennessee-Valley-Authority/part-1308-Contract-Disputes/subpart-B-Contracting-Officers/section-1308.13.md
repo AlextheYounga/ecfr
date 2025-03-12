@@ -1,0 +1,7 @@
+##### § 1308.13 Time limits for decisions. #####
+
+(a) If a submitted claim involves $50,000 or less, the Contracting Officer shall issue the decision within 60 days from actual receipt of the claim. If a submitted claim involves more than $50,000, the Contracting Officer within 60 days from actual receipt shall either issue a decision or notify the Contractor of the date by which a decision shall be rendered, which shall be within a reasonable time. The Contracting Officer shall not be deemed to be in “actual receipt” of a claim until the claim meets all requirements of § 1308.2(c).
+
+(b) The Contracting Officer shall issue a decision within any time limits set by an order under § 1308.24. If a Hearing Officer grants a stay of an appeal pursuant to § 1308.25, the Contracting Officer shall issue a decision within any time limits specified by the stay order, or within a reasonable time after receipt of the stay, if it sets no time limits.
+
+(c) As used in this subpart, the reasonableness of a time period depends on the amount or kind of relief involved and complexity of the issues raised, the adequacy of the Contractor's supporting data, contractual requirements for auditing of Contractor's cost or other data, and other relevant factors.

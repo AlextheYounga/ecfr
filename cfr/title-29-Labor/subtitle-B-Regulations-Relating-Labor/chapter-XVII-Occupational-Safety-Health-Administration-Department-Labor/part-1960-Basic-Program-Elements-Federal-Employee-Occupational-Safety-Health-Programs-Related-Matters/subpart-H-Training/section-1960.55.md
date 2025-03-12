@@ -1,0 +1,5 @@
+##### § 1960.55 Training of supervisors. #####
+
+(a) Each agency shall provide occupational safety and health training for supervisory employees that includes: supervisory responsibility for providing and maintaining safe and healthful working conditions for employees, the agency occupational safety and health program, section 19 of the Act, Executive Order 12196, this part, occupational safety and health standards applicable to the assigned workplaces, agency procedures for reporting hazards, agency procedures for reporting and investigating allegations of reprisal, and agency procedures for the abatement of hazards, as well as other appropriate rules and regulations.
+
+(b) This supervisory training should include introductory and specialized courses and materials which will enable supervisors to recognize and eliminate, or reduce, occupational safety and health hazards in their working units. Such training shall also include the development of requisite skills in managing the agency's safety and health program within the work unit, including the training and motivation of subordinates toward assuring safe and healthful work practices.

@@ -1,0 +1,3 @@
+##### § 4206.10 Special rule for 70-percent decline partial withdrawals. #####
+
+For the purposes of applying the rules in §§ 4206.4 through 4206.9 in any case in which either the prior or subsequent partial withdrawal resulted from a 70-percent contribution decline (or a 35-percent decline in the case of certain retail food industry plans), the first year of the 3-year testing period shall be deemed to be the plan year in which the partial withdrawal occurred.

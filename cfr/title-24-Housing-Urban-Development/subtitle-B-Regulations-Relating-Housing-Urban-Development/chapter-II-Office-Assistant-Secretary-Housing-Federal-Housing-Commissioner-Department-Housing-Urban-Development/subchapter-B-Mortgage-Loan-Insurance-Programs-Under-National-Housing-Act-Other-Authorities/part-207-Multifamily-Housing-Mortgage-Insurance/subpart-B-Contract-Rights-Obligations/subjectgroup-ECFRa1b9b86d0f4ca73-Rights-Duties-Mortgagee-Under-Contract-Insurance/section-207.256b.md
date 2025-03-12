@@ -1,0 +1,13 @@
+##### § 207.256b Modification of mortgage terms. #####
+
+(a) The mortgagor and the mortgagee may, with the approval of the Commissioner, enter into an agreement that extends the time for curing a default under the mortgage or modifies the payment terms of the mortgage.
+
+(b)(1) Except as provided in paragraph (b)(2), the Commissioner's approval of the type of agreement specified in paragraph (a) of this section shall not be given, unless the mortgagor agrees in writing that, during such period as the mortgage continues to be in default, and payments by the mortgagor to the mortgagee are less than the amounts required under the terms of the original mortgage, the mortgagor or mortgagee, as may be appropriate in the particular situation, will hold in trust for disposition, as directed by the Commissioner, all rents or other funds derived from the secured property that are not required to meet actual and necessary expenses arising in connection with the operation of such property, including amortization charges, under the mortgage.
+
+(2) For multifamily project mortgages for which HUD issued a firm commitment for mortgage insurance before September 1, 2011, and for multifamily project mortgages insured under section 232 of the Act (12 U.S.C. 1715w), and section 242 (12 U.S.C. 1715z-7), the Commissioner's approval of the type of agreement specified in paragraph (a) of this section shall not be given unless the mortgagor agrees in writing that, during such period as payments to the mortgagee are less than the amounts required under the terms of the original mortgage, the mortgagor will hold in trust for disposition as directed by the Commissioner all rents or other funds derived from the property which are not required to meet actual and necessary expenses arising in connection with the operation of such property, including amortization charges, under the mortgage.
+
+(3) For multifamily project mortgages for which HUD issued a firm commitment for mortgage insurance on or after September 1, 2011, the regulations of paragraph (b)(1) of this section shall apply, unless the mortgagor demonstrates to the satisfaction of the Commissioner that financial hardship to the mortgagor would result from application of the regulations in paragraph (b)(1) of this section due to the reasonable expectations of the mortgagor that the transaction would close under the regulations in effect prior to September 1, 2011, in which case, the regulations of paragraph (b)(2) shall apply.
+
+(c) The Commissioner may exempt a mortgagor from the requirement of paragraph (b) of this section in any case where the Commissioner determines that such exemption does not jeopardize the interests of the United States.
+
+[76 FR 24370, May 2, 2011]

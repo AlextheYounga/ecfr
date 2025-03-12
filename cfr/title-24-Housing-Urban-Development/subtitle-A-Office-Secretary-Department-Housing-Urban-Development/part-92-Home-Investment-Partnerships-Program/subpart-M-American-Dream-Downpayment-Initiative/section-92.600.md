@@ -1,0 +1,3 @@
+##### § 92.600 Purpose. #####
+
+This subpart describes the requirements for the HOME Program American Dream Downpayment Initiative (ADDI). Through the ADDI, HUD makes formula grants to participating jurisdictions that qualify for allocations to assist low-income families achieve homeownership in accordance with the provisions of this subpart. Unless otherwise noted in this subpart, the HOME Program requirements contained in subparts B through L of this part do not apply to the ADDI.

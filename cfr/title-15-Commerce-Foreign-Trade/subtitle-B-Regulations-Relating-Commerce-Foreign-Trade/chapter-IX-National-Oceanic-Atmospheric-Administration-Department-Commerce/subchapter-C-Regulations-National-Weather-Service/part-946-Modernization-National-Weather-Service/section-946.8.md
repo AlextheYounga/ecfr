@@ -1,0 +1,3 @@
+##### § 946.8 Review of proposed certification for restructuring. #####
+
+The Responsible Meteorologist shall transmit the proposed certification and the accompanying documentation to the Regional Director for review. The Regional Director may amend or supplement the documentation provided subsequent readers can easily identify his or her amendments or supplements. If the Regional Director agrees with the proposed certification, he or she shall endorse the proposed certification, and transmit it along with all the accompanying documentation to the Secretary. A copy of any proposed certification shall be provided to the Committee upon request of the Committee.

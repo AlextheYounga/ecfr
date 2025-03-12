@@ -1,0 +1,3 @@
+##### § 636.510 Can the competitive range be further defined once discussions have begun? #####
+
+Yes, you may further narrow the competitive range if an offeror originally in the competitive range is no longer considered to be among the most highly rated offerors being considered for award. That offeror may be eliminated from the competitive range whether or not all material aspects of the proposal have been discussed, or whether or not the offeror has been afforded an opportunity to submit a proposal revision. You must provide an offeror excluded from the competitive range with a written determination and notice that proposal revisions will not be considered.

@@ -1,0 +1,3 @@
+##### § 2580.412-8 The nature of the duties or activities to which the bonding requirement relates. #####
+
+The bond required under section 13 is limited to protection for those duties and activities from which loss can arise through fraud or dishonesty. It is not required to provide the same scope of coverage that is required in faithful discharge of duties bonds under the Labor-Management Reporting and Disclosure Act of 1959 or in the faithful performance bonds of public officials.

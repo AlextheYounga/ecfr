@@ -1,0 +1,3 @@
+##### § 10.861 Scope. #####
+
+This subpart implements the duty preference and related customs provisions applicable to imported goods under the United States-Oman Free Trade Agreement (the OFTA) signed on January 19, 2006, and under the United States-Oman Free Trade Agreement Implementation Act (the Act; 120 Stat. 1191). Except as otherwise specified in this subpart, the procedures and other requirements set forth in this subpart are in addition to the customs procedures and requirements of general application contained elsewhere in this chapter. Additional provisions implementing certain aspects of the OFTA and the Act are contained in Parts 24, 162, and 163 of this chapter.

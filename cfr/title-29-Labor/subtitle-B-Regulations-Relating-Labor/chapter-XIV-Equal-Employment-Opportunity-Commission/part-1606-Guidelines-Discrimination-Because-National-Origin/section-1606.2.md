@@ -1,0 +1,3 @@
+##### § 1606.2 Scope of title VII protection. #####
+
+Title VII of the Civil Rights Act of 1964, as amended, protects individuals against employment discrimination on the basis of race, color, religion, sex or national origin. The title VII principles of disparate treatment and adverse impact equally apply to national origin discrimination. These Guidelines apply to all entities covered by title VII (collectively referred to as “employer”).

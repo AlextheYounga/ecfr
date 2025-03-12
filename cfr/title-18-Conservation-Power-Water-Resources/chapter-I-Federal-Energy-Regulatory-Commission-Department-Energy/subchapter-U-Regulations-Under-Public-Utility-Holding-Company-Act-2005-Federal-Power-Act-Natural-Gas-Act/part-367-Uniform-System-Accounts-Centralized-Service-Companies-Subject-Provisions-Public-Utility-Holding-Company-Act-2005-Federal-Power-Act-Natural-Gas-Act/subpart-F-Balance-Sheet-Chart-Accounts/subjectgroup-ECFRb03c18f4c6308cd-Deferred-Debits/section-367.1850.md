@@ -1,0 +1,3 @@
+##### § 367.1850 Account 185, Temporary facilities. #####
+
+This account must include amounts shown by project for property installed for temporary use for a period of less than one year. Each project must be charged with the cost of temporary facilities and credited with payments received from customers and net salvage realized on removal of the temporary facilities. Any net credit or debit resulting must be cleared to the construction or service project to which the facilities relate.

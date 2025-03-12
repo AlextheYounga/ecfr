@@ -1,0 +1,5 @@
+##### § 1975.1 Purpose and scope. #####
+
+(a) Among other things, the Williams-Steiger Act poses certain duties on employers. This part has the limited purpose and scope of clarifying which persons are considered to be employers either as a matter of interpretation of the intent and terms of the Act or as a matter of policy appropriate to administering and enforcing the Act. In short, the purpose and scope of this part is to indicate which persons are covered by the Act as employers and, as such, subject to the requirements of the Act.
+
+(b) It is not the purpose of this part to indicate the legal effect of the Act, once coverage is determined. Section 4(b)(1) of the Act provides that the statute shall be inapplicable to working conditions to the extent they are subject to another Federal agency's exercise of different statutory authority affecting the occupational safety and health aspects of those conditions. Therefore, a person may be considered an employer covered by the Act, and yet standards issued under the Act respecting certain working conditions would not be applicable to the extent those conditions were subject to another agency's authority.

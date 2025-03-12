@@ -1,0 +1,31 @@
+##### § 4.97 Salvage vessels. #####
+
+(a) Only a vessel of the United States, a numbered motorboat owned by a citizen, or a vessel operating within the purview of paragraph (d) or (e) of this section, shall engage in any salvage operation in territorial waters of the United States unless an application addressed to the Commissioner of Customs to use another specified vessel in a completely described operation has been granted.133
+
+133 “No foreign vessel shall, under penalty of forfeiture, engage in salvaging operations on the Atlantic or Pacific coast of the United States, in any portion of the Great Lakes or their connecting or tributary waters, including any portion of the Saint Lawrence River through which the international boundary line extends, or in territorial waters of the United States on the Gulf of Mexico, except when authorized by a treaty or in accordance with the provisions of section 725 of this title: *Provided, however,* That if, on investigation, the Secretary of the Treasury is satisfied that no suitable vessel wholly owned by a person who is a citizen of the United States and documented under the laws of the United States or numbered pursuant to section 288 of this title, is available in any particular locality he may authorize the use of a foreign vessel or vessels in salvaging operations in that locality and no penalty shall be incurred for such authorized use.” (46 U.S.C. 316(d))
+
+“Nothing in this section shall be held or construed to prohibit or restrict any assistance to vessels or salvage operations authorized by Article II of the treaty between the United States and Great Britain ‘concerning reciprocal rights for United States and Canada in the conveyance of prisoners and wrecking and salvage’ signed at Washington, May 18, 1908 (35 Stat. 2036), or by the treaty between the United States and Mexico ‘to facilitate assistance to and salvage of vessels in territorial waters,’ signed at Mexico City, June 13, 1935 (49 Stat. 3359).” (46 U.S.C. 316(e))
+
+(b) Upon receipt of such an application, the Commissioner of Customs will cause an investigation to be made immediately to determine whether a suitable vessel of the United States or a suitable numbered motorboat owned by a citizen is available for the operation. If he finds that no such vessel is available and that the facts otherwise warrant favorable action, he will grant the application.
+
+(c) If the application is granted, the applicant shall make a full report of the operation as soon as possible to the director of the port nearest the place where the operation was conducted.
+
+(d) A Canadian vessel may engage in salvage operations on any vessel in any territorial waters of the United States in which Canadian vessels are permitted to conduct such operations by article II of the treaty between the United States and Great Britain signed on May 18, 1908,134 or by section 725, title 46, United States Code.135 If any such vessel engages in a salvage operation in territorial waters of the United States, the owner or master of the vessel shall make a full report of the operation as soon as possible to the director of the port nearest the place where the operation was conducted.
+
+134 “The High Contracting Parties agree that vessels and wrecking appliances, either from the United States or from the Dominion of Canada, may salve any property wrecked and may render aid and assistance to any vessels wrecked, disabled or in distress in the waters or on the shores of the other country in that portion of the St. Lawrence River through which the International Boundary line extends, and, in Lake Ontario, Lake Erie, Lake St. Clair, Lake Huron, and Lake Superior, and in the Rivers Niagara, Detroit, St. Clair, and Ste. Marie, and the Canals at Sault Ste. Marie, and on the shores and in the waters of the other country along the Atlantic and Pacific Coasts within a distance of thirty miles from the International Boundary on such Coasts.
+
+“It is further agreed that such reciprocal wrecking and salvage privileges shall include all necessary towing incident thereto, and that nothing in the Customs, Coasting or other laws or regulations of either country shall restrict in any manner the salving operations of such vessels or wrecking appliances.
+
+“Vessels from either country employed in salving in the waters of the other shall, as soon as practicable afterwards, make full report at the nearest custom house of the country in whose waters such salving takes place.” (35 Stat. 2036)
+
+135 “Canadian vessels and wrecking appurtenance may render aid and assistance to Canadian or other vessels and property wrecked, disabled, or in distress in the waters of the United States contiguous to the Dominion of Canada.
+
+“This section shall be construed to apply to the canal and improvement of the waters between Lake Erie and Lake Huron, and to the waters of the Saint Mary's River and Canal: \* \* \*.” (46 U.S.C. 725)
+
+The waters of Lake Michigan are not contiguous to the Dominion of Canada within the meaning of this statute.
+
+(e) A Mexican vessel may engage in a salvage operation on a Mexican vessel in any territorial waters of the United States in which Mexican vessels are permitted to conduct such operations by the treaty between the United States and Mexico signed on June 13, 1935.136
+
+136 “The High Contracting Parties agree that vessels and rescue apparatus, public or private, of either country, may aid or assist vessels of their own nationality, including the passengers and crews thereof, which may be disabled or in distress on the shores or within the territorial waters of the other country within a radius of seven hundred and twenty nautical miles of the intersection of the International Boundary Line and the coast of the Pacific Ocean, or within a radius of two hundred nautical miles of the intersection of the International Boundary Line and the coast of the Gulf of Mexico.” (49 Stat. 3360)
+
+[28 FR 14596, Dec. 31, 1963, as amended by T.D. 69-266, 34 FR 20423, Dec. 31, 1969]

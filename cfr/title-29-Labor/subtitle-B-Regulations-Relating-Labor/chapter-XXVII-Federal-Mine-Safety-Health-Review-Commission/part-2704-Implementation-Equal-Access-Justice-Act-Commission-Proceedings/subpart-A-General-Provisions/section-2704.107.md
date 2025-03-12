@@ -1,0 +1,7 @@
+##### § 2704.107 Rulemaking on maximum rates for attorney's fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys qualified to handle certain types of proceedings), attorney's fees may be awarded at a rate higher than $125 per hour. Any such increase in the rate for attorney's fees will be made only upon a petition submitted by the applicant, pursuant to § 2704.201, and only if the administrative law judge determines, in his or her discretion, that it is justified. Any such adjustment in fees is subject to Commission review as specified in § 2704.308.
+
+(b) Any person may file with the Commission a petition for rulemaking to increase the maximum rate for attorney fees. The petition should identify the rate the petitioner believes the Commission should establish and the types of proceedings in which the rate should be used. It should also explain fully the reasons why the higher rate is warranted. The Commission will respond to the petition within 60 days after it is filed, by initiating an informal rulemaking proceeding, denying the petition, or taking other appropriate action.
+
+[47 FR 10001, Mar. 9, 1982, as amended at 63 FR 63176, Nov. 12, 1998]

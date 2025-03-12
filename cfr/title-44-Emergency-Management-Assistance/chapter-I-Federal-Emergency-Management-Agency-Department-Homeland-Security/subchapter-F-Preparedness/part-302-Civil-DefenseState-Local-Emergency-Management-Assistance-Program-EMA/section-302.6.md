@@ -1,0 +1,3 @@
+##### § 302.6 Fiscal year limitation. #####
+
+Federal appropriations for the program covered by the regulations in this part are limited for obligation on a Federal fiscal year basis. Each annual submission (or amendment thereto) which results in a change in scope (e.g., an increase in the amount of funds other than a cost overrun) must be approved during the Federal Fiscal year for which the funds to be charged were appropriated. Valid expenses incurred by a State or its subgrantee during the fiscal year but before obligation by FEMA of funds under this program may qualify for payment of a Federal financial contribution out of the funds subsequently appropriated for that fiscal year.

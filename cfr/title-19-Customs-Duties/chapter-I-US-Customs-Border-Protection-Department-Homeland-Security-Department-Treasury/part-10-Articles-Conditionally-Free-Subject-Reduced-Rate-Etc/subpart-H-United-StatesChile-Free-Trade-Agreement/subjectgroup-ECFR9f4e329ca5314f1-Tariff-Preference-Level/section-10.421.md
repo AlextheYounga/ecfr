@@ -1,0 +1,13 @@
+##### § 10.421 Goods eligible for tariff preference claims. #####
+
+The following goods are eligible for a TPL claim filed under § 10.420 of this subpart:
+
+(a) *Woven fabrics.* Certain woven fabrics of Chapters 52, 54 and 55 of the HTSUS (Headings 5208 to 5212; 5407 and 5408; 5512 to 5516) that meet the applicable conditions for preferential tariff treatment under the US-CFTA other than the condition that they are originating goods, if they are wholly formed in the U.S. or Chile regardless of the origin of the yarn used to produce these fabrics.
+
+(b) *Cotton or man-made fabric goods.* Certain cotton or man-made fabric goods of Chapters 58 and 60 of the HTSUS that meet the applicable conditions for preferential tariff treatment under the US-CFTA other than the condition that they are originating goods if they are wholly formed in the U.S. or Chile regardless of the origin of the fibers used to produce the spun yarn or the yarn used to produce the fabrics.1
+
+1 The relevant HTSUS subheadings for fabric goods in Chapters 58 or 60 eligible under HTSUS 9911.99.20 are as follows: 5801.21, 5801.22, 5801.23, 5801.24, 5801.25, 5801.26, 5801.31, 5801.32, 5801.33, 5801.34, 5801.35, 5801.36, 5802.11, 5802.19, 5802.20.0020, 5802.30.0030, 5803.10, 5803.90.30, 5804.10.10, 5804.21, 5804.29.10, 5804.30.0020, 5805.00.30, 5805.00.4010, 5806.10.10, 5806.10.24, 5806.10.28, 5806.20, 5806.31, 5806.32, 5807.10.05, 5807.10.2010, 5807.10.2020, 5807.90.05, 5807.90.2010, 5807.90.2020, 5808.10.40, 5808.10.70, 5808.90.0010, 5809.00, 5810.10, 5810.91, 5810.92, 5811.00.20, 5811.00.30, 6001.10, 6001.21, 6001.22, 6001.91, 6001.92, 6002.40, 6002.90, 6003.20, 6003.30, 6003.40, 6004.10, 6004.90, 6005.21, 6005.22, 6005.23, 6005.24, 6005.31, 6005.32, 6005.33, 6005.34, 6005.41, 6005.42, 6005.43, 6005.44, 6006.21, 6006.22, 6006.23, 6006.24, 6006.31, 6006.32, 6006.33, 6006.34, 6006.41, 6006.42, 6006.43, 6006.44.
+
+(c) *Cotton or man-made apparel goods.* Cotton or man-made apparel goods in Chapters 61 and 62 of the HTSUS that are both cut (or knit-to-shape) and sewn or otherwise assembled in the U.S. or Chile regardless of the origin of the fabric or yarn, provided that they meet the applicable conditions for preferential tariff treatment under the US-CFTA, other than the condition that they are originating goods.
+
+[CBP Dec. 05-07, 70 FR 10873, Mar. 7, 2005, as amended by CBP Dec. 06-39, 71 FR 76133, Dec. 20, 2006]

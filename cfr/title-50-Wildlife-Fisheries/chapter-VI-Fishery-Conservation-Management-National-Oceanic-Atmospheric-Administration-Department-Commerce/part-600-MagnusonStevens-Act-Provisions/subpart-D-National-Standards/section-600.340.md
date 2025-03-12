@@ -1,0 +1,13 @@
+##### § 600.340 National Standard 7—Costs and Benefits. #####
+
+(a) *Standard 7.* Conservation and management measures shall, where practicable, minimize costs and avoid unnecessary duplication.
+
+(b) *Alternative management measures.* Management measures should not impose unnecessary burdens on the economy, on individuals, on private or public organizations, or on Federal, state, or local governments. Factors such as fuel costs, enforcement costs, or the burdens of collecting data may well suggest a preferred alternative.
+
+(c) *Analysis.* The supporting analyses for FMPs should demonstrate that the benefits of fishery regulation are real and substantial relative to the added research, administrative, and enforcement costs, as well as costs to the industry of compliance. In determining the benefits and costs of management measures, each management strategy considered and its impacts on different user groups in the fishery should be evaluated. This requirement need not produce an elaborate, formalistic cost/benefit analysis. Rather, an evaluation of effects and costs, especially of differences among workable alternatives, including the status quo, is adequate. If quantitative estimates are not possible, qualitative estimates will suffice.
+
+(1) *Burdens.* Management measures should be designed to give fishermen the greatest possible freedom of action in conducting business and pursuing recreational opportunities that are consistent with ensuring wise use of the resources and reducing conflict in the fishery. The type and level of burden placed on user groups by the regulations need to be identified. Such an examination should include, for example: Capital outlays; operating and maintenance costs; reporting costs; administrative, enforcement, and information costs; and prices to consumers. Management measures may shift costs from one level of government to another, from one part of the private sector to another, or from the government to the private sector. Redistribution of costs through regulations is likely to generate controversy. A discussion of these and any other burdens placed on the public through FMP regulations should be a part of the FMP's supporting analyses.
+
+(2) *Gains.* The relative distribution of gains may change as a result of instituting different sets of alternatives, as may the specific type of gain. The analysis of benefits should focus on the specific gains produced by each alternative set of management measures, including the status quo. The benefits to society that result from the alternative management measures should be identified, and the level of gain assessed.
+
+[81 FR 71904, Oct. 18, 2016]

@@ -1,0 +1,3 @@
+##### § 11.21 Commencement of hearing procedures. #####
+
+Proceedings under this subpart are commenced upon the timely filing with the Hearings Division of a request for a hearing, as provided in § 11.15 of subpart B. Upon receipt of a request for a hearing, the Hearings Division will assign an administrative law judge to the case. Notice of assignment will be given promptly to the parties, and thereafter, all pleadings, papers, and other documents in the proceeding shall be filed directly with the administrative law judge, with copies served on the opposing party.

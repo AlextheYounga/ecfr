@@ -1,0 +1,3 @@
+##### § 964.100 Role of resident council. #####
+
+The role of a resident council is to improve the quality of life and resident satisfaction and participate in self-help initiatives to enable residents to create a positive living environment for families living in public housing. Resident councils may actively participate through a working partnership with the HA to advise and assist in all aspects of public housing operations.

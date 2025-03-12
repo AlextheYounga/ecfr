@@ -1,0 +1,9 @@
+##### § 157.5 Purpose and intent of rules. #####
+
+(a) Applications under section 7 of the Natural Gas Act shall set forth all information necessary to advise the Commission fully concerning the operation, sales, service, construction, extension, or acquisition for which a certificate is requested or the abandonment for which permission and approval is requested. Some applications may be of such character that an abbreviated application may be justified under the provisions of § 157.7. Applications for permission and approval to abandon pursuant to section 7(b) of the Act shall conform to § 157.18 and to such other requirements of this part as may be pertinent. However, every applicant shall file all pertinent data and information necessary for a full and complete understanding of the proposed project, including its effect upon applicant's present and future operations and whether, and at what docket, applicant has previously applied for authorization to serve any portion of the market contemplated by the proposed project and the nature and disposition of such other project.
+
+(b) Every requirement of this part shall be considered as a forthright obligation of the applicant which can only be avoided by a definite and positive showing that the information or data called for by the applicable rules is not necessary for the consideration and ultimate determination of the application.
+
+(c) This part will be strictly applied to all applications as submitted and the burden of adequate presentation in intelligible form as well as justification for omitted data or information rests with the applicant.
+
+[17 FR 7386, Aug. 14, 1952, as amended by Order 280, 29 FR 4876, Apr. 7, 1964]

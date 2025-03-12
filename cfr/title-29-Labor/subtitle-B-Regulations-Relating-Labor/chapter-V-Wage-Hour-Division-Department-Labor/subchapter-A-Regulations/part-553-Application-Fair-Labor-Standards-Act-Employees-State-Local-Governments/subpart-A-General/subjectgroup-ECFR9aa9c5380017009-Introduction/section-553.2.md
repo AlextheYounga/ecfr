@@ -1,0 +1,7 @@
+##### § 553.2 Purpose and scope. #####
+
+(a) The 1985 Amendments to the Fair Labor Standards Act (FLSA) changed certain provisions of the Act as they apply to employees of State and local public agencies. The purpose of part 553 is to set forth the regulations to carry out the provisions of these Amendments, as well as other FLSA provisions previously in existence relating to such public agency employees.
+
+(b) The regulations in this part are divided into three subparts. Subpart A interprets and applies the special FLSA provisions that are generally applicable to all covered and nonexempt employees of State and local governments. Subpart A also contains provisions concerning certain individuals (*i.e.,* elected officials, their appointees, and legislative branch employees) who are excluded from the definition of “employee” and thus from FLSA coverage. This subpart also interprets and applies sections 7(o), and 7(p)(2), 7(p)(3), and 11(c) of the Act regarding compensatory time off, occasional or sporadic part-time employment, and the performance of substitute work by public agency employees, respectively.
+
+(c) Subpart B of this part deals with “volunteer” services performed by individuals for public agencies. Subpart C applies various FLSA provisions as they relate to fire protection and law enforcement employees of public agencies.

@@ -1,0 +1,3 @@
+##### § 10.878 Packaging and packing materials and containers for retail sale and for shipment. #####
+
+Packaging materials and containers in which a good is packaged for retail sale and packing materials and containers for shipment are to be disregarded in determining whether a good qualifies as an originating good under § 10.873 of this subpart and General Note 31, HTSUS, except that the value of such packaging and packing materials and containers may be included in meeting the value-content requirement specified in § 10.873(b) of this subpart.

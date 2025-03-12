@@ -1,0 +1,5 @@
+##### § 112.42 Application for identification card. #####
+
+An application for an identification card required pursuant to § 112.41 of this part, shall be filed personally by the applicant with the port director on Customs Form 3078 together with two 11/4″ × 11/4″ color photographs of the applicant. The fingerprints of the applicant shall also be required on form FD 258 or electronically at the time of filing the application. The port director shall inform the applicant of the current Federal Bureau of Investigation user fee for conducting fingerprint checks and the Customs administrative processing fee, the total of which must be tendered with the application. The application may be referred for investigation and report concerning the character of the applicant.
+
+[T.D. 93-18, 58 FR 15772, Mar. 24, 1993, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001]

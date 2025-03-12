@@ -1,0 +1,3 @@
+##### § 1603.216 Summary decision. #####
+
+Upon motion of a party or after notice to the parties, the administrative law judge may issue a summary decision without a hearing if the administrative law judge finds that there is no genuine issue of material fact or that the complaint may be dismissed pursuant to § 1603.107 or any other grounds authorized by this part. A summary decision shall otherwise conform to the requirements of § 1603.217.

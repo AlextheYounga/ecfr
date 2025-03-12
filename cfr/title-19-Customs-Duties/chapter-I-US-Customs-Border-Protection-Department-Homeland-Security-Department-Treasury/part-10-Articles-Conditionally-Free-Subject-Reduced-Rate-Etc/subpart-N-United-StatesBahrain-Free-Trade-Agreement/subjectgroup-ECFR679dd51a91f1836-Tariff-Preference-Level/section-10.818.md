@@ -1,0 +1,3 @@
+##### § 10.818 Filing of claim for tariff preference level. #####
+
+A fabric, apparel, or made-up good described in § 10.819 of this subpart that does not qualify as an originating good under § 10.810 of this subpart may nevertheless be entitled to preferential tariff treatment under the BFTA under an applicable tariff preference level (TPL). To make a TPL claim, the importer must include on the entry summary, or equivalent documentation, the applicable subheading in Chapter 99 of the HTSUS (9914.99.20) immediately above the applicable subheading in Chapter 52 through Chapter 63 of the HTSUS under which each non-originating fabric or apparel good is classified.

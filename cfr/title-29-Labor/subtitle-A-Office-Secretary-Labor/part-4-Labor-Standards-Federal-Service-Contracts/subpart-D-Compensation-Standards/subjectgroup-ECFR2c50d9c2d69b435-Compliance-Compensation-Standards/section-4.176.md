@@ -1,0 +1,17 @@
+##### § 4.176 Payment of fringe benefits to temporary and part-time employees. #####
+
+(a) As set forth in § 4.165(a)(2), the Act makes no distinction, with respect to its compensation provisions, between temporary, part-time, and full-time employees. Accordingly, in the absence of express limitations, the provisions of an applicable fringe benefit determination apply to all temporary and part-time service employees engaged in covered work. However, in general, such temporary and part-time employees are only entitled to an amount of the fringe benefits specified in an applicable determination which is proportionate to the amount of time spent in covered work. The application of these principles may be illustrated by the following examples:
+
+(1) Assuming the paid vacation for full-time employees is one week of 40 hours, a part-time employee working a regularly scheduled workweek of 16 hours is entitled to 16 hours of paid vacation time or its equivalent each year, if all other qualifications are met.
+
+(2) In the case of holidays, a part-time employee working a regularly scheduled workweek of 16 hours would be entitled to two-fifths of the holiday pay due full-time employees. It is immaterial whether or not the holiday falls on a normal workday of the part-time employee. Except as provided in § 4.174(b), a temporary or casual employee hired during a holiday week, but after the holiday, would be due no holiday benefits for that week.
+
+(3) Holiday or vacation pay obligations to temporary and part-time employees working an irregular schedule of hours may be discharged by paying such employees a proportion of the holiday or vacation benefits due full-time employees based on the number of hours each such employee worked in the workweek prior to the workweek in which the holiday occurs or, with respect to vacations, the number of hours which the employee worked in the year preceding the employee's anniversary date of employment. For example:
+
+(i) An employee works 10 hours during the week preceding July 4, a designated holiday. The employee is entitled to 10/40 of the holiday pay to which a full-time employee is entitled (i.e., 10/40 times 8 = 2 hours holiday pay).
+
+(ii) A part-time employee works 520 hours during the 12 months preceding the employee's anniversary date. Since the typical number of nonovertime hours in a year of work is 2,080, if a full-time employee would be entitled to one week (40 hours) paid vacation under the applicable fringe benefit determination, then the part-time employee would be entitled to 520/2,080 times 40 = 10 hours paid vacation.
+
+(4) A part-time employee working a regularly scheduled workweek of 20 hours would be entitled to one-half of the health and welfare and/or pension benefits specified in the applicable fringe benefit determination. Thus, if the determination requires $36.40 per month for health insurance, the contractor could discharge his obligation towards the employee in question by providing a health insurance policy costing $18.20 per month.
+
+(b) A contractor's obligation to furnish the specified fringe benefits to temporary and part-time employees may be discharged by furnishing equivalent benefits, cash equivalents, or a combination thereof in accordance with the rules and regulations set forth in § 4.177.

@@ -1,0 +1,3 @@
+##### § 310.9 Report of the Secretary on Federal participation. #####
+
+Upon receipt of the Director's proposed plan for Federal participation, the Secretary, within a reasonable time, shall submit a report to the President including: (a) Evidence that the exposition has met the criteria for Federal recognition and has been so recognized; (b) a statement that the exposition has been registered by the BIE; and (c) a proposed plan for the Federal participation referred to in § 310.8.

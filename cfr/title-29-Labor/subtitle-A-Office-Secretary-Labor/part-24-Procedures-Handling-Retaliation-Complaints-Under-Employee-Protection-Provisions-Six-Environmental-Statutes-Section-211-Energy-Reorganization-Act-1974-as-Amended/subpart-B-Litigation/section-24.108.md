@@ -1,0 +1,7 @@
+##### § 24.108 Role of Federal agencies. #####
+
+(a)(1) The complainant and the respondent will be parties in every proceeding. At the Assistant Secretary's discretion, he or she may participate as a party or participate as amicus curiae at any time at any stage of the proceeding. This right to participate includes, but is not limited to, the right to petition for review of a decision of an administrative law judge, including a decision approving or rejecting a settlement agreement between the complainant and the respondent.
+
+(2) Copies of documents in all cases, whether or not the Assistant Secretary is participating in the proceeding, must be sent to the Assistant Secretary, Occupational Safety and Health Administration, and to the Associate Solicitor, Division of Fair Labor Standards, U.S. Department of Labor.
+
+(b) The Environmental Protection Agency, the Nuclear Regulatory Commission, and the Department of Energy, if interested in a proceeding, may participate as amicus curiae at any time in the proceedings, at the respective agency's discretion. At the request of the interested Federal agency, copies of all pleadings in a case must be sent to the Federal agency, whether or not the agency is participating in the proceeding.

@@ -1,0 +1,9 @@
+##### § 2704.206 When an application may be filed. #####
+
+(a) An application may be filed whenever the applicant has prevailed in the underlying proceeding or in a significant and discrete substantive portion of that proceeding. An application may also be filed by a non-prevailing party when a demand by the Secretary is substantially in excess of the decision of the Commission and is unreasonable when compared with such decision. In no case may an application be filed later than 30 days after the Commission's final disposition of the underlying proceeding, or 30 days after issuance of a court judgment that is final and nonappealable in any Commission adjudication that has been appealed pursuant to section 106 of the Mine Act, 30 U.S.C. 816.
+
+(b) If review or reconsideration is sought or taken of a decision on the merits as to which an applicant has prevailed or has been subjected to a demand from the Secretary substantially in excess of the decision of the Commission and unreasonable when compared to that decision, proceedings for the award of fees shall be stayed pending final disposition of the underlying controversy.
+
+(c) For purposes of this part, final disposition before the Commission means the date on which a decision or order disposing of the merits of the proceeding or any other complete resolution of the proceeding, such as a settlement or voluntary dismissal, becomes final (pursuant to sections 105(d) and 113(d) of the Mine Act (30 U.S.C. 815(d) and 823(d)) and unappealable, both within the Commission and to the courts (pursuant to section 106(a) of the Mine Act (30 U.S.C. 816(a)).
+
+[63 FR 63176, Nov. 12, 1998, as amended at 71 FR 44210, Aug. 4, 2006]

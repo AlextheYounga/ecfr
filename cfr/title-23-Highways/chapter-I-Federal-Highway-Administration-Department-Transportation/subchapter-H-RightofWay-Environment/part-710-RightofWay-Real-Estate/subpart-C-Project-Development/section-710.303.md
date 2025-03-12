@@ -1,0 +1,3 @@
+##### § 710.303 Project authorization and agreements. #####
+
+As a condition of Federal funding under title 23, the grantee shall obtain FHWA authorization in writing or electronically before proceeding with any real property acquisition using title 23 funds, including early acquisitions under § 710.501(e) and hardship acquisition and protective buying under § 710.503. For projects funded under chapter 1, title 23, United States Code, the grantee must prepare a project agreement in accordance with 23 CFR part 630, subpart A. Authorizations and agreements shall be based on an acceptable estimate for the cost of acquisition.

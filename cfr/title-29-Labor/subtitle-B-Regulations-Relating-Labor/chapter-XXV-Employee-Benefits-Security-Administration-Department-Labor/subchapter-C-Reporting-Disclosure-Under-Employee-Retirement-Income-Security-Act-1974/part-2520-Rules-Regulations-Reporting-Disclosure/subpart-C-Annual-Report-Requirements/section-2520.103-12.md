@@ -1,0 +1,23 @@
+##### § 2520.103-12 Limited exemption and alternative method of compliance for annual reporting of investments in certain entities. #####
+
+(a) This section prescribes an exemption from and alternative method of compliance with the annual reporting requirements of part 1 of title I of ERISA for employee benefit plans whose assets are invested in certain entities described in paragraph (c). A plan utilizing this method of reporting shall include as part of its annual report the current value of its investment or units of participation in the entity in the manner prescribed by the Return/Report Form and the instructions thereto. The plan is not required to include in its annual report any information regarding the underlying assets or individual transactions of the entity, provided the information described in paragraph (b) regarding the entity is reported directly to the Department on behalf of the plan administrator on or before the filing due date for the entity in accordance with the instructions to the Form 5500 Annual Return/Report. The information described in paragraph (b), however, shall be considered as part of the annual report for purposes of the requirements of section 104(a)(1) of the Act and §§ 2520.104a-5 and 2520.104a-6.
+
+(b) The following information must be filed regarding the entity described in paragraph (c) of this section:
+
+(1) A Form 5500 “Annual Return/Report of Employee Benefit Plan” and any statements or schedules required to be attached to the form for such entity, completed in accordance with the instructions for the form, including Schedule A (Insurance Information), Schedule C (Service Provider Information), Schedule D (DFE/Participating Plan Information), Schedule G (Financial Transaction Schedules), Schedule H (Financial Information), and the schedules described in § 2520.103-10(b)(1) and (b)(2). See the instructions for this form. The information reported shall be for the fiscal year of such entity ending with or within the plan year for which the annual report of the plan is made.
+
+(2) A report of an independent qualified public accountant regarding the financial statements and schedules described in paragraph (b)(1) of this section which meets the requirements of § 2520.103-1(b)(5).
+
+(c) This method of reporting is available to any employee benefit plan which has invested in an entity the assets of which are deemed to include plan assets under § 2510.3-101, provided the entity holds the assets of two or more plans which are not members of a “related group” of employee benefit plans as that term is defined in paragraph (e) of this section. The method of reporting is not available for investments in an insurance company pooled separate account or a common or collective trust maintained by a bank, trust company, or similar institution.
+
+(d) The examination and report of an independent qualified public accountant required by § 2520.103-1 for a plan utilizing the method of reporting described in this section need not extend to any information concerning an entity which is reported directly to the Department under paragraph (b) of this section.
+
+(e) A “related group” of employee benefit plans consists of every group of two or more employee benefit plans—
+
+(1) Each of which receives 10 percent or more of its aggregate contributions from the same employer or from members of the same controlled group of corporations (as determined under section 1563(a) of the Internal Revenue Code, without regard to section 1563(a)(4) thereof); or
+
+(2) Each of which is either maintained by, or maintained pursuant to a collective bargaining agreement negotiated by, the same employee organization or affiliated employee organizations. For purposes of this paragraph, an “affiliate” of an employee organization means any person controlling, controlled by, or under common control with such organization, and includes any organization chartered by the same parent body, or governed by the same constitution and bylaws, or having the relation of parent and subordinate.
+
+(f) *Electronic filing.* See § 2520.104a-2 and the instructions for the Form 5500 “Annual Return/Report of Employee Benefit Plan” for electronic filing requirements. The entity described in paragraph (c) of this section must maintain an original copy, with all required signatures, as part of its records.
+
+[51 FR 41287, Nov. 13, 1986, as amended at 65 FR 21083, Apr. 19, 2000; 71 FR 41368, July 21, 2006]

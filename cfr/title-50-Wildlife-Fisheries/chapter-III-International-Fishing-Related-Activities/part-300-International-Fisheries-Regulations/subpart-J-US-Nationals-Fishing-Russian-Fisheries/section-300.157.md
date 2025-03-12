@@ -1,0 +1,3 @@
+##### § 300.157 Penalties. #####
+
+In addition to any fine, penalty, or forfeiture imposed by the Russian Federation, nationals and vessels of the United States violating the prohibitions of § 300.156 are subject to the fines, penalties, and forfeitures and the adjudicative procedures provided in the Magnuson-Stevens Act, 16 U.S.C. 1858, 1860, 1861, and any other applicable laws and regulations of the United States.

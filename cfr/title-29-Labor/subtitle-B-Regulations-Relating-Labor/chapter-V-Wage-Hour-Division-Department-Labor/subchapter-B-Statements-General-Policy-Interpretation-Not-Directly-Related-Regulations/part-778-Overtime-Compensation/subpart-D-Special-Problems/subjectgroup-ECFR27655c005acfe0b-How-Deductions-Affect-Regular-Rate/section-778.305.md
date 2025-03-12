@@ -1,0 +1,3 @@
+##### § 778.305 Computation where particular types of deductions are made. #####
+
+The regular rate of pay of an employee whose earnings are subject to deductions of the types described in paragraphs (a)(1), (2), and (3) of § 778.304 is determined by dividing his total compensation (except statutory exclusions) before deductions by the total hours worked in the workweek. (See also §§ 531.36-531.40 of this chapter.)

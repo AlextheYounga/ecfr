@@ -1,0 +1,3 @@
+##### § 982.624 Manufactured home space rental: Utility allowance schedule. #####
+
+The PHA must establish utility allowances for manufactured home space rental. For the first twelve months of the initial lease term only, the allowances must include a reasonable amount for utility hook-up charges payable by the family if the family actually incurs the expenses because of a move. Allowances for utility hook-up charges do not apply to a family that leases a manufactured home space in place. Utility allowances for manufactured home space must not cover costs payable by a family to cover the digging of a well or installation of a septic system.

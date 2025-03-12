@@ -1,0 +1,27 @@
+##### § 540.3 Procedures. #####
+
+(a) *Mandatory declassification review.* All requests for mandatory review shall be handled by the Executive Director or his designee. Under no circumstances shall the Exective Director refuse to confirm the existence or non-existence of a document requested under the Freedom of Information Act or the mandatory review provisions of Executive Order 12356, unless the fact of its existence or non-existence would itself be classified under Executive Order 12356. Requests for declassification shall be acted upon promptly providing that the request reasonably describes the information which is the subject of the request for declassification. In light of the fact that the Commission does not have original classification authority and national security information in its custody has been classified by another Federal agency, the Executive Director will refer all requests for national security information in its custody to the Federal agency that classified it or, if the agency that classified it has either ceased to exist or transferred the information in conjunction with a transfer of functions, to the appropriate federal agency exercising original classification authority with respect to the same subject, for review and disposition in accordance with Executive Order 12356 and that agency's regulations and guidelines.
+
+(b) *Exceptional cases.* When an employee or contractor of the Commission originates information that is believed to require classification, the Executive Director shall ensure that it is protected in accordance with Executive Order 12356 and shall promptly transmit it under appropriate safeguards to the agency with appropriate subject matter jurisdiction and classification authority for review and action in accordance with the Order and that agency's regulations and guidelines.
+
+(c) *Derivative classification.* Derivative classification markings shall be applied to information that is in substance the same as information that is already classified, in accordance with Executive Order 12356, Section 2-1, unless it is determined through inquiries made to the originators of the classified information or other appropriate persons that the paraphrasing, restating, or summarizing of the classified information obviates the need for its classification, in which case the information shall be issued as unclassified or shall be marked appropriately. After verifying the current level of classification so far as practicable, paper copies of such derivatively classified information shall be marked so as to indicate:
+
+(1) The source of the original classification;
+
+(2) The identity of the Commission employee originating the derivatively classified document;
+
+(3) The dates or events for declassification or review for declassification indicated on the classified source material; and
+
+(4) Any additional authorized markings appearing on the source material.
+
+(d) *Handling.* All classified documents shall be delivered to the Executive Director or his designee immediately upon receipt. All potential recipients of such documents shall be advised of the names of such designees and updated information as necessary. In the event that the Executive Director or his designee is not available to receive such documents, they shall be turned over to the Administrative Officer and secured, unopened, in the combination safe located in the Commission offices until the Executive Director or his designee is available. Under no circumstances shall classified materials that cannot be delivered to the Executive Director or his designee be stored other than in the designated safe.
+
+(e) *Reproduction.* Reproduction of classified material shall take place only in accordance with Executive Order 12356, its implementing directives, and any limitations imposed by the originator. Should copies be made, they are subject to the same controls as the original document. Records showing the number and distribution of copies shall be maintained, where required by the Executive Order, by the Administrative Officer and the log stored with the original documents. These measures shall not restrict reproduction for the purposes of mandatory review.
+
+(f) *Storage.* All classified documents shall be stored in the combination safe located in the Commission's offices. The combination shall be changed as required by ISOO Directive No. 1, dated June 23, 1982. The combination shall be known only to the Executive Director and his designees with the appropriate security clearance.
+
+(g) *Employee education.* All employees who have been granted a security clearance and who have occasion to handle classified materials shall be advised of handling, reproduction, and storage procedures and shall be required to review Executive Order 12356 and appropriate ISOO directives. This shall be effected by a memorandum to all affected employees at the time these procedures are implemented. New employees will be instructed in procedures as they enter employment with the Commission.
+
+(h) *Agency terminology.* The use of the terms *Top Secret,**Secret,* and *Confidential* shall be limited to materials classified for national security purposes.
+
+[44 FR 55381, Sept. 26, 1979, as amended at 47 FR 55489, Dec. 10, 1982; 48 FR 44834, Sept. 30, 1983]

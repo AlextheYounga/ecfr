@@ -1,0 +1,5 @@
+##### § 151.69 Transfer or exportation of part of sampling unit. #####
+
+(a) *Transfer of right to withdraw.* When an original sampling unit has been weighed, sampled, and tested in accordance with this subpart and a part of such unit is covered by a transfer of the right to withdraw made pursuant to section 557, Tariff Act of 1930, as amended (19 U.S.C. 1557), the percentages clean yield of the part covered by the transfer and of the part not so covered shall be computed on the basis of the original Customs weights and test and the invoice data related to the respective parts.
+
+(b) *Exportation.* When part of such an original sampling unit is exported from continuous Customs custody without having been manipulated as provided for in section 562, Tariff Act of 1930, as amended (19 U.S.C. 1562), the percentage clean yield of the part not exported shall be determined, at the discretion of the port director, either on the basis of a new determination by reweighing, resampling, and retesting, or by a computation as described in paragraph (a) of this section, for either the exported or the remaining part.

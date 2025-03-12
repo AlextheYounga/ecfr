@@ -1,0 +1,33 @@
+##### § 4.37 Rules of preference among competing applications. #####
+
+Except as provided in § 4.33(e), the Commission will select among competing applications on the following bases:
+
+(a) If an accepted application for a preliminary permit and an accepted application for a license propose project works that would develop, conserve, and utilize, in whole or in part, the same water resources, and the applicant for a license has demonstrated its ability to carry out its plans, the Commission will favor the license applicant unless the permit applicant substantiates in its filed application that its plans are better adapted to develop, conserve, and utilize in the public interest the water resources of the region.
+
+(b) If two or more applications for preliminary permits or two or more applications for licenses (not including applications for a new license under section 15 of the Federal Power Act) are filed by applicants for project works that would develop, conserve, and utilize, in whole or in part, the same water resources, and if none of the applicants is a preliminary permittee whose application for license was accepted for filing within the permit period, the Commission will select between or among the applicants on the following bases:
+
+(1) If both or neither of two applicants are either a municipality or a state, the Commission will favor the applicant whose plans are better adapted to develop, conserve, and utilize in the public interest the water resources of the region, taking into consideration the ability of each applicant to carry out its plans.
+
+(2) If both of two applicants are either a municipality or a state, or neither of them is a municipality or a state, and the plans of the applicants are equally well adapted to develop, conserve, and utilize in the public interest the water resources of the region, taking into consideration the ability of each applicant to carry out its plans, the Commission will favor the applicant with the earliest application acceptance date.
+
+(3) If one of two applicants is a municipality or a state, and the other is not, and the plans of the municipality or a state are at least as well adapted to develop, conserve, and utilize in the public interest the water resources of the region, the Commission will favor the municipality or state.
+
+(4) If one of two applicant is a municipality or a state, and the other is not, and the plans of the applicant who is not a municipality or a state are better adapted to develop, conserve, and utilize in the public interest the water resources of the region, the Commission will inform the municipality or state of the specific reasons why its plans are not as well adapted and afford a reasonable period of time for the municipality or state to render its plans at least as well adapted as the other plans. If the plans of the municipality or state are rendered at least as well adapted within the time allowed, the Commission will favor the municipality or state. If the plans are not rendered at least as well adapted within the time allowed, the Commission will favor the other applicant.
+
+(c) If two or more applications for licenses are filed for project works which would develop, conserve, and utilize, in whole or in part, the same water resources, and one of the applicants was a preliminary permittee whose application was accepted for filing within the permit period (*priority applicant*), the Commission will select between or among the applicants on the following bases:
+
+(1) If the plans of the priority applicant are at least as well adapted as the plans of each other applicant to develop, conserve, and utilize in the public interest the water resources of the region, taking into consideration the ability of each applicant to carry out its plans, the Commission will favor the priority applicant.
+
+(2) If the plans of an applicant who is not a priority applicant are better adapted than the plans of the priority applicant to develop, conserve, and utilize in the public interest the water resources of the region, taking into consideration the ability of each applicant to carry out its plans, the Commission will inform the priority applicant of the specific reasons why its plans are not as well adapted and afford a reasonable period of time for the priority applicant to render its plans at least as well adapted as the other plans. If the plans of the priority applicant are rendered at least as well adapted within the time allowed, then the Commission will favor the priority applicant. If the plans of the priority applicant are not rendered as well adapted within the time allowed, the criteria specified in paragraph (b) will govern.
+
+(3) The criteria specified in paragraph (b) will govern selection among applicants other than the priority applicant.
+
+(d) With respect to a project for which an application for an exemption from licensing has been accepted for filing, the Commission will select among competing applications on the following bases:
+
+(1) If an accepted application for a preliminary permit and an accepted application for exemption from licensing propose to develop mutually exclusive small hydroelectric power projects, the Commission will favor the applicant whose substantiated plans in the application received by the Commission are better adapted to develop, conserve, and utilize in the public interest the water resources of the region. If the substantiated plans are equally well adapted, the Commission will favor the application for exemption from licensing.
+
+(2) If an application for a license and an application for exemption from licensing, or two or more applications for exemption from licensing are each accepted for filing and each proposes to develop a mutually exclusive project, the Commission will favor the applicant whose plans are better adapted to develop, conserve, and utilize in the public interest the water resources of the region. If the plans are equally well adapted, the Commission will favor the applicant with the earliest application acceptance date.
+
+(e) A municipal applicant must provide evidence that the municipality is competent under applicable state and local laws to engage in the business of developing, transmitting, utilizing, or distributing power, or such applicant will be considered a non-municipal applicant for the purpose of determining the disposition of competing applications.
+
+[Order 413, 50 FR 11682, Mar. 25, 1985, as amended by Order 2002, 68 FR 51117, Aug. 25, 2003]

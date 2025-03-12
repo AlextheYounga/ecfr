@@ -1,0 +1,3 @@
+##### § 778.118 Commission paid on a workweek basis. #####
+
+When the commission is paid on a weekly basis, it is added to the employee's other earnings for that workweek (except overtime premiums and other payments excluded as provided in section 7(e) of the Act), and the total is divided by the total number of hours worked in the workweek to obtain the employee's regular hourly rate for the particular workweek. The employee must then be paid extra compensation at one-half of that rate for each hour worked in excess of the applicable maximum hours standard.

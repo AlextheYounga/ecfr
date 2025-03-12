@@ -1,0 +1,3 @@
+##### § 779.510 Conditions that must be met for section 13(b)(11) exemption. #####
+
+In order that an employee be exempt from the overtime provisions of the Act under section 13(b)(11) he must be employed as a driver or driver's helper making local deliveries, and, he must be compensated for such employment on a trip rate basis or other delivery payment plan, and such plan must be found by the Secretary to have the general purpose and effect of reducing the hours worked by the driver or driver's helper to, or below, the maximum workweek applicable to him under section 7(a) of the Act. If all the preceding conditions are not met the exemption is inapplicable.

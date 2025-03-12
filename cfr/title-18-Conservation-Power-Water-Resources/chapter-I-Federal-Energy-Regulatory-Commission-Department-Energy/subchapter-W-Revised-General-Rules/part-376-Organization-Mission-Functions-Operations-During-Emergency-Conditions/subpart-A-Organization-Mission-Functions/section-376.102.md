@@ -1,0 +1,3 @@
+##### § 376.102 Organization. #####
+
+The Commission is established as an independent regulatory Commission within the DOE by the DOE Act. The Commission is composed of five members appointed by the President, by and with the advice and consent of the Senate. One of the members is designated by the President as the Chairman. To carry out its mission and functions, the Chairman has organized the Commission into a number of major offices, some of which are further organized into divisions and lower units. The organization of the Commission staff structure may be obtained from the Division of Public Information.

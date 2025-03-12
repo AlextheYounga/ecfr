@@ -1,0 +1,21 @@
+##### § 779.18 Regular rate. #####
+
+As explained in the interpretative bulletin on overtime compensation, part 778 of this chapter, employees subject to the overtime pay provisions of the Act must generally receive for their overtime work in any workweek as provided in the Act not less than one and one-half times their regular rates of pay. Section 7(e) of the Act defines “regular rate” in the following language:
+
+(e) As used in this section the *regular rate* at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include:
+
+(1) Sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
+
+(2) Payments made for occasional periods when no work is performed due to vacation, holiday, illness, failure of the employer to provide sufficient work, or other similar cause; reasonable payments for traveling expenses or other expenses, incurred by an employee in the furtherance of his employer's interests and properly reimbursable by the employer; and other similar payments to an employee which are not made as compensation for his hours of employment;
+
+(3) Sums paid in recognition of services performed during a given period if either, (a) both the fact that payment is to be made and the amount of the payment are determined at the sole discretion of the employer at or near the end of the period and not pursuant to any prior contract, agreement, or promise causing the employee to expect such payments regularly; or (b) the payments are made pursuant to a bona fide profit-sharing plan or trust or bona fide thrift or savings plan, meeting the requirements of the Secretary of Labor set forth in appropriate regulation which he shall issue, having due regard among other relevant factors, to the extent to which the amounts paid to the employee are determined without regard to hours of work, production, or efficiency; or (c) the payments are talent fees (as such talent fees are defined and delimited by regulations of the Secretary) paid to performers, including announcers, on radio and television programs;
+
+(4) Contributions irrevocably made by an employer to a trustee or third person pursuant to a bona fide plan for providing old age, retirement, life, accident, or health insurance or similar benefits for employees;
+
+(5) Extra compensation provided by a premium rate paid for certain hours worked by the employee in any day or workweek because such hours are hours worked in excess of eight in a day or in excess of the maximum workweek applicable to such employee under subsection (a) or in excess of the employee's normal working hours or regular working hours, as the case may be;
+
+(6) Extra compensation provided by a premium rate paid for work by the employee on Saturdays, Sundays, holidays, or regular days of rest, or on the sixth or seventh day of the workweek, where such premium rate is not less than one and one-half times the rate established in good faith for like work performed in nonovertime hours on other days; or
+
+(7) Extra compensation provided by a premium rate paid to the employee, in pursuance of an applicable employment contract or collective-bargaining agreement, for work outside of the hours established in good faith by the contract or agreement as the basic, normal, or regular workday (not exceeding 8 hours) or workweek (not exceeding the maximum workweek applicable to such employee under subsection (a), where such premium rate is not less than one and one-half times the rate established in good faith by the contract or agreement for like work performed during such workday or workweek.
+
+This definition, which is discussed at length in part 778 of this chapter, also governs the computation of “regular rate” for purposes of the special overtime exemption of certain commission employees of retail or service establishments which is contained in section 7(i) of the Act and is discussed in subpart E of this part.

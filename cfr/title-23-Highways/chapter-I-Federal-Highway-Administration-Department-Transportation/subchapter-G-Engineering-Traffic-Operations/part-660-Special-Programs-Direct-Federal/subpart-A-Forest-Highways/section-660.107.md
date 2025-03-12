@@ -1,0 +1,3 @@
+##### § 660.107 Allocations. #####
+
+On October 1 of each fiscal year, the FHWA will allocate 66 percent of Public Lands Highway funds, by FS Region, for FHs using values based on relative transportation needs of the NFS, after deducting such sums as deemed necessary for the administrative requirements of the FHWA and the FS; the necessary costs of FH planning studies; and the FH share of costs for approved Federal Lands Coordinated Technology Implementation Program studies.

@@ -1,0 +1,3 @@
+##### § 1611.6 Special procedures: Medical records. #####
+
+In the event the Commission receives a request pursuant to § 1611.3 for access to medical records (including psychological records) whose disclosure of which the appropriate Commission official determines could be harmful to the individual to whom they relate, he or she may refuse to disclose the records directly to the requester but shall transmit them to a physician designated by that individual.

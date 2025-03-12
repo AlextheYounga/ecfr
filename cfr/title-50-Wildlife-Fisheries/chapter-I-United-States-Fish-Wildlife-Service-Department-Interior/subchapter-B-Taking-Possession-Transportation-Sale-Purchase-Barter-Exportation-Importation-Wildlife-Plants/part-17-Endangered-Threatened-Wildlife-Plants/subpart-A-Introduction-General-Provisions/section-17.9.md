@@ -1,0 +1,13 @@
+##### § 17.9 Permit applications and information collection requirements. #####
+
+(a) Address permit applications for activities affecting species listed under the Endangered Species Act, as amended, as follows:
+
+(1) Address activities affecting endangered and threatened species that are native to the United States to the Regional Director for the Region in which the activity is to take place. You can find addresses for the Regional Directors in 50 CFR 2.2. Send applications for interstate commerce in native endangered and threatened species to the Regional Director with lead responsibility for the species. To determine the appropriate region, call the nearest Regional Office:
+
+Region 1 (Portland, OR): 503-231-6241Region 2 (Albuquerque, NM): 505-248-6920Region 3 (Twin Cities, MN): 612-713-5343Region 4 (Atlanta, GA): 404-679-7313Region 5 (Hadley, MA): 413-253-8628Region 6 (Denver, CO): 303-236-8155, ext 263Region 7 (Anchorage, AK): 907-786-3620Headquarters (Washington, DC): 703-358-2106
+
+(2) Submit permit applications for activities affecting native endangered and threatened species in international movement or commerce, and all activities affecting nonnative endangered and threatened species, to the attention of the Director, U.S. Fish and Wildlife Service, at the address listed for the Division of Management Authority at 50 CFR 2.1(b).
+
+(b) The Office of Management and Budget approved the information collection requirements contained in this part 17 under 44 U.S.C. 3507 and assigned OMB Control Numbers 1018-0093 and 1018-0094. The Service may not conduct or sponsor, and you are not required to respond to, a collection of information unless it displays a currently valid OMB control number. We are collecting this information to provide information necessary to evaluate permit applications. We will use this information to review permit applications and make decisions, according to criteria established in various Federal wildlife conservation statutes and regulations, on the issuance, suspension, revocation, or denial of permits. You must respond to obtain or retain a permit. We estimate the public reporting burden for these reporting requirements to vary from 2 to 21/2 hours per response, including time for reviewing instructions, gathering and maintaining data, and completing and reviewing the forms. Direct comments regarding the burden estimate or any other aspect of these reporting requirements to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
+
+[63 FR 52635, Oct. 1, 1998. Redesignated at 72 FR 48446, Aug. 23, 2007, as amended at 79 FR 30417, May 27, 2014; 79 FR 43964, July 29, 2014]

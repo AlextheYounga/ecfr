@@ -1,0 +1,3 @@
+##### § 1601.29 Referral to the Attorney General. #####
+
+If the Commission is unable to obtain voluntary compliance in a charge involving a government, governmental agency or political subdivision, it shall inform the Attorney General of the appropriate facts in the case with recommendations for the institution of a civil action by him or her against such respondent or for intervention by him or her in a civil action previously instituted by the person claiming to be aggrieved.

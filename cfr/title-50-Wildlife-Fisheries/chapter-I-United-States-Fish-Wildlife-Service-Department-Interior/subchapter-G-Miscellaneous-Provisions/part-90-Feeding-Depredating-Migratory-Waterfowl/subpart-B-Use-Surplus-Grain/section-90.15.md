@@ -1,0 +1,11 @@
+##### § 90.15 Criteria to govern approval of applications. #####
+
+Upon receipt of a written application for such grain for use in preventing crop depredations, the Regional Director shall promptly cause an investigation to be made, when necessary, to determine whether the applicant is in fact entitled to have such grain made available for such purposes. Whenever feasible the required investigation shall be made jointly by a representative of the game department of the State in which the affected crops are located and a representative of the Regional Director. When conducting such investigations, each of the factors set forth in paragraphs (a) to (d) of this section shall be considered separately. An application for grain shall not be approved if it is determined that one or more of these factors minimizes the extent of crop damage or provides another effective method of preventing the complained of damage.
+
+(a) The migratory waterfowl committing or threatening to commit crop damage must be predominantly of a species which are susceptible of being effectively lured away from the crops by the use of such grain.
+
+(b) The crop damage or threatened crop damage must be substantial in nature (when measured by the extent and potential value of the crops involved and the number of birds threatening damage); and must affect growing crops or mature unharvested crops that are in such condition as to be marketable or have value as feed for livestock or other purposes of material value to the applicant.
+
+(c) It must be shown that the damage or threat of damage cannot be abated through the exercise of any of the privileges granted in permits authorized by this chapter I to frighten or otherwise herd migratory waterfowl away from affected crops.
+
+(d) During an open hunting season, it must be shown that the area affected by crop damage has been and is now open to public hunting and there has been a clear demonstration that such hunting is ineffective, and cannot be made effective, to prevent crop damage on such area.

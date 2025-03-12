@@ -1,0 +1,3 @@
+##### § 385.1907 Reports of compliance (Rule 1907). #####
+
+When any licensee, permittee, or any other person subject to the jurisdiction of the Commission is required to do or perform any act by Commission order, permit, or license provision, there must be filed with the Commission within 30 days following the date when such requirement became effective, a notice, under oath, stating that such requirement has been met or complied with; *Provided, however,* That the Commission, by rule or order, or by making specific provision therefor in a license or permit, may provide otherwise for the giving of such notice of compliance. Five conformed copies of such notice must be filed in lieu of the fourteen conformed copies required by Rule 2004 (copies of filings).

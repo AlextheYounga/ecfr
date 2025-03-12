@@ -1,0 +1,45 @@
+##### § 3282.207 Manufactured home consumer manual requirements. #####
+
+(a) The manufacturer shall provide a consumer manual with each manufactured home that enters the first stage of production on or after July 31, 1977, pursuant to section 617 of the National Manufactured Housing Construction and Safety Standards Act, 42 U.S.C. 5416.
+
+(b) The manufacturer shall provide the consumer manual by placing a manual in each such manufactured home before the manufactured home leaves the manufacturing plant. The manual shall be placed in a conspicuous location in a manner likely to assure that it is not removed until the purchaser removes it.
+
+(c) If a manufacturer is informed that a purchaser did not receive a consumer manual, the manufacturer shall provide the appropriate manual to the purchaser within 30 days of being so informed.
+
+(d) No retailer or distributor may interfere with the distribution of the consumer manual. When necessary, the retailer or distributor shall take any appropriate steps to assure that the purchaser receives a consumer manual from the manufacturer.
+
+(e) *Dispute resolution information.* (1) The manufacturer must include the following language under a heading of “Dispute Resolution Process” in the consumer manual:
+
+Many states have a consumer assistance or dispute resolution program that homeowners may use to resolve problems with manufacturers, retailers, or installers concerning defects in their manufactured homes that render part of the home unfit for its intended use. Such state programs may include a process to resolve a dispute among a manufacturer, a retailer, and an installer about who will correct the defect. In states where there is not a dispute resolution program that meets the federal requirements, the HUD Manufactured Home Dispute Resolution Program will operate. These are “HUD-administered states.” The HUD Manufactured Home Dispute Resolution Program is not for cosmetic or minor problems in the home. You may contact the HUD Manufactured Housing Program Office at (202) 708-6423 or (800) 927-2891, or visit the HUD website at *www.hud.gov* to determine whether your state has a state program or whether you should use the HUD Manufactured Home Dispute Resolution Program. Contact information for state programs is also available on the HUD website. If your state has a state program, please contact the state for information about the program, how it operates, and what steps to take to request dispute resolution. When there is no state dispute resolution program, a homeowner may use the HUD Manufactured Home Dispute Resolution Program to resolve disputes among the manufacturer, retailer, and installer about responsibility for the correction or repair of defects in the manufactured home that were reported during the 1-year period starting on the date of installation. Even after the 1-year period, manufacturers have continuing responsibility to review certain problems that affect the intended use of the manufactured home or its parts, but for which correction may no longer be required under federal law.
+
+(2) The manufacturer must include the following language under a heading of “Additional Information “ HUD Manufactured Home Dispute Resolution Program” in the consumer manual:
+
+The steps and information outlined below apply only to the HUD Manufactured Home Dispute Resolution Program that operates in HUD-administered states, as described under the heading “Dispute Resolution Information” in this manual. Under the HUD Manufactured Home Dispute Resolution Program, homeowners must report defects to the manufacturer, retailer, installer, a State Administrative Agency, or HUD within 1 year after the date of the first installation. Homeowners are encouraged to report defects in writing, including, but not limited to, email, written letter, certified mail, or fax, but they may also make a report by telephone. To demonstrate that the report was made within 1 year after the date of installation, homeowners should report defects in a manner that will create a dated record of the report: for example, by certified mail, by fax, or by email. When making a report by telephone, homeowners are encouraged to make a note of the phone call, including names of conversants, date, and time. No particular format is required to submit a report of an alleged defect, but any such report should at a minimum include a description of the alleged defect, the name of the homeowner, and the address of the home.
+
+Homeowners are encouraged to send reports of an alleged defect first to the manufacturer, retailer, or installer of the manufactured home, or a State Administrative Agency. Reports of alleged defects may also be sent to HUD at: HUD, Office of Regulatory Affairs and Manufactured Housing, Attn: Dispute Resolution, 451 Seventh Street, SW., Washington, DC 20410-8000; faxed to (202) 708-4213; e-mailed to *mhs@hud.gov,* or reported telephonically at (202) 708-6423 or (800) 927-2891.
+
+If, after taking the steps outlined above, the homeowner does not receive a satisfactory response from the manufacturer, retailer, or installer, the homeowner may file a dispute resolution request with the dispute resolution provider in writing, or by making a request by phone. No particular format is required to make a request for dispute resolution, but the request should generally include the following information:
+
+(1) The name, address, and contact information of the homeowner;
+
+(2) The name and contact information of the manufacturer, retailer, and installer of the manufactured home;
+
+(3) The date or dates the report of the alleged defect was made;
+
+(4) Identification of the entities or persons to whom each report of the alleged defect was made and the method that was used to make the report;
+
+(5) The date of installation of the manufactured home affected by the alleged defect; and
+
+(6) A description of the alleged defect.
+
+Information about the dispute resolution provider and how to make a request for dispute resolution is available at *http://www.hud.gov* or by contacting the Office of Manufactured Housing Programs at (202) 708-6423 or (800) 927-2891.
+
+A screening agent will review the request and, as appropriate, forward the request to the manufacturer, retailer, installer, and mediator. The mediator will mediate the dispute and attempt to facilitate a settlement. The parties to a settlement include, as applicable, the manufacturer, retailer, and installer. If the parties are unable to reach a settlement that results in correction or repair of the alleged defect, any party or the homeowner may request nonbinding arbitration. Should any party refuse to participate, the arbitration shall proceed without that party's input. Once the arbitrator makes a non-binding recommendation, the arbitrator will forward it to the parties and HUD. HUD will have the option of adopting, modifying, or rejecting the recommendation when issuing an order requiring the responsible party or parties to make any corrections or repairs in the home. At any time before HUD issues a final order, the parties may submit an offer of settlement to HUD that may, at HUD's discretion, be incorporated into the order.
+
+In circumstances where the parties agree that one or more of them, and not the homeowner, is responsible for the alleged defect, the parties will have the opportunity to resolve the dispute outside of the HUD Mediation and Arbitration process by using the Alternative Process. Homeowners will maintain the right to be informed in writing of the outcome when the Alternative Process is used, within 5 days of the outcome. At any time after 30 days of the Alternative Process notification, any participant or the homeowner may invoke the HUD Manufactured Home Dispute Resolution Program and proceed to mediation.
+
+The HUD Manufactured Home Dispute Resolution Program is not a warranty program and does not replace the manufacturer's or any other warranty program.
+
+(f) If a consumer manual or a change or revision to a manual does not substantially comply with the guidelines issued by HUD, the manufacturer shall cease distribution of the consumer manual and shall provide a corrected manual for each manufactured home for which the inadequate or incorrect manual or revision was provided. A manual substantially complies with the guidelines if it includes the language in paragraph (e) of this section and presents current material on each of the subjects covered in the guidelines in sufficient detail to inform consumers about the operation, maintenance, and repair of manufactured homes. An updated copy of guidelines published in the Federal Register on March 15, 1996, can be obtained by contacting the Office of Manufactured Housing and Regulatory Functions, Department of Housing and Urban Development, 451 Seventh Street, SW., Washington, DC, 20410; the Information Center, Department of Housing and Urban Development, Room 1202, 451 Seventh Street, SW., Washington, DC, 20410; or any HUD Area or State Office.
+
+[61 FR 10860, Mar. 15, 1996, as amended at 72 FR 27228, May 14, 2007]

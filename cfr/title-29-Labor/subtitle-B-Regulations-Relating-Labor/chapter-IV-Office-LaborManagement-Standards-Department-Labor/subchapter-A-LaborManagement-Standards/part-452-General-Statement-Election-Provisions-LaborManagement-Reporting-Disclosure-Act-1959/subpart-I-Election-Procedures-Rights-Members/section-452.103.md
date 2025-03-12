@@ -1,0 +1,3 @@
+##### § 452.103 Primary elections. #####
+
+The fifteen-day election notice provision applies to a “primary election” at which nominees are chosen. Likewise, the fifteen-day election notice requirement applies to any runoff election which may be held after an inconclusive election. However, a separate notice would not be necessary if the election notice for the first election advises the members of the possibility of a runoff election and specifies such details as the time and place of such runoff election as may be necessary.

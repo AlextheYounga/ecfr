@@ -1,0 +1,3 @@
+##### § 793.17 “Major studio.” #####
+
+The exemption further depends on whether “the major studio” of the radio or television station which employes the employee is in a city or town as defined in section 13(b)(9). The location of secondary studios of the radio or television station is immaterial. It is the location of the “major” studio that determines the qualification of the employer for the exemption. A major studio for purposes of the exemption is the main studio of the radio or television station as designated on the station's license by the Federal Communications Commission. It is this major studio which must be located in the city or town as defined in section 13(b)(9) of the Act.

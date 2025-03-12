@@ -1,0 +1,13 @@
+##### § 20.20 Migratory Bird Harvest Information Program. #####
+
+(a) *Information collection requirements.* The collections of information contained in § 20.20 have been approved by the Office of Management and Budget under 44 U.S.C. 3501 *et seq.* and assigned clearance number 1018-0015. An agency may not conduct or sponsor, and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number. The information will be used to provide a sampling frame for the national Migratory Bird Harvest Survey. Response is required from licensed hunters to obtain the benefit of hunting migratory game birds. Public reporting burden for this information is estimated to average 2 minutes per response for 3,300,000 respondents, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Thus the total annual reporting and record-keeping burden for this collection is estimated to be 112,000 hours. Send comments regarding this burden estimate or any other aspect of this collection of information, including suggestions for reducing the burden, to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
+
+(b) *General provisions.* Each person hunting migratory game birds in any State except Hawaii must have identified himself or herself as a migratory bird hunter and given his or her name, address, and date of birth to the respective State hunting licensing authority and must have on his or her person evidence, provided by that State, of compliance with this requirement.
+
+(c) *Tribal exemptions.* Nothing in paragraph (b) of this section shall apply to tribal members on Federal Indian Reservations or to tribal members hunting on ceded lands.
+
+(d) *State exemptions.* Nothing in paragraph (b) of this section shall apply to those hunters who are exempt from State-licensing requirements in the State in which they are hunting.
+
+(e) *State responsibilities.* The State hunting licensing authority will ask each licensed migratory bird hunter in the respective State to report approximately how many ducks, geese, doves, and woodcock he or she bagged the previous year, whether he or she hunted coots, snipe, rails, and/or gallinules the previous year, and, in States that have band-tailed pigeon hunting seasons, whether he or she intends to hunt band-tailed pigeons during the current year.
+
+[58 FR 15098, Mar. 19, 1993, as amended at 59 FR 53336, Oct. 21, 1994; 61 FR 46352, Aug. 30, 1996; 62 FR 45708, Aug. 28, 1997; 63 FR 46401, Sept. 1, 1998; 79 FR 43965, July 29, 2014]

@@ -1,0 +1,15 @@
+##### § 101.9 Test programs or procedures; alternate requirements. #####
+
+(a) *General testing.* For purposes of conducting a test program or procedure designed to evaluate the effectiveness of new technology or operational procedures regarding the processing of passengers, vessels, or merchandise, the Commissioner of CBP may impose requirements different from those specified in the CBP Regulations, but only to the extent that such different requirements do not affect the collection of the revenue, public health, safety, or law enforcement. The imposition of any such different requirements will be subject to the following conditions:
+
+(1) *Defined purpose.* The test is limited in scope, time, and application to such relief as may be necessary to facilitate the conduct of a specified program or procedure;
+
+(2) *Prior publication requirement.* Whenever a particular test allows for deviation from any regulatory requirements, notice will be published in the Federal Register not less than thirty days prior to implementing such test, followed by publication in the Customs Bulletin. The notice will invite public comments concerning the methodology of the test program or procedure, and inform interested members of the public of the eligibility criteria for voluntary participation in the test and the basis for selecting participants.
+
+(b) *NCAP testing.* For purposes of conducting an approved test program or procedure designed to evaluate planned components of the National Customs Automation Program (NCAP), as described in section 411(a)(2) of the Tariff Act of 1930, as amended (19 U.S.C. 1411), the Commissioner of CBP may impose requirements different from those specified in the CBP Regulations, but only to the extent that such different requirements do not affect the collection of the revenue, public health, safety, or law enforcement. In addition to the requirement of paragraph (a)(1) of this section, the imposition of any such different requirements will be subject to the following conditions:
+
+(1) *Prior publication requirement.* For tests affecting the NCAP, notice will be published in the Federal Register not less than thirty days prior to implementing such test, followed by publication in the Customs Bulletin. The notice will invite public comments concerning any aspect of the test program or procedure, and inform interested members of the public of the eligibility criteria for voluntary participation in the test and the basis for selecting participants; and,
+
+(2) *Post publication requirement.* Within a reasonable time period following the completion of the test, a complete description of the results will be published in both the Federal Register and the Customs Bulletin.
+
+[T.D. 95-21, 60 FR 14214, Mar. 16, 1995, as amended by CBP Dec. 12-21, 77 FR 73309, Dec. 10, 2012]

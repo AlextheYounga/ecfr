@@ -1,0 +1,3 @@
+##### § 697.1 Purpose and scope. #####
+
+The regulations in this part are issued under the authority of section 804(b) of the Atlantic Coastal Fisheries Cooperative Management Act, 16 U.S.C. 5101 *et seq.,* and section 6 of the Atlantic Striped Bass Conservation Act Appropriations Authorization, 16 U.S.C. 1851 note, and govern fishing in the EEZ on the Atlantic Coast for species covered by those acts.

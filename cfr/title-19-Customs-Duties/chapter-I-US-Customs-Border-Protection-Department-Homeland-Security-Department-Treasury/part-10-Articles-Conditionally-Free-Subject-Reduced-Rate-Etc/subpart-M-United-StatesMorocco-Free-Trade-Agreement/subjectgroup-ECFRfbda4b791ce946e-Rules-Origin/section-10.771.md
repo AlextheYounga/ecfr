@@ -1,0 +1,9 @@
+##### § 10.771 Textile or apparel goods. #####
+
+(a) *De minimis.* Except as provided in paragraph (a)(1) of this section, a textile or apparel good that is not an originating good under the MFTA because certain fibers or yarns used in the production of the component of the good that determines the tariff classification of the good do not undergo an applicable change in tariff classification set out in General Note 27(h), HTSUS, will be considered to be an originating good if the total weight of all such fibers is not more than seven percent of the total weight of that component.
+
+(1) *Exception.* A textile or apparel good containing elastomeric yarns in the component of the good that determines the tariff classification of the good will be considered to be an originating good only if such yarns are wholly formed in the territory of a Party.
+
+(2) *Yarn, fabric, or group of fibers.* For purposes of paragraph (a) of this section, in the case of a textile or apparel good that is a yarn, fabric, or group of fibers, the term “component of the good that determines the tariff classification of the good” means all of the fibers in the yarn, fabric, or group of fibers.
+
+(b) *Textile or apparel goods put up in sets.* Notwithstanding the specific rules specified in General Note 27(h), HTSUS, textile or apparel goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3, HTSUS, will not be considered to be originating goods under the MFTA unless each of the goods in the set is an originating good or the total value of the non-originating goods in the set does not exceed ten percent of the appraised value of the set.

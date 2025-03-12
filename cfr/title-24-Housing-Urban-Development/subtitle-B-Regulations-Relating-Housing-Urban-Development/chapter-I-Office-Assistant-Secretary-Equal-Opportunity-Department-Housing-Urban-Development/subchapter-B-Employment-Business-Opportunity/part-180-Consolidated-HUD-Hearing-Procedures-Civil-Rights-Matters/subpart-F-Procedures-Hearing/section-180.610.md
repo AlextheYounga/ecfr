@@ -1,0 +1,3 @@
+##### § 180.610 Waiver of right to appear. #####
+
+If all parties waive their right to appear before the ALJ, the ALJ need not conduct an oral hearing. Such waivers shall be in writing and filed with the ALJ. The ALJ shall make a record of the pleadings and relevant written evidence submitted by the parties. These documents may constitute the evidence in the proceeding, and the decision may be based upon this evidence.

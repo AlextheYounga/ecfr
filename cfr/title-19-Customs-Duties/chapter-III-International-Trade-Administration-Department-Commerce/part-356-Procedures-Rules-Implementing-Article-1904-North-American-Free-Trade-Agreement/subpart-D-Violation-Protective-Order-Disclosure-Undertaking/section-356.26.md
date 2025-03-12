@@ -1,0 +1,7 @@
+##### § 356.26 Initial decision. #####
+
+(a) *Initial decision.* The administrative law judge, if a hearing was requested, or the Deputy Under Secretary will submit an initial decision to the APO Sanctions Board, providing copies to the parties. The administrative law judge or the Deputy Under Secretary will ordinarily issue the decision within 20 days of the conclusion of the hearing, if one was held, or within 15 days of the date of service of final written submissions. The initial decision will be based solely on evidence received into the record and the pleadings of the parties.
+
+(b) *Findings and conclusions.* The initial decision will state findings and conclusions as to whether a person has violated a protective order or a disclosure undertaking; the basis for those findings and conclusions; and whether the sanctions proposed in the charging letter, or lesser included sanctions, should be imposed against the charged or affected party. The administrative law judge or the Deputy Under Secretary may impose sanctions only upon determining that the preponderance of the evidence supports a finding of violation of a protective order or a disclosure undertaking and that the sanctions are warranted against the charged or affected party.
+
+(c) *Finality of decision.* If the APO Sanctions Board has not issued a decision on the matter within 60 days after issuance of the initial decision, the initial decision becomes the final decision of the Department.

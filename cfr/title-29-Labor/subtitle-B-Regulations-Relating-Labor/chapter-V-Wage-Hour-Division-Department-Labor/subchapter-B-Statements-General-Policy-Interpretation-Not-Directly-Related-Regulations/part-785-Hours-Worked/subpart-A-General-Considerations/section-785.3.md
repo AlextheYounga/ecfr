@@ -1,0 +1,3 @@
+##### § 785.3 Period of effectiveness of interpretations. #####
+
+These interpretations will remain in effect until they are rescinded, modified or withdrawn. This will be done when and if the Administrator concludes upon reexamination, or in the light of judicial decision, that a particular interpretation, ruling or enforcement policy is incorrect or unwarranted. All other rulings, interpretations or enforcement policies inconsistent with any portion of this part are superseded by it. The Portal-to-Portal Bulletin (part 790 of this chapter) is still in effect except insofar as it may not be consistent with any portion hereof. The applicable statutory provisions are set forth in § 785.50.

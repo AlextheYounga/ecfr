@@ -1,0 +1,5 @@
+##### § 323.2 General policy. #####
+
+(a) In an immediate postattack period all decisions regarding the use of resources will be directed to the objective of national survival and recovery. In order to achieve this objective, postattack resources will be assigned to activities concerned with the maintenance and saving of lives, immediate military defense and retaliatory operations, economic activities essential to continued survival and recovery.
+
+(b) This guidance is designed to achieve a degree of national equity in the use of resources and to assign and conserve resources effectively in the immediate postattack period. Until more specific instructions are available, these are the general guidelines within which managerial judgment and common sense must be used to achieve national objectives under widely differing emergency conditions.

@@ -1,0 +1,7 @@
+##### § 40.4 Administrative provisions on selection of participants and funding of costs. #####
+
+(a) Within the framework of the aforementioned Memorandum of Agreement, the Bureau of the Census will arrange at the request and expense of the Agency for International Development, a program for technical training of foreign participants in censuses and statistics. The Bureau of the Census will be furnished biographic materials, information about the training objecttives including, where appropriate, each participant's education and experience, type of training desired, present and future positions with descriptions of duties, and the terms of the training project for each participant or group as far in advance of his arrival in the United States as possible.
+
+(b) The Bureau reserves the right to accept, based on biographical information to be furnished in advance, only those participants whom it finds qualified to make satisfactory use of its training facilities and resources. The Bureau would prefer to develop programs for foreign participants with substantive experience in the statistical activities of their home country.
+
+(c) Arrangements for security clearances, insurance, orientation, international travel, housing, and other administrative responsibilities will be the responsibility of AID under the provisions of the Memorandum of Agreement (Reference: Appendix II, Training of Foreign Nationals).

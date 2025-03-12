@@ -1,0 +1,3 @@
+##### § 778.309 Fixed sum for constant amount of overtime. #####
+
+Where an employee works a regular fixed number of hours in excess of the statutory maximum each workweek, it is, of course, proper to pay him, in addition to his compensation for nonovertime hours, a fixed sum in any such week for his overtime work, determined by multiplying his overtime rate by the number of overtime hours regularly worked.

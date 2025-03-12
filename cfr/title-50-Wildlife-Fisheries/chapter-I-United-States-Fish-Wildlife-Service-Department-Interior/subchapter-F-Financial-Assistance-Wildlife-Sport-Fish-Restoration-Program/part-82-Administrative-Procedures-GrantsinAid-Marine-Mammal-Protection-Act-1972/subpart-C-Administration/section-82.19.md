@@ -1,0 +1,3 @@
+##### § 82.19 Patents and inventions. #####
+
+Determination of the patent rights in any inventions or discoveries resulting from work under cooperative agreements entered into pursuant to the Act shall be governed by the “Government Patent Policy,” President's Memorandum for Heads of Executive Departments and Agencies, August 23, 1971, and statement of government patent policy as printed in 36 FR 16889.

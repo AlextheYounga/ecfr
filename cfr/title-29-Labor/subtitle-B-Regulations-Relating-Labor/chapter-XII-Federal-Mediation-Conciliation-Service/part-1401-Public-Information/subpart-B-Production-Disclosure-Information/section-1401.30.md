@@ -1,0 +1,3 @@
+##### § 1401.30 Applicability of procedures. #####
+
+Requests for inspection or copying of information from records in the custody of the FMCS which are reasonably identifiable and available under the provisions of this part shall be made and acted upon as provided in the following sections of this subpart. The prescribed procedure shall be followed in all cases where access is sought to official records pursuant to the provisions of the Freedom of Information Act, except with respect to records for which a less formal disclosure procedure is provided specifically in this part.

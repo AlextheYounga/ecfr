@@ -1,0 +1,3 @@
+##### § 1960.57 Training of safety and health inspectors. #####
+
+Each agency shall provide training for safety and health inspectors with respect to appropriate standards, and the use of appropriate equipment and testing procedures necessary to identify and evaluate hazards and suggest general abatement procedures during or following their assigned inspections, as well as preparation of reports and other documentation to support the inspection findings.

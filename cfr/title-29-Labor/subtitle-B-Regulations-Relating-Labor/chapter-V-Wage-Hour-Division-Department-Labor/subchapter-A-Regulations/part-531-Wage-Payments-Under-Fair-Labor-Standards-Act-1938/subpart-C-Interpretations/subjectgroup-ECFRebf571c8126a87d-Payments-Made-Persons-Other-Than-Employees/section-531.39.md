@@ -1,0 +1,7 @@
+##### § 531.39 Payments to third persons pursuant to court order. #####
+
+(a) Where an employer is legally obliged, as by order of a court of competent and appropriate jurisdiction, to pay a sum for the benefit or credit of the employee to a creditor of the employee, trustee, or other third party, under garnishment, wage attachment, trustee process, or bankruptcy proceeding, deduction from wages of the actual sum so paid is not prohibited: *Provided,* That neither the employer nor any person acting in his behalf or interest derives any profit or benefit from the transaction. In such case, payment to the third person for the benefit and credit of the employee will be considered equivalent, for the purposes of the Act, to payment to the employee.
+
+(b) The amount of any individual's earnings withheld by means of any legal or equitable procedure for the payment of any debt may not exceed the restriction imposed by section 303(a), title III, Restriction on Garnishment, of the Consumer Credit Protection Act (82 Stat. 163, 164; 15 U.S.C. 1671 *et seq.*). The application of title III is discussed in part 870 of this chapter. When the payment to a third person of moneys withheld pursuant to a court order under which the withholdings exceeds that permitted by the CCPA, the excess will not be considered equivalent to payment of wages to the employee for purpose of the Fair Labor Standards Act.
+
+[35 FR 10757, July 2, 1970]

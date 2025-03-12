@@ -1,0 +1,3 @@
+##### § 151.23 Penalties. #####
+
+Claimant's officials or others who provide information or documentation under this part are subject to, among other laws, the criminal penalties of Title 18 of the United States Code, sections 287 and 1001, which punish the submission of false, fictitious or fraudulent claims and the making of false, fictitious or fraudulent statements and which provide for a fine of not more than $10,000 or imprisonment for not more than five years, or both. For such a violation, the person is likewise subject to the civil penalties set out in 31 U.S.C. 3729 and 3730.

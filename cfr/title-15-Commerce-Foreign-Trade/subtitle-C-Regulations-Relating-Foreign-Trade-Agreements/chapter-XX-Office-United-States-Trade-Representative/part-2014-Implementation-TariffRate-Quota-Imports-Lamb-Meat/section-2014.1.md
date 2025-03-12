@@ -1,0 +1,3 @@
+##### § 2014.1 Purpose. #####
+
+The purpose of this part is to provide for the implementation of the tariff-rate quota for imports of lamb meat established in Proclamation 7208 (64 FR 37387) (July 9, 1999) and modified in Proclamation 7214 (64 FR 42265) (Aug. 4, 1999). In particular, this part provides for the administration of export certificates where a country that has an allocation of the in-quota quantity under the tariff-rate quota has chosen to use export certificates.

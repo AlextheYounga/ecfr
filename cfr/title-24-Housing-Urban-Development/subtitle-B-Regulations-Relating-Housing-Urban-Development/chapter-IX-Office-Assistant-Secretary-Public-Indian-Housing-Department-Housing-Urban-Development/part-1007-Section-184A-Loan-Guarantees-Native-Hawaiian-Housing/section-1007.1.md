@@ -1,0 +1,3 @@
+##### § 1007.1 Purpose. #####
+
+This part provides the requirements and procedures that apply to loan guarantees for Native Hawaiian Housing under section 184A of the Housing and Community Development Act of 1992. Section 184A permits HUD to guarantee an amount not to exceed 100 percent of the unpaid principal and interest that is due on an eligible loan. The purpose of section 184A and this part is to provide access to sources of private financing to Native Hawaiian families who otherwise could not acquire housing financing because of the unique legal status of the Hawaiian Home Lands or as a result of a lack of access to private financial markets.

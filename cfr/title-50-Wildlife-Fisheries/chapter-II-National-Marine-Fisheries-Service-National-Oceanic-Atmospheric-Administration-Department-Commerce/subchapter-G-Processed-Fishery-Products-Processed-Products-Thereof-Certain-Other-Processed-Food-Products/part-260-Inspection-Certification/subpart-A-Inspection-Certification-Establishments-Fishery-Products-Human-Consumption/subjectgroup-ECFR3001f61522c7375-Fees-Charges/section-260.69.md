@@ -1,0 +1,5 @@
+##### § 260.69 Payment fees and charges. #####
+
+Fees and charges for any inspection service shall be paid by the interested party making the application for such service, in accordance with the applicable provisions of the regulations in this part, and, if so required by the person in charge of the office of inspection serving the area where the services are to be performed, an advance of funds prior to rendering inspection service in an amount suitable to the Secretary, or a surety bond suitable to the Secretary, may be required as a guarantee of payment for the services rendered. All fees and charges for any inspection service, performed pursuant to the regulations in this part shall be paid by check, draft, or money order made payable to the National Marine Fisheries Service. Such check, draft, or money order shall be remitted to the appropriate regional or area office serving the geographical area in which the services are performed, within ten (10) days from the date of billing, unless otherwise specified in a contract between the applicant and the Secretary, in which latter event the contract provisions shall apply.
+
+[36 FR 21038, Nov. 3, 1971]

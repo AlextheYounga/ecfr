@@ -1,0 +1,7 @@
+##### § 600.240 Security assurances. #####
+
+(a) DOC Office of Security will issue security assurances to Council members following completion of favorable background investigations. A Council member's appointment is conditional until such time as the background investigation has been favorably adjudicated. The Secretary will revoke the member's appointment if that member receives an unfavorable background investigation. In instances in which Council members may need to discuss, at closed meetings, materials classified for national security purposes, the agency or individual (e.g., Department of State, U.S. Coast Guard) providing such classified information will be responsible for ensuring that Council members and other attendees have the appropriate security clearances.
+
+(b) Each nominee to a Council is required to complete a Certification of Status form (“form”). All nominees must certify, pursuant to the Foreign Agents Registration Act of 1938, whether they serve as an agent of a foreign principal. Each nominee must certify, date, sign, and return the form with his or her completed nomination kit. Nominees will not be considered for appointment to a Council if they have not filed this form. Any nominee who currently is an agent of a foreign principal will not be eligible for appointment to a Council, and therefore should not be nominated by a Governor for appointment.
+
+[61 FR 32540, June 24, 1996, as amended 75 FR 59153, Sept. 27, 2010]

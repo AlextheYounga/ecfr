@@ -1,0 +1,3 @@
+##### § 25.61 General provisions. #####
+
+Public use facilities may be operated by concessionaires or cooperators under appropriate contact or legal agreement on national wildlife refuges where there is a demonstrated justified need for services or facilities including, but not limited to, boat rentals, swimming facilities, conducted tours of special natural attractions, shelters, tables, trailer lots, food, lodging, and related service.

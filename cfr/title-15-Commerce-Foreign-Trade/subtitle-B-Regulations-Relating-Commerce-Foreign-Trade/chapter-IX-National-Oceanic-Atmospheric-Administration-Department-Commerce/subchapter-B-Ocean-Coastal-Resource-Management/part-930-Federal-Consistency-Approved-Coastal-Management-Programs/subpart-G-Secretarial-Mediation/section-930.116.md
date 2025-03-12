@@ -1,0 +1,3 @@
+##### § 930.116 Judicial review. #####
+
+The availability of the mediation services provided in this subpart is not intended expressly or implicitly to limit the parties' use of alternate forums to resolve disputes. Specifically, judicial review where otherwise available by law may be sought by any party to a serious disagreement without first having exhausted the mediation process provided for in this subpart.

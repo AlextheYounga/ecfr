@@ -1,0 +1,7 @@
+##### § 622.245 Prohibited species. #####
+
+(a) *General.* The harvest and possession restrictions of this section apply without regard to whether the species is harvested by a vessel operating under a commercial vessel permit. The operator of a vessel that fishes in the EEZ is responsible for the limit applicable to that vessel.
+
+(b) *Female golden crabs.* It is intended that no female golden crabs in or from the South Atlantic EEZ be retained on board a vessel and that any female golden crab in or from the South Atlantic EEZ be released in a manner that will ensure maximum probability of survival. However, to accommodate legitimate incidental catch and retention, the number of female golden crabs in or from the South Atlantic EEZ retained on board a vessel may not exceed 0.5 percent, by number, of all golden crabs on board. See § 622.250(a) regarding the prohibition of sale of female golden crabs.
+
+(c) *Snapper-grouper aboard a golden crab vessel.* South Atlantic snapper-grouper may not be possessed in whole, gutted, or filleted form by a person aboard a vessel fishing for or possessing golden crab in or from the South Atlantic EEZ or possessing a golden crab trap in the South Atlantic. Only the head, fins, and backbone (collectively the “rack”) of South Atlantic snapper-grouper may be possessed for use as bait.

@@ -1,0 +1,3 @@
+##### § 206.43 Emergency support teams. #####
+
+The Federal Coordinating Officer may activate emergency support teams, composed of Federal program and support personnel, to be deployed into an area affected by a major disaster or emergency. These emergency support teams assist the FCO in carrying out his/her responsibilities under the Stafford Act and these regulations. Any Federal agency can be directed to detail personnel within the agency's administrative jurisdiction to temporary duty with the FCO. Each detail shall be without loss of seniority, pay, or other employee status.

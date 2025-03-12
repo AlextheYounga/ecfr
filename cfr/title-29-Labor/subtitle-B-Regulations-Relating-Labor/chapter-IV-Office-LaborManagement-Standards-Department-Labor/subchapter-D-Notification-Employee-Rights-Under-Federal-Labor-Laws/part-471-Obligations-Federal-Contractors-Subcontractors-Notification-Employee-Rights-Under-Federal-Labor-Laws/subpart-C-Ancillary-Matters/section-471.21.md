@@ -1,0 +1,3 @@
+##### § 471.21 Who will make rulings and interpretations under Executive Order 13496 and this part? #####
+
+The Director of OLMS and the Director of OFCCP will make rulings under or interpretations of the Executive Order or the regulations contained in this part in accordance with their respective responsibilities under the regulations. Requests for a ruling or interpretation must be submitted to the Director of OLMS, who will consult with the Director of OFCCP to the extent necessary and appropriate to issue such ruling or interpretation.

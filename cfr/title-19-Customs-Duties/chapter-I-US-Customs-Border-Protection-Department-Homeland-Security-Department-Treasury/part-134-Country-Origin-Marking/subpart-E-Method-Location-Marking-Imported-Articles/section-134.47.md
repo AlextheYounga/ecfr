@@ -1,0 +1,3 @@
+##### § 134.47 Souvenirs and articles marked with trademarks or trade names. #####
+
+When as part of a trademark or trade name or as part of a souvenir marking, the name of a location in the United States or “United States” or “America” appear, the article shall be legibly, conspicuously, and permanently marked to indicate the name of the country of origin of the article preceded by “Made in,” “Product of,” or other similar words, in close proximity or in some other conspicuous location.

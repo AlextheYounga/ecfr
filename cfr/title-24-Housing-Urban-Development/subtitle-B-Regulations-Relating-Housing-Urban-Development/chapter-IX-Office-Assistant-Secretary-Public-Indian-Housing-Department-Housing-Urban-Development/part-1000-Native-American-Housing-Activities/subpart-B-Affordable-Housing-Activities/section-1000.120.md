@@ -1,0 +1,3 @@
+##### § 1000.120 May a recipient use Indian preference or tribal preference in selecting families for housing assistance? #####
+
+Yes. The IHP may set out a preference for the provision of housing assistance to Indian families who are members of the Indian tribe or to other Indian families if the recipient has adopted the preference in its admissions policy. The recipient shall ensure that housing activities funded under NAHASDA are subject to the preference.

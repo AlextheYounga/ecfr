@@ -1,0 +1,3 @@
+##### § 6.2 Purpose and scope. #####
+
+The purpose of this part is to make adjustments for inflation to civil monetary penalties, as required by the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410; 28 U.S.C. 2461), as amended by the Debt Collection Improvement Act of 1996 (Pub. L. 104-134) and the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015 (Section 701 of Pub. L. 114-74), of each civil monetary penalty provided by law within the jurisdiction of the United States Department of Commerce (Commerce Department).

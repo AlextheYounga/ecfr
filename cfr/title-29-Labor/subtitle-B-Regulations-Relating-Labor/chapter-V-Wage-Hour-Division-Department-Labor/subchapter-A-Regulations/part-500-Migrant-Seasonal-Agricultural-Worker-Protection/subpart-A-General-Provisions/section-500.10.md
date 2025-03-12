@@ -1,0 +1,3 @@
+##### § 500.10 Waiver of rights prohibited. #####
+
+Any agreement by an employee purporting to waive or modify any rights inuring to said person under the Act or these regulations shall be void as contrary to public policy, except that a waiver or modification of rights or obligations hereunder in favor of the Secretary shall be valid for purposes of enforcement of the provisions of the Act or these regulations. This does not prevent agreements to settle private litigation.

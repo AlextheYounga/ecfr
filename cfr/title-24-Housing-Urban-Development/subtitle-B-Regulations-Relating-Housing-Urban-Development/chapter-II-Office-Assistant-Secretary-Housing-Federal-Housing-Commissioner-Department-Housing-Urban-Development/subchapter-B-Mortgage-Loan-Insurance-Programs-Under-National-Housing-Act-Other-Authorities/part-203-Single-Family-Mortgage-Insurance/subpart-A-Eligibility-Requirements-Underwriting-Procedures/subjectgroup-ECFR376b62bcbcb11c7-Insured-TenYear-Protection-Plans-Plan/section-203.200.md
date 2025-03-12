@@ -1,0 +1,25 @@
+##### § 203.200 Definitions. #####
+
+As used in § 203.201 through § 203.209, the following terms shall have the meaning indicated:
+
+*Coverage contract* means a warranty certificate, insurance policy, or other document of similar purpose (including any endorsements), delivered to the homeowner at the time of closing or settlement which is issued by a State, a builder, a warranty company, or an insurance company and which defines the terms and conditions under which a Plan will provide warranty coverage of the covered property.
+
+*Construction deficiencies* are defects (not of a structural nature) in a dwelling covered by an insured ten-year protection plan that are attributable to poor workmanship or to the use of inferior materials which result in the impaired functioning of the dwelling or some part thereof. Defects resulting from homeowner abuse or from normal wear and tear are not considered construction deficiencies.
+
+*Insurance backing* (or *insurance backer*) means the direct insurance or reinsurance of potential Plan obligations by one or more insurance companies.
+
+*Insured ten-year protection plan* or *Plan* means an agreement between a homeowner and a Plan issuer which, among other things, contains warranties regarding the construction and structural integrity of the homeowner's one- to four-family dwelling covered by an FHA-insured mortgage. A Plan issuer may be a State, an insurance company, a warranty company, a Risk Retention Group as defined in 15 U.S.C. 3901a(4)(A)-(H) (Supp. IV 1986), a builder, or by any other HUD-approved entity with the required insurance backing. A Plan must specify in its coverage contract the obligations and duties of the Plan issuer to the homeowner (or to the homeowner's successor in interest) with respect to the warranties covering the dwelling.
+
+*Plumbing* means all components of piped on-site gas, fluid, or fluid-based systems that are not separately covered by manufacturers' warranties, and includes any on-site water supply or sewage disposal systems.
+
+*State* includes the several States, Puerto Rico, the District of Columbia, Guam, the Trust Territory of the Pacific Islands, American Samoa, and the Virgin Islands.
+
+*Structural defect* is actual physical damage to the designated load-bearing portions of a home caused by failure of such load-bearing portions that affects their load-bearing functions to the extent that the home becomes unsafe, unsanitary, or otherwise unlivable. Load-bearing components for the purpose of defining structural defects are defined as follows: Footing and foundation systems; beams; girders; lintels; columns; load-bearing walls and partitions; roof framing systems; and floor systems, including basement slabs in homes constructed in designated areas (see § 203.207) containing expansive or collapsible soils. Damage to the following nonload-bearing portions of the home is not considered a structural defect: Roofing; drywall and plaster; exterior siding; brick, stone, or stucco veneer; floor covering material; wall tile and other wall coverings; nonload-bearing walls and partitions; concrete floors in attached garages; electrical; plumbing, heating, cooling and ventilation systems; appliances, fixtures and items of equipment; paint; doors and windows; trim, cabinets, hardware, and insulation. Repair of a structural defect is limited to:
+
+(1) The repair of damage to designated load-bearing portions of the home which is necessary to restore their load-bearing ability;
+
+(2) The repair of designated non-load-bearing portions, items or systems of the home, damaged by the structural defect, which make the home unsafe, unsanitary or otherwise unlivable (such as the repair of inoperable windows, doors and the restoration of functionality of damaged electrical, plumbing, heating, cooling, and ventilating systems); and
+
+(3) The repair and cosmetic correction of only those surfaces, finishes and coverings, original with the home, damaged by the structural defect, or which require removal and replacement attendant to repair of the structural defect, or to repair other damage directly attributable to the structural defect. It is the intent of this section to ensure the repair of a covered home to a condition approximately the condition just prior to the defect, not to a like new condition. It does not require refinishing of all interior or exterior surfaces if only one or two surfaces are damaged. It does not cover personal property items, not a part of the structure, which are damaged by the defect or as a result of the defect. It excludes damage covered by a homeowner's casualty insurance policy.
+
+*Warranty company* is an insurance company or other entity that provides insurance backing for an insured ten-year protection plan which, if the Plan issuer fails to meet its obligations to a covered homeowner, will assume the obligations and perform in accordance with the Plan's coverage contract with the homeowner.

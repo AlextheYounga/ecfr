@@ -1,0 +1,5 @@
+##### § 270.321 Entry and inspection of property where building components, materials, artifacts, and records with respect to a building failure are located. #####
+
+(a) In the course of an investigation, entry and inspection of property where building components, materials, artifacts and records with respect to a building failure are located normally will be conducted following the procedures described in §§ 270.322 through 270.325 of this subpart.
+
+(b) Upon a written showing by the Lead Investigator of urgent and compelling reasons to believe that building components, materials, artifacts or records located on a particular property may be destroyed were the procedures described in §§ 270.322 through 270.324 of this subpart followed, the Director, with the concurrence of the General Counsel may immediately issue a notice of inspection authority for such property, pursuant to § 270.325 of this subpart.

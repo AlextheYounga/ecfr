@@ -1,0 +1,5 @@
+##### § 1960.36 General provisions. #####
+
+(a) The occupational safety and health committees described in this subpart are organized and maintained basically to monitor and assist an agency's safety and health program. These committees assist agencies to maintain an open channel of communication between employees and management concerning safety and health matters in agency workplaces. The committees provide a method by which employees can utilize their knowledge of workplace operations to assist agency management to improve policies, conditions, and practices.
+
+(b) Agencies may elect to establish safety and health committees meeting the minimum requirements contained in this subpart. Where such committees are not established or fail to meet the minimum requirements established by the Secretary, the Secretary is authorized by section 1-401(i) of Executive Order 12196 to conduct unannounced inspections of agency workplaces when the Secretary determines them necessary.

@@ -1,0 +1,3 @@
+##### § 780.320 Nonlocal minors. #####
+
+The exemption applies only to migrant or other than local hand harvest workers 16 years of age or under who do come within the scope of section 13(a)(6)(C) (application to all local hand harvest laborers who commute daily from their permanent residences). (See § 780.315.) A local youth under the prescribed age who commutes daily from his permanent residence to the farm to perform work is not exempt under section 13(a)(6)(D). The exemption may, however, be available for the specified minors who work for short periods of several days or weeks without returning daily to their homes on farms beyond commuting distances from their permanent homes.

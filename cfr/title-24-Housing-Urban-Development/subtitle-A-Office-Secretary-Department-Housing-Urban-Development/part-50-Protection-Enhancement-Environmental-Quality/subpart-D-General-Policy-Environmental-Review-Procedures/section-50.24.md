@@ -1,0 +1,3 @@
+##### § 50.24 HUD review of another agency's EIS. #####
+
+Where another agency's EIS is referred to the HUD Field Office in whose jurisdiction the project is located, the Field Environmental Clearance Officer shall determine whether HUD has an interest in the EIS and, if so, will review and comment. Any EIS received from another Federal agency requesting comment on legislative proposals, regulations, or other policy documents shall be sent to the AS/CPD for comment, and the AS/CPD shall provide the General Counsel the opportunity for comment.

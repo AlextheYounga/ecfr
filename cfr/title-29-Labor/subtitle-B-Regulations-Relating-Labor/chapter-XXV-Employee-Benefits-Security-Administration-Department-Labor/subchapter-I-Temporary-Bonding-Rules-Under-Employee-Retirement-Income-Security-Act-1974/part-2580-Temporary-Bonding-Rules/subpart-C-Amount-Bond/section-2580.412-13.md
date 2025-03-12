@@ -1,0 +1,3 @@
+##### § 2580.412-13 The meaning of “funds” in determining the amount of the bond. #####
+
+The amount of the bond depends on the amount of “funds” “handled”, and shall be sufficient to provide bonding protection against risk of loss through fraud or dishonesty for all plan funds, including other property similar to funds or in the nature of funds. As such, the term “funds” shall be deemed to include and be equivalent to “funds and other property” of the plan as described in § 2580.412-4. With respect to any item of “funds or other property” which does not have a cash or readily ascertainable market value, the value of such property may be estimated on such basis as will reasonably reflect the loss the plan might suffer if it were mishandled.

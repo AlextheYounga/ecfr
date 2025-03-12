@@ -1,0 +1,3 @@
+##### § 1.27 Maintenance. #####
+
+The responsibility imposed upon the State highway department, pursuant to 23 U.S.C. 116, for the maintenance of projects shall be carried out in accordance with policies and procedures issued by the Administrator. The State highway department may provide for such maintenance by formal agreement with any adequately equipped county, municipality or other governmental instrumentality, but such an agreement shall not relieve the State highway department of its responsibility for such maintenance.

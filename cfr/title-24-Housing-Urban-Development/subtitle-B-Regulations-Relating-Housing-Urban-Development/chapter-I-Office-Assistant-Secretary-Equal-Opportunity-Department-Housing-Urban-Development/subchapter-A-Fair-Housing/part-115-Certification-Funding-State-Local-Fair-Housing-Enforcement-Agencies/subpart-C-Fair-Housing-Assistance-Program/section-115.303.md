@@ -1,0 +1,3 @@
+##### § 115.303 Eligible activities for capacity building funds. #####
+
+The primary purposes of capacity-building funding are to provide for complaint activities and to support activities that produce increased awareness of fair housing rights and remedies. All such activities must support the agency's administration and enforcement of its fair housing law and address matters affecting fair housing that are cognizable under the Fair Housing Act.

@@ -1,0 +1,7 @@
+##### § 302.7 Use of funds, materials, supplies, equipment, and personnel. #####
+
+Financial contributions provided under the authority of section 205 of the Act are provided for necessary and essential State and local civil defense personnel and administrative expenses as prescribed by the regulations in this part and the provisions of CPG 1-3, and are obligated only on the basis of documentation justifying such need.
+
+(a) *Emergencies.* In addition to such civil defense use, Federal funds obligated under a grantee's approved annual submission may be used, to the extent and under such terms and conditions as prescribed by the Administrator in CPG 1-3, for providing emergency assistance, including the use of civil defense personnel, organizational equipment, materials, and facilities, in preparation for and response to actual attack-related events or natural disasters (including manmade catastrophies).
+
+(b) *Limitations.* Section 207 of the Act allows use of funds under the Act, including those for this program, for natural (including manmade) disaster preparedness and response purposes only to the extent that such use is consistent with, contributes to, and does not detract from attack-related preparedness (reference 44 CFR part 312).

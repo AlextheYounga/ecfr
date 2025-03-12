@@ -1,0 +1,5 @@
+##### § 181.98 Situations in which no NAFTA advance ruling may be issued. #####
+
+(a) *General.* No advance ruling letter will be issued in response to a request therefor which fails to comply with the provisions of this subpart. No advance ruling letter will be issued in regard to a completed transaction.
+
+(b) *Pending matters.* Where a request for an advance ruling involves an issue that is under review in connection with an origin verification under subpart G of this part or that is the subject of an administrative review procedure provided for in subpart J of this part or in part 174 of this chapter, Customs may decline to issue the requested advance ruling. In addition, no NAFTA advance ruling letter will be issued with respect to any issue which is pending before the United States Court of International Trade, the United States Court of Appeals for the Federal Circuit, or any court of appeal therefrom. Litigation before any other court will not preclude the issuance of an advance ruling letter, provided neither Customs nor any of its officers or agents is named as a party to the action.

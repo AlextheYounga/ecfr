@@ -1,0 +1,3 @@
+##### § 923.10 General. #####
+
+This subpart sets forth the requirements for management program approvability with respect to land and water uses which, because of their direct and significant impacts on coastal waters or those geographic areas likely to be affected by or vulnerable to sea level rise, are subject to the terms of the management program. This subpart deals in full with the following subsections of the Act: 306(d)(1)(B), Uses Subject to the Management Program, 306(d)(2)(H), Energy Facility Planning, and 306(d)(12)(B), Uses of Regional Benefit.

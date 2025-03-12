@@ -1,0 +1,3 @@
+##### § 11.12 Petition for relief. #####
+
+If the respondent so chooses he may ask that no penalty be assessed or that the amount be reduced, and he may admit or contest the legal sufficiency of the charge and the Director's allegations of facts, by filing a petition for relief (hereinafter “petition”) with the Director at the address specified in the notice within 45 days of the date thereof. The petition shall be in writing and signed by the respondent. If the respondent is a corporation, the petition must be signed by an officer authorized to sign such documents. It must set forth in full the legal or other reasons for the relief.

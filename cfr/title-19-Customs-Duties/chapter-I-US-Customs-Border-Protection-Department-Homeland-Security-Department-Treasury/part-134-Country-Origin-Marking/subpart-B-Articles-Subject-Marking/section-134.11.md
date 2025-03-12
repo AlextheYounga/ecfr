@@ -1,0 +1,3 @@
+##### § 134.11 Country of origin marking required. #####
+
+Unless excepted by law, section 304, Tariff Act of 1930, as amended (19 U.S.C. 1304), requires that every article of foreign origin (or its container) imported into the United States shall be marked in a conspicuous place as legibly, indelibly, and permanently as the nature of the article (or container) will permit, in such manner as to indicate to an ultimate purchaser in the United States the English name of the country of origin of the article, at the time of importation into the Customs territory of the United States. Containers of articles excepted from marking shall be marked with the name of the country of origin of the article unless the container is also excepted from marking.

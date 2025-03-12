@@ -1,0 +1,3 @@
+##### § 788.7 “Planting or tending trees.” #####
+
+Employees employed in “planting or tending trees” include those engaged in weeding, preparing firebreaks, removing “seeding, planting seedlings, pruning, rot or rusts, spraying, and similar operations when the object is to bring about, protect, or foster the growth of trees.” “Tending trees” would also include watching the timberland to guard against thefts and fire (*Gatlin Lumber Co.* v. *Mitchell,* 287 F. 2d 76, cert. den. 366 U.S. 963).

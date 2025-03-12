@@ -1,0 +1,3 @@
+##### § 1225.1 Scope. #####
+
+This part prescribes the requirements necessary to implement 23 U.S.C. 163, which encourages States to enact and enforce 0.08 BAC *per se* laws through the use of incentive grants and Section 351 of Public Law 106-346—Appendix, which requires the withholding of Federal-aid highway funds from any State that has not enacted and is not enforcing a 0.08 BAC *per se* law as described in 23 U.S.C. 163.

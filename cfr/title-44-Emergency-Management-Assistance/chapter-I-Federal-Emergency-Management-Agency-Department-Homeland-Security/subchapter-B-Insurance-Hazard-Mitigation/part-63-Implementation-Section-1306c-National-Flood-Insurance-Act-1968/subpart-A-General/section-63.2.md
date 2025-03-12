@@ -1,0 +1,7 @@
+##### § 63.2 Condemnation in lieu of certification. #####
+
+(a) The condemnation required by section 1306(c)(6)(B) of the Act in lieu of certification need not be grounded in a finding that the structure is subject to imminent collapse or subsidence as a result of erosion, but may be issued for other reasons deemed sufficient by the State or local authority.
+
+(b) The condemnation may be in the form of a court order or other instrument authorized by State or local law, e.g., a notification to the property owner of an unsafe condition, or unsanitary condition, or other deficiency at the property address, coupled with a statement that the property owner must vacate the property if the condition giving rise to the condemnation notice is not cured by repair, removal, or demolition of the building by a date certain.
+
+(c) In addition to a condemnation in accordance with paragraphs (a) and (b) of this section, a structure must be found by the Federal Insurance Administrator to be subject to imminent collapse or subsidence as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels to be eligible for benefits under section 1306(c) of the Act.

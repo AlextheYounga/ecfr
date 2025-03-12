@@ -1,0 +1,3 @@
+##### § 127.0 Scope. #####
+
+This part sets forth regulations pertaining to general order merchandise, unclaimed merchandise, and abandoned merchandise, the storage and sale thereof, and the distribution of the proceeds from the sale thereof. Regulations regarding the abandonment of merchandise by the importer to the Government in accordance with section 506(1), Tariff Act of 1930, as amended (19 U.S.C. 1506(1)), appear in part 158 of this chapter.

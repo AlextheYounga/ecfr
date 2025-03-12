@@ -1,0 +1,11 @@
+##### § 905.320 Contract administration and acceptance of work. #####
+
+(a) *Contract administration.* The PHA is responsible, in accordance with 2 CFR part 200, subpart D, for all contractual and administrative issues arising out of their procurements. The PHA shall maintain full and complete records on the history of each procurement transaction.
+
+(b) *Inspection and acceptance.* The PHA, or, in the case of mixed finance, the Owner Entity shall carry out inspections of work in progress and goods delivered, as necessary, to ensure compliance with existing contracts. If, upon inspection, the PHA determines that the work and/or goods are complete, satisfactory and, as applicable, otherwise undamaged, except for any work that is appropriate for delayed completion, the PHA shall accept the work. The PHA shall determine any holdback for items of delayed completion and the amount due and payable for the work that has been accepted, including any conditions precedent to payment that are stated in the construction contract or contract of sale. The contractor shall be paid for items only after the PHA inspects and accepts that work.
+
+(c) *Guarantees and warranties.* The PHA or, in the case of mixed finance, the Owner Entity, shall specify the guaranty period and amounts to be withheld, as applicable, and shall provide that all contractor, manufacturer, and supplier warranties required by the construction and modernization documents shall be assigned to the PHA. The PHA shall inspect each dwelling unit and the overall project approximately 3 months after the beginning of the project guaranty period, 3 months before its expiration, and at other times as may be necessary to exercise its rights before expiration of any warranties. The PHA shall require repair or replacement of all defective items prior to the expiration of the guaranty or warranty periods.
+
+(d) *Notification of completion.* The PHA, or in the case of mixed finance, the Owner Entity, shall require that all contractors and developers notify the PHA in writing when the contract work, including any approved off-site work, will be completed and ready for inspection.
+
+[78 FR 63770, Oct. 24, 2013, as amended at 80 FR 75942, Dec. 7, 2015]

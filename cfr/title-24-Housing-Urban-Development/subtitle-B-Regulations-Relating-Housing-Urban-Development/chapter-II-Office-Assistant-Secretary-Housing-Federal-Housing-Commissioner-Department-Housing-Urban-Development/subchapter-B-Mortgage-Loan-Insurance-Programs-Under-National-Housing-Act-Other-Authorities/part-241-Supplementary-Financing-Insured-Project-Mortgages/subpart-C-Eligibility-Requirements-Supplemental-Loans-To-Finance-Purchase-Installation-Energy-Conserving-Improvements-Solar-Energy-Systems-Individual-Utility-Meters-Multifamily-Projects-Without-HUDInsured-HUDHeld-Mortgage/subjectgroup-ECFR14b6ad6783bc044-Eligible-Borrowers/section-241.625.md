@@ -1,0 +1,3 @@
+##### § 241.625 Eligible borrowers. #####
+
+In order to be eligible as a borrower under this subpart, the applicant shall be a profit, limited distribution, nonprofit, or cooperative owner of a multifamily housing project which is not covered by a mortgage insured or held by the Secretary and which the Commissioner has determined to be an acceptable risk in that energy conservation or solar energy benefits to be derived outweigh the risks of possible loss of the Federal Government.

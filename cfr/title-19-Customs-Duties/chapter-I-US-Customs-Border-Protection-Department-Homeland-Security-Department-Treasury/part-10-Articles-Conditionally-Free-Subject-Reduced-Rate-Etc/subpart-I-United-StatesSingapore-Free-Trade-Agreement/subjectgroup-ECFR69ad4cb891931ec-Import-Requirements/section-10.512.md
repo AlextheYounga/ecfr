@@ -1,0 +1,11 @@
+##### § 10.512 Importer obligations. #####
+
+(a) *General.* An importer who makes a claim under § 10.510(a) of this subpart is responsible for the truthfulness of the claim and of all the information and data contained in the supporting statement provided for in § 10.511 of this subpart, for submitting any supporting documents requested by CBP, and for the truthfulness of the information contained in those documents. However, an importer will not be subject to civil or administrative penalties under 19 U.S.C. 1592 for making an invalid claim for preferential tariff treatment or submitting an incorrect supporting statement, provided that the importer promptly and voluntarily corrects the claim or supporting statement and pays any duty owing (*see* §§ 10.561 and 10.562 of this subpart). In instances in which CBP requests the submission of supporting documents, CBP will allow for the direct submission by the exporter or producer of business confidential or other sensitive information, including cost and sourcing information.
+
+(b) *Compliance.* In order to make a claim for preferential tariff treatment under § 10.510(a) of this subpart, the importer:
+
+(1) Must have records that explain how the importer came to the conclusion that the good qualifies for preferential tariff treatment. Those records must include documents that support a claim that the article in question qualifies for preferential tariff treatment because it meets the applicable rules of origin set forth in General Note 25, HTSUS, and in this subpart. Those records may include a properly completed importer's supporting statement as set forth in § 10.511 of this subpart; and
+
+(2) May be required to present evidence that the conditions set forth in § 10.542 of this subpart were met if the imported article was shipped through an intermediate country.
+
+(c) *Information provided by exporter or producer.* The fact that the importer has made a claim or supporting statement based on information provided by an exporter or producer will not relieve the importer of the responsibility referred to in the first sentence of paragraph (a) of this section.

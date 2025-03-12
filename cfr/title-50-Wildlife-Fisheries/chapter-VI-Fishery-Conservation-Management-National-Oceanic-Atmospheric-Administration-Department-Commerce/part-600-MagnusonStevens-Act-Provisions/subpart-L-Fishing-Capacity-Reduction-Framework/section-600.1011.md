@@ -1,0 +1,29 @@
+##### § 600.1011 Reduction methods and other conditions. #####
+
+(a) *Reduction permits or reduction permits and reduction vessels.* Each program may involve either the surrender and revocation of reduction permits or both the surrender and revocation of reduction permits and the withdrawal from fishing either by title restriction or by scrapping of reduction vessels. No financed program may, however, require such title restriction or scrapping of reduction vessels unless the business plan voluntarily includes the same.
+
+(b) *Reduction permit revocation and surrender.* Each reduction permit is, upon NMFS' tender of the reduction payment for the reduction permit, forever revoked. Each reduction permit holder shall, upon NMFS' tender of the reduction payment, surrender the original reduction permit to NMFS. The reduction permit holder, upon NMFS' tender of the reduction payment, forever relinquishes any claim associated with the reduction permit and with the fishing vessel that was used to harvest fishery resources under the reduction permit that could qualify the reduction permit holder or the fishing vessel owner for any present or future limited access system fishing permit in the reduction fishery.
+
+(c) *Reduction vessel title restriction or scrapping.* For each program that involves reduction vessel title restriction or scrapping:
+
+(1) Each reduction vessel that is subject to title restriction only and is thus not required to be scrapped, is, upon NMFS' tender of the reduction payment, forever prohibited from any future use for fishing in any area subject to the jurisdiction of the United States or any State, territory, possession, or commonwealth of the United States. NMFS will request that the U.S. Coast Guard permanently restrict each such reduction vessel's title to exclude the reduction vessel's future use for fishing in any such area;
+
+(2) Each reduction vessel owner whose reduction vessel is required to be scrapped shall, upon NMFS' tender of the reduction payment, immediately cease all further use of the reduction vessel and arrange, without delay and at the reduction vessel owner's expense, to scrap the reduction vessel to NMFS' satisfaction, including adequate provision for NMFS to document the physical act of scrapping; and
+
+(3) Each reduction vessel owner, upon NMFS' tender of the reduction payment, forever relinquishes any claim associated with the reduction vessel and with the reduction permit that could qualify the reduction vessel owner or the reduction permit holder for any present or future limited access system fishing permit in the reduction fishery.
+
+(d) *Fishing permits in a non-reduction fishery.* A financed program that does not involve the withdrawal from fishing or scrapping of reduction vessels may not require any holder of a reduction permit in a reduction fishery to surrender any fishing permit in any non-reduction fishery or restrict or revoke any fishing permit other than a reduction permit in the reduction fishery, except those fishing permits authorizing the incidental harvesting of species in any non-reduction fishery during, and as a consequence of, directed fishing for species in the reduction fishery.
+
+(e) *Reduction vessels disposition.* Where a business plan requires the withdrawal from fishing of reduction vessels as well as the revocation of reduction permits:
+
+(1) Each reduction vessel that is not documented under Federal law must in every case always be scrapped, without regard to whether a program is a financed program or a subsidized program;
+
+(2) No financed program may require any disposition of a reduction vessel documented under Federal law other than the title restriction in paragraph (b) of this section unless the business plan volunteers to do otherwise; and
+
+(3) Any subsidized program may require the scrapping of reduction vessels documented under Federal law.
+
+(f) *Reduction payments.* NMFS will disburse all reduction payments in the amount and in the manner prescribed in reduction contracts, except reduction payments that a bidder's reduction-contract nonperformance prevents NMFS from disbursing. In financed programs, the reduction loan's principal amount is the total amount of all reduction payments that NMFS disburses from the proceeds of a reduction loan. Any reduction payment that NMFS, because of a bidder's reduction-contract nonperformance, disburses but subsequently recovers, shall reduce the principal amount of the reduction loan accordingly.
+
+(g) *Effect of reduction-contract nonperformance.* No referendum, no reduction contract, no reduction loan, and no fee payment and collection obligation under § 600.1013 and § 600.1014 necessary to repay any reduction loan, shall be impaired, invalidated, avoided, or otherwise rendered unenforceable by virtue of any reduction contract's nonperformance. This is without regard to the cause of, or reason for, nonperformance. NMFS shall endeavor to enforce the specific performance of all reduction contracts, but NMFS' inability, for any reason, to enforce specific performance for any portion of such reduction contracts shall not relieve fish sellers of their obligation to pay, and fish buyers of their obligation to collect, the fee necessary to fully repay the full reduction loan balance that results from all reduction payments that NMFS actually makes and does not recover.
+
+(h) *Program completion.* Other than the payment and collection of the fee that repays a reduction loan and any other residual matters regarding reduction payments and the disposition of reduction permits and reduction vessels, a program shall be completed when NMFS tenders or makes all reduction payments under all reduction contracts that circumstances, in NMFS' judgment, reasonably permit NMFS to make.

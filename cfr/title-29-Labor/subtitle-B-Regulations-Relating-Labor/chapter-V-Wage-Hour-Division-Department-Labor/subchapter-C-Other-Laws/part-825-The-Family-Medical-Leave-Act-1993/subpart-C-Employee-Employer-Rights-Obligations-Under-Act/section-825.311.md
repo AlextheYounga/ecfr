@@ -1,0 +1,7 @@
+##### § 825.311 Intent to return to work. #####
+
+(a) An employer may require an employee on FMLA leave to report periodically on the employee's status and intent to return to work. The employer's policy regarding such reports may not be discriminatory and must take into account all of the relevant facts and circumstances related to the individual employee's leave situation.
+
+(b) If an employee gives unequivocal notice of intent not to return to work, the employer's obligations under FMLA to maintain health benefits (subject to COBRA requirements) and to restore the employee cease. However, these obligations continue if an employee indicates he or she may be unable to return to work but expresses a continuing desire to do so.
+
+(c) It may be necessary for an employee to take more leave than originally anticipated. Conversely, an employee may discover after beginning leave that the circumstances have changed and the amount of leave originally anticipated is no longer necessary. An employee may not be required to take more FMLA leave than necessary to resolve the circumstance that precipitated the need for leave. In both of these situations, the employer may require that the employee provide the employer reasonable notice (*i.e.,* within two business days) of the changed circumstances where foreseeable. The employer may also obtain information on such changed circumstances through requested status reports.

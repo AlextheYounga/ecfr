@@ -1,0 +1,3 @@
+##### § 253.23 Default and liquidation. #####
+
+Upon default under the terms of any note, guarantee, security agreement, mortgage, or other security document the Program shall take remedial actions including, but not limited to, where appropriate, retaking or arrest of collateral, foreclosure, restructuring, debarment, referral for debt collection, or liquidation as it deems best able to protect the U.S. Government's interest.

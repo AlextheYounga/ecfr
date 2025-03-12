@@ -1,0 +1,3 @@
+##### § 458.77 Rights of parties. #####
+
+Any party shall have the right to appear at such hearing in person, by counsel, or by other representative, to examine and cross-examine witnesses, and to introduce into the record documentary or other relevant evidence, except that the participation of any party shall be limited to the extent prescribed by the Administrative Law Judge. Two (2) copies of documentary evidence shall be submitted and a copy furnished to each of the other parties. Stipulations of fact may be introduced in evidence with respect to any issue.

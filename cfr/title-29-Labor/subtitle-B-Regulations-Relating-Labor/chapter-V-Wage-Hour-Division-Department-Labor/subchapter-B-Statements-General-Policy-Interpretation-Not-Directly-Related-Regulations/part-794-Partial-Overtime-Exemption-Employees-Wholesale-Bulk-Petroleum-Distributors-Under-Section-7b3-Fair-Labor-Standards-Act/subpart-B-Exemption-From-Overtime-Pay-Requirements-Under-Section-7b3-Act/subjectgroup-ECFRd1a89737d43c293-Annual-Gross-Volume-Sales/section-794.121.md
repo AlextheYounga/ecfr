@@ -1,0 +1,3 @@
+##### § 794.121 Exclusion of excise taxes. #####
+
+The computation of the annual gross volume of sales of the enterprise for purposes of section 7(b)(3) is made “exclusive of excise taxes.” It will be noted that the excise taxes excludable under section 7(b)(3) are not, like those referred to in section 3(s)(1) and section 13(a)(2), limited to those “at the retail level which are separately stated.” Under section 7(b)(3), therefore, all excise taxes which are included in the sales price may be excluded in computing the annual gross volume of the enterprise.

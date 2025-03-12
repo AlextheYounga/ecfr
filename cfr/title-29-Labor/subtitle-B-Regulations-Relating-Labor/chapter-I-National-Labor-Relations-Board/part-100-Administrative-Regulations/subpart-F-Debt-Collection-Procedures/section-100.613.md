@@ -1,0 +1,3 @@
+##### § 100.613 Contracting for collection services. #####
+
+The NLRB may contract for collection services in order to recover delinquent debts only if the debts are not subject to the DCIA requirement to transfer claims or debts to Treasury for debt collection services, e.g., claims or debts of less than 180 days delinquent. However, the NLRB retains the authority to resolve disputes, compromise claims, suspend or terminate collection action, and initiate enforced collection through litigation. When appropriate, the NLRB shall contract for collection services in accordance with guidance and standards contained in 31 CFR chapter IX parts 900-904.

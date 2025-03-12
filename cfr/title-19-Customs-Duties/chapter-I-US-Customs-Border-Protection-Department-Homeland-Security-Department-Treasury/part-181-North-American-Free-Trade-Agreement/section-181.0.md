@@ -1,0 +1,3 @@
+##### § 181.0 Scope. #####
+
+This part implements the duty preference and related Customs provisions applicable to imported goods under the North American Free Trade Agreement (the NAFTA) entered into on December 17, 1992, and under the North American Free Trade Agreement Implementation Act (107 Stat. 2057) (the Act). Except as otherwise specified in this part, the procedures and other requirements set forth in this part are in addition to the Customs procedures and requirements of general application contained elsewhere in this chapter. Additional provisions implementing certain aspects of the NAFTA and the Act are contained in parts 10, 12, 24, 134 and 174 of this chapter.

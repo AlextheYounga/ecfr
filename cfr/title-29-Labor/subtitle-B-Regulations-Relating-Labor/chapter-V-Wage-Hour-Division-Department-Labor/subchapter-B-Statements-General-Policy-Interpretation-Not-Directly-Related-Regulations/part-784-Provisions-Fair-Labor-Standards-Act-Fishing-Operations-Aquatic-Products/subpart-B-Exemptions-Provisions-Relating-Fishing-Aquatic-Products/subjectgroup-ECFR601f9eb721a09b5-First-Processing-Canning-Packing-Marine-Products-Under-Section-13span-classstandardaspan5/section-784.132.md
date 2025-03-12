@@ -1,0 +1,3 @@
+##### § 784.132 The exempt operations. #####
+
+The final requirement is that the employee on the fishing vessel must be employed in “the first processing, canning or packing” of the marine products. The meaning and scope of these operations when performed at sea as an incident to the fishing operations of the vessel are set forth in §§ 784.133 to 784.135. To be “employed in” such operations the employee must, as previously explained (see §§ 784.106 and 784.121), be engaged in work which is clearly part of the named activity.

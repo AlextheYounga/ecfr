@@ -1,0 +1,3 @@
+##### § 27.123 Deficiency judgment. #####
+
+If the price at which the security property is sold at the foreclosure sale is less than the unpaid balance of the debt secured by such property after disposition of sale proceeds in accordance with the order of priority provided under the Statute, the Secretary may refer the matter to the Attorney General who may commence an action or actions against any and all debtors to recover the deficiency, unless such an action is specifically prohibited by the mortgage.

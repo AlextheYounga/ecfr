@@ -1,0 +1,3 @@
+##### § 784.11 “Establishment.” #####
+
+As used in the Act, the term “establishment”, which is not specially defined therein, refers to a “distinct physical place of business” rather than to “an entire business or enterprise” which may include several separate places of business. This is consistent with the meaning of the term as it is normally used in business and in government, is judicially settled, and has been recognized in the Congress in the course of enactment of amendatory legislation (*Phillips* v. *Walling,* 324 U.S. 490; *Mitchell* v. *Bekins Van & Storage Co.,* 352 U.S. 1027; 95 Cong. Rec. 12505, 12579, 14877; H. Rept. No. 1453, 81st Cong., first session, p. 25). This is the meaning of the term as used in sections 3(r) and 3(s) of the Act.

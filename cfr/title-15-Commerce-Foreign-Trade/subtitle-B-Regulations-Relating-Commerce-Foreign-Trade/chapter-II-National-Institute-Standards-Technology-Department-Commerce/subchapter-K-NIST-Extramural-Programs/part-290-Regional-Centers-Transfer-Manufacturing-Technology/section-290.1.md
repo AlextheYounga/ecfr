@@ -1,0 +1,3 @@
+##### § 290.1 Purpose. #####
+
+This rule provides policy for a program to establish Regional Centers for the Transfer of Manufacturing Technology as well as the prescribed policies and procedures to insure the fair, equitable and uniform treatment of proposals for assistance. In addition, the rule provides general guidelines for the management of the program by the National Institute of Standards and Technology, as well as criteria for the evaluation of the Centers, throughout the lifecycle of financial assistance to the Centers by the National Institute of Standards and Technology.

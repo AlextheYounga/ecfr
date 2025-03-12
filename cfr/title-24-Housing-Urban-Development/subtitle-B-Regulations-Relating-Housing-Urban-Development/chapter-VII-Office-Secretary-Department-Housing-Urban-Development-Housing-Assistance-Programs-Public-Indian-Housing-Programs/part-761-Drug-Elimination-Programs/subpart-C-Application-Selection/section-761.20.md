@@ -1,0 +1,7 @@
+##### § 761.20 Selection requirements. #####
+
+(a) *PHDEP selection.* Every PHA, RMC and consortium that meets the requirements of § 761.15 in a FFY will be selected for funding in that FFY and, subject to meeting the performance requirements of § 761.23, for four additional FFYs.
+
+(b) *AHDEP selection.* HUD will publish specific Notices of Funding Availability (NOFAs) in the Federal Register to inform the public of the availability of AHDEP grant amounts under this part 761. The NOFAs will provide specific guidance with respect to the grant process, including identifying the eligible applicants; deadlines for the submission of grant applications; the limits (if any) on maximum grant amounts; the information that must be submitted to permit HUD to score each of the selection criteria; the maximum number of points to be awarded for each selection criterion; the contents of the plan for addressing drug-related and violent crime that must be included with the application; the listing of any certifications and assurances that must be submitted with the application; and the process for ranking and selecting applicants. NOFAs will also include any additional information, factors, and requirements that HUD has determined to be necessary and appropriate to provide for the implementation and administration of AHDEP under this part 761.
+
+[64 FR 49920, Sept. 14, 1999]

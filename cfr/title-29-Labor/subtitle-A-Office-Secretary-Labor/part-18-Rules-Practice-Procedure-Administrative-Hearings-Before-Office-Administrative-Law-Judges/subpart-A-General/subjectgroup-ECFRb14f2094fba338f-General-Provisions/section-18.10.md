@@ -1,0 +1,7 @@
+##### § 18.10 Scope and purpose. #####
+
+(a) *In general.* These rules govern the procedure in proceedings before the United States Department of Labor, Office of Administrative Law Judges. They should be construed and administered to secure the just, speedy, and inexpensive determination of every proceeding. To the extent that these rules may be inconsistent with a governing statute, regulation, or executive order, the latter controls. If a specific Department of Labor regulation governs a proceeding, the provisions of that regulation apply, and these rules apply to situations not addressed in the governing regulation. The Federal Rules of Civil Procedure (FRCP) apply in any situation not provided for or controlled by these rules, or a governing statute, regulation, or executive order.
+
+(b) *Type of proceeding.* Unless the governing statute, regulation, or executive order prescribes a different procedure, proceedings follow the Administrative Procedure Act, 5 U.S.C. 551 through 559.
+
+(c) *Waiver, modification, and suspension.* Upon notice to all parties, the presiding judge may waive, modify, or suspend any rule under this subpart when doing so will not prejudice a party and will serve the ends of justice.

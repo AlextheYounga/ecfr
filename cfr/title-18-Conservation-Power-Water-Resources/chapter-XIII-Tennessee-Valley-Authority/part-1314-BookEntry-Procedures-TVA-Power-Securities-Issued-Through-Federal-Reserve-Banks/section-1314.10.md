@@ -1,0 +1,5 @@
+##### § 1314.10 Additional provisions. #####
+
+(a) *Additional requirements.* In any case or any class of cases arising under the regulations in this part, TVA may require such additional evidence and a bond of indemnity, with or without surety, as may in the judgment of TVA be necessary for the protection of the interests of TVA.
+
+(b) *Notice of attachment for TVA Power Securities in Book-entry System.* The interest of a debtor in a Security Entitlement may be reached by a creditor only by legal process upon the Securities Intermediary with whom the debtor's securities account is maintained, except where a Security Entitlement is maintained in the name of a secured party, in which case the debtor's interest may be reached by legal process upon the secured party. The regulations in this part do not purport to establish whether a Reserve Bank is required to honor an order or other notice of attachment in any particular case or class of cases.

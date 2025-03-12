@@ -1,0 +1,3 @@
+##### § 971.420 Resource conservation requirements. #####
+
+For the purpose of conservation of natural resources, each permit issued under this part will contain, as needed, TCRs which have due regard for the prevention of waste and the future opportunity for the commercial recovery of the unrecovered balance of the hard mineral resources in the recovery area. The Administrator will establish these requirements pursuant to § 971.502.

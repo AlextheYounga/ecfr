@@ -1,0 +1,9 @@
+##### § 541.103 Department or subdivision. #####
+
+(a) The phrase “a customarily recognized department or subdivision” is intended to distinguish between a mere collection of employees assigned from time to time to a specific job or series of jobs and a unit with permanent status and function. A customarily recognized department or subdivision must have a permanent status and a continuing function. For example, a large employer's human resources department might have subdivisions for labor relations, pensions and other benefits, equal employment opportunity, and personnel management, each of which has a permanent status and function.
+
+(b) When an enterprise has more than one establishment, the employee in charge of each establishment may be considered in charge of a recognized subdivision of the enterprise.
+
+(c) A recognized department or subdivision need not be physically within the employer's establishment and may move from place to place. The mere fact that the employee works in more than one location does not invalidate the exemption if other factors show that the employee is actually in charge of a recognized unit with a continuing function in the organization.
+
+(d) Continuity of the same subordinate personnel is not essential to the existence of a recognized unit with a continuing function. An otherwise exempt employee will not lose the exemption merely because the employee draws and supervises workers from a pool or supervises a team of workers drawn from other recognized units, if other factors are present that indicate that the employee is in charge of a recognized unit with a continuing function.

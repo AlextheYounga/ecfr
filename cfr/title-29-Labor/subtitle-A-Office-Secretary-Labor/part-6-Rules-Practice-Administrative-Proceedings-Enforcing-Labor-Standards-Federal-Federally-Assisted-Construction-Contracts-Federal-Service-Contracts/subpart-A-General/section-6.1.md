@@ -1,0 +1,3 @@
+##### § 6.1 Applicability of rules. #####
+
+This part provides the rules of practice for administrative proceedings under the Service Contract Act, the Davis-Bacon Act and related statutes listed in § 5.1 of part 5 of this title which require payment of wages determined in accordance with the Davis-Bacon Act, the Contract Work Hours and Safety Standards Act, and the Copeland Act. See parts 4 and 5 of this title.

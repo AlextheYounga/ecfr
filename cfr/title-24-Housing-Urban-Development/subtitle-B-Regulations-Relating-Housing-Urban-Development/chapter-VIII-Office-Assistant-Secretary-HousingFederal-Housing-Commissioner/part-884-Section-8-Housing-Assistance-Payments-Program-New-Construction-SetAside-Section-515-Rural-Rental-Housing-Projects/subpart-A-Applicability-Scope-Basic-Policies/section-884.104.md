@@ -1,0 +1,9 @@
+##### § 884.104 Maximum total annual contract commitment and project account (private-owner or PHA-owner projects). #####
+
+(a) *Maximum total annual contract commitment.* The maximum total annual housing assistance payments that may be committed under the Contract shall be the total of the Gross Rents for all the Contract units in the project.
+
+(b) *Project account.* In order to assure that housing assistance payments will be increased on a timely basis to cover increases in Contract Rents or decreases in Family Incomes:
+
+(1) A Project Account shall be established and maintained in an amount as determined by the Secretary consistent with his responsibilities under Section 8(c)(6) of the Act, out of amounts by which the maximum annual Contract commitment per year exceeds amounts paid under the Contract for any year. This account shall be established and maintained by HUD as a specifically identified and segregated account, and payment shall be made therefrom only for the purposes of (i) housing assistance payments, and (ii) other costs specifically authorized or approved by the Secretary.
+
+(2) Whenever a HUD-approved estimate of required housing assistance payments for a fiscal year exceeds the maximum annual Contract commitment, and would cause the amount in the Project Account to be less than an amount equal to 40 percent of such maximum annual Contract commitment, HUD shall, within a reasonable period of time, take such additional steps authorized by Section 8(c)(6) of the Act as may be necessary to carry out this assurance, including (as provided in that section of the Act) “the reservation of annual contributions authority for the purpose of amending housing assistance contracts or the allocation of a portion of new authorizations for the purpose of amending housing assistance contracts.”

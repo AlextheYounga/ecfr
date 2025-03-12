@@ -1,0 +1,5 @@
+##### § 123.3 Inward foreign manifest required. #####
+
+(a) *General requirements.* Baggage or other merchandise carried on a vehicle or on a vessel of less than 5 net tons arriving otherwise than by sea from Canada or Mexico shall be listed on a manifest as prescribed by § 123.4. Vessels which are required to make entry under § 4.3 of this chapter because they are arriving by sea or are 5 net tons or over shall have manifests on board as provided in § 4.7(a) of this chapter.
+
+(b) *Exception where in possession of traveler.* When baggage arrives in the actual possession of a traveler, his declaration will be accepted in lieu of a manifest. Merchandise imported by a person otherwise than in a vessel or vehicle need not be covered by a manifest but shall be presented for inspection, and entry shall be made in accordance with the applicable laws and regulations.

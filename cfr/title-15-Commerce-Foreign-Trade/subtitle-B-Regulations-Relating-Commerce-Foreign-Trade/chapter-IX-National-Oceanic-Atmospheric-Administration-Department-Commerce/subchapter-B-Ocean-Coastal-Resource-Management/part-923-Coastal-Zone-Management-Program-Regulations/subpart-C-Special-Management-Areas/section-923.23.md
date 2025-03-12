@@ -1,0 +1,5 @@
+##### § 923.23 Other areas of particular concern. #####
+
+(a) The management program may, but is not required to, designate specific areas known to require additional or special management, but for which additional management techniques have not been developed or necessary authorities have not been established at the time of program approval. If a management program includes such designations, the basis for designation must be clearly stated, and a reasonable time frame and procedures must be set forth for developing and implementing appropriate management techniques. These procedures must provide for the development of those items required in § 923.21. The management program must identify an agency (or agencies) capable of formulating the necessary management policies and techniques.
+
+(b) The management program must meet the requirements of § 923.22 for containing procedures for designating areas for preservation or restoration. The management program may include procedures and criteria for designating areas of particular concern for other than preservation or restoration purposes after program approval.

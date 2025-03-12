@@ -1,0 +1,3 @@
+##### § 785.6 Definition of “employ” and partial definition of “hours worked”. #####
+
+By statutory definition the term “employ” includes (section 3(g)) “to suffer or permit to work.” The act, however, contains no definition of “work”. Section 3(o) of the Fair Labor Standards Act contains a partial definition of “hours worked” in the form of a limited exception for clothes-changing and wash-up time.

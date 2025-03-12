@@ -1,0 +1,3 @@
+##### § 780.920 Workers transported must be fruit or vegetable harvest workers. #####
+
+Clause (B) of section 13(b)(16) exempts only those transportation employees who are engaged in transportation “of persons employed or to be employed in the harvesting of fruits or vegetables.” Transportation of harvest workers is not exempt unless the workers are fruit and vegetable harvest workers; transportation of workers employed or to be employed in harvesting or other commodities is not exempt work under section 13(b)(16). *Wirtz* v. *Osceola Farms Co.,* 372 F. (2d) 584 (C.A. 5). Nor does the exemption apply to the transportation of persons for the purpose of planting or cultivating any crop, whether or not it is a fruit or a vegetable crop.

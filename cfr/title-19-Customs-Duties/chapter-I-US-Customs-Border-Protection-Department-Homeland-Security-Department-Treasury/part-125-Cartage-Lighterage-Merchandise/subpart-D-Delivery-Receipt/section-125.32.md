@@ -1,0 +1,5 @@
+##### § 125.32 Merchandise delivered to a bonded store or bonded warehouse. #####
+
+When merchandise is carried, carted or lightered to and received in a bonded store or bonded warehouse, the proprietor or his representative shall check the goods against the accompanying delivery ticket, Customs Form 6043, or copy of the permit, Customs Form 7501, or its electronic equivalent, and countersign the document acknowledging receipt of the merchandise as listed thereon. If the proprietor or his agent has been designated to carry the merchandise to his own bonded warehouse, he shall check the goods against the accompanying delivery ticket, Customs Form 6043, or copy of the permit, Customs Form 7501, or its electronic equivalent, at the time he picks up the cargo. Receipt of merchandise by a bonded warehouse proprietor for the purpose of transportation to his own warehouse constitutes receipt into a bonded warehouse.
+
+[T.D. 94-81, 59 FR 51496, Oct. 12, 1994, as amended by CBP Dec. 15-14, 80 FR 61287, Oct. 13, 2015]

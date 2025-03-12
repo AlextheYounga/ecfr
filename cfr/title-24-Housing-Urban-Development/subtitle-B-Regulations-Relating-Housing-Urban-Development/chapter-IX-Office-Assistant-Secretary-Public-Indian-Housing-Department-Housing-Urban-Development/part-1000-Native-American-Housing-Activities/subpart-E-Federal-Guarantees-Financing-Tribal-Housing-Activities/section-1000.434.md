@@ -1,0 +1,7 @@
+##### § 1000.434 How will HUD allocate the availability of loan guarantee assistance? #####
+
+(a) Each fiscal year HUD may allocate a percentage of the total available loan guarantee assistance to each Area ONAP equal to the percentage of the total NAHASDA grant funds allocated to the Indian tribes in the geographic area of operation of that office.
+
+(b) These allocated amounts shall remain exclusively available for loan guarantee assistance for Indian tribes or TDHEs in the area of operation of that office until committed by HUD for loan guarantees or until the end of the second quarter of the fiscal year. At the beginning of the third quarter of the fiscal year, any residual loan guarantee commitment amount shall be made available to guarantee loans for Indian tribes or TDHEs regardless of their location. Applications for residual loan guarantee money must be submitted on or after April 1.
+
+(c) In approving applications for loan guarantee assistance, HUD shall seek to maximize the availability of such assistance to all interested Indian tribes or TDHEs. HUD may limit the proportional share approved to any one Indian tribe or TDHE to its proportional share of the block grant allocation based upon the annual plan submitted by the Indian tribe or TDHE indicating intent to participate in the loan guarantee allocation process.

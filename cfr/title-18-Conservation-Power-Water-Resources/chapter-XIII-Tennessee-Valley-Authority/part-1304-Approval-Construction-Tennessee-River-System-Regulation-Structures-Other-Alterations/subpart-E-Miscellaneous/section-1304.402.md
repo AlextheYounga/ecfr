@@ -1,0 +1,3 @@
+##### § 1304.402 Wastewater outfalls. #####
+
+Applicants for a wastewater outfall shall provide copies of all Federal, State, and local permits, licenses, and approvals required for the facility prior to applying for TVA approval, or shall concurrently with the TVA application apply for such approvals. A section 26a permit shall not be issued until other required water quality approvals are obtained, and TVA reserves the right to impose additional requirements.

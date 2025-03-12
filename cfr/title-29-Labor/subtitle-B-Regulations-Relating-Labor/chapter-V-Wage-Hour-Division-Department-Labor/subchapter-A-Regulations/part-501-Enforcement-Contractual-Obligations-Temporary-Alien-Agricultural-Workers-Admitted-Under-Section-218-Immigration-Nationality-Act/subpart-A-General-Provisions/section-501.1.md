@@ -1,0 +1,17 @@
+##### § 501.1 Purpose and scope. #####
+
+(a) *Statutory standards.* 8 U.S.C. 1188 provides that:
+
+(1) A petition to import an alien as an H-2A worker (as defined at 8 U.S.C. 1188) may not be approved by the Secretary of the Department of Homeland Security (DHS) unless the petitioner has applied for and received a temporary labor certification from the U.S. Secretary of Labor (Secretary). The temporary labor certification establishes that:
+
+(i) There are not sufficient workers who are able, willing, and qualified, and who will be available at the time and place needed, to perform the labor or services involved in the petition, and
+
+(ii) The employment of the alien in such labor or services will not adversely affect the wages and working conditions of workers in the U.S. similarly employed.
+
+(2) The Secretary is authorized to take actions that assure compliance with the terms and conditions of employment under 8 U.S.C. 1188, the regulations at 20 CFR part 655, subpart B, or the regulations in this part, including imposing appropriate penalties, and seeking injunctive relief and specific performance of contractual obligations. See 8 U.S.C. 1188(g)(2).
+
+(b) *Role of the Employment and Training Administration (ETA).* The issuance and denial of labor certification under 8 U.S.C. 1188 has been delegated by the Secretary to ETA, an agency within the U.S. Department of Labor (the Department or DOL), who in turn has delegated that authority to the Office of Foreign Labor Certification (OFLC). In general, matters concerning the obligations of an employer of H-2A workers related to the labor certification process are administered by OFLC, including obligations and assurances made by employers, overseeing employer recruitment and assuring program integrity. The regulations pertaining to the issuance, denial, and revocation of labor certification for temporary foreign workers by the OFLC are found in 20 CFR part 655, subpart B.
+
+(c) *Role of the Wage and Hour Division (WHD).* Certain investigatory, inspection, and law enforcement functions to carry out the provisions under 8 U.S.C. 1188 have been delegated by the Secretary to the WHD. In general, matters concerning the obligations under a work contract between an employer of H-2A workers and the H-2A workers and workers in corresponding employment are enforced by WHD, including whether employment was offered to U.S. workers as required under 8 U.S.C. 1188 or 20 CFR part 655, subpart B, or whether U.S. workers were laid off or displaced in violation of program requirements. Included within the enforcement responsibility of WHD are such matters as the payment of required wages, transportation, meals, and housing provided during the employment. The WHD has the responsibility to carry out investigations, inspections, and law enforcement functions and in appropriate instances to impose penalties, to debar from future certifications, to recommend revocation of existing certification(s), and to seek injunctive relief and specific performance of contractual obligations, including recovery of unpaid wages and reinstatement of laid off or displaced U.S. workers.
+
+(d) *Effect of regulations.* The enforcement functions carried out by the WHD under 8 U.S.C. 1188, 20 CFR part 655, subpart B, and the regulations in this part apply to the employment of any H-2A worker and any other worker in corresponding employment as the result of any *Application for Temporary Employment Certification* filed with the Department on and after March 15, 2010.

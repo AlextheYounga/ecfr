@@ -1,0 +1,5 @@
+##### § 3286.117 Completion of sale date. #####
+
+(a) *Date of sale defined.* For purposes of determining the responsibilities of a manufacturer, retailer, or distributor under subpart I of part 3282 of this chapter, the sale of a manufactured home will not be considered complete until all the goods and services that the manufacturer, retailer, or distributor agreed to provide at the time the contract was entered into have been provided.
+
+(b) *Compliance with construction and safety standards.* When a retailer or manufacturer is providing the installation and an installer installs a home in such a way as to create an imminent safety hazard or cause the home to not comply with the construction and safety standards in part 3280 of this chapter, and those issues are discovered during the installation of the home, the sale or lease of the home is not complete until the home is corrected.

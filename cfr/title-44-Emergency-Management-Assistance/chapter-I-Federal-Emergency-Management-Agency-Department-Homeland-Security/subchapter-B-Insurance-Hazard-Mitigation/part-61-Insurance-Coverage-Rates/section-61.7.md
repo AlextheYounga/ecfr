@@ -1,0 +1,5 @@
+##### § 61.7 Risk premium rate determinations. #####
+
+(a) Pursuant to section 1307 of the Act, the Federal Insurance Administrator is authorized to undertake studies and investigations to enable him/her to estimate the risk premium rates necessary to provide flood insurance in accordance with accepted actuarial principles, including applicable operating costs and allowances. Such rates are also referred to in this subchapter as “actuarial rates.”
+
+(b) The Federal Insurance Administrator is also authorized to prescribe by regulation the rates which can reasonably be charged to insureds in order to encourage them to purchase the flood insurance made available under the Program. Such rates are referred to in this subchapter as “chargeable rates.” For areas having special flood, mudslide (i.e., mudflow), and flood-related erosion hazards, chargeable rates are usually lower than actuarial rates.

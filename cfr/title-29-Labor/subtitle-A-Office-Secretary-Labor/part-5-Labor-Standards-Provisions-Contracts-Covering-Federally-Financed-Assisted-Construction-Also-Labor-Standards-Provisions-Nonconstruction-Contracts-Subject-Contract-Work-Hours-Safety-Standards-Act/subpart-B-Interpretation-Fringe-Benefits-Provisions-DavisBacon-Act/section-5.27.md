@@ -1,0 +1,3 @@
+##### § 5.27 “\* \* \* fund, plan, or program”. #####
+
+The contributions for fringe benefits must be made pursuant to a fund, plan or program (sec. 1(b)(2)(A) of the act). The phrase “fund, plan, or program” is merely intended to recognize the various types of arrangements commonly used to provide fringe benefits through employer contributions. The phrase is identical with language contained in section 3(1) of the Welfare and Pension Plans Disclosure Act. In interpreting this phrase, the Secretary will be guided by the experience of the Department in administering the latter statute. (See Report of Senate Committee on Labor and Public Welfare, S. Rep. No. 963, 88th Cong., 2d Sess., p. 5.)

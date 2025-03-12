@@ -1,0 +1,3 @@
+##### § 502.47 Certification. #####
+
+Upon receipt of a complaint seeking review of a decision issued pursuant to this part filed in a U.S. District Court, after the administrative remedies have been exhausted, the Chief Administrative Law Judge or, where the case has been the subject of administrative review, the ARB shall promptly index, certify and file with the appropriate U.S. District Court, a full, true, and correct copy of the entire record, including the transcript of proceedings.

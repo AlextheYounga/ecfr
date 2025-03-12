@@ -1,0 +1,5 @@
+##### § 9.6 Termination of participation. #####
+
+(a) The Department of Commerce upon finding that a manufacturer is not complying with the conditions of participation set out in these procedures or in a Specification may terminate upon 30 days notice the manufacturer's participation in the program: *Provided,* That the manufacturer shall first be given an opportunity to show cause why the participation should not be terminated. Upon receipt of a notice of termination, a manufacturer may request within 30 days a hearing under the provisions of 5 U.S.C. 558.
+
+(b) A manufacturer may at any time terminate his participation and responsibilities under this program with regard to a specific class of products by giving written notice to the Secretary that he has discontinued use of the Label and Energy Conservation Mark for all appliances or equipment within that class.

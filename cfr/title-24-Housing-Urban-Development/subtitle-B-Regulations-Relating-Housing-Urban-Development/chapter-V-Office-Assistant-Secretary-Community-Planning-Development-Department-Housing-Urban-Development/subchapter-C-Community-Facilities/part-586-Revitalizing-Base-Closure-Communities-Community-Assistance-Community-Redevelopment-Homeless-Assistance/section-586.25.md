@@ -1,0 +1,3 @@
+##### § 586.25 HUD's negotiations and consultations with the LRA. #####
+
+HUD may negotiate and consult with the LRA before and during the course of preparation of the LRA's application and during HUD's review thereof with a view toward avoiding any preliminary determination that the application does not meet any requirement of this part. LRAs are encouraged to contact HUD for a list of persons and organizations that are representatives of the homeless operating in the vicinity of the installation.

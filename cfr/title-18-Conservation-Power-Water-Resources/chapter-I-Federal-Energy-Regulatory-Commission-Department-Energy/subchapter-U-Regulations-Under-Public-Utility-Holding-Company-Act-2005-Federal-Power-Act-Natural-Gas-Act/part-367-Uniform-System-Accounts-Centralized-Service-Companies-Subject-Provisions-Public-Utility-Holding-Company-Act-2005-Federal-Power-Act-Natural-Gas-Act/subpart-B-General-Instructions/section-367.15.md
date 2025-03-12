@@ -1,0 +1,3 @@
+##### § 367.15 Contingent assets and liabilities. #####
+
+Contingent assets represent a possible source of value to the service company contingent upon the fulfillment of conditions regarded as uncertain. Contingent liabilities include items that, under certain conditions, may become obligations of the service company but that are neither direct nor assumed liabilities at the date of the balance sheet. The service company must be prepared to give a complete statement of significant contingent assets and liabilities (including cumulative dividends on preference stock) in its annual report and at such other times as may be requested by the Commission.

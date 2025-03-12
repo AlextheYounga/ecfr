@@ -1,0 +1,3 @@
+##### § 401.5 Employer. #####
+
+*Employer* means any employer or any group or association of employers engaged in an industry affecting commerce (a) which is, with respect to employees engaged in an industry affecting commerce, an employer within the meaning of any law of the United States relating to the employment of any employees or (b) which may deal with any labor organization concerning grievances, labor disputes, wages, rates of pay, hours of employment, or conditions of work, and includes any person acting directly or indirectly as an employer or as an agent of an employer in relation to an employee but does not include the United States or any corporation wholly owned by the Government of the United States or any State or political subdivision thereof.

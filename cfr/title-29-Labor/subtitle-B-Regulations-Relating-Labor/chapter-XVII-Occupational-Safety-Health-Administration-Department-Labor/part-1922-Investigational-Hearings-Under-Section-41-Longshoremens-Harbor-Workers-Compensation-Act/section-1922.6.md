@@ -1,0 +1,3 @@
+##### § 1922.6 Investigational hearings. #####
+
+The Chairman shall regulate the course of the hearing; dispose of procedural requests, objections, and related matters; and confine the hearing to the matters for which the Board is responsible. In the performance of these duties, the Chairman may be assisted by counsel assigned by the Solicitor of Labor. In the discretion of the Board, the hearing may be stenographically reported. When the hearing is so reported, copies of the transcript may be obtained upon such terms as the Chairman may provide.

@@ -1,0 +1,3 @@
+##### § 1403.3 Obtaining data on labor-management disputes. #####
+
+When the existence of a labor-management dispute comes to the attention of the Federal Service upon a request for mediation service from one or more parties to the dispute, through notification under the provisions of section 8(d)(3), title I of the Labor-Management Relations Act, 1947, or otherwise, the Federal Service will examine the information to determine if the Service should proffer its services under its policies. If sufficient data on which to base a determination is not at hand, the Federal Service will inquire into the circumstances surrounding the case. Such inquiry will be conducted for fact-finding purposes only and is not to be interpreted as the Federal Service proffering its services.

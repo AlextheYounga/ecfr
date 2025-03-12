@@ -1,0 +1,3 @@
+##### § 16.32 Importation by Federal agencies. #####
+
+Nothing in this part shall restrict the importation and transportation, without a permit, of any live wildlife by Federal agencies solely for their own use, upon the filing of a written declaration with the District Director of Customs at the port of entry as required under § 14.61: *Provided,* That the provisions of this section shall not apply to bald and golden eagles or their eggs, or to migratory birds or their eggs, the importations of which are governed by regulations under parts 22 and 21 of this chapter, respectively.

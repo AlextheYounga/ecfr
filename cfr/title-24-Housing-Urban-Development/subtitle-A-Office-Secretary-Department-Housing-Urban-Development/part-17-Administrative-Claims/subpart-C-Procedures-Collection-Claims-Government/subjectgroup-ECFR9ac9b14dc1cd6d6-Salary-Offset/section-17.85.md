@@ -1,0 +1,5 @@
+##### § 17.85 Coordinating offset with another Federal agency. #####
+
+(a) *When HUD is owed the debt.* When the Department is owed a debt by an employee of another agency, the other agency shall not initiate the requested offset until the Department provides the agency with a written certification that the debtor owes the Department a debt (including the amount and basis of the debt and the due date of the payment) and that the Department has complied with these regulations.
+
+(b) *When another agency is owed the debt.* The Department may use salary offset against one of its employees who is indebted to another agency if requested to do so by that agency. Such a request must be accompanied by a certification by the requesting agency that the person owes the debt (including the amount) and that the employee has been given the procedural rights required by 5 U.S.C. 5514 and 5 CFR part 550, subpart K.

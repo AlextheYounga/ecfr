@@ -1,0 +1,3 @@
+##### § 5.528 Liability of ineligible tenants for reimbursement of benefits. #####
+
+Where a tenant has received the benefit of HUD financial assistance to which the tenant was not entitled because the tenant intentionally misrepresented eligible status, the ineligible tenant is responsible for reimbursing HUD for the assistance improperly paid. If the amount of the assistance is substantial, the responsible entity is encouraged to refer the case to the HUD Inspector General's office for further investigation. Possible criminal prosecution may follow based on the False Statements Act (18 U.S.C. 1001 and 1010).

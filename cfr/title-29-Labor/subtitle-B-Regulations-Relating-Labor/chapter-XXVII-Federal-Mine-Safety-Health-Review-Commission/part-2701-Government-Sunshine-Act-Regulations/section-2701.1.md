@@ -1,0 +1,5 @@
+##### § 2701.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this part is to implement the Government in the Sunshine Act, 5 U.S.C. 552b. The rules in this part are intended to open, to the extent practicable, the meetings of the Commission to public observation while preserving the Commission's ability to fulfill its responsibilities and respect the interests of persons in confidential consideration of sensitive matters.
+
+(b) *Scope.* This part applies to all meetings of the Commission. A “meeting of the Commission” means a joint deliberation in person or by conference telephone call of at least a majority of either the members of the Commission or of a panel of three or more Commissioners that determines or results in the joint conduct or disposition of official Commission business, but does not include (1) deliberations regarding a decision to open or close a meeting, to withhold information about a meeting, and the circumstances of meetings, such as their time, place, and subject matter, and (2) the individual deliberations of Commission members of matters considered upon circulated documents or other notation procedure.

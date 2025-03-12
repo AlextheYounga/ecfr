@@ -1,0 +1,7 @@
+##### § 153.21 Conformity with requirements. #####
+
+(a) *General Rule.* Applications under subparts B and C of this part must conform with the requirements of this part.
+
+(b) *Rejection of applications.* If an application patently fails to comply with applicable statutory requirements or with applicable Commission rules, regulations, and orders for which a waiver has not been granted, the Director of the Office of Energy Projects may reject the application within 10 days of filing as provided by § 385.2001(b) of this chapter. This rejection is without prejudice to an applicant's refiling a complete application. However, an application will not be rejected solely on the basis of: Environmental reports that are incomplete because the company has not been granted access by the affected landowner(s) to perform required surveys, or environmental reports that are incomplete, but where the minimum checklist requirements of part 380, appendix A of this chapter have been met. An application that relates to an operation, service, or construction concerning which a prior application has been filed and rejected, shall be docketed as a new application. Such new application shall state the docket number of the prior rejected application.
+
+[Order 595, 62 FR 30446, June 4, 1997, as amended by Order 603, 64 FR 26604, May 14, 1999; Order 699, 72 FR 45325, Aug. 14, 2007]

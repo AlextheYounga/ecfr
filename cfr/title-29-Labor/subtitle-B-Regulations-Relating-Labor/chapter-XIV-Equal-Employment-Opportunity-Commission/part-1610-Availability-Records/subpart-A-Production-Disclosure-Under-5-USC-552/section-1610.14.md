@@ -1,0 +1,7 @@
+##### § 1610.14 Waiver of user charges. #####
+
+(a) Except as provided in paragraph (b) of this section, the Legal Counsel or designee, the Assistant Legal Counsel, FOIA Programs, and the District Directors or designees shall assess fees where applicable in accordance with § 1610.15 for search, review, and duplication of records requested. They shall also have authority to furnish documents without any charge or at a reduced charge if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in the commercial interest of the requester.
+
+(b) District directors, field directors, area directors, local directors and the librarian are hereby authorized to collect fees where applicable in accordance with § 1610.15 for duplication of records which are to be made available for public inspection and copying in the district, field, area or local office, or in the headquarters library in accordance with § 1610.4(b). District directors, field directors, area directors, local directors and the librarian are hereby authorized to duplicate such records without charge, or at a reduced charge in accordance with the criteria of paragraph (a) of this section.
+
+[52 FR 13830, Apr. 27, 1987, as amended at 54 FR 32062, Aug. 4, 1989; 56 FR 29578, June 28, 1991; 63 FR 1342, Jan. 9, 1998; 71 FR 26830, May 9, 2006; 78 FR 36653, June 19, 2013]

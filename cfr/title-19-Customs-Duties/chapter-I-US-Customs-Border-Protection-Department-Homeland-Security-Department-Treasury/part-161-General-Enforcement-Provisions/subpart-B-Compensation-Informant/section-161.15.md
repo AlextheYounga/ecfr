@@ -1,0 +1,7 @@
+##### § 161.15 Confidentiality for informant. #####
+
+The name and address of the informant must be kept confidential. No files or information will be revealed which might aid in the unauthorized identification of an informant. Pursuant to 5 U.S.C. 552(b)(7)(D), specific informant records that are exempt from disclosure are those that could reasonably be expected to disclose the identity of a confidential source, including a state, local, or foreign authority or any private institution which furnished information on a confidential basis, and, in the case of a record or information compiled by a criminal law enforcement authority in the course of a criminal investigation, or by an agency conducting a lawful national security intelligence investigation, information furnished by a confidential source. Informant records maintained by CBP under an informant's name or personal identifier that are requested by a third party according to the informant's name or personal identifier are not subject to the disclosure requirements of 5 U.S.C. 552(a), unless the informant's status as an informant has been officially confirmed.
+
+[CBP Dec. 15-16, 80 FR 71693, Nov. 17, 2015]
+
+The name and address of the informant shall be kept confidential. No files or information shall be revealed which might aid in the unauthorized identification of an informant. Release of information is governed by §§ 103.12(g)(4) and 103.12(i) of this chapter.

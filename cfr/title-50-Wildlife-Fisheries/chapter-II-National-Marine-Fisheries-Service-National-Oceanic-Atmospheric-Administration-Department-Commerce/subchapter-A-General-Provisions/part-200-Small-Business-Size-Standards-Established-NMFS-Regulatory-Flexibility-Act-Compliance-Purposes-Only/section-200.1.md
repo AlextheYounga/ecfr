@@ -1,0 +1,5 @@
+##### § 200.1 Purpose and scope. #####
+
+(a) This part sets forth the National Marine Fisheries Service (NMFS) small business size standards for NMFS to use in conducting Regulatory Flexibility Act (RFA) analyses for NMFS actions subject to the RFA. This part also sets forth the timeframe for NMFS to review its small business size standards.
+
+(b) NMFS has established the alternative size standards in this part, for RFA compliance purposes only, in order to simplify the RFA analyses done in support of NMFS' rules, better meet the RFA's intent by more accurately representing expected disproportionate effects of NMFS' rules between small and large businesses, create a standard that more accurately reflects the size distribution of all businesses in the industry, and allow NMFS to determine when changes to the standard are necessary and appropriate.

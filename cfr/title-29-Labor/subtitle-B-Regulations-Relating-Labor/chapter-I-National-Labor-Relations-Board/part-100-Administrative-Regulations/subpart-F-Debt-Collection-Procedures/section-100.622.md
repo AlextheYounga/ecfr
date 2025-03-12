@@ -1,0 +1,3 @@
+##### § 100.622 Termination of collection action. #####
+
+Before terminating collection activity, the NLRB will have pursued all appropriate means of collection and determined, based upon results of the collection activity, that the debt is uncollectible. Termination of collection activity ceases active collection of the debt. The termination of collection activity does not preclude the NLRB from retaining a record of the account for the purposes stated in 31 CFR 903.3(b) and (c).

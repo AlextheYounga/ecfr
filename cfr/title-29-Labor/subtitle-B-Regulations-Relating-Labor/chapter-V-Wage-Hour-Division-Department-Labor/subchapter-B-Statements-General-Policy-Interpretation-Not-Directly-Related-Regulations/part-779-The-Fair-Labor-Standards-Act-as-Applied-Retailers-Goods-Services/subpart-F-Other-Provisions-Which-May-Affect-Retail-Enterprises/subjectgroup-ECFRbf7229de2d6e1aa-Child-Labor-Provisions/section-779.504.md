@@ -1,0 +1,3 @@
+##### § 779.504 The retailer and section 12(c). #####
+
+Section 12(c) was amended in 1961 to prohibit the employment of oppressive child labor in any enterprise engaged in commerce or in the production of goods for commerce. Thus, employers in every enterprise which is covered under the Act must comply with section 12(c) of the child labor provisions of the Act. As stated in § 779.503, compliance with this provision is necessary even though the employers in a particular establishment or establishments of a covered enterprise are exempt from the requirement of compensating employees in accordance with sections 6 and 7 of the Act.

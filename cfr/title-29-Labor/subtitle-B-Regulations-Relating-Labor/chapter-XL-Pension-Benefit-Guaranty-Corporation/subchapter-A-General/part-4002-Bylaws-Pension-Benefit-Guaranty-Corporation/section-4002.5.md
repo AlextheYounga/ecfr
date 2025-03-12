@@ -1,0 +1,3 @@
+##### § 4002.5 Meetings. #####
+
+Regular meetings of the Board of Directors shall be held as often as required to provide appropriate oversight and guidance to the Corporation and at such times as the Chair shall select. Special meetings of the Board of Directors shall be called by the Chair on the request of any other Board Member. Reasonable notice of any meetings shall be given to each Board Member. The General Counsel of the Corporation shall serve as Secretary to the Board of Directors and keep its minutes. As soon as practicable after each meeting, a draft of the minutes of such meeting shall be distributed to each Member of the Board for approval.

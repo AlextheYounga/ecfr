@@ -1,0 +1,3 @@
+##### § 230.313 Approval procedure. #####
+
+After reviewing the State highway agency equal employment opportunity program and the summary analysis and recommendations from the FHWA regional office, the Washington Headquarters Office of Civil Rights staff will recommend approval or disapproval of the program to the Federal Highway Administrator. The State highway agency will be advised of the Administrator's decision. Each program approval is effective for a period of one year from date of approval.

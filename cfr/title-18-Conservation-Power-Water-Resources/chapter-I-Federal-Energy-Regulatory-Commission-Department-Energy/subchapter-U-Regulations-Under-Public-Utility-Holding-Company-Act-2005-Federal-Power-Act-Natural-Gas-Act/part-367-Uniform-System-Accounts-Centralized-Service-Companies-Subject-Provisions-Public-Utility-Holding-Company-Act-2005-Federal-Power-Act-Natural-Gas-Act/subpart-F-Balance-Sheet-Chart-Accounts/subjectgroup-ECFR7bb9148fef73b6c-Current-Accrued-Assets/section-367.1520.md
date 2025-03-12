@@ -1,0 +1,3 @@
+##### § 367.1520 Account 152, Fuel stock expenses undistributed. #####
+
+The service company must utilize this account, where appropriate, to include the cost of service company labor and of office supplies used and operating expenses incurred with respect to the review, analysis and management of fuel supply contracts or agreements, the accumulation of fuel information and its interpretation, the logistics and handling of fuel, and other related support functions, as a service to the company engaged in the procurement and transportation of fuel. This account must be maintained to show the expenses attributable to each company through its cost allocation system. All expenses of a service company's fuel department or functions must be cleared through this account.

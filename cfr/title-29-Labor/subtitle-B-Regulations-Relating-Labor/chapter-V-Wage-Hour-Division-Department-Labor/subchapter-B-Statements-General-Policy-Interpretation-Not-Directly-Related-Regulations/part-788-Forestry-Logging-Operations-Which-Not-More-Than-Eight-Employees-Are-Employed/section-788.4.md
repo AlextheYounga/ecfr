@@ -1,0 +1,3 @@
+##### § 788.4 Significance of official interpretations. #####
+
+The interpretations contained in this part indicate, with respect to section 13(a)(13) of the Act which refers to small forestry or lumbering operations, the construction of the law which the Secretary of Labor and the Administrator believes to be correct and which will guide them in the performance of their duties under the Act unless and until they are otherwise directed by authoratative decisions of the courts or conclude, upon reexamination of an interpretation, that it is incorrect.

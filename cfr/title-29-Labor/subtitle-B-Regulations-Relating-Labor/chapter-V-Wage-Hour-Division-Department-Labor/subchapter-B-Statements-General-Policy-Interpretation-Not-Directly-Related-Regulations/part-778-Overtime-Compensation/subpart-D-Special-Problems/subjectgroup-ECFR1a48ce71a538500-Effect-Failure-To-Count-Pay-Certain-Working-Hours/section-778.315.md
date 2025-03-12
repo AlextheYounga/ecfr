@@ -1,0 +1,3 @@
+##### § 778.315 Payment for all hours worked in overtime workweek is required. #####
+
+In determining the number of hours for which overtime compensation is due, all hours worked (see § 778.223) by an employee for an employer in a particular workweek must be counted. Overtime compensation, at a rate not less than one and one-half times the regular rate of pay, must be paid for each hour worked in the workweek in excess of the applicable maximum hours standard. This extra compensation for the excess hours of overtime work under the Act cannot be said to have been paid to an employee unless all the straight time compensation due him for the nonovertime hours under his contract (express or implied) or under any applicable statute has been paid.

@@ -1,0 +1,7 @@
+##### § 452.137 Effective dates. #####
+
+(a) Section 404 states when the election provisions of the Act become applicable.58 In the case of labor organizations whose constitution and bylaws can be lawfully modified or amended by action of the organization's “constitutional officers or governing body,” the election provisions become applicable 90 days after the enactment of the statute (December 14, 1959). Where the modification of the constitution and bylaws of a local labor organization requires action by the membership at a general meeting or by referendum, the general membership would be a “governing body” within the meaning of this provision. In the cases where any necessary modification of the constitution and bylaws can be made only by a constitutional convention of the labor organization, the election provisions become applicable not later than the next constitutional convention after the enactment of the statute, or one year after the enactment of the statute, whichever is sooner.
+
+58 Act, sec. 404.
+
+(b) The statute does not require the calling of a special constitutional convention to make such modifications. However, if no convention is held within the one-year period, the executive board or similar governing body that has the power to act for the labor organization between conventions is empowered by the statute to make such interim constitutional changes as are necessary to carry out the provisions of title IV of the Act. Any election held thereafter would have to comply with the requirements of the Act.

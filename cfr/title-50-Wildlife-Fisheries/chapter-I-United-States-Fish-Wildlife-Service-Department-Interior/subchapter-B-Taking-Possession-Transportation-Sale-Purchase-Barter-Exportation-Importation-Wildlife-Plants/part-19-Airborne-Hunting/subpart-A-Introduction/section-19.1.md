@@ -1,0 +1,3 @@
+##### § 19.1 Purpose of regulations. #####
+
+The regulations contained in this part provide rules relative to the prohibition against shooting or harassing of wildlife from any aircraft, provide the requirements for the contents and filing of annual reports by the States regarding permits issued for such shooting or harassing, and provide regulations necessary for effective enforcement of the Fish and Wildlife Act of 1956 as amended (16 U.S.C. 742a—j-1).

@@ -1,0 +1,3 @@
+##### § 779.353 Basis for classification. #####
+
+The general principles governing the application of the 13(a)(2) and 13(a)(4) exemptions are explained in detail earlier in the subpart. It is the purpose of the following sections to show how these principles apply to establishments in certain specific industries. In these industries the Divisions have made special studies, held hearings or consulted with representatives of industry and labor, to ascertain the facts. Based upon these facts the following determinations have been made as to which sales or establishments are, and which are not, recognized as retail in the particular industry.

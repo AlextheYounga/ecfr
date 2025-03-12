@@ -1,0 +1,3 @@
+##### § 2.10 Scope and purpose. #####
+
+This subpart defines the scope of audiovisual coverage of departmental administrative hearings. It describes the types of proceedings where such coverage is encouraged, defines areas where such coverage is prohibited (as in certain enforcement proceedings or where witnesses object) and areas where a decision concerning coverage is made after weighing the values involved in permitting coverage against the reasons for not permitting it.

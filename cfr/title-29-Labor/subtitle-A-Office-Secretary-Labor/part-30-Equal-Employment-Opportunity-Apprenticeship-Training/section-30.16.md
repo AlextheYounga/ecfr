@@ -1,0 +1,5 @@
+##### § 30.16 Hearings. #####
+
+(a) Within 10 days after receiving a request for a hearing, the Secretary shall designate a hearing officer. The hearing officer shall give reasonable notice of such hearing by certified mail, return receipt requested, to the appropriate sponsor (Federal or state registered), the State Apprenticeship Council, or both, as the case may be. Such notice shall include: (1) A reasonable time and place of hearing, (2) a statement of the provisions of this part, pursuant to which the hearing is to be held, and (3) a concise statement of the matters pursuant to which the action forming the basis of the hearing is proposed to be taken.
+
+(b) The hearing officer shall regulate the course of the hearing. Hearings shall be informally conducted. Every party shall have the right to counsel, and a fair opportunity to present his or her case including such cross-examination as may be appropriate in the circumstances. Hearing officers shall make their proposed findings and recommended decisions to the Secretary upon the basis of the record before them.

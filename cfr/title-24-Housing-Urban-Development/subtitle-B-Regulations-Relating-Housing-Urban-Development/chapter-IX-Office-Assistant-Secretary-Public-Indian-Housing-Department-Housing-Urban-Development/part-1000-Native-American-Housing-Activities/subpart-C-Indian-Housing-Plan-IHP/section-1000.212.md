@@ -1,0 +1,3 @@
+##### § 1000.212 Is submission of an IHP required? #####
+
+Yes. An Indian tribe or, with the consent of its Indian tribe(s), the TDHE, must submit an IHP to HUD to receive funding under NAHASDA, except as provided in section 101(b)(2) of NAHASDA. If a TDHE has been designated by more than one Indian tribe, the TDHE can submit a separate IHP for each Indian tribe or it may submit a single IHP based on the requirements of § 1000.220 with the approval of the Indian tribes.

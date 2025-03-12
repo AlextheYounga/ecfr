@@ -1,0 +1,3 @@
+##### § 806.20 Purpose of this subpart. #####
+
+The purpose of this subpart is to set forth general standards that shall be used by the Commission to evaluate all projects subject to review and approval by the Commission pursuant to §§ 806.4, 806.5 and 806.6, and to establish special standards applicable to certain water withdrawals, consumptive uses and diversions. This subpart shall not be construed to limit the Commission's authority and scope of review. These standards are authorized under Sections 3.4(2), 3.4(8), 3.4(9), and 3.10 of the compact and are based upon, but not limited to, the goals, objectives, guidelines and criteria of the comprehensive plan.

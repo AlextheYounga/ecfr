@@ -1,0 +1,3 @@
+##### § 1000.210 What happens to existing 1937 Act units in those jurisdictions for which Indian tribes do not or cannot submit an IHP? #####
+
+NAHASDA does not provide the statutory authority for HUD to grant NAHASDA grant funds to an Indian housing authority, Indian tribe or to a default TDHE which cannot obtain a tribal certification, if the requisite IHP is not submitted by an Indian tribe or is determined to be out of compliance by HUD. There may be circumstances where this may happen, and in those cases, other methods of tribal, Federal, or private market support may have to be sought to maintain and operate those 1937 Act units.

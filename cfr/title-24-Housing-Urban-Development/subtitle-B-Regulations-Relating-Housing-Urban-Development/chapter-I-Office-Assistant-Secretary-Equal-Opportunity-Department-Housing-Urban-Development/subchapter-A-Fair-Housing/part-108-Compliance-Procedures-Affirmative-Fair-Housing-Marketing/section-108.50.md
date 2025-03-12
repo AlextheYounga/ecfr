@@ -1,0 +1,3 @@
+##### § 108.50 Sanctions. #####
+
+Applicants failing to comply with the requirements of these regulations, the AFHM regulations, or an AFHM plan will make themselves liable to sanctions authorized by law, regulations, agreements, rules, or policies governing the program pursuant to which the application was made, including, but not limited to, denial of further participation in Departmental programs and referral to the Department of Justice for suit by the United States for injunctive or other appropriate relief.

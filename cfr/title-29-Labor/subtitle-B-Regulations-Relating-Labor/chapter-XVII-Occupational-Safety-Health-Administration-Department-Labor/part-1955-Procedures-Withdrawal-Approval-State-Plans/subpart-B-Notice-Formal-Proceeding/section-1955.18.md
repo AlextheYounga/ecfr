@@ -1,0 +1,3 @@
+##### § 1955.18 Provision for written comments. #####
+
+Any person who is not a party may submit a written statement of position with 4 copies to either the Assistant Secretary or the State at any time during the proceeding which statement shall be made available to all parties and may be introduced into evidence by a party. Mere statements of approval or opposition to the plan without any documentary support shall not be considered as falling within this provision.

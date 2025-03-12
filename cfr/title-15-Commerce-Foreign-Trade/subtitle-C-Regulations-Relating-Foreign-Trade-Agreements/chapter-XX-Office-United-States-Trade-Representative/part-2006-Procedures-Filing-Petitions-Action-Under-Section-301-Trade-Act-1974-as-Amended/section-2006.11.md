@@ -1,0 +1,3 @@
+##### § 2006.11 Consultations before making determinations. #####
+
+Prior to making a determination on what action, if any, should be taken in regard to issues raised in the petition, the Trade Representative shall obtain advice from any appropriate private sector advisory representatives, including committees established pursuant to section 135 of the Trade Act, unless expeditious action is required, in which case he shall seek such advice after making the determination. The Trade Representative may also request the views of the International Trade Commission regarding the probable economic impact of the proposed action.

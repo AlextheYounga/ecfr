@@ -1,0 +1,3 @@
+##### § 780.618 “His own account”—“in conjunction with other farmers.” #####
+
+Under the terms of section 13(b)(13), the farmer may operate a livestock auction solely for his own benefit or he may join with “other farmers” to auction livestock for their mutual benefit. (See § 780.614 with regard to the definition of “farmer.”) Unless the auction is conducted by the farmer alone or with others who are “farmers” the exemption does not apply.

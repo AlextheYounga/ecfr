@@ -1,0 +1,3 @@
+##### § 905.318 Title and deed. #####
+
+The PHA, or, in the case of mixed-finance, the Owner Entity, shall obtain title insurance that guarantees the title is good and marketable before taking title to any and all sites and properties acquired with public housing funds. Immediately upon taking title to a property, the PHA or Owner Entity shall record the deed and a Declaration of Trust or, in the case of mixed finance, a Declaration of Restrictive Covenants, in the form and in the manner and order prescribed by HUD. The PHA shall at all times maintain a recorded Declaration of Trust or Declaration of Restrictive Covenants in the form and in the manner and order prescribed by HUD on all public housing projects covering the term required by this part.

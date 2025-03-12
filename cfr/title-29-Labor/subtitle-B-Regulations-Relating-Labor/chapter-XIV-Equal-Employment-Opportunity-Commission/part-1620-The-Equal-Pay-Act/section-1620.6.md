@@ -1,0 +1,3 @@
+##### § 1620.6 Coverage is not based on amount of covered activity. #####
+
+The FLSA makes no distinction as to the percentage, volume, or amount of activities of either the employee or the employer which constitute engaged in commerce or in the production of goods for commerce. Every employee whose activities in commerce or in the production of goods for commerce, even though small in amount, are regular and recurring, is considered “engaged in commerce or in the production of goods for commerce”.

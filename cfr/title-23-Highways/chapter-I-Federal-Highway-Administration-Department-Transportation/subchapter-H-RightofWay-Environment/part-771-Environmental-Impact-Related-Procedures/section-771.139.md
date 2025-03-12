@@ -1,0 +1,7 @@
+##### § 771.139 Limitations on actions. #####
+
+Notices announcing decisions by the Administration or by other Federal agencies on a transportation project may be published in the Federal Register indicating that such decisions are final within the meaning of 23 U.S.C. 139(*l*). Claims arising under Federal law seeking judicial review of any such decisions are barred unless filed within 180 days after publication of the notice. This 180-day time period does not lengthen any shorter time period for seeking judicial review that otherwise is established by the Federal law under which judicial review is allowed.5 This provision does not create any right of judicial review or place any limit on filing a claim that a person has violated the terms of a permit, license, or approval.
+
+5 The FHWA published a detailed discussion of US DOT's interpretation of 23 U.S.C. 139(*l*), together with information applicable to FHWA projects about implementation procedures for 23 U.S.C. 139(*l*), in appendix E to the “SAFETEA-LU Environmental Review Process: Final Guidance,” dated November 15, 2006. The implementation procedures in appendix E apply only to FHWA projects. The section 6002 guidance, including appendix E, is available at *http://www.fhwa.dot.gov/*, or in hard copy by request.
+
+[74 FR 12530, Mar. 24, 2009, as amended at 81 FR 34164, May 27, 2016]

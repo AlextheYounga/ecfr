@@ -1,0 +1,7 @@
+##### § 95.33 Federally-owned and exempt property. #####
+
+(a) *Federally-owned property.* (1) Title to federally-owned property remains vested in the Federal Government. Recipients shall submit annually an inventory listing of federally-owned property in their custody to DOL. Upon completion of the award or when the property is no longer needed, the recipient shall report the property to DOL for further Federal agency utilization.
+
+(2) If DOL has no further need for the property, it shall be declared excess and reported to the General Services Administration, unless DOL has statutory authority to dispose of the property by alternative methods (e.g., the authority provided by the Federal Technology Transfer Act (15 U.S.C. 3710(i)) to donate research equipment to educational and non-profit organizations in accordance with E.O. 12821, “Improving Mathematics and Science Education in Support of the National Education Goals.”) Appropriate instructions shall be issued to the recipient by DOL.
+
+(b) *Exempt property.* When statutory authority exists, DOL has the option to vest title to property acquired with Federal funds in the recipient without further obligation to the Federal Government and under conditions DOL considers appropriate. Such property is “exempt property.” Should DOL not establish conditions, title to exempt property upon acquisition shall vest in the recipient without further obligation to the Federal Government.

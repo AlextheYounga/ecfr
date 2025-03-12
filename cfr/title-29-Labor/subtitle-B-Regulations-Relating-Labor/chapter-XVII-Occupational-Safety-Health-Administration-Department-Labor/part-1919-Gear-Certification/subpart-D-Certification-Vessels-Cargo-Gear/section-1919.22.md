@@ -1,0 +1,3 @@
+##### § 1919.22 Requirements governing braking devices and power sources. #####
+
+All types of winches and cranes shall be provided with means to stop and hold the proof load in any position, and the efficiency of such means shall be demonstrated. Electric winches, electrohydraulic winches fitted with electromagnetic or hydraulic brakes at the winch, or electric cranes shall be equipped so that a failure of the electric power shall stop the motion and set the brakes without any action on the part of the operator. Current for operation of electric winches and cranes during the tests shall be taken from the vessel's circuits. Shore current may be used if it passes through the vessel's main switchboard.

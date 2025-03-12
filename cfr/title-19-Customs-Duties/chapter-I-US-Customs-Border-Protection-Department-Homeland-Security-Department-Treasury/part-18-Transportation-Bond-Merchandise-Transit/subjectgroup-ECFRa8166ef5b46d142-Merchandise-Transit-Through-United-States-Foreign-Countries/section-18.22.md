@@ -1,0 +1,5 @@
+##### § 18.22 Procedure at port of exit. #####
+
+(a) If transfer is necessary, the procedure shall be as prescribed in § 18.3(d).
+
+(b) Upon the arrival at the port of exit of express shipments of articles shown by the manifest, Customs Form 7512, to be baggage and to be deliverable to the owner on board the exporting vessel, such articles may be transferred by the express company, without a permit from the port director and without the use of a transfer ticket or other Customs formality, from its terminal to the exporting vessel for lading under Customs supervision, if the express company is bonded as a common carrier and is responsible under its bond for the delivery of the articles to the Customs officer in charge of the exporting vessel. The manifest shall show the name of the owner of the baggage and the name of the vessel on which he intends to sail.

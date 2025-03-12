@@ -1,0 +1,3 @@
+##### § 148.76 Waiver of requirements or limitations. #####
+
+In any case in which the limitation on the quantity of alcoholic beverages and tobacco products which may be exempted from duty and tax under § 148.74(c) or the failure of the person to meet the requirements that he be returning upon the termination of assignment to “extended duty,” as explained in § 148.74(d), will cause undue hardship to the person through no fault of his own, but rather because of the nature of his assignment or other hardship circumstances, the Commissioner of Customs, upon receipt of a request from the Government agency involved, may waive the limitation or the requirement, as the case may be, if he deems such waiver warranted by the facts.

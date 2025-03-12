@@ -1,0 +1,5 @@
+##### § 208.37 Reimbursement for equipment and supply costs incurred during Activation. #####
+
+(a) *Allowable costs.* DHS will reimburse costs incurred for the emergency procurement of equipment and supplies in the number, type, and up to the cost specified in the current approved Equipment Cache List, and up to the aggregate dollar limit specified in the Activation Order. The Assistant Administrator may determine emergency procurement dollar limits, taking into account previous Activation history, available funding, the extent and nature of the incident, and the current state of Task Force readiness.
+
+(b) *Non-Allowable costs.* DHS will not reimburse costs incurred for items that are not listed on the Equipment Cache List; for items purchased greater than the cost or quantity identified in the Equipment Cache List; or for any purchase of non-expendable items that duplicate a previous purchase under a Preparedness or Response Cooperative Agreement.

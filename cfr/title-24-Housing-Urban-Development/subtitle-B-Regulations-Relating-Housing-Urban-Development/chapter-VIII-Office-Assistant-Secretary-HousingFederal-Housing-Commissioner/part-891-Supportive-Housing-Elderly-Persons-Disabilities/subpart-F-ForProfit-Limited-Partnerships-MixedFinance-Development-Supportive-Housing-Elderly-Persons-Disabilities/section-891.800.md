@@ -1,0 +1,3 @@
+##### § 891.800 Purpose. #####
+
+The purpose of this subpart is to establish rules allowing for, and regulating the participation of, for-profit limited partnerships, of which the sole general partner is a Nonprofit Organization meeting the requirements of 12 U.S.C. 1701q(k)(4) or 42 U.S.C. 8032(k)(6), in the development of housing for the elderly and persons with disabilities using mixed-finance development methods. These rules are intended to develop more supportive housing for the elderly and persons with disabilities by allowing the use of federal assistance, private capital and expertise, and low-income housing tax credits.

@@ -1,0 +1,3 @@
+##### § 80.132 Does an agency have to control the land or water where it completes capital improvements? #####
+
+Yes. A State fish and wildlife agency must control the parcel of land and water on which it completes a grant-funded capital improvement. An agency must exercise this control by holding title to a fee or leasehold interest or through another legally binding agreement. Control must be adequate for the protection, maintenance, and use of the improvement for its authorized purpose during its useful life even if the agency did not acquire the parcel with grant funds.

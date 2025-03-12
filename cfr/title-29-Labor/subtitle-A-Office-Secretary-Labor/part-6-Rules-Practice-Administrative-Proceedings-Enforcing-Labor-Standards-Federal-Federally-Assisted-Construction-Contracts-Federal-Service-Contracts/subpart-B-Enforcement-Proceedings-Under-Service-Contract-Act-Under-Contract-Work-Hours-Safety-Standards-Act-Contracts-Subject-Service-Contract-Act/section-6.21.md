@@ -1,0 +1,5 @@
+##### § 6.21 Ineligible list. #####
+
+(a) Upon the final decision of the Administrative Law Judge or Administrative Review Board, as appropriate, the Administrator shall within 90 days forward to the Comptroller General the name of any respondent found in violation of the Service Contract Act, including the name of any firm, corporation, partnership, or association in which the respondent has a substantial interest, unless such decision orders relief from the ineligible list because of unusual circumstances.
+
+(b) Upon the final decision of the Administrative Law Judge or the Administrative Review Board, as appropriate, the Administrator promptly shall forward to the Comptroller General the name of any respondent found to be in aggravated or willful violation of the Contract Work Hours and Safety Standards Act, and the name of any firm, corporation, partnership, or association in which the respondent has a substantial interest.

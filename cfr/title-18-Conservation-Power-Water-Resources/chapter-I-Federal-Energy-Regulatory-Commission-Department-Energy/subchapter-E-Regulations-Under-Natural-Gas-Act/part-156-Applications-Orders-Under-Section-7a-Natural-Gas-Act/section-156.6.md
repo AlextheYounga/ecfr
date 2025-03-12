@@ -1,0 +1,3 @@
+##### § 156.6 Acceptance for filing or rejection of application. #####
+
+Applications will be docketed when received and the applicant so advised. Any application which does not conform to the requirements of §§ 156.1 through 156.5 will be rejected by the Secretary. All but one copy of a rejected application will be returned. An application which relates to an operation concerning which a prior application has been filed and rejected, shall be docketed as a new application. Such new application shall state the docket number of the prior rejected application.

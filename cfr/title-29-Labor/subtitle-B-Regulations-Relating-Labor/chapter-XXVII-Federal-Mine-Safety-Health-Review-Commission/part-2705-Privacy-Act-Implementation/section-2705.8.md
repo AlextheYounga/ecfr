@@ -1,0 +1,5 @@
+##### § 2705.8 Appeal of an initial adverse Commission determination on correction or amendment of the record. #####
+
+An individual who disagrees with the refusal of the Executive Director to correct or to amend his or her record may submit a request for a review of such refusal to the Chairman, Federal Mine Safety and Health Review Commission, 1331 Pennsylvania Avenue NW., Suite 520N, Washington, DC 20004-1710. The Chairman will, not later than thirty working days from the date on which the individual requests such review, complete such review and make final determination unless, for good cause shown, the Chairman extends such thirty-day period. If, after his or her review, the Chairman also refuses to correct or to amend the record in accordance with the request, the Individual may file with the Commission a concise statement setting forth the reasons for his or her disagreement with the refusal of the Commission and may seek judicial review of the Chairman's determination under 5 U.S.C. 552a(g)(1)(A).
+
+[49 FR 38542, Oct. 1, 1984, as amended at 67 FR 60863, Sept. 27, 2002; 77 FR 48430, Aug. 14, 2012]

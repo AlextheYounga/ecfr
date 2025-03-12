@@ -1,0 +1,15 @@
+##### § 801.11 Exemption for national defense and security. #####
+
+(a) The exemptions allowing for the administration of lie detector tests in the following paragraphs (b) through (e) of this section apply only to the Federal Government; they do not allow private employers/contractors to administer such tests.
+
+(b) Section 7(b)(1) of the Act provides that nothing in the Act shall be construed to prohibit the administration of any lie detector test by the Federal Government, in the performance of any counterintelligence function, to any expert, consultant or employee of any contractor under contract with the Department of Defense; or with the Department of Energy, in connection with the atomic energy defense activities of such Department.
+
+(c) Section 7(b)(2)(A) provides that nothing in the Act shall be construed to prohibit the administration of any lie detector test by the Federal Government, in the performance of any intelligence or counterintelligence function of the National Security Agency, the Defense Intelligence Agency, or the Central Intelligence Agency, to any individual employed by, assigned to, or detailed to any such agency; or any expert or consultant under contract to any such agency; or any employee of a contractor to such agency; or any individual applying for a position in any such agency; or any individual assigned to a space where sensitive cryptologic information is produced, processed, or stored for any such agency.
+
+(d) Section 7(b)(2)(B) provides that nothing in the Act shall be construed to prohibit the administration of any lie detector test by the Federal Government, in the performance of any intelligence or counterintelligence function, to any expert, or consultant (or employee of such expert or consultant) under contract with any Federal Government department, agency, or program whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2 (a) of Executive Order 12356 (or a successor Executive Order).
+
+(e) Section 7(c) provides that nothing in the Act shall be construed to prohibit the administration of any lie detector test by the Federal Government, in the performance of any counterintelligence function, to any employee of a contractor of the Federal Bureau of Investigation of the Department of Justice who is engaged in the performance of any work under a contract with the Bureau.
+
+(f) *Counterintelligence* for purposes of the above paragraphs means information gathered and activities conducted to protect against espionage and other clandestine intelligence activities, sabotage, terrorist activities, or assassinations conducted for or on behalf of foreign governments, or foreign or domestic organizations or persons.
+
+(g) Lie detector tests of persons described in the above paragraphs will be administered in accordance with applicable Department of Defense directives and regulations, or other regulations and directives governing the use of such tests by the United States Government, as applicable.

@@ -1,0 +1,11 @@
+##### § 200.38 Protections for victims of domestic violence. #####
+
+(a) The requirements for protection for victims of domestic violence, dating violence, sexual assault, or stalking in 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking) apply to programs administered under section 236 and under sections 221(d)(3) and (d)(5) of the National Housing Act, as follows:
+
+(1) Multifamily rental housing under section 221(d)(3) of the National Housing Act (12 U.S.C. 17151(d)) with a below-market interest rate (BMIR) pursuant to section 221(d)(5), with implementing regulations at 24 CFR part 221. The Section 221(d)(3) BMIR program insured and subsidized mortgage loans to facilitate new construction or substantial rehabilitation of multifamily rental cooperative housing for low- and moderate-income families. The program is no longer active, but Section 221(d)(3) BMIR properties that remain in existence are covered by VAWA. Coverage of section 221(d)(3) and (d)(5) BMIR housing does not include section 221(d)(3) and (d)(5) BMIR projects that refinance under section 223(a)(7) or 223(f) of the National Housing Act where the interest rate is no longer determined under section 221(d)(5).
+
+(2) Multifamily rental housing under section 236 of the National Housing Act (12 U.S.C. 1715z-1), with implementing regulations at 24 CFR part 236. Coverage of the section 236 program includes not only those projects with FHA-insured project mortgages under section 236(j), but also non-FHA-insured projects that receive interest reduction payments (“IRP”) under section 236(b) and formerly insured section 236 projects that continue to receive interest reduction payments through a “decoupled” IRP contract under section 236(e)(2). Coverage also includes projects that receive rental assistance payments authorized under section 236(f)(2).
+
+(b) For the programs administered under paragraph (a) of this section, “covered housing provider” as such term is used in 24 CFR part 5, subpart L, refers to the mortgagor, or owner, as applicable.
+
+[81 FR 80805, Nov. 16, 2016]

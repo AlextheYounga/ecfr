@@ -1,0 +1,3 @@
+##### § 3a.91 Data index system. #####
+
+A data index system shall be established for Top Secret, Secret, and Confidential information in selected categories prescribed by the Interagency Classification Review Committee, in accordance with section VII of the National Security Council Directive Governing the Classification, Downgrading, Declassification, and Safeguarding of National Security Information, May 17, 1972.

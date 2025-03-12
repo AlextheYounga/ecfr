@@ -1,0 +1,33 @@
+##### § 210.5 Confidential business information. #####
+
+(a) *Definition and submission.* Confidential business information shall be defined and identified in accordance with § 201.6 (a) and (c) of this chapter. Unless the Commission, the administrative law judge, or another section of this part states otherwise, confidential business information shall be submitted in accordance with § 201.6(b) of this chapter. In the case of a complaint, any supplement to the complaint, and a motion for temporary relief filed under this part, the number of nonconfidential copies shall be prescribed by § 210.8(a) of this part.
+
+(b) *Restrictions on disclosure.* Information submitted to the Commission or exchanged among the parties in connection with an investigation or a related proceeding under this part, which is properly designated confidential under paragraph (a) of this section and § 201.6(a) of this chapter, may not be disclosed to anyone other than the following persons without the consent of the submitter:
+
+(1) Persons who are granted access to confidential information under § 210.39(a) or a protective order issued pursuant to § 210.34(a);
+
+(2) An officer or employee of the Commission who is directly concerned with—
+
+(i) Carrying out or maintaining the records of the investigation or related proceeding for which the information was submitted;
+
+(ii) The administration of a bond posted pursuant to subsection (e), (f), or (j) of section 337 of the Tariff Act of 1930;
+
+(iii) The administration or enforcement of an exclusion order issued pursuant to subsection (d), (e), or (g), a cease and desist order issued pursuant to subsection (f), or a consent order issued pursuant to subsection (c) of section 337 of the Tariff Act of 1930; or
+
+(iv) Proceedings for the modification or rescission of a temporary or permanent order issued under subsection (d), (e), (f), (g), or (i) of section 337 of the Tariff Act of 1930, or a consent order issued under section 337 of the Tariff Act of 1930;
+
+(3) An officer or employee of the United States Government who is directly involved in a review conducted pursuant to section 337(j) of the Tariff Act of 1930; or
+
+(4) An officer or employee of the United States Customs Service who is directly involved in administering an exclusion from entry under section 337 (d), (e), or (g) of the Tariff Act of 1930 resulting from the investigation or related proceeding in connection with which the information was submitted.
+
+(c) *Transmission of certain records to district court.* Notwithstanding paragraph (b) of this section, confidential business information may be transmitted to a district court and be admissible in a civil action, subject to such protective order as the district court determines necessary, pursuant to 28 U.S.C. 1659.
+
+(d) *Confidentiality determinations in preinstitution proceedings.* After a complaint is filed under section 337 of the Tariff Act of 1930 and before an investigation is instituted by the Commission, confidential business information designated confidential by the supplier shall be submitted in accordance with § 201.6(b) of this chapter. The Secretary shall decide, in accordance with § 201.6(d) of this chapter, whether the information is entitled to confidential treatment. Appeals from the ruling of the Secretary shall be made to the Commission as set forth in § 201.6(e) and (f) of this chapter.
+
+(e) *Confidentiality determinations in investigations and other related proceedings.* (1) If an investigation is instituted or if a related proceeding is assigned to an administrative law judge, the administrative law judge shall set the ground rules for the designation, submission, and handling of information designated confidential by the submitter. When requested to do so, the administrative law judge shall decide whether information in a document addressed to the administrative law judge, or to be exchanged among the parties while the administrative law judge is presiding, is entitled to confidential treatment. The administrative law judge shall also decide, with respect to all orders, initial determinations, or other documents issued by the administrative law judge, whether information designated confidential by the supplier is entitled to confidential treatment. The supplier of the information or the person seeking the information may, with leave of the administrative law judge, request an appeal to the Commission of the administrative law judge's unfavorable ruling on this issue, under § 210.24(b)(2).
+
+(2) The Commission may continue protective orders issued by the administrative law judge, amend or revoke those orders, or issue new ones. All submissions addressed to the Commission that contain information covered by an existing protective order will be given confidential treatment. (See also § 210.72.) New information that is submitted to the Commission, designated confidential by the supplier, and not covered by an existing protective order must be submitted to the Secretary with a request for confidential treatment in accordance with § 201.6(b) and (c) of this chapter. The Secretary shall decide, in accordance with § 201.6(d) of this chapter, whether the information is entitled to confidential treatment. Appeals from the ruling of the Secretary shall be made to the Commission as provided in § 201.6(e) and (f) of this chapter. The Commission shall decide, with respect to all orders, notices, opinions, and other documents issued by or on behalf of the Commission, whether information designated confidential by the supplier is entitled to confidential treatment.
+
+(f) When the Commission or the administrative law judge issues a confidential version of an order, initial determination, opinion, or other document, the Commission, or the presiding administrative law judge if the administrative law judge has issued the confidential version, shall issue any public version of the document within 30 days, unless good cause exists to extend the deadline. An administrative law judge or the Commission may extend this time by order. Upon request by the Commission, or the administrative law judge if the administrative law judge has issued the confidential version, parties must provide support in the record for their claim of confidentiality, pursuant § 201.6 of this chapter and § 210.4 of this subpart for any proposed redactions that parties may submit to the Commission or the administrative law judge for the preparation of any public version.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67626, Dec. 30, 1994; 60 FR 32444, June 22, 1995; 78 FR 23840, Apr. 19, 2013]

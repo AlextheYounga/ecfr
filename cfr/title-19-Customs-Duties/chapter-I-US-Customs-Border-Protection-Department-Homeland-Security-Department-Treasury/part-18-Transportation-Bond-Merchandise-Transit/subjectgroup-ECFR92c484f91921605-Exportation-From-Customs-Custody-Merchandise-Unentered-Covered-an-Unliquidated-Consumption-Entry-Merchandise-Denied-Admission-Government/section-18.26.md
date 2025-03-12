@@ -1,0 +1,11 @@
+##### § 18.26 Indirect exportation. #####
+
+(a) When merchandise of the character enumerated in § 18.25(d) is to be transported in bond to another port for exportation, it may be entered for transportation and exportation in accordance with the procedure in § 18.20. Upon acceptance of the entry by Customs and acceptance of the merchandise by the bonded carrier, the bonded carrier assumes liability for the transportation and exportation of the merchandise. In the case of merchandise prohibited entry by any Government agency, that fact shall be prominently noted on Customs Form 7512 for the information of the director of the port of exportation. If the merchandise was imported under cover of a TIR carnet, the carnet shall be discharged or canceled at the port of importation and the merchandise transported under an entry on Customs Form 7512 (see § 18.25). If merchandise has been imported under cover of an A.T.A. carnet to be transported in bond to another port for exportation, the appropriate transit voucher shall be accepted in lieu of Customs Forms 7512. One transit voucher shall be certified by Customs officers at the port of importation and a second transit voucher, together with the reexportation voucher, shall be certified at the port of exportation.
+
+(b) The merchandise shall be forwarded in accordance with the general provisions for transportation in bond, §§ 18.1 through 18.8.
+
+(c) If the merchandise is to be transferred after arrival at the selected port of exportation, the procedure prescribed in § 18.3(d) shall be followed. The provisions of §§ 18.23 and 18.24 shall also be followed in applicable cases.
+
+(d) The bonded carrier shall cause the merchandise to be exported and provide such evidence of exportation as required by the port director under § 113.55 of this chapter within 30 days of exportation.
+
+[28 FR 14755, Dec. 31, 1963, as amended by T.D. 71-70, 36 FR 4489, Mar. 6, 1971; T.D. 82-116, 47 FR 27262, June 24, 1982; T.D. 84-213, 49 FR 41169, Oct. 19, 1984]

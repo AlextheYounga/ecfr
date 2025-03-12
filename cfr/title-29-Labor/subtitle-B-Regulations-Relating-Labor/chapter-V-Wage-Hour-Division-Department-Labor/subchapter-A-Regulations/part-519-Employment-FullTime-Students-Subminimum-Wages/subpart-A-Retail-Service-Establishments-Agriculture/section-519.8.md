@@ -1,0 +1,3 @@
+##### § 519.8 Amendment or replacement of a full-time student certificate. #####
+
+In the absence of an objection by the employer (which may be resolved in the manner provided in part 528 of this chapter), the authorized officer upon his/her own motion may amend the provisions of a certificate when it is necessary by reason of the amendment of these regulations, or may withdraw a certificate and issue a replacement certificate when necessary to correct omissions or apparent defects in the original certificate.

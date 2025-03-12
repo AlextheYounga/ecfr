@@ -1,0 +1,5 @@
+##### § 300.335 Bottom fishing. #####
+
+(a) Bottom fishing may be permitted on the high seas when authorized by international conservation and management measures recognized by the United States. For bottom fishing activity not subject to international conservation measures recognized by the United States, a person who seeks to engage in such fishing must request authorization of a new high seas fishery as described in § 300.334(e) and then, if the fishery is authorized, must obtain all applicable permits including a high seas fishing permit issued under § 300.333. NMFS may specify conditions and restrictions in the permit to mitigate adverse impacts on VMEs, which may include the types of conditions that have been adopted in relevant RFMO measures recognized by the United States.
+
+(b) *Permit.* To be permitted under this section, the owner or operator of a high seas fishing vessel must follow the procedures under § 300.334(e) or, if he or she seeks to change an existing permit, must follow the procedures under § 300.334(c).

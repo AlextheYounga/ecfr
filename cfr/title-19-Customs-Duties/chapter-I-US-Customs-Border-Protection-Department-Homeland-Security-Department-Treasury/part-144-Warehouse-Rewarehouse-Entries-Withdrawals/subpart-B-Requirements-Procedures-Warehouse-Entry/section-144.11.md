@@ -1,0 +1,11 @@
+##### § 144.11 Form of entry. #####
+
+(a) *Entry.* The documentation required by § 142.3 of this chapter shall be filed at the time of entry. If the entry summary, Customs Form 7501, or its electronic equivalent is filed at the time of entry for merchandise to be entered for warehouse, it shall serve as both the entry and the entry summary, and Customs Form 3461 or 7533, or their electronic equivalents, shall not be required. If the entry summary is not filed at the time of entry, it shall be filed within the time limit prescribed by § 142.12 of this chapter. If merchandise is released before the filing of the entry summary, the importer shall have a bond on file, as prescribed by § 142.4 of this chapter.
+
+(b) *Customs Form 7501, or its electronic equivalent.* The entry summary for merchandise entered for warehouse shall be executed in triplicate on Customs Form 7501, or its electronic equivalent appropriately modified, and shall include all of the statistical information required by § 141.61(e) of this chapter. The port director may require an extra copy or copies of Customs Form 7501, annotated “PERMIT” for use in connection with delivery of the merchandise to the bonded warehouse.
+
+(c) *Designation of warehouse.* The importer shall designate on the entry summary, Customs Form 7501, or its electronic equivalent the bonded warehouse in which he desires his merchandise deposited.
+
+(d) *Specification list.* When packages which are not uniform in contents, quantities, values, or rates of duties are grouped together as one item on an entry summary, a specification list (original only) shall be furnished with the entry summary, showing separately opposite the marks or numbers of each package, the quantity of each class of merchandise, the entered value of each class, and the rates of duty claimed for each. However, a specification list is not needed if one withdrawal is to be filed for all the merchandise covered by the entry summary.
+
+[T.D. 79-221, 44 FR 46828, Aug. 9, 1979, as amended by T.D. 84-129, 49 FR 23168, June 5, 1984; CBP Dec. 15-14, 80 FR 61290, Oct. 13, 2015]

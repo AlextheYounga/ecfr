@@ -1,0 +1,3 @@
+##### § 780.101 Matters discussed in this subpart. #####
+
+Section 3(f) defines “agriculture” as this term is used in the Act. Those principles and rules which govern the interpretation of the meaning and application of the Act's definition of “agriculture” in section 3(f) and of the terms used in it are set forth in this subpart B. Included is a discussion of the application of the definition in section 3(f) to the employees of farmers' cooperative associations. In addition, the official interpretations of section 3(f) of the Act and the terms which appear in it are to be taken into consideration in determining the meaning intended by the use of like terms in particular related exemptions which are provided by the Act.

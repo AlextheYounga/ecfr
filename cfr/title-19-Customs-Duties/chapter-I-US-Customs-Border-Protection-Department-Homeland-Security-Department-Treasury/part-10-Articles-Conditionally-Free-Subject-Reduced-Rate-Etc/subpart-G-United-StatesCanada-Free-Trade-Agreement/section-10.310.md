@@ -1,0 +1,9 @@
+##### § 10.310 Election to average for motor vehicles. #####
+
+(a) *Election.* In determining whether a motor vehicle is originating for purposes of the preferences under the Agreement or a Canadian article under the Automotive Products Trade Act of 1965 (APTA), a manufacturer may elect to average, over its 12-month financial year, its calculation of the value-content requirement for vehicles of the same class or sister vehicles which are assembled in the same plant as provided for in the Agreement. A manufacturer must declare its election to average before the importation of any vehicles produced within the identified 12-month period. The election to average is subject to the conditions and requirements set forth in §§ 10.310 and 10.311.
+
+(b) *Effect of election.* An election to average shall be binding at the time of the first entry of vehicles for which the election has been made and shall remain binding for the plant for the entire period covered by the election. If a manufacturer's annual report, required by § 10.311, does not verify the claim that the vehicles are originating goods under the Agreement or Canadian articles under APTA, or if a manufacturer otherwise fails to comply with the reporting requirements, entries of the vehicles identified in the averaging declaration will be subject to liquidation in accordance with the rate of duty which would otherwise apply.
+
+(c) *Election in lieu of certificate of origin.* In lieu of the Exporter's Certificate of Origin required in § 10.307(c), an importer of vehicles covered by an election to average under this section may have its claim for preference based on a copy of the declaration of election.
+
+[T.D. 89-3, 53 FR 51766, Dec. 23, 1988, as amended by T.D. 92-8, 57 FR 2455, Jan. 22, 1992]

@@ -1,0 +1,13 @@
+##### § 135.40 Providing other economic opportunities. #####
+
+(a) *General.* In accordance with the findings of the Congress, as stated in section 3, that other economic opportunities offer an effective means of empowering low-income persons, a recipient is encouraged to undertake efforts to provide to low-income persons economic opportunities other than training, employment, and contract awards, in connection with section 3 covered assistance.
+
+(b) *Other training and employment related opportunities.* Other economic opportunities to train and employ section 3 residents include, but need not be limited to, use of “upward mobility”, “bridge” and trainee positions to fill vacancies; hiring section 3 residents in management and maintenance positions within other housing developments; and hiring section 3 residents in part-time positions.
+
+(c) *Other business related economic opportunities.* (l) A recipient or contractor may provide economic opportunities to establish, stabilize or expand section 3 business concerns, including micro-enterprises. Such opportunities include, but are not limited to the formation of section 3 joint ventures, financial support for affiliating with franchise development, use of labor only contracts for building trades, purchase of supplies and materials from housing authority resident-owned businesses, purchase of materials and supplies from PHA resident-owned businesses and use of procedures under 24 CFR part 963 regarding HA contracts to HA resident-owned businesses. A recipient or contractor may employ these methods directly or may provide incentives to non-section 3 businesses to utilize such methods to provide other economic opportunities to low-income persons.
+
+(2) A *section 3 joint venture* means an association of business concerns, one of which qualifies as a section 3 business concern, formed by written joint venture agreement to engage in and carry out a specific business venture for which purpose the business concerns combine their efforts, resources, and skills for joint profit, but not necessarily on a continuing or permanent basis for conducting business generally, and for which the section 3 business concern:
+
+(i) Is responsible for a clearly defined portion of the work to be performed and holds management responsibilities in the joint venture; and
+
+(ii) Performs at least 25 percent of the work and is contractually entitled to compensation proportionate to its work.

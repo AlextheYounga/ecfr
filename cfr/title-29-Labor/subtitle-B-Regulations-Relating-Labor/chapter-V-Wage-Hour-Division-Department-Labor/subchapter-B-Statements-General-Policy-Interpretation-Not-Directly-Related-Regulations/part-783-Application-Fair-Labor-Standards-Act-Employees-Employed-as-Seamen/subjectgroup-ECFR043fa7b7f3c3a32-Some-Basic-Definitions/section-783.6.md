@@ -1,0 +1,3 @@
+##### § 783.6 Definitions of terms used in the Act. #####
+
+The meaning and application of the provisions of law discussed in this part depend in large degree on the definitions of terms used in these provisions. The Act itself defines some of these terms. Others have been defined and construed in decisions of the courts. In the following sections some of these basic definitions are set forth for ready reference in connection with the part's discussion of the various provisions in which they appear. These definitions and their application are further considered in other statements of interpretations to which reference is made, and in the sections of this part where the particular provisions containing the defined terms are discussed.

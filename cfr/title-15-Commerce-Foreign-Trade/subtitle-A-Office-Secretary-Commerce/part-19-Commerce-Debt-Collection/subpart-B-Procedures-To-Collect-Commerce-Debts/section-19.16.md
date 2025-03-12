@@ -1,0 +1,5 @@
+##### § 19.16 When will Commerce entities refer Commerce debts to the Department of Justice? #####
+
+(a) *Compromise or suspension or termination of collection activity.* Commerce entities shall refer Commerce debts having a principal balance over $100,000, or such higher amount as authorized by the Attorney General, to the Department of Justice for approval of any compromise of a Commerce debt or suspension or termination of collection activity. *See* §§ 19.7 and 19.8 of this part; 31 CFR 902.1; 31 CFR 903.1.
+
+(b) *Litigation.* Commerce entities shall promptly refer to the Department of Justice for litigation delinquent Commerce debts on which aggressive collection activity has been taken in accordance with this part and that should not be compromised, and on which collection activity should not be suspended or terminated. *See* 31 CFR part 904. Commerce entities may authorize the Bureau of the Fiscal Service to refer to the Department of Justice for litigation those delinquent Commerce debts that have been transferred to the Bureau of the Fiscal Service under § 19.9 of this part.

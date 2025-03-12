@@ -1,0 +1,3 @@
+##### § 780.409 Employment “in connection with the operation or maintenance” is exempt. #####
+
+The irrigation exemption provided by section 13(b)(12) applies to “any employee employed \* \* \* in connection with the operation or maintenance of ditches, canals, reservoirs, or waterways” of an irrigation system which qualifies for the exemption. The employee, to be exempt, must be employed “in connection with the operation or maintenance” of the named facilities; other employees of the irrigation system, not employed in connection with the named activities, are not exempt. The exemption may apply to employees engaged in insect, rodent, and weed control along the canals and waterways of the irrigation system.

@@ -1,0 +1,3 @@
+##### § 1612.14 Judicial review. #####
+
+Any person may bring an action in a United States District Court to challenge or enforce the provisions of this part. Such action may be brought prior to or within sixty (60) calendar days after the meeting in question, except that if proper public announcement of the meeting is not made, the action may be instituted at any time within sixty (60) days after such announcement is made. An action may be brought where the agency meeting was held or in the District of Columbia.

@@ -1,0 +1,5 @@
+##### § 159.57 Merchandise affected by an American manufacturer's cause of action sustained by the court. #####
+
+Liquidation of entries for merchandise of the character covered by a decision of the Secretary of the Treasury published in accordance with § 175.24 of this chapter, entered or withdrawn for consumption after the date of publication of a decision of the U.S. Court of International Trade sustaining in whole or in part the cause of action of an American manufacturer, producer, or wholesaler, shall be suspended until final disposition is made of the cause of action. Upon final disposition, such entries shall be liquidated, or, if necessary, reliquidated in accordance with the final judicial decision.
+
+[T.D. 73-175, 38 FR 17482, July 2, 1973, as amended by T.D. 85-90, 50 FR 21430, May 24, 1985]

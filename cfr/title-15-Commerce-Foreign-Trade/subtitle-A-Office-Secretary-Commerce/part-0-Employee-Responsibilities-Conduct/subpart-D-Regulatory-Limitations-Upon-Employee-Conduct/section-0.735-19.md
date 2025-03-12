@@ -1,0 +1,3 @@
+##### § 0.735-19 Reporting undue influence to superiors. #####
+
+Each employee shall report to his superior any instance in which another person inside or outside the Federal Government uses or attempts to use undue influence to induce, by reason of his official Government position, former Government employment, family relationship, political position, or otherwise, the employee to do or omit to do any official act in derogation of his official duty.

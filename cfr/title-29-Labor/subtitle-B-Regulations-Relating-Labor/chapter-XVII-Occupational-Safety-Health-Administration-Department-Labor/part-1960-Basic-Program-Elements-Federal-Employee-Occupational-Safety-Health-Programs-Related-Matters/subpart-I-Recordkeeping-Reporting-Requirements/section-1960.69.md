@@ -1,0 +1,3 @@
+##### § 1960.69 Retention and updating of old forms. #####
+
+Federal agencies must retain copies of the recordkeeping records utilized under the system in effect prior to January 1, 2005 for five years following the year to which they relate and continue to provide access to the data as though these forms were the OSHA Form 300 Log and Form 301 Incident Report. Agencies are not required to update the old forms.

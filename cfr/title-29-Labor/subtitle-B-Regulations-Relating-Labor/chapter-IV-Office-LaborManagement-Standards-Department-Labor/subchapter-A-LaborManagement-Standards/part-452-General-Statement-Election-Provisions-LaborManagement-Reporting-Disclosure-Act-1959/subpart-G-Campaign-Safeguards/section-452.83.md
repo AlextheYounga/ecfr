@@ -1,0 +1,3 @@
+##### § 452.83 Enforcement of campaign safeguards. #####
+
+Certain of the safeguards of section 401(c) are enforceable at the suit of any bona fide candidate. This special statutory right to sue is limited to the distribution of campaign literature by the labor organization and the forbearance of such organization from discrimination among candidates with respect to the use of membership lists. Of course, all title IV safeguards, including those discussed in this paragraph, are subject to enforcement as provided in section 402. It should be noted that the right of a bona fide candidate to sue in the circumstances described herein is limited to the period prior to election. After the election, the only remedy would be through a suit by the Secretary under section 402.

@@ -1,0 +1,5 @@
+##### § 4.120 Contracts for public utility services. #####
+
+The Act, in paragraph (5) of section 7, exempts from its provisions “any contract for public utility services, including electric light and power, water, steam, and gas.” This exemption is applicable to contracts for such services with companies whose rates therefor are regulated under State, local, or Federal law governing operations of public utility enterprises. Contracts entered into with public utility companies to furnish services through the use of service employees, other than those subject to such rate regulation, are not exempt from the Act. Among the contracts included in the exemption would be those between Federal electric power marketing agencies and investor-owned electric utilities, Rural Electrification Administration cooperatives, municipalities and State agencies engaged in the transmission and sale of electric power and energy.
+
+(See H. Rept. No. 948, 89th Cong., 1st sess., p. 4)

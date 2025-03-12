@@ -1,0 +1,23 @@
+##### § 210.56 Notice accompanying service copies. #####
+
+(a) Each service copy of the complaint and motion for temporary relief shall be accompanied by a notice containing the following text:
+
+Notice is hereby given that the attached complaint and motion for temporary relief will be filed with the U.S. International Trade Commission in Washington, DC on \_\_\_\_\_\_\_\_, 20\_\_. The filing of the complaint and motion will not institute an investigation on that date, however, nor will it begin the period for filing responses to the complaint and motion pursuant to 19 CFR 210.13 and 210.59.
+
+Upon receipt of the complaint, the Commission will examine the complaint for sufficiency and compliance with 19 CFR 210.4, 210.5, 210.8, and 210.12. The Commission's Office of Unfair Import Investigations will conduct informal investigatory activity pursuant to 19 CFR 210.9 to identify sources of relevant information and to assure itself of the availability thereof. The motion for temporary relief will be examined for sufficiency and compliance with 19 CFR 201.8, 210.4, 210.5, 210.52, 210.53(a) (if applicable), 210.54, 210.55, and 210.56, and will be subject to the same type of preliminary investigative activity as the complaint.
+
+The Commission generally will determine whether to institute an investigation on the basis of the complaint and whether to provisionally accept the motion for temporary relief within 35 days after the complaint and motion are filed or, if the motion is filed after the complaint, within 35 days after the motion is filed—unless the 35-day deadline is extended pursuant to 19 CFR 210.53, 210.54, 210.55(b), 210.57, or 210.58. If the Commission determines to institute an investigation and provisionally accept the motion, the motion will be assigned to a Commission administrative law judge for issuance of an initial determination in accordance with 19 CFR 210.66. See 19 CFR 210.10 and 210.58.
+
+If the Commission determines to conduct an investigation of the complaint and motion for temporary relief, the investigation will be formally instituted on the date the Commission publishes a notice of investigation in the Federal Register pursuant to 19 CFR 210.10(b). If an investigation is instituted, copies of the complaint, the notice of investigation, and the Commission's Rules of Practice and Procedure (19 CFR Part 210) will be served on each respondent by the Commission pursuant to 19 CFR 210.11(a). Responses to the complaint, the notice of investigation, and the motion for temporary relief must be filed within 10 days after Commission service thereof, and must comply with 19 CFR 201.8, 210.4, 210.5, 210.13, and 210.59. See also 19 CFR 201.14 and 210.6 regarding computation of the 10-day response period.
+
+If, after reviewing the complaint and motion for temporary relief, the Commission determines not to institute an investigation, the complaint and motion will be dismissed and the Commission will provide written notice of that decision and the reasons therefor to the complainant and all proposed respondents pursuant to 19 CFR 210.10.
+
+For information concerning the filing and processing of the complaint and its treatment, and to ask general questions concerning section 337 practice and procedure, contact the Office of Unfair Import Investigations, U.S. International Trade Commission, 500 E Street SW., Room 401, Washington, DC 20436, telephone 202-205-2560. Such inquiries will be referred to the Commission investigative attorney assigned to the complaint. (See also the Commissions's Rules of Practice and Procedure set forth in 19 CFR Part 210.)
+
+To learn the date that the Commission will vote on whether to institute an investigation and the publication date of the notice of investigation (if the Commission decides to institute an investigation), contact the Office of the Secretary, U.S. International Trade Commission, 500 E Street SW., room 112, Washington, DC 20436, telephone 202-205-2000.
+
+This notice is being provided pursuant to 19 CFR 210.56.
+
+(b) In the event that the complaint and motion for temporary relief are filed after the date specified in the above notice, the complainant must serve a supplementary notice to all proposed respondents and embassies stating the correct filing date. The supplementary notice shall be served by messenger, overnight delivery, or equivalent means. The complainant shall file a certificate of service and a copy of the supplementary notice with the Commission.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38326, July 7, 2008; 78 FR 23485, Apr. 19, 2013]

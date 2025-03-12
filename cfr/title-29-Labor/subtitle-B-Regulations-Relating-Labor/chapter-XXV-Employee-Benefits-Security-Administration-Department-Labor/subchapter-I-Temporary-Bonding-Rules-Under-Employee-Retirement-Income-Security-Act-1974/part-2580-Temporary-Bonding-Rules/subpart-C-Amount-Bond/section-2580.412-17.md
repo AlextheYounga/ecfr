@@ -1,0 +1,3 @@
+##### § 2580.412-17 Bonds over $500,000. #####
+
+The Labor-Management Services Administrator, after due notice and opportunity for hearing to all interested parties, and after consideration of the record, may prescribe an amount in excess of $500,000, which in no event shall exceed 10 per centum of the funds “handled.” Any requirement for bonding in excess of $500,000 shall be according to such other regulations as may be prescribed.

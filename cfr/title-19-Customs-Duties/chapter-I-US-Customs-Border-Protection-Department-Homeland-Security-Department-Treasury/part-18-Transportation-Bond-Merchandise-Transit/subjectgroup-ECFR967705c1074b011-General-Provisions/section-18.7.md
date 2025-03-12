@@ -1,0 +1,9 @@
+##### § 18.7 Lading for exportation, verification of. #####
+
+(a) Promptly, but no more than 2 working days, after arrival of any portion of the in-bond shipment at the port of exportation, the delivering carrier shall surrender the in-bond manifest (the in-bond document and any related carnet) to the port director as notice of arrival of the merchandise. If the in-bond manifest is lost in transit, the in-bond carrier shall report the arrival of the merchandise within the prescribed period and shall be responsible for obtaining copies of the original in-bond manifest. Failure to surrender the in-bond manifest or report the arrival of bonded merchandise within the prescribed period shall constitute an irregular delivery and the initial bonded carrier shall be subject to applicable penalties (see § 18.8).
+
+(b) The port director shall require only such supervision of the lading for exportation of merchandise covered by an entry or withdrawal for exportation or for transportation and exportation as is reasonably necessary to satisfy him that the merchandise has been laden on the exporting conveyance.
+
+(c) Whenever the circumstances warrant, and occasionally in any event, port directors shall request the Office of Enforcement to check export entries and withdrawals against the records of the exporting carriers. Such check or verification shall include an examination of the carrier's records of claims and settlement of export freight charges and any other records which may relate to the transaction. The exporting carrier shall maintain these records for 5 years from the date of exportation of the merchandise.
+
+[28 FR 14755, Dec. 31, 1963, as amended by T.D. 79-159, 44 FR 31967, June 4, 1979; T.D. 84-212, 49 FR 39047, Oct. 3, 1984; T.D. 91-77, 56 FR 46114, Sept. 10, 1991; T.D. 00-22, 65 FR 16517, Mar. 29, 2000; CBP Dec. 08-25, 73 FR 40725, July 16, 2008]

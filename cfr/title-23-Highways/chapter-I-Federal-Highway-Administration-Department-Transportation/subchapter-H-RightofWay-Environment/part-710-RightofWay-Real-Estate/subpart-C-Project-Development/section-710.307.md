@@ -1,0 +1,5 @@
+##### § 710.307 Construction advertising. #####
+
+(a) The grantee must manage real property acquired for a project until it is required for construction. Except for properties acquired under the early acquisition provisions of 23 CFR 710.501(e), clearance of improvements can be scheduled during the acquisition phase of the project using sale/removal agreements, separate demolition contracts, or be included as a work item in the construction contract. The grantee shall develop ROW availability statements and certifications related to project acquisitions as described in 23 CFR 635.309.
+
+(b) The FHWA-SDOT Stewardship/Oversight Agreement will specify SDOT responsibility for the review and approval of the ROW availability statements and certifications in accordance with applicable law. Generally, for non-National Highway System projects, the SDOT has full responsibility for determining that right-of-way is available for construction. For non-SDOT grantees, FHWA will be responsible for the review and approval.

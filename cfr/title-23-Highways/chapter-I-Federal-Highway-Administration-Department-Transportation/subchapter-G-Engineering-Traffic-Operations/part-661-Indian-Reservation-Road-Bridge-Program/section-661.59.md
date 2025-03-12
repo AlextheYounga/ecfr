@@ -1,0 +1,3 @@
+##### § 661.59 What should be done with a deficient BIA owned IRR bridge if the Indian Tribe does not support the project? #####
+
+The BIA should notify the Tribe and encourage the Tribe to develop and submit an application package to FHWA for the rehabilitation or replacement of the bridge. For safety of the motoring public, if the Tribe decides not to pursue the bridge project, the BIA shall work with the Tribe to either reduce the bridge's load rating or close the bridge, and remove it from the IRR inventory in accordance with 25 CFR part 170 (170.813).

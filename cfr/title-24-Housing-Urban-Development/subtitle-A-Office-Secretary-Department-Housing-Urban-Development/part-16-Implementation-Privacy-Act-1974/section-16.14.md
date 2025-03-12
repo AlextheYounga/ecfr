@@ -1,0 +1,7 @@
+##### § 16.14 General exemptions. #####
+
+(a) Individuals may not have access to records maintained by the Department but which were provided by another agency which has determined by regulation that such information is subject to general exemption under 5 U.S.C. 552a(j). If such exempt records are within a request for access, the Department will advise the individual of their existence and of the name and address of the source agency. For any further information concerning the record and the exemption, the individual must contact that source agency.
+
+(b) The Secretary of Housing and Urban Development has determined that the Office of the Assistant Inspector General for Investigation performs, as its principal function, activities pertaining to the enforcement of criminal laws. The records maintained by that office in a system identified as “HUD/DEPT-24, Investigation Files,” primarily consist of information compiled for the purpose of criminal investigations and are associated with identifiable individuals. Therefore, the Secretary has determined that this system of records shall be exempt, consistent with 5 U.S.C. 552a(j)(2), from all requirements of the Privacy Act except 5 U.S.C. 552a (b), (c) (1) and (2), (e)(4) (A) through (F), (e) (6), (7), (9), (10), and (11), and (i) unless elsewhere exempted.
+
+[40 FR 39729, Aug. 28, 1975, as amended at 49 FR 20486, May 15, 1984]

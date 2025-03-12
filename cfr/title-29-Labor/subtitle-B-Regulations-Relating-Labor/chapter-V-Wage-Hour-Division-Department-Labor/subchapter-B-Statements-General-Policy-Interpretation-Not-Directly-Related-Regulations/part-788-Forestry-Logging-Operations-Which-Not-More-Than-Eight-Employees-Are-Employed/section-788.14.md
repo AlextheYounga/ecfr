@@ -1,0 +1,3 @@
+##### § 788.14 Number employed in other than specified operations. #####
+
+The exemption is available to an employer, however, even if he has a total of nine or more employees, if only eight of them or less are employed in the named operations. Thus, if such an employer employs only eight employees in the named operations and others in operations not named in the exemption, such as sawmill operations, the exemption is not defeated because of the fact that he employs more than eight employees altogether. It will not apply, however, to those engaged in the operations not named in the exemption.

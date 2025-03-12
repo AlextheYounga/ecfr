@@ -1,0 +1,3 @@
+##### § 9.8 Amendment or revision of voluntary energy conservation specifications. #####
+
+The Secretary may by order amend or revise any Specification published under § 9.4. The procedure applicable to the establishment of a Specification under § 9.4 shall be followed in amending or revising such Specification. Such amendment or revision shall not apply to appliances or equipment manufactured prior to the effective date of the amendment or revision.

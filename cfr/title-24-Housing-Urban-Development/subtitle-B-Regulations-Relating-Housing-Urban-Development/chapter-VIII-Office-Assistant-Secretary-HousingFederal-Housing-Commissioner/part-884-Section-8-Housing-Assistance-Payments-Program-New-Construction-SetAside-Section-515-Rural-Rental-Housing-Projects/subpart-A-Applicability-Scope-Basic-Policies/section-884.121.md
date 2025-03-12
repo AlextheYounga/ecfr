@@ -1,0 +1,3 @@
+##### § 884.121 Rights of owner if PHA defaults under agreement (private-owner/PHA projects). #####
+
+The ACC and the Agreement shall contain a provision to the effect that in the event of failure of the PHA to comply with the Agreement with the Owner, the Owner shall have the right, if he is not in default, to demand that HUD determine, after notice to the PHA giving it a reasonable opportunity to take corrective action, whether a substantial default exists, and if HUD determines that such a default exists, that HUD assume the PHA's rights and obligations under the Agreement, and carry out the obligations of the PHA under the Agreement, including the obligation to enter into the Contract.

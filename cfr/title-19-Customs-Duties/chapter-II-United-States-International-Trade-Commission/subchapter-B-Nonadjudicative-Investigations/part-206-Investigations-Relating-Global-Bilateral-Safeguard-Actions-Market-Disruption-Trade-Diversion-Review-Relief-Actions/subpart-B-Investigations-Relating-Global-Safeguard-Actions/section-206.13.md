@@ -1,0 +1,3 @@
+##### § 206.13 Who may file a petition. #####
+
+A petition under this subpart B may be filed by an entity, including a trade association, firm, certified or recognized union, or group of workers, that is representative of a domestic industry producing an article like or directly competitive with a foreign article that is allegedly being imported into the United States in such increased quantities as to be a substantial cause of serious injury, or the threat thereof, to such domestic industry.

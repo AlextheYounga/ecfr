@@ -1,0 +1,3 @@
+##### § 780.911 Preparation for transportation. #####
+
+The “preparation for transportation” of fruits or vegetables includes only those activities which are necessary to prepare the fruits or vegetables for transportation from the farm to the places described in section 13(b)(16). These preliminary activities on the farm will vary with the commodity involved, with the means of the transportation to be used, and with the nature of operations to be performed on the commodity after delivery.

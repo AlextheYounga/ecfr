@@ -1,0 +1,9 @@
+##### § 780.714 Employees employed “in such operations” to be counted. #####
+
+(a) The five-employee limitation on the exemption for country elevators relates to the number of employees employed in the establishment “in such operations.” This means that the employees to be counted include those employed in, and do not include any who are not employed in, the operations of the establishment commonly recognized as a country elevator, including the operations of such an establishment in selling products and services used in the operation of a farm, as previously explained.
+
+(b) In some circumstances, an employee employed in an establishment commonly recognized as a country elevator may, during his workweek, be employed in work which is not part of the operations of the elevator establishment. This would be true, for example, in the case of an employee who spends his entire workweek in the construction of an overflow warehouse for the elevator. Such an employee would not be counted in that workweek because constructing a warehouse is not part of the operations of the country elevator but is an entirely distinct activity.
+
+(c) Employees employed by the same employer in a separate establishment in which he is engaged in a different business, and not employed in the operations of the elevator establishment, would not be counted.
+
+(d) Employees not employed by the elevator establishment who come there sporadically, occasionally, or casually in the course of their duties for other employers are not employed in the operations of the establishment commonly recognized as a country elevator and would not be counted in determining whether the five-employee limitation is exceeded in any workweek. Examples of such employees are employees of a restaurant who bring food and beverages to the elevator employees, and employees of other employers who make deliveries to the establishment.

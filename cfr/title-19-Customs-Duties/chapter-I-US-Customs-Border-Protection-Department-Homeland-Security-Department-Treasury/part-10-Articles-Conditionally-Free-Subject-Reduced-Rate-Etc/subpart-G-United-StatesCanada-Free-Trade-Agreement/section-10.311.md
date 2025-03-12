@@ -1,0 +1,9 @@
+##### § 10.311 Documentation for election to average for motor vehicles. #####
+
+A manufacturer who elects to average for motor vehicles shall submit a declaration of election to average, quarterly reports, and an annual report in the form and manner as follows:
+
+(a) *Declaration of election.* A declaration of election to average, signed by an authorized company official, shall be submitted by the manufacturer to the U.S. Customs and Border Protection, Office of International Trade, Regulatory Audit, Detroit, Michigan 48226-2568 on CBP Form 355, Declaration of Election to Average.
+
+(b) *Quarterly Report.* A quarterly report shall be submitted to the Office of International Trade, Regulatory Audit, at the above address, on CBP Form 356, Vehicle Cost Report (Quarterly), within 30 days after the end of each quarter. In lieu of the CBP Form 356, the manufacturer may submit the information required on the form in an approved computerized format or such other format as is approved by the U.S. Customs and Border Protection, Office of International Trade, Regulatory Audit, Detroit, Michigan 48226-2568. Alternative formats must contain the same information set forth on the CBP Form 356. Negative quarterly reports are required.
+
+(c) *Annual Report.* An annual report shall be submitted to the U.S. Customs and Border Protection, Office of International Trade, Regulatory Audit, Detroit, Michigan 48226-2568, on CBP Form 357, Vehicle Cost Report (Annual), within 90 days of the end of the financial year identified in the Election to Average, CBP Form 355. In lieu of the CBP Form 357, Vehicle Cost Report (Annual), the manufacturer may submit the information required on the form in an approved computerized format or such other format as is approved by the U.S. Customs and Border Protection, Office of International Trade, Regulatory Audit, Detroit, Michigan 48226-2568. Alternative formats must contain the same information set forth on CBP Form 357.

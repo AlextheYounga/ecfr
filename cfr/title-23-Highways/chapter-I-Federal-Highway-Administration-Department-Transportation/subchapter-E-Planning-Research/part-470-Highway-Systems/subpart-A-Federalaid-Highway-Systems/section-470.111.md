@@ -1,0 +1,13 @@
+##### § 470.111 Interstate System procedures. #####
+
+(a) Proposals for system actions on the Interstate System shall include a route description and a statement of justification. Proposals shall also include statements regarding coordination with adjoining States on State-line connections, with responsible local officials, and with officials of areas under Federal jurisdiction.
+
+(b) Proposals for Interstate or future Interstate designation under 23 U.S.C. 103(c)(4)(A) or (B), as logical additions or connections, shall consider the criteria contained in appendix A of this subpart. For designation as a part of the Interstate system, 23 U.S.C. 103(c)(4)(A) requires that a highway meet all the standards of a highway on the Interstate System, be a logical addition or connection to the Interstate System, and have the affirmative recommendation of the State or States involved. For designation as a future part of the Interstate System, 23 U.S.C. 103(c)(4)(B) requires that a highway be a logical addition or connection to the Interstate System, have the affirmative recommendation of the State or States involved, and have the written agreement of the State or States involved that such highway will be constructed to meet all the standards of a highway on the Interstate System within twenty-five years of the date of the agreement between the FHWA Administrator and the State or States involved. Such highways must also be on the National Highway System.
+
+(c) Routes proposed for Interstate designation under section 332(a)(2) of the NHS Designation Act of 1995 (NHS Act) shall be constructed to Interstate standards and connect to the Interstate System. Proposals shall consider the criteria contained in appendix B of this subpart.
+
+(d) Proposals for Interstate route numbering shall be submitted by the State transportation agency to the Route Numbering Committee of the American Association of State Highway and Transportation Officials.
+
+(e) Signing of corridors federally designated as future Interstate routes can follow the criteria contained in appendix C of this subpart. No law, rule, regulation, map, document, or other record of the United States, or of any State or political subdivision thereof, shall refer to any highway under 23 U.S.C. 103(c), nor shall any such highway be signed or marked, as a highway on the Interstate System until such time as such highway is constructed to the geometric and construction standards for the Interstate System and has been designated as a part of the Interstate System.
+
+[62 FR 33355, June 19, 1997, as amended at 76 FR 6691, Feb. 8, 2011]

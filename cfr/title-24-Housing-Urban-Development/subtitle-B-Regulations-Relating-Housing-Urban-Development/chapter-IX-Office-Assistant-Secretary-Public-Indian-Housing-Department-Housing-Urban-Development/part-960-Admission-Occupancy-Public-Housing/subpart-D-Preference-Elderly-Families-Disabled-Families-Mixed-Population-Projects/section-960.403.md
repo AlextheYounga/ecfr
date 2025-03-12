@@ -1,0 +1,5 @@
+##### § 960.403 Applicability. #####
+
+(a) This subpart applies to all dwelling units in mixed population projects (as defined in § 960.405), or portions of mixed population projects, assisted under the U.S. Housing Act of 1937. These projects formerly were known as elderly projects.
+
+(b) This subpart does not apply to section 23 and section 10(c) leased housing projects or the section 23 Housing Assistance Payments Program where the owners enter into leases directly with the tenants, or to the Section 8 Housing Assistance Payments Program, the Low-Rent Housing Homeownership Opportunities Program (Turnkey III), the Mutual Help Homeownership Opportunities Program, or to Indian Housing Authorities. (For applicability to Indian Housing Authorities, see part 905 of this chapter.) Additionally, this subpart is not applicable to projects designated for elderly families or designated for disabled families in accordance with 24 CFR part 945.

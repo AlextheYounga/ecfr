@@ -1,0 +1,3 @@
+##### § 780.1016 Use of evergreens and forest products. #####
+
+Harvesting of evergreens and other forest products is exempt only when these products will be “used in making such wreaths.” The phrase “used in making such wreaths” places a definite limitation on the purpose for which evergreens may be harvested under section 13(d). Harvesting of these materials for a use other than making wreaths is nonexempt. Also, such harvesting is nonexempt when the evergreens are used for wreathmaking by persons other than the homeworkers (see *Mitchell* v. *Hunt,* 263 F. 2d 913). For example, harvesting of evergreens for sale or distribution to an employer who uses them in his factory to make wreaths is not exempt.

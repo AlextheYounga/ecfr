@@ -1,0 +1,5 @@
+##### § 971.416 Approval of permit transfers. #####
+
+(a) The Administrator may transfer a permit after a written request by the permittee. After a permittee submits a transfer request to the Administrator, the proposed transferee will be deemed an applicant for a commercial recovery permit, and will be subject to the requirements and procedures of this part.
+
+(b) The Administrator will transfer a permit if the proposed transferee is a United States citizen and proposed commercial recovery activities meet the requirements of the Act and this part, and if the proposed transfer is in the public interest. The Administrator will presume that the transfer is in the public interest if it meets the requirements of the Act and this part. In case of mere change in the form or ownership of a permittee, the Administrator may waive relevant determinations for requirements for which no changes have occurred since the preceding application.

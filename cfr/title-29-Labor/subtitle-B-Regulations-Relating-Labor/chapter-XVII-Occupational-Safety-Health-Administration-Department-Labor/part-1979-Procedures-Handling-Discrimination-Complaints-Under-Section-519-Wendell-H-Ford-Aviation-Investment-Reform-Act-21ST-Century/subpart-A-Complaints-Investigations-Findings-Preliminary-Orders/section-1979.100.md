@@ -1,0 +1,5 @@
+##### § 1979.100 Purpose and scope. #####
+
+(a) This part implements procedures under section 519 of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, 49 U.S.C. 42121 (“AIR21”), which provides for employee protection from discrimination by air carriers or contractors or subcontractors of air carriers because the employee has engaged in protected activity pertaining to a violation or alleged violation of any order, regulation, or standard of the Federal Aviation Administration or any other provision of Federal law relating to air carrier safety.
+
+(b) This part establishes procedures pursuant to AIR21 for the expeditious handling of discrimination complaints made by employees, or by persons acting on their behalf. These rules, together with those rules codified at 29 CFR part 18, set forth the procedures for submission of complaints under AIR21, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges, post-hearing administrative review, and withdrawals and settlements.

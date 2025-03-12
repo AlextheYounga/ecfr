@@ -1,0 +1,3 @@
+##### § 146.9 Permission of operator. #####
+
+An application for permission to admit merchandise into a zone, or to manipulate, manufacture, exhibit, or destroy merchandise in a zone must include the written concurrence of the operator, except where the regulations of this part provide for the making of application by the operator itself or where the operator files a separate specific or blanket application. The written concurrence of the operator in the removal of merchandise from a zone is not required because the merchandise is released by the port director to the operator for delivery from the zone, as provided in § 146.71 (a).

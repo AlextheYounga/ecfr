@@ -1,0 +1,3 @@
+##### § 401.19 Statements and payrolls. #####
+
+The regulations of the Secretary of Labor applicable to contractors and subcontractors (29 CFR part 3), made pursuant to the Copeland “Anti-Kickback” Act (18 U.S.C. 874), as amended, are made a part of the regulations in this part by reference. The Cooperator will comply with the regulations in this part and any amendments or modifications thereof, and the Cooperator's prime contractor will be responsible for the submission of statements required of subcontractors thereunder. The foregoing shall apply except as the Secretary of Labor may specifically provide for reasonable limitation, variations, tolerances, and exemptions.

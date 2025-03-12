@@ -1,0 +1,5 @@
+##### § 778.409 Provision for overtime pay. #####
+
+The section 7(f) contract must provide for compensation at not less than one and one-half times the specified regular rate for all hours worked in excess of the applicable maximum hours standard for the particular workweek. All excessive hours, not merely those covered by the guarantee, must be compensated at one and one-half times (or a higher multiple) of the specified regular rate. A contract which guaranteed a weekly salary of $169, specified a rate of $3.60 per hour, and provided that not less than one and one-half times such rate would be paid only for all hours up to and including 462/3 hours would not qualify under this section. The contract must provide for payment at time and one-half (or more) for all hours in excess of the applicable maximum hours standard in any workweek. A contract may provide a specific overtime rate greater than one and one-half times the specified rate, for example, double time. If it does provide a specific overtime rate it must provide that such rate will be paid for all hours worked in excess of the applicable maximum hours standard.
+
+[46 FR 7317, Jan. 23, 1981]

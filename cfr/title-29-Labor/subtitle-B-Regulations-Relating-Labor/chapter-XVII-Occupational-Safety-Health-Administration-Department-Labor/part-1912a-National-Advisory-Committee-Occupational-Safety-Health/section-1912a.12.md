@@ -1,0 +1,3 @@
+##### § 1912a.12 Charter. #####
+
+The Committee shall operate in accordance with its charter. In accordance with section 14(b)(2) of the Federal Advisory Committee Act, there shall be filed on behalf of the Committee a charter in accordance with section 9(c) thereof upon the expiration of each successive two-year period following December 28, 1970, the date of enactment of the Occupational Safety and Health Act.

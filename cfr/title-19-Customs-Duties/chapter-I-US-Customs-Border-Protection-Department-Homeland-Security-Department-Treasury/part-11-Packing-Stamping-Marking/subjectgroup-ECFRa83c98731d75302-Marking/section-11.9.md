@@ -1,0 +1,7 @@
+##### § 11.9 Special marking on certain articles. #####
+
+(a) No movement, case, or dial provided for in Chapter 91, Harmonized Tariff Schedule of the United States (HTSUS), shall be released for consumption until marked in exact compliance with the requirements of additional U.S. Note 4, Chapter 91. If any article so required to be marked is found not to be marked to indicate the country of origin, the 10 percent marking duty shall be assessed, unless such marking is accomplished or the merchandise is exported or destroyed under Customs supervision prior to the liquidation of the entry, in accordance with the provisions of 19 U.S.C. 1304(f).
+
+(b) The name of the manufacturer or purchaser which must appear on articles provided for Chapter 91, Harmonized Tariff Schedule of the United States (HTSUS), and specified in Additional U.S. Note 4, Chapter 91, may be either the actual name of the manufacturer or purchaser or a duly registered trade name under which such manufacturer or purchaser carries on his business. A trade-mark shall not be accepted as meeting any such special marking requirement unless it includes the full name of the manufacturer or purchaser. The term “Purchaser” as used in this paragraph means the purchaser in the United States by whom or for whose account the articles are imported.
+
+[28 FR 14701, Dec. 31, 1963, as amended by T.D. 89-1, 53 FR 51253, Dec. 21, 1988; T.D. 90-51, 55 FR 28190, July 10, 1990; T.D. 97-82, 62 FR 51770, Oct. 3, 1997; 62 FR 55512, Oct. 27, 1997]

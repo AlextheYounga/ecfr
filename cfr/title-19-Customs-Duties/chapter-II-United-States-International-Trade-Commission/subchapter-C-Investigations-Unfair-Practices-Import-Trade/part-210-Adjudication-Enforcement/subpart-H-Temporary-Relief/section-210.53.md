@@ -1,0 +1,5 @@
+##### § 210.53 Motion filed after complaint. #####
+
+(a) A motion for temporary relief may be filed after the complaint, but must be filed prior to the Commission determination under § 210.10 on whether to institute an investigation. A motion filed after the complaint shall contain the information, documents, and evidence described in § 210.52 and must also make a showing that extraordinary circumstances exist that warrant temporary relief and that the moving party was not aware, and with due diligence could not have been aware, of those circumstances at the time the complaint was filed. When a motion for temporary relief is filed after the complaint but before the Commission has determined whether to institute an investigation based on the complaint, the 35-day period allotted under § 210.58 for review of the complaint and informal investigatory activity will begin to run anew from the date on which the motion was filed.
+
+(b) A motion for temporary relief may not be filed after an investigation has been instituted.

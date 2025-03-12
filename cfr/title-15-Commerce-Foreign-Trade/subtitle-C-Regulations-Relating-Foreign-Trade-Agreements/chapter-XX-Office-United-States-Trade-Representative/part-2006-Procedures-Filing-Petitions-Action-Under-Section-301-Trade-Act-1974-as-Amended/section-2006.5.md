@@ -1,0 +1,5 @@
+##### § 2006.5 Consultations with the Foreign Government. #####
+
+(a) If the Trade Representative determines to initiate an investigation on the basis of a petition he shall, on behalf of the United States, request consultations with the foreign country concerned regarding the issues involved in such an investigation. In preparing United States presentations for consultations and dispute settlement proceedings, the Trade Representative shall seek information and advice from the petitioner and any appropriate private sector representatives, including committees established pursuant to section 135 of the Trade Act.
+
+(b) To ensure an adequate basis for consultation, the Trade Representative may, after consulting with the petitioner, delay requests for consultations for up to 90 days in order to verify or improve the petition. If consultations are delayed, the time limits referred to in § 2006.12 below shall be extended for the period of such delay.

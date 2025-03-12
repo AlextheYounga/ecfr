@@ -1,0 +1,3 @@
+##### § 90.22 Dissemination of program knowledge and assistance to workers. #####
+
+Whenever the Commission makes an affirmative finding under section 201(b) of the Act that increased imports are a substantial cause of serious injury or threat thereof with respect to an industry, the Secretary shall, to the extent feasible, make available to the workers in such industry full information about programs which may facilitate their adjustment to the import competition. He shall provide assistance to such workers in the preparation and processing of petitions and applications for program benefits.

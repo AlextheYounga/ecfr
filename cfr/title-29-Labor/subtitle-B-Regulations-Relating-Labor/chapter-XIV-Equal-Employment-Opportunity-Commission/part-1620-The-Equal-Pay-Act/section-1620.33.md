@@ -1,0 +1,11 @@
+##### § 1620.33 Recovery of wages due; injunctions; penalties for willful violations. #####
+
+(a) Wages withheld in violation of the Act have the status of unpaid minimum wages or unpaid overtime compensation under the FLSA. This is true both of the additional wages required by the Act to be paid to an employee to meet the equal pay standard, and of any wages that the employer should have paid an employee whose wages he reduced in violation of the Act in an attempt to equalize his or her pay with that of an employee of the opposite sex performing equal work, on jobs subject to the Act.
+
+(b) The following methods are provided under sections 16 and 17 of the FLSA for recovery of unpaid wages: The Commission may supervise payment of the back wages and may bring suit for back pay and an equal amount as liquidated damages. The employee may sue for back pay and an additional sum, up to the amount of back pay, as liquidated damages, plus attorney's fees and court costs. The employee may not bring suit if he or she has been paid back wages in full under supervision of the Commission, or if the Commission has filed suit under the Act to collect the wages due the employee. The Commission may also obtain a court injunction to restrain any person from violating the law, including the unlawful withholding by an employer of proper compensation. A 2-year statute of limitations applies to the recovery of unpaid wages, except that an action on a cause of action arising out of a willful violation may be commenced within 3 years after the cause of action accrued.
+
+(c) Willful violations of the Act may be prosecuted criminally and the violator fined up to $10,000. A second conviction for such a violation may result in imprisonment.
+
+(d) Violation of any provision of the Act by any person, including any labor organization or agent thereof, is unlawful, as provided in section 15(a) of the FLSA. Accordingly, any labor organization, or agent thereof, who violates any provision of the Act is subject to injunction proceedings in accordance with the applicable provisions of section 17 of the FLSA. Any such labor organization, or agent thereof, who willfully violates the provisions of section 15 is liable to the penalties set forth in section 16(a) of the FLSA.
+
+[46 FR 4888, Jan. 19, 1981. Redesignated at 51 FR 29819, Aug. 20, 1986]

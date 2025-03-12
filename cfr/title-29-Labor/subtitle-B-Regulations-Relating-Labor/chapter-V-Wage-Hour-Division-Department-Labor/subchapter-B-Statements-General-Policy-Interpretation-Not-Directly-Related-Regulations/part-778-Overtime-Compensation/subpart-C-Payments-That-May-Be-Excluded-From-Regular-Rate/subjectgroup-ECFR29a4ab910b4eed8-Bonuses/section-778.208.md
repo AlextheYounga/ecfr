@@ -1,0 +1,5 @@
+##### § 778.208 Inclusion and exclusion of bonuses in computing the “regular rate.” #####
+
+Section 7(e) of the Act requires the inclusion in the regular rate of all remuneration for employment except eight specified types of payments. Among these excludable payments are discretionary bonuses, gifts and payments in the nature of gifts on special occasions, contributions by the employer to certain welfare plans and payments made by the employer pursuant to certain profit-sharing, thrift and savings plans. These are discussed in §§ 778.211 through 778.214. Bonuses which do not qualify for exclusion from the regular rate as one of these types must be totaled in with other earnings to determine the regular rate on which overtime pay must be based. Bonus payments are payments made in addition to the regular earnings of an employee. For a discussion on the bonus form as an evasive bookkeeping device, see §§ 778.502 and 778.503.
+
+[33 FR 986, Jan. 26, 1968, as amended at 76 FR 18858, Apr. 5, 2011]

@@ -1,0 +1,5 @@
+##### § 65.15 List of communities submitting new technical data. #####
+
+This section provides a cumulative list of communities where modifications of the base flood elevation determinations have been made because of submission of new scientific or technical data. Due to the need for expediting the modifications, the revised map is already in effect and the appeal period commences on or about the effective date of the modified map. An interim rule, followed by a final rule, will list the revised map effective date, local repository and the name and address of the Chief Executive Officer of the community. The map(s) is (are) effective for both flood plain management and insurance purposes.
+
+[51 FR 30317, Aug. 25, 1986. Redesignated at 53 FR 16279, May 6, 1988, and further redesignated at 54 FR 33551, Aug. 15, 1989. Redesignated at 59 FR 53599, Oct. 25, 1994]Editorial Note:For references to FR pages showing lists of eligible communities, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

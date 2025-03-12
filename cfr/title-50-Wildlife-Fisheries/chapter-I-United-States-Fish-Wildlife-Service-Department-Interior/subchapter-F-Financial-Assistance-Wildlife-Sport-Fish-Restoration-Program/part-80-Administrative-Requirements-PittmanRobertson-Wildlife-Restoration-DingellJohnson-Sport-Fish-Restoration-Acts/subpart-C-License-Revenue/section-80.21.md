@@ -1,0 +1,3 @@
+##### § 80.21 What if a State diverts license revenue from the control of its fish and wildlife agency? #####
+
+The Director may declare a State to be in diversion if it violates the requirements of § 80.10 by diverting license revenue from the control of its fish and wildlife agency to purposes other than the agency's administration. The State is then ineligible to receive benefits under the relevant Act from the date the Director signs the declaration until the State resolves the diversion. Only the Director may declare a State to be in diversion, and only the Director may rescind the declaration.

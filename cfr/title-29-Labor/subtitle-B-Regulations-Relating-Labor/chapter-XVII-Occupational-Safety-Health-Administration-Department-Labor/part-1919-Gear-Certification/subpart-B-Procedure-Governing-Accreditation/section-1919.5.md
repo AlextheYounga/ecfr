@@ -1,0 +1,3 @@
+##### § 1919.5 Duration and renewal of accreditation. #####
+
+The period of accreditation shall not exceed three years. Applications for renewal of accreditation shall be made on the same form as described in § 1919.3. No accreditation shall expire until action on an application for renewal shall have been finally determined, provided that such application has been properly executed in accordance with § 1919.3 and filed with and received by the Assistant Secretary not less than 15 nor more than 60 days prior to the expiration date. A final determination means either the approval or initial denial of the application for renewal. The procedure specified in § 1919.4 shall be applicable to all applications for renewal.

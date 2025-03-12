@@ -1,0 +1,7 @@
+##### § 500.100 Vehicle safety obligations. #####
+
+(a) *General obligations.* Each farm labor contractor, agricultural employer and agricultural association which uses, or causes to be used, any vehicle to transport a migrant or seasonal agricultural worker shall ensure that such vehicle conforms to vehicle safety standards prescribed by the Secretary of Labor under the Act and with other applicable Federal and State safety standards. Each farm labor contractor, agricultural employer and agricultural association shall also ensure that each driver of any such vehicle has a currently valid motor vehicle operator's permit or license, as provided by applicable State law, to operate the vehicle.
+
+(b) *Proof of compliance with vehicle safety standards.* Prima facie evidence that safety standards have been met will be shown by the presence of a current State vehicle inspection sticker. Such sticker will not, however, relieve the farm labor contractor, agricultural employer or agricultural association from responsibility for maintaining the vehicle in accordance with § 500.104 or § 500.105, as applicable.
+
+(c) *Uses or causes to be used.* The term “uses or causes to be used” as set forth in paragraph (a) of this section does not include carpooling arrangements made by the workers themselves, using one of the workers' own vehicles. However, carpooling does not include any transportation arrangement in which a farm labor contractor participates or which is specifically directed or requested by an agricultural employer or an agricultural association.

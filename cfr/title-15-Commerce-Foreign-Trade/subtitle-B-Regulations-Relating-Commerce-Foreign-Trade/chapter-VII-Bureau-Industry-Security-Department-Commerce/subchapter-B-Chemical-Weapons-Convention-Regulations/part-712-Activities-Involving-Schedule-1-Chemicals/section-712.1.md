@@ -1,0 +1,3 @@
+##### § 712.1 Round to zero rule that applies to activities involving Schedule 1 chemicals. #####
+
+Facilities that produce, export or import mixtures containing less than 0.5% aggregate quantities of Schedule 1 chemicals (see supplement no. 1 to this part) as unavoidable by-products or impurities may round to zero and are not subject to the provisions of this part 712. Schedule 1 content may be calculated by volume or weight, whichever yields the lesser percent. Note that such mixtures may be subject to the regulatory requirements of other federal agencies.

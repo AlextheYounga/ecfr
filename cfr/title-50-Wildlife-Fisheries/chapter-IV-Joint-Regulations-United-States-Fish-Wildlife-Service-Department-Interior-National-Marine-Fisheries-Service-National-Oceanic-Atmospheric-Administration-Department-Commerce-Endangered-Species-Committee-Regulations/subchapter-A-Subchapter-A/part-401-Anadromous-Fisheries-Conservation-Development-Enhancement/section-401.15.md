@@ -1,0 +1,3 @@
+##### § 401.15 Record retention. #####
+
+All records of accounts and reports with supporting documentation thereto, as set forth in Attachment C of Federal Management Circular 74-7, will be retained by the Cooperator for a period of 3 years after submission of the final expenditure report on the project. Record retention for a period longer than 3 years is required if audit findings have not been resolved.

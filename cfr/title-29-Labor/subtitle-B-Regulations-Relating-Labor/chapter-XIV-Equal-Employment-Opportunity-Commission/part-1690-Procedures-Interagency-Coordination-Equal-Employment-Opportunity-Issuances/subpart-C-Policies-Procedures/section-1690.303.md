@@ -1,0 +1,3 @@
+##### § 1690.303 Consultation with affected agencies. #####
+
+At the start of consultation, the EEOC shall determine which other agencies would be affected by the proposed issuance, and the initiating agency shall consult with such agencies. Initiating agencies shall also consult with other agencies which claim that their internal equal employment opportunity or personnel programs are affected by proposed issuances otherwise directed at external equal employment opportunity efforts. Agencies may consult with any other agencies that they believe would be affected by the issuance. The consultation period shall be determined by the parties. During the consultation period, the EEOC shall seek to resolve any disputes with the initiating agency before publication.

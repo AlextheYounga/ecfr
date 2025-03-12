@@ -1,0 +1,9 @@
+##### § 719.19 Settlement. #####
+
+(a) *Settlements before issuance of a NOVA.* When the parties have agreed to a settlement of the case, the Director of the Office of Export Enforcement will recommend the settlement to the Secretary of State, forwarding a proposed settlement agreement and order, which, in accordance with 22 CFR 103.9(a), the Secretary of State will approve and sign if the recommended settlement is in accordance with applicable law.
+
+(b) *Settlements following issuance of a NOVA.* The parties may enter into settlement negotiations at any time during the time a case is pending before the ALJ. If necessary, the parties may extend applicable time limitations or otherwise request that the ALJ stay the proceedings while settlement negotiations continue. When the parties have agreed to a settlement of the case, the Office of Chief Counsel will recommend the settlement to the Secretary of State, forwarding a proposed settlement agreement and order, which, in accordance with 22 CFR 103.9(b), the Secretary will approve and sign if the recommended settlement is in accordance with applicable law.
+
+(c) *Settlement scope.* Any respondent who agrees to an order imposing any administrative sanction does so solely for the purpose of resolving the claims in the administrative enforcement proceeding brought under this part. This reflects the fact that the government officials involved have neither the authority nor the responsibility for initiating, conducting, settling, or otherwise disposing of criminal proceedings. That authority and responsibility are vested in the Attorney General and the Department of Justice.
+
+(d) *Finality.* Cases that are settled may not be reopened or appealed.

@@ -1,0 +1,5 @@
+##### § 10.151 Importations not over $800. #####
+
+Subject to the conditions in § 10.153 of this part, the port director shall pass free of duty and tax any shipment of merchandise, as defined in § 101.1 of this chapter, imported by one person on one day having a fair retail value, as evidenced by an oral declaration or the bill of lading (or other document filed as the entry) or manifest listing each bill of lading, in the country of shipment not exceeding $800, unless he has reason to believe that the shipment is one of several lots covered by a single order or contract and that it was sent separately for the express purpose of securing free entry therefor or of avoiding compliance with any pertinent law or regulation. Merchandise subject to this exemption shall be entered under the informal entry procedures (see subpart C, part 143, and §§ 128.24, 145.31, 148.12, and 148.62, of this chapter).
+
+[T.D. 94-51, 59 FR 30293, June 13, 1994, as amended by T.D. 95-31, 60 FR 18990, Apr. 14, 1995; T.D. 95-31, 60 FR 37875, July 24, 1995; T.D. 97-82, 62 FR 51769, Oct. 3, 1997; CBP Dec. No. 16-13, 81 FR 58833, Aug. 26, 2016]

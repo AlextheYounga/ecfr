@@ -1,0 +1,7 @@
+##### § 246.31 Procedures. #####
+
+(a) The local HUD office will notify in writing any local rent control board (hereinafter referred to as board) in the area in which the project is located that it is considering increasing the rents for a project within the scope of this subpart, and that the increases are expected to become effective after the expiration of thirty (30) days' notice to the tenants, subject to whatever rights a tenant may have under a lease. The local HUD office will also notify the board that, pursuant to this subpart, the Department has exclusive jurisdiction over the rents for the project.
+
+(b) After the increases have become effective, the local HUD office will furnish the board a schedule of the new rents that are being charged by HUD. Notice to the board of the increased rents does not confer upon the board a right to approve or disapprove of the Department's action, or to exercise jurisdiction over the implementation of the rent increases by the Department. The sole purpose of the notice is to inform the board of the lawful rents that may be charged for projects covered by this subpart.
+
+[40 FR 49318, Oct. 22, 1975. Redesignated at 44 FR 58506, Oct. 10, 1979, and at 49 FR 6713, Feb. 23, 1984]

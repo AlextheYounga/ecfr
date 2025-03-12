@@ -1,0 +1,5 @@
+##### § 520.402 How do I obtain authority to employ messengers, learners, or apprentices at subminimum wages? #####
+
+(a) Employers wishing to employ messengers, learners, or apprentices as defined in subpart C of this part at subminimum wages must apply for authority to do so from the Administrator at the Wage and Hour Division's Regional Office having administrative jurisdiction over the geographic area in which the employment is to take place. To obtain the address of the Regional Office which services your geographic area, please contact your local Wage and Hour Office (under “Department of Labor” in the blue pages of your local telephone book).
+
+(b) In the case of messengers, such application may be filed by an employer or group of employers. Preferential consideration will be given to applications filed by groups or organizations which are deemed to be representative of the interests of a whole industry or branch thereof.

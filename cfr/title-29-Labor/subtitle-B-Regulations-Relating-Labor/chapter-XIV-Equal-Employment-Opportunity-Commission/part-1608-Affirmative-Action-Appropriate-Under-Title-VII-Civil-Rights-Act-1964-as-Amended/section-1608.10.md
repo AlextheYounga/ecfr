@@ -1,0 +1,9 @@
+##### § 1608.10 Standard of review. #####
+
+(a) *Affirmative action plans or programs not specifically relying on these guidelines.* If, during the investigation of a charge of discrimination filed with the Commission, a respondent asserts that the action complained of was taken pursuant to an in accordance with a plan or program of the type described in these Guidelines, the Commission will determine whether the assertion is true, and if so, whether such a plan or program conforms to the requirements of these guidelines. If the Commission so finds, it will issue a determination of no reasonable cause and, where appropriate, will state that the determination constitutes a written interpretation or opinion of the Commission under section 713(b)(1). This interpretation may be relied upon by the respondent and asserted as a defense in the event that new charges involving similar facts and circumstances are thereafter filed against the respondent, which are based on actions taken pursuant to the affirmative action plan or program. If the Commission does not so find, it will proceed with the investigation in the usual manner.
+
+(b) *Reliance on these guidelines.* If a respondent asserts that the action taken was pursuant to and in accordance with a plan or program which was adopted or implemented in good faith, in conformity with, and in reliance upon these Guidelines, and the self analysis and plan are in writing, the Commission will determine whether such assertion is true. If the Commission so finds, it will so state in the determination of no reasonable cause and will advise the respondent that:
+
+(1) The Commission has found that the respondent is entitled to the protection of section 713(b)(1) of title VII; and
+
+(2) That the determination is itself an additional written interpretation or opinion of the Commission pursuant to section 713(b)(1).

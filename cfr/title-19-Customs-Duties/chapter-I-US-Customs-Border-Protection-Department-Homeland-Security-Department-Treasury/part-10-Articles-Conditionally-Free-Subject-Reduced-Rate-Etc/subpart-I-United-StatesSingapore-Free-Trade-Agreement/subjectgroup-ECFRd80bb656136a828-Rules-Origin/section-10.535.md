@@ -1,0 +1,7 @@
+##### § 10.535 Regional value content. #####
+
+(a) *General.* Where General Note 25(o), HTSUS, sets forth a rule that specifies a regional value content test for a good, the regional value content of such good must be calculated, at the choice of the person claiming the preferential tariff treatment for such good, on the basis of the build-down method or the build-up method described in paragraphs (b) and (c) of this section, unless otherwise specified in General Note 25(o), HTSUS.
+
+(b) *Build-down method.* Under the build-down method, the regional value content must be calculated on the basis of the formula RVC = ((AV −VNM)/AV) × 100, where RVC is the regional value content, expressed as a percentage; AV is the adjusted value; and VNM is the value of non-originating materials that are acquired and used by the producer in the production of the good.
+
+(c) *Build-up method.* Under the build-up method, the regional value content must be calculated on the basis of the formula RVC = (VOM /AV) × 100, where RVC is the regional value content, expressed as a percentage; AV is the adjusted value; and VOM is the value of originating materials that are acquired or self-produced and used by the producer in the production of the good.

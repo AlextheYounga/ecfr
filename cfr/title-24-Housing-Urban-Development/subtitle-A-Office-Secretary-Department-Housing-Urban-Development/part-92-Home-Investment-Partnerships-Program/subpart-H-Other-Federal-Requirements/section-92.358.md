@@ -1,0 +1,5 @@
+##### § 92.358 Consultant activities. #####
+
+No person providing consultant services in an employer-employee type relationship shall receive more than a reasonable rate of compensation for personal services paid with HOME funds. In no event, however, shall such compensation exceed the limits in effect under the provisions of any applicable statute (e.g., annual HUD appropriations acts which have set the limit at the equivalent of the daily rate paid for Level IV of the Executive Schedule, see the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1997, Pub. L. 104-204 (September 26, 1996)). Such services shall be evidenced by written agreements between the parties which detail the responsibilities, standards, and compensation. Consultant services provided under an independent contractor relationship are not subject to the compensation limitation of Level IV of the Executive Schedule.
+
+[62 FR 28930, May 28, 1997]

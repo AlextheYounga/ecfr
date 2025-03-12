@@ -1,0 +1,11 @@
+##### § 583.320 Site control. #####
+
+(a) *Site control.* (1) Where grant funds will be used for acquisition, rehabilitation, or new construction to provide supportive housing or supportive services, or where grant funds will be used for operating costs of supportive housing, or where grant funds will be used to provide supportive services except where an applicant will provide services at sites not operated by the applicant, an applicant must demonstrate site control before HUD will execute a grant agreement (*e.g.,* through a deed, lease, executed contract of sale). If such site control is not demonstrated within one year after initial notification of the award of assistance under this part, the grant will be deobligated as provided in paragraph (c) of this section.
+
+(2) Where grant funds will be used to lease all or part of a structure to provide supportive housing or supportive services, or where grant funds will be used to lease individual housing units for homeless persons who will eventually control the units, site control need not be demonstrated.
+
+(b) *Site change.* (1) A recipient may obtain ownership or control of a suitable site different from the one specified in its application. Retention of an assistance award is subject to the new site's meeting all requirements under this part for suitable sites.
+
+(2) If the acquisition, rehabilitation, acquisition and rehabilitation, or new construction costs for the substitute site are greater than the amount of the grant awarded for the site specified in the application, the recipient must provide for all additional costs. If the recipient is unable to demonstrate to HUD that it is able to provide for the difference in costs, HUD may deobligate the award of assistance.
+
+(c) *Failure to obtain site control within one year.* HUD will recapture or deobligate any award for assistance under this part if the recipient is not in control of a suitable site before the expiration of one year after initial notification of an award.

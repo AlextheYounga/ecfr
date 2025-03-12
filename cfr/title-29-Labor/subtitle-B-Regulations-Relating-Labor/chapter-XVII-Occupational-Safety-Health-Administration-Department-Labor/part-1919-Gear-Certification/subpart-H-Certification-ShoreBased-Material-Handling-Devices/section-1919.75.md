@@ -1,0 +1,3 @@
+##### § 1919.75 Determination of crane or derrick safe working loads and limitations in absence of manufacturer's data. #####
+
+(a) In the event neither manufacturer's data nor design data on safe working loads (including any applicable limitations) are obtainable, the safe working load ratings assigned shall be based on the owner's information and warranty that those so assigned are correct. Unit test certificates shall state the basis for any such safe working load assignment.

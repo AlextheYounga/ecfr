@@ -1,0 +1,3 @@
+##### § 780.518 Exempt processing operations. #####
+
+The processing operations under section 13(a)(14) include, but are not limited to, “drying, curing, fermenting, bulking, rebulking, sorting, grading, aging, and baling” of the shade-grown tobacco. As previously noted, these operations are exempt only if performed on shade-grown tobacco prior to the stemming process to prepare the tobacco for use as cigar wrapper tobacco.

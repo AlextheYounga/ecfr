@@ -1,0 +1,5 @@
+##### § 10.75 Wild animals and birds; zoological collections. #####
+
+When wild animals or birds are claimed to be free of duty under subheading 9810.00.70, Harmonized Tariff Schedule of the United States (HTSUS), (19 U.S.C. 1202), the port director may, at his discretion, require appropriate proof that the animals or birds were specially imported pursuant to negotiations conducted prior to importation for the delivery of animals or birds of a named species meeting agreed specifications of reasonable particularity and that they are intended at the time of importation for public exhibition in a collection maintained for scientific or educational purposes and not for sale or for use in connection with any enterprise conducted for profit. The fact that an animal or bird may have been sent on approval shall not preclude free entry under subheading 9810.00.70, HTSUS, when it is actually accepted as a part of the zoological collection and so exhibited.
+
+[T.D. 85-123, 50 FR 29953, July 23, 1985, as amended by T.D. 89-1, 53 FR 51250, Dec. 21, 1988; T.D. 97-82, 62 FR 51769, Oct. 3, 1997]

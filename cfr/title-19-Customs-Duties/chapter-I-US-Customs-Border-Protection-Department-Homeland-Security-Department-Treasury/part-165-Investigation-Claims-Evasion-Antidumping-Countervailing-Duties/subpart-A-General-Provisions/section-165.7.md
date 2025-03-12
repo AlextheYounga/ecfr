@@ -1,0 +1,5 @@
+##### § 165.7 Protection of public health and safety. #####
+
+(a) *Notification to CBP.* Any interested party, including an importer, must promptly notify CBP if it has knowledge or reason to suspect that the covered merchandise may pose a health or safety risk to U.S. consumers at any point during the proceedings described in this part.
+
+(b) *Transmission by CBP.* During the course of an investigation or administrative review of a determination as to evasion under this part, CBP will consider whether the covered merchandise may pose a health or safety risk to U.S. consumers and will take into account any notification received under paragraph (a) of this section. CBP will promptly transmit information to the appropriate Federal agencies for purposes of mitigating the risk and will exercise its administrative powers, as appropriate.

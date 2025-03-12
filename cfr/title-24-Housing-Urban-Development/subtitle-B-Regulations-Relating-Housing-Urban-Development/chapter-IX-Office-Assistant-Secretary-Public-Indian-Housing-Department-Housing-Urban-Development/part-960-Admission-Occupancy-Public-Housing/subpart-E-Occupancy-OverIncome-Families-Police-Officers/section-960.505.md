@@ -1,0 +1,5 @@
+##### § 960.505 Occupancy by police officers to provide security for public housing residents. #####
+
+(a) *Police officer.* For purpose of this subpart E, “police officer” means a person determined by the PHA to be, during the period of residence of that person in public housing, employed on a full-time basis as a duly licensed professional police officer by a Federal, State or local government or by any agency of these governments. An officer of an accredited police force of a housing agency may qualify.
+
+(b) *Occupancy in public housing.* For the purpose of increasing security for residents of a public housing development, the PHA may allow police officers who would not otherwise be eligible for occupancy in public housing, to reside in a public housing dwelling unit. The PHA must include in the PHA annual plan or supporting documents the number and location of the units to be occupied by police officers, and the terms and conditions of their tenancies; and a statement that such occupancy is needed to increase security for public housing residents.

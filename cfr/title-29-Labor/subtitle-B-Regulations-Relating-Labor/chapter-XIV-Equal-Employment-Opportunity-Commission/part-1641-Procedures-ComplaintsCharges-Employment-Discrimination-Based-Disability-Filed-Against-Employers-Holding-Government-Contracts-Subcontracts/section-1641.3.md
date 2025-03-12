@@ -1,0 +1,3 @@
+##### § 1641.3 Confidentiality. #####
+
+When the Department of Labor receives information obtained by EEOC, the Department of Labor shall observe the confidentiality requirements of sections 706(b) and 709(e) of title VII of the Civil Rights Act of 1964, as incorporated by section 107(a) of the ADA, as would EEOC, except in cases where DOL receives the same information from a source independent of EEOC. Questions concerning confidentiality shall be directed to the Associate Legal Counsel for Legal Services, Office of Legal Counsel of EEOC.

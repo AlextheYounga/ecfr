@@ -1,0 +1,5 @@
+##### § 12.22 Civil actions to obtain forfeiture. #####
+
+The Solicitor may request the Attorney General to file a civil action to obtain forfeiture of any property subject to forfeiture under the Airborne Hunting Act, 16 U.S.C. 742j-1; Lacey Act, 18 U.S.C. 43-44; Lacey Act Amendments of 1981, 16 U.S.C. 3371 *et seq.;* Black Bass Act, 16 U.S.C. 851 *et seq.;* Marine Mammal Protection Act, 16 U.S.C. 1361 *et seq.;* Migratory Bird Treaty Act, 16 U.S.C. 703 *et seq.;* Migratory Bird Hunting Stamp Act, 16 U.S.C. 718 *et seq.;* Eagle Protection Act, 16 U.S.C. 668 *et seq.;* or Endangered Species Act, 16 U.S.C. 1531 *et seq.* Before any such action is filed against property subject to forfeiture under the Lacey Act, 18 U.S.C. 43, or against property, other than the cargo of a vessel or other conveyance employed in unlawful taking, subject to forfeiture under the Marine Mammal Protection Act, 16 U.S.C. 1361 *et seq.,* a civil penalty must first be assessed in accordance with the statute and applicable regulations, and no such action may be filed more than 30 days after the conclusion of civil penalty assessment proceedings.
+
+[47 FR 56860, Dec. 21, 1982]

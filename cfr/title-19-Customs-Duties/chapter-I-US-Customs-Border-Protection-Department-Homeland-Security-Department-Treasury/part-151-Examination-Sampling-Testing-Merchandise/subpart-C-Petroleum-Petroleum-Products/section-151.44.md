@@ -1,0 +1,9 @@
+##### § 151.44 Storage tanks. #####
+
+(a) *Plans and gauge tables.* When petroleum or petroleum products subject to duty at a specific rate per barrel are imported in bulk in tank vessels and are to be transferred into shore storage tanks, both the plans of each shore tank showing all outlets and inlets and the gauge table for each tank showing its capacity in barrels per centimeter or tenth of a centimeter of height shall be certified as correct by the proprietor of the tank. One set of these plans and gauge tables so certified shall be kept on file at the plant of the oil company and shall be available at all times to Customs officers. Another certified set of the shore tank plans and gauge tables shall be filed with the port director for use in verifying the Customs officers' reports. The port director may require such additional sets of shore tank plans, including subsidiary pipeline plans, and gauge tables as he may deem necessary. The storage tank proprietor shall maintain the plans and gauge tables for 3 years after discontinuing use of the storage tanks as bonded warehouses for the storage of imported petroleum or petroleum products.
+
+(b) *Tags required on valves.* The inlet and outlet valves of each tank shall have tags of a permanent type affixed by the proprietor or lessee indicating the use of the valves.
+
+(c) *Verification of gauge tables.* Whenever he has reason to suspect their reliability, the port director may require the measurement and calibrations shown on the gauge tables to be verified by a Customs officer. If no qualified Customs officer is available, the port director may accept an independent certification verifying the measurements and calibrations. The independent verification shall be performed at the expense of the storage tank proprietor.
+
+[T.D. 80-142, 45 FR 36384, May 30, 1980, as amended by T.D. 89-1, 53 FR 51268, Dec. 21, 1988]

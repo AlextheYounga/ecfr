@@ -1,0 +1,3 @@
+##### § 768.10 Removal of controls on less sophisticated items. #####
+
+Where the Secretary has removed national security controls on an item for foreign availability reasons, the Secretary will also remove controls on similar items that are controlled for national security reasons and whose functions, technological approach, performance thresholds, and other attributes that form the basis for national security export controls do not exceed the technical parameters of the item that BIS has decontrolled for foreign availability reasons.

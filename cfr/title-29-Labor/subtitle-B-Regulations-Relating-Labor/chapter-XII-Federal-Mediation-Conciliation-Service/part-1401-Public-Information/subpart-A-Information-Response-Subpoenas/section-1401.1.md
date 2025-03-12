@@ -1,0 +1,3 @@
+##### § 1401.1 Purpose and scope. #####
+
+This subpart contains the regulations of the Service concerning procedures to be followed when a subpoena, order, or other demand of a court or other authority is issued for the production or disclosure of (a) any material contained in the files of the Service; (b) any information relating to material contained in the files of the Service; or (c) any information or material acquired by any person as a part of the performance of his official duties or because of his official status, while such person was an employee of the Service.

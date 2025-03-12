@@ -1,0 +1,21 @@
+##### § 657.21 Procedure for reduction of funds. #####
+
+(a) If it appears to the Federal Highway Administrator that a State has not submitted a certification conforming to the requirements of this regulation, or that the State is not adequately enforcing State laws respecting maximum vehicle size and weight, including laws applicable to vehicles using the Interstate System with weights or widths in excess of those provided under 23 U.S.C. 127, the Federal Highway Administrator shall make in writing a proposed determination of nonconformity, and shall notify the Governor of the State of the proposed determination by certified mail. The notice shall state the reasons for the proposed determination and inform the State that it may, within 30 days from the date of the notice, request a hearing to show cause why it should not be found in nonconformity. If the State informs the Administrator before the end of this 30-day period that it wishes to attempt to resolve the matter informally, the Administrator may extend the time for requesting a hearing. In the event of a request for informal resolution, the State and the Administrator (or designee) shall promptly schedule a meeting to resolve the matter.
+
+(b) In all instances where the State proceeds on the basis of informal resolution, a transcript of the conference will be made and furnished to the State by the FHWA.
+
+(1) The State may offer any information which it considers helpful to a resolution of the matter, and the scope of review at the conference will include, but not be limited to, legislative actions, including those proposed to remedy deficiencies, budgetary considerations, judicial actions, and proposals for specific actions which will be implemented to bring the State into compliance.
+
+(2) The information produced at the conference may constitute an explanation and offer of settlement and the Administrator will make a determination on the basis of the certification, record of the conference, and other information submitted by the State. The Administrator's final decision together with a copy of the transcript of the conference will be furnished to the State.
+
+(3) If the Administrator does not accept an offer of settlement made pursuant to paragraph (b)(2) of this section, the State retains the right to request a hearing on the record pursuant to paragraph (d) of this section, except in the case of a violation of section 127.
+
+(c) If the State does not request a hearing in a timely fashion as provided in paragraph (a) of this section, the Federal Highway Administrator shall forward the proposed determination of nonconformity to the Secretary. Upon approval of the proposed determination by the Secretary, the fund reduction specified by § 657.19 shall be effected.
+
+(d) If the State requests a hearing, the Secretary shall expeditiously convene a hearing on the record, which shall be conducted according to the provisions of the Administrative Procedure Act, 5 U.S.C. 555 *et seq.* Based on the record of the proceeding, the Secretary shall determine whether the State is in nonconformity with this regulation. If the Secretary determines that the State is in nonconformity, the fund reduction specified by section 567.19 shall be effected.
+
+(e) The Secretary may reserve 10 percent of a State's apportionment of funds under 23 U.S.C. 104 pending a final administrative determination under this regulation to prevent the apportionment to the State of funds which would be affected by a determination of nonconformity.
+
+(f) Funds withheld pursuant to a final administrative determination under this regulation shall be reapportioned to all other eligible States one year from the date of this determination, unless before this time the Secretary determines, on the basis of information submitted by the State and the FHWA, that the State has come into conformity with this regulation. If the Secretary determines that the State has come into conformity, the withheld funds shall be released to the State.
+
+(g) The reapportionment of funds under paragraph (e) of this section shall be stayed during the pendency of any judicial review of the Secretary's final administrative determination of nonconformity.

@@ -1,0 +1,3 @@
+##### § 1919.78 Nondestructive examinations. #####
+
+(a) Wherever it is considered necessary by the accredited person or his authorized representative and wherever it is practical and advisable to avoid disassembly of equipment, removal of pins, etc., examination of structure or parts by electronic, ultrasonic, or other nondestructive methods may be carried out, provided that the procedure followed is acceptable to the Assistant Secretary and the person carrying out such examination is accredited or acceptable to the Assistant Secretary for the purpose.

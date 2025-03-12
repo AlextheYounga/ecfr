@@ -1,0 +1,17 @@
+##### 718.2 Identification of confidential business information. #####
+
+(a) *General.* Certain confidential business information submitted to BIS in declarations and reports does not need to be specifically identified and marked by the submitter, as described in paragraph (b) of this section. Other confidential business information submitted to BIS in declarations and reports and confidential business information provided to the Host Team during inspections must be identified by the inspected facility so that the Host Team can arrange appropriate marking and handling.
+
+(b) *Confidential business information contained in declarations and reports.* (1) BIS has identified those data fields on the declaration and report forms that request “confidential business information” as defined by the Act. These data fields are identified in the table provided in supplement no. 1 to this part.
+
+(2) You must specifically identify in a cover letter submitted with your declaration or report any additional information on a declaration or report form (i.e., information not provided in one of the data fields listed in the table included in supplement no. 1 to this part), including information provided in attachments to Form A or Form B, that you believe is confidential business information, as defined by the Act, and must describe how disclosure would likely result in competitive harm.
+
+Note to § 718.2(b):
+
+BIS has also determined that descriptions of Schedule 1 facilities submitted with Initial Declarations as attachments to Form A contain confidential business information, as defined by the Act.
+
+(c) *Confidential business information contained in advance notifications.* Information contained in advance notifications of exports and imports of Schedule 1 chemicals is not subject to the confidential business information provisions of the Act. You must identify information in your advance notifications of Schedule 1 imports that you consider to be privileged and confidential, and describe how disclosure would likely result in competitive harm. See § 718.3(b) of the CWCR for provisions on disclosure to the public of such information by the U.S. Government.
+
+(d) *Confidential business information related to inspections disclosed to, reported to, or otherwise acquired by, the U.S. Government.* (1) During inspections, certain confidential business information, as defined by the Act, may be disclosed to the Host Team. Facilities being inspected are responsible for identifying confidential business information to the Host Team, so that if it is disclosed to the Inspection Team, appropriate marking and handling can be arranged, in accordance with the provisions of the Convention (see § 718.3(c)(1)(ii) of the CWCR). Confidential business information not related to the purpose of an inspection or not necessary for the accomplishment of an inspection, as determined by the Host Team, may be removed from sight, shrouded, or otherwise not disclosed.
+
+(2) Before or after inspections, confidential business information related to an inspection that is contained in any documents or that is reported to, or otherwise acquired by, the U.S. Government, such as facility information for pre-inspection briefings, facility agreements, and inspection reports, must be identified by the facility so that it may be appropriately marked and handled. If the U.S. Government creates derivative documents from such documents or reported information, they will also be marked and handled as confidential business information.

@@ -1,0 +1,7 @@
+##### § 37.16 What is this part's effect on a recipient's obligations under other laws, and what limitations apply? #####
+
+(a) *Effect of State or local law or other requirements.* The obligation to comply with the nondiscrimination and equal opportunity provisions of WIA or this part are not excused or reduced by any State or local law or other requirement that, on a prohibited ground, prohibits or limits an individual's eligibility to receive aid, benefits, services, or training; to participate in any WIA Title I—financially assisted program or activity; to be employed by any recipient; or to practice any occupation or profession.
+
+(b) *Effect of private organization rules.* The obligation to comply with the nondiscrimination and equal opportunity provisions of WIA and this part is not excused or reduced by any rule or regulation of any private organization, club, league or association that, on a prohibited ground, prohibits or limits an individual's eligibility to participate in any WIA Title I—financially assisted program or activity to which this part applies.
+
+(c) *Effect of possible future exclusion from employment opportunities.* A recipient must not exclude any individual from, or restrict any individual's participation in, any program or activity based on the recipient's belief or concern that the individual will encounter limited future employment opportunities because of his or her race, color, religion, sex, national origin, age, disability, political affiliation or belief, or citizenship.

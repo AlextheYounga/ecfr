@@ -1,0 +1,7 @@
+##### § 101.28 Consent agreements providing for election. #####
+
+(a) The Board makes available to the parties three types of informal consent procedures through which authorization issues can be resolved without resort to formal procedures. These informal agreements are the consent election agreement with final regional director determinations of post-election disputes, the stipulated election agreement with discretionary Board review, and the full consent election agreement with final regional director determinations of pre- and post-election disputes. Forms for use in these informal procedures are available in the Regional Offices.
+
+(b) The procedures to be used in connection with a consent-election agreement with final regional director determinations of post-election disputes, a stipulated election agreement with discretionary Board review, and a full consent-election agreement with final regional director determinations of pre- and post-election disputes are the same as those described in subpart C of 29 CFR part 102 and the statement of the general course in connection with similar agreements in representation cases under Section 9(c) of the Act, except that no provision is made for runoff elections.
+
+[79 FR 74477, Dec. 15, 2014]

@@ -1,0 +1,3 @@
+##### § 177.30 Review of final determinations. #####
+
+Any party-at-interest listed in § 177.22(d) may seek judicial review of a final determination within 30 days after publication of such determination in the Federal Register, and may seek judicial review of a refusal to issue a final determination within 30 days after such refusal. The Court of International Trade shall have exclusive jurisdiction to review a final determination or a refusal to issue a final determination made under this subpart.

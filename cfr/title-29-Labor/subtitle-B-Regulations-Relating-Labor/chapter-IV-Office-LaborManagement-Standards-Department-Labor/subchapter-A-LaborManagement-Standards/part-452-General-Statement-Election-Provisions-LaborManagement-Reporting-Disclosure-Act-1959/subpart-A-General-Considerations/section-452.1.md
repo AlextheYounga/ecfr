@@ -1,0 +1,13 @@
+##### § 452.1 Introductory statement. #####
+
+(a) This part discusses the meaning and scope of the provisions of title IV of the Labor-Management Reporting and Disclosure Act1 (hereinafter referred to as the Act), which deal with the election of officers of labor organizations. These provisions require periodic election of union officers, and prescribe minimum standards to insure that such elections will be fairly conducted. Specific provisions are included to assure the right of union members to participate in selecting their officers without fear of interference or reprisal, and to protect the right to nominate candidates, run for office, and vote in officer elections. Title IV also sets forth the rights of candidates, provides for secret ballots in appropriate cases, and requires notice of nominations and elections, preservation of election records, and other safeguards to insure fair elections. However, the Act does not prescribe complete, detailed procedures for the nomination and election of union officers.
+
+1 73 Stat. 532-535, 29 U.S.C. 481-483.
+
+(b) Interpretations of the Director with respect to the election provisions of title IV are set forth in this part to provide those affected by these provisions of the Act with “a practical guide \* \* \* as to how the office representing the public interest in its enforcement will seek to apply it.”2 The correctness of an interpretation can be determined finally and authoritatively only by the courts. It is necessary, however, for the Director to reach informed conclusions as to the meaning of the law to enable him to carry out his statutory duties of administration and enforcement. The interpretations of the Director contained in this part, which are issued upon the advice of the Solicitor of Labor, indicate the construction of the law which will guide him in performing his duties unless and until he is directed otherwise by authoritative rulings of the courts or unless and until he subsequently announces that a prior interpretation is incorrect. However, the fact that a particular problem is not discussed in this part, or in interpretations supplementing it, should not be taken to indicate the adoption of any position by the Director with respect to such problem or to constitute an administrative interpretation or practice.
+
+2*Skidmore* v. *Swift & Co.,* 323 U.S. 134 at 138 (1944).
+
+(c) To the extent that prior opinions and interpretations relating to the election of officers of labor organizations under the Act are inconsistent or in conflict with the principles stated in this part, they are hereby rescinded and withdrawn.
+
+[38 FR 18324, July 9, 1973, as amended at 78 FR 8026, Feb. 5, 2013]

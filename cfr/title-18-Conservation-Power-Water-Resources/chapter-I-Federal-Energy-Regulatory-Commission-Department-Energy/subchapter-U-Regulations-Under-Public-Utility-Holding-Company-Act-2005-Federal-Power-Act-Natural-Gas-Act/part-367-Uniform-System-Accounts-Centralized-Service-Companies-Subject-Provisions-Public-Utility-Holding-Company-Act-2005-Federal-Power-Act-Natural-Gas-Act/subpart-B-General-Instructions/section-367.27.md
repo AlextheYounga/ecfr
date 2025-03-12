@@ -1,0 +1,3 @@
+##### § 367.27 Billing procedures. #####
+
+Charges for services to associate public-utility companies must be made monthly with sufficient information and in sufficient detail to permit such company, where applicable, to identify and classify the charge in terms of the system of accounts prescribed by the regulatory authorities to which it is subject. The information provided to associate public-utility companies must provide a summary of the accounts by service provided and showing the charges, classified as direct cost, indirect cost, and compensation for use of capital.

@@ -1,0 +1,7 @@
+##### § 801.3 Coverage. #####
+
+(a) The coverage of the Act extends to “any employer engaged in or affecting commerce or in the production of goods for commerce.” (Section 3 of EPPA; 29 U.S.C. 2002.) In interpreting the phrase “affecting commerce” in other statutes, courts have found coverage to be coextensive with the full scope of the Congressional power to regulate commerce. See, for example, *Godwin* v. *Occupational Safety and Health Review Commission,* 540 F. 2d 1013, 1015 (9th Cir. 1976). Since most employers engage in one or more types of activities that would be regarded as “affecting commerce” under the principles established by a large body of court cases, virtually all employers are deemed subject to the provisions of the Act, unless otherwise exempt pursuant to section 7 (a), (b), or (c) of the Act and §§ 801.10 or 801.11 of this part.
+
+(b) The Act also extends to all employees of covered employers regardless of their citizenship status, and to foreign corporations operating in the United States. Moreover, the provisions of the Act extend to any actions relating to the administration of lie detector, including polygraph, tests which occur within the territorial jurisdiction of the United States, e.g., the preparation of paperwork by a foreign corporation in a Miami office relating to a polygraph test that is to be administered on the high seas or in some foreign location.
+
+[56 FR 9064, Mar. 4, 1991; 56 FR 14469, Apr. 10, 1991]

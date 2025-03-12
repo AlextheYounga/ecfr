@@ -1,0 +1,3 @@
+##### § 710.401 General. #####
+
+This subpart describes the grantee's responsibilities to control the use of real property acquired for a project in which Federal funds participated in any phase of the project. The grantee shall specify in its approved ROW manual or RAMP, the procedures for the maintenance, ROW use agreements, and disposal of real property interests acquired with title 23 funds. The grantee shall ensure that subgrantees, including local agencies, follow Federal requirements and approved ROW procedures as provided in § 710.201(c) and (d).

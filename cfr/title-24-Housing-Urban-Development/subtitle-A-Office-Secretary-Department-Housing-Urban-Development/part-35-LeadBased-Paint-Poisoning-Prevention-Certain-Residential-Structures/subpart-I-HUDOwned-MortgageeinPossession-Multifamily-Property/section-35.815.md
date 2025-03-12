@@ -1,0 +1,3 @@
+##### § 35.815 Evaluation. #####
+
+HUD shall conduct a risk assessment and a lead-based paint inspection in accordance with § 35.1320(a) and (b). For properties to which this subpart applies on September 15, 2000, the lead-based paint inspection and risk assessment shall be conducted no later than December 15, 2000, or before publicly advertising the property for sale, whichever is sooner. For properties to which this subpart becomes applicable after September 15, 2000, the lead-based paint inspection and risk assessment shall be conducted no later than 90 days after this subpart becomes applicable or before publicly advertising the property for sale, whichever is sooner.

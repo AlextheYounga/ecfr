@@ -1,0 +1,3 @@
+##### § 516.11 Employees exempt from both minimum wage and overtime pay requirements under section 13(a) (2), (3), (4), (5), (8), (10), (12), or 13(d) of the Act. #####
+
+With respect to each and every employee exempt from both the minimum wage and overtime pay requirements of the Act pursuant to the provisions of section 13(a) (2), (3), (4), (5), (8), (10), (12), or 13(d) of the Act, employers shall maintain and preserve records containing the information and data required by § 516.2(a) (1) through (4).

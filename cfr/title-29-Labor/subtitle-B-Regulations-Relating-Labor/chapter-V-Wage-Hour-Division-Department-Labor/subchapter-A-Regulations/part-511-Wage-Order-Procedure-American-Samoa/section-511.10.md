@@ -1,0 +1,13 @@
+##### § 511.10 Subjects and issues. #####
+
+(a) The declared policy of the Act with respect to industries or enterprises in American Samoa engaged in commerce or in the production of goods for commerce is to reach as rapidly as is economically feasible without substantially curtailing employment the object of the minimum wage rate that would apply in each such industry under paragraph (1) of section 6(a) but for section 6(a)(3) of the Act. Each industry committee shall recommend to the Administrator the highest minimum wage rates for the industry that it determines, having due regard to economic and competitive conditions, will not substantially curtail employment in the industry and will not give any industry in American Samoa a competitive advantage over any industry in the United States outside of American Samoa; except that the committee shall recommend to the Secretary the minimum wage rate prescribed in section 6(a)(1), that would be applicable but for section 6(a)(3), unless there is evidence in the record that establishes that the industry, or a predominant portion thereof, is unable to pay that wage due to such economic and competitive conditions.
+
+(b) Whenever the industry committee finds that a higher minimum wage may be determined for employees engaged in certain activities or in the manufacture of certain products in the industry than may be determined for other employees in the industry, the industry committee shall recommend such reasonable classifications within the industry as it determines to be necessary for the purpose of fixing for each classification the highest minimum wage rate (not in excess of that prescribed in paragraph (1) of section 6(a) of the Act) that can be determined for it under the principles set out in this section that will not substantially curtail employment in such classification and will not give a competitive advantage to any group in that industry. No classification shall be made, however, and no minimum wage rate shall be fixed solely on a regional basis or on the basis of age or sex. In determining whether there should be classifications within an industry, in making such classifications, and in determining the minimum wage rate for each classification, the committee shall consider, among other relevant factors, the following:
+
+(1) Competitive conditions as affected by transportation, living and production costs;
+
+(2) The wages established for work of like or comparable character by collective labor agreements negotiated between employers and employees by representatives of their own choosing; and
+
+(3) The wages paid for work of like or comparable character by employers who voluntarily maintain minimum wage standards in the industry.
+
+[55 FR 53298, Dec. 28, 1990]

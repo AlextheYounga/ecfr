@@ -1,0 +1,5 @@
+##### § 14.61 Import declaration requirements. #####
+
+Except as otherwise provided by the regulations of this subpart, importers or their agents must file with the Service a completed Declaration for Importation or Exportation of Fish or Wildlife (Form 3-177), signed by the importer or the importer's agent, upon the importation of any wildlife at the place where Service clearance under § 14.52 is requested. However, wildlife may be transshipped under bond to a different port for release from custody by Customs Service officers under 19 U.S.C. 1499. For certain antique articles as specified in § 14.22, importers or their agents must file a Form 3-177 with the District Director of Customs at the port of entry prior to release from Customs custody. Importers or their agents must furnish all applicable information requested on the Form 3-177 and the importer, or the importer's agent, must certify that the information furnished is true and complete to the best of his/her knowledge and belief.
+
+[61 FR 49980, Sept. 24, 1996]

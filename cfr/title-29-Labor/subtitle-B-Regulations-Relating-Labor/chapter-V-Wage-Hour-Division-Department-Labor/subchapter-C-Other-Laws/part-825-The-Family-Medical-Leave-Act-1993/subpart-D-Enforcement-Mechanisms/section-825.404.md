@@ -1,0 +1,3 @@
+##### § 825.404 Consequences for an employer when not paying the penalty assessment after a final order is issued. #####
+
+The Regional Administrator may seek to recover the unpaid penalty pursuant to the Debt Collection Act (DCA), 31 U.S.C. 3711 *et seq.,* and, in addition to seeking recovery of the unpaid final order, may seek interest and penalties as provided under the DCA. The final order may also be referred to the Solicitor of Labor for collection. The Secretary may file suit in any court of competent jurisdiction to recover the monies due as a result of the unpaid final order, interest, and penalties.

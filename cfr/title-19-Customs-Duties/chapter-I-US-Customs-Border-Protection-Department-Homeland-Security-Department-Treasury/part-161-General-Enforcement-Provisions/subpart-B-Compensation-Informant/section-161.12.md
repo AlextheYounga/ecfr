@@ -1,0 +1,5 @@
+##### § 161.12 Eligibility for compensation. #####
+
+In accordance with section 619, Tariff Act of 1930, as amended (19 U.S.C. 1619), any person not an employee or officer of the United States who either furnishes original information concerning any fraud upon the customs revenue or any violation, perpetrated or contemplated, of the customs or navigation laws or any other laws administered or enforced by Customs, or detects and seizes any item subject to seizure and forfeiture under the customs or navigationlaws or other laws enforced by Customs and reports the same to a Customs officer, may file a claim for compensation, provided there is a net amount recovered from such detection and seizure or such information, unless other laws specify different procedures. Any employee or officer of the United States who receives, accepts, or contracts for any portion of such compensation, either directly or indirectly, is subject to criminal prosecution and civil liability as provided by 19 U.S.C. 1620.
+
+[T.D. 98-22, 63 FR 11826, Mar. 11, 1998]

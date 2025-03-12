@@ -1,0 +1,3 @@
+##### § 904.205 Training methodology. #####
+
+Equal in importance to the content of the pre- and post-occupancy training is the training methodology. Because groups vary, there should be adaptability in the communication and learning experience. Methods to be utilized may include group presentations, small discussion groups, special classes, and workshops. Especially important to a successful program are individual family home visits for discussion and instruction on unique problems and operation of equipment.

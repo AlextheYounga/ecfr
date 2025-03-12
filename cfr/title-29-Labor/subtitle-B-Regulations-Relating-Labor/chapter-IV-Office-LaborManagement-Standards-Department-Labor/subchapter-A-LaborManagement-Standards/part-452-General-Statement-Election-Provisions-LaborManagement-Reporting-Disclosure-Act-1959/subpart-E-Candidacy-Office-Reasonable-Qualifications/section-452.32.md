@@ -1,0 +1,3 @@
+##### § 452.32 Persons who may be candidates and hold office; secret ballot elections. #####
+
+Section 401(e) provides that in any election of officers required by the Act which is held by secret ballot, every member in good standing with the exceptions explained in sections following shall be eligible to be a candidate and to hold office. This provision is applicable not only to the election of officers in local labor organizations, but also to elections of officers in national or international and intermediate labor organizations where those elections are held by secret ballot referendum among the members, and to the election of delegates to conventions at which officers will be elected.

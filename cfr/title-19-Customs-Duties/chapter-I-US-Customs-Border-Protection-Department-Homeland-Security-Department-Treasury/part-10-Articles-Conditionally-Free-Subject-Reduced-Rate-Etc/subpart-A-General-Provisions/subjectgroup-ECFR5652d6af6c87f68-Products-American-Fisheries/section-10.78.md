@@ -1,0 +1,11 @@
+##### § 10.78 Entry. #####
+
+(a) No entry shall be required for fish or other marine products taken on the high seas by vessels of the U.S. or by residents of the U.S. in undocumented vessels owned in the U.S. when such fish or other products are brought into port by the taking vessel or are transferred at sea to another fishing vessel of the same fleet and brought into port.
+
+(b) An American fishery, within the meaning of Subchapter XV of Chapter 98, Harmonized Tariff Schedule of the United States, is defined as a fishing enterprise conducted under the American flag by vessels of the United States on the high seas or in foreign waters in which such vessels have the right by treaty or otherwise, to take fish or other marine products and may include a shore station operated in conjunction with such vessels by the owner or master thereof.
+
+(c) The employment of citizens of a foreign country by an American fishery is permissible but the purchase by an American fishery of fish or other marine products taken by citizens of a foreign country on the high seas or in foreign waters will subject such fish or other marine products to treatment as foreign merchandise.
+
+(d) Products of an American fishery shall be entitled to free entry although prepared, preserved, or otherwise changed in condition, provided the work is done at sea by the master or crew of the fishery or by persons employed by and under the supervision of the master or owner of the fishery. Fish (except cod, haddock, hake, pollock, cusk, mackerel, and swordfish) the product of an American fishery landed in a foreign country and there not further advanced than beheaded, eviscerated, packed in ice, frozen and with fins removed, shall be entitled to free entry, whether or not such processing is done by the American fishery. Products of an American fishery prepared or preserved on the treaty coasts of Newfoundland, Magdalen Islands, or Labrador, as such coasts are defined in the Convention of 1818 between the United States and Great Britain, shall be entitled to free entry only if the preparation or preservation is done by an American fishery.
+
+[28 FR 14663, Dec. 31, 1963, as amended by T.D. 87-75, 52 FR 20067, May 29, 1987; T.D. 89-1, 53 FR 51250, Dec. 21, 1988]

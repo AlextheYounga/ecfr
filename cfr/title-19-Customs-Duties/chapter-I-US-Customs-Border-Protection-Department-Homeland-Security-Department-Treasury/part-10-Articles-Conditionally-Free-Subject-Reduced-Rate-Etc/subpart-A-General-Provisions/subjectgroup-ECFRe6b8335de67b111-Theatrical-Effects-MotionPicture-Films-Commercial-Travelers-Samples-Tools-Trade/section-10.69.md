@@ -1,0 +1,5 @@
+##### § 10.69 Samples to Great Britain and Ireland under reciprocal agreement. #####
+
+Descriptive lists, or their electronic equivalents, of samples taken to Great Britain and Ireland by commercial travelers of the United States under the joint declarations of December 3 and 8, 1910 (State Department treaty series 552), shall be required in triplicate, verified by the affidavit of the commercial traveler before a Customs officer, and shall show that the samples are for use as models or patterns for the purpose of obtaining orders and not for sale and that the lists contain a full description of the articles. One copy shall be retained and the others shall be delivered to the commercial traveler—one for the identification of the samples on their return to the United States and one for the use of the foreign customs authorities. The latter copy must have been attested by a consular officer of the country concerned in the United States.
+
+[28 FR 14663, Dec. 31, 1963, as amended by CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

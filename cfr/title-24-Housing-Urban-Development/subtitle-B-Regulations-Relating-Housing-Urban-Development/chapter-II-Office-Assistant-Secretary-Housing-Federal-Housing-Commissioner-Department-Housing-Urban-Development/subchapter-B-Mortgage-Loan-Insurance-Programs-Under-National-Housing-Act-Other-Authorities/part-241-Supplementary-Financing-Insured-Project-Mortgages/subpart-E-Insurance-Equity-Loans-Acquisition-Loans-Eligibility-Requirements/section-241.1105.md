@@ -1,0 +1,3 @@
+##### § 241.1105 Late charges. #####
+
+The note and security instrument may provide for the lender's collection of a late charge, not to exceed 2 cents for each dollar of each payment to interest or principal more than 15 days in arrears, to cover the expense involved in handling delinquent payments. Late charges shall be separately charged to and collected from the borrower and shall not be deducted from any aggregate monthly payment.

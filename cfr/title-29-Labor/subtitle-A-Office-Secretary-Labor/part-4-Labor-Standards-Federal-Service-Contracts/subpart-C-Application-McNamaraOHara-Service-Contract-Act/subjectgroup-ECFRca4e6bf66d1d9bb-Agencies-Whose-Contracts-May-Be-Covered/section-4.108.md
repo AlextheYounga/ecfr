@@ -1,0 +1,5 @@
+##### § 4.108 District of Columbia contracts. #####
+
+Section 2(a) of the Act covers contracts (and any bid specification therefor) in excess of $2,500 which are “entered into by the \* \* \* District of Columbia.” The contracts of all agencies and instrumentalities which procure contract services for or on behalf of the District or under the authority of the District Government are contracts entered into by the District of Columbia within the meaning of this provision. Such contracts are also considered contracts entered into with the Federal Government or the United States within the meaning of section 2(b), section 5, and the other provisions of the Act. The legislative history indicates no intent to distinguish District of Columbia contracts from the other contracts made subject to the Act, and traditionally, under other statutes, District Government contracts have been made subject to the same labor standards provisions as contracts of agencies and instrumentalities of the United States.
+
+[48 FR 49762, Oct. 27, 1983; 48 FR 50529, Nov. 2, 1983]

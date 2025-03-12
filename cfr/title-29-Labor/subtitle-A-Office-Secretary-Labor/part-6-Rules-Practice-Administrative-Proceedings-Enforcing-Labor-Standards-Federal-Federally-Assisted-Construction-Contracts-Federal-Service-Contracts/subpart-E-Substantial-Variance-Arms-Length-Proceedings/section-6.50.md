@@ -1,0 +1,3 @@
+##### § 6.50 Scope. #####
+
+This subpart supplements the procedures contained in §§ 4.10 and 4.11 of part 4 of this title and states the rules of practice applicable to hearings under section 4(c) of the Act to determine whether the collectively bargained wages and/or fringe benefits otherwise required to be paid under that section and sections 2(a)(1) and (2) of the Act are substantially at variance with those which prevail for services of a character similar in the locality, and/or to determine whether the wages and/or fringe benefits provided in the collective bargaining agreement were reached as a result of arm's-length negotiations.

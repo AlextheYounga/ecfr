@@ -1,0 +1,9 @@
+##### § 30.15 Introduction. #####
+
+(a) For export shipments to foreign countries, the EEI is used both for statistical and for export control purposes. All parties to an export transaction must comply with all relevant export control regulations, as well as the requirements of the statistical regulations of this part. For convenience, references to provisions of the EAR, ITAR, CBP, and OFAC regulations that affect the statistical reporting requirements of this part have been incorporated into this part. For regulations and information concerning other agencies that exercise export control and licensing authority for particular types of commodity shipments, a USPPI, its authorized agent, or other party to the transaction shall consult the appropriate agency regulations.
+
+(b) In addition to the reporting requirements set forth in § 30.6, further information may be required for export control purposes by the regulations of CBP, BIS, State Department, or the U.S. Postal Service under particular circumstances.
+
+(c) This part requires the retention of documents or records pertaining to a shipment for five years from the date of export. All records concerning license exceptions or license exemptions shall be retained in the format (including electronic or hard copy) required by the controlling agency's regulations. For information on recordkeeping retention requirements exceeding the requirements of this part, refer to the regulations of the agency exercising export control authority for the specific shipment.
+
+(d) In accordance with the provisions of Subpart G of this part, information from the EEI is used solely for official purposes, as authorized by the Secretary of Commerce, and any unauthorized use is not permitted.

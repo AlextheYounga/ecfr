@@ -1,0 +1,15 @@
+##### § 35.88 Disclosure requirements for sellers and lessors. #####
+
+(a) The following activities shall be completed before the purchaser or lessee is obligated under any contract to purchase or lease target housing that is not otherwise an exempt transaction pursuant to § 35.82. Nothing in this section implies a positive obligation on the seller or lessor to conduct any evaluation or reduction activities.
+
+(1) The seller or lessor shall provide the purchaser or lessee with an EPA-approved lead hazard information pamphlet. Such pamphlets include the EPA document entitled *Protect Your Family From Lead in Your Home* (EPA −747-K-94-001) or an equivalent pamphlet that has been approved for use in that State by EPA.
+
+(2) The seller or lessor shall disclose to the purchaser or lessee the presence of any known lead-based paint and/or lead-based paint hazards in the target housing being sold or leased. The seller or lessor shall also disclose any additional information available concerning the known lead-based paint and/or lead-based paint hazards, such as the basis for the determination that lead-based paint and/or lead-based paint hazards exist, the location of the lead-based paint and/or lead-based paint hazards, and the condition of the painted surfaces.
+
+(3) The seller or lessor shall disclose to each agent the presence of any known lead-based paint and/or lead-based paint hazards in the target housing being sold or leased and the existence of any available records or reports pertaining to lead-based paint and/or lead-based paint hazards. The seller or lessor shall also disclose any additional information available concerning the known lead-based paint and/or lead-based paint hazards, such as the basis for the determination that lead-based paint and/or lead-based paint hazards exist, the location of the lead-based paint and/or lead-based paint hazards, and the condition of the painted surfaces.
+
+(4) The seller or lessor shall provide the purchaser or lessee with any records or reports available to the seller or lessor pertaining to lead-based paint and/or lead-based paint hazards in the target housing being sold or leased. This requirement includes records and reports regarding common areas. This requirement also includes records and reports regarding other residential dwellings in multifamily target housing, provided that such information is part of an evaluation or reduction of lead-based paint and/or lead-based paint hazards in the target housing as a whole.
+
+(b) If any of the disclosure activities identified in paragraph (a) of this section occurs after the purchaser or lessee has provided an offer to purchase or lease the housing, the seller or lessor shall complete the required disclosure activities prior to accepting the purchaser's or lessee's offer and allow the purchaser or lessee an opportunity to review the information and possibly amend the offer.
+
+(Approved by the Office of Management and Budget under control number 2070-0151)[61 FR 9082, Mar. 6, 1996, as amended at 64 FR 14382, Mar. 25, 1999]

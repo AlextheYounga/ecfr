@@ -1,0 +1,5 @@
+##### § 207.13 Cooperation with administering authority; preliminary phase of investigation. #####
+
+Subsequent to institution of an investigation pursuant to section 207.12, the Director shall conduct such investigation as the Director deems appropriate. Information adduced in the investigation shall be placed on the record. The Director shall cooperate with the administering authority in its determination of the sufficiency of a petition and in its decision whether to permit any proposed amendment to a petition. Notwithstanding §§ 201.11(c) and 201.14(b) of this chapter, late filings in the preliminary phase of an investigation shall be referred to the Director, who shall determine whether to accept such filing for good cause shown by the person making the filing.
+
+[61 FR 37832, July 22, 1996]

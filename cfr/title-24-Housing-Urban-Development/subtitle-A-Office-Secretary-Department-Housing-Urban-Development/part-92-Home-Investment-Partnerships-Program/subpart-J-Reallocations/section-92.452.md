@@ -1,0 +1,3 @@
+##### § 92.452 Reallocation of community housing development organization set-aside. #####
+
+HUD will reallocate, under this section, any HOME funds reduced or recaptured by HUD from a participating jurisdiction's HOME Investment Trust Fund under § 92.300(d). HUD will reallocate these funds by competition in accordance with criteria in § 92.453 to other participating jurisdictions for affordable housing developed, sponsored, or owned by community housing development organizations.

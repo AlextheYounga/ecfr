@@ -1,0 +1,3 @@
+##### § 191.82 Person entitled to claim drawback. #####
+
+Unless otherwise provided in this part (see §§ 191.42(b), 191.162, 191.175(a), 191.186), the exporter (or destroyer) shall be entitled to claim drawback, unless the exporter (or destroyer), by means of a certification, waives the right to claim drawback and assigns such right to the manufacturer, producer, importer, or intermediate party (in the case of drawback under 19 U.S.C. 1313(j)(1) and (2), see § 191.33(a) and (b)). Such certification shall also affirm that the exporter (or destroyer) has not and will not assign the right to claim drawback on the particular exportation or destruction to any other party. The certification provided for in this section may be a blanket certification for a stated period.

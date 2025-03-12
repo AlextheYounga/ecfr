@@ -1,0 +1,3 @@
+##### § 367.4350 Account 435, Extraordinary deductions. #####
+
+This account must be debited with losses of unusual nature and infrequent occurrence that would significantly distort the current year's income computed before extraordinary items, if reported other than as extraordinary items. Income tax relating to the amounts recorded in this account must be recorded in account 409.3, Income taxes, extraordinary items (§ 367.4093) (*See* General Instructions in § 367.8).

@@ -1,0 +1,3 @@
+##### § 404.3 Form of annual report. #####
+
+On and after the effective date of this section, every labor organization officer and employee required to file an annual report under § 404.2 shall file such report on United States Department of Labor Form LM-30 entitled “Labor Organization Officer and Employee Report,” together with a true copy thereof, in the detail required by the instructions accompanying such form and constituting a part thereof.

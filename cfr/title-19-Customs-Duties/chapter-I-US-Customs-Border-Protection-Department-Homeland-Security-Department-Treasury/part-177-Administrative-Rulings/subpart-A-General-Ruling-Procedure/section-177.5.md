@@ -1,0 +1,5 @@
+##### § 177.5 Change in status of transaction. #####
+
+Each person submitting a request for a ruling in connection with a Customs transaction shall immediately advise Customs in writing of any change in the status of that transaction, as defined in § 177.1(d)(3). In particular, the Customs Service office to which the request was made must be advised when any transaction described in the ruling request as prospective becomes current and under the jurisdiction of a Customs Service field office. In addition, any person engaged in a Customs transaction coming under the jurisdiction of a Customs Service field office and having previously requested a ruling with respect to that transaction shall advise the field office of that fact. The field office will normally withhold action with respect to any transaction for which a ruling has previously been requested pending the disposition of the ruling request.
+
+[T.D. 80-285, 45 FR 80105, Dec. 3, 1980, as amended by T.D. 84-149, 49 FR 28699, July 16, 1984; T.D. 89-74, 54 FR 31516, July 31, 1989]

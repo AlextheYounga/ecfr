@@ -1,0 +1,5 @@
+##### § 367.13 Accounting to be on accrual basis. #####
+
+(a) The service company is required to keep its accounts on the accrual basis. This requires the inclusion in its accounts of all known transactions of appreciable amount that affect the accounts. If bills covering the transactions have not been received or rendered, the amounts must be estimated and appropriate adjustments made when the bills are received. When the amount is ascertained, the necessary adjustments must be made through the accounts in which the estimate was recorded. If it is determined during the interval that a material adjustment will be required, the estimate must be adjusted through the current accounts. The service company is not required to anticipate minor items which would not appreciably affect these accounts.
+
+(b) When payments are made in advance for items such as insurance, rents, taxes or interest, the amount applicable to future periods must be charged to account 165, Prepayments (§ 367.1650), and spread over the periods to which they are applicable by credits to account 165 (§ 367.1650), and charges to the accounts appropriate for the expenditure.

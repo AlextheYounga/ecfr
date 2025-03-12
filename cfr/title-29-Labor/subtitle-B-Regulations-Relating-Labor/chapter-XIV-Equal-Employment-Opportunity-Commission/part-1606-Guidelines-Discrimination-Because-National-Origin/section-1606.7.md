@@ -1,0 +1,9 @@
+##### § 1606.7 Speak-English-only rules. #####
+
+(a) *When applied at all times.* A rule requiring employees to speak only English at all times in the workplace is a burdensome term and condition of employment. The primary language of an individual is often an essential national origin characteristic. Prohibiting employees at all times, in the workplace, from speaking their primary language or the language they speak most comfortably, disadvantages an individual's employment opportunities on the basis of national origin. It may also create an atmosphere of inferiority, isolation and intimidation based on national origin which could result in a discriminatory working environment.7 Therefore, the Commission will presume that such a rule violates title VII and will closely scrutinize it.
+
+7 See CD 71-446 (1970), CCH EEOC Decisions ¶ 6173, 2 FEP Cases, 1127; CD 72-0281 (1971), CCH EEOC Decisions ¶ 6293.
+
+(b) *When applied only at certain times.* An employer may have a rule requiring that employees speak only in English at certain times where the employer can show that the rule is justified by business necessity.
+
+(c) *Notice of the rule.* It is common for individuals whose primary language is not English to inadvertently change from speaking English to speaking their primary language. Therefore, if an employer believes it has a business necessity for a speak-English-only rule at certain times, the employer should inform its employees of the general circumstances when speaking only in English is required and of the consequences of violating the rule. If an employer fails to effectively notify its employees of the rule and makes an adverse employment decision against an individual based on a violation of the rule, the Commission will consider the employer's application of the rule as evidence of discrimination on the basis of national origin.

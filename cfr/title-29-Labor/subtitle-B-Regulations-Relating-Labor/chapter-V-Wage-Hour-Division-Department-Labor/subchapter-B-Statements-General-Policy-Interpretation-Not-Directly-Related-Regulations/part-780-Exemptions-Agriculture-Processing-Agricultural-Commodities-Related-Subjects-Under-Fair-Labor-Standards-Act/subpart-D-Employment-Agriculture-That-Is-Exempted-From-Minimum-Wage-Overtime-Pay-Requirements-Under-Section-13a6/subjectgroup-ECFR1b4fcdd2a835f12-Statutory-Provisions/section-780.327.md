@@ -1,0 +1,3 @@
+##### § 780.327 Production of livestock. #####
+
+For an employee to be engaged in the production of livestock, he must be actively taking care of the animals or standing by in readiness for that purpose. Thus, such activities as herding, handling, transporting, feeding, watering, caring for, branding, tagging, protecting, or otherwise assisting in the raising of livestock and in such immediately incidental duties as inspecting and repairing fences, wells, and windmills would be considered as the production of livestock. On the other hand, such work as terracing, reseeding, haying, and constructing dams, wells, and irrigation ditches would not be considered as the production of livestock within the meaning of the exemption.

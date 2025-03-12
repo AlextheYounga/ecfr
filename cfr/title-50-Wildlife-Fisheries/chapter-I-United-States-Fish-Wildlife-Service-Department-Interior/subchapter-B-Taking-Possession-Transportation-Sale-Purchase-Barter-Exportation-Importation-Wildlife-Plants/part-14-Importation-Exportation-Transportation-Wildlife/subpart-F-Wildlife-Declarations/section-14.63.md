@@ -1,0 +1,3 @@
+##### § 14.63 Export declaration requirements. #####
+
+Except as otherwise provided by the regulations of this subpart, a completed Declaration for Importation or Exportation of Fish or Wildlife (Form 3-177) signed by the exporter, or the exporter's agent, shall be filed with the Service prior to the export of any wildlife at the port of exportation as authorized in subpart B of this part. All applicable information requested on the Form 3-177 shall be furnished, and the exporter or the exporter's agent shall certify that the information furnished is true and complete to the best of his/her knowledge and belief.

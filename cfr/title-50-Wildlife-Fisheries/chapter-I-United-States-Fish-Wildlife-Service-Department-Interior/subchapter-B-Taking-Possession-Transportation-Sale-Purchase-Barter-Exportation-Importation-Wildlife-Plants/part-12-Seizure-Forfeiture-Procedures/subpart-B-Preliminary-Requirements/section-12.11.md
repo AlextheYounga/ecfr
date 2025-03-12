@@ -1,0 +1,3 @@
+##### § 12.11 Notification of seizure. #####
+
+Except where the owner or consignee is personally notified or seizure is made pursuant to a search warrant, the Service shall, as soon as practicable following the seizure or other receipt of seized wildlife or other property, mail a notification of seizure by registered or certified mail, return receipt requested, to the owner or consignee, if known or easily ascertainable. Such notification shall describe the seized wildlife or other property, and shall state the time, place, and reason for the seizure.

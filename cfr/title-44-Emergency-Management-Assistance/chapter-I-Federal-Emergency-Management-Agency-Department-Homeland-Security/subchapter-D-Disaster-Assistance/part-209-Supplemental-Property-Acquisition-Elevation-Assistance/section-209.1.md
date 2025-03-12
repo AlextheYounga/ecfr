@@ -1,0 +1,3 @@
+##### § 209.1 Purpose. #####
+
+This part provides guidance on the administration of a program to provide supplemental property acquisition and elevation assistance made available by Congress to provide funds for the acquisition or elevation, for hazard mitigation purposes, of properties that have been made uninhabitable by floods in areas that were declared major disasters in federal fiscal years 1999 and 2000.

@@ -1,0 +1,11 @@
+##### § 1314.6 Obligations of TVA. #####
+
+(a) Except in the case of a security interest in favor of the United States or a Reserve Bank or otherwise as provided in § 1314.5(c), for the purposes of this part 1314, TVA and Reserve Banks shall treat the Participant to whose securities account an interest in a Book-entry TVA Power Security has been credited as the Person exclusively entitled to issue a transfer message, to receive interest and other payments with respect thereof, and otherwise to exercise all the rights and powers with respect to such security, notwithstanding any information or notice to the contrary. Neither TVA nor the Reserve Banks are liable to a Person asserting or having an adverse claim to a Security Entitlement or to a Book-entry TVA Power Security in a Participant's Security Account, including any such claim arising as a result of the transfer or disposition of a Book-entry TVA Power Security by a Reserve Bank pursuant to a transfer message that the Reserve Bank reasonably believes to be genuine.
+
+(b) The obligation of TVA to make payments with respect to Book-entry TVA Power Securities is discharged at the time payment in the appropriate amount is made as follows:
+
+(1) Interest or other payments on Book-entry TVA Power Securities are either credited by a Reserve Bank to a Funds Account maintained at such bank or otherwise paid as directed by the Participant.
+
+(2) Book-entry TVA Power Securities are redeemed in accordance with their terms by a Reserve Bank withdrawing the securities from the Participant's Security Account in which they are maintained and by either crediting the amount of the redemption proceeds, including both principal and interest, where applicable, to a Funds Account at such bank or otherwise paying such principal and interest as directed by the Participant. No action by the Participant ordinarily is required in connection with the redemption of a Book-entry TVA Power Security.
+
+[62 FR 920, Jan. 7, 1997; 62 FR 8619, 8620, Feb. 26, 1997]

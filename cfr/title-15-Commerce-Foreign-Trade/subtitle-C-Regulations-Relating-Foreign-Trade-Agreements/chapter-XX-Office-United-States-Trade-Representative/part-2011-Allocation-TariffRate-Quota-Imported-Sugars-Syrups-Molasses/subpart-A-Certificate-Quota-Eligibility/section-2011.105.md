@@ -1,0 +1,9 @@
+##### § 2011.105 Form and applicability of certificate. #####
+
+(a) *Contents.* Each certificate shall be numbered and identified by the foreign country. The certificate shall state that the quantity specified on the certificate is eligible to be entered into the United States during the applicable quota period. The certificate shall provide spaces into which the following information must be inserted by the certifying authority of the foreign country: Quantity eligible to be entered; name of shipper; name of vessel; and port of loading. The following information, if known, may also be specified on the certificate by the certifying authority: name and address of consignee; expected date of departure; expected date of arrival in U.S.; and expected port(s) of arrival in the United States. The certificate shall also provide an area where the certifying authority of the foreign country shall affix a seal or other form of authentication and sign and date the certificate.
+
+(b) *Other limitations.* The Secretary may attach such other terms, limitations, or conditions to individual certificates of quota eligibility as he or she determines are appropriate to carry out the purposes of this subpart, provided that such other terms, limitations, or conditions will not have the effect of modifying the allocation of sugar made pursaunt to the provisions of subdivision (b) of additional U.S. Note 5. Such terms, limitations, or conditions may include, but are not limited to, maximum quantities per certificate and a specified period of time during which the certificate shall be valid. In no event shall the maximum quantity per certificate exceed 10,000 short tons.
+
+(c) *Applicability of the certificate.* The certificate of quota eligibility shall only be applicable to the shipment of sugar for which it was executed and issued by the certifying authority.
+
+[55 FR 40648, Oct. 4, 1990, as amended at 61 FR 26784, May 29, 1996]

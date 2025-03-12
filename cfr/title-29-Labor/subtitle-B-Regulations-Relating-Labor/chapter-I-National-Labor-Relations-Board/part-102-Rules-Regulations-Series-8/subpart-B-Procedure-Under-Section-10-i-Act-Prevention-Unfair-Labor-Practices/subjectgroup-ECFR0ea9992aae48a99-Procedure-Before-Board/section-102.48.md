@@ -1,0 +1,15 @@
+##### § 102.48 Action of the Board upon expiration of time to file exceptions to the administrative law judge's decision; decisions by the Board; extraordinary postdecisional motions. #####
+
+(a) In the event no timely or proper exceptions are filed as herein provided, the findings, conclusions, and recommendations of the administrative law judge as contained in his decision shall, pursuant to section 10(c) of the Act, automatically become the decision and order of the Board and become its findings, conclusions, and order, and all objections and exceptions thereto shall be deemed waived for all purposes.
+
+(b) Upon the filing of timely and proper exceptions, and any cross-exceptions, or answering briefs, as provided in § 102.46, the Board may decide the matter forthwith upon the record, or after oral argument, or may reopen the record and receive further evidence before a member of the Board or other Board agent or agency, or may make other disposition of the case.
+
+(c) Where exception is taken to a factual finding of the administrative law judge, the Board, in determining whether the finding is contrary to a preponderance of the evidence, may limit its consideration to such portions of the record as are specified in the exceptions, the supporting brief, and the answering brief.
+
+(d)(1) A party to a proceeding before the Board may, because of extraordinary circumstances, move for reconsideration, rehearing, or reopening of the record after the Board decision or order. A motion for reconsideration shall state with particularity the material error claimed and with respect to any finding of material fact shall specify the page of the record relied on. A motion for rehearing shall specify the error alleged to require a hearing *de novo* and the prejudice to the movant alleged to result from such error. A motion to reopen the record shall state briefly the additional evidence sought to be adduced, why it was not presented previously, and that, if adduced and credited, it would require a different result. Only newly discovered evidence, evidence which has become available only since the close of the hearing, or evidence which the Board believes should have been taken at the hearing will be taken at any further hearing.
+
+(2) Any motion pursuant to this section shall be filed within 28 days, or such further period as the Board may allow, after the service of the Board's decision or order, except that a motion for leave to adduce additional evidence shall be filed promptly on discovery of such evidence. Copies of any request for an extension of time shall be served promptly on the other parties.
+
+(3) The filing and pendency of a motion under this provision shall not operate to stay the effectiveness of the action of the Board unless so ordered. A motion for reconsideration or for rehearing need not be filed to exhaust administrative remedies.
+
+[28 FR 7974, Aug. 6, 1963, as amended at 34 FR 14432, Sept. 16, 1969; 51 FR 23746, July 1, 1986; 56 FR 49143, Sept. 27, 1991]

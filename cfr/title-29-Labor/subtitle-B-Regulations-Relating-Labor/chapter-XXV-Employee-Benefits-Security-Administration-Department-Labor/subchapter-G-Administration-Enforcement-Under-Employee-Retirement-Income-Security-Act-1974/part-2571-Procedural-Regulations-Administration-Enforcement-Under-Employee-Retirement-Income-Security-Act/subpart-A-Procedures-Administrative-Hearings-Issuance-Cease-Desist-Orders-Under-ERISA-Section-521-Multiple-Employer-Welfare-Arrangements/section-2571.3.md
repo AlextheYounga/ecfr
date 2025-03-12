@@ -1,0 +1,13 @@
+##### § 2571.3 Service: copies of documents and pleadings. #####
+
+For section 521 proceedings, this section shall apply in lieu of § 18.3 of this title:
+
+(a) *In general.* Copies of all documents shall be served on all parties of record. All documents should clearly designate the docket number, if any, and short title of all matters. All documents to be filed shall be delivered or mailed to the Chief Docket Clerk, Office of Administrative Law Judges, 800 K Street NW., Suite 400, Washington, DC 20001-8002, or to the OALJ Regional Office to which the section 521 proceeding may have been transferred for hearing. Each document filed shall be clear and legible.
+
+(b) *By parties.* All motions, petitions, pleadings, briefs, or other documents shall be filed with the Office of Administrative Law Judges with a copy, including any attachments, to all other parties of record. When a party is represented by an attorney, service shall be made upon the attorney. Service of any document upon any party may be made by personal delivery or by mailing a copy to the last known address. The Secretary shall be served by delivery to the Associate Solicitor, Plan Benefits Security Division, ERISA Section 521 Proceeding, P.O. Box 1914, Washington, DC 20013 and any attorney named for service of process as set forth in the temporary order. The person serving the document shall certify to the manner of date and service.
+
+(c) *By the Office of Administrative Law Judges.* Service of orders, decisions, and all other documents shall be made in such manner as the Office of Administrative Law Judges determines to the last known address.
+
+(d) *Form of pleadings.* (1) Every pleading or other paper filed in a section 521 proceeding shall designate the Employee Benefits Security Administration (EBSA) as the agency under which the proceeding is instituted, the title of the proceeding, the docket number (if any) assigned by the Office of Administrative Law Judges and a designation of the type of pleading or paper (e.g., notice, motion to dismiss, etc.). The pleading or paper shall be signed and shall contain the address and telephone number of the party or person representing the party. Although there are no formal specifications for documents, they should be printed when possible on standard size 81/2 × 11 inch paper.
+
+(2) Illegible documents, whether handwritten, printed, photocopies, or otherwise, will not be accepted. Papers may be reproduced by any duplicating process provided all copies are clear and legible.

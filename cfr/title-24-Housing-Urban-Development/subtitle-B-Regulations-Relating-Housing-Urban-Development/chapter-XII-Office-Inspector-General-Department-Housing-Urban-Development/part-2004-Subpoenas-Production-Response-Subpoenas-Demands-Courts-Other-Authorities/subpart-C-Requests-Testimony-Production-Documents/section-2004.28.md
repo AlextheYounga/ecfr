@@ -1,0 +1,13 @@
+##### § 2004.28 Procedure in the event of an adverse ruling. #####
+
+(a) *Opportunity to review adverse ruling.* Any person aggrieved by a decision made by the Counsel under this part denying a request for documents or testimony, or restricting the release of documents or testimony, may seek review of that decision pursuant to paragraph (c) of this section.
+
+(b) *Procedure in the event of conflicting court order.* If the Inspector General or Counsel declines to approve a demand for records or testimony and a court or other authority rules that the demand must be complied with irrespective of the instructions from the OIG not to produce the material or disclose the information sought, the employee or former employee upon whom the demand has been made shall respectfully decline to comply with the demand, citing *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).
+
+(c) *Procedure*—(1) *Notice of intention to petition for review.* A party or any person aggrieved by the decision made pursuant to this part denying or restricting the release of documents or testimony may seek review of the decision by filing a written Notice of Intention to Petition for Review (Notice) within five business days of the date of this decision. The Notice shall identify the petitioner, the adverse decision, and any dates (such as deposition, hearing, or court dates) that are significant to the party. The Notice shall be served in accordance with § 2004.23.
+
+(2) *Petition for review.* Within five business days of the filing of a Notice, the person or party seeking review shall file a Petition for Review (Petition) containing a clear and concise statement of the issues to be reviewed and the reasons why the review is appropriate. The petition shall include exceptions to any findings of fact or conclusions of law made, together with supporting reasons and arguments for such exceptions based on appropriate citations to such record or law as may exist. These reasons may be stated in summary form. Decisions on the Petition may be made by either the Inspector General or the Counsel and shall become the final decisions of the OIG. The Petition will be served in accordance with § 2004.23.
+
+(d) *Prerequisite to judicial review.* Pursuant to Section 704 of the Administrative Procedure Act, 5 U.S.C. 704, a petition to the agency for review of a decision made under the authority of this part is a prerequisite to the seeking of judicial review of the final decision.
+
+[70 FR 36791, June 24, 2005]

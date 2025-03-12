@@ -1,0 +1,3 @@
+##### § 779.500 Purpose of subpart. #####
+
+In Subpart A of this part, reference was made to a number of regulations which discuss provisions of the Act, such as general coverage, overtime compensation, joint employment, hours worked, and methods of payment of wages, which are applicable to others as well as to retailers and their employees. (See § 779.6.) In addition to those provisions, the act contains other provisions of interest to retailers and their employees. It is the purpose of this subpart to focus attention on several of the more significant provisions in these categories.

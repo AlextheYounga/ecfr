@@ -1,0 +1,5 @@
+##### § 118.12 Action on application. #####
+
+Following submission of all applications in accordance with §§ 118.2 and 118.11 of this part, the port director will advise the public of the applications received and invite comments thereon under the public notice and comment procedures set forth in § 118.2; with regard to each application, the notice will set forth the name of the applicant, the address of the facility proposed to be operated as the CES, the proposed fee schedule, the list of equipment at the facility, and the number of employees to be involved in the CES operation. The port director, based on a review of all applications under the criteria set forth in § 118.11 and any public comments submitted under § 118.2 or this section, shall determine whether a CES operator should be selected and, if a CES operator is to be selected, shall select the applicant that will best meet the examination needs of Customs and facilitate the movement of merchandise.
+
+[T.D. 93-6, 58 FR 5604, Jan. 22, 1993, as amended by T.D. 99-64, 64 FR 43266, Aug. 10, 1999]

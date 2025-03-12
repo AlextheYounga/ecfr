@@ -1,0 +1,3 @@
+##### § 295.4 Organization of this part 295. #####
+
+This part contains six subparts. Subpart A provides an overview of the CGFAA process. Subpart B describes the procedures for bringing a claim. Subpart C explains what compensation is available. Subpart D discusses the claims evaluation process. Subpart E explains the dispute resolution process. Subpart F contains a glossary in which various terms used in the rule are defined.

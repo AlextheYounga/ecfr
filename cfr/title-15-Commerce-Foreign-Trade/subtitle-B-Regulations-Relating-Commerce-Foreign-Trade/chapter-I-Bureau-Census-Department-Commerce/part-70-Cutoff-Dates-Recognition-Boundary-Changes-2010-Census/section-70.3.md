@@ -1,0 +1,3 @@
+##### § 70.3 Effect of boundary changes occurring or reported after the cutoff dates. #####
+
+The Bureau of the Census will not recognize changes in boundaries that become effective after January 1, 2010 in taking the 2010 Decennial Census; the Bureau of the Census will enumerate the residents of any area that are transferred to another jurisdiction after that date and report them for the 2010 Census as residents of the area in which they resided on January 1, 2010. The Bureau of the Census will not recognize in the data tabulations prepared for the 2010 census changes occurring on or before January 1, 2010, but not submitted officially to the Bureau of the Census until after March 1, 2010 except as necessary to conduct decennial census operations.

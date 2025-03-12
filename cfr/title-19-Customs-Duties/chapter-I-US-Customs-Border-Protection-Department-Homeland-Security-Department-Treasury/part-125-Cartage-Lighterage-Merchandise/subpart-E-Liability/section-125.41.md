@@ -1,0 +1,7 @@
+##### § 125.41 Liability for cartage. #####
+
+(a) *Liability of cartman, lighterman or bonded carrier.* The cartman, lighterman, or bonded carrier conveying the merchandise, including merchandise covered by a TIR carnet which has not been “taken on charge” (see § 114.22(c)(2) of this chapter), shall be liable under his bond for its prompt delivery in sound condition, or in no worse than the damaged condition noted on the delivery ticket, if damage is so noted.
+
+(b) *Liability of foreign trade zone operator, bonded warehouse proprietor, container station operator or centralized examination station operator.* A foreign trade zone operator, bonded warehouse proprietor, container station operator or centralized examination station operator who picks up merchandise including merchandise covered by a TIR carnet which has not been “taken on charge”, to transport the merchandise to his own facility shall be liable under his bond for the merchandise as soon as he collects the merchandise. The merchandise must be receipted as soon as it is picked up and must be delivered to either the respective foreign trade zone, bonded warehouse, container station or centralized examination station promptly after it is picked up in sound condition, or in no worse than the damaged condition noted on the delivery ticket, if damage is noted.
+
+[T.D. 94-81, 59 FR 51496, Oct. 12, 1994]

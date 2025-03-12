@@ -1,0 +1,7 @@
+##### § 16.8 Termination of participation. #####
+
+(a) The Secretary upon finding that a participant is not complying with the conditions set out in these procedures or in a Specification may terminate upon 30 days notice the participant's right to continue his participation in the program: *Provided,* That the participant shall first by given an opportunity to show cause why the participation should not be terminated.
+
+(b) Upon receipt of a notice from the Secretary of the proposed termination, which notice shall set forth the reasons for such proposed termination, the participant shall have thirty (30) days from the date of receipt of such notification to request a hearing under the provisions of 5 U.S.C. 556. The Secretary's proposed termination shall become final through the issuance of a written decision to the participant in the event such participant does not appeal the proposed termination within the thirty (30) day period. If, however, the participant requests a hearing within the thirty (30) day period, the Secretary's proposed termination shall be stayed pending the outcome of the hearing held pursuant to 5 U.S.C. 556.
+
+(c) A participant may at any time terminate his participation and responsibilities under this program with regard to a specific type of product by giving written notice to the Secretary that he has discontinued use of the Department of Commerce Label and Mark for all consumer products of the type involved.

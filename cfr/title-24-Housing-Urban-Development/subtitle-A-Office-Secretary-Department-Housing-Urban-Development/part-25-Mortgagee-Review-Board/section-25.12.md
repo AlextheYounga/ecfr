@@ -1,0 +1,11 @@
+##### § 25.12 Public access to information; publication of actions. #####
+
+(a) Where a notice of administrative action does not result in a hearing and in any cases in which a settlement is entered into by the Board and a mortgagee, all non-privileged information regarding the nature of the violation and the resolution of the action shall be available to the public.
+
+(b) Publication in the Federal Register. The Secretary shall publish, in the Federal Register, a description of and the cause for each administrative action taken by the Board against a mortgagee.
+
+(c) *Notification of other agencies.* Whenever the Board has taken any discretionary action to suspend and/or withdraw the approval of a mortgagee, the Secretary shall provide prompt notice of the action and a statement of the reasons for the action to the Secretary of Veterans Affairs; the chief executive officer of the Federal National Mortgage Association; the chief executive officer of the Federal Home Loan Mortgage Corporation; the Administrator of the Rural Housing Service (formerly the Farmers Home Administration); the Comptroller of the Currency, if the mortgagee is a National Bank or District Bank or subsidiary or affiliate of such a bank; the Board of Governors of the Federal Reserve System, if the mortgagee is a state bank that is a member of the Federal Reserve System or a subsidiary or affiliate of such a bank, or a bank holding company or a subsidiary or affiliate of such a company; the Board of Directors of the Federal Deposit Insurance Corporation, if the mortgagee is a state bank that is not a member of the Federal Reserve System, or is a subsidiary or affiliate of such a bank; and the Director of the Office of Thrift Supervision, if the mortgagee is a federal or state savings association or a subsidiary or affiliate of a savings association.
+
+(d) *Notification to GNMA of withdrawal actions.* Whenever the Board issues a notice of violation that could lead to withdrawal of a mortgagee's approval, or is notified by GNMA of an action that could lead to withdrawal of GNMA approval, the Board shall proceed in accordance with 12 U.S.C. 1708(d).
+
+[73 FR 60542, Oct. 10, 2008]

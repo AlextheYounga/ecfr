@@ -1,0 +1,5 @@
+##### § 125.42 Cancellation of liability. #####
+
+The Fines, Penalties, and Forfeitures Officer, in accordance with delegated authority, may cancel liquidated damages incurred under the bond of the foreign trade zone operator, containing the bond conditions set forth in § 113.73 of this chapter, or under the bond of the cartman, lighterman, bonded carrier, bonded warehouse operator, container station operator or centralized examination station operator on Customs Form 301, containing the bond conditions set forth in § 113.63 of this chapter, upon the payment of such lesser amount, or without the payment of any amount, as the Fines, Penalties, and Forfeitures Officer may deem appropriate under the circumstances. Application for cancellation of liquidated damages incurred shall be made in accordance with the provisions of part 172 of this chapter.
+
+[T.D. 00-57, 65 FR 53575, Sept. 5, 2000]

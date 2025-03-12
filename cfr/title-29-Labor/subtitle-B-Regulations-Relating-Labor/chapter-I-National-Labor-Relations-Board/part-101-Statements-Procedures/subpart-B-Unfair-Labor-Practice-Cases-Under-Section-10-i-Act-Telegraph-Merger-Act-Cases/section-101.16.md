@@ -1,0 +1,7 @@
+##### § 101.16 Backpay proceedings. #####
+
+(a) After a Board order directing the payment of backpay has been issued or after enforcement of such order by a court judgment, if informal efforts to dispose of the matter prove unsuccessful, the Regional Director then has discretion to issue a “backpay specification” in the name of the Board and a notice of hearing before an administrative law judge, both of which are served on the parties involved. The specification sets forth computations showing gross and net backpay due and any other pertinent information. The respondent must file an answer within 21 days of the receipt of the specification, setting forth a particularized statement of its defense.
+
+(b) In the alternative, the Regional Director, under the circumstances specified above, may issue and serve on the parties a notice of hearing only, without a specification. Such notice contains, in addition to the time and place of hearing before an administrative law judge, a brief statement of the matters in controversy.
+
+(c) The procedure before the administrative law judge or the Board, whether initiated by the “backpay specification” or by notice of hearing without backpay specification, is substantially the same as that described in §§ 101.10 to 101.14, inclusive.

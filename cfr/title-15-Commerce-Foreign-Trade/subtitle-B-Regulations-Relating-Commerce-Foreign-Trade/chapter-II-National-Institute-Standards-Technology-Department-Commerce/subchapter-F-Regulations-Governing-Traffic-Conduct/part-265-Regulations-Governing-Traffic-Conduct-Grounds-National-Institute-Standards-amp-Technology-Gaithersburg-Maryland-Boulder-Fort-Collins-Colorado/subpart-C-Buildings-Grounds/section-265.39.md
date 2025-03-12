@@ -1,0 +1,3 @@
+##### § 265.39 Weapons and explosives. #####
+
+Except in connection with the conduct of official business on the site, no person other than uniformed guards specifically authorized, or other Federal, State, or local law enforcement officials so authorized, shall carry, transport, or otherwise possess on the site, firearms whether loaded or not, other dangerous or deadly weapons or materials, or explosives, either openly or concealed, without the written permission of the Director or his designee.

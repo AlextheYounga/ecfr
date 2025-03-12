@@ -1,0 +1,3 @@
+##### § 95.30 Purpose of property standards. #####
+
+Sections 95.31 through 95.37 set forth uniform standards governing management and disposition of property furnished by the Federal Government whose cost was charged to a project supported by a Federal award. Recipients are required to observe these standards under awards and no additional requirements shall be imposed, unless specifically required by Federal statute. The recipient may use its own property management standards and procedures provided it observes the provisions of §§ 95.31 through 95.37.

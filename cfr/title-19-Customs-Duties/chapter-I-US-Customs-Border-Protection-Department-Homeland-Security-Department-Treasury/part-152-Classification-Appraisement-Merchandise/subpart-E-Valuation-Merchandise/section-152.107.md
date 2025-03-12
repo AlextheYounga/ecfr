@@ -1,0 +1,7 @@
+##### § 152.107 Value if other values cannot be determined or used. #####
+
+(a) *Reasonable adjustments.* If the value of imported merchandise cannot be determined or otherwise used for the purposes of this subpart, the imported merchandise will be appraised on the basis of a value derived from the methods set forth in §§ 152.103 through 152.106, reasonably adjusted to the extent necessary to arrive at a value. Only information available in the United States will be used.
+
+(b) *Identical merchandise or similar merchandise.* The requirement that identical merchandise, or similar merchandise, should be exported at or about the same time of exportation as the merchandise being appraised may be interpreted flexibly. Identical merchandise, or similar merchandise, produced in any country other than the country of exportation or production of the merchandise being appraised may be the basis for customs valuation. Customs values of identical merchandise, or similar merchandise, already determined on the basis of deductive value or computed value may be used.
+
+(c) *Deductive value.* The “90 days” requirement for the sale of merchandise referred to in § 152.105(c) may be administered flexibly.

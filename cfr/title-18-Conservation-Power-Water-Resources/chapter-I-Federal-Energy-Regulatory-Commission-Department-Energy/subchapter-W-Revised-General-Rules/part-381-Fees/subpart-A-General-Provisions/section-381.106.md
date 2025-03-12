@@ -1,0 +1,7 @@
+##### § 381.106 Waivers. #####
+
+(a) *Filing of petition.* If an applicant is suffering from severe economic hardship at the time of filing an application which makes the applicant economically unable to pay the appropriate fee for the application, rate change, tariff, petition, request or other filing requiring a fee, the applicant may submit an original and two copies of a petition for waiver with the application in lieu of the applicable fee. The petition for waiver must include evidence, such as a financial statement, clearly showing either that the applicant does not have the money to pay all or part of the fee, or that if the applicant does pay the fee, the applicant will be placed in financial distress or emergency.
+
+(b) *Decision on petition.* The Commission or its designee will analyze each petition to determine whether the applicant has met the standards for waiver and then will notify the applicant of its grant or denial, in whole or in part. If the petition is denied, the applicant will have 30 days from the date of notification of the denial to submit the appropriate fee to the Commission.
+
+[Order 360, 49 FR 5081, Feb. 10, 1984, as amended by Order 395, 49 FR 35356, Sept. 7, 1984]

@@ -1,0 +1,9 @@
+##### § 351.403 Sales used in calculating normal value; transactions between affiliated parties. #####
+
+(a) *Introduction.* This section clarifies when the Secretary may use offers for sale in determining normal value. Additionally, this section clarifies the authority of the Secretary to use sales to or through an affiliated party as a basis for normal value. (*See* section 773(a)(5) of the Act (indirect sales or offers for sale).)
+
+(b) *Sales and offers for sale.* In calculating normal value, the Secretary normally will consider offers for sale only in the absence of sales and only if the Secretary concludes that acceptance of the offer can be reasonably expected.
+
+(c) *Sales to an affiliated party.* If an exporter or producer sold the foreign like product to an affiliated party, the Secretary may calculate normal value based on that sale only if satisfied that the price is comparable to the price at which the exporter or producer sold the foreign like product to a person who is not affiliated with the seller.
+
+(d) *Sales through an affiliated party.* If an exporter or producer sold the foreign like product through an affiliated party, the Secretary may calculate normal value based on the sale by such affiliated party. However, the Secretary normally will not calculate normal value based on the sale by an affiliated party if sales of the foreign like product by an exporter or producer to affiliated parties account for less than five percent of the total value (or quantity) of the exporter's or producer's sales of the foreign like product in the market in question or if sales to the affiliated party are comparable, as defined in paragraph (c) of this section.

@@ -1,0 +1,5 @@
+##### § 1003.605 Environment. #####
+
+(a) In order to assure that the policies of the National Environmental Policy Act of 1969 and other provisions of Federal law which further the purposes of that act (as specified in 24 CFR 58.5) are most effectively implemented in connection with the expenditure of ICDBG funds, the grantee shall comply with the Environment Review Procedures for Entities Assuming HUD Environmental Responsibilities (24 CFR part 58). Upon completion of an environmental review, the grantee shall submit a certification and request for release of funds for particular projects in accordance with 24 CFR part 58. The grantee shall also be responsible for compliance with flood insurance, coastal barrier resource and airport clear zone requirements under 24 CFR 58.6.
+
+(b) In accordance with 24 CFR 58.34(a)(8), grants for imminent threats to health or safety approved under the provisions of subpart E of this part are exempt from some or all of the environmental review requirements of 24 CFR part 58, to the extent provided in that section.

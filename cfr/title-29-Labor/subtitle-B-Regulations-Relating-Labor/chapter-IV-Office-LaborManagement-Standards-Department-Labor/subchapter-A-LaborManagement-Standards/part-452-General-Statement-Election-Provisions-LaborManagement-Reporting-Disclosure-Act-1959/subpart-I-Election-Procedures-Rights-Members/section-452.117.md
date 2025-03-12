@@ -1,0 +1,3 @@
+##### § 452.117 Majority of votes not required for election. #####
+
+A labor organization may by its constitution and bylaws provide for the election of the candidate who receives the greatest number of votes, although he does not have a majority of all the votes cast. Alternatively, it may provide that where no candidate receives a majority of all the votes cast, a run-off election be held between the two candidates having the highest vote. Similarly, a labor organization conducting an election to choose five members of an executive board may designate as elected from among all the nominees the five candidates who receive the highest vote.

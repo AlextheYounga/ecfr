@@ -1,0 +1,3 @@
+##### § 42.3 National Committee. #####
+
+A National Farm Labor Coordinated Enforcement Committee (*National Committee*) is hereby established which shall be responsible for: Reviewing policies, guidelines and enforcement goals and strategies for the Department of Labor with respect to migrant farm labor-related enforcement efforts under the protective statutes; resolving policies which are in conflict between DOL agencies; advising the Secretary on legislative initiatives which would strengthen farm labor-related enforcement efforts; and providing guidance and recommendations to DOL agencies on related enforcement activities.

@@ -1,0 +1,3 @@
+##### § 700.160 Eligibility and priority for 1978 Act recipients. #####
+
+Grantees funded initially under 42 U.S.C. 8001 shall be eligible to receive continued, non-competitive funding subject to its availability. These grantees will be eligible to receive priority funding under this part if they comply with the regulations in this part and with the requirements of any NOFA issued in a particular fiscal year.

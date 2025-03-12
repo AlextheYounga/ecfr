@@ -1,0 +1,3 @@
+##### § 10.712 Verification of claim for preferential tariff treatment. #####
+
+A claim for preferential tariff treatment made under § 10.703 of this subpart, including any statements or other information submitted to CBP in support of the claim, will be subject to such verification as the port director deems necessary. In the event that the port director for any reason is prevented from verifying the claim, or is provided with insufficient information to verify or substantiate the claim, the port director may deny the claim for preferential tariff treatment.

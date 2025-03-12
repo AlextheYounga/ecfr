@@ -1,0 +1,3 @@
+##### § 520.1 Purpose. #####
+
+These regulations implement the provisions of the “Freedom of Information Act,” 5 U.S.C. 552. They establish procedures under which the public may inspect and obtain copies of nonexempt material maintained by the Commission, provide for administrative appeal of initial determinations to deny requests for material, and prescribe uniform fees to be charged by the Commission to recover direct search and duplication costs.

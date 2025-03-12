@@ -1,0 +1,3 @@
+##### § 78.6 Flood Mitigation Plan approval process. #####
+
+The State POC will forward all Flood Mitigation Plans to the FEMA Regional Administrator for approval. The Regional Administrator will notify the State POC of the approval or disapproval of the plan within 120 days after submission. If the Regional Administrator does not approve a mitigation plan, the Regional Administrator will notify the State POC of the reasons for non-approval and offer suggestions for improvement.

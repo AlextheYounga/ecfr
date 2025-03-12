@@ -1,0 +1,3 @@
+##### § 401.4 Records. #####
+
+Each person participating in any transaction covered by this order shall retain in his possession, for at least 2 years, records of shipments in sufficient detail to permit an audit that determines for each transaction that the provisions of this order have been met. This does not specify any particular accounting method and does not require alteration of the system of records customarily maintained, provided such records supply an adequate basis for audit. Records may be retained in the form of microfilm or other photographic copies instead of the originals.

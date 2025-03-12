@@ -1,0 +1,9 @@
+##### § 2200.4 Computation of time. #####
+
+(a) *Computation.* In computing any period of time prescribed or allowed in these rules, the day from which the designated period begins to run shall not be included. The last day of the period so computed shall be included unless it is a Saturday, Sunday or Federal holiday, in which event the period runs until the end of the next day which is not a Saturday, Sunday, or Federal holiday. When the period of time prescribed or allowed is less than 11 days, the period shall commence on the first day which is not a Saturday, Sunday, or Federal holiday, and intermediate Saturdays, Sundays, and Federal holidays shall likewise be excluded from the computation.
+
+(b) *Service by mail.* Where service of a document, including documents issued by the Commission or Judge, is made by mail pursuant to § 2200.7, a separate period of 3 days shall be allowed, in addition to the prescribed period, for the filing of a response. This additional 3-day period shall commence on the calendar day following the day on which service has been made and shall include all calendar days; that is, paragraph (a) of this section shall not apply to the extent it requires the exclusion of Saturdays, Sundays, or Federal holidays. The prescribed period for the responsive filing shall commence on the first day following the expiration of the 3-day period, except when the prescribed period is less than 11 days. Where the period is less than 11 days, it shall commence on the first day following the expiration of the 3-day period that is not a Saturday, Sunday, or Federal holiday.
+
+(c) *Exclusion.* Paragraph (b) of this section does not apply to petitions for discretionary review. The period of time for filing a petition for discretionary review is governed by § 2200.91(b).
+
+[57 FR 41683, Sept. 11, 1992]

@@ -1,0 +1,17 @@
+##### § 123.41 Truck shipments transiting Canada. #####
+
+(a) *Manifest required.* Trucks with merchandise transiting Canada from point to point in the United States will be manifested on United States-Canada Transit Manifest, Customs Form 7512-B Canada 81/2. The driver shall present the manifest in four copies to U.S. Customs at the United States port of departure for review and validation.
+
+(b) *Procedure at United States port of departure.* The Customs officer receiving the manifest shall validate it by stamping each copy in the lower right hand corner to show the port name and date and by initialing each copy. All copies of the validated manifest then will be returned to the driver for presentation to Canadian Customs at the Canadian port of entry.
+
+(c) *Procedure at Canadian ports of arrival and exit.* Truck shipments transiting Canada shall comply with Canadian Customs regulations. These procedures generally are as follows:
+
+(1) *Canadian port of arrival.* The driver shall present a validated United States-Canada Transit Manifest Customs Form 7512-B Canada 81/2, in four copies to the Canadian Customs officer, who shall review the manifest for accuracy and verify its validation by U.S. Customs. If the manifest is found not to be properly validated, the truck shall be required to be returned to the United States port of departure so that the manifest may be validated. If the manifest is validated properly and no irregularity is found, the truck will be sealed unless sealing is waived by Canadian Customs. The original manifest will be retained by Canadian Customs at the port of arrival, and the three copies will be returned to the driver for presentation to Canadian Customs at the Canadian port of exit.
+
+(2) *Canadian port of exit.* The driver shall present the three copies of the validated manifest to the Canadian Customs officer at the Canadian port of exit for certification. That officer shall verify that the seals are intact if the vehicle has been sealed or, if sealing has been waived, that there are no irregularities. After verification and certification of the manifest, two certified copies will be returned to the driver (one to be presented to U.S. Customs at the United States port of reentry, the other for the carrier's records), and the truck will be allowed to proceed to the United States.
+
+(d) *Procedure at United States port of reentry.* The driver of a truck reentering the United States after transiting Canada shall present a certified copy of the United States-Canada Transit Manifest, Customs Form 7512-B Canada 81/2, to the U.S. Customs officer. If this copy of the manifest does not bear the certification of a Canadian Customs officer at the Canadian port of exit, the driver will be allowed to return to that port to have it certified. The driver will be allowed to break any seals affixed by Canadian Customs upon presentation of a certified manifest. If sealing has been waived, the U.S. Customs officer shall satisfy himself that the truck contains only that merchandise covered by the manifest which moved on the truck from the United States through Canada.
+
+(e) *Proof of exportation from Canada.* The certified copy of the manifest returned to the driver by Canadian Customs at the Canadian port of exit will serve as proof of exportation of the shipment from Canada.
+
+[T.D. 81-85, 46 FR 21990, Apr. 15, 1981]

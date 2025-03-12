@@ -1,0 +1,9 @@
+##### § 636.201 What selection procedures and award criteria may be used? #####
+
+You should consider using two-phase selection procedures for all design-build projects. However, if you do not believe two-phase selection procedures are appropriate for your project (based on the criteria in § 636.202), you may use a single phase selection procedure or the modified-design-build contracting method. The following procedures are available:
+
+|                  Selection procedure                   |  Criteria for using a selection procedure   |                                                             Award criteria options                                                              |
+|--------------------------------------------------------|---------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+|(a) Two-Phase Selection Procedures (RFQ followed by RFP)|                  § 636.202                  |Lowest price, Adjusted low-bid (price per quality point), meets criteria/low bid, weighted criteria process, fixed price/best design, best value.|
+|                 (b) Single Phase (RFP)                 |Project not meeting the criteria in § 636.202|                                              All of the award criteria in item (a) of this table.                                               |
+|  (c) Modified Design-Build (may be one or two phases)  |                 Any project                 |                                                      Lowest price technically acceptable.                                                       |

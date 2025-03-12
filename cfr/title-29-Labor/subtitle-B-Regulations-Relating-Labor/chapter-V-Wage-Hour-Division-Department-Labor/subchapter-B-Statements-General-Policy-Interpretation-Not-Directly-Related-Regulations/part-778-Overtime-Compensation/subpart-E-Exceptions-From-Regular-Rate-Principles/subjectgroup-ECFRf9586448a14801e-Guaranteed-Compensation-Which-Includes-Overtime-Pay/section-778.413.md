@@ -1,0 +1,5 @@
+##### § 778.413 Guaranty must be based on rates specified in contract. #####
+
+The guaranty of pay must be “based on the rate so specified,” in the contract. If the contract specifies a regular rate of $5 and an overtime rate of $7.50 and guarantees pay for 50 hours and the maximum hours standard is 40 hours, the amount of the guaranty must be $275, if it is to be based on the rates so specified. A guaranty of $290 in such a situation would not, obviously, be based on the rates specified in the contract. Moreover, a contract which provides a variety of different rates for shift differentials, arduous or hazardous work, stand-by time, piece-rate incentive bonuses, commissions or the like in addition to a specified regular rate and a specified overtime rate with a guaranty of pay of, say, $290 from all sources would not qualify under this section, since the guaranty of pay in such a case is not based on the regular and overtime rates specified in the contract.
+
+[46 FR 7318, Jan. 23, 1981]

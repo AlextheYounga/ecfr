@@ -1,0 +1,3 @@
+##### § 794.112 Only independent and local enterprises qualify for exemption. #####
+
+The legislative history of the exemption (§ 794.101) shows that the proponents of an amendment to provide the relief which it grants from the overtime pay provisions of the Act were organizations of independent local merchants who did not as a rule engage extensively in interstate operations such as those typical of major oil companies, and who functioned primarily at the local level in distributing petroleum products at wholesale or in bulk. As a result the exemption provided by the Act, like that requested, was limited to enterprises which are “local” (§ 794.113) and are “independently owned and controlled” (§§ 794.114-794.118).

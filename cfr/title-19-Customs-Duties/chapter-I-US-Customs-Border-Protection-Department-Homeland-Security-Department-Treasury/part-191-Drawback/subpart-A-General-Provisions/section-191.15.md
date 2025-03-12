@@ -1,0 +1,3 @@
+##### § 191.15 Recordkeeping. #####
+
+Pursuant to 19 U.S.C. 1508(c)(3), all records which pertain to the filing of a drawback claim or to the information contained in the records required by 19 U.S.C. 1313 in connection with the filing of a drawback claim shall be retained for 3 years after payment of such claims or longer period if required by law (under 19 U.S.C. 1508, the same records may be subject to a different period for different purposes).

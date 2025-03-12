@@ -1,0 +1,19 @@
+##### § 10.65 Cigars and cigarettes. #####
+
+(a) Imported cigars and cigarettes in bonded warehouse or otherwise in Customs custody, and such articles manufactured with the use of imported materials in a bonded manufacturing warehouse of class 6, may be withdrawn under section 317, Tariff Act of 1930, as amended, for consumption beginning beyond the 3-mile limit or international boundary, as the case may be, (1) on vessels actually engaged in the foreign, intercoastal, or noncontiguous territory trade within the purview of § 10.59(a); (2) on vessels departing from the port where the withdrawal is made directly for a foreign port, a port on the opposite coast, or a port in one of the possessions of the United States; or (3) on vessels of war or other governmental activity.
+
+(b) The privilege shall not be granted to vessels stationed in American waters for an indefinite period without sailing schedules, nor shall it be granted to aircraft of foreign registry of a country for which there is not in effect a finding and advice by the Department of Commerce under section 309(d), Tariff Act of 1930, as amended, that such country allows privileges to aircraft registered in the United States substantially reciprocal to those described in section 317, Tariff Act of 1930, as amended. See section 10.59(f).
+
+(c) With the following additions and exceptions, the same procedure shall be followed as in the case of withdrawals under section 309(a), Tariff Act of 1930, as amended.
+
+(1) No bond shall be required in the case of vessels operated by the United States Government.
+
+(2) When a shipping case containing cigars and cigarettes is made up of a number of units, each in a separate package, such units may be withdrawn separately, provided each unit is marked and numbered for identification and contains not less than 250 cigars or 1,000 cigarettes. In the case of imported cigars and cigarettes so packed, only one unit from each shipping case shall be opened for examination, unless the port director shall deem it necessary for the protection of the revenue to examine a greater quantity. Imported tobacco products on which the duty or internal-revenue tax has been paid may not be withdrawn under section 317, Tariff Act of 1930, as amended, with a drawback of such duty or internal-revenue tax.
+
+(3) When all the units in such shipping case are not to be withdrawn at the same time or for use on the same vessel, a blanket withdrawal may be filed for the entire case in lieu of a separate withdrawal for each unit. In such event, the withdrawal shall be retained by the warehouse proprietor until delivery receipts are obtained for the entire quantity covered by the withdrawal, provided the total period of time prior to delivery to the using vessel or aircraft does not exceed 5 years. A bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter, when required, shall be filed at the time of or prior to the removal of any of the merchandise from the warehouse for delivery to the vessel on which it is to be used.
+
+(4) Merchandise for which blanket withdrawals are filed shall be stored in a separate room or enclosure in a bonded warehouse under separate locks, and the merchandise clearly marked to show that it has been withdrawn. If, at the time of any such inventory, any merchandise is missing and not properly accounted for, duties shall be paid thereon before any further withdrawals are permitted.
+
+(5) The declaration of use, when required, shall include a statement that consumption of the articles covered by the withdrawal did not begin until the withdrawing vessel or aircraft had proceeded beyond the 3 mile limit or the international boundary.
+
+[28 FR 14663, Dec. 31, 1963, as amended by T.D. 67-193, 32 FR 11764, Aug. 16, 1967; T.D. 70-73, 35 FR 5400, Apr. 1, 1970; T.D. 82-204, 47 FR 49368, Nov. 1, 1982; T.D. 84-213, 49 FR 41166, Oct. 19, 1984; T.D. 89-1, 53 FR 51250, Dec. 21, 1988]

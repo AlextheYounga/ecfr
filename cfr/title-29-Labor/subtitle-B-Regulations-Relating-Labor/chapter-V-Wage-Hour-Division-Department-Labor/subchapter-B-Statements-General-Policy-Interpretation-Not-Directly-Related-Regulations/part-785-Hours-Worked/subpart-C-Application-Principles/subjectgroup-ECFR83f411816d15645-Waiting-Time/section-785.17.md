@@ -1,0 +1,3 @@
+##### § 785.17 On-call time. #####
+
+An employee who is required to remain on call on the employer's premises or so close thereto that he cannot use the time effectively for his own purposes is working while “on call”. An employee who is not required to remain on the employer's premises but is merely required to leave word at his home or with company officials where he may be reached is not working while on call. (*Armour & Co.* v. *Wantock,* 323 U.S. 126 (1944); *Handler* v. *Thrasher,* 191 F. 2d 120 (C.A. 10, 1951); *Walling* v. *Bank of Waynesboro, Georgia,* 61 F. Supp. 384 (S.D. Ga. 1945))

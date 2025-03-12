@@ -1,0 +1,7 @@
+##### § 20.53 Agency responsibilities. #####
+
+(a) The Department of Labor agency responsible for administering the program under which a delinquent debt arose shall assess interest and related charges on the debt, in accordance with guidelines established by the Chief Financial Officer. In the case where a debt arises under the program of two or more Department of Labor agencies, or in such other instances as the Chief Financial Officer, or his or her designee, may deem appropriate, the Chief Financial Officer, or his or her designee, may determine which agency, or official, shall have responsibility for carrying out the provisions of this subpart.
+
+(b) Before assessing any charges on a delinquent debt, the responsible agency must notify the debtor of the Department's policies for assessing interest, penalties and administrative costs and must ensure that the debt is overdue for the respective periods specified in these regulations.
+
+(c) Each Department of Labor agency is responsible for ensuring the continued accuracy of calculations and records relating to its assessment of charges, and for the prompt notification of the debtor of any substantial change in the status or amount of the claim. As appropriate, the Agencies should promptly follow up on any allegation made by a debtor that principal or charges is in error. Agencies should respond promptly to communication from the debtor, within 30 days whenever feasible.

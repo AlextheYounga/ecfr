@@ -1,0 +1,13 @@
+##### § 1625.23 Waivers of rights and claims: Tender back of consideration. #####
+
+(a) An individual alleging that a waiver agreement, covenant not to sue, or other equivalent arrangement was not knowing and voluntary under the ADEA is not required to tender back the consideration given for that agreement before filing either a lawsuit or a charge of discrimination with EEOC or any state or local fair employment practices agency acting as an EEOC referral agency for purposes of filing the charge with EEOC. Retention of consideration does not foreclose a challenge to any waiver agreement, covenant not to sue, or other equivalent arrangement; nor does the retention constitute the ratification of any waiver agreement, covenant not to sue, or other equivalent arrangement.
+
+(b) No ADEA waiver agreement, covenant not to sue, or other equivalent arrangement may impose any condition precedent, any penalty, or any other limitation adversely affecting any individual's right to challenge the agreement. This prohibition includes, but is not limited to, provisions requiring employees to tender back consideration received, and provisions allowing employers to recover attorneys' fees and/or damages because of the filing of an ADEA suit. This rule is not intended to preclude employers from recovering attorneys' fees or costs specifically authorized under federal law.
+
+(c) *Restitution, recoupment, or setoff.* (1) Where an employee successfully challenges a waiver agreement, covenant not to sue, or other equivalent arrangement, and prevails on the merits of an ADEA claim, courts have the discretion to determine whether an employer is entitled to restitution, recoupment or setoff (hereinafter, “reduction”) against the employee's monetary award. A reduction never can exceed the amount recovered by the employee, or the consideration the employee received for signing the waiver agreement, covenant not to sue, or other equivalent arrangement, whichever is less.
+
+(2) In a case involving more than one plaintiff, any reduction must be applied on a plaintiff-by-plaintiff basis. No individual's award can be reduced based on the consideration received by any other person.
+
+(d) No employer may abrogate its duties to any signatory under a waiver agreement, covenant not to sue, or other equivalent arrangement, even if one or more of the signatories or the EEOC successfully challenges the validity of that agreement under the ADEA.
+
+[65 FR 77446, Dec. 11, 2000]

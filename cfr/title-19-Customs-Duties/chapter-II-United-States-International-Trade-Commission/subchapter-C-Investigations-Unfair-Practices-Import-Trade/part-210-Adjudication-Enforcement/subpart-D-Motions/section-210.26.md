@@ -1,0 +1,3 @@
+##### § 210.26 Other motions. #####
+
+Motions pertaining to discovery shall be filed in accordance with § 210.15 and the pertinent provisions of subpart E of this part (§§ 210.27 through 210.34). Motions pertaining to evidentiary hearings and prehearing conferences shall be filed in accordance with § 210.15 and the pertinent provisions of subpart F of this part (§§ 210.35 through 210.40). Motions for temporary relief shall be filed as provided in subpart H of this part (see §§ 210.52 through 210.57).

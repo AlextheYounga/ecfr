@@ -1,0 +1,3 @@
+##### § 151.67 Sampling by importer. #####
+
+The importer may be permitted after entry to draw samples under Customs supervision in reasonable quantities from the packages of wool or hair designated for examination, provided the bales or bags are properly repacked and repaired by him. Any samples so withdrawn shall be weighed and a record showing the quantities thereof shall be made and filed with the related entry.

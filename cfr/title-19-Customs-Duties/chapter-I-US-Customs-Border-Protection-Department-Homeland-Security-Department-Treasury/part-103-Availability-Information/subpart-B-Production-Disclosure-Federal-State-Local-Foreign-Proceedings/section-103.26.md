@@ -1,0 +1,7 @@
+##### § 103.26 Procedure in the event of a demand for CBP information in a state or local criminal proceeding. #####
+
+Link to an amendment published at 81 FR 93017, Dec. 20, 2016.
+
+Port directors, special agents in charge within the Office of Internal Affairs, chief patrol agents, directors within the Office of Air and Marine, directors of field laboratories, or any supervisor of such officials may, in the interest of federal, state, and local law enforcement, upon receipt of demands of state or local authorities, and at the expense of the State, authorize employees under their supervision to attend trials and administrative hearings on behalf of the government in any state or local criminal case, to produce records, and to testify as to facts coming to their knowledge in their official capacities. However, in cases where a defendant in a state or local criminal case demands testimony or the production of CBP documents or information, authorization from the Chief Counsel is required as under § 103.22 of this subpart. No disclosure of information under this section shall be made if any of the factors listed in § 103.23(b) of this subpart are present.
+
+[61 FR 19838, May 3, 1996, as amended at 78 FR 70856, Nov. 27, 2013]

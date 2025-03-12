@@ -1,0 +1,3 @@
+##### § 531.30 “Furnished” to the employee. #####
+
+The reasonable cost of board, lodging, or other facilities may be considered as part of the wage paid an employee only where customarily “furnished” to the employee. Not only must the employee receive the benefits of the facility for which he is charged, but it is essential that his acceptance of the facility be voluntary and uncoerced. See *Williams* v. *Atlantic Coast Line Railroad Co.* (E.D.N.C.). 1 W.H. Cases 289.

@@ -1,0 +1,3 @@
+##### § 780.1007 Exemption is inapplicable if wreath-making is not in or about a home. #####
+
+The section 13(d) exemption does not apply when the wreaths are made in or about a place which is not considered a “home”. Careful consideration is required in many cases to determine whether work is being performed in or about a home. Thus, the circumstances under which an employee may engage in work in what ostensibly is a “home” may require the conclusion, on an examination of all the facts, that the work is not being performed in or about a home within the intent of the term and for purposes of section 13(d) of the Act.

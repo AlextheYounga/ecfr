@@ -1,0 +1,3 @@
+##### § 667.1 Statewide evaluation. #####
+
+Each State, acting through its department of transportation (State DOT), shall conduct statewide evaluations to determine if there are reasonable alternatives to roads, highways, and bridges that have required repair and reconstruction activities on two or more occasions due to emergency events. The evaluations shall be conducted in accordance with the requirements in this part.

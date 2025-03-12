@@ -1,0 +1,25 @@
+##### § 420.209 What are the conditions for approval? #####
+
+(a) As a condition for approval of FHWA planning and research funds for RD&T activities, a State DOT must develop, establish, and implement a management process that identifies and results in implementation of RD&T activities expected to address high priority transportation issues. The management process must include:
+
+(1) An interactive process for identification and prioritization of RD&T activities for inclusion in an RD&T work program;
+
+(2) Use of all FHWA planning and research funds set aside for RD&T activities, either internally or for participation in transportation pooled fund studies or other cooperative RD&T programs, to the maximum extent possible;
+
+(3) Procedures for tracking program activities, schedules, accomplishments, and fiscal commitments;
+
+(4) Support and use of the TRIS database for program development, reporting of active RD&T activities, and input of the final report information;
+
+(5) Procedures to determine the effectiveness of the State DOT's management process in implementing the RD&T program, to determine the utilization of the State DOT's RD&T outputs, and to facilitate peer exchanges of its RD&T Program on a periodic basis;
+
+(6) Procedures for documenting RD&T activities through the preparation of final reports. As a minimum, the documentation must include the data collected, analyses performed, conclusions, and recommendations. The State DOT must actively implement appropriate research findings and should document benefits; and
+
+(7) Participation in peer exchanges of its RD&T management process and of other State DOTs' programs on a periodic basis. To assist peer exchange teams in conducting an effective exchange, the State DOT must provide to them the information and documentation required to be collected and maintained under this subpart. Travel and other costs associated with the State DOT's peer exchange may be identified as a line item in the State DOT's work program and will be eligible for 100 percent Federal funding. The peer exchange team must prepare a written report of the exchange.
+
+(b) Documentation that describes the State DOT's management process and the procedures for selecting and implementing RD&T activities must be developed by the State DOT and submitted to the FHWA Division office for approval. Significant changes in the management process also must be submitted by the State DOT to the FHWA for approval. The State DOT must make the documentation available, as necessary, to facilitate peer exchanges.
+
+(c) The State DOT must include a certification that it is in full compliance with the requirements of this subpart in each RD&T work program. If the State DOT is unable to certify full compliance, the FHWA Division Administrator may grant conditional approval of the State DOT's work program. A conditional approval must cite those areas of the State DOT's management process that are deficient and require that the deficiencies be corrected within 6 months of conditional approval. The certification must consist of a statement signed by the Administrator, or an official designated by the Administrator, of the State DOT certifying as follows: “I (name of certifying official), (position title), of the State (Commonwealth) of \_\_\_\_\_\_\_\_, do hereby certify that the State (Commonwealth) is in compliance with all requirements of 23 U.S.C. 505 and its implementing regulations with respect to the research, development, and technology transfer program, and contemplate no changes in statutes, regulations, or administrative procedures which would affect such compliance.”
+
+(d) The FHWA Division Administrator shall periodically review the State DOT's management process to determine if the State is in compliance with the requirements of this subpart. If the Division Administrator determines that a State DOT is not complying with the requirements of this subpart, or is not performing in accordance with its RD&T management process, the FHWA Division Administrator shall issue a written notice of proposed determination of noncompliance to the State DOT. The notice will set forth the reasons for the proposed determination and inform the State DOT that it may reply in writing within 30 calendar days from the date of the notice. The State DOT's reply should address the deficiencies cited in the notice and provide documentation as necessary. If the State DOT and the Division Administrator cannot resolve the differences set forth in the determination of nonconformity, the State DOT may appeal to the Federal Highway Administrator whose action shall constitute the final decision of the FHWA. An adverse decision shall result in immediate withdrawal of approval of FHWA planning and research funds for the State DOT's RD&T activities until the State DOT is in full compliance.
+
+(The information collection requirements in § 420.209 have been approved by the OMB and assigned control number 2125-0039)

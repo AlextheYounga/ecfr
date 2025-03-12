@@ -1,0 +1,3 @@
+##### § 20.101 Purpose and scope. #####
+
+The regulations in this subpart establish procedures to implement 31 U.S.C. 3720A. This statute together with implementing regulations of the Internal Revenue Service (IRS) at 26 CFR 301.6402-6, authorizes the IRS to reduce a tax refund by the amount of a past-due legally enforceable debt owed to the United States. The regulations apply to past-due legally enforceable debts owed to the Department by individuals and business entities. The regulations are not intended to limit or restrict debtor access to any judicial remedies to which he/she may otherwise be entitled.

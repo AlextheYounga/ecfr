@@ -1,0 +1,3 @@
+##### § 780.153 Delivery “to storage.” #####
+
+The term “delivery to storage” includes taking agricultural or horticultural commodities, dairy products, livestock, bees or their honey, fur-bearing animals or their pelts, or poultry to the places where they are to be stored or held pending preparation for or delivery to market. The fact that the commodities have been subjected to some other practice “by a farmer or on a farm as an incident to or in conjunction with such farming operations” does not preclude the inclusion of “delivery to storage” within section 3(f). The same is true with respect to “delivery to market” and “delivery to carriers for transporation to market.”

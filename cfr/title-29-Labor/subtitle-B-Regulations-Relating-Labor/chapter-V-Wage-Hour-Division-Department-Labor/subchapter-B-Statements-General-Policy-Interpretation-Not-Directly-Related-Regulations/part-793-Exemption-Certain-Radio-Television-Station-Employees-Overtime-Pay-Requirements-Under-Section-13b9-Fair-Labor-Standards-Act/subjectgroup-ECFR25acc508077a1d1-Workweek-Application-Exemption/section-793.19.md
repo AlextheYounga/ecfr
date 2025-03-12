@@ -1,0 +1,3 @@
+##### § 793.19 Workweek is used in applying the exemption. #####
+
+The unit of time to be used in determining the application of the exemption under section 13(b)(9) to an employee is the workweek. (See *Overnight Motor Transportation Co.* v. *Missel,* 316 U.S. 572; *McComb* v. *Puerto Rico Tobacco Marketing Co-op Ass'n.,* 80 F. Supp. 953, affirmed, 181 F. 2d 697.) A workweek is a fixed and regularly recurring period of 7 consecutive 24-hour periods. It may begin at any hour of any day set by the employer and need not coincide with the calendar week. Once the workweek has been set it commences each succeeding week on the same day and at the same hour. The workweek may not be changed for the purpose of evading the requirements of the Act.

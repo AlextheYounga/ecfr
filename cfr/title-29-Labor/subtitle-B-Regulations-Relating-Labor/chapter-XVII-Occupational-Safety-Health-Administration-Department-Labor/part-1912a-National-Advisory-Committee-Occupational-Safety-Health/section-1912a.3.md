@@ -1,0 +1,5 @@
+##### § 1912a.3 Terms of membership. #####
+
+Commencing on July 1, 1973, the terms of membership shall be divided into two classes, each consisting of six members. Members of the first class shall be appointed for a term of one year. Members of the second class shall be appointed for a term of two years. Thereafter, members shall be appointed for regular terms of two years. At all times the Committee shall be composed of representatives of management, labor, and occupational safety and health professions, and of the public. Appointment of a member to the Committee for a fixed time period shall not affect the authority of the Secretary to remove, in his or her discretion, any member at any time. If a member resigns or is removed before his or her term expires, the Secretary of Labor may appoint for the remainder of the unexpired term a new member who shall represent the same interest as his or her predecessor.
+
+[67 FR 660, Jan. 7, 2002]

@@ -1,0 +1,7 @@
+##### § 107.11 Relation to other authorities. #####
+
+(a) Where allegations of discrimination on the grounds of race, color, or national origin are made in a program or activity of Federal financial assistance of the Department which does not involve a contract of insurance or guaranty, the provisions of title VI of the Civil Rights Act of 1964 and regulations implementing title VI, Nondiscrimination in Federally Assisted Programs, under part 1 of this title shall apply. Any complaint alleging discrimination on the basis of race, color, religion (creed), sex or national origin in a program or activity of the Department involving a contract of insurance or guaranty will be received and processed according to this part.
+
+(b) Where a complaint filed pursuant to this part alleges a discriminatory housing practice which is also covered by title VIII of the Civil Rights Act of 1968, the complainant shall be advised of the right to file a complaint pursuant to section 810 of that title and of the availability of Department procedures regarding fair housing complaints under part 105 of this title. The complainant shall also be advised of the right to initiate a civil action in court pursuant to section 812 of the Civil Rights Act of 1968 without first filing a complaint with HUD.
+
+[45 FR 59514, Sept. 9, 1980, as amended at 50 FR 31360, Aug. 2, 1985]

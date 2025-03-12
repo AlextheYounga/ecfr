@@ -1,0 +1,9 @@
+##### § 458.66 Procedures for institution of enforcement proceedings. #####
+
+(a) Whenever it appears to the Chief, DOE that a violation of any provision of §§ 458.26 through 458.30 has occurred and has not been remedied, he shall immediately notify any appropriate person and labor organization. Within fifteen (15) days following receipt of such notification, any such person or labor organization may request a conference with the Chief, DOE or his representative concerning such alleged violation.
+
+(b) Whenever it appears to a District Director that a violation of this part (other than § 458.2, §§ 458.26-458.30, or § 458.37) has occurred and has not been remedied, he shall immediately notify any appropriate person and labor organization. Within fifteen (15) days following receipt of such notification, any such person or labor organization may request a conference with the District Director or his representative concerning such alleged violation.
+
+(c) At any conference held pursuant to this section, the Chief, DOE or District Director may enter into an agreement providing for appropriate remedial action. If no person or labor organization requests such a conference, or upon failure to reach agreement following any such conference, the Chief, DOE or District Director shall institute enforcement proceedings by filing a complaint with the Chief Administrative Law Judge, U.S. Department of Labor, and shall cause a copy of the complaint to be served on each respondent named therein. If an agreement is reached and the Chief, DOE or District Director concludes that there has not been compliance with all the terms of the agreement, he may refer the matter to the Director for appropriate enforcement action or file a complaint with the Chief Administrative Law Judge.
+
+[50 FR 31313, Aug. 1, 1985. Redesignated at 50 FR 31311, Aug. 1, 1985, as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997; 78 FR 8026, Feb. 5, 2013]

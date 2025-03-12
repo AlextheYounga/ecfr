@@ -1,0 +1,3 @@
+##### § 14.135 Rulemaking on maximum rates for attorney fees. #####
+
+Any person may file with the Department a petition for rulemaking to increase the maximum rate for attorney fees as provided in 5 U.S.C. 504(b)(1)(A)(ii), in accordance with 24 CFR part 10. The petition should identify the rate the petitioner believes the Department should establish and the types of proceedings in which the rate should be used. It should also explain fully the reasons why the higher rate is warranted. The Department will respond to the petition in accordance with 24 CFR 10.20(b).

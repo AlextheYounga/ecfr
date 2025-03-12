@@ -1,0 +1,11 @@
+##### § 2.60 Facilities and activities during an emergency—accounting treatment of defense-related expenditures. #####
+
+The Commission, cognizant of the need of the natural gas industry for advice with respect to the applicability of the Natural Gas Act and the Commission's regulations thereunder regarding activities and operations of natural gas companies taking security measures in preparation for a possible national emergency, sets forth the following interpretation and statement of policy:
+
+(a) *Facilities.* The definition of *auxiliary installations* in § 2.55(a) for which no certificate authority is necessary includes such defense-related facilities as (1) fallout shelters at compressor stations and other operating and maintenance camps; (2) emergency company headquarters or other similar installations; and (3) emergency communication equipment.
+
+(b) The Commission will consider reasonable investment in defense-related facilities, such as those described in paragraph (a) of this section, to be *prudent investment* for ratemaking purposes.
+
+(c) When a person, not otherwise subject to the jurisdiction of the Commission, files an application for a certificate of public convenience and necessity authorizing the construction of facilities to be used solely for operation in a national emergency for the delivery of gas to, or receipt of gas from, a person subject to the Commission's jurisdiction, the Commission will consider a request by such applicant for waiver of the requirement to keep and maintain its accounts in accordance with the Uniform System of Accounts for Natural Gas Companies (parts 201 and 204 of this chapter) or to file the annual reports to the Commission required by §§ 260.1 and 260.2 of this chapter.
+
+(Secs. 3, 4, 15, 16, 301, 304, 308, and 309 (41 Stat. 1063-1066, 1068, 1072, 1075; 49 Stat. 838, 839, 840, 841, 854-856, 858-859; 82 Stat. 617; 16 U.S.C. 796, 797, 803, 808, 809, 816, 825, 825b, 825c, 825g, 825h, 826i), as amended, secs. 8, 10, and 16 (52 Stat. 825-826, 830; 15 U.S.C. 717g, 717i, 717o))[Order 274, 28 FR 12866, Dec. 4, 1963, as amended by Order 567, 42 FR 30612, June 16, 1977]

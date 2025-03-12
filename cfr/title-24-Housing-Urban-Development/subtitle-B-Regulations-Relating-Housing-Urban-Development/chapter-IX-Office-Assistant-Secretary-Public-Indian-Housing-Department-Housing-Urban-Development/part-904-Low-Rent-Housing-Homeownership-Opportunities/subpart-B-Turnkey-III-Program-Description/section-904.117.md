@@ -1,0 +1,3 @@
+##### § 904.117 Responsibilities of homebuyer after acquisition of ownership. #####
+
+After acquisition of ownership, each homeowner shall be required to pay to the LHA or to the homeowners association, as appropriate, a monthly fee for (a) the maintenance and operation of community facilities including utility facilities, if any, (b) the maintenance of grounds and other common areas and, (c) such other purposes as determined by the LHA or the homeowners association, as appropriate, including taxes and a provision for a reserve. This requirement shall be set out in the planned unit development or condominium documents which shall be recorded prior to the date of full availability, or in an LHA-homeowner contract in this regard.

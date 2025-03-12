@@ -1,0 +1,5 @@
+##### § 367.1410 Account 141, Notes receivable. #####
+
+(a) This account must include the book cost, not includible elsewhere, of all collectible obligations in the form of notes receivable and similar evidences (except interest coupons) of money due on demand or within one year from the date of issue, except, however, notes receivable from associate companies. (*See* account 136, Temporary cash investments (§ 367.1360), and account 145, Notes receivable from associate companies (§ 367.1450).)
+
+(b) The face amount of notes receivable discounted, sold, or transferred without releasing the service company from liability as a related endorser, must be credited to a separate subaccount of this account and appropriate disclosure must be made in financial statements of any contingent liability arising from the transactions.

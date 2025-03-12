@@ -1,0 +1,37 @@
+##### § 648.108 Summer flounder gear restrictions. #####
+
+(a) *General.* (1) Otter trawlers whose owners are issued a summer flounder permit and that land or possess 100 lb (45.4 kg) or more of summer flounder from May 1 through October 31, or 200 lb (90.7 kg) or more of summer flounder from November 1 through April 30, per trip, must fish with nets that have a minimum mesh size of 5.5-inch (14.0-cm) diamond or 6.0-inch (15.2-cm) square mesh applied throughout the body, extension(s), and codend portion of the net, except as required in a TED extension, in accordance with § 223.206(d)(2)(iii) of this title.
+
+(2) Mesh size is measured by using a wedge-shaped gauge having a taper of 2 cm (0.79 inches) in 8 cm (3.15 inches), and a thickness of 2.3 mm (0.09 inches), inserted into the meshes under a pressure or pull of 5 kg (11.02 lb) for mesh size less than 120 mm (4.72 inches) and under a pressure or pull of 8 kg (17.64 lb) for mesh size at, or greater than, 120 mm (4.72 inches). The mesh size is the average of the measurements of any series of 20 consecutive meshes for nets having 75 or more meshes, and 10 consecutive meshes for nets having fewer than 75 meshes. The mesh in the regulated portion of the net is measured at least five meshes away from the lacings, running parallel to the long axis of the net.
+
+(b) *Exemptions.* Unless otherwise restricted by this part, the minimum mesh-size requirements specified in paragraph (a)(1) of this section do not apply to:
+
+(1) Vessels issued a summer flounder moratorium permit, a Summer Flounder Small-Mesh Exemption Area letter of authorization (LOA), required under paragraph (b)(1)(i) of this section, and fishing from November 1 through April 30 in the exemption area, which is east of the line that follows 72°30.0′ W. long. until it intersects the outer boundary of the EEZ (copies of a map depicting the area are available upon request from the Regional Administrator). Vessels fishing under the LOA shall not fish west of the line. Vessels issued a permit under § 648.4(a)(3)(iii) may transit the area west or south of the line, if the vessel's fishing gear is stowed in a manner prescribed under § 648.108(e), so that it is not “available for immediate use” outside the exempted area. The Regional Administrator may terminate this exemption if he/she determines, after a review of sea sampling data, that vessels fishing under the exemption are discarding more than 10 percent, by weight, of their entire catch of summer flounder per trip. If the Regional Administrator makes such a determination, he/she shall publish notification in the Federal Register terminating the exemption for the remainder of the exemption season.
+
+(i) *Requirements.* (A) A vessel fishing in the Summer Flounder Small-Mesh Exemption Area under this exemption must have on board a valid LOA issued by the Regional Administrator.
+
+(B) The vessel must be in enrolled in the exemption program for a minimum of 7 days.
+
+(ii) [Reserved]
+
+(2) Vessels fishing with a two-seam otter trawl fly net with the following configuration, provided that no other nets or netting with mesh smaller than 5.5 inches (14.0 cm) are on board:
+
+(i) The net has large mesh in the wings that measures 8 inches (20.3 cm) to 64 inches (162.6 cm).
+
+(ii) The first body section (belly) of the net has 35 or more meshes that are at least 8 inches (20.3 cm).
+
+(iii) The mesh decreases in size throughout the body of the net to 2 inches (5 cm) or smaller towards the terminus of the net.
+
+(iv) The Regional Administrator may terminate this exemption if he/she determines, after a review of sea sampling data, that vessels fishing under the exemption, on average, are discarding more than 1 percent of their entire catch of summer flounder per trip. If the Regional Administrator makes such a determination, he/she shall publish notification in the Federal Register terminating the exemption for the remainder of the calendar year.
+
+(c) *Net modifications.* No vessel subject to this part shall use any device, gear, or material, including, but not limited to, nets, net strengtheners, ropes, lines, or chafing gear, on the top of the regulated portion of a trawl net; except that, one splitting strap and one bull rope (if present) consisting of line or rope no more than 3 inches (7.2 cm) in diameter may be used if such splitting strap and/or bull rope does not constrict, in any manner, the top of the regulated portion of the net, and one rope no greater than 0.75 inches (1.9 cm) in diameter extending the length of the net from the belly to the terminus of the codend along the top, bottom, and each side of the net. “Top of the regulated portion of the net” means the 50 percent of the entire regulated portion of the net that (in a hypothetical situation) will not be in contact with the ocean bottom during a tow if the regulated portion of the net were laid flat on the ocean floor. For the purpose of this paragraph (c), head ropes shall not be considered part of the top of the regulated portion of a trawl net. A vessel shall not use any means or mesh configuration on the top of the regulated portion of the net, as defined paragraph (c) of this section, if it obstructs the meshes of the net or otherwise causes the size of the meshes of the net while in use to diminish to a size smaller than the minimum specified in paragraph (a) of this section.
+
+(d) *Mesh obstruction or constriction.* (1) A fishing vessel may not use any mesh configuration, mesh construction, or other means on or in the top of the net, as defined in paragraph (c) of this section, that obstructs the meshes of the net in any manner.
+
+(2) No person on any vessel may possess or fish with a net capable of catching summer flounder in which the bars entering or exiting the knots twist around each other.
+
+(e) *Stowage of nets.* Otter trawl vessels retaining 100 lb (45.3 kg) or more of summer flounder from May 1 through October 31, or 200 lb (90.6 kg) or more of summer flounder from November 1 through April 30, and subject to the minimum mesh size requirement of paragraph (a)(1) of this section may not have “available for immediate use” any net or any piece of net that does not meet the minimum mesh size requirement, or any net, or any piece of net, with mesh that is rigged in a manner that is inconsistent with the minimum mesh size requirement. Nets must be stowed and not available for immediate use as defined in § 648.2.
+
+(f) The minimum net mesh requirement may apply to any portion of the net. The minimum mesh size and the portion of the net regulated by the minimum mesh size may be adjusted pursuant to the procedures in § 648.102.
+
+[76 FR 60629, Sept. 29, 2011, as amended at 79 FR 52583, Sept. 4, 2014; 81 FR 51378, Aug. 4, 2016]

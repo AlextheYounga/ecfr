@@ -1,0 +1,3 @@
+##### § 1b.5 Formal investigations. #####
+
+The Commission may, in its discretion, initiate a formal investigation by issuing an Order of Investigation. Orders of Investigation will outline the basis for the investigation, the matters to be investigated, the officer(s) designated to conduct the investigation and their authority. The director of the office responsible for the investigation may add or delete Investigating Officers in the Order of Investigation.

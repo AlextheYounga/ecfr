@@ -1,0 +1,3 @@
+##### § 1006.1 Applicability. #####
+
+The requirements and procedure of this part apply to grants under the Native Hawaiian Housing Block Grant (NHHBG) Program, authorized by the Hawaiian Homelands Homeownership Act of 2000 (HHH Act), which adds Title VIII—Housing Assistance For Native Hawaiians (25 U.S.C. 4221 *et seq.*), to the Native American Housing Assistance and Self-Determination Act of 1996 (NAHASDA) (25 U.S.C. 4101 *et seq.*).

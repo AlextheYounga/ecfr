@@ -1,0 +1,3 @@
+##### § 8.14 Consolidations. #####
+
+Upon its own initative or upon motion of any interested party, the Board may consolidate any proceeding or concurrently consider two or more appeals which involve substantially the same parties, or issues which are the same or closely related, if it finds that such consolidation or concurrent review will contribute to a proper dispatch of its business and to the ends of justice, and it will not unduly delay consideration of any such appeals.

@@ -1,0 +1,7 @@
+##### § 1.5 Rules docket. #####
+
+(a) Documents which are public records and which are a part of a specific rulemaking procedure, including but not limited to, advance notices of proposed rulemaking, notices of proposed rulemaking, written comments addressed to the merits of a proposed rule, and comments received in response to notices, or withdrawals or terminations of proposed rulemaking, petitions for rulemaking, requests for oral argument in public participation cases, requests for extension of time, grants or denials of petitions or requests, transcripts or minutes of informal hearings, final rules and general notices shall be maintained in the Office of Chief Counsel. All public rulemaking comments should refer to the docket number which appears in the heading of the rule and should be addressed to the Rule Docket Clerk, Federal Emergency Management Agency, Office of Chief Counsel.
+
+(b) Documents which are a part of a specific rulemaking proceeding are public records. After a docket is established, any person may examine docketed material at any time during established hours of business and may obtain a copy of any docketed material upon payment of the prescribed fee. (See part 5 of this chapter.)
+
+[46 FR 32584, June 24, 1981, as amended at 48 FR 44542, Sept. 29, 1983]

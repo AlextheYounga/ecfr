@@ -1,0 +1,3 @@
+##### § 70.3 State cooperation in national fish hatchery area management. #####
+
+State cooperation may be enlisted in management programs including public hunting, fishing, and recreation. The details of these programs shall be mutually agreed upon by the Secretary and the head of the appropriate State agency in cooperative agreements executed for that purpose. Persons entering upon a national fish hatchery area shall comply with all regulations issued by the State agency under the terms of the cooperative agreement.

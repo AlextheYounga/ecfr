@@ -1,0 +1,7 @@
+##### § 990.63 Discounting and compounding. #####
+
+(a) *Estimated future restoration costs.* When determining estimated future costs of implementing a Final Restoration Plan, trustees must discount such future costs back to the date the demand is presented. Trustees may use a discount rate that represents the yield on recoveries available to trustees. The price indices used to project future inflation should reflect the major components of the restoration costs.
+
+(b) *Past assessment and emergency restoration costs.* When calculating the present value of assessment and emergency restoration costs already incurred, trustees must compound the costs forward to the date the demand is presented. To perform the compounding, trustees may use the actual U.S. Treasury borrowing rate on marketable securities of comparable maturity to the period of analysis. For costs incurred by state or tribal trustees, trustees may compound using parallel state or tribal borrowing rates.
+
+(c) Trustees are referred to Appendices B and C of OMB Circular A-94 for information about U.S. Treasury rates of various maturities and guidance in calculation procedures. Copies of Appendix C, which is regularly updated, and of the Circular are available from the OMB Publications Office (202-395-7332).

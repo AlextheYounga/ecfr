@@ -1,0 +1,3 @@
+##### § 1614.705 Comparative data—all Federal agencies. #####
+
+Commencing on January 31, 2004 and no later than January 31 of each year thereafter, each Federal agency shall post year-end data corresponding to that required to be posted by § 1614.704 for each of the five immediately preceding fiscal years (or, if not available for all five fiscal years, for however many of those five fiscal years for which data are available). For each category of data, the agency shall post a separate figure for each fiscal year.

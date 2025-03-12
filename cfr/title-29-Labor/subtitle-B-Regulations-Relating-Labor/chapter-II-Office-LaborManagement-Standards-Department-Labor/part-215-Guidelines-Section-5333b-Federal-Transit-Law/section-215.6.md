@@ -1,0 +1,5 @@
+##### § 215.6 The Model Agreement. #####
+
+The Model (or National) Agreement mentioned in paragraphs (b)(1)(i) and (b)(2) of § 215.3 refers to the agreement executed on July 23, 1975 by representatives of the American Public Transit Association (now known as the American Public Transportation Association) and the Amalgamated Transit Union and Transport Workers Union of America and on July 31, 1975 by representatives of the Railway Labor Executives' Association, Brotherhood of Locomotive Engineers, Brotherhood of Railway and Airline Clerks and International Association of Machinists and Aerospace Workers. The agreement is intended to serve as a ready-made employee protective arrangement for adoption by local parties in specific operating assistance project situations. The Department has determined that this agreement provides fair and equitable arrangements to protect the interests of employees in general purpose operating assistance project situations and meets the requirements of 49 U.S.C. 5333(b).
+
+[60 FR 62969, Dec. 7, 1995, as amended at 73 FR 47056, Aug. 13, 2008]

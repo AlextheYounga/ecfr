@@ -1,0 +1,7 @@
+##### § 10.171 General. #####
+
+(a) *Statutory authority.* Title V of the Trade Act of 1974 as amended (19 U.S.C. 2461-2467) authorizes the President to establish a Generalized System of Preferences (GSP) to provide duty-free treatment for eligible articles imported directly from designated beneficiary developing countries. Beneficiary developing countries and articles eligible for duty-free treatment are designated by the President by Executive order in accordance with sections 502(a)(1) and 503(a) of the Trade Act of 1974 as amended (19 U.S.C. 2462(a)(1), 2463(a)).
+
+(b) *Country defined.* For purposes of §§ 10.171 through 10.178, except as otherwise provided in § 10.176(a), the term “country” means any foreign country, any overseas dependent territory or possession of a foreign country, or the Trust Territory of the Pacific Islands. In the case of an association of countries which is a free trade area or customs union or which is contributing to comprehensive regional economic integration among its members through appropriate means, including but not limited to, the reduction of duties, the President may by Executive order provide that all members of such association other than members which are barred from designation under section 502(b) of the Trade Act of 1974 (19 U.S.C. 2462(b)) shall be treated as one country for purposes of §§ 10.171 through 10.178.
+
+[T.D. 76-2, 40 FR 60047, Dec. 31, 1975, as amended by T.D. 80-271, 45 FR 75641, Nov. 17, 1980; T.D. 00-67, 65 FR 59675, Oct. 5, 2000]

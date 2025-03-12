@@ -1,0 +1,5 @@
+##### § 245.325 Notification of action on request for increase. #####
+
+(a) When processing a request for an increase in maximum permissible rents, HUD shall take into consideration reasonably anticipated increases in project operating costs that will occur (1) within 12 months of the date of submission of materials to HUD under § 245.315(a) (profit and loss approach) or (2) within 12 months of the anticipated effective date of the proposed rent increase for submissions under § 245.315(b) (forward-budget approach).
+
+(b) After HUD has considered the request for an increase in rents, has found that it meets the requirements of § 245.320, and has made its determination to approve, adjust upward or downward, or disapprove the request, it will furnish the mortgagor with a written statement of the reasons for approval, adjustment upward or downward, or disapproval. The mortgagor must make the reasons for approval, adjustment, or disapproval known to the tenants, by service of notice on them as provided in § 245.15.

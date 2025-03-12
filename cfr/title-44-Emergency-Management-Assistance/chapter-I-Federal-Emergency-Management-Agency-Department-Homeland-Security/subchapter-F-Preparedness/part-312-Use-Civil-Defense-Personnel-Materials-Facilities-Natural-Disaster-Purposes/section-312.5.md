@@ -1,0 +1,11 @@
+##### § 312.5 Personnel. #####
+
+FEMA contributes to the development and support of emergency management organizations in the States and their political subdivisions, and to the development, operation, and maintenance of specific programs, through payment of salaries and benefits of State and local civil defense staff, and the payment of administrative expenses and travel, not to exceed 50 percent. FEMA also provides contributions for training and education expenses. The following use of such personnel for natural disaster purposes is allowable provided that such usage is consistent with, contributes to, and does not detract from attack-related civil defense preparedness:
+
+(a) In developing, maintaining, testing and exercising plans, systems, and procedures for the protection of people and property from the effects of attack-related disasters, States and their political subdivisions may include and provide for natural disasters.
+
+(b) Personnel supported in part through contributions under the Act may be assigned responsibilities for preparation for and response to natural disasters in any specific emergency occurring in a State or its political subdivisions as determined by the responsible State or local officials, respectively.
+
+(c) Personnel supported in whole under the Act, may be assigned to emergency response operations for 15 days at the discretion of State officials; approval of the FEMA Regional Administrator is required for the use of these personnel in excess of 15 days. An assignment to emergency response operations does not preclude the accomplishment of program work and objectives. Failure to accomplish such work may subject the State to the withholding of funds contributed under the Act, or to collection of funds already obligated, not to exceed the estimated cost of the work not performed, as determined by the Regional Administrator.
+
+(d) In the event of an emergency or major disaster declared under the Disaster Relief Act of 1974, as amended, personnel will not be provided overtime compensation and expenses under the Act.

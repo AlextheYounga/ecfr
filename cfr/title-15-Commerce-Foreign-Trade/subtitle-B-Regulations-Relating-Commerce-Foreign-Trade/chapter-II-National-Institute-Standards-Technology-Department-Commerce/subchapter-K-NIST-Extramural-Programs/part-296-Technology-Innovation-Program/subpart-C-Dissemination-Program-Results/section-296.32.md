@@ -1,0 +1,7 @@
+##### § 296.32 Technical and educational services. #####
+
+(a) Under the Federal Technology Transfer Act of 1986, NIST has the authority to enter into cooperative research and development agreements with non-Federal parties to provide personnel, services, facilities, equipment, or other resources except funds toward the conduct of specified research or development efforts which are consistent with the missions of the laboratory. In turn, NIST has the authority to accept funds, personnel, services, facilities, equipment and other resources from the non-Federal party or parties for the joint research effort. Cooperative research and development agreements do not include procurement contracts or cooperative agreements as those terms are used in sections 6303, 6304, and 6305 of title 31, United States Code.
+
+(b) In no event will NIST enter into a cooperative research and development agreement with a recipient of an award under the Program which provides for the payment of Program funds from the award recipient to NIST.
+
+(c) From time to time, TIP may conduct public workshops and undertake other educational activities to foster the collaboration of funding Recipients with other funding resources for purposes of further development and diffusion of TIP-related technologies. In no event will TIP provide recommendations, endorsements, or approvals of any TIP funding Recipients to any outside party.

@@ -1,0 +1,5 @@
+##### § 1614.104 Agency processing. #####
+
+(a) Each agency subject to this part shall adopt procedures for processing individual and class complaints of discrimination that include the provisions contained in §§ 1614.105 through 1614.110 and in § 1614.204, and that are consistent with all other applicable provisions of this part and the instructions for complaint processing contained in the Commission's Management Directives.
+
+(b) The Commission shall periodically review agency resources and procedures to ensure that an agency makes reasonable efforts to resolve complaints informally, to process complaints in a timely manner, to develop adequate factual records, to issue decisions that are consistent with acceptable legal standards, to explain the reasons for its decisions, and to give complainants adequate and timely notice of their rights.

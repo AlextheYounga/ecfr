@@ -1,0 +1,7 @@
+##### § 367.4030 Account 403, Depreciation expense. #####
+
+(a) This account must include the amount of depreciation for all service company property, the cost of which is included in accounts 390 through 399.1 (§§ 367.3900 through 367.3991). Provide subaccounts by each class of service company property owned or leased except the depreciation expense that is charged to clearing accounts or to account 416, Costs and expenses of merchandising, jobbing and contract work (§ 367.4160).
+
+(b) The service company must keep the records of property and property retirements that will reflect the service life of property that has been retired and aid in estimating probable service life by mortality, turnover, or other appropriate methods; and also the records that will reflect the percentage of salvage and costs of removal for property retired from each account, or related subaccount, for depreciable property.
+
+(c) Depreciation expenses applicable to transportation equipment, shop equipment, tools, work equipment, power operated equipment and other general equipment may be charged to clearing accounts as necessary in order to obtain a proper distribution of expenses between construction and operation.

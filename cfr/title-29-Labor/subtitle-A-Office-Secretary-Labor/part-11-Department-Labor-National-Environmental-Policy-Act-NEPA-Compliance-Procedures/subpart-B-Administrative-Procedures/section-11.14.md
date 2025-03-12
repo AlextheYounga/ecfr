@@ -1,0 +1,3 @@
+##### § 11.14 Legislation. #####
+
+Notwithstanding any provisions of this part, environmental assessments or impact statements prepared in connection with requests for new legislation or modification of existing statutes shall be handled in accordance with applicable OMB and Department of Labor procedures on the preparation and submission of legislative proposals and the requirements of 40 CFR 1506.8.

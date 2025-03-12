@@ -1,0 +1,7 @@
+##### § 661.27 What does a complete application package for construction consist of and how does the project receive funding? #####
+
+(a) A complete application package for construction consists of the following: a copy of the approved PS&E, the certification checklist, SI&A sheet, and IRRBP TIP. For non-BIA IRR bridges, the application package must also include a copy of a letter from the bridge's owner approving the project and its PS&E, a tribal resolution supporting the project, and identification of the required minimum 20 percent local funding match. All environmental and archeological clearances and complete grants of public rights-of-way must be acquired prior to submittal of the construction application package.
+
+(b) The IRRBP projects for construction will be placed in queue and determined as eligible for funding after receipt by FHWA of a complete application package. Incomplete application packages will be disapproved and returned for revision and resubmission along with a notation providing the reason for disapproval.
+
+(c) Funding for the approved eligible projects on the queues will be made available to the Tribes, under an FHWA/Tribal agreement, or the Secretary of the Interior upon availability of program funding at FHWA.

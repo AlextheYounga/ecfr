@@ -1,0 +1,5 @@
+##### § 5.851 What authority do I have to screen applicants and to evict tenants? #####
+
+(a) *Screening applicants.* You are authorized to screen applicants for the programs covered by this part. The provisions of this subpart implement statutory directives that either *require* or *permit* you to take action to deny admission to applicants under certain circumstances in accordance with established standards, as described in this subpart. The provisions of this subpart do not constrain your authority to screen out applicants who you determined are unsuitable under your standards for admission.
+
+(b) *Terminating tenancy.* You are authorized to terminate tenancy of tenants, in accordance with your leases and landlord-tenant law for the programs covered by this part. The provisions of this subpart implement statutory directives that either require or permit you to terminate tenancy under certain circumstances, as provided in 42 U.S.C. 1437f, 1437n, and 13662, in accordance with established standards, as described in this subpart. You retain authority to terminate tenancy on any basis that is otherwise authorized.

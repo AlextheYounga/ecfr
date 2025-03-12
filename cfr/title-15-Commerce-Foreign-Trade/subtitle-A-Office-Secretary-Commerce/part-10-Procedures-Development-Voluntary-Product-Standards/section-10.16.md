@@ -1,0 +1,3 @@
+##### § 10.16 Effect of procedures. #####
+
+Nothing contained in these procedures shall be deemed to apply to the development, publication, revision, amendment, or withdrawal of any standard which is not identified as a “Voluntary Product Standard” by the Department. The authority of the Department with respect to engineering standards activities generally, including the authority to publish appropriate recommendations not identified as “Voluntary Product Standards,” is not limited in any way by these procedures.

@@ -1,0 +1,7 @@
+##### § 930.96 Consistency review. #####
+
+(a)(1) If the State agency does not object to the proposed activity, the Federal agency may grant the federal assistance to the applicant agency. Notwithstanding State agency consistency approval for the proposed project, the Federal agency may deny assistance to the applicant agency. Federal agencies should not delay processing (so long as they do not approve) applications pending receipt of a State agency approval or objection. In the event a Federal agency determines that an application will not be approved, it shall immediately notify the applicant agency and the State agency.
+
+(2) During the period when the State agency is reviewing the activity, the applicant agency and the State agency should attempt, if necessary, to agree upon conditions which, if met by the applicant agency, would permit State agency approval. The parties shall also consult with the Federal agency responsible for providing the federal assistance to ensure that proposed conditions satisfy federal requirements as well as management program requirements.
+
+(b) If the State agency objects to the proposed project, the State agency shall notify the applicant agency, Federal agency and the Director of the objection pursuant to § 930.63.

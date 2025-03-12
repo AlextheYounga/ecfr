@@ -1,0 +1,7 @@
+##### § 553.104 Private individuals who volunteer services to public agencies. #####
+
+(a) Individuals who are not employed in any capacity by State or local government agencies often donate hours of service to a public agency for civic or humanitarian reasons. Such individuals are considered volunteers and not employees of such public agencies if their hours of service are provided with no promise expectation, or receipt of compensation for the services rendered, except for reimbursement for expenses, reasonable benefits, and nominal fees, or a combination thereof, as discussed in § 553.106. There are no limitations or restrictions imposed by the FLSA on the types of services which private individuals may volunteer to perform for public agencies.
+
+(b) Examples of services which might be performed on a volunteer basis when so motivated include helping out in a sheltered workshop or providing personal services to the sick or the elderly in hospitals or nursing homes; assisting in a school library or cafeteria; or driving a school bus to carry a football team or band on a trip. Similarly, individuals may volunteer as firefighters or auxiliary police, or volunteer to perform such tasks as working with retarded or handicapped children or disadvantaged youth, helping in youth programs as camp counselors, soliciting contributions or participating in civic or charitable benefit programs and volunteering other services needed to carry out charitable or educational programs.
+
+[52 FR 2032, Jan. 16, 1987; 52 FR 2648, Jan. 23, 1987]

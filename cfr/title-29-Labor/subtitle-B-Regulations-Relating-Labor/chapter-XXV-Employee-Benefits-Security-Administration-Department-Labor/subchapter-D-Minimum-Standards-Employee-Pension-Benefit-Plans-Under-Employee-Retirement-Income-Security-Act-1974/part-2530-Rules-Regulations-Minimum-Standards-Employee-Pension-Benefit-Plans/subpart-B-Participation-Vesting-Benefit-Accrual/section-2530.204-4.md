@@ -1,0 +1,3 @@
+##### § 2530.204-4 Deferral of benefit accrual. #####
+
+For purposes of section 204(b)(1)(E) of the Act and section 411(b)(1)(E) of the Code (which permit deferral of benefit accrual until an employee has 2 continuous years of service), an employee shall be credited with a year of service for each computation period in which he or she completes 1,000 hours of service. The computation period shall be the eligibility computation period designated in accordance with § 2530.202-2.

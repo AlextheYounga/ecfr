@@ -1,0 +1,21 @@
+##### § 350.3 Background. #####
+
+(a) On December 7, 1979, the President directed the Administrator of FEMA to take the lead in State and local emergency planning and preparedness activities with respect to nuclear power facilities. This included a review of the existing emergency plans both in States with operating reactors and those with plants scheduled for operation in the near future.
+
+(b) This assignment was given to FEMA because of its responsibilities under Executive Order 12148 to establish Federal policies for and coordinate civil emergency planning, management and assistance functions and to represent the President in working with State and local governments and the private sector to stimulate vigorous participation in civil emergency preparedness programs. Under section 201 of the Disaster Relief Act of 1974 (42 U.S.C. 5131), and other statutory functions, the Administrator of FEMA is charged with the responsibility to develop and implement plans and programs of disaster preparedness.
+
+(c) There are two sections in the NRC's fiscal year 1982/1983 Appropriation Authorization (Pub. L. 97-415) that pertain to the scope of this rule.
+
+(1) Section 5 provides for the issuance of an operating license for a commercial nuclear power plant by the NRC if it is determined that there exists a State, local or utility plan which provides assurance that public health and safety is not endangered by the operation of the facility. This section would allow the NRC to issue an operating license for such plants without FEMA-approved State and local government plans.
+
+(2) Section 11 provides for the issuance of temporary licenses for operating a utilization facility at a specific power level to be determined by the Commission, pending final action by the Commission on the application. Also, this section authorizes the NRC to issue temporary operating licenses for these facilities without the completion of the required (NRC) Commission hearing process. A petition for such a temporary license may not be filed until certain actions are completed including the submission of a State, local or utility emergency response plan for the facility.
+
+(d) To carry out these responsibilities, FEMA is engaged in a cooperative effort with State and local governments and other Federal agencies in the development of State and local plans and preparedness to cope with the offsite effects resulting from radiological emergencies at commercial nuclear power facilities. FEMA developed and published the Federal Radiological Emergency Response Plan 50 FR 46542 Nov. 8, 1985, to provide the overall support to State and local governments, for all types of radiological incidents including those occurring at nuclear power plants.
+
+(e) FEMA has entered into a Memorandum of Understanding (MOU) with the NRC to which it will furnish assessments, findings and determinations as to whether State and local emergency plans and preparedness are adequate and continue to be capable of implementation (e.g., adequacy and maintenance of procedures, training, resources, staffing levels and qualification and equipment adequacy). These findings and determinations will be used by NRC under its own rules in connection with its licensing and regulatory requirements and FEMA will support its findings in the NRC licensing process and related court proceedings.
+
+(f) Notwithstanding the procedures set forth in these rules for requesting and reaching a FEMA administrative approval of State and local plans, findings and determinations on the current status of emergency preparedness around particular sites may be requested by the NRC and provided by FEMA for use as needed in the NRC licensing process. These findings and determinations may be based upon plans currently available to FEMA or furnished to FEMA by the NRC through the NRC/FEMA Steering Committee.
+
+(g) An environmental assessment has been prepared on which FEMA has determined that this rule will not have a significant impact on the quality of the human environment.
+
+[48 FR 44335, Sept. 28, 1983, as amended at 51 FR 34606, Sept. 30, 1986]

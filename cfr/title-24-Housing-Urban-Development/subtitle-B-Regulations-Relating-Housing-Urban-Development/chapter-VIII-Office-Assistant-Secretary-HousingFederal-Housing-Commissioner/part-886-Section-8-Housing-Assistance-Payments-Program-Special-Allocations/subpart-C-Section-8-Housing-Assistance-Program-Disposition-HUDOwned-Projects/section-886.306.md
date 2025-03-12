@@ -1,0 +1,5 @@
+##### § 886.306 Notices. #####
+
+Before a project is approved for sale in accordance with this subpart, and as a part of the process of preparing a disposition recommendation in accordance with 24 CFR part 290, the field office manager must notify in writing the chief executive officer of the unit of general local government in which the project is located (or the designee of that officer) of the proposed sale with housing assistance, and must afford the unit of local government an opportunity to review and comment upon the proposed sale in accordance with 24 CFR part 791. Local government review should address consistency with the housing needs and strategy of the community, rather than strict conformance to the limitations on variations from housing assistance plan goals which are contained in part 791.
+
+[53 FR 3369, Feb. 5, 1988]

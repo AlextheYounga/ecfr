@@ -1,0 +1,11 @@
+##### § 146.44 Zone-restricted status. #####
+
+(a) *General.* Merchandise taken into a zone for the sole purpose of exportation, destruction (except destruction of distilled spirits, wines, and fermented malt liquors), or storage will be given zone-restricted status on proper application. That status may be requested at any time the merchandise is located in a zone, but cannot be abandoned once granted. Merchandise in zone-restricted status may not be removed to Customs territory for domestic consumption except where the Board determines the return to be in the public interest.
+
+(b) *Application.* Application for zone-restricted status will be made on Customs Form 214.
+
+(c) *Merchandise considered exported*—(1) *For Customs purposes.* If the applicant desires a zone-restricted status in order that the merchandise may be considered exported for the purpose of any Customs law, all pertinent Customs requirements relating to an actual exportation shall be complied with as though the admission of the merchandise into zone constituted a lading on an exporting carrier at a port of final exit from the U.S. Any declaration or form required for actual exportation will be modified to show the merchandise has been deposited in a zone in lieu of actual exportation, and a copy of the approved Customs Form 214 may be accepted in lieu of any proof of shipment required in cases of actual exportation.
+
+(2) *For other purposes.* If the merchandise is to be considered exported for the purpose of any Federal law other than the Customs laws, the port director shall be satisfied that all pertinent laws, regulations, and rules administered by the Federal agency concerned have been complied with before the Customs Form 214 is approved.
+
+(d) *Merchandise entered for warehousing transferred to a zone.* Merchandise entered for warehousing and transferred to a zone, other than temporarily for manipulation and return to Customs territory as provided for in § 146.33, will have the status of zone-restricted merchandise when admitted into the zone. The application on Customs Form 214 will state that zone-restricted status is desired for the merchandise.

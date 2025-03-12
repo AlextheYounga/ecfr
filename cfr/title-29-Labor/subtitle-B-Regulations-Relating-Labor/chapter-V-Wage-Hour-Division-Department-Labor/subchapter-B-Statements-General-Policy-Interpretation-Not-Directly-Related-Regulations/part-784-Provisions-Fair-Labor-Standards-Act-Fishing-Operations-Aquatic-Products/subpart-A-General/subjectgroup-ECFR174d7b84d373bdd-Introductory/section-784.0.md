@@ -1,0 +1,3 @@
+##### § 784.0 Purpose. #####
+
+It is the purpose of this part to provide an official statement of the views of the Department of Labor with respect to the meaning and application of sections 13(a)(5) and 13(b)(4) of the Fair Labor Standards Act, which govern the application of the minimum wage and overtime pay requirements of the Act to employees engaged in fishing and related activities and in operations on aquatic products. It is an objective of this part to make available in one place, the interpretations of law relating to such employment which will guide the Secretary of Labor and the Administrator in carrying out their responsibilities under the Act.

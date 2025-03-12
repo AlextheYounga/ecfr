@@ -1,0 +1,3 @@
+##### § 794.119 Dependence of exemption on sales volume of the enterprise. #####
+
+It is a requirement of the section 7(b)(3) exemption that the annual gross volume of sales of the enterprise must be less than $1 million exclusive of excise taxes. This dollar volume test is separate and distinct from the $250,000 annual gross volume (of sales made or business done) test in section 3(s)(1) of the Act. This latter test is for the purpose of determining coverage as an enterprise engaged in commerce or in the production of goods for commerce; whereas the $1 million test is for limiting the 7(b)(3) exemption to enterprises with annual sales of less than that amount.

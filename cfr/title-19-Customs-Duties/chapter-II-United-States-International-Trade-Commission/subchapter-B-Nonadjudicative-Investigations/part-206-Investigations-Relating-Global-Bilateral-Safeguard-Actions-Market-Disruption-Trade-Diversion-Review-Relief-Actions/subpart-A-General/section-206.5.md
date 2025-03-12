@@ -1,0 +1,11 @@
+##### § 206.5 Public hearing. #####
+
+(a) *Investigations under subpart B of this part.* A public hearing on the question of injury and a second public hearing on remedy (if necessary) will be held in connection with each investigation instituted under subpart B of this part after reasonable notice thereof has been caused to be published in the Federal Register. A hearing on remedy is not necessary if the Commission has made a negative determination on the question of injury.
+
+(b) *Investigations under subpart C, D, E, or G of this part.* A public hearing on the subject of injury and remedy will be held in connection with each investigation instituted under subpart C or D of this part or section 406(a) of the Trade Act and subpart E of this part, after reasonable notice thereof has been published in the Federal Register. The Commission also will conduct a public hearing in each investigation instituted under section 421(b) or (o) of the Trade Act and subpart E of this part or section 422(b) of the Act and subpart G. The Federal Register notice announcing the institution of such an investigation will list the date, time, and location of the hearing, the subjects to be addressed, and the procedures to be followed.
+
+(c) *Investigations under subpart F of this part.* A public hearing on the subject of whether an action taken under section 203 of the Trade Act of 1974 should be extended will be held in connection with each investigation instituted under subpart F of this part after reasonable notice thereof has been published in the Federal Register.
+
+(d) *Opportunity to appear and to cross-question.* All interested parties and consumers, including any association representing the interests of consumers, will be afforded an opportunity to be present, to present evidence, to comment on the adjustment plan, if any, submitted in the case of an investigation under section 202(b) of the Trade Act of 1974, and to be heard at such hearings. All interested parties and consumers, including any association representing the interests of consumers, will be afforded an opportunity to cross-question interested parties making presentations at the hearing.
+
+[60 FR 10, Jan. 3, 1995, as amended at 67 FR 8190, Feb. 22, 2002]

@@ -1,0 +1,3 @@
+##### § 525.24 Advisory Committee on Special Minimum Wages. #####
+
+The Advisory Committee on Special Minimum Wages, the members of which are appointed by the Secretary, shall advise and make recommendations to the Administrator concerning the administration and enforcement of these regulations and the need for amendments thereof and shall serve such other functions as may be desired by the Administrator.

@@ -1,0 +1,3 @@
+##### § 2006.6 Formal dispute settlement. #####
+
+If the issues in a petition are covered by a trade agreement between the United States and the foreign government involved and a mutually acceptable resolution cannot be reached within the consultation period provided for in the agreement, or by 150 days after consultations begin, whichever is earlier, the Trade Representative shall institute the formal dispute settlement proceedings, if any, provided for in the trade agreement.

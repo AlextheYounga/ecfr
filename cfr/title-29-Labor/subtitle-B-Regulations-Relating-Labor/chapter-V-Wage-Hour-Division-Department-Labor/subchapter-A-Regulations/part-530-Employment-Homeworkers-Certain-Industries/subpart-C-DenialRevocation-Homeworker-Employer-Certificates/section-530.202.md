@@ -1,0 +1,5 @@
+##### § 530.202 Piece rates—work measurement. #####
+
+(a) No certificate will be issued pursuant to § 530.101 of subpart B to an employer who pays homeworkers based on piece rates unless the employer establishes the piece rates for the different types of items produced using stop watch time studies or other work measurement methods. Documentation of the work measurements used to establish the piece rates, and the circumstances under which such measurements were conducted shall be retained for three years and made available on request to the Wage and Hour Division.
+
+(b) The fact that an employer bases piece rates on work measurements which indicate that the homeworkers would receive at least the minimum wage at such piece rate(s) does not relieve the employer from the Act's requirement that *each* homeworker actually receive not less than the minimum wage for all hours worked.

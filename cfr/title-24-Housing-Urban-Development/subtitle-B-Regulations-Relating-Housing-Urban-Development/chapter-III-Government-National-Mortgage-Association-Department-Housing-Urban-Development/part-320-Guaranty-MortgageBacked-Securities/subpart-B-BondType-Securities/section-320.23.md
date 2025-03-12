@@ -1,0 +1,3 @@
+##### § 320.23 Eligible issuers. #####
+
+Any corporation, trust, partnership, or other entity with a net worth acceptable to the Association as set forth in the Bond Guide, which has the capability to assemble acceptable and eligible mortgages in sufficient quantity to support required minimum issuances of securities and which meets such other requirements as are set forth in the Bond Guide, may be approved to issue and service bond-type securities guaranteed by the Association. Further, the Association reserves the right to limit the number of issuers in the interest of conducting an orderly market of securities of this type.

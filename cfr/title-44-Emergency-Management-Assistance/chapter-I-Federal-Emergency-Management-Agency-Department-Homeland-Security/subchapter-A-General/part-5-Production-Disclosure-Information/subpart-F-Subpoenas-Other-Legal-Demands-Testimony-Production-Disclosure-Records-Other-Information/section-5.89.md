@@ -1,0 +1,3 @@
+##### § 5.89 Waiver. #####
+
+The Chief Counsel may grant, in writing, a waiver of any policy or procedure prescribed by this subpart, where waiver is considered necessary to promote a significant interest of the Agency or for other good cause. In granting such waiver, the Chief Counsel shall attach to the waiver such reasonable conditions and limitations as are deemed appropriate in order that a response in strict compliance with the terms of a subpoena duces tecum or the providing of testimony will not interfere with the duties of the employee and will otherwise conform to the policies of this part. The Administrator may, in his or her discretion, review any decision to authorize a waiver of any policy or procedure prescribed by this subpart.

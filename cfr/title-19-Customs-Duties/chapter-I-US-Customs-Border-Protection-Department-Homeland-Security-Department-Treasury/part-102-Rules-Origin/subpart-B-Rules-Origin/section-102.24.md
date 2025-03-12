@@ -1,0 +1,5 @@
+##### § 102.24 Entry of textile or apparel products. #####
+
+Textile or apparel products subject to section 204 of the Agricultural Act of 1956, as amended (7 U.S.C. 1854), whether or not the requirements set forth in § 102.21 or § 102.22, as applicable, have been met, will be denied entry where the factory, producer, manufacturer, or other company named in the entry documents for such textile or apparel products is named in a directive published in the Federal Register by the Committee for the Implementation of Textile Agreements as a company found to be illegally transshipping, closed or unable to produce records to verify production. In these circumstances, no additional information will be accepted or considered by CBP for purposes of determining the admissibility of such textile or apparel products.
+
+[CBP Dec. 05-32, 70 FR 58013, Oct. 5, 2005, as amended by CBP Dec. 12-19, 77 FR 72719, Dec. 6, 2012]

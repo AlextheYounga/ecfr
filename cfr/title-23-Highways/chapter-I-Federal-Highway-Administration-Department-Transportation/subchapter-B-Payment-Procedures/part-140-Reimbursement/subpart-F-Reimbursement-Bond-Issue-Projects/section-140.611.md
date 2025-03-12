@@ -1,0 +1,3 @@
+##### § 140.611 Determination of bond retirement. #####
+
+Division Administrators shall be responsible for the prompt review of the SHA's records to determine that bonds issued to finance the projects and for which reimbursement has been made, including eligible bond interest expense, have been retired pursuant to the State's certification required by § 140.610(a), and that such action is documented in the project file.

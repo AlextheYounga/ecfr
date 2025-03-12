@@ -1,0 +1,5 @@
+##### § 122.161 In general. #####
+
+Except as provided in subpart S of this part, any person who violates any Customs requirements stated in this part, or any regulation that applies to aircraft under § 122.2, is, in addition to any other applicable penalty, subject to civil penalty of $5,000 as provided by 19 U.S.C. 1644 and 1644a, except for overages, and failure to manifest narcotics or marihuana, in which cases the penalties set forth in section 584, Tariff Act of 1930, as amended (19 U.S.C. 1584) apply, or for failure to report arrival or to present the documents required by § 122.27(c) of this part in which cases the penalties set forth in section 436, Tariff Act of 1930, as amended (19 U.S.C. 1436) apply, and any aircraft used in connection with any such violation shall be subject to seizure and forfeiture, as provided for in the Customs laws. A penalty or forfeiture may be mitigated under part 171 of this chapter.
+
+[T.D. 91-61, 56 FR 32086, July 15, 1991, as amended by T.D. 98-74, 63 FR 51289, Sept. 25, 1998]

@@ -1,0 +1,9 @@
+##### § 972.212 Timing of voluntary conversion. #####
+
+(a) A PHA may proceed to convert a development covered by a conversion plan only after receiving written approval of the conversion plan from HUD. This approval will be separate from the approval that the PHA receives for its PHA Annual Plan. A PHA may apply for tenant-based assistance in accordance with Section 8 program requirements and will be given priority for receiving tenant-based assistance to replace the public housing units.
+
+(b) A PHA may not demolish or dispose of units or property until completion of the required environmental review under part 58 of this title (if a Responsible Entity has assumed environmental responsibility for the project) or part 50 of this title (if HUD is performing the environmental review). Further, HUD will not approve a conversion plan until completion of the required environmental review. However, before completion of the environmental review, HUD may approve the targeted units for deprogramming and may authorize the PHA to undertake other activities proposed in the conversion plan that do not require environmental review (such as certain activities related to the relocation of residents), as long as the buildings in question are adequately secured and maintained.
+
+(c) For purposes of determining operating subsidy eligibility, the submitted conversion plan will be considered the equivalent of a formal request to remove dwelling units from the PHA's inventory and Annual Contributions Contract (ACC). Units that are vacant or are vacated on or after the written notification date will be treated as approved for deprogramming under § 990.108(b)(1) of this title, and will also be provided the phase down of subsidy pursuant to § 990.114 of this title.
+
+(d) HUD may require that funding for the initial year of tenant-based assistance be provided from the public housing Capital Fund, Operating Fund, or both.

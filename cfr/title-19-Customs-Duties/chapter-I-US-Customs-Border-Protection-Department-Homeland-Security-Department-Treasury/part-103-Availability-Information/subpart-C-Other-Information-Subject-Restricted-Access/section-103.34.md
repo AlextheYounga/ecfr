@@ -1,0 +1,7 @@
+##### § 103.34 Sanctions for improper actions by CBP officers or employees. #####
+
+(a) The improper disclosure of the confidential information contained in CBP documents, or the disclosure of information relative to the business of one importer or exporter that is acquired by a CBP officer or employee in an official capacity to any person not authorized by law or regulations to receive this information is a ground for dismissal from CBP, suspension, or other disciplinary action, and if done for a valuable consideration subjects that person to criminal prosecution.
+
+(b) Under 5 U.S.C. 552(a)(4)(F), the Special Counsel, Merit Systems Protection Board, has authority, upon the issuance of a written finding by a court that a CBP officer or employee who was primarily responsible for withholding a record may have acted arbitrarily or capriciously, to initiate a proceeding to determine whether disciplinary action is warranted against that officer or employee. Such proceedings are governed by Merit Systems Protection Board regulations found at part 1201 of Title 5 of the Code of Federal Regulations.
+
+[T.D. 81-168, 46 FR 32565, June 24, 1981. Redesignated by T.D. 96-36, 61 FR 19838, May 3, 1996, as amended by CBP Dec. 15-16, 80 FR 71693, Nov. 17, 2015]

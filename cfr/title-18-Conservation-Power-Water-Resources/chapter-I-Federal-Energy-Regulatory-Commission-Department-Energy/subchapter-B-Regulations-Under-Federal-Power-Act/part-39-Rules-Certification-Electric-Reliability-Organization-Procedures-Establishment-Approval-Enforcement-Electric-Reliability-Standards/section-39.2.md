@@ -1,0 +1,9 @@
+##### § 39.2 Jurisdiction and applicability. #####
+
+(a) Within the United States (other than Alaska and Hawaii), the Electric Reliability Organization, any Regional Entities, and all users, owners and operators of the Bulk-Power System, including but not limited to entities described in section 201(f) of the Federal Power Act, shall be subject to the jurisdiction of the Commission for the purposes of approving Reliability Standards established under section 215 of the Federal Power Act and enforcing compliance with section 215 of the Federal Power Act.
+
+(b) All entities subject to the Commission's reliability jurisdiction under paragraph (a) of this section shall comply with applicable Reliability Standards, the Commission's regulations, and applicable Electric Reliability Organization and Regional Entity Rules made effective under this part.
+
+(c) Each user, owner and operator of the Bulk-Power System within the United States (other than Alaska and Hawaii) shall register with the Electric Reliability Organization and the Regional Entity for each region within which it uses, owns or operates Bulk-Power System facilities, in such manner as prescribed in the Rules of the Electric Reliability Organization and each applicable Regional Entity.
+
+(d) Each user, owner or operator of the Bulk-Power System within the United States (other than Alaska and Hawaii) shall provide the Commission, the Electric Reliability Organization and the applicable Regional Entity such information as is necessary to implement section 215 of the Federal Power Act as determined by the Commission and set out in the Rules of the Electric Reliability Organization and each applicable Regional Entity. The Electric Reliability Organization and each Regional Entity shall provide the Commission such information as is necessary to implement section 215 of the Federal Power Act.

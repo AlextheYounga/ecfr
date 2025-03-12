@@ -1,0 +1,5 @@
+##### § 142.49 Deletion of C-4 Code. #####
+
+(a) *By Customs.* A port director may temporarily or permanently delete an entry filer's C-4 Code without providing the participant with any justification and without prior notification in cases of willfulness or when public health, interest, or safety so requires, thereby revoking the filer's use of Line Release.
+
+(b) *By entry filer.* Entry filers may delete C-4 Codes from Line Release by notifying the port director in writing on a Deletion Data Loading Sheet. Such notification shall state the C-4 Code which is to be deleted, the port where the C-4 Code is to be deleted and the reason for the requested deletion. A copy of the originally approved Data Loading Sheet must be submitted with the Deletion Data Loading Sheet. If only a temporary deletion is desired, the filer shall state the requested effective date for the deletion and the date the C-4 Code is requested to be returned to Line Release processing.

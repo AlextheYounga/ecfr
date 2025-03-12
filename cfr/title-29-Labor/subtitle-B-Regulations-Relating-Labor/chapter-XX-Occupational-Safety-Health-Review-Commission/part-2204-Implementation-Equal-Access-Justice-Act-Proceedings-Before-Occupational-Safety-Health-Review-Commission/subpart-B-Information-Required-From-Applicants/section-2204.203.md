@@ -1,0 +1,5 @@
+##### § 2204.203 Documentation of fees and expenses. #####
+
+The application shall be accompanied by full documentation of the fees and expenses, including the cost of any study, analysis, engineering report, test, project or similar matter, for which an award is sought. A separate itemized statement shall be submitted for each professional firm or individual whose services are covered by the application, showing the hours spent in connection with the proceeding by each individual, a description of the specific services performed, the rate at which each fee has been computed, any expenses for which reimbursement is sought, the total amount claimed, and the total amount paid or payable by the applicant or by any other person or entity for the services provided. The Commission may require the applicant to provide vouchers, receipts, or other substantiation for any fees or expenses claimed.
+
+[46 FR 48080, Sept. 30, 1981, as amended at 52 FR 5457, Feb. 23, 1987]

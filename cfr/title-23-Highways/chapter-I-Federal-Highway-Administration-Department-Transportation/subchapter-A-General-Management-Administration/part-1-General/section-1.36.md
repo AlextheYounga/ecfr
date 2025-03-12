@@ -1,0 +1,3 @@
+##### § 1.36 Compliance with Federal laws and regulations. #####
+
+If the Administrator determines that a State has violated or failed to comply with the Federal laws or the regulations in this part with respect to a project, he may withhold payment to the State of Federal funds on account of such project, withhold approval of further projects in the State, and take such other action that he deems appropriate under the circumstances, until compliance or remedial action has been accomplished by the State to the satisfaction of the Administrator.

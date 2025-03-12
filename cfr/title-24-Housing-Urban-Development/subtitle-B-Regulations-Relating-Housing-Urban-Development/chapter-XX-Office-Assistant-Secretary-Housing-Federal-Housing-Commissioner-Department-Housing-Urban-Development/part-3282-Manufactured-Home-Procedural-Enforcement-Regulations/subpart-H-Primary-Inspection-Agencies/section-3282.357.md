@@ -1,0 +1,3 @@
+##### § 3282.357 Background and experience. #####
+
+All private organizations shall submit statements of the organizations' experience in the housing industry, including a list of housing products, equipment, and structures for which evaluation, testing and follow-up inspection services have been furnished. They shall also submit statements regarding the length of time these services have been provided by them. In addition, all such submissions shall include a list of other products for which the submitting party provides evaluation, inspection, and listing or labeling services and the standard applied to each product, as well as the length of time it has provided these additional services.

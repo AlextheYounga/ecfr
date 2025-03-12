@@ -1,0 +1,7 @@
+##### § 576.405 Homeless participation. #####
+
+(a) Unless the recipient is a State, the recipient must provide for the participation of not less than one homeless individual or formerly homeless individual on the board of directors or other equivalent policy-making entity of the recipient, to the extent that the entity considers and makes policies and decisions regarding any facilities, services, or other assistance that receive funding under Emergency Solutions Grant (ESG).
+
+(b) If the recipient is unable to meet requirement under paragraph (a), it must instead develop and implement a plan to consult with homeless or formerly homeless individuals in considering and making policies and decisions regarding any facilities, services, or other assistance that receive funding under Emergency Solutions Grant (ESG). The plan must be included in the annual action plan required under 24 CFR 91.220.
+
+(c) To the maximum extent practicable, the recipient or subrecipient must involve homeless individuals and families in constructing, renovating, maintaining, and operating facilities assisted under ESG, in providing services assisted under ESG, and in providing services for occupants of facilities assisted under ESG. This involvement may include employment or volunteer services.

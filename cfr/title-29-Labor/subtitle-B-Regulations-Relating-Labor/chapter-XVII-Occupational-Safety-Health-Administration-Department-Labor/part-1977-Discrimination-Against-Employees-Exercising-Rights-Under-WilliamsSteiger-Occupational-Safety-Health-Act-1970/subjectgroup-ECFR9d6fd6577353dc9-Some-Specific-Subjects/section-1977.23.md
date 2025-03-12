@@ -1,0 +1,3 @@
+##### § 1977.23 State plans. #####
+
+A State which is implementing its own occupational safety and health enforcement program pursuant to section 18 of the Act and parts 1902 and 1952 of this chapter must have provisions as effective as those of section 11(c) to protect employees from discharge or discrimination. Such provisions do not divest either the Secretary of Labor or Federal district courts of jurisdiction over employee complaints of discrimination. However, the Secretary of Labor may refer complaints of employees adequately protected by State Plans' provisions to the appropriate state agency. The basic principles outlined in § 1977.18, supra will be observed as to deferrals to findings of state agencies.

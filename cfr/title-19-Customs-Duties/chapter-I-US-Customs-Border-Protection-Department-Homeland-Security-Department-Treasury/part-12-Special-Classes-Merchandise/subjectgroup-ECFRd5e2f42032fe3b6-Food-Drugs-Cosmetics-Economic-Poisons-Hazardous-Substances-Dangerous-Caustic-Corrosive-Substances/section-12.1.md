@@ -1,0 +1,9 @@
+##### § 12.1 Cooperation with certain agencies; joint regulations. #####
+
+(a) *Federal Food, Drug, and Cosmetic Act.* The importation into the United States of food, drugs, devices, cosmetics, and tobacco products as defined in section 201 (f), (g), (h), and (i) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321 (f), (g), (h), (i)) is governed by section 801 of the Act, as amended (21 U.S.C. 381) and regulations issued under authority of section 701(b) of the Act (21 U.S.C. 371(b)) by the Secretary of Health and Human Services and the Secretary of the Treasury (21 CFR 1.83 through 1.99).
+
+(b) *Federal Insecticide, Fungicide, and Rodenticide Act.* The importation of pesticides and devices is governed by section 17(c) of the Federal Insecticide, Fungicide, and Rodenticide Act, as amended (7 U.S.C. 136*o*(c)), and regulations issued under the authority of section 17(e) of that Act (7 U.S.C. 1360(e)) by the Secretary of the Treasury, in consultation with the Administrator of the Environmental Protection Agency, as set forth below (§ 12.110 *et seq.*).
+
+(c) *Federal Hazardous Substances Act.* The importation of hazardous substances, misbranded hazardous substances, or banned hazardous substances as defined in section 2 of the Federal Hazardous Substances Act, as amended (15 U.S.C. 1261), is governed by regulations issued under the authority of sections 10(b) and 14 of the Act, as amended (15 U.S.C. 1269, 1273), by the Consumer Product Safety Commission (16 CFR 1500.265 through 1500.272).
+
+[T.D. 68-191, 33 FR 11019, Aug. 2, 1968, as amended by T.D. 75-194, 40 FR 32321, Aug. 1, 1975; T.D. 82-145, 47 FR 35475, Aug. 16, 1982; CBP Dec. 10-29, 75 FR 52450, Aug. 26, 2010]

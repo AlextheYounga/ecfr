@@ -1,0 +1,3 @@
+##### § 1912.42 Reservation. #####
+
+The policies and procedures set forth in this part are intended for general application. In specific situations where the Assistant Secretary determines that different policies or procedures would better serve the objectives of the Act, such policies or procedures may be modified upon appropriate notice to any persons affected by the modification to the extent that such policies or procedures are consistent with the Federal Advisory Committee Act and OMB Circular A-63, and are approved by the Solicitor under part 15 of this title.

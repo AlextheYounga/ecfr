@@ -1,0 +1,11 @@
+##### § 779.233 Independent contractors performing work “for” an enterprise. #####
+
+(a) The definition in section 3(r) specifically provides that the “enterprise” shall not include “the related activities performed for such enterprise by an independent contractor.” This exclusion will apply where the related activities are performed “for” the enterprise and if such activities are performed by “an independent contractor.” This provision is discussed generally in part 776 of this chapter.
+
+(b) The Senate Report in referring to this exception states as follows:
+
+It does not include the related activities performed for such an enterprise by an independent contractor, such as an independent accounting firm or sign service or advertising company, \* \* \* (S. Rept. No. 145, 87th Cong., 1st Sess., p. 40).
+
+The term “independent contractor” as used in section 3(r) has reference to an independent business which performs services for other businesses as an established part of its own business activities. The term “independent contractor” as used in 3(r) thus has reference to an independent business which is a separate “enterprise,” and which deals in the ordinary course of its own business operations, at arms length, with the enterprises for which it performs services.
+
+(c) There are many instances in industry where one business performs activities for separate businesses without becoming a part of a larger enterprise. In addition to the examples cited in the Report they may include such services as repairs, window cleaning, transportation, warehousing, collection services, and many others. The essential test in each case will be whether such services are performed “for” the enterprise by an independent, separate enterprise, or whether the related activities are performed for a common purpose through unified operation or common control. In the latter case the activities will be considered performed “by” the enterprise, rather than “for” the enterprise, and will be a part of the enterprise. The distinction in the ordinary case will be readily apparent from the facts. In those cases where questions arise a determination must be made on the basis of all the facts in the light of the statute and the legislative history.

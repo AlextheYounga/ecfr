@@ -1,0 +1,9 @@
+##### § 1978.108 Role of Federal agencies. #####
+
+(a)(1) The complainant and the respondent will be parties in every proceeding. In any case in which the respondent objects to the findings or the preliminary order the Assistant Secretary ordinarily will be the prosecuting party. In any other cases, at the Assistant Secretary's discretion, the Assistant Secretary may participate as a party or participate as amicus curiae at any stage of the proceeding. This right to participate includes, but is not limited to, the right to petition for review of a decision of an ALJ, including a decision approving or rejecting a settlement agreement between the complainant and the respondent.
+
+(2) If the Assistant Secretary assumes the role of prosecuting party in accordance with paragraph (a)(1) of this section, he or she may, upon written notice to the ALJ or the Administrative Review Board, as the case may be, and the other parties, withdraw as the prosecuting party in the exercise of prosecutorial discretion. If the Assistant Secretary withdraws, the complainant will become the prosecuting party and the ALJ or the Administrative Review Board, as the case may be, will issue appropriate orders to regulate the course of future proceedings.
+
+(3) Copies of documents in all cases shall be sent to the parties or, if they are represented by counsel, to the latter. In cases in which the Assistant Secretary is a party, copies of documents shall be sent to the Regional Solicitor's Office representing the Assistant Secretary.
+
+(b) The Federal Motor Carrier Safety Administration, if interested in a proceeding, may participate as amicus curiae at any time in the proceeding, at its discretion. At the request of the Federal Motor Carrier Safety Administration, copies of all documents in a case must be sent to that agency, whether or not that agency is participating in the proceeding.

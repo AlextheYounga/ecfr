@@ -1,0 +1,3 @@
+##### § 779.217 “Unified operation” defined. #####
+
+Webster defines the word “unify” to mean “to cause to be one; to make into a unit; to unite.” The pertinent definition of “operation” is a method or way of operating, working or functioning. Since the term “unified operation” has reference to the method of performing the related activities, it means combining, uniting, or organizing their performance so that they are in effect a single business unit or an organized business system which is an economic unit directed to the accomplishment of a common business purpose. The term “unified operation” thus includes a business which may consist of separate segments but which is conducted or operated as a unit or as a single business for a common business purpose.

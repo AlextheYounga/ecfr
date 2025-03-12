@@ -1,0 +1,3 @@
+##### § 784.129 “Marine products”. #####
+
+The marine products which form the basis of the exemption are the “fish, shellfish, crustaceas, sponges, seaweeds, or other aquatic forms of animal and vegetable life” mentioned in section 13(a)(5). The exemption contemplates aquatic products currently or recently acquired and in the form obtained from the sea, since the language of the exemption clearly indicates the named operations of first processing, canning, or packing must be performed “at sea” and “as an incident to or in conjunction with”, fishing operations. Also, such “marine products” are limited to aquatic forms of “life.”

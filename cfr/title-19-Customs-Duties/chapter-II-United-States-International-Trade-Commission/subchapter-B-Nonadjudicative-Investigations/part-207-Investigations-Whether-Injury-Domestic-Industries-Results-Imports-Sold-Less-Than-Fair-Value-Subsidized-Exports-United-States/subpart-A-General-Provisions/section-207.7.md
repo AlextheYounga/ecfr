@@ -1,0 +1,93 @@
+##### § 207.7 Limited disclosure of certain business proprietary information under administrative protective order. #####
+
+(a)(1) *Disclosure.* Upon receipt of a timely application filed by an authorized applicant, as defined in paragraph (a)(3) of this section, which describes in general terms the information requested, and sets forth the reasons for the request (*e.g.,* all business proprietary information properly disclosed pursuant to this section for the purpose of representing an interested party in investigations pending before the Commission), the Secretary shall make available all business proprietary information contained in Commission memoranda and reports and in written submissions filed with the Commission at any time during the investigation (except nondisclosable confidential business information) to the authorized applicant under an administrative protective order described in paragraph (b) of this section. The term “business proprietary information” has the same meaning as the term “confidential business information” as defined in § 201.6 of this chapter.
+
+(2) *Application.* An application under paragraph (a)(1) of this section must be made by an authorized applicant on a form adopted by the Secretary or a photocopy thereof. A signed application shall be filed electronically. An application on behalf of a petitioner, a respondent, or another party must be made no later than the time that entries of appearance are due pursuant to § 201.11 of this chapter. In the event that two or more authorized applicants represent one interested party who is a party to the investigation, the authorized applicants must select one of their number to be lead authorized applicant. The lead authorized applicant's application must be filed no later than the time that entries of appearance are due. Provided that the application is accepted, the lead authorized applicant shall be served with business proprietary information pursuant to paragraph (f) of this section. The other authorized applicants representing the same party may file their applications after the deadline for entries of appearance but at least five days before the deadline for filing posthearing briefs in the investigation, or the deadline for filing briefs in the preliminary phase of an investigation, or the deadline for filing submissions in a remanded investigation, and shall not be served with business proprietary information.
+
+(3) *Authorized applicant.* (i) Only an authorized applicant may file an application under this subsection. An authorized applicant is:
+
+(A) An attorney for an interested party which is a party to the investigation;
+
+(B) A consultant or expert under the direction and control of a person under paragraph (a)(3)(i)(A) of this section;
+
+(C) A consultant or expert who appears regularly before the Commission and who represents an interested party which is a party to the investigation; or
+
+(D) A representative of an interested party which is a party to the investigation, if such interested party is not represented by counsel.
+
+(ii) In addition, an authorized applicant must not be involved in competitive decisionmaking for an interested party which is a party to the investigation. Involvement in “competitive decisionmaking” includes past, present, or likely future activities, associations, and relationships with an interested party which is a party to the investigation that involve the prospective authorized applicant's advice or participation in any of such party's decisions made in light of similar or corresponding information about a competitor (pricing, product design, etc.).
+
+(4) *Forms and determinations.* (i) The Secretary may adopt, from time to time, forms for submitting requests for disclosure pursuant to an administrative protective order incorporating the terms of this rule. The Secretary shall determine whether the requirements for release of information under this rule have been satisfied. This determination shall be made concerning specific business proprietary information as expeditiously as possible but in no event later than fourteen (14) days from the filing of the information, or seven (7) days in the preliminary phase of an investigation, except if the submitter of the information objects to its release or the information is unusually voluminous or complex, in which case the determination shall be made within thirty (30) days from the filing of the information, or ten (10) days in the preliminary phase of an investigation. The Secretary shall establish a list of parties whose applications have been granted. The Secretary's determination shall be final for purposes of review by the U.S. Court of International Trade under section 777(c)(2) of the Act.
+
+(ii) Should the Secretary determine pursuant to this section that materials sought to be protected from public disclosure by a person do not constitute business proprietary information or were not required to be served under paragraph (f) of this section, then the Secretary shall, upon request, issue an order on behalf of the Commission requiring the return of all copies of such materials served in accordance with paragraph (f) of this section.
+
+(iii) The Secretary shall release business proprietary information only to an authorized applicant whose application has been accepted and who presents the application along with adequate personal identification; or a person described in paragraph (b)(1)(iv) of this section who presents a copy of the statement referred to in that paragraph along with adequate personal identification.
+
+(iv) An authorized applicant granted access to business proprietary information in the preliminary phase of an investigation may, subject to paragraph (c) of this section, retain such business proprietary information during any final phase of that investigation, provided that the authorized applicant has not lost his authorized applicant status (*e.g.,* by terminating his representation of an interested party who is a party). When retaining business proprietary information pursuant to this paragraph, the authorized applicant need not file a new application in the final phase of the investigation.
+
+(b) *Administrative protective order.* The administrative protective order under which information is made available to the authorized applicant shall require the applicant to submit to the Secretary a personal sworn statement that, in addition to such other conditions as the Secretary may require, the applicant shall:
+
+(1) Not divulge any of the business proprietary information obtained under the administrative protective order and not otherwise available to the applicant, to any person other than
+
+(i) Personnel of the Commission concerned with the investigation,
+
+(ii) The person or agency from whom the business proprietary information was obtained,
+
+(iii) A person whose application for access to business proprietary information under the administrative protective order has been granted by the Secretary, and
+
+(iv) Other persons, such as paralegals and clerical staff, who are employed or supervised by the authorized applicant; who have a need thereof in connection with the investigation; who are not involved in competitive decision making for an interested party which is a party to the investigation; and who have signed a statement in a form approved by the Secretary that they agree to be bound by the administrative protective order (the authorized applicant shall be responsible for retention and accuracy of such forms and shall be deemed responsible for such persons' compliance with the administrative protective order);
+
+(2) Use such business proprietary information solely for the purposes of representing an interested party in the Commission investigation then in progress or during judicial or other review of such Commission investigation;
+
+(3) Not consult with any person not described in paragraph (b)(1) of this section concerning such business proprietary information without first having received the written consent of the Secretary and the party or the attorney of the party from whom such business proprietary information was obtained;
+
+(4) Whenever materials (*e.g.,* documents, computer disks, etc.) containing such business proprietary information are not being used, store such material in a locked file cabinet, vault, safe, or other suitable container;
+
+(5) Serve all materials containing business proprietary information as directed by the Secretary and pursuant to paragraph (f) of this section;
+
+(6) Transmit all materials containing business proprietary information with a cover sheet identifying the materials as containing business proprietary information;
+
+(7) Comply with the provisions of this section;
+
+(8) Make true and accurate representations in the authorized applicant's application and promptly notify the Secretary of any changes that occur after the submission of the application and that affect the representations made in the application (*e.g.,* change in personnel assigned to the investigation);
+
+(9) Report promptly and confirm in writing to the Secretary any breach of the administrative protective order; and
+
+(10) Acknowledge that breach of the administrative protective order may subject the authorized applicant to such sanctions or other actions as the Commission deems appropriate.
+
+(c) *Final disposition of material released under administrative protective order.* At such date as the Secretary may determine appropriate for particular data, each authorized applicant shall return or destroy all copies of materials released to authorized applicants pursuant to this section and all other materials containing business proprietary information, such as charts or notes based on any such information received under administrative protective order, and file with the Secretary a certificate attesting to his personal, good faith belief that all copies of such material have been returned or destroyed and no copies of such material have been made available to any person to whom disclosure was not specifically authorized.
+
+(d) *Commission responses to a breach of administrative protective order.* A breach of an administrative protective order may subject an offender to:
+
+(1) Disbarment from practice in any capacity before the Commission along with such person's partners, associates, employer, and employees, for up to seven years following publication of a determination that the order has been breached;
+
+(2) Referral to the United States Attorney;
+
+(3) In the case of an attorney, accountant, or other professional, referral to the ethics panel of the appropriate professional association;
+
+(4) Such other administrative sanctions as the Commission determines to be appropriate, including public release of or striking from the record any information or briefs submitted by, or on behalf of, the offender or the party represented by the offender, denial of further access to business proprietary information in the current or any future investigations before the Commission, and issuance of a public or private letter of reprimand; and
+
+(5) Such other actions, including but not limited to, a warning letter, as the Commission determines to be appropriate.
+
+(e) *Breach investigation procedure.* (1) The Commission shall determine whether any person has violated an administrative protective order, and may impose sanctions or other actions in accordance with paragraph (d) of this section. At any time within sixty (60) days of the later of the date on which the alleged violation occurred or, as determined by the Commission, could have been discovered through the exercise of reasonable and ordinary care, or the completion of an investigation conducted under subpart B or C of this part, the Commission may commence an investigation of any breach of an administrative protective order alleged to have occurred at any time during the pendency of the investigation, including all appeals, remands, and subsequent appeals. Whenever the Commission has reason to believe that a person may have breached an administrative protective order issued pursuant to this section, the Secretary shall issue a letter informing such person that the Commission has reason to believe a breach has occurred and that the person has a reasonable opportunity to present his views on whether a breach has occurred. If subsequently the Commission determines that a breach has occurred and that further investigation is warranted, the Secretary shall issue a letter informing such person of that determination and that the person has a reasonable opportunity to present his views on whether mitigating circumstances exist and on the appropriate sanction to be imposed, but no longer on whether a breach has occurred. Once such person has been afforded a reasonable opportunity to present his views, the Commission shall determine what sanction if any to impose.
+
+(2) Where the sanction imposed is a private letter of reprimand, the Secretary shall expunge the sanction from the recipient's record two (2) years from the date of issuance of the sanction, provided that
+
+(i) The recipient has not received another unexpunged sanction pursuant to this section at any time prior to the end of the two year period, and
+
+(ii) The recipient is not the subject of an investigation for possible breach of administrative protective order under this section at the end of the two year period. Upon the completion of such a pending breach investigation without the issuance of a sanction, the original sanction shall be expunged. The Secretary shall notify a sanction recipient in the event that the sanction is expunged.
+
+(f) *Service.* (1) Any party filing written submissions which include business proprietary information to the Commission during an investigation shall at the same time serve complete copies of such submissions upon all authorized applicants specified on the list established by the Secretary pursuant to paragraph (a)(4) of this section, and, except as provided in § 207.3, a nonbusiness proprietary version on all other parties. All such submissions must be accompanied by a certificate attesting that complete copies of the submission have been properly served. In the event that a submission is filed before the Secretary's list is established, the document need not be accompanied by a certificate of service, but the submission shall be served within two (2) days of the establishment of the list and a certificate of service shall then be filed.
+
+(2) If a party's request under paragraph (g) of this section is granted, the Secretary shall accept the nondisclosable confidential business information into the record. The party shall serve the submission containing such information in accordance with the requirements of § 207.3(b) and paragraph (f)(1) of this section, with the information redacted from the copies served.
+
+(3) The Secretary shall not accept for filing into the record of an investigation submissions filed without a proper certificate of service. Failure to comply with paragraph (f) of this section may result in denial of party status and such sanctions as the Commission deems appropriate. Business proprietary information in submissions must be dealt with as required by § 207.3(c).
+
+(g) *Exemption from disclosure*—(1) *In general.* Any person may request exemption from the disclosure of business proprietary information under administrative protective order, whether the person desires to include such information in a petition filed under § 207.10, or any other submission to the Commission during the course of an investigation. Such a request shall only be granted if the Secretary finds that such information is nondisclosable confidential business information. As defined in § 201.6(a)(2) of this chapter, nondisclosable confidential business information is privileged information, classified information, or specific information (*e.g.,* trade secrets) of a type for which there is a clear and compelling need to withhold from disclosure. The request will be granted or denied not later than thirty (30) days (ten (10) days in a preliminary phase investigation) after the date on which the request is filed.
+
+(2) *Request for exemption.* A request for exemption from disclosure must be filed with the Secretary in writing with the reasons therefor. At the same time as the request is filed, one copy of the business proprietary information in question must be lodged with the Secretary solely for the purpose of obtaining a determination as to the request. The business proprietary information for which exemption from disclosure is sought shall remain the property of the requester, and shall not become or be incorporated into any agency record until such time as the request is granted. A request should, when possible, be filed two business days prior to the deadline, if any, for filing the document in which the information for which exemption from disclosure is sought is proposed to be included. If the request is denied, the copy of the information lodged with the Secretary shall promptly be returned to the requester. Such a request shall only be granted if the Secretary finds that such information is privileged information, classified information, or specific information of a type for which there is a clear and compelling need to withhold from disclosure. The Secretary shall promptly notify the requester as to whether the request has been approved or denied.
+
+(3) *Procedure if request is approved.* If the request is approved, the person shall file three versions of the submission containing the nondisclosable confidential business information in question. One version shall contain all business proprietary information, bracketed in accordance with § 201.6 of this chapter and § 207.3. The other two versions shall conform to and be filed in accordance with the requirements of § 201.6 of this chapter and § 207.3, except that the specific information as to which exemption from disclosure was granted shall be redacted from the submission.
+
+(4) *Procedure if request is denied.* If the request is denied, the copy of the information lodged with the Secretary shall promptly be returned to the requester. The requester may file the submission in question without that information, in accordance with the requirements of § 207.3.
+
+[44 FR 76468, Dec. 26, 1979, as amended at 59 FR 66723, Dec. 28, 1994; 61 FR 37829, July 22, 1996; 68 FR 32978, June 3, 2003; 70 FR 8512, Feb. 22, 2005; 76 FR 61942, Oct. 6, 2011]

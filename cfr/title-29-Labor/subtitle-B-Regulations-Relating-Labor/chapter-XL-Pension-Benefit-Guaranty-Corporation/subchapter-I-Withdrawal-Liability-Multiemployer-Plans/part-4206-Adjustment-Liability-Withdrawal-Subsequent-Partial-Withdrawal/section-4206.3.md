@@ -1,0 +1,3 @@
+##### § 4206.3 Credit against liability for a subsequent withdrawal. #####
+
+Whenever an employer that was assessed withdrawal liability for a partial withdrawal from a plan partially or completely withdraws from that plan in a subsequent plan year, it shall receive a credit against the new withdrawal liability in an amount greater than or equal to zero, determined in accordance with this part. If the credit determined under §§ 4206.4 through 4206.9 is less than zero, the amount of the credit shall equal zero.

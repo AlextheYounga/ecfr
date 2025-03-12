@@ -1,0 +1,5 @@
+##### § 300.124 Recordkeeping and reporting. #####
+
+(a) *Arrival and departure reports.* The operator of each vessel of the United States for which a certificate and permit have been issued under § 300.123 must report by radio to the Port Captain, San Andres Island, voice radio call sign “Capitania de San Andres,” the vessel's arrival in and departure from treaty waters. Radio reports must be made on 8222.0 kHz or 8276.5 kHz between 8:00 a.m. and 12 noon, local time (1300-1700, Greenwich mean time) Monday through Friday.
+
+(b) *Catch and effort reports.* Each vessel of the United States must report its catch and effort on each trip into treaty waters to the Science and Research Director on a form available from the Science and Research Director. These forms must be submitted to the Science and Research Director so as to be received no later than 7 days after the end of each fishing trip.

@@ -1,0 +1,3 @@
+##### § 4002.7 Voting without a meeting. #####
+
+A resolution of the Board of Directors signed by each of the Board Members or each of the Board Representatives shall have the same effect as if agreed to at a meeting and shall be kept in the Corporate Minutes Book. A resolution for an action taken on any matter for which a Board Member has been disqualified under § 4002.8 may be signed by the Board Representative of the disqualified Board Member.

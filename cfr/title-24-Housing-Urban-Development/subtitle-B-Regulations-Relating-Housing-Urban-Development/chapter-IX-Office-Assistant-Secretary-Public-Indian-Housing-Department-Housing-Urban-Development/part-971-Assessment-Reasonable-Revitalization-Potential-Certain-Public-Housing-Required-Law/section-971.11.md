@@ -1,0 +1,3 @@
+##### § 971.11 HOPE VI developments. #####
+
+Developments with HOPE VI implementation grants that have approved HOPE VI revitalization plans will be treated as having shown the ability to achieve long-term viability with reasonable revitalization plans. Future HUD actions to approve or deny proposed HOPE VI implementation grant revitalization plans will be taken with consideration of the standards for section 202. Developments with HOPE VI planning or implementation grants, but without approved HOPE VI revitalization plans, are fully subject to section 202 standards and requirements.

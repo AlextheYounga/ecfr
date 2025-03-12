@@ -1,0 +1,7 @@
+##### § 58.33 Emergencies. #####
+
+(a) In the cases of emergency, disaster or imminent threat to health and safety which warrant the taking of an action with significant environmental impact, the provisions of 40 CFR 1506.11 shall apply.
+
+(b) If funds are needed on an emergency basis and adherence to separate comment periods would prevent the giving of assistance during a Presidentially declared disaster, or during a local emergency that has been declared by the chief elected official of the responsible entity who has proclaimed that there is an immediate need for public action to protect the public safety, the combined Notice of FONSI and Notice of Intent to Request Release of Funds (NOI/RROF) may be disseminated and/or published simultaneously with the submission of the RROF. The combined Notice of FONSI and NOI/RROF shall state that the funds are needed on an emergency basis due to a declared disaster and that the comment periods have been combined. The Notice shall also invite commenters to submit their comments to both HUD and the responsible entity issuing the notice to ensure that these comments will receive full consideration.
+
+[61 FR 19122, Apr. 30, 1996, as amended at 68 FR 56129, Sept. 29, 2003]

@@ -1,0 +1,5 @@
+##### § 15.110 What must a claimant do if the administrative claim is approved? #####
+
+(a) Payment of a claim approved under this subpart is contingent upon claimant's execution of the appropriate forms, such as the SF-194, SF-196, or SF-197, in accordance with instructions by the Department of Justice and/or the Judgment Fund. When a claimant is represented by an attorney, the voucher for payment shall designate the claimant as payee (as the beneficial interest holder), and the check shall be delivered to the attorney whose address appears on the voucher.
+
+(b) Acceptance by the claimant, or his or her agent or legal representative, of an award, compromise, or settlement under 28 U.S.C. 2672 or 28 U.S.C. 2677 is final and conclusive on the claimant, his or her agent or legal representative, and any other person on whose behalf or for whose benefit the claim has been presented and constitutes a complete release of any claim against the United States and against any officer or employee of the Government whose act or omission gave rise to the claim by reason of the same subject matter.

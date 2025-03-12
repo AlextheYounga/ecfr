@@ -1,0 +1,3 @@
+##### § 452.116 Determining validity of ballots. #####
+
+Generally, a labor organization has a right to establish reasonable rules for determining the validity of ballots cast in an election. However, where the union has no published guides for determining the validity of a voted ballot, it must count any ballot voted in such a way as to indicate fairly the intention of the voter. An entire ballot may not be voided because of a mistake made in voting for one of the offices on the ballot.

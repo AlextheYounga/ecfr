@@ -1,0 +1,5 @@
+##### § 102.94 Expeditious processing of section 10(j) cases. #####
+
+(a) Whenever temporary relief or a restraining order pursuant to section 10(j) of the Act has been procured by the Board, the complaint which has been the basis for such temporary relief or restraining order shall be heard expeditiously and the case shall be given priority by the Board in its successive steps following the issuance of the complaint (until ultimate enforcement or dismissal by the appropriate circuit court of appeals) over all other cases except cases of like character and cases under section 10 (l) and (m) of the Act.
+
+(b) In the event the trial examiner hearing a complaint, concerning which the Board has procured temporary relief or a restraining order pursuant to section 10(j), recommends a dismissal in whole or in part of such complaint, the chief law officer shall forthwith suggest to the district court which issued such temporary relief or restraining order the possible change in circumstances arising out of the findings and recommendations of the trial examiner.

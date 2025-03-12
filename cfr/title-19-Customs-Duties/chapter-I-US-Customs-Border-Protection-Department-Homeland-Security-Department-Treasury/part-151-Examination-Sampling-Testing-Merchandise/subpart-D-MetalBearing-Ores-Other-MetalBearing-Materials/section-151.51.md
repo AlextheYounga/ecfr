@@ -1,0 +1,7 @@
+##### § 151.51 Sampling requirements. #####
+
+(a) *General.* Except as provided in paragraph (b) of this section, when metal-bearing ores and other metal-bearing materials which are classifiable under Chapter 26, Harmonized Tariff Schedule of the United States (HTSUS) (19 U.S.C. 1202), are entered for consumption or warehousing at the port of first arrival, they shall be sampled for assay and moisture purposes in accordance with § 151.52. If proper facilities for weighing or sampling are not available at the port of entry, the merchandise shall be transported under bond to the place of sampling. The sampling or weighing of metal-bearing ores or materials at any place other than the port of entry shall be at the expense of the parties in interest.
+
+(b) *Ores of low metal content.* When, on the basis of invoice information, the nature of any available sample, knowledge of prior importations of similar materials, and other data, the port director is satisfied that metal-bearing ores entered under heading 2617, HTSUS, as containing less than 1 percent of metals dutiable under headings 2603, 2607, and 2608, HTSUS, are properly entered, he may liquidate the entry on the basis of the assay information contained in the entry papers. However, the sampling and testing procedures prescribed in §§ 151.52 and 151.54 shall be followed at random intervals for verification purposes.
+
+[T.D. 73-175, 38 FR 17470, July 2, 1973, as amended by T.D. 89-1, 53 FR 51269, Dec. 21, 1988]

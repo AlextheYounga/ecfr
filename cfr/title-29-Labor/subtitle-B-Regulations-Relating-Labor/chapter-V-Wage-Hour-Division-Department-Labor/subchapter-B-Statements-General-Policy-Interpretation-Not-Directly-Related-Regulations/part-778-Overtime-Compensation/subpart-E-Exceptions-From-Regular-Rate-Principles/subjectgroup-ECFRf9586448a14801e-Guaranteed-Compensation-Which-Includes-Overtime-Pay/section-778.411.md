@@ -1,0 +1,5 @@
+##### § 778.411 Sixty-hour limit on pay guaranteed by contract. #####
+
+The amount of weekly pay guaranteed may not exceed compensation due at the specified regular rate for the applicable maximum hours standard and at the specified overtime rate for the additional hours, not to exceed a total of 60 hours. Thus, if the maximum hours standard is 40 hours and the specified regular rate is $5 an hour the weekly guaranty cannot be greater than $350. This does not mean that an employee employed pursuant to a guaranteed pay contract under this section may not work more than 60 hours in any week; it means merely that pay in an amount sufficient to compensate for a greater number of hours cannot be covered by the guaranteed pay. If he works in excess of 60 hours he must be paid, for each hour worked in excess of 60, overtime compensation as provided in the contract, in addition to the guaranteed amount.
+
+[46 FR 7317, Jan. 23, 1981]

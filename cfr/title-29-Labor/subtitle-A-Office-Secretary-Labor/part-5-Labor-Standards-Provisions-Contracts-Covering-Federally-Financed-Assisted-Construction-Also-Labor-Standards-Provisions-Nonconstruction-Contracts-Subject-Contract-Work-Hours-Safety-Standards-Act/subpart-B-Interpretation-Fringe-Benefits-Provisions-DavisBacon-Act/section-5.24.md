@@ -1,0 +1,3 @@
+##### § 5.24 The basic hourly rate of pay. #####
+
+“The basic hourly rate of pay” is that part of a laborer's or mechanic's wages which the Secretary of Labor would have found and included in wage determinations prior to the 1964 amendments. The Secretary of Labor is required to continue to make a separate finding of this portion of the wage. In general, this portion of the wage is the cash payment made directly to the laborer or mechanic. It does not include fringe benefits.

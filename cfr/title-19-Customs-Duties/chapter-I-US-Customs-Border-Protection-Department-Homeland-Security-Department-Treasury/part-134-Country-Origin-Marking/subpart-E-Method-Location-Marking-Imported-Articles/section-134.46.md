@@ -1,0 +1,5 @@
+##### § 134.46 Marking when name of country or locality other than country of origin appears. #####
+
+In any case in which the words “United States,” or “American,” the letters “U.S.A.,” any variation of such words or letters, or the name of any city or location in the United States, or the name of any foreign country or locality other than the country or locality in which the article was manufactured or produced appear on an imported article or its container, and those words, letters or names may mislead or deceive the ultimate purchaser as to the actual country of origin of the article, there shall appear legibly and permanently in close proximity to such words, letters or name, and in at least a comparable size, the name of the country of origin preceded by “Made in,” “Product of,” or other words of similar meaning.
+
+[T.D. 97-72, 62 FR 44214, Aug. 20, 1997]

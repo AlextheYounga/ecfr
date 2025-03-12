@@ -1,0 +1,3 @@
+##### § 1300.101 Cross references to employee ethical conduct standards and other applicable regulations. #####
+
+Employees of the Tennessee Valley Authority (TVA) are subject to the executive branch-wide standards of ethical conduct at 5 CFR part 2635 and to the TVA regulations at 5 CFR part 7901 which supplement the executive branch-wide standards. In addition, certain TVA employees are subject to executive branch-wide financial disclosure regulations at 5 CFR part 2634.

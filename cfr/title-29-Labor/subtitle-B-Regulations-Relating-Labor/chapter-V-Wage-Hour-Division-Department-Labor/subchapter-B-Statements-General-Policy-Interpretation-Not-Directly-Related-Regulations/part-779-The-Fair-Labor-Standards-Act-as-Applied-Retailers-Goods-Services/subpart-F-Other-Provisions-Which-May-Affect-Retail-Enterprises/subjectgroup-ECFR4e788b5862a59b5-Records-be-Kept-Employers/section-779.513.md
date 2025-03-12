@@ -1,0 +1,3 @@
+##### § 779.513 Order and form of records. #####
+
+No particular order or form of records is prescribed by the regulations. However, the records which the employer keeps must contain the information and data required by the specific sections of the regulations which are applicable. In addition, where the employer claims an exemption from the minimum wage or overtime or other requirements of the Act, he should also maintain those records which serve to support his claim for exemption, such as records of sales, purchases, and receipts.

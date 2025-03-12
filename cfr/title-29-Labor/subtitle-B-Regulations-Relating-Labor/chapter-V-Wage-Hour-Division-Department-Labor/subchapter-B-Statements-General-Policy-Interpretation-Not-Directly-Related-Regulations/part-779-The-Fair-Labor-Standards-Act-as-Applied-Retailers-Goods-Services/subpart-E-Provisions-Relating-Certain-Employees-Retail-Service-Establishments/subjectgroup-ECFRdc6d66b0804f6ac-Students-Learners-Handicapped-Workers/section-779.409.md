@@ -1,0 +1,3 @@
+##### § 779.409 Handicapped workers. #####
+
+Regulations have been issued under the authority in section 14 of the Act to provide for employment under special certificate of handicapped workers at wages lower than the minimum wage applicable under section 6 of the Act. These regulations are set forth in part 524 of this chapter. In these regulations handicapped workers are defined as individuals whose earning capacity is impaired by age or physical or mental deficiency or injury for the work they are to perform.

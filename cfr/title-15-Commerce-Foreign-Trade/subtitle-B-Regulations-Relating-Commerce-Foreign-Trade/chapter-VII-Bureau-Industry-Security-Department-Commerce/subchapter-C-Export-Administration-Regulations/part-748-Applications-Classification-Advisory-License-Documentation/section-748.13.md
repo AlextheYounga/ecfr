@@ -1,0 +1,11 @@
+##### § 748.13 Granting of exceptions to the support documentation requirements. #####
+
+(a) *Overview.* A request for an exception to obtaining the required support documentation will be considered by BIS; however, an exception will not be granted contrary to the objectives of the U.S. export control program. A request for exception may involve either a single transaction or, where the reason necessitating the request is continuing in nature, multiple transactions. If satisfied by the evidence presented, BIS may waive the support document requirement and accept the license application for processing.
+
+(b) *Procedure for requesting an exception.* The request for an exception must be submitted with the license application to which the request relates, and the reason(s) for requesting the exception must be described in Block 24 or referred to in Block 24. Where the request relates to more than one license application, it should be submitted with the first license application and referred to in Block 24 on any subsequent license application.
+
+(c) *Action by BIS* - (1) *Single transaction request.* Where a single transaction is involved, BIS will act on the request for exception at the same time as the license application with which the request is submitted. In those instances where the related license application is approved, the issuance of the license will serve as an automatic notice to the applicant that the exception was approved. If any restrictions are placed on granting of the exception, these will appear on the approval. If the request for exception is not approved, BIS will advise the applicant.
+
+(2) *Multiple transactions request.* Where multiple transactions are involved, BIS will advise the applicant of the action taken on the exception request. The response from BIS will contain any conditions or restrictions that BIS finds necessary to impose (including an exception termination date if appropriate). In addition, a written acceptance of these conditions or restrictions may be required from the parties to the transaction.
+
+[80 FR 13220, Mar. 13, 2015]

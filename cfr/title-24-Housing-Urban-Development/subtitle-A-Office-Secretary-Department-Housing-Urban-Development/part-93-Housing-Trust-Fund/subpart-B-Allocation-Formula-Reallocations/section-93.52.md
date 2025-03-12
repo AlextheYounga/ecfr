@@ -1,0 +1,5 @@
+##### § 93.52 Minimum allocations. #####
+
+(a) In accordance with the HTF statute, HUD is required to provide each of the States and the District of Columbia with a minimum grant of $3 million. If the formula amount determined for a fiscal year is less than $3 million to any of the 50 States or the District of Columbia, then the allocation to that State or the District of Columbia is increased to $3 million, and allocations to States and the District of Columbia above $3 million and to the Commonwealth of Puerto Rico and the insular areas are adjusted by an equal amount on a pro rata basis.
+
+(b) If in any fiscal year, funding in the HTF is insufficient to provide each of the 50 States and the District of Columbia with a minimum grant of $3 million, HUD will, through notice published in the Federal Register for public comment, describe an alternative method for allocating grant funds to the 50 States and the District of Columbia.

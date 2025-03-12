@@ -1,0 +1,3 @@
+##### § 1b.13 Powers of persons conducting formal investigations. #####
+
+Any member of the Commission or the Investigating Officer, in connection with any formal investigation ordered by the Commission, may administer oaths and affirmations, subpoena witnesses, compel their attendance, take evidence, and require the production of any books, papers, correspondence, memoranda, contracts, agreements or other records relevant or material to the investigation.

@@ -1,0 +1,3 @@
+##### § 906.24 Protections available to non-purchasing residents of housing other than public housing. #####
+
+Residents of non-public housing that would be displaced by a homeownership program are eligible for assistance under the Uniform Relocation Act and part 42 of this title. For purposes of this part, a family that was over-income (*i.e.,* an individual or family that is not a low-income family) at the time of initial occupancy of public housing and was admitted in accordance with section 3(a)(5) of the 1937 Act, is treated as a non-purchasing resident of non-public housing.

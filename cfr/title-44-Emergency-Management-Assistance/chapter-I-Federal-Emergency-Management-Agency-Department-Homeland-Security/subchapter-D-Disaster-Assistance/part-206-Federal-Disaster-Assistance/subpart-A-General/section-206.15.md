@@ -1,0 +1,5 @@
+##### § 206.15 Recovery of assistance. #####
+
+(a) *Party liable.* Any person who intentionally causes a condition for which Federal assistance is provided under this Act or under any other Federal law as a result of a declaration of a major disaster or emergency under this Act shall be liable to the United States for the reasonable costs incurred by the United States in responding to such disaster or emergency to the extent that such costs are attributable to the intentional act or omission of such person which caused such condition. Such action shall be brought in an appropriate United States District Court.
+
+(b) *Rendering of care.* A person shall not be liable under this section for costs incurred by the United States as a result of actions taken or omitted by such person in the course of rendering care or assistance in response to a major disaster or emergency.

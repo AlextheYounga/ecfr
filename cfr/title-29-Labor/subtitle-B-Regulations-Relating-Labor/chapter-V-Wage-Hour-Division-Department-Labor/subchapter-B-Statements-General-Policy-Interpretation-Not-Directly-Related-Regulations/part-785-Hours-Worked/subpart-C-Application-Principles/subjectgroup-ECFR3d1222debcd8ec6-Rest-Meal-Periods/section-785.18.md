@@ -1,0 +1,3 @@
+##### § 785.18 Rest. #####
+
+Rest periods of short duration, running from 5 minutes to about 20 minutes, are common in industry. They promote the efficiency of the employee and are customarily paid for as working time. They must be counted as hours worked. Compensable time of rest periods may not be offset against other working time such as compensable waiting time or on-call time. (*Mitchell* v. *Greinetz,* 235 F. 2d 621, 13 W.H. Cases 3 (C.A. 10, 1956); *Ballard* v. *Consolidated Steel Corp., Ltd.,* 61 F. Supp. 996 (S.D. Cal. 1945))

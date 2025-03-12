@@ -1,0 +1,5 @@
+##### § 2204.101 Purpose of these rules. #####
+
+The Equal Access to Justice Act, 5 U.S.C. 504, provides for the award of attorney or agent fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (called “adversary adjudications”) before the Occupational Safety and Health Review Commission. An eligible party may receive an award when it prevails over the Secretary of Labor, unless the Secretary's position in the proceeding was substantially justified or special circumstances make an award unjust. The rules in this part describe the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards and the procedures and standards that the Commission uses to make awards.
+
+[46 FR 48080, Sept. 30, 1981, as amended at 52 FR 5456, Feb. 23, 1987]

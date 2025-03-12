@@ -1,0 +1,5 @@
+##### § 140.805 Definitions. #####
+
+(a) *Project related audits.* Audits which directly benefit Federal-aid highway projects. Audits performed in accordance with the requirements of 23 CFR part 12, audits of third party contract costs, and other audits providing assurance that a recipient has complied with FHWA regulations are all considered project related audits. Audits benefiting only nonfederal projects, those performed for SHA management use only, or those serving similar nonfederal purposes are not considered project related.
+
+(b) *Third party contract costs.* Project related costs incurred by railroads, utilities, consultants, governmental instrumentalities, universities, nonprofit organizations, construction contractors (force account work), and organizations engaged in right-of-way studies, planning, research, or related activities where the terms of a proposal or contract (including lump sum) necessitate an audit. Construction contracts (except force account work) are not included in this group.

@@ -1,0 +1,3 @@
+##### § 971.423 Best available technology. #####
+
+The Administrator will require in all activities under new permits, and wherever practicable in activities under existing permits, the use of the best available technologies for the protection of safety, health, and the environment wherever such activities would have a significant adverse effect on safety, health, or the environment, (see §§ 971.203(b)(3), 971.602(f), and 971.604(a)), except where the Administrator determines that the incremental benefits are clearly insufficient to justify the incremental costs of using such technologies.

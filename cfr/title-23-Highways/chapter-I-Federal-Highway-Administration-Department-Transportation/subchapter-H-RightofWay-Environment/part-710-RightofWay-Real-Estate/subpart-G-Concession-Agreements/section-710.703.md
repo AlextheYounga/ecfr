@@ -1,0 +1,17 @@
+##### § 710.703 Definitions. #####
+
+As used in this subpart:
+
+(a) *Best value* means the proposal offering the most overall public benefits as determined through an evaluation of the amount of the concession payment and other appropriate considerations. Such other appropriate considerations may include, but are not limited to, qualifications and experience of the concessionaire, expected quality of services to be provided, the history or track record of the concessionaire in providing the services, timelines for the delivery of services, performance standards, complexity of the services to be rendered, and revenue sharing. Such appropriate considerations may also include, but are not limited to, policy considerations that are important, but not quantifiable, such as retaining the ability to amend the concession agreement if conditions change, having a desired level of oversight over the facility, ensuring a certain level of maintenance and operations for the facility, considerations relative to the structure and amount of the toll rates, economic development impacts and considerations, or social and environmental benefits and impacts.
+
+(b) *Concession agreement* means an agreement between a highway agency and a concessionaire under which the concessionaire is given the right to operate and collect revenues or fees for the use of a federally funded highway in return for compensation to be paid to the highway agency. A concession agreement may include, but not be limited to, obligations concerning the development, design, construction, maintenance, operation, level of service, and/or capital improvements to a facility over the term of the agreement. Concession agreement shall not include agreements between government entities, even when compensation is paid, where the primary purpose of the transaction is not commercial in nature but for the purpose of determining governmental ownership, control, jurisdiction, or responsibilities with respect to the operation of a federally funded highway. The highway agency's determination as to whether an agreement between government entities constitutes a concession agreement shall be controlling.
+
+(c) *Concessionaire* means any private or public entity that enters into a concession agreement with a highway agency.
+
+(d) *Fair market value* means the price at which a highway agency and concessionaire are ready and willing to enter into a concession agreement for a federally funded highway on, or as if in, the open market for a reasonable period of time and in an arm's length transaction to any willing, knowledgeable, and able buyer. For purposes of this subpart, a concession agreement based on best value shall be deemed fair market value.
+
+(e) *Federally funded highway* means any highway (including highways, bridges, and tunnels) acquired with Federal assistance made available from the Highway Trust Fund (other than the Mass Transit Account). A highway shall be deemed to be acquired with Federal assistance if Federal assistance participated in either the purchase of any real property, or in any capital expenditures in any fixtures located on real property, within the right-of-way, including the highway and any structures located upon the property.
+
+(f) *Highway agency* in this subpart means any SDOT or other public authority with jurisdiction over a federally funded highway.
+
+[73 FR 77503, Dec. 19, 2008, as amended at 81 FR 57741, Aug. 23, 2016]

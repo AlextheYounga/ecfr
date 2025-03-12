@@ -1,0 +1,5 @@
+##### § 1690.308 Notice of unresolved disputes. #####
+
+(a) The disputes resolution mechanism in section 1-307 of the Executive Order should be used only in extraordinary circumstances, and only when further good faith efforts on the part of the EEOC and the agency involved would be ineffective in achieving a resolution of the dispute. Before using the disputes resolution mechanism, the EEOC or the initiating agency must have fully participated in the coordination process, including giving notification to the EEOC and the affected agencies of its intention to publish in final within 15 working days.
+
+(b) EEOC or the affected agency shall then send written notification of the dispute and the reasons for it to the EEOC and to the other affected agencies. Thereafter, but within the 15 day notice period, the EEOC or the affected agency may refer the dispute to the Executive Office of the President. Such reference may be made by the Chair of the EEOC or the head of the Federal agency. If no reference is made within 15 working days, the decision of the agency which initiated the proposed issuance will become effective.

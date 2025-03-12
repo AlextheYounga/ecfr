@@ -1,0 +1,3 @@
+##### § 241.1025 Refund of fees. #####
+
+If the amount of the commitment issued is less than the amount applied for, the Commissioner shall refund the excess amount of the application and commitment fees submitted by the applicant. If an application is rejected before it is assigned for processing, or in such other instances as the Commissioner may determine, the entire application and commitment fees or any portion thereof may be returned to the applicant. Commitment and reopening fees may also be refunded to the applicant, in whole or in part, in such other instances as the Commissioner may determine.

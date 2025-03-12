@@ -1,0 +1,5 @@
+##### § 1986.114 District court jurisdiction of retaliation complaints under SPA. #####
+
+(a) If there is no final order of the Secretary, 210 days have passed since the filing of the complaint, and there is no showing that there has been delay due to the bad faith of the complainant, the complainant may bring an action at law or equity for *de novo* review in the appropriate district court of the United States, which will have jurisdiction over such an action without regard to the amount in controversy. The action shall, at the request of either party to such action, be tried by the court with a jury.
+
+(b) Within seven days after filing a complaint in federal court, a complainant must file with the Assistant Secretary, the ALJ, or the ARB, depending on where the proceeding is pending, a copy of the file-stamped complaint. A copy of the complaint also must be served on the OSHA official who issued the findings and/or preliminary order, the Assistant Secretary, and the Associate Solicitor, Division of Occupational Safety and Health, U.S. Department of Labor.

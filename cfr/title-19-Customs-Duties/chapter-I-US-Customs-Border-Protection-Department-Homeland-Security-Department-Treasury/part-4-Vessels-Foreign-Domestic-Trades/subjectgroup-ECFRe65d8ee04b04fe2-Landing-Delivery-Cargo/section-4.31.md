@@ -1,0 +1,7 @@
+##### § 4.31 Unlading or transshipment due to casualty. #####
+
+(a) When any cargo or stores of a vessel have been unladen or transshipped at any place in the United States or its Customs waters other than a port of entry because of accident, stress of weather, or other necessity, no penalty shall be imposed under section 453 or 586(a), Tariff Act of 1930, if due notice is given to the director of the port at which the vessel thereafter first arrives and satisfactory proof is submitted to him as provided for in section 586(f), Tariff Act of 1930, as amended, regarding such accident, stress of weather, or other necessity. The port director may accept the certificates of the master and two or more officers or members of the crew of the vessel, of whom the person next to the master in command shall be one, as proof that the unlading or transshipment was necessary by reason of unavoidable cause.
+
+(b) The port director may then permit entry of the vessel and its cargo and permit the unlading of the cargo in such place at the port as he may deem proper. Unless its transportation has been in violation of the coastwise laws, the cargo may be cleared through Customs at the port where it is discharged or forwarded to the port of original destination under an entry for immediate transportation or for transportation and exportation, as the case may be. All regulations shall apply in such cases as if the unlading and delivery took place at the port of original destination.
+
+[28 FR 14596, Dec. 31, 1963, as amended by T.D. 95-77, 60 FR 50010, Sept. 27, 1995]

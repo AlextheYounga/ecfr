@@ -1,0 +1,3 @@
+##### § 300.160 Requirement for marking of containers or packages. #####
+
+Except as otherwise provided in this subpart, all persons are prohibited from importing, exporting, or transporting in interstate commerce any container or package containing any fish or wildlife (including shellfish) unless each container or package is conspicuously marked on the outside with both the name and address of the shipper and consignee and an accurate list of its contents by species and number of each species.

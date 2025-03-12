@@ -1,0 +1,11 @@
+##### § 520.201 How are those classifications of workers which may be paid subminimum wages under section 14(a) of the Fair Labor Standards Act defined? #####
+
+(a) A messenger is a worker who is primarily engaged in delivering letters and messages for a firm whose principal business is the delivery of such letters and messages.
+
+(b) A learner is a worker who is being trained for an occupation, which is not customarily recognized as an apprenticeable trade, for which skill, dexterity and judgment must be learned and who, when initially employed, produces little or nothing of value. Except in extraordinary circumstances, an employee cannot be considered a “learner” once he/she has acquired a total of 240 hours of job-related and/or vocational training with the same or other employer(s) or training facility(ies) during the past three years. An individual qualifying as a “learner” may only be trained in two qualifying occupations.
+
+(c) A student-learner is a student who is at least sixteen years of age, or at least eighteen years of age if employed in an occupation which the Secretary has declared to be particularly hazardous, who is receiving instruction in an accredited school, college or university and who is employed on a part-time basis, pursuant to a “bona fide vocational training program” as defined in subpart C of this part.
+
+(d) An apprentice is a worker, at least sixteen years of age unless a higher minimum age standard is otherwise fixed by law, who is employed to learn a skilled trade through a registered apprenticeship program. Training is provided through structured on-the-job training combined with supplemental related theoretical and technical instruction. This term excludes pre-apprentices, trainees, learners, and student-learners. The terms learner and student-learner are defined in subpart C of this part. Standards governing the registration of apprenticeship programs are established and administered by the U.S. Department of Labor, Employment and Training Administration, Bureau of Apprenticeship and Training (BAT) and are found in Regulations, 29 CFR Part 29.
+
+(e) Additional terms used in this part are defined in subpart C of this part.

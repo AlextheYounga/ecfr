@@ -1,0 +1,7 @@
+##### § 1627.1 Purpose and scope. #####
+
+(a) Section 7 of the Age Discrimination in Employment Act of 1967 (hereinafter referred to in this part as the Act) empowers the Commission to require the keeping of records which are necessary or appropriate for the administration of the Act in accordance with the powers contained in section 11 of the Fair Labor Standards Act of 1938. Subpart B of this part sets forth the recordkeeping and posting requirements which are prescribed by the Commission for employers, employment agencies, and labor organizations which are subject to the Act. Reference should be made to section 11 of the Act for definitions of the terms “employer”, “employment agency”, and “labor organization”. General interpretations of the Act and of this part are published in part 1625 of this chapter. This part also reflects pertinent delegations of the Commission's duties.
+
+(b) Subpart D of this part sets forth the Commission's regulations issued pursuant to section 12(c)(2) of the Act, providing that the Secretary of Labor, after consultation with the Secretary of the Treasury, shall prescribe the manner of calculating the amount of qualified retirement benefits for purposes of the exemption in section 12(c)(1) of the Act.
+
+[44 FR 38459, July 2, 1979, as amended at 44 FR 66797, Nov. 21, 1979; 72 FR 72944, Dec. 26, 2007]

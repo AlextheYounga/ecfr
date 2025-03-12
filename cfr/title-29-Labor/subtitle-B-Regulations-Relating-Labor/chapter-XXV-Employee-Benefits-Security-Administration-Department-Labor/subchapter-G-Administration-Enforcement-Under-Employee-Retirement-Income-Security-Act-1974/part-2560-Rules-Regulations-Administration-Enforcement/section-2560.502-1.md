@@ -1,0 +1,7 @@
+##### § 2560.502-1 Requests for enforcement pursuant to section 502(b)(2). #####
+
+(a) *Form, content and filing.* All requests by participants, beneficiaries, and fiduciaries for the Secretary of Labor to exercise his enforcement authority pursuant to section 502(a)(5), 29 U.S.C. 1132(a)(5), with respect to a violation of, or the enforcement of, parts 2 and 3 of title I of the Employee Retirement Income Security Act of 1974 (the Act) shall be in writing and shall contain information sufficient to form a basis for identifying the participant, beneficiary, or fiduciary and the plan involved. All such requests shall be considered filed if they are directed to and received by any office or official of the Department of Labor or referred to and received by any such office or official by any party to whom such writing is directed.
+
+(b) *Consideration.* The Secretary of Labor retains discretion to determine whether any enforcement proceeding should be commenced in the case of any request received pursuant to paragraph (a) of this section, and he may, but shall not be required to, exercise his authority pursuant to section 502(a)(5) of the Act only if he determines that such violation affects, or such enforcement is necessary to protect claims of participants or beneficiaries to benefits under the plan.
+
+[43 FR 50175, Oct. 27, 1978]

@@ -1,0 +1,3 @@
+##### § 101.15 Compliance with court judgment. #####
+
+After a Board order has been enforced by a court judgment, the Board has the responsibility of obtaining compliance with that judgment. Investigation is made by the Regional Office of the respondent's efforts to comply. If it finds that the respondent has failed to live up to the terms of the court's judgment, the General Counsel may, on behalf of the Board, petition the court to hold the respondent in contempt of court. The court may order immediate remedial action and impose sanctions and penalties.

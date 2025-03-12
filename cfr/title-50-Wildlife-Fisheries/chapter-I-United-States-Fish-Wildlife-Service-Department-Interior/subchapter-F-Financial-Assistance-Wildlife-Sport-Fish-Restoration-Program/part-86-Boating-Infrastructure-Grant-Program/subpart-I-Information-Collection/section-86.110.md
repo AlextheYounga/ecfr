@@ -1,0 +1,3 @@
+##### § 86.110 What are the information-collection requirements of this part? #####
+
+OMB has reviewed and approved the U.S. Fish and Wildlife information collection requirements (project narratives, reports, and amendments) in this part and assigned OMB Control No. 1018-0109. We may not conduct or sponsor and a person is not required to respond to a collection of information unless it displays a currently valid OMB control number. You may send comments on any aspect of the information collection requirements to the Service Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).

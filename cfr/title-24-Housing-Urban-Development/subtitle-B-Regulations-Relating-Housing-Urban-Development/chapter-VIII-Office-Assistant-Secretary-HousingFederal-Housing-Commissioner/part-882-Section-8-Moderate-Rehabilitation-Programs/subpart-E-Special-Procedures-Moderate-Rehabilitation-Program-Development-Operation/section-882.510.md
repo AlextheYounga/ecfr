@@ -1,0 +1,5 @@
+##### § 882.510 Adjustment of utility allowance. #####
+
+The PHA must determine, at least annually, whether an adjustment is required in the Utility Allowance applicable to the dwelling units in the Program, on grounds of changes in utility rates or other change of general applicability to all units in the Program. The PHA may also establish a separate schedule of allowances for each building of 20 or more assisted units, based upon at least one year's actual utility consumption data following rehabilitation under the Program. If the PHA determines that an adjustment should be made in its Schedule of Allowances or if it establishes a separate schedule for a building which will change the allowance, the PHA must then determine the amounts of adjustments to be made in the amount of rent to be paid by affected Families and the amount of housing assistance payments and must notify the Owners and Families accordingly. Any adjustment to the Allowance must be implemented no later than at the Family's next reexamination or at lease renewal, whichever is earlier.
+
+[47 FR 34383, Aug. 9, 1982, as amended at 49 FR 19946, May 10, 1984]

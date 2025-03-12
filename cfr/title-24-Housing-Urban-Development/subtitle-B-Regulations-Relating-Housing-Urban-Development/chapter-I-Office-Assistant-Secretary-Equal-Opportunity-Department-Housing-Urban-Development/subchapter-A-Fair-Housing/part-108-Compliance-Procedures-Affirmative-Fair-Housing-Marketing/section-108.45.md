@@ -1,0 +1,5 @@
+##### § 108.45 Compliance report. #####
+
+Following a compliance review, a report shall be prepared promptly and the Assistant Secretary for FH&EO shall make a finding of compliance or noncompliance. If it is found that the applicant is in compliance, all parties concerned shall be notified of the findings. Whenever a finding of noncompliance is made pursuant to this part, the report shall list specifically the violations found. The applicant shall be sent a copy of the report by certified mail, return receipt requested, together with a notice that, if the matter cannot be resolved within ten days of receipt of the Notice, the matter will be referred to the Assistant Secretary for FH&EO to make a determination as to whether actions will be initiated for the imposition of sanctions.
+
+[44 FR 47013, Aug. 9, 1979, as amended at 64 FR 44097, Aug. 12, 1999]

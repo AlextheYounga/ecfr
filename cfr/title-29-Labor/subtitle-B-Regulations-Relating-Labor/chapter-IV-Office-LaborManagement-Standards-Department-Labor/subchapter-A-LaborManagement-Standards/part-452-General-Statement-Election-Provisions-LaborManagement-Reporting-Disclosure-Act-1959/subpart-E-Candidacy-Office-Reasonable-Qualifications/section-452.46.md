@@ -1,0 +1,7 @@
+##### § 452.46 Characteristics of candidate. #####
+
+A labor organization may establish certain restrictions on the right to be a candidate on the basis of personal characteristics which have a direct bearing on fitness for union office. A union may, for example, require a minimum age for candidacy. However, a union may not establish such rules if they would be inconsistent with any other Federal law. Thus, it ordinarily may not limit eligibility for office to persons of a particular race, color, religion, sex, or national origin since this would be inconsistent with the Civil Rights Act of 1964.28 Nor may it establish a general compulsory retirement age or comparable age restriction on candidacy since this would be inconsistent with the Age Discrimination in Employment Act of 1967, as amended. A union may not require candidates for office to be registered voters and to have voted in public elections during the year preceding their nominations. Nor may it require that candidates have voted in the previous union election to be eligible. Such restrictions may not be said to be relevant to the members' fitness for office.
+
+28*Shultz* v. *Local 1291, International Longshoremen's Association,* 338 F. Supp. 1204 (E.D. Pa.), aff'd, 461 F.2d 1262 (C.A. 3 1972).
+
+[53 FR 8751, Mar. 17, 1988, as amended at 53 FR 23233, June 21, 1988]

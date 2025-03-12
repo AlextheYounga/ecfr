@@ -1,0 +1,13 @@
+##### § 4041.46 PBGC determination of compliance with requirements for distress termination. #####
+
+(a) *General.* Based on the information contained and submitted with the PBGC Form 600 and the PBGC Form 601, with Schedule EA-D, and on any information submitted by an affected party or otherwise obtained by the PBGC, the PBGC will determine whether the requirements for a distress termination set forth in § 4041.41(c) have been met and will notify the plan administrator in writing of its determination, in accordance with paragraph (b) or (c) of this section.
+
+(b) *Qualifying termination.* If the PBGC determines that all of the requirements of § 4041.41(c) have been satisfied, it will so advise the plan administrator and will also advise the plan administrator of whether participant and benefit information must be submitted in accordance with § 4041.45(b).
+
+(c) *Non-qualifying termination.* (1) Except as provided in paragraph (c)(2) of this section, if the PBGC determines that any of the requirements of § 4041.41 have not been met, it will notify the plan administrator of its determination, the basis therefor, and the effect thereof (as provided in § 4041.41(b)).
+
+(2) If the only basis for the PBGC's determination described in paragraph (c)(1) of this section is that the distress termination notice is incomplete, the PBGC will advise the plan administrator of the missing item(s) of information and that the information must be filed with the PBGC no later than the 120th day after the proposed termination date or the 30th day after the date of the PBGC's notice of its determination, whichever is later.
+
+(d) *Reconsideration of determination of non-qualification.* A plan administrator may request reconsideration of the PBGC's determination under paragraph (c)(1) of this section in accordance with the rules prescribed in part 4003, subpart C, of this chapter. The filing of a request for reconsideration automatically stays the effectiveness of the determination until the PBGC issues its decision on reconsideration.
+
+(e) *Notice to affected parties.* Upon a decision by the PBGC affirming a determination of non-qualification or upon the expiration of the period within which the plan administrator may request reconsideration of a determination of non-qualification (or, if earlier, upon the plan administrator's decision not to request reconsideration), the plan administrator must notify the affected parties (and any persons who were provided notice under § 4041.43(e)) in writing that the plan is not going to terminate or, if applicable, that the termination is invalid but that a new notice of intent to terminate is being issued.

@@ -1,0 +1,5 @@
+##### § 930.114 Secretarial mediation efforts. #####
+
+(a) Following the close of the hearing, the hearing officer shall transmit the hearing record to the Secretary. Upon receipt of the hearing record, the Secretary shall schedule a mediation conference to be attended by representatives from the Office of the Secretary, the disagreeing Federal and State agencies, and any other interested parties whose participation is deemed necessary by the Secretary. The Secretary shall provide the parties at least 10 days notice of the time and place set for the mediation conference.
+
+(b) Secretarial mediation efforts shall last only so long as the Federal and State agencies agree to participate. The Secretary shall confer with the Executive Office of the President, as necessary, during the mediation process.

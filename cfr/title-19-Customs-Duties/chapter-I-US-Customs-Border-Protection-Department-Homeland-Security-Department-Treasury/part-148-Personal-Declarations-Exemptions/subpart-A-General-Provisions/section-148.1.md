@@ -1,0 +1,9 @@
+##### § 148.1 Registration of effects to be taken abroad. #####
+
+(a) *Persons who may use procedure.* Any person, except a nonresident seaman, airman, or person engaged in similar employment, who intends to take effects of foreign origin abroad may register such articles before departure from the United States in order to facilitate their identification on return to the United States. Only articles of foreign origin having serial numbers or other distinctive, permanently affixed unique markings can be registered.
+
+(b) *Procedures for registration.* Applicants for registration of articles of foreign origin shall present the articles, together with a completed, but unsigned, Customs Form 4457, or its electronic equivalent, which may be obtained in advance of departure, to a Customs officer. After the Customs officer has examined the articles and verified their description, he shall have the applicant sign the form. The Customs officer shall then sign the form and return it to the applicant for presentation on return of the articles. Customs form 4455, or its electronic equivalent, may be required in any case in which Customs form 4457, or its electronic equivalent, will not adequately serve the purpose of registration.
+
+(c) *Presentation on return and reuse.* The form shall be presented to the Customs officer when the registered articles are returned to the United States. The form shall be valid for reuse as long as the document is legible to identify the registered articles.
+
+[T.D. 82-102, 47 FR 24119, June 3, 1982, as amended by T.D. 91-35, 56 FR 19260, Apr. 26, 1991; CBP Dec. No. 15-14, 80 FR 61291, Oct. 13, 2015]

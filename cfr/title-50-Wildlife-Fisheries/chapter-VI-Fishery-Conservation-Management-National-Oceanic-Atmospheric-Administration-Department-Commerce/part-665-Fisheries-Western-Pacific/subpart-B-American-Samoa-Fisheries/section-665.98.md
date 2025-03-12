@@ -1,0 +1,3 @@
+##### § 665.98 Management area. #####
+
+The American Samoa fishery management area is the EEZ seaward of the Territory of American Samoa with the inner boundary coterminous with the seaward boundaries of the Territory of American Samoa and the outer boundary designated as a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured, or is coterminous with adjacent international maritime boundaries.

@@ -1,0 +1,3 @@
+##### § 206.10 Use of local firms and individuals. #####
+
+In the expenditure of Federal funds for debris removal, distribution of supplies, reconstruction, and other major disaster or emergency assistance activities which may be carried out by contract or agreement with private organizations, firms, or individuals, preference shall be given, to the extent feasible and practicable, to those organizations, firms, and individuals residing or doing business primarily in the area affected by such major disaster or emergency. This shall not be considered to restrict the use of Department of Defense resources in the provision of major disaster assistance under the Stafford Act.

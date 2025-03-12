@@ -1,0 +1,3 @@
+##### § 10.910 Right to make post-importation claim and refund duties. #####
+
+Notwithstanding any other available remedy, where a good would have qualified as an originating good when it was imported into the United States but no claim for preferential tariff treatment was made, the importer of that good may file a claim for a refund of any excess duties at any time within one year after the date of importation of the good in accordance with the procedures set forth in § 10.911 of this subpart. Subject to the provisions of § 10.908 of this subpart, CBP may refund any excess duties by liquidation or reliquidation of the entry covering the good in accordance with § 10.912(c) of this subpart.

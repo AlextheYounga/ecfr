@@ -1,0 +1,9 @@
+##### § 1926.16 Rules of construction. #####
+
+(a) The prime contractor and any subcontractors may make their own arrangements with respect to obligations which might be more appropriately treated on a jobsite basis rather than individually. Thus, for example, the prime contractor and his subcontractors may wish to make an express agreement that the prime contractor or one of the subcontractors will provide all required first-aid or toilet facilities, thus relieving the subcontractors from the actual, but not any legal, responsibility (or, as the case may be, relieving the other subcontractors from this responsibility). In no case shall the prime contractor be relieved of overall responsibility for compliance with the requirements of this part for all work to be performed under the contract.
+
+(b) By contracting for full performance of a contract subject to section 107 of the Act, the prime contractor assumes all obligations prescribed as employer obligations under the standards contained in this part, whether or not he subcontracts any part of the work.
+
+(c) To the extent that a subcontractor of any tier agrees to perform any part of the contract, he also assumes responsibility for complying with the standards in this part with respect to that part. Thus, the prime contractor assumes the entire responsibility under the contract and the subcontractor assumes responsibility with respect to his portion of the work. With respect to subcontracted work, the prime contractor and any subcontractor or subcontractors shall be deemed to have joint responsibility.
+
+(d) Where joint responsibility exists, both the prime contractor and his subcontractor or subcontractors, regardless of tier, shall be considered subject to the enforcement provisions of the Act.

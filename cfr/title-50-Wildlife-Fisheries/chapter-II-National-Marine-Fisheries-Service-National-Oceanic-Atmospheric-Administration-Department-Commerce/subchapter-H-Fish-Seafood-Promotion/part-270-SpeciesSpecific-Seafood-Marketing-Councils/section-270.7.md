@@ -1,0 +1,7 @@
+##### § 270.7 Results of referendum. #####
+
+(a) *Favorable vote to establish a Council.* NMFS will, by order of publication in the Federal Register, establish the Council and approve an acceptable proposed charter, if the referendum votes which are cast in favor of the proposed charter constitute a majority of the sector participants voting in each and every sector. Further, according to the best available data, the majority must collectively account for, in the 12-month period immediately preceding the month in which the proposed charter was filed, at least 66 percent of the value of the fish and fish products described in the proposed charter handled during such period in each sector by those who meet the eligibility requirements to vote in the referendum as defined by the applicants.
+
+(b) *Unfavorable vote to establish a Council.* If a referendum fails to pass in any sector of the proposed Council, NMFS will not establish the Council or approve the proposed charter. NMFS will immediately recover the cost of conducting the referendum according to § 270.5(c).
+
+(c) *Notification of referendum results.* NMFS will notify the applicants of the results of the referendum and publish the results of the referendum in the Federal Register.

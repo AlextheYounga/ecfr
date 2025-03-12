@@ -1,0 +1,3 @@
+##### § 102.6 Administrative law judge; hearing officer. #####
+
+The term *administrative law judge* as used herein shall mean the agent of the Board conducting the hearing in an unfair labor practice or Telegraph Merger Act proceeding. The term *hearing officer* as used herein shall mean the agent of the Board conducting the hearing in a proceeding under section 9 or in a dispute proceeding under section 10(k) of the Act.

@@ -1,0 +1,3 @@
+##### § 1911.3 Petition for the promulgation, modification, or revocation of a standard. #####
+
+Any interested person may file with the Assistant Secretary, Occupational Safety and Health Administration, U.S. Department of Labor, Washington, D.C. 20210, a written petition for the promulgation, modification, or revocation of a standard. The petition should include, or be accompanied by, the proposed rule desired and a statement of the reasons therefor and intended effect thereof.

@@ -1,0 +1,63 @@
+##### § 216.93 Tracking and verification program. #####
+
+The Administrator, Southwest Region, has established a national tracking and verification program to accurately document the dolphin-safe condition of tuna, under the standards set forth in §§ 216.91 and 216.92. The tracking program includes procedures and reports for use when importing tuna into the United States and during U.S. fishing, processing, and marketing in the United States and abroad. Verification of tracking system operations is attained through the establishment of audit and document review requirements. The tracking program is consistent with the international tuna tracking and verification program adopted by the Parties to the Agreement on the IDCP.
+
+(a) *Tuna tracking forms.* Whenever a U.S. flag tuna purse seine vessel of greater than 400 st (362.8 mt) carrying capacity fishes in the ETP, IDCP approved Tuna Tracking Forms (TTFs), bearing a unique number assigned to that trip, are used by the observer to record every set made during that trip. One TTF is used to record dolphin-safe sets and a second TTF is used to record non-dolphin-safe sets. The information entered on the TTFs following each set includes the date, well number, weights by species composition, estimated tons loaded, and additional notes, if any. The observer and the vessel engineer initial the entry as soon as possible following each set, and the vessel captain and observer review and sign both TTFs at the end of the fishing trip certifying that the information on the forms is accurate. TTFs are confidential official documents of the IDCP, consistent with Article XVIII of the Agreement on the IDCP, and the Agreement on the IDCP Rules of Confidentiality.
+
+(b) *Dolphin-Safe Certification.* Upon request, the Office of the Administrator, Southwest Region, will provide written certification that tuna harvested by U.S. purse seine vessels greater than 400 st (362.8 mt) carrying capacity is dolphin-safe, but only if NMFS' review of the TTFs for the subject trip shows that the tuna for which the certification is requested is dolphin-safe under the requirements of the Agreement on the IDCP and U.S. law.
+
+(c) *Tracking fishing operations.* (1) *ETP large purse seine vessel.* In the ETP by a purse seine vessel of greater than 400 st (362.8 mt) carrying capacity:
+
+(i) During fishing trips, any part of which included fishing in the ETP, by purse seine vessels greater than 400 st (362.8 mt) carrying capacity, tuna caught in sets designated as dolphin-safe by the vessel observer must be stored separately from tuna caught in non-dolphin-safe sets from the time of capture through unloading. Vessel personnel will decide into which wells tuna will be loaded. The observer will initially designate whether each set is dolphin-safe or not, based on his/her observation of the set. The observer will initially identify a vessel fish well as dolphin-safe if the first tuna loaded into the well during a trip was captured in a set in which no dolphin died or was seriously injured. The observer will initially identify a vessel fish well as non-dolphin-safe if the first tuna loaded into the well during a trip was captured in a set in which a dolphin died or was seriously injured. Any tuna loaded into a well previously designated non-dolphin-safe is considered non-dolphin-safe tuna. The observer will change the designation of a dolphin-safe well to non-dolphin-safe if any tuna are loaded into the well that were captured in a set in which a dolphin died or was seriously injured.
+
+(ii) The captain, managing owner, or vessel agent of a U.S. purse seine vessel greater than 400 st (362.8 mt) returning to port from a trip, any part of which included fishing in the ETP, must provide at least 48 hours' notice of the vessel's intended place of landing, arrival time, and schedule of unloading to the Administrator, Southwest Region.
+
+(iii) If the trip terminates when the vessel enters port to unload part or all of its catch, new TTFs will be assigned to the new trip, and any information concerning tuna retained on the vessel will be recorded as the first entry on the TTFs for the new trip. If the trip is not terminated following a partial unloading, the vessel will retain the original TTFs and submit a copy of those TTFs to the Administrator, Southwest Region, within 5 working days. In either case, the species and amount unloaded will be noted on the respective originals.
+
+(iv) Tuna offloaded to trucks, storage facilities, or carrier vessels must be loaded or stored in such a way as to maintain and safeguard the identification of the dolphin-safe or non-dolphin-safe designation of the tuna as it left the fishing vessel.
+
+(v) The handling of TTFs and the tracking and verification of tuna caught in the Convention Area by a U.S. purse seine vessel greater than 400 st (362.8 mt) carrying capacity shall be conducted consistent with the international tuna tracking and verification program adopted by the Parties to the Agreement on the IDCP.
+
+(2) *Purse seine vessel other than ETP large purse seine vessel.* This paragraph (c)(2) applies to tuna product labeled dolphin-safe that includes tuna harvested on a fishing trip that began on or after July 13, 2013, in the ETP by a purse seine vessel of 400 st (362.8 mt) or less carrying capacity or by a purse seine vessel outside the ETP of any carrying capacity.
+
+(i) Tuna caught in sets designated as dolphin-safe must be stored separately from tuna caught in non-dolphin-safe sets from the time of capture through unloading. Tuna caught in sets where a dolphin died or was seriously injured must be stored in a well designated as non-dolphin-safe by the captain or, where applicable, by a qualified and authorized observer under § 216.91. Any tuna loaded into a well previously designated non-dolphin-safe is considered non-dolphin-safe tuna. The captain or, where applicable, a qualified and authorized observer under § 216.91, will change the designation of a dolphin-safe well to non-dolphin-safe if any tuna are loaded into the well that were captured in a set in which a dolphin died or was seriously injured. If a purse seine vessel has only one well used to store tuna, dolphin-safe tuna must be kept physically separate from non-dolphin-safe tuna by using netting or other material. If a purse seine vessel has more than one well used to store tuna, all tuna inside a well shall be considered non-dolphin-safe, if at any time non-dolphin-safe tuna is loaded into the well, regardless of the use of netting or other material inside the well.
+
+(ii) Tuna offloaded to trucks, storage facilities, or carrier vessels must be loaded or stored in such a way as to maintain and safeguard the identification of the dolphin-safe or non-dolphin-safe designation of the tuna as it left the fishing vessel.
+
+(3) *Other vessels.* This paragraph (c)(3) applies to tuna product labeled dolphin-safe that includes tuna harvested by a vessel on a fishing trip that began on or after July 13, 2013 other than ones described in paragraphs (c)(1) or (2) of this section:
+
+(i) Tuna caught in sets or other gear deployments designated as dolphin-safe must be stored separately from tuna caught in non-dolphin-safe sets or other gear deployments from the time of capture through unloading. Dolphin-safe tuna must be kept physically separate from non-dolphin-safe tuna by using netting, other material, or separate storage areas. The captain or, where applicable, a qualified and authorized observer under § 216.91, must designate the storage areas for dolphin-safe and non-dolphin-safe tuna.
+
+(ii) Tuna offloaded to trucks, storage facilities, or carrier vessels must be loaded or stored in such a way as to maintain and safeguard the identification of the dolphin-safe or non-dolphin-safe designation of the tuna as it left the fishing vessel.
+
+(d) *Tracking cannery operations.* (1) Whenever a U.S. tuna canning company in the 50 states, Puerto Rico, or American Samoa receives a domestic or imported shipment of tuna for processing, a NMFS representative may be present to monitor delivery and verify that dolphin-safe and non-dolphin-safe tuna are clearly identified and remain segregated. Such inspections may be scheduled or unscheduled, and canners must allow the NMFS representative access to all areas and records.
+
+(2) Tuna processors must submit a report to the Administrator, Southwest Region, of all tuna received at their processing facilities in each calendar month whether or not the tuna is actually canned or stored during that month. Monthly cannery receipt reports must be submitted electronically or by mail before the last day of the month following the month being reported. Monthly reports must contain the following information:
+
+(i) *Domestic receipts:* whether the tuna is eligible to be labeled dolphin-safe under § 216.91, species, condition (round, loin, dressed, gilled and gutted, other), weight in short tons to the fourth decimal, ocean area of capture (ETP, western Pacific, Indian, eastern and western Atlantic, other), catcher vessel, gear type, trip dates, carrier name, unloading dates, and location of unloading. Where the processor indicates the tuna is eligible to be labeled dolphin-safe under § 216.91, it must enclose the certifications required by that section.
+
+(ii) *Import receipts:* In addition to the information required in paragraph (d)(2)(i) of this section, a copy of the FCO for each imported receipt must be provided.
+
+(3) Tuna processors must report on a monthly basis the amounts of ETP-caught tuna that were immediately utilized upon receipt or removed from cold storage. This report may be submitted in conjunction with the monthly report required in paragraph (d)(2) of this section. This report must contain:
+
+(i) The date of removal from cold storage or disposition;
+
+(ii) Storage container or lot identifier number(s) and dolphin-safe or non-dolphin-safe designation of each container or lot; and
+
+(iii) Details of the disposition of fish (for example, canning, sale, rejection, etc.).
+
+(4) During canning activities, non-dolphin-safe tuna may not be mixed in any manner or at any time during processing with any dolphin-safe tuna or tuna products and may not share the same storage containers, cookers, conveyers, tables, or other canning and labeling machinery.
+
+(e) *Tracking processor operations other than cannery operations.* U.S. tuna processors other than cannery operations engaged in processing tuna products, including frozen, dried, or smoked tuna products, must submit a report to the Administrator, Southwest Region that includes the information set out in § 216.93(d)(2) and (3) on a monthly basis for all tuna received at their processing facilities that will be included in any tuna product labeled dolphin-safe.
+
+(f) *Tracking imports.* All tuna products, except fresh tuna, that are imported into the United States must be accompanied as described in § 216.24(f)(3) by a properly certified FCO as required by § 216.24(f)(2). For tuna tracking purposes, copies of FCOs and associated certifications and statements must be submitted by the importer of record to U.S. Customs and Border Protection as described in and required by § 216.24(f)(2).
+
+(g) *Verification requirements.* (1) *Record maintenance.* Any exporter, transshipper, importer, processor, or wholesaler/distributor of any tuna or tuna products must maintain records related to that tuna for at least 2 years. These records include, but are not limited to: FCOs and required certifications, any reports required in paragraphs (a), (b), (d) and (e) of this section, invoices, other import documents, and trip reports.
+
+(2) *Record submission.* At the time of, or in advance of, importation of a shipment of tuna or tuna products, any importer of tuna or tuna products must submit all corresponding FCOs and required certifications and statements for those tuna or tuna products as required by § 216.24(f)(2).
+
+(3) *Audits and spot checks.* Upon request of the Administrator, Southwest Region, any exporter, transshipper, importer, processor, or wholesaler/distributor of tuna or tuna products must provide the Administrator, Southwest Region, timely access to all pertinent records and facilities to allow for audits and spot-checks on caught, landed, stored, and processed tuna.
+
+(h) *Confidentiality of proprietary information.* Information submitted to the Assistant Administrator under this section will be treated as confidential in accordance with NOAA Administrative Order 216-100 “Protection of Confidential Fisheries Statistics.”
+
+[78 FR 41002, July 9, 2013, as amended at 81 FR 51133, Aug. 3, 2016]

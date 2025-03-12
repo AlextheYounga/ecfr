@@ -1,0 +1,3 @@
+##### § 725.8 Report, plan and recommendation development and review. #####
+
+All reports, plans and recommendations received under section 104 of Pub. L. 89-80 shall be reviewed by the Council for reflection of and opportunities to meet the objectives of E.O. 11988 and 11990. This review shall be based on the criteria in § 725.7(a)(1) through (5), on E.O. 11988 and 11990, and on the Council's Floodplain Management Guidelines (43 FR 6030).

@@ -1,0 +1,3 @@
+##### § 943.100 What is the purpose of this part? #####
+
+This part authorizes public housing agencies (PHAs) to form consortia, joint ventures, affiliates, subsidiaries, partnerships, and other business arrangements under section 13 of the United States Housing Act of 1937 (42 U.S.C. 1437k). Under this authority, PHAs participating in a consortium enter into a consortium agreement, submit joint PHA Plans to HUD, and may combine all or part of their funding and program administration. This part does not preclude a PHA from entering cooperative arrangements to operate its programs under other authority, as long as they are consistent with other program regulations and requirements.

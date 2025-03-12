@@ -1,0 +1,13 @@
+##### § 635.117 Labor and employment. #####
+
+(a) No construction work shall be performed by convict labor at the work site or within the limits of any Federal-aid highway construction project from the time of award of the contract or the start of work on force account until final acceptance of the work by the State DOT unless it is labor performed by convicts who are on parole, supervised release, or probation.
+
+(b) No procedures or requirement shall be imposed by any State which will operate to discriminate against the employment of labor from any other State, possession or territory of the United States, in the construction of a Federal-aid project.
+
+(c) The selection of labor to be employed by the contractor on any Federal-aid project shall be by the contractor without regard to race, color, religion, sex, national origin, age, or handicap and in accordance with 23 CFR part 230, 41 CFR part 60 and Exec. Order No. 11246 (Sept. 24, 1965), 3 CFR 339 (1964-1965), as amended.
+
+(d) Pursuant to 23 U.S.C. 140(d), it is permissible for State DOT's to implement procedures or requirements which will extend preferential employment to Indians living on or near a reservation on eligible projects as defined in paragraph (e) of this section. Indian preference shall be applied without regard to tribal affiliation or place of enrollment. In no instance should a contractor be compelled to layoff or terminate a permanent core-crew employee to meet a preference goal.
+
+(e) Projects eligible for Indian employment preference consideration are projects located on roads within or providing access to an Indian reservation or other Indian lands as defined under the term “Indian Reservation Roads” in 23 U.S.C. 101 and regulations issued thereunder. The terminus of a road “providing access to” is that point at which it intersects with a road functionally classified as a collector or higher classification (outside the reservation boundary) in both urban and rural areas. In the case of an Interstate highway, the terminus is the first interchange outside the reservation.
+
+(f) The advertisement or call for bids on any contract for the construction of a project located on the Federal-aid system either shall include the minimum wage rates determined by the Secretary of Labor to be prevailing on the same type of work on similar construction in the immediate locality or shall provide that such rates are set out in the bidding documents and shall further specify that such rates are a part of the contract covering the project.

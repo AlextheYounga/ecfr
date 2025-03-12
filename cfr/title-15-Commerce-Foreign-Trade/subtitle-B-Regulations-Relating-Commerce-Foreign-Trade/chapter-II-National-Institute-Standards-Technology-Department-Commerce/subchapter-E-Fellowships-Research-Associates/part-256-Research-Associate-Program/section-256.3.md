@@ -1,0 +1,3 @@
+##### § 256.3 Procedure. #####
+
+Arrangements for collaborative research by NIST with a Research Associate generally begin through discussions or correspondence between NIST scientists and representatives of potential sponsoring companies, trade associations or professional organizations. These preliminary steps are followed by the consummation of a Memorandum of Agreement which is signed by NIST, the sponsoring organization and the Research Associate. The agreement sets out the respective responsibilities and obligations of all parties.

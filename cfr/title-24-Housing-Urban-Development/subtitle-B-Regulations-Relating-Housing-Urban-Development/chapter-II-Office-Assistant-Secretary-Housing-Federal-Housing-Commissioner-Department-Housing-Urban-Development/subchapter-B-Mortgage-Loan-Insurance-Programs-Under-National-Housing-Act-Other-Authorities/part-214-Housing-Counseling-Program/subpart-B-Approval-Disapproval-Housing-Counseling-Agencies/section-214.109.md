@@ -1,0 +1,3 @@
+##### § 214.109 Disapproval by HUD. #####
+
+If an application package does not meet all requirements in § 214.103, HUD will provide the agency with the reasons for the denial in writing. Within 30 calendar days of the written notice of denial, the agency may submit a revised application, or appeal HUD's decision in writing to HUD, as provided in § 214.205. If an agency decides to submit a revised application, the agency may consult HUD, to determine the specific actions needed to resolve the deficiencies.

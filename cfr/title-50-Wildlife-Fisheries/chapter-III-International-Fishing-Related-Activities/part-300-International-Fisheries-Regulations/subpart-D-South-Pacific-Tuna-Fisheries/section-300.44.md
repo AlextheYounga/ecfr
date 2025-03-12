@@ -1,0 +1,3 @@
+##### § 300.44 Other inspections. #####
+
+The operator and each member of the crew of any vessel from which any fish taken in the Licensing Area is unloaded or transshipped shall allow, or arrange for, and assist any authorized inspector, authorized party officer, or authorized officer to have full access to any place where the fish is unloaded or transshipped, to remove samples, to have full access to the vessel's records, including its log and documentation for the purpose of inspection and photocopying, and to gather any other information relating to fisheries in the Licensing Area without interfering unduly with the lawful operation of the vessel.

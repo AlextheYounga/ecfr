@@ -1,0 +1,3 @@
+##### § 780.819 Production must be of unrefined sugar or syrup. #####
+
+The second part of the section 13(b)(15) exemption is specifically limited to the production “of sugar (other than refined sugar) or syrup.” The production of “refined sugar” a term which is commonly understood to refer to the refinement of “raw sugar” is expressly excluded. Thus, the exemption does not apply to the manufacture of sugar that is produced by melting sugar, purifying the melted sugar solution through a carbon medium process and the recrystallization of the sugar from this solution. Nor does the exemption apply to the processing of cane syrup into refined sugar or to the further processing of sugar, as for example, beet sugar into powdered or liquid sugar.

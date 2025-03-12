@@ -1,0 +1,5 @@
+##### § 401.558 Physical condition standards. #####
+
+The Restructuring Plan must require the owner to maintain the project in a decent and safe condition that meets the applicable standards under this section. As long as project-based assistance is provided, the applicable standards are the physical conditions standards for HUD housing in § 5.703 of this title. At any other time, the applicable standards are the local housing codes or codes adopted by the public housing agency if such codes meet or exceed the standards in § 5.703 of this title and do not severely restrict housing choice or, if there are no such local housing codes or codes adopted by the public housing agency, the standards in § 5.703 of this title will apply. In addition, any unit in which the tenant receives tenant-based assistance must comply with the housing quality standards of the section 8 tenant-based programs.
+
+[65 FR 15485, Mar. 22, 2000, as amended at 65 FR 53901, Sept. 6, 2000]

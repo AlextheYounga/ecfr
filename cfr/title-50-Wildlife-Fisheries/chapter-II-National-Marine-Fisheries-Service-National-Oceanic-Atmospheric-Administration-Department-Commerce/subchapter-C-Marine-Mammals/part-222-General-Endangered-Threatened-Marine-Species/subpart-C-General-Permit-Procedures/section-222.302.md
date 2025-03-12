@@ -1,0 +1,9 @@
+##### § 222.302 Procedure for obtaining permits. #####
+
+(a) Applications must be submitted to the Assistant Administrator, by letter containing all necessary information, attachments, certification, and signature, as specified by the regulations in parts 222, 223, and 224 of this chapter, or by the Act. In no case, other than for emergencies pursuant to § 222.301(a)(2), will applications be accepted either orally or by telephone.
+
+(b) Applications must be received by the Assistant Administrator at least 90 calendar days prior to the date on which the applicant desires to have the permit made effective, unless otherwise specified in the regulations or guidelines pertaining to a particular permit. The National Marine Fisheries Service will attempt to process applications deemed sufficient in the shortest possible time, but does not guarantee that the permit will be issued 90 days after notice of receipt of the application is published in the Federal Register.
+
+(c)(1) Upon receipt of an insufficiently or improperly executed application, the applicant shall be notified of the deficiency in the application. If the applicant fails to supply the deficient information or otherwise fails to correct the deficiency within 60 days following the date of notification, the application shall be considered abandoned.
+
+(2) The sufficiency of the application shall be determined by the Assistant Administrator in accordance with the requirements of this part. The Assistant Administrator, however, may waive any requirement for information or require any elaboration or further information deemed necessary.

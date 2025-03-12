@@ -1,0 +1,5 @@
+##### § 30.38 Exemption from the requirements for reporting complete commodity information. #####
+
+Except as noted in § 30.2(a)(1)(iv), report EEI for household goods. Household goods are usual and reasonable kinds and quantities of personal property necessary and appropriate for use by the USPPI in the USPPI's dwelling in a foreign country. Household goods include, but are not limited to items such as furniture, large and small appliances, kitchenware, electronics, toys, bicycles, clothing, personal adornments, and associated containers. These goods should be for use by the USPPI, not intended for sale; and shipped under a bill of lading or an air waybill. In such cases, Schedule B or HTSUSA commodity classification codes and domestic/foreign indicator shall not be required.
+
+[78 FR 16381, Mar. 14, 2013]

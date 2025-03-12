@@ -1,0 +1,5 @@
+##### § 148.83 Diplomatic and consular bags. #####
+
+(a) *Diplomatic bags.* The contents of diplomatic bags are restricted to diplomatic documents and articles intended exclusively for official use and packages constituting the diplomatic bag must bear visible marks of their character. Diplomatic bags shall not be opened or detained nor shall they be subject to duty or entry.
+
+(b) *Consular bags.* Consular bags must bear visible external marks of their character and their contents are restricted to official correspondence and documents or articles intended exclusively for official use. Consular bags shall not be subject to duty and ordinarily shall not be opened or detained. However, if Customs officers have serious reason to believe that a consular bag contains other than permissible materials, they may request that the bag be opened in their presence by an authorized representative of the foreign government concerned. If this request is refused, the consular bag shall be returned to its place of origin.

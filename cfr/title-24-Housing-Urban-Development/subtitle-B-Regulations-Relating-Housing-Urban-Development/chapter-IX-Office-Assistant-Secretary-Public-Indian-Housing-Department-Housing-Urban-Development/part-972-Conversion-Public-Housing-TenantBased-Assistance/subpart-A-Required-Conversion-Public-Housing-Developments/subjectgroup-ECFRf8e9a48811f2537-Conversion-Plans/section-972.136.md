@@ -1,0 +1,3 @@
+##### § 972.136 Timing of submission of conversion plans to HUD. #####
+
+The requirements of this section are on-going requirements. If the PHA must submit a plan for conversion, it must submit the conversion plan as part of the PHA's Annual Plan, beginning with PHA fiscal years that commence six months after the effective date of HUD's final rule establishing the cost methodology for required conversions.

@@ -1,0 +1,3 @@
+##### § 530.413 Certification of the record. #####
+
+Upon receipt of a complaint seeking review of a final decision issued pursuant to this part filed in a United States District Court, after the administrative remedies have been exhausted, the Chief Administrative Law Judge shall promptly index, certify and file with the appropriate United States District Court, a full, true, and correct copy of the entire record, including the transcript of proceedings.

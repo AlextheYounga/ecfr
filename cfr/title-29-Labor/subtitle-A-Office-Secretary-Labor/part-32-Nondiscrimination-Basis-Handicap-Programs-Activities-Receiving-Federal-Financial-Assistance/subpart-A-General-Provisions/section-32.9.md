@@ -1,0 +1,3 @@
+##### § 32.9 Administrative requirements for small recipients. #####
+
+The Assistant Secretary may require any recipient that provides services to fewer than 15 beneficiaries or with fewer than 15 employees, or any class of such recipients, to comply with §§ 32.7 and 32.8, in whole or in part, when the Assistant Secretary finds a violation of this part or finds that such compliance will not significantly impair the ability of the recipient or class of recipients to provide benefits or services.

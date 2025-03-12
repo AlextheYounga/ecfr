@@ -1,0 +1,3 @@
+##### § 5.858 What authority do I have to evict drug criminals? #####
+
+The lease must provide that drug-related criminal activity engaged in on or near the premises by any tenant, household member, or guest, and any such activity engaged in on the premises by any other person under the tenant's control, is grounds for you to terminate tenancy. In addition, the lease must allow you to evict a family when you determine that a household member is illegally using a drug or when you determine that a pattern of illegal use of a drug interferes with the health, safety, or right to peaceful enjoyment of the premises by other residents.

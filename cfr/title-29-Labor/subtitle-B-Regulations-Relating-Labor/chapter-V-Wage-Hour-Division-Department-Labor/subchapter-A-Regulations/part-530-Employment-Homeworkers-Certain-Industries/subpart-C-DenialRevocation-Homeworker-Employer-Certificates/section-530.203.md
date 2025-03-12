@@ -1,0 +1,3 @@
+##### § 530.203 Outstanding violations and open investigations. #####
+
+A homework certificate will not be issued or renewed by the Administrator if, within the previous three years, the Administrator has found and notified the applicant of a monetary violation of the Fair Labor Standards Act in an amount certain, or the Administrator has assessed a civil money penalty pursuant to subpart D of these regulations or part 579 of this chapter (child labor), and such amounts are unpaid, or if the applicant is the subject of a revocation proceeding at the time of the application for renewal, or the applicant is the subject of an open investigation.

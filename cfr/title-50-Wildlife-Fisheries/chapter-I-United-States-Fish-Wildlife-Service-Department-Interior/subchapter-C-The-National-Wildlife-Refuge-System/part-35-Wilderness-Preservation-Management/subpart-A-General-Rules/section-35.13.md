@@ -1,0 +1,5 @@
+##### § 35.13 Access to State and private lands. #####
+
+Rights of States or persons and their successors in interest, whose land is surrounded by a wilderness unit, will be recognized to assure adequate access to that land. Adequate access is defined as the combination of modes and routes of travel which will best preserve the wilderness character of the landscape. Mode of travel designated shall be reasonable and consistent with accepted, conventional, contemporary modes of travel in said vicinity. Use will be consistent with reasonable purposes for which such land is held. The Director will issue such permits as are necessary for access, designating the means and route of travel for ingress and degress so as to preserve the wilderness character of the area.
+
+[36 FR 25426, Dec. 31, 1971; 37 FR 1049, Jan. 22, 1972]

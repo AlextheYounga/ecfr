@@ -1,0 +1,5 @@
+##### § 18.93 Scope of regulations. #####
+
+(a) The provisions in this subpart apply only after (1) the Director has made a decision to waive a moratorium pursuant to section 101(a)(3)(A) of the Act, (2) the opportunity for a hearing required by section 103(d) of the Act has been provided, and (3) the Director has made a determination, in the case of State laws and regulations, to approve such State laws and regulations pursuant to section 109(a)(2) of the Act and subpart F of this part.
+
+(b) The provisions of this subpart, unless specifically stated, apply to all taking and/or importation of each species of marine mammal for which the moratorium has been waived other than takings for scientific research or public display, which are governed by § 18.31 of this part, or takings incidental to commercial fishing operations which are governed by § 18.24.

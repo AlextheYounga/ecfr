@@ -1,0 +1,11 @@
+##### § 145.4 Dutiable merchandise without declaration or invoice, prohibited merchandise, and merchandise imported contrary to law. #####
+
+(a) *Subject to seizure and forfeiture.* When, upon CBP examination, a mail article is found to contain merchandise subject to duty or tax, and the mail article is not accompanied by an appropriate customs declaration and invoice or statement of value required by § 145.11, or is found to contain material prohibited importation or imported contrary to law, the merchandise is subject to seizure and forfeiture.
+
+(b) *Mitigation of forfeiture.* Any claimant incurring a forfeiture of merchandise for violation of this section may file a petition for relief pursuant to part 171 of this chapter. Mitigation of that forfeiture may occur consistent with mitigation guidelines.
+
+(c) *Collection of mitigated forfeiture.* When the shipment does not exceed $2,500 in value, CBP Form 3419 or 3419A or CBP Form 368 or 368A (serially numbered) or CBP Form 7501, or its electronic equivalent, must be used for the entry of the merchandise, and the duty, any tax, and the amount of the mitigated forfeiture must be entered as separate items thereon. If a mail article for which a mail fine entry has been issued in accordance with this paragraph is undeliverable, it will be returned to the director of the port where the entry was issued, for disposition in accordance with § 145.59 relating to articles subject to seizure.
+
+(d) *Petition for relief.* The addressee or sender may file a petition with the Fines, Penalties, and Forfeitures Officer having jurisdiction over the port where the mail fine entry was issued in accordance with part 171 of this chapter for relief from the forfeiture incurred and for release of the seized merchandise, or for additional relief from a mitigated forfeiture.
+
+[T.D. 73-135, 38 FR 13369, May 21, 1973]Editorial Note:For Federal Register citations affecting § 145.4, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

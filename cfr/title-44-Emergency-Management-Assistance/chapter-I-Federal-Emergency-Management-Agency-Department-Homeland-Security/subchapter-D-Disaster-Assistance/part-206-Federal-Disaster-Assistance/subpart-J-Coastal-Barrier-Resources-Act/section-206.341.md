@@ -1,0 +1,3 @@
+##### § 206.341 Policy. #####
+
+It shall be the policy of FEMA to achieve the goals of CBRA in carrying out disaster relief on units of the Coastal Barrier Resources System. It is FEMA's intent that such actions be consistent with the purpose of CBRA to minimize the loss of human life, the wasteful expenditure of Federal revenues, and the damage to fish, wildlife and other natural resources associated with coastal barriers along the Atlantic and Gulf coasts and to consider the means and measures by which the long-term conservation of these fish, wildlife, and other natural resources may be achieved under the Stafford Act.

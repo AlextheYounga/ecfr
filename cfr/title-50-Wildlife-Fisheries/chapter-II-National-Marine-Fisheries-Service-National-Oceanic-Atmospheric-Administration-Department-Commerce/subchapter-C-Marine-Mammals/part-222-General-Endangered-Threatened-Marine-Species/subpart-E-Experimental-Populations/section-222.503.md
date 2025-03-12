@@ -1,0 +1,5 @@
+##### § 222.503 Prohibitions. #####
+
+(a) Any population determined by the Secretary to be an experimental population shall be treated as if it were listed as a threatened species for purposes of establishing protective regulations under section 4(d) of the Act with respect to such population.
+
+(b) Accordingly, when designating, or revising, an experimental population under section 10(j) of the Act, the Secretary may also exercise his or her authority under section 4(d) of the Act to include protective regulations necessary and advisable to provide for the conservation of such species as part of the special rule for the experimental population. Any protective regulations applicable to the species from which the experimental population was sourced do not apply to the experimental population unless specifically included in the special rule for the experimental population.

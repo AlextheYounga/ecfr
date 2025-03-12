@@ -1,0 +1,3 @@
+##### § 20.62 Responsibilities of the Chief Financial Officer. #####
+
+The Chief Financial Officer, or his or her designee, shall provide appropriate and binding written or other guidance to Department of Labor agencies and officials in carrying out this subpart, including the issuance of guidelines and instructions, which he or she may deem appropriate. The Chief Financial Officer shall also take such administrative steps as may be appropriate to carry out the purposes and ensure the effective implementation of this regulation.

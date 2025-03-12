@@ -1,0 +1,3 @@
+##### § 471.22 What actions may the Director of OLMS take in the case of intimidation and interference? #####
+
+The Director of OLMS may impose the sanctions and penalties contained in § 471.14 of this part against any contractor or subcontractor who does not take all necessary steps to ensure that no person intimidates, threatens, or coerces any individual for the purpose of interfering with the filing of a complaint, furnishing information, or assisting or participating in any manner in a compliance evaluation, complaint investigation, hearing, or any other activity related to the administration or enforcement of the Executive Order or this part.

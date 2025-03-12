@@ -1,0 +1,5 @@
+##### § 10.74 Animals straying across boundary for pasturage; offspring. #####
+
+When domestic animals for which free entry is to be claimed under subheading 9801.00.90, Harmonized Tariff Schedule of the United States, have strayed across the boundary line, they may be returned, together with their offspring, without entry if brought back within 30 days; otherwise entry shall be required. The owner of any such animal shall report its return to the nearest Customs office and hold it for such inspection and treatment as may be deemed necessary by a representative of the Animal and Plant Health Inspection Service of the Department of Agriculture. Any such arrival found not to have been so reported or held shall be subject to seizure and forfeiture pursuant to 18 U.S.C. 545.
+
+[T.D. 87-75, 52 FR 20067, May 29, 1987, as amended by T.D. 89-1, 53 FR 51250, Dec. 21, 1988]

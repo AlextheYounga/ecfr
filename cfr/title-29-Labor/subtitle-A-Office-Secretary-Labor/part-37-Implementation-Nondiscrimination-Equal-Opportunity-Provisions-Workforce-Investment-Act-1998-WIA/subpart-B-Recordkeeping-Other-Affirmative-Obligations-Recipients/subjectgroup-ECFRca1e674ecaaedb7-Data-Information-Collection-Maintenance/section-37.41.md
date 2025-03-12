@@ -1,0 +1,3 @@
+##### § 37.41 What responsibilities do grant applicants, recipients, and the Department have to maintain the confidentiality of the information collected? #####
+
+The identity of any individual who furnishes information relating to, or assisting in, an investigation or a compliance review, including the identity of any individual who files a complaint, must be kept confidential to the extent possible, consistent with a fair determination of the issues. An individual whose identity it is necessary to disclose must be protected from retaliation (see § 37.11).

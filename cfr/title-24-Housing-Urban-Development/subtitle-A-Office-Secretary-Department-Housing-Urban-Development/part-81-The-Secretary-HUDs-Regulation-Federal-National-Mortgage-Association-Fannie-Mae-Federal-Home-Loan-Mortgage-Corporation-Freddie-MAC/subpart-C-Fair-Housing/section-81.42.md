@@ -1,0 +1,3 @@
+##### § 81.42 Prohibitions against discrimination. #####
+
+Neither GSE shall discriminate in any manner in making any mortgage purchases because of race, color, religion, sex, handicap, familial status, age, or national origin, including any consideration of the age or location of the dwelling or the age of the neighborhood or census tract where the dwelling is located in a manner that has a discriminatory effect.

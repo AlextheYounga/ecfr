@@ -1,0 +1,5 @@
+##### § 600.515 Interpretation of 16 U.S.C. 1857(4). #####
+
+Section 307(4) of the Magnuson-Stevens Act prohibits any fishing vessel other than a vessel of the United States (foreign fishing vessel) from operating in the EEZ if all of the fishing gear on board the vessel is not stowed in compliance with that section “unless such vessel is authorized to engage in fishing in the area in which the vessel is operating.” If such a vessel has a permit authorization that is limited to fishing activities other than catching, taking or harvesting (such as support, scouting or processing activities), it must have all of its fishing gear stowed at all times while it is in the EEZ. If such a vessel has a permit authorization to engage in catching, taking or harvesting activities, but such authorization is limited to a specific area within the EEZ, and/or to a specific period of time, the vessel must have all of its fishing gear stowed while it is in the EEZ, except when it is in the specific area authorized, and/or during the specific period of time authorized.
+
+[61 FR 32540, June 24, 1996, as amended at 63 FR 7075, Feb. 12, 1998]

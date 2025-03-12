@@ -1,0 +1,5 @@
+##### § 1635.5 Limiting, segregating, and classifying. #####
+
+(a) A covered entity may not limit, segregate, or classify an individual, or fail or refuse to refer for employment any individual, in any way that would deprive or tend to deprive the individual of employment opportunities or otherwise affect the status of the individual as an employee, because of genetic information with respect to the individual. A covered entity will not be deemed to have violated this section if it limits or restricts an employee's job duties based on genetic information because it was required to do so by a law or regulation mandating genetic monitoring, such as regulations administered by the Occupational and Safety Health Administration (OSHA). See 1635.8(b)(5) and 1635.11(a).
+
+(b) Notwithstanding any language in this part, a cause of action for disparate impact within the meaning of section 703(k) of the Civil Rights Act of 1964, 42 U.S.C. 2000e-2(k), is not available under this part.

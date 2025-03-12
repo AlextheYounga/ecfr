@@ -1,0 +1,5 @@
+##### § 28.21 General provisions. #####
+
+Refuge managers and other authorized personnel are authorized pursuant to authority delegated from the Secretary and which has been published in the Federal Register (Administrative Manual 4 AM 4.2) to protect fish and wildlife and their habitat and prevent their disturbance, to protect Service lands, property, facilities, or interests therein and to insure the safety of the using public to the fullest degree possible. The control of recreational use will be enforced to meet these purposes pursuant to Federal, State, and local laws and regulations: The provisions of this subchapter C and any special regulations issued pursuant thereto; and the prohibitions and restrictions as posted.
+
+[41 FR 9171, Mar. 3, 1976, as amended at 44 FR 42976, July 23, 1979; 51 FR 7575, Mar. 5, 1986]

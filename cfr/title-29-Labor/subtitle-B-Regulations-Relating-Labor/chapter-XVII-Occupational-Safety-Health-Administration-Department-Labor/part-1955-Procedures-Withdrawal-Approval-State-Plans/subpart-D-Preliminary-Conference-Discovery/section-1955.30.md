@@ -1,0 +1,5 @@
+##### § 1955.30 Submission of documentary evidence. #####
+
+(a) Where there has been no consent finding or summary decision under subpart C of this part and a formal hearing is necessary, the administrative law judge shall set a date by which all documentary evidence, which is to be offered during the hearing, shall be submitted to the administrative law judge and served on the other parties. Such submission date shall be sufficiently in advance of the hearing as to permit study and preparation for cross-examination and rebuttal evidence. Documentary evidence not submitted in advance may be received into evidence upon a clear showing that the offering party had good cause for failure to produce the evidence sooner.
+
+(b) The authenticity of all documents submitted in advance shall be deemed admitted unless written objections are filed prior to the hearing, except that a party will be permitted to challenge such authenticity at a later date upon clear showing of good cause for failure to have filed such written objections.

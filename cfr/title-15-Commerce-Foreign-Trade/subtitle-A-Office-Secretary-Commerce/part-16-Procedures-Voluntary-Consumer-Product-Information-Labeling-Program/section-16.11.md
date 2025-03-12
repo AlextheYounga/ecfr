@@ -1,0 +1,3 @@
+##### § 16.11 Amendment or revision of a performance information labeling specification. #####
+
+The Secretary may by order amend or revise any Specification published under § 16.5. The procedure applicable to the establishment of a Specification under § 16.5 shall be followed in amending or revising such Specification. Such amendment or revision shall not apply to consumer products manufactured prior to the effective date of the amendment or revision.

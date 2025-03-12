@@ -1,0 +1,11 @@
+##### § 18.86 Conduct of the hearing. #####
+
+(a) The hearing shall be held at the time and place fixed in the notice of hearing, unless the presiding officer changes the time or place. If a change occurs, the presiding officer shall publish the change in the Federal Register and shall expeditiously notify all parties by telephone or by mail. If the change in time or place of hearing is made less than five days before the date previously fixed for the hearing, the presiding officer shall also announce, or cause to be announced, the change at the time and place previously fixed for the hearing.
+
+(b) The presiding officer shall, at the commencement of the hearing, introduce into the record the notice of hearing as published in the Federal Register, all subsequent notices published in the Federal Register, the Environmental Impact Statement if it is required and the comments thereon and agency responses to the comments, and a list of all parties. Direct testimony shall then be received with respect to the matters specified in the prehearing order in such order as the presiding officer shall announce. With respect to direct testimony submitted as rebuttal testimony or in response to new issues presented by the prehearing conference, the presiding officer shall determine the relevancy of such testimony.
+
+(c) The hearing shall be publicly conducted and reported verbatim by an official reporter.
+
+(d) If a party objects to the admission or rejection of any direct testimony or to any other ruling of the presiding officer during the hearing, he shall state briefly the grounds of such objection, whereupon an automatic exception will follow if the objection is overruled by the presiding officer. The transcript shall not include argument or debate thereon except as ordered by the presiding officer. The ruling of the presiding officer on any objection shall be a part of the transcript and shall be subject to review at the same time and in the same manner as the Director's final decision. Only objections made before the presiding officer may subsequently be relied upon in the proceedings.
+
+(e) All motions and requests shall be addressed to, and ruled on by, the presiding officer if made prior to his certification of the transcript, or by the Director if made thereafter.

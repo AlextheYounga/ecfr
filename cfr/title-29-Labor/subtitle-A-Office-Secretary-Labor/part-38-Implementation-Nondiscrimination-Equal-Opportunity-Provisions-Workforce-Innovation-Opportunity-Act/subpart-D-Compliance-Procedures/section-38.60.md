@@ -1,0 +1,3 @@
+##### § 38.60 Evaluation of compliance. #####
+
+From time to time, the Director may conduct pre-approval compliance reviews of grant applicants for WIOA Title I-financial assistance to determine the ability to comply with the nondiscrimination and equal opportunity provisions of WIOA and this part and may conduct post-approval compliance reviews of recipients to determine compliance with the nondiscrimination and equal opportunity provisions of WIOA and this part. Reviews may focus on one or more specific programs or activities, or one or more issues within a program or activity. The Director may also investigate and resolve complaints alleging violations of the nondiscrimination and equal opportunity provisions of WIOA and this part.

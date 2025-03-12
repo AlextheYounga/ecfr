@@ -1,0 +1,3 @@
+##### § 340.3 Appropriations. #####
+
+There is authority for Congress to appropriate such sums as may be necessary to enable the trustor of any trust (as described in § 340.1) to pay to the Association, as trustee, any insufficiency in aggregate receipts from the obligations subject to the trust to provide for the timely payment by the trustee of all interest or principal on the beneficial interests or participations related to such trust.

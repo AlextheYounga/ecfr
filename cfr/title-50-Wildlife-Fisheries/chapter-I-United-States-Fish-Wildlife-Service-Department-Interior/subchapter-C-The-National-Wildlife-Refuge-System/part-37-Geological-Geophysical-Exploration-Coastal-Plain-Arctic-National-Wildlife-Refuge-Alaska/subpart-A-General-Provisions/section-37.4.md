@@ -1,0 +1,5 @@
+##### § 37.4 Disclaimer and disqualification. #####
+
+(a) Authorization granted under this part to conduct exploratory activities shall not confer a right to any discovered oil, gas, or other mineral in any manner.
+
+(b) Any person who obtains access pursuant to § 37.54 to data and information obtained as a result of carrying out exploratory activities shall be disqualified from obtaining or participating in any lease of the oil and gas to which such data and information pertain. Any person who obtains access to data and information obtained as a result of carrying out exploratory activities from any person other than the permittee who obtained such data and information shall be disqualified from obtaining or participating in any lease of the oil and gas to which such data and information pertain.

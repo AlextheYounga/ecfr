@@ -1,0 +1,3 @@
+##### § 212.24 Settlement. #####
+
+The applicant and the Commission may agree on a proposed settlement of the award before final action on the application, either in connection with a settlement of the underlying adversary adjudication, or after the underlying adversary adjudication has been concluded. If a prevailing party and the Commission investigative attorney agree on a proposed settlement of an award before an application has been filed, the application shall be filed with the proposed settlement.

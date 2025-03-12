@@ -1,0 +1,7 @@
+##### § 4903.18 Will a debtor who owes a debt to PBGC or another Federal agency, and persons controlled by or controlling such debtors, be ineligible for Federal loan assistance, grants, cooperative agreements, or other sources of Federal funds? #####
+
+(a) Delinquent debtors are ineligible for and barred from obtaining Federal loans or loan insurance or guaranties. As required by 31 U.S.C. 3720B and 31 CFR 901.6, PBGC will not extend financial assistance in the form of a loan, loan guarantee, or loan insurance to any person delinquent on a debt owed to a Federal agency. PBGC may issue standards under which it may determine that persons controlled by or controlling such delinquent debtors are similarly ineligible in accordance with 31 CFR 285.13(c)(2). This prohibition does not apply to disaster loans. PBGC may extend credit after the delinquency has been resolved. *See* 31 CFR 285.13.
+
+(b) This section does not apply to loans provided to multi-employer pension plans pursuant to 29 U.S.C. 1431, 29 CFR 4261.1 and 4281.47.
+
+(c) A debtor who has a judgment lien against the debtor's property for a debt to the United States is not eligible to receive grants, loans or funds directly or indirectly from the United States until the judgment is paid in full or otherwise satisfied. This prohibition does not apply to funds to which the debtor is entitled as beneficiary. PBGC may promulgate regulations to allow for waivers of this ineligibility. *See* 28 U.S.C. 3201(e).

@@ -1,0 +1,35 @@
+##### § 570.421 New York Small Cities Program design. #####
+
+(a) *Selection system*—(1) *Competitive applications.* Each competitive application will be rated and scored against at least the following factors:
+
+(i) Need-absolute number of persons in poverty as further explained in the NOFA;
+
+(ii) Need-percent of persons in poverty as further explained in the NOFA;
+
+(iii) Program Impact; and
+
+(iv) Fair Housing and Equal Opportunity, which may include the applicant's Section 3 plan and implementation efforts with respect to actions to affirmatively further fair housing. The NOFA described in paragraph (b) of this section will contain a more detailed description of these factors, and the relative weight that each factor will be given.
+
+(2) In addition HUD reserves the right to establish minimal thresholds for selection factors and otherwise select grants in accordance with § 570.425 and the applicable NOFA.
+
+(3) *Imminent threats to public health and safety.* The criteria for these grants are described in § 570.424.
+
+(4) *Repayment of Section 108 loans.* The criteria for these grants are described in § 570.432.
+
+(5) *Economic development grants.* HUD intends to use the Section 108 loan guarantee program to the maximum extent feasible to fund economic development projects in the nonentitlement areas of New York. In the event that there are not enough Section 108 loan guarantee funds available to fund viable economic development projects, if a project needs a grant in addition to a loan guarantee to make it viable, or if the project does not meet the requirements of the Section 108 program but is eligible for a grant under this subpart, HUD may fund Economic Development applications as they are determined to be fundable in a specific amount by HUD up to the sum set aside for economic development projects in a notice of funding availability, notwithstanding paragraph (g) of this section. HUD also has the option in a NOFA of funding economic development activities on a competitive basis, as a competitive application as described in paragraph (a)(1) of this section. In order for an applicant to receive Small Cities grant funds on a noncompetitive basis, the field office must determine that the economic development project will have a substantial impact on the needs identified by the applicant.
+
+(b) *Notice of funding availability.* HUD will issue one or more Notice(s) of Funding Availability (NOFA) each fiscal year which will indicate the amount of funds available, the annual grant limits per grantee, type of grants available, the application requirements, and the rating factors that will be used for those grants which are competitive. A NOFA may set forth, subject to the requirements of this subpart, additional selection criteria for all grants.
+
+(c) *Eligible applicants.* (1) Eligible applicants in New York are units of general local government, excluding: Metropolitan cities, urban counties, units of general local government which are participating in urban counties or metropolitan cities, even if only part of the participating unit of government is located in the urban county or metropolitan city. Indian tribes are also ineligible for assistance under this subpart. An application may be submitted individually or jointly by eligible applicants.
+
+(2) Counties, cities, towns, and villages may apply and receive funding for separate projects to be done in the same jurisdiction. Only one grant will be made under each funding round for the same type of project to be located within the jurisdiction of a unit of general local government (e.g., both the county and village cannot receive funding for a sewer system to be located in the same village, but the county can receive funding for a sewer system that is located in the same village as a rehabilitation project for which the village receives funding). The NOFA will contain additional information on applicant eligibility.
+
+(3) Counties may apply on behalf of units of general local government located within their jurisdiction when the unit of general local government has authorized the county to apply. At the time that the county submits its application for funding, it must submit a resolution by the governing body of the unit of local government that authorizes the county to submit an application on behalf of the unit of general local government. The county will be considered the grantee and will be responsible for executing all grant documents. The county is responsible for ensuring compliance with all laws, regulations, and Executive Orders applicable to the CDBG Program. HUD will deal exclusively with the county with respect to issues of program administration and performance, including remedial actions. The unit of general local government will be considered the grantee for the purpose of determining grant limits. The unit of general local government's statistics will be used for purposes of the selection factors referred to in § 570.421(a).
+
+(d) *Public service activities cap.* Public service activities may be funded up to a maximum of fifteen (15) percent of a State's nonentitlement allocation for any fiscal year. HUD may award a grant to a unit of general local government for public service activities with up to 100 percent of the funds intended for public service activities. HUD will apply the 15 percent statewide cap to public service activities by funding public service activities in the highest rated applications in each NOFA until the cap is reached.
+
+(e) *Activities outside an applicant's boundaries.* An applicant may conduct eligible CDBG activities outside its boundaries. These activities must be demonstrated to be appropriate to meeting the applicant's needs and objectives, and must be consistent with State and local law. This provision includes using funds provided under this subpart in a metropolitan city or an urban county.
+
+(f) *Multiyear plans.* HUD will not make any new multiyear commitments for NOFAs published in calendar year 1997 or later. HUD will continue to honor the terms of the multiyear plans that were approved under the provisions of NOFAs published prior to calendar year 1997.
+
+(g) *Maximum grant amount.* The maximum grant amount that will be awarded to a single unit of general local government in response to the annual Small Cities NOFA published in calendar year 1997 or later is $400,000, except that counties may apply for up to $600,000 in HUD-administered Small Cities funds. HUD may specify lower grant limits in the NOFA, which may include different limits for different types of grants available or different types of applicants. This paragraph (g) does not apply to multiyear plans that were approved under the provisions of NOFAs published prior to calendar year 1997, nor does it apply to grants awarded in connection with paragraphs (a)(3) through (a)(5) of this section. The maximum limits in this paragraph (g) apply to grants for economic development projects awarded under NOFAs in which there is no set-aside of funds for such projects.

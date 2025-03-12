@@ -1,0 +1,3 @@
+##### § 801.43 Civil money penalties - payment and collection. #####
+
+Where the assessment is directed in a final order of the Department, the amount of the penalty is immediately due and payable to the United States Department of Labor. The person assessed such penalty shall remit promptly the amount thereof as finally determined, to the Administrator by certified check or by money order, made payable to the order of “Wage and Hour Division, Labor”. The remittance shall be delivered or mailed to the Wage and Hour Division Regional Office for the area in which the violations occurred.

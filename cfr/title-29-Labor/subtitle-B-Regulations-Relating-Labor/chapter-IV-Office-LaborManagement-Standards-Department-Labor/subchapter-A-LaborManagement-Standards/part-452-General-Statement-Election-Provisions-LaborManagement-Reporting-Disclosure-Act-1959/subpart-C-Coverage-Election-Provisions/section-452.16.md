@@ -1,0 +1,5 @@
+##### § 452.16 Offices which must be filled by election. #####
+
+Section 401 of the Act identifies the types of labor organizations whose officers must be elected and prescribes minimum standards and procedures for the conduct of such elections. Under that section officers of national or international labor organizations (except federations of such organizations), local labor organizations, and intermediate bodies such as general committees, system boards, joint boards, joint councils, conferences, certain districts, district councils and similar organizations must be elected.16
+
+16 See § 452.23 for a discussion of the frequency with which the different types of labor organizations must conduct elections of officers. See part 451 of this chapter for the scope of the term “labor organization.”

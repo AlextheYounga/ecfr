@@ -1,0 +1,5 @@
+##### § 280.220 Reopening. #####
+
+The respondent may petition the administrative law judge within one year of the date of the final decision, except where the decision arises from a default judgment or from a settlement, to reopen an administrative enforcement proceeding to receive any relevant and material evidence which was unknown or unobtainable at the time the proceeding was held. The petition must include a summary of such evidence, the reasons why it is deemed relevant and material, and the reasons why it could not have been presented at the time the proceedings were held. The administrative law judge will grant or deny the petition after providing other parties reasonable opportunity to comment. If the proceeding is reopened, the administrative law judge may make such arrangements as the ALJ deems appropriate for receiving the new evidence and completing the record. The administrative law judge will then issue a new initial decision and order, and the case will proceed to final decision and order in accordance with § 280.222 of this part.
+
+[61 FR 50558, Sept. 26, 1996. Redesignated and amended at 65 FR 39802, 39803, June 28, 2000]

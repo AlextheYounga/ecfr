@@ -1,0 +1,7 @@
+##### § 206.12 Use and coordination of relief organizations. #####
+
+(a) In providing relief and assistance under the Stafford Act, the FCO or Regional Administrator may utilize, with their consent, the personnel and facilities of the American National Red Cross, the Salvation Army, the Mennonite Disaster Service, and other voluntary organizations in the distribution of medicine, food, supplies, or other items, and in the restoration, rehabilitation, or reconstruction of community services and essential facilities, whenever the FCO or Regional Administrator finds that such utilization is necessary.
+
+(b) The Administrator is authorized to enter into agreements with the American Red Cross, The Salvation Army, the Mennonite Disaster Service, and other voluntary organizations engaged in providing relief during and after a major disaster or emergency. Any agreement shall include provisions assuring that use of Federal facilities, supplies, and services will be in compliance with § 206.11, Nondiscrimination in Disaster Assistance, and § 206.191, Duplication of Benefits, of these regulations and such other regulations as the Administrator may issue. The FCO may coordinate the disaster relief activities of the voluntary organizations which agree to operate under his/her direction.
+
+(c) Nothing contained in this section shall be construed to limit or in any way affect the responsibilities of the American National Red Cross as stated in Public Law 58-4.

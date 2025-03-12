@@ -1,0 +1,3 @@
+##### § 90.13 Policy. #####
+
+Whenever it is found necessary to conduct feeding programs under this section for the purposes of preventing crop damage by migratory waterfowl, it shall be the policy of the Secretary for the purposes of economy and efficiency to accord preference to feeding programs proposed to be executed through the placement of grain upon wildlife management areas or other lands or waters owned, leased, or otherwise controlled by an agency of the United States or a State.

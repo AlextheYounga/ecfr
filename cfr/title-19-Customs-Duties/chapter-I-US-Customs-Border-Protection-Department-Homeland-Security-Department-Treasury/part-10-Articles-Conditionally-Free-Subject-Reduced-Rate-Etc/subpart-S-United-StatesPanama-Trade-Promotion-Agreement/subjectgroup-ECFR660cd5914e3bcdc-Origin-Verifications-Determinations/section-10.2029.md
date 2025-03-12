@@ -1,0 +1,3 @@
+##### § 10.2029 Repeated false or unsupported preference claims. #####
+
+Where verification or other information reveals a pattern of conduct by an importer, exporter, or producer of false or unsupported representations that goods qualify under the PANTPA rules of origin set forth in General Note 35, HTSUS, CBP may suspend preferential tariff treatment under the PANTPA to entries of identical goods covered by subsequent representations by that importer, exporter, or producer until CBP determines that representations of that person are in conformity with General Note 35, HTSUS.

@@ -1,0 +1,3 @@
+##### § 4206.6 Amount of credit in plans using the rolling-5 method. #####
+
+In a plan that uses the rolling-5 allocation method described in section 4211(c)(3) of ERISA, the credit shall equal the amount of the liability assessed for the prior partial withdrawal, reduced as if that amount was being fully amortized in level annual installments over the 5-year period beginning with the plan year in which the prior partial withdrawal occurred. When an employer's prior partial withdrawal liability has been reduced or waived, this credit shall be adjusted in accordance with § 4206.8.

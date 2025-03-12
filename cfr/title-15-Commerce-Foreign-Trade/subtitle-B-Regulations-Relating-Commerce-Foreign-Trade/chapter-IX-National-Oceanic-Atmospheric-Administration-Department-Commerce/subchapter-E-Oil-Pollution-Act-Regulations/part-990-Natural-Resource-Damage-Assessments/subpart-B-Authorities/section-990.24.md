@@ -1,0 +1,5 @@
+##### § 990.24 Compliance with other applicable laws and regulations. #####
+
+(a) *Worker health and safety.* When taking actions under this part, trustees must comply with applicable worker health and safety considerations specified in the NCP for response actions.
+
+(b) *Natural Resources protection.* When acting under this part, trustees must ensure compliance with any applicable consultation, permitting, or review requirements, including but not limited to: the Endangered Species Act of 1973, 16 U.S.C. 1531 *et seq.;* the Coastal Zone Management Act of 1972, 16 U.S.C. 1451 *et seq.;* the Migratory Bird Treaty Act, 16 U.S.C. 703 *et seq.;* the National Marine Sanctuaries Act, 16 U.S.C. 1431 *et seq.;* the National Historic Preservation Act, 12 U.S.C. 470 *et seq.;* the Marine Mammal Protection Act, 16 U.S.C. 1361 *et seq.;* and the Archaeological Resources Protection Act, 16 U.S.C. 470 *et seq.*

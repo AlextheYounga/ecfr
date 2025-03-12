@@ -1,0 +1,3 @@
+##### § 4.11 Reports. #####
+
+Representatives of the Commission will inspect the project works, engineering reports, and other records of the project, check the inventory and make an appraisal of the property and an audit of the books, records, and accounts of the licensee relating to the property to be valued, and will prepare a report of their findings with respect to the inventory, appraisal, original cost, accrued depreciation, and fair value of the property.

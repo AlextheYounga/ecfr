@@ -1,0 +1,3 @@
+##### § 1202.1 Mediation. #####
+
+The mediation services of the Board may be invoked by the parties, or either party, to a dispute between an employee or group of employees and a carrier concerning changes in rates of pay, rules, or working conditions not adjusted by the parties in conference; also, concerning a dispute not referable to the National Railroad Adjustment Board or appropriate airline adjustment board, when not adjusted in conference between the parties, or where conferences are refused. The National Mediation Board may proffer its services in case any labor emergency is found by it to exist at any time.

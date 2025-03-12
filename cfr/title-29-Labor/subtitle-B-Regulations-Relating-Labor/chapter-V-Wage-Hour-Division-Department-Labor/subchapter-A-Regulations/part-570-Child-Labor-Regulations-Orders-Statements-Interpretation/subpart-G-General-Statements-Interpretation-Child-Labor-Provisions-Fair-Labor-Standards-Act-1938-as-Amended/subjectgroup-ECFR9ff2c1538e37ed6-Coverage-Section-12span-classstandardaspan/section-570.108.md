@@ -1,0 +1,23 @@
+##### § 570.108 “Produced”. #####
+
+The word “produced” as used in the Act is defined by section 3(j) to mean:
+
+\* \* \* produced, manufactured, mined, handled, or in any other manner worked on in any state; \* \* \*12
+
+12 The remaining portion of section 3(j) provides: “ \* \* \* and for the purposes of this Act an employee shall be deemed to have been engaged in the production of goods if such employee was employed in producing, manufacturing, mining, handling, transporting, or in any other manner working on such goods, or in any closely related process or occupation directly essential to the production thereof, in any State.”
+
+(a) The prohibition of section 12(a) cannot apply to a shipment of goods unless those goods (including any part or ingredient thereof) were actually “produced” in and removed from an establishment where oppressive child labor was employed. This provision is applicable even though the under-age employee does not engage in the production of the goods themselves if somewhere in the establishment in or about which he is employed goods are “produced” which are subsequently shipped or delivered for shipment in commerce. In contrast to this restrictive requirement of section 12(a), it will be noted that the employees covered under the wage and hours provisions as engaged in the production of goods for commerce are not limited to those in or about establishments where such goods are being produced. If the requisite relationship13 to production of such goods is present, an employee is covered for wage and hours purposes regardless of whether his work brings him in or near any establishment where the goods are produced.14
+
+13 See footnote 12.
+
+14 See part 776 of this title (interpretative Bulletin on the coverage of the wage and hours provisions) issued by the Administrator of the Wage and Hour Division. Also, see §§ 570.112 and 570.113.
+
+(b) Since the first word in the definition of “produced” repeats the term being defined, it seems clear that the first word must carry the meaning that it has in everyday language. Goods are commonly spoken of as “produced” if they have been brought into being as a result of the application of work. The words “manufactured” and “mined” in the definition refer to special forms of production. The former term is generally applied to the products of industry where existing raw materials are transformed into new or different articles by the use of industrial methods, either by the aid of machinery or by manual operations. Mining is a type of productive activity involving the taking of materials from the ground, such as coal from a coal mine, oil from oil wells, or stone from quarries. The statute also defines the term “produced” to mean “handled” or “in any other manner work on.”15 These words relate not only to operations carried on in the course of manufacturing, mining, or production as commonly described, but include as well all kinds of operations which prepare goods for their entry into the stream of commerce, without regard to whether the goods are to be further processed or are so-called “finished goods.”16 Accordingly, warehouses, fruit and vegetable packing sheds, distribution yards, grain elevators, etc., where goods are sorted, graded, stored, packed, labeled or otherwise handled or worked on in preparation for their shipment out of the State are producing establishments for purposes of section 12(a).17 However, the handling or working on goods, performed by employees of carriers which accomplishes the interstate transit or movement in commerce itself, does not constitute production under the Act.18
+
+15 For a more complete discussion of these words, see § 776.16 of part 776 (bulletin on coverage of the wage and hours provisions) of chapter V of this title.
+
+16 In *Western Union Telegraph Co.* v. *Lenroot,* 323 U.S. 490, the Supreme Court stated that these words bring within the statutory definition “every step in putting the subject of commerce in a state to enter commerce,” including “all steps, whether manufacture or not, which lead to readiness for putting goods into the stream of commerce” and “every kind of incidental operation preparatory to putting goods into the stream of commerce.”
+
+17*Lenroot* v. *Kemp* and *Lenroot* v. *Hazlehurst Mercantile Co.,* 153 F. 2d 153 (C.A. 5), where the court directed issuance of injunctions to restrain violations of the child labor provisions by operators of vegetable packing sheds at which they bought, then washed, sorted, crated, and packed cabbage and tomatoes for shipment in interstate commerce.
+
+18*Western Union Telegraph Co.* v. *Lenroot,* 323 U.S. 490.

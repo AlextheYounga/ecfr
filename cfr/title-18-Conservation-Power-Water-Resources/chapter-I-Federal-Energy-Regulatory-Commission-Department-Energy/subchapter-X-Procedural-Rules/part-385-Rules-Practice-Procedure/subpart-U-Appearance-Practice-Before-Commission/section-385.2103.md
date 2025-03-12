@@ -1,0 +1,7 @@
+##### § 385.2103 Appearance of former employees (Rule 2103). #####
+
+(a) No person having served as a member, officer, expert, administrative law judge, attorney, accountant, engineer, or other employee of the Commission may practice before or act as attorney, expert witness, or representative in connection with any proceeding or matter before the Commission which such person has handled, investigated, advised, or participated in the consideration of while in the service of the Commission.
+
+(b) No person having been so employed may within 1 year after his or her employment has ceased, practice before or act as attorney, expert witness, or representative in connection with any proceeding or matter before the Commission which was under the official responsibility of such person, as defined in 18 U.S.C. 202, while in the service of the Commission.
+
+(c) Nothing in paragraphs (a) and (b) of this section prevents a former member, officer, expert, administrative law judge, attorney, accountant, engineer, or other employee of the Commission with outstanding scientific or technological qualifications from practicing before or acting as an attorney or representative in connection with a particular matter in a scientific or technological field if the Chairman of the Commission makes a certification in writing, published in the Federal Register, that the national interest would be served by such action or representation.

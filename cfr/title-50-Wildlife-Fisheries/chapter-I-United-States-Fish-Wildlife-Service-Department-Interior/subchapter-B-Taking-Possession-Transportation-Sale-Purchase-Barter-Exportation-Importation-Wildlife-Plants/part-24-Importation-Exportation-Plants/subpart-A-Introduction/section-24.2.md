@@ -1,0 +1,3 @@
+##### § 24.2 Scope of regulations. #####
+
+The provisions in this part are in addition to, and do not supersede, other regulations in this chapter. Also, the U.S. Department of Agriculture administers the Plant Quarantine Act, as amended (7 U.S.C. 151 *et seq.*), the Federal Plant Pest Act, as amended (7 U.S.C. 150aa *et seq.*), and the Federal Noxious Weed Act of 1974 (7 U.S.C. 2801 *et seq.*), which contain authority for additional prohibitions and restrictions, including additional port of entry requirements, for the importation or exportation of plants (See 7 CFR chapter III for regulations containing prohibitions and restrictions under these authorities).

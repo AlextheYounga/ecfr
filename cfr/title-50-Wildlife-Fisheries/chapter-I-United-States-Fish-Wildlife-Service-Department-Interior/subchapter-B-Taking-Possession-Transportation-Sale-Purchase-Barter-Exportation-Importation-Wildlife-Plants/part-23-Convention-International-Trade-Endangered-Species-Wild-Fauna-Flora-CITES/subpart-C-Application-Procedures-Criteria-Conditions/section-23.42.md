@@ -1,0 +1,12 @@
+##### § 23.42 What are the requirements for a plant hybrid? #####
+
+*General provisions.* Except as provided in § 23.92, the export, re-export, or import of a plant hybrid of a CITES species must be accompanied by a valid CITES document that shows the Appendix of the specimen as follows:
+
+|                                                       Question on a plant hybrid                                                        |                                                                                            Answer and status of specimen                                                                                             |
+|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                    (a) Is the specimen an artificially propagated hybrid of one or more Appendix-I species or taxa?                     |                                                 (1) **YES.** Continue to paragraph (b) of this section.  <br/>(2) **NO.** Continue to paragraph (c) of this section.                                                 |
+|(b) Is one or more of the Appendix-I species or taxa in paragraph (a) of this section annotated to treat hybrids as Appendix-I specimens?|(1) **YES.** The hybrid is listed in Appendix I.  <br/>(2) **NO.** The hybrid is listed in Appendix I, but may be granted a certificate for artificially propagated plants even if propagated for commercial purposes.|
+|                      (c) Is the specimen a hybrid that includes two or more CITES species or taxa in its lineage?                       |(1) **YES.** Consider the specimen to be listed in the more restrictive Appendix, with Appendix I being the most restrictive and Appendix III the least.  <br/>(2) **NO.** Continue to paragraph (d) of this section. |
+|                          (d) Is the specimen a hybrid that includes one CITES species or taxon in its lineage?                          |               (1) **YES.** Consider the specimen to be listed in the Appendix in which the species or taxon is listed in the CITES Appendices.  <br/>(2) **NO.** The hybrid is not regulated by CITES.               |
+
+[72 FR 48448, Aug. 23, 2007, as amended at 79 FR 30425, May 27, 2014]

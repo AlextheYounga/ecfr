@@ -1,0 +1,9 @@
+##### § 66.3 Establishment of community case file and flood elevation study docket. #####
+
+(a) A file shall be established for each community at the time initial consideration is given to studying that community in order to establish whether or not it contains flood-prone areas. Thereafter, the file shall include copies of all correspondence with officials in that community. As the community is tentatively identified, provided with base flood elevations, or suspended and reinstated, documentation of such actions by the Federal Insurance Administrator shall be placed in the community file. Even if a map is administratively rescinded or withdrawn after notice under part 65 of this subchapter or the community successfully rebuts its flood-prone designation, the file will be maintained indefinitely.
+
+(b) A portion of the community file shall be designated a flood elevation study consultation docket and shall be established for each community at the time the contract is awarded for a flood elevation study. The docket shall include copies of (1) all correspondence between the Federal Insurance Administrator and the community concerning the study, reports of any meetings among the Agency representatives, property owners of the community, the state coordinating agency, study contractors or other interested persons, (2) relevant publications, (3) a copy of the completed flood elevation study, and (4) a copy of the Federal Insurance Administrator's final determination.
+
+(c) A flood elevation determination docket shall be established and maintained in accordance with part 67 of this subchapter.
+
+[41 FR 46988, Oct. 26, 1976. Redesignated at 44 FR 31177, May 31, 1979, as amended at 48 FR 44544 and 44553, Sept. 29, 1983; 49 FR 4751, Feb. 8, 1984]

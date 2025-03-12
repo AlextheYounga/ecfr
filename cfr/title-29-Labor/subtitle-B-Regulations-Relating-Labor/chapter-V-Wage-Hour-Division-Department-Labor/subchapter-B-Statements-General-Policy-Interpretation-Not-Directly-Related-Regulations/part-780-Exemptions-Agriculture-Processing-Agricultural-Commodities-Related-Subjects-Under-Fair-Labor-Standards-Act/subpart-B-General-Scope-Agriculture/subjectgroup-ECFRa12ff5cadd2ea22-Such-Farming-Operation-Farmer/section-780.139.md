@@ -1,0 +1,3 @@
+##### § 780.139 Pea vining. #####
+
+Vining employees of a pea vinery located on a farm, who vine only the peas grown on that particular farm, are engaged in agriculture. If they also vine peas grown on other farms, such operations could not be within section 3(f) unless the farmer-employer owns or operates the other farms and vines his own peas exclusively. However, the work of vining station employees in weeks in which the stations vine only peas grown by a canner on farms owned or leased by him is considered part of the canning operations. As such, the cannery operations, including the vining operations, are within section 3(f) only if the canners can crops which he grows himself and if the canning operations are subordinate to the farming operations.

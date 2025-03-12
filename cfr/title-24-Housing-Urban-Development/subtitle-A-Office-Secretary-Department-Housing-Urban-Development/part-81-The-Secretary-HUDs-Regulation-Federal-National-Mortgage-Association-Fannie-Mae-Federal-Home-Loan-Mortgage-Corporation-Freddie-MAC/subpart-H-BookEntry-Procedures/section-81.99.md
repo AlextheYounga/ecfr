@@ -1,0 +1,5 @@
+##### § 81.99 Additional provisions. #####
+
+(a) *Additional requirements.* In any case or any class of cases arising under these regulations, a GSE may require such additional evidence and a bond of indemnity, with or without surety, as may in the judgment of the GSE be necessary for the protection of the interests of the GSE.
+
+(b) *Notice of attachment for GSE Securities in Book-entry system.* The interest of a debtor in a Security Entitlement may be reached by a creditor only by legal process upon the Securities Intermediary with whom the debtor's securities account is maintained, except where a Security Entitlement is maintained in the name of a secured party, in which case the debtor's interest may be reached by legal process upon the secured party. These regulations do not purport to establish whether a Federal Reserve Bank is required to honor an order or other notice of attachment in any particular case or class of cases.

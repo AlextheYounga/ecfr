@@ -1,0 +1,5 @@
+##### § 157.36 Open seasons for expansions. #####
+
+Any open season for capacity exceeding the initial capacity of an Alaska natural gas transportation project must provide the opportunity for the transportation of gas other than Prudhoe Bay or Point Thomson production. In considering a proposed voluntary expansion of an Alaska natural gas pipeline project, the Commission will consider the extent to which the expansion will be utilized by shippers other than those who are the initial shippers on the project and, in order to promote competition and open access to the project, may require design changes to ensure that some portion of the expansion capacity be allocated to new shippers willing to sign long-term firm transportation contracts, including shippers seeking to transport natural gas from areas other than Prudhoe Bay and Point Thomson.
+
+[Order 2005-A, 70 FR 35026, June 16, 2005]

@@ -1,0 +1,7 @@
+##### § 1625.5 Employment applications. #####
+
+A request on the part of an employer for information such as *Date of Birth* or *age* on an employment application form is not, in itself, a violation of the Act. But because the request that an applicant state his age may tend to deter older applicants or otherwise indicate discrimination against older individuals, employment application forms that request such information will be closely scrutinized to assure that the request is for a permissible purpose and not for purposes proscribed by the Act. That the purpose is not one proscribed by the statute should be made known to the applicant by a reference on the application form to the statutory prohibition in language to the following effect:
+
+The Age Discrimination in Employment Act of 1967 prohibits discrimination on the basis of age with respect to individuals who are at least 40 years of age,” or by other means. The term “employment applications,” refers to all written inquiries about employment or applications for employment or promotion including, but not limited to, résumés or other summaries of the applicant's background. It relates not only to written preemployment inquiries, but to inquiries by employees concerning terms, conditions, or privileges of employment as specified in section 4 of the Act.
+
+[46 FR 47726, Sept. 29, 1981, as amended at 53 FR 5972, Feb. 29, 1988; 72 FR 36875, July 6, 2007]

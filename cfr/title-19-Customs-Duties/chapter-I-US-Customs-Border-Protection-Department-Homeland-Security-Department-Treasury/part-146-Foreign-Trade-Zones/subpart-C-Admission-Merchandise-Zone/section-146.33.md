@@ -1,0 +1,3 @@
+##### § 146.33 Temporary deposit for manipulation. #####
+
+Imported merchandise for which an entry has been made and which has remained in continuous Customs custody may be brought temporarily to a zone for manipulation and return to Customs territory under Customs supervision, pursuant to section 562, Tariff Act of 1930, as amended (19 U.S.C. 1562), and § 19.11 of this chapter. That merchandise will not be considered within the purview of the Act but will be treated as though remaining in Customs territory. No zone form or procedure will be considered applicable, but the merchandise will remain subject to any requirements necessary for the enforcement of section 562 and other Customs laws while in the zone.

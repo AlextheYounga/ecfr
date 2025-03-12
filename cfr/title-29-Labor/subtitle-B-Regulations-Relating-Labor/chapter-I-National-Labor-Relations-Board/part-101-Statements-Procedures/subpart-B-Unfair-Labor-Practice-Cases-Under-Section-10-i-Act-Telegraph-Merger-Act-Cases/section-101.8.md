@@ -1,0 +1,3 @@
+##### § 101.8 Complaints. #####
+
+If the charge appears to have merit and efforts to dispose of it by informal adjustment are unsuccessful, the Regional Director institutes formal action by issuance of a complaint and notice of hearing. In certain types of cases, involving novel and complex issues, the Regional Director, at the discretion of the General Counsel, must submit the case for advice from the General Counsel before issuing a complaint. The complaint, which is served on all parties, sets forth the facts upon which the Board bases its jurisidiction and the facts relating to the alleged violations of law by the respondent. The respondent must file an answer to the complaint within 14 days of its receipt, setting forth a statement of its defense.

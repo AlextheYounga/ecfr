@@ -1,0 +1,3 @@
+##### § 2008.8 Definition and application. #####
+
+Derivative classification is the act of assigning a level of classification to information that is determined to be the same in substance as information that is currently classified. Thus, derivative classification may be accomplished by any person cleared for access to that level of information, regardless of whether the person has original classification authority at that level.

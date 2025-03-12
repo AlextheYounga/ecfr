@@ -1,0 +1,5 @@
+##### § 125.21 Cartage other than for examination. #####
+
+Any licensed customhouse cartman, including an importer licensed to cart his own imported merchandise and a bonded carrier provided for in § 112.2 of this chapter, at the expense of the importer or other party in interest, may transfer merchandise from the importing vessel or other conveyance to a bonded warehouse, from one vessel or conveyance to another, from one bonded warehouse to another, from the public stores to a bonded warehouse, from warehouse for transportation or for exportation, and from an internal revenue warehouse for exportation under the internal revenue laws without payment of tax. Foreign trade zone operators, bonded warehouse proprietors, container station operators and centralized examination station operators may engage in limited cartage or lighterage under the conditions specified in § 112.2 of this chapter. Nothing in this section shall apply to the cartage of examination packages to the place of examination.
+
+[T.D. 94-81, 59 FR 51495, Oct. 12, 1994]

@@ -1,0 +1,11 @@
+##### § 107.60 Sanctions and penalties. #####
+
+(a) Failure or refusal to comply with E.O. 11063 or the requirements of this part shall be proper basis for applying sanctions. Violations of title VIII of the Civil Rights Act of 1968 or a state or local fair housing law, with respect to activities covered by the Executive order, or of the regulations and requirements under E.O. 11063 of other Federal Departments and agencies may also result in the imposition of sanctions by this Department.
+
+(b) Such sanctions as are specified by E.O. 11063, the contract through which federal assistance is provided, and such sanctions as are specified by the rules or regulations of the Department governing the program under which federal assistance to the project is provided shall be applied in accordance with the relevant regulations. Actions that may be taken include: cancellation or termination, in whole or in part, of the contract or agreement; refusal to approve a lender or withdrawal of approval; or a determination of ineligibility, suspension, or debarment from any further assistance or contracts; provided, however, that sanctions of debarment, suspension, and ineligibility are subject to the Department's regulations under 2 CFR part 2424, and, further, that no sanction under section 302 (a), (b), and (c) of Executive Order 11063 shall be applied by the Assistant Secretary for Fair Housing and Equal Opportunity without the concurrence of the Secretary.
+
+(c) The Department shall use its good offices in order to promote the abandonment of discriminatory practices with regard to residential property and related facilities provided with assistance prior to the effective date of E.O. 11063 and take appropriate actions permitted by law including the institution of appropriate litigation to provide such equal housing opportunities.
+
+(d) In any case involving the failure of a lender to comply with the requirements of the Executive order or this part, the Assistant Secretary for FH&EO shall notify the Federal financial regulatory agency having jurisdiction over the lender of the findings in the case.
+
+[45 FR 59514, Sept. 9, 1980, as amended at 72 FR 73493, Dec. 27, 2007]

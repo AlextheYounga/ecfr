@@ -1,0 +1,3 @@
+##### § 35.39 Remedial action by recipient. #####
+
+Where CRC finds discrimination on the basis of age in violation of this Act or this part, the recipient shall take any remedial action that CRC deems necessary to overcome the effects of the discrimination. In addition, if a recipient funds or otherwise exercises control over another recipient that has discriminated, both recipients may be required to take remedial action.

@@ -1,0 +1,5 @@
+##### § 930.150 Objectives. #####
+
+(a) A federal activity may affect coastal uses or resources of a State other than the State in which the activity will occur. Effective coastal management is fostered by ensuring that activities having such reasonably foreseeable interstate coastal effects are conducted consistent with the enforceable policies of the management program of each affected State.
+
+(b) The application of the federal consistency requirement to activities having interstate coastal effects is addressed by this subpart in order to encourage cooperation among States in dealing with activities having interstate coastal effects, and to provide States, local governments, Federal agencies, and the public with a predictable framework for evaluating the consistency of these federal activities under the Act.

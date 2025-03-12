@@ -1,0 +1,5 @@
+##### § 292.313 Reinstatement of obligation to sell. #####
+
+At any time after the Commission makes a finding under § 292.312 relieving an electric utility of its obligation to sell electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation to purchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in Paragraph (b)(1) and (b)(2) of this section are no longer met. After notice, including sufficient notice to potentially affected utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to sell electric energy under this section if the Commission finds that the conditions set forth in paragraphs (b)(1) and (b)(2) of this section are no longer met.
+
+[Order 688, 71 FR 64372, Nov. 1, 2006]

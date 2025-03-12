@@ -1,0 +1,13 @@
+##### § 350.10 Public meeting in advance of FEMA approval. #####
+
+(a) During the FEMA Regional Office review of a State plan and prior to the submission by the Regional Administrator of the evaluation of the plan and exercise to the Deputy Administrator for the National Preparedness Directorate, the FEMA Regional Administrator shall assure that there is at least one public meeting conducted in the vicinity of the nuclear power facility. The purpose of such a meeting, which may be conducted by the State or by the Regional Administrator, shall be to:
+
+(1) Acquaint the members of the public in the vicinity of each facility with the content of the State and related local plans, and with the conduct of the joint exercise which tested the plans;
+
+(2) Answer any questions about FEMA review of the plan and the exercise;
+
+(3) Receive suggestions from the public concerning improvements or changes that may be necessary; and
+
+(4) Describe to the public the way in which the plan is expected to function in the event of an actual emergency.
+
+(b) The Regional Administrator should assure that representatives from appropriate State and local government agencies, and the affected utility appear at such meetings to make presentations and to answer questions from the public. The public meeting should be held after the first joint (utility, State and local governments) exercise at a time mutually agreed to by State and local authorities, licensee and FEMA and NRC Regional officials. This meeting shall be noticed in the local newspaper with the largest circulation in the area, or other such media as the Regional Administrator may select, on at least two occasions, one of which is at least two weeks before the meeting takes place and the other is within a few days of the meeting date. Local radio and television stations should be notified of the scheduled meeting at least one week in advance. Representatives from NRC and other appropriate Federal agencies should also be invited to participate in these meetings. If, in the judgment of the FEMA Regional Administrator, the public meeting or meetings reveal deficiencies in the State plan and/or the joint exercise, the Regional Administrator shall inform the State of the fact together with recommendations for improvement. No FEMA approval of State and local plans and preparedness shall be made until a meeting described in this paragraph shall have been held at or near the nuclear power facility site for which the State is seeking approval.

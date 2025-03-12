@@ -1,0 +1,5 @@
+##### § 459.1 Computation of time for filing papers. #####
+
+In computing any period of time prescribed by or allowed by the regulations contained in part 458 of this subchapter, the day of the act, event, or default after which the designated period of time begins to run, shall not be included. The last day of the period so computed is to be included unless it is a Saturday, Sunday or Federal legal holiday in which event the period shall run until the end of the next day which is neither a Saturday, Sunday, or a Federal legal holiday. When the period of time prescribed or allowed is seven (7) days or less, intermediate Saturdays, Sundays, and Federal legal holidays shall be excluded from the computations. When these regulations require the filing of any paper, such document must be received by the Director or the officer or agent designated to receive such matter before the close of business of the last day of the time limit, if any, for such filing or extension of time that may have been granted.
+
+[45 FR 15165, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, as amended at 78 FR 8027, Feb. 5, 2012]

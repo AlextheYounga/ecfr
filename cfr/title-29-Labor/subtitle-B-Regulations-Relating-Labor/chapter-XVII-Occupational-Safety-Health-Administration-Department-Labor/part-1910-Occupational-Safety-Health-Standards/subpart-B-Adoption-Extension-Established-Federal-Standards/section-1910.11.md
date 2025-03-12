@@ -1,0 +1,5 @@
+##### § 1910.11 Scope and purpose. #####
+
+(a) The provisions of this subpart B adopt and extend the applicability of, established Federal standards in effect on April 28, 1971, with respect to every employer, employee, and employment covered by the Act.
+
+(b) It bears emphasis that only standards (i.e., substantive rules) relating to safety or health are adopted by any incorporations by reference of standards prescribed elsewhere in this chapter or this title. Other materials contained in the referenced parties are not adopted. Illustrations of the types of materials which are not adopted are these. The incorporations by reference of parts 1915, 1916, 1917, 1918 in §§ 1910.13, 1910.14, 1910.15, and 1910.16 are not intended to include the discussion in those parts of the coverage of the Longshoremen's and Harbor Workers' Compensation Act or the penalty provisions of the Act. Similarly, the incorporation by reference of part 1926 in § 1910.12 is not intended to include references to interpretative rules having relevance to the application of the Construction Safety Act, but having no relevance to the application to the Occupational Safety and Health Act.

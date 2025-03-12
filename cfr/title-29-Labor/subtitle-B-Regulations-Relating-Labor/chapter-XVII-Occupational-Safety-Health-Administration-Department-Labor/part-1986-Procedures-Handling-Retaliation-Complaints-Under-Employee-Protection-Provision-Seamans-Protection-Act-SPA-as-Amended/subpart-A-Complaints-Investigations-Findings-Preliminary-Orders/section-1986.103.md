@@ -1,0 +1,11 @@
+##### § 1986.103 Filing of retaliation complaints. #####
+
+(a) *Who may file.* A seaman who believes that he or she has been retaliated against by a person in violation of SPA may file, or have filed by any person on the seaman's behalf, a complaint alleging such retaliation.
+
+(b) *Nature of filing.* No particular form of complaint is required. A complaint may be filed orally or in writing. Oral complaints will be reduced to writing by OSHA. If a seaman is unable to file a complaint in English, OSHA will accept the complaint in any other language.
+
+(c) *Place of filing.* The complaint should be filed with the OSHA office responsible for enforcement activities in the geographical area where the seaman resides or was employed, but may be filed with any OSHA officer or employee. Addresses and telephone numbers for these officials are set forth in local directories and at the following Internet address: *http://www.osha.gov*
+
+(d) *Time for filing.* Not later than 180 days after an alleged violation occurs, a seaman who believes that he or she has been retaliated against in violation of SPA may file, or have filed by any person on his or her behalf, a complaint alleging such retaliation. The date of the postmark, facsimile transmittal, electronic communication transmittal, telephone call, hand-delivery, delivery to a third-party commercial carrier, or in-person filing at an OSHA office will be considered the date of filing. The time for filing a complaint may be tolled for reasons warranted by applicable case law.
+
+(e) *Relationship to section 11(c) complaints.* A complaint filed under SPA alleging facts that would also constitute a violation of section 11(c) of the Occupational Safety and Health Act, 29 U.S.C. 660(c), will be deemed to be a complaint under both SPA and section 11(c). Similarly, a complaint filed under section 11(c) that alleges facts that would also constitute a violation of SPA will be deemed to be a complaint filed under both SPA and section 11(c). Normal procedures and timeliness requirements under the respective statutes and regulations will be followed.

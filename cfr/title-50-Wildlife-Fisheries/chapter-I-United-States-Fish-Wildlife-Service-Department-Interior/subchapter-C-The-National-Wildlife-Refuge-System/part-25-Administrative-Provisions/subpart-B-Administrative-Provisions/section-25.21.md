@@ -1,0 +1,39 @@
+##### § 25.21 When and how do we open and close areas of the National Wildlife Refuge System to public access and use or continue a use? #####
+
+(a) Except as provided below, all areas included in the National Wildlife Refuge System are closed to public access until and unless we open the area for a use or uses in accordance with the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd-668ee), the Refuge Recreation Act of 1962 (16 U.S.C. 460k-460k-4) and this subchapter C. See 50 CFR 36 for details on use and access restrictions, and the public participation and closure process established for Alaska national wildlife refuges. We may open an area by regulation, individual permit, or public notice, in accordance with § 25.31 of this subchapter.
+
+(b) We may open a national wildlife refuge for any refuge use, or expand, renew, or extend an existing refuge use only after the Refuge Manager determines that it is a compatible use and not inconsistent with any applicable law. Lands subject to the patent restrictions imposed by Section 22(g) of the Alaska Native Claims Settlement Act are subject to the compatibility requirements of Parts 25 and 26 of 50 CFR except as otherwise provided in paragraph (b)(1) of this section.
+
+(1) We will complete compatibility determinations for uses of Alaska Native Claims Settlement Act 22(g) lands in compliance with the following requirements:
+
+(i) Refuge managers will work with 22(g) landowners in implementation of these regulations. The landowners should contact the Refuge Manager in advance of initiating a use and request a compatibility determination. After a compatibility determination is requested, refuge managers have no longer than ninety (90) days to complete the compatibility determination and notify the landowner of the finding by providing a copy of the compatibility determination or to inform the landowner of the specific reasons for delay. If a refuge manager believes that a finding of not compatible is likely, the Refuge Manager will notify the landowner prior to rendering a decision to encourage dialog on how the proposed use might be modified to be compatible.
+
+(ii) Refuge managers will allow all uses proposed by 22(g) landowners when the Refuge Manager determines the use to be compatible with refuge purposes.
+
+(iii) Compatibility determinations will include only evaluations of how the proposed use would affect the ability of the refuge to meet its mandated purposes. The National Wildlife Refuge System mission will not be considered in the evaluation. Refuge purposes will include both pre-ANILCA purposes and those established by ANILCA, so long as they do not conflict. If conflicts arise, ANILCA purposes will take precedence.
+
+(iv) A determination that a use is not compatible may be appealed by the landowner to the Regional Director. The appeal must be submitted in writing within forty-five (45) days of receipt of the determination. The appeals process provided for in 50 CFR 36.41(i) (3) through (5) will apply.
+
+(v) Compatibility determinations for proposed uses of 22(g) lands will only evaluate the effects of the use on the adjacent refuge lands, and the ability of that refuge to achieve its purposes, not on the effects of the proposed use to the 22(g) lands.
+
+(vi) Compatibility determinations for 22(g) lands that a use is compatible are not subject to re-evaluation unless the use changes significantly, significant new information is made available that could affect the compatibility determination, or if requested by the landowner.
+
+(vii) Refuge comprehensive conservation plans will not include 22(g) lands, and compatibility determinations affecting such lands will not to be automatically re-evaluated when the plans are routinely updated.
+
+(viii) Refuge special use permits will not be required for compatible uses of 22(g) lands. Special conditions necessary to ensure a proposed use is compatible may be included in the compatibility determination and must be complied with for the use to be considered compatible.
+
+(c) The Refuge Manager may temporarily allow or initiate any refuge use without making a compatibility determination if necessary to protect the health and safety of the public or any fish or wildlife population.
+
+(d) When we add lands to the National Wildlife Refuge System, the Refuge Manager will identify, prior to acquisition, withdrawal, transfer, reclassification, or donation of those lands, existing wildlife-dependent recreational public uses (if any) determined to be compatible that we will permit to continue on an interim basis, pending completion of the comprehensive conservation plan for the national wildlife refuge. We will make these compatibility determinations in accordance with procedures in § 26.41 of this subchapter.
+
+(e) In the event of a threat or emergency endangering the health and safety of the public or property or to protect the resources of the area, the Refuge Manager may close or curtail refuge uses of all or any part of an opened area to public access and use in accordance with the provisions in § 25.31, without advance notice. See 50 CFR 36.42 for procedures on closing Alaska national wildlife refuges.
+
+(f) We will re-evaluate compatibility determinations for existing wildlife-dependent recreational uses when conditions under which the use is permitted change significantly, or if there is significant new information regarding the effects of the use, or concurrently with the preparation or revision of a comprehensive conservation plan, or at least every 15 years, whichever is earlier. In addition, a refuge manager always may re-evaluate the compatibility of a use at any time.
+
+(g) Except for uses specifically authorized for a period longer than 10 years (such as right-of-ways), we will re-evaluate compatibility determinations for all existing uses other than wildlife-dependent recreational uses when conditions under which the use is permitted change significantly, or if there is significant new information regarding the effects of the use, or at least every 10 years, whichever is earlier. In addition, a refuge manager always may re-evaluate the compatibility of a use at any time.
+
+(h) For uses in existence on November 17, 2000 that were specifically authorized for a period longer than 10 years (such as right-of-ways), our compatibility re-evaluation will examine compliance with the terms and conditions of the authorization, not the authorization itself. We will frequently monitor and review the activity to ensure that the permittee carries out all permit terms and conditions. However, the Service will request modifications to the terms and conditions of these permits from the permittee if the Service determines that such changes are necessary to ensure that the use remains compatible. After November 17, 2000 no uses will be permitted or re-authorized, for a period longer than 10 years, unless the terms and conditions for such long-term permits specifically allows for modifications to the terms and conditions, if necessary to ensure compatibility. We will make a new compatibility determination prior to extending or renewing such long-term uses at the expiration of the authorization. When we prepare a compatibility determination for re-authorization of an existing right-of-way, we will base our analysis on the existing conditions with the use in place, not from a pre-use perspective.
+
+(i) When we re-evaluate a use for compatibility, we will take a fresh look at the use and prepare a new compatibility determination following the procedure outlined in 50 CFR 26.41.
+
+[65 FR 62481, Oct. 18, 2000]

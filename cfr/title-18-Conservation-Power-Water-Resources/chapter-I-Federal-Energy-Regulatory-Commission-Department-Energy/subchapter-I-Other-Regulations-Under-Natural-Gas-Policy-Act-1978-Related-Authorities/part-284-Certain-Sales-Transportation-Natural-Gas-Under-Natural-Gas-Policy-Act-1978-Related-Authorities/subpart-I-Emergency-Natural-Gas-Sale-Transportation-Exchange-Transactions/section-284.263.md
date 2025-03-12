@@ -1,0 +1,3 @@
+##### § 284.263 Exemption from section 7 of Natural Gas Act and certain regulatory conditions. #####
+
+Any participant that engages in an emergency natural gas transaction conducted in accordance with this subpart is exempt from the requirements of section 7 of the Natural Gas Act and the conditions of § 284.10, except as provided in § 284.266, and from the requirements of §§ 284.7-284.9 and §§ 284.11-284.13 of subpart A of this part. Participation in any emergency natural gas transaction will not subject any participant to the jurisdiction of the Commission under section 7 of the Natural Gas Act except to the extent such transaction is provided for in this subpart.

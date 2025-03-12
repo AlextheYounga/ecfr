@@ -1,0 +1,3 @@
+##### § 783.38 Statutory definition of “American vessel”. #####
+
+The provisions of section 6(b)(2) prescribe special methods for computing minimum wages and hours worked under the Act which are applicable only to seamen who are employed on American vessels. An “American vessel”, which would appear to signify a vessel of the United States as distinguished from a foreign vessel, “includes”, under the terms of the definition in section 3(p) of the Act, “any vessel which is documented or numbered under the laws of the United States.” The Department of the Treasury, Bureau of Customs and the United States Coast Guard, respectively, are responsible for documentation and numbering of vessels.

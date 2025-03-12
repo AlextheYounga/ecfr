@@ -1,0 +1,3 @@
+##### § 778.225 Talent fees excludable under regulations. #####
+
+Section 7(e)(3) provides for the exclusion from the regular rate of “talent fees (as such talent fees are defined and delimited by regulations of the Secretary) paid to performers, including announcers, on radio and television programs.” Regulations defining “talent fees” have been issued as part 550 of this chapter. Payments which accord with this definition are excluded from the regular rate.

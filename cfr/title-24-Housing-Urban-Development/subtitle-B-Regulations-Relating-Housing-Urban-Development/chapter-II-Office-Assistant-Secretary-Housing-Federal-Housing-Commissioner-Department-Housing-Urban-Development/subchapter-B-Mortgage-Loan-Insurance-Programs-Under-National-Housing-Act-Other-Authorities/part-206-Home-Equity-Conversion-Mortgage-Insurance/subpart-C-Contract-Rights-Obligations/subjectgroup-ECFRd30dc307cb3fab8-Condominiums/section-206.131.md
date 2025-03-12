@@ -1,0 +1,17 @@
+##### § 206.131 Contract rights and obligations for mortgages on individual dwelling units in a condominium. #####
+
+(a) *Additional requirements.* The requirements of this subpart shall be applicable to mortgages on individual dwelling units in a condominium, except as modified by this section.
+
+(b) *References.* The term *property* as used in this subpart shall be construed to include the individual dwelling unit and the undivided interest in the common areas and facilities as may be designated.
+
+(c) *Assignment of the mortgage.* If the mortgagee assigns the mortgage on the individual dwelling unit to the Secretary, the mortgagee shall certify:
+
+(1) To any changes in the plan of apartment ownership including the administration of the property;
+
+(2) That as of the date the assignment is filed for record, the family unit is assessed and subject to assessment for taxes pertaining only to that unit; and
+
+(3) To the condition of the property as of the date the assignment is filed for record. Section 234.275 of this chapter concerning the certification of condition is incorporated by reference.
+
+(d) *Condition of the multifamily structure.* The provisions of § 234.270 (a) and (b) of this chapter concerning the condition of the multifamily structure in which the property is located shall be applicable to mortgages insured under this part which are assigned to the Secretary.
+
+(Approved by the Office of Management and Budget under control number 2528-0133)[54 FR 24833, June 9, 1989; 54 FR 32060, Aug. 4, 1989]

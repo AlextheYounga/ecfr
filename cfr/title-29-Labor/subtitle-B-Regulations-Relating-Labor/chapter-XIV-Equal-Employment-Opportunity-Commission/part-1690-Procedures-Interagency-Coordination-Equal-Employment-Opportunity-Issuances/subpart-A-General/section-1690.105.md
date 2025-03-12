@@ -1,0 +1,3 @@
+##### § 1690.105 Policy intent. #####
+
+These procedures will govern the conduct of such agencies in the development of uniform standards, guidelines and policies for defining discrimination, uniform procedures for investigations and compliance reviews and uniform recordkeeping and reporting requirements and training programs. These procedures will also facilitate information sharing and programs to develop appropriate publications and other cooperative programs. The goals of uniformity and consistency are to be achieved with the maximum participation and review on both an informal and formal basis by the relevant Federal agencies and, finally, by the public.

@@ -1,0 +1,3 @@
+##### § 143.41 Applicability. #####
+
+This subpart sets forth the general requirements and procedures for Remote Location Filing (RLF). RLF entries are subject to the documentation, document retention and document retrieval requirements of this chapter as well as the general entry requirements of parts 141, 142 and 143 of this chapter. Participation in the RLF program is voluntary and at the option of the filer.

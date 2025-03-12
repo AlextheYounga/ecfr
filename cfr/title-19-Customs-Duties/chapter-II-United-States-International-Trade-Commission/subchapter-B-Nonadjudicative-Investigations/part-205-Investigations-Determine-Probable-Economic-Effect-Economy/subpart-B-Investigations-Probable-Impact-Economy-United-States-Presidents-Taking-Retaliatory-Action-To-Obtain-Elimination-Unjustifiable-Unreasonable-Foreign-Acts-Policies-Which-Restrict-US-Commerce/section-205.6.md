@@ -1,0 +1,11 @@
+##### § 205.6 Investigations under section 301(e)(3) of the Trade Act of 1974. #####
+
+(a) *Purpose of investigation.* The purpose of an investigation by the Commission is to provide the President with its views pursuant to section 301(e)(3) as to the probable impact on the economy of the United States of imposing retaliatory restrictions on imports into the United States from countries or foreign instrumentalities which maintain restrictions against U.S. exports.
+
+(b) *Institution and notice of investigation.* An investigation to which this subpart B relates will be instituted promptly after the receipt from the President of a request for the views of the Commission with regard to the matters indicated in paragraph (a) of this section.
+
+(c) *Public hearings.* If, in the judgment of the Commission, there is good and sufficient reason therefor, the Commission, in the course of its investigation, will hold a public hearing and afford interested parties opportunity to appear and be heard at such hearing. If no notice of public hearing issues concurrently with a notice of investigation, any interested party who believes that a public hearing should be held may, within thirty (30) days after the date of publication in the Federal Register of the notice of investigation, submit a request in writing to the Secretary of the Commission that a public hearing be held, stating the reasons for such request.
+
+(d) *Written statements.* Any interested party may submit to the Commission a written statement of information pertinent to the subject matter of such investigation not later than thirty (30) days after a notice of investigation under paragraph (b) of this section is published in the Federal Register. If a public hearing is held in the investigation, a statement may be received in lieu of or in addition to appearance at the hearing. Statements shall conform with the requirements for documents set forth in §§ 201.6 and 201.8 of this chapter.
+
+(e) *Report to the President.* After the completion of its investigation, the Commission will incorporate its views in a report which will be transmitted promptly to the President.

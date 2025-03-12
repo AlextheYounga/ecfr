@@ -1,0 +1,3 @@
+##### § 162.96 Remission of forfeitures and payment of fees, costs or interest. #####
+
+When a person elects to petition for relief before, or in lieu of, filing a claim under § 162.94, any seizure subject to forfeiture under this subpart may be remitted or mitigated pursuant to the provisions of 19 U.S.C. 1618 or 31 U.S.C. 5321(c), as applicable. Any person who accepts a remission or mitigation decision will not be considered to have substantially prevailed in a civil forfeiture proceeding for purposes of collection of any fees, costs or interest from the Government.

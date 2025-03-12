@@ -1,0 +1,9 @@
+##### § 530.104 Bonding or security payments. #####
+
+(a) Where in the Administrator's judgment there is not sufficient reason to believe that the Act will be complied with or that money will be available if violations of the Act occur, the Administrator may condition issuance or renewal of a certificate to an employer upon the furnishing of a bond with a surety or sureties satisfactory to the Administrator.
+
+(b) The Administrator shall condition issuance or reinstatement of a certificate to any employer whose application for a certificate had previously been denied, or whose certificate had been revoked, upon the furnishing of a bond.
+
+(c) Any bond required by the Administrator under paragraph (a) or (b) of this section shall be in an amount determined by the Administrator, up to $2500 for each homeworker to be employed by such employer under the certificate. In lieu of a bond, the employer may furnish a cash payment of equal amount, to be held in a special deposit account by the Administrator for the period during which the certificate is in effect. Such bond, or cash payment, shall be subject to payment or forfeiture, in whole or in part, upon a final determination that the employer has failed to pay minimum wages or overtime compensation to homeworkers in accordance with the Act. Any sums thus paid or forfeited to the Administrator shall be disbursed to affected homeworkers in accordance with section 16(c) of the Act.
+
+(d) At the Administrator's discretion, the obligation of a bond may be relieved, and any cash payment held as security in lieu thereof may be refunded (together with any interest accrued thereon), upon a subsequent determination that the employer is in compliance with the Act and that sufficient funds will be available to meet back wage payment obligations in the event of violations of the Act.

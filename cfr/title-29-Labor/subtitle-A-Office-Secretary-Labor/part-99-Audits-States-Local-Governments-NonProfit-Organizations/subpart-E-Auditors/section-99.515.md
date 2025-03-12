@@ -1,0 +1,5 @@
+##### § 99.515 Audit working papers. #####
+
+(a) *Retention of working papers.* The auditor shall retain working papers and reports for a minimum of three years after the date of issuance of the auditor's report(s) to the auditee, unless the auditor is notified in writing by the cognizant agency for audit, oversight agency for audit, or pass-through entity to extend the retention period. When the auditor is aware that the Federal awarding agency, pass-through entity, or auditee is contesting an audit finding, the auditor shall contact the parties contesting the audit finding for guidance prior to destruction of the working papers and reports.
+
+(b) *Access to working papers.* Audit working papers shall be made available upon request to the cognizant or oversight agency for audit or its designee, a Federal agency providing direct or indirect funding, or GAO at the completion of the audit, as part of a quality review, to resolve audit findings, or to carry out oversight responsibilities consistent with the purposes of this part. Access to working papers includes the right of Federal agencies to obtain copies of working papers, as is reasonable and necessary.

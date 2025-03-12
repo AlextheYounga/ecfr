@@ -1,0 +1,5 @@
+##### § 15.206 Procedure in the event of an adverse ruling regarding production of material or provision of testimony. #####
+
+If the court or other authority declines to stay the demand made in accordance with § 15.205(c) pending receipt of the determination from the Authorized Approving Official, or if the court or other authority rules that the demand must be complied with irrespective of the determination by the Authorized Approving Official not to produce the material or provide the testimony demanded or to produce subject to conditions or restrictions, the employee upon whom the demand has been made shall, if so directed by an attorney representing the Department, respectfully decline to comply with the demand. (*United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951)).
+
+[73 FR 72206, Nov. 26, 2008]

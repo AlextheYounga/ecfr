@@ -1,0 +1,3 @@
+##### § 1400.735-3 Advice and counseling service. #####
+
+The Director will designate a counselor for the Service on all matters relating to the conduct and responsibilities of employees, and special Government employees, under the Executive order. The counselor is responsible for providing individual employees with interpretations on questions of conflicts of interest, and other matters covered by this part. (Due to the small size of the Federal Mediation and Conciliation Service, it is unrealistic to designate deputy counselors, and therefore, all questions concerning matters covered in this part should be directed to the one counselor appointed by the Director.)

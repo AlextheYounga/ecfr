@@ -1,0 +1,9 @@
+##### § 570.600 General. #####
+
+(a) This subpart K enumerates laws that the Secretary will treat as applicable to grants made under section 106 of the Act, other than grants to states made pursuant to section 106(d) of the Act, for purposes of the Secretary's determinations under section 104(e)(1) of the Act, including statutes expressly made applicable by the Act and certain other statutes and Executive Orders for which the Secretary has enforcement responsibility. This subpart K applies to grants made under the Insular Areas Program in § 570.405 and § 570.440 with the exception of § 570.612. The absence of mention herein of any other statute for which the Secretary does not have direct enforcement responsibility is not intended to be taken as an indication that, in the Secretary's opinion, such statute or Executive Order is not applicable to activities assisted under the Act. For laws that the Secretary will treat as applicable to grants made to states under section 106(d) of the Act for purposes of the determination required to be made by the Secretary pursuant to section 104(e)(2) of the Act, see § 570.487.
+
+(b) This subpart also sets forth certain additional program requirements which the Secretary has determined to be applicable to grants provided under the Act as a matter of administrative discretion.
+
+(c) In addition to grants made pursuant to section 106(b) and 106(d)(2)(B) of the Act (subparts D and F, respectively), the requirements of this subpart K are applicable to grants made pursuant to sections 107 and 119 of the Act (subparts E and G, respectively), and to loans guaranteed pursuant to subpart M.
+
+[53 FR 34456, Sept. 6, 1988, as amended at 61 FR 11477, Mar. 20, 1996; 72 FR 12536, Mar. 15, 2007]

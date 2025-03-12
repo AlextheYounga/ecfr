@@ -1,0 +1,3 @@
+##### § 367.4120 Account 412, Cost and expenses of construction or other services. #####
+
+This account must include expenditures related to the performance of construction or service contracts, under which the service company undertakes projects to construct physical property for associate or non-associate companies (see General Instructions § 367.24, Construction and service contracts for other companies) and the cost of services performed for others not provided for elsewhere.

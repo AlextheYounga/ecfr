@@ -1,0 +1,17 @@
+##### § 825.216 Limitations on an employee's right to reinstatement. #####
+
+(a) An employee has no greater right to reinstatement or to other benefits and conditions of employment than if the employee had been continuously employed during the FMLA leave period. An employer must be able to show that an employee would not otherwise have been employed at the time reinstatement is requested in order to deny restoration to employment. For example:
+
+(1) If an employee is laid off during the course of taking FMLA leave and employment is terminated, the employer's responsibility to continue FMLA leave, maintain group health plan benefits and restore the employee cease at the time the employee is laid off, provided the employer has no continuing obligations under a collective bargaining agreement or otherwise. An employer would have the burden of proving that an employee would have been laid off during the FMLA leave period and, therefore, would not be entitled to restoration. Restoration to a job slated for lay-off when the employee's original position is not would not meet the requirements of an equivalent position.
+
+(2) If a shift has been eliminated, or overtime has been decreased, an employee would not be entitled to return to work that shift or the original overtime hours upon restoration. However, if a position on, for example, a night shift has been filled by another employee, the employee is entitled to return to the same shift on which employed before taking FMLA leave.
+
+(3) If an employee was hired for a specific term or only to perform work on a discrete project, the employer has no obligation to restore the employee if the employment term or project is over and the employer would not otherwise have continued to employ the employee. On the other hand, if an employee was hired to perform work on a contract, and after that contract period the contract was awarded to another contractor, the successor contractor may be required to restore the employee if it is a successor employer. *See* § 825.107.
+
+(b) In addition to the circumstances explained above, an employer may deny job restoration to salaried eligible employees (key employees, as defined in § 825.217(c)), if such denial is necessary to prevent substantial and grievous economic injury to the operations of the employer; or may delay restoration to an employee who fails to provide a fitness-for-duty certificate to return to work under the conditions described in § 825.312.
+
+(c) If the employee is unable to perform an essential function of the position because of a physical or mental condition, including the continuation of a serious health condition or an injury or illness also covered by workers' compensation, the employee has no right to restoration to another position under the FMLA. The employer's obligations may, however, be governed by the Americans with Disabilities Act (ADA), as amended. *See* § 825.702, state leave laws, or workers' compensation laws.
+
+(d) An employee who fraudulently obtains FMLA leave from an employer is not protected by FMLA's job restoration or maintenance of health benefits provisions.
+
+(e) If the employer has a uniformly-applied policy governing outside or supplemental employment, such a policy may continue to apply to an employee while on FMLA leave. An employer which does not have such a policy may not deny benefits to which an employee is entitled under FMLA on this basis unless the FMLA leave was fraudulently obtained as in paragraph (d) of this section.

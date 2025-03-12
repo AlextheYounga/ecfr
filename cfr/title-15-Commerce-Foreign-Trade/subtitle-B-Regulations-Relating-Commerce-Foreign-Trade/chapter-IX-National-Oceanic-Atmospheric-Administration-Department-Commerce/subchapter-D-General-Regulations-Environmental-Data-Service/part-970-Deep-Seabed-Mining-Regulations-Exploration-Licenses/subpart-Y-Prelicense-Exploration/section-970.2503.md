@@ -1,0 +1,5 @@
+##### § 970.2503 Suspension of exploration activities. #####
+
+(a) The Administrator may issue an emergency order, either in writing or orally with written confirmation, requiring the immediate suspension of exploration activities or any particular exploration activity when, in his judgment, immediate suspension of such activity or activities is necessary to prevent a significant adverse effect on the environment. Upon receipt of notice of the emergency order, the United States citizen engaged in the exploration shall immediately cease the activity that is the subject of the emergency order. During any suspension NOAA will consult with the citizen engaged in the activity suspended concerning appropriate measures to remove the cause of suspension. A suspension may be rescinded at any time by written notice from the Administrator upon presentation of satisfactory evidence by the citizen that the activity will no longer threaten a significant adverse effect on the environment.
+
+(b) [Reserved]

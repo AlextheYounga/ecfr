@@ -1,0 +1,3 @@
+##### § 102.39 Rules of evidence controlling so far as practicable. #####
+
+Any such proceeding shall, so far as practicable, be conducted in accordance with the rules of evidence applicable in the district courts of the United States under the rules of civil procedure for the district courts of the United States, adopted by the Supreme Court of the United States pursuant to the Act of June 19, 1934, (title 28 U.S.C., secs. 723-B, 723-C).

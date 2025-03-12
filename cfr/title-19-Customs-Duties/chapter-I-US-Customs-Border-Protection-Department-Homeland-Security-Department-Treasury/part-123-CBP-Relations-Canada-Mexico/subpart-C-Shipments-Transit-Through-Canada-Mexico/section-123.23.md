@@ -1,0 +1,3 @@
+##### § 123.23 Train sheet for in-transit rail shipments. #####
+
+Before an in-transit train proceeding under the provisions of this subpart departs from the United States, the carrier shall furnish to the customs officer at the port of exit a train sheet, sometimes called a consist, bridge sheet or trip sheet, listing each car of the train and specifically identifying the in-transit cars, unless a consolidated manifest containing this information has been presented for a train which will remain intact.

@@ -1,0 +1,3 @@
+##### § 525.19 Investigations and hearings. #####
+
+The Administrator may conduct an investigation, which may include a hearing, prior to taking any action pursuant to these regulations. To the extent it is deemed appropriate, the Administrator may provide an opportunity to other interested persons to present data and views. Proceedings initiated pursuant to this section are separate from those taken pursuant to FLSA section 14(c)(5) and § 525.22.

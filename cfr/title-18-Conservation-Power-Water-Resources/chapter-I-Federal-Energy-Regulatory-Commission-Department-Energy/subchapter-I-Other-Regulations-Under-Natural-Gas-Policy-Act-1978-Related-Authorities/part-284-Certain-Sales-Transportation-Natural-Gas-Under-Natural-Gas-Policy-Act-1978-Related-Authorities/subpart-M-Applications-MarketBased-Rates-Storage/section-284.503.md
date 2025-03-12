@@ -1,0 +1,25 @@
+##### § 284.503 Market-power determination. #####
+
+An applicant may apply for market-based rates by filing a request for a market-power determination that complies with the following:
+
+(a) The applicant must set forth its specific request and adequately demonstrate that it lacks market power in the market to be served, and must include an executive summary of its statement of position and a statement of material facts in addition to its complete statement of position. The statement of material facts must include citation to the supporting statements, exhibits, affidavits, and prepared testimony.
+
+(b) The applicant must include with its application the following information:
+
+(1) *Statement A—geographic market.* This statement must describe the geographic markets for storage services in which the applicant seeks to establish that it lacks significant market power. It must include the market related to the service for which it proposes to charge market-based rates. The statement must explain why the applicant's method for selecting the geographic markets is appropriate.
+
+(2) *Statement B—product market.* This statement must identify the product market or markets for which the applicant seeks to establish that it lacks significant market power. The statement must explain why the particular product definition is appropriate.
+
+(3) *Statement C—the applicant's facilities and services.* This statement must describe the applicant's own facilities and services, and those of all parent, subsidiary, or affiliated companies, in the relevant markets identified in Statements A and B in paragraphs (b)(1) and (2) of this section. The statement must include all pertinent data about the storage facilities and services.
+
+(4) *Statement D—competitive alternatives.* This statement must describe available alternatives in competition with the applicant in the relevant markets and other competition constraining the applicant's rates in those markets. Such proposed alternatives may include an appropriate combination of other storage, local gas supply, LNG, financial instruments and pipeline capacity. These alternatives must be shown to be reasonably available as a substitute in the area to be served soon enough, at a price low enough, and with a quality high enough to be a reasonable alternative to the applicant's services. Capacity (transportation, storage, LNG, or production) owned or controlled by the applicant and affiliates of the applicant in the relevant market shall be clearly and fully identified and may not be considered as alternatives competing with the applicant. Rather, the capacity of an applicant's affiliates is to be included in the market share calculated for the applicant. To the extent available, the statement must include all pertinent data about storage or other alternatives and other constraining competition.
+
+(5) *Statement E—potential competition.* This statement must describe potential competition in the relevant markets. To the extent available, the statement must include data about the potential competitors, including their costs, and their distance in miles from the applicant's facilities and major consuming markets. This statement must also describe any relevant barriers to entry and the applicant's assessment of whether ease of entry is an effective counter to attempts to exercise market power in the relevant markets.
+
+(6) *Statement F—maps.* This statement must consist of maps showing the applicant's principal facilities, pipelines to which the applicant intends to interconnect and other pipelines within the area to be served, the direction of flow of each line, the location of the alternatives to the applicant's service offerings, including their distance in miles from the applicant's facility. The statement must include a general system map and maps by geographic markets. The information required by this statement may be on separate pages.
+
+(7) *Statement G—market-power measures.* This statement must set forth the calculation of the market concentration of the relevant markets using the Herfindahl-Hirschman Index. The statement must also set forth the applicant's market share, inclusive of affiliated service offerings, in the markets to be served. The statement must also set forth the calculation of other market-power measures relied on by the applicant. The statement must include complete particulars about the applicant's calculations.
+
+(8) *Statement H—other factors.* This statement must describe any other factors that bear on the issue of whether the applicant lacks significant market power in the relevant markets. The description must explain why those other factors are pertinent.
+
+(9) *Statement I—prepared testimony.* This statement must include the proposed testimony in support of the application and will serve as the applicant's case-in-chief, if the Commission sets the application for hearing. The proposed witness must subscribe to the testimony and swear that all statements of fact contained in the proposed testimony are true and correct to the best of his or her knowledge, information, and belief.

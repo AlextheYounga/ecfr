@@ -1,0 +1,3 @@
+##### § 295.11 Deadline for notifying FEMA of losses. #####
+
+The deadline for filing a Notice of Loss is August 28, 2002. Except as provided in § 295.21(d) with respect to mitigation and in § 295.31(b) with respect to the lump sum payment described therein, a Loss that has not been described: on a Notice of Loss, on a supplement to a Notice of Loss or a request to supplement a Notice of Loss under § 295.33, or a request to reopen a claim under § 295.34, received by OCGFC on or before August 28, 2002 cannot be compensated under the CGFAA. The CGFAA establishes this deadline and does not provide any extensions of the filing deadline.

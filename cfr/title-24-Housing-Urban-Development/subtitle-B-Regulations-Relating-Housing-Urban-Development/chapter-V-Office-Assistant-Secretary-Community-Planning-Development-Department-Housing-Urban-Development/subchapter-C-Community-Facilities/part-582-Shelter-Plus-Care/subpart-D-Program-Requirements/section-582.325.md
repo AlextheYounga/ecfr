@@ -1,0 +1,3 @@
+##### § 582.325 Outreach activities. #####
+
+Recipients must use their best efforts to ensure that eligible hard-to-reach persons are served by S+C. Recipients are expected to make sustained efforts to engage eligible persons so that they may be brought into the program. Outreach should be primarily directed toward eligible persons who have a nighttime residence that is an emergency shelter or a public or private place not designed for, or ordinarily used as, a regular sleeping accommodation for human beings (*e.g.,* persons living in cars, streets, and parks). Outreach activities are considered to be a supportive service, and the value of such activities that occur after the execution of the grant agreement may be included in meeting the matching requirement.

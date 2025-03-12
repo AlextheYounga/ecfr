@@ -1,0 +1,3 @@
+##### § 3286.109 Inspection requirements—generally. #####
+
+The installer or the retailer must arrange for the inspection of the installation work on any manufactured home that is sited in a state without a qualifying installation program. Before the home can be occupied, the installer must certify, and the inspector must verify, the home as having been installed in conformance with the requirements of § 3286.107(a). The requirements for installer certification are set out in subpart E of this part.

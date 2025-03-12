@@ -1,0 +1,3 @@
+##### § 1620.29 Relationship to other labor laws. #####
+
+If a higher minimum wage than that required under the FLSA is applicable to a particular sex pursuant to State law, and the employer pays the higher State minimum wage to male or female employees, it must also pay the higher rate to employees of the opposite sex for equal work in order to comply with the EPA. Similarly, if overtime premiums are paid to members of one sex because of a legal requirement, such premiums must also be paid to employees of the other sex.

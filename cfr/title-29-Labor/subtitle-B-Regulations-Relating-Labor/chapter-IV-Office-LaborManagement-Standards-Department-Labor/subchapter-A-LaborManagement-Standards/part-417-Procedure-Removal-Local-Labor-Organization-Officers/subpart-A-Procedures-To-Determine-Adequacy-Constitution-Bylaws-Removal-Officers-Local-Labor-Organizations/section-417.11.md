@@ -1,0 +1,3 @@
+##### § 417.11 Objections to evidence. #####
+
+Objections to the admission or exclusion of evidence may be made orally or in writing, but shall be in short form, stating the grounds for such objection. The transcript shall not include argument or debate thereon except as required by the Administrative Law Judge. Rulings on such objections shall be a part of the transcript. No such objections shall be deemed waived by further participation in the hearing. Formal exceptions are unnecessary and will not be taken to rulings on objections.

@@ -1,0 +1,3 @@
+##### § 213.278 Distribution of distributive share. #####
+
+When the contract of insurance is terminated by reason of payment in full of the mortgage or by voluntary termination approved by the Commissioner, and at such time or times prior to such termination as the Commissioner may approve, the Commissioner may distribute to a mortgagor under a mortgage that is the obligation of the Cooperative Management Housing Insurance Fund a share of the Participating Reserve Account in such manner and amount as he shall determine to be equitable and in accordance with sound actuarial and accounting practice.

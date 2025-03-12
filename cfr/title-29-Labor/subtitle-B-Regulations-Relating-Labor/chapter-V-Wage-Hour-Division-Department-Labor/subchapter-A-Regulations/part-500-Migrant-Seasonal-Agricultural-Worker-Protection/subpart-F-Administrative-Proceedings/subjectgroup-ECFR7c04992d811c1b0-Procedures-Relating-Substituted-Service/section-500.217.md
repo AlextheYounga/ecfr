@@ -1,0 +1,3 @@
+##### § 500.217 Responsibility of Secretary for service. #####
+
+Upon receipt of any substituted service, as described in § 500.216, the same shall be forwarded by certified mail to the permanent address furnished by the person for whom service is accepted and to such other address as may be determined appropriate by the Secretary. Such mailing shall complete the Secretary's responsibility in connection with the substituted service requirement of the Act.

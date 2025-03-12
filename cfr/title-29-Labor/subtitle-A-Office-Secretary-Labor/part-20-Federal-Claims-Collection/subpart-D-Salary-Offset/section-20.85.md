@@ -1,0 +1,3 @@
+##### § 20.85 Notice of offset. #####
+
+Prior to effecting a salary offset, the paying DOL agency should advise the debtor of the impending offset. This notice should state that the debtor has been provided his/her rights under 5 U.S.C. 5514, that a determination has been made that collection by salary offset would be in the best interests of the United States, the amount of the offset, the date the salary offset will begin, and that the source of funds shall be from current disposable pay, except as provided by (c) and (d) of § 20.84. If evidence suggests that the debtor is no longer located at the address of record, reasonable action shall be taken to obtain a current address.

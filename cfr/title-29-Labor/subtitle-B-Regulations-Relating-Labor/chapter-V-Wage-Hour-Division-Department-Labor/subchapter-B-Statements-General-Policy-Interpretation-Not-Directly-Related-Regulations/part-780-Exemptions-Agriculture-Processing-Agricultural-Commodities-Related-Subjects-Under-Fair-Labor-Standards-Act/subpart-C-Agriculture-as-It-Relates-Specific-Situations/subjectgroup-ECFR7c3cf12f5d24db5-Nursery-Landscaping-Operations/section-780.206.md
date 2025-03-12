@@ -1,0 +1,7 @@
+##### § 780.206 Planting and lawn mowing. #####
+
+(a) The planting of trees and bushes is within the scope of agriculture where it constitutes a step in the production, cultivation, growing, and harvesting of agricultural or horticultural commodities, or where it constitutes a practice performed by a farmer or on a farm as an incident to or in conjunction with farming operations (as where it is part of the subordinate marketing operations of the grower of such trees or bushes). Thus, employees of the nurseryman who raised such nursery stock are doing agricultural work when they plant the stock on private or public property, trim, spray, brace, and treat the planted stock, or perform other duties incidental to its care and preservation. Similarly, employees who plant fruit trees and berry stock not raised by their employer would be considered as engaged in agriculture if the planting is done on a farm as an incident to or in conjunction with the farming operation on that farm.
+
+(b) On the other hand, the planting of trees and bushes on residential, business, or public property is not agriculture when it is done by employees of an employer who has not grown the trees and bushes, or who, if he has grown them, engages in the planting operations as an incident, not to his farming operations, but to landscaping operations which include principally the laying of sod and the construction of pools, walks, drives, and the like.
+
+(c) The mowing of lawns, except where it can be considered incidental to farming operations, is not agricultural work.

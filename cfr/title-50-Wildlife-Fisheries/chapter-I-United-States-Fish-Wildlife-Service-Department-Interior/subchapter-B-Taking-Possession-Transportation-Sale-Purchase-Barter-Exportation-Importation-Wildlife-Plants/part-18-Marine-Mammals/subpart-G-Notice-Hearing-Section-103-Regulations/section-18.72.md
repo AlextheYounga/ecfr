@@ -1,0 +1,3 @@
+##### § 18.72 Scope of regulations. #####
+
+The procedural regulations in this subpart govern the practice and procedure in hearings held under section 103(d) of the Act. These hearings will be governed by the provisions of sections 556 and 557 of the Administrative Procedure Act (5 U.S.C. 556 and 557). The regulations shall be construed to secure the just, speedy, and inexpensive determination of all issues raised with respect to any waiver and/or regulation proposed pursuant to section 103(d) of the act in a manner which gives full protection to the rights of all persons affected thereby.

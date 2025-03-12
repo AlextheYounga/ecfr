@@ -1,0 +1,3 @@
+##### § 292.308 Standards for operating reliability. #####
+
+Any State regulatory authority (with respect to any electric utility over which it has ratemaking authority) or nonregulated electric utility may establish reasonable standards to ensure system safety and reliability of interconnected operations. Such standards may be recommended by any electric utility, any qualifying facility, or any other person. If any State regulatory authority (with respect to any electric utility over which it has ratemaking authority) or nonregulated electric utility establishes such standards, it shall specify the need for such standards on the basis of system safety and reliability.

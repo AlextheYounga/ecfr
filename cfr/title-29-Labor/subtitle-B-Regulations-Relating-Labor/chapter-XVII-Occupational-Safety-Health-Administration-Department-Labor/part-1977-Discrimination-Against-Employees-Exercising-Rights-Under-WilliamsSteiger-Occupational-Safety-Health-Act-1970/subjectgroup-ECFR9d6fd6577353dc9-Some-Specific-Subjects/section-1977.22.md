@@ -1,0 +1,3 @@
+##### § 1977.22 Employee refusal to comply with safety rules. #####
+
+Employees who refuse to comply with occupational safety and health standards or valid safety rules implemented by the employer in furtherance of the Act are not exercising any rights afforded by the Act. Disciplinary measures taken by employers solely in response to employee refusal to comply with appropriate safety rules and regulations, will not ordinarily be regarded as discriminatory action prohibited by section 11(c). This situation should be distinguished from refusals to work, as discussed in § 1977.12.

@@ -1,0 +1,3 @@
+##### § 367.4073 Account 407.3, Regulatory debits. #####
+
+This account shall be debited, when appropriate, with amounts credited to Account 254, Other Regulatory Liabilities, to record regulatory liabilities imposed on the service company by the ratemaking actions of regulatory agencies. This account shall also be debited, when appropriate, with the amounts credited to Account 182.3, Other Regulatory Assets, concurrent with the recovery of such amounts in rates.

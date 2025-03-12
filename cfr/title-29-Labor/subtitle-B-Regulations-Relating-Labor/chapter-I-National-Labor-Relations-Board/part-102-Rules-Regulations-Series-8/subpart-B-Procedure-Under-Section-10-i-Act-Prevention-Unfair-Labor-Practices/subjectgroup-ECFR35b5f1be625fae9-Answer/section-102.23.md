@@ -1,0 +1,3 @@
+##### § 102.23 Amendment. #####
+
+The respondent may amend his answer at any time prior to the hearing. During the hearing or subsequent thereto, he may amend his answer in any case where the complaint has been amended, within such period as may be fixed by the administrative law judge or the Board. Whether or not the complaint has been amended, the answer may, in the discretion of the administrative law judge or the Board, upon motion, be amended upon such terms and within such periods as may be fixed by the administrative law judge or the Board.

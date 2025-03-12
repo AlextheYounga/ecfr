@@ -1,0 +1,5 @@
+##### § 156.4 Form of exhibits to be attached to applications. #####
+
+(a) *General requirements.* Each exhibit shall contain a title page showing applicant's name, Docket No. CP- \_\_\_\_\_\_ (number designation to be left blank), title of exhibit, and if exhibit consists of 10 or more pages a table of contents citing by page, section number or subdivision the component elements or matters contained therein.
+
+(b) *Measurement base.* All gas volumes shall be stated upon a uniform basis of measurement, and, in addition, if the uniform basis of measurement used in any application is other than 14.73 p.s.i.a., then the volume or volumes of natural gas to be received from any source and delivered by applicant shall also be stated upon a basis of 14.73 p.s.i.a. Similarly, total volumes on all summary sheets, as well as grand totals of volumes in any exhibit, shall also be stated upon a basis of 14.73 p.s.i.a. if the basis of measurement used is other than 14.73 p.s.i.a.

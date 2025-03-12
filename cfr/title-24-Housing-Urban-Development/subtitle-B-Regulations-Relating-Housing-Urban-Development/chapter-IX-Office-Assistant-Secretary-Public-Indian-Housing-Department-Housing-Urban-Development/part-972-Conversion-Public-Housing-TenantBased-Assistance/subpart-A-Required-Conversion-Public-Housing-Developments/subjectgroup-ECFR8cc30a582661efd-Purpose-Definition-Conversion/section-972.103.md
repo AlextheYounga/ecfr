@@ -1,0 +1,3 @@
+##### § 972.103 Definition of “conversion.” #####
+
+For purposes of this subpart, the term “conversion” means the removal of public housing units from the inventory of a PHA, and the provision of tenant-based or project-based assistance for the residents of the public housing units that are being removed. The term “conversion,” as used in this subpart, does not necessarily mean the physical removal of the public housing development.

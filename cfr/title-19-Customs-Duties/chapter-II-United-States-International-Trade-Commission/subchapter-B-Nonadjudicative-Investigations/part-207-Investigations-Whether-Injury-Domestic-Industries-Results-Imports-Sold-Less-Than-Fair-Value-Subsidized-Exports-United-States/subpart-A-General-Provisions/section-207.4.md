@@ -1,0 +1,9 @@
+##### § 207.4 The record. #####
+
+(a) *Maintenance of the record.* The Secretary shall maintain the record of each investigation conducted by the Commission pursuant to title VII of the Act. The record shall be maintained contemporaneously with each actual filing in the record. It shall be divided into public and nonpublic sections. The Secretary shall also maintain a contemporaneous index of all materials filed in the record. All material properly filed with the Secretary shall be placed in the record. The Commission need not consider in its determinations or include in the record any material that is not filed with the Secretary. All material which is placed in the record shall be maintained in the public record, with the exception of material which is privileged, or which is business proprietary information submitted in accordance with § 201.6 of this chapter. Privileged and business proprietary material shall be maintained in the nonpublic record.
+
+(b) *Audits.* The Commission may in its discretion verify information received in the course of an investigation. To the extent a verification results in new or different information, the Commission shall place such information on the record.
+
+(c) *Materials provided by the administering authority.* Materials received by the Commission from the administering authority shall be placed on the Commission's record and shall be designated by the Commission as public or nonpublic in conformity with the applicable designation of the administering authority. Any requests to the Commission either to permit access to such materials or to release such materials shall be referred to the administering authority for its advice.
+
+[44 FR 76468, Dec. 26, 1979, as amended at 61 FR 37829, July 22, 1996]

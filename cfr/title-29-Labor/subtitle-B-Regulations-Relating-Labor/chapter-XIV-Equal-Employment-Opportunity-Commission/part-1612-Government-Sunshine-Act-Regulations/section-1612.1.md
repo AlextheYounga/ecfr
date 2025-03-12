@@ -1,0 +1,3 @@
+##### § 1612.1 Purpose and scope. #####
+
+This part contains the regulations of the Equal Employment Opportunity Commission (hereinafter, the Commission) implementing the Government in the Sunshine Act of 1976, 5 U.S.C. 552b, which entitles the public to the fullest practicable information regarding the decision-making processes of the Commission. The provisions of this part set forth the basic responsibilities of the Commission with regard to the Commission's compliance with the requirements of the Sunshine Act and offers guidance to members of the public who wish to exercise any of the rights established by the Act.

@@ -1,0 +1,5 @@
+##### § 302.8 Waiver of “single” State agency requirements. #####
+
+Section 205 of the Act requires that plans for civil defense of the United States be administered or supervised by a single State agency (50 U.S.C. App. 2286). Notwithstanding such law, section 204 of the Intergovernmental Cooperation Act of 1968 (42 U.S.C. 4214) provides authority for the Administrator as head of the grantor agency, upon the State's request, to waive the single State agency requirement and to approve other State administrative structure or arrangements, upon adequate showing that the requirement prevents the establishment of the most effective and efficient organizational arrangements within the State government. First, however, the Administrator must have found that the objectives of the Act (50 U.S.C. app. 2251 *et seq.*) will not be endangered by the use of such other State structure or arrangements. Attachment D of OMB Circular A-102 requires that such requests be given expeditious handling by the grantor agency and that, whenever possible, an affirmative response be made.
+
+[48 FR 44211 Sept. 28, 1983, as amended at 51 FR 12521, Apr. 11, 1986]

@@ -1,0 +1,3 @@
+##### § 1960.11 Evaluation of occupational safety and health performance. #####
+
+Each agency head shall ensure that any performance evaluation of any management official in charge of an establishment, any supervisory employee, or other appropriate management official, measures that employee's performance in meeting requirements of the agency occupational safety and health program, consistent with the employee's assigned responsibilities and authority, and taking into consideration any applicable regulations of the Office of Personnel Management or other appropriate authority. The recognition of superior performance in discharging safety and health responsibilities by an individual or group should be encouraged and noted.

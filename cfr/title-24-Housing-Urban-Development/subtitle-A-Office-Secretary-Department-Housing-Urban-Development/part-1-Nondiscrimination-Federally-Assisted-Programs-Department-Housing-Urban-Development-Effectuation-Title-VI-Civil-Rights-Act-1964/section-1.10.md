@@ -1,0 +1,13 @@
+##### § 1.10 Effect on other regulations; forms and instructions. #####
+
+(a) *Effect on other regulations.* All regulations, orders, or like directions heretofore issued by any officer of the Department which impose requirements designed to prohibit any discrimination against persons on the ground of race, color, or national origin under any program or activity to which this part applies, and which authorize the suspension or termination of or refusal to grant or to continue Federal financial assistance to any applicant or recipient for failure to comply with such requirements, are hereby superseded to the extent that such discrimination is prohibited by this part, except that nothing in this part shall be deemed to relieve any person of any obligation assumed or imposed under any such superseded regulation, order, instruction, or like direction prior to January 3, 1965. Nothing in this part, however, shall be deemed to supersede any of the following (including future amendments thereof):
+
+(1) Executive Orders 11246 and 11375 and regulations issued thereunder, or
+
+(2) Executive Order 11063 and regulations issued thereunder, or any other order, regulations or instructions, insofar as such order, regulations, or instructions, prohibit discrimination on the ground of race, color, or national origin in any program or activity or situation to which this part is inapplicable, or prohibit discrimination on any other ground.
+
+(b) *Forms and instructions.* The responsible Department official shall assure that forms and detailed instructions and procedures for effectuating this part are issued and promptly made available to interested persons.
+
+(c) *Supervision and coordination.* The Secretary may from time to time assign to officials of the Department, or to officials of other departments or agencies of the Government with the consent of such department or agency, responsibilities in connection with the effectuation of the purposes of title VI of the Act and this part (other than responsibility for final decision as provided in § 1.10), including the achievement of effective coordination and maximum uniformity within the Department and within the Executive Branch of the Government in the application of title VI and this part to similar programs or activities and in similar situations. Any action taken, determination made, or requirement imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this paragraph shall have the same effect as though such action had been taken by the responsible official of this Department.
+
+[38 FR 17949, July 5, 1973. Redesignated at 61 FR 52217, Oct. 4, 1996]

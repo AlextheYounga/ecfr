@@ -1,0 +1,3 @@
+##### § 779.119 Exempt occupations. #####
+
+Of course, it should be noted that although employees may be engaged in commerce or in the production of goods for commerce within the meaning of the Act, they may be exempt from the Act's minimum wage or overtime provisions (or both). For a complete list of such exemptions the Act should be consulted. Those exemptions, however, which are of particular interest to employers and employees in the retail field are discussed in subparts D, E, and F of this part.

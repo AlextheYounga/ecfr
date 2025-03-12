@@ -1,0 +1,11 @@
+##### § 8.55 Compliance information. #####
+
+(a) *Cooperation and assistance.* The responsible civil rights official and the award official shall, to the fullest extent practicable, seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to the responsible civil rights official or his or her designee timely, complete, and accurate compliance reports at such times, and in such form and containing such information, as the responsible civil rights official or his or her designee may determine to be necessary to enable him or her to ascertain whether the recipient has complied or is complying with this part. In general, recipients should have available for the Department data showing the extent to which individuals with handicaps are beneficiaries of federally assisted programs.
+
+(c) *Access to sources of information.* Each recipient shall permit access by the responsible civil rights official during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities, as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution, or person and this agency, institution, or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program or activity under which the recipient receives Federal financial assistance, and make such information available to them in such manner as the responsible civil rights official finds necessary to apprise such persons of the protections against discrimination assured them by this part.
+
+(Approved by the Office of Management and Budget under control number 2529-0034)[53 FR 20233, June 2, 1988, as amended at 54 FR 37645, Sept. 12, 1989]

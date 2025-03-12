@@ -1,0 +1,3 @@
+##### § 452.59 Presence of nominee. #####
+
+A requirement that members must be present at the nomination meeting in order to be nominated for office might be considered unreasonable in certain circumstances; for example, in the absence of a provision for an alternative method under which a member who is unavoidably absent from the nomination meeting may be nominated, such a restriction might be regarded as inconsistent with the requirement in section 401(e) that there be a reasonable opportunity to nominate and to be a candidate.

@@ -1,0 +1,5 @@
+##### § 3286.1 Purpose. #####
+
+(a) *Purpose.* The purpose of this part is to establish the regulations that are applicable to HUD's administration of an installation program that meets the requirements of sections 602 (42 U.S.C. 5401) and 605 (42 U.S.C. 5404) of the National Manufactured Housing Construction and Safety Standards Act of 1974. The purpose of this subpart A is to establish the regulations that are applicable with respect to all manufactured homes before they are sold to a purchaser. The requirements in subpart A apply regardless of whether the actual installation of a manufactured home is regulated by HUD or a state with a qualifying installation program.
+
+(b) *Implementation.* This part is effective on October 20, 2008. Implementation will be undertaken in accordance with the phased-in schedule provided by notice published in the Federal Register.

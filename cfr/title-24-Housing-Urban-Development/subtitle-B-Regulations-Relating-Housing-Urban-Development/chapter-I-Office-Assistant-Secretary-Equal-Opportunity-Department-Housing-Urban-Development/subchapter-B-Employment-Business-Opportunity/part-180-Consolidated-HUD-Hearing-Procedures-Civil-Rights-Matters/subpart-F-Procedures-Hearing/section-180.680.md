@@ -1,0 +1,9 @@
+##### § 180.680 Final decisions. #####
+
+(a) *Public disclosure.* HUD shall make public disclosure of each final decision.
+
+(b) *Where initial decision does not provide for suspension or termination of, or* refusal to grant or continue, Federal financial assistance—(1) *Issuance of final decision by Secretary.* The Secretary may review any finding of fact, conclusion of law, or order contained in the initial decision of the ALJ and issue a final decision in the proceeding. The Secretary shall serve the final decision on all parties no later than 30 days after the date of issuance of the initial decision.
+
+(2) *No final decision by Secretary.* If the Secretary does not serve a final decision within the time period described in paragraph (b)(1) of this section, the initial decision of the ALJ will become the final agency decision. For the purposes of this part, such a final decision will be considered to have been issued 30 days after the date of issuance of the initial decision.
+
+(c) *Where initial decision provides for suspension or termination of, or refusal to grant or continue, Federal financial assistance.* When the initial decision provides for the suspension or termination of, or the refusal to grant or continue, Federal financial assistance, or the imposition of any other sanction, such decision shall not constitute an order or final agency action until approved by the Secretary. Further, in the case of proceedings under title VI of the Civil Rights Act of 1964, no order suspending, terminating, or refusing to grant or continue Federal financial assistance shall become effective until the requirements of 24 CFR 1.8(c) have been met.

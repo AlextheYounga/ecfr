@@ -1,0 +1,3 @@
+##### § 37.36 What responsibilities does a recipient have to communicate information during orientations? #####
+
+During each presentation to orient new participants, new employees, and/or the general public to its WIA Title I-financially assisted program or activity, a recipient must include a discussion of rights under the nondiscrimination and equal opportunity provisions of WIA and this part, including the right to file a complaint of discrimination with the recipient or the Director.

@@ -1,0 +1,3 @@
+##### § 777.1 Purpose. #####
+
+To provide policy and procedures for the evaluation and mitigation of adverse environmental impacts to wetlands and natural habitat resulting from Federal-aid projects funded pursuant to provisions of title 23, U.S. Code. These policies and procedures shall be applied by the Federal Highway Administration (FHWA) to projects under the Federal Lands Highway Program to the extent such application is deemed appropriate by the FHWA.

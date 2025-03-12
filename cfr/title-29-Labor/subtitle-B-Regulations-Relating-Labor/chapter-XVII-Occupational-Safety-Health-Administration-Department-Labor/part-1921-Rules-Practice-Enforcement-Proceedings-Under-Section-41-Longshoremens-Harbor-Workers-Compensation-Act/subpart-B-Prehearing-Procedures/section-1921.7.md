@@ -1,0 +1,3 @@
+##### § 1921.7 Stipulations of compliance. #####
+
+At any time prior to the issuance of a complaint in the proceeding, the Assistant Solicitor in charge of trial litigation may in his discretion, enter into stipulations with the prospective respondent, whereby the latter admits the material facts and agrees to discontinue the acts or practices which are intended to be set up as violative of the Act or parts 1915 and 1918 of this subtitle. Such stipulations shall be admissible as evidence of such acts and practices in any subsequent proceeding in law or equity or under these regulations against such person.

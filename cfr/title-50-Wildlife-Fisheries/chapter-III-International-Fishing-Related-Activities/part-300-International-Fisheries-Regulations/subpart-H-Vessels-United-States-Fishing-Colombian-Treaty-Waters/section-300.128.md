@@ -1,0 +1,3 @@
+##### § 300.128 Penalties. #####
+
+Any person committing or fishing vessel used in the commission of a violation of the Magnuson-Stevens Act or any regulation issued under the Magnuson-Stevens Act, is subject to the civil and criminal penalty provisions and civil forfeiture provisions of the Magnuson-Stevens Act, to part 600 of this title, to 15 CFR part 904, and to other applicable law. In addition, Colombian authorities may require a vessel involved in a violation of this subpart to leave treaty waters.

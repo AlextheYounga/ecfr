@@ -1,0 +1,5 @@
+##### § 295.5 Use of pre-proposals in the selection process. #####
+
+To reduce proposal preparation costs incurred by proposers and to make the selection process more efficient, NIST may use mandatory or optional preliminary qualification processes based on pre-proposals. In such cases, announcements requesting pre-proposals will be published as indicated in § 295.7, and will seek abbreviated proposals (pre-proposals) that address both of the selection criteria, but in considerably less detail than full proposals. The Program will review the pre-proposals in accordance with the selection criteria and provide written feedback to the proposers to determine whether the proposed projects appear sufficiently promising to warrant further development into full proposals. Proposals are neither “accepted” or “rejected” at the pre-proposal stage. When the full proposals are received in response to the notice of availability of funds described in § 295.7, the review and selection process will occur as described in § 295.4.
+
+[63 FR 64414, Nov. 20, 1998]

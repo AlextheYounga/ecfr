@@ -1,0 +1,3 @@
+##### § 452.76 Campaigning by union officers. #####
+
+Unless restricted by constitutional provisions to the contrary, union officers and employes retain their rights as members to participate in the affairs of the union, including campaigning activities on behalf of either faction in an election. However, such campaigning must not involve the expenditure of funds in violation of section 401(g). Accordingly, officers and employees may not campaign on time that is paid for by the union, nor use union funds, facilities, equipment, stationery, etc., to assist them in such campaigning. Campaigning incidental to regular union business would not be a violation.

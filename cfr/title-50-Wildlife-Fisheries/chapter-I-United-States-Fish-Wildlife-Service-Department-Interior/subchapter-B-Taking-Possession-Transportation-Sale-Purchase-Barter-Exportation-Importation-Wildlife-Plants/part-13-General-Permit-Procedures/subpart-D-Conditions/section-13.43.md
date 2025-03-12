@@ -1,0 +1,3 @@
+##### § 13.43 Alteration of permits. #####
+
+Permits shall not be altered, erased, or mutilated, and any permit which has been altered, erased, or mutilated shall immediately become invalid. Unless specifically permitted on the face thereof, no permit shall be copied, nor shall any copy of a permit issued pursuant to this subchapter B be displayed, offered for inspection, or otherwise used for any official purpose for which the permit was issued.

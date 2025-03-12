@@ -1,0 +1,3 @@
+##### § 701.206 Time limit for WRC final determinations regarding requests for information appealed by the requester from an initial adverse determination. #####
+
+The Director shall make a final determination with respect to any appeal within twenty (20) working days after receipt of such appeal. If the initial adverse determination is in whole or in part upheld by the Director, the requester shall be notified of the final adverse determination and the provisions for judicial review of that determination as stated in the Freedom of Information Act, as amended (see 5 U.S.C. 552(a)(4) *et seq.*; as amended by Pub. L. 93-502).

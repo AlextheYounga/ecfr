@@ -1,0 +1,3 @@
+##### § 801.6 Notice of protection. #####
+
+Every employer subject to EPPA shall post and keep posted on its premises a notice explaining the Act, as prescribed by the Secretary. Such notice must be posted in a prominent and conspicuous place in every establishment of the employer where it can readily be observed by employees and applicants for employment. Copies of such notice may be obtained from local offices of the Wage and Hour Division.

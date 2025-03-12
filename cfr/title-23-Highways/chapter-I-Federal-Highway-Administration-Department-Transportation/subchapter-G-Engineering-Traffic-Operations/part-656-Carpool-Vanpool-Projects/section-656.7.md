@@ -1,0 +1,7 @@
+##### § 656.7 Determination of an exception. #####
+
+(a) The FHWA has determined under provisions of 23 U.S.C. 146(b) that an exceptional situation exists in regard to the funding of carpools so as to allow the State to contribute as its share of the non-Federal match essential project-related work and services performed by local agencies and private organizations when approved and authorized in accordance with regular Federal-aid procedures. The cost of such work must be properly valued, supportable and verifiable in order for inclusion as an eligible project cost. Examples of such contributed work and services include: public service announcements, computer services, and project-related staff time for administration by employees of public and private organizations.
+
+(b) This determination is based on: (1) The nature of carpool projects to provide a variety of services to the public; (2) the fact that carpool projects are labor intensive and require professional and specialized technical skills; (3) the extensive use of joint public and private endeavors; and (4) the fact that project costs involve the acquisition of capital equipment as opposed to construction of fixed items.
+
+(c) This exception is limited to carpool projects and therefore is not applicable to other Federal-aid projects. The exception does not affect or replace the standard Federal-aid funding procedures or real property acquisition procedures and requirements, part 712, The Acquisition Function.

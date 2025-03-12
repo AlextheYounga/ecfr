@@ -1,0 +1,3 @@
+##### § 780.706 Recognition of character of establishment. #####
+
+A further requirement for exemption is that the establishment must be “commonly recognized” as a country elevator. The word “commonly” means ordinarily or generally and the term “recognized” means known. An elevator should be generally known by the public as a country elevator. This requirement imposes, on the establishment for whose employees exemption is sought, the obligation to demonstrate that it engages in the type of work and has the attributes which will cause the general public to know it as a country elevator. The recognition which the statute requires must be shown to exist if the employer seeks to take the benefit of the exemption (see *Arnold* v. *Kanowsky,* 361 U.S. 388, 395).

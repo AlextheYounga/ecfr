@@ -1,0 +1,7 @@
+##### § 12.112 Notice of arrival of pesticides and devices. #####
+
+(a) *General.* An importer or the importer's agent desiring to import pesticides or devices into the United States must submit to the Administrator, prior to the arrival of the shipment in the United States, a Notice of Arrival of Pesticides and Devices (Notice of Arrival) on U.S. Environmental Protection Agency (EPA) Form 3540-1. The Administrator will complete the Notice of Arrival and provide notification to the importer or the importer's agent indicating the disposition to be made of a pesticide or device upon its entry into the United States. In the alternative, the importer or the importer's agent may file an electronic alternative to the Notice of Arrival, with the filing of the entry documentation, via any CBP-authorized electronic data interchange system.
+
+(b) *Chemicals imported for use other than as pesticides.* Chemicals which can be used as pesticides but which are not imported for such use and are not shown on the Index of Pesticide Products located in the Environmental Protection Agency's handbook entitled Recognition and Management of Pesticide Poisonings, found at *http://www.epa.gov*, may be entered without the submission of the Notice of Arrival.
+
+[T.D. 75-194, 40 FR 32321, Aug. 1, 1975, as amended by CBP Dec. 10-29, 75 FR 52451, Aug. 26, 2010; CBP Dec. 16-15, 81 FR 67143, Sept. 30, 2016]

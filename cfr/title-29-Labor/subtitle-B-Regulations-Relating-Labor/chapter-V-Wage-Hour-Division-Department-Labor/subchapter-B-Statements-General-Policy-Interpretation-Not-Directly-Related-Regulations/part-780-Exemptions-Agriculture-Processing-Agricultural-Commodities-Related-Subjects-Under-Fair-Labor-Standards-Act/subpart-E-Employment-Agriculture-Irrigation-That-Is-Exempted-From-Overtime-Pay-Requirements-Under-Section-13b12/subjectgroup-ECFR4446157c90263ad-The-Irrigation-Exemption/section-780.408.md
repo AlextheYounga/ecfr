@@ -1,0 +1,5 @@
+##### § 780.408 Facilities of system at least 90 percent of which was used for agricultural purposes. #####
+
+Section 13(b)(12) requires for exemption of irrigation work that the ditches, canals, reservoirs, or waterways in connection with which the employee's work is done be “used exclusively for supply and storing of water at least 90 percent of which was ultimately delivered for agricultural purposes during the preceding calendar year.” If a water supplier supplies water of which more than 10 percent is used for purposes other than “agricultural purposes” during the preceding calendar year, the exemption would not apply. For example, the exemption would not apply where more than 10 percent of the water supplier's water is delivered to a municipality to be used for general, domestic, and commercial purposes. Water used for watering livestock raised by a farmer is “for agricultural purposes.”
+
+[76 FR 18859, Apr. 5, 2011]

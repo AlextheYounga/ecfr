@@ -1,0 +1,15 @@
+##### § 710.409 Disposal of excess real property. #####
+
+(a) Excess real property outside or within the approved right-of-way limits or other project limits may be sold or conveyed to a public entity or to a private party in accordance with § 710.403(a), (c), (d), (e), (f) and this section. Approval by FHWA is required for disposal of excess real property unless otherwise provided in this section or in the FHWA-SDOT Stewardship/Oversight Agreement.
+
+(b) Federal, State, and local agencies shall be afforded the opportunity to acquire excess real property considered for disposal when such real property interests have potential use for parks, conservation, recreation, or related purposes, and when such a transfer is allowed by State law. When this potential exists, the grantee shall notify the appropriate agencies of its intentions to dispose of the real property interests determined to be excess.
+
+(c) The grantee may decide to retain excess real property to restore, preserve, or improve the scenic beauty and environmental quality adjacent to the transportation facility.
+
+(d) Where the transfer of excess real property to other agencies at less than fair market value for continued public use is clearly justified as in the public interest and approved by FHWA under § 710.403(e), the deed shall provide for reversion of the property for failure to continue public ownership and use. Where property is sold at fair market value, no reversion clause is required.
+
+(e) No FHWA approval is required for disposal of excess real property located outside of the approved ROW limits or other project limits if Federal funds did not participate in the acquisition cost of the real property.
+
+(f) Highway facilities in which Federal funds participated in either the ROW or construction may be relinquished to another governmental agency for continued highway use under the provisions of 23 CFR part 620, subpart B.
+
+(g) A request for approval of a disposal must demonstrate compliance with the requirements of § 710.403(a), (c), (d), (e), (f) and this section. An individual, company, organization, or public agency requesting a grantee to approve of a disposal of excess real property within the approved ROW limits or other project limits, or to approve of a disposal of excess real property outside the ROW limits that was acquired with title 23 of the United States Code funding, shall submit a written request to the grantee, together with an application supporting the proposal. If the FHWA is the approving authority, the grantee shall forward the request, the SDOT recommendation if the proposal affects a Federal-aid highway, the application, and proposed terms and conditions, together with its recommendation and any necessary supplemental information, to FHWA. The submission shall affirmatively provide for adherence to requirements contained in this section and must include the information specified in § 710.405(e)(1) through (9).

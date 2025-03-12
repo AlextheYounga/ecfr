@@ -1,0 +1,7 @@
+##### § 570.101 Introductory statement. #####
+
+(a) This subpart discusses the meaning and scope of the child labor provisions contained in the Fair Labor Standards Act, as amended (hereinafter referred to as the Act). These provisions seek to protect the safety, health, well-being, and opportunities for schooling of youthful workers and authorize the Secretary of Labor to issue legally binding orders or regulations in certain instances and under certain conditions. The child labor provisions are found in sections 3(1), 11(b), 12, 13 (c) and (d), 15(a)(4), 16(a), and 18 of the Act. They are administered and enforced by the Secretary of Labor who has delegated to the Wage and Hour Division the duty of making investigations to obtain compliance, and of developing standards for the issuance of regulations and orders relating to: (1) Hazardous occupations, (2) employment of 14- and 15-year-old children, and (3) age certificates.
+
+(b) The interpretations of the Secretary contained in this subpart indicate the construction of the law which will guide him in performing his duties until he is directed otherwise by authoritative rulings of the courts or until he shall subsequently decide that his prior interpretation is incorrect.
+
+[16 FR 7008, July 20, 1951. Redesignated at 28 FR 1634, Feb. 21, 1963. Redesignated and amended at 36 FR 25156, Dec. 29, 1971]

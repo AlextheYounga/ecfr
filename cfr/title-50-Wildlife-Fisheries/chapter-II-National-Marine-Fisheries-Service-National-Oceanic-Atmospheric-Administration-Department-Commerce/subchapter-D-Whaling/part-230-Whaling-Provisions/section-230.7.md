@@ -1,0 +1,5 @@
+##### § 230.7 Salvage of stinkers. #####
+
+(a) Any person salvaging a stinker shall submit to the Assistant Administrator or his/her representative an oral or written report describing the circumstances of the salvage within 12 hours of such salvage. He/she shall provide promptly to the Assistant Administrator or his/her representative each harpoon, lance, or explosive dart found in or attached to the stinker. The device shall be returned to the owner thereof promptly, unless it is retained as evidence of a possible violation.
+
+(b) There shall be a rebuttable presumption that a stinker has been struck by the captain whose mark appears on the harpoon, lance, or explosive dart found in or attached thereto, and, if no strike has been reported by such captain, such strike shall be deemed to have occurred at the time of recovery of the device.

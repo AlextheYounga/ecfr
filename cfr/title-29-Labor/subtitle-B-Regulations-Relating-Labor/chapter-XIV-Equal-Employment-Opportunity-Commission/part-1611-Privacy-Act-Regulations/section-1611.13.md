@@ -1,0 +1,17 @@
+##### § 1611.13 Specific Exemptions—Charge and complaint files #####
+
+Pursuant to subsection (k)(2) of the Act, 5 U.S.C. 552a(k)(2), systems EEOC-1 (Age and Equal Pay Act Discrimination Case Files), EEOC-3 (Title VII, Americans with Disabilities Act, and GINA Discrimination Case Files), EEOC-15 (Internal Harassment Inquiries) and EEOC/GOVT-1 (Equal Employment Opportunity Complaint Records and Appeal Records) are exempt from subsections (c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I), and (f) of the Privacy Act. The Commission has determined to exempt these systems from the above named provisions of the Privacy Act for the following reasons:
+
+(a) The files in these systems contain information obtained by the Commission and other Federal agencies in the course of harassment inquiries, and investigations of charges and complaints that violations of Title VII of the Civil Rights Act, the Age Discrimination in Employment Act, the Equal Pay Act, the Americans with Disabilities Act, the Rehabilitation Act, and the Genetic Information Nondiscrimination Act have occurred. It would impede the law enforcement activities of the Commission and other agencies if these provisions of the Act applied to such records.
+
+(b) The subject individuals of the files in these systems know that the Commission or their employing agencies are maintaining a file on their charge, complaint, or inquiry, and the general nature of the information contained in it.
+
+(c) Subject individuals of the files in EEOC-1 (Age and Equal Pay Act Discrimination Case Files), EEOC-3 (Title VII, Americans with Disabilities Act, and GINA Discrimination Case Files), and EEOC/GOVT-1 (Equal Employment Opportunity Complaint Records and Appeal Records) have been provided a means of access to their records by the Freedom of Information Act. Subject individuals of the charge files in system EEOC-3 have also been provided a means of access to their records by section 83 of the Commission's Compliance Manual. Subject individuals of the case files in system EEOC/GOVT-1 have also been provided a means of access to their records by the Commission's Equal Employment Opportunity in the Federal Government regulation, 29 CFR 1614.108(f).
+
+(d) Many of the records contained in system EEOC/GOVT-1 are obtained from other systems of records. If such records are incorrect, it would be more appropriate for an individual to seek to amend or correct those records in their primary filing location so that notice of the correction can be given to all recipients of that information.
+
+(e) Subject individuals of the files in each of these systems have access to relevant information provided by the allegedly discriminating employer, accuser or harasser as part of the investigatory process and are given the opportunity to explain or contradict such information and to submit any responsive evidence of their own. To allow such individuals the additional right to amend or correct the records submitted by the allegedly discriminatory employer, accuser or harasser would undermine the investigative process and destroy the integrity of the administrative record.
+
+(f) The Commission has determined that the exemption of these four systems of records from subsections (c)(3), (d), (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I) and (f) of the Privacy Act is necessary for the agency's law enforcement efforts.
+
+[67 FR 72373, Dec. 5, 2002, as amended at 74 FR 63983, Dec. 7, 2009]

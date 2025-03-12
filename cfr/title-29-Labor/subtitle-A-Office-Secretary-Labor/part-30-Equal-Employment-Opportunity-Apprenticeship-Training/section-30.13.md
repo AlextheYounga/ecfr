@@ -1,0 +1,11 @@
+##### § 30.13 Sanctions. #####
+
+(a) Where the Department, as a result of a compliance review or other reason, determines that there is reasonable cause to believe that an apprenticeship program is not operating in accordance with this part and voluntary corrective action has not been taken by the program sponsor, the Department shall institute proceedings to deregister the program or it shall refer the matter to the Equal Employment Opportunity Commission or to the Attorney General with recommendations for the institution of a court action under title VII of the Civil Rights Act of 1964, as amended, or to the Attorney General for other court action as authorized by law.
+
+(b) Deregistration proceedings shall be conducted in accordance with the following procedures:
+
+(1) The Department shall notify the sponsor, in writing, that a determination of reasonable cause has been made under paragraph (a) of this section and that the apprenticeship program may be deregistered unless, within 15 days of the receipt of the notice, the sponsor requests a hearing. The notification shall specify the facts on which the determination is based.
+
+(2) If within 15 days of the receipt of the notice provided for in paragraph (b)(1) of this section the sponsor mails a request for a hearing, the Secretary shall convene a hearing in accordance with § 30.16.
+
+(3) The Secretary shall make a final decision on the basis of the record, which shall consist of the compliance review file and other evidence presented and, if a hearing was conducted pursuant to § 30.16, the proposed findings and recommended decision of the hearing officer. The Secretary may allow the sponsor a reasonable time to achieve voluntary corrective action. If the Secretary's decision is that the apprenticeship program is not operating in accordance with this part, the apprenticeship program shall be deregistered. In each case in which deregistration is ordered, the Secretary shall make public notice of the order and shall notify the sponsor and the complainant, if any.

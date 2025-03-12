@@ -1,0 +1,3 @@
+##### § 367.9010 Account 901, Supervision. #####
+
+This account must include the cost of labor and expenses incurred in the general direction and supervision of customer accounting and collecting activities. Direct supervision of a specific activity must be charged to account 902, Meter reading expenses (§ 367.9020), or account 903, Customer records and collection expenses (§ 367.9030), as appropriate (*See* Operating Expense Instructions in § 367.80).

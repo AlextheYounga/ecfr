@@ -1,0 +1,5 @@
+##### § 906.15 Decisions. #####
+
+(a) After an appellate officer closes the evidentiary portion of the NAO case record, NAO will issue a written decision that is based on the NAO case record. In making a decision, NAO shall determine whether the appellant has shown by a preponderance of the evidence that the initial administrative determination is inconsistent with the law and regulations governing the initial administrative determination. In making a decision, NAO shall give deference to the reasonable interpretation(s) of applicable ambiguous laws and regulations made by the office issuing the initial administrative determination.
+
+(b) NAO shall serve a copy of its decision upon the appellant and the Regional Administrator. NAO will not provide the case record to the Regional Administrator when issuing its decision.

@@ -1,0 +1,7 @@
+##### § 2.500 Penalty reduction/waiver policy for small entities. #####
+
+(a) It is the policy of the Commission that any small entity is eligible to be considered for a reduction or waiver of a civil penalty if it has no history of previous violations, and the violations at issue are not the product of willful or criminal conduct, have not caused loss of life or injury to persons, damage to property or the environment or endangered persons, property or the environment. An eligible small entity will be granted a waiver if it can also demonstrate that it performed timely remedial efforts, made a good faith effort to comply with the law and did not obtain an economic benefit from the violations. An eligible small entity that cannot meet the criteria for waiver of a civil penalty may be eligible for consideration of a reduced penalty. Upon the request of a small entity, the Commission will consider the entity's ability to pay before assessing a civil penalty.
+
+(b) Notwithstanding paragraph (a) of this section, the Commission reserves the right to waive or reduce civil penalties in appropriate individual circumstances where it determines that a waiver or reduction is warranted by the public interest.
+
+[Order 594, 62 FR 15830, Apr. 3, 1997]

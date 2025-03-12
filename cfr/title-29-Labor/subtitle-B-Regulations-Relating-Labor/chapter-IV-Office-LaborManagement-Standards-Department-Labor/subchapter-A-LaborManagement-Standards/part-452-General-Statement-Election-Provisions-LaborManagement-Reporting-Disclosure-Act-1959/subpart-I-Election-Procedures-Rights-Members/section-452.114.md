@@ -1,0 +1,3 @@
+##### § 452.114 Write-in votes. #####
+
+Where write-in votes are permitted in an election subject to title IV, details of the format of the ballot are left to the discretion of the union. Ordinarily, the Secretary would become involved in such matters only in the context of an election complaint under section 402 and then only if the arrangements for write-in votes were so unreasonable that the outcome of the election may have been affected. Of course, a union may, in accordance with its constitution and bylaws or as a matter of stated policy, refuse to permit write-in votes.

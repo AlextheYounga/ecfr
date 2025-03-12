@@ -1,0 +1,5 @@
+##### § 212.07 Rulemaking on maximum rates for attorney fees. #####
+
+(a) If warranted by an increase in the cost of living or by special circumstances (such as limited availability of attorneys qualified to handle certain types of proceedings), the Commission may adopt regulations providing that attorney fees may be awarded at a rate higher than $75 per hour in the proceedings covered by this part. The Commission will conduct any rulemaking proceedings for this purpose under the informal rulemaking procedures of the Administrative Procedure Act.
+
+(b) Any person may file with the Commission a petition for rulemaking to increase the maximum rate for attorney fees. The petition should identify the rate the petitioner believes the Commission should establish. It should also explain fully the reasons why the higher rate is warranted. The Commission will respond to the petition within 60 days after it is filed by initiating a rulemaking proceeding, denying the petition, or taking other appropriate action.

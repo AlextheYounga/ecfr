@@ -1,0 +1,104 @@
+##### § 10.59 Exemption from customs duties and internal-revenue tax. #####
+
+(a) A vessel shall not be considered to be actually engaged in the foreign trade, or in trade between the Atlantic and Pacific ports of the United States, or between the United States and its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States, as the case may be, for the purpose of withdrawing supplies free of duty and internal-revenue tax pursuant to section 309(a), Tariff Act of 1930, as amended, unless it is—
+
+(1) Operating on a regular schedule in a class of trade which entitles it to the privilege;
+
+(2) Actually transporting passengers or merchandise to or from a foreign port, a port on the opposite coast of the United States, or between a port in a possession of the United States and a port in the United States or in another of its possessions, or between Hawaii and any other part of the United States or between Alaska and any other part of the United States;
+
+(3) Departing in ballast (without cargo or passengers) from one port for another, domestic or foreign, for the purpose of lading passengers or cargo at the port of destination for carriage in a class of trade specified in section 309(a), Tariff Act of 1930, as amended, for which class of trade the vessel is suitable and substantially ready for service with necessary fittings, outfit, and equipment already installed on its departure in ballast, and from which it is not diverted prior to carriage of passengers or cargo in such trade. A written declaration of the owner or agent of the vessel may be required in connection with the withdrawal, certifying to the vessel's suitableness and substantial readiness with necessary fittings, outfit, and equipment already installed on its departure in ballast for service in a class of trade specified in section 309 and agreeing to notify the port director if it is laid up or diverted from such class of trade prior to the carriage of cargo or passengers in such trade.
+
+(b) A withdrawal of articles may not be made under section 309, Tariff Act of 1930, as amended, for use on a trial or test trip of a vessel preparatory to its actually engaging in trades.
+
+(c) The classes of articles which may be withdrawn as provided for by section 309, Tariff Act of 1930, as amended, include the containers in which the articles are withdrawn and laden even though for tariff purposes the containers are classifiable separately from their contents, except unusual containers within the purview of General Rule of Interpretation 5, Harmonized Tariff Schedule of the United States (HTSUS).
+
+(d) For the purpose of allowing the privileges of section 309, Tariff Act of 1930, as amended, to aircraft as provided for therein, an aircraft shall be deemed to be a vessel within the meaning of each provision of this section and of §§ 10.60 through 10.64 which may be applied to aircraft.
+
+(e) A documented vessel with a fisheries license endorsement and foreign fishing vessels of 5 net tons or over may be allowed to withdraw distilled spirits (including alcohol), wines, and beer conditionally free under section 309, Tariff Act of 1930, as amended (19 U.S.C. 1309), if the port director is satisfied from the quantity requested, in the light of (1) whether the vessel is employed in substantially continuous fishing activities, and (2) the vessel's complement, that none of the withdrawn articles is intended to be removed from the vessel in, or otherwise returned to, the United States without the payment of duty or tax. Such withdrawal shall be permitted only after the approval by the port director of a special written application, in triplicate, on Customs Form 5125, of the withdrawer, supported by a bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter executed by the withdrawer. Such application shall be filed with Customs Form 7501, or its electronic equivalent, or 7512, as the case may be. The original and the triplicate copy of the application, after approval, shall be stamped with the withdrawal number and date thereof and shall be returned to the withdrawer for use as prescribed below. Approval of each such application shall be subject to the condition that the original and the triplicate copy shall be presented thereafter by the withdrawer or the vessel's master to the port director within 24 hours (excluding Saturday, Sunday, and holidays) after each subsequent arrival of the vessel at a Customs port or station and that an accounting shall be made at the time of such presentation of the disposition of the articles until the port director is satisfied that all of them have been consumed on board, or landed under Custom's supervision, and takes up the original application. (The withdrawer shall retain the triplicate copy as evidence of consumption on board or landing under Customs supervision.) The approval shall be subject to the further conditions that any such withdrawn article remaining on board while the vessel is in port shall be safeguarded in the manner and to such extent as the district director for the port or place of arrival shall deem necessary and that failure to comply with the conditions upon which a conditionally free withdrawal is approved shall subject the total quantity of withdrawn articles to the assessment and collection of an amount equal to the duties and taxes that would have been assessed on the entire quantity of supplies withdrawn had such supplies been regularly entered, or withdrawn, for consumption.
+
+Exemption from internal-revenue tax on distilled spirits, alcohol, wines, and beer removed from any internal-revenue bonded warehouse, industrial alcohol premises, bonded wine cellar, or brewery; and drawback on taxpaid distilled spirits or wines removed from an export storage room, or on taxpaid beer removed from a brewery (or place of storage elsewhere), for use as supplies on vessels under section 309, Tariff Act of 1930, as amended, are governed by regulations of the Internal Revenue Service.
+
+(f) Pursuant to section 309(d) of the Tariff Act of 1930, as amended, the Department of Commerce has found and advised the Secretary of the Treasury of the foreign countries which allow privileges to aircraft registered in the United States substantially reciprocal to those described in sections 309 and 317 of the Tariff Act of 1930, as amended. Advices also have been received of changes and limitations of privileges allowed. In accordance with these advices, Treasury decisions are issued extending to the aircraft of foreign countries free withdrawal privileges reciprocal to those found by the Secretary of Commerce to be extended by those countries to aircraft registered in the United States or making changes in such privileges on the basis of new findings. Listed below by countries are the Treasury decisions issued pursuant to such findings which are currently in effect:
+
+|              Country              |Treasury Decision(s) |                                       Exceptions if any, as noted—                                        |
+|-----------------------------------|---------------------|-----------------------------------------------------------------------------------------------------------|
+|             Abu Dhabi             |        95-45        |                                                                                                           |
+|             Argentina             |54925 (1)  <br/>92-20|                   Applicable only as to aircraft equipment, spare parts, and supplies.                    |
+|             Australia             |      54747 (1)      |                                    Not applicable to ground equipment.                                    |
+|              Austria              |        80-68        |                                                                                                           |
+|              Bahamas              |      52798 (3)      |                                                                                                           |
+|              Bahrain              |        95-45        |                                                                                                           |
+|              Belgium              |      52846 (2)      |                                                                                                           |
+|               Benin               |     71-215,93-      |                                                                                                           |
+|              Bermuda              |      49944 (4)      |                                                                                                           |
+|              Brazil               |      53281 (2)      |                                                                                                           |
+|              Canada               | 69-149  <br/>69-245 |         Not applicable to ground equipment during period May 1 to September 16, 1969, inclusive.          |
+|               Chile               |     66-128 (2)      |                                                                                                           |
+|              China\*              |        82-91        |                                                                                                           |
+|             Colombia              |     70-107 (1)      |                                                                                                           |
+|            Costa Rica             |      53658 (1)      |                                                                                                           |
+|               Cuba                |       81-198        |                                 Applicable only as to aircraft supplies.                                  |
+|          Czechoslovakia           |     70-107 (1)      |                                                                                                           |
+|              Denmark              |      51966 (3)      |                                                                                                           |
+|        Dominican Republic         |      54522 (1)      |                                                                                                           |
+|              Ecuador              |      52510 (4)      |                                                                                                           |
+|               Egypt               |  74-3  <br/>85-141  |                                                                                                           |
+|            El Salvador            |      54675 (1)      |                                                                                                           |
+|              Finland              |     69-120 (2)      |                                                                                                           |
+|              France               |      67-96 (1)      |Not applicable to tobacco products under section 317 of the tariff act. Not applicable to ground equipment.|
+|    Federal Republic of Germany    |       69-150        |                                    Not applicable to ground equipment.                                    |
+|              Greece               |      54847 (1)      |                                                                                                           |
+|              Guyana               |        78-28        |                                                                                                           |
+|             Honduras              |       71-154        |                                                                                                           |
+|              Iceland              |     67-265 (1)      |                                                                                                           |
+|               India               |      55155 (1)      |                                                                                                           |
+|             Indonesia             |        90-61        |                           Applicable only as to aviation fuels and lubricants.                            |
+|               Iran                |       75-254        |                                                                                                           |
+|              Ireland              |      55291 (1)      |                                                                                                           |
+|              Israel               |      52831 (3)      |                                                                                                           |
+|               Italy               |       69-223        |                                    Not applicable to ground equipment.                                    |
+|            Ivory Coast            |       71-215        |                                                                                                           |
+|              Jamaica              |       70-250        |                                                                                                           |
+|               Japan               |  53550 (1), 88-45   |                      Not applicable to ground support equipment as of August 1, 1986                      |
+|              Jordan               |       74-102        |                                                                                                           |
+|               Kenya               |       71-102        |                           Applicable only as to aircraft fuels and lubricants.                            |
+|              Lebanon              |      53902 (1)      |                                                                                                           |
+|            Luxembourg             |        89-77        |                                   Applicable only as to aviation fuels.                                   |
+|              Mexico               |      54506 (5)      |                                                                                                           |
+|              Morocco              |       75-254        |                                                                                                           |
+|            Netherlands            |      52494 (2)      |                                                                                                           |
+|       Netherlands Antilles        |       71-211        |                                                                                                           |
+|            New Zealand            |        73-52        |                                    Not applicable to ground equipment.                                    |
+|             Nicaragua             |      54640 (1)      |                                                                                                           |
+|              Norway               |      51966 (3)      |                                                                                                           |
+|               Oman                |        95-45        |                                                                                                           |
+|             Pakistan              |      55416 (1)      |                                                                                                           |
+|              Panama               |      55453 (1)      |                                                                                                           |
+|               Peru                |      52911 (2)      |                                                                                                           |
+|              Poland               |       72-153        |                                                                                                           |
+|             Portugal              |     68-107 (1)      |                                    Not applicable to ground equipment.                                    |
+|               Qatar               |        95-45        |                                                                                                           |
+|         Republic of Korea         |       71-140        |                                                                                                           |
+|    Republic of the Philippines    |       71-197        |                                                                                                           |
+|              Romania              |        75-35        |                                                                                                           |
+|           Saudi Arabia            |    73-307, 92-68    |                                                                                                           |
+|              Senegal              |       71-215        |                                                                                                           |
+|             Singapore             |        93-25        |                                                                                                           |
+|           South Africa            |       69-162        |                                    Not applicable to ground equipment.                                    |
+|               Spain               |      54522 (2)      |                                                                                                           |
+|              Sweden               |      51966 (3)      |                                                                                                           |
+|            Switzerland            |        56047        |                                                                                                           |
+|              Taiwan               |  70-107 (1), 82-91  |                                    Not applicable to ground equipment.                                    |
+|             Tanzania              |       71-102        |                           Applicable only as to aircraft fuels and lubricants.                            |
+|             Thailand              |    71-138, 89-6     |                                                                                                           |
+|        Trinidad and Tobago        |      56441 (1)      |                                                                                                           |
+|              Turkey               |        89-7         |                                                                                                           |
+|              Uganda               |       71-102        |                           Applicable only as to aircraft fuels and lubricants.                            |
+|Union of Soviet Socialist Republics|     67-123 (1)      |                                                                                                           |
+|          United Kingdom           |       69-176        |                                    Not applicable to ground equipment.                                    |
+|             Venezuela             |      55425 (1)      |                                                                                                           |
+|            Yugoslavia             |       71-138        |                                                                                                           |
+|              Zambia               |        89-5         |                                                                                                           |
+|         \*See also Taiwan         |                     |                                                                                                           |
+
+[28 FR 14663, Dec. 31, 1963]Editorial Note:For Federal Register citations affecting § 10.59, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

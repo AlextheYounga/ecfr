@@ -1,0 +1,5 @@
+##### § 20.28 DOL agency as organization holding funds of the debtor. #####
+
+(a) Whenever a DOL agency is holding funds of a debtor from which administrative offset is sought by another DOL agency or other Federal agency, the DOL agency holding funds should not initiate the requested offset until it has been provided by the creditor organization with an appropriate written certification that the debtor owes a debt (including the amount) and that applicable provisions of the Federal Claims Collection Standards have been fully complied with.
+
+(b) Moreover, the DOL agency holding funds of the debtor should determine whether collection by offset would be in the best interests of the United States; for example, if the debtor is a contractor for the DOL agency holding funds, whether administrative offset would impair the contractor's ability to perform under the terms of the contract. The creditor organization should be notified promptly of the determination.

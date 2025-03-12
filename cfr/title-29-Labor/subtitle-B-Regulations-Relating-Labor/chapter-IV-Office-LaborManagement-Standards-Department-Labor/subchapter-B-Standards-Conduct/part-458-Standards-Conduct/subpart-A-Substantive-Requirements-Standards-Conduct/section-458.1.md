@@ -1,0 +1,5 @@
+##### § 458.1 General. #####
+
+The term *LMRDA* means the Labor-Management Reporting and Disclosure Act of 1959, as amended (29 U.S.C. 401 *et seq.*). Unless otherwise provided in this part or in the CSRA or FSA, any term in any section of the LMRDA which is incorporated into this part by reference, and any term in this part which is also used in the LMRDA, shall have the meaning which that term has under the LMRDA, unless the context in which it is used indicates that such meaning is not applicable. In applying the standards contained in this subpart the Director will be guided by the interpretations and policies followed by the Department of Labor in applying the provisions of the LMRDA and by applicable court decisions.
+
+[45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, as amended at 78 FR 8026, Feb. 5, 2013]

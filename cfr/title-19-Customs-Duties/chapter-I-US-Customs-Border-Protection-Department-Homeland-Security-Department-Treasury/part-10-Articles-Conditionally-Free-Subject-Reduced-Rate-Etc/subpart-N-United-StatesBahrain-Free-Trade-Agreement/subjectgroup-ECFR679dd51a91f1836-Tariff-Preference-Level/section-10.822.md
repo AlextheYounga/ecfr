@@ -1,0 +1,11 @@
+##### § 10.822 Transshipment of non-originating fabric or apparel goods. #####
+
+(a) *General.* To qualify for preferential tariff treatment under an applicable TPL, a good must be imported directly from the territory of a Party into the territory of the other Party. For purposes of this subpart, the words “imported directly” mean:
+
+(1) Direct shipment from the territory of a Party into the territory of the other Party without passing through the territory of a non-Party; or
+
+(2) If the shipment passed through the territory of a non-Party, the good, upon arrival in the territory of a Party, will be considered to be “imported directly” only if the good did not undergo production, manufacturing, or any other operation outside the territories of the Parties, other than unloading, reloading, or any other operation necessary to preserve the good in good condition or to transport the good to the territory of a Party. Operations that may be performed outside the territories of the Parties include inspection, removal of dust that accumulates during shipment, ventilation, spreading out or drying, chilling, replacing salt, sulfur dioxide, or aqueous solutions, replacing damaged packing materials and containers, and removal of units of the good that are spoiled or damaged and present a danger to the remaining units of the good, or to transport the good to the territory of a Party.
+
+(b) *Documentary evidence.* An importer making a claim for preferential tariff treatment under an applicable TPL may be required to demonstrate, to CBP's satisfaction, that the good was “imported directly” from the territory of a Party into the territory of the other Party, as that term is defined in paragraph (a) of this section. An importer may demonstrate compliance with this section by submitting documentary evidence. Such evidence may include, but is not limited to, bills of lading, airway bills, packing lists, commercial invoices, receiving and inventory records, and customs entry and exit documents.
+
+[CBP Dec. 07-81, 72 FR 58515, Oct. 16, 2007, as amended by CBP 08-28, 73 FR 42681, July 23, 2008; CBP Dec. 09-17, 74 FR 23951, May 22, 2009]

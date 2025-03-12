@@ -1,0 +1,9 @@
+##### § 5.87 Testimony of FEMA employees in private litigation. #####
+
+(a) No FEMA employee shall testify in response to a subpoena or other demand in private litigation as to any information relating to material contained in the files of the Agency, or any information acquired as part of the performance of that person's official duties or because of that person's official status, including the meaning of Agency documents.
+
+(b) Whenever a demand is made upon a FEMA employee, for the disclosure of information described in paragraph (a) of this section, that employee shall immediately notify the Office of Chief Counsel. The Chief Counsel, upon receipt of such notice and absent waiver of the general prohibition against employee testimony at his or her discretion, shall arrange with the appropriate United States Attorney the taking of such steps as are necessary to quash the subpoena or seek a protective order.
+
+(c) In the event that an immediate demand for testimony or disclosure is made in circumstances which would preclude prior notice to and consultation with the Chief Counsel, the employee shall respectfully request from the demanding authority a stay in the proceedings to allow sufficient time to obtain advice of counsel.
+
+(d) If the court or other authority declines to stay the effect of the demand in response to a request made in accordance with paragraph (c) of this section pending consultation with counsel, or if the court or other authority rules that the demand must be complied with irrespective of instructions not to testify or disclose the information sought, the employee upon whom the demand has been made shall respectfully decline to comply with the demand, citing these regulations and *United States ex rel. Touhy* v. *Ragen,* 340 U.S. 462 (1951).

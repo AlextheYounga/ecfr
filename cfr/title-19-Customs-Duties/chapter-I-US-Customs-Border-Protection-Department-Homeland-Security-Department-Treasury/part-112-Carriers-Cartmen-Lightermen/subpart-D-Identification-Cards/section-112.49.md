@@ -1,0 +1,11 @@
+##### § 112.49 Temporary identification cards. #####
+
+(a) *Issuance.* When an identification card is required by the port director under § 112.41, and the port director determines that the application for the identification card cannot be administratively processed in a reasonable period of time, any licensed cartman or lighterman may upon written request have a temporary identification card issued by the port director to his employee if he can show to the satisfaction of the port director that a hardship to his business would result pending issuance of an identification card.
+
+(b) *Validity and renewal.* The temporary identification card shall be valid for a period of 60 days. The port director may renew the temporary identification card for additional 30-day periods if he feels that the circumstances under which the temporary identification card was originally issued continue to exist. The temporary identification card shall be returned by the holder or licensee to the port director when the identification card is issued or the privileges granted thereby are withdrawn.
+
+(c) *Withdrawal of temporary card.* The temporary identification card may be withdrawn at any time if in the judgment of the port director continuation of the privileges granted thereby would endanger the revenue or if the holder of the temporary identification card refuses or neglects to obey any proper order of a Customs officer or any Customs order, rule, or regulation.
+
+(d) *Bond.* The licensed cartman or lighterman shall as a condition precedent to the issuance of a temporary identification card to his employee be required to post a bond in a penal sum, the amount to be determined by the port director, to guarantee return of the temporary identification card by the holder upon its withdrawal or upon issuance of a permanent identification card and to cover any loss or damage caused to the United States by the holder of the temporary identification card. The bond shall be on Customs Form 301 and contain the bond conditions set forth in § 113.63 of this chapter and be in such amount as determined by the port director.
+
+[T.D. 73-140, 38 FR 13551, May 23, 1973, as amended by T.D. 84-213, 49 FR 41171, Oct. 19, 1984]

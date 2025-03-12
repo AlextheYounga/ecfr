@@ -1,0 +1,5 @@
+##### § 779.366 Recapping or retreading tires for sale. #####
+
+(a) Some automotive tire establishments engage in recapping and retreading work on tires which the establishment expects to sell in their reconditioned form. Such activities are not performed as a service for a customer but constitute manufacturing goods for sale. Employees performing such work may be exempt only if they are employed by an establishment which meets all the requirements of the 13(a)(4) exemption.
+
+(b) For purposes of meeting the retail recognition requirement of section 13(a)(4), an establishment engaged in retreading or recapping of tires which qualifies for exemption under section 13(a)(2) is recognized as a retail establishment in the industry if not more than 50 percent of the annual dollar volume of its sales resulting from its retreading and recapping operations comes from the sale of tires retreaded and recapped for sale.

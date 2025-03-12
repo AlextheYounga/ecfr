@@ -1,0 +1,3 @@
+##### § 111.34 Undue influence upon Department of Homeland Security employees. #####
+
+A broker must not influence or attempt to influence the conduct of any representative of the Department of Homeland Security in any matter pending before the Department of Homeland Security or any representative of the Department of Homeland Security by the use of duress or a threat or false accusation, or by the offer of any special inducement or promise of advantage, or by bestowing any gift or favor or other thing of value.

@@ -1,0 +1,3 @@
+##### § 4050.1 Purpose and scope. #####
+
+This part prescribes rules for distributing benefits under a terminating single-employer plan for any individual whom the plan administrator has not located when distributing benefits under § 4041.28 of this chapter. This part applies to a plan if the plan's deemed distribution date (or the date of a payment made in accordance with § 4050.12) is in a plan year beginning on or after January 1, 1996.

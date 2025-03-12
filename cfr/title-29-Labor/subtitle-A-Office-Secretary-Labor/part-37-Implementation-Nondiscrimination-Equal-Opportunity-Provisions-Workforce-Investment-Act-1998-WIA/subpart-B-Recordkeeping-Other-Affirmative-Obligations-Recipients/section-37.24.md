@@ -1,0 +1,3 @@
+##### § 37.24 Who is eligible to serve as an Equal Opportunity Officer? #####
+
+A senior-level employee of the recipient should be appointed as the recipient's Equal Opportunity Officer. Depending upon the size of the recipient, the size of the recipient's WIA Title I-financially assisted programs or activities, and the number of applicants, registrants, and participants served by the recipient, the EO Officer may, or may not, be assigned other duties. However, he or she must not have other responsibilities or activities that create a conflict, or the appearance of a conflict, with the responsibilities of an EO Officer.

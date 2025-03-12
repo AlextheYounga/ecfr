@@ -1,0 +1,3 @@
+##### § 350.10 Liability of Federal Reserve Banks as Depositories. #####
+
+The Federal Reserve Banks as Depositories may rely on the information provided in a Transfer Message, and are not required to verify the information. The Federal Reserve Banks as Depositories shall not be liable for any action taken in accordance with the information set out in a Transfer Message, or evidence submitted in support thereof.

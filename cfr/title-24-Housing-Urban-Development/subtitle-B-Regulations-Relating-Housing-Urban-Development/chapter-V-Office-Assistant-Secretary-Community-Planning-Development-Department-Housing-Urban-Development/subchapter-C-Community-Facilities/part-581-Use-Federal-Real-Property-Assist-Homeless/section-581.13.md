@@ -1,0 +1,3 @@
+##### § 581.13 Waivers. #####
+
+The Secretary may waive any requirement of this part that is not required by law, whenever it is determined that undue hardship would result from applying the requirement, or where application of the requirement would adversely affect the purposes of the program. Each waiver will be in writing and will be supported by documentation of the pertinent facts and grounds. The Secretary periodically will publish notice of granted waivers in the Federal Register.

@@ -1,0 +1,5 @@
+##### § 15.17 Demands or requests in legal proceedings for records protected by confidentiality statutes. #####
+
+Demands in legal proceedings for the production of records, or for the testimony of Department employees regarding information protected by the Privacy Act, 5 U.S.C. 552a, the Trade Secrets Act, 18 U.S.C. 1905 or other confidentiality statutes, must satisfy the requirements for disclosure set forth in those statutes before the records may be provided or testimony given. The General Counsel, or the Solicitor, or appropriate agency counsel should first determine if there is a legal basis to provide the testimony or records sought under applicable confidentiality statutes before applying §§ 15.11 through 15.18. Where an applicable confidentiality statute mandates disclosure, §§ 15.11 through 15.18 will not apply.
+
+[60 FR 9291, Feb. 17, 1995. Redesignated and amended at 62 FR 19669, 19670, Apr. 23, 1997]

@@ -1,0 +1,3 @@
+##### § 148.0 Scope. #####
+
+This part contains the regulations governing the allowance of exemptions for residents and nonresidents arriving in the United States, for crewmembers of carriers engaged in international traffic, for military and civilian employees of the United States, for certain evacuees, and for certain personnel of foreign governments and international organizations. Procedures and requirements are also set forth pertaining to registration of articles to be taken abroad, declaration and entry, and examination of baggage, and collection of duties and taxes.

@@ -1,0 +1,5 @@
+##### § 35.11 Waiver of notice requirement. #####
+
+Upon application and for good cause shown, the Commission may, by order, provide that a rate schedule or tariff, tariff or service agreement, or part thereof, shall be effective as of a date prior to the date of filing or prior to the date the rate schedule or tariff, tariff or service agreement would become effective in accordance with these rules. Application for waiver of the prior notice requirement shall show (a) how and the extent to which the filing public utility and purchaser(s) under such rate schedule or tariff, tariff or service agreement, or part thereof, would be affected if the notice requirement is not waived, and (b) the effects of the waiver, if granted, upon purchasers under other rate schedules. The filing public utility requesting such waiver of notice shall serve copies of its request therefor upon all purchasers.
+
+[Order 271, 28 FR 10573, Oct. 2, 1963, as amended by Order 714, 73 FR 57532, 57533, Oct. 3, 2008]

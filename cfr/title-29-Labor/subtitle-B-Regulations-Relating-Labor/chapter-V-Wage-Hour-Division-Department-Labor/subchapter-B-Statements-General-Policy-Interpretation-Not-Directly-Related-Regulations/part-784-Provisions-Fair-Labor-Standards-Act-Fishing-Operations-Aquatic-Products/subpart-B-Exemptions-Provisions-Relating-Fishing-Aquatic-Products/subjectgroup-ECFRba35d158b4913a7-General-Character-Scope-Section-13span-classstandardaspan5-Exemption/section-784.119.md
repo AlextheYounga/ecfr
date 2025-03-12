@@ -1,0 +1,3 @@
+##### § 784.119 Effect of natural factors on named operations. #####
+
+The various activities enumerated in section 13(a)(5)—the catching, taking, propagating, harvesting, cultivating, or farming of aquatic forms of animal or vegetable life as well as “the going to and returning from work” are materially controlled and affected by the natural elements. Similarly, the activities of “first processing, canning, or packing of such marine products at sea as an incident to, or in conjunction with, such fishing operations” are subject to the natural factors mentioned above. The “loading and unloading” of such aquatic products when performed at sea are also subject to the natural forces.

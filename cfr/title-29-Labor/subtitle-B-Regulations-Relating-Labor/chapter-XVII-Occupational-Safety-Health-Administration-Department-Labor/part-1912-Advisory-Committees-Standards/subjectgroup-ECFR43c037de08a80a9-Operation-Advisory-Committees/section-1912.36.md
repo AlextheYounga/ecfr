@@ -1,0 +1,7 @@
+##### § 1912.36 Advice of advisory committees. #####
+
+(a) Approval by a majority of all members of an advisory committee is encouraged for rendering advice or making recommendations. However, a failure to marshal a majority of all members of an advisory committee shall not be a reason for not giving advice to the Assistant Secretary. The Assistant Secretary shall be informed of any concurring or dissenting views.
+
+(b) An advisory committee shall submit to the Assistant Secretary its recommendations within 90 days from the date of its commencement of its assigned tasks, or within such longer or shorter period otherwise prescribed by the Assistant Secretary or one of his representatives. If a committee believes that it cannot submit its recommendations within the applicable period, its chairman may make a written request for an extension of time to the Director of the Office of Standards, before the expiration of the period. The Director of the Office of Standards may grant such a request, provided that the period of the extension or extensions, together with the original period for the submission of recommendations, is not longer than 270 days from the date the advisory committee commenced its assigned tasks.
+
+(c) In a case where an advisory committee has not submitted its recommendations by the end of the applicable period therefor, the Assistant Secretary may dissolve the committee and direct the immediate transmittal to him of any materials submitted to, or prepared by, the advisory committee.

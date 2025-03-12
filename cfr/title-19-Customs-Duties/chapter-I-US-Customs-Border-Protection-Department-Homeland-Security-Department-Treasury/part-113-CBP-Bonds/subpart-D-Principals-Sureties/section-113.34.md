@@ -1,0 +1,5 @@
+##### § 113.34 Co-principals. #####
+
+A bond with a co-principal may be used by a person having a distinct legal status (e.g., individual, partnership, corporation) to join another person with the same distinct legal status on the bond. A bond with a co-principal may not be used to join an entity which does not have a distinct legal status (e.g. an unincorporated division of a corporation). However, an entity which does not have a distinct legal status may use another bond if listed on the bond by the principal at the time of execution or by subsequent rider (see § 113.24). A bond with co-principal may not be used to join different legal entities (e.g. an individual and a corporation, a partnership and a corporation).
+
+[T.D. 84-213, 49 FR 41171, Oct. 19, 1984, as amended by CBP Dec. 15-15, 80 FR 70165, Nov. 13, 2015]

@@ -1,0 +1,3 @@
+##### § 127.23 Appraisement of merchandise. #####
+
+Before unclaimed and abandoned merchandise is offered for sale, it shall be appraised in accordance with sections 402 and 402a, Tariff Act of 1930, as amended (19 U.S.C. 1401a, 1402). Such merchandise shall also be appraised at its actual domestic value in its condition at the time and place of examination, whether or not it has depreciated or appreciated in value since the date of exportation. The quantity of merchandise in each lot shall be reported.

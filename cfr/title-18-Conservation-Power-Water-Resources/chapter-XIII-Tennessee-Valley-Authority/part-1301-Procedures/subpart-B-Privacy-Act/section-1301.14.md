@@ -1,0 +1,17 @@
+##### § 1301.14 Times, places, and requirements for identification of individuals making requests. #####
+
+(a) TVA will require proof of identity, in accordance with this section, before it will disclose a record under § 1301.15 of this part to an individual requesting access to the record, and before it will disclose the existence of a record to a requester under § 1301.13 of this part, if TVA determines that disclosure of the existence of such record would constitute an unwarranted invasion of personal privacy.
+
+(b) Identification normally required would be an identification card such as a valid state driver's license or TVA or other employee identification card. A comparison of the signature of the requester with either the signature on the card or a signature in the record may be used to confirm identity.
+
+(c) Because of the sensitivity of the subject matter in a TVA system, a TVA system notice may prescribe special identification requirements for the disclosure of the existence of or access to records in that TVA system. In such case, the special identification requirements prescribed in the TVA system notice shall apply in lieu of those prescribed by paragraph (b) of this section.
+
+(d) If TVA deems it warranted by the nature of identification presented, the subject matter of the material to be disclosed, or other reasons found by TVA to be sufficient, TVA may require the individual requesting access to sign a statement asserting identity and stating that the individual understands that knowingly or willfully seeking or obtaining access to records about another person under false pretenses is punishable by a fine of up to $5,000.
+
+(e) Where TVA is requested to provide access to records by mailing copies of records to the requester, the request shall contain or be accompanied by adequate identifying information to make it likely the requester is the person he purports to be and a notarized statement asserting identity and stating that the individual understands that knowingly or willfully seeking or obtaining access to records about another person under false pretenses is punishable by a fine of up to $5,000.
+
+(f) Where sensitivity of record information may warrant (i.e., unauthorized access could cause harm or embarrassment to the individual) or disclosure by mail to third persons is requested, TVA may require in-person confirmation of identity. If in-person confirmation of identity is required, the individual may arrange with the designated TVA official to provide such identification at any of these TVA locations convenient to the individual: Knoxville, Nashville, and Chattanooga, Tennessee; Muscle Shoals, Alabama; Washington, DC, or another location agreed upon by the individual and the designated TVA official. Upon request the TVA official will provide an address and an appropriate time for such identification to be presented.
+
+(g) In general, TVA offices located in the Eastern Time zone are open 8 a.m. to 4:45 p.m., and those in the Central Time zone 7:30 a.m. to 4:15 p.m. Offices are closed on Saturdays, Sundays, and the following holidays: New Year's Day, Birthday of Martin Luther King, Jr., Presidents' Day, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans Day, Thanksgiving Day, and Christmas Day.
+
+[40 FR 45313, Oct. 1, 1975. Redesignated at 44 FR 30682, May 29, 1979, and amended at 53 FR 30253, Aug. 11, 1988; 75 FR 11736, Mar. 12, 2010]

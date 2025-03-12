@@ -1,0 +1,5 @@
+##### § 908.108 Cost. #####
+
+(a) *General.* The costs of the electronic transmission of the correctly formatted data, including either the purchase and maintenance of computer hardware or software, or both, the cost of contracting for those services, or the cost of centralizing the electronic transmission function, shall be considered Section 8 Administrative expenses, or eligible public and Indian housing operating expenses that can be included in the public and Indian housing operating budget. At the HA's option, the cost of the computer software may include service contracts to provide maintenance or training, or both.
+
+(b) *Sources of funding.* For public and Indian housing, costs may be covered from operating subsidy for which the HA is already eligible, or the initial cost may be covered by funds received by the HA under HUD's Comprehensive Improvement Assistance Program (CIAP) or Comprehensive Grant Program (CGP). For Section 8 programs, the costs may be covered from ongoing administrative fees or the Section 8 operating reserve.

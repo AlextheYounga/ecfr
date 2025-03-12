@@ -1,0 +1,5 @@
+##### § 230.6 Quotas and other restrictions. #####
+
+(a) Quotas for aboriginal subsistence whaling shall be set in accordance with the regulations of the Commission. Quotas shall be allocated to each whaling village or captain by the appropriate Native American whaling organization. The Assistant Administrator shall publish in the Federal Register, at least annually, aboriginal subsistence whaling quotas and any other limitations on aboriginal subsistence whaling deriving from regulations of the Commission. These quotas and restrictions shall also be incorporated in the relevant cooperative agreements.
+
+(b) The relevant Native American whaling organization shall monitor the whale hunt and keep tally of the number of whales landed and struck. When a quota is reached, the organization shall declare the whaling season closed, and there shall be no further whaling under that quota during the calendar year. If the organization fails to close the whaling season after the quota has been reached, the Assistant Administrator may close it by filing notification in the Federal Register.

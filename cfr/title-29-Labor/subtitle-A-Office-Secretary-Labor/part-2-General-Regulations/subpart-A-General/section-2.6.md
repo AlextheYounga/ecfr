@@ -1,0 +1,7 @@
+##### § 2.6 Claims collection. #####
+
+(a) *Authority of Department; incorporation by reference.* The regulations in this section are issued under section 3 of the Federal Claims Collection Act of 1966, 31 U.S.C. 952. They incorporate herein and supplement as necessary for Department operation all provisions of the Joint Regulations of the Attorney General and the Comptroller General set forth in 4 CFR chap. II, which prescribe standards for administrative collection of civil claims by the Government for money or property, for the compromise, termination, or suspension of collection action, with respect to claims not exceeding $20,000, exclusive of interest, and for the referral of civil claims by the Government to the Government Accountability Office, and to the Department of Justice for litigation.
+
+(b) *Designation.* The Assistant Secretary for Administration and Management, and such heads of the Administrations and Offices of the Department of Labor as he may designate for such purpose, is authorized to perform all of the duties and exercise all of the authority of the Secretary under the Federal Claims Collection Act of 1966, the aforementioned Joint Regulations of the Attorney General and the Comptroller General, and the regulations in this section.
+
+(Sec. 3, 80 Stat. 309; 31 U.S.C. 952)[34 FR 9122, June 10, 1969, as amended at 72 FR 37098, July 9, 2007]

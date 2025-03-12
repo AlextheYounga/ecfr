@@ -1,0 +1,3 @@
+##### § 784.109 Manufacture of supplies for named operations is not exempt. #####
+
+Employment in the manufacture of supplies for the named operations is not employment in the named operations on aquatic forms of life. Thus, the exemption is not applicable to the manufacture of boxes, barrels, or ice by a seafood processor for packing or shipping its seafood products or for use of the ice in its fishing vessels. These operations, when performed by an independent manufacturer, would likewise not be exempt (*Dize* v. *Maddix,* 144 F. 284 (C.A. 4), affirmed 324 U.S. 667, and approved on this point in *Farmers' Reservoir Co.* v. *McComb,* 337 U.S. 755).

@@ -1,0 +1,7 @@
+##### § 780.332 Exchange of labor between farmers. #####
+
+(a) Occasionally a farmer may help his neighbor with the harvest of his crop. For instance, Farmer B helps his neighbor Farmer A harvest his wheat. In return Farmer A helps Farmer B with the harvest at his farm.
+
+(b) In a case where neighboring farmers exchange their own work under an arrangement where the work of one farmer is repaid by the labor of the other farmer and there is no monetary compensation for these services paid or contemplated, the Department of Labor would not assert that either farmer is an employee of the other.
+
+(c) In addition, there may be instances where employees of a farmer also work for neighboring farmers during harvest time. For example, employees of Farmer A may help Farmer B with his harvest, and later, Farmer B's employees may help Farmer A. These employees would be included in the man-day count of the farmer for whom the work is performed on the day in question. Since the Act defines man-day to mean any day during which an employee performs any agricultural labor for not less than 1 hour, there may be days on which these employees work for both Farmer A and Farmer B for a “man-day.” In that event they would be included for that day in the man-day count of both Farmer A and Farmer B.

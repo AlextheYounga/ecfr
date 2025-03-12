@@ -1,0 +1,9 @@
+##### § 102.80 Dismissal of petition; refusal to process petition under expedited procedure. #####
+
+(a) If, after a petition has been filed pursuant to the provisions of § 102.76, and prior to the close of the hearing, it shall appear to the regional director that further proceedings in respect thereto in accordance with the provisions of § 102.77 are not warranted, he may dismiss the petition by administrative action, and the action of the regional director shall be final, subject to a prompt appeal to the Board on special permission which may be granted by the Board. Upon such appeal the provisions of § 102.71 shall govern insofar as applicable. Such appeal shall not operate as a stay unless specifically ordered by the Board.
+
+(b) If it shall appear to the regional director that an expedited election is not warranted but that proceedings under subpart C of this part are warranted, he/she shall so notify the parties in writing with a simple statement of the grounds for his/her decision.
+
+(c) Where the regional director, pursuant to §§ 102.77 and 102.78, has determined that a hearing prior to election is not required to resolve the issues raised by the petition and has directed an expedited election, any party aggrieved may file a request with the Board for special permission to appeal from such determination. Such request shall be filed promptly, in writing, and shall briefly state the grounds relied upon. The party requesting such appeal shall immediately serve a copy thereof on each other party. Should the Board grant the requested permission to appeal, such action shall not, unless specifically ordered by the Board, operate as a stay of any action by the regional director.
+
+[24 FR 9102, Nov. 7, 1959, as amended at 26 FR 3892, May 4, 1961; 82 FR 43699, Sept. 19, 2017]

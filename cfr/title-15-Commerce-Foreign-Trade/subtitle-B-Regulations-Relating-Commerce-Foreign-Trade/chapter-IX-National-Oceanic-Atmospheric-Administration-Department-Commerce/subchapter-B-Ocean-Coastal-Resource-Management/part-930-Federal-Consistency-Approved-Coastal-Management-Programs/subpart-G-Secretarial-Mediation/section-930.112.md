@@ -1,0 +1,5 @@
+##### § 930.112 Request for Secretarial mediation. #####
+
+(a) The Secretary or other head of a Federal agency, or the Governor or the State agency, may notify the Secretary in writing of the existence of a serious disagreement, and may request that the Secretary seek to mediate the disagreement. A copy of the written request must be sent to the agency with which the requesting agency disagrees, to the Assistant Administrator, and to the Director.
+
+(b) Within 15 days following receipt of a request for mediation the disagreeing agency shall transmit a written response to the Secretary, and to the agency requesting mediation, indicating whether it wishes to participate in the mediation process. If the disagreeing agency declines the offer to enter into mediation efforts, it must indicate the basis for its refusal in its response. Upon receipt of a refusal to participate in mediation efforts, the Secretary shall seek to persuade the disagreeing agency to reconsider its decision and enter into mediation efforts. If the disagreeing agencies do not all agree to participate, the Secretary will cease efforts to provide mediation assistance.

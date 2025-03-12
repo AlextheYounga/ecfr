@@ -1,0 +1,63 @@
+##### § 1627.17 Calculating the amount of qualified retirement benefits for purposes of the exemption for bona fide executives or high policymaking employees. #####
+
+(a) Section 12(c)(1) of the Act, added by the 1978 amendments and amended in 1984 and 1986, provides:
+
+Nothing in this Act shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age, and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or high policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employer of such employee, which equals, in the aggregate, at least $44,000.
+
+The Commission's interpretative statements regarding this exemption are set forth in section 1625 of this chapter.
+
+(b) Section 12(c)(2) of the Act provides:
+
+In applying the retirement benefit test of paragraph (a) of this subsection, if any such retirement benefit is in a form other than a straight life annuity (with no ancillary benefits), or if employees contribute to any such plan or make rollover contributions, such benefit shall be adjusted in accordance with regulations prescribed by the Commission, after consultation with the Secretary of the Treasury, so that the benefit is the equivalent of a straight life annuity (with no ancillary benefits) under a plan to which employees do not contribute and under which no rollover contributions are made.
+
+(c)(1) The requirement that an employee be entitled to the equivalent of a $44,000 straight life annuity (with no ancillary benefits) is statisfied in any case where the employee has the option of receiving, during each year of his or her lifetime following retirement, an annual payment of at least $44,000, or periodic payments on a more frequent basis which, in the aggregate, equal at least $44,000 per year: Provided, however, that the portion of the retirement income figure attributable to Social Security, employee contributions, rollover contributions and contributions of prior employers is excluded in the manner described in paragraph (e) of this section. (A retirement benefit which excludes these amounts is sometimes referred to herein as a “qualified” retirement benefit.)
+
+(2) The requirment is also met where the employee has the option of receiving, upon retirement, a lump sum payment with which it is possible to purchase a single life annuity (with no ancillary benefits) yielding at least $44,000 per year as adjusted.
+
+(3) The requirement is also satisfied where the employee is entitled to receive, upon retirement, benefits whose aggregate value, as of the date of the employee's retirement, with respect to those payments which are scheduled to be made within the period of life expectancy of the employee, is $44,000 per year as adjusted.
+
+(4) Where an employee has one or more of the options described in paragraphs (c)(1) through (3) of this section, but instead selects another option (or options), the test is also met. On the other hand, where an employee has no choice but to have certain benefits provided after his or her death, the value of these benefits may not be included in this determination.
+
+(5) The determination of the value of those benefits which may be counted towards the $44,000 requirement must be made on the basis of reasonable actuarial assumptions with respect to mortality and interest. For purposes of excluding from this determination any benefits which are available only after death, it is not necessary to determine the life expectancy of each person on an individual basis. A reasonable actuarial assumption with respect to mortality will suffice.
+
+(6) The benefits computed under paragraphs (c)(1), (2) and (3) of this section shall be aggregated for purposes of determining whether the $44,000 requirement has been met.
+
+(d) The only retirement benefits which may be counted towards the $44,000 annual benefit are those from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans. Such plans include, but are not limited to, stock bonus, thrift and simplified employee pensions. The value of benefits from any other employee benefit plans, such as health or life insurance, may not be counted.
+
+(e) In calculating the value of a pension, profit-sharing, savings, or deferred compensation plan (or any combination of such plans), amounts attributable to Social Security, employee contributions, contributions of prior employers, and rollover contributions must be excluded. Specific rules are set forth below.
+
+(1) *Social Security.* Amounts attributable to Social Security must be excluded. Since these amounts are readily determinable, no specific rules are deemed necessary.
+
+(2) *Employee contributions.* Amounts attributable to employee contributions must be excluded. The regulations governing this requirement are based on section 411(c) of the Internal Revenue Code and Treasury Regulations thereunder (§ 1.411(c)-(1)), relating to the allocation of accrued benefits between employer and employee contributions. Different calculations are needed to determine the amount of employee contributions, depending upon whether the retirement income plan is a defined contribution plan or a defined benefit plan. Defined contribution plans (also referred to as individual account plans) generally provide that each participant has an individual account and the participant's benefits are based solely on the account balance. No set benefit is promised in defined contribution plans, and the final amount is a result not only of the actual contributions, but also of other factors, such as investment gains and losses. Any retirement income plan which is not an individual account plan is a defined benefit plan. Defined benefit plans generally provide a definitely determinable benefit, by specifying either a flat monthly payment or a schedule of payments based on a formula (frequently involving salary and years of service), and they are funded according to actuarial principles over the employee's period of participation.
+
+(i) *Defined contribution plans*—(A) *Separate accounts maintained.* If a separate account is maintained with respect to an employee's contributions and all income, expenses, gains and losses attributable thereto, the balance in such an account represents the amount attributable to employee contributions.
+
+(B) *Separate accounts not maintained.* If a separate account is not maintained with respect to an employee's contributions and the income, expenses, gains and losses attributable thereto, the proportion of the total benefit attributable to employee contributions is determined by multiplying that benefit by a fraction:
+
+(*1*) The numerator of which is the total amount of the employee's contributions under the plan (less withdrawals), and
+
+(*2*) The denominator of which is the sum of the numerator and the total contributions made under the plan by the employer on behalf of the employee (less withdrawals).
+
+Example:A defined contribution plan does not maintain separate accounts for employee contributions. An employee's annual retirement benefit under the plan is $40,000. The employee has contributed $96,000 and the employer has contributed $144,000 to the employee's individual account; no withdrawals have been made. The amount of the $40,000 annual benefit attributable to employee contributions is $40,000 × $96,000/$96,000 + $144,000 = $16,000. Hence the employer's share of the $40,000 annual retirement benefit is $40,000 minus $16,000 or $24,000—too low to fall within the exemption.
+
+(ii) *Defined benefit plans*—(A) *Separate accounts maintained.* If a separate account is maintained with respect to an employee's contributions and all income, expenses, gains and losses attributable thereto, the balance in such an account represents the amount attributable to employee contributions.
+
+(B) *Separate accounts not maintained.* If a separate account is not maintained with respect to an employee's contributions and the income, expenses, gains and losses attributable thereto, all of the contributions made by an employee must be converted actuarially to a single life annuity (without ancillary benefits) commencing at the age of forced retirement. An employee's accumulated contributions are the sum of all contributions (mandatory and, if not separately accounted for, voluntary) made by the employee, together with interest on the sum of all such contributions compounded annually at the rate of 5 percent per annum from the time each such contribution was made until the date of retirement. *Provided, however,* That prior to the date any plan became subject to section 411(c) of the Internal Revenue Code, interest will be credited at the rate (if any) specified in the plan. The amount of the employee's accumulated contribution described in the previous sentence must be multiplied by an “appropriate conversion factor” in order to convert it to a single life annuity (without ancillary benefits) commencing at the age of actual retirement. The appropriate conversion factor depends upon the age of retirement. In accordance with Rev. Rul. 76-47, 1976-2 C.B. 109, the following conversion factors shall be used with respect to the specified retirement ages:
+
+|Retirement age|Conversion factor percent|
+|--------------|-------------------------|
+|65 through 66 |           10            |
+|67 through 68 |           11            |
+|      69      |           12            |
+
+Example:An employee is scheduled to receive a pension from a defined benefit plan of $50,000 per year. Over the years he has contributed $150,000 to the plan, and at age 65 this amount, when contributions have been compounded at appropriate annual interest rates, is equal to $240,000. In accordance with Rev. Rul. 76-47, 10 percent is an appropriate conversion factor. When the $240,000 is multiplied by this conversion factor, the product is $24,000, which represents that part of the $50,000 annual pension payment which is attributable to employee contributions. The difference—$26,000—represents the employer's contribution, which is too low to meet the test in the exemption.
+
+(3) *Contributions of prior employers.* Amounts attributable to contributions of prior employers must be excluded.
+
+(i) *Current employer distinguished from prior employers.* Under the section 12(c) exemption, for purposes of excluding contributions of prior employers, a prior employer is every previous employer of the employee except those previous employers which are members of a “controlled group of corporations” with, or “under common control” with, the employer which forces the employee to retire, as those terms are used in sections 414 (b) and 414(c) of the Internal Revenue Code, as modified by section 414(h) (26 U.S.C. 414(b), (c) and (h)).
+
+(ii) *Benefits attributable to current employer and to prior employers.* Where the current employer maintains or contributes to a plan which is separate from plans maintained or contributed to by prior employers, the amount of the employee's benefit attributable to those prior employers can be readily determined. However, where the current employer maintains or contributes to the same plan as prior employers, the following rule shall apply. The benefit attributable to the current employer shall be the total benefit received by the employee, reduced by the benefit that the employee would have received from the plan if he or she had never worked for the current employer. For purposes of this calculation, it shall be assumed that all benefits have always been vested, even if benefits accrued as a result of service with a prior employer had not in fact been vested.
+
+(4) *Rollover contributions.* Amounts attributable to rollover contributions must be excluded. For purposes of § 1627.17(e), a rollover contribution (as defined in sections 402(a)(5), 403(a)(4), 408(d)(3) and 409(b)(3)(C) of the Internal Revenue Code) shall be treated as an employee contribution. These amounts have already been excluded as a result of the computations set forth in § 1627.17(e)(2). Accordingly, no separate calculation is necessary to comply with this requirement.
+
+(Sec. 12(c)(1) of the Age Discrimination In Employment Act of 1967, as amended by sec. 802(c)(1) of the Older Americans Act Amendments of 1984, Pub. L. 98-459, 98 Stat. 1792))[44 FR 66797, Nov. 21, 1979, as amended at 50 FR 2544, Jan. 17, 1985; 53 FR 5973, Feb. 29, 1988]

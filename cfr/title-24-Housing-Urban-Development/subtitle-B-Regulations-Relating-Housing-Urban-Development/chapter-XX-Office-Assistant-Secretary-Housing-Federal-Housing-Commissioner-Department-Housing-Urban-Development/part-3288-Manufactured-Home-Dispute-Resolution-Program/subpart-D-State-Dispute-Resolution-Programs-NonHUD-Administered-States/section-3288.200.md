@@ -1,0 +1,3 @@
+##### § 3288.200 Applicability. #####
+
+This subpart D establishes the minimum requirements that must be met by a state to implement its own dispute resolution program and therefore not be covered by the HUD Manufactured Home Dispute Resolution Program established in accordance with subpart B. The subpart also establishes the procedure for determining whether the state dispute resolution program meets the requirements of the Act for operating in lieu of the HUD Manufactured Home Dispute Resolution Program.

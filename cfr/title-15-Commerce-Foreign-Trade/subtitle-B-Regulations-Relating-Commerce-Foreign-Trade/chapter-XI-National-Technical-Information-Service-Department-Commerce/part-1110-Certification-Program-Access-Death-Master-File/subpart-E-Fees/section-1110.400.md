@@ -1,0 +1,3 @@
+##### § 1110.400 Fees. #####
+
+Fees sufficient to cover (but not to exceed) all costs to NTIS associated with evaluating Certification Forms and auditing, inspecting, and monitoring certified persons under the certification program established under this part, as well as appeals, will be published (as periodically reevaluated and updated by NTIS) and available at *https://dmf.ntis.gov.* NTIS will not set fees for attestations or audits by an Accredited Conformity Assessment Body.

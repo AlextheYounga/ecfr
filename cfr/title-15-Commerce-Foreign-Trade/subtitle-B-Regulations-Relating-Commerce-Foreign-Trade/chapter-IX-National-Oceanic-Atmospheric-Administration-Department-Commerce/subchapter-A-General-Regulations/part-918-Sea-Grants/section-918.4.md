@@ -1,0 +1,3 @@
+##### § 918.4 Duration of Sea Grant College designation. #####
+
+Designation will be made on the basis of merit and the determination by the Secretary of Commerce that such a designation is consistent with the goals of the Act. Continuation of the Sea Grant College designation is contingent upon the institution's ability to maintain a high quality performance consistent with the requirements outlined above. The Secretary may, for cause and after an opportunity for hearing, suspend or terminate a designation as a Sea Grant College.

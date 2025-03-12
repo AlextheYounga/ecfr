@@ -1,0 +1,3 @@
+##### § 153.1 Purpose and scope. #####
+
+The purpose of this part is to implement the Commission's delegated authorities under section 3 of the Natural Gas Act and Executive Order 10485, as amended by Executive Order 12038. Subpart B of this part establishes filing requirements an applicant must follow to obtain authorization under section 3 of the Natural Gas Act for the siting, construction, operation, place of entry for imports or place of exit for exports. Subpart C of this part establishes filing requirements an applicant must follow to apply for a Presidential Permit, or an amendment to an existing Presidential Permit, for border facilities at the international boundary between the United States and Canada or Mexico.

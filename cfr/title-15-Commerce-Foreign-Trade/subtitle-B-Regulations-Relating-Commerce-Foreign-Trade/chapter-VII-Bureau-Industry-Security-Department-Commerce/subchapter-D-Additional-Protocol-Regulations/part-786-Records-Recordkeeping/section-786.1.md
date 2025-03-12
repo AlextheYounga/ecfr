@@ -1,0 +1,3 @@
+##### § 786.1 Inspection of records. #####
+
+Upon request by BIS, you must permit access to and copying of any record relating to compliance with the requirements of the APR. This requires that you make available the equipment and, if necessary, knowledgeable personnel for locating, reading, and reproducing any record. Copies may be necessary to facilitate IAEA Team review of documents during complementary access. The IAEA Team may not remove these documents from the location without BIS authorization (see § 784.3(j)(2) of the APR).

@@ -1,0 +1,7 @@
+##### § 39.10 Changes to an Electric Reliability Organization Rule or Regional Entity Rule. #####
+
+(a) The Electric Reliability Organization shall file with the Commission for approval any proposed Electric Reliability Organization Rule or Rule change. A Regional Entity shall submit a Regional Entity Rule or Rule change to the Electric Reliability Organization and, if approved by the Electric Reliability Organization, the Electric Reliability Organization shall file the proposed Regional Entity Rule or Rule change with the Commission for approval. Any filing by the Electric Reliability Organization shall be accompanied by an explanation of the basis and purpose for the Rule or Rule change, together with a description of the proceedings conducted by the Electric Reliability Organization or Regional Entity to develop the proposal.
+
+(b) The Commission, upon its own motion or upon complaint, may propose a change to an Electric Reliability Organization Rule or Regional Entity Rule.
+
+(c) A proposed Electric Reliability Organization Rule or Rule change or Regional Entity Rule or Rule change shall take effect upon a finding by the Commission, after notice and opportunity for public comment, that the change is just, reasonable, not unduly discriminatory or preferential, is in the public interest, and satisfies the requirements of § 39.3.

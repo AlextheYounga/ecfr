@@ -1,0 +1,19 @@
+##### § 4.31 Initial or competing application: who may file. #####
+
+(a) *Application for a preliminary permit or a license.* Any citizen, association of citizens, domestic corporation, municipality, or state may submit for filing an initial application or a competing application for a preliminary permit or a license for a water power project under Part I of the Federal Power Act.
+
+(b) *Application for exemption of a small conduit hydroelectric facility*—(1) *Exemption from provisions other than licensing*—(i) *Only federal lands involved.* If only rights to use or occupy federal lands would be necessary to develop and operate the proposed small conduit hydroelectric facility, any citizen, association of citizens, domestic corporation, municipality, or state may apply for exemption of a small conduit hydroelectric facility from provisions of Part I of the Federal Power Act, other than licensing provisions.
+
+(ii) *Some non-federal lands involved.* If real property interests in any non-federal lands would be necessary to develop and operate the proposed small conduit hydroelectric facility, any citizen, association of citizens, domestic corporation, municipality, or state that has all of the real property interests in the lands necessary to develop and operate that project, or an option to obtain those interests, may apply for exemption of a small conduit hydroelectric facility from provisions of Part I of the Federal Power Act, other than licensing provisions.
+
+(2) *Exemption from licensing*—(i) *Only federal lands involved.* If only rights to use or occupy federal lands would be necessary to develop and operate the proposed small conduit hydroelectric facility, any citizen, association of citizens, domestic corporation, municipality, or state may apply for exemption of that facility from licensing under Part I of the Federal Power Act.
+
+(ii) *Some non-federal lands involved.* If real property interests in any non-federal lands would be necessary to develop and operate the proposed small conduit hydroelectric facility, any citizen, association of citizens, domestic corporation, municipality, or state who has all the real property interests in the lands necessary to develop and operate the small conduit hydroelectric facility, or an option to obtain those interests, may apply for exemption of that facility from licensing under Part I of the Federal Power Act.
+
+(c) *Application for case-specific exemption of a small hydroelectric power project*—(1) *Exemption from provisions other than licensing.* Any qualified license applicant or licensee seeking amendment of its license may apply for exemption of the related project from provisions of Part I of the Federal Power Act other than licensing provisions.
+
+(2) *Exemption from licensing*— (i) *Only Federal lands involved.* If only rights to use or occupy Federal lands would be necessary to develop and operate the proposed small hydroelectric power project, any citizen, association of citizens, domestic corporation, municipality, or state may apply for exemption of that project from licensing.
+
+(ii) *Some non-Federal lands involved.* If real property interests in any non-Federal lands would be necessary to develop and operate the proposed small hydroelectric power project, any citizen, association of citizens, domestic corporation, municipality, or state who has all of the real property interests in non-Federal lands necessary to develop and operate that project, or an option to obtain those interests, may apply for exemption of that project from licensing.
+
+[Order 413, 50 FR 11678, Mar. 25, 1985, as amended by Order 800, 79 FR 59109, Oct. 1, 2014]

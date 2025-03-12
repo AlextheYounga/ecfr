@@ -1,0 +1,3 @@
+##### § 1919.81 Examination of bulk cargo loading or discharging spouts or suckers. #####
+
+(a) Those portions of bulk cargo loading or discharging spouts or suckers which extend over vessels, together with any portable extensions, rigging components, outriggers, and attachment points supporting them or any of their components vertically, shall be examined annually. The examination shall be carried out with particular attention to the condition of wire rope and accessories. The equipment shall not be considered satisfactory unless, in the opinion of the accredited person or his authorized representative, it is deemed fit to serve its intended function.

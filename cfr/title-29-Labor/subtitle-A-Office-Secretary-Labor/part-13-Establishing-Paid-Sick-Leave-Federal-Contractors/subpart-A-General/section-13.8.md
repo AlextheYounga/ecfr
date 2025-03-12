@@ -1,0 +1,5 @@
+##### § 13.8 Multiemployer plans or other funds, plans, or programs. #####
+
+(a) A contractor may fulfill its obligations under Executive Order 13706 and this part jointly with other contractors—that is, as though all of the contractors are a single contractor—through a multiemployer plan that provides paid sick leave in compliance with the rules and requirements of Executive Order 13706 and this part. Regardless of what functions the plan performs, each contractor remains responsible for any violation of the Order or this part that occurs during its employment of the employee.
+
+(b) Nothing in this part prohibits a contractor from providing paid sick leave through a fund, plan, or program. Regardless of the manner in which a contractor provides paid sick leave or what functions any fund, plan, or program performs, the contractor remains responsible for any violation of the Order or this part with respect to any of its employees.

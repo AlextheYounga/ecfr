@@ -1,0 +1,3 @@
+##### § 780.816 Processing of specific commodities. #####
+
+Only the processing of sugar beets, sugar-beet molasses, sugarcane, or maple sap is within the exemption. Operations performed on commodities other than those named are not exempt under this section even though they result in the production of unrefined sugar or syrup. For example, sorghum cane or refinery syrup (which is a byproduct of refined syrup) are not named commodities and employees engaged in processing these products are not exempt under this section even though the resultant product is raw sugar. The loss of exemption would obtain for the same reason for employees engaged in processing sugar, glucose, or ribbon cane syrup into syrup.

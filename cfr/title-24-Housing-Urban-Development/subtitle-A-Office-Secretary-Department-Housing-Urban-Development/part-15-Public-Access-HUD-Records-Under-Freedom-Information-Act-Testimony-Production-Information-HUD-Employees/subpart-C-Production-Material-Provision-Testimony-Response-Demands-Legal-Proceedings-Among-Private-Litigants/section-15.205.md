@@ -1,0 +1,9 @@
+##### § 15.205 Method of production of material or provision of testimony. #####
+
+(a) Where the Authorized Approving Official has authorized the production of material or provision of testimony, the Department shall produce such material or provide such testimony in accordance with this section and any conditions imposed upon production of material or provision of testimony pursuant to § 15.204(c).
+
+(b) In any legal proceeding where the Authorized Approving Official has authorized the production of documents, the Department shall respond by producing authenticated copies of the documents, to which the seal of the Department has been affixed, in accordance with its authentication procedures. The authentication shall be evidence that the documents are true copies of documents in the Department's files and shall be sufficient for the purposes of Rules 803(8) and 902 of the Federal Rules of Evidence and Rule 44(a)(1) of the Federal Rules of Civil Procedure.
+
+(c) If response to a demand is required before the determination from the Authorized Approving Official is received, the U.S. Attorney, Department of Justice Attorney, or such other attorney as may be designated for the purpose will appear or make such filings as are necessary to furnish the court or other authority with a copy of the regulations contained in this subpart and will inform the court or other authority that the demand has been, or is being, as the case may be, referred for prompt consideration. The court or other authority shall be requested respectfully to stay the demand pending receipt of the requested determination from the Authorized Approving Official.
+
+[73 FR 72206, Nov. 26, 2008]

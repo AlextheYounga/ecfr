@@ -1,0 +1,3 @@
+##### § 142.7 Examination of merchandise. #####
+
+No merchandise for which the entry documentation required by § 142.3 has been filed shall be released until it has been examined, or until adequate samples have been taken in the case of merchandise which is to be classified and appraised by means of samples, unless this requirement is waived by the port director in accordance with section 499, Tariff Act of 1930, as amended (19 U.S.C. 1499).

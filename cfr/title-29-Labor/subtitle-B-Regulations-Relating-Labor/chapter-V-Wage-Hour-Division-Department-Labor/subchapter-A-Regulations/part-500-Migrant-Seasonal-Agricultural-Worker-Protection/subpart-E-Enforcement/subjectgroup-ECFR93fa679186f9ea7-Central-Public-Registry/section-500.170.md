@@ -1,0 +1,5 @@
+##### § 500.170 Establishment of registry. #####
+
+The Administrator shall establish a central public registry of all persons issued a Certificate of Registration or a Farm Labor Contractor Employee Certificate. The central public registry shall be available at the Regional Offices of the Wage and Hour Division and its National Office in Washington, DC. Information filed therein shall be made available upon request. Requests for information contained in the registry may also be directed by mail to the Administrator, Wage and Hour Division. Attn: MSPA, U.S. Department of Labor, Washington, DC 20210. Alternatively, requests for registry information may be made by telephone by calling 1-866-4US-WAGE (1-866-487-9243), a toll-free number, during the hours of 8 a.m. to 5 p.m., in your time zone, Monday through Friday.
+
+[67 FR 76986, Dec. 16, 2002]

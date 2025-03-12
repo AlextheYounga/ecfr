@@ -1,0 +1,9 @@
+##### § 400.51 Records and reports. #####
+
+(a) *Records and forms.* Zone records and forms shall be prepared and maintained in accordance with the requirements of CBP and the Board, consistent with documents issued by the Board specific to the zone in question, and the zone grantee shall retain copies of applications/requests it submits to the Board in electronic or paper format.
+
+(b) *Maps and drawings.* Zone grantees or operators, and CBP, shall keep current layout drawings of approved sites as described in § 400.21(d)(5), showing activated portions, and a file showing required activation approvals. The zone grantee shall furnish necessary maps to CBP.
+
+(c) *Annual reports.* (1) Each zone grantee shall submit a complete and accurate annual report to the Board within 90 days after the end of the reporting period. Each zone operator shall submit a complete and accurate annual report to the zone grantee in a timeframe that will enable the grantee's timely submission of a complete and accurate annual report to the Board. A zone grantee may request an extension of the deadline for its report, as warranted. The Executive Secretary may authorize such extensions, with decisions on such authorizations taking into account both the circumstances presented and the importance of the Board submitting its annual report to Congress in a timely manner. Annual reports must be submitted in accordance with any instructions, guidelines, forms and related documents specifying place, manner and format(s) prescribed by the Executive Secretary. In the event that a grantee has not received all necessary annual report information from an operator in a timely manner, the grantee may submit its annual report on time and note the absence of the missing information.
+
+(2) The Board shall submit an annual report to Congress.

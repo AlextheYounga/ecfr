@@ -1,0 +1,5 @@
+##### § 4a.5 Duration of classification. #####
+
+(a) Information shall remain classified no longer than ten years from the date of its original classification, except as provided in § 1.6(d) of E.O. 12958. Under E.O. 12958, information may be exempted from declassification within ten years if the unauthorized disclosure of such information could reasonably be expected to cause damage to the national security for more than ten years and meets one of the eight criteria listed in § 1.6 (d).
+
+(b) Department of Commerce originally classified information marked for an indefinite duration of classification under predecessor orders to E.O. 12958 shall be declassified after twenty years. Classified information contained in archive records determined to have permanent historical value under Title 44 of the United States Code shall be automatically declassified no longer than 25 years from the date of its original classification, except as provided in § 3.4(d) of E.O. 12958.

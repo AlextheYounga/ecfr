@@ -1,0 +1,3 @@
+##### § 6.7 Records of other agencies. #####
+
+If FEMA receives a request for access to records which are the primary responsibility of another agency, but which are maintained by or in the temporary possession of FEMA on behalf of that agency, FEMA will advise the requestor that the request has been forwarded to the responsible agency. Records in the custody of FEMA which are the primary responsibility of the Office of Personnel Management are governed by the rules promulgated by it pursuant to the Privacy Act.

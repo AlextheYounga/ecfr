@@ -1,0 +1,3 @@
+##### § 70.27 Preservation of records. #####
+
+Each component will preserve all correspondence relating to the requests it receives under this part, and all records processed pursuant to such requests, until disposition or destruction of such correspondence and records is authorized by Title 44 of the United States Code or the National Archives and Records Administration's General Records Schedule 4.2. Records are not to be destroyed while they are the subject of a pending request, appeal, or lawsuit under the Act.

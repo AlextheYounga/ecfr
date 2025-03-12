@@ -1,0 +1,3 @@
+##### § 1601.27 Civil actions by the Commission. #####
+
+The Commission may bring a civil action against any respondent named in a charge not a government, governmental agency or political subdivision, after thirty (30) days from the date of the filing of a charge with the Commission unless a conciliation agreement acceptable to the Commission has been secured: *Provided, however,* That the Commission may seek preliminary or temporary relief pursuant to section 706(f)(2) of title VII, according to the procedures set forth in § 1601.23 of this part, at any time.

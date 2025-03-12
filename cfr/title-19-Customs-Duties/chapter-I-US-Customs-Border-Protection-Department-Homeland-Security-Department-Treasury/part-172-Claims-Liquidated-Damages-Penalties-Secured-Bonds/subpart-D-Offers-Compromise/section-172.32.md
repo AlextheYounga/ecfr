@@ -1,0 +1,3 @@
+##### § 172.32 Authority to accept offers. #####
+
+The authority to accept offers in compromise, subject to the recommendation of the General Counsel of the Treasury or his delegee, resides with the official having authority to decide a petition for relief, except that authority to accept offers in compromise submitted with regard to penalties secured by a bond or claims for liquidated damages which are the subject of a letter to show cause issued to a surety in anticipation of possible action involving nonacceptance of bonds authorized under the provisions of part 113 of this chapter will reside with the designated Headquarters official who issued the show cause letter.

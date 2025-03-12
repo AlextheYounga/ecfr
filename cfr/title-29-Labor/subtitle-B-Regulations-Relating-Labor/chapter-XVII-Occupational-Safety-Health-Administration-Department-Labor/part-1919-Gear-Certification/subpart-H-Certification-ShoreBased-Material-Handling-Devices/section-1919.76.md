@@ -1,0 +1,3 @@
+##### § 1919.76 Safe working load reduction. #####
+
+(a) If the operation in which equipment is engaged never utilizes more than a fraction of the safe working load rating, the owner of such equipment may, at his option, have the crane or derrick certificated for and operated at a lesser maximum safe working load in keeping with the use and based on radius and other pertinent factors: *Provided, however,* That the equipment concerned is physically capable of operation at the original load rating and the load reduction is not for the purpose of avoiding correction of any deficiency.

@@ -1,0 +1,7 @@
+##### § 870.51 Exemption policy. #####
+
+(a) It is the policy of the Secretary of Labor to permit exemption from section 303(a) of the CCPA garnishments issued under the laws of a State if those laws considered together cover every case of garnishment covered by the Act, and if those laws provide the same or greater protection to individuals. Differences in text between the restrictions of State laws and those in section 303(a) of the Act are not material so long as the State laws provide the same or greater restrictions on the garnishment of individuals' earnings.
+
+(b) In determining whether State-regulated garnishments should be exempted from section 303(a) of the CCPA, or whether such an exemption should be terminated, the laws of the State shall be examined with particular regard to the classes of persons and of transactions to which they may apply; the formulas provided for determining the maximum part of an individual's earnings which may be subject to garnishment; restrictions on the application of the formulas; and with regard to procedural burdens placed on the individual whose earnings are subject to garnishment.
+
+(c) Particular attention is directed to the fact that subsection (a) of section 303, when considered with subsection (c) of that section, is read as not requiring the raising of the subsection (a) restrictions as affirmative defenses in garnishment proceedings.

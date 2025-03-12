@@ -1,0 +1,3 @@
+##### § 100.2 Description. #####
+
+Seal: On a shield an open book beneath which is a lamp of knowledge emitting rays above in base two crossed quills. Around the whole a wreath of single leaves, surrounded by an outer band bearing between two stars the words “U.S. Department of Commerce” in the upper portion and “Bureau of the Census” in the lower portion, the lettering concentric with an inner beaded rim and an outer dentilated rim.

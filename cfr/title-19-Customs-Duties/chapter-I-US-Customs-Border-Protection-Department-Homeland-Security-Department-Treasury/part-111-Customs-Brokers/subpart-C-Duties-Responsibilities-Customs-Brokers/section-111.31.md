@@ -1,0 +1,7 @@
+##### § 111.31 Conflict of interest. #####
+
+(a) *Former officer or employee of U.S. Government.* A broker who was formerly an officer or employee in U.S. Government service must not represent a client before the Department of Homeland Security or any representative of the Department of Homeland Security in any matter to which the broker gave personal consideration or gained knowledge of the facts while in U.S. Government service, except as provided in 18 U.S.C. 207.
+
+(b) *Relations with former officer or employee of U.S. Government.* A broker must not knowingly assist, accept assistance from, or share fees with a person who has been employed by a client in a matter pending before the Department of Homeland Security or any representative of the Department of Homeland Security to which matter that person gave personal consideration or gained personal knowledge of the facts or issues of the matter while in U.S. Government service.
+
+(c) *Importations by broker or employee.* A broker who is an importer himself must not act as broker for an importer who imports merchandise of the same general character as that imported by the broker unless the client has full knowledge of the facts. The same restriction will apply if a broker's employee is an importer.

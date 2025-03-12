@@ -1,0 +1,3 @@
+##### § 5.83 Authority to accept service of subpoenas. #####
+
+In all legal proceedings between private litigants, a subpoena duces tecum or subpoena ad testificandum or other demand by a court or other authority for the production of records held by FEMA Regional offices or for the oral or written testimony of FEMA Regional employees should be addressed to the appropriate Regional Administrator listed in § 5.26. For all other records or testimony, the subpoena should be addressed to the Chief Counsel, FEMA, 500 C Street SW., Washington, DC 20472 Washington, DC 20472. No other official or employee of FEMA is authorized to accept service of subpoenas on behalf of the Agency.

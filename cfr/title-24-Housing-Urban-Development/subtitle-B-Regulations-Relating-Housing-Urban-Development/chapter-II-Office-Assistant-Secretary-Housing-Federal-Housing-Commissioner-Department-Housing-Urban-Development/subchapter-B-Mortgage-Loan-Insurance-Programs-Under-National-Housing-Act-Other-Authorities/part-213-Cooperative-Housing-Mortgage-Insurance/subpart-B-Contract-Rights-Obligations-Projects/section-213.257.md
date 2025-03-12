@@ -1,0 +1,5 @@
+##### § 213.257 Premiums; purchasing cooperatives; Existing Construction; supplementary loans to purchase existing community facility. #####
+
+(a) Where a mortgage is endorsed for insurance pursuant to the sale of an Investor Sponsor Project or covers Existing Construction not involving Commissioner approved or required repairs, improvements, alterations and additions, the mortgagee, on the date of the insurance endorsement, shall pay a first premium equal to one-half of one percent of the principal obligation of the mortgage for the period from the date of the insurance endorsement to one year following the date of the first principal payment. On the anniversary of the first principal payment, this first premium shall be adjusted to equal one-half of one percent of the average outstanding principal obligation of the mortgage for the period from the date of the insurance endorsement to one year following the date of the first principal payment.
+
+(b) The premium provisions of paragraph (a) of this section shall apply to a supplementary loan to purchase an existing community facility.

@@ -1,0 +1,5 @@
+##### § 125.22 Designation of cartman or lighterman, or other bonded carrier. #####
+
+Importers and exporters shall designate on the entry and permit of bonded merchandise the bonded cartman, lighterman, or other bonded carrier as provided in § 112.2 of this chapter by whom they wish their merchandise to be conveyed. An importer also may designate a foreign trade zone operator, bonded warehouse proprietor, container station operator or centralized examination station operator under the conditions specified in § 112.2 of this chapter for limited cartage; if he does so, the importer must also designate that the merchandise is bound for the facility run by the operator he designates. Approval of a designation shall be indicated on the entry papers by the initials of the appropriate Customs officer placed in close proximity to the designation.
+
+[T.D. 94-81, 59 FR 51495, Oct. 12, 1994]

@@ -1,0 +1,7 @@
+##### § 1207.4 Designation of PL Boards, filing of agreements, and disposition of records. #####
+
+(a) *Designation of PL Boards.* All special adjustment boards created under Public Law 89-456 will be designated PL Boards, and will be numbered serially, commencing with No. 1, in the order of their docketing by the National Mediation Board.
+
+(b) *Filing of agreements.* The original agreement creating the PL Board under Public Law 89-456 shall be filed with the National Mediation Board at the time it is executed by the parties. A copy of such agreement shall be filed by the parties with the Administrative Officer of the National Railroad Adjustment Board, Chicago, Ill.
+
+(c) *Disposition of records.* Since the provisions of section 2(a) of Public Law 89-456 apply also to the awards of PL Boards created under this Act, two copies of all awards made by the PL Boards, together with the record of proceedings upon which such awards are based, shall be forwarded by the neutrals who are members of such Boards, or by the parties in case of disposition of disputes by PL Boards without participation of neutrals, to the Administrative Officer of the National Railroad Adjustment Board, Chicago, Ill., for filing, safekeeping, and handling under the provisions of section 2(q), as may be required.

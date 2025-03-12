@@ -1,0 +1,3 @@
+##### § 780.620 Minimum wage for livestock auction work. #####
+
+The application of the exemption is further determined by whether another condition has been met. That condition is that the employee, in the workweek in which he engages in livestock auction activities, must be paid at a wage rate not less than the minimum rate required by section 6(a)(1) of the Act for the time spent in livestock auction work. The exemption does not apply unless there is payment for all hours spent in livestock auction work at not less than the applicable minimum rate prescribed in the Act.

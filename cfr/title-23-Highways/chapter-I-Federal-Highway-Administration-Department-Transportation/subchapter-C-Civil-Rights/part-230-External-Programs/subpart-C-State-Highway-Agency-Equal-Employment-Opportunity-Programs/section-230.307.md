@@ -1,0 +1,3 @@
+##### § 230.307 Policy. #####
+
+Every employee and representative of State highway agencies shall perform all official equal employment opportunity actions in an affirmative manner, and in full accord with applicable statutes, executive orders, regulations, and policies enunciated thereunder, to assure the equality of employment opportunity, without regard to race, color, religion, sex, or national origin both in its own work force and in the work forces of contractors, subcontractors, and material suppliers engaged in the performance of Federal-aid highway construction contracts.

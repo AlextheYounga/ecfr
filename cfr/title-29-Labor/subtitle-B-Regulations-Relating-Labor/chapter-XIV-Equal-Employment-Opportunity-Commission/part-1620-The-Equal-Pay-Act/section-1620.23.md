@@ -1,0 +1,3 @@
+##### § 1620.23 Collective bargaining agreements not a defense. #####
+
+The establishment by collective bargaining or inclusion in a collective bargaining agreement of unequal rates of pay does not constitute a defense available to either an employer or to a labor organization. Any and all provisions in a collective bargaining agreement which provide unequal rates of pay in conflict with the requirements of the EPA are null and void and of no effect.

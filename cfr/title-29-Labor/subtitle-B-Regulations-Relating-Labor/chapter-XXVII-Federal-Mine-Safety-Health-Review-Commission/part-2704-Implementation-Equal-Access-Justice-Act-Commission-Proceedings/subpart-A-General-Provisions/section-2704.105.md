@@ -1,0 +1,11 @@
+##### § 2704.105 Standards for awards. #####
+
+(a) A prevailing applicant may receive an award of fees and expenses incurred in connection with a proceeding, or in a significant and discrete substantive portion of the proceeding, unless the position of the Secretary was substantially justified. The position of the Secretary includes, in addition to the position taken by the Secretary in the adversary adjudication, the action or failure to act by the Secretary upon which the adversary adjudication is based. The burden of proof that an award should not be made to a prevailing applicant because the Secretary's position was substantially justified is on the Secretary, who may avoid an award by showing that his position was reasonable in law and fact. An award will be reduced or denied if the applicant has unduly or unreasonably protracted the underlying proceeding or if special circumstances make the award unjust.
+
+(b) If the demand of the Secretary is substantially in excess of the decision of the Commission and is unreasonable when compared with such decision, under the facts and circumstances of the case, the Commission shall award to an eligible applicant who does not prevail the fees and expenses related to defending against the excessive demand, unless the applicant has committed a willful violation of law or otherwise acted in bad faith or special circumstances make an award unjust. The burden of proof is on the applicant to establish that the Secretary's demand is substantially in excess of the Commission's decision; the Secretary may avoid an award by establishing that the demand is not unreasonable when compared to that decision. As used in this section, “demand” means the express demand of the Secretary which led to the adversary adjudication, but does not include a recitation by the Secretary of the maximum statutory penalty—
+
+(1) In the administrative complaint, or
+
+(2) Elsewhere when accompanied by an express demand for a lesser amount.
+
+[63 FR 63176, Nov. 12, 1998, as amended at 71 FR 44210, Aug. 4, 2006]

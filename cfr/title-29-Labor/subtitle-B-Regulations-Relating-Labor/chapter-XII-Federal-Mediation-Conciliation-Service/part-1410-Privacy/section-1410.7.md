@@ -1,0 +1,7 @@
+##### § 1410.7 Agency review of refusal to amend a record. #####
+
+(a) The requestor may appeal any determination of the Director of Administration not to amend a record by submitting a written request for review of refusal to amend a record to the Deputy National Director, Washington, DC 20427. Such a request shall indicate the specific corrections or amendments sought. Not later than 30 days from receipt of a request for review (unless such period is extended by the National Director for good cause shown), the Deputy National Director will complete such a review and make a final determination on the request, and shall advise the requestor in a written letter of determination whether, and to what extent the correction or amendment will be made. If the correction or amendment is denied, in whole or in part, the letter of determination will specify the reasons for such denial.
+
+(b) If the Deputy National Director makes a final determination not to amend the record, the individual may provide to the Service a concise written statement explaining the reasons for disagreement with the refusal.
+
+(c) In addition, the individual may file a civil action in the U.S. District Court to seek an order compelling the Service to amend the record as requested.

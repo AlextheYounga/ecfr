@@ -1,0 +1,19 @@
+##### § 902.73 PHAs with deficiencies. #####
+
+(a) *Oversight and action.* Standard and substandard performers will be referred to the field office for appropriate oversight and action.
+
+(1) A standard performer that receives a total score of at least 60 percent shall be required to correct the deficiencies in performance within the time period for correction, as stated in § 902.73(c). If the PHA fails to correct the deficiencies, HUD may either require the PHA to enter into a Corrective Action Plan, or HUD may take other action, as appropriate.
+
+(2) A substandard performer, *i.e.,* a PHA that achieves a PHAS score of at least 60 percent and achieves a score of less than 60 percent of the total points available under one or more of the physical condition, management operations, or financial condition PHAS indicators, shall be required to correct the deficiencies in performance within the time period for correction. If the PHA fails to correct the deficiencies, HUD may require the PHA to enter into a Corrective Action Plan, or take other action, as appropriate.
+
+(3) A PHA with a project(s) that receives less than 60 percent of the points available for the physical condition, management operations, or financial condition PHAS indicators, or less than 50 percent of the points available for the capital fund indicator, shall be required to correct the deficiencies in performance within the time period for correction, as stated in § 902.73(b). If the PHA fails to correct the deficiencies within the time period allowed, HUD may either require the PHA to enter into a Corrective Action Plan, or take other action, as appropriate.
+
+(b) *Correction of deficiencies.* (1) *Time period for correction.* After a PHA's (or DF-RMC's) receipt of its final overall PHAS score and designation as: A standard performer, within the range described in § 902.73(a)(1); or substandard performer, within the range described in § 902.73(a)(2), or, in the case of an RMC, after notification of its score from a PHA, a PHA or RMC shall correct any deficiency indicated in its assessment within 90 days, or within such period as provided in the HUD-executed Corrective Action Plan, if required.
+
+(2) *Notification and report to regional or field office.* A PHA shall notify the regional or field office of its action to correct a deficiency. A PHA shall also forward to the regional or field office an RMC's report of its action to correct a deficiency. A DF-RMC shall forward directly to the regional or field office its report of its action to correct a deficiency.
+
+(c) *Failure to correct deficiencies.* (1) If a PHA (or DF-RMC or RMC) fails to correct deficiencies within the time period noted in paragraph (b) of this section, or to correct deficiencies within the time specified in a Corrective Action Plan, or within such extensions as may be granted by HUD, the field office will notify the PHA of its noncompliance.
+
+(2) The PHA (or DF-RMC or RMC) will provide the field office with its reasons for lack of progress in negotiating, executing, or carrying out the Corrective Action Plan, within 30 days of the PHA's receipt of the noncompliance notification. HUD will advise the PHA as to the acceptability of its reasons for lack of progress.
+
+(3) If HUD finds the PHA's (or DF-RMC or RMC's) reasons for lack of progress unacceptable, HUD will notify the PHA (or DF-RMC or RMC) that it will take such actions as it may determine appropriate in accordance with the provisions of the 1937 Act and other statutes, the ACC, this part, and other HUD regulations, including, but not limited to, the remedies available for substantial default.

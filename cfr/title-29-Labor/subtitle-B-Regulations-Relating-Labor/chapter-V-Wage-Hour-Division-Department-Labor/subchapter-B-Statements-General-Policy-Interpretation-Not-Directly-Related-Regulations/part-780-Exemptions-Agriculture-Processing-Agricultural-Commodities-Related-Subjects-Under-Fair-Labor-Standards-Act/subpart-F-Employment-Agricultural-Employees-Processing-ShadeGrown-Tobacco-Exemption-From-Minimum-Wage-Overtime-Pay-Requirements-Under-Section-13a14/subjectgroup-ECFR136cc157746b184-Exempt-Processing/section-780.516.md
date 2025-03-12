@@ -1,0 +1,3 @@
+##### § 780.516 “Prior to the stemming process.” #####
+
+The exemption provided by section 13(a)(14) applies only to employees whose processing operations on shade-grown tobacco are performed “prior to the stemming process.” (See H. Rept. No. 75, 87th Cong., first sess., p. 26). This means that an employee engaged in stemming, the removal of the midrib from the tobacco leaf (*McComb* v. *Puerto Rico Tobacco Marketing Co-op. Ass'n.,* 80 F. Supp. 953, affirmed 181 F. 2d 697), or in any operations on the tobacco which are performed after stemming has begun will not come within the exemption. Stemming and all subsequent operations are nonexempt work.

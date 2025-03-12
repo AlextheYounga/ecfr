@@ -1,0 +1,3 @@
+##### § 140.503 Definition. #####
+
+Administrative settlement costs are costs related to the defense and settlement of contract claims including, but not limited to, salaries of a contracting officer or his/her authorized representative, attorneys, and/or members of State boards of arbitration, appeals boards, or similar tribunals, which are allocable to the findings and determinations of contract claims, but not including administrative or overhead costs.

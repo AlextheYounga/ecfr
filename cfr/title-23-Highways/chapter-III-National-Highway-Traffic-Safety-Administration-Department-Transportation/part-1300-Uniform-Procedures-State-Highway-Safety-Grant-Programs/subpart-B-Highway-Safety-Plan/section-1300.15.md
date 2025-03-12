@@ -1,0 +1,9 @@
+##### § 1300.15 Apportionment and obligation of Federal funds. #####
+
+(a) Except as provided in paragraph (b) of this section, on October 1 of each fiscal year, or soon thereafter, the NHTSA Administrator shall, in writing, distribute funds available for obligation under 23 U.S.C. Chapter 4 and Section 1906 to the States and specify any conditions or limitations imposed by law on the use of the funds.
+
+(b) In the event that authorizations exist but no applicable appropriation act has been enacted by October 1 of a fiscal year, the NHTSA Administrator may, in writing, distribute a part of the funds authorized under 23 U.S.C. Chapter 4 and Section 1906 contract authority to the States to ensure program continuity, and in that event shall specify any conditions or limitations imposed by law on the use of the funds. Upon appropriation of grant funds, the NHTSA Administrator shall, in writing, promptly adjust the obligation limitation and specify any conditions or limitations imposed by law on the use of the funds.
+
+(c) Funds distributed under paragraph (a) or (b) of this section shall be available for expenditure by the States to satisfy the Federal share of expenses under the approved Highway Safety Plan, and shall constitute a contractual obligation of the Federal Government, subject to any conditions or limitations identified in the distributing document. Such funds shall be available for expenditure by the States as provided in § 1300.41(b), after which the funds shall lapse.
+
+(d) Notwithstanding the provisions of paragraph (c) of this section, reimbursement of State expenses or advance payment of 23 U.S.C. Chapter 4 and Section 1906 funds shall be contingent upon the State's submission of up-to-date and approved projects in the HSP, in accordance with §§ 1300.11(d) and 1300.32.

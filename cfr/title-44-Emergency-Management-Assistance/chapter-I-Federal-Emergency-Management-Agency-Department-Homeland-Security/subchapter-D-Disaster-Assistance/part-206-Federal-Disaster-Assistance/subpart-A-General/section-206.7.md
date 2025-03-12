@@ -1,0 +1,3 @@
+##### § 206.7 Implementation of assistance from other Federal agencies. #####
+
+All directives, known as mission assignments, to other Federal agencies shall be in writing, or shall be confirmed in writing if made orally, and shall identify the specific task to be performed and the requirements or criteria to be followed. If the Federal agency is to be reimbursed, the letter will also contain a dollar amount which is not to be exceeded in accomplishing the task without prior approval of the issuing official.

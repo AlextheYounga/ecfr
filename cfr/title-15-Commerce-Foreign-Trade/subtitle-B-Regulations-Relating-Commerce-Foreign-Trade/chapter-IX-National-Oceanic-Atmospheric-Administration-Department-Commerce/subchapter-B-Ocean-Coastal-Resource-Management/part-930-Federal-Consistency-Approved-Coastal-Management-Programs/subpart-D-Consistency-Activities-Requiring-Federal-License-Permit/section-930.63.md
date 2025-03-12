@@ -1,0 +1,15 @@
+##### § 930.63 State agency objection to a consistency certification. #####
+
+(a) If the State agency objects to the applicant's consistency certification within six months following commencement of review, it shall notify the applicant, Federal agency and Director of the objection. A State agency may assert alternative bases for its objection, as described in paragraphs (b) and (c) of this section.
+
+(b) State agency objections that are based on sufficient information to evaluate the applicant's consistency certification shall describe how the proposed activity is inconsistent with specific enforceable policies of the management program. The objection may describe alternative measures (if they exist) which, if adopted by the applicant, may permit the proposed activity to be conducted in a manner consistent with the enforceable policies of the management program.
+
+(c) A State agency objection may be based upon a determination that the applicant has failed, following a written State agency request, to supply the information required pursuant to § 930.58 or other information necessary for the State agency to determine consistency. If the State agency objects on the grounds of insufficient information, the objection shall describe the nature of the information requested and the necessity of having such information to determine the consistency of the activity with the management program. The objection may describe alternative measures (if they exist) which, if adopted by the applicant, may permit the proposed activity to be conducted in a manner consistent with the enforceable policies of the management program.
+
+(d) *Alternatives.* If a State agency proposes an alternative(s) in its objection letter, the alternative(s) shall be described with sufficient specificity to allow the applicant to determine whether to, in consultation with the State agency: adopt an alternative; abandon the project; or file an appeal under subpart H. Application of the specificity requirement demands a case specific approach. More complicated activities or alternatives generally need more information than less-complicated activities or alternatives. See § 930.121(c) for further details regarding alternatives for appeals under subpart H of this part.
+
+(e) A State agency objection shall include a statement to the following effect:
+
+Pursuant to 15 CFR part 930, subpart H, and within 30 days from receipt of this letter, you may request that the Secretary of Commerce override this objection. In order to grant an override request, the Secretary must find that the activity is consistent with the objectives or purposes of the Coastal Zone Management Act, or is necessary in the interest of national security. A copy of the request and supporting information must be sent to the [Name of State] management program and the federal permitting or licensing agency. The Secretary may collect fees from you for administering and processing your request.
+
+[65 FR 77154, Dec. 8, 2000, as amended at 71 FR 828, Jan. 5, 2006]

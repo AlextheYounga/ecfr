@@ -1,0 +1,5 @@
+##### § 2200.107 Special circumstances; waiver of rules. #####
+
+In special circumstances not contemplated by the provisions of these rules and for good cause shown, the Commission or Judge may, upon application by any party or intervenor or on their own motion, after 3 working days notice to all parties and intervenors, waive any rule or make such orders as justice or the administration of the Act requires.
+
+[57 FR 41688, Sept. 11, 1992]

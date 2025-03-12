@@ -1,0 +1,3 @@
+##### § 452.50 Disqualification as a result of disciplinary action. #####
+
+Section 401(e) was not intended to limit the right of a labor organization to take disciplinary action against members guilty of misconduct. So long as such action is conducted in accordance with section 101(a)(5), a union may, for example, if its constitution and bylaws so provide, bar from office for a period of time any member who is guilty of specific acts, such as strikebreaking, detrimental to the union as an institution. However, if a union has improperly disciplined a member and barred him from candidacy, the Secretary may, in an appropriate case, treat him as a member in good standing entitled to all of the rights of members guaranteed by title IV.

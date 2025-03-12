@@ -1,0 +1,5 @@
+##### § 943.122 How is a consortium organized? #####
+
+(a) PHAs that elect to form a consortium enter into a consortium agreement among the participating PHAs, specifying a lead agency (see § 943.124), and submit a joint PHA Plan (§ 943.118). HUD enters into any necessary payment agreements with the lead agency and the other participating PHAs (see § 943.126) to provide that HUD funding to the participating PHAs for program categories covered by the consortium will be paid to the lead agency.
+
+(b) The lead agency must not be a PHA that is designated as a “troubled PHA” by HUD, that has been determined by HUD to fail the civil rights compliance threshold for new funding, or that has had a PHAS designation withheld for civil rights or other reasons. The lead agency is designated to receive HUD program payments on behalf of participating PHAs, to administer HUD requirements for administration of the funds, and to apply the funds in accordance with the consortium agreement and HUD regulations and requirements.

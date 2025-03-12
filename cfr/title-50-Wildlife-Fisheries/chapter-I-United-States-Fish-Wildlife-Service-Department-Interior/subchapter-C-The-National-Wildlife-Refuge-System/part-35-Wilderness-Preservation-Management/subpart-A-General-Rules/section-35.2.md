@@ -1,0 +1,5 @@
+##### § 35.2 Objectives. #####
+
+(a) Units of the National Wildlife Refuge System have been established by divers legal means and are administered for a variety of wildlife program purposes. The establishment of each wilderness unit is within and supplemental to the purposes for which a specific unit of the National Wildlife Refuge System was established and is administered. Each wilderness shall be administered for such other purposes for which the national wildlife refuge was established and shall be also administered to preserve its wilderness character.
+
+(b) Except as otherwise provided by law, wilderness areas shall be devoted to the public purposes of recreational, scenic, scientific, educational, conservation, and historical use and shall be administered in such a manner as will leave them unimpaired for future use and enjoyment as wilderness.

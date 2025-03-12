@@ -1,0 +1,3 @@
+##### § 1b.7 Procedure after investigation. #####
+
+Where it appears that there has been or may be a violation of any of the provisions of the acts administered by the Commission or the rules, opinions or orders thereunder, the Commission may institute administrative proceedings, initiate injunctive proceedings in the courts, refer matters, where appropriate, to the other governmental authorities, or take other appropriate action.

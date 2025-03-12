@@ -1,0 +1,3 @@
+##### § 452.62 Disqualification of candidates; procedural reasons. #####
+
+A candidate who is otherwise eligible for office may not be disqualified because of the failure of a union officer to perform his duties which are beyond the candidate's control. For example, the failure of a local recording secretary to perform his duty to complete and forward a candidate's nomination certificate to the district may not be used as the basis for disqualifying the candidate.

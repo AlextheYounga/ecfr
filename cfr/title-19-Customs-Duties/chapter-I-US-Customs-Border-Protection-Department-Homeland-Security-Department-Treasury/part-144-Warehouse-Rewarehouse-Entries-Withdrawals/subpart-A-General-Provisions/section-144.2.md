@@ -1,0 +1,5 @@
+##### § 144.2 Liability of importers and sureties. #####
+
+The importer of merchandise entered for warehouse is liable for the payment of all unpaid duties not only as principal on the bond filed on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter, but also by reason of his personal liability as consignee. Under the conditions of the bond, the sureties on the bond shall be held liable for the payment of duties and Customs charges not paid by the principal on the bond, whether such duties and charges are finally ascertained before the merchandise is withdrawn from Customs custody or thereafter. Liability may be transferred in part along with the right to withdraw the merchandise, in accordance with Subpart C of this part.
+
+[T.D. 73-175, 38 FR 17464, July 2, 1973, as amended by T.D. 84-213, 49 FR 41185, Oct. 19, 1984]

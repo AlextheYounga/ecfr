@@ -1,0 +1,3 @@
+##### § 424.21 Periodic review. #####
+
+At least once every 5 years, the Secretary shall conduct a review of each listed species to determine whether it should be delisted or reclassified. Each such determination shall be made in accordance with §§ 424.11, 424.16, and 424.17 of this part, as appropriate. A notice announcing those species under active review will be published in the Federal Register. Notwithstanding this section's provisions, the Secretary may review the status of any species at any time based upon a petition (see § 424.14) or upon other data available to the Service.

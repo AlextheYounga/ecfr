@@ -1,0 +1,3 @@
+##### § 265.37 Narcotics and other drugs. #####
+
+The possession, sale, consumption, or use on the site of narcotic or other drugs illegal under the laws of the State in which the particular site is situated is prohibited. The provisions of this section are not intended to preclude the applicability of any State or local laws and regulations with respect to the possession, sale, consumption, or use of narcotic or other drugs.

@@ -1,0 +1,17 @@
+##### § 200.950 Building product standards and certification program for solar water heating system. #####
+
+(a) *Applicable standards.* (1) All solar water heating systems shall be designed, manufactured, and tested in compliance with Solar Rating and Certification Corporation (SRCC) Document OG-300-93, Operating Guidelines and Minimum Standards for Certifying Solar Water Heating Systems: An Optional SWH System Certification and Rating Program. Section 10 of the SRCC standard has been omitted because it was considered proprietary, since it describes an administrative program specifically carried out by SRCC.
+
+(2) This standard has been approved by the Director of the Federal Register for incorporation by reference. The standard is available from the Solar Rating and Certification Corporation, 777 North Capitol Street, NE., suite 805, Washington, DC 20002. This standard is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(b) *Labeling.* Under the procedures set forth in § 200.935(d)(6) concerning labeling of a product, the administrator's validation mark and the manufacturer's certification of compliance with the applicable standards are required to be on the certification label issued by the administrator to the manufacturer. Each solar water heating system shall be marked as conforming to UM 100. The label shall include the manufacturer's name and plant location.
+
+(c) *Periodic tests and quality assurance inspection.* Under the procedure set forth in § 200.935(d)(8), testing and inspection shall be conducted as follows:
+
+(1) The Administrator shall visit the manufacturer's factory every two years to assure that the initially accepted quality assurance procedures are being followed.
+
+(2) At least every four years, the administrator shall visit the manufacturer's facility to select a sample of each certified solar water heating system for testing by a laboratory approved by the administrator.
+
+(d) *Warranty.* The manufacturer shall provide, at no cost, a full five-year warranty against defects in material or workmanship, on the absorber plate, cooling passages, and the collector (excluding any glass), running from the date of installation of the solar water heating system. The warranty also shall include the full costs of field inspection, parts, and labor required to remedy the defects, and will include the cost of replacement at the site if required. This warranty is not required to cover defects resulting from exposure to harmful materials, fire, flood, lightning, hurricane, tornado, hailstorms, earthquakes, or other acts of God, vandalism, explosions, harmful chemicals or other fluids, fumes or vapors. This exclusion will apply to the operation of the collector under excessive pressures or excessive flow rates, misuse, abuse, negligence, accidents, alterations, falling objects or other causes beyond the control of the manufacturer. Following the initial five years, the manufacturer shall provide a limited no-cost five-year warranty for collector parts on a prorata allowance basis.
+
+[58 FR 67676, Dec. 22, 1993]

@@ -1,0 +1,3 @@
+##### § 788.6 Scope of the section 13(a)(13) exemption. #####
+
+Employees will not be held exempt under section 13(a)(13) unless they are clearly shown to come within its terms. (*Wirtz* v. *F. M. Sloan Co.,* 4ll F. 2d 56 (C.A. 3), 18 WH Cases 878; *Gatlin Lumber Co.* v. *Mitchell,* 287 F. 2d 76 (C.A. 5) cert. denied, 366 U.S. 963.) By its terms, the exemption is limited to those employed in the named operations by an employer who employs not more than eight employees therein. The named operations are described in terms of ordinary speech and mean what they mean in ordinary intercourse in this context. These operations include the incidental activities normally performed by persons employed in them, but do not include mill operations.

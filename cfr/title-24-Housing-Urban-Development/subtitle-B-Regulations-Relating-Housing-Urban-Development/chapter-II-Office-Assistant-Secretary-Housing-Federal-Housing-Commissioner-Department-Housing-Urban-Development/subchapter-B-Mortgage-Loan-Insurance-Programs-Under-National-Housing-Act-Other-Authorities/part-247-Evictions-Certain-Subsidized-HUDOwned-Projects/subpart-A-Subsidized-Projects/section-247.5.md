@@ -1,0 +1,3 @@
+##### § 247.5 Inapplicability to substantial rehabilitation or demolition. #####
+
+This subpart shall not apply in any case in which the landlord terminates the occupancy of a tenant as a direct result of a determination, concurred in by HUD, to substantially rehabilitate or demolish the project or to dispose of the project to a purchaser who purchases for the purpose of substantial rehabilitation or demolition.

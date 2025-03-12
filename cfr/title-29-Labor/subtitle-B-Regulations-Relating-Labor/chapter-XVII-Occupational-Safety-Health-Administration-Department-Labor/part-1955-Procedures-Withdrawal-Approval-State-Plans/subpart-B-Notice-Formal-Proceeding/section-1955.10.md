@@ -1,0 +1,11 @@
+##### § 1955.10 Publication of notice of formal proceeding. #####
+
+(a) The Assistant Secretary, prior to any notice of a formal proceeding under this subpart, shall by letter, provide the State with an opportunity to show cause within 45 days why a proceeding should not be instituted for withdrawal of approval of a plan or any portion thereof. When a State fails to show cause why a formal proceeding for withdrawal of approval should not be instituted, the State shall be deemed to have waived its right to a formal proceeding under paragraph (b) of this section and the Assistant Secretary shall cause to be published in the Federal Register a notice of withdrawal of approval of the State plan.
+
+(b)(1) Whenever the Assistant Secretary, on the basis of a petition under § 1955.5 or on his own initiative, determines that approval of a State plan or any portion thereof should be withdrawn, and the State has not waived its right under § 1955.3(b) or paragraph (a) of this section to a formal proceeding, he shall publish a notice of proposed withdrawal in the Federal Register as set out in § 1955.11 and cause such notice, in the form of a complaint, to be served on the State in accordance with § 1955.15.
+
+(2) Not later than 5 days following the publication of the notice in the Federal Register, the State agency shall publish, or cause to be published, within the State reasonable notice containing a summary of the information in the Federal notice, as well as the location or locations where a copy of the full notice is available for inspection and public copying.
+
+(3) Two copies of such notice shall be served on the Assistant Secretary in accordance with § 1955.15.
+
+(c) Not less than 30 days following publication of the notice in the Federal Register, the State shall submit a statement of those items in the notice which are being contested and a brief statement of the facts relied upon, including whether the use of witnesses is intended. This statement shall be served on the Assistant Secretary in accordance with § 1955.15. When a State fails to respond to the notice of proposed withdrawal under paragraph (b)(1) of this section, the State shall be deemed to have waived its right to a formal proceeding and the Assistant Secretary shall cause to be published in the Federal Register a notice of withdrawal of approval.

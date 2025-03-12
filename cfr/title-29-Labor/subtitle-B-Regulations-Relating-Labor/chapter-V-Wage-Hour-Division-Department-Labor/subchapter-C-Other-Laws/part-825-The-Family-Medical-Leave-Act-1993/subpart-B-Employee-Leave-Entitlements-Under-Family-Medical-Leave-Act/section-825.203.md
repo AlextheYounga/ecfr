@@ -1,0 +1,3 @@
+##### § 825.203 Scheduling of intermittent or reduced schedule leave. #####
+
+Eligible employees may take FMLA leave on an intermittent or reduced schedule basis when medically necessary due to the serious health condition of a covered family member or the employee or the serious injury or illness of a covered servicemember. *See* § 825.202. Eligible employees may also take FMLA leave on an intermittent or reduced schedule basis when necessary because of a qualifying exigency. If an employee needs leave intermittently or on a reduced leave schedule for planned medical treatment, then the employee must make a reasonable effort to schedule the treatment so as not to disrupt unduly the employer's operations.

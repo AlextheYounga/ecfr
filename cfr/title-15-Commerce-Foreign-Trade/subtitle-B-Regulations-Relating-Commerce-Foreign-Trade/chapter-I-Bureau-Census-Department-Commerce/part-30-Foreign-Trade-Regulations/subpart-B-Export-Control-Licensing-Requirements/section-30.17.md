@@ -1,0 +1,3 @@
+##### § 30.17 Customs and Border Protection regulations. #####
+
+Refer to the DHS's CBP regulations, 19 CFR 192, for information referencing the advanced electronic submission of cargo information on exports for screening and targeting purposes pursuant to the Trade Act of 2002. The regulations also prohibit postdeparture filing of export information for certain shipments, and contain other regulatory provisions affecting the reporting of EEI. CBP's regulations can be obtained from the U.S. Government Printing Office's Web site at *www.gpoaccess.gov.*

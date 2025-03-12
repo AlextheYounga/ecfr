@@ -1,0 +1,5 @@
+##### § 41.6 Matters involving the Architectural and Transportation Barriers Compliance Board. #####
+
+(a) *Complaints.* With respect to any complaint referred to the responsible Department Official by the Architectural and Transportation Barriers Compliance Board (A&TBCB), the procedures set forth in this part shall apply. In such a case, the Secretary shall coordinate all investigations and/or other compliance actions to assure that the Department resolves any architectural barriers deficiencies so as to respond to the A&TBCB within its required 60-day period set forth at 36 CFR 1150.41 for the informal resolution of complaints.
+
+(b) *Citations.* The Office of General Counsel shall, with the assistance of the appropriate Assistant Secretary, respond to any citation issued by the A&TBCB to the Department alleging noncompliance with the standards issued pursuant to the Architectural Barriers Act of 1968, as amended. The applicable procedures regarding such a citation are set forth at 36 CFR part 1150.

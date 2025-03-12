@@ -1,0 +1,3 @@
+##### § 181.96 Change in status of transaction. #####
+
+Each person submitting a request for an advance ruling in connection with a NAFTA transaction must immediately advise Customs in writing of any change in the status of that transaction upon becoming aware of the change. In particular, Customs must be advised when any transaction described in the advance ruling request as prospective becomes current and under the jurisdiction of a Customs field office. In addition, any person engaged in a NAFTA transaction coming under the jurisdiction of a Customs field office who has previously requested a NAFTA advance ruling with respect to that transaction must advise the field office of that fact.

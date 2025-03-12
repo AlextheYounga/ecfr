@@ -1,0 +1,3 @@
+##### § 367.4074 Account 407.4, Regulatory credits. #####
+
+This account shall be credited, when appropriate, with amounts debited to Account 182.3, Other Regulatory Assets, to establish regulatory assets. This account shall also be credited, when appropriate, with the amounts debited to Account 254, Other Regulatory Liabilities, concurrent with the return of such amounts to customers through rates.

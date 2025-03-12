@@ -1,0 +1,3 @@
+##### § 780.210 The typical hatchery operations constitute “agriculture.” #####
+
+As stated in § 780.127, the typical hatchery is engaged in “agriculture,” whether in a rural or city location. Where the hatchery is engaged solely in procuring eggs for hatching, performing the hatching operations, and selling the chicks, all the employees including office and maintenance workers are engaged in agriculture (see *Miller Hatcheries* v. *Boyer,* 131 F. 2d 283).

@@ -1,0 +1,3 @@
+##### § 232.1003 Eligible operator. #####
+
+Operator shall be a single asset entity acceptable to the Commissioner, and shall possess the powers necessary and incidental to operating the healthcare facility, except that the Commissioner may approve a non-single asset entity under such circumstances, terms, and conditions determined and specified as acceptable to the Commissioner. A master tenant under a master lease approved by the Commissioner who has subleased the healthcare facility to an operator is not an Operator.

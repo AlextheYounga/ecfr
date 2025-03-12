@@ -1,0 +1,5 @@
+##### § 323.3 Responsibilities. #####
+
+(a) As stated in The National Plan for Emergency Preparedness, the direction of resources mobilization is a Federal responsibility. However, in the period immediately following an attack, certain geographical areas may be temporarily isolated, and State and local governments will assume responsibility for the use of resources remaining in such areas until effective Federal authority can be restored. State and local governments will not assume responsibility for resources under the jurisdiction of a Federal agency where the Federal agency is able to function.
+
+(b) As soon as possible after an attack and until specific national direction and guidance on the use of resources is provided, Federal, State, and local officials will determine what resources are available, to what needs they can be applied, how they are to be used, and the extent to which resources are deficient or in excess of survival needs. They will base determinations as to the relative urgency for use of resources primarily upon the importance of specific needs of defense, survival, and recovery.

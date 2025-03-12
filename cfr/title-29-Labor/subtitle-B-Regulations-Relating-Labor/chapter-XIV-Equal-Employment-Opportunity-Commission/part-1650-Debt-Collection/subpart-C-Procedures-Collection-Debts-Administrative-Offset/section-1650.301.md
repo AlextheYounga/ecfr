@@ -1,0 +1,3 @@
+##### § 1650.301 Purpose and regulatory procedures for the collection of debts by administrative offset. #####
+
+The Commission hereby adopts by cross-reference the administrative offset regulation issued by the Department of the Treasury at 31 CFR 285.5. The general standards and procedures governing the collection, compromise, termination, and referral to the Department of Justice of claims for money and property that are prescribed in the regulations issued jointly by the Secretary of the Treasury and the Attorney General of the United States, the Federal Claims Collection Standards (31 CFR Parts 900-904), apply to the administrative collection activities of the EEOC. The authority to collect debts by administrative offset is delegated to the CFO.

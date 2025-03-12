@@ -1,0 +1,3 @@
+##### § 367.9110 Account 911, Supervision. #####
+
+This account must include the cost of labor and expenses incurred in the general direction and supervision of sales activities, except merchandising. Direct supervision of a specific activity, such as demonstrating, selling, or advertising, must be charged to the account wherein the costs of such activity are included (*See* Operating Expense Instructions in § 367.80).

@@ -1,0 +1,3 @@
+##### § 151.14 Adjudication. #####
+
+If the claimant, after written notice by the Administrator of the amount authorized for payment in full settlement of the claim and after all applicable procedures of §§ 151.12 and 151.13 have been followed elects to dispute the amount authorized, it may then initiate action in the United States Claims Court, which shall have jurisdiction to adjudicate the claim and enter judgment in accordance with section 11(d) of the Act.

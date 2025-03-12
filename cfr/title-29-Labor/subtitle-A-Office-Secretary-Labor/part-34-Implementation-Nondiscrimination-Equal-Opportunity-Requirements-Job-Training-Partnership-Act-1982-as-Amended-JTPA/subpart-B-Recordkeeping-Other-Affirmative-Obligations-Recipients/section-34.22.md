@@ -1,0 +1,9 @@
+##### § 34.22 Designation of Equal Opportunity Officer. #####
+
+(a) A recipient, other than a small recipient or service provider as defined in § 34.2, shall designate an Equal Opportunity Officer to coordinate its responsibilities under this part. Such responsibilities include, but are not limited to, serving as the recipient's liaison with the Directorate and overseeing the development and implementation of the Methods of Administration pursuant to § 34.33. The Equal Opportunity Officer shall report on equal opportunity matters directly to the State JTPA Director, Governor's JTPA Liaison, Job Corps Center Director, SESA Administrator, or chief executive officer of the SDA or substate grant recipient, as applicable. The Director may require the Equal Opportunity Officer and his or her staff to undergo training, the expenses of which shall be the responsibility of the recipient. The recipient shall make public the name, title of position, address and telephone number of the Equal Opportunity Officer.
+
+(b) Recipients shall assign sufficient staff and resources to the Equal Opportunity Officer to ensure compliance with the nondiscrimination and equal opportunity provisions of JTPA and this part.
+
+(c) Small recipients shall designate an individual responsible for the adoption and publication of complaint procedures and the processing of complaints pursuant to § 34.42.
+
+(d) Service providers as defined by § 34.2 shall not be required to designate an Equal Opportunity Officer. The responsibility for ensuring service provider compliance with the nondiscrimination and equal opportunity provisions of JTPA and this part shall rest with the Governor, SDA grant recipient or Substate grantee, as provided in the State's Methods of Administration.

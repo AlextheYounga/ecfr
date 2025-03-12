@@ -1,0 +1,9 @@
+##### § 1309.12 What are a recipient's responsibilities on compliance reports and access to information? #####
+
+(a) *Compliance reports.* Each recipient shall keep such records and submit to TVA timely, complete and accurate compliance reports at such times and in such form and containing such information, as TVA may determine to be necessary to enable it to ascertain whether the recipient has complied or is complying with this part. In the case in which a primary recipient passes through financial assistance from TVA to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(b) *Access to sources of information.* Each recipient shall permit access by TVA during normal business hours to such of its books, records, accounts and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person, and such agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(c) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program or activity for which the recipient receives financial assistance, and make such information available to them in such manner as TVA finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this part.
+
+[46 FR 30811, June 11, 1981, as amended at 68 FR 51357, Aug. 26, 2003]

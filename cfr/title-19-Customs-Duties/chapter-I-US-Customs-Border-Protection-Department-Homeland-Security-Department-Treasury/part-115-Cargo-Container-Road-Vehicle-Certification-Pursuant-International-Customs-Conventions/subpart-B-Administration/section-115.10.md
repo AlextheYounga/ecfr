@@ -1,0 +1,11 @@
+##### § 115.10 Certificate of approval. #####
+
+A Certifying Authority shall issue a certificate of approval by design type for a specified number or unlimited series of containers that are approved in accordance with the procedures contained in §§ 115.29, 115.31, 115.38, and 115.41, and road vehicles that are approved in accordance with the procedures contained in §§ 115.49, 115.52, 115.63, and 115.66 of this part.
+
+(a) *Road vehicles.* A Certifying Authority shall issue a certificate of approval conforming to the model in Annex 4 of the 1975 TIR Convention for vehicles submitted for individual or design type approval, if satisfied that the vehicles comply with the technical conditions prescribed in Annex 2 of the TIR Convention, 1975.
+
+(b) *Containers*—(1) *Approval after manufacture.* A Certifying Authority shall issue a certificate of approval conforming to the model in appendix 3, Part II to Annex 7 of the TIR Convention, 1975, and appendix 3 to Annex 5 of the Customs Convention on Containers, 1972, for containers approved at a stage after manufacture, when it has been ascertained that the containers comply with the technical conditions prescribed in Annex 7 of the TIR Convention, 1975, and Annex 4 of the Customs Convention on Containers, 1972. The certificate shall be valid for the number of containers approved.
+
+(2) *Design type approved.* A Certifying Authority shall issue a single certificate of approval conforming to the model in appendix 2, Part II to Annex 7 of the TIR Convention, 1975, and appendix 2 to Annex 5 of the Customs Convention on Containers, 1972, for containers approved by design type when it has been ascertained that the container type complies with the technical conditions prescribed in Annex 7 of the 1975 TIR Convention, and Annex 4 of the Customs Convention on Containers, 1972. The certificate shall be valid for all containers manufactured in conformity with the specifications of the type approved.
+
+(c) *Provisions common to both approval procedures.* The certificate of approval issued pursuant to paragraphs (a) and (b) of this section shall be valid for either the specific number of containers approved, or for an unlimited series of containers of the approved type.

@@ -1,0 +1,5 @@
+##### § 11.20 Time for payment. #####
+
+Annual charges must be paid no later than 45 days after rendition of a bill by the Commission. If the licensee or exemptee believes that the bill is incorrect, no later than 45 days after its rendition the licensee or exemptee may file an appeal of the bill with the Chief Financial Officer. No later than 30 days after the date of issuance of the Chief Financial Officer's decision on the appeal, the licensee or exemptee may file a request for rehearing of that decision pursuant to § 385.713 of this chapter. In the event that a timely appeal to the Chief Financial Officer or a timely request to the Commission for rehearing is filed, the payment of the bill may be made under protest, and subject to refund pending the outcome of the appeal or rehearing.
+
+[60 FR 15048, Mar. 22, 1995]

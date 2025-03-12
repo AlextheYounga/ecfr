@@ -1,0 +1,13 @@
+##### § 35.21 Applicability to licensees and others subject to section 19 or 20 of the Federal Power Act. #####
+
+Upon further order of this Commission issued upon its own motion or upon complaint or request by any person or State within the meaning of sections 19 or 20 of the Federal Power Act, the provisions of §§ 35.1 through 35.19 shall be operative as to any licensee or others who are subject to this Commission's jurisdiction in respect to services and the rates and charges of payment therefor by reason of the requirements of sections 19 or 20 of the Federal Power Act. The requirement of this section for compliance with the provisions of §§ 35.1 through 35.19 shall be in addition to and independent of any obligation for compliance with those regulations by reason of the provisions of sections 205 and 206 of the Federal Power Act. For purposes of applying this section *Electric Service* as otherwise defined in § 35.2(a) shall mean: Services to customers or consumers of power within the meaning of sections 19 or 20 of the Federal Power Act which may be comprised of various classes of capacity and energy and/or transmission services subject to the jurisdiction of this Commission. *Electric Service* shall include the utilization of facilities owned or operated by any licensee or others to effect any of the foregoing sales or services whether by leasing or other arrangements. As defined herein *Electric Service* is without regard to the form of payment or compensation for the sales or services rendered, whether by purchase and sale, interchange, exchange, wheeling charge, facilities charge, rental or otherwise. For purposes of applying this section, *Rate Schedule* as otherwise defined in § 35.2(b) shall mean: A statement of
+
+(1) Electric service as defined in this § 35.21,
+
+(2) Rates and charges for or in connection with that service, and
+
+(3) All classifications, practices, rules, regulations, or contracts which in any manner affect or relate to the aforementioned service, rates and charges. This statement shall be in writing and may take the physical form of a contractual document, purchase or sale agreement, lease of facilities, tariff5 or other writing. Any oral agreement or understanding forming a part of such statement shall be reduced to writing and made a part thereof.
+
+5 See § 35.2.
+
+[Order 271, 28 FR 10573, Oct. 2, 1963, as amended by Order 714, 73 FR 57533, Oct. 3, 2008]

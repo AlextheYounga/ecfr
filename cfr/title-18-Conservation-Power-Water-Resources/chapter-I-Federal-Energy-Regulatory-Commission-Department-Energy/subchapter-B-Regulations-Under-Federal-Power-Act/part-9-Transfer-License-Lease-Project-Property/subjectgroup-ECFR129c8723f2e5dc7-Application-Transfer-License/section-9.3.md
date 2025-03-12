@@ -1,0 +1,7 @@
+##### § 9.3 Transfer. #####
+
+(a) Approval by the Commission of transfer of a license is contingent upon the transfer of title to the properties under license, delivery of all license instruments, and a showing that such transfer is in the public interest. The transferee shall be subject to all the conditions of the license and to all the provisions and conditions of the act, as though such transferee were the original licensee and shall be responsible for the payment of annual charges which accrue prior to the date of transfer.
+
+(b) When the Commission shall have approved the transfer of the license, its order of approval shall be forwarded to the transferee for acknowledgment of acceptance. Unless application for rehearing is filed, or unless the order is stayed by the Commission, the order shall become final thirty (30) days from date of issuance and the acknowledgment of acceptance shall be filed in triplicate with the Commission within sixty (60) days from date of issuance accompanied by a certified copy of the deed of conveyance or other instrument evidencing transfer of the property under license, together with evidence of the recording thereof.
+
+[Order 175, 19 FR 5217, Aug. 18, 1954]

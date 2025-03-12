@@ -1,0 +1,5 @@
+##### § 1960.85 Role of the Secretary. #####
+
+(a) The Secretary shall maintain liaison with agency heads to ensure that they encourage their field activities to participate actively in field council programs. To ensure maximum participation, the field councils' annual reports to the Secretary shall provide descriptions of the degree of management and employee participation by the defined Federal field activities. The Secretary shall annually furnish each agency head with a report consolidating the information received as to the participation of the agency's several field installations in field council activities.
+
+(b) The Secretary shall provide leadership and guidance and make available necessary equipment, supplies, and staff services to the Field Federal Safety and Health Councils to assist them in carrying out their responsibilities. The Secretary shall also provide consultative and technical services to field councils. These services shall involve aid in any phase of developing and planning programs; and in sponsoring, conducting or supporting safety and health training courses.

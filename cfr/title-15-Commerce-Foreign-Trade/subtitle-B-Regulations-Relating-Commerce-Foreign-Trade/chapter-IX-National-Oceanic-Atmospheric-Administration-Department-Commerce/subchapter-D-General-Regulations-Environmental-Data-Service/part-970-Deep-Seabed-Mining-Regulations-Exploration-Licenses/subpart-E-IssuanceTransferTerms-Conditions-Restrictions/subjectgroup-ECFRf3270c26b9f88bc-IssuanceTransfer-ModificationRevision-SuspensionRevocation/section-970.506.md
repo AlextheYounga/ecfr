@@ -1,0 +1,3 @@
+##### § 970.506 Environmental effects. #####
+
+Before issuing or transferring an exploration license, the Administrator must find that the exploration proposed in the application cannot reasonably be expected to result in a significant adverse effect on the quality of the environment, taking into account the analyses and information in any applicable EIS prepared pursuant to section 109(c) or 109(d) of the Act. This finding also will be based upon the considerations and approach in § 970.701.

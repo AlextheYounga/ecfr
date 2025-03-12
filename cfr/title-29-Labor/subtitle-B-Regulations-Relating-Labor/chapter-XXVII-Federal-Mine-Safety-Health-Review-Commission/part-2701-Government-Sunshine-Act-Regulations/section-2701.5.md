@@ -1,0 +1,3 @@
+##### § 2701.5 Petition for review. #####
+
+Any person may petition the Commission to review any action he alleges to be in violation of this part or 5 U.S.C. 552b that was taken by any employee or member of the Commission. The petition shall be in writing and shall be filed with the Executive Director within 30 days of the alleged violation. The Commission shall consider and rule upon the petition with expedition.

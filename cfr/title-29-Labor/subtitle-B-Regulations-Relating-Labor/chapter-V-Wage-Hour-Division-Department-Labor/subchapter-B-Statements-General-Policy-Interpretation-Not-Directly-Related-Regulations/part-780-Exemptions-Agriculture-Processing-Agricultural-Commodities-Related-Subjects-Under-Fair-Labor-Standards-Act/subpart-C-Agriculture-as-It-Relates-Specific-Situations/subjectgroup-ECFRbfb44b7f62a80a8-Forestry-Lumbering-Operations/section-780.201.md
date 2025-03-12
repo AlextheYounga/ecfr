@@ -1,0 +1,5 @@
+##### § 780.201 Meaning of “forestry or lumbering operations.” #####
+
+The term “forestry or lumbering operations” refers to the cultivation and management of forests, the felling and trimming of timber, the cutting, hauling, and transportation of timber, logs, pulpwood, cordwood, lumber, and like products, the sawing of logs into lumber or the conversion of logs into ties, posts, and similar products, and similar operations. It also includes the piling, stacking, and storing of all such products. The gathering of wild plants and of wild or planted Christmas trees are included. (See the related discussion in §§ 780.205 through 780.209 and in part 788 of this chapter which considers the section 13(a)(13) exemption for forestry or logging operations in which not more than eight employees are employed.) “Wood working” as such is not included in “forestry” or “lumbering” operations. The manufacture of charcoal under modern methods is neither a “forestry” nor “lumbering” operation and cannot be regarded as “agriculture.”
+
+[74 FR 26014, May 29, 2009]

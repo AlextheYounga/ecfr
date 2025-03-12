@@ -1,0 +1,5 @@
+##### § 1401.2 Production of records or testimony by FMCS employees. #####
+
+(a) Public policy and the successful effectuation of the Federal Mediation and Conciliation Service's mission require that commissioners and employees maintain a reputation for impartiality and integrity. Labor and management or other interested parties participating in mediation efforts must have the assurance and confidence that information disclosed to commissioners and other employees of the Service will not subsequently be divulged, voluntarily or because of compulsion, unless authorized by the Director of the Service.
+
+(b) No officer, employee, or other person officially connected in any capacity with the Service, currently or formerly shall, in response to a subpoena, subpoena duces tecum, or other judicial or administrative order, produce any material contained in the files of the Service, disclose any information acquired as part of the performance of his official duties or because of his official status, or testify on behalf of any party to any matter pending in any judicial, arbitral or administrative proceeding, without the prior approval of the Director.

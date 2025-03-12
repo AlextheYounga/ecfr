@@ -1,0 +1,5 @@
+##### § 1601.79 Revocation of certification. #####
+
+Certification of a designated FEP agency is discretionary with the Commission and the Commission may, upon its own motion, withdraw such certification as a result of an evaluation conducted pursuant to § 1601.78 or for any reason which leads the Commission to believe that such certification no longer serves the interest of effective enforcement of title VII, the ADA, or GINA. The Commission will accept comments from any individual or organization concerning the efficacy of the certification of any designated FEP agency. The revocation shall be effected by the issuance and publication of an amendment to § 1601.80 of this part.
+
+[46 FR 50367, Oct. 13, 1981. Redesignated and amended at 56 FR 9624, 9625, Mar. 7, 1991; 74 FR 63982, Dec. 7, 2009]

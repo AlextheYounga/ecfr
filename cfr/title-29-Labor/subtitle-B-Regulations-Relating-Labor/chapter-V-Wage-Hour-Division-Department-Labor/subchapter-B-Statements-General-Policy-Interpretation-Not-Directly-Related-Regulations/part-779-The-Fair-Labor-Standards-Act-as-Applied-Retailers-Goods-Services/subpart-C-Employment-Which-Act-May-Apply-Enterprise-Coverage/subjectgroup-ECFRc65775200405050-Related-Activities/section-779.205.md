@@ -1,0 +1,3 @@
+##### § 779.205 Enterprise must consist of “related activities.” #####
+
+The enterprise must consist of certain “related activities” performed for a common business purpose; activities which are not “related” are not a part of the enterprise even if performed by the same employer. Moreover, even if activities are “related” they may be excluded from the enterprise if they are performed only “for” the enterprise and not as a part of it by an independent contractor. This is discussed separately in § 779.206.

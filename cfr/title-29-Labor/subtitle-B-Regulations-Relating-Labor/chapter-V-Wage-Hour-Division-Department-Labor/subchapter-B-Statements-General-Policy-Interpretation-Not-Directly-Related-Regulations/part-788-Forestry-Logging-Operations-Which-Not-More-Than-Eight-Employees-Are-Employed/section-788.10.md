@@ -1,0 +1,5 @@
+##### § 788.10 “Preparing \* \* \* other forestry products.” #####
+
+As used in the exemption, “other forestry products” mean plants of the forest and the natural properties or substances of such plants and trees. Included among these are decorative greens such as holly, ferns and Christmas trees, roots, stems, leaves, Spanish moss, wild fruit, and brush. Gathering and preparing such forestry products as well as transporting them to the mill, processing plant, railroad, or other transportation terminal are among the described operations. Preparing such forestry products does not include operations which change the natural physical or chemical condition of the products or which amount to extracting as distinguished from gathering, such as shelling nuts, or mashing berries to obtain juices.
+
+[74 FR 26015, May 29, 2009]

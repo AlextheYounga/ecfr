@@ -1,0 +1,3 @@
+##### § 3282.304 Inadequate State plan. #####
+
+If the Secretary determines that a State plan submitted under this subpart is not adequate, the designated State agency shall be informed of the additions and corrections required for approval. A revised State plan shall be submitted within 30 days of receipt of such determination. If the revised State plan is inadequate or if the State fails to resubmit within the 30 day period or otherwise indicates that it does not intend to change its State plan as submitted, the Secretary shall notify the designated State agency that the State plan is not approved and that it has a right to a hearing on the disapproval in accordance with subpart D of this part.

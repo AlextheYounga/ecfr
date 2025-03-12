@@ -1,0 +1,3 @@
+##### § 511.15 Submittals prior to reports. #####
+
+As soon as the receipt of evidence is concluded, a committee or subcommittee presiding at a hearing shall receive any proposed findings of fact and recommendations together with the reasons therefor submitted by any party. These submittals shall be oral unless otherwise directed by the committee or subcommittee. If, in the discretion of the committee or subcommittee such proposals should be in writing, it may grant such additional time as it deems essential.

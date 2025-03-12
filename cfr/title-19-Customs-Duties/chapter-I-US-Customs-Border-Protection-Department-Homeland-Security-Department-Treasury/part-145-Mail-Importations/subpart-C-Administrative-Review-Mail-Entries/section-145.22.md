@@ -1,0 +1,11 @@
+##### § 145.22 Procedures for obtaining administrative review. #####
+
+If an addressee is dissatisfied with the amount of duty assessed under a mail entry made before December 18, 2004, he may obtain administrative review in the following ways:
+
+(a) He may pay the assessed duty, take delivery of the merchandise, and send a copy of the mail entry to the issuing CBP office indicated on the mail entry, together with a statement of the reason it is believed the duty assessed is incorrect. Any invoices, bills of sale, or other evidence should be submitted with the statement. The addressee may show the mail entry number and date on his statement instead of sending a copy of the mail entry, but this may result in delay.
+
+(b) He may postpone acceptance of the shipment, and within the time allowed by the Postal regulations provide the postmaster with a written statement of his objections. The postmaster will forward the mail entry together with the addressee's statement and any invoices, bills of sale, or other evidence submitted by the addressee to the port director who issued the entry, and retain custody of the shipment until advice is received from the port director as to the disposition to be made. If the addressee is located near one of the ports at which CBP officers are authorized to review mail entries (see 39 CFR 10.5), the postmaster may send the mail entry to that port, together with the addressee's statement and evidence, for reconsideration by the port director.
+
+(c) He may pay the assessed duty and take delivery of the merchandise, and file a protest under section 514, Tariff Act of 1930, as amended (19 U.S.C. 1514), in the form and manner prescribed in part 174 of this chapter. For mail entries made before December 18, 2004, a protest must be filed no later than 90 days after payment of the duties by the addressee. All other mail entries must be protested within 180 days after payment of the duties by the addressee.
+
+[T.D. 73-175, 38 FR 13369, May 21, 1973, as amended by T.D. 78-99, 43 FR 13061, Mar. 29, 1978; CBP Dec. 11-02, 76 FR 2575, Jan. 14, 2011]

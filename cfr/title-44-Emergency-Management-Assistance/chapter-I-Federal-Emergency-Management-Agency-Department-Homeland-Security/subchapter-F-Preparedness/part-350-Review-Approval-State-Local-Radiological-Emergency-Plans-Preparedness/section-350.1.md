@@ -1,0 +1,3 @@
+##### § 350.1 Purpose. #####
+
+The purpose of the regulation in this part is to establish policy and procedures for review and approval by the Federal Emergency Management Agency (FEMA) of State and local emergency plans and preparedness for the offsite effects of a radiological emergency which may occur at a commercial nuclear power facility. Review and approval of these plans and preparedness involves preparation of findings and determinations of the adequacy of the plans and capabilities of State and local governments to effectively implement the plans.

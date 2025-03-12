@@ -1,0 +1,3 @@
+##### § 778.330 Prizes or contest awards generally. #####
+
+All compensation (except statutory exclusions) paid by or on behalf of an employer to an employee as remuneration for employment must be included in the regular rate, whether paid in the form of cash or otherwise. Prizes are therefore included in the regular rate if they are paid to an employee as remuneration for employment. If therefore it is asserted that a particular prize is not to be included in the regular rate, it must be shown either that the prize was not paid to the employee for employment, or that it is not a thing of value which is part of wages.

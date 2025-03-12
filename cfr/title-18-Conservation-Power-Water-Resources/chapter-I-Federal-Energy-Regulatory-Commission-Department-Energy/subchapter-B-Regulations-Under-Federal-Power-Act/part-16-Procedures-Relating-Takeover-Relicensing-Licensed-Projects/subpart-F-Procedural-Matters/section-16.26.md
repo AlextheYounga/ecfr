@@ -1,0 +1,7 @@
+##### § 16.26 Disposition of a project for which no timely application is filed following a notice of intent not to file. #####
+
+(a) If an existing licensee indicates in the notice filed pursuant to § 16.6 that it will not file an application for new license, nonpower license, subsequent license, or exemption and no other applicant files an application at least 24 months before the existing license expires in the case of licenses subject to sections 14 and 15 of the Federal Power Act, or by the deadlines specified in § 16.20(c) in the case of licenses not subject to sections 14 and 15 of the Federal Power Act, the Director of the Office of Energy Projects will provide the existing licensee with written notice that no timely applications for the project have been filed.
+
+(b) The existing licensee, within 90 days from the date of the written notice provided in paragraph (a), must file a schedule for the filing of a surrender application for the project for the approval of the Director of the Office of Energy Projects.
+
+(c) Any application for surrender must be filed according to the approved schedule, must comply with the requirements of § 16.8 and part 6 of this chapter, and must provide for disposition of any project facility.

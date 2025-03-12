@@ -1,0 +1,3 @@
+##### § 531.29 Board, lodging, or other facilities. #####
+
+Section 3(m) applies to both of the following situations: (a) Where board, lodging, or other facilities are furnished in addition to a stipulated wage; and (b) where charges for board, lodging, or other facilities are deducted from a stipulated wage. The use of the word “furnishing” and the legislative history of section 3(m) clearly indicate that this section was intended to apply to all facilities furnished by the employer as compensation to the employee, regardless of whether the employer calculates charges for such facilities as additions to or deductions from wages.

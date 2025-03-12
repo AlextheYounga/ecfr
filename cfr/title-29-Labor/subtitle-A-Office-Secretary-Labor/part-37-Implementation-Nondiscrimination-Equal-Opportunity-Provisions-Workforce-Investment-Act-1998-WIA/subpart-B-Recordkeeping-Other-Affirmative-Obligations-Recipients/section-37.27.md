@@ -1,0 +1,3 @@
+##### § 37.27 What are the obligations of small recipients regarding Equal Opportunity Officers? #####
+
+Although small recipients do not need to designate Equal Opportunity Officers who have the full range of responsibilities listed above, they must designate an individual who will be responsible for developing and publishing of complaint procedures, and the processing of complaints, as explained in §§ 37.76 through 37.79.

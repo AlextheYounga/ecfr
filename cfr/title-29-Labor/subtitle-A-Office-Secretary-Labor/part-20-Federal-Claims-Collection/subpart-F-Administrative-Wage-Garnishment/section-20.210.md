@@ -1,0 +1,3 @@
+##### § 20.210 Exclusions from garnishment. #####
+
+The Department may not garnish the wages of a debtor who it knows has been involuntarily separated from employment until the debtor has been reemployed continuously for at least 12 months. The debtor has the burden of informing the Department (or any other federal agency exercising the Department's authority under this subpart) of the circumstances surrounding an involuntary separation from employment.

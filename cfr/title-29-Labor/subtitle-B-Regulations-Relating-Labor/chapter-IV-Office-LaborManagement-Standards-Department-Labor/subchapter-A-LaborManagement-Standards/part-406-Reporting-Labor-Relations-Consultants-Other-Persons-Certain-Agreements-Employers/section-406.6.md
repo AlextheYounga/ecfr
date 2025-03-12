@@ -1,0 +1,3 @@
+##### § 406.6 Relation of section 8(c) of the National Labor Relations Act to this part. #####
+
+While nothing contained in section 203 of the Act shall be construed as an amendment to, or modification of the rights protected by, section 8(c) of the National Labor Relations Act, as amended (61 Stat. 142; 29 U.S.C. 158 (c)), activities protected by such section of the said Act are not for that reason exempted from the reporting requirements of this part and, if otherwise subject to such reporting requirements, are required to be reported. Consequently, information required to be included in Forms LM-20 and 21 must be reported regardless of whether that information relates to activities which are protected by section 8(c) of the National Labor Relations Act, as amended.

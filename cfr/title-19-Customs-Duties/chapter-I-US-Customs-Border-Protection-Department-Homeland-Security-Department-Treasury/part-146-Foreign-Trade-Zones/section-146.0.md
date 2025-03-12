@@ -1,0 +1,3 @@
+##### § 146.0 Scope. #####
+
+Foreign trade zones are established under the Foreign Trade Zones Act and the general regulations and rules of procedure of the Foreign Trade Zones Board contained in 15 CFR part 400. This part 146 of the Customs Regulations governs the admission of merchandise into a foreign trade zone, manipulation, manufacture, or exhibition in a zone; exportation of the merchandise from a zone; and transfer of merchandise from a zone into Customs territory.

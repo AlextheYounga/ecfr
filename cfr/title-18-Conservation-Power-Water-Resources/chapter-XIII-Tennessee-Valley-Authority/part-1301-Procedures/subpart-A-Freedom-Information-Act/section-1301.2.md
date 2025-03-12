@@ -1,0 +1,5 @@
+##### § 1301.2 Public reading rooms. #####
+
+TVA maintains a public electronic reading room through its Web site at *http://www.tva.gov.* This electronic reading room contains the records that the FOIA requires to be made regularly available for public inspection and copying. Paper copies of documents accessible through TVA's reading room are available upon request from the TVA Research Library at 400 W. Summit Hill Drive, Knoxville, Tennessee 37902-1499, and 1101 Market Street, Chattanooga, Tennessee 37402-2801. Each TVA organization is responsible for determining which of the records it generates are required to be made available in this way and for ensuring that those records are available in TVA's reading room. TVA's FOIA Officer will maintain a current subject-matter index of TVA's reading room records. The index is identified as the Reading Room Table of Contents on TVA's Web site and will be updated regularly, at least quarterly, with respect to newly included records.
+
+[68 FR 28710, May 27, 2003]

@@ -1,0 +1,3 @@
+##### § 553.233 “Regular rate” defined. #####
+
+The rules for computing an employee's “regular rate”, for purposes of the Act's overtime pay requirements, are set forth in part 778 of this title. These rules are applicable to employees for whom the section 7(k) exemption is claimed when overtime compensation is provided in cash wages. However, wherever the word “workweek” is used in part 778, the words “work period” should be substituted.

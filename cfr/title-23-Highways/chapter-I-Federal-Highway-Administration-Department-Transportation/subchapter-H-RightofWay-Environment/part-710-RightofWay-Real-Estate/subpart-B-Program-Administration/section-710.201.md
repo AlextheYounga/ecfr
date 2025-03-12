@@ -1,0 +1,41 @@
+##### § 710.201 Grantee and subgrantee responsibilities. #####
+
+(a) *Program oversight.* States administer the Federal-aid highway program, funded under chapter 1 of title 23, United States Code, through their SDOTs. The SDOT shall have overall responsibility for the acquisition, management, and disposal of real property interests on its Federal-aid projects, including when those projects are carried out by the SDOT's subgrantees or contractors. This responsibility shall include ensuring compliance with the requirements of this part and other Federal laws, including regulations. Non-SDOT grantees of funds under title 23 must comply with the requirements under this part, except as otherwise expressly provided in this part, and are responsible for ensuring compliance by their subgrantees and contractors with the requirements of this part and other Federal laws, including regulations.
+
+(b) *Organization.* Each grantee and subgrantee, including any other acquiring agency acting on behalf of a grantee or subgrantee, shall be adequately staffed, equipped, and organized to discharge its real property related responsibilities.
+
+(c) *ROW manual.* (1) Every grantee must ensure that its title 23-funded projects are carried out using an FHWA-approved and up-to-date ROW manual or RAMP that is consistent with applicable Federal requirements, including the Uniform Act and this part. Each SDOT that receives funding under title 23, United States Code, shall maintain an approved and up-to-date ROW manual describing its ROW organization, policies, and procedures. Non-SDOT grantees may use one of the procedures in paragraph (d) to meet the requirements in this paragraph; however, the ROW manual options can only be used with SDOT approval and permission. The ROW manual shall describe functions and procedures for all phases of the ROW program, including appraisal and appraisal review, waiver valuation, negotiation and eminent domain, property management, relocation assistance, administrative settlements, legal settlements, and oversight of its subgrantees and contractors. The ROW manual shall also specify procedures to prevent conflict of interest and avoid fraud, waste, and abuse. The ROW manual shall be in sufficient detail and depth to guide the grantee, its employees, and others involved in acquiring, managing, and disposing of real property interests. Grantees, subgrantees, and their contractors must comply with current FHWA requirements whether or not the requirements are included in the FHWA-approved ROW manual.
+
+(2) The SDOT's ROW manual must be developed and updated, as a minimum, to meet the following schedule:
+
+(i) The SDOTs shall prepare and submit for approval by FHWA an up-to-date ROW Manual by no later than August 23, 2018.
+
+(ii) Every 5 years thereafter, the chief administrative officer of the SDOT shall certify to the FHWA that the current SDOT ROW manual conforms to existing practices and contains necessary procedures to ensure compliance with Federal and State real estate law and regulation, including this part.
+
+(iii) The SDOT shall update its ROW manual periodically to reflect changes in operations and submit the updated materials for approval by the FHWA.
+
+(d) *ROW manual alternatives.* Non-SDOT grantees, and all subgrantees, design-build contractors, and other acquiring agencies carrying out a project funded by a grant under title 23, United States Code, must demonstrate that they will use FHWA-approved ROW procedures for acquisition and other real estate activities, and that they have the ability to comply with current FHWA requirements, including this part. This can be done through any of the following methods:
+
+(1) Certification in writing that the acquiring agency will adopt and use the FHWA-approved SDOT ROW manual;
+
+(2) Submission of the acquiring agency's own ROW manual to the grantee for review and determination whether it complies with Federal and State requirements, together with a certification that once the reviewing agency approves the manual, the acquiring agency will use the approved ROW manual; or
+
+(3)(i) Submission of a RAMP setting forth the procedures the acquiring agency or design-build contractor intends to follow for a specified project or group of projects, along with a certification that if the reviewing agency approves the RAMP, the acquiring agency or design-build contractor will follow the approved RAMP for the specified program or project(s). The use of a RAMP is appropriate for a subgrantee, non-SDOT grantee, or design-build contractor if that party infrequently carries out title 23 programs or projects, the program or project is non-controversial, and the project is not complex.
+
+(ii) Subgrantees, design-build contractors, and other acquiring agencies carrying out a project for an SDOT submit the required certification and information to the SDOT, and the SDOT will review and make a determination on behalf of FHWA. Non-SDOT grantees submit the required certification and information directly to FHWA. Non-SDOT grantees are responsible for submitting to FHWA the required certification and information for any subgrantee, contractor, and other acquiring agency carrying out a project for the non-SDOT grantee.
+
+(e) *Record keeping.* The acquiring agency shall maintain adequate records of its acquisition and property management activities.
+
+(1) Acquisition records, including records related to owner or tenant displacements, and property inventories of improvements acquired shall be in sufficient detail to demonstrate compliance with this part and 49 CFR part 24. These records shall be retained at least 3 years from the later of either:
+
+(i) The date the SDOT or other grantee receives Federal reimbursement of the final payment made to each owner of a property and to each person displaced from a property; or
+
+(ii) The date of reimbursement for early acquisitions or credit toward the State share of a project is approved based on early acquisition activities under § 710.501.
+
+(2) Property management records shall include inventories of real property interests considered excess to project or program needs, as well as all authorized ROW use agreements for real property acquired with title 23 funds or incorporated into a program or project that received title 23 funding.
+
+(f) *Procurement.* Contracting for all activities required in support of an SDOT's or other grantee's ROW projects or programs through the use of private consultants and other services shall conform to 2 CFR 200.317, except to the extent that the procurement is required to adhere to requirements under 23 U.S.C. 112(b)(2) and 23 CFR part 172 for engineering and design related consultant services.
+
+(g) *Use of other public land acquisition organizations, conservation organizations, or private consultants.* The grantee may enter into written agreements with other State, county, municipal, or local public land acquisition organizations, conservation organizations, private consultants, or other persons to carry out its authorities under this part. Such organizations, firms, or persons must comply with the grantee's ROW manual or RAMP as approved in accordance with paragraphs (c) or (d) of this section. The grantee shall monitor any such real property interest acquisition activities to ensure compliance with State and Federal law, and is responsible for informing such persons of all such requirements and for imposing sanctions in cases of material non-compliance.
+
+(h) *Assignment of FHWA approval actions to an SDOT.* The SDOT and FHWA will agree in their Stewardship/Oversight Agreement on the scope of property-related oversight and approvals under this part that will be performed directly by FHWA and those that FHWA will assign to the SDOT. This assignment provision does not apply to other grantees of title 23 funds. The content of the most recent Stewardship/Oversight Agreement shall be reflected in the FHWA-approved SDOT ROW manual. The agreement, and thus the SDOT ROW manual, will indicate which Federal-aid projects require submission of materials for FHWA review and approval. The FHWA retains responsibility for any approval action not expressly assigned to the SDOT in the Stewardship/Oversight Agreement.

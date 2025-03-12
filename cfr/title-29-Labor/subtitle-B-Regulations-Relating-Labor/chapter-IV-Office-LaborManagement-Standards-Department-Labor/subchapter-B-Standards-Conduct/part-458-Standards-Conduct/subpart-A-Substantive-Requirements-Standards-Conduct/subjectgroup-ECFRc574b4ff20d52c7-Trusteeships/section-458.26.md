@@ -1,0 +1,3 @@
+##### § 458.26 Purposes for which a trusteeship may be established. #####
+
+Trusteeships shall be established and administered by a labor organization over a subordinate body only in accordance with the constitution and bylaws of the organization which has assumed trusteeship over the subordinate body and for the purpose of (a) correcting corruption or financial malpractice, (b) assuring the performance of negotiated agreements or other duties of a representative of employees, (c) restoring democratic procedures, or (d) otherwise carrying out the legitimate objects of such labor organization.

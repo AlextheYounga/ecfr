@@ -1,0 +1,11 @@
+##### § 30.28 Split shipments. #####
+
+A shipment covered by a single EEI transmission booked for export on one conveyance, but divided prior to export where the exporting carrier at the port of export will file the manifest indicating that the cargo was sent on two or more of the same conveyances leaving from the same port of export of the same carrier within 24 hours. For the succeeding parts of the shipment that are not exported within 24 hours, a new EEI must be filed and amendments must be made to the original AES record. The following procedures apply for split shipments:
+
+(a) The carrier shall deliver the manifest to the CBP Port Director with the manifest covering the conveyance on which the first part of the split shipment is exported and shall make no changes to the EEI. However, the manifest shall show in the “number of packages” column the actual portion of the declared total quantity being carried and shall carry a notation to indicate “Split Shipment.”e.g., “3 of 10 - Split Shipment” All associated manifests with the notation “Split Shipment” will have identical ITNs if exported within 24 hours.
+
+(b) On each subsequent manifest covering a conveyance on which any part of a split shipment is exported, a prominent notation “SPLIT SHIPMENT”, e.g. “4 of 10 - Split shipment” shall be made on the manifest for identification. On the last shipment, the notation shall read “SPLIT SHIPMENT, FINAL, e.g., “10 of 10 Split Shipment, Final”.” Each subsequent manifest covering a part of a split shipment shall also show in the “number of packages” column only the goods carried on that particular conveyance and a reference to the total number originally declared for export (for example, 5 of 11, or 5/11). Immediately following the line showing the portion of the split shipment carried on that conveyance, a notation will be made showing the bill of lading number, air waybill number, or other commercial loading documents shown in the original EEI and the portions of the originally declared total carried on each previous conveyance, together with the number and date of each such previous conveyance.
+
+(c) Since the complete EEI was filed for the entire shipment initially, additional electronic reporting will not be required for these subsequent shipments.
+
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16379, Mar. 14, 2013]

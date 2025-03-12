@@ -1,0 +1,13 @@
+##### § 570.484 Overall benefit to low and moderate income persons. #####
+
+(a) *General.* The State must certify that, in the aggregate, not less than 70 percent of the CDBG funds received by the state during a period specified by the state, not to exceed three years, will be used for activities that benefit persons of low and moderate income. The period selected and certified to by the state shall be designated by fiscal year of annual grants, and shall be for one, two or three consecutive annual grants. The period shall be in effect until all included funds are expended. No CDBG funds may be included in more than one period selected, and all CDBG funds received must be included in a selected period.
+
+(b) *Computation of 70 percent benefit.* Determination that a state has carried out its certification under paragraph (a) of this section requires evidence that not less than 70 percent of the aggregate of the designated annual grant(s), any funds reallocated by HUD to the state, any distributed program income and any guaranteed loan funds under the provisions of subpart M of this part covered in the method of distribution in the final statement or statements for the designated annual grant year or years have been expended for activities meeting criteria as provided in § 570.483(b) for activities benefiting low and moderate income persons. In calculating the percentage of funds expended for such activities:
+
+(1) All CDBG funds included in the period selected and certified to by the state shall be accounted for, except for funds used by the State, or by the units of general local government, for program administration, or for planning activities other than those which must meet a national objective under § 570.483 (b)(5) or (c)(3).
+
+(2) Any funds expended by a state for the purpose of repayment of loans guaranteed under the provisions of subpart M of this part shall be excepted from inclusion in this calculation.
+
+(3) Except as provided in paragraph (b)(4) of this section, CDBG funds expended for an eligible activity meeting the criteria for activities benefiting low and moderate income persons shall count in their entirety towards meeting the 70 percent benefit to persons of low and moderate income requirement.
+
+(4) Funds expended for the acquisition, new construction or rehabilitation of property for housing that qualifies under § 570.483(b)(3) shall be counted for this purpose, but shall be limited to an amount determined by multiplying the total cost (including CDBG and non-CDBG costs) of the acquisition, construction or rehabilitation by the percent of units in such housing to be occupied by low and moderate income persons, except that the amount counted shall not exceed the amount of CDBG funds provided.

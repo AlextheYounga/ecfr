@@ -1,0 +1,3 @@
+##### § 530.201 Conflict with State law. #####
+
+No certificate will be issued pursuant to § 530.101 of subpart B above authorizing the employment of homeworkers in an industry in a State where the Governor (or authorized representative) has advised the Administrator of the Wage and Hour Division in writing that the employment of homeworkers in such industry, as defined in paragraphs (f) through (k) of § 530.1, is illegal by virtue of a State labor standards or health and safety law.

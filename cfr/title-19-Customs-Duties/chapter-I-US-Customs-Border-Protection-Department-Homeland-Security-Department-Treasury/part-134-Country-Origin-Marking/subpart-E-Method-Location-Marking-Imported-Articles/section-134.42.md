@@ -1,0 +1,3 @@
+##### § 134.42 Specific method may be required. #####
+
+Marking merchandise by specific methods, such as die stamping, cast-in-the-mold lettering, etching, or engraving, or cloth labels may be required by the Commissioner of Customs in accordance with section 304(a), Tariff Act of 1930, as amended (19 U.S.C. 1304(a)). Notices of such rulings shall be published in the Federal Register and the Customs Bulletin.

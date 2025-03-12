@@ -1,0 +1,5 @@
+##### § 10.841 Applicability. #####
+
+Title V of Public Law 109-432, entitled the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2006 (HOPE I Act), amended the Caribbean Basin Economic Recovery Act (the CBERA, 19 U.S.C. 2701-2707) by adding a new section 213A (19 U.S.C. 2703A) to authorize the President to extend additional trade benefits to Haiti. part I, Subtitle D, Title XV of Public Law 110-234, entitled the Haitian Hemispheric Opportunity through Partnership Encouragement Act of 2008 (HOPE II Act) amended certain provisions within section 213A. Section 213A of the CBERA provides for the duty-free treatment of certain apparel articles and certain wiring sets from Haiti. The provisions of this subpart set forth the legal requirements and procedures that apply for purposes of obtaining duty-free treatment pursuant to CBERA section 213A.
+
+[CBP Dec. 08-24, 73 FR 56725, Sept. 30, 2008]

@@ -1,0 +1,3 @@
+##### § 158.21 Allowance in duties for casualty, loss, or theft while in Customs custody. #####
+
+Section 563(a), Tariff Act of 1930, as amended (19 U.S.C. 1563(a)), provides for allowance in duties upon satisfactory proof of the loss or theft of any merchandise while in the public stores, or of the actual injury or destruction, in whole or in part, of any merchandise by accidental fire or other casualty, while in bonded warehouse, or in the public stores, or while in transportation under bond, or while in Customs custody although not in bond, or while within the limits of any port of entry and before having been landed under Customs supervision. Such allowance is subject to the conditions set forth in this subpart.

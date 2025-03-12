@@ -1,0 +1,3 @@
+##### § 985.102 SEMAP profile. #####
+
+Upon receipt of the PHA's SEMAP certification, HUD will rate the PHA's performance under each SEMAP indicator in accordance with § 985.3. HUD will then prepare a SEMAP profile for each PHA which shows the rating for each indicator, sums the indicator ratings, and divides by the total possible points to arrive at an PHA's overall SEMAP score. SEMAP scores shall be rounded off to the nearest whole percent.

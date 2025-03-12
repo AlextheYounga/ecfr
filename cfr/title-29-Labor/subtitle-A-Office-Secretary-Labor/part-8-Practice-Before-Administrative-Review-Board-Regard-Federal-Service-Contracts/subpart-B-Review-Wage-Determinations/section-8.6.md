@@ -1,0 +1,11 @@
+##### § 8.6 Disposition by the Administrative Review Board. #####
+
+(a) The Board may decline review of any case whenever in its judgment review would be inappropriate because of lack of timeliness, the nature of the relief sought, the case involves only settled issues of law, the appeal is frivolous on its face, or other reasons. A case will be reviewed upon the affirmative vote of one member.
+
+(b) Except as provided in paragraphs (c) and (d) of this section, the Board will not review a wage determination after award, exercise of option, or extension of a contract, unless such procurement action was taken without the wage determination required pursuant to §§ 4.4 and 4.5 of part 4 of this title.
+
+(c) A wage determination may be reviewed after award, exercise of option, or extension of a contract if it is issued after a finding by an Administrative Law Judge or the Board that a substantial variance exists between collectively bargained wage rates and/or fringe benefits otherwise required to be paid pursuant to section 4(c) of the Act and those prevailing for services of a character similar in the locality, or after a finding that such collective bargaining agreement was not reached as a result of arm's length negotiations.
+
+(d) Where a petition for review of a wage determination is filed prior to award, exercise of option, or extension of a contract, the Board may review the wage determination after such award, exercise of option, or extension of a contract if the issue is a significant issue of general applicability. The Board's decision shall not affect the contract after such award, exercise of option, or extension.
+
+(e) In issuing its decision the Board will act expeditiously, taking into consideration procurement deadlines. The Board shall decide the case upon the basis of all relevant matters contained in the entire record before it and shall not consider any data not submitted to the Wage-Hour Administrator with the request for reconsideration. The Board in its decision affirming, modifying, or setting aside the wage determination, shall include a statement of reasons or bases for the actions taken. In any remand of a case as provided in § 8.1(d) of this title, the Board shall include appropriate instructions.

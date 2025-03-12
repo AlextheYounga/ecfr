@@ -1,0 +1,3 @@
+##### § 63.5 Coverage for contents removal. #####
+
+Whenever a structure is subject to imminent collapse or subsidence as a result of erosion or undermining caused by waves or currents of water exceeding anticipated cyclical levels and otherwise meets the requirements of section 1306(c) of the Act so that benefits are payable under those provisions, the coverage in the definition of “Direct Physical Loss by or from Flood” in the SFIP for the expense of removing contents, up to the minimum deductible of $500.00, to protect and preserve them from flood or from the imminent danger of flood, applies if contents coverage is in effect.

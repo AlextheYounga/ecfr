@@ -1,0 +1,3 @@
+##### § 352.7 Review and evaluation. #####
+
+FEMA shall conduct its activities and make findings under this part in a manner consistent with 44 CFR part 350 to the extent that those procedures are appropriate and not inconsistent with the intent and procedures required by E.O. 12657. This Order shall take precedence, and any inconsistencies shall be resolved under the procedures in the NRC/FEMA Memorandum of Understanding (MOU) on planning and preparedness. (50 FR 15485, April 18, 1985)

@@ -1,0 +1,3 @@
+##### § 780.521 Other processing operations. #####
+
+The language of the section, namely, “including, but not limited to,” extends the exemption for processing to include other operations in the processing of shade-grown tobacco besides those specifically enumerated. These additional operations include only those which are a necessary and integral part of preparing the shade-grown tobacco for use as cigar wrapper tobacco. These additional operations, like those enumerated in section 13(a)(14), must be performed before the tobacco has been stemmed. Stemming work and further work on the tobacco after stemming has been performed are nonexempt.

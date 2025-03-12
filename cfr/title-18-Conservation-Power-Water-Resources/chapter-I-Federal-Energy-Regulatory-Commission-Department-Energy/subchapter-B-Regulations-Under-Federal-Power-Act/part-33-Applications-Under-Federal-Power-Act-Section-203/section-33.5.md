@@ -1,0 +1,3 @@
+##### § 33.5 Proposed accounting entries. #####
+
+If the applicant is required to maintain its books of account in accordance with the Commission's Uniform System of Accounts in part 101 of this chapter, the applicant must present proposed accounting entries showing the effect of the transaction with sufficient detail to indicate the effects on all account balances (including amounts transferred on an interim basis), the effect on the income statement, and the effects on other relevant financial statements. The applicant must also explain how the amount of each entry was determined.

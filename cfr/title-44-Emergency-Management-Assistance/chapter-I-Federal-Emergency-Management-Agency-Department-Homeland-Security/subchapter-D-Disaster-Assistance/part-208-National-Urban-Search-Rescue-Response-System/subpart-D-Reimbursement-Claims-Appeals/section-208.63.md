@@ -1,0 +1,5 @@
+##### § 208.63 Request by DHS for supplemental information. #####
+
+(a) At any stage of the reimbursement and appeal processes identified in this subpart, DHS may request the Sponsoring Agency to provide supplemental information that DHS considers necessary to determine either a claim for reimbursement or an appeal. The Sponsoring Agency must exercise its best efforts to provide the supplemental information and must submit to DHS a written response that includes such supplemental information as the Sponsoring Agency is able to provide within 30 days after receiving DHS's request.
+
+(b) If DHS makes a request for supplemental information at any stage of the reimbursement and appeal processes, the applicable time within which its determination of the claim or appeal is to be made will be extended by 30 days. However, without the consent of the Sponsoring Agency, no more than one such time extension will be allowed for any stage of the reimbursement and appeal processes.

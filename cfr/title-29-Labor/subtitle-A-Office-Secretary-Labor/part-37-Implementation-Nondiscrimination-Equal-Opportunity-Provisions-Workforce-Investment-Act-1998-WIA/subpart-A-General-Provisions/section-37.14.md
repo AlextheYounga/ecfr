@@ -1,0 +1,5 @@
+##### § 37.14 Under what circumstances may the Secretary delegate the responsibilities of this part? #####
+
+(a) The Secretary may from time to time assign to officials of other departments or agencies of the Government (with the consent of such department or agency) responsibilities in connection with the effectuation of the nondiscrimination and equal opportunity provisions of WIA and this part (other than responsibility for final decisions under § 37.112), including the achievement of effective coordination and maximum uniformity within the Department and within the executive branch of the Government in the application of the nondiscrimination and equal opportunity provisions of WIA or this part to similar programs and similar situations.
+
+(b) Any action taken, determination made, or requirement imposed by an official of another department or agency acting under an assignment of responsibility under this section has the same effect as if the action had been taken by the Director.

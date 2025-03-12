@@ -1,0 +1,3 @@
+##### § 1309.13 What are the prohibitions against intimidation or retaliation? #####
+
+No recipient or other person shall intimidate, threaten, coerce, or discriminate against any individual for the purpose of interfering with any right secured by the Act or this part, or because such individual has made a complaint, testified, assisted, or participated in any manner in an investigation, mediation, hearing, or other proceeding under this part. The identity of complainants shall be kept confidential except to the extent necessary to carry out the purposes of this part, including the conduct of any investigation, mediation, hearing, or judicial proceeding arising under the Act or this part.

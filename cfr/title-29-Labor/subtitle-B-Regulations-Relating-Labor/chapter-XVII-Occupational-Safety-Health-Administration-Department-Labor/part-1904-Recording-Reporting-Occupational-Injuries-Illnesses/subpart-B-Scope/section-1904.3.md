@@ -1,0 +1,3 @@
+##### § 1904.3 Keeping records for more than one agency. #####
+
+If you create records to comply with another government agency's injury and illness recordkeeping requirements, OSHA will consider those records as meeting OSHA's part 1904 recordkeeping requirements if OSHA accepts the other agency's records under a memorandum of understanding with that agency, or if the other agency's records contain the same information as this part 1904 requires you to record. You may contact your nearest OSHA office or State agency for help in determining whether your records meet OSHA's requirements.

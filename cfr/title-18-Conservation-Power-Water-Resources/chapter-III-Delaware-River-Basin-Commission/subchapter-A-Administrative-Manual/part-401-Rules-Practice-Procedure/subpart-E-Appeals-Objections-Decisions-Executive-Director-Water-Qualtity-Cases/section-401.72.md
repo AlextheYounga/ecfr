@@ -1,0 +1,5 @@
+##### § 401.72 Notice and request for hearing. #####
+
+The Executive Director shall serve notice of an action or decision by him under the regulations in this chapter by personal service or certified mail, return receipt requested. The affected discharger shall be entitled (and the notice of action or decision shall so state) to show cause at a Commission hearing why such action or decision should not take effect. A request for such a hearing shall be filed with the Secretary of the Commission not more than 30 days after service of the Executive Director's determination. Failure to file such a request within the time limit shall be deemed to be an acceptance of the Executive Director's determination and a waiver of any further hearing.
+
+[62 FR 64158, Dec. 4, 1997, as amended at 63 FR 45943, Aug. 28, 1998]

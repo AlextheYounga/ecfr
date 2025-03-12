@@ -1,0 +1,5 @@
+##### § 10.231 Applicability. #####
+
+Title II of Public Law 106-200 (114 Stat. 251), entitled the United States-Caribbean Basin Trade Partnership Act (CBTPA), amended section 213(b) of the Caribbean Basin Economic Recovery Act (the CBERA, 19 U.S.C. 2701-2707) to authorize the President to extend additional trade benefits to countries that have been designated as beneficiary countries under the CBERA. Section 213(b)(3) of the CBERA (19 U.S.C. 2703(b)(3)) provides for special preferential tariff treatment of certain non-textile articles that are otherwise excluded from duty-free treatment under the CBERA. The provisions of §§ 10.231-10.237 of this part set forth the legal requirements and procedures that apply for purposes of obtaining preferential tariff treatment pursuant to CBERA section 213(b)(3).
+
+[T.D. 00-68, 65 FR 59663, Oct. 5, 2000; 65 FR 67263, Nov. 9, 2000]

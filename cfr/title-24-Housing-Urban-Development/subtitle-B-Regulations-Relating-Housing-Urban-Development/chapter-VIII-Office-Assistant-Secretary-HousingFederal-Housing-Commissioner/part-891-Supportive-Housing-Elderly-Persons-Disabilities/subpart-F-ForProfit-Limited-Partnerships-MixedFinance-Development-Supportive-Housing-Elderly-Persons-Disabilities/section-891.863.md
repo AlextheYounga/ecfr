@@ -1,0 +1,7 @@
+##### § 891.863 Maintenance as supportive housing units for elderly persons and persons with disabilities. #####
+
+(a) The mixed-finance owner must develop and continue to operate the same number of supportive housing units for elderly persons or persons with disabilities, as stated in the use agreement or other document establishing the number of assisted units, for a 40-year period.
+
+(b) If a mixed-finance development proposal provides that the Section 202 or 811 supportive housing units will be floating units, the mixed-finance owner must operate the HUD-approved percentage of Section 202 or 811 supportive housing units, and maintain the percentage distribution of bedroom sizes of Section 202 or 811 supportive housing units for the entire term of the very low-income use restrictions on the development. Any foreclosure, sale, or other transfer of the development must be subject to a covenant running with the land requiring the continued adherence to the very low-income use restrictions for the Section 202 or 811 supportive housing units.
+
+(c) The owner must ensure that Section 202 or 811 supportive housing units in the development are and continue to be comparable to unassisted units in terms of location, size, appearance, and amenities. If due to a change in the partnership structure it becomes necessary to establish a new owner partnership or to transfer the supportive housing project, the new or revised owner must be a single-purpose entity and the use restrictions must remain in effect as provided above.

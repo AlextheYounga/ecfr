@@ -1,0 +1,3 @@
+##### § 35.800 Purpose and applicability. #####
+
+The purpose of this subpart I is to establish procedures to eliminate as far as practicable lead-based paint hazards in a HUD-owned multifamily residential property or a multifamily residential property for which HUD is identified as mortgagee-in-possession. The requirements of this subpart apply to any such property that is offered for sale or held or managed on or after September 15, 2000.

@@ -1,0 +1,3 @@
+##### § 825.214 Employee right to reinstatement. #####
+
+*General rule.* On return from FMLA leave, an employee is entitled to be returned to the same position the employee held when leave commenced, or to an equivalent position with equivalent benefits, pay, and other terms and conditions of employment. An employee is entitled to such reinstatement even if the employee has been replaced or his or her position has been restructured to accommodate the employee's absence. *See also* § 825.106(e) for the obligations of joint employers.

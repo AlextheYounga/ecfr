@@ -1,0 +1,3 @@
+##### § 500.78 Information in foreign language. #####
+
+Each farm labor contractor, agricultural employer and agricultural association shall make all required written disclosures to the worker, including the written disclosures of the terms and conditions of occupancy of housing to be provided to any migrant worker, in English or, as necessary and reasonable, in Spanish or another language common to migrant or seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, Haitian-Creole and other languages, as necessary, which may be used in providing workers with such information.

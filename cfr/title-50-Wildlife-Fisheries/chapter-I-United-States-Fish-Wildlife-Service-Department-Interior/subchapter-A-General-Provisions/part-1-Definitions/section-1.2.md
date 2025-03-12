@@ -1,0 +1,3 @@
+##### § 1.2 Authorized representative. #####
+
+*Authorized representative* means the subordinate official to which a principal official has delegated authority to act on a particular matter or a class of matters. The Director, U.S. Fish and Wildlife Service is frequently the authorized representative of the Secretary of the Interior, as also may be a regional director or an officer in charge of a Service field installation.

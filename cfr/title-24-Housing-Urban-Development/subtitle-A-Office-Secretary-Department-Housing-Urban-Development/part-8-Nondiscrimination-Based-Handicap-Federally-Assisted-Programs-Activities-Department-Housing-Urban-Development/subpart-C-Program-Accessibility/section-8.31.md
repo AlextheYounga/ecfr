@@ -1,0 +1,3 @@
+##### § 8.31 Historic properties. #####
+
+If historic properties become subject to alterations to which this part applies the requirements of § 4.1.7 of the standards of § 8.32 of this part shall apply, except in the case of the Urban Development Action Grant (UDAG) program. In the UDAG program the requirements of 36 CFR part 801 shall apply. Accessibility to historic properties subject to alterations need not be provided if such accessibility would substantially impair the significant historic features of the property or result in undue financial and administrative burdens.

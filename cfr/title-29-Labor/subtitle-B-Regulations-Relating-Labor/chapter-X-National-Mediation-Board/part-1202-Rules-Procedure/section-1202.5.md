@@ -1,0 +1,3 @@
+##### § 1202.5 Rules to govern elections. #####
+
+In the conduct of a representation election, the Board shall designate who may participate in the election, which may include a public hearing on craft or class, and establish the rules to govern the election, or may appoint a committee of three neutral persons who after hearing shall within 10 days designate the employees who may participate in the election.

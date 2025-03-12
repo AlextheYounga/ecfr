@@ -1,0 +1,3 @@
+##### § 965.302 Requirements for energy audits. #####
+
+All PHAs shall complete an energy audit for each PHA-owned project under management, not less than once every five years. Standards for energy audits shall be equivalent to State standards for energy audits. Energy audits shall analyze all of the energy conservation measures, and the payback period for these measures, that are pertinent to the type of buildings and equipment operated by the PHA.

@@ -1,0 +1,3 @@
+##### § 241.1120 Mortgagee's consent. #####
+
+The holder of an insured mortgage which is recorded prior to the equity or acquisition loan shall not withhold its consent to the equity or acquisition loan (whether or not such equity or acquisition loan is insured by the Commissioner) or the security instrument executed in connection therewith, and may not charge a fee as a condition to its consent to such loan or security instrument.

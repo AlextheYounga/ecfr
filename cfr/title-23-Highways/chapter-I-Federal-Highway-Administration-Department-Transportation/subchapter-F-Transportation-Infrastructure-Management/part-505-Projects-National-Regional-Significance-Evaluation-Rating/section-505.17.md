@@ -1,0 +1,3 @@
+##### § 505.17 Applicability of Title 23, U.S. Code. #####
+
+Funds made available to carry out this section shall be available for obligation in the same manner as if such funds were apportioned under chapter 1 of title 23, United States Code; except that such funds shall not be transferable to other agencies and shall remain available until expended and the Federal share of the cost of a Project of National and Regional Significance shall be as provided in section 505.13.

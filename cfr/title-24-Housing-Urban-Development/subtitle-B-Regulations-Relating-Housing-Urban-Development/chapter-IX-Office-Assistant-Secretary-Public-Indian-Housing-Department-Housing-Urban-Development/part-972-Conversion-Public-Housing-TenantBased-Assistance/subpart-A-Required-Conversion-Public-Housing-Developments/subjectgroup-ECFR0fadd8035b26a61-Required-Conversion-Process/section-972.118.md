@@ -1,0 +1,3 @@
+##### § 972.118 Applicability of Uniform Relocation Act. #####
+
+To the extent that tenants are displaced as a direct result of the demolition, acquisition, or rehabilitation of federally-assisted property converted pursuant to this subpart, the requirements of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601) (URA), and the implementing regulations issued by the Department of Transportation at 49 CFR part 24, apply.

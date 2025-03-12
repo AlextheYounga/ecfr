@@ -1,0 +1,3 @@
+##### § 918.6 Duration of Sea Grant Regional Consortium designation. #####
+
+Designation will be made on the basis of merit and the determination by the Secretary of Commerce that such a designation is consistent with the goals of the Act. Continuation of the Sea Grant Regional Consortium designation is contingent upon the alliance's ability to maintain a high quality performance consistent with the standards outlined above. The Secretary may, for cause and after an opportunity for hearing, suspend or terminate the designation as a Sea Grant Regional Consortium.

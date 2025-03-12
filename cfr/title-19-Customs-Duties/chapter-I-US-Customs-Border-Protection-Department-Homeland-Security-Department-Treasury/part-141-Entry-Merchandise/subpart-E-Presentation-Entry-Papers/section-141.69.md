@@ -1,0 +1,11 @@
+##### § 141.69 Applicable rates of duty. #####
+
+The rates of duty applicable to merchandise shall be the rates in effect at time of entry, as specified in § 141.68, except as otherwise specifically provided for by Executive Order, and in the following cases:
+
+(a) *Warehouse entries.* Merchandise entered for warehouse is dutiable at the rates in effect at the time withdrawal from warehouse for consumption is made in accordance with § 141.68(g).
+
+(b) *Merchandise entered for immediate transportation.* Merchandise which is not subject to a quantitative or tariff-rate quota and which is covered by an entry for immediate transportation made at the port of original importation, if entered for consumption at the port designated by the consignee or his agent in such transportation entry without having been taken into custody by the port director for general order under section 490, Tariff Act of 1930, as amended (19 U.S.C. 1490), shall be subject to the rates in effect when the immediate transportation entry was accepted at the port of original importation.
+
+(c) *Overcarried merchandise returned to port of entry.* If merchandise which has been entered for consumption, but not yet released from Customs custody, is removed from the port or place of intended release because of overcarriage, inaccessibility, strike, act of God, or unforeseen contingency, and is returned to such port or place within 90 days after removal, such merchandise shall be subject to the rates in effect at the time of the original entry, provided the merchandise is identified with the original entry by the usual Customs examination and by any documentary evidence as to its movement between its removal and return which the port director may reasonably require. A new entry shall be required, unless the original entry has not been liquidated and the consignee at the time of original importation and at the time of return is the same person.
+
+[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 79-221, 44 FR 46820, Aug. 9, 1979; T.D. 90-34, 55 FR 17597, Apr. 26, 1990; T.D. 97-82, 62 FR 51771, Oct. 3, 1997]

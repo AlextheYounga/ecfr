@@ -1,0 +1,3 @@
+##### § 1926.853 Removal of materials through floor openings. #####
+
+Any openings cut in a floor for the disposal of materials shall be no larger in size than 25 percent of the aggregate of the total floor area, unless the lateral supports of the removed flooring remain in place. Floors weakened or otherwise made unsafe by demolition operations shall be shored to carry safely the intended imposed load from demolition operations.

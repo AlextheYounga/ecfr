@@ -1,0 +1,3 @@
+##### § 903.25 How does HUD ensure PHA compliance with its plan? #####
+
+A PHA must comply with the rules, standards and policies established in the plans. To ensure that a PHA is in compliance with all policies, rules, and standards adopted in the plan approved by HUD, HUD shall, as it deems appropriate, respond to any complaint concerning PHA noncompliance with its plan. If HUD should determine that a PHA is not in compliance with its plan, HUD will take whatever action it deems necessary and appropriate.

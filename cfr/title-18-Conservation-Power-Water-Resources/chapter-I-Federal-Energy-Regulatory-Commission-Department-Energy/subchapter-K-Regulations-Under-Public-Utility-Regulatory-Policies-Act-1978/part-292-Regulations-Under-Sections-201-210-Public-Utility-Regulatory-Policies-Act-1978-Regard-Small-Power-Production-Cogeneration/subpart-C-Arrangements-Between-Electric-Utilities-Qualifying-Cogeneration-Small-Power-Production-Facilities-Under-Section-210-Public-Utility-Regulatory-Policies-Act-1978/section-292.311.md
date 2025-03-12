@@ -1,0 +1,5 @@
+##### § 292.311 Reinstatement of obligation to purchase. #####
+
+At any time after the Commission makes a finding under §§ 292.309 and 292.310 relieving an electric utility of its obligation to purchase electric energy, a qualifying cogeneration facility, a qualifying small power production facility, a State agency, or any other affected person may apply to the Commission for an order reinstating the electric utility's obligation to purchase electric energy under this section. Such application shall set forth the factual basis upon which the application is based and describe why the conditions set forth in § 292.309(a), (b) or (c) are no longer met. After notice, including sufficient notice to potentially affected electric utilities, and opportunity for comment, the Commission shall issue an order within 90 days of such application reinstating the electric utility's obligation to purchase electric energy under this section if the Commission finds that the conditions set forth in § 292.309(a), (b), or (c) which relieved the obligation to purchase, are no longer met.
+
+[Order 688, 71 FR 64372, Nov. 1, 2006]

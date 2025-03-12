@@ -1,0 +1,7 @@
+##### § 133.46 Demand for redelivery of released articles. #####
+
+Link to an amendment published at 81 FR 93018, Dec. 20, 2016.
+
+If it is determined that articles which have been released from Customs custody are subject to the prohibitions or restrictions of this subpart, the director of the port of entry shall promptly make demand for redelivery of the articles under the terms of the bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter, in accordance with § 141.113 of this chapter. If the articles are not redelivered to Customs custody, a claim for liquidated damages shall be made in accordance with § 141.113(h) of this chapter.
+
+[T.D. 72-266, 37 FR 20678, Oct. 3, 1972, as amended by T.D. 73-175, 38 FR 17447, July 2, 1973; T.D. 74-227, 39 FR 32023, Sept. 4, 1974; T.D. 84-213, 49 FR 41183, Oct. 19, 1984; T.D. 99-64, 64 FR 43266, Aug. 10, 1999]

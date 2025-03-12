@@ -1,0 +1,5 @@
+##### § 970.801 Criteria for safety of life and property at sea. #####
+
+Response to the safety at sea requirements in essence will involve vessel inspection requirements. These inspection requirements may be identified by reference to present laws and regulations. The primary inspection statutes pertaining to United States flag vessels are: 46 U.S.C. 86 (Loadlines); 46 U.S.C. 395 (Inspection of seagoing barges over 100 gross tons); 46 U.S.C. 367 (Inspection of sea-going motor vessels over 300 gross tons); and 46 U.S.C. 404 (Inspection of vessels above 15 gross tons carrying freight for hire). All United States flag vessels will be required to meet existing regulatory requirements applicable to such vessels. This includes the requirement for a current valid Coast Guard Certificate of Inspection, as specified in § 970.205. Being United States flag, these vessels will be under United States jurisdiction on the high seas and subject to domestic enforcement procedures. With respect to foreign flag vessels, the SOLAS 74 or SOLAS 60 certificate requirements or alternative IACS requirements, as specified in § 970.205, apply.
+
+[46 FR 45909, Sept. 15, 1981]

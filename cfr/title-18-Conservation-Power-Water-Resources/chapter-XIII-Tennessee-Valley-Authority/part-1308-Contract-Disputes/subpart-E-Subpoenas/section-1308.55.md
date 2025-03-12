@@ -1,0 +1,3 @@
+##### § 1308.55 Penalties. #####
+
+In case of contumacy or refusal to obey a subpoena by a person who resides, is found, or transacts business within the jurisdiction of a United States District Court, the Board will apply to the court through the General Counsel of TVA for an order requiring the person to appear before the Hearing Officer, to produce evidence or give testimony, or both. Any failure of any such person to obey the order of the court may be punished by the court as a contempt thereof.

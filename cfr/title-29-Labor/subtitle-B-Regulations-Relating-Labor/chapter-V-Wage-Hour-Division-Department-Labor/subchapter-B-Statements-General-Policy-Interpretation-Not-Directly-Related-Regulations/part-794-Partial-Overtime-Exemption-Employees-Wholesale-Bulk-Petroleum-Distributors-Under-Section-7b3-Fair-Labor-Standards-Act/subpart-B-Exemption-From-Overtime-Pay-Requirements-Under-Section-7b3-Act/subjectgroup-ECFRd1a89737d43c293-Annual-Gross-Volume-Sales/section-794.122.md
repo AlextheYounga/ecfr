@@ -1,0 +1,3 @@
+##### § 794.122 Ascertainment of “annual” gross sales volume. #####
+
+The annual gross volume of sales of an enterprise engaged in the wholesale or bulk distribution of petroleum products consists of its gross dollar volume of sales during a 12-month period. Where a computation of annual gross volume of sales is necessary to determine the status of the enterprise under section 7(b)(3) of the Act, it must be based on the most recent prior experience which it is practicable to use.

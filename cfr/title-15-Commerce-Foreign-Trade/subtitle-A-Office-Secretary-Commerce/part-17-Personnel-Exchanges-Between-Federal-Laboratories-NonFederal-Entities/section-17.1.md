@@ -1,0 +1,7 @@
+##### § 17.1 Scope. #####
+
+(a) The Stevenson-Wydler Technology Innovation Act of 1980, Public Law 96-480, as amended (codified at title 15 of the United States Code (U.S.C.), section 3701 *et seq.*) (the Stevenson-Wydler Act), sets forth a national policy to renew, expand, and strengthen cooperation among academia, Federal laboratories, labor, and industry, in forms including personnel exchanges (15 U.S.C. 3701(3)). One proven method to ensure that Federal innovations are passed to industry and the public is to encourage frequent interactions among Federal laboratories, academic institutions, and industry, including both large and small businesses. In accordance with applicable ethics regulations and Agency policies, exchanges of personnel between Federal laboratories and outside collaborators should be encouraged (15 U.S.C. 3702(5)). Models that include Federal funding, as well as those that are executed without Federal funding, are encouraged.
+
+(b) This part implements 15 U.S.C. 3712 and provides clarification regarding the appropriate use of personnel exchanges in relation to Federal laboratory Cooperative Research and Development Agreements (CRADAs) under the authority of 15 U.S.C. 3710a.
+
+(c) This part is applicable to exchanges of personnel between Federal laboratories and parties to a CRADA under 15 U.S.C. 3710a(a)(1).

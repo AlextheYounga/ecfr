@@ -1,0 +1,3 @@
+##### § 367.4300 Account 430, Interest on debt to associate companies. #####
+
+This account must include interest accrued on amounts included in account 223, Advances from associate companies (§ 367.2230), and account 233, Notes payable to associate companies (§ 367.2330). The records supporting the entries to this account must be kept so as to show to who the interest is to be paid, the period covered by the accrual, the rate of interest and the principal amount of the advances or other obligations on which the interest is accrued. Separate subaccounts must be maintained for each related debt account.

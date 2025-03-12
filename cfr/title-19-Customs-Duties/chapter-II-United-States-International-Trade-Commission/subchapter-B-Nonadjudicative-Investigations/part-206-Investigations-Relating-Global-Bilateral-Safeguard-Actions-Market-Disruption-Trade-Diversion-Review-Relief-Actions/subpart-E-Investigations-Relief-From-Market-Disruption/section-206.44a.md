@@ -1,0 +1,15 @@
+##### § 206.44a Special rules for conducting investigations under section 421(b) of the Trade Act. #####
+
+(a) *Service of the petition.* (1)(i) The Secretary shall promptly notify a petitioner when, before the establishment of a service list under § 206.17(a)(4) of this part, he or she approves an application under § 206.17(a)(2) of this part pursuant to § 206.47. When practicable, this notification shall be made by facsimile transmission. The petitioner shall then serve a copy of the petition, including all confidential business information, on the approved lead authorized applicants in accord with § 206.17(f) within 2 calendar days of the time notification is made by the Secretary.
+
+(ii) Upon establishment and issuance of the service list, the petitioner shall serve the lead authorized applicants enumerated on the list established by the Secretary pursuant to § 206.17(a)(4) that have not been served pursuant to paragraph (a)(1)(i) of this section within 2 calendar days of the establishment and issuance of the Secretary's list.
+
+(2) As the Secretary adds new authorized applicants to the service list described in paragraph (a)(1) of this section, the Secretary shall notify the petitioner and issue an amended list, and the petitioner shall serve new lead authorized applicants with a copy of the petition in the same manner as under paragraph (a)(1)(i) of this section.
+
+(3) The petitioner shall serve a copy of the non-confidential version of the petition on those persons enumerated on the list established by the Secretary pursuant to § 201.11(d) of this chapter within 2 calendar days of the establishment and issuance of the Secretary's list, and on any additional persons within 2 calendar days of receiving notification from the Secretary of an amended list.
+
+(4) The petitioner shall attest service of the petition by filing a certificate of service with the Commission.
+
+(b) *Comment on information.* The parties shall have an opportunity to file comments on any information disclosed to them after they have filed their posthearing brief. Comments shall concern only such information, and shall not exceed 15 pages of textual material, double-spaced and on single-sided stationery measuring 81/2 × 11 inches. A comment may address the accuracy, reliability, or probative value of such information by reference to information elsewhere in the record, in which case the comment shall identify where in the record such information is found. New factual information and arguments based on that information shall be disregarded. The date on which such comments must be filed will be specified by the Commission when it specifies the time that information will be disclosed. The record shall close on the date such comments are due, except with respect to changes in bracketing of confidential business information permitted by § 206.8(c) of this part.
+
+[68 FR 65168, Nov. 19, 2003]

@@ -1,0 +1,3 @@
+##### § 102.2 Act; Board; Board agent. #####
+
+The term *Act* as used herein shall mean the National Labor Relations Act, as amended. The term *Board* shall mean the National Labor Relations Board and shall include any group of three or more members designated pursuant to section 3(b) of the Act. The term *Board agent* shall mean any member, agent, or agency of the Board, including its general counsel.

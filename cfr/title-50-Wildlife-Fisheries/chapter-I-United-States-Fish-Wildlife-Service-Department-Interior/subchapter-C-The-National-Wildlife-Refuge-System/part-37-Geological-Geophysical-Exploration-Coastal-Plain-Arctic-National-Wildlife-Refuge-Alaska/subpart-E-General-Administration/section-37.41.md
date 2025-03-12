@@ -1,0 +1,3 @@
+##### § 37.41 Responsibilities of the Regional Director. #####
+
+The Regional Director is authorized to approve and disapprove exploration plans; issue special use permits; inspect and regulate exploratory activities; require compliance with the permittee's approved exploration plan, plan of operation, this part, and other statutes and regulations under which the refuge is administered; and perform all other duties assigned to the Regional Director by this part. The Regional Director may issue written or oral stipulations, demands and orders to carry out his responsibilities, and amend and terminate them as he deems appropriate. Any oral stipulation, demand or order shall be confirmed in writing within 3 working days from its issuance.

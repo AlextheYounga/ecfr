@@ -1,0 +1,5 @@
+##### § 930.57 Consistency certifications. #####
+
+(a) Following appropriate coordination and cooperation with the State agency, all applicants for required federal licenses or permits subject to State agency review shall provide in the application to the federal licensing or permitting agency a certification that the proposed activity complies with and will be conducted in a manner consistent with the management program. At the same time, the applicant shall furnish to the State agency a copy of the certification and necessary data and information.
+
+(b) The applicant's consistency certification shall be in the following form: “The proposed activity complies with the enforceable policies of (name of State) approved management program and will be conducted in a manner consistent with such program.”

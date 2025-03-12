@@ -1,0 +1,53 @@
+##### § 302.2 Definitions. #####
+
+Except as otherwise stated or clearly apparent by context, the definitions ascribed in this section to each of the listed terms shall constitute their meaning when used in the regulations in this part. Terms not defined in this part shall have the meaning set forth in their definition, if any, in the Federal Civil Defense Act of 1950, as amended.
+
+(a) *Act.* The Federal Civil Defense Act of 1950, as amended (50 U.S.C. App. 2251 *et seq.* ).
+
+(b) *Administrative expenses.* Necessary and essential expenses, other than personnel expenses as defined in this section, of a grantee and its subgrantees incurred in the administration of their civil defense programs, as detailed in CPG 1-3, Federal Assistance Handbook, and in CPG 1-32, FEMA Financial Assistance Guidelines.
+
+(c) *Annual submission.* The State's annual request for participation in the contributions program authorized by section 205 of the Act. As specified in CPG 1-3, it includes staffing patterns (including job description changes), budget requirements, and any amendments to the State administrative plan, a request for funds covering the State and its subgrantees and program statements of work for the grantee and subgrantees under the Comprehensive Cooperative Agreement.
+
+(d) *Approval.* All approvals by the Federal Emergency Management Agency (FEMA) as grantor agency required under the regulations in this part mean prior approval in writing signed by an authorized FEMA official. When failure to obtain prior approval of an action has not resulted and is not expected to result in any failure of compliance with a substantive requirement, and approval after the fact is not contrary to law (or regulation having the effect of law), written approval after the fact may be granted at the discretion of the authorized official.
+
+(e) *CPG 1-3.* Civil Preparedness Guide entitled “Federal Assistance Handbook,” which sets forth detailed guidance on procedures that a State and, where applicable, its political subdivisions must follow in order to request financial assistance from the grantor agency. It also sets forth detailed requirements, terms, and conditions upon which financial assistance is granted under these regulations. Included are amendments by numbered changes. References to CPG 1-3 include provisions of any other volumes of the CPG series specifically referenced in CPG 1-3. Copies of the Civil Preparedness Guides and the Civil Preparedness Circulars may be ordered by FEMA Regional Offices using FEMA Form 60-8 transmitted to FEMA, P.O. Box 8181, Washington, DC, 20024. One or more copies of CPG 1-3 have been distributed to each State and to each local government participating in the program under the regulations in this part. Copies of revisions and amendments are distributed to participating governments (addressed to the Emergency Management Coordinator) upon issuance.
+
+(f) *Comprehensive Cooperative Agreement (CCA).* Provides for each State a single vehicle for applying for and receiving financial assistance for several discrete FEMA programs and for organizing and reporting on emergency management objectives and accomplishments, particularly under the funded programs.
+
+(g) *Emergency management.* Refers to the activities and measures undertaken by a State, or one of its political subdivisions, to manage a “civil defense program” as defined and provided for by the Federal Civil Defense Act of 1950, as amended, including without limitation Title V, added by Public Law 96-342, and section 207, added by Public Law 97-86. Title V calls for an improved civil defense program that includes:
+
+(1) A program structure for the resources to be used for attack-related civil defense; (2) a program structure for the resources to be used for disaster-related civil defense; and (3) criteria and procedures under which those resources planned for attack-related civil defense and those planned for disaster-related civil defense can be used interchangeably. Thus, emergency management includes “civil defense” for and operations in either attack-related or disaster-related emergencies. Section 207 allows Federal Civil Defense Act funds to be used for disaster preparedness and response if such use “is consistent with, contributes to, and does not detract from attack-related civil defense preparedness.” Also 44 CFR part 312, Use of Civil Defense Personnel, Materials, and Facilities for Natural Disaster Purposes, provides terms and conditions for such use.
+
+(h) *Administrator.* The head of the grantor agency or another official of the Agency authorized in writing by the Administrator to act officially on behalf of the Administrator.
+
+(i) *Forms prescribed by the grantor agency.* Forms prescribed by the grantor agency are identified in CPG 1-3 and may be ordered by FEMA Regional Offices using FEMA Form 60-8 transmitted to FEMA, P.O. Box 8181, Washington, DC, 20024.
+
+(j) *Grantee.* A State that has received EMA funds as a result of having a State administrative plan, a statement of work, and an annual submission, all approved by the grantor agency as meeting the requirements prescribed in this part and in CPG 1-3 for necessary and essential State and local civil defense personnel and administrative expenses for a current Federal fiscal year.
+
+(k) *Grantor agency.* The Federal Emergency Management Agency (FEMA).
+
+(l) *Interstate civil defense authority.* Any civil defense authority established by interstate compact pursuant to section 201(g) of the Act.
+
+(m) *Necessary and essential civil defense expenses.* Necessary and essential civil defense expenses are those required for the proper and efficient administration of the civil defense program of a grantee or a subgrantee as described in a State administrative plan and statement of work approved by the Regional Administrator as being consistent with the national plan (i.e., program) for civil defense and as meeting other requirements for civil defense prescribed by or under provisions of the Act.
+
+(n) *OMB Circular A-87.* “Cost Principles Applicable to Grants and Contracts with State and Local Governments,” promulgated by the Office of Management and Budget, Executive Office of the President, as published in the Federal Register (46 FR 9548) and subsequent amendments or revisions. (See CPG 1-32, Financial Assistance Guidelines).
+
+(o) *OMB Circular A-102.* “Uniform Administrative Requirements for Grants-in-aid to State and Local Governments,” promulgated by the Office of Management and Budget, Executive Office of the President (42 FR 45828) including amendments or revisions as published in the Federal Register. (See CPG 1-32, Financial Assistance Guidelines).
+
+(p) *Emergency Operations Plan (EOP).* State or local government Emergency Operations Plans identify the available personnel, equipment, facilities, supplies, and other resources in the jurisdiction and states the method or scheme for coordinated actions to be taken by individuals and government services in the event of natural, manmade and attack-related disasters.
+
+(q) *Personnel expenses.* Necessary and essential civil defense expenses for personnel on the approved staffing pattern of a grantee or subgrantee (including but not necessarily limited to salaries, wages, and supplementary compensation and fringe benefits) for such employees appointed in accordance with State and local government laws and regulations under a system which meets Federal merit system and other applicable Federal requirements. Such expenses must be supported by job descriptions, payrolls, time distribution records, and other documentation as detailed in CPG 1-3. Personnel compensation and other costs incurred with regard to employees who are not on the civil defense staff but whose work serves the civil defense agency (e.g., State's budget and accounting office) may be charged as civil defense expense to the extent covered therefore in a federally approved indirect cost allocation plan.
+
+(r) *Political subdivisions.* Local governments, including but not limited to cities, towns, incorporated communities, counties or parishes, and townships.
+
+(s) *Regional Administrator.* A FEMA official delegated authority to exercise specified functions as they apply to grantees and subgrantees, within the geographical area of a particular region as identified (including address) in 44 CFR part 2.
+
+(t) *State.* Any of the actual States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories of American Samoa, Guam, and the Virgin Islands.
+
+(u) *State administrative plan.* A one-time submission with amendments as necessary to keep it current, the plan is a formal description of each participating State's total civil defense program and of related State and local laws, executive directives, rules, and plans and procedures, including personnel standards administered on a merit basis, updated emergency operations plans, travel regulations, indirect cost allocation plans and other information necessary to reflect the total civil defense program throughout the State. The plan also includes without limitation documentation as to administrative and financial systems to assure compliance with uniform grant-in-aid administrative requirements for States and subgrantees as required under OMB Circular A-102 and with other requirements relevant to the eligibility of the State and its political subdivisions for participation in financial assistance programs for civil defense purposes. Detailed requirements are prescribed in CPG 1-3. (Also see § 302.3.)
+
+(v) *Statement of work.* Formal identification of specific actions to be accomplished by a State and its political subdivisions during the fiscal year for which Federal funds are being requested by the State. Submission is made to the FEMA Regional Administrator as part of the CCA Program Narrative.
+
+(w) *Subgrantee.* A political subdivision of a State listed in the State's annual submission (or amendments thereto) as approved by the grantor agency (including any grantor agency-approved amendments thereto) as eligible to receive a portion of the Federal financial contribution provided for use within the State. The term includes Indian tribes when the State has assumed jurisdiction pursuant to State law and tribal regulations.
+
+[48 FR 44211 Sept. 28, 1983, as amended at 51 FR 12520, Apr. 11, 1986; 74 FR 15354, Apr. 3, 2009]

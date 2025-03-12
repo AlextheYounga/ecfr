@@ -1,0 +1,3 @@
+##### § 530.301 General. #####
+
+A system of civil money penalties is established to provide a remedy for any violation of the FLSA related to homework (except child labor violations, which are subject to civil money penalties pursuant to part 579 of this chapter), or for any violation of the homeworker regulations or employers' assurances pursuant to this part, which are not so serious as to warrant denial or revocation of a certificate. Accordingly, no civil money penalty will be assessed for conduct which serves as the basis of proposed denial or revocation of a certificate. (See subpart C of this part.) Civil money penalties will be assessed only against employers who are operating under a certificate or who are seeking certification.

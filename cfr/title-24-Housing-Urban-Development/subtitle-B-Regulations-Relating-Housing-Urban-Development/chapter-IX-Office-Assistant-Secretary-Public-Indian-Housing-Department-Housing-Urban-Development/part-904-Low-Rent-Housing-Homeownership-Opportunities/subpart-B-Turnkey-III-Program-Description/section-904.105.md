@@ -1,0 +1,3 @@
+##### § 904.105 Counseling of homebuyers. #####
+
+The LHA shall provide counseling and training as provided in subpart C of this part, with funding as provided in § 904.206 of this part. Applicants for admission shall be advised of the nature of the counseling and training program available to them and the application for admission shall include a statement that the family agrees to participate and cooperate fully in all official pre-occupancy and post-occupancy training and counseling activities. Failure to participate as agreed may result in the family not being selected or retained as a homebuyer.

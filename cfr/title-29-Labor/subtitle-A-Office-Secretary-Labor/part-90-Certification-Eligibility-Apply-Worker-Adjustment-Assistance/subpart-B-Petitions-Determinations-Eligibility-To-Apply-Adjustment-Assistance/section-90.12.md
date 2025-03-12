@@ -1,0 +1,5 @@
+##### § 90.12 Investigation. #####
+
+Upon receipt of a petition, properly filed and verified, the Director of the Division of Trade Adjustment Assistance shall promptly publish notice in the Federal Register that the petition has been received. The Director shall initiate, or order to be initiated, such investigation as he determines to be necessary and appropriate. The investigation may include one or more field visits to confirm information furnished by the petitioner(s) and to elicit other relevant information. In the course of any investigation, representatives of the Department shall be authorized to contact and meet with responsible officials of firms, union officials, employees, and any other persons, or organizations, both private and public, as may be necessary to marshal all relevant facts to make a determination on the petition.
+
+(Approved by the Office of Management and Budget under control numbers 1205-0197, 1205-0190, 1205-0191)[52 FR 23401, June 19, 1987, as amended at 72 FR 37104, July 9, 2007]

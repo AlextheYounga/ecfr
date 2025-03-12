@@ -1,0 +1,3 @@
+##### § 29.80 Do I need a permit for accessing oil and gas rights from a non-Federal location? #####
+
+No. Using directional drilling from a non-Federal surface location to reach your oil and gas rights within a refuge is exempt from these regulations. However, you are encouraged to provide the Service the names, phone numbers, and addresses of your primary company representative, representative responsible for field supervision, and representative responsible for emergency response at least 60 calendar days prior to conducting your operation. If you require access across Service-administered lands or waters, that access is subject to applicable provisions of this subpart, including obtaining an operations permit for any new access or modification of existing access.

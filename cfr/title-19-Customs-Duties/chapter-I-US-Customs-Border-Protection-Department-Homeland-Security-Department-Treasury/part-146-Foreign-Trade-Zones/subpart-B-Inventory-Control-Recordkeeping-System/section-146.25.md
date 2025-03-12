@@ -1,0 +1,7 @@
+##### § 146.25 Annual reconciliation. #####
+
+(a) *Report.* The operator shall prepare a reconciliation report within 90 days after the end of the zone/subzone year unless the port director authorizes an extension for reasonable cause. The operator shall retain that annual reconciliation report for a spot check or audit by Customs, and need not furnish it to Customs unless requested. There is no form specified for the preparation of the report.
+
+(b) *Information required.* The report must contain a description of merchandise for each zone lot or unique identifer, zone status, quantity on hand at the beginning of the year, cumulative receipts and transfers (by unit), quantity on hand at the end of the year, and cumulative positive and negative adjustments (by unit) made during the year.
+
+(c) *Certification.* The operator shall submit to the port director within 10 working days after the annual reconciliation report, a letter signed by the operator certifying that the annual reconciliation has been prepared, is available for Customs review, and is accurate. The certification letter must contain the name and street address of the operator, where the required records are available for Customs review; and the name, title, and telephone number of the person having custody of the records. Reporting of shortages and overages based on the annual reconciliation will be made in accordance with § 146.53. These reports must accompany the certification letter.

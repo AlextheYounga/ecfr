@@ -1,0 +1,3 @@
+##### § 570.905 Review of continuing capacity to carry out CDBG funded activities in a timely manner. #####
+
+If HUD determines that the recipient has not carried out its CDBG activities and certifications in accordance with the requirements and criteria described in § 570.901 or 570.902, HUD will undertake a further review to determine whether or not the recipient has the continuing capacity to carry out its activities in a timely manner. In making the determination, the Department will consider the nature and extent of the recipient's performance deficiencies, types of corrective actions the recipient has undertaken and the success or likely success of such actions.

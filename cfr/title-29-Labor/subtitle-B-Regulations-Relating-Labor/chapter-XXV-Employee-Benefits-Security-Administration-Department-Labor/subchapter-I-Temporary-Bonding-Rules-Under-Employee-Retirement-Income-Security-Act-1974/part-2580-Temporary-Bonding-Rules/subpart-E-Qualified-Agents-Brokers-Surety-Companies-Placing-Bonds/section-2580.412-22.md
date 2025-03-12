@@ -1,0 +1,3 @@
+##### § 2580.412-22 Interests held in agents, brokers and surety companies. #####
+
+Section 13(c) prohibits the placing of bonds, required to be obtained pursuant to section 13, with any surety or other company, or through any agent or broker in whose business operations a plan or any party in interest in a plan has significant control or financial interest, direct or indirect. An interpretation of this section has been issued (§ 2580.412-36 of this chapter).

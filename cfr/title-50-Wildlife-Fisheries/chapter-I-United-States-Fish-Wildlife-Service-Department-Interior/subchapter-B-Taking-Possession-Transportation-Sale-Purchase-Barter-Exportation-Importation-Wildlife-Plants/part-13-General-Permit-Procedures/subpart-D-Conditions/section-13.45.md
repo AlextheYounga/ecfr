@@ -1,0 +1,3 @@
+##### § 13.45 Filing of reports. #####
+
+Permittees may be required to file reports of the activities conducted under the permit. Any such reports shall be filed not later than March 31 for the preceding calendar year ending December 31, or any portion thereof, during which a permit was in force, unless the regulations of this subchapter B or the provisions of the permit set forth other reporting requirements.

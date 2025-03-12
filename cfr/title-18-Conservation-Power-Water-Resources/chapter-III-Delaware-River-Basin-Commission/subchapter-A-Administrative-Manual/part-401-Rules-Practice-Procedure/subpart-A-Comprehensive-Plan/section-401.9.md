@@ -1,0 +1,3 @@
+##### § 401.9 Custody and availability. #####
+
+The Comprehensive Plan shall be and remain in the custody of the Executive Director. The Plan, including all maps, charts, description and supporting data shall be and remain a public record open to examination during the regular business hours of the Commission, under such safeguards as the Executive Director may determine to be necessary to preserve and protect the Plan against loss, damage or destruction. Copies of the Comprehensive Plan or any part or parts thereof shall be made available by the Executive Director for public sale at a price covering the cost of production and distribution.

@@ -1,0 +1,9 @@
+##### § 10.3034 Goods re-entered after repair or alteration in Colombia. #####
+
+(a) *General.* This section sets forth the rules which apply for purposes of obtaining duty-free treatment on goods returned after repair or alteration in Colombia as provided for in subheadings 9802.00.40 and 9802.00.50, HTSUS. Goods returned after having been repaired or altered in Colombia, regardless of whether such repair or alteration could be performed in the territory of the Party from which the good was exported for repair or alteration, are eligible for duty-free treatment, provided that the requirements of this section are met. For purposes of this section, “repairs or alterations” means restoration, addition, renovation, re-dyeing, cleaning, re-sterilizing, or other treatment that does not destroy the essential characteristics of, or create a new or commercially different good from, the good exported from the United States. The term “repairs or alterations” does not include an operation or process that transforms an unfinished good into a finished good.
+
+(b) *Goods not eligible for duty-free treatment after repair or alteration.* The duty-free treatment referred to in paragraph (a) of this section will not apply to goods which, in their condition as exported from the United States to Colombia, are incomplete for their intended use and for which the processing operation performed in Colombia constitutes an operation that is performed as a matter of course in the preparation or manufacture of finished goods.
+
+(c) *Documentation.* The provisions of paragraphs (a), (b), and (c) of § 10.8, relating to the documentary requirements for goods entered under subheading 9802.00.40 or 9802.00.50, HTSUS, will apply in connection with the entry of goods which are returned from Colombia after having been exported for repairs or alterations and which are claimed to be duty free.
+
+[77 FR 59069, Sept. 26, 2012, as amended at 78 FR 60193, Oct. 1, 2013]

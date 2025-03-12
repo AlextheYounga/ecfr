@@ -1,0 +1,5 @@
+##### § 12.25 Transfers in settlement of civil penalty claims. #####
+
+In the discretion of the Solicitor, an owner of wildlife or plants who may be liable for civil penalty under the Endangered Species Act, 16 U.S.C. 1531 *et* seq.; Lacey Act, 18 U.S.C. 43; Lacey Act Amendments of 1981, 16 U.S.C. 3371 *et seq.;* Eagle Protection Act, 16 U.S.C. 668 *et seq.;* or Marine Mammal Protection Act, 16 U.S.C. 1361 *et seq.,* may be given an opportunity to completely or partially settle the civil penalty claim by transferring to the United States all right, title, and interest in any wildlife or plants that are subject to forfeiture. Such transfer may be accomplished by the owner's execution and return of a U.S. Customs Form 4607 or a similar compromise transfer of property instrument provided by the Department.
+
+[47 FR 56861, Dec. 21, 1982]

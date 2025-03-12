@@ -1,0 +1,5 @@
+##### § 118.3 Written agreement. #####
+
+The applicant tentatively selected to operate a CES must sign a written agreement with CBP before commencing operations. Failure to execute a written agreement with CBP in a timely manner will result in the revocation of that applicant's tentative selection and may result in tentative selection of another applicant or republication of the notice soliciting applications. In addition to the provisions described elsewhere in this part, the agreement will specify the duration of the authority to operate the CES. That duration will be not less than three years nor more than five years. Such agreements cannot be transferred, sold, inherited, or conveyed in any manner. At the expiration of the agreement, an operator wishing to reapply may do so pursuant to this part and his application will be considered de novo.
+
+[T.D. 93-6, 58 FR 5604, Jan. 22, 1993, as amended at CBP Dec. 10-29, 75 FR 52452, Aug. 26, 2010]

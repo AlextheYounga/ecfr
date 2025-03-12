@@ -1,0 +1,3 @@
+##### § 29.70 When do I need a temporary access permit? #####
+
+You must apply to the Service and obtain a temporary access permit to access your proposed area of operations in order to conduct reconnaissance surveys within a refuge. This permit will describe the means, routes, timing, and other terms and conditions of your access determined by the Service to result in only the minimum disturbance necessary to perform surveys.

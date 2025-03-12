@@ -1,0 +1,7 @@
+##### § 270.101 Preliminary reconnaissance. #####
+
+(a) To the extent the Director deems it appropriate, the Director may conduct a preliminary reconnaissance at the site of a building failure. The Director may establish and deploy a Team to conduct the preliminary reconnaissance, as described in § 270.102 of this subpart, or may have information gathered at the site of a building failure without establishing a Team.
+
+(b) If the Director establishes and deploys a Team to conduct the preliminary reconnaissance, the Team shall perform all duties pursuant to section 2(b)(2) of the Act, and may perform all activities that Teams are authorized to perform under the Act and these procedures, including gathering and preserving evidence. At the completion of the preliminary reconnaissance, the Team will report its findings to the Director in a timely manner. The Director may either determine that the Team should conduct further investigation, or may direct the Team to prepare its public report immediately.
+
+(c) If the preliminary reconnaissance is conducted without the establishment of a Team, the leader of the initial assessment will report his/her findings to the Director in a timely manner. The Director will decide whether to establish a Team and conduct an investigation using the criteria established in § 270.102 of this subpart.

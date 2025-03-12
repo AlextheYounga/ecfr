@@ -1,0 +1,3 @@
+##### § 661.21 When is a bridge eligible for rehabilitation? #####
+
+To be eligible for rehabilitation, the bridge must be considered structurally deficient or functionally obsolete and must be in accordance with 23 CFR part 650.409(a) for bridge rehabilitation. A bridge eligible for rehabilitation may be replaced if the life cycle cost analysis is conducted which shows the cost for bridge rehabilitation exceeds the replacement cost.

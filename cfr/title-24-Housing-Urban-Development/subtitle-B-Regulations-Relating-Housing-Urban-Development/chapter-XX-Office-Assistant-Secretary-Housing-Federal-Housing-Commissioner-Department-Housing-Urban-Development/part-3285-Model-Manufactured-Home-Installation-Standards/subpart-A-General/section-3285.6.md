@@ -1,0 +1,3 @@
+##### § 3285.6 Final leveling of manufactured home. #####
+
+The manufactured home must be adequately leveled prior to completion of the installation, so that the home's performance will not be adversely affected. The home will be considered adequately leveled if there is no more than1/4 inch difference between adjacent pier supports (frame or perimeter) and the exterior doors and windows of the home do not bind and can be properly operated.

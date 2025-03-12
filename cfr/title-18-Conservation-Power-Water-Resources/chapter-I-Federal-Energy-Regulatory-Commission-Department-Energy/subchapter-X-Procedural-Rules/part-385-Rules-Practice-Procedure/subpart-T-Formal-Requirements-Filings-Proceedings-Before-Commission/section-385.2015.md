@@ -1,0 +1,5 @@
+##### § 385.2015 Videotapes (Rule 2015). #####
+
+Any person may file a videotape that portrays the site of, or some physical aspect of, an energy project, such as a waterfall or flood waters at the site of an existing or proposed hydroelectric project, or construction activities at the site of a natural gas pipeline. The filing must include a written statement describing the place, date, and time at which the videotape was filmed, who filmed it, what it purports to depict, and the caption and docket number of the proceeding (if any) in which it is to be filed. Any person who files a videotape and who is also a party (either as an applicant or as an intervenor) to a docketed proceeding in which the videotape is filed must file four copies of the videotape with the Commission's Secretary, in VHS format with voice-over or pictorial inclusion of the data contained in the accompanying written statement, serve copies of the videotape on all of the other parties to the proceeding, and include a certificate of service with the filing.
+
+[Order 573, 59 FR 63247, Dec. 8, 1994. Redesignated by Order 687, 71 FR 62921, Oct. 27, 2006]

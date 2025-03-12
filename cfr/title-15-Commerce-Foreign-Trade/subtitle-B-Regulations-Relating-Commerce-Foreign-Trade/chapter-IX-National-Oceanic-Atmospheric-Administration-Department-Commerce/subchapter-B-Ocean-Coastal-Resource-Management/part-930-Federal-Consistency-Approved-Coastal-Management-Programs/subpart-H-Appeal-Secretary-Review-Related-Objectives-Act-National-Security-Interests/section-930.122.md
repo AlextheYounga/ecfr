@@ -1,0 +1,3 @@
+##### § 930.122 Necessary in the interest of national security. #####
+
+A federal license or permit activity, or a federal assistance activity, is “necessary in the interest of national security” if a national defense or other national security interest would be significantly impaired were the activity not permitted to go forward as proposed. Secretarial review of national security issues shall be aided by information submitted by the Department of Defense or other interested Federal agencies. The views of such agencies, while not binding, shall be given considerable weight by the Secretary. The Secretary will seek information to determine whether the objected-to activity directly supports national defense or other essential national security objectives.

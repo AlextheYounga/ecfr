@@ -1,0 +1,3 @@
+##### § 1918.35 Open hatches. #####
+
+Open weather deck hatches around which employees must work that are not protected to a height of 24 inches (.61 m) by coamings shall be guarded by taut lines or barricades at a height of 36 to 42 inches (.91 to 1.07 m) above the deck, except on the side on which cargo is being worked. Any portable stanchions or uprights used shall be supported or secured to prevent accidental dislodgement.

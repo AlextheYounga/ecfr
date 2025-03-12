@@ -1,0 +1,13 @@
+##### § 984.301 Program implementation. #####
+
+(a) *Program implementation deadline* - (1) *Voluntary program.* There is no deadline for implementation of a voluntary program. A voluntary program, however, may not be implemented before the requirements of § 984.201 have been satisfied.
+
+(2) *Mandatory program* - (i) *Program start-up.* Except as provided in paragraph (a)(3) of this section, operation of a local FSS program must begin within 12 months of the earlier of notification to the PHA of HUD's approval of the incentive award units or of other funding that establishes the obligation to operate an FSS program. Operation means that activities such as outreach, participant selection, and enrollment have begun. Full delivery of the supportive services to be provided to the total number of families required to be served under the program need not occur within 12 months, but must occur by the deadline set forth in paragraph (a)(2) of this section.
+
+(ii) *Full enrollment and delivery of service.* Except as provided in paragraph (a)(3) of this section, the PHA must have completed enrollment of the total number of families required to be served under the FSS program (based on the minimum program size), and must have begun delivery of the supportive services within two years from the date of notification of approval of the application for new public housing units for a public housing FSS program or for new rental certificates or rental vouchers for a Section 8 FSS program.
+
+(iii) *Extension of program deadlines for good cause.* HUD may extend the deadline set forth in either paragraph (a)(1) or paragraph (a)(2) of this section if the PHA requests an extension, and HUD determines that, despite best efforts on the part of the PHA, the development of new public housing units will not occur within the deadlines set forth in this paragraph (a), the commitment by public or private resources to deliver supportive services has been withdrawn, the delivery of such services has been delayed, or other local circumstances warrant an extension of the deadlines set forth in this paragraph (a).
+
+(b) *Program administration.* a PHA may employ appropriate staff, including a service coordinator or program coordinator to administer its FSS program, and may contract with an appropriate organization to establish and administer the FSS program, including the FSS account, as provided by § 984.305.
+
+[61 FR 8815, Mar. 5, 1996, as amended at 65 FR 16733, Mar. 29, 2000]

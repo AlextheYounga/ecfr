@@ -1,0 +1,3 @@
+##### § 793.5 What determines application of the exemption. #####
+
+The exemption applies only to an employee who is “employed as” an announcer, news editor, or chief engineer under the conditions specified in section 13(b) (9). Although the nature of the employer's business is important in applying the exemption to a particular employee in one of the named occupations, employment in the named occupation is an essential prerequisite for exemption. Whether an employee is exempt therefore depends upon an examination of his duties as well as the nature of the employer's activities. Some employees of the employer may be exempt and others may not.

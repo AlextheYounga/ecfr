@@ -1,0 +1,5 @@
+##### § 156.7 Service of application. #####
+
+After an application has been accepted for filing, the Secretary will cause a copy thereof to be served upon the natural gas company (respondent) against which an order pursuant to section 7(a) of the Natural Gas Act has been requested. The natural gas company shall, within 30 days after the date of service of such application file its answer (an original and 7 conformed copies) to such application in which it shall state whether it has any objection to the grant of the application. If the natural gas company objects to the grant of the relief sought by the application, it shall fully state the grounds and reasons for its objections. The answer shall be verified and shall be signed by an executive of the natural gas company. In the event that the respondent natural gas company fails to file a timely response to the application it shall be deemed to have agreed to the grant thereof.
+
+[Order 302, 30 FR 9302, July 27, 1965, as amended by Order 225, 47 FR 19057, May 3, 1982]

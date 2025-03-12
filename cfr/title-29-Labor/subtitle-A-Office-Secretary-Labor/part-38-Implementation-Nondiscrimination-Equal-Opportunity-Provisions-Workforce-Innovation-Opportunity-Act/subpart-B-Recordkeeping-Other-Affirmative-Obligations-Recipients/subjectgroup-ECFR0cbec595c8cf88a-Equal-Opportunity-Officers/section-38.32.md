@@ -1,0 +1,3 @@
+##### § 38.32 Small recipient Equal Opportunity Officer obligations. #####
+
+Although small recipients, as defined in § 38.4(hhh), do not need to designate EO Officers who have the full range of responsibilities listed in § 38.31, they must designate an individual who will be responsible for adopting and publishing complaint procedures, and processing complaints, as explained in §§ 38.72 through 38.75.

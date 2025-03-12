@@ -1,0 +1,5 @@
+##### § 972.221 Timing of submission of conversion assessments to HUD. #####
+
+(a) *Submission with PHA Plan.* A PHA that wishes to convert a public housing development to tenant-based assistance must submit a conversion assessment to HUD with its next PHA Annual Plan.
+
+(b) *Updated conversion assessment.* Where a PHA proposes to convert a development to tenant-based assistance, it must submit an updated conversion assessment if the conversion assessment otherwise would be more than one year older than the conversion plan to be submitted to HUD. To update a conversion assessment, a PHA must ensure that the analysis of rental market conditions is based on the most recently available data, and must include any data that have changed since the initial conversion assessment. A PHA may submit the initial cost analysis and comparison of the market value of the public housing before and after rehabilitation and/or conversion if there is no reason to believe that such information has changed significantly.

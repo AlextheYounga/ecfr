@@ -1,0 +1,5 @@
+##### § 12.104d Detention of articles; time in which to comply. #####
+
+In the event an importer cannot produce the certificate, documentation, or evidence, or the electronic equivalent, required in § 12.104c at the time of making entry, the port director shall take the designated archaeological or ethnological material into Customs custody and send it to a bonded warehouse or public store to be held at the risk and expense of the consignee until the certificate, documentation, or evidence, or the electronic equivalent, is presented to such officer. The certificate, documentation, or evidence, or the electronic equivalent, must be presented within 90 days after the date on which the material is taken into Customs custody, or such longer period as may be allowed by the port director for good cause shown.
+
+[T.D. 86-52, 51 FR 6907, Feb. 27, 1986, as amended by CBP Dec. 15-14, 80 FR 61285, Oct. 13, 2015]

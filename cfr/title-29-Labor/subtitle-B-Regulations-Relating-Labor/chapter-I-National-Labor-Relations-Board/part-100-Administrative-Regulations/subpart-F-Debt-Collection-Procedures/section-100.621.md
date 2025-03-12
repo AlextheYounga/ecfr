@@ -1,0 +1,3 @@
+##### § 100.621 When collection action may be terminated or suspended. #####
+
+The NLRB may suspend or terminate collection action on a claim not in excess of the monetary limitation of $100,000 or such other amount as the Attorney General may direct, exclusive of interest, penalties, and administrative costs, after deducting the amount of partial payments or collections, if any, in accordance with the standards and reasons set forth in 31 CFR part 903.

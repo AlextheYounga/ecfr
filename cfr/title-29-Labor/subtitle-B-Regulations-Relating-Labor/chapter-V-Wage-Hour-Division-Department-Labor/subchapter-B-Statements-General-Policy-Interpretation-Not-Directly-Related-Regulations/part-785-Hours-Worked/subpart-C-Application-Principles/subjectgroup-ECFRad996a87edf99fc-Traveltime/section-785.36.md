@@ -1,0 +1,3 @@
+##### § 785.36 Home to work in emergency situations. #####
+
+There may be instances when travel from home to work is overtime. For example, if an employee who has gone home after completing his day's work is subsequently called out at night to travel a substantial distance to perform an emergency job for one of his employer's customers all time spent on such travel is working time. The Divisions are taking no position on whether travel to the job and back home by an employee who receives an emergency call outside of his regular hours to report back to his regular place of business to do a job is working time.

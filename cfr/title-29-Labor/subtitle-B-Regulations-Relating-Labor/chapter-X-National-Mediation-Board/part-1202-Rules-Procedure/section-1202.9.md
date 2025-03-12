@@ -1,0 +1,3 @@
+##### § 1202.9 Appointment of arbitrators. #####
+
+Section 5, Third, (a) of the Railway Labor Act provides in the event mediation of a dispute is unsuccessful, the Board endeavors to induce the parties to submit their controversy to arbitration. If the parties so agree, and the arbitrators named by the parties are unable to agree upon the neutral arbitrator or arbitrators, as provided in section 7 of the Railway Labor Act, it becomes the duty of the Board to name such neutral arbitrators and fix the compensation for such service. In performing this duty, the Board is required to appoint only those whom it deems wholly disinterested in the controversy, and to be impartial and without bias as between the parties thereto.

@@ -1,0 +1,5 @@
+##### § 19.32 Wheat manipulation; reconditioning. #####
+
+(a) The mixing, blending, or commingling of imported wheat and domestic wheat, or of imported wheat of different classes and grades, as an incident of transportation or as an incident of exportation under transportation and exportation entries, direct export entries, or withdrawals for exportation shall not be permitted. Applications for permission to manipulate wheat under the provisions of section 562, Tariff Act of 1930, as amended, shall be approved only after the concurrence of all interested Federal agencies has been furnished by the applicant.
+
+(b) Where it is found that elevating, screening, blowing, fumigating, or drying of the wheat is essential to keep it in condition, the proprietor of the warehouse shall submit an application in writing to the port director. All such operations shall be performed under Customs supervision adequate to preclude unauthorized access to the wheat.

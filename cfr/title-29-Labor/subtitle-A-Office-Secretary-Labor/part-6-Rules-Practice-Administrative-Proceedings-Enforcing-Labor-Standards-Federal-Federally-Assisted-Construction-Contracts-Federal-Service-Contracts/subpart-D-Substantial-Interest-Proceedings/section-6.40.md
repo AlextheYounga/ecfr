@@ -1,0 +1,3 @@
+##### § 6.40 Scope. #####
+
+This subpart supplements the procedures contained in § 4.12 of part 4 and § 5.12(d) of part 5 of this title, and states the rules of practice applicable to hearings to determine whether persons of firms whose names appear on the ineligible list pursuant to section 5(a) of the Service Contract Act or § 5.12(a)(1) of part 5 of this title have a substantial interest in any firm, corporation, partnership, or association other than those listed on the ineligible list; and/or to determine whether persons or firms whose names appear on the ineligible list pursuant to section 3(a) of the Davis-Bacon Act have an interest in any firm, corporation, partnership, or association other than those listed on the ineligible list.

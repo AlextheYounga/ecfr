@@ -1,0 +1,3 @@
+##### § 773.101 Purpose. #####
+
+The purpose of this part is to establish the requirements for an application by a State to participate in the Surface Transportation Project Delivery Program (Program). The Program allows, under certain circumstances, the Secretary to assign and a State to assume the responsibilities under the National Environmental Policy Act of 1969 (NEPA) and for environmental review, consultation, or other action required under certain Federal environmental laws with respect to one or more highway, railroad, public transportation, or multimodal projects within the State.

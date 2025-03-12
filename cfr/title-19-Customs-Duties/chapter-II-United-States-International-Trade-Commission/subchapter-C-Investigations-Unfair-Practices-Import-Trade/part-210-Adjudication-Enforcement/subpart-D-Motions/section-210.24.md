@@ -1,0 +1,19 @@
+##### § 210.24 Interlocutory appeals. #####
+
+Rulings by the administrative law judge on motions may not be appealed to the Commission prior to the administrative law judge's issuance of an initial determination, except in the following circumstances:
+
+(a) *Appeals without leave of the administrative law judge.* The Commission may in its discretion entertain interlocutory appeals, except as provided in § 210.64, when a ruling of the administrative law judge:
+
+(1) Requires the disclosure of Commission records or requires the appearance of Government officials pursuant to § 210.32(c)(2); or
+
+(2) Denies an application for intervention under § 210.19. Appeals from such rulings may be sought by filing an application for review, not to exceed 15 pages, with the Commission within five days after service of the administrative law judge's ruling. An answer to the application for review may be filed within five days after service of the application. The application for review should specify the person or party taking the appeal, designate the ruling or part thereof from which appeal is being taken, and specify the reasons and present arguments as to why review is being sought. The Commission may, upon its own motion, enter an order staying the return date of an order issued by the administrative law judge pursuant to § 210.32(c)(2) or may enter an order placing the matter on the Commission's docket for review. Any order placing the matter on the Commission's docket for review will set forth the scope of the review and the issues that will be considered and will make provision for the filing of briefs if deemed appropriate by the Commission.
+
+(b) *Appeals with leave of the administrative law judge.* (1) Except as otherwise provided in paragraph (a) of this section, § 210.64, and paragraph (b)(2) of this section, applications for review of a ruling by an administrative law judge may be allowed only upon request made to the administrative law judge and upon determination by the administrative law judge in writing, with justification in support thereof, that the ruling involves a controlling question of law or policy as to which there is substantial ground for difference of opinion, and that either an immediate appeal from the ruling may materially advance the ultimate completion of the investigation or subsequent review will be an inadequate remedy.
+
+(2) Applications for review of a ruling by an administrative law judge under § 210.5(e)(1) as to whether information designated confidential by the supplier is entitled to confidential treatment under § 210.5(b) may be allowed only upon request made to the administrative law judge and upon determination by the administrative law judge in writing, with justification in support thereof.
+
+(3) A written application for review under paragraph (b)(1) or (b)(2) of this section shall not exceed 15 pages and may be filed within five days after service of the administrative law judge's determination. An answer to the application for review may be filed within five days after service of the application for review. Thereupon, the Commission may, in its discretion, permit an appeal. Unless otherwise ordered by the Commission, Commission review, if permitted, shall be confined to the application for review and answer thereto, without oral argument or further briefs.
+
+(c) *Investigation not stayed.* Application for review under this section shall not stay the investigation before the administrative law judge unless the administrative law judge or the Commission shall so order.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 59 FR 67627, Dec. 30, 1994]

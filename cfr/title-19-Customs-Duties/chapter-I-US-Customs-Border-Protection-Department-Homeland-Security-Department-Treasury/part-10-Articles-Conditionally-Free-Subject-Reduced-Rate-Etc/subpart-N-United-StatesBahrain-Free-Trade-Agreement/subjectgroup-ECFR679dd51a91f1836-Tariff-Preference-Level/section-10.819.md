@@ -1,0 +1,11 @@
+##### § 10.819 Goods eligible for tariff preference claims. #####
+
+The following goods are eligible for a TPL claim filed under § 10.818 of this subpart (subject to the quantitative limitations set forth in U.S. Note 13, Subchapter XIV, Chapter 99, HTSUS):
+
+(a) Cotton or man-made fiber fabric goods provided for in Chapters 52, 54, 55, 58, and 60 of the HTSUS that are wholly formed in the territory of Bahrain from yarn produced or obtained outside the territory of Bahrain or the United States;
+
+(b) Cotton or man-made fiber fabric goods provided for in subheadings 5801.21, 5801.22, 5801.23, 5801.24, 5801.25, 5801.26, 5801.31, 5801.32, 5801.33, 5801.34, 5801.35, 5801.36, 5802.11, 5802.19, 5802.20, 5802.30, 5803.10, 5803.90.30, 5804.10.10, 5804.21, 5804.29.10, 5804.30, 5805.00.30, 5805.00.40, 5806.10.10, 5806.10.24, 5806.10.28, 5806.20, 5806.31, 5806.32, 5807.10.05, 5807.10.20, 5807.90.05, 5807.90.20, 5808.10.40, 5808.10.70, 5808.90, 5809.00, 5810.10, 5810.91, 5810.92, 5811.00.20, 5811.00.30, 6001.10, 6001.21, 6001.22, 6001.91, 6001.92, 6002.40, 6002.90, 6003.20, 6003.30, 6003.40, 6004.10, 6004.90, 6005.21, 6005.22, 6005.23, 6005.24, 6005.31, 6005.32, 6005.33, 6005.34, 6005.41, 6005.42, 6005.43, 6005.44, 6006.21, 6006.22, 6006.23, 6006.24, 6006.31, 6006.32, 6006.33, 6006.34, 6006.41, 6006.42, 6006.43, and 6006.44 of the HTSUS that are wholly formed in the territory of Bahrain from yarn spun in the territory of Bahrain or the United States from fiber produced or obtained outside the territory of Bahrain or the United States;
+
+(c) Cotton or man-made fiber apparel goods provided for in Chapters 61 or 62 of the HTSUS that are cut or knit to shape, or both, and sewn or otherwise assembled in the territory of Bahrain from fabric or yarn produced or obtained outside the territory of Bahrain or the United States; and
+
+(d) Cotton or man-made fiber made-up goods provided for in Chapter 63 of the HTSUS that are cut or knit to shape, or both, and sewn or otherwise assembled in the territory of Bahrain from fabric wholly formed in Bahrain or the United States from yarn produced or obtained outside the territory of Bahrain or the United States.

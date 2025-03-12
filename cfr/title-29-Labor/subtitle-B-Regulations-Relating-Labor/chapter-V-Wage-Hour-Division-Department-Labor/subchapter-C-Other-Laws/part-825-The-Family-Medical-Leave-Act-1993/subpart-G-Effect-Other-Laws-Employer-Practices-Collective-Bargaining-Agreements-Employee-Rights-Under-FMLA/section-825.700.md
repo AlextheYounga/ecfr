@@ -1,0 +1,5 @@
+##### § 825.700 Interaction with employer's policies. #####
+
+(a) An employer must observe any employment benefit program or plan that provides greater family or medical leave rights to employees than the rights established by the FMLA. Conversely, the rights established by the Act may not be diminished by any employment benefit program or plan. For example, a provision of a CBA which provides for reinstatement to a position that is not equivalent because of seniority (e.g., provides lesser pay) is superseded by FMLA. If an employer provides greater unpaid family leave rights than are afforded by FMLA, the employer is not required to extend additional rights afforded by FMLA, such as maintenance of health benefits (other than through COBRA), to the additional leave period not covered by FMLA.
+
+(b) Nothing in this Act prevents an employer from amending existing leave and employee benefit programs, provided they comply with FMLA. However, nothing in the Act is intended to discourage employers from adopting or retaining more generous leave policies.

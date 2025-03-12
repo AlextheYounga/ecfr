@@ -1,0 +1,5 @@
+##### § 71.5 Access to records. #####
+
+(a) *Manner of access.* A component that has made a determination to grant a request for access shall grant the requester access to the requested record either by providing the requester with a copy of the record, or making the record available for inspection by the requester at a reasonable time and place. The component shall charge the requester only duplication costs in accordance with the provisions of § 71.6. If a component provides access to a record by making the record available for inspection by the requester, the manner of such inspection shall not unreasonably disrupt the operations of the component.
+
+(b) *Accompanying person.* A requester appearing in person to review his own records may be accompanied by another individual of his own choosing. The requester shall provide the Department with his or her written consent to disclose the record to the accompanying person.

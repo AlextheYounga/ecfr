@@ -1,0 +1,3 @@
+##### § 1202.3 Representation disputes. #####
+
+If any dispute shall arise among a carrier's employees as to who are the representatives of such employees designated and authorized in accordance with the requirements of the Railway Labor Act, it is the duty of the Board, upon request of either party to the dispute, to investigate such dispute and certify to both parties, in writing, the name or names of individuals or organizations that have been designated and authorized to represent the employees involved in the dispute, and to certify the same to the carrier.

@@ -1,0 +1,3 @@
+##### § 334.7 Reporting. #####
+
+The Administrator of FEMA shall provide the President with periodic assessments of the Federal departments and agencies capabilities to respond to national security emergencies and periodic reports to the National Security Council on the implementation of the national security emergency preparedness policy. Pursuant to section 201(15) of Executive Order 12656, departments and agencies, as appropriate, shall consult and coordinate with the Administrator of FEMA to ensure that their activities and plans are consistent with current National Security Council guidelines and policies. An evaluation of the Federal departments and agencies participation in the graduated mobilization response program may be included in these reports.

@@ -1,0 +1,3 @@
+##### § 58.73 Objections to release of funds. #####
+
+HUD (or the State) will not approve the ROF for any project before 15 calendar days have elapsed from the time of receipt of the RROF and the certification or from the time specified in the notice published pursuant to § 58.70, whichever is later. Any person or agency may object to a recipient's RROF and the related certification. However, the objections must meet the conditions and procedures set forth in subpart H of this part. HUD (or the State) can refuse the RROF and certification on any grounds set forth in § 58.75. All decisions by HUD (or the State) regarding the RROF and the certification shall be final.

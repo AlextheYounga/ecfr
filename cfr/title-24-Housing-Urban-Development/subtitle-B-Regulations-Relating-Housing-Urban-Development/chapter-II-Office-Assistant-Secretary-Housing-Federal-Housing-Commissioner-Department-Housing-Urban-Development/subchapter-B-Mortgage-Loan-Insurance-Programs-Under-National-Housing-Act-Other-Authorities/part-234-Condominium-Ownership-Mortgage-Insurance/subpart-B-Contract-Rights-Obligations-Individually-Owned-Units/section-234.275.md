@@ -1,0 +1,5 @@
+##### § 234.275 Certificate or statement of condition. #####
+
+The mortgagee shall either certify that as of the date of the filing of deed for record, or assignment of the mortgage to the Secretary, the property was (a) undamaged by fire, flood, earthquake, tornado or boiler explosion, and (b) as to mortgages insured or for which commitments to insure are issued on or after June 8, 1977, undamaged due to failure of the mortgagee to take action as required by § 203.377, or its claim shall be accompanied by a statement describing any such damage that may still exist together with a copy of the Secretary's authorization to convey the property in damaged condition. In the absence of evidence to the contrary, the mortgagee's certificate or its statement as to damage shall be accepted by the Secretary as establishing the condition of the family unit and the common areas and facilities designated for the particular unit.
+
+[42 FR 29305, June 8, 1977]

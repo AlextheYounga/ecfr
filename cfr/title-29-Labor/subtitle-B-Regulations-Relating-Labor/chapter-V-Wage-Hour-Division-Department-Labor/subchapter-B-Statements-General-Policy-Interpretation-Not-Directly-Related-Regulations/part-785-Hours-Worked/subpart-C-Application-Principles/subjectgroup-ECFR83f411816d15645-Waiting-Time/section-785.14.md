@@ -1,0 +1,3 @@
+##### § 785.14 General. #####
+
+Whether waiting time is time worked under the Act depends upon particular circumstances. The determination involves “scrutiny and construction of the agreements between particular parties, appraisal of their practical construction of the working agreement by conduct, consideration of the nature of the service, and its relation to the waiting time, and all of the circumstances. Facts may show that the employee was engaged to wait or they may show that he waited to be engaged.” (*Skidmore* v. *Swift,* 323 U.S. 134 (1944)) Such questions “must be determined in accordance with common sense and the general concept of work or employment.” (*Central Mo. Tel. Co.* v. *Conwell,* 170 F. 2d 641 (C.A. 8, 1948))

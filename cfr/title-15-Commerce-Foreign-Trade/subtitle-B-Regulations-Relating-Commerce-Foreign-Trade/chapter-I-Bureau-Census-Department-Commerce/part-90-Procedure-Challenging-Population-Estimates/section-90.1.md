@@ -1,0 +1,3 @@
+##### § 90.1 Scope and applicability. #####
+
+Between decennial censuses, the Census Bureau annually prepares statistical estimates of the number of people residing in states and their governmental units. In general, these estimates are developed by updating the population counts produced in the most recent decennial census with demographic components of change data and/or other indicators of population change. These rules prescribe the administrative procedure available to governmental units to request a challenge to the most current of these estimates.

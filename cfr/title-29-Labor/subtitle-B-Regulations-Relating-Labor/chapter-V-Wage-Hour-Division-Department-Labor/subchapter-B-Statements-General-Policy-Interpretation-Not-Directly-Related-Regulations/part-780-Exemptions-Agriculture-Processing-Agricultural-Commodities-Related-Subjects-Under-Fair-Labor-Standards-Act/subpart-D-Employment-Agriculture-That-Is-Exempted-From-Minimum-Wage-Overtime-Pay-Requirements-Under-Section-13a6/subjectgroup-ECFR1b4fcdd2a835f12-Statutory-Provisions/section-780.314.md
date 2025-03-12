@@ -1,0 +1,3 @@
+##### § 780.314 Operations customarily \* \* \* paid on a piece rate basis \* \* \*. #####
+
+A significant test of the exemption is that the hand harvest operation “has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment.” The legislative history is silent on who must customarily and generally recognize the hand harvest operation as having been paid on a piece rate basis. However, considering the context in which the term is used, such recognition must be on the part of agricultural employers and employees and other individuals in the region of employment who are familiar with farming operations and practices in the region and the method of compensation utilized in such operations and practices.

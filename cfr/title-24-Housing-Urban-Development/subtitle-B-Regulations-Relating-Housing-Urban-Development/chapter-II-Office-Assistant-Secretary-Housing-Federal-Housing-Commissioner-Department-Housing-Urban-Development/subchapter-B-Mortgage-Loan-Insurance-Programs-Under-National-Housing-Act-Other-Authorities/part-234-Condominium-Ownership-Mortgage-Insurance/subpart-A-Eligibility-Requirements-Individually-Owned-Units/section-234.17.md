@@ -1,0 +1,3 @@
+##### § 234.17 Mortgagor and mortgagee requirements for maintaining flood insurance coverage. #####
+
+The maintenance of flood insurance coverage on the project by the condominium association will satisfy the requirements of § 203.16a of this chapter if such coverage protects the interest of the mortgagor in the family unit. For this purpose, “the interest of the mortgagor” is defined as insurance coverage equal to the replacement cost of the project less land costs.

@@ -1,0 +1,3 @@
+##### § 208.60 Determination of claims. #####
+
+When DHS receives a reviewable claim for reimbursement, DHS will review the claim to determine whether and to what extent reimbursement is allowable. Except as provided in § 208.63 of this part, DHS will complete its review and give written notice to the Sponsoring Agency of its determination within 90 days after the date DHS receives the claim. If DHS determines that any item of cost is not eligible for reimbursement, its notice of determination will specify the grounds on which DHS disallowed reimbursement.

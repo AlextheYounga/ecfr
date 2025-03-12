@@ -1,0 +1,3 @@
+##### § 242.24 Initial operating costs. #####
+
+In the case of a new hospital or a hospital expansion, HUD shall establish, on a case-by-case basis, the amount of initial operating capital, if any, that must be deposited in cash or a letter of credit (or combination) to be available to the new hospital upon commencement of operations. Generally, the initial operating capital other than AMPO shall not be borrowed funds unless HUD determines that there are offsetting financial strengths to compensate for the risk associated with borrowing.

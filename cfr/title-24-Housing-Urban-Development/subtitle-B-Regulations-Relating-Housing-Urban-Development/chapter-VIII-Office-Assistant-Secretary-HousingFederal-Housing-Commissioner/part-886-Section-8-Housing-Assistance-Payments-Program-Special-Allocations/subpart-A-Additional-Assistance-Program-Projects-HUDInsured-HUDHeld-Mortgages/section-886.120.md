@@ -1,0 +1,5 @@
+##### § 886.120 Responsibility for contract administration. #####
+
+(a) HUD is responsible for administration of the Contract. HUD may contract with another entity for the performance of some or all of its Contract administration functions.
+
+(b) The Contract shall contain a provision to the effect (1) that if HUD determines that the Owner is not in compliance under the Contract, HUD shall notify the Owner of the actions required to be taken to restore compliance and of the remedies to be applied by HUD including abatement of Housing Assistance Payments and recovery of overpayments, where appropriate; and (2) that if he fails to comply, HUD has the right to terminate the Contract or to take other corrective action. A default under the Regulatory Agreement shall be treated as non-compliance under the Contract.

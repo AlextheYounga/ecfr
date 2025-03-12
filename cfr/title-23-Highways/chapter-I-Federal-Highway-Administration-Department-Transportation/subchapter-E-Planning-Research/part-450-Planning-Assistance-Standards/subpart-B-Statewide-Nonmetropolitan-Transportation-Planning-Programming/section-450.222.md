@@ -1,0 +1,11 @@
+##### § 450.222 Project selection from the STIP. #####
+
+(a) Except as provided in § 450.218(g) and § 450.220(d), only projects in a FHWA/FTA approved STIP are eligible for funds administered by the FHWA or the FTA.
+
+(b) In metropolitan planning areas, transportation projects proposed for funds administered by the FHWA or the FTA shall be selected from the approved STIP in accordance with project selection procedures provided in § 450.332.
+
+(c) In nonmetropolitan areas, with the exclusion of specific projects as described in this section, the State shall select projects from the approved STIP in cooperation with the affected nonmetropolitan local officials, or if applicable, through RTPOs described in § 450.210(e). The State shall select transportation projects undertaken on the NHS, under the Bridge and Interstate Maintenance programs in title 23 U.S.C. and under sections 5310 and 5311 of title 49 U.S.C. Chapter 53 from the approved STIP in consultation with the affected nonmetropolitan local officials with responsibility for transportation.
+
+(d) Tribal Transportation Program, Federal Lands Transportation Program, and Federal Lands Access Program projects shall be selected from the approved STIP in accordance with the procedures developed pursuant to 23 U.S.C. 201, 202, 203, and 204.
+
+(e) The projects in the first year of an approved STIP shall constitute an “agreed to” list of projects for subsequent scheduling and implementation. No further action under paragraphs (b) through (d) of this section is required for the implementing agency to proceed with these projects. If Federal funds available are significantly less than the authorized amounts, or where there is significant shifting of projects among years, § 450.332(a) provides for a revised list of “agreed to” projects to be developed upon the request of the State, MPO, or public transportation operator(s). If an implementing agency wishes to proceed with a project in the second, third, or fourth year of the STIP, the procedures in paragraphs (b) through (d) of this section or expedited procedures that provide for the advancement of projects from the second, third, or fourth years of the STIP may be used, if agreed to by all parties involved in the selection process.

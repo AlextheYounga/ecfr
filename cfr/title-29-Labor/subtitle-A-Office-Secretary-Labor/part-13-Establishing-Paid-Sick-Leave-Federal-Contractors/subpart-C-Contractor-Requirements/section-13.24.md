@@ -1,0 +1,3 @@
+##### § 13.24 Anti-kickback. #####
+
+All paid sick leave used by employees performing on or in connection with covered contracts must be paid free and clear and without subsequent deduction (except as set forth in § 13.23), rebate, or kickback on any account. Kickbacks directly or indirectly to the contractor or to another person for the contractor's benefit for the whole or part of the paid sick leave are prohibited.

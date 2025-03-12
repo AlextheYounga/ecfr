@@ -1,0 +1,3 @@
+##### § 102.138 Definition of meeting. #####
+
+For purposes of this subpart, *meeting* shall mean the deliberations of at least three members of the full Board, or the deliberations of at least two members of any group of three Board members to whom the Board has delegated powers which it may itself exercise, where such deliberations determine or result in the joint conduct or disposition of official agency business, but does not include deliberations to determine whether a meeting should be closed to public observation in accordance with the provisions of this subpart.

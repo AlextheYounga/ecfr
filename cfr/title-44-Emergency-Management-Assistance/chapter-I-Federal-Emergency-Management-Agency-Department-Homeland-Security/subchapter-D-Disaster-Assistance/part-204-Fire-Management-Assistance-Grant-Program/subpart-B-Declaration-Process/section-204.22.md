@@ -1,0 +1,5 @@
+##### § 204.22 Submitting a request for a fire management assistance declaration. #####
+
+The Governor of a State, or the Governor's Authorized Representative (GAR), may submit a request for a fire management assistance declaration. The request must be submitted while the fire is burning uncontrolled and threatens such destruction as would constitute a major disaster. The request must be submitted to the Regional Administrator and should address the relevant criteria listed in § 204.21, with supporting documentation that contains factual data and professional estimates on the fire or fire complex. To ensure that FEMA can process a State's request for a fire management assistance declaration as expeditiously as possible, the State should transmit the request by telephone, promptly followed by written documentation.
+
+[66 FR 57347, Nov. 14, 2001, as amended at 79 FR 63546, Oct. 24, 2014]

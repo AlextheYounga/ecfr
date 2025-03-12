@@ -1,0 +1,13 @@
+##### § 70.4 Procedure for implementing prevailing wage exemptions for volunteers. #####
+
+(a) This section applies to those HUD programs for which there is a statutory *exemption* for volunteers, as referenced in § 70.1(a).
+
+(b) Local or State agencies or private parties whose employees are otherwise subject to Davis-Bacon or HUD-determined prevailing wage rates which propose to use volunteers and wish to pay the volunteers' expenses, reasonable benefits, or nominal fees shall request a determination from HUD that these payments meet the criteria in § 70.3(b). A written determination shall be provided to the requester by the Department within ten days of receipt by the Department of sufficient information to allow for the determination.
+
+(c) A determination under paragraph (b) shall not be construed in any way as limiting the use of bona fide volunteers on HUD-assisted construction, but rather is required to ensure that the Department performs its appropriate responsibilities under Reorganization Plan No. 14 of 1950 and related Department of Labor Regulations in title 29 CFR part 5, regarding the administration and enforcement of the Davis-Bacon and Related Acts, and its responsibility for the administration and enforcement of HUD-determined or adopted wage rates in the operation of public housing assisted under the United States Housing Act of 1937.
+
+(d) For a project covered by prevailing wage rate requirements in which all the work is to be done by volunteers and there are no paid construction employees, the local or State funding agency (or, if none, the entity that employs the volunteers) shall record in the pertinent project file the name and address of the agency sponsoring the project, a description of the project (location, cost, nature of the work), and the number of volunteers and the hours of work they performed. The entity responsible for recording this information shall also provide a copy of this information to HUD.
+
+(e) For a project covered by prevailing wage rate requirements in which there is to be a mix of paid workers and volunteers, the local or State funding agency (or, if none, the entity responsible for generating certified payrolls) shall provide HUD the information in paragraph (d) of this section, along with the names of the volunteers.
+
+(f) Volunteers who receive no expenses, benefits or fees described in (c) and are otherwise bona fide shall be recorded as in (d) or (e).

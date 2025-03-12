@@ -1,0 +1,5 @@
+##### § 154.602 Cancellation or termination of a tariff, executed service agreement or part thereof. #####
+
+When an effective tariff, contract, or part thereof on file with the Commission, is proposed to be canceled or is to terminate by its own terms and no new tariff, executed service agreement, or part thereof, is to be filed in its place, the natural gas company must notify the Commission of the proposed cancellation or termination , at least 30 days prior to the proposed effective date of such cancellation or termination. With such notice, the company must submit a statement showing the reasons for the cancellation or termination, a list of the affected customers and the contract demand provided to the customers under the service to be canceled. A copy of the notice must be duly posted tariff filing in the electronic format required by § 154.4.
+
+[Order 582, 60 FR 52996, Oct. 11, 1995, as amended by Order 714, 73 FR 57535, Oct. 3, 2008]

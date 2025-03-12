@@ -1,0 +1,15 @@
+##### § 4.24 Application for refund of tonnage tax. #####
+
+(a) The authority to make refunds in accordance with section 26 of the Act of June 26, 1884 (46 U.S.C. 8) of regular tonnage taxes described in § 4.20(a) is delegated to the Directors of the ports where the collections were made. If any doubt exists, the case shall first be referred to Headquarters, U.S. Customs Service for advice.
+
+(b) Each application for refund of regular or special tonnage tax or light money prepared in accordance with this section shall be filed with the Customs officer to whom payment was made. After verification of the pertinent facts asserted in the claim, the application shall be forwarded with any necessary report or recommendation to the appropriate port director. Applications for refund of special tonnage tax and light money (see § 4.20(c)) with the reports and recommendations submitted therewith shall be forwarded by the port director to the Commissioner of Customs for decision. Any refund authorized by the Port Director under paragraph (a) of this section or any refund of special tonnae tax or light money authorized by the Commissioner of Customs shall be made by the appropriate Customs officer. The records of tonnage tax shall be clearly noted to show each refund authorized.
+
+(c) The application shall be a direct request for the refund of a definite sum, showing concisely the reasons therefor, the nationality and name of the vessel, and the date, place, and amount of each payment for which refund is requested. The application shall be made within 1 year from date of the payment. A protest against a payment shall not be accepted as an application for its refund.
+
+(d) When the application is based upon a claim that more than five payments of regular tax at either the 2-cent or the 6-cent rate have been made during a tonnage year, the application shall be supported by a statement from the appropriate Customs officer at the port where the application is submitted and from the appropriate Customs officer at each port at which any claimed payment was made verifying the facts and showing in each case whether refunds have been authorized.
+
+(e) The application shall include a certificate by the owner or by the owner's agent that payment of tonnage tax at the applicable rate has been or will be made for each entry of the vessel on a voyage on which that rate is applicable before the end of the current tonnage year, exclusive of any payment which has been refunded or which may be refunded as a result of such application.
+
+(f) The owner or operator of the vessel involved, or other party in interest, may file with the port Director a petition addressed to the Commissioner of Customs for a review of the port director's decision on an application for refund of regular tonnage tax. Such petition shall be filed in duplicate within 30 days from the date of notice of the initial decision, shall completely identify the case, and shall set forth in detail the exceptions to the decision.
+
+[T.D. 71-274, 36 FR 21025, Nov. 3, 1971, as amended by T.D. 95-77, 60 FR 50010, Sept. 27, 1995]

@@ -1,0 +1,3 @@
+##### § 159.5 Cigars, cigarettes, and cigarette papers and tubes. #####
+
+The internal revenue taxes imposed on cigars, cigarettes, and cigarette papers and tubes under section 5701 or 7652, Internal Revenue Code of 1954 (26 U.S.C. 5701 or 7652), are determined in accordance with section 5703 of that Code (26 U.S.C. 5703) at the time of removal; that is, on the quantity removed from Customs custody under the entry or withdrawal for consumption. The Customs duties, unlike those on alcoholic beverages, do not necessarily apply only to such quantities.

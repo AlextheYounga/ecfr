@@ -1,0 +1,3 @@
+##### § 783.3 Reports containing information determined by BIS not to be required by the APR. #####
+
+If you submit a report and BIS determines that none of the information contained therein is required by the APR, BIS will not process the report and will notify you, either electronically or in writing, explaining the basis for its decision. BIS will not maintain any record of the report. However, BIS will maintain a copy of the notification.

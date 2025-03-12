@@ -1,0 +1,9 @@
+##### § 134.53 Examination packages. #####
+
+(a) *Site of marking* - (1) *Customs custody.* Articles (or containers) in examination packages may be marked by the importer at the place where they have been discharged from the importing or bonded carrier or in the public stores.
+
+(2) *Importer's premises or elsewhere.* If it is impracticable to mark the articles (or containers) in examination packages as provided in paragraph (a)(1) of this section, the merchandise may be turned over to the importer after the amount of duty, estimated to be payable under 19 U.S.C. 1304(f) has been deposited to insure compliance with the marking requirements and the payment of any additional expense which will be incurred on account of Customs supervision. (See § 134.55.) The port director may at his discretion accept the bond on Customs Form 301, containing the basic importation and entry bond conditions set forth in § 113.62 of this chapter as security for the requirements of 19 U.S.C. 1304 (f) and (g).
+
+(b) *Failure to export, destroy, or properly mark merchandise in examination packages.* If the articles (or containers) in examination packages are not exported, destroyed, or properly marked by the importer within a reasonable time (not more than 30 days), they shall be sent to general-order stores for disposition in accordance with part 127 of this chapter, unless covered by a warehouse entry. If covered by a warehouse entry, they shall be sent to the warehouse containing the rest of the shipment for marking prior to withdrawal.
+
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 78-99, 43 FR 13061, Mar. 29, 1978; T.D. 84-213, 49 FR 41183, Oct. 19, 1984; T.D. 90-51, 55 FR 28191, July 10, 1990]

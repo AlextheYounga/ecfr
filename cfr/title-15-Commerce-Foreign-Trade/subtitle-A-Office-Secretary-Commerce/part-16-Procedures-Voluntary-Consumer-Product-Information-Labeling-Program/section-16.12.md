@@ -1,0 +1,3 @@
+##### § 16.12 Consumer education. #####
+
+The Secretary, in close cooperation and coordination with interested Government agencies, appropriate trade associations and industry members, consumer organizations, and other interested persons shall carry out a program to educate consumers relative to the significance of the labeling program. Some elements of this program shall also be directed toward informing retailers and other interested groups about the program.

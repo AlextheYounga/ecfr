@@ -1,0 +1,3 @@
+##### § 81.65 Other information and analyses. #####
+
+When deemed appropriate and requested in writing, on a case by-case basis, by the Secretary, a GSE shall furnish the data underlying any of the reports required under this part and shall conduct additional analyses concerning any such report. A GSE shall submit additional reports or other information concerning its activities when deemed appropriate to carry out the Secretary's responsibilities under FHEFSSA or the Charter Acts and requested in writing by the Secretary.

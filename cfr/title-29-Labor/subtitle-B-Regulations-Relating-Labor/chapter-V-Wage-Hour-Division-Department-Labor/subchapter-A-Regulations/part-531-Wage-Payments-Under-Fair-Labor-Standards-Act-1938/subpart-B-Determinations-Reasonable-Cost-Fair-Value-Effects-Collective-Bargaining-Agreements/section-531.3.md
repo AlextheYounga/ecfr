@@ -1,0 +1,11 @@
+##### § 531.3 General determinations of “reasonable cost.” #####
+
+(a) The term *reasonable cost* as used in section 3(m) of the Act is hereby determined to be not more than the actual cost to the employer of the board, lodging, or other facilities customarily furnished by him to his employees.
+
+(b) *Reasonable cost* does not include a profit to the employer or to any affiliated person.
+
+(c) Except whenever any determination made under § 531.4 is applicable, the “reasonable cost” to the employer of furnishing the employee with board, lodging, or other facilities (including housing) is the cost of operation and maintenance including adequate depreciation plus a reasonable allowance (not more than 51/2 percent) for interest on the depreciated amount of capital invested by the employer: *Provided,* That if the total so computed is more than the fair rental value (or the fair price of the commodities or facilities offered for sale), the fair rental value (or the fair price of the commodities or facilities offered for sale) shall be the reasonable cost. The cost of operation and maintenance, the rate of depreciation, and the depreciated amount of capital invested by the employer shall be those arrived at under good accounting practices. As used in this paragraph, the term “good accounting practices” does not include accounting practices which have been rejected by the Internal Revenue Service for tax purposes, and the term “depreciation” includes obsolescence.
+
+(d)(1) The cost of furnishing “facilities” found by the Administrator to be primarily for the benefit or convenience of the employer will not be recognized as reasonable and may not therefore be included in computing wages.
+
+(2) The following is a list of facilities found by the Administrator to be primarily for the benefit of convenience of the employer. The list is intended to be illustrative rather than exclusive: (i) Tools of the trade and other materials and services incidental to carrying on the employer's business; (ii) the cost of any construction by and for the employer; (iii) the cost of uniforms and of their laundering, where the nature of the business requires the employee to wear a uniform.

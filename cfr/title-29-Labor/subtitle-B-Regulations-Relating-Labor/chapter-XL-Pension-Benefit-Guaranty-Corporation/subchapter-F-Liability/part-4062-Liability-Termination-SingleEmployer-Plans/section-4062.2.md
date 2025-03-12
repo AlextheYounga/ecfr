@@ -1,0 +1,5 @@
+##### § 4062.2 Definitions. #####
+
+The following terms are defined in § 4001.2 of this chapter: benefit liabilities, Code, contributing sponsor, controlled group, ERISA, fair market value, guaranteed benefit, multiple employer plan, notice of intent to terminate, PBGC, person, plan, plan administrator, proposed termination date, single-employer plan, and termination date.
+
+In addition, for purposes of this part, the term *collective net worth of persons subject to liability in connection with a plan termination* means the sum of the individual net worths of all persons that have individual net worths which are greater than zero and that (as of the termination date) are contributing sponsors of the terminated plan or members of their controlled groups, as determined in accordance with section 4062(d)(1) of ERISA and § 4062.4 of this part.

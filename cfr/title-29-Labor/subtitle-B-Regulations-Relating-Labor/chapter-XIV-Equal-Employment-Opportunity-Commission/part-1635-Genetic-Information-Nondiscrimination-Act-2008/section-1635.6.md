@@ -1,0 +1,3 @@
+##### § 1635.6 Causing a covered entity to discriminate. #####
+
+A covered entity may not cause or attempt to cause another covered entity, or its agent, to discriminate against an individual in violation of this part, including with respect to the individual's participation in an apprenticeship or other training or retraining program, or with respect to a member's participation in a labor organization.

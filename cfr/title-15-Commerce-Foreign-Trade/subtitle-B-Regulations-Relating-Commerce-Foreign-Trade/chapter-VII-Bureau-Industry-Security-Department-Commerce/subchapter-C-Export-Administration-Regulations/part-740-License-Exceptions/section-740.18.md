@@ -1,0 +1,35 @@
+##### § 740.18 Agricultural commodities (AGR). #####
+
+(a) *Eligibility requirements.* License Exception AGR permits the export of agricultural commodities to Cuba, as well as the reexport of U.S. origin agricultural commodities to Cuba, provided your transaction meets *all* of the following criteria:
+
+(1) The commodity meets the definition of “agricultural commodities” in part 772 of the EAR;
+
+(2) The commodity is EAR99. You must have an official commodity classification of EAR99 from BIS for fertilizers, western red cedar and live horses before you submit a notification under this license exception. See § 748.3 of the EAR for information on how to submit a commodity classification request;
+
+(3) The export or reexport is made pursuant to a written contract, except for donations and commercial samples which are not subject to this contract requirement;
+
+(4) The export or reexport is made within 12 months of the signing of the contract or within 12 months of notification that no objections were raised (if no contract is required). In the case of multiple partial shipments, all such shipments must be made within the 12 months of the signing of the contract or within 12 months of notification that no objections were raised (if no contract is required); and
+
+(5) You notify BIS prior to exporting or reexporting according to the procedures set forth in paragraph (c) of this section. If you intend to engage in multiple shipments during the one-year period after the signing of the contract, you need only notify BIS prior to the first shipment.
+
+(b) *Restrictions.* (1) No export or reexport to any individual or entity designated as a Specially Designated Terrorist or Foreign Terrorist Organization may be made under License Exception AGR (see part 744 of the EAR).
+
+(2) No export or reexport to or for use in biological, chemical, nuclear warfare or missile proliferation activities may be made under License Exception AGR (see part 744 of the EAR).
+
+(3) No U.S.-owned or controlled foreign firm may export from abroad to Cuba a foreign produced agricultural commodity containing more than 25% U.S.-origin content. Such U.S.-owned or controlled foreign firms require a specific license from BIS as well as the Department of the Treasury's Office of Foreign Assets Control (OFAC). Transactions not subject to the EAR (under 25% U.S.-origin content) require a license from OFAC.
+
+(c) *Prior notification*—(1) *General requirement.* You must notify BIS prior to any export or reexport (or prior to the first of multiple shipments) under License Exception AGR.
+
+(2) *Procedures.* You must provide prior notification of exports and reexports under License Exception AGR by submitting a completed application in accordance with § 748.1 of the EAR. The following blocks must be completed, as appropriate: Blocks 1, 2, 3, 4, 5 (by marking box 5 “Other”), 14, 16, 17, 18, 19, 21, 22 (a), (e), (f), (g), (h), (i), (j), 23, and 25 according to the instructions described in supplement no. 1 to part 748 of the EAR. If your commodity is fertilizer, western red cedar or live horses, you must confirm that BIS has previously classified your commodity as EAR99 by placing the Commodity Classification Automatic Tracking System (CCATS) number in Block 22(d). BIS will not initiate the registration of an AGR notification unless the application is complete.
+
+(3) *Action by BIS.* Within two business days of the registration of the AGR notification, BIS will refer the notification for interagency review, or if necessary return the notification without action (e.g., if the information provided is incomplete). Registration is defined as the point at which the notification is entered into BIS's electronic system.
+
+(4) *Review by other departments or agencies.* The Departments of Defense, State, and other agencies, as appropriate, may review the AGR notification. BIS must receive department or agency objections within nine business days of the referral. Unlike the provisions described in § 750.4(b) of the EAR, there are no provisions for stopping the processing time of the AGR notification. If, within 11 business days after the date of registration, any reviewing agency provides a written objection that the recipient may promote international terrorism or the transaction raises nonproliferation concerns, you may not use License Exception AGR. In such cases, BIS will notify you that a license is required for the export or reexport. BIS will then process the AGR notification as a license application in accordance with the provisions described in § 750.4 of the EAR, and the licensing policies set forth in the EAR. At this time, BIS may request additional information. When BIS confirms that no agency has raised an objection within eleven business days (as described in paragraph (c)(5) of this section), you may proceed with the transaction provided that you satisfy all other requirements of License Exception AGR, including the requirement to have a written contract prior to any shipment (unless a donation or commercial sample). (Note that the fact that you have been advised that no agency has objected to the transaction does not exempt you from other licensing requirements under the EAR, such as those based on knowledge of a prohibited end-use or end-user as referenced in general prohibition five (part 736 of the EAR) and set forth in part 744 of the EAR.)
+
+(5) *Status of pending AGR notification requests.* You must contact BIS's System for Tracking Export License Applications (STELA) (*https://snapr.bis.doc.gov/stela*) for status of your pending AGR notification or verify the status in BIS's Simplified Network Applications Processing Redesign (SNAP-R) System. STELA will provide the date of registration of the AGR notification. If no department or agency objection is raised within 11 business days, STELA will, on the twelfth business day following the date of registration, provide you with confirmation of that fact. You may not proceed with your shipment unless you confirm with either STELA or SNAP-R that no objection has been raised. If an objection is raised, STELA and SNAP-R will indicate that a license is required. The AGR notification will then be processed as a license application. In addition, BIS may provide notice of an objection by telephone, fax, courier service, or other means.
+
+(d) *Donations.* (1) Donations of agricultural commodities are eligible for export and reexport to Cuba under License Exception AGR, provided the transaction meets the requirements and procedures of this license exception (except the written contract requirement).
+
+(2) Donations of food items to non-governmental organizations (NGOs) and individuals in Cuba may also be eligible for License Exception GFT. See § 740.12 for eligibility requirements of gift parcels and humanitarian donations under License Exception GFT.
+
+[66 FR 36681, July 12, 2001, as amended at 73 FR 49329, Aug. 21, 2008; 75 FR 17054, Apr. 5, 2010; 75 FR 31681, June 4, 2010; 80 FR 56902, Sept. 21, 2015]

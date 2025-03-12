@@ -1,0 +1,5 @@
+##### § 2003.1 Scope of the part and applicability of other HUD regulations. #####
+
+(a) *General.* This part contains the regulations of the Office of Inspector General (“OIG”) implementing the Privacy Act of 1974 (5 U.S.C. 552a). The regulations inform the public that the Inspector General has the responsibility for carrying out the requirements of the Privacy Act and for issuing internal OIG orders and directives in connection with the Privacy Act. These regulations apply to all records that are contained in systems of records maintained by the OIG and that are retrieved by an individual's name or personal identifier.
+
+(b) *Applicability of part 16.* In addition to these regulations, the provisions of 24 CFR part 16 apply to the OIG, except that appendix A to part 16 is not applicable. The provisions of this part shall govern in the event of any conflict with the provisions of part 16.

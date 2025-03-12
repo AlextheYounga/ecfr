@@ -1,0 +1,3 @@
+##### § 8.19 Equal Access to Justice Act. #####
+
+Proceedings under the Service Contract Act and the Contract Work Hours and Safety Standards Act are not subject to the Equal Access to Justice Act (Pub. L. 96-481). Accordingly, in any proceeding conducted pursuant to the provisions of this part 8, the Board shall have no power or authority to award attorney fees and/or other litigation expenses pursuant to the Equal Access to Justice Act.

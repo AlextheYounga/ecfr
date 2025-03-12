@@ -1,0 +1,5 @@
+##### § 1919.79 Wire rope. #####
+
+(a) Wire rope and replacement wire rope shall be of the same size, same or better grade, and same construction as originally furnished by the equipment manufacturer or contemplated in the design, unless otherwise recommended by the equipment or the wire rope manufacturer due to actual working condition requirements. In the absence of specific requirements as noted, wire rope shall be of a size and construction suitable for the purpose, and a safety factor of 4 shall be adhered to, and verified by wire rope test certificate.
+
+(b) Wire rope in use on equipment previously constructed and prior to initial certification of said equipment shall not be required to be tested, but shall be subject to thorough examination at the time of initial certification of the equipment.

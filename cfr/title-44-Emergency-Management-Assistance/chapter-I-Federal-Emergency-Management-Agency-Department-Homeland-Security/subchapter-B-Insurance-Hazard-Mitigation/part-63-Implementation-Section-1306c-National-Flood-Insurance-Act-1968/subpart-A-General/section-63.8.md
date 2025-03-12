@@ -1,0 +1,5 @@
+##### § 63.8 Limitation on amount of benefits. #####
+
+(a) In section 1306(c)(3)(C) of the Act, the phrase *under the flood insurance contract issued pursuant to this title* means the value of the structure under section 1306(c)(3)(C) of the Act is limited to the amount of building coverage provided by the insured's policy.
+
+(b) Where the amount payable under section 1306(c)(1)(A)(ii) of the Act for the cost of demolition, together with the amount payable under section 1306(c)(1)(A) of the Act for the value of the structure under the demolition option, exceeds the amount of building coverage provided by the insured's policy, such amounts will be paid beyond the amount of that building coverage, even if this payment exceeds the limits of coverage otherwise authorized by section 1306(a) of the Act for the particular class of property.

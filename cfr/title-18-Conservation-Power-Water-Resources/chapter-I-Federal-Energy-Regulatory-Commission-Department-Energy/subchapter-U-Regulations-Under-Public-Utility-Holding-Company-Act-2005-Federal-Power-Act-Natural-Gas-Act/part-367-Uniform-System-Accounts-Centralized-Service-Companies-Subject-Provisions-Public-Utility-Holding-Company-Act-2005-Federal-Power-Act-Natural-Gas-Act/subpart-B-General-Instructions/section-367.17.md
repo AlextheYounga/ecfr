@@ -1,0 +1,7 @@
+##### § 367.17 Comprehensive inter-period income tax allocation. #####
+
+(a) Where there are timing differences between the periods in which transactions affect taxable income and the periods in which they enter into the determination of pretax accounting income, the income tax effects of such transactions are to be recognized in the periods in which the differences between book accounting income and taxable income arise and in the periods in which the differences reverse using the deferred tax method. In general, comprehensive inter-period tax allocation should be followed whenever transactions enter into the determination of pretax accounting income for the period even though some transactions may affect the determination of taxes payable in a different period, as further qualified in this section.
+
+(b) Once comprehensive inter-period tax allocation has been initiated, either in whole or in part, it must be practiced on a consistent basis and must not be changed or discontinued without prior Commission approval.
+
+(c) Tax effects deferred currently will be recorded as deferred debits or deferred credits in accounts 190, Accumulated deferred income taxes (§ 367.1900), 282, Accumulated deferred income taxes—Other property (§ 367.2820), and 283, Accumulated deferred income taxes—Other (§ 367.2830), as appropriate. The resulting amounts recorded in these accounts must be disposed of as prescribed in this system of accounts or as otherwise authorized by the Commission.

@@ -1,0 +1,29 @@
+##### § 303.6 Allocation and reallocation of exemptions among producers. #####
+
+(a) *Interim allocations.* As soon as practicable after January 1 of each year the Secretaries shall make an interim allocation to each producer equaling 70% of the number of watch units it has entered duty-free into the customs territory of the United States during the first eight months of the preceding calendar year, or any lesser amount requested in writing by the producer. The Secretaries may also issue a lesser amount if, in their judgment, the producer might otherwise receive an interim allocation in an amount greater than the producer's probable annual allocation. In calculating the interim allocations, the Director shall count only duty-free watches and watch movements verified by the Bureau of Customs and Border Protection, or verified by other means satisfctory to the Secretaries, as having been entered on or before August 31 of the preceding year. Interim allocations shall not be published.
+
+(b) *Annual allocations.* (1) By March 1 of each year the Secretaries shall make annual allocations to the producers in accordance with the allocation formula based on data supplied in their annual application (Form ITA-334P) and verified by the Secretaries.
+
+(2) The excess of a producer's duty-exemption earned under the allocation criteria over the amount formally requested by the producer shall be considered to have been relinquished voluntarily (see paragraph (f) below). A producer's request may be modified by written communication received by the Secretaries by February 28, or, at the discretion of the Secretaries, before the annual allocations are made. An allocation notice shall be published in the Federal Register.
+
+(c) *Supplemental allocations.* At the request of a producer, the Secretaries may supplement a producer's interim allocation if the Secretaries determine the producer's interim allocation will be used before the Secretaries can issue the annual allocation. Allocations to supplement a producer's annual allocation shall be made under the reallocation provisions prescribed below.
+
+(d) *Allocations to new entrants.* In making interim and annual allocations to producers selected the preceding year as new entrants, the Secretaries shall take into account that such producers will not have had a full year's operation as a basis for computation of its duty-exemption. The Secretaries may make an interim or annual allocation to a new entrant even if the firm did not operate during the preceding calendar year.
+
+(e) *Special allocations.* A producer may request a special allocation if unusual circumstances kept it from making duty-free shipments at a level comparable with its past record. In considering such requests, the Secretaries shall take into account the firm's proposed assembly operations; its record in contributing to the territorial economy; and its intentions and capacity to make meaningful contributions to the territory. They shall also first determine that the amount of the special allocation requested will not significantly affect the amounts allocated to other producers pursuant to § 303.6(b)(1).
+
+(f) *Reallocations.* Duty-exemptions may become available for reallocation as a result of cancellation or reduction for cause, voluntary relinquishment or nonplacement of duty-exemption set aside for new entrants. At the request of a producer, the Secretaries may reallocate such duty-exemptions among the remaining producers who can use additional quantities in a manner judged best for the economy of the territories. The Secretaries shall consider such factors as the wage and income tax contributions of the respective producers during the preceding year and the nature of the producer's present assembly operations. In addition, the Secretaries may consider other factors which, in their judgment, are relevant to determining that applications from new firms, in lieu of reallocations, should be considered for part or all of unused portions of the total duty exemptions. Such factors may include:
+
+(1) The ability of the established industry to use the duty-exemption;
+
+(2) Whether the duty-exemption is sufficient to support new entrant operations;
+
+(3) The impact upon the established industry if new entrants are selected, particularly with respect to the effect on local employment, tax contributions to the territorial government, and the ability of the established industry to maintain satisfactory production levels; and
+
+(4) Whether additional new entrants offer the best prospect for adding economic benefits to the territory.
+
+(g) Section 303.14 of this part contains the criteria and formulae used by the Secretaries in calculating each watch producer's annual watch duty-exemption allocation, and other special rules or provisions the Secretaries may periodically adopt to carry out their responsibilities in a timely manner while taking into account changing circumstances. References to duty-exemptions, unless otherwise indicated, are to the amount available for reallocation in the current calendar year. Specifications of or references to data or bases used in the calculation of current year allocations (e.g., economic contributions and shipments) are, unless indicated otherwise, those which were generated in the previous year.
+
+(h) The Secretaries may propose changes to § 303.14 at any time they consider it necessary to fulfill their responsibilities. Normally, such changes will be proposed towards the end of each calendar year. Interested parties shall be given an opportunity to submit written comments on proposed changes.
+
+[49 FR 17740, Apr. 25, 1984, as amended at 50 FR 43568, Oct. 28, 1985; 61 FR 55885, Oct. 30, 1996; 63 FR 5888, Feb. 5, 1998]

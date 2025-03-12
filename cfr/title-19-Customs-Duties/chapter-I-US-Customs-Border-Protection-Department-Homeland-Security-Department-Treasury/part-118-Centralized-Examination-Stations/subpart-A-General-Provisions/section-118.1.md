@@ -1,0 +1,5 @@
+##### § 118.1 Definition. #####
+
+A centralized examination station (CES) is a privately operated facility, not in the charge of a Customs officer, at which merchandise is made available to Customs officers for physical examination. A CES may be established in any port or any portion of a port, or any other area under the jurisdiction of a port director. To present outbound cargo for inspection at a CES at a port other than the shipment's designated port of exit, either proof of the shipper's consent to the inspection must be furnished or a complete set of transportation documents must accompany the shipment to evidence that exportation of the goods is imminent and that the goods are committed to export, thereby, making them subject to Customs examination.
+
+[T.D. 93-6, 58 FR 5604, Jan. 22, 1993, as amended by T.D. 98-29, 63 FR 16684, Apr. 6, 1998]

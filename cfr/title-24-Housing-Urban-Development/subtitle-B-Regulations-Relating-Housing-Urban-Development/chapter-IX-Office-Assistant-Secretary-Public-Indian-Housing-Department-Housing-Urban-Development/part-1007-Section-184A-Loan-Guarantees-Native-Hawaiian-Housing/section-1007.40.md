@@ -1,0 +1,3 @@
+##### § 1007.40 Environmental requirements. #####
+
+Before HUD issues a commitment to guarantee any loan or (if no commitment is issued) before guarantee of any loan, there must be compliance with environmental review procedures to the extent applicable under part 50 of this title. If the loan involves proposed or new construction, HUD will require compliance with procedures similar to those required by § 203.12(b)(2) of this title for FHA mortgage insurance.

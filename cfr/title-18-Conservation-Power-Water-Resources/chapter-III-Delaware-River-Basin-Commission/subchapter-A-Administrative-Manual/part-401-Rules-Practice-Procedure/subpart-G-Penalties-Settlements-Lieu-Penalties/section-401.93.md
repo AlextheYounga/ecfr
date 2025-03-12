@@ -1,0 +1,5 @@
+##### § 401.93 The record for decision-making. #####
+
+(a) *Written submission.* In addition to the information required by the Commission, any possible violator shall be entitled to submit in writing any other information that it desires to make available to the Commission before it shall act. The Executive Director may require documents to be certified or otherwise authenticated and statements to be verified. The Commission may also receive written submissions from any other persons as to whether a violation has occurred and the adverse consequences resulting from a violation of the Commission's Compact or its rules, regulations and orders.
+
+(b) *Presentation to the Commission.* At the date set in the Notice, the possible violator shall have the opportunity to supplement its written presentation before the Commission by any oral statement it wishes to present and shall be prepared to respond to any questions from the Commission or its staff or to the statements submitted by persons affected by the possible violation.

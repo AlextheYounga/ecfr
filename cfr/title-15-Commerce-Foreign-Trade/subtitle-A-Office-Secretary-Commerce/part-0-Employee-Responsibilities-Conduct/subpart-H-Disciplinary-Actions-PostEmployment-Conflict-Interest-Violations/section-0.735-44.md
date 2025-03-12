@@ -1,0 +1,3 @@
+##### § 0.735-44 Initiation of proceedings. #####
+
+If the Director determines, after an investigation by the Inspector General, that there is reasonable cause to believe that a former employee has violated post-employment statutes or regulations, the Director shall initiate administrative proceedings under this subpart by proposing sanctions against the former employee and by providing notice to the former employee as set forth in § 0.735-45.

@@ -1,0 +1,3 @@
+##### § 134.21 Special marking. #####
+
+This subpart includes only country of origin marking requirements and exceptions under section 304(b), Tariff Act of 1930, as amended (19 U.S.C. 1304(b)), for containers or holders. Special marking may be required by the Internal Revenue Service on alcoholic beverage bottles and other requirements may be imposed by reason of the nature of the contents by other Government agencies.

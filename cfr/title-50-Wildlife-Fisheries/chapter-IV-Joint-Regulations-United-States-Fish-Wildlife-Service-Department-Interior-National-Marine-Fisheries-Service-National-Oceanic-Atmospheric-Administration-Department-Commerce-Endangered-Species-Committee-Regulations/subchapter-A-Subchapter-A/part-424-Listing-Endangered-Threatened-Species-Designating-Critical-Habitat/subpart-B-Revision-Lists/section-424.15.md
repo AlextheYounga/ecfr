@@ -1,0 +1,7 @@
+##### § 424.15 Notices of review. #####
+
+(a) If the Secretary finds that one of the actions described in § 424.10 may be warranted, but that the available evidence is not sufficiently definitive to justify proposing the action at that time, a notice of review may be published in the Federal Register. The notice will describe the measure under consideration, briefly explain the reasons for considering the action, and solicit comments and additional information on the action under consideration.
+
+(b) The Secretary from time to time also may publish notices of review containing the names of species that are considered to be candidates for listing under the Act and indicating whether sufficient scientific or commercial information is then available to warrant proposing to list such species, the names of species no longer being considered for listing, or the names of listed species being considered for delisting or reclassification. However, none of the substantive or procedural provisions of the Act apply to a species that is designated as a candidate for listing.
+
+(c) Such notices of review will invite comment from all interested parties regarding the status of the species named. At the time of publication of such a notice, notification in writing will be sent to State agencies in any affected States, known affected Federal agencies, and, to the greatest extent practicable, through the Secretary of State, to the governments of any foreign countries in which the subject species normally occur.

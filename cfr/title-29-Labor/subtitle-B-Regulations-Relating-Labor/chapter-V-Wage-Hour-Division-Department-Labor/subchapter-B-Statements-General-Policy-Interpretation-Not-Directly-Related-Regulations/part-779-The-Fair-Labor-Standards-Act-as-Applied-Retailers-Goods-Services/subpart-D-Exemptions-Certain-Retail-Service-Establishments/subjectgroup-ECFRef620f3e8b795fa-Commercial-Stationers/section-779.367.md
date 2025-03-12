@@ -1,0 +1,17 @@
+##### § 779.367 Commercial stationers may qualify as exempt 13(a)(2) establishments. #####
+
+(a) A commercial stationer's establishment may qualify as an exempt retail or service establishment under section 13(a)(2) of the Act if it meets all the requirements of that exemption. Where the establishment meets these requirements all employees employed by the establishment will be exempt, except any employees who are engaged in the making or processing of goods, such as printing and engraving. The commercial stationer ordinarily has a store on the street level located in the shopping section of the community where other stores are located and many people pass by. He has store clerks who sell over the counter to the consuming public and may have outside salesmen who sell to offices. He makes very few, if any, sales to other dealers for resale. He keeps in stock and displays the various items sold over the counter and by outside salesmen. The number of items in stock typically ranges from 5,000 to 15,000. Primarily, items sold are stationery, pens, pencils, blotters, briefcases, calendars, clocks, greeting cards, thumbtacks, typewriter ribbons, carbon paper, paper clips, ink, commercial envelopes and typewriter paper, filing supplies and similar items. In addition he may also sell filing cabinets, office desks and chairs, other items of office furniture and supplies and equipment generally, as well as standard and portable typewriters and certain other small office machines.
+
+(b) In determining whether, under the 13(a)(2) exemption, 75 percent of the establishment's sales are recognized as retail sales, in the case of commercial stationery establishments which in general operate as described in § 779.367(a), the sales made which are of “Retailable” items and are not for resale will be recognized as retail if they meet the requirements for such classification as previously explained in this subpart. The following position is adopted for enforcement purposes: All sales other than for resale of stationery, office supplies and equipment, office furniture and office machinery commonly stocked by commercial stationers for sale to individual consumers as well as businesses, including typewriters, adding machines, small duplicating machines, checkwriters, and the like, will be considered to be retail except for the sales set out below:
+
+(1) Sales made on a competitive bid basis. This term covers sales made pursuant to an invitation to bid, particularly sales to Federal, State, and local governments; sales made in a like manner to commercial and industrial concerns and institutions are also included.
+
+(2) Sales made pursuant to a requirements contract or other contractual arrangement involving the sale of a large quantity of goods over a period of time with a substantially lower price structure for the individual deliveries than would prevail for the usual sales of the quantities delivered.
+
+(3) Sales made at quantity discount of 30 percent or more from the price of the ordinary unit of sale.
+
+(4) Sales of school supplies to municipalities, boards of education, or schools in the same manner as the sales of school supply distributors.
+
+(5) Sales of job printing and engraving other than (i) sales of social printing and engraving and (ii) sales of printing and engraving of business envelopes, letterheads, and calling cards.
+
+(6) Sales of specialized machinery and equipment.

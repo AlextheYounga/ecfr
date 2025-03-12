@@ -1,0 +1,9 @@
+##### § 50.1 Purpose, authority, and applicability. #####
+
+(a) This part implements the policies of the National Environmental Policy Act (NEPA) and other environmental requirements (as specified in § 50.4).
+
+(b) NEPA (42 U.S.C. 4321 *et seq.*), establishes national policy, goals and procedures for protecting, restoring and enhancing environmental quality. NEPA is implemented by Executive Order 11514 of March 5, 1970, (3 CFR, 1966-1970 Comp., p. 902) as amended by Executive Order 11991 of May 24, 1977, (3 CFR, 1977 Comp., p. 123) and by the Council on Environmental Quality (CEQ) Regulations, 40 CFR parts 1500-1508.
+
+(c) The regulations issued by CEQ at 40 CFR parts 1500-1508 establish the basic procedural requirements for compliance with NEPA. These procedures are to be followed by all Federal agencies and are incorporated by reference into this part. This part, therefore, provides supplemental instructions to reflect the particular nature of HUD programs, and is to be used in tandem with 40 CFR parts 1500-1508 and regulations that implement authorities cited at § 50.4.
+
+(d) These regulations apply to all HUD policy actions (as defined in § 50.16), and to all HUD project actions (see § 50.2(a)(2)). Also, they apply to projects and activities carried out by recipients subject to environmental policy and procedures of 24 CFR part 58, when the recipient that is regulated under 24 CFR part 58 claims the lack of legal capacity to assume the Secretary's environmental review responsibilities and the claim is approved by HUD or when HUD determines to conduct an environmental review itself in place of a nonrecipient responsible entity. For programs, activities or actions not specifically identified or when there are questions regarding the applicability of this part, the Assistant Secretary for Community Planning and Development shall be consulted.

@@ -1,0 +1,3 @@
+##### § 1641.4 Standards for investigations, hearings, determinations and other proceedings. #####
+
+In any OFCCP investigation, hearing, determination or other proceeding involving a complaint/charge that is dual filed under both section 503 and the ADA, OFCCP will utilize legal standards consistent with those applied under the ADA in determining whether an employer has engaged in an unlawful employment practice. EEOC and OFCCP will coordinate the arrangement of any necessary training regarding the substantive or procedural provisions of the ADA, and of EEOC's implementing regulations (29 CFR part 1630 and 29 CFR part 1601).

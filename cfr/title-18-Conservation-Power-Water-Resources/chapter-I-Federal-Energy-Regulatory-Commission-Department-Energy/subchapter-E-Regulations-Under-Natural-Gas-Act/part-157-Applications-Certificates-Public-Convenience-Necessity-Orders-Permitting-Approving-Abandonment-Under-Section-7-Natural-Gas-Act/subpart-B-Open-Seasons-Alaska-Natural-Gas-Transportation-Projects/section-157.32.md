@@ -1,0 +1,3 @@
+##### § 157.32 Applicability. #####
+
+These regulations shall apply to any application to the Commission for a certificate of public convenience and necessity or other authorization for an Alaska natural gas transportation project, whether filed pursuant to the Natural Gas Act, the Alaska Natural Gas Transportation Act of 1976, or the Alaska Natural Gas Pipeline Act, and to applications for expansion of such projects. Absent a Commission order to the contrary, these regulations are not applicable in the case of an expansion ordered by the Commission pursuant to section 105 of the Alaska Natural Gas Pipeline Act.

@@ -1,0 +1,3 @@
+##### § 212.02 When the Act applies. #####
+
+The Act applies to any adversary adjudication pending before the Commission at any time between October 1, 1981 and September 30, 1984. This includes proceedings begun before October 1, 1981 if final Commission action has not been taken before that date, and proceedings pending on September 30, 1984, regardless of when they were initiated or when final Commission action occurs.

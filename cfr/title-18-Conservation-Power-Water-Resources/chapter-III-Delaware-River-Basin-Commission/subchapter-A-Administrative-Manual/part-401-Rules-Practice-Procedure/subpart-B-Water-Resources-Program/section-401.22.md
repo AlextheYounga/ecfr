@@ -1,0 +1,3 @@
+##### § 401.22 Concept of the Program. #####
+
+The Water Resources Program, as defined and described in section 13.2 of the Compact, will be a reasonably detailed amplification of that part of the Comprehensive Plan which the Commission recommends for action within the ensuing six-year period. That part of the Program consisting of a presentation of the water resources needs of the basin will be revised only at such intervals as may be indicated to reflect new findings and conclusions, based upon the Commission's continuing planning programs.

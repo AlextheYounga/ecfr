@@ -1,0 +1,3 @@
+##### § 34.6 Schedule of appraisals. #####
+
+The Secretary shall make fair market value appraisals of areas administered by the Service within five years after October 17, 1978, beginning with areas established earliest. All areas for which payments were not authorized prior to fiscal year 1979 (*i.e.*; fish hatcheries, administrative sites, and research stations) shall be included in the areas appraised during the first fiscal year. Once appraised, areas shall be reappraised on a schedule of at least once every five years. Until areas are appraised, the fair market value for the purposes of this regulation shall be the adjusted cost as of September 30, 1978, except that fee lands added to such areas after that date shall be on the basis of fair market value.

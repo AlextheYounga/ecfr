@@ -1,0 +1,3 @@
+##### § 452.23 Frequency of elections. #####
+
+The Act requires that all national and international labor organizations (other than federations of such labor organizations) elect their officers not less often than every five years. Officers of intermediate bodies, such as general committees, system boards, joint boards, joint councils, conferences, and certain districts, district councils and similar organizations, must be elected at least every four years, and officers of local labor organizations not less often than every three years.

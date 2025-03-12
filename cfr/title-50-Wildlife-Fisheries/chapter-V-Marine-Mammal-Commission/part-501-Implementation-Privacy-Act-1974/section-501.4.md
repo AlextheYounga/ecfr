@@ -1,0 +1,9 @@
+##### § 501.4 Requests for access—times, places and requirements for identification of individuals. #####
+
+Requests for access to a system of records pertaining to any individual may be made by that individual by mail addressed to the Privacy Officer, or by submitting a written request in person at the Commission offices located at 1625 I Street, NW., Room 307, Washington, DC 20006, between the hours of 9 a.m. and 5 p.m. on any working day. Assistance in gaining access under this section, securing an amendment or correction under § 501.6, or preparing an appeal under §§ 501.5(d) and 501.8 shall be provided by the Privacy Officer on request directed to the Commission office. An individual appearing in person at the Commission offices will be granted immediate access to any records to which that individual is entitled under the Act upon satisfactory proof of identity by means of a document bearing the individual's photograph or signature. For requests made by mail, identification of the individual shall be adequate if established by means of submitting a certificate of a notary public, or equivalent officer empowered to administer oaths, substantially in accord with the following:
+
+City of \_\_\_\_\_\_ County of \_\_\_\_\_\_\_: ss (Name of individual) who affixed (his) (her) signature below in my presence, came before me, a (Title), in the aforesaid County and State, this \_\_\_\_\_\_ day of \_\_\_\_\_\_, 19\_\_, and established (his)(her) identity to my satisfaction.
+
+My Commission expires \_\_\_\_\_\_\_\_\_\_\_\_.
+
+The certificate shall not be required, however, for written requests pertaining to non-sensitive information or to information which would be required to be made available under the Freedom of Information Act. The Privacy Officer shall determine the adequacy of any proof of identity offered by an individual.[41 FR 5, Jan. 2, 1976]

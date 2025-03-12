@@ -1,0 +1,3 @@
+##### § 12.104f Temporary disposition of materials and articles. #####
+
+Pending a final determination as to whether any archaeological or ethnological material, or any article of cultural property, has been imported into the U.S. in violation of 19 U.S.C. 2606 or 19 U.S.C. 2607, the Secretary may permit such material or article to be retained at a museum or other cultural or scientific institution in the U.S. if he finds that sufficient safeguards will be taken by the museum or institution for the protection of such material or article; and sufficient bond is posted by the museum or institution to ensure its return to the Secretary.

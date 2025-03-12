@@ -1,0 +1,5 @@
+##### § 6.5 Discrimination prohibited—employment. #####
+
+(a) *General.* A Recipient may not, under any program or activity funded in whole or in part with Federal financial assistance, directly or through contractual agents or other arrangements including contracts and consultants, subject a person to discrimination in the terms and conditions of employment. Terms and conditions of employment include advertising, interviewing, selection, promotion, demotion, transfer, recruitment and advertising, layoff or termination, pay or other compensation, including benefits, and selection for training.
+
+(b) *Determination of compliance status.* The Assistant Secretary will follow the procedures set forth in this part and 29 CFR part 1691 and look to the substantive guidelines and policy of the Equal Employment Opportunity Commission when reviewing employment practices under Section 109.

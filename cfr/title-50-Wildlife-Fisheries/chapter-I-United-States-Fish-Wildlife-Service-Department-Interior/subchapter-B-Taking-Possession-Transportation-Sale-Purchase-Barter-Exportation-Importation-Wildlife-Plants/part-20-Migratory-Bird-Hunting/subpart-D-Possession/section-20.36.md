@@ -1,0 +1,3 @@
+##### § 20.36 Tagging requirement. #####
+
+No person shall put or leave any migratory game birds at any place (other than at his personal abode), or in the custody of another person for picking, cleaning, processing, shipping, transportation, or storage (including temporary storage), or for the purpose of having taxidermy services performed, unless such birds have a tag attached, signed by the hunter, stating his address, the total number and species of birds, and the date such birds were killed. Migratory game birds being transported in any vehicle as the personal baggage of the possessor shall not be considered as being in storage or temporary storage.

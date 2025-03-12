@@ -1,0 +1,5 @@
+##### § 780.115 Forest products. #####
+
+Trees grown in forests and the lumber derived therefrom are not “agricultural or horticultural commodities.” Christmas trees, whether wild or planted, are also not so considered. It follows that employment in the production, cultivation, growing, and harvesting of such trees or timber products is not sufficient to bring an employee within section 3(f) unless the operation is performed by a farmer or on a farm as an incident to or in conjunction with his or its farming operations. On the latter point, see §§ 780.160 through 780.164 which discuss the question of when forestry or lumbering operations are incident to or in conjunction with farming operations so as to constitute “agriculture.” For a discussion of the exemption in section 13(a)(13) of the Act for certain forestry and logging operations in which not more than eight employees are employed, see part 788 of this chapter.
+
+[74 FR 26014, May 29, 2009]

@@ -1,0 +1,7 @@
+##### § 600.150 Disposition of records. #####
+
+(a) Council records must be handled in accordance with NOAA records management office procedures. All records and documents created or received by Council employees while in active duty status belong to the Federal Government. When employees leave the Council, they may not take the original or file copies of records with them.
+
+(b) Each Council is required to maintain documents generally available to the public on its Internet site. Documents for posting must include: fishery management plans and their amendments for the fisheries for which the Council is responsible, drafts of fishery management plans and plan amendments under consideration, analysis of actions the Council has under review, minutes or official reports of past meetings of the Council and its committees, materials provided by the Council staff to Council members in preparation for meetings, and other Council documents of interest to the public. For documents too large to maintain on the Web site, not available electronically, or seldom requested, the Council must provide copies of the documents for viewing at the Council office during regular business hours or may provide the documents through the mail.
+
+[66 FR 57887, Nov. 19, 2001, as amended at 75 FR 59151, Sept. 27, 2010]

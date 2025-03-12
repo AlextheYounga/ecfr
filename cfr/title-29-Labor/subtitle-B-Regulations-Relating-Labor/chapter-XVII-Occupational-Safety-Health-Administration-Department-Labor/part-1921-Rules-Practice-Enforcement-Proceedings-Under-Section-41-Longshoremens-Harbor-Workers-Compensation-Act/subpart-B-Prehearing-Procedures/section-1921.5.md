@@ -1,0 +1,3 @@
+##### § 1921.5 Motions and requests. #####
+
+Motions or requests shall be filed with the Chief Hearing Examiner, except that those made during the course of the hearing shall be filed with the hearing examiner or shall be stated orally and made part of the transcript. Each motion or request shall state the particular order, ruling, or action desired, and the grounds therefor. The hearing examiner is authorized to rule upon all motions or requests filed or made prior to the filing of his report.

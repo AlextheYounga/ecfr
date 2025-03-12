@@ -1,0 +1,3 @@
+##### § 6.52 Approval of requests to amend records. #####
+
+If the system manager determines that amendment of a record is proper in accordance with the request to amend, he or she promptly shall make the necessary corrections to the record and shall send a copy of the corrected record to the individual. Where an accounting of disclosure has been maintained, the system manager shall advise all previous recipients of the record of the fact that a correction has been made and the substance of the correction. Where practicable, the system manager shall advise the Privacy Appeals Officer that a request to amend has been approved.

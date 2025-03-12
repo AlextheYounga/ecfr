@@ -1,0 +1,11 @@
+##### § 366.23 FERC Form No. 60, Annual reports of centralized service companies, and FERC-61, Narrative description of service company functions. #####
+
+(a) *General*—(1) *FERC Form No. 60.* Unless otherwise exempted or granted a waiver by Commission rule or order pursuant to §§ 366.3 and 366.4, every centralized service company (*see* § 367.2 of this chapter) in a holding company system, regardless of whether that service company is providing services to a public utility, a natural gas company, or both, must file an annual report, FERC Form No. 60, as provided in § 369.1 of this chapter. Every report must be submitted on the FERC Form No. 60 then in effect and must be prepared in accordance with the instructions incorporated in that form.
+
+(2) *FERC-61.* Unless otherwise exempted or granted a waiver by Commission rule or order pursuant to §§ 366.3 and 366.4, every service company in a holding company system, including a special-purpose company (*e.g.*, a fuel supply company or a construction company), that does not file a FERC Form No. 60 shall instead file with the Commission by May 1, 2007 and by May 1 each year thereafter, a narrative description, FERC-61, of the service company's functions during the prior calendar year. In complying with this section, a holding company may make a single filing on behalf of all such service company subsidiaries.
+
+(3) For good cause shown, the Commission may extend the time within which any such report or narrative description required to be filed pursuant to paragraphs (a)(1) or (2) of this section is to be filed or waive the requirements applicable to any such report or narrative description.
+
+(b) *Transition period.* Service companies in holding company systems exempted from the requirements of the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a *et seq.*) need not file an annual report, FERC Form No. 60, for calendar years 2005 through 2007, after which they must comply with the provisions of this section.
+
+[Order 667-A, 71 FR 28457, May 16, 2006, as amended by Order 691, 72 FR 5174, Feb. 5, 2007; Order 731, 74 FR 68529, Dec. 28, 2009]

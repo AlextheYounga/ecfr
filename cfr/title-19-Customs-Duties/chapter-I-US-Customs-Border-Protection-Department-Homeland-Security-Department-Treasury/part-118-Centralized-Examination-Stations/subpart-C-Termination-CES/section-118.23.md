@@ -1,0 +1,9 @@
+##### § 118.23 Appeal to the Assistant Commissioner; procedure; status of CES operations. #####
+
+(a) *Appeal to the Assistant Commissioner.* Appeal of a port director's decision under § 118.21(a) or (b) must be filed with the Assistant Commissioner, Office of Field Operations, within 10 calendar days of receipt of the written notice of the adverse action. The appeal shall be filed in duplicate and shall set forth the CES operator's or entity's responses to the grounds specified by the port director in his written notice letter for the adverse action initiated. The Assistant Commissioner, Office of Field Operations, or his designee, shall render a written decision to the CES operator or entity, stating the reasons for the decision, by letter mailed within 30 working days following receipt of the appeal, unless the period for decision is extended with due notification to the CES operator or entity.
+
+(b) *Status of CES operations during appeal.* During this appeal period, an immediate suspension of a CES operator's or entity's selection and written agreement pursuant to § 118.21(a) of this part shall remain in effect. A proposed revocation of a CES operator's or entity's selection and cancellation of the written agreement pursuant to § 118.21(b)(1) through (5) of this part shall not take effect unless the appeal process under this paragraph has been concluded with a decision adverse to the operator.
+
+(c) *Effect of suspension or revocation.* Once a suspension or revocation action takes effect, the CES operator must cease CES operations. However, when CES operations are suspended or revoked and cancelled by Customs, it is the CES operator's responsibility to ensure that merchandise already at the CES is properly consigned to another location for inspection, as directed by the importer and approved by the port director.
+
+[T.D. 96-57, 61 FR 39071, July 26, 1996]

@@ -1,0 +1,3 @@
+##### § 552.4 Babysitting services. #####
+
+As used in section 13(a)(15) of the Act, the term *babysitting services* shall mean the custodial care and protection, during any part of the 24-hour day, of infants or children in or about the private home in which the infants or young children reside. The term “babysitting services” does not include services relating to the care and protection of infants or children which are performed by trained personnel, such as registered, vocational, or practical nurses. While such trained personnel do not qualify as babysitters, this fact does not remove them from the category of a covered domestic service employee when employed in or about a private household.

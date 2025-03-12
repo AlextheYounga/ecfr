@@ -1,0 +1,7 @@
+##### § 520.406 What happens once I have submitted my request for authorization to pay messengers, learners, or apprentices subminimum wages? #####
+
+(a) All applications submitted for authorization to pay wages lower than those required by section 6(a) of the FLSA will be considered and acted upon (issued or denied) subject to the conditions specified in §§ 520.403 and 520.404 of this part.
+
+(b) If, in the case of messengers and/or learners, available information indicates that the requirements of this part are satisfied, the Administrator shall issue a special certificate which will be mailed to the employer. If a special certificate is denied, the employer shall be given written notice of the denial. If a messenger and/or learner certificate is denied, notice of such denial shall be without prejudice to the filing of any subsequent application.
+
+(c) If, in the case of apprentices, the apprenticeship agreement and other available information indicate that the requirements of this part are satisfied, the Administrator shall issue a special certificate. The special certificate, if issued, shall be mailed to the employer or the apprenticeship committee and a copy shall be mailed to the apprentice. If a special certificate is denied, the employer or the apprenticeship committee, the apprentice and the recognized apprenticeship agency shall be given written notice of the denial. The employer shall pay the apprentice the minimum wage applicable under section 6(a) of the FLSA from the date of receipt of notice of such denial.

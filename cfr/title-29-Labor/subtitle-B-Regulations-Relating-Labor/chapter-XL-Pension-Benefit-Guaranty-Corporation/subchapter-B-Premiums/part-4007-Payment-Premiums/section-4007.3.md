@@ -1,0 +1,7 @@
+##### § 4007.3 Filing requirement; method of filing. #####
+
+(a) *In general.* The estimation, determination, declaration, and payment of premiums must be made in accordance with the premium instructions on PBGC's Web site (*www.pbgc.gov*). Subject to the provisions of § 4007.13, the plan administrator of each covered plan is responsible for filing prescribed premium information and payments. Each required premium payment and related information, certified as provided in the premium instructions, must be filed by the applicable due date specified in this part in the manner and format prescribed in the instructions.
+
+(b) *Electronic filing.* Information must be filed electronically except to the extent that PBGC grants an exemption for good cause in appropriate circumstances. (The requirement to file electronically applies to all estimated and final flat-rate and variable-rate premium filings (including amended filings) but does not apply to information filed to comply with a PBGC request under (4007.10(c) (dealing with providing record information in connection with a premium compliance review).) Unless an exemption applies, filing on paper or in any other manner other than by a prescribed electronic filing method does not satisfy the requirement to file. Failure to file electronically as required is subject to penalty under ERISA section 4071.
+
+[71 FR 31081, June 1, 2006, as amended at 72 FR 71229, Dec. 17, 2007; 73 FR 15076, Mar. 21, 2008; 79 FR 13561, Mar. 11, 2014]

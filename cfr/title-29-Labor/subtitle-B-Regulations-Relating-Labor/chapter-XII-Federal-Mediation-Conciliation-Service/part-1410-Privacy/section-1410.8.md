@@ -1,0 +1,3 @@
+##### § 1410.8 Notation of dispute. #####
+
+After an individual has filed a statement of disagreement as described in § 1410.7(b), any disclosure of the contested records must contain a notation of the dispute. In addition, a copy of the individual's statement will be provided to the person or agency to whom the disputed record is disclosed. The Service may also, but it is not required to, provide a statement reflecting the agency's reasons for not making the requested amendments.

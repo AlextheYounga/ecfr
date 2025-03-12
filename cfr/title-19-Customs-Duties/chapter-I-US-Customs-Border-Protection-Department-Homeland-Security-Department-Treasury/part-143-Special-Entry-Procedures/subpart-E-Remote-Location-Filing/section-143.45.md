@@ -1,0 +1,3 @@
+##### § 143.45 Filing of additional entry information. #####
+
+When filing from a remote location, a RLF filer must electronically file all additional information required by CBP to be presented with the entry and entry summary information (including facsimile transmissions) that CBP can accept electronically. If CBP cannot accept additional information electronically, the RLF filer must file the additional information in a paper format at the CBP port of entry where the goods arrived.

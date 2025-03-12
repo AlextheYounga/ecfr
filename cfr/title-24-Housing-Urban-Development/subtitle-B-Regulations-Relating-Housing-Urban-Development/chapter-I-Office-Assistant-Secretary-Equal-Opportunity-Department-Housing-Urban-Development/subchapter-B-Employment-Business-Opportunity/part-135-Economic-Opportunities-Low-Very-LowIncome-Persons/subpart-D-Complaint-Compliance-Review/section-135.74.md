@@ -1,0 +1,15 @@
+##### § 135.74 Section 3 compliance review procedures. #####
+
+(a) *Compliance reviews by Assistant Secretary.* The Assistant Secretary shall periodically conduct section 3 compliance reviews of selected recipients and contractors to determine whether these recipients are in compliance with the regulations in this part.
+
+(b) *Form of compliance review.* A section 3 compliance review shall consist of a comprehensive analysis and evaluation of the recipient's or contractor's compliance with the requirements and obligations imposed by the regulations of this part, including an analysis of the extent to which section 3 residents have been hired and section 3 business concerns have been awarded contracts as a result of the methods undertaken by the recipient to achieve the employment, contracting and other economic objectives of section 3.
+
+(c) *Where compliance review reveals noncompliance with section 3 by recipient or contractor.* Where the section 3 compliance review reveals that a recipient or contractor has not complied with section 3, the Assistant Secretary shall notify the recipient or contractor of its specific deficiencies in compliance with the regulations of this part, and shall advise the recipient or contractor of the means by which these deficiencies may be corrected. HUD shall conduct a follow-up review with the recipient or contractor to ensure that action is being taken to correct the deficiencies.
+
+(d) *Continuing noncompliance by recipient or contractor.* A continuing failure or refusal by the recipient or contractor to comply with the regulations in this part may result in the application of sanctions specified in the contract through which HUD assistance is provided, or the application of sanctions specified in the regulations governing the HUD program under which HUD financial assistance is provided. HUD will notify the recipient of any continuing failure or refusal by the contractor to comply with the regulations in this part for possible action under any procurement contract between the recipient and the contractor. Where appropriate, debarment, suspension, and limited denial of participation may be applied to the recipient or the contractor, pursuant to HUD's regulations at 2 CFR part 2424.
+
+(e) *Conducting compliance review before the award of assistance.* Section 3 compliance reviews may be conducted before the award of contracts, and especially where the Assistant Secretary has reasonable grounds to believe that the recipient or contractor will be unable or unwilling to comply with the regulations in this part.
+
+(f) *Consideration of complaints during compliance review.* Complaints alleging noncompliance with section 3, as provided in § 135.76, may also be considered during any compliance review conducted to determine the recipient's conformance with regulations in this part.
+
+[59 FR 33880, June 30, 1994, as amended at 72 FR 73493, Dec. 27, 2007]

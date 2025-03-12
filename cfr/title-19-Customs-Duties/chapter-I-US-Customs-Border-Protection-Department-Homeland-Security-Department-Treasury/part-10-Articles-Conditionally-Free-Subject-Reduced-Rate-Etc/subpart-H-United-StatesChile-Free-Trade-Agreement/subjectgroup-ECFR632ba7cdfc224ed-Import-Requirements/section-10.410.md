@@ -1,0 +1,7 @@
+##### § 10.410 Filing of claim for preferential tariff treatment upon importation. #####
+
+(a) *Declaration.* In connection with a claim for preferential tariff treatment for an originating good under the US-CFTA, including an exemption from the merchandise processing fee, the U.S. importer must make a written declaration that the good qualifies for such treatment. The written declaration is made by including on the entry summary, or equivalent documentation, the symbol “CL” as a prefix to the subheading of the HTSUS under which each qualifying good is classified, or by the method specified for equivalent reporting via electronic interchange.
+
+(b) *Corrected declaration.* If, after making the declaration required under paragraph (a) of this section, the U.S. importer has reason to believe that the declaration or the certification or other information on which the declaration was based contains information that is not correct, the importer must, within 30 calendar days after the date of discovery of the error, make a corrected declaration and pay any duties that may be due. A corrected declaration will be effected by submission of a letter or other statement either in writing or via an authorized electronic data interchange system to the CBP office where the original declaration was filed specifying the correction (*see* §§ 10.482 and 10.483 of this subpart).
+
+[CBP Dec. 05-07, 70 FR 10873, Mar. 7, 2005, as amended by CBP Dec. 06-39, 71 FR 76131, Dec. 20, 2006]

@@ -1,0 +1,3 @@
+##### § 531.38 Amounts deducted for taxes. #####
+
+Taxes which are assessed against the employee and which are collected by the employer and forwarded to the appropriate governmental agency may be included as “wages” although they do not technically constitute “board, lodging, or other facilities” within the meaning of section 3(m). This principle is applicable to the employee's share of social security and State unemployment insurance taxes, as well as other Federal, State, or local taxes, levies, and assessments. No deduction may be made for any tax or share of a tax which the law requires to be borne by the employer.

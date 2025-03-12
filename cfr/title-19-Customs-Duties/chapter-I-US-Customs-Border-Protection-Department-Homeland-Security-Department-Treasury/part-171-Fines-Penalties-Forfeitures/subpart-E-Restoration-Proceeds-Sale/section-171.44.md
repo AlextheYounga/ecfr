@@ -1,0 +1,3 @@
+##### § 171.44 Forfeited property authorized for official use. #####
+
+If forfeited property which is the subject of a claim under section 613, Tariff Act of 1930, as amended (19 U.S.C. 1613) has been authorized for official use, retention or delivery will be regarded as the sale thereof for the purposes of section 613. The appropriation available to the receiving agency for the purchase, hire, operation, maintenance and repair of property of the kind so received is available for the granting of relief to the claimant and for the satisfaction of liens for freight, charges and contributions in general average that may have been filed.

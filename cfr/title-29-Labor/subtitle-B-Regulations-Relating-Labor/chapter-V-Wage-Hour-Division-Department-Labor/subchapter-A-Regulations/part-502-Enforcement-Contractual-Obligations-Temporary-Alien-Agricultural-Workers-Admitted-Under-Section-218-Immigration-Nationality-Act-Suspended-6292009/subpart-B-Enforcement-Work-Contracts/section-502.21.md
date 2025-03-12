@@ -1,0 +1,3 @@
+##### § 502.21 Failure to cooperate with investigations. #####
+
+No person shall refuse to cooperate with any employee of the Secretary who is exercising or attempting to exercise this investigative or enforcement authority. As stated in §§ 501.6 and 501.19 of this part, a civil money penalty may be assessed for each failure to cooperate with an investigation, and other appropriate relief may be sought. In addition, the WHD shall report each such occurrence to ETA, and ETA may debar the employer from future certification. The WHD may also recommend to ETA that an existing certification be revoked. The taking of any one action shall not bar the taking of any additional action.

@@ -1,0 +1,3 @@
+##### § 1690.309 Interpretation of the Order. #####
+
+Subject to the dispute resolution procedures set forth above and in accordance with the objectives set forth in 1-201 and the procedures in 1-303 of the Order, the EEOC shall interpret the meaning and intent of the Order. EEOC also will issue procedural changes under the Order, as appropriate, after advice and consultation with affected agencies as provided for in these procedures.

@@ -1,0 +1,5 @@
+##### § 10.17 Valuation of exempted components. #####
+
+The value of fabricated components to be subtracted from the full value of the assembled article is the cost of the components when last purchased, f.o.b. United States port of exportation or point of border crossing as set out in the invoice and entry papers, or, if no purchase was made, the value of the components at the time of their shipment for exportation, f.o.b. United States port of exportation or point of border crossing, as set out in the invoice and entry papers. However, if the appraising officer concludes that the cost or value of the fabricated components so ascertained does not represent a reasonable cost or value, then the value of the components shall be determined in accordance with section 402 or section 402a, Tariff Act of 1930, as amended (19 U.S.C. 1401a, 1402).
+
+[T.D. 75-230, 40 FR 43024, Sept. 18, 1975]

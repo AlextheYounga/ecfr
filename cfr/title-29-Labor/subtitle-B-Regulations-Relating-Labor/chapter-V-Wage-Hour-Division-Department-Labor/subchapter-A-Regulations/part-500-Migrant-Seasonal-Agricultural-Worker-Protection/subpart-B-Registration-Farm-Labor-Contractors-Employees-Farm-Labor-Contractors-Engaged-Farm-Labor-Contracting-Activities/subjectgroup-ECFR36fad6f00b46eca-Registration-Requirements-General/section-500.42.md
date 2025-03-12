@@ -1,0 +1,3 @@
+##### § 500.42 Certificate of Registration to be carried and exhibited. #####
+
+Each registered farm labor contractor and registered farm labor contractor employee shall carry at all times while engaging in farm labor contracting activities, a Certificate of Registration or a Farm Labor Contractor Employee Certificate as appropriate and, upon request, shall exhibit that certificate to representatives of the U.S. Department of Labor and State Employment Service Agencies and to all persons with whom he intends to deal as a farm labor contractor or farm labor contractor employee.

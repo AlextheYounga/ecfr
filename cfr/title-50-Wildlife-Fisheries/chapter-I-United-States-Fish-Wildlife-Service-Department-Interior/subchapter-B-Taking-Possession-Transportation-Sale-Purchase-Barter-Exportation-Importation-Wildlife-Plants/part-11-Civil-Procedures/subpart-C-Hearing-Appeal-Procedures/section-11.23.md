@@ -1,0 +1,5 @@
+##### § 11.23 Hearings. #####
+
+(a) The administrative law judge shall have all powers accorded by law and necessary to preside over the parties and the proceedings and to make decisions in accordance with 5 U.S.C. 554-557. Failure to appear at the time set for hearing shall be deemed a waiver of the right to a hearing and consent to the making of a decision on the record made at the hearing. Copies of the transcript may be inspected or copied.
+
+(b) The transcript of testimony, the exhibits, and all papers, documents, and requests filed in the proceedings, shall constitute the record for decision. The judge will render a written decision upon the record, which shall set forth his findings of fact and conclusions of law, and the reasons and basis therefor, and an assessment of a penalty, if any.

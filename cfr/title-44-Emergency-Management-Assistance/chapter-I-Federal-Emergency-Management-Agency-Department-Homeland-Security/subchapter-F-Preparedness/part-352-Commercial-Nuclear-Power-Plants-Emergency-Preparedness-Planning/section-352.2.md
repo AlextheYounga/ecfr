@@ -1,0 +1,7 @@
+##### § 352.2 Scope, purpose and applicability. #####
+
+(a) This part applies whenever State or local governments, either individually or together, decline or fail to prepare commercial nuclear power plant offsite radiological emergency preparedness plans that are sufficient to satisfy NRC licensing requirements or to participate adequately in the preparation, demonstration, testing, exercise, or use of such plans. In order to request the assistance provided for in this part, an affected nuclear power plant applicant or licensee shall certify in writing to FEMA that the above situation exists.
+
+(b) The purposes of this part are as follows: (1) To establish policies and procedures for the submission of a licensee certification for Federal assistance under Executive Order 12657; (2) set forth policies and procedures for FEMA's determination to accept, accept with modification, or reject the licensee certification; (3) establish a framework for providing Federal assistance to licensees; and (4) provide procedures for the review and evaluation of the adequacy of offsite radiological emergency planning and preparedness. Findings and determinations on offsite planning and preparedness made under this part are provided to the NRC for its use in the licensing process.
+
+(c) This part applies only in instances where Executive Order 12657 is used by a licensee and its provisions do not affect the validity of the emergency preparedness developed by the licensee independent of or prior to Executive Order 12657.

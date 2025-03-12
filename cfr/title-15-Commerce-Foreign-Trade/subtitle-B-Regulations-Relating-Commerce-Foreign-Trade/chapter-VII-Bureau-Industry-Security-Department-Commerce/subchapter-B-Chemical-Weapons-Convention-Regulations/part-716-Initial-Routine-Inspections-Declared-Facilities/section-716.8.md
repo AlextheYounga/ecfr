@@ -1,0 +1,3 @@
+##### § 716.8 On-site monitoring of Schedule 1 facilities. #####
+
+Declared Schedule 1 facilities are subject to verification by monitoring with on-site instruments as provided by the Convention. For facilities subject to the CWCR, however, such monitoring is not anticipated. The U.S. Government will ensure that any monitoring that may be requested by the OPCW is carried out pursuant to the Convention and U.S. law.

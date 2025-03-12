@@ -1,0 +1,7 @@
+##### § 34.42 Adoption of discrimination complaint processing procedures. #####
+
+(a) Each recipient shall adopt and publish procedures for processing complaints that allege a violation of the nondiscrimination and equal opportunity provisions of JTPA or this part. The procedures shall provide for the prompt and equitable resolution of such complaints. In the case of service providers, the procedures required by this paragraph shall be adopted and published on behalf of the service provider by the Governor, the SDA grant recipient or the Substate grantee, as provided in the State's Methods of Administration.
+
+(b) The recipient's Equal Opportunity Officer, or in the case of a small recipient, the person designated pursuant to § 34.22(c), shall be responsible for the adoption and publication of procedures pursuant to paragraph (a) of this section, and for ensuring that such procedures are followed.
+
+(c) A recipient who processes a complaint alleging a violation of the nondiscrimination and equal opportunity provisions of JTPA or this part shall provide the complainant with written notification of the resolution within 60 days of the filing of the complaint. Such notification shall include a statement of complainant's right to file a complaint with the Director.

@@ -1,0 +1,5 @@
+##### § 14.335 Departmental review. #####
+
+(a) Either the applicant or agency counsel may seek review of the initial decision on the fee application, or the Secretary (or his or her delegate, if any) may decide to review the decision on his or her own initiative, in accordance with the Department's review or appeals procedures applicable to the underlying proceeding. If neither the applicant nor agency counsel seeks review and the Secretary (or his or her delegate, if any) does not take review on his or her own initiative, the initial decision on the application shall become a final decision of the Department in the same manner as a decision in the underlying proceeding becomes final. Whether to review a decision is a matter within the discretion of the Secretary (or his or her delegate, if any). If review is taken, the Department will issue a final decision on the application or remand the application to the adjudicative officer for further proceedings.
+
+(b) Either party may seek reconsideration of the decision on the fee application in accordance with Rule 29, 24 CFR 20.10.

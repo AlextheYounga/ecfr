@@ -1,0 +1,15 @@
+##### § 191.23 Methods of claiming drawback. #####
+
+(a) *Used in.* Drawback may be paid based on the amount of the imported or substituted merchandise used in the manufacture of the exported article, where there is no waste or the waste is valueless or unrecoverable. This method must be used when multiple products also necessarily and concurrently result from the manufacturing process, and there is no valuable waste (see paragraph (c) of this section).
+
+(b) *Appearing in.* Drawback is allowable under this method based only on the amount of imported or substituted merchandise that appears in (is contained in) the exported articles. This method may not be used if there are multiple products also necessarily and concurrently resulting from the manufacturing process.
+
+(c) *Used in less valuable waste.* Drawback is allowable under this method based on the quantity of merchandise or drawback products used to manufacture the exported or destroyed article, reduced by an amount equal to the quantity of this merchandise that the value of the waste would replace. This method must be used when multiple products also necessarily and concurrently result from the manufacturing process, and there is valuable waste.
+
+(d) *Abstract or schedule.* A drawback claimant may use either the abstract or schedule method to show the quantity of material used or appearing in the exported or destroyed article. An abstract is the summary of records which shows the total quantity used in or appearing in all articles produced during the period covered by the abstract. A schedule shows the quantity of material used in producing, or appearing in, each unit of product. Manufacturers or producers submitting letters of notification of intent to operate under a general manufacturing drawback ruling (see § 191.7) and applicants for approval of specific manufacturing drawback rulings (see § 191.8) shall state whether the abstract or schedule method is used; if no such statement is made, drawback claims must be based upon the abstract method.
+
+(e) *Recordkeeping*—(1) *Valuable waste.* When the waste has a value and the drawback claim is not limited to the quantity of imported or substituted merchandise or drawback products appearing in the exported or destroyed articles claimed for drawback, the manufacturer or producer shall keep records to show the market value of the merchandise or drawback products used to manufacture or produce the exported or destroyed articles, as well as the market value of the resulting waste, under the used in less valuable waste method (see § 191.2(u) of this part).
+
+(2) *If claim for waste is waived.* If claim for waste is waived, only the “appearing in” basis may be used (see paragraph (b) of this section). Waste records need not be kept unless required to establish the quantity of imported duty-paid merchandise or drawback products appearing in the exported or destroyed articles claimed for drawback.
+
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15288, Mar. 31, 1998]

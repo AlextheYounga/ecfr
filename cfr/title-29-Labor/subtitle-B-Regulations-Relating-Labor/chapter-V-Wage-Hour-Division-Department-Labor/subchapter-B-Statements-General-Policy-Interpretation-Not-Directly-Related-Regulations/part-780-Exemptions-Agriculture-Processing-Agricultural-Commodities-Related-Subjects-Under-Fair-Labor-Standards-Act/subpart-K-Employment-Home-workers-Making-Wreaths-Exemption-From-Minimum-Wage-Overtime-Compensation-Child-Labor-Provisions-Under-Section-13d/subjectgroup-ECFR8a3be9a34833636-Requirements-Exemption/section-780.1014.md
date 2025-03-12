@@ -1,0 +1,3 @@
+##### § 780.1014 Harvesting. #####
+
+The homeworker is permitted to harvest evergreens and other forest products to be used in making the wreath. The word *harvesting* means the removal of evergreens and other forest products from their growing positions in the woods or forest, including transportation of the harvested products to the home of the homeworker and the performance of other duties necessary for such harvesting.

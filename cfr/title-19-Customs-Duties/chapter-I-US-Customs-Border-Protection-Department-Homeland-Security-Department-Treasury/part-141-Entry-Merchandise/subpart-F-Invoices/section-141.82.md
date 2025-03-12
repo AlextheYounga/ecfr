@@ -1,0 +1,11 @@
+##### § 141.82 Invoice for installment shipments arriving within a period of 10 days. #####
+
+(a) *One invoice sufficient.* Installments of a shipment covered by a single order or contract and shipped from one consignor to one consignee may be included in one invoice if the installments arrive at the port of entry by any means of transportation within a period of not to exceed 10 consecutive days.
+
+(b) *Preparation of invoice.* The invoice must be prepared in the manner provided for in this subpart and, when practicable, must show the quantities, values, and other invoice data with respect to each installment, the date of shipment of each installment, and the car number or other identification of the importing conveyance in which it was shipped.
+
+(c) *Pro forma invoice.* If the required invoice is not filed with the first entry of an installment series, a pro forma invoice must be filed with each entry made before the required invoice is produced, and in accordance with § 141.91 a bond must be given, or charge against a continuous bond made, for the production of the required invoice. Liquidated damages will accrue in the case of each entry if more than 6 months expire without the production of an invoice for such entry.
+
+(d) *Informal entry.* Any bona fide installment valued at not over $2,500 (except for articles valued in excess of $250 classified in Chapter 99, Subchapters III and IV. Harmonized Tariff Schedule of the United States) may be entered on an informal entry in accordance with subpart C of part 143 of this chapter, in which case such installment need not be considered in connection with invoice requirements for the balance of the series.
+
+[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 75-27, 40 FR 3449, Jan. 22, 1975; T.D. 78-53, 43 FR 6069, Feb. 13, 1978; T.D. 84-213, 49 FR 41184, Oct. 19, 1984; T.D. 85-123, 50 FR 29954, July 23, 1985; T.D. 89-1, 53 FR 51256, Dec. 21, 1988; T.D. 89-82, 54 FR 36026, Aug. 31, 1989; T.D. 93-66, 58 FR 44130, Aug. 19, 1993; T.D. 98-28, 63 FR 16417, Apr. 3, 1998; CBP Dec. 12-19, 77 FR 72720, Dec. 6, 2012]

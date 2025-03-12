@@ -1,0 +1,3 @@
+##### § 706.409 Opportunity for explanation of conflict or appearance of conflict. #####
+
+When a statement submitted under § 706.401 indicates a conflict or an appearance of conflict, between the interests of an employee and the performance of his services for the Government, the employee concerned shall be given an opportunity to explain the conflict or appearance of conflict before remedial action is initiated.

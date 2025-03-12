@@ -1,0 +1,3 @@
+##### § 1902.30 Purpose and scope. #####
+
+This subpart contains procedures and criteria under which the Assistant Secretary of Labor for Occupational Safety and Health (hereinafter referred to as the Assistant Secretary) under a delegation of authority from the Secretary of Labor (Secretary's Order 12-71, 36 FR 8754) will make his determination on whether to grant final approval to State plans in accordance with the provisions of section 18(e) of the Occupational Safety and Health Act of 1970 (29 U.S.C. 667) (hereinafter referred to as the Act).

@@ -1,0 +1,3 @@
+##### § 3c.1 Cross-reference to employee ethical conduct standards and financial disclosure regulations. #####
+
+Employees of the Federal Energy Regulatory Commission (Commission) are subject to the executive branch-wide financial disclosure regulations at 5 CFR part 2634, the Standards of Ethical Conduct for Employees of the Executive Branch at 5 CFR part 2635, the Commission regulations at 5 CFR part 3401 which supplement the Standards of Ethical Conduct, and the executive branch-wide employee responsibilities and conduct regulation at 5 CFR part 735.

@@ -1,0 +1,5 @@
+##### § 108.15 Pre-occupancy conference. #####
+
+Applicants shall submit a Notification of Intent to Begin Marketing to the monitoring office no later than 90 days prior to engaging in sales or rental marketing activities. Upon receipt of the Notification of Intent to Begin Marketing from the applicant, the monitoring office shall review any previously approved plan and may schedule a pre-occupancy conference. Such pre-occupancy conference shall be held prior to initiation of sales or rental marketing activities. At this conference, the previously approved AFHM plan shall be reviewed with the applicant to determine if the plan, and/or its proposed implementation, requires modification previous to initiation of marketing in order to achieve the objectives of the AFHM regulation and the plan.
+
+(Approved by the Office of Management and Budget under control number 2535-0027)[44 FR 47013, Aug. 9, 1979, as amended at 48 FR 20903, May 10, 1983; 64 FR 44095, Aug. 12, 1999]

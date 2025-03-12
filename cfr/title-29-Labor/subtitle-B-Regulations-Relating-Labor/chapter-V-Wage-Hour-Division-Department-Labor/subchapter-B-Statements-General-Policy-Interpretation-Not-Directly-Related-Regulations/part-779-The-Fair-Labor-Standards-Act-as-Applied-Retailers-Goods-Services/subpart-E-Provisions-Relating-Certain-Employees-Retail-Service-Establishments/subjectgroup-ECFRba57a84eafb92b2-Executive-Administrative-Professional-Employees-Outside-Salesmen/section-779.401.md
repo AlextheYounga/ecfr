@@ -1,0 +1,5 @@
+##### § 779.401 Statutory provision. #####
+
+Section 13(a)(1) of the Act provides that the provisions of sections 6 and 7 shall not apply with respect to:
+
+Any employee employed in a bona fide executive, administrative, or professional capacity (including any employee employed in the capacity of academic administrative personnel or teacher in elementary or secondary schools), or in the capacity of outside salesman (as such terms are defined and delimited from time to time by regulations of the Secretary, subject to the provisions of the Administrative Procedure Act, except that an employee of a retail or service establishment shall not be excluded from the definition of employee employed in a bona fide executive or administrative capacity because of the number of hours in his workweek which he devotes to activities not directly or closely related to the performance of executive or administrative activities, if less than 40 per centum of his hours worked in the workweek are devoted to such activities).

@@ -1,0 +1,7 @@
+##### § 142.16 Entry summary documentation. #####
+
+(a) *Entry summary not filed at time of entry.* When the entry documentation is filed in paper before the entry summary documentation, one copy of the entry document and the commercial invoice, or the documentation filed in place of a commercial invoice in the instances listed in § 141.83(d) of this chapter, will be returned to the importer after CBP authorizes release of the merchandise. Entry documentation may also be transmitted electronically to the CBP Automated Commercial Environment (ACE) or any other CBP-authorized electronic data interchange system. The importer may use these documents in preparing the entry summary, CBP Form 7501, or its electronic equivalent, and must file them with the entry summary documentation within the time period stated in § 142.12(b). The entry summary documentation also must include any other documentation required for a particular shipment unless a bond for missing documentation is on file, as provided in § 141.66 of this chapter.
+
+(b) *Entry summary filed at time of entry.* When the entry summary documentation is filed or transmitted electronically at time of entry, the documentation listed in § 142.3 must be filed at the same time, except that CBP Form 3461 or 7533, or their electronic equivalents, will not be required. The importer also must file any additional invoice required for a particular shipment.
+
+[CBP Dec. 15-14, 80 FR 61289, Oct. 13, 2015]

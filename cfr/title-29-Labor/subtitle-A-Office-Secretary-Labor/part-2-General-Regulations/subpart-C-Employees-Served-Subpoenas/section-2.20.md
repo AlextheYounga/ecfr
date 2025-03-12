@@ -1,0 +1,11 @@
+##### § 2.20 Purpose, scope and definitions. #####
+
+(a) This subpart sets forth the procedures to be followed whenever a subpoena, order, or other demand (hereinafter referred to as a *demand*) of a court or other authority, in connection with a proceeding to which the U.S. Department of Labor is not a party, is issued for the production or disclosure of (1) any material contained in the files of the Department, (2) any information relating to material contained in the files of the Department, or (3) any information or material acquired by any person while such person was an employee of the Department as a part of the performance of his official duties or because of his official status.
+
+(b) For purposes of this subpart, the term *employee of the Department* includes all officers and employees of the United States Department of Labor appointed by, or subject to the supervision, jurisdiction, or control of the Secretary of Labor.
+
+(c)(1) For purposes of this subpart, the term *appropriate Deputy Solicitor of Labor* means the Deputy Solicitor of Labor for National Operations when the person served with a demand is either employed by the National Office of the Labor Department, or who is a former Labor Department employee and is served with a demand in Washington, DC. In all other cases, the term *appropriate Deputy Solicitor of Labor* means the Deputy Solicitor of Labor for Regional Operations.
+
+(2) For purposes of this subpart, the term *appropriate Office of the Solicitor* means that Office of the Associate Solicitor of Labor (in Washington, DC) serving as counsel to the program to which the demand relates, where the person served with a demand is employed by the National Office of the Labor Department, or who is a former Labor Department employee and is served with a demand in Washington, DC. In all other cases, the term *appropriate Office of the Solicitor* means that Regional Solicitor's Office or Associate Regional Solicitor's Office serving the locality in which the employee or former employee is served with a demand.
+
+(d) This subpart is intended to provide instructions regarding the internal operations of the Department of Labor, and is not intended, and does not, and may not, be relied upon to create any right or benefit, substantive or procedural, enforceable at law by a party against the Department of Labor.

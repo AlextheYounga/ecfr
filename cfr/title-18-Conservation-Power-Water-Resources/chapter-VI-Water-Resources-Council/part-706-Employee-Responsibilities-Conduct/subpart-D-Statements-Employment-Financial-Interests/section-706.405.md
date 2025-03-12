@@ -1,0 +1,3 @@
+##### § 706.405 Supplementary statements. #####
+
+Changes in, or additions to, the information contained in an employee's statement of employment and financial interests shall be reported in a supplementary statement, in the format prescribed by the Division of Management, as of June 30 each year. If no changes or additions occur, a negative report is required. Notwithstanding the filing of the annual report required by this section, each employee shall at all times avoid acquiring a financial interest that could result, or taking an action that would result in a violation of the conflicts-of-interest provisions of section 18 U.S.C. 208, or subpart B of this part.

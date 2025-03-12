@@ -1,0 +1,5 @@
+##### § 4208.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of this part is to establish rules for reducing or waiving the liability of certain employers that have partially withdrawn from a multiemployer pension plan.
+
+(b) *Scope.* This part applies to multiemployer pension plans covered under title IV of ERISA and to employers that have partially withdrawn from such plans after September 25, 1980, and that have not, as of the date on which they satisfy the conditions for reducing or eliminating their partial withdrawal liability, fully satisfied their obligation to pay that partial withdrawal liability. This rule shall not negate reasonable actions taken by plans prior to the effective date of this part under plan rules implementing section 4208 of ERISA that were validly adopted pursuant to section 405 of the Multiemployer Act.

@@ -1,0 +1,23 @@
+##### § 801.30 Records to be preserved for 3 years. #####
+
+(a) The following records shall be kept for a minimum period of three years from the date the polygraph examination is conducted (or from the date the examination is requested if no examination is conducted):
+
+(1) Each employer who requests an employee to submit to a polygraph examination in connection with an ongoing investigation involving economic loss or injury shall retain a copy of the statement that sets forth the specific incident or activity under investigation and the basis for testing that particular employee, as required by section 7(d)(4) of the Act and described in § 801.12 (a)(4) of this part.
+
+(2) Each employer who administers a polygraph examination under the exemption provided by section 7(f) of the Act (described in § 801.13 of this part) in connection with an ongoing investigation of criminal or other misconduct involving, or potentially involving, loss or injury to the manufacture, distribution or dispensing of a controlled substance, shall retain records specifically identifying the loss or injury in question and the nature of the employee's access to the person or property that is the subject of the investigation.
+
+(3) Each employer who requests an employee or prospective employee to submit to a polygraph examination pursuant to any of the exemptions under section 7(d), (e) or (f) of the Act (described in §§ 801.12, 801.13, and 801.14) shall retain a copy of the written statement that sets forth the time and place of the examination and the examinee's right to consult with counsel, as required by section 8 (b)(2)(A) of the Act and described in § 801.23(a)(1) of this part.
+
+(4) Each employer shall identify in writing to the examiner persons to be examined pursuant to any of the exemptions under section 7 (d), (e) or (f) of the Act (described in §§ 801.12, 801.13, and 801.14 of this part), and shall retain a copy of such notice.
+
+(5) Each employer who retains an examiner to administer examinations pursuant to any of the exemptions under section 7 (d), (e) or (f) of the Act (described in §§ 801.12, 801.13, and 801.14 of this part) shall maintain copies of all opinions, reports or other records furnished to the employer by the examiner relating to such examinations.
+
+(6) Each examiner retained to administer examinations to persons identified by employers under paragraph (a)(4) of this section shall maintain all opinions, reports, charts, written questions, lists, and other records relating to polygraph tests of such persons. In addition, the examiner shall maintain records of the number of examinations conducted during each day in which one or more tests are conducted pursuant to the Act, and, with regard to tests administered to persons identified by their employer under paragraph (a)(4) of this section, the duration of each test period, as defined in § 801.24(b) of this part.
+
+(b) Each employer shall keep the records required by this part safe and accessible at the place or places of employment or at one or more established central recordkeeping offices where employment records are customarily maintained. If the records are maintained at a central recordkeeping office, other than in the place or places of employment, such records shall be made available within 72 hours following notice from the Secretary or an authorized representative.
+
+(c) Each examiner shall keep the records required by this part safe and accessible at the place or places of business or at one or more established central recordkeeping offices where examination records are customarily maintained. If the records are maintained at a central recordkeeping office, other than in the place or places of business, such records shall be made available within 72 hours following notice from the Secretary or an authorized representative.
+
+(d) All records shall be available for inspection and copying by the Secretary or an authorized representative. Information for which disclosure is restricted under section 9 of the Act and § 801.35 of this part shall be made available to the Secretary or the Secretary's representative where the examinee has designated the Secretary, in writing, to receive such information, or by order of a court of competent jurisdiction.
+
+(Approved by the Office of Management and Budget under control number 1215-0170)

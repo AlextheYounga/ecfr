@@ -1,0 +1,3 @@
+##### § 452.72 Period of inspection. #####
+
+The Act specifies the maximum period during which the right of inspection of membership lists is to be granted. The opportunity to inspect the lists must be granted once during the 30-day period prior to the casting of ballots in the election. Thus, where a mail ballot system is employed under which ballots are returnable as soon as received by members, the right to inspect must be accorded within the 30-day period prior to the mailing of the ballots to members. It would be an unreasonable restriction to permit inspection of lists only after the ballots have been mailed or the balloting has commenced.

@@ -1,0 +1,5 @@
+##### § 405.4 Terminal report. #####
+
+(a) Every employer required to file a report under the provisions of this part, who during its fiscal year loses its identity as a reporting employer through merger, consolidation, dissolution, or otherwise, shall, within 30 days of the effective date thereof, file a terminal employer report, and one copy, with the Office of Labor-Management Standards on Form LM-10 signed by the president and treasurer or corresponding principal officers of such employer immediately prior to the time of the employer's loss of reporting identity, together with a statement of the effective date of such termination or loss of reporting identity, and if the latter, the name and mailing address of the employer entity into which it has been merged, consolidated or otherwise absorbed.
+
+(b) For purposes of the report required by paragraph (a) of this section, the period covered thereby shall be the portion of the employer's fiscal year ending on the effective date of the employer's termination or loss of reporting identity.

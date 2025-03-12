@@ -1,0 +1,5 @@
+##### § 81.43 Reports; underwriting and appraisal guideline review. #####
+
+(a) *Reports.* Each GSE, in the AHAR required under § 81.63, shall assess underwriting standards, business practices, repurchase requirements, pricing, fees, and procedures that affect the purchase of mortgages for low- and moderate-income families, or that may yield disparate results based on the race, color, religion, sex, handicap, familial status, age, or national origin of the borrower, including revisions thereto to promote affordable housing or fair lending.
+
+(b) *Review of Underwriting and Appraisal Guidelines.* The Secretary shall periodically review and comment on the underwriting and appraisal guidelines of each enterprise to ensure that such guidelines are consistent with the Fair Housing Act and 12 U.S.C. 4545.

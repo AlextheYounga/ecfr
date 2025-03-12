@@ -1,0 +1,3 @@
+##### § 367.9070 Account 907, Supervision. #####
+
+This account must include the cost of labor and expenses incurred in the general direction and supervision of customer service activities, the object of which is to encourage safe, efficient and economical use of the associate utility company's service. Direct supervision of a specific activity within customer service and informational expense classification must be charged to the account wherein the costs of such activity are included (*See* Operating Expense Instructions in § 367.80).

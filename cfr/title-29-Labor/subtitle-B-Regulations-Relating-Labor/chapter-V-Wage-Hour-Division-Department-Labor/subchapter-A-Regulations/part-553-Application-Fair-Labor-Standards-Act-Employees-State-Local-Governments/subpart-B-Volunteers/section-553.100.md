@@ -1,0 +1,3 @@
+##### § 553.100 General. #####
+
+Section 3(e) of the Fair Labor Standards Act, as amended in 1985, provides that individuals performing volunteer services for units of State and local governments will not be regarded as “employees” under the statute. The purpose of this subpart is to define the circumstances under which individuals may perform hours of volunteer service for units of State and local governments without being considered to be their employees during such hours for purposes of the FLSA.

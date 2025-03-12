@@ -1,0 +1,9 @@
+##### § 367.50 Service company property to be recorded at cost. #####
+
+(a) All amounts included in the accounts for service company property must be stated at the cost incurred by the service company, except for property acquired by lease which qualifies as capital lease property under General Instructions in § 367.18, Criteria for classifying leases, and is recorded in Account 101.1, Property under capital leases (§ 367.1011).
+
+(b) When the consideration given for property is other than cash, the value of the consideration must be determined on a cash basis (*See, however,* Definitions § 367.1(a)(11)). In the entry recording the transaction, the actual consideration must be described with sufficient particularity to identify it. The service company must be prepared to furnish the Commission the particulars of its determination of the cash value of the consideration, if other than cash.
+
+(c) When property is purchased under a plan involving deferred payments, no charge must be made to the service company property accounts for interest, insurance, or other expenditures occasioned solely by such form of payment.
+
+(d) The service company property accounts must not include the cost or other value of service company property contributed to the company. Contributions in the form of money or its equivalent toward the construction of property must be credited to accounts charged with the cost of such construction. Property constructed from contributions of cash or its equivalent must be shown as a reduction to gross property constructed when assembling cost data for posting to property ledgers of accounts. The accumulated gross costs of property must be recorded as a debit in the plant ledger of accounts along with the related amount of contributions concurrently recorded as a credit.

@@ -1,0 +1,3 @@
+##### § 401.90 Appeals from final Commission action; Time for appeals. #####
+
+Any party participating in a hearing conducted pursuant to the provisions of this subpart may appeal any final Commission action. To be timely, such an appeal must be filed with an appropriate federal court, as provided in Article 15.1(p) of the Commission's Compact, within forty-five (45) days of final Commission action.

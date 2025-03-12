@@ -1,0 +1,3 @@
+##### § 18.703 Bases of opinion testimony by experts. #####
+
+The facts or data in the particular case upon which an expert bases an opinion or inference may be those perceived by or made known to the expert at or before the hearing. If of a type reasonably relied upon by experts in the particular field in forming opinions or inferences upon the subject, the facts or data need not be admissible in evidence.

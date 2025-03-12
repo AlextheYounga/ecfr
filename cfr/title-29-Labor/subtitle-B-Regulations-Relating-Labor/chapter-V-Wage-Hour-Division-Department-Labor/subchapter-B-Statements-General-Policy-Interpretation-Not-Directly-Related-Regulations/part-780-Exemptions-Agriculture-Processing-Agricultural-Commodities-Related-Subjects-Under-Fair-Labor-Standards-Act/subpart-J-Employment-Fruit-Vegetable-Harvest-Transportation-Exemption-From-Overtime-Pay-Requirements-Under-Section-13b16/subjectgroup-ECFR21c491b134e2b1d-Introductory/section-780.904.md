@@ -1,0 +1,3 @@
+##### § 780.904 What determines the exemption. #####
+
+The application of the exemption provided by section 13(b)(16) depends on the nature of the employee's work and not on the character of the employer's business. An employee is not exempt in any workweek unless his employment in that workweek meets all the requirements for exemption. To determine whether an employee is exempt an examination should be made of the duties which that employee performs. Some employees of the employer may be exempt and others may not.

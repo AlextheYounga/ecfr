@@ -1,0 +1,45 @@
+##### § 2201.4 General policy and definitions. #####
+
+(a) *Non-exempt records available to public.* Except for records and information exempted from disclosure by 5 U.S.C. 552(b) or published in the Federal Register under 5 U.S.C. 552(a)(1), all records of the Commission or in its custody are available to any person who requests them in accordance with § 2201.5. Records include any information that would be a record subject to the requirements of 5 U.S.C. 552 when maintained by the Commission in any format, including electronic format. In response to FOIA requests, the Commission will search for records manually or by automated means, except when an automated search would significantly interfere with the operation of the Commission's automated information system.
+
+(b) *Record availability at the OSHRC e-FOIA Reading Room.* The records of Commission activities are publicly available for inspection and copying, and may be accessed electronically on the Commission's Web site at *http://www.oshrc.gov/foia/foia\_reading\_room.html.* These records include:
+
+(1) Final decisions, including concurring and dissenting opinions, remand orders, as well as Administrative Law Judge decisions pending OSHRC review, briefing notices, and other significant orders;
+
+(2) OSHRC Rules of Procedure and Guides to those procedures;
+
+(3) Agency policy statements and interpretations adopted by OSHRC and not published in the Federal Register, if any;
+
+(4) Administrative staff manuals that affect a member of the public, if any;
+
+(5) Copies of records that have been released to a person under the FOIA that, because of the subject matter, the Commission determines have become or are likely to become the subject of subsequent requests for substantially the same records, or that have been requested three or more times, as well as records the Commission determines absent a FOIA request could be of significant public interest; and
+
+(6) A general index of records referred to under paragraph (b)(5) of this section.
+
+(c) *Record availability onsite at OSHRC National Office.* Any member of the public may, upon request, access OSHRC's e-FOIA Reading Room via a computer terminal at the OSHRC National Office, located at 1120 20th St. NW., 9th Floor, Washington, DC 20036-3457. Such a request must be made in writing to the FOIA Requester Service Center, and indicate a preferred date and time for the requested access. OSHRC reserves the right to arrange a different date and time with the requester, if necessary.
+
+(d) *Definitions.* For purposes of this part:
+
+*Commercial use request* means a request from or on behalf of a person who seeks information for a use or purpose that furthers his or her commercial, trade, or profit interests, which can include furthering those interests through litigation. The FOIA Disclosure Officer shall determine, whenever reasonably possible, the use to which a requester will put the requested records. When it appears that the requester will put the records to a commercial use, either because of the nature of the request itself or because the FOIA Disclosure Officer has reasonable cause to doubt a requester's stated use, the FOIA Disclosure Officer shall provide the requester a reasonable opportunity to submit further clarification.
+
+*Direct costs* means those expenses that the Commission actually incurs in searching for and duplicating (and, in the case of commercial use requests, reviewing) records to respond to a FOIA request. Direct costs include, for example, the salary of the employee performing the work (the basic rate of pay for the employee, plus 16 percent of that rate to cover benefits) and the cost of operating duplication machinery. Not included in direct costs are overhead expenses such as the costs of space and heating or lighting of the facility in which the records are kept.
+
+*Duplication* means the making of a copy of a record, or of the information contained in it, necessary to respond to a FOIA request. Copies can take the form of paper, microform, audiovisual materials, or electronic records (for example, magnetic tape or disk), among others. The FOIA Disclosure Officer shall honor a requester's specified preference of form or format of disclosure if the record is readily reproducible with reasonable efforts in the requested form or format.
+
+*Educational institution* means a preschool, a public or private elementary or secondary school, an institution of undergraduate higher education, an institution of graduate higher education, an institution of professional education, or an institution of vocational education, that operates a program of scholarly research. To be in this category, a requester must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought to further scholarly research.
+
+*Exceptional circumstances* does not include a delay that results from a predictable agency workload of requests under this section, unless the agency demonstrates reasonable progress in reducing its backlog of pending requests.
+
+*Noncommercial scientific institution* means an institution that is not operated on a “commercial” basis, as that term is defined in this paragraph, and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. To be in this category, a requester must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are not sought for a commercial use but are sought to further scientific research.
+
+*Record* means any information that would be an OSHRC record subject to the requirements of the FOIA when maintained by OSHRC in any format, including an electronic format, and any such OSHRC record that is maintained for OSHRC by an entity under Government contract, for the purposes of records management.
+
+*Representative of the news media, or news media requester* is any person or entity that gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into a distinct work, and distributes that work to an audience. For purposes of this definition, the term “news” means information that is about current events or that would be of current interest to the public. Examples of news media entities include television or radio stations broadcasting to the public at large and publishers of periodicals (but only in those instances where they can qualify as disseminators of “news”) who make their products available for purchase or subscription by, or free distribution to, the general public. These examples are not all-inclusive. Moreover, as methods of news delivery evolve (for example the adoption of the electronic dissemination of newspapers through telecommunications services), such alternative media shall be considered to be news-media entities. For “freelance” journalists to be regarded as working for a news organization, they must demonstrate a solid basis for expecting publication through that organization. A publication contract would be the clearest proof, but OSHRC shall also look to the past publication record of a requester in making this determination. To be in this category, a requester must not be seeking the requested records for a commercial use. However, a request for records supporting the news-dissemination function of the requester shall not be considered to be for a commercial use.
+
+*Review* means the examination of a record located in response to a request in order to determine whether any portion of it is exempt from disclosure. It also includes processing any record for disclosure—for example, doing all that is necessary to redact it and prepare it for disclosure. Review costs are recoverable even if a record ultimately is not disclosed. Review time does not include time spent resolving general legal or policy issues regarding the application of exemptions.
+
+*Search* means the process of looking for and retrieving records or information responsive to a request. It includes page-by-page or line-by-line identification of information within records and also includes reasonable efforts to locate and retrieve information from records maintained in electronic form or format. The FOIA Disclosure Officer shall ensure that searches are done in the most efficient and least expensive manner reasonably possible. For example, the FOIA Disclosure Officer shall not search line-by-line where duplicating an entire document would be quicker and less expensive.
+
+*Working day* means a regular Federal working day. It does not include Saturdays, Sundays, or Federal legal public holidays.
+
+[71 FR 56350, Sept. 27, 2006, as amended at 75 FR 41371, July 16, 2010; 81 FR 95037, Dec. 27, 2016]

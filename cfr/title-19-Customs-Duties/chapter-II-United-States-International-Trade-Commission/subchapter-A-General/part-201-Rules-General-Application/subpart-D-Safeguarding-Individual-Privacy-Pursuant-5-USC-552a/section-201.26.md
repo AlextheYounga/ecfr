@@ -1,0 +1,9 @@
+##### § 201.26 Disclosure of requested information to individuals. #####
+
+(a) Once the Privacy Act Officer has made a determination to grant a request for access to individual records, in whole or in part, the Privacy Act Officer shall inform the requesting individual in writing and permit the individual to review the pertinent records and to have a copy made of all or any portion of them. Where redactions due to exemptions pursuant to § 201.32 would render such records or portions thereof incomprehensible, the Privacy Act Officer shall furnish an abstract in addition to an actual copy.
+
+(b) An individual has the right to have a person of his or her own choosing accompany him or her to review his or her records. The Privacy Act Officer shall permit a person of the individual requester's choosing to accompany the individual during inspection.
+
+(c) When the individual requests the Privacy Act Officer to permit a person of the individual's choosing to accompany him or her during the inspection of his or her records, the Privacy Act Officer shall require the individual requester to furnish a written statement authorizing discussion of the records in the accompanying person's presence.
+
+(d) The Privacy Act Officer shall take all necessary steps to insure that individual privacy is protected while the individual requester is inspecting his or her records or while those records are being discussed. Only the Privacy Act Officer shall accompany the individual as representative of the Commission during the inspection of the individual's records. The Privacy Act Officer shall be authorized to discuss the pertinent records with the individual.

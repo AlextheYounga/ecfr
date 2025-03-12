@@ -1,0 +1,3 @@
+##### § 270.20 Payment of assessments. #####
+
+Persons subject to an assessment would be required to pay the assessment on or before the date due, unless they have demanded a refund or filed a petition of objection with NMFS under § 270.21. However, persons who have demanded a refund under § 270.22 or filed a petition of objection under § 270.21 may submit proof of these actions in leu of payment. In the case of a petition of objection, NMFs will inform the Council and the petitioner of its finding at which time petitioner must pay the revised assessment if applicable.

@@ -1,0 +1,3 @@
+##### § 26.8 Standards of practice. #####
+
+Attorneys shall conform to the standards of professional and ethical conduct required of practitioners in the courts of the United States and by the bars of which the attorneys are members. Any attorney may be prohibited by the hearing officer from representing a party if the attorney is not qualified under § 26.7 or if such action is necessary to maintain order in or the integrity of the pending proceeding.

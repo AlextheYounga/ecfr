@@ -1,0 +1,3 @@
+##### § 35.98 Impact on State and local requirements. #####
+
+Nothing in this subpart shall relieve a seller, lessor, or agent from any responsibility for compliance with State or local laws, ordinances, codes, or regulations governing notice or disclosure of known lead-based paint and/or lead-based paint hazards. Neither HUD nor EPA assumes any responsibility for ensuring compliance with such State or local requirements.

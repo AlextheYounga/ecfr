@@ -1,0 +1,3 @@
+##### § 11.1 General collection standards. #####
+
+The general standards and procedures governing the collection, compromise, termination and referral to the Department of Justice of claims for money and property that are prescribed in the regulations issued jointly by the Government Accountability Office and the Department of Justice pursuant to the Federal Claims Collection Act of 1966 (4 CFR part 101 *et seq.*), apply to the administrative claim collection activities of the Federal Emergency Management Agency (FEMA).

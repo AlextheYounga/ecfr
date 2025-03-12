@@ -1,0 +1,3 @@
+##### § 716.7 Samples. #####
+
+The owner, operator, occupant or agent in charge of a facility must provide a sample as provided for in the Convention and the Act and consistent with requirements set forth by the Director of the United States National Authority in 22 CFR part 103. Analysis will be restricted to verifying the absence of undeclared scheduled chemicals, unless otherwise agreed after consultation with the facility representative.

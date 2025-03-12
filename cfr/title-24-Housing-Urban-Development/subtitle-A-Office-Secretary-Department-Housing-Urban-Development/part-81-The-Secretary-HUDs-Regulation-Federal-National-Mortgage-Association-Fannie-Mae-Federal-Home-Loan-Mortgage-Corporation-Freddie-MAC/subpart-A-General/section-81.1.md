@@ -1,0 +1,5 @@
+##### § 81.1 Scope of part. #####
+
+(a) *Authority.* The Secretary has general regulatory power respecting the Federal National Mortgage Association (“Fannie Mae”) and the Federal Home Loan Mortgage Corporation (“Freddie Mac”) (referred to collectively as Government-sponsored enterprises (“GSEs”)) and is required to make such rules and regulations as are necessary and proper to ensure that the provisions of the Federal Housing Enterprises Financial Safety and Soundness Act of 1992 (“FHEFSSA”), codified generally at 12 U.S.C. 4501-4641; the Fannie Mae Charter Act, 12 U.S.C. 1716-1723h; and the Freddie Mac Act, 12 U.S.C. 1451-59, are accomplished.
+
+(b) *Relation between this part and the authorities of OFHEO.* The Director of the Office of Federal Housing Enterprise Oversight (“OFHEO”) will issue separate regulations implementing the Director's authority respecting the GSEs. In this part, OFHEO and the Director are only referenced when the Director's responsibilities are connected with the Secretary's responsibilities.

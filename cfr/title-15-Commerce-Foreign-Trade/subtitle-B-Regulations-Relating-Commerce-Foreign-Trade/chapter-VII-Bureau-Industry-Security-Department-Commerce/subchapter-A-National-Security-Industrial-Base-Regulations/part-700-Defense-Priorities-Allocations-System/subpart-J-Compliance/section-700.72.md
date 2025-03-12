@@ -1,0 +1,7 @@
+##### § 700.72 Compulsory process. #####
+
+(a) If a person refuses to permit a duly authorized representative of the Department of Commerce to have access to any premises or source of information necessary to the administration or enforcement of the Defense Production Act or this part, the Department of Commerce may seek compulsory process. Compulsory process means the institution of appropriate legal action, including *ex parte* application for an inspection warrant or its equivalent, in any forum of appropriate jurisdiction.
+
+(b) Compulsory process may be sought in advance of an audit, investigation, or other inquiry, if, in the judgment of the Director of the Office of Strategic Industries and Economic Security, U.S. Department of Commerce, in consultation with the Chief Counsel for Industry and Security, U.S. Department of Commerce, there is reason to believe that a person will refuse to permit an audit, investigation, or other inquiry, or that other circumstances exist which make such process desirable or necessary.
+
+[49 FR 30414, July 30, 1984. Redesignated at 54 FR 601, Jan. 9, 1989, as amended at 63 FR 31924, June 11, 1998; 67 FR 45633, July 10, 2002; 71 FR 39528, July 13, 2006; 79 FR 47570, Aug. 14, 2014]

@@ -1,0 +1,7 @@
+##### § 10.890 Goods re-entered after repair or alteration in Oman. #####
+
+(a) *General.* This section sets forth the rules that apply for purposes of obtaining duty-free treatment on goods returned after repair or alteration in Oman as provided for in subheadings 9802.00.40 and 9802.00.50, HTSUS. Goods returned after having been repaired or altered in Oman, whether or not pursuant to a warranty, are eligible for duty-free treatment, provided that the requirements of this section are met. For purposes of this section, “repairs or alterations” means restoration, renovation, cleaning, re-sterilizing, or other treatment which does not destroy the essential characteristics of, or create a new or commercially different good from, the good exported from the United States.
+
+(b) *Goods not eligible for treatment.* The duty-free treatment referred to in paragraph (a) of this section will not apply to goods which, in their condition as exported from the United States to Oman, are incomplete for their intended use and for which the processing operation performed in Oman constitutes an operation that is performed as a matter of course in the preparation or manufacture of finished goods.
+
+(c) *Documentation.* The provisions of paragraphs (a), (b), and (c) of § 10.8 of this part, relating to the documentary requirements for goods entered under subheading 9802.00.40 or 9802.00.50, HTSUS, will apply in connection with the entry of goods which are returned from Oman after having been exported for repairs or alterations and which are claimed to be duty free.

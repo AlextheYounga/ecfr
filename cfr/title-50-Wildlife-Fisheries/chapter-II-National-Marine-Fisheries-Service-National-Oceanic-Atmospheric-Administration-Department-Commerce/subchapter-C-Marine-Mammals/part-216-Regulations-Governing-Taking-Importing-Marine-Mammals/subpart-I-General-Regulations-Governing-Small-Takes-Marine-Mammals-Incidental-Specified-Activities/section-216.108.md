@@ -1,0 +1,23 @@
+##### § 216.108 Requirements for monitoring and reporting under incidental harassment authorizations for Arctic waters. #####
+
+(a) Holders of an incidental harassment authorization in Arctic waters and their employees, agents, and designees must cooperate with the National Marine Fisheries Service and other designated Federal, state, or local agencies to monitor the impacts of their activity on marine mammals. Unless stated otherwise within an incidental harassment authorization, the holder of an incidental harassment authorization effective in Arctic waters must notify the Alaska Regional Director, National Marine Fisheries Service, of any activities that may involve a take by incidental harassment in Arctic waters at least 14 calendar days prior to commencement of the activity.
+
+(b) Holders of incidental harassment authorizations effective in Arctic waters may be required by their authorization to designate at least one qualified biological observer or another appropriately experienced individual to observe and record the effects of activities on marine mammals. The number of observers required for monitoring the impact of the activity on marine mammals will be specified in the incidental harassment authorization. If observers are required as a condition of the authorization, the observer(s) must be approved in advance by the National Marine Fisheries Service.
+
+(c) The monitoring program must, if appropriate, document the effects (including acoustical) on marine mammals and document or estimate the actual level of take. The requirements for monitoring plans, as specified in the incidental harassment authorization, may vary depending on the activity, the location, and the time.
+
+(d) Where the proposed activity may affect the availability of a species or stock of marine mammal for taking for subsistence purposes, proposed monitoring plans or other research proposals must be independently peer-reviewed prior to issuance of an incidental harassment authorization under this subpart. In order to complete the peer-review process within the time frames mandated by the MMPA for an incidental harassment authorization, a proposed monitoring plan submitted under this paragraph must be submitted to the Assistant Administrator no later than the date of submission of the application for an incidental harassment authorization. Upon receipt of a complete monitoring plan, and at its discretion, the National Marine Fisheries Service will either submit the plan to members of a peer review panel for review or within 60 days of receipt of the proposed monitoring plan, schedule a workshop to review the plan. The applicant must submit a final monitoring plan to the Assistant Administrator prior to the issuance of an incidental harassment authorization.
+
+(e) At its discretion, the National Marine Fisheries Service may place an observer aboard vessels, platforms, aircraft, etc., to monitor the impact of activities on marine mammals.
+
+(f)(1) As specified in the incidental harassment authorization, the holder of an incidental harassment authorization for Arctic waters must submit reports to the Assistant Administrator within 90 days of completion of any individual components of the activity (if any), within 90 days of completion of the activity, but no later than 120 days prior to expiration of the incidental harassment authorization, whichever is earlier. This report must include the following information:
+
+(i) Dates and type(s) of activity;
+
+(ii) Dates and location(s) of any activities related to monitoring the effects on marine mammals; and
+
+(iii) Results of the monitoring activities, including an estimate of the actual level and type of take, species name and numbers of each species observed, direction of movement of species, and any observed changes or modifications in behavior.
+
+(2) Monitoring reports will be reviewed by the Assistant Administrator and, if determined to be incomplete or inaccurate, will be returned to the holder of the authorization with an explanation of why the report is being returned. If the authorization holder disagrees with the findings of the Assistant Administrator, the holder may request an independent peer review of the report. Failure to submit a complete and accurate report may result in a delay in processing future authorization requests.
+
+(g) Results of any behavioral, feeding, or population studies, that are conducted supplemental to the monitoring program, should be made available to the National Marine Fisheries Service before applying for an incidental harassment authorization for the following year.

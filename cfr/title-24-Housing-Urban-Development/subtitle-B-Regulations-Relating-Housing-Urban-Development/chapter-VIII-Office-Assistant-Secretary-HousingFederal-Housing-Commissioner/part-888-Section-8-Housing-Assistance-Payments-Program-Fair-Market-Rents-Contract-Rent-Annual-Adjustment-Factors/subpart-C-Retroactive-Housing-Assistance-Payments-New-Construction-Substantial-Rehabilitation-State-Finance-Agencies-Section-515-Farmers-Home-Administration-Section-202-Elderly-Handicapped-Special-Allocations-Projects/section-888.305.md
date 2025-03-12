@@ -1,0 +1,25 @@
+##### § 888.305 Amount of the retroactive Housing Assistance Payments. #####
+
+(a) *Recalculating the total rent adjustment.* To establish the amount of the retroactive HAP payment for which a project owner meeting the criteria in § 888.301(c) is eligible, the total rent adjustment will be recalculated for the period from October 1, 1979 to May 31, 1991. For purposes of establishing the amount of the retroactive payment only, the total rent adjustment will be an amount equal to the Contract Rent, minus the amount of the Contract Rent attributable to debt service, multiplied by the applicable AAF, for each year.
+
+(b) *Calculating the retroactive payment.* HUD (or the Contract Administrator) will pay, as a retroactive Housing Assistance Payment, the amount, if any, by which the total rent adjustment, calculated under paragraph (a) of this section, exceeds the rent adjustments actually approved for the same time period, except that in no event will any payment be an amount less than 30 percent of the aggregate of the full Contract Rent multiplied by the applicable AAF, minus the sum of the rent adjustments actually approved for the same time period, adjusted by the average occupancy rate.
+
+(c) *Occupancy rates.* (1) Retroactive payments will be made only for units that were occupied, based on average occupancy rate, including units qualifying for vacancy payments under 24 CFR 880.611, 881.611, 883.712, 884.106, 885.985, 886.109, or 886.309, during the time period from October 1, 1979 to May 31, 1991.
+
+(2) When requesting retroactive payment, a project owner must, if the information is available, submit documentation of occupancy rates, on either an annual or monthly basis, for the same time period. The average occupancy rate will be based on these records. If records are unavailable for the full time period, HUD (or the Contract Administrator) will establish an average occupancy rate, to be used for the entire period, from the occupancy rate for the three years immediately preceding May 31, 1991.
+
+(d) *Revised AAFs.* For any year during the period from October 1, 1979 to May 31, 1991, where a HUD field office published a revised Annual Adjustment Factor that replaced the applicable AAF for a specific locality under 24 CFR 888.204, the revised Annual Adjustment Factor, which applied to all projects in that area, will be used to recalculate the total rent adjustment under paragraph (a) of this section, and to establish the amount of the retroactive payments.
+
+(e) *Special adjustments.* When calculating the total rent adjustments and establishing the amount of the retroactive payments under paragraphs (a) and (b) of this section, any special adjustments granted under 24 CFR 880.609(b), 881,609(b), 883.710(b), 884.109(c), 886.112(c), or 886.312(c) during the time period from October 1, 1979 to May 31, 1991, to reflect substantial general increases in real property taxes, assessments, utility rates, utilities not covered by regulated rates, or for special adjustments for any other purpose authorized by a waiver of the regulations, will be deducted from the Contract Rent before applying the AAF.
+
+(f) *AAFs less than 1.0.* For any area where an AAF of less than 1.0 was published, a factor of 1.0 will be used to recalculate the total rent adjustments and to establish the amount of the retroactive payments under paragraphs (a) and (b) of this section.
+
+(g) *Debt service.* (1) For purposes of this section, debt service includes principal, interest, and the mortgage insurance premium, if any.
+
+(2) The monthly debt service set forth in the original mortgage documents for a project will be used to compute the debt service portion of the contract rent. The debt service will be compared to the spread of unit sizes included in the original HAP contract, and the amount used in the calculation will be based on the percentage of total rent potential of the various unit types.
+
+(3) If, in some cases, HUD or the Contract Administrator cannot determine the debt service for a project, the project owner will be asked to provide documentation of the debt service. The project owner will be notified by the HUD Field Office or the Contract Administrator of the need for documentation of the debt service, and allowed 30 days to respond, or for such longer period as approved by HUD or the Contract Administrator on a case-by-case basis. Where the debt service is not available to HUD or the Contract Administrator and the owner is unable to provide the necessary information, retroactive payments cannot be made.
+
+(h) *Applicable AAF.* The applicable AAF is the factor in effect on the anniversary date of the contract and appropriate for the area, for the size of the unit, and for the treatment of utilities; except where, for any year when AAFs were published after November 8 and made retroactive to November 8, a project owner was given the option to choose the factor in effect on the anniversary date or the retroactive factor, the applicable AAF is the factor chosen by the project owner in that year.
+
+(Approved by the Office of Management and Budget under control number 2502-0042)

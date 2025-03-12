@@ -1,0 +1,3 @@
+##### § 552.5 Casual basis. #####
+
+As used in section 13(a)(15) of the Act, the term *casual basis,* when applied to babysitting services, shall mean employment which is irregular or intermittent, and which is not performed by an individual whose vocation is babysitting. Casual babysitting services may include the performance of some household work not related to caring for the children: *Provided, however,* That such work is incidental, *i.e.,* does not exceed 20 percent of the total hours worked on the particular babysitting assignment.

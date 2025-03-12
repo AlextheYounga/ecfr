@@ -1,0 +1,3 @@
+##### § 452.33 Persons who may be candidates and hold office; elections at conventions. #####
+
+Where elections of national or international labor organizations or of intermediate bodies are held at a convention of delegates elected by secret ballot, protection of the right to be a candidate and to hold office is afforded by the requirement in section 401(f) that the convention be conducted in accordance with the constitution and bylaws of the labor organization insofar as they are not inconsistent with the provisions of title IV. If members in good standing are denied the right to be candidates by the imposition of unreasonable qualifications on eligibility for office such qualifications would be inconsistent with the provisions of title IV.

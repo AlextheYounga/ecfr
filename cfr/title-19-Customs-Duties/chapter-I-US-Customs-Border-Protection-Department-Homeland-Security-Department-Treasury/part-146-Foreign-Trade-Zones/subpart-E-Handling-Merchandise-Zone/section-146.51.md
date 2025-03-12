@@ -1,0 +1,3 @@
+##### § 146.51 Customs control of merchandise. #####
+
+No merchandise, other than domestic status merchandise provided for in § 146.43, will be manipulated, manufactured, exhibited, destroyed, or transferred from a zone in any manner or for any purpose, except under Customs permit as provided for in this part. The port director may require segregation of any zone status merchandise whenever necessary to protect the revenue or properly administer U.S. laws or regulations.

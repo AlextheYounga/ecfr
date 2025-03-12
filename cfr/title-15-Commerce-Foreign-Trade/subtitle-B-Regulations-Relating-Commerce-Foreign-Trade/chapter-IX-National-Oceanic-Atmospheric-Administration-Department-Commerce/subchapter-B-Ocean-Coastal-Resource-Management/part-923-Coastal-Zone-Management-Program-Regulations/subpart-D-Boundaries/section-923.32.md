@@ -1,0 +1,7 @@
+##### § 923.32 Lakeward or seaward boundary. #####
+
+(a)(1) For states adjoining the Great Lakes, the lakeward boundary of the State's coastal zone is the international boundary with Canada or the boundaries with adjacent states. For states adjacent to the Atlantic or Pacific Ocean, or the Gulf of Mexico, the seaward boundary is the outer limit of state title and ownership under the Submerged Lands Act (48 U.S.C. 1301 *et seq.*), the Act of March 2, 1917 (48 U.S.C. 749), the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union with the United States of America, as approved by the Act of March 24, 1976 (48 U.S.C. 1681 note) or section 1 of the Act of November 10, 1963, (48 U.S.C. 1705, as applicable).
+
+(2) The requirement for defining the seaward boundary of a State's coastal zone can be met by a simple restatement of the limits defined in this section, unless there are water areas which require a more exact delineation because of site specific policies associated with these areas. Where States have site specific policies for particular water areas, these shall be mapped, described or referenced so that their location can be determined reasonably easily by any party affected by the policies.
+
+(b) The seaward limits, as defined in this section, are for purposes of this program only and represent the area within which the State's management program may be authorized and financed. These limits are irrespective of any other claims States may have by virtue of other laws.

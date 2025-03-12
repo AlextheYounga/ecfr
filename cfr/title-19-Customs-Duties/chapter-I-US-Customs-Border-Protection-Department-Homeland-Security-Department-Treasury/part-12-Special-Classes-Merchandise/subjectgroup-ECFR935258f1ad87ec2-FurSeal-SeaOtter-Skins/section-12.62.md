@@ -1,0 +1,7 @@
+##### § 12.62 Enforcement; duties of Customs officers. #####
+
+(a) In accordance with the authority contained in sections 10 and 12 of the act, Customs officers shall arrest or cause to be arrested persons violating the provisions of the act or of any regulation made pursuant thereto; shall search vessels when there is reasonable cause to believe that such vessels are subject to seizure under the act, shall seize any vessel used or employed or which it appears has been or is about to be used or employed in violation of the act or any regulation made pursuant thereto; and shall seize fur seals and sea otters, or the skins thereof, killed, captured, transported, imported, offered for sale, or possessed by any person contrary to the provisions of the act or of any regulation made pursuant thereto.
+
+(b) All articles, including vessels and equipment, seized by Customs officers for violation of the act shall be turned over to the nearest officer or agent of the Fish and Wildlife Service, Department of the Interior, for appropriate disposition under the act, receipts to be taken in duplicate therefor. One copy of each such receipt shall be transmitted to Headquarters, U.S. Customs Service with a detailed report of the facts in the particular case involved.
+
+[28 FR 14710, Dec. 31, 1963, as amended by T.D. 89-1, 53 FR 51253, Dec. 21, 1988]

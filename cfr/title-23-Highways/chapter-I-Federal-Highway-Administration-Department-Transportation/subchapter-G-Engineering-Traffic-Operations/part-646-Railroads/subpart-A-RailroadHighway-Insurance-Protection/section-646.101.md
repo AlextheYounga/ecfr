@@ -1,0 +1,3 @@
+##### § 646.101 Purpose. #####
+
+The purpose of this part is to prescribe provisions under which Federal funds may be applied to the costs of public liability and property damage insurance obtained by contractors (a) for their own operations, and (b) on behalf of railroads on or about whose right-of-way the contractors are required to work in the construction of highway projects financed in whole or in part with Federal funds.

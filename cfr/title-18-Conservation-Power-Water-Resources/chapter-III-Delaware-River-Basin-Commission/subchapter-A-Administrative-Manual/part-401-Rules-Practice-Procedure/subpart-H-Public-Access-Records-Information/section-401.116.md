@@ -1,0 +1,3 @@
+##### § 401.116 Disclosure to consultants, advisory committees, State and local government officials, and other special government employees. #####
+
+Data and information otherwise exempt from public disclosure may be disclosed to Commission consultants, advisory committees, state and local government officials, and other special government employees for use only in their work in cooperation with the Commission. Such persons are thereafter subject to the same restrictions with respect to the disclosure of such data and information as any other Commission employee.

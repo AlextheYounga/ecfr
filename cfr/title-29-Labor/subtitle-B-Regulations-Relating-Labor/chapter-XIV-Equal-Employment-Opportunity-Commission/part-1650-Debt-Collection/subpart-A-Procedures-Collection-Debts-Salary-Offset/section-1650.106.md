@@ -1,0 +1,3 @@
+##### § 1650.106 Right to inspect and copy records related to the debt. #####
+
+An employee who desires to inspect or copy Commission records related to the debt must send a request to the official designated in the Notice of Debt. In response, the Commission will notify the employee of the location and time when the employee may inspect and copy the records or send copies of such records to the employee.

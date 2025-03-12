@@ -1,0 +1,3 @@
+##### § 772.3 Noise standards. #####
+
+The highway traffic noise prediction requirements, noise analyses, noise abatement criteria, and requirements for informing local officials in this regulation constitute the noise standards mandated by 23 U.S.C. 109(1). All highway projects which are developed in conformance with this regulation shall be deemed to be in accordance with the FHWA noise standards.

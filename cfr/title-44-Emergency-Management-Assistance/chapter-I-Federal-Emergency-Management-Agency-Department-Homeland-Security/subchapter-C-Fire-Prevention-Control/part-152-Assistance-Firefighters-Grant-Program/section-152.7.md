@@ -1,0 +1,17 @@
+##### § 152.7 Grant payment, reporting and other requirements. #####
+
+(a) Grantees will have twelve months to incur obligations and complete the scope of work to fulfill their responsibilities under this grant program. The performance period of each grant will be detailed in the Articles of Agreement that we provide each grantee. Grantees may request funds from FEMA as reimbursement for expenditures made under the grant program or they may request funds for immediate cash needs under 2 CFR 200.305. Advances of funds may also be approved to meet immediate cash needs.
+
+(b) Generally, fire departments cannot use grant funds to pay for products and services contracted for, or purchased prior to the effective date of the grant. However, we will consider requests for reimbursement for these on an exception basis. Expenses incurred after the application deadline but prior to award may be eligible for reimbursement if the expenses were justified, unavoidable (i.e., urgent and compelling), consistent with the scope of work, and specifically approved by the Assistance Officer. Expenses, obligations, commitments or contracts incurred or entered into prior to the application deadline are not eligible to be included as an expense.
+
+(c) All grantees must follow their own established procurement process when buying anything with Federal grant funds as provided in 2 CFR 200.317-200.326. If the grantee does not have an established procurement process, they must seek a minimum of two bids for any acquisition.
+
+(d) When requesting funding, grantees can only request an amount that is necessary to satisfy their immediate cash needs directly related to the grant, i.e., an amount equal to the total eligible grant expenses due within 30 days. Grantees can request payments of up to one hundred (100) percent of the federal share of the award amount but only if delivery of the ordered products and/or services is imminent (approximately 30 days) and the resulting payment will require the entire amount of funds.
+
+(e) A grantee may request sufficient funding for a down payment if required to do so by the seller, such as in grants involving some purchases of firefighting vehicles. The grantee may request as much as fifty (50) percent of the federal share of the award amount at the time of the order placement to pay the down payment. The grantee may request the balance of the federal share upon delivery of the ordered equipment or vehicle.
+
+(f) The recipients of funding under this program must report to us on how the grant funding was used and the benefits that resulted. This will be accomplished via submission of performance reports. Details regarding the reporting requirements will be provided in the Articles of Agreement provided to each grantee.
+
+(g) Fire departments that receive funding under this program must agree to provide information to the National Fire Incident Reporting System (NFIRS) for the period covered by the assistance. If a grantee does not currently participate in the incident reporting system and does not have the capacity to report at the time of the award, that grantee must agree to provide information to the system for a twelve-month period commencing as soon as possible after they develop the capacity to report. Capacity to report to the NFIRS must be established prior to the termination of the one-year performance period.
+
+[68 FR 12547, Mar. 14, 2003, as amended at 74 FR 15344, Apr. 3, 2009; 79 FR 76085, Dec. 19, 2014]

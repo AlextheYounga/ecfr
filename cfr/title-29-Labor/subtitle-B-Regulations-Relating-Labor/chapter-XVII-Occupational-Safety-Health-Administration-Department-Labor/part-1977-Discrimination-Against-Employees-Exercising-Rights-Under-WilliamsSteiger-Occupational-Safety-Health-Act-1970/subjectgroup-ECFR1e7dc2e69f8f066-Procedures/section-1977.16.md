@@ -1,0 +1,3 @@
+##### § 1977.16 Notification of Secretary of Labor's determination. #####
+
+Section 11(c)(3) provides that the Secretary is to notify a complainant within 90 days of the complaint of his determination whether prohibited discrimination has occurred. This 90-day provision is considered directory in nature. While every effort will be made to notify complainants of the Secretary's determination within 90 days, there may be instances when it is not possible to meet the directory period set forth in section 11(c)(3).

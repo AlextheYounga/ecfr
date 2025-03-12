@@ -1,0 +1,5 @@
+##### § 990.225 Transition determination. #####
+
+The determination of the amount and period of the transition funding shall be based on the difference in subsidy levels between the formula set forth in this part and the formula in effect prior to implementation of the formula set forth in this part. The difference in subsidy levels will be calculated using FY 2004 data. When actual data are not available for one of the formula components needed to calculate the formula of this part for FY 2004, HUD will use alternate data as a substitute (*e.g.*, unit months available for eligible unit months, etc.) If the difference between these formulas indicates that a PHA shall have its operating subsidy reduced as a result of this formula, the PHA will be subject to a transition policy as indicated in § 990.230. If the difference between these formulas indicates that a PHA will have its operating subsidy increased as a result of this formula, the PHA will be subject to the transition policy as indicated in § 990.235.
+
+[70 FR 54997, Sept. 19, 2005; 70 FR 61367, Oct. 24, 2005]

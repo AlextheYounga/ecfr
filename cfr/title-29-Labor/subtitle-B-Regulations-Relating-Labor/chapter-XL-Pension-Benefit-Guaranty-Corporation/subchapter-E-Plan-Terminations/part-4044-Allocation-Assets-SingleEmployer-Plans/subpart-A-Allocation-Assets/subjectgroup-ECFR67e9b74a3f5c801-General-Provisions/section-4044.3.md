@@ -1,0 +1,7 @@
+##### § 4044.3 General rule. #####
+
+(a) *Asset allocation.* Upon the termination of a single-employer plan, the plan administrator shall allocate the plan assets available to pay for benefits under the plan in the manner prescribed by this subpart. Plan assets available to pay for benefits include all plan assets (valued according to § 4044.41(b)) remaining after the subtraction of all liabilities, other than liabilities for future benefit payments, paid or payable from plan assets under the provisions of the plan. Liabilities include expenses, fees and other administrative costs, and benefit payments due before the allocation date. Except as provided in § 4044.4(b), an irrevocable commitment by an insurer to pay a benefit, which commitment is in effect on the date of the asset allocation, is not considered a plan asset, and a benefit payable under such a commitment is excluded from the allocation process.
+
+(b) *Allocation date.* For plans that close out under § 4041.28 or § 4041.50, assets shall be allocated as of the date plan assets are to be distributed. For other plans, assets shall be allocated as of the termination date.
+
+[61 FR 34059, July 1, 1996, as amended at 76 FR 34605, June 14, 2011]

@@ -1,0 +1,3 @@
+##### § 367.4572 Account 457.2, Indirect costs charged to associate companies. #####
+
+This account must include recovery of those indirect costs that cannot be separately identified to a single or group of associate companies and therefore must be allocated. Only journal or memorandum entries should be prepared monthly, by departments, for all such cost accumulated and billed to customers. Amounts billed to associate companies must be included in this account. This account must not include any compensation for use of equity capital or inter-company interest on indebtedness.

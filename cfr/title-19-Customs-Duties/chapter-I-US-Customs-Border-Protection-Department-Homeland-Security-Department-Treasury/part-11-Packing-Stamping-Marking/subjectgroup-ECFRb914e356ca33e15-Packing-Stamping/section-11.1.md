@@ -1,0 +1,9 @@
+##### § 11.1 Cigars, cigarettes, medicinal preparations, and perfumery. #####
+
+(a) All cigars and cigarettes imported into the United States, except importations by mail and in baggage, shall be placed in the public stores or in a designated bonded warehouse to remain until inspected, weighed, and repacked, if necessary, under the Customs and internal-revenue laws. However, if the invoice and entry presented specify all of the information necessary for prompt determination of the estimate duty and tax on the packages of cigars and cigarettes covered thereby, the port director may permit designation of less than the entire importation for examination.
+
+(b) After the cigars and cigarettes have been examined, weighed, and appraised, before release the inspecting officer shall verify that they are in properly constructed packages, conforming to the requirements of the regulations of the Bureau of Alcohol, Tobacco and Firearms, bearing a legible imprint or a securely affixed label stating the quantity, kind, and classification for tax purposes as required by such regulations. Cigars or cigarettes must be in compliance with such requirements before being released for consumption unless specifically exempted therefrom as indicated in § 11.3.
+
+(c) The immediate containers of all domestic cigars, cigarettes, medicinal preparations, and perfumery, which are returned to the United States and are subject to a duty equal to an internal-revenue tax, shall be stamped by Customs. The packaging requirements set forth in paragraph (b) of this section apply to returned cigars and cigarettes of domestic origin.
+
+[28 FR 14701, Dec. 31, 1963, as amended by T.D. 78-329, 43 FR 43454, Sept. 26, 1978]

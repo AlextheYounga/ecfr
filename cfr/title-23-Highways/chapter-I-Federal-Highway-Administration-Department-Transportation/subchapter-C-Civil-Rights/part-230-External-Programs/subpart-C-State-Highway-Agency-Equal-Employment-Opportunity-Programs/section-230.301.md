@@ -1,0 +1,3 @@
+##### § 230.301 Purpose. #####
+
+The purpose of the regulations in this subpart is to set forth Federal Highway Administration (FHWA) Federal-aid policy and FHWA and State responsibilities relative to a State highway agency's internal equal employment opportunity program and for assuring compliance with the equal employment opportunity requirements of federally-assisted highway construction contracts.

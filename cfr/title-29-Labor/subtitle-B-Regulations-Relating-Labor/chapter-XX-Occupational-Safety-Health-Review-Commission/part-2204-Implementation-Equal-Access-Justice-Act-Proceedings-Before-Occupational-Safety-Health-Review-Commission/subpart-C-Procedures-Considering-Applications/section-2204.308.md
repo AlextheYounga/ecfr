@@ -1,0 +1,3 @@
+##### § 2204.308 Decision. #####
+
+The preparation and issuance of decision shall be in accordance with § 2200.90. Additionally, the judge's decision shall include written findings and conclusions on the applicant's eligibility and status as a prevailing party and an explanation of the reasons for any difference between the amount requested and the amount awarded. The decision shall also include, if at issue, findings on whether the Secretary's position was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust.

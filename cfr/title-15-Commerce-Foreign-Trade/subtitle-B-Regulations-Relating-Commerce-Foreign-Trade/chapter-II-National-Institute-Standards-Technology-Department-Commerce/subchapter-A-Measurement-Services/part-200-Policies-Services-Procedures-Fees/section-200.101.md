@@ -1,0 +1,5 @@
+##### § 200.101 Measurement research. #####
+
+(a) The NIST staff continually reviews the advances in science and the trends in technology, examines the measurement potentialities of newly discovered physical phenomena, and uses these to devise and improve standards, measuring devices, and measurement techniques. As new requirements appear, there are continual shifts of program emphasis to meet the most urgent needs for the measurement of additional quantities, extended ranges, or improved accuracies.
+
+(b) The basic research and development activities of NIST are primarily funded by direct appropriations, and are aimed at meeting broad general needs. NIST may also undertake investigations or developments to meet some specialized physical measurement problem of another Government agency, industrial group, or manufacturing firm, using funds supplied by the requesting organization.

@@ -1,0 +1,3 @@
+##### § 228.9 Inspection and copying of documents. #####
+
+Any document in a file pertaining to any hearing authorized by this subpart or any document forming part of the record of such a hearing may be inspected and/or copied in the Office of the Assistant Administrator, National Marine Fisheries Service, 1315 East-West Highway, Silver Spring, MD 20910-unless the file is in the care and custody of the presiding officer, in which case the presiding officer shall notify the parties as to where and when the record may be inspected.

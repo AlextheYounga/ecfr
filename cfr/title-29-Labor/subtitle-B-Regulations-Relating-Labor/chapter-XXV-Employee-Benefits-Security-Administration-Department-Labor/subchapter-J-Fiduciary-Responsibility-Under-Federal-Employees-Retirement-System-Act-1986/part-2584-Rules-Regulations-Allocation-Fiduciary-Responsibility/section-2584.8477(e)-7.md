@@ -1,0 +1,3 @@
+##### § 2584.8477(e)-7 Effective date. #####
+
+This section is effective December 29, 1988, and liability for any transaction which occurs on or after this date will be governed by this section only. In accordance with section 114(a) of Pub. L. 99-556, the interim regulations promulgated by the Board appearing at title 5, CFR, chapter VI, §§ 1660.1 through 1660.5 will no longer be effective as of December 29, 1988. Liability for transactions which occur before the effective date of this regulation, however, will continue to be governed by allocations made both during the statutorily defined effective period of the previously cited interim regulations and pursuant to the requirements of those regulations.

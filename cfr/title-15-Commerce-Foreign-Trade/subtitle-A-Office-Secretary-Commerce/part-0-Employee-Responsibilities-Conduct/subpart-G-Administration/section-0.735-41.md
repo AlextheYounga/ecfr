@@ -1,0 +1,5 @@
+##### § 0.735-41 Inquiries and exceptions. #####
+
+(a) Inquiries relating to legal aspects of the limitations set forth in or cited in or pursuant to this part should be submitted to the appropriate deputy counselor. Inquiries relating to other aspects of this part or regulations supplementary thereto should be referred to the appropriate personnel office.
+
+(b) Within the limits of administrative discretion permitted to the Department, exceptions to the requirements of this part may be granted from time to time in unusual cases by the head of the operating unit, whenever the facts indicate that such an exception would promote the efficiency of the service. Each request for such an exception should be submitted in writing to the head of the operating unit concerned, and shall contain a full statement of the justification for the request. Reports concerning such requests, if approved, shall be forwarded to the program Secretarial Officer concerned and to the Assistant Secretary for Administration by the head of the operating unit concerned.

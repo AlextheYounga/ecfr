@@ -1,0 +1,3 @@
+##### § 600.1016 Enforcement. #####
+
+In accordance with applicable law or other authority, NMFS may take appropriate action against each fish seller and/or fish buyer responsible for non-payment, non-collection, non-deposit, and/or non-disbursement of the fee in accordance with this subpart to enforce the collection from such fish seller and/or fish buyer of any fee (including penalties and all costs of collection) due and owing the United States on account of the loan that such fish seller and/or fish buyer should have, but did not, pay, collect, deposit, and/or disburse in accordance with this subpart. All such loan recoveries shall be applied to reduce the unpaid balance of the loan.

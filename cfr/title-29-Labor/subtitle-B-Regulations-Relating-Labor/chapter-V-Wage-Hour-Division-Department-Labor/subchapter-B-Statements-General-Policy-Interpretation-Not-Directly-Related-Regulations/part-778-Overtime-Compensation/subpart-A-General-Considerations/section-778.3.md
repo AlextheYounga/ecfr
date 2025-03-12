@@ -1,0 +1,5 @@
+##### § 778.3 Interpretations made, continued, and superseded by this part. #####
+
+On and after publication of this part in the Federal Register, the interpretations contained therein shall be in effect and shall remain in effect until they are modified, rescinded or withdrawn. This part supersedes and replaces the interpretations previously published in the Federal Register and Code of Federal Regulations as part 778 of this chapter. Prior opinions, rulings and interpretations and prior enforcement policies which are not inconsistent with the interpretations in this part or with the Fair Labor Standards Act as amended are continued in effect; all other opinions, rulings, interpretations, and enforcement policies on the subjects discussed in the interpretations in this part are rescinded and withdrawn. Questions on matters not fully covered by this part may be addressed to the Administrator of the Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210, or to any Regional Office of the Division.
+
+[46 FR 7309, Jan. 23, 1981]

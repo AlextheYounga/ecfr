@@ -1,0 +1,3 @@
+##### § 4.11 Sealing of stores. #####
+
+Upon the arrival of a vessel from a foreign port, or a vessel engaged in the foreign trade from a domestic port, sea stores and ship's stores not required for immediate use or consumption on board while the vessel is in port and articles acquired abroad by officers and members of the crew, for which no permit to land has been issued, shall be placed under seal, unless the Customs officer is of the opinion that the circumstances do not require such action. Customs inspectors in charge of the vessel, from time to time, as in their judgment the necessity of the case requires, may issue stores from under seal for consumption on board the vessel by its passengers and crew. (See § 4.39.)

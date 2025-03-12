@@ -1,0 +1,3 @@
+##### § 891.315 Prohibited facilities. #####
+
+This section shall apply to capital advances under the Section 811 Program, as well as loans financed under subpart E of this part. Project facilities may not include infirmaries, nursing stations, spaces dedicated to the delivery of medical treatment or physical therapy, padded rooms, or space for respite care or sheltered workshops, even if paid for from sources other than the HUD capital advance or loan. Except for office space used by the Owner (or Borrower, if applicable) exclusively for the administration of the project, project facilities may not include office space.

@@ -1,0 +1,3 @@
+##### § 16.15 Commission recommendation to Congress. #####
+
+Upon receipt of a recommendation from any Federal department or agency, a proposal of any party, or on the Commission's own motion, and after notice and opportunity for hearing, the Commission may determine that a project may be taken over by the United States, issue an order on its findings and recommendations, and forward a copy to Congress.

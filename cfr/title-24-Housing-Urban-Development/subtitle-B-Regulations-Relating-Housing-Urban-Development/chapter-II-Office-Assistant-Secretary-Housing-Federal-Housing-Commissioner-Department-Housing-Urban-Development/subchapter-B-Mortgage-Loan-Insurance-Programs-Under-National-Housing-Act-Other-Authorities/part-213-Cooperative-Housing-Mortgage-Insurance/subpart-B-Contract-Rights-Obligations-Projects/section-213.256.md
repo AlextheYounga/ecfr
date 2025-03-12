@@ -1,0 +1,11 @@
+##### § 213.256 Premiums; insurance upon completion. #####
+
+(a) *Management and Sales Types and Investor Sponsored Projects.* (1) Where the mortgage is initially and finally endorsed for insurance pursuant to a Commitment to Insure Upon Completion, the mortgagee on the date of the first principal payment shall pay a second premium equal to one-half of one percent of the average outstanding principal obligation of the mortgage for the year following such first principal payment date which shall be adjusted so as to accord with such date and so that the aggregate of the first and second premiums shall equal the sum of one-half of one percent per annum of the average outstanding principal obligation of the mortgage for the period from the date of the insurance endorsement to one year following the date of the first principal payment.
+
+(2) Where the mortgage is initially and finally endorsed for insurance pursuant to a Commitment to Insure Upon Completion and is paid in full prior to the date of the first principal payment, the first and only premium collected shall be adjusted so that the total premium shall equal one-half of one percent per annum of the average outstanding principal obligation of the mortgage for the period from the date of the insurance endorsement to the date the mortgage was paid in full.
+
+(b) *Purchasing cooperatives.* The provisions of paragraph (a) of this section do not apply to the mortgage of a purchasing nonprofit cooperative housing corporation or trust where such mortgage is endorsed for insurance pursuant to the sale of an Investor Sponsored Project to such purchasing nonprofit cooperative housing corporation or trust.
+
+(c) *Existing Construction.* The provisions of paragraph (a) of this section shall apply to Existing Construction not involving insurance of advances but involved Commissioner approved or required repairs, improvements, alterations and additions.
+
+(d) *Supplementary loans; Commitment to Insure Upon Completion.* The provisions of paragraphs (a) and (b) of this section shall apply to a supplementary loan endorsed for insurance pursuant to a Commitment to Insure Upon Completion.

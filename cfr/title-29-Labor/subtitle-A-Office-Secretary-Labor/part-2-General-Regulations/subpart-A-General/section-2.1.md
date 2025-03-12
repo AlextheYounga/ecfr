@@ -1,0 +1,3 @@
+##### § 2.1 Employees attached to regional offices. #####
+
+No person who has been an employee of the Department and attached to a Regional office of any bureau, board, division, or other agency thereof, shall be permitted to practice, appear, or act as attorney, agent, or representative before the Department or any branch or agent thereof in connection with any case or administrative proceeding which was pending before such Regional office during the time of his employment with the Department, unless he shall first obtain the written consent thereto of the Secretary of Labor or his duly authorized representative.

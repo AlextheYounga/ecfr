@@ -1,0 +1,5 @@
+##### § 20.24 Opportunity for repayment. #####
+
+(a) The Department of Labor agency responsible for collecting the claim shall afford the debtor the opportunity to repay the debt or enter into a repayment plan which is agreeable to the agency head (or designee) and is in a written form signed by such debtor. The head of the agency (or designee) may deem a repayment plan to be abrogated if the debtor should, after the repayment plan is signed, fail to comply with the terms of the plan.
+
+(b) Agencies have discretion and should exercise sound judgment in determining whether to accept a repayment agreement in lieu of offset. The determination should balance the Government's interest in collecting the debt against fairness to the debtor. If the debt is delinquent and the debtor has not disputed its existence or amount, an agency should effect an offset unless the debtor is able to establish that offset would result in undue financial hardship or would be against equity and good conscience.

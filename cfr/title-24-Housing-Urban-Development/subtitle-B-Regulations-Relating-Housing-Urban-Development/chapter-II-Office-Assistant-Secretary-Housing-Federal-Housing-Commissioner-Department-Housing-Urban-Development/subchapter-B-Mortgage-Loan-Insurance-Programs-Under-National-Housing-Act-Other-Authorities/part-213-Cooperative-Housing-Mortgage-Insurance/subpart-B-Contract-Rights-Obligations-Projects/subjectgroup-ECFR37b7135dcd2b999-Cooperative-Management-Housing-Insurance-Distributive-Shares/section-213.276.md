@@ -1,0 +1,3 @@
+##### § 213.276 Allocation of Cooperative Management Housing Insurance Fund income or losses. #####
+
+For any semiannual period in which Cooperative Management Housing Insurance Fund operations shall result in a net income, or loss, the Commissioner shall allocate such net income or such loss to the General Surplus Account, to the Participating Reserve Account, or to both, as he may determine to be in accordance with sound actuarial and accounting practice. In determining net income or loss, the Commissioner shall take into consideration all income received from fees, premiums, and earnings on investments of the Fund, operating expenses, and provision for losses of the Fund.

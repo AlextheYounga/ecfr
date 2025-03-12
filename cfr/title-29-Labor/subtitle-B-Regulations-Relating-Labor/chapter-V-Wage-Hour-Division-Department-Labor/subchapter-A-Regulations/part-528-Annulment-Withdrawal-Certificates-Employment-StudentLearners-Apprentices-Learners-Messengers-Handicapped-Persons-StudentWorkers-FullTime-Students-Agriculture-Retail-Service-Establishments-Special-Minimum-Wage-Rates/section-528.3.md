@@ -1,0 +1,9 @@
+##### § 528.3 Withdrawal and annulment of certificates. #####
+
+(a) An authorized representative may withdraw a certificate from any employer within that representative's region who, acting under color of any certificate or application for the employment of learners, handicapped workers, student workers, student learners, apprentices, messengers, or full-time students in agriculture, retail, or service establishments, or in institutions of higher education at subminimum wages under section 14 of the act, fails to comply with the limitations in such certificate or otherwise violates the act.
+
+(b) An authorized representative may annul a certificate affected by mistake in its issuance if the employer knowingly induced or knowingly took advantage of the mistake. Where the employer did not knowingly induce the mistake but knowingly took advantage of it, a new certificate shall be issued by the authorized representative if, and on such terms as, such certificate would have been issued had there been no mistake limited in its term from the date of issuance to the date of annulment of the annulled certificate.
+
+(c) A certificate may be withdrawn in the public interest by a representative authorized to issue such type of certificate whenever any part of the exemption it provides is no longer necessary to prevent curtailment of opportunities for employment. If appropriate, a more limited replacement certificate may be issued by the authorized representative.
+
+(Secretary's Order No. 16-75, dated Nov. 25, 1975 (40 FR 55913); Employment Standards Order No. 76-2, dated Feb. 23, 1976 (41 FR 9016))[43 FR 28469, June 30, 1978]

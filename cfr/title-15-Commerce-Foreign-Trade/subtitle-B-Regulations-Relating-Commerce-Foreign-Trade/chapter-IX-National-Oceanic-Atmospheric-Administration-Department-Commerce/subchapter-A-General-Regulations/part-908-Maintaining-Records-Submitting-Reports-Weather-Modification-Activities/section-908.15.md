@@ -1,0 +1,3 @@
+##### § 908.15 Times for taking action; expiration on Saturday, Sunday, or holiday. #####
+
+Whenever periods of time are specified in these rules in days, calendar days are intended. When the day, or the last day, fixed under these rules for taking any action falls on a Saturday, Sunday, or on a Federal holiday, the action may be taken on the next succeeding day which is not a Saturday, Sunday, or Federal holiday.

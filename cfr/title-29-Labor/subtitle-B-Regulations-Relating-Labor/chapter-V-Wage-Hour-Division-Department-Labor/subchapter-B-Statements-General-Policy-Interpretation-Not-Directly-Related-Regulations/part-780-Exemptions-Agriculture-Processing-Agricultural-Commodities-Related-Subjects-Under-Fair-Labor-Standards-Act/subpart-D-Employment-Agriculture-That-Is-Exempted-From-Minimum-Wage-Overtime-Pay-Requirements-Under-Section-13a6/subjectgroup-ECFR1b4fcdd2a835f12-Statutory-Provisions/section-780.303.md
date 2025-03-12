@@ -1,0 +1,3 @@
+##### § 780.303 Exemption applicable on employee basis. #####
+
+Section 13(a)(6)(A) exempts “any employee employed in agriculture \* \* \* by an employer \* \* \*.” It is clear from this language that it is the activities of the employee rather than those of his employer which determine the application of the exemption. In other words, the exemption applies only to employees who are engaged in agricultural activities. Thus some employees of the employer may be exempt while others may not. In any case the burden of effecting segregation between exempt and nonexempt work as between different groups of employees is upon the employer. For a more detailed discussion of what constitutes employment in agriculture, see subpart B of this part.

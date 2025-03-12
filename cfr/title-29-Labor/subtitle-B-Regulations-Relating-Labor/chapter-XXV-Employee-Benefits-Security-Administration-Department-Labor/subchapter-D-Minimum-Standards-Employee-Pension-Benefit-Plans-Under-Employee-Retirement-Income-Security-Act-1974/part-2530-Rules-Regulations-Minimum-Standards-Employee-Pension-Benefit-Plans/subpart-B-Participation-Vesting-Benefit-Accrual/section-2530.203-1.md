@@ -1,0 +1,5 @@
+##### § 2530.203-1 Vesting; general. #####
+
+(a) Section 203 of the Act and section 411(a) of the Code contain minimum vesting standards relating to certain employee pension benefit plans. In general, a pension plan subject to section 203 of the Act of section 411(a) of the Code must meet certain requirements relating to an employee's nonforfeitable (“vested”) right to his or her normal retirement benefit. One of these requirements specifies that an employee's accrued benefit derived from employer contributions must be vested in accordance with certain schedules. The schedules (or alternative minimum vesting standards) are generally based on the employee's number of years of service with the employer or employers maintaining the plan. Section 2530.203-2 sets forth rules relating to the computation periods used to determine whether an employee has completed a year of service for vesting purposes (“vesting computation periods”).
+
+(b) For rules relating to service with the employer or employers maintaining the plan, *see* § 2530.210.

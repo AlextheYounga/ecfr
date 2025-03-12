@@ -1,0 +1,3 @@
+##### § 4.119 Contracts for services of communications companies. #####
+
+The Act, in paragraph (4) of section 7, exempts from its provisions “any contract for the furnishing of services by radio, telephone, telegraph, or cable companies, subject to the Communications Act of 1934.” This exemption is applicable to contracts with such companies for communication services regulated under the Communications Act. It does not exempt from the Act any contracts with such companies to furnish any other kinds of services through the use of service employees.

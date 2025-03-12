@@ -1,0 +1,3 @@
+##### § 420.22 Prohibition; sanctions. #####
+
+Any person, firm, corporation or other entity, including a public corporation, body or agency, who shall use, withdraw or divert surface waters of the basin, shall pay such charges therefor as may be required by this resolution. Any violation of this resolution shall be subject to penalty as prescribed under Article 14.17 of the Compact. The Commission may also recover the value (according to the established water pricing schedules of the Commission) of any such use, withdrawal or diversion, and invoke the jurisdiction of the courts to enjoin any further use, withdrawal or diversion, unless all charges under this resolution are paid in full when due.

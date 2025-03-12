@@ -1,0 +1,3 @@
+##### § 1425.6 Use of third-party mediation assistance. #####
+
+If the parties should mutually agree to third-party mediation assistance other than that of the Service, both parties shall immediately inform the Service in writing of this agreement. Such written communication shall be filed with the regional director of the region in which the negotiation is scheduled, and shall state what alternate assistance the parties have agreed to use.

@@ -1,0 +1,11 @@
+##### § 1903.16 Posting of citations. #####
+
+(a) Upon receipt of any citation under the Act, the employer shall immediately post such citation, or a copy thereof, unedited, at or near each place an alleged violation referred to in the citation occurred, except as provided below. Where, because of the nature of the employer's operations, it is not practicable to post the citation at or near each place of alleged violation, such citation shall be posted, unedited, in a prominent place where it will be readily observable by all affected employees. For example, where employers are engaged in activities which are physically dispersed (see § 1903.2(b)), the citation may be posted at the location to which employees report each day. Where employees do not primarily work at or report to a single location (see § 1903.2(b)), the citation may be posted at the location from which the employees operate to carry out their activities. The employer shall take steps to ensure that the citation is not altered, defaced, or covered by other material. Notices of de minimis violations need not be posted.
+
+(b) Each citation, or a copy thereof, shall remain posted until the violation has been abated, or for 3 working days, whichever is later. The filing by the employer of a notice of intention to contest under § 1903.17 shall not affect his posting responsibility under this section unless and until the Review Commission issues a final order vacating the citation.
+
+(c) An employer to whom a citation has been issued may post a notice in the same location where such citation is posted indicating that the citation is being contested before the Review Commission, and such notice may explain the reasons for such contest. The employer may also indicate that specified steps have been taken to abate the violation.
+
+(d) Any employer failing to comply with the provisions of paragraphs (a) and (b) of this section shall be subject to citation and penalty in accordance with § 1903.15(d).
+
+[36 FR 17850, Sept. 4, 1971, as amended at 81 FR 43453, July 1, 2016]

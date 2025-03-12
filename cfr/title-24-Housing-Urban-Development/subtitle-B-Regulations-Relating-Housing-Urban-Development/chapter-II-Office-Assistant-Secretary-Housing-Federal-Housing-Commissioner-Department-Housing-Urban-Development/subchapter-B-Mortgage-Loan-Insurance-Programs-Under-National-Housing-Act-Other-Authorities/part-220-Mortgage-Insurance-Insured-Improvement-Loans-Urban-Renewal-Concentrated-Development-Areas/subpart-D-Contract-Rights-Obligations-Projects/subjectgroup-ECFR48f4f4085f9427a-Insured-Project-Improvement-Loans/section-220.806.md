@@ -1,0 +1,3 @@
+##### § 220.806 Pro rata refund of insurance premium. #####
+
+Upon termination of loan insurance contract by a payment in full or by a voluntary termination, the Commissioner shall refund to the lender for the account of the borrower an amount equal to the pro rata portion of the current annual loan insurance premium theretofore paid which is applicable to the portion of the year subsequent to the date of the prepayment or the effective date of the voluntary termination of the contract of insurance.

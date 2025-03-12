@@ -1,0 +1,5 @@
+##### § 1955.42 Exceptions. #####
+
+(a) Within 30 days after service of the decision of the administrative law judge, any party may file with the Secretary written exceptions thereto with supporting reasons. Such exceptions shall refer to the specific findings of fact, conclusions of law, or terms of the rule or order excepted to; and shall suggest corrected findings of fact, conclusions of law, or terms of the rule or order referencing the specific pages of the transcript relevant to the suggestions. Requests for extension of time to file exceptions may be granted if the requests are received by the Secretary no later than 25 days after service of the decision.
+
+(b) If any timely exceptions are filed, the Secretary may set a time for filing any response to the exceptions with supporting reasons. All exceptions and responses thereto shall be served on all the parties.

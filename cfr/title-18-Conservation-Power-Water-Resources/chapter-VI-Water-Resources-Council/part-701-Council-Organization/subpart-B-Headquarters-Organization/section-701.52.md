@@ -1,0 +1,3 @@
+##### § 701.52 Definitions. #####
+
+As used in this part the term *Member* means the Secretary of Agriculture, the Secretary of the Army, the Secretary of Commerce, the Secretary of Energy, the Secretary of Housing and Urban Development, the Secretary of the Interior, the Secretary of Transportation, and the Administrator of the Environmental Protection Agency, or Alternate appointed in accordance with § 701.53(a) when the alternate is acting for one of the above-named.

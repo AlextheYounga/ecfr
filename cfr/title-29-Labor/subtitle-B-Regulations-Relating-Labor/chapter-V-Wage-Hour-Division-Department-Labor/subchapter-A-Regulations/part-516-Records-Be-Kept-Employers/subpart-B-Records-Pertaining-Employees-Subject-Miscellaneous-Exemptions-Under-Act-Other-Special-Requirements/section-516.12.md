@@ -1,0 +1,3 @@
+##### § 516.12 Employees exempt from overtime pay requirements pursuant to section 13(b) (1), (2), (3), (5), (9), (10), (15), (16), (17), (20), (21), (24), (27), or (28) of the Act. #####
+
+With respect to each employee exempt from the overtime pay requirements of the Act pursuant to the provisions of section 13(b) (1), (2), (3), (5), (9), (10), (15), (16), (17), (20), (21), (24), (27), or (28) of the Act, shall maintain and preserve payroll or other records, containing all the information and data required by § 516.2(a) except paragraphs (a) (6) and (9) and, in addition, information and data regarding the basis on which wages are paid (such as the monetary amount paid, expressed as earnings per hour, per day, per week, etc.).

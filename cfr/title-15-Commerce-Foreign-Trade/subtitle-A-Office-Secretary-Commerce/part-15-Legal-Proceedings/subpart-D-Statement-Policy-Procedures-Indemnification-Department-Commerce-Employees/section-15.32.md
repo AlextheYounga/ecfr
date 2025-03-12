@@ -1,0 +1,15 @@
+##### § 15.32 Procedures for the handling of lawsuits against Department employees arising within the scope of their office or employment. #####
+
+The following procedures shall be followed in the event that a civil action or proceeding is brought, in any court, against a present or former employee of the Department (or against his/her estate) for personal injury, loss of property or death, resulting from the Department employee's activities while acting within the scope of his/her office or employment:
+
+(a) After being served with process or pleadings in such an action or proceeding, the employee (or the executor(rix) or administrator(rix)) of the estate shall within five (5) calendar days of receipt, deliver all such process and pleadings or an attested true copy thereof, together with a fully detailed report of the circumstances of the incident giving rise to the court action or proceeding to the General Counsel. Where appropriate, the General Counsel, or his/her designee, may request that the Department of Justice provide legal representation for the present or former Department employee.
+
+(b)(1) Only if a present or former employee of the Department has satisfied the requirements of paragraph (a) of this section in a timely fashion, may the employee subsequently request indemnification to satisfy a verdict, judgment, or award entered against that employee.
+
+(2) No request for indemnification will be considered unless the employee has submitted a written request, with appropriate documentation, including copies of the verdict, judgment, appeal bond, award, or settlement proposal through the employee's supervisory chain to the head of the employee's component. The written request will include an explanation by the employee of how the employee was working within the scope of employment and whether the employee has insurance or any other source of indemnification.
+
+(3) The head of the component or his/her designee will forward the employee's request with a recommendation to the General Counsel for review. The request for indemnification shall include a detailed analysis of the basis for the recommendation. The head of the component will also certify to the General Counsel that the component has funds available to pay the indemnification.
+
+(c) The General Counsel or his/her designee will review the circumstances of the incident giving rise to the action or proceeding, and all data bearing upon the question of whether the employee was acting within the scope of his/her employment. Where appropriate, the agency shall seek the views of the Department of Justice and/or the U.S. Attorney for the district embracing the place where the action or proceeding is brought.
+
+(d) The General Counsel shall forward the request, the accompanying documentation, and the General Counsel's recommendation to the Secretary or his/her designee for decision.

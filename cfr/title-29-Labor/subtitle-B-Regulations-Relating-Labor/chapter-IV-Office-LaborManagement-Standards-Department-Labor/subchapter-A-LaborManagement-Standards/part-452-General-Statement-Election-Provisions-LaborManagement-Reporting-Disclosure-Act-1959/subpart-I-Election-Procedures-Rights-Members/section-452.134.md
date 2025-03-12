@@ -1,0 +1,3 @@
+##### § 452.134 Preservation of records. #####
+
+The credentials of delegates, and all minutes and other records pertaining to the election of officers at conventions, must be preserved for one year by the officials designated in the constitution and bylaws or by the secretary if no other officer is designated. This requirement applies not only to conventions of national or international labor organizations, but also to representative bodies of intermediate labor organizations.

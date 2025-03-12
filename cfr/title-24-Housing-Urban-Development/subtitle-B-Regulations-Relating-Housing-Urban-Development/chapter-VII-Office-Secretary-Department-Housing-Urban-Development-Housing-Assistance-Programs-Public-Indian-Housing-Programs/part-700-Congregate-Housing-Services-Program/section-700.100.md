@@ -1,0 +1,3 @@
+##### § 700.100 Purpose. #####
+
+The requirements of this part augment the requirements of section 802 of the National Affordable Housing Act of 1990 (approved November 28, 1990, Public Law 101-625) (42 U.S.C. 8011), (hereinafter, section 802), as amended by the Housing and Community Development Act of 1992 (Public Law 102-550, approved October 28, 1992), which authorizes the Congregate Housing Services Program (hereinafter, CHSP or Program).

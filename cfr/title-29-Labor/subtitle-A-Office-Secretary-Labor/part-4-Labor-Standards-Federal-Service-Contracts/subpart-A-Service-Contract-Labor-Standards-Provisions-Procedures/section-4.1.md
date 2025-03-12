@@ -1,0 +1,3 @@
+##### § 4.1 Purpose and scope. #####
+
+This part contains the Department of Labor's rules relating to the administration of the McNamara-O'Hara Service Contract Act of 1965, as amended, referred to hereinafter as the Act. Rules of practice for administrative proceedings under the Act and for the review of wage determinations are contained in parts 6 and 8 of this chapter. See part 1925 of this title for the safety and health standards applicable under the Service Contract Act.

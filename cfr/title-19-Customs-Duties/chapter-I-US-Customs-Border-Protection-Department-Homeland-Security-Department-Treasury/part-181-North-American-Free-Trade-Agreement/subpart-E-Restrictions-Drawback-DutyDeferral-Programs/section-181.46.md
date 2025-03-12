@@ -1,0 +1,7 @@
+##### § 181.46 Time and place for filing drawback claim. #####
+
+(a) *Time of filing.* A drawback claim under this subpart shall be filed or applied for, as applicable, within 3 years after the date of exportation of the goods on which drawback is claimed. No extension will be granted unless it is established that a Customs officer was responsible for the untimely filing. Drawback shall be allowed only if the completed good is exported within 5 years after importation of the merchandise identified or designated to support the claim. A good subject to a claim for same condition drawback must be exported before the close of the 3-year period beginning on the date of importation of the good into the United States.
+
+(b) *Place of filing.* A drawback claim must be filed at the drawback office(s) where the manufacturing drawback contract is on file, whether a general rate or specific rate, but exportation need not occur from that port. To facilitate expedited processing of claims, claimants should file same condition drawback claims in the port where the examination would take place (see § 191.141(b)(3) (ii) and (iii) of this chapter). Customs must be notified at least 2 working days in advance of the intended date of exportation in order to have the opportunity to examine the goods.
+
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11005, Mar. 5, 1998]

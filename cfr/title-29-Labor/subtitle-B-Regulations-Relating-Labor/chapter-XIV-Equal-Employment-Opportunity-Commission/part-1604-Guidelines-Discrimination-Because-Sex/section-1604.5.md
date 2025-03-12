@@ -1,0 +1,3 @@
+##### § 1604.5 Job opportunities advertising. #####
+
+It is a violation of title VII for a help-wanted advertisement to indicate a preference, limitation, specification, or discrimination based on sex unless sex is a bona fide occupational qualification for the particular job involved. The placement of an advertisement in columns classified by publishers on the basis of sex, such as columns headed “Male” or “Female,” will be considered an expression of a preference, limitation, specification, or discrimination based on sex.

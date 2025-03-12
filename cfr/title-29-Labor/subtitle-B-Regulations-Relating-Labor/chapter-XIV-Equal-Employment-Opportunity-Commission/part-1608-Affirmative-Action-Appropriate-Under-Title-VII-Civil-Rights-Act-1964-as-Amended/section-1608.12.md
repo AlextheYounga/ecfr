@@ -1,0 +1,3 @@
+##### § 1608.12 Equal employment opportunity plans adopted pursuant to section 717 of title VII. #####
+
+If adherence to an Equal Employment Opportunity Plan, adopted pursuant to section 717 of title VII, and approved by an appropriate official of the U.S. Civil Service Commission, is the basis of a complaint filed under title VII, or is alleged to be the justification for an action under title VII, these Guidelines will apply in a manner similar to that set forth in § 1608.5. The Commission will issue regulations setting forth the procedure for processing such complaints.

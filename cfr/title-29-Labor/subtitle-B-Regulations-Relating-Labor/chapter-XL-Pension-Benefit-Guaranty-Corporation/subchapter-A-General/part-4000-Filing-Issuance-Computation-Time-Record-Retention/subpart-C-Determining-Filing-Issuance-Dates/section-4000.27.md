@@ -1,0 +1,3 @@
+##### § 4000.27 What if I hand deliver my submission or issuance? #####
+
+Your filing or issuance date is the date of receipt of your hand-delivered submission or issuance at the proper address. A hand-delivered issuance need not be delivered while the intended recipient is physically present. For example, unless you have reason to believe that the intended recipient will not receive the notice within a reasonable amount of time, a notice is deemed to be received when you place it in the intended recipient's office mailbox. Our Web site, *http://www.pbgc.gov,* and the instructions to our forms, identify the proper addresses for filings with us.

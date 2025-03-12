@@ -1,0 +1,3 @@
+##### § 600.1511 Changes or modifications to type-approvals. #####
+
+Type-approval holders must notify NMFS Office of Law Enforcement (OLE) in writing no later than 2 days following modification to or replacement of any functional component or piece of their type-approved EMTU, EMTU-C, or MTU configuration, MCS, or bundle. If the changes are substantial, NMFS OLE will notify the type-approval holder in writing within 60 calendar days that an amended type-approval is required or that NMFS will initiate the type-approval revocation process.

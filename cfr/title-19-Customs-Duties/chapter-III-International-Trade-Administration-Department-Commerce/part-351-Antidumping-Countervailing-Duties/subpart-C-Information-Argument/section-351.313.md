@@ -1,0 +1,5 @@
+##### § 351.313 Attorneys or representatives. #####
+
+*In general.* No register of attorneys or representatives who may practice before the Department is maintained. No application for admission to practice is required. Any person desiring to appear as attorney or representative before the Department may be required to show to the satisfaction of the Secretary his acceptability in that capacity. Any attorney or representative practicing before the Department, or desiring so to practice, may for good cause shown be suspended or barred from practicing before the Department, or have imposed on him such lesser sanctions (e.g., public or private reprimand) as the Secretary deems appropriate, but only after he has been accorded an opportunity to present his views in the matter. The Department will maintain a public register of attorneys and representatives suspended or barred from practice. “Attorney” pursuant to this subpart and “legal counsel” in § 351.303(g) have the same meaning. “Representative” pursuant to this subpart and in § 351.303(g) has the same meaning.
+
+[78 FR 22777, Apr. 17, 2013]

@@ -1,0 +1,13 @@
+##### § 223.204 Tribal plans. #####
+
+(a) *Limits on the prohibitions.* The prohibitions of § 223.203(a) of this subpart relating to threatened species of salmonids listed in § 223.102 do not apply to any activity undertaken by a tribe, tribal member, tribal permittee, tribal employee, or tribal agent in compliance with a tribal resource management plan (Tribal Plan), provided that the Secretary determines that implementation of such Tribal Plan will not appreciably reduce the likelihood of survival and recovery of the listed salmonids. In making that determination the Secretary shall use the best available biological data (including any tribal data and analysis) to determine the Tribal Plan's impact on the biological requirements of the species, and will assess the effect of the Tribal Plan on survival and recovery, consistent with legally enforceable tribal rights and with the Secretary's trust responsibilities to tribes.
+
+(b) *Consideration of a Tribal Plan.* (1) A Tribal Plan may include but is not limited to plans that address fishery harvest, artificial production, research, or water or land management, and may be developed by one tribe or jointly with other tribes. The Secretary will consult on a government-to-government basis with any tribe that so requests and will provide to the maximum extent practicable technical assistance in examining impacts on listed salmonids and other salmonids as tribes develop tribal resource management plans that meet the management responsibilities and needs of the tribes. A Tribal Plan must specify the procedures by which the tribe will enforce its provisions.
+
+(2) Where there exists a Federal court proceeding with continuing jurisdiction over the subject matter of a Tribal Plan, the plan may be developed and implemented within the ongoing Federal Court proceeding. In such circumstances, compliance with the Tribal Plan's terms shall be determined within that Federal Court proceeding.
+
+(3) The Secretary shall seek comment from the public on the Secretary's pending determination whether or not implementation of a Tribal Plan will appreciably reduce the likelihood of survival and recovery of the listed salmonids.
+
+(4) The Secretary shall publish notification in the Federal Register of any determination regarding a Tribal Plan and the basis for that determination.
+
+[65 FR 42485, July 10, 2000. Redesignated at 70 FR 37203, June 28, 2005]

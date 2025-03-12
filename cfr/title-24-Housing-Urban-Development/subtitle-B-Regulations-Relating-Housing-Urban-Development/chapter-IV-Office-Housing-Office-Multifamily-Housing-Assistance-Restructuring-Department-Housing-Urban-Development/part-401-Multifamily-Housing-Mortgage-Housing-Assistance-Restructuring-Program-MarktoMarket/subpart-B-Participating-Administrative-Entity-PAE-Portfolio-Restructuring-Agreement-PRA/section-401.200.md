@@ -1,0 +1,3 @@
+##### § 401.200 Who may be a PAE? #####
+
+A PAE must qualify under the definition in section 512(10) of MAHRA. It must not have any outstanding violations of civil rights laws, determined in accordance with criteria in use by HUD. If the PAE is a private entity, whether nonprofit or for-profit, it must enter into a partnership with a public purpose entity, which may include HUD. A PAE may delegate responsibilities only as agreed in the PRA.

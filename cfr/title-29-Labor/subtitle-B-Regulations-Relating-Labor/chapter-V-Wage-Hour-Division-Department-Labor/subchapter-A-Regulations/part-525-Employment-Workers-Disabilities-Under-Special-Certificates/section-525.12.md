@@ -1,0 +1,43 @@
+##### § 525.12 Terms and conditions of special minimum wage certificates. #####
+
+(a) A special minimum wage certificate shall specify the terms and conditions under which it is granted.
+
+(b) A special minimum wage certificate shall apply to all workers employed by the employer to which the special certificate is granted provided such workers are in fact disabled for the work they are to perform.
+
+(c) A special minimum wage certificate shall be effective for a period to be designated by the Administrator. Workers with disabilities may be paid wages lower than the statutory minimum wage rate set forth in section 6 of FLSA only during the effective period of the certificate.
+
+(d) Workers paid under special minimum wage certificates shall be paid wages commensurate with those paid experienced nondisabled workers employed in the vicinity in which they are employed for essentially the same type, quality, and quantity of work.
+
+(e) Workers with disabilities shall be paid not less than one and one-half times their regular rates of pay for all hours worked in excess of the maximum workweek applicable under section 7 of FLSA.
+
+(f) The wages of all workers paid a special minimum wage under this part shall be adjusted by the employer at periodic intervals at a minimum of once a year to reflect changes in the prevailing wages paid to experienced individuals not disabled for the work to be performed employed in the vicinity for essentially the same type of work.
+
+(g) Each worker with a disability and, where appropriate, a parent or guardian of the worker, shall be informed, orally and in writing, of the terms of the certificate under which such worker is employed. This requirement may be satisfied by making copies of the certificate available. Where a worker with disabilities displays an understanding of the terms of a certificate and requests that other parties not be informed, it is not necessary to inform a parent or guardian.
+
+(h) In establishing piece rates for workers with disabilities, the following criteria shall be used:
+
+(1) Industrial work measurement methods such as stop watch time studies, predetermined time systems, standard data, or other measurement methods (hereinafter referred to as “work measurement methods”) shall be used by the employer to establish standard production rates of workers not disabled for the work to be performed. The Department will accept the use of whatever method an employer chooses to use. However, the employer has the responsibility of demonstrating that a particular method is generally accepted by industrial engineers and has been properly executed. No specific training or certification will be required. Where work measurement methods have already been applied by another employer or source, and documentation exists to show that the methods used are the same, it is not necessary to repeat these methods to establish production standards.
+
+(i) The piece rates shall be based on the standard production rates (number of units an experienced worker not disabled for the work is expected to produce per hour) and the prevailing industry wage rate paid experienced nondisabled workers in the vicinity for essentially the same type and quality of work or for work requiring similar skill. (Prevailing industry wage rate divided by the standard number of units per hour equals the piece rate.).
+
+(ii) Piece rates shall not be less than the prevailing piece rates paid experienced workers not disabled for the work doing the same or similar work in the vicinity when such piece rates exist and can be compared with the actual employment situations of the workers with disabilities.
+
+(2) Any work measurement method used to establish piece rates shall be verifiable through the use of established industrial work measurement techniques.
+
+(i) If stop watch time studies are made, they shall be made with a person or persons whose productivity represents normal or near normal performance. If their productivity does not represent normal or near normal performance, adjustments of performance shall be made. Such adjustments, sometimes called “performance rating” or “leveling” shall be made only by a person knowledgeable in this technique, as evidenced by successful completion of training in this area. The persons observed should be given time to practice the work to be performed in order to provide them with an opportunity to overcome the initial learning curve. The persons observed shall be trained to use the specific work method and tools which are available to workers with disabilities employed under special minimum wage certificates.
+
+(ii) Appropriate time shall be allowed for personal time, fatigue, and unavoidable delays. Generally, not less than 15% allowances (9-10 minutes per hour) shall be used in conducting time studies.
+
+(iii) Work measurements shall be conducted using the same work method that will be utilized by the workers with disabilities. When modifications such as jigs or fixtures are made to production methods to accommodate special needs of individual workers with disabilities, additional work measurements need not be conducted where the modifications enable the workers with disabilities to perform the work or increase productivity but would impede a worker without disabilities. Where workers with disabilities do not have a method available to them, as for example where an adequate number of machines are not available, a second work measurement should be conducted.
+
+(i) Each worker with a disability employed on a piece rate basis should be paid full earnings. Employers may “pool” earnings only where piece rates cannot be established for each individual worker. An example of this situation is a team production operation where each worker's individual contribution to the finished product cannot be determined separately. However, in such situations, the employer should make every effort to objectively divide the earnings according to the productivity level of each individual worker.
+
+(j) The following terms shall be met for workers with disabilities employed at hourly rates:
+
+(1) Hourly rates shall be based upon the prevailing hourly wage rates paid to experienced workers not disabled for the job doing essentially the same type of work and using similar methods or equipment in the vicinity. (See also § 525.10.)
+
+(2) An initial evaluation of a worker's productivity shall be made within the first month after employment begins in order to determine the worker's commensurate wage rate. The results of the evaluation shall be recorded and the worker's wages shall be adjusted accordingly no later than the first complete pay period following the initial evaluation. Each worker is entitled to commensurate wages for all hours worked. Where the wages paid to the worker during pay periods prior to the initial evaluation were less than the commensurate wage indicated by the evaluation, the employer must compensate the worker for any such difference unless it can be demonstrated that the initial payments reflected the commensurate wage due at that time.
+
+(3) Upon completion of not more than six months of employment, a review shall be made with respect to the quantity and quality of work of each hourly-rated worker with a disability as compared to that of nondisabled workers engaged in similar work or work requiring similar skills and the findings shall be recorded. The worker's productivity shall then be reviewed and the findings recorded at least every 6 months thereafter. A review and recording of productivity shall also be made after a worker changes jobs and at least every 6 months thereafter. The worker's wages shall be adjusted accordingly no later than the first complete pay period following each review. Conducting reviews at six-month intervals should be viewed as a minimum requirement since workers with disabilities are entitled to commensurate wages for all hours worked. Reviews must be conducted in a manner and frequency to insure payment of commensurate wages. For example, evaluations should not be conducted before a worker has had an opportunity to become familiar with the job or at a time when the worker is fatigued or subject to conditions that result in less than normal productivity.
+
+(4) Each review should contain, as a minimum and in addition to the data cited above, the following: name of the individual being reviewed; date and time of the review; and, name and position of the individual doing the review.

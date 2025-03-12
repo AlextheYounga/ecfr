@@ -1,0 +1,5 @@
+##### § 3282.308 State participation in monitoring of primary inspection agencies. #####
+
+(a) An SAA may provide personnel to participate in joint team monitoring of primary inspection agencies as set out in subpart J. If an SAA wishes to do so, it must include in its State plan a list of what personnel would be supplied for the teams, their qualifications, and how many person-years the State would supply. All personnel will be subject to approval by the Secretary or the Secretary's agent. A person-year is 2,080 hours of work.
+
+(b) If an SAA wishes to monitor the performance of primary inspection agencies acting within the State, it must include in its State plan a description of how extensively, how often, and by whom this will be carried out. This monitoring shall be coordinated by the Secretary, or the Secretary's agent with monitoring carried out by joint monitoring teams, and in no event shall an SAA provide monitoring where the State is also acting as a primary inspection agency.

@@ -1,0 +1,3 @@
+##### § 780.204 Number of employees engaged in operations not material. #####
+
+The fact that the employer employs fewer than a certain number of employees in forestry and lumbering operations does not provide a basis for their being considered as agricultural employees. This is to be distinguished from the exemption provided by section 13(a)(13) (discussed in part 788 of this chapter) which is limited to employers employing not more than eight employees in the forestry or logging operations described therein.

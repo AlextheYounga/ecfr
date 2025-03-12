@@ -1,0 +1,9 @@
+##### § 930.95 Guidance provided by the State agency. #####
+
+(a) State agencies should include within the management program a listing of specific types of federal assistance programs subject to a consistency review. Such a listing, and any amendments, will require prior State agency consultation with affected Federal agencies and approval by the Director as a program change.
+
+(b) In the event the State agency chooses to review applications for federal assistance activities outside of the coastal zone but with reasonably foreseeable coastal effects, the State agency shall develop a federal assistance provision within the management program generally describing the geographic area (e.g., coastal floodplains) within which federal assistance activities will be subject to review. This provision, and any refinements, will require prior State agency consultation with affected Federal agencies and approval by the Director as a program change. Listed activities may have different geographic location descriptions, depending on the nature of the activity and its effects on any coastal use or resource. For example, the geographic location for activities affecting water resources or uses could be described by shared water bodies, river basins, boundaries defined under the coastal nonpoint pollution control program, or other ecologically identifiable areas.
+
+(c) The State agency shall provide copies of any federal assistance list or geographic provision, and any refinements, to Federal agencies and units of applicant agencies empowered to undertake federally assisted activities within the coastal zone or described geographic area.
+
+(d) For review of unlisted federal assistance activities, the State agency shall follow the same procedures as it would follow for review of listed federal assistance activities outside of the coastal zone or the described geographic area. (*See* § 930.98.)

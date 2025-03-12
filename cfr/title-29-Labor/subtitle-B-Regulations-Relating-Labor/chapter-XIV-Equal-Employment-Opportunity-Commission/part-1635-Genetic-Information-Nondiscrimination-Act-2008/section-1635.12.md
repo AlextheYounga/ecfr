@@ -1,0 +1,7 @@
+##### § 1635.12 Medical information that is not genetic information. #####
+
+(a) *Medical information about a manifested disease, disorder, or pathological condition.* (1) A covered entity shall not be considered to be in violation of this part based on the use, acquisition, or disclosure of medical information that is not genetic information about a manifested disease, disorder, or pathological condition of an employee or member, even if the disease, disorder, or pathological condition has or may have a genetic basis or component.
+
+(2) Notwithstanding paragraph (a)(1) of this section, the acquisition, use, and disclosure of medical information that is not genetic information about a manifested disease, disorder, or pathological condition is subject to applicable limitations under sections 103(d)(1)-(4) of the Americans with Disabilities Act (42 U.S.C. 12112(d)(1)-(4)), and regulations at 29 CFR 1630.13, 1630.14, and 1630.16.
+
+(b) *Genetic information related to a manifested disease, disorder, or pathological condition.* Notwithstanding paragraph (a) of this section, genetic information about a manifested disease, disorder, or pathological condition is subject to the requirements and prohibitions in sections 202 through 206 of GINA and §§ 1635.4 through 1635.9 of this part.

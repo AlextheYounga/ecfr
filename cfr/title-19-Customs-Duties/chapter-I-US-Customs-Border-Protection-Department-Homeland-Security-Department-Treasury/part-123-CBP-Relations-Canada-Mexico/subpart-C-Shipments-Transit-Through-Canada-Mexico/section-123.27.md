@@ -1,0 +1,3 @@
+##### § 123.27 Feeding and watering animals in Canada. #####
+
+If animals in sealed conveyances or compartments cannot be fed and watered in Canada without breaking customs seals, the seals shall be broken and the animals fed and watered under the supervision of a United States or Canadian Customs officer. The supervising officer shall reseal the conveyance or compartment, and make notation as to the resealing on the manifest.

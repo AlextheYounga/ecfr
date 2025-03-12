@@ -1,0 +1,3 @@
+##### § 964.12 HUD policy on the Tenant Opportunities Program (TOP). #####
+
+HUD promotes TOP programs to support activities that enable residents to improve the quality of life and resident satisfaction, and obtain other social and economic benefits for residents and their families. Tenant opportunity programs are proven to be effective in facilitating economic uplift, as well as in improving the overall conditions of the public housing communities.

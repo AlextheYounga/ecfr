@@ -1,0 +1,3 @@
+##### § 230.2 Identification of Standard Reference Materials. #####
+
+The SRM's are listed by category in SP 260 and by sequential number in the supplements. The number uniquely identifies a particular SRM. Renewals are indicated by the addition of a letter to the original number. Thus, 11a is the first, 11b the second, and 11c the third renewal of SRM 11, Basic Open-Hearth Steel, 0.2 percent carbon. In this way, a particular number or number and letter always represent a material of fixed or approximately fixed composition.

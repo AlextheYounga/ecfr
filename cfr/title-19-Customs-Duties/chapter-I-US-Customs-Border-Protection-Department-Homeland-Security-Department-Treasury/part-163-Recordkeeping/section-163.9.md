@@ -1,0 +1,3 @@
+##### § 163.9 Enforcement of summons. #####
+
+Whenever a person does not comply with a Customs summons, the issuing officer may request the appropriate U.S. attorney to seek an order requiring compliance from the U.S. district court for the district in which the person is found or resides or is doing business. A person who is entitled to notice under § 163.8(a) shall have a right to intervene in any such enforcement proceeding.

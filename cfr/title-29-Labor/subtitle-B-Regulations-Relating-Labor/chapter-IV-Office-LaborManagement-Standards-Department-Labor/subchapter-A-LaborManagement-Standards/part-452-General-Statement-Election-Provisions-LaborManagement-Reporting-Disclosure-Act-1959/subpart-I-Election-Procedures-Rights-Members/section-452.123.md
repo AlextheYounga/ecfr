@@ -1,0 +1,3 @@
+##### § 452.123 Elections of intermediate body officers. #####
+
+Section 401(d) states that officers of intermediate bodies shall be elected either by secret ballot among the members in good standing or by labor organization officers representative of such members who have been elected by secret ballot. The phrase “officers representative of such members” includes delegates who have been elected by secret ballot to represent labor organizations in intermediate bodies. Such delegates may therefore participate in the election of officers of intermediate bodies regardless of whether they are characterized as officers of the labor organization they represent.

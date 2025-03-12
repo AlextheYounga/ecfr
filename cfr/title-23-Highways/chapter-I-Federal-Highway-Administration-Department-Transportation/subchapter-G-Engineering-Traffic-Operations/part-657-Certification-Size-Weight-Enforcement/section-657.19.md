@@ -1,0 +1,5 @@
+##### § 657.19 Effect of failure to certify or to enforce State laws adequately. #####
+
+If a State fails to certify as required by this regulation or if the Secretary determines that a State is not adequately enforcing all State laws respecting maximum vehicle sizes and weights on the Interstate System and those routes which, prior to October 1, 1991, were designated as part of the Federal-aid primary, Federal-aid secondary or Federal-aid urban systems, notwithstanding the State's certification, the Federal-aid funds for the National Highway System apportioned to the State for the next fiscal year shall be reduced by an amount equal to 10 percent of the amount which would otherwise be apportioned to the State under 23 U.S.C. 104, and/or by the amount required pursuant to 23 U.S.C. 127.
+
+[72 FR 7747, Feb. 20, 2007]

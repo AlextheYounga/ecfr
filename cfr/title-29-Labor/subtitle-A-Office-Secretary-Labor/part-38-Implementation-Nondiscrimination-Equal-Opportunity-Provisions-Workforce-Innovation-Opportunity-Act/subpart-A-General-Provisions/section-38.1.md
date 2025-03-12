@@ -1,0 +1,3 @@
+##### § 38.1 Purpose. #####
+
+The purpose of this part is to implement the nondiscrimination and equal opportunity provisions of the Workforce Innovation and Opportunity Act (WIOA), which are contained in section 188 of WIOA (29 U.S.C. 3248). Section 188 prohibits discrimination on the basis of race, color, religion, sex, national origin, age, disability, or political affiliation or belief, or, for beneficiaries, applicants, and participants only, on the basis of citizenship status or participation in a WIOA Title I-financially assisted program or activity. This part clarifies the application of the nondiscrimination and equal opportunity provisions of WIOA and provides uniform procedures for implementing them.

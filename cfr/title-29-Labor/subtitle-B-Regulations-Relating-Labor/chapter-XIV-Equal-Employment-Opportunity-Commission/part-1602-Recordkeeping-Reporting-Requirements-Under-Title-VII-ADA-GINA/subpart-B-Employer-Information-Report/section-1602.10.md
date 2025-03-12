@@ -1,0 +1,5 @@
+##### § 1602.10 Employer's exemption from reporting requirements. #####
+
+If an employer claims that the preparation or filing of the report would create undue hardship, the employer may apply to the Commission for an exemption from the requirements set forth in this part, according to instruction 5. If an employer is engaged in activities for which the reporting unit criteria described in section 5 of the instructions are not readily adaptable, special reporting procedures may be required. If an employer seeks to change the date for filing its Standard Form 100 or seeks to change the period for which data are reported, an alternative reporting date or period may be permitted. In such instances, the employer should so advise the Commission by submitting to the Commission or its delegate a specific written proposal for an alternative reporting system prior to the date on which the report is due.
+
+[56 FR 35755, July 26, 1991]

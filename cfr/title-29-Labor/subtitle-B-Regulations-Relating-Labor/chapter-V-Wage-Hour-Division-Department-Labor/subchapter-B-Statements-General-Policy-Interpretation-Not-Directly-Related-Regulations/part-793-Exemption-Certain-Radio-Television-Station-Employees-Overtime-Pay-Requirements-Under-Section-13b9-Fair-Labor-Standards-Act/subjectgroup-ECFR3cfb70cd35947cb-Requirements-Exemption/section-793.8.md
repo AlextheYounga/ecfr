@@ -1,0 +1,3 @@
+##### § 793.8 “News editor.” #####
+
+A news editor is an employee who gathers, edits and rewrites the news. He may also select and prepare news items for broadcast and present the news on the air. An employee who is primarily engaged in the above duties and in activities which are an integral part thereof will be considered to be employed as a news editor within the meaning of the exemption in section 13(b)(9).

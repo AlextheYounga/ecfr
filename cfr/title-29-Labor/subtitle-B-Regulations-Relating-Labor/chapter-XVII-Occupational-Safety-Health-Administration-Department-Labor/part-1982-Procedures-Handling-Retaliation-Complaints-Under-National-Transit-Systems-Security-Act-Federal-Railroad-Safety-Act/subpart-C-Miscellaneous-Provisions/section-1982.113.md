@@ -1,0 +1,5 @@
+##### § 1982.113 Judicial enforcement. #####
+
+(a) Whenever any person has failed to comply with a preliminary order of reinstatement, or a final order, including one approving a settlement agreement, issued under NTSSA, the Secretary may file a civil action seeking enforcement of the order in the United States district court for the district in which the violation was found to have occurred. Whenever any person has failed to comply with a preliminary order of reinstatement, or a final order, including one approving a settlement agreement, issued under NTSSA, a person on whose behalf the order was issued may file a civil action seeking enforcement of the order in the appropriate United States district court.
+
+(b) Whenever a person has failed to comply with a preliminary order of reinstatement, or a final order, including one approving a settlement agreement, issued under FRSA, the Secretary may file a civil action seeking enforcement of the order in the United States district court for the district in which the violation was found to have occurred.

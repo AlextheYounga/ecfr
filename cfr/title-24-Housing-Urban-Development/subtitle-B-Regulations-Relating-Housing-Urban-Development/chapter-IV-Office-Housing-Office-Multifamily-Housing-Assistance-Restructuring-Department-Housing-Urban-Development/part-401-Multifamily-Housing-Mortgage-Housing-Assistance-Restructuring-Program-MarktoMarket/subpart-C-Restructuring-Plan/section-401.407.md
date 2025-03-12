@@ -1,0 +1,3 @@
+##### § 401.407 Closing conducted by PAE. #####
+
+After the owner has executed the Restructuring Commitment, the PAE must arrange for a closing to execute all documents necessary for implementation of the Restructuring Plan. The PAE must use standard documents approved by HUD, with modifications only as necessary to comply with applicable State or local laws, or such other modifications as are approved in writing by HUD.

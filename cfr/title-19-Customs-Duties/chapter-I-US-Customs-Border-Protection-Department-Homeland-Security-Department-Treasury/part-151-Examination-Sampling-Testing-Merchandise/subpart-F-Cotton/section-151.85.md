@@ -1,0 +1,5 @@
+##### § 151.85 Importer's request for redetermination. #####
+
+Link to an amendment published at 81 FR 93022, December 20, 2016.
+
+If the importer is dissatisfied with the port director's determination, he may file with the port director, within 14 calendar days after the mailing of the notice, a written request in duplicate for a redetermination of the staple length. Each such request shall include a statement of the claimed staple length for the cotton in question and a clear statement of the basis for the claim. The request shall be granted if it appears to the port director to be made in good faith. In making the redetermination of staple length, the port director may obtain an opinion of a board of cotton examiners from the U.S. Department of Agriculture, if he deems such action advisable. All expenses occasioned by any redetermination of staple length, exclusive of the compensation of Customs officers, shall be reimbursed to the Government by the importer.

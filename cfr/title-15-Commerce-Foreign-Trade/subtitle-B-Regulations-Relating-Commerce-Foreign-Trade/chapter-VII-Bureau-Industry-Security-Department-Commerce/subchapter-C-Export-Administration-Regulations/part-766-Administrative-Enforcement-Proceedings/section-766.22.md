@@ -1,0 +1,11 @@
+##### § 766.22 Review by Under Secretary. #####
+
+(a) *Recommended decision.* For proceedings not involving violations relating to part 760 of the EAR, the administrative law judge shall immediately refer the recommended decision and order to the Under Secretary. Because of the time limits provided under the EAA for review by the Under Secretary, service of the recommended decision and order on the parties, all papers filed by the parties in response, and the final decision of the Under Secretary must be by personal delivery, facsimile, express mail or other overnight carrier. If the Under Secretary cannot act on a recommended decision and order for any reason, the Under Secretary will designate another Department of Commerce official to receive and act on the recommendation.
+
+(b) *Submissions by parties.* Parties shall have 12 days from the date of issuance of the recommended decision and order in which to submit simultaneous responses. Parties thereafter shall have eight days from receipt of any response(s) in which to submit replies. Any response or reply must be received within the time specified by the Under Secretary.
+
+(c) *Final decision.* Within 30 days after receipt of the recommended decision and order, the Under Secretary shall issue a written order affirming, modifying or vacating the recommended decision and order of the administrative law judge. If he/she vacates the recommended decision and order, the Under Secretary may refer the case back to the administrative law judge for further proceedings. Because of the time limits, the Under Secretary's review will ordinarily be limited to the written record for decision, including the transcript of any hearing, and any submissions by the parties concerning the recommended decision.
+
+(d) *Delivery.* The final decision and implementing order shall be served on the parties and will be publicly available in accordance with § 766.20 of this part.
+
+[61 FR 12907, Mar. 25, 1996, as amended at 75 FR 33683, June 15, 2010]

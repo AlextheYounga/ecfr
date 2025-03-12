@@ -1,0 +1,3 @@
+##### § 135.7 Delegation of authority. #####
+
+Except as may be otherwise provided in this part, the functions and responsibilities of the Secretary under section 3, and described in this part, are delegated to the Assistant Secretary for Fair Housing and Equal Opportunity. The Assistant Secretary is further authorized to redelegate functions and responsibilities to other employees of HUD; *provided however,* that the authority to issue rules and regulations under this part, which authority is delegated to the Assistant Secretary, may not be redelegated by the Assistant Secretary.

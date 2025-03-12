@@ -1,0 +1,5 @@
+##### § 669.21 Procedure for evaluating state compliance. #####
+
+The FHWA shall periodically review the State's procedures for complying with 23 U.S.C. 141(c), including an inspection of supporting documentation and records. In those States where a branch office of the State, a local jurisdiction, or a private entity is providing services to register motor vehicles including vehicles subject to HVUT, the State shall be responsible for ensuring that these entities comply with the requirements of this part concerning the collection and retention of evidence of payment of the HVUT as a condition of registration for vehicles subject to such tax and develop adequate procedures to maintain such compliance. The State or other responsible entity shall retain a copy of the receipted IRS Schedule 1 (Form 2290), or an acceptable substitute prescribed by 26 CFR part 41 sec. 41.6001-2 for a period of 1 year for purposes of evaluating State compliance with 23 U.S.C. 141(c) by the FHWA. The State may develop a software system to maintain copies or images of this proof-of-payment.
+
+[75 FR 43409, July 26, 2010]

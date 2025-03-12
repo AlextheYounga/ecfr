@@ -1,0 +1,3 @@
+##### § 350.11 Notice of Attachment for Ginnie Mae Securities in Book-entry System. #####
+
+The interest of a debtor in a Security Entitlement may be reached by a creditor only by legal process upon the Securities Intermediary with whom the debtor's securities account is maintained, except where a Security Entitlement is maintained in the name of a secured party, in which case the debtor's interest may be reached by legal process upon the secured party. These regulations do not purport to establish whether a Federal Reserve Bank as Depository is required to honor an order or other notice of attachment in any particular case or class of cases.

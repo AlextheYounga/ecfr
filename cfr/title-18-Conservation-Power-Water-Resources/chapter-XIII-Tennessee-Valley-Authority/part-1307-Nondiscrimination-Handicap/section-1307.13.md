@@ -1,0 +1,7 @@
+##### § 1307.13 Effect on other regulations; supervision and coordination. #####
+
+(a) *Effect on other regulations.* Nothing in this part shall be deemed to supersede or affect any of the following (including future amendments thereof): (1) Regulations by TVA and other Federal agencies issued with respect to section 503 of the Rehabilitation Act of 1973, or (2) any other regulations or instructions, insofar as they prohibit discrimination on the ground of handicap in any program or activity or situation to which this part is inapplicable, or which prohibit discrimination on any other ground.
+
+(b) *Supervison and coordination.* TVA may from time to time assign to officials of other Federal agencies, with the consent of such agencies, responsibilities in connection with the effectuation of the purposes of section 504 and this part (other than responsibility for final decision as provided in § 1307.12), including the achievement of effective coordination and maximum uniformity within the Executive Branch of the government in the application of section 504 and this part to similar programs or activities and in similar situations. Any action taken, determination made, or requirement imposed by an official of another federal agency acting pursuant to an assignment of responsibility under this part shall have the same effect as though such action had been taken by TVA.
+
+[45 FR 22895, Apr. 26, 1980, as amended at 68 FR 51356, Apr. 4, 2003]

@@ -1,0 +1,5 @@
+##### § 41.12 Qualifications of accountants. #####
+
+The Commission will not recognize any certified public accountant or public accountant through December 31, 1975, who is not in fact independent. Beginning January 1, 1976, and each year thereafter, the Commission will recognize only independent certified public accountants, or independent licensed public accountants who were licensed on or before December 31, 1970, who are in fact independent. For example, an accountant will not be considered independent with respect to any person or any of its parents or subsidiaries in whom he has, or had during the period of report, any direct financial interest. The Commission will determine the fact of independence by considering all the relevant circumstances including evidence bearing on the relationships between the accountant and that person or any affiliate thereof.
+
+[Order 462, 37 FR 26006, Dec. 7, 1972]

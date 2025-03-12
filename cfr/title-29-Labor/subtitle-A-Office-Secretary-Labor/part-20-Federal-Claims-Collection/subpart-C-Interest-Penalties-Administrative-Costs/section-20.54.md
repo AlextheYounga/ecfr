@@ -1,0 +1,3 @@
+##### § 20.54 Notification of charges. #####
+
+The agency head (or designee) responsible for carrying out the provisions of this subpart shall mail or hand-deliver an initial demand for payment to the debtor. In the initial demand, the debtor shall be notified that interest on the debt will start to accrue from the date on which the notice is mailed or hand-delivered, but that payment of interest will be waived if the debt is paid by the due date, or within 30 days of the date of notice, if no due date is specified. The initial demand shall also state that administrative costs of recovering the delinquent debt will be assessed if payment is not received by the due date.

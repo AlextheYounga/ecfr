@@ -1,0 +1,5 @@
+##### § 37.2 Purpose. #####
+
+(a) The purpose of this part is to ensure that potential customers of open access transmission service receive access to information that will enable them to obtain transmission service on a non-discriminatory basis from any Transmission Provider. These rules provide standards of conduct and require the Transmission Provider (or its agent) to create and operate an Open Access Same-time Information System (OASIS) that gives all users of the open access transmission system access to the same information.
+
+(b) The OASIS will provide information by electronic means about available transmission capability for point-to-point service and will provide a process for requesting transmission service. OASIS will enable Transmission Providers and Transmission Customers to communicate promptly requests and responses to buy and sell available transmission capacity offered under the Transmission Provider's tariff.

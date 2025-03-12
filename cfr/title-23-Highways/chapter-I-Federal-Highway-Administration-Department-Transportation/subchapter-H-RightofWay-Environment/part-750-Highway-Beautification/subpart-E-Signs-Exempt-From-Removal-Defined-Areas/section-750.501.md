@@ -1,0 +1,3 @@
+##### § 750.501 Purpose. #####
+
+This subpart sets forth the procedures pursuant to which a State may, if it desires, seek an exemption from the acquisition requirements of 23 U.S.C. 131 for signs giving directional information about goods and services in the interest of the traveling public in defined areas which would suffer substantial economic hardship if such signs were removed. This exemption may be granted pursuant to the provisions of 23 U.S.C. 131(o).

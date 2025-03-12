@@ -1,0 +1,7 @@
+##### § 350.11 Action by FEMA Regional Administrator. #####
+
+(a) Upon completion of his or her review, including conduct of the exercise required by § 350.9 and after the public meeting required by § 350.10, the Regional Administrator shall prepare an evaluation of the State plan, including plans for local governments. Such evaluation shall be specific with respect to the plans applicable to each nuclear facility so that findings and determinations can be made by the Deputy Administrator for the National Preparedness Directorate on a site-specific basis.
+
+(b) The Regional Administrator shall evaluate the adequacy of State and local plans and preparedness on the basis of the criteria set forth in § 350.5, and shall report the evaluation with respect to each of the planning standards mentioned therein as such apply to State and local plans and preparedness.
+
+(c) The Regional Administrator shall forward the State plan together with his or her evaluation and other relevant record material to the Deputy Administrator for the National Preparedness Directorate. Relevant record material will include the results of the exercise (i.e., deficiencies noted and corrections made), a summary of the deficiencies identified during the public meeting, recommendations made to the State and commitments made by the State for effecting improvements in its plans and preparedness and actions taken by the State.

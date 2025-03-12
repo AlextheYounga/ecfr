@@ -1,0 +1,3 @@
+##### § 882.409 Contract rents at end of rehabilitation loan term. #####
+
+For a Contract where the initial Contract Rent was based upon a loan term shorter than 15 years, the Contract must provide for reduction of the Contract Rent effective with the rent for the month following the end of the term of the rehabilitation loan. The amount of the reduction will be the monthly cost of amortization of the rehabilitation loan. This reduction should result in a new Contract Rent equal to the base rent established pursuant to § 882.408(c) plus all subsequent adjustments.

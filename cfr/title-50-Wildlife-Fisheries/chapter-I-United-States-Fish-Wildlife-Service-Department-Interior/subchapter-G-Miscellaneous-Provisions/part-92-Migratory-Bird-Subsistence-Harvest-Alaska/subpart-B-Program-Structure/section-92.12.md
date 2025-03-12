@@ -1,0 +1,7 @@
+##### § 92.12 Relationship to the process for developing national hunting regulations for migratory game birds. #####
+
+(a) *Flyway councils.* (1) Proposed annual regulations recommended by the Co-management Council will be submitted to all flyway councils for review and comment. The Council's recommendations must be submitted prior to the SRC's last regular meeting of the calendar year in order to be approved for spring/summer harvest beginning March 11 of the following calendar year.
+
+(2) Alaska Native representatives may be appointed by the Co-management Council to attend meetings of one or more of the four flyway councils to discuss recommended regulations or other proposed management actions.
+
+(b) *Service regulations committee.* Proposed annual regulations recommended by the Co-management Council will be submitted to the Service Regulations Committee for their review and recommendation to the Service Director. Following the Service Director's review and recommendation, the proposals will be forwarded to the Department of Interior for approval. Proposed annual regulations will then be published in the Federal Register for public review and comment, similar to the annual migratory game bird hunting regulations (found in part 20 of this chapter). Final spring/summer regulations for Alaska will be published in the Federal Register in the preceding Fall.

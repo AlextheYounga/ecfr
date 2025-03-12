@@ -1,0 +1,5 @@
+##### § 1003.500 Responsibility for grant administration. #####
+
+(a) One or more tribal departments or authorities, including existing tribal public agencies, may be designated by the chief executive officer of the grantee to undertake activities assisted by this part. A public agency so designated shall be subject to the same requirements as are applicable to subrecipients.
+
+(b) The grantee is responsible for ensuring that ICDBG funds are used in accordance with all program requirements. The use of designated public agencies, subrecipients, or contractors does not relieve the grantee of this responsibility. The grantee is also responsible for determining the adequacy of performance under subrecipient agreements and procurement contracts, and for taking appropriate action when performance problems arise, such as the actions described in § 1003.701.

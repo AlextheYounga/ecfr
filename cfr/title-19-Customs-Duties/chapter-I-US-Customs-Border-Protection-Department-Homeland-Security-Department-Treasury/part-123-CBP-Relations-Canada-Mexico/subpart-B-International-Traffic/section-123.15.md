@@ -1,0 +1,3 @@
+##### § 123.15 Vehicles of foreign origin used between communities of the United States and Canada or Mexico. #####
+
+Vehicles of foreign origin which are used for commercial purposes between adjoining or neighboring communities of the United States and Canada or Mexico, such as delivery, peddlers', and service trucks, or wagons, are subject to duty on first arrival, but may thereafter be admitted without formal entry or the payment of duty so long as they are continuously employed in such service.

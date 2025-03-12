@@ -1,0 +1,3 @@
+##### § 1204.3 Filing of contracts. #####
+
+Section 5, Third, (e) of the Railway Labor Act requires all carriers to file with the National Mediation Board copies of all contracts in effect with organizations representing their employees, covering rates of pay, rules, and working conditions. Several thousand of such contracts are on file in the Board's Washington office and are available for inspection by interested parties.

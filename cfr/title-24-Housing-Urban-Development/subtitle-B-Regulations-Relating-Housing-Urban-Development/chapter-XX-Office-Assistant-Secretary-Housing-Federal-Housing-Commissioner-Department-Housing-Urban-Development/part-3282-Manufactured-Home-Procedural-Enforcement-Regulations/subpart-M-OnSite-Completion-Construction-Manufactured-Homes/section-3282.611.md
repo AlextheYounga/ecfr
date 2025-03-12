@@ -1,0 +1,3 @@
+##### § 3282.611 Compliance with this subpart. #####
+
+If the manufacturer and IPIA, as applicable, complies with the requirements of this section and the home complies with the construction and safety standards for those aspects of construction covered by the DAPIA approval, then HUD will consider a manufacturer or retailer that has permitted a manufactured home approved for on-site completion under this section to be sold, leased, offered for sale or lease, introduced, delivered, or imported to be in compliance with the certification requirements of the Act and the applicable implementing regulations in this part 3282 for those aspects of construction covered by the approval.

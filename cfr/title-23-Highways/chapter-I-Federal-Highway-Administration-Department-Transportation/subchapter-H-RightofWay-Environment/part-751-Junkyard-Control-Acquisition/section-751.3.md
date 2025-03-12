@@ -1,0 +1,3 @@
+##### § 751.3 Applicability. #####
+
+The provisions of this part are applicable to all areas within 1,000 feet of the nearest edge of the right-of-way and visible from the main traveled way of all Federal-aid Primary and Interstate Systems regardless of whether Federal funds participated in the construction thereof, including toll sections of such highways. This part does not apply to the Urban System.

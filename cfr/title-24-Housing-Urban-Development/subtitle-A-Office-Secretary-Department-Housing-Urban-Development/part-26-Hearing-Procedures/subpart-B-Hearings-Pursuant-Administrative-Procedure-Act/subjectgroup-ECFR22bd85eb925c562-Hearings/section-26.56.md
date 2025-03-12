@@ -1,0 +1,3 @@
+##### § 26.56 Right to administrative offset. #####
+
+The amount of any penalty or assessment that has become final under § 26.50 or § 26.52, or for which a judgment has been entered after action under § 26.54 or § 26.55, or agreed upon in a compromise or settlement among the parties, may be collected by administrative offset under 31 U.S.C. 3716 or other applicable law. In Program Fraud Civil Remedies Act matters, an administrative offset may not be collected against a refund of an overpayment of federal taxes then or later owing by the United States to the Respondent.

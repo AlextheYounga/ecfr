@@ -1,0 +1,3 @@
+##### § 144.23 Endorsement in blank. #####
+
+If the transferor wishes to do so, he may endorse the withdrawal form to authorize the right to withdraw the merchandise specified thereon but leave the space for the name of the transferee blank. A holder of a withdrawal form so endorsed and otherwise fully executed may insert his own name in the blank space, deposit such form and his transferee's bond with the Customs officer designated to receive such form and bond, and thereby establish his right to withdraw the merchandise.

@@ -1,0 +1,3 @@
+##### § 38.5 General prohibitions on discrimination. #####
+
+No individual in the United States may, on the basis of race, color, religion, sex, national origin, age, disability, or political affiliation or belief, or, for beneficiaries, applicants, and participants only, on the basis of citizenship or participation in any WIOA Title I-financially assisted program or activity, be excluded from participation in, denied the benefits of, subjected to discrimination under, or denied employment in the administration of or in connection with any WIOA Title I-financially assisted program or activity.

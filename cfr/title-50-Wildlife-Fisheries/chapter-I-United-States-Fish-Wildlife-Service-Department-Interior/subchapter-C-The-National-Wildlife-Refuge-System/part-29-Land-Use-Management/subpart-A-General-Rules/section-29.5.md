@@ -1,0 +1,3 @@
+##### § 29.5 Fees. #####
+
+Fees and charges for the grant of privileges on wildlife refuge areas and for the sale of products taken therefrom, where not otherwise prescribed by law or regulation, shall be set at a rate commensurate with fees and charges for similar privileges and products made by private land owners in the vicinity or in accordance with their local value. Fees or rates of charge for products and privileges may be based either on a monetary exchange or on a share in kind of the resource or product.

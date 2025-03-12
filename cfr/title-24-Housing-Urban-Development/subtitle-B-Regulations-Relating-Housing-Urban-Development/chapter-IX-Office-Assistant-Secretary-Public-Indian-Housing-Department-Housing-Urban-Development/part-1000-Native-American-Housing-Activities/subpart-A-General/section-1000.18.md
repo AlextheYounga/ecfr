@@ -1,0 +1,3 @@
+##### § 1000.18 What environmental review requirements apply? #####
+
+The environmental effects of each activity carried out with assistance under this part must be evaluated in accordance with the provisions of the National Environmental Policy Act of 1969 (NEPA) (42 U.S.C. 4321) and the related authorities listed in HUD's implementing regulations at 24 CFR parts 50 and 58. An environmental review does not have to be completed prior to HUD approval of an IHP.

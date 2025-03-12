@@ -1,0 +1,9 @@
+##### § 162.79 Determination as to violation. #####
+
+(a) *No violation.* If, after considering any presentations made in response to the prepenalty notice, the Fines, Penalties, and Forfeitures Officer determines that there was no violation by the person named in the prepenalty notice, he promptly shall notify the person in writing of that determination and that no claim for a monetary penalty will be issued.
+
+(b) *Violation*—(1) *Written notice of claim.* If, after considering any presentations made in response to the prepenalty notice, the Fines, Penalties, and Forfeitures Officer determines that there was a violation by the person named in the prepenalty notice, he promptly shall issue a written notice of a claim for a monetary penalty to that person.
+
+(2) *Contents.* The notice of a claim for a monetary penalty shall contain any changes in the information provided in the prepenalty notice, and shall inform the person of his right to apply for relief under section 618, Tariff Act of 1930, as amended (19 U.S.C. 1618), in accordance with part 171 of this chapter. If the person to whom the notice is issued is liable for any actual loss of duties recoverable under section 592(d), Tariff Act of 1930, as amended (19 U.S.C. 1592(d)), the notice shall identify the entries involved, state the amount of duties payable and how it was calculated, and require the person to deposit or arrange for payment of the duties within 30 days of the date of the notice.
+
+[T.D. 72-211, 37 FR 16488, Aug. 15, 1972, as amended by T.D. 84-18, 49 FR 1680, Jan. 13, 1984; T.D. 99-27, 64 FR 13676, Mar. 22, 1999]

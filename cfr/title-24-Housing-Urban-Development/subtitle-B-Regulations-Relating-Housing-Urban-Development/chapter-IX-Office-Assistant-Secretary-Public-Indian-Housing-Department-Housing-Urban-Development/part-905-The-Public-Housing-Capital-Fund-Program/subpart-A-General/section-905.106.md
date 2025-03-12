@@ -1,0 +1,3 @@
+##### § 905.106 Compliance. #####
+
+PHAs or owner/management entities or their partners are required to comply with all applicable provisions of this part. Execution of the CF ACC Amendment, submissions required by this part, and disbursement of Capital Fund grants from HUD are individually and collectively deemed to be the PHA's certification that it is in compliance with the provisions of this part and all other Public Housing Program Requirements. Noncompliance with any provision of this part or other applicable requirements may subject the PHA and/or its partners to sanctions contained in § 905.804 of this part.

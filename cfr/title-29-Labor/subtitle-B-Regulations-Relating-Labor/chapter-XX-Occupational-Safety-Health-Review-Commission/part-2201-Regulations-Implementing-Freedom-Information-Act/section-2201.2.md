@@ -1,0 +1,3 @@
+##### § 2201.2 Description of agency. #####
+
+OSHRC adjudicates contested enforcement actions under the Occupational Safety and Health Act of 1970, 29 U.S.C. 651-678. The Commission decides cases after the parties are given an opportunity for a hearing. All hearings are open to the public and are conducted at a place convenient to the parties by an Administrative Law Judge. Any Commissioner may direct that a decision of a Judge be reviewed by the full Commission. The President designates one of the Commissioners as Chairman, who is responsible on behalf of the Commission for the administrative operations of the Commission.

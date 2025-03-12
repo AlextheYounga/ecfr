@@ -1,0 +1,5 @@
+##### § 148.14 Family declarations. #####
+
+A family group residing in one household, traveling together, and having the same residence status may be permitted to declare orally articles acquired abroad for the personal or household use of any member of the family if the value of such articles does not exceed the total amount of the exemption to which the family group is entitled. (See § 148.34.) Where a written declaration is required, one member of a family group may declare for all. “A family group residing in one household” means persons who are related by blood, marriage, domestic relationship (as defined in § 148.34(c)), or adoption. Individuals who are employed by the household but not related by blood, marriage, domestic relationship, or adoption will not be included in the family declaration.
+
+[T.D. 73-27, 38 FR 2449, Jan. 26, 1973, as amended by CBP Dec, 13-19, 78 FR 76532, Dec. 18, 2013]

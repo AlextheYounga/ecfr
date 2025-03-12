@@ -1,0 +1,9 @@
+##### § 15.1 What is the scope and purpose of this part? #####
+
+(a) The regulations in this part provide procedures to be followed for claims asserted against the Department of Labor under the Federal Tort Claims Act, 28 U.S.C. 2671, *et seq.,* under the Military Personnel and Civilian Employees' Claims Act of 1964, 31 U.S.C. 3721, and for claims arising out of the operation of Job Corps Centers under the Workforce Investment Act of 1998, 29 U.S.C. 2897(b).
+
+(b) Subpart B of this part provides the procedures followed in processing claims asserted under the Federal Tort Claims Act, as amended, for money damages against the United States for injury to or loss of property or personal injury or death caused by the negligent or wrongful act or omission of an officer or employee of the Department of Labor while acting within the scope of his or her office or employment. This subpart is issued subject to and consistent with applicable regulations on administrative claims under the Federal Tort Claims Act issued by the Attorney General (28 CFR part 14).
+
+(c) Subpart C of this part provides the procedures for processing claims filed by or on behalf of employees of the Department of Labor for loss of or damage to personal property incident to their service with the Department under the Military Personnel and Civilian Employees' Claims Act of 1964.
+
+(d) Subpart D of this part provides the procedures used in processing claims relating to damage to persons or property arising out of the operation of Job Corps, pursuant to the Workforce Investment Act, including damages under the Federal Tort Claims Act, damage to personal property of Job Corps students, and claims which the Secretary of Labor finds to be a proper charge against the United States but which are not cognizable under the Federal Tort Claims Act.

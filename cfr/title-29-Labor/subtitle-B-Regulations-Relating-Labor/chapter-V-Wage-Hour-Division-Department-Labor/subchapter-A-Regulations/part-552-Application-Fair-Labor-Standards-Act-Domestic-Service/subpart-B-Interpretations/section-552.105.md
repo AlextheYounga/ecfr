@@ -1,0 +1,7 @@
+##### § 552.105 Individuals performing babysitting services in their own homes. #####
+
+(a) It is clear from the legislative history that the Act's new coverage of domestic service employees is limited to those persons who perform such services in or about the private household of the employer. Accordingly, if such services are performed away from the employer's permanent, or temporary household there is no coverage under sections 6(f) and 7(l) of the Act. A typical example would be an individual who cares for the children of others in her own home. This type of operation, however, could, depending on the particular facts, qualify as a preschool or day care center and thus be covered under section 3(s)(1)(B) of the Act in which case the person providing the service would be required to comply with the applicable provisions of the Act.
+
+(b) An individual in a local neighborhood who takes four or five children into his or her home, which is operated as a day care home, and who does not have more than one employee or whose only employees are members of that individual's immediate family is not covered by the Fair Labor Standards Act.
+
+[40 FR 7405, Feb. 20, 1975, as amended at 60 FR 46768, Sept. 8, 1995]

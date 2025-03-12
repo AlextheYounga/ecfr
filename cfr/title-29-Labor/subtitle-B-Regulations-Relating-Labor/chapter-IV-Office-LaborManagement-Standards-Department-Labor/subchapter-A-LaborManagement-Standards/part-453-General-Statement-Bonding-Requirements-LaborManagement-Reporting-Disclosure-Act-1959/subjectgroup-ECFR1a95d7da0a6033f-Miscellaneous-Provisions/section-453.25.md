@@ -1,0 +1,3 @@
+##### § 453.25 Effective date of the bonding requirement. #####
+
+While the bonding provision in section 502(a) became effective on September 14, 1959, its requirement for obtaining bonds does not become applicable to a labor organization or a trust in which a labor organization is interested, or to the personnel of any such organization, until the subsequent date when such organization's next fiscal year begins. This is so because the Act requires each such bond to be fixed at the beginning of the organization's fiscal year in an amount based on funds handled in the preceding fiscal year, and it could not well have been intended that the obtaining of a bond would be necessary in advance of the time when it would be possible to meet this requirement.

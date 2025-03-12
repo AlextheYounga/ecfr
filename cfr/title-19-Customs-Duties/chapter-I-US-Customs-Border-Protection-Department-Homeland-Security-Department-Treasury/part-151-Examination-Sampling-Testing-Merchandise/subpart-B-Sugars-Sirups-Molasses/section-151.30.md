@@ -1,0 +1,3 @@
+##### § 151.30 Sugar closets. #####
+
+Sugar closets for samples shall be substantially built and secured by locks furnished by Customs. They shall be conveniently located as near as possible to the points of discharge they are intended to serve. They shall be provided by the owner of the premises on which they are located and shall be so situated that sugar, sirup, and molasses stored therein shall not be subjected to extremes of temperature or humidity.

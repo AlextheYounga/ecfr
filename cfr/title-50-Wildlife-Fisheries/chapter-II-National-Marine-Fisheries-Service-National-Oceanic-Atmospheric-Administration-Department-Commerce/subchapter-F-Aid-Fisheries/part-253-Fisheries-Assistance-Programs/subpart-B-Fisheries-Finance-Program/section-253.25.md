@@ -1,0 +1,11 @@
+##### § 253.25 Other administrative requirements. #####
+
+(a) *Debt Collection Act.* In accordance with the provisions of the Debt Collection Improvement Act of 1996, a person may not obtain any Federal financial assistance in the form of a loan (other than a disaster loan) or loan guarantee if the person has an outstanding debt (other than a debt under the Internal Revenue Code of 1986) with any Federal agency which is in a delinquent status, as determined under standards prescribed by the Secretary of the Treasury.
+
+(b) *Certifications.* Applicants must submit a completed Form CD-511, “Certifications Regarding Debarment, Suspension and Other Responsibility Matters; Drug-Free Workplace Requirements and Lobbying,” or its equivalent or successor form, if any.
+
+(c) *Taxpayer identification.* An applicant classified for tax purposes as an individual, limited liability company, partnership, proprietorship, corporation, or legal entity is required to submit along with the application a taxpayer identification number (TIN) (social security number, employer identification number as applicable, or registered foreign organization number). Recipients who either fail to provide their TIN or provide an incorrect TIN may have application processing or funding suspended until the requirement is met.
+
+(d) *Audit inquiry.* An audit of a Program loan may be conducted at any time. Auditors, selected at the discretion of the Program or other agency of the United States, shall have access to any and all books, documents, papers and records of the obligor or any other party to a financing that the auditor(s) deem(s) pertinent, whether written, printed, recorded, produced or reproduced by any mechanical, magnetic or other process or medium.
+
+(e) *Paperwork Reduction Act.* The application requirements contained in these rules have been approved under OMB control number 0648-0012. The applications for the halibut/sablefish QS crew member eligibility certificate have been approved under OMB control number 0648-0272. Notwithstanding any other provisions of law, no person is required to respond to, nor shall any person be subject to a penalty for failure to comply with, a collection of information subject to the requirements of the Paperwork Reduction Act unless that collection of information displays a currently valid OMB control number.

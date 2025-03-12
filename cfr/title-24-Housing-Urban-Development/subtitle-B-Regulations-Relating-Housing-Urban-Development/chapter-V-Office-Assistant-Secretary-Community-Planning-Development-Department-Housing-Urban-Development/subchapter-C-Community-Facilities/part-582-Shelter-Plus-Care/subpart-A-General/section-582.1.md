@@ -1,0 +1,7 @@
+##### § 582.1 Purpose and scope. #####
+
+(a) *General.* The Shelter Plus Care program (S+C) is authorized by title IV, subtitle F, of the Stewart B. McKinney Homeless Assistance Act (the McKinney Act) (42 U.S.C. 11403-11407b). S+C is designed to link rental assistance to supportive services for hard-to-serve homeless persons with disabilities (primarily those who are seriously mentally ill; have chronic problems with alcohol, drugs, or both; or have acquired immunodeficiency syndrome (AIDS) and related diseases) and their families. The program provides grants to be used for rental assistance for permanent housing for homeless persons with disabilities. Rental assistance grants must be matched in the aggregate by supportive services that are equal in value to the amount of rental assistance and appropriate to the needs of the population to be served. Recipients are chosen on a competitive basis nationwide.
+
+(b) *Components.* Rental assistance is provided through four components described in § 582.100. Applicants may apply for assistance under any one of the four components, or a combination.
+
+[58 FR 13892, Mar. 15, 1993, as amended at 61 FR 51169, Sept. 30, 1996; 80 FR 75804, Dec. 4, 2015]

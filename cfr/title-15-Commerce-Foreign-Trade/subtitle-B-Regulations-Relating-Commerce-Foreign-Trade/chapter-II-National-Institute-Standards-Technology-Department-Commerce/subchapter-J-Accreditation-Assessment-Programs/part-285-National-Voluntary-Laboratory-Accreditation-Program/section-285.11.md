@@ -1,0 +1,3 @@
+##### § 285.11 Changes to scope of accreditation. #####
+
+A laboratory may request in writing changes to its Scope of Accreditation. If the laboratory requests additions to its Scope, it must meet all NVLAP criteria for the additional tests or calibrations, types of tests or calibrations, or standards. The need for an additional on-site assessment and/or proficiency testing will be determined on a case-by-case basis.

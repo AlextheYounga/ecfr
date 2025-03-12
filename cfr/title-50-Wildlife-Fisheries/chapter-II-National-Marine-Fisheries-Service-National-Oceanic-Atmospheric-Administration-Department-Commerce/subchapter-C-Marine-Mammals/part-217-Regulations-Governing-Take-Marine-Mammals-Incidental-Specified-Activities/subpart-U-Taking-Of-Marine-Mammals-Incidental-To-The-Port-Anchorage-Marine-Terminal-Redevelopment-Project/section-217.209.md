@@ -1,0 +1,5 @@
+##### § 217.209 Modifications of Letters of Authorization. #####
+
+(a) Except as provided in paragraph (b) of this section, no substantive modification (including withdrawal or suspension) to the Letter of Authorization by NMFS, issued pursuant to § 216.106 of this chapter and § 217.207 and subject to the provisions of this subpart, shall be made until after notification and an opportunity for public comment has been provided. For purposes of this paragraph, a renewal of a Letter of Authorization under § 217.208, without modification (except for the period of validity), is not considered a substantive modification.
+
+(b) If the Assistant Administrator determines that an emergency exists that poses a significant risk to the well-being of the species or stocks of marine mammals specified in § 217.202(b), a Letter of Authorization issued pursuant to § 216.106 of this chapter and § 217.207 may be substantively modified without prior notification and an opportunity for public comment. Notification will be published in the Federal Register within 30 days subsequent to the action.

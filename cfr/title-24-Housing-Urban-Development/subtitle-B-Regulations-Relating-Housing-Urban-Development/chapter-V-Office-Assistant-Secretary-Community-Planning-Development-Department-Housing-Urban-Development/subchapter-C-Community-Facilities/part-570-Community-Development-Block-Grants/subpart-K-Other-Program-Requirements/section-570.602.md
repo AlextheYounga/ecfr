@@ -1,0 +1,5 @@
+##### § 570.602 Section 109 of the Act. #####
+
+Section 109 of the Act requires that no person in the United States shall on the grounds of race, color, national origin, religion, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program or activity receiving Federal financial assistance made available pursuant to the Act. Section 109 also directs that the prohibitions against discrimination on the basis of age under the Age Discrimination Act and the prohibitions against discrimination on the basis of disability under Section 504 shall apply to programs or activities receiving Federal financial assistance under Title I programs. The policies and procedures necessary to ensure enforcement of section 109 are codified in 24 CFR part 6.
+
+[64 FR 3802, Jan. 25, 1999]

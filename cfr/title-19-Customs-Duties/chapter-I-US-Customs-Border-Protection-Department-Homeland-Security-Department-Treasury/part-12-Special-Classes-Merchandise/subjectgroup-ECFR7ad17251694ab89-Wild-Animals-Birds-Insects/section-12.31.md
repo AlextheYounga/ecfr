@@ -1,0 +1,5 @@
+##### § 12.31 Plant pests. #####
+
+The importation in a live state of insects which are injurious to cultivated crops, including vegetables, field crops, bush fruits, and orchard, forest or shade trees, and of the eggs, pupae, or larvae of such insects, except for scientific purposes under regulations prescribed by the Secretary of Agriculture, is prohibited. All packages containing live insects or their eggs, pupae, or larvae arriving from abroad, unless accompanied by a permit issued by the Department of Agriculture, shall be detained and submitted to the U.S. Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and Quarantine Programs of that Department for inspection and determination of their admissibility into the United States.
+
+[28 FR 14710, Dec. 31, 1963, as amended by T.D. 78-99, 43 FR 13060, Mar. 29, 1978; T.D. 82-145, 47 FR 35476, Aug. 16, 1982; T.D. 89-1, 53 FR 51253, Dec. 21, 1988]

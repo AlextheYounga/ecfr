@@ -1,0 +1,3 @@
+##### § 402.3 Addition of commodities to the Positive List. #####
+
+Order T-1 applies to the transportation or discharge of commodities which are restricted at the time of transportation or discharge. Accordingly, if a commodity is added to the Positive List while the commodity is being transported on an American flag ship or aircraft, the restrictions of Order T-1 immediately apply and the commodity may not be transported to or discharged at any of the restricted ports or discharged in transit to one of the restricted ports, unless authorization under Order T-1 is obtained.

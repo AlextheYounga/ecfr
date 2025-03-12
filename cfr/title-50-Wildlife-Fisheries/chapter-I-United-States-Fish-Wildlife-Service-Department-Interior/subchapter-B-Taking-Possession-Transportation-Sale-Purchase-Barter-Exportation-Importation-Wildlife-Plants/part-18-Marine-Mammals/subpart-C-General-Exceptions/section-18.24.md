@@ -1,0 +1,3 @@
+##### § 18.24 Taking incidental to commercial fishing operations. #####
+
+Persons may take marine mammals incidental to commercial fishing operations until October 21, 1974: *Provided,* That such taking is by means of equipment and techniques prescribed in regulations issued by the Secretary of Commerce. However, any marine mammal taken as an incidental catch may not be retained. It shall be the immediate goal that the incidental kill or incidental serious injury of marine mammals permitted in the course of commercial fishing operations be reduced to insignificant levels approaching a zero mortality and serious injury rate.

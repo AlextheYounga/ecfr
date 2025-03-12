@@ -1,0 +1,3 @@
+##### § 779.264 Excise taxes separately stated. #####
+
+A tax is separately stated where it clearly appears that it has been added to the sales price as a separate, identifiable amount, even though there was no invoice or sales slip. In the absence of a sales slip or invoice, the amount of the tax may either be separately stated orally at the time of sale, or visually by means of a poster or other sign reasonable designed to inform the purchaser that the amount of the tax, either as a stated sum per unit or measured by the gross amount of the sale, or as a percentage of the price, is included in the sales price. A sign on a gasoline pump indicating in cents per gallon the amount of State and Federal highway fuel excise taxes is an example of “separately stated” taxes.

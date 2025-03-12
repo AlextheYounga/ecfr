@@ -1,0 +1,3 @@
+##### § 706.410 Confidentiality of statements. #####
+
+Each statement of employment and financial interests, and each supplementary statement, shall be held in confidence and retained in limited access files of the reviewing official. The use of information on the statements shall be limited to that necessary to carry out the purposes of this part. Information from a statement or a supplementary statement shall not be disclosed except by decision of the Director for good cause shown: *Provided,* That information from a statement or a supplementary statement of the Director shall not be disclosed except by decision of the Chairman for good cause shown.

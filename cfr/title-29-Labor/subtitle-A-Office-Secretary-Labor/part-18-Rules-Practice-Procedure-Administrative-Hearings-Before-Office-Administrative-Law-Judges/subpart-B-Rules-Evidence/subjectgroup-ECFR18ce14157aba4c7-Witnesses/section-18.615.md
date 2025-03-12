@@ -1,0 +1,3 @@
+##### § 18.615 Exclusion of witnesses. #####
+
+At the request of a party the judge shall order witnesses excluded so that they cannot hear the testimony of other witnesses, and the judge may make the order of the judge's own motion. This rule does not authorize exclusion of a party who is a natural person, or an officer or employee of a party which is not a natural person designated as its representative by its attorney, or a person whose presence is shown by a party to be essential to the presentation of the party's cause.

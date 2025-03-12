@@ -1,0 +1,13 @@
+##### § 162.22 Seizure of conveyances. #####
+
+(a) *General applicability.* If it shall appear to any officer authorized to board conveyances and make seizures that there has been a violation of any law of the United States whereby a vessel, vehicle, aircraft, or other conveyance, or any merchandise on board of or imported by such vessel, vehicle, aircraft, or other conveyance is liable to forfeiture, the officer shall seize such conveyance and arrest any person engaged in such violation. Common carriers are exempted from seizure except under certain specified conditions as provided for in section 594, Tariff Act of 1930 (19 U.S.C. 1594) and section 274(b)(1) of the Immigration and Nationality Act (8 U.S.C. 1324(b)(1)).
+
+(b) *Facilitating importation contrary to law.* Except as provided in § 171.52(b), every vessel, vehicle, animal, aircraft, or other thing, which is being or has been used in, or to aid or facilitate, the importation, bringing in, unlading, landing, removal, concealing, harboring or subsequent transportation of any article which is being, or has been introduced or attempted to be introduced into the United States contrary to law, shall be seized and held subject to forfeiture. Any person who directs, assists financially or otherwise, or is in any way concerned in any such unlawful activity shall be liable to a penalty equal to the value of the article or articles involved.
+
+(c) *Common carrier clearance.* Unless specifically authorized by law, clearance of vessels within the common carrier exception of section 594, Tariff Act of 1930 (19 U.S.C. 1594), shall not be refused for the purpose of collecting a fine imposed upon the master or owner, unless either of them was a party to the illegal act. The Government's remedy in such cases is limited to an action against the master or owner.
+
+(d) *Maritime Administration vessels; exemption from penalty.* (1) When a vessel owned or chartered under bareboat charter by the Maritime Administration and operated for its account becomes liable for the payment of a penalty incurred for violation of the Customs revenue or navigation laws, clearance of the vessel shall not be withheld nor shall any proceedings be taken against the vessel itself looking to the enforcement of such liability.
+
+(2) This exemption shall not in any way be considered to relieve the master of any such vessel or other person incurring such penalties from personal liability for payment.
+
+[T.D. 72-211, 37 FR 16488, Aug. 15, 1972, as amended by T.D. 89-86, 54 FR 37602, Sept. 11, 1989; USCBP-2006-0122, 73 FR 9012, Feb. 19, 2008]

@@ -1,0 +1,7 @@
+##### § 990.15 Considerations to facilitate restoration. #####
+
+In addition to the procedures provided in subparts D through F of this part, trustees may take other actions to further the goal of expediting restoration of injured natural resources and services, including:
+
+(a) *Pre-incident planning.* Trustees may engage in pre-incident planning activities. Pre-incident plans may identify natural resource damage assessment teams, establish trustee notification systems, identify support services, identify natural resources and services at risk, identify area and regional response agencies and officials, identify available baseline information, establish data management systems, and identify assessment funding issues and options. Potentially responsible parties, as well as all other members of the public interested in and capable of participating in assessments, should be included in pre-incident planning to the fullest extent practicable.
+
+(b) *Regional Restoration Plans.* Where practicable, incident-specific restoration plan development is preferred, however, trustees may develop Regional Restoration Plans. These plans may be used to support a claim under § 990.56 of this part. Regional restoration planning may consist of compiling databases that identify, on a regional or watershed basis, or otherwise as appropriate, existing, planned, or proposed restoration projects that may provide appropriate restoration alternatives for consideration in the context of specific incidents.

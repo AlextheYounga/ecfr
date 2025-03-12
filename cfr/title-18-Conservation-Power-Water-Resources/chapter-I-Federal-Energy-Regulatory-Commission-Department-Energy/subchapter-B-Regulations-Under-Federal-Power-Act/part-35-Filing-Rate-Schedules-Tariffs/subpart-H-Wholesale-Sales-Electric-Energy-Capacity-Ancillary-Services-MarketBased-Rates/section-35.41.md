@@ -1,0 +1,11 @@
+##### § 35.41 Market behavior rules. #####
+
+(a) *Unit operation.* Where a Seller participates in a Commission-approved organized market, Seller must operate and schedule generating facilities, undertake maintenance, declare outages, and commit or otherwise bid supply in a manner that complies with the Commission-approved rules and regulations of the applicable market. A Seller is not required to bid or supply electric energy or other electricity products unless such requirement is a part of a separate Commission-approved tariff or is a requirement applicable to Seller through Seller's participation in a Commission-approved organized market.
+
+(b) *Communications.* A Seller must provide accurate and factual information and not submit false or misleading information, or omit material information, in any communication with the Commission, Commission-approved market monitors, Commission-approved regional transmission organizations, Commission-approved independent system operators, or jurisdictional transmission providers, unless Seller exercises due diligence to prevent such occurrences.
+
+(c) *Price reporting.* To the extent a Seller engages in reporting of transactions to publishers of electric or natural gas price indices, Seller must provide accurate and factual information, and not knowingly submit false or misleading information or omit material information to any such publisher, by reporting its transactions in a manner consistent with the procedures set forth in the *Policy Statement on Natural Gas and Electric Price Indices,* issued by the Commission in Docket No. PL03-3-000, and any clarifications thereto. Seller must identify as part of its Electric Quarterly Report filing requirement in § 35.10b of this chapter the publishers of electricity and natural gas indices to which it reports its transactions. In addition, Seller must adhere to any other standards and requirements for price reporting as the Commission may order.
+
+(d) *Records retention.* A Seller must retain, for a period of five years, all data and information upon which it billed the prices it charged for the electric energy or electric energy products it sold pursuant to Seller's market-based rate tariff, and the prices it reported for use in price indices.
+
+[Order 697, 72 FR 40038, July 20, 2007, as amended by Order 768, 77 FR 61924, Oct. 11, 2012]

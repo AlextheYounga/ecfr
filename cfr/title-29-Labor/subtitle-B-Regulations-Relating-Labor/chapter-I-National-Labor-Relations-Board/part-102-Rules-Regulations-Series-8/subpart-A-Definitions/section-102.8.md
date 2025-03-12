@@ -1,0 +1,3 @@
+##### § 102.8 Party. #####
+
+The term *party* as used herein shall mean the regional director in whose region the proceeding is pending and any person named or admitted as a party, or properly seeking and entitled as of right to be admitted as a party, in any Board proceeding, including, without limitation, any person filing a charge or petition under the act, any person named as respondent, as employer, or as party to a contract in any proceeding under the act, and any labor organization alleged to be dominated, assisted, or supported in violation of section 8(a)(1) or 8(a)(2) of the Act; but nothing herein shall be construed to prevent the Board or its designated agent from limiting any party to participate in the proceedings to the extent of his interest only.

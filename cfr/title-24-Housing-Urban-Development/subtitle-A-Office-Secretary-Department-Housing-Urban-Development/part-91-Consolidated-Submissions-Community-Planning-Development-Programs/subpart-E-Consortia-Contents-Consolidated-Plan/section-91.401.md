@@ -1,0 +1,3 @@
+##### § 91.401 Citizen participation plan. #####
+
+The consortium must have a citizen participation plan that complies with the requirements of § 91.105. If the consortium contains one or more CDBG entitlement communities, the consortium's citizen participation plan must provide for citizen participation within each CDBG entitlement community, either by the consortium or by the CDBG entitlement community, in a manner sufficient for the CDBG entitlement community to certify that it is following a citizen participation plan.

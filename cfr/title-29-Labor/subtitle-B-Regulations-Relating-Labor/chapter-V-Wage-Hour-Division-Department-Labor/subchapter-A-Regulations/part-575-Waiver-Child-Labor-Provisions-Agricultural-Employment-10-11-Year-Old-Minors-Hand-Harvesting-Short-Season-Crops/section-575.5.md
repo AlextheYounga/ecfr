@@ -1,0 +1,27 @@
+##### § 575.5 Supporting data to accompany application. #####
+
+Objective data, as required by section 13(c)(4) of the Act, shall also be submitted by the employer or group of employers applying for a waiver, to show that:
+
+(a) The crop to be harvested is one with a “particularly short harvesting season.” The variety of each crop to be harvested must ordinarily be harvested within 4 weeks in the region in which the waiver will be applicable. The Administrator will accept the written statement to that effect from the agricultural extension agent for the county.
+
+(b) The 12-year minimum age prescribed by the Act for such employment would cause “severe economic disruption in the industry of the employer or group of employers applying for the waiver.” Severe economic disruption in the industry refers to the consequences of not meeting a compelling need for the employment of 10- and 11-year olds to avoid loss of a significant portion of the crop. Evidence of this need includes the projected number of laborers needed to harvest the acreage planted and evidence that recruitment requirements specified in paragraph (e) of this section have been complied with. Data concerning the number of hand harvest laborers used in previous years for given acreages will serve as a basis for evaluating needs for the current year. If the requisite number of workers cannot be recruited from the labor supply of 12 years and above, this would ordinarily demonstrate the compelling need for the employment of 10 and 11 year olds.
+
+(c) The employment of minors under the waiver “would not be deleterious to their health or well-being.” This refers to the prospective effect on the health or well-being generally (*i.e.*, other than the tolerance level of pesticides or other chemicals) of 10 and 11 year-old hand harvesters. The Administrator will accept signed statements to that effect from doctors, or nurses or public health officials in the region.
+
+(d) The “level and type of pesticides and other chemicals used would not have an adverse effect on the health or well-being of” minors employed under the waiver. The safe reentry standards established by the Environmental Protection Agency, and followed by other Federal and State agencies, were established for adult workers and have not been shown to be safe for 10 and 11 year olds. Therefore, the applicant, in order to satisfy this condition, will either have to submit a statement that no pesticides or other chemicals were used on the crop to be harvested or submit data which upon study by the Secretary or the Secretary's designee establishes a safe reentry times for 10 and 11 year olds. If such data, or additional studies conducted by the Secretary or the Secretary's designee, establish safe reentry standards for 10 and 11 year olds, this section will be amended to include such standards and the applicant will then need only identify the type and level of pesticides or chemicals used and the date of last application of same prior to harvest.
+
+(e) Individuals age 12 and above are not available for such employment. Evidence of such unavailability must be documented by the applicant by:
+
+(1) Placement of intrastate and interstate job orders, in which the piece rate is specified, with the state employment service sufficiently in advance of the harvest to allow reasonable time for the recruitment of local and migrant workers. An interstate order need not be placed if the applicant can demonstrate that suitable housing is not available.
+
+(2) Placement of at least two advertisements in local papers of general circulation or advertisements over local radio stations.
+
+(3) Contact with farm labor contractors, migrant workers, and other potential workers.
+
+(4) Contact with schools, business and labor organizations, non-profit organizations and public agencies to enlist their help. Data showing the responses received to these solicitations must be categorized by age and submitted with the waiver application to verify that older workers are not available to perform the work.
+
+(f) The “industry of such employer or groups of employers has traditionally and substantially employed individuals under twelve years of age without displacing substantial job opportunities for individuals over sixteen years of age.” Documentation that the industry has traditionally and substantially employed individuals under 12 years of age may include newspaper reports, magazine articles, research organization reports, or other appropriate sources. Data to indicate that such employment did not displace substantial job opportunities for individuals over 16 years of age may include the signed statement of an appropriate official of the employment service agency of the State (or States, if region designated crosses State lines) certifying to that fact. This certification must be based on statistical documentation for at least the previous year.
+
+(g) When supporting data required by this section are submitted by an employer or group of employers, the objective data required by paragraph (d) of this section shall be submitted on the basis of each individual employer. However, objective data required by paragraphs (a), (b), (c), (e), and (f) of this section may be submitted for the specific geographic area, e.g., an entire county, of the employer or group of employers.
+
+[43 FR 26562, June 21, 1978; 43 FR 28471, June 30, 1978, as amended at 44 FR 22061, Apr. 13, 1979; 44 FR 24059, Apr. 24, 1979; 44 FR 29049, May 18, 1979; 45 FR 55177, Aug. 19, 1980]

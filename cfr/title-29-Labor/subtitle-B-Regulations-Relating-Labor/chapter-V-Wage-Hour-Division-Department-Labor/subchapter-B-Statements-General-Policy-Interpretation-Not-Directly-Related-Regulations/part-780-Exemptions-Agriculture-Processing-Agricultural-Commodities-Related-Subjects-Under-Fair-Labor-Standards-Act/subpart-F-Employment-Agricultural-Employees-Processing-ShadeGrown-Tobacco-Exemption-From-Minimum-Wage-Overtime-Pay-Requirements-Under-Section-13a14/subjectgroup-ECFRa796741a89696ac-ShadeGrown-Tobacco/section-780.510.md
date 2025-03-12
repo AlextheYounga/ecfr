@@ -1,0 +1,3 @@
+##### § 780.510 “Any agricultural employee.” #####
+
+The section 13(a)(14) exemption applies to “any agricultural employee” who is employed in the specified activities. The term “any agricultural employee” includes not only agricultural employees of the tobacco grower but also such employees of other farmers or independent contractors. “Any agricultural employee” employed in the growing and harvesting of shade-grown tobacco will qualify for exemption if he engages in the specified processing operations. The use of the word “agricultural” before “employee” makes it apparent that separate consideration must be given to whether an employee is an “agricultural employee” and to whether he is employed in the specified “growing and harvesting” within the meaning of the Act.

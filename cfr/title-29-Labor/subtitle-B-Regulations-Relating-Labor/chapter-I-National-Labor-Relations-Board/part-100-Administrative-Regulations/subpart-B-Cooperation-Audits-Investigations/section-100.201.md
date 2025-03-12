@@ -1,0 +1,7 @@
+##### § 100.201 Audits and investigations. #####
+
+(a) Employees shall cooperate fully with any audit or investigation conducted by the Office of the Inspector General involving matters that fall within the jurisdiction and authority of the Inspector General, as defined in the Inspector General Act of 1978, as amended, or with any audit or investigation conducted by any Agency official or department, including, but not limited to, the Office of Equal Employment Opportunity, involving matters that relate to or have an effect on the official business of the Agency. Such cooperation shall include, among other things, responding to requests for information, providing statements under oath relating to such audits or investigations, and affording access to Agency records and/or any other Agency materials in an employee's possession.
+
+(b) The obstruction of an audit or investigation, concealment of information, intentional furnishing of false or misleading information, refusal to provide information and/or answer questions, or refusal to provide a statement under oath, by an employee to an auditor or investigator pursuant to any audit or investigation as described in paragraph (a) of this section, may result in disciplinary action against an employee. However, nothing herein shall be construed to deny, abridge, or otherwise restrict the rights, privileges, or other entitlements or protections afforded to Agency employees.
+
+[59 FR 37158, July 21, 1994]

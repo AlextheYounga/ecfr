@@ -1,0 +1,7 @@
+##### § 13.5 Information collection requirements. #####
+
+(a) The Office of Management and Budget approved the information collection requirements contained in this part 13 under 44 U.S.C. and assigned OMB Control Number 1018-0092. The Service may not conduct or sponsor, and you are not required to respond, to a collection of information unless it displays a currently valid OMB control number. We are collecting this information to provide information necessary to evaluate permit applications. We will use this information to review permit applications and make decisions, according to criteria established in various Federal wildlife conservation statutes and regulations, on the issuance, suspension, revocation, or denial permits. You must respond to obtain or retain a permit.
+
+(b) We estimate the public reporting burden for these reporting requirements to vary from 15 minutes to 4 hours per response, with an average of 0.803 hours per response, including time for reviewing instructions, gathering and maintaining data, and completing and reviewing the forms. Direct comments regarding the burden estimate or any other aspect of these reporting requirements to the Service Information Collection Control Officer, MS-222 ARLSQ, U.S. Fish and Wildlife Service, Washington, DC 20240, or the Office of Management and Budget, Paperwork Reduction Project (1018-0092), Washington, DC 20603.
+
+[63 FR 52634, Oct. 1, 1998]

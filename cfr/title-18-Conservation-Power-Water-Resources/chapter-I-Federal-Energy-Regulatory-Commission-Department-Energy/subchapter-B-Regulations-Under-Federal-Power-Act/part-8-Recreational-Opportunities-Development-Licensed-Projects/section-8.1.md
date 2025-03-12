@@ -1,0 +1,5 @@
+##### § 8.1 Publication of license conditions relating to recreation. #####
+
+Following the issuance or amendment of a license, the licensee shall make reasonable efforts to keep the public informed of the availability of project lands and waters for recreational purposes, and of the license conditions of interest to persons who may be interested in the recreational aspects of the project or who may wish to acquire lands in its vicinity. Such efforts shall include but not be limited to: the publication of notice in a local newspaper once each week for 4 weeks of the project's license conditions which relate to public access to and the use of the project waters and lands for recreational purposes, recreational plans, installation of recreation and fish and wildlife facilities, reservoir water surface elevations, minimum water releases or rates of change of water releases and such other conditions of general public interest as the Commission may designate in the order issuing or amending the license.
+
+[Order 299, 30 FR 7313, June 3, 1965]

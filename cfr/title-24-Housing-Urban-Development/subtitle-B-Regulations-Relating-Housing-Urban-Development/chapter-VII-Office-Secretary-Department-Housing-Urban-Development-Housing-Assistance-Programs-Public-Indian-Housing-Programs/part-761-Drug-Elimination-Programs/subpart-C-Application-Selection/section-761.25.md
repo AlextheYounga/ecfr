@@ -1,0 +1,3 @@
+##### § 761.25 Resident comments on grant application. #####
+
+The applicant must provide the residents of developments proposed for funding under this part 761, as well as any RMCs, RCs, or ROs that represent those residents (including any HA-wide RMC, RC, or RO), if applicable, with a reasonable opportunity to comment on its application for funding under these programs. The applicant must give these comments careful consideration in developing its plan and application, as well as in the implementation of funded programs. Grantees must maintain copies of all written comments submitted for three years.

@@ -1,0 +1,3 @@
+##### § 1902.35 Effect of certification. #####
+
+Publication of the certification acknowledging the completion of all of the developmental steps in a State's plan will automatically initiate the evaluation of a State's plan for the purposes of an 18(e) determination. Evaluation for the purposes of an 18(e) determination will continue for at least one year after the publication of the certification in the Federal Register. Federal enforcement authority under sections 5(a)(2), 8, 9, 10, 11(c), 13, and 17 of the Act and Federal standards authority under section 6 of the Act will not be relinquished during the evaluation period. Evaluation conducted for 18(e) determination purposes will be based on the criteria set forth in §§ 1902.37 and 1902.38.

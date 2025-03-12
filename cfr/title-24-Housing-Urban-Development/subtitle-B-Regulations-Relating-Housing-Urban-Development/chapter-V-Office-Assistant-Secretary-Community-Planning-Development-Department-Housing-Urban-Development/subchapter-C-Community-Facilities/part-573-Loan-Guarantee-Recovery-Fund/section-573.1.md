@@ -1,0 +1,3 @@
+##### § 573.1 Authority and purpose. #####
+
+Section 4 of the Church Arson Prevention Act of 1996 (Pub. L. 104-155, approved July 3, 1996) authorizes HUD to guarantee loans made by financial institutions to certain nonprofit organizations to finance activities designed to remedy the damage and destruction to real and personal property caused by acts of arson or terrorism. This part establishes the general procedures and requirements that apply to HUD's guarantee of these loans.

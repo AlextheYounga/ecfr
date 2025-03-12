@@ -1,0 +1,3 @@
+##### § 96.51 Purpose and scope of subpart. #####
+
+This subpart prescribes standards for resolution of audit findings, including, but not limited to, questioned costs and administrative deficiencies, identified as a result of the audit of grant agreements, contracts, and other agreements awarded by or on behalf of DOL. In cases where these standards conflict with statutes or other DOL regulations, the latter shall be controlling. The DOL Office of Inspector General (OIG) is available to assist agencies in the audit resolution process.

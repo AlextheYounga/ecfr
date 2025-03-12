@@ -1,0 +1,3 @@
+##### § 781.4 U.S. Government requests for information needed to satisfy the requirements of the APR or the Act. #####
+
+From time-to-time, one or more U.S. Government agencies (i.e., the Department of Defense, the Department of Energy, the NRC, or BIS) may contact a location to request information that the U.S. Government has determined to be necessary to satisfy certain requirements of the APR or the Act (e.g., clarification requests or vulnerability assessments). If the manner of providing such information is not specified in the APR, the agency in question will provide the location with appropriate instructions.

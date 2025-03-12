@@ -1,0 +1,3 @@
+##### § 38.76 If a recipient fails to issue a Notice of Final Action within 90 days after the complaint was filed. #####
+
+If, by the end of 90 days from the date on which the complainant filed the complaint, the recipient has failed to issue a Notice of Final Action, the complainant or the complainant's representative may file a complaint with the Director within 30 days of the expiration of the 90-day period. In other words, the complaint must be filed with the Director within 120 days of the date on which the complaint was filed with the recipient.

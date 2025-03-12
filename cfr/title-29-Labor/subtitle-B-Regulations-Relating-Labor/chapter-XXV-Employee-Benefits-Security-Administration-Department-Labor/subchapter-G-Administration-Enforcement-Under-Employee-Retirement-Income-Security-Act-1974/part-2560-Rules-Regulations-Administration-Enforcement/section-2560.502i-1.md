@@ -1,0 +1,31 @@
+##### § 2560.502i-1 Civil penalties under section 502(i). #####
+
+(a) *In general.* Section 502(i) of the Employee Retirement Income Security Act of 1974 (ERISA or the Act) permits the Secretary of Labor to assess a civil penalty against a party in interest who engages in a prohibited transaction with respect to an employee benefit plan other than a plan described in section 4975(e)(1) of the Internal Revenue Code (the Code). The initial penalty under section 502(i) is five percent of the total “amount involved” in the prohibited transaction (unless a lesser amount is otherwise agreed to by the parties). However, if the prohibited transaction is not corrected during the “correction period,” the civil penalty shall be 100 percent of the “amount involved” (unless a lesser amount is otherwise agreed to by the parties). Paragraph (b) of this section defines the term “amount involved,” paragraph (c) defines the term “correction,” and paragraph (d) defines the term “correction period.” Paragraph (e) illustrates the computation of the civil penalty under section 502(i). Paragraph (f) is a cross reference to the Department's procedural rules for section 502(i) proceedings.
+
+(b) *Amount involved.* Section 502(i) of ERISA states that the term “amount involved” in that section shall be defined as it is defined under section 4975(f)(4) of the Code. As provided in 26 CFR 141.4975.13, 26 CFR 53.4941(e)-1(b) is controlling with respect to the interpretation of the term “amount involved” under section 4975 of the Code. Accordingly, the Department of Labor will apply the principles set out at 26 CFR 53.4941(e)-1(b) in determining the “amount involved” in a transaction subject to the civil penalty provided by section 502(i) of the Act and this section.
+
+(c) *Correction.* Section 502(i) of ERISA states that the term “correction” shall be defined in a manner that is consistent with the definition of that term under section 4975(f)(5) of the Code. As provided in 26 CFR 141.4975-13, 26 CFR 53.4941(e)-1(c) is controlling with respect to the interpretation of the term “correction” for purposes of section 4975 of the Code. Accordingly, the Department of Labor will apply the principles set out in 26 CFR 53.4941(e)-(1)(c) in interpreting the term “correction” under section 502(i) of the Act and this section.
+
+(d) *Correction period.* (1) In general, the “correction period” begins on the date the prohibited transaction occurs and ends 90 days after a final agency order with respect to such transaction.
+
+(2) When a party in interest seeks judicial review within 90 days of a final agency order in an ERISA section 502(i) proceeding, the correction period will end 90 days after the entry of a final order in the judicial action.
+
+(3) The following examples illustrate the operation of this paragraph:
+
+(i) A party in interest receives notice of the Department's intent to impose the section 502(i) penalty and does not invoke the ERISA section 502(i) prohibited transaction penalty proceedings described in § 2570.1 of this chapter within 30 days of such notice. As provided in § 2570.5 of this chapter, the notice of the intent to impose a penalty becomes a final order after 30 days. Thus, the “correction period” ends 90 days after the expiration of the 30 day period.
+
+(ii) A party in interest contests a proposed section 502(i) penalty, but does not appeal an adverse decision of the administrative law judge in the proceeding. As provided in § 2570.10(a) of this chapter, the decision of the administrative law judge becomes a final order of the Department unless the decision is appealed within 20 days after the date of such order. Thus, the correction period ends 90 days after the expiration of such 20 day period.
+
+(iii) The Secretary of Labor issues to a party in interest a decision upholding an administrative law judge's adverse decision. As provided in § 2570.12(b) of this chapter, the decision of the Secretary becomes a final order of the Department immediately. Thus, the correction period will end 90 days after the issuance of the Secretary's order unless the party in interest judicially contests the order within that 90 day period. If the party in interest so contests the order, the correction period will end 90 days after the entry of a final order in the judicial action.
+
+(e) *Computation of the section 502(i) penalty.* (1) In general, the civil penalty under section 502(i) is determined by applying the applicable percentage (five percent or one hundred percent) to the aggregate amount involved in the transaction. However, a continuing prohibited transaction, such as a lease or a loan, is treated as giving rise to a separate event subject to the sanction for each year (as measured from the anniversary date of the transaction) in which the transaction occurs.
+
+(2) The following examples illustrate the computation of the section 502(i) penalty:
+
+(i) An employee benefit plan purchases property from a party in interest at a price of $10,000. The fair market value of the property is $5,000. The “amount involved” in that transaction, as determined under 26 CFR 53.4941(e)-1(b), is $10,000 (the greater of the amount paid by the plan or the fair market value of the property). The initial five percent penalty under section 502(i) is $500 (five percent of $10,000).
+
+(ii) An employee benefit plan executes a four year lease with a party in interest at an annual rental of $10,000 (which is the fair rental value of the property). The amount involved in each year of that transaction, as determined under 26 CFR 53.4941(e)-1(b), is $10,000. The amount of the initial sanction under ERISA section 502(i) would be a total of $5,000: $2,000 ($10,000 × 5% × 4 with respect to the rentals paid in the first year of the lease); $1,500 ($10,000 × 5% × 3 with respect to the second year); $1,000 ($10,000 × 5% × 2 with respect to the third year); $500 ($10,000 × 5% × 1 with respect to the fourth year).
+
+(f) *Cross reference.* See §§ 2570.1-2570.12 of this chapter for procedural rules relating to section 502(i) penalty proceedings.
+
+[53 FR 37476, Sept. 26, 1988]

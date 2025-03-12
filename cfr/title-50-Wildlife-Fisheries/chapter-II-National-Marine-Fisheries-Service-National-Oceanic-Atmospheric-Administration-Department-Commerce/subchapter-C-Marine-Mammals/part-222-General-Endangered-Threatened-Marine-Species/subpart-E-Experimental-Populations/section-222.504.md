@@ -1,0 +1,7 @@
+##### § 222.504 Interagency cooperation. #####
+
+(a) Any experimental population determined pursuant to paragraph (c) of this section not to be essential to the survival of that species and not occurring within the National Park System or the National Wildlife Refuge System, shall be treated for purposes of section 7 of the Act (other than subsection (a)(1) thereof) as a species proposed to be listed under the Act as a threatened species, and the provisions of section 7(a)(4) of the Act shall apply.
+
+(b) Any experimental population that either has been determined pursuant to paragraph (c) of this section to be essential to the survival of that species, or occurs within the National Park System or the National Wildlife Refuge System as now or hereafter constituted, shall be treated for purposes of section 7 of the Act as a threatened species, and the provisions of section 7(a)(2) of the Act shall apply.
+
+(c) For purposes of section 7 of the Act, any consultation on a proposed Federal action that may affect both an experimental and a nonexperimental population of the same species should consider that species' experimental and nonexperimental populations to constitute a single listed species for the purposes of conducting the analyses under section 7 of the Act.

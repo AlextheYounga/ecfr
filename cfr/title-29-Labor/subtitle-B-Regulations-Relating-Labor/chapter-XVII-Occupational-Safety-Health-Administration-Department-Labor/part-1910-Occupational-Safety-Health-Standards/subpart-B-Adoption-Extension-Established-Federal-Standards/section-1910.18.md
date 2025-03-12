@@ -1,0 +1,3 @@
+##### § 1910.18 Changes in established Federal standards. #####
+
+Whenever an occupational safety and health standard adopted and incorporated by reference in this subpart B is changed pursuant to section 6(b) of the Act and the statute under which the standard was originally promulgated, and in accordance with part 1911 of this chapter, the standard shall be deemed changed for purposes of that statute and this subpart B, and shall apply under this subpart B. For the purposes of this section, a change in a standard includes any amendment, addition, or repeal, in whole or in part, of any standard.

@@ -1,0 +1,3 @@
+##### § 636.305 Can price information be provided to analysts who are reviewing technical proposals? #####
+
+Normally, technical and price proposals are reviewed independently by separate evaluation teams. However, there may be occasions where the same experts needed to review the technical proposals are also needed in the review of the price proposals. This may occur where a limited amount of technical expertise is available to review proposals. Price information may be provided to such technical experts in accordance with your procedures.

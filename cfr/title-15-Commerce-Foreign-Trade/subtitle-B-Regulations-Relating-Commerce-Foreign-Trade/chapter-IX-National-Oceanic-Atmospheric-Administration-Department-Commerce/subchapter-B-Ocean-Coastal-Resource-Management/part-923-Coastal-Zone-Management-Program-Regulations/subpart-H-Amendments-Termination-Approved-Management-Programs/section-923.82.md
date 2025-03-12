@@ -1,0 +1,7 @@
+##### § 923.82 Amendment review/approval procedures. #####
+
+(a) Upon submission by a State of its amendment request, OCRM will review the request to determine preliminarily if the management program, if changed according to the amendment request, still will constitute an approvable program. In making this determination, OCRM will determine whether the state has satisfied the applicable program approvability criteria of subsection 306(d) of the Act.
+
+(b) If the Assistant Administrator, as a preliminary matter, determines that the management program, if changed, would no longer constitute an approvable program, or if any of the procedural requirements of section 306(d) of the Act have not been met, the Assistant Administrator shall advise the state in writing of the reasons why the amendment request cannot be considered.
+
+(c) If the Assistant Administrator, as a preliminary matter, determines that the management program, if changed, would still constitute an approvable program and that the procedural requirements of section 306(d) of the Act have been met, the Assistant Administrator will then determine, pursuant to the National Environmental Policy Act of 1969, as amended, whether an environmental impact statement (EIS) is required.

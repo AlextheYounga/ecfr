@@ -1,0 +1,5 @@
+##### § 385.1403 Petitions seeking institution of rulemaking proceedings (Rule 1404). #####
+
+Any person may file a petition requesting the Commission to institute a proceeding for the purpose of issuing statements, rules, or regulations of general applicability and significance designed to implement or interpret law, or to formulate general policy for future effect. No reply to such a petition may be filed. Whether a proceeding shall be instituted as requested is within the discretion of the Commission and the ruling on the petition will be final. In the event a rulemaking proceeding is instituted by the Commission, the procedure to be employed for the taking of evidence or the receipt of views and comments will be designated by Commission order.
+
+[Order 276, at 49 FR 21705, May 23, 1984. Redesignated by Order 606, 64 FR 44405, Aug. 16, 1999]

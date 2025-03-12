@@ -1,0 +1,3 @@
+##### § 232.865 Election by lender. #####
+
+Where a real estate mortgage, or other security instrument has been used to secure the payment of a loan made under the provisions of this subpart and subpart C of this part, the lender may either elect to assign the loan to the Commissioner in exchange for the payment of insurance benefits or may exercise its rights under the note and security instrument in lieu of making a claim for insurance benefits. If the lender elects the latter course, the Commissioner shall be so notified and the contract of insurance shall be deemed terminated upon the date of receipt of such notification.

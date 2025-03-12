@@ -1,0 +1,3 @@
+##### § 725.1 Authority. #####
+
+This rule is being promulgated pursuant to the Water Resources Planning Act of 1965, section 402, Pub. L. 89-90, 79 Stat. 245 (42 U.S.C. 1962d-1). In addition, Executive Order 11988, *Floodplain Management,* at section 2(d); directs the preparation of procedures implementing its provisions, as does Executive Order 11990, *Protection of Wetlands,* at section 6. Each of these Orders was prepared in furtherance of the National Environmental Policy Act of 1969, as amended (42 U.S.C. 4321 *et seq.*). The floodplain management Order is also based on the National Flood Insurance Act of 1968, as amended (42 U.S.C. 4001 *et seq.*), and the Flood Disaster Protection Act of 1977, as amended (87 Stat. 975).

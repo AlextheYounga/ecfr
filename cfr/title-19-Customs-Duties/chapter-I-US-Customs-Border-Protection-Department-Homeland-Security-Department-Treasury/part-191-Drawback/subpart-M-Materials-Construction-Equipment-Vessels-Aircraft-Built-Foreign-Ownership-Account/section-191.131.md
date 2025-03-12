@@ -1,0 +1,3 @@
+##### § 191.131 Drawback allowance. #####
+
+Section 313(g) of the Act, as amended (19 U.S.C. 1313(g)), provides for drawback on imported materials used in the construction and equipment of vessels and aircraft built for foreign account and ownership, or for the government of any foreign country, notwithstanding that these vessels or aircraft may not be exported within the strict meaning of the term.

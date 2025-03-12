@@ -1,0 +1,9 @@
+##### § 159.58 Dumping and countervailing duties; action by port director. #####
+
+Link to an amendment published at 81 FR 93023, December 20, 2016.
+
+(a) *Antidumping matters.* Upon receipt of notification from the Commissioner, each port director shall suspend liquidation on merchandise entered, or withdrawn from warehouse, for consumption, on or after the date of publication of the “Notice of Preliminary Affirmative Antidumping Determination,” “Notice of Final Affirmative Antidumping Determination” or “Notice of Violation of Agreement” as provided by part 353, chapter III, of this title. Each port director shall immediately notify the importer, consignee, or agent of each entry of merchandise in question with respect to which liquidation is suspended. The notice shall indicate the relevant ascertained and determined or estimated antidumping duty.
+
+(b) *Countervailing matters.* Upon receipt of notification from the Commissioner, each port director shall suspend liquidation on merchandise entered, or withdrawn from warehouse, for consumption, on or after the date of publication of the “Notice of Preliminary Affirmative Countervailing Duty Determination,” “Notice of Final Affirmative Countervailing Duty Determination” or “Notice of Violation of Agreement,” as provided by part 355, Chapter III, of this title. Each port director shall immediately notify the importer, consignee, or agent of each entry of merchandise in question with respect to which liquidation is suspended. The notice shall indicate the relevant ascertained and determined or estimated countervailing duty.
+
+[T.D. 80-271, 45 FR 75642, Nov. 17, 1980]

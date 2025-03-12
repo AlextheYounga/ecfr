@@ -1,0 +1,3 @@
+##### § 11.17 Payment of final assessment. #####
+
+When a final administrative decision becomes effective in accordance with this part 11, the respondent shall have 20 calendar days from the date of the final administrative decision within which to make full payment of the penalty assessed. Payment will be timely only if received in Office of the Director during normal business hours, on or before the 20th day. Upon a failure to pay the penalty, the Solicitor of the Department may request the Attorney General to institute a civil action in the U.S. District Court to collect the penalty.

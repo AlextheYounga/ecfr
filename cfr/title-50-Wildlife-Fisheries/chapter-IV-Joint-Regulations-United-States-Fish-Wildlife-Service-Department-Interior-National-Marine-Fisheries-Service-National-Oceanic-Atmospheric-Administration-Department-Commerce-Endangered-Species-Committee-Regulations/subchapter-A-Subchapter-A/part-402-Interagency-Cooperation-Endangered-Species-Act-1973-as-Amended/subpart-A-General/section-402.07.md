@@ -1,0 +1,3 @@
+##### § 402.07 Designation of lead agency. #####
+
+When a particular action involves more than one Federal agency, the consultation and conference responsibilities may be fulfilled through a lead agency. Factors relevant in determining an appropriate lead agency include the time sequence in which the agencies would become involved, the magnitude of their respective involvement, and their relative expertise with respect to the environmental effects of the action. The Director shall be notified of the designation in writing by the lead agency.

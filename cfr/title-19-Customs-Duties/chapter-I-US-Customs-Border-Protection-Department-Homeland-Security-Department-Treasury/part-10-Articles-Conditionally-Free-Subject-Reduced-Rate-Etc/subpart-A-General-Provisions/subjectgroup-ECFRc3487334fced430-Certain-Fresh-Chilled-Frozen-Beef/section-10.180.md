@@ -1,0 +1,11 @@
+##### § 10.180 Certification. #####
+
+(a) The foreign official's meat-inspection certificate, or its electronic equivalent, required by U.S. Department of Agriculture regulations (9 CFR 327.4) shall be modified to include the certification below when fresh, chilled, or frozen beef is to be entered under the provisions of subheadings 0201.20.10, 0201.30.02, 0202.20.02, 0202.20.10, Harmonized Tariff Schedule of the United States (HTSUS). The certification shall be made, prior to exportation of the beef, by an official of the government of the exporting country and filed with Customs with the entry summary or with the entry when the entry summary is filed at the time of entry. The requirements of this section shall be in addition to those requirements contained in 9 CFR 327.4. Appropriate officials of the exporting country should consult with the U.S. Department of Agriculture as to the beef grades or standards within their country that satisfy the certification requirement. Exporters or importers of beef to be entered under the provisions of subheadings 0201.20.10, 0201.30.02, 0202.20.02, 0202.20.10, HTSUS, should consult with the U.S. Department of Agriculture prior to exportation in order to insure that the beef will satisfy the certification requirements. This certification is relevant only to U.S. Customs tariff classification and is not applicable to marketing of beef under U.S. Department of Agriculture grading standards, a matter within U.S. Department of Agriculture's jurisdiction.
+
+Certification
+
+I hereby certify to the best of my knowledge and belief that the herein described fresh, chilled, or frozen beef, meets the specifications prescribed in regulations issued by the U.S. Department of Agriculture (7 CFR 2853.106 (a) and (b)).
+
+(b) Appropriate officials of the following countries have agreed with the U.S. Department of Agriculture as to the grades or standards for fresh, chilled, or frozen beef within their respective countries which will satisfy the certification requirements of paragraph (a) of this section: Canada.
+
+[T.D. 82-8, 47 FR 945, Jan. 8, 1982, as amended by T.D. 89-1, 53 FR 51252, Dec. 21, 1988; T.D. 97-82, 62 FR 51769, Oct. 3, 1997; CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

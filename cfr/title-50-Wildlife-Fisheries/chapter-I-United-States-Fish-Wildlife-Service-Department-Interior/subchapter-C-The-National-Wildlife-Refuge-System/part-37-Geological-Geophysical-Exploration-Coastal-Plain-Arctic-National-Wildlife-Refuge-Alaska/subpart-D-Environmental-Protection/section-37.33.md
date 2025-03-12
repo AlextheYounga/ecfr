@@ -1,0 +1,3 @@
+##### § 37.33 Environmental briefing. #####
+
+The permittee shall provide opportunities for the Regional Director to conduct environmental and other pertinent briefings for all of its personnel involved in field operations prior to commencement of field work and periodically thereafter as the Regional Director may determine. The permittee shall require the attendance of its personnel and arrange the time and place for such briefings upon the request of the Regional Director. In addition, the permittee shall provide a copy of this part to each employee involved with its exploratory activities.

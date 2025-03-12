@@ -1,0 +1,21 @@
+##### § 312.2 Definitions. #####
+
+Except as otherwise stated, when used in the regulations in this part, the meaning of the listed terms are as follows:
+
+(a) The term *attack* means any attack or series of attacks by an enemy of the United States causing, or which may cause, substantial damage or injury to civilian property or persons in the United States in any manner by sabotage or by use of bombs, shellfire, or atomic-radiological, chemical, bacteriological, or biological means or other weapons or processes;
+
+(b) The term *natural disaster* means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons and, for the purposes of the Act, any explosion, civil disturbance, or any other manmade catastrophe shall be deemed to be a natural disaster;
+
+(c) The term *civil defense* means all those activities and measures designed or undertaken (1) to minimize the effects upon the civilian population caused, or which would be caused, by an attack upon the United States, or by natural disaster, (2) to deal with the immediate emergency conditions which would be created by any such attack, or natural disaster, and (3) to effectuate emergency repairs to, or the emergency restoration of vital utilities and facilities destroyed or damaged by any such attack or natural disaster. Such term shall include, but shall not be limited to, (i) measures to be taken in preparation for anticipated attack or natural disaster (including the establishment of appropriate organizations, operational plans, and supporting agreements; the recruitment and training of personnel; the conduct of research; the procurement and stockpiling of necessary materials and supplies; the provision of suitable warning systems; the construction or preparation of shelter areas, and control centers; and, when appropriate, the non-military evacuation of civil population); (ii) measures to be taken during attack or natural disaster (including the enforcement of passive defense regulations prescribed by duly established military or civil authorities; the evacuation of personnel to shelter areas; the control of traffic and panic; and the control and use of lighting and civil communications); and (iii) measures to be taken following attack or natural disaster (including activities for firefighting; rescue, emergency medical, health and sanitation services; monitoring for specific hazards of special weapons; unexploded bomb reconnaissance; essential debris clearance; emergency welfare measures; and immediately essential emergency repair or restoration of damaged vital facilities);
+
+(d) The word *materials* shall include raw materials, supplies, medicines, equipment, component parts and technical information and processes necessary for civil defense;
+
+(e) The word *facilities,* except as otherwise provided herein, shall include buildings, shelters, utilities, and land;
+
+(f) The term *United States* or *States* shall include the several States, the District of Columbia, the Territories, and the possessions of the United States;
+
+(g) The term *political subdivisions* shall include local governments, including but not limited to cities, towns, incorporated communities, counties, parishes, and townships; and
+
+(h) The term *CPG 1-3* refers to FEMA's “Federal Assistance Handbook” promulgated as Civil Preparedness Guide (CPG) 1-3, as amended, by numbered changes thereto and by Civil Preparedness Circulars (CPC). CPG 1-3 sets forth detailed guidance on procedures which a State and, where applicable, its political subdivisions must follow in order to request financial assistance from FEMA. It also sets forth detailed requirements, terms, and conditions upon which financial assistance is granted.
+
+(Reorganization Plan No. 3 of 1978, E.O. 12127 and E.O. 12148)[47 FR 43381, Oct. 1, 1982, as amended at 48 FR 44545, Sept. 29, 1983]

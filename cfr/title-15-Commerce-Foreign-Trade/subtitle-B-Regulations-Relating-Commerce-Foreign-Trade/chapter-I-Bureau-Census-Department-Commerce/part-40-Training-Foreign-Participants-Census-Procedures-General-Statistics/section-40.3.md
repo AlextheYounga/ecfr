@@ -1,0 +1,3 @@
+##### § 40.3 Cooperation with bilateral technical assistance programs of the United States. #####
+
+In compliance with the provisions contained in the Memorandum of Agreement executed between the Department of Commerce and the Foreign Operations Administration (now AID) on June 10, 1954, the Bureau of the Census is authorized within its areas of competence and available resources to continue its training of foreign nationals under the general guidance of the Department of Commerce and in cooperation with the bilateral technical assistance programs of the United States Government.

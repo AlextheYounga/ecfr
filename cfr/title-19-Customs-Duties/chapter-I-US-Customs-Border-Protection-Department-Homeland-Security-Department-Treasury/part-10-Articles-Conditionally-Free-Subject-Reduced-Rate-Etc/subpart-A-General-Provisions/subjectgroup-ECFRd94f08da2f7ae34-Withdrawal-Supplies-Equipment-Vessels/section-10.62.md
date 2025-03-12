@@ -1,0 +1,29 @@
+##### § 10.62 Bunker fuel oil. #####
+
+(a) *Withdrawal under section 309, Tariff Act of 1930, as amended (19 U.S.C. 1309).* Except as otherwise provided in § 10.62b, relating to withdrawals from warehouse of aircraft turbine fuel to be used within 30 days of such withdrawal as supplies on aircraft under section 309, Tariff Act of 1930, as amended (19 U.S.C. 1309), when all the bunker fuel oil in a Customs bonded tank is intended only for lading duty free as supplies on vessels under section 309 at the port where the tank is located, delivery of the oil, by Customs bonded carrier, cartman, or lighterman (including bonded pipelines), under withdrawals on Customs Form 7501, or its electronic equivalent, either single or blanket, may be made without the presence of a Customs officer. When a blanket withdrawal is filed and a partial release takes place, the partial release procedure set forth in § 19.6(d) of this chapter shall be followed for each partial release. However, each abstract copy of Customs Form 7501, or its electronic equivalent, shall include the following additional information:
+
+(1) Type of oil withdrawn.
+
+(2) Number or other identification of sales order therefor.
+
+(3) Name of bonded carrier, date it received oil.
+
+(4) Receipt signed by master or other person in charge of delivering conveyance identified by number, or name, and if Customs bonded lighterman or cartman, by the carrier's license number.
+
+(5) Name and location of vessel obtaining oil.
+
+(6) Quantity and identification of each type of oil received with date, and signature and title of receiving officer. If all the oil is laden on the receiving vessel at the port of withdrawal via pipeline from the bonded storage tank, paragraphs (a) (3) and (4) of this section shall be deemed to be inapplicable.
+
+(b) If a blanket free withdrawal of bunker fuel oil is filed, to comply with Bureau of the Census requirements the withdrawal on Customs Form 7501, or its electronic equivalent, shall be endorsed “Estimated Withdrawals” and limited to the aggregate quantity and value of fuel oil which it is estimated will be physically removed from Customs bond during the calendar month in which the withdrawal is filed for lading on vessels entitled to duty-free vessel supplies under section 309 of the Tariff Act of 1930, as amended.
+
+(c)(1) As an incident of the delivery of fuel oils classifiable at different rates of duty to a vessel or vessels under section 309 of the tariff act, the port director may, when necessary to enable a supplier to meet fuel specifications, permit the blending of the oils in the delivering conveyance or in other suitable facilities after withdrawal from the bonded tanks, upon the condition that, to the extent of the amount of oil withdrawn classifiable at the higher rate, duty at the higher rate will be paid on any portion of the blended fuel oil not delivered within a reasonable time to a qualified vessel. The withdrawer shall be required to file a withdrawal for consumption for the excess quantity withdrawn. For example, if the quantity withdrawn consists of 1,500 barrels of bunker C fuel oil classifiable at the rate of one-eighth cent per gallon and 500 barrels of diesel oil classifiable at the rate of one-fourth cent per gallon but only 1,400 barrels of the blended oil are actually laden as fuel supplies on qualified vessels, withdrawals for consumption are required for 500 barrels of diesel oil at the higher rate and for 100 barrels of bunker C fuel oil at the lower rate.
+
+(2) *Delivering transferer receipt.* The receipt of the delivering carrier on a copy of Customs Form 7501, or its electronic equivalent, for fuel oil which has been blended under paragraph (c)(1) of this section with components classifiable at different rates of duty shall show, for each warehouse entry number and withdrawal number involved, the types and quantity of oil received.
+
+(d) Fuel oil withdrawn as vessel supplies at one port may be laden at another port on a vessel or vessels entitled to the free withdrawal privileges of section 309 of the tariff act, under procedures prescribed in this section, provided the movement to the receiving vessel or vessels is under the bond of a qualified carrier as described in § 18.1(a) of this chapter. In such cases, the provisions of § 10.60(d) of this chapter shall be deemed inapplicable.
+
+(e) If a vessel not entitled to duty-free withdrawal of supplies from Customs bonded warehouses under section 309 of the Tariff Act of 1930, as amended, should be supplied with fuel oil from a Customs bonded tank described in paragraph (a) of this section because of an emergency, a duty paid withdrawal therefor shall be filed on the first day that the customhouse is open for the general transaction of business after the day on which the oil is laden on the using vessel. If there should be willful or repeated instances of late filing of a duty-paid withdrawal in such cases, the port director shall require a duty-paid withdrawal to be filed prior to the removal of fuel oil from the bonded tank.
+
+(f) When the procedures prescribed in this section are followed, representatives of the port director will from time to time verify various withdrawals against all pertinent records, including financial records, of the withdrawers, deliverers, and receivers of the oil. The withdrawer shall maintain all pertinent records relating to the withdrawal, delivery, or receipt of the fuel oil for 5 years from the date of liquidation of the related fuel oil entry.
+
+[T.D. 69-99, 34 FR 6520, Apr. 16, 1969, as amended by T.D. 79-159, 44 FR 31967, June 4, 1979; T.D. 82-204, 47 FR 49367, Nov. 1, 1982; T.D. 95-81, 60 FR 52295, Oct. 6, 1995; T.D. 96-18, 61 FR 6777, Feb. 22, 1996; T.D. 96-51, 61 FR 31395, June 20, 1996; T.D. 99-33, 64 FR 16347, Apr. 5, 1999; CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

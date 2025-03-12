@@ -1,0 +1,3 @@
+##### § 891.620 Overcrowded and underoccupied units. #####
+
+If the Borrower determines that because of change in family size, an assisted unit is smaller than appropriate for the eligible family to which it is leased, or that the assisted unit is larger than appropriate, housing assistance payments or project assistance payments (as applicable) with respect to the unit will not be reduced or terminated until the eligible family has been relocated to an appropriate alternate unit. If possible, the Borrower will, as promptly as possible, offer the family an appropriate alternate unit. The Borrower may receive vacancy payments for the vacated unit if the Borrower complies with the requirements of § 891.650.

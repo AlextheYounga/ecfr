@@ -1,0 +1,7 @@
+##### § 1208.5 Material relating to mediation function - confidential. #####
+
+(a) All files, reports, letters, memoranda, documents, and papers (hereinafter referred to as confidential documents) relating to the mediation function of the NMB, in the custody of the NMB or its employees relating to or acquired in their mediatory capacity under any applicable section of the Railway Labor Act of 1926, as amended, are hereby declared to be confidential. No such confidential documents or the material contained therein shall be disclosed to any unauthorized person, or be taken or withdrawn, copied or removed from the custody of the NMB or its employees by any person or by any agent of such person or his representative without the explicit consent of the NMB.
+
+(b) However, the following specific documents: Invocation or proffer of mediation, the reply or replies of the parties, the proffer of arbitration and replies thereto, and the notice of failure of mediatory efforts in cases under section 5, First of the Railway Labor Act, as amended, are matters of official record and are available for inspection and examination.
+
+(c) Interpretations of mediation agreements by the NMB, arising out of section 5, Second, of the Railway Labor Act, as amended, are public records and are therefore open for public inspection and examination.

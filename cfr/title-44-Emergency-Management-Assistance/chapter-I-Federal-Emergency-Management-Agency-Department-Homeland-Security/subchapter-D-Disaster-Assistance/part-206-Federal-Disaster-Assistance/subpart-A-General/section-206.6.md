@@ -1,0 +1,5 @@
+##### § 206.6 Donation or loan of Federal equipment and supplies. #####
+
+(a) In any major disaster or emergency, the Administrator, Assistant Administrator for the Disaster Operations Directorate, or the Regional Administrator may direct Federal agencies to donate or loan their equipment and supplies to State and local governments for use and distribution by them for the purposes of the Stafford Act.
+
+(b) A donation or loan may include equipment and supplies determined under applicable laws and regulations to be surplus to the needs and responsibilities of the Federal Government. The State shall certify that the surplus property is usable and necessary for current disaster purposes in order to receive a donation or loan. Such a donation or loan is made in accordance with procedures prescribed by the General Services Administration.

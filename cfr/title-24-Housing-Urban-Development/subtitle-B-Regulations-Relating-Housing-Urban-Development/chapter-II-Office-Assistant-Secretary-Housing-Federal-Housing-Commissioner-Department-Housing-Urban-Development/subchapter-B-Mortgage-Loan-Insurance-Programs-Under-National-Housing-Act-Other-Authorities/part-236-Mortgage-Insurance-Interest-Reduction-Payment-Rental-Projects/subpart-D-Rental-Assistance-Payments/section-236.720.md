@@ -1,0 +1,5 @@
+##### § 236.720 Provisions applicable to cooperative members. #####
+
+(a) A member of a cooperative who obtains a certificate of eligibility shall be required, as a condition of receiving the certificate, to agree that upon a sale of his membership, any equity increment accumulated through rental assistance payments will not be made available to the member, but will be turned over to the cooperative housing owner. Funds received by a cooperative representing an equity increment accumulated through rental assistance payments shall be deposited by the cooperative in a special account to be disbursed as directed by the Secretary.
+
+(b) The term *tenant* as used in this subpart shall include a member of a cooperative, and the term *rental payment* shall include the carrying charges under the occupancy agreement between the members of the cooperative and the cooperative housing owner.

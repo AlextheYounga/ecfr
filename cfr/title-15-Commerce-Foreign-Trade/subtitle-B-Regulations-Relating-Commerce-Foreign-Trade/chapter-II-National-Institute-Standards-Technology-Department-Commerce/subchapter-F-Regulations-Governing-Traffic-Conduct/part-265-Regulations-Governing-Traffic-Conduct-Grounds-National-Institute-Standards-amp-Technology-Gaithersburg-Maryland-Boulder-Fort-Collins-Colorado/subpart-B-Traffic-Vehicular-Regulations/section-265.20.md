@@ -1,0 +1,3 @@
+##### § 265.20 Towing of improperly parked vehicles. #####
+
+Any motor vehicle that is parked in violation of these regulations may be towed away or otherwise moved if a determination is made by a uniformed guard that it is a nuisance or hazard. A reasonable amount for the moving service and for the storage of the vehicle, if any, may be charged, and the vehicle is subject to a lien for that charge.

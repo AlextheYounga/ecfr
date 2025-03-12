@@ -1,0 +1,3 @@
+##### § 884.221 Continued family participation. #####
+
+A Family must continue to occupy its approved unit to remain eligible for participation in the Housing Assistance Payments Program except that if the Family (a) wishes to vacate its unit at the end of the Lease term (or prior thereto but in accordance with the provisions of the Lease), or (b) is required to move for reasons other than violation of the Lease on the part of the Family, and if the Family wishes to receive the benefit of housing assistance payments in another approvable unit, the Family should give reasonable notice of the circumstances to HUD or to the PHA, as appropriate, so that HUD or the PHA may have the opportunity to consider the Family's request.

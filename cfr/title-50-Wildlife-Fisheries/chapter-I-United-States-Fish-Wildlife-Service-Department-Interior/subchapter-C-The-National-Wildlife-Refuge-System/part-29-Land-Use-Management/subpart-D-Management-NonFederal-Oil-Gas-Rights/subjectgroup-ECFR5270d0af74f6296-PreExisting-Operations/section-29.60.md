@@ -1,0 +1,3 @@
+##### § 29.60 Do I need an operations permit for my pre-existing operation? #####
+
+No. Pre-existing operations are those conducted as of December 14, 2016 without an approved permit from the Service or prior to a boundary change or establishment of a new refuge. Your pre-existing operations may be continued without an operations permit, but you are required to operate in accordance with applicable local, State, and Federal laws and regulations, and are subject to applicable provisions of this subpart, including requirements for a permit when you propose to conduct new operations or to modify pre-existing operations.

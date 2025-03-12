@@ -1,0 +1,3 @@
+##### § 367.4210 Account 421, Miscellaneous income or loss. #####
+
+This account must include all revenue and expense items except taxes properly includible in the income account and not provided for elsewhere. Related taxes must be recorded in account 408.2, Taxes other than income taxes, other income and deductions (§ 367.4082), or account 409.2, Income taxes, other income and deductions (§ 367.4092).

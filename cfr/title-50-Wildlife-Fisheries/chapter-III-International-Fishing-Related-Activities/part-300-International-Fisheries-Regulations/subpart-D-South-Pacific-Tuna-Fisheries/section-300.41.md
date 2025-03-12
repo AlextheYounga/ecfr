@@ -1,0 +1,3 @@
+##### § 300.41 Investigation notification. #####
+
+Upon commencement of an investigation under section 10(b)(1) of the Act, the operator of any vessel concerned shall have 30 days after receipt of notification of the investigation and the operator's rights under section 10(b)(1) to submit comments, information, or evidence bearing on the investigation, and to request in writing that the Secretary provide the operator an opportunity to present the comments, information, or evidence orally to the Secretary or the Secretary's representative.

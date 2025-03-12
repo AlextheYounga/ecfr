@@ -1,0 +1,3 @@
+##### § 883.301 Applicability. #####
+
+The provisions of this subpart are applicable to newly constructed and substantially rehabilitated housing allocated contract authority under subpart B of this part and processed and constructed under the Fast Tract Procedures of subpart D. The definitions contained in § 883.302 and the provisions of § 883.307(b) regarding review and approval of financing documents, however, apply to all of this part.

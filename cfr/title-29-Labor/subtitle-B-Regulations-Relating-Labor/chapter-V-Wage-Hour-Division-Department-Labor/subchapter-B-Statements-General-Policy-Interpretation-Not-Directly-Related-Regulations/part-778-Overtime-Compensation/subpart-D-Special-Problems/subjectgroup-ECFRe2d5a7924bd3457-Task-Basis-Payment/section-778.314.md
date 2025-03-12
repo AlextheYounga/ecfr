@@ -1,0 +1,3 @@
+##### § 778.314 Special situations. #####
+
+There may be special situations in which the facts demonstrate that the hours for which contract overtime compensation is paid to employees working on a “task” or “stint” basis actually qualify as overtime hours under section 7(e)(5), (6), or (7). Where this is true, payment of one and one-half times an agreed hourly rate for “task” or “stint” work may be equivalent to payment pursuant to agreement of one and one-half time a piece rate. The alternative methods of overtime pay computation permitted by section 7(g)(1) or (2), as explained in §§ 778.415 through 778.421 may be applicable in such a case.

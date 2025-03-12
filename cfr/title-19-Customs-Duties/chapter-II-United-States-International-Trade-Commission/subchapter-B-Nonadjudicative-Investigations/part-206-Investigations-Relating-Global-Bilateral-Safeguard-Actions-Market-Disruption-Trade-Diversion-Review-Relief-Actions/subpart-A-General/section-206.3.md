@@ -1,0 +1,9 @@
+##### § 206.3 Institution of investigations; publication of notice; and availability for public inspection. #####
+
+(a) *Institution of investigation and publication of notice.* Except as provided in § 206.15(b), the Commission, after receipt of a petition or request under part 206, properly filed, will promptly institute an appropriate investigation and publish notice thereof in the Federal Register. The Commission also will institute an investigation and publish a notice following receipt of a resolution or on the Commission's own motion under part 206.
+
+(b) *Contents of notice.* The notice will identify the petitioner or other requestor, the imported article that is the subject of the investigation and its tariff subheading, the nature and timing of the determination to be made, the time and place of any public hearing, dates of deadlines for filing briefs, statements, and other documents, limits on page lengths for posthearing briefs, the place at which the petition or request and any other documents filed in the course of the investigation may be inspected, and the name, address, and telephone number of the office that may be contacted for more information. The Commission will provide the same sort of information in its notice when the investigation was instituted following receipt of a resolution or on the Commission's own motion.
+
+(c) *Availability for public inspection.* The Commission will promptly make each petition, request, resolution, or Commission motion available for public inspection (with the exception of confidential business information).
+
+[60 FR 10, Jan. 3, 1995, as amended at 67 FR 8190, Feb. 22, 2002; 68 FR 32977, June 3, 2003]

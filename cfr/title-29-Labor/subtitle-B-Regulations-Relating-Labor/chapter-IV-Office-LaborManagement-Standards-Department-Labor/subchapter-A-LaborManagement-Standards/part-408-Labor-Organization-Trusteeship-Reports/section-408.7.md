@@ -1,0 +1,3 @@
+##### § 408.7 Terminal trusteeship financial report. #####
+
+Each labor organization which has assumed trusteeship over a subordinate labor organization shall file within 90 days after the termination of such trusteeship on behalf of the subordinate labor organization a terminal financial report, and one copy, with the Office of Labor-Management Standards, on Form LM-2 and in conformance with the requirements of part 403 of this chapter.

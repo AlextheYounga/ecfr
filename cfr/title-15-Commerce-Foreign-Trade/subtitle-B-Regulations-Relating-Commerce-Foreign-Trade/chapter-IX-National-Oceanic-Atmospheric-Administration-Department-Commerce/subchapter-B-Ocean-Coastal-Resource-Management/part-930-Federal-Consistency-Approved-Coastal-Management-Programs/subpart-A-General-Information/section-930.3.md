@@ -1,0 +1,3 @@
+##### § 930.3 Review of the implementation of the federal consistency requirement. #####
+
+As part of the responsibility to conduct a continuing review of approved management programs, the Director of the Office of Ocean and Coastal Resource Management (Director) shall review the performance of each State's implementation of the federal consistency requirement. The Director shall evaluate instances where a State agency is believed to have either failed to object to inconsistent federal actions, or improperly objected to consistent federal actions. This evaluation shall be incorporated within the Director's general efforts to ascertain instances where a State has not adhered to its approved management program and such lack of adherence is not justified.

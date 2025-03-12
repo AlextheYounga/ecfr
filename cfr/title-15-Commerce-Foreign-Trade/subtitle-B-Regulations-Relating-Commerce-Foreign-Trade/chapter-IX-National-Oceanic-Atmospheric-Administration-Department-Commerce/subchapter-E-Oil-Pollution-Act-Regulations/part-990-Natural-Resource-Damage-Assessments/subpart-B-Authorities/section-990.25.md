@@ -1,0 +1,3 @@
+##### § 990.25 Settlement. #####
+
+Trustees may settle claims for natural resource damages under this part at any time, provided that the settlement is adequate in the judgment of the trustees to satisfy the goal of OPA and is fair, reasonable, and in the public interest, with particular consideration of the adequacy of the settlement to restore, replace, rehabilitate, or acquire the equivalent of the injured natural resources and services. Sums recovered in settlement of such claims, other than reimbursement of trustee costs, may only be expended in accordance with a restoration plan, which may be set forth in whole or in part in a consent decree or other settlement agreement, which is made available for public review.

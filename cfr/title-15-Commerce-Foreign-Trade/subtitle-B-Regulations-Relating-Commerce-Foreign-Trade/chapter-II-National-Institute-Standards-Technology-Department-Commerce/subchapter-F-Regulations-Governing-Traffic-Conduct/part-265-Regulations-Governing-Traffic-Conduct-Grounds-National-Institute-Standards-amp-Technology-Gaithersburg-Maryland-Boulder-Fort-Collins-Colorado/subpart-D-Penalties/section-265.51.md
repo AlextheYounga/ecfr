@@ -1,0 +1,3 @@
+##### § 265.51 Penalties—other laws. #####
+
+Except with respect to the laws of the State of Maryland and the State of Colorado assimilated by § 265.5 or otherwise, whoever shall be found guilty of violating these regulations is subject to a fine of not more than $50 or imprisonment of not more than 30 days, or both (40 U.S.C. 318c). Except as expressly provided in this part, nothing contained in these regulations shall be construed to abrogate any other Federal laws or regulations, or any State and local laws and regulations applicable to the area in which the site is situated.

@@ -1,0 +1,3 @@
+##### § 30.10 Noncompliance with Federal and state equal opportunity requirements. #####
+
+A pattern or practice of noncompliance by a sponsor (or where the sponsor is a joint apprenticeship committee, by one of the parties represented on such committee) with Federal or state laws or regulations requiring equal opportunity may be grounds for the imposition of sanctions in accordance with § 30.13 if such noncompliance is related to the equal employment opportunity of apprentices and/or graduates of such an apprenticeship program under this part. The sponsor shall take affirmative steps to assist and cooperate with employers and unions in fulfilling their equal employment opportunity obligations.

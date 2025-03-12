@@ -1,0 +1,3 @@
+##### § 135.92 Recordkeeping and access to records. #####
+
+HUD shall have access to all records, reports, and other documents or items of the recipient that are maintained to demonstrate compliance with the requirements of this part, or that are maintained in accordance with the regulations governing the specific HUD program under which section 3 covered assistance is provided or otherwise made available to the recipient or contractor.

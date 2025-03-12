@@ -1,0 +1,7 @@
+##### § 2.103 Statement of policy respecting take or pay provisions in gas purchase contracts. #####
+
+(a) Recognizing that take or pay contract obligations may be shielding the prices of deregulated and other higher cost gas from market constraints, the Commission sets forth its general policy regarding prepayments for natural gas pursuant to take or pay provisions in gas contracts and amendments thereto between producers and interstate pipelines which become effective December 23, 1982. The provisions of this policy statement do not establish a binding norm but instead provide general guidance. In particular cases, both the underlying validity of the policy and its application to particular facts may be challenged and are subject to further consideration.
+
+(b) With respect to gas purchase contracts entered into on or after December 23, 1982, the Commission intends to apply a rebuttable presumption in general rate cases that prepayments to producers will not be given rate base treatment if the prepayments are made pursuant to take or pay requirements in such gas purchase contracts or amendments which exceed 75 percent of annual deliverability.
+
+(Natural Gas Act, 15 U.S.C. 717-717w; Natural Gas Policy Act of 1978, Pub. L. No. 95-621, 92 Stat. 3350, 15 U.S.C. 3301-3432)[47 FR 57269, Dec. 23, 1982]

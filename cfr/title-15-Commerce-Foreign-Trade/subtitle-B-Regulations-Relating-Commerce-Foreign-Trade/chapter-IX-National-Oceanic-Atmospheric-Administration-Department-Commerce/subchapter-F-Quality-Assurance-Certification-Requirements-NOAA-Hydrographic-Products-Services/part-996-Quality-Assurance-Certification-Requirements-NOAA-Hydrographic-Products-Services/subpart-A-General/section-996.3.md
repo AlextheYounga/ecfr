@@ -1,0 +1,3 @@
+##### § 996.3 Fees. #####
+
+NOAA may charge for its Quality Assurance Program activities such sums as may be permitted or required under this Act, or under other statutory authorities. Such sums are non-refundable. NOAA will attempt to identify any such charges upon first submission of a hydrographic product. However, the intent to charge and the amounts may change. NOAA will promptly notify the sponsor of any such changes, and will permit the sponsor to withdraw hydrographic products from consideration under the Quality Assurance Program should they so choose.

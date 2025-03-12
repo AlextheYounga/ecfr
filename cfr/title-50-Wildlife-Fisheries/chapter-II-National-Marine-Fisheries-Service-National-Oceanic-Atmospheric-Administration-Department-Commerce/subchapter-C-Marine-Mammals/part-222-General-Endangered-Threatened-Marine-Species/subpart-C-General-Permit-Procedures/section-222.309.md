@@ -1,0 +1,11 @@
+##### § 222.309 Permits for listed species of sea turtles involving the Fish and Wildlife Service. #####
+
+(a) This section establishes specific procedures for issuance of the following permits: scientific purposes or to enhance the propagation or survival of endangered or threatened species of sea turtles; zoological exhibition or educational purposes for threatened species of sea turtles; and permits that requires coordination with the Fish and Wildlife Service. The National Marine Fisheries Service maintains jurisdiction for such species in the marine environment. The Fish and Wildlife Service maintains jurisdiction for such species of sea turtles in the land environment.
+
+(b) For permits relating to any activity in the marine environment exclusively, permit applicants and permittees must comply with the regulations in parts 222, 223, and 224 of this chapter.
+
+(c) For permits relating to any activity in the land environment exclusively, permit applicants must submit applications to the Wildlife Permit Office (WPO) of the U.S. Fish and Wildlife Service in accordance with either 50 CFR 17.22(a), if the species is endangered, or 50 CFR 17.32(a), if the species is threatened.
+
+(d) For permits relating to any activity in both the land and marine environments, applicants must submit applications to the WPO. WPO will forward the application to NMFS for review and processing of those activities under its jurisdiction. Based on this review and processing, WPO will issue either a permit or a letter of denial in accordance with its own regulations.
+
+(e) For permits relating to any activity in a marine environment and that also requires a permit under the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) (TIAS 8249, July 1, 1975) (50 CFR part 23), applicants must submit applications to the WPO. WPO will forward the application to NMFS for review and processing, after which WPO will issue a combination ESA/CITES permit or a letter of denial.

@@ -1,0 +1,5 @@
+##### § 154.3 Effective tariff. #####
+
+(a) The effective tariff of a natural gas company is the tariff filed pursuant to the requirements of this part, and permitted by the Commission to become effective. A natural gas company must not directly or indirectly, demand, charge, or collect any rate or charge for, or in connection with, the transportation or sale of natural gas subject to the jurisdiction of the Commission, or impose any classifications, practices, rules, or regulations, different from those prescribed in its effective tariff and executed service agreements on file with the Commission, unless otherwise specifically permitted by order of the Commission.
+
+(b) No tariff provision may purport to change an effective rate or charge except in the manner provided in section 4 of the Natural Gas Act, and the regulations in this part. The tariff may not provide for any rate or charge to be automatically changed by an index or other periodic adjustment, without filing for a rate change pursuant to these regulations.

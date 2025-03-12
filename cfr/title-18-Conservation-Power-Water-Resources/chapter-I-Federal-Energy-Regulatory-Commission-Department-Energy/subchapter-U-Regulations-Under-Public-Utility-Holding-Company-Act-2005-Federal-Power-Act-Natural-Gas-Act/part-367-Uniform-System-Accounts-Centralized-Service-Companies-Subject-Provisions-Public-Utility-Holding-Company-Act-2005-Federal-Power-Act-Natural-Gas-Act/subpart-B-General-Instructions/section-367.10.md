@@ -1,0 +1,3 @@
+##### § 367.10 Unaudited items. #####
+
+Whenever a financial statement is required by the Commission, if it is known that a transaction has occurred that affects the accounts but the amount involved in the transaction and its effect upon the accounts cannot be determined with absolute accuracy, the amount must be estimated and the estimated amount included in the proper accounts. The service company is not required to anticipate minor items that would not appreciably affect the accounts.

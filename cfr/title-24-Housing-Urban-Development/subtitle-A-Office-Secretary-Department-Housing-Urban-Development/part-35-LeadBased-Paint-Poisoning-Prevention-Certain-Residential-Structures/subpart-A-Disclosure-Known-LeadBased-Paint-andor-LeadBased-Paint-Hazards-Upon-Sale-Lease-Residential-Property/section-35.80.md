@@ -1,0 +1,3 @@
+##### § 35.80 Purpose. #####
+
+This subpart implements the provisions of 42 U.S.C. 4852d, which impose certain requirements on the sale or lease of target housing. Under this subpart, a seller or lessor of target housing shall disclose to the purchaser or lessee the presence of any known lead-based paint and/or lead-based paint hazards; provide available records and reports; provide the purchaser or lessee with a lead hazard information pamphlet; give purchasers a 10-day opportunity to conduct a risk assessment or inspection; and attach specific disclosure and warning language to the sales or leasing contract before the purchaser or lessee is obligated under a contract to purchase or lease target housing.

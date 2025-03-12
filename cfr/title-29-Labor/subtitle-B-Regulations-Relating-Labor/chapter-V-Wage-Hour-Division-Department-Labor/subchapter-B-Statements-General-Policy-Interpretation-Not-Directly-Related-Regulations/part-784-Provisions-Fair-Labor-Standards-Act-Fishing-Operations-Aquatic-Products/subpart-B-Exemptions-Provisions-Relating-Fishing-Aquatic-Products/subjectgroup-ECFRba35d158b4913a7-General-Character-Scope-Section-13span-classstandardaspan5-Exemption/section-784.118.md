@@ -1,0 +1,3 @@
+##### § 784.118 The exemption is intended for work affected by natural factors. #####
+
+As indicated by the legislative history, the purpose of the section 13(a)(5) exemption is to exempt from the minimum wage and overtime provisions of the Act employment in those activities in the fishing industry that are controlled or materially affected by natural factors or elements, such as the vicissitudes of the weather, the changeable conditions of the water, the run of the catch, and the perishability of the products obtained (83 Cong. Rec. 7408, 7443; S. Rep. No. 145, p. 33 on H.R. 3935, 87th Cong., first session; *Fleming* v. *Hawkeye Pearl Button Co.,* 113 F. 2d 52; *Walling* v. *Haden,* 153 F. 2d 196, certiorari denied 328 U.S. 866).

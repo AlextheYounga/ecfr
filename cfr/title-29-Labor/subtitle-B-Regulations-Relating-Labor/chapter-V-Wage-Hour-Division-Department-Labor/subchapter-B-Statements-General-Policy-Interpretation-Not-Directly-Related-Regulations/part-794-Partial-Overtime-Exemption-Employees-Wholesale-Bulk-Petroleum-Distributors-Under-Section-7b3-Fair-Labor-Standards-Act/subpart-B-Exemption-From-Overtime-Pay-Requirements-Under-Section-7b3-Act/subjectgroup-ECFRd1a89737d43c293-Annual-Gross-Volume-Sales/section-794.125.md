@@ -1,0 +1,3 @@
+##### § 794.125 Grace period of 1 month for compliance. #####
+
+Where it is not practicable to compute the annual gross volume of sales under § 794.123 or § 794.124 in time to determine obligations under the Act for the current quarter, an enterprise may use a 1-month grace period. If this 1-month grace period is used, the computations made under those sections will determine its obligations under the Act for the 3-month period commencing 1 month after the end of the preceding calendar or fiscal quarter. Once adopted the same basis must be used for each successive 3-month period.

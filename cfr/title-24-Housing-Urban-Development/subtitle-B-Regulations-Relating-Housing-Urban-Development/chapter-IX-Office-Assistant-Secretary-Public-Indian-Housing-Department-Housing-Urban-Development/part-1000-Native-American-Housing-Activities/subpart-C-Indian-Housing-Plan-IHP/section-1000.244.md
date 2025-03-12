@@ -1,0 +1,5 @@
+##### § 1000.244 If the recipient has made a good-faith effort to negotiate a cooperation agreement and tax-exempt status but has been unsuccessful through no fault of its own, may the Secretary waive the requirement for a cooperation agreement and a tax exemption? #####
+
+Yes. Recipients must submit a written request for waiver to the recipient's Area ONAP. The request must detail a good faith effort by the recipient, identify the housing units involved, and include all pertinent background information about the housing units. The recipient must further demonstrate that it has pursued and exhausted all reasonable channels available to it to reach an agreement to obtain tax-exempt status, and that failure to obtain the required agreement and tax-exempt status has been through no fault of its own. The Area ONAP will forward the request, its recommendation, comments, and any additional relevant documentation to the Deputy Assistant Secretary for Native American Programs for processing to the Assistant Secretary.
+
+[77 FR 71527, Dec. 3, 2012]

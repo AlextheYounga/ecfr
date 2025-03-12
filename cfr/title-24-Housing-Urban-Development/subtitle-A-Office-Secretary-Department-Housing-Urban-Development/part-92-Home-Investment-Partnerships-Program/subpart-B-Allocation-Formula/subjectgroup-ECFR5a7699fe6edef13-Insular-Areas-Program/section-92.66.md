@@ -1,0 +1,3 @@
+##### § 92.66 Reallocation. #####
+
+Any HOME funds which are reduced or recaptured from an insular area's allocation and which are not used to increase the allocation amount for one or more of the remaining insular areas as provided in § 92.60 of this part, will be reallocated by HUD to the States in accordance with the requirements in subpart J for reallocating funds initially allocated to a State.

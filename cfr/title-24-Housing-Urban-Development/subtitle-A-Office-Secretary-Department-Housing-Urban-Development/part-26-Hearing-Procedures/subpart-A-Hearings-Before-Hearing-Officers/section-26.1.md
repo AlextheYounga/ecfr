@@ -1,0 +1,3 @@
+##### § 26.1 Purpose and scope. #####
+
+This part sets forth rules of procedure in certain proceedings of the Department of Housing and Urban Development presided over by a hearing officer. These rules of procedure apply to administrative sanction hearings pursuant to 2 CFR part 2424 and to hearings with respect to determinations by the Multifamily Participation Review Committee pursuant to 24 CFR part 200, subpart H, to the extent that these regulations are not inconsistent and unless these regulations provide otherwise. They also apply in any other case where a hearing is required by statute or regulation, to the extent that rules adopted under such statute or regulation are not inconsistent.

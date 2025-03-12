@@ -1,0 +1,3 @@
+##### § 91.400 Applicability. #####
+
+This subpart applies to HOME program consortia, as defined in § 91.5 (see 24 CFR part 92). Units of local government that participate in a consortium must participate in submission of a consolidated plan for the consortium, prepared in accordance with this subpart. CDBG entitlement communities that are members of a consortium must provide additional information for the consolidated plan, as described in this subpart.

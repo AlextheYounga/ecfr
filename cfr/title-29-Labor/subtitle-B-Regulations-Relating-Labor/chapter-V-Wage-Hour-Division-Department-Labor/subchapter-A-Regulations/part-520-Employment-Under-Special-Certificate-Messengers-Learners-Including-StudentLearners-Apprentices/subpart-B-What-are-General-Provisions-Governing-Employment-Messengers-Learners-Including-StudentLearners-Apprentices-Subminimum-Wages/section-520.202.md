@@ -1,0 +1,3 @@
+##### § 520.202 How do persons who want to apply for a particular certificate find out what is needed? #####
+
+The application process, terms, conditions and requirements of certificates and other matters are discussed in subparts D and E of this part. Messengers, learners (excluding student-learners), and apprentices are discussed in subpart D of this part and student-learners in subpart E of this part.

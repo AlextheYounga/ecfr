@@ -1,0 +1,3 @@
+##### § 801.1 Purpose. #####
+
+The purpose of this part is to provide general information on international trade in services and direct investment data collection programs and analyses under the International Investment and Trade in Services Survey Act (22 U.S.C. 3101 to 3108, as amended) (the Act). The purpose of the Act is to provide for the collection of comprehensive and reliable information pertaining to international investment, including international trade in services and direct investment, and to do so with a minimum of burden on respondents and with no unnecessary duplication of effort.

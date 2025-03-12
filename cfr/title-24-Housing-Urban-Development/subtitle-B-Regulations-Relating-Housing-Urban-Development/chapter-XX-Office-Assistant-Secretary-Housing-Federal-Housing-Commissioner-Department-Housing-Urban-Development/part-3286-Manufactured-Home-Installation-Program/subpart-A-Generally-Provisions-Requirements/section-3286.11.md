@@ -1,0 +1,3 @@
+##### § 3286.11 Temporary storage of units. #####
+
+Pursuant to § 3286.5(c), the manufacturer is required to provide instructions for the temporary support and protection of the interior from damage of its manufactured homes or sections of homes. Every manufacturer, distributor, retailer, or installer that has possession of a home is required to support each transportable section of a manufactured home that is temporarily located on a site used by that manufacturer, distributor, retailer, or installer in accordance with the manufacturer's instructions.

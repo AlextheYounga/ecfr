@@ -1,0 +1,5 @@
+##### § 230.107 Policy. #####
+
+(a) *Direct Federal and Federal-aid highway construction projects.* It is the policy of the FHWA to require that all direct Federal and Federal-aid highway construction contracts include the same specific equal employment opportunity requirements. It is also the policy to require that all direct Federal and Federal-aid highway construction subcontracts of $10,000 or more (not including contracts for supplying materials) include these same requirements.
+
+(b) *Federal-aid highway construction projects.* It is the policy of the FHWA to require full utilization of all available training and skill-improvement opportunities to assure the increased participation of minority groups and disadvantaged persons and women in all phases of the highway construction industry. Moreover, it is the policy of the Federal Highway Administration to encourage the provision of supportive services which will increase the effectiveness of approved on-the-job training programs conducted in connection with Federal-aid highway construction projects.

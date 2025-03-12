@@ -1,0 +1,3 @@
+##### § 367.8 Extraordinary items. #####
+
+Extraordinary items are to be recognized according to the rules which are considered generally accepted accounting principles. These items are related to the effects of events and transactions that have occurred during the current period and that are of an unusual nature and infrequent occurrence. Each item recognized as extraordinary must be disclosed in the notes to financial statements (*See* Accounts 434 and 435 in §§ 367.4340 and 367.4350).

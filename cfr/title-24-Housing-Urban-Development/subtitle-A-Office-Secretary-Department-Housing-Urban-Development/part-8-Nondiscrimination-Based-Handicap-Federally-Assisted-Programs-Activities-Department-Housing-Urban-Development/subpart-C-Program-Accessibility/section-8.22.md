@@ -1,0 +1,9 @@
+##### § 8.22 New construction—housing facilities. #####
+
+(a) New multifamily housing projects (including public housing and Indian housing projects as required by § 8.25) shall be designed and constructed to be readily accessible to and usable by individuals with handicaps.
+
+(b) Subject to paragraph (c) of this section, a minimum of five percent of the total dwelling units or at least one unit in a multifamily housing project, whichever is greater, shall be made accessible for persons with mobility impairments. A unit that is on an accessible route and is adaptable and otherwise in compliance with the standards set forth in § 8.32 is accessible for purposes of this section. An additional two percent of the units (but not less than one unit) in such a project shall be accessible for persons with hearing or vision impairments.
+
+(c) HUD may prescribe a higher percentage or number than that prescribed in paragraph (b) of this section for any area upon request therefor by any affected recipient or by any State or local government or agency thereof based upon demonstration to the reasonable satisfaction of HUD of a need for a higher percentage or number, based on census data or other available current data (including a currently effective Housing Assistance Plan or Comprehensive Homeless Assistance Plan), or in response to evidence of a need for a higher percentage or number received in any other manner. In reviewing such request or otherwise assessing the existence of such needs, HUD shall take into account the expected needs of eligible persons with and without handicaps.
+
+[53 FR 20233, June 2, 1988, as amended at 56 FR 920, Jan. 9, 1991]

@@ -1,0 +1,3 @@
+##### § 1625.1 Definitions. #####
+
+The Equal Employment Opportunity Commission is hereinafter referred to as the *Commission.* The terms *person, employer, employment agency, labor organization,* and *employee* shall have the meanings set forth in section 11 of the Age Discrimination in Employment Act of 1967, as amended, 29 U.S.C. 621 *et seq.,* hereinafter referred to as the *Act.* References to *employers* in this part state principles that are applicable not only to employers but also to labor organizations and to employment agencies.

@@ -1,0 +1,5 @@
+##### § 135.90 Reporting. #####
+
+Each recipient which receives directly from HUD financial assistance that is subject to the requirements of this part shall submit to the Assistant Secretary an annual report in such form and with such information as the Assistant Secretary may request, for the purpose of determining the effectiveness of section 3. Where the program providing the section 3 covered assistance requires submission of an annual performance report, the section 3 report will be submitted with that annual performance report. If the program providing the section 3 covered assistance does not require an annual performance report, the section 3 report is to be submitted by January 10 of each year or within 10 days of project completion, whichever is earlier. All reports submitted to HUD in accordance with the requirements of this part will be made available to the public.
+
+(Approved by the Office of Management and Budget under control number 2529-0043)

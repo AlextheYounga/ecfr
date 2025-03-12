@@ -1,0 +1,9 @@
+##### § 772.9 Traffic noise prediction. #####
+
+(a) Any analysis required by this subpart must use the FHWA Traffic Noise Model (TNM), which is described in “FHWA Traffic Noise Model” Report No. FHWA-PD-96-010, including Revision No. 1, dated April 14, 2004, or any other model determined by the FHWA to be consistent with the methodology of the FHWA TNM. These publications are incorporated by reference in accordance with section 552(a) of title 5, U.S.C. and part 51 of title 1, CFR, and are on file at the National Archives and Record Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030 or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* These documents are available for copying and inspection at the Federal Highway Administration, 1200 New Jersey Avenue, SE., Washington, DC 20590, as provided in part 7 of title 49, CFR. These documents are also available on the FHWA's Traffic Noise Model Web site at the following URL: *http://www.fhwa.dot.gov/environment/noise/index.htm.*
+
+(b) Average pavement type shall be used in the FHWA TNM for future noise level prediction unless a highway agency substantiates the use of a different pavement type for approval by the FHWA.
+
+(c) Noise contour lines may be used for project alternative screening or for land use planning to comply with § 772.17 of this part, but shall not be used for determining highway traffic noise impacts.
+
+(d) In predicting noise levels and assessing noise impacts, traffic characteristics that would yield the worst traffic noise impact for the design year shall be used.

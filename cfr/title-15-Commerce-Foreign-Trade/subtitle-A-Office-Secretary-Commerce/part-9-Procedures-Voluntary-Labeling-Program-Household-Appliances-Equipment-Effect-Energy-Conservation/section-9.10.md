@@ -1,0 +1,3 @@
+##### § 9.10 Coordination with State and local programs. #####
+
+The Department of Commerce will establish and maintain an active program of communication with appropriate state and local government offices and agencies and will furnish and make available information and assistance that will promote to the greatest practicable extent uniformity in State, local, and Federal programs for the labeling of household appliances and equipment to effect energy conservation.

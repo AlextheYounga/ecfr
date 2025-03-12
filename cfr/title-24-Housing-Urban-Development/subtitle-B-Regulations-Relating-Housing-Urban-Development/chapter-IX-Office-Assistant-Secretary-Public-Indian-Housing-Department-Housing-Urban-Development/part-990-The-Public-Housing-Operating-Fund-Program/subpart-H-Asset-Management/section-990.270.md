@@ -1,0 +1,3 @@
+##### § 990.270 Asset management. #####
+
+As owners, PHAs have asset management responsibilities that are above and beyond property management activities. These responsibilities include decision-making on topics such as long-term capital planning and allocation, the setting of ceiling or flat rents, review of financial information and physical stock, property management performance, long-term viability of properties, property repositioning and replacement strategies, risk management responsibilities pertaining to regulatory compliance, and those decisions otherwise consistent with the PHA's ACC responsibilities, as appropriate.

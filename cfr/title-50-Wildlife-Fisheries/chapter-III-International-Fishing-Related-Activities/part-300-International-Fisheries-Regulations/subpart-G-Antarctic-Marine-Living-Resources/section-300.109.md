@@ -1,0 +1,7 @@
+##### § 300.109 Gear disposal. #####
+
+(a) The operator of a harvesting vessel may not dump overboard, jettison or otherwise discard any article or substance that may interfere with other fishing vessels or gear, or that may catch fish or cause damage to any marine resource, including marine mammals and birds, except in cases of emergency involving the safety of the ship or crew, or as specifically authorized by communication from the appropriate USCG commander or authorized officer. These articles and substances include, but are not limited to, fishing gear, net scraps, bale straps, plastic bags, oil drums, petroleum containers, oil, toxic chemicals or any manmade items retrieved in a harvesting vessel's gear.
+
+(b) The operator of a harvesting vessel may not abandon fishing gear in Convention waters.
+
+(c) The operator of a harvesting vessel must provide a copy of the CCAMLR information brochure “Marine Debris - A Potential Threat to Antarctic Marine Mammals” to each member of the crew of the harvesting vessel and must display copies of the CCAMLR placard “Avoidance of Incidental Mortality of Antarctic Marine Mammals” in the wheelhouse and crew quarters of the harvesting vessels. Copies of the brochure and placard will be provided to each holder of a harvesting permit by NMFS when issuing the permit.

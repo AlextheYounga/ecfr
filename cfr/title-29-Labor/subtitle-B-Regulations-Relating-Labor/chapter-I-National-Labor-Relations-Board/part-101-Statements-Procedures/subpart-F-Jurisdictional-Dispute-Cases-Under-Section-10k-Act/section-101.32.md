@@ -1,0 +1,3 @@
+##### § 101.32 Investigation of charges; withdrawal of charges; dismissal of charges and appeals to Board. #####
+
+These matters are handled as described in §§ 101.4 to 101.7, inclusive. Cases involving violation of paragraph (4)(D) of section 8(b) in which it is deemed appropriate to seek injunctive relief of a district court pursuant to section 10(1) of the Act are given priority over all other cases in the office except other cases under section 10(1) of the Act and cases of like character.

@@ -1,0 +1,3 @@
+##### § 2700.71 Review by the Commission on its own motion. #####
+
+At any time within 30 days after the issuance of a Judge's decision, the Commission may, by the affirmative vote of at least two of the Commissioners present and voting, direct the case for review on its own motion. Review shall be directed only upon the ground that the decision may be contrary to law or Commission policy or that a novel question of policy has been presented. The Commission shall state in such direction for review the specific issue of law, Commission policy, or novel question of policy to be reviewed. Review shall be limited to the issues specified in such direction for review.

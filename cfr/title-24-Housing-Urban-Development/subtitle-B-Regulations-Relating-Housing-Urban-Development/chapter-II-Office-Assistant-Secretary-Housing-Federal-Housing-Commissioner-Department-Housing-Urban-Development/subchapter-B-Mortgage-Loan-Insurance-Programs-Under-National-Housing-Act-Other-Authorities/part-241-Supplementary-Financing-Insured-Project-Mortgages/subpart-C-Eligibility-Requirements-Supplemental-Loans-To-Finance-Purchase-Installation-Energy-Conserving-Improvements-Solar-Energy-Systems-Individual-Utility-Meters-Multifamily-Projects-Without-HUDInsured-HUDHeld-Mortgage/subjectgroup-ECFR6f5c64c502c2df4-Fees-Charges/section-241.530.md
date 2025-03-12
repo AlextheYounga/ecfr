@@ -1,0 +1,3 @@
+##### § 241.530 Maximum fees and charges by lender. #####
+
+The lender may collect from the borrower the amount of the fees provided for in this subpart. The lender may also collect from the borrower an initial service charge in an amount not to exceed 2 percent of the original principal amount of the loan to reimburse the lender for the cost of originating and closing the transaction. Any additional charges shall be subject to the prior approval of the Commissioner.

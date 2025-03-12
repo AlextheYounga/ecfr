@@ -1,0 +1,5 @@
+##### § 145.35 United States products returned. #####
+
+Products of the United States returned after having been exported, which have not been advanced in value or improved in condition while abroad, may be passed free of duty without issuing an entry and without the declarations provided for in § 10.1(a) of this chapter, provided the shipment is valued at not over $2,500 and the port director is satisfied that the merchandise is free of duty under subheading 9801.00.10, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202).
+
+[T.D. 73-135, 38 FR 13369, May 21, 1973, as amended by T.D. 85-123, 50 FR 29955, July 23, 1985; T.D. 89-1, 53 FR 51263, Dec. 21, 1988; T.D. 89-82, 54 FR 36026, Aug. 31, 1989; T.D. 94-47, 59 FR 25570, May 17, 1994; T.D. 98-28, 63 FR 16417, Apr. 3, 1998; CBP Dec. 12-19, 77 FR 72721, Dec. 6, 2012]

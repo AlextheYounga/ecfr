@@ -1,0 +1,5 @@
+##### § 216.21 Actions permitted by international treaty, convention, or agreement. #####
+
+The MMPA and these regulations shall not apply to the extent that they are inconsistent with the provisions of any international treaty, convention or agreement, or any statute implementing the same relating to the taking or importation of marine mammals or marine mammal products, which was existing and in force prior to December 21, 1972, and to which the United States was a party. Specifically, the regulations in subpart B of this part and the provisions of the MMPA shall not apply to activities carried out pursuant to the Interim Convention on the Conservation of North Pacific Fur Seals signed at Washington on February 9, 1957, and the Fur Seal Act of 1966, 16 U.S.C. 1151 through 1187, as in each case, from time to time amended.
+
+[39 FR 1852, Jan. 15, 1974, as amended at 59 FR 50376, Oct. 3, 1994]

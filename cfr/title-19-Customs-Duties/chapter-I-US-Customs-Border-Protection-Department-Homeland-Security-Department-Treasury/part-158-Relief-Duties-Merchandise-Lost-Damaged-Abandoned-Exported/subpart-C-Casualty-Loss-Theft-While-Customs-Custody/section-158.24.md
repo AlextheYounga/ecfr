@@ -1,0 +1,3 @@
+##### § 158.24 Place of filing. #####
+
+The application and evidence shall be filed with the director of the port where the loss, theft, injury, or destruction occurred. In the case of total loss of merchandise by fire or other casualty while in transportation under bond, the application and evidence shall be filed with the director of the port at which the transportation entry was made. In the case of partial destruction of or injury to such merchandise, the application and evidence shall be filed with the director of the port of destination, except that if the merchandise is returned to the port at which the transportation entry was made, the application shall be filed at that port.

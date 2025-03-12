@@ -1,0 +1,3 @@
+##### § 1308.25 Stay of appeal for Contracting Officer's decision. #####
+
+If an appeal has been taken because of a Contracting Officer's failure to render a timely decision, as provided by § 1308.17, the Hearing Officer, with or without a motion by a party, may stay proceedings on the appeal in order to obtain a decision on the matter appealed. Oral argument will not be heard on such a motion unless otherwise directed. The stay order will normally set a date certain by which the decision of the Contracting Officer will be rendered. Such date shall take into account the factors mentioned in § 1308.13(c), the length of time the matter has already been pending before the Contracting Officer, and the need for prompt and expeditious action on appeals.

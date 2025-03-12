@@ -1,0 +1,3 @@
+##### § 500.81 Payment of wages when due. #####
+
+Each farm labor contractor, agricultural employer and agricultural association which employs any migrant or seasonal agricultural worker must pay the wages owed such worker when due. In meeting this responsibility, the farm labor contractor, agricultural employer and agricultural association shall pay the worker no less often than every two weeks (or semi-monthly).

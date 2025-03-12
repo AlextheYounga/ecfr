@@ -1,0 +1,11 @@
+##### § 3282.253 Removal of prohibition of sale. #####
+
+(a) If a distributor or retailer has a manufactured home in its possession or a manufactured home with respect to a sales transaction has not yet been completed, and a distributor or retailer knows as a result of notification by the manufacturer or otherwise that the manufactured home contains a failure to conform or imminent safety hazard, the distributor or retailer may seek the remedies available under § 3282.415.
+
+(b) When, in accordance with § 3282.415, a manufacturer corrects a failure to conform to the applicable standard or an imminent safety hazard, the distributor or retailer, acting as a reasonable distributor or retailer, may accept the remedies provided by the manufacturer as having corrected the failure to conform or imminent safety hazard. The distributor or retailer, therefore, may sell, lease, or offer for sale or lease any manufactured home so corrected by the manufacturer.
+
+(c) When a distributor or retailer is authorized by a manufacturer to correct a failure to conform to the applicable standard or an imminent safety hazard and completes the correction in accordance with the manufacturer's instructions, the distributor or retailer may sell, or lease or offer for sale or lease the manufactured home in question, provided that the distributor or retailer, acting as a reasonable distributor or retailer knows that the manufactured home conforms to the standards. A distributor or retailer and a manufacturer, at the manufacturer's option, may agree in advance that the distributor or retailer is authorized to make such corrections as the manufacturer believes are within the expertise of the dealer.
+
+(d) If the corrections made under paragraphs (b) and (c) of this section do not bring the manufactured home into conformance or correct the imminent safety hazard, the provisions of § 3282.415 will continue in effect prior to completion of the sales transaction.
+
+[41 FR 19852, May 13, 1976, as amended at 78 FR 60199, Oct. 1, 2013]

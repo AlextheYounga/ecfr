@@ -1,0 +1,3 @@
+##### § 401.6 Proposed revisions and changes. #####
+
+Proposals for changes and additions to the Comprehensive Plan submitted by any agency of the signatory parties or any interested person, organization or group shall identify the specific revision or change recommended. In order to permit adequate Commission consideration of any proposal, the Executive Director may require such additional information as may be needed. Review or consideration of such proposals shall be based upon the recommendation of the Executive Director and the further direction of the Commission.

@@ -1,0 +1,3 @@
+##### § 330.25 Fees. #####
+
+The Association, in its discretion, through publication in the Multiclass Guide or on the GNMA electronic bulletin board, may impose fees for application, guaranty, transfer, change from book entry to certificated form, or other related fees. Fees may vary, at the Association's discretion, depending upon, but not limited to, such factors as size, collateral characteristics, expense or risk of the guaranty transaction undertaken.

@@ -1,0 +1,3 @@
+##### § 553.10 General. #####
+
+Section 3(e)(2)(C) of the Act excludes from the definition of “employee”, and thus from coverage, certain individuals employed by public agencies. This exclusion applies to elected public officials, their immediate advisors, and certain individuals whom they appoint or select to serve in various capacities. In addition, the 1985 Amendments exclude employees of legislative branches of State and local governments. A condition for exclusion is that the employee must not be subject to the civil service laws of the employing State or local agency.

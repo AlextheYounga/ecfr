@@ -1,0 +1,17 @@
+##### § 4.87 Vessels proceeding foreign via domestic ports. #####
+
+(a) Any foreign vessel or documented vessel with a registry may proceed from port to port in the United States to lade cargo or passengers for foreign ports.
+
+(b) When applying for a clearance from the first and each succeeding port of lading, the master must present to the port director a Vessel Entrance or Clearance Statement, Customs Form 1300, in duplicate and a Cargo Declaration Outward With Commercial Forms, Customs Form 1302-A, in accordance with § 4.63(a), of all the cargo laden for export at that port. The Vessel Entrance or Clearance Statement must clearly indicate all previous ports of lading.
+
+(c) Upon compliance with the applicable provisions of § 4.61, the port director will grant the permit to proceed by making the endorsement prescribed by § 4.85(b) on the Vessel Entrance or Clearance Statement, Customs Form 1300. One copy will be returned to the master, together with the vessel's document if on deposit. The traveling Crew's Effects Declaration, Customs Form 1304, together with any unused crewmembers' declarations, will be placed in a sealed envelope addressed to the appropriate Customs officer at the next domestic port and returned to the master.
+
+(d) On arrival at the next and each succeeding domestic port, the master must immediately report arrival. He must also make entry within 48 hours by presenting the vessel's document, the permit to proceed on the Vessel Entrance or Clearance Statement, Customs Form 1300, received by him upon departure from the last port, a Crew's Effects Declaration, Customs Form 1304, in duplicate listing all unentered articles acquired aboard by officers and crew of the vessel which are still retained on board, and a Ship's Stores Declaration, Customs Form 1303, in duplicate of the stores remaining aboard. The master must also execute a Vessel Entrance or Clearance Statement. The traveling Crew's Effects Declaration, together with any unused crewmembers' declarations returned to the master at the prior port, will be delivered by him to the port director.
+
+(e) Clearance shall be granted at the final port of departure from the United States in accordance with § 4.61.
+
+(f) If a complete Cargo Declaration Outward With Commercial Forms, Customs Form 1302-A (see § 4.63), and all required shipper's export declarations are not available for filing before departure of a vessel from any port, clearance on the Vessel Entrance or Clearance Statement, Customs Form 1300, may be granted in accordance with § 4.75, subject to the limitation specified in § 4.75(c).
+
+(g) When the procedure outlined in paragraph (f) of this section is followed at any port, the owner or agent of the vessel must deliver to the director of that port within 4 business days after the vessel's clearance a Cargo Declaration Outward With Commercial Forms, Customs Form 1302-A (see § 4.63), and the export declarations to cover the cargo laden for export at that port.
+
+[T.D. 77-255, 42 FR 56324, Oct. 25, 1977, as amended by T.D. 83-214, 48 FR 46513, Oct. 13, 1983; T.D. 84-193, 49 FR 35485, Sept. 10, 1984; T.D. 92-74, 57 FR 35752, Aug. 11, 1992; T.D. 93-96, 58 FR 67317, Dec. 21, 1993; T.D. 00-22, 65 FR 16517, Mar. 29, 2000; CBP Dec. 08-25, 73 FR 40725, July 16, 2008]

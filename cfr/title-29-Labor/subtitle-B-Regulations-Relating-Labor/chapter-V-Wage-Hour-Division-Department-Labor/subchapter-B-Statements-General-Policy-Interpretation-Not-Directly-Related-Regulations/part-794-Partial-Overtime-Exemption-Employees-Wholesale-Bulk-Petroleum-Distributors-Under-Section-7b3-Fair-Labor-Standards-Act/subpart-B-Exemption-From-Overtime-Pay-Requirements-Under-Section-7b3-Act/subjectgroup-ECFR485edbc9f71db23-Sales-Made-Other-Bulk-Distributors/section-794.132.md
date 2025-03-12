@@ -1,0 +1,3 @@
+##### § 794.132 “Petroleum products”. #####
+
+A sale by an enterprise engaged in the wholesale or bulk distribution of petroleum products will be included in the 25 percent limitation under the exemption only if it is made to a customer who engages in the distribution, in bulk and for resale, of “petroleum products”. The term “petroleum products” as used in section 7(b)(3) includes such products as gasoline, kerosene, diesel fuel, lubricating oils, fuel oils, greases, and liquified-petroleum gas. Sales to customers who are not engaged in the distribution of petroleum products will not be included in the 25 percent limitation.

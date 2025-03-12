@@ -1,0 +1,21 @@
+##### § 12.3 Development of voluntary product standards. #####
+
+(a) *Invitation to participate in the development of a voluntary product standard.* Whenever the Secretary publishes a final determination of undue proliferation under § 12.2(e), he shall invite manufacturers, packers, and distributors of the commodity or commodities involved to participate in the development of a voluntary product standard in accordance with the terms of the Act and the Department's published procedures for voluntary product standards. The term “Voluntary Product Standard” as used in this section means a standard for weights, measures or quantities in which the commodity or commodities are being distributed in packages for sale at retail.
+
+(b) *Determination that voluntary product standard will not be published.* (1) If a voluntary product standard has not been developed within one year from the date on which participation was invited, the Secretary may conclude that a voluntary product standard will not likely be published. Upon reaching such a conclusion, the Secretary will publish a proposed determination that a voluntary product standard will not be published.
+
+(2) Within 60 days after publication of the proposed determination, any interested party may submit in writing comments, data, arguments, views, or other information relevant to the proposed determination. All written submissions shall be made a part of the public record.
+
+(3) Within 30 days after the proposed determination has been published, any interested party may request in writing an oral hearing to present his views. The granting of such a hearing shall be at the discretion of the Secretary. Any such hearing shall be public and notice thereof shall be published at least 15 days in advance. A transcript of the hearing shall be made part of the public record.
+
+(4) As soon as practicable following the conclusion of the proceedings described in paragraphs (b)(2) and (3) of this section, the Secretary shall either publish a final determination that a voluntary product standard will not be published, or he shall publish a notice withdrawing his proposed determination under paragraph (b)(1) of this section. In no event shall the withdrawal of a proposed determination operate to preclude the publication of another proposed determination under paragraph (b)(1) of this section with respect to the same or similar subject matter.
+
+(c) *Determination that a published voluntary product standard has not been observed.* (1) Whenever the Secretary has reason to believe that a voluntary product standard published under these procedures is not being observed he shall initiate an inquiry to determine such fact.
+
+(2) If, on the basis of the information developed during the inquiry, the Secretary concludes that the voluntary product standard is not being observed, he shall publish a proposed determination to this effect. The proposed determination shall identify the particular standard involved and shall be accompanied by a concise statement of the facts upon which it is based.
+
+(3) Within 60 days after publication of the proposed determination, any interested party may submit in writing comments, data, arguments, views, or other information relevant to the proposed determination. All written submissions shall be made a part of the public record.
+
+(4) Within 30 days after the proposed determination has been published, any interested party may request in writing an oral hearing to present his views. The granting of such a hearing shall be at the discretion of the Secretary. Any such hearing shall be public and notice thereof shall be published at least 15 days in advance. A transcript of the hearing shall be made part of the public record.
+
+(5) As soon as practicable following the conclusion of the proceedings described in paragraphs (c)(3) and (4) of this section, and upon consideration of all relevant information, the Secretary shall either publish a final determination that the voluntary product standard is not being observed, or he shall publish a notice withdrawing his proposed determination under paragraph (c)(2) of this section. In no event shall the withdrawal of a proposed determination operate to preclude the initiation of another inquiry regarding the same standard under paragraph (c)(1) of this section.

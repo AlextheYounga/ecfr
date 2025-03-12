@@ -1,0 +1,11 @@
+##### § 2510.3-38 Filing requirements for State registered investment advisers to be investment managers. #####
+
+(a) *General.* Section 3(38) of the Act sets forth the criteria for a fiduciary to be an investment manager for purposes of section 405 of the Act. Subparagraph (B)(ii) of section 3(38) of the Act provides that, in the case of a fiduciary who is not registered under the Investment Advisers Act of 1940 by reason of paragraph (1) of section 203A(a) of such Act, the fiduciary must be registered as an investment adviser under the laws of the State in which it maintains its principal office and place of business, and, at the time the fiduciary files registration forms with such State to maintain the fiduciary's registration under the laws of such State, also files a copy of such forms with the Secretary of Labor. The purpose of this section is to set forth the exclusive means for investment advisers to satisfy the filing obligation with the Secretary described in subparagraph (B)(ii) of section 3(38) of the Act.
+
+(b) *Filing requirement.* To satisfy the filing requirement with the Secretary in section 3(38)(B)(ii) of the Act, a fiduciary must be registered as an investment adviser with the State in which it maintains its principal office and place of business and file through the Investment Adviser Registration Depository (IARD), in accordance with applicable IARD requirements, the information required to be registered and maintain the fiduciary's registration as an investment adviser in such State. Submitting to the Secretary investment adviser registration forms filed with a State does not constitute compliance with the filing requirement in section 3(38)(B)(ii) of the Act.
+
+(c) *Definitions.* For purposes of this section, the term “Investment Adviser Registration Depository” or “IARD” means the centralized electronic depository described in 17 CFR 275.203-1.
+
+(d) *Cross reference.* Information for investment advisers on how to file through the IARD is available on the Securities and Exchange Commission website at *www.sec.gov/iard.*
+
+[69 FR 52125, Aug. 24, 2004]

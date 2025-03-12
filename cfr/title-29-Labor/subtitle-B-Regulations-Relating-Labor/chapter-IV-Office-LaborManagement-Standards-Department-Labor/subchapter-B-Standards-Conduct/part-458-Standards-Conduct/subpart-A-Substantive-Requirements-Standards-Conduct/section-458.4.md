@@ -1,0 +1,11 @@
+##### § 458.4 Informing members of the standards of conduct provisions. #####
+
+(a) Every labor organization subject to the requirements of the CSRA, the FSA, or the CAA shall inform its members concerning the standards of conduct provisions of the Acts and the regulations in this subchapter. Labor organizations shall provide such notice to members by October 2, 2006 and thereafter to all new members within 90 days of the time they join and to all members at least once every three years. Notice must be provided by hand delivery, U.S. mail or e-mail or a combination of the three as long as the method is reasonably calculated to reach all members. Such notice may be included with the required notice of local union elections. Where a union newspaper is used to provide notice, the notice must be conspicuously placed on the front page of the newspaper, or the front page should have a conspicuous reference to the inside page where the notice appears, so that the inclusion of the notice in a particular issue is readily apparent to each member.
+
+(b) A labor organization may demonstrate compliance with the requirements of paragraph (a) of this section by showing that another labor organization provided an appropriate notice to all of its members during the necessary time frame.
+
+(c) Labor organizations may use the Department of Labor publication Union Member Rights and Officer Responsibilities under the Civil Service Reform Act (available on the OLMS Web site at *http://www.dol.gov/olms*) or may devise their own language as long as the notice accurately states all of the CSRA standards of conduct provisions as set forth in the fact sheet.
+
+(d) If a labor organization has a Web site, the site must contain a conspicuous link to Union Member Rights and Officer Responsibilities under the Civil Service Reform Act or, alternatively, to the labor organization's own notice prepared in accordance with paragraph (c) of this section.
+
+[71 FR 31492, June 2, 2006, as amended at 78 FR 8026, Feb. 5, 2013]

@@ -1,0 +1,3 @@
+##### § 5.9 Suspension of funds. #####
+
+In the event of failure or refusal of the contractor or any subcontractor to comply with the labor standards clauses contained in § 5.5 and the applicable statutes listed in § 5.1, the Federal agency, upon its own action or upon written request of an authorized representative of the Department of Labor, shall take such action as may be necessary to cause the suspension of the payment, advance or guarantee of funds until such time as the violations are discontinued or until sufficient funds are withheld to compensate employees for the wages to which they are entitled and to cover any liquidated damages which may be due.

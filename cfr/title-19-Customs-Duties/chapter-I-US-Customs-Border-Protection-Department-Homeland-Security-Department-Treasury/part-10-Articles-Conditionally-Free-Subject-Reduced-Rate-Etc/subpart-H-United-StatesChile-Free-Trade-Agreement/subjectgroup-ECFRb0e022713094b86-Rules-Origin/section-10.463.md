@@ -1,0 +1,5 @@
+##### § 10.463 Transit and transshipment. #####
+
+(a) *General.* A good will not be considered an originating good by reason of having undergone production that occurs entirely in the territory of Chile, the United States, or both, that would enable the good to qualify as an originating good if subsequent to that production the good undergoes further production or any other operation outside the territories of Chile and the United States, other than unloading, reloading, or any other process necessary to preserve the good in good condition or to transport the good to the territory of Chile or the United States.
+
+(b) *Documentary evidence.* An importer making a claim that a good is originating may be required to demonstrate, to CBP's satisfaction, that no further production or subsequent operation, other than permitted under paragraph (a) of this section, occurred outside the territories of Chile or the United States. An importer may demonstrate compliance with this section by submitting documentary evidence. Such evidence may include, but is not limited to, bills of lading, packing lists, commercial invoices, and customs entry and exit documents.

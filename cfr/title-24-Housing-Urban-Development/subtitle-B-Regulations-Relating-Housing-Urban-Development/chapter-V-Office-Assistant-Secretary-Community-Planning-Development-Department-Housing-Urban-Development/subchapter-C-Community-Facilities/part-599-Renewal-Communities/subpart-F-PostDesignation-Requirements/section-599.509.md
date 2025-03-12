@@ -1,0 +1,3 @@
+##### § 599.509 Modification of commitments and plans. #####
+
+The CoRA may submit requests to HUD to modify the State and local commitments made at the time of application as required by § 599.107 and the tax incentives utilization plans required by § 599.505. Requests must provide evidence to support the proposed modifications. HUD will review the proposed modification for consistency with regulatory and statutory requirements and approve, suggest additional or alternate modifications or deny the request within 30 days.

@@ -1,0 +1,3 @@
+##### § 4022.103 Who will get benefits if I die when payments for future periods under a certain-and-continuous or similar annuity are owed upon my death? #####
+
+If you die at a time when payments are owed for future periods under a form of annuity promising that, regardless of a participant's death, there will be annuity payments for a certain period of time (e.g., a certain-and-continuous annuity) or until a certain amount is paid (e.g., a cash-refund annuity or installment-refund annuity), and there is no surviving beneficiary designated to receive such payments, we will pay the remaining payments to the person determined under the rules in § 4022.93.

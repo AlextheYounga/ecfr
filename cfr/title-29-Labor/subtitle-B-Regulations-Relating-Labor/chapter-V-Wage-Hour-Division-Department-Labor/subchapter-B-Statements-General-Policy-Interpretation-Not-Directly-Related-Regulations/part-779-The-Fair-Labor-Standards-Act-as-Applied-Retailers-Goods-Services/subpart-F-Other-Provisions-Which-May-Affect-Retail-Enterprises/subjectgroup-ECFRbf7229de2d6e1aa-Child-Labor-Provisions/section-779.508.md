@@ -1,0 +1,3 @@
+##### § 779.508 Eighteen-year minimum. #####
+
+To protect young workers from hazardous employment, the Act provides for a minimum age of 18 years in occupations found and declared by the Secretary to be particularly hazardous or detrimental to health or well-being of minors 16 and 17 years of age. These occupations may be found in §§ 570.51 through 570.68 of this chapter. Of particular interest to retailers are §§ 570.52, 570.58, 570.62 and 570.63 of this chapter pertaining to the occupations of motor-vehicle driver and outside helper, and occupations involving the operation of power-driven hoisting apparatus, bakery machines, and paper products machines.

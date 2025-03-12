@@ -1,0 +1,11 @@
+##### § 806.32 Reopening/modification. #####
+
+(a) Once a project is approved, the Commission, upon its own motion, or upon petition of the project sponsor or any interested party, may at any time reopen any project approval and make additional orders or otherwise modify or impose such additional conditions that may be necessary to mitigate or avoid adverse impacts or to otherwise protect the public health, safety, and welfare or water resources. Whenever a petition for reopening is filed by an interested party, the burden shall be upon that interested party to show, by a preponderance of the evidence, that a significant adverse impact or a threat to the public health, safety and welfare or water resources exists that warrants reopening of the docket. Notwithstanding the foregoing, any petition filed by a party who previously sought the same or functionally equivalent relief identified in the petition pursuant to the administrative appeals process under § 808.2 will not be eligible for consideration by the Commission absent new facts not known or readily discernable at the time of consideration of the petitioner's previous request for administrative appeal filed pursuant to § 808.2.
+
+(b) If the project sponsor fails to comply with any term or condition of a Commission approval, the Commission may issue an order suspending, modifying or revoking its approval of the project. The Commission may also, in its discretion, suspend, modify or revoke its approval if the project sponsor fails to obtain or maintain other federal, state or local approvals.
+
+(c) For any previously approved project where interference occurs, the Commission may require a project sponsor to provide a temporary source of potable water at the project sponsor's expense, pending a final determination of causation by the Commission.
+
+(d) The Commission, upon its own motion, may at any time reopen any project approval and make additional corrective modifications that may be necessary.
+
+[71 FR 78579, Dec. 29, 2006, as amended at 74 FR 49813, Sept. 29, 2009]

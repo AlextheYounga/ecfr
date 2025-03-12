@@ -1,0 +1,3 @@
+##### § 930.50 Objectives. #####
+
+The provisions of this subpart are intended to ensure that any required federal license or permit activity affecting any coastal use or resource is conducted in a manner consistent with approved management programs. The provisions of subpart I of this part are intended to supplement the provisions of this subpart for federal license or permit activities having interstate coastal effects.

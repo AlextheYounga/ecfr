@@ -1,0 +1,3 @@
+##### § 783.39 “Vessel” includes all means of water transportation. #####
+
+Since the Act does not define “vessel” it is appropriate to apply the difinition of “vessel” as set forth in the United States Code (1 U.S.C. 3). The Code defines “vessel” as including “every description of watercraft or other artificial contrivance used, or capable of being used, as a means of transportation on water”. But the Federal Boating Act of 1958, (under which the U.S. Coast Guard is responsible for numbering vessels) and the Documentation Regulations administered by the Bureau of Customs, utilize this basic definition, with the addition of specific exclusions for “seaplanes” and “aircraft” (46 U.S.C. 527; 19 CFR 3.1(a)).

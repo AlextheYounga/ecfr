@@ -1,0 +1,5 @@
+##### § 102.91 Compliance with determination; further proceedings. #####
+
+If, after issuance of the determination by the Board, the parties submit to the regional director satisfactory evidence that they have complied with the determination, the regional director shall dismiss the charge. If no satisfactory evidence of compliance is submitted, the regional director shall proceed with the charge under paragraph (4)(D) of section 8(b) and section 10 of the Act and the procedure prescribed in §§ 102.9 to 102.51, inclusive, shall, insofar as applicable, govern: *Provided, however,* That if the Board determination is that employees represented by a charged union are entitled to perform the work in dispute, the regional director shall dismiss the charge as to that union irrespective of whether the employer has complied with that determination.
+
+[36 FR 9133, May 20, 1971]

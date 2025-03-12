@@ -1,0 +1,3 @@
+##### § 778.2 Coverage and exemptions not discussed. #####
+
+This part 778 does not deal with the general coverage of the Act or various specific exemptions provided in the statute, under which certain employees within the general coverage of the wage and hours provisions are wholly or partially excluded from the protection of the Act's minimum-wage and overtime-pay requirements. Some of these exemptions are self-executing; others call for definitions or other action by the Administrator. Regulations and interpretations relating to general coverage and specific exemptions may be found in other parts of this chapter.

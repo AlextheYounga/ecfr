@@ -1,0 +1,3 @@
+##### § 30.12 Adjustments in schedule for compliance review or complaint processing. #####
+
+If, in the judgment of the Department, a particular situation warrants and requires special processing and either expedited or extended determination, it shall take the steps necessary to permit such determination if it finds that no person or party affected by such determination will be prejudiced by such special processing.

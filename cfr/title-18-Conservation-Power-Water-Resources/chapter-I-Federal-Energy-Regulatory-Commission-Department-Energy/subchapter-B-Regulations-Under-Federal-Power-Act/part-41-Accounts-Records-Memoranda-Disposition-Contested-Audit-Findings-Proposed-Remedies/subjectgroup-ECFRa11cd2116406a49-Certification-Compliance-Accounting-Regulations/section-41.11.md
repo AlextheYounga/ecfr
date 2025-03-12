@@ -1,0 +1,5 @@
+##### § 41.11 Report of certification. #####
+
+Each Major and Nonmajor (including those companies classified as nonoperating under Part 101, General Instruction 1(A)(3) of this chapter) public utility or licensee operating on a calendar year and not classified as Class C or Class D prior to January 1, 1984 must file with the Commission a letter or report of the independent accountant certifying approval, together with or within 30 days after the filing of the Annual Report, Form No. 1, covering the subjects and in the form prescribed in the General Instructions of the Annual Report. For such utility or licensee operating on a non-calendar fiscal year, the letter or report of the independent accountant certifying approval must be filed within 150 days of the close of the company's fiscal year; the letter or report must also identify which, if any, of the examined schedules do not conform to the Commission's requirements and shall describe the discrepancies that exist. The Commission will not be bound by a certification of compliance made by an independent accountant pursuant to this paragraph.
+
+[73 FR 58736, Oct. 7, 2008]

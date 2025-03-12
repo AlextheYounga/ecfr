@@ -1,0 +1,17 @@
+##### § 51.104 Special requirements. #####
+
+(a)(1) *Noise attenuation.* Noise attenuation measures are those required in addition to attenuation provided by buildings as commonly constructed in the area, and requiring open windows for ventilation. Measures that reduce external noise at a site shall be used wherever practicable in preference to the incorporation of additional noise attenuation in buildings. Building designs and construction techniques that provide more noise attenuation than typical construction may be employed also to meet the noise attenuation requirements.
+
+(2) *Normally unacceptable noise zones and unacceptable noise zones.* Approvals in Normally Unacceptable Noise Zones require a minimum of 5 decibels additional sound attenuation for buildings having noise-sensitive uses if the day-night average sound level is greater than 65 decibels but does not exceed 70 decibels, or a minimum of 10 decibels of additional sound attenuation if the day-night average sound level is greater than 70 decibels but does not exceed 75 decibels. Noise attenuation measures in Unacceptable Noise Zones require the approval of the Assistant Secretary for Community Planning and Development, or the Certifying Officer for activities subject to 24 CFR part 58. (See § 51.104(b)(2).)
+
+(b) *Environmental review requirements.* Environmental reviews shall be conducted pursuant to the requirements of 24 CFR parts 50 and 58, as applicable, or other environmental regulations issued by the Department. These requirements are hereby modified for all projects proposed in the Normally Unacceptable and Unacceptable noise exposure zones as follows:
+
+(1) *Normally unacceptable noise zone.* (i) All projects located in the Normally Unacceptable Noise Zone require a Special Environmental Clearance except an EIS is required for a proposed project located in a largely undeveloped area, or where the HUD action is likely to encourage the establishment of incompatible land use in this noise zone.
+
+(ii) When an EIS is required, the concurrence of the Program Assistant Secretary is also required before a project can be approved. For the purposes of this paragraph, an area will be considered as largely undeveloped unless the area within a 2-mile radius of the project boundary is more than 50 percent developed for urban uses and infrastructure (particularly water and sewers) is available and has capacity to serve the project.
+
+(iii) All other projects in the Normally Unacceptable zone require a Special Environmental Clearance, except where an EIS is required for other reasons pursuant to HUD environmental policies.
+
+(2) *Unacceptable noise zone.* An EIS is required prior to the approval of projects with unacceptable noise exposure. Projects in or partially in an Unacceptable Noise Zone shall be submitted to the Assistant Secretary for Community Planning and Development, or the Certifying Officer for activities subject to 24 CFR part 58, for approval. The Assistant Secretary or the Certifying Officer may waive the EIS requirement in cases where noise is the only environmental issue and no outdoor noise sensitive activity will take place on the site. In such cases, an environmental review shall be made pursuant to the requirements of 24 CFR parts 50 or 58, as appropriate.
+
+[44 FR 40861, July 12, 1979, as amended at 61 FR 13333, Mar. 26, 1996]

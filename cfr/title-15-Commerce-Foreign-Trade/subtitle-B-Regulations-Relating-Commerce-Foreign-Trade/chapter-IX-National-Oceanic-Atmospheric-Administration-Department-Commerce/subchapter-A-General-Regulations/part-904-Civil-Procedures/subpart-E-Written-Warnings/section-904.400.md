@@ -1,0 +1,3 @@
+##### § 904.400 Purpose and scope. #####
+
+This subpart sets forth the policy and procedures governing the issuance and use of written warnings by persons authorized to enforce the statutes administered by NOAA, and the review of such warnings. A written warning may be issued in lieu of assessing a civil penalty or initiating criminal prosecution for violation of any of the laws cited in § 904.1(c).

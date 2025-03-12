@@ -1,0 +1,3 @@
+##### § 779.11 General statement. #####
+
+The meaning and application of the provisions of law discussed in this part depend in large degree on the definitions of terms used in these provisions. The Act itself defines some of these terms. Others have been defined and construed in decisions of the courts. In the following sections some of these basic definitions are set forth for ready reference in connection with the part's discussion of the various provisions in which they appear. Some of these definitions and their application are considered in detail in other interpretative bulletins. The application of the others is considered in the sections of this part where the particular provisions containing the defined terms are discussed.

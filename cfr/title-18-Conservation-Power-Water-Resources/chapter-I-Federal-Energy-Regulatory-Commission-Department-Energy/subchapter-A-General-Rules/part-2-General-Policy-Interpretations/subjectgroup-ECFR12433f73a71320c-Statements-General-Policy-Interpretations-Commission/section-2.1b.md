@@ -1,0 +1,5 @@
+##### § 2.1b Availability in contested cases of information acquired by staff investigation. #####
+
+Pursuant to the Commission's authority under the Natural Gas Act, particularly subsection (b) of section 8 thereof, and under the Federal Power Act, particularly subsection (b) of section 301 thereof, upon request by a party to the proceedings, or as required in conjunction with the presentation of a Commission staff case of staff's cross-examination of any other presentation therein, all relevant information acquired by Commission staff, including workpapers pursuant to any staff investigation conducted under sections 8, 10, or 14 of the Natural Gas Act, and sections 301, 304 or 307 of the Federal Power Act, shall, without further order of the Commission, be free from the restraints of said subsection (b) of section 8 of the Natural Gas Act, and subsection (b) of section 301 of the Federal Power Act, regarding the divulgence of information, with respect to any matter hereafter set for formal hearing.
+
+[58 FR 38292, July 16, 1993]

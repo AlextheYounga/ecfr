@@ -1,0 +1,25 @@
+##### § 335.3 Applications to receive allocation. #####
+
+(a) In each year prior to a Tariff Rate Quota Year, the Department will cause to be published a Federal Register notice soliciting applications to receive an allocation of the Tariff Rate Quotas.
+
+(b) An application for a Tariff Rate Quota allocation must be received, or postmarked by the U.S. Postal Service, within 30 calendar days after the date of publication of the Federal Register notice soliciting applications.
+
+(c) For applying for TRQs 9902.51.11 or 9902.51.15 during the calendar year of the date of the application, an applicant must have cut and sewed in the United States all three of the following apparel products: Worsted Wool Suits, Worsted Wool Suit-Type Jackets, and Worsted Wool Trousers. The applicant may either have cut and sewn these products on its own behalf or had another person cut and sew the products on the applicant's behalf, provided the applicant owned the fabric at the time it was cut and sewn. The application must contain a statement to this effect. For applying for TRQ 9902.51.16 during the calendar year of the date of the application, an applicant must have woven in the United States worsted wool fabrics with average fiber diameters of 18.5 microns or less, suitable for use in making suits, suit-type jackets, and trousers. The application must contain a statement to this effect.
+
+(d) An applicant must provide the following information in the format set forth in the application form provided by the Department:
+
+(1) *Identification.* Applicant's name, address, telephone number, fax number, and federal tax identification number; name of person submitting the application, and title, or capacity in which the person is acting for the applicant.
+
+(2)(i) *Production.* Applicants for TRQs 9902.51.11 and 9902.51.15 must provide the name and address of each plant or location where Worsted Wool Suits, Worsted Wool Suit-Type Jackets, and Worsted Wool Trousers were cut and sewn or woven by the applicant and the name and address of all plants or locations that cut and sewed such products on behalf of the applicant. Production data, including the following: the quantity and value of the Worsted Wool Suits, Worsted Wool Suit-Type Jackets, and Worsted Wool Trousers cut and sewn in the United States by applicant, or on behalf of applicant, from fabric owned by applicant. This data must indicate actual production (not estimates) of Worsted Wool Suits, Worsted Wool Suit-Type Jackets and Worsted Wool Trousers containing at least 85 percent worsted wool fabric by weight with an average diameter of 18.5 microns or less. This data must also indicate actual production (not estimates) of Worsted Wool Suits, Worsted Wool Suit-Type Jackets and Worsted Wool Trousers containing at least 85 percent worsted wool fabric by weight with average diameter greater than 18.5 microns. Production data must be provided for the first six months of the year of the application. This data will be annualized for the purpose of making Tariff Rate Quota allocations.
+
+(ii) Applicants for TRQ 9902.51.16 must provide the name and address of each plant or location where Worsted Wool Fabric was woven by the applicant. The quantity and value of the Worsted Wool Fabric woven in the United States by applicant. This data must indicate actual production (not estimates) of Worsted Wool Fabric containing at least 85 percent worsted wool fabric by weight with an average diameter of 18.5 microns or less. For applications for the 2005 Tariff Rate Quota year, production data must be provided for full calendar year 2004. For allocations of Tariff Rate Quota years after 2005, production data must be provided for the first six months of the year of the application. This data will be annualized for the purpose of making Tariff Rate Quota allocations.
+
+(3) *Worsted Wool Fabric.* Data indicating the quantity and value of the Worsted Wool Fabric used in reported production.
+
+(4) *Certification.* A statement by the applicant (if a natural person), or on behalf of applicant, by an employee, officer or agent, with personal knowledge of the matters set out in the application, certifying that the information contained therein is complete and accurate, signed and sworn before a Notary Public, and acknowledging that false representations to a federal agency may result in criminal penalties under federal law.
+
+(e) *Confidentiality.* Any business confidential information provided pursuant to this section that is marked business confidential will be kept confidential and protected from disclosure to the full extent permitted by law.
+
+(f) *Record Retention:* The applicant shall retain records substantiating the information provided in § 335.3(d)(2), (3), and (4) for a period of 3 years and the records must be made available upon request by an appropriate U.S. government official.
+
+[66 FR 6461, Jan. 22, 2001, as amended at 70 FR 25777, May 16, 2005]

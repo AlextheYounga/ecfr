@@ -1,0 +1,5 @@
+##### § 29.151 How does the Service establish the amount of financial assurance? #####
+
+(a) You are responsible for completing reclamation of your disturbances, whether within or outside your permit area, in accordance with this subpart and the terms of your permit. If you fail to properly complete reclamation, you will be liable for the full costs of completing the reclamation. We will base the financial assurance amount upon the estimated cost that a third-party contractor would charge to complete reclamation in accordance with this subpart. If the cost of reclamation exceeds the amount of your financial assurance, you will remain liable for all costs of reclamation in excess of the financial assurance.
+
+(b) The Service will reduce the required amount of your financial assurance during the pendency of operations by the amount we determine is represented by in-kind reclamation you complete during your operations.

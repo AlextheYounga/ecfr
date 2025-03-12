@@ -1,0 +1,15 @@
+##### § 776.9 General scope of “in commerce” coverage. #####
+
+Under the definitions quoted above, it is clear that the employees who are covered by the wage and hours provisions of the Act as employees “engaged in commerce” are employees doing work involving or related to the movement of persons or things (whether tangibles or intangibles, and including information and intelligence) “among the several States or between any State and any place outside thereof.”23 Although this does not include employees engaged in activities which merely “affect” such interstate or foreign commerce, the courts have made it clear that coverage of the Act based on engaging in commerce extends to every employee employed “in the channels of” such commerce or in activities so closely related to such commerce, as a practical matter, that they should be considered a part of it.24 The courts have indicated that the words “in commerce” should not be so limited by construction as to defeat the purpose of Congress, but should be interpreted in a manner consistent with their practical meaning and effect in the particular situation. One practical question to be asked is whether, without the particular service, interstate or foreign commerce would be impeded, impaired, or abated;25 others are whether the service contributes materially to the consummation of transactions in interstate or foreign commerce26 or makes it possible for existing instrumentalities of commerce27 to accomplish the movement of such commerce effectively and to free it from burdens or obstructions.28
+
+23 “Any place outside thereof” is not limited in meaning to another State or country. Any movement between a State and a place “outside thereof” is “commerce” for purposes of the Act, such as ship-to-shore communication, or transportation out of a State by ship of food, fuel, or ice to be consumed at sea before arrival at another port.
+
+24*Walling* v. *Jacksonville Paper Co.,* 317 U.S. 564; *Overstreet* v. *North Shore Corp.,* 318 U.S. 125; *McLeod* v. *Threlkeld,* 319 U.S. 491; *Boutell* v. *Walling,* 327 U.S. 463; *Pedersen* v. *J. F. Fitzgerald Constr. Co.,* 318 U.S. 740 and 324 U.S. 720.
+
+25*Republic Pictures Corp.* v. *Kappler,* 151 F. 2d 543 (C.A. 8), affirmed 327 U.S. 757; *New Mexico Public Service Co.* v. *Engel,* 145 F. 2d 636 (C.A. 10).
+
+26*Walling* v. *Sondock,* 132 F. 2d 77 (C.A. 5), certiorari denied 318 U.S. 772. See also *Horton* v. *Wilson & Co.,* 223 N.C. 71, 25 S.E. 2d 437, in which the court stated that an employee is engaged “in commerce” if his services - not too remotely but substantially and directly - aid in such commerce as defined in the Act.
+
+27 For a list of such instrumentalities, see § 776.11.
+
+28*Overstreet* v. *North Shore Corp.,* 318 U.S. 125; *J. F. Fitzgerald Constr. Co.* v. *Pedersen,* 324 U.S. 720; *Ritch* v. *Puget Sound Bridge & Dredging Co.,* 156 F. 2d 334 (C.A. 9); *Walling* v. *McCrady Constr. Co.,* 156 F. 2d 932 (C.A. 3); *Bennett* v. *V. P. Loftis,* 167 F. 2d 286 (C.A. 4); *Walling* v. *Patton-Tully Transp. Co.,* 134 F. 2d 945 (C.A. 6).

@@ -1,0 +1,13 @@
+##### § 352.6 FEMA determination on the commitment of Federal facilities and resources. #####
+
+(a) A licensee request for Federal facilities and resources shall document the licensee's maximum feasible use of its resources and its efforts to secure the use of State and local government and volunteer resources.
+
+(b) Upon a licensee request for Federal facilities and resources, FEMA headquarters shall notify NRC and request advice from the NRC as to whether the licensee has made maximum use of its resources and the extent to which the licensee has complied with 10 CFR 50.47(c)(1). The host FEMA Regional Administratorshall make a recommendation to the FEMA Deputy Administrator for the National Preparedness Directorate on whether the provision of these facilities and resources is warranted. The FEMA Deputy Administrator for the National Preparedness Directorate shall make a final determination as to whether Federal facilities and resources are needed.
+
+(c) In making the determination under paragraph (b) of this section, FEMA:
+
+(1) Shall work actively with the licensee, and before relying upon any Federal resources, shall make maximum feasible use of the licensee's own resources, which may include agreements with volunteer organizations and other government entities and agencies; and
+
+(2) Shall assume that, in the event of an actual radiological emergency or disaster, State and local authorities would contribute their full resources and exercise their authorities in accordance with their duties to protect the public and would act generally in conformity with the licensee's radiological emergency preparedness plan.
+
+(d) The FEMA Deputy Administrator for the National Preparedness Directorate shall make a determination on the need for and commitment of Federal facilities and resources. The FEMA determination shall be made in consultation with affected Federal agencies and in accordance with 44 CFR 352.21. FEMA shall inform the licensee, the States and affected local governments in writing of the Federal support which will be provided. This information shall identify Federal agencies that are to provide Federal support, the extent and purpose of the support to be provided, the Federal facilities and resources to be committed and the limitations on their use. The provision of the identified Federal support shall be made under the policies and procedures of subpart B of this part.

@@ -1,0 +1,5 @@
+##### § 1902.19 Notice of hearing. #####
+
+(a) Whenever the Assistant Secretary has issued no previous notice concerning the plan, or only informal rule making proceedings have been conducted concerning the plan, the Assistant Secretary shall publish in the Federal Register an appropriate notice concerning the plan and provide an opportunity for formal hearing and decision on the possible rejection of the plan and on any subsidiary issues. The notice also shall set forth such rules as may be necessary so as to assure compliance with 5 U.S.C. 556 and 557 in the conduct of the proceeding. The time for filing proposed findings and conclusions and exceptions to any tentative decision shall be set forth in the notice.
+
+(b) Not later than 5 days following the publication of the notice in the Federal Register, required by paragraph (a) of this section, the applying State agency shall publish, or cause to be published, within the State reasonable notice containing the same information.

@@ -1,0 +1,3 @@
+##### § 201.22 Purpose and scope. #####
+
+This subpart contains the rules that the Commission follows under the Privacy Act of 1974, 5 U.S.C. 552a. The rules in this subpart apply to all records in systems of records maintained by the Commission that are retrieved by an individual's name or other personal identifier. They describe the procedures by which individuals may request access to records about themselves, request amendment or correction of those records, and request an accounting of disclosures of those records by the Commission.

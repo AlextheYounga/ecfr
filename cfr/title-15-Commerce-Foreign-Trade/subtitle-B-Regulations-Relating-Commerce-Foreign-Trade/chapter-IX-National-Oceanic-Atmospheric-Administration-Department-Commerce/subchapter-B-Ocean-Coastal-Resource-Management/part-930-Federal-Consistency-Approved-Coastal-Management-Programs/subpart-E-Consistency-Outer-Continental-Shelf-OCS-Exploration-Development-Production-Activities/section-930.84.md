@@ -1,0 +1,3 @@
+##### § 930.84 Continuing State agency objections. #####
+
+If the State agency objects to the consistency certification for an amended OCS plan, the prohibition in § 930.80 against Federal agency approval of licenses or permits for activities described in detail in such a plan applies, further Secretarial review pursuant to subpart H of this part may take place, and the development of an additional amended OCS plan and consistency certification may be required pursuant to §§ 930.82 through 930.83.

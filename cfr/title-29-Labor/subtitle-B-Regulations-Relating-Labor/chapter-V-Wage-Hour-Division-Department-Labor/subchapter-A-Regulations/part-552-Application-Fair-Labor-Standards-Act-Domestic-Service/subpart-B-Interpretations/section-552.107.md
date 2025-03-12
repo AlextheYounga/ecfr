@@ -1,0 +1,3 @@
+##### § 552.107 Yard maintenance workers. #####
+
+Persons who mow lawns and perform other yard work in a neighborhood community generally provide their own equipment, set their own work schedule and occasionally hire other individuals. Such persons will be recognized as independent contractors who are not covered by the Act as domestic service employees. On the other hand, gardeners and yardmen employed primarily by one household are not usually independent contractors.

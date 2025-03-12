@@ -1,0 +1,3 @@
+##### § 511.301 Purpose. #####
+
+The purpose of this part is to establish the provisions and parameters for the Real-Time System Management Information Program. These provisions implement Subsections 1201(a)(1), (a)(2), and (c)(1) of the Safe, Accountable, Flexible, Efficient Transportation Equity Act: A Legacy for Users (SAFETEA-LU) (Pub. L. 109-59; 119 Stat. 1144), pertaining to Congestion Relief.

@@ -1,0 +1,5 @@
+##### § 970.800 General. #####
+
+The Act contains requirements, in the context of several decisions, that relate to assuring the safety of life and property at sea. For instance, before the Administrator may issue a license, section 105(a)(5) of the Act requires that he find that the proposed exploration will not pose an inordinate threat to the safety of life and property at sea. Also, under section 112(a) of the Act the Coast Guard, in consultation with NOAA, must require in any license or permit issued under the Act, in conformity with principles of international law, that vessels documented in the United States and used in activities authorized under the license comply with conditions regarding the design, construction, alteration, repair, equipment, operation, manning and maintenance relating to vessel and crew safety and the safety of life and property at sea. In addition, under section 105(c)(1)(B) of the Act, the Administrator may modify terms, conditions and restrictions for a license if required to promote the safety of life and property at sea.
+
+[46 FR 45909, Sept. 15, 1981]

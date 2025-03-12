@@ -1,0 +1,7 @@
+##### § 1203.3 Interpretation of mediation agreements. #####
+
+(a) Applications may be filed with the Board's Chief of Staff under section 5, Second, of the Railway Labor Act, for the interpretation of agreements reached in mediation under section 5, First. Such applications may be made by letter from either party to the mediation agreement stating the specific question on which an interpretation is desired.
+
+(b) This function of the National Mediation Board is not intended to conflict with the provisions of section 3 of the Railway Labor Act. Providing for interpretation of agreements by the National Railroad Adjustment Board. Many complete working agreements are revised with the aid of the Board's mediating services, and it has been the Board's policy that disputes involving the interpretation or application of such agreements should be handled by the Adjustment Board. Under this section of the law the Board when called upon may only consider and render an interpretation on the specific terms of an agreement actually signed in mediation, and not for matters incident or corollary thereto.
+
+[11 FR 177A-923, Sept. 11, 1946. Redesignated at 13 FR 8740, Dec. 30, 1948, as amended at 64 FR 40287, July 26, 1999]

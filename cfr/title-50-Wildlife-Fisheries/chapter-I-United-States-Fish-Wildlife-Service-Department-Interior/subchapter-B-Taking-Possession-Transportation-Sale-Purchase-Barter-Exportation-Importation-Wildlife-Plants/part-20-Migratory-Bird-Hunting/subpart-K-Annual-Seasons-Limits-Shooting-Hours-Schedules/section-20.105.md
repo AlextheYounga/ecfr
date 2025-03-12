@@ -1,0 +1,5 @@
+##### § 20.105 Seasons, limits and shooting hours for waterfowl, coots, and gallinules. #####
+
+This section provides for the annual hunting of certain waterfowl (ducks, geese [including brant]), coots and gallinules in the 48 contiguous United States. The regulations are arranged by the Atlantic, Mississippi, Central and Pacific Flyways. These regulations often vary within Flyways or States, and by time periods. Those areas of the United States outside of State boundaries, *i.e.*, the United States' territorial waters seaward of county boundaries, and including coastal waters claimed by the separate States, if not already included under the zones contained in § 20.108, are designated for the purposes of § 20.21(j) as nontoxic shot zones for waterfowl hunting beginning in the 1991-92 season.
+
+[53 FR 24290, June 28, 1988, as amended at 56 FR 22102, May 13, 1991]Editorial Note:For Federal Register citations affecting annual regulatory schedules for this section, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

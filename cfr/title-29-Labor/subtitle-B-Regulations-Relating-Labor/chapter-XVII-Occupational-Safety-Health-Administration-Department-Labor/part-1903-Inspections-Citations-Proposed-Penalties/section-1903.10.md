@@ -1,0 +1,3 @@
+##### § 1903.10 Consultation with employees. #####
+
+Compliance Safety and Health Officers may consult with employees concerning matters of occupational safety and health to the extent they deem necessary for the conduct of an effective and thorough inspection. During the course of an inspection, any employee shall be afforded an opportunity to bring any violation of the Act which he has reason to believe exists in the workplace to the attention of the Compliance Safety and Health Officer.

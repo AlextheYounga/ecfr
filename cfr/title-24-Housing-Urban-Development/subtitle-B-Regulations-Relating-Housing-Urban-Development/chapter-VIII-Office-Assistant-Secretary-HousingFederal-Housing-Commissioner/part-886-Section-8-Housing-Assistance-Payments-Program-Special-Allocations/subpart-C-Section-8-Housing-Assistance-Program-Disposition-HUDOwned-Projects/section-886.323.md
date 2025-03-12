@@ -1,0 +1,11 @@
+##### § 886.323 Maintenance, operation, and inspections. #####
+
+(a) *Maintain decent, safe, and sanitary housing.* The owner shall maintain and operate the project so as to provide decent, safe, and sanitary housing and the owner shall provide all the services, maintenance, and utilities which he or she agrees to provide under the contract and the lease. Failure to do so shall be considered a material default under the contract and Regulatory Agreement, if any.
+
+(b) *HUD inspection.* Prior to execution of the contract, HUD shall inspect (or cause to be inspected) each proposed contract unit and related facilities to ensure that they are in decent, safe, and sanitary condition.
+
+(c) *Owner and family inspection.* Prior to occupancy of any vacant until by a family, the owner and the family shall inspect the unit and both shall certify that they have inspected the unit and have determined it to be decent, safe, and sanitary. Copies of these reports shall be kept on file by the owner for at least 3 years.
+
+(d) *Annual inspections.* HUD will inspect the project (or cause it to be inspected) at least annually and at such other times as HUD may determine to be necessary to assure that the owner is meeting his or her obligation to maintain the units and the related facilities in decent, safe, and sanitary condition and to provide the agreed-upon utilities and other services. HUD will take into account complaints by occupants and any other information coming to its attention in scheduling inspections and shall notify the owner and the family of its determination regarding the condition of the units.
+
+(e) *Failure to maintain decent, safe, and sanitary units.* If HUD notifies the owner that he/she has failed to maintain a dwelling unit in decent, safe, and sanitary condition, and the owner fails to take corrective action within the time prescribed in the notice, HUD may exercise any of its rights or remedies under the contract, or Regulatory Agreement, if any, including abatement of housing assistance payments (even if the family continues to occupy the unit) and rescission of the sale. If, however, the family wishes to be rehoused in another dwelling unit, HUD shall provide assistance in finding such a unit for the family.

@@ -1,0 +1,9 @@
+##### § 600.205 Principal state officials and their designees. #####
+
+(a) Only a full-time state employee of the state agency responsible for marine and/or anadromous fisheries shall be appointed by a constituent state Governor as the principal state official for purposes of section 302(b) of the Magnuson-Stevens Act.
+
+(b) A principal state official may name his/her designee(s) to act on his/her behalf at Council meetings. Individuals designated to serve as designees of a principal state official on a Council, pursuant to section 302(b)(1)(A) of the Magnuson-Stevens Act, must be a resident of the state and be knowledgeable and experienced, by reason of his or her occupational or other experience, scientific expertise, or training, in the fishery resources of the geographic area of concern to the Council.
+
+(c) New or revised appointments by state Governors of principal state officials and new or revised designations by principal state officials of their designees(s) must be delivered in writing to the appropriate NMFS Regional Administrator and the Council chair at least 48 hours before the individual may vote on any issue before the Council. A designee may not name another designee. Written appointment of the principal state official must indicate his or her employment status, how the official is employed by the state fisheries agency, and whether the official's full salary is paid by the state. Written designation(s) by the principal state official must indicate how the designee is knowledgeable and experienced in fishery resources of the geographic area of concern to the Council, the County in which the designee resides, and whether the designee's salary is paid by the state.
+
+[66 FR 57888, Nov. 19, 2001]

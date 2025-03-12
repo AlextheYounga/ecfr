@@ -1,0 +1,3 @@
+##### § 29.220 Has the Office of Management and Budget approved the collection of information? #####
+
+The Office of Management and Budget reviewed and approved the information collection requirements contained in this subpart and assigned OMB Control No. 1018-0162. We use the information collected under this subpart to manage non-Federal oil and gas operations on Service-administered lands or waters for the purpose of protecting wildlife and habitat, water quality and quantity, wildlife-dependent recreational opportunities, and the health and safety of employees and visitors on the NWRS. We may not conduct or sponsor and you are not required to respond to a collection of information unless it displays a currently valid OMB control number.

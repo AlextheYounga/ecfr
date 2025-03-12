@@ -1,0 +1,3 @@
+##### § 501.17 Concurrent actions. #####
+
+OFLC has primary responsibility to make all determinations regarding the issuance, denial, or revocation of a labor certification as described in § 501.1(b) of this part and in 20 CFR part 655, subpart B. The WHD has primary responsibility to make all determinations regarding the enforcement functions as described in § 501.1(c) of this part. The taking of any one of the actions referred to above shall not be a bar to the concurrent taking of any other action authorized by 8 U.S.C. 1188, 20 CFR part 655, subpart B, or the regulations in this part. OFLC and the WHD have concurrent jurisdiction to impose a debarment remedy under 20 CFR 655.182 or under § 501.20 of the regulations in this part.

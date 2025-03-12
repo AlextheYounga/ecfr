@@ -1,0 +1,3 @@
+##### § 401.91 Scope of subpart. #####
+
+This subpart shall be applicable where the Commission shall have information indicating that a person has violated or attempted to violate any provision of the Commission's Compact or any of its rules, regulations or orders (hereafter referred to as possible violator). For the purposes of this subpart, person shall include person, partnership, corporation, business association, governmental agency or authority.

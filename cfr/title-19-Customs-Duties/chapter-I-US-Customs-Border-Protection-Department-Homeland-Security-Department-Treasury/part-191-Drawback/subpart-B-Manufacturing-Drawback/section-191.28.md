@@ -1,0 +1,3 @@
+##### § 191.28 Person entitled to claim drawback. #####
+
+The exporter (or destroyer) shall be entitled to claim drawback, unless the exporter (or destroyer), by means of a certification, assigns the right to claim drawback to the manufacturer, producer, importer, or intermediate party. Such certification shall also affirm that the exporter (or destroyer) has not and will not itself claim drawback or assign the right to claim drawback on the particular exportation or destruction to any other party. The certification provided for under this section may be a blanket certification for a stated period. Drawback is paid to the claimant, who may be the manufacturer, producer, intermediate party, importer, or exporter (destroyer).

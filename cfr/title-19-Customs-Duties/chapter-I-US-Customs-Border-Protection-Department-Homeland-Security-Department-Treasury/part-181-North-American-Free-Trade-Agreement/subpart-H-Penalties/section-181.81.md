@@ -1,0 +1,3 @@
+##### § 181.81 Applicability to NAFTA transactions. #####
+
+Except as otherwise provided in § 181.82 of this part, all criminal, civil or administrative penalties which may be imposed on U.S. importers, exporters and producers for violations of the Customs and related laws and regulations shall also apply to U.S. importers, exporters and producers for violations of the laws and regulations relating to the NAFTA.

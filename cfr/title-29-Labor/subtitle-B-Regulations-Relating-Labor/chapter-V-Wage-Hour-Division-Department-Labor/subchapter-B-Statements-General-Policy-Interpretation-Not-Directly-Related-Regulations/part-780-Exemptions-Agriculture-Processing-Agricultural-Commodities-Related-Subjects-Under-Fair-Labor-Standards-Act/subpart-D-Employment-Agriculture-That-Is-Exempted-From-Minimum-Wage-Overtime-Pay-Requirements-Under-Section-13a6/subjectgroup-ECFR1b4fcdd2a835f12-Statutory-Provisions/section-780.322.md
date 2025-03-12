@@ -1,0 +1,5 @@
+##### § 780.322 Is employed on the same farm as his parent or persons standing in the place of his parent. #####
+
+(a) The words “employed on the same farm” are accorded their natural meaning with the usual caution, however, that as in the case of all other exemptions, the exemptive language is to be construed narrowly. (See § 780.2.)
+
+(b) Individuals who are considered as “his parent or persons standing in place of his parent” include natural parents, or any other person where the relationship between that person and a child is such that the person may be said to stand in place of a parent. For example, one who takes a child into his home and treats it as a member of his own family, educating and supporting the child as if it were his own, is generally said to stand to the child in place of a parent.

@@ -1,0 +1,3 @@
+##### § 206.308 Continuing education requirements of counselors listed on the HECM Counselor Roster. #####
+
+A counselor listed on the Roster must receive, on a continuing basis, training, education, and technical assistance related to HECMs. The counselor must maintain evidence of the successful completion of such continuing education, and such evidence must be made available to HUD upon request. HUD will consider a HECM counselor's successful completion of a HECM course no less than once every 2 years as satisfying the requirements of this section.

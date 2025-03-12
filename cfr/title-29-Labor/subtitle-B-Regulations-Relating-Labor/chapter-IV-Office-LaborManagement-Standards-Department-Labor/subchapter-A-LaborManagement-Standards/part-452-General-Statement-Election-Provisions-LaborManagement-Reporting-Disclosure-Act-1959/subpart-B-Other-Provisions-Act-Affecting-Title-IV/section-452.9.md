@@ -1,0 +1,7 @@
+##### § 452.9 Prohibition against certain persons holding office; section 504. #####
+
+Among the safeguards for labor organizations provided in title V is a prohibition against the holding of office by certain classes of persons.10 This provision makes it a crime for any person willfully to serve in certain positions, including as an elected officer of a labor organization, for a period of three to thirteen years after conviction or imprisonment for the commission of specified offenses, including violation of titles II or III of the Act, or conspiracy or attempt to commit such offenses. It is likewise a crime for any labor organization or officer knowingly to permit such a person to serve in such positions. Persons subject to the prohibition applicable to convicted criminals may serve if their citizenship rights have been fully restored after being taken away by reason of the conviction, or if, following the procedures set forth in the Act, it is determined that their service would not be contrary to the purposes of the Act.
+
+10 Act, sec. 504(a) (29 U.S.C. 504), as amended by the Comprehensive Crime Control Act of 1984, Public Law 98-473, secs. 229, 235, 803 and 804. See text at footnote 23 for a list of the disabling crimes.
+
+[50 FR 31310, Aug. 1, 1985]

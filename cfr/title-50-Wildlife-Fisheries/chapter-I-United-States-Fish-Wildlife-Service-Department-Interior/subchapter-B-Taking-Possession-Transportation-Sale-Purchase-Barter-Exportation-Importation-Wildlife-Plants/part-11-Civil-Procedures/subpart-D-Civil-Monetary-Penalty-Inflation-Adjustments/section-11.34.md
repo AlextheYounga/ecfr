@@ -1,0 +1,3 @@
+##### § 11.34 Subsequent adjustments. #####
+
+The Secretary of the Interior or his or her designee will, every year after August 1, 2016, make the inflation adjustment described in and required by the Inflation Adjustment Act of each civil monetary penalty provided by law and within the jurisdiction of the U.S. Fish and Wildlife Service. Each annual adjustment will be reflected in the table in § 11.33.

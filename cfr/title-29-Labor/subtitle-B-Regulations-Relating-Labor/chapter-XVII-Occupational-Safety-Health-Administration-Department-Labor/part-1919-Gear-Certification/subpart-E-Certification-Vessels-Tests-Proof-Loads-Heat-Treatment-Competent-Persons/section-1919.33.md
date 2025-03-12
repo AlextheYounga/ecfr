@@ -1,0 +1,3 @@
+##### § 1919.33 Proof tests—wire rope. #####
+
+Wire rope, except as provided in § 1919.14(b), shall be tested by sample, a piece being tested to destruction, and the safe working load of running ropes, unless otherwise acceptable to the Administration on the basis of design, shall not exceed one-fifth of the breaking load of the sample tested. In the case of running ropes used in gear with a safe working load exceeding 10 tons, the safe working load shall not exceed one-fourth of the breaking load of the sample tested.

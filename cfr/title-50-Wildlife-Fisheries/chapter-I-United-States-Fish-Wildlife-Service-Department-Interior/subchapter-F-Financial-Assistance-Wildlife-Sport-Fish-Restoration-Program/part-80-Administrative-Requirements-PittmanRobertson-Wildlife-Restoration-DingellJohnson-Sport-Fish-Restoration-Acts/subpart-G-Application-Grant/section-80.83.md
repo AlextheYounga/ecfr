@@ -1,0 +1,13 @@
+##### § 80.83 What is the Federal share of allowable costs? #####
+
+(a) The Regional Director must provide at least 10 percent and no more than 75 percent of the allowable costs of a grant-funded project to the fish and wildlife agencies of the 50 States. The Regional Director generally approves any Federal share from 10 to 75 percent as proposed by one of the 50 States if the:
+
+(1) Funds are available; and
+
+(2) Application is complete and consistent with laws, regulations, and policies.
+
+(b) The Regional Director may provide funds to the District of Columbia to pay 75 to 100 percent of the allowable costs of a grant-funded project in a program or subprogram authorized by the Dingell-Johnson Sport Fish Restoration Act. The Regional Director decides on the specific Federal share between 75 and 100 percent based on what he or she decides is fair, just, and equitable. The Regional Director may reduce the Federal share to less than 75 percent of allowable project costs only if the District of Columbia voluntarily provides match to pay the remaining allowable costs. However, the Regional Director must not reduce the Federal share below 10 percent unless he or she follows the procedure at paragraph (d) of this section.
+
+(c) The Regional Director may provide funds to pay 75 to 100 percent of the allowable costs of a project funded by a grant to a fish and wildlife agency of the Commonwealths of Puerto Rico and the Northern Mariana Islands and the territories of Guam, the U.S. Virgin Islands, and American Samoa. The Regional Director decides on the specific Federal share between 75 and 100 percent based on what he or she decides is fair, just, and equitable. The Regional Director may reduce the Federal share to less than 75 percent of allowable project costs only if the Commonwealth or territorial fish and wildlife agency voluntarily provides match to pay the remaining allowable costs. However, the Regional Director must not reduce the Federal share below 10 percent unless he or she follows the procedure at paragraph (d) of this section. The Federal share of allowable costs for a grant-funded project for the Commonwealth of the Northern Mariana Islands and the territories of Guam, the U.S. Virgin Islands, and American Samoa may be affected by the waiver process described at § 80.84(c).
+
+(d) The Regional Director may waive the 10-percent minimum Federal share of allowable costs if the State, District of Columbia, Commonwealth, or territory requests a waiver and provides compelling reasons to justify why it is necessary for the Federal government to fund less than 10 percent of the allowable costs of a project.

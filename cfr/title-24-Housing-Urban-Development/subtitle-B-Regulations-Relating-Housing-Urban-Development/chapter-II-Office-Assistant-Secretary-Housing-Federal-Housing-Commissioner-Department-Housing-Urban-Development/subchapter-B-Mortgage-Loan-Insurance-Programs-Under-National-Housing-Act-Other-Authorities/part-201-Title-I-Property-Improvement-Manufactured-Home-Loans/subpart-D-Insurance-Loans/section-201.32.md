@@ -1,0 +1,17 @@
+##### § 201.32 Insurance coverage reserve account. #####
+
+(a) *Establishment.* The Secretary shall establish an insurance coverage reserve account for each lender. The amount of insurance coverage in each reserve account shall equal 10 percent of the amount disbursed, advanced, or expended by the lender in originating or purchasing eligible loans registered for insurance under this part, less the amount of all insurance claims approved for payment in connection with losses on such loans.
+
+(b) *Transfer of insured loans.* The lender shall not sell, assign or otherwise transfer any insured loan or loan reported for insurance to a transferee lender not approved to originate and purchase title I loans under a valid title I contract of insurance. Nothing contained herein shall be construed to prevent the pledging of such a loan as collateral security under a trust agreement, or otherwise, in connection with a bona fide loan transaction.
+
+(c) *Transfer of insurance coverage.* Not more than $5,000 in insurance coverage shall be transferred to or from a lender's reserve account during any fiscal year (October 1 through September 30) without the prior approval of the Secretary. Except in cases involving the sale, assignment or transfer of loans sold with recourse or under a guaranty, guarantee or repurchase agreement, the Secretary shall transfer insurance coverage to or from a lender's reserve account to accompany the loan transfers reported by lenders under § 201.30.
+
+(1) In all cases involving the sale, assignment or transfer of loans sold without recourse, guaranty, guarantee, or repurchase agreement, the Secretary shall transfer insurance coverage to the reserve account established for the transferee lender in an amount equal to 10 percent of the actual purchase price or the net unpaid principal balance, whichever is lesser, but not to exceed the amount of insurance coverage in the transferor lender's reserve account prior to the transfer. Insurance coverage shall be added to the existing amount of insurance coverage in the transferee lender's reserve account. The Secretary may transfer insurance coverage with earmarking when a determination is made that it is in the Secretary's interest to do so.
+
+(2) In cases involving the transfer of loans sold with recourse or under a guaranty, guarantee or repurchase agreement, no insurance coverage will be transferred and no reports will be required.
+
+(3) An existing insured property improvement loan or manufactured home loan may not be refinanced by a lender different from the originating or purchasing lender of record, unless the loan has been sold, assigned, or transferred to the new lender under paragraph (c) of this section and the Secretary has transferred insurance coverage for the loan under the applicable requirements of this paragraph.
+
+(d) *Recovery shall not affect insurance coverage reserve account.* Amounts which may be recovered by the Secretary after payment of an insurance claim shall not be added to the amount of insurance coverage remaining in a lender's reserve account.
+
+[50 FR 43523, Oct. 25, 1985, as amended at 52 FR 33407, Sept. 3, 1987; 54 FR 10537, Mar. 14, 1989; 56 FR 52434, Oct. 18, 1991; 61 FR 19799, May 2, 1996]

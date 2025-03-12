@@ -1,0 +1,3 @@
+##### § 452.120 Officers as delegates. #####
+
+Officers of labor organizations who have been elected by secret ballot vote of their respective memberships may, by virtue of their election to office, serve as delegates to conventions at which officers will be elected, if the constitution and bylaws of the labor organization so provide. In such cases it is advisable to have a statement to this effect included on the ballots. Persons who have been appointed to serve unexpired terms of officers who are ex officio delegates to a convention at which officers will be elected may not vote for officers in such election.

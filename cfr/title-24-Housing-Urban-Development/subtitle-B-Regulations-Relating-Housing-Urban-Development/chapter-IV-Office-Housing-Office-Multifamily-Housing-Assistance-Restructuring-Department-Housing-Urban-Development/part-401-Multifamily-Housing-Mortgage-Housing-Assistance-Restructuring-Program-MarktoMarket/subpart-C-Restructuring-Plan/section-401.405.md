@@ -1,0 +1,3 @@
+##### § 401.405 Restructuring Commitment review and approval by HUD. #####
+
+HUD will either approve the Restructuring Commitment as submitted, require changes as a condition for approval, or reject the Plan. If the Plan is rejected, HUD will inform the PAE of the reasons for rejection, and the PAE will inform the owner. HUD's rejection of the Plan is subject to the dispute and administrative appeal provisions of subpart F of this part.

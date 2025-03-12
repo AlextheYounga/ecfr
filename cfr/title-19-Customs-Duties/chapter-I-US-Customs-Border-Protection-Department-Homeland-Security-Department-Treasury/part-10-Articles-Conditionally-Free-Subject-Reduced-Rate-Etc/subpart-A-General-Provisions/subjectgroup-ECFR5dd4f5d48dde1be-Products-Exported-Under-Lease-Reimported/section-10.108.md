@@ -1,0 +1,5 @@
+##### § 10.108 Entry of reimported articles exported under lease. #####
+
+Free entry shall be accorded under subheading 9801.00.20, Harmonized Tariff Schedule of the United States (HTSUS), whenever it is established to the satisfaction of the port director that the article for which free entry is claimed was duty paid on a previous importation or was previously entered free of duty pursuant to the Caribbean Basin Economic Recovery Act or Title V of the Trade Act of 1974, is being reimported without having been advanced in value or improved in condition by any process of manufacture or other means, was exported from the United States under a lease or similar use agreement, and is being reimported by or for the account of the person who imported it into, and exported it from, the United States.
+
+[T.D. 94-40, 59 FR 17474, Apr. 13, 1994]

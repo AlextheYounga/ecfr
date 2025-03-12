@@ -1,0 +1,3 @@
+##### § 780.700 Scope and significance of interpretative bulletin. #####
+
+Subpart A of this part 780 and this subpart together constitute the official interpretative bulletin of the Department of Labor with respect to the meaning and application of section 13(b)(14) of the Fair Labor Standards Act of 1938, as amended. This section provides an exemption from the overtime pay provisions of the Act for employees employed by certain country elevators “within the area of production,” as defined by the Secretary of Labor in part 536 of this chapter.

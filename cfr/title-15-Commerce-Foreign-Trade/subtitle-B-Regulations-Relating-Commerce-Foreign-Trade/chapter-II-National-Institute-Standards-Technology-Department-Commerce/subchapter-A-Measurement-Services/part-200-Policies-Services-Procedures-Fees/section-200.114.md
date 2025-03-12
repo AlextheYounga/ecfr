@@ -1,0 +1,5 @@
+##### § 200.114 Fees and bills. #####
+
+(a) In accordance with 15 U.S.C. 271 *et seq.,* fees are charged for all measurement services performed by NIST, unless waived by the Director, or the Director's designee, when deemed to be in the interest of the Government. The above-mentioned statutes authorize the issuance from time to time of appropriate regulations regarding the payment of fees, the limits of tolerance on standards submitted for verification, and related matters.
+
+(b) The minimum fee for any service request accepted by NIST is $10, unless otherwise indicated in SP 250. If apparatus is returned without testing, a minimum charge of $10 may be made to cover handling. Charges commensurate with the work performed will be assessed for calibrations which cannot be completed because of faulty operation of the customer's device. Fees for calibrations or tests include the cost of preparation of an NIST report. Remittances should be made payable to the National Institute of Standards & Technology.

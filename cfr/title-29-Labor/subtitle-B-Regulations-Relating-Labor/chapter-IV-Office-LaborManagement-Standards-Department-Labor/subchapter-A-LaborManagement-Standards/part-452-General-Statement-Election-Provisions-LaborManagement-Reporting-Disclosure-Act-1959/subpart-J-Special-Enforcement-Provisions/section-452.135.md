@@ -1,0 +1,7 @@
+##### § 452.135 Complaints of members. #####
+
+(a) Any member of a labor organization may file a complaint with the Office of Labor-Management Standards alleging that there have been violations of requirements of the Act concerning the election of officers, delegates, and representatives (including violations of election provisions of the organization's constitution and bylaws that are not inconsistent with the Act.).57 The complaint may not be filed until one of the two following conditions has been met: (1) The member must have exhausted the remedies available to him under the constitution and bylaws of the organization and its parent body, or (2) he must have invoked such remedies without obtaining a final decision within three calendar months after invoking them.
+
+57 Act, sec. 402(a).
+
+(b) If the member obtains an unfavorable final decision within three calendar months after invoking his available remedies, he must file his complaint within one calendar month after obtaining the decision. If he has not obtained a final decision within three calendar months, he has the option of filing his complaint or of waiting until he has exhausted the available remedies within the organization. In the latter case, if the final decision is ultimately unfavorable, he will have one month in which to file his complaint.

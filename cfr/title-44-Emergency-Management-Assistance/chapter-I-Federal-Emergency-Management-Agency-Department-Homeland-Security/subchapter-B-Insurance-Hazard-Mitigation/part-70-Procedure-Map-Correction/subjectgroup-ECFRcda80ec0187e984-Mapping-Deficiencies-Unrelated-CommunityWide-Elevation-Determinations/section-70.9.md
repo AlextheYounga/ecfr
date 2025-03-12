@@ -1,0 +1,5 @@
+##### § 70.9 Review of proposed projects. #####
+
+An individual who proposes to build one or more structures on a portion of property that may be included inadvertently in a Special Flood Hazard Area (SFHA) may request FEMA's comments on whether the proposed structure(s), if built as proposed, will be in the SFHA. FEMA's comments will be issued in the form of a letter, termed a Conditional Letter of Map Amendment. The data required to support such requests are the same as those required for final Letters of Map Amendment in accordance with § 70.3, except as-built certification is not required and the requests shall be accompanied by the appropriate payment, in accordance with 44 CFR part 72. All such requests for CLOMAs shall be submitted to the FEMA Regional Office servicing the community's geographic area or to the FEMA Headquarters Office in Washington, DC.
+
+[62 FR 5736, Feb. 6, 1997]

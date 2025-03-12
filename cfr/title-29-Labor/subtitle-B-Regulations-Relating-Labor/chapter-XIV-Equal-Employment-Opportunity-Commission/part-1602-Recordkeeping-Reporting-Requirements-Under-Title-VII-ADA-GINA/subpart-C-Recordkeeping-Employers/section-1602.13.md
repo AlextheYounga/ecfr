@@ -1,0 +1,5 @@
+##### § 1602.13 Records as to racial or ethnic identity of employees. #####
+
+Employers may acquire the information necessary for completion of items 5 and 6 of Report EEO-1 either by visual surveys of the work force, or at their option, by the maintenance of post-employment records as to the identity of employees where the same is permitted by State law. In the latter case, however, the Commission recommends the maintenance of a permanent record as to the racial or ethnic identity of an individual for purpose of completing the report form only where the employer keeps such records separately from the employee's basic personnel form or other records available to those responsible for personnel decisions, e.g., as part of an automatic data processing system in the payroll department.
+
+[31 FR 2833, Feb. 17, 1966]

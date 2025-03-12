@@ -1,0 +1,3 @@
+##### § 541.708 Combination exemptions. #####
+
+Employees who perform a combination of exempt duties as set forth in the regulations in this part for executive, administrative, professional, outside sales and computer employees may qualify for exemption. Thus, for example, an employee whose primary duty involves a combination of exempt administrative and exempt executive work may qualify for exemption. In other words, work that is exempt under one section of this part will not defeat the exemption under any other section.

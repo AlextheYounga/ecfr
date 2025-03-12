@@ -1,0 +1,3 @@
+##### § 10.778 Filing of claim for tariff preference level. #####
+
+A fabric or apparel good described in § 10.779 of this subpart that does not qualify as an originating good under § 10.770 of this subpart may nevertheless be entitled to preferential tariff treatment under the MFTA under an applicable tariff preference level (TPL). To make a TPL claim, the importer must include on the entry summary, or equivalent documentation, the applicable subheading in Chapter 99 of the HTSUS (9912.99.20) immediately above the applicable subheading in Chapters 51 through 62 of the HTSUS under which each non-originating fabric or apparel good is classified.

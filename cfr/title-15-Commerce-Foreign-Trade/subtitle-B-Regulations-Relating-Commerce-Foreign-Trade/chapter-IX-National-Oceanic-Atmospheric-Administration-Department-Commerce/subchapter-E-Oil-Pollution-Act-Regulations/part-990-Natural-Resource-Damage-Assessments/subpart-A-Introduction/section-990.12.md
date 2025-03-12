@@ -1,0 +1,3 @@
+##### § 990.12 Overview. #####
+
+This part describes three phases of a natural resource damage assessment. The Preassessment Phase, during which trustees determine whether to pursue restoration, is described in subpart D of this part. The Restoration Planning Phase, during which trustees evaluate information on potential injuries and use that information to determine the need for, type of, and scale of restoration, is described in subpart E of this part. The Restoration Implementation Phase, during which trustees ensure implementation of restoration, is described in subpart F of this part.

@@ -1,0 +1,3 @@
+##### § 35.1325 Abatement. #####
+
+Abatement shall be performed in accordance with methods and standards established either by a State or Indian tribe under a program authorized by EPA, or by EPA at 40 CFR 745.227(e), and shall be completed by achieving clearance in accordance with § 35.1340. If encapsulation or enclosure is used as a method of abatement, ongoing lead-based paint maintenance activities shall be performed as required by the applicable subpart of this part in accordance with § 35.1355. Abatement of an intact, factory-applied prime coating on metal surfaces is not required unless the surface is a friction surface.

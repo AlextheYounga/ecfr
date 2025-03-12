@@ -1,0 +1,5 @@
+##### § 158.10 Examination of accounts. #####
+
+All natural gas companies not classified as Class C or Class D prior to January 1, 1984 shall secure for each year, the services of an independent certified public accountant, or independent licensed public accountant (licensed on or before December 31, 1970), certified or licensed by a regulatory authority of a State or other political subdivision of the United States, to test compliance in all material respects of those schedules that are indicated in the General Instructions set out in the applicable Annual Report, Form No. 2 or Form No. 2-A, with the Commission's Uniform System of Accounts and published accounting releases. The Commission expects that identification of questionable matters by the independent accountant will facilitate their early resolution and that the independent accountant will seek advisory rulings by the Commission on such items. This examination shall be deemed supplementary to periodic Commission examinations of compliance.
+
+[Order 581, 60 FR 53065, Oct. 11, 1995]

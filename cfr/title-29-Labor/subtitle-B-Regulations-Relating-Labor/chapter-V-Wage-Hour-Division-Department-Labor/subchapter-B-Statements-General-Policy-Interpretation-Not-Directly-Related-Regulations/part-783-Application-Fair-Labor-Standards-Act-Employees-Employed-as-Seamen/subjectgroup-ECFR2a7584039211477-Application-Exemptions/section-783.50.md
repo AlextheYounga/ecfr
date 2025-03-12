@@ -1,0 +1,3 @@
+##### § 783.50 Work exempt under another section of the Act. #####
+
+Where an employee performs work during his workweek, some of which is exempt under one section of the Act, and the remainder of which is exempt under another section or sections of the Act, the exemptions may be combined. The employee's combination exemption is controlled in such case by that exemption which is narrower in scope. For example, if part of his work is exempt from both minimum wage and overtime compensation under one section of the Act, and the rest is exempt only from the overtime pay requirements under section 13(b)(6), the employee is exempt that week from the overtime pay provisions but not from the minimum wage requirements.

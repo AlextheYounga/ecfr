@@ -1,0 +1,3 @@
+##### § 2007.5 Written briefs and oral testimony. #####
+
+Sections 2003.2 and 2003.4 of this chapter shall be applicable to the submission of any written briefs or requests to present oral testimony in connection with a review under this part. For the purposes of this section, the term “interested party” as used in §§ 2003.2 and 2003.4 shall be interpreted as including parties submitting petitions and requests pursuant to § 2007.0(a) or (b) as well as any other person wishing to file written briefs or present oral testimony.

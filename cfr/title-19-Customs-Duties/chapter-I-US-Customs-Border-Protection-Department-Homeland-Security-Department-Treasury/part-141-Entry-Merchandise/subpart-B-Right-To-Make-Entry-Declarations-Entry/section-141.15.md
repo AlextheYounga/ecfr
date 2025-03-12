@@ -1,0 +1,9 @@
+##### § 141.15 Bond for production of bill of lading or air waybill. #####
+
+(a) *When appropriate.* If the person desiring to make entry is unable to present a bill of lading, air waybill, or other evidence of right to make entry in accordance with § 141.11, the port director may accept a bond for the production of a bill of lading or air waybill under the provisions of section 484(c), Tariff Act of 1930, as amended (19 U.S.C. 1484(c)). The bond shall be for the production of a bill of lading or air waybill, unless the person making entry intends to produce a carrier's certificate or certified duplicate bill of lading or air waybill. In that case, no bond is required because section 484(c) does not apply to entries made on a carrier's certificate or certified duplicate bill of lading or air waybill. If the port director is in doubt as to the propriety of accepting entry on a bond for the production of a bill of lading or air waybill, he shall request authority to do so from the Commissioner of Customs.
+
+(b) *Form.* The bond shall be on Customs Form 301 and contain the bond conditions set forth in § 113.69 of this chapter.
+
+(c) *Documents acceptable to satisfy bond.* A bond given for the production of a bill of lading or air waybill shall be considered as canceled upon production of a bill of lading or air waybill, and may be considered as satisfied but shall not be canceled upon the production of a carrier's certificate or certified duplicate bill of lading or air waybill.
+
+[T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 78-394, 43 FR 49788, Oct. 25, 1978; T.D. 84-213, 49 FR 41184, Oct. 19, 1984]

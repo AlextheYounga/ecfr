@@ -1,0 +1,7 @@
+##### § 622.184 Seasonal harvest limitations. #####
+
+(a) *Greater amberjack spawning season.* During April, each year, the possession of greater amberjack in or from the South Atlantic EEZ and in the South Atlantic on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, without regard to where such greater amberjack were harvested, is limited to one per person per day or one per person per trip, whichever is more restrictive. Such greater amberjack are subject to the prohibition on sale or purchase, as specified in § 622.192(g).
+
+(b) *Mutton snapper spawning season.* During May and June, each year, the possession of mutton snapper in or from the EEZ on board a vessel that has a commercial permit for South Atlantic snapper-grouper is limited to 10 per person per day or 10 per person per trip, whichever is more restrictive.
+
+(c) *Red porgy.* During January, February, March, and April, the harvest or possession of red porgy in or from the South Atlantic EEZ is limited to three per person per day or three per person per trip, whichever is more restrictive. In addition, this limitation is applicable in the South Atlantic on board a vessel for which a valid Federal commercial or charter vessel/headboat permit for South Atlantic snapper-grouper has been issued without regard to where such red porgy were harvested. Such red porgy are subject to the prohibition on sale or purchase, as specified in § 622.192(f).

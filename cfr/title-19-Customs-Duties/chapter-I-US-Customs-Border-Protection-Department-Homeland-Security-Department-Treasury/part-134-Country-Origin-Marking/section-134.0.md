@@ -1,0 +1,5 @@
+##### § 134.0 Scope. #####
+
+This part sets forth regulations implementing the country of origin marking requirements and exceptions of section 304 of the Tariff Act of 1930, as amended (19 U.S.C. 1304), together with certain marking provisions of the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202). The consequences and procedures to be followed when articles are not legally marked are set forth in this part. The consequences and procedures to be followed when articles are falsely marked are set forth in § 11.13 of this chapter. Special marking and labeling requirements are covered elsewhere. Provisions regarding the review and appeal rights of exporters and producers resulting from adverse North American Free Trade Agreement marking decisions are contained in subpart J of part 181 of this chapter.
+
+[T.D. 81-290, 46 FR 58070, Nov. 30, 1981, as amended by T.D. 89-1, 53 FR 51255, Dec. 21, 1988; T.D. 94-1, 58 FR 69471, Dec. 30, 1993]

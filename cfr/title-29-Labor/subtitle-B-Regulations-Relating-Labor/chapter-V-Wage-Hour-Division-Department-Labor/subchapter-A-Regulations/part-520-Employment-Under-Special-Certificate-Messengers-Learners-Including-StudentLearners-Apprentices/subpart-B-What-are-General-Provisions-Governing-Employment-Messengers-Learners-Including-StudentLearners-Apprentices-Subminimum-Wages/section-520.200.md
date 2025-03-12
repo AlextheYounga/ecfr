@@ -1,0 +1,3 @@
+##### § 520.200 What is the legal authority for payment of wages lower than the minimum wage required by section 6(a) of the Fair Labor Standards Act? #####
+
+Section 14(a) of the Fair Labor Standards Act provides, in order to prevent curtailment of employment opportunities, for the payment of special minimum wage rates to workers employed as messengers, learners (including student-learners), and apprentices under special certificates issued by the Department of Labor.

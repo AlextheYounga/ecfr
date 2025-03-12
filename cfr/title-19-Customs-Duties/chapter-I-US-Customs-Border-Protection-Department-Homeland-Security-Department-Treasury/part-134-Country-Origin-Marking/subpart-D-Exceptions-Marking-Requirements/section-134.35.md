@@ -1,0 +1,7 @@
+##### § 134.35 Articles substantially changed by manufacture. #####
+
+(a) *Articles other than goods of a NAFTA country.* An article used in the United States in manufacture which results in an article having a name, character, or use differing from that of the imported article, will be within the principle of the decision in the case of United States v. Gibson-Thomsen Co., Inc., 27 C.C.P.A. 267 (C.A.D. 98). Under this principle, the manufacturer or processor in the United States who converts or combines the imported article into the different article will be considered the “ultimate purchaser” of the imported article within the contemplation of section 304(a), Tariff Act of 1930, as amended (19 U.S.C. 1304(a)), and the article shall be excepted from marking. The outermost containers of the imported articles shall be marked in accord with this part.
+
+(b) *Goods of a NAFTA country.* A good of a NAFTA country which is to be processed in the United States in a manner that would result in the good becoming a good of the United States under the NAFTA Marking Rules is excepted from marking. Unless the good is processed by the importer or on its behalf, the outermost container of the good shall be marked in accord with this part.
+
+[T.D. 72-262, 37 FR 20318, Sept. 29, 1972, as amended by T.D. 94-1, 58 FR 69472, Dec. 30, 1993]

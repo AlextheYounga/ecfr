@@ -1,0 +1,3 @@
+##### § 636.504 If the solicitation indicated my intent was to award contract without discussions, but circumstances change, may I still hold discussions? #####
+
+Yes, you may still elect to hold discussions when circumstances dictate, as long as the rationale for doing so is documented in the contract file. Such circumstances might include situations where all proposals received have deficiencies, when fair and reasonable prices are not offered, or when the cost or price offered is not affordable.

@@ -1,0 +1,3 @@
+##### § 500.131 Exclusion from housing safety and health requirement. #####
+
+The housing safety and health requirements do not apply to any person who, in the ordinary course of that person's business, regularly provides housing on a commercial basis to the general public and who provides housing to any migrant agricultural worker of the same character and on the same or comparable terms and conditions as provided to the general public. Migrant labor housing shall not be brought within this exception simply by offering lodging to the general public.

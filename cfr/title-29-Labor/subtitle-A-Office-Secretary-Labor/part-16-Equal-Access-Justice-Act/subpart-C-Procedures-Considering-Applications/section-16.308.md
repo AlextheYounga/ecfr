@@ -1,0 +1,3 @@
+##### § 16.308 Payment of award. #####
+
+An applicant seeking payment of an award shall submit to the Comptroller for the Department of Labor a copy of the final decision granting the award, accompanied by a statement that the applicant will not seek review of the decision in the United States courts. The request for payment shall be addressed to: Comptroller, U.S. Department of Labor, Frances S. Perkins Building, 200 Constitution Avenue, NW., Washington, DC 20210.

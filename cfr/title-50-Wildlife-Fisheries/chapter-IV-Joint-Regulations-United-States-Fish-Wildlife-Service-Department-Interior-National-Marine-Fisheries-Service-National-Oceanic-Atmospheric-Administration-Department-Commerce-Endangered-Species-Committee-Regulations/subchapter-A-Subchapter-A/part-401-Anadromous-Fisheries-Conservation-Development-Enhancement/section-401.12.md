@@ -1,0 +1,3 @@
+##### § 401.12 Ownership of property. #####
+
+When real property is acquired pursuant to the provisions of the Act, title to such property, or interests therein, shall be vested in the United States, and the conveying instrument shall recite the United States of America as the grantee. However, if the Secretary determines that under the terms of the application for Federal assistance and grant-in-aid award or project agreement, the intent and purpose of the Act may be better served by other ownership of such property, an appropriate transfer may be made. When real or personal property is utilized as matching funds, title to such property shall be in the Cooperator unless otherwise specified in the grant-in-aid award or project agreement.

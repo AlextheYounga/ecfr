@@ -1,0 +1,3 @@
+##### § 500.52 Right to hearing. #####
+
+Any applicant or holder who desires an administrative hearing on the determination to refuse to issue or to renew, or to suspend or to revoke, a Certificate of Registration or a Farm Labor Contractor Employee Certificate of Registration, shall make a request in accordance with § 500.212, no later than thirty (30) days after service of the notice referred to in § 500.210.

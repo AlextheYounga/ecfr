@@ -1,0 +1,5 @@
+##### § 622.36 Seasonal harvest limitations. #####
+
+(a) *Greater amberjack.* During March, April, and May, each year, the possession of greater amberjack in or from the Gulf EEZ and in the Gulf on board a vessel for which a commercial permit for Gulf reef fish has been issued, as required under § 622.20(a)(1), without regard to where such greater amberjack were harvested, is limited to the bag and possession limits, as specified in § 622.38(b)(1) and (c), respectively, and such greater amberjack are subject to the prohibition on sale or purchase of greater amberjack possessed under the bag limit, as specified in § 622.40(a). Also note that if commercial quantities of Gulf reef fish, *i.e.,* Gulf reef fish in excess of applicable bag/possession limits, are on board the vessel, no bag limit of Gulf reef fish may be possessed, as specified in § 622.38(a)(2).
+
+(b) [Reserved]

@@ -1,0 +1,5 @@
+##### § 453.12 Meaning of fraud or dishonesty. #####
+
+The term “fraud or dishonesty” shall be deemed to encompass all those risks of loss that might arise through dishonest or fraudulent acts in handling of funds as delineated in §§ 453.8 and 453.9. As such, the bond must provide recovery for loss occasioned by such acts even though no personal gain accrues to the person committing the act and the act is not subject to punishment as a crime or misdemeanor, provided that within the law of the State in which the act is committed, a court would afford recovery under a bond providing protection against fraud or dishonesty. As usually applied under State laws, the term “fraud or dishonesty” encompasses such matters as larceny, theft, embezzlement, forgery, misappropriation, wrongful abstraction, wrongful conversion, willful misapplication or any other fraudulent or dishonest acts resulting in financial loss.
+
+[30 FR 14926, Dec. 2, 1965]

@@ -1,0 +1,7 @@
+##### § 20.34 Exclusions. #####
+
+(a) Agencies are not authorized by section 10 of the Debt Collection Act of 1982 (31 U.S.C. 3716) to use administrative offset with respect to: (1) Debts owed by any State or local Government; (2) debts arising under or payments made under the Social Security Act, the Internal Revenue Code of 1954, or the tariff laws of the United States; or (3) any case in which collection of the type of debt involved by administrative offset is explicitly provided for or prohibited by another statute. However, unless otherwise provided by contract or law, debts or payments which are not subject to administrative offset under 31 U.S.C. 3716 may be collected by administrative offset under the common law or other applicable statutory authority, pursuant to this paragraph or agency regulations established pursuant to such other statutory authority.
+
+(b) This section should not be construed as prohibiting use of these authorities or requirements when collecting debts owed by persons employed by agencies administering the laws cited in the preceding paragraph unless the debt “arose under” those laws.
+
+(c) Collection by offset against a judgment obtained by a debtor against the United States shall be accomplished in accordance with 31 U.S.C. 3728.

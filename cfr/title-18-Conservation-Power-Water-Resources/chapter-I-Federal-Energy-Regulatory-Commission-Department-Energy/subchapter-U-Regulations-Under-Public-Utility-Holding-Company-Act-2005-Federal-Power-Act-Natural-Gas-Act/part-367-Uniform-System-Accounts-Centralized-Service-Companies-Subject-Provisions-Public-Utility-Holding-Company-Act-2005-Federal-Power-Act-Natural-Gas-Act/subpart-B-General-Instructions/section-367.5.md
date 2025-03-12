@@ -1,0 +1,3 @@
+##### § 367.5 Accounting period. #####
+
+Each service company must keep its books on a monthly basis so that for each month all transactions applicable to the account, as nearly as may be ascertained, must be entered in the books of the service company. Amounts applicable or assignable to a single or group of associate and non-associate companies must be segregated monthly. Each service company must close its books at the end of each calendar year unless otherwise authorized by the Commission.

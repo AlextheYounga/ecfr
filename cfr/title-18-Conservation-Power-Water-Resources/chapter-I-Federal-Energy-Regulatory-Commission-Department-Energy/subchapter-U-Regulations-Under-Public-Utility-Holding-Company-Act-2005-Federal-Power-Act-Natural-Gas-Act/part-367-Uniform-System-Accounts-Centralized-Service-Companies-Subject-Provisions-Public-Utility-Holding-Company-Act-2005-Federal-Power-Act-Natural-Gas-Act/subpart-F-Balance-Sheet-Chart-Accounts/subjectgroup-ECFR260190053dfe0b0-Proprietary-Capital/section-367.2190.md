@@ -1,0 +1,5 @@
+##### § 367.2190 Account 219, Accumulated other comprehensive income. #####
+
+(a) This account must include revenues, expenses, gains, and losses that are properly includable in other comprehensive income during the period. Examples of other comprehensive income include, but are not limited to, minimum pension liability adjustments, and unrealized gains and losses on certain investments in debt and equity securities. Records supporting the entries to this account must be maintained so that the service company can furnish the amount of other comprehensive income for each item included in this account.
+
+(b) This account also must be debited or credited, as appropriate, with amounts of accumulated other comprehensive income that have been included in the determination of net income during the period and in accumulated other comprehensive income in prior periods. Separate records for each category of items must be maintained to identify the amount of the reclassification adjustments from accumulated other comprehensive income to earnings made during the period.

@@ -1,0 +1,13 @@
+##### § 403.05 State and Federal responsibilities after transfer of management authority. #####
+
+(a) After determinations required by section 403.04 of this part have been made in respect to a species whose range extends beyond the territorial waters of the state, the state shall not exercise management authority until a cooperative allocation agreement with the Secretary has been signed and the Service has transferred management authority pursuant to § 403.03(h). The cooperative allocation agreement shall provide procedures for allocating, on a timely basis, the maximum amount of take as determined by the state pursuant to § 403.04 of this part. Such allocation shall give first priority to incidental take within the zone described in section 3(14)(B) of the Act as provided for under section 101(a) of the Act, except that in the case of Alaska, first priority shall be given to subsistence use.
+
+(b) For those species to which paragraph (a) of this section applies, the state may request the Service to regulate the taking of the species within the zone described in section 3(14)(B) of the Act for subsistence uses and/or hunting in a manner consistent with the regulation by the state of such taking within the state. If such a request is made, the Service shall adopt and enforce within such zone, such of the state's regulatory provisions as the Service considers to be consistent with the administration within such zone of section 101(a) of the Act.
+
+(c) If management authority for a species has been transferred to a state pursuant to this subpart, the Service shall provide to the state an opportunity to review all requests for permits to remove live animals from habitat within the state for scientific research or public display purposes. If the state finds that issuance of the permit would not be consistent with its management program for the species:
+
+(1) The state shall so inform the Service, together with the reasons for such finding, within 30 days of its receipt of the application, and the Service shall not issue the permit; and
+
+(2) The Service shall provide to the permit applicant and the state an opportunity to adjust the permit application or otherwise reconcile it with the state management program for the species.
+
+(d) After management of a species has been transferred to the state, state and Federal authorities shall cooperate to the maximum extent practicable in conserving the species of marine mammals.

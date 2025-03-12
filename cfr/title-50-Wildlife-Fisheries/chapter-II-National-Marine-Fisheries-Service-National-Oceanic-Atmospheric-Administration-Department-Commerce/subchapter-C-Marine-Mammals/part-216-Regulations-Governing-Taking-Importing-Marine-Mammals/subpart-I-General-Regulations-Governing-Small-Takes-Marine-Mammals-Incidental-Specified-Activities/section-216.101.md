@@ -1,0 +1,3 @@
+##### § 216.101 Purpose. #####
+
+The regulations in this subpart implement section 101(a)(5) (A) through (D) of the Marine Mammal Protection Act of 1972, as amended, 16 U.S.C. 1371(a)(5), which provides a mechanism for allowing, upon request, the incidental, but not intentional, taking of small numbers of marine mammals by U.S. citizens who engage in a specified activity (other than commercial fishing) within a specified geographic region.

@@ -1,0 +1,11 @@
+##### § 1985.102 Obligations and prohibited acts. #####
+
+(a) No covered person or service provider may terminate or in any other way retaliate against, or cause to be terminated or retaliated against, including, but not limited to, intimidating, threatening, restraining, coercing, blacklisting or disciplining, any covered employee or any authorized representative of covered employees because such employee or representative, whether at the employee's initiative or in the ordinary course of the employee's duties (or any person acting pursuant to a request of the employee), engaged in any of the activities specified in paragraphs (b)(1) through (4) of this section. (b) A covered employee or authorized representative is protected against retaliation (as described in paragraph (a) of this section) by a covered person or service provider because he or she:
+
+(1) Provided, caused to be provided, or is about to provide or cause to be provided to the employer, the Bureau, or any other State, local, or Federal, government authority or law enforcement agency, information relating to any violation of, or any act or omission that the employee reasonably believes to be a violation of, any provision of Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Pub. L. 111-203, 124 Stat. 1376, 1955 (July 21, 2010), or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
+
+(2) Testified or will testify in any proceeding resulting from the administration or enforcement of any provision of Title X of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010, Pub. L. 111-203, 124 Stat. 1376, 1955 (July 21, 2010), or any other provision of law that is subject to the jurisdiction of the Bureau, or any rule, order, standard, or prohibition prescribed by the Bureau;
+
+(3) Filed, instituted, or caused to be filed or instituted any proceeding under any Federal consumer financial law; or
+
+(4) Objected to, or refused to participate in, any activity, policy, practice, or assigned task that the employee (or other such person) reasonably believed to be in violation of any law, rule, order, standard, or prohibition subject to the jurisdiction of, or enforceable by, the Bureau.

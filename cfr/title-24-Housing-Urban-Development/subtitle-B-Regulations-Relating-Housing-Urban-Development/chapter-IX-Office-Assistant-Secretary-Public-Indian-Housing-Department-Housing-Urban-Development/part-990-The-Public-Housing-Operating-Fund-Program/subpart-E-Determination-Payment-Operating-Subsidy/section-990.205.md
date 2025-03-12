@@ -1,0 +1,5 @@
+##### § 990.205 Fungibility of operating subsidy between projects. #####
+
+(a) *General.* Operating subsidy shall remain fully fungible between ACC projects until operating subsidy is calculated by HUD at a project level. After subsidy is calculated at a project level, operating subsidy can be transferred as the PHA determines during the PHA's fiscal year to another ACC project(s) if a project's financial information, as described more fully in § 990.280, produces excess cash flow, and only in the amount up to those excess cash flows.
+
+(b) Notwithstanding the provisions of paragraph (a) of this section and subject to all of the other provisions of this part, the New York City Housing Authority's Development Grant Project Amendment Number 180, dated July 13, 1995, to Consolidated Annual Contributions Contract NY-333, remains in effect.

@@ -1,0 +1,5 @@
+##### § 570.102 General scope of statutory provisions. #####
+
+The most important of the child labor provisions are contained in sections 12(a), 12(c), and 3(l) of the Act. Section 12(a) provides that no producer, manufacturer, or dealer shall ship or deliver for shipment in interstate or foreign commerce any goods produced in an establishment in or about which oppressive child labor was employed within 30 days before removal of the goods. The full text of this subsection is set forth in § 570.104 and its terms are discussed in §§ 570.105 to 570.111, inclusive. Section 12(c) prohibits any employer from employing oppressive child labor in interstate or foreign commerce or in the production of goods for such commerce. The text and discussion of this provision appear in §§ 570.112 and 570.113. Section 3(l) of the Act, which defines the term “oppressive child labor,” is set forth in § 570.117 and its provisions are discussed in §§ 570.118 to 570.121, inclusive. It will further be noted that the Act provides various specific exemptions from the foregoing provisions which are set forth and discussed in §§ 570.122 to 570.130, inclusive.
+
+[75 FR 28458, May 20, 2010]

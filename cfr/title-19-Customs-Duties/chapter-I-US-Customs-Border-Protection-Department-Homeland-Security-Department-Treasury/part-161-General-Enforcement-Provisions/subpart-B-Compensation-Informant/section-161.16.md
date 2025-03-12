@@ -1,0 +1,7 @@
+##### § 161.16 Filing a claim for informant compensation. #####
+
+(a) *Limitations on claims.* Pursuant to 19 U.S.C. 1619, an informant may be paid up to 25 percent of the net recovery to the government from duties withheld; from any fine (civil or criminal), forfeited bail bond, penalty, or forfeiture incurred; or, if the forfeiture is remitted, from the monetary penalty recovered for remission of the forfeiture. The amount of the award paid to informants must not exceed $250,000 for any one case, regardless of the number of recoveries that result from the information furnished; however, no claim of less than $100 will be paid.
+
+(b) *Filing of claim.* A claim must be filed, in duplicate, on DHS Form 4623 with the Special Agent in Charge, U.S. Immigration and Customs Enforcement, Homeland Security Investigations, who will make a recommendation on the form as to approval and the amount of the award. The Special Agent in Charge, U.S. Immigration and Customs Enforcement, Homeland Security Investigations will forward the form to the port director, who will make a recommendation on the form as to approval and the amount of the award. The port director shall forward the form to CBP Headquarters for action. If for any reason a claim has not been transmitted by the port director, the claimant may apply directly to CBP Headquarters.
+
+[T.D. 98-22, 63 FR 11826, Mar. 11, 1998, as amended by CBP Dec. 12-21, 77 FR 73309, Dec. 10, 2012]

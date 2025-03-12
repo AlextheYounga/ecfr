@@ -1,0 +1,19 @@
+##### § 30.11 Complaint procedure. #####
+
+(a) *Filing.* (1) Any apprentice or applicant for apprenticeship who believes that he or she has been discriminated against on the basis of race, color, religion, national origin, or sex with regard to apprenticeship or that the equal opportunity standards with respect to his or her selection have not been followed in the operation of an apprenticeship program may, personally or through an authorized representative, file a complaint with the Department, or, at the apprentice's or applicant's election, with a private review body established pursuant to paragraph (a)(3) of this section. The complaint shall be in writing and shall be signed by the complainant. It must include the name, address and telephone number of the person allegedly discriminated against, the program sponsor involved, and a brief description of the circumstances of the failure to apply the equal opportunity standards provided for in this part.
+
+(2) The complaint must be filed not later than 180 days from the date of the alleged discrimination or specified failure to follow the equal opportunity standards; and, in the case of complaints filed directly with review bodies designated by program sponsors to review such complaints, any referral of such complaint by the complainant to the Department must occur within the time limitation stated above or 30 days from the final decision of such review body, whichever is later. The time may be extended by the Department for good cause shown.
+
+(3) Sponsors are encouraged to establish fair, speedy, and effective procedures for a review body to consider complaints of failure to follow the equal opportunity standards. A private review body established by the program sponsor for this purpose should number three or more responsible persons from the community serving in this capacity without compensation. Members of the review body should not be directly associated with the administration of an apprenticeship program. Sponsors may join together in establishing a review body to serve the needs of programs within the community.
+
+(b) *Processing of complaints.* (1)(i) When the sponsor has designated a review body for reviewing complaints, the Department, unless the complainant has indicated otherwise or unless the Department has determined that the review body will not effectively enforce the equal opportunity standards, shall upon receiving a complaint refer it to the review body.
+
+(ii) The Department shall, within 30 days following the referral of a complaint to the review body, obtain reports from the complainant and the review body as to the disposition of the complaint. If the complaint has been satisfactorily adjusted and there is no other indication of failure to apply equal opportunity standards, the case shall be closed and the parties appropriately informed.
+
+(iii) When a complaint has not been resolved by the review body within 90 days or where, despite satisfactory resolution of the particular complaint by the review body, there is evidence that equal opportunity practices of the apprenticeship program are not in accordance with this part, the Department may conduct such compliance review as found necessary, and will take all necessary steps to resolve the complaint.
+
+(2) Where no review body exists, the Department may conduct such compliance review as found necessary in order to determine the facts of the complaint, and obtain such other information relating to compliance with these regulations as the circumstances warrant.
+
+(3) Sponsors shall provide written notice of the above complaint procedure to all applicants for apprenticeship and all apprentices.
+
+(Approved by the Office of Management and Budget under control number 1205-0224)[43 FR 20760, May 12, 1978, as amended at 49 FR 18295, Apr. 30, 1984]

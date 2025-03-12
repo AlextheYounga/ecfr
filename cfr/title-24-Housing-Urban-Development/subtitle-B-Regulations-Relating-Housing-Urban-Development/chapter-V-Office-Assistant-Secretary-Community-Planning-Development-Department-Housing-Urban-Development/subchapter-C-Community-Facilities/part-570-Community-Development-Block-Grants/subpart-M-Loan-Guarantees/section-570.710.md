@@ -1,0 +1,5 @@
+##### § 570.710 State responsibilities. #####
+
+The State is responsible for choosing public entities that it will assist under this subpart. States are free to develop procedures and requirements for determining which activities will be assisted, subject to the requirements of this subpart. Upon approval by HUD of an application from a State or a State-assisted public entity, the State will be principally responsible, subject to HUD oversight under subpart I of this part, for ensuring compliance with all applicable requirements governing the use of the guaranteed loan funds. Notwithstanding the State's responsibilities described in this section, HUD may take any action necessary for ensuring compliance with requirements affecting the security interests of HUD with respect to the guaranteed loan.
+
+[59 FR 66604, Dec. 27, 1994, as amended at 74 FR 36389, July 22, 2009]

@@ -1,0 +1,15 @@
+##### § 510.20 Wage surveys in Puerto Rico. #####
+
+(a) The legislative history to the 1989 Amendments (Conference Report 101-47 on H.R. 2, May 8, 1989) stated that for any industry to qualify for an extended minimum wage phase-in, the government of Puerto Rico would be required to furnish official survey data substantiating that an industry's average hourly wage is below either the $4.65 or $4.00 threshold level. Such data were to be compiled and submitted for review to the Department.
+
+(b) *Manufacturing industries.* For purposes of implementing section 6(c) of the Act, as amended, Puerto Rico has submitted its Census of Manufacturing Industries. The Bureau of Labor Statistics of Puerto Rico regularly gathers data from manufacturing establishments regarding employment, hours and earnings. The data include hourly earnings for production and related workers and are generally specific to the four-digit SIC code level.
+
+(c) *Non-manufacturing industries.* The Bureau of Labor Statistics of Puerto Rico designed and executed a survey to supplement data regularly gathered for the U.S. Bureau of Labor Statistics (*i.e.*, that included in the payroll establishment survey published in *Employment and Earnings*). The supplemental survey was carried out to determine average hourly earnings for production workers or non-supervisory employees in the private non-agricultural, non-manufacturing sector. Employment and payroll information was collected for the payroll period which included April 12, 1989. The data provided to the Department were generally specific to the four-digit SIC code level.
+
+(d) *Agriculture.* At the request of the Department, the Bureau of Labor Statistics of Puerto Rico conducted a survey of wages paid to agricultural workers which included employment and earnings from at least a specified number of sugarcane farms, coffee farms, ornamental farms, vegetable farms, and other farms, following standard statistical random sampling techniques. The survey included information on earnings, employment, and hourly wage rates paid to workers for the workweek including March 11 through March 17, 1990. In addition, applicable collective bargaining agreements were reviewed for sugarcane farms.
+
+(e) *Commonwealth government.* In the case of the Commonwealth Government of Puerto Rico, a census of hourly earnings was undertaken of all government departments, commissions and other agencies. A separate survey was conducted of government corporations. Managers, officials and employees in positions which require a college degree were excluded from the surveys.
+
+(f) *Municipalities.* In the case of the municipalities of Puerto Rico, a census of hourly earnings was conducted. Managers, officials and employees in positions which require a college degree were excluded from the survey.
+
+[55 FR 12120, Mar. 30, 1990, as amended at 55 FR 53247, Dec. 27, 1990]

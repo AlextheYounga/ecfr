@@ -1,0 +1,3 @@
+##### § 1205.3 General Order No. 1. #####
+
+General Order No. 1, issued August 14, 1934, is the only order the Board has issued since its creation in 1934. This order sent to the President of each carrier coming under the act transmitted a sample copy of the Mediation Board's Form MB-1 known as “Notice in re: Railway Labor Act.” The order prescribes that such notices are to be standard as to contents, dimensions of sheet, and size of type and that they shall be posted promptly and maintained continuously in readable condition on all the usual and customary bulletin boards giving information to employees and at such other places as may be necessary to make them accessible to all employees. Such notices must not be hidden by other papers or otherwise obscured from view.

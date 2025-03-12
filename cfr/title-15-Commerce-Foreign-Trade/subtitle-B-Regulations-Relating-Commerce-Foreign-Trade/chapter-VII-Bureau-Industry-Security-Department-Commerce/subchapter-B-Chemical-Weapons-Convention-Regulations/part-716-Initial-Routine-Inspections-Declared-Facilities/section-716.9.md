@@ -1,0 +1,3 @@
+##### § 716.9 Report of inspection-related costs. #####
+
+Pursuant to section 309(b)(5) of the Act, any facility that has undergone any inspections pursuant to the CWCR during a given calendar year must report to BIS within 90 days of an inspection on its total costs related to that inspection. Although not required, such reports should identify categories of costs separately if possible, such as personnel costs (production-line, administrative, legal), costs of producing records, and costs associated with shutting down chemical production or processing during inspections, if applicable. This information should be reported to BIS on company letterhead at the address given in § 716.6(d) of the CWCR, with the following notation: “Attn: Report of inspection-related costs.”

@@ -1,0 +1,5 @@
+##### § 923.33 Excluded lands. #####
+
+(a) The boundary of a State's coastal zone must exclude lands owned, leased, held in trust or whose use is otherwise by law subject solely to the discretion of the Federal Government, its officers or agents. To meet this requirement, the program must describe, list or map lands or types of lands owned, leased, held in trust or otherwise used solely by Federal agencies.
+
+(b) The exclusion of Federal lands does not remove Federal agencies from the obligation of complying with the consistency provisions of section 307 of the Act when Federal actions on these excluded lands have spillover impacts that affect any land or water use or natural resource of the coastal zone within the purview of a state's management program. In excluding Federal lands from a State's coastal zone for the purposes of this Act, a State does not impair any rights or authorities that it may have over Federal lands that exist separate from this program.

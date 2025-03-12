@@ -1,0 +1,7 @@
+##### § 1614.402 Time for appeals to the Commission. #####
+
+(a) Appeals described in § 1614.401(a) and (c) must be filed within 30 days of receipt of the dismissal, final action or decision. Appeals described in § 1614.401(b) must be filed within 40 days of receipt of the hearing file and decision. Appeals described in § 1614.401(d) must be filed within 30 days of receipt of the final decision of the agency, the arbitrator or the Federal Labor Relations Authority. Where a complainant has notified the EEO Director of alleged noncompliance with a settlement agreement in accordance with § 1614.504, the complainant may file an appeal 35 days after service of the allegations of noncompliance, but no later than 30 days after receipt of an agency's determination.
+
+(b) If the complainant is represented by an attorney of record, then the 30-day time period provided in paragraph (a) of this section within which to appeal shall be calculated from the receipt of the required document by the attorney. In all other instances, the time within which to appeal shall be calculated from the receipt of the required document by the complainant.
+
+[57 FR 12646, Apr. 10, 1992, as amended at 64 FR 37659, July 12, 1999; 77 FR 43505, July 25, 2012]

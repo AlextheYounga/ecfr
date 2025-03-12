@@ -1,0 +1,7 @@
+##### § 600.805 Purpose and scope. #####
+
+(a) *Purpose.* This subpart provides guidelines for Councils and the Secretary to use in adding the required EFH provisions to an FMP, i.e., description and identification of EFH, adverse effects on EFH (including minimizing, to the extent practicable, adverse effects from fishing), and actions to conserve and enhance EFH.
+
+(b) *Scope*—(1) *Species covered.* An EFH provision in an FMP must include all fish species in the fishery management unit (FMU). An FMP may describe, identify, and protect the habitat of species not in an FMU; however, such habitat may not be considered EFH for the purposes of sections 303(a)(7) and 305(b) of the Magnuson-Stevens Act.
+
+(2) *Geographic.* EFH may be described and identified in waters of the United States, as defined in 33 CFR 328.3, and in the exclusive economic zone, as defined in § 600.10. Councils may describe, identify, and protect habitats of managed species beyond the exclusive economic zone; however, such habitat may not be considered EFH for the purposes of sections 303(a)(7) and 305(b) of the Magnuson-Stevens Act. Activities that may adversely affect such habitat can be addressed through any process conducted in accordance with international agreements between the United States and the foreign nation(s) undertaking or authorizing the action.

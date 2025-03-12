@@ -1,0 +1,3 @@
+##### § 2012.1 Purpose. #####
+
+The purpose of this part is to provide for the implementation of the tariff-rate quota for beef established as a result of the Uruguay Round Agreements, approved by the Congress in section 101 of the Uruguay Round Agreements Act (Pub. L. 103-465). In particular, this part provides for the administration of export certificates where a country that has an allocation of the in-quota quantity under the tariff-rate quota has chosen to use export certificates.

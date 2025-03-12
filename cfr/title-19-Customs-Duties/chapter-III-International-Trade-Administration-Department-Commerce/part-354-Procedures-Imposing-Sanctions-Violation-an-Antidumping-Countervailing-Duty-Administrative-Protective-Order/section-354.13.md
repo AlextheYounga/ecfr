@@ -1,0 +1,3 @@
+##### § 354.13 Proceeding without a hearing. #####
+
+If no party has requested a hearing, the Deputy Under Secretary, within 40 days after the date of service of a charging letter, will submit for inclusion into the record and provide each charged or affected party information supporting the allegations in the charging letter. Each charged or affected party has the right to file a written response to the information and supporting documentation within 30 days after the date of service of the information provided by the Deputy Under Secretary unless the Deputy Under Secretary alters the time period for good cause. The Deputy Under Secretary may allow the parties to submit further information and argument.

@@ -1,0 +1,3 @@
+##### § 510.1 Purpose. #####
+
+The regulations prescribed in this part set forth the administrative guidelines and management controls for advisory committees reporting to the Marine Mammal Commission. These regulations are authorized by section 8(a) of the Federal Advisory Committee Act, 5 U.S.C. appendix I. Guidelines and controls are prescribed for calling of meetings, notice of meetings, public participation, closing of meetings, keeping of minutes, and compensation of committee members, their staff and consultants.

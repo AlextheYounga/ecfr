@@ -1,0 +1,7 @@
+##### § 148.39 Rented automobiles. #####
+
+(a) *Importation for temporary period.* An automobile rented by a resident of the United States while abroad may be brought into the United States by or on behalf of such resident for a temporary period not to exceed 30 days under subheading 9804.00.60, Harmonized Tariff Schedule of the United States (HTSUS) (19 U.S.C. 1202), without payment of duty. The automobile shall be used for the transportation of the resident and that of his family and guests, and for such incidental carriage of articles as may be appropriate to his personal use of the automobile. No entry or security for exportation shall be required.
+
+(b) *Unauthorized use or failure to export.* If any automobile exempted from duty under subheading 9804.00.60, HTSUS (19 U.S.C. 1202), is used otherwise than for the purpose expressed or is not returned abroad within 30 days, without prior payment to a port director of the duty which would have been payable at the time of entry if entered without benefit of the exemption, the automobile or its value (to be recovered from the importer) shall be subject to forfeiture.
+
+[T.D. 73-27, 38 FR 2449, Jan. 26, 1973, as amended by T.D. 89-1, 53 FR 51264, Dec. 21, 1988]

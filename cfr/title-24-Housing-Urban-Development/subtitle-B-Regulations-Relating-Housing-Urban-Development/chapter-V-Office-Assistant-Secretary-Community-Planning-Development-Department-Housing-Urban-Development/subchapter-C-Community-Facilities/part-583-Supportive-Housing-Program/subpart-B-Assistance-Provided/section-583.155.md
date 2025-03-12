@@ -1,0 +1,11 @@
+##### § 583.155 Consolidated plan. #####
+
+(a) *Applicants that are States or units of general local government.* The applicant must have a HUD-approved complete or abbreviated consolidated plan, in accordance with 24 CFR part 91, and must submit a certification that the application for funding is consistent with the HUD-approved consolidated plan. Funded applicants must certify in a grant agreement that they are following the HUD-approved consolidated plan.
+
+(b) *Applicants that are not States or units of general local government.* The applicant must submit a certification by the jurisdiction in which the proposed project will be located that the applicant's application for funding is consistent with the jurisdiction's HUD-approved consolidated plan. The certification must be made by the unit of general local government or the State, in accordance with the consistency certification provisions of the consolidated plan regulations, 24 CFR part 91, subpart F.
+
+(c) *Indian tribes and the Insular Areas of Guam, the U.S. Virgin Islands, American Samoa, and the Northern Mariana Islands.* These entities are not required to have a consolidated plan or to make consolidated plan certifications. An application by an Indian tribe or other applicant for a project that will be located on a reservation of an Indian tribe will not require a certification by the tribe or the State. However, where an Indian tribe is the applicant for a project that will not be located on a reservation, the requirement for a certification under paragraph (b) of this section will apply.
+
+(d) *Timing of consolidated plan certification submissions.* Unless otherwise set forth in the NOFA, the required certification that the application for funding is consistent with the HUD-approved consolidated plan must be submitted by the funding application submission deadline announced in the NOFA.
+
+[60 FR 16380, Mar. 30, 1995]

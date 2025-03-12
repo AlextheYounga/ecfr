@@ -1,0 +1,3 @@
+##### § 12.4 Report to the Congress. #####
+
+Whenever the Secretary publishes a final determination under § 12.3(b)(4) or § 12.3(c)(5), he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.

@@ -1,0 +1,3 @@
+##### § 906.14 Burden of proof. #####
+
+On issues of fact, the appellant bears the burden of proving he or she should prevail by a preponderance of the evidence. Preponderance of the evidence is the relevant evidence in the NAO case record, considered as a whole, that shows that a contested fact is more likely to be true than not true. Appellant has the obligation to obtain and present evidence to support the claims in his or her petition.

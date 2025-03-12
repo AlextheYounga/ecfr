@@ -1,0 +1,3 @@
+##### § 4041A.27 PBGC approval to pay benefits not otherwise permitted. #####
+
+Upon written application by the plan sponsor, the PBGC may authorize the plan to pay benefits other than nonforfeitable benefits or to pay benefits valued at more than $1,750 in a form other than an annuity. The PBGC will approve such payments if it determines that the plan sponsor has demonstrated that the payments are not adverse to the interests of the plan's participants and beneficiaries generally and do not unreasonably increase the PBGC's risk of loss with respect to the plan.

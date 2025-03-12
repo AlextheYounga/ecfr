@@ -1,0 +1,7 @@
+##### § 3286.811 Effect on other manufactured housing program requirements. #####
+
+A state with a qualifying installation program will operate in lieu of HUD with respect to only the installation program established under subparts B through H of this part. No state may permit its installation program, even if it is a qualified installation program under this part, to supersede the requirements applicable to HUD's Manufactured Housing Construction and Safety Standards and enforcement programs. Regardless of whether a state has a qualified installation program:
+
+(a) *Construction and safety standards.* Any responsibilities, rights, and remedies applicable under the Manufactured Home Construction and Safety Standards Act in part 3280 of this chapter and the Manufactured Home Procedural and Enforcement Regulations in part 3282 of this chapter continue to apply as provided in those parts; and
+
+(b) *Dispute resolution.* For any defect in a manufactured home that is reported during the one-year period beginning on the date of installation defined in § 3286.115, any responsibilities, rights, and remedies applicable under the HUD dispute resolution program as implemented in part 3288 of this chapter continue to apply as provided in that part.

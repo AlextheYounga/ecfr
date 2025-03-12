@@ -1,0 +1,3 @@
+##### § 26.38 Commencement of action. #####
+
+Proceedings under subpart B of this part shall commence with the Government's filing of a complaint, as that term is defined in § 26.29, with the Docket Clerk. The respondent's response to the complaint shall be timely filed with the Docket Clerk and served upon the Government in accordance with the procedures set forth in the complaint. If the respondent fails to submit a response to the Docket Clerk, then the Government may file a motion for a default judgment in accordance with § 26.41.

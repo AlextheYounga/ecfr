@@ -1,0 +1,3 @@
+##### § 17.113 Miscellaneous provisions: correspondence with the Department. #####
+
+The employee shall file a request for a hearing with the Clerk, OA, 409 3rd Street SW., 2nd Floor, Washington, DC 20024, on official work days between the hours of 8:45 a.m. and 5:15 p.m. (or such other address as HUD may provide by notice from time to time). All other correspondence shall be submitted to the Departmental Claims Officer, Office of the Chief Financial Officer, Department of Housing and Urban Development, 451 Seventh Street SW., Washington, DC 20410 (or such other officer or address as HUD may provide by notice from time to time). Documents may be filed by personal delivery or mail.

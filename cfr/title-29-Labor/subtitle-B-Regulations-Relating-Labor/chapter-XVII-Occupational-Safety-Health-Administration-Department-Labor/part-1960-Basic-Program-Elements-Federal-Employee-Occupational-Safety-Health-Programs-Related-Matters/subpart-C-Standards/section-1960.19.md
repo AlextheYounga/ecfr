@@ -1,0 +1,7 @@
+##### § 1960.19 Other Federal agency standards affecting occupational safety and health. #####
+
+(a) Where employees of different agencies engage in joint operations, and/or primarily report to work or carry out operations in the same establishment, the standards adopted under § 1960.17 or § 1960.18 of the host agency shall govern.
+
+(b) There are situations in which the head of an agency is required to comply with standards affecting occupational safety and health issued by a Federal agency other than OSHA. For example, standards issued by the Federal Aviation Administration, the Department of Energy, or the General Services Administration may be applicable to certain Federal workplaces. Nothing in this subpart affects the duty of any agency head to comply with such standards. In addition, agency heads should comply with other standards issued by Federal agencies which deal with hazardous working conditions, but for which OSHA has no standards.
+
+(c) Although it is not anticipated that standards of other Federal agencies will conflict with OSHA standards, should such conflict occur, the head of the agency shall inform the other Federal agency and the Secretary so that joint efforts to resolve the issues may be undertaken. However, until conflicts are resolved, agencies shall comply with the more protective of the conflicting standards.

@@ -1,0 +1,3 @@
+##### § 151.01 Purpose. #####
+
+Section 11 of the Federal Fire Prevention and Control Act of 1974, provides that “each fire service that engages in the fighting of a fire on property which is under the jurisdiction of the United States may file a claim with the Administrator of the Federal Emergency Management Agency for the amount of direct expenses and direct losses incurred by such fire service as a result of fighting such fire.” This part, implements section 11 of the Act and governs the submission, determination, and appeal of claims under section 11.

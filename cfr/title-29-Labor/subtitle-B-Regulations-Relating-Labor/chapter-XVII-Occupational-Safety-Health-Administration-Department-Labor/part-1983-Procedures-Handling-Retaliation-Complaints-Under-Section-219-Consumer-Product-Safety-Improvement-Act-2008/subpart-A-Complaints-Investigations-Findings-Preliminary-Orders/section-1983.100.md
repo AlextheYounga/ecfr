@@ -1,0 +1,5 @@
+##### § 1983.100 Purpose and scope. #####
+
+(a) This part implements procedures of the employee protection provisions of the Consumer Product Safety Improvement Act (CPSIA), 15 U.S.C. 2087. CPSIA provides for employee protection from retaliation because the employee has engaged in protected activity pertaining to consumer product safety.
+
+(b) This part establishes procedures under CPSIA for the expeditious handling of retaliation complaints filed by employees, or by persons acting on their behalf. These rules, together with those codified at 29 CFR part 18, set forth the procedures under CPSIA for submission of complaints, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges (ALJs), post-hearing administrative review, and withdrawals and settlements.

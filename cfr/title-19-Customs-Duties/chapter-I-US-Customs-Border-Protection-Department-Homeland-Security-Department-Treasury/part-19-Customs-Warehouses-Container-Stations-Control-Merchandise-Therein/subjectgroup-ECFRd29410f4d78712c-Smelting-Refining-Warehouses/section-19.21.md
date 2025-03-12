@@ -1,0 +1,13 @@
+##### § 19.21 Smelting and refining in separate establishments. #####
+
+(a) If the operations of smelting and refining are not carried on in the same establishment, the smelted and unrefined products obtained from the smelting of imported materials in a bonded smelting warehouse may be removed therefrom for shipment to a bonded refining warehouse located at the same or another port under the general procedure for transfer from one bonded warehouse to another.
+
+(b) When the transfer is to a bonded refining warehouse located at another port, the smelted and unrefined products or bullion obtained from the smelting of the imported material shall be weighed, sampled, and assayed before withdrawal, the sampling to be performed under Government supervision in accordance with § 19.4 and the commercial practice in effect at the plant. A report of sampling, weight, and assay of transferred material shall be maintained for 5 years after liquidation of the warehouse entry.
+
+(c) The withdrawal for transportation shall show the gross weight of the smelted and unrefined products withdrawn, the weight of the dutiable metal contained therein, the wastage applicable thereto and the duties properly chargeable on the withdrawn products as shown by the import entry.
+
+(d) The rewarehouse entry covering the smelted and unrefined products at the bonded refining warehouse to which they are transferred shall be made out in accordance with the weights and duties shown on the withdrawal for transportation.
+
+(e) Upon withdrawal of the metal from the bonded refining warehouse for export, the warehouse account of the refining warehouse shall be credited with the amount of metal so withdrawn, plus the refining wastage prescribed for said refining warehouse, plus the smelting wastage prescribed for the bonded smelting warehouse in which the smelted and unrefined products were produced, together with the amount of any dutiable metals entirely lost in the smelting or refining, or both. However, when the metal is withdrawn for consumption, duty shall be collected on an amount of metal-bearing materials in their condition as imported equivalent to that from which such metal would be producible. No allowance for either smelting or refining wastage shall be permitted, except where the metal is withdrawn from a Customs warehouse other than a bonded smelting and refining warehouse.
+
+[28 FR 14763, Dec. 31, 1963, as amended by T.D. 82-204, 47 FR 49374, Nov. 1, 1982; T.D. 84-213, 49 FR 41170, Oct. 19, 1984]

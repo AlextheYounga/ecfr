@@ -1,0 +1,31 @@
+##### § 995.24 Distribution of data. #####
+
+(a) *Distribution of data by CEDs*—(1) *Format of redistributed data*—(i) *General.* Except as listed in paragraphs (a)(1)(ii) and (iii) of this section, CED agrees to redistribute NOAA ENC data only in the original form provided by NOAA after uncompressing and shall not change the file format (S-57 Edition 3.1 ENC or other formats specified by NOAA), or contents, or alter the NOAA ENC data in any way.
+
+(ii) *Compression.* The NOAA ENC files may be compressed using a lossless compression technique provided that CED makes the decompression software available to the end user as part of the redistribution service. Decompressed files must have the same CRC checksum value as the original files. The CED agrees to make the compression/decompression software and documentation available to NOAA for testing.
+
+(iii) *Encryption.* The NOAA ENC files may be encrypted by CED, providing that the encryption/decryption process does not result in any information loss and that CED makes the decryption software available to the end user as part of the redistribution service. Decrypted files must have the same CRC checksum value as the original files. CED shall make the encryption/decryption software and documentation available to NOAA for testing.
+
+(2) *Frequency of distribution.* CED shall make all current editions of NOAA ENC files and all updates to or new editions of NOAA ENC files available to its customers within five working days of the files or updates being posted by NOAA. Documentation shall be provided to the customer concerning any time delays that may occur between official release of a NOAA ENC or update, and CED providing same to end users.
+
+(3) *Distribution report.* CED shall provide a bi-annual report on when NOAA ENC files were downloaded and when they were redistributed to end-users.
+
+(4) *Additional data.* (i) If CED provides other data to customers in addition to NOAA ENC data (e.g., ENC data from other nations, raster chart data, privately produced data, etc.), CED shall provide a clear indication to the customer which files are official NOAA ENC data and which files are not. This may be accomplished through means such as package labeling, notifications in software, or other means.
+
+(ii) Additionally, any data that is included with NOAA ENC data must not result in embarrassment to the Department of Commerce or NOAA. There must be no conflict with any trademark rights and the inclusion of non-NOAA data will not constitute any endorsement of or favoritism toward the non-NOAA data or CED.
+
+(5) *Identification of type and contents.* CED shall ensure that NOAA ENC ® files provided to an end user are clearly identified as to the type (e.g., direct unaltered copies) and contents (cells, updates, and ancillary files) and authenticity of the exchange set. This may be accomplished through means such as package labeling, notifications in software, or other means.
+
+(6) *Use of product.* CED shall provide a clear indication to the customer the purpose of its products; for example, indicating whether or not the product, and the data contained within it, is suitable for navigation and if it meets Federal chart carriage requirements. If only some of the files meet Federal carriage requirements, CED shall provide clear indication which files do and which files do not. This may be accomplished through means such as package labeling, notifications in software, or other means.
+
+(b) *Distribution of data by CEVADs*—(1) *Frequency of distribution.* CEVAD shall make all current editions of NOAA ENC files and all updates to or new editions of NOAA ENC files available to its customers within five working days of the files or updates being posted by NOAA. Documentation shall be provided to the customer concerning any time delays that may occur between official release of a NOAA ENC or update, and CED providing same to end users.
+
+(2) *Distribution report.* CEVAD shall provide a bi-annual report to NOAA on when NOAA ENC files were downloaded and when they were redistributed or made available to end users.
+
+(3) *Additional data.* (i) If CEVAD provides products to customers that incorporate other data in addition to NOAA ENC data (e.g., ENC data from other nations, raster chart data, privately produced data, etc.), CEVAD shall provide a clear indication in the product which data are from official NOAA ENC data and which data are not. This shall be done in a way that allows the navigation system to give the end user an automatic notification or warning that particular data elements within the product are not from the official NOAA ENC. Any such data shall not degrade the official NOAA ENC data or information.
+
+(ii) Additionally, any data that is included with NOAA ENC data must not result in embarrassment to the Department of Commerce or NOAA. There must be no conflict with any trademark rights and the inclusion of non-NOAA data will not constitute any endorsement of or favoritism toward the non-NOAA data or CEVAD.
+
+(4) *Identification of type and contents.* CEVAD shall ensure that data provided to an end user clearly identify which NOAA ENC ® files are included in the product as to the type (e.g., NOAA ENCs in another form than that provided by NOAA without degradation to positional accuracy or informational content) and the contents (cells, updates, and ancillary files) and authenticity of the NOAA ENC files used. This may be accomplished through means such as package labeling, notifications in software, or other means.
+
+(5) *Use of product.* CEVAD shall provide a clear indication to the customer of the purpose of its products; for example, indicating whether or not the product, and the data contained within it, is suitable for navigation and if it meets Federal chart carriage requirements. If only some of the files meet Federal carriage requirements, CEVAD shall provide clear indication which files do and which files do not. This may be accomplished through means such as package labeling, notifications in software, or other means.

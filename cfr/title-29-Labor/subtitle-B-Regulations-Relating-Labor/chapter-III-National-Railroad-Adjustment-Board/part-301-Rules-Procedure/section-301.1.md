@@ -1,0 +1,5 @@
+##### § 301.1 General duties. #####
+
+(a) It shall be the duty of all carriers, their officers, agents and employees to exert every reasonable effort to make and maintain agreements concerning rates of pay, rules, and working conditions, and to settle all disputes, whether arising out of the application of such agreements or otherwise, in order to avoid any interruption to commerce or to the operation of any carrier growing out of any disputes between the carrier and the employees thereof.
+
+(b) All disputes between a carrier or carriers, and its or their employees shall be considered, and, if possible, decided, with all expedition, in conference between representatives designated and authorized so to confer, respectively, by the carrier or carriers and by the employees thereof interested in the dispute.

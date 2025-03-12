@@ -1,0 +1,3 @@
+##### § 401.18 Contracts. #####
+
+A Cooperator may use its own regulations or guidelines in obtaining services by contract or otherwise, provided that they adhere to applicable Federal laws, regulations, policies, guidelines, and requirements, as set forth in Attachment 0 of Federal Management Circular 74-7. However, the Cooperator is the responsible authority, without recourse to the Federal agency, regarding the settlement of such contractual issues.

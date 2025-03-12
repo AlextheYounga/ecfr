@@ -1,0 +1,5 @@
+##### § 777.5 Federal participation. #####
+
+(a) Those measures which the FHWA and a State DOT find appropriate and necessary to mitigate adverse environmental impacts to wetlands and natural habitats are eligible for Federal participation where the impacts are the result of projects funded pursuant to title 23, U.S. Code. The justification for the cost of proposed mitigation measures should be considered in the same context as any other public expenditure; that is, the proposed mitigation represents a reasonable public expenditure when weighed against other social, economic, and environmental values, and the benefit realized is commensurate with the proposed expenditure. Mitigation measures shall give like consideration to traffic needs, safety, durability, and economy of maintenance of the highway.
+
+(b) It is FHWA policy to permit, consistent with the limits set forth in this part, the expenditure of title 23, U.S. Code, funds for activities required for the planning, design, construction, monitoring, and establishment of wetlands and natural habitat mitigation projects, and acquisition of land or interests therein.

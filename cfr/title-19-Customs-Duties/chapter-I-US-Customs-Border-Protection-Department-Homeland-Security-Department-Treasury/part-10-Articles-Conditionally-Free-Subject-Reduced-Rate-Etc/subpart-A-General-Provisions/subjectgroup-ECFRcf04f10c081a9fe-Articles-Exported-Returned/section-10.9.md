@@ -1,0 +1,27 @@
+##### § 10.9 Articles exported for processing. #####
+
+(a) Except as otherwise provided for in this section, the following documents shall be filed in connection with the entry of articles which are returned after having been exported for further processing and which are claimed to be subject to duty only on the value of the processing performed abroad under subheading 9802.00.60, Harmonized Tariff Schedule of the United States (HTSUS):
+
+(1) A declaration by the person who performed the processing abroad, in substantially the following form:
+
+I, \_\_\_\_\_, declare that the articles herein specified are the articles which, in the condition in which they were exported from the United States, were received by me (us) on \_\_\_\_\_\_, 19 \_\_\_, from \_\_\_\_\_\_\_\_ (name and address of owner or exporter in the United States); that they were received by me (us) for the sole purpose of being processed; that only the processing described below was effected by me (us); that the full cost or (when no charge is made) value of such processing and the value of the articles after processing are correctly stated below; and that no substitution whatever has been made to replace any of the articles originally received by me (us) from the owner or exporter thereof mentioned above.
+
+|Marks and numbers|Description of articles and of processing|Full cost or (when no charge is made) value of processing (see subchapter II, chapter 98, HTSUS)|Total value of articles after processing|
+|-----------------|-----------------------------------------|------------------------------------------------------------------------------------------------|----------------------------------------|
+|                 |                                         |                                                                                                |                                        |
+|                 |                                         |                                                                                                |                                        |
+|                 |                                         |                                                                                                |                                        |
+
+(Date)(Address)(Signature)(Capacity)
+
+(2) A declaration by the owner, importer, consignee, or agent having knowledge of the pertinent facts in substantially the following form:
+
+ I, \_\_\_\_\_, declare that the (above) (attached) declaration by the person who performed the processing abroad is true and correct to the best of my knowledge and belief; that the articles were manufactured in the United States by \_\_\_\_\_\_\_\_ (name and address) or, if of foreign origin, were subjected to \_\_\_\_\_\_\_\_ (show processes of manufacture, such as molding, casting, machining) in the United States by \_\_\_\_\_\_\_\_ (name and address); that the articles were not manufactured or produced in the United States under subheading 9813.00.05, HTSUS; that the articles were exported for processing and without benefit of drawback from \_\_\_\_\_\_\_\_ (port) on \_\_\_\_\_\_, 19 \_\_\_; that the articles entered in their processed condition are otherwise the same articles that were exported on the above date and that are identified in the (above) (attached) declaration; and that the returned articles will be subjected to \_\_\_\_\_\_\_\_ (describe processing to be performed in the United States) by \_\_\_\_\_\_\_\_ (name and address of U.S. processor).(Date)(Address)(Signature)(Capacity)
+
+(b) The port director may require such additional documentation as is deemed necessary to prove actual exportation of the articles from the United States for processing, such as a foreign customs entry, foreign customs invoice, foreign landing certificate, bill of lading, or an airway bill.
+
+(c) If the port director concerned is satisfied, because of the nature of the articles or production of other evidence, that the articles are imported under circumstances meeting the requirements of subheading 9802.00.60, HTSUS, and related section and additional U.S. notes, he may waive submission of the declarations provided for in paragraph (a) of this section.
+
+(d) The port director shall require at the time of entry a deposit of estimated duties based upon the full cost or value of the processing. The cost or value of the processing outside the United States, which is to be set forth in the invoice and entry papers as the basis for the assessment of duty under subheading 9802.00.60, HTSUS, shall be limited to the cost or value of the processing actually performed abroad, which will include all domestic and foreign articles used in the processing but shall not include the exported United States metal article or any of the expenses incurred in this country whether by way of engineering costs, preparation of plans or specifications, furnishing of tools or equipment for doing the processing abroad, or otherwise.
+
+[T.D. 94-47, 59 FR 25568, May 17, 1994]

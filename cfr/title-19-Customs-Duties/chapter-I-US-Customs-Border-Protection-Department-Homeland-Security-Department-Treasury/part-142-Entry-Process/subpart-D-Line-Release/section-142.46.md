@@ -1,0 +1,7 @@
+##### § 142.46 Presentation of invoice and assignment of entry number. #####
+
+(a) *Presentation of invoice.* When merchandise that has been approved for Line Release is imported at a Line Release site, the carrier, importer or filer shall present Customs with an invoice with the bar code or codes printed or affixed and, according to the method of transportation, the appropriate manifest document.
+
+(b) *Verification of data.* If after scanning the bar code at the Line Release site, the Customs officer verifies the data on the bar code with the information on the invoice, he will key the quantity on the invoice and an entry number will be automatically assigned to the transaction. If there are any differences between the system data and the invoice and bar code, including any differences in entry filer, the Customs officer shall order an examination.
+
+(c) *Other agency documentation.* If the Line Release shipment requires other agency documentation, the Customs officer at the Line Release site will be alerted to that requirement electronically when he verifies the data on the bar code with the information on the invoice. If the required form is presented to the officer with the documentation package, the shipment may be released.

@@ -1,0 +1,5 @@
+##### § 1602.27 Records to be made or kept. #####
+
+Those portions of Report EEO-3 calling for information about union policies and practices and for the compilation of statistics on the race, color, national origin, and sex of members, persons referred, and apprentices, are deemed to be “records” within the meaning of section 709(c), title VII, Civil Rights Act of 1964. Every local, independent, or unaffiliated union with 100 or more members (or any agent acting in its behalf, if the agent has responsibility for referral of persons for employment) shall make these records or such other records as are necessary for the completion of Report EEO-3 under the circumstances and conditions set forth in the instructions accompanying it, which are specifically incorporated herein by reference and have the same force and effect as other sections of this part.
+
+(Approved by the Office of Management and Budget under control number 3046-0006)[32 FR 10651, July 20, 1967, as amended at 46 FR 63268, Dec. 31, 1981]

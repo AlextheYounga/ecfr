@@ -1,0 +1,3 @@
+##### § 780.212 Hatchery employees working on farms. #####
+
+The work of hatchery employees in connection with the maintenance of the quality of the poultry flock on farms is also part of the “raising” operations. This includes testing for disese, culling, weighing, cooping, loading, and transporting the culled birds. The catching and loading of broilers on farms by hatchery employees for transportation to market are agricultural operations.

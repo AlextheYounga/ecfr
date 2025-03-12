@@ -1,0 +1,7 @@
+##### § 778.110 Hourly rate employee. #####
+
+(a) *Earnings at hourly rate exclusively.* If the employee is employed solely on the basis of a single hourly rate, the hourly rate is the “regular rate.” For overtime hours of work the employee must be paid, in addition to the straight time hourly earnings, a sum determined by multiplying one-half the hourly rate by the number of hours worked in excess of 40 in the week. Thus a $12 hourly rate will bring, for an employee who works 46 hours, a total weekly wage of $588 (46 hours at $12 plus 6 at $6). In other words, the employee is entitled to be paid an amount equal to $12 an hour for 40 hours and $18 an hour for the 6 hours of overtime, or a total of $588.
+
+(b) *Hourly rate and bonus.* If the employee receives, in addition to the earnings computed at the $12 hourly rate, a production bonus of $46 for the week, the regular hourly rate of pay is $13 an hour (46 hours at $12 yields $552; the addition of the $46 bonus makes a total of $598; this total divided by 46 hours yields a regular rate of $13). The employee is then entitled to be paid a total wage of $637 for 46 hours (46 hours at $13 plus 6 hours at $6.50, or 40 hours at $13 plus 6 hours at $19.50).
+
+[76 FR 18857, Apr. 5, 2011]

@@ -1,0 +1,3 @@
+##### § 793.12 Related and incidental work. #####
+
+An employee who is employed primarily in one or more of the named occupations may also be engaged in other duties pertaining to the operation of the station by which he is employed. The Senate Report states that, for purposes of this exemption, employees who are primarily employed in the named occupation “may engage in related activities, including the sale of broadcasting time for the broadcasting company by which they are employed, as an incident to their principal occupation”, (S. Rept. 145, 87th Cong., 1st sess., p. 37). Time spent in such duties will not be considered to defeat the exemption if the employee is primarily employed in the named occupations and if the other requirements of the exemption are met.

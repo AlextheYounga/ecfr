@@ -1,0 +1,3 @@
+##### § 452.15 Effect of trusteeship. #####
+
+Establishment of a valid trusteeship may have the effect of suspending the operation of the election provisions of the Act. When the autonomy otherwise available to a subordinate labor organization has been suspended consistent with the provisions of title III of the Act, officers of the organization under trusteeship may be relieved of their duties and temporary officers appointed by the trustee if necessary to assist him in carrying out the purposes for which the trusteeship was established. However, when a regular election of officers or an election for purposes of terminating the trusteeship is being held during the trusteeship, title IV would apply.

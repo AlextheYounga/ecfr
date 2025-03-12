@@ -1,0 +1,3 @@
+##### § 18.1006 Summaries. #####
+
+The contents of voluminous writings, recordings, or photographs which cannot conveniently be examined at the hearing may be presented in the form of a chart, summary, or calculation. The originals, or duplicates, shall be made available for examination or copying, or both, by other parties at reasonable time and place. The judge may order that they be produced at the hearing.

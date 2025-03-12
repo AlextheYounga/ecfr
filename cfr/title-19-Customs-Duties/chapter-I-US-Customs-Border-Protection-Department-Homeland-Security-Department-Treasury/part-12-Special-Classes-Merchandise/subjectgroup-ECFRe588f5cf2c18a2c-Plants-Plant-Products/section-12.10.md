@@ -1,0 +1,3 @@
+##### § 12.10 Regulations and orders of the Department of Agriculture. #####
+
+The importation into the United States of plants and plant products is subject to regulations and orders of the Department of Agriculture restricting or prohibiting the importation of such plants and plant products. Customs officers and employees shall perform such functions as are necessary or proper on their part to carry out such regulations and orders of the Department of Agriculture and the provisions of law under which they are made.

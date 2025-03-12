@@ -1,0 +1,5 @@
+##### § 10.908 Effect of noncompliance; failure to provide documentation regarding transshipment. #####
+
+(a) *General.* If the importer fails to comply with any requirement under this subpart, including submission of a complete certification prepared in accordance with § 10.904 of this subpart, when requested, the port director may deny preferential tariff treatment to the imported good.
+
+(b) *Failure to provide documentation regarding transshipment.* Where the requirements for preferential tariff treatment set forth elsewhere in this subpart are met, the port director nevertheless may deny preferential tariff treatment to an originating good if the good is shipped through or transshipped in a country other than a Party to the PTPA, and the importer of the good does not provide, at the request of the port director, evidence demonstrating to the satisfaction of the port director that the conditions set forth in § 10.925(a) of this subpart were met.

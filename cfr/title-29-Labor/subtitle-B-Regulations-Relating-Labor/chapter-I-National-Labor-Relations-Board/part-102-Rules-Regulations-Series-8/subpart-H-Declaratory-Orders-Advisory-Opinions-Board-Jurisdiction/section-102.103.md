@@ -1,0 +1,3 @@
+##### § 102.103 Proceedings before the Board; briefs; advisory opinions. #####
+
+The Board shall thereupon proceed, upon the petition, responses, and submission of briefs, to determine whether, on the facts before it, the commerce operations of the employer involved are such that it would or would not assert jurisdiction. Such determination shall be in the form of an advisory opinion and shall be served upon the parties. No briefs shall be filed except upon special permission of the Board.

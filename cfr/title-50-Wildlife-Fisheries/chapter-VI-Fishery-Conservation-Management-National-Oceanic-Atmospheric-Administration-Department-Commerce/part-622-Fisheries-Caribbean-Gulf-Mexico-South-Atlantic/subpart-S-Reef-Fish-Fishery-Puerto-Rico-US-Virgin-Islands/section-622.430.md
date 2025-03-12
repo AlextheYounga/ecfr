@@ -1,0 +1,7 @@
+##### § 622.430 Gear identification. #####
+
+(a) *Fish traps and associated buoys.* A fish trap used or possessed in the Caribbean EEZ must display the official number specified for the vessel by Puerto Rico or the U.S. Virgin Islands so as to be easily identified. Traps used in the Caribbean reef fish fishery that are fished individually, rather than tied together in a trap line, must have at least one buoy attached that floats on the surface. Traps used in the Caribbean reef fish fishery that are tied together in a trap line must have at least one buoy that floats at the surface attached at each end of the trap line. Each buoy must display the official number and color code assigned to the vessel by Puerto Rico or the U.S. Virgin Islands, whichever is applicable, so as to be easily distinguished, located, and identified.
+
+(b) *Presumption of ownership of fish traps.* A fish trap in the EEZ will be presumed to be the property of the most recently documented owner. This presumption will not apply with respect to such traps that are lost or sold if the owner reports the loss or sale within 15 days to the RA.
+
+(c) *Disposition of unmarked fish traps or buoys.* An unmarked fish trap or a buoy deployed in the EEZ where such trap or buoy is required to be marked is illegal and may be disposed of in any appropriate manner by the Assistant Administrator or an authorized officer.

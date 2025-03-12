@@ -1,0 +1,5 @@
+##### § 127.33 Chargeable duties. #####
+
+The duties chargeable on any merchandise within the purview of this subpart shall be assessed on the appraised dutiable value at the rate of duty chargeable at the time the merchandise became subject to sale. Household and personal effects of the character provided for in Chapter 98, Subchapter IV, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), which belong to persons who have not arrived in this country before the effects become subject to sale, are dutiable at the rates in effect when the effects become subject to sale, even though such persons arrive and make entry for the effects before they are sold.
+
+[T.D. 74-114, 39 FR 12092, Apr. 3, 1974, as amended by T.D. 89-1, 53 FR 51255, Dec. 21, 1988; T.D. 97-82, 62 FR 51770, Oct. 3, 1997]

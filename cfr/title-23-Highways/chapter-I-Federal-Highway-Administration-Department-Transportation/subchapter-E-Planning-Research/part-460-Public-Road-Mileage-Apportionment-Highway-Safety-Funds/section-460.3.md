@@ -1,0 +1,11 @@
+##### § 460.3 Procedures. #####
+
+(a) *General requirements.* 23 U.S.C. 402(c) provides that funds authorized to carry out section 402 shall be apportioned according to a formula based on population and public road mileage of each State. Public road mileage shall be determined as of the end of the calendar year preceding the year in which the funds are apportioned and shall be certified to by the Governor of the State or his designee and subject to the approval of the Federal Highway Administrator.
+
+(b) *State public road mileage.* Each State must annually submit a certification of public road mileage within the State to the Federal Highway Administration Division Administrator by the date specified by the Division Administrator. Public road mileage on Indian reservations within the State shall be identified and included in the State mileage and in computing the State's apportionment.
+
+(c) *Indian reservation public road mileage.* The Secretary of the Interior or his designee will submit a certification of public road mileage within Indian reservations to the Federal Highway Administrator by June 1 of each year.
+
+(d) *Action by the Federal Highway Administrator.* (1) The certification of Indian reservation public road mileage, and the State certifications of public road mileage together with comments thereon, will be reviewed by the Federal Highway Administrator. He will make a final determination of the public road mileage to be used as the basis for apportionment of funds under 23 U.S.C. 402(c). In any instance in which the Administrator's final determination differs from the public road mileage certified by a State or the Secretary of the Interior, the Administrator will advise the State or the Secretary of the Interior of his final determination and the reasons therefor.
+
+(2) If a State fails to submit a certification of public road mileage as required by this part, the Federal Highway Administrator may make a determination of the State's public road mileage for the purpose of apportioning funds under 23 U.S.C. 402(c). The State's public road mileage determined by the Administrator under this subparagraph may not exceed 90 percent of the State's public road mileage utilized in determining the most recent apportionment of funds under 23 U.S.C. 402(c).

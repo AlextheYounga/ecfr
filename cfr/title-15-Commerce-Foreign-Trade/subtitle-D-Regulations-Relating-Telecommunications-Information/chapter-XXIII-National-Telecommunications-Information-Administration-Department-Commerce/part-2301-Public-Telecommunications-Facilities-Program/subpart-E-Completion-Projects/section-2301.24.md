@@ -1,0 +1,3 @@
+##### § 2301.24 Final Federal payment. #####
+
+If the total allowable, allocable, and reasonable costs incurred in completing the planning or construction project are less than the total project award amount, the Agency shall reduce the amount of the final Federal share on a pro rata basis. If, however, the actual costs incurred in completing the project are more than the estimated total project costs, in no case will the final Federal funds paid exceed the grant award.

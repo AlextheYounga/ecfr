@@ -1,0 +1,36 @@
+##### § 245.310 Notice to tenants. #####
+
+(a) At least 30 days before submitting a request to HUD for approval of an increase in maximum permissible rents, the mortgagor must notify the tenants of the proposed rent increase. Copies of the notice must be served on the tenants as provided in § 245.15. The notice must contain the following information in the following format or an equivalent format:
+
+Notice to Tenants of Intention To Submit a Request to HUD for Approval of an Increase in Maximum Permissible RentsDate of Notice
+
+Take notice that on [date] we plan to submit a request for approval of an increase in the maximum permissible rents for [name of apartment complex] to the United States Department of Housing and Urban Development (HUD). The proposed increase is needed for the following reasons:
+
+1.
+
+2.
+
+3.
+
+The rent increases for which we have requested approval are:
+
+|                                                                                                                                               Bedrooms                                                                                                                                                |Present  <br/>rent <sup>1</sup>|Proposed  <br/>increase <sup>1</sup>|Proposed  <br/>rent <sup>1</sup>|     |      |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------|------------------------------------|--------------------------------|-----|------|---|
+|                                                                                                                                                 Basic                                                                                                                                                 |            Market             |               Basic                |             Market             |Basic|Market|   |
+|                                                                                                                                                   5                                                                                                                                                   |               $               |                 $                  |               $                |  $  |      | $ |
+|                                                                                                                                                   0                                                                                                                                                   |                               |                                    |                                |     |      |   |
+|                                                                                                                                                   1                                                                                                                                                   |                               |                                    |                                |     |      |   |
+|                                                                                                                                                   2                                                                                                                                                   |                               |                                    |                                |     |      |   |
+|                                                                                                                                                   3                                                                                                                                                   |                               |                                    |                                |     |      |   |
+|                                                                                                                                                   4                                                                                                                                                   |                               |                                    |                                |     |      |   |
+|<sup>1</sup> Separate columns for basic and market rent should be used only for projects assisted under sec. 236 of the National Housing Act. In addition, in projects with more than 1 type of apartment having the same number of bedroom but different rents, each type should be listed separately.|                               |                                    |                                |     |      |   |
+
+A copy of the materials that we are submitting to HUD in support of our request will be available during normal business hours at [address] for a period of 30 days from the date of service of this notice for inspection and copying by tenants of [name of apartment complex] and, if the tenants wish, by legal or other representatives acting for them individually or as a group.
+
+During a period of 30 days from the date of service of this notice, tenants of [name of apartment complex] may submit written comments on the proposed rent increase to us at [address]. Tenant representatives may assist tenants in preparing those comments. (If, at HUD's request or otherwise , we make any material change during the comment period in the materials available for inspection and copying, we will notify the tenants of the change or changes, and the tenants will have a period of 15 days from the date of service of this additional notice (or the remainder of any applicable comment period, if longer) in which to inspect and copy the materials as changed and to submit comments on the proposed rent increase). These comments will be transmitted to HUD, along with our evaluation of them and our request for the increase. You may also send a copy of your comments directly to HUD at the following address: United States Department of Housing and Urban Development [address of local HUD field office with jurisdiction over rent increases for the project], Attention: Director, Housing Management Division, Re: Project No. [Name of Apartment Complex].
+
+HUD will approve, adjust upward or downward, or disapprove the proposed rent increase upon reviewing the request and comments. When HUD advises us in writing of its decision on our request, you will be notified. If the request is approved, any allowable increase will be put into effect only after a period of at least 30 days from the date you are served with that notice and in accordance with the terms of existing leases.
+
+[Name of mortgagor or managing agent]
+
+(b) The mortgagor must comply with all representations made in the notice. The materials to be made available to tenants for inspection and copying are those specified in § 245.315.

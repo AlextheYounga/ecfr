@@ -1,0 +1,5 @@
+##### § 891.700 Prepayment of loans. #####
+
+(a) *Prepayment prohibition.* The prepayment (whether in whole or in part) or the assignment or transfer of physical and financial assets of any Section 202 project is prohibited, unless the Assistant Secretary gives prior written approval.
+
+(b) *HUD-approved prepayment.* Approval for prepayment or transfer will not be granted unless HUD determines that the prepayment or transfer of the loan is a part of a transaction that will ensure the continued operation of the project until the original maturity date of the loan in a manner that will provide rental housing for the handicapped families on terms at least as advantageous to existing and future tenants as the terms required by the original Section 202 loan agreement and any other loan agreements entered into under other provisions of law.

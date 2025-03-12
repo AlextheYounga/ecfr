@@ -1,0 +1,9 @@
+##### § 780.105 “Primary” and “secondary” agriculture under section 3(f). #####
+
+(a) Section 3(f) of the Act contains a very comprehensive definition of the term “agriculture.” The definition has two distinct branches (see *Farmers Reservoir Co.* v. *McComb,* 337 U.S. 755). One has relation to the primary meaning of agriculture; the other gives to the term a somewhat broader secondary meaning for purposes of the Act (*NLRB* v. *Olaa Sugar Co.,* 242 F. 2d 714).
+
+(b) First, there is the primary meaning. This includes farming in all its branches. Listed as being included “among other things” in the primary meaning are certain specific farming operations such as cultivation and tillage of the soil, dairying the production, cultivation, growing and harvesting of any agricultural or horticultural commodities and the raising of livestock, bees, fur-bearing animals or poultry. If an employee is employed in any of these activities, he is engaged in agriculture regardless of whether he is employed by a farmer or on a farm. (*Farmers Reservoir Co.* v. *McComb,* supra; *Holtville Alfalfa Mills* v. *Wyatt,* 230 F. 2d 398.)
+
+(c) Then there is the secondary meaning of the term. The second branch includes operations other than those which fall within the primary meaning of the term. It includes any practices, whether or not they are themselves farming practices, which are performed either by a farmer or on a farm as an incident to or in conjunction with “such” farming operations (*Farmers Reservoir Co.* v. *McComb,* supra; *NLRB* v. *Olaa Sugar Co.,* 242 F. 2d 714; *Maneja* v. *Waialua,* 349 U.S. 254).
+
+(d) Employment not within the scope of either the primary or the secondary meaning of “agriculture” as defined in section 3(f) is not employment in agriculture. In other words, employees not employed in farming or by a farmer or on a farm are not employed in agriculture.

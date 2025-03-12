@@ -1,0 +1,3 @@
+##### § 111.4 Transacting customs business without a license. #####
+
+Any person who intentionally transacts customs business, other than as provided in § 111.2(a)(2), without holding a valid broker's license, will be liable for a monetary penalty for each such transaction as well as for each violation of any other provision of 19 U.S.C. 1641. The penalty will be assessed in accordance with subpart E of this part.

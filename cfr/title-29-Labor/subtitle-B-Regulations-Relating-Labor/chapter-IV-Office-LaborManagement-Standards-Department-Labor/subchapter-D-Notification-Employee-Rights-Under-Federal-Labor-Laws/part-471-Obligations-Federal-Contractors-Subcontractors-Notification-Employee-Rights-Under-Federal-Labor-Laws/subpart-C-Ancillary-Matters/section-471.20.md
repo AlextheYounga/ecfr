@@ -1,0 +1,3 @@
+##### § 471.20 What authority under this part or Executive Order 13496 may the Secretary delegate, and under what circumstances? #####
+
+Section 11 of the Executive Order grants the Secretary the right to delegate any functions or duties under the Order to any officer in the Department of Labor or to any other officer in the executive branch of the Government, with the consent of the head of the department or agency in which that officer serves.

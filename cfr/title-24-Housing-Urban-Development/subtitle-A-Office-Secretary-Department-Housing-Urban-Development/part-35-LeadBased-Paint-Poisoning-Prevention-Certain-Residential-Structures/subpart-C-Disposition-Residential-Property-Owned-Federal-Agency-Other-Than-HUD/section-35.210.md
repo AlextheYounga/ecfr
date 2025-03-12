@@ -1,0 +1,5 @@
+##### § 35.210 Disposition of residential property constructed before 1960. #####
+
+(a) *Evaluation.* The Federal agency shall conduct a risk assessment and a lead-based paint inspection in accordance with 40 CFR 745.227 before the closing of the sale.
+
+(b) *Abatement of lead-based paint hazards.* The risk assessment used for the identification of hazards to be abated shall have been performed no more than 12 months before the beginning of the abatement. The Federal agency shall abate all identified lead-based paint hazards in accordance with 40 CFR 745.227. Abatement is completed when clearance is achieved in accordance with 40 CFR 745.227. Where abatement of lead-based paint hazards is not completed before the closing of the sale, the Federal agency shall be responsible for assuring that abatement is carried out by the purchaser before occupancy of the property as target housing and in accordance with 40 CFR 745.227.

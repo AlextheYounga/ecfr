@@ -1,0 +1,5 @@
+##### § 15.108 Who is authorized to decide an administrative claim? #####
+
+(a) The Counsel for Claims and Compensation shall have the authority to consider, ascertain, adjust, determine, compromise and settle claims pursuant to the Federal Tort Claims Act which involve an alleged negligent or wrongful act or omission of an employee whose official duty station is the Department's national office in Washington, DC, or which involve aggregate claims in excess of $25,000, or which involve a new point of law or a question of policy.
+
+(b) Regional Solicitors and the Associate Regional Solicitors are authorized to consider, ascertain, adjust, determine, compromise and settle claims arising in their respective jurisdictions pursuant to the Federal Tort Claims Act where the aggregate claimed does not exceed $25,000 in amount and which do not involve a new point of law or a question of policy.

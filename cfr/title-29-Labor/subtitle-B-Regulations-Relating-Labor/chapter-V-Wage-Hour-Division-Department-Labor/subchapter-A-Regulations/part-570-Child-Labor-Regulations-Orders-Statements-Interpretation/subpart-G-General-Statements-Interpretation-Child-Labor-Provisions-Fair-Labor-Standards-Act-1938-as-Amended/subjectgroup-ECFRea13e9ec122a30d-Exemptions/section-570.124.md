@@ -1,0 +1,3 @@
+##### § 570.124 Delivery of newspapers. #####
+
+Section 13(d) of the Act provides an exemption from the child labor as well as the wage and hours provisions for employees engaged in the delivery of newspapers to the consumer. This provision applies to carriers engaged in making deliveries to the homes of subscribers or other consumers of newspapers (including shopping news). It also includes employees engaged in the street sale or delivery of newspapers to the consumer. However, employees engaged in hauling newspapers to drop stations, distributing centers, newsstands, etc., do not come within the exemption because they do not deliver to the consumer.

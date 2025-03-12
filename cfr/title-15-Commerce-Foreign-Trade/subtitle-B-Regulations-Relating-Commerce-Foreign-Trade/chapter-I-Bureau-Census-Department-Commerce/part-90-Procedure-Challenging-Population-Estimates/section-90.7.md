@@ -1,0 +1,3 @@
+##### § 90.7 Where to file a challenge. #####
+
+A request for a population estimate challenge must be prepared in writing by the governmental unit and filed with the Chief, Population Division, Census Bureau, Room 5H174, Mail Stop 8800, Washington, DC 20233. The governmental unit must designate a contact person who can be reached by telephone during normal business hours should questions arise with regard to the submitted materials.

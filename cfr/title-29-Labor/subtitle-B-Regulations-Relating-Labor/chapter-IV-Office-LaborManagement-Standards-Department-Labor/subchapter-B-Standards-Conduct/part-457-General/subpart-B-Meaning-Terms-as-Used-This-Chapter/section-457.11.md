@@ -1,0 +1,5 @@
+##### § 457.11 Agency, employee, labor organization, dues, Department, activity, employing office. #####
+
+*Agency, employee, labor organization,* and *dues,* when used in connection with the CSRA, have the meanings set forth in 5 U.S.C. 7103. *Employee, labor organization,* and *dues,* when used in connection with the FSA, have the meanings set forth in 22 U.S.C. 4102; *Department,* when used in connection with the FSA, means the Department of State, except that with reference to the exercise of functions under the FSA with respect to another agency authorized to utilize the Foreign Service personnel system, such term means that other agency. *Covered employee, employee, employing office,* and *agency,* when used in connection with the CAA, have the meanings set forth in 2 U.S.C. 1301 and 1351(a)(2). *Activity* means any facility, organizational entity, or geographical subdivision or combination thereof of any agency or employing office.
+
+[62 FR 6093, Feb. 10, 1997]

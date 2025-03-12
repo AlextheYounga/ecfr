@@ -1,0 +1,5 @@
+##### § 578.31 Environmental review. #####
+
+(a) Activities under this part are subject to environmental review by HUD under 24 CFR part 50. The recipient or subrecipient shall supply all available, relevant information necessary for HUD to perform, for each property, any environmental review required by 24 CFR part 50. The recipient or subrecipient must carry out mitigating measures required by HUD or select an alternate eligible property. HUD may eliminate from consideration any application that would require an Environmental Impact Statement.
+
+(b) The recipient or subrecipient, its project partners, and their contractors may not acquire, rehabilitate, convert, lease, repair, dispose of, demolish, or construct property for a project under this part, or commit or expend HUD or local funds for such eligible activities under this part, until HUD has performed an environmental review under 24 CFR part 50 and the recipient or subrecipient has received HUD approval of the property.

@@ -1,0 +1,3 @@
+##### § 1471.100 What does this part do? #####
+
+This part adopts a governmentwide system of debarment and suspension for FMCS nonprocurement activities. It also provides for reciprocal exclusion of persons who have been excluded under the Federal Acquisition Regulation, and provides for the consolidated listing of all persons who are excluded, or disqualified by statute, executive order, or other legal authority. This part satisfies the requirements in section 3 of Executive Order 12549, “Debarment and Suspension” (3 CFR 1986 Comp., p. 189), Executive Order 12689, “Debarment and Suspension” (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public Law 103-355, 108 Stat. 3327).

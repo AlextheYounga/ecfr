@@ -1,0 +1,3 @@
+##### § 236.530 Mortgagee records. #####
+
+The mortgagee shall maintain such records as the Commissioner may require with respect to the mortgagor's payments and the interest reduction payments received from the Commissioner. Such records shall be kept on file for a period of time and in a manner prescribed by the Commissioner and shall be made available, when requested, for review and inspection by the Commissioner or the Comptroller General of the United States.

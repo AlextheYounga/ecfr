@@ -1,0 +1,3 @@
+##### § 1905.29 Transmission of record. #####
+
+If exceptions are filed, the hearing examiner shall transmit the record of the proceeding to the Assistant Secretary for review. The record shall include: The application, any request for hearing thereon, motions and requests filed in written form, rulings thereon, the transcript of the testimony taken at the hearing, together with the exhibits admitted in evidence, any documents or papers filed in connection with prehearing conferences, such proposed findings of fact, conclusions of law, rules or orders, and supporting reasons, as may have been filed, the hearing examiner's decision, and such exceptions, statements of objections, and briefs in support thereof, as may have been filed in the proceeding.

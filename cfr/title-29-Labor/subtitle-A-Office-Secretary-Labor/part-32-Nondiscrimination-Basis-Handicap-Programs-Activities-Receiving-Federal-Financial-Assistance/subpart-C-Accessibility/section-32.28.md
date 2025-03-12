@@ -1,0 +1,7 @@
+##### § 32.28 Architectural standards. #####
+
+(a) *Design and construction.* Each facility or part of a facility constructed by, on behalf of, or for the use of a recipient shall be designed and constructed in such manner that the facility or part of the facility is readily accessible to and usable by qualified handicapped individuals, if the construction was commenced after the effective date of this part.
+
+(b) *Alteration.* Each facility or part of a facility which is altered by, on behalf of, or for the use of a recipient after the effective date of this part in a manner that affects or could affect the usability of the facility or part of the facility shall, to the maximum extent feasible, be altered in such manner that the altered portion of the facility is readily accessible to and usable by qualified handicapped individuals.
+
+(c) *Standards for architectural accessibility.* Design, construction, or alteration of facilities under this subpart shall meet the most current standards for physical accessibility prescribed by the General Services Administration under the Architectural Barriers Act at 41 CFR 101-19.6. Alternative standards may be adopted when it is clearly evident that equivalent or greater access to the facility or part of the facility is thereby provided.

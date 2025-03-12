@@ -1,0 +1,3 @@
+##### § 650.705 Application for discretionary bridge funds. #####
+
+Each year through its field offices, the FHWA will issue an annual call for discretionary bridge candidate submittals including updates of previously submitted but not selected projects. Each State is responsible for submitting such data as required for candidate bridges. Data requested will include structure number, funds needed by fiscal year, total project cost, current average daily truck traffic and a narrative describing the existing bridge, the proposed new or rehabilitated bridge and other relevant factors which the State believes may warrant special consideration.

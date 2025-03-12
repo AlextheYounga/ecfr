@@ -1,0 +1,5 @@
+##### § 12.115 Release under bond of shipment detained for examination. #####
+
+If the EPA so directs, a shipment of pesticides or devices will be detained at the importer's risk and expense by the port director pending an examination by the Administrator to determine whether the shipment complies with the requirements of the Act. However, a shipment detained for examination may be released to the consignee prior to a determination by the Administrator provided a bond is furnished on CBP Form 301, or its electronic equivalent, containing the bond conditions set forth in § 113.62 of this chapter, for the return of the merchandise to CBP custody, and upon entry of the merchandise and the satisfaction of all other applicable laws. The bond will be in an amount deemed appropriate by CBP. When a shipment of pesticides or devices is released to the consignee under bond, the pesticides or devices must not be used or otherwise disposed of until the determination on compliance with the requirements of the Act is made by the Administrator.
+
+[CBP Dec. 16-15, 81 FR 67143, Sept. 30, 2016]

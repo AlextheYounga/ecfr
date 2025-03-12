@@ -1,0 +1,3 @@
+##### § 784.148 General scope of processing, freezing, and curing activities. #####
+
+Processing, freezing, and curing embrace a variety of operations that change the form of the “aquatic forms of animal and vegetable life.” They include such operations as filleting, cutting, scaling, salting, smoking, drying, pickling, curing, freezing, extracting oil, manufacturing meal or fertilizer, drying seaweed preparatory to the manufacture of agar, drying and cleaning sponges (*Feming* v. *Hawkeye Pearl Button Co.,* 113 F. 2d 52).

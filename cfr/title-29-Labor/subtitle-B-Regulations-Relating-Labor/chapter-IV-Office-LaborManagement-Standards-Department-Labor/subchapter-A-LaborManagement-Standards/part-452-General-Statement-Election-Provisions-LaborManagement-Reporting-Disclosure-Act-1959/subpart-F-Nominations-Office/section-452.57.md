@@ -1,0 +1,5 @@
+##### § 452.57 Procedures for nomination. #####
+
+(a) Since the Act does not prescribe particular procedures for the nomination of candidates, the labor organization is free to employ any method that will provide a reasonable opportunity for making nominations. There are various methods which, if properly and fairly employed, would be considered reasonable under the Act. For example, nominations may be by petition, or from the floor at a nomination meeting.
+
+(b) Whether a particular procedure is sufficient to satisfy the requirements of the Act is a question which will depend upon the particular facts in each case. While a particular procedure may not on its face violate the requirements of the Act, its application in a given instance may make nomination so difficult as to deny the members a reasonable opportunity to nominate.

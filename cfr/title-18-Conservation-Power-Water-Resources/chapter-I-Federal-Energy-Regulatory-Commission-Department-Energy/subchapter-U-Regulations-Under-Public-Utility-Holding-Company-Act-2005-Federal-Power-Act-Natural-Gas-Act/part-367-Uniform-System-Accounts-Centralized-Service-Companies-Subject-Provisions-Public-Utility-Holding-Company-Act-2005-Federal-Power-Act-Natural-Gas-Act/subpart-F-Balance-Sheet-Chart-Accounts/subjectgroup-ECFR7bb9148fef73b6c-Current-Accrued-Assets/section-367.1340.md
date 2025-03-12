@@ -1,0 +1,5 @@
+##### § 367.1340 Account 134, Other special deposits. #####
+
+(a) This account must include deposits with fiscal agents or others for special purposes other than the payment of interest and dividends. The special deposits may include, among other things, cash deposited with federal, state, or municipal authorities as a guaranty for the fulfillment of obligations; cash deposited with trustees to be held until mortgaged property sold, destroyed, or otherwise disposed of is replaced; cash realized from the sale of the accounting service company's securities and deposited with trustees to be held until invested in property of the service company. Entries to this account must specify the purpose for which the deposit is made.
+
+(b) Assets available for general corporate purposes must not be included in this account. Further, deposits for more than one year, that are not offset by current liabilities, must be charged to account 128, Other special funds (§ 367.1280).

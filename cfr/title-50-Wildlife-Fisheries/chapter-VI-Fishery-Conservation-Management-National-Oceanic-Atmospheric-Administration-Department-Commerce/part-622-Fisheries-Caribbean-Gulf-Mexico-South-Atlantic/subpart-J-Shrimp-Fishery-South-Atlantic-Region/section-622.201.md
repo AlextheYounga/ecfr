@@ -1,0 +1,9 @@
+##### § 622.201 South Atlantic rock shrimp limited access. #####
+
+(a) *Commercial Vessel Permits for Rock Shrimp (South Atlantic EEZ).* For a person aboard a vessel to fish for rock shrimp in the South Atlantic EEZ off Georgia or off Florida or possess rock shrimp in or from the South Atlantic EEZ off those states, a Commercial Permit for Rock Shrimp (South Atlantic EEZ) must be issued to the vessel and must be on board. No applications for additional Commercial Vessel Permits for Rock Shrimp (South Atlantic EEZ) will be accepted.
+
+(b) *Transfer of an existing permit.* A Commercial Vessel Permit for Rock Shrimp (South Atlantic EEZ) is valid only for the vessel and owner named on the permit. To change either the vessel or the owner, a complete application for transfer must be submitted to the RA. An owner of a vessel with a permit may request that the RA transfer a valid permit to another vessel owned by the same entity, to the same vessel owned by another entity, or to another vessel with another owner. A transfer of a permit under this paragraph will include the transfer of the vessel's entire catch history of South Atlantic rock shrimp to a new owner; no partial transfers are allowed.
+
+(c) *Renewal.* The RA will not reissue a Commercial Vessel Permit for Rock Shrimp (South Atlantic EEZ) if the permit is revoked or if the RA does not receive an application for renewal of the permit within 1 year after the expiration date of the permit.
+
+(d) *Limitation on permits.* A vessel for which a permit for South Atlantic rock shrimp is required may be issued either a Commercial Vessel Permit for Rock Shrimp (Carolinas Zone) or a Commercial Vessel Permit for Rock Shrimp (South Atlantic EEZ), depending on its eligibility. However, no such vessel may be issued both permits for the same period of effectiveness.

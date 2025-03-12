@@ -1,0 +1,3 @@
+##### § 784.100 The section 13(a)(5) exemption. #####
+
+Section 13(a)(5) grants an exemption from both the minimum wage and the overtime requirements of the Act and applies to “any employee employed in the catching, taking, propagating, harvesting, cultivating, or farming of any kind of fish, shellfish, crustacea, sponges, seaweeds, or other aquatic forms of animal and vegetable life, or in the first processing, canning, or packing of such marine products at sea as an incident to, or in conjunction with, such fishing operations, including the going to and returning from work and loading and unloading when performed by any such employee.”

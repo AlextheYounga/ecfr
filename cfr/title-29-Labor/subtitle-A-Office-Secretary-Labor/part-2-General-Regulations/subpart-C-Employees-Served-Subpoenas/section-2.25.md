@@ -1,0 +1,3 @@
+##### § 2.25 Subpoenas served upon employees of the Office of the Inspector General. #####
+
+Notwithstanding the requirements set forth in §§ 2.20 through 2.24, this subpart is applicable to demands served on employees or former employees of the Office of the Inspector General (OIG), except that wherever in §§ 2.21 through 2.24 there appear the phrases *appropriate Office of the Solicitor, Associate Solicitor, Regional Solicitor, or Associate Regional Solicitor,* and *appropriate Deputy Solicitor of Labor,* there shall be substituted in lieu thereof *the Inspector General or Deputy Inspector General.* In addition, the first sentence of § 2.22 shall not be applicable to subpoenas served upon employees or former employees of the Office of the Inspector General.

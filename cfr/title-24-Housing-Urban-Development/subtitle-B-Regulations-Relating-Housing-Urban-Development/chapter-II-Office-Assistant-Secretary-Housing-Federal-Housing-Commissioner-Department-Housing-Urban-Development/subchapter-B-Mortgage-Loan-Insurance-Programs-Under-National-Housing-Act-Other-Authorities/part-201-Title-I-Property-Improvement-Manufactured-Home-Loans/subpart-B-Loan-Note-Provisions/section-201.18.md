@@ -1,0 +1,7 @@
+##### § 201.18 Modification agreement or repayment plan. #####
+
+(a) *Modification agreement or repayment plan.* A written but unrecorded modification agreement acceptable to the lender and executed by the borrower may be used in lieu of refinancing of a delinquent or defaulted loan to reduce or increase the monthly payment, but not to increase the term or the interest rate, so as to assure that the delinquent or defaulted loan is brought current before or by the end of the loan term. A modification agreement may also be used in lieu of refinancing in connection with a loan that is current to effect a reduction in the interest rate, and in the monthly payment, for the remainder of the loan term. When a modification agreement is used, no insurance reporting is required under § 201.30.
+
+(b) *Repayment plan.* The lender may elect to negotiate an informal repayment plan with the borrower to enable a temporary delinquency to be cured within a short period of time. The lender may document the terms of the repayment plan by sending a letter to the borrower reciting the terms of their agreement. When a repayment plan is used, no insurance reporting is required under § 201.30.
+
+[52 FR 33406, Sept. 3, 1987, as amended at 54 FR 10537, Mar. 14, 1989]

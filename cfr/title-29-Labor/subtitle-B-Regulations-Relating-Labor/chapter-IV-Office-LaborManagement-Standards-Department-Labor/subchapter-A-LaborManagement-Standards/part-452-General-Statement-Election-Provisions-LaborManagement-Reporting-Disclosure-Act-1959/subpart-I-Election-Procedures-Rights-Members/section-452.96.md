@@ -1,0 +1,3 @@
+##### § 452.96 General. #####
+
+The Act safeguards democratic processes by prescribing, in section 401, minimum standards for the regular periodic election of officers in labor organizations subject to its provisions. It does not, however, prescribe in detail election procedures which must be followed. Labor organizations are free to establish procedures for elections as long as they are fair to all members and are consistent with lawful provisions of the organization's constitution and bylaws and with section 401. The rights granted to members in section 401(e) refer to individuals, not labor organizations. For example, while locals may be members of an intermediate body, they are not entitled to the rights granted “members” in section 401(e).

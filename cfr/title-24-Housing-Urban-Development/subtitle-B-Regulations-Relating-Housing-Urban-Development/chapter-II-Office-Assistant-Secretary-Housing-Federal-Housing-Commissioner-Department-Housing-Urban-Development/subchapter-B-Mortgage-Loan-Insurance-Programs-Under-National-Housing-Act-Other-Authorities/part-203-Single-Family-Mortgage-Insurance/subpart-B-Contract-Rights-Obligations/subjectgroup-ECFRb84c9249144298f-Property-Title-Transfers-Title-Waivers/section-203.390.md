@@ -1,0 +1,11 @@
+##### § 203.390 Waiver of title—mortgages or property formerly held by the Secretary. #####
+
+(a) *Mortgages sold by the Secretary.* (1) If the Secretary sells a mortgage and such mortgage is later reassigned to him or the property covered by such mortgage is later conveyed to him, he will not object to title by reason of any lien or other adverse interest that was senior to the mortgage on the date of the original sale of such mortgage.
+
+(2) The Secretary will accept an assignment of a mortgage previously sold by him, where the mortgagee is unable to complete foreclosure because of a defect in the mortgage instrument, a defect in the mortgage transaction, or a defect in title which existed at or prior to the time the mortgage assignment was filed for record. In such instances, the Secretary will not object to title by reason of any such defect.
+
+(b) *Property sold by the Secretary.* (1) If a property held by the Secretary is sold by the Secretary who also insures a mortgage financing the sale, and the mortgage is later reassigned to the Secretary or the property covered by the mortgage is later conveyed to the Secretary, the Secretary will not object to title by reason of any lien or other adverse interest that was senior to the mortgage on the date the mortgage was filed for record, except where the lien or other adverse interest arose from a lien or interest that had already been recorded against the mortgagor.
+
+(2) The Secretary will accept an assignment of a mortgage executed in connection with the sale of property by the Secretary, where the mortgagee is unable to complete foreclosure because of a defect in the mortgage instrument, a defect in the mortgage transaction, or a defect in title which existed at or prior to the time the mortgage was filed for record, except where the defect arose from a lien or interest that had already been recorded against the mortgagor on the date that the mortgage was filed for record. Except for the case of a lien or interest that had already been recorded against the mortgagor, the Secretary will not object to title by reason of any of the above defects.
+
+[36 FR 24508, Dec. 22, 1971, as amended at 58 FR 35370, July 1, 1993; 61 FR 36265, July 9, 1996]

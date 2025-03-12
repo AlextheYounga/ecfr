@@ -1,0 +1,3 @@
+##### § 996.33 Acceptance of program by non-Federal entities. #####
+
+By their voluntary entrance or participation in this Quality Assurance Program or its activities, all parties acknowledge and accept the procedures established by this program, including the finality of decisions. All parties acknowledge and accept that information submitted to NOAA under this Program shall be deemed to be in the public domain, and no representation is made as to the protection of confidential, proprietary or otherwise restricted information.

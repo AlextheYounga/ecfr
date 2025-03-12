@@ -1,0 +1,5 @@
+##### § 778.117 Commission payments—general. #####
+
+Commissions (whether based on a percentage of total sales or of sales in excess of a specified amount, or on some other formula) are payments for hours worked and must be included in the regular rate. This is true regardless of whether the commission is the sole source of the employee's compensation or is paid in addition to a guaranteed salary or hourly rate, or on some other basis, and regardless of the method, frequency, or regularity of computing, allocating and paying the commission. It does not matter whether the commission earnings are computed daily, weekly, biweekly, semimonthly, monthly, or at some other interval. The fact that the commission is paid on a basis other than weekly, and that payment is delayed for a time past the employee's normal pay day or pay period, does not excuse the employer from including this payment in the employee's regular rate.
+
+[36 FR 4981, Mar. 16, 1971]

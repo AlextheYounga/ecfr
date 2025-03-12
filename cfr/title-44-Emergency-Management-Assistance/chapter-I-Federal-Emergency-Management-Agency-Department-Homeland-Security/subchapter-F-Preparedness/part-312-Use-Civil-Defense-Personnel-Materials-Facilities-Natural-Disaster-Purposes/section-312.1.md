@@ -1,0 +1,3 @@
+##### § 312.1 Purpose. #####
+
+The purpose of the regulations in this part is to prescribe the terms and conditions under which civil defense personnel, materials, and facilities, supported in whole or in part through contributions under the Federal Civil Defense Act of 1950, as amended, 50 U.S.C. App. 2251, *et seq.,* hereinafter referred to as “the Act”, may be used for natural disasters, to the extent that such usage is consistent with, contributes to, and does not detract from attack-related civil defense preparedness.

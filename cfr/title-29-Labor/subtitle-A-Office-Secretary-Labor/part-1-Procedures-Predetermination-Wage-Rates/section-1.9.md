@@ -1,0 +1,3 @@
+##### § 1.9 Review by Administrative Review Board. #####
+
+Any interested person may appeal to the Administrative Review Board for a review of a wage determination or its application made under this part, after reconsideration by the Administrator has been sought pursuant to § 1.8 and denied. Any such appeal may, in the discretion of the Administrative Review Board, be received, accepted, and decided in accordance with the provisions of 29 CFR part 7 and such other procedures as the Board may establish.

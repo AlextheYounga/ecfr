@@ -1,0 +1,3 @@
+##### § 367.2161 Account 216.1, Unappropriated undistributed subsidiary earnings. #####
+
+This account must include the balances, either debit or credit, of undistributed retained earnings of subsidiary companies since their acquisition. When dividends are received from subsidiary companies relating to amounts included in this account, this account must be debited and account 216, Unappropriated retained earnings (§ 367.2160), credited.

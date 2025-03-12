@@ -1,0 +1,5 @@
+##### § 540.2 Program. #####
+
+The Executive Director is designated as the Commission's official responsible for implementation and oversight of information security programs and procedures. He acts as the recipient of questions, suggestions, and complaints regarding all elements of this program, and is solely responsible for changes to it and for insuring that it is at all times consistent with Executive Order 12356. The Executive Director also serves as the Commission's official contact for requests for declassification of materials submitted under the provisions of Executive Order 12356, regardless of the point of origin of such requests. He is responsible for assuring that requests submitted under the Freedom of Information Act are handled in accordance with that Act and that declassification requests submitted under the provisions of Executive Order 12356 are acted upon within 60 days of receipt.
+
+[44 FR 55381, Sept. 26, 1979]

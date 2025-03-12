@@ -1,0 +1,11 @@
+##### § 2530.204-3 Alternative computation methods for benefit accrual. #####
+
+(a) *General.* Under section 204(b)(3)(A) of the Act and section 411(b)(3)(A) of the Code, a defined benefit pension plan may determine an employee's service for purposes of benefit accrual on the basis of accrual computation periods, as specified in § 2530.204-2, or on any other basis which is reasonable and consistent and which takes into account all covered service during the employee's participation in the plan which is included in a period of service required to be taken into account under section 202(b) of the Act and section 410(a)(5) of the Code. If, however, a plan determines an employee's service for purposes of benefit accrual on a basis other than computation periods, it must be possible to prove that, despite the fact that benefit accrual under the plan is not based on computation periods, the plan's provisions meet at least one of the three benefit accrual rules of section 204(b)(1) of the Act and section 411(b)(1) of the Code under all circumstances. Further, a plan which does not provide for benefit accrual on the basis of computation periods may not disregard service under section 204(b)(3)(C) of the Act and section 411(b)(3)(C) of the Code.
+
+(b) *Examples.* The following are examples of methods of determining an employee's period of service for purposes of benefit accrual under which an employee's period of service is not determined on the basis of computation periods but which may be used by a plan provided that the requirements of paragraph (a) of this section are met:
+
+(1) *Career compensation.* A defined benefit formula based on a percentage of compensation earned in a participant's career or during participation, with no variance depending on hours completed in given periods.
+
+(2) *Credited hours.* A defined benefit formula pursuant to which an employee is credited with a specified amount of accrual for each hour of service (or hour worked or regular time hour) completed by the employee during his or her career.
+
+(3) *Elapsed time.* See § 2530.200b-9(e).

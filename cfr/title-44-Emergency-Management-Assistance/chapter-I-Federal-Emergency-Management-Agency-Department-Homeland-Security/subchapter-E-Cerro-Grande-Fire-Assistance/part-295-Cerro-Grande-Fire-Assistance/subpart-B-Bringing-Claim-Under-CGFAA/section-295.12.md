@@ -1,0 +1,7 @@
+##### § 295.12 Election of remedies. #####
+
+(a) By filing a Notice of Loss, an Injured Person waives the right to seek redress for Cerro Grande Fire related claims against the United States through the Federal Tort Claims Act or by filing a civil action authorized by any other provision of law.
+
+(b) An Injured Person who files a Federal Tort Claims Act claim or who initiates a civil action against the United States or any officer, employee or agent of the United States relating to the Cerro Grande Fire on or after August 28, 2000 is not eligible under the CGFAA to file a Notice of Loss.
+
+(c) An Injured Person who filed before August 28, 2000 a Federal Tort Claims Act claim or a civil action against the United States for injuries, losses or damages relating to the Cerro Grande Fire may file a Notice of Loss provided that the Federal Tort Claims Act claim is withdrawn or the Injured Person is dismissed as a party to the civil action with prejudice not later than October 27, 2000. The withdrawal of a Federal Tort Claims Act claim must be in the form of a signed, written statement on a form provided by OCGFC that is filed with OCGFC not later than October 27, 2000. OCGFC will promptly forward the original notice of withdrawal to the applicable federal agency and retain a copy in the Claimant's file.

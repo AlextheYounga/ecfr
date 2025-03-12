@@ -1,0 +1,3 @@
+##### § 779.117 Salesmen and sales clerks. #####
+
+A salesman or a sales clerk who regularly and recurrently takes orders for, or sells, or selects merchandise for delivery to points outside the State or which are to be shipped or delivered to a customer from a point outside the State, i.e. drop shipments; or who wraps, packs, addresses or otherwise prepares goods for out-of-State shipments is performing covered activities.

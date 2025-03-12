@@ -1,0 +1,29 @@
+##### § 1307.6 Accessibility. #####
+
+(a) *General.* No qualified handicapped person shall, because facilities are inaccessible to or unusable by handicapped persons, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity subject to this part.
+
+(b) *Existing facilities.* (1) Each program or activity subject to this part shall be operated so that when each part is viewed in its entirety it is readily accessible to and usable by qualified handicapped persons. This paragraph does not necessarily require a recipient to make each of its existing facilities or every part of an existing facility accessible to and usable by handicapped persons. A recipient is not required to make building alterations or structural changes if other methods are effective in achieving accessibility. Such compliance methods may include (subject to the provisions of §§ 1307.4 and 1307.5), reassigning aid, benefits, or services to accessible locations within a facility; providing assistance to handicapped persons into or through an otherwise inaccessible facility; delivering programs or activities at other alternative sites which are accessible and are operated or available for use by the recipient; or other methods which comply with the intent of this paragraph.
+
+(2) This paragraph governs the timing of development of transition plans and the completion of necessary building alterations and structural changes to existing facilities, including historic property covered by paragraph (c) of this section. If building alterations or structural changes will be necessary to comply with paragraph (b)(1) of this section, the recipient shall develop a transition plan setting forth the steps necessary to complete the alterations or changes in accordance with such standards as TVA may specify in the contract or agreement, and shall have the plan approved by TVA. If the financial assistance from TVA is expected to last for less than three years, the contract or agreement shall specify the date by which the transition plan shall be developed and approved. If the financial assistance from TVA is expected to last for at least three years, the transition plan shall be developed and submitted to TVA within six months from the effective date of the contract or agreement, subject to extension by TVA for an additional six month period, for good cause shown to it. A transition plan shall:
+
+(i) Be developed with the assistance of interested persons or organizations representing handicapped persons;
+
+(ii) Be available for public inspection after approval by TVA (or at any earlier time required by state or local law applicable to the recipient);
+
+(iii) Identify the official responsible for implementation of the approved plan; and
+
+(iv) Specify the date by which the required alterations or changes shall be completed, which shall be as soon as practicable and in no event later than three years after the effective date that financial assistance is extended by TVA.
+
+(3) Alterations to existing facilities shall, to the maximum extent feasible, be designed and constructed to be readily accessible to and usable by handicapped persons.
+
+(c) *Historic property.* If a recipient's program or activity uses an existing facility which is an historic property, the recipient shall endeavor to assure compliance with paragraph (b)(1) of this section by compliance methods which do not alter the historic character or architectural integrity of the historic property. The recipient must determine that accessibility cannot be accomplished by such alternative methods before considering building alterations as a compliance method. To the maximum extent possible any building alterations determined to be necessary shall be undertaken so as not to alter or destroy architecturally significant elements or features. A recipient may determine that structural changes are necessary to accomplish accessibility only if the recipient has determined that accessibility cannot feasibly be accomplished by any of the other foregoing methods. To the maximum extent possible, any structural changes determined to be necessary shall be undertaken so as not to alter or destroy architecturally significant elements or features.
+
+(d) *New construction.* (1) New facilities required under a program or activity subject to this part shall be designed and constructed to be readily accessible to and usable by handicapped persons.
+
+(2) Effective as of November 4, 1988, design, construction, or alteration of buildings in conformance with Sections 3-8 of the Uniform Federal Accessibility Standards (UFAS) (41 CFR Subpart 101-19.6 app. A) shall be deemed to comply with the requirements of this section with respect to those buildings. Departures from particular technical and scoping requirements of UFAS by the use of other methods are permitted where substantially equivalent or greater access to and usability of the building is provided.
+
+(3) For purposes of this section, section 4.1.6(1)(g) of UFAS shall be interpreted to exempt from the requirements of UFAS only mechanical rooms and other spaces that, because of their intended use, will not require accessibility to the public or beneficiaries or result in the employment or residence therein of physically handicapped persons.
+
+(4) This section does not require recipients to make building alterations that have little likelihood of being accomplished without removing or altering a load-bearing structural member.
+
+[45 FR 22895, Apr. 4, 1980, as amended at 53 FR 39083, Oct. 5, 1988; 68 FR 51356, Aug. 26, 2003]

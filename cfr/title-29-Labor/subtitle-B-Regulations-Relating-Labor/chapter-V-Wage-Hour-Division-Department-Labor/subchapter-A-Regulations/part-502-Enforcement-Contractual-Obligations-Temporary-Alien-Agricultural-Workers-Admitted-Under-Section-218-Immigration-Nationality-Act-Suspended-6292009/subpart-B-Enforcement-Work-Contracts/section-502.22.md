@@ -1,0 +1,3 @@
+##### § 502.22 Civil money penalties—payment and collection. #####
+
+Where the assessment is directed in a final order by the Administrator, WHD, by an ALJ, or by the ARB, the amount of the penalty is due within 30 days and payable to the United States Department of Labor. The person assessed such penalty shall remit promptly the amount thereof as finally determined, to the Administrator, WHD by certified check or by money order, made payable to the order of *Wage and Hour Division, United States Department of Labor.* The remittance shall be delivered or mailed to the WHD Regional Office for the area in which the violations occurred.

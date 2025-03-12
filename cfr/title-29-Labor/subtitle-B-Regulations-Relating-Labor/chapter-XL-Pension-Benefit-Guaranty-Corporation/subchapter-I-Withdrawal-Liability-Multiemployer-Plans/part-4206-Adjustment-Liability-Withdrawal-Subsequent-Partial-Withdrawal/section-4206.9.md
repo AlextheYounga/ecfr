@@ -1,0 +1,3 @@
+##### § 4206.9 Amount of credit in plans using alternative allocation methods. #####
+
+A plan that has adopted an alternative method of allocating unfunded vested benefits pursuant to section 4211(c)(5) of ERISA and part 4211 of this chapter shall adopt, by plan amendment, a method of calculating the credit provided by § 4206.3 that is consistent with the rules in §§ 4206.4 through 4206.8 for plans using the statutory allocation method most similar to the plan's alternative allocation method.

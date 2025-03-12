@@ -1,0 +1,5 @@
+##### § 1981.100 Purpose and scope. #####
+
+(a) This part implements procedures under section 6 of the Pipeline Safety Improvement Act of 2002, 49 U.S.C. 60129 (“the Pipeline Safety Act”), which provides for employee protection from discrimination by a person owning or operating a pipeline facility or a contractor or subcontractor of such person because the employee has engaged in protected activity pertaining to a violation or alleged violation of any order, regulation, or standard under chapter 601, subtitle VIII of title 49 of the United States Code or any other provision of Federal law relating to pipeline safety.
+
+(b) This part establishes procedures pursuant to the Pipeline Safety Act for the expeditious handling of discrimination complaints made by employees, or by persons acting on their behalf. These rules, together with those rules codified at 29 CFR part 18, set forth the procedures for submission of complaints under the Pipeline Safety Act, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges, post-hearing administrative review, and withdrawals and settlements.

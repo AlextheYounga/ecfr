@@ -1,0 +1,3 @@
+##### § 143.34 Procedure for electronic immediate delivery or entry. #####
+
+To file immediate delivery or entry electronically, the filer will submit certified immediate delivery or entry data electronically through ABI. Data will be validated and, if found error-free, will be accepted. If it is determined through selectivity criteria and review of data that documentation is not required to be physically submitted in paper form, merchandise will be released and Customs will electronically notify the filer.

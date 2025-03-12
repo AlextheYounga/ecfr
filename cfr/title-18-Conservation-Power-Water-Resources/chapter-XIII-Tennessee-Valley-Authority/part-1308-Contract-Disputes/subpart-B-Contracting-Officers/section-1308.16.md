@@ -1,0 +1,3 @@
+##### § 1308.16 Decisions involving fraudulent claims. #####
+
+If a Contracting Officer denies any part of a Contractor's claim for lack of support, and the Contracting Officer is of the opinion that the Contractor's inability to support that part of the claim is within § 1308.6 and section 5 of the Act, the Contracting Officer's decision shall not state that opinion, but, contemporaneously with the decision, the Contracting Officer shall separately notify TVA's General Counsel of that opinion and the reasons therefor.

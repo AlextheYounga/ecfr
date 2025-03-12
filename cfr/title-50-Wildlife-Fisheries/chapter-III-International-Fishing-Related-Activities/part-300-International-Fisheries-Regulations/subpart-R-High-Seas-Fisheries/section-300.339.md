@@ -1,0 +1,9 @@
+##### § 300.339 Transshipment on the high seas. #####
+
+(a) In addition to any other applicable restrictions on transshipment, including those under parts 300 and 635 of this title, the following requirements apply to transshipments, when authorized, taking place on the high seas:
+
+(1) The owner or operator of a U.S. vessel receiving or offloading fish on the high seas shall provide a notice by fax or email to the Regional Administrator or the Office Director at least 36 hours prior to any intended transshipment on the high seas with the following information: the vessels offloading and receiving the transshipment (names, official numbers, and vessel types); the location (latitude and longitude to the nearest tenth of a degree) of transshipment; date and time that transshipment is expected to occur; and species, processed state, and quantities (in metric tons) expected to be transshipped. If another requirement for prior notice applies, the more restrictive requirement (*i.e.,* a requirement for greater advance notice and/or more specific information regarding vessels, location etc.) must be followed.
+
+(2) U.S. high seas fishing vessels shall report transshipments on the high seas to the Regional Administrator or Office Director within 15 calendar days after the vessel first enters into port, using the form obtained from the Regional Administrator or Office Director. If there are applicable transshipment reporting requirements in other parts of this title, the more restrictive requirement (*e.g.,* a reporting requirement of fewer than 15 calendar days) must be followed.
+
+(b) [Reserved]

@@ -1,0 +1,3 @@
+##### § 500.62 Obligations of a person holding a valid Farm Labor Contractor Employee Certificate of Registration. #####
+
+Any person holding a valid Farm Labor Contractor Employee Certificate of Registration in accordance with the Act and these regulations is required to comply with the Act and these regulations to the same extent as if said person had been required to obtain a Certificate of Registration in such person's own name as a farm labor contractor.

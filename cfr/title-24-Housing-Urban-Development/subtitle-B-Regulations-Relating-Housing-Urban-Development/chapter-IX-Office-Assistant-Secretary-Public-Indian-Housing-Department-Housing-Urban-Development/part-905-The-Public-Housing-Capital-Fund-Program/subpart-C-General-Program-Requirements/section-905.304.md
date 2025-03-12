@@ -1,0 +1,15 @@
+##### § 905.304 CF ACC term and covenant to operate. #####
+
+(a) *Period of obligation to operate as public housing.* The PHA shall operate all public housing projects in accordance with the CF ACC, as amended, and applicable HUD regulations, for the statutorily prescribed period. These periods shall be evidenced by a recorded DOT on all public housing property. If the PHA uses Capital Funds to develop public housing or to modernize existing public housing, the CF ACC term and the covenant to operate those projects are as follows:
+
+(1) *Development activities.* Each public housing project developed using Capital Funds shall establish a restricted use covenant, either in the DOT or as a Declaration of Restrictive Covenants, to operate under the terms and conditions applicable to public housing for a 40-year period that begins on the date on which the project becomes available for occupancy, as determined by HUD.
+
+(2) *Modernization activities.* For PHAs that receive Capital Fund assistance, the execution of each new CF ACC Amendment establishes an additional 20-year period that begins on the latest date on which modernization is completed, except that the additional 20-year period does not apply to a project that receives Capital Fund assistance only for management improvements.
+
+(3) *Operating Fund.* Any public housing project developed that receives Operating Fund assistance shall have a covenant to operate under requirements applicable to public housing for a 10-year period beginning upon the conclusion of the fiscal year for which such amounts were provided, except for such shorter period as permitted by HUD by an exception.
+
+(b) *Mortgage or security interests.* The PHA shall not allow *any mortgage* or security interest in public housing assets, including under section 30 of the 1937 Act (42 U.S.C. 1437z-2), without prior written approval from HUD. PHAs that undertake financing unsecured by public housing assets shall include the following nonrecourse language in all financing documents as follows:
+
+“This financing is non-recourse to any public housing property (real or personal property including all public housing assets or income), or disposition proceeds approved pursuant to Section 18 of the United States Housing Act of 1937 (unless explicitly permitted by HUD in the Section 18 approval letter).”
+
+(c) *Applicability of latest expiration date.* All public housing subject to this part or required by law shall be maintained and operated as public housing, as prescribed, until the latest expiration date provided in section 9(d)(3) of the 1937 Act (42 U.S.C. 1437g(d)(3)) or any other provision of law or regulation mandating the operation of the housing as public housing, or under terms and conditions applicable to public housing, for a specified period of time.

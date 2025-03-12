@@ -1,0 +1,3 @@
+##### § 541.401 Computer manufacture and repair. #####
+
+The exemption for employees in computer occupations does not include employees engaged in the manufacture or repair of computer hardware and related equipment. Employees whose work is highly dependent upon, or facilitated by, the use of computers and computer software programs (e.g., engineers, drafters and others skilled in computer-aided design software), but who are not primarily engaged in computer systems analysis and programming or other similarly skilled computer-related occupations identified in § 541.400(b), are also not exempt computer professionals.

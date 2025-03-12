@@ -1,0 +1,3 @@
+##### § 891.810 Project rental assistance. #####
+
+Project Rental Assistance is defined in § 891.105. Project Rental Assistance is provided for operating costs, not covered by tenant contributions, attributable to the number of units funded by capital advances under the Section 202 and Section 811 supportive housing programs, subject to the provisions of 24 CFR 891.445. The sponsor of a mixed-finance development must obtain the necessary funds from a source other than project rental assistance funds for operating costs related to non-202 or -811 units.

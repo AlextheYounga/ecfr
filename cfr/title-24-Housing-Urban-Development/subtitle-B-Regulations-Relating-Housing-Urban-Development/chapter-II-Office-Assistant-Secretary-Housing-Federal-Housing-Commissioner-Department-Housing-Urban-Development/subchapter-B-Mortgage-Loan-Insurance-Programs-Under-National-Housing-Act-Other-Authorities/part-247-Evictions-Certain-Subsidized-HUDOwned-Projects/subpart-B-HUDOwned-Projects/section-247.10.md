@@ -1,0 +1,3 @@
+##### § 247.10 Inapplicability to substantial rehabilitation or demolition; right of disposition unimpaired. #####
+
+This subpart shall not apply in any case in which HUD terminates the occupancy of a tenant as a direct result of a determination by HUD to substantially rehabilitate or demolish the project or to dispose of the project to a purchaser who purchases for the purpose of substantial rehabilitation or demolition. Nothing in this subpart should be construed to affect in any way the right of HUD to exercise its full statutory authority and discretion to dispose of property acquired pursuant to the National Housing Act.

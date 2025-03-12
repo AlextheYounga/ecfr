@@ -1,0 +1,3 @@
+##### § 1960.9 Supervisory responsibilities. #####
+
+Employees who exercise supervisory functions shall, to the extent of their authority, furnish employees employment and a place of employment which are free from recognized hazards that are causing or are likely to cause death or serious physical harm. They shall also comply with the occupational safety and health standards applicable to their agency and with all rules, regulations, and orders issued by the head of the agency with respect to the agency occupational safety and health program.

@@ -1,0 +1,5 @@
+##### § 600.756 Conduct and operation of a fishery negotiation panel. #####
+
+(a) *Roles and duties of an FNP.* Each FNP shall consider the issue proposed by the Council or NMFS for consideration and shall attempt to reach a consensus concerning a report to assist in the development of a conservation and management measure with respect to such matter and any other matter the FNP determines is relevant to the development of a conservation and management measure. An FNP may adopt procedures for the operation of the FNP.
+
+(b) *Roles and duties of representative of the council or NMFS.* The person or persons representing the Council or NMFS on an FNP shall participate in the deliberations and activities of the FNP with the same rights and responsibilities as other members of the FNP, and shall be authorized to fully represent the Council or NMFS in the discussions and negotiations of the FNP.

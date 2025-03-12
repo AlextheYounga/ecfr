@@ -1,0 +1,15 @@
+##### § 1614.505 Interim relief. #####
+
+(a)(1) When the agency appeals and the case involves removal, separation, or suspension continuing beyond the date of the appeal, and when the administrative judge's decision orders retroactive restoration, the agency shall comply with the decision to the extent of the temporary or conditional restoration of the employee to duty status in the position specified in the decision, pending the outcome of the agency appeal. The employee may decline the offer of interim relief.
+
+(2) Service under the temporary or conditional restoration provisions of paragraph (a)(1) of this section shall be credited toward the completion of a probationary or trial period, eligibility for a within-grade increase, or the completion of the service requirement for career tenure, if the Commission upholds the decision on appeal. Such service shall not be credited toward the completion of any applicable probationary or trial period or the completion of the service requirement for career tenure if the Commission reverses the decision on appeal.
+
+(3) When the agency appeals, it may delay the payment of any amount, other than prospective pay and benefits, ordered to be paid to the complainant until after the appeal is resolved. If the agency delays payment of any amount pending the outcome of the appeal and the resolution of the appeal requires the agency to make the payment, then the agency shall pay interest from the date of the original decision until payment is made.
+
+(4) The agency shall notify the Commission and the employee in writing at the same time it appeals that the relief it provides is temporary or conditional and, if applicable, that it will delay the payment of any amounts owed but will pay interest as specified in paragraph (b)(2) of this section. Failure of the agency to provide notification will result in the dismissal of the agency's appeal.
+
+(5) The agency may, by notice to the complainant, decline to return the complainant to his or her place of employment if it determines that the return or presence of the complainant will be unduly disruptive to the work environment. However, prospective pay and benefits must be provided. The determination not to return the complainant to his or her place of employment is not reviewable. A grant of interim relief does not insulate a complainant from subsequent disciplinary or adverse action.
+
+(b) If the agency files an appeal and has not provided required interim relief, the complainant may request dismissal of the agency's appeal. Any such request must be filed with the Office of Federal Operations within 25 days of the date of service of the agency's appeal. A copy of the request must be served on the agency at the same time it is filed with EEOC. The agency may respond with evidence and argument to the complainant's request to dismiss within 15 days of the date of service of the request.
+
+[64 FR 37660, July 12, 1999]

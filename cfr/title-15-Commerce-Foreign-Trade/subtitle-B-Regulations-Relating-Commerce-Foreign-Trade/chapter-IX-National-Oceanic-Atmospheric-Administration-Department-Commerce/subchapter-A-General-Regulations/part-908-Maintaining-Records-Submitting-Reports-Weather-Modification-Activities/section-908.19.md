@@ -1,0 +1,3 @@
+##### § 908.19 Publication of notice of proposed amendments. #####
+
+Whenever required by law, and in other cases whenever practicable, notice of proposed amendments to these rules will be published in the Federal Register. If not published with the notice, copies of the text of proposed amendments will be furnished to any person requesting the same. All comments, suggestions, and briefs received within the time specified in the notice will be considered before adoption of the proposed amendments, which may be modified in the light thereof. Informal hearings may be held at the discretion of the Administrator.

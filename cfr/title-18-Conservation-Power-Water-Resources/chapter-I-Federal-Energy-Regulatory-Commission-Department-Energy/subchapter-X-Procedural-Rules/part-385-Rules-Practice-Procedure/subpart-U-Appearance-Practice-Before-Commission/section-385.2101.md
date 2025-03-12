@@ -1,0 +1,7 @@
+##### § 385.2101 Appearances (Rule 2101). #####
+
+(a) A participant may appear in a proceeding in person or by an attorney or other qualified representative. An individual may appear in his or her own behalf, a member of a partnership may represent the partnership, a bona-fide officer of a corporation, trust, association or organized group may represent the corporation, trust, association or group, and an officer or employee of a State commission, of a department or political subdivision of a State or other governmental authority, may represent the State commission or the department or political subdivision of the State or other governmental authority, in any proceeding.
+
+(b) A person compelled to appear or voluntarily testifying or making a statement before the Commission or the presiding officer, may be accompanied, represented, and advised by an attorney or other qualified representative.
+
+(c) A person appearing before the Commission or the presiding officer must conform to the standards of ethical conduct required of practitioners before the Courts of the United States, and where applicable, to the requirements of Section 12(i) of the Public Utility Holding Company Act of 1935 (15 U.S.C. 791(i)).

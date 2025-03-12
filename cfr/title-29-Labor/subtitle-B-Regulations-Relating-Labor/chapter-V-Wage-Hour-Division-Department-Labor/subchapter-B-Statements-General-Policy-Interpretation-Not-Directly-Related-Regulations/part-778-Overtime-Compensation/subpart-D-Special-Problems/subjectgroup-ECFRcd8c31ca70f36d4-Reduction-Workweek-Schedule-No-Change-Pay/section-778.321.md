@@ -1,0 +1,3 @@
+##### § 778.321 Decrease in hours without decreasing pay—general. #####
+
+Since the regular rate of pay is the average hourly rate at which an employee is actually employed, and since this rate is determined by dividing his total remuneration for employment (except statutory exclusions) for a given workweek by the total hours worked in that workweek for which such remuneration was paid, it necessarily follows that if the schedule of hours is reduced while the pay remains the same, the regular rate has been increased.

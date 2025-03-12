@@ -1,0 +1,3 @@
+##### § 965.403 Funding. #####
+
+The cost to change mastermeter systems to individual metering of resident consumption, including the costs of benefit/cost analysis and complete installation of checkmeters, shall be funded from operating funds of the PHA to the extent feasible. When sufficient operating funds are not available for this purpose, such costs are eligible for inclusion in a modernization project or for funding from any available development funds.

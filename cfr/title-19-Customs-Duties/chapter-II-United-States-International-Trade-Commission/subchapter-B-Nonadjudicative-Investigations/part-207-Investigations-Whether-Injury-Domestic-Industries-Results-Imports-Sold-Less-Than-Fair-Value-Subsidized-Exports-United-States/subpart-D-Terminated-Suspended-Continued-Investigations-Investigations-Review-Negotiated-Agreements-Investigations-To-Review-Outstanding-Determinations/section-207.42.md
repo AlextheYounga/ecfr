@@ -1,0 +1,3 @@
+##### § 207.42 Investigation continued upon request. #####
+
+Upon receipt of advice from the administering authority that it has received a request for the continuation of a suspended investigation pursuant to section 704(g) or 734(g) of the Act, the Commission shall continue the investigation. The procedures set forth in subparts B and C of this part, including applicable time limitations, shall apply to all continued investigations within this rule.

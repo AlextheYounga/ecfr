@@ -1,0 +1,9 @@
+##### § 1301.9 Appeals. #####
+
+(a) *Appeals of adverse determinations.* If you are dissatisfied with TVA's response to your request, you may appeal an adverse determination denying your request, in any respect, to TVA's FOIA Appeal Official, Tennessee Valley Authority, 400 W. Summit Hill Drive (WT 7D), Knoxville, Tennessee 37902-1401. You must make your appeal in writing, and it must be received by the FOIA Appeal Official within 30 days of the date of the letter denying your request. Your appeal letter may include as much or as little related information as you wish, as long as it clearly identifies the TVA determination (including the assigned request number, if known) that you are appealing. An adverse determination by the TVA FOIA Appeal Official will be the final action of TVA.
+
+(b) *Responses to appeals.* The decision on your appeal will be made in writing within 20 days (excluding Saturdays, Sundays, and legal holidays) after an appeal is received. A decision affirming an adverse determination in whole or in part shall contain a statement of the reason(s) for the affirmance, including any FOIA exemption(s) applied, and will inform you of the FOIA provisions for court review of the decision. If the adverse determination is reversed or modified on appeal, in whole or in part, you will be notified in a written decision and your request will be reprocessed in accordance with that appeal decision.
+
+(c) *When appeal is required.* If you wish to seek review by a court of any adverse determination, you must first appeal it under this section.
+
+[64 FR 4044, Jan. 27, 1999, as amended at 65 FR 16513, Mar. 29, 2000; 67 FR 14853, Mar. 28, 2002; 75 FR 11735, Mar. 12, 2010]

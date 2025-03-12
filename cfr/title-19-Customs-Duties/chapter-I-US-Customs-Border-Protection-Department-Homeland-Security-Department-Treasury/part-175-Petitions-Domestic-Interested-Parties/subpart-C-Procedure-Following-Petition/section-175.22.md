@@ -1,0 +1,5 @@
+##### § 175.22 Publication of decisions following petition. #####
+
+(a) *Incorrect appraised value, classification, or rate of duty.* If the appraised value of, classification of, or rate of duty upon imported merchandise of the character which is the subject of a petition is found to be incorrect, the Commissioner of Customs shall so inform the petitioner, and shall cause the proper value, classification, or rate of duty to be published in the Federal Register and the weekly Customs Bulletin. Such merchandise entered for consumption or withdrawn from warehouse for consumption after 30 days after the date of publication of such notice to the petitioner in the Customs Bulletin shall be appraised, classified, or assessed as to rate of duty in accordance with the published decision.
+
+(b) *Correct appraised value, classification, or rate of duty.* If the appraised value of, classification of, or rate of duty upon the imported merchandise which is the subject of the petition is found to be correct, the Commissioner of Customs shall so notify the petitioner, but the decision shall not be published.

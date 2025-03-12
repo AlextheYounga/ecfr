@@ -1,0 +1,5 @@
+##### § 11.72 Time limitations. #####
+
+(a) A claim under this part may be allowed only if it is in writing, specifies a sum certain and is received in the Office of Chief Counsel, Federal Emergency Management Agency, Washington, DC 20472: (1) Within 2 years after it accrues; (2) or if it cannot be filed within the time limits of paragraph (a)(1) of this section because it accrues in time of war or in time of armed conflict in which any armed force of the United States is engaged or if such a war or armed conflict intervenes within 2 years after the claim accrues, when the claimant shows good cause, the claim may be filed within 2 years after the cause ceases to exist but not more than 2 years after termination of the war or armed conflict.
+
+(b) For purposes of this subpart, a claim accrues at the time of the accident or incident causing the loss or damage, or at such time as the loss or damage should have been discovered by the claimant by the exercise of due diligence.

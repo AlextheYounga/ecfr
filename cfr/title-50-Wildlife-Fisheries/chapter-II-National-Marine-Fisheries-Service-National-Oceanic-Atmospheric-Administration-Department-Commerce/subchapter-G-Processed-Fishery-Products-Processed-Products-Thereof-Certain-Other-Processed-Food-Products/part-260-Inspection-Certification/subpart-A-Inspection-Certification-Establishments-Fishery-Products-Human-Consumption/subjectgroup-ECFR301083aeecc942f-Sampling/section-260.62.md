@@ -1,0 +1,3 @@
+##### § 260.62 Issuance of certificate of sampling. #####
+
+Each inspector and each licensed sampler shall prepare and sign a certificate of sampling to cover the samples drawn by the respective person, except that an inspector who inspects the samples which he has drawn need not prepare a certificate of sampling. One copy of each certificate of sampling prepared shall be retained by the inspector or licensed sampler (as the case may be) and the original and all other copies thereof shall be disposed of in accordance with the instructions of the Secretary.

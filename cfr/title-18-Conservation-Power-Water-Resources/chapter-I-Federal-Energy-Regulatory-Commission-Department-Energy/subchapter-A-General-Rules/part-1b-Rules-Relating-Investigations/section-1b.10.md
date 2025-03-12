@@ -1,0 +1,3 @@
+##### § 1b.10 By whom conducted. #####
+
+Formal Commission investigations are conducted by the Commission or by an individual(s) designated and authorized in the Order of Investigation. Investigating Officers are *officers* within the meaning of the statutes administered by the Commission and are authorized to perform the duties of their office in accordance with the laws of the United States and the regulations of the Commission. Investigating Officers shall have such duties as the Commission may specify in an Order of Investigation.

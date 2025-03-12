@@ -1,0 +1,3 @@
+##### § 114.0 Scope. #####
+
+This part is concerned with the use of international Customs documents known as carnets. It also contains provisions concerning the approval of associations to issue carnets in the United States covering merchandise to be exported and to guarantee carnets issued abroad covering merchandise to be imported. The carnet serves simultaneously as a Customs entry document and as a Customs bond.

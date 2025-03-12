@@ -1,0 +1,7 @@
+##### § 1604.6 Employment agencies. #####
+
+(a) Section 703(b) of the Civil Rights Act specifically states that it shall be unlawful for an employment agency to discriminate against any individual because of sex. The Commission has determined that private employment agencies which deal exclusively with one sex are engaged in an unlawful employment practice, except to the extent that such agencies limit their services to furnishing employees for particular jobs for which sex is a bona fide occupational qualification.
+
+(b) An employment agency that receives a job order containing an unlawful sex specification will share responsibility with the employer placing the job order if the agency fills the order knowing that the sex specification is not based upon a bona fide occupational qualification. However, an employment agency will not be deemed to be in violation of the law, regardless of the determination as to the employer, if the agency does not have reason to believe that the employer's claim of bona fide occupations qualification is without substance and the agency makes and maintains a written record available to the Commission of each such job order. Such record shall include the name of the employer, the description of the job and the basis for the employer's claim of bona fide occupational qualification.
+
+(c) It is the responsibility of employment agencies to keep informed of opinions and decisions of the Commission on sex discrimination.

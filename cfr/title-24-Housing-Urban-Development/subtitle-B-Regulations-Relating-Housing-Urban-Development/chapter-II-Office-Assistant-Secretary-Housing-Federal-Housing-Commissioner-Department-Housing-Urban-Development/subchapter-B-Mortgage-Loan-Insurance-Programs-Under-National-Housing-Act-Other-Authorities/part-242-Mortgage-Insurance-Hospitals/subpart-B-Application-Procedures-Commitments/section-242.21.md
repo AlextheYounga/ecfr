@@ -1,0 +1,3 @@
+##### § 242.21 Refund of fees. #####
+
+Commitment, inspection, and reopening fees (but not application fees) may be refunded, in whole or in part, if HUD determines that the construction or financing of the project has been prevented because of condemnation proceedings or other legal action taken by a government body or public agency, or in such other instances as HUD may determine as being beyond the control of the applicant and resulting from no fault of the applicant. A transfer fee may be refunded only in such instances as HUD may determine. However, the portion of the inspection fee paid in connection with early commencement of work is not refundable.

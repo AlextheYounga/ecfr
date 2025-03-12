@@ -1,0 +1,3 @@
+##### § 807.1 Requirement. #####
+
+In addition to any other requirements of Commission regulations, and subject to the consent of the affected member state to this requirement, any person withdrawing or diverting in excess of an average of 10,000 gpd for any consecutive 30-day period, from ground or surface water sources, as defined in part 806 of this chapter, shall register the amount of this withdrawal with the Commission and provide such other information as requested on forms prescribed by the Commission.

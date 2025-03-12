@@ -1,0 +1,3 @@
+##### § 711.1 Overviews of declaration, reporting, and advance notification requirements. #####
+
+Parts 712 through 715 of the CWCR (parts 710 through 729 of this subchapter) describe the declaration, advance notification and reporting requirements for Schedule 1, 2 and 3 chemicals and for unscheduled discrete organic chemicals (UDOCs). For each type of chemical, the Convention requires annual declarations. If, after reviewing parts 712 through 715 of the CWCR, you determine that you have declaration, advance notification or reporting requirements, you may obtain the appropriate forms by contacting the Bureau of Industry and Security (BIS) (see § 711.6 of the CWCR).

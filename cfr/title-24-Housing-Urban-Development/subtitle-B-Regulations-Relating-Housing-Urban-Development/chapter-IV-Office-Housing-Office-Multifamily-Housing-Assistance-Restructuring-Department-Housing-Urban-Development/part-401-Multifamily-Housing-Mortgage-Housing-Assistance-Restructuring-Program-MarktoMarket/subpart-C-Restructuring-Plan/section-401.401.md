@@ -1,0 +1,5 @@
+##### § 401.401 Consolidated Restructuring Plans. #####
+
+A PAE may request HUD to approve a Consolidated Restructuring Plan that presents an overall strategy for more than one project included in the PRA. HUD will consider approval of a Consolidated Restructuring Plan for projects having common ownership, geographic proximity, common mortgagee or servicer, or other factors that contribute to more efficient use of the PAE's resources. Notwithstanding the more efficient use of a PAE's resources, HUD will not approve any Consolidated Restructuring Plans that have a detrimental effect on tenants or the community, or a higher cost to the Federal Government. HUD's decision to approve or disapprove a Consolidated Restructuring Plan will be made on a case-by-case basis.
+
+[65 FR 15485, Mar. 22, 2000, as amended at 72 FR 66038, Nov. 26, 2007]

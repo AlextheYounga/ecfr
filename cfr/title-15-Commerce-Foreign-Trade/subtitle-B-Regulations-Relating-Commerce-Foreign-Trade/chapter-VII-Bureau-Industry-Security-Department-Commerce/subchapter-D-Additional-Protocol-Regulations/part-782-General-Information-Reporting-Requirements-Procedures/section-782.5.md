@@ -1,0 +1,3 @@
+##### § 782.5 Where to obtain APR report forms. #####
+
+Report forms required by the APR may be downloaded from the Internet at *http://www.ap.gov.* You also may obtain these forms by contacting: Treaty Compliance Division, Bureau of Industry and Security, U.S. Department of Commerce, Attn: Forms Request, 14th Street and Pennsylvania Avenue, NW., Room 4515, Washington, DC 20230, Telephone: (202) 482-1001.

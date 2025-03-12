@@ -1,0 +1,3 @@
+##### § 780.614 Definition of a farmer. #####
+
+The Act does not define the term “farmer.” Whether an employer is a “farmer” within the meaning of section 13(b)(13) must be determined by consideration of the particular facts, keeping in mind the purpose of the exemption. A full discussion of the meaning of the term “farmer” as used in the Act's definition of agriculture is contained in §§ 780.130 through 780.133. Generally, as indicated in that discussion, a farmer under the Act is one who engages, as an occupation, in farming operations as a distinct activity for the purpose of producing a farm crop. A corporation or a farmers' cooperative may be a “farmer” if engaged in actual farming of the nature and extent there indicated.

@@ -1,0 +1,3 @@
+##### § 525.23 Work activities centers. #####
+
+Nothing in these regulations shall be interpreted to prevent an employer from maintaining or establishing work activities centers to provide therapeutic activities for workers with disabilities as long as the employer complies with the requirement of these regulations. Work activities centers shall include centers planned and designed to provide therapeutic activities for workers with severe disabilities affecting their productive capacity. Any establishment whose workers with disabilities are employed at special minimum wages must comply with the requirements of this part, regardless of the designation of such establishment.

@@ -1,0 +1,3 @@
+##### § 3286.115 Date of installation. #####
+
+The date of installation will be the date the installer has certified that all required inspections have been completed, all utilities are connected, and the manufactured home is ready for occupancy as established, if applicable, by a certificate of occupancy, except as follows: If the manufactured home has not been sold to the first person purchasing the home in good faith for purposes other than resale by the date the home is ready for occupancy, the date of installation is the date of the purchase agreement or sales contract for the manufactured home.

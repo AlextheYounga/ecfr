@@ -1,0 +1,7 @@
+##### § 1403.5 Relations with State and local mediation agencies. #####
+
+(a) If under State or local law a State or local mediation agency must offer its facilities in a labor-management dispute in which the Federal Service is proffering its services, the interests of such agencies will be recognized and their co-operation will be encouraged in order that all efforts may be made to prevent or to effectively minimize industrial strife.
+
+(b) If, in a labor-management dispute there is reasonable doubt that the dispute threatens to cause a substantial interruption to commerce or that there is more than a minor effect upon interstate commerce, and State or other conciliation services are available to the parties, the regional director of the Federal Service will endeavor to work out suitable arrangements with the State or other conciliation or mediation agency for mediation of the dispute. Decisions in such cases will take into consideration the desires of the parties, the effectiveness and availability of the respective facilities, and the public welfare, health, and safety.
+
+(c) If requested by a State or local mediation agency or the chief executive of a State or local government, the Federal Service may make its services available in a labor-management dispute which would have only a minor effect upon interstate commerce when, in the judgment of the Federal Service, the effect of the dispute upon commerce or the public welfare, health, or safety justifies making available its mediation facilities.

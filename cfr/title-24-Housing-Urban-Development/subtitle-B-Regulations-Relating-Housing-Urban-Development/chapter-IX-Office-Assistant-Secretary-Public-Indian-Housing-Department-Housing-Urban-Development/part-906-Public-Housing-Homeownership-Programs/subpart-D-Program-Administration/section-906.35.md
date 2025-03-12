@@ -1,0 +1,3 @@
+##### § 906.35 Inapplicability of section 18 of the United States Housing Act of 1937. #####
+
+The provisions of section 18 of the 1937 Act (42 U.S.C. 1437p) do not apply to disposition of public housing dwelling units under a homeownership program approved by HUD under this part, or to the sale of a unit to a PRE to operate as public housing and sell to a low-income family within 5 years, under the requirements of § 906.19.

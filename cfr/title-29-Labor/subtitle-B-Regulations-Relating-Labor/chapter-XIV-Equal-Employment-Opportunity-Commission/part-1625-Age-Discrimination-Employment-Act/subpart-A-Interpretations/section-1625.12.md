@@ -1,0 +1,45 @@
+##### § 1625.12 Exemption for bona fide executive or high policymaking employees. #####
+
+(a) Section 12(c)(1) of the Act, added by the 1978 amendments and as amended in 1984 and 1986, provides:
+
+Nothing in this Act shall be construed to prohibit compulsory retirement of any employee who has attained 65 years of age, and who, for the 2-year period immediately before retirement, is employed in a bona fide executive or higher policymaking position, if such employee is entitled to an immediate nonforfeitable annual retirement benefit from a pension, profit-sharing, savings, or deferred compensation plan, or any combination of such plans, of the employer of such employee which equals, in the aggregate, at least $44,000.
+
+(b) Since this provision is an exemption from the non-discrimination requirements of the Act, the burden is on the one seeking to invoke the exemption to show that every element has been clearly and unmistakably met. Moreover, as with other exemptions from the Act, this exemption must be narrowly construed.
+
+(c) An employee within the exemption can lawfully be forced to retire on account of age at age 65 or above. In addition, the employer is free to retain such employees, either in the same position or status or in a different position or status. For example, an employee who falls within the exemption may be offered a position of lesser status or a part-time position. An employee who accepts such a new status or position, however, may not be treated any less favorably, on account of age, than any similarly situated younger employee.
+
+(d)(1) In order for an employee to qualify as a “bona fide executive,” the employer must initially show that the employee satisfies the definition of a bona fide executive set forth in § 541.1 of this chapter. Each of the requirements in paragraphs (a) through (e) of § 541.1 must be satisfied, regardless of the level of the employee's salary or compensation.
+
+(2) Even if an employee qualifies as an executive under the definition in § 541.1 of this chapter, the exemption from the ADEA may not be claimed unless the employee also meets the further criteria specified in the Conference Committee Report in the form of examples (see H.R. Rept. No. 95-950, p. 9). The examples are intended to make clear that the exemption does not apply to middle-management employees, no matter how great their retirement income, but only to a very few top level employees who exercise substantial executive authority over a significant number of employees and a large volume of business. As stated in the Conference Report (H.R. Rept. No. 95-950, p. 9):
+
+Typically the head of a significant and substantial local or regional operation of a corporation [or other business organization], such as a major production facility or retail establishment, but not the head of a minor branch, warehouse or retail store, would be covered by the term “bona fide executive.” Individuals at higher levels in the corporate organizational structure who possess comparable or greater levels of responsibility and authority as measured by established and recognized criteria would also be covered.
+
+The heads of major departments or divisions of corporations [or other business organizations] are usually located at corporate or regional headquarters. With respect to employees whose duties are associated with corporate headquarters operations, such as finance, marketing, legal, production and manufacturing (or in a corporation organized on a product line basis, the management of product lines), the definition would cover employees who head those divisions.
+
+In a large organization the immediate subordinates of the heads of these divisions sometimes also exercise executive authority, within the meaning of this exemption. The conferees intend the definition to cover such employees if they possess responsibility which is comparable to or greater than that possessed by the head of a significant and substantial local operation who meets the definition.
+
+(e) The phrase “high policymaking position,” according to the Conference Report (H.R. Rept. No. 95-950, p. 10), is limited to “\* \* \* certain top level employees who are not ‘bona fide executives’ \* \* \*.” Specifically, these are:
+
+\* \* \* individuals who have little or no line authority but whose position and responsibility are such that they play a significant role in the development of corporate policy and effectively recommend the implementation thereof.
+
+For example, the chief economist or the chief research scientist of a corporation typically has little line authority. His duties would be primarily intellectual as opposed to executive or managerial. His responsibility would be to evaluate significant economic or scientific trends and issues, to develop and recommend policy direction to the top executive officers of the corporation, and he would have a significant impact on the ultimate decision on such policies by virtue of his expertise and direct access to the decisionmakers. Such an employee would meet the definition of a “high policymaking” employee.
+
+On the other hand, as this description makes clear, the support personnel of a “high policymaking” employee would not be subject to the exemption even if they supervise the development, and draft the recommendation, of various policies submitted by their supervisors.
+
+(f) In order for the exemption to apply to a particular employee, the employee must have been in a “bona fide executive or high policymaking position,” as those terms are defined in this section, for the two-year period immediately before retirement. Thus, an employee who holds two or more different positions during the two-year period is subject to the exemption only if each such job is an executive or high policymaking position.
+
+(g) The Conference Committee Report expressly states that the exemption is not applicable to Federal employees covered by section 15 of the Act (H.R. Rept. No. 95-950, p. 10).
+
+(h) The “annual retirement benefit,” to which covered employees must be entitled, is the sum of amounts payable during each one-year period from the date on which such benefits first become receivable by the retiree. Once established, the annual period upon which calculations are based may not be changed from year to year.
+
+(i) The annual retirement benefit must be immediately available to the employee to be retired pursuant to the exemption. For purposes of determining compliance, “immediate” means that the payment of plan benefits (in a lump sum or the first of a series of periodic payments) must occur not later than 60 days after the effective date of the retirement in question. The fact that an employee will receive benefits only after expiration of the 60-day period will not preclude his retirement pursuant to the exemption, if the employee could have elected to receive benefits within that period.
+
+(j)(1) The annual retirement benefit must equal, in the aggregate, at least $44,000. The manner of determining whether this requirement has been satisfied is set forth in § 1627.17(c).
+
+(2) In determining whether the aggregate annual retirement benefit equals at least $44,000, the only benefits which may be counted are those authorized by and provided under the terms of a pension, profit-sharing, savings, or deferred compensation plan. (Regulations issued pursuant to section 12(c)(2) of the Act, regarding the manner of calculating the amount of qualified retirement benefits for purposes of the exemption, are set forth in § 1627.17 of this chapter.)
+
+(k)(1) The annual retirement benefit must be “nonforfeitable.” Accordingly, the exemption may not be applied to any employee subject to plan provisions which could cause the cessation of payments to a retiree or result in the reduction of benefits to less than $44,000 in any one year. For example, where a plan contains a provision under which benefits would be suspended if a retiree engages in litigation against the former employer, or obtains employment with a competitor of the former employer, the retirement benefit will be deemed to be forfeitable. However, retirement benefits will not be deemed forfeitable solely because the benefits are discontinued or suspended for reasons permitted under section 411(a)(3) of the Internal Revenue Code.
+
+(2) An annual retirement benefit will not be deemed forfeitable merely because the minimum statutory benefit level is not guaranteed against the possibility of plan bankruptcy or is subject to benefit restrictions in the event of early termination of the plan in accordance with Treasury Regulation 1.401-4(c). However, as of the effective date of the retirement in question, there must be at least a reasonable expectation that the plan will meet its obligations.
+
+(Sec. 12(c)(1) of the Age Discrimination In Employment Act of 1967, as amended by sec. 802(c)(1) of the Older Americans Act Amendments of 1984, Pub. L. 98-459, 98 Stat. 1792))[44 FR 66800, Nov. 21, 1979; 45 FR 43704, June 30, 1980, as amended at 50 FR 2544, Jan. 17, 1985; 53 FR 5973, Feb. 29, 1988]

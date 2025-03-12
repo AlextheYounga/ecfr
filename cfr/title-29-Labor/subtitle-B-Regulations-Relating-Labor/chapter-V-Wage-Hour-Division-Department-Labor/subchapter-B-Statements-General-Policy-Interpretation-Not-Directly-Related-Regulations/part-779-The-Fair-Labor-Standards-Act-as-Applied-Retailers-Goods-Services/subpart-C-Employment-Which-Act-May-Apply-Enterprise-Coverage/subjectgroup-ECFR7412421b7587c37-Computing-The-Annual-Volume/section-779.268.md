@@ -1,0 +1,3 @@
+##### § 779.268 Grace period of 1 month for computation. #####
+
+Where it is not practicable to compute the annual gross volume of sales or business under paragraph (b) of § 779.266 in time to determine obligations under the Act for the current quarter, an enterprise or establishment may use a 1-month grace period. If this 1-month grace period is used, the computations made under this section will determine its obligations under the Act for the 3-month period commencing 1 month after the end of the preceding calendar or fiscal quarter. Once adopted the same basis must be used for each successive 3-month period.

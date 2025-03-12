@@ -1,0 +1,7 @@
+##### § 18.4 Information collection requirements. #####
+
+(a) The Office of Management and Budget under 44 U.S.C. 3501 *et seq.* has approved the information collection requirements contained in Subpart D and assigned clearance number 1018-0022. The Service is collecting this information to review and evaluate permit applications and make decisions according to criteria established in various Federal wildlife conservation statutes and regulations, on the issuance or denial of permits. The applicant must respond to obtain or retain a permit.
+
+(b) The Service estimated the public reporting burden for this collection of information to vary from 15 minutes to 4 hours per response, with an average of 1.028 hours per response, including the time for reviewing instructions, searching existing data sources, gathering and maintaining the data needed, and completing and reviewing the collection of information. Send comments regarding this burden or any other aspect of this collection of information, including suggestions for reducing the burden, to the Service's Information Collection Clearance Officer at the address provided at 50 CFR 2.1(b).
+
+[62 FR 7329, Feb. 18, 1997, as amended at 79 FR 43965, July 29, 2014]

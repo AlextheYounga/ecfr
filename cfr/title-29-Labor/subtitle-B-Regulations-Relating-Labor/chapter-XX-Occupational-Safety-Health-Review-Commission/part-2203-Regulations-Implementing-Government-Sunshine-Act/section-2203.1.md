@@ -1,0 +1,3 @@
+##### § 2203.1 Purpose and scope. #####
+
+This part applies to all meetings of the Occupational Safety and Health Review Commission. Its purpose is to implement the Government in the Sunshine Act, 5 U.S.C. 552b. The rules in this part are intended to open to public observation, to the extent practicable, the meetings of the Commission, while preserving the Commission's ability to fulfill its adjudicatory responsibilities and protecting the rights of individuals.

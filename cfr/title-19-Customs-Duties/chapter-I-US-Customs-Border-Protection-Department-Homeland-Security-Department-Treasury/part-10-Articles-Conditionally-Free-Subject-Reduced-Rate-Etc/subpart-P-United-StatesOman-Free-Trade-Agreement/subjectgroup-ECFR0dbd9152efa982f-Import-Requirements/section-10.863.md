@@ -1,0 +1,3 @@
+##### § 10.863 Filing of claim for preferential tariff treatment upon importation. #####
+
+An importer may make a claim for OFTA preferential tariff treatment for an originating good by including on the entry summary, or equivalent documentation, the symbol “OM” as a prefix to the subheading of the HTSUS under which each qualifying good is classified, or by the method specified for equivalent reporting via an authorized electronic data interchange system.

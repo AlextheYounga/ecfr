@@ -1,0 +1,5 @@
+##### § 123.13 Foreign repairs to domestic locomotives and other domestic railroad equipment. #####
+
+A report of the first arrival in the United States of a domestic locomotive or other railroad equipment after repairs have been made in a foreign country other than those required to restore it to the condition in which it last left the United States (“running repairs”), shall be made promptly, in writing, to the Customs officer at the port of re-entry. The report shall state the time and place of arrival, and the nature and value of the repairs. Each such locomotive or other piece of railroad equipment when withdrawn from international traffic shall be subject to duty upon the value of the repairs (other than “running repairs”), made abroad at the rate at which the repaired article would be dutiable if imported. For the appropriate determination as to whether the locomotive or other railroad equipment should be considered “domestic” or “foreign”, see § 123.12(d).
+
+[T.D. 73-73, 38 FR 6991, Mar. 15, 1973]

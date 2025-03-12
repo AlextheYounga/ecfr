@@ -1,0 +1,3 @@
+##### § 707.3 Applicability. #####
+
+This NEPA rule applies to the WRC as an independent executive agency and to Title II river basin commissions (RBC's) and other entities (such as interagency committees) preparing studies and plans for WRC review and transmittal to the President. Although Title III State planning grants do not normally require environmental assessments or statements (§ 707.8 (a)(3)), the WRC will encourage States receiving grants to give appropriate consideration to the environmental effects of their proposed actions and to incorporate suitable environmental conditions, to the extent permitted by State law. The preamble to the WRC Title III guidelines will reflect this policy.

@@ -1,0 +1,19 @@
+##### § 10.5 Shooks and staves; cloth boards; port director's account. #####
+
+(a) Shooks and staves produced in the United States and returned in the form of complete boxes or barrels in use as the usual containers of merchandise are exempt from any duties imposed by the tariff laws upon similar containers made of foreign shooks or staves, provided their identity is established under the regulations in this part.
+
+(b) The term “shook” embraces only shooks which at the time of exportation from this country are ready to be assembled into boxes or barrels without further cutting to size; except that box shooks may be exported in double lengths and cut abroad. The number of boxes made from such shooks which may be imported into this country free of duty cannot exceed the number of complete sets of shooks exported.
+
+(c) [Reserved]
+
+(d) An exporter of shooks or staves in respect of which free entry is to be claimed when returned as boxes or barrels shall file in triplicate with the director of the port of exportation, at least 6 hours before the landing of the articles on the exporting vessel, a Certificate of Registration, Customs Form 4455, or its electronic equivalent.
+
+(e) The Certificate of Registration, CF 4455, or its electronic equivalent, shall be completed in triplicate by the port director after verification from the manifest of the exporting vessel and the return of the lading officer. The original shall be forwarded by the port director to the consignee. The duplicate copy shall be given to the exporter and the triplicate copy shall be retained.
+
+(f) Whenever boxes or barrels alleged to have been manufactured from American shooks or staves are shipped to the United States from a person abroad other than the one to whom they were exported from the United States, the importer shall be required to obtain from the foreign consignee to whom the shooks or staves were originally exported from this country the certificate or certificates, Customs Form 4455, or its electronic equivalent, covering the exportation of the shooks or staves from the United States, or an extract therefrom signed by such consignee, showing the number of shooks or staves covered by such certificate or certificates, together with the number of superficial feet of such shooks or staves. Such Form 4455, or its electronic equivalent, or extract therefrom, shall be filed by the importer in connection with the entry of the boxes or barrels.
+
+(g) Accounts shall be kept by the director of the port of exportation of the shooks and staves as to each exportation thereof and as to the returns thereof in boxes, barrels, etc. Notifications of such returns shall be given to the port of exportation by the director of the port of importation. When returns in the form of boxes, barrels, etc., entirely account for the shooks and staves exported as shown on the appropriate Customs Form 4455, or its electronic equivalent, the port director maintaining the account shall so inform the port director making inquiry about the merchandise being imported and alleged to contain shooks or staves covered by the particular exportation.
+
+(h) A record of cloth boards of domestic manufacture exported to be wrapped with foreign textiles shall be kept by the port director in a similar manner as for shooks and staves. Cloth boards of domestic manufacture are conditionally free of duty under Chapter 98, subchapter 1, Harmonized Tariff Schedule of the United States (HTSUS). If such boards are advanced in value or improved in condition while abroad, free entry shall be denied on importation.
+
+[28 FR 14663, Dec. 31, 1963, as amended by T.D. 78-99, 43 FR 13060, Mar. 29, 1978; T.D. 89-1, 53 FR 51247, Dec. 21, 1988; T.D. 98-52, 63 FR 29954, June 2, 1998; CBP Dec. 15-14, 80 FR 61284, Oct. 13, 2015]

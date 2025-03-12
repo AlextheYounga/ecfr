@@ -1,0 +1,5 @@
+##### § 356.6 Receipt of notice of a scope determination by the Government of a FTA country. #####
+
+(a) Where the Department has made a scope determination, notice of such determination shall be deemed received by the Government of a FTA country when a certified copy of the determination is delivered to the chancery of the Embassy of the FTA country during its normal business hours.
+
+(b) Where feasible, the Department, or an agent therefor, will obtain a certificate of receipt signed by a person authorized to accept delivery of documents to the Embassy of the FTA country acknowledging receipt of the scope determination. The certificate will describe briefly the document being delivered to the Embassy of the FTA country, state the date and time of receipt, and include the name and title of the person who signs the certificate. The certificate will be retained by the Department in its public files pertaining to the scope determination at issue.

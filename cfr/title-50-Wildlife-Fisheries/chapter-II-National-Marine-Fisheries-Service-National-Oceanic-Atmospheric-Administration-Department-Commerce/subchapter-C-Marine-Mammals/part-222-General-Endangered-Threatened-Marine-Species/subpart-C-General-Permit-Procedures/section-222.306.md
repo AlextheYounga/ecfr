@@ -1,0 +1,11 @@
+##### § 222.306 Modification, amendment, suspension, cancellation, and revocation of permits. #####
+
+(a) When circumstances have changed so that an applicant or a permittee desires to have any term or condition of the application or permit modified, the applicant or permittee must submit in writing full justification and supporting information in conformance with the provisions of this part and the part under which the permit has been issued or requested. Such applications for modification are subject to the same issuance criteria as original applications.
+
+(b) Notwithstanding the requirements of paragraph (a) of this section, a permittee may change the mailing address or trade name under which business is conducted without obtaining a new permit or being subject to the same issuance criteria as original permits. The permittee must notify the Assistant Administrator, in writing within 30 days, of any change in address or of any change in the trade name for the business or activity specified in the permit. The permit with the change of address or in trade name must be endorsed by the Assistant Administrator, who shall provide an amended permit to the person to whom it was issued.
+
+(c) All permits are issued subject to the condition that the National Marine Fisheries Service reserves the right to amend the provisions of a permit for just cause at any time during its term. Such amendments take effect on the date of notification, unless otherwise specified.
+
+(d) When any permittee discontinues the permitted activity, the permittee shall, within 30 days thereof, mail the permit and a request for cancellation to the issuing officer, and the permit shall be deemed void upon receipt. No refund of any part of an amount paid as a permit fee shall be made when the operations of the permittee are, for any reason, discontinued during the tenure of an issued permit.
+
+(e) Any violation of the applicable provisions of parts 222, 223, or 224 of this chapter, or of the Act, or of a term or condition of the permit may subject the permittee to both the penalties provided in the Act and suspension, revocation, or amendment of the permit, as provided in subpart D to 15 CFR part 904.

@@ -1,0 +1,7 @@
+##### § 127.13 Storage of unclaimed and abandoned merchandise. #####
+
+(a) *Place of storage.* A class 11 bonded warehouse or warehouse of class 3, 4, or 5, certified by the port director as qualified to receive general order merchandise, will be responsible for the transportation and storage of unclaimed and abandoned merchandise, upon due notification to the proprietor of the warehouse by the arriving carrier (or other party to whom the carrier has transferred the merchandise under a Customs-authorized permit to transfer or in-bond entry), as provided in §§ 4.37(c), 122.50(c), and 123.10(c) of this chapter. If no warehouse of these classes is available to receive general order merchandise, or if the merchandise requires specialized storage facilities which are unavailable in a bonded facility, the port director, after having received notice of the presence of unentered merchandise or baggage in accordance with the provisions of this section, will direct the storage of the merchandise by the carrier or by any other appropriate means.
+
+(b) *Payment of storage and expenses.* Storage at the ordinary rates and all other expenses shall be paid by the owner or consignee of the merchandise upon entry thereof. If the goods are sold, such charges shall be paid from the proceeds of the sale to the extent that proceeds are available.
+
+[T.D. 74-114, 39 FR 12092, Apr. 3, 1974, as amended by T.D. 02-65, 67 FR 68034, Nov. 8, 2002]

@@ -1,0 +1,3 @@
+##### § 1003.402 Availability of funds. #####
+
+Of the funds made available by the NOFA for the ICDBG program, an amount to be determined by the Assistant Secretary may be reserved by HUD for grants under this subpart. The amount of funds reserved for imminent threat funding during each funding cycle will be stated in the NOFA. If any of the reserved funds are not used to fund imminent threat grants during a fiscal year, they will be added to the allocation of ICDBG funds for the subsequent fiscal year and will be used as if they were a part of the new allocation.

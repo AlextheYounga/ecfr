@@ -1,0 +1,3 @@
+##### § 1304.408 Variances. #####
+
+The Vice President or the designee thereof is authorized, following consideration whether a proposed structure or other regulated activity would adversely impact navigation, flood control, public lands or reservations, power generation, the environment, or sensitive environmental resources, or would be incompatible with surrounding uses or inconsistent with an approved TVA reservoir land management plan, to approve a structure or activity that varies from the requirements of this part in minor aspects.

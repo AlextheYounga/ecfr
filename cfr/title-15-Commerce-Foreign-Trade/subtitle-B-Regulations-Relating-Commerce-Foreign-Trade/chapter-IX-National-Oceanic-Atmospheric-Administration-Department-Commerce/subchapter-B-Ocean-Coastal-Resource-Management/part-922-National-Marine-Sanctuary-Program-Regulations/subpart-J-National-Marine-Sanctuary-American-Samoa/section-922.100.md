@@ -1,0 +1,3 @@
+##### § 922.100 Scope of regulations. #####
+
+The provisions of this subpart J apply only to the waters of the United States and the Territory of American Samoa that are located within the boundary of the National Marine Sanctuary of American Samoa (Sanctuary). Neither the provisions of this subpart J nor any permit issued under its authority shall be construed to relieve a person from any other requirements imposed by statute or regulation of the Territory of American Samoa or of the United States. In addition, no statute or regulation of the Territory of American Samoa shall be construed to relieve a person from the restrictions, conditions, and requirements contained in this subpart J.

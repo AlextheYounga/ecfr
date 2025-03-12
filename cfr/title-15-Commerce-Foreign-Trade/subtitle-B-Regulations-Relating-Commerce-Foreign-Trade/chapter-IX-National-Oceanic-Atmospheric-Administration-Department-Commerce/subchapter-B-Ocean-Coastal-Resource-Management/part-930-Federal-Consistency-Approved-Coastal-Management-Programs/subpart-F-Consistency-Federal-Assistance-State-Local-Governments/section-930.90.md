@@ -1,0 +1,3 @@
+##### § 930.90 Objectives. #####
+
+The provisions of this subpart are intended to ensure that federal assistance to applicant agencies for activities affecting any coastal use or resource is granted only when such activities are consistent with approved management programs. The provisions of subpart I of this part are intended to supplement the provisions of this subpart for federal assistance activities having interstate coastal effects.

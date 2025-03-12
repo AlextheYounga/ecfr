@@ -1,0 +1,3 @@
+##### § 0.735-10 Administrative extension of statutory limitations. #####
+
+The provisions of the statutes identified in this part which relate to the ethical and other conduct of Federal employees are adopted and will be enforced as administrative regulations, violations of which may in appropriate cases be the basis for disciplinary action, including removal. The fact that a statute which may relate to employee conduct is not identified in this part does not mean that it may not be the basis for disciplinary action against an employee.

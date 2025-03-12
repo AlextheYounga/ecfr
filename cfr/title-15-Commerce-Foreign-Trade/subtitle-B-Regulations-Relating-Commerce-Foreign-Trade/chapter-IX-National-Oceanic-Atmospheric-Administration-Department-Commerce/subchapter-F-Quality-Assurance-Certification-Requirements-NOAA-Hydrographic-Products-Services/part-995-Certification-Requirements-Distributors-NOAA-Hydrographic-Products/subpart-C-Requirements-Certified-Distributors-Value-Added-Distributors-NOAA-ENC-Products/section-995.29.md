@@ -1,0 +1,3 @@
+##### § 995.29 Limitation on endorsements. #####
+
+By certifying compliance with this part, NOAA does not automatically, directly, or indirectly endorse any product or service provided, or to be provided, by distributor or value added distributor or its successors, assignees, or licensees. The distributor or value added distributor shall not in any way imply that this certification is an endorsement of any such product or service without separate, written permission from NOAA and the Department of Commerce.

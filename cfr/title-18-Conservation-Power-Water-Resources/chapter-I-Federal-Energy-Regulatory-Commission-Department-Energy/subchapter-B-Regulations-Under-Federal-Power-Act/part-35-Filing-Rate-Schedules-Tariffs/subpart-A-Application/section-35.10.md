@@ -1,0 +1,9 @@
+##### § 35.10 Form and style of rate schedules, tariffs and service agreements. #####
+
+(a) Every rate schedule, tariff or service agreement offered for filing with the Commission under this part, shall show on a title page, which shall be otherwise blank, (1) the name of the filing public utility, (2) the names of other utilities rendering or receiving service under the rate schedule, tariff or service agreement ; and (3) a brief description of the service to be provided under the rate schedule, tariff or service agreement .
+
+(b) At the time a public utility files with the Commission and posts under this part to supersede or change the provisions of a rate schedule, tariff, or service agreement previously filed with the Commission under this part, in addition to the other requirements of this part, it must list in the transmittal letter the sheets or sections revised, and file a marked version of the rate schedule, tariff or service agreement sheets or sections showing additions and deletions. New language must be marked by either highlighting, background shading, bold text, or underlined text. Deleted language must be marked by strike-through.
+
+(c) In any filing to supersede or change the provisions of a rate schedule, tariff, or service agreement previously filed with the Commission under this part, only those revisions appropriately designated and marked under paragraph (b) of this section constitute the filing. Revisions to unmarked portions of the rate schedule, tariff or service agreement are not considered part of the filing nor will any acceptance of the filing by the Commission constitute acceptance of such unmarked changes.
+
+[Order 271, 28 FR 10573, Oct. 2, 1963, as amended by Order 568, 59 FR 40240, Aug. 8, 1994; Order 714, 73 FR 57532, Oct. 3, 2008]

@@ -1,0 +1,9 @@
+##### § 175.25 Procedure at port of entry designated by petitioner. #####
+
+(a) *Information as to character and description of merchandise.* All information secured by the director of the port designated by the petitioner in his notice of desire to contest as to the character and description of merchandise of the kind covered by the petition and entered after publication by the Commissioner of Customs of his decision as to the proper appraised value, classification and rate of duty, and samples of such merchandise, shall be made available to the petitioner upon application by him to the port director.
+
+(b) *Notice of liquidation.* Notice of liquidation of the first of the entries to be liquidated which would enable the petitioner to present the issue desired shall be given to the petitioner by the director of the designated port as required by section 516. Tariff Act of 1930, as amended (19 U.S.C. 1516).
+
+(c) *Further notice when issue not presented.* If, upon examination of the information and inspection of any sample supplied by the port director, the petitioner believes and the port director agrees that the merchandise or the facts surrounding this importation are not sufficient to raise the issue involved in the petition, the port director shall then give the petitioner notice of the first liquidation thereafter which will permit the framing of the issue covered by the petition. The port director shall, under the same conditions, continue to give notice for so long as he is of the opinion that the petitioner affirmatively intends to contest. When the port director concludes that the petitioner does not intend to contest the decision of the Commissioner of Customs, he shall refer the matter to the Commissioner of Customs for his decision before issuing any further notice of liquidation.
+
+[T.D. 70-181, 35 FR 13432, Aug. 22, 1970, as amended by T.D. 99-27, 64 FR 13677, Mar. 22, 1999]

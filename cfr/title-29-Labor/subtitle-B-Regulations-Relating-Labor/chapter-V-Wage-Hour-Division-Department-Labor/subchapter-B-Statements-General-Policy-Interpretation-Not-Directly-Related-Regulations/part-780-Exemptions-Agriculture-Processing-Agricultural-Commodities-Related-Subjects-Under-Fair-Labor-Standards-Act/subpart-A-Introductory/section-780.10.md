@@ -1,0 +1,3 @@
+##### § 780.10 Workweek standard in applying exemptions. #####
+
+The workweek is the unit of time to be taken as the standard in determining the applicability of an exemption. An employee's workweek is a fixed and regularly recurring period of 168 hours—seven consecutive 24-hour periods. It need not coincide with the calendar week. If in any workweek an employee does only exempt work, he is exempt from the wage and hour provisions of the Act during that workweek, irrespective of the nature of his work in any other workweek or workweeks. An employee may thus be exempt in 1 workweek and not in the next. But the burden of effecting segregation between exempt and nonexempt work as between particular workweeks is upon the employer.

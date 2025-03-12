@@ -1,0 +1,3 @@
+##### § 1650.108 Waiver. #####
+
+The Commission may waive debts, to the extent authorized by 5 U.S.C. 5584, arising out of erroneous payments of pay, when collection would be against equity and good conscience and not in the best interests of the United States, and so long as there is no indication of fraud, fault, or lack of good faith on the part of the employee. Interest, penalties, and administrative costs may also be waived under 31 U.S.C. 3717(h) and 31 CFR 901.9(g), on a case-by-case basis, if collection would be against equity and good conscience and not in the best interests of the United States.

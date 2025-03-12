@@ -1,0 +1,3 @@
+##### § 2201.1 Purpose and scope. #####
+
+This part prescribes procedures to obtain information and records of the Occupational Safety and Health Review Commission (OSHRC or Commission) under the Freedom of Information Act (FOIA), 5 U.S.C. 552. It applies only to records or information of the Commission or in the Commission's custody. This part does not affect discovery in adversary proceedings before the Commission. Discovery is governed by the Commission's Rules of Procedure in 29 CFR part 2200, subpart D.

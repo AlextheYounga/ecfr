@@ -1,0 +1,7 @@
+##### § 4007.12 Liability for single-employer premiums. #####
+
+(a) The designation under this part of the plan administrator as the person required to make flat-rate and variable-rate premium filings and payments under this part for a single-employer plan is a procedural requirement only and does not alter the liability for premium payments imposed by section 4007 of ERISA. Pursuant to section 4007(e) of ERISA, both the plan administrator and the contributing sponsor of a single-employer plan are liable for flat-rate and variable-rate premium payments, and, if the contributing sponsor is a member of a controlled group, each member of the controlled group is jointly and severally liable for the required premiums. Any entity that is liable for required premiums is also liable for any interest and penalties assessed with respect to such premiums.
+
+(b) After a plan administrator issues (pursuant to section 4041(a)(2) of ERISA) the first notice of intent to terminate in a distress termination under section 4041(c) of ERISA or PBGC issues a notice of determination under section 4042(a) of ERISA, the obligation to pay the premiums (and any interest or penalties thereon) imposed by ERISA and this part for a single-employer plan shall be an obligation solely of the contributing sponsor and the members of its controlled group, if any.
+
+(Approved by the Office of Management and Budget under control number 1212-0009)[61 FR 34020, July 1, 1996, as amended at 72 FR 71229, Dec. 17, 2007; 79 FR 13562, Mar. 11, 2014]

@@ -1,0 +1,3 @@
+##### § 115.1 Purpose. #####
+
+This chapter establishes procedures for certifying containers and road vehicles in conformance with the Customs Convention on Containers (1956) (TIAS 6634), the Customs Convention on the International Transport of Goods Under Cover of TIR Carnets (1959) (TIAS 6633), the Customs Convention on the International Transport of Goods Under Cover of TIR Carnets, November 14, 1975 (TIAS), and the Customs Convention on Containers, 1972 (TIAS), by applying the procedures and technical conditions set forth in the annexes to these conventions.

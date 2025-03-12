@@ -1,0 +1,3 @@
+##### § 12.104i Enforcement. #####
+
+In the customs territory of the United States, and in the U.S. Virgin Islands, the provisions of these regulations shall be enforced by appropriate customs officers. In any other territory or area within the U.S., but not within such customs territory or the U.S. Virgin Islands, such provisions shall be enforced by such persons as may be designated by the President.

@@ -1,0 +1,21 @@
+##### § 234.270 Condition of the multifamily structure. #####
+
+(a) When a family unit is conveyed or a mortgage is assigned to the Commissioner, the family unit and the common areas and facilities designated for the particular unit shall be undamaged by fire, flood, earthquake, tornado, or boiler explosion, or, as to mortgages insured on or after January 1, 1977, due to failure of the mortgagee to take action as required by § 203.377. If the property has been damaged, either of the following actions shall be taken:
+
+(1) The property may be repaired prior to its conveyance or prior to the assignment of the mortgage to the Commissioner.
+
+(2) If the prior approval of the Commissioner is obtained, the damaged property may be conveyed or the mortgage assigned to the Secretary without repairing the damage. In such instances, the Commissioner shall deduct from the insurance benefits either his estimate of the decrease in value of the family unit or the amount of any insurance recovery received by the mortgagee, whichever is the greater.
+
+(b) If the property has been damaged by fire and such property was not covered by fire insurance at the time of the damage, the mortgagee may convey the property or assign the mortgage to the Commissioner without deduction from the insurance benefits for any loss occasioned by such fire if the following conditions are met:
+
+(1) The property shall have been covered by fire insurance at the time the mortgage was insured.
+
+(2) The fire insurance shall have been later cancelled or renewal shall have been refused by the insuring company.
+
+(3) The mortgagee shall have notified the Commissioner within 30 days (or within such further time as the Commissioner may approve) of the cancellation of the fire insurance or of the refusal of the insuring company to renew the fire insurance. This notification shall have been accompanied by a certification of the mortgagee that diligent efforts were made, but it was unable to obtain fire insurance coverage at reasonably competitive rates and that it will continue its efforts to obtain adequate fire insurance coverage at competitive rates, including coverage under the FAIR Plan. A *reasonable rate* is a rate not more than 25 percent in excess of the rate or the advisory rate filed or used by the principal rating organization doing business in the state. If the property is located in a state which has no rate or advisory rate as provided in the preceding sentence, the mortgagee shall consult the Director of the local HUD office as to a reasonable rate. When hazard insurance coverage cannot be obtained in an amount equal to the unpaid principal balance of the loan but insurance can be obtained in a reduced amount from a FAIR Plan or another insurance carrier, the Secretary will accept the reduced coverage without reduction of mortgage, insurance benefits, if the rates do not exceed the guidelines stated herein. If coverage in any amount is only available at rates in excess of a reasonable rate as defined herein, the mortgagor may but shall not be required to purchase such coverage. If coverage is purchased, the amount of any claim for insurance benefits under this part shall be reduced by the amount of any recovery of hazard insurance benefits by the mortgagee.
+
+(c) The provisions in paragraph (b) of this section shall be applicable with respect to the insurance of all mortgages whether insured prior to May 8, 1968, or insured on or after such date.
+
+(d) The mortgagee shall not be liable for damage to the property by waste in connection with mortgage insurance claims paid on or after July 2, 1968. However, the mortgagee shall be responsible for damage to or destruction of security properties on which the loans are in default and which properties are vacant or abandoned due to the mortgagee's failure to take reasonable action to inspect, protect and preserve such properties as required by § 203.377, as to all mortgages insured on or after June 8, 1977, but such responsibility shall not exceed the amount of its insurance claim as to a particular property.
+
+[36 FR 24628, Dec. 22, 1971, as amended at 42 FR 29305, June 8, 1977]

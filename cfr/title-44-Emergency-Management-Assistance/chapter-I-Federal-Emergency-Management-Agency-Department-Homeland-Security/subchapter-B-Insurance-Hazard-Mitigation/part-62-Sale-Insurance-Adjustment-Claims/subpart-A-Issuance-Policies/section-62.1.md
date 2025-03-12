@@ -1,0 +1,3 @@
+##### § 62.1 Purpose of part. #####
+
+The purpose of this part is to set forth the manner in which flood insurance under the Program is made available to the general public in those communities designated as eligible for the sale of insurance under part 64 of this subchapter, and to prescribe the general method by which the Federal Insurance Administrator exercises his/her responsibility regarding the manner in which claims for losses are paid.

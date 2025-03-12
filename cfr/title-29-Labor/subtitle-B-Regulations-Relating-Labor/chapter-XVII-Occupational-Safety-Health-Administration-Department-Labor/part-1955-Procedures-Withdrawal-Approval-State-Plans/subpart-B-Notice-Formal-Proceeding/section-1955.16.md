@@ -1,0 +1,3 @@
+##### § 1955.16 Time. #####
+
+Computation of any period of time under these rules shall begin with the first business day following that on which the act, event or development initiating such period of time shall have occurred. When the last day of the period so computed is a Saturday, Sunday, or national holiday, or other day on which the Department of Labor is closed, the period shall run until the end of the next following business day. When such period of time is 7 days or less, each of the Saturdays, Sundays, and such holidays shall be excluded from the computation.

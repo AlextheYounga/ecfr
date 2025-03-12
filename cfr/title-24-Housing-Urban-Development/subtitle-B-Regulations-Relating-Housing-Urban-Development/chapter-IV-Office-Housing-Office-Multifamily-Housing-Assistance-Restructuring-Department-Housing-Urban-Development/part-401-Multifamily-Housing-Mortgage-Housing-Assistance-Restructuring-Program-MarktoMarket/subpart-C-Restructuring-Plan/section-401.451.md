@@ -1,0 +1,11 @@
+##### § 401.451 PAE Physical Condition Analysis (PCA). #####
+
+(a) *Review and certification of owner evaluation.* (1) The PAE must independently evaluate the physical condition of the project by means of a PCA. If the PAE finds any immediate threats to health and safety, the owner must complete those work items immediately, or the PAE must evaluate the project's eligibility in accordance with § 401.403(b)(2)(iii).
+
+(2) After consultation with the owner and an opportunity for the owner to modify its evaluation performed under § 401.450, the PAE must either certify to the accuracy and completeness of the owner's evaluation performed under § 401.450 for each project covered by the PRA, or state that the evaluation fails to address certain items or does not propose a cost effective approach.
+
+(b) *Rejection due to inaccurate or incomplete owner evaluation.* If the PAE cannot certify to the accuracy and completeness of the owner's evaluation due to its failure to address specific work items or because it does not propose a cost effective approach, the PAE must notify HUD. If HUD agrees with the PAE's determination, the PAE must notify the owner that the request for a Restructuring Plan is rejected.
+
+(c) *Rejection due to poor condition of the project.* Based on the completed PCA, the PAE must determine whether proceeding with a Restructuring Plan with necessary rehabilitation is more cost-effective in terms of Federal resources than rejecting the Request for a Restructuring Plan under § 401.403(b)(2)(iii) and providing tenant-based assistance for displaced tenants under § 401.602. HUD will provide guidance to PAEs for making the determination. If the PAE concludes that a request for a Restructuring Plan should be rejected because of lack of cost-effectiveness due to poor condition of the project, it must also consider the effect on tenants and the community and advise HUD of the effect. HUD will make the final decision after considering the PAE's recommendation.
+
+(d) *Dispute and appeal of rejection.* The dispute and appeal provisions of subpart F of this part apply to rejections under paragraphs (b) and (c) of this section.

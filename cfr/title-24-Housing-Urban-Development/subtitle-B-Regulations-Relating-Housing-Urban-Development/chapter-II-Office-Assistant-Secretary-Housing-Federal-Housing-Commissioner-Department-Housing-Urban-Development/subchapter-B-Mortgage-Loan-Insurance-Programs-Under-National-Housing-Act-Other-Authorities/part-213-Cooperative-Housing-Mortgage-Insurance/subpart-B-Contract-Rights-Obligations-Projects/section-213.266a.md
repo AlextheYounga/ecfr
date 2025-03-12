@@ -1,0 +1,7 @@
+##### § 213.266a Insurance fund obligations. #####
+
+A mortgage endorsed for insurance under section 213 of the Act shall be the obligation either of the Cooperative Management Housing Insurance Fund or of the General Insurance Fund. The determination of the applicable fund shall be governed by the following:
+
+(a) A mortgage insured under section 213(a)(1) of the Act or under section 213(a)(3) if the project has been acquired by a cooperative corporation or under section 213 (i) or (j) shall be the obligation of the Cooperative Management Housing Insurance Fund, where it has been insured pursuant to a commitment issued on or after August 10, 1965, or insured pursuant to a commitment issued prior to such date, and transferred to the Cooperative Management Housing Insurance Fund.
+
+(b) A mortgage insured under section 213(a)(2) of the Act or under section 213(a)(3) where the project has not been acquired by a cooperative corporation shall be the obligation of the General Insurance Fund. A mortgage insured prior to August 10, 1965, or insured pursuant to a commitment issued prior to such date, where the project has not been transferred to the Cooperative Management Housing Insurance Fund, shall also be the obligation of the General Insurance Fund.

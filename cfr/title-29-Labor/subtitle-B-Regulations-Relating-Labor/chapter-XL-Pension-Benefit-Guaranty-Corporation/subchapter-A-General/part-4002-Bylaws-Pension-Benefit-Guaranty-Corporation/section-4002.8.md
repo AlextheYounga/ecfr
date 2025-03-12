@@ -1,0 +1,3 @@
+##### § 4002.8 Conflict of interest. #####
+
+Any Board Member may disqualify himself or herself from participation in a Board action on any matter if the Board Member may have or may appear to have a conflict of interest. The Board Member shall notify the other Board Members of a disqualification. The disqualified Member's Board Representative, acting independently of that Member, may vote on the matter in the Member's place. The disqualified Board Member need not and may not ratify any action taken on the matter giving rise to his or her disqualification.

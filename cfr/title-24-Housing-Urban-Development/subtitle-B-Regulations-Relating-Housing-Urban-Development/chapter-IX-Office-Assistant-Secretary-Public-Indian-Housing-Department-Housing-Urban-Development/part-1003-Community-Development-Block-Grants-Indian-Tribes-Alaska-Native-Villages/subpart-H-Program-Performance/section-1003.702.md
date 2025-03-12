@@ -1,0 +1,5 @@
+##### § 1003.702 Reduction or withdrawal of grant. #####
+
+(a) *General.* A reduction or withdrawal of a grant under paragraph (b) of this section will not be made until at least one of the corrective or remedial actions specified in § 1003.701(b) has been taken and only then if the grantee has not made an appropriate and timely response. Before making such a grant reduction or withdrawal, the grantee also shall be notified and given an opportunity within a prescribed time for an informal consultation regarding the proposed action.
+
+(b) *Reduction or withdrawal.* When the Area ONAP determines, on the basis of a review of the grantee's performance, that the objectives set forth in § 1003.700(a)(2) or (3) have not been met, the Area ONAP may reduce or withdraw the grant, except that funds already expended on eligible approved activities shall not be recaptured.

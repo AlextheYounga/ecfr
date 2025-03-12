@@ -1,0 +1,3 @@
+##### § 995.5 Abbreviations. #####
+
+CED Certified NOAA ENC DistributorCEVAD Certified NOAA ENC Value Added DistributorCRC Cyclical Redundancy ChecksumECDIS Electronic Chart Display and Information SystemENC Electronic Navigational ChartIEC International Electrotechnical CommissionIHO International Hydrographic OrganizationIMO International Maritime OrganizationISO International Organization for StandardizationNOAA National Oceanic and Atmospheric AdministrationNOS National Ocean ServiceOCS Office of Coast SurveySENC System Electronic Navigational ChartSOLAS Safety of Life at SeaVAD Value Added Distributor

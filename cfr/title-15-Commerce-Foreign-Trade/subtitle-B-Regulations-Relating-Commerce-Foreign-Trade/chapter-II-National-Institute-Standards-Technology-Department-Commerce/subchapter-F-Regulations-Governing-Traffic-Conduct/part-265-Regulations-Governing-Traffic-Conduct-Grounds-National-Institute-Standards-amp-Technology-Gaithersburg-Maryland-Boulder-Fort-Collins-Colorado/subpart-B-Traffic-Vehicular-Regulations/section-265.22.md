@@ -1,0 +1,3 @@
+##### § 265.22 Bicycle traffic. #####
+
+No person shall ride a bicycle other than in a manner exercising due caution for pedestrian and other traffic. No person shall ride a bicycle on sidewalks or inside any building, nor shall any person park a bicycle on sidewalks or inside any building nor in a roadway or parking lot, provided, however, that these parking restrictions shall not apply to bicycles parked at bicycle racks located in these areas.

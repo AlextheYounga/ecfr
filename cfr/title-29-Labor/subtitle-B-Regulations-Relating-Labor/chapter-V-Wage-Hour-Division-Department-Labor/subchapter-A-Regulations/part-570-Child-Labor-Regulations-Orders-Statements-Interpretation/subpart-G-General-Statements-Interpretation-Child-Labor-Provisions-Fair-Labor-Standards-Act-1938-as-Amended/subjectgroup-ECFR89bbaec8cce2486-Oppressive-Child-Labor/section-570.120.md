@@ -1,0 +1,5 @@
+##### § 570.120 Eighteen-year minimum. #####
+
+To protect young workers from hazardous employment, the FLSA provides for a minimum age of 18 years in occupations found and declared by the Secretary to be particularly hazardous or detrimental to the health or well-being for minors 16 and 17 years of age. Hazardous occupations orders are the means through which occupations are declared to be particularly hazardous for minors. Since 1995, the promulgation and amendment of the hazardous occupations orders have been effectuated under the Administrative Procedure Act (APA), 5 U.S.C. 551 *et seq.* The effect of these orders is to raise the minimum age for employment to 18 years in the occupations covered. Seventeen orders, published in subpart E of this part, have thus far been issued under the FLSA and are now in effect.
+
+[75 FR 28458, May 20, 2010]

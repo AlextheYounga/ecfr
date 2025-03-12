@@ -1,0 +1,3 @@
+##### § 400.5 Authority to restrict or prohibit certain zone operations. #####
+
+The Board may conduct a proceeding, or the Executive Secretary a review, to consider a restriction or prohibition on zone activity. Such proceeding or review may be either self-initiated or in response to a complaint made to the Board by a person directly affected by the activity in question and showing good cause. After a proceeding or review, the Board may restrict or prohibit any admission of merchandise or process of treatment in an activated FTZ site when it determines that such activity is detrimental to the public interest, health or safety.

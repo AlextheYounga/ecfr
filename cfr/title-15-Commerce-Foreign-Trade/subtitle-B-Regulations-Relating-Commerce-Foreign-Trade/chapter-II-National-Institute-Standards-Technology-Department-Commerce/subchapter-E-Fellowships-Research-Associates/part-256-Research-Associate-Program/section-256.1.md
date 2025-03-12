@@ -1,0 +1,3 @@
+##### § 256.1 Introduction. #####
+
+This part states policies and procedures concerning the Research Associate Program at the National Institute of Standards & Technology. In the exercise of its functions as a major scientific agency of the Federal Government, the National Institute of Standards & Technology may make its facilities available to persons other than Bureau employees to work with scientists and engineers in collaborative research aimed at furthering the Nation's scientific, industrial, and economic growth. Such cooperative programs may be sponsored by professional, technical, or industrial organizations or associations. Such participants, when so sponsored, are designated “Research Associates”.

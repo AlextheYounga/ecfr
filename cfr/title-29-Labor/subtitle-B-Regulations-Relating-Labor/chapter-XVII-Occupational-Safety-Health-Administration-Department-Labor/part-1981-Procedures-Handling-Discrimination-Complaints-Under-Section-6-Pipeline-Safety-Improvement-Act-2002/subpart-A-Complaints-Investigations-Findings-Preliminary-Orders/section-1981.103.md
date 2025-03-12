@@ -1,0 +1,11 @@
+##### § 1981.103 Filing of discrimination complaint. #####
+
+(a) Who may file. An employee who believes that he or she has been discriminated against by an employer in violation of the Act may file, or have filed by any person on the employee's behalf, a complaint alleging such discrimination.
+
+(b) Nature of filing. No particular form of complaint is required, except that a complaint must be in writing and should include a full statement of the acts and omissions, with pertinent dates, which are believed to constitute the violations.
+
+(c) Place of filing. The complaint should be filed with the OSHA Area Director responsible for enforcement activities in the geographical area where the employee resides or was employed, but may be filed with any OSHA officer or employee. Addresses and telephone numbers for these officials are set forth in local directories and at the following Internet address: *http://www.osha.gov.*
+
+(d) Time for filing. Within 180 days after an alleged violation of the Act occurs (*i.e.,* when the discriminatory decision has been both made and communicated to the complainant), an employee who believes that he or she has been discriminated against in violation of the Act may file, or have filed by any person on the employee's behalf, a complaint alleging such discrimination. The date of the postmark, facsimile transmittal, or e-mail communication will be considered to be the date of filing; if the complaint is filed in person, by hand-delivery or other means, the complaint is filed upon receipt.
+
+(e) Relationship to section 11(c) complaints. A complaint filed under the Pipeline Safety Act that alleges facts which would constitute a violation of section 11(c) of the Occupational Safety and Health Act, 29 U.S.C. 660(c), will be deemed to be a complaint filed under both the Pipeline Safety Act and section 11(c). Similarly, a complaint filed under section 11(c) that alleges facts that would constitute a violation of the Pipeline Safety Act will be deemed to be a complaint filed under both the Pipeline Safety Act and section 11(c). Normal procedures and timeliness requirements for investigations under the respective laws and regulations will be followed.

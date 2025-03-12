@@ -1,0 +1,5 @@
+##### § 430.27 Emergencies. #####
+
+In the event of an emergency requiring immediate action to protect the public health and safety or to avoid substantial and irreparable injury to any private person or property, and the circumstances do not permit full review and determination in accordance with these regulations, the Executive Director, with the concurrence of the Pennsylvania member of the Commission or his alternate, may issue an emergency permit authorizing an applicant to take such action relating to these regulations as the Executive Director may deem necessary and proper. In such cases, the applicant shall be fully responsible for protecting existing ground water users, as prescribed in § 430.19 of this part. The Executive Director shall report at the next meeting of the Commission on the nature of the emergency and any action taken under this section.
+
+[47 FR 21776, May 20, 1982. Redesignated at 51 FR 25031, July 10, 1986]

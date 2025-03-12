@@ -1,0 +1,3 @@
+##### § 1921.14 Exceptions. #####
+
+Within 20 days after the date of the decision of the hearing examiner, the parties may file exceptions thereto with supporting reasons. Any party who desires to take exception to any matter set out in that decision shall transmit his exceptions in writing to the Chief Hearing Examiner, referring to the specific findings of fact, conclusions of law, or order excepted to, and the specific pages of transcript relevant to the exceptions, and suggesting corrected findings of fact, conclusions of law, or order.

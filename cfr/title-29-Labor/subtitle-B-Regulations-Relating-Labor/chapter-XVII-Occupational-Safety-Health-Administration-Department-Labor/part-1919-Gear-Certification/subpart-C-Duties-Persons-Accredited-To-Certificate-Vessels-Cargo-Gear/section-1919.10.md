@@ -1,0 +1,17 @@
+##### § 1919.10 General duties; exemptions. #####
+
+(a) Except as noted in § 1919.1 and in paragraph (h) of this section, the requirements set forth in subparts D and E of this part shall be strictly adhered to in all testing, examinations, inspections, and heat treatments.
+
+(b) Supervision of all testing, examinations, inspections, and heat treatments shall be carried out only by such persons as are listed in the application for accreditation, or subsequent supplements thereto, submitted pursuant to this part.
+
+(c) The certificates issued by an accredited person shall be signed and all register entries made only by an authorized agent of such accredited person. No certification shall be issued until any deficiencies considered by the accredited person to constitute a currently unsatisfactory condition have been corrected. Replacement parts shall be of equal or better quality as original equipment and suitable for the purpose. In the event deficiencies remain uncorrected and no certification may therefore be issued, the accredited person shall inform the nearest District Office of the Administration of the circumstances.
+
+(d) Dynamometers or other recording test equipment owned by an accredited person shall have been tested for accuracy within the six months next preceding application for accreditation or renewal of same. Such test shall be performed with calibrating equipment which has been checked in turn so that indications are traceable to the National Bureau of Standards. A copy of test reports shall accompany the application. Where test equipment is not the property of the accredited person, that person shall not issue any certificate based upon the use of such equipment unless its owner has made available a certificate of accuracy based on the requirements of this paragraph, obtained within 1 year prior to such use and stating the errors of the equipment. Reasonable standards of accuracy shall be met and proof loads adjusted as necessary.
+
+(e) An accredited person shall, upon request, provide the nearest local office of the Administration with advance information as to scheduled testing or of such other functions as are performed and facilitate the Administration's observation of any such activities as it may desire to witness: *Provided, however,* That tests need not be delayed, except when specifically requested by the Administration under unusual circumstances.
+
+(f) All cargo gear registers or certificates issued by an accredited person shall be made on forms prescribed or approved by the Administration.
+
+(g) Unless otherwise instructed by the Assistant Secretary in specific instances, any person accredited under § 1919.6(a) shall accept certificates, relating to loose gear or wire rope tests or to heat treatments which are issued by the manufacturer of the gear concerned, by another person accredited specifically by the Assistant Secretary for this purpose, or by any other person whose certificates are acceptable to the Administration. Such certificates shall either be attached as a part of the vessel's certification or shall be used as the basis for the issuance of the accredited person's own loose gear, wire rope, or heat treatment certificates. In the latter case, the original certificates shall be kept on file by the accredited person as part of the permanent record of the vessel concerned.
+
+(h) In case of practical difficulties or unnecessary hardships, the Assistant Secretary in his discretion may grant exemptions from any provision of subparts C, D, and E of this part.

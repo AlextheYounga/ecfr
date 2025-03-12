@@ -1,0 +1,5 @@
+##### § 511.4 Compensation of committee members. #####
+
+Each member of an industry committee will be allowed per diem compensation at the rate specified in Chapter 304 of the Department of Labor Supplement to the Federal Personnel Manual for each day actually spent in the work of the committee, and will, in addition, be reimbursed for necessary transportation and other expenses incident to traveling in accordance with Standard Government Travel Regulations then in effect. All travel expenses will be paid on travel vouchers certified by the Administrator or an authorized representative. Any other necessary expenses that are incidental to the work of the committee may be incurred by the committee upon approval of, and shall be paid upon, certification of the Administrator or an authorized representative.
+
+[58 FR 34524, June 28, 1993]

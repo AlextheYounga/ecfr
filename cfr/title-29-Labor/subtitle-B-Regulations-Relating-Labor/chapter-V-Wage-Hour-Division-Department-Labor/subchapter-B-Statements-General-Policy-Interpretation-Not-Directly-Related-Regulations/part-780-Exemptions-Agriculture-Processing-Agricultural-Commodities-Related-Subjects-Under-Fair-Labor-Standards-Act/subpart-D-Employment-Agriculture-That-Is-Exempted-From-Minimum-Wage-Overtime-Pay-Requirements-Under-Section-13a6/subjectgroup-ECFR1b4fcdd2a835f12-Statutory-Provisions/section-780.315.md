@@ -1,0 +1,5 @@
+##### § 780.315 Local hand harvest laborers. #####
+
+(a) A requirement of the exemption is that an employee must commute each day from his permanent residence to the farm where he is employed. Thus, the exemption does not apply to a migrant worker who travels to different areas of the country during the harvesting seasons. This would be true even though the worker may remain in the area for a considerable period of time. On the other hand, if a migrant worker actually changes his place of residence and thereafter commutes daily from his permanent residence, the exemption applies from the date of the change of residence if the other tests are met.
+
+(b) The fact that a worker may live on the farm where the operations are performed would not be a reason for disqualification. For example, if the other tests for the exemption are met, members of a tractor driver's family who reside on the farm could be employed in picking cotton within the terms of the exemption. Such family members would be considered to be commuting daily from their permanent residence despite the fact that their residence may be located on the farm at which they are employed.

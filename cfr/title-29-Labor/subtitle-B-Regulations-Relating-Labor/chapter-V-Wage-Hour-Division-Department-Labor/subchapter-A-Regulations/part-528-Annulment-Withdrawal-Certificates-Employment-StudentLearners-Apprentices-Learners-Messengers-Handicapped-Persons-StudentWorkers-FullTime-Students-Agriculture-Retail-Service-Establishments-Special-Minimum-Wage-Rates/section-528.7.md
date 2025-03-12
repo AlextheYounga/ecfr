@@ -1,0 +1,5 @@
+##### § 528.7 Effect of order of annulment or withdrawal. #####
+
+Except as otherwise expressly provided in such order, any order of annulment or withdrawal under paragraph (a) or (b) of § 528.3 shall be effective to terminate all certifications to which the regulations in this part apply in effect at the establishment where the cause for withdrawal arose or where the annulled certificate had effect. After such annulment or withdrawal, such employer shall be ineligible to obtain or exercise the privileges granted in such a certificate until he satisfies the issuing officer that he will not again give cause for annulment or withdrawal if a certificate is issued.
+
+(Secretary's Order No. 16-75, dated Nov. 25, 1975 (40 FR 55913); Employment Standards Order No 76-2, dated Feb. 23, 1976 (41 FR 9016))[43 FR 28469, June 30, 1978]

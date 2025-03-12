@@ -1,0 +1,3 @@
+##### § 101.31 Initiation of proceedings to hear and determine jurisdictional disputes under section 10(k). #####
+
+The investigation of a jurisdictional dispute under section 10(k) is initiated by the filing of a charge, as described in § 101.2, by any person alleging a violation of paragraph (4)(D) of section 8(b). As soon as possible after a charge has been filed, the Regional Director serves on the parties a copy of the charge together with a notice of the filing of such charge.

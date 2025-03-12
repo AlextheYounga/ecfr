@@ -1,0 +1,7 @@
+##### § 65.16 Standard Flood Hazard Determination Form and Instructions. #####
+
+(a) Section 528 of the National Flood Insurance Reform Act of 1994 (42 U.S.C. 1365(a)) directs FEMA to develop a standard form for determining, in the case of a loan secured by improved real estate or a mobile home, whether the building or mobile home is located in an area identified by the Director as an area having special flood hazards and in which flood insurance under this title is available. The purpose of the form is to determine whether a building or mobile home is located within an identified Special Flood Hazard Area (SFHA), whether flood insurance is required, and whether federal flood insurance is available. Use of this form will ensure that required flood insurance coverage is purchased for structures located in an SFHA, and will assist federal entities for lending regulation in assuring compliance with these purchase requirements.
+
+(b) The form is available by written request to Federal Emergency Management Agency, PO Box 2012, Jessup, MD 20794; ask for the Standard Flood Hazard Determination form. It is also available by fax-on-demand; call (202) 646-3362, form #23103. Finally, the form is available through the Internet at *http://www.fema.gov/nfip/mpurfi.htm.*
+
+[63 FR 27857, May 21, 1998]

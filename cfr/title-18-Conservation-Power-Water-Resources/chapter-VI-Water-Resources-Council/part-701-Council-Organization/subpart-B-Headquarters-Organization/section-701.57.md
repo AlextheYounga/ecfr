@@ -1,0 +1,3 @@
+##### § 701.57 Official decisions of the Council. #####
+
+Official decisions of the Council shall be of record. Such decisions shall be recorded in accepted minutes of duly called regular or special meetings or set forth in resolutions, memoranda, or other documents approved by Members. Decisions which would affect the authority and responsibilities of heads of other Federal agencies, including Associate Members, within the meaning of section 3(b) of the Act, shall only be made during a regular or special meeting of Members and recorded in the minutes thereof.

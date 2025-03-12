@@ -1,0 +1,7 @@
+##### § 503.20 Sanctions and remedies—general. #####
+
+Whenever the Administrator, WHD determines that there has been a violation(s), as described in § 503.19, such action will be taken and such proceedings instituted as deemed appropriate, including (but not limited to) the following:
+
+(a) Institute administrative proceedings, including for: the recovery of unpaid wages (including recovery of prohibited recruitment fees paid or impermissible deductions from pay, and recovery of wages due for improperly placing workers in areas of employment or in occupations other than those identified on the *Application for Temporary Employment Certification* and for which a prevailing wage was not obtained); the enforcement of provisions of the job order, 8 U.S.C. 1184(c), 20 CFR part 655, subpart A, or the regulations in this part; the assessment of a civil money penalty; make whole relief for any person who has been discriminated against; reinstatement and make whole relief for any U.S. worker who has been improperly rejected for employment, laid off or displaced; or debarment for no less than 1 or no more than 5 years.
+
+(b) The remedies referenced in paragraph (a) of this section will be sought either directly from the employer, or from its successor in interest, or from the employer's agent or attorney, as appropriate.

@@ -1,0 +1,3 @@
+##### § 701.76 The Water Resources Council Staff. #####
+
+The Water Resources Council Staff (hereinafter the Staff) serves the Council and the Chairman in the performance of their functions and in the exercise of their authorities in accordance with the Act, the rules and regulations and other decisions of the Council, and all other laws, rules, regulations, and orders applicable to the Water Resources Council, and will be organized in accordance with a structure approved by the Council.

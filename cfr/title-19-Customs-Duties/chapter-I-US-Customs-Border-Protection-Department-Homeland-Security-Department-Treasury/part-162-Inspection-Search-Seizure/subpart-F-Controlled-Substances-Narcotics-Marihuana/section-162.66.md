@@ -1,0 +1,3 @@
+##### § 162.66 Penalties for unlading narcotic drugs or marihuana without a permit. #####
+
+In every case where a narcotic drug or marihuana is unladen without a permit, the penalties prescribed in section 453, Tariff Act of 1930, as amended (19 U.S.C. 1453), shall be assessed. Penalties shall be assessed under this section when a package of regular cargo or a passenger's baggage otherwise covered by a permit to unlade is found to contain any narcotic drug or marihuana imported for sale or other commercial purpose and not specifically covered by a permit to unlade.

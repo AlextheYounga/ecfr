@@ -1,0 +1,9 @@
+##### § 983.55 Prohibition of excess public assistance. #####
+
+(a) *Subsidy layering requirements.* The PHA may provide PBV assistance only in accordance with HUD subsidy layering regulations (24 CFR 4.13) and other requirements. The subsidy layering review is intended to prevent excessive public assistance for the housing by combining (layering) housing assistance payment subsidy under the PBV program with other governmental housing assistance from federal, state, or local agencies, including assistance such as tax concessions or tax credits. The subsidy layering requirements are not applicable to existing housing. A further subsidy layering review is not required for housing selected as new construction or rehabilitation of housing, if HUD's designee has conducted a review, which included a review of PBV assistance, in accordance with HUD's PBV subsidy layering review guidelines.
+
+(b) *When subsidy layering review is conducted.* The PHA may not enter into an Agreement or HAP contract until HUD or a housing credit agency approved by HUD has conducted any required subsidy layering review and determined that the PBV assistance is in accordance with HUD subsidy layering requirements.
+
+(c) *Owner certification.* The HAP contract must contain the owner's certification that the project has not received and will not receive (before or during the term of the HAP contract) any public assistance for acquisition, development, or operation of the housing other than assistance disclosed in the subsidy layering review in accordance with HUD requirements.
+
+[70 FR 59913, Oct. 13, 2005, as amended at 79 FR 36166, June 25, 2014]

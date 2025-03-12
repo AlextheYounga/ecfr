@@ -1,0 +1,5 @@
+##### § 930.79 Effect of State agency concurrence. #####
+
+(a) If the State agency issues a concurrence or is conclusively presumed to concur with the person's consistency certification, the person will not be required to submit additional consistency certifications and supporting information for State agency review at the time federal applications are actually filed for the federal licenses or permits to which such concurrence applies.
+
+(b) Unless the State agency indicates otherwise, copies of federal license or permit applications for activities described in detail in an OCS plan which has received State agency concurrence shall be sent by the person to the State agency to allow the State agency to monitor the activities. Confidential and proprietary material within such applications may be deleted.

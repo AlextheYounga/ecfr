@@ -1,0 +1,3 @@
+##### § 242.46 Insured advances—building loan agreement. #####
+
+Prior to the initial endorsement of the mortgage for insurance, the mortgagor and mortgagee shall execute a building loan agreement, approved by HUD, setting forth the terms and conditions under which progress payments may be advanced during construction. To be covered by mortgage insurance, or to be included as an eligible cost, each progress payment involving mortgage proceeds and the owner's equity requirement shall be approved by HUD.

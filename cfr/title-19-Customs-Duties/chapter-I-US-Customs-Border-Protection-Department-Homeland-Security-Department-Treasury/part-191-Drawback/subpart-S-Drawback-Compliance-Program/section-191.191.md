@@ -1,0 +1,3 @@
+##### § 191.191 Purpose. #####
+
+This subpart sets forth the requirements for the Customs drawback compliance program in which claimants and other parties in interest, including Customs brokers, may participate after being certified by Customs. Participation in the program is voluntary. Under the program, Customs is required to inform potential drawback claimants and related parties clearly about their rights and obligations under the drawback law and regulations. Reduced penalties and/or warning letters may be issued once a party has been certified for the program, and is in general compliance with the appropriate procedures and requirements thereof.

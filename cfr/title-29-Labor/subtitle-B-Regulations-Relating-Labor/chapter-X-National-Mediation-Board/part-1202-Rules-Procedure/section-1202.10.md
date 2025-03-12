@@ -1,0 +1,3 @@
+##### § 1202.10 Appointment of referees. #####
+
+Section 3, Third, (e) title I of the act makes it the duty of the National Mediation Board to appoint and fix the compensation for service a neutral person known as a “referee” in any case where a division of the National Railroad Adjustment Board becomes deadlocked on an award, such referee to sit with the division and make an award. The National Mediation Board in appointing referees is bound by the same requirements that apply in the appointment of neutral arbitrators as outlined in § 1202.9

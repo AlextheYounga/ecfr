@@ -1,0 +1,5 @@
+##### § 16.21 Operation of projects with a minor or minor part license not subject to sections 14 and 15 of the Federal Power Act after expiration of a license. #####
+
+(a) A licensee of a minor or minor part project not subject to sections 14 and 15 of the Federal Power Act that has filed an application for a subsequent license or exemption may continue to operate the project in accordance with the terms and conditions of the license after the minor or minor part license expires until the Commission acts on its application.
+
+(b) If the licensee of a minor or minor part project not subject to sections 14 and 15 of the Federal Power Act has not filed an application for a subsequent license or exemption, the Commission may issue an order requiring the licensee to continue to operate its project in accordance with the terms and conditions of the license until the Commission either acts on any applications for subsequent license timely filed by another entity or takes action pursuant to §§ 16.25 or 16.26.

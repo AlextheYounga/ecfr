@@ -1,0 +1,3 @@
+##### § 143.5 System performance requirements. #####
+
+The performance requirements and operational standards for electronic data filing are detailed in Customs Publication 552, Customs And Trade Automated Interface Requirements (CATAIR), which is updated periodically. The User Support Services Division, Customs Headquarters, upon request, shall provide each prospective participant with a copy of this publication. Each prospective participant must demonstrate that his system can interface directly with the Customs computer and ensure accurate submission of required data. Such demonstration will include intensive testing of the participant's system and monitoring of its performance in accordance with Publication 552.

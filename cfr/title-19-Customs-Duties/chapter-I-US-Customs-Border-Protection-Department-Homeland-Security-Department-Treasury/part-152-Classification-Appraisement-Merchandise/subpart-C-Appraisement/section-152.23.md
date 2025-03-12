@@ -1,0 +1,5 @@
+##### § 152.23 Merchandise imported from intermediate countries. #####
+
+Merchandise imported from one country, being the growth, production, or manufacture of another country, shall for value purposes (see sections 402, Tariff Act of 1930, as amended; 19 U.S.C. 1401a) be treated as an exportation of the country from which it is immediately imported. However, if it appears by the invoice, bill of lading, or other evidence that the merchandise was destined for the United States at the time of original shipment, it shall be treated as an exportation of the country from which it was originally exported. The term “country” is to be regarded for the purposes of this section as embracing all the possessions of a nation, however widely separated, which are subject to the same supreme executive and legislative authority and control.
+
+[T.D. 73-175, 38 FR 17477, July 2, 1973, as amended by T.D. 87-89, 52 FR 24446, July 1, 1987]

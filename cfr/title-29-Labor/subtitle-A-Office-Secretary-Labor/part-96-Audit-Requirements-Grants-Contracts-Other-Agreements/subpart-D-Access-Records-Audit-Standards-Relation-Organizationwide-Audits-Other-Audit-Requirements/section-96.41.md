@@ -1,0 +1,3 @@
+##### § 96.41 Access to records. #####
+
+The Secretary of Labor, the DOL Inspector General, the Comptroller General of the United States, or any of their duly authorized representatives (including certified public accountants under contract), shall have access to any books, documents, papers, and records (manual and automated) of the entity receiving funds from DOL and its subrecipients/subcontractors for the purpose of making surveys, audits, examinations, excerpts, and transcripts.

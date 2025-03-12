@@ -1,0 +1,5 @@
+##### § 81.47 Violations of provisions by the GSEs. #####
+
+(a) FHEFSSA empowers the Director of OFHEO to initiate enforcement actions for GSE violations of the provisions of section 1325 of FHEFSSA and these regulations. The Secretary shall refer violations and potential violations of 12 U.S.C. 4545 and this subpart C to the Director.
+
+(b) Where a private complainant or the Secretary is also proceeding against a GSE under the Fair Housing Act, the Assistant Secretary for Fair Housing and Equal Opportunity shall conduct the investigation of the complaint and make the reasonable cause/no reasonable cause determination required by section 810(g) of the Fair Housing Act. Where reasonable cause is found, a charge shall be issued and the matter will proceed to enforcement pursuant to sections 812(b) and (o) of the Fair Housing Act.

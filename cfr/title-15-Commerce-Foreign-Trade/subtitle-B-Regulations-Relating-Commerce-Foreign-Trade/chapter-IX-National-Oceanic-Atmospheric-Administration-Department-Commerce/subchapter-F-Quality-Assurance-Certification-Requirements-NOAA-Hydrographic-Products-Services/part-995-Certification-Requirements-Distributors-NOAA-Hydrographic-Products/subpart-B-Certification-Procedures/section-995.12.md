@@ -1,0 +1,3 @@
+##### § 995.12 Certification designation. #####
+
+An Applicant that has been certified by NOAA as a CED may use the phrase “Certified NOAA ENC Distributor” on products and marketing materials. An Applicant that has been certified by NOAA as a CEVAD may use the phrase “Certified NOAA ENC Value Added Distributor” on products and marketing materials. Use of these phrases must include labeling to identify the product's contents and suitable use. (See § 995.24(a)(4), (5) and (6) and (b)(3), (4) and (5)). Use of the NOAA emblem is described in § 995.28 and is not automatically granted with certification.

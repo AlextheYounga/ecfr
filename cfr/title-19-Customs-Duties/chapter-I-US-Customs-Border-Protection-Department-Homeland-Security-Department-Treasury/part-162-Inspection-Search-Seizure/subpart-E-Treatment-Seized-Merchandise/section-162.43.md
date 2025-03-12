@@ -1,0 +1,7 @@
+##### § 162.43 Appraisement. #####
+
+(a) *Property under seizure and subject to forfeiture.* Seized property shall be appraised as required by section 606, Tariff Act of 1930, as amended (19 U.S.C. 1606). The term “domestic value” as used therein shall mean the price at which such or similar property is freely offered for sale at the time and place of appraisement, in the same quantity or quantities as seized, and in the ordinary course of trade. If there is no market for the seized property at the place of appraisement, such value in the principal market nearest to the place of appraisement shall be reported.
+
+(b) *Property not under seizure.* The basis for a claim for forfeiture value or for an assessment of a penalty relating to the forfeiture value of property not under seizure is the domestic value as defined in paragraph (a) of this section, except that the value shall be fixed as of the date of the violation. In the case of entered merchandise, the date of the violation shall be the date of the entry, or the date of the filing of the document, or the commission of the act forming the basis of the claim, whichever is later.
+
+[T.D. 72-211, 37 FR 16488, Aug. 15, 1972, as amended by T.D. 79-160, 44 FR 31957, June 4, 1979; T.D. 85-123, 50 FR 29956, July 23, 1985]

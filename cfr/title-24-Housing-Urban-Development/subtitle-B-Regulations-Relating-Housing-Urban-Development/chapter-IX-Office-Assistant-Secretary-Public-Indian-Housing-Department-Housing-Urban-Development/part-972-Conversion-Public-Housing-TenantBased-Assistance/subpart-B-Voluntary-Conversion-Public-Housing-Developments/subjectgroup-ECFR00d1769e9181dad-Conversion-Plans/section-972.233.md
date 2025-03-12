@@ -1,0 +1,3 @@
+##### § 972.233 Timing of submission of conversion plans to HUD. #####
+
+A PHA that wishes to convert a public housing project to tenant-based assistance must submit a conversion plan to HUD. A PHA must prepare a conversion plan, in accordance with § 972.230, and submit it to HUD, as part of the next PHA Annual Plan within one year after submitting the full conversion assessment, or as a significant amendment to that Annual Plan. The PHA may also submit the conversion plan in the same Annual Plan as the conversion assessment.

@@ -1,0 +1,3 @@
+##### § 780.812 “County.” #####
+
+As used in the section 13(b)(15) exemption, the term “county” refers to the political subdivision of a State commonly known as such, whether or not such a unit bears that name in a particular State. It would, for example, refer to the political subdivision known as a “parish” in the State of Louisiana. A place of employment would not be located in a county, within the meaning of the exemption, if it were located in a city which, in the particular State, was not a part of any county.

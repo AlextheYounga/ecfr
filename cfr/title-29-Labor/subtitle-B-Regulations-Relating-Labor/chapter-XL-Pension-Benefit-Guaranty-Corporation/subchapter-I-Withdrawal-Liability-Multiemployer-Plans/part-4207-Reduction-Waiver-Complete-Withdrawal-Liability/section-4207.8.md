@@ -1,0 +1,19 @@
+##### § 4207.8 Liability for subsequent partial withdrawals. #####
+
+(a) *General.* When an eligible employer that has had its liability for a complete withdrawal abated under this part partially withdraws from the plan, the employer's liability for that subsequent partial withdrawal shall be determined in accordance with the rules in sections 4201-4225 of ERISA, as modified by the rules in § 4207.7 (b) through (g) of this part and the rules in this section, and section 108 of the Multiemployer Act.
+
+(b) *Liability for a 70-percent contribution decline.* The amount of an employer's liability under section 4206(a) (relating to the calculation of liability for a partial withdrawal), section 4208 (relating to the reduction of liability for a partial withdrawal) and section 4219(c)(1) (relating to the schedule of partial withdrawal liability payments) of ERISA, for a subsequent partial withdrawal described in section 4205(a)(1) of ERISA (relating to a 70-percent contribution decline) shall be modified in accordance with the rules in this paragraph.
+
+(1) *Definition of “3-year testing period.*” For purposes of sections 4206(a) and 4219(c)(1) of ERISA, and paragraphs (b)(2)-(b)(4) of this section, the term “3-year testing period” means the period consisting of the plan year for which the determination is made and the two immediately preceding plan years, excluding any plan year during the period of withdrawal.
+
+(2) *Determination date of section 4211 allocable share.* For purposes of section 4206(a)(1)(B) of ERISA, the amount determined under section 4211 shall be determined as if the employer had withdrawn from the plan in a complete withdrawal on the last day of the first plan year in the 3-year testing period or the last day of the plan year in which the employer reentered the plan, whichever is later.
+
+(3) *Calculation of fractional share of section 4211 amount.* For purposes of sections 4206(a)(2)(B)(ii) and 4219(c)(1)(E)(ii) of ERISA, if the five plan years immediately preceding the beginning of the 3-year testing period include a plan year during the period of withdrawal, then, in determining the denominator of the fraction described in section 4206(a)(2), the employer's contribution base units for each such year of withdrawal shall be deemed to be the greater of—
+
+(i) The employer's contribution base units for that plan year; or
+
+(ii) The average of the employer's contribution base units for the three plan years preceding the plan year in which the employer completely withdrew from the plan.
+
+(4) *Contribution base units for high base year.* If the five plan years immediately preceding the beginning of the 3-year testing period include a plan year during the period of withdrawal, then for purposes of section 4208 (a) and (b)(1) of ERISA, the number of contribution base units for the high base year shall be the number of contribution base units determined under paragraph (b)(3) of this section.
+
+(c) *Liability for partial cessation of contribution obligation.* The amount of an employer's liability under section 4206(a) (relating to the calculation of liability for a partial withdrawal) and section 4219(c)(1) (relating to the amount of the annual partial withdrawal liability payments) of ERISA, for a subsequent partial withdrawal described in section 4205(a)(2) of ERISA (relating to a partial cessation of the contribution obligation) shall be modified in accordance with the rules in this paragraph. For purposes of sections 4206(a)(2)(B)(i) and 4219(c)(1)(E)(ii) of ERISA, if the five plan years immediately preceding the plan year in which the partial withdrawal occurs include a plan year during the period of withdrawal, the denominator of the fraction described in section 4206(a)(2) shall be determined in accordance with the rule set forth in paragraph (b)(3) of this section.

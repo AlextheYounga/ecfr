@@ -1,0 +1,3 @@
+##### § 6.5 Effective date of adjustments for inflation. #####
+
+The adjustments for inflation made by § 6.4, of the civil monetary penalties there specified, are effective on July 7, 2016, and said civil monetary penalties, as thus adjusted by the adjustments for inflation made by § 6.4, apply only to those civil monetary penalties, including those whose associated violation predated such adjustment, which are assessed by Commerce Department after the effective date of the new civil monetary penalty level, and before the effective date of any future adjustments for inflation to civil monetary penalties thereto made subsequent to July 7, 2016 as provided in § 6.6.

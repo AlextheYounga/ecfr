@@ -1,0 +1,9 @@
+##### § 201.41 Public inspection and copying of records; applicable fees. #####
+
+(a) The Secretary shall promptly make available to interested members of the public the transcript or electronic recording of the discussion of any item on the agenda of a Commission meeting or of any item of the testimony of any witness received at the meeting, except for such item or items of such discussion or testimony as the Secretary determines to contain information which may be withheld for reasons specified in paragraphs (b) (1) through (9) of § 201.36. The determination of the Secretary shall be in conformity with a prior vote of the Commission under § 201.36(d) to close a portion or portions of a meeting.
+
+(b) Public inspection of electronic recordings, transcripts, or minutes of Commission meetings shall take place at the United States International Trade Commission, 500 E Street SW., Washington, DC 20436. A room is designated by the Office of the Secretary and tape recorders with earphones are provided by the Commission for public-inspection purposes when proceedings are recorded on tape.
+
+(c)(1) The Secretary shall provide any person with copies of transcripts, minutes of Commission meetings, or transcriptions of electronic recordings of Commission meetings, which disclose the identity of each speaker, at the actual cost of transcription or duplication.
+
+(2) The Secretary shall not include items of discussion or testimony determined by the Secretary to contain information which may be withheld from the public for the reasons specified in paragraphs (b) (1) through (9) of § 201.36 in the copies furnished to the public in accordance with paragraph (c)(1) of this section. The determination of the Secretary shall be in conformity with a prior vote of the Commission under § 201.36(d) to close a portion or portions of a meeting.

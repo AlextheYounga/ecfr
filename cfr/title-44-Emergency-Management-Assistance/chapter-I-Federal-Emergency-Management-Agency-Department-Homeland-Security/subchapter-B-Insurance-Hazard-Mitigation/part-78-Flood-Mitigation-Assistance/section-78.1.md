@@ -1,0 +1,7 @@
+##### § 78.1 Purpose. #####
+
+(a) The purpose of this part is to prescribe actions, procedures, and requirements for administration of the Flood Mitigation Assistance (FMA) program, authorized by Sections 1366 and 1367 of the National Flood Insurance Act of 1968, 42 U.S.C. 4104c and 4104d. The rules in this part apply to the administration of funds awarded under the FMA program for which the application period opened prior to December 3, 2007. On or after that date, the administration of funds awarded under FMA program shall be subject to the rules in part 79 of this subchapter.
+
+(b) The purpose of FMA is to assist State and local governments in funding cost-effective actions that reduce or eliminate the long-term risk of flood damage to buildings, manufactured homes, and other insured structures. The long-term goal of FMA is to reduce or eliminate claims under the National Flood Insurance Program (NFIP) through mitigation activities. The program provides cost-shared grants for three purposes: Planning Grants to States and communities to assess the flood risk and identify actions to reduce that risk; Project Grants to execute measures to reduce flood losses; and Technical Assistance Grants that States may use to assist communities to develop viable FMA applications and implement FMA projects. FMA also outlines a process for development and approval of Flood Mitigation Plans.
+
+[62 FR 13347, Mar. 20, 1997, as amended at 72 FR 61552, 61738, Oct. 31, 2007]

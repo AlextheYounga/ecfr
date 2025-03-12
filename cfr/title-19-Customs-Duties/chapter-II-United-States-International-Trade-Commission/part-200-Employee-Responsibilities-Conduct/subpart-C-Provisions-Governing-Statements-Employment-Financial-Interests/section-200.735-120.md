@@ -1,0 +1,3 @@
+##### § 200.735-120 Information prohibited. #####
+
+An employee is not required to submit in a statement of employment and financial interests or supplementary statement any information relating to the employee's connection with, or interest in, a professional society or a charitable, religious, social, fraternal, recreational, public service, civic, or political organization or similar organization not conducted as a business enterprise. For the purpose of this section, educational and other institutions doing research and development or related work involving grants of money from, or contracts with, the Government are deemed *business enterprises* and are required to be included in an employee's statement of employment and financial interests.

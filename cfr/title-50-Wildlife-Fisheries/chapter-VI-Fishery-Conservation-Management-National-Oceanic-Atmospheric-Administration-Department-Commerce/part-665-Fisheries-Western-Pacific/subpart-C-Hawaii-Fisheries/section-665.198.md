@@ -1,0 +1,3 @@
+##### § 665.198 Management area. #####
+
+The Hawaii fishery management area is the EEZ seaward of the State of Hawaii, including the Main Hawaiian Islands (MHI) and Northwestern Hawaiian Islands (NWHI), with the inner boundary a line coterminous with the seaward boundaries of the State of Hawaii and the outer boundary a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured.

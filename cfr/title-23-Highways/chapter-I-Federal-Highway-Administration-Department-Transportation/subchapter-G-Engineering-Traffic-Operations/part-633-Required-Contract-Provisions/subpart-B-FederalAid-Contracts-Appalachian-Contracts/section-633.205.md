@@ -1,0 +1,5 @@
+##### § 633.205 Prefinancing. #####
+
+(a) Under the provisions of subsection 201(h) of the Act, projects located on the Appalachian Development Highway System including preliminary engineering, right-of-way, and/or construction may be programed and advanced with interim State financing.
+
+(b) Program approvals, plans, specifications, and estimates (PS&E) approval, authorizations to proceed, concurrence in award of contracts, and all other notifications to the State of advancement of a project shall include the statement, “There is no commitment or obligation on the part of the United States to provide funds for this highway improvement. However, this project is eligible for Federal reimbursement when sufficient funds are available from the amounts allocated by the Appalachian Regional Commission.”

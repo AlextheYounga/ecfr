@@ -1,0 +1,5 @@
+##### § 270.8 Nomination and appointment of Council members. #####
+
+(a) Within 30 days after a Council is established, NMFS will solicit nominations for Council members from the sectors represented on the Council in accordance with the approved charter. If the harvesters and receivers represented on the Council are engaged in business in two or more states, but within the geographic area of the Council, the nominations made under this section must, to the extent practicable, result in equitable representation for those states. Nominees must be knowledgeable and experienced with regard to the activities of, or have been actively engaged in the business of, the sector that such person will represent on the Council. Therefore, a resume will be required for each nominee.
+
+(b) In accordance with 16 U.S.C. 4009(f), NMFS will, within 60 days after the end of the 30-day period, appoint the members of the Council from among the nominees.

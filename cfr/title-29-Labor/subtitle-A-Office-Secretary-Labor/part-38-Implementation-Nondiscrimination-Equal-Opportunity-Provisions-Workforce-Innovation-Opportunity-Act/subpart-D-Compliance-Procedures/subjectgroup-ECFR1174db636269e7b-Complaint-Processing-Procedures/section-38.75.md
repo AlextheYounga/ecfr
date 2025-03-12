@@ -1,0 +1,3 @@
+##### § 38.75 If the complainant is dissatisfied after receiving a Notice of Final Action. #####
+
+If the recipient issues its Notice of Final Action before the 90-day period ends, but the complainant is dissatisfied with the recipient's decision on the complaint, the complainant or the complainant's representative may file a complaint with the Director within 30 days after the date on which the complainant receives the Notice.

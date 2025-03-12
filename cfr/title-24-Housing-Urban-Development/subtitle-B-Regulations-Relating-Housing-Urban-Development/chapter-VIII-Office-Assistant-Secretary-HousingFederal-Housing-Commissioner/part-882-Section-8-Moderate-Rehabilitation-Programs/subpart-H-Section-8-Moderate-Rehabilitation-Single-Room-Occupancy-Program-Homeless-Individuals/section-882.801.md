@@ -1,0 +1,3 @@
+##### § 882.801 Purpose. #####
+
+The purpose of the Section 8 Moderate Rehabilitation Program for Single Room Occupancy (SRO) Dwellings for Homeless Individuals is to provide rental assistance for homeless individuals in rehabilitated SRO housing. The Section 8 assistance is in the form of rental assistance payments. These payments equal the rent for the unit, including utilities, minus the portion of the rent payable by the tenant under the U.S. Housing Act of 1937 (42 U.S.C. 1437 *et seq.*).

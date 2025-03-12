@@ -1,0 +1,18 @@
+##### § 191.73 Export summary procedure. #####
+
+(a) *General.* The export summary procedure consists of a Chronological Summary of Exports used to support a drawback claim. It may be submitted as part of the claim in lieu of actual documentary evidence of exportation. It may be used by any claimant for manufacturing drawback, and for unused or rejected merchandise drawback, as well as for drawback involving the substitution of finished petroleum derivatives (19 U.S.C. 1313(a), (b), (c), (j), or (p)). It is intended to improve administrative efficiency.
+
+(b) *Format of Chronological Summary of Exports.* The Chronological Summary of Exports shall contain the data provided for in the following sample:
+
+Chronological Summary of ExportsDrawback entry No. \_\_\_\_\_\_\_\_.Claimant \_\_\_\_\_\_\_\_; Exporter \_\_\_\_\_\_\_\_ (if different from claimant)Period from \_\_\_\_\_\_\_\_ to \_\_\_\_\_\_\_\_.
+
+|                                                                                                                                                          Date of export                                                                                                                                                           |Exporter if not claimant|Unique export identifier <sup>1</sup>|Description|Net quantity|Sched. B com. # or HTSUS #|Destination|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------|-----------|------------|--------------------------|-----------|
+|                                                                                                                                                                (1)                                                                                                                                                                |          (2)           |                 (3)                 |    (4)    |    (5)     |           (6)            |    (7)    |
+|<sup>1</sup> This number is to be used to associate the export transaction presented on the Chronological Summary of Exports to the appropriate documentary evidence of exportation (for example, Bill of Lading, Manifest no., invoice, identification of vessel or aircraft and voyage or aircraft number (see subpart K), etc.).|                        |                                     |           |            |                          |           |
+
+(c) *Documentary evidence*—(1) *Records.* The claimant, whether or not the exporter, shall maintain the Chronological Summary of Exports and such additional evidence of exportation required by Customs to establish fully the identity of the exported articles and the fact of exportation. Actual evidence of exportation, as described in § 191.72(a) of this subpart, is the primary evidence of export for drawback purposes.
+
+(2) *Maintenance of records.* The claimant shall submit as part of the claim the Chronological Summary of Exports (see § 191.51). The claimant shall retain records supporting the Chronological Summary of Exports for 3 years after payment of the related claim, and such records are subject to review by Customs.
+
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998; 63 FR 15289, Mar. 31, 1998]

@@ -1,0 +1,11 @@
+##### § 884.120 Responsibility for contract administration and defaults (private-owner/PHA projects). #####
+
+(a) *Contract administration.* The PHA is primarily responsible for administration of the Contract, subject to review and audit by HUD.
+
+(b) *Defaults by PHA and/or owner.* (1) The ACC and the Contract shall contain a provision to the effect that in the event of failure of the PHA to comply with the Contract with the Owner, the Owner shall have the right, if he is not in default, to demand that HUD determine, after notice to the PHA giving it a reasonable opportunity to take corrective action, whether a substantial default exists, and if HUD determines that such a default exists, that HUD assure that the obligations of the PHA to the Owner are carried out.
+
+(2) The ACC shall contain a provision to the effect that if the PHA fails to comply with any of its obligations (including specifically failure to enforce its rights under the Contract, in the event of any default by the Owner, to achieve compliance to the satisfaction of HUD or to terminate the Contract in whole or in part, as directed by HUD), HUD may, after notice to the PHA giving it a reasonable opportunity to take corrective action, determine that there is a substantial default and require the PHA to assign to HUD all of the PHA's rights and interests under the Contract. In such case, HUD will continue to pay annual contributions in accordance with the terms of the ACC and the Contract.
+
+(3) The Contract shall contain a provision to the effect (i) that if the PHA determines that the Owner is in default under the Contract, the PHA shall notify the Owner, with a copy to HUD and RHCDS, of the actions required to be taken to cure the default and of the remedies to be applied by the PHA including abatement of housing assistance payments and recovery of overpayments, where appropriate; and (ii) that if he fails to cure the default, the PHA has the right to terminate the Contract or to take other corrective action, in its discretion or as directed by HUD.
+
+[41 FR 47168, Oct. 27, 1976, as amended at 61 FR 13593, Mar. 27, 1996]

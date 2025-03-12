@@ -1,0 +1,3 @@
+##### § 636.118 Is team switching allowed after contract award? #####
+
+Where the offeror's qualifications are a major factor in the selection of the successful design-builder, team member switching (adding or switching team members) is discouraged after contract award. However, the owner may use its discretion in reviewing team changes or team enhancement requests on a case-by-case basis. Specific project rules related to changes in team members or changes in personnel within teams should be explicitly stated by the STD in all project solicitations.

@@ -1,0 +1,3 @@
+##### § 780.704 Dependence of exemption on nature of employing establishment. #####
+
+If an employee is to be exempt under section 13(b)(14), he must be employed by an “establishment” which is “commonly recognized as a country elevator.” If he is employed by such an establishment, the fact that it may be part of a larger enterprise which also engages in activities that are not recognized as those of country elevators (see *Tobin* v. *Flour Mills,* 185 F. 2d 596) would not make the exemption inapplicable.

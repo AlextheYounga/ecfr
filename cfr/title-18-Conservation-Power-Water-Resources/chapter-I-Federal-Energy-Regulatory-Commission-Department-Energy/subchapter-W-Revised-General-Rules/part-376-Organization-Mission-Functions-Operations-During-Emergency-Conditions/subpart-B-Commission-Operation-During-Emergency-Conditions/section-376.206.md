@@ -1,0 +1,5 @@
+##### § 376.206 Delegation of functions of certain Commission staff members. #####
+
+When, by reason of emergency conditions, the Secretary, Director of any Office or Division, or officer in charge of a regional office, is not available and capable of carrying out his or her functions, such functions are delegated to staff members designated by the Chairman to perform such functions. If no staff member so designated is available and capable of carrying out their functions, such functions are delegated to the next subordinate employee in the Office or Division of the highest grade and longest period of service in that grade. If no subordinate employee of the Office or Division is available and capable of carrying out their functions, such functions are delegated to the Commission employee of the highest grade and longest period of service in that grade who is available and capable of carrying out their functions.
+
+[Order 680, 71 FR 42595, July 27, 2006]

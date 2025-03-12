@@ -1,0 +1,5 @@
+##### § 3b.1 Purpose. #####
+
+Part 3b describes the Federal Energy Regulatory Commission's program to implement the provisions of the Privacy Act of 1974 (Pub. L. No. 93-579, 88 Stat. 1896) to allow individuals to have a say in the collection and use of information which may be used in determinations affecting them. The program is structured to permit an individual to determine what records pertaining to him and filed under his individual name, or some other identifying particular, are collected, maintained, used or disseminated by the Commission, to permit him access to such records, and to correct or amend them, and to provide that the Commission collect, use, maintain and disseminate such information in a lawful manner for a necessary purpose.
+
+[Order 536, 40 FR 44288, Sept. 25, 1975, as amended by Order 737, 75 FR 43402, July 26, 2010]

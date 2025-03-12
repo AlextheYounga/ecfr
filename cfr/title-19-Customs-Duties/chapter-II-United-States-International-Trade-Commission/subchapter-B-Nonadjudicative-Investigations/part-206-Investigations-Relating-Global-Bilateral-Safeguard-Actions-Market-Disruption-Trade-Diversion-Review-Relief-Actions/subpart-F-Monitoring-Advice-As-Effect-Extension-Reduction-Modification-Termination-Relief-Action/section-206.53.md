@@ -1,0 +1,3 @@
+##### § 206.53 Investigations to advise the President as to the probable economic effect of reduction, modification, or termination of action. #####
+
+Upon the request of the President, the Commission will conduct an investigation for the purpose of gathering information in order that it might advise the President of its judgment as to the probable economic effect on the industry concerned of any reduction, modification, or termination of the action taken under section 203 of the Trade Act which is under consideration.

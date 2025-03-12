@@ -1,0 +1,9 @@
+##### § 636.205 Can past performance be used as an evaluation criteria? #####
+
+(a) Yes, past performance information is one indicator of an offeror's ability to perform the contract successfully. Past performance information may be used as an evaluation criteria in either phase-one or phase-two solicitations. If you elect to use past performance criteria, the currency and relevance of the information, source of the information, context of the data, and general trends in contractor's performance may be considered.
+
+(b) Describe your approach for evaluating past performance in the solicitation, including your policy for evaluating offerors with no relevant performance history. You should provide offerors an opportunity to identify past or current contracts (including Federal, State, and local government and private) for efforts similar to the current solicitation.
+
+(c) If you elect to request past performance information, the solicitation should also authorize offerors to provide information on problems encountered on the identified contracts and the offeror's corrective actions. You may consider this information, as well as information obtained from any other sources, when evaluating the offeror's past performance. You may use your discretion in determining the relevance of similar past performance information.
+
+(d) The evaluation should take into account past performance information regarding predecessor companies, key personnel who have relevant experience, or subcontractors that will perform major or critical aspects of the requirement when such information is relevant to the current acquisition.

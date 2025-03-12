@@ -1,0 +1,15 @@
+##### § 930.154 Listing activities subject to routine interstate consistency review. #####
+
+(a) *Geographic location of listed activities.* Each coastal State intending to conduct a consistency review of federal activities occurring in another State shall:
+
+(1) List those Federal agency activities, federal license or permit activities, and federal assistance activities that the State intends to routinely review for consistency; and
+
+(2) Generally describe the geographic location for each type of listed activity.
+
+(b) In establishing the geographic location of interstate consistency review, each State must notify and consult with the State in which the listed activity will occur, as well as with relevant Federal agencies.
+
+(c) *Demonstrate effects.* In describing the geographic location for interstate consistency reviews, the State agency shall provide information to the Director that coastal effects from listed activities occurring within the geographic area are reasonably foreseeable. Listed activities may have different geographic location descriptions, depending on the nature of the activity and its effects on any coastal use or resource. For example, the geographic location for activities affecting water resources or uses could be described by shared water bodies, river basins, boundaries under the State's coastal nonpoint pollution control program, or other ecologically identifiable areas.
+
+(d) *Director approval.* State agencies shall submit their lists and geographic location descriptions developed under this section to the Director for approval as a routine program change under subpart H of 15 CFR part 923. Each State submitting this program change shall include evidence of consultation with States in which the activity will occur, evidence of consultation with relevant Federal agencies, and any agreements with other States and Federal agencies regarding coordination of activities.
+
+(e) *State failure to list interstate activities.* A coastal State that fails to list federal activities subject to interstate review, or to describe the geographic location for these activities, under paragraphs (a) through (d) of this section, may not exercise its right to review activities occurring in other States, until the State meets the listing requirements. The listing of activities subject to interstate consistency review, and the description of the geographic location for those listed activities, should ensure that coastal States have the opportunity to review relevant activities occurring in other States. States may amend their lists and geographic location descriptions pursuant to the requirements of this subpart and subpart H of 15 CFR part 923. States which have complied with paragraphs (a) through (d) of this section may also use the procedure at § 930.54 to review unlisted activities. States will have a transition period of 18 months from the date this rule takes effect. In that time a State may review an interstate activity pursuant to § 930.54 of this part. After the transition period States must comply with this subpart in order to review interstate activities.

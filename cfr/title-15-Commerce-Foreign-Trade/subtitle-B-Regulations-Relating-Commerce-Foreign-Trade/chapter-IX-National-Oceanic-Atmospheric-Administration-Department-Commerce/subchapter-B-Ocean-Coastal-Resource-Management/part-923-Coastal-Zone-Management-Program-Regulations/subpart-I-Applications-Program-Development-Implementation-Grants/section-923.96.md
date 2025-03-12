@@ -1,0 +1,5 @@
+##### § 923.96 Grant amendments. #####
+
+(a) Actions that require an amendment to a grant award such as a request for additional Federal funds, changes in the amount of the non-Federal share, changes in the approved project budget as specified in 15 CFR part 24, or extension of the grant period must be submitted to the Assistant Administrator and approved in writing by the NOAA Grants Officer prior to initiation of the contemplated change. Such requests should be submitted at least 30 days prior to the proposed effective date of the change and, if appropriate, accompanied by evidence of compliance with E.O. 12372 requirements.
+
+(b) NOAA shall acknowledge receipt of the grantee's request within the ten (10) working days of receipt of the correspondence. This notification shall indicate NOAA's decision regarding the request; or indicate a time-frame within which a decision will be made.

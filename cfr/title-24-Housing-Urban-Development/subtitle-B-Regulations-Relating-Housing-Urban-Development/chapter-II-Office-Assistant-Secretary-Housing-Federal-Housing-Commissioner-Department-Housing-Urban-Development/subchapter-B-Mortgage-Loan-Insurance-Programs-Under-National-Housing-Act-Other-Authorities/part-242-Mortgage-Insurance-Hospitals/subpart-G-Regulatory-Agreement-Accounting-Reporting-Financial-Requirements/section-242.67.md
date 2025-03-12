@@ -1,0 +1,3 @@
+##### § 242.67 New corporations, subsidiaries, affiliations, and mergers. #####
+
+The mortgagor shall not establish, develop, organize, acquire, become the sole member of, or acquire an interest sufficient to require disclosure on the audited financial statements of the mortgagor, in any corporation, subsidiary, or affiliate organization other than those with which the mortgagor was affiliated as of date of application, without the prior approval of HUD. The mortgagor shall obtain HUD's written approval for all future mergers.

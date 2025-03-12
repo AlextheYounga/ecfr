@@ -1,0 +1,7 @@
+##### § 1625.6 Bona fide occupational qualifications. #####
+
+(a) Whether occupational qualifications will be deemed to be “bona fide” to a specific job and “reasonably necessary to the normal operation of the particular business,” will be determined on the basis of all the pertinent facts surrounding each particular situation. It is anticipated that this concept of a bona fide occupational qualification will have limited scope and application. Further, as this is an exception to the Act it must be narrowly construed.
+
+(b) An employer asserting a BFOQ defense has the burden of proving that (1) the age limit is reasonably necessary to the essence of the business, and either (2) that all or substantially all individuals excluded from the job involved are in fact disqualified, or (3) that some of the individuals so excluded possess a disqualifying trait that cannot be ascertained except by reference to age. If the employer's objective in asserting a BFOQ is the goal of public safety, the employer must prove that the challenged practice does indeed effectuate that goal and that there is no acceptable alternative which would better advance it or equally advance it with less discriminatory impact.
+
+(c) Many State and local governments have enacted laws or administrative regulations which limit employment opportunities based on age. Unless these laws meet the standards for the establishment of a valid bona fide occupational qualification under section 4(f)(1) of the Act, they will be considered in conflict with and effectively superseded by the ADEA.

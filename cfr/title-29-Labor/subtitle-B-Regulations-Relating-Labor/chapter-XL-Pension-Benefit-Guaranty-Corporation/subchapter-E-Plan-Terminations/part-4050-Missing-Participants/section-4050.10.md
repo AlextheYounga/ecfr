@@ -1,0 +1,27 @@
+##### § 4050.10 Annuity or elective lump sum - beneficiary of deceased missing participant. #####
+
+This section applies to a beneficiary of a deceased missing participant whose designated benefit was determined under § 4050.5(a)(3) (no lump sum) or § 4050.5(a)(4) (elective lump sum) and whose benefit is not payable under § 4050.9.
+
+(a) *If deceased missing participant's benefit was not in pay status as of the deemed distribution date.* The PBGC will pay a benefit with respect to a deceased missing participant whose benefit was not in pay status as of the deemed distribution date as follows.
+
+(1) *General rule.* (i) *Beneficiary.* The PBGC will pay a benefit to the surviving spouse of a missing participant who was a participant (unless the surviving spouse has properly waived a benefit in accordance with section 205 of ERISA).
+
+(ii) *Form and amount of benefit.* The PBGC will pay the survivor benefit in the form of a single life annuity. Each monthly (or other periodic) benefit payment will equal 50 percent of the quotient that results when the unloaded designated benefit is divided by the present value (determined as of the deemed distribution date under the missing participant annuity assumptions, and assuming that the missing participant survived to the deemed distribution date) of a $1 monthly (or other periodic) joint and 50 percent survivor annuity beginning on the annuity starting date, under which reduced payments (at the 50 percent level) are made only after the death of the missing participant during the life of the spouse (and not after the death of the spouse during the missing participant's life).
+
+(iii) *Time of benefit.* The PBGC will pay the survivor benefit beginning at the time elected by the surviving spouse (which may not be before the later of the date of the election or the earliest date on which the surviving spouse could have begun receiving benefits under the plan).
+
+(2) *If missing participant died before deemed distribution date.* Notwithstanding the provisions of paragraph (a)(1) of this section, if a beneficiary of a missing participant who died before the deemed distribution date establishes to the PBGC's satisfaction that he or she is the proper beneficiary or would have received benefits under the plan in a form, at a time, or in an amount different from the benefit paid under paragraph (a)(1)(ii) or (a)(1)(iii) of this section, the PBGC will make payments in accordance with the facts so established, but only in the guaranteed benefit form.
+
+(3) *Elective lump sum.* Notwithstanding the provisions of paragraphs (a)(1) and (a)(2) of this section, if the beneficiary of a missing participant whose designated benefit was determined under § 4050.5(a)(4) (elective lump sum) so elects, the PBGC will pay his or her benefit in the form of a single sum. The single sum will be equal to the actuarial present value (determined as of the deemed distribution date under the missing participant annuity assumptions) of the death benefit payable on the annuity starting date, plus interest (at the designated benefit interest rate) from the deemed distribution date to the date as of which the PBGC pays the benefit.
+
+(b) *If deceased missing participant's benefit was in pay status as of the deemed distribution date.* The PBGC will pay a benefit with respect to a deceased missing participant whose benefit was in pay status as of the deemed distribution date as follows.
+
+(1) *Beneficiary.* The PBGC will pay a benefit to the beneficiary (if any) of the benefit that was in pay status as of the deemed distribution date.
+
+(2) *Form and amount of benefit.* The PBGC will pay a monthly (or other periodic) amount equal to the monthly (or other periodic) amount, if any, that the beneficiary would have received under the form of payment in effect, plus a lump sum payment equal to the payments the beneficiary would have received under the plan after the missing participant's death and before the date as of which the benefit is paid under paragraph (b)(4) of this section, plus interest on the missed payments (at the plan rate up to the deemed distribution date and thereafter at the designated benefit interest rate) to the date as of which the benefit is paid under paragraph (b)(4) of this section.
+
+(3) *Lump sum payment to estate.* The PBGC will make a lump sum payment to the missing participant's estate equal to the payments that the missing participant would have received under the plan for the period before the missing participant's death, plus interest on the missed payments (at the plan rate up to the deemed distribution date and thereafter at the designated benefit interest rate) to the date when the lump sum is paid. Notwithstanding the preceding sentence, if a beneficiary of a missing participant other than the estate establishes to the PBGC's satisfaction that the beneficiary is entitled to the lump sum payment, the PBGC will pay the lump sum to such beneficiary.
+
+(4) *Time of benefit.* The PBGC will pay the survivor benefit beginning when the beneficiary is located.
+
+(5) *Spouse deceased.* If the PBGC locates the estate of the deceased missing participant's spouse under circumstances where a benefit would have been paid under this paragraph (b) if the spouse had been located while alive, the PBGC will pay to the spouse's estate a lump sum payment computed in the same manner as provided for in paragraph (b)(2) of this section based on the period from the missing participant's death to the death of the spouse.

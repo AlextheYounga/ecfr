@@ -1,0 +1,9 @@
+##### § 2011.206 Suspension or revocation of individual certificates. #####
+
+(a) *Suspension or revocation.* The Certifying Authority may suspend, revoke, modify or add limitations to any certificate which has been issued if he or she determines that such action or actions is necessary to ensure the effective operation of the quota for specialty sugars or determines that the importer has failed to comply with the requirements of this subpart.
+
+(b) *Reinstatement.* The Certifying Authority may reinstate or restore any certificate which was previously suspended, revoked, modified or otherwise limited under the authority of this section.
+
+(c) The determination of the Certifying Authority under paragraph (a) that the importer has failed to comply with the requirements of this subpart may be appealed to the Director, Import Policy and Trade Analysis Division, Foreign Agricultural Service (FAS), U.S. Department of Agriculture, Washington, DC 20250, within 30 days from the date of suspension or revocation. The request for reconsideration shall be presented in writing and shall specifically state the reason or reasons why such determination should not stand. The Director shall provide such person with an opportunity for an informal hearing on such matter. A further appeal may be made to the Administrator, FAS, U.S. Department of Agriculture, Washington, DC 20250, within five working days of receipt of the notification of the Director's decision. The Certifying Authority may take action under paragraph (b) during the pendency of any appeal.
+
+[55 FR 40648, Oct. 4, 1990, as amended at 61 FR 26785, May 29, 1996]

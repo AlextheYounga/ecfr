@@ -1,0 +1,9 @@
+##### § 780.305 500 man-day provision. #####
+
+(a) Section 3(u) of the Act defines *man-day* to mean “any day during which an employee performs agricultural labor for not less than 1 hour.” 500 man-days is approximately the equivalent of seven employees employed full-time in a calendar quarter. However, a farmer who hires temporary or part-time employees during part of the year, such as the harvesting season, may exceed the man-day test even though he may have only two or three full-time employees.
+
+(b) All of the employer's employees who are engaged in “agricultural labor” except those specifically excluded by section 3(e) (see § 780.301) and those exempt under section 13(a)(14) (see subpart F of this part) must be counted in determining whether the 500 man-day test is met. This is true even though an employee may be exempt from the monetary provisions under another section of the Act. For example, a general manager of a farm may be an exempt executive employee under section 13(a)(1) or a sheepherder may meet the requirements of section 13(a)(6)(E). Regardless of those exemptions, their man-days of employment would be included in the man-day count of the employer.
+
+(c) A farmer whose crops are harvested by an independent contractor is considered to be a joint employer with the contractor who supplies the harvest hands if the farmer has the power to direct, control or supervise the work, or to determine the pay rates or method of payment for the harvest hands. (See § 780.331.) Each employer must include the contractor's employees in his man-day count in determining whether his own man-day test is met. Each employer will be considered responsible for compliance with the minimum wage and child labor requirements of the Act with respect to the employees who are jointly employed.
+
+[37 FR 12084, June 17, 1972, as amended at 38 FR 27520, Oct. 4, 1973]

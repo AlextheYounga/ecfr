@@ -1,0 +1,5 @@
+##### § 971.419 Environmental protection requirements. #####
+
+(a) Each commercial recovery permit must contain TCRs established by the Administrator pursuant to subpart F which prescribe actions the permittee must take in the conduct of commercial recovery activities to assure protection of the environment. Factors to be taken into account regarding the potential for significant adverse environmental effects are discussed in §§ 971.601 and 971.602.
+
+(b) Before establishing the TCRs pertaining to environmental protection, the Administrator will consult with the Administrator of the Environmental Protection Agency, the Secretary of State and the Secretary of the department in which the Coast Guard is operating. The Administrator also will take into account and give due consideration to formal comments received from the public, including those from the State agency, and to the information contained in the final site-specific EIS prepared with respect to the proposed permit.

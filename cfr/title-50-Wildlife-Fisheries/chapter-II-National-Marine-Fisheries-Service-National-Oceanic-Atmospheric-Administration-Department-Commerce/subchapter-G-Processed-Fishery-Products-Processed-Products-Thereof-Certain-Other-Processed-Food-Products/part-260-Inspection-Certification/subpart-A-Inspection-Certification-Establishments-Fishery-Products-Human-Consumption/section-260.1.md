@@ -1,0 +1,7 @@
+##### § 260.1 Administration of regulations. #####
+
+The Secretary of Commerce is charged with the administration of the regulations in this part except that he may delegate any or all of such functions to any officer or employee of the National Marine Fisheries Service of the Department in his discretion.1
+
+1 All functions of the Department of Agriculture which pertain to fish, shellfish, and any products thereof, now performed under the authority of title II of the Act of August 14, 1946, popularly known as the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621-1627) including but not limited to the development and promulgation of grade standards, the inspection and certification, and improvement of transportation facilities and rates for fish and shellfish and any products thereof, were transferred to the Department of the Interior by the Director of the Budget (23 FR 2304) pursuant to section 6(a) of the Act of Aug. 8, 1956, popularly known as the Fish and Wildlife Act of 1956 (16 U.S.C. 742e). Reorganization Plan No. 4 of 1970 (84 Stat. 2090) transferred, among other things, such functions from the U.S. Department of the Interior to the U.S. Department of Commerce.
+
+[36 FR 21037, Nov. 3, 1971]

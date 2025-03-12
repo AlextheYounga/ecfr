@@ -1,0 +1,15 @@
+##### § 0.1 Customs revenue function regulations issued under the authority of the Departments of the Treasury and Homeland Security. #####
+
+(a) *Regulations requiring signatures of Treasury and Homeland Security.* (1) By Treasury Department Order No. 100-16, set forth in the appendix to this part, the Secretary of the Treasury has delegated to the Secretary of Homeland Security the authority to prescribe all CBP regulations relating to customs revenue functions, except that the Secretary of the Treasury retains the sole authority to approve such CBP regulations concerning subject matters listed in paragraph 1(a)(i) of the order. Regulations for which the Secretary of the Treasury retains the sole authority to approve will be signed by the Secretary of Homeland Security (or his or her DHS delegate), and by the Secretary of the Treasury (or his or her Treasury delegate) to indicate approval.
+
+(2) When a regulation described in paragraph (a)(1) of this section is published in the Federal Register, the preamble of the document accompanying the regulation will clearly indicate that it is being issued in accordance with paragraph (a)(1) of this section.
+
+(b) *Regulations with respect to which the Department of Homeland Security is authorized to sign for the Department of the Treasury.* (1) By Treasury Department Order No. 100-16, set forth in the appendix to this part, the Secretary of the Treasury delegated to the Secretary of Homeland Security the authority to prescribe and approve regulations relating to customs revenue functions on behalf of the Secretary of the Treasury when the subject matter of the regulations is not listed in paragraph 1(a)(i) of the order. Such regulations are the official regulations of both Departments notwithstanding that they are not signed by an official of the Department of the Treasury. These regulations will be signed by the Secretary of Homeland Security (or his or her DHS delegate).
+
+(2) When a regulation described in paragraph (b)(1) of this section is published in the Federal Register, the preamble of the document accompanying the regulation will clearly indicate that it is being issued in accordance with paragraph (b)(1) of this section.
+
+(c) *Sole signature by Secretary of the Treasury.* (1) Pursuant to Treasury Department Order No. 100-16, set forth in the appendix to this part, the Secretary of the Treasury reserves the right to promulgate regulations related to the customs revenue functions. Such regulations are signed by the Secretary of the Treasury (or his or her delegate) after consultation with the Secretary of Homeland Security (or his or her delegate), and are the official regulations of both Departments.
+
+(2) When a regulation described in paragraph (c)(1) of this section is published in the Federal Register, the preamble of the document accompanying the regulation will clearly indicate that the regulation is being issued in accordance with paragraph (c)(1) of this section.
+
+[CBP Dec. 03-24, 68 FR 51869, Aug. 28, 2003, as amended at CBP Dec. 08-25, 73 FR 40724, July 16, 2008]

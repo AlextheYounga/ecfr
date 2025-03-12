@@ -1,0 +1,5 @@
+##### § 730.3 “Dual use” and other types of items subject to the EAR. #####
+
+The term “dual use” is often used to describe the types of items subject to the EAR. A “dual-use” item is one that has civil applications as well as terrorism and military or weapons of mass destruction (WMD)-related applications. The precise description of what is “subject to the EAR” is in § 734.3, which does not limit the EAR to controlling only dual-use items. In essence, the EAR control any item warranting control that is not exclusively controlled for export, reexport, or transfer (in-country) by another agency of the U.S. Government or otherwise excluded from being subject to the EAR pursuant to § 734.3(b) of the EAR. Thus, items subject to the EAR include purely civilian items, items with both civil and military, terrorism or potential WMD-related applications, and items that are exclusively used for military applications but that do not warrant control under the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120 *et seq.*).
+
+[78 FR 22705, Apr. 16, 2013]

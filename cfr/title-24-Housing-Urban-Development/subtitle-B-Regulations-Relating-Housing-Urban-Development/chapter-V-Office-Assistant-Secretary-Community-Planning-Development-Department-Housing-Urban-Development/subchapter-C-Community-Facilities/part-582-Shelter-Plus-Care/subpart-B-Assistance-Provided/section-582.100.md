@@ -1,0 +1,17 @@
+##### § 582.100 Program component descriptions. #####
+
+(a) *Tenant-based rental assistance (TRA).* Tenant-based rental assistance provides grants for rental assistance which permit participants to choose housing of an appropriate size in which to reside. Participants retain the rental assistance if they move. Where necessary to facilitate the coordination of supportive services, grant recipients may require participants to live in a specific area for their entire period of participation or in a specific structure for the first year and in a specific area for the remainder of their period of participation. Recipients may not define the area in a way that violates the Fair Housing Act or the Rehabilitation Act of 1973. The term of the grant between HUD and the grant recipient for TRA is five years.
+
+(b) *Project-based rental assistance (PRA).* Project-based rental assistance provides grants for rental assistance to the owner of an existing structure, where the owner agrees to lease the subsidized units to participants. Participants do not retain rental assistance if they move. Rental subsidies are provided to the owner for a period of either five or ten years. To qualify for ten years of rental subsidies, the owner must complete at least $3,000 of eligible rehabilitation for each unit (including the unit's prorated share of work to be accomplished on common areas or systems), to make the structure decent, safe and sanitary. This rehabilitation must be completed with in 12 months of the grant award.
+
+(c) *Sponsor-based rental assistance (SRA).* Sponsor-based rental assistance provides grants for rental assistance through contracts between the grant recipient and sponsor organizations. A sponsor may be a private, nonprofit organization or a community mental health agency established as a public nonprofit organization. Participants reside in housing owned or leased by the sponsor. The term of the grant between HUD and the grant recipient for SRA is five years.
+
+(d) *Moderate rehabilitation for single room occupancy dwellings (SRO).* (1) The SRO component provides grants for rental assistance in connection with the moderate rehabilitation of single room occupancy housing units. Resources to initially fund the cost of rehabilitating the dwellings must be obtained from other sources. However, the rental assistance covers operating expenses of the rehabilitated SRO units occupied by homeless persons, including debt service to retire the cost of the moderate rehabilitation over a ten-year period.
+
+(2) SRO housing must be in need of moderate rehabilitation and must meet the requirements of 24 CFR 882.803(a). Costs associated with rehabilitation of common areas may be included in the calculation of the cost for assisted units based on the proportion of the number of units to be assisted under this part to the total number of units.
+
+(3) SRO assistance may also be used for efficiency units selected for rehabilitation under this program, but the gross rent (contract rent plus any utility allowance) for those units will be no higher than for SRO units (i.e., 75 percent of the 0-bedroom Moderate Rehabilitation Fair Market Rent).
+
+(4) The requirements regarding maintenance, operation, and inspections described in 24 CFR 882.806(b)(4) and 882.808(n) must be met.
+
+(5) *Governing regulations.* Except where there is a conflict with any requirement under this part or where specifically provided, the SRO component will be governed by the regulations set forth in 24 CFR part 882, subpart H.

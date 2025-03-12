@@ -1,0 +1,3 @@
+##### § 12.5 Seizure by other agencies. #####
+
+Any authorized employee or officer of any other Federal agency who has seized any wildlife or other property under any of the laws listed in § 12.2 will, if so requested, deliver such seizure to the appropriate Special Agent in Charge designated in § 10.22 of this title, or to an authorized designee, who shall either hold such seized wildlife or other property or arrange for its proper handling and care.

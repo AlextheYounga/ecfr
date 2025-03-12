@@ -1,0 +1,5 @@
+##### § 4.26 Special procedures: Medical records. #####
+
+When a request for access involves medical or psychological records, the records will be reviewed by the Department's medical officer for a determination on whether disclosure would be harmful to the individual to whom they relate. If it is determined that disclosure would be harmful, the Department may refuse to disclose the records directly to the requester but shall transmit them to a doctor authorized in writing by the individual to whom the records relate to receive the documents. If an individual refuses to provide written authorization to release his or her medical records to a doctor, barring any applicable exemption, the Department shall give the individual access to his or her records by means of a copy, provided without cost to the requester, sent registered mail, return receipt requested.
+
+[79 FR 62564, Oct. 20, 2014]

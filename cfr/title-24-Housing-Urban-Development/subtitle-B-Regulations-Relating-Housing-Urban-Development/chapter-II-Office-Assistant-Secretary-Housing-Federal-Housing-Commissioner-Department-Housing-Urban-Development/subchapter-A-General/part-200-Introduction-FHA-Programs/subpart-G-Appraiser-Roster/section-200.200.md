@@ -1,0 +1,5 @@
+##### § 200.200 What is the Appraiser Roster? #####
+
+(a) *Appraiser Roster.* HUD maintains a list of appraisers. A mortgagee must select only an appraiser from this list for the appraisal of a property that is to be the security for an FHA-insured single family mortgage.
+
+(b) *Disclaimer.* Since an appraisal is performed to determine the maximum insurable mortgage and to also protect the FHA insurance funds, the inclusion of an appraiser on the Appraiser Roster does not create or imply a warranty or endorsement to a prospective homebuyer or to any other organization or individual by HUD of the listed appraiser nor does it represent a warranty of any appraisal performed by the listed appraiser. The inclusion of an appraiser on the Appraiser Roster means only that a listed appraiser has met the qualifications and conditions, prescribed by the Secretary, for inclusion on the Appraiser Roster.

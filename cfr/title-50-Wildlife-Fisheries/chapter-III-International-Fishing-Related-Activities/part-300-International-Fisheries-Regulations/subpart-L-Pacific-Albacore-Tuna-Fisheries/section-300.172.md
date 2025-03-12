@@ -1,0 +1,5 @@
+##### § 300.172 Vessel list. #####
+
+The “vessel list” is the list of U.S. vessels that are authorized to fish under the Treaty as amended in 2002. Only a vessel on the list for at least 7 days may engage in fishing in Canadian waters under the Treaty as amended in 2002. The owner of any U.S. vessel that wishes to be eligible to fish for albacore tuna under the Treaty as amended in 2002 must provide the Regional Administrator or his designee with the vessel name, the owner's name and address, phone number where the owner can be reached, the USCG documentation number (or state registration number if not documented), and vessel operator (if different from the owner) and his or her address and phone number. On the date that NMFS receives a request that includes all the required information, NMFS will place the vessel on the annual vessel list. NMFS will notify fishermen by a confirmation letter or email of the date the vessel was placed on the list. Because the vessel list will revert to zero vessels on December 31 of each year, the required information must be provided in the manner specified on an annual basis.
+
+[72 FR 19123, Apr. 17, 2007]

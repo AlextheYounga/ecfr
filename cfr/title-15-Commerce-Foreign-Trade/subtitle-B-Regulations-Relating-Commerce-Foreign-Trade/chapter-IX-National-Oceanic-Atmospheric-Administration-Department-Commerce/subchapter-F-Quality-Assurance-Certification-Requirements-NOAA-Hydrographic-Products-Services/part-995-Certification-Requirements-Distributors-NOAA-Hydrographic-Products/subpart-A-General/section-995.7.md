@@ -1,0 +1,3 @@
+##### § 995.7 Liability. #####
+
+Distributors and value added distributors certified under this part shall indemnify and hold harmless the U.S. Government for any loss, claim, damage, or liability of any kind, the extent caused by the negligence of certified distributors or value added distributors or their employees, arising out of the use by a distributor or value added distributor, or any party acting on its behalf or under its authorization, of NOAA data.

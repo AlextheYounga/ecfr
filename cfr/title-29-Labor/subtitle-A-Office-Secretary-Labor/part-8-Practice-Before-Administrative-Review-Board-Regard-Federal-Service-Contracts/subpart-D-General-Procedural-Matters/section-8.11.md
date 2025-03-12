@@ -1,0 +1,5 @@
+##### § 8.11 Presentations of other interested persons. #####
+
+(a) Where a petition has been filed for review of a wage determination or other final decision of the Administrator or authorized representative, the Board shall notify the parties known or believed to be interested in the case. The Associate Solicitor and any other parties interested in presenting their views shall file a statement within 30 days of the filing of the petition (or such other time as is specified by the Board, with consideration of procurement deadlines, as appropriate).
+
+(b) Where a petition has been filed for review of a decision issued pursuant to subparts B, D or E of part 6 of this title, any other parties to the proceeding interested in presenting their views shall file a statement within 30 days of the filing of the petition (or such other time as is specified by the Board, with consideration of procurement deadlines, as appropriate).

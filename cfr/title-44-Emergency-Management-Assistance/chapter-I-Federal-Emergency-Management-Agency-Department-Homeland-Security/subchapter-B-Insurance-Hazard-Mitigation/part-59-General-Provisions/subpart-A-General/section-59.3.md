@@ -1,0 +1,5 @@
+##### § 59.3 Emergency program. #####
+
+The 1968 Act required a risk study to be undertaken for each community before it could become eligible for the sale of flood insurance. Since this requirement resulted in a delay in providing insurance, the Congress, in section 408 of the Housing and Urban Development Act of 1969 (Pub. L. 91-152, December 24, 1969), established an Emergency Flood Insurance Program as a new section 1336 of the National Flood Insurance Act (42 U.S.C. 4056) to permit the early sale of insurance in flood-prone communities. The emergency program does not affect the requirement that a community must adopt adequate flood plain management regulations pursuant to part 60 of this subchapter but permits insurance to be sold before a study is conducted to determine risk premium rates for the community. The program still requires upon the effective date of a FIRM the charging of risk premium rates for all new construction and substantial improvements and for higher limits of coverage for existing structures.
+
+[43 FR 7140, Feb. 17, 1978. Redesignated at 44 FR 31177, May 31, 1979, and amended at 48 FR 44543, Sept. 29, 1983]

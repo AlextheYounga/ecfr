@@ -1,0 +1,3 @@
+##### § 891.145 Owner deposit (Minimum Capital Investment). #####
+
+As a Minimum Capital Investment, the Owner must deposit in a special escrow account one-half of one percent (0.5%) of the HUD-approved capital advance, not to exceed $10,000, to assure the Owner's commitment to the housing. Under the Section 202 Program, if an Owner has a National Sponsor or a National Co-Sponsor, the Minimum Capital Investment shall be one-half of one percent (0.5%) of the HUD-approved capital advance, not to exceed $25,000.

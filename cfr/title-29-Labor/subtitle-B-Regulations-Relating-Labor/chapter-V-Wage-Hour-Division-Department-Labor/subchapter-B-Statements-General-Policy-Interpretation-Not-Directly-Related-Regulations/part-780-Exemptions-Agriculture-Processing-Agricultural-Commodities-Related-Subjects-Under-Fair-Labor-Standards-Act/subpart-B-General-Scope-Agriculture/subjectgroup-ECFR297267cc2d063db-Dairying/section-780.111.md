@@ -1,0 +1,3 @@
+##### § 780.111 “Dairying” as a farming operation. #####
+
+“Dairying” includes the work of caring for and milking cows or goats. It also includes putting the milk in containers, cooling it, and storing it where done on the farm. The handling of milk and cream at receiving stations is not included. Such operations as separating cream from milk, bottling milk and cream, or making butter and cheese may be considered as “dairying” under some circumstances, or they may be considered practices under the “secondary” meaning of the definition when performed by a farmer or on a farm, if they are not performed on milk produced by other farmers or produced on other farms. (See the discussions in §§ 780.128 *et seq.*)

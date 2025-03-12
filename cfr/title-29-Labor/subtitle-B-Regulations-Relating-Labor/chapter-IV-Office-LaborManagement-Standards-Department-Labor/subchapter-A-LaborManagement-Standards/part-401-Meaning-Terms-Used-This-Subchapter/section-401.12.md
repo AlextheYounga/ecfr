@@ -1,0 +1,3 @@
+##### § 401.12 Trust in which a labor organization is interested. #####
+
+*Trust in which a labor organization is interested* means a trust or other fund or organization (a) which was created or established by a labor organization, or one or more of the trustees or one or more members of the governing body of which is selected or appointed by a labor organization, and (b) a primary purpose of which is to provide benefits for the members of such labor organization or their beneficiaries.

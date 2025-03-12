@@ -1,0 +1,5 @@
+##### § 1614.606 Joint processing and consolidation of complaints. #####
+
+Complaints of discrimination filed by two or more complainants consisting of substantially similar allegations of discrimination or relating to the same matter may be consolidated by the agency or the Commission for joint processing after appropriate notification to the parties. Two or more complaints of discrimination filed by the same complainant shall be consolidated by the agency for joint processing after appropriate notification to the complainant. When a complaint has been consolidated with one or more earlier filed complaints, the agency shall complete its investigation within the earlier of 180 days after the filing of the last complaint or 360 days after the filing of the original complaint, except that the complainant may request a hearing from an administrative judge on the consolidated complaints any time after 180 days from the date of the first filed complaint. Administrative judges or the Commission may, in their discretion, consolidate two or more complaints of discrimination filed by the same complainant.
+
+[64 FR 37661, July 12, 1999]

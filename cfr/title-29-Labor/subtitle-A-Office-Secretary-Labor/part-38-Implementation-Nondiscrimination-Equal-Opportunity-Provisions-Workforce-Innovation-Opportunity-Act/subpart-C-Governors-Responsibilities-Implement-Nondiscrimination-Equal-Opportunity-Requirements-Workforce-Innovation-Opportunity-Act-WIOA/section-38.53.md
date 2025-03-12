@@ -1,0 +1,3 @@
+##### § 38.53 Governor's oversight responsibilities regarding recipients' recordkeeping. #####
+
+The Governor must ensure that recipients collect and maintain records in a manner consistent with the provisions of § 38.41 and any procedures prescribed by the Director under § 38.41(a). The Governor must further ensure that recipients are able to provide data and reports in the manner prescribed by the Director.

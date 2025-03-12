@@ -1,0 +1,3 @@
+##### § 904.308 Relationship with homeowners association. #####
+
+The HBA and the homeowners association are, in legal terms, separate and distinct organizations with different functions. The homeowners association may hold title to and be responsible for maintenance of common property (see §§ 904.119 and 904.120), while the HBA has more general service and representative functions. While all residents are members of the HBA, only those who have acquired title to their homes are members of the homeowners association.

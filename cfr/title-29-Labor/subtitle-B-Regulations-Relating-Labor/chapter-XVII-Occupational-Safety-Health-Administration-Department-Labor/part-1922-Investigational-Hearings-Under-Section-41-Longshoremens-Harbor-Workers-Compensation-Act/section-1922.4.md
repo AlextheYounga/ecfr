@@ -1,0 +1,7 @@
+##### § 1922.4 Responsibilities of the Board; voting. #####
+
+(a) *Determinations and recommendations.* To the extent possible, the Board shall determine the facts, conditions, and circumstances relating to any injury or condition which is the subject of investigation, the probable cause thereof, and shall recommend measures which will provide the best means of preventing future injuries or conditions of similar character. The determinations and recommendations shall be made after hearing such witnesses and receiving such documents and other data relating to the subject or subjects of investigation as may be found available as a result of preliminary investigation.
+
+(b) *Report.* Upon completion of the investigational hearing, the Board shall file a report of its investigation with the Assistant Secretary. The report shall contain the determinations and recommendations required under paragraph (a) of this section. Any member may file a separate report in order to express determinations, recommendations, or reasons for determinations or recommendations which differ from those of a majority of the Board.
+
+(c) *Voting.* Actions of the Board, including the determinations and recommendations required under paragraph (a) of this section, shall require a vote of a majority of its members.

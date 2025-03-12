@@ -1,0 +1,7 @@
+##### § 172.42 Supplemental petition decision authority. #####
+
+(a) *Decisions of Fines, Penalties, and Forfeitures Officers.* Supplemental petitions filed on cases where the original decision was made by the Fines, Penalties, and Forfeitures Officer, will be initially reviewed by that official. The Fines, Penalties, and Forfeitures Officer may choose to grant more relief and issue a decision indicating additional relief to the petitioner. If the petitioner is dissatisfied with the further relief granted or if the Fines, Penalties, and Forfeitures Officer decides to grant no further relief, the supplemental petition will be forwarded to a designated Headquarters official assigned to a field location for review and decision.
+
+(b) *Decisions of CBP Headquarters.* Supplemental petitions filed on cases where the original decision was made by the Chief, Penalties Branch, Regulations and Rulings, Office of International Trade, CBP Headquarters, will be forwarded to the Director, Border Security and Trade Compliance Division, Regulations and Rulings, for review and decision.
+
+(c) *Authority of Executive Director.* Any authority given to any Headquarters official by this part may also be exercised by the Executive Director, Regulations and Rulings, Office of International Trade, or his designee.

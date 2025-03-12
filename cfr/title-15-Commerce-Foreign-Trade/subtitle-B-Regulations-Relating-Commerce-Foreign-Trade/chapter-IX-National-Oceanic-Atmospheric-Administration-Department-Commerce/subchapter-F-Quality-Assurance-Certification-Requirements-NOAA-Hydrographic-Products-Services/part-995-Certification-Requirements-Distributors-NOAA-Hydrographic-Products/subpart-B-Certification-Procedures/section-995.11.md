@@ -1,0 +1,7 @@
+##### § 995.11 Government review and approval. #####
+
+(a) An application will be reviewed by NOAA within 90 days of receipt. If all requirements, as defined by this part, are adequately addressed, certification will be granted. If for any reason NOAA will be unable to process the application for certification within the 90-day time frame, Applicant will be notified and a revised date will be provided for a decision on the request.
+
+(b)(1) NOAA will determine if the request for certification is complete and that it demonstrates that Applicant has met all of the applicable requirements described in this part.
+
+(2) In the event that a request is incomplete or does not demonstrate that Applicant has met all of the applicable requirements, NOAA will consider the application unacceptable. NOAA will notify the Applicant of the deficiencies in writing. Applicant may re-submit a revised application within 90 days of receipt of NOAA's denial notice. NOAA will review applications received within the 90-day resubmission period in the time frame described in paragraph (a) of this section. After the second review, if the application is still unacceptable, Applicant will be again notified of the deficiencies in writing and the process continues as stated is this section.

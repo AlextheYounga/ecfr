@@ -1,0 +1,5 @@
+##### § 301.2 Classes of disputes. #####
+
+(a) The disputes between an employee or group of employees and a carrier or carriers growing out of grievances or out of the interpretation or application of agreements concerning rates of pay, rules, or working conditions, including cases pending and unadjusted on the date of approval of this act (June 21, 1934, 48 Stat. 1185; 45 U.S.C. 151-162), shall be handled in the usual manner up to and including the chief operating officer of the carrier designated to handle such disputes; but, failing to reach an adjustment in this manner, the disputes may be referred by petition of the parties or by either party to the appropriate division of the Adjustment Board with a full statement of the facts and all supporting data bearing upon the disputes.
+
+(b) No petition shall be considered by any division of the Board unless the subject matter has been handled in accordance with the provisions of the Railway Labor Act, approved June 21, 1934.

@@ -1,0 +1,3 @@
+##### § 242.13 Parents and affiliates. #####
+
+As a condition of issuing a commitment, HUD may require corporate parents, affiliates, or principals of the proposed mortgagor to provide assurances, guarantees, or collateral to protect HUD's interests. The Commissioner may also require financial and operational information on the parent, other businesses owned by the parent, or affiliates of the proposed mortgagor and may also require a parent or affiliate to be regulated by HUD as to certain actions that could impact on the insurance of a mortgage loan for the benefit of the hospital.

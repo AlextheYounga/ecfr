@@ -1,0 +1,5 @@
+##### § 351.411 Differences in physical characteristics. #####
+
+(a) *Introduction.* In comparing United States sales with foreign market sales, the Secretary may determine that the merchandise sold in the United States does not have the same physical characteristics as the merchandise sold in the foreign market, and that the difference has an effect on prices. In calculating normal value, the Secretary will make a reasonable allowance for such differences. (*See* section 773(a)(6)(C)(ii) of the Act.)
+
+(b) *Reasonable allowance.* In deciding what is a reasonable allowance for differences in physical characteristics, the Secretary will consider only differences in variable costs associated with the physical differences. Where appropriate, the Secretary may also consider differences in the market value. The Secretary will not consider differences in cost of production when compared merchandise has identical physical characteristics.

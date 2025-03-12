@@ -1,0 +1,33 @@
+##### § 2700.31 Penalty settlement. #####
+
+(a) *General.* A proposed penalty that has been contested before the Commission may be settled only with the approval of the Commission upon motion. In all penalty proceedings, except for discrimination proceedings arising under section 105(c) of the Mine Act, 30 U.S.C. 815(c), a settlement motion must be accompanied by a proposed order approving settlement. In discrimination proceedings, a party shall file a motion to approve settlement that includes the factual support described in paragraph (b)(1) of this section, and that shall be filed and served in accordance with the provisions of 29 CFR 2700.5 and 2700.7, respectively. In discrimination proceedings, a party need not file a proposed order.
+
+(b) *Content of motion.*
+
+(1) *Factual support.* A motion to approve a penalty settlement shall include for each violation the amount of the penalty proposed by the Secretary, the amount of the penalty agreed to in settlement, and facts in support of the penalty agreed to by the parties. Rather than setting forth such information in detail, the motion may incorporate by reference the information which has been included in the accompanying proposed order as required by paragraph (c)(1) of this section.
+
+(2) *Certification.* The party filing a motion must certify that the opposing party has authorized the filing party to represent that the opposing party consents to the granting of the motion and the entry of the proposed order approving settlement.
+
+(c) *Content of proposed order.*
+
+(1) *Factual support.* A proposed order approving a penalty settlement shall include for each violation the amount of the penalty proposed by the Secretary, the amount of the penalty agreed to in settlement, and facts in support of the penalty agreed to by the parties. Forms for proposed orders approving settlement are available on the Commission's Web site (*http://www.fmshrc.gov*). Although parties are not required to use the forms on the Commission's Web site, if proposed orders fail to include pertinent information, the motion and proposed order may be rejected for filing by the Commission in accordance with paragraph (f) of this section. Proposed orders shall not be submitted in PDF format.
+
+(2) *Appearance by CLR.* If a motion has been filed by a Conference and Litigation Representative (“CLR”) on behalf of the Secretary, the proposed order approving settlement accompanying the motion shall include a provision in which the Judge accepts the CLR to represent the Secretary in accordance with the notice of either limited or unlimited appearance previously filed with the Commission. A CLR does not need to obtain authorization from the Commission to represent the Secretary before the CLR files a motion to approve settlement and proposed order.
+
+(d) *Filing and service of motion accompanied by proposed order* - (1) *Electronic filing.* A motion and proposed order shall be filed electronically according to the requirements set forth in this rule and instructions on the Commission's Web site (*http://www.fmshrc.gov*). Filing is effective upon successful receipt by the Commission.
+
+(i) *Signatures.* Any signature line set forth within a motion to approve settlement submitted electronically shall include the notation “/s/” followed by the typewritten name of the party or representative of the party filing the document, or by the graphical duplicate of the handwritten signature of the party or representative of the party filing the document. Such representation of the signature shall be deemed to be the original signature of the representative for all purposes unless the party representative shows that such representation of the signature was unauthorized. *See* 29 CFR 2700.6.
+
+(ii) *Status of documents.* A motion and proposed order filed electronically constitute written documents for the purpose of applying the Commission's procedural rules (29 CFR part 2700), and such rules apply unless an exception to those rules is specifically set forth in this rule.
+
+(2) *Filing by non-electronic means.* A party may file a motion to approve settlement and an accompanying proposed order by non-electronic means only with the permission of the Judge.
+
+(3) *Service.* A settlement motion and proposed order shall be served on all parties or, if parties are represented, upon their representatives, by the most expeditious method possible and at least five business days before the motion and proposed order are filed with the Commission. If a party cannot be served by email, facsimile transmission, or commercial delivery, a copy of the motion and proposed order may be served by mail. A certificate of service shall accompany the motion and proposed order setting forth the date, method of service, and all contact information used.
+
+(e) *Filing of motion and proposed order prior to filing of petition.* If a motion to approve settlement and proposed order is filed with the Commission before the Secretary has filed a petition for assessment of penalty, the filing party must also submit as attachments, electronic copies of the proposed penalty assessment and citations and orders at issue. If such attachments are filed, the Secretary need not file a petition for assessment of penalty.
+
+(f) *Non-acceptance of motion and proposed order.* If a party filing a motion to approve settlement and a proposed order fails to include in the motion and proposed order pertinent information required by this rule and the Commission's instructions posted on the Commission's Web site, the Commission will not accept for filing the motion and proposed order. Rather, the Commission will inform the filing party of the need for correction and resubmission.
+
+(g) *Final order.* Any order by the Judge approving a settlement shall set forth the reasons for approval and shall be supported by the record. Such order shall become the final order of the Commission 40 days after issuance unless the Commission has directed that the order be reviewed. A Judge may correct clerical errors in an order approving settlement in accordance with the provisions of 29 CFR 2700.69(c).
+
+[75 FR 73957, Nov. 30, 2010, as amended at 78 FR 77358, Dec. 23, 2013]

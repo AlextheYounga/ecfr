@@ -1,0 +1,3 @@
+##### § 530.404 Referral to Administrative Law Judge. #####
+
+Upon receipt of a timely request for a hearing, the request and a copy of the notice of administrative determination complained of, shall, by Order of Reference, be referred to the Chief Administrative Law Judge, for a determination in an administrative proceeding as provided herein. The notice of administrative determination and request for hearing shall, respectively, be given the effect of a complaint and answer thereto for purposes of the administrative proceedings, subject to any amendment that may be permitted under 29 CFR part 18.

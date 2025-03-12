@@ -1,0 +1,3 @@
+##### § 232.904 Term of the mortgage. #####
+
+Notwithstanding the provisions of § 232.27, a mortgage insured under this subpart must have a maturity satisfactory to the Commissioner which is not less than 10 years, nor more than the lesser of 35 years or 75 percent of the estimated remaining economic life of the physical improvements. The term of the mortgage will begin on the first day of the second month following the date of endorsement of the mortgage for insurance.

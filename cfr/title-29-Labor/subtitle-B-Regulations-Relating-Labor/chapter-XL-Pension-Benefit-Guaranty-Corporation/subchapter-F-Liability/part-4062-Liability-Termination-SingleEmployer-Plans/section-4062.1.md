@@ -1,0 +1,5 @@
+##### § 4062.1 Purpose and scope. #####
+
+The purpose of this part is to set forth rules for determination and payment of the liability incurred, under section 4062(b) of ERISA, upon termination of any single-employer plan and, to the extent appropriate, determination of the liability incurred with respect to multiple employer plans under sections 4063 and 4064 of ERISA. This part also sets forth rules for determining the amount of liability incurred under section 4063 of ERISA pursuant to the occurrence of a cessation of operations as described by section 4062(e) of ERISA. The provisions of this part regarding the amount of liability to the PBGC that is incurred upon termination of a single-employer plan apply with respect to a plan for which a notice of intent to terminate under section 4041(c) of ERISA is issued or proceedings to terminate under section 4042 of ERISA are instituted after December 17, 1987. Those provisions also apply, to the extent described in paragraph (a) of this section, to the amount of liability for withdrawal from a multiple employer plan after that date.
+
+[61 FR 34079, July 1, 1996, as amended at 71 FR 34822, June 16, 2006]

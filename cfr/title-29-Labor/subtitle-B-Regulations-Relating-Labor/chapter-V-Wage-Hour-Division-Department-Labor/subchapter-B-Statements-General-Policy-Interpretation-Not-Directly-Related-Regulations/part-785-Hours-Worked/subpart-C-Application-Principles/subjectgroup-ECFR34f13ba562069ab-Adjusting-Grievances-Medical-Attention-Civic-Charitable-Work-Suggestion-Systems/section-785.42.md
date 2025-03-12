@@ -1,0 +1,3 @@
+##### § 785.42 Adjusting grievances. #####
+
+Time spent in adjusting grievances between an employer and employees during the time the employees are required to be on the premises is hours worked, but in the event a bona fide union is involved the counting of such time will, as a matter of enforcement policy, be left to the process of collective bargaining or to the custom or practice under the collective bargaining agreement.

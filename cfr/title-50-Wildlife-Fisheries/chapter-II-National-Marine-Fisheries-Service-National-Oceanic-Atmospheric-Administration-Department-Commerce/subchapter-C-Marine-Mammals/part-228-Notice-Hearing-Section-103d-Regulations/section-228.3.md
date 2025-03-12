@@ -1,0 +1,3 @@
+##### § 228.3 Scope of regulations. #####
+
+The procedural regulations in this part govern the practice and procedure in hearings held under section 103(d) of the Act. These hearings will be governed by the provisions of 5 U.S.C. 556 and section 557 of the Administrative Procedure Act. The regulations shall be construed to secure the just, speedy and inexpensive determination of all issues raised with respect to any waiver or regulation proposed pursuant to section 103(d) of the Act with full protection for the rights of all persons affected thereby.

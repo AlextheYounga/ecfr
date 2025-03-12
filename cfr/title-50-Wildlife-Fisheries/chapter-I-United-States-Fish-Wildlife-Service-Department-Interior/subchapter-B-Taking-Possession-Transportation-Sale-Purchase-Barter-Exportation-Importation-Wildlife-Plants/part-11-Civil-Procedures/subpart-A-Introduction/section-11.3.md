@@ -1,0 +1,5 @@
+##### § 11.3 Filing of documents. #####
+
+(a) Whenever a document or other paper is required to be filed under this part within a certain time, such document or paper will be considered filed as of the date of the postmark if mailed, or the date actually delivered to the office where filing is required. The time periods set forth in this part shall begin to run as of the day following the date of the document or other paper.
+
+(b) If an oral or written application is made to the Director up to 10 calendar days after the expiration of a time period established in this part for the required filing of documents or other papers, the Director may permit a late filing within a fixed period where reasonable grounds are found for an inability or failure to file within the time period required. All such extensions shall be in writing. Except as provided in this subsection, no other requests for an extension of time may be granted.

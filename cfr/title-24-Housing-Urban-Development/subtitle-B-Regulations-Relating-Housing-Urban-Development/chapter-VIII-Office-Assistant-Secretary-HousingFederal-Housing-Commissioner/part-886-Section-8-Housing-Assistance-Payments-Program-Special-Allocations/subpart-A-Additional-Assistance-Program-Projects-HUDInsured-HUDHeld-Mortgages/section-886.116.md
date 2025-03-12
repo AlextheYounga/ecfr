@@ -1,0 +1,7 @@
+##### § 886.116 Security and utility deposits. #####
+
+(a) An Owner may require Families to pay a security deposit in an amount up to, but not more than, one month's Gross Family Contribution. If a Family vacates its unit, the Owner, subject to State and local laws, may utilize the deposit as reimbursement for any unpaid rent or other amount owed under the Lease. If the Family has provided a security deposit and it is insufficient for such reimbursement, the Owner may claim reimbursement from HUD, not to exceed an amount equal to the remainder of one month's Contract Rent. Any reimbursement under this section shall be applied first toward any unpaid rent. If a Family vacates the unit owing no rent or other amount under the Lease or if such amount is less than the amount of the security deposit, the Owner shall refund the full amount or the unused balance, as the case may be, to the Family.
+
+(b) In those jurisdictions where interest is payable by the Owner on security deposits, the refunded amount shall include the amount of interest payable. All security deposit funds shall be deposited by the Owner in a segregated bank account, and the balance of this account, at all times, shall be equal to the total amount collected from tenants then in occupancy, plus any accrued interest. The Owner shall comply with all State and local laws regarding interest payments on security deposits.
+
+(c) Families shall be expected to obtain the funds to pay security and utility deposits, if required, from their own resources and/or other private or public sources.

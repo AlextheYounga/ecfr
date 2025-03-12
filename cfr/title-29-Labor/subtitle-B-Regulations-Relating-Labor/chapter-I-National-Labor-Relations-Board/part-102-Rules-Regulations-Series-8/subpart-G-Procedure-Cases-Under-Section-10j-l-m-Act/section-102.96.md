@@ -1,0 +1,3 @@
+##### § 102.96 Issuance of complaint promptly. #####
+
+Whenever the regional attorney or other Board officer to whom the matter may be referred seeks injunctive relief of a district court pursuant to section 10(l) of the Act, a complaint against the party or parties sought to be enjoined, covering the same subject matter as such application for injunctive relief, shall be issued promptly, normally within 5 days of the date upon which such injunctive relief is first sought, except in those cases under section 10(l) of the Act in which the procedure set forth in §§ 102.90 to 102.92, inclusive, is deemed applicable.

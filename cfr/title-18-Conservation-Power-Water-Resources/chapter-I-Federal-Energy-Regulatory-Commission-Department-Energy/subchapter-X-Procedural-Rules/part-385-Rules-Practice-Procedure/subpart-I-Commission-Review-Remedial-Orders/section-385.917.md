@@ -1,0 +1,3 @@
+##### § 385.917 Sanctions (Rule 917). #####
+
+Whenever it appears to the Commission that a person is engaged or about to engage in any act or practice which constitutes or will constitute a violation of rule, regulation, or order, made or imposed by the Commission or the presiding officer under this subpart, it may bring an action in the proper court of the United States to enjoin that act or practice and to enforce compliance with the order, and upon a proper showing, a permanent or temporary injunction or decree or restraining order will be granted without bond. The Commission may transmit such evidence as may be available concerning that act or practice to the Attorney General, who may institute the necessary criminal proceedings.

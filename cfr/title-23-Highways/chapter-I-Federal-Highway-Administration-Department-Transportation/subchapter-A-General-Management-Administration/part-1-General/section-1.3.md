@@ -1,0 +1,3 @@
+##### § 1.3 Federal-State cooperation; authority of State highway departments. #####
+
+The Administrator shall cooperate with the States, through their respective State highway departments, in the construction of Federal-aid highways. Each State highway department, maintained in conformity with 23 U.S.C. 302, shall be authorized, by the laws of the State, to make final decisions for the State in all matters relating to, and to enter into, on behalf of the State, all contracts and agreements for projects and to take such other actions on behalf of the State as may be necessary to comply with the Federal laws and the regulations in this part.

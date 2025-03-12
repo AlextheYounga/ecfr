@@ -1,0 +1,49 @@
+##### § 210.28 Depositions. #####
+
+(a) *When depositions may be taken.* Following publication in the Federal Register of a Commission notice instituting the investigation, any party may take the testimony of any person, including a party, by deposition upon oral examination or written questions. The presiding administrative law judge will determine the permissible dates or deadlines for taking such depositions. Without stipulation of the parties, the complainants as a group may take a maximum of five fact depositions per respondent or no more than 20 fact depositions whichever is greater, the respondents as a group may take a maximum of 20 fact depositions total, and if the Commission investigative attorney is a party, he or she may take a maximum of 10 fact depositions and is permitted to participate in all depositions taken by any parties in the investigation. Each notice for a corporation to designate deponents only counts as one deposition and includes all corporate representatives so designated to respond, and related respondents are treated as one respondent for purposes of determining the number of depositions. The presiding administrative law judge may increase the number of depositions on written motion for good cause shown.
+
+(b) *Persons before whom depositions may be taken.* Depositions may be taken before a person having power to administer oaths by the laws of the United States or of the place where the examination is held.
+
+(c) *Notice of examination.* A party desiring to take the deposition of a person shall give notice in writing to every other party to the investigation. The administrative law judge shall determine the appropriate period for providing such notice. A party upon whom a notice of deposition is served may make objections to a notice of deposition and state the reasons therefor within ten days of service of the notice of deposition. The notice shall state the time and place for taking the deposition and the name and address of each person to be examined, if known, and, if the name is not known, a general description sufficient to identify him or the particular class or group to which he belongs. A notice may provide for the taking of testimony by telephone, but the administrative law judge may, on motion of any party, require that the deposition be taken in the presence of the deponent. The parties may stipulate in writing, or the administrative law judge may upon motion order, that the testimony at a deposition be recorded by other than stenographic means. If a subpoena duces tecum is to be served on the person to be examined, the designation of the materials to be produced as set forth in the subpoena shall be attached to or included in the notice.
+
+(d) *Taking of deposition.* Each deponent shall be duly sworn, and any adverse party shall have the right to cross-examine. Objections to questions or documents shall be in short form, stating the grounds of objections relied upon. Evidence objected to shall be taken subject to the objections, except that privileged communications and subject matter need not be disclosed. The questions propounded and the answers thereto, together with all objections made, shall be reduced to writing, after which the deposition shall be subscribed by the deponent (unless the parties by stipulation waive signing or the deponent is ill or cannot be found or refuses to sign) and certified by the person before whom the deposition was taken. If the deposition is not subscribed by the deponent, the person administering the oath shall state on the record such fact and the reason therefor. When a deposition is recorded by stenographic means, the stenographer shall certify on the transcript that the witness was sworn in the stenographer's presence and that the transcript is a true record of the testimony of the witness. When a deposition is recorded by other than stenographic means and is thereafter transcribed, the person transcribing it shall certify that the person heard the witness sworn on the recording and that the transcript is a correct writing of the recording. Thereafter, upon payment of reasonable charges therefor, that person shall furnish a copy of the transcript or other recording of the deposition to any party or to the deponent. See paragraph (i) of this section concerning the effect of errors and irregularities in depositions.
+
+(e) *Depositions of nonparty officers or employees of the Commission or of other Government agencies.* A party desiring to take the deposition of an officer or employee of the Commission other than the Commission investigative attorney, or of an officer or employee of another Government agency, or to obtain documents or other physical exhibits in the custody, control, and possession of such officer or employee, shall proceed by written motion to the administrative law judge for leave to apply for a subpoena under § 210.32(c). Such a motion shall be granted only upon a showing that the information expected to be obtained thereby is within the scope of discovery permitted by § 210.27(b) or § 210.61 and cannot be obtained without undue hardship by alternative means.
+
+(f) *Service of deposition transcripts on the Commission staff.* The party taking the deposition shall promptly serve one copy of the deposition transcript on the Commission investigative attorney.
+
+(g) *Admissibility of depositions.* The fact that a deposition is taken and served upon the Commission investigative attorney as provided in this section does not constitute a determination that it is admissible in evidence or that it may be used in the investigation. Only such part of a deposition as is received in evidence at a hearing shall constitute a part of the record in such investigation upon which a determination may be based. Objections may be made at the hearing to receiving in evidence any deposition or part thereof for any reason that would require exclusion of the evidence if the witness were then present and testifying.
+
+(h) *Use of depositions.* A deposition may be used as evidence against any party who was present or represented at the taking of the deposition or who had reasonable notice thereof, in accordance with any of the following provisions:
+
+(1) Any deposition may be used by any party for the purpose of contradicting or impeaching the testimony of a deponent as a witness;
+
+(2) The deposition of a party may be used by an adverse party for any purpose;
+
+(3) The deposition of a witness, whether or not a party, may be used by any party for any purposes if the administrative law judge finds -
+
+(i) That the witness is dead; or
+
+(ii) That the witness is out of the United States, unless it appears that the absence of the witness was procured by the party offering the deposition; or
+
+(iii) That the witness is unable to attend or testify because of age, illness, infirmity, or imprisonment; or
+
+(iv) That the party offering the deposition has been unable to procure the attendance of the witness by subpoena; or
+
+(v) Upon application and notice, that such exceptional circumstances exist as to make it desirable in the interest of justice and with due regard to the importance of presenting the oral testimony of witnesses at a hearing, to allow the deposition to be used.
+
+(4) If only part of a deposition is offered in evidence by a party, an adverse party may require him to introduce any other part that ought in fairness to be considered with the part introduced, and any party may introduce any other parts.
+
+(i) *Effect of errors and irregularities in depositions* - (1) *As to notice.* All errors and irregularities in the notice for taking a deposition are waived unless written objection is promptly served upon the party giving notice.
+
+(2) *As to disqualification of person before whom the deposition is to be taken.* Objection to taking a deposition because of disqualification of the person before whom it is to be taken is waived unless made before the taking of the deposition begins or as soon thereafter as the disqualification becomes known or could be discovered with reasonable diligence.
+
+(3) *As to taking of depositions.* (i) Objections to the competency of a witness or the competency, relevancy, or materiality of testimony are not waived by failure to make them before or during the deposition, unless the ground of the objection is one which might have been obviated or removed if presented at that time.
+
+(ii) Errors and irregularities occurring at the oral examination in the manner of taking the deposition, in the form of the questions or answers, in the oath or affirmation, or in the conduct of parties, and errors of any kind which might be obviated, removed, or cured if promptly presented, are waived unless seasonable objection thereto is made at the taking of the deposition.
+
+(iii) Objections to the form of written questions submitted under this section are waived unless served in writing upon the party propounding them. The presiding administrative law judge shall set the deadline for service of such objections.
+
+(4) *As to completion and return of deposition.* Errors and irregularities in the manner in which the testimony is transcribed or the deposition is prepared, signed, certified, sealed, indorsed, transmitted, served, or otherwise dealt with by the person before whom it is taken are waived unless a motion to suppress the deposition or some part thereof is made with reasonable promptness after such defect is, or with due diligence might have been, ascertained.
+
+[59 FR 39039, Aug. 1, 1994, as amended at 73 FR 38323, July 7, 2008; 78 FR 23483, Apr. 19, 2013]

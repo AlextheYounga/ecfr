@@ -1,0 +1,25 @@
+##### § 430.7 Determination of protected areas and restriction on water use. #####
+
+In consideration of the foregoing facts and for the purposes cited above:
+
+(a) The Commission hereby determines and delineates the following area to be a protected area within the meaning and for the purpose of Article 10 of the Delaware River Basin Compact:
+
+Southeastern Pennsylvania Ground Water Protected Area
+
+The “Southeastern Pennsylvania Ground Water Protected Area” shall consist of those portions of the following listed counties and political subdivision located within the Delaware Basin:
+
+|                 |                                                                                                                               Townships                                                                                                                                |
+|-----------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Berks County   |                                                                                                                       Douglass, Hereford, Union.                                                                                                                       |
+|  Bucks County   |              Bedminster, Buckingham, Doylestown, East Rockhill, Hilltown, Lower Southampton, Middletown, Milford, New Britain, Newtown, Northampton, Plumstead, Richland, Upper Southampton, Warminster, Warrington, Warrick, West Rockhill, Wrightstown.              |
+|                 |                                                                                                                                Boroughs                                                                                                                                |
+|                 |                                 Chalfont, Doylestown, Dublin, Hulmeville, Ivyland, Langhorne, Langhorne Manor, New Britain, Newtown, Penndel, Perkasie, Quakertown, Richlandtown, Sellersville, Silverdale, Telford, Trumbauersville.                                  |
+|                 |                                                                                                                               Townships                                                                                                                                |
+| Chester County  |Birmingham, Charlestown, East Coventry, East Bradford, East Goshen, East Pikeland, Easttown, East Vincent, East Whiteland, North Coventry, Schuylkill, South Coventry, Thornbury, Tredyffrin, Warwick, West Bradford, West Goshen, Westtown, Willistown, West Whiteland.|
+|                 |                                                                                                                                Boroughs                                                                                                                                |
+|                 |                                                                                                      Elverson, Malvern, Phoenixville, Spring City, West Chester.                                                                                                       |
+|                 |                                                                                                                               Townships                                                                                                                                |
+|  Lehigh County  |                                                                                                                             Lower Milford.                                                                                                                             |
+|Montgomery County|                                                                                                              All of the area within the county boundary.                                                                                                               |
+
+(b) The Commission hereby determines that within the Southeastern Pennsylvania Ground Water Protected Area demands upon available ground water supplies have developed or threaten to develop to such a degree as to create a water shortage or to impair or conflict with the requirements or effectuation of the Comprehensive Plan. Accordingly, no person, firm, corporation or other entity within the area shall withdraw ground water for any purpose at a rate exceeding 10,000 gallons per day, except as prescribed by this regulation.

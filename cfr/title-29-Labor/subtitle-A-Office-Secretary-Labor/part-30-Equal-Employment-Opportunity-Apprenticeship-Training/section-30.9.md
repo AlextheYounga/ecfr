@@ -1,0 +1,9 @@
+##### § 30.9 Compliance reviews. #####
+
+(a) *Conduct of compliance reviews.* The Department will regularly conduct systematic reviews of apprenticeship programs in order to determine the extent to which sponsors are complying with these regulations and will also conduct compliance reviews when circumstances, including receipt of complaints not referred to a private review body pursuant to § 30.11(b)(1)(i), so warrant, and take appropriate action regarding programs which are not in compliance with the requirements of this part. Compliance reviews will consist of comprehensive analyses and evaluations of each aspect of the apprenticeship program, including on-site investigations and audits.
+
+(b) *Reregistration.* Sponsors seeking reregistration shall be subject to a compliance review as described in paragraph (a) of this section by the Department as part of the reregistration process.
+
+(c) *New registrations.* Sponsors seeking new registration shall be subject to a compliance review as described in paragraph (a) of this section by the Department as part of the registration process.
+
+(d) *Voluntary compliance.* Where the compliance review indicates that the sponsor is not operating in accordance with this part, the Department shall notify the sponsor in writing of the results of the review and make a reasonable effort to secure voluntary compliance on the part of the program sponsor within a reasonable time before undertaking sanctions under § 30.13. In the case of sponsors seeking new registration, the Department will provide appropriate recommendations to the sponsor to enable it to achieve compliance for registration purposes.

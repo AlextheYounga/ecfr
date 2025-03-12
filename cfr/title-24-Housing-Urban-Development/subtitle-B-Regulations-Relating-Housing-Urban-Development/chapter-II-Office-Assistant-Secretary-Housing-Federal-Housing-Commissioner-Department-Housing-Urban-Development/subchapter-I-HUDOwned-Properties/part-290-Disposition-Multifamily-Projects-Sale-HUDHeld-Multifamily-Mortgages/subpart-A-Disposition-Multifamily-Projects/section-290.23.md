@@ -1,0 +1,3 @@
+##### § 290.23 Rebuilding. #####
+
+HUD may provide project-based assistance to support the rebuilding of a HUD-owned multifamily housing project only. The required determination that rebuilding the project would be less expensive than substantial rehabilitation means that the costs to HUD for rebuilding are such that the monthly debt service needed to amortize the cost of relocating tenants, demolition, site preparation, rebuilding, operating expenses, and a reasonable return to the purchaser cannot be provided with rents that are within 120 percent of the most recently published Section 8 Fair Market Rents for Existing Housing (24 CFR part 888, subpart A), and would be less expensive than rehabilitation.

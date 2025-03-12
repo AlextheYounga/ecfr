@@ -1,0 +1,3 @@
+##### § 1209.10 Capacity of public observers. #####
+
+The public may attend open Board meetings for the sole purpose of observation. Observers may not participate in meetings unless expressly invited or otherwise interfere with the conduct and disposition of agency business. When a portion of a meeting is closed to the public, observers will leave the meeting room upon request to enable discussion of the exempt matter therein under consideration.

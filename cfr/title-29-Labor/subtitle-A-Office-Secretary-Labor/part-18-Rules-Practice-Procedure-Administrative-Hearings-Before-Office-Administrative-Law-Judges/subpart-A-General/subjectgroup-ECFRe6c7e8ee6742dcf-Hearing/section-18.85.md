@@ -1,0 +1,7 @@
+##### § 18.85 Privileged, sensitive, or classified material. #####
+
+(a) *Exclusion.* On motion of any interested person or the judge's own, the judge may limit the introduction of material into the record or issue orders to protect against undue disclosure of privileged communications, or sensitive or classified matters. The judge may admit into the record a summary or extract that omits the privileged, sensitive or classified material.
+
+(b) *Sealing the record.* (1) On motion of any interested person or the judge's own, the judge may order any material that is in the record to be sealed from public access. The motion must propose the fewest redactions possible that will protect the interest offered as the basis for the motion. A redacted copy or summary of any material sealed must be made part of the public record unless the necessary redactions would be so extensive that the public version would be meaningless, or making even a redacted version or summary available would defeat the reason the original is sealed.
+
+(2) An order that seals material must state findings and explain why the reasons to seal adjudicatory records outweigh the presumption of public access. Sealed materials must be placed in a clearly marked, separate part of the record. Notwithstanding the judge's order, all parts of the record remain subject to statutes and regulations pertaining to public access to agency records.

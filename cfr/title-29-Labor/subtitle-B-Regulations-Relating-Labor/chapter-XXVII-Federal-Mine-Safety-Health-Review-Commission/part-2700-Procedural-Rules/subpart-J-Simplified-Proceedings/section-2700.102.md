@@ -1,0 +1,9 @@
+##### § 2700.102 Commission commencement of simplified proceedings. #####
+
+(a) *Designation.* Upon receipt of a petition for assessment of penalty, the Chief Administrative Law Judge, or designee, has the authority to designate an appropriate case for Simplified Proceedings.
+
+(b) *Notice of designation.* After a case has been designated for Simplified Proceedings, the Commission will issue a Notice of Designation for Simplified Proceedings. The Notice will inform parties that the case has been designated for Simplified Proceedings, state the name and contact information for the Commission Administrative Law Judge assigned to the case, provide instructions for filing a notice of appearance in the Simplified Proceedings, and state that the operator need not file an answer to the petition for assessment of penalty. The Commission will send the notice of designation to the parties' addresses listed on the petition for assessment of penalty.
+
+(c) *Notice of appearance.* Unless the contact information described in this paragraph has already been provided to the Judge, within 15 calendar days after receiving a notice of designation, the parties shall file notices of appearance with the assigned Judge. Each notice of appearance shall provide the following information for the counsel or representative acting on behalf of the party: Name, address, business telephone number, cell telephone number if available, fax number if available, and e-mail address if available. Notices of appearance shall be served on all parties in accordance with the provisions of § 2700.7.
+
+(d) *No filing of an answer under Subpart C of this part.* If a case has been designated for Simplified Proceedings, an answer pursuant to § 2700.29 is not required to be filed.

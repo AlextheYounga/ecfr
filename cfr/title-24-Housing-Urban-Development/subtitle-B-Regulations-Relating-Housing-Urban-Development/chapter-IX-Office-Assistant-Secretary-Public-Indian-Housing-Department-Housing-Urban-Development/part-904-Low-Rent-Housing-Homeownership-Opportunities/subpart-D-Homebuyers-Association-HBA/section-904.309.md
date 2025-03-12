@@ -1,0 +1,3 @@
+##### § 904.309 Use of appendices. #####
+
+Use of the Articles of Incorporation (Part I of Appendix I) and the Recognition Agreement between the Local Housing Authority and Homebuyers Association (Appendix II) is mandatory for projects developed under subpart B of this part which have homebuyers associations. No modification may be made in format, content or text of these Appendices except (1) as required under state or local law as determined by HUD or (2) with approval of HUD. The By-Laws of the Homebuyers Association is provided as a guide for such projects and it may be used or modified to the extent required by the HBA and LHA respectively to meet local needs and desires.

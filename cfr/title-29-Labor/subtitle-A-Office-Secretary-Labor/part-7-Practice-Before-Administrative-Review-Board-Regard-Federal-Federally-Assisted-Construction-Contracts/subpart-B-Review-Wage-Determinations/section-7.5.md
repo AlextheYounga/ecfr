@@ -1,0 +1,5 @@
+##### § 7.5 Contents of petitions. #####
+
+(a) A petition for the review of a wage determination shall: (1) Be in writing and signed by the petitioner or his counsel (or other authorized representative); (2) be described as a petition for review by the Administrative Review Board; (3) identify clearly the wage determination, location of the project or projects in question, and the agency concerned; (4) state that the petitioner has requested reconsideration of the wage determination in question and describe briefly the action taken in response to the request; (5) contain a short and plain statement of the grounds for review; and (6) be accompanied by supporting data, views, or arguments.
+
+(b) A petition shall indicate whether or not the petitioner consents to the disposition of the questions involved by a single member of the Board.

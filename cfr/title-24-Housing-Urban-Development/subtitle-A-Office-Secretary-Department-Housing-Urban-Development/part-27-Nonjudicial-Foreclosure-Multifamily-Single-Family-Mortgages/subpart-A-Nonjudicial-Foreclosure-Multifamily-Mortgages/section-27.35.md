@@ -1,0 +1,3 @@
+##### § 27.35 Foreclosure costs. #####
+
+Pursuant to section 369C(5) of the Act (12 U.S.C. 3711(5)), a commission to the foreclosure commissioner for the conduct of the foreclosure will be paid in an amount to be determined by the General Counsel. A commission may be allowed to the commissioner notwithstanding termination of the sale or appointment of a substitute commissioner before the sale takes place.

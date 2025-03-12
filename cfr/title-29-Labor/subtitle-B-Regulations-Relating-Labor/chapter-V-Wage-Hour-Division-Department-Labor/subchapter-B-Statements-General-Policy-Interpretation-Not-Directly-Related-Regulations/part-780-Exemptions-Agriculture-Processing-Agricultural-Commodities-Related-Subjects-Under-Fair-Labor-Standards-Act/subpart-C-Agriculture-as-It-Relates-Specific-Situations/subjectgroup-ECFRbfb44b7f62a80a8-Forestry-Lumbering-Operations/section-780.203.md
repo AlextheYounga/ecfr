@@ -1,0 +1,3 @@
+##### § 780.203 Performance of operations on a farm but not by the farmer. #####
+
+Logging or sawmill operations on a farm undertaken on behalf of the farmer or on behalf of the buyer of the logs or the resulting lumber by a contract logger or sawmill owner are not within the scope of agriculture unless it can be shown that these logging or sawmill operations are clearly incidental to farming operations on the farm on which the logging or sawmill operations are being conducted. For example, the clearing of additional land for cultivation by the farmer or the preparation of timber for construction of his farm buildings would appear to constitute operations incidental to “such farming operations.”

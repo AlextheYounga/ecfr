@@ -1,0 +1,3 @@
+##### § 650.203 Policy. #####
+
+It is the policy of the Federal Highway Administration (FHWA) that all highways funded in whole or in part under title 23, United States Code, shall be located, designed, constructed and operated according to standards that will minimize erosion and sediment damage to the highway and adjacent properties and abate pollution of surface and ground water resources. Guidance for the development of standards used to minimize erosion and sediment damage is referenced in § 650.211 of this part.

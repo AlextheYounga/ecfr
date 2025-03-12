@@ -1,0 +1,7 @@
+##### § 301.10 Importation of repair components and maintenance tools under HTSUS subheadings 9810.00.65 and 9810.00.67 for instruments previously the subject of an entry liquidated under subheading 9810.00.60, HTSUS. #####
+
+(a) An institution owning an instrument that was the subject of an entry liquidated duty-free under subheading 9810.00.60, HTSUS, that wishes to enter repair components or maintenance tools for that instrument may do so without regard to the application procedures required for entry under subheading 9810.00.60, HTSUS. The institution must certify to Customs and Border Protection officials at the port of entry that such components are repair components for that instrument under subheading 9810.00.65, HTSUS, or that the tools are maintenance tools necessary for the repair, checking, gauging or maintenance of that instrument under subheading 9810.00.67, HTSUS.
+
+(b) Instruments entered under subheading 9810.00.60, HTSUS, and subsequently returned to the foreign manufacturer for repair, replacement or modification are not covered by subheading 9810.00.65 or 9810.00.67, HTSUS, although they may, upon return to the United States, be eligible for a reduced duty payment under subheading 9802.00.40 or 9802.00.50, HTSUS (covering articles exported for repairs or alterations) or may be made the subject of a new application under subheading 9810.00.60, HTSUS.
+
+[66 FR 28834, May 25, 2001, as amended at 74 FR 30463, June 26, 2009]

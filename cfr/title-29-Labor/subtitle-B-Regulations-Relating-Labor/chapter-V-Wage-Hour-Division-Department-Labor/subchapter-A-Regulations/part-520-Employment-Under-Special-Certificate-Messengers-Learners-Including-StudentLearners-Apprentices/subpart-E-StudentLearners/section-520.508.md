@@ -1,0 +1,3 @@
+##### § 520.508 What records, in addition to those required by Part 516 of this chapter and section 520.203 of this part, must I keep when student-learners are employed? #####
+
+Any worker employed as a student-learner shall be identified as such on the payroll records, with each student-learner's occupation and rate of pay being shown. Notations should be made in the employer's records when additional hours are worked by reason of school not being in session.

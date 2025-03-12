@@ -1,0 +1,23 @@
+##### § 222.204 Administration of certificates. #####
+
+(a) The Certificate of Exemption covers the business or activity specified in the Certificate of Exemption at the address described therein. No Certificate of Exemption is required to cover a separate warehouse facility used by the certificate holder solely for storage of pre-Act endangered species parts, if the records required by this subpart are maintained at the address specified in the Certificate of Exemption served by the warehouse or storage facility.
+
+(b) Certificates of Exemption issued under this subpart are not transferable. However, in the event of the lease, sale, or other transfer of the operations or activity authorized by the Certificate of Exemption, the successor is not required to obtain a new Certificate of Exemption prior to commencing such operations or activity. In such case, the successor will be treated as a purchaser and must comply with the record and reporting requirements set forth in § 222.201(d).
+
+(c) The Certificate of Exemption holder must notify the Assistant Administrator, in writing, of any change in address, in trade name of the business, or in activity specified in the certificate. The Assistant Administrator must be notified within 10 days of a change of address, and within 30 days of a change in trade name. The certificate with the change of address or in trade name must be endorsed by the Assistant Administrator, who shall provide an amended certificate to the person to whom it was issued. A certificate holder who seeks amendment of a certificate may continue all authorized activities while awaiting action by the Assistant Administrator.
+
+(d) A Certificate of Exemption issued under this subpart confers no right or privilege to conduct a business or an activity contrary to state or other law. Similarly, compliance with the provisions of any state or other law affords no immunity under any Federal laws or regulations of any other Federal agency.
+
+(e) Any person authorized to enforce the Act may enter the premises of any Certificate of Exemption holder or of any purchaser during business hours, including places of storage, for the purpose of inspecting or of examining any records or documents and any endangered species parts.
+
+(f) The records pertaining to pre-Act endangered species parts prescribed by this subpart shall be in permanent form and shall be retained at the address shown on the Certificate of Exemption or at the principal address of a purchaser in the manner prescribed by this subpart.
+
+(g)(1) Holders of Certificates of Exemption must maintain records of all pre-Act endangered species parts they receive, sell, transfer, distribute or dispose of otherwise. Purchasers of pre-Act endangered species parts, unless ultimate users, as defined in § 222.201(d), must similarly maintain records of all such parts or products they receive.
+
+(2) Such records referred to in paragraph (g)(1) of this section may consist of invoices or other commercial records, which must be filed in an orderly manner separate from other commercial records maintained and be readily available for inspection. Such records must show the name and address of the purchaser, seller, or other transferor; show the type, quantity, and identity of the part or product; show the date of such sale or transfer; and be retained, in accordance with the requirements of this subpart, for a period of not less than 3 years following the date of sale or transfer. Each pre-Act endangered species part will be identified by its number on the updated inventory required to renew a Certificate of Exemption.
+
+(i) Each Certificate of Exemption holder must submit a quarterly report (to the address given in the certificate) containing all record information required by paragraph (g)(2) of this section, on all transfers of pre-Act endangered species parts made in the previous calendar quarter, or such other record information the Assistant Administrator may specify from time to time.
+
+(ii) Quarterly reports are due on January 15, April 15, July 15, and October 15.
+
+(3) The Assistant Administrator may authorize the record information to be submitted in a manner other than that prescribed in paragraph (g)(2) of this section when the record holder demonstrates that an alternate method of reporting is reasonably necessary and will not hinder the effective administration or enforcement of this subpart.

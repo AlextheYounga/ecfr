@@ -1,0 +1,7 @@
+##### § 10.225 Filing of claim for preferential treatment. #####
+
+(a) *Declaration.* In connection with a claim for preferential treatment for a textile or apparel article described in § 10.223, the importer must make a written declaration that the article qualifies for that treatment. The inclusion on the entry summary, or equivalent documentation, of the subheading within Chapter 98 of the HTSUS under which the article is classified will constitute the written declaration. Except in any of the circumstances described in § 10.226(d)(1), the declaration required under this paragraph must be based on a Certificate of Origin that has been completed and properly executed in accordance with § 10.224 and that covers the article being imported.
+
+(b) *Corrected declaration.* If, after making the declaration required under paragraph (a) of this section, the importer has reason to believe that a Certificate of Origin on which a declaration was based contains information that is not correct, the importer must within 30 calendar days after the date of discovery of the error make a corrected declaration and pay any duties that may be due. A corrected declaration will be effected by submission of a letter or other written statement to the Customs port where the declaration was originally filed.
+
+[T.D. 00-68, 65 FR 59658, Oct. 5, 2000; 65 FR 67263, Nov. 9, 2000, as amended by T.D. 03-12, 68 FR 13835, Mar. 21, 2003]

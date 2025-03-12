@@ -1,0 +1,9 @@
+##### § 102.54 Initiation of formal compliance proceedings; issuance of compliance specification and notice of hearing. #####
+
+(a) If it appears that controversy exists with respect to compliance with an order of the Board which cannot be resolved without a formal proceeding, the Regional Director may issue and serve on all parties a compliance specification in the name of the Board. The specification shall contain or be accompanied by a notice of hearing before an administrative law judge at a place therein fixed and at a time not less than 21 days after the service of the specification.
+
+(b) Whenever the Regional Director deems it necessary in order to effectuate the purposes and policies of the Act or to avoid unnecessary costs or delay, the Regional Director may issue a compliance specification, with or without a notice of hearing, based on an outstanding complaint.
+
+(c) Whenever the Regional Director deems it necessary in order to effectuate the purposes and policies of the Act or to avoid unnecessary costs or delay, the Regional Director may consolidate with a complaint and notice of hearing issued pursuant to § 102.15 a compliance specification based on that complaint. After opening of the hearing, consolidation shall be subject to the approval of the Board or the administrative law judge, as appropriate. Issuance of a compliance specification shall not be a prerequisite or bar to Board initiation of proceedings in any administrative or judicial forum which the Board or the Regional Director determines to be appropriate for obtaining compliance with a Board order.
+
+[53 FR 37755, Sept. 28, 1988, as amended at 62 FR 9685, Mar. 4, 1997]

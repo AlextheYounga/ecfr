@@ -1,0 +1,3 @@
+##### § 990.265 Identification of projects. #####
+
+For purposes of this subpart, project means a public housing building or set of buildings grouped for the purpose of management. A project may be as identified under the ACC or may be a reasonable grouping of projects or portions of a project under the ACC. HUD shall retain the right to disapprove of a PHA's designation of a project. PHAs may group up to 250 scattered-site dwelling rental units into a single project.

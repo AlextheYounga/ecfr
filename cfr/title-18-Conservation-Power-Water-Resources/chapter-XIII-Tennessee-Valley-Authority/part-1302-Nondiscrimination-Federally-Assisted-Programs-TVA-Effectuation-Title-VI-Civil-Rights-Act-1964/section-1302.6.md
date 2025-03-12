@@ -1,0 +1,11 @@
+##### § 1302.6 Compliance information. #####
+
+(a) *Cooperation and assistance.* TVA shall to the fullest extent practicable seek the cooperation of recipients in obtaining compliance with this part and shall provide assistance and guidance to recipients to help them comply voluntarily with this part.
+
+(b) *Compliance reports.* Each recipient shall keep such records and submit to TVA timely, complete and accurate compliance reports at such times, and in such form and containing such information, as TVA may determined to be necessary to enable it to ascertain whether the recipient has complied or is complying with this part. In the case in which a primary recipient extends Federal financial assistance to any other recipient, such other recipient shall also submit such compliance reports to the primary recipient as may be necessary to enable the primary recipient to carry out its obligations under this part.
+
+(c) *Access to sources of information.* Each recipient shall permit access by TVA during normal business hours to such of its books, records, accounts, and other sources of information, and its facilities as may be pertinent to ascertain compliance with this part. Where any information required of a recipient is in the exclusive possession of any other agency, institution or person and this agency, institution or person shall fail or refuse to furnish this information, the recipient shall so certify in its report and shall set forth what efforts it has made to obtain the information.
+
+(d) *Information to beneficiaries and participants.* Each recipient shall make available to participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the program for which the recipient receives financial assistance, and make such information available to them in such manner as TVA finds necessary to apprise such persons of the protections against discrimination assured them by the Act and this part.
+
+(Information collection requirements appearing in § 1302.6 were approved by the Office of Management and Budget under control number 3316-0077)[30 FR 311, Jan. 9, 1965. Redesignated at 44 FR 30682, May 29, 1979. Redesignated at 49 FR 20481, May 15, 1984, and amended at 51 FR 9649, Mar. 20, 1986; 68 FR 51355, Aug. 26, 2003]

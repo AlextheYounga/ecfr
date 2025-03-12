@@ -1,0 +1,3 @@
+##### § 452.10 Retaliation for exercising rights. #####
+
+Section 609, which prohibits labor organizations or their officials from disciplining members for exercising their rights under the Act, and section 610, which makes it a crime for any person to use or threaten force or violence for the purpose of interfering with or preventing the exercise of any rights protected under the Act, apply to rights relating to the election of officers under title IV.

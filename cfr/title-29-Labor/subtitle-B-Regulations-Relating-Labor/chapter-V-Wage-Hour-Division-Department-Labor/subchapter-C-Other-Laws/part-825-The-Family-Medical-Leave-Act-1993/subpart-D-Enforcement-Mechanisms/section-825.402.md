@@ -1,0 +1,3 @@
+##### § 825.402 Violations of the posting requirement. #####
+
+Section 825.300 describes the requirements for covered employers to post a notice for employees that explains the Act's provisions. If a representative of the Department of Labor determines that an employer has committed a willful violation of this posting requirement, and that the imposition of a civil money penalty for such violation is appropriate, the representative may issue and serve a notice of penalty on such employer in person or by certified mail. Where service by certified mail is not accepted, notice shall be deemed received on the date of attempted delivery. Where service is not accepted, the notice may be served by regular mail.

@@ -1,0 +1,5 @@
+##### § 1110.201 Audits. #####
+
+Any Person certified under this part shall, as a condition of certification, agree to be subject to audit by NTIS, or, at the request of NTIS, by an Accredited Conformity Assessment Body, to determine the compliance by such Person with the requirements of this part. NTIS may conduct, or request that an Accredited Conformity Assessment Body conduct, periodic scheduled and unscheduled audits of the systems, facilities, and procedures of any Certified Person relating to such Certified Person's access to, and use and distribution of, the Limited Access DMF. NTIS may conduct, or request that an Accredited Conformity Assessment Body conduct, field audits (during regular business hours) or desk audits of a Certified Person. Failure of a Certified Person to submit to or cooperate fully with NTIS, or with an Accredited Conformity Assessment Body acting pursuant to this section, in its conduct of an audit, or to pay an audit fee to NTIS, will be grounds for revocation of certification.
+
+[81 FR 24893, June 1, 2016]

@@ -1,0 +1,9 @@
+##### § 4062.3 Amount and payment of section 4062(b) liability. #####
+
+(a) *Amount of liability*—(1) *General rule.* Except as provided in paragraph (a)(2) of this section, the amount of section 4062(b) liability is the total amount (as of the termination date) of the unfunded benefit liabilities (within the meaning of section 4001(a)(18) of ERISA) to all participants and beneficiaries under the plan, together with interest calculated from the termination date in accordance with § 4062.7.
+
+(2) *Special rule in case of subsequent finding of inability to pay guaranteed benefits.* In any distress termination proceeding under section 4041(c) of ERISA and part 4041 of this chapter in which (as described in section 4041(c)(3)(C)(ii) of ERISA), after a determination that the plan is sufficient for benefit liabilities or for guaranteed benefits, the plan administrator finds that the plan is or will be insufficient for guaranteed benefits and the PBGC concurs with that finding, or the PBGC makes such a finding on its own initiative, actuarial present values shall be determined as of the date of the notice to, or the finding by, the PBGC of insufficiency for guaranteed benefits.
+
+(b) *Payment of liability.* Section 4062(b) liability is due and payable as of the termination date, in cash or securities acceptable to the PBGC, except that, as provided in § 4062.9(c), the PBGC shall prescribe commercially reasonable terms for payment of so much of such liability as exceeds 30 percent of the collective net worth of persons subject to liability in connection with a plan termination. The PBGC may make alternative arrangements, as provided in § 4062.9(b).
+
+[61 FR 34079, July 1, 1996, as amended at 71 FR 34822, June 16, 2006]

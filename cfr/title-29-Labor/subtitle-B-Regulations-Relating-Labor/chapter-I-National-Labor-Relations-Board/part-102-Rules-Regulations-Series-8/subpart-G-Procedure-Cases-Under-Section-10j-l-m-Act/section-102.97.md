@@ -1,0 +1,5 @@
+##### § 102.97 Expeditious processing of section 10(l) and (m) cases in successive stages. #####
+
+(a) Any complaint issued pursuant to § 102.95(a) or, in a case in which it is deemed appropriate to seek injunctive relief of a district court pursuant to section 10(l) of the Act, any complaint issued pursuant to § 102.93 or notice of hearing issued pursuant to § 102.90 shall be heard expeditiously and the case shall be given priority in such successive steps following its issuance (until ultimate enforcement or dismissal by the appropriate circuit court of appeals) over all cases except cases of like character.
+
+(b) Any complaint issued pursuant to § 102.95(b) shall be heard expeditiously and the case shall be given priority in its successive steps following its issuance (until ultimate enforcement or dismissal by the appropriate circuit court of appeals) over all cases except cases of like character and cases under section 10(l) of the Act.

@@ -1,0 +1,3 @@
+##### § 452.128 Under-strength representation. #####
+
+A local union may elect fewer delegates than it is permitted under the union constitution as long as the local is allowed to determine for itself whether or not it will send its full quota of delegates to the union convention. The delegates present from a local may cast the entire vote allotted to that local if this is permitted by the constitution and bylaws.

@@ -1,0 +1,3 @@
+##### § 779.313 Requirements summarized. #####
+
+The statutory definition of the term “retail or service establishment” found in section 13(a)(2), clearly provides that an establishment to be a “retail or service establishment”: (a) Must engage in the making of sales of goods or services; and (b) 75 percent of its sales of goods or services, or of both, must be recognized as retail in the particular industry; and (c) not over 25 percent of its sales of goods or services, or of both, may be sales for resale. These requirements are discussed below in §§ 779.314 through 779.341.

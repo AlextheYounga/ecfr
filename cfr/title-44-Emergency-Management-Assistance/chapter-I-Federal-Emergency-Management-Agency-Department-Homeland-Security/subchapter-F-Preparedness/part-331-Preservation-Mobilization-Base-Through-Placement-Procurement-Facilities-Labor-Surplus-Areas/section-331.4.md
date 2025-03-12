@@ -1,0 +1,3 @@
+##### § 331.4 Special consideration. #####
+
+When an entire industry that sells a significant proportion of its production to the Government is generally depressed or has a significant proportion of its production, manufacturing and service facilities located in a labor surplus area, the Administrator, Federal Emergency Management Agency, or successor in function, after notice to and hearing of interested parties, will give consideration to appropriate measures applicable to the entire industry.

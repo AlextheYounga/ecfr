@@ -1,0 +1,5 @@
+##### § 2575.1 In general. #####
+
+In accordance with the requirements of the Federal Civil Penalties Inflation Adjustment Act of 1990, Pub. L. 104-410, 104 Stat. 890, as amended by the section 31001(s) of the Debt Collection Improvement Act of 1996, Pub. L. 104-34, 110 Stat. 1321-373, and section 701 of the Federal Civil Penalties Inflation Adjustment Act Improvements Act of 2015, Pub. L. 114-74, 129 Stat. 584, (collectively the Inflation Adjustment Act), the applicable civil monetary penalties of title I of the Employee Retirement Income Security Act of 1974, as amended (ERISA), under the jurisdiction of the U.S. Department of Labor (Department) and listed in 29 CFR 2575.2 are adjusted as set forth in this subpart, effective as of the relevant dates specified in § 2575.2.
+
+[81 FR 43454, July 1, 2016]

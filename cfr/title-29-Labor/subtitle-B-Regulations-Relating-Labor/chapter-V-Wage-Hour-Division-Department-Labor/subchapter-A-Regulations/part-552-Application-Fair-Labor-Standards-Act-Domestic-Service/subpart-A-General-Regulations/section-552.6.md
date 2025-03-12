@@ -1,0 +1,11 @@
+##### § 552.6 Companionship services. #####
+
+(a) As used in section 13(a)(15) of the Act, the term *companionship services* means the provision of fellowship and protection for an elderly person or person with an illness, injury, or disability who requires assistance in caring for himself or herself. The provision of *fellowship* means to engage the person in social, physical, and mental activities, such as conversation, reading, games, crafts, or accompanying the person on walks, on errands, to appointments, or to social events. The provision of *protection* means to be present with the person in his or her home or to accompany the person when outside of the home to monitor the person's safety and well-being.
+
+(b) The term *companionship services* also includes the provision of care if the care is provided attendant to and in conjunction with the provision of fellowship and protection and if it does not exceed 20 percent of the total hours worked per person and per workweek. The provision of *care* means to assist the person with activities of daily living (such as dressing, grooming, feeding, bathing, toileting, and transferring) and instrumental activities of daily living, which are tasks that enable a person to live independently at home (such as meal preparation, driving, light housework, managing finances, assistance with the physical taking of medications, and arranging medical care).
+
+(c) The term *companionship services* does not include domestic services performed primarily for the benefit of other members of the household.
+
+(d) The term *companionship services* does not include the performance of medically related services provided for the person. The determination of whether services are medically related is based on whether the services typically require and are performed by trained personnel, such as registered nurses, licensed practical nurses, or certified nursing assistants; the determination is not based on the actual training or occupational title of the individual performing the services.
+
+[78 FR 60557, Oct. 1, 2013]

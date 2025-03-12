@@ -1,0 +1,3 @@
+##### § 6.45 Petition for review. #####
+
+Within 30 days after the date of the decision of the Administrative Law Judge, any party aggrieved thereby who desires review thereof shall file a petition for review of the decision with supporting reasons. Such party shall transmit the petition in writing to the Administrative Review Board pursuant to 29 CFR part 8 if the proceeding was under the Service Contract Act, or to the Administrative Review Board pursuant to 29 CFR part 7 if the proceeding was under § 5.12(a)(1) of part 5 of this title or under section 3(a) of the Davis-Bacon Act, with a copy thereof to the Chief Administrative Law Judge. The petition for review shall refer to the specific findings of fact, conclusions of law, or order at issue.

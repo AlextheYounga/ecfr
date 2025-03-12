@@ -1,0 +1,5 @@
+##### § 1926.2 Variances from safety and health standards. #####
+
+(a) Variances from standards which are, or may be, published in this part may be granted under the same circumstances whereunder variances may be granted under section 6(b)(A) or 6(d) of the Williams-Steiger Occupational Safety and Health Act of 1970 (29 U.S.C. 65). The procedures for the granting of variances and for related relief under this part are those published in part 1905 of this title.
+
+(b) Any requests for variances under this section shall also be considered requests for variances under the Williams-Steiger Occupational Safety and Health Act of 1970, and any requests for variances under Williams-Steiger Occupational Safety and Health Act with respect to construction safety or health standards shall be considered to be also variances under the Construction Safety Act. Any variance from a construction safety or health standard which is contained in this part and which is incorporated by reference in part 1910 of this title shall be deemed a variance from the standard under both the Construction Safety Act and the Williams-Steiger Occupational Safety and Health Act of 1970.

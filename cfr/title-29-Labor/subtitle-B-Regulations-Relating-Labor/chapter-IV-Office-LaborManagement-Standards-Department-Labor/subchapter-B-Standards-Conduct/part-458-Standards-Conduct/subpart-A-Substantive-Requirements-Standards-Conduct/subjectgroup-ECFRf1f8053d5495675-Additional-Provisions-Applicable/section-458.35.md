@@ -1,0 +1,5 @@
+##### § 458.35 Bonding requirements. #####
+
+Every officer, agent, shop steward, or other representative or employee of any labor organization subject to the CSRA or FSA (other than a labor organization whose property and annual financial receipts do not exceed $5,000 in value), or of a trust in which a labor organization is interested, who handles funds or other property thereof shall be bonded in accordance with the principles of section 502(a) of the LMRDA. In enforcing this requirement the Director will be guided by the interpretations and policies followed by the Department of Labor in applying the provisions of section 502(a) of the LMRDA and by applicable court decisions.
+
+[45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, as amended at 78 FR 8026, Feb. 5, 2013]

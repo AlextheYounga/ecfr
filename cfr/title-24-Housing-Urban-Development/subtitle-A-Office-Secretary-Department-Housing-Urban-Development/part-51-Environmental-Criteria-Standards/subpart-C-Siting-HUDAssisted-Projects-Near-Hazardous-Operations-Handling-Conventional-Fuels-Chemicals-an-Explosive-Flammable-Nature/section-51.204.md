@@ -1,0 +1,3 @@
+##### § 51.204 HUD-assisted hazardous facilities. #####
+
+In reviewing applications for proposed HUD-assisted projects involving the installation of hazardous facilities, the Department shall ensure that such hazardous facilities are located at an acceptable separation distance from residences and from any other facility or area where people may congregate or be present. The mitigating measures listed in § 51.205 may be taken into account in determining compliance with this section.

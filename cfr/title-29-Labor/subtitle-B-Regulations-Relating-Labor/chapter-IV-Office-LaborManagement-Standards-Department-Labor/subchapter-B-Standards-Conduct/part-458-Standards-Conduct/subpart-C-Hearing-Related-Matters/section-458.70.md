@@ -1,0 +1,5 @@
+##### § 458.70 Administrative Law Judge. #####
+
+Each enforcement proceeding instituted pursuant to this part shall be conducted before an Administrative Law Judge designated by the Chief Administrative Law Judge for the Department of Labor except, however, that when the Administrative Law Judge approves a stipulated agreement for appropriate remedial action, he shall prepare his recommended decision and order adopting that agreement and transfer the case to the Administrative Review Board. The Administrative Review Board may order the remedial action set forth in the stipulated agreement or take such other action as it deems appropriate.
+
+[45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, as amended at 78 FR 8026, Feb. 5, 2013; 81 FR 33389, May 26, 2016]

@@ -1,0 +1,3 @@
+##### § 200.159 Relief on account of lost, stolen, destroyed, mutilated or defaced debentures. #####
+
+The statutes of the United States and the regulations of the Treasury Department governing relief on account of the loss, theft, destruction, mutilation or defacement of United States securities, so far as applicable and as necessarily modified to relate to debentures, are adopted as the regulations of the Commissioner for the issuance of substitute debentures or the payment of lost, stolen, destroyed, mutilated or defaced debentures.

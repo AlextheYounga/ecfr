@@ -1,0 +1,9 @@
+##### § 92.218 Amount of matching contribution. #####
+
+(a) *General.* Each participating jurisdiction must make contributions to housing that qualifies as affordable housing under the HOME program, throughout a fiscal year. The contributions must total not less than 25 percent of the funds drawn from the jurisdiction's HOME Investment Trust Fund Treasury account in that fiscal year, excluding funds drawn for purposes identified in paragraph (c) of this section.
+
+(b) *Shortfall amount from State or local resources.* Amounts made available under § 92.102(b)(2) from the resources of a State (other than a transfer of the State's formula allocation), the local participating jurisdiction, or both, to enable the local participating jurisdiction to meet the participation threshold amount are not required to be matched and do not constitute matching contributions.
+
+(c) *HOME funds not required to be matched.* HOME funds used for administrative and planning costs (pursuant to § 92.207); community housing development organization operating expenses (pursuant to § 92.208); capacity building (pursuant to § 92.300(b)) of community housing development organizations; and project specific assistance to community housing development organizations (pursuant to § 92.301) when the participating jurisdiction waives repayment under the provisions of § 92.301(a)(3) or § 92.301(b)(3) are not required to be matched.
+
+(d) *Match contribution for other programs.* Contributions that have been or will be counted as satisfying a matching requirement of another Federal grant or award may not count as satisfying the matching contribution requirement for the HOME program.

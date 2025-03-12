@@ -1,0 +1,3 @@
+##### § 706.413 Submission of statements by River Basin Commission Chairmen. #####
+
+A statement of employment and financial interest is not required under this part from Chairmen of River Basin Commissions created by the President pursuant to Title II of the U.S. Water Resources Planning Act. The Commission Chairmen are subject to section 401 of Executive Order 11222, as amended, and are required to file a statement with the Chairman of the Civil Service Commission.

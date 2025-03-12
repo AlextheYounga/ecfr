@@ -1,0 +1,5 @@
+##### § 1978.100 Purpose and scope. #####
+
+(a) This part sets forth, the procedures for, and interpretations of, the employee protection (whistleblower) provision of the Surface Transportation Assistance Act of 1982 (STAA), 49 U.S.C. 31105, as amended, which protects employees from retaliation because the employee has engaged in, or is perceived to have engaged in, protected activity pertaining to commercial motor vehicle safety, health, or security matters.
+
+(b) This part establishes procedures under STAA for the expeditious handling of retaliation complaints filed by employees, or by persons acting on their behalf. These rules, together with those rules codified at 29 CFR part 18, set forth the procedures for submission of complaints, investigations, issuance of findings and preliminary orders, objections to findings and orders, litigation before administrative law judges (ALJs), post-hearing administrative review, and withdrawals and settlements. This part also sets forth interpretations of STAA.

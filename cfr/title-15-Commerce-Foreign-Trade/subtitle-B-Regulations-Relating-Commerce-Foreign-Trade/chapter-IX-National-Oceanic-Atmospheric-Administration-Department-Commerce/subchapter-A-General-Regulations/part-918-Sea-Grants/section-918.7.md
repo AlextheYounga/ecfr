@@ -1,0 +1,5 @@
+##### § 918.7 Application for designation. #####
+
+(a) All applications for initial designation as a Sea Grant College or a Regional Consortium should be addressed to the Secretary of Commerce and submitted to the Director, National Sea Grant College Program, National Oceanic and Atmospheric Administration. The application should contain an outline of the capabilities of the applicant and the reasons why the applicant believes that it merits designation under the guidelines contained in this regulation. Upon receipt of the application, the Director will present the institution's case to the Sea Grant Review Panel for evaluation. The Panel's recommendation will be forwarded to the Secretary for final action.
+
+(b) An existing Sea Grant College or Regional Consortium may also apply as in paragraph (a) of this section, for a change in the scope of designation to include or exclude other administrative entities of the institution or association. If approved by the Secretary such included (excluded) administrative entities shall share (lose) the full rights and responsibilities of a Sea Grant College or Regional Consortium.

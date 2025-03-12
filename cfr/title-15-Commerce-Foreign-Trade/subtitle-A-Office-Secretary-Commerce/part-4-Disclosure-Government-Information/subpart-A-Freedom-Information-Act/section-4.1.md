@@ -1,0 +1,9 @@
+##### § 4.1 General provisions. #####
+
+(a) The information in this part is furnished for the guidance of the public and in compliance with the requirements of the Freedom of Information Act (FOIA), as amended (5 U.S.C. 552). This part sets forth the procedures the Department of Commerce (Department) and its components follow to make publicly available materials and indices specified in 5 U.S.C. 552(a)(2) and records requested under 5 U.S.C. 552(a)(3). Information routinely provided to the public as part of a regular Department activity (for example, press releases issued by the Office of Public Affairs) may be provided to the public without following this part. In addition, as a matter of policy, the Department shall make discretionary releases of records or information exempt from disclosure under the FOIA when required to do so in accordance with current law and/or Executive Branch policy. This policy does not create any right enforceable in court.
+
+(b) As used in this subpart, *component* means any office, division, bureau or other unit of the Department listed in Appendix A to this part (except that a regional office of a larger office or other unit does not constitute a separate component).
+
+(c) The Office of Government Information Services (OGIS) within the National Archives and Records Administration offers mediation services to resolve disputes between requesters and agencies as a non-exclusive alternative to litigation. Requesters with concerns about the handling of their requests may contact OGIS.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 79 FR 62557, Oct. 20, 2014]

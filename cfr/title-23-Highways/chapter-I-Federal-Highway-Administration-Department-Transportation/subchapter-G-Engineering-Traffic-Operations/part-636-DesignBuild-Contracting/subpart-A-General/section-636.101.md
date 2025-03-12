@@ -1,0 +1,3 @@
+##### § 636.101 What does this part do? #####
+
+This part describes the FHWA's policies and procedures for approving design-build projects financed under title 23, United States Code (U.S.C.). This part satisfies the requirement of section 1307(c) of the Transportation Equity Act for the 21st Century (TEA-21), enacted on June 9, 1998. The contracting procedures of this part apply to all design-build project funded under title 23, U.S.C.

@@ -1,0 +1,9 @@
+##### § 734.1 Introduction. #####
+
+(a) In this part, references to the Export Administration Regulations (EAR) are references to 15 CFR chapter VII, subchapter C. This part describes the scope of the Export Administration Regulations (EAR) and explains certain key terms and principles used in the EAR. This part provides the rules you need to use to determine whether items and activities are subject to the EAR. This part is the first step in determining your obligations under the EAR. If neither your item nor your activity is subject to the EAR, then you do not have any obligations under the EAR and you do not need to review other parts of the EAR. If you already know that your item or activity is subject to the EAR, you do not need to review this part and you can go on to review other parts of the EAR to determine your obligations. This part also describes certain key terms and principles used in the EAR. Specifically, it includes the following terms: “subject to the EAR,” “items subject to the EAR,” “export,” and “reexport.” These and other terms are also included in part 772 of the EAR, Definitions of Terms, and you should consult part 772 of the EAR for the meaning of terms used in the EAR. Finally, this part makes clear that compliance with the EAR does not relieve any obligations imposed under foreign laws.
+
+(b) This part does not address any of the provisions set forth in part 760 of the EAR, Restrictive Trade Practices or Boycotts.
+
+(c) This part does not define the scope of legal authority to regulate exports, including reexports, or activities found in the Export Administration Act and other statutes. What this part does do is set forth the extent to which such legal authority has been exercised through the EAR.
+
+[61 FR 12746, Mar. 25, 1996, as amended at 69 FR 5690, Feb. 6, 2004]

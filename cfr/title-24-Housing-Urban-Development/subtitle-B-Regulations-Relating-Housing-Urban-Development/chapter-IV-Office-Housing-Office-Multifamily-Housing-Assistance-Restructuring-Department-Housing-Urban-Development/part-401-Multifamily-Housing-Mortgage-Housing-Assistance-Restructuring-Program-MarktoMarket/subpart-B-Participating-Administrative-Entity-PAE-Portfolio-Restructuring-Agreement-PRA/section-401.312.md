@@ -1,0 +1,3 @@
+##### § 401.312 Confidentiality of information. #####
+
+A PAE and every other restricted person (as defined in § 401.310) has a duty to protect confidential information, except as provided in §§ 401.500 through 401.503, and to prevent its use to further a private interest other than as contemplated by the PRA. As used in this section, confidential information means information that a PAE or other restricted person obtains from or on behalf of HUD or a third party in connection with a PRA but does not include information generally available to the public unless the information becomes available to the public as a result of unauthorized disclosure by the PAE or another restricted person.

@@ -1,0 +1,3 @@
+##### § 82.4 Authority. #####
+
+The Secretary of the Interior has delegated to the Director, Fish and Wildlife Service, his authority under the Marine Mammal Protection Act to enter into grants or other forms of financial assistance for research relevant to the protection and conservation of marine mammals covered by the Act excluding the order *Cetacea* and members, other than walruses, of the order *Pinnipedia.*

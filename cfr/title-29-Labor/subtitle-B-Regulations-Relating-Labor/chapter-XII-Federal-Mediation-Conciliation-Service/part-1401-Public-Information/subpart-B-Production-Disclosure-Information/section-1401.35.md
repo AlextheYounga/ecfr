@@ -1,0 +1,7 @@
+##### § 1401.35 Appeals from denials of request. #####
+
+(a) Whenever any request for records is denied, a written appeal may be filed with the Deputy Director, FMCS, 2100 K Street, NW., Washington, DC 20427, within 30 days after requester receives notification that the request has been denied or after the requester receives any records being made available, in the event of partial denial. The appeal shall state the grounds for appeal, including any supporting statements or arguments.
+
+(b) Final action on the appeal shall be taken within 20 working days from the time of receipt of the appeal. Where novel and complicated questions have been raised or unusual difficulties have been encountered, the Deputy Director may extend the time for final action up to an additional 10 days, depending upon whether there had been an extension pursuant to § 1401.34(c) at the initial stage. In such cases, the applicant shall be notified in writing of the reasons for the extension of time and the approximate date on which a final response will be forthcoming.
+
+(c) If on appeal the denial of the request for records is upheld in whole or in part, the Deputy Director shall notify the applicant of the reasons therefor, and shall advise the requester of the provisions for judicial review under 5 U.S.C. 552(a) (4) and (6).

@@ -1,0 +1,3 @@
+##### § 778.115 Employees working at two or more rates. #####
+
+Where an employee in a single workweek works at two or more different types of work for which different nonovertime rates of pay (of not less than the applicable minimum wage) have been established, his regular rate for that week is the weighted average of such rates. That is, his total earnings (except statutory exclusions) are computed to include his compensation during the workweek from all such rates, and are then divided by the total number of hours worked at all jobs. Certain statutory exceptions permitting alternative methods of computing overtime pay in such cases are discussed in §§ 778.400 and 778.415 through 778.421.

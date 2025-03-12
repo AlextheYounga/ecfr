@@ -1,0 +1,3 @@
+##### § 1954.11 Visits to State agencies. #####
+
+As a part of the continuing monitoring and evaluation process, the Assistant Secretary or his representative shall conduct visits to the designated agency or agencies of State with approved plans at least every 6 months. An opportunity may also be provided for discussion and comments on the effectiveness of the State plan from other interested persons. These visits will be scheduled as needed. Periodic audits will be conducted to assess the progress of the overall State program in meeting the goal of becoming at least as effective as the Federal program. These audits will include case file review and follow-up inspections of workplaces.

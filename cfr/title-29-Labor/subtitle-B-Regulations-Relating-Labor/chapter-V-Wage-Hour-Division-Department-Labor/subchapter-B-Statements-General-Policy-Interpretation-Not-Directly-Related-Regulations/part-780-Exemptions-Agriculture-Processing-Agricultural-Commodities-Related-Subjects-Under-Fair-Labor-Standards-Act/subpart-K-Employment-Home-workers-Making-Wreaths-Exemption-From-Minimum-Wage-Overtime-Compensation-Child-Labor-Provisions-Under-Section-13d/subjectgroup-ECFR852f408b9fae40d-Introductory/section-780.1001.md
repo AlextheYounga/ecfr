@@ -1,0 +1,3 @@
+##### § 780.1001 General explanatory statement. #####
+
+Workers in rural areas sometimes engage, as a family unit, around the Christmas holidays, in gathering evergreens and making them into wreaths in their homes. Such workers, under well-settled interpretations by the Department of Labor and the courts, have been held to be employees of the firm which purchases the wreaths and furnishes the workers with wire used in making such wreaths.

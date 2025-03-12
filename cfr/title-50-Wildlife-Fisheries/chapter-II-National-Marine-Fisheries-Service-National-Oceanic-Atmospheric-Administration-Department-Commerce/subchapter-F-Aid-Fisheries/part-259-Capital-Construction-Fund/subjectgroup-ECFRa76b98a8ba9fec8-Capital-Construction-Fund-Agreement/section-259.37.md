@@ -1,0 +1,3 @@
+##### § 259.37 Conditional consents to withdrawal qualification. #####
+
+The Secretary may conditionally consent to the qualification of withdrawal, such consent being conditional upon the timely submission to the Secretary of such further proofs, assurances, and advices as the Secretary, in his discretion, may require. Failure of a party to comply with the conditions of such a consent within a reasonable time and after due notice shall, at the Secretary's discretion, be cause for either, or both, nonqualification of withdrawal or involuntary Interim CCF Agreement termination.

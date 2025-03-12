@@ -1,0 +1,3 @@
+##### § 780.915 “Place of first processing.” #####
+
+Under section 13(b)(16) the fruits or vegetables may be transported to only two types of places. One is a “place of first processing”, which includes any place where canning, freezing, drying, preserving, or other operations which first change the form of the fresh fruits or vegetables from their raw and natural state are performed. (For overtime exemption applicable to “first processing,” see part 526 of this chapter.) A plant which grades and packs only is not a place of first processing (*Walling* v. *DeSoto Creamery and Produce Co.,* 51 F. Supp. 938). However, a packer's plant may qualify as a place of first marketing. (See § 780.916.)

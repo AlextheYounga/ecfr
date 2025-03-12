@@ -1,0 +1,13 @@
+##### § 420.109 What are the requirements for distribution of metropolitan planning funds? #####
+
+(a) The State DOTs shall make all PL funds authorized by 23 U.S.C. 104(f) available to the MPOs in accordance with a formula developed by the State DOT, in consultation with the MPOs, and approved by the FHWA Division Administrator. The formula may allow for a portion of the PL funds to be used by the State DOT, or other agency agreed to by the State DOT and the MPOs, for activities that benefit all MPOs in the State, but State DOTs shall not use any PL funds for grant or subgrant administration. The formula may also provide for a portion of the funds to be made available for discretionary grants to MPOs to supplement their annual amount received under the distribution formula.
+
+(b) In developing the formula for distributing PL funds, the State DOT shall consider population, status of planning, attainment of air quality standards, metropolitan area transportation needs, and other factors necessary to provide for an appropriate distribution of funds to carry out the requirements of 23 U.S.C. 134 and other applicable requirements of Federal law.
+
+(c) The State DOTs shall inform the MPOs and the FHWA Division Office of the amounts allocated to each MPO as soon as possible after PL funds have been apportioned by the FHWA to the State DOTs.
+
+(d) If the State DOT, in a State receiving the minimum apportionment of PL funds under the provisions of 23 U.S.C. 104(f)(2), determines that the share of funds to be allocated to any MPO results in the MPO receiving more funds than necessary to carry out the provisions of 23 U.S.C. 134, the State DOT may, after considering the views of the affected MPO(s) and with the approval of the FHWA Division Administrator, use those funds for transportation planning outside of metropolitan planning areas.
+
+(e) In accordance with the provisions of 23 U.S.C. 134(n), any PL funds not needed for carrying out the metropolitan planning provisions of 23 U.S.C. 134 in any State may be made available by the MPO(s) to the State DOT for funding statewide planning activities under 23 U.S.C. 135, subject to approval by the FHWA Division Administrator.
+
+(f) Any State PL fund distribution formula that does not meet the requirements of paragraphs (a) and (b) of this section shall be brought into conformance with those requirements before distribution on any new apportionment of PL funds.

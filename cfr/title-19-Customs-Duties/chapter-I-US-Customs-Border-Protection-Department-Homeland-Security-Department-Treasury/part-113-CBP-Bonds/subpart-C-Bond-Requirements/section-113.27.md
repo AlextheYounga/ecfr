@@ -1,0 +1,9 @@
+##### § 113.27 Effective dates of termination of bond. #####
+
+(a) *Termination by principal/co-principal.* A written request by a principal or co-principal to terminate a bond must be mailed, faxed, or emailed to the Revenue Division or, in the case of a bond relating to repayment of erroneous drawback payment, to the drawback office where the bond was approved. The termination will take effect on the date requested if that date is at least 10 business days after the date CBP receives the request. If no termination date is requested, the termination will take effect on the tenth business day following the date CBP receives the request.
+
+(b) *Termination by surety.* A surety may not disavow already incurred obligations but may, with or without the consent of the principal, terminate its agreement to accept future obligations on a bond. The surety must provide reasonable notice of termination, made pursuant to the methods set forth in paragraph (a) of this section, to both the Revenue Division or a drawback office, as appropriate, and to the principal. The notice must state the date on which the termination will be effective. Thirty days will constitute reasonable notice unless the surety can show to the satisfaction of CBP that a shorter time frame is reasonable under the facts and circumstances.
+
+(c) *Effect of termination.* If a bond is terminated, no new customs transactions may be charged against the bond. A new bond in an appropriate amount on CBP Form 301, containing the appropriate bond conditions set forth in subpart G of this part, must be filed before further customs activity may be transacted.
+
+[CBP Dec. 15-15, 80 FR 70164, Nov. 13, 2015]

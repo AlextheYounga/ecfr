@@ -1,0 +1,19 @@
+##### § 2007.2 Action following receipt of requests for modifications in the list of eligible articles and for reviews of the GSP status of eligible beneficiary countries with respect to designation criteria. #####
+
+(a)(1) If a request submitted pursuant to § 2007.0(a) does not conform to the requirements set forth above, or if it is clear from available information that the request does not warrant further consideration, the request shall not be accepted for review. Upon written request, requests which are not accepted for review will be returned together with a written statement of the reasons why the request was not accepted.
+
+(2) If a request submitted pursuant to § 2007.0(b) does not conform to the requirements set forth above, or if the request does not provide sufficient information relevant to subsection 502(b) or 502(c) (19 U.S.C. 2642 (b) and (c)) to warrant review, or if it is clear from available information that the request does not fall within the criteria of subsection 502(b) or 502(c), the request shall not be accepted for review. Upon written request, requests which are not accepted for review will be returned together with a written statement of the reasons why the request was not accepted.
+
+(b) Requests which conform to the requirements set forth above or for which petitioners have demonstrated a good faith effort to obtain information in order to meet the requirements set forth above, and for which further consideration is deemed warranted, shall be accepted for review.
+
+(c) The TPSC shall announce in the Federal Register those requests which will be considered for full examination in the annual review and the deadlines for submissions made pursuant to the review, including the deadlines for submission of comments on the U.S. International Trade Commission (USITC) report in instances in which USITC advice is requested.
+
+(d) In conducting annual reviews, the TPSC shall hold public hearings in order to provide the opportunity for public testimony on petitions and requests filed pursuant to paragraphs (a) and (b) of § 2007.0.
+
+(e) As appropriate, the USTR on behalf of the President will request advice from the USITC.
+
+(f) The GSP Subcommittee of the TPSC shall conduct the first level of interagency consideration under this part, and shall submit the results of its review to the TPSC.
+
+(g) The TPSC shall review the work of the GSP Subcommittee and shall conduct, as necessary, further reviews of requests submitted and accepted under this part. Unless subject to additional review, the TPSC shall prepare recommendations for the President on any modifications to the GSP under this part. The Chairman of the TPSC shall report the results of the TPSC's review to the U.S. Trade Representative who may convene the Trade Policy Review Group (TPRG) or the Trade Policy Committee (TPC) for further review of recommendations and other decisions as necessary. The U.S. Trade Representative, after receiving the advice of the TPSC, TPRG or TPC, shall make recommendations to the President on any modifications to the GSP under this part, including recommendations that no modifications be made.
+
+(h) In considering whether to recommend: (1) That additional articles be designated as eligible for the GSP; (2) that the duty-free treatment accorded to eligible articles under the GSP be withdrawn, suspended or limited; (3) that product coverage be otherwise modified; or (4) that changes be made with respect to the GSP status of eligible beneficiary countries, the GSP Subcommittee on behalf of the TPSC, TPRG, or TPC shall review the relevant information submitted in connection with or concerning a request under this part together with any other information which may be available relevant to the statutory prerequisites for Presidential action contained in Title V of the Trade Act of 1974, as amended (19 U.S.C. 2461-2465).

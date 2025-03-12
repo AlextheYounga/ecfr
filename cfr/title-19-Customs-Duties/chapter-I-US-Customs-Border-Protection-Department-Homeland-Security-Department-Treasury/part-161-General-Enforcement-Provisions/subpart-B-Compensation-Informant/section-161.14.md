@@ -1,0 +1,3 @@
+##### § 161.14 Advising informant of entitlement. #####
+
+Any Customs officer who receives information shall advise the informant that, in the event of a recovery, he may be entitled to compensation. He shall also advise the informant that, if the informant has executed a stipulation to that effect, any amount received by the informant in the form of purchase of evidence or purchase of information will be deducted from any compensation which may be awarded.

@@ -1,0 +1,5 @@
+##### § 17.67 Review of departmental records related to the debt. #####
+
+(a) *Notification by the debtor.* A debtor who intends to inspect or copy departmental records related to the debt pursuant to 31 CFR 901.3 must, within 20 calendar days after the date of the notice in § 17.65, send a letter to HUD, at the address indicated in the notice of intent to offset, stating his or her intention. A debtor may also request, within 20 calendar days from the date of such notice, that HUD provide the debtor with a copy of departmental records related to the debt.
+
+(b) *HUD's response.* In response to a timely notification by the debtor as described in paragraph (a) of this section, HUD shall notify the debtor of the location and the time when the debtor may inspect or copy departmental records related to the debt. If the debtor requests that HUD provide a copy of departmental records related to the debt, HUD shall send the records to the debtor within 10 calendar days from the date that HUD receives the debtor's request. HUD may charge the debtor a reasonable fee to compensate for the cost of providing a copy of the departmental records related to the debt.

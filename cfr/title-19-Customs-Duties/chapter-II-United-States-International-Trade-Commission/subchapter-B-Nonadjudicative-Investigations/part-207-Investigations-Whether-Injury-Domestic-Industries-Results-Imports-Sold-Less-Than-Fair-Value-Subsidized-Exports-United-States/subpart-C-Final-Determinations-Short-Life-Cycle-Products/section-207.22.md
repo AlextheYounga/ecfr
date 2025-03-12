@@ -1,0 +1,7 @@
+##### § 207.22 Prehearing and final staff reports. #####
+
+(a) *Prehearing staff report.* The Director shall prepare and place in the record, prior to the hearing, a prehearing staff report containing information concerning the subject matter of the investigation. A version of the staff report containing business proprietary information shall be placed in the nonpublic record and made available to persons authorized to receive business proprietary information under § 207.7, and a nonbusiness proprietary version of the staff report shall be placed in the public record.
+
+(b) *Final staff report.* After the hearing, the Director shall revise the prehearing staff report and submit to the Commission, prior to the Commission's final determination, a final version of the staff report. The final staff report is intended to supplement and correct the information contained in the prehearing staff report. A public version of the final staff report shall be made available to the public and a business proprietary version shall also be made available to persons authorized to receive business proprietary information under section 207.7.
+
+[56 FR 11927, Mar. 21, 1991, as amended at 60 FR 22, Jan. 3, 1995. Redesignated at 61 FR 37832, July 22, 1996]

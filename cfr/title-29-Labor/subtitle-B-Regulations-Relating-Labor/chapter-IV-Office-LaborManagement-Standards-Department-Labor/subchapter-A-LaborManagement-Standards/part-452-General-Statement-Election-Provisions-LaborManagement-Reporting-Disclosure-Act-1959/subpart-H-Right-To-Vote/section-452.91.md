@@ -1,0 +1,3 @@
+##### § 452.91 Voting by employers, supervisors. #####
+
+Voting in union elections by employers, self-employed persons, supervisors or other persons who are considered to be part of management is not precluded by title IV of the Act even if they are not required to maintain union membership as a condition of employment. However, as mentioned in the discussion of qualifications for candidacy (see § 452.47), such persons may not dominate or interfere with the administration of any labor organization.

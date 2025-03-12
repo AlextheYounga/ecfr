@@ -1,0 +1,3 @@
+##### § 1308.53 Service. #####
+
+A subpoena may be served at any place, and may be served by any individual not a party who is at least 18 years of age, or as otherwise provided by law. Service may be made by an attorney or employee of a party. Service shall be made by personal delivery of the subpoena to the individual named therein, together with tender of the amounts required by 5 U.S.C. 503 or other applicable law. The individual making service shall file with the Board the duplicate subpoena, filled out as served, with the return of service filled in, signed and notarized.

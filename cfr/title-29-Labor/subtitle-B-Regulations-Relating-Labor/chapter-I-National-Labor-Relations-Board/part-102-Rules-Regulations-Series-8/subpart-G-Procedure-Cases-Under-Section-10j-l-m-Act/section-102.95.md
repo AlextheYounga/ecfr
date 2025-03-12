@@ -1,0 +1,5 @@
+##### § 102.95 Priority of cases pursuant to section 10(l) and (m) of the Act. #####
+
+(a) Whenever a charge is filed alleging the commission of an unfair labor practice within the meaning of paragraph (4) (A), (B), (C), or (7) of section 8(b) of the Act, or section 8(e) of the Act, the regional office in which such charge is filed or to which it is referred shall give it priority over all other cases in the office except cases of like character and cases under paragraph (4)(D) of section 8(b) of the Act in which it is deemed appropriate to seek injunctive relief of a district court pursuant to section 10(l) of the Act.
+
+(b) Whenever a charge is filed alleging the commission of an unfair labor practice within the meaning of subsection (a)(3) or (b)(2) of section 8 of the Act, the regional office in which such charge is filed or to which it is referred shall give it priority over all other cases in the office except cases of like character and cases under section 10(l) of the Act.

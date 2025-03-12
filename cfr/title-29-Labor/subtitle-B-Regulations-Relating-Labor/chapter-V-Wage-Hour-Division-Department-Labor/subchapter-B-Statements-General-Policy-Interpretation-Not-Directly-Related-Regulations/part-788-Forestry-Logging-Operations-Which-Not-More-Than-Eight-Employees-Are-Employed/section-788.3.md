@@ -1,0 +1,3 @@
+##### § 788.3 Purpose of this part. #####
+
+The purpose of this part is to make available in one place the views of the Department of Labor with respect to the application and meaning of the provisions of section 13(a)(13) of the Act which will provide “a practical guide to employers and employees as to how the office representing the public interest in enforcement of the law will seek to apply it” (*Skidmore* v. *Swift & Co.,* 324 U.S. 134).

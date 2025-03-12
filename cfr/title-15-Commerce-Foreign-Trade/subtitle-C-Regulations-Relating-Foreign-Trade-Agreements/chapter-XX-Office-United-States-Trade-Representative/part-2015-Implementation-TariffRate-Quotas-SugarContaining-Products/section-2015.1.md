@@ -1,0 +1,3 @@
+##### § 2015.1 Purpose. #####
+
+The purpose of this part is to provide for the implementation of the tariff-rate quota for sugar-containing products established as a result of the Uruguay Round Agreements, approved by the Congress in section 101 of the Uruguay Round Agreements Act (Pub. L. 103-465). In particular, this party provides for the administration of export certificates where a country that has an allocation of the in-quota quantity under a tariff-rate quota has chosen to use export certificates.

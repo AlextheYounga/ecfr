@@ -1,0 +1,3 @@
+##### § 452.74 Expenditures permitted. #####
+
+The Act does not prohibit impartial publication of election information. Thus, it would not be improper for a union to sponsor a debate at which all candidates for a particular office are afforded equal opportunity to express their views to the membership prior to an election. Similarly, a union may issue information sheets containing biographical data on all candidates so long as all candidates are given equal opportunity to submit such data.

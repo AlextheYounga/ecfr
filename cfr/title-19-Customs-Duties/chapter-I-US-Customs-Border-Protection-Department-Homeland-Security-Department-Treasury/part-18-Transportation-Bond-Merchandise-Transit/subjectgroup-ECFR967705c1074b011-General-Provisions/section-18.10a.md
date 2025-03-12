@@ -1,0 +1,9 @@
+##### § 18.10a Special manifest. #####
+
+(a) *General.* Merchandise for which no other type of bonded movement is appropriate (e.g., prematurely discharged or overcarried merchandise and other such types of movements whereby the normal transportation-in-bond procedures are not applicable) may be shipped in bond from the port of unlading to the destination shown on the importing carrier's manifest (manifested port) when authorized by the port director having custody of the merchandise. For this purpose, Custom's Form 7512 prepared in quadruplicate shall be used as a special manifest.
+
+(b) *Manifest procedures.* (1) Written application shall be made to the port director where the merchandise is being held for permission to return it as a bonded shipment under a special manifest to the manifested port, including to the port of diversion (see section 4.33 of this chapter), when different from the original manifested port.
+
+(2) The application and accompanying completed Customs Form 7512 shall identify the prematurely discharged or overcarried merchandise on the inward manifest of the importing carrier; and also identify the date and entry number of any entry made at the manifested port covering the merchandise to be returned, if known. If the port director is satisfied that the merchandise will be delivered to Customs custody at the manifest port before expiration of 90 days from the date of the entry identified, or 90 days from the date of the importing carrier's arrival at the manifested port when no entry is identified, the port director may approve the shipment under a special manifest.
+
+[T.D. 83-218, 48 FR 48657, Oct. 20, 1983; 48 FR 49655, Oct. 27, 1983]

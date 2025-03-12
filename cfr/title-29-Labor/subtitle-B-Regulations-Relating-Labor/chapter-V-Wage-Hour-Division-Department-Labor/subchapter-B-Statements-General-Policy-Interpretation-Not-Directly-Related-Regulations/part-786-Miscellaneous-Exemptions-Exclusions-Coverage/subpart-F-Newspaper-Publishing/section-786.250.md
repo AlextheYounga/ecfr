@@ -1,0 +1,5 @@
+##### § 786.250 Enforcement policy. #####
+
+The exemption provided by paragraph 13(a)(8) of the Fair Labor Standards Act of 1938 applies to “any employee employed in connection with the publication of any weekly, semiweekly, or daily newspaper with a circulation of less than four thousand the major part of which circulation is within the county where published or counties contiguous thereto.” For the purpose of enforcement, it is the Divisions' position that such an employee is within the exemption even though he is also engaged in job printing activities. if less than 50 percent of the employee's worktime during the workweek is spent in job printing work, some of which is subject to the Act. If none of the job printing activities are within the general coverage of the Act, the exemption applies even if the job printing activities equal or exceed 50 percent of the employee's worktime. However, this exemption is not applicable if the employee spends 50 percent or more of his worktime in a workweek on job printing, any portion of which is within the general coverage of the Act on an individual or enterprise basis.
+
+[32 FR 15426, Nov. 4, 1967]

@@ -1,0 +1,3 @@
+##### § 730.10 Advisory information. #####
+
+The general information in this part is just that—general. To achieve brevity, so as to give you a quick overview, the information in this part is selective, incomplete, and not expressed with regulatory precision. The controlling language is the language of succeeding parts of the EAR and of any other laws or regulations referred to or applicable. The content of this part is not to be construed as modifying or interpreting any other language or as in any way, limiting the authority of BIS, any of its components or any other government department or agency. You should not take any action based solely on what you read in this part.

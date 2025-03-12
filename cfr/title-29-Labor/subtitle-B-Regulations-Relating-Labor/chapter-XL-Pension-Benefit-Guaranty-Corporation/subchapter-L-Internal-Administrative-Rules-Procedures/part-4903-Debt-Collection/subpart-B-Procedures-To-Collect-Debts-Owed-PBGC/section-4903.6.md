@@ -1,0 +1,7 @@
+##### § 4903.6 How will PBGC add interest, penalty charges, and administrative costs to a debt owed to PBGC? #####
+
+(a) *Assessment and notice.* PBGC will assess interest, penalties and administrative costs on PBGC debts in accordance with the provisions of 31 U.S.C. 3717, 31 CFR 901.9 and other applicable requirements. Administrative costs, including the costs of processing and handling a delinquent debt, will be determined by PBGC. PBGC will explain in the notice to the debtor how interest, penalties, costs, and other charges are assessed, unless the requirements are included in a contract or other legally binding agreement.
+
+(b) *Waiver of interest, penalties, and administrative costs.* Unless otherwise required by law, regulation, or contract, PBGC will not charge interest if the amount due on the debt is paid within 30 days of the date from which the interest accrues. *See* 31 U.S.C. 3717(d). To the extent permitted by law, PBGC may waive interest, penalties, and administrative costs, or any portion thereof, in appropriate circumstances consistent with the FCCS.
+
+(c) *Accrual during suspension of debt collection.* In most cases, interest, penalties and administrative costs will continue to accrue during any period when collection has been suspended for any reason (for example, when the debtor has requested a hearing). PBGC may suspend accrual of any or all of these charges in appropriate circumstances consistent with the FCCS.

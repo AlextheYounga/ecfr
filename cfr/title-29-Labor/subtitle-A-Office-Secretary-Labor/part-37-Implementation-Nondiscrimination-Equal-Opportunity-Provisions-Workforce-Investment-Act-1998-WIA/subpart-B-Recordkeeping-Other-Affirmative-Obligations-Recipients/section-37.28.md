@@ -1,0 +1,3 @@
+##### § 37.28 What are the obligations of service providers regarding Equal Opportunity Officers? #####
+
+Service providers, as defined in § 37.4, are not required to designate an Equal Opportunity Officer. The obligation for ensuring service provider compliance with the nondiscrimination and equal opportunity provisions of WIA and this part rests with the Governor or LWIA grant recipient, as specified in the State's Methods of Administration.

@@ -1,0 +1,5 @@
+##### § 2575.3 Subsequent adjustments to civil monetary penalties. #####
+
+No later than January 15, starting in 2017, and each subsequent year, the Secretary shall adjust for inflation the civil monetary penalties described in § 2575.2 and any future civil monetary penalties enforceable by the Secretary under title I of ERISA and publish such annual adjustments in the Federal Register notwithstanding section 553 of the Administrative Procedures Act. Future penalties or adjustments to the amount of the penalty that are enacted by statute or regulation will not be adjusted for inflation in the first year those penalty levels take effect. Annual inflation adjustments shall apply to penalties assessed after the later of January 15 or the date notice of the annual inflation adjustment is published in the Federal Register.
+
+[81 FR 43454, July 1, 2016]

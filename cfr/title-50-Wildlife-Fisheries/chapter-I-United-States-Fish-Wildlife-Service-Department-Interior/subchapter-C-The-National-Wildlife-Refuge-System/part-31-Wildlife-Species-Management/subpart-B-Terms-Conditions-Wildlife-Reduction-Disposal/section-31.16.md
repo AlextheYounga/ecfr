@@ -1,0 +1,5 @@
+##### § 31.16 Trapping program. #####
+
+Except as hereafter noted, persons trapping animals on wildlife refuge areas where trapping has been authorized shall secure and comply with the provisions of a Federal permit issued for that purpose. This permit shall specify the terms and conditions of trapping activity and the rates of charge or division of pelts, hides, and carcasses. Lands acquired as “waterfowl production areas” shall be open to public trapping without Federal permit provided that trapping on all or part of individual areas may be temporarily suspended by posting upon occasions of unusual or critical conditions affecting land, water, vegetation, or wildlife populations. Each person trapping on any wildlife refuge area shall possess the required State license or permit and shall comply with the provisions of State laws and regulations.
+
+[36 FR 17998, Sept. 8, 1971]

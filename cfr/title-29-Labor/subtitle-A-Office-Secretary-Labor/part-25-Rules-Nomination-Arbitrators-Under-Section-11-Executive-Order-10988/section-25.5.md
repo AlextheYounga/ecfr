@@ -1,0 +1,7 @@
+##### § 25.5 Action to be taken by the Secretary; nomination and selection. #####
+
+(a) Upon receipt of a request and the responses, if any, the Secretary shall make such further inquiries as may be necessary to determine his authority under the Order and these procedures; whether a timely request for nomination has been made; whether a valid question concerning representation exists in a prima facie appropriate unit; or for the purpose of obtaining a further specification of the issues or matters to be submitted for an advisory decision or determination, or assisting or advising the persons nominated or considered for nomination or otherwise facilitating submission of the matter to such person or persons in a manner that will permit an expeditious decision or determination.
+
+(b) The Secretary will determine the adequacy of the showing of interest administratively, and such determination shall not be subject to collateral attack at a hearing before an arbitrator.
+
+(c) The Secretary shall nominate not less than three arbitrators. Within 5 days the parties may indicate their order of preference from among those nominated. The Secretary will thereafter make a selection from among the nominees listed.

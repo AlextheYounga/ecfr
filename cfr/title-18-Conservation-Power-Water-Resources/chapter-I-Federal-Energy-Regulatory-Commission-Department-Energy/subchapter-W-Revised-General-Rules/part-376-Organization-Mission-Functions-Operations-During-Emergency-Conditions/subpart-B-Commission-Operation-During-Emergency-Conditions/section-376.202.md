@@ -1,0 +1,3 @@
+##### § 376.202 Authority to move Commission offices. #####
+
+The Commission may provide for removal of its headquarters to any location in the United States for the duration of emergency conditions. Consistent with directives of the Chairman, the Commission officer or employee in charge of a regional office of the Commission may move such office to a new location in the United States for the duration of emergency conditions.

@@ -1,0 +1,3 @@
+##### § 2006.2 Adequacy of the petition. #####
+
+If the petition filed pursuant to section 302 does not conform substantially to the requirements of §§ 2006.0 and 2006.1, the Chairman of the Section 301 Committee may decline to docket the petition as filed and, if requested by petitioner, return it to petitioner with guidance on making the petition conform to the requirements, or may nevertheless determine that there is sufficient information on which to proceed to a determination whether to initiate an investigation.

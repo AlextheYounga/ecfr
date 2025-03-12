@@ -1,0 +1,5 @@
+##### § 207.119 Reconsideration. #####
+
+(a) *Motion for reconsideration.* Within fourteen (14) days after service of a Commission determination, any party may file with the Commission a motion for reconsideration, setting forth the relief desired and the grounds in support thereof. Any motion filed under this section must be confined to new questions raised by the determination or action ordered to be taken thereunder and upon which the moving party had no opportunity to submit arguments.
+
+(b) *Disposition of motion for reconsideration.* The Commission shall grant or deny the motion for reconsideration. No response to a motion for reconsideration will be received unless requested by the Commission, but a motion for reconsideration will not be granted in the absence of such a request. If the motion to reconsider is granted, the Commission may affirm, set aside, or modify its determination, including any action ordered by it to be taken thereunder. When appropriate, the Commission may order the administrative law judge to take additional evidence.

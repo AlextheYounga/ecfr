@@ -1,0 +1,7 @@
+##### § 14.151 Primary enclosures. #####
+
+(a) Except as provided in § 14.106(j), ventilation openings must be located on at least two walls of a primary enclosure. When the required ventilation openings are located on two opposite walls of the primary enclosure, these ventilation openings shall comprise at least 16 percent of the total surface area of the ventilated wall. When ventilation openings are located on all four walls, the openings shall comprise at least 8 percent of the total surface area of each wall. At least one-third of the total minimum area required for ventilation of the primary enclosure shall be located on the upper one-half of the primary enclosure.
+
+(b) No more than one sloth, bat, or flying lemur (Cynocephalidae) shall be transported in a primary enclosure. However, a mother and her nursing young being transported for medical reasons, an established male-female pair, a family group, a pair of juvenile animals that have not reached puberty, or other small groups of animals that have been habitually housed together may be shipped in the same primary enclosure.
+
+(c) A primary enclosure used to transport sloths, bats, or flying lemurs shall be large enough to ensure that each animal has sufficient space to move freely and in a normal manner and shall have a wide perch, bar, or mesh of suitable strength fitted under the top of the enclosure and spaced from it in such a way that the animals may hang from it freely in a natural position.

@@ -1,0 +1,3 @@
+##### § 111.35 Acceptance of fees from attorneys. #####
+
+With respect to customs transactions, a broker must not demand or accept from any attorney (whether directly or indirectly, including, for example, from a client as a part of any arrangement with an attorney) on account of any case litigated in any court of law or on account of any other legal service rendered by an attorney any fee or remuneration in excess of an amount measured by or commensurate with the time, effort and skill expended by the broker in performing his services.

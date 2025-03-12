@@ -1,0 +1,5 @@
+##### § 152.2 Notification to importer of increased duties. #####
+
+If the port director believes that the entered rate or value of any merchandise is too low, or if he finds that the quantity imported exceeds the entered quantity, and the estimated aggregate of the increase in duties on that entry exceeds $15, he shall promptly notify the importer on Customs Form 29, or its electronic equivalent specifying the nature of the difference on the notice. Liquidation shall be made promptly and shall not be withheld for a period of more than 20 days from the date of mailing of such notice unless in the judgment of the port director there are compelling reasons that would warrant such action.
+
+[T.D. 73-175, 38 FR 17477, July 2, 1973, as amended by T.D. 82-224, 47 FR 53728, Nov. 29, 1982; T.D. 93-66, 58 FR 44131, Aug. 19, 1993; CBP Dec. 15-14, 80 FR 61291, Oct. 13, 2015]

@@ -1,0 +1,5 @@
+##### § 1640.4 Confidentiality. #####
+
+(a) When a section 504 agency or a designated agency receives information obtained by the EEOC, such agency shall observe the confidentiality requirements of section 706(b) and section 709(e) of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e-5(b) and 2000e-8(e)), as incorporated by section 107(a) of the ADA, to the same extent as these provisions would bind the EEOC, except when the agency receives the same information from a source independent of the EEOC. Agency questions concerning the confidentiality requirements of title I shall be directed to the Associate Legal Counsel for Legal Services, Office of Legal Counsel, the EEOC.
+
+(b) When the EEOC receives information from a section 504 or a designated agency, the EEOC shall observe any confidentiality requirements applicable to that information.

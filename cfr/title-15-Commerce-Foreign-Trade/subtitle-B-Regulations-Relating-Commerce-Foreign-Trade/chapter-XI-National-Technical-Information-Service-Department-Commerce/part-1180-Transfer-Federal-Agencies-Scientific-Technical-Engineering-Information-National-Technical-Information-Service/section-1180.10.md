@@ -1,0 +1,3 @@
+##### § 1180.10 NTIS permanent repository. #####
+
+A product, or category of product, will normally be accepted and maintained as part of NTIS' permanent repository as a service to agencies unless the Director advises the Liaison Officer that it has not been so accepted. In general, transferred products will not be accepted if they have not been properly prepared as required by Section 1180.4 or if NTIS believes that the cost of adding them to the repository will significantly exceed anticipated benefits to the public as measured by foreseeable demand. A product announced by NTIS as being available from NTIS shall be deemed to have been accepted by NTIS as part of its permanent repository.

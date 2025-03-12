@@ -1,0 +1,3 @@
+##### § 10.701 Scope. #####
+
+This subpart implements the duty preference and related customs provisions applicable to imported goods under the United States-Jordan Free Trade Agreement (the US-JFTA) signed on October 24, 2000, and under the United States-Jordan Free Trade Area Implementation Act (the Act; 115 Stat. 243). Except as otherwise specified in this subpart, the procedures and other requirements set forth in this subpart are in addition to the customs procedures and requirements of general application contained elsewhere in this chapter. Additional provisions implementing certain aspects of the US-JFTA are contained in part 163 of this chapter.

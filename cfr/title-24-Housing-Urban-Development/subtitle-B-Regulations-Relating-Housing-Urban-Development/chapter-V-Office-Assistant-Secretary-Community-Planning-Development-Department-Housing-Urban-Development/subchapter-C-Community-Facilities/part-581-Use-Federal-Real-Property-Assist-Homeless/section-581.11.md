@@ -1,0 +1,3 @@
+##### § 581.11 Unsuitable properties. #####
+
+The landholding agency will defer, for 20 days after the date that notice of a property is published in the Federal Register, action to dispose of properties determined unsuitable for homeless assistance. HUD will inform landholding agencies or GSA if appeal of an unsuitability determination is filed by a representative of the homeless pursuant to § 581.4(f)(4). HUD will advise the agency that it should refrain from initiating disposal procedures until HUD has completed its reconsideration process regarding unsuitability. Thereafter, or if no appeal has been filed after 20 days, GSA or the appropriate landholding agency may proceed with disposal action in accordance with applicable law.

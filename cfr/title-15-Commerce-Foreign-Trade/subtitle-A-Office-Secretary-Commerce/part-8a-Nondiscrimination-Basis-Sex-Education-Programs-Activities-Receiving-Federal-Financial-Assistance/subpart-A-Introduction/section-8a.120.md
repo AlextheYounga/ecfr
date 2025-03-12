@@ -1,0 +1,3 @@
+##### § 8a.120 Transfers of property. #####
+
+If a recipient sells or otherwise transfers property financed in whole or in part with Federal financial assistance to a transferee that operates any education program or activity, and the Federal share of the fair market value of the property is not upon such sale or transfer properly accounted for to the Federal Government, both the transferor and the transferee shall be deemed to be recipients, subject to the provisions of §§ 8a.205 through 8a.235(a).

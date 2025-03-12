@@ -1,0 +1,3 @@
+##### § 401.95 Assessment of a penalty. #####
+
+The Executive Director may recommend to the Commission the amount of the penalty to be imposed. Such a recommendation shall be in writing and shall set forth the basis for the penalty amount proposed. Based upon the record submitted to the Commission, the Commission shall decide whether a violation has occurred that justifies the imposition of a penalty pursuant to § 14.17 of the Compact. If it is found that such a violation has occurred, the Commission shall determine the amount of the penalty to be paid.

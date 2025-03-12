@@ -1,0 +1,3 @@
+##### § 154.601 Change in executed service agreement. #####
+
+Agreements intended to effect a change or revision of an executed service agreement on file with the Commission must be in the form of a superseding executed service agreement only. Service agreements may not contain any supplements, but may contain exhibits which may be separately superseded. The exhibits may show, among other things, contract demand delivery points, delivery pressures, names of industrial customers of the distributor-customer, or names of distributors (with one distributor named as agent where delivery to several distributors is effected at the same delivery points).

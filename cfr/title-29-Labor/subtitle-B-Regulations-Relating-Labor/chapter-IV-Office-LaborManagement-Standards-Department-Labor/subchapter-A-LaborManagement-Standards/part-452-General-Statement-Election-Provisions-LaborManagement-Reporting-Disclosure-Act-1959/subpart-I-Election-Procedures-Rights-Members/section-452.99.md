@@ -1,0 +1,9 @@
+##### § 452.99 Notice of election. #####
+
+Elections required by title IV to be held by secret ballot must be preceded by a notice of election mailed to each member at his last known home address not less than fifteen days prior to the election.48 For purposes of computing the fifteen day period, the day on which the notices are mailed is not counted whereas the day of the election is counted. For example, if the election is to be held on the 20th day of the month, the notices must be mailed no later than the 5th day. The notice must include a specification of the date, time and place of the election and of the offices to be filled, and it must be in such form as to be reasonably calculated to inform the members of the impending election. Specification of the offices to be filled would not be necessary if it is a regular, periodic election of all officers and the notice so indicates. A statement in the union bylaws that an election will be held at a certain time does not constitute the notice required by the statute. Since the Act specifies that the notice must be mailed, other means of transmission such as posting on a bulletin board or hand delivery will not satisfy the requirement. A notice of election must be sent to every member as defined in section 3(o) of the Act, not only to members who are eligible to vote in the election. Where the notice, if mailed to the last known permanent or legal residence of the member, would not be likely to reach him because of a known extended absence from that place, the statutory phrase “last known home address” may reasonably be interpreted to refer to the last known temporary address of definite duration. A single notice for both nominations and election may be used if it meets the requirements of both such notices.49
+
+48 Act, sec. 401(e).
+
+49 See § 452.56 for a discussion of the requirements for notices of nomination.
+
+[38 FR 18324, July 9, 1973, as amended at 63 FR 33780, June 19, 1998]

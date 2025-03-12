@@ -1,0 +1,3 @@
+##### § 208.8 Code of conduct. #####
+
+The Assistant Administrator will develop and implement a code of conduct for System Members acting under DHS's direction and control. Nothing in this section or the DHS code of conduct will limit the authority of a Sponsoring Agency, Participating Agency or Cooperating Agency to apply its own code of conduct to its System Members or employees. If the DHS code is more restrictive, it controls.

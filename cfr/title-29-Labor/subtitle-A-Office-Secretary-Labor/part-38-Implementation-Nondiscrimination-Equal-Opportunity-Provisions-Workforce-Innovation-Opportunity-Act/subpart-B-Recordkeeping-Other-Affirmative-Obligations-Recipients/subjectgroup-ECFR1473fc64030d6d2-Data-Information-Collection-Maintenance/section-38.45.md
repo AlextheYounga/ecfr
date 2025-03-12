@@ -1,0 +1,3 @@
+##### § 38.45 Confidentiality responsibilities of grant applicants, recipients, and the Department. #####
+
+Grant applicants, recipients and the Department must keep confidential to the extent possible, consistent with a fair determination of the issues, the identity of any individual who furnishes information relating to, or assists in, an investigation or a compliance review, including the identity of any individual who files a complaint. An individual whose identity is disclosed must be protected from retaliation (*See* § 38.19).

@@ -1,0 +1,5 @@
+##### § 241.1210 Condition for payment of insurance benefits. #####
+
+(a) All of the provisions of § 207.258 of this chapter apply to subpart F of this part, except that, if the holder of the senior insured mortgage institutes a foreclosure action, the lender shall notify the Commissioner in a timely manner of such action. The Commissioner, at its option, may then direct the lender to assign the equity or acquisition loan to the Commissioner, or bid an amount necessary to acquire the project and convey the project to the Commissioner.
+
+(b) If the equity loan or acquisition loan is assigned in accordance with this section, the Commissioner at a foreclosure sale may bid, in addition to amounts otherwise authorized, any sum not in excess of the aggregate unpaid indebtedness secured by the senior insured mortgage and equity or acquisition loan, plus taxes, insurance, foreclosure costs, fees and other expenses.

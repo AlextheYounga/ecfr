@@ -1,0 +1,3 @@
+##### § 181.111 Applicability. #####
+
+This subpart sets forth the circumstances and procedures under which exporters and producers of merchandise imported into the United States may obtain information about, and administrative and judicial review of, an adverse marking decision, as provided for in Article 510 of the NAFTA. This subpart does not apply to the review of advance rulings issued under Article 509 of the NAFTA (see subpart I of this part) or to the review of determinations that a good is not an originating good under General Note 12, HTSUS, and the appendix to this part (see part 174 of this chapter).

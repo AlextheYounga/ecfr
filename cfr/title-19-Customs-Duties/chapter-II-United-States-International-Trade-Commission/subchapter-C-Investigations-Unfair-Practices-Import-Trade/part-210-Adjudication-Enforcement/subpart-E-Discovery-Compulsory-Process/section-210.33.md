@@ -1,0 +1,21 @@
+##### § 210.33 Failure to make or cooperate in discovery; sanctions. #####
+
+(a) *Motion for order compelling discovery.* A party may apply to the administrative law judge for an order compelling discovery upon reasonable notice to other parties and all persons affected thereby.
+
+(b) *Non-monetary sanctions for failure to comply with an order compelling discovery.* If a party or an officer or agent of a party fails to comply with an order including, but not limited to, an order for the taking of a deposition or the production of documents, an order to answer interrogatories, an order issued pursuant to a request for admissions, or an order to comply with a subpoena, the administrative law judge, for the purpose of permitting resolution of relevant issues and disposition of the investigation without unnecessary delay despite the failure to comply, may take such action in regard thereto as is just, including, but not limited to the following:
+
+(1) Infer that the admission, testimony, documents, or other evidence would have been adverse to the party;
+
+(2) Rule that for the purposes of the investigation the matter or matters concerning the order or subpoena issued be taken as established adversely to the party;
+
+(3) Rule that the party may not introduce into evidence or otherwise rely upon testimony by the party, officer, or agent, or documents, or other material in support of his position in the investigation;
+
+(4) Rule that the party may not be heard to object to introduction and use of secondary evidence to show what the withheld admission, testimony, documents, or other evidence would have shown;
+
+(5) Rule that a motion or other submission by the party concerning the order or subpoena issued be stricken or rule by initial determination that a determination in the investigation be rendered against the party, or both; or
+
+(6) Order any other non-monetary sanction available under Rule 37(b) of the Federal Rules of Civil Procedure. Any such action may be taken by written or oral order issued in the course of the investigation or by inclusion in the initial determination of the administrative law judge. It shall be the duty of the parties to seek, and that of the administrative law judge to grant, such of the foregoing means of relief or other appropriate relief as may be sufficient to compensate for the lack of withheld testimony, documents, or other evidence. If, in the administrative law judge's opinion such relief would not be sufficient, the administrative law judge shall certify to the Commission a request that court enforcement of the subpoena or other discovery order be sought.
+
+(c) *Monetary sanctions for failure to make or cooperate in discovery.* (1) If a party or an officer, director, or managing agent of the party or person designated to testify on behalf of a party fails to obey an order to provide or permit discovery, the administrative law judge or the Commission may make such orders in regard to the failure as are just. In lieu of or in addition to taking action listed in paragraph (b) of this section and to the extent provided in Rule 37(b)(2) of the Federal Rules of Civil Procedure, the administrative law judge or the Commission, upon motion or sua sponte under § 210.25, may require the party failing to obey the order or the attorney advising that party or both to pay reasonable expenses, including attorney's fees, caused by the failure, unless the administrative law judge or the Commission finds that the failure was substantially justified or that other circumstances make an award of expenses unjust. Monetary sanctions shall not be imposed under this section against the United States, the Commission, or a Commission investigative attorney.
+
+(2) Monetary sanctions may be imposed under this section to reimburse the Commission for expenses incurred by a Commission investigative attorney or the Commission's Office of Unfair Import Investigations. Monetary sanctions will not be imposed under this section to reimburse the Commission for attorney's fees.

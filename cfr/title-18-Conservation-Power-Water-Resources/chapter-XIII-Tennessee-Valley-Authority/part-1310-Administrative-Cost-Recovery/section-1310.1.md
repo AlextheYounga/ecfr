@@ -1,0 +1,3 @@
+##### § 1310.1 Purpose. #####
+
+The purpose of the regulations in this part is to establish a schedule of fees to be charged in connection with the disposition and uses of, and activities affecting, real property in TVA's custody or control; approval of plans under section 26a of the Tennessee Valley Authority Act of 1933, as amended (16 U.S.C. 831y-1); and certain other activities in order to help ensure that such activities are self-sustaining to the full extent possible.

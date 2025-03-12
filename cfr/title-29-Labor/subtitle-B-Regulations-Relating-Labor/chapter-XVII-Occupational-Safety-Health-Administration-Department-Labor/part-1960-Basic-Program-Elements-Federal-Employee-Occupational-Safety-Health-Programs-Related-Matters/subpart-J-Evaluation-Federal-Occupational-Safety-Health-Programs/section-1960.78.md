@@ -1,0 +1,7 @@
+##### § 1960.78 Purpose and scope. #####
+
+(a) The purpose of this subpart is to establish a comprehensive program for the evaluation of Federal employee occupational safety and health programs. This subpart includes the responsibilities of agency heads in conducting self-evaluations of the effectiveness of their occupational safety and health programs, and the responsibilities of the Secretary in evaluating the extent to which each agency head has developed and implemented agency programs in accordance with the requirements of Executive Order 12196 and this part.
+
+(b) Agency heads shall develop and implement a program for evaluating the effectiveness of their agency's occupational safety and health program. An annual summary report shall be submitted to the Secretary covering self-evaluations conducted during the previous year.
+
+(c) The Secretary shall conduct a comprehensive evaluation of each Federal agency's occupational safety and health program. Evaluations shall be conducted on a regular schedule to determine the performance levels of each agency's program. The Secretary shall submit to the President each year: A summary report of the status of the occupational safety and health of Federal employees; Department of Labor evaluations, together with agency responses, of individual agency progress and problems in correcting unsafe and unhealthful working conditions, and recommendations for improving agency's performance.

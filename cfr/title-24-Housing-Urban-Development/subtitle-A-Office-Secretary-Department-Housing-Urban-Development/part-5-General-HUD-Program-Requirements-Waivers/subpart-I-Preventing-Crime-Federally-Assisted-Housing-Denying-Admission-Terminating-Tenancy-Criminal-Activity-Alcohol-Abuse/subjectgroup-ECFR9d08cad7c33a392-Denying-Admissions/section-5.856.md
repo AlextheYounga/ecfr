@@ -1,0 +1,3 @@
+##### § 5.856 When must I prohibit admission of sex offenders? #####
+
+You must establish standards that prohibit admission to federally assisted housing if any member of the household is subject to a lifetime registration requirement under a State sex offender registration program. In the screening of applicants, you must perform necessary criminal history background checks in the State where the housing is located and in other States where the household members are known to have resided. (See § 5.905.)

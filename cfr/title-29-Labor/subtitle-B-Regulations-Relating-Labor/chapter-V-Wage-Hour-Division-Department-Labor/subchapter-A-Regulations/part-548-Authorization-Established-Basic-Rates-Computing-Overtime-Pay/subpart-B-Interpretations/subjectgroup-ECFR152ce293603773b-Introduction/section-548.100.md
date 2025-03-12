@@ -1,0 +1,15 @@
+##### § 548.100 Introductory statement. #####
+
+(a) This subpart contains material explaining and illustrating the terms used in subpart A of this part which were issued under section 7(g)(3) of the Fair Labor Standards Act. The purpose of section 7(g)(3) of the Act, and subpart A of this part, is to provide an exception from the requirements of computing overtime pay at the regular rate,1 and to allow, under specific conditions, the use of an established “basic” rate2 instead. Basic rates are alternatives to the regular rate of pay under section 7(a), and their use is optional. The use of basic rates is principally intended to simplify bookkeeping and computation of overtime pay.
+
+1 The regular rate is the average hourly earnings of an employee for a workweek. See §§ 778.107 to 778.122 of this chapter on overtime compensation. Sections 7(g)(1) and 7(g)(2) of the Act permit overtime compensation to be computed, under specified conditions, at time and one-half the bona fide hourly or piece rate applicable to the work performed during the overtime hours. See §§ 778.415 to 778.421 of this chapter.
+
+2 The term “basic” rate as used in this part means the rate authorized under section 7(g)(3) of the Fair Labor Standards Act. Such a rate may be used to compute overtime compensation under the Walsh-Healey Public Contracts Act. (See Rulings and Interpretations No. 3. section 42(e)(1)). However, the term “basic” rate in this part should not be confused with the more general use of the term in the Public Contracts Act to describe all rates which may be used to compute overtime compensation or the use of the term in any other statute.
+
+(b) Section 7(g) of the Fair Labor Standards Act provides that an employer will comply with the overtime requirements of the Act if:
+
+\* \* \* pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, the amount paid to the employee for the number of hours worked by him in such workweek in excess of the maximum workweek applicable to such employee under such subsection [7](a):
+
+(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: *Provided,* That the rate so established shall be authorized by regulation by the Secretary of Labor as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time; and if (i) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.
+
+[20 FR 5680, Aug. 6, 1955, as amended at 26 FR 7731, Aug. 18, 1961]

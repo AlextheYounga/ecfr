@@ -1,0 +1,3 @@
+##### § 6.52 Appointment of Administrative Law Judge and notification of prehearing conference and hearing date. #####
+
+Upon receipt from the Administrator of an Order of Reference, notice to the parties, attachments and certificate of service, the Chief Administrative Law Judge shall appoint an Administrative Law Judge to hear the case. The Administrative Law Judge shall promptly notify all interested parties of the time and place of a prehearing conference and of the hearing which shall be held immediately upon the completion of prehearing conference. The date of the prehearing conference and hearing shall be not more than 60 days from the date on which the certificate of service indicates the Order of Reference was mailed.

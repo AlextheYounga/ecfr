@@ -1,0 +1,3 @@
+##### § 214.203 Re-approval or removal as a result of a performance review. #####
+
+HUD may conduct a periodic performance review for all agencies participating in the Housing Counseling program. The performance review and the terms of re-approval or removal of a participating agency are described in § 214.307 and § 214.309. At the end of the approval period, and upon completion of a successful performance review, if conducted, HUD will reapprove agencies.

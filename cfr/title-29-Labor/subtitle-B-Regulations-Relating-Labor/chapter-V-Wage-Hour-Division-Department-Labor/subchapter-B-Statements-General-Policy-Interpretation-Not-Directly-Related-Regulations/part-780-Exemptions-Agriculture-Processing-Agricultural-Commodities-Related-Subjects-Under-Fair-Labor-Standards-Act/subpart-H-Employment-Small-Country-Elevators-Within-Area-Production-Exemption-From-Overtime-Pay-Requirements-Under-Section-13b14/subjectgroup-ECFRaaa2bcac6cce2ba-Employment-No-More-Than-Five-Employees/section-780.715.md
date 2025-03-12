@@ -1,0 +1,7 @@
+##### § 780.715 Counting employees “employed in the establishment.” #####
+
+(a) Employees employed “in the establishment,” if employed “in such operations” as previously explained, are to be counted in determining whether the five-employee limitation on the exemption is exceeded.
+
+(b) Employees employed “in” the establishment clearly include all employees engaged, other than casually or sporadically, in performing any duties of their employment there, regardless of whether they are direct employees of the country elevator establishment or are employees of a farmer, independent contractor, or other person who are suffered or permitted to work (see Act, section 3(g)) in the establishment. However, tradesmen, such as dealers and their salesmen, for example, are not employed in the elevator simply because they visit the establishment to do business there. Neither are workers who deliver, on behalf of their employers, goods used in the sideline business of the establishment to be considered employed in the elevator.
+
+(c) The use of the language “employed in” rather than “engaged in” makes it plain also that the employees to be counted include all those employed by the establishment in its operations without regard to whether they are engaged in the establishment or away from it in performing their duties. This has been the consistent interpretation of similar language in other sections of the Act.

@@ -1,0 +1,3 @@
+##### § 930.83 Review of amended OCS plans; public notice. #####
+
+After receipt of a copy of the amended OCS plan, consistency certification, and necessary data and information, State agency review shall begin. The requirements of §§ 930.77, 930.78, and 930.79, apply to the review of amended OCS plans, except that the applicable time period for purposes of concurrence by conclusive presumption shall be three months instead of six months.

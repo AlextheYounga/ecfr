@@ -1,0 +1,3 @@
+##### § 154.306 Cash working capital. #####
+
+A natural gas company that files a tariff change under this part may not receive a cash working capital adjustment to its rate base unless the company or other participant in a rate proceeding under this part demonstrates, with a fully developed and reliable lead-lag study, a net revenue receipt lag or a net expense payment lag (revenue lead). Any demonstrated net revenue receipt lag will be credited to rate base; and, any demonstrated net expense payment lag will be deducted from rate base.

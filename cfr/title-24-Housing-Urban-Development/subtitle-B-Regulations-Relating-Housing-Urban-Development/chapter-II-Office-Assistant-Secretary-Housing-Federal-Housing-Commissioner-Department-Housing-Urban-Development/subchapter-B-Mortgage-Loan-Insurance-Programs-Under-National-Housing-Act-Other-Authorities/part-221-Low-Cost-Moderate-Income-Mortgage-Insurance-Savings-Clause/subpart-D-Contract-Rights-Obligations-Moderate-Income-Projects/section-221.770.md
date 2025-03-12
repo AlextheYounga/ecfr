@@ -1,0 +1,5 @@
+##### § 221.770 Assignment option. #####
+
+A mortgagee holding a conditional or firm commitment issued on or before November 30, 1983 (or, in the Direct Endorsement program, a property appraisal report signed by the mortgagee's approved underwriter on or before November 30, 1983) has the option to assign, transfer and deliver to the Commissioner the original credit instrument and the mortgage securing it, provided that the mortgage is not in default at the expiration of 20 years from the date of final endorsement of the credit instrument. In processing a mortgagee's claim for insurance benefits under this section, the Commissioner may direct the mortgagee to assign, transfer and deliver the original credit instrument, and the mortgage securing it, directly to the Government National Mortgage Association (GNMA). Upon such assignment, transfer and delivery either to the Commissioner or to GNMA, as directed, the mortgage insurance contract shall terminate and the mortgagee shall be entitled to receive insurance benefits in accordance with § 221.780.
+
+[49 FR 12698, Mar. 30, 1984, as amended at 57 FR 58351, Dec. 9, 1992]

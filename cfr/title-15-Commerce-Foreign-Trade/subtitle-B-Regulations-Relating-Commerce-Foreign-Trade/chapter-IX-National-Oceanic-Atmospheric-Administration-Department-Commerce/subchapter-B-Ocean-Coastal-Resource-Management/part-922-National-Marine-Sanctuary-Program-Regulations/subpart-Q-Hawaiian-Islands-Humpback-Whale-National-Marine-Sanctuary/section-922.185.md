@@ -1,0 +1,3 @@
+##### § 922.185 Emergency regulations. #####
+
+Where necessary to prevent or minimize the destruction of, loss of, or injury to a Sanctuary resource, or to minimize the imminent risk of such destruction, loss, or injury, any and all activities are subject to immediate temporary regulation, including prohibition. Before issuance of such regulations the Director shall consult to the extent practicable with any relevant Federal agency and the Governor of the State of Hawaii. Emergency regulations shall not take effect in State waters of the Sanctuary until approved by the Governor of Hawaii.

@@ -1,0 +1,5 @@
+##### § 171.23 Decisions not protestable. #####
+
+(a) *Mitigation decision not subject to protest.* Any decision to remit a forfeiture or mitigate a penalty is not a protestable decision as defined under the provisions of 19 U.S.C. 1514. Any payment made in compliance with any decision to remit a forfeiture or mitigate a penalty is not a charge or exaction and therefore is not a protestable action as defined under the provisions of 19 U.S.C. 1514.
+
+(b) *Payment of mitigated amount as accord and satisfaction.* Payment of a mitigated amount in compliance with an administrative decision on a petition or supplemental petition for relief will be considered an election of administrative proceedings and full disposition of the case. Payment of a mitigated amount will act as an accord and satisfaction of the Government claim. Payment of a mitigated amount will never serve as a bar to filing a supplemental petition for relief.

@@ -1,0 +1,3 @@
+##### § 1003.603 Labor standards. #####
+
+In accordance with the authority under section 107(e)(2) of the Act, the Secretary waives the provisions of section 110 of the Act (Labor Standards) with respect to this part, including the requirement that laborers and mechanics employed by the contractor or subcontractor in the performance of construction work financed in whole or in part with assistance received under this part be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act (40 U.S.C. 276 a to a-7).

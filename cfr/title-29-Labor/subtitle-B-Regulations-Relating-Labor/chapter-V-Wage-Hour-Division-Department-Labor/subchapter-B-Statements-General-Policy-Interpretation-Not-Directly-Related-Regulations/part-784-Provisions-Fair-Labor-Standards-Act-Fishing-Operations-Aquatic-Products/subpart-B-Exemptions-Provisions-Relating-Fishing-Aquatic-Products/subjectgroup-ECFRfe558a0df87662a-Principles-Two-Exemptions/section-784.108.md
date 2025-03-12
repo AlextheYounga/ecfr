@@ -1,0 +1,3 @@
+##### § 784.108 Operations not included in named operations on forms of aquatic “life.” #####
+
+Since the subject matter of the exemptions is concerned with “aquatic forms of animal and vegetable life,” the courts have held that the manufacture of buttons from clam shells or the dredging of shells to be made into lime and cement are not exempt operations because the shells are not living things (*Fleming* v. *Hawkeye Pearl Button Co.,* 113 F. 2d 52; *Walling* v. *Haden,* 153 F. 2d 196, certiorari denied 328 U.S. 866). Similarly, the production of such items as crushed shell and grit, shell lime, pearl buttons, knife handles, novelties, liquid glue, isinglass, pearl essence, and fortified or refined fish oil is not within these exemptions.

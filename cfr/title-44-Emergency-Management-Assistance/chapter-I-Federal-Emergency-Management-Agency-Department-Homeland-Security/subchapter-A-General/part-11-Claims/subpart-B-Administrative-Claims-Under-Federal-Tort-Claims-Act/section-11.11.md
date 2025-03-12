@@ -1,0 +1,11 @@
+##### § 11.11 Administrative claim; when presented; appropriate FEMA office. #####
+
+(a) For the purpose of this part, and the provisions of the Federal Tort Claims Act a claim is deemed to have been presented when FEMA receives, at a place designated in paragraph (b) or (c) of this section, an executed “Claim for Damage or Injury,” Standard Form 95, or other written notification of an incident, accompanied by a claim for money damages in a sum certain for injury to or loss of property, for personal injury, or for death alleged to have occurred by reason of the incident. A claim which should have been presented to FEMA, but which was mistakenly addressed to or filed with another Federal agency, is deemed to be presented to FEMA as of the date that the claim is received by FEMA. If a claim is mistakenly addressed to or filed with FEMA, the claim shall forthwith be transferred to the appropriate Federal Agency, if ascertainable, or returned to the claimant.
+
+(b) Except as provided in paragraph (c) of this section, a claimant shall mail or deliver his or her claim to the Office of Chief Counsel, Federal Emergency Management Agency, Washington, DC, 20472.
+
+(c) When a claim is for $200 or less, does not involve a personal injury, and involves a FEMA regional employee, the claimant shall mail or deliver the claim to the Administrator of the FEMA Regional Office in which is employed the FEMA employee whose negligence or wrongful act or omission is alleged to have caused the loss or injury complained of. The addresses of the Regional Offices of FEMA are set out in part 2 of this chapter.
+
+(d) A claim presented in compliance with paragraph (a) of this section may be amended by the claimant at any time prior to final FEMA action or prior to the exercise of the claimant's option under 28 U.S.C. 2675(a). Amendments shall be submitted in writing and signed by the claimant or his or her duly authorized agent or legal representative. Upon the timely filing of an amendment to a pending claim, FEMA shall have six months in which to make a final disposition of the claim as amended and the claimant's option under 28 U.S.C. 2675(a) shall not accrue until six months after the filing of an amendment.
+
+[45 FR 15930, Mar. 12, 1980, as amended at 48 FR 6711, Feb. 15, 1983; 49 FR 33879, Aug. 27, 1984]

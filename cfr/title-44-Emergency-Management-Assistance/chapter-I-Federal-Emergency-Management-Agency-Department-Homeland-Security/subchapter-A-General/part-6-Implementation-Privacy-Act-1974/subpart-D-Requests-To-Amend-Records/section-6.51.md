@@ -1,0 +1,5 @@
+##### § 6.51 Review of requests to amend records. #####
+
+(a) The system manager shall acknowledge the receipt of a request to amend a record within 10 workdays. If possible, the acknowledgment shall include the system manager's determination either to amend the record or to deny the request to amend as provided in § 6.53.
+
+(b) When reviewing a record in response to a request to amend, the system manager shall assess the accuracy, relevance, timeliness, and completeness of the existing record in light of the proposed amendment and shall determine whether the request for the amendment is justified. With respect to a request to delete information, the system manager also shall review the request and the existing record to determine whether the information is relevant and necessary to accomplish an agency purpose required to be accomplished by statute or Executive Order.

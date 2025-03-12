@@ -1,0 +1,3 @@
+##### § 1301.56 Final determination. #####
+
+The General Counsel makes the final determination whether a demand for testimony or production of records or official testimony in a legal proceeding in which TVA is not a party shall be granted. All final determinations are within the sole discretion of the General Counsel. The General Counsel will notify the requesting party and, when necessary, the court or other authority of the final determination, the reasons for the grant or denial of the request, and any conditions that the General Counsel may impose on the production of testimony or records or official information.

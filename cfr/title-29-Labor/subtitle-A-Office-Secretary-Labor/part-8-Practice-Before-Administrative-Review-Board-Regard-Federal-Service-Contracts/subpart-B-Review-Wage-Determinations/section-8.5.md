@@ -1,0 +1,3 @@
+##### § 8.5 Filing of wage determination record. #####
+
+The Associate Solicitor for Fair Labor Standards shall, promptly after service of the petition, file with the Board the record upon which the wage determination was based. Under no circumstances shall source data obtained by the Bureau of Labor Statistics, U.S. Department of Labor, or the names of establishments contacted by the Bureau be filed with the Board or otherwise disclosed. Where the Bureau has conducted a survey, the published summary of the data may be filed.

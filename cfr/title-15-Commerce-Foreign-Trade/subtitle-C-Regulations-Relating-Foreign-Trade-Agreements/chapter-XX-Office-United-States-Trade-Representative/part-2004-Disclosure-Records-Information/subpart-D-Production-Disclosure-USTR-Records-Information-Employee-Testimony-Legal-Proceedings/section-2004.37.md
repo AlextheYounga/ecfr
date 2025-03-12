@@ -1,0 +1,5 @@
+##### § 2004.37 Restrictions that apply to released records and information. #####
+
+(a) The General Counsel may impose conditions or restrictions on the release of records and information, including requiring the parties to the legal proceeding to obtain a protective order or to execute a confidentiality agreement to limit access and further disclosure. The terms of a protective order or confidentiality agreement must be acceptable to the General Counsel. In cases where protective orders or confidentiality agreements already have been executed, USTR may condition the release of records and information on an amendment to the existing protective order or confidentiality agreement.
+
+(b) If the General Counsel so determines, USTR may present original records for examination in response to a demand or request, but the records cannot be marked or altered or presented as evidence or otherwise used in a manner by which they could lose their status as original records. In lieu of original records, certified copies will be presented for evidentiary purposes. (*See* 28 U.S.C. 1733).

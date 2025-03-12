@@ -1,0 +1,3 @@
+##### § 142.51 Changing election of entry or immediate delivery. #####
+
+An applicant who has already received a C-4 Code and wishes to change the election chosen on his Line Release application as to whether the release should be considered an entry or an immediate delivery must submit a letter requesting such change to the port director where the C-4 Code is used. This letter must include the C-4 Code to be changed and the date the change is to be effective. If the requested change is for a temporary time period, the letter shall include the date the releases are to return to the release type originally requested. Applications that fail to state the effective dates of the changes requested will be returned to the applicant.

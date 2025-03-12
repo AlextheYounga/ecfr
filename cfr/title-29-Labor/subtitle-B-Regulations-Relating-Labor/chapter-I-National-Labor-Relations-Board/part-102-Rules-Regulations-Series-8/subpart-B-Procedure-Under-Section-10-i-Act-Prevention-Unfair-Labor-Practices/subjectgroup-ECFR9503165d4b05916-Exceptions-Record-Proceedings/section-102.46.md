@@ -1,0 +1,37 @@
+##### § 102.46 Exceptions, cross-exceptions, briefs, answering briefs; time for filing; where to file; service on the parties; extension of time; effect of failure to include matter in exceptions; reply briefs; oral arguments. #####
+
+(a) Within 28 days, or within such further period as the Board may allow, from the date of the service of the order transferring the case to the Board, pursuant to § 102.45, any party may (in accordance with section 10(c) of the Act and §§ 102.111 and 102.112 of these rules) file with the Board in Washington, DC, exceptions to the administrative law judge's decision or to any other part of the record or proceedings (including rulings upon all motions or objections), together with a brief in support of said exceptions. Any party may, within the same period, file a brief in support of the administrative law judge's decision. The filing of such exceptions and briefs is subject to the provisions of paragraph (j) of this section. Requests for extension of time to file exceptions or briefs shall be in writing and copies thereof shall be served promptly on the other parties.
+
+(b)(1) Each exception (i) shall set forth specifically the questions of procedure, fact, law, or policy to which exception is taken; (ii) shall identify that part of the administrative law judge's decision to which objection is made; (iii) shall designate by precise citation of page the portions of the record relied on; and (iv) shall concisely state the grounds for the exception. If a supporting brief is filed the exceptions document shall not contain any argument or citation of authority in support of the exceptions, but such matters shall be set forth only in the brief. If no supporting brief is filed the exceptions document shall also include the citation of authorities and argument in support of the exceptions, in which event the exceptions document shall be subject to the 50-page limit as for briefs set forth in § 102.46(j).
+
+(2) Any exception to a ruling, finding, conclusion, or recommendation which is not specifically urged shall be deemed to have been waived. Any exception which fails to comply with the foregoing requirements may be disregarded.
+
+(c) Any brief in support of exceptions shall contain no matter not included within the scope of the exceptions and shall contain, in the order indicated, the following:
+
+(1) A clear and concise statement of the case containing all that is material to the consideration of the questions presented.
+
+(2) A specification of the questions involved and to be argued, together with a reference to the specific exceptions to which they relate.
+
+(3) The argument, presenting clearly the points of fact and law relied on in support of the position taken on each question, with specific page reference to the record and the legal or other material relied on.
+
+(d)(1) Within 14 days, or such further period as the Board may allow, from the last date on which exceptions and any supporting brief may be filed, a party opposing the exceptions may file an answering brief to the exceptions, in accordance with the provisions of paragraph (j) of this section.
+
+(2) The answering brief to the exceptions shall be limited to the questions raised in the exceptions and in the brief in support thereof. It shall present clearly the points of fact and law relied on in support of the position taken on each question. Where exception has been taken to a factual finding of the administrative law judge and it is proposed to support that finding, the answering brief should specify those pages of the record which, in the view of the party filing the brief, support the administrative law judge's finding.
+
+(3) Requests for extension of time to file an answering brief to the exceptions shall be in writing and copies thereof shall be served promptly on the other parties.
+
+(e) Any party who has not previously filed exceptions may, within 14 days, or such further period as the Board may allow, from the last date on which exceptions and any supporting brief may be filed, file cross-exceptions to any portion of the administrative law judge's decision, together with a supporting brief, in accordance with the provisions of paragraphs (b) and (j) of this section.
+
+(f)(1) Within 14 days, or such further period as the Board may allow, from the last date on which cross-exceptions and any supporting brief may be filed, any other party may file an answering brief to such cross-exceptions in accordance with the provisions of paragraphs (c) and (j) of this section. Such answering brief shall be limited to the questions raised in the cross-exceptions.
+
+(2) Requests for extension of time to file cross-exceptions, or answering brief to cross-exceptions, shall be in writing and copies thereof shall be served promptly on the other parties.
+
+(g) No matter not included in exceptions or cross-exceptions may thereafter be urged before the Board, or in any further proceeding.
+
+(h) Within 14 days from the last date on which an answering brief may be filed pursuant to paragraph (d) or (f) of this section, any party may file a reply brief to any such answering brief. Any reply brief filed pursuant to this subsection shall be limited to matters raised in the brief to which it is replying, and shall not exceed 10 pages. No extensions of time shall be granted for the filing of reply briefs, nor shall permission be granted to exceed the 10 page length limitation. Eight copies of any reply brief shall be filed with the Board, copies shall be served on the other parties, and a statement of such service shall be furnished. No further briefs shall be filed except by special leave of the Board. Requests for such leave shall be in writing and copies thereof shall be served promptly on the other parties.
+
+(i) Should any party desire permission to argue orally before the Board, request therefor must be made in writing to the Board simultaneously with the statement of any exceptions or cross-exceptions filed pursuant to the provisions of this section with a statement of service on the other parties. The Board shall notify the parties of the time and place of oral argument, if such permission is granted. Oral arguments are limited to 30 minutes for each party entitled to participate. No request for additional time will be granted unless timely application is made in advance of oral argument.
+
+(j) Exceptions to administrative law judges' decisions, or to the record, and briefs shall be printed or otherwise legibly duplicated. Carbon copies of typewritten matter will not be accepted. Eight copies of such documents shall be filed with the Board in Washington, DC, and copies shall also be served promptly on the other parties. All documents filed pursuant to this section shall be double spaced on 81/2 by 11-inch paper. Any brief filed pursuant to this section shall not be combined with any other brief, and except for reply briefs whose length is governed by paragraph (h) of this section, shall not exceed 50 pages in length, exclusive of subject index and table of cases and other authorities cited, unless permission to exceed that limit is obtained from the Board by motion, setting forth the reasons therefor, filed not less than 10 days prior to the date the brief is due. Where any brief filed pursuant to this section exceeds 20 pages, it shall contain a subject index with page references and an alphabetical table of cases and other authorities cited.
+
+[56 FR 49142, Sept. 27, 1991]

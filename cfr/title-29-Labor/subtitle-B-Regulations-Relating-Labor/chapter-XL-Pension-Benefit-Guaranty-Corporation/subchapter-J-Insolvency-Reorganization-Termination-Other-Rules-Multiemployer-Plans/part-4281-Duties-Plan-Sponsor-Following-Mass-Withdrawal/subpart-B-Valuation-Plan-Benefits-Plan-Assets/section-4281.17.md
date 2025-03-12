@@ -1,0 +1,7 @@
+##### § 4281.17 Asset valuation methods—in general. #####
+
+(a) *General rule.* The plan sponsor shall value plan assets as of the valuation date, using the valuation methods prescribed by this section and § 4281.18 (regarding outstanding claims for withdrawal liability), and deducting administrative liabilities in accordance with paragraph (c) of this section.
+
+(b) *Assets other than withdrawal liability claims.* The plan sponsor shall value any plan asset (other than an outstanding claim for withdrawal liability) by such method or methods as the plan sponsor reasonably believes most accurately determine fair market value.
+
+(c) *Adjustment for administrative liabilities.* In determining the total value of plan assets, the plan sponsor shall subtract all plan liabilities, other than liabilities to pay benefits. For this purpose, any obligation to repay financial assistance received from the PBGC under section 4261 of ERISA is a plan liability other than a liability to pay benefits. The obligation to repay financial assistance shall be valued by determining the value of the scheduled payments in the same manner as prescribed in § 4281.18(a) for valuing claims for withdrawal liability.

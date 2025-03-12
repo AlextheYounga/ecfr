@@ -1,0 +1,5 @@
+##### § 9.33 Mediation. #####
+
+(a) *General.* The parties are encouraged to resolve disputes in accordance with the conciliation procedures set forth at § 9.22 of this part, or, where such efforts have failed, to utilize settlement judges to mediate settlement negotiations pursuant to 29 CFR 18.9 when those provisions apply. At any time after commencement of a proceeding, the parties jointly may move to defer the hearing for a reasonable time to permit negotiation of a settlement or an agreement containing findings and an order disposing of the whole or any part of the proceeding.
+
+(b) *Appointing settlement judge for cases scheduled with the Office of Administrative Law Judges.* Upon a request by a party or the presiding Administrative Law Judge, the Chief Administrative Law Judge may appoint a settlement judge. The Chief Administrative Law Judge has sole discretion to decide whether to appoint a settlement judge, except that a settlement judge shall not be appointed when a party objects to referral of the matter to a settlement judge.

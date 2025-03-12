@@ -1,0 +1,3 @@
+##### § 273.6 Reporting requirement. #####
+
+Each Federal agency shall, as part of its annual budget submission each fiscal year, report to the Congress on the metric implementation actions it has taken during the previous fiscal year. The report will include the agency's implementation plans, with a current timetable for the agency's transition to the metric system, as well as actions planned for the budget year involved to implement fully the metric system, in accordance with this policy. Reporting shall cease for an agency in the fiscal year after it has fully implemented metric usage, as prescribed by the Metric Conversion Act (15 U.S.C. 205b(2).)

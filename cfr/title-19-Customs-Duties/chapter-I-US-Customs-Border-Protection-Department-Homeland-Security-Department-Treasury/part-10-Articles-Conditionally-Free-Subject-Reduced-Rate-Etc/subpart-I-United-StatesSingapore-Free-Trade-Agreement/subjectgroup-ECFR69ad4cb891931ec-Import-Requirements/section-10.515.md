@@ -1,0 +1,5 @@
+##### § 10.515 Effect of noncompliance; failure to provide documentation regarding third country transportation. #####
+
+(a) *Effect of noncompliance.* If the importer fails to comply with any requirement under this subpart, including submission of a complete supporting statement under § 10.511 of this subpart, when requested, the port director may deny preferential treatment to the imported good.
+
+(b) *Failure to provide documentation regarding third country transportation.* Where the requirements for preferential treatment set forth elsewhere in this subpart are met, the port director nevertheless may deny preferential treatment to an originating good if the good is shipped through or transshipped in a country other than Singapore or the United States, and the importer of the good does not provide, at the request of the port director, evidence demonstrating to the satisfaction of the port director that the conditions set forth in § 10.542 of this subpart were met.

@@ -1,0 +1,3 @@
+##### § 7.12 Intervention; other participation. #####
+
+For good cause shown, the Board may permit any interested person or party to intervene or otherwise participate in any proceeding held by the Board. Except when requested orally before the Board, a petition to intervene or otherwise participate shall be in writing (original and four copies) and shall state with precision and particularity: (a) The petitioner's relationship to the matters involved in the proceedings, and (b) the nature of the presentation which he would make. Copies of the petition shall be served to all parties or interested persons known to participate in the proceeding, who may respond to the petition. Appropriate service shall be made of any response.

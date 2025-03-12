@@ -1,0 +1,3 @@
+##### § 880.605 Overcrowded and underoccupied units. #####
+
+If the contract administrator determines that because of change in family size an assisted unit is smaller than appropriate for the eligible family to which it is leased, or that the unit is larger than appropriate, housing assistance payments with respect to the unit will not be reduced or terminated until the eligible family has been relocated to an appropriate alternative unit. If possible, the owner will, as promptly as possible, offer the family an appropriate unit. The owner may receive vacancy payments for the vacated unit if he complies with the requirements of § 880.611.

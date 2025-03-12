@@ -1,0 +1,11 @@
+##### § 24.14 Salable Customs forms. #####
+
+Link to an amendment published at 81 FR 93015, Dec. 20, 2016.
+
+(a) Customs forms for sale to the general public shall be designated by the Commissioner of Customs, or his delegate. Customs forms which are designated as salable shall meet the following conditions: (1) The form is distributed to private parties for use in completing customs transactions; (2) the quantity used nationwide annually is sufficient to justify the administrative costs involved in selling the form and accounting for the collections involved therein, or the form is primarily for the use of a special group; (3) distribution is or can generally be made in lots of 100 or more; (4) the form is normally distributed to commercial concerns (customhouse brokers, freight forwarders, vessel agents, carriers, regular commercial importers, etc.) rather than to or for the use of individuals or others (tourists, churches, schools, occasional importers, etc.) for noncommercial purposes.
+
+(b) The price of each salable Customs form shall be established by the Commissioner of Customs, or his delegate, and shall be adjusted periodically as the varying costs of printing and distribution require. A list of salable customs forms showing the price at which each is sold shall be prominently posted in each customhouse in a location accessible to the general public.
+
+(c) Customs forms for sale to the general public, except unusually large or otherwise unsuitable forms, shall normally be prepared in units containing 100 copies. If a completely prepared bill or receipt is presented by the purchaser at the time of the purchase, the port director's paid stamp shall be impressed thereon; otherwise, no receipt shall be given.
+
+[28 FR 14808, Dec. 31, 1963, as amended by T.D. 75-132, 40 FR 24519, June 9, 1975]

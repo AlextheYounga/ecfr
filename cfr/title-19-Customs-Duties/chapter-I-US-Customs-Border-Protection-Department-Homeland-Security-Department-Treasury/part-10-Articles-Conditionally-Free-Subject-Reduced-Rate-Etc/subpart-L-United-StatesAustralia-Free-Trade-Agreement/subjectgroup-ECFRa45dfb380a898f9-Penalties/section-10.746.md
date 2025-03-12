@@ -1,0 +1,3 @@
+##### § 10.746 Corrected claim or supporting statement. #####
+
+An importer who makes a corrected claim under § 10.723(b) of this subpart will not be subject to civil or administrative penalties under 19 U.S.C. 1592 for having made an incorrect claim or having submitted an incorrect supporting statement, provided that the corrected claim or supporting statement is promptly and voluntarily made pursuant to the terms set forth in § 10.747 of this subpart.

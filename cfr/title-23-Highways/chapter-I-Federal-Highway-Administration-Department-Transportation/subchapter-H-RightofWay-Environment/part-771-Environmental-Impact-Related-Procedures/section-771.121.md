@@ -1,0 +1,7 @@
+##### § 771.121 Findings of no significant impact. #####
+
+(a) The Administration will review the EA and any public hearing comments and other comments received regarding the EA. If the Administration agrees with the applicant's recommendations pursuant to § 771.119(g), it will make a separate written FONSI incorporating by reference the EA and any other appropriate environmental documents.
+
+(b) After a FONSI has been made by the Administration, a notice of availability of the FONSI shall be sent by the applicant to the affected units of Federal, State and local government and the document shall be available from the applicant and the Administration upon request by the public. Notice shall also be sent to the State intergovernmental review contacts established under Executive Order 12372.
+
+(c) If another Federal agency has issued a FONSI on an action which includes an element proposed for Administration funding, the Administration will evaluate the other agency's FONSI. If the Administration determines that this element of the project and its environmental impacts have been adequately identified and assessed, and concurs in the decision to issue a FONSI, the Administration will issue its own FONSI incorporating the other agency's FONSI. If environmental issues have not been adequately identified and assessed, the Administration will require appropriate environmental studies.

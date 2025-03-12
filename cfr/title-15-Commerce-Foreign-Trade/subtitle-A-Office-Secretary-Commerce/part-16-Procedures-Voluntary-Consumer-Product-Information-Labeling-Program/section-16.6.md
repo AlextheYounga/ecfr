@@ -1,0 +1,11 @@
+##### § 16.6 Establishment of fees and charges. #####
+
+(a) The Secretary in conjunction with the use of the Working Capital Fund of the National Institute of Standards & Technology, as authorized under section 12 of the Act of March 3, 1901, as amended (15 U.S.C. 278b), for this program, shall establish fees and charges for use of the Department of Commerce Label and Mark on each product. Such fees and charges shall be related to the number of units of products labeled, where appropriate. The fees and charges established by the Secretary, which may be revised by her when she deems it appropriate to do so, shall be in amounts calculated to make the operation of this program as self-sufficient as reasonable. A separate notice will be published in the Federal Register simultaneously with the notice of each proposed Specification referred to in § 16.5(a). Such notice will set out a schedule of estimated fees and charges the Secretary proposes to establish. The notice would be furnished for informational and guidance purposes only in order that the public may evaluate the proposed Specification in light of the expected fees to be charged.
+
+(b) At such time as the Secretary publishes the notice announcing the final Specification referred to in § 16.5(c)(1), she shall simultaneously publish a separate notice in the Federal Register setting forth the final schedule of fees that will be charged participants in the program. The effective date of such final schedule of fees shall be the same as the date on which the final Specification takes effect.
+
+(c) Revisions, if any, to the fees and charges established by the Secretary under paragraph (b) of this section shall be published in subsequent Federal Register notices and shall take effect not less than thirty (30) days after the date of publication of such notice.
+
+(d) The establishment of fees and charges under this section may, at any time, be suspended by the Secretary for any length of time.
+
+[42 FR 26648, May 25, 1977, as amended at 42 FR 57686, Nov. 4, 1977; 55 FR 38315, Sept. 18, 1990]

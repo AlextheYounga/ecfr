@@ -1,0 +1,3 @@
+##### § 325.1 Scope. #####
+
+This part contains regulations for issuing export trade certificates of review under title III of the Export Trading Company Act, Pub. L. 97-290. A holder of a certificate of review and the members named in the certificate will have specific protections from private treble damage actions and government criminal and civil suits under U.S. Federal and State antitrust laws for the export conduct specified in the certificate and carried out during its effective period in compliance with its terms and conditions.

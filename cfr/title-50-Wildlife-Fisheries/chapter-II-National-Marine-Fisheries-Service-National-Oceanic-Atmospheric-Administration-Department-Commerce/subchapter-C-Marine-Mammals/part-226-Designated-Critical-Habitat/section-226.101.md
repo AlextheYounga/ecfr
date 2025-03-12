@@ -1,0 +1,5 @@
+##### § 226.101 Purpose and scope. #####
+
+The regulations contained in this part identify those habitats designated by the Secretary of Commerce as critical, under section 4 of the Act, for endangered and threatened species under the jurisdiction of the Secretary of Commerce. Those species are enumerated at § 223.102 of this chapter if threatened and at § 224.101 of this chapter if endangered. For regulations pertaining to the designation of critical habitat, see part 424 of this title; for regulations pertaining to prohibitions against the adverse modification or destruction of critical habitat, see part 402 of this title. Additional information regarding designated critical habitats that is not provided in this section may be obtained upon request to the Office of Protected Resources (*see* § 222.102, definition of “Office of Protected Resources”).
+
+[77 FR 25622, May 1, 2012]

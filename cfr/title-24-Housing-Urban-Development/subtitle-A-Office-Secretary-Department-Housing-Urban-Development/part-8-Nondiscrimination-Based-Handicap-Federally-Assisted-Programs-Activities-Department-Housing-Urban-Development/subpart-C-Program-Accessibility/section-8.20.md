@@ -1,0 +1,3 @@
+##### § 8.20 General requirement concerning program accessibility. #####
+
+Except as otherwise provided in §§ 8.21(c)(1), 8.24(a), 8.25, and 8.31, no qualified individual with handicaps shall, because a recipient's facilities are inaccessible to or unusable by individuals with handicaps, be denied the benefits of, be excluded from participation in, or otherwise be subjected to discrimination under any program or activity that receives Federal financial assistance.

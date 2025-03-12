@@ -1,0 +1,3 @@
+##### § 891.820 Civil rights requirements. #####
+
+The mixed-finance development must comply with the following: all fair housing and accessibility requirements, including the design and construction requirements of the Fair Housing Act; the requirements of section 504 of the Rehabilitation Act of 1973; accessibility requirements, project standards, and site and neighborhood standards under 24 CFR 891.120, 891.125, 891.210, 891.310, and 891.320, as applicable; and 24 CFR 8.4(b)(5), which prohibits the selection of a site or location which has the purpose or effect of excluding persons with disabilities from federally assisted programs or activities.

@@ -1,0 +1,3 @@
+##### § 325.13 Nonadmissibility in evidence. #####
+
+If the Secretary denies, in whole or in part, an application for a certificate or for an amendment to a certificate, or revokes or amends a certificate, neither the negative determination nor the statement of reasons therefor shall be admissible in evidence in any administrative or judicial proceeding in support of any claim under the antitrust laws.

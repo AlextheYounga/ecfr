@@ -1,0 +1,5 @@
+##### § 779.312 “Retail or service establishment”, defined in section 13(a)(2). #####
+
+The 1949 amendments to the Act defined the term “retail or service establishment” in section 13(a)(2). That definition was retained in section 13(a)(2) as amended in 1961 and 1966 and is as follows:
+
+A “retail or service establishment” shall mean an establishment 75 per centum of whose annual dollar volume of sales of goods or services (or of both) is not for resale and is recognized as retail sales or services in the particular industry.It is clear from the legislative history of the 1961 amendments to the Act that no different meaning was intended by the term “retail or service establishment” from that already established by the Act's definition, wherever used in the new provisions, whether relating to coverage or to exemption. (See S. Rept. 145, 87th Cong., first session p. 27; H.R. 75, 87th Cong., first session p. 9.) The legislative history of the 1949 amendments and existing judicial pronouncements regarding section 13(a)(2) of the Act, therefore, will offer guidance to the application of this definition.

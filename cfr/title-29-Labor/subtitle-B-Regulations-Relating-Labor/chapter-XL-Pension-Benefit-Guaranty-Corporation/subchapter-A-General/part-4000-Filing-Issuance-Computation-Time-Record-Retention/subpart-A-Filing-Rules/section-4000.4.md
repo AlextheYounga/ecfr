@@ -1,0 +1,5 @@
+##### § 4000.4 Where do I file my submission? #####
+
+To find out where to send your submission, visit our Web site at *http://www.pbgc.gov,* see the instructions to our forms, or call our Customer Service Center (1-800-400-7242 for participants, or 1-800-736-2444 for practitioners; TTY/TDD users may call the Federal relay service toll-free at 1-800-877-8339 and ask to be connected to the appropriate number.) Because we have different addresses for different types of filings, you should make sure to use the appropriate address for your type of filing. For example, some filings (such as premium payments) must be sent to a specified bank, while other filings (such as the Standard Termination Notice (Form 500)) must be sent to the appropriate department at our offices in Washington, DC. You do not have to address electronic submissions made through our Web site. We are responsible for ensuring that such submissions go to the proper place.
+
+[68 FR 61347, Oct. 28, 2003, as amended at 70 FR 11543, Mar. 9, 2005]

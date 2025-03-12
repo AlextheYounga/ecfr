@@ -1,0 +1,5 @@
+##### § 93.406 Audits. #####
+
+(a) Audits of the grantee and subgrantees must be conducted in accordance with 2 CFR part 200, subpart F. The use of HTF grant funds by the grantee must be audited not less than annually to ensure compliance with this part. Any financial statement submitted by the grantee to HUD must be reviewed by an independent certified public accountant, in accordance with Statements on Standards for Accounting and Review Services, which is issued by the American Institute of Certified Public Accountants.
+
+(b) The written agreement providing HTF assistance to the recipient must specify that the recipient will submit to the grantee a cost certification performed by a certified public accountant for each project assisted with HTF funds. The agreement must specify that the recipient will submit to the grantee an annual audit performed on each project assisted with HTF funds, beginning the first year following the cost certification and with the final annual audit occurring the last year of the affordability period.

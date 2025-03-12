@@ -1,0 +1,5 @@
+##### § 452.80 Bona fide candidates. #####
+
+A person need not be formally nominated in order to be a bona fide candidate entitled to exercise the rights mentioned in §§ 452.67 and 452.71.41 Thus, any qualified member seeking to be nominated and elected at a convention would be able to take advantage of the distribution rights even before the convention meets and thus attempt to influence members to select delegates favorable to his candidacy or to persuade the delegates to support his candidacy. A union may reasonably require that a person be nominated in order to be elected, but may not prevent a member who actively seeks office and is otherwise qualified from taking advantage of the campaign safeguards in the Act in an effort to gain the support necessary to be nominated.
+
+41*Yablonski* v. *United Mine Workers,* 71 LRRM 2606, 60 L.C. 10,204 (D.D.C. 1969).

@@ -1,0 +1,3 @@
+##### § 210.62 Evidentiary hearing. #####
+
+An opportunity for a hearing in accordance with the Administrative Procedure Act and § 210.36 of this part will be provided in connection with every motion for temporary relief. If a hearing is conducted, the presiding administrative law judge may, but is not required to, take evidence concerning the issues of remedy, the public interest, and bonding by respondents under section 337 (e)(1), (f)(1), and (j)(3) of the Tariff Act of 1930.

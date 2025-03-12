@@ -1,0 +1,5 @@
+##### § 402.05 Emergencies. #####
+
+(a) Where emergency circumstances mandate the need to consult in an expedited manner, consultation may be conducted informally through alternative procedures that the Director determines to be consistent with the requirements of sections 7(a)-(d) of the Act. This provision applies to situations involving acts of God, disasters, casualties, national defense or security emergencies, etc.
+
+(b) Formal consultation shall be initiated as soon as practicable after the emergency is under control. The Federal agency shall submit information on the nature of the emergency action(s), the justification for the expedited consultation, and the impacts to endangered or threatened species and their habitats. The Service will evaluate such information and issue a biological opinion including the information and recommendations given during the emergency consultation.

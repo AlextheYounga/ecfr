@@ -1,0 +1,7 @@
+##### § 401.85 Staff and other expert testimony. #####
+
+(a) *Presentation on behalf of the Commission.* The Executive Director shall arrange for the presentation of testimony by the Commission's technical staff and other experts, as he may deem necessary or desirable, to incorporate in the record or support the administrative action, determination or decision which is the subject of the hearing.
+
+(b) *Expert witnesses.* An interested party may submit in writing to the Hearing Officer the report and proposed testimony of an expert witness. No expert report or proposed testimony, however, shall be included in the record if the expert is not available for examination unless the report and proposed testimony shall have been provided to the Commission and all interested parties prior to the hearing and the Commission and interested parties have waived the right of cross-examination.
+
+(c) The Executive Director may designate for inclusion in the record those records of the Commission which the Executive Director deems relevant to a decision in a contested case or to provide an understanding of applicable Commission policies, regulations or other requirements relating to the issues in the contested case. The designation of such Commission documents shall be provided to all interested parties prior to the hearing.

@@ -1,0 +1,13 @@
+##### § 2201.10 Appeal of denials. #####
+
+(a) *Requirements for making an appeal.* A denial of a request for records, either in whole or in part, a request for expedited processing, or a request for fee waivers, may be appealed in writing to the Chairman of the Commission. To be considered timely, the appeal must be postmarked, or in the case of electronic submissions, transmitted, within 90 calendar days of the date of the agency's written notice of denial. The appeal should clearly identify the agency determination that is being appealed and the assigned FOIA tracking number. To facilitate handling, the requester should mark both the appeal and its envelope, or state in the subject line of an electronic transmission, “Freedom of Information Act Appeal.”
+
+(b) *Adjudication of appeals.* The Chairman shall act on the appeal under 5 U.S.C. 552(a)(6)(A)(ii) within 20 working days after the receipt of the appeal. An appeal ordinarily will not be adjudicated if the request becomes a matter of FOIA litigation. On receipt of any appeal involving classified information, the Chairman shall take appropriate action to ensure compliance with applicable classification rules.
+
+(c) *Decisions on appeals.* The Chairman shall provide the decision on an appeal in writing. If the Chairman wholly or partially upholds the denial of the request, the decision shall contain a statement that identifies the reasons for the affirmance, including any FOIA exemptions applied. The decision must include notification that the requester may obtain judicial review of the decision under 5 U.S.C. 552(a)(4)(B)-(G). The decision shall also inform the requester of the dispute resolution services offered by OGIS as a non-exclusive alternative to litigation. If the Chairman's decision is remanded or modified on appeal to the court, the requester will be notified by the agency of that determination in writing. The Commission shall then further process the request in accordance with the appeal determination and shall respond directly to the requester.
+
+(d) *Engaging in dispute services provided by OGIS.* Dispute resolution is a voluntary process. If the Commission agrees to participate in the dispute resolution services provided by OGIS, it will actively engage as a partner in the process in an attempt to resolve the dispute.
+
+(e) *When appeal is required.* Before seeking review by a court of the Commission's adverse determination, a requester generally must first submit a timely administrative appeal.
+
+[81 FR 95039, Dec. 27, 2016]

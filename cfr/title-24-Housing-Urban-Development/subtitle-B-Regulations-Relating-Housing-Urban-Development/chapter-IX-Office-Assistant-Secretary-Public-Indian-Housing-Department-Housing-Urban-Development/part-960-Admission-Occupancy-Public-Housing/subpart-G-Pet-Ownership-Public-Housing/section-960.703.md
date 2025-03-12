@@ -1,0 +1,3 @@
+##### § 960.703 Applicability. #####
+
+This subpart applies to public housing as that term is defined in section 3(b) of the United States Housing Act of 1937 (42 U.S.C. 1437a(b)), except that such term does not include public housing developments for the elderly or persons with disabilities. Regulations that apply to pet ownership in such developments are located in part 5, subpart C, of this title.

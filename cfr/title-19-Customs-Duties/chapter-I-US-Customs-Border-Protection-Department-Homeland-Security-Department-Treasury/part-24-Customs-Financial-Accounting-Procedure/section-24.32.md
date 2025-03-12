@@ -1,0 +1,7 @@
+##### § 24.32 Claims; unpaid compensation of deceased employees and death benefits. #####
+
+(a) A claim made by a designated beneficiary or a surviving spouse for unpaid compensation due an officer or employee at the time of his death shall be executed on standard Form 1153, Claim of Designated Beneficiary and/or Surviving Spouse for Unpaid Compensation of Deceased Civilian Employee. A claim made by anyone other than a designated beneficiary or surviving spouse for unpaid compensation due an officer or employee at the time of his death shall be executed on standard Form 1155, Claim for Unpaid Compensation of Deceased Civilian Employee. The claims shall be forwarded to the Customs office where the deceased was employed.
+
+(b) Claims for death benefits, either in the form of an annuity or lump-sum payment of the amount to the credit of the deceased officer or employee in the Retirement and Disability Fund shall be executed on standard Form 100, Application for Death Benefit, and forwarded together with a certified copy of the public record of death directly to the Office of Personnel Management, Washington, DC 20415.
+
+[28 FR 14808, Dec. 31, 1963, as amended by T.D. 91-77, 56 FR 46114, Sept. 10, 1991]

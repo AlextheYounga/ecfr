@@ -1,0 +1,3 @@
+##### § 29.72 When will the Service grant a temporary access permit? #####
+
+Within 30 calendar days of receipt of the application for a reconnaissance survey, we will advise you whether the application fulfills the requirements of §§ 29.70 through 29.71 and issue you a temporary access permit or provide you with a statement of additional information that is needed for us to conduct review of your application.

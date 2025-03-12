@@ -1,0 +1,5 @@
+##### § 101.13 Compliance with Board decision and order. #####
+
+(a) Shortly after the Board's decision and order is issued the Director of the Regional Office in which the charge was filed communicates with the respondent for the purpose of obtaining compliance. Conferences may be held to arrange the details necessary for compliance with the terms of the order.
+
+(b) If the respondent effects full compliance with the terms of the order, the Regional Director submits a report to that effect to Washington, DC, after which the case may be closed. Despite compliance, however, the Board's order is a continuing one; therefore, the closing of a case on compliance is necessarily conditioned upon the continued observance of that order; and in some cases it is deemed desirable, notwithstanding compliance, to implement the order with an enforcing court judgment. Subsequent violations of the order may become the basis of further proceedings.

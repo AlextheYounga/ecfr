@@ -1,0 +1,3 @@
+##### § 210.2 General policy. #####
+
+It is the policy of the Commission that, to the extent practicable and consistent with requirements of law, all investigations and related proceedings under this part shall be conducted expeditiously. The parties, their attorneys or other representatives, and the presiding administrative law judge shall make every effort at each stage of the investigation or related proceeding to avoid delay.

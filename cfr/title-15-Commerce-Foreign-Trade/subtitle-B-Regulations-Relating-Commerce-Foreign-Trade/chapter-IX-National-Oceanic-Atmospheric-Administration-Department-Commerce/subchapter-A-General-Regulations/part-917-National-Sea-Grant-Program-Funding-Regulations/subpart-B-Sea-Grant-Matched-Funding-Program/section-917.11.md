@@ -1,0 +1,13 @@
+##### § 917.11 Guidelines for Sea Grant Fellowships. #####
+
+(a) Sea Grant Fellowships are designed to provide educational and training assistance to qualified individuals at the undergraduate and graduate levels of education in fields related to ocean and coastal resources. The objective of the program is to increase the national supply of individuals educated and trained in the assessment, development, utilization, and conservation of ocean and coastal resources. The purpose of this section is to provide guidelines regarding the content of applications for Sea Grant Fellowship funding.
+
+(b) Funding will be made to eligible entities (see § 917.10 of this part) that are selected to award and administer Sea Grant Fellowships. Fellowships will not be awarded directly to students by the Office of Sea Grant. The entity receiving Fellowship funding will select the students to be awarded the Fellowships and will handle the administration of the Fellowships.
+
+(c) Proposals for Fellowship funding will be expected to address (1) the nature and focus of the proposed Fellowship Program, (2) the utilization of institutional or other appropriate resources in the education and training of Sea Grant Fellows, (3) the method of advertising availability of the Fellowships, (4) the method of selection of recipients, and (5) the terms of tenure and method of determining continuity of tenure.
+
+(d) Innovation and uniqueness will be significant factors in the determination of which proposals will be funded. Another factor considered will be the potential of the proposed program to stimulate interest in marine related careers among those individuals; for example, minorities, women, and the handicapped whose previous background or training might not have generated such an interest.
+
+(e) The total amount that may be provided for grants under the Sea Grant Fellowship Program during any fiscal year cannot exceed an amount equal to five percent of the total funds appropriated for the Matched Funding Program for that year. Fellowship programs are subject to the requirement of a minimum of 331/3 percent matching funds from non-Federal sources to which all Matched Funding Program projects are subject. Indirect costs are not allowable for either the Fellowships or for any costs associated with the Fellowships.
+
+Considering the variations in the cost-of-living and the differences in tuition, fees, etc., between one college or university and another, the amount of money requested and awarded per Fellowship may vary.

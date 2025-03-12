@@ -1,0 +1,3 @@
+##### § 3288.215 Effect on other manufactured home program requirements. #####
+
+A state with an accepted dispute resolution program will operate in lieu of HUD's Manufactured Home Dispute Resolution Program established under subpart B of this part 3288. A state dispute resolution program, even if it is an accepted dispute resolution program under this part, does not supersede the requirements applicable to any other aspect of HUD's manufactured home program. Any responsibilities, rights, and remedies applicable under the Manufactured Home Construction and Safety Standards in part 3280 of this chapter and the Manufactured Home Procedural and Enforcement Regulations in part 3282 of this chapter continue to apply as provided in those parts in all states.

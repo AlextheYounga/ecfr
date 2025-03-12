@@ -1,0 +1,7 @@
+##### § 145.42 Proof for conditionally free merchandise. #####
+
+The port director may, at his discretion, require appropriate proof of duty-free status before releasing conditionally free merchandise. This proof may be obtained by either of the following methods:
+
+(a) *Retain shipment and request proof.* The shipment may be retained by the port director while the necessary proof is requested from the addressee. If the requested proof is not received within 30 days, a mail entry shall be issued at the ordinary rate of duty which would apply if the merchandise were not conditionally free, and the mail entry shall be forwarded with the shipment for collection of duties.
+
+(b) *Send shipment with form and entry.* If the only proof required for free entry is a declaration signed by the addressee, the port director may issue a mail entry at the ordinary duty which would apply if the merchandise were not conditionally free. The shipment shall then be forwarded together with the mail entry, a copy of the appropriate declaration form, and instructions to the postmaster to deliver the shipment free of duty if the importer executes the declaration, and to collect the full duty shown on the mail entry if the importer does not execute the declaration.

@@ -1,0 +1,5 @@
+##### § 1604.4 Discrimination against married women. #####
+
+(a) The Commission has determined that an employer's rule which forbids or restricts the employment of married women and which is not applicable to married men is a discrimination based on sex prohibited by title VII of the Civil Rights Act. It does not seem to us relevant that the rule is not directed against all females, but only against married females, for so long as sex is a factor in the application of the rule, such application involves a discrimination based on sex.
+
+(b) It may be that under certain circumstances, such a rule could be justified within the meaning of section 703(e)(1) of title VII. We express no opinion on this question at this time except to point out that sex as a bona fide occupational qualification must be justified in terms of the peculiar requirements of the particular job and not on the basis of a general principle such as the desirability of spreading work.

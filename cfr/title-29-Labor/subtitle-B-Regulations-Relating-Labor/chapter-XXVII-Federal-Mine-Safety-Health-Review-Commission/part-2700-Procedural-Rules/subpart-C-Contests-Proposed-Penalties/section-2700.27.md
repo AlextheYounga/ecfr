@@ -1,0 +1,3 @@
+##### § 2700.27 Effect of failure to contest proposed penalty assessment. #####
+
+If, within 30 days from the receipt of the Secretary's proposed penalty assessment, the operator or other person fails to notify the Secretary that he contests the proposed penalty, the Secretary's proposed penalty assessment shall be deemed to be a final order of the Commission not subject to review by any court or agency.

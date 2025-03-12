@@ -1,0 +1,3 @@
+##### § 779.14 Goods. #####
+
+The definition in section 3(i) of the Act states that *goods,* as used in the Act, means “goods (including ships and marine equipment), wares, products, commodities, merchandise, or articles or subjects of commerce of any character, or any part or ingredient thereof, but does not include goods after their delivery into the actual physical possession of the ultimate consumer thereof other than a producer, manufacturer, or processor thereof.” The interpretative bulletin on general coverage of the Act, part 776 of this chapter, contains a detailed discussion of the application of this definition and what is included in it.

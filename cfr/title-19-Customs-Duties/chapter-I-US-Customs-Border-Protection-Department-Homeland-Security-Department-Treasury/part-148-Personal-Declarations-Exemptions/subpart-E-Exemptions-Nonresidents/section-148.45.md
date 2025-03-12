@@ -1,0 +1,5 @@
+##### § 148.45 Vehicles and other conveyances. #####
+
+Nonresidents are entitled to entry free of duty and internal revenue tax under subheading 9804.00.35 and Chapter 98, U.S. Note 3, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), for automobiles, trailers, aircraft, motorcycles, bicycles, baby carriages, boats, horse-drawn conveyances, horses, and similar means of transportation and the usual equipment accompanying them, if such articles are imported in connection with the arrival of the nonresident to be used in the United States only for the transportation of the nonresident, his family and guests, and such incidental carriage of articles as may be appropriate to his personal use of the conveyance.
+
+[T.D. 73-27, 38 FR 2449, Jan. 26, 1973, as amended by T.D. 89-1, 53 FR 51265, Dec. 21, 1988]

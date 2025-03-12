@@ -1,0 +1,65 @@
+##### § 570.34 Occupations that may be performed by minors 14 and 15 years of age. #####
+
+This subpart authorizes only the following occupations in which the employment of minors 14 and 15 years of age is permitted when performed for periods and under conditions authorized by § 570.35 and not involving occupations prohibited by § 570.33 or performed in areas or industries prohibited by § 570.33.
+
+(a) Office and clerical work, including the operation of office machines.
+
+(b) Work of an intellectual or artistically creative nature such as, but not limited to, computer programming, the writing of software, teaching or performing as a tutor, serving as a peer counselor or teacher's assistant, singing, the playing of a musical instrument, and drawing, as long as such employment complies with all the other provisions contained in §§ 570.33, 570.34, and 570.35. Artistically creative work is limited to work in a recognized field of artistic or creative endeavor.
+
+(c) Cooking with electric or gas grills which does not involve cooking over an open flame (Note: This provision does not authorize cooking with equipment such as rotisseries, broilers, pressurized equipment including fryolators, and cooking devices that operate at extremely high temperatures such as “Neico broilers”). Cooking is also permitted with deep fryers that are equipped with and utilize a device which automatically lowers the baskets into the hot oil or grease and automatically raises the baskets from the hot oil or grease.
+
+(d) Cashiering, selling, modeling, art work, work in advertising departments, window trimming, and comparative shopping.
+
+(e) Price marking and tagging by hand or machine, assembling orders, packing, and shelving.
+
+(f) Bagging and carrying out customers' orders.
+
+(g) Errand and delivery work by foot, bicycle, and public transportation.
+
+(h) Clean up work, including the use of vacuum cleaners and floor waxers, and the maintenance of grounds, but not including the use of power-driven mowers, cutters, trimmers, edgers, or similar equipment.
+
+(i) Kitchen work and other work involved in preparing and serving food and beverages, including operating machines and devices used in performing such work. Examples of permitted machines and devices include, but are not limited to, dishwashers, toasters, dumbwaiters, popcorn poppers, milk shake blenders, coffee grinders, automatic coffee machines, devices used to maintain the temperature of prepared foods (such as warmers, steam tables, and heat lamps), and microwave ovens that are used only to warm prepared food and do not have the capacity to warm above 140 °F. Minors are permitted to clean kitchen equipment (not otherwise prohibited), remove oil or grease filters, pour oil or grease through filters, and move receptacles containing hot grease or hot oil, but only when the equipment, surfaces, containers and liquids do not exceed a temperature of 100 °F. Minors are also permitted to occasionally enter freezers momentarily to retrieve items in conjunction with restocking or food preparation.
+
+(j) Cleaning vegetables and fruits, and the wrapping, sealing, labeling, weighing, pricing, and stocking of items, including vegetables, fruits, and meats, when performed in areas physically separate from a freezer or meat cooler.
+
+(k) The loading onto motor vehicles and the unloading from motor vehicles of the light, non-power-driven, hand tools and personal protective equipment that the minor will use as part of his or her employment at the work site; and the loading onto motor vehicles and the unloading from motor vehicles of personal items such as a back pack, a lunch box, or a coat that the minor is permitted to take to the work site. Such light tools would include, but are not limited to, rakes, hand-held clippers, shovels, and brooms. Such light tools would not include items like trash, sales kits, promotion items or items for sale, lawn mowers, or other power-driven lawn maintenance equipment. Such minors would not be permitted to load or unload safety equipment such as barriers, cones, or signage.
+
+(l)(1) *Lifeguard.* The employment of 15-year-olds (but not 14-year-olds) to perform permitted lifeguard duties at traditional swimming pools and water amusement parks (including such water park facilities as wave pools, lazy rivers, specialized activity areas that may include water falls and sprinkler areas, and baby pools; but not including the elevated areas of power-driven water slides) when such youth have been trained and certified by the American Red Cross, or a similar certifying organization, in aquatics and water safety.
+
+(2) *Definitions.* As used in this paragraph (l):
+
+*Permitted lifeguard duties* include the rescuing of swimmers in danger of drowning, the monitoring of activities at poolside to prevent accidents, the teaching of water safety, and providing assistance to patrons. Lifeguards may also help to maintain order and cleanliness in the pool and pool areas, give swimming instructions (if, in addition to being certified as a lifeguard, the 15-year-old is also properly certified as a swimming instructor by the American Red Cross or some other recognized certifying organization), conduct or officiate at swimming meets, and administer first aid. Additional lifeguard duties may include checking in and out items such as towels and personal items such as rings, watches and apparel. Permitted duties for 15-year-olds include the use of a ladder to access and descend from the lifeguard chair; the use of hand tools to clean the pool and pool area; and the testing and recording of water quality for temperature and/or pH levels, using all of the tools of the testing process including adding chemicals to the test water sample. Fifteen-year-olds employed as lifeguards are, however, prohibited from entering or working in any mechanical room or chemical storage areas, including any areas where the filtration and chlorinating systems are housed. The term permitted lifeguard duties does not include the operation or tending of power-driven equipment including power-driven elevated water slides often found at water amusement parks and some swimming pools. Minors under 16 years of age may not be employed as dispatchers or attendants at the top of elevated water slides performing such tasks as maintaining order, directing patrons as to when to depart the top of the slide, and ensuring that patrons have begun their “ride” safely. Properly certified 15-year-old lifeguards may, however, be stationed at the “splashdown pools” located at the bottom of the elevated water slides to perform those permitted duties listed in this subsection.
+
+*Traditional swimming pool* means a water tight structure of concrete, masonry, or other approved materials located either indoors or outdoors, used for bathing or swimming and filled with a filtered and disinfected water supply, together with buildings, appurtenances and equipment used in connection therewith, excluding elevated “water slides.” Not included in the definition of a traditional swimming pool would be such natural environment swimming facilities as rivers, streams, lakes, ponds, quarries, reservoirs, wharfs, piers, canals, or oceanside beaches.
+
+*Water amusement park* means an establishment that not only encompasses the features of a traditional swimming pool, but may also include such additional attractions as wave pools; lazy rivers; specialized activities areas such as baby pools, water falls, and sprinklers; and elevated water slides. Not included in the definition of a water amusement park would be such natural environment swimming facilities as rivers, streams, lakes, reservoirs, wharfs, piers, canals, or oceanside beaches.
+
+(m)(1) *Employment inside and outside of places of business where machinery is used to process wood products.* The employment of a 14- or 15-year-old who by statute or judicial order is exempt from compulsory school attendance beyond the eighth grade inside or outside places of business where machinery is used to process wood products if:
+
+(i) The youth is supervised by an adult relative of the youth or is supervised by an adult member of the same religious sect or division as the youth;
+
+(ii) The youth does not operate or assist in the operation of power-driven woodworking machines;
+
+(iii) The youth is protected from wood particles or other flying debris within the workplace by a barrier appropriate to the potential hazard of such wood particles or flying debris or by maintaining a sufficient distance from machinery in operation; and
+
+(iv) The youth is required to use, and uses, personal protective equipment to prevent exposure to excessive levels of noise and saw dust.
+
+(2) *Compliance.* Compliance with the provisions of paragraphs (m)(1)(iii) and (m)(1)(iv) of this section will be accomplished when the employer is in compliance with the requirements of the applicable governing standards issued by the U.S. Department of Labor's Occupational Safety and Health Administration (OSHA) or, in those areas where OSHA has authorized the state to operate its own Occupational Safety and Health Plan, the applicable standards issued by the Office charged with administering the State Occupational Safety and Health Plan. The employment of youth under this section must comply with the other sections of this subpart, including the hours and time of day standards established by § 570.35.
+
+(3) *Definitions.* As used in this paragraph (m):
+
+*Inside or outside places of business* shall mean the actual physical location of the establishment employing the youth, including the buildings and surrounding land necessary to the business operations of that establishment.
+
+*Operate or assist in the operation of power-driven woodworking machines* shall mean the operating of such machines, including supervising or controlling the operation of such machines, feeding material into such machines, helping the operator feed material into such machines, unloading materials from such machines, and helping the operator unload materials from such machines. The term also includes the occupations of setting-up, adjusting, repairing, oiling, or cleaning such machines.
+
+*Places of business where machinery is used to process wood products* shall mean such permanent workplaces as sawmills, lath mills, shingle mills, cooperage stock mills, furniture and cabinet making shops, gazebo and shed making shops, toy manufacturing shops, and pallet shops. The term shall not include construction sites, portable sawmills, areas where logging is being performed, or mining operations.
+
+*Power-driven woodworking machines* shall mean all fixed or portable machines or tools driven by power and used or designed for cutting, shaping, forming, surfacing, nailing, stapling, wire stitching, fastening or otherwise assembling, pressing, or printing wood, veneer, trees, logs, or lumber.
+
+*Supervised by an adult relative or is supervised by an adult member of the same religious sect or division as the youth* has several components. *Supervised* means that the youth's on-the-job activities must be directed, monitored, overseen, and controlled by certain named adults. Such supervision must be close, direct, constant, and uninterrupted. An *adult* shall mean an individual who is at least eighteen years of age. A *relative* shall mean the parent (or someone standing in the place of a parent), grandparent, sibling, uncle, or aunt of the young worker. *A member of the same religious sect or division as the youth* refers to an individual who professes membership in the same religious sect or division to which the youth professes membership.
+
+(n) Work in connection with cars and trucks if confined to the following: dispensing gasoline and oil; courtesy service; car cleaning, washing and polishing by hand; and other occupations permitted by this section, but not including work involving the use of pits, racks, or lifting apparatus, or involving the inflation of any tire mounted on a rim equipped with a removable retaining ring.
+
+(o) Work in connection with riding inside passenger compartments of motor vehicles except as prohibited by § 570.33(f) or § 570.33(j), or when a significant reason for the minor being a passenger in the vehicle is for the purpose of performing work in connection with the transporting—or assisting in the transporting of—other persons or property. The transportation of the persons or property does not have to be the primary reason for the trip for this exception to apply. Each minor riding as a passenger in a motor vehicle must have his or her own seat in the passenger compartment; each seat must be equipped with a seat belt or similar restraining device; and the employer must instruct the minors that such belts or other devices must be used. In addition, each driver transporting the young workers must hold a State driver's license valid for the type of driving involved and, if the driver is under the age of 18, his or her employment must comply with the provisions of § 570.52.
+
+[75 FR 28448, May 20, 2010]

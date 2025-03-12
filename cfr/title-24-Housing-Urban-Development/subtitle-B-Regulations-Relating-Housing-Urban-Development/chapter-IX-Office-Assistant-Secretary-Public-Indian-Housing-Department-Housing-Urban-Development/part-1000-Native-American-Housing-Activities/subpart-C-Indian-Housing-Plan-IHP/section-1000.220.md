@@ -1,0 +1,5 @@
+##### § 1000.220 What are the requirements for the IHP? #####
+
+The IHP requirements are set forth in section 102(b) of NAHASDA. In addition, §§ 1000.56, 1000.108, 1000.120, 1000.134, 1000.142, 1000.238, 1000.302, and 1000.328 require or permit additional items to be set forth in the IHP for HUD determinations required by those sections. Recipients are only required to provide IHPs that contain these elements in a form prescribed by HUD. If a TDHE is submitting a single IHP that covers two or more Indian tribes, the IHP must contain a separate certification in accordance with section 102(d) of NAHASDA and IHP Tables for each Indian tribe when requested by such Indian tribes. However, Indian tribes are encouraged to perform comprehensive housing needs assessments and develop comprehensive IHPs and not limit their planning process to only those housing efforts funded by NAHASDA. An IHP should be locally driven.
+
+[77 FR 71526, Dec. 3, 2012]

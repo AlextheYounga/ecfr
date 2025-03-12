@@ -1,0 +1,3 @@
+##### § 12.32 General inspection requirement. #####
+
+In accordance with the procedures in § 12.35, the project works of each development to which this subpart applies, excluding transmission and transformation facilities and generating equipment, must be periodically inspected and evaluated by or under the responsibility and direction of at least one independent consultant, who may be a member of a consulting firm, to identify any actual or potential deficiencies, whether in the condition of those project works or in the quality or adequacy of project maintenance, surveillance, or methods of operation, that might endanger public safety.

@@ -1,0 +1,3 @@
+##### § 111.26 Interference with examination of records. #####
+
+Except in accordance with the provisions of part 163 of this chapter, a broker must not refuse access to, conceal, remove, or destroy the whole or any part of any record relating to his transactions as a broker which is being sought, or which the broker has reasonable grounds to believe may be sought, by the Department of Homeland Security or any representative of the Department of Homeland Security, nor may he otherwise interfere, or attempt to interfere, with any proper and lawful efforts to procure or reproduce information contained in those records.

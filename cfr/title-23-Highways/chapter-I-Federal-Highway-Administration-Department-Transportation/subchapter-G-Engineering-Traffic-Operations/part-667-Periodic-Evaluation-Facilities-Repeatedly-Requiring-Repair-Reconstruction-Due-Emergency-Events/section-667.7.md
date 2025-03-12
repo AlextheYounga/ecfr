@@ -1,0 +1,5 @@
+##### § 667.7 Timing of evaluations. #####
+
+(a) Not later than November 23, 2018, the State DOT must complete the statewide evaluation for all NHS roads, highways and bridges. The State DOT shall update the evaluation after every emergency event to the extent needed to add any roads, highways, or bridges subject to this paragraph that were affected by the event. The State DOT shall review and update the entire evaluation at least every 4 years. In establishing its evaluation cycle, the State DOT should consider how the evaluation can best inform the State DOT's preparation of its asset management plan and STIP.
+
+(b) Beginning on November 23, 2020, for all roads, highways, and bridges not included in the evaluation prepared under paragraph (a) of this section, the State DOT must prepare an evaluation that conforms with this part for the affected portion of the road, highway, or bridge prior to including any project relating to such facility in its STIP.

@@ -1,0 +1,11 @@
+##### § 1301.45 Procedure for closing meetings. #####
+
+(a) Action under § 1301.46 to close a meeting shall be taken only when a majority of the members vote to take such action. A separate vote shall be taken with respect to each meeting a portion or portions of which are proposed to be closed to the public pursuant to § 1301.46 or with respect to any information which is proposed to be withheld under § 1301.46. A single vote may be taken with respect to a series of meetings, a portion or portions of which are proposed to be closed to the public, or with respect to any information concerning such series of meetings, so long as each meeting in such series involves the same particular matters and is scheduled to be held no more than 30 days after the initial meeting in such series. The vote of each member participating in such vote shall be recorded and no proxies shall be allowed.
+
+(b) Notwithstanding that the members may have already voted not to close a meeting, whenever any person whose interests may be directly affected by a portion of a meeting requests that the agency close such portion to the public for any of the reasons referred to in paragraphs (e), (f), or (g) of § 1301.46, the Board, upon request of any one of its members made prior to the commencement of such portion, shall vote by recorded vote whether to close such portion of the meeting.
+
+(c) Within one day of any vote taken pursuant to this section, TVA shall make publicly available in accordance with § 1301.48 a written copy of such vote reflecting the vote of each member on the question. If a portion of a meeting is to be closed to the public, TVA shall, within one day of the vote taken pursuant to this section, make publicly available in accordance with § 1301.48 a full written explanation of this action closing the portion together with a list of all persons expected to attend the meeting and their affiliation.
+
+(d) Prior to every meeting closed pursuant to § 1301.46, there shall be a certification by the General Counsel of TVA stating whether, in his or her opinion, the meeting may be closed to the public and each relevant exemptive provision. A copy of such certification shall be retained by TVA and shall be made publicly available in accordance with § 1301.48.
+
+[42 FR 14087, Mar. 15, 1977, as amended at 75 FR 11737, Mar. 12, 2010]

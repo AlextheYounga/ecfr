@@ -1,0 +1,9 @@
+##### § 503.7 Investigation authority of Secretary. #####
+
+(a) *Authority of the Administrator, WHD.* The Secretary of Homeland Security has delegated to the Secretary, under 8 U.S.C. 1184(c)(14)(B), INA section 214(c)(14)(B), authority to perform investigative and enforcement functions. Within the Department of Labor, the Administrator, WHD will perform all such functions.
+
+(b) *Conduct of investigations.* The Secretary, through the WHD, may investigate to determine compliance with obligations under 8 U.S.C. 1184(c), INA section 214(c), 20 CFR part 655, subpart A, or the regulations in this part, either under a complaint or otherwise, as may be appropriate. In connection with such an investigation, WHD may enter and inspect any premises, land, property, worksite, vehicles, structure, facility, place and records (and make transcriptions, photographs, scans, videos, photocopies, or use any other means to record the content of the records or preserve images of places or objects), question any person, or gather any information, in whatever form, as may be appropriate.
+
+(c) *Confidential investigation.* The WHD will conduct investigations in a manner that protects the confidentiality of any complainant or other person who provides information to the Secretary in good faith.
+
+(d) *Report of violations.* Any person may report a violation of the obligations imposed by 8 U.S.C. 1184(c), INA section 214(c), 20 CFR part 655, subpart A, or the regulations in this part to the Secretary by advising any local office of the SWA, ETA, WHD or any other authorized representative of the Secretary. The office or person receiving such a report will refer it to the appropriate office of WHD for the geographic area in which the reported violation is alleged to have occurred.

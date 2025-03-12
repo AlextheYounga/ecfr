@@ -1,0 +1,3 @@
+##### § 778.420 Combined hourly rates and piece rates. #####
+
+Where an employee works at a combination of hourly and piece rates, the payment of a rate not less than one and one-half times the hourly or piece rate applicable to the type of work being performed during the overtime hours will meet the overtime requirements of the Act if the provisions concerning piece rates (as discussed in § 778.418) and those concerning hourly rates (as discussed in § 778.419) are respectively met.

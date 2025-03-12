@@ -1,0 +1,5 @@
+##### § 41.3 Assurance and declaration required. #####
+
+(a) Each Assistant Secretary shall, as a condition for approval of any contract or application for assistance under a program imposing standards and/or requirements for accessibility which are subject to this part, require an assurance of compliance with those standards and requirements. Such assurance shall be in a form acceptable to the Secretary.
+
+(b) For each project covered under this part, except a project subject to Departmental examinations and inspections as set forth in § 41.5(a), the responsible Assistant Secretary shall require a declaration as to project drawings, specifications, and other construction documents. The declaration shall be signed by the licensed, or registered, architect or engineer, or by such other responsible official as designated by HUD, who has prepared such construction documents. The declaration shall affirm that the proposed project, to the best knowledge and belief of the declarer, conforms to applicable accessibility design standards and requirements. The declaration statement shall be in a form acceptable to the Secretary.

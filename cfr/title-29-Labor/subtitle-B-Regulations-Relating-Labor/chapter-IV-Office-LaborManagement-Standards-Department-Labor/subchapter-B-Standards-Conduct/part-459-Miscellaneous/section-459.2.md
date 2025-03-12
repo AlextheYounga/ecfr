@@ -1,0 +1,3 @@
+##### § 459.2 Additional time after service by mail. #####
+
+Whenever a party has the right or is required to do some act pursuant to these regulations within a prescribed period after service of a notice or other paper upon him and the notice or paper is served on him by mail, five (5) days shall be added to the prescribed period: *Provided, however,* That five (5) days shall not be added if any extension of time may have been granted.

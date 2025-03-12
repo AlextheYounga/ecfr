@@ -1,0 +1,5 @@
+##### § 458.68 Answer. #####
+
+(a) Within twenty (20) days from the service of the complaint the respondent shall file an answer thereto with the Chief Administrative Law Judge and shall serve a copy on all parties. The answer shall be signed by the respondent or his attorney or other agent or representative.
+
+(b) The answer (1) shall contain a statement of the facts which constitute the grounds of defense, and shall specifically admit, explain, or deny each of the allegations of the complaint unless the respondent is without knowledge, in which case the answer shall so state; or (2) shall state that the respondent admits all of the allegations in the complaint. Failure to file an answer to or plead specifically to any allegation in the complaint shall constitute an admission of such allegation.

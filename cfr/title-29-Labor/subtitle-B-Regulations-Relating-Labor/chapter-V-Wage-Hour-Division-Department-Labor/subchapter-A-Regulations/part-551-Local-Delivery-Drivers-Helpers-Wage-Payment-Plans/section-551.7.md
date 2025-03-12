@@ -1,0 +1,5 @@
+##### § 551.7 Finding. #####
+
+(a) A finding by the Administrator under paragraph (b) of § 551.6 that a wage payment plan has the purpose and effect required for exemption of employees under section 13(b)(11) and this part shall be effective in accordance with its terms upon notification to petitioners as provided in § 551.6(b). The finding shall include such terms and conditions and such limitations with respect to its application as the Administrator shall deem necessary to ensure that no exemption will be based thereon in the event of any significant change in any of the essential supporting facts.
+
+(b) A finding made pursuant to this part may be amended or revoked by the Administrator at any time upon his own motion or upon written request of any interested person setting forth reasonable grounds therefor. Before taking such action, the Administrator shall afford opportunity to interested persons to present their views and shall give consideration to any relevant information that they may present.

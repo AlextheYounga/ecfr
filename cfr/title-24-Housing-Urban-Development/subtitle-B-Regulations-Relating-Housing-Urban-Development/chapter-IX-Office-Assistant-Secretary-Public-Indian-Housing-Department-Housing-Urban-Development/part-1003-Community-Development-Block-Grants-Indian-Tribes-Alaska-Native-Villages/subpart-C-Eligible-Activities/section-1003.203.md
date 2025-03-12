@@ -1,0 +1,9 @@
+##### § 1003.203 Special economic development activities. #####
+
+A grantee may use ICDBG funds for special economic development activities in addition to other activities authorized in this subpart which may be carried out as part of an economic development project. Special activities authorized under this section do not include assistance for the construction of new housing. Special economic development activities include:
+
+(a) The acquisition, construction, reconstruction, rehabilitation or installation of commercial or industrial buildings, structures, and other real property equipment and improvements, including railroad spurs or similar extensions. Such activities may be carried out by the grantee or public or private nonprofit subrecipients.
+
+(b) The provision of assistance to a private for-profit business, including, but not limited to, grants, loans, loan guarantees, interest supplements, technical assistance, and other forms of support, for any activity where the assistance is necessary or appropriate to carry out an economic development project, excluding those described as ineligible in § 1003.207(a). In order to ensure that any such assistance does not unduly enrich the for-profit business, the grantee shall conduct an analysis to determine that the amount of any financial assistance to be provided is not excessive, taking into account the actual needs of the business in making the project financially feasible and the extent of public benefit expected to be derived from the economic development project. The grantee shall document the analysis as well as any factors it considered in making its determination that the assistance is necessary or appropriate to carry out the project. The requirement for making such a determination applies whether the business is to receive assistance from the grantee or through a subrecipient.
+
+(Approved by the Office of Management and Budget under control number 2577-0191)

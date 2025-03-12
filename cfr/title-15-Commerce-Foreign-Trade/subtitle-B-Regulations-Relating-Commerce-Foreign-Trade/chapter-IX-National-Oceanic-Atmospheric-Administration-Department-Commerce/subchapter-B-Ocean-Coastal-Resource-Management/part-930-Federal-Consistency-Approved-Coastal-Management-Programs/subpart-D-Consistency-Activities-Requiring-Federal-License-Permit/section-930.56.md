@@ -1,0 +1,3 @@
+##### § 930.56 State agency guidance and assistance to applicants. #####
+
+As a preliminary matter, any applicant for a federal license or permit selected for review by a State agency should obtain the views and assistance of the State agency regarding the means for ensuring that the proposed activity will be conducted in a manner consistent with the management program. As part of its assistance efforts, the State agency shall make available for public inspection copies of the management program document. Upon request by the applicant, the State agency shall identify any enforceable policies applicable to the proposed activity, based upon the information submitted to the State agency.

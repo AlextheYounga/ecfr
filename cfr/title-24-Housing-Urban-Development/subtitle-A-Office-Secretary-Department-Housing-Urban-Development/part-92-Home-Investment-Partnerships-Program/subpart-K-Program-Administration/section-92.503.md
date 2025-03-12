@@ -1,0 +1,19 @@
+##### § 92.503 Program income, repayments, and recaptured funds. #####
+
+(a) *Program income.* (1) Program income must be used in accordance with the requirements of this part. Program income must be deposited in the participating jurisdiction's HOME Investment Trust Fund local account unless the participating jurisdiction permits the State recipient or subrecipient to retain the program income for additional HOME projects pursuant to the written agreement required by § 92.504.
+
+(2) If the jurisdiction is not a participating jurisdiction when the program income is received, the funds are not subject to the requirements of this part.
+
+(3) Program income derived from consortium activities undertaken by or within a member unit of general local government which thereafter terminates its participation in the consortium continues to be program income of the consortium.
+
+(b) *Repayments.* (1) Any HOME funds invested in housing that does not meet the affordability requirements for the period specified in § 92.252 or § 92.254, as applicable, must be repaid by the participating jurisdiction in accordance with paragraph (b)(3) of this section.
+
+(2) Any HOME funds invested in a project that is terminated before completion, either voluntarily or otherwise, must be repaid by the participating jurisdiction, in accordance with paragraph (b)(3) of this section, except for repayments of project-specific community housing development organization loans that are waived, in accordance with §§ 92.301(a)(3) and (b)(3). In addition, any HOME funds used for costs that are not eligible under this part must be repaid by the participating jurisdiction, in accordance with paragraph (b)(3) of this section.
+
+(3) HUD will instruct the participating jurisdiction to either repay the funds to the HOME Investment Trust Fund Treasury account or the local account. If the jurisdiction is not a participating jurisdiction at the time the repayment is made, the funds must be remitted to HUD and reallocated, in accordance with § 92.454.
+
+(c) *Recaptures.* HOME funds recaptured in accordance with § 92.254(a)(5)(ii) must be used in accordance with the requirements of this part. Recaptured funds must be deposited in the participating jurisdiction's HOME Investment Trust Fund local account unless the participating jurisdiction permits the State recipient, subrecipient, or community housing development organization to retain the recaptured funds for additional HOME projects pursuant to the written agreement required by § 92.504. If the jurisdiction is not a participating jurisdiction when the recaptured funds are received, the funds must be remitted to HUD and reallocated in accordance with § 92.454.
+
+(d) *Commitment of funds in the local account.* Beginning with the Fiscal Year 2017 action plan, as provided in 24 CFR 91.220(l)(2) and 91.320(k)(2), program income, repayments, and recaptured funds in the participating jurisdiction's HOME Investment Trust Fund local account must be used in accordance with the requirements of this part, and the amount of program income, repayments, and recaptured funds in the participating jurisdiction's HOME Investment Trust Fund local account at the beginning of the program year must be committed before HOME funds in the HOME Investment Trust Fund United States Treasury account, except for the HOME funds in the United States Treasury account that are required to be reserved (*i.e.,* 15 percent of the funds), under § 92.300(a), for investment only in housing to be owned, developed, or sponsored by community housing development organizations. The deadline for committing program income, repayments, and recaptured funds received during a program year is the date of the participating jurisdiction's commitment deadline for the subsequent year's grant allocation.
+
+[61 FR 48750, Sept. 16, 1996, as amended at 78 FR 44680, July 24, 2013; 81 FR 86952, Dec. 2, 2016]

@@ -1,0 +1,3 @@
+##### § 270.351 Protection of voluntarily submitted information. #####
+
+Notwithstanding any other provision of law, a Team, NIST, any investigation participant, and any agency receiving information from a Team, NIST, or any other investigation participant, will not disclose voluntarily provided safety-related information if that information is not directly related to the building failure being investigated and the Director finds that the disclosure of the information would inhibit the voluntary provision of that type of information.

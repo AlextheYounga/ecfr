@@ -1,0 +1,13 @@
+##### § 8.32 Accessibility standards. #####
+
+(a) Effective as of July 11, 1988, design, construction, or alteration of buildings in conformance with sections 3-8 of the Uniform Federal Accessibility Standards (UFAS) shall be deemed to comply with the requirements of §§ 8.21, 8.22, 8.23, and 8.25 with respect to those buildings. Departures from particular technical and scoping requirements of the UFAS by the use of other methods are permitted where substantially equivalent or greater access to and usability of the building is provided. The alteration of housing facilities shall also be in conformance with additional scoping requirements contained in this part. Persons interested in obtaining a copy of the UFAS are directed to § 40.7 of this title.
+
+(b) For purposes of this section, section 4.1.6(1)(g) of UFAS shall be interpreted to exempt from the requirements of UFAS only mechanical rooms and other spaces that, because of their intended use, will not require accessibility to the public or beneficiaries or result in the employment or residence therein of individuals with physical handicaps.
+
+(c) This section does not require recipients to make building alterations that have little likelihood of being accomplished without removing or altering a load-bearing structural member.
+
+(d) For purposes of this section, section 4.1.4(11) of UFAS may not be used to waive or lower the minimum of five percent accessible units required by § 8.22(b) or to apply the minimum only to projects of 15 or more dwelling units.
+
+(e) Except as otherwise provided in this paragraph, the provisions of §§ 8.21 (a) and (b), 8.22 (a) and (b), 8.23, 8.25(a) (1) and (2), and 8.29 shall apply to facilities that are designed, constructed or altered after July 11, 1988. If the design of a facility was commenced before July 11, 1988, the provisions shall be followed to the maximum extent practicable, as determined by the Department. For purposes of this paragraph, the date a facility is constructed or altered shall be deemed to be the date bids for the construction or alteration of the facility are solicited. For purposes of the Urban Development Action Grant (UDAG) program, the provisions shall apply to the construction or alteration of facilities that are funded under applications submitted after July 11, 1988. If the UDAG application was submitted before July 11, 1988, the provisions shall apply, to the maximum extent practicable, as determined by the Department.
+
+[53 FR 20233, June 2, 1988, as amended at 61 FR 5203, Feb. 9, 1996]

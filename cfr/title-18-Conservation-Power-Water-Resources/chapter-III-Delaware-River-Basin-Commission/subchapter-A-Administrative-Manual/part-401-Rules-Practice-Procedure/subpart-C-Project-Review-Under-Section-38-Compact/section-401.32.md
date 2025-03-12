@@ -1,0 +1,5 @@
+##### § 401.32 Concept of 3.8. #####
+
+Section 3.8 is intended to protect and preserve the integrity of the Comprehensive Plan. This section of the Compact provides:
+
+“No project having a substantial effect on the water resources of the basin shall hereafter be undertaken by any person, corporation or governmental authority unless it shall have been first submitted to and approved by the Commission, subject to the provisions of Sections 3.3 and 3.5. The Commission shall approve a project whenever it finds and determines that such project would not substantially impair or conflict with the Comprehensive Plan and may modify and approve as modified, or may disapprove any such project whenever it finds and determines that the project would substantially impair or conflict with such Plan. The Commission shall provide by regulation for the procedure of submission, review and consideration of projects, and for its determinations pursuant to this section. Any determination of the Commission hereunder shall be subject to judicial review in any court of competent jurisdiction.”

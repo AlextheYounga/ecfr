@@ -1,0 +1,3 @@
+##### § 779.339 More than 50 percent intrastate sales required. #####
+
+The first test specified in section 13 (a)(2) is that more than 50 percent of the sales of goods or of services (or of both) of a “retail or service establishment” (Measured by annual dollar volume) must be made “within the State in which the establishment is located”. This limitation means that such establishment must be primarily engaged (more than 50 percent) in selling to or serving customers within its State. If the establishment is engaged to the extent of 50 percent or more in selling to or serving customers outside the State of its location, the requirement is not met and the establishment cannot qualify for exemption.

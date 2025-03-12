@@ -1,0 +1,5 @@
+##### § 515.2 Agreements with State agencies. #####
+
+(a) *Purpose.* The Secretary and the Administrator may enter into agreements with State agencies for the utilization of services of State and local agencies and their employees in making investigations and inspections under the Acts and for reimbursement therefor, when such State agencies have submitted plans of cooperation for such purposes and such plans have been found to be reasonably appropriate and adequate to carry out the respective functions of the Secretary and the Administrator.
+
+(b) *Certificates of attorneys general.* No such agreement shall become effective and operative until a statement of the Attorney General of the State, or, if the Attorney General is not authorized to make such a statement, the State official who is so authorized, has been received by the Division and the Secretary of Labor certifying that the agreement is valid in the form as executed under the laws of the State.

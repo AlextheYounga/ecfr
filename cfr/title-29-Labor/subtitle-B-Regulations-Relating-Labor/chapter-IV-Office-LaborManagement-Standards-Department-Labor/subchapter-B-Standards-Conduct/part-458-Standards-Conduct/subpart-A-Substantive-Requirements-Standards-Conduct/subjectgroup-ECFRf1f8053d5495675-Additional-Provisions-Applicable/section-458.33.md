@@ -1,0 +1,5 @@
+##### § 458.33 Prohibition of conflicts of interest. #####
+
+(a) No officer or agent of a labor organization shall, directly or indirectly through his spouse, minor child, or otherwise (1) have or acquire any pecuniary or personal interest which would conflict with his fiduciary obligation to such labor organization, or (2) engage in any business or financial transaction which conflicts with his fiduciary obligation.
+
+(b) Actions prohibited by paragraph (a) of this section include, but are not limited to, buying from, selling, or leasing directly or indirectly to, or otherwise dealing with the labor organization, its affiliates, subsidiaries, or trusts in which the labor organization is interested, or having an interest in a business any part of which consists of such dealings, except bona fide investments of the kind exempted from reporting under section 202(b) of the LMRDA. The receipt of salaries and reimbursed expenses for services actually performed or expenses actually incurred in carrying out the duties of the officer or agent is not prohibited.

@@ -1,0 +1,5 @@
+##### § 148.21 Opening of baggage, compartments, or vehicles. #####
+
+A Customs officer has the right to open and examine all baggage, compartments and vehicles brought into the United States under Sections 461, 462, 496 and 582, Tariff Act of 1930, as amended (19 U.S.C. 1461, 1462, 1496, and 1582) and 19 U.S.C. 482. To the extent practical, the owner or his agent shall be asked to open the baggage, compartment or vehicle first. If the owner or his agent is unavailable or refuses to open the baggage, compartment, or vehicle, it shall be opened by the Customs officer. If any article subject to duty, or any prohibited article is found upon opening by the Customs officer, the whole contents and the baggage or vehicle shall be subject to forfeiture, pursuant to 19 U.S.C. 1462.
+
+[T.D. 95-86, 60 FR 54188, Oct. 20, 1995]

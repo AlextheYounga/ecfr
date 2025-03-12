@@ -1,0 +1,7 @@
+##### § 134.14 Articles usually combined. #####
+
+(a) *Articles combined before delivery to purchaser.* When an imported article is of a kind which is usually combined with another article after importation but before delivery to an ultimate purchaser and the name indicating the country of origin of the article appears in a place on the article so that the name will be visible after such combining, the marking shall include, in addition to the name of the country of origin, words or symbols which shall clearly show that the origin indicated is that of the imported article only and not that of any other article with which the imported article may be combined after importation.
+
+(b) *Example.* Labels and similar articles so marked that the name of the country of origin of the label or article is visible after it is affixed to another article in this country shall be marked with additional descriptive words such as “Label made (or printed) in (name of country)” or words of similar meaning. See subpart C of this part for marking of bottles, drums, or other containers.
+
+(c) *Applicability.* This section shall not apply to articles of a kind which are ordinarily so substantially changed in the United States that the articles in their changed condition become products of the United States. An article excepted from marking under subpart D of this part is not within the scope of section 304(a)(2), Tariff Act of 1930, as amended (19 U.S.C. 1304(a)(2)), and is not subject to the requirements of this section.

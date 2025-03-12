@@ -1,0 +1,7 @@
+##### § 1608.11 Limitations on the application of these guidelines. #####
+
+(a) *No determination of adequacy of plan or program.* These Guidelines are applicable only with respect to the circumstances described in § 1608.1(d), of this part. They do not apply to, and the section 713(b)(1) defense is not available for the purpose of, determining the adequacy of an affirmative action plan or program to eliminate discrimination. Whether an employer who takes such affirmative action has done enough to remedy such discrimination will remain a question of fact in each case.
+
+(b) *Guidelines inapplicable in absence of affirmative action.* Where an affirmative action plan or program does not exist, or where the plan or program is not the basis of the action complained of, these Guidelines are inapplicable.
+
+(c) *Currency of plan or program.* Under section 713(b)(1), persons may rely on the plan or program only during the time when it is current. Currency is related to such factors as progress in correcting the conditions disclosed by the self analysis. The currency of the plan or program is a question of fact to be determined on a case by case basis. Programs developed under Executive Order 11246, as amended, will be deemed current in accordance with Department of Labor regulations at 41 CFR chapter 60, or successor orders or regulations.

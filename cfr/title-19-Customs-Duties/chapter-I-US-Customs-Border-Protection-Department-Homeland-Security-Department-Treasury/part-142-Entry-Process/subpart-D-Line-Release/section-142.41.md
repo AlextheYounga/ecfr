@@ -1,0 +1,5 @@
+##### § 142.41 Line Release. #####
+
+Line Release is an automated system designed to release and tract repetitive shipments. It is a method of entry or immediate delivery extended to importers of merchandise which CBP deems to be repetitive and high volume. Line Release may be used only at locations approved by CBP for handling Line Release. At certain high-risk locations along the land borders of the United States (the locations to be published in the Federal Register), which are approved by CBP for handling Line Release, the use of Line Release for particular shipments may be denied by CBP unless the imported merchandise is transported by carriers that participate in a CBP-approved industry partnership program.
+
+[T.D. 92-93, 57 FR 44093, as amended by T.D. 99-2, 64 FR 33, Jan. 4, 1999; CBP Dec. 11-04, 76 FR 6690, Feb. 8, 2011]

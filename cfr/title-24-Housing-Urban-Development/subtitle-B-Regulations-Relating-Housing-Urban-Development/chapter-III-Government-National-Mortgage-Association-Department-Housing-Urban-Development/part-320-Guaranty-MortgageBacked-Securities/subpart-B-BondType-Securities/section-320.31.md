@@ -1,0 +1,3 @@
+##### § 320.31 Default. #####
+
+Upon default of the issuer, the Association has the right, pursuant to section 306(g) of the National Housing Act (12 U.S.C. 1721(g)), to take title to the mortgages and other assets that are subject to the trust arrangements, and to proceed against other assets of the issuer to the extent necessary to satisfy its own claims and the rights of the holders of securities then outstanding. Such action by the Association shall be taken subject to an accounting to the issuer.

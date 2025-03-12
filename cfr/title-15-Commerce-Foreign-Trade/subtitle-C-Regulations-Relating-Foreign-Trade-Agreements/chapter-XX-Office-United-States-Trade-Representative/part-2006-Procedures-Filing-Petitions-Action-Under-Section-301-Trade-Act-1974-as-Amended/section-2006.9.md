@@ -1,0 +1,5 @@
+##### § 2006.9 Presentation of oral testimony at public hearings. #####
+
+(a) A request by an interested person to present oral testimony at a public hearing shall be submitted in writing before the close of the period of submission announced in the public notice and shall state briefly the interest of the applicant. Such request will be granted if a brief has been submitted in accordance with § 2006.8.
+
+(b) After consideration of a request to present oral testimony at a public hearing, the Chairman of the Section 301 Committee will notify the applicant whether the request conforms to the requirements of § 2006.8(a) and, if it does not, will give the reasons. If the applicant has submitted a conforming request he shall be notified of the time and place for the hearing and for his oral testimony.

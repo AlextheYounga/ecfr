@@ -1,0 +1,3 @@
+##### § 247.9 Applicability of procedures. #####
+
+The procedures outlined in this subpart apply to all decisions to terminate the occupancy of a tenant by the termination of a lease prior to the end of its term or at the end of a term where the tenant resides in any multifamily project which is presently owned by HUD, regardless of whether said project was a subsidized project prior to the acquisition of title by HUD.

@@ -1,0 +1,3 @@
+##### § 165.2 Entries subject to this part. #####
+
+Entries that may be the subject of an allegation made under § 165.11 or a request for an investigation under § 165.14 are those entries of allegedly covered merchandise made within one year before the receipt of an allegation under § 165.11 or of a request for an investigation under § 165.14. In addition, at its discretion, CBP may investigate other entries of such covered merchandise.

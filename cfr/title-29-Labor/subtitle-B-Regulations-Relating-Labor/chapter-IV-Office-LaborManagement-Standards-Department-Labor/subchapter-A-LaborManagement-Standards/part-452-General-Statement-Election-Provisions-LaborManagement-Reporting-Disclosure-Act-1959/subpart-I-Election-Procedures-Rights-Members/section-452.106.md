@@ -1,0 +1,5 @@
+##### § 452.106 Preservation of records. #####
+
+In every secret ballot election which is subject to the Act, the ballots and all other records pertaining to the election must be preserved for one year.51 The responsibility for preserving the records is that of the election officials designated in the constitution and bylaws of the labor organization or, if none is so designated, its secretary. Since the Act specifies that ballots must be retained, all ballots, marked or unmarked, must be preserved. Independent certification as to the number and kind of ballots destroyed may not be substituted for preservation. In addition, ballots which have been voided, for example, because they were received late or because they were cast for an ineligible candidate, must also be preserved.
+
+51 Act, section 401(e).

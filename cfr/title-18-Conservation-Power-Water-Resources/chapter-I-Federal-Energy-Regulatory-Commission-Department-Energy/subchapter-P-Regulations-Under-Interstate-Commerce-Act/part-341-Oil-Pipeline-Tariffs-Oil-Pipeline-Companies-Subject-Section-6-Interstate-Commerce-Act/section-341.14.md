@@ -1,0 +1,9 @@
+##### § 341.14 Special permission. #####
+
+(a) *Procedure.* Applications for waiver of the notice and tariff requirements of section 6(3) of the interstate Commerce Act must be filed by the carrier concurrently with the tariff publication being proposed. The letter of transmittal must identify the filing as requesting a waiver under section 6(3) of the Interstate Commerce Act. The application must state in detail any unusual circumstance or emergency situation that supports the requested waiver. If the application requests permission to make changes in joint tariffs, it must state that it is made on behalf of all carriers party to the proposed change. Tariff publications issued on short notice must contain the following statement on the Title Pages:
+
+Issued on [*insert number*] days notice under authority of 18 CFR 341.14. This tariff publication is conditionally accepted subject to refund pending a 30 day review period.
+
+(b) *Conditional acceptance subject to refund.* To permit short-notice filings to become effective as requested, the tariff publications filed concurrently with special permission requests for short (less than 30 days) notice will be deemed conditionally accepted for filing, subject to refund, until the Commission has had a full 30-day review period in which to process the filing. Refunds will be collected with interest as calculated according to § 340.1 of this chapter. The refund obligation will automatically terminate with no refunds due at the end of the full 30-day notice period absent an order to the contrary issued by the Commission.
+
+(c) *Granting automatic permission.* The special permission requested will be deemed automatically granted at the end of the full 30-day notice period absent an order denying such request.

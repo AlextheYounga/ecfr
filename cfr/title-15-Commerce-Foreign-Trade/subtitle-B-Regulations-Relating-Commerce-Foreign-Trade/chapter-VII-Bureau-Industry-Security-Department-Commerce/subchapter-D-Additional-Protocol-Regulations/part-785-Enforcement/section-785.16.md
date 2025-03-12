@@ -1,0 +1,11 @@
+##### § 785.16 Decisions. #####
+
+(a) *Recommended decision and order.* After considering the entire record in the case, the ALJ will issue a recommended decision based on a preponderance of the evidence. The decision will include findings of fact, conclusions of law, and a decision based thereon as to whether the respondent has violated the Act. If the ALJ finds that the evidence of record is insufficient to sustain a finding that a violation has occurred with respect to one or more allegations, the ALJ shall order dismissal of the allegation(s) in whole or in part, as appropriate. If the ALJ finds that one or more violations have been committed, the ALJ shall issue an order imposing administrative sanctions.
+
+(b) *Factors considered in assessing penalties.* In determining the amount of a civil penalty, the ALJ shall take into account the nature, circumstances, extent and gravity of the violation(s), and, with respect to the respondent, the respondent's ability to pay the penalty, the effect of a civil penalty on the respondent's ability to continue to do business, the respondent's history of prior violations, and such other matters as justice may require.
+
+(c) *Referral of recommended decision and order.* The ALJ shall immediately issue and serve the recommended decision (and order, if appropriate) to the Office of Chief Counsel, at the address in § 785.6(b) of the APR, and to the respondent, by courier delivery or overnight mail. The recommended decision and order will also be referred to the head of the designated executive agency for final decision and order.
+
+(d) *Final decision and order.* The recommended decision and order shall become the final agency decision and order unless, within 60 calendar days, the Secretary of Commerce, or a designated United States Government official, modifies or vacates it, or unless an appeal has been filed pursuant to paragraph (e) of this section.
+
+(e) *Appeals.* The respondent may appeal the final agency decision within 30 calendar days after the date of certification. Petitions for appeal may be filed in the Court of Appeals for the District of Columbia Circuit or in the Court of Appeals for the district in which the violation occurred.

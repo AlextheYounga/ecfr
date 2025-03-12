@@ -1,0 +1,5 @@
+##### § 801.6 Penalties specified by law. #####
+
+(a) *Civil penalties.* Whoever fails to furnish any information required by the Act or to comply with any rule, regulation, order or instruction promulgated under the Act shall be subject to a civil penalty of not less than $2,500, and not more than $25,000, and to injunctive relief commanding such person to comply, or both (see 22 U.S.C. 3105(a) and (b)). These civil penalties are subject to inflationary adjustments (15 CFR 6.4.).
+
+(b) *Criminal penalties.* Whoever willfully fails to submit any information required by the Act or willfully violates any rule, regulation, order or instruction promulgated under the Act, upon conviction, shall be fined not more than $10,000 and, if an individual, may be imprisoned for not more than one year, or both. Any officer, director, employee, or agent of any corporation who knowingly participates in such violations, upon conviction, may be punished by a like fine, imprisonment or both (see 22 U.S.C. 3105(c)).

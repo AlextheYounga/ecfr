@@ -1,0 +1,3 @@
+##### § 70.1 Cutoff dates and effect on enumeration and data tabulation. #####
+
+For the tabulation and publication of data from the 2010 Census of Population and Housing, the Bureau of the Census will recognize only those boundaries legally in effect on January 1, 2010 that have been reported officially to the Bureau of the Census no later than March 1, 2010. The Bureau of the Census enumerates respondents on the date of the decennial census as residing within the legal limits of municipalities, county subdivisions, counties, States, and equivalent areas as those limits exist on January 1, 2010.

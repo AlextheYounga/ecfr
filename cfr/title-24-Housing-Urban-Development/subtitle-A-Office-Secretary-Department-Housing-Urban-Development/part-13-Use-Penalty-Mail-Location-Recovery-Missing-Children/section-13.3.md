@@ -1,0 +1,3 @@
+##### § 13.3 Withdrawal of data. #####
+
+HUD shall remove all printed penalty mail envelopes and other materials from circulation or other use within a three month period from the date the National Center receives information or notice that a child, whose picture and biographical information have been made available to HUD, has been recovered or that the parent or guardian's permission to use the child's photograph and biographical information has been withdrawn. The HUD contact person shall be notified immediately and in writing by the National Center of the need to withdraw from circulation penalty mail envelopes and other materials related to a particular child.

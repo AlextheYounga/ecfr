@@ -1,0 +1,3 @@
+##### § 1000.124 What maximum and minimum rent or homebuyer payment can a recipient charge a low-income rental tenant or homebuyer residing in housing units assisted with NAHASDA grant amounts? #####
+
+A recipient can charge a low-income rental tenant or homebuyer rent or homebuyer payments not to exceed 30 percent of the adjusted income of the family. The recipient may also decide to compute its rental and homebuyer payments on any lesser percentage of adjusted income of the family. This requirement applies only to units assisted with NAHASDA grant amounts. NAHASDA does not set minimum rents or homebuyer payments; however, a recipient may do so.

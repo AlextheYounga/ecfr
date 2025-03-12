@@ -1,0 +1,5 @@
+##### § 385.1507 Election of procedures and answer (Rule 1507). #####
+
+(a) If the respondent receiving the notice of proposed penalty wishes to have the procedures of Rule 1509 apply, then the respondent must file with the Commission, within 30 days of receipt of the notice, a notification of the election in accordance with subpart T, part 385 of this chapter. The notification may include an answer setting forth factual or legal reasons why the proposed assessment order should not be issued, should be reduced in amount, or should otherwise be modified. If a person fails to file an answer within the 30-day time limit, all material facts stated in the Commission's notice will be deemed admitted.
+
+(b) Any election to have the procedures of Rule 1509 apply may not be revoked after the 30-day election period in paragraph (a) of this section, without the consent of the Commission.

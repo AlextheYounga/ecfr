@@ -1,0 +1,3 @@
+##### § 367.28 Methods of allocation. #####
+
+Indirect costs and compensation for use of capital must be allocated to projects in accordance with the service company's applicable and currently effective methods of allocation. Both direct and allocated indirect costs on projects must be assigned among those companies in the same manner. The cost accumulation system must identify the methods of allocation and the accounts to be charged. Companies must be notified in writing of any change in the methods of allocation.

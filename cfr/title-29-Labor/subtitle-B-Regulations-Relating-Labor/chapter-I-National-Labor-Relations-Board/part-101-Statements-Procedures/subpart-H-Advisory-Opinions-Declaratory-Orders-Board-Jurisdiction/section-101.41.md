@@ -1,0 +1,3 @@
+##### § 101.41 Informal procedures for obtaining opinions on jurisdictional questions. #####
+
+Although a formal petition is necessary to obtain an advisory opinion from the Board, other avenues are available to persons seeking informal and, in most cases, speedy opinions on jurisdictional issues. In discussion of jurisdictional questions informally with Regional Office personnel, information and advice concerning the Board's jurisdictional standards may be obtained. Such practices are not intended to be discouraged by the rules providing for formal advisory opinions by the Board, although the opinions expressed by such personnel are not to be regarded as binding upon the Board or the General Counsel.

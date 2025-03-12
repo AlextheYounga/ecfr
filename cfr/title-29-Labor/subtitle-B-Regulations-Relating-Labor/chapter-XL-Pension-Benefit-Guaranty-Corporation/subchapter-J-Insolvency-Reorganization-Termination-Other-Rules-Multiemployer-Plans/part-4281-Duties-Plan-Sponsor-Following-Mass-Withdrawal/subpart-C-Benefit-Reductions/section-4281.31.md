@@ -1,0 +1,3 @@
+##### § 4281.31 Plan amendment. #####
+
+The plan sponsor of a plan described in § 4281.31 shall amend the plan to eliminate those benefits subject to reduction in excess of the value of benefits that can be provided by plan assets. Such reductions shall be effected by a pro rata reduction of all benefits subject to reduction or by elimination or pro rata reduction of any category of benefit. Benefit reductions required by this section shall apply only prospectively. An amendment required under this section shall take effect no later than six months after the end of the plan year for which it is determined that the value of nonforfeitable benefits exceeds the value of the plan's assets.

@@ -1,0 +1,3 @@
+##### § 200.735-123 Effect of employees' and special Government employees' statements on other requirements. #####
+
+The statements of employment and financial interests and supplementary statements required of employees and special Government employees are in addition to, and not in substitution for, or in derogation of, any similar requirement imposed by law, order, or regulation. The submission of a statement or supplementary statement by an employee or special Government employee does not permit him or any other person to participate in a matter which his or the other person's participation in is prohibited by law, order, or regulation.

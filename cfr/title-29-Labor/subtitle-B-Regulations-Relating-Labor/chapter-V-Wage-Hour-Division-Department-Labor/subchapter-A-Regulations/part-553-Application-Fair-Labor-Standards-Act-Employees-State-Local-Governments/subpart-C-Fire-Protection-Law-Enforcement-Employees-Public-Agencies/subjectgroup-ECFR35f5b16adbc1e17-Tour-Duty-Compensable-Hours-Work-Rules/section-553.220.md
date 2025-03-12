@@ -1,0 +1,9 @@
+##### § 553.220 “Tour of duty” defined. #####
+
+(a) The term “tour of duty” is a unique concept applicable only to employees for whom the section 7(k) exemption is claimed. This term, as used in section 7(k), means the period of time during which an employee is considered to be on duty for purposes of determining compensable hours. It may be a scheduled or unscheduled period. Such periods include “shifts” assigned to employees often days in advance of the performance of the work. Scheduled periods also include time spent in work outside the “shift” which the public agency employer assigns. For example, a police officer may be assigned to crowd control during a parade or other special event outside of his or her shift.
+
+(b) Unscheduled periods include time spent in court by police officers, time spent handling emergency situations, and time spent working after a shift to complete an assignment. Such time must be included in the compensable tour of duty even though the specific work performed may not have been assigned in advance.
+
+(c) The tour of duty does not include time spent working for a separate and independent employer in certain types of special details as provided in § 553.227. The tour of duty does not include time spent working on an occasional or sporadic and part-time basis in a different capacity from the regular work as provided in § 553.30. The tour of duty does not include time spent substituting for other employees by mutual agreement as specified in § 553.31.
+
+(d) The tour of duty does not include time spent in volunteer firefighting or law enforcement activities performed for a different jurisdiction, even where such activities take place under the terms of a mutual aid agreement in the jurisdiction in which the employee is employed. (See § 553.105.)

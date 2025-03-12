@@ -1,0 +1,3 @@
+##### § 1003.200 General policies. #####
+
+An activity may be assisted in whole or in part with ICDBG funds only if the activity meets the eligibility requirements of section 105 of the Act as further defined in this subpart and if the criteria for compliance with the primary objective of the Act set forth under § 1003.208 have been met. The requirements for compliance with the primary objective of the Act do not apply to imminent threat grants funded under subpart E of this part.

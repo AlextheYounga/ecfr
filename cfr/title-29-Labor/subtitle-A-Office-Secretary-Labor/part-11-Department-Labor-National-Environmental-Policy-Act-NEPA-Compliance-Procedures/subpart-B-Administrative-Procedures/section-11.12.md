@@ -1,0 +1,11 @@
+##### § 11.12 Content and format of environmental documents. #####
+
+(a) An environmental assessment may be prepared in any format considered effective by the agency involved. When such a document is prepared in connection with a proposed action, it must be made readily available to the public either by placement into the public record (with public notice provided in accordance with 40 CFR part 1506) or by publication in the Federal Register. The preamble to the Federal Register notice of proposed rulemaking may be considered the environmental assessment provided that the document contains the elements required by 40 CFR 1508.9(b).
+
+(b) A finding of no significant impact (40 CFR 1508.13) may be prepared in any format considered to be effective or necessary by the agency involved in the proposed action.
+
+(c) The finding of no significant impact, and the environmental assessment on which it was based, as well as any comments received in response to these documents shall be included in the public record of the proposed action.
+
+(d) Department of Labor agencies shall comply with the format requirements for environmental impact statements as set forth at 40 CFR 1502.10, except when an agency determines that there is a compelling reason to do otherwise, such as more effective communication or reduced duplication of effort and paperwork (40 CFR 1506.4). For example, in OSHA/MSHA informal rulemaking proceedings, environmental documents may be combined with the Federal Register notice of proposed or final rulemaking. Filing and circulation of the combined preamble/environmental document shall be in accordance with the requirements of 40 CFR 1506.9.
+
+(e) The final environmental impact statement shall contain any changes in information or supplemental information received since the filing and circulation of the draft environmental impact statement, as well as a summary, or copies of the substantive comments received in response to the draft environmental impact statement. If such changes and comments are minor, an agency may circulate only the changes and comments, including responses to the comments, rather than the entire impact statement, to the extent permitted by 40 CFR 1502.19. However, the entire document, with a new cover sheet, shall be filed with EPA and placed in the rulemaking record.

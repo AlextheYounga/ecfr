@@ -1,0 +1,3 @@
+##### § 701.3 Purpose of the Water Resources Council. #####
+
+It is the purpose of the Water Resources Council to effectuate the policy of the United States in the Water Resources Planning Act (hereinafter the Act) to encourage the conservation, development, and utilization of water and related land resources of the United States on a comprehensive and coordinated basis by the Federal Government, States, localities, and private enterprise with the cooperation of all affected Federal agencies, States, local governments, individuals, corporations, business enterprises, and others concerned, within the limitations set forth in section 3 of the Act (42 U.S.C. 1962-1).

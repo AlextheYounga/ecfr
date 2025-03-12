@@ -1,0 +1,7 @@
+##### § 34.11 Effect of other obligations or limitations. #####
+
+(a) *Effect of State or local law or other requirements.* The obligation to comply with the nondiscrimination and equal opportunity provisions of JTPA or this part shall not be obviated or alleviated by any State or local law or other requirement that, on a prohibited ground, prohibits or limits an individual's eligibility to receive services, compensation or benefits, to participate in any JTPA-funded program or activity, or to be employed by any recipient, or to practice any occupation or profession.
+
+(b) *Effect of private organization rules.* The obligation to comply with the nondiscrimination and equal opportunity provisions of JTPA and this part shall not be obviated or alleviated by any rule or regulation of any private organization, club, league or association that, on a prohibited ground, prohibits or limits an individual's eligibility to participate in any JTPA-funded program or activity to which this part applies.
+
+(c) *Effect of the availability of employment opportunities.* The availability of future employment opportunities, or lack thereof, in any occupation or profession for qualified individuals with disabilities or persons of a certain race, color, religion, sex, national origin, age, political affiliation or belief, or citizenship shall not be considered in recruiting, selecting or placing individuals in programs or activities.

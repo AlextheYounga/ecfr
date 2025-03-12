@@ -1,0 +1,3 @@
+##### § 450.338 Applicability of NEPA to metropolitan transportation plans and programs. #####
+
+Any decision by the Secretary concerning a metropolitan transportation plan or TIP developed through the processes provided for in 23 U.S.C. 134, 49 U.S.C. 5303, and this subpart shall not be considered to be a Federal action subject to review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*).

@@ -1,0 +1,3 @@
+##### § 516.29 Employees employed by a private entity operating an amusement or recreational establishment located in a national park or national forest or on land in the National Wildlife Refuge System who are partially exempt from overtime pay requirements pursuant to section 13(b)(29) of the Act. #####
+
+With respect to each employee who is partially exempt from the overtime pay requirements of the Act pursuant to section 13(b)(29), the employer shall maintain and preserve the records required in § 516.2, except that the record of the regular hourly rate of pay in § 516.2(a)(6) shall be required only in a workweek when overtime compensation is due under section 13(b)(29).

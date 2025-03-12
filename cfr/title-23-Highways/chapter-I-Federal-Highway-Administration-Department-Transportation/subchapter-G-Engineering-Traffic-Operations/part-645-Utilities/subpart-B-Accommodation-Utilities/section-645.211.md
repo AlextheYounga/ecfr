@@ -1,0 +1,27 @@
+##### § 645.211 State transportation department accommodation policies. #####
+
+The FHWA should use the current editions of the AASHTO publications, “A Guide for Accommodating Utilities Within Highway Right-of-Way” and “Roadside Design Guide” to assist in the evaluation of adequacy of STD utility accommodation policies. These publications are available for inspection from the FHWA Washington Headquarters and all FHWA Division Offices as prescribed in 49 CFR part 7. Copies of current AASHTO publications are available for purchase from the American Association of State Highway and Transportation Officials, Suite 225, 444 North Capitol Street NW., Washington, DC 20001, or electronically at *http://www.aashto.org.* At a minimum, such policies shall make adequate provisions with respect to the following:
+
+(a) Utilities must be accommodated and maintained in a manner which will not impair the highway or adversely affect highway or traffic safety. Uniform procedures controlling the manner, nature and extent of such utility use shall be established.
+
+(b) Consideration shall be given to the effect of utility installations in regard to safety, aesthetic quality, and the costs or difficulty of highway and utility construction and maintenance.
+
+(c) The State transportation department's standards for regulating the use and occupancy of highway right-of-way by utilities must include, but are not limited to, the following:
+
+(1) The horizontal and vertical location requirements and clearances for the various types of utilities must be clearly stated. These must be adequate to ensure compliance with the clear roadside policies for the particular highway involved.
+
+(2) The applicable provisions of government or industry codes required by law or regulation must be set forth or appropriately referenced, including highway design standards or other measures which the State transportation department deems necessary to provide adequate protection to the highway, its safe operation, aesthetic quality, and maintenance.
+
+(3) Specifications for and methods of installation; requirements for preservation and restoration of highway facilities, appurtenances, and natural features and vegetation on the right-of-way; and limitations on the utility's activities within the right-of-way including installation within areas set forth by § 645.209(h) of this part should be prescribed as necessary to protect highway interests.
+
+(4) Measures necessary to protect traffic and its safe operation during and after installation of facilities, including control-of-access restrictions, provisions for rerouting or detouring traffic, traffic control measures to be employed, procedures for utility traffic control plans, limitations on vehicle parking and materials storage, protection of open excavations, and the like must be provided.
+
+(5) A State transportation department may deny a utility's request to occupy highway right-of-way based on State law, regulation, or ordinances or the State transportation department's policy. However, in any case where the provisions of this part are to be cited as the basis for disapproving a utility's request to use and occupy highway right-of-way, measures must be provided to evaluate the direct and indirect environmental and economic effects of any loss of productive agricultural land or any impairment of the productivity of any agricultural land that would result from the disapproval. The environmental and economic effects on productive agricultural land together with the possible interference with or impairment of the use of the highway and the effect on highway safety must be considered in the decision to disapprove any proposal by a utility to use such highway right-of-way.
+
+(d) Compliance with applicable State laws and approved State transportation department utility accommodation policies must be assured. The responsible State transportation department's file must contain evidence of the written arrangements which set forth the terms under which utility facilities are to cross or otherwise occupy highway right-of-way. All utility installations made on highway right-of-way shall be subject to written approval by the State transportation department. However, such approval will not be required where so provided in the use and occupancy agreement for such matters as utility facility maintenance, installation of service connections on highways other than freeways, or emergency operations.
+
+(e) The State transportation department shall set forth in its utility accommodation plan detailed procedures, criteria, and standards it will use to evaluate and approve individual applications of utilities on freeways under the provisions of § 645.209(c) of this part. The State transportation department also may develop such procedures, criteria and standards by class of utility. In defining utility classes, consideration may be given to distinguishing utility services by type, nature or function and their potential impact on the highway and its user.
+
+(f) The means and authority for enforcing the control of access restrictions applicable to utility use of controlled access highway facilities should be clearly set forth in the State transportation department plan.
+
+(Information collection requirements in paragraphs (a), (b) and (c) were approved under control number 2125-0522, and paragraph (d) under control number 2125-0514)[50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 55 FR 25828, June 25, 1990; 65 FR 70312, Nov. 22, 2000]

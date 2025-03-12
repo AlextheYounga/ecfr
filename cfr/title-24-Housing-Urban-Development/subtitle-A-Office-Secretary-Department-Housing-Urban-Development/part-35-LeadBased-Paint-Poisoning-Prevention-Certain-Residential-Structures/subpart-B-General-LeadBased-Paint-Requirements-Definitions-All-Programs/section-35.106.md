@@ -1,0 +1,3 @@
+##### § 35.106 Information collection requirements. #####
+
+The information collection requirements contained in this part have been approved by the Office of Management and Budget (OMB) in accordance with the requirements of the Paperwork Reduction Act of 1995 (44 U.S.C. 2501-3520), and have been assigned OMB control number 2539-0009. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless the collection displays a valid control number.

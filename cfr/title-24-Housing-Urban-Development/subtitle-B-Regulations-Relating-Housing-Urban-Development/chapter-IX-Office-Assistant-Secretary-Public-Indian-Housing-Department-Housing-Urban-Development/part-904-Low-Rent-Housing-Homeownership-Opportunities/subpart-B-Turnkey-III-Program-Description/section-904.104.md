@@ -1,0 +1,63 @@
+##### § 904.104 Eligibility and selection of homebuyers. #####
+
+(a) *Announcement of availability of housing; fair housing marketing.* (1) The availability of housing under Turnkey III shall be announced to the community at large. Families on the waiting list for LHA conventional rental housing who wish to be considered for Turnkey III must apply specifically for that program (see paragraph (d) of this section).
+
+(2) The LHA shall submit to HUD an Affirmative Fair Housing Marketing Plan and shall otherwise comply with the provisions of the Affirmative Fair Housing Marketing Regulations, 24 CFR part 200, subpart M, as if the LHA were an applicant for participation in an FHA housing program. This Plan shall be submitted with the development program, and no development program may be approved without prior approval of the Plan pursuant to HUD procedures under said Affirmative Fair Housing Marketing Regulations. If the development program has been approved, but the Annual Contributions Contract has not been executed, prior to the effective date of this subpart, an Affirmative Fair Housing Marketing Plan must be approved prior to execution of said contract.
+
+(b) *Eligibility and standards for admission.* (1) Homebuyers shall be lower income families that are determined to be eligible for admission in accordance with the provisions of 24 CFR parts 5 and 913, which prescribe income definitions, income limits, and restrictions concerning citizenship or eligible immigration status. The HUD-approved standards for admission to low-rent housing, including the LHA's established priorities and preferences and the requirements for administration of low-rent housing under Title VI of the Civil Rights Act of 1964 (Pub. L. 88-352, 78 Stat. 241, 42 U.S.C. 2000d), shall be applicable except that the procedures used for homebuyer selection under Turnkey III shall be those set forth in this section. In carrying out these procedures the aim shall be to provide for equal housing opportunity in such a way as to prevent segregation or other discrimination on the basis of race, creed, color or national origin in accordance with the Civil Rights Act of 1964 (Pub. L. 88-352, 78 Stat. 241, 42 U.S.C. 2000d) and 1968 (Pub. L. 90-284, 82 Stat. 73, 42 U.S.C. 3601).
+
+(2) An LHA may establish income limits for Turnkey III which are different from those for its conventional rental program: *Provided* That those limits are in accord with all applicable statutory and administrative requirements and are approved by HUD.
+
+(c) *Determination of eligibility and preparation of list.* The LHA, without participation of a recommending committee (see paragraph (e)(1) of this section), must determine the eligibility of each applicant family in respect to the income limits for the development (including the requirement that the applicant family disclose and verify Social Security Numbers, as provided by 24 CFR part 750, and sign and submit consent forms for the obtaining of wage and claim information from State Wage Information Collection Agencies, as provided by 24 CFR part 760), and must then assign each eligible applicant its appropriate place on a waiting list for the development, in sequence based upon the date of the application, suitable type or size of unit, qualification for a Federal preference in accordance with § 904.122, and factors affecting preference or priority established by the LHA's regulations. Notwithstanding the fact that the LHA may not be accepting additional applications because of the length of the waiting list, the LHA may not refuse to place an applicant on the waiting list if the applicant is otherwise eligible for participation and claims that he or she qualifies for a Federal preference as provided in § 904.122(c)(2), unless the LHA determines, on the basis of the number of applicants who are already on the waiting list and who claim a Federal preference, and the anticipated number of admissions to housing under Turnkey III, that—
+
+(1) There is an adequate pool of applicants who are likely to qualify for a Federal preference, and
+
+(2) It is unlikely that, on the basis of the LHA's system for applying the Federal preferences, the preference or preferences that the applicant claims, and the preferences claimed by applicants on the waiting list, the applicant would qualify for admission before other applicants on the waiting list.
+
+(d) *List of applicants.* A separate list of applicants for Turnkey III shall be maintained, consisting of families who specifically apply and are eligible for admission to such housing.
+
+(1) *Dating of applications.* All applications for Turnkey III shall be dated as received.
+
+(2) *Effect on applicant status.* The filing of an application for Turnkey III by a family which is an applicant for LHA conventional rental housing or is an occupant of such housing shall in no way affect its status with regard to such rental housing. Such an applicant shall not lose his place on the rental housing waiting list until his application is accepted for Turnkey III and shall not receive any different treatment or consideration with respect to conventional rental housing because of having applied for Turnkey III.
+
+(e) *Determination of potential for homeownership*—(1) *Recommending committee.* The LHA should consider use of a recommending committee to assist in the establishment of objective criteria for the determination of potential for homeownership and in the selection of homebuyers from the families determined to have such potential. If a recommending committee is used, it should be composed of representatives of the CPC (if any), the LHA and the HBA. The LHA shall submit to the committee prompt written justification of any rejection of a committee recommendation, stating grounds, the reasonableness of which shall be in accord with applicable LHA and HUD regulations. Each member of such a committee, at the time of appointment, shall be required to furnish the LHA with a signed statement that the member will (i) follow selection procedures and policies that do not automatically deny admission to a particular class, that insure selection on a nondiscriminatory and nonsegregated basis, and that facilitate achievement of the anticipated results for occupancy stated in the approved Affirmative Fair Housing Marketing Plan, and (ii) maintain strict confidentiality by not divulging any information concerning applicants or the deliberations of the committee to any person except to the LHA as necessary for purposes of the official business of the committee.
+
+(2) *Potential for homeownership.* In order to be considered for selection, a family must be determined to meet at least all of the following standards of potential for homeownership:
+
+(i) Income sufficient to result in a required monthly payment which is not less than the sum of the amounts necessary to pay the EHPA, the NRMR, and the estimated average monthly cost of utilities attributable to the home;
+
+(ii) Ability to meet all the obligations of a homebuyer under the Homebuyers Ownership Opportunity Agreement;
+
+(iii) At least one member gainfully employed, or having an established source of continuing income.
+
+(f) *Selection of homebuyers.* Homebuyers shall be selected from those families determined to have potential for homeownership. Such selection shall be made in sequence from the waiting list established in accordance with this section, provided that the following shall be assured:
+
+(1) Selection procedures that do not automatically deny admission to a particular class; that ensure selection on a nondiscriminatory and nonsegregated basis; that give a Federal preference in accordance with § 904.122; and that facilitate achievement of the anticipated results for occupancy stated in the approved Affirmative Fair Housing Marketing Plan.
+
+(2) Achievement of an average monthly payment for the Project, including consideration of the availability of the Special Family Subsidy, which is at least 10 percent more than the breakeven amount for the Project (see § 904.108). This standard shall be complied with both in the initial selection of homebuyers and in the subsequent filling of vacancies at all times during the life of the Project. If there is an applicant who has potential for homeownership but whose required monthly payment under the LHA's Rent Schedule would be less than the break-even amount for the suitable size and type of unit, such applicant may be selected as a homebuyer, provided that the incomes of all selected homebuyers shall result in the required average monthly payment of at least 10 percent more than the break-even amount for the Project. Such an average monthly payment for the Project may be achieved by selecting other low-income families who can afford to make required monthly payments substantially above the break-even amounts for their suitable sizes and types of units.
+
+(g) *Notification to applicants.* (1) Once a sufficient number of applicants have been selected to assure that the provisions of paragraph (f)(2) of this section are met, the selected applicant shall be notified of the approximate date of occupancy insofar as such date can reasonably be determined.
+
+(2) Applicants who are not selected for a specific Turnkey III development shall be notified in accordance with HUD-approved procedure. The notice shall state:
+
+(i) The reason for the applicant's rejection (including a nonrecommendation by the recommending committee unless the applicant has previously been so notified by the committee);
+
+(ii) That the applicant will be given an information hearing on such determination, regardless of the reason for the rejection, if the applicant makes a request for such a hearing within a reasonable time (to be specified in the notice) from the date of the notice; and
+
+(iii) For denial of assistance for failure to establish citizenship or eligible immigration status, the applicant may request, in addition to the informal hearing, an appeal to the INS, in accordance with 24 CFR part 5.
+
+(h) *Eligibility for continued occupancy.* (1) A homebuyer shall cease to be eligible for continued occupancy with the aid of HUD annual contributions when the LHA determines that the homebuyer's adjusted monthly income has reached, and is likely to continue at, a level at which the current amount of the homebuyer's Total Tenant Payment, determined in accordance with part 913 of this chapter, equals or exceeds the monthly housing cost (see paragraph (h)(2) of this section). In such event, if the LHA determines, with HUD approval, that suitable financing is available, the LHA shall notify the homebuyer that he or she must either: (1) Purchase the home or (ii) move from the development. If, however, the LHA determines that, because of special circumstances, the family is unable to find decent, safe, and sanitary housing within the family's financial reach although making every reasonable effort to do so, the family may be permitted to remain for the duration of such a situation if it pays as rent an amount equal to Tenant Rent, as determined in accordance with part 913 of this chapter. Such a monthly payment shall also be payable by the family if it continues in occupancy without purchasing the home because suitable financing is not available.
+
+(2) The term “monthly housing cost,” as used in this paragraph, means the sum of:
+
+(i) The monthly debt service amount shown on the Purchase Price Schedule (except where the homebuyer can purchase the home by the method described in § 904.113(c)(1) of this part);
+
+(ii) One-twelfth of the annual real property taxes which the homebuyer will be required to pay as a homeowner;
+
+(iii) One-twelfth of the annual premium attributable to fire and extended coverage insurance carried by the LHA with respect to the home;
+
+(iv) The current monthly per unit amount budgeted for routine maintenance (EHPA), and for routine maintenance-common property; and
+
+(v) The current LHA and HUD approved monthly allowance for utilities paid for directly by the homebuyer plus the monthly cost of utilities supplied by the LHA.
+
+(Approved by the Office of Management and Budget under control number 2577-0083)[39 FR 10966, Mar. 22, 1974. Redesignated at 40 FR 15580, Apr. 7, 1975, and at 49 FR 6714, Feb. 23, 1984, as amended at 49 FR 21490, May 21, 1984; 53 FR 1172, Jan. 15, 1988; 53 FR 6601, Mar. 2, 1988; 54 FR 39710, Sept. 27, 1989; 56 FR 7544, Feb. 22, 1991; 60 FR 14848, Mar. 20, 1995; 61 FR 13626, Mar. 27, 1996]

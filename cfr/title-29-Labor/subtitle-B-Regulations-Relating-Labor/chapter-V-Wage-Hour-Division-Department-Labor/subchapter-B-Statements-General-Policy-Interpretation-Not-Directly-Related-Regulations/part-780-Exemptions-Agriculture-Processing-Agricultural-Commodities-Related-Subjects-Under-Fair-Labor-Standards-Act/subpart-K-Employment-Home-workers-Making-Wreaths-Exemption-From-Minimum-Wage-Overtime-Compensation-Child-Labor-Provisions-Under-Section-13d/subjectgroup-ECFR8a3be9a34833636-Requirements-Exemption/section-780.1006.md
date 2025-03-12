@@ -1,0 +1,3 @@
+##### § 780.1006 In or about a home. #####
+
+Whether the work of an employee is being performed “in or about a home,” so that he may be considered a homeworker, must be determined on the facts in the particular case. In general, however the phrase “in or about a home” includes any home, apartment, or other dwelling place and surrounding premises, such yards, garages, sheds or basements. A convent, orphanage or similar institution is considered a home.

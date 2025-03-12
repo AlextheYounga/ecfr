@@ -1,0 +1,3 @@
+##### § 191.181 Drawback allowance. #####
+
+The fourth proviso of § 3 of the Foreign Trade Zones Act of June 18, 1934, as amended (19 U.S.C. 81c), provides for drawback on merchandise transferred to a foreign trade zone for the sole purpose of exportation, storage or destruction (except destruction of distilled spirits, wines, and fermented malt liquors), provided there is compliance with the regulations of this subpart.

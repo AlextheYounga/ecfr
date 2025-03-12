@@ -1,0 +1,3 @@
+##### § 4903.15 How will PBGC report debts owed to PBGC to credit bureaus? #####
+
+PBGC will report delinquent debts owed to PBGC to credit bureaus in accordance with the provisions of 31 U.S.C. 3711(e), 31 CFR 901.4, and the Office of Management and Budget Circular A-129, “Policies for Federal Credit Programs and Non-tax Receivables.” At least 60 days prior to reporting a delinquent debt to a consumer reporting agency, PBGC will send notice to the debtor in accordance with the requirements of § 4903.5 of this part. PBGC may authorize the Financial Management Service to report to credit bureaus those delinquent debts owed to the PBGC that have been transferred to the Financial Management Service under § 4903.10 of this part.

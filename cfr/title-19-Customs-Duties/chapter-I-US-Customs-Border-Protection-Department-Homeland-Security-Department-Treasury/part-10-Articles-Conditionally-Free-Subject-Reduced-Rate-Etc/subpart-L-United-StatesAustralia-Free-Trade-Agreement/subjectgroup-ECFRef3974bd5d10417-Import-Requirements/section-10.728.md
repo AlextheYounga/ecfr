@@ -1,0 +1,5 @@
+##### § 10.728 Effect of noncompliance; failure to provide documentation regarding third country transportation. #####
+
+(a) *General.* If the importer fails to comply with any requirement under this subpart, including submission of a complete supporting statement prepared in accordance with § 10.724 of this subpart, when requested, the port director may deny preferential treatment to the imported good.
+
+(b) *Failure to provide documentation regarding third country transportation.* Where the requirements for preferential treatment set forth elsewhere in this subpart are met, the port director nevertheless may deny preferential treatment to an originating good if the good is shipped through or transshipped in a country other than a Party to the AFTA, and the importer of the good does not provide, at the request of the port director, evidence demonstrating to the satisfaction of the port director that the conditions set forth in § 10.741 of this subpart were met.

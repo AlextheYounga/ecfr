@@ -1,0 +1,5 @@
+##### § 191.62 Penalties. #####
+
+(a) *Criminal penalty.* Any person who knowingly and willfully files any false or fraudulent entry or claim for the payment of drawback upon the exportation of merchandise or knowingly or willfully makes or files any false document for the purpose of securing the payment to himself or others of any drawback on the exportation of merchandise greater than that legally due, shall be subject to the criminal provisions of 18 U.S.C. 550, 1001 or any other appropriate criminal sanctions.
+
+(b) *Civil penalty.* Any person who seeks, induces or affects the payment of drawback, by fraud or negligence, or attempts to do so, is subject to civil penalties, as provided under 19 U.S.C. 1593a. A fraudulent violation is subject to a maximum administrative penalty of 3 times the total actual or potential loss of revenue. Repetitive negligent violations are subject to a maximum penalty equal to the actual or potential loss of revenue.

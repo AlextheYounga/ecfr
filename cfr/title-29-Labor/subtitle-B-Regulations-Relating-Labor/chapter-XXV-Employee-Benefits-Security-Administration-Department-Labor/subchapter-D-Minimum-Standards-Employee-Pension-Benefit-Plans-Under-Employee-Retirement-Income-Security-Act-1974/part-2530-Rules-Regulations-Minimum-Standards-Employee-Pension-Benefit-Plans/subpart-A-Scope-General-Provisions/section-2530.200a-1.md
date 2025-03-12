@@ -1,0 +1,7 @@
+##### § 2530.200a-1 Relationship of the Act and the Internal Revenue Code of 1954. #####
+
+(a) Part 2 of title I of the Employee Retirement Income Security Act of 1974 (hereinafter referred to as “the Act”) contains minimum standards that a plan which is an employee pension benefit plan within the meaning of section 3(2) of the Act and which is covered under part 2 must satisfy. (For a general explanation of the coverage of part 2, see § 2530.201-1.) Substantially identical requirements are imposed by subchapter D of chapter 1 of subtitle A of the Internal Revenue Code of 1954 (hereinafter referred to as “the Code”) for plans seeking qualification for certain tax benefits under the Code. In general, the Code provisions apply to “qualified” pension, profit-sharing, and stock bonus plans described in section 401(a) of the Code, annuity plans described in section 403(a) of the Code and bond purchase plans described in section 405(a) of the Code. The standards contained in title I of the Act apply generally to both “nonqualified' and “qualified” employee pension benefit plans. The standards contained in the Act, and the related Code provisions, are “minimum” standards. In general, more liberal plan provisions (in terms of the benefit to be derived by the employee) are not prohibited.
+
+(b) For a definition of the term “employee pension benefit plan”, see section 3(2) of the Act and § 2510.3-2.
+
+(c) For a statement of the coverage of part 2 of the Act, see sections 4 and 201 of the Act and §§ 2510.3-2, 2510.3-3, 2530.201-1 and 2530.201-2.

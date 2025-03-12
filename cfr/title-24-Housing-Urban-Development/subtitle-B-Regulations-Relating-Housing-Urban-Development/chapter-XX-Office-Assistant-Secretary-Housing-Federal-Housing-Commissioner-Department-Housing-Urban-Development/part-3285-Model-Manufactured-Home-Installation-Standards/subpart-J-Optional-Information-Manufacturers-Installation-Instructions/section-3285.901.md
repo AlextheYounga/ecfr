@@ -1,0 +1,3 @@
+##### § 3285.901 General. #####
+
+The planning and permitting processes, as well as utility connection, access, and other requirements, are outside of HUD's authority and may be governed by LAHJs. These Model Installation Standards do not attempt to comprehensively address such requirements. However, HUD recommends that the manufacturer's installation instructions include the information and advisories in this Subpart J, in order to protect the manufactured home, as constructed in accordance with the MHCSS.

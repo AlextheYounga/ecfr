@@ -1,0 +1,3 @@
+##### § 779.260 Trade-in allowances. #####
+
+Where merchandise is taken in trade when a sale is made, the annual gross volume of sales or business will include the gross amount of the sale before deduction of the allowance on such trade-in merchandise. This is so even though an overallowance or excessive value is allowed on the trade-in merchandise. In turn, when the trade-in merchandise is sold the amount of the sale will be included in the annual gross volume.

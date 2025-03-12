@@ -1,0 +1,7 @@
+##### § 158.12 Merchandise partially damaged at time of importation. #####
+
+(a) *Allowance in value.* Merchandise which is subject to ad valorem or compound duties and found by the port director to be partially damaged at the time of importation shall be appraised in its condition as imported, with an allowance made in the value to the extent of the damage. However, no allowance shall be made when forbidden by law or regulation; for example, Chapter 72, Additional U.S. Note 3, Harmonized Tariff Schedule of the United States (19 U.S.C. 1202), provides that no allowance or reduction of duties for partial damage or loss in consequence of discoloration or rust occurring before importation shall be made upon iron or steel or upon any article of iron or steel.
+
+(b) *No allowance in specific duties.* In the case of merchandise subject to specific or compound duties and found to be partially damaged at the time of importation, no allowance may be made in the specific duties or in the weight, quantity, or measure (except that an allowance for any excessive moisture or other impurities may be made in accordance with § 158.13). However, any part of the shipment which is totally worthless and can be segregated from the rest of the shipment may be treated as a nonimportation in accordance with § 158.11.
+
+(Sec. 506, 46 Stat. 732, as amended; 19 U.S.C. 1506)[T.D. 72-258, 37 FR 20171, Sept. 27, 1972, as amended by T.D. 89-1, 53 FR 51270, Dec. 21, 1988]

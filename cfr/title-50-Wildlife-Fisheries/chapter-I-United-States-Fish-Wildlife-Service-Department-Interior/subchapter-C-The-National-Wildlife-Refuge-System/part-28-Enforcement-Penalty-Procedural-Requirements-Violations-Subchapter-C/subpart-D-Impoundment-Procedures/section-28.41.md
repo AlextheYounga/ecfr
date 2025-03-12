@@ -1,0 +1,3 @@
+##### § 28.41 Impoundment of abandoned property. #####
+
+Any property abandoned or left unattended without authority on any national wildlife refuge for a period in excess of 72 hours is subject to removal. The expense of the removal shall be borne by the person owning or claiming ownership of the property. Such property is subject to sale or other disposal after 3 months, in accordance with section 203m of the Federal Property and Administrative Services Act of 1959, as amended (40 U.S.C. 484m), and regulations issued thereunder. Former owners may apply within 3 years for reimbursement for such property, subject to disposal and storage costs and similar expenses, upon sufficient proof of ownership.

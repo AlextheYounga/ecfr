@@ -1,0 +1,3 @@
+##### § 780.813 “County where cotton is grown.” #####
+
+For the exemption to apply, the employee must be ginning cotton in a place of employment in a county where cotton “is grown” in the described quantities. It is the cotton grown, not the cotton ginned in the place of employment, to which the quantity test is applicable. The quantities of cotton ginned in the county do not matter, so long as the requisite quantities are grown there.

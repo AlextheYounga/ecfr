@@ -1,0 +1,3 @@
+##### § 1604.7 Pre-employment inquiries as to sex. #####
+
+A pre-employment inquiry may ask “Male........., Female.........”; or “Mr. Mrs. Miss,” provided that the inquiry is made in good faith for a nondiscriminatory purpose. Any pre-employment inquiry in connection with prospective employment which expresses directly or indirectly any limitation, specification, or discrimination as to sex shall be unlawful unless based upon a bona fide occupational qualification.

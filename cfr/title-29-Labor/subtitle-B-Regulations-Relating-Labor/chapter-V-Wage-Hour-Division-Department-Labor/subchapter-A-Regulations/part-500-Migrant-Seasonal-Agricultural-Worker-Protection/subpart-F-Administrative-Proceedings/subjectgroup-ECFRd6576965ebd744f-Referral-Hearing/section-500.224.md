@@ -1,0 +1,9 @@
+##### § 500.224 Referral to Administrative Law Judge. #####
+
+(a) Upon receipt of a timely request for a hearing filed pursuant to and in accordance with § 500.212, the Secretary, by the Associate Solicitor for the Division of Fair Labor Standards or by the Regional Solicitor for the Region in which the action arose, shall, by Order of Reference, promptly refer an authenticated copy of the notice of administrative determination complained of, and the original or a duplicate copy of the request for hearing signed by the person requesting such hearing or by the authorized representative of such person, to the Chief Administrative Law Judge, for a determination in an administrative proceeding as provided herein. The notice of administrative determination and request for hearing shall be filed of record in the Office of the Chief Administrative Law Judge and shall, respectively, be given the effect of a complaint and answer thereto for purposes of the administrative proceeding, subject to any amendment that may be permitted under these regulations.
+
+(b) In cases involving a denial, suspension, or revocation of a Certificate of Registration (Farm Labor Contractor Certificate; Farm Labor Contractor Employee Certificate) or “certificate action,” including those cases where the farm labor contractor has requested a hearing on civil money penalty(ies) as well as on the certificate action, the date of the hearing shall be not more than sixty (60) days from the date on which the Order of Reference is filed. No request for postponement shall be granted except for compelling reasons.
+
+(c) A copy of the Order of Reference, together with a copy of these regulations, shall be served by counsel for the Secretary upon the person requesting the hearing, in the manner provided in 29 CFR 18.3.
+
+[48 FR 36741, Aug. 12, 1983, as amended at 61 FR 24866, May 16, 1996]

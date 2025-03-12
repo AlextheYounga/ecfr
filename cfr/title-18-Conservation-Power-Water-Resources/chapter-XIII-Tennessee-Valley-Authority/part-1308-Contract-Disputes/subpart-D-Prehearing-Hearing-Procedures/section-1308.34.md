@@ -1,0 +1,3 @@
+##### § 1308.34 Record on appeal. #####
+
+Except as otherwise provided in this part, the appeal shall be decided on the basis of the record on appeal, which consists of the notice of appeal, the claim, any notice of election under § 1308.35 or § 1308.36, orders entered during the proceeding, admissions, transcripts of hearings, hearing exhibits and stipulations on file, all other documents admitted in evidence, and all briefs submitted by the parties.

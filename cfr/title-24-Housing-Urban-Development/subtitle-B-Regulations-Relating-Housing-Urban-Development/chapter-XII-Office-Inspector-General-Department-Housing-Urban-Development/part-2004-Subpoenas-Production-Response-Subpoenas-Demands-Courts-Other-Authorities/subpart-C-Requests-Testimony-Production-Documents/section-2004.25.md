@@ -1,0 +1,3 @@
+##### § 2004.25 Final determination. #####
+
+The Counsel makes the final determination on demands and requests to employees for production of official records and information or testimony. All final determinations are within the sole discretion of the Counsel. The Counsel will notify the requester of the final determination, the reasons for the grant or denial of the demand or request, and any conditions that the Counsel may impose on the release of records or information, or on the testimony of an OIG employee.

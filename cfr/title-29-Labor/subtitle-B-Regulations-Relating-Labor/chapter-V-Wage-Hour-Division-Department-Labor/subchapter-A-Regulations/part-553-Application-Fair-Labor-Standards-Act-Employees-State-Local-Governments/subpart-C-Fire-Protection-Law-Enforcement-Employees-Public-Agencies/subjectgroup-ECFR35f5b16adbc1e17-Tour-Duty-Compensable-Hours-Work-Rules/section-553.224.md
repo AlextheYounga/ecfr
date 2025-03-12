@@ -1,0 +1,5 @@
+##### § 553.224 “Work period” defined. #####
+
+(a) As used in section 7(k), the term “work period” refers to any established and regularly recurring period of work which, under the terms of the Act and legislative history, cannot be less than 7 consecutive days nor more than 28 consecutive days. Except for this limitation, the work period can be of any length, and it need not coincide with the duty cycle or pay period or with a particular day of the week or hour of the day. Once the beginning and ending time of an employee's work period is established, however, it remains fixed regardless of how many hours are worked within the period. The beginning and ending of the work period may be changed, provided that the change is intended to be permanent and is not designed to evade the overtime compensation requirements of the Act.
+
+(b) An employer may have one work period applicable to all employees, or different work periods for different employees or groups of employees.

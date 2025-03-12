@@ -1,0 +1,5 @@
+##### § 18.15 Substitution of administrative law judge. #####
+
+(a) *Substitution during hearing.* If the judge is unable to complete a hearing, a successor judge designated pursuant to § 18.12 may proceed upon certifying familiarity with the record and determining that the case may be completed without prejudice to the parties. The successor judge must, at a party's request, recall any witness whose testimony is material and disputed and who is available to testify again without undue burden. The successor judge may also recall any other witness.
+
+(b) *Substitution following hearing.* If the judge is unable to proceed after the hearing is concluded, the successor judge appointed pursuant to § 18.12 may issue a decision and order based upon the existing record after notifying the parties and giving them an opportunity to respond. Within 14 days of receipt of the judge's notice, a party may file an objection to the judge issuing a decision based on the existing record. If no objection is filed, the objection is considered waived. Upon good cause shown, the judge may order supplemental proceedings.

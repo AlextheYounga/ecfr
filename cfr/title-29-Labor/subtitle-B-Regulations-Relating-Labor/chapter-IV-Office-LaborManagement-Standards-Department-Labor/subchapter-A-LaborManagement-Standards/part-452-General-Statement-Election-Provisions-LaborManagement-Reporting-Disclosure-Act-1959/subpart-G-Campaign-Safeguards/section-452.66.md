@@ -1,0 +1,3 @@
+##### § 452.66 Statutory provisions. #####
+
+The opportunity for members to have a free, fair, and informed expression of their choices among candidates seeking union office is a prime objective of title IV of the Act. Voters can best be assured opportunity for an informed choice if certain campaign rights are guaranteed to candidates and their supporters. To this end, the statute provides that adequate safeguards to insure a fair election shall be provided, and states certain specific safeguards. These safeguards apply not only to candidates for officer positions as defined in the Act but also to candidates for delegate posts, if the delegates are to nominate or elect officers.

@@ -1,0 +1,3 @@
+##### § 635.503 Applicability. #####
+
+The provisions of this subpart apply to all Federal-aid projects within the right-of-way of a public highway, those projects required by law to be treated as if located on a Federal-aid highway, and other projects which are linked to such projects (*i.e.,* the project would not exist without another Federal-aid highway project) that are to be delivered using the CM/GC contractor method.

@@ -1,0 +1,3 @@
+##### § 4903.9 When will PBGC suspend or terminate debt collection on a debt owed to PBGC? #####
+
+If, after pursuing all appropriate means of collection, PBGC determines that a debt owed to PBGC is uncollectible, PBGC may suspend or terminate debt collection activity in accordance with the provisions of 31 CFR part 903. Termination of debt collection activity by PBGC does not discharge the indebtedness.

@@ -1,0 +1,3 @@
+##### § 779.345 Exemption provided in section 13(a)(4). #####
+
+The section 13(a)(4) exemption (see § 779.301) exempts any employee employed by a retail establishment which meets the requirements for exemption under section 13(a)(2), even though the establishment makes or processes on its own premises the goods that it sells, provided, that more than 85 percent of such establishment's annual dollar volume of sales of the goods so made or processed is made within the State in which the establishment is located, and other prescribed tests are met.

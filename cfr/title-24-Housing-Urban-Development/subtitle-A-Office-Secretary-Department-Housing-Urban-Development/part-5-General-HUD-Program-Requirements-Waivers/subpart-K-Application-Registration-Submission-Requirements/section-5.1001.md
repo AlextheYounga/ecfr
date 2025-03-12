@@ -1,0 +1,3 @@
+##### § 5.1001 Applicability. #####
+
+This subpart applies to all applicants for HUD grants, cooperative agreements, capital fund or operating fund subsidy, capital advance, or other assistance under HUD programs, including grant programs that are classified by OMB as including formula grant programs or activities, but excluding FHA insurance and loan guarantees that are not associated with a grant program or grant award.

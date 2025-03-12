@@ -1,0 +1,5 @@
+##### § 12.28 Importation of wild mammals and birds in violation of foreign law. #####
+
+No imported wild mammal or bird, or part or product thereof, shall be released from Customs custody, except as permitted under § 12.26(i) relating to an in-bond movement to a port designated for wildlife entry, if the port director has knowledge of a foreign law or regulation obliging enforcement of section 527(a), Tariff Act of 1930 (19 U.S.C. 1527(a)), unless the importation is an excepted transaction entitled to entry under the provisions of section 527(c) of the Tariff Act or, in connection with the entry, there is presented documentation in the manner specified in 50 CFR 17.4(c) (1) or (2) required for import transactions subject to foreign laws or regulations regarding taking, transportation, or sale of wildlife including wild mammals and birds or parts or products thereof (see § 12.26).
+
+[T.D. 70-242, 35 FR 17994, Nov. 24, 1970, as amended by T.D. 82-145, 47 FR 35476, Aug. 16, 1982]

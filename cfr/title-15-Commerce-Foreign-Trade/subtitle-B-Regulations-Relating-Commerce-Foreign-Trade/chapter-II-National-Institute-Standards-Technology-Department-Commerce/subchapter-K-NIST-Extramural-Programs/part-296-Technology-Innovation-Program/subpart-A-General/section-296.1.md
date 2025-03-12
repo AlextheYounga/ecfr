@@ -1,0 +1,5 @@
+##### § 296.1 Purpose. #####
+
+(a) The purpose of the Technology Innovation Program (TIP) is to assist United States businesses and institutions of higher education or other organizations, such as national laboratories and nonprofit research institutes, to support, promote, and accelerate innovation in the United States through high-risk, high-reward research in areas of critical national need within NIST's areas of technical competence.
+
+(b) The rules in this part prescribe policies and procedures for the award and administration of financial assistance (grants and/or cooperative agreements) under the TIP. While the TIP is authorized to enter into grants, cooperative agreements, and contracts to carry out the TIP mission, the rules in this part address only the award of grants and/or cooperative agreements.

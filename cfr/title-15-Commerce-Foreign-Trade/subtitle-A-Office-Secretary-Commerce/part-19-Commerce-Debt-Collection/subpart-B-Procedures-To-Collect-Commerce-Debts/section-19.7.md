@@ -1,0 +1,3 @@
+##### § 19.7 When will Commerce entities compromise a Commerce debt? #####
+
+If a Commerce entity cannot collect the full amount of a Commerce debt, the Commerce entity may, with legal counsel approval, compromise the Commerce debt in accordance with the provisions of 31 CFR part 902 and the Commerce entity's policies and procedures. (*See* Commerce Department Credit and Debt Management Operating Standards and Procedures Handbook, available at *http://www.osec.doc.gov/ofm/credit.cover.html.*)

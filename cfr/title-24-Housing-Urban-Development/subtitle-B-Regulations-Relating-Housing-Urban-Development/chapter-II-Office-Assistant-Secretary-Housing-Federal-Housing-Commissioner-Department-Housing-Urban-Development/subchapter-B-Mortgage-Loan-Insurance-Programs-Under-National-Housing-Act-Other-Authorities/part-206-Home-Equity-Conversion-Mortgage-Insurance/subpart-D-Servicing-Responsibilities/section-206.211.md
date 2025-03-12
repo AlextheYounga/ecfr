@@ -1,0 +1,3 @@
+##### § 206.211 Annual determination of principal residence. #####
+
+At least once during each calendar year, the mortgagee shall determine whether or not the property is the principal residence of at least one mortgagor. The mortgagee shall require each mortgagor to make an annual certification of his or her principal residence, and the mortgagee may rely on the certification unless it has information indicating that the certification may be false.

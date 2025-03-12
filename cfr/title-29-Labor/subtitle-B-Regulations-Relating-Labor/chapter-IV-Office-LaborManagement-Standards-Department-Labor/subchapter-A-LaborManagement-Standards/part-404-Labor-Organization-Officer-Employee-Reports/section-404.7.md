@@ -1,0 +1,5 @@
+##### § 404.7 Maintenance and retention of records. #####
+
+Every person required to file any report under this part shall maintain records on the matters required to be reported which will provide in sufficient detail the necessary basic information and data from which the documents filed with the Office of Labor-Management Standards may be verified, explained or clarified, and checked for accuracy and completeness, and shall include vouchers, worksheets, receipts, financial and investment statements, contracts, correspondence, and applicable resolutions, in their original electronic and paper formats, and any electronic programs by which they are maintained, available for examination for a period of not less than five years after the filing of the documents based on the information which they contain.
+
+[72 FR 36159, July 2, 2007]

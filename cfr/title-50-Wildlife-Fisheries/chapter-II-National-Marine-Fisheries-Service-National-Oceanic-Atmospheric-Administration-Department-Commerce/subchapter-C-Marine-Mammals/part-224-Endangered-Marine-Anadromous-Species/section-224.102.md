@@ -1,0 +1,3 @@
+##### § 224.102 Permits for endangered marine and anadromous species. #####
+
+No person shall take, import, export, or engage in any activity prohibited by section 9 of the Act involving any marine species that has been determined to be endangered under the Endangered Species Conservation Act of 1969 or the Act, and that is under the jurisdiction of the Secretary, without a valid permit issued pursuant to part 222, subpart C of this chapter.

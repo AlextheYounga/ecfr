@@ -1,0 +1,9 @@
+##### § 206.400 General. #####
+
+(a) As a condition of the receipt of any disaster assistance under the Stafford Act, the applicant shall carry out any repair or construction to be financed with the disaster assistance in accordance with applicable standards of safety, decency, and sanitation and in conformity with applicable codes, specifications and standards.
+
+(b) Applicable codes, specifications, and standards shall include any disaster resistant building code that meets the minimum requirements of the National Flood Insurance Program (NFIP) as well as being substantially equivalent to the recommended provisions of the National Earthquake Hazards Reduction Program (NEHRP). In addition, the applicant shall comply with any requirements necessary in regards to Executive Order 11988, Floodplain Management, Executive Order 12699, Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction, and any other applicable Executive orders.
+
+(c) In situations where there are no locally applicable standards of safety, decency and sanitation, or where there are no applicable local codes, specifications and standards governing repair or construction activities, or where the Regional Administrator determines that otherwise applicable codes, specifications, and standards are inadequate, then the Regional Administrator may, after consultation with appropriate State and local officials, require the use of nationally applicable codes, specifications, and standards, as well as safe land use and construction practices in the course of repair or construction activities.
+
+(d) The mitigation planning process that is mandated by section 322 of the Stafford Act and 44 CFR part 201 can assist State and local governments in determining where codes, specifications, and standards are inadequate, and may need to be upgraded.

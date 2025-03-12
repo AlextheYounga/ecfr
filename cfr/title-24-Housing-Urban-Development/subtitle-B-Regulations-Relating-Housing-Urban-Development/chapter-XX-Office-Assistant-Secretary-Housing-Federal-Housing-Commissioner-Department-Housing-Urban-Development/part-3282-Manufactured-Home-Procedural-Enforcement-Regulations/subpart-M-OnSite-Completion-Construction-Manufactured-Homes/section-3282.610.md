@@ -1,0 +1,3 @@
+##### § 3282.610 Failure to comply with the procedures of this subpart. #####
+
+In addition to other sanctions available under the Act and this part, HUD may prohibit any manufacturer or PIA found to be in violation of the requirements of this section from carrying out their functions of this Subpart in the future, after providing an opportunity for an informal presentation of views in accordance with § 3282.152(f). Repeated infractions of the requirements of this section may be grounds for the suspension or disqualification of a PIA under §§ 3282.355 and 3282.356.

@@ -1,0 +1,3 @@
+##### § 163.3 Entry records. #####
+
+Any person described in § 163.2(a) with reference to an import transaction shall be prepared to produce or transmit to Customs, in accordance with § 163.6(a), any entry records which may be demanded by Customs. If entry records submitted to Customs not pursuant to a demand are returned by Customs, or if production of entry records at the time of entry is waived by Customs, such person shall continue to maintain those entry records in accordance with this part. Entry records which are normally kept in the ordinary course of business must be maintained by such person in accordance with this part whether or not copies thereof are retained by Customs.

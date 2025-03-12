@@ -1,0 +1,5 @@
+##### § 511.5 Vacancies and dissolution of committees. #####
+
+The Secretary will appoint persons to fill any vacancies occurring in industry committees. If an industry committee is unable to arrive at a recommendation within a reasonable time, or refuses to make a recommendation, it may be dissolved by the Secretary. An industry committee shall cease to perform further functions when it has filed with the Administrator its report containing its findings of fact and recommendations with respect to the matters referred to it, and shall not again perform any functions with respect to any matter reported on, unless and until directed by the Administrator. An industry committee shall be dissolved automatically when its recommendations are no longer subject to review under section 10 of the Act.
+
+[27 FR 10651, Nov. 1, 1962]

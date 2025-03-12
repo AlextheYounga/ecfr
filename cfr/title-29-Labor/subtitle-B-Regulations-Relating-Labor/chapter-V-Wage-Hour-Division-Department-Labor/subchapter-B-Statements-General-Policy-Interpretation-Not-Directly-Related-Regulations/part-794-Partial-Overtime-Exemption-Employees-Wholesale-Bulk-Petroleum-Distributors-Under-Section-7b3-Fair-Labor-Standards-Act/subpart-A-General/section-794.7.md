@@ -1,0 +1,3 @@
+##### § 794.7 Interpretations made, continued, and superseded by this part. #####
+
+On and after publication of this part in the Federal Register, the interpretations contained therein shall be in effect and shall remain in effect until they are modified, rescinded, or withdrawn. Prior opinions, rulings, and interpretations and prior enforcement policies which are not inconsistent with the interpretations in this part or with the Fair Labor Standards Act as amended by the Fair Labor Standards Amendment of 1966 and which were in effect at the time of such publication are continued in effect; all other opinions, rulings, interpretations, and enforcement policies on the subjects discussed in the interpretations in this part are rescinded and withdrawn.

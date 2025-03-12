@@ -1,0 +1,3 @@
+##### § 1003.2 Program objective. #####
+
+The primary objective of the Indian CDBG (ICDBG) Program and of the community development program of each grantee covered under the Act is the development of viable Indian and Alaska native communities, including decent housing, a suitable living environment, and economic opportunities, principally for persons of low and moderate income. The Federal assistance provided in this part is not to be used to reduce substantially the amount of tribal financial support for community development activities below the level of such support before the availability of this assistance.

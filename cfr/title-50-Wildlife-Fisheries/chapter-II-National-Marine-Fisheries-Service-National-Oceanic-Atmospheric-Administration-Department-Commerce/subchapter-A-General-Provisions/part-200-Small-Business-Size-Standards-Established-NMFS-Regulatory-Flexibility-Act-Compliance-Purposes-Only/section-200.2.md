@@ -1,0 +1,5 @@
+##### § 200.2 Small business size standards and frequency of review. #####
+
+(a) NMFS' small business size standard for businesses, including their affiliates, whose primary industry is commercial fishing is $11 million in annual gross receipts. This standard applies to all businesses classified under North American Industry Classification System (NAICS) code 11411 for commercial fishing, including all businesses classified as commercial finfish fishing (NAICS 114111), commercial shellfish fishing (NAICS 114112), and other commercial marine fishing (NAICS 114119) businesses.
+
+(b) NMFS will review each of the small business size standards in paragraph (a) of this section at least once every 5 years to determine if a change is warranted. A change may be warranted because of changes in industry structure, market conditions, inflation, or other relevant factors.

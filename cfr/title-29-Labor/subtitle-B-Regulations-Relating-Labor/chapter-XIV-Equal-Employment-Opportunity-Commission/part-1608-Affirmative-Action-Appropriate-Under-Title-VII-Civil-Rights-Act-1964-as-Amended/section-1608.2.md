@@ -1,0 +1,7 @@
+##### § 1608.2 Written interpretation and opinion. #####
+
+These Guidelines constitute “a written interpretation and opinion” of the Equal Employment Opportunity Commission as that term is used in section 713(b)(1) of title VII of the Civil Rights Act of 1964, as amended, 42 U.S.C. 2000e-12(b)(1), and § 1601.33 of the Procedural Regulations of the Equal Employment Opportunity Commission (29 CFR 1601.30; 42 FR 55,394 (October 14, 1977)). Section 713(b)(1) provides:
+
+In any action or proceeding based on any alleged unlawful employment practice, no person shall be subject to any liability or punishment for or on account of (1) the commission by such person of an unlawful employment practice if he pleads and proves that the act or omission complained of was in good faith, in conformity with, and in reliance on any written interpretation or opinion of the Commission \* \* \*. Such a defense, if established, shall be a bar to the action or proceeding, notwithstanding that \* \* \* after such act or omission, such interpretation or opinion is modified or rescinded or is determined by judicial authority to be invalid or of no legal effect \* \* \*.
+
+The applicability of these Guidelines is subject to the limitations on use set forth in § 1608.11.

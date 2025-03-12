@@ -1,0 +1,7 @@
+##### § 4047.5 Repayment of PBGC payments of guaranteed benefits. #####
+
+(a) *General.* Upon restoration of a plan pursuant to ERISA section 4047, amounts paid by the PBGC from its single-employer insurance fund (the fund established pursuant to ERISA section 4005(a)) to pay guaranteed benefits and related expenses under the plan while it was terminated are a debt of the restored plan. The terms and conditions for payment of this debt shall be determined by the PBGC.
+
+(b) *Repayment terms.* The PBGC shall prescribe reasonable terms and conditions for payment of the debt described in paragraph (a) of this section, including the number, amount and commencement date of the payments. In establishing the terms, PBGC will consider the cash needs of the plan, the timing and amount of contributions owed to the plan, the liquidity of plan assets, the interests of the single-employer insurance program, and any other factors PBGC deems relevant. PBGC may, in its discretion, revise any of the payment terms and conditions, upon written notice to the plan administrator in accordance with paragraph (c) of this section.
+
+(c) *Notification to plan administrator.* Whenever the PBGC issues or has issued a plan restoration order, it shall send a written notice to the plan administrator of the restored plan advising the plan administrator of the amount owed the PBGC pursuant to paragraph (a) of this section. The notice shall also include the terms and conditions for payment of this debt, as established under paragraph (b) of this section.

@@ -1,0 +1,5 @@
+##### § 963.1 Purpose. #####
+
+The purpose of this part is to enhance the economic opportunities of public housing residents by providing public housing agencies with a method of soliciting and contracting with eligible and qualifed resident-owned businesses (as defined in this part) for public housing services, supplies, or construction. The contract award method provided by this part is based on the established procurement procedures set forth in 24 CFR 85.36 (as revised April 1, 2013), with solicitation as provided by these procedures limited to resident-owned businesses. The contract award method provided by this part is not a requirement. It is an alternative procurement method available to public housing agencies, subject to the conditions set forth in this part, and subject to permissibility under State and local laws.
+
+[57 FR 20189, May 11, 1992, as amended at 80 FR 75942, Dec. 7, 2015]

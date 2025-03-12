@@ -1,0 +1,3 @@
+##### § 281.305 General rule. #####
+
+Any essential agricultural user subject to this subpart that has requested from any direct supplier priority 2 classification for volumes for any essential agricultural use establishment shall reduce its essential agricultural requirements calculated under § 281.208 to reflect the exclusion of volumes of natural gas for which its essential agricultural establishment has alternative fuel volumes under § 281.304.

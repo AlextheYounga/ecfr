@@ -1,0 +1,7 @@
+##### § 20.108 Agency review of the obligation. #####
+
+(a) The individual responsible for collection of the debt will consider any evidence submitted by the debtor as a result of the notification required by § 20.107(b) and notify the debtor of the result. If appropriate, the debtor will also be advised where and to whom to request a review of any unresolved dispute.
+
+(b) The debtor will be granted at least 30 days from the date of the notification required by paragraph (a) of this section to request a review of the determination of the individual responsible for collection of the debt on any unresolved dispute. The debtor will be advised of the result.
+
+(c) The review required by paragraph (b) of this section will ordinarily be based on written submissions and documentation provided by the debtor. However, a reasonable opportunity for an oral hearing will be provided the debtor when the reviewing official determines that any remaining dispute cannot be resolved by review of the documentary evidence alone. Unless otherwise required by law, an oral hearing under this section is not required to be a formal evidentiary-type hearing, although the reviewing official should carefully document all significant matters discussed at the hearing.

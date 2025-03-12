@@ -1,0 +1,31 @@
+##### § 2004.22 Filing requirements for demands or requests for documents or testimony. #####
+
+You must comply with the following requirements whenever you issue demands or requests to an OIG employee for official records and information or testimony.
+
+(a) Your request must be in writing and must be submitted to the Counsel. If you serve a subpoena on OIG or on an OIG employee before submitting a written request and receiving a final determination from the Counsel, OIG will oppose the subpoena on grounds that your request was not submitted in accordance with this subpart.
+
+(b) Your written request must contain the following information:
+
+(1) The caption of the legal proceeding, docket number, and name and address of the court or other authority involved;
+
+(2) A copy of the complaint or equivalent document setting forth the assertions in the case and any other pleading or document sufficient to show relevance;
+
+(3) A list of categories of records sought, a detailed description of how the information sought is relevant to the issues in the legal proceeding, and a specific description of the substance of the testimony or records sought;
+
+(4) A statement as to how the need for the information outweighs the need to maintain any confidentiality of the information and outweighs the burden on OIG to produce the records or provide testimony;
+
+(5) A statement indicating that the information sought is not available from another source, from other persons or entities, or from the testimony of someone other than an OIG employee, such as a retained expert;
+
+(6) If testimony is requested, the intended use of the testimony, a general summary of the desired testimony, and a showing that no document could be provided and used in lieu of testimony;
+
+(7) A description of all prior decisions, orders, or pending motions in the case that bear upon the relevance of the requested records or testimony;
+
+(8) The name, address, and telephone number of counsel to each party in the case; and
+
+(9) An estimate of the amount of time that the requester and other parties will require with each OIG employee for time spent by the employee to prepare for testimony, in travel, and for attendance in the legal proceeding.
+
+(c) The OIG reserves the right to require additional information to complete your request where appropriate.
+
+(d) Your request should be submitted at least 30 days before the date that records or testimony are required. Requests submitted less than 30 days before records or testimony are required must be accompanied by a written explanation stating the reasons for the late request and the reasons for expedited processing.
+
+(e) Failure to cooperate in good faith to enable the Counsel to make an informed decision may serve as the basis for a determination not to comply with your request.

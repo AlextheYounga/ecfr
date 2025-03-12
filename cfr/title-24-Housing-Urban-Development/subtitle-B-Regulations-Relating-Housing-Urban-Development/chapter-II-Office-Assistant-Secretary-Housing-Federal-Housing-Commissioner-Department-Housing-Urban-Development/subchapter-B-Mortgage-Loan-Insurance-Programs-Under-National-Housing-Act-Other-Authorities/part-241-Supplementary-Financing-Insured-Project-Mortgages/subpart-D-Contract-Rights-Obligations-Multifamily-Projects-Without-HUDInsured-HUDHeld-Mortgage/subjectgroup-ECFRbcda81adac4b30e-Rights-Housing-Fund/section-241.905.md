@@ -1,0 +1,3 @@
+##### § 241.905 Effect of amendments. #####
+
+The regulations in this subpart may be amended by the Commissioner at any time and from time to time in whole or in part, but such amendment shall not adversely affect the interests of a lender under the contract of insurance on any loan already insured and shall not adversely affect the interests of a lender on any loan to be insured on which the Commissioner has made a commitment to insure.

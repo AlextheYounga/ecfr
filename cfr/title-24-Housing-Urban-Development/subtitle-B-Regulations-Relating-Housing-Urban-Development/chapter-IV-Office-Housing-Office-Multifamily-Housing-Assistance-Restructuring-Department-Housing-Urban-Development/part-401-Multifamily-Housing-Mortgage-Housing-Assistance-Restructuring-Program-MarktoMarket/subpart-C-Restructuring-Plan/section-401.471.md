@@ -1,0 +1,3 @@
+##### § 401.471 HUD payment of a section 541(b) claim. #####
+
+HUD will pay a section 541(b) claim from the appropriate insurance fund to the insured mortgagee on behalf of the mortgagor. The mortgagee must use the claim payment to prepay the principal balance of the insured mortgage, in whole or in part, as provided in the Restructuring Plan. All section 541(b) claims will be paid in cash. Part 207 of this title and sections 207(g) and 541(a) of the NA do not apply to a section 541(b) claim.

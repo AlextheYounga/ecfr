@@ -1,0 +1,3 @@
+##### § 1200.50 General. #####
+
+Where a State is found to be in non-compliance with the requirements of the grant programs authorized under 23 U.S.C. Chapter 4 or with applicable law, the special conditions for high-risk grantees and the enforcement procedures of 49 CFR part 18, the sanctions procedures in § 1200.51, and any other sanctions or remedies permitted under Federal law may be applied as appropriate.

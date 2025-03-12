@@ -1,0 +1,3 @@
+##### § 502.15 Enforcement. #####
+
+The investigation, inspections and law enforcement functions to carry out the provisions of sec. 218 of the INA, as provided in these regulations for enforcement by the WHD, pertain to the employment of any H-2A worker and any other U.S. worker hired in corresponding employment by an H-2A employer. Such enforcement includes work contract provisions as defined in § 501.10(a). The work contract also includes those employment benefits which are required to be stated in the job offer, as prescribed in 20 CFR 655.104.

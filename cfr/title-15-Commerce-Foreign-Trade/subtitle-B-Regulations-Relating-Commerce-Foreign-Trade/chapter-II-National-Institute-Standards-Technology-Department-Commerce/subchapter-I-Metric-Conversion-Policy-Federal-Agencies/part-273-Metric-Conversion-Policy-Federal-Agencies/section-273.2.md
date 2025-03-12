@@ -1,0 +1,5 @@
+##### § 273.2 Definition. #####
+
+*Metric system* means the International System of Units (SI) established by the General Conference of Weights and Measures in 1960, as interpreted or modified from time to time for the United States by the Secretary of Commerce under the authority of the Metric Conversion Act of 1975 and the Metric Education Act of 1978.
+
+*Other business-related activities* means measurement sensitive commercial or business directed transactions or programs, *i.e.*, standard or specification development, publications, or agency statements of general applicability and future effect designed to implement, interpret, or prescribe law or policy or describing the procedure or practice requirements of an agency. “Measurement sensitive” means the choice of measurement unit is a critical component of the activity, *i.e.*, an agency rule/regulation to collect samples or measure something at specific distances or to specific depths, specifications requiring intake or discharge of a product to certain volumes or flow rates, guidelines for clearances between objects for safety, security or environmental purposes, etc.

@@ -1,0 +1,3 @@
+##### § 551.3 Petition for a finding. #####
+
+Any employer desiring to establish an exemption from the overtime pay requirements of the Act with respect to employees whose employment and compensation may be considered to qualify therefor under section 13(b)(11) may petition the Administrator, in writing, for a finding under such section and this part. If the wage payment plan with respect to which the finding is sought has been the subject of collective bargaining with representatives of employees covered by the plan, the employer shall provide timely notice of such petition, in writing, to the authorized representatives or representatives of such employees and shall submit a copy of such notice to the Administrator.

@@ -1,0 +1,3 @@
+##### § 4219.13 Amount of liability for de minimis amounts. #####
+
+An employer that is liable for *de minimis* amounts shall be liable to the plan for the amount by which the employer's allocable share of unfunded vested benefits for the purpose of determining its initial withdrawal liability was reduced pursuant to section 4209 (a) or (b) of ERISA. Any liability for *de minimis* amounts determined under this section shall be limited by section 4225 of ERISA to the extent that section would have been limiting had the employer's initial withdrawal liability been determined without regard to the *de minimis* reduction.

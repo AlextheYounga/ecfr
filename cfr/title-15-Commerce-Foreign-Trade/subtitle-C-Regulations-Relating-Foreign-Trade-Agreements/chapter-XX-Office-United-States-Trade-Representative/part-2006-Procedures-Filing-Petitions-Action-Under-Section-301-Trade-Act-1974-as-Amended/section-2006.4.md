@@ -1,0 +1,3 @@
+##### § 2006.4 Requests for information made to Foreign Governments or Instrumentalities. #####
+
+If the U.S. Trade Representative receives a petition alleging violations of any international agreement, he will notify the foreign government or instrumentality of the allegations and may request information, in English, necessary to a determination under section 304(a)(1)(A) of the Trade Act. The Trade Representative may proceed on the basis of best information available if, within a reasonable time, no information is received in response to the request.

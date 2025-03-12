@@ -1,0 +1,11 @@
+##### § 2700.74 Procedure for participation as amicus curiae. #####
+
+(a) After the Commission has directed a case for review, any person may move to participate as amicus curiae. Such participation before the Commission shall not be a matter of right but of the sound discretion of the Commission. A motion for participation as amicus curiae shall set forth the interest of the movant; indicate which party's position, if any, the movant supports; the reason why an amicus brief is desirable and why the matters asserted are relevant to the disposition of the case; and show that the granting of the motion will not unduly delay the proceeding or prejudice any party. The movant may conditionally attach its brief to its motion for participation as amicus curiae.
+
+(b) The brief of an amicus curiae shall be filed within the initial briefing period (*see* § 2700.75(a)(1)) allotted to the party whose position the amicus curiae supports.
+
+(c) In the interest of avoiding duplication of argument, however, the Commission may permit the filing of an amicus curiae brief within 20 days after the close of the briefing period set forth in § 2700.75(a)(1), provided that the amicus curiae's motion for participation as an amicus curiae is filed within the initial briefing period (*see* § 2700.75(a)(1)) allotted to the party whose position the amicus curiae supports. If the Commission grants any such motion, the Commission's order shall specify the time within which a response or reply may be made to the amicus curiae brief.
+
+(d) Any person who does not support a party in the proceeding must file its motion for participation as amicus curiae and brief no later than 20 days after initial briefs are filed (*see* § 2700.75(a)(1)). A motion for participation as amicus curiae must comply with the requirements set forth in paragraph (a) of this section. A brief of amicus curiae must comply with § 2700.75(c).
+
+[58 FR 12164, Mar. 3, 1993, as amended at 64 FR 48714, Sept. 8, 1999; 71 FR 44209, Aug. 4, 2006; 71 FR 52211, Sept. 1, 2006]

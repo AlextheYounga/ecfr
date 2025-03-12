@@ -1,0 +1,3 @@
+##### § 210.1 Applicability of part. #####
+
+The rules in this part apply to investigations under section 337 of the Tariff Act of 1930 and related proceedings. These rules are authorized by sections 333, 335, or 337 of the Tariff Act of 1930 (19 U.S.C. §§ 1333, 1335, and 1337) and sections 2 and 1342(d)(1)(B) of the Omnibus Trade and Competitiveness Act of 1988, Pub. L. No. 100-418, 102 Stat. 1107 (1988).

@@ -1,0 +1,3 @@
+##### § 18.501 General rule. #####
+
+Except as otherwise required by the Constitution of the United States, or provided by Act of Congress, or by rules or regulations prescribed by the administrative agency pursuant to statutory authority, or pursuant to executive order, the privilege of a witness, person, government, State, or political subdivision thereof shall be governed by the principles of the common law as they may be interpreted by the courts of the United States in the light of reason and experience. However with respect to an element of a claim or defense as to which State law supplies the rule of decision, the privilege of a witness, person, government, State, or political subdivision thereof shall be determined in accordance with State law.

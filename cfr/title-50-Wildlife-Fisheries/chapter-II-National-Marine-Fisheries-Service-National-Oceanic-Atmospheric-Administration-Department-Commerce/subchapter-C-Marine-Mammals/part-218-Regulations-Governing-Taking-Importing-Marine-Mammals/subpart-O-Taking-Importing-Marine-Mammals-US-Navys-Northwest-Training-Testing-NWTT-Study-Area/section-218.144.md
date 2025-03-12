@@ -1,0 +1,123 @@
+##### § 218.144 Mitigation. #####
+
+(a) When conducting training and testing activities, as identified in § 218.140, the mitigation measures contained in the LOA issued under §§ 216.106 and 218.147 of this chapter must be implemented. These mitigation measures include, but are not limited to:
+
+(1) *Lookouts* - The following are protective measures concerning the use of Lookouts.
+
+(i) Lookouts positioned on surface ships will be dedicated solely to diligent observation of the air and surface of the water. Their observation objectives will include, but are not limited to, detecting the presence of biological resources and recreational or fishing boats, observing mitigation zones, and monitoring for vessel and personnel safety concerns.
+
+(ii) Lookouts positioned ashore, in aircraft or on boats will, to the maximum extent practicable and consistent with aircraft and boat safety and training and testing requirements, comply with the observation objectives described in paragraph (a)(1)(i) of this section.
+
+(iii) Lookout Measures for Non-Impulsive Sound:
+
+(A) With the exception of vessels less than 65 ft (20 m) in length or minimally manned vessels, ships using low-frequency or hull-mounted mid-frequency active sonar sources associated with anti-submarine warfare and mine warfare activities at sea will have two Lookouts at the forward position of the vessel. For the purposes of this rule, low-frequency active sonar does not include surface towed array surveillance system low-frequency active sonar.
+
+(B) While using low-frequency or hull-mounted mid-frequency active sonar sources associated with anti-submarine warfare and mine warfare activities at sea, vessels less than 65 ft (20 m) in length or minimally manned vessels will have one Lookout at the forward position of the vessel due to space and manning restrictions.
+
+(C) Ships conducting active sonar activities while moored or at anchor (including pierside or shore-based testing or maintenance) will maintain one Lookout.
+
+(D) Minimally manned vessels conducting hull-mounted mid-frequency testing will employ one Lookout.
+
+(E) Ships, small boats, range craft, or aircraft conducting non-hull-mounted mid-frequency active sonar, such as helicopter dipping sonar systems, will maintain one Lookout.
+
+(F) Surface ships or aircraft conducting high-frequency or non-hull-mounted mid-frequency active sonar activities associated with anti-submarine warfare and mine warfare activities at sea will have one Lookout.
+
+(iv) Lookout measures for impulsive sound (*e.g.,* explosives):
+
+(A) Aircraft conducting improved extended echo ranging sonobuoy activities will have one Lookout.
+
+(B) Aircraft conducting explosive sonobuoy activities using \>0.5 to 2.5-lb net explosive weight (NEW) will have one Lookout.
+
+(C) General mine countermeasure and neutralization activities involving positive control diver placed charges using \>0.5 to 2.5 lb NEW will have a total of two Lookouts (one Lookout positioned in each of the two support vessels). All divers placing the charges on mines will support the Lookouts while performing their regular duties. The divers and Lookouts will report all marine mammal sightings to their dive support vessel.
+
+(D) Surface vessels or aircraft conducting small-, medium-, and large-caliber gunnery exercises will have one Lookout. Towing vessels, if applicable, will also maintain one Lookout.
+
+(E) Aircraft conducting missile exercises against a surface target will have one Lookout.
+
+(F) Aircraft conducting explosive bombing exercises will have one Lookout and any surface vessels involved will have trained Lookouts.
+
+(G) During explosive torpedo testing from aircraft one Lookout will be used and positioned in an aircraft. During explosive torpedo testing from a surface ship the Lookout procedures implemented for hull-mounted mid-frequency active sonar activities will be used.
+
+(H) To mitigate effects from weapon firing noise, ships conducting explosive and non-explosive large-caliber gunnery exercises will have one Lookout. This may be the same Lookout used for small, medium, and large-caliber gunnery exercises using a surface target when that activity is conducted from a ship against a surface target.
+
+(v) Lookout measures for physical strike and disturbance:
+
+(A) While underway, surface ships and range craft will have at least one Lookout.
+
+(B) During activities using towed in-water devices towed from a manned platform, one Lookout will be used. During activities in which in-water devices are towed by unmanned platforms, a manned escort vessel will be included and one Lookout will be employed.
+
+(C) Activities involving non-explosive practice munitions (*e.g.,* small-, medium-, and large-caliber gunnery exercises) using a surface target will have one Lookout.
+
+(D) During non-explosive bombing exercises one Lookout will be positioned in an aircraft and trained Lookouts will be positioned in any surface vessels involved.
+
+(2) *Mitigation zones* - The following are protective measures concerning the implementation of mitigation zones.
+
+(i) Mitigation zones will be measured as the radius from a source and represent a distance to be monitored.
+
+(ii) Visual detections of marine mammals (or sea turtles) within a mitigation zone will be communicated immediately to a watch station for information dissemination and appropriate action.
+
+(iii) Mitigation Zones for Non-Impulsive Sound:
+
+(A) The Navy shall ensure that hull-mounted mid-frequency active sonar transmission levels are limited to at least 6 dB below normal operating levels if any detected marine mammals (or sea turtles) are within 1,000 yd. (914 m) of the sonar dome (the bow).
+
+(B) The Navy shall ensure that hull-mounted mid-frequency active sonar transmissions are limited to at least 10 dB below the equipment's normal operating level if any detected marine mammals (or sea turtles) are within 500 yd. (457 m) of the sonar dome.
+
+(C) The Navy shall ensure that hull-mounted mid-frequency active sonar transmissions are ceased if any detected cetaceans (or sea turtles) are within 200 yd. (183 m) and pinnipeds are within 100 yd. (91 m) of the sonar dome. Transmissions will not resume until the marine mammal has been observed exiting the mitigation zone, is thought to have exited the mitigation zone based on its course and speed, has not been detected for 30 minutes, the vessel has transited more than 2,000 yd. beyond the location of the last detection, or the Lookout concludes that dolphins are deliberately closing in on the ship to ride the ship's bow wave (and there are no other marine mammal sightings within the mitigation zone). Active transmission may resume when dolphins are bow riding because they are out of the main transmission axis of the active sonar while in the shallow-wave area of the ship bow. The pinniped mitigation zone does not apply to pierside sonar in the vicinity of pinnipeds hauled out on or in the water near man-made structures and vessels.
+
+(D) The Navy shall ensure that low-frequency active sonar transmission levels are ceased if any detected cetaceans (or sea turtles) are within 200 yd. (183 m) and pinnipeds are within 100 yd. (91 m) of the source. Transmissions will not resume until the marine mammal has been observed exiting the mitigation zone, is thought to have exited the mitigation zone based on its course and speed, has not been detected for 30 minutes, or the vessel has transited more than 2,000 yd. beyond the location of the last detection. The pinniped mitigation zone does not apply for pierside sonar in the vicinity of pinnipeds hauled out on or in the water near man-made structures and vessels.
+
+(E) For training, the Navy shall ensure that high-frequency and non-hull-mounted mid-frequency active sonar transmission levels are ceased if any detected marine mammals are within 200 yd. (183 m) of the source. For testing, the Navy shall ensure that high-frequency and non-hull-mounted mid-frequency active sonar transmission levels are ceased if any detected cetaceans are within 200 yd. (183 m) and pinnipeds are within 100 yd. (91 m) of the source. Transmissions will not resume until the marine mammal has been observed exiting the mitigation zone, is thought to have exited the mitigation zone based on its course and speed, the mitigation zone has been clear from any additional sightings for a period of 10 minutes for an aircraft-deployed source, the mitigation zone has been clear from any additional sightings for a period of 30 minutes for a vessel-deployed source, the vessel or aircraft has repositioned itself more than 400 yd. (370 m) away from the location of the last sighting, or the vessel concludes that dolphins are deliberately closing in to ride the vessel's bow wave (and there are no other marine mammal sightings within the mitigation zone). The pinniped mitigation zone does not apply for pierside or shore-based testing in the vicinity of pinnipeds hauled out on or in the water near man-made structures and vessels.
+
+(iv) Mitigation Zones and Procedures for Explosive and Impulsive Sound:
+
+(A) For activities using IEER sonobuoys, mitigation will include pre-exercise aerial observation and passive acoustic monitoring, which will begin 30 minutes before the first source/receiver pair detonation and continue throughout the duration of the exercise. IEER sonobuoys will not be deployed if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone around the intended deployment location. Explosive detonations will cease if a marine mammal, sea turtle, or concentrations of floating vegetation are sighted within a 600-yd. (549 m) mitigation zone. Detonations will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 30 minutes.
+
+(B) A mitigation zone with a radius of 350 yd. (320 m) shall be established for explosive signal underwater sonobuoys using \>0.5 to 2.5 lb net explosive weight. Mitigation will include pre-exercise aerial monitoring of the mitigation zone during deployment. Explosive SUS buoys will not be deployed if concentrations of floating vegetation (kelp paddies) are observed within the mitigation zone around the intended deployment location. A SUS detonation will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Detonations will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 10 minutes.
+
+(C) A mitigation zone with a radius of 400 yd. (366 m) shall be established for mine countermeasures and neutralization activities using positive control firing devices. For Demolition and Mine Countermeasures Operations, pre-exercise surveys shall be conducted within 30 minutes prior to the commencement of the scheduled explosive event. The survey may be conducted from the surface, by divers, or from the air, and personnel shall be alert to the presence of any marine mammal or sea turtle. Should a marine mammal or sea turtle be present within the survey area, the explosive event shall not be started until the animal voluntarily leaves the area. The Navy will ensure the area is clear of marine mammals for a full 30 minutes prior to initiating the explosive event. Explosive detonations will cease if a marine mammal is sighted in the water portion of the mitigation zone (*i.e.,* not on shore). Detonations will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 30 minutes.
+
+(D) A mitigation zone with a radius of 200 yd. (183 m) shall be established for small- and medium-caliber gunnery exercises with a surface target. Vessels will observe the mitigation zone from the firing position. When aircraft are firing, the aircrew will maintain visual watch of the mitigation zone during the activity. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed within the mitigation zone. Firing will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, the mitigation zone has been clear from any additional sightings for a period of 10 minutes for a firing aircraft, the mitigation zone has been clear from any additional sightings for a period of 30 minutes for a firing ship, or the intended target location has been repositioned more than 400 yd. (370 m) away from the location of the last sighting.
+
+(E) A mitigation zone with a radius of 600 yd. (549 m) shall be established for large-caliber gunnery exercises with a surface target. Ships will observe the mitigation zone from the firing position. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone. Firing will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 30 minutes.
+
+(F) A mitigation zone with a radius of 2,000 yd. (1.8 km) shall be established for missile exercises up to 500 lb NEW using a surface target. When aircraft are involved in the missile firing, mitigation will include visual observation by the aircrew prior to commencement of the activity within a mitigation zone of 2,000 yd. (1.8 km) around the intended impact location. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone. Firing will not commence or will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 10 minutes or 30 minutes (depending on aircraft type).
+
+(G) A mitigation zone with a radius of 2,500 yd. (2.3 km) for explosive bombs and a mitigation zone of 1,000 yd (914 m) for non-explosive bombs around the intended impact location shall be established for bombing exercises. Aircraft shall visually survey the target and buffer zone for marine mammals prior to and during the exercise. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone. Bombing will not commence or will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Bombing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 10 minutes.
+
+(H) A mitigation zone with a radius of 2,100 yd. (1.9 km) shall be established for torpedo (explosive) testing. Mitigation will include visual observation by aircraft immediately before, during, and after the event of the mitigation zone. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are sighted within the mitigation zone. Firing will not commence or will cease if a marine mammal, sea turtle, or aggregation of jellyfish is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 10 minutes or 30 minutes (depending on aircraft type). In addition to visual observation, passive acoustic monitoring shall be conducted by Navy assets, such as passive ship sonar systems or sonobuoys already participating in the activity. These assets would only detect vocalizing marine mammals within the frequency band monitored by Navy personnel. Passive acoustic detections would not provide range or bearing to detected animals, and therefore cannot provide locations of these animals. Passive acoustic detections shall be reported to the Lookout posted in the aircraft in order to increase vigilance of the visual surveillance, and to the person in control of the activity for their consideration in determining when the mitigation zone is determined free of visible marine mammals.
+
+(I) A mitigation zone with a radius of 70 yd. (46 m) within 30 degrees on either side of the gun target line on the firing side shall be established for weapons firing noise during large-caliber gunnery exercises. Mitigation shall include visual observation immediately before and during the exercise. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone. Firing will cease if a marine mammal or sea turtle is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, the mitigation zone has been clear from any additional sightings for a period of 30 minutes, or the vessel has repositioned itself more than 140 yd. (128 m) away from the location of the last sighting.
+
+(v) Mitigation Zones for Vessels and In-Water Devices:
+
+(A) For all training activities and for testing activities involving surface ships, vessels shall avoid approaching marine mammals head on and shall maneuver to keep at least 500 yd. (457 m) away from observed whales and 200 yd (183 m) away from all other marine mammals (except bow riding dolphins, and pinnipeds hauled out on man-made navigational and port structures and vessels) during vessel movements. These requirements shall not apply if a vessel's safety is threatened and to the extent that vessels are restricted in their ability to maneuver. Restricted maneuverability includes, but is not limited to, situations when vessels are engaged in dredging, submerged activities, launching and recovering aircraft or landing craft, minesweeping activities, replenishment while underway and towing activities that severely restrict a vessel's ability to deviate course.
+
+(B) For testing activities not involving surface ships (*e.g.* range craft) vessels shall maneuver to keep at least 100 yd. (91 m) away from marine mammals (except bow-riding dolphins, pinnipeds hauled out on man-made navigational and port structures and vessels, and pinnipeds during test body retrieval) during vessel movements. This requirement shall not apply if a vessel's safety is threatened and to the extent that vessels are restricted in their ability to maneuver. Restricted maneuverability includes, but is not limited to, situations when vessels are engaged in dredging, submerged activities, launching and recovering aircraft or landing craft, minesweeping activities, replenishment while underway and towing activities that severely restrict a vessel's ability to deviate course.
+
+(C) The Navy shall ensure that towed in-water devices being towed from manned platforms avoid coming within a mitigation zone of 250 yd. (230 m) for all training events and testing activities involving surface ships, and a mitigation zone of 100 yd (91 m) for testing activities not involving surface ships (*e.g.* range craft) around any observed marine mammal, providing it is safe to do so.
+
+(vi) Mitigation zones for non-explosive practice munitions:
+
+(A) A mitigation zone of 200 yd. (183 m) shall be established for small-, medium, and large-caliber gunnery exercises using a surface target. Mitigation will include visual observation from a vessel or aircraft immediately before and during the exercise within the mitigation zone of the intended impact location. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed in the mitigation zone. Firing will cease if a marine mammal is sighted within the mitigation zone. Firing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, the mitigation zone has been clear from any additional sightings for a period of 10 minutes for a firing aircraft, the mitigation zone has been clear from any additional sightings for a period of 30 minutes for a firing ship, or the intended target location has been repositioned more than 400 yd. (370 m) away from the location of the last sighting.
+
+(B) A mitigation zone of 1,000 yd. (914 m) shall be established for non-explosive bombing exercises. Mitigation shall include visual observation from the aircraft immediately before the exercise and during target approach within the mitigation zone around the intended impact location. The exercise will not commence if concentrations of floating vegetation (kelp paddies) are observed within the mitigation zone. Bombing will not commence or will cease if a marine mammal is sighted within the mitigation zone. Bombing will recommence if the animal is observed exiting the mitigation zone, the animal is thought to have exited the mitigation zone based on its course and speed, or the mitigation zone has been clear from any additional sightings for a period of 10 minutes.
+
+(3) *NWTT-Specific Mitigation* - The following are additional measures the Navy shall comply with when conducting training or testing activities in the NWTT Study Area:
+
+(i) Maritime Homeland Defense/Security Mine Countermeasure Integrated Exercises - The Navy shall conduct pre-event planning and training to ensure environmental awareness of all exercise participants. When this event is proposed to be conducted in Puget Sound, Navy event planners shall consult with Navy biologists who shall contact NMFS during the planning process in order to determine likelihood of gray whale or southern resident killer whale presence in the proposed exercise area as planners consider specifics of the event.
+
+(ii) Small Boat Attack Gunnery Exercises - The Navy shall conduct pre-event planning and training to ensure environmental awareness of all exercise participants. When this event is proposed to be conducted in and around Naval Station Everett, Naval Base Kitsap Bangor, or Naval Base Kitsap Bremerton in Puget Sound, Navy event planners shall consult with Navy biologists who shall contact NMFS early in the planning process in order to determine the extent marine mammals may be present in the immediate vicinity of the proposed exercise area as planners consider the specifics of the event.
+
+(iii) Missile Exercise - The Navy shall conduct Missile Exercises using high explosives at least 50 nm from shore in the NWTT Offshore Area.
+
+(iv) BOMBEX - The Navy shall conduct BOMBEX (high explosive munitions) greater than 50 nm from shore.
+
+(v) BOMBEX (non-explosive practice munitions) - The Navy shall conduct BOMBEX (non-explosive practice munitions) events at least 20 nm from shore and shall not conduct BOMBEX events within the Olympic Coast National Marine Sanctuary.
+
+(vi) Mine Countermeasure and Neutralization Underwater Detonations - The Navy shall require approval from U.S. Third Fleet prior to conducting mine countermeasure and neutralization underwater detonations at Hood Canal or Crescent Harbor.
+
+(vii) Hull Mounted Mid-Frequency Active Sonar Training - The Navy shall require approval from U.S. Pacific Fleet's designated authority prior to conducting hull-mounted mid-frequency active sonar on vessels while training underway in Puget Sound and the Strait of Juan de Fuca.
+
+(viii) Pierside Maintenance or Testing of Sonar Systems - The Navy shall require approval from U.S. Pacific Fleet's designated authority or Systems Command designated authority (as applicable to ship and submarine active sonar use) prior to conducting pierside maintenance or testing in Puget Sound or the Strait of Juan de Fuca.
+
+(b) [Reserved]

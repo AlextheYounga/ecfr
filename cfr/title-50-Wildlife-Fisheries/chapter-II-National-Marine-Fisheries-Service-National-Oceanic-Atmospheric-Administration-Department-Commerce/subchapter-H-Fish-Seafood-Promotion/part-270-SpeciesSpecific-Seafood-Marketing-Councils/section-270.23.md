@@ -1,0 +1,17 @@
+##### § 270.23 Dissolution of Councils. #####
+
+(a) *Petition for termination.* (1) A petition to terminate a Council may be filed with NMFS by no less than three sector participants in any one sector. Any petition filed under this subsection must be accompanied by a written document explaining the reasons for such petition.
+
+(2) If NMFS determines that a petition filed under paragraph (a)(1) of this section is accompanied by the signatures, or corporate certifications, of no less than three sector participants in the sector referred to in paragraph (a)(1) of this section who collectively accounted for, in the 12-month period immediately preceding the month in which the petition was filed, not less than 20 percent of the value of the fish or fish products described in § 270.3(c)(2)(iii) that were handled by that sector during the period, NMFS within 90 days after the determination, will conduct a referendum for termination of the Council among all sector participants in that sector.
+
+(3) Not less than 30 days prior to holding a referendum, NMFS will publish an announcement in the Federal Register of the referendum, including an explanation of the reasons for the petition for termination filed under paragraph (a)(1) of this section and any other relevant information NMFS considers appropriate.
+
+(4) If the referendum votes which are cast in favor of terminating the Council constitute a majority of the sector participants voting and the majority, in the period in paragraph (a)(2) of this section, collectively accounted for not less than 66 percent of the value of such fish and fish products that were handled during such period by the sector in paragraph (a)(1) of this section, NMFS will by order of publication terminate the Council effective as of a date by which the affairs of the Council may be concluded on an orderly basis.
+
+(5) NMFS initially will pay all costs of a referendum conducted in § 270.23. Prior to conducting such a referendum, NMFS will require petitioners to post a bond or other security acceptable to NMFS in an amount which NMFS determines to be sufficient to pay any expenses incurred for the conduct of the referendum.
+
+(6) If a referendum conducted under § 270.23 fails to result in the termination of the Council, NMFS will immediately recover the amount of the bond posted by the petitioners under § 270.23(a)(5).
+
+(7) If a referendum conducted under this subsection results in the termination of the Council, NMFS will recover the expenses incurred for the conduct of the referendum from the account established by the Council. If the amount remaining in such account is insufficient for NMFS to recover all expenses incurred for the conduct of the referendum, NMFS will recover the balance of the expenses from the petitioners that posted a bond under paragraph (a)(5) of this section.
+
+(b) *Payment of remaining funds.* If a Council is terminated under section § 270.23(a)(4), NMFS, after recovering all expenses incurred for the conduct of the referendum under paragraph (a) of this section, will take such action as is necessary and practicable to ensure that moneys remaining in the account established by the Council under § 270.17 are paid on a prorated basis to the sector participants from whom those moneys were collected under § 270.20.

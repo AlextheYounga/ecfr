@@ -1,0 +1,19 @@
+##### § 37.53 Submission of data and information. #####
+
+(a) The permittee shall submit to the Regional Director free of charge all data and information obtained as a result of carrying out exploratory activities. Such data and information include copies of all raw data and information and all processed, analyzed and interpreted data or information. The permittee shall, unless directed otherwise by the Regional Director, submit such data and information within 30 days after the end of the annual quarter during which they become available to it at every level of data gathering or utilization, *i.e.*, acquisition, processing, reprocessing, analysis, and interpretation.
+
+(b) Each submission of geophysical data or information shall contain, unless otherwise specified by the Regional Director, the following:
+
+(1) An accurate and complete record of each geophysical survey conducted under the permittee's permit, including digital navigational data, if obtained, and final location maps of all survey stations; and,
+
+(2) All seismic data developed under the permit, presented in a format prescribed or approved by the Regional Director and of a quality suitable for processing.
+
+(c) Processed geophysical information shall be submitted with extraneous signals and interference removed as much as possible, and presented in a format and of a quality suitable for interpretive evaluation, reflecting state-of-the-art processing techniques.
+
+(d) Processed, analyzed and interpreted data or information required to be submitted by the Act and this section shall include, but not be limited to, seismic record sections, and intepretations thereof; geologic maps, cross sections, and intepretations thereof; maps of gravitational and magnetic fields and interpretations thereof; and chemical or other analyses of rock samples collected on the refuge and interpretations thereof.
+
+(e) Any permittee or other person submitting processed, analyzed and interpreted data or information to the Regional Director shall clearly identify them by marking the top of each page bearing such data or information with the words ”PROCESSED, ANALYZED AND INTERPRETED DATA OR INFORMATION”. All pages so marked shall be physically separated by the person submitting them from those not so marked, unless doing so will destroy the value or integrity of the data or information presented. In that event or in the event that an item is submitted which is not susceptible to marking by page, the document or item submitted will be accompanied by a summary identifying the location of all processed, analyzed and interpreted data or information which are not segregated or marked by page, and explaning the reasons therefore. All pages not marked with this legend, all other data and information not identified as bearing such data or information, and all other data and information incorrectly identified as bearing such data or information shall be treated as raw data and information and shall be made available to the public upon request in accordance with § 37.54(a). The Department reserves the right to determine whether any page or item is correctly identified as constituting processed, analyzed and interpreted data or information.
+
+(f) If the permittee proposes to transfer any data or information covered by this section to a third party or the third party proposes to transfer such data or information to another third party, the transferor shall notify the Regional Director at least 10 days in advance and shall require the receiving third party, in writing, to abide by the obligations of the permittee as specified in this section as a condition precedent to the transfer of such data or information.
+
+(g) Upon request by the Department, a permittee shall identify each person to whom the permittee has provided data and information pursuant to § 37.22(d)(3) and provide a description of the area to which such data and information pertain.

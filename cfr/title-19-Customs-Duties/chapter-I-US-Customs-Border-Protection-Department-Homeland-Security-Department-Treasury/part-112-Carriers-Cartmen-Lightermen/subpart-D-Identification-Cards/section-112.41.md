@@ -1,0 +1,5 @@
+##### § 112.41 Identification cards required. #####
+
+A port director may require each licensed cartman or lighterman and each employee thereof who receives, transports, or otherwise handles imported merchandise which has not been released from Customs custody to carry and display upon request of a Customs officer an identification card issued by Customs. The card shall be in the possession of the person in whose name it is issued at all times when he is engaged in transactions with respect to imported merchandise. An identification card shall not be issued to any person whose employment in connection with the transportation of bonded merchandise will, in the judgment of the port director, endanger the revenue.
+
+[T.D. 73-140, 38 FR 13551, May 23, 1973, as amended by T.D. 99-64, 64 FR 43266, Aug. 10, 1999]

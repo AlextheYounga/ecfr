@@ -1,0 +1,3 @@
+##### § 1602.53 Exemption from reporting requirements. #####
+
+If it is claimed that the preparation or filing of the report would create undue hardship, the institution of higher education may apply to the Commission for an exemption from the requirements set forth in subparts O and P of this part by submitting to the Commission or its delegate a specific proposal for an alternative reporting system no later than 45 days prior to the date on which the report must be filed.

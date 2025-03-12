@@ -1,0 +1,5 @@
+##### § 1926.14 Federal contract for “mixed” types of performance. #####
+
+(a) It is the intent of the Congress to provide safety and health protection of Federal, federally financed, or federally assisted construction. See, for example, H. Report No. 91-241, 91st Cong., first session, p. 1 (1969). Thus, it is clear that when a Federal contract calls for mixed types of performance, such as both manufacturing and construction, section 107 would apply to the construction. By its express terms, section 107 applies to a contract which is “for construction, alteration, and/or repair.” Such a contract is not required to be exclusively for such services. The application of the section is not limited to contracts which permit an overall characterization as “construction contracts.” The text of section 107 is not so limited.
+
+(b) When the mixed types of performances include both construction and manufacturing, see also § 1926.15(b) concerning the relationship between the Walsh-Healey Public Contracts Act and section 107.

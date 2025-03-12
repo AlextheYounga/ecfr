@@ -1,0 +1,3 @@
+##### § 102.154 Exceptions to administrative law judge's decision; briefs; action of Board. #####
+
+Procedures before the Board, including the filing of exceptions to the administrative law judge's decision and briefs, and action by the Board, shall be in accordance with §§ 102.46, 102.47, 102.48 and 102.50 of these rules. The Board will issue a decision on the application or remand the proceeding to the administrative law judge for further proceedings.

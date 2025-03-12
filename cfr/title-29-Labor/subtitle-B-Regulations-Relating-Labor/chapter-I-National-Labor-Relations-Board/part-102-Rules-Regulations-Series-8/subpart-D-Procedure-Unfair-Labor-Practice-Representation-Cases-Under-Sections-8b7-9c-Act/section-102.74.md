@@ -1,0 +1,3 @@
+##### § 102.74 Complaint and formal proceedings. #####
+
+If it appears to the regional director that the charge has merit, formal proceedings in respect thereto shall be instituted in accordance with the procedures described in §§ 102.15 to 102.51, inclusive, insofar as they are applicable, and insofar as they are not inconsistent with the provisions of this subpart. If it appears to the regional director that issuance of a complaint is not warranted, he shall decline to issue a complaint, and the provisions of § 102.19, including the provisions for appeal to the general counsel, shall be applicable unless an election has been directed under §§ 102.77 and 102.78, in which event the provisions of § 102.81 shall be applicable.

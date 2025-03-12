@@ -1,0 +1,3 @@
+##### § 2570.5 Consequences of default. #####
+
+For prohibited transaction penalty proceedings, this section shall apply in lieu of § 18.5(b) of this title. Failure of the respondent to file an answer within the 30 day time period provided in § 18.5 of this title shall be deemed to constitute a waiver of his right to appear and contest the allegations of the notice, and such failure shall be deemed to be an admission of the facts as alleged in the notice for purposes of the prohibited transaction penalty proceeding. Such notice shall then become the final order of the Secretary, except that the administrative law judge may set aside a default entered under this provision where there is proof of defective notice.

@@ -1,0 +1,7 @@
+##### § 2580.412-20 Use of existing bonds, separate bonds and additional bonding. #####
+
+(a) *Additional bonding.* Section 13 neither prevents additional bonding beyond that required by its terms, nor prescribes the form in which additional coverage may be taken. Thus, so long as a particular bond meets the requirements of the regulations in this part as to the persons required to be bonded and provides coverage for such persons in at least the minimum required amount, additional coverage as to persons or amount may be taken in any form, either on the same or separate bond.
+
+(b) *Use of existing bonds.* Insofar as a bond currently in use is adequate to meet the requirements of the Act and the regulations in this part or may be made adequate to meet these requirements through rider, modification or separate agreement between the parties, no further bonding is required.
+
+(c) *Use of separate bonds.* The choice of whether persons required to be bonded should be bonded separately or under the same bond, whether given plans should be bonded separately or under the same bond, whether existing bonds should be used or separate bonds for Welfare and Pension Plans Disclosure Act bonding should be obtained, or whether the bond is underwritten by a single surety company or more than one surety company, either separately or on a cosurety basis, is left to the judgment of the parties concerned, so long as the bonding program adopted meets the requirements of the Act and the regulations in this part.

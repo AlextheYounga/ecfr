@@ -1,0 +1,5 @@
+##### § 2.57 Temporary certificates—pipeline companies. #####
+
+The Federal Energy Regulatory Commission will exercise the emergency powers set forth in the second proviso of section 7(c) of the Natural Gas Act to authorize in appropriate cases, by issuance of temporary certificates, comparatively minor enlargements or extensions of an existing pipeline system. It will not be the policy of the Commission, however, to proceed summarily, i.e., without notice or hearing, in cases where the proposed construction is of major proportions. Pipeline companies are accordingly urged to conduct their planning and to submit their applications for authority sufficiently early so that compliance with the requirements relating to issuance of permanent certificates of public convenience and necessity (when those requirements are deemed applicable by the Commission) will not cause undue delay in the commencement of necessary construction.
+
+(52 Stat. 824; 56 Stat. 83; 15 U.S.C. 717f)[Gen. Policy 62-1, 26 FR 10098, Oct. 27, 1961, as amended by Order 737, 75 FR 43402, July 26, 2010]

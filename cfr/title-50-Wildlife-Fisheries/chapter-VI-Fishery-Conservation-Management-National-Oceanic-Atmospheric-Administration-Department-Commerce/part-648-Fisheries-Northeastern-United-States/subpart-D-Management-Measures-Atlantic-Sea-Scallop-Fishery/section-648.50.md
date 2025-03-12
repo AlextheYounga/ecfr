@@ -1,0 +1,5 @@
+##### § 648.50 Shell-height standard. #####
+
+(a) *Minimum shell height.* The minimum shell height for in-shell scallops that may be landed, or possessed at or after landing, is 3.5 inches (8.9 cm). Shell height is a straight line measurement from the hinge to the part of the shell that is farthest away from the hinge.
+
+(b) *Compliance and sampling.* Any time at landing or after, including when the scallops are received or possessed by a dealer or person acting in the capacity of a dealer, compliance with the minimum shell-height standard shall be determined as follows: Samples of 40 scallops each shall be taken at random from the total amount of scallops in possession. The person in possession of the scallops may request that as many as 10 sample groups (400 scallops) be examined. A sample group fails to comply with the standard if more than 10 percent of all scallops sampled are shorter than the shell height specified. The total amount of scallops in possession shall be deemed in violation of this subpart and subject to forfeiture, if the sample group fails to comply with the minimum standard.

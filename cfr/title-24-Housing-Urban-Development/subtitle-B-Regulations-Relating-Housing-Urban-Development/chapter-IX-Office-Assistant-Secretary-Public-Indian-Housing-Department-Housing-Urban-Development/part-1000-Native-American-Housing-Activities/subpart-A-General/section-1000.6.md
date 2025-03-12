@@ -1,0 +1,3 @@
+##### § 1000.6 What is the nature of the IHBG program? #####
+
+The IHBG program is formula driven whereby eligible recipients of funding receive an equitable share of appropriations made by the Congress, based upon formula components specified under subpart D of this part. IHBG recipients must have the administrative capacity to undertake the affordable housing activities proposed, including the systems of internal control necessary to administer these activities effectively without fraud, waste, or mismanagement.

@@ -1,0 +1,3 @@
+##### § 181.97 Withdrawal of NAFTA advance ruling requests. #####
+
+Any request for an advance ruling may be withdrawn by the person submitting it at any time before the issuance of an advance ruling letter or any other final disposition of the request. All correspondence, documents, and exhibits submitted in connection with the request will be retained in the Customs file and will not be returned. In addition, the Headquarters Office may forward, to Customs field offices which have or may have jurisdiction over the transaction to which the advance ruling request relates, its views in regard to the transaction or the issues involved therein, as well as appropriate information derived from materials in the Customs file.

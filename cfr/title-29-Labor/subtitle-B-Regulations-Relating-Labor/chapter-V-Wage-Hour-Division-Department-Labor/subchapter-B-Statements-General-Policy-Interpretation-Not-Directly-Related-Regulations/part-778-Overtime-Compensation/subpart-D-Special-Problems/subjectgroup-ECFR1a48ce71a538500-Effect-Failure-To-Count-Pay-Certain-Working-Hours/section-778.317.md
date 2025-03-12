@@ -1,0 +1,5 @@
+##### § 778.317 Agreements not to pay for certain nonovertime hours. #####
+
+An agreement not to compensate employees for certain nonovertime hours stands on no better footing since it would have the same effect of diminishing the employee's total overtime compensation. An agreement, for example, to pay an employee whose maximum hours standard for the particular workweek is 40 hours, $5 an hour for the first 35 hours, nothing for the hours between 35 and 40 and $7.50 an hour for the hours in excess of 40 would not meet the overtime requirements of the Act. Under the principles set forth in § 778.315, the employee would have to be paid $25 for the 5 hours worked between 35 and 40 before any sums ostensibly paid for overtime could be credited toward overtime compensation due under the Act. Unless the employee is first paid $5 for each nonovertime hour worked, the $7.50 per hour payment purportedly for overtime hours is not in fact an overtime payment.
+
+[46 FR 7315, Jan. 23, 1981]

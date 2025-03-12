@@ -1,0 +1,3 @@
+##### § 401.102 Partial disclosure of records. #####
+
+If a record contains both disclosable and nondisclosable information, the nondisclosable information will be deleted and the remaining record will be disclosed unless the two are so inextricably intertwined that it is not feasible to separate them or release of the disclosable information would compromise or impinge upon the nondisclosable portion of the record.

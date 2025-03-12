@@ -1,0 +1,3 @@
+##### § 2570.1 Scope of rules. #####
+
+The rules of practice set forth in this part are applicable to “prohibited transaction penalty proceedings” (as defined in § 2570.2(o) of this part) under section 502(i) of the Employee Retirement Income Security Act of 1974. The rules of procedure for administrative hearings published by the Department's Office of Administrative Law Judges at part 18 of this title will apply to matters arising under ERISA section 502(i) except as modified by this section. These proceedings shall be conducted as expeditiously as possible, and the parties shall make every effort to avoid delay at each stage of the proceedings.

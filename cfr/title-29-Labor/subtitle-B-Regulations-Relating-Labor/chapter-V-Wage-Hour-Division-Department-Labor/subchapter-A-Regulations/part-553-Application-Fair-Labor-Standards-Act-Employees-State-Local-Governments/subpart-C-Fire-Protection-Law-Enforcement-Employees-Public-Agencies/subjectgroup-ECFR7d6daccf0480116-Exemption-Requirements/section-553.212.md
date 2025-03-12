@@ -1,0 +1,7 @@
+##### § 553.212 Twenty percent limitation on nonexempt work. #####
+
+(a) Employees engaged in law enforcement activities as described in § 553.211 may also engage in some nonexempt work which is not performed as an incident to or in conjunction with their law enforcement activities. The performance of such nonexempt work will not defeat either the section 13(b)(20) or 7(k) exemptions unless it exceeds 20 percent of the total hours worked by that employee during the workweek or applicable work period. A person who spends more than 20 percent of his/her working time in nonexempt activities is not considered to be an employee engaged in law enforcement activities for purposes of this part.
+
+(b) Public agency fire protection and law enforcement personnel may, at their own option, undertake employment for the same employer on an occasional or sporadic and part-time basis in a different capacity from their regular employment. (See § 553.30.) The performance of such work does not affect the application of the section 13(b)(20) or 7(k) exemptions with respect to the regular employment. In addition, the hours of work in the different capacity need not be counted as hours worked for overtime purposes on the regular job, nor are such hours counted in determining the 20 percent tolerance for nonexempt work for law enforcement personnel discussed in paragraph (a) of this section.
+
+[52 FR 2032, Jan. 16, 1987, as amended at 76 FR 18856, Apr. 5, 2011]

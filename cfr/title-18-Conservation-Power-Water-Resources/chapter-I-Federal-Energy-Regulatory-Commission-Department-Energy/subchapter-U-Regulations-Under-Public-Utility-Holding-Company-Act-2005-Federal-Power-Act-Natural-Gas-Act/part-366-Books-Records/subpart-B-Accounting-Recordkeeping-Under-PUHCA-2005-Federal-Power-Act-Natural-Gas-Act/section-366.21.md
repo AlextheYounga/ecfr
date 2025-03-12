@@ -1,0 +1,9 @@
+##### § 366.21 Accounts and records of holding companies. #####
+
+(a) *General.* Unless otherwise exempted or granted a waiver by Commission rule or order pursuant to §§ 366.3 and 366.4, every holding company shall maintain and make available to the Commission books, accounts, memoranda, and other records of all of its transactions in sufficient detail to permit examination, audit and verification of the financial statements, schedules and reports either required to be filed with the Commission or issued to stockholders, as necessary and appropriate for the protection of utility customers with respect to jurisdictional rates.
+
+(b) Unless otherwise exempted or granted a waiver by Commission rule or order pursuant to §§ 366.3 and 366.4, beginning January 1, 2008, all holding companies must comply with the Commission's records retention requirements for holding companies and service companies as prescribed in part 368 of this chapter. Until December 31, 2007, holding companies registered under the Public Utility Holding Company Act of 1935 (15 U.S.C. 79a *et seq.*) may follow either the Commission's records retention rules for public utilities and licensees or for natural gas companies, as appropriate (parts 125 and 225 of this chapter), or the Securities and Exchange Commission's record retention rules in 17 CFR part 257.
+
+(c) Nothing in this section shall relieve any company subject thereto from compliance with the requirements as to recordkeeping and record-retention that may be prescribed by any other regulatory agency.
+
+[Order 667-A, 71 FR 28457, May 16, 2006, as amended by Order 684, 71 FR 65226, Nov. 7, 2006]

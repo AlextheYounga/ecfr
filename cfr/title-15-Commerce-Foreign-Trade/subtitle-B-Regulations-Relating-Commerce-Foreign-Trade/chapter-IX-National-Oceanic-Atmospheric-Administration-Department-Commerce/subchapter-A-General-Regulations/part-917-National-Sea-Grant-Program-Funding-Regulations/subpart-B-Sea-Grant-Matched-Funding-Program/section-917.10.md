@@ -1,0 +1,5 @@
+##### § 917.10 General. #####
+
+(a) 33 U.S.C. 1124(a) establishes a program for the funding of Sea Grant Programs and projects dealing with marine research, marine education and training, and/or marine advisory services, that are designed to achieve the objective of the Act and that generally respond to the needs of individual states or regions. Included as a part of this program is the Sea Grant Fellowship Program, established by 33 U.S.C. 1127. Any person may apply to the Office of Sea Grant for Sea Grant Matched Funding Program Monies, except for Sea Grant Fellowship funding. Sea Grant Fellowship funding may be granted only to Sea Grant Colleges, Sea Grant Regional Consortia, institutions of higher education, and professional associations and institutions.
+
+(b) Federal Sea Grant funding for the section 1124(a) Matched Funding Program cannot exceed 662/3 percent of the total cost of the project involved.

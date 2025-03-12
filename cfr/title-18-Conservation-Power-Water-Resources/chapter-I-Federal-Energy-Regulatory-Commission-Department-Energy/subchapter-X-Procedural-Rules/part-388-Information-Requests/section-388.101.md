@@ -1,0 +1,3 @@
+##### § 388.101 Scope. #####
+
+This part prescribes the rules governing public notice of proceedings, publication of decisions, requests for informal advice from Commission staff, procedures for press, television, radio and photographic coverage, requests for Commission records, requests for confidential treatment of documents submitted to the Commission, procedures for responding to subpoenas seeking documents or testimony from Commission employees or former employees, fees for various requests for documents, and requests for reduction or waiver of these fees.

@@ -1,0 +1,3 @@
+##### § 35.13 Exceptions to the rules against age discrimination: reasonable factors other than age. #####
+
+A recipient is permitted to take an action otherwise prohibited by § 35.10, if that action is based on a factor other than age, even though the action may have a disproportionate effect on persons of different ages. An action is based on a factor other than age only if the factor bears a direct and substantial relationship to the normal operation of the program or activity or to the achievement of a statutory objective.

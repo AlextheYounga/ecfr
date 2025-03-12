@@ -1,0 +1,3 @@
+##### § 5.524 Compliance with nondiscrimination requirements. #####
+
+The responsible entity shall administer the restrictions on use of assisted housing by noncitizens with ineligible immigration status imposed by this part in conformity with all applicable nondiscrimination and equal opportunity requirements, including, but not limited to, title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d-2000d-5) and the implementing regulations in 24 CFR part 1, section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794) and the implementing regulations in 24 CFR part 8, the Fair Housing Act (42 U.S.C. 3601-3619) and the implementing regulations in 24 CFR part 100.

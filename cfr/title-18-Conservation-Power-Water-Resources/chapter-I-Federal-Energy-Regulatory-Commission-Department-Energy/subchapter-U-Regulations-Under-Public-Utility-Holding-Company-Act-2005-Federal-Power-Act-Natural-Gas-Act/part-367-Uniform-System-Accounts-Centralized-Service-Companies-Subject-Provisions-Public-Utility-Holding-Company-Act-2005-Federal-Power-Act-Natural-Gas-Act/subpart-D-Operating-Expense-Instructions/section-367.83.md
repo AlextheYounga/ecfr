@@ -1,0 +1,3 @@
+##### § 367.83 Training costs. #####
+
+When it is necessary that employees be trained to specifically operate or maintain facilities that are being constructed, the related costs must be accounted for as a current operating and maintenance expense. These expenses must be charged to the appropriate functional accounts currently as they are incurred. However, when the training costs involved relate to facilities that are not conventional in nature, or are new to the service company's operations, these costs may be capitalized until the time that the facilities are ready for functional use.

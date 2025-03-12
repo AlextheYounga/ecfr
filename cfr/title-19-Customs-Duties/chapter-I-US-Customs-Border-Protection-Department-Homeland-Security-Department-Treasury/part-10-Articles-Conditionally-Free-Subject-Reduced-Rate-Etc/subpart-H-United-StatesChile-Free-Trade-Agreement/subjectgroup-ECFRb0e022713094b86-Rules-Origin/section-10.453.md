@@ -1,0 +1,3 @@
+##### § 10.453 Treatment of textile and apparel sets. #####
+
+Notwithstanding the specific rules specified in General Note 26(n), HTSUS, textile and apparel goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3, HTSUS, will not be regarded as originating goods unless each of the goods in the set is an originating good or the non-originating goods in the set do not exceed 10 percent of the adjusted value of the set.

@@ -1,0 +1,3 @@
+##### § 790.11 Contract, custom or practice in effect “at the time of such activity.” #####
+
+The “contract,” “custom” or “practice” on which the compensability of the activities referred to in section 4 of the Portal Act may be based, is a contract, custom or practice in effect “at the time of such activity.” Thus, the compensability of such an activity, and its inclusion in computation of hours worked, is not determinable by a custom or practice which had been terminated before the activity was engaged in or was adopted some time after the activity was performed. This phrase would also seem to permit recognition of changes in customs, practices and agreements which reflect changes in labor-management relations or policies.

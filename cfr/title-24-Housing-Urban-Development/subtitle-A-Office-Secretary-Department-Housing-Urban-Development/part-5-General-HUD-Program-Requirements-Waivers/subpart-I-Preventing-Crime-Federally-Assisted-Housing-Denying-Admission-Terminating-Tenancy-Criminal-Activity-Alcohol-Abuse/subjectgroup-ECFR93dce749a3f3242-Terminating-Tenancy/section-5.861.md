@@ -1,0 +1,3 @@
+##### § 5.861 What evidence of criminal activity must I have to evict? #####
+
+You may terminate tenancy and evict the tenant through judicial action for criminal activity by a covered person in accordance with this subpart if you determine that the covered person has engaged in the criminal activity, regardless of whether the covered person has been arrested or convicted for such activity and without satisfying a criminal conviction standard of proof of the activity.

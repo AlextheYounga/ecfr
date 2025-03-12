@@ -1,0 +1,11 @@
+##### § 236.710 Qualified tenant. #####
+
+(a) The benefits of rental assistance payments are available only to an individual or a family who is renting a dwelling unit in a project that is subject to a contract entered into under the requirements of this subpart or who is occupying such a dwelling unit as a cooperative member. To qualify for the benefits of rental assistance payments, the individual or family must satisfy the definition of Qualified Tenant found in § 236.2 of subpart A (contained in the April 1, 1995 edition of 24 CFR, parts 220 to 499; see the Savings clause at § 236.1(c)).
+
+(b) To receive rental assistance under this subpart, the income of the individual or family must be determined to be too low to permit the individual or family to pay the approved Gross Rent with 30 percent of the individual's or family's Adjusted Monthly Income, as defined in § 236.2 of subpart A (contained in the April 1, 1995 edition of 24 CFR, parts 220 to 499). Determination of the Adjusted Monthly Income must include the deductions required for adjusted income in 24 CFR 5.611(a) in lieu of the deductions provided in the definition of “adjusted income” in 24 CFR 236.2 (contained in the April 1, 1995 edition of 24 CFR, parts 220 to 499; see the Savings clause at § 236.1(c)).
+
+(c) For requirements concerning the disclosure and certification of Social Security Numbers, see 24 CFR part 5, subpart B. For requirements regarding the signing and submitting of consent forms for the obtaining of wage and claim information from State Wage Information Collection Agencies, see 24 CFR part 5, subpart B. For restrictions on financial assistance to noncitizens with ineligible immigration status, see 24 CFR part 5, subpart E.
+
+(d) The definition of “persons with disabilities” in paragraph (d) of this section replaces the terms “disabled person” and “handicapped person” used in the regulations in 24 CFR part 236, subpart A (contained in the April 1, 1995 edition of 24 CFR, parts 220 to 499; see the Savings clause at § 236.1(c)). *Person with disabilities,* as used in this part, has the same meaning as provided in 24 CFR 891.305.
+
+[66 FR 6224, Jan. 19, 2001]

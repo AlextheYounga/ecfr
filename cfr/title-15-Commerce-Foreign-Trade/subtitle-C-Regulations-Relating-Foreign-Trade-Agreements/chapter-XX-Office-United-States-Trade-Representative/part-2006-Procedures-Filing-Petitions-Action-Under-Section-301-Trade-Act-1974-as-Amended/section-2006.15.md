@@ -1,0 +1,9 @@
+##### § 2006.15 Information exempt from public inspection. #####
+
+(a) The Chairman of the Section 301 Committee shall exempt from public inspection business information submitted in confidence if he determines that such information involves trade secrets or commercial and financial information the disclosure of which is not authorized by the person furnishing such information nor required by law.
+
+(b) An interested person requesting that the Chairman exempt from public inspection confidential business information submitted in writing must certify in writing that such information is business confidential, the disclosure of such information would endanger trade secrets or profitability, and such information is not generally available. The information submitted must be clearly marked “BUSINESS CONFIDENTIAL” in a contrasting color ink at the top of each page on each copy, and shall be accompanied by a nonconfidential summary of the confidential information.
+
+(c) The Section 301 Chairman may use such information, or make such information available (in his own discretion) to any employee of the Federal Government for use in any investigation under section 302, or make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
+
+(d) The Section 301 Chairman may deny a request that he exempt from public inspection any particular business information if he determines that such information is not entitled to exemption under law. In the event of a denial, the interested person submitting the particular business information will be notified of the reasons for the denial and will be permitted to withdraw the submission.

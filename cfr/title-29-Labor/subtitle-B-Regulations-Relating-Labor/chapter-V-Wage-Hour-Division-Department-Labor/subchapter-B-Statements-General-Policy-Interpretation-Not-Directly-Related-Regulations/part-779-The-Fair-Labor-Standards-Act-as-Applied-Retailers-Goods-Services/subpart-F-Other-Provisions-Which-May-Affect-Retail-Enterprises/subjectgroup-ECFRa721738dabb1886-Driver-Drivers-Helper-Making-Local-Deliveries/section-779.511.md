@@ -1,0 +1,3 @@
+##### § 779.511 “Finding by Secretary.” #####
+
+As stated in § 779.510, before the section 13(b)(11) exemption may be claimed, the Secretary must find that the trip rate basis of compensation, or other delivery payment plan used to compensate a driver or a driver's helper making local deliveries, has the general purpose and effect of reducing the hours worked by these employees to, or below, the maximum workweek applicable to them under section 7(a) of the Act. The conditions under which such findings may be made, amended, or revoked, and the procedure for obtaining such a finding are set forth in the regulations in part 551 of this chapter.

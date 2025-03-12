@@ -1,0 +1,3 @@
+##### § 1902.14 Formal hearing. #####
+
+Any formal hearing provided for under § 1902.11 (e) and (f) shall be commenced upon the publication of reasonable notice in the Federal Register and similar notice by the State. The hearing shall conform with the requirements of 5 U.S.C. 556 and 557. The terms for filing proposed findings and conclusions and exceptions to any tentative decision, or objections to a tentative decision, shall be set forth in the notice.

@@ -1,0 +1,3 @@
+##### § 983.305 Rent to owner: effect of rent control and other rent limits. #####
+
+In addition to the limitation to 110 percent of the FMR in § 983.301(b)(1), the rent reasonableness limit under §§ 983.301(b)(2) and 983.303, the rental determination provisions of § 983.301(f), the special limitations for tax credit units under § 983.301(c), and other rent limits under this part, the amount of rent to owner also may be subject to rent control or other limits under local, state, or federal law.

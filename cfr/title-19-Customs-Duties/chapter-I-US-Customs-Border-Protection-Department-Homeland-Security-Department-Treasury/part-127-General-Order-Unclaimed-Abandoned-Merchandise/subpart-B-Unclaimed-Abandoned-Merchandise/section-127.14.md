@@ -1,0 +1,17 @@
+##### § 127.14 Disposition of merchandise in Customs custody beyond time fixed by law. #####
+
+(a) *Merchandise subject to sale or other disposition*—(1) *General.* If storage or other charges due the United States have not been paid on merchandise remaining in Customs custody after the expiration of the bond period in the case of merchandise entered for warehouse, or after the expiration of the general order period, as defined in § 127.4, in any other case, even though any duties due have been paid, such merchandise will be sold as provided in subpart C of this part, retained for official use as provided in subpart E of this part, destroyed, or otherwise disposed of as authorized by the Commissioner of Customs under the law, unless the merchandise is entered or withdrawn for consumption in accordance with paragraph (b) of this section.
+
+(2) *Destruction of merchandise*—(i) *Proprietor responsibility.* If the port director concludes that merchandise in general order has no commercial value or is otherwise unsalable and cannot be disposed of at public auction (*see* § 127.29), and that its destruction is warranted, the warehouse proprietor must assume responsibility under bond, including the expense, for destroying the merchandise (*see* § 113.63(c)(3) of this chapter). The port director will authorize such destruction on Customs Form (CF) 3499, or on a similar Customs document as designated by the port director or an electronic equivalent as authorized by Customs.
+
+(ii) *Notice of destruction.* Before destroying the merchandise, the warehouse proprietor must first make a reasonable effort under bond (*see* § 113.63(b) and (c) of this chapter), to identify and inform the importer (owner) or consignee regarding the intended destruction of the merchandise. When the appropriate party is identified, notice of destruction will be provided to the party on Customs Form (CF) 5251, appropriately modified, or other similar Customs document as designated by the port director or an electronic equivalent as authorized by Customs, at least 30 calendar days prior to the date of intended destruction.
+
+(b) *Entry of merchandise subject to sale.* Merchandise subject to sale (except merchandise abandoned under section 506(1) or 563(b), Tariff Act of 1930, as amended (19 U.S.C. 1506(1), 1563(b))), may be entered or withdrawn for consumption at any time prior to the sale upon payment of the duties, any internal revenue tax, and all charges and expenses that may have accrued thereon. Such merchandise may not be exported without payment of duty nor entered for warehouse.
+
+(c) *Release of merchandise to warehouse proprietor.* The following merchandise for which a permit to release has been issued shall be held to be no longer in the custody of Customs officers and shall be released to the warehouse proprietor:
+
+(1) Merchandise upon which all duties and charges have been paid.
+
+(2) Free and duty-paid merchandise upon which all charges have been paid, not entered for warehouse which remains in bonded warehouse for more than the general order period.
+
+[T.D. 74-114, 39 FR 12092, Apr. 3, 1974, as amended by T.D. 75-161, 40 FR 28790, July 9, 1975; T.D. 79-221, 44 FR 46814, Aug. 9, 1979; T.D. 82-204, 47 FR 49375, Nov. 1, 1982; T.D. 02-65, 67 FR 68034, Nov. 8, 2002]

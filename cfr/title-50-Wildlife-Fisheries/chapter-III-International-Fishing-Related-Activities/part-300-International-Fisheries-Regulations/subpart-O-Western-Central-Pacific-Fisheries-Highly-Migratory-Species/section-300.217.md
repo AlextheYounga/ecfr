@@ -1,0 +1,21 @@
+##### § 300.217 Vessel identification. #####
+
+(a) *General.* (1) A fishing vessel must be marked in accordance with the requirements of this section in order for a WCPFC Area Endorsement to be issued for the fishing vessel.
+
+(2) Any fishing vessel of the United States with a WCPFC Area Endorsement or for which a WCPFC Area Endorsement is required shall be marked for identification purposes in accordance with this section, and all parts of such markings shall be clear, distinct, uncovered, and unobstructed.
+
+(3) Any boat, skiff, or other watercraft carried on board the fishing vessel shall be marked with the same identification markings as required under this section for the fishing vessel and shall be marked in accordance with this section.
+
+(b) *Marking.* (1) Vessels shall be marked in accordance with the identification requirements of § 300.14(b)(2), and if an IRCS has not been assigned to the vessel, then the Federal, State, or other documentation number used in lieu of the IRCS must be preceded by the characters “USA” and a hyphen (that is, “USA-”).
+
+(2) With the exception of the vessel's name and hailing port, the marking required in this section shall be the only vessel identification mark consisting of letters and numbers to be displayed on the hull and superstructure.
+
+(c) *IMO numbers.* (1) For the purpose of this section, an IMO number is the unique number issued for a vessel under the ship identification number scheme established by the International Maritime Organization or, for vessels that are not strictly subject to that scheme, the unique number issued by the administrator of that scheme using the scheme's numbering format, sometimes known as a Lloyd's Register number or LR number.
+
+(2) The owner of a fishing vessel of the United States used for commercial fishing for HMS in the Convention Area, either on the high seas or in waters under the jurisdiction of any nation other than the United States, shall request and obtain an IMO number for the vessel if the gross tonnage of the vessel, as indicated on the vessel's current Certificate of Documentation issued under 46 CFR part 67, is at least 100 GRT or 100 GT ITC. An IMO number may be requested for a vessel by following the instructions given by the administrator of the IMO ship identification number scheme; those instructions are currently available on the Web site of IHS Maritime, at: *www.imonumbers.lrfairplay.com/default.aspx.*
+
+(3) In the event that the owner of a fishing vessel subject to the requirement of paragraph (c)(2) of this section, after following the instructions given by the administrator of the IMO ship identification number scheme, is unable to obtain an IMO number for the fishing vessel, the fishing vessel owner may request an exemption from the requirement from the Pacific Islands Regional Administrator. The request must be sent by mail to the Pacific Islands Regional Administrator or by email to *pir.wcpfc@noaa.gov* and must include the vessel's name, the vessel's official number, a description of the steps taken to request an IMO number, and a description of any responses from the administrator of the IMO ship identification number scheme.
+
+(4) Upon receipt of a request for an exemption under paragraph (c)(3) of this section, the Pacific Islands Regional Administrator will, to the extent he or she determines appropriate, assist the fishing vessel owner in requesting an IMO number. If the Pacific Islands Regional Administrator determines that it is infeasible or impractical for the fishing vessel owner to obtain an IMO number for the fishing vessel, he or she will issue an exemption from the requirements of paragraph (c)(2) of this section for the subject fishing vessel and its owner and notify the fishing vessel owner of the exemption. The Pacific Islands Regional Administrator may limit the duration of the exemption. The Pacific Islands Regional Administrator may rescind an exemption at any time. If an exemption is rescinded, the fishing vessel owner must comply with the requirements of paragraph (c)(2) of this section within 30 days of being notified of the rescission. If the ownership of a fishing vessel changes, an exemption issued to the former fishing vessel owner becomes void.
+
+[75 FR 3350, Jan. 21, 2010, as amended at 76 FR 73520, Nov. 29, 2011; 80 FR 59047, Oct. 1, 2015]

@@ -1,0 +1,3 @@
+##### § 1603.212 Witness fees. #####
+
+Witnesses summoned under this part shall receive the same fees and mileage as witnesses in the courts of the United States. Those fees must be paid or offered to the witness by the party requesting the subpoena at the time the subpoena is served, or, if the witness appears voluntarily, at the time of appearance. A federal agency or corporation is not required to pay or offer witness fees and mileage allowances in advance.

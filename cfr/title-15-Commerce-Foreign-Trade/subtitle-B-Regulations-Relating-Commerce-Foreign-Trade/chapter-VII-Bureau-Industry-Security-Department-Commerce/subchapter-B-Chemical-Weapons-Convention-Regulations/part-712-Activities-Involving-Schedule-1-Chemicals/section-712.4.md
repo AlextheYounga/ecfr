@@ -1,0 +1,9 @@
+##### § 712.4 New Schedule 1 production facility. #####
+
+(a) *Establishment of a new Schedule 1 production facility.* (1) If your facility has never before been declared under § 712.5 of the CWCR, or the initial declaration for your facility has been withdrawn pursuant to § 712.5(g) of the CWCR, and you intend to begin production of Schedule 1 chemicals at your facility in quantities greater than 100 grams aggregate per year for research, medical, or pharmaceutical purposes, you must provide an initial declaration (with a current detailed technical description of your facility) to BIS in no less than 200 calendar days in advance of commencing such production. Such facilities are considered to be “new Schedule 1 production facilities” and are subject to an initial inspection within 200 calendar days of submitting an initial declaration.
+
+(2) New Schedule 1 production facilities that submit an initial declaration pursuant to paragraph (a)(1) of this section are considered approved Schedule 1 production facilities for purposes of the CWC, unless otherwise notified by BIS within 30 days of receipt by BIS of that initial declaration.
+
+(b) *Types of declaration forms required.* If your new Schedule 1 production facility will produce in excess of 100 grams aggregate of Schedule 1 chemicals, you must complete the Certification Form, Form 1-1 and Form A. You must also provide a detailed technical description of the new facility or its relevant parts, and a detailed diagram of the declared areas in the facility.
+
+(c) Two hundred days after a new Schedule 1 production facility submits its initial declaration, it is subject to the declaration requirements in § 712.5(a)(1) and (a)(2) and § 712.5(b)(1)(ii) of the CWCR.

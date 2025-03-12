@@ -1,0 +1,9 @@
+##### § 148.75 Persons ineligible for exemption on termination of assignment. #####
+
+(a) *Persons returning from temporary assignment.* No person, or member of his family, shall be allowed free entry of personal and household effects under subheading 9805.00.50, Harmonized Tariff Schedule of the United States (HTSUS) (19 U.S.C. 1202), where the person returns to the United States pursuant to Government orders or instructions which authorized him initially to proceed to a foreign post or station and return to the United States upon termination of temporary duty, except as it may otherwise be deemed proper in accordance with the provisions of § 148.74(d) or § 148.76.
+
+(b) *Persons returning on leave or before termination of extended duty assignment.* A person returning on leave, other than on reemployment leave at the termination of assignment to extended duty as defined in § 148.74(d), or otherwise returning before the termination of an assignment to extended duty outside the Customs territory of the United States, with or without orders covering the return, is not eligible for an exemption under subheading 9805.00.50, HTSUS (19 U.S.C. 1202).
+
+(c) *Person returning on temporary duty assignment.* A person returning to the United States under orders on temporary duty assignment at the termination of which he is returned to his duty station abroad to resume his regular duties is not regarded as returning to the United States at the termination of extended duty outside the Customs territory of the United States and is not eligible for an exemption under subheading 9805.00.50, HTSUS (19 U.S.C. 1202).
+
+[T.D. 73-27, 38 FR 2449, Jan. 26, 1973, as amended by T.D. 89-1, 53 FR 51266, Dec. 21, 1988]

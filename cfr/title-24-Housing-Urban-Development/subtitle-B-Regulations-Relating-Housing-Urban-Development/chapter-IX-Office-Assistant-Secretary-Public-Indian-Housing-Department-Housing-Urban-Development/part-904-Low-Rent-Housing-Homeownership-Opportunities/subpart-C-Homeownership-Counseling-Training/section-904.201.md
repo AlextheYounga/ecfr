@@ -1,0 +1,3 @@
+##### § 904.201 Purpose. #####
+
+The purpose of the counseling and training program shall be to assure that the homebuyers, individually and collectively through their homebuyers association (HBA), will be more capable of dealing with situations with which they may be confronted, making decisions related to these situations, and understanding and accepting the responsibility and consequences that accompany those decisions.

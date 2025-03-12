@@ -1,0 +1,3 @@
+##### § 154.110 Form of service agreement. #####
+
+The tariff must contain an unexecuted pro forma copy of each form of service agreement. The form for each service must refer to the service to be rendered and the applicable rate schedule of the tariff; and, provide spaces for insertion of the name of the customer, effective date, expiration date, and term. Spaces may be provided for the insertion of receipt and delivery points, contract quantity, and other specifics of each transaction as appropriate.

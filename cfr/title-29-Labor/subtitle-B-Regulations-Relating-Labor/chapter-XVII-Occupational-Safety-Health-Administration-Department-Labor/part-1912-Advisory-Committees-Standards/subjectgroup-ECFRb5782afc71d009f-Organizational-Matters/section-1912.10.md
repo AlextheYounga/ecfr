@@ -1,0 +1,7 @@
+##### § 1912.10 Terms of continuing committee members. #####
+
+(a) Each member of a continuing committee established under section 7(b) of the Act, other than those appointed to a committee when it is formed initially shall serve for a period of 2 years. Appointment of a member to the Committee for a fixed time period shall not affect the authority of the Secretary to remove, in his or her discretion, any member at any time. If a member resigns or is removed before his or her term expires, the Secretary of Labor may appoint for the remainder of the unexpired term a new member who shall represent the same interest as his or her predecessor.
+
+(b) To provide for continuity in the membership of continuing committees the initial appointments of its members may be varied. For example, in the case of a 15-member committee, the Assistant Secretary could appoint two members representing Federal and State agencies, two members representing employers, two members representing employees, and two members representing other interests to one year terms. He could appoint two members representing Federal and State agencies, two members representing employers, two members representing employees, and one member representing other interests for two year terms. Thereafter, at the expiration of such terms, members would be appointed or reappointed for regular terms of two years. The initial appointments to committees with fewer than 15 members could be similarly varied.
+
+[38 FR 28035, Oct. 11, 1973, as amended at 67 FR 659, Jan. 7, 2002]

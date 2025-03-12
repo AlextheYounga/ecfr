@@ -1,0 +1,3 @@
+##### § 35.1 What is the purpose of the Department of Labor (DOL) age discrimination regulations? #####
+
+The purpose of this part is to set out the DOL rules for implementing the Age Discrimination Act of 1975, as amended. The Act prohibits discrimination on the basis of age by recipients of Federal financial assistance and in federally assisted programs or activities, but permits the use of certain age distinctions and factors other than age that meet the requirements of the Act and this part.

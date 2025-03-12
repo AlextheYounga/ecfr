@@ -1,0 +1,19 @@
+##### § 300.95 Treaty Indian fisheries. #####
+
+(a) Any treaty Indian must comply with this section when fishing for sockeye and pink salmon at the treaty Indian tribe's treaty fishing places in the Fraser River Panel Area (U.S.) during the time the Commission or the Secretary exercises jurisdiction over these fisheries. Fishing by a treaty Indian outside the applicable Indian tribe's treaty fishing places will be subject to the Fraser River Panel regulations and inseason orders applicable to all citizens, as well as to the restrictions set forth in this section.
+
+(b) Nothing in this section will relieve a treaty Indian from any applicable law or regulation imposed by a treaty Indian tribe, or from requirements lawfully imposed by the United States or the State of Washington in accordance with the requirements of Final Decision No. 1 and subsequent orders in *United States* v. *Washington,* 384 F. Supp. 312 (W.D. Wash., 1974).
+
+(c) *Identification.* (1) Any treaty Indian fishing under the authority of this subpart must have in his or her possession at all times while fishing or engaged in any activity related to fishing the treaty Indian identification required by 25 CFR 249.3 or by applicable tribal law.
+
+(2) Any person assisting a treaty Indian under the authority of paragraph (d) of this section must have in his or her possession at all such times a valid identification card issued by the Bureau of Indian Affairs or by a treaty Indian tribe, identifying the holder as a person qualified to assist a treaty Indian. The identification card must include the name of the issuing tribe, the name, address, date of birth, and photograph of the assistant, and the name and identification number of the treaty Indian whom the assistant is authorized to assist.
+
+(3) Identification described in paragraph (c) (1) or (2) of this section must be shown on demand to an authorized officer by the treaty Indian or authorized assistant.
+
+(4) Any treaty Indian fishing under this subpart must comply with the treaty Indian vessel and gear identification requirements of Final Decision No. 1 and subsequent orders in *United States* v. *Washington,* 384 F. Supp. 312 (W.D. Wash., 1974).
+
+(d) *Fishing assistance.* (1) Any member of a treaty Indian tribe fishing under this subpart may, if authorized by the treaty Indian's tribe, receive fishing assistance from, and only from, the treaty Indian tribal member's spouse, forebears, children, grandchildren, and siblings, as authorized by the U.S. District Court for the Western District of Washington in *United States* v. *Washington,* 384 F. Supp. 312 (W.D. Wash., 1974). For purposes of this section, the treaty Indian tribal member whom the assistant is authorized to assist must be present aboard the fishing vessel at all times while engaged in the exercise of treaty Indian fishing rights subject to this subpart.
+
+(2) No treaty Indian may, while fishing at a treaty fishing place in accordance with treaty-secured fishing rights, permit any person 16 years of age or older other than the authorized holder of a currently valid identification card issued in accordance with the requirements of paragraphs (c) (1) and (2) of this section to fish for said treaty Indian, assist said treaty Indian in fishing, or use any gear or fishing location identified as said treaty Indian's gear or location.
+
+(3) Treaty Indians are prohibited from participating in a treaty Indian fishery under this section at any time persons who are not treaty Indians are aboard the fishing vessel or in contact with fishing gear operated from the fishing vessel, unless such persons are authorized employees or officers of a treaty Indian tribe or tribal fisheries management organization, the Northwest Indian Fisheries Commission, the Commission, or a fisheries management agency of the United States or the State of Washington.

@@ -1,0 +1,3 @@
+##### § 232.2 License. #####
+
+The Commissioner shall not insure any mortgage under this part unless the facility is regulated by the State, municipality or other political subdivision in which the facility is or is to be located, and the appropriate agency for such jurisdiction provides a license, certificate or other assurances the Commissioner considers necessary, that the facility complies with any applicable State or local standards and requirements for such facility.

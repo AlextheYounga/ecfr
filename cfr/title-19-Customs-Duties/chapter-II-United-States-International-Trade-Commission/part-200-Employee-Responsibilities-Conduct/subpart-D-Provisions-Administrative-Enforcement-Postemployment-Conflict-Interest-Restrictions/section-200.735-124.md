@@ -1,0 +1,3 @@
+##### § 200.735-124 General. #####
+
+The procedures in this subpart are established pursuant to subsection 207(j) of title 18, United States Code, for the administrative enforcement of the restrictions on postemployment activities in Title V of the Ethics in Government Act of 1978 (18 U.S.C. 207 (a), (b), and (c)) and implementing regulations published by the Office of Government Ethics (5 CFR part 737). Subsections 207 (a), (b), and (c) of Title 18, United States Code, prohibit certain forms of representational activity or communications by former Commission employees.

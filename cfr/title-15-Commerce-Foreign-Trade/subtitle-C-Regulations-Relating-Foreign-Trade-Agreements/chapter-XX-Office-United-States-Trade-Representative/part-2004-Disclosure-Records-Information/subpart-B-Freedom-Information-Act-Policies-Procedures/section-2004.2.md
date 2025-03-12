@@ -1,0 +1,3 @@
+##### § 2004.2 Proactive disclosures. #####
+
+You can access records that the FOIA requires us to make available for public inspection and copying in an electronic format through our Web site: *http://www.ustr.gov.* You also can find press releases, links to Federal Register notices and comments, fact sheets, speeches and remarks, reports, information about current initiatives, and historical information about U.S. trade issues. If you need assistance to locate a particular record, you can contact the Office of Public and Media Affairs at *MEDIA@ustr.eop.gov* or the FOIA Office at *FOIA@ustr.eop.gov.*

@@ -1,0 +1,3 @@
+##### § 401.22 Civil rights. #####
+
+Each application for Federal assistance, grant-in-aid award, or project agreement shall be supported by a statement of assurances executed by the Cooperator providing that the project will be carried out in accordance with title VI, Nondiscrimination in federally Assisted Programs of the Civil Rights Act of 1964 and with the Secretary's regulations promulgated thereunder.

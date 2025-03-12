@@ -1,0 +1,7 @@
+##### § 705.12 Effect on other regulations. #####
+
+(a) Nothing in this part shall be deemed to supersede any other order, regulation, or instruction which prohibits discrimination on the grounds of race, color, or national origin in any program or situation to which this part is inapplicable, or prohibit discrimination on any other ground.
+
+(b) *Forms and instructions.* The responsible agency official shall issue and promptly make available to all interested persons forms and detailed instructions and procedures for effectuating this part as applied to programs to which this part applies and for which he is responsible.
+
+(c) *Supervision and coordination.* The responsible agency official may from time to time assign to officials of other departments or agencies of the Government with the consent of such departments or agencies, responsibilities in connection with the effectuation of the purposes of Title VI of the Act and this part (other than responsibility for final decision as provided in § 705.10), including the achievement of effective coordination and maximum uniformity within the Water Resources Council and within the Executive Branch of the Government in the application of Title VI and this part to similar programs and in similar situations. Any action, taken, determination made, or requirements imposed by an official of another department or agency acting pursuant to an assignment of responsibility under this paragraph shall have the same effect as though such action had been taken by the responsible agency official.

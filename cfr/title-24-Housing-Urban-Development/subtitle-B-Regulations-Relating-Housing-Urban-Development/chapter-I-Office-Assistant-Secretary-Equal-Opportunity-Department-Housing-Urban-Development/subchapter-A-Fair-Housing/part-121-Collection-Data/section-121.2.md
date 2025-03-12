@@ -1,0 +1,3 @@
+##### § 121.2 Furnishing of data by program participants. #####
+
+Participants in the programs administered by the Department shall furnish to the Department such data concerning the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, those programs as the Secretary may determine to be necessary or appropriate to enable him or her to carry out his or her responsibilities under the authorities referred to in § 121.1.

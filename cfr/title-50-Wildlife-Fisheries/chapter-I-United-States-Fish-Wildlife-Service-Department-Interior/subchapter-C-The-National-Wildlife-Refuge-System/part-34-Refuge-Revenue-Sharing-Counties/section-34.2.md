@@ -1,0 +1,5 @@
+##### § 34.2 Authority. #####
+
+(a) The Act of October 17, 1978, Pub. L. 95-469, amended the Act of June 15, 1935, as amended by the Act of August 30, 1964 (78 Stat. 701; 16 U.S.C. 715s), by revising the formula and extending the revenue sharing provisions to all fee and reserve areas that are administered solely or primarily by the Secretary through the U.S. Fish and Wildlife Service. Payments under this Act may be used for any governmental purpose.
+
+(b) Pursuant to title VI of the Civil Rights Act of 1964 (78 Stat. 252; 42 U.S.C. 2000d), and the regulations issued pursuant thereto, which are contained in 43 CFR part 17, counties must file an assurance with the Department, comply with the terms of the assurances, and comply with regulations contained in 43 CFR part 17 in order to continue to receive this Federal financial assistance.

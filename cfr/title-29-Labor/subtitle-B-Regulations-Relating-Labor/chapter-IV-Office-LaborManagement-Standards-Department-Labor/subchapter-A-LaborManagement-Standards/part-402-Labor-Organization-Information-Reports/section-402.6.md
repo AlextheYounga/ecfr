@@ -1,0 +1,3 @@
+##### § 402.6 Receipt of reports and documents. #####
+
+Upon receipt of all reports and documents submitted for filing under the provisions of this part, the Office of Labor-Management Standards shall assign to the initial information report filed by each labor organization, an identifying number. This number thereafter shall be entered by the reporting labor organization on all subsequent or terminal reports and all other documents which it thereafter submits for filing under this part, as well as on all communications directed to the Office concerning such reports and documents.

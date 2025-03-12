@@ -1,0 +1,3 @@
+##### § 35.145 Compliance with Federal laws and authorities. #####
+
+All lead-based paint activities, including waste disposal, performed under this part shall be performed in accordance with applicable Federal laws and authorities. For example, such activities are subject to the applicable environmental review requirements of the National Environmental Policy Act of 1969 (42 U.S.C. 4321 *et seq.*), the Toxic Substances Control Act, Title IV (15 U.S.C. 2860 *et seq.*), and other environmental laws and authorities (see, e.g., laws and authorities listed in § 50.4 of this title).

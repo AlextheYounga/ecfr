@@ -1,0 +1,7 @@
+##### § 4.81a Certain barges carrying merchandise transferred from another barge. #####
+
+(a) A LASH-type barge (as defined in § 4.81(g)) documented as a vessel of the United States but not qualified to engage in the coastwise trade or a LASH-type barge of a nation found to grant reciprocal privileges to United States-flag LASH-type barges may transport inward foreign and export cargo between points embraced within the coastwise laws of the United States after the merchandise has been transferred to it from another LASH-type barge owned or leased by the same owner or operator. This section is not applicable to transportation between the continental United States and noncontiguous States, districts, territories, and possessions embraced within the coastwise laws. The permit to proceed shall include a statement that the unqualified LASH-type barge is owned or leased by the owner or operator of the LASH-type barge from which the merchandise was transferred.
+
+(b) The following nations have been found to extend privileges reciprocal to those provided in paragraph (a) of this section to LASH-type barges of the United States:
+
+Federal Republic of Germany.Netherlands.Sweden.Union of Soviet Socialist Republics.[T.D. 74-63, 39 FR 6108, Feb. 19, 1974, as amended by T.D. 74-292, 39 FR 41360, Nov. 27, 1974; T.D. 75-7, 39 FR 44660, Dec. 26, 1974; T.D. 75-315, 40 FR 58852, Dec. 19, 1975; T.D. 78-492, 43 FR 58814, Dec. 18, 1978]

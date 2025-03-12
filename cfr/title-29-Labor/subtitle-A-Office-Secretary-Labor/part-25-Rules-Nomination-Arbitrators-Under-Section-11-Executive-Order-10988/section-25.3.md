@@ -1,0 +1,23 @@
+##### § 25.3 Requests for nomination of arbitrators: Filing, disputes, parties, time. #####
+
+(a) Requests for nominations should be filed only where there exists a dispute or problem which cannot more appropriately be resolved through regular agency procedures. Parties, therefore, are expected to eliminate from their requests matters not necessary to the resolution of such dispute or problem and to use their best efforts to secure agreement on as many issues as possible before making the request.
+
+(b) Requests for nominations may be filed either by an agency, or by an employee organization as described in § 25.1, or jointly by an agency and one or more employee organizations. Joint requests are encouraged.
+
+(c) Subject to the provisions of paragraph (a) of this section, the Secretary will entertain on its merits a request by an employee organization for nomination of an arbitrator on a question of unit determination which is made within 30 days after receipt of an agency's final unit determination or 75 days after an appropriate request for exclusive recognition and no final unit determination has been received from the agency, provided the organization has observed any reasonable time limits established by the agency for the processing of such requests within the agency. The Secretary will entertain on its merits a request by an employee organization for nomination of an arbitrator on a question of majority representation which is made within 15 days after an agency's decision with respect to a determination of majority representation. Any request by an employee organization for the nomination of an arbitrator will be considered untimely if:
+
+(1) A written request for exclusive recognition was not made prior to the grant of such recognition to another organization provided such grant was preceded by posted notice to all employees in the unit and written notice to all organizations known to represent such employees that a request for exclusive recognition was under consideration.
+
+(2) A written request for exclusive recognition was not made within 5 days after the agency posted appropriate notice of its intention to conduct an election to determine majority status, or more than 10 days before the date of the election.
+
+(3) It was made less than 12 months after an agency's final unit determination with respect to such unit or subdivision thereof in a proceeding in which the organization sought exclusive recognition but failed to file a timely request for arbitration under these rules.
+
+(4) It was made less than 12 months after a unit determination following a section 11 proceeding covering such unit or any subdivision thereof.
+
+(5) The time limits set forth in this paragraph will be applied to all requests filed on or after October 15, 1963.
+
+(d) No request contemplating an advisory determination as to whether an employee organization should become or continue to be recognized as the exclusive representative of employees in any unit will be entertained if the request is filed within 12 months after a prior determination of exclusive status has been made pursuant to the Order with respect to such unit unless the agency has withdrawn exclusive recognition from an employee organization by reason of its failure to maintain its compliance with sections 2 and 3(a) of the Order or with the Standards of Conduct for Employee Organizations and Code of Fair Labor Practices and the agency advises the Secretary that it has no objection to a new determination of exclusive representation being made within the 12-month period.
+
+(e) No request contemplating an advisory determination as to whether an employee organization should become or continue to be recognized as the exclusive representative of employees in any unit will be entertained during the period within which a signed agreement between an agency and an employee organization is in force or awaiting approval at a higher management level, but not to exceed an agreement period of two years, unless (1) a request for redetermination is filed with the agency between the 90th and 60th day prior to the terminal date of such agreement or two years, whichever is earlier, or (2) unusual circumstances exist which will substantially affect the unit or the majority representation. When an agreement has been extended more than 60 days before its terminal date, such extension shall not serve as a basis for the denial of a request under this section submitted in accordance with the time limitations provided above.
+
+[28 FR 9941, Sept. 13, 1963, as amended at 29 FR 11972, Aug. 21, 1964]

@@ -1,0 +1,7 @@
+##### § 140.912 Transportation. #####
+
+(a) *Employees.* The company's cost of necessary employee transportation and subsistence directly attributable to the project, which is consistent with overall policy of the company, is reimbursable.
+
+(b) *Materials, supplies, and equipment.* The most economical movement of materials, supplies and equipment to the project and necessary return to storage, including the associated costs of loading and unloading equipment, is reimbursable. Transportation by a railroad company over its own lines in a revenue train is reimbursable at average or actual costs, at rates which are representative of actual costs, or at rates which the company charges its customers for similar shipments provided the rate structure is documented and available to the public. These rates are to be agreed to by the company, SHA, and FHWA. No charge will be made for transportation by work train other than the operating expenses of the work train. When it is more practicable or more economical to move equipment on its own wheels, reimbursement may be made at average or actual costs or at rates which are representative of actual costs and are agreed to by the railroad, SHA, and FHWA.
+
+[40 FR 16057, Apr. 9, 1975, as amended at 47 FR 33955, Aug. 5, 1982]

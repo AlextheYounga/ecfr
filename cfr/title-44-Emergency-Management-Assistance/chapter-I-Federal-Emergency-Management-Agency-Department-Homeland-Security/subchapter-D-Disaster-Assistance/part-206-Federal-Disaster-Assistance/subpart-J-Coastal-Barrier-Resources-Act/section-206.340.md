@@ -1,0 +1,3 @@
+##### § 206.340 Purpose of subpart. #####
+
+This subpart implements the Coastal Barrier Resources Act (CBRA) (Pub. L. 97-348) as that statute applies to disaster relief granted to individuals and State and local governments under the Stafford Act. CBRA prohibits new expenditures and new financial assistance within the Coastal Barrier Resources System (CBRS) for all but a few types of activities identified in CBRA. This subpart specifies what actions may and may not be carried out within the CBRS. It establishes procedures for compliance with CBRA in the administration of disaster assistance by FEMA.

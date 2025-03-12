@@ -1,0 +1,3 @@
+##### § 5.12 Comments on proposed study plan. #####
+
+Comments on the potential applicant's proposed study plan, including any revised information or study requests, must be filed within 90 days after the proposed study plan is filed. This filing must also include an explanation of any study plan concerns and any accommodations reached with the potential applicant regarding those concerns. Any proposed modifications to the potential applicant's proposed study plan must address the criteria in § 5.9(b).

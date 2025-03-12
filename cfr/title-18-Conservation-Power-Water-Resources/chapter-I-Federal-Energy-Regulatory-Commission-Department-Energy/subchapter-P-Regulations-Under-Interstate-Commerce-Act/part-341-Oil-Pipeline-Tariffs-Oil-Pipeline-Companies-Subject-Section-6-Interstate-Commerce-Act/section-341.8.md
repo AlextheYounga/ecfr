@@ -1,0 +1,3 @@
+##### § 341.8 Terminal and other services. #####
+
+Carriers must publish in their tariffs rules governing such matters as prorationing of capacity, demurrage, odorization, carrier liability, quality bank, reconsignment, in-transit transfers, storage, loading and unloading, gathering, terminalling, batching, blending, commingling, and connection policy, and all other charges, services, allowances, absorptions and rules which in any way increase or decrease the amount to be paid on any shipment or which increase or decrease the value of service to the shipper.

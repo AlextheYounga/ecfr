@@ -1,0 +1,3 @@
+##### § 573.11 Record access and recordkeeping. #####
+
+Records pertaining to the loans made by the Financial Institution shall be held for the life of the loan. A lender with a Section 4 Guaranteed Loan shall allow HUD, the Comptroller General of the United States, and their authorized representatives access from time to time to any documents, papers or files which are pertinent to the guaranteed loan, and to inspect and make copies of such records which relate to any Section 4 Loan. Any inspection will be made during the lender's regular business hours or any other mutually convenient time.

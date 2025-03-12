@@ -1,0 +1,3 @@
+##### § 401.114 Data and information previously disclosed to the public. #####
+
+Any Commission record that is otherwise exempt from public disclosure pursuant to this part is available for public disclosure to the extent that it contains data or information that have previously been disclosed in a lawful manner to any member of the public, other than an employee or consultant or pursuant to other commercial arrangements with appropriate safeguards for secrecy.

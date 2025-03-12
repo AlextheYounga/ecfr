@@ -1,0 +1,3 @@
+##### § 26.47 Evidence. #####
+
+The ALJ shall admit any relevant oral or documentary evidence that is not privileged. Unless otherwise provided for in this part, the Federal Rules of Evidence shall provide guidance to the ALJ's evidentiary ruling, but shall not be binding. Parties may object to clearly irrelevant material, but technical and hearsay objections to testimony as used in a court of law will not be sustained. The ALJ may, however, exclude evidence if its probative value is substantially outweighed by confusion of the issues, or by considerations of undue delay, waste of time, or needless presentation of cumulative evidence.

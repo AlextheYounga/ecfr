@@ -1,0 +1,5 @@
+##### § 45.6 Termination of authorization. #####
+
+(a) *By the Commission.* Orders of authorization under section 305(b) of the Act are subject to revocation by the Commission after due notice to applicant and opportunity for hearing. In any such proceeding the burden of proof shall be upon the applicant to show that neither public nor private interests will be adversely affected by the holding of such positions.
+
+(b) *Without action of the Commission.* Whenever a person shall cease to hold a position theretofore authorized to be held by the Commission or such position shall cease to be within the purview of section 305(b) of the Federal Power Act, the Commission's authorization to hold such position shall terminate without further action by the Commission. If upon such termination of authorization as aforesaid, such person does not continue to hold at least two positions authorized and then requiring authorization pursuant to said section 305(b) of the Act, all authorization theretofore given by the Commission shall thereupon terminate.

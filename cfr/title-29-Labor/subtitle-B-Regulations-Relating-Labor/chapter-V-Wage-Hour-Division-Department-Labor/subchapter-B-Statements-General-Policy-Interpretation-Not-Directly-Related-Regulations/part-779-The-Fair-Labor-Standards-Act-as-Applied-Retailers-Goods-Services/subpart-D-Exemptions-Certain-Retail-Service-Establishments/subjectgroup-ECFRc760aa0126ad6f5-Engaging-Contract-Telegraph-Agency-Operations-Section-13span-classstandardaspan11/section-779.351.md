@@ -1,0 +1,3 @@
+##### § 779.351 Exemption provided. #####
+
+Section 13(a)(11) (See § 779.301) exempts from sections 6 and 7 of the Act any employee or proprietor who is engaged in handling telegraphic messages for the public in a retail or service establishment which qualifies as an exempt retail or service establishment under section 13(a)(2), if the conditions specified in section 13(a)(11) are met and the provisions of section 6 and 7 of the Act would not otherwise apply.

@@ -1,0 +1,3 @@
+##### § 4905.5 Requests for authenticated copies of PBGC records. #####
+
+The PBGC will grant requests for authenticated copies of PBGC records, for purposes of admissibility under 28 U.S.C. 1733 and Rule 44 of the Federal Rules of Civil Procedure, for records that are to be disclosed pursuant to this part or part 4901 of this chapter. Appropriate fees will be charged for providing authenticated copies of PBGC records, in accordance with part 4901, subpart D, of this chapter.

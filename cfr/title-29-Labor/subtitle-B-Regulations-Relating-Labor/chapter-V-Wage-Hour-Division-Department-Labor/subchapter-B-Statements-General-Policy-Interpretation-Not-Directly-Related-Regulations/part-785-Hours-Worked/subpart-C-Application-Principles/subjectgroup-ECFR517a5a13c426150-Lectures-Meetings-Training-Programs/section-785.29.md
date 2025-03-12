@@ -1,0 +1,5 @@
+##### § 785.29 Training directly related to employee's job. #####
+
+The training is directly related to the employee's job if it is designed to make the employee handle his job more effectively as distinguished from training him for another job, or to a new or additional skill. For example, a stenographer who is given a course in stenography is engaged in an activity to make her a better stenographer. Time spent in such a course given by the employer or under his auspices is hours worked. However, if the stenographer takes a course in bookkeeping, it may not be directly related to her job. Thus, the time she spends voluntarily in taking such a bookkeeping course, outside of regular working hours, need not be counted as working time. Where a training course is instituted for the bona fide purpose of preparing for advancement through upgrading the employee to a higher skill, and is not intended to make the employee more efficient in his present job, the training is not considered directly related to the employee's job even though the course incidentally improves his skill in doing his regular work.
+
+[30 FR 9912, Aug. 10, 1965]

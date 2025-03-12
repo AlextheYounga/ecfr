@@ -1,0 +1,3 @@
+##### § 907.1 Purpose and scope. #####
+
+This part provides the criteria and procedures for determining and declaring substantial default by a public housing agency (PHA) and the actions available to HUD to address and remedy substantial default by a PHA. Nothing in this part shall limit the discretion of HUD to take any action available under the provisions of section 6(j)(3)(A) of the 1937 Act (42 U.S.C. 1437d(j)(3)(A)), any applicable annual contributions contract (ACC), or any other law or regulation that may authorize HUD to take actions against a PHA that is in substantial default.

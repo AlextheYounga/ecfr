@@ -1,0 +1,3 @@
+##### § 778.112 Day rates and job rates. #####
+
+If the employee is paid a flat sum for a day's work or for doing a particular job, without regard to the number of hours worked in the day or at the job, and if he receives no other form of compensation for services, his regular rate is determined by totaling all the sums received at such day rates or job rates in the workweek and dividing by the total hours actually worked. He is then entitled to extra half-time pay at this rate for all hours worked in excess of 40 in the workweek.

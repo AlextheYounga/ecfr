@@ -1,0 +1,3 @@
+##### § 232.890 Characteristics of debentures. #####
+
+Debentures issued in settlement of insurance claims under this subpart shall have the same characteristics and the same requirements for registration and redemption as those issued pursuant to subpart B of this part except that debentures shall bear interest at the rate in effect as of the date the commitment was issued, or as of the date the loan was first endorsed for insurance, whichever rate is higher and shall mature 10 years from the date of issue which date shall be the date of execution of the assignment of the loan to the Commissioner.

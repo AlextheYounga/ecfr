@@ -1,0 +1,7 @@
+##### § 103.32 Information concerning fines, penalties, and forfeitures cases. #####
+
+Link to an amendment published at 81 FR 93017, Dec. 20, 2016.
+
+Except as otherwise provided in these regulations or in other directives (including those published as Treasury Decisions or CBP Decisions), port directors and other CBP officers must refrain from disclosing facts concerning seizures, investigations, and other pending cases until CBP action is completed. After the penalty proceeding is closed by payment of the claim amount, payment of a mitigated amount, or judicial action, the identity of the violator, the section of the law violated, the amount of penalty assessed, loss of revenue, mitigated amount (if applicable), and the amount of money paid may be disclosed to the public by the appropriate port director. Public disclosure of any other item of information concerning such cases, whether open or closed, must only be made in conformance with the procedures provided in 6 CFR 5.3.
+
+[T.D. 81-168, 46 FR 32565, June 24, 1981. Redesignated by T.D. 96-36, 61 FR 19838, May 3, 1996, as amended by CBP Dec. 15-16, 80 FR 71693, Nov. 17, 2015]

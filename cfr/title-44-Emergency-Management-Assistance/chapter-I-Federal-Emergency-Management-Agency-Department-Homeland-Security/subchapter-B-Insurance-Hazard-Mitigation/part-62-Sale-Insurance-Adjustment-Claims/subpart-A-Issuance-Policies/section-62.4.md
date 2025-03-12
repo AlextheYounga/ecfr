@@ -1,0 +1,7 @@
+##### § 62.4 Limitations on sale of policies. #####
+
+(a) The servicing agent shall be deemed to have agreed, as a condition of its contract that it shall not offer flood insurance under any authority or auspices in any amount within the maximum limits of coverage specified in § 61.6 of this subchapter, in any area the Federal Insurance Administrator designates in part 64 of this subchapter as eligible for the sale of flood insurance under the Program, other than in accordance with this part, and the Standard Flood Insurance Policy.
+
+(b) The agreement and all activities thereunder are subject to title VI of the Civil Rights Act of 1964, 42 U.S.C. 2000d, and to the applicable Federal regulations and requirements issued from time to time pursuant thereto. No person shall be excluded from participation in, denied the benefits of, or subjected to discrimination under the Program, on the ground of race, color, sex, creed or national origin. Any complaint or information concerning the existence of any such unlawful discrimination in any matter within the purview of this part should be referred to the Federal Insurance Administrator.
+
+[43 FR 2573, Jan. 17, 1978. Redesignated at 44 FR 31177, May 31, 1979, as amended at 48 FR 44544, Sept. 29, 1983; 49 FR 4751, Feb. 8, 1984]

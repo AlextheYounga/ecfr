@@ -1,0 +1,11 @@
+##### § 553.223 Meal time. #####
+
+(a) If a public agency elects to pay overtime compensation to employees in fire protection activities and law enforcement personnel in accordance with section 7(a)(1) of the Act, the public agency may exclude meal time from hours worked if all the tests in § 785.19 of this title are met.
+
+(b) If a public agency elects to use the section 7(k) exemption, the public agency may, in the case of law enforcement personnel, exclude meal time from hours worked on tours of duty of 24 hours or less, provided that the employee is completely relieved from duty during the meal period, and all the other tests in § 785.19 of this title are met. On the other hand, where law enforcement personnel are required to remain on call in barracks or similar quarters, or are engaged in extended surveillance activities (e.g., “stakeouts”), they are not considered to be completely relieved from duty, and any such meal periods would be compensable.
+
+(c) With respect to employees in fire protection activities employed under section 7(k), who are confined to a duty station, the legislative history of the Act indicates Congressional intent to mandate a departure from the usual FLSA “hours of work” rules and adoption of an overtime standard keyed to the unique concept of “tour of duty” under which employees in fire protection activities are employed. Where the public agency elects to use the section 7(k) exemption for employees in fire protection activities, meal time cannot be excluded from the compensable hours of work where (1) the employee in fire protection activities is on a tour of duty of less than 24 hours, and (2) where the employee in fire protection activities is on a tour of duty of exactly 24 hours, which is a departure from the general rules in § 785.22 of this title.
+
+(d) In the case of police officers or employees in fire protection activities who are on a tour of duty of more than 24 hours, meal time may be excluded from compensable hours of work provided that the tests in §§ 785.19 and 785.22 of this title are met.
+
+[52 FR 2032, Jan. 16, 1987, as amended at 76 FR 18857, Apr. 5, 2011]

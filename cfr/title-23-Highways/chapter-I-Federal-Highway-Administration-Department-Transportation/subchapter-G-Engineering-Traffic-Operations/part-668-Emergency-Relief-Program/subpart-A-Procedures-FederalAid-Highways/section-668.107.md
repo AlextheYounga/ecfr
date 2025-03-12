@@ -1,0 +1,7 @@
+##### § 668.107 Federal share payable. #####
+
+(a) The Federal share payable on account of any repair or reconstruction provided for by funds made available under 23 U.S.C. 125 of this title on account of any project on a Federal-aid highway system, including the Interstate System, shall not exceed the Federal share payable on a project on such system as provided in 23 U.S.C. 120; except that the Federal share payable for eligible emergency repairs to minimize damage, protect facilities, or restore essential traffic accomplished within 180 days after the actual occurrence of the natural disaster or catastrophic failure may amount to 100 percent of the costs thereof.
+
+(b) Total obligations of ER funds in any State, excluding the Virgin Islands, Guam, American Samoa or Commonwealth of the Northern Mariana Islands, for all projects (including projects on both the Federal-aid systems and those on Federal roads under 23 CFR part 668, subpart B), resulting from a single natural disaster or a single catastrophic failure, shall not exceed $100 million per disaster or catastrophic failure. The total obligations for ER projects in any fiscal year in the Virgin Islands, Guam, American Samoa and the Commonwealth of the Northern Mariana Islands shall not exceed $20 million.
+
+[52 FR 21948, June 10, 1987, as amended at 52 FR 32540, Aug. 28, 1987; 61 FR 67212, Dec. 20, 1996; 65 FR 25444, May 2, 2000]

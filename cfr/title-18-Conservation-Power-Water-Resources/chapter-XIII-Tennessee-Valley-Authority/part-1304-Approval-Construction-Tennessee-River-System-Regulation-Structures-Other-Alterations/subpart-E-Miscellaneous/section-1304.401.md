@@ -1,0 +1,3 @@
+##### § 1304.401 Marine sanitation devices. #####
+
+No person operating a commercial boat dock permitted under this part shall allow the mooring at such permitted facility of any watercraft or floating structure equipped with a marine sanitation device (MSD) unless such MSD is in compliance with all applicable statutes and regulations, including the FWPCA and regulations issued thereunder, and, where applicable, statutes and regulations governing “no discharge” zones.

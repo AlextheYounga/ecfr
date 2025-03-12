@@ -1,0 +1,5 @@
+##### § 2530.202-1 Eligibility to participate; general. #####
+
+(a) Section 202 of the Act and section 410 of the Code contain minimum participation standards relating to certain employee pension benefit plans. In general, an employee pension benefit plan may not require, as a condition of participation in the plan, that an employee complete a period of service with the employer or employers maintaining the plan in excess of limits established by section 202 of the Act and section 410 of the Code and the regulations issued thereunder. Service for this purpose is measured in units of years of service. Section 2530.202-2 sets forth rules relating to the computation periods which a plan must use to determine whether an employee has completed a year of service for purposes of eligibility to participate (“eligibility computation periods”).
+
+(b) For rules relating to “service with the employer or employers maintaining the plan”, see § 2530.210.

@@ -1,0 +1,5 @@
+##### § 10.152 Bona-fide gifts. #####
+
+Subject to the conditions in § 10.153 of this part, the port director shall pass free of duty and tax any article sent as a bona-fide gift from a person in a foreign country to a person in the United States, provided that the aggregate fair retail value in the country of shipment of such articles received by one person on one day does not exceed $100 or, in the case of articles sent from a person in the Virgin Islands, Guam, and American Samoa, $200. Articles subject to this exemption shall be entered under the informal entry procedures (see subpart C, part 143, and §§ 145.32, 148.12, 148.51, and 148.64, of this chapter). An article is “sent” for purposes of this section if it is conveyed in any manner other than on the person or in the accompanied or unaccompanied baggage of the donor or donee.
+
+[T.D. 94-51, 59 FR 30293, June 13, 1994]

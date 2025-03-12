@@ -1,0 +1,13 @@
+##### § 34.3 Definitions. #####
+
+(a) The term *fee area* means any area which was acquired in fee by the United States and is administered, either solely or primarily, by the Secretary through the Service.
+
+(b) The term *reserve area* means any area of land withdrawn from the public domain and administered, either solely or primarily, by the Secretary through the Service. For the purpose of these regulations, reserve areas also include lands in Hawaii, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands, which were initially administered by the United States through Act of Congress, Executive Order, Public Land Order or Proclamation of the President and administered, either solely or primarily, by the Secretary through the Service.
+
+(c) The term *county* means any county, parish, organized or unorganized borough, township or municipality, or other unit of local government that is the primary collector for general purpose real property taxes where fee areas and/or reserve areas are located. For the purpose of sharing revenues, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands shall each be treated as a county.
+
+(d) The term *fund* means the revenues received by the Service from (1) the sale or disposition of animals, salmonoid carcasses and eggs, products of the soil (including, but not limited to, timber, hay, and grass), minerals, shells, sand, and gravel; (2) leases for public accommodations or facilities incidental to, but not in conflict with, the basic purpose of such areas; and (3) other privileges, including industrial leases at Crab Orchard National Wildlife Refuge, Illinois, as authorized by Section 8 of Pub. L. 95-616, approved October 27, 1978. The Service may pay from such fund any necessary expenses incurred in connection with the revenue producing and revenue sharing activity. The fund shall also include any appropriations authorized by the Act to make up any difference between the total amount of receipts after payments of expenses and the total amount of payments due the counties.
+
+(e) The term *net receipts* means the amount of revenue collected by the Service from an area (including fee land and/or reserve land) after the deduction of necessary expenses incurred in producing the particular revenues.
+
+(f) The term *fair market value* means the amount in terms of money for which in all probability a property would be sold if exposed for sale in the open market by a seller who is willing but not obligated to sell, allowing a reasonable time to find a buyer who is willing but not obligated to buy, both parties having full knowledge of all the uses to which the property is adapted, and for which it is capable of being used.

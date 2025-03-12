@@ -1,0 +1,11 @@
+##### § 122.188 Issuance of temporary Customs access seal. #####
+
+(a) *Conditions for issuance.* When an approved Customs access seal is required under § 122.182(a) of this part and the port director determines that the application cannot be administratively processed in a reasonable period of time, an employer may, upon written request, be issued a temporary Customs access seal for his employee. The employer must satisfy the port director that a hardship would result if the request is not granted. Surety on the bond, as required by § 122.182(c), may be waived in the discretion of the port director but only for the period of the temporary Customs access seal and its renewal period.
+
+(b) *Validation period.* The temporary Customs access seal shall be valid for a period of 60 days. The port director may renew the temporary Customs access seal for additional 30 day periods where the circumstances under which the temporary Customs access seal was originally issued continue to exist. The temporary Customs access seal shall be destroyed by the port director when the permanent approved Customs access seal is issued, or the privileges granted thereby are withdrawn.
+
+(c) *Temporary employees and official visitors.* The provisions of this section shall also apply to temporary employees and official visitors requiring access to the Customs security area. In the case of temporary employees, the Customs access seal shall be valid for a period of 30 days. In the case of official visitors, the temporary Customs access seal shall be valid for the day of issuance only. Temporary employee and official visitor Customs access seal are renewable for periods equal to their original period of validity.
+
+(d) *Revocation of denial and access.* The temporary Customs access seal may be revoked and access to the Customs security area denied at any time if the holder of the temporary Customs access seal refuses or neglects to obey any proper order of a Customs officer, or any Customs order, rule, or regulation, or if, in the judgment of the port director, continuation of the privileges granted thereby would endanger the revenue or pose a threat to the Customs security area.
+
+[T.D. 90-82, 55 FR 42557, Oct. 22, 1990, as amended by T.D. 02-40, 67 FR 48988, July 29, 2002]

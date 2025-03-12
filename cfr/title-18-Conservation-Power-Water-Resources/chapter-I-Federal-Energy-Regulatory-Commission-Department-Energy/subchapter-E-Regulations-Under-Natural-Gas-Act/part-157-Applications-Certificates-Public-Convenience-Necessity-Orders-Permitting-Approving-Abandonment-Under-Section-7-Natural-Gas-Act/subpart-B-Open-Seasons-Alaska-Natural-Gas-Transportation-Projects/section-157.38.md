@@ -1,0 +1,5 @@
+##### § 157.38 Pre-approval procedures. #####
+
+No later than 90 days prior to providing the notice of open season required by § 157.34(a), a prospective applicant must file, for Commission approval, a detailed plan for conducting an open season in conformance with this subpart. The prospective applicant's plan shall include the proposed notice of open season. Upon receipt of a request for such a determination, the Secretary of the Commission shall issue a notice of the request, which will then be published in the Federal Register. The notice shall establish a date on which comments from interested persons are due and a date, which shall be within 60 days of receipt of the prospective applicant's request unless otherwise directed by the Commission, by which the Commission will act on the proposed plan.
+
+[Order 2005-A, 70 FR 35026, June 16, 2005]

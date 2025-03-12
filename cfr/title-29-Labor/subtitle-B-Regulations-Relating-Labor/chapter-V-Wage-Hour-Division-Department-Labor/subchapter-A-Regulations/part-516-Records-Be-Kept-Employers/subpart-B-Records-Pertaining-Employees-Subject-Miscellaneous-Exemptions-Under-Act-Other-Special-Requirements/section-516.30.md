@@ -1,0 +1,5 @@
+##### § 516.30 Learners, apprentices, messengers, students, or handicapped workers employed under special certificates as provided in section 14 of the Act. #####
+
+(a) With respect to persons employed as learners, apprentices, messengers or full-time students employed outside of their school hours in any retail or service establishment in agriculture, or in institutions of higher education, or handicapped workers employed at special minimum hourly rates under Special Certificates pursuant to section 14 of the Act, employers shall maintain and preserve records containing the same information and data required with respect to other employees employed in the same occupations.
+
+(b) In addition, each employer shall segregate on the payroll or pay records the names and required information and data with respect to those learners, apprentices, messengers, handicapped workers and students, employed under Special Certificates. A symbol or letter may be placed before each such name on the payroll or pay records indicating that that person is a “learner,” “apprentice,” “messenger,” “student,” or “handicapped worker,” employed under a Special Certificate.

@@ -1,0 +1,3 @@
+##### § 2570.86 Reduction of penalty by other penalty assessments. #####
+
+The penalty assessed on a person pursuant to this section with respect to any transaction shall be reduced by the amount of any penalty or tax imposed on such person with respect to such transaction under ERISA section 502(i) and section 4975 of the Code. Prior to a reduction of penalty under this paragraph, the person being assessed must provide proof to the Department of the payment of the penalty or tax and the amount of that payment. Submissions of proof of other penalty or tax assessments will not toll the 60 day payment period, if previously initiated.

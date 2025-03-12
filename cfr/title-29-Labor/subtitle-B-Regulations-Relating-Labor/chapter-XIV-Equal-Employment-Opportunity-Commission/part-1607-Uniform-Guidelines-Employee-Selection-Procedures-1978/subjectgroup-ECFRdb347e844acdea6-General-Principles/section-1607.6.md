@@ -1,0 +1,9 @@
+##### § 1607.6 Use of selection procedures which have not been validated. #####
+
+A. *Use of alternate selection procedures to eliminate adverse impact.* A user may choose to utilize alternative selection procedures in order to eliminate adverse impact or as part of an affirmative action program. See section 13 below. Such alternative procedures should eliminate the adverse impact in the total selection process, should be lawful and should be as job related as possible.
+
+B. *Where validity studies cannot or need not be performed.* There are circumstances in which a user cannot or need not utilize the validation techniques contemplated by these guidelines. In such circumstances, the user should utilize selection procedures which are as job related as possible and which will minimize or eliminate adverse impact, as set forth below.
+
+(1) *Where informal or unscored procedures are used.* When an informal or unscored selection procedure which has an adverse impact is utilized, the user should eliminate the adverse impact, or modify the procedure to one which is a formal, scored or quantified measure or combination of measures and then validate the procedure in accord with these guidelines, or otherwise justify continued use of the procedure in accord with Federal law.
+
+(2) *Where formal and scored procedures are used.* When a formal and scored selection procedure is used which has an adverse impact, the validation techniques contemplated by these guidelines usually should be followed if technically feasible. Where the user cannot or need not follow the validation techniques anticipated by these guidelines, the user should either modify the procedure to eliminate adverse impact or otherwise justify continued use of the procedure in accord with Federal law.

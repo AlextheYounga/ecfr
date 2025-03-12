@@ -1,0 +1,5 @@
+##### § 255.7 Official notification. #####
+
+Each applicant selected by the Director of the National Institute of Standards & Technology and approved by the Secretary of Commerce and the Secretary of State, or the duly authorized representative of the Secretary of State, shall be notified of his award through diplomatic channels. The notification shall state the duration and type of fellowship, outline the program of training and research, and state the allowances authorized: *Provided, however,* That the Director of the National Institute of Standards & Technology may subsequently amend the program and duration of the fellowship if in his opinion such action would be in the interest of obtaining training and research better suited to the needs and capabilities of the fellow than those prescribed in the notification. The amount originally authorized for monthly allowances and other expenses may also be amended, if necessary, with the approval of the Secretary of Commerce and the Secretary of State, or the duly authorized representative of the Secretary of State.
+
+[13 FR 8374, Dec. 28, 1948, as amended at 55 FR 38316, Sept. 18, 1990]

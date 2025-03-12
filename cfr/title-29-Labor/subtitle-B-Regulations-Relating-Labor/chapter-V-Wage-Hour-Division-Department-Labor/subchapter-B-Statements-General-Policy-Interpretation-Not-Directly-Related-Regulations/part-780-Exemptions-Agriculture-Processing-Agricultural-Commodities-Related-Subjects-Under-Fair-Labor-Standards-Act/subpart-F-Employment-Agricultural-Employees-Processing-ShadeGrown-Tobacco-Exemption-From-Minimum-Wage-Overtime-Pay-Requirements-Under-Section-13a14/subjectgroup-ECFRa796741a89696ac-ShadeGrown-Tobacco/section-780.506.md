@@ -1,0 +1,3 @@
+##### § 780.506 Dependence of exemption on shade-grown tobacco operations. #####
+
+The exemption provided by section 13(a)(14) of the Act is limited to the performance of certain operations with respect to the specified commodity, shade-grown tobacco. Work in connection with any other kind of tobacco, or any other commodity, including any other farm product, is not exempt under this section. An employee must be an agricultural employee variously employed in the growing and harvesting of “shade-grown tobacco” and in the described processing of “such tobacco” in order that the section 13(a)(14) exemption may apply.

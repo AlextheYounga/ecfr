@@ -1,0 +1,3 @@
+##### § 794.124 Computations on a fiscal year basis. #####
+
+Some enterprises operate on a fiscal year, consisting of an annual period different from the calendar year, for income tax or sales or other accounting purposes. Such enterprises in applying the method of computation in § 794.123(c) may use the four quarters of the fiscal period instead of the four quarters of the calendar year. Once adopted, the same basis must be used in subsequent calculations.

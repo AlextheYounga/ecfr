@@ -1,0 +1,5 @@
+##### § 102.20 Answer to complaint; time for filing; contents; allegations not denied deemed admitted. #####
+
+The respondent shall, within 14 days from the service of the complaint, file an answer thereto. The respondent shall specifically admit, deny, or explain each of the facts alleged in the complaint, unless the respondent is without knowledge, in which case the respondent shall so state, such statement operating as a denial. All allegations in the complaint, if no answer is filed, or any allegation in the complaint not specifically denied or explained in an answer filed, unless the respondent shall state in the answer that he is without knowledge, shall be deemed to be admitted to be true and shall be so found by the Board, unless good cause to the contrary is shown.
+
+[51 FR 23746, July 1, 1986]

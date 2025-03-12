@@ -1,0 +1,3 @@
+##### § 452.119 Indirect elections. #####
+
+National or international labor organizations subject to the Act have the option of electing officers either directly by secret ballot among the members in good standing or at a convention of delegates or other representatives who have been elected by secret ballot among the members. Intermediate labor organizations subject to the Act have the option of electing officers either directly by secret ballot among the members in good standing or by labor organization officers or delegates elected by secret ballot vote of the members they represent. Local unions, in contrast, do not have the option of conducting their periodic elections of officers indirectly through representatives.

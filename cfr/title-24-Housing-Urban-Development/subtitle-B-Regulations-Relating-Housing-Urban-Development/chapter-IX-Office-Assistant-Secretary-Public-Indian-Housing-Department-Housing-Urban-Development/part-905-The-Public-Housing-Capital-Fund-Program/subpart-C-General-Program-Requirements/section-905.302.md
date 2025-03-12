@@ -1,0 +1,3 @@
+##### § 905.302 Timely submission of the CF ACC amendment by the PHA. #####
+
+Upon being provided with a CF ACC Amendment from HUD, the PHA must sign and date the CF ACC Amendment and return it to HUD by the date established. HUD will execute the signed and dated CF ACC Amendment submitted by the PHA. If HUD does not receive the signed and dated Amendment by the submission deadline, the PHA will receive the Capital Fund grant for that year; however, it will have less than 24 months to obligate 90 percent of the Capital Fund grant and less than 48 months to expend these funds because the PHA's obligation start date and disbursement end date for these grants will remain as previously established by HUD.

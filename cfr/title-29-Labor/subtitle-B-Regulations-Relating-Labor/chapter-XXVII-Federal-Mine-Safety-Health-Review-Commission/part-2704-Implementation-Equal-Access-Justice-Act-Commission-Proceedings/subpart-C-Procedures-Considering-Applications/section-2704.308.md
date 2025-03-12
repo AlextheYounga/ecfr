@@ -1,0 +1,9 @@
+##### § 2704.308 Commission review. #####
+
+(a) Either the applicant or the Secretary of Labor may seek review by the Commission of the initial decision by the administrative law judge, but review shall be discretionary with the Commission.
+
+(b) The party seeking review shall file a petition for discretionary review so as to be received by the Commission at 1331 Pennsylvania Avenue NW., Suite 520N, Washington, DC 20004-1710 within 30 days of the issuance of the initial decision by the administrative law judge. Each issue in dispute shall be plainly and concisely stated, with supporting reasons set forth. Except for good cause shown, no issue not raised before the administrative law judge shall be set forth in the petition for discretionary review. Review by the Commission shall be granted only by affirmative vote of two of the Commissioners within 40 days of the issuance of the initial opinion, except that within 30 days after the issuance of the initial decision by the administrative law judge, two or more Commissioners may in their discretion order the case for review without the filing of a petition. The latter procedure shall be reserved for novel questions of law or policy, however.
+
+(c) If review of the initial decision of the administrative law judge is granted by the Commission, the Commission shall, after allowing opportunity for presentation of views by opposing parties, review the case and issue its own order affirming, modifying or vacating in whole or in part the initial decision or directing other appropriate relief.
+
+[47 FR 10001, Mar. 9, 1982, as amended at 63 FR 63178, Nov. 12, 1998; 67 FR 60863, Sept. 27, 2002; 77 FR 48430, Aug. 14, 2012]

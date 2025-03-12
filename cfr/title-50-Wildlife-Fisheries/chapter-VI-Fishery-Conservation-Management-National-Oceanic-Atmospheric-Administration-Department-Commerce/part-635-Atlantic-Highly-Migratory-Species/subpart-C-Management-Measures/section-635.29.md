@@ -1,0 +1,9 @@
+##### § 635.29 Transfer at sea and transshipment. #####
+
+(a) A person who owns or operates a vessel issued a permit, or required to be issued a permit, under § 635.4 may not transfer any tuna or tuna-like species, or other HMS, at sea or in port, regardless of where the fish was harvested, except as provided in paragraph (c) of this section.
+
+(b) For the purposes of this part, “transfer” means the act of “transshipping” as defined at 50 CFR 300.301. Notwithstanding the definition of “harvest” at § 600.10, for the purposes of this part, transfer also includes, but is not limited to, moving or attempting to move a tuna that is on fishing gear or other gear in the water from one vessel to another vessel.
+
+(c) An owner or operator of a vessel for which an Atlantic Tunas Purse Seine category permit has been issued under § 635.4 may use an auxiliary vessel (*i.e.,* a skiff) associated with the permitted vessel to assist in routine purse seine fishery operations, provided that the auxiliary vessel has not been issued an Atlantic Tunas or HMS vessel permit and functions only in an auxiliary capacity during routine purse seine operations (*i.e.,* it conducts limited assistance activities such as assistance with purse seine deployment and removal of BFT from the purse seine). The auxiliary vessel may transfer large medium and giant Atlantic BFT to its associated purse seine vessel during routine purse seine operations, provided that the amount transferred does not cause the receiving vessel to exceed its currently authorized vessel allocation, including incidental catch limits.
+
+[79 FR 72559, Dec. 8, 2014, as amended at 80 FR 52204, Aug. 28, 2015]

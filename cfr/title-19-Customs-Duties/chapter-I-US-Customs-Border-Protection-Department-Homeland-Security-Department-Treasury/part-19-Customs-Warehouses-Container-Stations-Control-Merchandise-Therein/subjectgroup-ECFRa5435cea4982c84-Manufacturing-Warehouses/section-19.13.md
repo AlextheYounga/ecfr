@@ -1,0 +1,19 @@
+##### § 19.13 Requirements for establishment of warehouse. #####
+
+(a) Buildings or parts of buildings and other enclosures may be designated as bonded manufacturing warehouses if the port director is satisfied that their location, construction, and arrangement afford adequate protection to the revenue. Such warehouses shall be used solely and exclusively for the purpose for which they are bonded. The general provisions pertaining to warehouses for the storage of bonded merchandise shall, so far as relevant, apply to bonded manufacturing warehouses.
+
+(b) Application for the establishment of such a warehouse shall be made to the director of the port where the premises are situated, setting forth the size, construction, and location of the premises, the manufacture proposed to be carried on, and the kinds of materials intended to be stored and used therein.
+
+(c) The procedure outlined in § 19.2 with respect to the application to bond the premises and the execution of the bond shall be followed.
+
+(d) A list of all articles intended to be manufactured in the warehouse shall be filed with the port director. Such list shall set forth the specific names under which the articles are to be exported and under which they will be known to the trade, and shall show the names of all the ingredients entering into the manufacture of such articles, with the quantities of such ingredients or materials as may be dutiable or taxable.
+
+(e) Proprietors of such warehouses are required to conform strictly to the formulas filed with the bond, or subsequently, and in no instance shall an article be permitted to be manufactured in or withdrawn from the warehouse which does not contain all the ingredients and in the quantities specified in the formula for the manufacture of such article, or which contains any ingredient not specified in the formula.
+
+(f) Manufactured articles shall be marked with the trade name of the goods and may be marked, in addition, with the formulas and with such insignia or name as may be indicated or desired by the purchaser, if such additional marking will in no manner conflict with the requirements of the formula or present or create a false or misleading statement or impression.
+
+(g) *Secure storage.* Each bonded manufacturing warehouse shall have a secured area separated from the remainder of the premises to be used exclusively for the storage of imported merchandise, domestic spirits, and merchandise subject to internal-revenue tax transferred into the warehouse for manufacture. A like area shall be provided to be used exclusively for the storage of products manufactured in the warehouse. The area shall be secured to prevent any unauthorized person from having access thereto and the goods therein shall be arranged in a manner to assist a Customs officer in making the required examination or taking samples for analysis. The areas for storage of bonded material and manufactured products shall be secured in accordance with the standards prescribed in § 19.4(b)(6) of this part. The proprietor shall mark each package with the correct warehouse entry number and date until manufacturing takes place. After manufacture, the proprietor shall mark each package of the finished product with the warehouse entry number and date.
+
+(h) Entry shall be made and duties paid, where applicable, on any imported machinery or other equipment or apparatus that is for the construction of the warehouse or for the pursuit of its business.
+
+[28 FR 14763, Dec. 31, 1963, as amended by T.D. 82-204, 47 FR 49372, Nov. 1, 1982; T.D. 84-213, 49 FR 41169, Oct. 19, 1984; T.D. 89-1, 53 FR 51254, Dec. 21, 1988; T.D. 97-19, 62 FR 15839, Apr. 3, 1997]

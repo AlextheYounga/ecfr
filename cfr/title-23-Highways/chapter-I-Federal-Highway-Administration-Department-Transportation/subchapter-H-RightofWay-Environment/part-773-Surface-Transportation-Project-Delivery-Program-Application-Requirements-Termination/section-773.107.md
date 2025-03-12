@@ -1,0 +1,13 @@
+##### § 773.107 Pre-application requirements. #####
+
+(a) *Coordination meeting.* The State must request and participate in a pre-application coordination meeting with the appropriate Division or Regional, and Headquarters office of the applicable Operating Administration(s) before soliciting public comment on its application.
+
+(b) *Public comment.* The State must give notice of its intention to participate in the Program and must solicit public comment by publishing the complete application in accordance with the appropriate State public notice laws not later than 30 days prior to submitting its application to the appropriate Operating Administration(s). If allowed under State law, publishing a statewide notice of availability of the application rather than the application itself may satisfy the requirements of this provision so long as the complete application is made available on the internet and is reasonably available to the public for inspection. Solicitation of public comment must include solicitation of the views of other State agencies, tribal agencies, and Federal agencies that may have consultation or approval responsibilities associated with the project(s) within State boundaries.
+
+(1) The State requesting FTA's responsibilities with respect to public transportation projects must identify and solicit public comment from potential recipients of assistance under chapter 53 of title 49 U.S.C. These comments may include requests for the Secretary to maintain the environmental review responsibilities with respect to one or more public transportation projects.
+
+(2) The State must submit copies of all comments received as a result of the publication of the respective application(s). The State must summarize the comments received, develop responses to substantive comments, and note any revisions or actions taken in response to the public comment.
+
+(c) *Sovereign immunity waiver.* The State must identify and complete the process required by State law for consenting and accepting exclusive Federal court jurisdiction with respect to compliance, discharge, and enforcement of any of the responsibilities being sought.
+
+(d) *Comparable State laws.* The State must determine that it has laws that are in effect that authorize the State to take actions necessary to carry out the responsibilities the State is seeking and a public records access law that is comparable to FOIA. The State must ensure that it cures any deficiency in applicable State laws before submitting its application.

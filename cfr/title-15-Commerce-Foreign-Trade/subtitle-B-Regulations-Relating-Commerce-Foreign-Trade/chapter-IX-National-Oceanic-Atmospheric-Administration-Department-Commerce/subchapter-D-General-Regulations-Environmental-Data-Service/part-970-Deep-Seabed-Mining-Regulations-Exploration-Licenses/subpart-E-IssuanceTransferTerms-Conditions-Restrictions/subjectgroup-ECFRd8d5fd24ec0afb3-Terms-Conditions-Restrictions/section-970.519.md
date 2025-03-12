@@ -1,0 +1,3 @@
+##### § 970.519 Resource conservation requirements. #####
+
+For the purpose of conservation of natural resources, each license issued under this part will contain, as needed, terms, conditions and restrictions which have due regard for the prevention of waste and the future opportunity for the commercial recovery of the unrecovered balance of the hard mineral resources in the license area. The Administrator will establish these pursuant to § 970.603.

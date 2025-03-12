@@ -1,0 +1,19 @@
+##### § 451.1 Introductory statement. #####
+
+(a) This part discusses the meaning and scope of sections 3(i) and 3(j) of the Labor-Management Reporting and Disclosure Act of 19591 (hereinafter referred to as the Act). These provisions define the terms “labor organization” and “labor organization \* \* \* in an industry affecting commerce” for purposes of the Act.2
+
+1 73 Stat. 520, 521, 29 U.S.C. 402.
+
+2 It should be noted that the definition of the term “labor organization,” as well as other terms, in section 3 are for purposes of those portions of the Act included in titles I, II, III, IV, V (except section 505) and VI. They do not apply to title VII, which contains amendments of the National Labor Relations Act, as amended, nor to section 505 of title V, which amends section 302 (a), (b), and (c) of the Labor Management Relations Act, 1947, as amended. The terms used in title VII and section 505 of title V have the same meaning as they have under the National Labor Relations Act, as amended, and the Labor Management Relations Act, 1947, as amended.
+
+(b) The Act imposes on labor organizations various obligations and prohibitions relating generally, among other things, to the reporting of information and election and removal of officers. Requirements are also imposed on the officers, representatives, and employees of labor organizations. In addition, certain rights are guaranteed the members thereof. It thus becomes a matter of importance to determine what organizations are included within the applicability of the Act.
+
+(c) The provisions of the Act, other than title I and amendments to other statutes contained in section 505 and title VII, are subject to the general investigatory authority of the Secretary of Labor embodied in section 6013 (and delegated by him to the Director), which empowers him to investigate whenever he believes it necessary in order to determine whether any person has violated or is about to violate such provisions. The correctness of an interpretation of these provisions can be determined finally and authoritatively only by the courts. It is necessary, however, for the Director to reach informed conclusions as to the meaning of the law to enable him to carry out his statutory duties of administration and enforcement. The interpretations of the Director contained in this part, which are issued upon the advice of the Solicitor of Labor, indicate the construction of the law which will guide him in performing his duties unless and until he is directed otherwise by authoritative rulings of the courts or unless and until he subsequently decides that a prior interpretation is incorrect. However, the omission to discuss a particular problem in this part, or in interpretations supplementing it, should not be taken to indicate the adoption of any position by the Director with respect to such problem or to constitute an administrative interpretation or practice. Interpretations of the Director with respect to the meaning of the terms “labor organization” and “labor organization \* \* \* in an industry affecting commerce,” as used in the Act, are set forth in this part to provide those affected by the provisions of the Act with “a practical guide \* \* \* as to how the office representing the public interest in its enforcement will seek to apply it.”4
+
+3 Sec. 601, 73 Stat. 539, 29 U.S.C. 521.
+
+4*Skidmore* v. *Swift & Co.,* 323 U.S. 134, 138.
+
+(d) To the extent that prior opinions and interpretations relating to the meaning of “labor organization” and “labor organization \* \* \* in an industry affecting commerce” are inconsistent or in conflict with the principles stated in this part, they are hereby rescinded and withdrawn.
+
+[28 FR 14388, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985; 78 FR 8026, Feb. 5, 2013]

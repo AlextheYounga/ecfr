@@ -1,0 +1,9 @@
+##### § 206.203 Providing information. #####
+
+(a) *Annual statement.* The mortgagee shall provide to the mortgagor an annual statement regarding the activity of the mortgage for each calendar year. The statement shall summarize the total principal amount for the year which has been paid to the mortgagor under the mortgage, the MIP paid to the Secretary and charged to the mortgagor, the total amount of deferred interest added to the mortgage balance, the total mortgage balance and the current principal limit. If the mortgagor has elected to have the mortgagee pay property charges pursuant to § 206.205, the mortgagee shall include an accounting of all payments for property charges for the year. The statement shall be provided to the mortgagor no later than January 31 for each preceding year until the mortgage is paid in full by the mortgagor.
+
+(b) Line of credit and payment change statements. The mortgagee shall provide the mortgagor with a statement of the account every time it makes a line of credit payment. The mortgagee shall provide the mortgagor with a new payment plan every time it recalculates monthly payments.
+
+(c) *Servicing.* The provisions of § 203.508 (a) and (b) of this chapter pertaining to loan information to mortgagors shall also be applicable to mortgages insured under this part. The mortgagee, as part of the information required under § 203.508(b) of this chapter, shall provide the mortgagor with the name of the mortgagee's employee who has been specifically designated to respond to inquiries concerning mortgages insured under this part. Such information shall be provided annually and whenever the servicer or the designated employee changes.
+
+(Approved by the Office of Management and Budget under control number 2528-0133)[54 FR 24833, June 9, 1989, as amended at 60 FR 42762, Aug. 16, 1995]

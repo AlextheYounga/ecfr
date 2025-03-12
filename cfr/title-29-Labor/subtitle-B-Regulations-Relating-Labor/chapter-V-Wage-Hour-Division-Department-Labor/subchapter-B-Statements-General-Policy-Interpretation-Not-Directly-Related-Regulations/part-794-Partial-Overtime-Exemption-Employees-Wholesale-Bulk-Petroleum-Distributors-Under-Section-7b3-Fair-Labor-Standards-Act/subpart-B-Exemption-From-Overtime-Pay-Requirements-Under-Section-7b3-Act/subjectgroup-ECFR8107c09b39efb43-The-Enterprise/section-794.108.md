@@ -1,0 +1,3 @@
+##### § 794.108 Scope of enterprise must be known before exemption tests can be applied. #####
+
+The scope of the “enterprise” as defined by section 3(r) of the Act must be ascertained before it is possible to apply the tests for exemption contained in section 7(b)(3) which are based on the dollar volume of sales of the “enterprise”. The activities included in the enterprise must be known, and any activities not a part of the enterprise must be excluded before the dollar volume of sales derived from the activities of the enterprise can be computed.

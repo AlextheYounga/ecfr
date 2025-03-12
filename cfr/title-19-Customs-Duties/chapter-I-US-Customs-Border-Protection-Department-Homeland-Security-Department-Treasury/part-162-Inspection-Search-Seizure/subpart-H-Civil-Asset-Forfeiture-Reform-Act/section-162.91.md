@@ -1,0 +1,5 @@
+##### § 162.91 Exemptions. #####
+
+The provisions of this subpart will apply to all seizures of property for civil forfeiture made by Customs and Border Protection or Immigration and Customs Enforcement officers except for those seizures of property to be forfeited under the following statutes: The Tariff Act of 1930 or any other provision of law codified in title19, United States Code; the Internal Revenue Code of 1986 (26 U.S.C. 1 *et seq.*); the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 *et seq.*); the Trading with the Enemy Act (50 U.S.C. App. 1 *et seq.*); the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 *et seq.*); and section 1 of title VI of the Act of June 15, 1917 (40 Stat. 233; 22 U.S.C. 401).
+
+[T.D. 02-08, 67 FR 9191, Feb. 28, 2002, as amended by USCBP-2006-0122, 73 FR 9012, Feb. 19, 2007]

@@ -1,0 +1,3 @@
+##### § 38.33 Service provider Equal Opportunity Officer obligations. #####
+
+Service providers, as defined in § 38.4(ggg), are not required to designate an EO Officer. The obligation for ensuring service provider compliance with the nondiscrimination and equal opportunity provisions of WIOA and this part rests with the Governor or LWDA grant recipient, as specified in the State's Nondiscrimination Plan.

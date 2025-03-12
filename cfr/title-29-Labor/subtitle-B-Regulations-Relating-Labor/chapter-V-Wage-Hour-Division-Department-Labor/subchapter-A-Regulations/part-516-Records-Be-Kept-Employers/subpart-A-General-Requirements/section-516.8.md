@@ -1,0 +1,3 @@
+##### § 516.8 Computations and reports. #####
+
+Each employer required to maintain records under this part shall make such extension, recomputation, or transcription of the records and shall submit to the Wage and Hour Division such reports concerning persons employed and the wages, hours, and other conditions and practices of employment set forth in the records as the Administrator or a duly authorized and designated representative may request in writing.

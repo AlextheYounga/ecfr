@@ -1,0 +1,3 @@
+##### § 103.515 Action by other agencies. #####
+
+In accordance with section 808 (d) and (e) of the Fair Housing Act and Executive Order No. 12259, other Federal agencies, including any agency having regulatory or supervisory authority over financial institutions, are responsible for ensuring that their programs and activities relating to housing and urban development are administered in a manner affirmatively to further the goal of fair housing, and for cooperating with the Assistant Secretary in furthering the purposes of the Fair Housing Act.

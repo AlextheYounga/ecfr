@@ -1,0 +1,9 @@
+##### § 971.212 Public notice, hearing and comment. #####
+
+(a) *Notice and comments.* The Administrator will publish in the Federal Register, for each complete application for issuance or transfer of a commercial recovery permit, notice that the application has been received. Subject to § 971.802, interested persons will be allowed to examine the materials relevant to the application, and will have at least 60 days after publication of notice to submit written comments to the Administrator.
+
+(b) *Hearings.* After preparation of the draft environmental impact statement (EIS) on an application, the Administrator will hold a public hearing on the application and the draft EIS in an appropriate location and may employ additional methods he/she deems appropriate to inform interested persons about each application and to invite comments thereon. A hearing will be conducted in any State in which a processing plant or any of its ancillary facilities (such as a marine terminal or a waste disposal facility) are proposed to be located.
+
+(c) If the Administrator determines there exist one or more specific and material factual issues which require resolution by formal processes, at least one formal hearing will be held in the District of Columbia metropolitan area in accordance with the provisions of Subpart I of this part. The record developed in any such formal hearing will be part of the basis of the Administrator's decisions on an application.
+
+(d) Hearings held pursuant to this section and other procedures will be consolidated, if practicable, with hearings held and procedures employed by other Federal and State agencies.

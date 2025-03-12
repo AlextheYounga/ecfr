@@ -1,0 +1,3 @@
+##### § 4302.1 Purpose and scope. #####
+
+This part specifies the maximum daily amount of penalties for which a person may be liable to the PBGC under ERISA section 4302 for certain failures to provide multiemployer plan notices, as such amount has been adjusted to account for inflation pursuant to the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, as amended by the Debt Collection Improvement Act of 1996.

@@ -1,0 +1,5 @@
+##### § 385.2012 Petitions for review of Commission Orders (Rule 2012). #####
+
+When a petition for review of an order issued by the Commission is filed in a United States Court of Appeals, a copy of the petition which has been stamped by the court with the date of filing must be mailed or hand delivered to the Office of the Secretary, Federal Energy Regulatory Commission, 888 First Street, NE., Washington, DC 20426. If within ten days after issuance of the Commission order, the Office of the Secretary has physically received court-stamped copies of petitions for review of the same order, which petitions have been filed in two or more U.S. Courts of Appeals, the Commission will forward copies of those petitions to the Judicial Panel on Multidistrict Litigation pursuant to 28 U.S.C. 2112(a).
+
+[Order 504, 53 FR 37546, Sept. 27, 1988, as amended by Order 737, 75 FR 43405, July 26, 2010]

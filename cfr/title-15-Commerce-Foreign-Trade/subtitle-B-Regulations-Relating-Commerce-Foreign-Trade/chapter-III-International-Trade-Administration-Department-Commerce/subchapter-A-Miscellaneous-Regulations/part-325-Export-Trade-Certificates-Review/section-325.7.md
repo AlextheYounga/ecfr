@@ -1,0 +1,3 @@
+##### § 325.7 Amending the certificate. #####
+
+An application for an amendment to a certificate shall be treated in the same manner as an original application. The application for an amendment shall set forth the proposed amendment(s) and the reasons for them. It shall contain any information specified in § 325.3(b) that is relevant to the determination on the application for an amendment. The effective date of an amendment will be the date on which the application for the amendment was deemed submitted.

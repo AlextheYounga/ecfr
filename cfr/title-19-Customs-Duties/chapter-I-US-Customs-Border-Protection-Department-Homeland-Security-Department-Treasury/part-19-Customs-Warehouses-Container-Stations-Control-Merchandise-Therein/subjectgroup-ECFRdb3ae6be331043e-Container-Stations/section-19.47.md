@@ -1,0 +1,3 @@
+##### § 19.47 Security. #####
+
+The space to be used for the purposes of breaking bulk and delivering cargo shall be properly secured against access by unauthorized persons, including persons not on the list of current employees furnished to the port director by the container station operator, the principal on the bond, as required by § 19.46. A suitable working and office space for the use of Customs officers and employees performing functions in the area shall also be provided.

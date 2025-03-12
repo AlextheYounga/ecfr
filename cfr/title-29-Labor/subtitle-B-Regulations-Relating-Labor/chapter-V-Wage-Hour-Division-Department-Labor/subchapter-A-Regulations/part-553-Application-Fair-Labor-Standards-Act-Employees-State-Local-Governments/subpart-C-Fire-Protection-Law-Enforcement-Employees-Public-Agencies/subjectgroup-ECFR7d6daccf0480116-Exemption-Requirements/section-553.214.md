@@ -1,0 +1,3 @@
+##### § 553.214 Trainees. #####
+
+The attendance at a bona fide fire or police academy or other training facility, when required by the employing agency, constitutes engagement in activities under section 7(k) only when the employee meets all the applicable tests described in § 553.210 or § 553.211 (except for the power of arrest for law enforcement personnel), as the case may be. If the applicable tests are met, then basic training or advanced training is considered incidental to, and part of, the employee's fire protection or law enforcement activities.

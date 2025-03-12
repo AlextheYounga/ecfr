@@ -1,0 +1,3 @@
+##### § 1926.24 Fire protection and prevention. #####
+
+The employer shall be responsible for the development and maintenance of an effective fire protection and prevention program at the job site throughout all phases of the construction, repair, alteration, or demolition work. The employer shall ensure the availability of the fire protection and suppression equipment required by subpart F of this part.

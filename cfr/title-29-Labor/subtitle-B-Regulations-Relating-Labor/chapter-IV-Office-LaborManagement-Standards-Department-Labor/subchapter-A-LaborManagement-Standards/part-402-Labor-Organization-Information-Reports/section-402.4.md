@@ -1,0 +1,7 @@
+##### § 402.4 Subsequent reports. #####
+
+(a) Except as noted elsewhere in this paragraph, every labor organization which revises the most recent constitution and bylaws it has filed with the Office of Labor-Management Standards shall file two dated copies of its revised constitution and bylaws at the time it files its annual financial report as provided in part 403 of this chapter. However, a labor organization which has as its constitution and bylaws a uniform constitution and bylaws prescribed by the reporting labor organization's parent national or international labor organization in accordance with § 402.3(b) is not required to file copies of a revised uniform constitution and bylaws if the parent national or international labor organization files as many copies of the revised constitution and bylaws with the Office of Labor-Management Standards as the Office may request.
+
+(b) Every labor organization which changes the practices and procedures for which separate statements must be filed pursuant to subsection 201(a)(5) (A) through (M) of the Act shall file with the Office of Labor-Management Standards two copies of an amended Form LM-1, signed by its president and secretary or corresponding principal officers. The amended Form LM-1 shall be filed when the labor organization files its annual financial report as provided in part 403 of this chapter.
+
+[58 FR 67604, Dec. 21, 1993]

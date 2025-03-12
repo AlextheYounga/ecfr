@@ -1,0 +1,5 @@
+##### § 154.309 Incremental expansions. #####
+
+(a) For every expansion for which incremental rates are charged, the company must provide a summary with applicable cross-references to § 154.312 and § 154.313, of the costs and revenues associated with the expansion, until the Commission authorizes the costs of the incremental facilities to be rolled-in to the pipeline's rates. For every expansion that has an at-risk provision in the certificate authorization, the costs and revenues associated with the facility must be shown in summary format with applicable cross-references to § 154.312 and § 154.313, until the Commission removes the at-risk condition.
+
+(b) The summary statements must provide the formulae and explain the bases used in the allocation of common costs to each incremental facility.

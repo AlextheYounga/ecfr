@@ -1,0 +1,3 @@
+##### § 9.21 Complaints. #####
+
+*With Wage and Hour Division.* Any employee(s) or authorized employee representative(s) of the predecessor contractor who believes the successor contractor has violated this part may file a complaint with the Wage and Hour Division within 120 days from the first date of contract performance. The employee may file a complaint directly with the Branch of Government Contracts Enforcement, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210.

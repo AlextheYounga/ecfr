@@ -1,0 +1,11 @@
+##### § 1902.7 Injury and illness recording and reporting requirements. #####
+
+(a) Injury and illness recording and reporting requirements promulgated by State-Plan States must be substantially identical to those in 29 CFR part 1904 on recording and reporting occupational injuries and illnesses. State-Plan States must promulgate recording and reporting requirements that are the same as the Federal requirements for determining which injuries and illnesses will be entered into the records and how they are entered. All other injury and illness recording and reporting requirements that are promulgated by State-Plan States may be more stringent than, or supplemental to, the Federal requirements, but, because of the unique nature of the national recordkeeping program, States must consult with OSHA and obtain approval of such additional or more stringent reporting and recording requirements to ensure that they will not interfere with uniform reporting objectives. State-Plan States must extend the scope of their regulation to State and local government employers.
+
+(b) A State may not grant a variance to the injury and illness recording and reporting requirements for private sector employers. Such variances may only be granted by Federal OSHA to assure nationally consistent workplace injury and illness statistics. A State may only grant a variance to the injury and illness recording and reporting requirements for State or local government entities in that State after obtaining approval from Federal OSHA.
+
+(c) A State must recognize any variance issued by Federal OSHA.
+
+(d) As provided in section 18(c)(7) of the Act, State Plan States must adopt requirements identical to those in 29 CFR 1904.41 in their recordkeeping and reporting regulations as enforceable State requirements. The data collected by OSHA as authorized by § 1904.41 will be made available to the State Plan States. Nothing in any State plan shall affect the duties of employers to comply with § 1904.41.
+
+[80 FR 49902, Aug. 18, 2015, as amended at 81 FR 29694, May 12, 2016]

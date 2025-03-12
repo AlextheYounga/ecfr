@@ -1,0 +1,15 @@
+##### § 191.33 Person entitled to claim drawback. #####
+
+(a) *Direct identification.* (1) Under 19 U.S.C. 1313(j)(1), the exporter (or destroyer) shall be entitled to claim drawback.
+
+(2) The exporter or destroyer may waive the right to claim drawback and assign such right to the importer or any intermediate party. A drawback claimant under 19 U.S.C. 1313(j)(1) other than the exporter or destroyer shall secure and retain a certification signed by the exporter or destroyer that such party waived the right to claim drawback, and did not and will not authorize any other party to claim the exportation or destruction for drawback (see § 191.82 of this part). The certification provided for under this section may be a blanket certification for a stated period. The claimant shall file such certification at the time of, or prior to, the filing of the claim(s) covered by the certification.
+
+(b) *Substitution.* (1) Under 19 U.S.C. 1313(j)(2), the following parties may claim drawback:
+
+(i) In situations where the exporter or destroyer of the substituted merchandise is also the importer of the imported merchandise, that party shall be entitled to claim drawback.
+
+(ii) In situations where the exporter or destroyer receives from the person who imported and paid the duty on the imported merchandise a certificate of delivery documenting the transfer of imported merchandise, commercially interchangeable merchandise, or any combination of imported and commercially interchangeable merchandise, and exports or destroys such transferred merchandise, that exporter or destroyer shall be entitled to claim drawback. (Any such transferred merchandise, regardless of its origin, will be treated as imported merchandise for purposes of drawback under § 1313(j)(2), and any retained merchandise will be treated as domestic merchandise.)
+
+(iii) In situations where the transferred merchandise described in paragraph (b)(1)(ii) of this section is the subject of further transfer(s), such transfer(s) shall be documented by certificate(s) of delivery, and the exporter or destroyer shall be entitled to claim drawback (multiple substitutions are not permitted).
+
+(2) The exporter or destroyer may waive the right to claim drawback and assign such right to the importer or to any intermediate party, provided that the claimant had possession of the substituted merchandise prior to its exportation or destruction. A drawback claimant under 19 U.S.C. 1313(j)(2) other than the exporter or destroyer shall secure and retain a certification signed by the exporter or destroyer that such party waived the right to claim drawback, and did not and will not authorize any other party to claim the exportation or destruction for drawback (see § 191.82 of this part). The certification provided for under this section may be a blanket certification for a stated period. The claimant shall file such certification at the time of, or prior to, the filing of the claim(s) covered by the certification.

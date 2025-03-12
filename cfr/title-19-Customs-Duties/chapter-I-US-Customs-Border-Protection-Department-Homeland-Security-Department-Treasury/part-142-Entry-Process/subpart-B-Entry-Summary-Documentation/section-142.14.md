@@ -1,0 +1,9 @@
+##### § 142.14 Delinquent payment of Customs bills. #####
+
+The following procedure shall be followed if an importer is substantially or habitually delinquent in the payment of Customs bills:
+
+(a) *Notice.* The importer shall be advised in writing by the port director in which he is substantially or habitually delinquent that he shall file the entry summary documentation with estimated duties attached, before his merchandise may be released from Customs custody at that port. The notice shall state the reason for the action and advise the importer that if payment of all his delinquent Customs bills is not made within 10 working days from the date of the notice, he shall be required to file the entry summary document with estimated duties attached, before his merchandise may be released. In either case, the entry summary shall serve as both the entry and the entry summary.
+
+(b) *Removal of requirement by port.* If the importer pays all his delinquent Customs bills within 10 working days after the date of the notice, the requirement shall be removed, and the importer need file only the entry documentation specified in § 142.3 to secure release of his merchandise.
+
+(c) *Removal of requirement by Headquarters.* If the importer has not paid all his delinquent Customs bills within 10 working days after the date of the notice, he also shall be required to file the entry summary documentation, with estimated duties attached, at each Customs port. In this case, the entry summary shall serve as both the entry and the entry summary. This requirement shall remain in effect in each port of entry until notification is received from Headquarters that the requirement is removed and that the importer need submit only the entry documentation listed in § 142.3 to secure release of his merchandise.

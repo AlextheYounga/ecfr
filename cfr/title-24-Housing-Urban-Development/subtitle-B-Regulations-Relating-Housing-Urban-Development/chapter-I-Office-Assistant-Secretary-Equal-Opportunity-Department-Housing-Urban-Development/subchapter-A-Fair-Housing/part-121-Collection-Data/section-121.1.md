@@ -1,0 +1,3 @@
+##### § 121.1 Purpose. #####
+
+The purpose of this part is to enable the Secretary of Housing and Urban Development to carry out his or her responsibilities under the Fair Housing Act, Executive Order 11063, dated November 20, 1962, title VI of the Civil Rights Act of 1964, and section 562 of the Housing and Community Development Act of 1987. These authorities prohibit discrimination in housing and in programs receiving financial assistance from the Department of Housing and Urban Development, and they direct the Secretary to administer the Department's housing and urban development programs and activities in a manner affirmatively to further these policies and to collect certain data to assess the extent of compliance with these policies.

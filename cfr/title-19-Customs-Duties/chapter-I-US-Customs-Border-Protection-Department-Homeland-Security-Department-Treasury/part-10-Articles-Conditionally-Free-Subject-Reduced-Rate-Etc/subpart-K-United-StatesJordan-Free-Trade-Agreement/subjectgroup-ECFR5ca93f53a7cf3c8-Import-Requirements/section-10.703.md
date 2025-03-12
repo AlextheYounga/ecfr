@@ -1,0 +1,3 @@
+##### § 10.703 Filing of claim for preferential tariff treatment. #####
+
+An importer may make a claim for US-JFTA preferential tariff treatment by including on the entry summary, or equivalent documentation, the symbol “JO” as a prefix to the subheading of the HTSUS under which each qualifying good is classified, or by the method specified for equivalent reporting via an authorized electronic data interchange system.

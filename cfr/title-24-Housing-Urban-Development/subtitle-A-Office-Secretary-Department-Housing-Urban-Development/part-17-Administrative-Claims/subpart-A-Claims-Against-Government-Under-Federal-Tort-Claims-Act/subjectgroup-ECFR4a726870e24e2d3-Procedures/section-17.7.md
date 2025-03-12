@@ -1,0 +1,3 @@
+##### § 17.7 Authority to adjust, determine, compromise, and settle claims. #####
+
+The General Counsel, the Deputy General Counsel, and such employees of the Office of the General Counsel as may be designated by the General Counsel, are authorized to consider, ascertain, adjust, determine, compromise, and settle claims pursuant to the Federal Tort Claims Act, 28 U.S.C. 2671, and the regulations contained in 28 CFR part 14 and in this subpart.

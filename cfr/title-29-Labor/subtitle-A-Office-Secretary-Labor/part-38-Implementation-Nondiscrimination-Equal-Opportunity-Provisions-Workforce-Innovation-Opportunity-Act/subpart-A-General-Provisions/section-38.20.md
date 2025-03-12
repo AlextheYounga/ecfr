@@ -1,0 +1,3 @@
+##### § 38.20 Administration of this part. #####
+
+The Civil Rights Center, in the Office of the Assistant Secretary for Administration and Management, U.S. Department of Labor, is responsible for administering and enforcing the nondiscrimination and equal opportunity provisions of WIOA and this part, and for developing and issuing policies, standards, guidance, and procedures for effecting compliance.

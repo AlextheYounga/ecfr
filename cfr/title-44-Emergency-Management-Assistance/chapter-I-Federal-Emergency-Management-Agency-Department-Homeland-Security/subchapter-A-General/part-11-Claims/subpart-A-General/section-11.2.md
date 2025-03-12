@@ -1,0 +1,3 @@
+##### § 11.2 Delegations of authority. #####
+
+Any and all claims that arise under subchapter III of chapter 83, chapter 87 and chapter 88 of title 5, the United States Code, the Retired Federal Employees Health Benefits Act (74 Stat. 849), the Panama Canal Construction Annuity Act (58 Stat. 257), and the Lighthouse Service Widow's Annuity Act (64 Stat. 465) shall be referred to the Director of the Bureau of Retirement and Insurance, Office of Personnel Management, for handling. The Chief Counsel, FEMA shall act on all other claims against FEMA for money and property.

@@ -1,0 +1,3 @@
+##### § 2005.0 Purpose and scope. #####
+
+The purpose of these regulations is to provide certain safeguards for an individual against the invasion of his or her personal privacy by the Office of the Special Representative for Trade Negotiations (hereinafter frequently referred to as “STR”). These regulations are promulgated pursuant to the requirements for all Federal Agencies contained in 5 U.S.C. 552a(f).

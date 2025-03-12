@@ -1,0 +1,5 @@
+##### § 153.9 Transferability. #####
+
+(a) *Non-transferable.* Authorizations under subpart B of this part and section 3 of the Natural Gas Act and related facilities shall not be transferable or assignable without prior Commission authorization.
+
+(b) *Involuntary transfer.* A Commission order granting such authorization shall continue in effect temporarily for a reasonable time in the event of the involuntary transfer of facilities used thereunder by operation of law (including such transfers to receivers, trustees, or purchasers under foreclosure or judicial sale) pending the making of an application for permanent authorization and decision thereon, provided notice is promptly given in writing to the Commission accompanied by a statement that the physical facts relating to operations of the facilities remain substantially the same as before the transfer and as stated in the initial application for such authorization.

@@ -1,0 +1,15 @@
+##### § 3282.13 Voluntary certification. #####
+
+(a) The purpose of this section is to provide a procedure for voluntary certification of non-conforming manufactured homes as required by 42 U.S.C. 5402(6) as amended by section 308(d)(B) of the Housing and Community Development Act of 1980.
+
+(b) Structures which meet all of the requirements of a *manufactured home* as set out in § 3282.7(u), except the size requirements, shall be *manufactured homes* if the manufacturer files with the Secretary a certification in the following form:
+
+[Name of manufacturer and address where structures are to be manufactured] certifies that it intends to manufacture structures that meet all of the requirements of manufactured homes set forth at 42 U.S.C. 5402(6) except the size requirements. Such structures are to be treated as manufactured homes for the purposes of the National Manufactured Housing Construction and Safety Standards Act of 1974 and the regulations promulgated pursuant thereto. Such structures will be built in conformance with the Standards. [Name of manufacturer] further certifies that if, at any time it manufactures structures which are not manufactured homes, it will identify each such structure by a permanent serial number placed on the structure during the first stage of production and that the series of serial numbers for such structures shall be distinguishable on the structures and in its records from the series of serial numbers used for manufactured homes.
+
+(c) Whenever a manufacturer which has filed a certification pursuant to § 3282.13(b) produces structures which are not manufactured homes, it must identify each such structure by placing a permanent serial number on the structure during the first stage of production. The series of serial numbers placed on these structures shall be distinguishable on the structure and in the manufacturer's records from the series of serial numbers used for manufactured homes.
+
+(d) A manufacturer may certify a structure as a manufactured home after having applied a serial number identifying it as a structure which is not a manufactured home. To do so, the manufacturer must secure the written consent of the IPIA. This consent may only be given after a DAPIA has approved the manufacturer's design and quality assistance manual in accordance with § 3282.361, and after the IPIA has thoroughly inspected the structure in at least one stage of production and after such removal of equipment, components or materials as the IPIA may require to assure that the structure conforms to the standards. After certification as a manufactured home has been approved, the manufacturer shall remove the original serial number and add the serial number required by § 3280.6.
+
+(e) Once a manufacturer has certified under § 3282.13(b) that it intends to build structures which are manufactured homes in all respects except size, the manufacturer must then, with respect to those structures, comply with all of the requirements of the Act and its regulations. The structures may not thereafter be exempted under any other section of these regulations.
+
+[47 FR 28093, June 29, 1982]

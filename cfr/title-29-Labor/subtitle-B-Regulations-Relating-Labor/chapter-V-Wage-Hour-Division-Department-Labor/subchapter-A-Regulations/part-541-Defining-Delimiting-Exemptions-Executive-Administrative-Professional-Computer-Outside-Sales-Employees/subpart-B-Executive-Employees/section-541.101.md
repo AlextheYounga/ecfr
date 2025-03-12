@@ -1,0 +1,3 @@
+##### § 541.101 Business owner. #####
+
+The term “employee employed in a bona fide executive capacity” in section 13(a)(1) of the Act also includes any employee who owns at least a bona fide 20-percent equity interest in the enterprise in which the employee is employed, regardless of whether the business is a corporate or other type of organization, and who is actively engaged in its management. The term “management” is defined in § 541.102. The requirements of Subpart G (salary requirements) of this part do not apply to the business owners described in this section.

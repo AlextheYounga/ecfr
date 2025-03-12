@@ -1,0 +1,3 @@
+##### § 908.7 Supplemental reports. #####
+
+Notwithstanding other regulations, a supplemental report in letter form referring to the appropriate NOAA file number, if assigned, must be made to the Administrator immediately if any report of weather modification activities submitted under § 908.4, § 908.5, or § 908.6 is found to contain any material inaccuracies, misstatements, and omissions. A supplemental report must also be made if there are changes in plans for the project or activity.

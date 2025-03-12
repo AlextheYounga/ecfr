@@ -1,0 +1,3 @@
+##### § 146.61 Constructive transfer to Customs territory. #####
+
+The port director shall accept receipt of any entry in proper form provided under this subpart, and the merchandise described therein will be considered to have been constructively transferred to Customs territory at that time, even though the merchandise remains physically in the zone. If the entry is thereafter rejected or cancelled, the merchandise will be considered at that time to be constructively transferred back into the zone in its previous zone status.

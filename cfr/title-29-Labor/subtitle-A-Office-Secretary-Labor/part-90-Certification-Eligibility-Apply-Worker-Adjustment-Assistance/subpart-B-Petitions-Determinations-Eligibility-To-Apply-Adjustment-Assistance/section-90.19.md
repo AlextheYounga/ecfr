@@ -1,0 +1,11 @@
+##### § 90.19 Judicial review of determinations. #####
+
+(a) *General.* Pursuant to section 284 of the Act, 19 U.S.C. 2395, any worker, group of workers, certified or recognized union, or authorized representative of such worker or group, aggrieved by a final determination issued pursuant to the Act and § 90.16(c), § 90.16(f), § 90.16(g), § 90.17(d), § 90.18(e), § 90.18(h) or § 90.18(i) may commence a civil action for review of such determination with the United States Court of International Trade. The party seeking judicial review must file for review in the Court of International Trade within sixty (60) days after the notice of determination has been published in the Federal Register.
+
+(b) *Certified record of the Secretary.* Upon receiving a copy of the summons and complaint from the clerk of the Court of International Trade, the certifying officer shall promptly certify and file in such court the record on which the determination was based. The record shall include transcripts of any public hearings, the findings of fact made pursuant to § 90.16(b), § 90.18(e), § 90.18(h) or § 90.18(i), and other documents on which the determination was based.
+
+(c) *Further proceedings.* If a case is remanded to the Secretary by the Court of International Trade for the taking of further evidence, the Director shall direct that further proceedings be conducted in accordance with the provisions of subpart B of this part, including the taking of further evidence. A certifying officer, after the conduct of such further proceedings, may make new or modified findings of fact and may modify or affirm the previous determination. Upon the completion of such further proceedings, the certifying officer shall certify and file in the Court of International Trade the record of such further proceedings.
+
+(d) *Substantial evidence.* The findings of fact by the certifying officer shall be conclusive if the Court of International Trade determines that such findings of fact are supported by substantial evidence.
+
+[52 FR 23402, June 19, 1987, as amended at 72 FR 37104, July 9, 2007]

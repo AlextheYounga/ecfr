@@ -1,0 +1,3 @@
+##### § 1912a.5 Advice and recommendations. #####
+
+Any advice or recommendations of the Committee shall be given or made with approval of a majority of all Committee members present. The Chairman shall include in any report of such advice or recommendations any concurring or dissenting views as well as abstentions and absences. Any member may submit his own advice and recommendations in the form of individual views with respect to any matter which has been considered by the Committee.

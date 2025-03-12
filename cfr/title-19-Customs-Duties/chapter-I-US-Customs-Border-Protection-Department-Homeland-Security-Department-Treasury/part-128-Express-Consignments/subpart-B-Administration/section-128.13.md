@@ -1,0 +1,3 @@
+##### § 128.13 Application processing fee. #####
+
+Each operator of an express consignment hub or carrier facility will be charged a fee to establish, alter, or relocate such facility which shall be determined under the provisions of 31 U.S.C. 9701. The fee will be periodically reviewed and revised to reflect changes in processing expenses and any changes thereto will be published in the Federal Register and “Customs Bulletin”.

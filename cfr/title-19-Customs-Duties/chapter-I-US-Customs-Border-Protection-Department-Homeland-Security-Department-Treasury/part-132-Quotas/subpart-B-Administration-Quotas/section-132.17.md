@@ -1,0 +1,9 @@
+##### § 132.17 Export certificate for sugar-containing products subject to tariff-rate quota. #####
+
+(a) *Requirement.* For sugar-containing products described in additional U.S. Note 8 to chapter 17, HTSUS, that are classified in HTSUS subheading 1701.91.54, 1704.90.74, 1806.20.75, 1806.20.95, 1806.90.55, 1901.90.56, 2101.12.54, 2101.20.54, 2106.90.78, or 2106.90.95, and that are products of a participating country, as defined in 15 CFR 2015.2(e), the importer must possess a valid export certificate in order to claim the in-quota tariff rate of duty on the products at the time they are entered or withdrawn from warehouse for consumption. The importer must record the unique identifier of the export certificate for these products on the entry summary or warehouse withdrawal for consumption (Customs Form 7501, column 34), or its electronic equivalent.
+
+(b) *Validity of export certificate.* To be valid, the export certificate must meet the requirements of 15 CFR 2015.3(b), and with respect to the requirement of 15 CFR 2015.3(b)(3) that the certificate have a distinct and uniquely identifiable number, this unique identifier must consist of 8 characters in any alpha/numeric combination.
+
+(c) *Retention and production of certificate to Customs.* The export certificate is subject to the recordkeeping requirements of part 163 of this chapter (19 CFR part 163). Specifically, the certificate must be retained for a period of 5 years in accordance with § 163.4(a) of this chapter, and must be made available to Customs upon request in accordance with § 163.6(a) of this chapter.
+
+[T.D. 00-7, 65 FR 5431, Feb. 4, 2000]

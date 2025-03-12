@@ -1,0 +1,3 @@
+##### § 404.1 Scope and purpose. #####
+
+The regulations in this part codify the provisions of Presidential Proclamation 8031, and govern the administration of the Northwestern Hawaiian Islands Marine National Monument. These regulations are jointly implemented by the Secretaries of the Interior, through the U.S. Fish and Wildlife Service (USFWS), and Commerce, through the National Oceanic and Atmospheric Administration (NOAA). Nothing in these regulations shall be deemed to diminish or enlarge the jurisdiction of the State of Hawaii.

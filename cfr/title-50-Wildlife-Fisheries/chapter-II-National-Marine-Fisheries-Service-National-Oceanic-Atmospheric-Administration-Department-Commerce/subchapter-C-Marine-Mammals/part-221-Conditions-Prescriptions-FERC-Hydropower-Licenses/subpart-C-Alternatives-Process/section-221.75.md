@@ -1,0 +1,3 @@
+##### § 221.75 Has OMB approved the information collection provisions of this subpart? #####
+
+Yes. This rule contains provisions that would collect information from the public. It therefore requires approval by the Office of Management and Budget (OMB) under the Paperwork Reduction Act of 1995, 44 U.S.C. 3501 *et seq.* (PRA). According to the PRA, a Federal agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number that indicates OMB approval. OMB has reviewed the information collection in this rule and approved it under OMB control number 1094-0001.

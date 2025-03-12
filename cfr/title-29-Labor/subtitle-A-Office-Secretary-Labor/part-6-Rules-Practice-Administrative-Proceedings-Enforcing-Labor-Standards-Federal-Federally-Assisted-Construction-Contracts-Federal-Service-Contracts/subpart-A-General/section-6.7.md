@@ -1,0 +1,5 @@
+##### § 6.7 Appearances. #####
+
+(a) *Representation.* The parties may appear in person, by counsel, or otherwise.
+
+(b) *Failure to appear.* In the event that a party appears at the hearing and no party appears for the opposing side, the presiding Administrative Law Judge is authorized, if such party fails to show good cause for such failure to appear, to dismiss the case or to find the facts as alleged in the complaint and to enter a default judgment containing such findings, conclusions and order as are appropriate. Only where a petition for review of such default judgment cites alleged procedural irregularities in the proceeding below and not the merits of the case shall a non-appearing party be permitted to file such a petition for review. Failure to appear at a hearing shall not be deemed to be a waiver of the right to be served with a copy of the Administrative Law Judge's decision.

@@ -1,0 +1,7 @@
+##### § 891.570 Maximum annual commitment and project account. #####
+
+(a) *Maximum annual commitment.* The maximum annual amount that may be committed under the HAP contract is the total of the contract rents and utility allowances for all assisted units in the project.
+
+(b) *Project account.* (1) HUD will establish and maintain a specifically identified and segregated project account for each project. The project account will be established out of the amounts by which the maximum annual commitment exceeds the amount actually paid out under the HAP contract each year. HUD will make payments from this account for housing assistance payments as needed to cover increases in contract rents or decreases in tenant income and other payments for costs specifically approved by the Secretary.
+
+(2) If the HUD-approved estimate of required annual payments under the HAP contract for a fiscal year exceeds the maximum annual commitment for that fiscal year plus the current balance in the project account, HUD will, within a reasonable time, take such steps authorized by section 8(c)(6) of the United States Housing Act of 1937 (42 U.S.C. 1437f note), as may be necessary, to assure that payments under the HAP contract will be adequate to cover increases in contract rents and decreases in tenant income.

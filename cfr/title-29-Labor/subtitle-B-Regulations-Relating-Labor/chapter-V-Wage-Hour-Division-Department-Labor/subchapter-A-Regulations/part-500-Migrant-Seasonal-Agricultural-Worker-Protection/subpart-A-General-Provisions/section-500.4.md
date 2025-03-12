@@ -1,0 +1,3 @@
+##### § 500.4 Effect of prior judgments and final orders obtained under the Farm Labor Contractor Registration Act. #####
+
+The Secretary may refuse to issue or to renew, or may suspend or revoke, a Certificate of Registration under the Act, if the applicant or holder has failed to pay any court judgment obtained by the Secretary or any other person under the Farm Labor Contractor Registration Act, or has failed to comply with any final order issued by the Secretary under the Farm Labor Contractor Registration Act. The Secretary may deny a Certificate of Registration under the Act to any farm labor contractor who has a judgment outstanding against him, or is subject to a final order assessing a civil money penalty which has not been paid.

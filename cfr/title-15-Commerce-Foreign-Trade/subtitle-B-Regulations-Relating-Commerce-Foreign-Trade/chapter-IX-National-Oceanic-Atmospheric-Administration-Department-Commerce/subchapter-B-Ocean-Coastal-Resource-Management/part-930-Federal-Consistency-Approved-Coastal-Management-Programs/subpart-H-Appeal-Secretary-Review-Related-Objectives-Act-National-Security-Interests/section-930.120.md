@@ -1,0 +1,3 @@
+##### § 930.120 Objectives. #####
+
+This subpart sets forth the procedures by which the Secretary may find that a federal license or permit activity, including those described in detail in an OCS plan, or a federal assistance activity, which a State agency has found to be inconsistent with the enforceable policies of the management program, may be federally approved because the activity is consistent with the objectives or purposes of the Act, or is necessary in the interest of national security.

@@ -1,0 +1,5 @@
+##### § 1401.3 Procedure in the event of a demand for production, disclosure, or testimony. #####
+
+(a) Any request for records of the Service, whether it be by letter, by subpoena duces tecum or by any other written demand, shall be handled pursuant to the procedures established in subpart B of this part, and shall comply with the rules governing public disclosure.
+
+(b) Whenever any subpoena or subpoena duces tecum calling for production of records or testimony as described above shall have been served upon any officer, employee or other person as noted in § 1401.2(b), he will, unless notified otherwise appear in answer thereto, and unless otherwise expressly directed by the Director, respectfully decline to produce or present such records or to give such testimony, by reason of the prohibitions of this section, and shall state that the production of the record(s) involved will be handled by the procedures established in this part.

@@ -1,0 +1,3 @@
+##### § 146.1 Purpose of the Age Discrimination Act of 1975. #####
+
+The Age Discrimination Act of 1975 (the Act) prohibits discrimination on the basis of age in programs or activities receiving Federal financial assistance. The Act, however, permits federally assisted programs and activities and recipients of Federal funds to continue to use certain age distinctions and factors other than age which meet the requirements of the Act and this part.

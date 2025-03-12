@@ -1,0 +1,5 @@
+##### § 404.2 Annual report. #####
+
+Every labor organization officer and employee who in any fiscal year has been involved in transactions of the type described in section 202(a) of the Act, or who holds or has held any interest in an employer or a business of the type referred to therein, or who has received any payments of the type referred to in that section, or who holds or has held an interest in or derived income or economic benefit with monetary value from a business any part of which consists of dealing with a trust in which his labor organization is interested, or whose spouse or minor child has been involved in such transactions, holds or has held any such interests, or has received such payments, is required to file with the Office of Labor-Management Standards, within 90 days after the end of his fiscal year, a signed report containing the detailed information required therein by section 202(a) of the Act, and found by the Secretary under section 208 thereof to be necessary in such report.
+
+[28 FR 14384, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985; 78 FR 8024, Feb. 5, 2013]

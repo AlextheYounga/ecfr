@@ -1,0 +1,3 @@
+##### § 15.1 Applicability. #####
+
+The rules and regulations in this part apply to all persons entering, while on, or leaving all the property known as the Mt. Weather Emergency Operations Center (Mt. Weather) located at 19844 Blue Ridge Mountain Road, Bluemont, Virginia 20135, and all the property known as the National Emergency Training Center (NETC), located on 16825 South Seton Avenue in Emmitsburg, Maryland, which the Federal Emergency Management Agency (FEMA) owns, operates and controls.

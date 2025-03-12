@@ -1,0 +1,15 @@
+##### § 151.71 Laboratory testing for clean yield. #####
+
+Link to an amendment published at 81 FR 93021, December 20, 2016.
+
+(a) *Test and report by Customs laboratory.* The clean yield of all general samples taken in accordance with § 151.70 shall be determined by test in a Customs laboratory, unless it is found that it is not feasible to test such a sample and obtain a proper finding of percentage clean yield. A report of the percentage clean yield of each general sample as established by the test, or a statement of the reason for not testing a general sample, shall be forwarded to the port director.
+
+(b) *Notification to importer.* Where samples of wool or hair have been tested in a Customs laboratory and the port director has received a copy of the Laboratory Report, Customs Form 6415, the port director shall promptly provide notice of the test results by mailing a copy of that report to the importer.
+
+(c) *Importer's request for retest.* If the importer is dissatisfied with the port director's finding of clean yield, he may file with the port director a written request in duplicate for another laboratory test for percentage clean yield. Such request shall be filed within 14 calendar days after the date of mailing of the notice of the port director's finding of clean yield. The request shall be granted if it appears to the port director to be made in good faith and if a second general sample as provided for in § 151.70 is available for testing, or if all packages or, in the opinion of the Commissioner of Customs, an adequate number of the packages represented by the general sample are available and in their original imported condition.
+
+(d) *Retest procedures.* The second test shall be made upon the second general sample, if such a sample is available. If the second general sample is not available, the packages shall be reweighed, resampled, and tested in accordance with the provisions of this section. All costs and expenses of such operations, exclusive of the compensation of Customs officers, shall be borne by the importer, who may be present during such resampling and testing.
+
+(e) *Request for commercial test.* If the importer is dissatisfied with the results of the second laboratory test, or if a second laboratory test is not feasible, the wool or hair may be retested by a commercial laboratory in accordance with § 151.73.
+
+[T.D. 73-175, 38 FR 17470, July 2, 1973, as amended by T.D. 75-121, 40 FR 23458, May 30, 1975; T.D. 93-52, 58 FR 37854, July 14, 1993]

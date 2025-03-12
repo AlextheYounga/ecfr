@@ -1,0 +1,3 @@
+##### § 367.9310 Account 931, Rents. #####
+
+This account must include rents, including taxes, paid for the property of others used, occupied or operated in connection with service company functions. Provide subaccounts for major groupings such as office space, warehouses, other structure, office furniture, fixtures, computers, data processing equipment, microwave and telecommunication equipment, airplanes, automobiles, and other similar groupings of property. The cost, when incurred by the lessee, of operating and maintaining leased property, must be charged to the accounts appropriate for the expense as if the property were owned.

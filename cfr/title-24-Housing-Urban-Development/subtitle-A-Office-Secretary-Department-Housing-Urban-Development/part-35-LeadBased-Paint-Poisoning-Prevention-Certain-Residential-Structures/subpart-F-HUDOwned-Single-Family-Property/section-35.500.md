@@ -1,0 +1,3 @@
+##### § 35.500 Purpose and applicability. #####
+
+The purpose of this subpart F is to establish procedures to eliminate as far as practicable lead-based paint hazards in HUD-owned single family properties that have been built before 1978 and are sold with mortgages insured under a program administered by HUD. The requirements of this subpart apply to any such residential properties offered for sale on or after September 15, 2000.

@@ -1,0 +1,3 @@
+##### § 153.17 Effectiveness of Presidential Permit. #####
+
+A Presidential Permit, once issued by the Commission, shall not be effective until it has been accepted by the highest authority of the Permittee, as indicated by Permittee's execution of a Testimony of Acceptance, and a certified copy of the accepted Presidential Permit and the executed Testimony of Acceptance has been filed with the Commission.

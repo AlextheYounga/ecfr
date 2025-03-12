@@ -1,0 +1,3 @@
+##### § 37.1 What is the purpose of this part? #####
+
+The purpose of this part is to implement the nondiscrimination and equal opportunity provisions of the Workforce Investment Act of 1998 (WIA), which are contained in section 188 of WIA. Section 188 prohibits discrimination on the grounds of race, color, religion, sex, national origin, age, disability, political affiliation or belief, and for beneficiaries only, citizenship or participation in a WIA Title I-financially assisted program or activity. This part clarifies the application of the nondiscrimination and equal opportunity provisions of WIA and provides uniform procedures for implementing them.

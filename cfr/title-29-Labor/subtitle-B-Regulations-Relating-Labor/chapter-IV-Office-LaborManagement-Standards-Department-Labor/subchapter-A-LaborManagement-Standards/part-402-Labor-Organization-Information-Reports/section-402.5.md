@@ -1,0 +1,9 @@
+##### § 402.5 Terminal reports. #####
+
+(a) Any labor organization required to file reports under the provisions of this part, which ceases to exist by virtue of dissolution or any other form of termination of its existence as a labor organization, or which loses its identity as a reporting labor organization through merger, consolidation or otherwise, shall file a report containing a detailed statement of the circumstances and effective date of such termination or loss of reporting identity, and if the latter, such report shall also state the name and mailing address of the labor organization into which it has been consolidated, merged, or otherwise absorbed. Such report shall be submitted on Form LM-2 in connection with the terminal financial report required by § 403.5 of this chapter and shall be signed by the president and treasurer, or corresponding principal officers, of the labor organization at the time of its termination or loss of reporting identity and, together with a copy thereof, shall be filed with the Office of Labor-Management Standards within 30 days of the effective date of such termination or loss of reporting identity, as the case may be.
+
+(b) Labor organizations which qualify to use Form LM-3, the Labor Organization Annual Report, pursuant to §§ 403.4 and 403.5 of this chapter may file the terminal report called for in this section on Form LM-3. This report must be signed by the president and treasurer, or corresponding principal officers, of the labor organization.
+
+(c) Labor organizations which qualify to use Form LM-4, the Labor Organization Annual Report, pursuant to §§ 403.4 and 403.5 of this chapter may file the terminal report called for in this section on Form LM-4. The report must be signed by the president and treasurer, or corresponding principal officers, of the labor organization.
+
+[28 FR 14381, Dec. 27, 1963, as amended at 62 FR 6092, Feb. 10, 1997]

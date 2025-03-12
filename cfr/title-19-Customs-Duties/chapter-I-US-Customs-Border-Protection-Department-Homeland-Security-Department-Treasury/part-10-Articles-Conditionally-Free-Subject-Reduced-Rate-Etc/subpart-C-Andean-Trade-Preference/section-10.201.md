@@ -1,0 +1,5 @@
+##### § 10.201 Applicability. #####
+
+Title II of Pub. L. 102-182 (105 Stat. 1233), entitled the Andean Trade Preference Act (ATPA) and codified at 19 U.S.C. 3201 through 3206, authorizes the President to proclaim duty-free treatment for all eligible articles from any beneficiary country and to designate countries as beneficiary countries. The provisions of §§ 10.202 through 10.207 set forth the legal requirements and procedures that apply for purposes of obtaining that duty-free treatment for certain articles from a beneficiary country which are identified for purposes of that treatment in General Note 11, Harmonized Tariff Schedule of the United States (HTSUS), and in the “Special” rate of duty column of the HTSUS. Provisions regarding preferential treatment of apparel and other textile articles under the ATPA are contained in §§ 10.241 through 10.248, and provisions regarding preferential treatment of tuna and certain other non-textile articles under the ATPA are contained in §§ 10.251 through 10.257.
+
+[T.D. 03-16, 68 FR 14486, Mar. 25, 2003; 68 FR 67338, Dec. 1, 2003]

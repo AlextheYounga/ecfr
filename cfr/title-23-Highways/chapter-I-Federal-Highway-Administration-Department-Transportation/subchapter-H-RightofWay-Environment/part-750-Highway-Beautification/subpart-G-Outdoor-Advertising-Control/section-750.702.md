@@ -1,0 +1,3 @@
+##### § 750.702 Applicability. #####
+
+The provisions of this subpart are applicable to all areas adjacent to the Federal-aid Interstate and Primary Systems, including toll sections thereof, except that within urban areas, these provisions apply only within 660 feet of the nearest edge of the right-of-way. These provisions apply regardless of whether Federal funds participated in the costs of such highways. The provisions of this subpart do not apply to the Federal-aid Secondary or Urban Highway System.

@@ -1,0 +1,3 @@
+##### § 500.155 Authority. #####
+
+Section 513 of the Act authorizes the Secretary to enter into agreements with Federal and State agencies (a) to use their facilities and services, (b) to delegate (subject to subsection 513(b) of the Act) to Federal and State agencies such authority (other than rulemaking) as he determines may be useful in carrying out the purposes of the Act, and (c) to allocate or transfer funds to, or otherwise pay or reimburse, such agencies for expenses incurred pursuant to paragraphs (a) or (b) of this section.

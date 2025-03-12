@@ -1,0 +1,7 @@
+##### § 1.23 Rights-of-way. #####
+
+(a) *Interest to be acquired.* The State shall acquire rights-of-way of such nature and extent as are adequate for the construction, operation and maintenance of a project.
+
+(b) *Use for highway purposes.* Except as provided under paragraph (c) of this section, all real property, including air space, within the right-of-way boundaries of a project shall be devoted exclusively to public highway purposes. No project shall be accepted as complete until this requirement has been satisfied. The State highway department shall be responsible for preserving such right-of-way free of all public and private installations, facilities or encroachments, except (1) those approved under paragraph (c) of this section; (2) those which the Administrator approves as constituting a part of a highway or as necessary for its operation, use or maintenance for public highway purposes and (3) informational sites established and maintained in accordance with § 1.35 of the regulations in this part.
+
+(c) *Other use or occupancy.* Subject to 23 U.S.C. 111, the temporary or permanent occupancy or use of right-of-way, including air space, for nonhighway purposes and the reservation of subsurface mineral rights within the boundaries of the rights-of-way of Federal-aid highways, may be approved by the Administrator, if he determines that such occupancy, use or reservation is in the public interest and will not impair the highway or interfere with the free and safe flow of traffic thereon.

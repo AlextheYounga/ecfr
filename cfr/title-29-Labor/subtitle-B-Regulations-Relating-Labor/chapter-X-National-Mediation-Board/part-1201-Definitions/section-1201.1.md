@@ -1,0 +1,3 @@
+##### § 1201.1 Carrier. #####
+
+The term *carrier* includes any express company, sleeping car company, carrier by railroad, subject to the Interstate Commerce Act (24 Stat. 379, as amended; 49 U.S.C. 1 *et seq.*), and any company which is directly or indirectly owned or controlled by or under common control with any carrier by railroad and which operates any equipment or facilities or performs any service (other than trucking service) in connection with the transportation, receipt, delivery, elevation, transfer in transit, refrigeration or icing, storage, and handling of property transported by railroad, and any receiver, trustee, or other individual or body, judicial or otherwise, when in the possession of the business of any such “carrier.”

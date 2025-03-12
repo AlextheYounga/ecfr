@@ -1,0 +1,3 @@
+##### § 2008.3 Applicability. #####
+
+This regulation governs the Office of the Special Representative for Trade Negotiations. In consonance with the authorities listed in section 1-1, it establishes the general policy and certain procedures for the security classification, downgrading, declassification, and safeguarding of information that is owned by, is produced for or by, or is under the control of the Office of the Special Representative for Trade Negotiations.

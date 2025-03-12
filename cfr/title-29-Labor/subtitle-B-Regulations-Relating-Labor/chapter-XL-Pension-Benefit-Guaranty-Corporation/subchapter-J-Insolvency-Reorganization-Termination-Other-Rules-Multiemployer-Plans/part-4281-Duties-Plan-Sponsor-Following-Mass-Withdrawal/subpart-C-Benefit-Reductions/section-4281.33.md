@@ -1,0 +1,5 @@
+##### § 4281.33 Restoration of benefits. #####
+
+(a) *General.* The plan sponsor of a plan that has been amended to reduce benefits under this subpart shall amend the plan to restore those benefits before adopting any amendment increasing benefits under the plan. A plan is not required to make retroactive benefit payments with respect to any benefit that was reduced and subsequently restored in accordance with this section.
+
+(b) *Notice to the PBGC.* The plan sponsor shall notify the PBGC in writing of any restoration under this section. The notice shall include the information specified in § 4281.32 (d)(1) through (d)(4); a statement that a plan amendment restoring benefits has been adopted, the date of adoption, and the effective date of the amendment; and a certification, signed by the plan sponsor or its duly authorized representative, that the amendment has been adopted in accordance with this section.

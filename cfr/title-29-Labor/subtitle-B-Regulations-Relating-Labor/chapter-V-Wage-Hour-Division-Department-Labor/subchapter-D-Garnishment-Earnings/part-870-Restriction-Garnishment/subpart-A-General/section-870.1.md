@@ -1,0 +1,7 @@
+##### § 870.1 Purpose and scope. #####
+
+(a) This part sets forth the procedures and any policies, determinations, and interpretations of general application whereby the Secretary of Labor carries out his duties under section 303 of the CCPA dealing with restrictions on garnishment of earnings, and section 305 permitting exemptions for State-regulated garnishments in certain situations. While the Secretary's duties under section 303 include insuring that certain amounts of earnings are protected, such duties do not include establishing priorities among multiple garnishments, as such priorities are determined by other Federal statutes or by State law.
+
+(b) Functions of the Secretary under the CCPA to be performed as provided in this part are assigned to the Administrator of the Wage and Hour Division (hereinafter referred to as the Administrator), who, under the general direction and control of the Assistant Secretary, Wage and Labor Standards Administration, shall be empowered to take final and binding actions in administering the provisions of this part. The Administrator is empowered to subdelegate any of his duties under this part. Any legal advice and assistance required for administration of this part shall be provided by the Solicitor of Labor.
+
+[35 FR 8226, May 26, 1970, as amended at 44 FR 30684, May 29, 1979]

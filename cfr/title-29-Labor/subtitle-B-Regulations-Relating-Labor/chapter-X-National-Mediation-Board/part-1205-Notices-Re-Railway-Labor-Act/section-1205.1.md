@@ -1,0 +1,3 @@
+##### § 1205.1 Handling of disputes. #####
+
+Section 2, Eighth, of the Railway Labor Act provides that every carrier shall notify its employees by printed notices in such form and posted at such times and places as shall be specified by order of the Mediation Board and requires that all disputes between a carrier and its employees will be handled in accordance with the requirements of the act. In such notices there must be printed verbatim, in large type, the third, fourth, and fifth paragraphs of said section 2, Eighth, of the Railway Labor Act.

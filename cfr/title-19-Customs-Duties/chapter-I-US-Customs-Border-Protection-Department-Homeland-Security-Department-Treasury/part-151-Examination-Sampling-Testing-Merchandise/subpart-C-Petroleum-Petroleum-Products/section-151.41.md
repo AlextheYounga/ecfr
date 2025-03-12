@@ -1,0 +1,5 @@
+##### § 151.41 Information on entry summary. #####
+
+On the entry summary for petroleum or petroleum products in bulk, the importer shall show the API gravity at 60 °Fahrenheit, in accordance with the current edition of the ASTM-IP Petroleum Measurement Tables (American Edition), approved by the American Society for Testing and Materials. The appropriate unabridged table shall be used in the reduction of volume to 60 °F. If the exact volumetric quantity cannot be determined in advance, the entry summary may be made for “\_\_ barrels, more or less”, but in no case may the estimate vary by more than three percent from the gross quantity unladen. The term “barrels” is defined in Chapter 27, Additional U.S. Note 7, Harmonized Tariff Schedule of the United States. The information required by this section also shall be shown on the entry summary permit if the entry summary is filed at the time of entry, and on each entry summary continuation sheet regardless of when the entry summary is filed.
+
+[T.D. 80-142, 45 FR 36384, May 30, 1980, as amended by T.D. 82-224, 47 FR 53728, Nov. 29, 1982; T.D. 89-1, 53 FR 51268, Dec. 21, 1988]

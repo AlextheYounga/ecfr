@@ -1,0 +1,3 @@
+##### § 122.28 Private aircraft taken abroad by U.S. residents. #####
+
+An aircraft belonging to a resident of the U.S. which is taken to a foreign area for non-commercial purposes and then returned to the U.S. by the resident shall be admitted under the conditions and procedures set forth in § 148.32 of this chapter. Repairs made abroad, and accessories purchased abroad shall be included in the baggage declaration as required by § 148.32(c), and may be subject to entry and payment of duty as provided in § 148.32.

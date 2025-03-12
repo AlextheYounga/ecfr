@@ -1,0 +1,3 @@
+##### § 783.37 Enforcement policy for non-seaman's work. #####
+
+In the enforcement of the Act, an employee will be regarded as “employed as a seaman” if his work as a whole meets the test stated in § 783.31, even though during the workweek he performs some work of a nature other than that which characterizes the service of a seaman, if such nonseaman's work is not substantial in amount. For enforcement purposes, the Administrator's position is that such differing work is “substantial” if it occupies more than 20 percent of the time worked by the employee during the workweek.

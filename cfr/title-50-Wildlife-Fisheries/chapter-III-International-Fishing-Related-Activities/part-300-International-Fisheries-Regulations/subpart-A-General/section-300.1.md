@@ -1,0 +1,3 @@
+##### § 300.1 Purpose and scope. #####
+
+The purpose of this part is to implement the fishery conservation and management measures provided for in the international treaties, conventions, or agreements specified in each subpart, as well as certain provisions of the Lacey Act Amendments of 1981. The regulations in this part apply, except where otherwise specified in this part, to all persons and all places subject to the jurisdiction of the United States under the acts implemented under each subpart.

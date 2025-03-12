@@ -1,0 +1,3 @@
+##### § 356.1 Scope. #####
+
+This part sets forth procedures and rules for the implementation of Article 1904 of the North American Free Trade Agreement under the Tariff Act of 1930, as amended by title IV of the North American Free Trade Agreement Implementation Act of 1993 (19 U.S.C. 1516a and 1677f(f)). This part is authorized by section 402(g) of the North American Free Trade Agreement Implementation Act of 1993.

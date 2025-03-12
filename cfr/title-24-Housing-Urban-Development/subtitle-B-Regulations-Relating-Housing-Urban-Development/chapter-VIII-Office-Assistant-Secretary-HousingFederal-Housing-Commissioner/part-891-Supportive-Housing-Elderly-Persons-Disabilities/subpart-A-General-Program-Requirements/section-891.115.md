@@ -1,0 +1,3 @@
+##### § 891.115 Notice of funding availability. #####
+
+Following an allocation of authority under § 891.110, HUD shall publish a separate Notice of Funding Availability (NOFA) for the Section 202 Program of Supportive Housing for the Elderly and for the Section 811 Program of Supportive Housing for Persons with Disabilities in the Federal Register. The NOFAs will contain specific information on how and when to apply for the available capital advance authority, the contents of the application, and the selection process.

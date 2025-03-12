@@ -1,0 +1,5 @@
+##### § 780.159 Forest products. #####
+
+Trees grown in forests and the lumber derived therefrom are not agricultural or horticultural commodities, for the purpose of the FLSA. (*See* § 780.205 regarding production of Christmas trees.) It follows that employment in the production, cultivation, growing, and harvesting of such trees or timber products is not sufficient to bring an employee within sec. 3(f) unless the operation is performed by a farmer or on a farm as an incident to or in conjunction with his or its farming operations. On the latter point, see §§ 780.200 through 780.209 discussing the question of when forestry or lumbering operations are incident to or in conjunction with farming operations so as to constitute agriculture. For a discussion of the exemption in sec. 13(b)(28) of the Act for certain forestry and logging operations in which not more than eight employees are employed, see part 788 of this chapter.
+
+[73 FR 77238, Dec. 18, 2008. Redesignated at 74 FR 26014, May 29, 2009]Effective Date Note:At 74 FR 26014, May 29, 2009, § 780.115 was redesignated as § 780.159 and newly designated § 780.159 was suspended, effective June 29, 2009.

@@ -1,0 +1,14 @@
+##### § 1926.56 Illumination. #####
+
+(a) *General.* Construction areas, ramps, runways, corridors, offices, shops, and storage areas shall be lighted to not less than the minimum illumination intensities listed in Table D-3 while any work is in progress:
+
+|Foot-candles|                                                                                                                                Area or operation                                                                                                                                 |
+|------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|     5      |                                                                                                                       General construction area lighting.                                                                                                                        |
+|     3      |                                                     General construction areas, concrete placement, excavation and waste areas, accessways, active storage areas, loading platforms, refueling, and field maintenance areas.                                                     |
+|     5      |                                                                                                             Indoors: warehouses, corridors, hallways, and exitways.                                                                                                              |
+|     5      |        Tunnels, shafts, and general underground work areas: (Exception: minimum of 10 foot-candles is required at tunnel and shaft heading during drilling, mucking, and scaling. Bureau of Mines approved cap lights shall be acceptable for use in the tunnel heading.)        |
+|     10     |General construction plant and shops (e.g., batch plants, screening plants, mechanical and electrical equipment rooms, carpenter shops, rigging lofts and active storerooms, barracks or living quarters, locker or dressing rooms, mess halls, and indoor toilets and workrooms).|
+|     30     |                                                                                                                  First aid stations, infirmaries, and offices.                                                                                                                   |
+
+(b) *Other areas.* For areas or operations not covered above, refer to the American National Standard A11.1-1965, R1970, Practice for Industrial Lighting, for recommended values of illumination.

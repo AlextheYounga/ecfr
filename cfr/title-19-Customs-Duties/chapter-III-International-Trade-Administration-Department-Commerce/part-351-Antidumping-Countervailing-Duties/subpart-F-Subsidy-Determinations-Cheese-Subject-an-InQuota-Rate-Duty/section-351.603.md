@@ -1,0 +1,3 @@
+##### § 351.603 Complaint of price-undercutting by subsidized imports. #####
+
+Upon receipt of a complaint filed with the Secretary of Agriculture under section 702(b) of the Trade Agreements Act concerning price-undercutting by subsidized imports, the Secretary will promptly determine, under section 702(a)(3) of the Trade Agreements Act of 1979, whether or not the alleged subsidies are included in or should be added to the latest annual list or quarterly update.

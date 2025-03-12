@@ -1,0 +1,3 @@
+##### § 210.44 Commission review on its own motion of initial determinations on matters other than temporary relief. #####
+
+Within the time provided in § 210.43(d)(1), the Commission on its own initiative may order review of an initial determination, or certain issues in the initial determination, when at least one of the participating Commissioners votes for ordering review. A self-initiated Commission review of an initial determination will be ordered if it appears that an error or abuse of the kind described in § 210.43(b)(1) is present or the initial determination raises a policy matter which the Commission thinks is necessary or appropriate to address.

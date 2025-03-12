@@ -1,0 +1,3 @@
+##### § 779.407 Learners other than “student-learners”. #####
+
+Regulations have been issued in accordance with the authority in section 14 of the Act to provide for employment under special certificates of learners at wages lower than the minimum wage applicable under section 6 of the Act. Part 522 of this chapter contains the general regulations for learners and those for learners in particular industries. General learner regulations are set forth in §§ 522.1 to 522.11 of this chapter.

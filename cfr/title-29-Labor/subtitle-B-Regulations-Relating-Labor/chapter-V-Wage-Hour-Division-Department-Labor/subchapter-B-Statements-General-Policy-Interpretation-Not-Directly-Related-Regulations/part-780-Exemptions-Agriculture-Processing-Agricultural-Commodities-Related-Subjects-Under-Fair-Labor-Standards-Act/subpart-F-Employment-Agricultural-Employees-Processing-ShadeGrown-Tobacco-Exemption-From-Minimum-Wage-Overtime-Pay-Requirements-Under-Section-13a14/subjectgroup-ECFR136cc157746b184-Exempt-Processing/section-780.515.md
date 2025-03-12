@@ -1,0 +1,3 @@
+##### § 780.515 Processing requirements of section 13(a)(14). #####
+
+When it has been determined that an employee is an “agricultural employee employed in the growing and harvesting of shade-grown tobacco,” to whom section 13(a)(14) of the Act may apply, it then becomes necessary to ascertain whether he is “engaged in the processing \* \* \* of such tobacco, prior to the stemming process, for use as Cigar-wrapper tobacco.”

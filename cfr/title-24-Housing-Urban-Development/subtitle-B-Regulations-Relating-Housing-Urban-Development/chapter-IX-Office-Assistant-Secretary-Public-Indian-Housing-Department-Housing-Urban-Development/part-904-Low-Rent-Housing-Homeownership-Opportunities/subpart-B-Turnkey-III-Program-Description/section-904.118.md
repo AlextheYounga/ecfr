@@ -1,0 +1,11 @@
+##### § 904.118 Homeowners association—planned unit development (PUD). #####
+
+If the development is organized as a planned unit development:
+
+(a) *Ownership and maintenance of common property.* The common areas, sidewalks, parking lots, and other common property in the development shall be owned and maintained as provided for in the approved planned unit development (PUD) program except that the LHA shall be responsible for maintenance until such time as the homeowners association assumes such responsibility (see § 904.112(d)).
+
+(b) *Title restrictions.* The title ultimately conveyed to each homebuyer shall be subject to restrictions and encumbrances to protect the rights and property of all other owners. The homeowners association shall have the right and obligation to enforce such restrictions and encumbrances and to assess owners for the costs incurred in connection with common areas and property and other responsibilities.
+
+(c) *Votes in association.* There shall be as many votes in the association as there are homes in the development, and, at the outset, all the voting rights shall be held by the LHA. As each home is conveyed to the homebuyer, one vote shall automatically go to the homeowner so that, when all the homes have been conveyed, the LHA shall no longer have any interest in the homeowners association.
+
+(d) *Voting control.* The LHA shall not lose its majority voting interest in the association as soon as a majority of the homes have been conveyed, unless the law of the state requires control to be transferred at a particular time, or the LHA so desires. If permitted by state law, provision shall be made for each home owned by the LHA to carry three votes, while each home owned by a homeowner shall carry one vote. Under this weighted voting plan, the LHA shall continue to have voting control until 75 percent of the homes have been acquired by homeowners. However, at its discretion, the LHA may transfer voting control to the homeowners when at least 50 percent of the homes have been acquired by the homeowners.

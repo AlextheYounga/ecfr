@@ -1,0 +1,3 @@
+##### § 162.11 Authority to procure warrants. #####
+
+Customs officers are authorized to procure search warrants under the provisions of section 595, Tariff Act of 1930, as amended (19 U.S.C. 1595). However, a Customs officer who is lawfully on any premises and is able to identify merchandise which has been imported contrary to law may seize such merchandise without a warrant. If merchandise is in a building on the boundary, see § 123.71 of this chapter.

@@ -1,0 +1,5 @@
+##### § 18.83 Determination to cancel the hearing. #####
+
+(a) If the presiding officer determines that no issues of material fact are presented by the direct testimony submitted prior to the date of the hearing, he may publish in the Federal Register such determination and that on issues of material fact a hearing shall not be held. The presiding officer may provide an opportunity for argument on any issues of law presented by the direct testimony.
+
+(b) Promptly after oral argument, if any, the presiding officer shall make a recommended decision based on the record, which in this case shall consist of the direct testimony and any oral argument presented. He shall transmit to the Director his recommended decision, the record and a certificate stating that the record contains all the written direct testimony. The Director shall then make a final decision in accordance with these regulations (§ 18.91).

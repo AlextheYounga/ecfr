@@ -1,0 +1,29 @@
+##### § 151.03 Definitions. #####
+
+(a) *The Act* means the Federal Fire Prevention and Control Act of 1974, 15 U.S.C. 2201 *et seq.*
+
+(b) *Additional firefighting costs over and above normal operating costs* means reasonable and authorized (or ratified by a responsible Federal official) costs ordinarily associated with the function of firefighting as performed by a fire service. Such costs would normally arise out of response of personnel and apparatus to the site of the fire, search and rescue, exposure protection, fire containment, ventilation, salvage, extinguishment, overhaul, and preparation of the equipment for further use. This would also include costs associated with emergency medical services to the extent normally rendered by a fire service in connection with a fire. Not included are administrative expenses, costs of employee benefits, insurance, disability, death, litigation or health care, and the costs associated with processing claims under section 11 of the Act and this part.
+
+(c) *Administrator* means the Administrator of the Federal Emergency Management Agency, or his/her designee.
+
+(d) *Claimant* means a fire service as defined in paragraph (g) of this section.
+
+(e) *Direct expenses and losses* means expenses and losses which would not have been incurred had not the fire in question taken place. This includes salaries for specially employed personnel, overtime pay, the cost of supplies expended, and the depreciated value of equipment destroyed or damaged. It does not include such costs as the ordinary wages of firefighters, overhead costs, or depreciation (if based on other than hours of use during fires). Expenses as defined herein would normally be incurred after the first call or alarm and would normally cease upon the first of the following: Return to station, report in-service and ready for further operations, or commence response to another incident.
+
+(f) *Fire* means any instance of destructive or uncontrolled burning, including scorch burns and explosions of combustible dusts or solids, flammable liquids, and gases. The definition does not include the following except where they cause fire or occur as a consequence of fire: Lightning or electrical discharge, explosion of steam boilers, hot water tanks, or other pressure vessels, explosions of ammunition or other detonating materials, overheating, mechanical failures, or breakdown of electrical equipment in power transmission facilities, and accidents involving ships, aircraft, or other vehicles. Not included in this definition are any costs associated with false alarms, regardless of cause.
+
+(g) *Fire service* means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a State, city, town, borough, parish, county, fire district, fire protection district, rural fire district, or other special district.
+
+(h) *Mutual aid agreement* means any reciprocal agreement whether written or oral between a Federal agency and the claimant fire service, or its parent jurisdiction, for the purpose of providing fire protection for the property of the United States upon which the fire which gave rise to the claim occurred and for other property for which the claimant normally provides fire protection. Such agreement must be primarily one of service rendered for service, or must be entered into under 42 U.S.C. 1856 through 1856d. Not included are all other agreements and contracts, particularly those in which the intent of the parties is that the United States pays for fire protection.
+
+(i) *FEMA* means the Federal Emergency Management Agency.
+
+(j) *Over and above normal operating expenses* means costs, losses and expenses which are not ordinarily and necessarily associated with the maintenance, administration, and day-to-day operations of a fire service and which would not have been incurred absent the fire out of which the claim arises.
+
+(k) *Payments to the fire service or its parent jurisdiction, including taxes or payments in lieu of taxes, the United States has made for the support of fire services on the property in question* means any Federal monies, or the value of services, including those made available through categorical or block grants, contracts, mutual aid agreements, taxes, and payments in lieu of taxes which the United States has paid to the fire service or its parent jurisdiction for fire protection and firefighting services. Such payments will be determined on the basis of the term of the arrangement, or if no such term is discernible, on the basis of the Federal fiscal year in which the fire occurred.
+
+(l) *Property which is under the jurisdiction of the United States* means real property and Federal improvements thereon and appurtenances thereto in which the United States holds legal fee simple title. This excludes Federal leasehold interests. This likewise excludes Federal personal property on land in which the United States does not hold fee simple title.
+
+(m) *State* means any State of the United States of America, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, The Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+
+[49 FR 5929, Feb. 16, 1984, as amended at 74 FR 15344, Apr. 3, 2009]

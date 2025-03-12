@@ -1,0 +1,3 @@
+##### § 111.71 Immaterial mistakes. #####
+
+The Secretary of Homeland Security, or his designee, will disregard an immaterial misnomer of a third person, an immaterial mistake in the description of any person, thing, or place, or ownership of any property, any other immaterial mistake in the statement of charges, or a failure to prove immaterial allegations in the description of the broker's conduct.

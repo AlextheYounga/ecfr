@@ -1,0 +1,5 @@
+##### § 884.220 Adjustment of utility allowances. #####
+
+In connection with annual and special adjustments of contract rents, the owner must submit an analysis of the project's Utility Allowances. Such data as changes in utility rates and other facts affecting utility consumption should be provided as part of this analysis to permit appropriate adjustments in the Utility Allowances. In addition, when approval of a utility rate change would result in a cumulative increase of 10 percent or more in the most recently approved Utility Allowances, the project owner must advise the Secretary and request approval of new Utility Allowances. Whenever a Utility Allowance for a unit is adjusted, the owner will promptly notify affected families and make a corresponding adjustment of the tenant rent and the amount of the housing assistance payment for the unit.
+
+(Approved by the Office of Management and Budget under control number 2502-0161)[50 FR 39098, Sept. 27, 1985]

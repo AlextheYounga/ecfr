@@ -1,0 +1,5 @@
+##### § 10.100 Entry, examination, and tariff status. #####
+
+Except as otherwise provided for in §§ 10.101, 10.102, 10.104, 141.83(d)(8), 141.102(d), or elsewhere in this chapter, importations made by or for the account of any agency or office of the United States Government are subject to the usual Customs entry and examination requirements. In the absence of express exemptions from duty, such as are contained in subheadings 9808.00.10, 9808.00.20, 9808.00.30, 9808.00.40, 9808.00.50, 9808.00.60, 9808.00.70, or other subheadings in the Harmonized Tariff Schedule of the United States (19 U.S.C. 1202) providing for free entry, such importations are also subject to duty.
+
+[T.D. 77-23, 42 FR 2310, Jan. 11, 1977, as amended by T.D. 89-1, 53 FR 51251, Dec. 21, 1988; T.D. 97-82, 62 FR 51769, Oct. 3, 1997]

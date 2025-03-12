@@ -1,0 +1,3 @@
+##### § 207.17 Staff report. #####
+
+Prior to the Commission's preliminary determination, the Director shall submit to the Commission a staff report. A public version of the staff report shall be made available to the public after the Commission's preliminary determination and a business proprietary version shall also be made available to persons authorized to receive business proprietary information under § 207.7.

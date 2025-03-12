@@ -1,0 +1,3 @@
+##### § 1000.138 What constitutes adequate insurance? #####
+
+Insurance is adequate if it is a purchased insurance policy from an insurance provider or a plan of self-insurance in an amount that will protect the financial stability of the recipient's IHBG program. Recipients may purchase the required insurance without regard to competitive selection procedures from nonprofit insurance entities which are owned and controlled by recipients and which have been approved by HUD.

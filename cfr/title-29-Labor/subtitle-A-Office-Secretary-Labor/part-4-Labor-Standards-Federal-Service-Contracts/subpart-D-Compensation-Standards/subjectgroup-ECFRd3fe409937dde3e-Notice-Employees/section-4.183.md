@@ -1,0 +1,3 @@
+##### § 4.183 Employees must be notified of compensation required. #####
+
+The Act, in section 2(a)(4), and the regulations thereunder in § 4.6(e), require all contracts subject to the Act which are in excess of $2,500 to contain a clause requiring the contractor or subcontractor to notify each employee commencing work on a contract to which the Act applies of the compensation required to be paid such employee under section 2(a)(1) and the fringe benefits required to be furnished under section 2(a)(2). A notice form (WH Publication 1313 and any applicable wage determination) provided by the Wage and Hour Division is to be used for this purpose. It may be delivered to the employee or posted as stated in § 4.184.

@@ -1,0 +1,5 @@
+##### § 970.516 Approval of license transfers. #####
+
+(a) The Administrator may transfer a license after a written request by the licensee. After a licensee submits such a request to the Administrator, the proposed transferee will be deemed an applicant for an exploration license, and will be subject to the requirements and procedures of this part.
+
+(b) The Administrator will transfer a license if the proposed transferee and exploration activities meet the requirements of the Act and this part, and if the proposed transfer is in the public interest. The Administrator will presume that the transfer is in the public interest if it meets the requirements of the Act and this part. In case of mere change in the form or ownership of a licensee, the Administrator may waive relevant determinations for requirements for which no changes have occurred since the preceding application.

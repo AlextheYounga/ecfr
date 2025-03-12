@@ -1,0 +1,3 @@
+##### § 516.21 Bulk petroleum employees partially exempt from overtime pay requirements pursuant to section 7(b)(3) of the Act. #####
+
+With respect to each employee partially exempt from the overtime provisions of the Act pursuant to section 7(b)(3), the employer shall maintain and preserve records containing all the information and data required by § 516.2(a), and, in addition, shall record the daily as well as the weekly overtime compensation paid to the employees, the rate per hour and the total pay for time worked between the 40th and 56th hour of the workweek.

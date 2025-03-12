@@ -1,0 +1,5 @@
+##### § 191.154 Filing the entry. #####
+
+(a) *Direct export.* At least 6 working hours before lading the merchandise on which drawback is claimed under this subpart, the importer or the agent designated by him in writing shall file with the drawback office a direct export drawback entry on Customs Form 7551 in duplicate.
+
+(b) *Merchandise transported to another port for exportation.* The importer of merchandise to be transported to another port for exportation shall file in triplicate with the drawback office an entry naming the transporting conveyance, route, and port of exit. The drawback office shall certify one copy and forward it to the Customs office at the port of exit. A bonded carrier shall transport the merchandise in accordance with the applicable regulations. Manifests shall be prepared and filed in the manner prescribed in § 144.37 of this chapter.

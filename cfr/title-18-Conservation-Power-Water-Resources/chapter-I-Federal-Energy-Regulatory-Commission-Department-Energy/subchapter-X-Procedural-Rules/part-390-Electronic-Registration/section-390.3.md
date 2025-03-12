@@ -1,0 +1,9 @@
+##### § 390.3 Waiver applications. #####
+
+(a) A person may satisfy the requirement of Sec. 390.1 by submitting a written statement showing good cause why the person is unable to register electronically, and including the name and address of the person serving as a contact. The statement must be mailed to the Secretary, Federal Energy Regulatory Commission, 888 First Street, NE., Washington, DC 20426, or hand delivered to Room 1A at the same address.
+
+(b) Persons who register pursuant to paragraph (a) of this section will receive a unique numeric identifier that must appear on all paper submissions to the Commission. A submission that does not include the identifier will be rejected. Notification of such rejection will be sent to the submitter at the address indicated on the paper submission. A request for a waiver may be submitted simultaneously with a document submitted for filing. If the waiver is granted, the Secretary will add the assigned numeric identifier to the submitted document(s), but will not do so for subsequent submissions.
+
+(c) A waiver under paragraph (a) of this section will be valid for one year from the date of issuance by the Secretary. The Secretary will send notice of the pending expiration to the registered person's address of record approximately three months prior to the expiration of the waiver. After the waiver expires, a person wishing to engage in any of the activities listed in § 390.2 must comply with § 390.1, or must apply for another waiver under paragraph (a) of this section.
+
+[Order 891, 67 FR 52410, Aug. 12, 2002, as amended at 70 FR 21332, Apr. 26, 2005]

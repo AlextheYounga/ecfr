@@ -1,0 +1,3 @@
+##### § 779.111 Buyers and their assistants. #####
+
+Buyers and their assistants, employed by retail businesses, as a regular part of their duties, generally travel across State lines, or use the mails, telegraph, or telephone for interstate communication to order goods; or they regularly send or receive, across State lines, written reports, messages or other documents. These activities of such employees constitute engagement “in commerce” within the meaning of the Act.

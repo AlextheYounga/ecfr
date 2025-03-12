@@ -1,0 +1,19 @@
+##### § 12.40 Seizure; disposition of seized articles; reports to United States attorney. #####
+
+(a) Any book, pamphlet, paper, writing, advertisement, circular, print, picture, or drawing containing any matter advocating or urging treason or insurrection against the United States or forcible resistance to any law of the United States, or containing any threat to take the life of or inflict bodily harm upon any person in the United States, seized under section 305, Tariff Act of 1930, shall be transmitted to the United States attorney for his consideration and action.
+
+(b) Upon the seizure of articles or matter prohibited entry by section 305, Tariff Act of 1930 (with the exception of the matter described in paragraph (a) of this section), a notice of the seizure of such articles or matter shall be sent to the consignee or addressee.
+
+(c) When articles of the class covered by paragraph (b) of this section are of small value and no criminal intent is apparent, a blank assent to forfeiture, Customs Form 4607, shall be sent with the notice of seizure. Upon receipt of the assent to forfeiture duly executed, the articles shall be destroyed if not needed for official use and the case closed.
+
+(d) In the case of a repeated offender or when the facts indicate that the importation was made deliberately with intent to evade the law, the facts and evidence shall be submitted to the United States attorney for consideration of prosecution of the offender as well as an action in rem under section 305 for condemnation of the articles.
+
+(e) All cases in which articles have been seized pursuant to 19 U.S.C. 1305(a) should be referred to the U.S. Attorney, for possible institution of condemnation proceedings, within 4 days, but in no event more than 14 days, after the date of Customs initial examination. The referral to the U.S. Attorney should be initiated simultaneously with the mailing to the importer of the seizure notice and the assent to forfeiture form. If the importer declines to execute an assent to forfeiture of the articles other than those mentioned in paragraph (a) of this section and fails to submit, within 30 days after being notified of his privilege to do so, a petition under section 618, Tariff Act of 1930 (19 U.S.C. 1618), for remission of the forfeiture and permission to export the seized articles, then the U.S. Attorney, who has already received information concerning the seizure pursuant to this paragraph, may proceed with the condemnation action.
+
+(f) If seizure is made of books or other articles which do not contain obscene matter but contain information or advertisements relative to means of causing unlawful abortion, the procedure outlined in paragraphs (b), (c), (d), and (e) of this section shall be followed.
+
+(g) In any case when a book is seized as being obscene and the importer declines to execute an assent to forfeiture on the ground that the book is a classic, or of recognized and established literary or scientific merit, a petition addressed to the Secretary of the Treasury with evidence to support the claim may be filed by the importer for release of the book. Mere unsupported statements or allegations will not be considered. If the ruling is favorable, release of such book shall be made only to the ultimate consignee.
+
+(h) Whenever it clearly appears from information, instructions, advertisements enclosed with or appearing on any drug or medicine or its immediate or other container, or otherwise that such drug or medicine is intended for inducing unlawful abortion, such drug or medicine shall be detained or seized.
+
+[28 FR 14710, Dec. 31, 1963, as amended by T.D. 71-165, 36 FR 12209, June 29, 1971; T.D. 76-261, 41 FR 39022, Sept. 14, 1976; T.D. 82-145, 47 FR 35477, Aug. 16, 1982; T.D. 85-186, 50 FR 47207, Nov. 15, 1985; T.D. 93-66, 58 FR 44130, Aug. 19, 1993]

@@ -1,0 +1,3 @@
+##### § 50.16 Decision points for policy actions. #####
+
+Either an EA and FONSI or an EIS on all policy actions not meeting the criteria of § 50.19 shall be completed prior to the approval action. Policy actions include all proposed Federal Register policy documents and other policy-related Federal actions (40 CFR 1508.18). The decision as to whether a proposed policy action is categorically excluded from an EA shall be made by the Program Environmental Clearance Officer (PECO) in Headquarters as early as possible. Where the PECO has any doubt as to whether a proposed action qualifies for exclusion, the PECO shall request a determination by the AS/CPD. The EA and FONSI may be combined into a single document.

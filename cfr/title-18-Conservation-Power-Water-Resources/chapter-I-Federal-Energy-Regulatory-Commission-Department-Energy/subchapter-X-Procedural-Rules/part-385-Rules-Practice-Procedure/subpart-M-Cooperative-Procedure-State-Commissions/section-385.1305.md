@@ -1,0 +1,25 @@
+##### § 385.1305 Joint and concurrent hearings (Rule 1305). #####
+
+(a) The term “joint hearing” used in sections 209 and 17, respectively, of the Federal Power and Natural Gas Acts is understood to cover any hearing in which members of the Commission and members of one or more State commissions may sit together in a proceeding pending before one such commission, whether or not a proceeding or proceedings involving similar or corresponding issues be pending before any other commission.
+
+(b) Two different types of proceedings have been called “joint hearings”. One is that type of proceeding where members of one or more State commissions sit with members of the Commission for information or in an advisory capacity. The State commissioners in such case do not develop a record for their respective commissions and may not, at their own discretion, make a recommendation to the Commission. The other type of joint hearing is often referred to as a “concurrent hearing”. Under this procedure the Commission and one or more State commissions sit together to hear and jointly make a record upon a matter over which all of the participating commissions have jurisdiction and responsibility for action.
+
+(c) The Commission or any State commission or commissions should feel free to suggest or request a joint or concurrent hearing at any time. It is believed that the concurrent hearing is the type of cooperative hearing which is likely to be most useful and effective.
+
+(d) Whenever a concurrent hearing has been agreed upon by the Commission and one or more State commissions, the procedure will be:
+
+(1) Each commission will designate the representative or representatives of such commission to sit at such concurrent hearing, and will designate the representative who will be the presiding officer for such commission.
+
+(2) It will be understood that participation in such concurrent hearing will in no way affect the complete control by each commission of the proceeding before it. It will be understood, also, that participation in either a joint or concurrent hearing will in no way preclude any commission from causing to be presented in any such case pertinent evidence with respect to matters in issue.
+
+(3) The representative designated by the Commission will be the presiding officer to announce rulings with respect to which there is no disagreement; and such rulings will be considered concurrent rulings. However, the presiding officer for any commission which does not concur in any ruling may announce a divergent ruling and such divergent ruling, whether with respect to the admissibility of evidence or any other matter, will be considered the ruling for his or her commission.
+
+(4) The record of the concurrent hearing will be the record of each commission participating, except that, if divergent rulings are made, the rulings will be reported so as to separate and distinguish clearly the record of the respective participating commissions and the evidence admitted in each record, in accordance with the rulings of the respective commissions. If, in any proceeding, the ruling of one presiding officer has the effect of admitting any voluminous exhibit or testimony which is excluded by the ruling of another presiding officer, the taking of such evidence, whenever possible, will be deferred until after the completion of the proceedings which can be conducted under concurrent rulings. When such testimony is taken, the transcript of such evidence will be made available to the participating commissions, if desired.
+
+(5) In all respects concerning which there is no divergence of ruling, the hearing will be conducted in accordance with the rules of practice and procedure prescribed by the Commission, subject to the express understanding that each participating State commission will control its own record and make its own rulings as to the admissibility of evidence and as to other matters affecting its proceedings, and will make its own separate final decision or order therein.
+
+(e) Before either the Commission or a participating State commission will enter any order or orders in a concurrent proceeding, opportunity will be afforded for conference between the Commission and the State commissions participating.
+
+(f) Whenever a joint hearing other than a concurrent hearing is agreed upon, the commissioners which take part therein will agree upon the procedure to be followed in such hearing in advance of the opening of the same. With respect to any concurrent hearing, a special agreement may be made by the commissions taking part therein for a procedure or action differing from that outlined in this plan.
+
+(g) Cooperation between two or more commissions in a concurrent hearing will preclude either from taking the position of an advocate or a litigant. If a commission wishes to take such a position, it will not be a cooperating participant in that proceeding. In such situation the appropriate method of procedure will be intervention under Rule 214.

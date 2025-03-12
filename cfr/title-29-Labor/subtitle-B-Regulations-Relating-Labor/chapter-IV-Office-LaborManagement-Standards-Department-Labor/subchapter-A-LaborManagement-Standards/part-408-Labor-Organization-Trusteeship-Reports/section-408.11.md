@@ -1,0 +1,3 @@
+##### § 408.11 Dissemination and verification of reports. #####
+
+Every labor organization required to submit a report shall make available the information required to be contained in such report to all of its members, and every such labor organization and its officers shall be under a duty to permit such member for just cause to examine any books, records, and accounts necessary to verify such report.

@@ -1,0 +1,5 @@
+##### § 776.14 Elements of “production” coverage. #####
+
+Sections 6 and 7 of the Act, as has been noted, cover not only employees who are engaged “in commerce” as explained above, but also “each” and “any” employee who is engaged in the “production” of “goods” for “commerce”. What employees are so engaged can be determined only by references to the very comprehensive definitions which Congress has supplied to make clear what is meant by “production”, by “goods,” and by “commerce” as those words are used in sections 6 and 7. In the light of these definitions, there are three interrelated elements of coverage to be considered in determining whether an employee is engaged in the production of goods for commerce: (a) There must be “production”; (b) such production must be of “goods”; (c) such production of goods must be “for commerce”; all within the meaning of the Act.51 The three elements of “production” coverage are discussed in order in the sections following.
+
+51 These elements need not be considered if the employee would be covered in any event because engaged “in commerce” under the principles discussed in preceding sections of this part.

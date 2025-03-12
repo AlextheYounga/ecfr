@@ -1,0 +1,3 @@
+##### § 81.66 Submission of reports. #####
+
+Each GSE shall submit all hard copy reports or other written information required under this subpart to the Secretary and the Director, Office of Government-Sponsored Enterprises. Each GSE shall submit computerized data required under this subpart to the Director, Financial Institutions Regulations, Office of Policy Development and Research. The address for both of these offices is Department of Housing and Urban Development, 451 7th Street, SW. Washington, DC 20410.

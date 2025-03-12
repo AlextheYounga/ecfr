@@ -1,0 +1,3 @@
+##### § 260.27 Issuance of corrected certificates. #####
+
+A corrected inspection certificate may be issued by the inspector who issued the original certificate after distribution of a certificate if errors, such as incorrect dates, code marks, grade statements, lot or car numbers, container sizes, net or drained weights, quantities, or errors in any other pertinent information require the issuance of a corrected certificate. Whenever a corrected certificate is issued, such certificate shall supersede the inspection certificate which was issued in error and the superseded certificate shall become null and void after the issuance of the corrected certificate.

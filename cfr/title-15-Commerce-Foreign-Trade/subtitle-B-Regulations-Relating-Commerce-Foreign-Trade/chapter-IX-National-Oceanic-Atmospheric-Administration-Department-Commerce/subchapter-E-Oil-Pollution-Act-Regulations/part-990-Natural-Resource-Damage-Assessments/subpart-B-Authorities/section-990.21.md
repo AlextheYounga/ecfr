@@ -1,0 +1,3 @@
+##### § 990.21 Relationship to the NCP. #####
+
+This part provides procedures by which trustees may determine appropriate restoration of injured natural resources and services, where such injuries are not fully addressed by response actions. Response actions and the coordination with damage assessment activities are conducted pursuant to the National Oil and Hazardous Substances Pollution Contingency Plan (NCP), 40 CFR part 300.

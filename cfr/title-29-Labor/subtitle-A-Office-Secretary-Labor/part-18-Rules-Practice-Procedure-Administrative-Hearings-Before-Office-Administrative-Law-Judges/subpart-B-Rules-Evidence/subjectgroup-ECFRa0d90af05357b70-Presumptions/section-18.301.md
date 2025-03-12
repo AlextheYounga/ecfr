@@ -1,0 +1,3 @@
+##### § 18.301 Presumptions in general. #####
+
+Except as otherwise provided by Act of Congress, or by rules or regulations prescribed by the administrative agency pursuant to statutory authority, or pursuant to executive order, a presumption imposes on the party against whom it is directed the burden of going forward with evidence to rebut or meet the presumption, but does not shift to such party the burden of proof in the sense of the risk of nonpersuasion, which remains throughout the trial upon the party on whom it was originally cast.

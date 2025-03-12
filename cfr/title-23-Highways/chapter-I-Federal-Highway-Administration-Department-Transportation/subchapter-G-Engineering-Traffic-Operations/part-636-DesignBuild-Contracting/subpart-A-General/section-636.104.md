@@ -1,0 +1,3 @@
+##### § 636.104 Does this part apply to all Federal-aid design-build projects? #####
+
+The provisions of this part apply to all Federal-aid design-build projects within the highway right-of-way or linked to a Federal-aid highway project (*i.e.,* the project would not exist without another Federal-aid highway project). Projects that are not located within the highway right-of-way, and not linked to a Federal-aid highway project may utilize State-approved procedures.

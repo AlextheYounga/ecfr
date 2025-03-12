@@ -1,0 +1,5 @@
+##### § 710.6 Relationship between the Chemical Weapons Convention Regulations and the Export Administration Regulations, the International Traffic in Arms Regulations, and the Alcohol, Tobacco, Firearms and Explosives Regulations. #####
+
+Certain obligations of the U.S. Government under the CWC pertain to exports and imports. The obligations on exports are implemented in the Export Administration Regulations (EAR) (15 CFR parts 730 through 774) and the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120 through 130). See in particular §§ 742.2 and 742.18 and part 745 of the EAR, and Export Control Classification Numbers 1C350, 1C351, 1C355 and 1C395 of the Commerce Control List (supplement no. 1 to part 774 of the EAR). The obligations on imports are implemented in the Chemical Weapons Convention Regulations (§§ 712.2 and 713.1) and the Alcohol, Tobacco, Firearms and Explosives Regulations in 27 CFR part 447.
+
+[71 FR 24929, Apr. 27, 2006, as amended at 73 FR 78182, Dec. 22, 2008]

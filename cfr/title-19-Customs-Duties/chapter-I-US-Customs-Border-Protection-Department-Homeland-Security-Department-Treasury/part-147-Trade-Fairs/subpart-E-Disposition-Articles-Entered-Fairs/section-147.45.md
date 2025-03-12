@@ -1,0 +1,5 @@
+##### § 147.45 Merchandise from a foreign-trade zone. #####
+
+Articles entered for a fair from a foreign-trade zone status of “zone-restricted merchandise” can afterwards be entered for consumption from a fair if the Foreign-Trade Zones Board has approved the entry for consumption as being in the public interest. Articles entered in the above manner are subject to the provisions of subheading 9801.00.70, if aircraft, or subheading 9801.00.80, if not aircraft, unless excluded by U.S. Note 1(c), Chapter 98, Subchapter I, Harmonized Tariff Schedule of the United States.
+
+(R.S. 251, as amended; secs. 1-21, 48 Stat. 998, 999, as amended; 1000, 1002, as amended, 1003, 77A Stat. 14, sec. 624, 46 Stat. 759 (19 U.S.C 66, 81a-81u, 1202 (Gen, Hdnt. 11)1624))[T.D. 83-240, 48 FR 53098, Nov. 24, 1983, as amended by T.D. 89-1, 53 FR 51263, Dec. 21, 1988]

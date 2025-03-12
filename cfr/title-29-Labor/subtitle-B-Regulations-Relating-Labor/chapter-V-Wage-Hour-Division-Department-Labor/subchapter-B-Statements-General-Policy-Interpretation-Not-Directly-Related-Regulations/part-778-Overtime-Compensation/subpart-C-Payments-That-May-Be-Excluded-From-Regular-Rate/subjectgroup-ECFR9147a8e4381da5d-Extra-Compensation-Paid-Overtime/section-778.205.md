@@ -1,0 +1,5 @@
+##### § 778.205 Premiums for weekend and holiday work - example. #####
+
+The application of section 7(e)(6) may be illustrated by the following example: Suppose an agreement of employment calls for the payment of $7.50 an hour for all hours worked on a holiday or on Sunday in the operation of machines by operators whose maximum hours standard is 40 hours and who are paid a bona fide hourly rate of $5 for like work performed during nonovertime hours on other days. Suppose further that the workweek of such an employee begins at 12:01 a.m. Sunday, and in a particular week he works a schedule of 8 hours on Sunday and on each day from Monday through Saturday, making a total of 56 hours worked in the workweek. Tuesday is a holiday. The payment of $320 to which the employee is entitled under the employment agreement will satisfy the requirements of the Act since the employer may properly exclude from the regular rate the extra $20 paid for work on Sunday and the extra $20 paid for holiday work and credit himself with such amount against the statutory overtime premium required to be paid for the 16 hours worked over 40.
+
+[46 FR 7311, Jan. 23, 1981]

@@ -1,0 +1,3 @@
+##### § 1905.30 Decision of the Assistant Secretary. #####
+
+If exceptions to a decision of a hearing examiner are taken pursuant to § 1905.28, the Assistant Secretary shall upon consideration thereof, together with the record references and authorities cited in support thereof, and any objections to exceptions and supporting reasons, make his decision. The decision may affirm, modify, or set aside, in whole or part, the findings, conclusions, and the rule or order contained in the decision of the presiding hearing examiner, and shall include a statement of reasons or bases for the actions taken on each exception presented.

@@ -1,0 +1,3 @@
+##### § 95.3 Effect on other issuances. #####
+
+For awards subject to this part, all administrative requirements of codified program regulations, program manuals, handbooks and other nonregulatory materials which are inconsistent with the requirements of this part shall be superseded, except to the extent they are required by statute, or authorized in accordance with the deviations provision in § 95.4.

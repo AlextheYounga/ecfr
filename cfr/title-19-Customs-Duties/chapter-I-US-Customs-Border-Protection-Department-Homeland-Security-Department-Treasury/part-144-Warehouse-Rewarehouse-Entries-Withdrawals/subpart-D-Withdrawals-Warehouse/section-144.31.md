@@ -1,0 +1,3 @@
+##### § 144.31 Right to withdraw. #####
+
+Withdrawals from bonded warehouse may be made only by the person primarily liable for the payment of duties on the merchandise being withdrawn, *i.e.*, the importer of record on the warehouse entry, the actual owner if an actual owner's declaration and superseding bond have been filed in accordance with § 141.20 of this chapter, or the transferee if the right to withdraw the merchandise has been transferred in accordance with subpart C of this part. No new declaration of the consignee or agent is required.

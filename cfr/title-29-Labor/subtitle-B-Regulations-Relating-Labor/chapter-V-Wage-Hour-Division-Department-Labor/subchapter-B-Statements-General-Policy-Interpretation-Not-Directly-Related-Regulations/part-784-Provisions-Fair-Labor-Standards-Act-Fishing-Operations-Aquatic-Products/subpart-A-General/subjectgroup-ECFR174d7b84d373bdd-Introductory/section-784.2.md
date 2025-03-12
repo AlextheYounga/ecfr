@@ -1,0 +1,3 @@
+##### § 784.2 Matters discussed in this part. #####
+
+This part discusses generally the provisions of the Act which govern its application to employers and employees in enterprises and establishments of the fisheries, seafood processing, and related industries. It discusses in some detail those exemption provisions of the Act in sections 13(a)(5) and 13(b)(4) which refer specifically to employees employed in described activities with respect to seafood and other forms of aquatic life.

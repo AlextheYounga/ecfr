@@ -1,0 +1,3 @@
+##### § 96.43 Relation of organization-wide audits to other audit requirements. #####
+
+To the extent that audits conducted in accordance with subpart A provide DOL officials with the information needed to carry out their responsibilities under Federal law or DOL regulations, the Secretary shall rely upon and use the information. Additional audit efforts are not precluded, but such efforts must build upon the organization-wide audit and not duplicate it. The provisions of subpart A do not authorize a covered entity, after having complied with those requirements, to constrain, in any manner, the Secretary from carrying out additional surveys, audits, or examinations as deemed necessary.

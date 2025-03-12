@@ -1,0 +1,3 @@
+##### § 1905.28 Exceptions. #####
+
+Within 20 days after service of a decision of a presiding hearing examiner, any party may file with the hearing examiner written exceptions thereto with supporting reasons. Such exceptions shall refer to the specific findings of fact, conclusions of law, or terms of the rule or order excepted to, the specific pages of transcript relevant to the suggestions, and shall suggest corrected findings of fact, conclusions of law, or terms of the rule or order. Upon receipt of any exceptions, the hearing examiner shall fix a time for filing any objections to the exceptions and any supporting reasons.

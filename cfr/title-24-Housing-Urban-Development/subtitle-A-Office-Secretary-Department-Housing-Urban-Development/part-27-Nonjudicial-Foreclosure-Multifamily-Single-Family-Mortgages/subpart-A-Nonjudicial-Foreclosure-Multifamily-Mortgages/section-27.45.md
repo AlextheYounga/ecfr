@@ -1,0 +1,5 @@
+##### § 27.45 Transfer of title and possession. #####
+
+(a) If the Secretary is the successful bidder, the foreclosure commissioner shall issue a deed to the Secretary upon receipt of the amount needed to pay the costs listed in sections 369D (1) through (3) of the Act (12 U.S.C. 3712(1) through (3)). If the Secretary is not the successful bidder, the foreclosure commissioner shall issue a deed to the purchaser upon receipt of the entire purchase price and execution by the Secretary and the purchaser of any use agreement referred to in § 27.20(e). Any covenants reflecting terms required by § 27.20 shall be contained in the commissioner's deed.
+
+(b) Subject to any terms required to be agreed to by § 27.20, any commercial tenant and any residential tenant remaining in possession after the expiration of his or her lease or after the passage of one year, whichever event occurs first, shall be deemed a tenant at sufferance and may be evicted in accordance with applicable State or local law.

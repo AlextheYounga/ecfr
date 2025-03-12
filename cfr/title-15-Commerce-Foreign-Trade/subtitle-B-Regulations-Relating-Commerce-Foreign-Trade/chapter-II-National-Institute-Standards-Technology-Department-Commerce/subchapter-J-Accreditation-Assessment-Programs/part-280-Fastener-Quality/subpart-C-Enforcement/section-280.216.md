@@ -1,0 +1,3 @@
+##### § 280.216 Proceeding without a hearing. #####
+
+If the parties have waived a hearing, the case will be decided on the record by the administrative law judge. Proceeding without a hearing does not relieve the parties from the necessity of proving the facts supporting their charges or defenses. Affidavits or declarations, depositions, admissions, answers to interrogatories and stipulations may supplement other documentary evidence in the record. The administrative law judge will give each party reasonable opportunity to file rebuttal evidence.

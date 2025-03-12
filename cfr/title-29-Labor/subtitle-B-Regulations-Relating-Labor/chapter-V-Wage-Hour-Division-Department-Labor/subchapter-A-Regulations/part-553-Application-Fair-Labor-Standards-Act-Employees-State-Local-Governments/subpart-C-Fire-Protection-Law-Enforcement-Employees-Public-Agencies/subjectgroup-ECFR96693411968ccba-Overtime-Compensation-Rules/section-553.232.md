@@ -1,0 +1,3 @@
+##### § 553.232 Overtime pay requirements. #####
+
+If a public agency pays employees subject to section 7(k) for overtime hours worked in cash wages rather than compensatory time off, such wages must be paid at one and one-half times the employees' regular rates of pay. In addition, employees who have accrued the maximum 480 hours of compensatory time must be paid cash wages of time and one-half their regular rates of pay for overtime hours in excess of the maximum for the work period set forth in § 553.230.

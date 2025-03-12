@@ -1,0 +1,3 @@
+##### § 502.39 Service upon attorneys for the Department of Labor—number of copies. #####
+
+Two copies of all pleadings and other documents required for any administrative proceeding provided herein shall be served on the attorneys for the DOL. One copy shall be served on the Associate Solicitor, Division of Fair Labor Standards, Office of the Solicitor, U.S. Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210, and one copy on the Attorney representing the Department in the proceeding.

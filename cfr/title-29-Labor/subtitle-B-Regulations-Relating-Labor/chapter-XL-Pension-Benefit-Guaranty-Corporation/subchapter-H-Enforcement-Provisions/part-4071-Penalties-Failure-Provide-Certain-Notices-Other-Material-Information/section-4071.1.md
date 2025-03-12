@@ -1,0 +1,3 @@
+##### § 4071.1 Purpose and scope. #####
+
+This part specifies the maximum daily amount of penalties that may be assessed by the PBGC under ERISA section 4071 for certain failures to provide notices or other material information, as such amount has been adjusted to account for inflation pursuant to the Federal Civil Monetary Penalty Inflation Adjustment Act of 1990, as amended by the Debt Collection Improvement Act of 1996.

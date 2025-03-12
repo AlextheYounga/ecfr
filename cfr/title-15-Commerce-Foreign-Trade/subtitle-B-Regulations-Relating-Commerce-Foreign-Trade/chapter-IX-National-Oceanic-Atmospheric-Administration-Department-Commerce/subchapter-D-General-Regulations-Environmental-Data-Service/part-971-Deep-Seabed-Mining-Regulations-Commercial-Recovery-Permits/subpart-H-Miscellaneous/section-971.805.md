@@ -1,0 +1,3 @@
+##### § 971.805 Computation of time. #####
+
+Except where otherwise specified, Saturdays, Sundays and Federal Government holidays will be included in computing the time period allowed for filing any document or paper under this part or 15 CFR part 970, but when a time period expires on any of these days, that time period will be extended to include the next following Federal Government work day. Filing periods expire at the close of business on the day specified, for the office specified.

@@ -1,0 +1,3 @@
+##### § 219.2 Savings provision. #####
+
+Part 219, as it existed immediately before May 1, 1996, (contained in the April 1, 1995 edition of 24 CFR, parts 200 to 219) will continue to govern the rights and obligations of housing owners, tenants, and the Department of Housing and Urban Development with respect to units and projects assisted under the Flexible Subsidy Program for Troubled Projects prior to May 1, 1996. A list of any amendments to this part published after the CFR revision date is available from the Office of the Rules Docket Clerk, Department of Housing and Urban Development, 451 Seventh Street, SW., Washington, DC 20410.

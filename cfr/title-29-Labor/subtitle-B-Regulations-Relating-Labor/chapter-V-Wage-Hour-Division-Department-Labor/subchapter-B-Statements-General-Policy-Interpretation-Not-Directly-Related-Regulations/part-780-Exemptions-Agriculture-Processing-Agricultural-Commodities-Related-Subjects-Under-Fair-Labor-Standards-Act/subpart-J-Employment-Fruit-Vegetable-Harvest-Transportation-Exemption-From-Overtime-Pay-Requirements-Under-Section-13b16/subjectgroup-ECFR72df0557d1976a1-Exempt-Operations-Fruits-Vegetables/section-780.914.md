@@ -1,0 +1,3 @@
+##### § 780.914 “From the farm.” #####
+
+The exemption applies only to employees whose work relates to transportation of fruits or vegetables “from the farm.” The phrase “from the farm” makes it clear that the preparation of the fruits or vegetables should be performed on the farm and that the first movement of the commodities should commence at the farm. A “farm” has been interpreted under the Act to mean a tract of land devoted to one or more of the primary branches of farming outlined in the definition of “agriculture” in section 3(f) of the Act. These expressly include the cultivation and tillage of the soil and the growing and harvesting of any agricultural or horticultural commodities.

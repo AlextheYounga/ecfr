@@ -1,0 +1,3 @@
+##### § 891.865 Sanctions. #####
+
+In the event that Section 202 or 811 supportive housing units are not developed and operated in accordance with all applicable federal requirements, HUD may impose sanctions on the participating parties and seek legal or equitable relief in enforcing all requirements under Section 202, the Housing Act of 1959, or Section 811 of the National Affordable Housing Act, all implementing regulations and requirements and contractual obligations under the mixed-finance documents.

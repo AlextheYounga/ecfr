@@ -1,0 +1,3 @@
+##### § 452.121 Limitations on national or international officers serving as delegates. #####
+
+While officers of national or international labor organizations or of intermediate bodies who have been elected by a vote of the delegates to a convention may serve as delegates to conventions of their respective labor organizations if the constitution and bylaws so provide, they may not vote in officer elections at such conventions unless they have also been elected as delegates by a secret ballot vote of the members they are to represent. Of course, such officers may participate in the convention, i.e., they may preside over the convention, be nominated as candidates, or act in other capacities permitted under the organization's constitution and bylaws.

@@ -1,0 +1,5 @@
+##### § 382.105 Waiver. #####
+
+(a) *Filing of petition.* Any annual charges bill recipient may submit a petition for waiver of the regulations in this part. An original and two copies of a petition for waiver must include evidence, such as a financial statement, clearly showing either that the petitioner does not have the money to pay all or part of the annual charge, or, if the petitioner does pay the annual charge, that the petitioner will be placed in financial distress or emergency. Petitions for waiver must be filed with the Office of the Secretary of the Commission within 15 days of issuance of the bill.
+
+(b) *Decision on petition.* The Commission or its designee will review the petition for waiver and then will notify the applicant of its grant or denial, in whole or in part. If the petition is denied in whole or in part, the annual charge becomes due 30 days from the date of notification of the denial.

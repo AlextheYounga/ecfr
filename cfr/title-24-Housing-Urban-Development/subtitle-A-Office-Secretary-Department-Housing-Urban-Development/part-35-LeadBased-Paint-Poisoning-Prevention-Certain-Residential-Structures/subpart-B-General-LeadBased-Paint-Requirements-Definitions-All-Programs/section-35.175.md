@@ -1,0 +1,3 @@
+##### § 35.175 Records. #####
+
+The designated party, as specified in subparts C, D, and F through M of this part, shall keep a copy of each notice, evaluation, and clearance or abatement report required by subparts C, D, and F through M of this part for at least three years. Those records applicable to a portion of a residential property for which ongoing lead-based paint maintenance and/or reevaluation activities are required shall be kept and made available for the Department's review, until at least three years after such activities are no longer required.

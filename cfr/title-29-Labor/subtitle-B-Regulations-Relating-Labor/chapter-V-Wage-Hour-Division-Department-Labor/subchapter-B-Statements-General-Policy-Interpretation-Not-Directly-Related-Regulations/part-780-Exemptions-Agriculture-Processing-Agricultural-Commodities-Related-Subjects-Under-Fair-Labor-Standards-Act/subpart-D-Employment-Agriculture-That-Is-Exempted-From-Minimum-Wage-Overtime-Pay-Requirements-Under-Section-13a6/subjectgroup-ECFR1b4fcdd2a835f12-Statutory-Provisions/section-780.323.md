@@ -1,0 +1,3 @@
+##### § 780.323 Exemption for range production of livestock. #####
+
+Section 13(a)(6)(E) which was added to the Act by the Fair Labor Standards Amendments of 1966 provides an exemption from the minimum wage and overtime requirements of the Act for any employee “employed in agriculture” if he is “principally engaged in the range production of livestock.” It is apparent from the language of section 13(a)(6)(E) that the application of this exemption depends on the type of work performed by the individual employee for whom exemption is sought and on where the work is done. A determination of whether an employee is exempt therefore requires an examination of that employee's duties and where they are performed. Some employees of the employer may be exempt while others may not.

@@ -1,0 +1,5 @@
+##### § 9.1 Goal of program. #####
+
+(a) This program was initiated in response to the direction of President Nixon in his 1973 Energy Message that the Department of Commerce in cooperation with the Council on Environmental Quality and the Environmental Protection Agency develop a voluntary labeling program which would apply to energy-consuming home appliances.
+
+(b) The goal of this program is to encourage manufacturers to provide consumers, at the point of sale, with information on the energy consumption and energy efficiency of household appliances and equipment. Such information, presented in a uniform manner readily understandable to consumers, would be displayed on labels attached to or otherwise provided with the appliances or equipment. The labels will include a system intended to make it possible for consumers to compare by cost or otherwise the energy consumption and energy efficiency characteristics when purchasing household appliances and equipment and to select those that can effect savings in energy consumption.

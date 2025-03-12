@@ -1,0 +1,3 @@
+##### § 51.208 Reservation of administrative and legal rights. #####
+
+Publication of these standards does not constitute a waiver of any right: (a) Of HUD to disapprove a project proposal if the siting is too close to a potential hazard not covered by this subpart, and (b) of HUD or any person or other entity to seek to abate or to collect damages occasioned by a nuisance, whether or not covered by the subpart.

@@ -1,0 +1,3 @@
+##### § 212.26 Determination. #####
+
+The presiding officer shall issue a recommended determination on the application within 90 days after completion of proceedings on the application. The determination shall include written findings and conclusions on the applicant's eligibility and status as prevailing party, and an explanation of the reasons for any difference between the amount requested and the amount awarded. The determination shall also include, if at issue, findings on whether the position of the Commission investigative attorney was substantially justified, whether the applicant unduly protracted the proceedings, or whether special circumstances make an award unjust.

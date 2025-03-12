@@ -1,0 +1,3 @@
+##### § 0.737-8 Hearing decision and exceptions. #####
+
+The Examiner shall make a determination exclusively on matters of record in the proceeding, and shall set forth in the hearing decision all findings of fact and conclusions of law relevant to the matters at issue. The hearing decision of the Examiner shall be considered final agency administrative action unless either party files exceptions in writing to the Under Secretary, U.S. Department of Labor, 200 Constitution Avenue, Washington, DC 20210 within 30 days from the date of such hearing decision.

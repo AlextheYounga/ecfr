@@ -1,0 +1,3 @@
+##### § 330.35 Investors. #####
+
+Association guaranteed multiclass securities may not be suitable investments for all investors. No investor should purchase securities of any class unless the investor understands, and is able to bear, the prepayment, yield, liquidity and market risks associated with the class. The Association assumes no obligation or liability to any person with regard to determining the suitability of such securities for such investor.

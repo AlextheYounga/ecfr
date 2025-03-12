@@ -1,0 +1,9 @@
+##### § 1960.27 Representatives of officials in charge and representatives of employees. #####
+
+(a) Safety and health inspectors shall be in charge of inspections and may interview any employee in private if the inspector deems it necessary. A representative of the official in charge of a workplace and a representative of employees shall be given an opportunity to accompany Safety and Health Inspectors during the physical inspection of any workplace, both to aid the inspection and to provide such representatives with more detailed knowledge of any existing or potential unsafe or unhealthful working conditions. The representative of employees shall be selected by the employees. Additional representatives of the official in charge and additional representatives of employees may accompany the Safety and Health Inspectors if it is determined by the inspector that such additional representatives will further aid the inspection. Different representatives of the employer and employees may be allowed to accompany the Inspector during each different phase of an inspection.
+
+(b) Safety and health inspectors shall be authorized to deny the right of accompaniment under this section to any person whose participation interferes with a fair and orderly inspection.
+
+(c) With regard to facilities classified in the interest of national security, only persons authorized to have access to such facilities shall be allowed to accompany a Safety and Health Inspector in such areas.
+
+(d) Safety and health inspectors shall consult with employees concerning matters of occupational safety and health to the extent deemed necessary for the conduct of an effective and thorough inspection. During the course of an inspection, any employee shall be afforded an opportunity to bring to the attention of the Safety and Health Inspector any unsafe or unhealthful working condition which the employee has reason to believe exists in the workplace.

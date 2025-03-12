@@ -1,0 +1,5 @@
+##### § 528.6 Review. #####
+
+Any employer and, when appropriate, any apprenticeship agency or responsible school official, who expressed timely objection to the proposed action prior to issuance of an order of annulment or withdrawal may obtain review, limited to the question of whether the findings of fact support the order under the regulations in this part. Application for such review shall be in writing addressed to the Administrator and mailed within 15 days after the order is issued. The Administrator may affirm, modify, or reverse the order, or may remand it for further proceedings. The order under review shall not be stayed in effect pending such review. Any aggrieved person may obtain such review of an order entered in proceedings instituted under paragraph (c) of § 528.3.
+
+[21 FR 5316, July 17, 1956, as amended at 22 FR 5683, July 18, 1957]

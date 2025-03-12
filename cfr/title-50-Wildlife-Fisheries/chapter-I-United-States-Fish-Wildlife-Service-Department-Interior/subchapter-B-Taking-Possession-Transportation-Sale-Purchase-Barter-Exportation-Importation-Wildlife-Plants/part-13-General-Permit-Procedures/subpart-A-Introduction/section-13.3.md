@@ -1,0 +1,5 @@
+##### § 13.3 Scope of regulations. #####
+
+The provisions in this part are in addition to, and are not in lieu of, other permit regulations of this subchapter and apply to all permits issued thereunder, including “Importation, Exportation and Transportation of Wildlife” (part 14), “Wild Bird Conservation Act” (part 15), “Injurious Wildlife” (part 16), “Endangered and Threatened Wildlife and Plants” (part 17), “Marine Mammals” (part 18), “Migratory Bird Permits” (part 21), “Eagle Permits” (part 22), and “ Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)” (part 23). As used in this part 13, the term “permit” will refer to a license, permit, certificate, letter of authorization, or other document as the context may require, and to all such documents issued by the Service or other authorized U.S. or foreign government agencies.
+
+[70 FR 18317, Apr. 11, 2005, as amended at 79 FR 30417, May 27, 2014]

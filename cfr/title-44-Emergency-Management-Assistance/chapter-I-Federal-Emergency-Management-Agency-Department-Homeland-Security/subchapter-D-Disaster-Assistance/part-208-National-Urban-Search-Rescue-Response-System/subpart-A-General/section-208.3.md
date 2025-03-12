@@ -1,0 +1,5 @@
+##### § 208.3 Authority for the National US&R Response System. #####
+
+(a) *Enabling legislation.* The Federal Emergency Management Agency established and operated the System under the authority of §§ 303, 306(a), 306(b), 403(a)(3)(B) and 621(c) of the Stafford Act, 42 U.S.C. 5144, 5149(a), 5149(b), 5170b(a)(3)(B) and 5197(c), respectively. Section 503 of the Homeland Security Act of 2002, 6 U.S.C. 313, transferred the functions of the Administrator of FEMA to the Secretary of Homeland Security. The President redelegated to the Secretary of Homeland Security in Executive Order 13286 those authorities of the President under the Stafford Act that had been delegated previously to the Administrator of FEMA under Executive Order 12148.
+
+(b) *Implementing plan.* The National Response Plan identifies DHS as the primary Federal agency with responsibility for Emergency Support Function 9, Urban Search and Rescue.

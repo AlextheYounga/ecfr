@@ -1,0 +1,19 @@
+##### § 2003.8 General exemptions. #####
+
+(a) The systems of records entitled “Investigative Files of the Office of Inspector General,” “Hotline Complaint Files of the Office of Inspector General,” “Name Indices System of the Office of Inspector General,” and “AutoInvestigation of the Office of Inspector General” consist, in part, of information compiled by the OIG for the purpose of criminal law enforcement investigations. Therefore, to the extent that information in these systems falls within the scope of exemption (j)(2) of the Privacy Act, 5 U.S.C. 552a(j)(2), these systems of records are exempt from the requirements of the following subsections of the Privacy Act, for the reasons stated in paragraphs (a)(1) through (6) of this section.
+
+(1) From subsection (c)(3), because release of an accounting of disclosures to an individual who is the subject of an investigation could reveal the nature and scope of the investigation and could result in the altering or destruction of evidence, improper influencing of witnesses, and other evasive actions that could impede or compromise the investigation.
+
+(2) From subsection (d)(1), because release of investigative records to an individual who is the subject of an investigation could interfere with pending or prospective law enforcement proceedings, constitute an unwarranted invasion of the personal privacy of third parties, reveal the identity of confidential sources, or reveal sensitive investigative techniques and procedures.
+
+(3) From subsection (d)(2), because amendment or correction of investigative records could interfere with pending or prospective law enforcement proceedings, or could impose an impossible administrative and investigative burden by requiring the OIG to continuously retrograde its investigations attempting to resolve questions of accuracy, relevance, timeliness and completeness.
+
+(4) From subsection (e)(1), because it is often impossible to determine relevance or necessity of information in the early stages of an investigation. The value of such information is a question of judgment and timing; what appears relevant and necessary when collected may ultimately be evaluated and viewed as irrelevant and unnecessary to an investigation. In addition, the OIG may obtain information concerning the violation of laws other than those within the scope of its jurisdiction. In the interest of effective law enforcement, the OIG should retain this information because it may aid in establishing patterns of unlawful activity and provide leads for other law enforcement agencies. Further, in obtaining evidence during an investigation, information may be provided to the OIG which relates to matters incidental to the main purpose of the investigation but which may be pertinent to the investigative jurisdiction of another agency. Such information cannot readily be identified.
+
+(5) From subsection (e)(2), because in a law enforcement investigation it is usually counterproductive to collect information to the greatest extent practicable directly from the subject thereof. It is not always feasible to rely upon the subject of an investigation as a source for information which may implicate him or her in illegal activities. In addition, collecting information directly from the subject could seriously compromise an investigation by prematurely revealing its nature and scope, or could provide the subject with an opportunity to conceal criminal activities, or intimidate potential sources, in order to avoid apprehension.
+
+(6) From subsection (e)(3), because providing such notice to the subject of an investigation, or to other individual sources, could seriously compromise the investigation by prematurely revealing its nature and scope, or could inhibit cooperation, permit the subject to evade apprehension, or cause interference with undercover activities.
+
+(b) [Reserved]
+
+[57 FR 62142, Dec. 29, 1992, as amended at 65 FR 50904, Aug. 21, 2000]

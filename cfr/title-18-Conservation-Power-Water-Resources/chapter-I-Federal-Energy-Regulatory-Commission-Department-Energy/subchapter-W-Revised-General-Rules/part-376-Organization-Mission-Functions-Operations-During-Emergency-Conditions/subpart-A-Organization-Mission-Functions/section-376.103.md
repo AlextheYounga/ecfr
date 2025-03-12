@@ -1,0 +1,3 @@
+##### § 376.103 Mission. #####
+
+The Commission is responsible for developing, managing, and directing energy regulatory programs and activities assigned to it by statute, executive orders, or by the Secretary, DOE. The Chairman serves as the chief executive officer of the Commission and is responsible for the conduct of all Commission executive and administrative functions. In carrying out its mission, the Commission and its employees are not subject to the supervision or direction of any other official of DOE.

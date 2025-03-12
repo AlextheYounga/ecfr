@@ -1,0 +1,3 @@
+##### § 300.5 Creation and status. #####
+
+The Association is a Government corporation in the Department of Housing and Urban Development. It is derived from the Federal National Mortgage Association, which was partitioned by the Congress into two corporations effective September 1, 1968, one of which is the Association. The operations of the Association are conducted under its statutory charter contained in title III of the National Housing Act, 12 U.S.C. 1716, *et seq.*

@@ -1,0 +1,3 @@
+##### § 973.206 Funds for establishment, development, and implementation of the systems. #####
+
+The IRR program management funds may be used to accomplish nationwide management system activities. For tribal management system activities, the IRR two percent tribal transportation planning or construction funds may be used. (Refer to 23 U.S.C. 204(b) and 204(j)). These funds are to be administered in accordance with the procedures and requirements applicable to the funds.

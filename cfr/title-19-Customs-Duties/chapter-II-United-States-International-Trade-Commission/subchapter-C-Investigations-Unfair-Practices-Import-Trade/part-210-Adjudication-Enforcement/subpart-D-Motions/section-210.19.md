@@ -1,0 +1,3 @@
+##### § 210.19 Intervention. #####
+
+Any person desiring to intervene in an investigation or a related proceeding under this part shall make a written motion. The motion shall have attached to it a certificate showing that the motion has been served upon each party to the investigation or related proceeding in the manner described in § 201.16(b) of this chapter. Any party may file a response to the motion in accordance with § 210.15(c) of this part, provided that the response is accompanied by a certificate confirming that the response was served on the proposed intervenor and all other parties. The Commission, or the administrative law judge by initial determination, may grant the motion to the extent and upon such terms as may be proper under the circumstances.

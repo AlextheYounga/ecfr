@@ -1,0 +1,3 @@
+##### § 207.69 Publication of determinations. #####
+
+Whenever the Commission makes a determination concluding a five-year review, the Secretary shall serve copies of the determination and, when applicable, the nonbusiness proprietary version of the final staff report on all parties to the review, and on the administering authority. The Secretary shall publish notice of such determination in the Federal Register.

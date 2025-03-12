@@ -1,0 +1,7 @@
+##### § 888.315 Restrictions on retroactive payments. #####
+
+(a) *Restrictions on distribution of surplus cash.* Retroactive payments for HUD-insured projects and other projects subject to limitations on the distribution of surplus cash will be deposited, in the manner of Housing Assistance Payments, into the appropriate project account. The payments will be subject to HUD rules and procedures (or rules and procedures of other agencies, as appropriate), described in the applicable regulations and the HAP contracts, for distribution of surplus cash to project owners.
+
+(b) *Replacement reserve.* Projects required by HUD regulations to maintain a reserve for replacement account and to adjust the annual payment to the account each year by the amount of the annual rent adjustment must deposit into the account the proportionate share of any retroactive payment received, in accordance with HUD regulations and the HAP contract.
+
+(c) *Physical condition of HUD-insured or State-financed projects.* If the most recent physical inspection report of a HUD-insured project, completed by the mortgagee, or by HUD or the Contract Administrator if a mortgagee inspection is not present, shows significant deficiencies that have not been addressed to the satisfaction of HUD by the date the retroactive payment is deposited into the project account, the payment will not be made available for surplus cash distribution until the deficiencies are resolved or a plan for their resolution has been approved by HUD.

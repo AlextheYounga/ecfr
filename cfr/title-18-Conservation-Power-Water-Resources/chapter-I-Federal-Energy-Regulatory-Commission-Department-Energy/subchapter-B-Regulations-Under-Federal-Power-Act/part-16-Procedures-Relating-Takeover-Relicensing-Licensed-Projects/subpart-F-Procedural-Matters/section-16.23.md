@@ -1,0 +1,5 @@
+##### § 16.23 Failure to file timely notices of intent. #####
+
+(a) An existing licensee of a water power project with a license subject to sections 14 and 15 of the Federal Power Act that fails to file a notice of intent pursuant to § 16.6(b) by the deadlines specified in § l6.6(c) shall be deemed to have filed a notice of intent indicating that it does not intend to file an application for new license, nonpower license, or exemption.
+
+(b) An existing licensee of a water power project with a license not subject to sections 14 and 15 of the Federal Power Act that fails to file a notice of intent pursuant to § 16.6(b) by the deadlines specified in § 16.20(c) shall be deemed to have filed a notice of intent indicating that it does not intend to file an application for subsequent license or exemption.

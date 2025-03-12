@@ -1,0 +1,3 @@
+##### § 901.1 Scope and application. #####
+
+The Construction Industry Collective Bargaining Commission hereby states its policy and sets forth procedures for handling disputes involving the standard labor and management organizations in the building and construction industry. These procedures are pursuant to the authority set forth in Executive Order 11482, dated September 22, 1969. Section 6 of the order states that, “The Commission is authorized to issue such rules and regulations, and to adopt such procedures governing its affairs, including the conduct of its disputes settlement functions, as shall be necessary and appropriate to effectuate the objectives of this order.”

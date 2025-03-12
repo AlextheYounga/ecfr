@@ -1,0 +1,3 @@
+##### § 780.407 System must be nonprofit or operated on a share-crop basis. #####
+
+The exemption does not apply to employees employed in the described operations on facilities of any irrigation system unless the ditches, canals, reservoirs, or waterways in connection with which their work is done meet the statutory requirement that they either be not owned or operated for profit, or be operated on a share-crop basis. The employer is paid on a share-crop basis when he receives, as his total compensation, a share of the crop of the farmers serviced.

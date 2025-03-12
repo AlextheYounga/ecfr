@@ -1,0 +1,3 @@
+##### § 552.108 Child labor provisions. #####
+
+Congress made no change in section 12 as regards domestic service employees. Accordingly, the child labor provisions of the Act do not apply unless the underaged minor (a) is individually engaged in commerce or in the production of goods for commerce, or (b) is employed by an enterprise meeting the coverage tests of sections 3(r) and 3(s)(1) of the Act, or (c) is employed in or about a home where work in the production of goods for commerce is performed.

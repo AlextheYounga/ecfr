@@ -1,0 +1,11 @@
+##### § 4221.3 Initiation of arbitration. #####
+
+(a) *Time limits—in general.* Arbitration of a withdrawal liability dispute may be initiated within the time limits described in section 4221(a)(1) of ERISA.
+
+(b) *Waiver or extension of time limits.* Arbitration shall be initiated in accordance with this section, notwithstanding any inconsistent provision of any agreement entered into by the parties before the date on which the employer received notice of the plan's assessment of withdrawal liability. The parties may, however, agree at any time to waive or extend the time limits for initiating arbitration.
+
+(c) *Establishment of timeliness of initiation.* A party that unilaterally initiates arbitration is responsible for establishing that the notice of initiation of arbitration was timely received by the other party. If arbitration is initiated by agreement of the parties, the date on which the agreement to arbitrate was executed establishes whether the arbitration was timely initiated.
+
+(d) *Contents of agreement or notice.* If the employer initiates arbitration, it shall include in the notice of initiation a statement that it disputes the plan sponsor's determination of its withdrawal liability and is initiating arbitration. A copy of the demand for withdrawal liability and any request for reconsideration, and the response thereto, shall be attached to the notice. If a party other than an employer initiates arbitration, it shall include in the notice a statement that it is initiating arbitration and a brief description of the questions on which arbitration is sought. If arbitration is initiated by agreement, the agreement shall include a brief description of the questions submitted to arbitration. In no case is compliance with formal rules of pleading required.
+
+(e) *Effect of deficient agreement or notice.* If a party fails to object promptly in writing to deficiencies in an initiation agreement or a notice of initiation of arbitration, it waives its right to object.

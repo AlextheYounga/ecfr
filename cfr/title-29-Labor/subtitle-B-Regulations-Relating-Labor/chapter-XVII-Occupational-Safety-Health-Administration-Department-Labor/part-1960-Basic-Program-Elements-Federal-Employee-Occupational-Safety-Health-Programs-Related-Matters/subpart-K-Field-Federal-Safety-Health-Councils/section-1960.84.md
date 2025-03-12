@@ -1,0 +1,5 @@
+##### § 1960.84 Purpose. #####
+
+(a) Executive Order 12196 provides that the Secretary shall “facilitate the exchange of ideas and information throughout the Government about occupational safety and health.”
+
+(b) Consistent with this objective, the Secretary will continue to sponsor and/or provide guidance for those Field Federal Safety and Health Councils now established and in operation, and establish new field councils as necessary. The field councils will consist primarily of qualified representatives of local area Federal field activities whose duties pertain to occupational safety and health, and also of representatives of recognized local labor organizations, or other civilian employee organizations, at local area Federal field activities. For the purpose of this subpart the definition of field activity will be provided by each agency.

@@ -1,0 +1,3 @@
+##### § 530.11 Petition for review. #####
+
+Any person aggrieved by the action of an authorized representative of the Administrator in granting or denying a certificate may, within 15 days thereafter or within such additional time as the Administrator for cause shown may allow, file with the Administrator a petition for review of the action of such representative praying for such relief as is desired. Such petition for review, if duly filed, will be acted upon by the Administrator or an authorized representative of the Administrator who took no part in the proceeding being reviewed. All interested parties will be afforded an opportunity to present their views in support of or in opposition to the matters prayed for in the petition.

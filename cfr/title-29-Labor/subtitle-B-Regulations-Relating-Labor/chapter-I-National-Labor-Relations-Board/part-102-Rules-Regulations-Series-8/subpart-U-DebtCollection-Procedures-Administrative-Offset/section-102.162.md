@@ -1,0 +1,3 @@
+##### § 102.162 Examination and copying of records related to the claim; opportunity for full explanation of the claim. #####
+
+Following receipt of the demand letter specified in § 102.161, and in conformity with Agency guidelines governing such requests, the debtor may request to examine and copy publicly available records pertaining to the debt, and may request a full explanation of the Agency's claim.

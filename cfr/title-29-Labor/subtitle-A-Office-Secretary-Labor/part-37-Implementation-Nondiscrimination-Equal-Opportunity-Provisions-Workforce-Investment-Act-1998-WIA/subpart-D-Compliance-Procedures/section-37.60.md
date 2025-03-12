@@ -1,0 +1,3 @@
+##### § 37.60 How does the Director evaluate compliance with the nondiscrimination and equal opportunity provisions of WIA and this part? #####
+
+From time to time, the Director may conduct pre-approval compliance reviews of grant applicants for, and post-approval compliance reviews of recipients of, WIA Title I financial assistance, to determine compliance with the nondiscrimination and equal opportunity provisions of WIA and this part. Reviews may focus on one or more specific programs or activities, or one or more issues within a program or activity. The Director may also investigate and resolve complaints alleging violations of the nondiscrimination and equal opportunity provisions of WIA and this part.

@@ -1,0 +1,3 @@
+##### § 10.3 Other applicable laws. #####
+
+No statute or regulation of any State shall be construed to relieve a person from the restrictions, conditions, and requirements contained in this subchapter B. In addition, nothing in this subchapter B, nor any permit issued under this subchapter B, shall be construed to relieve a person from any other requirements imposed by a statute or regulation of any State or of the United States, including any applicable health, quarantine, agricultural, or customs laws or regulations, or other Service enforced statutes or regulations.

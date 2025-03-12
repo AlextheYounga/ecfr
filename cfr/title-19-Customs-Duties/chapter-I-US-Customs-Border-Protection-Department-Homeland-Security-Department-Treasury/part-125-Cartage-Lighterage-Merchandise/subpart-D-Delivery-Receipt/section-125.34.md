@@ -1,0 +1,5 @@
+##### § 125.34 Countersigning of documents and notation of bad order or discrepancy. #####
+
+When a cartman, lighterman, other bonded carrier, foreign trade zone operator, bonded warehouse proprietor, container station operator or centralized examination station operator, as provided for in § 112.2, receives merchandise remaining in Customs custody, he shall countersign the appropriate document in the space provided and shall note thereon any bad order or discrepancy. When available, the importing carrier's tally slip for the merchandise shall be attached to the delivery ticket which accompanies the merchandise while it is being carted or lightered in bond, for the use of Customs officers only at destination.
+
+[T.D. 73-140, 38 FR 13554, May 23, 1973, as amended by T.D. 94-81, 59 FR 51496, Oct. 12, 1994]

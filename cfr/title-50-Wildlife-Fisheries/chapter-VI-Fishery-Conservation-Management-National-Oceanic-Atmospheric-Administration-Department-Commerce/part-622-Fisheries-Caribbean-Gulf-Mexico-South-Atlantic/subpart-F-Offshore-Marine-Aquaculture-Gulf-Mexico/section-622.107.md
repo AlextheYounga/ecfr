@@ -1,0 +1,3 @@
+##### § 622.107 Limitation on aquaculture production. #####
+
+No individual, corporation, or other entity will be authorized to produce more than 12.8 million lb (5.8 million kg), round weight, of cultured species annually from permitted aquaculture facilities in the Gulf EEZ. Production of juvenile fish by a hatchery in the Gulf EEZ will not be counted toward this limitation because those fish would be accounted for subsequently via reported harvest at the aquaculture facility where grow out occurs.

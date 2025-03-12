@@ -1,0 +1,3 @@
+##### § 779.350 The section 13(a)(4) exemption does not apply to service establishments. #####
+
+The section 13(a)(4) exemption applies to retail establishments engaged in the selling of goods. It does not apply to service establishments. If the establishment is a service establishment, it must qualify under section 13(a)(2) in order to be exempt. A retail establishment selling goods, however, also may perform services incidental or necessary to the sale of such goods, such as a delivery service by a bakery store or installation of antennas by a radio dealer for his customers, without affecting the character of the establishment as a retail establishment qualified for exemption under section 13(a)(4).

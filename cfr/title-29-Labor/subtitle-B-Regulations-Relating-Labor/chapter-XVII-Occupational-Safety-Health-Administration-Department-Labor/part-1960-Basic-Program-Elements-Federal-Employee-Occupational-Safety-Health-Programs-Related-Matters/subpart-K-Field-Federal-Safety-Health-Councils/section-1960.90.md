@@ -1,0 +1,9 @@
+##### § 1960.90 Operating procedures. #####
+
+(a) The Executive Committee of each council shall meet at least 45 days before the beginning of each calendar year to approve an annual program for the council designed to accomplish the objectives and functions stated in § 1960.87. In addition, the Executive Committee shall meet periodically to ensure that the meetings and other activities of the council are being conducted as outlined in the council schedule.
+
+(b) The council program shall include at least four meetings or activities per year dealing with occupational safety and health issues.
+
+(c) Each field council shall submit to the Secretary or his designee by March 15 of each year a report describing the activities and programs of the previous calendar year and plans for the current year. In addition, the report shall address the participation and attendance of designated representatives of the council. The Office of Federal Agency Safety and Health Programs, OSHA, shall furnish guidelines to field councils concerning the preparation of this report.
+
+(d) Upon determination that a council is not operating in accordance with its charter and the provisions of this subpart, and after consultation with appropriate OSHA regional officials, the Secretary shall revoke the council's charter. Upon revocation of a charter, the council shall surrender all its government property to the appropriate OSHA regional official. Any continuing or future organization in the same geographical area shall not use the title Field Federal Safety and Health Council, or any derivation thereof, unless formally rechartered by the Secretary. Notification of revocation of a council's charter shall be sent to the chairperson, where identifiable, and to the appropriate OSHA Regional Office.

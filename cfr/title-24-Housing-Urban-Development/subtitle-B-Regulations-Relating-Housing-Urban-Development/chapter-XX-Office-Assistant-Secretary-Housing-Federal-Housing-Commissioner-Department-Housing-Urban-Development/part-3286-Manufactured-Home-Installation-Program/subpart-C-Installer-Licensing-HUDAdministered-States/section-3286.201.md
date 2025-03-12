@@ -1,0 +1,3 @@
+##### § 3286.201 Purpose. #####
+
+The purpose of this subpart C is to establish the requirements for a person to qualify to install a manufactured home in accordance with the HUD-administered installation program. Installers will be required to meet licensing, training, and insurance requirements established in this part. Licensed installers will self-certify their installations of manufactured homes to be in compliance with the Model Manufactured Home Installation Standards in part 3285 of this chapter. In order for such an installer to self-certify compliance with the installation standards, the installer will have to assure that acceptable inspections, as required in subpart F of this part, are performed.

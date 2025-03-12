@@ -1,0 +1,3 @@
+##### § 1003.3 Nature of program. #####
+
+The selection of single purpose grantees under subpart B of this part is competitive in nature. Therefore, selection of grantees for funds will reflect consideration of the relative adequacy of applications in addressing tribally determined need. The selection of grantees of imminent threat grants under the provisions of subpart B of this part is not competitive in nature. However, applicants for funding under either subpart must have the administrative capacity to undertake the community development activities proposed, including the systems of internal control necessary to administer these activities effectively without fraud, waste, or mismanagement.

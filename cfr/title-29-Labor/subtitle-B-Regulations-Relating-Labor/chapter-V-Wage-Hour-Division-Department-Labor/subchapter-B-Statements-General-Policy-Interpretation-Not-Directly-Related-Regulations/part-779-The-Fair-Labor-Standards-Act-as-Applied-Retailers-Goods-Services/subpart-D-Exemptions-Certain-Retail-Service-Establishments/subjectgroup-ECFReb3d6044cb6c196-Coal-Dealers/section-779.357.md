@@ -1,0 +1,13 @@
+##### § 779.357 May qualify as exempt 13(a)(2) establishments; classification of coal sales. #####
+
+(a) *General.* A coal dealer's establishment may qualify as an exempt retail or service establishment under section 13(a)(2) of the Act if it meets all the requirements of that exemption. In determining for purposes of the 13(a)(2) exemption, whether 75 percent of the establishment's sales are recognized as retail in the particular industry, sales of coal to the consumer from a dealer's yard storage, where bulk is broken, are recognized as retail if they meet the requirements for such classification as previously explained in this subpart. It has been determined that the following sales do not meet such requirements and are not so recognized even if made from a dealer's yard storage:
+
+(1) Sales where the delivery is made by railroad car or cargo vessel.
+
+(2) Sales in a carload quantity or more for continuous delivery by truck from a dock, mine or public railroad facility.
+
+(3) *Sales of coal at a wholesale price.* A wholesale price is a price comparable to or lower than the establishment's price in sales described in paragraphs (a)(1) and (2) of this section or in sales to dealers (but not peddlers) for resale. If the establishment makes no such sales, the wholesale price is the price comparable to or lower than the price prevailing in the immediate area in sales described in paragraphs (a)(1) and (2) of this section or in sales to dealers (but not peddlers) for resale.
+
+(4) Sales of coal for use in the production of a specific product to be sold in which coal is an essential ingredient or the principal raw material, such as sales of coal for the production of coke, coal gas, coal tar, or electricity.
+
+(b) *“Sales for resale.”* In determining for purposes of the 13(a)(2) exemption, whether 75 percent of the establishment's sales are not made for resale, “sales for resale” will include sales of coal to other dealers, to peddlers, and sales of coal for use in the production of a specific product to be sold, in which coal is an essential ingredient or the principal raw material, such as sales of coal for the production of coke, coal gas, coal tar, or electricity. This is distinguished from sales of coal for use in the general manufacturing or industrial process such as the use in laundries, bakeries, nurseries, canneries, etc., or for space heating, which are not sales made for resale.

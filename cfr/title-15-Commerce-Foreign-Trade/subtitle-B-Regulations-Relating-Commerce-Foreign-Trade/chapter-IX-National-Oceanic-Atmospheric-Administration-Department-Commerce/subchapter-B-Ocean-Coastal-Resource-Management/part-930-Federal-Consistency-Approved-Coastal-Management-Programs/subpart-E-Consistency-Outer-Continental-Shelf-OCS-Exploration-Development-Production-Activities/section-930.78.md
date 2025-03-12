@@ -1,0 +1,7 @@
+##### § 930.78 State agency concurrence or objection. #####
+
+(a) At the earliest practicable time, the State agency shall notify in writing the person, the Secretary of the Interior or designee and the Director of its concurrence with or objection to the consistency certification. State agencies should restrict the period of public notice, receipt of comments, hearing proceedings and final decision-making to the minimum time necessary to reasonably inform the public, obtain sufficient comment, and develop a decision on the matter. If the State agency has not issued a decision within three months following commencement of State agency review, it shall notify the person, the Secretary of the Interior or designee and the Director of the status of review and the basis for further delay in issuing a final decision. Notice shall be in written form and postmarked no later than three months following the commencement of the State agency's review. Concurrence by the State agency shall be conclusively presumed if the notification required by this subparagraph is not provided.
+
+(b) Concurrence by the State agency shall be conclusively presumed if the State agency's response to the consistency certification is not received within six months following commencement of State agency review.
+
+(c) If the State agency objects to one or more of the federal license or permit activities described in detail in the OCS plan, it must provide a separate discussion for each objection in accordance with § 930.63.

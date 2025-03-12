@@ -1,0 +1,3 @@
+##### § 2301.26 Waivers. #####
+
+It is the general intent of NTIA not to waive any of its regulations. However, under extraordinary circumstances and when it is in the best interests of the Federal government, NTIA, upon its own initiative or when requested, may waive the regulations adopted pursuant to section 392(e) of the Act. Waivers may only be granted for regulatory requirements that are discretionary.

@@ -1,0 +1,3 @@
+##### § 367.25 Determination of service cost. #####
+
+A service must be deemed at cost and fair allocation of costs requires an accurate accounting for the elements that makes up the aggregate expense of conducting the business of the service company. In the accounts prescribed in this part, the total amounts included in the expense accounts during any period plus the amount that appropriately may be added as compensation for the use of capital constitute cost during that period.

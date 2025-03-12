@@ -1,0 +1,3 @@
+##### § 1627.10 Notices to be posted. #####
+
+Every employer, employment agency, and labor organization which has an obligation under the Age Discrimination in Employment Act of 1967 shall post and keep posted in conspicuous places upon its premises the notice pertaining to the applicability of the Act prescribed by the Commission or its authorized representative. Such a notice must be posted in prominent and accessible places where it can readily be observed by employees, applicants for employment and union members.

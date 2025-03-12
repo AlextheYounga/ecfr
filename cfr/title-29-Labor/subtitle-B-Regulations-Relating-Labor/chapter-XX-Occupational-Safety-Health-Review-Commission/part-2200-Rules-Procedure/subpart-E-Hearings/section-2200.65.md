@@ -1,0 +1,3 @@
+##### § 2200.65 Payment of witness fees and mileage; fees of persons taking depositions. #####
+
+Witnesses summoned before the Commission or the Judge shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States. Witness fees and mileage shall be paid by the party at whose instance the witness appears, and the person taking a deposition shall be paid by the party at whose instance the deposition is taken.

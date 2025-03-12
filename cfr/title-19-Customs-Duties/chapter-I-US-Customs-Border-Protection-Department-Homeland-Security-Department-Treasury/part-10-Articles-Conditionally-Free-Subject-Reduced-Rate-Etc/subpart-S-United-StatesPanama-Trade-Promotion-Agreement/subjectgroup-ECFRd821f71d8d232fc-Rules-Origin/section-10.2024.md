@@ -1,0 +1,5 @@
+##### § 10.2024 Indirect materials. #####
+
+An indirect material, as defined in § 10.2013(i), will be considered to be an originating material without regard to where it is produced.
+
+*Example.* Panamanian Producer A produces good C using non-originating material B. Producer A imports non-originating rubber gloves for use by workers in the production of good C. Good C is subject to a tariff shift requirement. As provided in § 10.2014(b)(1) and General Note 35, each of the non-originating materials in good C must undergo the specified change in tariff classification in order for good C to be considered originating. Although non-originating material B must undergo the applicable tariff shift in order for good C to be considered originating, the rubber gloves do not because they are indirect materials and are considered originating without regard to where they are produced.

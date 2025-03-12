@@ -1,0 +1,15 @@
+##### § 19.17 Will a debtor who owes a Commerce or other Federal agency debt, and persons controlled by or controlling such debtors, be ineligible for Federal loan assistance, grants, cooperative agreements, or other sources of Federal funds or for Federal licenses, permits, or privileges? #####
+
+(a) Delinquent debtors are ineligible for and barred from obtaining Federal loans or loan insurance or guaranties. As required by 31 U.S.C. 3720B and 31 CFR 901.6, Commerce entities will not extend financial assistance in the form of a loan, loan guarantee, or loan insurance to any person delinquent on a debt owed to a Federal agency. Commerce Department may issue standards under which Commerce Department may determine that persons controlled by or controlling such delinquent debtors are similarly ineligible in accordance with 31 CFR 285.13(c)(2). This prohibition does not apply to disaster loans. Commerce entities may extend credit after the delinquency has been resolved. *See* 31 CFR 285.13. Waivers of ineligibility may be granted by the Secretary or designee on a person by person basis in accordance with 31 CFR 285.13(g). However, such authority may not be delegated below the Deputy Chief Financial Officer.
+
+(b) A debtor who has a judgment lien against the debtor's property for a debt to the United States is not eligible to receive grants, loans or funds directly or indirectly from the United States until the judgment is paid in full or otherwise satisfied. This prohibition does not apply to funds to which the debtor is entitled as beneficiary. Commerce Department may promulgate regulations to allow for waivers of this ineligibility. *See* 28 U.S.C. 3201(e).
+
+(c) Suspension or revocation of eligibility for licenses, permits, or privileges. Unless prohibited by law, Commerce entities with the authority to do so under the circumstances should deny, suspend or revoke licenses, permits, or other privileges for any inexcusable or willful failure of a debtor to pay a debt. The Commerce entity responsible for distributing the licenses, permits, or other privileges will establish policies and procedures governing suspension and revocation for delinquent debtors. If applicable, Commerce entities will advise the debtor in the notice required by § 19.4 of this part of the Commerce entities' ability to deny, suspend or revoke licenses, permits or privileges. *See* § 19.4(a)(16) of this part.
+
+(d) To the extent that a person delinquent on a Commerce debt is not otherwise barred under § 19.17(a) and § 19.17 (c) of this part from becoming or remaining a recipient of a Commerce Department grant or cooperative agreement, it is Commerce Department policy that no award of Federal funds shall be made to a Commerce Department grant or cooperative agreement applicant who has an outstanding delinquent Commerce debt until:
+
+(1) The delinquent Commerce debt is paid in full,
+
+(2) A negotiated repayment schedule acceptable to Commerce Department is established and at least one payment is received, or
+
+(3) Other arrangements satisfactory to Commerce Department are made.

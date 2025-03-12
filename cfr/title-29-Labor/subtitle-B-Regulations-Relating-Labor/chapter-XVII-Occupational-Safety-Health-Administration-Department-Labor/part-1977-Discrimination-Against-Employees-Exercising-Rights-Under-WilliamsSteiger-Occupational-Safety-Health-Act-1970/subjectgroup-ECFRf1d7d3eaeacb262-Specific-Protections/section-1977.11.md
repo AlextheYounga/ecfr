@@ -1,0 +1,3 @@
+##### § 1977.11 Testimony. #####
+
+Discharge of, or discrimination against, any employee because the employee “has testified or is about to testify” in proceedings under or related to the Act is also prohibited by section 11(c). This protection would of course not be limited to testimony in proceedings instituted or caused to be instituted by the employee, but would extend to any statements given in the course of judicial, quasi-judicial, and administrative proceedings, including inspections, investigations, and administrative rule making or adjudicative functions. If the employee is giving or is about to give testimony in any proceeding under or related to the Act, he would be protected against discrimination resulting from such testimony.

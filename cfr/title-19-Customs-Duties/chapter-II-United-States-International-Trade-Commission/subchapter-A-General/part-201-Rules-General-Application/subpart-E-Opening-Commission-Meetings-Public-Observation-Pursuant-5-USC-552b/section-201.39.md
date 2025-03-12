@@ -1,0 +1,3 @@
+##### § 201.39 General Counsel's certification of Commission action in closing a meeting or a series of meetings. #####
+
+Before a Commission meeting may be closed for the specific reasons enumerated in paragraphs (b) (1) through (9) of § 201.36, the General Counsel (i) Shall, in the related public notice, certify that in his or her opinion the meeting may be closed to the public and (ii) Shall state each applicable exemptive provision of paragraphs (b) (1) through (9) of § 201.36.

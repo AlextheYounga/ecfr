@@ -1,0 +1,5 @@
+##### § 6.6 Administrative Law Judge. #####
+
+(a) *Equal Access to Justice Act.* Proceedings under this part are not subject to the provisions of the Equal Access to Justice Act (Pub. L. 96-481). In any hearing conducted pursuant to the provisions of this part 6, Administrative Law Judges shall have no power or authority to award attorney fees and/or other litigation expenses pursuant to the provisions of the Equal Access to Justice Act.
+
+(b) *Contumacious conduct: failure or refusal of a witness to appear or answer.* Contumacious conduct at any hearing before an Administrative Law Judge shall be ground for exclusion from the hearing., In cases arising under the Service Contract Act, the failure or refusal of a witness to appear at any hearing or at a deposition when so ordered by the Administrative Law Judge, or to answer any question which has been ruled to be proper, shall be ground for the action provided in section 5 of the Act of June 30, 1936 (41 U.S.C. 39) and, in the discretion of the Administrative Law Judge, for striking out all or part of the testimony which may have been given by such witness.

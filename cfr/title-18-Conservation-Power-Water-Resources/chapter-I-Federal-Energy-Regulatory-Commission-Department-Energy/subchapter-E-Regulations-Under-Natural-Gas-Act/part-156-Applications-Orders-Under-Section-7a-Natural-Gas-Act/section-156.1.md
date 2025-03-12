@@ -1,0 +1,3 @@
+##### § 156.1 Who may apply. #####
+
+Any person or municipality as defined in section 2 of the Natural Gas Act engaged or legally authorized to engage in the local distribution of natural or artificial gas to the public may file with the Commission an application pursuant to the provisions of section 7(a) of the Natural Gas Act for an order of the Commission directing a natural gas company to extend or improve its transportation facilities, to establish physical connection of its transportation facilities with the facilities of, and sell natural gas to such person or municipality, and for such purpose to extend its transportation facilities to communities immediately adjacent to such facilities or to territory served by such natural gas company.

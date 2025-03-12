@@ -1,0 +1,35 @@
+##### § 51.106 Implementation. #####
+
+(a) *Use of available data.* HUD field staff shall make maximum use of noise data prepared by others when such data are determined to be current and adequately projected into the future and are in terms of the following:
+
+(1) *Sites in the vicinity of airports.* The noise environment around airports is described sometimes in terms of Noise Exposure Forecasts, abbreviated as NEF or, in the State of California, as Community Noise Equivalent Level, abbreviated as CNEL. The noise environment for sites in the vicinity of airports for which day-night average sound level data are not available may be evaluated from NEF or CNEL analyses using the following conversions to DNL:
+
+DNL ≉ NEF + 35DNL ≉ CNEL
+
+(2) *Sites in the vicinity of highways.* Highway projects receiving Federal aid are subject to noise analyses under the procedures of the Federal Highway Administration. Where such analyses are available they may be used to assess sites subject to the requirements of this standard. The Federal Highway Administration employs two alternate sound level descriptors: (i) The A-weighted sound level not exceeded more than 10 percent of the time for the highway design hour traffic flow, symbolized as L10; or (ii) the equivalent sound level for the design hour, symbolized as Leq. The day-night average sound level may be estimated from the design hour L10 or Leq values by the following relationships, provided heavy trucks do not exceed 10 percent of the total traffic flow in vehicles per 24 hours and the traffic flow between 10 p.m. and 7 a.m. does not exceed 15 percent of the average daily traffic flow in vehicles per 24 hours:
+
+DNL ≉ L10 (design hour)—3 decibelsDNL ≉ Leq (design hour) decibelsWhere the auto/truck mix and time of day relationships as stated in this section do not exist, the HUD Noise Assessment Guidelines or other noise analysis shall be used.
+
+(3) *Sites in the vicinity of installations producing loud impulsive sounds.* Certain Department of Defense installations produce loud impulsive sounds from artillery firing and bombing practice ranges. Noise analyses for these facilities sometimes encompass sites that may be subject to the requirements of this standard. Where such analyses are available they may be used on an interim basis to establish the acceptability of sites under this standard. The Department of Defense uses day-night average sound level based on C-weighted sound level, symbolized LCdn, for the analysis of loud impulsive sounds. Where such analyses are provided, the 8 decibel addition specified in § 51.103(b), is not required, and the same numerical values of day-night average sound level used on an interim basis to determine site suitability for non-impulsive sounds apply to the LCdn.
+
+(4) *Use of areawide acoustical data.* HUD encourages the preparation and use of areawide acoustical information, such as noise contours for airports. Where such new or revised contours become available for airports (civil or military) and military installations they shall first be referred to the HUD State Office (Environmental Officer) for review, evaluation and decision on appropriateness for use by HUD. The HUD State Office shall submit revised contours to the Assistant Secretary for Community Planning and Development for review, evaluation and decision whenever the area affected is changed by 20 percent or more, or whenever it is determined that the new contours will have a significant effect on HUD programs, or whenever the contours are not provided in a methodology acceptable under § 51.106(a)(1) or in other cases where the HUD State Office determines that Headquarters review is warranted. For other areawide acoustical data, review is required only where existing areawide data are being utilized and where such data have been changed to reflect changes in the measurement methodology or underlying noise source assumptions. Requests for determination on usage of new or revised areawide data shall include the following:
+
+(i) Maps showing old, if applicable, and new noise contours, along with brief description of data source and methodology.
+
+(ii) Impact on existing and prospective urbanized areas and on development activity.
+
+(iii) Impact on HUD-assisted projects currently in processing.
+
+(iv) Impact on future HUD program activity. Where a field office has determined that immediate approval of new areawide data is necessary and warranted in limited geographic areas, the request for approval should state the circumstances warranting such approval. Actions on proposed projects shall not be undertaken while new areawide noise data are being considered for HUD use except where the proposed location is affected in the same manner under both the old and new noise data.
+
+(b) *Site assessments.* Compliance with the standards contained in § 51.103(c) shall, where necessary, be determined using noise assessment guidelines, handbooks, technical documents and procedures issued by the Department.
+
+(c) *Variations in site noise levels.* In many instances the noise environment will vary across a site, with portions of the site being in an Acceptable noise environment and other portions in a Normally Unacceptable noise environment. The standards in § 51.103(c) shall apply to the portions of a building or buildings used for residential purposes and for ancillary noise sensitive open spaces.
+
+(d) *Noise measurements.* Where noise assessments result in a finding that the site is borderline or questionable, or is controversial, noise measurements may be performed. Where it is determined that noise measurements are required, such measurements will be conducted in accordance with methods and measurement criteria established by the Department. Locations for noise measurements will depend on the location of noise sensitive uses that are nearest to the predominant noise source (see § 51.103(c)).
+
+(e) *Projections of noise exposure.* In addition to assessing existing exposure, future conditions should be projected. To the extent possible, noise exposure shall be projected to be representative of conditions that are expected to exist at a time at least 10 years beyond the date of the project or action under review.
+
+(f) *Reduction of site noise by use of berms and/or barriers.* If it is determined by adequate analysis that a berm and/or barrier will reduce noise at a housing site, and if the barrier is existing or there are assurances that it will be in place prior to occupancy, the environmental noise analysis for the site may reflect the benefits afforded by the berm and/or barrier. In the environmental review process under § 51.104(b), the location height and design of the berm and/or barrier shall be evaluated to determine its effectiveness, and impact on design and aesthetic quality, circulation and other environmental factors.
+
+[44 FR 40861, July 12, 1979, as amended at 61 FR 13334, Mar. 26, 1996]

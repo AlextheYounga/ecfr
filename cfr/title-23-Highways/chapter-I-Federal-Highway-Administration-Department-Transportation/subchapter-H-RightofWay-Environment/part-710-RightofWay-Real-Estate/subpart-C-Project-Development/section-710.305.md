@@ -1,0 +1,9 @@
+##### § 710.305 Acquisition. #####
+
+(a) *General.* The process of acquiring real property includes appraisal, appraisal review, waiver valuations, establishing estimates of just compensation, negotiations, relocation assistance, administrative and legal settlements, and court settlements and condemnations. Grantees must ensure all acquisition and related relocation assistance activities are performed in accordance with 49 CFR part 24 and this part. If a grantee does not directly own the real property interests used for a title 23 project, the grantee must have an enforceable subgrant agreement or other agreement with the owner of the ROW that permits the grantee to enforce applicable Federal requirements affecting the real property interests, including real property management requirements under subpart D of this part.
+
+(b) *Adequacy of real property interest.* The real property interests acquired for any project funded under title 23 must be adequate to fulfill the purpose of the project. Except in the case of an Early Acquisition Project, this means adequate for the construction, operation, and maintenance of the resulting facility, and for the protection of both the facility and the traveling public.
+
+(c) *Establishment and offer of just compensation.* The amount believed to be just compensation shall be approved by a responsible official of the acquiring agency. This shall be done in accordance with 49 CFR 24.102(d).
+
+(d) *Description of acquisition process.* The acquiring agency shall provide persons affected by projects or acquisitions advanced under title 23 of the United States Code with a written description of its real property acquisition process under State law and this part, and of the owner's rights, privileges, and obligations. The description shall be written in clear, non-technical language and, where appropriate, be available in a language other than English in accordance with 49 CFR 24.5, 24.102(b), and 24.203.

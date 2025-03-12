@@ -1,0 +1,5 @@
+##### § 19.24 Theoretical transfer without physical shipment of dutiable metal. #####
+
+(a) Transfer may be made from one port of entry to another by a withdrawal for transportation and rewarehouse executed in regular form without physical shipment of the metal, provided enough like metal in any form is on hand at the establishment to which the theoretical transfer is made to satisfy the new bond obligations.
+
+(b) The wastage allowance established for the plant from which the original withdrawal for transportation was made shall be shown on the transfer withdrawal and set up as a part of the charge against the bond at the plant to which the metal was theoretically transferred. Such wastage shall govern and be the basis for allowance when metal is withdrawn from the plant where the theoretical rewarehousing was affected.

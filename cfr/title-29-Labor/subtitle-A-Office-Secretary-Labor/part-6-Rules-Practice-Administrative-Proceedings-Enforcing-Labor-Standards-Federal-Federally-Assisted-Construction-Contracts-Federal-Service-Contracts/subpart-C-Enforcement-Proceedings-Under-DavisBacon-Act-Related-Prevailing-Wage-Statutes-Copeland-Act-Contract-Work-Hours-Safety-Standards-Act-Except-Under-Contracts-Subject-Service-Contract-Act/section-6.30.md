@@ -1,0 +1,5 @@
+##### § 6.30 Referral to Chief Administrative Law Judge. #####
+
+(a) Upon timely receipt of a request for a hearing under § 5.11 (where the Administrator has determined that relevant facts are in dispute) or § 5.12 of part 5 of this title, the Administrator shall refer the case to the Chief Administrative Law Judge by Order of Reference, to which shall be attached a copy of the notification letter to the respondent from the Administrator and response thereto, for designation of an Administrative Law Judge to conduct such hearings as may be necessary to decide the disputed matters. A copy of the Order of Reference and attachments thereto shall be served upon the respondent.
+
+(b) The notification letter from the Administrator and response thereto shall be given the effect of a complaint and answer, respectively, for purposes of the administrative proceedings. The notification letter and response shall be in accordance with the provisions of § 5.11 or § 5.12(b)(1) of part 5 of this title, as appropriate.

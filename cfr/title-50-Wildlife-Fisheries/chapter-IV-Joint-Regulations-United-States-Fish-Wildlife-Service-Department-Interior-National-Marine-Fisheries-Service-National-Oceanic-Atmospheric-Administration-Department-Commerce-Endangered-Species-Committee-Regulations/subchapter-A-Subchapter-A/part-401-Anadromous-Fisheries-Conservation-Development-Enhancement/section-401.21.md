@@ -1,0 +1,3 @@
+##### § 401.21 Patents and inventions. #####
+
+Determination of the patent rights in any inventions or discoveries resulting from work under project agreements entered into pursuant to the Act shall be consistent with the “Government Patent Policy” (President's memorandum for Heads of Executive Departments and Agencies, August 23, 1971, and statement of Government Patent Policy as printed in 36 FR 16889).

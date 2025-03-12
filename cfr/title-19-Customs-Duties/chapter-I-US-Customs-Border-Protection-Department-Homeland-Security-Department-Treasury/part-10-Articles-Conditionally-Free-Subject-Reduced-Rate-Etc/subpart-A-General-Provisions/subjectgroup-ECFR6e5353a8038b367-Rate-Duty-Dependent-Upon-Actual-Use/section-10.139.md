@@ -1,0 +1,7 @@
+##### § 10.139 Liquidation. #####
+
+(a) *In general.* Upon satisfactory proof of timely use of the merchandise for the purpose specified by law, the entry shall be liquidated free of duty or at the lower rate of duty specified by law. When such proof is not filed within 3 years from the date of entry or withdrawal from warehouse for consumption, the entry shall be liquidated dutiable under the appropriate subheading of the Harmonized Tariff Schedule of the United States.
+
+(b) *Exception for blackstrap molasses.* An entry covering blackstrap molasses, as hereinafter defined, may be accepted and liquidated with duty at the lower rate after the filing of the declaration of intent required by § 10.134 and the deposit of estimated duties required by § 10.135 without compliance with §§ 10.136, 10.137, and 10.138. Blackstrap molasses is “final” molasses practically free from sugar crystals, containing not over 58 percent total sugars and having a ratio of
+
+total sugars × 100/Brixnot in excess of 71. In the event of doubt, an ash determination may be made. An ash content of not less than 7 percent indicates a blackstrap molasses within the meaning of this paragraph.[T.D. 71-139, 36 FR 10727, June 2, 1971, as amended by T.D. 89-1, 53 FR 51252, Dec. 21, 1988]

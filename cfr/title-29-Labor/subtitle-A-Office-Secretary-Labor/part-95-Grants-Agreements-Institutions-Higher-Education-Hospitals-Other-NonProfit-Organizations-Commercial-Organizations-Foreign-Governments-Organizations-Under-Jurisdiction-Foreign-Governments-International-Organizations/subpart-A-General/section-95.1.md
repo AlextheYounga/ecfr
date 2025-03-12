@@ -1,0 +1,3 @@
+##### § 95.1 Purpose. #####
+
+This part establishes uniform administrative requirements for Federal grants and agreements awarded to institutions of higher education, hospitals, other non-profit organizations, commercial organizations, foreign governments, organizations under the jurisdiction of foreign governments, and international organizations. DOL shall not impose additional or inconsistent requirements, except as provided in §§ 95.4 and 95.14 or unless specifically required by Federal statute or executive order. Non-profit and commercial organizations that implement Federal programs for the States are also subject to State requirements.

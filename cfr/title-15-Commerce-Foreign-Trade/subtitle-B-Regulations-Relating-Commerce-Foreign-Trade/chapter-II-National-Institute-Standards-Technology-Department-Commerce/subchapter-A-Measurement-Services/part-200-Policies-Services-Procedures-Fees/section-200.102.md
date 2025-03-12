@@ -1,0 +1,21 @@
+##### § 200.102 Types of calibration and test services. #####
+
+(a) NIST has developed instrumentation and techniques for realizing standards for the seven base units of the International System of Units, as agreed upon by the General Conference of Weights and Measures. Reference standards have been established not only for these seven base units, but also for many derived quantities and their multiples and submultiples. Such reference standards, or equivalent working standards, are used to calibrate laboratory and plant standards for other organizations. Accuracy is maintained by stability checks, by comparison with the standards of other national and international laboratories, and by the exploration of alternative techniques as a means of reducing possible systematic error.
+
+(b) Calibrations for many types of instruments and ranges of physical quantities are described in the NIST Special Publication 250 (SP 250). (See § 200.115 for details relating to the description of service items and listing of fees.)
+
+(c) In recent years NIST has offered to the public new measurement services called measurement assurance programs. These programs are designed for laboratories whose measurement process involves the calibration of other standards. A measurement assurance program is a measurement quality control process. By use of carefully designed redundant measurements and measurements made on NIST transport standards a total uncertainty of the laboratories measurement process can be determined by NIST. The results of these tests are then reported to the customer as uncertainties of the customer's measurements relative to national standards.
+
+(d) Special measurements not listed in SP 250 may be made upon request. These might involve unusual physical quantities, upper or lower extremes of range, higher levels of accuracy, fast response speeds, short durations, broader ranges of associated parameters, or special environmental conditions. Such inquiries should describe clearly the measurement desired. Indication of the scientific or economic basis for the requirements to be satisfied will be helpful in determining future NIST programs. Fees for work accepted will be based upon actual costs incurred.
+
+(e) The principal emphasis of NIST is on those calibrations and other tests requiring such accuracy as can be obtained only by direct comparison with its standards.
+
+(f) Other services which may be obtained include:
+
+(1) Tests of measuring instruments to determine compliance with specifications or claims, when the evaluation is critical in national scientific or technical operations, and when suitable facilities are not available elsewhere; and
+
+(2) Referee tests in important cases when clients are unable to agree upon the method of measurement, the results of tests, or the interpretation of these results, but have agreed in advance in writing to accept and abide by the findings of NIST.
+
+(g) NIST reserves the right to decline any request for services if the work would interfere with other activities deemed by the Director to be of greater importance. In general, measurement services are not provided when available from commercial laboratories.
+
+(h) Suggestions will be offered on measurement techniques and on other sources of assistance on calibration or measurement problems when the equipment and personnel of NIST are unable to undertake the work. The National Conference of Standards Laboratories issues a Directory of Standards Laboratories in the United States which perform calibration work (obtainable from NCSL Secretariat, c/o National Institute of Standards & Technology, Boulder, CO 80303). Those laboratories which perform testing are listed in the ASTM Directory of Testing Laboratories, Commercial and Institutional. (Directory available from the Amercian Society for Testing and Materials, 1916 Race Street, Philadelphia, PA 19103.) Similar listings appear in buyer's guides for commercial products and in technical journals concerned with physical measurement.

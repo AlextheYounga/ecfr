@@ -1,0 +1,3 @@
+##### § 453.23 Persons becoming subject to bonding requirements during fiscal year. #####
+
+Considering the purpose of section 502, the language of the prohibition should be considered to apply to persons who because of election, employment or change in duties begin to handle funds or other property during the course of a particular fiscal year. Bonds should be secured for such persons, in an amount based on the funds handled by their predecessors during the preceding fiscal year, before they are permitted to engage in any of the fund-handling activities referred to in the prohibition, unless coverage with respect to such persons is already provided by bonds in force meeting the requirements of section 502(a).

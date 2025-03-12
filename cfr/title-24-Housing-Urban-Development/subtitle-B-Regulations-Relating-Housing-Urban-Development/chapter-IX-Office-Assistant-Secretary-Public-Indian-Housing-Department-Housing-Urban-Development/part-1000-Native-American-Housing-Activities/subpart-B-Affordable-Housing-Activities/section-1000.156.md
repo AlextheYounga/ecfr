@@ -1,0 +1,5 @@
+##### § 1000.156 Is affordable housing developed, acquired, or assisted under the IHBG program subject to limitations on cost or design standards? #####
+
+Yes. Affordable housing must be of moderate design. For these purposes, moderate design is defined as housing that is of a size and with amenities consistent with unassisted housing offered for sale in the Indian tribe's general geographic area to buyers who are at or below the area median income. The local determination of moderate design applies to all housing assisted under an affordable housing activity, including development activities (*e.g.,* acquisition, new construction, reconstruction, moderate or substantial rehabilitation of affordable housing and homebuyer assistance) and model activities. Acquisition includes assistance to a family to buy housing. Units with the same number of bedrooms must be comparable with respect to size, cost and amenities.
+
+[66 FR 49790, Sept. 28, 2001]

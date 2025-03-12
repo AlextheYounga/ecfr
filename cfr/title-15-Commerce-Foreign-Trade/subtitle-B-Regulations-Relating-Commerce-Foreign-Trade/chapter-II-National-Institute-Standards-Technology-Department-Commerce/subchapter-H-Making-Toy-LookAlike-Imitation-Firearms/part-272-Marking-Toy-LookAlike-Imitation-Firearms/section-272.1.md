@@ -1,0 +1,11 @@
+##### § 272.1 Applicability. #####
+
+This part applies to toy, look-alike, and imitation firearms (“devices”) having the appearance, shape, and/or configuration of a firearm and produced or manufactured and entered into commerce on or after May 5, 1989, including devices modelled on real firearms manufactured, designed, and produced since 1898. This part does not apply to:
+
+(a) Non-firing collector replica antique firearms, which look authentic and may be a scale model but are not intended as toys modelled on real firearms designed, manufactured, and produced prior to 1898;
+
+(b) Traditional B-B, paint-ball, or pellet-firing air guns that expel a projectile through the force of compressed air, compressed gas or mechanical spring action, or any combination thereof, as described in American Society for Testing and Materials standard F 589-85, Standard Consumer Safety Specification for Non-Powder Guns, June 28, 1985. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies may be obtained from the IHS Inc., 15 Inverness Way East, Englewood, CO 80112, *www.global.ihs.com,* Phone: 800.854.7179 or 303.397.7956, Fax: 303.397.2740, Email: *global@ihs.com.* A copy is available for inspection in the Office of the Chief Counsel for NIST, National Institute of Standards and Technology, Telephone: (301) 975-2803, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+
+(c) Decorative, ornamental, and miniature objects having the appearance, shape and/or configuration of a firearm, including those intended to be displayed on a desk or worn on bracelets, necklaces, key chains, and so on, provided that the objects measure no more than thirty-eight (38) millimeters in height by seventy (70) millimeters in length, the length measurement excluding any gun stock length measurement.
+
+[57 FR 48453, Oct. 26, 1992, as amended at 69 FR 18803, Apr. 9, 2004. Redesignated and amended at 78 FR 4765, Jan. 23, 2013]

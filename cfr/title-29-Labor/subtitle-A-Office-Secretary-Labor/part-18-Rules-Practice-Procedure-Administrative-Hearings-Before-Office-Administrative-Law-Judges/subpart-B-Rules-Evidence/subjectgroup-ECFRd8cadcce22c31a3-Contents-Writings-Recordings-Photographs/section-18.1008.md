@@ -1,0 +1,3 @@
+##### § 18.1008 Functions of the judge. #####
+
+When the admissibility of other evidence of contents of writings, recordings, or photographs under these rules depends upon the fulfillment of a condition of fact, the question whether the condition has been fulfilled is ordinarily for the judge to determine in accordance with the provisions of § 18.104(a). However, when an issue is raised whether the asserted writing ever existed; or whether another writing, recording, or photograph produced at the hearing is the original; or whether other evidence of contents correctly reflects the contents, the issue is for the judge as trier of fact to determine as in the case of other issues of fact.

@@ -1,0 +1,3 @@
+##### § 3b.227 Mailing lists. #####
+
+An individual's name and address maintained by the Commission will not be sold or rented for commercial or other solicitation purposes not related to the purposes for which the information was collected, unless such sale or rental is specifically authorized by law. This provision shall not be construed to require the withholding of names or addresses otherwise permitted to be made public, as pursuant to the Freedom of Information Act, 5 U.S.C. 552, as amended.

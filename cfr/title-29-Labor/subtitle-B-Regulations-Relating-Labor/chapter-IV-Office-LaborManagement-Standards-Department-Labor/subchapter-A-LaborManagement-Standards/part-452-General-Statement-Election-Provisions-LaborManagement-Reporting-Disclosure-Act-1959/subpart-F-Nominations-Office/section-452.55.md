@@ -1,0 +1,3 @@
+##### § 452.55 Statutory provisions concerning nomination. #####
+
+In elections subject to the provisions of title IV a reasonable opportunity must be afforded for the nomination of candidates. Although the Act does not prescribe particular forms of nomination procedures, it does require that the procedures employed be reasonable and that they conform to the provisions of the labor organization's constitution and bylaws insofar as they are not inconsistent with the provisions of title IV.

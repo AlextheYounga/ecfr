@@ -1,0 +1,3 @@
+##### § 16.101 Purpose of these rules. #####
+
+Section 203(a)(1) of the Equal Access to Justice Act amends section 504 of the Administrative Procedure Act to provide for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings before the Department of Labor. An eligible party may receive an award when it prevails over an agency, unless the agency's position in the proceeding was substantially justified or special circumstances make an award unjust. The rules in this part describe the parties eligible for awards, the proceedings that are covered, how to apply for awards, and the standards under which awards will be granted.

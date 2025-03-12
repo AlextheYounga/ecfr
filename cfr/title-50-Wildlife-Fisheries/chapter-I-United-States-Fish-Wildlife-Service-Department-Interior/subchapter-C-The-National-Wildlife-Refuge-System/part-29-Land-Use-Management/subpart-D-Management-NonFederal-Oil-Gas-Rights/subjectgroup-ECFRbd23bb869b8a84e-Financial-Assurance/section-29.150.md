@@ -1,0 +1,3 @@
+##### § 29.150 When do I have to provide financial assurance to the Service? #####
+
+You will need to provide financial assurance as a condition of approval for your operations permit when you submit your application. You must file financial assurance with us in a form acceptable to the Service and payable upon demand. This financial assurance is in addition to any financial assurance required by any other Federal or State regulatory authority.

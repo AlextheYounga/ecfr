@@ -1,0 +1,19 @@
+##### § 778.502 Artificially labeling part of the regular wages a “bonus”. #####
+
+(a) The term “bonus” is properly applied to a sum which is paid as an addition to total wages usually because of extra effort of one kind or another, or as a reward for loyal service or as a gift. The term is improperly applied if it is used to designate a portion of regular wages which the employee is entitled to receive under his regular wage contract.
+
+(b) For example, if an employer has agreed to pay an employee $300 a week without regard to the number of hours worked, the regular rate of pay of the employee is determined each week by dividing the $300 salary by the number of hours worked in the week. The situation is not altered if the employer continues to pay the employee, whose applicable maximum hours standard is 40 hours, the same $300 each week but arbitrarily breaks the sum down into wages for the first 40 hours at an hourly rate of $4.80 an hour, overtime compensation at $7.20 per hour and labels the balance a “bonus” (which will vary from week to week, becoming smaller as the hours increase and vanishing entirely in any week in which the employee works 55 hours or more). The situation is in no way bettered if the employer, standing by the logic of his labels, proceeds to compute and pay overtime compensation due on this “bonus” by prorating it back over the hours of the workweek. Overtime compensation has still not been properly computed for this employee at his regular rate.
+
+(c) An illustration of how the plan works over a 3-week period may serve to illustrate this principle more clearly:
+
+(1) In the first week the employee whose applicable maximum hours standard is 40 hours, works 40 hours and receives $300. The books show he has received $192 (40 hours × $4.80 an hour) as wages and $108 as bonus. No overtime has been worked so no overtime compensation is due.
+
+(2) In the second week he works 45 hours and receives $300. The books show he has received $192 for the first 40 hours and $36 (5 hours × $7.20 an hour) for the 5 hours over 40, or a total of $228 as wages, and the balance as a bonus of $72. Overtime compensation is then computed by the employer by dividing $72 by 45 hours to discover the average hourly increase resulting from the bonus—$1.60 per hour—and half this rate is paid for the 5 overtime hours—$4. This is improper. The employee's regular rate in this week is $6.67 per hour. He is owed $316.85 not $304.
+
+(3) In the third week the employee works 50 hours and is paid $300. The books show that the employee received $192 for the first 40 hours and $72 (10 hours × $7.20 per hour) for the 10 hours over 40, for a total of $264 and the balance as a bonus of $36. Overtime pay due on the “bonus” is found to be $3.60. This is improper. The employee's regular rate in this week is $6 and he is owed $330, not $303.60.
+
+(d) Similar schemes have been devised for piece-rate employees. The method is the same. An employee is assigned an arbitrary hourly rate (usually the minimum) and it is agreed that his straight-time and overtime earnings will be computed on this rate but that if these earnings do not amount to the sum he would have earned had his earnings been computed on a piece-rate basis of “x” cents per piece, he will be paid the difference as a “bonus.” The subterfuge does not serve to conceal the fact that this employee is actually compensated on a piece-rate basis, that there is no bonus and his regular rate is the quotient of piece-rate earnings divided by hours worked (*Walling* v. *Youngerman-Reynolds Hardwood Company,* 325 U.S. 419).
+
+(e) The general rule may be stated that wherever the employee is guaranteed a fixed or determinable sum as his wages each week, no part of this sum is a true bonus and the rules for determining overtime due on bonuses do not apply.
+
+[33 FR 986, Jan. 26, 1968; 33 FR 3172, Feb. 20, 1968, as amended at 46 FR 7318, Jan. 23, 1981]

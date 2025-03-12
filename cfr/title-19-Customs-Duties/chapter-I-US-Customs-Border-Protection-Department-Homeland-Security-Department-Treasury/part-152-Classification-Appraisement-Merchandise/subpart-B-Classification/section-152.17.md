@@ -1,0 +1,3 @@
+##### § 152.17 Changes in classification by Congress or by Presidential Proclamation. #####
+
+When a rate of Customs duty or internal revenue tax imposed upon or by reason of importation is changed by an act of Congress or by a proclamation of the President, the new rate shall be applied in accordance with the detailed instructions in § 141.69 of this chapter, which provides in general that the rates of duty applicable to merchandise shall be those in effect on the date of entry or withdrawal for consumption, except for certain merchandise covered by an entry for immediate transportation or overcarried and returned to the port of entry.

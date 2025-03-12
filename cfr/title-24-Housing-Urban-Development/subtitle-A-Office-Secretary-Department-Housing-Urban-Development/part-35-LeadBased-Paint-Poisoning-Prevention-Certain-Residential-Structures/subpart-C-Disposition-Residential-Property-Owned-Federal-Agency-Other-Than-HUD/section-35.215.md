@@ -1,0 +1,3 @@
+##### § 35.215 Disposition of residential property constructed after 1959 and before 1978. #####
+
+The Federal agency shall conduct a risk assessment and a lead-based paint inspection in accordance with 40 CFR 745.227. Evaluation shall be completed before closing of the sale according to a schedule determined by the Federal agency. The results of the risk assessment and lead-based paint inspection shall be made available to prospective purchasers as required in subpart A of this part.

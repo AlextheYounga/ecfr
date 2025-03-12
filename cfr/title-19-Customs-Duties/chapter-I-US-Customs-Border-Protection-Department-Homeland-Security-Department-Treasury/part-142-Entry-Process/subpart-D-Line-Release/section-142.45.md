@@ -1,0 +1,7 @@
+##### § 142.45 Use of bar code by entry filer. #####
+
+(a) *Printing of C-4 Code.* Upon receipt of an approved Line Release application, the entry filer, in accordance with instructions from the port director, shall preprint invoices with the C-4 Code in bar code and alpha-numeric format or print labels with the necessary information. Bar codes shall be printed in accordance with the specifications stated in Customs Publication 561 (*Line Release Overview*). Labels or preprinted invoices also shall state the name of the shipper or manufacturer of the product and the name of the importer of record, if other than the entry filer, above the bar code and the name of the entry filer and a product description below the bar code.
+
+(b) *Multiple commodity processing.* Multiple commodity processing allows more than one product to be released under one entry number. The shipper/manufacturer, importer of record and the entry filer must be the same. The product description is the only variable allowed. The commodities should be listed on one invoice with C-4 Code labels for each commodity attached to the invoice.
+
+(c) *Distribution of labels.* If labels are used, the labels shall be affixed to the invoices in accordance with instructions from the port director. The entry filer may either affix the labels or distribute the labels to the shippers/manufacturers and instruct them in the use and placement of the labels.

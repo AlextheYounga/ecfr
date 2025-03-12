@@ -1,0 +1,3 @@
+##### § 40.6 Records. #####
+
+The administering agency's file on each contract, grant, or loan involving the design, construction, or alteration of a residential structure shall include appropriate documentation indicating: (a) That the standards prescribed in § 40.4 are applicable to and have been or will be incorporated in the residential structure, or (b) that the grant or loan has been or will be made subject to the requirement that the standards are applicable and will be incorporated in the residential structure. The file should also indicate any modification or waiver of the standards which has been issued by the Secretary of HUD.

@@ -1,0 +1,3 @@
+##### § 780.615 Raising of livestock. #####
+
+Livestock auction operations are within the 13(b)(13) exemption only when they are conducted as an adjunct to the raising of livestock by the farmer. The farmer is required to engage in the raising of livestock as a prerequisite for the exemption of an employee employed in the operations described in section 13(b) (13). Engagement by the farmer in one or more of the other branches of farming will not meet this requirement.

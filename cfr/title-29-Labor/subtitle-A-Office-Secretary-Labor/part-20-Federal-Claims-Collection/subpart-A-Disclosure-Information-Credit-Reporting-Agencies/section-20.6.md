@@ -1,0 +1,3 @@
+##### § 20.6 Opportunity for repayment. #####
+
+The Department of Labor agency responsible for collecting the claim shall afford the debtor the opportunity to repay the debt or enter into a repayment plan which is agreeable to the head of the agency and is in a written form signed by such debtor. The head of the agency (or designee) may deem a repayment plan to be abrogated if the debtor should, after the repayment plan is signed, fail to comply with the terms of the plan.

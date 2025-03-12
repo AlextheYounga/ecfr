@@ -1,0 +1,11 @@
+##### § 965.502 Establishment of utility allowances by PHAs. #####
+
+(a) PHAs shall establish allowances for PHA-furnished utilities for all checkmetered utilities and allowances for resident-purchased utilities for all utilities purchased directly by residents from the utilities suppliers.
+
+(b) The PHA shall maintain a record that documents the basis on which allowances and scheduled surcharges, and revisions thereof, are established and revised. Such record shall be available for inspection by residents.
+
+(c) The PHA shall give notice to all residents of proposed allowances, scheduled surcharges, and revisions thereof. Such notice shall be given, in the manner provided in the lease or homebuyer agreement, not less than 60 days before the proposed effective date of the allowances or scheduled surcharges or revisions; shall describe with reasonable particularity the basis for determination of the allowances, scheduled surcharges, or revisions, including a statement of the specific items of equipment and function whose utility consumption requirements were included in determining the amounts of the allowances or scheduled surcharges; shall notify residents of the place where the PHA's record maintained in accordance with paragraph (b) of this section is available for inspection; and shall provide all residents an opportunity to submit written comments during a period expiring not less than 30 days before the proposed effective date of the allowances or scheduled surcharges or revisions. Such written comments shall be retained by the PHA and shall be available for inspection by residents.
+
+(d) Schedules of allowances and scheduled surcharges shall not be subject to approval by HUD before becoming effective, but will be reviewed in the course of audits or reviews of PHA operations.
+
+(e) The PHA's determinations of allowances, scheduled surcharges, and revisions thereof shall be final and valid unless found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with the law.

@@ -1,0 +1,3 @@
+##### § 971.429 Special terms, conditions and restrictions. #####
+
+Although the general criteria and standards to be used in establishing TCRs for a permit are set forth in this part, as referenced in §§ 971.418 through 971.428, the Administrator may impose special TCRs for the conservation of natural resources, protection of the environment, or the safety of life and property at sea when required by differing physical and environmental conditions.

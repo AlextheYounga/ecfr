@@ -1,0 +1,3 @@
+##### § 784.15 “State.” #####
+
+As used in the Act, “State” means “any State of the United States or the District of Columbia or any Territory or possession of the United States” (Act, section 3(c)). The application of this definition in determining questions of “coverage under the Act's definition of “commerce” and “produced” (see §§ 784.12, 784.13) is discussed in part 776 of this chapter, dealing with general coverage.

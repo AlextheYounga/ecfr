@@ -1,0 +1,13 @@
+##### § 825.701 Interaction with State laws. #####
+
+(a) Nothing in FMLA supersedes any provision of State or local law that provides greater family or medical leave rights than those provided by FMLA. The Department of Labor will not, however, enforce State family or medical leave laws, and States may not enforce the FMLA. Employees are not required to designate whether the leave they are taking is FMLA leave or leave under State law, and an employer must comply with the appropriate (applicable) provisions of both. An employer covered by one law and not the other has to comply only with the law under which it is covered. Similarly, an employee eligible under only one law must receive benefits in accordance with that law. If leave qualifies for FMLA leave and leave under State law, the leave used counts against the employee's entitlement under both laws. Examples of the interaction between FMLA and State laws include:
+
+(1) If State law provides 16 weeks of leave entitlement over two years, an employee needing leave due to his or her own serious health condition would be entitled to take 16 weeks one year under State law and 12 weeks the next year under FMLA. Health benefits maintenance under FMLA would be applicable only to the first 12 weeks of leave entitlement each year. If the employee took 12 weeks the first year, the employee would be entitled to a maximum of 12 weeks the second year under FMLA (not 16 weeks). An employee would not be entitled to 28 weeks in one year.
+
+(2) If State law provides half-pay for employees temporarily disabled because of pregnancy for six weeks, the employee would be entitled to an additional six weeks of unpaid FMLA leave (or accrued paid leave).
+
+(3) If State law provides six weeks of leave, which may include leave to care for a seriously-ill grandparent or a “spouse equivalent,” and leave was used for that purpose, the employee is still entitled to his or her full FMLA leave entitlement, as the leave used was provided for a purpose not covered by FMLA. If FMLA leave is used first for a purpose also provided under State law, and State leave has thereby been exhausted, the employer would not be required to provide additional leave to care for the grandparent or “spouse equivalent.”
+
+(4) If State law prohibits mandatory leave beyond the actual period of pregnancy disability, an instructional employee of an educational agency subject to special FMLA rules may not be required to remain on leave until the end of the academic term, as permitted by FMLA under certain circumstances. *See* Subpart F of this part.
+
+(b) [Reserved]

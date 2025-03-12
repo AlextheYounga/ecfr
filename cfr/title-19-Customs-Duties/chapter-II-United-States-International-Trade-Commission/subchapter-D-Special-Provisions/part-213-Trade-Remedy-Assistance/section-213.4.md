@@ -1,0 +1,3 @@
+##### § 213.4 Disclosure of receipt of technical assistance. #####
+
+An eligible small business that has received technical assistance from the Office must state that it has received technical assistance from the Trade Remedy Assistance Office in any resulting petition, complaint or application which is filed with the Commission or any other agency which administers the trade law under which remedies or benefits are sought.

@@ -1,0 +1,3 @@
+##### § 26.37 Separation of functions. #####
+
+No officer, employee, or agent of the Federal Government engaged in the performance of investigative, conciliatory, or prosecutorial functions in connection with the proceeding shall, in that proceeding or any factually related proceeding under subpart B of this part, participate or advise in the decision of the Administrative Law Judge, except as a witness or counsel during the proceeding, or in its appellate review.

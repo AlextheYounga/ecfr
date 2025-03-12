@@ -1,0 +1,15 @@
+##### § 4000.24 What if I mail my submission or issuance using the U.S. Postal Service? #####
+
+(a) *In general.* Your filing or issuance date is the date you mail your submission or issuance using the U.S. Postal Service if you meet the requirements of paragraph (b) of this section, and you mail it by the last scheduled collection of the day. If you mail it later than that, or if there is no scheduled collection that day, your filing or issuance date is the date of the next scheduled collection. If you do not meet the requirements of paragraph (b), your filing or issuance date is the date of receipt at the proper address.
+
+(b) *Requirements for “send date.”* Your submission or issuance must meet the applicable postal requirements, be properly addressed, and you must use First-Class Mail (or a U.S. Postal Service mail class that is at least the equivalent of First-Class Mail, such as Priority Mail or Express Mail). However, if you are filing an advance notice of reportable event or a Form 200 (notice of certain missed contributions), see § 4000.23(b); these filings are always treated as filed when received.
+
+(c) *Presumptions.* We make the following presumptions—
+
+(1) *U.S. Postal Service postmark.* If you meet the requirements of paragraph (b) of this section and your submission or issuance has a legible U.S. Postal Service postmark, we presume that the postmark date is the filing or issuance date. However, you may prove an earlier date under paragraph (a) of this section.
+
+(2) *Private meter postmark.* If you meet the requirements of paragraph (b) of this section and your submission or issuance has a legible postmark made by a private postage meter (but no legible U.S. Postal Service postmark) and arrives at the proper address by the time reasonably expected, we presume that the metered postmark date is your filing or issuance date. However, you may prove an earlier date under paragraph (a) of this section.
+
+(d) *Examples.* (1) You mail your issuance using the U.S. Postal Service and meet the requirements of paragraph (b) of this section. You deposit your issuance in a mailbox at 4 p.m. on Friday, March 15 and the next scheduled collection at that mailbox is 5 p.m. that day. Your issuance date is March 15. If on the other hand you deposit it at 6 p.m. and the next collection at that mailbox is not until Monday, March 18, your issuance date is March 18.
+
+(2) You mail your submission using the U.S. Postal Service and meet the requirements of paragraph (b) of this section. You deposit your submission in the mailbox at 4 p.m. on Friday, March 15, and the next scheduled collection at that mailbox is 5 p.m. that day. If your submission does not show a March 15 postmark, then you may prove to us that you mailed your submission by the last scheduled collection on March 15.

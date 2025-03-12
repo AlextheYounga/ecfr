@@ -1,0 +1,3 @@
+##### § 207.259a Waiver of title objection; mortgages formerly Commissioner-held. #####
+
+If the Commissioner sells a mortgage and such mortgage is later reassigned to him in exchange for debentures or the property covered by such mortgage is later conveyed to him in exchange for debentures, the Commissioner will not object to title by reason of any lien or other adverse interest that was senior to the mortgage on the date of the original sale of such mortgage by the Commissioner.

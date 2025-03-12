@@ -1,0 +1,3 @@
+##### § 70.4 Proactive disclosure of Departmental records. #####
+
+Records that are required by the FOIA, 5 U.S.C. 552(a)(2), to be made available for public inspection in an electronic format may be accessed through the Department's Web site. Each component is responsible for determining which of its records are required to be made publicly available, as well as identifying additional records of interest to the public that are appropriate for public disclosure, and for posting and indexing such records. Each component must review and update its Web site of posted records and indices on an ongoing basis.

@@ -1,0 +1,13 @@
+##### § 341.2 Filing requirements. #####
+
+(a) *Service of filings.* (1) Carriers must serve tariff publications and justifications to each shipper and subscriber. Such service shall be made in accordance with the requirements of § 385.2010 of this chapter.
+
+(2) Unless it seeks a waiver of electronic service, each customer or party entitled to service under this paragraph (a) must notify the company of the e-mail address to which service should be directed. A customer or party may seek a waiver of electronic service by filing a waiver request under Part 390 of this chapter providing good cause for its inability to accept electronic service.
+
+(b) *Notice period.* All tariff publications (except for suspension supplements, adoption notices, adoption supplements, and tariff indexes) must be filed with the Commission and posted not less than 30, nor more than 60, days prior to the proposed effective date, unless a different notice period is authorized by the Commission. The notice period shall begin the first full day after the tariff publication is filed with the Commission and shall end on the last day prior to the tariff publication effective date.
+
+(c) *Transmittal letter*—(1) *Contents.* Letters of transmittal must describe the filing and explain any changes to the carrier's rates, rules, terms or conditions of service; state if a waiver is being requested, and specify the statute, section, regulation, policy or order requested to be waived; and identify the tariffs supplemental numbers, or tariff sections and the proposed effective date of the tariff publication. Carriers must provide to the Commission, in the letter of transmittal accompanying the filing of a tariff publication containing a joint carrier, the address, phone number, and a contact for each joint carrier listed in the tariff publication.
+
+(2) *Certification.* Letters of transmittal must certify that the filing has been sent to each subscriber of the tariff publication pursuant to paragraph (a) of this section. For service made on paper, the letters of transmittal must certify that the filing has been sent to each customer or party by first class mail or other agreed-upon means. If there are no subscribers, letters of transmittal must so certify.
+
+[58 FR 58773, Nov. 4, 1993, as amended by Order 606, 64 FR 44404, Aug. 16, 1999; Order 714, 73 FR 57536, Oct. 3, 2008; Order 780, 78 FR 32098, May 29, 2013]

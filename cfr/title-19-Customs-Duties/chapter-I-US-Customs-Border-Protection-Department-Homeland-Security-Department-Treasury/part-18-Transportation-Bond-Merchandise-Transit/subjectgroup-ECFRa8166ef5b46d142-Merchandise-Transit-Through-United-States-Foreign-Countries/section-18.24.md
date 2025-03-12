@@ -1,0 +1,7 @@
+##### § 18.24 Retention of goods on dock; splitting of shipments. #####
+
+(a) Upon written application of a party in interest and the written consent of the owner of the dock, the port director, in his discretion, may allow in-transit merchandise, including merchandise covered by a carnet, to remain on the dock under the supervision of a Customs officer without extra expense to the Government for a period not exceeding 90 days. Upon further application, additional extensions of 90 days or less, but not to exceed 1 year from the date of importation, may likewise be granted by the port director. The port director may take possession of the merchandise at any time.
+
+(b) The splitting up of a shipment for exportation shall be permitted when exportation in its entirety is not possible by reason of the different destinations to which portions of the shipment are destined, when the exporting vessel cannot properly accommodate the entire quantity, or in similar circumstances. In the case, however, of merchandise being transported under cover of a carnet, splitting up of a shipment shall not be permitted.
+
+[T.D. 71-70, 36 FR 4489, Mar. 6, 1971, as amended by T.D. 82-116, 47 FR 27262, June 24, 1982; T.D. 00-57, 65 FR 53574, Sept. 5, 2000]

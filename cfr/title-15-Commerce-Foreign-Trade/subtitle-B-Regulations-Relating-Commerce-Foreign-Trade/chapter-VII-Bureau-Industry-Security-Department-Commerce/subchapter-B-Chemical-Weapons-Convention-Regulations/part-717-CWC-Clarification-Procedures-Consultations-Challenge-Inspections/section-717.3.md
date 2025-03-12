@@ -1,0 +1,3 @@
+##### § 717.3 Samples. #####
+
+If requested by the Inspection Team, the owner, operator, occupant or agent in charge of a facility must provide a sample, as provided for in the Convention and the Act and consistent with requirements set forth by the Director of the United States National Authority in 22 CFR part 103. This may be done by providing a sample, taken in the presence of the Inspection Team, to the U.S. Host Team leader, who will then release it to the Inspection Team for analysis. Analysis of the sample may be restricted to verifying the presence or absence of Schedule 1, 2, or 3 chemicals, or appropriate degradation products, unless agreed otherwise.

@@ -1,0 +1,3 @@
+##### § 4.122 Contracts for operation of postal contract stations. #####
+
+The Act, in paragraph (7) of section 7, exempts from its provisions “any contract with the Post Office Department, [now the U.S. Postal Service], the principal purpose of which is the operation of postal contract stations.” The exemption is limited to postal service contracts having the operation of such stations as their principal purpose. A provision of the legislation which would also have exempted contracts with the U.S. Postal Service having as their principal purpose the transportation, handling, or delivery of the mails was eliminated from the bill during its consideration by the House Committee on Education and Labor (H. Rept. 948, 89th Cong., 1st sess., p. 1).

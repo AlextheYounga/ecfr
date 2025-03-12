@@ -1,0 +1,28 @@
+##### § 14.91 When do I need an import/export license? #####
+
+(a) The Endangered Species Act (16 U.S.C. 1538(d)(1)) makes it unlawful for any person to engage in business as an importer or exporter of certain fish or wildlife without first having obtained permission from the Secretary. For the purposes of this subchapter, engage in business means to import or export wildlife for commercial purposes.
+
+(b) Except as provided in § 14.92, if you engage in the business of importing or exporting wildlife for commercial purposes (see § 14.4), you must obtain an import/export license prior to importing or exporting your wildlife shipment.
+
+(c) The following table includes some examples of when an import/export license is required:
+
+|                                                              If I import into the United States or export from the United States                                                              |. . . do I need an import/export  <br/>license?|
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------|
+|                             (1) Wildlife in the form of products such as garments, bags, shoes, boots, jewelry, rugs, trophies, or curios for commercial purposes                             |                     Yes.                      |
+|                                                           (2) Wildlife in the form of hides, furs, or skins for commercial purposes                                                           |                     Yes.                      |
+|                                                                   (3) Wildlife in the form of food for commercial purposes                                                                    |                     Yes.                      |
+|                                                       (4) As an animal dealer, animal broker, pet dealer, or pet or laboratory supplier                                                       |                     Yes.                      |
+|                                                      (5) As an individual owner of a personally owned live wildlife pet for personal use                                                      |                      No.                      |
+|                                                                        (6) As a collector or hobbyist for personal use                                                                        |                      No.                      |
+|                                                    (7) As a collector or hobbyist for commercial purposes, including sale, trade or barter                                                    |                     Yes.                      |
+|                                                         (8) As a laboratory researcher or biomedical supplier for commercial purposes                                                         |                     Yes.                      |
+|(9) As a customs broker or freight forwarder engaged in business as a dispatcher, handler, consolidator, or transporter of wildlife or if I file documents with the Service on behalf of others|                      No.                      |
+|                                                           (10) As a common carrier engaged in business as a transporter of wildlife                                                           |                      No.                      |
+|                                       (11) As a taxidermist, outfitter, or guide importing or exporting my own hunting trophies for commercial purposes                                       |                     Yes.                      |
+|                                         (12) As a taxidermist, outfitter, or guide transporting or shipping hunting trophies for clients or customers                                         |                      No.                      |
+|                                     (13) As a U.S. taxidermist receiving a U.S. client's personal hunting trophies after import clearance for processing                                      |                      No.                      |
+|                                   (14) As a U.S. taxidermist importing wildlife from or exporting wildlife to foreign owners who are requesting my services                                   |                     Yes.                      |
+|                                         (15) As a foreign owner of wildlife exporting my personal hunting trophies from the United States to my home                                          |                      No.                      |
+|                                                                      (16) As a circus for exhibition or resale purposes                                                                       |                     Yes.                      |
+|                                                                     (17) As a Federal, State, municipal, or tribal agency                                                                     |                      No.                      |
+|                                  (18) As a public museum, or public scientific or educational institution for noncommercial research or educational purposes                                  |                      No.                      |

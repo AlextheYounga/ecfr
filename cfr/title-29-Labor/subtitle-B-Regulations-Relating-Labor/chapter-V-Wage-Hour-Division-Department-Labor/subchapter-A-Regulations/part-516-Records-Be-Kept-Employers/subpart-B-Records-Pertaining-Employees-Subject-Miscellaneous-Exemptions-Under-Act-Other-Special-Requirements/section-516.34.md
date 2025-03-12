@@ -1,0 +1,5 @@
+##### § 516.34 Exemption from overtime pay for time spent by certain employees receiving remedial education pursuant to section 7(q) of the Act. #####
+
+With respect to each employee exempt from the overtime pay requirements of the Act for time spent receiving remedial education pursuant to section 7(q) of the Act and § 778.603 of this title, the employer shall maintain and preserve records containing all the information and data required by § 516.2 and, in addition, shall also make and preserve a record, either separately or as a notation on the payroll, showing the hours spent each workday and total hours each workweek that the employee is engaged in receiving such remedial education that does not include any job-specific training but that is designed to provide reading and other basic skills at or below the eighth-grade level or to fulfill the requirements for a high school diploma (or General Educational Development certificate), and the compensation (at not less than the employee's regular rate of pay) paid each pay period for the time so engaged.
+
+[56 FR 61101, Nov. 29, 1991]

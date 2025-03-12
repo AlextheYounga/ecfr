@@ -1,0 +1,5 @@
+##### § 922.40 Purpose. #####
+
+The purpose of the regulations in this subpart and in subparts F through R is to implement the designations of the thirteen National Marine Sanctuaries for which site specific regulations appear in subparts F through R, respectively, by regulating activities affecting them, consistent with their respective terms of designation in order to protect, preserve and manage and thereby ensure the health, integrity and continued availability of the conservation, ecological, recreational, research, educational, historical and aesthetic resources and qualities of these areas. Additional purposes of the regulations implementing the designation of the Florida Keys and Hawaiian Islands Humpback Whale National Marine Sanctuaries are found at §§ 922.160, and 922.180, respectively.
+
+[65 FR 39055, June 22, 2000]

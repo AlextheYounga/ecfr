@@ -1,0 +1,3 @@
+##### § 260.79 Travel and other expenses. #####
+
+Charges may be made to cover the cost of travel and other expenses incurred in connection with the performance of any inspection service, including appeal inspections: *Provided,* That, if charges for sampling or inspection are based on an hourly rate, an additional hourly charge may be made for travel time including time spent waiting for transportation as well as time spent traveling, but not to exceed 8 hours of travel time for any one person for any one day: *And provided further,* That, if travel is by common carrier, no hourly charge may be made for travel time outside the employee's official work hours.

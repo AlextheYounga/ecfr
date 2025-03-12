@@ -1,0 +1,11 @@
+##### § 884.109 Rent adjustments. #####
+
+(a) *Funding of adjustments.* Housing assistance payments will be made in increased amounts commensurate with Contract Rent adjustments under this paragraph, up to the maximum amount authorized under the Contract. (See §§ 884.104 and 884.105).
+
+(b) *Automatic annual adjustments.* (1) Automatic Annual Adjustment Factors will be determined by HUD at least annually; interim revisions may be made as market conditions warrant. Such Factors and the basis for their determination will be published in the Federal Register. These published Factors will be reduced appropriately by HUD where utilities are paid directly by Families.
+
+(2) On each anniversary date of the Contract, the Contract Rents shall be adjusted by applying the applicable Automatic Annual Adjustment Factor most recently published by HUD. Contract Rents may be adjusted upward or downward, as may be appropriate; however, in no case shall the adjusted rents be less than the Contract Rents on the effective date of the Contract.
+
+(c) *Special additional adjustments.* Special additional adjustments shall be granted, when approved by HUD, to reflect increases in the actual and necessary expenses of owning and maintaining the Contract Units which have resulted from substantial general increases in real property taxes, utility rates, or similar costs (i.e., assessments, and utilities not covered by regulated rates), but only if and to the extent that the Owner clearly demonstrates that such general increases have caused increases in the Owner's operating costs which are not adequately compensated for by automatic annual adjustments. The Owner shall submit to HUD financial statements which clearly support the increase.
+
+(d) *Overall limitation.* Notwithstanding any other provisions of this part, adjustments as provided in this section shall not result in material differences between the rents charged for assisted and comparable unassisted units, as determined by HUD: *Provided, however,* That this limitation shall not be construed to prohibit differences in rents between assisted and comparable unassisted units to the extent that such differences may have existed with respect to the initial Contract Rents.

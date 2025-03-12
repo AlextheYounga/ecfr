@@ -1,0 +1,3 @@
+##### § 904.307 Alternative to HBA. #####
+
+Where the homes are on scattered sites (noncontiguous lots throughout a multi-block area, with no common property), or where the number of homes may be too few to support an HBA, and where an alternative method for homebuyer representation and continuing counseling is provided, an HBA shall not be required. For such cases, a modified form of homebuyers association may be called for or a less formal organization may be desirable. This decision shall be made jointly by the LHA and the homebuyers, acting on the recommendation of HUD.

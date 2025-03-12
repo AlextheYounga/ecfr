@@ -1,0 +1,3 @@
+##### § 207.117 Review by Commission. #####
+
+On review, the parties may not present argument on any issue that is not set forth in the notice of review; and the Commission may affirm, reverse, modify, set aside or remand for further proceedings, in whole or in part, the initial determination of the administrative law judge. The Commission may make any findings or conclusions that in its judgment are proper based on the record in the proceeding.

@@ -1,0 +1,3 @@
+##### § 780.113 Seeds, spawn, etc. #####
+
+Seeds and seedlings of agricultural and horticultural plants are considered “agricultural or horticultural commodities.” Thus, since mushrooms and beans are considered “agricultural or horticultural commodities,” the spawn of mushrooms and bean sprouts are also so considered and the production, cultivation, growing, and harvesting of mushroom spawn or bean sprouts is “agriculture” within the meaning of section 3(f).

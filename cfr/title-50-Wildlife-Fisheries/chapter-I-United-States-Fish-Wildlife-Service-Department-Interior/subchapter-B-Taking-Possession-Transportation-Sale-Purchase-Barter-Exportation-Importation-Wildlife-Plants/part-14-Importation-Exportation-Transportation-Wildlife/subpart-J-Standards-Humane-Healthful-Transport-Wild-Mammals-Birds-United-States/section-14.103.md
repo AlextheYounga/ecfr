@@ -1,0 +1,3 @@
+##### § 14.103 Prohibitions. #####
+
+Unless the requirements of this subpart are fully satisfied and all other legal requirements are met, it is unlawful for any person to transport to the United States, cause to be transported to the United States, or allow to be transported to the United States any live wild mammal or bird. It shall be unlawful for any person to import, to transport, or to cause or permit to be transported to the United States any wild mammal or bird under inhumane or unhealthful conditions or in violation of this subpart J.

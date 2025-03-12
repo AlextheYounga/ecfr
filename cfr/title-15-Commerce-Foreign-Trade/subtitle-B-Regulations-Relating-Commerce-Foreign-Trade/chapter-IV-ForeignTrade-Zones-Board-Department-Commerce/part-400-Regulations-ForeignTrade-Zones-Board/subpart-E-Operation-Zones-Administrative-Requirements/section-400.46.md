@@ -1,0 +1,5 @@
+##### § 400.46 Grantee liability. #####
+
+(a) *Exemption from liability.* A grant of authority, *per se,* shall not be construed to make the zone grantee liable for violations by zone participants. The role of the zone grantee under the FTZ Act and the Board's regulations is to provide general management of the zone to ensure that the reasonable needs of the business community are served. It would not be in the public interest to discourage public entities from zone sponsorship because of concern about liability without fault.
+
+(b) *Exception to exemption from liability.* A grantee could create liability for itself that otherwise would not exist if the grantee undertakes detailed operational oversight of or direction to zone participants. Examples of detailed operational oversight or direction include review of an operator's inventory-control or record-keeping systems, specifying requirements for such a system to be used by an operator, and review of CBP documentation related to an operator's zone receipts and shipments.

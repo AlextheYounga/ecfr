@@ -1,0 +1,3 @@
+##### § 4.151 Employees covered by provisions of section 2(a). #####
+
+The provisions of sections 2(a) and 4(c) of the Act prescribe labor standards requirements applicable, except as otherwise specifically provided, to every contract in excess of $2,500 which is entered into by the United States or the District of Columbia for the principal purpose of furnishing services in the United States through the use of service employees. These provisions apply to all service employees engaged in the performance of such a contract or any subcontract thereunder. The Act, in section 8(b) defines the term *service employee.* The general scope of the definition is considered in § 4.113(b) of this subpart.

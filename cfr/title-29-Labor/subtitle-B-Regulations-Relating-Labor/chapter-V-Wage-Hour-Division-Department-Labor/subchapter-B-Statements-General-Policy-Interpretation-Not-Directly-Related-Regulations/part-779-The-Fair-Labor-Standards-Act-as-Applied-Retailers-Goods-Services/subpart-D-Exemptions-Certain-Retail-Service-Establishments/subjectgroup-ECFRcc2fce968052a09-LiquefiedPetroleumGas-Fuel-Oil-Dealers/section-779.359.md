@@ -1,0 +1,3 @@
+##### § 779.359 May qualify as exempt 13(a)(2) establishments. #####
+
+A liquefied-petroleum-gas or fuel oil dealer's establishment may qualify as an exempt retail or service establishment under section 13(a)(2) of the Act if it meets all the requirements of that exemption. (It should be noted, however, that employees of certain enterprises engaged in the wholesale or bulk distribution of petroleum products may be partially exempt from the overtime provisions of the Act under section 7(b)(3). This overtime exemption is discussed in a separate bulletin, part 794 of this chapter. Liquefied-petroleum-gas means butane, propane and mixtures of butane and propane gases.

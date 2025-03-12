@@ -1,0 +1,3 @@
+##### § 253.19 Dual-use CCF. #####
+
+The Program may require the pledge of a CCF account or annual deposits of some portion of the project property's net income into a dual-use CCF. A dual-use CCF provides the normal CCF tax-deferral benefits, but also gives the Program control of CCF withdrawals, recourse against CCF deposits, ensures an emergency refurbishing reserve (tax-deferred) for project property, and provides additional collateral.

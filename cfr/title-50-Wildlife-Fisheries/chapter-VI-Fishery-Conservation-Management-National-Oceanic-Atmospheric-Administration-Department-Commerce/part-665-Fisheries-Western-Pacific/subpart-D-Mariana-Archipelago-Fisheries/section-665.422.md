@@ -1,0 +1,3 @@
+##### § 665.422 Management area. #####
+
+The Mariana coral reef management area consists of the U.S. EEZ around Guam and the offshore area of the CNMI or that portion of the U.S. EEZ around CNMI between three nautical miles offshore and the outer boundary of the U.S. EEZ. The inner boundary of the management area is the seaward boundaries of the Territory of Guam, and a line three nautical miles seaward from the shoreline of CNMI. The outer boundary of the management area is the outer boundary of the U.S. EEZ or adjacent international maritime boundaries. The CNMI and Guam management area is divided by a line intersecting these two points: 148° E. long., 12° N. lat., and 142° E. long., 16° N. lat.

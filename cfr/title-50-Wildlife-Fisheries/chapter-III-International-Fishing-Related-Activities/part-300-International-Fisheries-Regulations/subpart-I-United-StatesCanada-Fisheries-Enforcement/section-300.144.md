@@ -1,0 +1,3 @@
+##### § 300.144 Penalties and sanctions. #####
+
+Any person, any fishing vessel, or the owner or operator of any such vessel, who violates any provision of the Agreement or this subpart, is subject to the civil and criminal fines, penalties, forfeitures, permit sanctions, or other sanctions provided in the Magnuson-Stevens Act, part 600 of this title, 15 CFR part 904 (Civil Procedures), and any other applicable law or regulation.

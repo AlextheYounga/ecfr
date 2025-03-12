@@ -1,0 +1,3 @@
+##### § 971.422 Safety at sea requirements. #####
+
+The Secretary of the department in which the Coast Guard is operating, in consultation with the Administrator, will require in any permit issued under this part, in conformity with principles of international law, that vessels documented under the laws of the United States and used in activities authorized under the permit comply with conditions regarding design, construction, alteration, repair, equipment, operation, manning and maintenance relating to vessel and crew safety and the promotion of safety of life and property at sea. These requirements will be established with reference to subpart G of this part.

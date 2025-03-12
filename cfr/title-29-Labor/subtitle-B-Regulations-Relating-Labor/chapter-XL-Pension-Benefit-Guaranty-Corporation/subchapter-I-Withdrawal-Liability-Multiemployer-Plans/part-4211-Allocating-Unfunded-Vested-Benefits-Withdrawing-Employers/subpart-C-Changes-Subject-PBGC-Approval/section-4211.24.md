@@ -1,0 +1,3 @@
+##### § 4211.24 Special rule for certain alternative methods previously approved. #####
+
+A plan may not apply to any employer withdrawing on or after November 25, 1987, an allocation method approved by the PBGC before that date that allocates to the employer the greater of the amounts of unfunded vested benefits determined under two different allocation rules. Until a plan that has been using such a method is amended to adopt a valid allocation method, its allocation method shall be deemed to be the statutory allocation method that would apply if it had never been amended.

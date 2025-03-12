@@ -1,0 +1,3 @@
+##### § 788.9 “Preparing \* \* \* logs.” #####
+
+Preparing logs includes, where appropriate, removing the limbs and top, cutting them into lengths, removing the bark, and splitting or facing them when done at the felling site, but does not include such operations when done at a mill. Employees engaged in sawmill, tie mill, and other operations in connection with the processing of logs, such as the production of lumber, are not exempt.

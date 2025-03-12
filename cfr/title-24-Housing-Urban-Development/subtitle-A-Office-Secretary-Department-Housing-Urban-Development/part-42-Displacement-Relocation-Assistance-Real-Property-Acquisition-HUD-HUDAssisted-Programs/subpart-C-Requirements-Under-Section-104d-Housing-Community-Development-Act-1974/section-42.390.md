@@ -1,0 +1,3 @@
+##### § 42.390 Appeals. #####
+
+A person who disagrees with the recipient's determination concerning whether the person qualifies as a “displaced person,” or with the amount of relocation assistance for which the person is eligible, may file a written appeal of that determination with the recipient. A person who is dissatisfied with the recipient's determination on his or her appeal may submit a written request for review of that determination to the HUD field office (or to the State in the case of a unit of general local government funded by the State). If the full relief is not granted, the recipient shall advise the person of his or her right to seek judicial review.

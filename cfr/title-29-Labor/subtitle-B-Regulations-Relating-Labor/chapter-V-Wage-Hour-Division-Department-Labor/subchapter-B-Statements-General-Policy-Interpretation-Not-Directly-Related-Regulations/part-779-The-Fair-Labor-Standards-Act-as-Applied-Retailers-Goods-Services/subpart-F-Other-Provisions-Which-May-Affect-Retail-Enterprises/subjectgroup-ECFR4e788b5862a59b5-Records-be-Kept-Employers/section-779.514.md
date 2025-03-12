@@ -1,0 +1,3 @@
+##### § 779.514 Period for preserving records. #####
+
+Basic records, such as payroll records, certificates issued or required under the Act, and employment agreements and other basic records must be preserved for at least 3 years. Supplementary records such as time and earnings cards or sheets, wage rate tables, work time schedules, or order, shipping and billing records, and similar records need be preserved for only 2 years.

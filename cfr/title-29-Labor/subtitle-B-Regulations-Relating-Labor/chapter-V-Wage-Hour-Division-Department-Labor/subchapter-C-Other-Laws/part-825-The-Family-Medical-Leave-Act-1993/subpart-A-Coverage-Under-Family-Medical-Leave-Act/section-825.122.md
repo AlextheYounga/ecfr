@@ -1,0 +1,37 @@
+##### § 825.122 Definitions of covered servicemember, spouse, parent, son or daughter, next of kin of a covered servicemember, adoption, foster care, son or daughter on covered active duty or call to covered active duty status, son or daughter of a covered servicemember, and parent of a covered servicemember. #####
+
+(a) Covered servicemember means: (1) A current member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
+
+(2) A covered veteran who is undergoing medical treatment, recuperation, or therapy for a serious injury or illness. *Covered veteran* means an individual who was a member of the Armed Forces (including a member of the National Guard or Reserves), and was discharged or released under conditions other than dishonorable at any time during the five-year period prior to the first date the eligible employee takes FMLA leave to care for the covered veteran. *See* § 825.127(b)(2).
+
+(b) *Spouse, as defined in the statute,* means a husband or wife. For purposes of this definition, husband or wife refers to the other person with whom an individual entered into marriage as defined or recognized under state law for purposes of marriage in the State in which the marriage was entered into or, in the case of a marriage entered into outside of any State, if the marriage is valid in the place where entered into and could have been entered into in at least one State. This definition includes an individual in a same-sex or common law marriage that either:
+
+(1) Was entered into in a State that recognizes such marriages; or
+
+(2) If entered into outside of any State, is valid in the place where entered into and could have been entered into in at least one State.
+
+(c) *Parent.* Parent means a biological, adoptive, step or foster father or mother, or any other individual who stood in loco parentis to the employee when the employee was a son or daughter as defined in paragraph (d) of this section. This term does not include parents “in law.”
+
+(d) *Son or daughter.* For purposes of FMLA leave taken for birth or adoption, or to care for a family member with a serious health condition, son or daughter means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is either under age 18, or age 18 or older and “incapable of self-care because of a mental or physical disability” at the time that FMLA leave is to commence.
+
+(1) *Incapable of self-care* means that the individual requires active assistance or supervision to provide daily self-care in three or more of the activities of daily living (ADLs) or instrumental activities of daily living (IADLs). Activities of daily living include adaptive activities such as caring appropriately for one's grooming and hygiene, bathing, dressing and eating. Instrumental activities of daily living include cooking, cleaning, shopping, taking public transportation, paying bills, maintaining a residence, using telephones and directories, using a post office, etc.
+
+(2) *Physical or mental disability* means a physical or mental impairment that substantially limits one or more of the major life activities of an individual. Regulations at 29 CFR 1630.2(h), (i), and (j), issued by the Equal Employment Opportunity Commission under the Americans with Disabilities Act (ADA), 42 U.S.C. 12101 *et seq.,* define these terms.
+
+(3) Persons who are “in loco parentis” include those with day-to-day responsibilities to care for and financially support a child, or, in the case of an employee, who had such responsibility for the employee when the employee was a child. A biological or legal relationship is not necessary.
+
+(e) *Next of kin of a covered servicemember* means the nearest blood relative other than the covered servicemember's spouse, parent, son, or daughter, in the following order of priority: blood relatives who have been granted legal custody of the covered servicemember by court decree or statutory provisions, brothers and sisters, grandparents, aunts and uncles, and first cousins, unless the covered servicemember has specifically designated in writing another blood relative as his or her nearest blood relative for purposes of military caregiver leave under the FMLA. When no such designation is made, and there are multiple family members with the same level of relationship to the covered servicemember, all such family members shall be considered the covered servicemember's next of kin and may take FMLA leave to provide care to the covered servicemember, either consecutively or simultaneously. When such designation has been made, the designated individual shall be deemed to be the covered servicemember's only next of kin. *See* § 825.127(d)(3).
+
+(f) *Adoption* means legally and permanently assuming the responsibility of raising a child as one's own. The source of an adopted child (e.g., whether from a licensed placement agency or otherwise) is not a factor in determining eligibility for FMLA leave. *See* § 825.121 for rules governing leave for adoption.
+
+(g) *Foster care* means 24-hour care for children in substitution for, and away from, their parents or guardian. Such placement is made by or with the agreement of the State as a result of a voluntary agreement between the parent or guardian that the child be removed from the home, or pursuant to a judicial determination of the necessity for foster care, and involves agreement between the State and foster family that the foster family will take care of the child. Although foster care may be with relatives of the child, State action is involved in the removal of the child from parental custody. *See* § 825.121 for rules governing leave for foster care.
+
+(h) *Son or daughter on covered active duty or call to covered active duty status* means the employee's biological, adopted, or foster child, stepchild, legal ward, or a child for whom the employee stood in loco parentis, who is on covered active duty or call to covered active duty status, and who is of any age. *See* § 825.126(a)(5).
+
+(i) *Son or daughter of a covered servicemember* means the covered servicemember's biological, adopted, or foster child, stepchild, legal ward, or a child for whom the covered servicemember stood in loco parentis, and who is of any age. *See* § 825.127(d)(1).
+
+(j) *Parent of a covered servicemember* means a covered servicemember's biological, adoptive, step or foster father or mother, or any other individual who stood in loco parentis to the covered servicemember. This term does not include parents “in law.” *See* § 825.127(d)(2).
+
+(k) *Documenting relationships.* For purposes of confirmation of family relationship, the employer may require the employee giving notice of the need for leave to provide reasonable documentation or statement of family relationship. This documentation may take the form of a simple statement from the employee, or a child's birth certificate, a court document, etc. The employer is entitled to examine documentation such as a birth certificate, etc., but the employee is entitled to the return of the official document submitted for this purpose.
+
+[78 FR 8902, Feb. 6, 2013, as amended at 80 FR 10001, Feb. 25, 2015]

@@ -1,0 +1,3 @@
+##### § 6.57 Judicial review. #####
+
+Within 2 years of receipt of a final administrative determination as provided in § 6.34 or § 6.55, a requestor may seek judicial review of that determination. A civil action must be filed in the Federal District Court in which the requestor resides or has his or her principal place of business or in which the agency records are situated, or in the District of Columbia.

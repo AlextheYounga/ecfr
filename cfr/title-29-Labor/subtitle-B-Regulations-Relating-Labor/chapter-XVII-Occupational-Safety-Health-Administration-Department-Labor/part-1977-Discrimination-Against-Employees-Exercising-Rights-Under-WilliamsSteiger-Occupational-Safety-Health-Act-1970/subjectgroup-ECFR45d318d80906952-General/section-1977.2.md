@@ -1,0 +1,3 @@
+##### § 1977.2 Purpose of this part. #####
+
+The purpose of this part is to make available in one place interpretations of the various provisions of section 11(c) of the Act which will guide the Secretary of Labor in the performance of his duties thereunder unless and until otherwise directed by authoritative decisions of the courts, or concluding, upon reexamination of an interpretation, that it is incorrect.

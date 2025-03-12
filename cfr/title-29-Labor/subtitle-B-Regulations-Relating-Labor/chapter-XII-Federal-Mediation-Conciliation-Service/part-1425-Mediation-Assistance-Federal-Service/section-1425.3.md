@@ -1,0 +1,5 @@
+##### § 1425.3 Functions of the Service under title VII of the Civil Service Reform Act. #####
+
+(a) The service may provide its assistance in any negotiation dispute when earnest efforts by the parties to reach agreement through direct negotiation have failed to resolve the dispute. When the existence of a negotiation dispute comes to the attention of the Service through a specific request for mediation from one or both of the parties, through notification under the provisions of § 1425.2, or otherwise, the Service will examine the information concerning the dispute and if, in its opinion, the need for mediation exists, the Service will use its best efforts to assist the parties to reach agreement.
+
+(b) The Service may, at the outset of negotiations or at any time in the dispute, set time limits on its participation. If no settlement of the dispute is reached by the expiration of the time limits, the Service may make suggestions for settlement to the parties. If suggestions for settlement made by the Service are not accepted by the parties within time limits set by the Service, the matter may be referred to the Federal Services Impasses Panel (FSIP).

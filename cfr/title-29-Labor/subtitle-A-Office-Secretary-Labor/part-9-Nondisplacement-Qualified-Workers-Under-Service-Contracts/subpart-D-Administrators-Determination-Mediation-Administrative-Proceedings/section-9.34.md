@@ -1,0 +1,27 @@
+##### § 9.34 Administrative Law Judge hearings. #####
+
+(a) *Authority.* (1) *General.* The Office of Administrative Law Judges has jurisdiction to hear and decide appeals pursuant to § 9.31(b)(1) of this part concerning questions of law and fact from determinations of the Administrator issued under § 9.31 of this part. In considering the matters within the scope of its jurisdiction, the Administrative Law Judge shall act as the authorized representative of the Secretary and shall act fully and, subject to an appeal filed under § 9.32(b)(2) of this part, finally on behalf of the Secretary concerning such matters.
+
+(2) *Limit on scope of review.* (i) The Administrative Law Judge shall not have jurisdiction to pass on the validity of any provision of this part.
+
+(ii) The Equal Access to Justice Act, as amended, does not apply to hearings under this part. Accordingly, an Administrative Law Judge shall have no authority to award attorney fees and/or other litigation expenses pursuant to the provisions of the Equal Access to Justice Act for any proceeding under this part.
+
+(b) *Scheduling.* If the case is not stayed to attempt settlement in accordance with § 9.33(a) of this part, the Administrative Law Judge to whom the case is assigned shall, within 15 calendar days following receipt of the request for hearing, notify the parties and any representatives, of the day, time, and place for hearing. The date of the hearing shall not be more than 60 days from the date of receipt of the request for hearing.
+
+(c) *Dismissing challenges for failure to participate.* The Administrative Law Judge may, at the request of a party or on his/her own motion, dismiss a challenge to a determination of the Administrator upon the failure of the party requesting a hearing or his/her representative to attend a hearing without good cause; or upon the failure of said party to comply with a lawful order of the Administrative Law Judge.
+
+(d) *Administrator's participation.* At the Administrator's discretion, the Administrator has the right to participate as a party or as amicus curiae at any time in the proceedings, including the right to petition for review of a decision of an Administrative Law Judge in a case in which the Administrator has not previously participated. The Administrator shall participate as a party in any proceeding in which the Administrator has found any violation of this part, except where the complainant or other interested party challenges only the amount of monetary relief. *See also* § 9.32(b)(2)(i)(C) of this part.
+
+(e) *Agency participation.* A Federal agency that is interested in a proceeding may participate, at the agency's discretion, as amicus curiae at any time in the proceedings. At the request of such Federal agency, copies of all pleadings in a case shall be served on the Federal agency, whether or not the agency is participating in the proceeding.
+
+(f) *Requesting documents.* Copies of the request for hearing and documents filed in all cases, whether or not the Administrator is participating in the proceeding, shall be sent to the Administrator, Wage and Hour Division, and to the Associate Solicitor, Division of Fair Labor Standards, U.S. Department of Labor, Washington, DC 20210.
+
+(g) *Rules of practice.* (1) The rules of practice and procedure for administrative hearings before the Office of Administrative Law Judges at 29 CFR part 18, subpart A, shall be applicable to the proceedings provided by this section. This part is controlling to the extent it provides any rules of special application that may be inconsistent with the rules in 29 CFR part 18, subpart A. The Rules of Evidence at 29 CFR 18, subpart B, shall not apply. Rules or principles designed to assure production of the most probative evidence available shall be applied. The Administrative Law Judge may exclude evidence that is immaterial, irrelevant, or unduly repetitive.
+
+(h) *Decisions.* The Administrative Law Judge shall issue a decision within 60 days after completion of the proceeding at which evidence was submitted. The decision shall contain appropriate findings, conclusions, and an order and be served upon all parties to the proceeding.
+
+(i) *Orders.* Upon the conclusion of the hearing and the issuance of a decision that a violation has occurred, the Administrative Law Judge shall issue an order that the successor contractor take appropriate action to abate the violation, which may include hiring each affected employee in a position on the contract for which the employee is qualified, together with compensation (including lost wages), terms, conditions, and privileges of that employment. Where the Administrator has sought ineligibility sanctions, the order shall also address whether such sanctions are appropriate.
+
+(j) *Costs.* If an order finding the successor contractor violated this part is issued, the Administrative Law Judge may assess against the contractor a sum equal to the aggregate amount of all costs (not including attorney fees) and expenses reasonably incurred by the aggrieved employee(s) in the proceeding. This amount shall be awarded in addition to any unpaid wages or other relief due under § 9.24(b) of this part.
+
+(k) *Finality.* The decision of the Administrative Law Judge shall become the final order of the Secretary, unless a petition for review is timely filed with the Administrative Review Board as set forth in § 9.32(b)(2) of this part.

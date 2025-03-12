@@ -1,0 +1,21 @@
+##### § 2590.609-2 National Medical Support Notice. #####
+
+(a) This section promulgates the National Medical Support Notice (the Notice), as mandated by section 401(b) of the Child Support Performance and Incentive Act of 1998 (Pub. L. 105-200). If the Notice is appropriately completed and satisfies paragraphs (3) and (4) of section 609(a) of the Employee Retirement Income Security Act (ERISA), the Notice is deemed to be a qualified medical child support order (QMCSO) pursuant to ERISA section 609(a)(5)(C). Section 609(a) of ERISA delineates the rights and obligations of the alternate recipient (child), the participant, and the group health plan under a QMCSO. A copy of the Notice is available on the Internet at *http://www.dol.gov/ebsa.*
+
+(b) For purposes of this section, a plan administrator shall find that a Notice is appropriately completed if it contains the name of an Issuing Agency, the name and mailing address (if any) of an employee who is a participant under the plan, the name and mailing address of one or more alternate recipient(s) (child(ren) of the participant) (or the name and address of a substituted official or agency which has been substituted for the mailing address of the alternate recipient(s)), and identifies an underlying child support order.
+
+(c)(1) Under section 609(a)(3)(A) of ERISA, in order to be qualified, a medical child support order must clearly specify the name and the last known mailing address (if any) of the participant and the name and mailing address of each alternate recipient covered by the order, except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient. Section 609(a)(3)(B) of ERISA requires a reasonable description of the type of coverage to be provided to each such alternate recipient, or the manner in which such type of coverage is to be determined. Section 609(a)(3)(C) of ERISA requires that the order specify the period to which such order applies.
+
+(2) The Notice satisfies ERISA section 609(a)(3)(A) by including the necessary identifying information described in § 2590.609-2(b).
+
+(3) The Notice satisfies ERISA section 609(a)(3)(B) by having the Issuing Agency identify either the specific type of coverage or all available group health coverage. If an employer receives a Notice that does not designate either specific type(s) of coverage or all available coverage, the employer and plan administrator should assume that all are designated. The Notice further satisfies ERISA section 609(a)(3)(B) by instructing the plan administrator that if a group health plan has multiple options and the participant is not enrolled, the Issuing Agency will make a selection after the Notice is qualified, and, if the Issuing Agency does not respond within 20 days, the child will be enrolled under the plan's default option (if any).
+
+(4) Section 609(a)(3)(C) of ERISA is satisfied because the Notice specifies that the period of coverage may only end for the alternate recipient(s) when similarly situated dependents are no longer eligible for coverage under the terms of the plan, or upon the occurrence of certain specified events.
+
+(d)(1) Under ERISA section 609(a)(4), a qualified medical child support order may not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act, 42 U.S.C. 1396g-1.
+
+(2) The Notice satisfies the conditions of ERISA section 609(a)(4) because it requires the plan to provide to an alternate recipient only those benefits that the plan provides to any dependent of a participant who is enrolled in the plan, and any other benefits that are necessary to meet the requirements of a State law described in such section 1908.
+
+(e) For the purposes of this section, an “Issuing Agency” is a State agency that administers the child support enforcement program under Part D of Title IV of the Social Security Act.
+
+[65 FR 82142, Dec. 27, 2000]

@@ -1,0 +1,3 @@
+##### § 541.707 Occasional tasks. #####
+
+Occasional, infrequently recurring tasks that cannot practicably be performed by nonexempt employees, but are the means for an exempt employee to properly carry out exempt functions and responsibilities, are considered exempt work. The following factors should be considered in determining whether such work is exempt work: Whether the same work is performed by any of the exempt employee's subordinates; practicability of delegating the work to a nonexempt employee; whether the exempt employee performs the task frequently or occasionally; and existence of an industry practice for the exempt employee to perform the task.

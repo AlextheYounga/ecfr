@@ -1,0 +1,9 @@
+##### § 904.115 Achievement of ownership by subsequent homebuyers. #####
+
+(a) *Definition.* In the event the initial homebuyer and his family vacate the home before having acquired ownership, a subsequent occupant who enters into a Homebuyer's Ownership Opportunity Agreement and who is not a successor pursuant to § 904.107(l)(2) is herein called a “subsequent homebuyer.”
+
+(b) *Determination of initial purchase price.* The initial purchase price for a subsequent homebuyer shall be an amount equal to (1) the purchase price shown in the initial homebuyer's Purchase Price Schedule as of the date of this Agreement with the subsequent homebuyer plus (2) the amount, if any, by which the appraised fair market value of the home, determined or approved by HUD as of the same date, exceeds the purchase price specified in paragraph (b)(1) of this section.
+
+(c) *Purchase price schedule.* The subsequent homebuyer's Purchase Price Schedule shall be the same as the unexpired portion of the initial homebuyer's Purchase Price Schedule except that where his purchase price includes an additional amount as specified in paragraph (b)(2) of this section, the initial homebuyer's Purchase Price Schedule shall be followed by an Additional Purchase Price Schedule for such additional amount based upon the same monthly debt service and the same interest rate as applied to the initial homebuyer's Purchase Price Schedule.
+
+(d) *Residual receipts.* After payment in full of the LHA's debt, if there are any subsequent homebuyers who have not acquired ownership of their homes, the LHA shall continue to pay to HUD all residual receipts from the operation of the Project, including payments received on account of any Additional Purchase Price Schedules applicable to the homes, provided the aggregate amount of such payments of residual receipts does not exceed the aggregate amount of annual contributions paid by HUD with respect to the Project.

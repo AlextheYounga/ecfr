@@ -1,0 +1,7 @@
+##### § 265.42 Photography for advertising or commercial purposes; advertising and soliciting. #####
+
+(a) Except as otherwise provided herein or where security regulations would preclude, photographs may be taken in entrances, lobbies, foyers, corridors, and auditoriums without prior approval. Photography for advertising and commercial purposes may be conducted only with the written permission of the Chief, Public Affairs Division of the National Institute of Standards and Technology (Public Affairs Officer for Boulder for sites in Colorado,) provided, however, that this shall not apply to photography for purposes of civic promotion.
+
+(b) Commercial advertisements and other material which are not directly pertinent or applicable to NIST employees but which nevertheless may be of interest or benefit to them may, with the approval of the Director of Administration (Executive Office, Boulder, for sites in Colorado), be placed in an appropriate location and made available to employees who visit that area. Except with approval as provided herein, no person shall distribute commercial advertising literature or engage in commercial soliciting on the site.
+
+[39 FR 41170, Nov. 25, 1974, as amended at 55 FR 38316, Sept. 18, 1990; 56 FR 66969, Dec. 27, 1991]

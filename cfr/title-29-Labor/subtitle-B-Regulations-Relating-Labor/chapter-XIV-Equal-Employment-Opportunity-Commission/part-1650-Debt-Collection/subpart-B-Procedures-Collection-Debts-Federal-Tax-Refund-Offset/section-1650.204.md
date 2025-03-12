@@ -1,0 +1,3 @@
+##### § 1650.204 Reasonable attempt to notify. #####
+
+In order to constitute a reasonable attempt to notify the debtor, EEOC may use the last known address on record with the EEOC. In addition, the EEOC may attempt to obtain a more current address from notices returned by the United States Postal Service, or by using the Treasury's Internal Revenue Service (IRS) address inquiry. If the debtor cannot be notified by EEOC through these procedures, the debt will be sent to Treasury for collection.

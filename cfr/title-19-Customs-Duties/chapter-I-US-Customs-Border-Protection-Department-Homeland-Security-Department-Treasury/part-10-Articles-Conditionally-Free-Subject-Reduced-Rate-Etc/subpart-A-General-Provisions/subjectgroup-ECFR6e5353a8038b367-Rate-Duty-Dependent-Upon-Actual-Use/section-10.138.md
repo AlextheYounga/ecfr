@@ -1,0 +1,5 @@
+##### § 10.138 Proof of use. #####
+
+Within 3 years from the date of entry or withdrawal from warehouse for consumption, the importer shall submit in duplicate in support of his claim for free entry or for a reduced rate of duty a certificate executed by (1) the superintendent or manager of the manufacturing plant, or (2) the individual end-user or other person having knowledge of the actual use of the imported article. The certificate shall include a description of the processing in sufficient detail to show that the use contemplated by the law has actually taken place. A blanket certificate covering all purchases of a given type of merchandise from a particular importer during a given period, or all such purchases with specified exceptions, may be accepted for this purpose, provided the importer shall furnish a statement showing in detail, in such manner as to be readily identified with each entry, the merchandise which he sold to such manufacturer or end-user during such period.
+
+[T.D. 71-139, 36 FR 10727, June 2, 1971]

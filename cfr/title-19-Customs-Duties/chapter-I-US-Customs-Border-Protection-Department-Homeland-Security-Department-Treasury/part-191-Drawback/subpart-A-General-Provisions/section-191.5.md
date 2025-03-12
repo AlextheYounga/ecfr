@@ -1,0 +1,3 @@
+##### § 191.5 Guantanamo Bay, insular possessions, trust territories. #####
+
+Guantanamo Bay Naval Station shall be considered foreign territory for drawback purposes and, accordingly, drawback may be permitted on articles shipped there. Under 19 U.S.C. 1313, drawback of Customs duty is not allowed on articles shipped to Puerto Rico, the U.S. Virgin Islands, American Samoa, Wake Island, Midway Islands, Kingman Reef, Guam, Canton Island, Enderbury Island, Johnston Island, or Palmyra Island.

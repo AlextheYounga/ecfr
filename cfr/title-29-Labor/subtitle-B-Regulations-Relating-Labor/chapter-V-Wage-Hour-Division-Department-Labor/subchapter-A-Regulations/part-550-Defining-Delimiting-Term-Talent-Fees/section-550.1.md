@@ -1,0 +1,9 @@
+##### § 550.1 “Talent fees” as used in section 7(e)(3)(c) of the Fair Labor Standards Act, as amended. #####
+
+The term *talent fees* in section 7(e)(3)(c) of the Act shall mean extra payments made to performers, including announcers on radio and television programs, where the payment is made:
+
+(a) To an employee having regular duties as a staff performer (including announcers), as an extra payment for services as a performer on a particular commercial program or a particular series of commercial programs (including commercial spot announcements) or for special services as a performer on a particular sustaining program or a particular series of sustaining programs;
+
+(b) In pursuance of an applicable employment agreement or understanding or an applicable collective bargaining agreement in a specific amount agreed upon in advance of the performance of the services or special services for which the extra payment is made: *Provided, however,* That where services described in paragraph (a) of this section are performed on a program falling outside of the regular workday or workweek as established and scheduled in good faith in accordance with the provisions of the applicable employment agreement, the Administrator will not regard the Act as requiring additional compensation as a result of the time worked on the program if the parties agree in advance of such program that a special payment made therefor shall include any increased statutory compensation attributable to the additional worktime thereon and if such special payment, when made, is actually sufficient in amount to include the statutory straight time and overtime compensation (computed without regard to talent fees) for the additional time worked in the workweek resulting from the performer's services on such program.
+
+[15 FR 402, Jan. 25, 1950, as amended at 18 FR 5069, Aug. 25, 1953]

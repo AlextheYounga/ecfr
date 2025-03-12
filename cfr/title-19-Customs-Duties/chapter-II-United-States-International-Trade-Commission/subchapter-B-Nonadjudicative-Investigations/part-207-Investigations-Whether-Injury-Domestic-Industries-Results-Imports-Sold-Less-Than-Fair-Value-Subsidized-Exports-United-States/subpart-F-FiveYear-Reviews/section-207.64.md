@@ -1,0 +1,7 @@
+##### § 207.64 Staff reports. #####
+
+(a) *Prehearing staff report.* The Director shall prepare and place in the record, prior to the hearing, a prehearing staff report containing information concerning the subject matter of the five-year review. A version of the staff report containing business proprietary information shall be placed in the nonpublic record and made available to persons authorized to receive business proprietary information under § 207.7, and a nonbusiness proprietary version of the staff report shall be placed in the public record.
+
+(b) *Final staff report.* After the hearing, the Director shall revise the prehearing staff report and submit to the Commission, prior to the Commission's determination, a final version of the staff report. The final staff report is intended to supplement and correct the information contained in the prehearing staff report. The Director shall place the final staff report in the record. A public version of the final staff report shall be made available to the public and a business proprietary version shall also be made available to persons authorized to receive business proprietary information under § 207.7.
+
+[63 FR 30608, June 5, 1998, as amended at 68 FR 32978, June 3, 2003]

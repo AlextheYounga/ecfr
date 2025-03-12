@@ -1,0 +1,9 @@
+##### § 181.50 Liquidation and payment of drawback claims. #####
+
+(a) *General.* When the drawback claim has been fully completed by the filing of all required documents, and exportation of the articles has been established and the amount of duties paid to Canada or Mexico has been established, the entry will be liquidated to determine the proper amount of drawback due either in accordance with the limitation on drawback set forth in § 181.44 of this part or in accordance with the regular drawback calculation. The liquidation procedures of subpart G of part 191 of this chapter shall control for purposes of this subpart.
+
+(b) *Time for liquidation.* A drawback claim shall not be liquidated until either a written waiver of the right to protest under 19 U.S.C. 1514 is filed with Customs or the liquidation of the import entry has become final under U.S. law. In addition, except in the case of goods covered by § 181.45 of this part, a drawback claim shall not be liquidated for a period of 3 years after the date of entry of the goods in Canada or Mexico. A drawback claim may be adjusted pursuant to 19 U.S.C. 1508(b)(2)(B)(iii) even after liquidation of the U.S. import entry has become final.
+
+(c) *Accelerated payment.* Accelerated drawback payment procedures shall apply as set forth in § 191.92 of this chapter. However, a person who receives drawback of duties under this procedure shall repay the duties paid if a NAFTA drawback claim is adversely affected thereafter by administrative or court action.
+
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11006, Mar. 5, 1998]

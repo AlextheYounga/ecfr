@@ -1,0 +1,5 @@
+##### § 260.80 Charges for inspection service on a contract basis. #####
+
+Irrespective of fees and charges prescribed in the foregoing sections, the Secretary may enter into a written memorandum of understanding or contract, whichever may be appropriate, with any administrative agency charged with the administration of a marketing order effective pursuant to the Agricultural Marketing Agreement Act of 1937, as revised (16 U.S.C. 661 *et seq.*) for the making of inspections pursuant to said agreement or order on such basis as will reimburse the National Marine Fisheries Service of the Department for the full cost of rendering such inspection service as may be determined by the Secretary. Likewise, the Secretary may enter into a written memorandum of understanding or contract, whichever may be appropriate, with an administrative agency charged with the administration of a similar program operated pursuant to the laws of any State.
+
+[36 FR 21038, Nov. 3, 1971]

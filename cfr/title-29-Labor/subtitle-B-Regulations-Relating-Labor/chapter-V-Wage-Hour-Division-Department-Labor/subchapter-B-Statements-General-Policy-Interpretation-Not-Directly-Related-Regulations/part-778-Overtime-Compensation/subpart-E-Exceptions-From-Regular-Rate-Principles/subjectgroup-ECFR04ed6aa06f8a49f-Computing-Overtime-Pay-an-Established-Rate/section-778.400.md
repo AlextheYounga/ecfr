@@ -1,0 +1,7 @@
+##### § 778.400 The provisions of section 7(g)(3) of the Act. #####
+
+Section 7(g)(3) of the Act provides the following exception from the provisions of section 7(a):
+
+(g) No employer shall be deemed to have violated subsection (a) by employing any employee for a workweek in excess of the maximum workweek applicable to such employee under such subsection if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, the amount paid to the employee for the number of hours worked by him in such workweek in excess of the maximum workweek applicable to such employee under such subsection:
+
+(3) is computed at a rate not less than one and one-half times the rate established by such agreement or understanding as the basic rate to be used in computing overtime compensation thereunder: *Provided,* That the rate so established shall be authorized by regulation by the Secretary of Labor as being substantially equivalent to the average hourly earnings of the employee, exclusive of overtime premiums, in the particular work over a representative period of time; and if (1) the employee's average hourly earnings for the workweek exclusive of payments described in paragraphs (1) through (7) of subsection (e) are not less than the minimum hourly rate required by applicable law, and (ii) extra overtime compensation is properly computed and paid on other forms of additional pay required to be included in computing the regular rate.

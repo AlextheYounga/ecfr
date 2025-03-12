@@ -1,0 +1,3 @@
+##### § 162.93 Failure to issue notice of seizure. #####
+
+If Customs does not send notice of a seizure of property in accordance with § 162.92 to the person from whom the property was seized, and no extension of time is granted, Customs will return the property to that person without prejudice to the right of the Government to commence a forfeiture proceeding at a later time. Customs is not, however, required to return contraband or other property that the person may not legally possess.

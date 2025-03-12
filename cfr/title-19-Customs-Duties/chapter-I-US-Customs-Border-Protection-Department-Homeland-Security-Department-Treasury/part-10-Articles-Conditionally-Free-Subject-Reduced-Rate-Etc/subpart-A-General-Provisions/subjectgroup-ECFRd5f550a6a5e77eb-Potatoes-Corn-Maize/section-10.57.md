@@ -1,0 +1,5 @@
+##### § 10.57 Certified seed potatoes, and seed corn or maize. #####
+
+Claim for classification as seed potatoes under subheading 0701.10.00, as seed corn (maize) under subheading 1005.10., HTSUS, shall be made at the time of entry. Such classification shall be allowed only if the articles are white or Irish potatoes, or maize or corn, imported in containers and if, at the time of importation, there is firmly affixed to each container an official tag supplied by the government of the country in which the contents were grown, or an agency of such government. The tag shall bear a certificate to the effect that the specified contents of the container were grown, and have been approved, especially for use as seed. The tag shall also bear a number or other symbol identifying the potatoes or corn in the container with an inspection record of the foreign government or its agency on the basis of which the certificate was issued.
+
+[28 FR 14663, Dec. 31, 1963, as amended by T.D. 89-1, 53 FR 51250, Dec. 21, 1988]

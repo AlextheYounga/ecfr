@@ -1,0 +1,3 @@
+##### § 750.713 Bonus provisions. #####
+
+23 U.S.C. 131(j) specifically provides that any State which had entered into a bonus agreement before June 30, 1965, will be entitled to remain eligible to receive bonus payments provided it continues to carry out its bonus agreement. Bonus States are not exempt from the other provisions of 23 U.S.C. 131. If a State elects to comply with both programs, it must extend controls to the Primary System, and continue to carry out its bonus agreement along the Interstate System except where 23 U.S.C. 131, as amended, imposes more stringent requirements.

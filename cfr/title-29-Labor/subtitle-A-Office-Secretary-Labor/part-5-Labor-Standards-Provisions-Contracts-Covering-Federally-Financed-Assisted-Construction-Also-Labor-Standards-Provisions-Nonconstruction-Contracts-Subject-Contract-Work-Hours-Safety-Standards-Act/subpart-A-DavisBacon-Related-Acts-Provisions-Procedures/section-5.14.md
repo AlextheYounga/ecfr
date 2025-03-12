@@ -1,0 +1,3 @@
+##### § 5.14 Variations, tolerances, and exemptions from parts 1 and 3 of this subtitle and this part. #####
+
+The Secretary of Labor may make variations, tolerances, and exemptions from the regulatory requirements of this part and those of parts 1 and 3 of this subtitle whenever the Secretary finds that such action is necessary and proper in the public interest or to prevent injustice and undue hardship. Variations, tolerances, and exemptions may not be made from the statutory requirements of any of the statutes listed in § 5.1 unless the statute specifically provides such authority.

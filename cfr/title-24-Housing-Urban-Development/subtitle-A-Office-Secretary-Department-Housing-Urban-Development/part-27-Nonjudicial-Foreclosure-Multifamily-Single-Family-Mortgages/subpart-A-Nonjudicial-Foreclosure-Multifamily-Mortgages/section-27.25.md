@@ -1,0 +1,9 @@
+##### § 27.25 Termination or adjournment of foreclosure sale. #####
+
+(a) Before withdrawing the security property from foreclosure under section 369A(a) of the Act (12 U.S.C. 3709(a)), the commissioner shall notify the Secretary of the proposed withdrawal by telephone or telegram and shall provide the Secretary with a written statement of the reasons for the proposed withdrawal along with all documents submitted by the mortgagor in support of the proposed withdrawal. Upon receipt of this statement, the Secretary shall have 10 days within which to demonstrate orally or in writing why the security property should not be withdrawn from foreclosure. The Secretary shall provide the mortgagor with a copy of any statement prepared by the Secretary in opposition to the proposed withdrawal at the same time the statement is submitted to the commissioner. If the Secretary receives the commissioner's written statement less than 10 days before the scheduled foreclosure sale, the sale shall automatically be postponed for 14 days. Under these circumstances, notice of the rescheduled sale shall be served as described in section 369B(c) of the Act (12 U.S.C. 3710(c)).
+
+(b) The commissioner may not withdraw the security property from foreclosure under section 369A(a) of the Act (12 U.S.C. 3709(a)) more than once unless the Secretary consents in writing to such withdrawal.
+
+(c) The commissioner shall, in the case of a sale adjourned to a later date, mail a copy of the revised Notice of Default and Foreclosure Sale to the Secretary at least seven days before the date to which the sale has been adjourned.
+
+(d) If upon application by the mortgagor, the commissioner refuses to withdraw the property from foreclosure under section 369A(a) of the Act (12 U.S.C. 3709(a)), the commissioner shall provide the mortgagor and the Secretary with a written statement of the reasons for the refusal.

@@ -1,0 +1,5 @@
+##### § 4.8 Classified information. #####
+
+In processing a request for information classified under Executive Order 13526 or any other executive order concerning the classification of records, the information shall be reviewed to determine whether it should remain classified. Ordinarily the component or other Federal agency that classified the information should conduct the review, except that if a record contains information that has been derivatively classified by a component because it contains information classified by another component or agency, the component shall refer the responsibility for responding to the request to the component or agency that classified the underlying information. Information determined to no longer require classification shall not be withheld on the basis of FOIA exemption (b)(1) (5 U.S.C. 552(b)(1)), but should be reviewed to assess whether any other FOIA exemption should be invoked. Appeals involving classified information shall be processed in accordance with § 4.10(c).
+
+[79 FR 62560, Oct. 20, 2014]

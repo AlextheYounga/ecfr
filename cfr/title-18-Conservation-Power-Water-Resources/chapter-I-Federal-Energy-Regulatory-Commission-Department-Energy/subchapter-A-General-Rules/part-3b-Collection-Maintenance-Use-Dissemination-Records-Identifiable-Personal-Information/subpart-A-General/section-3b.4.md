@@ -1,0 +1,3 @@
+##### § 3b.4 Government contractors. #####
+
+Systems of records operated by a contractor, pursuant to a *contract,* on behalf of the Commission, which are designed to accomplish a Commission function, are considered, for the purposes of this part, to be maintained by the Commission. A *contract* covers any contract, written or oral, subject to the Federal Procurement Regulations. The contractual instrument will specify, to the extent consistent with the Commission's authority to require it, that the systems of records be maintained in accordance with the requirements of this part.

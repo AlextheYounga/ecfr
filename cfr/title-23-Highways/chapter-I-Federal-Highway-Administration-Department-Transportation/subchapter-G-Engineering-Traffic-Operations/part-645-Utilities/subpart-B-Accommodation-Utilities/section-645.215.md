@@ -1,0 +1,13 @@
+##### § 645.215 Approvals. #####
+
+(a) Each State transportation department shall submit a statement to the FHWA on the authority of utilities to use and occupy the right-of-way of State highways, the State transportation department's power to regulate such use, and the policies the State transportation department employs or proposes to employ for accommodating utilities within the right-of-way Federal-aid highways under its jurisdiction. Statements previously submitted and approved by the FHWA need not be resubmitted provided the statement adequately addresses the requirements of this part. When revisions are deemed necessary the changes to the previously approved statement may be submitted separately to the FHWA for approval. The State transportation department shall include similar information on the use and occupancy of such highways by private lines where permitted. The State shall identify those areas, if any, of Federal-aid highways within its borders where the State transportation department is without legal authority to regulate use by utilities. The statement shall address the nature of the formal agreements with local officials required by § 645.209(g) of this part. It is expected that the statements required by this part or necessary revisions to previously submitted and approved statements will be submitted to FHWA within 1 year of the effective date of this regulation.
+
+(b) Upon determination by the FHWA that a State transportation department's policies satisfy the provisions of 23 U.S.C. 109, 111, and 116, and 23 CFR 1.23 and 1.27, and meet the requirements of this regulation, the FHWA will approve their use on Federal-aid highway projects in that State
+
+(c) Any changes, additions or deletions the State transportation department proposes to the approved policies are subject to FHWA approval.
+
+(d) When a utility files a notice or makes an individual application or request to a STD to use or occupy the right-of-way of a Federal-aid highway project, the STD is not required to submit the matter to the FHWA for prior concurrence, except when the proposed installation is not in accordance with this regulation or with the STD's utility accommodation policy approved by the FHWA for use on Federal-aid highway projects.
+
+(e) The State transportation department's practices under the policies or agreements approved under § 645.215(b) of this part shall be periodically reviewed by the FHWA.
+
+(Information collection requirements in paragraph (a) were approved by the Office of Management and Budget under control number 2125-0514)[50 FR 20354, May 15, 1985, as amended at 53 FR 2834, Feb. 2, 1988; 60 FR 34851, July 5, 1995; 65 FR 70312, Nov. 22, 2000]

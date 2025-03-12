@@ -1,0 +1,5 @@
+##### § 210.46 Petitions for and sua sponte review of initial determinations on violation of section 337 or temporary relief. #####
+
+(a) *Violation of section 337.* An initial determination issued under § 210.42(a)(1)(i) on whether respondents have violated section 337 of the Tariff Act of 1930 will be processed as provided in § 210.42(e), (h)(2), and (i) and §§ 210.43 through 210.45. The Commission will issue a notice setting deadlines for written submissions from the parties, other Federal agencies, and interested members of the public on the issues of remedy, the public interest, and bonding by the respondents. In those submissions, the parties may assert their arguments concerning the recommended determination issued by the administrative law judge pursuant to § 210.42(a)(ii) on the issues of remedy and bonding by respondents.
+
+(b) *Temporary relief.* Commission action on an initial determination concerning temporary relief is governed by § 210.66.

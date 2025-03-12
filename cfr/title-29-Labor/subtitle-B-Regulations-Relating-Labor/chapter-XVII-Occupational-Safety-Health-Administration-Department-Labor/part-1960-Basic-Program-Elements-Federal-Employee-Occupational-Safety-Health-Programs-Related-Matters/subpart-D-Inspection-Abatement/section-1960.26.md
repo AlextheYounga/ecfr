@@ -1,0 +1,33 @@
+##### § 1960.26 Conduct of inspections. #####
+
+(a) *Preparation.* (1) Prior to commencement of the inspection, the Safety and Health Inspector shall be provided all available relevant information which pertains to the occupational safety and health of the workplace to be inspected, including safety and health hazard reports, injury and illness records, previous inspection reports, and reports of unsafe and unhealthful working conditions.
+
+(2) The Safety and Health Inspector shall determine in advance, where possible, the actual work procedures and conditions to be inspected, in order to have the proper equipment available to conduct an effective inspection.
+
+(b) *Inspection.* (1) For the purpose of assuring safe and healthful working conditions for employees of agencies, the head of the agency shall authorize safety and/or health inspectors: To enter without delay, and at reasonable times, any building, installation, facility, construction site, or other area, workplace, or environment where work is performed by employees of the agency; to inspect and investigate during regular working hours and at other reasonable times, and within reasonable limits and in a reasonable manner, any such place of employment and all pertinent conditions, structures, machines, apparatus, devices, equipment, and materials therein, and to question privately any agency employee, and/or any agency supervisory employee, and/or any official in charge of an establishment.
+
+(2) If there are no authorized representatives of employees, the inspector shall consult with a reasonable number of employees during the walkaround.
+
+(3) When, in the opinion of the inspector, it is necessary to conduct personal monitoring (sampling) of employee's work environments, the inspector may request employees to wear reasonable and necessary personal monitoring devices, e.g., noise dosimeters and air sampling pumps, for periods determined by the inspector to be necessary for complete and effective sampling of the environment.
+
+(4) Upon request of the inspector, the employer shall encourage employees to wear the personal environmental monitoring devices during an inspection.
+
+(5) Whenever and as soon as it is concluded on the basis of an inspection that a danger exists which could reasonably be expected to cause death or serious physical harm immediately, the inspector shall inform the affected employees and official in charge of the workplace of the danger. The official in charge of the workplace, or a person empowered to act for that official, shall undertake immediate abatement and the withdrawal of employees who are not necessary for abatement of the dangerous conditions. In the event the official in charge of the workplace needs assistance to undertake full abatement, that official shall promptly contact the Designated Agency Safety and Health Official and other responsible agency officials, who shall assist the abatement effort. Safety and health committees shall be informed of all relevant actions and representatives of the employees shall be so informed.
+
+(6) At the conclusion of an inspection, the Safety and Health Inspector shall confer with the official in charge of the workplace or that official's representative, and with an appropriate representative of the employees of the establishment, and informally advise them of any apparent unsafe or unhealthful working conditions disclosed by the inspection. During any such conference, the official in charge of the workplace and the employee representative shall be afforded an opportunity to bring to the attention of the Safety and Health Inspector any pertinent information regarding conditions in the workplace.
+
+(c) *Written reports and notices of unsafe or unhealthful working conditions.* (1) The inspector shall, in writing, describe with particularity the procedures followed in the inspection and the findings which form the basis for the issuance of any Notice of Unsafe or Unhealthful Working Conditions.
+
+(2) Each agency shall establish a procedure for the prompt issuance of a Notice of Unsafe or Unhealthful Working Conditions. Such notices shall be issued not later than 15 days after completion of the inspection for safety violations or not later than 30 days for health violations. If there are compelling reasons why such notice cannot be issued within the 15 days or 30 days indicated, the persons described in paragraph (c)(2)(iii) of this section shall be informed of the reasons for the delay. Such procedure shall include the following:
+
+(i) Notices shall be in writing and shall describe with particularity the nature and degree of seriousness of the unsafe or unhealthful working condition, including a reference to the standard or other requirement involved;
+
+(ii) The notice shall fix a reasonable time for the abatement of the unsafe or unhealthful working condition; and
+
+(iii) A copy of the notice shall be sent to the official in charge of the workplace, the employee representative who participated in the closing conference, and/or the safety and health committee of the workplace, if any.
+
+(3) Upon receipt of any notice of an unsafe or unhealthful working condition, the official in charge of a workplace shall immediately post such notice, or copy thereof, unedited, except for reason of national security, at or near each place an unsafe or unhealthful working condition referred to in the notice exists or existed. In addition, a notice shall be posted if any special procedures are in effect. Where, because of the nature of the workplace operations, it is not practicable to post the notice at or near each such place, such notice shall be posted, unedited, except for reason of national security, in a prominent place where it will be readily observable by all affected employees. For example, where workplace activities are physically dispersed, the notice may be posted at the location to which employees report each day. Where employees do not primarily work at or report to a single location, the notice may be posted at the location from which the employees operate to carry out their activities.
+
+(4) Each notice of an unsafe or unhealthful working condition, or a copy thereof, shall remain posted until the unsafe or unhealthful working condition has been abated or for 3 working days whichever is later. A copy of the notice will be filed and maintained for a period of five years after abatement at the establishment and made available to the Secretary upon request.
+
+[45 FR 69798, Oct. 21, 1980; 45 FR 77003, Nov. 21, 1980]

@@ -1,0 +1,11 @@
+##### § 177.4 Oral discussion of issues. #####
+
+(a) *Generally.* A person submitting a request for a ruling and desiring an opportunity to orally discuss the issue or issues involved should indicate that desire in writing at the time the ruling request is filed. Such a discussion will only be scheduled when, in the opinion of the Customs personnel by whom the ruling request is under consideration, a conference will be helpful in deciding the issue or issues involved or when a determination or conclusion contrary to that advocated in the ruling request is contemplated. Conferences are scheduled for the purpose of affording the parties an opportunity to freely and openly discuss the matters set forth in the ruling request. Accordingly, the parties will not be bound by any argument or position advocated or agreed to, expressly or by implication, during the conference unless either party subsequently agrees to be so bound in writing. The conference will not conclude with the issuance of a ruling letter.
+
+(b) *Time, place, and number of conferences.* If a request for a conference is granted, the person making the request will be notified of the time and place of the conference. No more than one conference with respect to the matters set forth in a ruling request will be scheduled, unless, in the opinion of the Customs personnel by whom the ruling request is under consideration, additional conferences are necessary.
+
+(c) *Representation.* A person whose request for a conference has been granted may be accompanied at that conference by counsel or other representatives, or may designate such persons to attend the conference in his place.
+
+(d) *Additional information presented at conferences.* It will be the responsibility of the person submitting the request for a ruling to provide for inclusion in the Customs Service file in the matter a written record setting forth any and all additional information, documents, and exhibits introduced during the conference to the extent that person considers such material relevant to the consideration of the ruling request.
+
+[T.D. 75-186, 40 FR 31929, July 30, 1975, as amended by T.D. 80-285, 45 FR 80105, Dec. 3, 1980; T.D. 84-149, 49 FR 28699, July 16, 1984; T.D. 89-74, 54 FR 31515, July 31, 1989]

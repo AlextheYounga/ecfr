@@ -1,0 +1,3 @@
+##### § 1000.317 Who is the recipient for funds for current assisted stock which is owned by state-created Regional Native Housing Authorities in Alaska? #####
+
+If housing units developed under the 1937 Act are owned by a state-created Regional Native Housing Authority in Alaska, and are not located on an Indian reservation, then the recipient for funds allocated for the current assisted stock portion of NAHASDA funds for the units is the regional Indian tribe.

@@ -1,0 +1,5 @@
+##### § 965.305 Funding. #####
+
+(a) The cost of accomplishing cost-effective energy conservation measures, including the cost of performing energy audits, shall be funded from operating funds of the PHA to the extent feasible. When sufficient operating funds are not available for this purpose, such costs are eligible for inclusion in a modernization program, for funding from any available development funds in the case of projects still in development, or for other available funds that HUD may designate to be used for energy conservation.
+
+(b) If a PHA finances energy conservation measures from sources other than modernization or operating reserves, such as a loan from a utility entity or a guaranteed savings agreement with a private energy service company, HUD may agree to provide adjustments in its calculation of the PHA's operating subsidy eligibility under the PFS for the project and utility involved based on a determination that payments can be funded from the reasonably anticipated energy cost savings (See § 990.107(g) of this chapter).

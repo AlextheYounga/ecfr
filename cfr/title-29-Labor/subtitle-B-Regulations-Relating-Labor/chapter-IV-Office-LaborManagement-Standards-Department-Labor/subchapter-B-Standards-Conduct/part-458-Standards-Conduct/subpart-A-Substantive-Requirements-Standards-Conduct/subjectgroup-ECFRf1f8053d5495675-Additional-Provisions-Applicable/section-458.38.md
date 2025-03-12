@@ -1,0 +1,3 @@
+##### § 458.38 Deprivation of rights under the CSRA or FSA by violence or threat of violence. #####
+
+No labor organization or any officer, agent, shop steward, or other representative or any employee thereof shall use, conspire to use, or threaten to use force or violence to restrain, coerce, or intimidate, or attempt to restrain, coerce, or intimidate any member of a labor organization for the purpose of interfering with or preventing the exercise of any right to which he is entitled under the provisions of the CSRA or FSA or of this subchapter.

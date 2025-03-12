@@ -1,0 +1,3 @@
+##### § 367.4584 Account 458.4, Excess or deficiency on servicing non-associate utility companies. #####
+
+This account must include the amount by which the aggregate price received for services rendered to non-associate utility companies differs from the sum of the total direct and indirect costs and compensation for use of capital which are properly allocable to such services (*See* accounts 458.1 through 458.3 (§§ 367.4581 through 367.4583) and General Instructions in § 367.23).

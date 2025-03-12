@@ -1,0 +1,3 @@
+##### § 424.13 Sources of information and relevant data. #####
+
+When considering any revision of the lists, the Secretary shall consult as appropriate with affected States, interested persons and organizations, other affected Federal agencies, and, in cooperation with the Secretary of State, with the country or countries in which the species concerned are normally found or whose citizens harvest such species from the high seas. Data reviewed by the Secretary may include, but are not limited to scientific or commercial publications, administrative reports, maps or other graphic materials, information received from experts on the subject, and comments from interested parties.

@@ -1,0 +1,3 @@
+##### § 147.22 Compliance with the internal revenue laws and Federal Alcohol Administration Act. #####
+
+The packaging, marking, and labeling requirements of the internal-revenue laws, and the Federal Alcohol Administration Act (27 U.S.C. 201 to 212), will not apply to articles entered under this part, but any article failing to comply with such requirements shall be conspicuously marked prior to exhibition “Not labeled or packaged as required by law—not for sale.” When any such article is withdrawn for consumption, it shall be released from Customs custody only upon a full compliance with such packaging, marking, and labeling requirements.

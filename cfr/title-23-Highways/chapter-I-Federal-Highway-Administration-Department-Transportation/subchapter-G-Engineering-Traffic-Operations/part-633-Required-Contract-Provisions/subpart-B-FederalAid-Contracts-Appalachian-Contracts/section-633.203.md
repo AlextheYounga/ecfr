@@ -1,0 +1,3 @@
+##### § 633.203 Applicability of existing laws, regulations, and directives. #####
+
+The provisions of title 23 U.S.C., that are applicable to the construction and maintenance of Federal-aid primary and secondary highways, and which the Secretary of Transportation determines are not inconsistent with the Act, shall apply, respectively, to the development highway system and the local access roads. In addition, the Regulations for the Administration of Federal-aid for Highways (title 23, Code of Federal Regulations) and directives implementing applicable provisions of title 23 U.S.C., where not inconsistent with the Act, shall be applicable to such projects.

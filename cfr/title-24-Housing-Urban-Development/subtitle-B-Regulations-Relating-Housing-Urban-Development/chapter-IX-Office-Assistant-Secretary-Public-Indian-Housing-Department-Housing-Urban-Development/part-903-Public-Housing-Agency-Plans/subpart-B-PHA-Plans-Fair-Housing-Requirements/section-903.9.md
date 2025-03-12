@@ -1,0 +1,3 @@
+##### § 903.9 May HUD request additional information in the Annual Plan of a troubled PHA? #####
+
+HUD may request that a PHA that is at risk of being designated as troubled or is designated as troubled in accordance with section 6(j)(2) of the 1937 Act (42 U.S.C. 1437d(j)(2)), the Public Housing Management Assessment Program (part 901 of this title) or the Public Housing Assessment System (part 902 of this chapter) include its operating budget. The PHA also must include or reference any applicable memorandum of agreement with HUD or any plan to improve performance, and such other material as HUD may prescribe.

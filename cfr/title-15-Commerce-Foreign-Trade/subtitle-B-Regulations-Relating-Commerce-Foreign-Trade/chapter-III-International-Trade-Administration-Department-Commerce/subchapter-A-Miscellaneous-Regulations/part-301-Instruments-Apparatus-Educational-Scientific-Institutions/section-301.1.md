@@ -1,0 +1,21 @@
+##### § 301.1 General provisions. #####
+
+(a) *Purpose.* This part sets forth the regulations of the Department of Commerce and the Department of the Treasury applicable to the duty-free importation of scientific instruments and apparatus by public or private nonprofit institutions.
+
+(b) *Background.* (1) The Agreement on the importation of Educational, Scientific and Cultural Materials (Florence Agreement; “the Agreement”) is a multinational treaty, which seeks to further the cause of peace through the freer exchange of ideas and knowledge across national boundaries, primarily by eliminating tariffs on certain educational, scientific and cultural materials.
+
+(2) Annex D of the Agreement provides that scientific instruments and apparatus intended exclusively for educational purposes or pure scientific research use by qualified nonprofit institutions shall enjoy duty-free entry if instruments or apparatus of equivalent scientific value are not being manufactured in the country of importation.
+
+(3) The Annex D provisions are implemented for U.S. purposes in Subchapter X, Chapter 98, Harmonized Tariff Schedule of the United States (HTSUS).
+
+(c) *Summary of statutory procedures and requirements.* (1) U.S. Note 1, Subchapter X, Chapter 98, HTSUS, provides, among other things, that articles covered by subheadings 9810.00.60 (scientific instruments and apparatus), 9810.00.65 (repair components therefor) and 9810.00.67 (tools for maintaining and testing the above), HTSUS, must be exclusively for the use of the institutions involved and not for distribution, sale, or other commercial use within five years after entry. These articles may be transferred to another qualified nonprofit institution, but any commercial use within five years of entry shall result in the assessment of applicable duties pursuant to § 301.9(c).
+
+(2) An institution wishing to enter an instrument or apparatus under tariff subheading 9810.00.60, HTSUS, must file an application with the Customs and Border Protection in accordance with the regulations in this section. If the application is made in accordance with the regulations, notice of the application is published in the Federal Register to provide an opportunity for interested persons and government agencies to present views. The application is reviewed by the Secretary of Commerce (Director, Statutory Import Programs Staff) , who decides whether or not duty-free entry may be accorded the instrument and publishes the decision in the Federal Register. An appeal of the final decision may be filed with the U.S. Court of Appeals for the Federal Circuit, on questions of law only, within 20 days after publication in the Federal Register.
+
+(3) Repair components for instruments or apparatus admitted duty-free under subheading 9810.00.60, HTSUS require no application and may be entered duty-free in accordance with the procedures prescribed in § 301.10.
+
+(4) Tools specifically designed to be used for the maintenance, checking, gauging or repair of instruments or apparatus admitted under subheadings 9810.00.65 and 9810.00.67, HTSUS, require no application and may be entered duty-free in accordance with the procedures prescribed in § 301.10.
+
+(d) *Authority and delegations.* The Act authorizes the Secretaries of Commerce and the Treasury to prescribe joint regulations to carry out their functions under U.S. Note 6, Subchapter X, Chapter 98, HTSUS. The Secretary of the Treasury has delegated authority to the Assistant Secretary for Enforcement, who has retained rulemaking authority and further delegated administration of the regulations to the Commissioner of the Customs and Border Protection. The authority of the Secretary of Commerce has been delegated to the Assistant Secretary for Enforcement and Compliance who has retained rulemaking authority and further delegated administration of the regulations to the Director of the Statutory Import Programs Staff.
+
+[47 FR 32517, July 28, 1982; 47 FR 34368, Aug. 9, 1982, as amended at 66 FR 28832, May 25, 2001; 74 FR 30463, June 26, 2009; 78 FR 72571, Dec. 3, 2013]

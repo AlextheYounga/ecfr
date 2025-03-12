@@ -1,0 +1,3 @@
+##### § 778.121 Commission payments—delayed credits and debits. #####
+
+If there are delays in crediting sales or debiting returns or allowances which affect the computation of commissions, the amounts paid to the employee for the computation period will be accepted as the total commission earnings of the employee during such period, and the commission may be allocated over the period from the last commission computation date to the present commission computation date, even though there may be credits or debits resulting from work which actually occurred during a previous period. The hourly increase resulting from the commission may be computed as outlined in the preceding paragraphs.

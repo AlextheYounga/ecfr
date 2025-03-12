@@ -1,0 +1,25 @@
+##### § 260.99 Buildings and structures. #####
+
+The buildings and structures shall be properly constructed and maintained in a sanitary condition, including, but not limited to the following requirements:
+
+(a) *Lighting.* There shall be sufficient light (1) consistent with the use to which the particular portion of the building is devoted, and (2) to provide for efficient cleaning. Belts and tables on which picking, sorting, or trimming operations are carried on shall be provided with sufficient nonglaring light to insure adequacy of the respective operation. Light bulbs, fixtures, skylights, or other glass suspended over exposed food in any step of preparation shall be of the safety type or otherwise protected to prevent food contamination in case of breakage.
+
+(b) *Ventilation.* There shall be sufficient ventilation in each room and compartment thereof to prevent excessive condensation of moisture and to insure sanitary and suitable processing and operating conditions. If such ventilation does not prevent excessive condensation, the Director may require that suitable facilities be provided to prevent the condensate from coming in contact with equipment used in processing operations and with any ingredient used in the manufacture or production of a processed product.
+
+(c) *Drains and gutters.* All drains and gutters shall be properly installed with approved traps and vents. The drainage and plumbing system must permit the quick runoff of all water from official establishment buildings, and surface water around buildings and on the premises; and all such water shall be disposed of in such a manner as to prevent a nuisance or health hazard. Tanks or other equipment whose drains are connected to the waste system must have such screens and vacuum breaking devices affixed so as to prevent the entrance of waste water, material, and the entrance of vermin to the processing tanks or equipment.
+
+(d) *Water supply.* There shall be ample supply of both hot and cold water; and the water shall be of safe and sanitary quality with adequate facilities for its (1) distribution throughout buildings, and (2) protection against contamination and pollution.
+
+Sea water of safe suitable and sanitary quality may be used in the processing of various fishery products when approved by NMFS prior to use.
+
+(e) *Construction.* Roofs shall be weathertight. The walls, ceilings, partitions, posts, doors, and other parts of all buildings and structures shall be of such materials, construction, and finish as to permit their efficient and thorough cleaning. The floors shall be constructed of tile, cement, or other equally impervious material, shall have good surface drainage, and shall be free from openings or rough surfaces which would interfere with maintaining the floors in a clean condition.
+
+(f) *Processing rooms.* Each room and each compartment in which any processed products are handled, processed, or stored (1) shall be so designed and constructed as to insure processing and operating conditions of a clean and orderly character; (2) shall be free from objectional odors and vapors; and (3) shall be maintained in a clean and sanitary condition.
+
+(g) *Prevention of animals and insects in official establishment(s).* Dogs, cats, birds, and other animals (including, but not being limited to rodents and insects) shall be excluded from the rooms from which processed products are being prepared, handled, or stored and from any rooms from which ingredients (including, but not being limited to salt, sugar, spices, flour, batter, breading, and fishery products) are handled and stored. Screens, or other devices, adequate to prevent the passage of insects shall, where practical, be provided for all outside doors and openings. The use of chemical compounds such as cleaning agents, insecticides, bactericides, or rodent poisons shall not be permitted except under such precautions and restrictions as will prevent any possibility of their contamination of the processed product. The use of such compounds shall be limited to those circumstances and conditions as approved by NMFS.
+
+(h) *Inspector's office.* Furnished suitable and adequate office space, including, but not being limited to, light, heat, and janitor service shall be provided rent free in official establishments for use for official purposes by the inspector and NMFS representatives. The room or rooms designated for this purpose shall meet with the approval of NMFS and shall be conveniently located, properly ventilated, and provided with lockers or cabinets suitable for the protection and storage of inspection equipment and supplies and with facilities suitable for inspectors to change clothing.
+
+(i) Adequate parking space, conveniently located, for private or official vehicles used in connection with providing inspection services shall be provided.
+
+[36 FR 21040, Nov. 3, 1971]

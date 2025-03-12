@@ -1,0 +1,3 @@
+##### § 100.625 Referral of a claim to the Department of Justice. #####
+
+The NLRB shall promptly refer debts that are subject to aggressive collection activity and that cannot be compromised, or debts on which collection activity cannot be suspended or terminated, to the Department of Justice for litigation. Debts shall be referred as early as possible, consistent with the standards contained if 31 CFR parts 900-904 and, in any event, well within the period for initiating timely lawsuits against the debtors. The NLRB will make every effort to refer delinquent debts to the Department of Justice within one year of the date such debts became delinquent.

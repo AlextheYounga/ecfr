@@ -1,0 +1,19 @@
+##### § 81.12 Low- and Moderate-Income Housing Goal. #####
+
+(a) *Purpose of goal.* This annual goal for the purchase by each GSE of mortgages on housing for low- and moderate-income families (“the Low- and Moderate-Income Housing Goal”) is intended to achieve increased purchases by the GSEs of such mortgages.
+
+(b) *Factors.* In establishing the Low- and Moderate-Income Housing Goals, the Secretary considered the factors in 12 U.S.C. 4562(b). A statement documenting HUD's considerations and findings with respect to these factors, entitled “Departmental Considerations to Establish the Low- and Moderate-Income Housing Goal,” was published in the Federal Register on November 2, 2004.
+
+(c) *Goals.* The annual goals for each GSE's purchases of mortgages on housing for low- and moderate-income families are:
+
+(1) For the year 2005, 52 percent of the total number of dwelling units financed by that GSE's mortgage purchases unless otherwise adjusted by HUD in accordance with FHEFSSA. In addition, as a Low- and Moderate-Income Housing Home Purchase Subgoal, 45 percent of the total number of home purchase mortgages in metropolitan areas financed by that GSE's mortgage purchases shall be home purchase mortgages in metropolitan areas which count toward the Low- and Moderate-Income Housing Goal in the year 2005 unless otherwise adjusted by HUD in accordance with FHEFSSA;
+
+(2) For the year 2006, 53 percent of the total number of dwelling units financed by that GSE's mortgage purchases unless otherwise adjusted by HUD in accordance with FHEFSSA. In addition, as a Low- and Moderate-Income Housing Home Purchase Subgoal, 46 percent of the total number of home purchase mortgages in metropolitan areas financed by that GSE's mortgage purchases shall be home purchase mortgages in metropolitan areas which count toward the Low- and Moderate-Income Housing Goal in the year 2006 unless otherwise adjusted by HUD in accordance with FHEFSSA;
+
+(3) For the year 2007, 55 percent of the total number of dwelling units financed by that GSE's mortgage purchases unless otherwise adjusted by HUD in accordance with FHEFSSA. In addition, as a Low- and Moderate-Income Housing Home Purchase Subgoal, 47 percent of the total number of home purchase mortgages in metropolitan areas financed by that GSE's mortgage purchases shall be home purchase mortgages in metropolitan areas which count toward the Low- and Moderate-Income Housing Goal in the year 2007 unless otherwise adjusted by HUD in accordance with FHEFSSA;
+
+(4) For the year 2008, 56 percent of the total number of dwelling units financed by that GSE's mortgage purchases unless otherwise adjusted by HUD in accordance with FHEFSSA. In addition, as a Low- and Moderate-Income Housing Home Purchase Subgoal, 47 percent of the total number of home purchase mortgages in metropolitan areas financed by that GSE's mortgage purchases shall be home purchase mortgages in metropolitan areas which count toward the Low- and Moderate-Income Housing Goal in the year 2008 unless otherwise adjusted by HUD in accordance with FHEFSSA; and
+
+(5) For the year 2009 and thereafter HUD shall establish annual goals. Pending establishment of goals for the year 2009 and thereafter, the annual goal for each of those years shall be 56 percent of the total number of dwelling units financed by that GSE's mortgage purchases in each of those years. In addition, as a Low and Moderate Income Housing Home Purchase Subgoal, 47 percent of the total number of home purchase mortgages in metropolitan areas financed by that GSE's mortgage purchases shall be home purchase mortgages in metropolitan areas which count toward the Low- and Moderate-Income Housing Goal in each of those years unless otherwise adjusted by HUD in accordance with FHEFSSA.
+
+[60 FR 61888, Dec. 1, 1995, as amended at 65 FR 65085, Oct. 31, 2000; 69 FR 63639, Nov. 2, 2004]

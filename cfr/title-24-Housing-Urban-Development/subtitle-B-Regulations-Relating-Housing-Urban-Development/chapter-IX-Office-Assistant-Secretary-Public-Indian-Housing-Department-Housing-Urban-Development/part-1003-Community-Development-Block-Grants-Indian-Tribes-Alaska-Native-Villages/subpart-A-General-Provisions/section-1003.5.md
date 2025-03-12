@@ -1,0 +1,9 @@
+##### § 1003.5 Eligible applicants. #####
+
+(a) Eligible applicants are any Indian tribe, band, group, or nation, including Alaska Indians, Aleuts, and Eskimos, and any Alaska native village of the United States which is considered an eligible recipient under Title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450) or which had been an eligible recipient under the State and Local Fiscal Assistance Act of 1972 (31 U.S.C. 1221). Eligible recipients under the Indian Self-Determination and Education Assistance Act will be determined by the Bureau of Indian Affairs and eligible recipients under the State and Local Fiscal Assistance Act of 1972 are those that have been determined eligible by the Department of Treasury, Office of Revenue Sharing.
+
+(b) Tribal organizations which are eligible under Title I of the Indian Self-Determination and Education Assistance Act may apply on behalf of any Indian tribe, band, group, nation, or Alaska native village eligible under that act for funds under this part when one or more of these entities have authorized the tribal organization to do so through concurring resolutions. Such resolutions must accompany the application for funding. Eligible tribal organizations under Title I of the Indian Self-Determination and Education Assistance Act will be determined by the Bureau of Indian Affairs or the Indian Health Service, as appropriate.
+
+(c) To apply for funding in a given fiscal year, an applicant must be eligible as an Indian tribe or Alaska native village, as provided in paragraph (a) of this section, or as a Tribal organization, as provided in paragraph (b) of this section, by the application submission date.
+
+(Approved by the Office of Management and Budget under control number 2577-0191)

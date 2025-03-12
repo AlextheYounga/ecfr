@@ -1,0 +1,13 @@
+##### § 1604.10 Employment policies relating to pregnancy and childbirth. #####
+
+(a) A written or unwritten employment policy or practice which excludes from employment applicants or employees because of pregnancy, childbirth or related medical conditions is in prima facie violation of title VII.
+
+(b) Disabilities caused or contributed to by pregnancy, childbirth, or related medical conditions, for all job-related purposes, shall be treated the same as disabilities caused or contributed to by other medical conditions, under any health or disability insurance or sick leave plan available in connection with employment. Written or unwritten employment policies and practices involving matters such as the commencement and duration of leave, the availability of extensions, the accrual of seniority and other benefits and privileges, reinstatement, and payment under any health or disability insurance or sick leave plan, formal or informal, shall be applied to disability due to pregnancy, childbirth or related medical conditions on the same terms and conditions as they are applied to other disabilities. Health insurance benefits for abortion, except where the life of the mother would be endangered if the fetus were carried to term or where medical complications have arisen from an abortion, are not required to be paid by an employer; nothing herein, however, precludes an employer from providing abortion benefits or otherwise affects bargaining agreements in regard to abortion.
+
+(c) Where the termination of an employee who is temporarily disabled is caused by an employment policy under which insufficient or no leave is available, such a termination violates the Act if it has a disparate impact on employees of one sex and is not justified by business necessity.
+
+(d)(1) Any fringe benefit program, or fund, or insurance program which is in effect on October 31, 1978, which does not treat women affected by pregnancy, childbirth, or related medical conditions the same as other persons not so affected but similar in their ability or inability to work, must be in compliance with the provisions of § 1604.10(b) by April 29, 1979. In order to come into compliance with the provisions of 1604.10(b), there can be no reduction of benefits or compensation which were in effect on October 31, 1978, before October 31, 1979 or the expiration of a collective bargaining agreement in effect on October 31, 1978, whichever is later.
+
+(2) Any fringe benefit program implemented after October 31, 1978, must comply with the provisions of § 1604.10(b) upon implementation.
+
+[44 FR 23805, Apr. 20, 1979]

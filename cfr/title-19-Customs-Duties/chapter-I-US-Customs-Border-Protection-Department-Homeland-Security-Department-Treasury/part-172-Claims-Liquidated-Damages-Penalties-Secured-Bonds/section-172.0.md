@@ -1,0 +1,3 @@
+##### § 172.0 Scope. #####
+
+This part contains provisions relating to petitions for relief from claims for liquidated damages arising under any Customs bond and penalties incurred which are secured by the conditions of the International Carrier Bond (see § 113.64 of this Chapter). This part does not relate to petitions on unsecured fines or penalties or seizures and forfeitures, nor does it relate to petitions for the restoration of proceeds of sale pursuant to 19 U.S.C. 1613.

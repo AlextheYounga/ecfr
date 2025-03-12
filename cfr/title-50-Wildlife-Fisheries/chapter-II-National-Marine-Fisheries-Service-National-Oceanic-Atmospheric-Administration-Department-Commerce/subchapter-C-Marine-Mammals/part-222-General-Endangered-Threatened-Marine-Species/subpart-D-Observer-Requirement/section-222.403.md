@@ -1,0 +1,5 @@
+##### § 222.403 Duration of selection; effective date. #####
+
+(a) Fisheries included in the final annual determination in a given year will remain eligible for observer coverage under this rule for five years, without need for NMFS to include the fishery in the intervening proposed annual determinations, to enable the design of an appropriate sampling program and to ensure collection of scientific data. If NMFS wishes to continue observations beyond the fifth year, NMFS must include the fishery in the proposed annual determination and seek comment, prior to the expiration of the fifth year.
+
+(b) A 30-day delay in effective date for implementing observer coverage will follow the annual notification, except for those fisheries that were included in a previous determination within the preceding five years or where the AA has determined that there is good cause pursuant to the Administrative Procedure Act to make the rule effective without a 30-day delay.

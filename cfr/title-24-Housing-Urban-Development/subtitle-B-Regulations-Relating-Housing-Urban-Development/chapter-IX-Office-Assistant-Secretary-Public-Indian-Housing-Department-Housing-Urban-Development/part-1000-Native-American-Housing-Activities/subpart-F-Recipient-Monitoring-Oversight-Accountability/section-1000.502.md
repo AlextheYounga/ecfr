@@ -1,0 +1,9 @@
+##### § 1000.502 What are the monitoring responsibilities of the recipient, the grant beneficiary and HUD under NAHASDA? #####
+
+(a) The recipient is responsible for monitoring grant activities, ensuring compliance with applicable Federal requirements and monitoring performance goals under the IHP. The recipient is responsible for preparing at least annually: a compliance assessment in accordance with section 403(b) of NAHASDA; a performance report covering the assessment of program progress and goal attainment under the IHP; and an audit in accordance with the Single Audit Act, as applicable. The recipient's monitoring should also include an evaluation of the recipient's performance in accordance with performance objectives and measures. At the request of a recipient, other Indian tribes and/or TDHEs may provide assistance to aid the recipient in meeting its performance goals or compliance requirements under NAHASDA.
+
+(b) Where the recipient is a TDHE, the grant beneficiary (Indian tribe) is responsible for monitoring programmatic and compliance requirements of the IHP and NAHASDA by requiring the TDHE to prepare periodic progress reports including the annual compliance assessment, performance and audit reports.
+
+(c) HUD is responsible for reviewing the recipient as set forth in § 1000.520.
+
+(d) HUD monitoring will consist of on-site as well as off-site review of records, reports and audits. To the extent funding is available, HUD or its designee will provide technical assistance and training, or funds to the recipient to obtain technical assistance and training. In the absence of funds, HUD shall make best efforts to provide technical assistance and training.

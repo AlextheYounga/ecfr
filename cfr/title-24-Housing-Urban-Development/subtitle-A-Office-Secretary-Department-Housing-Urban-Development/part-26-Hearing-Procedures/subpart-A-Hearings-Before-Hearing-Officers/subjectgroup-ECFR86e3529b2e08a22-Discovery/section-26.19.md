@@ -1,0 +1,15 @@
+##### § 26.19 Request for production of documents. #####
+
+(a) *Request to produce.* Any party may serve upon any other party a written request to produce, and permit the party making the request, or someone acting on the requestor's behalf, to inspect, copy, test, or sample any designated documents—including writings, drawings, graphs, charts, photographs, sound recordings, images, and other data or data compilations stored in any medium from which information can be obtained—translated, if necessary, by the respondent into reasonably usable form, or to inspect, copy, test, or sample any designated tangible things that constitute or contain matters within the scope of § 26.18(a) and which are in the possession, custody, or control of the party upon whom the request is served.
+
+(b) *Procedure.* The request shall set forth, either by individual item or by category, the items to be inspected, and describe each with reasonable particularity. The request shall specify a reasonable time, place, and manner of making the inspection and performing the related acts. The request may specify the form or forms in which electronically stored information is to be produced.
+
+(c) *Response to request to produce.* The party upon whom the request is served shall serve a written response within 20 days after service of the request. A shorter or longer time may be directed by the hearing officer, or in the absence of such an order, agreed to by the parties in a written document that shall be timely submitted to the hearing officer. The response shall state, with respect to each item or category, whether inspection and related activities will be permitted as requested. If there are any objections to any requests, including objections to the requested form or forms for producing electronically stored information, the response shall state the reasons for such objections. If objection is made to part of an item or category, the part shall be specified and inspection of the remaining parts shall be permitted. If objection is made to the requested format or forms for producing electronically stored information—or if no form was specified in the request—the responding party must state the form or forms it intends to use. The party submitting the request may move for an order under § 26.18(c)(1) with respect to any objection to or other failure to respond to the request or any part thereof, or any failure to permit inspection as requested.
+
+(d) *Form of production.* Unless the parties otherwise agree, or the hearing officer otherwise orders:
+
+(1) A party who produces documents for inspection shall produce them as they are kept in the usual course of business or shall organize and label them to correspond with the categories in the request;
+
+(2) If a request does not specify the format or forms for producing electronically stored information, a responding party must produce the information in a form or forms in which it is ordinarily maintained or in a form or forms that are reasonably usable; and
+
+(3) A party need not produce the same electronically stored information in more than one form.

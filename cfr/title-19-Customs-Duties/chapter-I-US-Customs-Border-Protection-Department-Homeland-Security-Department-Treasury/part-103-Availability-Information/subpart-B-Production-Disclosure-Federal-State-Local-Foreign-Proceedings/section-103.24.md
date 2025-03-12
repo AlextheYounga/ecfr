@@ -1,0 +1,5 @@
+##### § 103.24 Procedure in the event a decision concerning a demand is not made prior to the time a response to the demand is required. #####
+
+If response to a demand is required before the instructions from the Chief Counsel are received, the U.S. Attorney, his/her assistant, or other appropriate legal representative shall be requested to appear with the CBP employee upon whom the demand has been made. The U.S. Attorney, his/her assistant, or other appropriate legal representative shall furnish the court or other authority with a copy of the regulations contained in this subpart, inform the court or other authority that the demand has been or is being, as the case may be, referred for the prompt consideration of the Chief Counsel, and shall respectfully request the court or authority to stay the demand pending receipt of the requested instructions.
+
+[61 FR 19838, May 3, 1996, as amended at 78 FR 70856, Nov. 27, 2013]

@@ -1,0 +1,9 @@
+##### § 42.8 Coordination plan. #####
+
+(a) Based upon, among other things, the regional enforcement strategies submitted under § 42.6, the National Committee shall develop an annual coordination plan concerning farm labor-related responsibilities of the Department, including migrant housing inspections, the referral of complaints, enforcement action on violations of federal or State employment-related laws subject to the jurisdiction of DOL, or regulations administered by DOL or appropriate State agencies, and assistance to stranded migrant farmworkers.
+
+(b) The coordination plan shall describe the present program responsibilities of ESA for enforcement in the farm labor area of the Fair Labor Standards Act, and the Farm Labor Contractor Registration Act. The plan shall include a statistical summary of the prior-year complaints under, and alleged violations of, FLSA and FLCRA as recorded in the logs of the ESA Wage and Hour Regional and Area Offices, and shall set forth general goals and objectives for FLSA and FLCRA enforcement activities for the following year as established by ESA.
+
+(c) The coordination plan shall describe the present program responsibilities of OSHA for protecting the safety and health of migrant farmworkers. The plan shall include a statistical summary of prior-year complaints under, and alleged violations of, OSHA recorded in the logs of the OSHA State and area offices, and shall provide general goals for OSHA enforcement activities for the following year as established by OSHA.
+
+(d) The plan shall include a review of the procedures developed by ETA to handle emergency situations, such as the stranding or displacement of migrants, and shall provide general goals for USES activities for the following year.

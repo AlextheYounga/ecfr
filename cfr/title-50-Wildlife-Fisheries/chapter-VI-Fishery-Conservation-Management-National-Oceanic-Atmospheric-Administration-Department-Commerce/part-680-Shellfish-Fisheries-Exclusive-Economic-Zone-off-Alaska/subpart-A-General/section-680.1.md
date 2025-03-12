@@ -1,0 +1,7 @@
+##### § 680.1 Purpose and scope. #####
+
+Regulations in this part implement policies developed by the North Pacific Fishery Management Council and approved by the Secretary of Commerce in accordance with the Magnuson-Stevens Fishery Conservation and Management Act. In addition to part 600 of this chapter, these regulations implement the following:
+
+(a) *Fishery Management Plan (FMP) for Bering Sea and Aleutian Islands King and Tanner Crabs.* Regulations in this part govern commercial fishing for, and processing of, king and Tanner crabs in the Bering Sea and Aleutian Islands Area pursuant to section 313(j) of the Magnuson-Stevens Act, including regulations implementing the Crab Rationalization Program for crab fisheries in the Bering Sea and Aleutian Islands Area, and supersede State of Alaska regulations applicable to the commercial king and Tanner crab fisheries in the Exclusive Economic Zone (EEZ) of the Bering Sea and Aleutian Islands Area that are determined to be inconsistent with the FMP.
+
+(b) *License Limitation Program.* Commercial fishing for crab species not included in the Crab Rationalization Program for crab fisheries of the Bering Sea and Aleutian Islands Area remains subject to the License Limitation Program for the commercial crab fisheries in the Bering Sea and Aleutian Islands Area under part 679 of this chapter.

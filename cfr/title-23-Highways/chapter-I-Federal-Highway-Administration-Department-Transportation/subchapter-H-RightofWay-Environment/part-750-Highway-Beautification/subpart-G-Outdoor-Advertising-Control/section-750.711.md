@@ -1,0 +1,3 @@
+##### § 750.711 Structures which have never displayed advertising material. #####
+
+Structures, including poles, which have never displayed advertising or informative content are subject to control or removal when advertising content visible from the main-traveled way is added or affixed. When this is done, an “outdoor advertising sign” has then been erected which must comply with the State law in effect on that date.

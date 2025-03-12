@@ -1,0 +1,3 @@
+##### § 401.101 Policy on disclosure of Commission records. #####
+
+The Commission will make the fullest possible disclosure of records to the public, consistent with the rights of individuals to privacy, the property rights of persons in trade secrets and confidential commercial or financial information, and the need for the Commission to promote frank internal policy deliberations and to pursue its regulatory activities without disruption.

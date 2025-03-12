@@ -1,0 +1,3 @@
+##### § 300.170 Purpose and scope. #####
+
+The regulations in this subpart govern fishing by U.S. vessels in waters under the fisheries jurisdiction of Canada pursuant to the 1981 Treaty Between the Government of the United States of America and the Government of Canada on Pacific Coast Albacore Tuna Vessels and Port Privileges as amended in 2002. Regulations governing fishing by Canadian vessels in waters under the fisheries jurisdiction of the United States pursuant to this Treaty as amended in 2002 are found at § 600.530 of chapter VI of this title.

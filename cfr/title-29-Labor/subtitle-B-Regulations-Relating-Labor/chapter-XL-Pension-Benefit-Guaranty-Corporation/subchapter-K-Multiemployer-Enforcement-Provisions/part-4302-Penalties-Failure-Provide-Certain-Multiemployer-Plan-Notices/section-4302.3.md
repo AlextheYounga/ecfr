@@ -1,0 +1,5 @@
+##### § 4302.3 Penalty amount. #####
+
+The maximum daily amount of the penalty under section 4302 of ERISA shall be $275.
+
+[62 FR 36995, July 10, 1997, as amended at 81 FR 29767, May 13, 2016]

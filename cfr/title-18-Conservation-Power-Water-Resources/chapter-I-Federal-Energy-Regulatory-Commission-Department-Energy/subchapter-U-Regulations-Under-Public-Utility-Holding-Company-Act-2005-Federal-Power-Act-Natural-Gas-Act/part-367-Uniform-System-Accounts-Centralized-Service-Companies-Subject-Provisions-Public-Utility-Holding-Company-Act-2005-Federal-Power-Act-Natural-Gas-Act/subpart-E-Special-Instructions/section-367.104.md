@@ -1,0 +1,5 @@
+##### § 367.104 Accounts 410.1, 410.2, 411.1, and 411.2, Provision for deferred income taxes. #####
+
+(a) Accounts 410.1 (§ 367.4101) and 410.2 (§ 367.4102) must be debited, and Accumulated Deferred Income Taxes must be credited, with amounts equal to any current deferrals of taxes on income or any allocations of deferred taxes originating in prior periods, as provided by the texts of accounts 190 (§ 367.1900), 282 (§ 367.2820), and 283 (§ 367.2830). There must not be netted against entries required to be made to these accounts any credit amounts appropriately includible in accounts 411.1 (§ 367.4111) or 411.2 (§ 367.4112).
+
+(b) Accounts 411.1 (§ 367.4111) and 411.2 (§ 367.4112) must be credited, and Accumulated Deferred Income Taxes must be debited, with amounts equal to any allocations of deferred taxes originating in prior periods or any current deferrals of taxes on income, as provided by the texts of accounts 190 (§ 367.1900), 282 (§ 367.2820), and 283 (§ 367.2830). There must not be netted against entries required to be made to these accounts any debit amounts appropriately includible in account 410.1 (§ 367.4101) or 410.2 (§ 367.4102).

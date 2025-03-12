@@ -1,0 +1,3 @@
+##### § 785.13 Duty of management. #####
+
+In all such cases it is the duty of the management to exercise its control and see that the work is not performed if it does not want it to be performed. It cannot sit back and accept the benefits without compensating for them. The mere promulgation of a rule against such work is not enough. Management has the power to enforce the rule and must make every effort to do so.

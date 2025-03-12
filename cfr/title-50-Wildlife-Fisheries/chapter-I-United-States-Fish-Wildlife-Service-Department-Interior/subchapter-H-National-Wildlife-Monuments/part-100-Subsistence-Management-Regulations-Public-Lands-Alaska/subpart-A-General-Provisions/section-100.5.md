@@ -1,0 +1,9 @@
+##### § 100.5 Eligibility for subsistence use. #####
+
+(a) You may take fish and wildlife on public lands for subsistence uses only if you are an Alaska resident of a rural area or rural community. The regulations in this part may further limit your qualifications to harvest fish or wildlife resources for subsistence uses. If you are not an Alaska resident or are a resident of a non-rural area or community listed in § 100.23, you may not take fish or wildlife on public lands for subsistence uses under the regulations in this part.
+
+(b) Where the Board has made a customary and traditional use determination regarding subsistence use of a specific fish stock or wildlife population, in accordance with, and as listed in, § 100.24, only those Alaskans who are residents of rural areas or communities designated by the Board are eligible for subsistence taking of that population or stock on public lands for subsistence uses under the regulations in this part. If you do not live in one of those areas or communities, you may not take fish or wildlife from that population or stock, on public lands under the regulations in this part.
+
+(c) Where customary and traditional use determinations for a fish stock or wildlife population within a specific area have not yet been made by the Board (e.g., “no determination”), all Alaskans who are residents of rural areas or communities may harvest for subsistence from that stock or population under the regulations in this part.
+
+(d) The National Park Service may regulate further the eligibility of those individuals qualified to engage in subsistence uses on National Park Service lands in accordance with specific authority in ANILCA, and National Park Service regulations at 36 CFR Part 13.

@@ -1,0 +1,3 @@
+##### § 367.4040 Account 404, Amortization of limited-term property. #####
+
+This account must include amortization charges applicable to amounts included in the service company property accounts for limited-term franchises, licenses, patent rights, limited-term interests in land, and expenditures on leased property where the service life of the improvements is terminable by action of the lease. The charges to this account must be sufficient to distribute the book cost of each investment as evenly as may be over the period of its benefit (*See* account 111, Accumulated provision for amortization of service company property (§ 367.1110)).

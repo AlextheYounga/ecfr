@@ -1,0 +1,3 @@
+##### § 1405.7 Goals and timetables. #####
+
+On an annual basis, as part of the manpower and budget process, management will set goals for establishing part-time positions to part-time along with a timetable setting forth interim and final deadlines for achieving the goals. Decisions on part-time employment will be based on such factors as agency mission, occupational mix, workload fluctuations, affirmative actions, geographic dispersion, effect on providing services to the public, and employee interest in part-time employment.

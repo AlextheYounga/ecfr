@@ -1,0 +1,3 @@
+##### § 891.110 Allocation of authority. #####
+
+In accordance with 24 CFR part 791, the Assistant Secretary will separately allocate the amounts available for capital advances for the development of housing for elderly households and for disabled households, less amounts set aside by Congress for specific types of projects, and for amendments of fund reservations made in prior years, for technical assistance, and for other contracted services.

@@ -1,0 +1,3 @@
+##### § 37.12 What Department of Labor office is responsible for administering this part? #####
+
+The Civil Rights Center (CRC), in the Office of the Assistant Secretary for Administration and Management, is responsible for administering and enforcing the nondiscrimination and equal opportunity provisions of WIA and this part, and for developing and issuing policies, standards, guidance, and procedures for effecting compliance.

@@ -1,0 +1,3 @@
+##### § 5.502 Requirements concerning documents. #####
+
+For any notice or document (decision, declaration, consent form, etc.) that this subpart E requires the responsible entity to provide to an individual, or requires the responsible entity to obtain the signature of an individual, the responsible entity, where feasible, must arrange for the notice or document to be provided to the individual in a language that is understood by the individual if the individual is not proficient in English. (See 24 CFR 8.6 of HUD's regulations for requirements concerning communications with persons with disabilities.)

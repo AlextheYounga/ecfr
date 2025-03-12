@@ -1,0 +1,3 @@
+##### § 778.324 Effect on hourly rate employees. #####
+
+A similar situation is presented where employees have been hired at an hourly rate of pay and have customarily worked a fixed workweek. If the workweek is reduced from 40 to 35 hours without reduction in total pay, the average hourly rate is thereby increased as in § 778.322. If the reduction in work schedule is accompanied by a new agreement altering the mode of compensation from an hourly rate basis to a fixed salary for a variable workweek up to 40 hours, the results described in § 778.323 follow.

@@ -1,0 +1,3 @@
+##### § 950.9 Computerized Environmental Data and Information Retrieval Service. #####
+
+The Environmental Data Index (ENDEX) provides rapid, automated referral to multidiscipline environmental data files of NOAA, other Federal agencies, state and local governments, and universities, research institutes, and private industry. A computerized, information retrieval service provides a parallel subject-author-abstract referral service. A telephone call to any EDIS data or information center or NOAA library will allow a user access to these services.

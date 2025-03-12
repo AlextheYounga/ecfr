@@ -1,0 +1,3 @@
+##### § 212.27 Agency review. #####
+
+Except as otherwise authorized by the presiding officer, the parties shall be allowed ten (10) days from the date of service of the recommended determination to file exceptions to the recommended determination and alternative findings of fact and conclusions of law with the Commission. Upon receipt of the recommended determination, the Commission shall review the same and issue a final determination on the application or remand the application to the presiding officer for further proceedings.

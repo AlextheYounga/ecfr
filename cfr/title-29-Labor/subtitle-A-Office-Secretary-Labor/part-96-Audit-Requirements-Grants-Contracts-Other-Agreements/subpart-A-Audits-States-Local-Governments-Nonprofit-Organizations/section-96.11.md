@@ -1,0 +1,3 @@
+##### § 96.11 Purpose and scope of subpart. #####
+
+The regulations in this subpart and in 29 CFR part 99 implement Office of Management and Budget (OMB) Circular A-133, “Audits of States, Local Governments, and Non-Profit Organizations,” which was issued pursuant to The Single Audit Act Amendments of 1996 (Act). The Act builds upon earlier efforts to improve audits of Federal financial assistance programs. This subpart establishes uniform audit requirements and policy for recipients and subrecipients that receive Federal financial assistance from DOL.

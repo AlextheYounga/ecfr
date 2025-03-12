@@ -1,0 +1,3 @@
+##### § 9.151 Program accessibility: new construction and alterations. #####
+
+Each building or part of a building that is constructed or altered by, on behalf of, or for the use of the agency shall be designed, constructed, or altered and provide emergency egress so as to be readily accessible to and usable by individuals with disabilities. The definitions, requirements, and accessibility standards that apply to buildings covered by this section are those contained in the UFAS, except where the ADAAG provides for greater accessibility for the type of construction or alteration being undertaken, and in this case, the definitions, requirements and standards of the ADAAG shall apply.

@@ -1,0 +1,3 @@
+##### § 452.68 Distribution to less than full membership. #####
+
+Although section 401(c) specifies distribution to “all members in good standing,” a labor organization must also honor requests for distribution of literature to only a portion of the membership if such distribution is practicable. Each candidate may choose his own ways of campaigning for election according to his own ingenuity and resources. For example, some candidates for national or international union office may desire to limit distribution to delegates, but others may want to appeal directly to the membership or parts thereof in an effort to influence particular constituencies to choose delegates favorable to their candidacy.

@@ -1,0 +1,5 @@
+##### § 144.39 Permit to transfer and withdraw merchandise. #####
+
+With the exception of merchandise transferred under the procedures of § 144.34(c), if all legal and regulatory requirements are met, the appropriate Customs officer shall approve the application to transfer or withdraw merchandise from a bonded warehouse by endorsing the permit copy and returning it to the applicant. The approved permit shall be presented by the withdrawer to the warehouse proprietor as evidence of Customs authorization of the transfer or withdrawal. The approved permit copy shall thereafter be retained in the warehouse entry file of the proprietor. Goods covered by permit may be retained in the bonded warehouse at the option of the proprietor.
+
+[T.D. 82-204, 47 FR 49376, Nov. 1, 1982, as amended by T.D. 97-19, 62 FR 15842, Apr. 3, 1997]

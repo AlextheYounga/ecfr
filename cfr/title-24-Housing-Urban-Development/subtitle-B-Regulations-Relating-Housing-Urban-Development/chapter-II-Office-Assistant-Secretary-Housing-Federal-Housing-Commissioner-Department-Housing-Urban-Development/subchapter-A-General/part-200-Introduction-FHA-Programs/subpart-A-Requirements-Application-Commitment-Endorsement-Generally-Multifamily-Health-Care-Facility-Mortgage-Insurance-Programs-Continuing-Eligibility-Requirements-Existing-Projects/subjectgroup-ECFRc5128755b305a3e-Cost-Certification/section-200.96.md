@@ -1,0 +1,7 @@
+##### § 200.96 Certificates of actual cost. #####
+
+(a) The mortgagor's certificate of actual cost, in a form prescribed by the Commissioner, shall be submitted upon completion of the physical improvements to the satisfaction of the Commissioner and before final endorsement, except that in the case of an existing project that does not require substantial rehabilitation and where the commitment provides for completion of specified repairs after endorsement, a supplemental certificate of actual cost will be submitted covering the completed costs of any such repairs. The certificate shall show the actual cost to the mortgagor, after deduction of any kickbacks, rebates, trade discounts, or other similar payments to the mortgagor, or to any of its officers, directors, stockholders, partners or other entity member ownership, of construction and other costs, as prescribed by the Commissioner.
+
+(b) The Certificate of Actual Cost shall be verified by an independent Certified Public Accountant or independent public accountant in a manner acceptable to the Commissioner.
+
+(c) Upon the Commissioner's approval of the mortgagor's certification of actual cost such certification shall be final and incontestable except for fraud or material misrepresentation on the part of the mortgagor.

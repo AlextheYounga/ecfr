@@ -1,0 +1,5 @@
+##### § 12.104a Importations prohibited. #####
+
+(a) No article of cultural property documented as appertaining to the inventory of a museum or religious or secular public monument or similar institution in any State Party which was stolen from such museum, monument, or institution after April 12, 1983, or after the date of entry into force of the Convention for the State Party, whichever date is later, may be imported into the U.S.
+
+(b) No archaeological or ethnological material designated pursuant to 19 U.S.C. 2604 and listed in § 12.104g, that is exported (whether or not such exportation is to the U.S.) from the State Party after the designation of such material under 19 U.S.C. 2604 may be imported into the U.S. unless the State Party issues a certificate or other documentation which certifies that such exportation was not in violation of the laws of the State Party.

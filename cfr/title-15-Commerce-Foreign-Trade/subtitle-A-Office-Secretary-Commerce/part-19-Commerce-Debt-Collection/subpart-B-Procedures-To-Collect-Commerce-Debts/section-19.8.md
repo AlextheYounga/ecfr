@@ -1,0 +1,3 @@
+##### § 19.8 When will Commerce entities suspend or terminate debt collection on a Commerce debt? #####
+
+If, after pursuing all appropriate means of collection, a Commerce entity determines that a Commerce debt is uncollectible, the Commerce entity may, with legal counsel approval, suspend or terminate debt collection activity in accordance with the provisions of 31 CFR part 903 and the Commerce entity's policies and procedures. Termination of debt collection activity by a Commerce entity does not discharge the indebtedness. (*See* Commerce Department Credit and Debt Management Operating Standards and Procedures Handbook, available at *http://www.osec.doc.gov/ofm/credit/cover.html.*)

@@ -1,0 +1,13 @@
+##### § 141.102 When deposit of estimated duties, estimated taxes, or both not required. #####
+
+Entry or withdrawal for consumption in the following situations may be made without depositing the estimated Customs duties, or estimated taxes, or both, as specifically noted:
+
+(a) *Cigars and cigarettes.* A qualified dealer or manufacturer may enter or withdraw for consumption cigars, cigarettes, and cigarette papers and tubes without payment of internal revenue tax in accordance with § 11.2a of this chapter.
+
+(b) *Bulk distilled spirits transferred to the bonded premises of a distilled spirits plant.* An importer may transfer distilled spirits in bulk to the bonded premises of a distilled spirits plant, without the payment of tax, under the provisions of section 5232(a), Internal Revenue Code of 1986 (26 U.S.C. 5232(a)), and the regulations of the Bureau of Alcohol, Tobacco and Firearms (27 CFR part 251).
+
+(c) *Deferral of payment of taxes on alcoholic beverages.* An importer may pay on a semimonthly basis the estimated internal revenue taxes on all the alcoholic beverages entered or withdrawn for consumption during that period, under the procedures set forth in § 24.4 of this chapter.
+
+(d) *Government entries.* If a shipment is entered or withdrawn for consumption by a U.S. Government department or agency, or an authorized representative thereof, no deposit of estimated Customs duties or taxes shall be required if a stipulation is furnished in lieu of the bond. The proper department or agency will then be billed after liquidation of the entry for any duties or charges due. The stipulation shall be in the following form:
+
+I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (title), a duly authorized representative of the(name of U.S. Government department or agency) stipulate and agree on behalf of such department or agency that all applicable provisions of the Tariff Act of 1930, as amended, and the regulations thereunder, and of all other laws and regulations, relating to (type of entry)entry No. \_\_\_\_\_\_\_\_\_\_\_\_, of \_\_\_\_\_\_\_\_\_\_\_\_ (date) will be observed and complied with in all respects.(Signature) [T.D. 73-175, 38 FR 17447, July 2, 1973, as amended by T.D. 78-329, 43 FR 43455, Sept. 26, 1978; T.D. 84-213, 49 FR 41184, Oct. 19, 1984; T.D. 89-65, 54 FR 28414, July 6, 1989; T.D. 92-31, 57 FR 10989, Apr. 1, 1992; CBP Dec. 08-25, 73 FR 40727, July 16, 2008]

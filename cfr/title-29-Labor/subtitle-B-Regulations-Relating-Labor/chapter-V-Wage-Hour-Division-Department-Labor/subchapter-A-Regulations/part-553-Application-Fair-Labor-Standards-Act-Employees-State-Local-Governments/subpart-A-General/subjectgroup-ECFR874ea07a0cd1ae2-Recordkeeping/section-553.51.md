@@ -1,0 +1,3 @@
+##### § 553.51 Records to be kept for employees paid pursuant to section 7(k). #####
+
+For each employee subject to the partial overtime exemption in section 7(k) of the Act, a public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall maintain and preserve records containing the information and data required by § 553.50 and, in addition, make some notation on the payroll records which shows the work period for each employee and which indicates the length of that period and its starting time. If all the workers (or groups of workers) have a work period of the same length beginning at the same time on the same day, a single notation of the time of day and beginning day of the work period will suffice for these workers.

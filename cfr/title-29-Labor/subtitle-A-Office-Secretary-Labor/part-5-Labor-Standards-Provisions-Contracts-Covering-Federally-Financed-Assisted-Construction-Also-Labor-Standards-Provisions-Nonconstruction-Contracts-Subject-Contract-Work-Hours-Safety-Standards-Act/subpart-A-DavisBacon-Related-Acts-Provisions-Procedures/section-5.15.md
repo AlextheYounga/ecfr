@@ -1,0 +1,39 @@
+##### § 5.15 Limitations, variations, tolerances, and exemptions under the Contract Work Hours and Safety Standards Act. #####
+
+(a) *General.* Upon his or her own initiative or upon the request of any Federal agency, the Secretary of Labor may provide under section 105 of the Contract Work Hours and Safety Standards Act reasonable limitations and allow variations, tolerances, and exemptions to and from any or all provisions of that Act whenever the Secretary finds such action to be necessary and proper in the public interest to prevent injustice, or undue hardship, or to avoid serious impairment of the conduct of Government business. Any request for such action by the Secretary shall be submitted in writing, and shall set forth the reasons for which the request is made.
+
+(b) *Exemptions.* Pursuant to section 105 of the Contract Work Hours and Safety Standards Act, the following classes of contracts are found exempt from all provisions of that Act in order to prevent injustice, undue hardship, or serious impairment of Government business:
+
+(1) Contract work performed in a workplace within a foreign country or within territory under the jurisdiction of the United States other than the following: A State of the United States; the District of Columbia; Puerto Rico; the Virgin Islands; Outer Continental Shelf lands defined in the Outer Continental Shelf Lands Act (ch. 345, 67 Stat. 462); American Samoa; Guam; Wake Island; Eniwetok Atoll; Kwajalein Atoll; and Johnston Island.
+
+(2) Agreements entered into by or on behalf of the Commodity Credit Corporation providing for the storing in or handling by commercial warehouses of wheat, corn, oats, barley, rye, grain sorghums, soybeans, flaxseed, rice, naval stores, tobacco, peanuts, dry beans, seeds, cotton, and wool.
+
+(3) Sales of surplus power by the Tennessee Valley Authority to States, counties, municipalities, cooperative organization of citizens or farmers, corporations and other individuals pursuant to section 10 of the Tennessee Valley Authority Act of 1933 (16 U.S.C. 8311).
+
+(c) *Tolerances.* (1) The “basic rate of pay” under section 102 of the Contract Work Hours and Safety Standards Act may be computed as an hourly equivalent to the rate on which time-and-one-half overtime compensation may be computed and paid under section 7 of the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 207), as interpreted in part 778 of this title. This tolerance is found to be necessary and proper in the public interest in order to prevent undue hardship.
+
+(2) Concerning the tolerance provided in paragraph (c)(1) of this section, the provisions of section 7(d)(2) of the Fair Labor Standards Act and § 778.7 of this title should be noted. Under these provisions, payments for occasional periods when no work is performed, due to vacations, and similar causes are excludable from the “regular rate” under the Fair Labor Standards Act. Such payments, therefore, are also excludable from the “basic rate” under the Contract Work Hours and Safety Standards Act.
+
+(3) See § 5.8(c) providing a tolerance subdelegating authority to the heads of agencies to make appropriate adjustments in the assessment of liquidated damages totaling $500 or less under specified circumstances.
+
+(4)(i) Time spent in an organized program of related, supplemental instruction by laborers or mechanics employed under bona fide apprenticeship or training programs may be excluded from working time if the criteria prescribed in paragraphs (c)(4)(ii) and (iii) of this section are met.
+
+(ii) The apprentice or trainee comes within the definition contained in § 5.2(n).
+
+(iii) The time in question does not involve productive work or performance of the apprentice's or trainee's regular duties.
+
+(d) *Variations.* (1) In the event of failure or refusal of the contractor or any subcontractor to comply with overtime pay requirements of the Contract Work Hours and Safety Standards Act, if the funds withheld by Federal agencies for the violations are not sufficient to pay fully both the unpaid wages due laborers and mechanics and the liquidated damages due the United States, the available funds shall be used first to compensate the laborers and mechanics for the wages to which they are entitled (or an equitable portion thereof when the funds are not adequate for this purpose); and the balance, if any, shall be used for the payment of liquidated damages.
+
+(2) In the performance of any contract entered into pursuant to the provisions of 38 U.S.C. 620 to provide nursing home care of veterans, no contractor or subcontractor under such contract shall be deemed in violation of section 102 of the Contract Work Hours and Safety Standards Act by virtue of failure to pay the overtime wages required by such section for work in excess of 40 hours in the workweek to any individual employed by an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of 14 consecutive days is accepted in lieu of the workweek of 7 consecutive days for the purpose of overtime compensation and if such individual receives compensation for employment in excess of 8 hours in any workday and in excess of 80 hours in such 14-day period at a rate not less than 11/2 times the regular rate at which the individual is employed, computed in accordance with the requirements of the Fair Labor Standards Act of 1938, as amended.
+
+(3) Any contractor or subcontractor performing on a government contract the principal purpose of which is the furnishing of fire fighting or suppression and related services, shall not be deemed to be in violation of section 102 of the Contract Work Hour and Safety Standards Act for failing to pay the overtime compensation required by section 102 of the Act in accordance with the basic rate of pay as defined in paragraph (c)(1) of this section, to any pilot or copilot of a fixed-wing or rotary-wing aircraft employed on such contract if:
+
+(i) Pursuant to a written employment agreement between the contractor and the employee which is arrived at before performance of the work.
+
+(A) The employee receives gross wages of not less than $300 per week regardless of the total number of hours worked in any workweek, and
+
+(B) Within any workweek the total wages which an employee receives are not less than the wages to which the employee would have been entitled in that workweek if the employee were paid the minimum hourly wage required under the contract pursuant to the provisions of the Service Contract Act of 1965 and any applicable wage determination issued thereunder for all hours worked, plus an additional premium payment of one-half times such minimum hourly wage for all hours worked in excess of 40 hours in the workweek;
+
+(ii) The contractor maintains accurate records of the total daily and weekly hours of work performed by such employee on the government contract. In the event these conditions for the exemption are not met, the requirements of section 102 of the Contract Work Hours and Safety Standards Act shall be applicable to the contract from the date the contractor or subcontractor fails to satisfy the conditions until completion of the contract.
+
+(Reporting and recordkeeping requirements in paragraph (d)(2) have been approved by the Office of Management and Budget under control numbers 1215-0140 and 1215-0017. Reporting and recordkeeping requirements in paragraph (d)(3)(ii) have been approved by the Office of Management and Budget under control number 1215-0017)[48 FR 19541, Apr. 29, 1983, as amended at 51 FR 12265, Apr. 9, 1986; 61 FR 40716, Aug. 5, 1996]

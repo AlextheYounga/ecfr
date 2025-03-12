@@ -1,0 +1,3 @@
+##### § 17.103 Procedures for salary offset: types of collection. #####
+
+A debt will be collected in a lump sum or in installments. Collection will be by lump-sum collection unless the debt is for other than travel advances and training expenses, and the employee is financially unable to pay in one lump sum, or the amount of the debt exceeds 15 percent of disposable pay. In these cases, deduction will be by installments.

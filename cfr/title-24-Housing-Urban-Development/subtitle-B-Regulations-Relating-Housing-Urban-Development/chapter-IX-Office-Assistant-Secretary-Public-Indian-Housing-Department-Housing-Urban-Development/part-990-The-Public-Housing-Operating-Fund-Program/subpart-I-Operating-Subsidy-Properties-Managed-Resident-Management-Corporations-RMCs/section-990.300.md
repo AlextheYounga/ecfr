@@ -1,0 +1,9 @@
+##### § 990.300 Preparation of operating budget. #####
+
+(a) The RMC and the PHA must submit operating budgets and calculations of operating subsidy to HUD for approval in accordance with § 990.200. The budget will reflect all project expenditures and will identify the expenditures related to the responsibilities of the RMC and the expenditures that are related to the functions that the PHA will continue to perform.
+
+(b) For each project or part of a project that is operating in accordance with the ACC amendment relating to this subpart and in accordance with a contract vesting maintenance responsibilities in the RMC, the PHA will transfer into a sub-account of the operating reserve of the PHA an operating reserve for the RMC project. When all maintenance responsibilities for a resident-managed project are the responsibility of the RMC, the amount of the reserve made available to a project under this subpart will be the per-unit cost amount available to the PHA operating reserve, excluding all inventories, prepaids, and receivables at the end of the PHA fiscal year preceding implementation, multiplied by the number of units in the project operated. When some, but not all, maintenance responsibilities are vested in the RMC, the management contract between the PHA and RMC may provide for an appropriately reduced portion of the operating reserve to be transferred into the RMC's sub-account.
+
+(c) The RMC's use of the operating reserve is subject to all administrative procedures applicable to the conventionally owned public housing program. Any expenditure of funds from the reserve must be for eligible expenditures that are incorporated into an operating budget subject to approval by HUD.
+
+(d) Investment of funds held in the reserve will be in accordance with HUD regulations and guidance.

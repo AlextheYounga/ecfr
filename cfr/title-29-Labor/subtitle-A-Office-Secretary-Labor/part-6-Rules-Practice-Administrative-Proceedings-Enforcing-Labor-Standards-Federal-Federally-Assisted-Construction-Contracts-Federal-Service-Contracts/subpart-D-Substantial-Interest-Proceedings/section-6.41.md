@@ -1,0 +1,5 @@
+##### § 6.41 Referral to Chief Administrative Law Judge. #####
+
+(a) Upon timely receipt of a request for a hearing under § 4.12 of part 4 or § 5.12 of part 5 of this title, where the Administrator has determined that relevant facts are in dispute, or on his/her own motion, the Administrator shall refer the case to the Chief Administrative Law Judge by Order of Reference, to which shall be attached a copy of any findings of the Administrator and response thereto, for designation of an Administrative Law Judge to conduct such hearings as may be necessary to decide the disputed matters. A copy of the Order of Reference and attachments thereto shall be served upon the person or firm requesting the hearing, if any and upon the respondents.
+
+(b) The findings of the Administrator and response thereto shall be given the effect of a complaint and answer, respectively, for purposes of the administrative proceedings.

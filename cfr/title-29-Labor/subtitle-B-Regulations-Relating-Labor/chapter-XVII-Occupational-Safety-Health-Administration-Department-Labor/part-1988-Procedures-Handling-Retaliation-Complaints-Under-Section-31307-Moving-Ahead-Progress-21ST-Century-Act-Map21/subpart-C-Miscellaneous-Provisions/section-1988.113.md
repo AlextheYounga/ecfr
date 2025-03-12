@@ -1,0 +1,3 @@
+##### § 1988.113 Judicial enforcement. #####
+
+Whenever any person has failed to comply with a preliminary order of reinstatement, or a final order, including one approving a settlement agreement, issued under MAP-21, the Secretary may file a civil action seeking enforcement of the order in the United States district court for the district in which the violation was found to have occurred. Whenever any person has failed to comply with a preliminary order of reinstatement, or a final order, including one approving a settlement agreement, issued under MAP-21, a person on whose behalf the order was issued may file a civil action seeking enforcement of the order in the appropriate United States district court.

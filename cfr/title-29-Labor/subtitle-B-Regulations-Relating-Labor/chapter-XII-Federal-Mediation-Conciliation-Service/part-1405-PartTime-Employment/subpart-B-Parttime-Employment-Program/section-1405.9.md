@@ -1,0 +1,3 @@
+##### § 1405.9 Part-time employment practices. #####
+
+FMCS will review positions which become vacant for the feasibility of utilizing part-time career appointments. Part-time positions will be advertised in vacancy announcements. Agency employees may request and receive consideration to switch from full-time to part-time schedules. The request should be addressed through the supervisor to the Director of Personnel listing any and all reasons for the request. The Director of Personnel, with input from all affected management officials, will decide whether or not to grant the request. Any employee requesting a change from full-time to part-time employment will be advised of effects on pay and fringe benefits by the Director of Personnel.

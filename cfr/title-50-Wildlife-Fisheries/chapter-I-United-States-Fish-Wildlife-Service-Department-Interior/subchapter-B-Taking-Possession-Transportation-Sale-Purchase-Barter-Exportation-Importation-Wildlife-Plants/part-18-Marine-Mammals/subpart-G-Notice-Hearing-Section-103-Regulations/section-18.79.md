@@ -1,0 +1,3 @@
+##### § 18.79 Inspection and copying of documents. #####
+
+Any document in a file pertaining to any hearing authorized by this subpart or any document forming part of the record of such a hearing may be inspected and/or copied in the Office of the Director, U.S. Fish and Wildlife Service, Washington, DC 20240, unless the file is in the care and custody of the presiding officer, in which case he shall notify the parties as to where and when the record may be inspected.

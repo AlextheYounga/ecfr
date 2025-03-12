@@ -1,0 +1,23 @@
+##### § 4.94a Large yachts imported for sale. #####
+
+Link to an amendment published at 81 FR 93009, Dec. 20, 2016.
+
+(a) *General.* An otherwise dutiable vessel used primarily for recreation or pleasure and exceeding 79 feet in length that has been previously sold by a manufacturer or dealer to a retail consumer and that is imported with the intention to offer for sale at a boat show in the United States may qualify at the time of importation for a deferral of entry completion and deposit of duty. The following requirements and conditions will apply in connection with a deferral of entry completion and duty deposit under this section:
+
+(1) The importer of record must certify to Customs in writing that the vessel is being imported pursuant to 19 U.S.C. 1484b for sale at a boat show in the United States;
+
+(2) The certification referred to in paragraph (a)(1) of this section must be accompanied by the posting of a single entry bond containing the terms and conditions set forth in appendix C of part 113 of this chapter. The bond will have a duration of 6 months after the date of importation of the vessel, and no extensions of the bond period will be allowed;
+
+(3) The filing of the certification and the posting of the bond in accordance with this section will permit Customs to determine whether the vessel may be released;
+
+(4) All subsequent transactions with Customs involving the vessel in question, including any transaction referred to in paragraphs (b) through (d) of this section, must be carried out in the same port of entry in which the certification was filed and the bond was posted under this section; and
+
+(5) The vessel in question will not be eligible for issuance of a cruising license under § 4.94 and must comply with the laws respecting vessel entry and clearance when moving between ports of entry during the 6-month bond period prescribed under this section.
+
+(b) *Exportation within 6-month period.* If a vessel for which entry completion and duty payment are deferred under paragraph (a) of this section is not sold but is exported within the 6-month bond period specified in paragraph (a)(2) of this section, the importer of record must inform Customs in writing of that fact within 30 calendar days after the date of exportation. The bond posted with Customs will be returned to the importer of record and no entry completion and duty payment will be required. The exported vessel will be precluded from reentry under the terms of paragraph (a) of this section for a period of 3 months after the date of exportation.
+
+(c) *Sale within 6-month period.* If the sale of a vessel for which entry completion and duty payment are deferred under paragraph (a) of this section is completed within the 6-month bond period specified in paragraph (a)(2) of this section, the importer of record within 15 calendar days after completion of the sale must complete the entry by filing an Entry Summary (Customs Form 7501, or its electronic equivalent) and must deposit the appropriate duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the vessel at the time of importation). Upon entry completion and deposit of duty under this paragraph, the bond posted with Customs will be returned to the importer of record.
+
+(d) *Expiration of bond period.* If the 6-month bond period specified in paragraph (a)(2) of this section expires without either the completed sale or the exportation of a vessel for which entry completion and duty payment are deferred under paragraph (a) of this section, the importer of record within 15 calendar days after expiration of that 6-month period must complete the entry by filing an Entry Summary (Customs Form 7501, or its electronic equivalent) and must deposit the appropriate duty (calculated at the applicable rates provided for under subheading 8903.91.00 or 8903.92.00 of the Harmonized Tariff Schedule of the United States and based upon the value of the vessel at the time of importation). Upon entry completion and deposit of duty under this paragraph, the bond posted with Customs will be returned to the importer of record, and a new bond on Customs Form 301, containing the bond conditions set forth in § 113.62 of this chapter, may be required by the appropriate port director.
+
+[68 FR 13625, Mar. 20, 2003, as amended by CBP Dec. 15-14, 80 FR 61283, Oct. 13, 2015]

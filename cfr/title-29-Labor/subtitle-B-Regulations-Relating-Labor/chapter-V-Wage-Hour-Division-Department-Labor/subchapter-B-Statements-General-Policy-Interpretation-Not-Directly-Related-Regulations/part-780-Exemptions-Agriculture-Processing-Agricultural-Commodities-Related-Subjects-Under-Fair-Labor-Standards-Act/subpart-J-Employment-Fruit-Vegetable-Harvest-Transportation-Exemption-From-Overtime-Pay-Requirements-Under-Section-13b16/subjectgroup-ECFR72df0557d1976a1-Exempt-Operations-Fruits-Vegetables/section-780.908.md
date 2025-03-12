@@ -1,0 +1,3 @@
+##### § 780.908 Relation of employee's work to specified transportation. #####
+
+In order for the exemption to apply to an employee, he must be engaged “in the transportation and preparation for transportation” of the just-harvested fruits or vegetables from the farm to the specified places within the same State. Engagement in other activities is not exempt work. The employee must be actually engaged in the described operations. The exemption is not available for other employees of the employer, such as office, clerical, and maintenance workers.

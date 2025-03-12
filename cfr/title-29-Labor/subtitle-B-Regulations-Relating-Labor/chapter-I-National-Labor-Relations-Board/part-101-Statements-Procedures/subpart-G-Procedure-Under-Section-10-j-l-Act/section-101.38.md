@@ -1,0 +1,3 @@
+##### § 101.38 Change of circumstances. #####
+
+Whenever a temporary injunction has been obtained pursuant to section 10(j) and thereafter the administrative law judge hearing the complaint, upon which the determination to seek such injunction was predicated, recommends dismissal of such complaint, in whole or in part, the officer or regional attorney handling the case for the Board suggests to the district court which issued the temporary injunction the possible change in circumstances arising out of the findings and recommendations of the administrative law judge.

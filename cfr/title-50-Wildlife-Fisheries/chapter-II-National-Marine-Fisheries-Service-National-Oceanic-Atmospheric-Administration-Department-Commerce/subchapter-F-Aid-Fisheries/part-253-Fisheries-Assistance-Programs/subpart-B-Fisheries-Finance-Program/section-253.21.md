@@ -1,0 +1,3 @@
+##### § 253.21 Demand by guaranteed noteholder and payment. #####
+
+Every demand by the guaranteed noteholder must be delivered in writing to the Program and must include the noteholder's certified record of the date and amount of each payment made on the guaranteed note and the manner of its application. The only period during which a guaranteed noteholder can make demand for a payment default begins on the thirty-first day of the payment default and continues through the ninetieth day of a payment default. The noteholder must possess evidence of the demand's timely delivery.

@@ -1,0 +1,3 @@
+##### § 4.1 Purpose. #####
+
+The provisions of this subpart A are authorized under section 102 of the Department of Housing and Urban Development Reform Act of 1989 (Pub. L. 101-235, approved December 15, 1989) (42 U.S.C. 3537a) (hereinafter, Section 102). Both the provisions of Section 102 and this subpart A apply for the purposes of Section 102. Section 102 contains a number of provisions designed to ensure greater accountability and integrity in the way in which the Department makes assistance available under certain of its programs.

@@ -1,0 +1,3 @@
+##### § 404.2 Boundary. #####
+
+The Northwestern Hawaiian Islands Marine National Monument consists of all lands and interest in lands owned or controlled by the Government of the United States within the boundaries of the Monument, including emergent and submerged lands and waters of the Northwestern Hawaiian Islands. The map in appendix A to this part 404 depicts the outer boundary of the Monument, which consists of the geodetic lines connecting the coordinates specified in the Proclamation.

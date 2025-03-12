@@ -1,0 +1,9 @@
+##### § 744.5 Restrictions on certain maritime nuclear propulsion end-uses. #####
+
+(a) *General prohibition.* In addition to the license requirements for items specified on the CCL, you may not export, reexport, or transfer (in-country) certain technology subject to the EAR without a license if at the time of the export, reexport or transfer (in-country) you know the item is for use in connection with a foreign maritime nuclear propulsion project. This prohibition applies to any technology relating to maritime nuclear propulsion plants, their land prototypes, and special facilities for their construction, support, or maintenance, including any machinery, devices, components, or equipment specifically developed or designed for use in such plants or facilities.
+
+(b) *Exceptions.* The exceptions provided in part 740 of the EAR do not apply to the prohibitions described in paragraph (a) of this section.
+
+(c) *License review standards.* It is the policy of the United States Government not to participate in and not to authorize United States firms or individuals to participate in foreign naval nuclear propulsion plant projects, except under an Agreement for Cooperation on naval nuclear propulsion executed in accordance with § 123(d) of the Atomic Energy Act of 1954. However, it is the policy of the United States Government to encourage United States firms and individuals to participate in maritime (civil) nuclear propulsion plant projects in friendly foreign countries provided that United States naval nuclear propulsion information is not disclosed.
+
+[61 FR 12802, Mar. 25, 1996, as amended at 62 FR 25459, May 9, 1997; 73 FR 68326, Nov. 18, 2008]

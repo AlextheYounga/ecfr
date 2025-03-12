@@ -1,0 +1,3 @@
+##### § 1919.8 Suspension or revocation of accreditation. #####
+
+The Assistant Secretary may suspend or revoke the accreditation of any person for cause. Except in cases of willfulness or cases in which the public interest requires otherwise, before any accreditation is suspended or revoked, facts or conduct which may warrant such action shall be called to the attention of the person involved in writing and that person shall be afforded an opportunity to achieve or demonstrate appropriate compliance.

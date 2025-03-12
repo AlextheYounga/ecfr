@@ -1,0 +1,3 @@
+##### § 530.401 Applicability of procedures and rules. #####
+
+The procedures and rules contained herein prescribe the administrative process which will be applied with respect to a determination to deny (including refusal to renew) or revoke a certificate and to a determination to assess civil money penalties. Special rules and procedures for the emergency revocation of certificates are prescribed in § 530.412 of this subpart.

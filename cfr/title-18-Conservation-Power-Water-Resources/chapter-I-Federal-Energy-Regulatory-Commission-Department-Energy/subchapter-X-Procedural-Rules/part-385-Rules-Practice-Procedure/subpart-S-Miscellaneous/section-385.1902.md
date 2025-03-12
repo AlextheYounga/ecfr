@@ -1,0 +1,7 @@
+##### § 385.1902 Appeals from action of staff (Rule 1902). #####
+
+(a) Any staff action (other than a decision or ruling of presiding officer, as defined in Rule 102(e)(1), made in a proceeding set for hearing under subpart E of this part) taken pursuant to authority delegated to the staff by the Commission is a final agency action that is subject to a request for rehearing under Rule 713 (request for rehearing).
+
+(b) All appeals of staff action that were timely filed prior to December 3, 1990 and that had not been acted upon by the Commission on their substantive merits are deemed to be timely filed requests for rehearing of final agency action. All notices issued by the Commission prior to December 3, 1990 stating the Commission's intent to act on appeals of staff action such that they are not deemed denied by the expiration of a 30-day period after the filing of the appeal, are deemed to be orders granting rehearing of final agency action for the sole purpose of further consideration, unless the Commission issued an order on the substantive merits of the appeal prior to December 3, 1990. No later than January 2, 1991, persons who had timely filed appeals of staff action prior to December 3, 1990 which were pending before the Commission on that date may file additional pleadings to update or supplement those appeals.
+
+[Order 530, 55 FR 50682, Dec. 10, 1990, as amended by Order 606, 64 FR 44405, Aug. 16, 1999]

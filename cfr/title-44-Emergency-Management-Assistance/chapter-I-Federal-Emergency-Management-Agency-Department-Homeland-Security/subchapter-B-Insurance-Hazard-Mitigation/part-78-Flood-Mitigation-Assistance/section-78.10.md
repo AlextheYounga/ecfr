@@ -1,0 +1,3 @@
+##### § 78.10 Project grant approval process. #####
+
+The State POC will solicit applications from eligible applicants, review projects for eligibility, and select applications for funding. Those project applications will then be forwarded to FEMA for final approval. FEMA will provide funding on a project by project basis through a supplement to the annual Cooperative Agreement. The FEMA Regional Administrator will notify States regarding the program schedule at the beginning of each fiscal year.

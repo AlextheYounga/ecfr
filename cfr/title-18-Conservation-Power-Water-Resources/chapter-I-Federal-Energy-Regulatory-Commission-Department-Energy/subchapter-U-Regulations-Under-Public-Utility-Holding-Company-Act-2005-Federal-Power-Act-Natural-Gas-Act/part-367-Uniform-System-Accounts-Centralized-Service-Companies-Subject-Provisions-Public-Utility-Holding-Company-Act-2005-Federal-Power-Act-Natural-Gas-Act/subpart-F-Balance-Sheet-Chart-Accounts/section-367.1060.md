@@ -1,0 +1,3 @@
+##### § 367.1060 Account 106, Completed construction not classified. #####
+
+At the end of the year or such other date as a balance sheet may be required by the Commission, this account must include the total of the balances of construction projects for service company property which has been completed and placed in service but have not been classified for transfer to the detailed service company property accounts.

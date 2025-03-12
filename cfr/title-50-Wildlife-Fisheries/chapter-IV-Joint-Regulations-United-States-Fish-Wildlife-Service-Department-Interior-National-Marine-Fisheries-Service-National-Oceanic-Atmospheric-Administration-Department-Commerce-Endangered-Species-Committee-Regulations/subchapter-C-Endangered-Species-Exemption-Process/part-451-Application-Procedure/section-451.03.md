@@ -1,0 +1,7 @@
+##### § 451.03 Endangered Species Committee. #####
+
+(a) *Scope.* This section contains provisions governing the relationship between the Secretary and the Endangered Species Committee.
+
+(b) *Appointment of State member.* (1) Upon receipt of an application for exemption, the Secretary shall promptly notify the Governors of each affected State, if any, as determined by the Secretary, and request the Governors to recommend individuals to be appointed to the Endangered Species Committee for consideration of the application. Written recommendations of these Governors must be received by the Secretary within 10 days of receipt of notification. The Secretary will transmit the Governors' recommendations to the President and will request that the President appoint a State resident to the Endangered Species Committee from each affected State within 30 days after the application for exemption was submitted.
+
+(2) When no State is affected, the Secretary will submit to the President a list of individuals with expertise relevant to the application and will request the President to appoint, within 30 days after the application for exemption was submitted, an individual to the Endangered Species Committee.

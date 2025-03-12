@@ -1,0 +1,3 @@
+##### § 779.7 Significance of official interpretations. #####
+
+The regulations in this part contain the official interpretations of the Department of Labor with respect to the application under described circumstances of the provisions of law which they discuss. These interpretations indicate the construction of the law which the Secretary of Labor and the Administrator believe to be correct and which will guide them in the performance of their duties under the Act unless and until they are otherwise directed by authoritative decisions of the courts or conclude, upon reexamination of an interpretation, that it is incorrect.

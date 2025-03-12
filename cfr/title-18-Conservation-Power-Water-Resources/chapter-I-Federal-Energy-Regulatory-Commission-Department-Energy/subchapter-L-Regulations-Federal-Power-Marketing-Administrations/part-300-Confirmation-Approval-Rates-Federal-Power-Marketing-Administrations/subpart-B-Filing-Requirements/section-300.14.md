@@ -1,0 +1,5 @@
+##### § 300.14 Filings under section 7(k). #####
+
+Any application for Commission review and approval of a rate or rate schedules established by the Administrator of the Bonneville Power Administration pursuant to section 7(k) of the Pacific Northwest Electric Power Planning and Conservation Act must be filed in compliance with the provisions of § 35.13(a)(2) of part 35 of this chapter and with the provisions of this part, and must include the classifications, practices, rules and regulations affecting the rate and charges and all contracts which in any manner affect or relate to such rate, charges, classifications, services, rules, regulations, or practices. However, such classifications, practices, rules, regulations or contracts which may affect or relate to rates will not be subject to Commission approval unless they are determined to be rates or rate schedules.
+
+[Order 323-B, 52 FR 20709, June 3, 1987]

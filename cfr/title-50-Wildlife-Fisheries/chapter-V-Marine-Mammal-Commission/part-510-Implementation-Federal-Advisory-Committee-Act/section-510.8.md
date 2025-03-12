@@ -1,0 +1,3 @@
+##### § 510.8 Minutes. #####
+
+Detailed minutes shall be kept of each portion of each committee meeting. The minutes shall include: the time and place of the meeting; a list of the committee members and staff in attendance; a complete summary of matters discussed and conclusions reached; copies of all reports received, issued, or approved by the committee; a description of the extent to which the meeting was open to the public; and a description of public participation, including a list of members of the public who presented oral or written statements and an estimate of the number of members of the public who attended the open sessions. The Chairperson shall certify to the accuracy of the minutes.

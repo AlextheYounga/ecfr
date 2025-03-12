@@ -1,0 +1,3 @@
+##### § 367.4570 Account 457, Services rendered to associate companies. #####
+
+This account must include amounts billed to associate companies for services rendered at cost (*See* accounts 457.1 through 457.3 in §§ 367.4571 through 367.4573). Overbillings or underbillings arising from adjustments of estimated costs to actual costs must be cleared through this account and concurrent adjustments made to other accounts involved.

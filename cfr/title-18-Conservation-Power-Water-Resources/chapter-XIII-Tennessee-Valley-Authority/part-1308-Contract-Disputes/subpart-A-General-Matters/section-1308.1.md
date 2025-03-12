@@ -1,0 +1,3 @@
+##### § 1308.1 Purpose and organization. #####
+
+The regulations in this part implement the Contract Disputes Act of 1978 as it relates to TVA. This part consists of 5 subparts. Subpart A deals with matters applicable throughout the part, incuding definitions. Subpart B deals with Contracting Officers' decisions. Subpart C deals with general matters concerning the TVA Board of Contract Appeals. Subpart D deals with hearing and prehearing procedures, including discovery. Subpart E deals with subpoenas.

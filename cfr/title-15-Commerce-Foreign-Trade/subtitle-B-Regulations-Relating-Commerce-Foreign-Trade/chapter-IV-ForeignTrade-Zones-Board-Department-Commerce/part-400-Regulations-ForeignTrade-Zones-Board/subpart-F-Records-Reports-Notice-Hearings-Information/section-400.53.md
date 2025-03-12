@@ -1,0 +1,7 @@
+##### § 400.53 Official records; public access. #####
+
+(a) *Content.* The Executive Secretary shall maintain at the location stated in § 400.54(e) an official record of each proceeding within the Board's jurisdiction. The Executive Secretary shall include in the official record all timely evidence, factual information, and written argument, and other material developed by, presented to, or obtained by the Board in connection with the proceeding. While there is no requirement that a *verbatim* record shall be kept of public hearings, the proceedings of such hearings shall ordinarily be recorded and transcribed when significant opposition to a proposal is involved.
+
+(b) *Opening and closing of official record.* The official record opens on the date the Executive Secretary dockets an application or receives a request or notification that satisfies the applicable requirements of this part and closes on the date of the final determination in the proceeding or review, as applicable.
+
+(c) *Protection of the official record.* Unless otherwise ordered in a particular case by the Executive Secretary, the official record shall not be removed from the Department of Commerce. A certified copy of the record shall be made available to any court before which any aspect of a proceeding is under review, with appropriate safeguards to prevent disclosure of business proprietary or privileged information.

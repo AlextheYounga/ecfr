@@ -1,0 +1,11 @@
+##### § 785.12 Hearings. #####
+
+(a) *Scheduling.* Upon receipt of a valid request for a hearing, the ALJ shall, by agreement with all the parties or upon notice to all parties of at least 30 calendar days from the date of receipt of a request for a hearing, schedule a hearing. All hearings will be held in Washington, DC, unless the ALJ determines, for good cause shown, that another location would better serve the interest of justice.
+
+(b) *Hearing procedure.* Hearings will be conducted in a fair and impartial manner by the ALJ. All hearings will be closed, unless the ALJ for good cause shown determines otherwise. The rules of evidence prevailing in courts of law do not apply, and all evidentiary material deemed by the ALJ to be relevant and material to the proceeding and not unduly repetitious will be received and given appropriate weight, except that any evidence of settlement which would be excluded under Rule 408 of the Federal Rules of Evidence is not admissible. Witnesses will testify under oath or affirmation, and shall be subject to cross-examination.
+
+(c) *Testimony and record.* (1) A verbatim record of the hearing and of any other oral proceedings will be taken by reporter or by electronic recording, and filed with the ALJ. If any party wishes to obtain a written copy of the transcript, that party shall pay the costs of transcription. The parties may share the costs if both want a transcript.
+
+(2) Upon such terms as the ALJ deems just, the ALJ may direct that the testimony of any person be taken by deposition and may admit an affidavit or report as evidence, provided that any affidavits or reports have been filed and served on the parties sufficiently in advance of the hearing to permit a party to file and serve an objection thereto on the grounds that it is necessary that the affiant or declarant testify at the hearing and be subject to cross-examination.
+
+(d) *Failure to appear.* If a party fails to appear in person or by counsel at a scheduled hearing, the hearing may nevertheless proceed. The party's failure to appear will not affect the validity of the hearing or any proceeding or action taken thereafter.

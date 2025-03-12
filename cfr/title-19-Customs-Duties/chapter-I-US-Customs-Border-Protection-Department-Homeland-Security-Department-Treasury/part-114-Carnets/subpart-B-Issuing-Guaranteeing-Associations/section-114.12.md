@@ -1,0 +1,9 @@
+##### § 114.12 Termination of approval. #####
+
+(a) *For cause.* The Commissioner may suspend or revoke the approval previously given to any issuing association or guaranteeing association for failure or refusal to comply with the duties, obligations, or requirements set forth in its written undertaking on which the approval was based; in the applicable Customs Convention; or in the customs regulations; or upon termination of the affiliation with an appropriate international organization required by § 114.11(a). Before such suspension or revocation, the Commissioner shall give the association a reasonable opportunity to refute the alleged failure of compliance.
+
+(b) *Withdrawal.* To be relieved of future obligations, an approved guaranteeing association must notify the Commissioner, in writing, not less than 6 months in advance of a specified termination date that it will not guarantee the payment of obligations under carnets accepted by district directors of Customs after the specified date. The receipt of such notice by the Commissioner will in no way affect the responsibility of the guaranteeing association for payment of claims on carnets accepted by district directors before the designated termination date.
+
+(c) *Notice.* Notice of the suspension or revocation of the approval of an issuing association or a guaranteeing association, or of the withdrawal of an approved guaranteeing association, with respect to a Customs Convention to which the United States has acceded will be published in the Federal Register by the Commissioner.
+
+[T.D. 70-134, 35 FR 9261, June 13, 1970, as amended by T.D. 71-70, 36 FR 4490, Mar. 6, 1971]

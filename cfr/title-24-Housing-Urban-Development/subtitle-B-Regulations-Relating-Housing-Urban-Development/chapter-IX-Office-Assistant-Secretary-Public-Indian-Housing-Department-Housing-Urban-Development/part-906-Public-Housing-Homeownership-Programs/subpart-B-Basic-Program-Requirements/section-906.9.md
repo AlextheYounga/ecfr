@@ -1,0 +1,5 @@
+##### § 906.9 Title restrictions and encumbrances on properties sold under a homeownership program. #####
+
+(a) If the property is subject to indebtedness under the Annual Contributions Contract (ACC), HUD will continue to make any debt service contributions for which it is obligated under the ACC, and the property sold will not be subject to the encumbrance of that indebtedness.
+
+(b) Upon sale of a public housing unit to a public housing tenant or eligible family, or to a PRE operating the units as non-public housing, in accordance with the HUD-approved homeownership program, HUD will execute a release of the title restrictions prescribed by the ACC. Because the property will no longer be subject to the ACC after sale, it will cease to be eligible for public housing Operating Fund or Capital Fund payments.

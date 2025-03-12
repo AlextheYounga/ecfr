@@ -1,0 +1,3 @@
+##### § 922.106 Management and enforcement. #####
+
+The National Oceanic and Atmospheric Administration (NOAA) has primary responsibility for the management of the Sanctuary pursuant to the Act. The American Samoa Department of Commerce (ASDOC) will assist NOAA in the administration of the Sanctuary, and act as the lead territorial agency, in conformance with the terms of designation, these regulations, and the terms and provisions of any grant or cooperative agreement.

@@ -1,0 +1,21 @@
+##### § 10.14 Appeals. #####
+
+(a) Any person directly affected by a procedural action taken by NIST or the Standard Review Committee under §§ 10.5, 10.6 or 10.7 regarding the development of a standard, by NIST or the Standing Committee under § 10.10 regarding the review of a published standard, or under § 10.11 regarding the revision of a standard, or under § 10.13 regarding the withdrawal of a standard, may appeal such action.
+
+(b) Such appeal shall be filed in written form with the body taking the action complained of (NIST, the Standard Review Committee, or the Standing Committee) within 30 days after the date of announcement of the action.
+
+(c) If appeal is filed with the Standard Review Committee or the Standing Committee, the Committee shall attempt to resolve the appeal informally. If the appeal is filed with NIST, NIST with the consultation and advice of the Standard Review Committee or the Standing Committee, whichever is appropriate, shall attempt to resolve the appeal informally.
+
+(d) If the appeal is to the Standard Review Committee or the Standing Committee and the Committee is unable to resolve such an appeal informally, the Committee shall hold a hearing regarding the appeal. Announcement of the hearing shall be made to members of the Standard Review Committee or the Standing Committee and all the acceptors of record, when appropriate, as well as other known interests. Notice of the hearing shall be published in the Federal Register. The hearing will be an informal, nonadversary proceeding at which there will be no formal pleadings or adverse parties. Written statements will be furnished by witnesses prior to the hearing. A record of the hearing will be made. Copies of the written statements and the record of the hearing will be available at cost.
+
+(e) Those members of the Committee hearing the appeal will develop a recommendation to the Committee concerning the resolution of the appeal. NIST will review the recommendation and if found acceptable will subject it to a letter ballot of the Committee. Approval by three-fourths of the members of the Committee eligible to vote will constitute acceptance by the Committee and by NIST. Notice of the Committee decision will be published in the Federal Register.
+
+(f) If the appeal is to NIST and the attempt to resolve the appeal informally under paragraph (c) of this section is not successful, the Deputy Director of NIST will schedule a hearing with an appeals panel at an appropriate location. Announcement of the hearing shall be made to members of the Standard Review Committee or Standing Committee and all acceptors of record, when appropriate, as well as to other known interests. Notice of the hearing shall be published in the Federal Register.
+
+(g) The Deputy Director of NIST will name two other persons, who have not been directly involved in the matter in dispute and who will not be directly or materially affected by any decision made or to be made in the dispute, to sit on the panel with the Deputy Director, who will act as presiding officer. The presiding officer will have the right to exercise such authority as necessary to ensure the equitable and efficient conduct of the hearing and to maintain an orderly proceeding.
+
+(h) The hearing will be an informal, nonadversary proceeding at which there will be no formal pleadings or adverse parties. The hearing will be open to the public. Witnesses shall submit a written presentation for the record seven days prior to the hearing. A record will be made of the hearing. Copies of the written statements and the record of the hearing will be available at cost.
+
+(i) The appeals panel will make a recommendation to the Director of NIST. The Director's decision on the appeal will be announced within 60 days following the hearing and will be communicated to the complainant and other interested parties by letter. Notice of the Director's decision shall be published in the Federal Register.
+
+[51 FR 22497, June 20, 1986, as amended at 55 FR 38315, Sept. 18, 1990]

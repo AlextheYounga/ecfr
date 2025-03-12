@@ -1,0 +1,3 @@
+##### § 34.21 Equitable services. #####
+
+Recipients shall make efforts to provide equitable services among substantial segments of the population eligible for participation in JTPA. Such efforts shall include but not be limited to outreach efforts to broaden the composition of the pool of those considered for participation, to include members of both sexes, the various race/ethnicity and age groups, and individuals with disabilities.

@@ -1,0 +1,3 @@
+##### § 788.17 Employees employed in both exempt and nonexempt work. #####
+
+The exemption for an employee employed in exempt work will be defeated in any workweek in which he performs a substantial amount of nonexempt work. For enforcement purposes nonexempt work will be considered substantial in amount if more than 20 percent of the time worked by the employee in a given workweek is devoted to such work. Where two types of work cannot be segregated, however, so as to permit separate measurement of the time spent in each, the employee will not be exempt.

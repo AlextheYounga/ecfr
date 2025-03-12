@@ -1,0 +1,3 @@
+##### § 1620.19 Equality of wages—application of the principle. #####
+
+Equal wages must be paid in the same medium of exchange. In addition, an employer would be prohibited from paying higher hourly rates to all employees of one sex and then attempting to equalize the differential by periodically paying employees of the opposite sex a bonus. Comparison can be made for equal pay purposes between employees employed in equal jobs in the same establishment although they work in different departments.

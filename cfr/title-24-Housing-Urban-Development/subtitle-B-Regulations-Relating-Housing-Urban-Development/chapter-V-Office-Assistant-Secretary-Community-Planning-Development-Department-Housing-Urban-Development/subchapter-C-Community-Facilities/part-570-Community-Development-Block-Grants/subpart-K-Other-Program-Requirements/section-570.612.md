@@ -1,0 +1,5 @@
+##### § 570.612 Executive Order 12372. #####
+
+(a) *General.* Executive Order 12372, Intergovernmental Review of Federal Programs, and the Department's implementing regulations at 24 CFR part 52, allow each State to establish its own process for review and comment on proposed Federal financial assistance programs.
+
+(b) *Applicability.* Executive Order 12372 applies to the CDBG Entitlement program and the UDAG program. The Executive Order applies to all activities proposed to be assisted under UDAG, but it applies to the Entitlement program only where a grantee proposes to use funds for the planning or construction (reconstruction or installation) of water or sewer facilities. Such facilities include storm sewers as well as all sanitary sewers, but do not include water and sewer lines connecting a structure to the lines in the public right-of-way or easement. It is the responsibility of the grantee to initiate the Executive Order review process if it proposes to use its CDBG or UDAG funds for activities subject to review.

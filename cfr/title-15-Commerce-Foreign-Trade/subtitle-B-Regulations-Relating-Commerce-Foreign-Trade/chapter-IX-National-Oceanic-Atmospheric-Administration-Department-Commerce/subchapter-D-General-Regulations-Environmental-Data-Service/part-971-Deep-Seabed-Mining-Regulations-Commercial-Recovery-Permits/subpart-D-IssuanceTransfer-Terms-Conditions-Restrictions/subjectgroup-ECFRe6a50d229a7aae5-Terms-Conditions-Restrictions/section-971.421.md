@@ -1,0 +1,3 @@
+##### § 971.421 Freedom of the high seas requirements. #####
+
+Each permit issued under this part must include appropriate restrictions to ensure that commercial recovery activities do not unreasonably interfere with the interests of other nations in their exercise of the freedoms of the high seas, as recognized under general principles of international law. The Administrator will consider the factors in § 971.403 in establishing these restrictions.

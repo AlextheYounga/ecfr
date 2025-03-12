@@ -1,0 +1,5 @@
+##### § 181.49 Retention of records. #####
+
+All records required to be kept by the exporter, importer, manufacturer or producer under this subpart with respect to manufacturing drawback claims, and all records kept by others which complement the records of the importer, exporter, manufacturer or producer (see § 191.15 (see also §§ 191.26(f), 191.38, 191.175(c)) of this chapter) shall be retained for at least three years after payment of such claims. However, any person who issues a drawback certificate that enables another person to make or perfect a drawback claim shall keep records in support of that certificate commencing on the date that the certificate is issued and shall retain those records for three years following the date of payment of the claim.
+
+[T.D. 95-68, 60 FR 46364, Sept. 6, 1995, as amended by T.D. 98-16, 63 FR 11006, Mar. 5, 1998]

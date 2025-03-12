@@ -1,0 +1,3 @@
+##### § 220.252 Forbearance of foreclosure and assignment of mortgage. #####
+
+All of the provisions of §§ 203.340 through 203.342, 203.350, 203.352 and 203.353 of this chapter shall apply to mortgages insured under this subpart, except that the provisions relating to forbearance of foreclosure, recasting of the mortgage and assignment of a defaulted mortgage, shall be applicable only to a mortgage covering a property having not more than four dwelling units.

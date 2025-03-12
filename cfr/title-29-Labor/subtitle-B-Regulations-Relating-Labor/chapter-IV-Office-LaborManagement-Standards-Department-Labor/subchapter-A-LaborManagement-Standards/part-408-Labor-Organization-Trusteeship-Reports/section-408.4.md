@@ -1,0 +1,5 @@
+##### § 408.4 Semiannual trusteeship report. #####
+
+Every labor organization required to file an initial report under § 408.2 shall thereafter during the continuance of trusteeship over the subordinate labor organization, file with the said Office of Labor-Management Standards semiannually, and not later than six months after the due date of the initial trusteeship report, a semiannual trusteeship report on Form LM-15 containing the information required by that form except for the Statement of Assets and Liabilities. If in answer to Item 9 of Form LM-15, there was (a) a convention or other policy determining body to which the subordinate organization sent delegates or would have sent delegates if not in trusteeship or (b) an election of officers of the labor organization assuming trusteeship, Form LM-15A should be used to report the required information with respect thereto.
+
+[42 FR 59070, Nov. 15, 1977]

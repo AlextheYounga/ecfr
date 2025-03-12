@@ -1,0 +1,7 @@
+##### § 26.50 Initial decision. #####
+
+(a) The ALJ shall issue an initial decision based only on the record, which shall contain findings of fact, conclusions of law, and the relief granted. The ALJ's initial decision shall not become effective unless it becomes or is incorporated into final agency action in accordance with § 26.50(c) or § 26.52(l).
+
+(b) The ALJ shall serve the initial decision on all parties within 60 days after either the close of the record or the expiration of time permitted for submission of posthearing briefs, whichever is later. The ALJ may extend the 60-day period for serving the initial decision in writing for good cause. The initial decision shall inform the parties that, if provided for and consistent with Departmental regulations, any party may request, in writing, Secretarial review of the determination within 30 days after the ALJ issues the initial decision, in accordance with § 26.52 of this part. The determination shall include the mailing address, facsimile number, and electronic submission information to which the request for Secretarial review should be sent. A request for Secretarial review may be made by mail, delivery, facsimile, or electronic submission.
+
+(c) If no appeal is timely filed with the Secretary or designee, the initial decision shall become the final agency action.

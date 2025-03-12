@@ -1,0 +1,3 @@
+##### § 424.10 General. #####
+
+The Secretary may add a species to the lists or designate critical habitat, delete a species or critical habitat, change the listed status of a species, revise the boundary of an area designated as critical habitat, or adopt or modify special rules (see 50 CFR 17.40-17.48 and parts 222 and 227) applied to a threatened species only in accordance with the procedures of this part.

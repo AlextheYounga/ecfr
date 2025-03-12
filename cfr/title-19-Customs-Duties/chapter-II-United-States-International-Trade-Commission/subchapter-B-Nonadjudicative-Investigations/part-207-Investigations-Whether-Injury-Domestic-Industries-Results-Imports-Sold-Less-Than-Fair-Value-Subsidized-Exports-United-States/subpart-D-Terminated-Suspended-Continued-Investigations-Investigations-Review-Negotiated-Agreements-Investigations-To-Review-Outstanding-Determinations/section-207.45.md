@@ -1,0 +1,11 @@
+##### § 207.45 Investigation to review outstanding determination. #####
+
+(a) *Request for review.* Any person may file with the Commission a request for the institution of a review investigation under section 751(b) of the Act. The person making the request shall also promptly serve copies of the request on the parties to the original investigation upon which the review is to be based. All requests shall set forth a description of changed circumstances sufficient to warrant the institution of a review investigation by the Commission.
+
+(b) *Notice of receipt of a request.* Upon the receipt of a properly filed and sufficient request for a review investigation, the Secretary shall publish a notice of having received such a request in the Federal Register inviting public comment on the question of whether the Commission should institute a review investigation. Persons shall have at least thirty (30) days from the date of publication in the Federal Register within which to submit comments to the Commission.
+
+(c) *Institution of an investigation.* Within forty-five (45) days after the close of the period for public comments following publication of the receipt of a request, the Commission shall determine whether the request shows changed circumstances sufficient to warrant a review and, if so, shall institute a review investigation. The Commission may also institute a review investigation on its own initiative. The review investigation shall be instituted by notice published in the Federal Register and shall be completed within one hundred eighty (180) days of the date of such publication. If the Commission determines that a request does not show changed circumstances sufficient to warrant a review, the request shall be dismissed and a notice of the dismissal published in the Federal Register stating the reasons therefor.
+
+(d) *Conduct of review investigation.* The procedures set forth in subpart C of part 207 shall apply to all investigations instituted under this section.
+
+[56 FR 11929, Mar. 21, 1991, as amended at 63 FR 30607, June 5, 1998; 79 FR 35925, June 25, 2014]

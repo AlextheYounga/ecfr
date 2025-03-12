@@ -1,0 +1,5 @@
+##### § 4206.7 Amount of credit in plans using the direct attribution method. #####
+
+In a plan that uses the direct attribution allocation method described in section 4211(c)(4) of ERISA, the credit shall equal the amount of the liability assessed for the prior partial withdrawal, reduced as if that amount was being fully amortized in level annual installments beginning with the plan year in which the prior partial withdrawal occurred, over the greater of 10 years or the amortization period for the resulting base when the combined charge base and the combined credit base are offset under section 431(b)(5) of the Code. When an employer's prior partial withdrawal liability has been reduced or waived, this credit shall be adjusted in accordance with § 4206.8.
+
+[61 FR 34086, July 1, 1996, as amended at 80 FR 55009, Sept. 11, 2015]

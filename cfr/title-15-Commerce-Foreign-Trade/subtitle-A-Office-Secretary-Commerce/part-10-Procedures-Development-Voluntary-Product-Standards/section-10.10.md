@@ -1,0 +1,7 @@
+##### § 10.10 Review of published standards. #####
+
+(a) Each standard published under these or previous procedures shall be reviewed regularly to determine the feasibility of transferring sponsorship to a private standards-writing organization. While the Department encourages the development of standards to replace Voluntary Product Standards by private standards-writing organizations, withdrawal of a Voluntary Product Standard, which meets the requirements of § 10.0(b), shall not be considered until a replacement standard is published.
+
+(b) Each standard published under these or previous procedures shall be reviewed by the Department, with such assistance of the Standing Committee or others as may be deemed appropriate by the Department, within 5 years after initial issuance or last revision and at least every 5 years thereafter. The purpose of this review shall be to determine whether the standard has become obsolete, technically inadequate, no longer acceptable to or used by the industry, or inconsistent with law or established public policy.
+
+(c) If any of the above conditions is found to exist, the Department shall initiate action to amend, revise, or withdraw the standard in accordance with § 10.11 or § 10.13. If none is found to exist, the standard shall be kept in effect provided adequate funding is maintained.

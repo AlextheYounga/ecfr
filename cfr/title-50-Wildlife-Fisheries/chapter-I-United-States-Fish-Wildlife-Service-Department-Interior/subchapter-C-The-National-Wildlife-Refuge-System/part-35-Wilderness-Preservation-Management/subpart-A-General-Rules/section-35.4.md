@@ -1,0 +1,3 @@
+##### § 35.4 Appropriations and personnel. #####
+
+No appropriation shall be made available for the payment of expenses or salaries for the administration of a wilderness unit as a separate entity nor shall any appropriation be made available for additional personnel solely for the purpose of managing or administering areas because they are included within the National Wilderness Preservation System.

@@ -1,0 +1,3 @@
+##### § 367.2550 Account 255, Accumulated deferred investment tax credits. #####
+
+This account must be credited with all investment tax credits deferred by companies that have elected to follow deferral accounting, partial or full, rather than recognizing in the income statement the total benefits of the tax credit as realized. After this election, a company may not transfer amounts from this account, except as authorized in this account and in accounts 411.4, Investment tax credit adjustments, service company property (§ 367.4114) or 411.5, Investment tax credit adjustments, other income and deductions (§ 367.4115), or with approval of the Commission.

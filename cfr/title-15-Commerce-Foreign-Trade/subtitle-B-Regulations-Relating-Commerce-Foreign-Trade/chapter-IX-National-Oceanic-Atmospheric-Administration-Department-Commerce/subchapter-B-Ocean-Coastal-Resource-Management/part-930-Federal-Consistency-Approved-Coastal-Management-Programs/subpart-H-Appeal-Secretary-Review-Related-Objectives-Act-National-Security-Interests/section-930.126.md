@@ -1,0 +1,3 @@
+##### § 930.126 Consistency appeal processing fees. #####
+
+The Secretary shall collect as a processing fee such other fees from the appellant as are necessary to recover the full costs of administering and processing appeals to the Secretary under section 307(c) of the Act. All processing fees shall be assessed and collected no later than 60 days after publication of the Federal Register Notice closing the decision record. Failure to submit processing fees shall be grounds for extending the time for issuance of a decision pursuant to section 319(a)(2) of the Act (16 U.S.C. 1465(a)(2)) and § 930.130 of this subpart.

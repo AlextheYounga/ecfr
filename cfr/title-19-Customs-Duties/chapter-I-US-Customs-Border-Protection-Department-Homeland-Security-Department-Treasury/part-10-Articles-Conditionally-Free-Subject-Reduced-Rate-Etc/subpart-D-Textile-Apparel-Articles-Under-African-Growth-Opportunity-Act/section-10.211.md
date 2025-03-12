@@ -1,0 +1,3 @@
+##### § 10.211 Applicability. #####
+
+Title I of Public Law 106-200 (114 Stat. 251), entitled the African Growth and Opportunity Act (AGOA), authorizes the President to extend certain trade benefits to designated countries in sub-Saharan Africa. Section 112 of the AGOA, codified at 19 U.S.C. 3721, provides for the preferential treatment of certain textile and apparel articles from beneficiary countries. The provisions of §§ 10.211-10.217 of this part set forth the legal requirements and procedures that apply for purposes of extending preferential treatment pursuant to section 112.

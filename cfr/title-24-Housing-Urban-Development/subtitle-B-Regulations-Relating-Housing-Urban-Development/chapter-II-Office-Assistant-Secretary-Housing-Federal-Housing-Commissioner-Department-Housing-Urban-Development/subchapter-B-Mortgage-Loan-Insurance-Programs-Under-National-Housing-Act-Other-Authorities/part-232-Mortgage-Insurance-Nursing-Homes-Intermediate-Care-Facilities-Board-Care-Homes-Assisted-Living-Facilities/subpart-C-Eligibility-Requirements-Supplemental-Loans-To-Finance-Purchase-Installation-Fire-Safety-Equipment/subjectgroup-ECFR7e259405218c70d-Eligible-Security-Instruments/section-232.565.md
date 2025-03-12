@@ -1,0 +1,5 @@
+##### § 232.565 Maximum loan amount. #####
+
+The principal amount of the loan shall not exceed the lower of the Commissioner's estimate of the cost of the fire safety equipment, including the cost of installation and eligible fees, or the amount supported by ninety percent (90%) of the residual income, which is ninety percent (90%) of the amount of net income remaining after payment of all existing debt service requirements, as determined by the Commissioner. The cost of installation may include the cost of such other work to be performed on the project necessary to meet the requirements of the Secretary of Health and Human Services and the Commissioner to enhance the fire safety of the project, and such costs incidental to installation as may be approved by the Commissioner.
+
+[40 FR 4908, Feb. 3, 1975, as amended at 80 FR 48028, Aug. 11, 2015]

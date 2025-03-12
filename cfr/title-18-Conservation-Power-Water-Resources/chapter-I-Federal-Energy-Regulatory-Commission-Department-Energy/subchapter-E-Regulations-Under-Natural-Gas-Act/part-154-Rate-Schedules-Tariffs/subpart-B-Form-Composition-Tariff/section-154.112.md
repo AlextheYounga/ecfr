@@ -1,0 +1,7 @@
+##### § 154.112 Exception to form and composition of tariff. #####
+
+(a) The Commission may permit a special rate schedule to be filed in the form of an agreement in the case of a special operating arrangement, previously certificated pursuant to part 157 of this chapter, such as for the exchange of natural gas. The special rate schedule must contain a title page showing the parties to the agreement, the date of the agreement, a brief description of services to be rendered, and the designation: “Rate Schedule X-[number].” Special rate schedules may not contain any supplements. Modifications must be made by inserting revised sheets, sections or the entire document as appropriate. Special rate schedules must be included in a separate volume of the tariff. Each such separate volume must contain a table of contents which is incorporated as a sheet or section in the open access transmission tariff.
+
+(b) Contracts for service pursuant to part 284 of this chapter that deviate in any material aspect from the form of service agreement must be filed. Such non-conforming agreements must be referenced in the open access transmission tariff.
+
+[Order 582, 60 FR 52996, Oct. 11, 1995, as amended by Order 714, 73 FR 57534, Oct. 3, 2008; 81 FR 51100, Aug. 3, 2016]

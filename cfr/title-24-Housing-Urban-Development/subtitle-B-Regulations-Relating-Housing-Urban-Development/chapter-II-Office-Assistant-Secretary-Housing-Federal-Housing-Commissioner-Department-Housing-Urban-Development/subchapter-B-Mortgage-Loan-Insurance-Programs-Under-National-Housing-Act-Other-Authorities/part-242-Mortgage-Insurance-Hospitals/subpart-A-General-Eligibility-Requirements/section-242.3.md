@@ -1,0 +1,3 @@
+##### § 242.3 Encouragement of certain programs. #####
+
+The activities and functions provided for in this part shall be carried out so as to encourage provision of comprehensive health care, including outpatient and preventive care as well as hospitalization, to a defined population, and in the case of public and certain not-for-profit hospitals, to encourage programs that are undertaken to provide essential health care services to all residents of a community regardless of ability to pay.

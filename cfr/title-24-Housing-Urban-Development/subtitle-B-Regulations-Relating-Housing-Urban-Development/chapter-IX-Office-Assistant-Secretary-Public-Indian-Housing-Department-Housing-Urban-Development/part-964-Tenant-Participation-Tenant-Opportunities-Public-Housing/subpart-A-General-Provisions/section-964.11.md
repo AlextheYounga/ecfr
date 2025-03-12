@@ -1,0 +1,3 @@
+##### § 964.11 HUD policy on tenant participation. #####
+
+HUD promotes resident participation and the active involvement of residents in all aspects of a HA's overall mission and operation. Residents have a right to organize and elect a resident council to represent their interests. As long as proper procedures are followed, the HA shall recognize the duly elected resident council to participate fully through a working relationship with the HA. HUD encourages HAs and residents to work together to determine the most appropriate ways to foster constructive relationships, particularly through duly-elected resident councils.

@@ -1,0 +1,3 @@
+##### § 4211.37 Allocating unfunded vested benefits for withdrawals before the end of the initial plan year. #####
+
+If an employer withdraws after the effective date of a merger and before the end of the initial plan year, the amount of unfunded vested benefits allocable to the employer shall be determined as if each plan had remained a separate plan. In making this determination, the plan sponsor shall use the allocation method of the withdrawing employer's prior plan and shall compute the employer's allocable share of the plan's unfunded vested benefits as if the day before the effective date of the merger were the end of the last plan year prior to the withdrawal.

@@ -1,0 +1,15 @@
+##### § 1209.07 Notice of meetings; public announcement and publication. #####
+
+(a) A public announcement setting forth the time, place and subject matter of meetings or portions thereof closed to public observation pursuant to the provisions of § 1209.05(a) of this part, shall be made at the earaliest practicable time.
+
+(b) Except for meetings closed to public observation pursuant to the provisions of § 1209.05(a) of this part, the agency shall make public announcement of each meeting at least 7 days before the scheduled date of the meeting. The announcement shall specify the time, place and subject matter of the meeting, whether it is to be open to public observation or closed, and the name, address and phone number of an agency official designated to respond to requests for information about the meeting. The 7 day period for advance notice may be shortened only upon a determination by a majority of the members of the Board who will participate in the meeting that agency business requires that such meeting be called at an earlier date, in which event the public announcement shall be made at the earliest practicable time. A record of the vote to schedule a meeting at an earlier date shall be kept and made available to the public.
+
+(c) Within one day after a vote to close a meeting, or any portion thereof, pursuant to the provisions of § 1209.05(b) of this part, the agency shall make publicly available a full written explanation of its action closing the meeting, or portion thereof, together with a list of all persons expected to attend the meeting and their affiliation.
+
+(d) If after a public announcement required by paragraph (b) of this section has been made, the time and place of the meeting are changed, a public announcement of such changes shall be made at the earliest practicable time. The subject matter of the meeting may be changed after public annmouncment thereof only if a majority of the members of the Board who will participate in the meeting determine that agency business so requires and that no earlier announcement of the change was possible. When such a change in subject matter is approved a public announcement of the change shall be made at the earliest practicable time. A record of the vote to change the subject matter of the meeting shall be kept and made available to the public.
+
+(e) All announcements or changes thereof issued pursuant to the provisions of paragraphs (b) and (d) of this section, or pursuant to the provisions of § 1209.06(d), shall be submitted for publication in the Federal Register immediately following their release to the public.
+
+(f) Announcement of meeting made pursuant to the provisions of this section shall be posted on a bulletin board maintained for such purpose at the Board's offices, 1425 K Street, NW., Washington, DC. Interested individuals or organizations may request the Chief of Staff, National Mediation Board, Washington, DC 20572 to place them on a mailing list for receipt of such announcements.
+
+[42 FR 60739, Nov. 29, 1977, as amended at 64 FR 40287, July 26, 1999]

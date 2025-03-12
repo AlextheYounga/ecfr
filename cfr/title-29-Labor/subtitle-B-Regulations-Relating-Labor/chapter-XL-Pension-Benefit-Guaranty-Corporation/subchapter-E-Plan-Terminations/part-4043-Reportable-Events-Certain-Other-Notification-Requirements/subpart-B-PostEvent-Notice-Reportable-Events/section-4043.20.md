@@ -1,0 +1,3 @@
+##### § 4043.20 Post-event filing obligation. #####
+
+The plan administrator and each contributing sponsor of a plan for which a reportable event under this subpart has occurred are required to notify PBGC within 30 days after that person knows or has reason to know that the reportable event has occurred, unless a waiver or extension applies. If there is a change in plan administrator or contributing sponsor, the responsibility for any failure to file or defective filing lies with the person who is the plan administrator or contributing sponsor of the plan on the 30th day after the reportable event occurs.

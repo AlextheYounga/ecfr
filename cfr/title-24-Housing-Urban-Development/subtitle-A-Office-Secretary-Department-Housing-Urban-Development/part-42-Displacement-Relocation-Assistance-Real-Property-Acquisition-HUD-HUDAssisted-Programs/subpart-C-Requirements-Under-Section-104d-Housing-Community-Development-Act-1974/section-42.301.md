@@ -1,0 +1,3 @@
+##### § 42.301 Applicability. #####
+
+This subpart applies only to CDBG grants under 24 CFR part 570, subparts D, F, and I (Entitlement grants, HUD-Administered Small Cities, and State programs); grants under 24 CFR part 570, subpart G (Urban Development Action Grants), and Loan Guarantees under 24 CFR part 570, subpart M; and assistance to State and local governments under 24 CFR part 92 (HOME program).

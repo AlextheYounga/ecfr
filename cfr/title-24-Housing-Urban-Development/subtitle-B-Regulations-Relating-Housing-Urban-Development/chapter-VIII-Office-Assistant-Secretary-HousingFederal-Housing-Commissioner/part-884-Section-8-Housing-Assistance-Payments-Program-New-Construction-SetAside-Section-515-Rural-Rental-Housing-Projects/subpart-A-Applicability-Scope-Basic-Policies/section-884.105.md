@@ -1,0 +1,11 @@
+##### § 884.105 Maximum total ACC commitment and project account (private-owner/PHA projects). #####
+
+(a) *Maximum total ACC commitment.* The maximum total annual contribution that may be contracted for in the ACC for a project shall be the total of the Contract Rents plus any utility allowances for all the Contract units in the project, plus a fee for the regular costs of PHA administration. HUD-approved preliminary costs for administration (including administrative costs in connection with PHA activities related to relocation of occupants) shall be payable out of this total.
+
+(b) *Project account.* In order to assure that housing assistance payments will be increased on a timely basis to cover increases in Contract Rents or decreases in Family Incomes:
+
+(1) A Project Account shall be established and maintained, in an amount as determined by the Secretary consistent with his responsibilities under Section 8(c)(6) of the 1937 Act, out of amounts by which the maximum ACC commitment per year exceeds amounts paid under the ACC for any year. This account shall be established and maintained by HUD as a specifically identified and segregated account, and payment shall be made therefrom only for the purposes of (i) housing assistance payments and (ii) other costs specifically authorized or approved by the Secretary.
+
+(2) Whenever a HUD-approved estimate of required Annual Contribution exceeds the maximum ACC commitment then in effect, and would cause the amount in the Project Account to be less than an amount equal to 40 percent of such maximum ACC commitment, HUD shall, within a reasonable period of time, take such additional steps authorized by Section 8(c)(6) of the 1937 Act as may be necessary to carry out this assurance, including (as provided in that section of the Act) “the reservation of annual contributions authority for the purpose of amending housing assistance contracts or the allocation of a portion of new authorizations for the purpose of amending housing assistance contracts.”
+
+[41 FR 47168, Oct. 27, 1976, as amended at 61 FR 13593, Mar. 27, 1996; 65 FR 16723, Mar. 29, 2000]

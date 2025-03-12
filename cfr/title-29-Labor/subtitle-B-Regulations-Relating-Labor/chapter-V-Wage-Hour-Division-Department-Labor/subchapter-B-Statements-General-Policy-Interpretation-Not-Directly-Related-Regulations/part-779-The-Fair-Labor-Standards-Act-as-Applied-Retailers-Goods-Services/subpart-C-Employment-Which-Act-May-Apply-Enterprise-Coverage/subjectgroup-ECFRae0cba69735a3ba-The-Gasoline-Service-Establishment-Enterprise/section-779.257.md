@@ -1,0 +1,3 @@
+##### § 779.257 Exemption applicable to gasoline service establishments under the prior Act. #####
+
+Section 13(b)(8) of the prior Act (before the 1966 amendments) contained an exemption from the overtime pay requirements for “any employee of a gasoline service station”. This exemption was applicable prior to February 1, 1967, without regard to the annual gross volume of sales of the gasoline service station by which the employee was employed. The removal of this exemption by the 1966 amendments brought non-exempt employees of covered gasoline service stations within the purview of the overtime requirements of the Act for the first time.

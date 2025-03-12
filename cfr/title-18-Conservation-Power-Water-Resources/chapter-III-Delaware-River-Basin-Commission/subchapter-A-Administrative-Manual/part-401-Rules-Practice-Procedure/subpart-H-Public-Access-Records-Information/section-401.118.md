@@ -1,0 +1,3 @@
+##### § 401.118 Disclosure in administrative or court proceedings. #####
+
+Data and information otherwise exempt from public disclosure may be revealed in Commission administrative or court proceedings where the data or information are relevant. The Commission will request that the data or information be held in camera and that any other appropriate measures be taken to reduce disclosure to the minimum necessary under the circumstances.

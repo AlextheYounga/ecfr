@@ -1,0 +1,3 @@
+##### § 1975.6 Policy as to domestic household employment activities in private residences. #####
+
+As a matter of policy, individuals who, in their own residences, privately employ persons for the purpose of performing for the benefit of such individuals what are commonly regarded as ordinary domestic household tasks, such as house cleaning, cooking, and caring for children, shall not be subject to the requirements of the Act with respect to such employment.

@@ -1,0 +1,5 @@
+##### § 600.754 Decision to establish a fishery negotiation panel. #####
+
+(a) *Determination to establish an FNP.* If, after considering comments and applications submitted under § 600.753, the Council or NMFS determines that an FNP can adequately represent the interests that will be significantly affected and that it is feasible and appropriate in the particular case, the Council or NMFS may establish an FNP.
+
+(b) *Determination not to establish FNP.* If, after considering such comments and applications, the Council or NMFS decides not to establish an FNP, the Council or NMFS shall promptly publish notification of such decision and the reasons therefor in the Federal Register and, as appropriate, in trade or other specialized publications, a copy of which shall be sent to any person who applied for, or nominated another person for membership on the FNP to represent such interests with respect to the issues of concern.

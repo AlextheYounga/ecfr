@@ -1,0 +1,5 @@
+##### § 600.514 Relation to other laws. #####
+
+(a) Persons affected by these regulations should be aware that other Federal and state statutes may apply to their activities.
+
+(b) Fishing vessel operators must exercise due care in the conduct of fishing activities near submarine cables. Damage to submarine cables resulting from intentional acts or from the failure to exercise due care in the conduct of fishing operations subjects the fishing vessel operator to enforcement action under the International Convention for the Protection of Submarine Cables, and to the criminal penalties prescribed by the Submarine Cable Act (47 U.S.C. 21) and other laws that implement that Convention. Fishing vessel operators also should be aware that the Submarine Cable Act prohibits fishing operations at a distance of less than 1 nautical mile (1.85 km) from a vessel engaged in laying or repairing a submarine cable; or at a distance of less than 0.25 nautical mile (0.46 km) from a buoy or buoys intended to mark the position of a cable when being laid, or when out of order, or broken.

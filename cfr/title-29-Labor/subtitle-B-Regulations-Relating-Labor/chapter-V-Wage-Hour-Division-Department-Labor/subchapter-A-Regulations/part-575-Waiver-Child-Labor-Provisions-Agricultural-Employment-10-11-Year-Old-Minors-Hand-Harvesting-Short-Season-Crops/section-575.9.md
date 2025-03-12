@@ -1,0 +1,3 @@
+##### § 575.9 Failure to comply with the terms and conditions of the waiver. #####
+
+If the employer or group of employers granted a waiver pursuant to section 13(c)(4) of the Act and this part do not comply with the terms and conditions set forth in the waiver and this part, the waiver shall be null and void and the employer or group of employers will be subject to civil money penalties under section 16(e) of the Act.

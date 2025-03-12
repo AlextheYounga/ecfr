@@ -1,0 +1,41 @@
+##### § 3282.404 Manufacturers' determinations and related concurrences. #####
+
+(a) *Initial determination.* (1) Not later than 30 days after a manufacturer receives information that it believes in good faith may indicate a noncompliance, defect, serious defect, or imminent safety hazard, the manufacturer must make a specific initial determination that there is a noncompliance, defect, serious defect, or imminent safety hazard, or that the information requires no further action under this subpart. If a manufacturer makes a final determination of noncompliance for an individual home (see § 3282.412(b)) and a class of homes is not involved, no further action is needed by the manufacturer other than to keep a record of its determination as required by § 3282.417. If the manufacturer determines that it is not the cause of the problem, but a problem still exists, the manufacturer must forward the information in its possession to the appropriate retailer (see § 3282.254), and, if known, to the installer (see §§ 3286.115 and 3286.811) for their consideration. Alternatively, the manufacturer, retailer, or installer may choose to submit the issue for resolution under dispute resolution (see 24 CFR part 3288).
+
+(2) When a manufacturer makes an initial determination that there is a serious defect or an imminent safety hazard, the manufacturer must immediately notify the Secretary, the SAA in the state of manufacture, and the manufacturer's IPIA.
+
+(3) In making the determination of noncompliance, defect, serious defect, or imminent safety hazard, or that no further action is required under this subpart, the manufacturer must review the information it received and carry out investigations, including, a review of service records, IPIA inspection records, and, as appropriate, inspections of homes in the class. The manufacturer must review the information, the known facts, and the circumstances relating to the complaint or information, including service records, approved designs, and audit findings, as applicable, to decide what investigations are reasonable.
+
+(b) *Class determination.* (1) When the manufacturer makes an initial determination of defect, serious defect, or imminent safety hazard, the manufacturer must also make a good-faith determination of the class that includes each manufactured home in which the same defect, serious defect, or imminent safety hazard exists or likely exists. Multiple occurrences of defects may be considered the same defect if they have the same cause, are related to a specific workstation description, or are related to the same failure to follow the manufacturer's approved quality assurance manual. Good faith may be used as a defense to the imposition of a penalty, but does not relieve the manufacturer of its responsibilities for notification or correction under this subpart I. The manufacturer must make this class determination not later than 20 days after making a determination of defect, serious defect, or imminent safety hazard.
+
+(2) Paragraph (c) of this section sets out methods for a manufacturer to use in determining the class of manufactured homes. If the manufacturer can identify the precise manufactured homes affected by the defect, serious defect, or imminent safety hazard, the class of manufactured homes may include only those manufactured homes actually affected by the same defect, serious defect, or imminent safety hazard. The manufacturer is also permitted to exclude from the class those manufactured homes for which the manufacturer has information that indicates the homes were not affected by the same cause. If it is not possible to identify the precise manufactured homes affected, the class must include every manufactured home in the group of homes that is identifiable, since the same defect, serious defect, or imminent safety hazard exists or likely exists in some homes in that group of manufactured homes.
+
+(3) For purposes related to this section, a defect, a serious defect, or an imminent safety hazard likely exists in a manufactured home if the cause of the defect, serious defect, or imminent safety hazard is such that the same defect, serious defect, or imminent safety hazard would likely have been introduced systematically into more than one manufactured home. Indications that the defect, serious defect, or imminent safety hazard would likely have been introduced systematically may include, but are not limited to, complaints that can be traced to the same faulty design or faulty construction, problems known to exist in supplies of components or parts, information related to the performance of a particular employee or use of a particular process, and information signaling a failure to follow quality control procedures with respect to a particular aspect of the manufactured home.
+
+(4) If the manufacturer must determine the class of homes pursuant to paragraph (b) of this section, the manufacturer must obtain from the IPIA, and the IPIA must provide, either:
+
+(i) The IPIA's written concurrence on the methods used by the manufacturer to identify the homes that should be included in the class of homes; or
+
+(ii) The IPIA's written statement explaining why it believes the manufacturer's methods for determining the class of homes were inappropriate or inadequate.
+
+(c) *Methods for determining class.* (1) In making a class determination under paragraph (b) of this section, a manufacturer is responsible for carrying out reasonable investigations. In carrying out investigations, the manufacturer must review the information, the known facts, and the relevant circumstances, and generally must establish the cause of the defect, serious defect, or imminent safety hazard. Based on the results of such investigations and all information received or developed, the manufacturer must use an appropriate method or appropriate methods to determine the class of manufactured homes in which the same defect, serious defect, or imminent safety hazard exists or likely exists.
+
+(2) Methods that may be used in determining the class of manufactured homes include, but are not limited to:
+
+(i) Inspection of the manufactured home in question, including its design, to determine whether the defect, serious defect, or imminent safety hazard resulted from the design itself;
+
+(ii) Physical inspection of manufactured homes of the same design or construction, as appropriate, that were produced before and after a home in question;
+
+(iii) Inspection of the service records of a home in question and of homes of the same design or construction, as appropriate, produced before and after that home, if it is clear that the cause of the defect, serious defect, or imminent safety hazard is such that the defect, serious defect, or imminent safety hazard would be visible to and reportable by consumers or retailers;
+
+(iv) Inspection of manufacturer quality control records to determine whether quality control procedures were followed and, if not, the time frame during which they were not;
+
+(v) Inspection of IPIA records to determine whether the defect, serious defect, or imminent safety hazard was either detected or specifically found not to exist in some manufactured homes;
+
+(vi) Identification of the cause as relating to a particular employee whose work, or to a process whose use, would have been common to the production of the manufacturer's homes for a period of time; and
+
+(vii) Inspection of records relating to components supplied by other parties and known to contain or suspected of containing a defect, a serious defect, or an imminent safety hazard.
+
+(3) When the Secretary or an SAA decides the method chosen by the manufacturer to conduct an investigation in order to make a class determination is not the most appropriate method, the Secretary or SAA must explain in writing to the manufacturer why the chosen method is not the most appropriate.
+
+(d) *Documentation required.* The manufacturer must comply with the recordkeeping requirements in § 3282.417 as applicable to its determinations and any IPIA concurrence or statement that it does not concur.

@@ -1,0 +1,5 @@
+##### § 594.1 Applicability and purpose. #####
+
+(a) *General.* This part establishes as a permanent program the John Heinz Neighborhood Development Program, as authorized by section 832 of the Housing and Community Development Act of 1992. Previously, the program had been administered by the Department as a demonstration program under section 123 of the Housing and Urban-Rural Recovery Act of 1983 (42 U.S.C. 5318 note).
+
+(b) *Purpose.* The program is intended to assist communities to become more viable, by providing incentive funds to carry out neighborhood development activities that benefit low- and moderate-income families. The program objectives are to increase the capacity of neighborhood organizations, promote long-term financial support for their neighborhood projects, and encourage greater participation of neighborhood organizations with private and public institutions.

@@ -1,0 +1,3 @@
+##### § 2700.59 Failure to cooperate in discovery; sanctions. #####
+
+Upon the failure of any person, including a party, to respond to a discovery request or upon an objection to such a request, the party seeking discovery may file a motion with the Judge requesting an order compelling discovery. If any person, including a party, fails to comply with an order compelling discovery, the Judge may make such orders with regard to the failure as are just and appropriate, including deeming as established the matters sought to be discovered or dismissing the proceeding in favor of the party seeking discovery. For good cause shown the Judge may excuse an objecting party from complying with the request.

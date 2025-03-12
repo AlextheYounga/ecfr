@@ -1,0 +1,3 @@
+##### § 27.119 Research undertaken without the intention of involving human subjects. #####
+
+In the event research is undertaken without the intention of involving human subjects, but it is later proposed to involve human subjects in the research, the research shall first be reviewed and approved by an IRB, as provided in this policy, a certification submitted, by the institution, to the department or agency, and final approval given to the proposed change by the department or agency.

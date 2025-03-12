@@ -1,0 +1,5 @@
+##### § 511.307 Eligibility for Federal funding. #####
+
+(a) Subject to project approval by the Secretary, a State may obligate funds apportioned to the State under Title 23 U.S.C. sections 104(b)(1), also known as National Highway System funds, 104(b)(2), also known as CMAQ Improvement funds, and 104(b)(3), also known as STP funds, for activities relating to the planning, deployment and operation, including preventative maintenance, of real-time monitoring elements that advance the goals and purposes of the Real-Time System Management Information Program. The SPC funds, apportioned according to 23 U.S.C. 505(a), may be applied to the development and implementation of a real-time information program.
+
+(b) Those project applications to establish a real-time information program solely for Interstate System highways are entitled to a Federal share of 90 percent of the total project cost, pursuant to 23 U.S.C. 120(a). Those project applications to establish a real-time information program for non-Interstate highways are entitled to a Federal share of 80 percent of the total project cost, as per 23 U.S.C. 120(b).

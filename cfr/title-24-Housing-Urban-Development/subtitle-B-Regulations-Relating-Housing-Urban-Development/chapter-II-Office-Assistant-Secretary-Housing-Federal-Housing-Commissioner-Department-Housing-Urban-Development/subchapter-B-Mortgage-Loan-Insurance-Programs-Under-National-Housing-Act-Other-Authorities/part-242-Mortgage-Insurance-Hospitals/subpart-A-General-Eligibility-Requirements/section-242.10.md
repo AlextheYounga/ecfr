@@ -1,0 +1,5 @@
+##### § 242.10 Eligible mortgagors. #####
+
+The mortgagor shall be a public mortgagor (i.e., an owner of a public facility), a private nonprofit corporation or association, or a profit-motivated mortgagor meeting the definition of “hospital” in § 242.1. The mortgagor shall be approved by HUD and, except in those cases where the hospital is leased as permitted in § 242.72, shall possess the powers necessary and incidental to operating a hospital. Eligible proprietary or profit-motivated mortgagors may include for-profit corporations, limited partnerships, and limited liability corporations and companies, but may not include natural persons, joint ventures, and general partnerships. Any proposed mortgagor must demonstrate that it has a continuity of organization commensurate with the term of the mortgage loan being insured. For new organizations, or those whose continuity is necessarily dependent upon an individual or individuals, broad community participation is required.
+
+[72 FR 67546, Nov. 28, 2007, as amended at 73 FR 35922, June 25, 2008]

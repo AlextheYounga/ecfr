@@ -1,0 +1,3 @@
+##### § 1960.54 Training of top management officials. #####
+
+Each agency shall provide top management officials with orientation and other learning experiences which will enable them to manage the occupational safety and health programs of their agencies. Such orientation should include coverage of section 19 of the Act, Executive Order 12196, the requirements of this part, and the agency safety and health program.

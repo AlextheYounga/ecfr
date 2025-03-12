@@ -1,0 +1,5 @@
+##### § 500.157 Scope of agreements with State agencies. #####
+
+(a) Every agreement between the Secretary and any State agency under the authority referred to in § 500.155 of this part shall be in writing.
+
+(b) Any delegation to a State agency by the Secretary under such authority shall be made pursuant to approval of a written State plan submitted in accordance with § 500.159 which shall: (1) Include a description of each function to be performed, the method of performing each such function, and the resources to be devoted to the performance of each such function, (2) provide assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (b)(1) of this section and that the State agency's performance of the delegated functions will be at least comparable to the performance of such functions by the Department of Labor; and (3) contain a certification of the Attorney General of such State, or, if the Attorney General is not authorized to make such a statement, the State official who is so authorized, that an agreement pursuant to such State plan is valid under the laws of that State.

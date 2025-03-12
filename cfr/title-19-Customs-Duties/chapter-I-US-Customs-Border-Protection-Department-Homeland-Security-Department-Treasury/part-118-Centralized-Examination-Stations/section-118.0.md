@@ -1,0 +1,5 @@
+##### § 118.0 Scope. #####
+
+This part sets forth regulations providing for the making of agreements between Customs and persons desiring to operate a centralized examination station (CES). It covers the application process, the responsibilities of the person or entity selected to be a CES operator, the written agreement to operate a CES facility, the port director's discretion to immediately suspend a CES operator's or entity's selection and the written agreement to operate the CES or to propose the permanent revocation of a CES operator's or entity's selection and cancellation of the written agreement for specified conduct, and the appeal procedures to challenge an immediate suspension or proposed revocation and cancellation action. Procedures and requirements for the transfer of merchandise to a CES are set forth in part 151 of this chapter.
+
+[T.D. 93-6, 58 FR 5604, Jan. 22, 1993; 58 FR 6574, Jan. 29, 1993, as amended by T.D. 96-57, 61 FR 39070, July 26, 1996]

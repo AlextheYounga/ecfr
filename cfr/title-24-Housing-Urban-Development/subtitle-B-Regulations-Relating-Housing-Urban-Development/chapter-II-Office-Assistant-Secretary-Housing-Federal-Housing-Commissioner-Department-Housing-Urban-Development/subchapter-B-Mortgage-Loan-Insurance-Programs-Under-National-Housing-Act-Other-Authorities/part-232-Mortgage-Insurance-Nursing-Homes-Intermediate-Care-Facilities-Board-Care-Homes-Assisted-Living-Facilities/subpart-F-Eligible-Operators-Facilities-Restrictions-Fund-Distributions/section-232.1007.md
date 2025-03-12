@@ -1,0 +1,3 @@
+##### § 232.1007 Operating expenses. #####
+
+Goods and services purchased or acquired in connection with the project shall be reasonable and necessary for the operation or maintenance of the project, and the costs of such goods and services incurred by the borrower or operator shall not exceed amounts normally paid for such goods or services in the area where the services are rendered or the goods are furnished, except as otherwise permitted or approved by HUD.

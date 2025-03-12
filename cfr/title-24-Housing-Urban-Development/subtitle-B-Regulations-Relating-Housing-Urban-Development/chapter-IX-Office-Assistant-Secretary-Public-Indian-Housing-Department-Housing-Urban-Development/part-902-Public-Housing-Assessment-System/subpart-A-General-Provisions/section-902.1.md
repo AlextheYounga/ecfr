@@ -1,0 +1,13 @@
+##### § 902.1 Purpose, scope, and general matters. #####
+
+(a) *Purpose.* The purpose of the Public Housing Assessment System (PHAS) is to improve the delivery of services in public housing and enhance trust in the public housing system among public housing agencies (PHAs), public housing residents, and the general public, by providing a management tool for effectively and fairly measuring the performance of a PHA in essential housing operations of projects, on a program-wide basis and individual project basis, and providing rewards for high performers and remedial requirements for poor performers.
+
+(b) *Scope.* PHAS is a strategic measure of the essential housing operations of projects and PHAs. PHAS does not evaluate the compliance of a project or PHA with every HUD-wide or program-specific requirement or objective. Although not specifically evaluated through PHAS, PHAs are responsible for complying with nondiscrimination and equal opportunity requirements, including but not limited to those specified in 24 CFR 5.105, for affirmatively furthering fair housing, requirements under section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), and requirements of other federal programs under which the PHA is receiving assistance. A PHA's adherence to these requirements will be monitored in accordance with the applicable program regulations and the PHA's Annual Contributions Contract (ACC).
+
+(c) *PHAS indicators.* HUD will assess and score the performance of projects and PHAs based on the indicators, which are more fully addressed in § 902.9: Physical condition, financial condition, management operations, and the Capital Fund program.
+
+(d) *Assessment tools.* HUD will make use of uniform and objective criteria for the physical inspection of projects and PHAs and the financial assessment of projects and PHAs, and will use data from appropriate agency data systems to assess management operations. For the Capital Fund program indicator, HUD will use information provided in the electronic Line of Credit Control System (eLOCCS), the Public Housing Information Center (PIC), or their successor systems. On the basis of this data, HUD will assess and score the results, advise PHAs of their scores, and identify low-scoring and poor-performing projects and PHAs so that these projects and PHAs will receive the appropriate attention and assistance.
+
+(e) *Small PHAs.* A PHA with fewer than 250 units that does not convert to asset management will be considered as one project by HUD.
+
+(f) HUD's s*coring procedures* will be published from time to time in the Federal Register for public comment.

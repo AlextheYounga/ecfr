@@ -1,0 +1,3 @@
+##### § 10.731 Textile and apparel goods classifiable as goods put up in sets. #####
+
+Notwithstanding the specific rules set forth in General Note 28(n), HTSUS, textile or apparel goods classifiable as goods put up in sets for retail sale as provided for in General Rule of Interpretation 3, HTSUS, will not be considered to be originating goods unless each of the goods in the set is an originating good or the total value of the non-originating goods in the set does not exceed 10 percent of the value of the set.

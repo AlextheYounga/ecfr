@@ -1,0 +1,3 @@
+##### § 918.1 Introduction. #####
+
+Pursuant to section 207 of the National Sea Grant College Program Act, as amended (Pub. L. 94-461, 33 U.S.C. 1121 *et seq.*), herein referred to as the Act, the following guidelines establish the procedures by which organizations can qualify for designation as Sea Grant Colleges or Sea Grant Regional Consortia, and the responsibilities required of organizations so designated.

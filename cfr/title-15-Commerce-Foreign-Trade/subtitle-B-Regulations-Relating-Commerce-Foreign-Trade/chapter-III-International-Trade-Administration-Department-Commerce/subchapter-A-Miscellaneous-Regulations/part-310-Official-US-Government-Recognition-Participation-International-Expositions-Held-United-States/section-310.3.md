@@ -1,0 +1,41 @@
+##### § 310.3 Applications for Federal recognition. #####
+
+(a) Applications for Federal recognition of an exposition shall be filed with, and all official communications in connection therewith addressed to, the International Expositions Staff, International Trade Administration, Department of Commerce, Washington, DC 20230.
+
+(b) Every application, exhibit, or enclosure, except where specifically waived by the Director, shall be in quadruplicate, duly authenticated and referenced.
+
+(c) Every application shall be in letter form and shall contain the date, address, and official designation of the applicant and shall be signed by an authorized officer or individual.
+
+(d) Every application, except where specifically waived by the Director, shall be accompanied by the following exhibits:
+
+1. *Exhibit No. 1.* A study setting forth in detail the purpose for the exposition, including any historical, geographic, or other significant event of the host city, State, or region related to the exposition.
+
+2. *Exhibit No. 2.* An exposition plan setting forth in detail (i) the theme of the exposition and the “storyline” around which the entire exposition is to be developed; (ii) whatever preliminary architectural and design plans are available on the physical layout of the site plus existing and projected structures; (iii) the type of participation proposed in the exposition (e.g., foreign and domestic exhibits); (iv) cultural, sports, and special events planned; (v) the proposed BIE category of the event and evidence of its conformity to the regulations of the BIE (a copy of these regulations can be obtained from the Director upon request); (vi) the proposed steps that will be taken to protect foreign exhibitors under the BIE model rules and regulations and (vii) in writing commit its organization to the completion of the exposition.
+
+3. *Exhibit No. 3.* Documentary evidence of State, regional and local support (e.g., letters to the applicant from business and civic leadership of the region, pledging assistance and/or financing; State and/or municipal resolutions, acts, or appropriations; referendums on bond issues, and others).
+
+4. *Exhibit No. 4.* An organization chart of the exposition management structure (actual or proposed) of the applicant, including description of the functions, duties and responsibilities of each official position along with bibliographic material, including any professional experience in the fields of architecture, industrial design, engineering, labor relations, concession management, interpretative theme planning, exhibit development, etc., on principal officers, if available. (The principal officials should also be prepared to submit subsequent individual statements under oath of their respective financial holdings and other interests.)
+
+5. *Exhibit No. 5.* A statement setting forth in detail (i) the availability of visitor services in existence or projected to accommodate tourists at the exposition (e.g., number of hotel and motel units, number and type of restaurants, health facilities, etc.); (ii) evidence of adequate transportation facilities and accessibility of the host city to large groups of national and international visitors (e.g., number and schedule of airlines, bus lines, railroads, and truck lines serving the host city); and (iii) plans to promote the exposition as a major national and international tourist destination.
+
+6. *Exhibit No. 6.* A statement setting forth in detail the applicant's plans for acquiring title to, or the right to occupy and use real property, other than that owned by the applicant or by the United States, essential for implementing the project or projects covered by the application. If the applicant, at the time of filing the application, has acquired title to the real property, he should submit a certified copy of the deed(s). If the applicant, at the time of filing the application, has by easement, lease, franchise, or otherwise acquired the right to occupy and use real property owned by others, he should submit a certified copy of the appropriate legal instrument(s) evidencing this right.
+
+7. *Exhibit No. 7.* A statement of the latest prevailing hourly wage rates for construction workers in the host city (e.g., carpenters, cement masons, sheet metal workers, etc.).
+
+8. *Exhibit No. 8.* Information on attitudes of labor leaders as to “no strike” agreements during the development and operation of the exposition. Actual “no strike” pledges are desirable.
+
+9. *Exhibit No. 9.* A detailed study conducted and certified by a nationally recognized firm(s) in the field of economics, accounting, management, etc., setting forth (i) proposed capital investment cost; cash flow projections; and sources of financing available to meet these costs, including but not limited to funds from State and municipal financing, general obligation and/or general revenue bond issues, and other public or private sources of front-end capital; (ii) assurances that the “guaranteed financing” is or will be available in accordance with Section 2(a)(1)(b) of Pub. L. 91-269; (iii) the projected expenses for managing the exposition; (iv) projected operational revenues broken down to include admissions, space rental, concessions, service fees and miscellaneous income; and (v) cost-benefit projections. These should be accompanied by a statement of the firm that the needed cash flow, sources of funding, and revenue projections are realistic and attainable.
+
+10. *Exhibit No. 10.* A description of the exposition implementation time schedule and the management control system to be utilized to implement the time schedule (e.g., PERT, CPM, etc.).
+
+11. *Exhibit No. 11.* A statement setting forth in detail the public relations, publicity and other promotional plans of the applicant. For example, the statement could include: (i) an outline of the public relations/publicity program broken down by percentage allocations among the various media; (ii) a public relations/publicity program budget with the various calendar target dates for completion of phases prior to the opening, the opening and post-opening of the exposition; and (iii) protocol plans for U.S. and foreign dignitaries, as well as for special ceremonies and events and how these plans are to be financed.
+
+12. *Exhibit No. 12.* A study setting forth in detail the benefits to be derived from the exposition and residual use plans. For example, the study might include: (i) extent of immediate economic benefits for the city/region/nation in proportion to total investment in the exposition; (ii) extent of long range economic benefits for the city/region/nation in proportion to total investment in the exposition; and (iii) extent of intangible (social, psychological, “good will”) benefits accruing to the city/region/nation including the solution or amelioration of any national/local problems.
+
+13. *Exhibit No. 13.* A statement committing the applicant to develop and complete an environmental impact statement which complies with section 102(2)(c) of the National Environmental Policy Act of 1969 (83 Stat. 852; 42 U.S.C. 4331). Sample copies of environmental impact statements may be obtained from the Director. Prior to the Director's submitting a report to the Secretary containing his findings on the application for Federal recognition pursuant to § 310.4, the applicant must have completed the required Environmental Impact Statement (EIS), in a form acceptable to the Department of Commerce.
+
+14. *Exhibit No. 14.* A detailed set of general and special rules and regulations governing the exposition and participation in it, which, if Federal recognition is obtained, can be used by the Federal Government in seeking BIE registration.
+
+15. *Exhibit No. 15.* A statement from the applicant agreeing to accept a U.S. Commissioner General, appointed by the President. He will be recognized as the senior Federal official and titular head of the exposition, final arbiter in disputes with exhibitors, and the official contact with foreign governments. The applicant should also agree to furnish the Commissioner General and his staff with suitable facilities in the host community during the development and operation of the exposition.
+
+[40 FR 34107, Aug. 14, 1975. Redesignated and amended at 46 FR 57457, Nov. 24, 1981]

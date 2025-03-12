@@ -1,0 +1,7 @@
+##### § 870.57 Exemptions. #####
+
+Pursuant to section 305 of the CCPA (82 Stat. 164) and in accordance with the provisions of this part, it has been determined that the laws of the following States provide restrictions on garnishment which are substantially similar to those provided in section 303(a) of the CCPA (82 Stat. 163); and that, therefore, garnishments issued under those laws should be, and they hereby are, exempted from the provisions of section 303(a) subject to the terms and conditions of §§ 870.55(a) and 870.56:
+
+(a) *State of Virginia.* Effective June 30, 1978, garnishments issued under the laws of the State of Virginia are exempt from the provisions of sections 303(a) and 303(b) of the CCPA under the following additional conditions: (1) Whenever garnishments are ordered in the State of Virginia which are not deemed to be governed by section 34-29 of the Code of Virginia, as amended, and the laws of another State are applied, sections 303(a) and 303(b) of the CCPA shall apply to such garnishments according to the provisions thereof; and (2) whenever the earnings of any individual subject to garnishment are withheld and a suspending or supersedeas bond is undertaken in the course of an appeal from a lower court decision, sections 303(a) and 303(b) of the CCPA shall apply to the withholding of such earnings under this procedure according to the provisions thereof.
+
+[35 FR 18527, Dec. 5, 1970, as amended at 43 FR 28472, June 30, 1978]

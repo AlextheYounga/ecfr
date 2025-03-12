@@ -1,0 +1,7 @@
+##### § 552.102 Live-in domestic service employees. #####
+
+(a) Domestic service employees who reside in the household where they are employed are entitled to the same minimum wage as domestic service employees who work by the day. However, section 13(b)(21) provides an exemption from the Act's overtime requirements for domestic service employees who reside in the household where employed. But this exemption does not excuse the employer from paying the live-in worker at the applicable minimum wage rate for all hours worked. In determining the number of hours worked by a live-in worker, the employee and the employer may exclude, by agreement between themselves, the amount of sleeping time, meal time and other periods of complete freedom from all duties when the employee may either leave the premises or stay on the premises for purely personal pursuits. For periods of free time (other than those relating to meals and sleeping) to be excluded from hours worked, the periods must be of sufficient duration to enable the employee to make effective use of the time. If the sleeping time, meal periods or other periods of free time are interrupted by a call to duty, the interruption must be counted as hours worked. See regulations part 785, § 785.23.
+
+(b) If it is found by the parties that there is a significant deviation from the initial agreement, the parties should reach a new agreement that reflects the actual facts of the hours worked by the employee.
+
+[40 FR 7405, Feb. 20, 1975, as amended at 78 FR 60557, Oct. 1, 2013]

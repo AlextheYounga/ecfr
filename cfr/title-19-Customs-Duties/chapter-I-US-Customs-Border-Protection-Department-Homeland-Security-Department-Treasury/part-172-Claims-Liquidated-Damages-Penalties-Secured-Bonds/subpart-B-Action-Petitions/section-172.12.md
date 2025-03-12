@@ -1,0 +1,5 @@
+##### § 172.12 Petitions acted on at Customs Headquarters. #####
+
+Upon receipt of a petition for relief filed pursuant to the provisions of section 618 or 623 of the Tariff Act of 1930, as amended (19 U.S.C. 1618 or 19 U.S.C. 1623), involving fines, penalties, and claims for liquidated damages which are outside of his or her delegated authority the Fines, Penalties, and Forfeitures Officer will refer that petition to the Chief, Penalties Branch, Office of International Trade Regulations and Rulings, CBP Headquarters, who is empowered, notwithstanding any other law or regulation, to mitigate penalties or cancel bond claims on such terms and conditions as, under law and in view of the circumstances, he or she deems appropriate.
+
+[T.D. 00-57, 65 FR 53578, Sept. 5, 2000, as amended by CBP Dec. 12-07, 77 FR 19534, Apr. 2, 2012]

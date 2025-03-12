@@ -1,0 +1,3 @@
+##### § 360.107 Hours of operation. #####
+
+The automatic licensing system will generally be accessible 24 hours a day, 7 days a week but may be unavailable at selected times for server maintenance. If the system is unavailable for an extended period of time, parties will be able to obtain licenses from Commerce directly via fax during regular business hours. Should the system be inaccessible for an extended period of time, Commerce would advise Customs to consider this as part of mitigation on any liquidated damage claims that may be issued.

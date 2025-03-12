@@ -1,0 +1,11 @@
+##### § 1953.6 Review and approval of plan supplements. #####
+
+(a) OSHA shall review a supplement to determine whether it is at least as effective as the Federal program and meets the criteria in the Act and implementing regulations and the assurances in the State plan. If the review reveals any defect in the supplement, or if more information is needed, OSHA shall offer assistance to the State and shall provide the State an opportunity to clarify or correct the change.
+
+(b) If upon review, OSHA determines that the differences from a corresponding Federal component are purely editorial and do not change the substance of the policy or requirements on employers, it shall deem the change identical. This includes “plain language” rewrites of new Federal standards or previously approved State standards which do not change the meaning or requirements of the standard. OSHA will inform the State of this determination. No further review or Federal Register publication is required.
+
+(c) Federal OSHA may seek public comment during its review of plan supplements. Generally, OSHA will seek public comment if a State program component differs significantly from the comparable Federal program component and OSHA needs additional information on its compliance with the criteria in section 18(c) of the Act, including whether it is at least as effective as the Federal program and in the case of a standard applicable to products used or distributed in interstate commerce, whether it is required by compelling local conditions or unduly burdens interstate commerce under section 18(c)(2) of the Act.
+
+(d) If the plan change meets the approval criteria, OSHA shall approve it and shall thereafter publish a Federal Register notice announcing the approval. OSHA reserves the right to reconsider its decision should subsequent information be brought to its attention.
+
+(e) If a State fails to submit a required supplement or if examination discloses cause for rejecting a submitted supplement, OSHA shall provide the State a reasonable time, generally not to exceed 30 days, to submit a revised supplement or to show cause why a proceeding should not be commenced either for rejection of the supplement or for failure to adopt the change in accordance with the procedures in § 1902.17 or Part 1955 of this chapter.

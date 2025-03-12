@@ -1,0 +1,3 @@
+##### § 300.93 Reporting requirements. #####
+
+Any person fishing for sockeye or pink salmon within the Fraser River Panel Area (U.S.) and any person receiving or purchasing fish caught by such persons are subject to State of Washington reporting requirements at Washington Administrative Code, Chapter 220-69. Treaty Indian fishermen are subject also to tribal reporting requirements. No separate Federal reports are required.

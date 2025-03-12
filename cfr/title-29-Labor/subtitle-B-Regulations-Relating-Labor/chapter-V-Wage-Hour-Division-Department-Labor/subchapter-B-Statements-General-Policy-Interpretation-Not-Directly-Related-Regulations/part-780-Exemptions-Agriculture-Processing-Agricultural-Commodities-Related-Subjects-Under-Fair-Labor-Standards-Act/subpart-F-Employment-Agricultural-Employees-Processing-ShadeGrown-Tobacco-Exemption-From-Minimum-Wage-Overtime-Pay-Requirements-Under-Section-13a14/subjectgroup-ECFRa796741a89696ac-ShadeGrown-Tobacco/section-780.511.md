@@ -1,0 +1,3 @@
+##### § 780.511 Meaning of “agricultural employee.” #####
+
+An “agricultural employee,” for purposes of section 13(a)(14), may be defined as an employee employed in activities which are included in the definition of “agriculture” in section 3(f) of the Act (see § 780.103), and who is employed in these activities with sufficient regularity or continuity to characterize him as a person who engages in them as an occupation. Isolated or sporadic instances of engagement by an employee in activities defined as “agriculture” would not ordinarily establish that he is an “agricultural employee.” His engagement in agriculture should be sufficiently substantial to demonstrate some dedication to agricultural work as a means of livelihood.

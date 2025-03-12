@@ -1,0 +1,7 @@
+##### § 1981.108 Role of Federal agencies. #####
+
+(a)(1) The complainant and the named person will be parties in every proceeding. At the Assistant Secretary's discretion, the Assistant Secretary may participate as a party or as *amicus curiae* at any time at any stage of the proceedings. This right to participate includes, but is not limited to, the right to petition for review of a decision of an administrative law judge, including a decision approving or rejecting a settlement agreement between the complainant and the named person.
+
+(2) Copies of pleadings in all cases, whether or not the Assistant Secretary is participating in the proceeding, must be sent to the Assistant Secretary, Occupational Safety and Health Administration, and to the Associate Solicitor, Division of Fair Labor Standards, U.S. Department of Labor, Washington, DC 20210.
+
+(b) The Secretary of Transportation may participate as *amicus curiae* at any time in the proceedings, at the Secretary of Transportation's discretion. At the request of the Secretary of Transportation, copies of all pleadings in a case must be sent to the Secretary of Transportation, whether or not the Secretary of Transportation is participating in the proceeding.

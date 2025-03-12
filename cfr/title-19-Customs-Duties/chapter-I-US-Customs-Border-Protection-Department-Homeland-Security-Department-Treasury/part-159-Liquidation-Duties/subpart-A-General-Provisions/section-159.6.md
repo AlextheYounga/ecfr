@@ -1,0 +1,15 @@
+##### § 159.6 Difference between liquidated duties and estimated duties. #####
+
+(a) *Difference under $20 in original liquidation.* When there is a net difference of less than $20 between the total amount of duties, fees, taxes, and interest assessed in the liquidation of any entry (other than an informal, mail, or baggage entry) and the total amount of estimated duties, fees, and taxes deposited, including any supplemental deposit, the difference will be disregarded and the entry endorsed “as entered.” In the case of an informal, mail, or baggage entry, the amount of duties, fees, and taxes computed by a CBP officer when the entry is prepared by, or filed with, him will be considered the liquidated assessment.
+
+(b) *Difference under $20 in reliquidation.* When there is a net difference of less than $20 between the total amount of duties, fees, taxes, and interest found due in the reliquidation of any entry and the total amount of duties, fees, taxes, and interest assessed in the prior liquidation of the entry, the difference will be disregarded except in the following cases:
+
+(1) *Reliquidation at importer's request.* When reliquidation of any entry is made at the importer's request, such as reliquidation following the allowance of a protest under section 514, Tariff Act of 1930, as amended (19 U.S.C. 1514), or, for entries made before December 18, 2004, a request for correction under section 520(c), Tariff Act of 1930, as amended (19 U.S.C. 1520(c)), any refund determined to be due will be refunded even if less than $20.
+
+(2) *Court decision.* Any refund or increase determined to be due as the result of the reliquidation of an entry in accordance with a court decision and judgment order will be refunded or collected as the case may be.
+
+(c) *Difference of $20 or more collected or refunded.* If there is a difference of $20 or more between the duties, fees, taxes, and interest assessed in the liquidation of an entry and the total estimated duties, fees, and taxes deposited, or between the total duties, fees, taxes, and interest assessed in the reliquidation of an entry and those assessed in the prior liquidation, the entry will be endorsed to show the difference and bills or refund checks will be issued.
+
+(d) *Customs duties and fees and internal revenue taxes and interest netted for $20 limit.* The assessments of customs duties and fees and internal revenue taxes and interest will be separately stated on the entry at the time of liquidation, but the amounts of any differences will be netted when applying the $20 minimum for issuance of a bill or refund check.
+
+[T.D. 73-175, 38 FR 17482, July 2, 1973, as amended by T.D. 78-394, 43 FR 49791, Oct. 25, 1978; T.D. 94-51, 59 FR 30296, June 13, 1994; 64 FR 56440, Oct. 20, 1999; CBP Dec. 11-02, 76 FR 2576, Jan. 14, 2011]

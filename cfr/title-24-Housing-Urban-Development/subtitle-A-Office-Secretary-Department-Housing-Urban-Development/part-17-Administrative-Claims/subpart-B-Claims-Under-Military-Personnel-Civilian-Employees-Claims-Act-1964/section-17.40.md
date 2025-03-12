@@ -1,0 +1,7 @@
+##### § 17.40 Scope and purpose. #####
+
+(a) This subpart applies to all claims filed by or on behalf of employees of the Department of Housing and Urban Development for loss of or damage to personal property which occurs incident to their service with HUD under the Military Personnel and Civilian Employees' Claims Act of 1964. A claim must be substantiated and the possession of the property determined to be reasonable, useful, or proper. The maximum amount that can be paid under any claim under the Act is $25,000 and property may be replaced in kind at the option of the Government. Nothing in this subpart shall be construed to bar claims payable under statutory authority.
+
+(b) HUD is not an insurer and does not underwrite all personal property losses that an employee may sustain. Employees are encouraged to carry private insurance to the maximum extent practicable to avoid large losses or losses which may not be recoverable from HUD. The procedures set forth in this section are designed to enable the claimant to obtain the maximum amount of compensation for his loss or damage. Failure of the claimant to comply with these procedures may reduce or preclude payment of his claim under this subpart.
+
+[36 FR 24427, Dec. 22, 1971, as amended at 48 FR 6536, Feb. 14, 1983]

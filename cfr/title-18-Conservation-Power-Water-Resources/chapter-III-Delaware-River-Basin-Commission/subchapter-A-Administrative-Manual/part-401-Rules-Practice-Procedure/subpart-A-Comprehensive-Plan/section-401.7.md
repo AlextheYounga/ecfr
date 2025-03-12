@@ -1,0 +1,3 @@
+##### § 401.7 Further action. #####
+
+The Commission will review the Comprehensive Plan in its entirety at least once every six years from the date of the initial adoption of the Comprehensive Plan (March 28, 1962). Such review may include consideration of proposals submitted by the signatory parties, agencies or political subdivision thereof or other interested parties. The amendments, additions, and deletions adopted by the Commission will be compiled and the Plan as so revised shall be made available for public inspection.

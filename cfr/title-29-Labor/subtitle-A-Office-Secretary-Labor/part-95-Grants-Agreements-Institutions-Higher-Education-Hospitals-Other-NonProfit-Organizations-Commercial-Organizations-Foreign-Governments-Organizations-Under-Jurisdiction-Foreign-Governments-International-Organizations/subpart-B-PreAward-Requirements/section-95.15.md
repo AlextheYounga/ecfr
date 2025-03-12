@@ -1,0 +1,3 @@
+##### § 95.15 Metric system of measurement. #####
+
+The Metric Conversion Act, as amended by the Omnibus Trade and Competitiveness Act (15 U.S.C. 205), declares that the metric system is the preferred measurement system for U.S. trade and commerce. The Act requires each Federal agency to establish a date or dates in consultation with the Secretary of Commerce, when the metric system of measurement will be used in the agency's procurements, grants, and other business-related activities. Metric implementation may take longer where the use of the system is initially impractical or likely to cause significant inefficiencies in the accomplishment of federally-funded activities. DOL shall follow the provisions of E.O. 12770, “Metric Usage in Federal Government Programs.”

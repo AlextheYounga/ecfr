@@ -1,0 +1,3 @@
+##### § 964.330 Grant set-aside assistance. #####
+
+The Department may make available five percent (5%) of any amounts available in each fiscal year (subsequent to the first funding cycle) available to eligible HAs to supplement grants previously awarded under this program. These supplemental grants would be awarded if the HA demonstrates that the funds cannot otherwise be obtained and are needed to maintain adequate levels of services to residents.

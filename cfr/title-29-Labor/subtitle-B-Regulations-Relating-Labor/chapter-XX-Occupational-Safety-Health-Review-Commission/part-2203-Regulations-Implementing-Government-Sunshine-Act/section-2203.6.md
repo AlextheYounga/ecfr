@@ -1,0 +1,3 @@
+##### § 2203.6 Certification by the General Counsel. #####
+
+For every meeting closed under any provision of these rules, the General Counsel will be asked to certify before the meeting that in his opinion the meeting may properly be closed to the public, and to state which exemptions he has relied upon. A copy of this certification, together with a statement (from the Commissioner presiding over the meeting) setting forth the time and place of the meeting and the persons present, shall be retained by the Commission as part of the transcript, recording or minutes of the meeting described in § 2203.7.

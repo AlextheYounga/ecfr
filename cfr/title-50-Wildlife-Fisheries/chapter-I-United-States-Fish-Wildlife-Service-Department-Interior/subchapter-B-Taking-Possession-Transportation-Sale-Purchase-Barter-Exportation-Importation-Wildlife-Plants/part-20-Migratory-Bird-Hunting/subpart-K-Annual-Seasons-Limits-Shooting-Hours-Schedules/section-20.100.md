@@ -1,0 +1,7 @@
+##### § 20.100 General provisions. #####
+
+(a) The taking, possession, transportation, and other uses of migratory game birds by hunters is generally prohibited unless it is specifically provided for under regulations developed in accordance with the Migratory Bird Treaty Act. Consequently, hunting is prohibited unless regulatory schedules are established for seasons, daily bag and possession limits, and shooting (or hawking) hours. Migratory game bird population levels, including production and habitat conditions, vary annually. These conditions differ over North America, and within the United States, by flyways, States, and frequently areas within States. Thus, it is necessary to make annual adjustments in the schedules to limit the harvests of migratory game birds to permissible levels.
+
+(b) The development of these schedules involves annual data gathering programs to determine migratory game bird population status and trends, evaluations of habitat conditions, harvest information, and other factors having a bearing on the anticipated size of the fall flights of these birds. The proposed hunting schedules are announced early in the spring, and following consideration of additional information as it becomes available, as well as public comment, they are modified and published as supplemental proposals. These are also open to public comment. Public hearings are held for the purpose of providing additional opportunity for public participation in the rulemaking process.
+
+[44 FR 7147, Feb. 6, 1979]

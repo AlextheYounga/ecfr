@@ -1,0 +1,3 @@
+##### § 367.4583 Account 458.3, Compensation for use of capital—Non-associate companies. #####
+
+This account must include only the portion of compensation for use of equity capital and inter-company interest on indebtedness before income taxes that is properly allocable to services rendered to non-associate utility companies. A statement to support the basis for the compensation and how it was calculated must be attached to a separate journal entry, ledger system, or memorandum file.

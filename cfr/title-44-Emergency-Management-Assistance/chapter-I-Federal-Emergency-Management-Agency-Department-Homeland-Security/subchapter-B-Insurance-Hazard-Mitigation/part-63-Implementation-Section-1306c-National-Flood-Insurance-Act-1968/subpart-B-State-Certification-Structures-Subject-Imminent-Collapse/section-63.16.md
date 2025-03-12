@@ -1,0 +1,7 @@
+##### § 63.16 Review of State application by the Federal Insurance Administrator. #####
+
+(a) The Federal Insurance Administrator may return the application for eligibility upon finding it incomplete or upon finding that additional information is required in order to make a determination as to the adequacy of the coastal zone management program and erosion rate data base.
+
+(b) Upon determining that the State's program and/or data base does not meet the criteria set forth in § 63.14, the Federal Insurance Administrator shall in writing reject the application for eligibility and indicate in what respects the State program and/or data base fails to comply with the criteria.
+
+(c) Upon determining that the State program and data base meets the criteria set forth in § 63.14, the Federal Insurance Administrator shall approve the State as eligible to certify structures subject to imminent collapse. Such approval, however, is in all cases provisional. The Federal Insurance Administrator shall review the State program and data base for continued compliance with the criteria set forth in this part and may request updated documentation for the purpose of such review. If the program and/or data base is found to be inadequate and is not corrected within ninety days from the date that such inadequacies were identified, the Federal Insurance Administrator may revoke his approval.

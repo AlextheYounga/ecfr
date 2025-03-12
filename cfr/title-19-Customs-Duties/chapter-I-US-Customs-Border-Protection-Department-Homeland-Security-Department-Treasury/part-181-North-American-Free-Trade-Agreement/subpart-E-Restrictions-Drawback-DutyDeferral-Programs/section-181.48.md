@@ -1,0 +1,7 @@
+##### § 181.48 Person entitled to receive drawback. #####
+
+(a) *Manufacturing drawback.* The person named as exporter on the notice of exportation or on the bill of lading, air waybill, freight waybill, Canadian or Mexican customs manifest, cargo manifest, or certified copies of these documents, shall be considered the exporter and entitled to manufacturing drawback, unless the manufacturer or producer shall reserve the right to claim drawback. The manufacturer or producer who reserves this right may claim drawback, and he shall receive payment upon production of satisfactory evidence that the reservation was made with the knowledge and consent of the exporter. Drawback also may be granted to the agent of the manufacturer, producer, or exporter, or to the person the manufacturer, producer, exporter, or agent directs in writing to receive the drawback of duties.
+
+(b) *Nonconforming or improperly shipped goods drawback.* Only the importer of record or the actual owner of the merchandise or its agent may claim drawback under 19 U.S.C. 1313(c).
+
+(c) *Same condition drawback.* The importer of record on the consumption entry is entitled to claim same condition drawback under 19 U.S.C. 1313(j)(1) unless he has in writing waived his right to claim drawback.

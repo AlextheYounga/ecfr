@@ -1,0 +1,7 @@
+##### § 12.40 Quality control programs. #####
+
+(a) *General rule.* During any construction, repair, or modification of project works, including any corrective measures taken pursuant to § 12.39 of this part, the applicant or licensee must maintain any quality control program that may be required by the Regional Engineer, commensurate with the scope of the work and meeting any requirements or standards set by the Regional Engineer. If a quality control program is required, the construction, repair, or modification may not begin until the Regional Engineer has approved the program.
+
+(b) If the construction, repair, or modification work is performed by a construction contractor, quality control inspection must be performed by the licensee, the design engineer, or an independent firm, other than the construction contractor, directly accountable to the licensee. This paragraph is not intended to prohibit additional quality control inspections by the construction contractor, or a firm accountable to the construction contractor, for the construction contractor's purposes.
+
+(c) If the construction, repair, or modification of project works is performed by the applicant's or licensee's own personnel, the applicant or licensee must provide for separation of authority within its organization to make certain that the personnel responsible for quality control inspection are, to the satisfaction of the Regional Engineer or other authorized Commission representative, independent from the personnel who are responsible for the construction, repair or modification.

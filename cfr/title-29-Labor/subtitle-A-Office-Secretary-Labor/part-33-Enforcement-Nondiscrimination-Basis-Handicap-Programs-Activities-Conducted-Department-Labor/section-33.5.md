@@ -1,0 +1,3 @@
+##### § 33.5 Notice. #####
+
+The Department shall make available to employees, applicants, participants, beneficiaries, and other interested persons such information regarding the provisions of this part and its applicability to the programs or activities conducted by the Department, and make such information available to them in such manner as the ASAM finds necessary to apprise such persons of the protections against discrimination assured them by section 504 and this regulation.

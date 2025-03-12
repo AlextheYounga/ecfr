@@ -1,0 +1,5 @@
+##### § 930.131 Review initiated by the Secretary. #####
+
+(a) The Secretary may, on her own initiative, choose to consider whether a federal license or permit activity, or a federal assistance activity, is consistent with the objectives or purposes of the Act, or is necessary in the interest of national security. Secretarial review shall only be initiated after the completion of State agency review pursuant to the relevant subpart. The Secretary's decision to review the activity may result from an independent concern regarding the activity or a request from interested parties. If the Secretary decides to initiate review, notification shall be sent to the applicant, person or applicant agency, and to the relevant Federal and State agencies. The notice shall include a statement describing the reasons for the review.
+
+(b) With the exception of application and processing fees, all other provisions under this subpart governing the processing and administering of appeals will apply to Secretarial reviews initiated under this section.

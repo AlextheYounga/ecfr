@@ -1,0 +1,5 @@
+##### § 123.25 Certification and disposition of manifests. #####
+
+(a) *Certification.* Conveyances proceeding under the provisions of this subpart shall not proceed until the Customs inspector has certified the in-transit manifest or verified its certification by the carrier. The port director may require the carrier to execute the certificate as an alternative to certification by the Customs officer. When the carrier is to execute the certificate, and the merchandise will be forwarded without being under Customs seals, the agent of the carrier shall carefully examine the packages covered by the manifests to satisfy himself that the merchandise agrees with the manifest as to quantity and description.
+
+(b) *Disposition of manifest.* The original manifest, after certification, shall accompany the merchandise. Additional copies required when the merchandise is to be transshipped in Canada or Mexico under Customs supervision shall be given to the person in charge of the conveyance for delivery to the Customs officers who will supervise transshipment.

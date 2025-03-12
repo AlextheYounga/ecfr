@@ -1,0 +1,7 @@
+##### § 20.58 Rate of interest. #####
+
+(a) The rate of interest assessed shall be the rate of the current value of funds to the United States Treasury as published in the Federal Register (as of the date the notice is sent), unless another rate is specified by statute, regulations or preexisting contract condition. The Office of the Chief Financial Officer will notify agencies promptly of the current Treasury rate. The responsible agency may assess a higher rate of interest if it reasonably determines that a higher rate is necessary to protect the interests of the United States, and such rate is agreed to by the Chief Financial Officer (or his designee). The rate of interest prescribed in section 6621 of the Internal Revenue Code shall be sought for backwages recovered in litigation by the Department.
+
+(b) The rate of interest as initially assessed shall remain fixed for the duration of the indebtedness, except that where a debtor has defaulted on a repayment agreement and seeks to enter into a new agreement, the agency may set a new interest rate which reflects the current value of funds to the Treasury at the time the new agreement is executed.
+
+(c) Interest shall not be assessed on interest, penalties or administrative costs required by this subpart. However, if the debtor defaults on a previous repayment agreement, charges which accrued but were not collected under the defaulted agreement shall be added to the principal to be paid under a new repayment agreement.

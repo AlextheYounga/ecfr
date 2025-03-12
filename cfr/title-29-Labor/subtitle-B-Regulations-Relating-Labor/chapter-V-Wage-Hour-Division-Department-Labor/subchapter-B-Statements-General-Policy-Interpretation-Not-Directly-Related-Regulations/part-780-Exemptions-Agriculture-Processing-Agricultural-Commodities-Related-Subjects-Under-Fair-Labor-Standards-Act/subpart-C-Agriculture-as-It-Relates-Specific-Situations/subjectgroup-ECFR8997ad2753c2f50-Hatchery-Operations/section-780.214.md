@@ -1,0 +1,3 @@
+##### § 780.214 Feed sales and other activities. #####
+
+In some situations, the hatchery also operates a feed store and furnishes feed to the growers. As in the case of the produce business operated by a hatchery, this is not an agricultural activity and employees engaged therein, such as truckdrivers hauling feed to growers, are not agricultural employees. Also office workers and other employees are not employed in agriculture when their duties relate to nonagricultural activities.

@@ -1,0 +1,3 @@
+##### § 26.32 Recreational uses. #####
+
+Recreational uses such as, but not limited to, sightseeing, nature observation and photography, interpretive centers and exhibits, hunting and fishing, bathing, boating, camping, ice skating, picnicking, swimming, water skiing, and other similar activities may be permitted on national wildlife refuges. When such uses are permitted the public will be notified under the provisions of this subchapter C.

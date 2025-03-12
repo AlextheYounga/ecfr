@@ -1,0 +1,5 @@
+##### § 636.506 What issues must be covered in discussions? #####
+
+(a) Discussions should be tailored to each offeror's proposal. Discussions must cover significant weaknesses, deficiencies, and other aspects of a proposal (such as cost or price, technical approach, past performance, and terms and conditions) that could be altered or explained to enhance materially the proposal's potential for award. You may use your judgment in setting limits for the scope and extent of discussions.
+
+(b) In situations where the solicitation stated that evaluation credit would be given for technical solutions exceeding any mandatory minimums, you may hold discussions regarding increased performance beyond any mandatory minimums, and you may suggest to offerors that have exceeded any mandatory minimums (in ways that are not integral to the design), that their proposals would be more competitive if the excesses were removed and the offered price decreased.

@@ -1,0 +1,3 @@
+##### § 452.28 Unopposed candidates. #####
+
+An election of officers or delegates that would otherwise be required by the Act to be held by secret ballot need not be held by secret ballot when all candidates are unopposed and the following conditions are met: (a) The union provides a reasonable opportunity for nominations; (b) write-in votes are not permitted, as evidenced by provisions in the constitution and bylaws, by an official interpretation fairly placed on such documents, or by established union practice; and (c) the union complies with all other provisions of title IV.

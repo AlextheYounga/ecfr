@@ -1,0 +1,3 @@
+##### § 785.31 Special situations. #####
+
+There are some special situations where the time spent in attending lectures, training sessions and courses of instruction is not regarded as hours worked. For example, an employer may establish for the benefit of his employees a program of instruction which corresponds to courses offered by independent bona fide institutions of learning. Voluntary attendance by an employee at such courses outside of working hours would not be hours worked even if they are directly related to his job, or paid for by the employer.

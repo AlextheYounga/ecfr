@@ -1,0 +1,5 @@
+##### § 965.501 Applicability. #####
+
+(a) This subpart E applies to public housing, including the Turnkey III Homeownership Opportunities program. This subpart E also applies to units assisted under sections 10(c) and 23 of the U. S. Housing Act of 1937 (42 U.S.C. 1437 *et seq.*) as in effect before amendment by the Housing and Community Development Act of 1974 (12 U.S.C. 1706e) and to which 24 CFR part 900 is not applicable. This subpart E does not apply to Indian housing projects (see 24 CFR part 950).
+
+(b) In rental units for which utilities are furnished by the PHA but there are no checkmeters to measure the actual utilities consumption of the individual units, residents shall be subject to charges for consumption by resident-owned major appliances, or for optional functions of PHA-furnished equipment, in accordance with § 965.502(e) and 965.506(b), but no utility allowance will be established.

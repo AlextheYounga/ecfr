@@ -1,0 +1,11 @@
+##### § 600.925 NMFS EFH Conservation Recommendations to Federal and state agencies. #####
+
+(a) *General.* Under section 305(b)(4)(A) of the Magnuson-Stevens Act, NMFS is required to provide EFH Conservation Recommendations to Federal and state agencies for actions that would adversely affect EFH. NMFS will not recommend that state or Federal agencies take actions beyond their statutory authority.
+
+(b) *Recommendations to Federal agencies.* For Federal actions, EFH Conservation Recommendations will be provided to Federal agencies as part of EFH consultations conducted pursuant to § 600.920. If NMFS becomes aware of a Federal action that would adversely affect EFH, but for which a Federal agency has not initiated an EFH consultation, NMFS may request that the Federal agency initiate EFH consultation, or NMFS will provide EFH Conservation Recommendations based on the information available.
+
+(c) *Recommendations to state agencies*—(1) *Establishment of procedures.* The Magnuson-Stevens Act does not require state agencies to consult with the Secretary regarding EFH. NMFS will use existing coordination procedures or establish new procedures to identify state actions that may adversely affect EFH, and to determine the most appropriate method for providing EFH Conservation Recommendations to state agencies.
+
+(2) *Coordination with states on recommendations to Federal agencies.* When an action that would adversely affect EFH is authorized, funded, or undertaken by both Federal and state agencies, NMFS will provide the appropriate state agencies with copies of EFH Conservation Recommendations developed as part of the Federal consultation procedures in § 600.920. NMFS will also seek agreements on sharing information and copies of recommendations with Federal or state agencies conducting similar consultation and recommendation processes to ensure coordination of such efforts.
+
+(d) *Coordination with Councils.* NMFS will coordinate with each Council to identify the types of actions on which Councils intend to comment pursuant to section 305(b)(3) of the Magnuson-Stevens Act. For such actions NMFS will share pertinent information with the Council, including copies of NMFS' EFH Conservation Recommendations.

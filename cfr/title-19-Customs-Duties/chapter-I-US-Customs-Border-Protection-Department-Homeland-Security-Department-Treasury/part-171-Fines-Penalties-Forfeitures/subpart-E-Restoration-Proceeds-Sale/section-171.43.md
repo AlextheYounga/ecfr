@@ -1,0 +1,3 @@
+##### § 171.43 Evidence required. #####
+
+In addition to such other evidence as may be required under the provisions of subpart A of this part, the petition for restoration of proceeds of sale under section 613, Tariff Act of 1930, as amended (19 U.S.C. 1613), must show the interest of the petitioner in the property. The petition must be supported by satisfactory proof that the petitioner did not know of the seizure prior to the declaration or decree of forfeiture and was in such circumstances as prevented him from knowing of it.

@@ -1,0 +1,27 @@
+##### § 30.15 State Apprenticeship Councils. #####
+
+(a) *Adoption of consistent state plans.* (1) The Department shall encourage State Apprenticeship Councils to adopt and implement the requirements of this part.
+
+(2) Within 60 days of the effective date of these regulations, each State Apprenticeship Council shall complete development of a revised equal opportunity plan which shall be consistent with this part. The revised State plan shall require all state apprenticeship programs registered with the State Apprenticeship Council to comply with the requirements of the revised State plan within 90 days of the effective date of these regulations. No State Apprenticeship Council shall continue to be recognized by the Department if it has not adopted within 60 days of the effective date of these regulations a plan implementing the requirements of this part.
+
+(3) The Department retains authority to conduct compliance reviews and complaint investigations to determine whether the state plan or any state apprenticeship program registered with a State Apprenticeship Council is being administered or operated in accordance with this part.
+
+(4) It shall be the responsibility of the State Apprenticeship Council to take the necessary action to bring a noncomplying program into compliance with the state plan. In the event the State Apprenticeship Council fails to fulfill this responsibility, the Secretary may withdraw the recognition for Federal purposes of any or all state apprenticeship programs, in accordance with the procedures of deregistration of programs registered by the Department, or refer the matter to the Equal Employment Opportunity Commission or to the Attorney General with a recommendation for the institution of a court action under title VII of the Civil Rights Act of 1964, as amended, or to the Attorney General for other court actions as authorized by law.
+
+(5) Each State Apprenticeship Council shall notify the Department of any state apprenticeship program deregistered by it.
+
+(6) Any state apprenticeship program deregistered by a State Apprenticeship Council for noncompliance with requirements of this part may, within 15 days of the receipt of a notice of deregistration, appeal to the Department to set aside the determination of the State Apprenticeship Council. The Department shall make its determination on the basis of the record. The Department may grant the state program sponsor, the State Apprenticeship Council and the complainant(s), if any, the opportunity to present oral or written argument.
+
+(b) *Withdrawal of recognition.* (1) Whenever the Department determines that reasonable cause exists to believe that State Apprenticeship Council has not adopted or implemented a plan in accordance with the equal opportunity requirements of this part, it shall give notice to such State Apprenticeship Council and to appropriate state sponsors of this determination, stating specifically wherein the state's plan fails to meet such requirements and that the Department proposes to withdraw recognition for Federal purposes, from the State Apprenticeship Council unless within 15 days of the receipt of the notice, the State Apprenticeship Council complies with the provisions of this part or mails a request for a hearing to the Secretary.
+
+(2) If within 15 days of the receipt of the notice provided for in subparagraph (b)(1) of this section the State Apprenticeship Council neither complies with the provisions of this part, nor mails a request for a hearing, the Secretary shall notify the State Apprenticeship Council of the withdrawal of recognition.
+
+(3) If within 15 days of the receipt of the notice provided for in subparagraph (b)(1) of this section the State Apprenticeship Council mails a request for a hearing, the Secretary shall proceed in accordance with § 30.16.
+
+(4) If a hearing is conducted in accordance with § 30.16, the Secretary upon receipt of the proposed findings and recommended decision of the hearing officer shall make a final decision whether the State Apprenticeship Council has adopted or implemented a plan in accordance with the equal opportunity requirements of this part.
+
+(5) If the Secretary determines to withdraw recognition, for Federal purposes, from the State Apprenticeship Council, the Secretary shall notify the State Apprenticeship Council of this determination. The Secretary shall also notify the State sponsors that within 30 days of the receipt of the notice the Department shall cease to recognize, for Federal purposes, each State apprenticeship program unless the State program sponsor requests registration with the Department. Such registration may be granted contingent upon finding that the State apprenticeship program is operating in accordance with the requirements of this part.
+
+(6) A State Apprenticeship Council whose recognition has been withdrawn pursuant to this part may have its recognition reinstated upon presentation of adequate evidence to the Secretary that it has adopted and implemented a plan carrying out the equal opportunity requirements of this part.
+
+(Approved by the Office of Management and Budget under control number 1205-0224)[43 FR 20760, May 12, 1978, as amended at 49 FR 18295, Apr. 30, 1984]

@@ -1,0 +1,3 @@
+##### § 140.902 Applicability. #####
+
+This subpart, and all references hereinafter made to “projects,” applies to Federal-aid projects involving railroad facilities, including projects for the elimination of hazards of railroad-highway crossings, and other projects which use railroad properties or which involve adjustments required by highway construction to either railroad facilities or facilities that are jointly owned or used by railroad and utility companies.

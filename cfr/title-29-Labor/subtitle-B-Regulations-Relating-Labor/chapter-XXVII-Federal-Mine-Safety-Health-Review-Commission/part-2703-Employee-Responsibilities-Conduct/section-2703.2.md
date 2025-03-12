@@ -1,0 +1,3 @@
+##### § 2703.2 Designated agency ethics official and alternate designated agency ethics official. #####
+
+The Chairman shall appoint an individual to serve as the designated agency ethics official, and an individual to serve in an acting capacity in the absence of the primary designated agency ethics official (alternate designated agency ethics official), to coordinate and manage the Commission's ethics program.

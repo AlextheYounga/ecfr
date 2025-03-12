@@ -1,0 +1,7 @@
+##### § 570.501 Responsibility for grant administration. #####
+
+(a) One or more public agencies, including existing local public agencies, may be designated by the chief executive officer of the recipient to undertake activities assisted by this part. A public agency so designated shall be subject to the same requirements as are applicable to subrecipients.
+
+(b) The recipient is responsible for ensuring that CDBG funds are used in accordance with all program requirements. The use of designated public agencies, subrecipients, or contractors does not relieve the recipient of this responsibility. The recipient is also responsible for determining the adequacy of performance under subrecipient agreements and procurement contracts, and for taking appropriate action when performance problems arise, such as the actions described in § 570.910. Where a unit of general local government is participating with, or as part of, an urban county, or as part of a metropolitan city, the recipient is responsible for applying to the unit of general local government the same requirements as are applicable to subrecipients, except that the five-year period identified under § 570.503(b)(8)(i) shall begin with the date that the unit of general local government is no longer considered by HUD to be a part of the metropolitan city or urban county, as applicable, instead of the date that the subrecipient agreement expires.
+
+[53 FR 8058, Mar. 11, 1988, as amended at 57 FR 27120, June 17, 1992]

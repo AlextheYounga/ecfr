@@ -1,0 +1,5 @@
+##### § 32.14 Job qualifications. #####
+
+(a) The recipient shall provide for, and shall adhere to, a schedule for the review of the appropriateness of all job qualifications to ensure that to the extent job qualifications tend to exclude handicapped individuals because of their handicap, they are related to the performance of the job and are consistent with business necessity and safe performance.
+
+(b) Whenever a recipient applies job qualifications in the selection of applicants, employees or participants for employment or training or other change in employment status such as promotion, demotion or training, which would tend to exclude handicapped individuals because of their handicap, the qualifications shall be related to the specific job or jobs for which the individual is being considered and shall be consistent with business necessity and safe performance. The recipient shall have the burden to demonstrate that it has complied with the requirements of this paragraph.

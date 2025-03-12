@@ -1,0 +1,3 @@
+##### § 4231.4 Preservation of accrued benefits. #####
+
+Section 4231(b)(2) of ERISA and § 4231.3(a)(1) require that no participant's or beneficiary's accrued benefit may be lower immediately after the effective date of the merger or transfer than the benefit immediately before the merger or transfer. A plan that assumes an obligation to pay benefits for a group of participants satisfies this requirement only if the plan contains a provision preserving all accrued benefits. The determination of what is an accrued benefit must be made in accordance with section 411 of the Code and the regulations thereunder.

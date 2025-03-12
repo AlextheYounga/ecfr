@@ -1,0 +1,3 @@
+##### § 140.803 Policy. #####
+
+Project related audits performed in accordance with generally accepted auditing standards (as modified by the Comptroller General of the United States) and applicable Federal laws and regulations are eligible for Federal participation. The State highway agency (SHA) may use other State, local public agency, and Federal audit organizations as well as licensed or certified public accounting firms to augment its audit force.

@@ -1,0 +1,3 @@
+##### § 158.25 Partial destruction or injury. #####
+
+In the case of partial destruction or injury, no application shall be entertained unless the port director shall have had an opportunity to examine the merchandise or the remainder thereof for the purpose of fixing the percentage of injury or destruction. Whether the duty involved is ad valorem, specific, or compound, the percentage of injury for the purpose of the allowance shall be determined by comparing the market value of comparable sound merchandise with the net salvage value of the injured merchandise computed on the basis of the market value of comparable injured merchandise, such comparison to be made as of the time and place of examination.

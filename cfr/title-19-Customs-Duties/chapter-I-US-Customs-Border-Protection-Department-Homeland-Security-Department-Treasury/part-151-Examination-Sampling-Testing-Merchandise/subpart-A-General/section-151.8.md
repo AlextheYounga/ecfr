@@ -1,0 +1,7 @@
+##### § 151.8 Examination after assembly. #####
+
+(a) *Application by importer.* Upon application by the importer, machinery, altars, shrines, and other articles which must be set up or assembled prior to examination may be examined at the mill, factory, or other suitable place after being assembled.
+
+(b) *Conditions applicable.* The importer shall comply with the conditions set forth in § 151.7 (b) through (d). The port director may also require that a deposit be made of the estimated additional expense. The packages need not be corded and sealed in accordance with § 151.7(a), but the port director may make such preliminary examination as he deems necessary to identify the merchandise with the invoice.
+
+(c) *Removal of merchandise and notification of assembly.* After the bond required by § 151.7(d) has been filed and any necessary preliminary examination has been made, the port director may permit the merchandise to be removed to the place at which it is to be assembled for examination. Within 90 days after such removal, unless an extension has been applied for and granted by the port director, the importer shall notify the port director that the merchandise has been assembled and is ready for examination, whereupon final examination shall be made.

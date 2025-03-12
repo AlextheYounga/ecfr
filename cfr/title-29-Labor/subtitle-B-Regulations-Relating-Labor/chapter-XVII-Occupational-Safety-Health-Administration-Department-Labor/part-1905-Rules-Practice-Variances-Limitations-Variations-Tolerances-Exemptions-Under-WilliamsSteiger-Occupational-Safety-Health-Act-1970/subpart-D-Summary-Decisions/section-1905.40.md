@@ -1,0 +1,13 @@
+##### § 1905.40 Motion for summary decision. #####
+
+(a) Any party may, at least 20 days before the date fixed for any hearing under subpart C of this part, move with or without supporting affidavits for a summary decision in his favor on all or any part of the proceeding. Any other party may, within 10 days after service of the motion, serve opposing affidavits or countermove for summary decision. The presiding hearing examiner may, in his discretion, set the matter for argument and call for the submission of briefs.
+
+(b) The filing of any documents under paragraph (a) of this section shall be with the hearing examiner, and copies of any such documents shall be served in accordance with § 1905.21.
+
+(c) The hearing examiner may grant such motion if the pleadings, affidavits, material obtained by discovery or otherwise obtained, or matters officially noticed show that there is no genuine issue as to any material fact and that a party is entitled to summary decision. The hearing examiner may deny such motion whenever the moving party denies access to information by means of discovery to a party opposing the motion.
+
+(d) Affidavits shall set forth such facts as would be admissible in evidence in a proceeding subject to 5 U.S.C. 556 and 557 and shall show affirmatively that the affiant is competent to testify to the matters stated therein. When a motion for summary decision is made and supported as provided in this section, a party opposing the motion may not rest upon the mere allegations or denials of his pleading; his response must set forth specific facts showing that there is a genuine issue of fact for the hearing.
+
+(e) Should it appear from the affidavits of a party opposing the motion that he cannot for reasons stated present by affidavit facts essential to justify his opposition, the hearing examiner may deny the motion for summary decision or may order a continuance to permit affidavits to be obtained or discovery to be had or may make such other order as is just.
+
+(f) The denial of all or any part of a motion for summary decision by the hearing examiner shall not be subject to interlocutory appeal to the Assistant Secretary unless the hearing examiner certifies in writing (1) that the ruling involves an important question of law or policy as to which there is substantial ground for difference of opinion, and (2) that an immediate appeal from the ruling may materially advance the ultimate termination of the proceeding. The allowance of such an interlocutory appeal shall not stay the proceeding before the hearing examiner unless the Assistant Secretary shall so order.

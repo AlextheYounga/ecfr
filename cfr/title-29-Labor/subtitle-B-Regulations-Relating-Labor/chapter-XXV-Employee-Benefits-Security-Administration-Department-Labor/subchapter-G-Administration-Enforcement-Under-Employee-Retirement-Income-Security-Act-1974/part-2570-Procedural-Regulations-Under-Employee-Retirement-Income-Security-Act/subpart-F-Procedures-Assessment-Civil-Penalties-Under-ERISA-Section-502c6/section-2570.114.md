@@ -1,0 +1,5 @@
+##### § 2570.114 Consequences of default. #####
+
+For 502(c)(6) civil penalty proceedings, this section shall apply in lieu of § 18.5(a) and (b) of this title. Failure of the respondent to file an answer to the notice of determination described in § 2560.502c-6(g) of this chapter within the 30 day period provided by § 2560.502c-6(h) of this chapter shall be deemed to constitute a waiver of his or her right to appear and contest the allegations of the notice of determination, and such failure shall be deemed to be an admission of the facts as alleged in the notice for purposes of any proceeding involving the assessment of a civil penalty under section 502(c)(6) of the Act. Such notice shall then become the final order of the Secretary, within the meaning of § 2570.111(g) of this subpart, forty-five (45) days from the date of service of the notice.
+
+[68 FR 3738, Jan. 24, 2003]

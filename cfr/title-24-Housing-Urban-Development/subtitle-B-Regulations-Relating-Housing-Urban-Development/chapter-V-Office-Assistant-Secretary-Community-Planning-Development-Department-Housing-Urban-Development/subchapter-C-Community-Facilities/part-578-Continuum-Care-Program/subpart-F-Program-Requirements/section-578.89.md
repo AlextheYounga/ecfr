@@ -1,0 +1,7 @@
+##### § 578.89 Limitation on use of grant funds to serve persons defined as homeless under other federal laws. #####
+
+(a) *Application requirement.* Applicants that intend to serve unaccompanied youth and families with children and youth defined as homeless under other federal laws in paragraph (3) of the homeless definition in § 576.2 must demonstrate in their application, to HUD's satisfaction, that the use of grant funds to serve such persons is an equal or greater priority than serving persons defined as homeless under paragraphs (1), (2), and (4) of the definition of homeless in § 576.2. To demonstrate that it is of equal or greater priority, applicants must show that it is equally or more cost effective in meeting the overall goals and objectives of the plan submitted under section 427(b)(1)(B) of the Act, especially with respect to children and unaccompanied youth.
+
+(b) *Limit.* No more than 10 percent of the funds awarded to recipients within a single Continuum of Care's geographic area may be used to serve such persons.
+
+(c) *Exception.* The 10 percent limitation does not apply to Continuums in which the rate of homelessness, as calculated in the most recent point-in-time count, is less than one-tenth of one percent of the total population.

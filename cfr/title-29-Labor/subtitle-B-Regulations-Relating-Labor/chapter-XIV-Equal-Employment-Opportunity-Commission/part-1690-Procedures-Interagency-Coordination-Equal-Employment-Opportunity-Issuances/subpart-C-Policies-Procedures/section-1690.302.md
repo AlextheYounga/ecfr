@@ -1,0 +1,3 @@
+##### § 1690.302 Issuances proposed by EEOC. #####
+
+Whenever the EEOC proposes to develop a significant issuance or any issuance requiring consultation, the procedure outlined in these regulations, shall also apply, as set forth in section 1-303 of the Order. The EEOC shall advise and consult with other affected agencies whenever it develops an issuance, in the same manner and to the same extent as other agencies are required to do in § 1690.301 of this part, and in other sections below.

@@ -1,0 +1,7 @@
+##### § 1630.10 Qualification standards, tests, and other selection criteria. #####
+
+(a) *In general.* It is unlawful for a covered entity to use qualification standards, employment tests or other selection criteria that screen out or tend to screen out an individual with a disability or a class of individuals with disabilities, on the basis of disability, unless the standard, test, or other selection criteria, as used by the covered entity, is shown to be job related for the position in question and is consistent with business necessity.
+
+(b) *Qualification standards and tests related to uncorrected vision.* Notwithstanding § 1630.2(j)(1)(vi) of this part, a covered entity shall not use qualification standards, employment tests, or other selection criteria based on an individual's uncorrected vision unless the standard, test, or other selection criterion, as used by the covered entity, is shown to be job related for the position in question and is consistent with business necessity. An individual challenging a covered entity's application of a qualification standard, test, or other criterion based on uncorrected vision need not be a person with a disability, but must be adversely affected by the application of the standard, test, or other criterion.
+
+[76 FR 17002, Mar. 25, 2011]

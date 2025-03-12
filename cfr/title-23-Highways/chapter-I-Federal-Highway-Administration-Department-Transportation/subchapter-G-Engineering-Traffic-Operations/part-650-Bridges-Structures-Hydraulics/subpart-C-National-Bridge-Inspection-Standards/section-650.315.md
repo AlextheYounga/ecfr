@@ -1,0 +1,9 @@
+##### § 650.315 Inventory. #####
+
+(a) Each State or Federal agency must prepare and maintain an inventory of all bridges subject to the NBIS. Certain Structure Inventory and Appraisal (SI&A) data must be collected and retained by the State or Federal agency for collection by the FHWA as requested. A tabulation of this data is contained in the SI&A sheet distributed by the FHWA as part of the “Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges,” (December 1995) together with subsequent interim changes or the most recent version. Report the data using FHWA established procedures as outlined in the “Recording and Coding Guide for the Structure Inventory and Appraisal of the Nation's Bridges.”
+
+(b) For routine, in-depth, fracture critical member, underwater, damage and special inspections enter the SI&A data into the State or Federal agency inventory within 90 days of the date of inspection for State or Federal agency bridges and within 180 days of the date of inspection for all other bridges.
+
+(c) For existing bridge modifications that alter previously recorded data and for new bridges, enter the SI&A data into the State or Federal agency inventory within 90 days after the completion of the work for State or Federal agency bridges and within 180 days after the completion of the work for all other bridges.
+
+(d) For changes in load restriction or closure status, enter the SI&A data into the State or Federal agency inventory within 90 days after the change in status of the structure for State or Federal agency bridges and within 180 days after the change in status of the structure for all other bridges.

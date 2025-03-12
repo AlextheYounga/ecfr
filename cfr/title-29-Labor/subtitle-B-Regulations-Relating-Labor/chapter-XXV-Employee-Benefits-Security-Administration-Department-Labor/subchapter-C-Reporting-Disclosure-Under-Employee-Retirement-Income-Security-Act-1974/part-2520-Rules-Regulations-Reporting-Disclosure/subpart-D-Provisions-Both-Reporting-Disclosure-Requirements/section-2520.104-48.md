@@ -1,0 +1,11 @@
+##### § 2520.104-48 Alternative method of compliance for model simplified employee pensions—IRS Form 5305-SEP. #####
+
+Under the authority of section 110 of the Act the provisions of this section are prescribed as an alternative method of compliance with the reporting and disclosure requirements set forth in part 1 of title I of the Employee Retirement Income Security Act of 1974 in the case of a simplified employee pension (SEP) described in section 408(k) of the Internal Revenue Code of 1954 as amended (the Code) that is created by use without modification of Internal Revenue Service (IRS) Form *5305-SEP.*
+
+(a) At the time an employee becomes eligible to participate in the SEP (whether at the creation of the SEP or thereafter), the administrator of the SEP (generally the employer establishing and maintaining the SEP) shall furnish the employee with a copy of the completed and unmodified IRS Form *5305-SEP* used to create the SEP, including (1) the completed Contribution Agreement, (2) the General Information and Guidelines, and (3) the Questions and Answers.
+
+(b) Following the end of each calendar year the administrator of the SEP shall notify each participant in the SEP in writing of any employer contributions made under the Contribution Agreement to the participant's individual retirement account or individual retirement annuity (IRA) for that year.
+
+(c) If the employer establishing and maintaining the SEP selects, recommends, or in any other way influences employees to choose a particular IRA or type of IRA into which contributions under the SEP will be made, and if that IRA is subject to restrictions on a participant's ability to withdraw funds (other than restrictions imposed by the Code that apply to all IRAs), the administrator of the SEP shall give to each employee, in writing, within 90 days of the adoption of this regulation or at the time such employee becomes eligible to participate in the SEP, whichever is later, a clear explanation of those restrictions and a statement to the effect that other IRAs, into which rollovers or employee contributions may be made, may not be subject to such restrictions.
+
+[45 FR 24869, Apr. 11, 1980]

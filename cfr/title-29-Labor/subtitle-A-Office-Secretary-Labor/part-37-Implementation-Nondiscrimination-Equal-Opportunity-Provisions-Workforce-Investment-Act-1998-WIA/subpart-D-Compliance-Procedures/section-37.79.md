@@ -1,0 +1,3 @@
+##### § 37.79 If, before the 90-day period has expired, a recipient issues a Notice of Final Action with which the complainant is dissatisfied, how long does the complainant have to file a complaint with the Director? #####
+
+If, during the 90-day period, the recipient issues its Notice of Final Action, but the complainant is dissatisfied with the recipient's decision on the complaint, the complainant or his/her representative may file a complaint with the Director within 30 days after the date on which the complainant receives the Notice.

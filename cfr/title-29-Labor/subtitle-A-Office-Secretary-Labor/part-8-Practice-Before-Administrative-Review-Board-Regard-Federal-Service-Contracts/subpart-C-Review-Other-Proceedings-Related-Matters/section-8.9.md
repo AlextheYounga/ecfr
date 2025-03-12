@@ -1,0 +1,5 @@
+##### § 8.9 Disposition by the Administrative Review Board. #####
+
+(a) The Board may decline review of any case whenever in its judgment review would be inappropriate because of lack of timeliness, the nature of the relief sought, the case involves only settled issues of law, the appeal is frivolous on its face, or other reasons. A case will be reviewed upon the affirmative vote of one member.
+
+(b) In issuing its decision the Board will take into consideration procurement deadlines where appropriate. The Board shall pass upon the points raised in the petition upon the basis of the entire record before it. The Board may affirm, modify or set aside, in whole or in part, the decision under review and shall issue a decision including a statement of reasons or bases for the actions taken. The Board shall modify or set aside findings of fact only when it determines that those findings are not supported by a preponderance of the evidence. In any remand of a case as provided in § 8.1(e) of this title, the Board shall include any appropriate instructions.

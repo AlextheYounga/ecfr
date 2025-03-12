@@ -1,0 +1,3 @@
+##### § 930.30 Objectives. #####
+
+The provisions of this subpart are intended to assure that all Federal agency activities including development projects affecting any coastal use or resource will be undertaken in a manner consistent to the maximum extent practicable with the enforceable policies of approved management programs. The provisions of subpart I of this part are intended to supplement the provisions of this subpart for Federal agency activities having interstate coastal effects.

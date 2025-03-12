@@ -1,0 +1,7 @@
+##### § 175.21 Notice of filing of petition, inspection of petition, and inspection of documents and papers. #####
+
+(a) *Notice of filing of petition.* Upon the filing of a petition, a notice shall be published in the Federal Register setting forth that a petition has been filed by a domestic interested party, identifying the merchandise which is the subject of the petition, and its present and claimed appraised value or classification or rate of duty. The notice shall invite interested persons to make such written submissions as they desire within such time as is specified in the notice.
+
+(b) *Inspection of petition; inspection of documents and papers.* The petition filed by a domestic interested party will be made available for inspection by interested parties in accordance with the provisions of 5 U.S.C. 552(a). However, neither a petitioner nor other interested parties will in any case be permitted to inspect documents or papers of the importer of record which are exempted from disclosure by 5 U.S.C. 552(b)(4). Identifying data is not to be deleted from petitions filed by American manufacturers, producers, and wholesalers pursuant to section 516, Tariff Act of 1930, as amended (19 U.S.C. 1516).
+
+(R.S. 251, as amended, secs. 516, 624, 46 Stat. 735, as amended, 759; 5 U.S.C. 552, 19 U.S.C. 66, 1516, 1624)[T.D. 74-236, 39 FR 33207, Sept. 16, 1974, as amended by T.D. 80-271, 45 FR 75642, Nov. 17, 1980; T.D. 81-168, 46 FR 32574, June 24, 1981; CBP Dec. 15-16, 80 FR 71693, Nov. 17, 2015]

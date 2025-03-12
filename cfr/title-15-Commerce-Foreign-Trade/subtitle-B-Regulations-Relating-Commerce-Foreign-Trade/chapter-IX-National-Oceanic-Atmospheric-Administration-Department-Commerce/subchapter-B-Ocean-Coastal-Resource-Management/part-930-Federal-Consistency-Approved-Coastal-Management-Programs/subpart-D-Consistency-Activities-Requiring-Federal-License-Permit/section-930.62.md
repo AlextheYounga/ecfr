@@ -1,0 +1,9 @@
+##### § 930.62 State agency concurrence with a consistency certification. #####
+
+(a) At the earliest practicable time, the State agency shall notify the Federal agency and the applicant whether the State agency concurs with or objects to a consistency certification. The State agency may issue a general concurrence for minor activities (*see* § 930.53(b)). Concurrence by the State agency shall be conclusively presumed if the State agency's response is not received within six months following commencement of State agency review.
+
+(b) If the State agency has not issued a decision within three months following commencement of State agency review, it shall notify the applicant and the Federal agency of the status of the matter and the basis for further delay.
+
+(c) If the State agency issues a concurrence or is conclusively presumed to concur with the applicant's consistency certification, the Federal agency may approve the federal license or permit application. Notwithstanding State agency concurrence with a consistency certification, the federal permitting agency may deny approval of the federal license or permit application. Federal agencies should not delay processing applications pending receipt of a State agency's concurrence. In the event a Federal agency determines that an application will not be approved, it shall immediately notify the applicant and the State agency.
+
+(d) During the period when the State agency is reviewing the consistency certification, the applicant and the State agency should attempt, if necessary, to agree upon conditions, which, if met by the applicant, would permit State agency concurrence. The parties shall also consult with the Federal agency responsible for approving the federal license or permit to ensure that proposed conditions satisfy federal as well as management program requirements (*see also* § 930.4).

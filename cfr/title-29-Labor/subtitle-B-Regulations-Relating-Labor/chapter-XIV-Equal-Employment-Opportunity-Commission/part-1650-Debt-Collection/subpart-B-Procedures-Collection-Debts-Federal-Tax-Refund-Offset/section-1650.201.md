@@ -1,0 +1,3 @@
+##### § 1650.201 Purpose. #####
+
+This subpart establishes procedures for EEOC to refer past-due legally enforceable debts to the Department of the Treasury (Treasury) for offset against the income tax refunds of persons owing debts to EEOC pursuant to 31 U.S.C. 3720A and 31 CFR 285.2. The general standards and procedures governing the collection, compromise, termination, and referral to the Department of Justice of claims for money and property that are prescribed in the regulations issued jointly by the Secretary of the Treasury and the Attorney General of the United States, the Federal Claims Collection Standards (31 CFR parts 900-904), apply to the administrative collection activities of the EEOC.

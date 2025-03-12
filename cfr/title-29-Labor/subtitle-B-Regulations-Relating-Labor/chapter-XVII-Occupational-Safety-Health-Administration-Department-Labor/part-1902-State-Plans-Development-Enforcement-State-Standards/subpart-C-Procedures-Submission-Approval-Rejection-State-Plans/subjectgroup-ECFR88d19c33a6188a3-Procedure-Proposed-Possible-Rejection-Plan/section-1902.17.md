@@ -1,0 +1,3 @@
+##### § 1902.17 The proceeding. #####
+
+Whenever as a result of (a) an initial examination of a plan, or (b) written or oral comments concerning a plan submitted in an informal rulemaking proceeding concerning a proposed approval of a plan or any subject or issue concerning the plan, the Assistant Secretary proposes to reject a plan or rejection remains in issue for any reason, he shall follow the procedures prescribed in the remaining sections of this subpart.

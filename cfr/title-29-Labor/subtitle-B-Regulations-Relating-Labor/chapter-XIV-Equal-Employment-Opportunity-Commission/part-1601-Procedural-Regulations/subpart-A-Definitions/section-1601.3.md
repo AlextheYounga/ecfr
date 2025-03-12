@@ -1,0 +1,7 @@
+##### § 1601.3 Other definitions. #####
+
+(a) For the purposes of this part, the term *title VII* shall mean title VII of the Civil Rights Act of 1964; the term *ADA* shall mean the Americans with Disabilities Act of 1990; the term *GINA* shall mean the Genetic Information Nondiscrimination Act of 2008; the term *Commission* shall mean the Equal Employment Opportunity Commission or any of its designated representatives; *Washington Field Office* shall mean the Commission's primary non-Headquarters office serving the District of Columbia and surrounding Maryland and Virginia suburban counties and jurisdictions; the term *FEP agency* shall mean a State or local agency which the Commission has determined satisfies the criteria stated in section 706(c) of title VII; and the term *verified* shall mean sworn to or affirmed before a notary public, designated representative of the Commission, or other person duly authorized by law to administer oaths and take acknowledgements, or supported by an unsworn declaration in writing under penalty of perjury.
+
+(b) The delegations of authority in subpart B of this part are applicable to charges filed pursuant to either section 706 or section 707 of title VII.
+
+[42 FR 55388, Oct. 14, 1977, as amended at 56 FR 9624, Mar. 7, 1991; 71 FR 26827, May 9, 2006; 74 FR 63982, Dec. 7, 2009]

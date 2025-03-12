@@ -1,0 +1,3 @@
+##### § 5.327 Nuisance or threat to health or safety. #####
+
+Nothing in this subpart C prohibits a project owner, PHA, or an appropriate community authority from requiring the removal of any pet from a project, if the pet's conduct or condition is duly determined to constitute, under the provisions of State or local law, a nuisance or a threat to the health or safety of other occupants of the project or of other persons in the community where the project is located.

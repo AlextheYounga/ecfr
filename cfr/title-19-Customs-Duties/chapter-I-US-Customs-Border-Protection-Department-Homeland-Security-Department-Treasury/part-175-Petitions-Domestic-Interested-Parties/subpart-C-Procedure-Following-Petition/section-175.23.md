@@ -1,0 +1,3 @@
+##### § 175.23 Notice of desire to contest decision. #####
+
+If the petitioner is dissatisfied with the decision of the Commissioner that the appraised value, classification, or rate of duty is correct for the merchandise which was the subject of the petition, in accordance with section 516, Tariff Act of 1930, as amended (19 U.S.C. 1516) he may file with the Commissioner of Customs not later than 30 days after the date of the decision a notice that he desires to contest the appraised value of, classification of, or rate of duty assessed upon the imported merchandise. Such notice shall designate the port or ports at which such merchandise is being imported into the United States, and at which the petitioner desires to protest.

@@ -1,0 +1,3 @@
+##### § 1000.132 Are utilities considered a part of rent or homebuyer payments? #####
+
+Utilities may be considered a part of rent or homebuyer payments if a recipient decides to define rent or homebuyer payments to include utilities in its written policies on rents and homebuyer payments required by section 203(a)(1) of NAHASDA. A recipient may define rents and homebuyer payments to exclude utilities.

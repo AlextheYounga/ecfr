@@ -1,0 +1,7 @@
+##### § 1225.12 Procedures affecting States in noncompliance. #####
+
+(a) Each fiscal year, each State determined to be in noncompliance with 23 U.S.C. 163 and this part, based on NHTSA and FHWA's preliminary review of its certification, will be advised of the amount of funds expected to be withheld under § 1225.8 from apportionment, as part of the advance notice of apportionments required under 23 U.S.C. 104(e), which is ordinarily issued on July 1 of each fiscal year.
+
+(b) If NHTSA and FHWA determine that any State is not in compliance with 23 U.S.C. 163 and this part, based on the agencies' preliminary review, the State may submit documentation showing why it is in compliance. States will have until September 30 to rebut the initial determination or to come into compliance with 23 U.S.C. and this part. Documentation shall be submitted through NHTSA's Regional Administrators, who will refer the requests to appropriate NHTSA and FHWA offices for review.
+
+(c) Each fiscal year, each State determined not to be in compliance with 23 U.S.C. 163 and this part, based on NHTSA's and FHWA's final determination, will receive notice of the funds being withheld under § 1225.8 from apportionment, as part of the certification of apportionments required under 23 U.S.C. 104(e), which normally occurs on October 1 of each fiscal year.

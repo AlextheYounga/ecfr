@@ -1,0 +1,15 @@
+##### § 1650.110 Implementation of salary offset. #####
+
+(a) *Method of collection.* A debt will be collected in a lump sum or by installment deductions at officially established pay intervals from an employee's current pay account, unless the employee and the Commission agree in writing to alternate arrangements for repayment.
+
+(b) *Source of deductions.* Deductions will be made only from basic pay, special pay, incentive pay, retired pay, retainer pay or in the case of an employee not entitled to basic pay, other authorized pay.
+
+(c) *Duration of deductions.* Debts will be collected in one lump sum when possible to minimize interest costs and administrative processing fees for the employee. If the employee is financially unable to pay in one lump sum and the amount of debt exceeds 15 percent of the employee's disposable pay for an officially established pay interval, collection by offset will be made in installments. Such installment deductions will be made over a period not greater than the anticipated period of active duty or employment of the employee and, except in rare circumstances, not to exceed 3 years.
+
+(d) *Limitation on amount of deductions.* The size and frequency of installment deductions will bear a reasonable relationship to the size of the debt and the employee's ability to pay. The amount deducted for any period, however, will not exceed 15 percent of the disposable pay from which the deduction is made, unless the employee has agreed in writing to the deduction of a greater amount. Installment payments of less than $25 will be accepted only in the most unusual circumstances.
+
+(e) *When deductions may begin.* (1) If the employee files a timely request for hearing, or a proposed voluntary repayment agreement, deductions will begin in the next bi-weekly salary payment after a final decision is issued on the request or repayment proposal.
+
+(2) If the employee fails to submit a timely request for hearing or proposal for a voluntary repayment agreement, deductions will commence in the next bi-weekly salary payment after the expiration of 30 days following the employee's receipt of the Notice of Debt under 1650.105(c).
+
+(f) *Lump-sum deduction from final check.* When the employee retires, resigns, or ends his or her period of active duty before the debt is collected in full, the employee's debt will be automatically deducted from the final payments (*e.g.*, final salary payment, lump-sum leave, etc.) due the employee to the extent necessary to liquidate the debt. If the employee's final pay is not sufficient to permit all deductions to be made, the order of precedence for the deductions will be: Retirement and FICA; Medicare; Federal income taxes; health benefits; group life insurance; indebtedness due to the United States; State income taxes; and voluntary deductions and allotments.

@@ -1,0 +1,5 @@
+##### § 2204.108 Delegation of authority. #####
+
+The Commission delegates to each judge authority to entertain and, subject to § 2204.309, take final action on applications for an award of fees and expenses arising from the OSH Act cases that are assigned to the judge under section 12(j) of the OSH Act, 29 U.S.C. 661(j). However, the Commission retains its right to consider an application for an award of fees and expenses without assignment to a judge or to assign such an application to a judge other than the one to whom the underlying OSH Act case is assigned. When entertaining an application for an award of fees and expenses pursuant to this section, each judge is authorized to take any action that the Commission may take under this part, with the exception of actions provided in §§ 2204.309 and 2204.310.
+
+[46 FR 48080, Sept. 30, 1981, as amended at 74 FR 63988, Dec. 7, 2009]

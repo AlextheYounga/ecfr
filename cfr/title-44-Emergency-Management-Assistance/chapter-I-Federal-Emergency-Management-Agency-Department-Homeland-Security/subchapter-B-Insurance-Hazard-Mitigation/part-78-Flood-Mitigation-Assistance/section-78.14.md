@@ -1,0 +1,3 @@
+##### § 78.14 Alternative procedures. #####
+
+For the purposes of this part, alternative procedures are available which allow the community to coordinate directly with FEMA in implementing the program. These alternative procedures are available in the following circumstances. Native American tribes or authorized tribal organizations may submit plans and applications to the State POC or directly to the FEMA Regional Administrator . If a Governor chooses not to identify a POC to coordinate the FMA, communities may also submit plans and applications to the FEMA Regional Administrator.

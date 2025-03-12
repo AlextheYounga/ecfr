@@ -1,0 +1,3 @@
+##### § 502.0 Introduction. #####
+
+These regulations cover the enforcement of all contractual obligation provisions applicable to the employment of H-2A workers under sec. 218 of the Immigration and Nationality Act (INA), as amended by the Immigration Reform and Control Act of 1986 (IRCA). These regulations are also applicable to the employment of United States (U.S.) workers newly hired by employers of H-2A workers in the same occupations as the H-2A workers during the period of time set forth in the labor certification approved by ETA as a condition for granting H-2A certification, including any extension thereof. Such U.S. workers hired by H-2A employers are hereafter referred to as engaged in corresponding employment.

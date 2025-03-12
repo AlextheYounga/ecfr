@@ -1,0 +1,5 @@
+##### § 15.12 Requirements. #####
+
+(a) No person shall import into the United States any exotic bird except as may be permitted under the terms of a valid permit issued pursuant to the provisions of subpart C of this part and 50 CFR part 13, or in accordance with the provisions of subparts D-F of this part 15, or in accordance with the provisions of paragraph (b) of this section.
+
+(b) Any exotic bird can be imported to the United States if it was legally exported from the United States with a permit issued by the Service's Office of Management Authority, provided that the import is by the same person who exported the bird, the import is accompanied by a copy of the cleared CITES export permit or certificate issued by the Service that was used to export the exotic bird, and the Service is satisfied that the same bird is being imported as is indicted on the aforementioned permit or certificate.

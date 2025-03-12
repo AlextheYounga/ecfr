@@ -1,0 +1,3 @@
+##### § 401.9 Labor organization. #####
+
+*Labor organization* means a labor organization engaged in an industry affecting commerce and includes any organization of any kind, any agency, or employee representation committee, group, association, or plan so engaged in which employees participate and which exists for the purpose, in whole or in part, of dealing with employers concerning grievances, labor disputes, wages, rates of pay, hours, or other terms or conditions of employment, and any conference, general committee, joint or system board, or joint council so engaged which is subordinate to a national or international labor organization, other than a State or local central body.

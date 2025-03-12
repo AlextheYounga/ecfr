@@ -1,0 +1,75 @@
+##### § 19.12 How will Commerce entities offset a Federal employee's salary to collect a Commerce debt? #####
+
+(a) *Federal salary offset.* (1) Salary offset is used to collect debts owed to the United States by Commerce Department and other Federal employees. If a Federal employee owes a Commerce debt, Commerce entities may offset the employee's Federal salary to collect the Commerce debt in the manner described in this section. For information on how a Federal agency other than a Commerce entity may collect debt from the salary of a Commerce Department employee, *see* §§ 19.20 and 19.21, subpart C, of this part.
+
+(2) Nothing in this part requires a Commerce entity to collect a Commerce debt in accordance with the provisions of this section if Federal law allows otherwise. *See,* for example, 5 U.S.C. 5705 (travel advances not used for allowable travel expenses are recoverable from the employee or his estate by setoff against accrued pay and other means) and 5 U.S.C. 4108 (recovery of training expenses).
+
+(3) Commerce entities may use the administrative wage garnishment procedure described in § 19.13 of this part to collect a Commerce debt from an individual's non-Federal wages.
+
+(b) *Centralized salary offset through the Treasury Offset Program.* As described in § 19.9(a) of this part, Commerce entities will refer Commerce debts to the Bureau of the Fiscal Service for collection by administrative offset, including salary offset, through the Treasury Offset Program. When possible, Commerce entities should attempt salary offset through the Treasury Offset Program before applying the procedures in paragraph (c) of this section. *See* 5 CFR 550.1108 and 550.1109.
+
+(c) *Non-centralized salary offset for Commerce debts.* When centralized salary offset through the Treasury Offset Program is not available or appropriate, Commerce entities may collect delinquent Commerce debts through non-centralized salary offset. *See* 5 CFR 550.1109. In these cases, Commerce entities may offset a payment internally or make a request directly to a Federal payment agency to offset a salary payment to collect a delinquent Commerce debt owed by a Federal employee. If the Federal payment agency is another Commerce entity, the Commerce entity making the request shall do so through the Deputy Chief Financial Officer as described in § 19.20(c) of this part. At least thirty (30) days prior to offsetting internally or requesting a Federal agency to offset a salary payment, Commerce entities will send notice to the debtor in accordance with the requirements of § 19.4 of this part. When referring a Commerce debt for offset, Commerce entities will certify to the payment agency, in writing, that the Commerce debt is valid, delinquent and legally enforceable in the amount stated, and there are no legal bars to collection by salary offset. In addition, Commerce entities will certify that all due process and other prerequisites to salary offset have been met. *See* 5 U.S.C. 5514, 31 U.S.C. 3716(a), and this section for a description of the due process and other prerequisites for salary offset.
+
+(d) *When prior notice not required.* Commerce entities are not required to provide prior notice to an employee when the following adjustments are made by a Commerce entity to a Commerce employee's pay:
+
+(1) Any adjustment to pay arising out of any employee's election of coverage or a change in coverage under a Federal benefits program requiring periodic deductions from pay, if the amount to be recovered was accumulated over four pay periods or less;
+
+(2) A routine intra-agency adjustment of pay that is made to correct an overpayment of pay attributable to clerical or administrative errors or delays in processing pay documents, if the overpayment occurred within the four pay periods preceding the adjustment, and, at the time of such adjustment, or as soon thereafter as practical, the individual is provided written notice of the nature and the amount of the adjustment and point of contact for contesting such adjustment; or
+
+(3) Any adjustment to collect a Commerce debt amounting to $50 or less, if, at the time of such adjustment, or as soon thereafter as practical, the individual is provided written notice of the nature and the amount of the adjustment and a point of contact for contesting such adjustment.
+
+(e) *Hearing procedures*—(1) *Request for a hearing.* A Federal employee who has received a notice that his or her Commerce debt will be collected by means of salary offset may request a hearing concerning the existence or amount of the Commerce debt. The Federal employee also may request a hearing concerning the amount proposed to be deducted from the employee's pay each pay period. The employee must send any request for hearing, in writing, to the office designated in the notice described in § 19.4. *See* § 19.4(a)(11). The request must be received by the designated office on or before the 15th day following the employee's receipt of the notice. The employee must sign the request and specify whether an oral or paper hearing is requested. If an oral hearing is requested, the employee must explain why the matter cannot be resolved by review of the documentary evidence alone. All travel expenses incurred by the Federal employee in connection with an in-person hearing will be borne by the employee. *See* 31 CFR 901.3(a)(7).
+
+(2) *Failure to submit timely request for hearing.* If the employee fails to submit a request for hearing within the time period described in paragraph (e)(1) of this section, the employee will have waived the right to a hearing, and salary offset may be initiated. However, Commerce entities should accept a late request for hearing if the employee can show that the late request was the result of circumstances beyond the employee's control or because of a failure to receive actual notice of the filing deadline.
+
+(3) *Hearing official.* Commerce entities must obtain the services of a hearing official who is not under the supervision or control of the Secretary. Commerce entities may contact the Deputy Chief Financial Officer as described in § 19.20(c) of this part or an agent of any Commerce agency designated in Appendix A to 5 CFR part 581 (List of Agents Designated to Accept Legal Process) to request a hearing official.
+
+(4) *Notice of hearing.* After the employee requests a hearing, the designated hearing official shall inform the employee of the form of the hearing to be provided. For oral hearings, the notice shall set forth the date, time and location of the hearing. For paper hearings, the notice shall notify the employee of the date by which he or she should submit written arguments to the designated hearing official. The hearing official shall give the employee reasonable time to submit documentation in support of the employee's position. The hearing official shall schedule a new hearing date if requested by both parties. The hearing official shall give both parties reasonable notice of the time and place of a rescheduled hearing.
+
+(5) *Oral hearing.* The hearing official will conduct an oral hearing if he or she determines that the matter cannot be resolved by review of documentary evidence alone (for example, when an issue of credibility or veracity is involved). The hearing need not take the form of an evidentiary hearing, but may be conducted in a manner determined by the hearing official, including but not limited to:
+
+(i) Informal conferences with the hearing official, in which the employee and agency representative will be given full opportunity to present evidence, witnesses and argument;
+
+(ii) Informal meetings with an interview of the employee by the hearing official; or
+
+(iii) Formal written submissions, with an opportunity for oral presentation.
+
+(6) *Paper hearing.* If the hearing official determines that an oral hearing is not necessary, he or she will make the determination based upon a review of the available written record, including any documentation submitted by the employee in support of his or her position. *See* 31 CFR 901.3(a)(7).
+
+(7) *Failure to appear or submit documentary evidence.* In the absence of good cause shown (for example, excused illness), if the employee fails to appear at an oral hearing or fails to submit documentary evidence as required for a paper hearing, the employee will have waived the right to a hearing, and salary offset may be initiated. Further, the employee will have been deemed to admit the existence and amount of the Commerce debt as described in the notice of intent to offset. If the Commerce entity representative fails to appear at an oral hearing, the hearing official shall proceed with the hearing as scheduled, and make his or her determination based upon the oral testimony presented and the documentary evidence submitted by both parties.
+
+(8) *Burden of proof.* Commerce entities will have the initial burden to prove the existence and amount of the Commerce debt. Thereafter, if the employee disputes the existence or amount of the Commerce debt, the employee must prove by a preponderance of the evidence that no such Commerce debt exists or that the amount of the Commerce debt is incorrect. In addition, the employee may present evidence that the proposed terms of the repayment schedule are unlawful, would cause a financial hardship to the employee, or that collection of the Commerce debt may not be pursued due to operation of law.
+
+(9) *Record.* The hearing official shall maintain a summary record of any hearing provided by this part. Witnesses will testify under oath or affirmation in oral hearings. *See* 31 CFR 901.3(a)(7).
+
+(10) *Date of decision.* The hearing official shall issue a written opinion stating his or her decision, based upon documentary evidence and information developed at the hearing, as soon as practicable after the hearing, but not later than 60 days after the date on which the request for hearing was received by the Commerce entity. If the employee requests a delay in the proceedings, the deadline for the decision may be postponed by the number of days by which the hearing was postponed. When a decision is not timely rendered, the Commerce entity shall waive interest and penalties applied to the Commerce debt for the period beginning with the date the decision is due and ending on the date the decision is issued.
+
+(11) *Content of decision.* The written decision shall include:
+
+(i) A statement of the facts presented to support the origin, nature, and amount of the Commerce debt;
+
+(ii) The hearing official's findings, analysis, and conclusions; and
+
+(iii) The terms of any repayment schedules, if applicable.
+
+(12) *Final agency action.* The hearing official's decision shall be final.
+
+(f) *Waiver not precluded.* Nothing in this part precludes an employee from requesting waiver of an overpayment under 5 U.S.C. 5584 or 8346(b), 10 U.S.C. 2774, 32 U.S.C. 716, or other statutory authority. Commerce entities may grant such waivers when it would be against equity and good conscience or not in the United States' best interest to collect such Commerce debts, in accordance with those authorities, 5 CFR 550.1102(b)(2), and Commerce policies and procedures. (*See* Commerce Department Credit and Debt Management Operating Standards and Procedures Handbook, available at *http://www.osec.doc.gov/ofm/credit/cover.html.*)
+
+(g) *Salary offset process*—(1) *Determination of disposable pay.* The Deputy Chief Financial Officer will consult with the appropriate Commerce entity payroll office to determine the amount of a Commerce Department employee's disposable pay (as defined in § 19.1 of this part) and will implement salary offset when requested to do so by a Commerce entity, as described in paragraph (c) of this section, or another agency, as described in § 19.20 of this part. If the debtor is not employed by Commerce Department, the agency employing the debtor will determine the amount of the employee's disposable pay and will implement salary offset upon request.
+
+(2) *When salary offset begins.* Deductions shall begin within three official pay periods following receipt of the creditor agency's request for offset.
+
+(3) *Amount of salary offset.* The amount to be offset from each salary payment will be up to 15 percent of a debtor's disposable pay, as follows:
+
+(i) If the amount of the Commerce debt is equal to or less than 15 percent of the disposable pay, such Commerce debt generally will be collected in one lump sum payment;
+
+(ii) Installment deductions will be made over a period of no greater than the anticipated period of employment. An installment deduction will not exceed 15 percent of the disposable pay from which the deduction is made unless the employee has agreed in writing to the deduction of a greater amount or the creditor agency has determined that smaller deductions are appropriate based on the employee's ability to pay.
+
+(4) *Final salary payment.* After the employee has separated either voluntarily or involuntarily from the payment agency, the payment agency may make a lump sum deduction exceeding 15 percent of disposable pay from any final salary or other payments pursuant to 31 U.S.C. 3716 in order to satisfy a Commerce debt.
+
+(h) *Payment agency's responsibilities.* (1) As required by 5 CFR 550.1109, if the employee separates from the payment agency from which a Commerce entity has requested salary offset, the payment agency must certify the total amount of its collection and notify the Commerce entity and the employee of the amounts collected. If the payment agency is aware that the employee is entitled to payments from the Civil Service Retirement Fund and Disability Fund, the Federal Employee Retirement System, or other similar payments, it must provide written notification to the payment agency responsible for making such payments that the debtor owes a Commerce debt, the amount of the Commerce debt, and that the Commerce entity has complied with the provisions of this section. Commerce entities must submit a properly certified claim to the new payment agency before the collection can be made.
+
+(2) If the employee is already separated from employment and all payments due from his or her former payment agency have been made, Commerce entities may request that money due and payable to the employee from the Civil Service Retirement Fund and Disability Fund, the Federal Employee Retirement System, or other similar funds, be administratively offset to collect the Commerce debt. Generally, Commerce entities will collect such monies through the Treasury Offset Program as described in § 19.9(c) of this part.
+
+(3) When an employee transfers to another agency, Commerce entities should resume collection with the employee's new payment agency in order to continue salary offset.

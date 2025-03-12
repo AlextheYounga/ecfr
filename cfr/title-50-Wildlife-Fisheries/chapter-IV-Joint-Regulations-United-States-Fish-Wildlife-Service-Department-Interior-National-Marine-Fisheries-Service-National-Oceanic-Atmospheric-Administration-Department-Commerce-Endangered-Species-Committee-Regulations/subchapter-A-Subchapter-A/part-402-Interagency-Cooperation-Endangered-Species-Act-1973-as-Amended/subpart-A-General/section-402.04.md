@@ -1,0 +1,3 @@
+##### § 402.04 Counterpart regulations. #####
+
+The consultation procedures set forth in this part may be superseded for a particular Federal agency by joint counterpart regulations among that agency, the Fish and Wildlife Service, and the National Marine Fisheries Service. Such counterpart regulations shall be published in the Federal Register in proposed form and shall be subject to public comment for at least 60 days before final rules are published.

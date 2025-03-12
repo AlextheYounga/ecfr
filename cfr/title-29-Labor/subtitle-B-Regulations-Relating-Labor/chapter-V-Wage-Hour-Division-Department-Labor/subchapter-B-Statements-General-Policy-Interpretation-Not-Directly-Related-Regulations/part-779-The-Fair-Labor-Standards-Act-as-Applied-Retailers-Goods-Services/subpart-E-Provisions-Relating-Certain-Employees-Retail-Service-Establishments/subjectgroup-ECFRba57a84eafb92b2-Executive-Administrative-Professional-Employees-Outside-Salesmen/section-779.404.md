@@ -1,0 +1,3 @@
+##### § 779.404 Other section 13(a)(1) employees employed in covered enterprises. #####
+
+The “professional” employee or the “outside salesman” employed by a retail or service establishment in a covered enterprise, in order to qualify as a bona fide “professional employee” or as an “outside salesman,” must meet all the requirements set forth in the regulations issued and found in part 541, subpart A of this chapter, and further explained in subpart B thereof. The up-to-40 percent tolerance discussed in § 779.403 for “administrative and executive employees” of a retail or service establishment does not apply to the “professional employee” or the “outside salesman.”

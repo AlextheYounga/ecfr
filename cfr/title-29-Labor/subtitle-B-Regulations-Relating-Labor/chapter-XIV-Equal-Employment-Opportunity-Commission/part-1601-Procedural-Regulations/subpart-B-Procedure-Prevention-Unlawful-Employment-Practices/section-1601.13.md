@@ -1,0 +1,47 @@
+##### § 1601.13 Filing; deferrals to State and local agencies. #####
+
+(a) *Initial presentation of a charge to the Commission.* (1) Charges arising in jurisdictions having no FEP agency are filed with the Commission upon receipt. Such charges are timely filed if received by the Commission within 180 days from the date of the alleged violation.
+
+(2) A jurisdiction having a FEP agency without subject matter jurisdiction over a charge (e.g., an agency which does not cover sex discrimination or does not cover nonprofit organizations) is equivalent to a jurisdiction having no FEP agency. Charges over which a FEP agency has no subject matter jurisdiction are filed with the Commission upon receipt and are timely filed if received by the Commission within 180 days from the date of the alleged violation.
+
+(3) Charges arising in jurisdictions having a FEP agency with subject matter jurisdiction over the charges are to be processed in accordance with the Commission's deferral policy set forth below and the procedures in paragraph (a)(4) of this section.
+
+(i) In order to give full weight to the policy of section 706(c) of title VII, which affords State and local fair employment practice agencies that come within the provisions of that section an opportunity to remedy alleged discrimination concurrently regulated by title VII, the ADA, or GINA and State or local law, the Commission adopts the following procedures with respect to allegations of discrimination filed with the Commission. It is the intent of the Commission to thereby encourage the maximum degree of effectiveness in the State and local agencies. The Commission shall endeavor to maintain close communication with the State and local agencies with respect to all matters forwarded to such agencies and shall provide such assistance to State and local agencies as is permitted by law and as is practicable.
+
+(ii) Section 706(c) of title VII grants States and their political subdivisions the exclusive right to process allegations of discrimination filed by a person other than a Commissioner for a period of 60 days (or 120 days during the first year after the effective date of the qualifying State or local law). This right exists where, as set forth in § 1601.70, a State or local law prohibits the employment practice alleged to be unlawful and a State or local agency has been authorized to grant or seek relief. After the expiration of the exclusive processing period, the Commission may commence processing the allegation of discrimination.
+
+(iii) A FEP agency may waive its right to the period of exclusive processing of charges provided under section 706(c) of title VII with respect to any charge or category of charges. Copies of all such charges will be forwarded to the appropriate FEP agency.
+
+(4) The following procedures shall be followed with respect to charges which arise in jurisdictions having a FEP agency with subject matter jurisdiction over the charges:
+
+(i) Where any document, whether or not verified, is received by the Commission as provided in § 1601.8 which may constitute a charge cognizable under title VII, the ADA, or GINA, and where the FEP agency has not waived its right to the period of exclusive processing with respect to that document, that document shall be deferred to the appropriate FEP agency as provided in the procedures set forth below:
+
+(A) All such documents shall be dated and time stamped upon receipt.
+
+(B) A copy of the originial document, shall be transmitted by registered mail, return receipt requested, to the appropriate FEP agency, or, where the FEP agency has consented thereto, by certified mail, by regular mail or by hand delivery. State or local proceedings are deemed to have commenced on the date such document is mailed or hand delivered.
+
+(C) The person claiming to be aggrieved and any person filing a charge on behalf of such person shall be notified, in writing, that the document which he or she sent to the Commission has been forwarded to the FEP agency pursuant to the provisions of section 706(c) of title VII.
+
+(ii) Such charges are deemed to be filed with the Commission as follows:
+
+(A) Where the document on its face constitutes a charge within a category of charges over which the FEP agency has waived its rights to the period of exclusive processing referred to in paragraph (a)(3)(iii) of this section, the charge is deemed to be filed with the Commission upon receipt of the document. Such filing is timely if the charge is received within 300 days from the date of the alleged violation.
+
+(B) Where the document on its face constitutes a charge which is not within a category of charges over which the FEP agency has waived its right to the period of exclusive processing referred to in paragraph (a)(3)(iii) of this section, the Commission shall process the document in accordance with paragraph (a)(4)(i) of this section. The charge shall be deemed to be filing with the Commission upon expiration of 60 (or where appropriate, 120) days after deferral, or upon the termination of FEP agency proceedings, or upon waiver of the FEP agency's right to exclusively process the charge, whichever is earliest. Where the FEP agency earlier terminates its proceedings or waives its right to exclusive processing of a charge, the charge shall be deemed to be filed with the Commission on the date the FEP agency terminated its proceedings or the FEP agency waived its right to exclusive processing of the charge. Such filing is timely if effected within 300 days from the date of the alleged violation.
+
+(b) *Initial presentation of a charge to a FEP agency.* (1) When a charge is initially presented to a FEP agency and the charging party requests that the charge be presented to the Commission, the charge will be deemed to be filed with the Commission upon expiration of 60 (or where appropriate, 120) days after a written and signed statement of facts upon which the charge is based was sent to the FEP agency by registered mail or was otherwise received by the FEP agency, or upon the termination of FEP agency proceedings, or upon waiver of the FEP agency's right to exclusively process the charge, whichever is earliest. Such filing is timely if effected within 300 days from the date of the alleged violation.
+
+(2) When a charge is initially presented to a FEP agency but the charging party does not request that the charge be presented to the Commission, the charging party may present the charge to the Commission as follows:
+
+(i) If the FEP agency has refused to accept a charge, a subsequent submission of the charge to the Commission will be processed as if it were an initial presentation in accordance with paragraph (a) of this section.
+
+(ii) If the FEP agency proceedings have terminated, the charge may be timely filed with the Commission within 30 days of receipt of notice that the FEP agency proceedings have been terminated or within 300 days from the date of the alleged violation, whichever is earlier.
+
+(iii) If the FEP agency proceedings have not been terminated, the charge may be presented to the Commission within 300 days from the date of the alleged violation. Once presented, such a charge will be deemed to be filed with the Commission upon expiration of 60 (or where appropriate, 120) days after a written and signed statement of facts upon which the charge is based was sent to the FEP agency by certified mail or was otherwise received by the FEP agency, or upon the termination of the FEP agency proceedings, or upon waiver of the FEP agency's right to exclusively process the charge, whichever is earliest. To be timely, however, such filing must be effected within 300 days from the date of the alleged violation.
+
+(c) *Agreements with Fair Employment Practice agencies.* Pursuant to section 705(g)(1) and section 706(b) of title VII, the Commission shall endeavor to enter into agreements with FEP agencies to establish effective and integrated resolution procedures. Such agreements may include, but need not be limited to, cooperative arrangements to provide for processing of certain charges by the Commission, rather than by the FEP agency during the period specified in section 706(c) and section 706(d) of title VII.
+
+(d) *Preliminary relief.* When a charge is filed with the Commission, the Commission may make a preliminary investigation and commence judicial action for immediate, temporary or preliminary relief pursuant to section 706(f)(2) of title VII.
+
+(e) *Commissioner charges.* A charge made by a member of the Commission shall be deemed filed upon receipt by the Commission office responsible for investigating the charge. The Commission will notify a FEP agency when an allegation of discrimination is made by a member of the Commission concerning an employment practice occurring within the jurisdiction of the FEP agency. The FEP agency will be entitled to process the charge exclusively for a period of not less than 60 days if the FEP agency makes a written request to the Commission within 10 days of receiving notice that the allegation has been filed. The 60-day period shall be extended to 120 days during the first year after the effective date of the qualifying State or local law.
+
+[46 FR 43039, Aug. 26, 1981, as amended at 46 FR 48189, Oct. 1, 1981; 52 FR 10224, Mar. 31, 1987; 52 FR 18354, May 15, 1987; 56 FR 9624, Mar. 7, 1991; 74 FR 63982, Dec. 7, 2009]

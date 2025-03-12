@@ -1,0 +1,3 @@
+##### § 367.1810 Account 181, Unamortized debt expense. #####
+
+This account must include expenses related to the issuance or assumption of debt securities. Amounts recorded in this account must be amortized over the life of each respective issue under a plan that will distribute the amount equitably over the life of the security. The amortization must be on a monthly basis, and the related amounts must be charged to account 428, Amortization of debt discount and expense (§ 367.4280). Any unamortized amounts outstanding at the time that the related debt is prematurely reacquired must be accounted for as indicated in General Instructions in § 367.16.

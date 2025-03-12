@@ -1,0 +1,3 @@
+##### § 300.332 Issuing offices. #####
+
+Any Regional Administrator or the Office Director may issue permits required under this subpart. While applicants for permits may submit an application to any Regional Administrator or the Office Director, applicants are encouraged to submit their applications (with envelopes marked “Attn: HSFCA Permits”) to the Regional Administrator or the Office Director with whom they normally interact on fisheries matters.

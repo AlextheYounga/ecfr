@@ -1,0 +1,5 @@
+##### § 232.1013 Restrictions on deposit, withdrawal, and distribution of funds, and repayment of advances. #####
+
+(a) *Deposit of funds.* An operator must deposit all revenue the operator receives directly or indirectly in connection with the operation of the healthcare facility in an account with a financial institution whose deposits are insured by an agency of the Federal Government, *provided* that an account held in an institution acceptable to Ginnie Mae may have a balance that exceeds the amount to which such insurance is limited.
+
+(b) *Withdrawal of funds.* If a quarterly/year-to-date financial statement demonstrates negative working capital as defined by HUD, or if the operator fails to timely submit such statement, then until a current quarterly/year-to-date financial statement demonstrates positive working capital or until otherwise authorized by HUD, the operator may not distribute, advance, or otherwise use funds attributable to that facility for any purpose other than operating that facility.

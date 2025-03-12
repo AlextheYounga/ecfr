@@ -1,0 +1,9 @@
+##### § 12.16 Joint regulations of the Secretary of the Treasury and the Secretary of Agriculture. #####
+
+(a) The importation into the United States of agricultural and vegetable seeds and screenings thereof is governed by rules and regulations prescribed jointly by the Secretary of the Treasury and the Secretary of Agriculture under section 402(b) of the Federal Seed Act of August 9, 1939 (7 CFR part 201).
+
+(b) Under the said joint rules and regulations, port directors are required to draw samples of such seeds and screenings, forward them to the seed laboratories, and notify the owner or consignee that such samples have been drawn and that the shipment shall be held intact pending a decision of the Livestock, Meat, Grain, and Seed Division, Agricultural Marketing Service, in the matter.
+
+(c) It is further provided in said joint rules and regulations that after samples have been drawn such seeds and screenings shall be admitted into the commerce of the United States only if they have been found to meet the requirements of the Federal Seed Act of August 9, 1939, and the said regulations, but if the containers bear sufficient marks of identification the port director may release the shipment, pending examination and decision in the matter, upon the giving of a bond. The bond shall be filed with the port director on Customs Form 301 and contain the bond conditions set forth in § 113.62 of this chapter. In case of default the port director shall issue a claim for liquidated damages under the bond.
+
+[28 FR 14710, Dec. 31, 1963, as amended by T.D. 82-145, 47 FR 35476, Aug. 16, 1982; T.D. 84-213, 49 FR 41167, Oct. 19, 1984; T.D. 89-1, 53 FR 51253, Dec. 21, 1988]

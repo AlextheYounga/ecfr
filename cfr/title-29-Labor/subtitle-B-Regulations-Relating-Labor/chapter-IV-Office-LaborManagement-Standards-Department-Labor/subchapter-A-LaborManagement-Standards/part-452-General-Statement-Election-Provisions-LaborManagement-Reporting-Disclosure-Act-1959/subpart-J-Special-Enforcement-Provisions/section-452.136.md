@@ -1,0 +1,13 @@
+##### § 452.136 Investigation of complaint by Office of Labor-Management Standards, court action by the Secretary. #####
+
+(a) The Office of Labor-Management Standards is required to investigate each complaint of a violation filed in accordance with the requirements of the Act and, if the Secretary finds probable cause to believe that a violation has occurred and has not been remedied, he is directed to bring within 60 days after the complaint has been filed a civil action against the labor organization in a Federal district court. In any such action brought by the Secretary the statute provides that if, upon a preponderance of the evidence after a trial upon the merits, the court finds (1) that an election has not been held within the time prescribed by the election provisions of the Act or (2) that a violation of these provisions “may have affected the outcome of an election”, the court shall declare the election, if any, to be void and direct the conduct of an election under the supervision of the Secretary, and, so far as is lawful and practicable, in conformity with the constitution and bylaws of the labor organization.
+
+(b) Violations of the election provisions of the Act which occurred in the conduct of elections held within the prescribed time are not grounds for setting aside an election unless they “may have affected the outcome.” The Secretary, therefore, will not institute court proceedings upon the basis of a complaint alleging such violations unless he finds probable cause to believe that they “may have affected the outcome of an election.”
+
+(b-1) The Supreme Court, in *Hodgson* v. *Local Union 6799, Steelworkers Union of America,* 403 U.S. 333, 91 S.Ct. 1841 (1971), ruled that the Secretary of Labor may not include in his complaint a violation which was known to the protesting member but was not raised in the member's protest to the union.
+
+Complaints filed by the Department of Labor will accordingly be limited by that decision to the matters which may fairly be deemed to be within the scope of the member's internal protest and those which investigation discloses he could not have been aware of.
+
+(c) Elections challenged by a member are presumed valid pending a final decision. The statute provides that until such time, the affairs of the labor organization shall be conducted by the elected officers or in such other manner as the union constitution and bylaws provide. However, after suit is filed by the Secretary the court has power to take appropriate action to preserve the labor organization's assets.
+
+[38 FR 18324, July 3, 1973, as amended at 39 FR 37360, Oct. 21, 1974]

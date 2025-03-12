@@ -1,0 +1,19 @@
+##### § 960.6 Review procedures for license applications. #####
+
+The following procedures are consistent and have been harmonized with those procedures, including time lines, described in the Fact Sheet, at Appendix 2 of this part, which governs in lieu of this section and §§ 960.7 and 960.8 with respect to the process for reaching determinations of conditions necessary to meet national security, international obligations and foreign policy and which is outside the scope of the regulations in this part.
+
+(a) The Assistant Administrator shall, within three (3) working days of receipt of an application, forward a copy of the application to the Department of Defense, the Department of State, the Department of the Interior, and any other Federal agencies determined to have a substantial interest in the license application. The Assistant Administrator shall advise such agencies of the deadline prescribed by paragraph (b) of this section to require additional information from the applicant. The Assistant Administrator shall make a determination on the application, in accordance with the Act and section 960.1(b), within 120 days of its receipt. If a determination has not been made within 120 days, the Assistant Administrator shall inform the applicant of any pending issues and any action required to resolve them.
+
+(b) The reviewing agencies have thirty (30) days from receipt of application to notify the Assistant Administrator in writing whether the application omits any of the information listed in Appendix 1 of this part or whether additional information may be necessary to complete the application. This notification shall state the specific reasons why the additional information is sought. The Assistant Administrator shall then notify the applicant, in writing, what information is required to complete the license application. The 120-day review period prescribed in Section 201(c) of the Act will be stopped until the Assistant Administrator determines that the license application is complete.
+
+(c) Within thirty (30) days of receipt of a complete application, as determined by the Assistant Administrator, each Federal agency consulted in paragraph (a) of this section shall recommend, in writing, to the Assistant Administrator approval or disapproval of the application in writing. If a reviewing agency is unable to complete its review in thirty (30) days, it is required to notify NOAA prior to the expiration of the interagency review period, in writing, of the reason for its delay and provide an estimate of additional time necessary to complete the review.
+
+(d) If the license application is denied, the Assistant Administrator shall provide the applicant with written notification along with a concise statement of the facts in the record determined to support the denial. This denial will be considered final agency action twenty-one (21) days after the date the notice was mailed, unless the applicant files an appeal, as provided in § 960.10.
+
+(e) The Assistant Administrator shall terminate the license application review process if:
+
+(1) The application is withdrawn before the decision approving or denying it is issued; or
+
+(2) The applicant, after receiving a request for additional information pursuant to paragraph (b) of this section, does not provide such information within the time stated in the request.
+
+(f) No license shall be granted by the Secretary unless the Secretary determines, in writing, that the applicant will comply with the requirements of the Act, any regulations issued pursuant to the Act, and that the granting of such license and the operation of the license and system by the licensee would be consistent with the national security interest, foreign policy and international obligations of the United States.

@@ -1,0 +1,5 @@
+##### § 2200.5 Extension of time. #####
+
+The Commission or Judge on their own initiative or, upon motion of a party, for good cause shown, may enlarge or shorten any time prescribed by these rules or prescribed by an order. All such motions shall be in writing but, in exigent circumstances in a case pending before a Judge, an oral request may be made and thereafter shall be followed by a written motion filed with the Judge within 3 working days. A request for an extension of time should be received in advance of the date on which the pleading or document is due to be filed. However, in exigent circumstances, an extension of time may be granted even though the request was filed after the designated time for filing has expired. In such circumstances, the party requesting the extension must show, in writing, the reasons for the party's failure to make the request before the time prescribed for the filing had expired. The motion may be acted upon before the time for response has expired.
+
+[70 FR 22787, May 3, 2005]

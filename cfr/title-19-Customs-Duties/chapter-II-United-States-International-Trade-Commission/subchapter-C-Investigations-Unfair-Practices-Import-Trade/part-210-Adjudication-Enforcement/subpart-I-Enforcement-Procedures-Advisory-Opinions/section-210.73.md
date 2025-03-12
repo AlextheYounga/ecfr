@@ -1,0 +1,5 @@
+##### § 210.73 Review of reports. #####
+
+(a) *Review to insure compliance.* The Commission, through the Office of Unfair Import Investigations, will review reports submitted pursuant to any exclusion order, cease and desist order, or consent order and conduct such further investigation as it deems necessary to insure compliance with its orders.
+
+(b) *Extension of time.* The Director of the Office of Unfair Import Investigations may, for good cause shown, extend the time in which reports required by exclusion orders, cease and desist orders, and consent orders may be filed. An extension of time within which a report may be filed, or the filing of a report that does not evidence full compliance with the order, does not in any circumstances suspend or relieve a respondent from its obligation under the law with respect to compliance with such order.

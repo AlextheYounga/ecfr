@@ -1,0 +1,17 @@
+##### § 2550.412-1 Temporary bonding requirements. #####
+
+(a) Pending the issuance of permanent regulations with respect to the bonding provisions under section 412 of the Employee Retirement Income Security Act of 1974 (the Act), any plan official, as defined in section 412(a) of the Act, shall be deemed to be in compliance with the bonding requirements of the Act if he or she is bonded under a bond which would have been in compliance with section 13 of the Welfare and Pension Plans Disclosure Act, as amended (the WPPDA), and with the basic bonding requirements of subparts A through E of part 2580, title 29 CFR, and with the prohibition against bonding by parties interested in the plan contained in subpart G of part 2580 of such title, or would be exempt from such bonding requirements because bonding would not be required under the exemption provisions contained in subpart F of part 2580 of such title. Part 2580 of this title incorporates material previously designated as subparts A through E of part 464, subpart B of part 465 and part 485 of this title of the CFR. The requirements which are set forth in the temporary regulations hereby adopted shall be applicable to all employee benefit plans covered by the Act, including those plans which were not covered by the WPPDA. Thus, for example, the regulations so adopted are applicable to plans containing fewer than 26 participants, although such plans were not covered by the WPPDA.
+
+(b) For the purpose of this temporary regulation, any bond or rider thereto obtained by a plan official which contains a reference to the WPPDA will be construed by the Secretary to refer to the Act: *Provided,* That the surety company so agrees.
+
+(c) For the purpose of this regulation,
+
+(1) Any reference to section 13 of the WPPDA or any subsection thereof in the regulations issued under the WPPDA and which are incorporated by reference by this temporary regulation shall be deemed to refer to section 412 of the Act, or the corresponding subsection thereof,
+
+(2) Where the particular phrases set forth in the Act are not identical to the phrases in the WPPDA and the regulations issued pursuant thereto, the phrases appearing in the Act shall be substituted by operation of law, and
+
+(3) Where the phrases are identical but the meaning is different, the meaning given such phrases by the Act shall govern. For example, the phrase “administrators, officers, and employees of any employee welfare benefit plan or of any employee pension benefit plan subject to this Act who handle funds or other property of such plan” which appears in section 13 of the WPPDA and the regulations issued thereunder shall be construed to mean, for purposes of this regulation, “plan officials”, which is the term appearing in section 412 of the Act, and the terms “employee welfare benefit plan” and “employee pension benefit plan” shall be given the meaning assigned to them by the Act, and not the meaning set forth in the WPPDA.
+
+(d) The requirements of this temporary regulation, as set forth in paragraphs (a) through (c) of this section, shall remain in effect pending the issuance of permanent regulations by the Secretary.
+
+[40 FR 2203, Jan. 10, 1975. Redesignated at 40 FR 20629, May 12, 1975, as amended at 50 FR 26706, June 28, 1985]

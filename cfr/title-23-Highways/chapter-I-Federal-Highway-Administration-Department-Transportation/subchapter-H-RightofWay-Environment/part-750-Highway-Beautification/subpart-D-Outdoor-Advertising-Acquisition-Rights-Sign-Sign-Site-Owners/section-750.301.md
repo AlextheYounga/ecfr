@@ -1,0 +1,3 @@
+##### § 750.301 Purpose. #####
+
+To prescribe the Federal Highway Administration (FHWA) policies relating to Federal participation in the costs of acquiring the property interests necessary for removal of nonconforming advertising signs, displays and devices on the Federal-aid Primary and Interstate Systems, including toll sections on such systems, regardless of whether Federal funds participated in the construction thereof. This regulation should not be construed to authorize any additional rights in eminent domain not already existing under State law or under 23 U.S.C. 131(g).

@@ -1,0 +1,3 @@
+##### § 10.801 Scope. #####
+
+This subpart implements the duty preference and related customs provisions applicable to imported goods under the United States-Bahrain Free Trade Agreement (the BFTA) signed on September 14, 2004, and under the United States-Bahrain Free Trade Agreement Implementation Act (the Act; 119 Stat. 3581). Except as otherwise specified in this subpart, the procedures and other requirements set forth in this subpart are in addition to the customs procedures and requirements of general application contained elsewhere in this chapter. Additional provisions implementing certain aspects of the BFTA and the Act are contained in parts 24, 102, 162, and 163 of this chapter.

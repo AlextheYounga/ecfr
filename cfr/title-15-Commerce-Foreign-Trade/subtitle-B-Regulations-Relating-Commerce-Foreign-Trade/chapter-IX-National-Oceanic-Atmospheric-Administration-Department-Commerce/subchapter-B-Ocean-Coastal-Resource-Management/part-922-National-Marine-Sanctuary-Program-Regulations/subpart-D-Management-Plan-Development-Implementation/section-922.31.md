@@ -1,0 +1,3 @@
+##### § 922.31 Promotion and coordination of Sanctuary use. #####
+
+The Secretary shall take such action as is necessary and reasonable to promote and coordinate the use of National Marine Sanctuaries for research, monitoring, and education purposes. Such action may include consulting with Federal agencies, or other persons to promote use of one or more Sanctuaries for research, monitoring and education, including coordination with the National Estuarine Research Reserve System.

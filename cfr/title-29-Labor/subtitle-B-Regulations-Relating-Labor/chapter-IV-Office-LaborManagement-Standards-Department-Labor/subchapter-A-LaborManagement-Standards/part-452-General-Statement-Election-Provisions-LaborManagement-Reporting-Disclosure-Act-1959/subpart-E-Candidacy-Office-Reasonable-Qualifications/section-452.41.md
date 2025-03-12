@@ -1,0 +1,9 @@
+##### § 452.41 Working at the trade. #####
+
+(a) It would ordinarily be reasonable for a union to require candidates to be employed at the trade or even to have been so employed for a reasonable period. In applying such a rule an unemployed member is considered to be working at the trade if he is actively seeking such employment. Such a requirement should not be so inflexible as to disqualify those members who are familiar with the trade but who because of illness, economic conditions, or other good reasons are temporarily not working.
+
+(b) It would be unreasonable for a union to prevent a person from continuing his membership rights on the basis of failure to meet a qualification which the union itself arbitrarily prevents the member from satisfying. If a member is willing and able to pay his union dues to maintain his good standing and his right to run for office, it would be unreasonable for the union to refuse to accept such dues merely because the person is temporarily unemployed. Where a union constitution requires applicants for membership to be actively employed in the industry served by the union, a person who becomes a member would not be considered to forfeit his membership in the union or any of the attendant rights of membership merely because he is discharged or laid off.
+
+(c) Ordinarily members working part-time at the trade may not for that reason alone be denied the right to run for office.
+
+(d) A labor organization may postpone the right to run for office of members enrolled in a bona fide apprenticeship program until such members complete their apprenticeship.

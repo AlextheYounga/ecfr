@@ -1,0 +1,3 @@
+##### § 4.32 Investigation by Office of Inspector General. #####
+
+The Office of Inspector General shall review every alleged violation of Section 103. If after a review the Office of Inspector General determines that further investigation is not warranted, it shall notify the Ethics Law Division of that determination. If, after a review, the Office of Inspector General determines that additional investigation is warranted, it shall conduct the investigation and upon completion issue a report of the investigation to the Ethics Law Division as to each alleged violation.

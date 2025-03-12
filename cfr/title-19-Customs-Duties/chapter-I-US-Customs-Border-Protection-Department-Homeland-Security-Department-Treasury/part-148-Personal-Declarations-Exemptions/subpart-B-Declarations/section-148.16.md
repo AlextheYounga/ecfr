@@ -1,0 +1,5 @@
+##### § 148.16 Amendment of declaration. #####
+
+(a) *Before examination.* A passenger shall be permitted to add an article to his declaration if, before examination of his baggage has begun, the fact that the article has not been declared is brought to the attention of the examining officer by the passenger.
+
+(b) *After examination is begun.* A passenger shall be permitted to add an article to his declaration after examination of his baggage has begun if, before any undeclared article is found, the passenger advises the examining officer that he has such an article and the officer is satisfied that there was no fraudulent intent. Under no circumstances shall a passenger be permitted to add any undeclared article to his declaration after such article has been discovered by the examining officer.

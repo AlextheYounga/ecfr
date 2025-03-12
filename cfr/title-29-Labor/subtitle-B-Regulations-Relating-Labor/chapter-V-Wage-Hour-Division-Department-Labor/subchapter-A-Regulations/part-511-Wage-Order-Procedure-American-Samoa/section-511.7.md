@@ -1,0 +1,3 @@
+##### § 511.7 Committee staff. #####
+
+Each industry committee will be furnished a lawyer, to serve as committee counsel, and an economist, to serve as committee economist. Committee counsel shall advise the committee on the issues of law, including interpretations of these regulations and the legal scope of the committee's discretion, which arise during the committee proceedings. The committee counsel and economist shall be available to advise and assist the committee at all of its meetings. The Administrator shall furnish the committee with adequate stenographic, clerical, and other assistance.

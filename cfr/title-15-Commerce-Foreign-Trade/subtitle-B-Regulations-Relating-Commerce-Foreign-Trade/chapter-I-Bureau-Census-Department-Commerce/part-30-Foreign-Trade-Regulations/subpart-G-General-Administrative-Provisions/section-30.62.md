@@ -1,0 +1,3 @@
+##### § 30.62 Emergency exceptions. #####
+
+The Census Bureau and CBP may jointly authorize the postponement of or exception to the requirements of the regulations in this Part as warranted by the circumstances in individual cases of emergency where strict enforcement of the regulations would create a hardship. In cases where export control requirements also are involved, the concurrence of the regulatory agency and CBP also will be obtained.

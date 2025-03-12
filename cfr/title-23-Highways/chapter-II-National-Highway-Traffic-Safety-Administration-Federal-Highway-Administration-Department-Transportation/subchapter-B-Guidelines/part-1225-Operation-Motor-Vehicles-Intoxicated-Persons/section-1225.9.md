@@ -1,0 +1,3 @@
+##### § 1225.9 Period of availability of withheld funds. #####
+
+If a State meets the requirements of 23 U.S.C. 163 and § 1225.4 of this part within 4 years from the date that a State's apportionment is reduced under § 1225.8, the apportionment for such State shall be increased by an amount equal to the reduction, as illustrated by appendix A of this part. The restored apportionment will be available to a State, as quickly as possible, upon a determination by NHTSA that the State is in conformance and notification to the FHWA.

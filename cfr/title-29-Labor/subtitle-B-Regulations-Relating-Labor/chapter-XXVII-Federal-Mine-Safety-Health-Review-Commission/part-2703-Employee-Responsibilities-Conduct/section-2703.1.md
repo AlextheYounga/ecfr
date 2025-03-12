@@ -1,0 +1,3 @@
+##### § 2703.1 Cross-reference to employee ethical conduct standards and financial disclosure regulations. #####
+
+Members and employees of the Federal Mine Safety and Review Commission are subject to the executive branch-wide Standards of Ethical Conduct at 5 CFR part 2635; the Commission's regulations at 5 CFR part 8401, which supplement the executive branch-wide standards; and the executive branch-wide financial disclosure regulations at 5 CFR part 2634.

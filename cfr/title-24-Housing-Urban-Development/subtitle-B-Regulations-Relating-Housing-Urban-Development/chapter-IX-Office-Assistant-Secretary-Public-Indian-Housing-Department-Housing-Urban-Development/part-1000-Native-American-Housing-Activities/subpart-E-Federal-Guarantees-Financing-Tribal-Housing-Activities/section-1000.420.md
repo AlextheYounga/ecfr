@@ -1,0 +1,3 @@
+##### § 1000.420 May grants made by HUD under section 603 of NAHASDA be used to pay net interest costs incurred when issuing notes or other obligations? #####
+
+Yes. Other costs that can be paid using grant funds include but are not limited to the costs of servicing and trust administration, and other costs associated with financing of debt obligations, not to exceed 30 percent of the net interest cost.

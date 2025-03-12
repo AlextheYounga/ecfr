@@ -1,0 +1,53 @@
+##### § 301.2 Definitions. #####
+
+For the purposes of these regulations and the forms used to implement them:
+
+(a) *Director* means the Director of the Statutory Import Programs Staff, International Trade Administration, U.S. Department of Commerce.
+
+(b) *The Commissioner* means Commissioner of Customs and Border Protection, or the official(s) designated to act on the Commissioner's behalf.
+
+(c) *CBP Port”* or *the Port* means the port where a particular claim has been or will be made for duty-free entry of a scientific instrument or apparatus under subheading 9810.00.60, HTSUS.
+
+(d) *Entry* means entry of an instrument into the Customs territory of the United States for consumption or withdrawal of an instrument from a Customs bonded warehouse for consumption.
+
+(e) *United States* includes only the several States, the District of Columbia and the Commonwealth of Puerto Rico.
+
+(f) *Instrument* means instruments and apparatus specified in U.S. Note 6(a), Subchapter X, Chapter 98, HTSUS. A combination of basic instrument or apparatus and accompanying accessories shall be treated as a single instrument provided that, under normal commercial practice, such combination is considered to be a single instrument and provided further that the applicant has ordered or, upon favorable action on its application, firmly intends to order the combination as a unit. The term “instrument” also covers separable components of an instrument that are imported for assembly in the United States in such instrument where that instrument, due to its size, cannot feasibly be imported in its assembled state. The components, as well as the assembled instrument itself, must be classifiable under the tariff provisions listed in U.S. Note 6(a), Subchapter X, Chapter 98, HTSUS. See paragraph (k) of this section and § 301.3(f). Unless the context indicates otherwise, instrument or apparatus shall mean a foreign “instrument or apparatus” for which duty-free entry is sought under subheading 9810.00.60, HTSUS. Spare parts typically ordered and delivered with an instrument are also considered part of an instrument for purposes of these regulations. The term “instruments” shall not include:
+
+(1) Materials or supplies used in the operation of instruments and apparatus such as paper, cards, tapes, ink, recording materials, expendable laboratory materials, apparatus that loses identity or is consumed by usage or other materials or supplies.
+
+(2) Ordinary equipment for use in building construction or maintenance; or equipment for use in supporting activities of the institution, such as its administrative offices, machine shops, libraries, centralized computer facilities, eating facilities, or religious facilities; or support equipment such as copying machines, glass working apparatus and film processors.
+
+(3) General purpose equipment such as air conditioners, electric typewriters, electric drills, refrigerators.
+
+(4) General-purpose computers. Accessories to computers which are not eligible for duty-free treatment are also ineligible. Scientific instruments containing embedded computers which are to be used in a dedicated process or in instrument control, as opposed to general data processing or computation, are, however, eligible for duty-free consideration.
+
+(5) Instruments initially imported solely for testing or review purposes which were entered under bond under subheading 9813.00.30, HTSUS, subject to the provisions of U.S. Note 1(a), Subchapter XIII, Chapter 98, HTSUS, and must be exported or destroyed within the time period specified in that U.S. Note.
+
+(g) *Domestic instrument* means an instrument which is manufactured in the United States. A domestic instrument need not be made exclusively of domestic components or accessories.
+
+(h) *Accessory* has the meaning which it has under normal commercial usage. An accessory, whether part of an instrument or an attachment to an instrument, adds to the capability of an instrument. An accessory for which duty-free entry is sought under subheading 9810.00.60, HTSUS shall be the subject of a separate application when it is not an accompanying accessory. The existing instrument, for which the accessory is being purchased, may be domestic or, if foreign, it need not have entered duty free under subheading 9810.00.60, HTSUS.
+
+(i) *Accompanying accessory* means an accessory for an instrument that is listed as an item in the same purchase order and that is necessary for accomplishment of the purposes for which the instrument is intended to be used.
+
+(j) *Ancillary equipment* means an instrument which may be functionally related to the foreign instrument but is not operationally linked to it. Examples of ancillary equipment are vacuum evaporators or ultramicrotomes, which can be used to prepare specimens for electron microscopy. Further, equipment which is compatible with the foreign instrument, but is also clearly compatible with similar domestic instruments, such as a vacuum evaporator sold for use with an electron microscope, will be treated as ancillary equipment. A separate application will be required for ancillary equipment even if ordered with the basic instrument.
+
+(k) *Components* of an instrument means parts or assemblies of parts which are substantially less than the instrument to which they relate. A component enables an instrument to function at a specified minimum level, while an accessory adds to the capability of an instrument. Applications shall not be accepted for components of instruments that did not enter duty-free under subheading 9810.00.60, HTSUS or for components of instruments being manufactured or assembled by a commercial firm or entity in the U.S. In determining whether an item is a component ineligible for duty-free consideration or an accessory eligible for such consideration, Customs and Border Protection shall take into account such factors as the item's complexity, novelty, degree of integration and pertinency to the research purposes to be performed by the instrument as a whole. The above notwithstanding, separable components of some instruments may be eligible for duty-free treatment. See paragraph (f) of this section.
+
+(l) *Produced for stock* means an instrument which is manufactured, on sale and available from a stock.
+
+(m) *Produced on order* means an instrument which a manufacturer lists in current catalog literature and is able and willing to produce and have available without unreasonable delay to the applicant.
+
+(n) *Custom-made* means an instrument which a manufacturer is willing and able to make to purchaser's specifications. Instruments resulting from a development effort are treated as custom-made for the purposes of these regulations. Also, a special-order variant of a produced on order instrument, with significant modifications specified by the applicant, may be treated as custom-made.
+
+(o) *Same general category* means the category in which an instrument is customarily classified in trade directories and product-source lists, e.g., scanning electron microscope, light microscope.
+
+(p) *Comparable domestic instrument* means a domestic instrument capable or potentially capable of fulfilling the applicant's technical requirements or intended uses, whether or not in the same general category as the foreign instrument.
+
+(q) *Specifications* means the particulars of the structural, operational and performance characteristics or capabilities of a scientific instrument.
+
+(r) *Guaranteed* specifications are those specifications which are an explicit part of the contractual agreement between the buyer and the seller (or which would become part of the agreement if the buyer accepted the seller's offer), and refer only to the minimum and routinely achievable performance levels of the instrument under specified conditions. If a capability is listed or quoted as a range (e.g., “5 to 10 nanometers”) or as a minimum that may be exceeded (e.g., “5 angstroms or better”), only the inferior capability may be considered the guaranteed specification. Evidence that specifications are “guaranteed” will normally consist of their being printed in a brochure or other descriptive literature of the manufacturer; being listed in a purchase agreement upon which the purchase is conditioned; or appearing in a manufacturer's formal response to a request for quote. If, however, no opportunity to submit a bid was afforded the domestic manufacturer or if, for any other reason, comparable guaranteed specifications of the foreign and domestic instruments do not appear on the record, other evidence relating to a manufacturer's ability to provide an instrument with comparable specifications may, at the discretion of the Director, be considered in the comparison of the foreign and domestic instruments' capabilities. Performance results on a test sample run at the applicant's request may be cited as evidence for or against a guaranteed specification.
+
+(s) *Pertinent* specifications are those specifications necessary for the accomplishment of the specific scientific research or science-related educational purposes described by the applicant. Specifications of features (even if guaranteed) which afford greater convenience, satisfy personal preferences, accommodate institutional commitments or limitations, or assure lower costs of acquisition, installation, operation, servicing or maintenance are not pertinent. For example, a design feature, such as a small number of knobs or controls on an instrument primarily designed for research purposes, would be a convenience. The ability to fit an instrument into a small room, when the required operations could be performed in a larger room, would be either a cost consideration or a matter of convenience and not a pertinent specification. In addition, mere difference in design (which would, for example, broaden the educational experience of students but not provide superior scientific capability) would not be pertinent. Also, characteristics such as size, weight, appearance, durability, reliability, complexity (or simplicity), ease of operation, ease of maintenance, productivity, versatility, “state of the art” design, specific design and compatibility with currently owned or ordered equipment are not pertinent unless the applicant demonstrates that the characteristic is necessary for the accomplishment of its scientific purposes.
+
+[47 FR 32517, July 28, 1982; 47 FR 34368, Aug. 9, 1982, as amended at 66 FR 28832, May 25, 2001; 74 FR 30463, June 26, 2009]

@@ -1,0 +1,3 @@
+##### § 401.606 Tenant-based assistance provisions. #####
+
+If the Restructuring Plan provides for tenant-based assistance, each assisted family residing in a unit assisted under the expiring project-based assistance contract when the contract terminates will be offered tenant-based assistance if the family meets the eligibility requirements under part 982. Whenever permitted by section 515(c)(4) of MAHRA, the tenant-based assistance will be in the form of enhanced vouchers as provided in section 8(t) of the United States Housing Act of 1937.

@@ -1,0 +1,3 @@
+##### § 599.505 Coordinating responsible authority (CoRA). #####
+
+Within 30 days of the Renewal Community designation, the State and local governments in which the area is located must submit to HUD information identifying the coordinating responsible authority (CoRA), which is the entity, organization or persons with the responsibility and authority to achieve the State and local government commitments made at the time of application as required by § 599.107 and to undertake the development and administration of policies, procedures and activities to implement and maximize the Federal, State and local benefits made available in the Renewal Community.

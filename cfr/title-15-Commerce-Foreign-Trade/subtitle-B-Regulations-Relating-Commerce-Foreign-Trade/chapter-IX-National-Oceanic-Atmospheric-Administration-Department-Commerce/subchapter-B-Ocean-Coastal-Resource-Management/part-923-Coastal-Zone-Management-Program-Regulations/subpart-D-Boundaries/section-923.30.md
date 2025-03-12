@@ -1,0 +1,3 @@
+##### § 923.30 General. #####
+
+This subpart sets forth the requirements for management program approvability with respect to boundaries of the coastal zone. There are four elements to a State's boundary: the inland boundary, the seaward boundary, areas excluded from the boundary, and, in most cases, interstate boundaries. Specific requirements with respect to procedures for determining and identifying these boundary elements are discussed in the sections of this subpart that follow.

@@ -1,0 +1,3 @@
+##### § 175.24 Publication following notice of desire to contest. #####
+
+Upon receipt of a properly filed petitioner's notice that he desires to contest the decision as to the appraised value of, classification of, or rate of duty assessed upon the imported merchandise, the Commissioner of Customs shall cause to be published in the Federal Register and the weekly Customs Bulletin a notice of his decision as to the proper appraised value of, classification of, or rate of duty assessed upon the imported merchandise, and of petitioner's desire to contest the decision.

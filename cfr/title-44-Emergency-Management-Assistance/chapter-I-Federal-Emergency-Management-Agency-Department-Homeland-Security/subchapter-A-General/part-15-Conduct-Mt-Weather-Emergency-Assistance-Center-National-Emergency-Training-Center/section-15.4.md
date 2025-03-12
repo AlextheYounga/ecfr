@@ -1,0 +1,5 @@
+##### § 15.4 Inspection. #####
+
+(a) *In general.* All vehicles, packages, handbags, briefcases, and other containers being brought into, while on or being removed from Mt. Weather or the NETC are subject to inspection by the Police/Security Force and other authorized officials. A full search of a vehicle or person may accompany an arrest.
+
+(b) *Inspection at Mt. Weather.* We authorize inspection at Mt. Weather to prevent the possession and use of items prohibited by these rules and regulations or by other applicable laws, to prevent theft of property and to prevent the wrongful obtaining of defense information under 18 U.S.C. 793. If individuals object to such inspections they must tell the officer on duty at the entrance gate before entering Mt. Weather. The Police/Security Force and other authorized officials must not authorize or allow individuals who refuse to permit an inspection of their vehicle or possessions to enter the premises of Mt. Weather.

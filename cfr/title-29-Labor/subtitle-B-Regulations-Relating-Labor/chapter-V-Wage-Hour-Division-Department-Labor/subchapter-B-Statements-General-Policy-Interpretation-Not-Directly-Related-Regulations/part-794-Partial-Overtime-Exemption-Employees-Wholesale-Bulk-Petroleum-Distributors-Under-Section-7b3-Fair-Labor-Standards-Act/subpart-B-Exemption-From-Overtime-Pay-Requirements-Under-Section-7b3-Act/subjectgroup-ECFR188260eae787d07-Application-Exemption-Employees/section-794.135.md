@@ -1,0 +1,3 @@
+##### § 794.135 Employees who are exempt. #####
+
+If an enterprise engaged in distribution of petroleum products satisfies all the conditions specified in section 7(b)(3) as previously discussed, the partial exemption provided by this section from the Act's general overtime pay requirements will be applicable to all employees employed by their employer in activities of the enterprise for which the exemption was intended if, but only if, such employees are compensated in accordance with the compensation requirements of section 7(b)(3) (see § 794.100).

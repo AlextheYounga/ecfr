@@ -1,0 +1,3 @@
+##### § 159.42 Discriminating duties. #####
+
+The discriminating duties provided for in subsection 1 of paragraph J, section IV, Tariff Act of 1913, as amended by the Act of March 4, 1915 (19 U.S.C. 128, 131), and the discriminating duties and penalties provided for in section 338, Tariff Act of 1930 (19 U.S.C. 1338), shall be imposed only in pursuance of specific instructions from the Commissioner of Customs.

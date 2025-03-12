@@ -1,0 +1,13 @@
+##### § 205.3 Investigations under sections 131 and 503 of the Trade Act of 1974. #####
+
+(a) *Purpose of investigations*—(1) *Sections 131(a)-(b) and 503(a).* Upon the receipt of a list of articles from the President or from the United States Trade Representative as provided in section 131(a) or 503(a), and in Executive Order No. 11846, as amended, which may be considered for modification of United States duties, or as eligible articles for duty-free treatment under the generalized system of preferences, respectively, the Commission shall initiate an investigation to obtain information pertinent to the fomulation of its advice to the President under section 131(b) with respect to such articles to assist him in making an informed judgment as to the impact which might be caused by such duty modifications or duty-free treatment on U.S. manufacturing, agriculture, mining, fishing, labor, and consumers, including whether any reductions in rates of duty should take place over a period longer than the minimum periods provided by section 109(a) of the Trade Act of 1974 (88 Stat. 1985; 19 U.S.C. 2119).
+
+(2) *Section 131(c).* Upon the receipt of a request from the President or from the United States Trade Representative as provided in section 131(c) and in Executive Order No. 11846, as amended, to assist him in his determination of whether to enter into any trade agreement under section 102, the Commission shall institute an investigation to obtain information pertinent to the formulation of its views with respect to the probable economic effects of modifications of any barrier to (or other distortion of) international trade on domestic industries and purchasers and on prices and quantities of articles in the United States.
+
+(b) *Institution and notice of investigation.* An investigation to which this subpart A relates will be instituted promptly after the receipt from the President or the United States Trade Representative of (1) a list of articles which may be considered for duty modifications or duty-free treatment, or (2) a request for an investigation and report concerning the probable economic effects of modifications of any barrier to (or other distortion of) international trade.
+
+(c) *Hearings.* Public hearings will be held in connection with every investigation to which this subpart A relates. For other applicable rules, see § 201.11 of this chapter.
+
+(d) *Report to the President.* After the completion of its investigation, the Commission will incorporate its advice or views in a report which together with hearing transcripts, briefs and other information will be transmitted to the President through the United States Trade Representative.
+
+[42 FR 40426, Aug. 10, 1977, as amended at 63 FR 29351, May 29, 1998]

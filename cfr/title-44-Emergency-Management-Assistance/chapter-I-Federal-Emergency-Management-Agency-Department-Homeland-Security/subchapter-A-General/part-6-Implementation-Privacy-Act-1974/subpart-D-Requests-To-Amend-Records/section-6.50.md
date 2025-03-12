@@ -1,0 +1,3 @@
+##### § 6.50 Submission of requests to amend records. #####
+
+An individual who desires to amend any record containing personal information about the individual should direct a written request to the system manager specified in the pertinent Federal Register notice concerning FEMA's systems of records. A current FEMA employee who desires to amend personnel records should submit a written request to the Director, Human Capital Division, Washington, DC 20472. Each request should include evidence of and justification for the need to amend the pertinent record. Each request should bear the legend “Privacy Act—Request to Amend Record” prominently marked on both the face of the request letter and the envelope.

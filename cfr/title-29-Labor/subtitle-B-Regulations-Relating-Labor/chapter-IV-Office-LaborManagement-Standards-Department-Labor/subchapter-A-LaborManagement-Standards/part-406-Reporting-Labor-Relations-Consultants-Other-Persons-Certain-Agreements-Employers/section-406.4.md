@@ -1,0 +1,7 @@
+##### § 406.4 Terminal report. #####
+
+(a) Every person required to file a report pursuant to the provisions of this part who during his fiscal year loses his identity as a reporting entity through merger, consolidation, dissolution, or otherwise shall within 30 days of the effective date thereof or of the effective date of this section, whichever is later, file a terminal report, and one copy thereof, with the Office of Labor-Management Standards, on Form LM-21 signed by the president and treasurer or corresponding principal officers immediately prior to the time of the person's loss of reporting identity (or by the person himself if he is an individual), together with a statement of the effective date of termination or loss of reporting identity, and if the latter, the name and mailing address of the entity into which the person reporting has been merged, consolidated or otherwise absorbed.
+
+(b) For purposes of the report referred to in paragraph (a) of this section, the period covered thereby shall be the portion of the reporting person's fiscal year ending on the effective date of the termination or loss of identity.
+
+[28 FR 14385, Dec. 27, 1963, as amended at 50 FR 31310, Aug. 1, 1985]

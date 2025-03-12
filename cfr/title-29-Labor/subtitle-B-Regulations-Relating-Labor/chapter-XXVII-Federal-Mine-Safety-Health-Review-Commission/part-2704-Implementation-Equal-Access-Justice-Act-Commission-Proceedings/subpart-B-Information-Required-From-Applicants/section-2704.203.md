@@ -1,0 +1,5 @@
+##### § 2704.203 Contents of application—where the Secretary's demand is substantially in excess of the judgment finally obtained and unreasonable. #####
+
+(a) An application for an award under § 2704.105(b) shall show that the Secretary's demand is substantially in excess of the decision of the Commission; the application shall further allege that the Secretary's demand is unreasonable when compared with the Commission's decision.
+
+(b) The application shall show that the applicant is a small entity as defined in 5 U.S.C. 601(6), and the application must conform to the standards of the Small Business Administration at 13 CFR 121.201 for mining entities. The application shall include a statement of the applicant's annual receipts or number of employees, as applicable, in conformance with the requirements of 13 CFR 121.104 and 121.106. The application shall describe briefly the type and purpose of its organization or business.

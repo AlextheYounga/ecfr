@@ -1,0 +1,3 @@
+##### § 95.17 Certifications and representations. #####
+
+Unless prohibited by statute or codified regulation, DOL requires recipients to submit certifications and representations required by statute, executive order, or regulation on an annual basis only, if the recipients have ongoing and continuing relationships with the agency. Annual certifications and representations shall be signed by responsible officials with the authority to ensure recipients' compliance with the pertinent requirements.

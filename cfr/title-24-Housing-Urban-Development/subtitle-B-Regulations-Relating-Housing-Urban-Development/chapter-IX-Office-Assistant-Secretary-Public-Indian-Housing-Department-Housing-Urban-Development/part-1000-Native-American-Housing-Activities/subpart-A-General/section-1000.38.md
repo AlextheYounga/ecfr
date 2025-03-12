@@ -1,0 +1,7 @@
+##### § 1000.38 What flood insurance requirements are applicable? #####
+
+Under the Flood Disaster Protection Act of 1973, as amended (42 U.S.C. 4001-4128), a recipient may not permit the use of Federal financial assistance for acquisition and construction purposes (including rehabilitation) in an area identified by the Federal Emergency Management Agency (FEMA) as having special flood hazards, unless the following conditions are met:
+
+(a) The community in which the area is situated is participating in the National Flood Insurance Program in accord with section 202(a) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4106(a)), or less than a year has passed since FEMA notification regarding such flood hazards. For this purpose, the “community” is the governmental entity, such as an Indian tribe or authorized tribal organization, an Alaska Native village, or authorized Native organization, or a municipality or county, that has authority to adopt and enforce flood plain management regulations for the area; and
+
+(b) Where the community is participating in the National Flood Insurance Program, flood insurance on the building is obtained in compliance with section 102(a) of the Flood Disaster Protection Act of 1973 (42 U.S.C. 4012(a)); provided, that if the financial assistance is in the form of a loan or an insurance or guaranty of a loan, the amount of flood insurance required need not exceed the outstanding principal balance of the loan and need not be required beyond the term of the loan.

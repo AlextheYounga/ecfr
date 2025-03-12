@@ -1,0 +1,3 @@
+##### § 785.2 Decisions on interpretations; use of interpretations. #####
+
+The ultimate decisions on interpretations of the act are made by the courts. The Administrator must determine in the first instance the positions he will take in the enforcement of the Act. The regulations in this part seek to inform the public of such positions. It should thus provide a “practical guide for employers and employees as to how the office representing the public interest in its enforcement will seek to apply it.” (*Skidmore* v. *Swift,* 323 U.S. 134, 138 (1944).)

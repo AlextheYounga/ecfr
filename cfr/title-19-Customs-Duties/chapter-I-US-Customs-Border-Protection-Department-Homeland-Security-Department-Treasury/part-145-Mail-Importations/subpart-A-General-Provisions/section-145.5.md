@@ -1,0 +1,3 @@
+##### § 145.5 Undeliverable packages. #####
+
+Mail articles which are refused or undeliverable, except mail articles for which a mail fine entry has been issued in accordance with § 145.4(c), will be marked by the postmaster to show why delivery was not made, and will be forwarded to the proper exchange post office for return to the country of origin. Mail entries will be removed from the mail articles and returned to Customs for cancellation. If, for any reason, an undeliverable mail article known or supposed to be dutiable is not returned to the country of origin or forwarded to another country in accordance with the Postal regulations, it will be delivered to Customs for disposition under the Customs laws and regulations governing seized or unclaimed merchandise.

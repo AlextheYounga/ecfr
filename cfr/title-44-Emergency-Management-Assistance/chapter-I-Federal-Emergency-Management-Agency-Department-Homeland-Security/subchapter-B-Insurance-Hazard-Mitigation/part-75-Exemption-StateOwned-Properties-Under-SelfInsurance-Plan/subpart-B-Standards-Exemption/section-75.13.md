@@ -1,0 +1,11 @@
+##### § 75.13 Review by the Federal Insurance Administrator. #####
+
+(a) The Federal Insurance Administrator may return the application for exemption upon finding it incomplete or upon finding that additional information is required in order to make a determination as to the adequacy of the self-insurance plan.
+
+(b) Upon determining that the State's plan of self-insurance is inadequate, the Federal Insurance Administrator shall in writing reject the application for exemption and shall state in what respects the plan fails to comply with the standards set forth in § 75.11 of this subpart.
+
+(c) Upon determining that the State's plan of self-insurance equals or exceeds the standards set forth in § 75.11 of this subpart, the Federal Insurance Administrator shall certify that the State is exempt from the requirement for the purchase of flood insurance for State-owned structures and their contents located or to be located in areas identified by the Federal Insurance Administrator as A, AO, AH, A1-30, AE, AR, AR/A1-30, AR/AE, AR/AO, AR/AH, AR/A, A99, M, V, VO, V1-30, VE, and E Zones. Such exemption, however, is in all cases provisional. The Federal Insurance Administrator shall review the plan for continued compliance with the criteria set forth in this part and may request updated documentation for the purpose of such review. If the plan is found to be inadequate and is not corrected within ninety days from the date that such inadequacies were identified, the Federal Insurance Administrator may revoke his certification.
+
+(d) Documentation which cannot reasonably be provided at the time of application for exemption shall be submitted within six months of the application date. The Federal Insurance Administrator may revoke his certification for a State's failure to submit adequate documentation after the six month period.
+
+[41 FR 46991, Oct. 26, 1976. Redesignated at 44 FR 31177, May 31, 1979, as amended at 48 FR 44544, Sept. 29, 1983; 49 FR 4751, Feb. 8, 1984; 49 FR 5621, Feb. 14, 1984; 50 FR 36029, Sept. 4, 1985; 59 FR 53601, Oct. 25, 1994; 62 FR 55719, Oct. 27, 1997]

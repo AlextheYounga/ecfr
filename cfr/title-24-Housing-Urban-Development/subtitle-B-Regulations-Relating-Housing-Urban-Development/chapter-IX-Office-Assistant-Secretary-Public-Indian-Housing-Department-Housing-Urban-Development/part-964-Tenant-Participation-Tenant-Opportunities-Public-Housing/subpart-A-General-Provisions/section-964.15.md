@@ -1,0 +1,3 @@
+##### § 964.15 HUD policy on resident management. #####
+
+It is HUD's policy to encourage resident management. HUD encourages HAs, resident councils and resident management corporations to explore the various functions involved in management to identify appropriate opportunities for contracting with a resident management corporation. Potential benefits of resident-managed entities include improved quality of life, experiencing the dignity of meaningful work, enabling residents to choose where they want to live, and meaningful participation in the management of the housing development.

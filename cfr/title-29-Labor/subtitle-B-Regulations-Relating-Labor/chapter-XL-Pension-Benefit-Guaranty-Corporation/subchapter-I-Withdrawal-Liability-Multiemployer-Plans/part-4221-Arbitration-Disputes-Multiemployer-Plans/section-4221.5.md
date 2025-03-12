@@ -1,0 +1,15 @@
+##### § 4221.5 Powers and duties of the arbitrator. #####
+
+(a) *Arbitration hearing.* Except as otherwise provided in this part, the arbitrator shall conduct the arbitration hearing under § 4221.6 in the same manner, and shall possess the same powers, as an arbitrator conducting a proceeding under title 9 of the United States Code.
+
+(1) *Application of the law.* In reaching his or her decision, the arbitrator shall follow applicable law, as embodied in statutes, regulations, court decisions, interpretations of the agencies charged with the enforcement of ERISA, and other pertinent authorities.
+
+(2) *Prehearing discovery.* The arbitrator may allow any party to conduct prehearing discovery by interrogatories, depositions, requests for the production of documents, or other means, upon a showing that the discovery sought is likely to lead to the production of relevant evidence and will not be disproportionately burdensome to the other parties. The arbitrator may impose appropriate sanctions if he or she determines that a party has failed to respond to discovery in good faith or has conducted discovery proceedings in bad faith or for the purpose of harassment. The arbitrator may, at the request of any party or on his or her own motion, require parties to give advance notice of expert or other witnesses that they intend to introduce.
+
+(3) *Admissibility of evidence.* The arbitrator determines the relevance and materiality of the evidence offered during the course of the hearing and is the judge of the admissibility of evidence offered. Conformity to legal rules of evidence is not necessary. To the extent reasonably practicable, all evidence shall be taken in the presence of the arbitrator and the parties. The arbitrator may, however, consider affidavits, transcripts of depositions, and similar documents.
+
+(4) *Production of documents or other evidence.* The arbitrator may subpoena witnesses or documents upon his or her own initiative or upon request by any party after determining that the evidence is likely to be relevant to the dispute.
+
+(b) *Prehearing conference.* If it appears that a prehearing conference will expedite the proceedings, the arbitrator may, at any time before the commencement of the arbitration hearing under § 4221.6, direct the parties to appear at a conference to consider settlement of the case, clarification of issues and stipulation of facts not in dispute, admission of documents to avoid unnecessary proof, limitations on the number of expert or other witnesses, and any other matters that could expedite the disposition of the proceedings.
+
+(c) *Proceeding without hearing.* The arbitrator may render an award without a hearing if the parties agree and file with the arbitrator such evidence as the arbitrator deems necessary to enable him or her to render an award under § 4221.8.

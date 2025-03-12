@@ -1,0 +1,3 @@
+##### § 8.26 Distribution of accessible dwelling units. #####
+
+Accessible dwelling units required by § 8.22, 8.23, 8.24 or 8.25 shall, to the maximum extent feasible and subject to reasonable health and safety requirements, be distributed throughout projects and sites and shall be available in a sufficient range of sizes and amenities so that a qualified individual with handicaps' choice of living arrangements is, as a whole, comparable to that of other persons eligible for housing assistance under the same program. This provision shall not be construed to require provision of an elevator in any multifamily housing project solely for the purpose of permitting location of accessible units above or below the accessible grade level.

@@ -1,0 +1,11 @@
+##### § 1904.31 Covered employees. #####
+
+(a) *Basic requirement.* You must record on the OSHA 300 Log the recordable injuries and illnesses of all employees on your payroll, whether they are labor, executive, hourly, salary, part-time, seasonal, or migrant workers. You also must record the recordable injuries and illnesses that occur to employees who are not on your payroll if you supervise these employees on a day-to-day basis. If your business is organized as a sole proprietorship or partnership, the owner or partners are not considered employees for recordkeeping purposes.
+
+(b) *Implementation*—(1) *If a self-employed person is injured or becomes ill while doing work at my business, do I need to record the injury or illness?* No, self-employed individuals are not covered by the OSH Act or this regulation.
+
+(2) *If I obtain employees from a temporary help service, employee leasing service, or personnel supply service, do I have to record an injury or illness occurring to one of those employees?* You must record these injuries and illnesses if you supervise these employees on a day-to-day basis.
+
+(3) *If an employee in my establishment is a contractor's employee, must I record an injury or illness occurring to that employee?* If the contractor's employee is under the day-to-day supervision of the contractor, the contractor is responsible for recording the injury or illness. If you supervise the contractor employee's work on a day-to-day basis, you must record the injury or illness.
+
+(4) *Must the personnel supply service, temporary help service, employee leasing service, or contractor also record the injuries or illnesses occurring to temporary, leased or contract employees that I supervise on a day-to-day basis?* No, you and the temporary help service, employee leasing service, personnel supply service, or contractor should coordinate your efforts to make sure that each injury and illness is recorded only once: either on your OSHA 300 Log (if you provide day-to-day supervision) or on the other employer's OSHA 300 Log (if that company provides day-to-day supervision).

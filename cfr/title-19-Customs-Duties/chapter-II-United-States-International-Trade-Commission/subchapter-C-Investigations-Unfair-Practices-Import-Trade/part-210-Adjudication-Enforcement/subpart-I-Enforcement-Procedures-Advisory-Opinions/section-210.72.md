@@ -1,0 +1,3 @@
+##### § 210.72 Confidentiality of information. #####
+
+Confidential information (as defined in § 201.6(a) of this chapter) that is provided to the Commission pursuant to exclusion order, cease and desist order, or consent order will be received by the Commission in confidence. Requests for confidential treatment shall comply with § 201.6 of this chapter. The restrictions on disclosure and the procedures for handling such information (which are set out in §§ 210.5 and 210.39) shall apply and, in a proceeding under § 210.75 or § 210.76, the Commission or the presiding administrative law judge may, upon motion or sua sponte, issue or continue appropriate protective orders.

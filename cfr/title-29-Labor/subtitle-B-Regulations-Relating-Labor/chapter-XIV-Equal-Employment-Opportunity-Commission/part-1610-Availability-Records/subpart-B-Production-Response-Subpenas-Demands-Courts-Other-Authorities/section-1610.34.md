@@ -1,0 +1,7 @@
+##### § 1610.34 Procedure in the event of a demand for production or disclosure. #####
+
+(a) Whenever a demand is made upon an employee or former employee of the Commission for the production of material or the disclosure of information described in § 1610.30, he shall immediately notify the Legal Counsel. If possible, the Legal Counsel shall be notified before the employee or former employee concerned replies to or appears before the court or other authority.
+
+(b) If response to the demand is required before instructions from the Legal Counsel are received, an attorney designated for that purpose by the Commission shall appear with the employee or former employee upon whom the demand has been made, and shall furnish the court or other authority with a copy of the regulations contained in this part and inform the court or other authority that the demand has been or is being, as the case may be, referred for prompt consideration by the Legal Counsel. The court or other authority shall be requested respectfully to stay the demand pending receipt of the requested instructions from the Legal Counsel.
+
+[32 FR 16261, Nov. 29, 1967, as amended at 47 FR 46275, Oct. 18, 1982; 63 FR 1342, Jan. 9, 1998]

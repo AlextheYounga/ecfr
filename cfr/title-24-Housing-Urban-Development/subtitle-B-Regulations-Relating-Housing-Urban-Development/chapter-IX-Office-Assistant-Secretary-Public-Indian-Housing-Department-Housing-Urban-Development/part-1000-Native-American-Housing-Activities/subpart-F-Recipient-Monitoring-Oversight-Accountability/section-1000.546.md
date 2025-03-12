@@ -1,0 +1,3 @@
+##### § 1000.546 Are audit costs eligible program or administrative expenses? #####
+
+Yes, audit costs are an eligible program or administrative expense. If the Indian tribe is the recipient then program funds can be used to pay a prorated share of the tribal audit or financial review cost that is attributable to NAHASDA funded activities. For a recipient not covered by the Single Audit Act, but which chooses to obtain a periodic financial review, the cost of such a review would be an eligible program expense.

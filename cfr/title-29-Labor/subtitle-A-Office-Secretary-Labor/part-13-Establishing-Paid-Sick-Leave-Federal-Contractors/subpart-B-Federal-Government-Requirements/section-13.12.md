@@ -1,0 +1,7 @@
+##### § 13.12 Department of Labor requirements. #####
+
+(a) *Notice*—(1) *Wage Determinations OnLine Web site.* The Administrator will publish and maintain on Wage Determinations OnLine (WDOL), *http://www.wdol.gov*, or any successor site, a notice that Executive Order 13706 creates a requirement to allow employees performing work on or in connection with contracts covered by Executive Order 13706 and this part to accrue and use paid sick leave, as well as an indication of where to find more complete information about that requirement.
+
+(2) *Wage determinations.* The Administrator will publish on all wage determinations issued under the Davis-Bacon Act and the Service Contract Act a notice that Executive Order 13706 creates a requirement to allow employees performing work on or in connection with contracts covered by Executive Order 13706 and this part to accrue and use paid sick leave, as well as an indication of where to find more complete information about that requirement.
+
+(b) *Notification to a contractor of the withholding of funds.* If the Administrator requests that a contracting agency withhold funds from a contractor pursuant to § 13.11(c), or suspend payment, advance, or guarantee of funds pursuant to § 13.11(d), the Administrator and/or contracting agency shall notify the affected prime contractor of the Administrator's request to the contracting agency.

@@ -1,0 +1,3 @@
+##### § 4.21 Reports. #####
+
+Representatives of the Commission will inspect the project works, engineering reports, and other records of the project, check the inventory and estimated depreciation, make an audit of the books, records, and accounts of the licensee relating to the property under license, and prepare a report of their findings with respect to the inventory, the original cost of the property, and the estimated accrued depreciation thereon.

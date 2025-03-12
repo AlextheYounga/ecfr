@@ -1,0 +1,3 @@
+##### § 1608.9 Reliance on directions of other government agencies. #####
+
+When a charge challenges an affirmative action plan or program, or when such a plan or program is raised as justification for an employment decision, and when the plan or program was developed pursuant to the requirements of a Federal or State law or regulation which in part seeks to ensure equal employment opportunity, the Commission will process the charge in accordance with § 1608.10(a). Other agencies with equal employment opportunity responsibilities may apply the principles of these Guidelines in the exercise of their authority.

@@ -1,0 +1,3 @@
+##### § 16.33 Importation of natural-history specimens. #####
+
+Nothing in this part shall restrict the importation and transportation, without a permit, of dead natural-history specimens of wildlife or their eggs for museum or scientific collection purposes: *Provided,* That the provisions of this section shall not apply to dead migratory birds, the importation of which is governed by regulations under parts 20 and 21 of this chapter; to dead game mammals from Mexico, the importation of which is governed by regulations under part 14 of this chapter; or to dead bald and golden eagles or their eggs, the importation of which is governed by regulations under part 22 of this chapter.

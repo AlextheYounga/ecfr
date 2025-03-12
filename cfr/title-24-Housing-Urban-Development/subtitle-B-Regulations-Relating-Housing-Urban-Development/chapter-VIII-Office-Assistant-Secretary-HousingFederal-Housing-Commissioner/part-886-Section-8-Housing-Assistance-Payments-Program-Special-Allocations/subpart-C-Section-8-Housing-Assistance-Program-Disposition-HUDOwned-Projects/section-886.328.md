@@ -1,0 +1,5 @@
+##### § 886.328 Termination of tenancy. #####
+
+Part 247 of this title (24 CFR part 247) applies to the termination of tenancy and eviction of a family assisted under this subpart. For cases involving termination of tenancy because of a failure to establish citizenship or eligible immigration status, the procedures of 24 CFR part 247 and 24 CFR part 5 shall apply. The provisions of 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking) apply to this section. The provisions of 24 CFR part 5, subpart E, concerning certain assistance for mixed families (families whose members include those with eligible immigration status, and those without eligible immigration status) in lieu of termination of assistance, and concerning deferral of termination of assistance, also shall apply.
+
+[81 FR 80814, Nov. 16, 2016]

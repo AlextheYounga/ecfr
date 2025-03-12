@@ -1,0 +1,3 @@
+##### § 35.11 Scientific uses. #####
+
+Recognizing the scientific value of wilderness, research data gathering and similar scientific uses will be encouraged providing that wilderness values are not impaired. The person or agency involved in scientific investigation must be willing to accept reasonable limitations on activities and location and size of the area to be used for research purposes. A special use permit authorizing scientific uses shall be required.

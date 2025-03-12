@@ -1,0 +1,5 @@
+##### § 891.185 Preemption of rent control laws. #####
+
+The Department finds that it is necessary and desirable to assist project owners to preserve the continued viability of each project assisted under this part (except subpart E) as a housing resource for very low-income elderly persons or persons with disabilities. The Department also finds that it is necessary to protect the substantial economic interest of the Federal Government in those projects. Therefore, the Department concludes that it is in the national interest to preempt, and it does hereby preempt, the entire field of rent regulation by local rent control boards or other authority acting pursuant to state or local law as it affects those projects. Part 246 of this title applies to projects covered by subpart E of this part.
+
+[63 FR 64803, Nov. 23, 1998]

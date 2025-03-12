@@ -1,0 +1,5 @@
+##### § 402.06 Coordination with other environmental reviews. #####
+
+(a) Consultation, conference, and biological assessment procedures under section 7 may be consolidated with interagency cooperation procedures required by other statutes, such as the National Environmental Policy Act (NEPA) (42 U.S.C. 4321 *et seq.,* implemented at 40 CFR parts 1500-1508) or the Fish and Wildlife Coordination Act (FWCA) (16 U.S.C. 661 *et seq.*). Satisfying the requirements of these other statutes, however, does not in itself relieve a Federal agency of its obligations to comply with the procedures set forth in this part or the substantive requirements of section 7. The Service will attempt to provide a coordinated review and analysis of all environmental requirements.
+
+(b) Where the consultation or conference has been consolidated with the interagency cooperation procedures required by other statutes such as NEPA or FWCA, the results should be included in the documents required by those statutes.

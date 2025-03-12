@@ -1,0 +1,3 @@
+##### § 503.15 Enforcement. #####
+
+The investigation, inspection, and law enforcement functions that carry out the provisions of 8 U.S.C. 1184(c), INA section 214(c), 20 CFR part 655, subpart A, or the regulations in this part pertain to the employment of any H-2B worker, any worker in corresponding employment, or any U.S. worker improperly rejected for employment or improperly laid off or displaced.

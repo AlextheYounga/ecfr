@@ -1,0 +1,3 @@
+##### § 19.2 Scope of regulations. #####
+
+The regulations contained in this part apply to all persons within the territorial jurisdiction of the United States, to all United States citizens whether within the territorial jurisdiction of the United States or on the high seas or on board aircraft in flight over the high seas, and to all persons on board aircraft belonging in whole or in part to any United States citizen, firm, or partnership, or corporation created by or under the laws of the United States, or any State, territory or possession thereof.

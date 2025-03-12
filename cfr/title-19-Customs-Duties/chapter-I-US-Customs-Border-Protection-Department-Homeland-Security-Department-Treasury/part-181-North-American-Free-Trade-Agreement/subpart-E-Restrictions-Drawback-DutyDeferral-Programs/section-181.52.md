@@ -1,0 +1,3 @@
+##### § 181.52 Subsequent claims for preferential tariff treatment. #####
+
+If a claim for a refund of duties is allowed by the Canadian or Mexican customs administration under Article 502(3) of the NAFTA (post-importation claim) or under any other circumstance after drawback has been granted under this subpart, the appropriate Customs officer shall reliquidate the drawback claim and obtain a refund of the amount paid in drawback in excess of the amount permitted to be paid under § 181.44 of this part.

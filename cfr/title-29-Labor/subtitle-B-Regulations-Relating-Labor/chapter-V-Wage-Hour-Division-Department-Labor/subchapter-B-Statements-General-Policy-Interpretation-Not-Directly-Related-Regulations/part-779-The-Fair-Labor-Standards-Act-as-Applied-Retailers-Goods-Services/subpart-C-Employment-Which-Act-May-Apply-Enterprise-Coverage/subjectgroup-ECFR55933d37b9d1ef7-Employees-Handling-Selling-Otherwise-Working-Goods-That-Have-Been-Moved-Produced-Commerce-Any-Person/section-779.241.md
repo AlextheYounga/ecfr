@@ -1,0 +1,3 @@
+##### § 779.241 Selling. #####
+
+The statutory definition of the term “sale” or “sell” is quoted in § 779.15. As long as the employee in any way participates in the sale of the goods he will be considered to be “selling” the goods, whether he physically handles them or not. Thus, if the employee performs any work that, in a practical sense is an essential part of consummating the “sale” of the particular goods, he will be considered to be “selling” the goods. “Selling” goods, under section 3(s) has reference only to goods which “have been moved in or produced for commerce by any person,” as discussed in §§ 779.242 and 779.243.

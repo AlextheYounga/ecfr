@@ -1,0 +1,3 @@
+##### § 794.129 Sales “made within the State” not limited to noncovered activity. #####
+
+Sales to customers located in the same State as the establishment are sales made “within the State” even though such sales may constitute activity within the interstate commerce coverage of the Act, as where the sale (a) is made pursuant to prior orders from customers for goods to be obtained from outside the State; (b) contemplates the purchase of goods from outside the State to fill a customer's orders; or (c) is made to a customer for his use in interstate or foreign commerce or in the production of goods for such commerce.

@@ -1,0 +1,3 @@
+##### § 1611.12 Penalties. #####
+
+The criminal penalties which have been established for violations of the Privacy Act of 1974 are set forth in 5 U.S.C. 552a(i). Penalties are applicable to any officer or employee of the Commission; to contractors and employees of such contractors who enter into contracts with the Commission on or after September 27, 1975, and who are considered to be employees of the Commission within the meaning of 5 U.S.C. 552a(m); and to any person who knowingly and willfully requests or obtains any record concerning an individual from the Commission under false pretenses.

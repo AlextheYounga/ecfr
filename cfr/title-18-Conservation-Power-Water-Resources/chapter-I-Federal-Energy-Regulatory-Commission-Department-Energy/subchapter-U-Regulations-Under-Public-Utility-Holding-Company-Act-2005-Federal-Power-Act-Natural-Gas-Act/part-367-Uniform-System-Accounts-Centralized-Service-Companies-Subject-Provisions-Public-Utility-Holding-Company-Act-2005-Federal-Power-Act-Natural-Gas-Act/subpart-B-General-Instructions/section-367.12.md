@@ -1,0 +1,3 @@
+##### § 367.12 Payroll distribution. #####
+
+Underlying accounting data must be maintained so that the distribution of the cost of labor charged direct to the various accounts will be readily available. The underlying data must permit a reasonably accurate distribution to be made of the cost of labor charged initially to clearing accounts so that the total labor cost may be classified among construction, cost of removal, or operating functions.

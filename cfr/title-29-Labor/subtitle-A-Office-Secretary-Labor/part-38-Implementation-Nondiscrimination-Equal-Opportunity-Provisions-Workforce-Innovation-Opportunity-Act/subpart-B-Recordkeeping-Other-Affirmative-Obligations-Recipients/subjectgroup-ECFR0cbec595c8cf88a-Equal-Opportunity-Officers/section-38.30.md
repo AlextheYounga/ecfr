@@ -1,0 +1,3 @@
+##### § 38.30 Requisite skill and authority of Equal Opportunity Officer. #####
+
+The EO Officer must be a senior level employee of the recipient who has the knowledge, skills and abilities necessary to fulfill the responsibilities competently as described in this subpart. Depending upon the size of the recipient, the size of the recipient's WIOA Title I-financially assisted programs or activities, and the number of applicants, registrants, and participants served by the recipient, the EO Officer may, or may not, be assigned other duties. However, the EO Officer must not have other responsibilities or activities that create a conflict or the appearance of a conflict with the responsibilities of an EO Officer.

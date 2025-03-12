@@ -1,0 +1,3 @@
+##### § 6.34 Appeal of denial of access within FEMA. #####
+
+A requestor denied access in whole or in part, to records pertaining to that individual, exclusive of those records for which the system manager is the Administrator, may file an administrative appeal of that denial. Appeals of denied access will be processed in the same manner as processing for appeals from a denial of a request to amend a record set out in § 6.55, regardless whether the denial being appealed is made at headquarters or by a regional official.

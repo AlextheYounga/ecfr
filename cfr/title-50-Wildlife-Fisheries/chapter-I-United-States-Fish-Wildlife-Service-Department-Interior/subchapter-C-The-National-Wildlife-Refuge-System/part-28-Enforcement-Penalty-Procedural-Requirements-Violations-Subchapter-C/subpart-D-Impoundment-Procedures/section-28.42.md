@@ -1,0 +1,15 @@
+##### § 28.42 Impounding of domestic animals. #####
+
+(a) Any animal trespassing on the lands of any national wildlife refuge may be impounded and disposed of in accordance with State statutes insofar as they may be applicable. In the absence of such State statutes, the animals shall be disposed of in accordance with this section.
+
+(b) If the owner is known, prompt written notice of the impounding will be served in person with written receipt obtained or delivery by certified mail with return receipt requested. In the event of his failure to remove the impounded animal within five (5) days from receipt of such notice, it will be sold or otherwise disposed of as prescribed in this section.
+
+(c) If the owner is unknown, no disposition of the animal shall be made until at least fifteen (15) days have elapsed from the date of a legal notice of the impounding has been posted at the county courthouse and 15 days after the second notice published in a newspaper in general circulation in the county in which the trespass took place.
+
+(d) The notice shall state when and where the animal was impounded and shall describe it by brand or earmark or distinguishing marks or by other reasonable identification. The notice shall specify the time and place the animal will be offered at public sale to the highest bidder, in the event it is not claimed or redeemed. The notice shall reserve the right of the official conducting the sale to reject any and all bids so received.
+
+(e) Prior to such sale, the owner may redeem the animal by submitting proof of ownership and paying all expenses of the United States for, capturing, impounding, advertising, care, forage, and damage claims.
+
+(f) If an animal impounded under this section is offered at public sale and no bid is received or if the highest bid received is an amount less than the claim of the United States, the animal may be sold at private sale for the highest amount obtainable, or be condemned and destroyed or converted to the use of the United States. Upon the sale of any animal in accordance with this section, the buyer shall be issued a certificate of sale.
+
+(g) In determining the claim of the Federal Government in all livestock trespass cases on national wildlife refuges, the value of forage consumed shall be computed at the commercial unit rate prevailing in the locality for that class of livestock. In addition, the claim shall include damages to national wildlife refuge property injured or destroyed, and all the related expenses incurred in the impounding, caring for and disposing of the animal. The salary of Service employees for the time spent in and about the investigations, reports, and settlement or prosecution of the case shall be prorated in computing the expense. Payment of claims due the United States shall be made by certified check or postal money order payable to the U.S. Fish and Wildlife Service.

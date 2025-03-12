@@ -1,0 +1,3 @@
+##### § 930.72 Person. #####
+
+The term “person” means any individual, corporation, partnership, association, or other entity organized or existing under the laws of any State; the federal government; any State, regional, or local government; or any entity of such federal, State, regional or local government, who submits to the Secretary of the Interior, or designee following management program approval, an OCS plan which describes in detail federal license or permit activities.

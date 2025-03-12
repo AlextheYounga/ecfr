@@ -1,0 +1,3 @@
+##### § 636.404 Can a competitive range be used to limit competition? #####
+
+If the solicitation notifies offerors that the competitive range can be limited for purposes of efficiency, you may limit the number of proposals to the greatest number that will permit an efficient competition. However, you must provide written notice to any offeror whose proposal is no longer considered to be included in the competitive range. Offerors excluded or otherwise eliminated from the competitive range may request a debriefing. Debriefings may be conducted in accordance with your procedures as long as you comply with § 636.514.

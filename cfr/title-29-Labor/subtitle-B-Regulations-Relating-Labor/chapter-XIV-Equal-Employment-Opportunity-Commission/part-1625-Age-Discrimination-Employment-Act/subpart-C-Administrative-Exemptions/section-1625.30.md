@@ -1,0 +1,7 @@
+##### § 1625.30 Administrative exemptions; procedures. #####
+
+(a) Section 9 of the Act provides that,
+
+In accordance with the provisions of subchapter II of chapter 5, of title 5, United States Code, the Secretary of Labor \* \* \* may establish such reasonable exemptions to and from any or all provisions of this Act as he may find necessary and proper in the public interest.
+
+(b) The authority conferred on the Commission by section 9 of the Act to establish reasonable exemptions will be exercised with caution and due regard for the remedial purpose of the statute to promote employment of older persons based on their ability rather than age and to prohibit arbitrary age discrimination in employment. Administrative action consistent with this statutory purpose may be taken under this section, with or without a request therefor, when found necessary and proper in the public interest in accordance with the statutory standards. No formal procedures have been prescribed for requesting such action. However, a reasonable exemption from the Act's provisions will be granted only if it is decided, after notice published in the Federal Register giving all interested persons an opportunity to present data, views, or arguments, that a strong and affirmative showing has been made that such exemption is in fact necessary and proper in the public interest. Request for such exemption shall be submitted in writing to the Commission.

@@ -1,0 +1,3 @@
+##### § 780.603 What determines application of exemption. #####
+
+The application of the section 13(b)(13) exemption depends largely upon the nature of the work performed by the individual employee for whom exemption is sought. The character of the employer's business also determine the application of the exemption. Whether an employee is exempt therefore depends upon his duties as well as the nature of the employer's activities. Some employees of the employer may be exempt in some weeks and others may not.

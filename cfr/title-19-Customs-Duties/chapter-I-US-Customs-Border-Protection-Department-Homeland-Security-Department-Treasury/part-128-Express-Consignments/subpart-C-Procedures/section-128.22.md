@@ -1,0 +1,3 @@
+##### § 128.22 Bonds. #####
+
+Each express consignment operator or carrier must be recognized by Customs as an international carrier and approved as a carrier of bonded merchandise, and shall file bonds on Customs Form 301, containing the bond conditions set forth in §§ 113.62, 113.63, 113.64 and 113.66 of this chapter, to insure compliance with Customs requirements relating to the importation and entry of merchandise as well as the carriage and custody of merchandise under Customs control.

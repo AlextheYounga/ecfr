@@ -1,0 +1,3 @@
+##### § 1620.28 Relationship to other equal pay laws. #####
+
+The provisions of various State or local laws may differ from the equal pay provisions set forth in the FLSA. No provisions of the EPA will excuse noncompliance with any State or other law establishing fewer defenses or more liberal work criteria than those of the EPA. On the other hand, compliance with other applicable legislation will not excuse violations of the EPA.

@@ -1,0 +1,23 @@
+##### § 101.23 Initiation and investigation of a petition in connection with a case under section 8(b)(7). #####
+
+(a) A representation petition1 involving the employees of the employer named in the charge is handled under an expedited procedure when the investigation of the charge has revealed that:
+
+1 The manner of filing of such petition and the contents thereof are the same as described in 29 CFR 102.60 and 102.61 and the statement of the general course of proceedings under Section 9(c) of the Act published in the Federal Register, insofar as they are applicable, except that the petitioner is not required to allege that a claim was made on the employer for recognition or that the union represents a substantial number of employees.
+
+(1) The employer's operations affect commerce within the meaning of the Act;
+
+(2) Picketing of the employer is being conducted for an object proscribed by section 8(b)(7) of the Act;
+
+(3) Subparagraph (C) of that section of the Act is applicable to the picketing; and
+
+(4) The petition has been filed within a reasonable period of time not to exceed 30 days from the commencement of the picketing. In these circumstances, the member of the regional director's staff to whom the matter has been assigned investigates the petition to ascertain further: the unit appropriate for collective bargaining; and whether an election in that unit would effectuate the policies of the Act.
+
+(b) If, based on such investigation, the regional director determines that an election is warranted, the director may, without a prior hearing, direct that an election be held in an appropriate unit of employees. Any party aggrieved may file a request with the Board for special permission to appeal that action to the Board, but such review, if granted, will not, unless otherwise ordered by the Board, stay the proceeding. If it is determined that an election is not warranted, the director dismisses the petition or makes other disposition of the matter. Should the regional director conclude that an election is warranted, the director fixes the basis of eligibility of voters and the place, date, and hours of balloting. The mechanics of arranging the balloting, the other procedures for the conduct of the election, and the postelection proceedings are the same, insofar as appropriate, as those described in 29 CFR 102.69 and the statement of the general course of proceedings under Section 9(c) of the Act published in the Federal Register, except that the regional director's rulings on any objections to the conduct of the election or challenged ballots are final and binding unless the Board, on an application by one of the parties, grants such party special permission to appeal from the regional director's rulings. The party requesting such review by the Board must do so promptly, in writing, and state briefly the grounds relied on. Such party must also immediately serve a copy on the other parties, including the regional director. Neither the request for review by the Board nor the Board's grant of such review operates as a stay of any action taken by the regional director, unless specifically so ordered by the Board. If the Board grants permission to appeal, and it appears to the Board that substantial and material factual issues have been presented with respect to the objections to the conduct of the election or challenged ballots, it may order that a hearing be held on such issues or take other appropriate action.
+
+(c) If the regional director believes, after preliminary investigation of the petition, that there are substantial issues which require determination before an election may be held, the director may order a hearing on the issues. This hearing is followed by regional director decision and direction of election, or other disposition. The procedures to be used in connection with such hearing and posthearing proceedings are the same, insofar as they are applicable, as those described in 29 CFR 102.63, 102.64, 102.65, 102.66, 102.67, 102.68, and 102.69, and the statement of the general course.
+
+(d) Should the parties so desire, they may, with the approval of the regional director, resolve the issues as to the unit, the conduct of the balloting, and related matters pursuant to informal consent procedures, as described in 29 CFR 102.62(a) and the statement of the general course.
+
+(e) If a petition has been filed which does not meet the requirements for processing under the expedited procedures, the regional director may process it under the procedures set forth in subpart C of 29 CFR part 102 and the statement of the general course.
+
+[79 FR 74476, Dec. 15, 2014]

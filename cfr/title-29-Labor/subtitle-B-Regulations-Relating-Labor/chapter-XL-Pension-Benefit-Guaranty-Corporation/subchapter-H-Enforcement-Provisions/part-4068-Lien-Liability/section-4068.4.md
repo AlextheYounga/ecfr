@@ -1,0 +1,3 @@
+##### § 4068.4 Lien. #####
+
+If any person liable to the PBGC under section 4062, 4063, or 4064 of ERISA fails or refuses to pay the full amount of such liability within the time specified in the demand letter issued under § 4068.3, the PBGC shall have a lien in the amount of the liability, including interest, arising as of the plan's termination date, upon all property and rights to property, whether real or personal, belonging to that person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in section 4062(a) of ERISA and part 4062 of this chapter.

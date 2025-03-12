@@ -1,0 +1,7 @@
+##### § 950.5 Requirement to use electronic toll collection technology. #####
+
+(a) Any toll agency operating a toll facility pursuant to authority under a 1604 toll program shall use an electronic toll collection system as the method for collecting tolls from vehicle operators for the use of the facility unless the toll agency can demonstrate to the FHWA that some other method is either more economically efficient or will make the facility operate more safely. If a facility is collecting tolls pursuant to section 1604(b) of SAFETEA-LU, the toll agency shall only use electronic toll collection systems. Nothing in this subsection shall prevent a toll agency from using cash payment methods, such as toll booths, in areas that are not located in the toll facility's lanes of travel if the location and use of such methods do not create unsafe operating conditions on the toll facility.
+
+(b) A toll agency using electronic toll collection technology must develop and implement reasonable methods to enable vehicle operators that are not enrolled in a toll collection program that is interoperable with the toll collection system of the relevant toll facility to use the facility.
+
+(c) A toll agency using electronic toll collection technology must develop, implement, and make publicly available privacy policies to safeguard the disclosure of any data that may be collected through such technology concerning any user of a toll facility operating pursuant to authority under a 1604 toll program, but is not required to submit such policies to FHWA for approval.

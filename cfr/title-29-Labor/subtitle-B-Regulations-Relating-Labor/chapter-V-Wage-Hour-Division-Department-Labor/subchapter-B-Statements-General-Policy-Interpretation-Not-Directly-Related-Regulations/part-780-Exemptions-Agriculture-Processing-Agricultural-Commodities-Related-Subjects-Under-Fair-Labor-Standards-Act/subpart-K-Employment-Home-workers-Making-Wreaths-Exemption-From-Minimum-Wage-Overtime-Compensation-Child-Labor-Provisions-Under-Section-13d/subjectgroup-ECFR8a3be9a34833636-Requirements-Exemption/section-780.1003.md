@@ -1,0 +1,3 @@
+##### § 780.1003 What determines the application of the exemption. #####
+
+The application of this exemption depends on the nature of the employee's work and not on the character of the employer's business. To determine whether an employee is exempt an examination should be made of the activities which that employee performs and the conditions under which he performs them. Some employees of the employer may be exempt and others may not.

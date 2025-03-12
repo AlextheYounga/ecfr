@@ -1,0 +1,3 @@
+##### § 1956.22 Procedures for evaluation and monitoring. #####
+
+The procedures contained in part 1954 of this chapter shall be applicable to evaluation and monitoring of State plans approved under this part, except that the decision to relinquish Federal enforcement authority under section 18(e) of the Act is not relevant to Phase II and III monitoring under § 1954.2 and the guidelines of exercise of Federal discretionary enforcement authority provided in § 1954.3 are not applicable to plans approved under this part. The factors listed in § 1902.37(b) of this chapter, except those specified in § 1902.37(b)(11) and (12), which would be adapted to the State compliance program, provide the basis for monitoring.

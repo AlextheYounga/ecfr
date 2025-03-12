@@ -1,0 +1,15 @@
+##### § 922.183 Allowed activities. #####
+
+(a) All activities except those prohibited by § 922.184 may be undertaken in the Sanctuary subject to any emergency regulations promulgated pursuant to § 922.185, subject to the interagency cooperation provisions of section 304(d) of the NMSA [16 U.S.C. 1434(d)] and § 922.187 of this subpart, and subject to the liability established by section 312 of the NMSA and § 922.46 of this part. All activities are also subject to all prohibitions, restrictions, and conditions validly imposed by any other Federal, State, or county authority of competent jurisdiction.
+
+(b) Included as activities allowed under the first sentence of paragraph (a) of this § 922.183 are all classes of military activities, internal or external to the Sanctuary, that are being or have been conducted before the effective date of these regulations, as identified in the Final Environmental Impact Statement/Management Plan. Paragraphs (a)(1) through (a)(5) of § 922.184 do not apply to these classes of activities, nor are these activities subject to further consultation under section 304(d) of the NMSA.
+
+(c) Military activities proposed after the effective date of these regulations are also included as allowed activities under the first sentence of paragraph (a) of this § 922.183. Paragraphs (a)(1) through (a)(5) of § 922.184 apply to these classes of activities unless—
+
+(1) They are not subject to consultation under section 304(d) of the NMSA and § 922.187 of this subpart, or
+
+(2) Upon consultation under section 304(d) of the NMSA and § 922.187 of this subpart, NOAA's findings and recommendations include a statement that paragraphs (a)(1) through (a)(5) of § 922.184 do not apply to the military activity.
+
+(d) If a military activity described in paragraphs (b) or (c)(2) of this § 922.183 is modified such that it is likely to destroy, cause the loss of, or injure a Sanctuary resource in a manner significantly greater than was considered in a previous consultation under section 304(d) of the NMSA and § 922.187 of this subpart, or if the modified activity is likely to destroy, cause the loss of, or injure any Sanctuary resource not considered in a previous consultation under section 304(d) of the NMSA and § 922.187 of this subpart, the modified activity will be treated as a new military activity under paragraph (c) of this section.
+
+(e) If a proposed military activity subject to section 304(d) of the NMSA and § 922.187 of this subpart is necessary to respond to an emergency situation and the Secretary of Defense determines in writing that failure to undertake the proposed activity during the period of consultation would impair the national defense, the Secretary of the military department concerned may request the Director that the activity proceed during consultation. If the Director denies such a request, the Secretary of the military department concerned may decide to proceed with the activity. In such case, the Secretary of the military department concerned shall provide the Director with a written statement describing the effects of the activity on Sanctuary resources once the activity is completed.

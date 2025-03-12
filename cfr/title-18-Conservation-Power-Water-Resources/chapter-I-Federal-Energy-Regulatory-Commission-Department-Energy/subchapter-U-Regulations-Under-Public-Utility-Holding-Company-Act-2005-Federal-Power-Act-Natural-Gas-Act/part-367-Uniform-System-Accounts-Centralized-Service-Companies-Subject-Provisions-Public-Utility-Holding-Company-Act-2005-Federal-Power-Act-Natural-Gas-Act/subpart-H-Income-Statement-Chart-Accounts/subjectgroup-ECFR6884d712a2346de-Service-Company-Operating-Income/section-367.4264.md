@@ -1,0 +1,5 @@
+##### § 367.4264 Account 426.4, Expenditures for certain civic, political and related activities. #####
+
+(a) This account must include expenditures for the purpose of influencing public opinion with respect to the election or appointment of public officials, referenda, legislation, or ordinances (either with respect to the possible adoption of new referenda, legislation or ordinances or repeal or modification of existing referenda, legislation or ordinances) or approval, modification, or revocation of franchises; or for the purpose of influencing the decisions of public officials.
+
+(b) This account must not include expenditures that are directly related to appearances before regulatory or other governmental bodies in connection with an associate utility company's existing or proposed operations.

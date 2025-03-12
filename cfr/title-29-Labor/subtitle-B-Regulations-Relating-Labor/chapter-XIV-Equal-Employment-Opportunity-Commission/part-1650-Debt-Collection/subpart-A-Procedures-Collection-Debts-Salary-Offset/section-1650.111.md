@@ -1,0 +1,3 @@
+##### § 1650.111 Recovery from other payments due a separated employee. #####
+
+When a debt owed to EEOC has not been completely liquidated through salary offset and the employee has separated from EEOC, the Commission shall, pursuant to 31 U.S.C. 3716 and the Federal Claims Collection Standards, 31 CFR parts 900-904, seek to offset the balance of the debt against any financial payment due the employee from the U.S. Government.

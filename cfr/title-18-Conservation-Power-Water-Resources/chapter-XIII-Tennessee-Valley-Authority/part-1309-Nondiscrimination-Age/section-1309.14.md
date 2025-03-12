@@ -1,0 +1,23 @@
+##### § 1309.14 How will complaints against recipients be processed? #####
+
+(a) *Receipt of complaints.* Any individual who claims (individually or on behalf of any specific class of individuals) that he or she has been subjected to discrimination prohibited by this part (including § 1309.13) may file a written complaint with TVA. The written complaint must be filed not later than 90 days from the date of the alleged discrimination, unless the time for filing is extended by TVA for good cause shown. A complaint shall be signed by the complainant, give the name and mailing address of the complainant and the recipient, identify the TVA financial assistance involved, and state the facts and occurrences (including dates) which led the complainant to believe that an act of prohibited discrimination has occurred. Anonymous complaints will not be accepted or filed under this section, but may be the basis for a compliance review. TVA will reject any complaint which does not fall within the coverage of the Act and this part, and may reject or require supplementation or clarification of any complaint which does not contain sufficient information for further processing as set forth in this paragraph. A complaint shall not be deemed filed until all such information has been provided to TVA.
+
+(b) *Prompt resolution of complaints.* The complaint shall be resolved promptly. To this end, TVA shall proceed with the complaint without undue delay so that the complaint is resolved within 180 calendar days after it is filed with TVA. The recipient and complainant involved in each complaint are required to cooperate in this effort. Failure to cooperate on the part of the complainant may result in cancellation of the complaint, while such failure on the part of the recipient may result in enforcement action as described in § 1309.15.
+
+(c) *Mediation of complaints.* All complaints which fall within the coverage of the Act and this part will be referred to a mediation agency designated by the Secretary.
+
+(1) The participation of the recipient and the complainant in the mediation process is required, although both parties need not meet with the mediator at the same time.
+
+(2) If the complainant and recipient reach a mutually satisfactory resolution of the complaint during the mediation period, they shall reduce the agreement to writing. The mediator shall send a copy of the settlement to TVA. No further action shall be taken based on that complaint unless it appears that the complainant or the recipient is failing to comply with the agreement.
+
+(3) Not more than 60 days after the complaint is filed, the mediator shall return a still unresolved complaint to TVA for initial investigation. The mediator may return a complaint at any time before the end of the 60-day period if it appears that the complaint cannot be resolved through mediation.
+
+(4) The mediator shall protect the confidentiality of all information obtained in the course of the mediation process. No mediator shall testify in any adjudicative proceeding, produce any document, or otherwise disclose any information obtained in the course of the mediation process without prior approval of the head of the agency appointing the mediator.
+
+(d) *Investigation.* (1) TVA will make a prompt investigation whenever a complaint is unresolved within 60 days after it is filed with TVA or is reopened because of a violation of the mediation agreement. The investigation should include, where appropriate, a review of the pertinent practices and policies of the recipient, the circumstances under which the possible noncompliance with the Act and this part occurred, and other factors relevant to a determination as to whether the recipient has failed to comply with the Act and this part.
+
+(2) As part of the initial investigation, TVA shall use informal fact finding methods including joint or individual discussions with the complainant and recipient to establish the facts, and, if possible, to resolve the complaint to the mutual satisfaction of the parties. TVA may seek the assistance of any involved State agency.
+
+(3) If TVA cannot resolve the matter within 10 calendar days after the mediator returns the complaint, it shall complete the investigation, attempt to achieve voluntary compliance satisfactory to TVA, if the investigation indicates a violation, and arrange for enforcement as described in § 1309.15, if necessary.
+
+[46 FR 30811, June 11, 1981, as amended at 68 FR 51357, Aug. 26, 2003]

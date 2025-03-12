@@ -1,0 +1,3 @@
+##### § 17.65 Demand and notice of intent to offset. #####
+
+HUD will make written demand upon the debtor pursuant to the requirements of 31 CFR 901.2 and send written notice of intent to offset to the debtor pursuant to the requirements of 31 CFR 901.3 and 31 CFR part 285, subpart A. The Secretary shall mail the demand and notice of intent to offset to the debtor, at the most current address that is available to the Secretary. HUD may refer the debt to the Treasury for collection and shall request that the amount of the debt be offset against any amount payable by the Treasury as a Federal payment, at any time after 60 days from the date such notice is sent to the debtor.

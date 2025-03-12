@@ -1,0 +1,3 @@
+##### § 10.803 Filing of claim for preferential tariff treatment upon importation. #####
+
+An importer may make a claim for BFTA preferential tariff treatment for an originating good by including on the entry summary, or equivalent documentation, the symbol “BH” as a prefix to the subheading of the HTSUS under which each qualifying good is classified, or by the method specified for equivalent reporting via an authorized electronic data interchange system.

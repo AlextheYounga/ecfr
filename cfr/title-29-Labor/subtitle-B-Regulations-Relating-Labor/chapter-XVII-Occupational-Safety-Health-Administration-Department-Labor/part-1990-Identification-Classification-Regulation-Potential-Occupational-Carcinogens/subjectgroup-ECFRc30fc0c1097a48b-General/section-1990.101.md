@@ -1,0 +1,3 @@
+##### § 1990.101 Scope. #####
+
+This part establishes criteria and procedures for the identification, classification, and regulation of potential occupational carcinogens found in each workplace in the United States regulated by the Occupational Safety and Health Act of 1970 (the Act). The procedures contained in this part supplement the procedural regulations in other parts of this chapter. In the event of a conflict, the procedures contained in this part shall govern the identification, classification, and regulation of potential occupational carcinogens. This part may be referred to as “The OSHA Cancer Policy.”

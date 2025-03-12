@@ -1,0 +1,3 @@
+##### § 102.50 Hearings before Board or member thereof. #####
+
+Whenever the Board deems it necessary in order to effectuate the purpose of the act or to avoid unnecessary costs or delay, it may, at any time after a complaint has issued pursuant to § 102.15 or § 102.33, order that such complaint and any proceeding which may have been instituted with respect thereto be transferred to and continued before it or any member of the Board. The provisions of this subpart shall, insofar as applicable, govern proceedings before the Board or any member pursuant to this section, and the powers granted to administrative law judges in such provisions shall, for the purpose of this section, be reserved to and exercised by the Board or the member thereof who shall preside.

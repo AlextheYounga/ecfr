@@ -1,0 +1,9 @@
+##### § 236.1 Applicability, cross-reference, and savings clause. #####
+
+(a) *Applicability.* This section implements the eligibility requirements for mortgage insurance under the Rental and Cooperative Housing For Lower Income Families Program contained in section 236 of the National Housing Act (12 U.S.C. 1701), as amended. The program authorized the Secretary to insure mortgages to support new construction or rehabilitation of real property to be used primarily for residential rental purposes. A moratorium against issuance of commitments to insure new mortgages under section 236 was imposed January 5, 1973. Section 236(n) prohibits the insurance of mortgages under section 236 after November 30, 1983, except to permit the refinance of a mortgage insured under section 236, or to finance pursuant to section 236(j)(3), the purchase, by a cooperative or nonprofit corporation or association, of a project assisted under section 236. The definition of “family” in 24 CFR 200.3(a) applies to any refinancing of a mortgage insured under section 236, or to financing pursuant to section 236(j)(3) of the purchase, by a cooperative or nonprofit corporation or association of a project assisted under section 236.
+
+(b) The mortgagor must comply with the financial reporting requirements in 24 CFR part 5, subpart H.
+
+(c) *Savings provision.* Any mortgage approved by the Commissioner for insurance pursuant to sections 236(j) or 236(n) of the National Housing Act is governed by subpart A of this part as in effect immediately before May 1, 1996, contained in the April 1, 1995 edition of 24 CFR, parts 220 to 499, and by subparts B through E of this part, except as otherwise provided in this subpart.
+
+[61 FR 14407, Apr. 1, 1996, as amended at 63 FR 46592, Sept. 1, 1998; 65 FR 61074, Oct. 13, 2000; 77 FR 5675, Feb. 3, 2012]

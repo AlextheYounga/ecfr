@@ -1,0 +1,15 @@
+##### § 704.39 Discount rate. #####
+
+(a) The interest rate to be used in plan formulation and evaluation for discounting future benefits and computing costs, or otherwise converting benefits and costs to a common time basis, shall be based upon the average yield during the preceding fiscal year on interest-bearing marketable securities of the United States which, at the time the computation is made, have terms of 15 years or more remaining to maturity: *Provided, however,* That in no event shall the rate be raised or lowered more than one-quarter of 1 percent for any year. The average yield shall be computed as the average during the fiscal year of the daily bid prices. Where the average rate so computed is not a multiple of one-eighth of 1 percent, the rate of interest shall be the multiple of one-eighth of 1 percent nearest to such average rate.
+
+(b) The computation shall be made as of July 1 of each year, and the rate thus computed shall be used during the succeeding 12 months. The Executive Director shall annually request the Secretary of the Treasury to inform the Water Resources Council of the rate thus computed.
+
+(c) Subject to the provisions of paragraphs (d) and (e) of this section, the provisions of paragraphs (a) and (b) of this section shall apply to all Federal and federally assisted water and related land resources project evaluation reports submitted to the Congress, or approved administratively, after the close of the second session of the 90th Congress.
+
+(d) Where construction of a project has been authorized prior to the close of the second session of the 90th Congress, and the appropriate State or local governmental agency or agencies have given prior to December 31, 1969, satisfactory assurances to pay the required non-Federal share of project costs, the discount rate to be used in the computation of benefits and costs for such project shall be the rate in effect immediately prior to the effective date of this section, and that rate shall continue to be used for such project until construction has been completed, unless the Congress otherwise decides.
+
+(e) Notwithstanding the provisions of paragraphs (a) and (b) of this section, the discount rate to be used in plan formulation and evaluation during the remainder of the fiscal year 1969 shall be 45/8 percent except as provided by paragraph (d) of this section.
+
+(f) Section V. G. 2 of the interagency agreement dated May 15, 1962, approved by the President on May 15, 1962, entitled “Policies, Standards, and Procedures in the Formulation, Evaluation, and Review of Plans for Use and Development of Water and Related Land Resources,” and published on May 29, 1962, as Senate Document No. 97, 87th Congress, 2d Session, is superseded by the provisions of this section.
+
+[33 FR 19170, Dec. 24, 1968]

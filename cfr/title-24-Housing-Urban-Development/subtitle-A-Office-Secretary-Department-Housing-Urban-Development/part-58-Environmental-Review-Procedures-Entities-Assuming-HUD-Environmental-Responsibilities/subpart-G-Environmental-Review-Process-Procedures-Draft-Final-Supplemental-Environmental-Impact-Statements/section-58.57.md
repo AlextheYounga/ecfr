@@ -1,0 +1,3 @@
+##### § 58.57 Lead agency designation. #####
+
+If there are several agencies ready to assume the lead role, the responsible entity must make its decision based on the criteria in 40 CFR 1501.5(c). If the responsible entity and a Federal agency are unable to reach agreement, then the responsible entity must notify HUD (or the State, where applicable). HUD (or the State) will assist in obtaining a determination based on the procedure set forth in 40 CFR 1501.5(e).

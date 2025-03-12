@@ -1,0 +1,9 @@
+##### § 201.25 Times, places, and requirements for identification of individuals making requests. #####
+
+(a) If an individual wishes to examine his or her records in person, it shall be the responsibility of the individual requester to arrange an appointment with the Privacy Act Officer for the purpose of inspecting individual records. The time of inspection shall be during the regular office hours of the Commission, 8:45 a.m. to 5:15 p.m., Monday through Friday. The time arranged should be mutually convenient to the requester and to the Commission.
+
+(b) The place where an individual may gain access to records maintained by the Commission which pertain to him or her shall be at the United States International Trade Commission Building, 500 E Street SW., Washington, DC 20436. The Privacy Act Officer shall inform the individual requester of the specific room wherein inspection will take place.
+
+(c) An individual may also request the Privacy Act Officer to provide the individual with a copy of his or her records by certified mail.
+
+(d) An individual who requests to gain access to those records maintained by the Commission which pertain to him or her shall not be granted access to those records without first presenting adequate identification to the Privacy Act Officer. Adequate identification may include, but is not limited to, a government identification card, a driver's license, Medicare card, a birth certificate, or a passport. If requesting records by mail, an individual must provide full name, current address, and date and place of birth. The request must be signed and either notarized or submitted under 28 U.S.C. 1746, which permits statements to be made under penalty of perjury as a substitute for notarization. In order to help the identification and location of requested records, a requestor may also, at his or her option, include the individual's social security number.

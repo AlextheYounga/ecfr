@@ -1,0 +1,3 @@
+##### § 25.72 Reporting of accidents. #####
+
+Accidents involving damage to property, injury to the public or injury to wildlife that occur within the boundaries of any national wildlife refuge are to be reported as soon as possible, but in no event later than 24 hours after the accident, by the persons involved, to the refuge manager or other personnel on duty at the national wildlife refuge headquarters. This report does not relieve persons from the responsibility of making any other accident reports which may be required.

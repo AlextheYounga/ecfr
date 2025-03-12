@@ -1,0 +1,13 @@
+##### § 570.140 General. #####
+
+(a) Section 15(a)(4) of the Act makes any violation of the provisions of sections 12(a) or 12(c) unlawful. Any such unlawful act or practice may be enjoined by the United States District Courts under section 17 upon court action, filed by the Secretary pursuant to section 12(b) and, if willful will subject the offender to the criminal penalties provided in section 16(a) of the Act. Section 16(a) provides that any person who willfully violates any of the provisions of section 15 shall upon conviction thereof be subject to a fine of not more than $10,000, or to imprisonment for not more than six months, or both. No person shall be imprisoned under this subsection except for an offense committed after the conviction of such person for a prior offense under this subsection.
+
+(b) In addition, FLSA section 16(e) states that any person who violates the provisions of FLSA sections 12 or 13(c), relating to child labor, or any regulations issued under those sections, shall be subject to a civil penalty, not to exceed:
+
+(1) $12,080 for each employee who was the subject of such a violation; or
+
+(2) $54,910 with regard to each such violation that causes the death or serious injury of any employee under the age of 18 years, which penalty may be doubled where the violation is repeated or willful.
+
+(c) Part 579 of this chapter, *Child Labor Violations - Civil Money Penalties,* provides for the issuance of the notice of civil money penalties for any violation of FLSA sections 12 or 13(c) relating to child labor. Part 580 of this chapter, *Civil Money Penalties - Procedures for Assessing and Contesting Penalties,* describes the administrative process for assessment and resolution of the civil money penalties. When a civil money penalty is assessed against an employer for a child labor violation, the employer has the right, within 15 days after receipt of the notice of such penalty, to file an exception to the determination that the violation or violations occurred. When such an exception is filed with the office making the assessment, the matter is referred to the Chief Administrative Law Judge, and a formal hearing is scheduled. At such a hearing, the employer or an attorney retained by the employer may present such witnesses, introduce such evidence and establish such facts as the employer believes will support the exception. The determination of the amount of any civil money penalty becomes final if no exception is taken to the administrative assessment thereof, or if no exception is filed to the decision and order of the administrative law judge.
+
+[75 FR 28460, May 20, 2010, as amended at 81 FR 43451, July 1, 2016]

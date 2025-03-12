@@ -1,0 +1,5 @@
+##### § 72.1 Purpose of part. #####
+
+This part provides administrative and cost-recovery procedures for the engineering review and administrative processing associated with FEMA's response to requests for Conditional Letters of Map Amendment (CLOMAs), Conditional Letters of Map Revision (CLOMRs), Conditional Letters of Map Revision Based on Fill (CLOMR-Fs), Letters of Map Revision Based on Fill (LOMR-Fs), Letters of Map Revision (LOMRs), and Physical Map Revisions (PMRs). Such requests are based on proposed or actual manmade alterations within the floodplain, such as the placement of fill; modification of a channel; construction or modification of a bridge, culvert, levee, or similar measure; or construction of single or multiple residential or commercial structures on single or multiple lots.
+
+[62 FR 5736, Feb. 6, 1997]

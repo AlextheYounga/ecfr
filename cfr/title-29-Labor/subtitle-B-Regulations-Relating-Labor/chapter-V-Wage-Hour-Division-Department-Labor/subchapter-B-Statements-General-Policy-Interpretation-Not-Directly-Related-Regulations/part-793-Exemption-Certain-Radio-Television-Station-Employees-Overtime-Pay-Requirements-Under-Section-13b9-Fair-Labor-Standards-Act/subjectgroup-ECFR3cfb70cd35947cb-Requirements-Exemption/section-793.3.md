@@ -1,0 +1,5 @@
+##### § 793.3 Statutory provision. #####
+
+Section 13(b) (9) of the Act exempts from the overtime requirements of section 7, but not from the minimum wage provisions of section 6, of the Act:
+
+any employee employed as an announcer, news editor, or chief engineer by a radio or television station the major studio of which is located (A) in a city or town of one hundred thousand population or less, according to the latest available decennial census figures as compiled by the Bureau of the Census except where such city or town is part of a standard metropolitan statistical area, as defined and designated by the Bureau of the Budget, which has a total population in excess of one hundred thousand, or (B) in a city or town of twenty-five thousand population or less, which is part of such an area but is at least 40 airline miles from the principal city in such area.

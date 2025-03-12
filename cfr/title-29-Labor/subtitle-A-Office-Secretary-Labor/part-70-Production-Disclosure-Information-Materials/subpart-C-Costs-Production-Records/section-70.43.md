@@ -1,0 +1,13 @@
+##### § 70.43 Payment of fees. #####
+
+(a) *De minimis costs.* As noted in § 70.42(a) of this subpart, the Department has determined it will not assess or collect fees below $25.00. In these cases, the cost of collecting and processing a fee equals or exceeds the amount of the fee which would otherwise be assessed. The Department will assess fees where the costs to be assessed, after deduction of any free pages and/or search time, is $25.00 or higher.
+
+(b) *How payment will be made.* Requesters will pay fees assessed by check or money order made payable to the Treasury of the United States, and sent to the component that is processing the request.
+
+(c) *Advance payments and billing.* (1) Prior to beginning to process a request, the component will make a preliminary assessment of the amount that can properly be charged to the requester for search and review time and copying costs. Where a component determines or estimates that a total fee to be charged under this section will be more than $250.00, the component will require the requester to make an advance payment of an amount up to the entire anticipated fee before beginning to process the request. The component may waive the advance payment where the component receives a satisfactory assurance of full payment from a requester who has a history of prompt payment of an amount similar to the one anticipated by the request.
+
+(2) Where a requester has previously failed to pay a properly charged FOIA fee to any component of the Department of Labor within 30 days of the date of billing, a component will require the requester to pay the full amount due, plus any applicable interest as provided in Sec. 70.40(f) and to make an advance payment of the full amount of any anticipated fee, before the component begins to process a new request or appeal or continues to process a pending request or appeal from that requester.
+
+(3) For a request other than those described in paragraphs (c)(1) and (2) of this section, a component will not require the requester to make an advance payment before beginning to process a request. Payment owed for work already completed on a request pursuant to consent of the requester is not an advance payment and a component may require the requester to make a payment for such work prior to releasing any records to the requester.
+
+(d) *Time limits to respond extended when advance payments are requested.* When a component has requested an advance payment of fees in accordance with paragraph (c) of this section, the time limits prescribed in Sec. 70.25 will only begin to run after the component has received the advance payment.

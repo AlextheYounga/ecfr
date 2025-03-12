@@ -1,0 +1,5 @@
+##### § 520.203 What records does an employer have to keep when subminimum wage certificates are granted? How long do they have to be kept? #####
+
+(a) In addition to other records required under the recordkeeping requirements (part 516 of this chapter), the employer is required to keep records specific to certification under section 14(a) of the Fair Labor Standards Act. All workers employed under a subminimum wage certificate shall be designated as such on the employer's payroll records. Further recordkeeping requirements are described in each applicable subpart of this part (see §§ 520.412 and 520.508 of this part).
+
+(b) Employers must maintain and preserve all required records for at least three years from the last date of employment under a subminimum wage program. The employer's copy of the application and the certificate shall also be maintained for three years. Such records shall be kept secure and accessible at the place of employment or where payroll records are customarily maintained. All records must be available for inspection and copying by the Administrator.

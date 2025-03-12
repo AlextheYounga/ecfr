@@ -1,0 +1,11 @@
+##### § 1007.75 Payment under guarantee. #####
+
+(a) *Lender options*—(1) *Notification.* If a borrower on a loan guaranteed under this part defaults on the loan, the holder of the guarantee certificate shall provide written notice of the default to HUD.
+
+(2) *Payment.* Upon providing the notice required under paragraph (a)(1), of this section, the holder of the guarantee certificate shall be entitled to payment under the guarantee (subject to the provisions of this section) and may proceed to obtain payment in one of the following manners:
+
+(i) *Foreclosure.* The holder of the certificate may initiate foreclosure proceedings (after providing written notice of that action to HUD). Upon a final order by the court authorizing foreclosure and submission to HUD of a claim for payment under the guarantee, HUD will pay to the holder of the certificate the pro rata portion of the amount guaranteed (as determined under § 1007.60) plus reasonable fees and expenses as approved by HUD. HUD's rights will be subrogated to the rights of the holder of the guarantee, who shall assign the obligation and security to HUD.
+
+(ii) *No foreclosure.* Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under paragraph (a)(2)(i) of this section continues for a period in excess of 1 year), the holder of the guarantee may submit to HUD a request to assign the obligation and security interest to HUD in return for payment of the claim under the guarantee. HUD may accept assignment of the loan if HUD determines that the assignment is in the best interest of the United States. Upon assignment, HUD will pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under § 1007.60). HUD's rights will be subrogated to the rights of the holder of the guarantee, who shall assign the obligation and security to HUD.
+
+(b) *Requirements.* Before any payment under a guarantee is made under paragraph (a) of this section, the holder of the guarantee shall exhaust all reasonable possibilities of collection. Upon payment, in whole or in part, to the holder, the note or judgment evidencing the debt shall be assigned to the United States and the holder shall have no further claim against the borrower or the United States. HUD will then take such action to collect as HUD determines to be appropriate.

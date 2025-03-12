@@ -1,0 +1,3 @@
+##### § 780.1012 Other evergreens. #####
+
+The “other evergreens” of which the wreath may be principally made include any plant which retains its greenness through all the seasons of the year, such as laurel, ivy, yew, fir, and others. While plants other than evergreens may be used in making the wreaths, such plants, whether they are forest products cultivated plants, cannot be considered as part of the required principal evergreen component of the wreath.

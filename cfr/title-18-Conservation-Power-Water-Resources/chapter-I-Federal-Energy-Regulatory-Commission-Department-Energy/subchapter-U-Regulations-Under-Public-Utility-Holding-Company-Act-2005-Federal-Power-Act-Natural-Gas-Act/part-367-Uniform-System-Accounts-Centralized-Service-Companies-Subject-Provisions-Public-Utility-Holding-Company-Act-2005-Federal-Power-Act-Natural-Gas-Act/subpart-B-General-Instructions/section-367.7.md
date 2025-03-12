@@ -1,0 +1,3 @@
+##### § 367.7 Item list. #####
+
+Lists of items appearing in the texts of the accounts or elsewhere in this part are for the purpose of indicating clearly the application of the prescribed accounting. The lists are intended to be representative, but not exhaustive. The appearance of an item in a list warrants the inclusion of the item in the account mentioned only when the text of the account also indicates inclusion inasmuch as the same item frequently appears in more than one list. The proper entry in each instance must be determined by the texts of the accounts.

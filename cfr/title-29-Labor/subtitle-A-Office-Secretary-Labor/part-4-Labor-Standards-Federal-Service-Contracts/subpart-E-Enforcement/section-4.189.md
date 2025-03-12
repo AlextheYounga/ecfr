@@ -1,0 +1,3 @@
+##### § 4.189 Administrative proceedings relating to enforcement of labor standards. #####
+
+The Secretary is authorized pursuant to the provisions of section 4(a) of the Act to hold hearings and make decisions based upon findings of fact as are deemed to be necessary to enforce the provisions of the Act. Pursuant to section 4(a) of the Act, the Secretary's findings of fact after notice and hearing are conclusive upon all agencies of the United States and, if supported by the preponderance of the evidence, conclusive in any court of the United States, without a trial de novo. *United States* v. *Powers Building Maintenance Co.,* 336 F. Supp. 819 (W.D. Okla. 1972). Rules of practice for administrative proceedings are set forth in parts 6 and 8 of this title.

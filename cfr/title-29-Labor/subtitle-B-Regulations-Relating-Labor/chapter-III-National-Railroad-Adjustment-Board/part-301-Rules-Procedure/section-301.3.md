@@ -1,0 +1,3 @@
+##### § 301.3 Organization. #####
+
+The National Railroad Adjustment Board was organized as of July 31, 1934, in accordance with the provisions of the Railway Labor Act, approved June 21, 1934. The said Adjustment Board is composed of four Divisions, whose proceedings shall be independent of one another. The First, Second and Third Divisions thereof are each composed of 10 members, and the Fourth Division thereof is composed of 6 members.

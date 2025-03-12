@@ -1,0 +1,3 @@
+##### § 260.77 Fees for score sheets. #####
+
+If the applicant for inspection service requests score sheets showing in detail the inspection of each container or sample inspected and listed thereon, such score sheets may be furnished by the inspector in charge of the office of inspection serving the area where the inspection was performed; and such applicant shall be changed at the rate of $2.75 for each 12 sampled units, or fraction thereof, inspected and listed on such score sheets.

@@ -1,0 +1,11 @@
+##### § 201.14 Computation of time, additional hearings, postponements, continuances, and extensions of time. #####
+
+(a) *Computation of time.* Computation of any period of time prescribed or allowed by the rules in this chapter, by order of the Commission, or by order of the presiding officer under part 210 of this chapter shall begin with the first business day following the day on which the act or event initiating such period of time shall have occurred. The last day of the period so computed is to be included, unless it is a Saturday, Sunday, or Federal legal holiday, in which event the period runs until the end of the next business day. When the period of time prescribed or allowed is less than 7 days, intermediate Saturdays, Sundays, and Federal legal holidays shall be excluded from the computation. As used in this rule, a Federal legal holiday refers to any full calendar day designated as a legal holiday by the President or the Congress of the United States. In the event of an early or all-day closing of the Commission on a business day, the Secretary is authorized to accept on the next full business day filings due the day of the early or all-day closing, without requiring the granting of an extension of time by the Chairman of the Commission, or such other person designated to conduct the investigation.
+
+(b) *Additional hearings, postponements, continuances, and extensions of time.* (1) Prior to its final determination in any investigation, the Commission may in its discretion for good cause shown grant additional hearings, postponements, or continuances of hearings.
+
+(2) The Chairman of the Commission or such other person as is designated to conduct the investigation shall determine whether to grant for good cause shown extensions of time for performing any act required by or pursuant to the rules contained in this chapter.
+
+(3) A request that the Commission take any of the actions described in this section shall be filed with the Secretary and served on all parties to the investigation. Such request shall be filed electronically and two (2) true paper copies shall be submitted on the same business day.
+
+[41 FR 17710, Apr. 27, 1976, as amended at 56 FR 11923, Mar. 21, 1991; 68 FR 32975, June 3, 2003; 76 FR 61941, Oct. 6, 2011]

@@ -1,0 +1,3 @@
+##### § 1404.1 Scope and authority. #####
+
+This chapter is issued by the Federal Mediation and Conciliation Service (FMCS) under Title II of the Labor Management Relations Act of 1947 (Pub. L. 80-101) as amended. It applies to all arbitrators listed on the FMCS Roster of Arbitrators, to all applicants for listing on the Roster, and to all persons or parties seeking to obtain from FMCS either names or panels of names of arbitrators listed on the Roster in connection with disputes which are to be submitted to arbitration or factfinding.

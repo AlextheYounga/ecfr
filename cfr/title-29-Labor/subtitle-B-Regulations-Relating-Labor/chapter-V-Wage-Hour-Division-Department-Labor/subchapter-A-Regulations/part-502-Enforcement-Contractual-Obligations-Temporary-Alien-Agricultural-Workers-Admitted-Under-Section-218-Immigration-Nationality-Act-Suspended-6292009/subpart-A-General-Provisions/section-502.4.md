@@ -1,0 +1,3 @@
+##### § 502.4 Waiver of rights prohibited. #####
+
+No person shall seek to have an H-2A worker, or other U.S. worker hired in corresponding employment by an H-2A employer, waive any rights conferred under sec. 218 of the INA, the regulations at 20 CFR part 655, Subpart B, or under these regulations. Any agreement by an employee purporting to waive or modify any rights inuring to said person under the INA or these regulations shall be void as contrary to public policy, except that a waiver or modification of rights or obligations hereunder in favor of the Secretary shall be valid for purposes of enforcement of the provisions of the INA or these regulations. This does not prevent agreements to settle private litigation.

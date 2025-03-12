@@ -1,0 +1,3 @@
+##### § 234.54 Eligibility of assigned mortgages and mortgages covering acquired property. #####
+
+The Commissioner may insure under this part, without regard to any limitation upon eligibility contained in this subpart (except that the property must be located in a condominium project approved under § 234.26), any mortgage assigned to the Commissioner in connection with payment under a contract of mortgage insurance, or executed in connection with a sale by the Commissioner of any property acquired in the settlement of an insurance claim under any section or title of the Act.

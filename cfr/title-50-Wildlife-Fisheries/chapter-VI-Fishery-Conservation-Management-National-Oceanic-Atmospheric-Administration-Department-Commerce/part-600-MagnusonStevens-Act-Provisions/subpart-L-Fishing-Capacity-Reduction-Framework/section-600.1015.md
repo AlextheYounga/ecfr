@@ -1,0 +1,3 @@
+##### § 600.1015 Late charges. #####
+
+The late charge to fish buyers for fee payment, collection, deposit, and/or disbursement shall be one and one-half (1.5) percent per month, or the maximum rate permitted by state law, for the total amount of the fee not paid, collected, deposited, and/or disbursed when due to be paid, collected, deposited, and/or disbursed. The full late charge shall apply to the fee for each month or portion of a month that the fee remains unpaid, uncollected, undeposited, and/or undisbursed.

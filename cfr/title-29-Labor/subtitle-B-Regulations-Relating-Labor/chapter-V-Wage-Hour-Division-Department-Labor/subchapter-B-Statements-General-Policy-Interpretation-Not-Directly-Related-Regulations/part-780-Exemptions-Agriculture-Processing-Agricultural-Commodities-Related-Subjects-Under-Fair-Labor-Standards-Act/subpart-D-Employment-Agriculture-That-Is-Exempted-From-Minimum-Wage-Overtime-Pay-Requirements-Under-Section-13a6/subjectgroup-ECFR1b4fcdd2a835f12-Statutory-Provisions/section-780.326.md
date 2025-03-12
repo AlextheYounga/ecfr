@@ -1,0 +1,5 @@
+##### § 780.326 On the range. #####
+
+(a) For purposes of this exemption, “range” is defined generally as land that is not cultivated. It is land that produces native forage for animal consumption, and includes land that is revegetated naturally or artificially to provide a forage cover that is managed like range vegetation. “Forage” as used here means “browse” or herbaceous food that is available to livestock or game animals.
+
+(b) The range may be on private or Federal or State land, and need not be open. Typically it is not only noncultivated land, but land that is not suitable for cultivation because it is rocky, thin, semiarid, or otherwise poor. Typically, also, many acres of range land are required to graze one animal unit (five sheep or one cow) for 1 month. By its nature, range production of livestock is most typically conducted over wide expanses of land, such as thousands of acres.

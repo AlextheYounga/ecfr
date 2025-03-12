@@ -1,0 +1,3 @@
+##### § 141.46 Power of attorney retained by customhouse broker. #####
+
+Before transacting Customs business in the name of his principal, a customhouse broker is required to obtain a valid power of attorney to do so. He is not required to file the power of attorney with a port director. Customhouse brokers shall retain powers of attorney with their books and papers, and make them available to representatives of the Department of the Treasury as provided in subpart C of part 111 of this chapter.

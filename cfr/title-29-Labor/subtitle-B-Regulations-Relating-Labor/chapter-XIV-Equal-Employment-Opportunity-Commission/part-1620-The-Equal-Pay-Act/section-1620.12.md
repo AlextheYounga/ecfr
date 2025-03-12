@@ -1,0 +1,5 @@
+##### § 1620.12 Wage “rate.” #####
+
+(a) The term wage “rate,” as used in the EPA, refers to the standard or measure by which an employee's wage is determined and is considered to encompass all rates of wages whether calculated on a time, commission, piece, job incentive, profit sharing, bonus, or other basis. The term includes the rate at which overtime compensation or other special remuneration is paid as well as the rate at which straight time compensation for ordinary work is paid. It further includes the rate at which a draw, advance, or guarantee is paid against a commission settlement.
+
+(b) Where a higher wage rate is paid to one gender than the other for the performance of equal work, the higher rate serves as a wage standard. When a violation of the Act is established, the higher rate paid for equal work is the standard to which the lower rate must be raised to remedy a violation of the Act.

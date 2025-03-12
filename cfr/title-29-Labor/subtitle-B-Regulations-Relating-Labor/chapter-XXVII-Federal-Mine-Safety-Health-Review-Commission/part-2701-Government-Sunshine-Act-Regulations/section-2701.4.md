@@ -1,0 +1,5 @@
+##### § 2701.4 Request to open or close meeting. #####
+
+Any person may request that the Commission open a meeting that it has earlier decided to close. Any person whose interest may be directly affected by the opening of a meeting may request that the meeting be closed. Two copies of a request shall be filed in writing with the Executive Director of the Commission at the earliest practicable time, and no later than one hour before the meeting. A request to close shall state the interest of the person that may be adversely affected. The Commission shall take a recorded vote on the request if one member desires that it do so. The Executive Director shall inform the requesting person of whether a vote was taken, and, if so, its outcome. Requests shall be addressed as follows: Sunshine Act Request, Office of the Executive Director, Federal Mine Safety and Health Review Commission, 1331 Pennsylvania Avenue NW., Suite 520N, Washington, DC 20004-1710.
+
+[44 FR 2575, Jan. 12, 1979, as amended at 67 FR 60862, Sept. 27, 2002; 77 FR 48430, Aug. 14, 2012]

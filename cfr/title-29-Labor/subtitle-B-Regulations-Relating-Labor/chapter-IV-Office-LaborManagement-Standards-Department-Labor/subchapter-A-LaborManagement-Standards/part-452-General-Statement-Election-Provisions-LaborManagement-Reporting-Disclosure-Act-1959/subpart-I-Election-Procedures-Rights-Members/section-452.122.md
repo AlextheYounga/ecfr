@@ -1,0 +1,3 @@
+##### § 452.122 Delegates from intermediate bodies; method of election. #####
+
+A delegate from an intermediate body who participates in the election of officers at a national or international convention must have been elected by a secret ballot vote of the individual members of the constituent units of that body. He may not participate if he was elected by the delegates who make up the intermediate body. The secret ballot election required by the Act is an election among the general membership and not an election of delegates by other delegates.

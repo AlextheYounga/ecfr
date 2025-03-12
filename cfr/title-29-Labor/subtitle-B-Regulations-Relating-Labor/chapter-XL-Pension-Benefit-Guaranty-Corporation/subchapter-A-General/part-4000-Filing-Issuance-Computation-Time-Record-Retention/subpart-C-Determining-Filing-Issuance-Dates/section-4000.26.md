@@ -1,0 +1,11 @@
+##### § 4000.26 What if I use a commercial delivery service? #####
+
+(a) *In general.* Your filing or issuance date is the date you deposit your submission or issuance with the commercial delivery service if you meet the requirements of paragraph (b) of this section, and you deposit it by the last scheduled collection of the day for the type of delivery you use (such as two-day delivery or overnight delivery). If you deposit it later than that, or if there is no scheduled collection that day, your filing or issuance date is the date of the next scheduled collection. If you do not meet the requirements of paragraph (b), your filing or issuance date is the date of receipt at the proper address. However, if you are filing an advance notice of reportable event or a Form 200 (notice of certain missed contributions), see § 4000.23(b); these filings are always treated as filed when received.
+
+(b) *Requirements for “send date.”* Your submission or issuance must meet the applicable requirements of the commercial delivery service, be properly addressed, and—
+
+(1) *Delivery within two days.* It must be reasonable to expect your submission or issuance will arrive at the proper address by 5 p.m. on the second business day after the next scheduled collection; or
+
+(2) *Designated delivery service.* You must use a “designated delivery service” under section 7502(f) of the Internal Revenue Code (Title 26, USC). Our Web site, *http://www.pbgc.gov,* lists those designated delivery services. You should make sure that both the provider and the particular type of delivery (such as two-day delivery) are designated.
+
+(c) *Example.* You send your submission by commercial delivery service using two-day delivery. In addition, you meet the requirements of paragraph (b) of this section. Suppose that the deadline for two-day delivery at the place you make your deposit is 8 p.m. on Friday, March 15. If you deposit your submission by that the deadline, your filing date is March 15. If, instead, you deposit it after the 8 p.m. deadline and the next collection at that site for two-day delivery is on Monday, March 18, your filing date is March 18.

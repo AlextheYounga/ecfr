@@ -1,0 +1,3 @@
+##### § 780.609 Workweek unit in applying the exemption. #####
+
+The unit of time to be used in determining the application of the exemption to an employee is the workweek. (See *Overnight Transportation Co.* v. *Missel,* 316 U.S. 572.) A workweek is a fixed and regularly recurring interval of seven consecutive 24-hour periods. It may begin at any hour of any day set by the employer and need not coincide with the calendar week. Once the workweek has been set it commences each succeeding week on the same day and at the same hour. Changing of the workweek for the purpose of escaping the requirements of the Act is not permitted.

@@ -1,0 +1,7 @@
+##### § 400.15 Production equipment. #####
+
+(a) *In general.* Pursuant to section 81c(e) of the FTZ Act, merchandise that is admitted into a foreign-trade zone for use within such zone as production equipment or as parts for such equipment, shall not be subject to duty until such merchandise is completely assembled, installed, tested, and used in the production for which it was admitted. Payment of duty may be deferred until such equipment goes into use as production equipment as part of zone production activity, at which time the equipment shall be entered for consumption as completed equipment.
+
+(b) *Definition of production equipment.* Eligibility for this section is limited to equipment and parts of equipment destined for use in zone production activity as defined in § 400.2(o) of this part. Ineligible for treatment as production equipment under this section are general materials (that are used in the installation of production equipment or in the assembly of equipment) and materials used in the construction or modification of the plant that houses the production equipment.
+
+(c) *Equipment not destined for zone activity.* Production equipment or parts that are not destined for use in zone production activity shall be treated as normal merchandise eligible for standard zone-related benefits (*i.e.,* benefits not subject to the requirements of § 400.14(a)), provided the equipment is entered for consumption or exported prior to its use.

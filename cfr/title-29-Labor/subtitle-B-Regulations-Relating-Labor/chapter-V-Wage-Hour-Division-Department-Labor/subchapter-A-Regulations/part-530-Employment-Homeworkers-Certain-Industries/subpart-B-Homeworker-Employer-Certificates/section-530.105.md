@@ -1,0 +1,3 @@
+##### § 530.105 Investigations. #####
+
+Any employer in a restricted industry who requests certification to employ homeworkers will be investigated promptly after the issuance of the certificate by the Wage and Hour Division. Where such an employer is found to be in violation of the FLSA, and the violations are corrected and future compliance is promised, the firm will be reinvestigated to assure that full FLSA compliance has, in fact, been achieved.

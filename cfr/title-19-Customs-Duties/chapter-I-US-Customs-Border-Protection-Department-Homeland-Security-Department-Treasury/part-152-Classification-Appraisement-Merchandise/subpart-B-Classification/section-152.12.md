@@ -1,0 +1,3 @@
+##### § 152.12 Applicable rates of duty. #####
+
+Rates of duty shall be based on the detailed instructions in § 141.69 of this chapter, which provides in general that the rates of duty applicable to merchandise shall be those in effect on the date of entry or withdrawal for consumption, except for certain merchandise covered by an entry for immediate transportation or overcarried and returned to the port of entry.

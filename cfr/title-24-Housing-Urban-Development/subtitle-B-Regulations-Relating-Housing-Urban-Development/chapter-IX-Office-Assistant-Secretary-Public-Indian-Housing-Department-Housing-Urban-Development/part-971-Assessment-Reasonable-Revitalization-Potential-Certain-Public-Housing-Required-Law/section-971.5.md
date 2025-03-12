@@ -1,0 +1,13 @@
+##### § 971.5 Long-term viability. #####
+
+(a) *Reasonable investment.* (1) Proposed revitalization costs for viability must be reasonable. Such costs must not exceed, and ordinarily would be substantially less than, 90 percent of HUD's total development cost limit for the units proposed to be revitalized (100 percent of the total development cost limit for any “infill” new construction subject to this regulation). The revitalization cost estimate used in the PHA's most recent comprehensive plan for modernization is to be used for this purpose, unless a PHA demonstrates or HUD determines that another cost estimate is clearly more realistic to ensure viability and to sustain the operating costs that are described in paragraph (a)(2) of this section.
+
+(2) The overall projected cost of the revitalized development must not exceed the Section 8 cost under the method contained in the Appendix to this part, even if the cost of revitalization is a lower percentage of the TDC than the limits stated in paragraph (a)(1) of this section.
+
+(3) The source of funding for such a revitalization program must be identified and already available. In addition to other resources already available to the PHA, a PHA may assume that future formula funds provided through the Comprehensive Grant Program are available for this purpose, provided that they are sufficient to permit completion of the revitalization within the statutory five year time frame. (Comprehensive plans must be amended accordingly.)
+
+(b) *Density.* Density reduction measures would have to result in a public housing community with a density approaching that which prevails in the community for similar types of housing (typically family), or a lower density. If the development's density already meets this description, further reduction in density is not a requirement.
+
+(c) *Income mix.* (1) Measures generally will be required to broaden the range of resident incomes to include over time a significant mix of households with at least one full-time worker (for example, at least 20 percent with an income at least 30 percent of median area income). Measures to achieve a broader range of household incomes must be realistic in view of the site's location. Evidence of such realism typically would include some mix of incomes of other households located in the same census tract or neighborhood, or unique advantages of the public housing site.
+
+(2) For purposes of judging appropriateness of density reduction and broader range of income measures, overall size of the public housing site and its number of dwelling units will be considered. The concerns these measures would address generally are greater as the site's size and number of dwelling units increase.

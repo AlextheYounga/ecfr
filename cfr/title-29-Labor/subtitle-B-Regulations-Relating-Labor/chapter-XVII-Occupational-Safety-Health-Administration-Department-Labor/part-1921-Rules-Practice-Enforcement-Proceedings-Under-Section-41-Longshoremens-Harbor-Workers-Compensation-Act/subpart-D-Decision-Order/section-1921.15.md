@@ -1,0 +1,3 @@
+##### § 1921.15 Transmittal of record. #####
+
+Immediately following the period allowed for filing exceptions, the hearing examiner shall transmit the record of the proceeding to the Assistant Secretary. The record shall include: The pleadings, motions, and requests filed, and rulings thereon; the transcript of the testimony taken at the hearing, together with the exhibits filed; any documents or papers filed in connection with prehearing conferences; such proposed findings of fact, conclusions of law, and orders, and supporting reasons, as may have been filed in connection with the hearing; the hearing examiner's decision; and such exceptions, statements of objections, and briefs in support thereof, as may have been filed in the proceeding.

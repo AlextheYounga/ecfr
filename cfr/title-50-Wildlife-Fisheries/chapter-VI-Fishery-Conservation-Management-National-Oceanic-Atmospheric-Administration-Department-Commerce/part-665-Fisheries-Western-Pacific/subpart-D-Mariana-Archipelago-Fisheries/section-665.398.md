@@ -1,0 +1,3 @@
+##### § 665.398 Management area. #####
+
+The Mariana fishery management area is the EEZ seaward of Guam and CNMI with the inner boundary a line coterminous with the seaward boundaries of Guam and CNMI and the outer boundary a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured, or is coterminous with adjacent international maritime boundaries.

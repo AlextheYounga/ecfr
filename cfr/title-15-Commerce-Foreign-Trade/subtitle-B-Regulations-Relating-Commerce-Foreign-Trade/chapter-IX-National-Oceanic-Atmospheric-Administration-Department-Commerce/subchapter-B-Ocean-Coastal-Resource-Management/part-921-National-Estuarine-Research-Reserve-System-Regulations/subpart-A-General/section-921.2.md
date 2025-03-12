@@ -1,0 +1,13 @@
+##### § 921.2 Definitions. #####
+
+(a) *Act* means the Coastal Zone Management Act of 1972, as amended, 16 U.S.C. 1451 *et seq.*
+
+(b) *Assistant Administrator* means the Assistant Administrator for Ocean Services and Coastal Zone Management or delegee.
+
+(c) *Coastal state* means a state of the United States, in or bordering on, the Atlantic, Pacific, or Arctic Ocean, the Gulf of Mexico, Long Island Sound, or one or more of the Great Lakes. For the purposes of these regulations the term also includes Puerto Rico, the Virgin Islands, Guam, the Commonwealth of the Northern Marianas Islands, the Trust Territories of the Pacific Islands, and American Samoa (see 16 U.S.C. 1453(4)).
+
+(d) *State agency* means an instrumentality of a coastal state to whom the coastal state has delegated the authority and responsibility for the creation and/or management/operation of a National Estuarine Research Reserve. Factors indicative of this authority may include the power to receive and expend funds on behalf of the Reserve, acquire and sell or convey real and personal property interests, adopt rules for the protection of the Reserve, enforce rules applicable to the Reserve, or develop and implement research and education programs for the reserve. For the purposes of these regulations, the terms “coastal state” and “State agency” shall be synonymous.
+
+(e) *Estuary* means that part of a river or stream or other body of water having unimpaired connection with the open sea, where the sea water is measurably diluted with fresh water derived from land drainage. The term also includes estuary-type areas with measurable freshwater influence and having unimpaired connections with the open sea, and estuary-type areas of the Great Lakes and their connecting waters (see 16 U.S.C. 1453(7)).
+
+(f) *National Estuarine Research Reserve* means an area that is a representative estuarine ecosystem suitable for long-term research, which may include all of the key land and water portion of an estuary, and adjacent transitional areas and uplands constituting to the extent feasible a natural unit, and which is set aside as a natural field laboratory to provide long-term opportunities for research, education, and interpretation on the ecological relationships within the area (see 16 U.S.C. 1453(8)) and meets the requirements of 16 U.S.C. 1461(b). This includes those areas designated as National Estuarine Sanctuaries or Reserves under section 315 of the Act prior to enactment of the Coastal Zone Act Reauthorization Amendments of 1990 and each area subsequently designated as a National Estuarine Research Reserve.

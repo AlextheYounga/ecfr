@@ -1,0 +1,13 @@
+##### § 4.5 Responsibility for responding to requests. #####
+
+(a) *In general.* Except as stated in paragraph (b) of this section, the proper component of the Department to respond to a request for records is the component that first receives the request and has responsive records (or in the instance of where no records exist, the component that first receives the request and is likely to have responsive records), or the component to which the Departmental FOIA Officer or component FOIA Officer assigns lead responsibility for responding to the request. Where a component's FOIA office determines that a request was misdirected within the Department, the receiving component's FOIA office shall route the request to the FOIA office of the proper component(s). Records responsive to a request shall include those records within the Department's possession and control as of the date the Department begins its search for them.
+
+(b) *Consultations and referrals.* When a component receives a request for a record (or a portion thereof) in its possession that originated with another Federal agency subject to the FOIA, the component shall refer the record to that agency for direct response to the requester (see § 4.8 for additional information about referrals of classified information). In instances where a record is requested that originated with the Department and another Federal agency has a significant interest in the record (or a portion thereof), the component shall consult with that Federal agency before responding to a requester. When a component receives a request for a record (or a portion thereof) in its possession that originated with another Federal agency that is not subject to the FOIA, the component shall consult with that Federal agency before responding to the requester.
+
+(c) *Notice of referral.* Whenever a component refers a record to another Federal agency for direct response to the requester, the component's FOIA Officer shall notify the requester in writing of the referral and inform the requester of the name of the agency to which the record was referred.
+
+(d) *Timing of responses to consultations and referrals.* All consultations and referrals shall be handled in chronological order, based on when the FOIA request was received by the first Federal agency.
+
+(e) *Agreements regarding consultations and referrals.* Components may make agreements with other Federal agencies to eliminate the need for consultations or referrals for particular types of records.
+
+[66 FR 65632, Dec. 20, 2001, as amended at 71 FR 31073, June 1, 2006; 79 FR 62559, Oct. 20, 2014]

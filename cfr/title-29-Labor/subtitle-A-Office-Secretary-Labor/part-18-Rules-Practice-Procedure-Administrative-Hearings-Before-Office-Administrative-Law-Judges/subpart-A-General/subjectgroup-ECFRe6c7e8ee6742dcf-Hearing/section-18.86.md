@@ -1,0 +1,3 @@
+##### § 18.86 Hearing room conduct. #####
+
+Participants must conduct themselves in an orderly manner. The consumption of food or beverage, and rearranging courtroom furniture are prohibited, unless specifically authorized by the judge. Electronic devices must be silenced and must not disrupt the proceedings. Parties, witnesses and spectators are prohibited from using video or audio recording devices to record hearings.

@@ -1,0 +1,3 @@
+##### § 1202.2 Interpretation of mediation agreements. #####
+
+Under section 5, Second, of title I of the Railway Labor Act, in any case in which a controversy arises over the meaning or application of any agreement reached through mediation, either party to said agreement, or both, may apply to the National Mediation Board for an interpretation of the meaning or application of such agreement. Upon receipt of such request, the Board shall, after a hearing of both sides, give its interpretation within 30 days.

@@ -1,0 +1,13 @@
+##### § 1911.18 Decision. #####
+
+(a)(1) Within 60 days after the expiration of the period provided for the submission of written data, views, and arguments on a proposed rule on which no hearing is held, or within 60 days after the certification of the record of a hearing, the Assistant Secretary shall publish in the Federal Register either an appropriate rule promulgating, modifying, or revoking a standard, or a determination that such a rule should not be issued. The action of the Assistant Secretary shall be taken after consideration of all relevant matter presented in written submissions and in any hearings held under this part.
+
+(2) A determination that a rule should not be issued on the basis of existing relevant matter may be accompanied by an invitation for the submission of additional data, views, or arguments from interested persons on the issue or issues involved. In which event, an appropriate rule or other determination shall be made within 60 days following the end of the period allowed for the submission of the additional comments.
+
+(b) Any rule or standard adopted under paragraph (a) of this section shall incorporate a concise general statement of its basis and purpose. The statement is not required to include specific and detailed findings and conclusions of the kind customarily associated with formal proceedings. However, the statement will show the significant issues which have been faced, and will articulate the rationale for their solution.
+
+(c) Where an advisory committee has been consulted in the formulation of a proposed rule, the Assistant Secretary may seek the advice of the advisory committee as to the disposition of the proceeding. In giving advice to the Assistant Secretary, an advisory committee shall consider all matter presented to the Assistant Secretary. The advice of an advisory committee shall take the form of written recommendations to be submitted to the Assistant Secretary within a period to be prescribed by him. When the recommendations are contained in the transcript of the meeting of an advisory committee, they shall be summary in form. See §§ 1912.33 and 1912.34 of this chapter.
+
+(d) A rule promulgating, modifying, or revoking a standard, or a determination that a rule should not be promulgated, shall be considered issued at the time when the rule or determination is officially filed in the Office of the Federal Register. The time of official filing in the Office of the Federal Register is established for the purpose of determining the prematurity, timeliness, or lateness of petitions for judicial review.
+
+[37 FR 8665, Apr. 29, 1972, as amended at 42 FR 65166, Dec. 30, 1977]

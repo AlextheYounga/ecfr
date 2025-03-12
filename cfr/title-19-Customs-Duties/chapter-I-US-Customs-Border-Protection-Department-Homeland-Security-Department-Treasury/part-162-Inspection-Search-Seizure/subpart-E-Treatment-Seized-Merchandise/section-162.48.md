@@ -1,0 +1,13 @@
+##### § 162.48 Disposition of perishable and other seized property. #####
+
+(a) *Disposition of perishable property.* Seized property which is perishable or otherwise enumerated in section 612, Tariff Act of 1930, as amended (19 U.S.C. 1612), and is covered by the provisions of section 607, Tariff Act of 1930, as amended (19 U.S.C. 1607), shall be advertised for sale and sold at public auction at the earliest possible date. The Fines, Penalties, and Forfeitures Officer shall proceed to give notice by advertisement of the summary sale for such time as he considers reasonable. This notice shall be of sale only and not notice of seizure and intent to forfeit. The proceeds of the sale shall be held subject to the claims of parties in interest in the same manner as the seized property would have been subject to such claims.
+
+(b) *Disposition of other seized property.* (1) If the expense of keeping any vessel, vehicle, aircraft, merchandise or baggage is disproportionate to the value thereof, destruction or other disposition of such property may be ordered by the appropriate Customs officer. Storage expenses are presumed to be disproportionate to the value of the property where the expense has reached or is anticipated to reach 50 percent of the value of the property. The right of a claimant to seized property which has been destroyed or otherwise disposed of shall not be extinguished.
+
+(2) Publication of a notice of the seizure, regardless of the disposition of the property, will be required pursuant to 19 U.S.C. 1607. Claimants to seized property will be permitted to file a petition for remission of the forfeiture pursuant to 19 U.S.C. 1618, and part 171 of this chapter. A claimant receiving full or partial relief from the forfeiture shall be reimbursed the difference between the value of the merchandise at the time of the seizure, pursuant to 19 U.S.C. 1606 and § 162.43 of this part, and any remitted forfeiture amount that the claimant is required to pay.
+
+(3) A claimant to destroyed or otherwise disposed of seized property requesting relief in the form of payment may file a claim and cost bond and seek judicial hearing on the forfeiture pursuant to 19 U.S.C. 1608.
+
+(4) Successful claimants shall be compensated from Customs Forfeiture Fund pursuant to 19 U.S.C. 1613b.
+
+[T.D. 72-211, 37 FR 16488, Aug. 15, 1972, as amended by T.D. 85-195, 50 FR 50290, Dec. 10, 1985; T.D. 92-69, 57 FR 30640, July 10, 1992; T.D. 99-27, 64 FR 13676, Mar. 22, 1999; T.D. 00-57, 65 FR 53575, Sept. 5, 2000]

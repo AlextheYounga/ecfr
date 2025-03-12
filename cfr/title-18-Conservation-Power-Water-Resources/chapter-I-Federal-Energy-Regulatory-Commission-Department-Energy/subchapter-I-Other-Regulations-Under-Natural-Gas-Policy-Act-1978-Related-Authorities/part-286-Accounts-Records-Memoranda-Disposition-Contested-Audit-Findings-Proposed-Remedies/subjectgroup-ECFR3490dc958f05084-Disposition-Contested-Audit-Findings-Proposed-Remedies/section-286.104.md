@@ -1,0 +1,3 @@
+##### § 286.104 Response to notification. #####
+
+Upon issuance of a Commission order that notes a finding or findings, with or without proposed remedies, with which the audited person has disagreed, the audited person may: Acquiesce in the findings and proposed remedies by not timely responding to the Commission order, in which case the Commission may issue an order approving them or taking other action; or challenge the finding or findings and any proposed remedies with which it disagreed by timely notifying the Commission in writing that it requests Commission review by means of a shortened procedure, or, if there are material facts in dispute which require cross-examination, a trial-type hearing.

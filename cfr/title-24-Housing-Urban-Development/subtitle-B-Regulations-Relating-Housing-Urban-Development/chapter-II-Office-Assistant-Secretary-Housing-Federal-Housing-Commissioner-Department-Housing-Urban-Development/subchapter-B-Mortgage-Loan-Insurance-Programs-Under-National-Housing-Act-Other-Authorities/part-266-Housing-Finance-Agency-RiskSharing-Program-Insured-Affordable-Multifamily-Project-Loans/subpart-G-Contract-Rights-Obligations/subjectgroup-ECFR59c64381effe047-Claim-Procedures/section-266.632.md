@@ -1,0 +1,3 @@
+##### § 266.632 Withdrawal of claim. #####
+
+In case of a default and subsequent filing of claim, the HFA shall determine the form of workout or modification and will inform HUD of the type of mortgage relief determined to be appropriate. If the default is cured after the claim is made but before the initial claim payment is paid by HUD, the HFA may, in writing, withdraw the claim, and insurance will continue as if the default had not occurred.

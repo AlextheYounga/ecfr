@@ -1,0 +1,3 @@
+##### § 90.9 Review of challenge. #####
+
+The Chief, Population Division, Census Bureau, or the Chief's designee shall review the evidence provided with the request for the population estimate challenge, shall work with the governmental unit to verify the data provided by the governmental unit, and evaluate the data to resolve the issues raised by the governmental unit. Thereafter, the Census Bureau shall respond in writing with a decision to accept or deny the challenge. In the event that the Census Bureau finds that the population estimate should be updated, it will also post the revised estimate on the Census Bureau's Web site (*www.census.gov*).

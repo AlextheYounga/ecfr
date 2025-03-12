@@ -1,0 +1,5 @@
+##### § 1903.20 Informal conferences. #####
+
+At the request of an affected employer, employee, or representative of employees, the Assistant Regional Director may hold an informal conference for the purpose of discussing any issues raised by an inspection, citation, notice of proposed penalty, or notice of intention to contest. The settlement of any issue at such conference shall be subject to the rules of procedure prescribed by the Review Commission. If the conference is requested by the employer, an affected employee or his representative shall be afforded an opportunity to participate, at the discretion of the Assistant Regional Director. If the conference is requested by an employee or representative of employees, the employer shall be afforded an opportunity to participate, at the discretion of the Assistant Regional Director. Any party may be represented by counsel at such conference. No such conference or request for such conference shall operate as a stay of any 15-working-day period for filing a notice of intention to contest as prescribed in § 1903.17.
+
+[36 FR 17850, Sept. 4, 1971. Redesignated at 62 FR 15337, Mar. 31, 1997]

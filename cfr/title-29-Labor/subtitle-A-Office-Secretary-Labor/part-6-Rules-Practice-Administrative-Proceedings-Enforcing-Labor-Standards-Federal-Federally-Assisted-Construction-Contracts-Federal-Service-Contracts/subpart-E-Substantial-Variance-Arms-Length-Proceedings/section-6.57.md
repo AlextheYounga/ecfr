@@ -1,0 +1,3 @@
+##### § 6.57 Petition for review. #####
+
+Within 10 days after the date of the decision of the Administrative Law Judge, any interested party who participated in the proceedings before the Administrative Law Judge and desires review of the decision shall file a petition for review by the Administrative Review Board pursuant to 29 CFR part 8. The petition shall refer to the specific findings of fact, conclusions of law, or order excepted to and the specific pages of transcript relevant to the petition for review.

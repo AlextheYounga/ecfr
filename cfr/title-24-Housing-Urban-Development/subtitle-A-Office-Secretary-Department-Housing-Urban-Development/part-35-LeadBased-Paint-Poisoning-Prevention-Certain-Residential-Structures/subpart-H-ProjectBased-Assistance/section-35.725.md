@@ -1,0 +1,3 @@
+##### § 35.725 Section 8 Rent adjustments. #####
+
+HUD may, subject to the availability of appropriations for Section 8 contract amendments, on a project by project basis for projects receiving Section 8 project-based assistance, provide adjustments to the maximum monthly rents to cover the costs of evaluation for and reduction of lead-based paint hazards, as defined in section 1004 of the Residential Lead-Based Paint Hazard Reduction Act of 1992.

@@ -1,0 +1,3 @@
+##### § 1620.25 Equalization of rates. #####
+
+Under the express terms of the EPA, when a prohibited sex-based wage differential has been proved, an employer can come into compliance only by raising the wage rate of the lower paid sex. The rate-reduction provision of the EPA prohibits an employer from attempting to cure a violation by hiring or transferring employees to perform the previously lower-paid job at the lower rate. Similarly, the departure of the higher paid sex from positions where a violation occurred, leaving only members of the lower paid sex being paid equally among themselves, does not cure the EPA violations.

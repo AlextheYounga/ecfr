@@ -1,0 +1,3 @@
+##### § 14.105 Purpose of these rules. #####
+
+The Act provides for the award of attorney fees and other expenses to eligible individuals and entities who are parties to certain administrative proceedings (*adversary adjudications*) before the Department. An eligible party may receive an award when it prevails over an agency, unless the agency's position was substantially justified or special circumstances make an award unjust. The rules in this part described the parties eligible for awards and the proceedings that are covered. They also explain how to apply for awards and the procedures and standards that the Department will use to make them.

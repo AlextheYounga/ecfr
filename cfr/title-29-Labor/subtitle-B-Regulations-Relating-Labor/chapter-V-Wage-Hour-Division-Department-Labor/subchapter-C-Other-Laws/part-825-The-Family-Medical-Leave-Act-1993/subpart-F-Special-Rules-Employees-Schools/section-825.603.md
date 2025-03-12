@@ -1,0 +1,5 @@
+##### § 825.603 Special rules for school employees, duration of FMLA leave. #####
+
+(a) If an employee chooses to take leave for periods of a particular duration in the case of intermittent or reduced schedule leave, the entire period of leave taken will count as FMLA leave.
+
+(b) In the case of an employee who is required to take leave until the end of an academic term, only the period of leave until the employee is ready and able to return to work shall be charged against the employee's FMLA leave entitlement. The employer has the option not to require the employee to stay on leave until the end of the school term. Therefore, any additional leave required by the employer to the end of the school term is not counted as FMLA leave; however, the employer shall be required to maintain the employee's group health insurance and restore the employee to the same or equivalent job including other benefits at the conclusion of the leave.

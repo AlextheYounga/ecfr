@@ -1,0 +1,3 @@
+##### § 50.36 Updating of environmental reviews. #####
+
+The environmental review must be re-evaluated and updated when the basis for the original environmental or compliance findings is affected by a major change requiring HUD approval in the nature, magnitude or extent of a project and the project is not yet complete. A change only in the amount of financing or mortgage insurance involved does not normally require the environmental review to be re-evaluated or updated.

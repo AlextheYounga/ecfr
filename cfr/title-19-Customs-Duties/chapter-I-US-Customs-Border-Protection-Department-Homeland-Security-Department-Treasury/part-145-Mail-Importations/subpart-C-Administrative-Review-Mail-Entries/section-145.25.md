@@ -1,0 +1,3 @@
+##### § 145.25 Entry correct. #####
+
+If the port director believes the duty originally assessed was correct, he shall send the addressee a notice in writing that the request for refund of duty has been denied. If the duty has not been paid, the mail entry shall be returned to the postmaster concerned, together with a copy of the notice sent to the addressee. The postmaster will then collect the duty and deliver the shipment, or, if the addressee refuses to pay the duty, will treat the shipment as undeliverable.

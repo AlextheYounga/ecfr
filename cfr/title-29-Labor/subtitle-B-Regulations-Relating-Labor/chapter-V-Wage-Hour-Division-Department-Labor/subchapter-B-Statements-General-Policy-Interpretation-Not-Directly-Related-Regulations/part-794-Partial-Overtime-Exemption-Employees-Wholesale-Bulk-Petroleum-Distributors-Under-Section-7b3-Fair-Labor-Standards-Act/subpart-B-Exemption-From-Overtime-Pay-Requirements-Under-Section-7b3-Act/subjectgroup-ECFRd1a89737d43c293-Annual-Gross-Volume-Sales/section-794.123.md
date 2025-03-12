@@ -1,0 +1,7 @@
+##### § 794.123 Method of computing annual volume of sales. #####
+
+(a) Where the enterprise, during the portion of its current income tax year up to the end of the current payroll period, has already had a gross volume of sales in excess of the amount specified in the statute, it is plain that its annual gross volume of sales currently is in excess of the statutory amount.
+
+(b) Where the enterprise has not yet in such current year exceeded the statutory amount in its gross volume of sales, but has had, in the most recently ended year used by it for income tax purposes, a gross volume of sales in excess of the amount specified in the Act, the enterprise will be deemed to have an annual gross volume of sales in excess of such statutory amount, unless use of the method set forth in paragraph (c) of this section establishes a gross annual volume less than the statutory amount.
+
+(c) When it is necessary to make a computation of the annual gross volume of sales of the enterprise the following method shall be used: At the beginning of each calendar quarter (Jan. 1-Mar. 31; Apr. 1-June 30; July 1-Sept. 30; Oct. 1-Dec. 31), the gross receipts from all of its sales during the annual period (12 calendar months) which immediately precedes the current calendar quarter, is totaled. In this manner the employer, by calculating the sales of his enterprise, will know whether or not the dollar volume tests have been met for the purpose of complying with the law in the workweeks ending in the current calendar quarter.

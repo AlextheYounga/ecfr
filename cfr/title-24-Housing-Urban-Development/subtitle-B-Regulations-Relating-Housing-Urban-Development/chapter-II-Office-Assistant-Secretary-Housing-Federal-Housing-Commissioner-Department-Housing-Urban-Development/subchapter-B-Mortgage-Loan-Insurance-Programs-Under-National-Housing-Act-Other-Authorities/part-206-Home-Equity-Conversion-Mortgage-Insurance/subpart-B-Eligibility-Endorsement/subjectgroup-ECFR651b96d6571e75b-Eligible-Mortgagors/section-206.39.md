@@ -1,0 +1,3 @@
+##### § 206.39 Principal residence. #####
+
+The property must be the principal residence of each mortgagor at closing. For purposes of this section, the property will be considered to be the principal residence of any mortgagor who is temporarily or permanently in a health care institution as long as the property is the principal residence of at least one other mortgagor who is not in a health care institution.

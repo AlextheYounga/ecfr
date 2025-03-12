@@ -1,0 +1,3 @@
+##### § 891.833 Monitoring and review. #####
+
+HUD shall monitor and review the development during the construction and operational phases in accordance with the requirements that HUD prescribes. In order for units assisted under the 202 and 811 programs to continue to receive project rental assistance, they must be operated in accordance with all contractual agreements among the parties and other HUD regulations and requirements. It is the responsibility of the mixed-finance owner and Nonprofit Organization to ensure compliance with the preceding sentence.

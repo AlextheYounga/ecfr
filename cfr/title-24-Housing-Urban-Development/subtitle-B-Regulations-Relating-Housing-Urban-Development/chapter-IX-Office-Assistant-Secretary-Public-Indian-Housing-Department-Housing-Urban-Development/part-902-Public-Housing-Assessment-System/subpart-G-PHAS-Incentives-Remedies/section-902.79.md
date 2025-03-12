@@ -1,0 +1,3 @@
+##### § 902.79 Verification and records. #####
+
+All project and PHA certifications, year-end financial information, and supporting documentation are subject to HUD verification at any time, including review by an independent auditor. All PHAs must retain supporting documents for any certifications and for asset management reviews for at least 3 years. Failure to maintain and provide supporting documentation for a period of 3 years for any indicator(s), subindicator(s), or other methods used to assess performance shall result in a score of zero for the indicator(s) or subindicator(s), and a lower overall PHAS score for the applicable assessment period.

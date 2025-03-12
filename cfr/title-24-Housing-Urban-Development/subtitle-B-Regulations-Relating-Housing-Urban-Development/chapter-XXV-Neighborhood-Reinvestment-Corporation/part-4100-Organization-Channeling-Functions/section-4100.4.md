@@ -1,0 +1,69 @@
+##### § 4100.4 Inquiries. #####
+
+(a) *General.* All requests for information, forms, and records should be addressed to: Communications Department, Neighborhood Reinvestment Corporation, 1325 G Street NW., Suite 800, Washington, DC 20005.
+
+(b) *Applications.* Applications for the Corporation's assistance in the development of NHS programs and complementary programs and strategies, or the support of other promising neighborhood strategies are accepted on an ongoing basis. Local governmental or nonprofit entities should submit completed applications (forms are available upon request), including supportive materials, to the Corporation at the address stated in paragraph (a) of this section. The Corporation reviews applications to determine their readiness for development or support. Promising applications are selected for field reviews. Subject to the availability of the Corporation's resources, the Corporation may enter into agreements with top ranking applicants to provide financial and technical assistance in the development or support of selected programs. The application form contains a list of the criteria used for determining the readiness and promise of applications.
+
+(c) *Records.* (1) The Corporation maintains such records and information for public inspection and copying as are required by the Freedom of Information Act (5 U.S.C. 552), as that Act may be amended from time to time. Records are available for public inspection and copying during regular business hours on regular business days at the address stated in paragraph (a) of this section. Requests for records should be submitted in writing and state the full name and address of the person requesting the records and a description of the records or other information sought that is reasonably sufficient to permit their identification without undue difficulty. A request should be submitted sufficiently in advance of the date inspection or copying is desired, preferably by mail.
+
+(2) Although the Corporation finds that the publication of indexes of statements of policy and interpretations or administrative staff manuals and instructions would be unnecessary and impracticable, such information will be made available upon request.
+
+(d) *Fees for providing copies for records.* Fees shall be assessed pursuant to the Freedom of Information Act (5 U.S.C. 552) in order to recover the full allowable direct costs of providing copies of records. For purposes of this section, the term *direct costs* means those expenditures which the Corporation actually incurs in searching for and duplicating (and in the case of commercial use requesters, reviewing) documents to respond to a Freedom of Information Act (“FOIA”) request. Direct costs include, for example, the salaries of the employees performing the work (the basic rate of pay plus 16 percent of that rate to cover benefits) and the cost of operating duplicating equipment. The term *search* includes all time spent looking for material that is responsive to a request, including page-by-page or line-by-line identification of material within documents. Searches may be done manually or by computer using existing programming. The term *duplication* refers to the process of making a copy of a document necessary to respond to a FOIA request. Such copies can take the form of paper copy, microfilm, audiovisual materials, or machine readable documentation (e.g., magnetic tape or disk), among others. The term *review* refers to the process of examining documents located in response to a commercial use request to determine whether any portion of any document is permitted to be withheld. It also includes processing any documents for disclosure, e.g., doing all that is necessary to exise them and otherwise prepare them for release. Review does not include time spent resolving general legal or policy issues regarding the application of exemptions. A schedule based on these principles is set forth in paragraph (d)(9) of this section.
+
+(1) *Categories of requesters.* Fees will be assessed according to the category of the requester. There are four categories:
+
+(i) *Commercial use requesters.* For purposes of this section, the term *commercial use request* refers to a request from or on behalf of one who seeks information for a use or purpose that furthers the commercial, trade, or profit interests of the requester or the person on whose behalf the request is made. In determining whether a requester properly belongs in this category, the Corporation will look to the use to which the requester will put the documents requested. If the use is not clear from the request itself, or if there is reasonable cause to doubt the requester's stated use, the Corporation shall seek additional clarification before assigning the request to a specific category.
+
+(ii) *Educational and noncommercial scientific institution requesters.* For purposes of this section, the term *educational institution* refers to a preschool, a public or private elementary or secondary school, an institution of graduate higher education, an institution of undergraduate higher education, an institution of professional education, or an institution of vocational education, which operates a program or programs of scholarly research. The term *noncommercial scientific institution* refers to an institution that is not operated on a *commercial* basis, as that term is used in paragraph (d)(1)(i) of this section, and which is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. To be eligible for inclusion in this category, requesters must show that the request is made as authorized by and under the auspices of a qualifying institution, and that the records are not sought for a commercial use, but are sought in furtherance of scholarly (if the request is from an educational institution) or scientific (if the request is from a noncommercial scientific institution) research.
+
+(iii) *Requesters who are representatives of the news media.* For purposes of this section, the term *representative of the news media* refers to any person actively gathering information for an entity that is organized and operated to publish or broadcast news to the public. Examples of news media entities include television or radio stations broadcasting to the public at large, and publishers of periodicals (but only in those instances when they can qualify as disseminators of *news*) who make their products available for purchase or subscription by the general public. These examples are not intended to be all-inclusive. In the case of *freelance* journalists, they may be regarded as working for a news organization if they demonstrate a solid basis for expecting publication through that organization, even though not actually employed by it. A publication contract would be the clearest proof, but the Corporation may also look at the past publication record of a requester in making this determination. To be eligible for inclusion in this category, a requester must meet the criteria above, and his or her request must not be made for a commercial use. In reference to this class of requester, a request for records supporting the news dissemination function of the requester shall not be considered to be a request that is for a commercial use.
+
+(iv) All other requesters.
+
+(2) *Limitations on fees to be charged*—(i) *Commercial use requesters.* Commercial use requesters shall be assessed the full direct costs for searching for, reviewing, and duplicating records, in accordance with the fee schedule at paragraph (d)(9) of this section. Commercial use requesters are not entitled to the free search time or free pages of duplication provided to other categories of requesters.
+
+(ii) *Educational and noncommercial scientific institution requesters.* Requesters in this category may be assessed fees only for duplication of records in excess of the first 100 pages. Requesters in this category may not be assessed fees for search or review.
+
+(iii) *Requesters who are representatives of the news media.* Requesters in this category may be assessed fees only for duplication of records in excess of the first 100 pages. Requesters in this category may not be assessed fees for research or review.
+
+(iv) *All other requesters.* Requesters who do not fit into any of the categories above shall be assessed fees only for searching and duplicating records, except that the first 100 pages of duplication and the first two hours of search time shall be furnished without charge. Requesters in this category may not be assessed fees for review.
+
+(v) *Review of records.* Charges will be assessed only for the initial review of the located documents and not for time spent at the administrative appeal level on an exemption applied at the initial determination level. However, where records or portions of records are withheld in full under an exemption which is subsequently determined not to apply, and these records are reviewed again to determine the applicability of other exemptions not previously considered, charges for review are properly assessable.
+
+(vi) *Additional copies.* The Corporation will normally furnish only one copy of any record. The allowance of 100 free pages of duplication under paragraphs (d)(2) (ii), (iii), and (iv) of this section shall not apply to additional copies furnished at the request of the record requester. Full duplication fees shall be assessed for each page of each such additional copy.
+
+(3) *Charges for unsuccessful search.* Where applicable under paragraph (d)(2) of this section search fees may be assessed for time spent searching, even if the Corporation fails to locate the records or if records located are determined to be exempt from disclosure.
+
+(4) *Notice of anticipated fees in excess of $25.00.* Unless the person making the request states in his or her initial request that he or she will pay all costs regardless of amount, the Corporation will notify him or her as soon as possible if there is reason to believe that the cost for obtaining access to and/or copies of such records will exceed $25. If such notice is given, the time limitations contained in the Freedom of Information Act shall not commence until the person making the intitial request agrees in writing to pay such cost.
+
+(5) *Advance payments.* The Communications Director is authorized to require an advance payment of an amount up to the full estimated charges whenever he or she determines that:
+
+(i) The allowable charges that a requester may be required to pay are likely to exceed $250 and the requester has no history of payment and cannot provide satisfactory assurance that payment will be made; or
+
+(ii) A requester has previously failed to pay a fee charged in a timely manner.
+
+If such a payment is required, the time limitations contained in the Freedom of Information Act shall not commence until payment is made.
+
+(6) *Charging interest.* The Corporation will assess interest charges on any unpaid fees starting on the 31st day following the day on which the billing for fees was sent to the requester. Interest will be at the rate prescribed in 31 U.S.C. 3717 and will accrue from the date of the billing. Receipt of the fee by the Corporation, even if not processed, will stay the accrual of interest. Interest is not chargeable for unpaid advance payments under paragraph (d)(5) of this section.
+
+(7) *Aggregating requests.* A requester may not file multiple requests at the same time, each seeking portions of the document or documents, solely in order to avoid payment of fees. When the Corporation reasonably believes that a requester, or a group of requesters acting in concert, is attempting to break a request down into a series of requests for the purpose of evading the assessment of fees, the Corporation may aggregate any such requests and charge accordingly.
+
+(8) *Waiver or reduction of fee.* The Corporation will furnish documents without charge or at a reduced charge when it is determined that disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Corporation and is not primarily in the commercial interest of the requester. In making a request for a waiver or reduction of fees, a requester should include a clear statement of his or her interest in the requested documents: The proposed use for the documents and whether the requester will derive income or other benefit from such use; and a statement of how the public will benefit from such use. Determinations concerning waiver or reduction of fees shall be made by the Executive Director, or his or her designee.
+
+(9) *Schedule of fees.* Fees for searching for, reviewing, duplicating, and providing records and information of the Corporation under this section will be assessed in accordance with the following schedule:
+
+(i) *Manual search.* For each quarter hour or fraction thereof: $3.37.
+
+(ii) *Computer search.* For each quarter hour or fraction thereof: $3.37.
+
+(iii) *Review.* For each quarter hour or fraction thereof: $4.87.
+
+(iv) *Duplication.*
+
+(A) For a paper photocopy of an existing paper record, $.10 per page.
+
+(B) For duplication of records other than existing paper records (such as computer-stored information, audio or video tapes, microfiche or microfilm), the fee shall equal the actual direct cost of production and duplication of the records or information in a form that is reasonably usable by the requester.
+
+(10) *Processing costs.* The Communications Director will waive payment in instances in which the costs of routine collection and processing of the fee are likely to equal or exceed the amount of the fee.
+
+[49 FR 12700, Mar. 30, 1984, as amended at 54 FR 50953, Dec. 19, 1989]

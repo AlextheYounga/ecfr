@@ -1,0 +1,7 @@
+##### § 891.855 Replacement reserves. #####
+
+(a) The mixed-finance owner shall establish and maintain a replacement reserve account for Section 202 or 811 supportive housing units. This account must meet all the requirements of 24 CFR 891.405.
+
+(b) The mixed-finance owner may obtain a disbursement from the reserve only if the funds will be used to pay for capital replacement costs for the Section 202 or 811 supportive housing units in the mixed-finance development and in accordance with the terms of the regulatory and operating agreement. In the case of repairs to common elements, the Section 202/811 replacement reserve can be used on a pro rata basis based on the percentage of Section 202 or 811 units in the building whose common elements are being repaired. In the event of a disposition of the mixed-finance development, or the dissolution of the owner, any Section 202 or 811 funds remaining in the replacement reserve account must remain dedicated to the Section 202 or 811 supportive housing units to ensure their long-term viability, or as otherwise agreed by HUD.
+
+(c) Subject to HUD's approval, reserves may be used to reduce the number of Section 202 or 811 dwelling units in the development for the purpose of retrofitting units that are obsolete or unmarketable.

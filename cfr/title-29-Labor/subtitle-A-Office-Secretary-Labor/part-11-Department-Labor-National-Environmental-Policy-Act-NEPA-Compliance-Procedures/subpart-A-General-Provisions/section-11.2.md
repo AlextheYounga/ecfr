@@ -1,0 +1,5 @@
+##### § 11.2 Applicability. #####
+
+Although all Department of Labor agencies are subject to NEPA, only three of its agencies routinely propose or consider actions which may require the preparation of environment assessments or environmental impact statements. These are the Occupational Safety and Health Administration (OSHA), which acts pursuant to the Occupational Safety and Health Act of 1970 (29 U.S.C. 651, *et seq.*); the Mine Safety and Health Administration (MSHA), which acts pursuant to the Federal Mine Safety and Health Act of 1977 (30 U.S.C. 801, *et seq.*); and the Office of Job Corps which purchases and leases land and constructs Job Corps centers pursuant to the Workforce Investment Act of 1998 (29 U.S.C. 2801, *et seq.*). Therefore, these procedures have been designed primarily with the duties and rulemaking processes of these agencies in mind. If and when other Department of Labor agencies propose actions requiring environmental impact analyses, they shall use these procedures, to the extent that they are applicable, in performing such analyses.
+
+[45 FR 51188, Aug. 1, 1980, as amended at 72 FR 37098, July 9, 2007]

@@ -1,0 +1,3 @@
+##### § 780.134 Performance “on a farm” generally. #####
+
+If a practice is not performed by a farmer, it must, among other things, be performed “on a farm” to come within the secondary meaning of “agriculture” in section 3(f). Any practice which cannot be performed on a farm, such as “delivery to market,” is necessarily excluded, therefore, when performed by someone other than a farmer (see *Farmers Reservoir Co.* v. *McComb,* 337 U.S. 755; *Chapman* v. *Durkin,* 214 F. 2d 360, cert. denied 348 U.S. 897; *Fort Mason Fruit Co.* v. *Durkin,* 214 F. 2d 363, cert. denied 348 U.S. 897). Thus, employees of an alfalfa dehydrator engaged in hauling chopped or unchopped alfalfa away from the farms to the dehydrating plant are not employed in a practice performed “on a farm.”

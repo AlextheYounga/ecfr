@@ -1,0 +1,7 @@
+##### § 1400.1 Purpose and scope. #####
+
+(a) The purpose of this part is to set forth regulations for determination of group eligibility for MBDA assistance.
+
+(b) In order to be eligible to receive assistance from MBDA funded organizations, a concern must be a minority business enterprise. A minority business enterprise is a business enterprise that is owned or controlled by one or more socially or economically disadvantaged persons. Executive Order 11625 designates Blacks, Puerto-Ricans, Spanish-speaking Americans, American Indians, Eskimos, and Aleuts as persons who are socially or economically disadvantaged and thus eligible for MBDA assistance. Other groups designated are listed below in paragraph (c). The purpose of this regulation is to provide guidance to groups not previously designated as eligible for assistance who believe they are entitled to formal designation as “socially or economically disadvantage” under the Executive Order. Upon adequate showing by representatives of the group that the group is, as a whole, socially or economically disadvantaged the group will be so designated and its members will be eligible for MBDA assistance. Designation under Executive Order 11625 establishes eligibility status only for MBDA funded programs. It will not establish eligibility for any other Federal or Federally funded program.
+
+(c) In addition to those listed in E.O. 11625, members of the following groups have been designated as eligible to receive assistance: Hasidic Jews, Asian Pacific Americans, and Asian Indians.

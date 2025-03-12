@@ -1,0 +1,3 @@
+##### § 10.11 Scope of definitions. #####
+
+In addition and subject to definitions contained in applicable statutes and subsequent parts or sections of this subchapter B, words or their variants shall have the meanings ascribed in this subpart. Throughout this subchapter B words in the singular form shall include the plural, words in the plural form shall include the singular, and words in the masculine form shall include the feminine.

@@ -1,0 +1,3 @@
+##### § 3a.2 Authority. #####
+
+Official information or material referred to as classified in this part is expressly exempted from public disclosure by 5 U.S.C. 552(b)(1). Wrongful disclosure thereof is recognized in the Federal Criminal Code as providing a basis for prosecution. E.O. 11652, March 8, 1972 (37 FR 5209, March 10, 1972), identifies the information to be protected, prescribes classification, downgrading, declassification, and safeguarding procedures to be followed and establishes a monitoring system to insure its effectiveness. National Security Council Directive Governing the Classification, Downgrading, Declassification and Safeguarding of National Security Information, May 17, 1972 (37 FR 10053, May 19, 1972), implements E.O. 11652.

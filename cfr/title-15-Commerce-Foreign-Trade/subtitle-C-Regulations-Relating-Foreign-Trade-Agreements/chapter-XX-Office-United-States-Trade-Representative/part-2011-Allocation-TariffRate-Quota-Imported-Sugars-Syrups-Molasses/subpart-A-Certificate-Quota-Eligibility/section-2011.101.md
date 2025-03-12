@@ -1,0 +1,5 @@
+##### § 2011.101 General. #####
+
+This subpart sets forth the terms and conditions under which certificates of quota eligibility will be issued to foreign countries that have been allocated a share of the U.S. sugar tariff-rate quota. Except as otherwise provided in this subpart, sugar imported from a foreign country may not be entered unless such sugar is accompanied by a certificate of quota eligibility. This subpart applies only to the ability to enter sugar at the in-quota tariff rates of the quota (subheadings 1701.11.10, 1701.12.10, 1701.91.10, 1701.99.10, 1702.90.10, and 2106.90.44 of the HTS). Nothing in this subpart shall affect the ability to enter articles at the over-quota tariff rate (subheadings 1701.11.50, 1701.12.50, 1701.91.30, 1701.99.50, 1702.90.20, 2106.90.46).
+
+[61 FR 26784, May 29, 1996]

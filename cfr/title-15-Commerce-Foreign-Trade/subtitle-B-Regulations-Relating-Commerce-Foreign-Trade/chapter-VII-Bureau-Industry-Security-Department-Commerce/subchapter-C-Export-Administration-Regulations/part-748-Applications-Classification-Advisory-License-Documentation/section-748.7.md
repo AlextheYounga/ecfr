@@ -1,0 +1,17 @@
+##### § 748.7 Registering for electronic submission of license applications and related documents. #####
+
+(a) *Scope.* This section describes the procedures for registering to submit electronic documents to BIS. The procedures in this section apply to submission of export and reexport license applications, classification requests, and License Exception AGR notifications.
+
+(b) *Registration and use of BIS's Simplified Network Applications System—Redesign (SNAP-R).* Parties wishing to submit electronically must log on to *https://snapr.bis.doc.gov/registration* to register. Upon initial registration, the party (the filing entity) will have to supply the name of the entity that will be submitting documents electronically and its address and the name, telephone number, facsimile number and e-mail address of the person who will act as account administrator. The person will be required to certify that the information so supplied is correct and complete, that the person has authority to register the entity that will be making electronic submissions and that the person has authority to act as an account administrator for that entity.
+
+(c) *Role of account administrator.* The account administrator is able to add and remove individual users to and from the account of the filing entity for which it is the account administrator. The account administrator can also make individual users account administrators and can terminate an individual user's administrator status. The account administrator can deactivate the account of an individual user and reactivate the account of a previously deactivated individual user. The account administrator can update the filing entity's identifying information such as name and address and any individual user's identifying information such as name, telephone number, facsimile number and e-mail address. The account administrator can reset individual users' passwords.
+
+(d) *Role of individual users.* An individual user may submit to BIS export and reexport license applications, classification requests, and License Exception AGR notifications.
+
+(e) *Effect of submission to BIS.* BIS may refuse to accept an electronic submission if it has reason to believe that the individual user making the submission lacks authority to do so. However, BIS is not obligated to conduct any checks to determine whether an individual user has the necessary authority and will generally treat users as acting within their authority. Acting through their account administrators, parties have the ability to remove an individual user when that individual user is no longer authorized to make submissions on behalf of that party to BIS and should do so promptly.
+
+(f) *Requirement to keep identifying information accurate and current*—(1) *Filing entities.* Filing entities must, through their account administrators, update their identifying information such as name, address and telephone number in their SNAP-R account as necessary to keep that information accurate and current.
+
+(2) *Individual users.* Individual users must, through their account administrators, update their identifying information such as name, telephone number, facsimile number and e-mail address in their SNAP-R accounts as necessary to keep that information accurate and current.
+
+[76 FR 7105, Feb. 9, 2011, as amended at 80 FR 51730, Aug. 26, 2015; 81 FR 64676, Sept. 20, 2016; 81 FR 87426, Dec. 5, 2016]

@@ -1,0 +1,3 @@
+##### § 296.33 Annual report. #####
+
+The Director shall submit annually to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology of the House of Representatives a report describing the Technology Innovation Program's activities, including a description of the metrics upon which award funding decisions were made in the previous fiscal year, any proposed changes to those metrics, metrics for evaluating the success of ongoing and completed awards, and an evaluation of ongoing and completed awards. The first annual report shall include best practices for management of programs to stimulate high-risk, high-reward research.

@@ -1,0 +1,5 @@
+##### § 401.73 Form of request. #####
+
+(a) A request for a hearing may be informal but shall indicate the name of the individual and the address to which an acknowledgment may be directed. It may be stated in such detail as the objector may elect. The request shall be deemed filed only upon receipt by the Commission.
+
+(b) Whenever the Executive Director determines that the request for a hearing is insufficient to identify the nature and scope of the objection, or that one or more issues may be resolved, reduced or identified by such action, he may require the objector to prepare and submit to the Commission, within such reasonable time (not less than 30 days) as he may specify, a technical report of the facts relating to the objection prior to the scheduling of the hearing. The report shall be required by notice in writing served upon the objector by certified mail, return receipt requested, addressed to the person or entity filing the request for hearing at the place indicated in the request.

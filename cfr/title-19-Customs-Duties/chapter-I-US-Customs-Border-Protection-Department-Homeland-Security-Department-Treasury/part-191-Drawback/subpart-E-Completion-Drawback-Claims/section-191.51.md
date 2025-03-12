@@ -1,0 +1,57 @@
+##### § 191.51 Completion of drawback claims. #####
+
+(a) *General* - (1) *Complete claim.* Unless otherwise specified, a complete drawback claim under this part shall consist of the drawback entry on Customs Form 7551, applicable certificate(s) of manufacture and delivery, applicable Notice(s) of Intent to Export, Destroy, or Return Merchandise for Purposes of Drawback, applicable import entry number(s), coding sheet unless the data is filed electronically, and evidence of exportation or destruction under subpart G of this part.
+
+(2) *Certificates.* Additionally, at the time of the filing of the claim, the associated certificate(s) of delivery must be in the possession of the party to whom the merchandise or article covered by the certificate was delivered. Any required certificate(s) of manufacture and delivery, if not previously filed with Customs, must be filed with the claim. Previously filed certificates of manufacture and delivery, if required, shall be referenced in the claim.
+
+(b) *Drawback due* - (1) *Claimant required to calculate drawback.* Drawback claimants are required to correctly calculate the amount of drawback due. The amount of drawback requested on the drawback entry is generally to be 99 percent of the import duties eligible for drawback. (For example, if $1,000 in import duties are eligible for drawback less 1 percent ($10), the amount claimed on the drawback entry should be for $990.) Claims exceeding 99 percent (or 100% when 100% of the duty is available for drawback) will not be paid until the calculations have been corrected by the claimant. Claims for less than 99 percent (or 100% when 100% of the duty is available for drawback) will be paid as filed, unless the claimant amends the claim in accordance with § 191.52(c).
+
+(2) *Merchandise processing fee apportionment calculation.* Where a drawback claimant seeks unused merchandise drawback pursuant to 19 U.S.C. 1313(j), or drawback for substitution of finished petroleum derivatives pursuant to 19 U.S.C. 1313(p)(2)(A)(iii) or (iv), for a merchandise processing fee paid pursuant to 19 U.S.C. 58c(a)(9)(A), the claimant is required to correctly apportion the fee to that merchandise that provides the basis for drawback when calculating the amount of drawback requested on the drawback entry. This is determined as follows:
+
+(i) *Relative value ratio for each line item.* The value of each line item of entered merchandise subject to a merchandise processing fee is calculated (to four decimal places) by dividing the value of the line item subject to the fee by the total value of entered merchandise subject to the fee. The resulting value forms the relative value ratio.
+
+(ii) *Merchandise processing fee apportioned to each line item.* To apportion the merchandise processing fee to each line item, the relative value ratio for each line item is multiplied by the merchandise processing fee paid.
+
+(iii) *Amount of merchandise processing fee eligible for drawback per line item.* The amount of merchandise processing fee apportioned to each line item is multiplied by 99 percent to calculate that portion of the fee attributable to each line item that is eligible for drawback.
+
+(iv) *Amount of merchandise processing fee eligible for drawback per unit of merchandise.* To calculate the amount of a merchandise processing fee eligible for drawback per unit of merchandise, the line item amount that is eligible for drawback is divided by the number of units covered by that line item (to two decimal places).
+
+Example 1:Line item 1 - 5,000 articles valued at $10 each total $50,000Line item 2 - 6,000 articles valued at $15 each total $90,000Line item 3 - 10,000 articles valued at $20 each total $200,000Total units = 21,000Total value = $340,000Merchandise processing fee = $485 (for purposes of this example, the fee cap of $485, as per 19 U.S.C. 58c(a)(9)(B)(i), is applicable)*Line item relative value ratios.* The relative value ratio for line item 1 is calculated by dividing the value of that line item by the total value ($50,000 ÷ 340,000 = .1470). The relative value ratio for line item 2 is .2647. The relative value ratio for line item 3 is .5882.
+
+*Merchandise processing fee apportioned to each line item.* The amount of fee attributable to each line item is calculated by multiplying $485 by the applicable relative value ratio. The amount of the $485 fee attributable to line item 1 is $71.295 (.1470 × $485 = $71.295). The amount of the fee attributable to line item 2 is $128.3795 (.2647 × $485 = $128.3795). The amount of the fee attributable to line item 3 is $285.277 (.5882 × $485 = $285.277).
+
+*Amount of merchandise processing fee eligible for drawback per line item.* The amount of merchandise processing fee eligible for drawback for line item 1 is $70.5821 ÷ (.99 × $71.295). The amount of fee eligible for drawback for line item 2 is $127.0957 (.99 × $128.3795). The amount of fee eligible for drawback for line item 3 is $282.4242 (.99 × $285.277).
+
+*Amount of merchandise processing fee eligible for drawback per unit of merchandise.* The amount of merchandise processing fee eligible for drawback per unit of merchandise is calculated by dividing the amount of fee eligible for drawback for the line item by the number of units in the line item. For line item 1, the amount of merchandise processing fee eligible for drawback per unit is $.0141 ($70.5821 ÷ 5,000 = $.0141). If 1,000 widgets form the basis of a claim for drawback under 19 U.S.C. 1313(j), the total amount of drawback attributable to the merchandise processing fee is $14.10 (1,000 × .0141 = $14.10). For line item 2, the amount of fee eligible for drawback per unit is $.0212 ($127.0957 ÷ 6,000 = $.0212). For line item 3, the amount of fee eligible for drawback per unit is $.0282 ($282.4242 ÷ 10,000 = $.0282).
+
+Example 2:This example illustrates the treatment of dutiable merchandise that is exempt from the merchandise processing fee and duty-free merchandise that is subject to the merchandise processing fee.Line item 1 - 700 meters of printed cloth valued at $10 per meter (total value $7,000) that is exempt from the merchandise processing fee under 19 U.S.C. 58c(b)(8)(B)(iii)Line item 2 - 15,000 articles valued at $100 each (total value $1,500,000)Line item 3 - 10,000 duty-free articles valued at $50 each (total value $500,000)The relative value ratios are calculated using line items 2 and 3 only, as there is no merchandise processing fee imposed by reason of importation on line item 1.Line item 2 - 1,500,000 ÷ 2,000,000 = .75 (line items 2 and 3 form the total value of the merchandise subject to the merchandise processing fee).Line item 3 - 500,000 ÷ 2,000,000 = .25.If the total merchandise processing fee paid was $485, the amount of the fee attributable to line item 2 is $363.75 (.75 × $485 = $363.75). The amount of the fee attributable to line item 3 is $121.25 (.25 × $485 = $121.25).
+
+The amount of merchandise processing fee eligible for drawback for line item 2 is $360.1125 (.99 × $363.75). The amount of fee eligible for line item 3 is $120.0375 (.99 × $121.25).
+
+The amount of drawback on the merchandise processing fee attributable to each unit of line item 2 is $.0240 ($360.1125 ÷ 15,000 = $.0240). The amount of drawback on the merchandise processing fee attributable to each unit of line item 3 is $.0120 ($120.0375 ÷ 10,000 = $.0120).
+
+If 1,000 units of line item 2 were exported, the drawback attributable to the merchandise processing fee is $24.00 ($.0240 × 1,000 = $24.00).
+
+(c) *HTSUS number(s) or Schedule B commodity number(s) of imports and exports* - (1) *General.* Drawback claimants are required to provide, on all drawback claims they submit, the Harmonized Tariff Schedule of the United States (HTSUS) number(s) for the designated imported merchandise and the HTSUS number(s) or the Schedule B commodity number(s) for the exported article or articles.
+
+(2) *Imports.* For imports, HTSUS numbers shall be provided from the entry summary(s) and other entry documentation, when the claimant is the importer of record, or from the certificate of delivery and/or the certificate of manufacture and delivery, otherwise. Manufacturing drawback claimants filing drawback claims based on certificate(s) of manufacture and delivery filed with the claims or previously filed with Customs (see paragraph (a) of this section), may meet this requirement with the HTSUS number(s) for the designated imported merchandise on such certificate(s).
+
+(3) *Exports.* For exports, the HTSUS number(s) or Schedule B commodity number(s) shall be from the Shipper's Export Declaration(s) (SEDs), when required. If no SED is required (see, e.g., 15 CFR 30.58), the claimant shall provide the Schedule B commodity number(s) or HTSUS number(s) that the exporter would have set forth on the SED, but for the exemption from the requirement for an SED.
+
+(4) *6-digit level for HTSUS and Schedule B commodity numbers.* The HTSUS numbers and Schedule B commodity numbers shall be stated to at least 6 digits.
+
+(5) *Effective date.* For imports, HTSUS numbers are required for merchandise entered, or withdrawn from warehouse, for consumption on or after April 6, 1998. For exports, HTSUS numbers or Schedule B commodity numbers are required for exported merchandise or articles exported on or after the date 1 year after April 6, 1998.
+
+(d) *Place of filing.* For manufacturing drawback, the claimant shall file the drawback claim with the drawback office listed, as appropriate, in the general manufacturing drawback ruling or the specific manufacturing drawback ruling (see §§ 191.7 and 191.8 of this part). For other kinds of drawback, the claimant shall file the claim with any drawback office.
+
+(e) *Time of filing* - (1) *General.* A completed drawback claim, with all required documents, shall be filed within 3 years after the date of exportation or destruction of the merchandise or articles which are the subject of the claim. Except for landing certificates (see § 191.76 of this part), or unless this time is extended as provided in paragraph (e)(2) of this section, claims not completed within the 3-year period shall be considered abandoned. Except as provided in paragraph (e)(2) of this section, no extension will be granted unless it is established that Customs was responsible for the untimely filing.
+
+(2) *Major disaster.* The 3-year period for filing a completed drawback claim provided for in paragraph (e)(1) of this section may be extended for a period not to exceed 18 months if:
+
+(i) The claimant establishes to the satisfaction of Customs that the claimant was unable to file the drawback claim because of an event declared by the President to be a major disaster, within the meaning given to that term in 42 U.S.C. 5122(2), on or after January 1, 1994; and
+
+(ii) The claimant files a request for such extension with Customs within 1 year from the last day of the 3-year period referred to in paragraph (e)(1) of this section.
+
+(3) *Record retention.* If an extension is granted with respect to a request filed under paragraph (e)(2)(ii) of this section, the periods of time for retaining records under 19 U.S.C. 1508(c)(3) shall be extended for an additional 18 months.
+
+[T.D. 98-16, 63 FR 11006, Mar. 5, 1998, as amended by T.D. 01-14, 66 FR 8767, Feb. 2, 2001; T.D. 01-18, 66 FR 9649, Feb. 9, 2001; T.D. 02-39, 67 FR 48548, July 25, 2002; CBP Dec. 04-33, 69 FR 60083, Oct. 7, 2004]

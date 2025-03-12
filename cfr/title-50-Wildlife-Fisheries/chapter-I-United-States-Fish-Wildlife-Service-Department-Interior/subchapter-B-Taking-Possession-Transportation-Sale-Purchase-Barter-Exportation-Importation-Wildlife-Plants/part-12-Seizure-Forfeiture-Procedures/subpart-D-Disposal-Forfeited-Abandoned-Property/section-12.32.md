@@ -1,0 +1,3 @@
+##### § 12.32 Effect of prior illegality. #####
+
+The effect of any prior illegality on a subsequent holder of any wildlife or plant disposed of or subject to disposal is terminated upon forfeiture or abandonment, but the prohibitions, restrictions, conditions, or requirements which apply to a particular species of wildlife or plant under the laws or regulations of the United States or any State, including any applicable conservation, health, quarantine, agricultural, or Customs laws or regulations remain in effect as to the conduct of such holder.

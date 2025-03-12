@@ -1,0 +1,3 @@
+##### § 2011.106 Agreements with foreign countries. #####
+
+Agreements or arrangements providing for the certificate system may be entered into by the United States Government with the governments of foreign countries. Such agreements or arrangements may provide for the designation of certifying authorities, the designation of seals or other forms of authentication, the transmittal and exchange of pertinent information, and other appropriate means or forms of cooperation.

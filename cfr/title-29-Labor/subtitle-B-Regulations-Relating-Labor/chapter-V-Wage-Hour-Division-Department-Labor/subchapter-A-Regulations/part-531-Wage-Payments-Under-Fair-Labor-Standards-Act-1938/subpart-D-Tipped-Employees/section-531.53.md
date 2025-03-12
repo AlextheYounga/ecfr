@@ -1,0 +1,3 @@
+##### § 531.53 Payments which constitute tips. #####
+
+In addition to cash sums presented by customers which an employee keeps as his own, tips received by an employee include, within the meaning of the Act, amounts paid by bank check or other negotiable instrument payble at par and amounts transferred by the employer to the employee pursuant to directions from credit customers who designate amounts to be added to their bills as tips. Special gifts in forms other than money or its equivalent as above described such as theater tickets, passes, or merchandise, are not counted as tips received by the employee for purposes of the Act.

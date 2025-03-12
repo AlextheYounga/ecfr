@@ -1,0 +1,3 @@
+##### § 665.809 Port privileges and transiting for unpermitted U.S. longline vessels. #####
+
+A U.S. longline fishing vessel that does not have a permit under subpart A of this part may enter waters of the fishery management area with western Pacific pelagic MUS on board, but may not land or transship any western Pacific pelagic MUS on board the vessel. The vessel's longline gear must be stowed or secured so it is rendered unusable during the time the vessel is in those waters.

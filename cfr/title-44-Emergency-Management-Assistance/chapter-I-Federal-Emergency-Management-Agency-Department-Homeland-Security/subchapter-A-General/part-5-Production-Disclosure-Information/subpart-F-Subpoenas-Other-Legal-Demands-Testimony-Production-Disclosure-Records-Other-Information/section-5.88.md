@@ -1,0 +1,5 @@
+##### § 5.88 Testimony in litigation in which the United States is a party. #####
+
+(a) Whenever, in any legal proceeding in which the United States is a party, the attorney in charge of presenting the case for the United States requests it, the Chief Counsel shall arrange for an employee of the Agency to testify as a witness for the United States.
+
+(b) The attendance and testimony of named employees of the Agency may not be required in any legal proceeding by the judge or other presiding officer, by subpoena or otherwise. However, the judge or other presiding officer may, upon a showing of exceptional circumstances (such as a case in which a particular named FEMA employee has direct personal knowledge of a material fact not known to the witness made available by the Agency) require the attendance and testimony of named FEMA personnel.

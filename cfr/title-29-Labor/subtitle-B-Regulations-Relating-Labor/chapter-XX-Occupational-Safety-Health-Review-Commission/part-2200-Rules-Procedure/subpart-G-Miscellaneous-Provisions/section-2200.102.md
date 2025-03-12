@@ -1,0 +1,5 @@
+##### § 2200.102 Withdrawal. #####
+
+A party may withdraw its notice of contest, citation, notification of proposed penalty, or petition for modification of abatement period at any stage of a proceeding. The notice of withdrawal shall be served in accordance with § 2200.7(c) upon all parties and authorized employee representatives that are eligible to elect, but have not elected, party status. It shall also be posted in the manner prescribed in § 2200.7(g) for the benefit of any affected employees not represented by an authorized employee representative who are eligible to elect, but have not elected, party status. Proof of service shall accompany the notice of withdrawal.
+
+[51 FR 32015, Sept. 8, 1986; 52 FR 13832, Apr. 27, 1987]

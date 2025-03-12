@@ -1,0 +1,3 @@
+##### § 502.30 Applicability of procedures and rules. #####
+
+The procedures and rules contained herein prescribe the administrative process that will be applied with respect to a determination to impose an assessment of civil money penalties, and which may be applied to the enforcement of covered provisions of the work contract as set forth in § 501.10(a), including the collection of unpaid wages due as a result of any violation of the H-2A provisions of the Act or of these regulations. Except with respect to the imposition of civil money penalties, the Secretary may, in the Secretary's discretion, seek enforcement action in Federal court without resort to any administrative proceedings.

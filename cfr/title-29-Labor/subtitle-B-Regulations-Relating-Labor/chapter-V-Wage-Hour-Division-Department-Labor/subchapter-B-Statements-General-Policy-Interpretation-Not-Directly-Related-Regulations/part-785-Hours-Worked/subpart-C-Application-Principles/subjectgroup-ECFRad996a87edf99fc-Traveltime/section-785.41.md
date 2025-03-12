@@ -1,0 +1,3 @@
+##### § 785.41 Work performed while traveling. #####
+
+Any work which an employee is required to perform while traveling must, of course, be counted as hours worked. An employee who drives a truck, bus, automobile, boat or airplane, or an employee who is required to ride therein as an assistant or helper, is working while riding, except during bona fide meal periods or when he is permitted to sleep in adequate facilities furnished by the employer.

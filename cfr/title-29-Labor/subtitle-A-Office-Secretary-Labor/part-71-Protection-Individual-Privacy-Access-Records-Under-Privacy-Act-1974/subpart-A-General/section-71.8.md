@@ -1,0 +1,3 @@
+##### § 71.8 Preservation of records. #####
+
+Each component shall preserve all correspondence relating to the requests it receives under this subpart, and all records processed pursuant to such requests, until such time as the destruction of such correspondence and records is authorized pursuant to title 44 of the U.S. Code and record schedules approved by the National Archives and Records Administration, and otherwise in accordance with retention requirements as published in the agency's system of records. Under no circumstances shall records be destroyed while they are the subject of a pending request for access, appeal, or lawsuit under the Act.

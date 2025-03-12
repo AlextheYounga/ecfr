@@ -1,0 +1,3 @@
+##### § 352.3 Purpose and scope. #####
+
+This subpart establishes policies and procedures for submission by a commercial nuclear power plant licensee of a certification for Federal assistance under Executive Order 12657. It contains policies and procedures for FEMA's determinations, with respect to a certification. It establishes a framework for providing Federal assistance to licensees. It also provides procedures for review and evaluation of the adequacy of licensee offsite radiological emergency planning and preparedness.

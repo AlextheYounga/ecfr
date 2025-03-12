@@ -1,0 +1,3 @@
+##### § 37.52 Records. #####
+
+The permittee shall keep accurate and complete records relating to its exploratory activities and to all data and information, including, but not limited to, raw, processed, reprocessed, analyzed and interpreted data and information, obtained as a result thereof. Until September 2, 1989, the Secretary shall have access to and the right to examine and reproduce any records, papers, or other documents relating to such activities, data and information in order to ascertain the permittee's compliance with this part, ability to perform under any special use permit, and reliability and accuracy of all data, information and reports submitted to the Regional Director.

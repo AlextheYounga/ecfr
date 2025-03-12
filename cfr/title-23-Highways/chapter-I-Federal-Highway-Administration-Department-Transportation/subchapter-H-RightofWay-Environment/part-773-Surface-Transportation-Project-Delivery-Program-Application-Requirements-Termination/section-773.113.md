@@ -1,0 +1,15 @@
+##### § 773.113 Application amendments. #####
+
+(a) After a State submits its application to the appropriate Operating Administration(s), but prior to the execution of the MOU(s), the State may amend its application at any time to request the addition or withdrawal of projects, classes of projects, or environmental review responsibilities consistent with the requirements of this part.
+
+(1) Prior to submitting any such amendment, the State must coordinate with the appropriate Operating Administration(s) to determine if the amendment represents a substantial change in the application to such an extent that additional notice and opportunity for public comment is needed. The Operating Administration is responsible for making the final decision on whether notice and public comment is needed and whether to provide one opportunity (pursuant to § 773.107(b)) or two opportunities (pursuant to § 773.107(b) and § 773.111(a)) for public comment. The Operating Administration will make this determination based on the magnitude of the changes.
+
+(2) If the Operating Administration determines that notice and solicitation of public comment is needed pursuant to § 773.107(b), the State must include copies of all comments received, responses to substantive comments, and note the changes, if any, that were made in response to the comments.
+
+(b) After the execution of the MOU(s) or renewal MOU(s), a State may amend its application to the appropriate Operating Administration(s) to request additional projects, classes of projects, or more environmental review responsibilities consistent with the requirements of this part.
+
+(1) Prior to requesting any such amendment, the State must coordinate with the appropriate Operating Administration(s) to determine if the amendment represents a substantial change in the application information to the extent that additional notice and opportunity for public comment is needed. The Operating Administration is responsible for making the final decision on whether notice and public comment are needed and whether to provide one opportunity (pursuant to § 773.107(b) or § 773.111(a)) or two opportunities (pursuant to § 773.107(b) and § 773.111(a)) for public comment. The Operating Administration will make this determination based on the magnitude of the changes.
+
+(2) If the Operating Administration determines that notice and solicitation of public comment is required pursuant to § 773.107(b), the State must include copies of all comments received, responses to substantive comments, and note the changes, if any, that were made in response to the comments.
+
+(3) The Operating Administration is responsible for making the final decision on whether to accept the amendment and whether an amendment to the MOU is required. Amendments do not change the expiration date of the initial or renewal MOU.

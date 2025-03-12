@@ -1,0 +1,7 @@
+##### § 352.25 Limitation on committing Federal facilities and resources for emergency preparedness. #####
+
+(a) The commitment of Federal facilities and resources will be made through the authority of the affected Federal agencies.
+
+(b) In implementing a determination under subpart A (44 CFR 352.6(d)), that Federal facilities and resources are necessary for emergency preparedness, FEMA shall take care not to supplant State and local resources. Federal facilities and resources shall be substituted for those of the State and local governments in the licensee offsite emergency response plan only to the extent necessary to compensate for the nonparticipation or inadequate participation of those governments, and only as a last resort after consultation with the Governor(s) and responsible local officials in the affected area(s) regarding State and local participation.
+
+(c) All Federal planning activities described in this subpart will be conducted under the assumption that, in the event of an actual radiological emergency or disaster, State and local authorities would contribute their full resources and exercise their authorities in accordance with their duties to protect the public from harm and would act, generally, in conformity with the licensee's offsite emergency response plan.

@@ -1,0 +1,3 @@
+##### § 191.21 Direct identification drawback. #####
+
+Section 313(a) of the Act, as amended (19 U.S.C. 1313(a)), provides for drawback upon the exportation, or destruction under Customs supervision, of articles which are not used in the United States prior to their exportation or destruction, and which are manufactured or produced in the United States wholly or in part with the use of particular imported, duty-paid merchandise and/or drawback product(s). Where two or more products result, drawback shall be distributed among the products in accordance with their relative value (see § 191.2(u)) at the time of separation. Merchandise may be identified for drawback purposes under 19 U.S.C. 1313(a) in the manner provided for and prescribed in § 191.14 of this part.

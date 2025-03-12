@@ -1,0 +1,3 @@
+##### § 1314.9 Waiver of regulations. #####
+
+TVA reserves the right in TVA's discretion to waive any provision of the regulations in this part in any case or class of cases for the convenience of TVA or in order to relieve any Person of unnecessary hardship, if such action is not inconsistent with law and does not adversely affect any substantial existing rights, and TVA is satisfied that such action will not subject TVA to any substantial expense or liability.

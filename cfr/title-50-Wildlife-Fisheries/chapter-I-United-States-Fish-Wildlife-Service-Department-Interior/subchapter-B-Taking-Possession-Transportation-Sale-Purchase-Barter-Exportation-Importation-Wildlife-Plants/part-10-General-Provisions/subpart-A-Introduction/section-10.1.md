@@ -1,0 +1,5 @@
+##### § 10.1 Purpose of regulations. #####
+
+The regulations of this Subchapter B are promulgated to implement the following statutes enforced by the U.S. Fish and Wildlife Service which regulate the taking, possession, transportation, sale, purchase, barter, exportation, and importation of wildlife:
+
+Lacey Act, 18 U.S.C. 42.Lacey Act Amendments of 1981, 16 U.S.C. 3371-3378.Migratory Bird Treaty Act, 16 U.S.C. 703-712.Bald and Golden Eagle Protection Act, 16 U.S.C. 668a-668d.Endangered Species Act of 1973, 16 U.S.C. 1531-1543.Tariff Classification Act of 1962, 19 U.S.C. 1202, [Schedule 1, Part 15D, Headnote 2(d), T.S.U.S.].Fish and Wildlife Act of 1956, 16 U.S.C. 742a-742j-l.Marine Mammal Protection Act of 1972, 16 U.S.C. 1361-1384, 1401-1407.[38 FR 22015, Aug. 15, 1973, as amended at 53 FR 6649, Mar. 2, 1988]

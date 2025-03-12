@@ -1,0 +1,3 @@
+##### § 503.0 Introduction. #####
+
+The regulations in this part cover the enforcement of all statutory and regulatory obligations, including requirements under 8 U.S.C. 1184(c), section 214(c) of the INA and 20 CFR part 655, subpart A, applicable to the employment of H-2B workers in nonimmigrant status under the Immigration and Nationality Act (INA), 8 U.S.C. 1101(a)(15)(H)(ii)(b), section 101(a)(15)(H)(ii)(b) of the INA, and workers in corresponding employment, including obligations to offer employment to eligible United States (U.S.) workers and to not lay off or displace U.S. workers in a manner prohibited by the regulations in this part or 20 CFR part 655, subpart A.

@@ -1,0 +1,5 @@
+##### § 1208.7 Compliance with subpoenas. #####
+
+(a) No person connected in any official way with the NMB shall produce or present any confidential records of the Board or testify on behalf of any party to any cause pending in any court, or before any board, commission, committee, tribunal, investigatory body, or administrative agency of the U.S. Government, or any State or Territory of the United States, or the District of Columbia, or any municipality with respect to matters coming to his knowledge in his official capacity or with respect to any information contained in confidential documents of the NMB, whether in answer to any order, subpoena, subpoena duces tecum, or otherwise without the express written consent of the Board.
+
+(b) Whenever any subpoena or subpoena duces tecum calling for confidential documents, or the information contained therein, or testimony as described above shall have been served on any such person, he will appear in answer thereto, and unless otherwise expressly permitted by the Board, respectfully decline, by reason of this section, to produce or present such confidential documents or to give such testimony.

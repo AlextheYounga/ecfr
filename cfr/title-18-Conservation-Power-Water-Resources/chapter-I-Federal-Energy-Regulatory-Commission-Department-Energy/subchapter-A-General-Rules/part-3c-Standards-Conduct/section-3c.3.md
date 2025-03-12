@@ -1,0 +1,7 @@
+##### § 3c.3 Reporting fraud, waste, abuse, and corruption and cooperation with official inquiries. #####
+
+(a) Employees shall, in fulfilling the obligation of 5 CFR 2635.101(b)(11), report fraud, waste, abuse, and corruption in Commission programs, including on the part of Commission employees, contractors, subcontractors, grantees, or other recipients of Commission financial assistance, to the Office of Inspector General or other appropriate Federal authority.
+
+(b) All alleged violations of the ethical restrictions described in § 3c.1 that are reported in accordance with paragraph (a) of this section to an appropriate authority within the Commission shall in turn be referred by that authority to the Designated Agency Ethics Official or his or her designee, or the Inspector General.
+
+(c) Employees shall cooperate with official inquiries by the Inspector General; they shall respond to questions truthfully under oath when required, whether orally or in writing, and must provide documents and other materials concerning matters of official interest. An employee is not required to respond to such official inquiries if answers or testimony may subject the employee to criminal prosecution.

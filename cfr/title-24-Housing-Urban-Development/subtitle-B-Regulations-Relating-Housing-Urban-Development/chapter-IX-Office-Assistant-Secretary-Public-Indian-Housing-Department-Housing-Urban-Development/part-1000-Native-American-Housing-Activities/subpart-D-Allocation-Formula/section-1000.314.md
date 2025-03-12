@@ -1,0 +1,3 @@
+##### § 1000.314 What is formula current assisted stock? #####
+
+Formula current assisted stock is current assisted stock as described in § 1000.312 plus 1937 Act units in the development pipeline when they become owned or operated by the recipient and are under management as indicated in the Formula Response Form. Formula current assisted stock also includes Section 8 units when their current contract expires and the Indian tribe continues to manage the assistance in a manner similar to the Section 8 program, as reported on the Formula Response Form.

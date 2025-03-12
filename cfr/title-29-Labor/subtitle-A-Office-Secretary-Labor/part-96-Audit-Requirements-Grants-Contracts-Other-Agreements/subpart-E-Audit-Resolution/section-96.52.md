@@ -1,0 +1,5 @@
+##### § 96.52 Pre-resolution phase activities. #####
+
+(a) *Submission of reports.* Recipients and subrecipients of DOL funds that are audited in accordance with the requirements of subpart A shall comply in all respects with the report submission requirements of 29 CFR part 99. Failure to submit a complete audit package will result in the return of the submitted package by the Clearinghouse, which will assign a delinquency classification until the completed package is submitted.
+
+(b) *Quality control.* The Office of Inspector General, in conjunction with other Federal agencies, will implement an audit quality program which may include random, planned, or directed reviews of audits submitted in compliance with OMB Circular A-133. When audits are found not to be performed in compliance with the requirements, the OIG may share the findings with the auditor, the auditee, and the funding agencies, and may work with the local licensing authorities to achieve corrective action.

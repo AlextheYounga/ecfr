@@ -1,0 +1,3 @@
+##### § 152.3 Merchandise found not to correspond with invoice description. #####
+
+When any merchandise not corresponding with the description given in the invoice is found by the examining officer, duties shall be assessed on the merchandise actually found. If the discrepancy appears conclusively to be the result of a mistake and not of any intent to defraud, no proceedings for forfeiture shall be taken. When the entire shipment does not agree with the invoice and there is no evidence of any intent to defraud, a new entry shall be required and the estimated duty paid on the original entry shall be refunded on liquidation as in the case of a nonimportation. (Sec. 499, 46 Stat. 728, as amended; 19 U.S.C. 1499)

@@ -1,0 +1,3 @@
+##### § 18.407 Subsequent remedial measures. #####
+
+When, after an event, measures are taken which, if taken previously, would have made the event less likely to occur, evidence of the subsequent measures is not admissible to prove negligence or culpable conduct in connection with the event. This rule does not require the exclusion of evidence of subsequent measures when offered for another purpose, such as proving ownership, control, or feasibility of precautionary measures, if controverted, or impeachment.

@@ -1,0 +1,11 @@
+##### § 553.28 Other compensatory time. #####
+
+(a) Compensatory time which is earned and accrued by an employee for employment in excess of a nonstatutory (that is, non-FLSA) requirement is considered “other” compensatory time. The term “other” compensatory time off means hours during which an employee is not working and which are not counted as hours worked during the period when used. For example, a collective bargaining agreement may provide that compensatory time be granted to employees for hours worked in excess of 8 in a day, or for working on a scheduled day off in a nonovertime workweek. The FLSA does not require compensatory time to be granted in such situations.
+
+(b) Compensatory time which is earned and accrued by an employee working hours which are “overtime” hours under State or local law, ordinance, or other provisions, but which are not overtime hours under section 7 of the FLSA is also considered “other” compensatory time. For example, a local law or ordinance may provide that compensatory time be granted to employees for hours worked in excess of 35 in a workweek. Under section 7(a) of the FLSA, only hours worked in excess of 40 in a workweek are overtime hours which must be compensated at one and one-half times the regular rate of pay.
+
+(c) Similarly, compensatory time earned or accrued by an employee for employment in excess of a standard established by the personnel policy or practice of an employer, or by custom, which does not result from the FLSA provision, is another example of “other” compensatory time.
+
+(d) The FLSA does not require that the rate at which “other” compensatory time is earned has to be at a rate of one and one-half hours for each hour of employment. The rate at which “other” compensatory time is earned may be some lesser or greater multiple of the rate or the straight-time rate itself.
+
+(e) The requirements of section 7(o) of the FLSA, including the limitations on accrued compensatory time, do not apply to “other” compensatory time as described above.

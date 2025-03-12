@@ -1,0 +1,5 @@
+##### § 159.55 Possible prohibited food, drugs, or other articles. #####
+
+(a) *Suspension of liquidation.* The liquidation of each entry covering merchandise the subject of § 12.1 of this chapter (which pertains to certain foods, drugs, cosmetics, economic poisons, hazardous substances, dangerous caustic or corrosive substances, and related items) shall be suspended until it is determined whether admission of the merchandise into the United States is permitted under the law.
+
+(b) *Allowance for exportation or destruction.* In any case where the admission of such merchandise into the United States is refused and the merchandise is exported under Customs supervision in accordance with § 158.45(b) of this chapter, or destroyed under Customs supervision in accordance with § 158.41 of this chapter, the merchandise is exempt from duty and any duties collected thereon shall be refunded.

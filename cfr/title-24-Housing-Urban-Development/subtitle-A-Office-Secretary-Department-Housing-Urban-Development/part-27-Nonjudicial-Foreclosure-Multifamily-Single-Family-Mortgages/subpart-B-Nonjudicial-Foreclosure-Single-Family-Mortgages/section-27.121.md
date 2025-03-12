@@ -1,0 +1,3 @@
+##### § 27.121 Record of foreclosure and sale. #####
+
+The statements regarding the foreclosed mortgage required to establish a sufficient record shall include the date the mortgage was recorded. The statements regarding the service of the Notice of Default and Foreclosure Sale shall include the names and addresses of the persons to whom the Notice was mailed and the date on which the Notice was mailed, the name of the newspaper in which the Notice was published and the dates of publication, and the date on which service by posting, if required, was accomplished.

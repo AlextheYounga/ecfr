@@ -1,0 +1,3 @@
+##### § 285.3 Referencing NVLAP accreditation. #####
+
+The term *NVLAP* (represented by the NVLAP logo) is a federally registered certification mark of the National Institute of Standards and Technology and the federal government, who retain exclusive rights to control the use thereof. Permission to use the term and/or logo is granted to NVLAP-accredited laboratories for the limited purposes of announcing their accredited status, and for use on reports that describe only testing and calibration within the scope of accreditation. NIST reserves the right to control the quality of the use of the term *NVLAP* and of the logo itself.

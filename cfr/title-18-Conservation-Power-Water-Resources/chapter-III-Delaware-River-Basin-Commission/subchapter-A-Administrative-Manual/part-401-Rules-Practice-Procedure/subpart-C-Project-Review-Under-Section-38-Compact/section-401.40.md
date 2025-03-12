@@ -1,0 +1,5 @@
+##### § 401.40 Informal conferences and emergencies. #####
+
+(a) Whenever the Executive Director shall deem necessary, or upon request of the applicant, an informal conference may be scheduled to explain, supplement or review an application.
+
+(b) In the event of an emergency requiring immediate action to protect the public interest or to avoid substantial and irreparable injury to any private person or property, and the circumstances do not permit a review, hearing and determination in the regular course of the regulations in this part, the Executive Director with the approval of the chairman of the Commission may issue an emergency certificate authorizing an applicant to take such action as the Executive Director may deem necessary and proper in the circumstances, pending review, hearing and determination by the Commission as otherwise required in this part.

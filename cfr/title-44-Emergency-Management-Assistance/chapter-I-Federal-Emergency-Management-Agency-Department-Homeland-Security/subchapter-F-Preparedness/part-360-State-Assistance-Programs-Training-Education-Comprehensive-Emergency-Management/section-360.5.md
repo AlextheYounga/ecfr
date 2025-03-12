@@ -1,0 +1,3 @@
+##### § 360.5 General provisions for State Cooperative Agreement. #####
+
+The legal funding instrument for the State Assistance Program for Training and Education FEMA is the State Cooperative Agreement. All States will be required to comply with FEMA General Provisions for the State Cooperative Agreement. The General Provisions for the State Cooperative Agreement will be provided to the States as part of the Request for Application package. The General Provisions will become part of the Cooperative Agreement.

@@ -1,0 +1,5 @@
+##### § 963.3 Applicability. #####
+
+The policies and procedures contained in this part apply to public housing developments that are owned by public housing agencies (PHAs) and that are covered by Annual Contributions Contracts (ACC) with the Department. Public housing contracts eligible to be awarded under the alternative procurement process provided by this part are limited to individual contracts that do not exceed $1,000,000. Resident-owned businesses eligible to participate in the alternative procurement process are limited to those that meet the eligibility requirements of § 963.10. The policies and procedures contained in this part are consistent with the objectives of section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and similar Federal requirements imposed on public housing programs. (See 24 CFR 941.208(a) and 24 CFR 968.110(a)).
+
+[57 FR 20189, May 11, 1992, as amended at 59 FR 33895, June 30, 1994]

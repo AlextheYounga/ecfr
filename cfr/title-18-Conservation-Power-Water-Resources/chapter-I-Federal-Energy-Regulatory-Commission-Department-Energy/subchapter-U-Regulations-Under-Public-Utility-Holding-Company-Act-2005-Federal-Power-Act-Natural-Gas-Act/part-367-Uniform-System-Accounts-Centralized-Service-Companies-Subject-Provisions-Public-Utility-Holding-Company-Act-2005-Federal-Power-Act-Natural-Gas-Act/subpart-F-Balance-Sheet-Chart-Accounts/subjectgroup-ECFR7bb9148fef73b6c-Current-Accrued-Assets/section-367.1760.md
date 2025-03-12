@@ -1,0 +1,7 @@
+##### § 367.1760 Account 176, Derivative instrument assets—Hedges. #####
+
+(a) This account must include the amounts paid for derivative instruments, and the change in the fair value of derivative instrument assets designated by the service company as cash flow or fair value hedges.
+
+(b) When a service company designates a derivative instrument asset as a cash flow hedge it will record the change in the fair value of the derivative instrument in this account with a concurrent charge to account 219, Accumulated other comprehensive income (§ 367.2190), with the effective portion of the gain or loss. The ineffective portion of the cash flow hedge must be charged to the same income or expense account that will be used when the hedged item enters into the determination of net income.
+
+(c) When a service company designates a derivative instrument as a fair value hedge it must record the change in the fair value of the derivative instrument in this account with a concurrent charge to a subaccount of the asset or liability that carries the item being hedged. The ineffective portion of the fair value hedge must be charged to the same income or expense account that will be used when the hedged item enters into the determination of net income.

@@ -1,0 +1,3 @@
+##### § 401.6 Violations. #####
+
+Any person who wilfully violates any provisions of this order or wilfully conceals a material fact or furnishes false information in the course of operation under this order is guilty of a crime and upon conviction may be punished by fine or imprisonment or both. In addition, administrative action may be taken against any such person, denying him the privileges generally accorded under this order.

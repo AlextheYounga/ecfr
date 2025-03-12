@@ -1,0 +1,3 @@
+##### § 780.712 Limitation of exemption to establishments with five or fewer employees. #####
+
+If the operations of an establishment are such that it is commonly recognized as a country elevator, its employees may come within the section 13(b)(14) exemption provided that “no more than five employees are employed in the establishment in such operations”. The exemption is intended, as explained by its sponsor, to “affect only institutions that have five employees or less” (107 Cong. Rec. (daily ed.) p. 5883). Since the Act is applied on a workweek basis, a country elevator is not an exempt place of work in any workweek in which more than five employees are employed in its operations.

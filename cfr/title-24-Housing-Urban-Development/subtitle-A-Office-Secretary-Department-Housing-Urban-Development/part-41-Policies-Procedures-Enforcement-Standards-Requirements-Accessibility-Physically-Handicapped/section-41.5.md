@@ -1,0 +1,17 @@
+##### § 41.5 Achieving compliance. #####
+
+(a) *Examinations and inspections.* If, for any project, an Assistant Secretary requires Departmental architectural and engineering examinations of drawings and specifications or other construction documents or requires Departmental architectural and engineering inspections during or upon completion of construction, those examinations and inspections shall include a determination of compliance with standards and requirements for accessibility referenced in this part.
+
+(b) *Periodic compliance reviews.* The Secretary, in consultation with the appropriate Assistant Secretary, shall conduct surveys and investigations as deemed appropriate to achieve compliance with standards or requirements subject to this part.
+
+(c) *Complaints.* Any interested person who has reason to believe that there has been noncompliance with standards or requirements subject to this part, may, by himself or herself, or by a representative, file a written complaint with the responsible Department Official or with the Architectural and Transportation Barriers Compliance Board, Washington, DC 20201.
+
+(d) *Investigations.* The Secretary shall, after consultation with the appropriate Assistant Secretary, make a prompt investigation whenever a compliance review, report, complaint, or any other information indicates a possible failure to comply with standards or requirements subject to this part. The investigation should include a determination of the authority under which the standards or requirements were imposed and, where appropriate, a review of the records kept pursuant to 24 CFR 40.6; the circumstances under which the building of facility was designed, constructed or altered; and other factors relevant to a determination as to whether there has been noncompliance with this part.
+
+(e) *Resolution of matters.* (1) If any examination, inspection, periodic compliance review, complaint, or investigation pursuant to this section indicates a failure to comply with the applicable standards or requirements, the Secretary shall attempt to gain voluntary compliance whenever possible.
+
+(2) If it has been determined that voluntary compliance cannot be achieved, the Secretary shall refer the matter to the appropriate Assistant Secretary for action pursuant to his or her program authority regarding the residential structure or other building or facility under investigation, to achieve compliance with the requirements subject to this part. The Assistant Secretary shall report to the Secretary within 30 days of the date of such referral regarding the action taken and the schedule and means of achieving compliance, except that the Secretary may specify a shorter or longer reporting period, as deeded appropriate.
+
+(f) *Disposition of unresolved complaints.* Unresolved complaints shall be referred to the Architectural and Transportation Barriers Compliance Board to be processed in accordance with 36 CFR part 1150. A complaint shall be deemed unresolved if it is not resolved within 90 days of the date of the filing of the complaint with the Department.
+
+(g) *Compliance action by other individuals.* Individuals other than the Secretary may receive complaints and undertake other appropriate actions to achieve compliance with requirements subject to this part, so long as initial notification of such complaints or proposed actions is given both to the Secretary and the appropriate Assistant Secretary.

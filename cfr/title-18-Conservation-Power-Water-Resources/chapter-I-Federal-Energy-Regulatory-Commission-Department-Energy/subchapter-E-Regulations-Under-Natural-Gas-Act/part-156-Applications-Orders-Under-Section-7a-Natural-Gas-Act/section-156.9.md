@@ -1,0 +1,3 @@
+##### § 156.9 Protests and interventions. #####
+
+Notices of applications, as provided by § 156.8 will fix the time within which any person desiring to participate in the proceeding or to file a protest regarding the application, may file a petition to intervene or protest, and within which any interested regulatory agency desiring to intervene may file its notice of intervention. Failure to make timely filing will constitute ground for denial of participation, in the absence of extraordinary circumstances for good cause shown.

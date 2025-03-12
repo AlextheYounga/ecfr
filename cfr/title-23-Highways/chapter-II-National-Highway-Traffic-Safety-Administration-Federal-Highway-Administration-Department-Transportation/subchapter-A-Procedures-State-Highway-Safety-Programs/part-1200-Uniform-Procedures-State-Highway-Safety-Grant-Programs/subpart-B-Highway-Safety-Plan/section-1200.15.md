@@ -1,0 +1,15 @@
+##### § 1200.15 Apportionment and obligation of Federal funds. #####
+
+(a) Except as provided in paragraph (b) of this section, on October 1 of each fiscal year, or soon thereafter, the NHTSA Administrator shall, in writing, distribute funds available for obligation under 23 U.S.C. Chapter 4 to the States and specify any conditions or limitations imposed by law on the use of the funds.
+
+(b) In the event that authorizations exist but no applicable appropriation act has been enacted by October 1 of a fiscal year the NHTSA Administrator may, in writing, distribute a part of the funds authorized under 23 U.S.C. Chapter 4 contract authority to the States to ensure program continuity, and in that event shall specify any conditions or limitations imposed by law on the use of the funds. Upon appropriation of grant funds, the NHTSA Administrator shall, in writing, promptly adjust the obligation limitation, and specify any conditions or limitations imposed by law on the use of the funds.
+
+(c) Funds distributed under paragraph (a) or (b) of this section shall be available for expenditure by the States to satisfy the Federal share of expenses under the approved Highway Safety Plan, and shall constitute a contractual obligation of the Federal Government, subject to any conditions or limitations identified in the distributing document. Such funds shall be available for expenditure by the States as provided in § 1200.41(b), after which the funds shall lapse.
+
+(d) Notwithstanding the provisions of paragraph (c) of this section—
+
+(1) Reimbursement of State expenses for Section 402 grant funds shall be contingent upon the submission of an updated HS Form 217 and an updated project list that includes project numbers for each project within 30 days after the beginning of the fiscal year or the date of the written approval provided under § 1200.14(b)(1) of this part, whichever is later, and approval of the updated HS Form 217 by the Approving Official.
+
+(2) Reimbursement of State expenses for Section 405 grant funds shall be contingent upon the submission of an updated Highway Safety Plan, HS Form 217, and project list to address the grant funds awarded under subpart C, within 30 days after the beginning of the fiscal year or the date of the grant award notice provided under § 1200.14(b)(2), whichever is later, and approval of the updated Highway Safety Plan and HS Form 217 by the Approving Official. Submitting the updated Highway Safety Plan and HS Form 217 is a precondition to reimbursement of grant expenses.
+
+(3) The updated HS Form 217 required under paragraphs (d)(1) and (d)(2) of this section shall reflect the State's allocation of grant funds made available for expenditure during the fiscal year, including carry-forward funds. Within each program area, the State shall provide a project list to be conducted during the fiscal year.

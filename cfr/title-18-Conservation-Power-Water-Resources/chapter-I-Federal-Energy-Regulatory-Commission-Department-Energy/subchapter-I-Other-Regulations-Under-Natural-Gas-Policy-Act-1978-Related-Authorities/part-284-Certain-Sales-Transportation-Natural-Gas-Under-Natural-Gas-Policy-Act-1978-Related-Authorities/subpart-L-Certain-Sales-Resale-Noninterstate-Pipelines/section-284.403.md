@@ -1,0 +1,7 @@
+##### § 284.403 Code of conduct for persons holding blanket marketing certificates. #####
+
+(a) To the extent Seller engages in reporting of transactions to publishers of electricity or natural gas indices, Seller must provide accurate and factual information, and not knowingly submit false or misleading information or omit material information to any such publisher, by reporting its transactions in a manner consistent with the procedures set forth in the *Policy Statement on Natural Gas and Electric Price Indices*, issued by the Commission in Docket No. PL03-3-000 and any clarifications thereto. Seller must notify the Commission as part of its FERC Form No. 552 annual reporting requirement in § 260.401 of this chapter whether it reports its transactions to publishers of electricity and natural gas indices. In addition, Seller shall adhere to any other standards and requirements for price reporting as the Commission may order.
+
+(b) A blanket marketing certificate holder shall retain, for a period of five years, all data and information upon which it billed the prices it charged for the natural gas sold pursuant to its market based sales certificate or the prices it reported for use in price indices.
+
+[Order 644, 68 FR 66337, Nov. 26, 2003, as amended by Order 673, 71 FR 9716, Feb. 27, 2006; Order 677, 71 FR 30287, May 26, 2006; 73 FR 1032, Jan. 4, 2008; 73 FR 55739, Sept. 26, 2008]

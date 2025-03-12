@@ -1,0 +1,13 @@
+##### § 501.1 Purpose and scope. #####
+
+(a) *Purpose.* The purpose of these rules is to fulfill the responsibilities of the Marine Mammal Commission (the “Commission”) under section 3 of the Privacy Act of 1974, 5 U.S.C. 552a(f) (the “Act”) by establishing procedures whereby an individual will be notified if any system of records maintained by the Commission contains a record pertaining to him or her; by defining the times and places at which records will be made available and the identification requirements which must be met by any individual requesting access to them; by establishing procedures for disclosure to an individual, on request, of any record pertaining to him or her; and by establishing procedures for processing, reviewing, and making a final determination on requests of individuals to correct or amend a record pertaining to him or her, including a provision for administrative appeal of initial adverse determinations on such requests. These rules are promulgated with particular attention to the purposes and goals of the Act, and in accordance therewith provide for relative ease of access to records pertaining to an individual, and for maintenance by the Commission of only those records which are current, accurate, necessary, relevant and complete with respect to the purposes for which they were collected.
+
+(b) *Scope.* These rules apply only to “record” contained in “systems of records,” defined by the Act as follows:
+
+The term “record” means any item, collection, or grouping of information about an individual that is maintained by an agency, including, but not limited to, his education, financial transactions, medical history, and criminal or employment history and that contains his name, or the identifying number, symbol, or other identifying particular assigned to the individual, such as a finger or voice print or a photograph;
+
+The term “system of records” means of group of any record under the control of any agency from which information is retrieved by the name of the individual or by some identifying number, symbol, or other identifying particular assigned to the individual.
+
+Notices with respect to the systems maintained by the Commission have been published in the Federal Register, as required by the Act. These rules pertain only to the systems of records disclosed in such notices, and to any systems that may become the subject of a notice at any time in the future.
+
+(c) Nothing in these rules shall be construed as pertaining to requests made under the Freedom of Information Act, 5 U.S.C. 552.

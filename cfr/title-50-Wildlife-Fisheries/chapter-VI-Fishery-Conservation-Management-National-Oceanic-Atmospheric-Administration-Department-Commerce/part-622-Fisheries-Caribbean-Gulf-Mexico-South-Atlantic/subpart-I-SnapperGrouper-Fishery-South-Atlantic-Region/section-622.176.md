@@ -1,0 +1,39 @@
+##### § 622.176 Recordkeeping and reporting. #####
+
+(a) *Commercial vessel owners and operators* - (1) *General reporting requirements.* The owner or operator of a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(a)(1), or whose vessel fishes for or lands South Atlantic snapper-grouper in or from state waters adjoining the South Atlantic EEZ, who is selected to report by the SRD must maintain a fishing record on a form available from the SRD and must submit such record as specified in paragraph (a)(4) of this section.
+
+(2) *Electronic logbook/video monitoring reporting.* The owner or operator of a vessel for which a commercial permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(a)(1), who is selected to report by the SRD must participate in the NMFS-sponsored electronic logbook and/or video monitoring reporting program as directed by the SRD. Compliance with the reporting requirements of this paragraph (a)(2) is required for permit renewal.
+
+(3) *Wreckfish reporting.* The wreckfish shareholder under § 622.172, or operator of a vessel for which a commercial permit for wreckfish has been issued, as required under § 622.170(a)(2), must -
+
+(i) Maintain a fishing record on a form available from the SRD and must submit such record as specified in paragraph (a)(4) of this section.
+
+(ii) Make available to an authorized officer upon request all records of commercial offloadings, purchases, or sales of wreckfish.
+
+(4) *Reporting deadlines.* Completed fishing records required by this paragraph (a) must be submitted to the SRD postmarked not later than 7 days after the end of each fishing trip. If no fishing occurred during a calendar month, a report so stating must be submitted on one of the forms postmarked not later than 7 days after the end of that month. Information to be reported is indicated on the form and its accompanying instructions.
+
+(b) *Charter vessel/headboat owners and operators* - (1) *General reporting requirement* - (i) *Charter vessels.* The owner or operator of a charter vessel for which a charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(b)(1), or whose vessel fishes for or lands such snapper-grouper in or from state waters adjoining the South Atlantic EEZ, who is selected to report by the SRD must maintain a fishing record for each trip, or a portion of such trips as specified by the SRD, on forms provided by the SRD and must submit such record as specified in paragraph (b)(2) of this section.
+
+(ii) *Headboats.* The owner or operator of a headboat for which a charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(b)(1), or whose vessel fishes for or lands such snapper-grouper in or from state waters adjoining the South Atlantic EEZ, who is selected to report by the SRD must submit an electronic fishing record for each trip of all fish harvested within the time period specified in paragraph (b)(2)(ii) of this section, via the Southeast Region Headboat Survey.
+
+(iii) *Electronic logbook/video monitoring reporting.* The owner or operator of a vessel for which a charter vessel/headboat permit for South Atlantic snapper-grouper has been issued, as required under § 622.170(b)(1), or whose vessel fishes for or lands such snapper-grouper in or from state waters adjoining the South Atlantic EEZ, who is selected to report by the SRD must participate in the NMFS-sponsored electronic logbook and/or video monitoring program as directed by the SRD. Compliance with the reporting requirements of this paragraph (b)(1)(iii) is required for permit renewal.
+
+(2) *Reporting deadlines* - (i) *Charter vessels.* Completed fishing records required by paragraph (b)(1)(i) of this section for charter vessels must be submitted to the SRD weekly, postmarked no later than 7 days after the end of each week (Sunday). Completed fishing records required by paragraph (b)(1)(iii) of this section for charter vessels may be required weekly or daily, as directed by the SRD. Information to be reported is indicated on the form and its accompanying instructions.
+
+(ii) *Headboats.* Electronic fishing records required by paragraph (b)(1)(ii) of this section for headboats must be submitted at weekly intervals (or intervals shorter than a week if notified by the SRD) by 11:59 p.m., local time, the Sunday following a reporting week. If no fishing activity occurred during a reporting week, an electronic report so stating must be submitted for that reporting week by 11:59 p.m., local time, the Sunday following a reporting week.
+
+(3) *Catastrophic conditions.* During catastrophic conditions only, NMFS provides for use of paper forms for basic required functions as a backup to the electronic reports required by paragraph (b)(1)(ii) of this section. The RA will determine when catastrophic conditions exist, the duration of the catastrophic conditions, and which participants or geographic areas are deemed affected by the catastrophic conditions. The RA will provide timely notice to affected participants via publication of notification in the Federal Register, NOAA weather radio, fishery bulletins, and other appropriate means and will authorize the affected participants' use of paper forms for the duration of the catastrophic conditions. The paper forms will be available from NMFS. During catastrophic conditions, the RA has the authority to waive or modify reporting time requirements.
+
+(4) *Compliance requirement.* Electronic reports required by paragraph (b)(1)(ii) of this section must be submitted and received by NMFS according to the reporting requirements under this section. A report not received within the time specified in paragraph (b)(2)(ii) of this section is delinquent. A delinquent report automatically results in the owner and operator of a headboat for which a charter vessel/headboat permit for South Atlantic snapper-grouper has been issued being prohibited from harvesting or possessing such species, regardless of any additional notification to the delinquent owner and operator by NMFS. The owner and operator who are prohibited from harvesting or possessing such species due to delinquent reports are authorized to harvest or possess such species only after all required and delinquent reports have been submitted and received by NMFS according to the reporting requirements under this section.
+
+(c) *Dealers.* (1) A dealer who first receives South Atlantic snapper-grouper (including wreckfish) must maintain records and submit information as specified in § 622.5(c).
+
+(2) On demand, a dealer who has been issued a Gulf and South Atlantic dealer permit, as required under § 622.170(c)(1), must make available to an authorized officer all records of offloadings, purchases, or sales of South Atlantic snapper-grouper (including wreckfish).
+
+(d) *Private recreational vessels in the South Atlantic snapper-grouper fishery.* The owner or operator of a vessel that fishes for or lands South Atlantic snapper-grouper in or from the South Atlantic EEZ who is selected to report by the SRD must -
+
+(1) Maintain a fishing record for each trip, or a portion of such trips as specified by the SRD, on forms provided by the SRD. Completed fishing records must be submitted to the SRD monthly and must either be made available to an authorized statistical reporting agent or be postmarked not later than 7 days after the end of each month. Information to be reported is indicated on the form and its accompanying instructions.
+
+(2) Participate in the NMFS-sponsored electronic logbook and/or video monitoring reporting program as directed by the SRD.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78781, Dec. 27, 2013; 79 FR 19495, Apr. 9, 2014]

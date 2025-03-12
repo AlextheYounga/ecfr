@@ -1,0 +1,3 @@
+##### § 111.50 General. #####
+
+This subpart sets forth provisions relating to cancellation, suspension, or revocation of a license or a permit, or assessment of a monetary penalty in lieu of suspension or revocation, under section 641(d)(2)(B), Tariff Act of 1930, as amended (19 U.S.C. 1641(d)(2)(B)). The provisions relating to assessment of a monetary penalty under sections 641(b)(6) and (d)(2)(A), Tariff Act of 1930, as amended (19 U.S.C. 1641(b)(6) and (d)(2)(A)), are set forth in subpart E of this part.

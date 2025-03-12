@@ -1,0 +1,9 @@
+##### § 157.17 Applications for temporary certificates in cases of emergency. #####
+
+In cases of emergency and pending the determination of any application on file with the Commission for a certificate of public convenience and necessity pursuant to section 7 of the Natural Gas Act, application may be made for a temporary certificate authorizing the construction and operation of extensions of existing facilities, interconnections of pipeline systems, or sales of natural gas that may be required to assure maintenance of adequate service, or to service particular customers. This application must be submitted in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter.
+
+(a) Whenever the waiver provisions of § 385.2011 of this chapter apply, the application must be submitted in writing, must be subscribed and verified by a responsible officer of applicant having knowledge of the facts, and must state clearly and specifically the exact character of the emergency, the proposed method of meeting it, and the facts claimed to warrant issuance of a temporary certificate.
+
+(b) The application must be submitted on electronic media as prescribed in § 385.2011 of this chapter, must be subscribed and verified by a responsible officer of applicant having knowledge of the facts, and must state clearly and specifically the exact character of the emergency, the proposed method of meeting it, and the facts claimed to warrant issuance of a temporary certificate.
+
+[Order 493, 53 FR 15029, Apr. 27, 1988, as amended by Order 493-B, 53 FR 49653, Dec. 9, 1988; Order 603, 64 FR 26606, May 14, 1999]

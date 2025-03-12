@@ -1,0 +1,3 @@
+##### § 402.09 Irreversible or irretrievable commitment of resources. #####
+
+After initiation or reinitiation of consultation required under section 7(a)(2) of the Act, the Federal agency and any applicant shall make no irreversible or irretrievable commitment of resources with respect to the agency action which has the effect of foreclosing the formulation or implementation of any reasonable and prudent alternatives which would avoid violating section 7(a)(2). This prohibition is in force during the consultation process and continues until the requirements of section 7(a)(2) are satisfied. This provision does not apply to the conference requirement for proposed species or proposed critical habitat under section 7(a)(4) of the Act.

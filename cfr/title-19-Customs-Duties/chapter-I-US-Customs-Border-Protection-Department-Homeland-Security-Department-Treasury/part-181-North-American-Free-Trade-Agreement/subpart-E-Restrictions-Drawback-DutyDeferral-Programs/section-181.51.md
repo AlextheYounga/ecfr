@@ -1,0 +1,5 @@
+##### § 181.51 Prevention of improper payment of claims. #####
+
+(a) *Double payment of claim.* The drawback claimant shall certify to Customs that he has not earlier received payment on the same import entry for the same designation of goods. If, notwithstanding such a certification, such an earlier payment was in fact made to the claimant, the claimant shall repay any amount paid on the second claim.
+
+(b) *Preparation of Certificate of Origin.* The drawback claimant shall, within 30 calendar days after the filing of the drawback claim under this subpart, submit to Customs a written statement as to whether he has prepared, or has knowledge that another person has prepared, a Certificate of Origin provided for under § 181.11(a) of this part and pertaining to the goods which are covered by the claim. If, following such 30-day period, the claimant prepares, or otherwise learns of the existence of, any such Certificate of Origin, the claimant shall, within 30 calendar days thereafter, disclose that fact to Customs.

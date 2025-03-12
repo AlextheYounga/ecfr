@@ -1,0 +1,3 @@
+##### § 1200.32 Changes—Approval of the Approving Official. #####
+
+States shall provide documentary evidence of any reallocation of funds between program areas by submitting to the NHTSA regional office an amended HS Form 217, reflecting the changed allocation of funds and updated list of projects under each program area, as provided in § 1200.11(e), within 30 days of implementing the change. The amended HS Form 217 and list of projects is subject to the approval of the Approving Official.

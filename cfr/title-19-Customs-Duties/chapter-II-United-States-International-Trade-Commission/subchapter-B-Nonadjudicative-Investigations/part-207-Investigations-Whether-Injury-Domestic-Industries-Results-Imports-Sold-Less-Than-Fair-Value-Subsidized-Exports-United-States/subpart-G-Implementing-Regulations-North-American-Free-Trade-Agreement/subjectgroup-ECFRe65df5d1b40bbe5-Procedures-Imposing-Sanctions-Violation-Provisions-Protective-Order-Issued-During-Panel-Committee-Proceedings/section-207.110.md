@@ -1,0 +1,7 @@
+##### § 207.110 Subpoenas. #####
+
+(a) *Application for issuance of a subpoena.* Except as provided in § 207.109(c) of this subpart, an application for issuance of a subpoena requiring a person to appear and depose or testify at the taking of a deposition or at a hearing shall be made to the administrative law judge. The application shall be made in writing, and shall specify the material to be produced as precisely as possible, showing the relevancy of the material and the reasonableness of the scope of the subpoena. The application shall be ruled upon by the administrative law judge.
+
+(b) *Enforcement of a subpoena.* A motion for enforcement of a subpoena shall be made to the administrative law judge. Upon consideration of the motion and any response thereto, the administrative law judge shall recommend to the Commission in favor of or against enforcement. The administrative law judge's recommendation shall provide the basis therefor, and shall address each of the criteria necessary for enforcement of an administrative subpoena. After consideration of the administrative law judge's recommendation, the Commission shall determine whether initiation of enforcement proceedings is appropriate.
+
+(c) *Application for subpoena grounded upon the Freedom of Information Act.* No application for a subpoena for production of documents grounded upon the Freedom of Information Act (5 U.S.C. 552) shall be entertained by the administrative law judge or the Commission.

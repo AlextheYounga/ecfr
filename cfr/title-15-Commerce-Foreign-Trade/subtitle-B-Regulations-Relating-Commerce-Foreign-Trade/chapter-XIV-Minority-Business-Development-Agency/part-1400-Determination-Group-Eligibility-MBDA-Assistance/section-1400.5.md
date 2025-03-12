@@ -1,0 +1,7 @@
+##### § 1400.5 Decision. #####
+
+(a) *Procedure.* After receipt of an application requesting formal designation as a socially or economically disadvantaged group, the Department of Commerce will publish a notice in the Federal Register that formal designation of this group will be considered. This notice will request comment from the public on the propriety of such a designation. The Department may gather additional information which supports or refutes the group's request. Any member of the public, including Government representatives, may submit information in written form. It is the responsibility of the applicant, however, to submit all relevant information which it wishes considered in its request for a determination of group eligibility.
+
+(b) *Decision.* A decision will be made within 180 days of the receipt of the request. The decision will be published in the Federal Register. Applicants will also be informed in writing.
+
+(c) *Appeal.* All questions of eligibility and procedural requirements shall be resolved by the Director, MBDA whose decision shall be final. An applicant may appeal this decision to the Secretary of Commerce. Applicants requesting an appeal should provide any information discovered subsequent to the Director's initial decision which would further their claim. The right to appeal shall be granted at the absolute discretion of the Secretary.

@@ -1,0 +1,3 @@
+##### § 151.23 Allowance for moisture in raw sugar. #####
+
+Inasmuch as the absorption of sea water or moisture reduces the polariscopic test of sugar, there shall be no allowance on account of increased weight of raw sugar importations due to unusual absorption of sea water or other moisture while on the voyage of importation. Any portion of the cargo claimed by the importer to have absorbed sea water or moisture on the voyage of importation shall be weighed, sampled, and tested separately. No such claim shall be considered if made after the sugar claimed to have been damaged has been weighed.

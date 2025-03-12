@@ -1,0 +1,7 @@
+##### § 578.27 Consolidated plan. #####
+
+(a) *States or units of general local government.* An applicant that is a State or a unit of general local government must have a HUD-approved, complete or abbreviated, consolidated plan in accordance with 24 CFR part 91. The applicant must submit a certification that the application for funding is consistent with the HUD-approved consolidated plan(s) for the jurisdiction(s) in which the proposed project will be located. Funded applicants must certify in a grant agreement that they are following the HUD-approved consolidated plan.
+
+(b) *Other applicants.* Applicants that are not States or units of general local government must submit a certification by the jurisdiction(s) in which the proposed project will be located that the applicant's application for funding is consistent with the jurisdiction's HUD-approved consolidated plan. The certification must be made by the unit of general local government or the State, in accordance with the consistency certification provisions under 24 CFR part 91, subpart F. If the jurisdiction refuses to provide a certification of consistency, the applicant may appeal to HUD under § 578.35.
+
+(c) *Timing of consolidated plan certification submissions.* The required certification that the application for funding is consistent with the HUD-approved consolidated plan must be submitted by the funding application submission deadline announced in the NOFA.

@@ -1,0 +1,3 @@
+##### § 208.34 Agreements between Sponsoring Agencies and others. #####
+
+Sponsoring Agencies are responsible for executing such agreements with Participating Agencies and Affiliated Personnel as may be necessary to implement the Sponsoring Agency's Response Cooperative Agreement with DHS. Those agreements must identify established hourly or daily rates of pay for System Members. The hourly or daily rates of pay for Affiliated Personnel must be in accordance with, and must not exceed, the maximum pay rates contained in the then-current Maximum Pay Rate Table.

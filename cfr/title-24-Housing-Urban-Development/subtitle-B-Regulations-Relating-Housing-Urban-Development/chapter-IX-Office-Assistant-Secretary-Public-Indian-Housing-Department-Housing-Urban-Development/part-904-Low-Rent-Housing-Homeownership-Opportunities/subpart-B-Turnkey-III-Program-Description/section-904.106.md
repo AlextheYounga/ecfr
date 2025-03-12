@@ -1,0 +1,3 @@
+##### § 904.106 Homebuyers Association (HBA). #####
+
+An HBA is an incorporated organization composed of all the families who are entitled to occupancy pursuant to a Homebuyers Ownership Opportunity Agreement or who are homeowners. It is formed and organized for the purposes set forth in § 904.304 of this part. The HBA shall be funded as provided in § 904.305 of this part. In the absence of a duly organized HBA, the LHA shall be free to act without the HBA action required by this subpart.

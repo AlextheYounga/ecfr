@@ -1,0 +1,11 @@
+##### § 206.252 Insurance requirements for facilities damaged by flood. #####
+
+(a) Where an insurable building damaged by flooding is located in a special flood hazard area identified for more than one year by the Administrator, assistance pursuant to section 406 of the Stafford Act shall be reduced. The amount of the reduction shall be the maximum amount of the insurance proceeds which would have been received had the building and its contents been fully covered by a standard flood insurance policy.
+
+(b) The reduction stated above shall not apply to a PNP facility which could not be insured because it was located in a community not participating in the NFIP. However, the provisions of the Flood Disaster Protection Act of 1973 prohibit approval of assistance for the PNP unless the community agrees to participate in the NFIP within six months after the major disaster declaration date, and the required flood insurance is purchased.
+
+(c) Prior to approval of a Federal grant for the restoration of a facility and its contents which were damaged by a flood, the recipient shall notify the Regional Administrator of any entitlement to an insurance settlement or recovery. The Regional Administrator shall reduce the eligible costs by the amount of insurance proceeds which the recipient receives.
+
+(d) The recipient or subrecipient is required to obtain and maintain flood insurance in the amount of eligible disaster assistance, as a condition of receiving Federal assistance that may be available. This requirement also applies to insurable flood damaged facilities located outside a special flood hazard area when it is reasonably available, adequate, and necessary. However, the Regional Administrator shall not require greater types and amounts of insurance than are certified as reasonable by the State Insurance Commissioner. The requirement to purchase flood insurance is waived when eligible costs for an insurable facility do not exceed $5,000.
+
+[56 FR 64560, Dec. 11, 1991, as amended at 82 FR 44, Jan. 3, 2017]

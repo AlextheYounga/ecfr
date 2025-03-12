@@ -1,0 +1,27 @@
+##### § 771.123 Draft environmental impact statements. #####
+
+(a) A draft EIS shall be prepared when the Administration determines that the action is likely to cause significant impacts on the environment. When the applicant, after consultation with any project sponsor that is not the applicant, has notified the Administration in accordance with 23 U.S.C. 139(e) and the decision has been made by the Administration to prepare an EIS, the Administration will issue a Notice of Intent (40 CFR 1508.22) for publication in the Federal Register. Applicants are encouraged to announce the intent to prepare an EIS by appropriate means at the local level.
+
+(b) After publication of the Notice of Intent, the lead agencies, in cooperation with the applicant (if not a lead agency), will begin a scoping process which may take into account any planning work already accomplished, in accordance with 23 CFR 450.212 or 450.318. The scoping process will be used to identify the purpose and need, the range of alternatives and impacts, and the significant issues to be addressed in the EIS and to achieve the other objectives of 40 CFR 1501.7. For the FHWA, scoping is normally achieved through public and agency involvement procedures required by § 771.111. For FTA, scoping is achieved by soliciting agency and public responses to the action by letter or by holding scoping meetings. If a scoping meeting is to be held, it should be announced in the Administration's Notice of Intent and by appropriate means at the local level.
+
+(c) The draft EIS shall be prepared by the lead agencies, in cooperation with the applicant (if not a lead agency). The draft EIS shall evaluate all reasonable alternatives to the action and discuss the reasons why other alternatives, which may have been considered, were eliminated from detailed study. The draft EIS shall also summarize the studies, reviews, consultations, and coordination required by environmental laws or Executive Orders to the extent appropriate at this stage in the environmental process.
+
+(d) Any of the lead agencies may select a consultant to assist in the preparation of an EIS in accordance with applicable contracting procedures and with 40 CFR 1506.5(c).
+
+(e) The Administration, when satisfied that the draft EIS complies with NEPA requirements, will approve the draft EIS for circulation by signing and dating the cover sheet.
+
+(f) A lead, joint lead, or a cooperating agency shall be responsible for printing the EIS. The initial printing of the draft EIS shall be in sufficient quantity to meet requirements for copies which can reasonably be expected from agencies, organizations, and individuals. Normally, copies will be furnished free of charge. However, with Administration concurrence, the party requesting the draft EIS may be charged a fee which is not more than the actual cost of reproducing the copy or may be directed to the nearest location where the statement may be reviewed.
+
+(g) The draft EIS shall be circulated for comment by the applicant on behalf of the Administration. The draft EIS shall be made available to the public and transmitted to agencies for comment no later than the time the document is filed with the Environmental Protection Agency in accordance with 40 CFR 1506.9. The draft EIS shall be transmitted to:
+
+(1) Public officials, interest groups, and members of the public known to have an interest in the proposed action or the draft EIS;
+
+(2) Federal, State and local government agencies expected to have jurisdiction or responsibility over, or interest or expertise in, the action. Copies shall be provided directly to appropriate State and local agencies, and to the State intergovernmental review contacts established under Executive Order 12372; and
+
+(3) States and Federal land management entities which may be significantly affected by the proposed action or any of the alternatives. These copies shall be accompanied by a request that such State or entity advise the Administration in writing of any disagreement with the evaluation of impacts in the statement. The Administration will furnish the comments received to the applicant along with a written assessment of any disagreements for incorporation into the final EIS.
+
+(h) The FTA requires a public hearing during the circulation period of all draft EISs. FHWA public hearing requirements are as described in § 771.111(h). Whenever a public hearing is held, the draft EIS shall be available at the public hearing and for a minimum of 15 days in advance of the public hearing. The availability of the draft EIS shall be mentioned, and public comments requested, in any public hearing notice and at any public hearing presentation. If a public hearing on an action proposed for FHWA funding is not held, a notice shall be placed in a newspaper similar to a public hearing notice advising where the draft EIS is available for review, how copies may be obtained, and where the comments should be sent.
+
+(i) The Federal Register public availability notice (40 CFR 1506.10) shall establish a period of not fewer than 45 days nor more than 60 days for the return of comments on the draft EIS unless a different period is established in accordance with 23 U.S.C. 139(g)(2)(A). The notice and the draft EIS transmittal letter shall identify where comments are to be sent.
+
+[52 FR 32660, Aug. 28, 1987, as amended at 70 FR 24470, May 9, 2005; 74 FR 12529, Mar. 24, 2009; 78 FR 8984, Feb. 7, 2013]

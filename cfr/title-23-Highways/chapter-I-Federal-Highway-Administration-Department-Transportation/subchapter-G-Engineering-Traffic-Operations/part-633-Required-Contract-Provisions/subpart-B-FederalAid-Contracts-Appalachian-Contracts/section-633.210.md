@@ -1,0 +1,3 @@
+##### § 633.210 Termination of contract. #####
+
+All contracts exceeding $2,500 shall contain suitable provisions for termination by the State, including the manner in which the termination will be effected and the basis for settlement. In addition, such contracts shall describe conditions under which the contract may be terminated for default as well as conditions where the contract may be terminated because of circumstances beyond the control of the contractor.

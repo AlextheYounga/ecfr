@@ -1,0 +1,5 @@
+##### § 141.44 Designation of Customs ports in which power of attorney is valid. #####
+
+Link to an amendment published at 81 FR 93019, December 20, 2016.
+
+Unless a power of attorney specifically authorizes the agent to act thereunder at all Customs ports, the name of each port where the agent is authorized to act thereunder shall be stated in the power of attorney. The power of attorney shall be filed with any port director, in a sufficient number of copies for distribution to each port where the agent is to act, unless exempted from filing by § 141.46. The port director with whom a power of attorney is filed, irrespective of whether his port is named therein, shall approve it, if it is in the correct form and the provisions of this subpart are complied with, and forward any copies intended for other ports as appropriate.

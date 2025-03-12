@@ -1,0 +1,3 @@
+##### § 1304.200 Scope and intent. #####
+
+This subpart C applies to residential water-use facilities, specifically the construction of docks, piers, boathouses (fixed and floating), retaining walls, and other structures and alterations, including channel excavation and vegetation management, on or along TVA-owned residential access shoreland. TVA manages the TVA-owned residential access shoreland to conserve, protect, and enhance shoreland resources, while providing reasonable access to the water of the reservoir by qualifying adjacent residents.

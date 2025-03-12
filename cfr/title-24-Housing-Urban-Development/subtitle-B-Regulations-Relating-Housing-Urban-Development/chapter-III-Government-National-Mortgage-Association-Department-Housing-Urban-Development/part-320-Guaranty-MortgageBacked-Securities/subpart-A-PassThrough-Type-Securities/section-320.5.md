@@ -1,0 +1,29 @@
+##### § 320.5 Securities. #####
+
+(a) *Instruments.* Securities issued pursuant to the provisions of this subpart must be modified pass-through securities, that provide for payment, whether or not collected, of both specified principal installments and interest on the unpaid principal balance, with all prepayments and other unscheduled recoveries of principal being passed through to the holder. In the case of delinquent mortgages in a pool backing modified pass-through securities, the issuer is required to make advances if necessary to maintain the specified schedule of interest and principal payments to the holders, or at its option, at any time 90 days or more after default of any such mortgage, the issuer may repurchase such mortgage for an amount equal to the unpaid principal balance of the mortgage. The securities, if issued in certificated form, must specify the dates by which payments are to be made to the holders thereof, and must indicate the accounting period for collections on the pool's mortgages relating to each such payment, and the securities, if issued in certificated form, must also specify a date on which the entire principal will have been paid or will be payable.
+
+(b) *Issue amount.* Each issue of guaranteed securities must be in a minimum face amount as specified in the applicable MBS Guide. The total face amount of any issue of securities cannot exceed the aggregate unpaid principal balances of the mortgages in the pool. The Association may provide for issuers to submit packages of mortgages that may be consolidated, with other packages of similar types of mortgages, into multiple issuer pools.
+
+(c) [Reserved]
+
+(d) *Transferability.* Securities are transferable, but the share of the proceeds collected on account of the pool of mortgages is payable only to the registered holder of a security according to the policies established by the Association.
+
+(e) *Issue Date.* Securities backed by single-family mortgages with issue dates of October 1, 1998, or before, serial notes with issue dates of July 1, 2002, or before, and securities backed by multifamily mortgages with issue dates of February 1, 2002, or before, have been issued in certificated form. Securities issued after these dates will be issued in book-entry form. The Association may approve the issuance of certificated securities for good cause.
+
+(f) *Delivery.* Delivery of uncertificated securities occurs when the book-entry depository's nominee is registered as the registered owner of the securities on Ginnie Mae's central registry.
+
+(g) *Registered Ownership.* Ownership of mortgage-backed securities issued pursuant to this subpart registered in the name of a Depository shall be conclusively established by registration in the name of the Depository as owner on the Association's central registry and it shall be unnecessary for a Depository to maintain custody of any physical certificates evidencing such ownership.
+
+(h) *Payments on Mortgage-Backed Securities.* Issuers must remit all payments due to holders of mortgage-backed securities such that holders will receive their installments as follows:
+
+(1) *Payment to a Depository.* (i) For all securities registered in the name of a Depository or the designated nominee for a Depository, issuers are required to make payments in immediately available funds by ACH transaction, Fedwire, or by such other method as directed and/or authorized by the Association pursuant to the MBS Guide, including requiring that issuers maintain funds accounts in institutions that are accessible by debit ACH transactions originated by such Depository or its designee.
+
+(ii) Payment must be made by the hour specified in the MBS Guide on the calendar day of the month specified in the MBS Guide for payment on such mortgage-backed securities (the “applicable Payment Date”), with adjustments to such time as may be specified in the MBS Guide for Payments Dates that do not fall on business days.
+
+(2) *Payments to other holders.* An issuer of mortgage-backed securities that are not registered in the name of a Depository or its nominee may make payments to a security holder by ACH transaction or Fedwire, provided that it obtains the prior written approval of the holder of such mortgage-backed securities. If an issuer begins to make such payments by electronic transfer, it must continue to do so while the securities are registered in the name of that security holder. If an issuer makes payments on mortgage-backed securities by check, the check must be received by the security holder not later than the applicable Payment Date each month.
+
+(i) *Guaranty.* The Association's guaranty described in § 320.13 is a guaranty that payment will be made to the registered owner of securities as reflected in the Association's central registry. The Association makes no other guaranty, including any guaranty that a Depository will appropriately credit payments to beneficial owners of such mortgage-backed securities. The Association's guarantee of securities payable to a Depository or its nominee becomes effective when the Depository or its nominee is registered as the registered owner of the securities on the Association's central registry.
+
+(j) *Definition of Depository.* As used in this section, Depository means a clearing corporation within the meaning of Article 8 of the Uniform Commercial Code, including any Federal Reserve Bank, that maintains systems by which ownership and transfer of interests in mortgage-backed securities are made through the books of such clearing corporation.
+
+(Approved by the Office of Management and Budget under control number 2503-0009)[60 FR 42015, Aug. 14, 1995, as amended at 63 FR 51251, Sept. 24, 1998; 64 FR 34106, June 24, 1999; 66 FR 44265, Aug. 22, 2001; 70 FR 33652, June 8, 2005; 72 FR 49125, Aug. 27, 2007]

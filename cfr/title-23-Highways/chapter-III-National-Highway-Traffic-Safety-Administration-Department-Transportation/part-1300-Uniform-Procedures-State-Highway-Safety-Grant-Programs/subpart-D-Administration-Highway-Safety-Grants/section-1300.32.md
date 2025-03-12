@@ -1,0 +1,3 @@
+##### § 1300.32 Amendments to Highway Safety Plans - approval by the Regional Administrator. #####
+
+During the fiscal year of the grant, States may amend the HSP, except performance targets, after approval under § 1300.14. States shall document changes to the HSP electronically, including project information. Such changes are subject to approval by the Regional Administrator. The Regional Administrator must approve changes in the HSP before reimbursement of vouchers related to such changes.

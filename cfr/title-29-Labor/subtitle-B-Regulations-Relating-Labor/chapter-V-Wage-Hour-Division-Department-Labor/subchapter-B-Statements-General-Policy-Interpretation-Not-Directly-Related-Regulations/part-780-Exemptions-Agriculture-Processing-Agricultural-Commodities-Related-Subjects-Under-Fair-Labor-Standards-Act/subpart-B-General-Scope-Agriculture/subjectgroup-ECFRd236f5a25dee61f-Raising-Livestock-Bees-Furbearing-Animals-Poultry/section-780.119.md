@@ -1,0 +1,3 @@
+##### § 780.119 Employment in the specified operations generally. #####
+
+Employees are employed in the raising of livestock, bees, fur-bearing animals or poultry only if their operations relate to animals of the type named and constitute the “raising” of such animals. If these two requirements are met, it makes no difference for what purpose the animals are raised or where the operations are performed. For example, the fact that cattle are raised to obtain serum or virus or that chicks are hatched in a commercial hatchery does not affect the status of the operations under section 3(f).

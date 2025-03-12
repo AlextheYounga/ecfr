@@ -1,0 +1,5 @@
+##### § 570.497 Condition of State election to administer State CDBG Program. #####
+
+Pursuant to section 106(d)(2)(A)(i) of the Act, a State has the right to elect, in such manner and at such time as the Secretary may prescribe, to administer funds allocated under subpart A of this part for use in nonentitlement areas of the State. After January 26, 1995, any State which elects to administer the allocation of CDBG funds for use in nonentitlement areas of the State in any year must, in addition to all other requirements of this subpart, submit a pledge by the State in accordance with section 108(d)(2) of the Act, and in a form acceptable to HUD, of any future CDBG grants it may receive under subpart A and this subpart. Such pledge shall be for the purpose of assuring repayment of any debt obligations (as defined in § 570.701), in accordance with their terms, that HUD may have guaranteed in the respective State on behalf of any nonentitlement public entity (as defined in § 570.701) or its designated public agency prior to the State's election.
+
+[59 FR 66604, Dec. 27, 1994]

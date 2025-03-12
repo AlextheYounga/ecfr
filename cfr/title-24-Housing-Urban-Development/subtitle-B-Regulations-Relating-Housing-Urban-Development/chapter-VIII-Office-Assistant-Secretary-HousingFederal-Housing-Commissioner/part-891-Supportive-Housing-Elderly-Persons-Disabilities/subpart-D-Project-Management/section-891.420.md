@@ -1,0 +1,3 @@
+##### § 891.420 Overcrowded and underoccupied units. #####
+
+If the Owner determines that because of change in household size, an assisted unit is smaller than appropriate for the eligible household to which it is leased, or that the assisted unit is larger than appropriate, project rental assistance payment with respect to the unit will not be reduced or terminated until the eligible household has been relocated to an appropriate alternate unit. If possible, the Owner will, as promptly as possible, offer the household an appropriate alternate unit. The Owner may receive vacancy payments for the vacated unit if the Owner complies with the requirements of § 891.445.

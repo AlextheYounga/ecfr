@@ -1,0 +1,5 @@
+##### § 971.208 Fee. #####
+
+(a) *General.* Section 104 of the Act provides that no application for the issuance or transfer of a permit will be certified unless the applicant pays to NOAA an administrative fee which reflects the reasonable administrative costs incurred in reviewing and processing the application.
+
+(b) *Amount.* A fee payment of $100,000, payable to the National Oceanic and Atmospheric Administration, Department of Commerce, must accompany each application. If the administrative costs of reviewing and processing the application are significantly less than or in excess of $100,000, the Administrator, after determining the amount of the under- or over-charge, as applicable, will refund the difference or require the applicant to pay the additional amount before issuance or transfer of the permit. In the case of an application for transfer of a permit to, or for a significant change to a permit held by, an entity which has previously been found qualified for a permit, the Administrator may reduce the fee in advance by an appropriate amount which reflects costs avoided by reliance on previous findings made in relation to the proposed transferee.

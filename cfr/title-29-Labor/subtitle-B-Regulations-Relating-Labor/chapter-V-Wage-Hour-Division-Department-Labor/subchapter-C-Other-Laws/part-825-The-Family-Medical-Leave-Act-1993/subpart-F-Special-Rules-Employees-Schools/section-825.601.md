@@ -1,0 +1,13 @@
+##### § 825.601 Special rules for school employees, limitations on intermittent leave. #####
+
+(a) Leave taken for a period that ends with the school year and begins the next semester is leave taken consecutively rather than intermittently. The period during the summer vacation when the employee would not have been required to report for duty is not counted against the employee's FMLA leave entitlement. An instructional employee who is on FMLA leave at the end of the school year must be provided with any benefits over the summer vacation that employees would normally receive if they had been working at the end of the school year.
+
+(1) If an eligible instructional employee needs intermittent leave or leave on a reduced leave schedule to care for a family member with a serious health condition, to care for a covered servicemember, or for the employee's own serious health condition, which is foreseeable based on planned medical treatment, and the employee would be on leave for more than 20 percent of the total number of working days over the period the leave would extend, the employer may require the employee to choose either to:
+
+(i) Take leave for a period or periods of a particular duration, not greater than the duration of the planned treatment; or
+
+(ii) Transfer temporarily to an available alternative position for which the employee is qualified, which has equivalent pay and benefits and which better accommodates recurring periods of leave than does the employee's regular position.
+
+(2) These rules apply only to a leave involving more than 20 percent of the working days during the period over which the leave extends. For example, if an instructional employee who normally works five days each week needs to take two days of FMLA leave per week over a period of several weeks, the special rules would apply. Employees taking leave which constitutes 20 percent or less of the working days during the leave period would not be subject to transfer to an alternative position. *Periods of a particular duration* means a block, or blocks, of time beginning no earlier than the first day for which leave is needed and ending no later than the last day on which leave is needed, and may include one uninterrupted period of leave.
+
+(b) If an instructional employee does not give required notice of foreseeable FMLA leave (*see* § 825.302) to be taken intermittently or on a reduced leave schedule, the employer may require the employee to take leave of a particular duration, or to transfer temporarily to an alternative position. Alternatively, the employer may require the employee to delay the taking of leave until the notice provision is met.

@@ -1,0 +1,3 @@
+##### § 4043.1 Purpose and scope. #####
+
+This part prescribes the requirements for notifying PBGC of a reportable event under section 4043 of ERISA or of a failure to make certain required contributions under section 303(k)(4) of ERISA or section 430(k)(4) of the Code. Subpart A contains definitions and general rules. Subpart B contains rules for post-event notice of a reportable event. Subpart C contains rules for advance notice of a reportable event. Subpart D contains rules for notifying PBGC of a failure to make certain required contributions.

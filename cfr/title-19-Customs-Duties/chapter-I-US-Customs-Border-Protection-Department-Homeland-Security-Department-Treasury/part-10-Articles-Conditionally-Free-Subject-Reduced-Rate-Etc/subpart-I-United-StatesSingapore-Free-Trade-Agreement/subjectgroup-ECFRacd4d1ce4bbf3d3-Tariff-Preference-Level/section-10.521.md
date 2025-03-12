@@ -1,0 +1,3 @@
+##### § 10.521 Goods eligible for tariff preference level claims. #####
+
+Goods eligible for a TPL claim consist of cotton or man-made fiber apparel goods provided for in Chapters 61 and 62 of the HTSUS that are both cut (or knit-to-shape) and sewn or otherwise assembled in Singapore from fabric or yarn produced or obtained outside the territory of Singapore or the United States, and that meet the applicable conditions for preferential tariff treatment under the SFTA, other than the condition that they are originating goods. The preferential tariff treatment is limited to the quantities specified in U.S. Note 13, Subchapter X, Chapter 99, HTSUS.

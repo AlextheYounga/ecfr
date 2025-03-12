@@ -1,0 +1,3 @@
+##### § 300.180 Purpose and scope. #####
+
+The regulations in this subpart are issued under the authority of the Atlantic Tunas Convention Act of 1975 (ATCA), Tuna Conventions Act of 1950, and Magnuson-Stevens Act. The regulations implement the recommendations of the International Commission for the Conservation of Atlantic Tunas (ICCAT) for the conservation and management of tuna and tuna-like species in the Atlantic Ocean and of the Inter-American Tropical Tuna Commission (IATTC) for the conservation and management of highly migratory fish resources in the Eastern Tropical Pacific Ocean, so far as they affect vessels and persons subject to the jurisdiction of the United States.

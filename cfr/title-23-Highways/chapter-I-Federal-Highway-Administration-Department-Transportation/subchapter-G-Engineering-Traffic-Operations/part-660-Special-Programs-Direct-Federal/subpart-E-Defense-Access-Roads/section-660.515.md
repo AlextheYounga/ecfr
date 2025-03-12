@@ -1,0 +1,9 @@
+##### § 660.515 Project administration. #####
+
+(a) Determination of the agency best able to accomplish the location, design, and construction of the projects covered by this regulation will be made by the FHWA Division Administrator after consultation with the State and/or local highway agency within whose jurisdiction the highway lies. When an agency other than the State or local highway agency is selected to administer the project, the Division Administrator will be responsible during the life of the project for any necessary coordination between the selected agency and the State or local highway agency.
+
+(b) Defense access road projects under the supervision of a State or local highway agency, whether on or off the Federal-aid system, shall be administered in accordance with Federal-aid procedures, as modified specifically herein or as limited by the delegations of authority to Regional and Division Administrators, unless approval of other procedures has been obtained from Washington Headquarters Office of Direct Federal Programs (HDF-1).
+
+(c) The Division Administrator shall have a firm commitment from the State or local highway agency, within whose jurisdiction the access road lies, that it will accept the responsibility for maintenance of the completed facility before authorization of acquisition of right-of-way or construction of a project.
+
+(d) When defense access road funds are available for a pro-rata portion of the total project cost, the remaining portion of the project may be funded as a Federal-aid project if on a Federal-aid route. Defense access road funds shall not be substituted for the State's matching share of the Federal-aid portion of a project.

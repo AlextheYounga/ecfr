@@ -1,0 +1,3 @@
+##### § 1630.11 Administration of tests. #####
+
+It is unlawful for a covered entity to fail to select and administer tests concerning employment in the most effective manner to ensure that, when a test is administered to a job applicant or employee who has a disability that impairs sensory, manual or speaking skills, the test results accurately reflect the skills, aptitude, or whatever other factor of the applicant or employee that the test purports to measure, rather than reflecting the impaired sensory, manual, or speaking skills of such employee or applicant (except where such skills are the factors that the test purports to measure).

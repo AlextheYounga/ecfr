@@ -1,0 +1,3 @@
+##### § 146.91 Applicability. #####
+
+This subpart applies only to a petroleum refinery (as defined herein) engaged in refining petroleum in a foreign-trade zone or subzone. Further, the provisions relating to zones generally, which are set forth elsewhere in this part, including documentation and document retention requirements, and entry procedures, such as weekly entry, shall apply as well to a refinery subzone, insofar as applicable to and not inconsistent with the specific provisions of this subpart. It does not cover zone-to-zone transfers in which the fact of removal from one zone is ignored.

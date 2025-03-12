@@ -1,0 +1,3 @@
+##### § 779.341 Sales “made within the State” and “engagement in commerce” distinguished. #####
+
+Sales to customers located in the same State as the establishment are sales made “within the State” even though such sales may constitute engagement in interstate commerce as where the sale: (a) Is made pursuant to prior orders from customers for goods to be obtained from outside the State; (b) contemplates the purchase of goods from outside the State to fill a customer's order; or (c) is made to a customer for use in interstate commerce or in production of goods for such commerce.

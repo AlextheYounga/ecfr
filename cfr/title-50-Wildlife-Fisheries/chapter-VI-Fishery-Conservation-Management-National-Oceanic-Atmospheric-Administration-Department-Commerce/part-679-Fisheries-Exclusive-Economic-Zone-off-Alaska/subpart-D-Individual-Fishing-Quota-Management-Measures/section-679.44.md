@@ -1,0 +1,3 @@
+##### § 679.44 Penalties. #####
+
+Any person committing, or a fishing vessel used in the commission of, a violation of the Magnuson-Stevens Act or Halibut Act, or any regulation issued under the Magnuson-Stevens Act or Halibut Act, is subject to the civil and criminal penalty provisions and civil forfeiture provisions of the Magnuson-Stevens Act or Halibut Act, to part 600 of this chapter, to 15 CFR part 904 (Civil Procedures), and to other applicable law. Penalties include but are not limited to permanent or temporary sanctions to QS and associated IFQ.

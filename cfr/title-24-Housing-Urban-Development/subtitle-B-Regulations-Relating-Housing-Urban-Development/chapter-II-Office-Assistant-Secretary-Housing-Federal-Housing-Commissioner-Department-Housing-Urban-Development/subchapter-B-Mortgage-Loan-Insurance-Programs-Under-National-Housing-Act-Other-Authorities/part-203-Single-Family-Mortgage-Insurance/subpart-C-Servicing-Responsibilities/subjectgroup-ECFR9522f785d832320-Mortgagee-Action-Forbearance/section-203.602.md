@@ -1,0 +1,3 @@
+##### § 203.602 Delinquency notice to mortgagor. #####
+
+The mortgagee shall give notice to each mortgagor in default on a form supplied by the Secretary or, if the mortgagee wishes to use its own form, on a form approved by the Secretary, no later than the end of the second month of any delinquency in payments under the mortgage. If an account is reinstated and again becomes delinquent, the delinquency notice shall be sent to the mortgagor again, except that the mortgagee is not required to send a second delinquency notice to the same mortgagor more often than once each six months. The mortgagee may issue additional or more frequent notices of delinquency at its option.

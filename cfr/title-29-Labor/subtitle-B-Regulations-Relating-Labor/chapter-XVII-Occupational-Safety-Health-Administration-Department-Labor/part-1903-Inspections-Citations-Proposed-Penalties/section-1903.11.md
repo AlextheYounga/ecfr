@@ -1,0 +1,11 @@
+##### § 1903.11 Complaints by employees. #####
+
+(a) Any employee or representative of employees who believe that a violation of the Act exists in any workplace where such employee is employed may request an inspection of such workplace by giving notice of the alleged violation to the Area Director or to a Compliance Safety and Health Officer. Any such notice shall be reduced to writing, shall set forth with reasonable particularity the grounds for the notice, and shall be signed by the employee or representative of employees. A copy shall be provided the employer or his agent by the Area Director or Compliance Safety and Health Officer no later than at the time of inspection, except that, upon the request of the person giving such notice, his name and the names of individual employees referred to therein shall not appear in such copy or on any record published, released, or made available by the Department of Labor.
+
+(b) If upon receipt of such notification the Area Director determines that the complaint meets the requirements set forth in paragraph (a) of this section, and that there are reasonable grounds to believe that the alleged violation exists, he shall cause an inspection to be made as soon as practicable, to determine if such alleged violation exists. Inspections under this section shall not be limited to matters referred to in the complaint.
+
+(c) Prior to or during any inspection of a workplace, any employee or representative of employees employed in such workplace may notify the Compliance Safety and Health Officer, in writing, of any violation of the Act which they have reason to believe exists in such workplace. Any such notice shall comply with the requirements of paragraph (a) of this section.
+
+(d) Section 11(c)(1) of the Act provides: “No person shall discharge or in any manner discriminate against any employee because such employee has filed any complaint or instituted or caused to be instituted any proceeding under or related to this Act or has testified or is about to testify in any such proceeding or because of the exercise by such employee on behalf of himself or others of any right afforded by this Act.”
+
+(Approved by the Office of Management and Budget under control number 1218-0064)[36 FR 17850, Sept. 4, 1973, as amended at 54 FR 24333, June 7, 1989]

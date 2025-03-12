@@ -1,0 +1,7 @@
+##### § 930.113 Public hearings. #####
+
+(a) If the parties agree to the mediation process, the Secretary shall appoint a hearing officer who shall schedule a hearing in the local area concerned. The hearing officer shall give the parties at least 30 days notice of the time and place set for the hearing and shall provide timely public notice of the hearing.
+
+(b) At the time public notice is provided, the Federal and State agencies shall provide the public with convenient access to public data and information related to the serious disagreement.
+
+(c) Hearings shall be informal and shall be conducted by the hearing officer with the objective of securing in a timely fashion information related to the disagreement. The Federal and State agencies, as well as other interested parties, may offer information at the hearing subject to the hearing officer's supervision as to the extent and manner of presentation. A party may also provide the hearing officer with written comments. Hearings will be recorded and the hearing officer shall provide transcripts and copies of written information offered at the hearing to the Federal and State agency parties. The public may inspect and copy the transcripts and written information provided to these agencies.

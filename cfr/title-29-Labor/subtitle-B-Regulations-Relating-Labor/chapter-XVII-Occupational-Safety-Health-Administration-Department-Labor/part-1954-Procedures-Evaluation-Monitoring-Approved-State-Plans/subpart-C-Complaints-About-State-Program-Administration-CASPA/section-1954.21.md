@@ -1,0 +1,9 @@
+##### § 1954.21 Processing and investigating a complaint. #####
+
+(a) Upon receipt of a complaint about State program administration, the Assistant Regional Director will acknowledge its receipt and may forward a copy of the complaint to the designee under the State plan and to such other person as may be necessary to complete the investigation. The complainant's name and the names of other complainants mentioned therein will be deleted from the complaint and the names shall not appear in any record published, released or made available.
+
+(b) In conducting the investigation, the Assistant Regional Director may obtain such supporting information as is appropriate to the complaint. Sources for this additional information may include “spot-check” follow-up inspections of workplaces, review of the relevant State files, and discussion with members of the public, employers, employees and the State.
+
+(c) On the basis of the information obtained through the investigation, the Assistant Regional Director shall advise the complainant of the investigation findings and in general terms, any corrective action that may result. A copy of such notification shall be sent to the State and it shall be considered part of the evaluation of the State plan.
+
+(d) If the Assistant Regional Director determines that there are no reasonable grounds for an investigation to be made with respect to a complaint under this Subpart, he shall notify the complaining party in writing of such determination. Upon request of the complainant, or the State, the Assistant Regional Director, at his discretion, may hold an informal conference. After considering all written and oral views presented the Assistant Regional Director shall affirm, modify, or reverse his original determination and furnish the complainant with written notification of his decision and the reasons therefore. Where appropriate the State may also receive such notification.

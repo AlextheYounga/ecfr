@@ -1,0 +1,3 @@
+##### § 3282.6 Separability of provisions. #####
+
+If any clause, sentence, paragraph, section or other portion of part 3282 shall, for any reason, be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder thereof, but shall be confined by its operation to the clause, sentence, paragraph, or part thereof directly involved in the controversy in which such judgment shall have been rendered.

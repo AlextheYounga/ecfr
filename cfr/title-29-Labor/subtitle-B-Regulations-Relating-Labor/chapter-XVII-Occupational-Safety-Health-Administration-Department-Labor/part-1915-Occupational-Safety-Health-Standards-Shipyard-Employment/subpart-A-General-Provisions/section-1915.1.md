@@ -1,0 +1,3 @@
+##### § 1915.1 Purpose and authority. #####
+
+The provisions in this part constitute safety and health regulations issued by the Secretary pursuant to section 41 of the Longshoremen's and Harbor Workers' Compensation Act, as amended (33 U.S.C. 941) and occupational safety and health standards issued by the Secretary pursuant to section 6 of the Occupational Safety and Health Act of 1970 (29 U.S.C. 655).

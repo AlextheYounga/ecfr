@@ -1,0 +1,3 @@
+##### § 81.101 Equal employment opportunity. #####
+
+Fannie Mae and Freddie Mac shall comply with sections 1 and 2 of Executive Order 11478 (3 CFR, 1966-1970 Compilation, p. 803), as amended by Executive Order 12106, (3 CFR, 1978, Compilation, p. 263), providing for the adoption and implementation of equal employment opportunity, as required by section 1216 of the Financial Institutions Reform, Recovery, and Enforcement Act of 1989 (12 U.S.C. 1833e).

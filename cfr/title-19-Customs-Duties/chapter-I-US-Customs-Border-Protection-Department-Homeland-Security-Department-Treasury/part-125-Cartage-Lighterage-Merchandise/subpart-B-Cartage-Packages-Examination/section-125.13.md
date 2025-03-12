@@ -1,0 +1,3 @@
+##### § 125.13 Cartage of merchandise withdrawn from general order for regular entry. #####
+
+When merchandise withdrawn from general order for regular entry is to be conveyed to a place designated by the port director for examination, the cartage shall be at the expense of the importer and shall be under the cartage arangements established at the port for hauling examination packages under the provisions of § 125.11(a) and (b). Reimbursement of the cost of the cartage shall be collected from the importer prior to release of the merchandise from Customs custody.

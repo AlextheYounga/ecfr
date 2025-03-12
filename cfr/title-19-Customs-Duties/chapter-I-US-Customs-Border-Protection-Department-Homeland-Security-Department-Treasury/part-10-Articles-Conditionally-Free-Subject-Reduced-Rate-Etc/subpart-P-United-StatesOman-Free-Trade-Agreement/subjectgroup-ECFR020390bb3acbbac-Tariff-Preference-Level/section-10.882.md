@@ -1,0 +1,3 @@
+##### § 10.882 Goods eligible for tariff preference claims. #####
+
+Cotton or man-made fiber apparel goods provided for in Chapters 61 or 62 of the HTSUS that are cut or knit to shape, or both, and sewn or otherwise assembled in the territory of Oman from fabric or yarn produced or obtained outside the territory of Oman or the United States are eligible for a TPL claim filed under § 10.881 of this subpart (subject to the quantitative limitations set forth in U.S. Note 13, Subchapter XVI, Chapter 99, HTSUS).

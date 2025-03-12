@@ -1,0 +1,3 @@
+##### § 970.524 Other Federal requirements. #####
+
+Pursuant to § 970.211, another Federal agency, upon review of an exploration license application submitted under this part, may indicate how terms, conditions, and restrictions might be added to the license, to assure compliance with any law or regulation within that agency's area of responsibility. In response to the intent, reflected in section 103(e) of the Act, to reduce the number of separate actions to satisfy the statutory responsibilities of these agencies, the Administrator may include such terms, conditions, and restrictions in a license.

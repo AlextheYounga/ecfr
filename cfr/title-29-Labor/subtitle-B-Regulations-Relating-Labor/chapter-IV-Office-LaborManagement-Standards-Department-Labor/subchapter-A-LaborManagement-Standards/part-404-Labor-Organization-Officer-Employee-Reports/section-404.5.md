@@ -1,0 +1,3 @@
+##### § 404.5 Attorney-client communications exempted. #####
+
+Nothing contained in this part shall be construed to require an attorney who is a member in good standing of the bar of any State, to include in any report required to be filed pursuant to the provisions of section 202(a) of the Act and of this part any information which was lawfully communicated to such attorney by any of his clients in the course of a legitimate attorney-client relationship.

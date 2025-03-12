@@ -1,0 +1,3 @@
+##### § 701.1 General. #####
+
+This part describes the organization established by the Water Resources Council in discharging its duties and responsibilities. The organization is designed to assure that Council Members will meet at least quarterly and consider and decide major matters before the Council. It provides that the Director can take action when necessary and appropriate; provided, that in the preparation of agenda items for the Council meetings, the Director shall consult with the Interagency Liaison Committee. It also provides that the Council Members shall be continuously advised of the significant actions of the Council staff. Council Members expect to participate personally in the work of the Council.

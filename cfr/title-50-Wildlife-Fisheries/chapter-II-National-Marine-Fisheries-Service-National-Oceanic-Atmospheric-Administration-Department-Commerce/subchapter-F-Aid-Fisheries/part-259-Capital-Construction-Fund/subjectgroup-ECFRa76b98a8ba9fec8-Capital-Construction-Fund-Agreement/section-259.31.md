@@ -1,0 +1,37 @@
+##### § 259.31 Acquisition, construction, or reconstruction. #####
+
+(a) *Acquisition.* No vessel having previously been operated in a fishery of the United States prior to its acquisition by the party seeking CCF withdrawal therefor shall be a qualified vessel for the purpose of acquisition, except in the cases specified in paragraphs (a)(1) and (2) of this section:
+
+(1) A vessel not more than 5 years old, at the time of its acquisition by the party seeking CCF withdrawal therefor may be a qualified vessel for the purpose of acquisition, but only if each acquisition in this category becomes a Schedule A vessel and there exists for each acquisition in this category (on a one-for-one basis) an additional Schedule B construction or reconstruction. The sole consideration for permitting an acquisition in this category is that it will enable the party (but the Secretary will not attempt to predetermine such an ability) to accelerate accomplishment of the additional Schedule B construction or reconstruction. Should this consideration materially fail, the Secretary shall, at his discretion, disqualify previously qualified withdrawals in this category, seek liquidated damages as provided for in paragraph (a)(4) of this section and/or terminate the Interim CCF Agreement.
+
+(2) A vessel more than 5 years old, but not more than 25 years old (special showing required if more than 25 years old, see paragraph (b) of this section), at the time of acquisition by the party seeking CCF withdrawal therefor may be a qualified vessel for the purpose of acquisition, but only if that same vessel becomes a Schedule A vessel and (in addition to being a Schedule B vessel for the purpose of its acquisition) becomes a Schedule B vessel for the purpose of that same vessel's reconstruction to be accomplished ordinarily within 7 years from the date of acquisition. The sole consideration for permitting an acquisition in this category is that it will enable a party (but the Secretary will not attempt to predetermine such an ability) to accelerate accomplishment of the Schedule B reconstruction of the vessel so acquired. Should this consideration materially fail, the same penalty prescribed in paragraph (a)(1) of this section applies.
+
+(3) Reserved for minimum deposits under this section.
+
+(4) Reserved for liquidated damages.
+
+(b) *Reconstruction.* No reconstruction project costing less than $100,000 shall qualify a vessel for reconstruction, unless the reconstruction project costs, or will cost, 20 percent or more of the reconstructed vessel's acquisition cost (in its unreconstructed state) to the party seeking CCF withdrawal therefor. If the reconstruction project meets the $100,000 test, then the 20 percent test does not apply. Conversely, if the reconstruction project does not meet the $100,000 test, then the 20 percent test applies.
+
+(1) Reconstruction may include rebuilding, replacing, reconditioning, converting and/or improving any portion of a vessel. A reconstruction project must, however, substantially prolong the useful life of the reconstructed vessel, increase its value, or adapt it to a different commercial use in the fishing trade or industry.
+
+(2) All, or the major portion (ordinarily, not less than 80 percent), of a reconstruction project's actual cost must (for the purpose of meeting the above dollar or percentage tests) be classifiable as a capital expenditure for Internal Revenue Service (IRS) purposes. That otherwise allowable (i.e., for the purpose of meeting the above dollar or percentage tests) portion of a reconstruction project's actual cost which is not classifiable as a capital expenditure shall, however, be excluded from the amount qualified for withdrawal as a result of the reconstruction project.
+
+(3) No vessel more than 25 years old at the time of withdrawal or request for withdrawal shall be a qualified vessel for the purpose of reconstruction unless a special showing is made, to the Secretary's discretionary satisfaction, that the type and degree of reconstruction intended will result in an efficient and productive vessel with an economically useful life at least 10 years beyond the date reconstruction is completed.
+
+(c) *Time permitted for construction or reconstruction.* Construction or reconstruction must be completed within 18 months from the date construction or reconstruction first commences, unless otherwise consented to by the Secretary.
+
+(d) *Energy saving improvements.* An improvement made to a vessel to conserve energy shall, regardless of cost, be treated as a reconstruction for the purpose of qualifying a CCF withdrawal for such expenditure and shall be exempted from having to meet conditional fishery requirements for reconstruction as set forth in § 259.32 and from all qualifying tests for reconstruction set forth in paragraph (b) of this section with the following exceptions:
+
+(1) An energy saving improvement shall be required to meet both conditional fishery requirements and the qualifying tests for reconstruction if it serves the dual purpose of saving energy and meeting the reconstruction requirement of paragraph (a) of this section for qualifying a withdrawal for the acquisition of a used vessel.
+
+(2) That portion of the actual cost of an energy saving improvement which is to be paid for from the CCF must be classifiable and treated as a capital expenditure for Internal Revenue Service purposes.
+
+(e) *Safety projects.* The acquisition and installation of safety equipment for a qualified vessel and vessel modifications whose central purpose is materially increasing the safety of a qualified vessel or the acquisition and installation of equipment required by law or regulation that materially increases the safety of a qualified vessel shall, regardless of cost, be treated as reconstruction for the purpose of qualifying a CCF withdrawal for such expenditure, shall be exempt from having to meet conditional fishery requirements for reconstruction as set forth in § 259.32, and shall be exempt from all qualifying tests for reconstruction set forth in paragraph (b) of this section, with the following exceptions:
+
+(1) A safety improvement shall be required to meet both conditional fishery requirements and all qualifying tests for reconstruction if it serves the dual purpose of safety and meeting the reconstruction requirement of paragraph (a) of this section for qualifying a withdrawal for the acquisition of a used vessel;
+
+(2) That portion of the actual cost of a safety improvement that is to be paid for from the CCF must be classifiable and treated as a capital expenditure for Internal Revenue Service purposes;
+
+(3) Safety improvement projects whose clear and central purpose is restricted to complying with the requirements of the Commercial Fishing Industry Vessel Safety Act of 1988 (Public Law 100-424 Sec. 1, 102 stat. 1585 (1988) (codified in scattered sections of 46 U.S.C.)) shall, without further documentation, be considered to fall within this paragraph (e). Satisfactory documentation will be required for all other projects proposed to be considered as falling within this paragraph (e). Projects not required by law or regulation whose central purpose clearly involves something other than an improvement that materially increases the safety of a vessel will not be considered to fall within this paragraph (e).
+
+[39 FR 33675, Sept. 19, 1974, as amended at 46 FR 54563, Nov. 3, 1981; 62 FR 331, Jan. 3, 1997]

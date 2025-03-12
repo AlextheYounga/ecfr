@@ -1,0 +1,3 @@
+##### § 401.15 Member or member in good standing. #####
+
+*Member* or *member in good standing,* when used in reference to a labor organization, includes any person who has fulfilled the requirements for membership in such organization, and who neither has voluntarily withdrawn from membership nor has been expelled or suspended from membership after appropriate proceedings consistent with lawful provisions of the constitution and bylaws of such organization.

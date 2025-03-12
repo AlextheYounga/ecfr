@@ -1,0 +1,5 @@
+##### § 810.304 Submission of projects. #####
+
+(a) An application for an urban system nonhighway public mass transit project shall be developed by a public body as defined under the UMTA Discretionary Capital Assistance Program and shall be prepared in accordance with procedures for the same Discretionary Capital Assistance program.
+
+(b) The application shall be submitted concurrently to the State highway agency and to the UMTA Administrator. The State highway agency, if it concurs, shall submit a request to the FHWA Administrator for a reservation of apportioned Federal-aid urban system funds. The State shall include in its submission advice that such reservation of funds will not impair its ability to comply with the provisions of section 105(d) of Pub. L. 97-424 (if a State certifies it does not need forty percent of its Federal-aid urban system funds for 4R work, and the Secretary accepts such certification, the State may spend that unneeded amount for other eligible FAUS purpose, including nonhighway public mass transit projects).

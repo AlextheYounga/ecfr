@@ -1,0 +1,3 @@
+##### § 452.118 Local unions agents in international elections. #####
+
+An international union may establish internal rules which require local or intermediate union officials to act as agents of the international in conducting designated aspects of the international referendum election of officers. The consequences of the failure to perform as directed by such officials will, of course, depend on the totality of the circumstances involved.

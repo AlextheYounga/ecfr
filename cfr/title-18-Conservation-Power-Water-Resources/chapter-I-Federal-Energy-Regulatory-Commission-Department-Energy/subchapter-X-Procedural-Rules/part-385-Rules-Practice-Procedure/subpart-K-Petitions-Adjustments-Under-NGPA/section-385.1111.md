@@ -1,0 +1,3 @@
+##### § 385.1111 Conferences (Rule 1111). #####
+
+Staff may direct that a conference be convened. The conference will be conducted by Staff in accordance with procedures Staff determines will most expeditiously further the purpose of the conference. A conference will be convened only after actual notice of the time, place and nature of the conference is provided to the parties. All parties may attend the conference. However, if a party wishes to present confidential information at the conference, Staff may exclude the other parties from that part of the conference when the confidential information is presented.

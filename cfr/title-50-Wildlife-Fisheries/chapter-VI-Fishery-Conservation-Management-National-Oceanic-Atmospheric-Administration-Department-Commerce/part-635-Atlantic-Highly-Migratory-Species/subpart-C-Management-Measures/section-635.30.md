@@ -1,0 +1,27 @@
+##### § 635.30 Possession at sea and landing. #####
+
+(a) *Atlantic tunas.* Persons that own or operate a fishing vessel that possesses an Atlantic tuna in the Atlantic Ocean or that lands an Atlantic tuna in an Atlantic coastal port must maintain such Atlantic tuna through offloading either in round form or eviscerated with the head and fins removed, provided one pectoral fin and the tail remain attached. The upper and lower lobes of the tuna tail may be removed for storage purposes as long as the fork of the tail remains intact.
+
+(b) *Billfish.* Any person that possesses a blue marlin, white marlin, or roundscale spearfish taken from its management unit or a sailfish taken shoreward of the outer boundary of the EEZ or lands a blue marlin, white marlin, or roundscale spearfish in an Atlantic coastal port must maintain such billfish with its head, fins, and bill intact through offloading. Persons may eviscerate such billfish, but it must otherwise be maintained whole.
+
+(c) *Shark.* (1) In addition to the regulations issued at part 600, subpart N, of this chapter, a person who owns or operates a vessel issued a Federal Atlantic commercial shark permit under § 635.4 must maintain all the shark fins including the tail naturally attached to the shark carcass until the shark has been offloaded from the vessel, except for under the conditions specified in paragraph (c)(5) of this section. While sharks are on board and when sharks are being offloaded, persons issued a Federal Atlantic commercial shark permit under § 635.4 are subject to the regulations at part 600, subpart N, of this chapter.
+
+(2) A person who owns or operates a vessel that has a valid Federal Atlantic commercial shark permit may remove the head and viscera of the shark while on board the vessel. At any time when on the vessel, sharks must not have the backbone removed and must not be halved, quartered, filleted, or otherwise reduced. All fins, including the tail, must remain naturally attached to the shark through offloading, except under the conditions specified in paragraph (c)(5) of this section. While on the vessel, fins may be sliced so that the fin can be folded along the carcass for storage purposes as long as the fin remains naturally attached to the carcass via at least a small portion of uncut skin. The fins and tail may only be removed from the carcass once the shark has been landed and offloaded, except under the conditions specified in paragraph (c)(5) of this section.
+
+(3) A person who owns or operates a vessel that has been issued a Federal Atlantic commercial shark permit and who lands sharks in an Atlantic coastal port, including ports in the Gulf of Mexico and Caribbean Sea, must have all fins and carcasses weighed and recorded on the weighout slips specified in § 635.5(a)(2) and in accordance with part 600, subpart N, of this chapter. Persons may not possess any shark fins not naturally attached to a shark carcass on board a fishing vessel at any time, except under the conditions specified in paragraph (c)(5) of this section. Once landed and offloaded, sharks that have been halved, quartered, filleted, cut up, or reduced in any manner may not be brought back on board a vessel that has been or should have been issued a Federal Atlantic commercial shark permit.
+
+(4) Persons aboard a vessel that does not have a Federal Atlantic commercial shark permit must maintain a shark in or from the EEZ intact through landing with the head, tail, and all fins naturally attached. The shark may be bled and the viscera may be removed.
+
+(5) A person who owns or operates a vessel that has been issued a Federal commercial smoothhound permit may remove the fins and tail of a smooth dogfish shark prior to offloading if the conditions in paragraphs (c)(5)(i) through (iv) of this section have been met. If the conditions in paragraphs (c)(5)(i) through (iv) of this section have not been met, all fins, including the tail, must remain naturally attached to the smooth dogfish through offloading from the vessel:
+
+(i) The smooth dogfish was caught within waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of an Atlantic State from which the territorial sea is measured, from Maine south through Florida to the Atlantic and Gulf of Mexico shark regional boundary defined in § 635.27(b)(1).
+
+(ii) The vessel has been issued both a Federal commercial smoothhound permit and a valid State commercial fishing permit that allows for fishing for smooth dogfish.
+
+(iii) Smooth dogfish make up at least 25 percent of the catch on board at the time of landing.
+
+(iv) Total weight of the smooth dogfish fins landed or found on board a vessel cannot exceed 12 percent of the total dressed weight of smooth dogfish carcasses on board or landed from the fishing vessel.
+
+(d) *Swordfish.* Persons that own or operate a fishing vessel that possesses a swordfish in the Atlantic Ocean or lands a swordfish in an Atlantic coastal port must maintain such swordfish in round or dressed form through off-loading.
+
+[64 FR 29135, May 28, 1999, as amended at 67 FR 6201, Feb. 11, 2002; 69 FR 53362, Sept. 1, 2004; 71 FR 58173, Oct. 2, 2006; 73 FR 40711, July 15, 2008; 75 FR 30528, June 1, 2010; 75 FR 57702, Sept. 22, 2010; 76 FR 39032, July 5, 2011; 80 FR 73145, Nov. 24, 2015]

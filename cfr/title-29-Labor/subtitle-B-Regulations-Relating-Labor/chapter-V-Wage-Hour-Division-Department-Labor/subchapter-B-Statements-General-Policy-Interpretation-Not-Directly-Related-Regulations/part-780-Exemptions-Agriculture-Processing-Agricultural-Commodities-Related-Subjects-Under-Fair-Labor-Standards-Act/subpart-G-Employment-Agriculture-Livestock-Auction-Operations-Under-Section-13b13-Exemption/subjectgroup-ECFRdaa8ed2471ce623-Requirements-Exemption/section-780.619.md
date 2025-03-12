@@ -1,0 +1,3 @@
+##### § 780.619 Work “in connection with” livestock auction operations. #####
+
+An employee whose agricultural employment meets the tests for exemption may engage in “other” employment “in connection with” his employer's livestock auction operations under the conditions stated in section 13(b)(13). The work which an employee may engage in under the phrase “in connection with” includes only those activities which are a necessary incident to conducting a livestock auction of the limited type permitted under the exemption. Such work as transporting the livestock and caring for it, custodial, maintenance, and clerical duties are included. Work which cannot be considered necessarily incident to the livestock auction is not exempt.

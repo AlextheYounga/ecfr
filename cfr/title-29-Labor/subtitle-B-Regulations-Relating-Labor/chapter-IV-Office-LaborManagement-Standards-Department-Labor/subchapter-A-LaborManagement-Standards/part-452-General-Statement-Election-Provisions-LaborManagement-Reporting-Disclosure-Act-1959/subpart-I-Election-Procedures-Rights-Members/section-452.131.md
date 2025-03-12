@@ -1,0 +1,3 @@
+##### § 452.131 Casting of ballots; delegate elections. #####
+
+The manner in which the votes of the representatives are cast in the convention is not subject to special limitations. For example, the voting may be by secret ballot, by show of hands, by oral roll call vote, or if only one candidate is nominated for an office, by acclamation or by a motion authorizing the convention chairman to cast a unanimous vote of the delegates present.

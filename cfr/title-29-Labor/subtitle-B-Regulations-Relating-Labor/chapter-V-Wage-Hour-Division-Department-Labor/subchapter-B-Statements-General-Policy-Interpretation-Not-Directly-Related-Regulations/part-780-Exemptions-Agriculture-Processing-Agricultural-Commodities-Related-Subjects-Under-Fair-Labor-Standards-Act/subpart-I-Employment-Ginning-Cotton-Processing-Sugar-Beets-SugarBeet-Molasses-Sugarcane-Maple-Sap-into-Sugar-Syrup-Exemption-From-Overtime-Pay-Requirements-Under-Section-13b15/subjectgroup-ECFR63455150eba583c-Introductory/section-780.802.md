@@ -1,0 +1,3 @@
+##### § 780.802 What determines application of the exemption. #####
+
+It is apparent from the language of section 13(b)(15) that the application of this exemption depends upon the nature and purpose of the work performed by the individual employee for whom exemption is sought, and in the case of ginning of cotton on the location of the place of employment where the work is done and other factors as well. It does not depend upon the character of the business of the employer. A determination of whether an employee is exempt therefore requires an examination of that employee's duties. Some employees of the employer may be exempt while others may not.

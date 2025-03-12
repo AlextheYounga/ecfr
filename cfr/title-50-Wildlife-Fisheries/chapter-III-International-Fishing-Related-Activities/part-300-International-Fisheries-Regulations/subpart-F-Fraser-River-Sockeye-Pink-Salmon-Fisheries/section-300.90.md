@@ -1,0 +1,3 @@
+##### § 300.90 Purpose and scope. #####
+
+This subpart implements the Pacific Salmon Treaty Act of 1985 (16 U.S.C. 3631-3644) (Act) and is intended to supplement, not conflict with, the fishery regimes and Fraser River Panel regulations adopted under the Treaty between the Government of the United States of America and the Government of Canada Concerning Pacific Salmon, signed at Ottawa, January 28, 1985 (Treaty).

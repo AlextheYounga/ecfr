@@ -1,0 +1,7 @@
+##### § 375.103 Official seal. #####
+
+The Commission hereby prescribes as its official seal, judicial notice of which shall be taken pursuant to section 401(e) of the DOE Act, the imprint illustrated below and described as follows:
+
+A circle, the outside border of which shall consist of two concentric circles enclosing the words “Department of Energy” and “Federal Energy Regulatory Commission.” Within the inner circle shall appear a stylized eagle with head facing to its right. Its body shall be in the shape of a tapered shield, widest at the top, consisting of nine vertical stripes. The top of the shield contains five equally-spaced light color stars representing the five members of the Commission appointed by the President under Title IV of the DOE Act. Identical stylized wings appear on either side of the shield, each incorporating twenty stylized feathers protruding from a solid color wing-like shape. Below the eagle shall appear five squares, arranged in a horizontal line. Each of these squares shall contain a circle representing an area of the Commission's responsibility. The first square at the left of the line shall include a stylized representation of a pipeline; the second square shall represent a hydroelectric power facility; the third, and center square, shall represent a natural gas flame; the fourth square shall represent a drilling rig; the fifth square shall represent a stylized lightning bolt.
+
+![](/graphics/ec05oc91.036.gif)

@@ -1,0 +1,3 @@
+##### § 780.403 Employee basis of exemption under section 13(b)(12). #####
+
+Section 13(b)(12) exempts “any employee employed in \* \* \*.” It is clear from this language that it is the activities of the employee rather than those of his employer which ultimately determine the application of the exemption. Thus the exemption may not apply to some employees of an employer engaged almost exclusively in activities within the exemption, and it may apply to some employees of an employer engaged almost exclusively in other activities. But the burden of effecting segregation between exempt and nonexempt work as between different groups of employees is upon the employer.

@@ -1,0 +1,3 @@
+##### § 500.61 Farm labor contractors must comply with all worker protections and all other statutory provisions. #####
+
+Every farm labor contractor must comply with all of the provisions of titles I through V of the Act and all of the subparts of these regulations, unless subject to a specific statutory exemption. In addition to complying with all of the standards stated in subparts A and B of these regulations, every farm labor contractor must comply with each provision stated in subpart C and the motor vehicle safety and insurance and housing standards stated in subpart D.

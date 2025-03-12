@@ -1,0 +1,3 @@
+##### § 2705.3 Procedure for requests pertaining to individuals' records in a records system. #####
+
+An individual shall submit a request to the Executive Director to determine if a system of records named by the individual contains a record pertaining to the individual. If a record pertaining to the individual does exist in the specified system of records and the individual wishes to review that record he or she shall submit a request to the Executive Director of the Commission which states the individual's desire to review his or her record.
