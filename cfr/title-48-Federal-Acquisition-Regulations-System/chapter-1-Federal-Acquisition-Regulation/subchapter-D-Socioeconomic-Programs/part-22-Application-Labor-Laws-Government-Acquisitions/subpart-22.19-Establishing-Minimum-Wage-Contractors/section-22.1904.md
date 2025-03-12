@@ -1,5 +1,7 @@
 ##### 22.1904 Annual Executive Order Minimum Wage Rate. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) For the E.O. minimum wage rate that becomes effective on January 1, 2016, and annually thereafter, the Administrator will -
 
 (1) Notify the public of the new E.O. minimum wage rate at least 90 days before it becomes effective by publishing a notice in the Federal Register;

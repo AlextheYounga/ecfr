@@ -1,5 +1,7 @@
 ##### 22.404-6 Modifications of wage determinations. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) *General.* (1) The Department of Labor may modify a wage determination to make it current by specifying only the items being changed or by reissuing the entire determination with changes incorporated.
 
 (2) All project wage determination modifications expire on the same day as the original determination. The need to include a modification of a project wage determination for the primary site of the work in a solicitation is determined by the time of receipt of the modification by the contracting agency. Therefore, the contracting agency must annotate the modification of the project wage determination with the date and time immediately upon receipt.

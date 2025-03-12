@@ -1,5 +1,7 @@
 ##### 22.1008-2 Successorship with incumbent contractor collective bargaining agreement. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) Early in the acquisition cycle, the contracting officer shall determine whether 41 U.S.C. 6707(c) affects the new acquisition. The contracting officer shall determine whether there is a predecessor contract covered by the Service Contract Labor Standards statute and, if so, whether the incumbent prime contractor or its subcontractors and any of their employees have a collective bargaining agreement.
 
 (b) 41 U.S.C. 6707(c) provides that a successor contractor must pay wages and fringe benefits (including accrued wages and benefits and prospective increases) to service employees at least equal to those agreed upon by a predecessor contractor under the following conditions:

@@ -1,5 +1,7 @@
 ##### 52.216-5 Price Redetermination - Prospective. #####
 
+Link to an amendment published at 86 FR 71322, Dec. 15, 2021.
+
 As prescribed in 16.205-4, insert the following clause:
 
 Price Redetermination - Prospective (OCT 1997)

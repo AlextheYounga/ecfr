@@ -1,5 +1,7 @@
 ##### 22.404-3 Procedures for requesting wage determinations. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) *General wage determinations.* If there is a general wage determination on the WDOL website applicable to the project, the agency may use it without notifying the Department of Labor. When necessary, a request for a general wage determination may be made by submitting Standard Form (SF) 308, Request for Determination and Response to Request, to the Administrator, Wage and Hour Division, Attention: Branch of Construction Contract Wage Determinations, 200 Constitution Avenue, NW, Washington, DC 20210.
 
 (b) *Project wage determinations.* If a general wage determination is not available on WDOL, a contracting agency shall submit requests for project wage determinations on SF 308 to the Department of Labor. The requests shall include the following information:

@@ -1,5 +1,7 @@
 ##### 22.1012-2 Wage determinations based on collective bargaining agreements. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) In sealed bidding, a new or changed collective bargaining agreement shall not be effective under 41 U.S.C. 6707(c) if the contracting agency has received notice of the terms of the new or changed collective bargaining agreement less than 10 days before bid opening and the contracting officer determines that there is not reasonable time to incorporate the new or changed terms of the collective bargaining agreement in the solicitation.
 
 (b) For contractual actions other than sealed bidding, a new or changed collective bargaining agreement shall not be effective under 41 U.S.C. 6707(c) if notice of the terms of the new or changed collective bargaining agreement is received by the contracting agency after award of a successor contract or a modification as specified in 22.1007(b), provided that the contract start of performance is within 30 days of the award of the contract or of the specified modification. If the contract does not specify a start of performance date which is within 30 days of the award of the contract or of the specified modification, or if contract performance does not commence within 30 days of the award of the contract or of the specified modification, any notice of the terms of a new or changed collective bargaining agreement received by the agency not less than 10 days before commencement of the work shall be effective for purposes of the successor contract under 41 U.S.C. 6707(c).

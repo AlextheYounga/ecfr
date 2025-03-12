@@ -1,8 +1,6 @@
 ##### § 405.201 Scope of subpart and definitions. #####
 
-Link to an amendment published at 86 FR 3009, Jan. 14, 2021.Link to a delay published at 86 FR 14542, Mar. 17, 2021.Link to a further delay published at 86 FR 26849, May 18, 2021.Link to an amendment published at 86 FR 62958, Nov. 15, 2021.
-
-(a) *Scope.* This subpart establishes that -
+(a) *Scope.* This subpart establishes that—
 
 (1) CMS uses the FDA categorization of a device as a factor in making Medicare coverage decisions; and
 
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 3009, Jan. 14, 2021.Link to a delay publ
 
 (3) CMS identifies criteria for coverage of items and services furnished in IDE studies.
 
-(b) *Definitions.* As used in this subpart -
+(b) *Definitions.* As used in this subpart—
 
 *Category A (Experimental) device* refers to a device for which “absolute risk” of the device type has not been established (that is, initial questions of safety and effectiveness have not been resolved) and the FDA is unsure whether the device type can be safe and effective.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 86 FR 3009, Jan. 14, 2021.Link to a delay publ
 
 *Routine care items and services* refers to items and services that are otherwise generally available to Medicare beneficiaries (that is, a benefit category exists, it is not statutorily excluded, and there is no national noncoverage decision) that are furnished during a clinical study and that would be otherwise furnished even if the beneficiary were not enrolled in a clinical study.
 
-[60 FR 48423, Sept. 19, 1995, as amended at 78 FR 74809, Dec. 10, 2013
+[60 FR 48423, Sept. 19, 1995, as amended at 78 FR 74809, Dec. 10, 2013; 86 FR 3009, Jan. 14, 2021; 86 FR 62958, Nov. 15, 2021]

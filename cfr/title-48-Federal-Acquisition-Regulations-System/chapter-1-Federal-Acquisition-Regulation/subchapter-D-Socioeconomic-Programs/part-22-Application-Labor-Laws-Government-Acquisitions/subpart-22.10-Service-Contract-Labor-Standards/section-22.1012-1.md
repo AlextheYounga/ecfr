@@ -1,5 +1,7 @@
 ##### 22.1012-1 Prevailing wage determinations. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a)(1) The Wage and Hour Administrator may issue revisions to prevailing wage determinations periodically. The need for inclusion of a revised prevailing wage determination in a solicitation, contract or contract modification (see 22.1007) is determined by the date of receipt of the revised prevailing wage determination by the contracting agency. (Note the distinction between receipt by the agency and receipt by the contracting officer which may occur later.)
 
 (i) For purposes of using WDOL, the time of receipt by the contracting agency shall be the first day of publication of the revised prevailing wage determination on the website.

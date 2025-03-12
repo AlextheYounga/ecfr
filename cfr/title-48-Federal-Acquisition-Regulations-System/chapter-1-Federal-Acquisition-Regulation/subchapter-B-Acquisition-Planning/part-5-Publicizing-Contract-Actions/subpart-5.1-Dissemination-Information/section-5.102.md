@@ -1,5 +1,7 @@
 ##### 5.102 Availability of solicitations. #####
 
+Link to an amendment published at 86 FR 71324, Dec. 15, 2021.
+
 (a)(1) Except as provided in paragraph (a)(5) of this section, the contracting officer must make available through the GPE solicitations synopsized through the GPE, including specifications, technical data, and other pertinent information determined necessary by the contracting officer. Transmissions to the GPE must be in accordance with the interface description available via the Internet at *https://www.fbo.gov.*
 
 (2) The contracting officer is encouraged, when practicable and cost-effective, to make accessible through the GPE additional information related to a solicitation.

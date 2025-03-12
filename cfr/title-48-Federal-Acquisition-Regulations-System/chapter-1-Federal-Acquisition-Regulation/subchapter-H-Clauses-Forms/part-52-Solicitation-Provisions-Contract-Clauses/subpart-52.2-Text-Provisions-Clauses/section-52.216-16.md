@@ -1,5 +1,7 @@
 ##### 52.216-16 Incentive Price Revision - Firm Target. #####
 
+Link to an amendment published at 86 FR 71323, Dec. 15, 2021.
+
 As prescribed in 16.406(a), insert the following clause:
 
 Incentive Price Revision - Firm Target (OCT 1997)

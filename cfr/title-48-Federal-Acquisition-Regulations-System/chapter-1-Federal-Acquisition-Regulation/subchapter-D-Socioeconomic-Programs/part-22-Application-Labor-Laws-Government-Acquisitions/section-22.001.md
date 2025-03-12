@@ -1,5 +1,7 @@
 ##### 22.001 Definitions. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 *Administrator* or *Administrator, Wage and Hour Division,* as used in this part, means the Administrator, Wage and Hour Division, U.S. Department of Labor, Washington, DC 20210 or an authorized representative.
 
 *Agency labor advisor* means an individual responsible for advising contracting agency officials on Federal contract labor matters.

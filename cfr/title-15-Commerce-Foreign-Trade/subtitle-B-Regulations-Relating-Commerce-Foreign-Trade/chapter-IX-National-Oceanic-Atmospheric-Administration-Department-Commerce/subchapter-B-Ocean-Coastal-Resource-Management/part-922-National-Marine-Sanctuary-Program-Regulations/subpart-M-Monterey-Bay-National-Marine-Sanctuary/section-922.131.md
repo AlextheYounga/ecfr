@@ -1,10 +1,10 @@
 ##### § 922.131 Definitions. #####
 
-Link to an amendment published at 86 FR 62912, Nov. 15, 2021.
-
 In addition to those definitions found at 15 CFR 922.3, the following definitions apply to this subpart:
 
 *Attract or attracting* means the conduct of any activity that lures or may lure any animal by using food, bait, chum, dyes, decoys, acoustics, or any other means, except the mere presence of human beings (e.g., swimmers, divers, boaters, kayakers, surfers).
+
+*Beneficial use of dredged material* means the use of dredged material removed from any of the four public harbors adjacent to the sanctuary (Pillar Point, Santa Cruz, Moss Landing, and Monterey) that has been determined by the Director to be suitable as a resource for habitat protection or restoration purposes only. Beneficial use of dredged material is not disposal of dredged material.
 
 *Clean* means not containing detectable levels of harmful matter.
 
@@ -23,3 +23,5 @@ In addition to those definitions found at 15 CFR 922.3, the following definition
 *Introduced species* means: Any species (including but not limited to any of its biological matter capable of propagation) that is non-native to the ecosystems of the Sanctuary; or any organism into which altered genetic matter, or genetic matter from another species, has been transferred in order that the host organism acquires the genetic traits of the transferred genes.
 
 *Motorized personal watercraft (MPWC)* means any vessel, propelled by machinery, that is designed to be operated by standing, sitting, or kneeling on, astride, or behind the vessel, in contrast to the conventional manner, where the operator stands or sits inside the vessel; any vessel less than 20 feet in length overall as manufactured and propelled by machinery and that has been exempted from compliance with the U.S. Coast Guard's Maximum Capacities Marking for Load Capacity regulation found at 33 CFR Parts 181 and 183, except submarines; or any other vessel that is less than 20 feet in length overall as manufactured, and is propelled by a water jet pump or drive.
+
+[73 FR 70535, Nov. 20, 2008, as amended at 86 FR 62912, Nov. 15, 2021]

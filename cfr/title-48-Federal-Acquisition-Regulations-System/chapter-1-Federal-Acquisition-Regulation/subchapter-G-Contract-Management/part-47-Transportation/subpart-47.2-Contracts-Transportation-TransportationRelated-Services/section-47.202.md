@@ -1,5 +1,7 @@
 ##### 47.202 Presolicitation planning. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 Contracting officers shall inform activities that plan to acquire transportation or transportation-related services of the applicable lead-time requirements, that is -
 
 (a) The Service Contract Labor Standards statute requirement to obtain a wage determination by accessing the Wage Determination OnLine Web site (*http://www.wdol.gov*) using the WDOL process or by submitting a request directly to the Department of Labor on this Web site using the e98 process before the issuance of an invitation for bid, request for proposal, or commencement of negotiations for any contract exceeding $2,500 that may be subject to the Service Contract Labor Standards statute (see subpart 22.10);

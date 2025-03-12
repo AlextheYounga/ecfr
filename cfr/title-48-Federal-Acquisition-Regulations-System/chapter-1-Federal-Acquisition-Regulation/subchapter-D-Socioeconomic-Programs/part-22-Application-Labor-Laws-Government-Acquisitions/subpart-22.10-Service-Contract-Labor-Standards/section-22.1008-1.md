@@ -1,5 +1,7 @@
 ##### 22.1008-1 Obtaining wage determinations. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 (a) Contracting officers may obtain most prevailing wage determinations using the WDOL website. Contracting officers may also use the Department of Labor's e98 electronic process, located on the WDOL website, to request a wage determination directly from the Department of Labor. If the WDOL database does not contain the applicable prevailing wage determination for a contract action, the contracting officer must use the e98 process to request a wage determination from the Department of Labor.
 
 (b) In using the e98 process to obtain prevailing wage determinations, contracting officers shall provide as complete and accurate information on the e98 as possible. Contracting officers shall ensure that the email address submitted on an e98 request is accurate.

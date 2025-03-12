@@ -1,5 +1,7 @@
 ##### 5.705 Publicizing postaward. #####
 
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+
 Follow usual publication procedures at 5.301, except that the following supersede the exceptions at 5.301(b)(2) through (7):
 
 (a)(1) Publicize the award notice for any action exceeding $500,000, funded in whole or in part by the Recovery Act, including -

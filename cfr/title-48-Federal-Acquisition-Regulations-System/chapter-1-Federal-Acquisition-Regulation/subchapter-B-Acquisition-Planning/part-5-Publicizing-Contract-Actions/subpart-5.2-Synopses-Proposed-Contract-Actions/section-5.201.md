@@ -1,5 +1,7 @@
 ##### 5.201 General. #####
 
+Link to an amendment published at 86 FR 71324, Dec. 15, 2021.
+
 (a) As required by the Small Business Act (15 U.S.C. 637(e)) and 41 U.S.C. 1708, agencies must make notices of proposed contract actions available as specified in paragraph (b) of this section.
 
 (b)(1) For acquisitions of supplies and services, other than those covered by the exceptions in 5.202 and the special situations in 5.205, the contracting officer must transmit a notice to the GPE, for each proposed -

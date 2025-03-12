@@ -1,4 +1,4 @@
-##### § 413.234. Drug designation process. #####
+##### § 413.234 Drug designation process. #####
 
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
