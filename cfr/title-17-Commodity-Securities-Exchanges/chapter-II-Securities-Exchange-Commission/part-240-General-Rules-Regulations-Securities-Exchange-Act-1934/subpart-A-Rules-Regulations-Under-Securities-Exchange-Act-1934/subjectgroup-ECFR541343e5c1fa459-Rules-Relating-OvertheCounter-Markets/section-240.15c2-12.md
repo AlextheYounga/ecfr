@@ -1,7 +1,6 @@
 ##### § 240.15c2-12 Municipal securities disclosure. #####
 
-Link to an amendment published at 83 FR
-44742, Aug. 31, 2018.Preliminary Note:
+Preliminary Note:
 
 For a discussion of disclosure obligations relating to municipal securities, issuers, brokers, dealers, and municipal securities dealers should refer to Securities Act Release No. 7049, Securities Exchange Act Release No. 33741, FR-42 (March 9, 1994). For a discussion of the obligations of underwriters to have a reasonable basis for recommending municipal securities, brokers, dealers, and municipal securities dealers should refer to Securities Exchange Act Release No. 26100 (Sept. 22, 1988) and Securities Exchange Act Release No. 26985 (June 28, 1989).
 
@@ -13,7 +12,7 @@ For a discussion of disclosure obligations relating to municipal securities, iss
 
 (3) The Participating Underwriter shall contract with an issuer of municipal securities or its designated agent to receive, within seven business days after any final agreement to purchase, offer, or sell the municipal securities in an Offering and in sufficient time to accompany any confirmation that requests payment from any customer, copies of a final official statement in sufficient quantity to comply with paragraph (b)(4) of this rule and the rules of the Municipal Securities Rulemaking Board.
 
-(4) From the time the final official statement becomes available until the earlier of -
+(4) From the time the final official statement becomes available until the earlier of—
 
 (i) Ninety days from the end of the underwriting period or
 
@@ -57,7 +56,11 @@ For the purposes of the event identified in paragraph (b)(5)(i)(C)(12) of this s
 
 (*13*) The consummation of a merger, consolidation, or acquisition involving an obligated person or the sale of all or substantially all of the assets of the obligated person, other than in the ordinary course of business, the entry into a definitive agreement to undertake such an action or the termination of a definitive agreement relating to any such actions, other than pursuant to its terms, if material;
 
-(*14*) Appointment of a successor or additional trustee or the change of name of a trustee, if material; and
+(*14*) Appointment of a successor or additional trustee or the change of name of a trustee, if material;
+
+(*15*) Incurrence of a financial obligation of the obligated person, if material, or agreement to covenants, events of default, remedies, priority rights, or other similar terms of a financial obligation of the obligated person, any of which affect security holders, if material; and
+
+(*16*) Default, event of acceleration, termination event, modification of terms, or other similar events under the terms of a financial obligation of the obligated person, any of which reflect financial difficulties; and
 
 (D) In a timely manner, notice of a failure of any person specified in paragraph (b)(5)(i)(A) of this section to provide required annual financial information, on or before the date specified in the written agreement or contract.
 
@@ -111,7 +114,7 @@ For the purposes of the event identified in paragraph (b)(5)(i)(C)(12) of this s
 
 (e) *Exemptive authority.* The Commission, upon written request, or upon its own motion, may exempt any broker, dealer, or municipal securities dealer, whether acting in the capacity of a Participating Underwriter or otherwise, that is a participant in a transaction or class of transactions from any requirement of this section, either unconditionally or on specified terms and conditions, if the Commission determines that such an exemption is consistent with the public interest and the protection of investors.
 
-(f) *Definitions.* For the purposes of this rule -
+(f) *Definitions.* For the purposes of this rule—
 
 (1) The term *authorized denominations of $100,000 or more* means municipal securities with a principal amount of $100,000 or more and with restrictions that prevent the sale or transfer of such securities in principal amounts of less than $100,000 other than through a primary offering; except that, for municipal securities with an original issue discount of 10 percent or more, the term means municipal securities with a minimum purchase price of $100,000 or more and with restrictions that prevent the sale or transfer of such securities, in principal amounts that are less than the original principal amount at the time of the primary offering, other than through a primary offering.
 
@@ -141,6 +144,16 @@ For the purposes of the event identified in paragraph (b)(5)(i)(C)(12) of this s
 
 (10) The term *obligated person* means any person, including an issuer of municipal securities, who is either generally or through an enterprise, fund, or account of such person committed by contract or other arrangement to support payment of all, or part of the obligations on the municipal securities to be sold in the Offering (other than providers of municipal bond insurance, letters of credit, or other liquidity facilities).
 
+(11)(i) The term *financial obligation* means a:
+
+(A) Debt obligation;
+
+(B) Derivative instrument entered into in connection with, or pledged as security or a source of payment for, an existing or planned debt obligation; or
+
+(C) Guarantee of paragraph (f)(11)(i)(A) or (B).
+
+(ii) The term *financial obligation* shall not include municipal securities as to which a final official statement has been provided to the Municipal Securities Rulemaking Board consistent with this rule.
+
 (g) *Transitional provision.* If on July 28, 1989, a Participating Underwriter was contractually committed to act as underwriter in an Offering of municipal securities originally issued before July 29, 1989, the requirements of paragraphs (b)(3) and (b)(4) shall not apply to the Participating Underwriter in connection with such an Offering. Paragraph (b)(5) of this section shall not apply to a Participating Underwriter that has contractually committed to act as an underwriter in an Offering of municipal securities before July 3, 1995; *except that* paragraph (b)(5)(i)(A) and paragraph (b)(5)(i)(B) shall not apply with respect to fiscal years ending prior to January 1, 1996. Paragraph (c) shall become effective on January 1, 1996. Paragraph (d)(2)(ii) and paragraph (d)(2)(iii) of this section shall not apply to an Offering of municipal securities commencing prior to January 1, 1996.
 
-[54 FR 28813, July 10, 1989, as amended at 59 FR 59609, Nov. 17, 1994; 73 FR 76132, Dec. 15, 2008; 75 FR 33155, June 10, 2010]
+[54 FR 28813, July 10, 1989, as amended at 59 FR 59609, Nov. 17, 1994; 73 FR 76132, Dec. 15, 2008; 75 FR 33155, June 10, 2010; 83 FR 44742, Aug. 31, 2018]

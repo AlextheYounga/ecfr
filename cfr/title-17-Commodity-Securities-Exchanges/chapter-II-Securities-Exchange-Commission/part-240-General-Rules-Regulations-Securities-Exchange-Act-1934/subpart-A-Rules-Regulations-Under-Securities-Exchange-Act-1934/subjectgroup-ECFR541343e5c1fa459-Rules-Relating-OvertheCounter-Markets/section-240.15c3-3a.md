@@ -1,4 +1,4 @@
-##### § 240.15c3-3a Exhibit A - Formula for determination of customer and PAB account reserve requirements of brokers and dealers under § 240.15c3-3. #####
+##### § 240.15c3-3a Exhibit A—Formula for determination of customer and PAB account reserve requirements of brokers and dealers under § 240.15c3-3. #####
 
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |Credits|Debits|
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------|------|
@@ -20,25 +20,17 @@
 |                                                                                                                                                                                                                                                                               Total debits                                                                                                                                                                                                                                                                               |       |      |
 |                                                                                                                        15. Excess of total credits (sum of items 1-9) over total debits (sum of items 10-14) required to be on deposit in the “Reserve Bank Account” (§ 240.15c3-3(e)). If the computation is made monthly as permitted by this section, the deposit must be not less than 105% of the excess of total credits over total debits.                                                                                                                        |       | XXX  |
 
-Notes Regarding the Customer Reserve Bank Account ComputationNote A.
+Notes Regarding the Customer Reserve Bank Account Computation
 
-Item 1 must include all outstanding drafts payable to customers which have been applied against free credit balances or other credit balances and must also include checks drawn in excess of bank balances per the records of the broker or dealer.
+Note A. Item 1 must include all outstanding drafts payable to customers which have been applied against free credit balances or other credit balances and must also include checks drawn in excess of bank balances per the records of the broker or dealer.
 
-Note:B.
+Note B. Item 2 must include the amount of options-related or security futures product-related Letters of Credit obtained by a member of a registered clearing agency or a derivatives clearing organization which are collateralized by customers' securities, to the extent of the member's margin requirement at the registered clearing agency or derivatives clearing organization. Item 2 must also include the amount of Letters of Credit which are collateralized by customers' securities and related to other futures contracts (and options thereon) carried in a securities account pursuant to an SRO portfolio margining rule.
 
-Item 2 must include the amount of options-related or security futures product-related Letters of Credit obtained by a member of a registered clearing agency or a derivatives clearing organization which are collateralized by customers' securities, to the extent of the member's margin requirement at the registered clearing agency or derivatives clearing organization. Item 2 must also include the amount of Letters of Credit which are collateralized by customers' securities and related to other futures contracts (and options thereon) carried in a securities account pursuant to an SRO portfolio margining rule.
+Note C. Item 3 must include in addition to monies payable against customers' securities loaned the amount by which the market value of securities loaned exceeds the collateral value received from the lending of such securities.
 
-Note C.
+Note D. Item 4 must include in addition to customers' securities failed to receive the amount by which the market value of securities failed to receive and outstanding more than thirty (30) calendar days exceeds their contract value.
 
-Item 3 must include in addition to monies payable against customers' securities loaned the amount by which the market value of securities loaned exceeds the collateral value received from the lending of such securities.
-
-Note D.
-
-Item 4 must include in addition to customers' securities failed to receive the amount by which the market value of securities failed to receive and outstanding more than thirty (30) calendar days exceeds their contract value.
-
-Note E.
-
-(1) Debit balances in margin accounts must be reduced by the amount by which a specific security (other than an exempted security) which is collateral for margin accounts exceeds in aggregate value 15 percent of the aggregate value of all securities which collateralize all margin accounts receivable; provided, however, the required reduction must not be in excess of the amounts of the debit balance required to be excluded because of this concentration rule. A specified security is deemed to be collateral for a margin account only to the extent it represents in value not more than 140 percent of the customer debit balance in a margin account.
+Note E. (1) Debit balances in margin accounts must be reduced by the amount by which a specific security (other than an exempted security) which is collateral for margin accounts exceeds in aggregate value 15 percent of the aggregate value of all securities which collateralize all margin accounts receivable; provided, however, the required reduction must not be in excess of the amounts of the debit balance required to be excluded because of this concentration rule. A specified security is deemed to be collateral for a margin account only to the extent it represents in value not more than 140 percent of the customer debit balance in a margin account.
 
 (2) Debit balances in special omnibus accounts, maintained in compliance with the requirements of Section 7(f) of Regulation T (12 CFR 220.7(f)) or similar accounts carried on behalf of another broker or dealer, must be reduced by any deficits in such accounts (or if a credit, such credit must be increased) less any calls for margin, mark to the market, or other required deposits which are outstanding 5 business days or less.
 
@@ -52,13 +44,9 @@ If the registered national securities exchange or the registered national securi
 
 (6) Debit balances in joint accounts, custodian accounts, participation in hedge funds or limited partnerships or similar type accounts or arrangements that include both assets of a person or persons who would be excluded from the definition of customer (“noncustomer”) and assets of a person or persons who would be included in the definition of customer must be included in the Reserve Formula in the following manner: If the percentage ownership of the non-customer is less than 5 percent then the entire debit balance shall be included in the formula; if such percentage ownership is between 5 percent and 50 percent then the portion of the debit balance attributable to the non-customer must be excluded from the formula unless the broker or dealer can demonstrate that the debit balance is directly related to credit items in the formula; or if such percentage ownership is greater than 50 percent, then the entire debit balance must be excluded from the formula unless the broker or dealer can demonstrate that the debit balance is directly related to credit items in the formula.
 
-Note F.
+Note F. Item 13 must include the amount of margin required and on deposit with the Options Clearing Corporation to the extent such margin is represented by cash, proprietary qualified securities and letters of credit collateralized by customers' securities.
 
-Item 13 must include the amount of margin required and on deposit with the Options Clearing Corporation to the extent such margin is represented by cash, proprietary qualified securities and letters of credit collateralized by customers' securities.
-
-Note G.
-
-(a) Item 14 must include the amount of margin required and on deposit with a clearing agency registered with the Commission under section 17A of the Act (15 U.S.C. 78q-1) or a derivatives clearing organization registered with the Commodity Futures Trading Commission under section 5b of the Commodity Exchange Act (7 U.S.C. 7a-1) for customer accounts to the extent that the margin is represented by cash, proprietary qualified securities, and letters of credit collateralized by customers' securities.
+Note G. (a) Item 14 must include the amount of margin required and on deposit with a clearing agency registered with the Commission under section 17A of the Act (15 U.S.C. 78q-1) or a derivatives clearing organization registered with the Commodity Futures Trading Commission under section 5b of the Commodity Exchange Act (7 U.S.C. 7a-1) for customer accounts to the extent that the margin is represented by cash, proprietary qualified securities, and letters of credit collateralized by customers' securities.
 
 (b) Item 14 will apply only if the broker or dealer has the margin related to security futures products, or futures (and options thereon) carried in a securities account pursuant to an approved SRO portfolio margining program on deposit with:
 
@@ -84,44 +72,26 @@ Note G.
 
 (c) Item 14 will apply only if a broker or dealer determines, at least annually, that the registered clearing agency or derivatives clearing organization with which the broker or dealer has on deposit margin related to securities future products or futures in a portfolio margin account meets the conditions of this Note G.
 
-Notes Regarding the PAB Reserve Bank Account ComputationNote 1.
+Notes Regarding the PAB Reserve Bank Account Computation
 
-Broker-dealers should use the formula in Exhibit A for the purposes of computing the PAB reserve requirement, except that references to “accounts,” “customer accounts, or “customers” will be treated as references to PAB accounts.
+Note 1. Broker-dealers should use the formula in Exhibit A for the purposes of computing the PAB reserve requirement, except that references to “accounts,” “customer accounts, or “customers” will be treated as references to PAB accounts.
 
-Note 2.
+Note 2. Any credit (including a credit applied to reduce a debit) that is included in the computation required by § 240.15c3-3 with respect to customer accounts (the “customer reserve computation”) may not be included as a credit in the computation required by § 240.15c3-3 with respect to PAB accounts (the “PAB reserve computation”).
 
-Any credit (including a credit applied to reduce a debit) that is included in the computation required by § 240.15c3-3 with respect to customer accounts (the “customer reserve computation”) may not be included as a credit in the computation required by § 240.15c3-3 with respect to PAB accounts (the “PAB reserve computation”).
+Note 3. Note E(1) to § 240.15c3-3a does not apply to the PAB reserve computation.
 
-Note 3.
+Note 4. Note E(3) to § 240.15c3-3a which reduces debit balances by 1% does not apply to the PAB reserve computation.
 
-Note E(1) to § 240.15c3-3a does not apply to the PAB reserve computation.
+Note 5. Interest receivable, floor brokerage, and commissions receivable of another broker or dealer from the broker or dealer (excluding clearing deposits) that are otherwise allowable assets under § 240.15c3-1 need not be included in the PAB reserve computation, provided the amounts have been clearly identified as payables on the books of the broker or dealer. Commissions receivable and other receivables of another broker or dealer from the broker or dealer that are otherwise non-allowable assets under § 240.15c3-1 and clearing deposits of another broker or dealer may be included as “credit balances” for purposes of the PAB reserve computation, provided the commissions receivable and other receivables are subject to immediate cash payment to the other broker or dealer and the clearing deposit is subject to payment within 30 days.
 
-Note 4.
+Note 6. Credits included in the PAB reserve computation that result from the use of securities held for a PAB account (“PAB securities”) that are pledged to meet intra-day margin calls in a cross-margin account established between the Options Clearing Corporation and any regulated derivatives clearing organization may be reduced to the extent that the excess margin held by the other clearing corporation in the cross-margin relationship is used the following business day to replace the PAB securities that were previously pledged. In addition, balances resulting from a portfolio margin account that are segregated pursuant to Commodity Futures Trading Commission regulations need not be included in the PAB Reserve Bank Account computation.
 
-Note E(3) to § 240.15c3-3a which reduces debit balances by 1% does not apply to the PAB reserve computation.
+Note 7. Deposits received prior to a transaction pending settlement which are $5 million or greater for any single transaction or $10 million in aggregate may be excluded as credits from the PAB reserve computation if such balances are placed and maintained in a separate PAB Reserve Bank Account by 12 p.m. Eastern Time on the following business day. Thereafter, the money representing any such deposits may be withdrawn to complete the related transactions without performing a new PAB reserve computation.
 
-Note 5.
+Note 8. A credit balance resulting from a PAB reserve computation may be reduced by the amount that items representing such credits are swept into money market funds or mutual funds of an investment company registered under the Investment Company Act of 1940 on or prior to 10 a.m. Eastern Time on the deposit date provided that the credits swept into any such fund are not subject to any right, charge, security interest, lien, or claim of any kind in favor of the investment company or the broker or dealer. Any credits that have been swept into money market funds or mutual funds must be maintained in the name of a particular broker or for the benefit of another broker.
 
-Interest receivable, floor brokerage, and commissions receivable of another broker or dealer from the broker or dealer (excluding clearing deposits) that are otherwise allowable assets under § 240.15c3-1 need not be included in the PAB reserve computation, provided the amounts have been clearly identified as payables on the books of the broker or dealer. Commissions receivable and other receivables of another broker or dealer from the broker or dealer that are otherwise non-allowable assets under § 240.15c3-1 and clearing deposits of another broker or dealer may be included as “credit balances” for purposes of the PAB reserve computation, provided the commissions receivable and other receivables are subject to immediate cash payment to the other broker or dealer and the clearing deposit is subject to payment within 30 days.
+Note 9. Clearing deposits required to be maintained at registered clearing agencies may be included as debits in the PAB reserve computation to the extent the percentage of the deposit, which is based upon the clearing agency's aggregate deposit requirements (*e.g.,* dollar trading volume), that relates to the proprietary business of other brokers and dealers can be identified.
 
-Note 6.
-
-Credits included in the PAB reserve computation that result from the use of securities held for a PAB account (“PAB securities”) that are pledged to meet intra-day margin calls in a cross-margin account established between the Options Clearing Corporation and any regulated derivatives clearing organization may be reduced to the extent that the excess margin held by the other clearing corporation in the cross-margin relationship is used the following business day to replace the PAB securities that were previously pledged. In addition, balances resulting from a portfolio margin account that are segregated pursuant to Commodity Futures Trading Commission regulations need not be included in the PAB Reserve Bank Account computation.
-
-Note 7.
-
-Deposits received prior to a transaction pending settlement which are $5 million or greater for any single transaction or $10 million in aggregate may be excluded as credits from the PAB reserve computation if such balances are placed and maintained in a separate PAB Reserve Bank Account by 12 p.m. Eastern Time on the following business day. Thereafter, the money representing any such deposits may be withdrawn to complete the related transactions without performing a new PAB reserve computation.
-
-Note 8.
-
-A credit balance resulting from a PAB reserve computation may be reduced by the amount that items representing such credits are swept into money market funds or mutual funds of an investment company registered under the Investment Company Act of 1940 on or prior to 10 a.m. Eastern Time on the deposit date provided that the credits swept into any such fund are not subject to any right, charge, security interest, lien, or claim of any kind in favor of the investment company or the broker or dealer. Any credits that have been swept into money market funds or mutual funds must be maintained in the name of a particular broker or for the benefit of another broker.
-
-Note 9.
-
-Clearing deposits required to be maintained at registered clearing agencies may be included as debits in the PAB reserve computation to the extent the percentage of the deposit, which is based upon the clearing agency's aggregate deposit requirements (*e.g.,* dollar trading volume), that relates to the proprietary business of other brokers and dealers can be identified.
-
-Note 10.
-
-A broker or dealer that clears PAB accounts through an affiliate or third party clearing broker must include these PAB account balances and the omnibus PAB account balance in its PAB reserve computation.
+Note 10. A broker or dealer that clears PAB accounts through an affiliate or third party clearing broker must include these PAB account balances and the omnibus PAB account balance in its PAB reserve computation.
 
 [78 FR 51904, Aug. 21, 2013, as amended at 79 FR 1550, Jan. 8, 2014]
