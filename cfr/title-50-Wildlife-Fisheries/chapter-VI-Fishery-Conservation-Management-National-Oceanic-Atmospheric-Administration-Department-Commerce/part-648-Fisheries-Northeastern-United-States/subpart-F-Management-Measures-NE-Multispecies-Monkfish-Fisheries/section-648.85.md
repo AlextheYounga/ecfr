@@ -543,27 +543,27 @@ Eastern U.S./Canada Haddock SAP Area
 
 (e) *Universal exemption programs for sector vessels* - (1) *Redfish Exemption Program* - (i) *Eligibility.* Any vessel enrolled in a NMFS approved Northeast multispecies sector and issued a limited access Northeast multispecies permit that allows the use of trawl gear consistent with paragraph (e)(1)(vii) of this section may fish in compliance with the provisions of the Redfish Exemption Program described in paragraphs (e)(1)(ii) through (viii) of this section, except those vessels enrolled in a sector whose members have been prohibited from doing so by the Regional Administrator under paragraph (e)(1)(viii)(C) of this section, or those vessels ineligible or prohibited for any other reason. Letters of authorization issued pursuant to § 648.87(c)(2) shall authorize or prohibit participation in the program by sector vessels consistent with paragraph (e)(1)(viii)(C) of this section.
 
-(ii) *Redfish Exemption Area.* The Redfish Exemption Area is the area defined by straight lines connecting the following points in the order stated (a chart depicting this area is available from the Regional Administrator upon request):
+(ii) *Redfish Exemption Area.* The Redfish Exemption Area is the area defined by straight lines connecting the following points in the order stated, except between points D and E and E and F, the boundary follows the outer limits of the U.S. EEZ. (A chart depicting this area is available from the Regional Administrator upon request):
 
-Table 14 to Paragraph (e)(1)(ii)
+Table 14 to Paragraph (e)(1)(ii) Introductory Text
 
-|Point| N Lat.  | W Long. |
-|-----|---------|---------|
-|  A  | 43°00′  | 69°55′  |
-|  B  | 43°00′  | 69°30′  |
-|  C  | 43°20′  | 69°30′  |
-|  D  | 43°20′  |   (1)   |
-|  E  |42°53.24′|67°44.55′|
-|  F  | 42°20′  |   (2)   |
-|  G  | 42°20′  | 67°40′  |
-|  H  | 42°00′  | 67°40′  |
-|  I  | 42°00′  | 69°37′  |
-|  J  | 42°20′  | 69°55′  |
-|  A  | 43°00′  | 69°55′  |
+|Point| N lat.  |   W long.    |
+|-----|---------|--------------|
+|  A  | 43°00′  |    69°55′    |
+|  B  | 43°00′  |    69°30′    |
+|  C  | 43°20′  |    69°30′    |
+|  D  | 43°20′  |(<sup>1</sup>)|
+|  E  |42°53.24′|  67°44.55′   |
+|  F  | 42°20′  |(<sup>2</sup>)|
+|  G  | 42°20′  |    67°40′    |
+|  H  | 42°00′  |    67°40′    |
+|  I  | 42°00′  |    69°37′    |
+|  J  | 42°20′  |    69°55′    |
+|  A  | 43°00′  |    69°55′    |
 
-1 US EEZ longitude, approximately 67°35.07′.
+<sup>1</sup> U.S. EEZ longitude, approximately 67°35.07′.
 
-2 US EEZ longitude, approximately 67°18.17′.
+<sup>2</sup> U.S. EEZ longitude, approximately 67°18.17′.
 
 (A) *Redfish Exemption Area Cod Closure.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Cod Closure from February 1 through March 31 of each year. The Redfish Exemption Area Cod Closure is the area defined by straight lines connecting the following points in the order stated:
 
@@ -577,18 +577,18 @@ Table 15 to Paragraph (e)(1)(ii)(A)
 |  L  |42°30′|69°55′ |
 |  A  |43°00′|69°55′ |
 
-(B) *Redfish Exemption Area Seasonal Closure II.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Seasonal Closure II from September 1 through December 31 of each year. The Redfish Exemption Area Seasonal Closure II is the area defined by straight lines connecting the following points in the order stated:
+(B) *Redfish Exemption Area Seasonal Closure II.* No vessel may participate in the Redfish Exemption Program inside the Redfish Exemption Area Seasonal Closure II from September 1 through December 31 of each year. The Redfish Exemption Area Seasonal Closure II is the area defined by straight lines connecting the following points in the order stated, except between points F and G the boundary follows the outer limits of the U.S. EEZ:
 
 Table 16 to Paragraph (e)(1)(ii)(B)
 
-|Point| N Lat.  |W Long.|
-|-----|---------|-------|
-|  M  |42°47.17′|67°40′ |
-|  F  | 42°20′  |  (1)  |
-|  G  | 42°20′  |67°40′ |
-|  M  |42°47.17′|67°40′ |
+|Point| N lat.  |   W long.    |
+|-----|---------|--------------|
+|  M  |42°47.17′|    67°40′    |
+|  F  | 42°20′  |(<sup>1</sup>)|
+|  G  | 42°20′  |    67°40′    |
+|  M  |42°47.17′|    67°40′    |
 
-1 US EEZ longitude, approximately 67°18.17′.
+<sup>1</sup> U.S. EEZ longitude, approximately 67°18.17′.
 
 (C) No vessel may participate in the Redfish Exemption Program in any areas that are otherwise closed to fishing for Northeast multispecies or fishing with trawl gear, including but not limited to year-round closed areas, seasonal closed areas, or habitat closures.
 

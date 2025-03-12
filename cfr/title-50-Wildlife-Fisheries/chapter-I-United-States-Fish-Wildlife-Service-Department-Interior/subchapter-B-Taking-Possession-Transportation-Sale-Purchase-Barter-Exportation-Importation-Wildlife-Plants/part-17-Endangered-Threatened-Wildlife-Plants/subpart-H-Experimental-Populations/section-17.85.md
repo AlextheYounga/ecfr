@@ -1,5 +1,7 @@
 ##### § 17.85 Special rules - invertebrates. #####
 
+Link to an amendment published at 87 FR 8965, Feb. 17, 2022.
+
 (a) *Seventeen mollusks in the Tennessee River.* The species in the following table comprise nonessential experimental populations (NEPs):
 
 |              Common name              |        Scientific name         |

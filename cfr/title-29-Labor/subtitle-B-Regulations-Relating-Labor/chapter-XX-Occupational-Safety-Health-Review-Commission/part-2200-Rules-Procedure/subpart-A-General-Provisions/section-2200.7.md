@@ -40,7 +40,7 @@ Your employer has been cited by the Secretary of Labor for violation of the Occu
 
 The reasonableness of the period prescribed by the Secretary of Labor for abatement of the violation has been contested and will be the subject of a hearing before the OCCUPATIONAL SAFETY AND HEALTH REVIEW COMMISSION.
 
-(h) *Special service requirements; authorized employee representatives.* The authorized employee representative, if any, shall be served with the notice set forth in paragraph (g) of this section and with a copy of the notice of contest or petition for modification of the abatement period.
+(h) *Special service requirements; authorized employee representatives.* The authorized employee representative, if any, shall be served by the employer with the notice set forth in paragraph (g) of this section and with a copy of the notice of contest or petition for modification of the abatement period.
 
 (i) *Notice of hearing to unrepresented employees.* Immediately upon receipt, a copy of the notice of the hearing to be held before the Judge shall be served by the employer on affected employees who are not represented by an authorized employee representative by posting a copy of the notice of such hearing at or near the place where the citation is required to be posted pursuant to section 9(b) of the Occupational Safety and Health Act of 1970, 29 U.S.C. 658(b), and 29 CFR 1903.16.
 
@@ -54,14 +54,14 @@ The reasonableness of the period prescribed by the Secretary of Labor for abatem
 
 (2) Service on the authorized employee representative shall be in the manner prescribed in paragraph (c) of this section. The unrepresented affected employee shall file proof of such service.
 
-(l) *Employee contest; Service on employer.* Where a notice of contest with respect to the reasonableness of the abatement period is filed by an affected employee or an authorized employee representative, a copy of the notice of contest and response filed in support of the notice of contest shall be provided to the employer for posting in the manner prescribed in paragraph (g) of this section.
+(l) *Employee contest; service on employer.* Where a notice of contest with respect to the reasonableness of the abatement period is filed by an affected employee or an authorized employee representative, a copy of the notice of contest and response filed in support of the notice of contest shall be provided to the employer for posting in the manner prescribed in paragraph (g) of this section.
 
-(m) *Employee contest; Service on other authorized employee representatives.* An authorized employee representative who files a notice of contest with respect to the reasonableness of the abatement period shall be responsible for serving any other authorized employee representative whose members are affected employees in the manner prescribed in paragraph (c) of this section.
+(m) *Employee contest; service on other authorized employee representatives.* An authorized employee representative who files a notice of contest with respect to the reasonableness of the abatement period shall be responsible for serving any other authorized employee representative whose members are affected employees in the manner prescribed in paragraph (c) of this section.
 
 (n) *Duration of posting.* Where posting is required by this section, such posting shall be maintained until the commencement of the hearing or until earlier disposition.
 
-(o) *Service of show cause orders* - (1) *Service on parties and intervenors using Commission's E-File System.* Service of show cause orders shall be deemed completed by service through the Commission's E-File System on a representative who has entered an appearance for a party or intervenor under § 2200.23 or on a self-represented party or intervenor who has not been exempted from using the Commission's E-File System. *See also* § 2200.101(a).
+(o) *Service of show cause orders*—(1) *Service on parties and intervenors using Commission's E-File System.* Service of show cause orders shall be deemed completed by service through the Commission's E-File System on a representative who has entered an appearance for a party or intervenor under § 2200.23 or on a self-represented party or intervenor who has not been exempted from using the Commission's E-File System. *See also* § 2200.101(a).
 
 (2) *Service on self-represented parties or intervenors exempted from using the Commission's E-File System.* In addition to the service methods permitted by § 2200.7(c), the Commission or the Judge shall serve a show cause order on a self-represented party or intervenor who has been exempted from using the Commission's E-File System by certified mail or by any other method (including commercial delivery service) that provides confirmation of delivery to the addressee's record address provided under § 2200.6.
 
-[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53052, Oct. 4, 2019; 85 FR 65220, Oct. 15, 2020]
+[84 FR 14558, Apr. 10, 2019, as amended at 84 FR 53052, Oct. 4, 2019; 85 FR 65220, Oct. 15, 2020; 87 FR 8948, Feb. 17, 2022]

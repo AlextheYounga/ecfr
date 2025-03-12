@@ -39,7 +39,7 @@ Table 1 to Paragraph (b)
 |     Overgaard      |          234C1          |
 |       Parker       |          257C2          |
 |      Paulden       |          228C3          |
-|        Pima        |         \*296A          |
+|        Pima        |          296A           |
 |       Salome       |          231A           |
 |       Sells        |          285A           |
 |     Snowflake      |          259C2          |
@@ -79,7 +79,7 @@ Table 1 to Paragraph (b)
 |        Hugo        |          222A           |
 |       Idalia       |          231A           |
 |     Lake City      |          247A           |
-|       Olathe       |     \*270C2, \*293C     |
+|       Olathe       |       270C2, 293C       |
 |      Stratton      |          246C1          |
 |       Walden       |          226A           |
 |       Yampa        |          277C3          |
@@ -90,33 +90,36 @@ Table 1 to Paragraph (b)
 |     Cross City     |          249C3          |
 | Fort Walton Beach  |          295A           |
 |  Horseshoe Beach   |         \*234C3         |
-|    Otter Creek     |         \*240A          |
+|    Otter Creek     |          240A           |
 |      GEORGIA       |                         |
 |      Pembroke      |          257C1          |
 |       Plains       |          290A           |
 |       HAWAII       |                         |
 |       IDAHO        |                         |
+|       Weiser       |          247C1          |
 |      ILLINOIS      |                         |
 |      Abingdon      |          291A           |
-|     Cedarville     |         \*258A          |
-|      Greenup       |         \*230A          |
-|   Pinckneyville    |         \*282A          |
+|     Cedarville     |          258A           |
+|      Greenup       |          230A           |
+|   Pinckneyville    |          282A           |
 |      INDIANA       |                         |
-|       Fowler       |         \*291A          |
-|      Madison       |         \*265A          |
+|      Columbus      |          228A           |
+|       Fowler       |          291A           |
+|      Madison       |          265A           |
 |        IOWA        |                         |
-|       Asbury       |         \*254A          |
+|       Asbury       |          254A           |
 |     Dunkerton      |          280A           |
-|     Keosauqua      |         \*271C3         |
+|     Keosauqua      |          271C3          |
+|      Moville       |          246A           |
 |      Rockford      |          225A           |
-|        Rudd        |         \*268A          |
+|        Rudd        |          268A           |
 |       KANSAS       |                         |
-|   Council Grove    |         \*281C3         |
+|   Council Grove    |          281C3          |
 |      KENTUCKY      |                         |
 |     Irvington      |          261A           |
 |     LOUISIANA      |                         |
 |      Florien       |          222A           |
-|   Golden Meadow    |         \*289C2         |
+|   Golden Meadow    |          289C2          |
 |    Haynesville     |          286A           |
 |      Hornbeck      |          269A           |
 |      Oil City      |          285A           |
@@ -125,7 +128,7 @@ Table 1 to Paragraph (b)
 |      MARYLAND      |                         |
 |   MASSACHUSETTS    |                         |
 |       Orange       |          247A           |
-|    West Tisbury    |         \*282A          |
+|    West Tisbury    |          282A           |
 |      MICHIGAN      |                         |
 |       Carney       |          260A           |
 |       Custer       |          260A           |
@@ -188,12 +191,13 @@ Table 1 to Paragraph (b)
 |      Cheyenne      |          247C2          |
 |      Clayton       |          262A           |
 |      Coalgate      |          242A           |
-|      Cordell       |         \*229A          |
+|      Cordell       |          229A           |
 |     Covington      |          290A           |
 |     Millerton      |          265C2          |
 |      Savanna       |          275A           |
 |        Vici        |          249A           |
 |       Wayne        |          266A           |
+|    Weatherford     |          286A           |
 |    Wright City     |          295A           |
 |       OREGON       |                         |
 |     Arlington      |          295C2          |
@@ -202,7 +206,7 @@ Table 1 to Paragraph (b)
 |       Powers       |          293C2          |
 |        Vale        |          288C           |
 |    PENNSYLVANIA    |                         |
-|      Liberty       |         \*298A          |
+|      Liberty       |          298A           |
 |    RHODE ISLAND    |                         |
 |   SOUTH CAROLINA   |                         |
 |     Edgefield      |          238A           |
@@ -225,6 +229,7 @@ Table 1 to Paragraph (b)
 |    Centerville     |          274A           |
 |   Crystal Beach    |          268A           |
 |      Dalhart       |          261C2          |
+|    Denver City     |          248C2          |
 |      Dickens       |       240A, 294A        |
 |       Dilley       |          291A           |
 |        Eden        |          294A           |
@@ -283,7 +288,7 @@ Table 1 to Paragraph (b)
 |       Teague       |          237C3          |
 |      Trinity       |          251A           |
 |       Turkey       |          221C2          |
-|    Van Alstyne     |         \*260A          |
+|    Van Alstyne     |          260A           |
 |     Wellington     |      248C3, 253C3       |
 |       Wells        |          254A           |
 |     Westbrook      |          272A           |
@@ -299,14 +304,14 @@ Table 1 to Paragraph (b)
 |     WASHINGTON     |                         |
 |     Coupeville     |          266A           |
 |      Kahlotus      |          283A           |
-|     Oak Harbor     |         \* 233A         |
+|     Oak Harbor     |          233A           |
 |      Raymond       |          300A           |
 |     Trout Lake     |          236A           |
 |   WEST VIRGINIA    |                         |
 |     WISCONSIN      |                         |
-|      Ashland       |         \*275A          |
+|      Ashland       |          275A           |
 |      Crandon       |          276A           |
-|      Hayward       |         \*232C2         |
+|      Hayward       |          232C2          |
 |       Laona        |          272C3          |
 |    New Holstein    |          258A           |
 |      Tomahawk      |          265C3          |
@@ -316,7 +321,7 @@ Table 1 to Paragraph (b)
 |       Basin        |          299C1          |
 |        Cora        |          274C2          |
 |       Dubois       |          242A           |
-|      Jackson       |         \*294C2         |
+|      Jackson       |          294C2          |
 |        Lusk        |          242A           |
 |      Manville      |          255C1          |
 |     Marbleton      |          257C1          |
@@ -335,7 +340,7 @@ Table 1 to Paragraph (b)
 |     PUERTO RICO    |                         |
 |   VIRGIN ISLANDS   |                         |
 |  Charlotte Amalie  |          237B           |
-|  Charlotte Amalie  |         \*275A          |
+|  Charlotte Amalie  |          275A           |
 
 [30 FR 12711, Oct. 6, 1965]Editorial Notes:1. For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 

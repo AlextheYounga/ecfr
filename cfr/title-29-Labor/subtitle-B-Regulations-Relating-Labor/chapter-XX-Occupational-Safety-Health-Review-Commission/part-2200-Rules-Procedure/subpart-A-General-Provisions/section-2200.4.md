@@ -24,8 +24,14 @@
 
 (6) *“Federal holiday” defined.* “Federal holiday” means:
 
-(i) The day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day; and,
+(i) The day set aside by statute for observing New Year's Day, Martin Luther King Jr.'s Birthday, Washington's Birthday, Memorial Day, Juneteenth National Independence Day, Independence Day, Labor Day, Columbus Day, Veterans' Day, Thanksgiving Day, or Christmas Day; and,
 
 (ii) Any day declared a holiday by the President or Congress.
 
+(7) *Computation examples.* (i) If a judge orders that a document is due in 40 days, count every calendar day starting the day after that order (day 1) until reaching day 40 (due date). If the receiving Commission office is closed on day 40 (such as on a Saturday, Sunday, or Federal holiday), the document would be due the next day the office is open. In other words, if day 40 falls on a Saturday, and the following Monday is a Federal holiday, the document would be due on Tuesday, the day after the holiday.
+
+(ii) If a judge orders that a document is due 14 days before a hearing, count backwards starting the day before the hearing (day 1) until reaching day 14. If the receiving Commission office is closed on day 14 (such as on a Saturday, Sunday, or Federal holiday), the document would be due on the last day the office is open before the Saturday, Sunday, or Federal holiday. In other words, if day 14 falls on a Sunday, and the Friday before is a Federal holiday, the document would be due on Thursday, the day before the holiday.
+
 (b) *Additional time after service by U.S. Mail.* When a party may or must act within a specified time after service and service is made by U.S. Mail under § 2200.7, 3 days are added after the period would otherwise expire under § 2200.4(a). *Provided, however,* that this provision does not apply to computing the time for filing a petition for discretionary review under § 2200.91(b).
+
+[84 FR 14558, Apr. 10, 2019, as amended at 87 FR 8948, Feb. 17, 2022]

@@ -1,12 +1,12 @@
 ##### § 2200.120 Settlement procedure. #####
 
-(a) *Voluntary settlement* - (1) *Applicability and duration.* (i) Voluntary settlement applies only to notices of contests by employers and to applications for fees under the Equal Access to Justice Act and 29 CFR part 2204.
+(a) *Voluntary settlement*—(1) *Applicability and duration.* (i) Voluntary settlement applies only to notices of contests by employers and to applications for fees under the Equal Access to Justice Act and 29 CFR part 2204.
 
 (ii) Upon motion of any party conforming to § 2200.40 after the docketing of the notice of contest, or with the consent of the parties at any time in the proceedings, the Chief Administrative Law Judge may assign a case to a Settlement Judge for proceedings under this section. In the event either the Secretary or the employer objects to the use of a Settlement Judge procedure, such procedure shall not be imposed.
 
 (2) *Length of voluntary settlement procedures.* Voluntary settlement procedures shall be for a period not to exceed 75 days, unless extended with the concurrence of the Chief Administrative Law Judge.
 
-(b) *Mandatory settlement* - (1) *Applicability.* Mandatory settlement applies only to notices of contest by employers in which the aggregate amount of the penalties sought by the Secretary is $185,000 or greater. Periodically, the aggregate amount of penalties for case referral to Mandatory Settlement Proceedings may be adjusted proportionately upon consideration of the penalty increases required by the Inflation Adjustment Act of 2015. The adjusted aggregate penalty amount for case referral to Mandatory Settlement will be posted on the Commission's website (*www.oshrc.gov*).
+(b) *Mandatory settlement*—(1) *Applicability.* Mandatory settlement applies only to notices of contest by employers in which the aggregate amount of the penalties sought by the Secretary is $205,000 or greater. Periodically, the aggregate amount of penalties for case referral to Mandatory Settlement Proceedings may be adjusted proportionately upon consideration of the penalty increases required by the Inflation Adjustment Act of 2015. The adjusted aggregate penalty amount for case referral to Mandatory Settlement will be posted on the Commission's website (*www.oshrc.gov*).
 
 (2) *Assignment of case and appointment of Settlement Judge.* Notwithstanding any other provisions of these rules, upon the docketing of the notice of contest, the Chief Administrative Law Judge shall assign to the Settlement Part any case which satisfies the criteria set forth in paragraph (b)(1) of this section. The Chief Administrative Law Judge shall appoint a Settlement Judge, who shall be a Judge other than the one assigned to hear and decide the case, except as provided in paragraph (f)(2) of this section.
 
@@ -30,7 +30,7 @@
 
 (5) The Settlement Judge may, with the consent of the parties, conduct such other settlement proceedings as may aid in the settlement of the case.
 
-(d) *Settlement conference* - (1) *General.* The Settlement Judge shall convene and preside over conferences between the parties. Settlement conferences may be conducted telephonically or in person. The Settlement Judge shall designate a conference place and time.
+(d) *Settlement conference*—(1) *General.* The Settlement Judge shall convene and preside over conferences between the parties. The Settlement Judge shall designate the time, place, and nature of the conference.
 
 (2) *Participation in conference.* The Settlement Judge may require that any attorney or other representative who is expected to try the case for each party be present. The Settlement Judge may also require that the party's representative be accompanied by an official of the party having full settlement authority on behalf of the party. The parties and their representatives or attorneys are expected to be completely candid with the Settlement Judge so that the Settlement Judge may properly guide settlement discussions. The failure to be present at a settlement conference or otherwise to comply with the orders of the Settlement Judge or the refusal to cooperate fully within the spirit of this rule may result in default or the imposition of sanctions under § 2200.101.
 
@@ -59,3 +59,5 @@
 (2) At the termination of the settlement period without a full settlement, the Chief Administrative Law Judge shall promptly assign the case to an Administrative Law Judge other than the Settlement Judge or Chief Administrative Law Judge for appropriate action on the remaining issues. If all the parties, the Settlement Judge, and the Chief Administrative Law Judge agree, the Settlement Judge may be retained as the Hearing Judge.
 
 (g) *Non-reviewability.* Notwithstanding the provisions of § 2200.73 regarding interlocutory review, any decision concerning the assignment of any Judge and any decision by the Settlement Judge to terminate settlement proceedings under this section is not subject to review, appeal, or rehearing.
+
+[84 FR 14558, Apr. 10, 2019, as amended at 87 FR 8949, Feb. 17, 2022]

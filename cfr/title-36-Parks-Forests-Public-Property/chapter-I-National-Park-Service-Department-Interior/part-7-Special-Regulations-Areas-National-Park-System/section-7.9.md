@@ -1,5 +1,7 @@
 ##### § 7.9 St. Croix National Scenic Rivers. #####
 
+Link to an amendment published at 87 FR 8952, Feb. 17, 2022.
+
 (a) *Snowmobiles.* After consideration of existing special situations, i.e., depth of snow or thickness of ice, and depending on local weather conditions, the superintendent may allow the use of snowmobiles on the frozen surface of the Saint Croix River on those sections normally used by motor boats during other seasons, between the Boomsite and Highway 243 near Osceola, Wisconsin, and Saint Croix Falls to Riverside, Wisconsin, and in those areas where county or other established snowmobile trails need to cross the riverway or riverway lands to connect with other established snowmobile trails.
 
 (b) *Fishing.* Unless otherwise designated, fishing in a manner authorized under applicable State law is allowed.

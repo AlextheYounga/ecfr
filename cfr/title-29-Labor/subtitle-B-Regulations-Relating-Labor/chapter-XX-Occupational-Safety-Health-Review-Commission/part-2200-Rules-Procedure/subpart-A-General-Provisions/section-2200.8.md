@@ -1,14 +1,14 @@
 ##### § 2200.8 Filing. #####
 
-(a) *What to file* - (1) *General.* All documents required to be served on a party or intervenor shall be filed either before service or within a reasonable time after service.
+(a) *What to file*—(1) *General.* All documents required to be served on a party or intervenor shall be filed either before service or within a reasonable time after service.
 
 (2) *Discovery documents.* Discovery documents generated pursuant to §§ 2200.52 through 2200.56 shall not be filed with the Commission or the Judge. Filing and retention of such discovery documents shall comply with § 2200.52(i) and (j).
 
 (b) *Where to file.* Prior to assignment of a case to a Judge, all documents shall be filed electronically in the Commission's E-File System or with the Executive Secretary at One Lafayette Centre, 1120 20th Street NW, Suite 980, Washington, DC 20036-3457. After the assignment of the case to a Judge, all documents shall be filed electronically in the Commission's E-File System or with the Judge at the address given in the notice of assignment. After the docketing of the Judge's report, all documents shall be filed with the Executive Secretary, except as provided in § 2200.90(b)(4).
 
-(c) *Electronic filing with the Commission* - (1) *Mandatory e-filing.* All parties and intervenors must file documents electronically in the Commission's E-File System by following the instructions on the Commission's website (*www.oshrc.gov*), unless a self-represented party or intervenor is able to claim that complying with this paragraph will place an undue burden upon that party or intervenor under paragraph (c)(2) of this section or the documents are exempt from e-filing under paragraph (c)(5) of this section. Documents may not be filed with the Commission or the Judge via email.
+(c) *Electronic filing with the Commission*—(1) *Mandatory e-filing.* All parties and intervenors must file documents electronically in the Commission's E-File System by following the instructions on the Commission's website (*www.oshrc.gov*), unless a self-represented party or intervenor is able to claim that complying with this paragraph will place an undue burden upon that party or intervenor under paragraph (c)(2) of this section or the documents are exempt from e-filing under paragraph (c)(5) of this section. Documents may not be filed with the Commission or the Judge via email, unless allowed under paragraph (d)(1) of this section.
 
-(2) *Undue burden.* Self-represented parties or intervenors may submit a written statement to the Judge requesting an exemption from the mandatory e-filing requirement on the grounds that it would place an undue burden on them to comply with the requirement. If the Judge grants an exemption, exempted self-represented parties or intervenors must file documents by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission as described in paragraph (d) of this section.
+(2) *Undue burden.* Self-represented parties or intervenors may submit a written statement to the Judge requesting an exemption from the mandatory e-filing requirement on the grounds that it would place an undue burden on them to comply with the requirement. If the Judge grants an exemption, exempted self-represented parties or intervenors must file documents by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission as described in paragraph (d) of this section. Documents may not be filed with the Commission or the Judge via email, unless allowed under paragraph (d)(1) of this section.
 
 (3) If technical difficulties prevent the successful submission of electronically filed documents, the e-filer should refer to the instructions for electronic filing on the Commission's website (*www.oshrc.gov*).
 
@@ -32,7 +32,7 @@
 
 (9) *Certificate of service.* Proof of service shall accompany each document filed in the Commission's E-File System. The certificate of service shall certify simultaneous service of the document by email on all other parties and intervenors in the case. It is the responsibility of the filing party to retain records showing the date of transmission, including receipts.
 
-(d) *Documents that are not filed in the Commission's E-File System; alternative filing methods* - (1) *How to file.* Documents may be filed by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, electronic transmission, or facsimile transmission.
+(d) *Documents that are not filed in the Commission's E-File System; alternative filing methods*—(1) *How to file.* Documents may be filed by postage-prepaid first class or higher class U.S. Mail, commercial delivery service, personal delivery, or facsimile transmission. Only documents exempt from e-filing under paragraph (c)(5) of this section may be filed by email.
 
 (2) *Number of copies.* Unless otherwise ordered or stated in this part, only the original of a document shall be filed.
 
@@ -44,8 +44,8 @@
 
 (4) *Certificate of service.* A certificate of service shall accompany each document filed. The certificate shall set forth the dates and manner of filing and service.
 
-(5) *Sensitive information.* Unless the Commission or the Judge orders otherwise, in any filing with the Commission, information that is sensitive (*e.g.,* Social Security numbers, driver's license numbers, passport numbers, taxpayer-identification numbers, birthdates, mother's maiden names, names of minors, an individual's physical personal address, financial account numbers) but not privileged shall be redacted. Parties shall exercise caution when filing medical records, medical treatment records, medical diagnosis records, employment history, and individual financial information, and shall redact or exclude materials unnecessary to the case.
+(5) *Sensitive information.* Unless the Commission or the Judge orders otherwise, in any filing with the Commission, information that is sensitive but not privileged (*e.g.,* Social Security numbers, driver's license numbers, passport numbers, taxpayer-identification numbers, birthdates, mother's maiden names, names of minors, an individual's physical personal address, financial account numbers) shall be redacted. Parties shall exercise caution when filing medical records, medical treatment records, medical diagnosis records, employment history, and individual financial information, and shall redact or exclude materials unnecessary to the case.
 
 (6) *Privileged information.* Claims regarding privileged information shall comply with § 2200.52(d).
 
-[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019, as amended at 85 FR 65220, Oct. 15, 2020]
+[84 FR 14558, Apr. 10, 2019; 84 FR 45654, Aug. 30, 2019, as amended at 85 FR 65220, Oct. 15, 2020; 87 FR 8948, Feb. 17, 2022]

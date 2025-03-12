@@ -26,12 +26,12 @@
 
 (1) The Secretary shall forward the petition, citation, and any objections to the Commission within 10 working days after the expiration of the 15 working day period set out in paragraph (c)(4) of this section.
 
-(2) The Commission shall docket and process such petitions as expedited proceedings as provided for in § 2200.103 of this Part.
+(2) The Commission shall docket and process such petitions as expedited proceedings as provided for in § 2200.103 of this part.
 
-(3) An employer petitioning for a modification of the abatement period shall have the burden of proving in accordance with the requirements of section 10(c) of the Act, 29 U.S.C. 659(c), that such employer has made a good faith effort to comply with the abatement requirements of the citation and that abatement has not been completed because of factors beyond the employer's control.
+(3) An employer petitioning for a modification of the abatement period shall have the burden of proving in accordance with the requirements of section 10(c) of the Act, 29 U.S.C. 659(c), that such employer has made a good faith effort to comply with the abatement requirements of the citation and that abatement has not been completed because of factors beyond the employer's reasonable control.
 
 (4) Where the petitioner is a corporation, it shall file a separate declaration listing all parents, subsidiaries, and affiliates of that corporation or stating that the corporation has no parents, subsidiaries, or affiliates, whichever is applicable, within 10 working days after service of the Commission docketing notice of the petition for modification of the abatement date. Service of the filed declaration on the other parties and intervenors shall be accomplished in a manner prescribed in § 2200.7(c). The requirements set forth in § 2200.35(b) through (c) shall apply.
 
 (5) Each objecting party shall file a response setting forth the reasons for opposing the abatement date requested in the petition, within 10 working days after service of the Commission docketing notice of the petition for modification of the abatement date. Service of the response on the other parties and intervenors shall be accomplished in a manner prescribed in § 2200.7(c).
 
-[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019]
+[84 FR 14558, Apr. 10, 2019; 84 FR 53053, Oct. 4, 2019; as amended at 87 FR 8949, Feb. 17, 2022]

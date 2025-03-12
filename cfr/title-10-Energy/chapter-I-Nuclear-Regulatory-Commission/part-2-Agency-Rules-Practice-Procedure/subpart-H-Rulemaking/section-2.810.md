@@ -1,5 +1,7 @@
 ##### § 2.810 NRC size standards. #####
 
+Link to an amendment published at 87 FR 8946, Feb. 17, 2022.
+
 The NRC shall use the size standards contained in this section to determine whether a licensee qualifies as a small entity in its regulatory programs.
 
 (a) A small business is a for-profit concern and is a -

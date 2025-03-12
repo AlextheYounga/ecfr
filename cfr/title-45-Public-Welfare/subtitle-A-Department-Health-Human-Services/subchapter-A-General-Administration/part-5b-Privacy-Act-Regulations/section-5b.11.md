@@ -82,6 +82,8 @@
 
 (A) The Personnel Research and Merit Promotion Test Records, HHS/SSA/OMA.
 
+(B) [Reserved]
+
 (vii) Pursuant to subsections (k)(2) and (k)(5) of the Act:
 
 (A) Public Health Service Records Related to Investigations of Scientific Misconduct, HHS/OASH/ORI.
@@ -96,6 +98,16 @@
 
 (B) [Reserved]
 
+(3) The following systems of records are exempt from 5 U.S.C. 552a(c)(3) and § 5b.9(c)(3), which require a subject individual to be granted access to an accounting of disclosures of a record; and from 5 U.S.C. 552a(d)(1) through (4) and §§ 5b.5, 5b.7, and 5b.8, relating to notification of or access to records and correction or amendment of records.
+
+(i) Pursuant to subsection (k)(5) of the Privacy Act:
+
+(A) NIH Division of Loan Repayment Record System, 09-25-0165.
+
+(B) [Reserved]
+
+(ii) [Reserved]
+
 (c) *Notification of or access to records in exempt systems of records.* (1) Where a system of records is exempt as provided in paragraph (b) of this section, any individual may nonetheless request notification of or access to a record in that system. An individual shall make requests for notification of or access to a record in an exempt system of records in accordance with the procedures of §§ 5b.5 and 5b.6 of this part.
 
 (2) An individual will be granted notification of or access to a record in an exempt system but only to the extent such notification or access would not reveal the identity of a source who furnished the record to the Department under an express promise, and prior to September 27, 1975 an implied promise, that his identity would be held in confidence, if:
@@ -108,4 +120,4 @@
 
 (d) *Discretionary actions by the responsible Department official.* Unless disclosure of a record to the general public is otherwise prohibited by law, the responsible Department official may in his discretion grant notification of or access to a record in a system of records which is exempt under paragraph (b) of this section. Discretionary notification of or access to a record in accordance with this paragraph will not be a precedent for discretionary notification of or access to a similar or related record and will not obligate the responsible Department official to exercise his discretion to grant notification of or access to any other record in a system of records which is exempt under paragraph (b) of this section.
 
-[40 FR 47409, Oct. 8, 1975, as amended at 43 FR 40229, Sept. 11, 1978; 47 FR 57040, Dec. 22, 1982; 49 FR 14108, Apr. 10, 1984; 51 FR 41352, Nov. 14, 1986; 59 FR 36717, July 19, 1994; 65 FR 34988, June 1, 2000; 65 FR 37289, June 14, 2000; 68 FR 62751, Nov. 6, 2003; 73 FR 55775, Sept. 26, 2008; 76 FR 72327, Nov. 23, 2011; 78 FR 39186, 39188, July 1, 2013; 78 FR 47211, Aug. 5, 2013; 83 FR 14185, Apr. 3, 2018; 84 FR 14624, Apr. 11, 2019]
+[40 FR 47409, Oct. 8, 1975, as amended at 43 FR 40229, Sept. 11, 1978; 47 FR 57040, Dec. 22, 1982; 49 FR 14108, Apr. 10, 1984; 51 FR 41352, Nov. 14, 1986; 59 FR 36717, July 19, 1994; 65 FR 34988, June 1, 2000; 65 FR 37289, June 14, 2000; 68 FR 62751, Nov. 6, 2003; 73 FR 55775, Sept. 26, 2008; 76 FR 72327, Nov. 23, 2011; 78 FR 39186, 39188, July 1, 2013; 78 FR 47211, Aug. 5, 2013; 83 FR 14185, Apr. 3, 2018; 84 FR 14624, Apr. 11, 2019; 87 FR 8959, Feb. 17, 2022]

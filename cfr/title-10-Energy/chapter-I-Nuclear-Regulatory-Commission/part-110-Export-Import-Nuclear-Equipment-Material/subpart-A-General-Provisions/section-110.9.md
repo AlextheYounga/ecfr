@@ -1,7 +1,5 @@
 ##### § 110.9 List of Nuclear Material under NRC export licensing authority. #####
 
-Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
-
 (a) Special Nuclear Material.
 
 (b) Source Material.
