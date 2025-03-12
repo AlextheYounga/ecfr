@@ -1,5 +1,7 @@
 ##### § 178.609 Test requirements for packagings for infectious substances. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) Samples of each packaging must be prepared for testing as described in paragraph (b) of this section and then subjected to the tests in paragraphs (d) through (i) of this section.
 
 (b) Samples of each packaging must be prepared as for transport except that a liquid or solid infectious substance should be replaced by water or, where conditioning at −18 °C (0 °F) is specified, by water/antifreeze. Each primary receptacle must be filled to 98 percent capacity. Packagings for live animals should be tested with the live animal being replaced by an appropriate dummy of similar mass.

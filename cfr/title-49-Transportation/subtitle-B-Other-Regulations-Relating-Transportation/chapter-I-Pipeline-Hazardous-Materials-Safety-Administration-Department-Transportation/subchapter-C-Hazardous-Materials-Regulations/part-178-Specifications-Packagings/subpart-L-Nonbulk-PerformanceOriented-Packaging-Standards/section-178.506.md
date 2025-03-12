@@ -1,5 +1,7 @@
 ##### § 178.506 Standards for metal drums other than steel or aluminum. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) The following are the identification codes for metal drums other than steel or aluminum:
 
 (1) 1N1 for a non-removable head metal drum; and

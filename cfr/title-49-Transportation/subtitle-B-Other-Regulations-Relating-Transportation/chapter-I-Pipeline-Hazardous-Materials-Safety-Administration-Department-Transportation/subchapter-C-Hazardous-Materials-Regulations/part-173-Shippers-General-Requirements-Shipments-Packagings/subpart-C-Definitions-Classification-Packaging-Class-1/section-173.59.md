@@ -1,5 +1,7 @@
 ##### § 173.59 Description of terms for explosives. #####
 
+Link to an amendment published at 87 FR 44992, July 26, 2022.
+
 For the purpose of this subchapter, a description of the following terms is provided for information only. They must not be used for purposes of classification or to replace proper shipping names prescribed in § 172.101 of this subchapter.
 
 *Ammonium-nitrate - fuel oil mixture (ANFO).* A blasting explosive containing no essential ingredients other than prilled ammonium nitrate and fuel oil.

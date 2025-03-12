@@ -1,5 +1,7 @@
 ##### § 178.703 Marking of IBCs. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) The manufacturer shall:
 
 (1) Mark every IBC in a durable and clearly visible manner. The marking may be applied in a single line or in multiple lines provided the correct sequence is followed with the information required by this section in letters, numerals and symbols of at least 12 mm in height. This minimum marking size applies only to IBCs manufactured after October 1, 2001). The following information is required in the sequence presented:

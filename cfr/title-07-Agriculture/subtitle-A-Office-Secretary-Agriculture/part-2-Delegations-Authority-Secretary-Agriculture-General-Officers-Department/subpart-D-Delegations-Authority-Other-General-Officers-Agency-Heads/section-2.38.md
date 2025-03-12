@@ -36,23 +36,7 @@
 
 (xvi) Coordinate outreach to Asian Americans and Pacific Islanders.
 
-(2) Related to Indian tribes:
-
-(i) Serve as the Department's primary point of contact for tribal issues.
-
-(ii) Advise the Secretary on policies related to Indian tribes.
-
-(iii) Serve as the official with principal responsibility for the implementation of Executive Order 13175, “Consultation and Coordination with Indian Tribal Governments,” including the provision of Department-wide guidance and oversight regarding tribal consultation, coordination, and collaboration.
-
-(iv) Coordinate the Department's programs involving assistance to American Indians and Alaska Natives.
-
-(v) Enter into cooperative agreements to improve the coordination and effectiveness of Federal programs, services, and actions affecting rural areas (7 U.S.C. 2204b(b)(4)); and to provide outreach and technical assistance to socially disadvantaged farmers and ranchers and veteran farmers and ranchers (7 U.S.C. 2279(a)(3)).
-
-(vi) Consult with the Under Secretary for Trade and Foreign Agricultural Affairs on the implementation of section 3312 of the Agriculture Improvement Act of 2018 (7 U.S.C. 5608) to support greater inclusion of Tribal agricultural food products in Federal trade activities.
-
-(vii) In coordination with the Under Secretary for Rural Development, provide technical assistance to improve access by Tribal entities to rural development programs funded by the Department of Agriculture through available cooperative agreement authorities (7 U.S.C. 2671).
-
-(viii) Oversee the Tribal Advisory Committee (7 U.S.C. 6921).
+(2) [Reserved]
 
 (3) Oversee the Military Veterans Agricultural Liaison (7 U.S.C. 6919).
 
@@ -68,4 +52,4 @@
 
 (b) [Reserved]
 
-[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020]
+[83 FR 61312, Nov. 29, 2018, as amended at 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022]

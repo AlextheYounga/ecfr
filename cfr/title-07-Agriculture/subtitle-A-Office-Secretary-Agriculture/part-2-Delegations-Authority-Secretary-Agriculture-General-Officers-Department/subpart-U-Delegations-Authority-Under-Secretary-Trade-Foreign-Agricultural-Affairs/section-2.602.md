@@ -1,6 +1,6 @@
 ##### § 2.602 Manager, U.S. Codex Office. #####
 
-(a) *Delegations.* Pursuant to § 2.26(a)(5), subject to reservations in § 2.26(b), the following delegations of authority are made by the Under Secretary for Trade and Foreign Agricultural Affairs.
+(a) *Delegations.* Pursuant to § 2.15(a)(5), subject to reservations in § 2.15(b), the following delegations of authority are made by the Under Secretary for Trade and Foreign Agricultural Affairs.
 
 (i) Inform the public of the sanitary and phytosanitary standard-setting activities of the Codex Alimentarius Commission (19 U.S.C. 2578; Pres. Proc. 6780).
 
@@ -14,6 +14,8 @@
 
 (vi) Determine amounts reimbursable for indirect costs under international agricultural programs and agreements (7 U.S.C. 3319).
 
-(vii) Coordinate policy formulation for USDA international science and technology programs concerning the sanitary and phytosanitary standard-setting activities of the Codex Alimentarius Commission (7 U.S.C. 3291).
+(vii) Coordinate policy formulation for USDA international science and technology programs concerning the sanitary and phytosanitary standard-setting activities of the Codex Alimentar ius Commission (7 U.S.C. 3291).
 
 (b) [Reserved]
+
+[83 FR 22188, May 14, 2018, as amended at 87 FR 44272, July 26, 2022]

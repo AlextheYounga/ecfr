@@ -1,5 +1,7 @@
 ##### § 178.705 Standards for metal IBCs. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) The provisions in this section apply to metal IBCs intended to contain liquids and solids. Metal IBC types are designated:
 
 (1) 11A, 11B, 11N for solids that are loaded or discharged by gravity.

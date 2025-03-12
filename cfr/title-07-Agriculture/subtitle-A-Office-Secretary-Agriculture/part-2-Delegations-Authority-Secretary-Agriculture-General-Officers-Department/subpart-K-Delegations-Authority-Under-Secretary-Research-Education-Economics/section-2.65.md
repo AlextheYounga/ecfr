@@ -20,7 +20,7 @@
 
 (9) Conduct research on varietal improvement of wheat and feed grains to enhance their conservation and environmental qualities (7 U.S.C. 428b).
 
-(10) [Reserved]
+(10) Administer an experienced services program to obtain technical, professional, and administrative services to support the research, education, and economics mission area of the Department (16 U.S.C. 3851).
 
 (11) Enter into agreements with and receive funds from any State, other political subdivision, organization, or individual for the purpose of conducting cooperative research projects (7 U.S.C. 450a).
 
@@ -272,4 +272,4 @@
 
 (b) [Reserved]
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65520, Oct. 15, 2020]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65594, Dec. 15, 1997; 65 FR 5416, Feb. 4, 2000; 68 FR 27445, May 20, 2003; 74 FR 3409, Jan. 21, 2009; 75 FR 43381, July 23, 2010; 76 FR 4802, 4803, Jan. 27, 2011; 79 FR 44115, July 30, 2014; 83 FR 61314, Nov. 29, 2018; 85 FR 65520, Oct. 15, 2020; 87 FR 44270, July 26, 2022]

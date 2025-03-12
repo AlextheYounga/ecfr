@@ -1,5 +1,7 @@
 ##### § 178.3 Marking of packagings. #####
 
+Link to an amendment published at 87 FR 44277, July 26, 2022.
+
 (a) Each packaging represented as manufactured to a DOT specification or a UN standard must be marked on a non-removable component of the packaging with specification markings conforming to the applicable specification, and with the following:
 
 (1) In an unobstructed area, with letters, and numerals identifying the standards or specification (e.g. UN 1A1, DOT 4B240ET, etc.).

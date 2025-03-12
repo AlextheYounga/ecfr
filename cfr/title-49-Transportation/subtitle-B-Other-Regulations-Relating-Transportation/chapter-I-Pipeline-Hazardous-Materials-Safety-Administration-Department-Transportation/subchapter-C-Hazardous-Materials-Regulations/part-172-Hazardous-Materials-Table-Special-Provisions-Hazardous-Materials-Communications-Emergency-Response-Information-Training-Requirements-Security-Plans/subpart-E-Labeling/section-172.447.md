@@ -1,5 +1,7 @@
 ##### § 172.447 LITHIUM BATTERY label. #####
 
+Link to an amendment published at 87 FR 44991, July 26, 2022.
+
 (a) Except for size and color, the LITHIUM BATTERY label must be as follows:
 
 ![](/graphics/er30mr17.032.gif)

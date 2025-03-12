@@ -80,7 +80,7 @@
 
 (A) Administer cooperative agreements with respect to conservation programs;
 
-(B) Administer cooperative agreements, of less than $100,000, with nongovernmental organizations or educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Partnerships and Public Engagement to reduce potential duplication.
+(B) Administer cooperative agreements with Federal agencies, State, local, and tribal governments, nongovernmental organizations, and educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Partnerships and Public Engagement to reduce potential duplication.
 
 (xxix) Administer the feedstock flexibility program for bioenergy producers under section 9010 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8110) and the biomass crop assistance program under section 9011 of that Act (7 U.S.C. 8111).
 
@@ -470,4 +470,4 @@
 
 (4) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25775, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19900, Apr. 24, 1997; 62 FR 40253, July 28, 1997; 65 FR 12427, Mar. 9, 2000; 68 FR 27435, May 20, 2003; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3401, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44106, July 30, 2014; 80 FR 58336, Sept. 29, 2015; 83 FR 22179, May 14, 2018; 83 FR 61311, Nov. 29. 2018; 85 FR 65504, Oct. 15, 2020; 87 FR 44267, July 26, 2022]Editorial Note:At 87 FR 44267, July 26, 2022, § 2.16 was amended; however, the amendment to revise paragraph (a)(12) could not be incorporated due to inaccurate amendatory instruction.

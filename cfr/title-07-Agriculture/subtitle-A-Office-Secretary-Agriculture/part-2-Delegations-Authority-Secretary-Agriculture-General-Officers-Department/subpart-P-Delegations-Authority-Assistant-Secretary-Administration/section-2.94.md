@@ -1,6 +1,6 @@
 ##### § 2.94 Chief Security Director, Office of Safety, Security, and Protection. #####
 
-(a) *Delegations from the Assistant Secretary for Administration.* Pursuant to § 2.24(a)(8) and (9), and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Chief Security Director:
+(a) Delegations from the Assistant Secretary for Administration. Pursuant to § 2.24(a)(11), and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Chief Security Director:
 
 (1) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide. This includes the following activities:
 
@@ -22,4 +22,4 @@
 
 (b) [Reserved]
 
-[85 FR 65521, Oct. 15, 2020]
+[85 FR 65521, Oct. 15, 2020, as amended at 87 FR 44270, July 26, 2022]

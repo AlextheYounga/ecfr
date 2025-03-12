@@ -1,5 +1,7 @@
 ##### § 173.187 Pyrophoric solids, metals or alloys, n.o.s. #####
 
+Link to an amendment published at 87 FR 44994, July 26, 2022.
+
 Packagings for pyrophoric solids, metals, or alloys, n.o.s. must conform to the requirements of part 178 of this subchapter at the packing group performance level specified in the § 172.101 Table. These materials must be packaged as follows:
 
 (a) In steel, aluminum or other metal boxes (4A, 4B or 4N) and contain no more than 15 kg (33 pounds) each.

@@ -1,10 +1,10 @@
 ##### § 2.601 Administrator, Foreign Agricultural Service. #####
 
-(a) *Delegations.* Pursuant to § 2.26(a)(1) and (3), subject to reservations in § 2.26(b), the following delegations of authority are made by the Under Secretary for Trade and Foreign Agricultural Affairs to the Administrator, Foreign Agricultural Service:
+(a) *Delegations.* Pursuant to § 2.15(a)(1) and (3), subject to reservations in § 2.15(b), the following delegations of authority are made by the Under Secretary for Trade and Foreign Agricultural Affairs to the Administrator, Foreign Agricultural Service:
 
 (1) Coordinate the carrying out by Department agencies of their functions involving foreign agriculture policies and programs and their operations and activities in foreign areas. Act as liaison on these matters and functions relating to foreign agriculture between the Department of Agriculture and the Department of State, the United States Trade Representative, the Trade Policy Committee, the Agency for International Development and other departments, agencies and committees of the U.S. Government, foreign governments, the Organization for Economic Cooperation and Development, the European Union, the Food and Agriculture Organization of the United Nations, the International Bank for Reconstruction and Development, the Inter-American Development Bank, the Organization of American States, and other public and private United States and international organizations, and the contracting parties to the World Trade Organization (WTO).
 
-(2) Conduct functions of the Department relating to WTO, the Trade Expansion Act of 1962 (19 U.S.C. 1801 *et seq.*), the Trade Act of 1974 (19 U.S.C. 2101 *et seq.*), the Trade Agreements Act of 1979 (19 U.S.C. 2501 *et seq.*), the Omnibus Trade and Competition Act of 1988 (19 U.S.C. 2901 *et seq.*), the provisions of subtitle B of title III of the North American Free Trade Agreement Implementation Act (except the provisions concerning the end-use certificate system authorized pursuant to section 321(f) of that Act (19 U.S.C. 3391(f)) delegated to the Administrator, Farm Service Agency), and other legislation affecting international agricultural trade including the programs designed to reduce foreign tariffs and other trade barriers.
+(2) Conduct functions of the Department relating to WTO, the Trade Expansion Act of 1962 (19 U.S.C. 1801 *et seq.*), the Trade Act of 1974 (19 U.S.C. 2101 *et seq.*), the Trade Agreements Act of 1979 (19 U.S.C. 2501 *et seq.*), the Omnibus Trade and Competition Act of 1988 (19 U.S.C. 2901 *et seq.*), and other legislation affecting international agricultural trade including the programs designed to reduce foreign tariffs and other trade barriers.
 
 (3) Conduct studies of worldwide production, trade, marketing, prices, consumption, and other factors affecting exports and imports of U.S. agricultural commodities; obtain information on methods used by other countries to move farm commodities in world trade on a competitive basis for use in the development of programs of this Department; provide information to domestic producers, the agricultural trade, the public and other interests; and promote normal commercial markets abroad. This delegation excludes basic and long-range analyses of world conditions and developments affecting supply, demand, and trade in farm products and general economic analyses of the international financial and monetary aspects of agricultural affairs as assigned to the Under Secretary for Research, Education, and Economics.
 
@@ -114,4 +114,4 @@
 
 (b) [Reserved]
 
-[83 FR 22188, May 14, 2018, as amended at 85 FR 65524, Oct. 15, 2020]
+[83 FR 22188, May 14, 2018, as amended at 85 FR 65524, Oct. 15, 2020; 87 FR 44272, July 26, 2022]

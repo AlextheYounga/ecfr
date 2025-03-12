@@ -22,6 +22,8 @@
 
 (8) Exercise responsibility for coordinating and overseeing the implementation of the Government Performance and Results Act of 1993, Public Law 103-62, and the GPRA Modernization Act of 2010, Public Law 111-352, at the Department.
 
+(9) Administer the Departmental forms, reports, and directives management programs.
+
 (b) The following authority is reserved to the Secretary of Agriculture: Final approval of the Department's program and financial plans.
 
-[79 FR 44111, July 30, 2014]
+[79 FR 44111, July 30, 2014, as amended at 87 FR 44269, July 26, 2022]

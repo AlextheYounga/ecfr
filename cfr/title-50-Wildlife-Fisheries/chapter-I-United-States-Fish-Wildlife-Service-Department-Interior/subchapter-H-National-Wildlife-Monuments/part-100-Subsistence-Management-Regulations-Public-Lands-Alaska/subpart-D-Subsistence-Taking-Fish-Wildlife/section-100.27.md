@@ -76,17 +76,17 @@
 
 (11) *Transactions between rural residents.* Rural residents may exchange in customary trade subsistence-harvested fish, their parts, or their eggs, legally taken under the regulations in this part, for cash from other rural residents. The Board may recognize regional differences and regulates customary trade differently for separate regions of the State.
 
-(i) Bristol Bay Fishery Management Area - The total cash value per household of salmon taken within Federal jurisdiction in the Bristol Bay Fishery Management Area and exchanged in customary trade to rural residents may not exceed $500.00 annually.
+(i) Bristol Bay Fishery Management Area—The total cash value per household of salmon taken within Federal jurisdiction in the Bristol Bay Fishery Management Area and exchanged in customary trade to rural residents may not exceed $500.00 annually.
 
-(ii) Upper Copper River District - The total number of salmon per household taken within the Upper Copper River District and exchanged in customary trade to rural residents may not exceed 50 percent of the annual harvest of salmon by the household. No more than 50 percent of the annual household limit may be sold under paragraphs (b)(11) and (12) of this section when taken together. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rests with the seller.
+(ii) Upper Copper River District—The total number of salmon per household taken within the Upper Copper River District and exchanged in customary trade to rural residents may not exceed 50 percent of the annual harvest of salmon by the household. No more than 50 percent of the annual household limit may be sold under paragraphs (b)(11) and (12) of this section when taken together. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rests with the seller.
 
 (iii) Customary trade of Yukon River Chinook salmon may only occur between Federally qualified rural residents with a current customary and traditional use determination for Yukon River Chinook salmon.
 
 (12) *Transactions between a rural resident and others.* In customary trade, a rural resident may exchange fish, their parts, or their eggs, legally taken under the regulations in this part, for cash from individuals other than rural residents if the individual who purchases the fish, their parts, or their eggs uses them for personal or family consumption. If you are not a rural resident, you may not sell fish, their parts, or their eggs taken under the regulations in this part. The Board may recognize regional differences and regulates customary trade differently for separate regions of the State.
 
-(i) Bristol Bay Fishery Management Area - The total cash value per household of salmon taken within Federal jurisdiction in the Bristol Bay Fishery Management Area and exchanged in customary trade between rural residents and individuals other than rural residents may not exceed $400.00 annually. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rest with the seller.
+(i) Bristol Bay Fishery Management Area—The total cash value per household of salmon taken within Federal jurisdiction in the Bristol Bay Fishery Management Area and exchanged in customary trade between rural residents and individuals other than rural residents may not exceed $400.00 annually. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rest with the seller.
 
-(ii) Upper Copper River District - The total cash value of salmon per household taken within the Upper Copper River District and exchanged in customary trade between rural residents and individuals other than rural residents may not exceed $500.00 annually. No more than 50 percent of the annual household limit may be sold under paragraphs (b)(11) and (12) of this section when taken together. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rest with the seller.
+(ii) Upper Copper River District—The total cash value of salmon per household taken within the Upper Copper River District and exchanged in customary trade between rural residents and individuals other than rural residents may not exceed $500.00 annually. No more than 50 percent of the annual household limit may be sold under paragraphs (b)(11) and (12) of this section when taken together. These customary trade sales must be immediately recorded on a customary trade recordkeeping form. The recording requirement and the responsibility to ensure the household limit is not exceeded rest with the seller.
 
 (iii) Customary trade of Yukon River Chinook salmon may only occur between Federally qualified rural residents with a current customary and traditional use determination for Yukon River Chinook salmon.
 
@@ -446,9 +446,9 @@ If you take rainbow/steelhead trout incidentally in other subsistence net fisher
 
 (iii) You may not subsistence fish for salmon in the following locations:
 
-(A) Womens Bay closed waters - All waters inside a line from the tip of the Nyman Peninsula (57°43.23′ North latitude, 152°31.51′ West longitude), to the northeastern tip of Mary's Island (57°42.40′ North latitude, 152°32.00′ West longitude), to the southeastern shore of Womens Bay at 57°41.95′ North latitude, 152°31.50′ West longitude.
+(A) Womens Bay closed waters—All waters inside a line from the tip of the Nyman Peninsula (57°43.23′ North latitude, 152°31.51′ West longitude), to the northeastern tip of Mary's Island (57°42.40′ North latitude, 152°32.00′ West longitude), to the southeastern shore of Womens Bay at 57°41.95′ North latitude, 152°31.50′ West longitude.
 
-(B) Buskin River closed waters - All waters inside of a line running from a marker on the bluff north of the mouth of the Buskin River at approximately 57°45.80′ North latitude, 152°28.38′ West longitude, to a point offshore at 57°45.35′ North latitude, 152°28.15′ West longitude, to a marker located onshore south of the river mouth at approximately 57°45.15′ North latitude, 152°28.65′ West longitude.
+(B) Buskin River closed waters—All waters inside of a line running from a marker on the bluff north of the mouth of the Buskin River at approximately 57°45.80′ North latitude, 152°28.38′ West longitude, to a point offshore at 57°45.35′ North latitude, 152°28.15′ West longitude, to a marker located onshore south of the river mouth at approximately 57°45.15′ North latitude, 152°28.65′ West longitude.
 
 (C) All waters closed to commercial salmon fishing within 100 yards of the terminus of Selief Bay Creek.
 
@@ -655,13 +655,13 @@ Table 6 to Paragraph (e)(10)
 
 Table 7 to Paragraph (e)(10)
 
-|                  Species                   |Number of  <br/>fish allowed  <br/>for each  <br/>permit  <br/>holder|Additional  <br/>fish allowed  <br/>for each  <br/>household  <br/>member|                                         Additional provisions                                          |
-|--------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-|               Sockeye salmon               |                                 25                                  |                                    5                                    |      Chum salmon that are retained are to be included within the annual limit for sockeye salmon.      |
-| Chinook salmon - (July 1 through July 15)  |                                  2                                  |                                    1                                    |For the Kenai River community gillnet fishery described under paragraph (e)(10)(iii)(B) of this section.|
-|Chinook salmon - (July 16 through August 31)|                                 10                                  |                                    2                                    |                                                                                                        |
-|                Coho salmon                 |                                 20                                  |                                    5                                    |                                                                                                        |
-|                Pink salmon                 |                                 15                                  |                                    5                                    |                                                                                                        |
+|                  Species                  |Number of  <br/>fish allowed  <br/>for each  <br/>permit  <br/>holder|Additional  <br/>fish allowed  <br/>for each  <br/>household  <br/>member|                                         Additional provisions                                          |
+|-------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+|              Sockeye salmon               |                                 25                                  |                                    5                                    |      Chum salmon that are retained are to be included within the annual limit for sockeye salmon.      |
+| Chinook salmon— (July 1 through July 15)  |                                  2                                  |                                    1                                    |For the Kenai River community gillnet fishery described under paragraph (e)(10)(iii)(B) of this section.|
+|Chinook salmon— (July 16 through August 31)|                                 10                                  |                                    2                                    |                                                                                                        |
+|                Coho salmon                |                                 20                                  |                                    5                                    |                                                                                                        |
+|                Pink salmon                |                                 15                                  |                                    5                                    |                                                                                                        |
 
 (A) *Kenai River dip net or rod and reel; salmon.* (*1*) You may take only sockeye salmon through a dip net or rod and reel fishery at one specified site on the Russian River.
 
@@ -739,11 +739,11 @@ Table 9 to Paragraph (e)(10)
 
 Table 10 to Paragraph (e)(10)
 
-|                  Species                   |                   Size                    |                                                                                                          Limits                                                                                                           |
-|--------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|Chinook salmon - (January 1 through July 15)|Less than 46 inches or 55 inches and longer|                                                                                              2 per day and 2 in possession.                                                                                               |
-|Chinook salmon - (July 16 through August 31)|           20 inches and longer            |                                                                                              2 per day and 2 in possession.                                                                                               |
-|              All other salmon              |           16 inches and longer            |6 per day and 6 in possession, of which no more than 4 per day and 4 in possession may be Coho salmon, except for the Sanctuary Area and Russian River where no more than 2 per day and 2 in possession may be Coho salmon.|
+|                  Species                  |                   Size                    |                                                                                                          Limits                                                                                                           |
+|-------------------------------------------|-------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|Chinook salmon— (January 1 through July 15)|Less than 46 inches or 55 inches and longer|                                                                                              2 per day and 2 in possession.                                                                                               |
+|Chinook salmon— (July 16 through August 31)|           20 inches and longer            |                                                                                              2 per day and 2 in possession.                                                                                               |
+|             All other salmon              |           16 inches and longer            |6 per day and 6 in possession, of which no more than 4 per day and 4 in possession may be Coho salmon, except for the Sanctuary Area and Russian River where no more than 2 per day and 2 in possession may be Coho salmon.|
 
 (*i*) In the Kenai River below Skilak Lake, fishing is allowed with up to two baited single or treble hooks June 15 through August 31.
 
@@ -778,7 +778,7 @@ Table 12 to Paragraph (e)(10)
 |Rainbow or steelhead trout | In flowing waters |             For fish less than 16 inches in length, 1 per day and 1 in possession.              |
 |                           |In lakes and ponds |2 per day and 2 in possession, of which only one fish 20 inches or longer may be harvested daily.|
 
-(11) *Prince William Sound Area.* The Prince William Sound Area includes all waters and drainages of Alaska between the longitude of Cape Fairfield and the longitude of Cape Suckling.
+(11) *Prince William Sound Area.* The Prince William Sound Area includes all waters and drainages of Alaska between the longitude of Cape Fairfield and the longitude of Cape Suckling. The Lower Copper River Area includes that portion of the Copper River, from a boundary one-half mile upstream of the Copper River Highway to a boundary extending one-half mile downstream of the Copper River Highway, from the west bank of the river near highway mile 27 to the east bank of the river near highway mile 38.
 
 (i) You may take fish, other than rainbow/steelhead trout, in the Prince William Sound Area only under authority of a subsistence fishing permit, except that a permit is not required to take eulachon. You make not take rainbow/steelhead trout, except as otherwise provided for in this paragraph (e)(11).
 
@@ -790,9 +790,13 @@ Table 12 to Paragraph (e)(10)
 
 (iii) If you catch rainbow/steelhead trout incidentally in other subsistence net fisheries, you may retain them for subsistence purposes, unless restricted in this section.
 
-(iv) In the Copper River drainage, you may take salmon only in the waters of the Upper Copper River District, or in the vicinity of the Native Village of Batzulnetas.
+(iv) In the Copper River drainage, you may take salmon only in the waters of the Upper Copper River District or in the vicinity of the Native Village of Batzulnetas and in the Lower Copper River Area.
 
-(v) In the Upper Copper River District, you may take salmon only by fish wheels, rod and reel, or dip nets.
+(v) In the Upper Copper River District, you may take salmon only by fish wheels, rod and reel, or dip nets. In the Lower Copper River Area, you may take salmon only by dip nets and rod and reel. All salmon retained from the Lower Copper River Area must be reported to area managers within 48 hours of harvest.
+
+(A) In the Lower Copper River Area, you may not dip net from a boat.
+
+(B) In the Lower Copper River Area, the salmon fishery opens on June 1 and closes on September 30.
 
 (vi) Rainbow/steelhead trout and other freshwater fish caught incidentally to salmon by fish wheel in the Upper Copper River District may be retained.
 
@@ -882,23 +886,23 @@ Table 12 to Paragraph (e)(10)
 
 (B) Waters north of a line from Porcupine Point to Granite Point, and south of a line from Point Lowe to Tongue Point.
 
-(xvii) In the Chugach National Forest portion of the Prince William Sound Area, you must possess a Federal subsistence fishing permit to take salmon, trout, whitefish, grayling, Dolly Varden, or char. Permits are available from the Cordova Ranger District.
+(xvii) In the Chugach National Forest portion of the Prince William Sound Area, and the Lower Copper River Area, you must possess a Federal subsistence fishing permit to take salmon, trout, whitefish, grayling, Dolly Varden, or char. Permits are available from the Cordova Ranger District.
 
-(A) Salmon harvest is not allowed in Eyak Lake and its tributaries, Copper River and its tributaries, and Eyak River upstream from the Copper River Highway bridge.
+(A) Salmon harvest is not allowed in Eyak Lake and its tributaries, the remainder of the Copper River and its tributaries outside of the Lower Copper River Area, and Eyak River upstream from the Copper River Highway Bridge.
 
-(B) You must record on your subsistence permit the number of subsistence fish taken. You must record all harvested fish prior to leaving the fishing site, and return the permit by the due date marked on the permit.
+(B) You must record on your subsistence permit the number of subsistence fish taken. You must record all harvested fish prior to leaving the fishing site and return the permit by the due date marked on the permit.
 
 (C) You must remove both lobes of the caudal (tail) fin from subsistence-caught salmon before leaving the fishing site.
 
-(D) You may take salmon by rod and reel, dip net, spear, and gaff year round.
+(D) Excluding the areas described in paragraph (e)(11)(xvii)(A) of this section, you may take salmon by rod and reel, dip net, spear, and gaff year-round.
 
-(E) For a household with 1 person, 15 salmon (other than pink) may be taken, and 5 cutthroat trout, with only 2 over 20 inches, may be taken; for pink salmon, see the conditions of the permit.
+(E) For a household with 1 person, 15 salmon (other than pink) may be taken, and 5 cutthroat trout, with only 2 over 20 inches, may be taken; no more than 5 Chinook salmon per household; for pink salmon, see the conditions of the permit.
 
-(F) For a household with 2 persons, 30 salmon (other than pink) may be taken, plus an additional 10 salmon for each additional person in a household over 2 persons, and 5 cutthroat trout, with only 2 over 20 inches per each household member with a maximum household limit of 30 cutthroat trout may be taken; for pink salmon, see the conditions of the permit.
+(F) For a household with 2 persons, 30 salmon (other than pink) may be taken, plus an additional 10 salmon for each additional person in a household over 2 persons, and 5 cutthroat trout, with only 2 over 20 inches per each household member with a maximum household limit of 30 cutthroat trout may be taken; no more than 5 Chinook salmon per household; for pink salmon, see the conditions of the permit.
 
-(G) You may take Dolly Varden, Arctic char, whitefish, and grayling with rod and reel and spear year round and with a gillnet from January 1-April 1. The maximum incidental gillnet harvest of trout is 10.
+(G) You may take Dolly Varden, Arctic char, whitefish, and grayling with rod and reel and spear year-round and with a gillnet from January 1 to April 1. The maximum incidental gillnet harvest of trout is 10.
 
-(H) You may take cutthroat trout with rod and reel and spear from June 15 to April 14th and with a gillnet from January 1 to April 1.
+(H) You may take cutthroat trout with rod and reel and spear from June 15 to April 14 and with a gillnet from January 1 to April 1.
 
 (I) You may not retain rainbow/steelhead trout for subsistence unless taken incidentally in a subsistence gillnet fishery. Rainbow/steelhead trout must be immediately released from a dip net without harm.
 
@@ -998,4 +1002,4 @@ Table 12 to Paragraph (e)(10)
 
 (xxii) Only federally qualified subsistence users may harvest sockeye salmon in Neva Lake, Neva Creek, and South Creek.
 
-[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018; 84 FR 39191, Aug. 9, 2019; 84 FR 39748, Aug. 12, 2019; 86 FR 17717, Apr. 6, 2021]
+[78 FR 19112, Mar. 29, 2013, as amended at 80 FR 28192, May 18, 2015; 83 FR 3084, Jan. 23, 2018; 84 FR 39191, Aug. 9, 2019; 84 FR 39748, Aug. 12, 2019; 86 FR 17717, Apr. 6, 2021; 87 FR 44894, July 26, 2022]

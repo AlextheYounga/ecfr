@@ -158,9 +158,7 @@
 
 (iii) Enter into contracts with private sector attorneys for the conduct of litigation, with the concurrence of the General Counsel, after determining that the attorneys will provide competent and cost effective representation for the Farm Service Agency.
 
-(41) [Reserved]
-
-(42) Administer the provisions concerning the end-use certificate system authorized pursuant to section 301(f) of the North American Free Trade Implementation Act (19 U.S.C. 3391(f)).
+(41)-(42) [Reserved]
 
 (43) Determine the type and quantity of commodities that are available for programming under section 416(b) of the Agricultural Act of 1949 (7 U.S.C. 1431(b)), and the Food for Progress Act of 1985 (7 U.S.C. 1736o), and arrange for the processing, packaging, transportation, handling and delivery to port of such commodities in connection therewith.
 
@@ -184,7 +182,7 @@
 
 (i) Administer cooperative agreements with respect to conservation programs;
 
-(ii) Administer cooperative agreements, of less than $100,000, with nongovernmental organizations or educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Advocacy and Outreach to reduce potential duplication.
+(ii) Administer cooperative agreements with Federal agencies, State, local, and tribal governments, nongovernmental organizations, and educational institutions related to outreach and technical assistance for programs carried out by the Farm Service Agency, and, where such cooperative agreements focus on outreach activities to beginning, underserved, or veteran producers, coordinate with the Director, Office of Advocacy and Outreach to reduce potential duplication.
 
 (51) Administer the feedstock flexibility program for bioenergy producers under section 9010 of the Farm Security and Rural Investment Act of 2002 (7 U.S.C. 8110) and the biomass crop assistance program under section 9011 of that Act (7 U.S.C. 8111).
 
@@ -248,4 +246,4 @@
 
 (2) Making and issuing notes to the Secretary of the Treasury for the purposes of the Agricultural Credit Insurance Fund as authorized by the Consolidated Farm and Rural Development Act (7 U.S.C. 1929).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018; 85 FR 65514, Oct. 15, 2020]
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 37552, July 18, 1996; 62 FR 1031, Jan. 8, 1997; 62 FR 19901, Apr. 24, 1997; 68 FR 27443, May 20, 2003; 69 FR 34254, June 21, 2004; 71 FR 35491, June 21, 2006; 71 FR 51421, Aug. 30, 2006; 74 FR 3406, Jan. 21, 2009; 75 FR 43380, July 23, 2010; 78 FR 40938, July 9, 2013; 79 FR 44112, July 30, 2014; 80 FR 58338, Sept. 29, 2015; 83 FR 22184, May 14, 2018; 83 FR 61313, Nov. 29, 2018; 85 FR 65514, Oct. 15, 2020; 87 FR 44269, July 26, 2022]

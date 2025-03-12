@@ -1,5 +1,7 @@
 ##### § 173.199 Category B infectious substances. #####
 
+Link to an amendment published at 87 FR 44994, July 26, 2022.
+
 (a) *Category B infectious substances.* Except as provided in this paragraph (a), Category B infectious substances are excepted from all other requirements of this subchapter when offered for transportation or transported in accordance with this section. Category B infectious substances offered for transportation or transported under the provisions of this section are subject to the incident reporting requirements in §§ 171.15 and 171.16 of this subchapter and to the requirements in § 175.75(b) of this subchapter concerning cargo location. Except as provided in paragraph (a)(9) of this section, a Category B infectious substance meeting the definition of a hazard class other than Division 6.2 must be offered for transportation or transported in accordance with applicable requirements of this subchapter.
 
 (1) A Category B infectious substance must be packaged in a triple packaging consisting of a primary receptacle, a secondary packaging, and a rigid outer packaging.

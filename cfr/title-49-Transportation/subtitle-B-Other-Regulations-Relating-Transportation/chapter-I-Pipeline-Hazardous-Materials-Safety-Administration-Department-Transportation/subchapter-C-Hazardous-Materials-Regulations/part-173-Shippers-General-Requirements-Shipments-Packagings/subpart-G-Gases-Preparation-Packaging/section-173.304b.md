@@ -1,5 +1,7 @@
 ##### § 173.304b Additional requirements for shipment of liquefied compressed gases in UN pressure receptacles. #####
 
+Link to an amendment published at 87 FR 44997, July 26, 2022.
+
 (a) *General.* Liquefied gases and gas mixtures must be offered for transportation in UN pressure receptacles subject to the requirements in this section and § 173.304. In addition, the general requirements applicable to UN pressure receptacles in §§ 173.301 and 173.301b must be met.
 
 (b) *UN pressure receptacle filling limits.* A UN pressure receptacle is authorized for the transportation of liquefied compressed gases and gas mixtures as specified in this section. When a liquefied compressed gas or gas mixture is transported in a UN pressure receptacle, the filling ratio may not exceed the maximum filling ratio prescribed in this section and the applicable ISO standard. Compliance with the filling limits may be determined by referencing the numerical values and data in Table 2 of P200 of the UN Recommendations (IBR, see § 171.7 of this subchapter). Alternatively, the maximum allowable filling limits may be determined as follows:

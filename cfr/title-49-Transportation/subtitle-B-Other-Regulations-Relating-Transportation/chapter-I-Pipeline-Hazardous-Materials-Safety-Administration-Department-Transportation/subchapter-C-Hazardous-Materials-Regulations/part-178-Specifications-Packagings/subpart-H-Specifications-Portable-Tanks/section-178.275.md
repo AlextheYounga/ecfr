@@ -1,5 +1,7 @@
 ##### § 178.275 Specification for UN Portable Tanks intended for the transportation of liquid and solid hazardous materials. #####
 
+Link to an amendment published at 87 FR 44999, July 26, 2022.
+
 (a) In addition to the requirements of § 178.274, this section sets forth definitions and requirements that apply to UN portable tanks intended for the transportation of liquid and solid hazardous materials.
 
 (b) *Definitions and requirements* - (1) *Design pressure* means the pressure to be used in calculations required by the recognized pressure vessel code. The design pressure must not be less than the highest of the following pressures:

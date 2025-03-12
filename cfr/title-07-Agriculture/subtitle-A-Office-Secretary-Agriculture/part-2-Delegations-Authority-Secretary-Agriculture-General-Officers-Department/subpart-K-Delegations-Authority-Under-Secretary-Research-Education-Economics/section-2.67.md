@@ -16,7 +16,7 @@
 
 (v) Rural people and communities, as authorized by title II of the Agricultural Marketing Act of 1946, as amended (7 U.S.C. 1621-1627), and the Act of June 29, 1935, as amended (7 U.S.C. 427).
 
-(3) [Reserved]
+(3) Administer an experienced services program to obtain technical, professional, and administrative services to support the research, education, and economics mission area of the Department (16 U.S.C. 3851).
 
 (4) Investigate and make findings as to the effect upon the production of food and upon the agricultural economy of any proposed action pending before the Administrator of the Environmental Protection Agency for presentation in the public interest, before said Administrator, other agencies, or before the courts.
 
@@ -66,4 +66,4 @@
 
 (b) *Reservation.* The following authority is reserved to the Under Secretary for Research, Education, and Economics: Review all proposed decisions having substantial economic policy implications.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65596, Dec. 15, 1997; 64 FR 40736, July 28, 1999; 65 FR 5418, Feb. 4, 2000; 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 79 FR 44116, July 30, 2014]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 65596, Dec. 15, 1997; 64 FR 40736, July 28, 1999; 65 FR 5418, Feb. 4, 2000; 68 FR 27446, May 20, 2003; 74 FR 3410, Jan. 21, 2009; 79 FR 44116, July 30, 2014; 87 FR 44270, July 26, 2022]

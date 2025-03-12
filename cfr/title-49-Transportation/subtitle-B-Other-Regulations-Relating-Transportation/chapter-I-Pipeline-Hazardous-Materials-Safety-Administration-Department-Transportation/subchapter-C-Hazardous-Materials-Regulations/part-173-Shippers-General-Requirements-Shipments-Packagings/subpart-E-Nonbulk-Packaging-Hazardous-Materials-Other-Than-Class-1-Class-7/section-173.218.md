@@ -1,5 +1,7 @@
 ##### § 173.218 Fish meal or fish scrap. #####
 
+Link to an amendment published at 87 FR 44994, July 26, 2022.
+
 (a) Except as provided in Column (7) of the HMT in § 172.101 of this subchapter, fish meal or fish scrap, containing at least 6%, but not more than 12% water, is authorized for transportation by vessel only when packaged as follows:
 
 (1) Burlap (jute) bag;

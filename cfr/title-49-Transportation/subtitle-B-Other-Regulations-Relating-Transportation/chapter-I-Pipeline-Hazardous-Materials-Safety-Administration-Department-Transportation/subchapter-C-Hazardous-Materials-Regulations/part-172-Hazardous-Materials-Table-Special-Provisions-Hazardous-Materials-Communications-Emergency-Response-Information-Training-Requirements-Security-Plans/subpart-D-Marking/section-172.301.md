@@ -1,5 +1,7 @@
 ##### § 172.301 General marking requirements for non-bulk packagings. #####
 
+Link to an amendment published at 87 FR 44990, July 26, 2022.
+
 (a) *Proper shipping name and identification number.* (1) Except as otherwise provided by this subchapter, each person who offers a hazardous material for transportation in a non-bulk packaging must mark the package with the proper shipping name and identification number (preceded by “UN”, “NA” or “ID,” as appropriate) for the material as shown in the § 172.101 Hazardous Materials Table. The identification number marking preceded by “UN”, “NA”, or “ID” as appropriate must be marked in characters at least 12 mm (0.47 inches) high. Packages with a maximum capacity of 30 liters (8 gallons) or less, 30 kg (66 pounds) maximum net mass, or cylinders with a water capacity of 60 liters (16 gallons) or less must be marked with characters at least 6 mm (0.24 inches) high. Packages with a maximum capacity of 5 liters (1.32 gallons) or 5 kg (11 pounds) or less must be marked in a size appropriate for the size of the package.
 
 (i) *Transitional exception.* For domestic transportation, until January 1, 2017, the identification number markings are not subject to the minimum size requirements specified in this paragraph (a)(1).

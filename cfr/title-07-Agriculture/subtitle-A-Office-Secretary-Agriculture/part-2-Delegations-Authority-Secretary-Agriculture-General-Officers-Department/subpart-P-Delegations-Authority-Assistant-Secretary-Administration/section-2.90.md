@@ -1,6 +1,6 @@
-##### § 2.90 Director, Office of Property and Fleet Management. #####
+##### § 2.90 Director, Office of Property and Environmental Management. #####
 
-(a) *Delegations.* Pursuant to § 2.24(a)(6) of this chapter, and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Property and Fleet Management:
+(a) *Delegations.* Pursuant to § 2.24(a)(6) of this chapter, and with due deference for delegations to other Departmental Administration officials, the following delegations of authority are made by the Assistant Secretary for Administration to the Director, Office of Property and Environmental Management:
 
 (1) Promulgate policies, standards, techniques, and procedures, and represent the Department, in the following:
 

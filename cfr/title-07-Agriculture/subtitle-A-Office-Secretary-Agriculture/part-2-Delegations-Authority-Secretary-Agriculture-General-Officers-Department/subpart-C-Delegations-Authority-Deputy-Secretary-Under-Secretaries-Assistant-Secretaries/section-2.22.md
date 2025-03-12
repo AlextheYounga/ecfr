@@ -38,7 +38,7 @@
 
 (G) Agricultural Marketing Agreement Act of 1937, as amended (7 U.S.C. 601, 602, 608a-608e, 610, 612, 614, 624, 671-674);
 
-(H) Cotton Research and Promotion Act (7 U.S.C. 2101-2118), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(H) Cotton Research and Promotion Act (7 U.S.C. 2101-2118), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (I) Export Apple and Pear Act (7 U.S.C. 581-590);
 
@@ -58,21 +58,21 @@
 
 (Q) Agricultural Fair Practices Act (7 U.S.C. 2301-2306);
 
-(R) Wheat Research and Promotion Act (7 U.S.C. 1292 note), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(R) Wheat Research and Promotion Act (7 U.S.C. 1292 note), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (S) Plant Variety Protection Act (7 U.S.C. 2321-2331, 2351-2357, 2371-2372, 2401-2404, 2421-2427, 2441-2443, 2461-2463, 2481-2486, 2501-2504, 2531-2532, 2541-2545, 2561-2569, 2581-2583), except as delegated to the Judicial Officer;
 
-(T) Subtitle B of title I and section 301(4) of the Dairy and Tobacco Adjustment Act of 1983 (7 U.S.C. 4501-4513, 4514(4)), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(T) Subtitle B of title I and section 301(4) of the Dairy and Tobacco Adjustment Act of 1983 (7 U.S.C. 4501-4513, 4514(4)), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(U) Potato Research and Promotion Act (7 U.S.C. 2611-2627), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(U) Potato Research and Promotion Act (7 U.S.C. 2611-2627), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (V) [Reserved]
 
-(W) Egg Research and Consumer Information Act (7 U.S.C. 2701-2718), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(W) Egg Research and Consumer Information Act (7 U.S.C. 2701-2718), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (X) Beef Research and Information Act, as amended (7 U.S.C. 2901-2918), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in §§ 2.26(a)(1)(xiv) and (a)(3)(x);
 
-(Y) Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(Y) Wheat and Wheat Foods Research and Nutrition Education Act (7 U.S.C. 3401-3417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (Z) Egg Products Inspection Act relating to the Shell Egg Surveillance Program, voluntary laboratory analyses of egg products, and the Voluntary Egg Grading Program (21 U.S.C. 1031-1056);
 
@@ -84,30 +84,30 @@
 
 (DD)Act of May 23, 1980, regarding inspection of dairy products for export (21 U.S.C. 693);
 
-(EE) The Pork Promotion, Research and Consumer Information Act of 1985 (7 U.S.C. 4801-4819), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x));
+(EE) The Pork Promotion, Research and Consumer Information Act of 1985 (7 U.S.C. 4801-4819), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x));
 
-(FF) The Watermelon Research and Promotion Act (7 U.S.C. 4901-4916), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(FF) The Watermelon Research and Promotion Act (7 U.S.C. 4901-4916), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(GG) The Honey Research, Promotion, and Consumer Information Act (7 U.S.C. 4601-4612), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(GG) The Honey Research, Promotion, and Consumer Information Act (7 U.S.C. 4601-4612), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (HH) Subtitles B and C of the Dairy Production Stabilization Act of 1983, as amended (7 U.S.C. 4501-4513, 4531-4538);
 
-(II) The Floral Research and Consumer Information Act (7 U.S.C. 4301-4319), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(II) The Floral Research and Consumer Information Act (7 U.S.C. 4301-4319), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
 (JJ) Section 213 of the Tobacco Adjustment Act of 1983, as amended (7 U.S.C. 511r);
 
 (KK) National Laboratory Accreditation Program (7 U.S.C. 138-138i) with respect to laboratories accredited for pesticide residue analysis in fruits and vegetables and other agricultural commodities, except those laboratories analyzing only meat and poultry products;
 
 (LL) Pecan Promotion and Research Act of 1990 (7 U.S.C. 6001-6013), except as delegated to the
-Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(MM) Mushroom Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6101-6112), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(MM) Mushroom Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6101-6112), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(NN) Lime Research, Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6201-6212), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairsin § 2.26(a)(1)(x);
+(NN) Lime Research, Promotion, Research, and Consumer Information Act of 1990 (7 U.S.C. 6201-6212), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairsin § 2.15(a)(1)(x);
 
-(OO) Soybean Promotion, Research, and Consumer Information Act (7 U.S.C. 6301-6311), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(OO) Soybean Promotion, Research, and Consumer Information Act (7 U.S.C. 6301-6311), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.215(a)(1)(x);
 
-(PP) Fluid Milk Promotion Act of 1990 (7 U.S.C. 6401-6417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(PP) Fluid Milk Promotion Act of 1990 (7 U.S.C. 6401-6417), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.215(a)(1)(x);
 
 (QQ) Producer Research and Promotion Board Accountability (104 Stat. 3927);
 
@@ -119,19 +119,19 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (UU) The International Carriage of Perishable Foodstuffs Act (7 U.S.C. 4401-4406);
 
-(VV) The Sheep Promotion, Research, and Information Act (7 U.S.C. 7101-7111), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x); and
+(VV) The Sheep Promotion, Research, and Information Act (7 U.S.C. 7101-7111), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x); and
 
-(WW) The Fresh Cut Flowers and Fresh Cut Greens Promotion and Consumer Information Act (7 U.S.C. 6801-6814), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x).
+(WW) The Fresh Cut Flowers and Fresh Cut Greens Promotion and Consumer Information Act (7 U.S.C. 6801-6814), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x).
 
 (XX) Commodity Promotion and Evaluation (7 U.S.C. 7401);
 
-(YY) The Commodity Promotion, Research, and Information Act of 1996 (7 U.S.C. 7411-7425), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(YY) The Commodity Promotion, Research, and Information Act of 1996 (7 U.S.C. 7411-7425), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(ZZ) The Canola and Rapeseed Research, Promotion, and Consumer Information Act (7 U.S.C. 7441-7452), except as delegated to theUnder Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(ZZ) The Canola and Rapeseed Research, Promotion, and Consumer Information Act (7 U.S.C. 7441-7452), except as delegated to theUnder Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(AAA) The National Kiwifruit Research, Promotion, and Consumer Information Act (7 U.S.C. 7461-7473), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
+(AAA) The National Kiwifruit Research, Promotion, and Consumer Information Act (7 U.S.C. 7461-7473), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x);
 
-(BBB) The Popcorn Promotion, Research, and Consumer Information Act (7 U.S.C. 7481-7491), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x).
+(BBB) The Popcorn Promotion, Research, and Consumer Information Act (7 U.S.C. 7481-7491), except as delegated to the Under Secretary for Trade and Foreign Agricultural Affairs in § 2.15(a)(1)(x).
 
 (CCC) Local Agriculture Market Program (7 U.S.C. 1627c), in coordination with the Under Secretary for Rural Development.
 
@@ -417,4 +417,4 @@ Under Secretary for Trade and Foreign Agricultural Affairs in § 2.26(a)(1)(x);
 
 (3) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65509, Oct. 15, 2020]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.
+[60 FR 56393, Nov. 8, 1995, as amended at 61 FR 25776, May 23, 1996; 61 FR 68541, Dec. 30, 1996; 62 FR 40254, July 28, 1997; 65 FR 12428, Mar. 9, 2000; 65 FR 49471, Aug. 14, 2000; 68 FR 27439, May 20, 2003; 70 FR 55706, Sept. 23, 2005; 74 FR 3405, Jan. 21, 2009; 76 FR 4802, Jan. 27, 2011; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 83 FR 61311, Nov. 29, 2018; 85 FR 65509, Oct. 15, 2020; 87 FR 44267, July 26, 2022]Editorial Note:At 83 FR 61311, Nov. 29, 2018, § 2.22 was amended by adding (a)(1)(xvi), however paragraph (a)(xvi) was not provided in the text, this amendment could not be incorporated due to inaccurate amendatory instruction.

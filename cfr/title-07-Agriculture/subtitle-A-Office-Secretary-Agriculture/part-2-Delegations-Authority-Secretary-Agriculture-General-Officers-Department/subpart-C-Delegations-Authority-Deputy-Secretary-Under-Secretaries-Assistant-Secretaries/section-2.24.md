@@ -54,7 +54,7 @@
 
 (*3*) Administrative Law Judge.
 
-(L) Authorize and make final decisions on adverse actions for positions in GS-1 - 15 or equivalent.
+(L) Authorize and make final decisions on adverse actions for positions in GS-1—15 or equivalent.
 
 (M) Authorize and make final decisions on adverse actions for positions in the career Senior Executive Service or equivalent.
 
@@ -332,25 +332,25 @@
 
 (7) [Reserved]
 
-(8) *Related to homeland security, personnel and document security, and emergency coordination.* (i) Serve as the principal advisor to the Secretary on homeland security, including emergency management and agriculture and food defense;
+(8) *Related to homeland security.* (i) Serve as the principal advisor to the Secretary on national security, including emergency management, agriculture and food defense, and foreign investments in U.S. agriculture.
 
-(ii) Coordinate activities of the Department, including policies, processes, budget needs, and oversight relating to homeland security, including emergency management and agriculture and food defense;
+(ii) Coordinate activities of the Department, including policies, processes, budget needs, and oversight relating to national security, including emergency management, biodefense, agriculture and food defense, and foreign investments in U.S. agriculture.
 
-(iii) Act as the primary liaison on behalf of the Department with other Federal departments and agencies in activities relating to homeland security, including emergency management and agriculture and food defense, and provide for interagency coordination and data sharing;
+(iii) Act as the primary liaison on behalf of the Department with other Federal departments and agencies in activities relating to national security, including emergency management, integrated laboratory networks, agriculture and food defense, foreign investments in U.S. agriculture, national intelligence collection priorities, and interagency coordination and data sharing.
 
-(iv) Coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in 5 U.S.C. 3003), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in section 210A(j) of the Homeland Security Act of 2002 (6 U.S.C. 124h(j));
+(iv) Coordinate in the Department the gathering of information relevant to early warning and awareness of threats and risks to the food and agriculture critical infrastructure sector; and share that information with, and provide assistance with interpretation and risk characterization of that information to, the intelligence community (as defined in 5 U.S.C. 3003), law enforcement agencies, the Secretary of Defense, the Secretary of Homeland Security, the Secretary of Health and Human Services, and State fusion centers (as defined in section 210A(j) of the Homeland Security Act of 2002 (6 U.S.C. 124h(j)).
 
-(v) Liaise with the Director of National Intelligence to assist in the development of periodic assessments and intelligence estimates, or other intelligence products, that support the defense of the food and agriculture critical infrastructure sector;
+(v) Establish and maintain an effective defensive Counterintelligence Program to counter Foreign Intelligence Entity (FIE) threats to Departmental sensitive information and assets that includes identification and risk assessment to sensitive assets, development and implementation of mitigation strategies, integration of counter-FIE efforts across the Department, sharing of threat information and warnings, and promotion of counterintelligence training awareness.
 
-(vi) Coordinate the conduct, evaluation, and improvement of exercises to identify and eliminate gaps in preparedness and response;
+(vi) Liaise with the Intelligence Community to assist in the development of periodic assessments and intelligence estimates, or other intelligence products, that support the defense of the food and agriculture critical infrastructure sector and risks associated with foreign investments in U.S. agriculture.
 
-(vii) Produce a Department-wide centralized strategic coordination plan to provide a high-level perspective of the operations of the Department relating to homeland security, including emergency management and agriculture and food defense; and
+(vii) Coordinate the conduct, evaluation, and improvement of exercises to identify and eliminate gaps in preparedness and response.
 
-(viii) Establish and carry out an interagency Agriculture and Food Threat Awareness Partnership Program, including by entering into cooperative agreements or contracts with Federal, State, or local authorities (7 U.S.C. 6922).
+(viii) Produce a Department-wide centralized strategic coordination plan to provide a high-level perspective of the operations of the Department relating to homeland and national security, including emergency management and agriculture and food defense.
 
-(ix) Provide administrative supervision to the unit that grants, denies, or revokes security clearances for USDA employees and contractors.
+(ix) Establish and carry out an interagency Agriculture and Food Threat Awareness Partnership Program, including by entering into cooperative agreements or contracts with Federal, State, or local authorities (7 U.S.C. 6922).
 
-(x) Administer the Department Emergency Preparedness Program. This includes:
+(x) Administer the Department's Emergency Preparedness Program. This includes:
 
 (A) Coordinate the delegations and assignments made to the Department under the Defense Production Act of 1950, 50 U.S.C. App. 2061, *et seq.;* the Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121, *et seq.;* and by Executive Orders 12148, “Federal Emergency Management” (3 CFR, 1979 Comp., p. 412), 12656, “Assignment of Emergency Preparedness Responsibilities” (3 CFR, 1988 Comp., p. 585), and 13603, “National Defense Resources Preparedness” (3 CFR, 2012 Comp., p. 225), or any successor to these Executive Orders, to ensure that the Department has sufficient capabilities to respond to any occurrence, including natural disaster, military attack, technological emergency, or any all hazards incident.
 
@@ -360,57 +360,45 @@
 
 (D) Activate the USDA incident management system in accordance with the National Response Framework and the National Incident Management System in the event of a major incident; and provide oversight and coordination of the Department's Emergency Support Functions as outlined in the National Response Framework.
 
-(E) Develop and promulgate policies for the Department regarding emergency preparedness and national security, including matters relating to anti-terrorism and agriculture-related emergency preparedness planning both national and international, and guidance to USDA State and County Emergency Boards.
+(E) Develop and promulgate policies for the Department regarding emergency preparedness and national security, including matters relating to anti-terrorism and agriculture-related emergency preparedness planning, both national and international, and guidance to USDA State and County Emergency Boards.
 
 (F) [Reserved]
 
-(G) Provide representation and liaison for the Department in contacts with other Federal entities and organizations, including the National Security Council, Homeland Security Council, Office of Management and Budget, Department of Homeland Security, Federal Emergency Management Agency, Office of The Director of National Intelligence, and Department of Defense concerning matters of a national security, natural disaster, other emergencies, and agriculture/food-related international civil emergency planning and related activities.
+(G) Provide representation and liaison for the Department in contacts with other Federal entities and organizations, including the National Security Council's functional directorates, Homeland Security Council, Office of Management and Budget, Department of Homeland Security, Federal Emergency Management Agency, Office of the Director of National Intelligence, Department of State, Federal Bureau of Investigation, and Department of Defense concerning matters of a national security, multilateral weapons conventions, natural disasters, other emergencies, and agriculture/food-related international civil emergency planning and related activities.
 
-(H) Act as the primary USDA representative for anti-terrorism activities.
+(H) Act as the primary USDA representative for anti-terrorism activities and coordinates and oversees USDA's agroterrorism defense activities and programs.
 
 (I) [Reserved]
 
 (J) Provide guidance and direction regarding radiological emergency preparedness programs and the implementation of the National Response Framework's Nuclear/Radiological Incident Annex to Departmental staff offices, mission areas, and agencies.
 
-(K) Provide program leadership and coordination for USDA's radiological emergency preparedness requirements with respect to Emergency Management and Assistance (44 CFR parts 350-352).
+(K) Provide program leadership and coordination for USDA's radiological emergency preparedness requirements with respect to Emergency Management and Assistance (44 CFR parts 350 through 352).
 
 (L) Represent USDA on the Federal Radiological Preparedness Coordinating Committee (FRPCC) and Regional Assistance Committees (RACs) and assist them in carrying out their functions.
 
 (M) Support USDA in its management of the Department's emergency response program with respect to radiological emergency response activities.
 
-(iii) Administer the Classified Network, Controlled Unclassified Information, and Insider Threat programs of the Department (E.O. 13587; E.O. 13556 and 32 CFR part 2002).
+(N) [Reserved]
 
-(iv) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland security activities.
+(xi) Administer the Controlled Unclassified Information (CUI) program for the Department pursuant to E.O. 13556, “Controlled Unclassified Information” (75 FR 68675, 3 CFR, 2011 Comp., p. 267) and 32 CFR part 2002.
 
-(v) Coordinate interaction between Department agencies and private sector businesses and industries in emergency planning and public education under Department authorities delegated or assigned under the National Response Framework, National Infrastructure Protection Plan, Defense Production Act of 1950, 50 U.S.C. App. 2061, *et seq.,* and Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121, *et seq.*
+(xii) Serve as the primary point of contact for Government Accountability Office (GAO) and Office of the Inspector General (OIG) audits of USDA homeland and national security activities.
 
-(vi) Oversee the Department's ability to collect and disseminate information and prepare for an agricultural disease emergency, agroterrorist act, or other threat to agricultural biosecurity, and coordinate such activities among agencies and offices within the Department (7 U.S.C. 8912).
+(xiii) Coordinate interaction between Department agencies and private sector businesses and industries in emergency planning and public education under Department authorities delegated or assigned under the National Response Framework, National Infrastructure Protection Plan, Defense Production Act of 1950, 50 U.S.C. App. 2061, *et seq.,* and Robert T. Stafford Disaster Relief and Emergency Assistance Act, 42 U.S.C. 5121, *et seq.*
 
-(vii) Carry out protection operations for the Secretary, Deputy Secretary, and other individuals as specified in Section 12520 of the Agriculture Improvement Act of 2018, including by authorizing law enforcement officers or special agents to carry firearms; conduct criminal investigations into potential threats to the security of individuals protected under Section 12520; make arrests without a warrant for any offense against the United States committed in the presence of the law enforcement officer or special agent; perform protective intelligence work, including identifying and mitigating potential threats and conducting advance work to review security matters relating to sites and events; and coordinate with local law enforcement authorities (7 U.S.C. 2279k).
+(xiv) Oversee the Department's ability to collect and disseminate information and prepare for an agricultural disease emergency, agroterrorism act, or other threat to agricultural biosecurity, and coordinate such activities among agencies and offices within the Department (7 U.S.C. 8912).
 
-(viii) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide.
+(xv) Promulgate Departmental policies, standards, techniques, and procedures and represent the Department in providing security guidance to the Food and Agricultural Sector nationwide. This includes the following duties:
 
-(A) Lead and coordinate the development and maintenance of a mission critical facility inventory with agency involvement to ensure proper security countermeasures are implemented in the Department's most critical infrastructure.
+(A) Provide guidance to USDA agencies and the Food and Agricultural Sector in matters of security through use of assessments and development of mitigation strategies.
 
-(B) Provide guidance to USDA agencies in matters of physical security through use of physical security assessments and development of mitigation strategies.
+(B) Represent and act as liaison for the Department in contacts with other Federal security entities and organizations, including the Interagency Security Committee and the Department of Homeland Security.
 
-(C) Provide guidance to USDA agencies and the Food and Agricultural Sector in matters of security through use of assessments and development of mitigation strategies.
+(C) Provide guidance and direction to ensure agriculture/food security are fully integrated in USDA's security preparations, which are reported to and coordinated with the White House.
 
-(D) Represent and act as liaison for the Department in contacts with other Federal security entities and organizations, including the Interagency Security Committee and the Department of Homeland Security.
+(D) Provide assistance to the USDA agencies in preparation for and during a disaster to identify critical assets and possible alternate storage locations.
 
-(E) Provide guidance and direction to ensure physical security and agriculture/food security are fully integrated in USDA's security preparations, which are reported to and coordinated with the White House.
-
-(F) Provide assistance to the USDA agencies in preparation for and during a disaster to identify critical assets and possible alternate storage locations.
-
-(G) Conduct physical security investigations and compliance reviews Department-wide.
-
-(H) Review and provide coordinated technical physical security assessments for all new construction of laboratories, data centers, germplasm repositories, and other mission critical infrastructure during the design phase, and all leased facilities prior to contract award.
-
-(I) Oversee and manage physical security aspects of the Common Identification Card (LincPass) Program to ensure National Institute of Standards and Technology (NIST) and General Services Administration (GSA) compliancy within the National Capital Region and the physical access to USDA facilities.
-
-(J) Provide enterprise connectivity to agency physical access control systems that provide cost leveraging and provisioning/de-provisioning nationwide.
-
-(ix) Provide oversight and coordination of the development and administration of the Department Continuity Program. This includes:
+(xvi) Provide oversight and coordination of the development and administration of the Department Continuity Program. This includes:
 
 (A) Provide guidance and direction regarding continuity of operations to the Office of the Secretary, Departmental staff offices, mission areas, and agencies.
 
@@ -418,25 +406,23 @@
 
 (C) Oversee Department continuity of operations and emergency relocation facility planning, development, equipping, and preparedness to ensure that resources are in a constant state of readiness.
 
-(x) Provide for the development and administration of a Public Trust program for the safeguarding of national security information:
+(xvii) Establish procedures to prevent unnecessary access to classified national security information (CNSI) including procedures that require that need for access to CNSI is established before initiating security clearance procedures; and ensure that the number of persons granted access CNSI is limited to the minimum consistent with operational and security requirements:
 
-(A) Direct and administer USDA's public trust program established pursuant to 5 CFR part 731 and Executive Order 13488, “Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust” (74 FR 4111, 3 CFR, 2010 Comp., p. 189).
+(A) Direct and administer USDA's CNSI program pursuant to E.O. 13526, “Classified National Security Information” (75 FR 707, 3 CFR, 2010 Comp., p. 298), or subsequent orders.
 
-(B) Direct and administer USDA's program under which information is safeguarded pursuant to Executive Order 13526, “Classified National Security Information” (75 FR 707, 3 CFR, Comp. 2010, p. 298), or subsequent orders.
+(B) Establish and maintain Information Security policies and procedures for classifying, declassifying, safeguarding, and disposing of CNSI and materials.
 
-(C) Establish and maintain Information Security policies and procedures for classifying, declassifying, safeguarding, and disposing of classified national security information and materials.
+(C) Investigate or delegate authority to investigate any potential compromises of CNSI and take corrective action for violations or infractions under section 5.5(b), of E.O. 13526 or any subsequent order.
 
-(D) Investigate or delegate authority to investigate any potential compromises of classified national security information and take corrective action for violations or infractions under section 5.5(b) of Executive Order 13526 or any subsequent order.
+(D) Develop and maintain oversight of all facilities throughout USDA where CNSI is or will be safeguarded, discussed, or processed including sole authority to liaison with the Central Intelligence Agency concerning guidance, approval, requirements, and oversight of USDA secure facilities.
 
-(E) Develop and maintain oversight of all facilities throughout USDA where classified national security information is or will be safeguarded, discussed, or processed including sole authority to liaison with the Central Intelligence Agency concerning guidance, approval, requirements, and oversight of USDA secure facilities.
-
-(F) Act as the USDA focal point to identify, receive, disseminate and safeguard USDA related intelligence information as required; convey information to USDA policy officials; and liaise with the intelligence community, as appropriate.
-
-(xi) Control within USDA the acquisition, use, and disposal of material and equipment that can be a source of ionizing radiation.
+(xviii) Control within USDA the acquisition, use, and disposal of material and equipment that can be a source of ionizing radiation.
 
 (A) Promulgate policies and procedures for ensuring the safety of USDA employees, the public, and the environment resulting from USDA's use of ionizing radiation sources.
 
 (B) Maintain and ensure compliance with the Nuclear Regulatory Commission regulations (Title 10, Code of Federal Regulations) and license(s) issued to USDA for the acquisition, use, and disposal of radioactive materials.
+
+(xix) Provide administrative supervision to the unit that grants, denies, or revokes security clearances for USDA employees and contractors.
 
 (9) *Related to operations support to the Department of Agriculture headquarters complex, George Washington Carver Center, and leased facilities in the Washington metro area.* (i) Provide services relating to facilities management and daily operational support for agencies and offices occupying USDA's headquarters complex, George Washington Carver Center, and, in coordination with the General Services Administration (GSA), USDA leased facilities in the Washington, DC metropolitan area, as well as at emergency relocation sites and certain critical facilities specified by the Assistant Secretary for Administration in the following areas:
 
@@ -462,7 +448,7 @@
 
 (G) Operation of a GSA authorized Federal excess property Sales Center for USDA property and other government agencies in the Washington, DC metropolitan area via Memorandum of Understanding (MOU).
 
-(iii) Promulgate Departmental regulations, standards, techniques, and procedures and represent the Department in managing and maintaining a comprehensive physical and technical security program including access control, management of special police officer and guard services, executive driving, parking, ID badging in accordance with HSPD-12, occupant emergency and warden services at the USDA Headquarters Complex, George Washington Carver Center and, in coordination with GSA, USDA leased facilities in the Washington, DC metropolitan area, as well as at emergency relocation sites and certain critical facilities specified by the Assistant Secretary for Administration.
+(iii) [Reserved]
 
 (iv) Provide management and oversight of the Secretary's People's Garden initiative and the USDA Visitor's Center for education and outreach to USDA and the public.
 
@@ -484,11 +470,25 @@
 
 (viii) Administer the records management program in support of Departmental Administration, and prepare and coordinate responses to management audits by the Inspector General and the Government Accountability Office, with authority to take actions as required by law or regulation for the offices and agencies reporting to the Assistant Secretary for Administration.
 
-(10) *Related to Secretarial correspondence.* (i) Exercise responsibility for all correspondence control and related records management functions for the Office of the Secretary.
+(10) [Reserved]
 
-(ii) Provide administrative, editorial, and project management support services to the Immediate Office of the Secretary.
+(11) *Related to safety, security, and protection.* (i) Promulgate Departmental policies, standards, techniques, and procedures; and represent the Department in maintaining the security of physical facilities and providing security guidance to the Food and Agricultural Sector nationwide. This includes the following activities:
 
-(11) [Reserved]
+(A) Lead and coordinate the development and maintenance of a mission critical facility inventory with agency involvement to ensure proper security countermeasures are implemented in the Department's most critical infrastructure.
+
+(B) Provide guidance to USDA agencies in matters of physical security through use of physical security assessments and development of mitigation strategies.
+
+(C) Conduct physical security investigations and compliance reviews Department-wide.
+
+(D) Review and provide coordinated technical physical security assessments for all new construction of laboratories, data centers, germplasm repositories, and other mission critical infrastructure during the design phase, and all leased facilities prior to contract award.
+
+(E) Oversee and manage physical security aspects of the Common Identification Card (LincPass) Program to ensure National Institute of Standards and Technology (NIST) and General Services Administration (GSA) compliancy within the National Capital Region and the physical access to USDA facilities.
+
+(F) Provide enterprise connectivity to agency physical access control systems that provide cost leveraging and provisioning/de-provisioning nationwide.
+
+(ii) Promulgate Departmental regulations, standards, techniques, and procedures and represent the Department in managing and maintaining a comprehensive physical and technical security program including access control, management of special police officer and guard services, executive driving, parking, ID badging in accordance with HSPD-12, occupant emergency and warden services at the USDA Headquarters Complex, George Washington Carver Center and, in coordination with GSA, USDA leased facilities in the Washington, DC metropolitan area, as well as at emergency relocation sites and certain critical facilities specified by the Assistant Secretary for Administration.
+
+(iii) Carry out protection operations for the Secretary, Deputy Secretary, and other individuals as specified in Section 12520 of the Agriculture Improvement Act of 2018, including by authorizing law enforcement officers or special agents to carry firearms; conduct criminal investigations into potential threats to the security of individuals protected under Section 12520; make arrests without a warrant for any offense against the United States committed in the presence of the law enforcement officer or special agent; perform protective intelligence work, including identifying and mitigating potential threats and conducting advance work to review security matters relating to sites and events; and coordinate with local law enforcement authorities (7 U.S.C. 2279k).
 
 (12) *Related to Office of Administrative Law Judges.* (i) Assign, after appropriate consultation with other general officers, to the Office of Administrative Law Judges proceedings not subject to 5 U.S.C. 556 and 557, involving the holdings of hearings and performance of related duties pursuant to the applicable rules of practice, when the Assistant Secretary for Administration determines that because of the nature of the proceeding it would be desirable for the proceeding to be presided over by an Administrative Law Judge and that such duties and responsibilities would not be inconsistent with those of an Administrative Law Judge.
 
@@ -546,4 +546,4 @@
 
 (ii) [Reserved]
 
-[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65510, Oct. 15, 2020]Editorial Note:At 85 FR 65510, Oct. 15, 2020, § 2.24 was amended by revising paragraph (a)(8) however, there is some extra text included after paragraph (a)(8)(x)(M) starting with paragraph (iii). There is already a paragraph (iii) earlier in the revision.
+[75 FR 43368, July 23, 2010, as amended at 77 FR 14951,14952, Mar. 14, 2012; 78 FR 40937, July 9, 2013; 79 FR 44109, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 61311, Nov. 29, 2018; 85 FR 65510, Oct. 15, 2020; 87 FR 44267, July 26, 2022]

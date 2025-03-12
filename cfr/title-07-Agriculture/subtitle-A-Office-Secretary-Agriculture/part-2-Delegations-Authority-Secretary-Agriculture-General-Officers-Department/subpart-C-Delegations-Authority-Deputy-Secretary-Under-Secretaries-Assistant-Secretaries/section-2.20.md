@@ -84,7 +84,7 @@
 
 (xxiv) Under such general program criteria and procedures as may be established by the Natural Resources Conservation Service:
 
-(A) Administer the forestry aspects of the programs listed in paragraphs (a)(2)(xxiii)(A)(*1*) through (*3*) of this section on the National Forest System, rangelands with national forest boundaries, adjacent rangelands which are administered under formal agreement, and other forest lands;
+(A) Administer the forestry aspects of the programs listed in paragraphs (a)(2)(xxiv)(A)(*1*) through (*3*) of this section on the National Forest System, rangelands with national forest boundaries, adjacent rangelands which are administered under formal agreement, and other forest lands;
 
 (1) The cooperative river basin surveys and investigations program (16 U.S.C. 1006);
 
@@ -174,7 +174,9 @@
 
 (liv) Administer the payments to states program (16 U.S.C. 500; 16 U.S.C. 7101-7153); establish, maintain, and appoint members to Resource Advisory Committees (16 U.S.C. 7125).
 
-(lv) Administer the Wood Innovation Grant program (7 U.S.C. 7655d).
+(lv) Conduct performance-driven research and development, education, and technical assistance for the purpose of facilitating the use of innovative wood products in wood building construction in the United States (7 U.S.C. 7655c) and administer the Wood Innovation Grant program (7 U.S.C. 7655d).
+
+(lvi) Furnish subsistence to employees without consideration as, or deduction from, the compensation of such employees where warranted by emergency conditions connected with the work of the Forest Service (7 U.S.C. 2228).
 
 (3) [Reserved]
 
@@ -248,4 +250,4 @@
 
 (2) Approval of prize competitions that may result in the award of more than $1,000,000 in cash prizes under section 24(m)(4)(B) of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3719(m)(4)(B)).
 
-[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 85 FR 65506, Oct. 15, 2020]
+[60 FR 56393, Nov. 8, 1995, as amended at 62 FR 1031, Jan. 8, 1997; 64 FR 32797, June 18, 1999; 64 FR 34967, June 30, 1999; 65 FR 12428, Mar. 9, 2000; 67 FR 59135, Sept. 30, 2002; 68 FR 27437, May 20, 2003; 69 FR 34252, June 21, 2004; 72 FR 36859, July 6, 2007; 74 FR 3403, Jan. 21, 2009; 75 FR 43368, July 23, 2010; 78 FR 40937, July 9, 2013; 79 FR 44107, July 30, 2014; 80 FR 58337, Sept. 29, 2015; 83 FR 22181, May 14, 2018; 85 FR 65506, Oct. 15, 2020; 87 FR 44267, July 26, 2022]

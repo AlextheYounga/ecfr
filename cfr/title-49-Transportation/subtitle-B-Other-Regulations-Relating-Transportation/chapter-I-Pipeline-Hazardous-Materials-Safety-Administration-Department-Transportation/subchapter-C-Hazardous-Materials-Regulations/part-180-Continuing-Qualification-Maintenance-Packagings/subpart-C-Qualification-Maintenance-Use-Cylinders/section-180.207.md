@@ -1,5 +1,7 @@
 ##### § 180.207 Requirements for requalification of UN pressure receptacles. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) *General.* (1) Each UN pressure receptacle used for the transportation of hazardous materials must conform to the requirements prescribed in paragraphs (a), (b) and (d) in § 180.205.
 
 (2) No pressure receptacle due for requalification may be filled with a hazardous material and offered for transportation in commerce unless that pressure receptacle has been successfully requalified and marked in accordance with this subpart or requalified and marked by a facility registered by Transport Canada in accordance with the Transport Canada TDG Regulations (IBR, *see* § 171.7 of this subchapter). A pressure receptacle may be requalified at any time during or before the month and year that the requalification is due. However, a pressure receptacle filled before the requalification becomes due may remain in service until it is emptied. In accordance with the Transport Canada TDG Regulations a CAN marked UN cylinder may be requalified in the United States by a domestic requalifier, provided the requirements in §§ 178.69, 178.70, and 178.71, as applicable, are met.

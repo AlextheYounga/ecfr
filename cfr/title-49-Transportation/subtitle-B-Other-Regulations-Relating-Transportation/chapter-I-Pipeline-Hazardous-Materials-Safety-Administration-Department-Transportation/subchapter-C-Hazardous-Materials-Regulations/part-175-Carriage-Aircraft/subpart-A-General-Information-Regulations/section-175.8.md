@@ -1,5 +1,7 @@
 ##### § 175.8 Exceptions for operator equipment and items of replacement. #####
 
+Link to an amendment published at 87 FR 44997, July 26, 2022.
+
 (a) *Operator equipment.* This subchapter does not apply to -
 
 (1) Aviation fuel and oil in tanks that are in compliance with the installation provisions of 14 CFR, chapter 1.

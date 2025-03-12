@@ -1,5 +1,7 @@
 ##### § 176.84 Other requirements for stowage, cargo handling, and segregation for cargo vessels and passenger vessels. #####
 
+Link to an amendment published at 87 FR 44998, July 26, 2022.
+
 (a) *General.* When Column 10B of the § 172.101 Table refers to a numbered or alpha-numeric stowage provision for water shipments, the meaning and requirements of that provision are set forth in this section. Terms in quotation marks are defined in § 176.83. Other terms used in the table in this section such as “acids”, “chlorates” and “permanganates” indicate different chemical groups referred to here as segregation groups. Materials falling within a segregation group are considered to have certain similar chemical properties and, although not exhaustive in nature, the materials belonging to each group include those substances identified in section 3.1.4 of the IMDG Code (IBR, see § 171.7 of this subchapter) as set forth in § 176.83(m).
 
 (b) *Table of provisions:*

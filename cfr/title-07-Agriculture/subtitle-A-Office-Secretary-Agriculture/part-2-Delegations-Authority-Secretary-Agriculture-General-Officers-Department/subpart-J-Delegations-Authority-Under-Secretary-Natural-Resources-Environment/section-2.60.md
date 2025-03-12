@@ -6,7 +6,7 @@
 
 (2) Protect, manage, and administer the national forests, national forest purchase units, national grasslands, and other lands and interests in lands administered by the Forest Service, which collectively are designated as the National Forest System.
 
-(3) Acquire, dispose, and lease lands and interest in lands as may be authorized for the protection, management, and administration of the National Forest System, except that the authority to approve acquisition of land under the Weeks Act of March 1, 1911, as amended, and special forest receipts acts (Pub. L. No. 337, 74th Cong., 49 Stat. 866, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 505, 75th Cong., 52 Stat. 347, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 634, 75th Cong., 52 Stat. 699, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. No. 748, 75th Cong., 52 Stat. 1205, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 427, 76th Cong., 54 Stat. 46; Pub. L. 589, 76th Cong., 54 Stat. 297; Pub. L. 591, 76th Cong., 54 Stat. 299; Pub. L. 637, 76th Cong., 54 Stat. 402; Pub. L. 781, 84th Cong., 70 Stat. 632) is limited to acquisitions of less than $250,000 in value.
+(3) Acquire, dispose, and lease lands and interest in lands as may be authorized for the protection, management, and administration of the National Forest System, including the authority to approve acquisition of land under the Weeks Act of March 1, 1911, as amended, and special forest receipts acts (Pub. L. 337, 74th Cong., 49 Stat. 866, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 505, 75th Cong., 52 Stat. 347, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 634, 75th Cong., 52 Stat. 699, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 748, 75th Cong., 52 Stat. 1205, as amended by Pub. L. 310, 78th Cong., 58 Stat. 227; Pub. L. 427, 76th Cong., 54 Stat. 46; Pub. L. 589, 76th Cong., 54 Stat. 297; Pub. L. 591, 76th Cong., 54 Stat. 299; Pub. L. 637, 76th Cong., 54 Stat. 402; Pub. L. 781, 84th Cong., 70 Stat. 632).
 
 (4) As necessary for administrative purposes, divide into and designate as national forests any lands of 3,000 acres or less which are acquired under or subject to the Weeks Act of March 1, 1911, as amended, and which are contiguous to existing national forest boundaries established under the authority of the Weeks Act.
 
@@ -216,7 +216,9 @@
 
 (63) Administer the payments to states program (16 U.S.C. 500; 16 U.S.C. 7101-7153); establish, maintain, and appoint members to Resource Advisory Committees (16 U.S.C. 7125).
 
-(64) Administer the Wood Innovation Grant program (7 U.S.C. 7655d).
+(64) Conduct performance-driven research and development, education, and technical assistance for the purpose of facilitating the use of innovative wood products in wood building construction in the United States (7 U.S.C. 7655c) and administer the Wood Innovation Grant program (7 U.S.C. 7655d).
+
+(65) Furnish subsistence to employees without consideration as, or deduction from, the compensation of such employees where warranted by emergency conditions connected with the work of the Forest Service (7 U.S.C. 2228).
 
 (b) *Reservations.* The following authorities are reserved to the Under Secretary for Natural Resources and Environment:
 
@@ -230,8 +232,6 @@
 
 (5) Signing of declarations of taking and requests for condemnation of property as authorized by law to carry out the mission of the Forest Service (40 U.S.C. 257).
 
-(6) Approval of acquisition of land under the Weeks Act of March 1, 1911, as amended (16 U.S.C. 521), and special forest receipts acts (Pub. L. No. 337, 74th Cong., 49 Stat. 866, as amended by Pub. L. No. 310, 78th Cong., 58 Stat. 227; Pub. L. No. 505, 75th Cong., 52 Stat. 347, as amended by Pub. L. No. 310, 78th Cong., 58 Stat. 227; Pub. L. No. 634, 75th Cong., 52 Stat. 699, as amended by Pub. L. No. 310, 78th Cong., 58 Stat. 227; Pub. L. No. 748, 75th Cong., 52 Stat. 1205, as amended by Pub. L. No. 310, 78th Cong., 58 Stat. 227; Pub. L. No. 427, 76th Cong., 54 Stat. 46; Pub. L. No. 589, 76th Cong., 54 Stat. 297; Pub. L. No. 591, 76th Cong., 54 Stat. 299; Pub. L. No. 637, 76th Cong., 54 Stat. 402; Pub. L. No. 781, 84th Cong., 70 Stat. 632) of $250,000 or more in value for national forest purposes.
-
 (7) The authority to approve disbursements from the New World Mine Response and Restoration Account and the authority to prepare and approve the New World Mine Response and Restoration Plan, including the coordination of the response and restoration activities of the Forest Service and the other Federal and State agencies, and make quarterly reports to Congress under section 502(d) and (f) of Title V of the Department of the Interior and Related Agencies Appropriations Act of 1998, Pub. L. 105-83.
 
-[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020]
+[60 FR 56393, Nov. 8, 1995, as amended at 64 FR 34967, June 30, 1999; 65 FR 12429, Mar. 9, 2000; 67 FR 59135, Sept. 20, 2002; 72 FR 36859, July 6, 2007; 74 FR 3408, Jan. 21, 2009; 78 FR 40938, July 9, 2013; 79 FR 44114, July 30, 2014; 85 FR 65516, Oct. 15, 2020; 87 FR 44270, July 26, 2022]

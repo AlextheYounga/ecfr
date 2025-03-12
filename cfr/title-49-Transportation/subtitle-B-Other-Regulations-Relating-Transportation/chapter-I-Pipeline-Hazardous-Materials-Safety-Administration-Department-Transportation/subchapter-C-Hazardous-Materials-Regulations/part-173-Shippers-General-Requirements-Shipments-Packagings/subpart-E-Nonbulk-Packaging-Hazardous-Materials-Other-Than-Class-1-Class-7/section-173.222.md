@@ -1,5 +1,7 @@
 ##### § 173.222 Dangerous goods in equipment, machinery or apparatus. #####
 
+Link to an amendment published at 87 FR 44995, July 26, 2022.
+
 Hazardous materials in machinery or apparatus are excepted from the specification packaging requirements of this subchapter when packaged according to this section. Hazardous materials in machinery or apparatus must be packaged in strong outer packagings, unless the receptacles containing the hazardous materials are afforded adequate protection by the construction of the machinery or apparatus. Each package must conform to the packaging requirements of subpart B of this part, except for the requirements in §§ 173.24(a)(1) and 173.27(e), and the following requirements:
 
 (a) If the machinery or apparatus contains more than one hazardous material, the materials must not be capable of reacting dangerously together.

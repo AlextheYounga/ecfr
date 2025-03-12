@@ -1,5 +1,7 @@
 ##### § 173.181 Pyrophoric materials (liquids). #####
 
+Link to an amendment published at 87 FR 44993, July 26, 2022.
+
 When the § 172.101 table specifies that a hazardous material be packaged under this section, only the following non-bulk packagings are authorized:
 
 (a) *Authorized cylinders.* (1) A specification steel or nickel cylinder prescribed for any compressed gas, except acetylene, having a minimum design pressure of 1206 kPa (175 psig).

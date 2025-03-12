@@ -1,5 +1,7 @@
 ##### § 178.505 Standards for aluminum drums. #####
 
+Link to an amendment published at 87 FR 45000, July 26, 2022.
+
 (a) The following are the identification codes for aluminum drums:
 
 (1) 1B1 for a non-removable head aluminum drum; and

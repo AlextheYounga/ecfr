@@ -1,5 +1,7 @@
 ##### § 171.23 Requirements for specific materials and packagings transported under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations. #####
 
+Link to an amendment published at 87 FR 44982, July 26, 2022.
+
 All shipments offered for transportation or transported in the United States under the ICAO Technical Instructions, IMDG Code, Transport Canada TDG Regulations, or the IAEA Regulations (IBR, see § 171.7) must conform to the requirements of this section, as applicable.
 
 (a) *Conditions and requirements for cylinders and pressure receptacles* - (1) *Applicability.* Except as provided in this paragraph (a), a filled cylinder (pressure receptacle) manufactured to other than a DOT specification or a UN standard in accordance with part 178 of this subchapter, a DOT exemption or special permit cylinder, a TC, CTC, CRC, or BTC cylinder authorized under § 171.12, or a cylinder used as a fire extinguisher in conformance with § 173.309(a) of this subchapter, may not be transported to, from, or within the United States.

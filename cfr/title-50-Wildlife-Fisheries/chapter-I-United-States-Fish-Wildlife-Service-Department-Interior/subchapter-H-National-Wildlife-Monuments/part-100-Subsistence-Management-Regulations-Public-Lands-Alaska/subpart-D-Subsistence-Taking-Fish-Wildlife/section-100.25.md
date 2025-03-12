@@ -100,7 +100,7 @@
 
 *Handline* means a hand-held and operated line, with one or more hooks attached.
 
-*Hare or hares* collectively refers to all species of hares (commonly called rabbits) in Alaska and includes snowshoe hare and tundra hare.
+*Hare or hares* collectively refers to all species of hares (commonly called rabbits) in Alaska and includes snowshoe hare and tundra or Alaska hare.
 
 *Harvest limit* means the number of any one species permitted to be taken by any one person or designated group, per specified time period, in a Unit or portion of a Unit in which the taking occurs even if part or all of the harvest is preserved. A fish, when landed and killed by means of rod and reel, becomes part of the harvest limit of the person originally hooking it.
 
@@ -234,6 +234,12 @@
 
 (4) Unless otherwise provided, any person who gives or receives fish, wildlife, or shellfish must furnish, upon a request made by a Federal or State agent, a signed statement describing the following: Names and addresses of persons who gave and received fish, wildlife, or shellfish; the time and place that the fish, wildlife, or shellfish was taken; and identification of species transferred. Where a qualified subsistence user has designated another qualified subsistence user to take fish, wildlife, or shellfish on his or her behalf in accordance with § 100.10(d)(5)(ii), the permit must be furnished in place of a signed statement.
 
+(5) Fish, wildlife, or shellfish taken by a participant in a community harvest system counts toward both the community harvest limit or quota for that species as well as individual harvest limits, Federal or State, for each participant in that community harvest system; however, the take does not count toward individual harvest limits, Federal or State, of any non-participant.
+
+(i) Fish, wildlife, or shellfish taken by someone who is not a participant in a community harvest system does not count toward any community harvest limit or quota.
+
+(ii) For the purposes of this provision, all residents of the community are deemed participants in the community harvest unless the Board-approved framework requires registration as a prerequisite to harvesting or receiving any fish, wildlife, or shellfish pursuant to that community harvest, in which case only those who register are deemed participants in that community harvest.
+
 (d) *Fishing by designated harvest permit.* (1) Any species of fish that may be taken by subsistence fishing under this part may be taken under a designated harvest permit.
 
 (2) If you are a Federally qualified subsistence user, you (beneficiary) may designate another Federally qualified subsistence user to take fish on your behalf. The designated fisherman must obtain a designated harvest permit prior to attempting to harvest fish and must return a completed harvest report. The designated fisherman may fish for any number of beneficiaries but may have no more than two harvest limits in his/her possession at any one time.
@@ -244,7 +250,7 @@
 
 (5) You may not designate more than one person to take or attempt to take fish on your behalf at one time. You may not personally take or attempt to take fish at the same time that a designated fisherman is taking or attempting to take fish on your behalf.
 
-(e) *Hunting by designated harvest permit.* If you are a Federally qualified subsistence user (recipient), you may designate another Federally qualified subsistence user to take deer, moose, and caribou, and in Units 1-5, goats, on your behalf unless you are a member of a community operating under a community harvest system or unless unit-specific regulations in § 100.26 preclude or modify the use of the designated hunter system or allow the harvest of additional species by a designated hunter. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than two harvest limits in his/her possession at any one time except for goats, where designated hunters may have no more than one harvest limit in possession at any one time, and unless otherwise specified in unit-specific regulations in § 100.26.
+(e) *Hunting by designated harvest permit.* If you are a federally qualified subsistence user (recipient), you may designate another federally qualified subsistence user to take deer, moose, and caribou, and in Units 1-5, goats, on your behalf unless unit-specific regulations in § 100.26 preclude or modify the use of the designated hunter system or allow the harvest of additional species by a designated hunter. The designated hunter must obtain a designated hunter permit and must return a completed harvest report. The designated hunter may hunt for any number of recipients but may have no more than two harvest limits in his/her possession at any one time except for goats, where designated hunters may have no more than one harvest limit in possession at any one time, and unless otherwise specified in unit-specific regulations in § 100.26.
 
 (f) A rural Alaska resident who has been designated to take fish, wildlife, or shellfish on behalf of another rural Alaska resident in accordance with § 100.10(d)(5)(ii) must promptly deliver the fish, wildlife, or shellfish to that rural Alaska resident and may not charge the recipient for his/her services in taking the fish, wildlife, or shellfish or claim for themselves the meat or any part of the harvested fish, wildlife, or shellfish.
 
@@ -320,4 +326,4 @@
 
 (l) Rural residents, nonrural residents, and nonresidents not specifically prohibited by Federal regulations from fishing, hunting, or trapping on public lands in an area may fish, hunt, or trap on public lands in accordance with the appropriate State regulations.
 
-[77 FR 35494, June 13, 2012, as amended at 80 FR 28192, May 18, 2015; 83 FR 50764, Oct. 9, 2018]
+[77 FR 35494, June 13, 2012, as amended at 80 FR 28192, May 18, 2015; 83 FR 50764, Oct. 9, 2018; 87 FR 44858, July 26, 2022]

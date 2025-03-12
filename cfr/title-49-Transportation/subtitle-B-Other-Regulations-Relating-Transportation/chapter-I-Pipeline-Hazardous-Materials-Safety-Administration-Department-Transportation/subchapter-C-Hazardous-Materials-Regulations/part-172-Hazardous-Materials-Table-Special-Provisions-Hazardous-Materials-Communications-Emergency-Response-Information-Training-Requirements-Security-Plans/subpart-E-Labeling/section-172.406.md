@@ -1,5 +1,7 @@
 ##### § 172.406 Placement of labels. #####
 
+Link to an amendment published at 87 FR 44991, July 26, 2022.
+
 (a) *General.* (1) Except as provided in paragraphs (b) and (e) of this section, each label required by this subpart must -
 
 (i) Be printed on or affixed to a surface (other than the bottom) of the package or containment device containing the hazardous material; and

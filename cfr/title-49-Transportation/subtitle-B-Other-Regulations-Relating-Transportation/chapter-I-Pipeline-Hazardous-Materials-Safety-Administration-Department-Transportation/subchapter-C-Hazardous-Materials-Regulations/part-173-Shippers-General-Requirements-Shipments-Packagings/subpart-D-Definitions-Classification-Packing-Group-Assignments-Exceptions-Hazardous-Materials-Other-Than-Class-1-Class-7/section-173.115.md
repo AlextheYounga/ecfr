@@ -1,5 +1,7 @@
 ##### § 173.115 Class 2, Divisions 2.1, 2.2, and 2.3 - Definitions. #####
 
+Link to an amendment published at 87 FR 44992, July 26, 2022.
+
 (a) *Division 2.1 (Flammable gas).* For the purpose of this subchapter, a *flammable gas* (Division 2.1) means any material which is a gas at 20 °C (68 °F) or less and 101.3 kPa (14.7 psia) of pressure (a material which has a boiling point of 20 °C (68 °F) or less at 101.3 kPa (14.7 psia)) which -
 
 (1) Is ignitable at 101.3 kPa (14.7 psia) when in a mixture of 13 percent or less by volume with air; or
