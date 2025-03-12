@@ -1,7 +1,5 @@
 ##### § 319.8-1 Definitions. #####
 
-Link to an amendment published at 83 FR 11855, Mar. 19, 2018.
-
 For the purposes of the regulations in this subpart, the following words shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.
@@ -24,7 +22,7 @@ For the purposes of the regulations in this subpart, the following words shall b
 
 *Cotton.* Parts and products of plants of the genus Gossypium, including seed cotton; cottonseed; cotton lint, linters and other forms of cotton fiber, not including yarn, thread and cloth; cottonseed hulls, cake, meal, and other cottonseed products, except oil; waste; and all other unmanufactured parts of cotton plants.
 
-*Cottonseed.* Cottonseed from which the lint has been removed.
+*Cottonseed.* Cottonseed from which the lint has been removed and that is intended for processing or consumption.
 
 *Covers.* Second-hand burlap and other fabrics, shredded or otherwise, including any whole bag, any bag that has been slit open, and any part of a bag, which have been used, or are of the kinds ordinarily used, for containing cotton, grains (including grain products), field seeds, agricultural roots, rhizomes, tubers, or other underground crops. Burlap and other fabrics, when new or unused are excluded from this definition.
 
@@ -66,4 +64,4 @@ For the purposes of the regulations in this subpart, the following words shall b
 
 *West Coast of Mexico.* The State of Sinaloa, the State of Sonora (except that part of the Imperial Valley lying between San Luis Mesa and the Colorado River), and the Southern Territory of Baja California, in Mexico.
 
-[24 FR 10788, Dec. 29, 1959, as amended at 27 FR 5389, June 7, 1962; 36 FR 24917, Dec. 24, 1971; 37 FR 10554, May 25, 1972; 66 FR 21055, Apr. 27, 2001; 78 FR 25569, May 2, 2013; 79 FR 19870, Apr. 10, 2014]
+[24 FR 10788, Dec. 29, 1959, as amended at 27 FR 5389, June 7, 1962; 36 FR 24917, Dec. 24, 1971; 37 FR 10554, May 25, 1972; 66 FR 21055, Apr. 27, 2001; 78 FR 25569, May 2, 2013; 79 FR 19870, Apr. 10, 2014; 83 FR 11855, Mar. 19, 2018]

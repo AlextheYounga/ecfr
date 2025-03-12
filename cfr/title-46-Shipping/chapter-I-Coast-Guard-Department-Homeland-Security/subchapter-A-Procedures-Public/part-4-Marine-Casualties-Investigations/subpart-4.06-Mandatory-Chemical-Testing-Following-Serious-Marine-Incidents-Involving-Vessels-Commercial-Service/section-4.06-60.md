@@ -1,10 +1,8 @@
 ##### § 4.06-60 Submission of reports and test results. #####
 
-Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
+(a) Whenever an individual engaged or employed on a vessel is identified as being directly involved in a serious marine incident, the marine employer shall complete Form CG-2692B (Report of Mandatory Chemical Testing Following a Serious Marine Incident Involving Vessels in Commercial Service).
 
-(a) Whenever an individual engaged or employed on a vessel is identified as being directly involved in a serious marine incident, the marine employer shall complete Form CG-2692B (Report of Required Chemical Drug and Alcohol Testing Following a Serious Marine Incident).
-
-(b) When the serious marine incident requires the submission of Form CG-2692 (Report of Marine Casualty, Injury or Death) to the Coast Guard in accordance with § 4.05-10, the report required by paragraph (a) of this section shall be appended to Form CG-2692.
+(b) When the serious marine incident requires the submission of Form CG-2692 (Report of Marine Casualty, Commercial Diving Casualty, or OCS-Related Casualty) to the Coast Guard in accordance with § 4.05-10, the report required by paragraph (a) of this section shall be appended to Form CG-2692.
 
 (c) In incidents involving discharges of oil or hazardous substances as described in § 4.03-2 (b) and (c) of this part, when Form CG-2692 is not required to be submitted, the report required by paragraph (a) of this section shall be submitted to the Coast Guard Officer in Charge, Marine Inspection, having jurisdiction over the location where the discharge occurred or nearest the port of first arrival following the discharge.
 
@@ -12,4 +10,4 @@ Link to an amendment published at 83 FR 11902, Mar. 19, 2018.
 
 (e) The Commandant may approve alternate electronic means of submitting reports and test results as required under paragraphs (a) through (d) of this section.
 
-[CGD 86-067, 53 FR 47078, Nov. 21, 1988, as amended by CGD 97-057, 62 FR 51041, Sept. 30, 1997; USCG-1999-6216, 64 FR 53223, Oct. 1, 1999]
+[CGD 86-067, 53 FR 47078, Nov. 21, 1988, as amended by CGD 97-057, 62 FR 51041, Sept. 30, 1997; USCG-1999-6216, 64 FR 53223, Oct. 1, 1999; USCG-2016-0748, 83 FR 11902, Mar. 19, 2018]

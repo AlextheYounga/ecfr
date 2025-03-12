@@ -1,7 +1,5 @@
 ##### § 340.7 Marking and identity. #####
 
-Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
-
 (a) Any regulated article to be imported other than by mail, shall, at the time of importation into the United States, plainly and correctly bear on the outer container the following information:
 
 (1) General nature and quantity of the contents;
@@ -16,7 +14,7 @@ Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
 
 (6) Number of written permit authorizing the importation.
 
-(b) Any regulated article imported by mail, shall be plainly and correctly addressed and mailed to APHIS through any USDA plant inspection station listed in § 319.37-14 of this chapter and shall be accompanied by a separate sheet of paper within the package plainly and correctly bearing the name, address, and telephone number of the intended recipient, and shall plainly and correctly bear on the outer container the following information:
+(b) Any regulated article imported by mail, shall be plainly and correctly addressed and mailed to APHIS through any USDA plant inspection station listed in accordance with § 319.37-8(a) of this chapter and shall be accompanied by a separate sheet of paper within the package plainly and correctly bearing the name, address, and telephone number of the intended recipient, and shall plainly and correctly bear on the outer container the following information:
 
 (1) General nature and quantity of the contents;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
 
 (c) Any regulated article imported into the United States by mail or otherwise shall, at the time of importation or offer for importation into the United States, be accompanied by an invoice or packing list indicating the contents of the shipment.
 
-[52 FR 22908, June 16, 1987. Redesignated at 58 FR 17056, Mar. 31, 1993, as amended at 58 FR 17059, Mar. 31, 1993; 62 FR 23958, May 2, 1997; 72 FR 43523, Aug. 6, 2007]
+[52 FR 22908, June 16, 1987. Redesignated at 58 FR 17056, Mar. 31, 1993, as amended at 58 FR 17059, Mar. 31, 1993; 62 FR 23958, May 2, 1997; 72 FR 43523, Aug. 6, 2007; 83 FR 11867, Mar. 19, 2018]

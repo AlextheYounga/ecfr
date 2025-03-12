@@ -46,7 +46,7 @@ The Parker, David, farm located on the northwest side of the intersection of a p
 
 The Riley, Troy Lee, property located 0.05 mile west of the end of a private road known as Stage Coach Lane, 0.2 mile north of the intersection of Stage Coach Lane and N.C. Highway 24, in the town of Autryville.
 
-SOUTH CAROLINA
+South Carolina
 
 (1) *Generally infested areas.* None.
 

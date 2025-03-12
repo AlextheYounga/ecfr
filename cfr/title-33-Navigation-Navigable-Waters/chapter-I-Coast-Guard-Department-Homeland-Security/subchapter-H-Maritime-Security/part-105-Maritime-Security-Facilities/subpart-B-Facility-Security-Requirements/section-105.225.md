@@ -1,12 +1,12 @@
 ##### § 105.225 Facility recordkeeping requirements. #####
 
-Link to an amendment published at 81 FR 57712, Aug. 23, 2016.Link to an amendment published at 83 FR 12102, Mar. 19, 2018.
+Link to an amendment published at 81 FR 57712, Aug. 23, 2016.
 
 (a) Unless otherwise specified in this section, the Facility Security Officer (FSO) must keep records of the activities as set out in paragraph (b) of this section for at least 2 years and make them available to the Coast Guard upon request.
 
 (b) Records required by this section may be kept in electronic format. If kept in an electronic format, they must be protected against unauthorized deletion, destruction, or amendment. The following records must be kept:
 
-(1) *Training.* For training under § 105.210, the date of each session, duration of session, a description of the training, and a list of attendees;
+(1) *Training.* For training under §§ 105.210 and 105.535, the date of each session, duration of session, a description of the training, and a list of attendees;
 
 (2) *Drills and exercises.* For each drill or exercise, the date held, description of drill or exercise, list of participants, and any best practices or lessons learned which may improve the Facility Security Plan (FSP);
 
@@ -24,4 +24,4 @@ Link to an amendment published at 81 FR 57712, Aug. 23, 2016.Link to an amendmen
 
 (c) Any record required by this part must be protected from unauthorized access or disclosure.
 
-[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60541, Oct. 22, 2003]
+[USCG-2003-14732, 68 FR 39322, July 1, 2003, as amended at 68 FR 60541, Oct. 22, 2003; USCG-2006-23846, 83 FR 12102, Mar. 19, 2018]

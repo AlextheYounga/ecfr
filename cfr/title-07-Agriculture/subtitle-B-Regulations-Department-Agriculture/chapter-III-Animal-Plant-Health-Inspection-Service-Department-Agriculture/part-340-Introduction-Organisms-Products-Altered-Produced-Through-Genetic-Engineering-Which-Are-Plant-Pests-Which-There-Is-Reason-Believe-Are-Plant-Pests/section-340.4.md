@@ -1,7 +1,5 @@
 ##### § 340.4 Permits for the introduction of a regulated article.6 #####
 
-Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
-
 6 See footnote 5 in § 340.3.
 
 (a) *Application for permit.* Two copies of a written application for a permit to introduce a regulated article, which may be obtained from APHIS, shall be submitted by the responsible person to the Animal and Plant Health Inspection Service, Plant Protection and Quarantine, Biotechnology and Scientific Services, Biotechnology Permits, 4700 River Road, Unit 147, Riverdale, Maryland 20737-1237. If there are portions of the application deemed to contain trade secret or confidential business information (CBI), each page of the application containing such information should be marked “CBI Copy”. In addition, those portions of the application which are deemed “CBI” shall be so designated. The second copy shall have all such CBI deleted and shall be marked on each page of the application where CBI was deleted, “CBI Deleted”. If an application does not contain CBI then the first page of both copies shall be marked “No CBI”.
@@ -80,7 +78,7 @@ Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
 
 (11) A permittee or his/her agent and any person who seeks to import a regulated article into the United States shall:
 
-(i) Import or offer the regulated article for entry only through any USDA plant inspection station listed in § 319.37-14 of this chapter;
+(i) Import or offer the regulated article for entry only through any USDA plant inspection station listed in accordance with § 319.37-8(a) of this chapter;
 
 (ii) Notify APHIS promptly upon arrival of any regulated article at a port of entry, of its arrival by such means as a manifest, customs entry document, commercial invoice, waybill, a broker's document, or a notice form provided for such purpose; and
 
@@ -94,4 +92,4 @@ Link to an amendment published at 83 FR 11867, Mar. 19, 2018.
 
 (3) *Administrative action.* APHIS shall complete an initial review within 15 days of the date of receipt of the application. If the application is complete, the responsible individual shall be notified of the date of receipt of the application for purposes of advising the applicant when the 60 day review period commenced. If the application is not complete, the responsible individual will be advised what additional information must be submitted, and shall commence the 60 day review period upon receipt of the additional information, assuming the additional information submitted is adequate. Within 60 days from the date of receipt of a complete application, APHIS will either issue a courtesy permit or advise the responsible individual that a permit is required under paragraph (b) or (c) of this section.
 
-(Approved by the Office of Management and Budget under control number 0579-0216)[52 FR 22908, June 16, 1987. Redesignated at 58 FR 17056, Mar. 31, 1993, as amended at 58 FR 17058, Mar. 31, 1993; 59 FR 67610, Dec. 30, 1994; 62 FR 23956, 23957, May 2, 1997; 68 FR 46436, Aug. 6, 2003; 72 FR 43523, Aug. 6, 2007]
+(Approved by the Office of Management and Budget under control number 0579-0216)[52 FR 22908, June 16, 1987. Redesignated at 58 FR 17056, Mar. 31, 1993, as amended at 58 FR 17058, Mar. 31, 1993; 59 FR 67610, Dec. 30, 1994; 62 FR 23956, 23957, May 2, 1997; 68 FR 46436, Aug. 6, 2003; 72 FR 43523, Aug. 6, 2007; 83 FR 11867, Mar. 19, 2018]

@@ -1,6 +1,6 @@
 ##### § 101.105 Definitions. #####
 
-Link to an amendment published at 81 FR 57707, Aug. 23, 2016.Link to an amendment published at 83 FR 12101, Mar. 19, 2018.
+Link to an amendment published at 81 FR 57707, Aug. 23, 2016.
 
 Unless otherwise specified, as used in this subchapter:
 
@@ -34,7 +34,11 @@ Unless otherwise specified, as used in this subchapter:
 
 *Cargo vessel* means a vessel that carries, or intends to carry, cargo as defined in this section.
 
+*Carry-on item* means an individual's accessible property, including any personal effects that the individual intends to carry onto a vessel or facility subject to this subchapter and is therefore subject to screening.
+
 *Certain Dangerous Cargo (CDC)* means the same as defined in 33 CFR 160.202.
+
+*Checked baggage* means an individual's personal property tendered by or on behalf of a passenger and accepted by a facility or vessel owner or operator. This baggage is accessible to the individual after boarding the vessel.
 
 *Commandant* means the Commandant of the U.S. Coast Guard.
 
@@ -46,19 +50,29 @@ Unless otherwise specified, as used in this subchapter:
 
 *Cruise ship* means any vessel over 100 gross register tons, carrying more than 12 passengers for hire which makes voyages lasting more than 24 hours, of which any part is on the high seas. Passengers from cruise ships are embarked or disembarked in the U.S. or its territories. Cruise ships do not include ferries that hold Coast Guard Certificates of Inspection endorsed for “Lakes, Bays, and Sounds”, that transit international waters for only short periods of time on frequent schedules.
 
+*Cruise ship terminal* means any portion of a facility that receives a cruise ship or its tenders for initial embarkation or final disembarkation.
+
+*Cruise ship voyage* means a cruise ship's entire course of travel, from the first port at which the vessel embarks passengers until its return to that port or another port where the majority of the passengers disembark and terminate their voyage. A cruise ship voyage may include one or more ports of call.
+
 *Dangerous goods and/or hazardous substances,* for the purposes of this subchapter, means cargoes regulated by parts 126, 127, or 154 of this chapter.
 
 *Dangerous substances or devices* means any material, substance, or item that reasonably has the potential to cause a transportation security incident.
 
 *Declaration of Security (DoS)* means an agreement executed between the responsible Vessel and Facility Security Officer, or between Vessel Security Officers in the case of a vessel-to-vessel activity, that provides a means for ensuring that all shared security concerns are properly addressed and security will remain in place throughout the time a vessel is moored to the facility or for the duration of the vessel-to-vessel activity, respectively.
 
+*Disembark* means any time that the crew or passengers leave the ship.
+
 *District Commander* means the U.S. Coast Guard officer designated by the Commandant to command a Coast Guard District described in 33 CFR part 3.
 
 *Drill* means a training event that tests at least one component of the AMS, vessel, or facility security plan and is used to maintain a high level of security readiness.
 
+*Embark* means any time that crew or passengers board the ship, including re-boarding at ports of call.
+
 *Escorting* means ensuring that the escorted individual is continuously accompanied while within a secure area in a manner sufficient to observe whether the escorted individual is engaged in activities other than those for which escorted access was granted. This may be accomplished via having a side-by-side companion or monitoring, depending upon where the escorted individual will be granted access. Individuals without TWICs may not enter restricted areas without having an individual who holds a TWIC as a side-by-side companion, except as provided in §§ 104.267, 105.257, and 106.262 of this subchapter.
 
 *Exercise* means a comprehensive training event that involves several of the functional elements of the AMS, vessel, or facility security plan and tests communications, coordination, resource availability, and response.
+
+*Explosives detection system* means any system, including canines, automated device, or combination of devices that have the ability to detect explosive material.
 
 *Facility* means any structure or facility of any kind located in, on, under, or adjacent to any waters subject to the jurisdiction of the U.S. and used, operated, or maintained by a public or private entity, including any contiguous or adjoining property under common ownership or operation.
 
@@ -83,6 +97,8 @@ Unless otherwise specified, as used in this subchapter:
 *Gross tonnage, ITC (GT ITC)* means the gross tonnage measurement of the vessel under 46 U.S.C. chapter 143, Convention Measurement. Under international conventions, this parameter may be referred to as “gross tonnage (GT).”
 
 *Hazardous materials* means hazardous materials subject to regulation under 46 CFR parts 148, 150, 151, 153, or 154, or 49 CFR parts 171 through 180.
+
+*High seas* means the waters defined in § 2.32(d) of this chapter.
 
 *Infrastructure* means facilities, structures, systems, assets, or services so vital to the port and its economy that their disruption, incapacity, or destruction would have a debilitating impact on defense, security, the environment, long-term economic prosperity, public health or safety of the port.
 
@@ -130,6 +146,8 @@ Unless otherwise specified, as used in this subchapter:
 
 *Personal Identification Number* (PIN) means a personally selected number stored electronically on the individual's TWIC.
 
+*Port of call* means a U.S. port where a cruise ship makes a scheduled or unscheduled stop in the course of its voyage and passengers are allowed to embark and disembark the vessel or its tenders.
+
 *Public access facility* means a facility -
 
 (1) That is used by the public primarily for purposes such as recreation, entertainment, retail, or tourism, and not for receiving vessels subject to part 104;
@@ -156,6 +174,8 @@ Unless otherwise specified, as used in this subchapter:
 
 *Review and approval* means the process whereby Coast Guard officials evaluate a plan or proposal to determine if it complies with this subchapter and/or provides an equivalent level of security.
 
+*Screener* means an individual who is trained and authorized to screen or inspect persons, baggage (including carry-on items), personal effects, and vehicles for the presence of dangerous substances and devices, and other items listed in the vessel security plan (VSP) or facility security plan (FSP).
+
 *Screening* means a reasonable examination of persons, cargo, vehicles, or baggage for the protection of the vessel, its passengers and crew. The purpose of the screening is to secure the vital government interest of protecting vessels, harbors, and waterfront facilities from destruction, loss, or injury from sabotage or other causes of similar nature. Such screening is intended to ensure that dangerous substances and devices, or other items that pose a real danger of violence or a threat to security are not present.
 
 *Secure area* means the area on board a vessel or at a facility or outer continental shelf facility over which the owner/operator has implemented security measures for access control in accordance with a Coast Guard approved security plan. It does not include passenger access areas, employee access areas, or public access areas, as those terms are defined in §§ 104.106, 104.107, and 105.106, respectively, of this subchapter. Vessels operating under the waivers provided for at 46 U.S.C. 8103(b)(3)(A) or (B) have no secure areas. Facilities subject to part 105 of this subchapter located in the Commonwealth of the Northern Mariana Islands and American Samoa have no secure areas. Facilities subject to part 105 of this subchapter may, with approval of the Coast Guard, designate only those portions of their facility that are directly connected to maritime transportation or are at risk of being involved in a transportation security incident as their secure areas.
@@ -169,6 +189,8 @@ Unless otherwise specified, as used in this subchapter:
 *SOLAS* means the International Convention for the Safety of Life at Sea Convention, 1974, as amended.
 
 *Survey* means an on-scene examination and evaluation of the physical characteristics of a vessel or facility, and its security systems, processes, procedures, and personnel.
+
+*Terminal screening program or TSP* means a written program developed for a cruise ship terminal that documents methods used to screen persons, baggage, and carry-on items for the presence of dangerous substances and devices to ensure compliance with this part.
 
 *Transportation security incident (TSI)* means a security incident resulting in a significant loss of life, environmental damage, transportation system disruption, or economic disruption in a particular area.
 

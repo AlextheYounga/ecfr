@@ -1,5 +1,7 @@
 ##### § 20.21 Signal boosters. #####
 
+Link to an amendment published at 83 FR 17090, Apr. 18, 2018.
+
 (a) *Operation of Consumer Signal Boosters.* A subscriber in good standing of a commercial mobile radio service system may operate a Consumer Signal Booster for personal use under the authorization held by the licensee providing service to the subscriber provided that the subscriber complies with paragraphs (a)(1) through (6). Failure to comply with all applicable rules in this section and all applicable technical rules for the frequency band(s) of operation voids the authority to operate the Consumer Signal Booster.
 
 (1) Prior to operation, the subscriber obtains the consent of the licensee providing service to the subscriber;

@@ -70,29 +70,21 @@ S5.2.3.1. Each school bus shall be equipped with the exits specified in either S
 
 (b) One emergency door on the vehicle's left side that is hinged on its forward side and meets the requirements of S5.2.3.2(a), and a push-out rear window that provides a minimum opening clearance 41 centimeters high and 122 centimeters wide and meets the requirements of S5.2.3.2(c), and the additional exits, if any, specified by Table 2.
 
-Table 1
+|                                                                                            Seating capacity                                                                                             |                                                                                                       Additional exits required \*                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                  1-45                                                                                                   |                                                                                                                   None.                                                                                                                   |
+|                                                                                                  46-62                                                                                                  |                                                                                                 1 left side exit door or 2 exit windows.                                                                                                  |
+|                                                                                                  63-70                                                                                                  |                                                                                         1 left side exit door or 2 exit windows, and 1 roof exit.                                                                                         |
+|                                                                                              71 and above                                                                                               |1 left side exit door or 2 exit windows, and 1 roof exit, and any combination of door, roof, or windows such that the total capacity credit specified in Table 3 for these exits, plus 70, is greater than the seating capacity of the bus.|
+|\* Side emergency exit doors must meet the requirements of S5.2.3.2(a), emergency roof exits must meet the requirements of S5.2.3.2(b), emergency window exits must meet the requirements of S5.2.3.2(c).|                                                                                                                                                                                                                                           |
 
-|Seating capacity|                                                                                                       Additional exits required \*                                                                                                        |
-|----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1-45      |                                                                                                                   None.                                                                                                                   |
-|     46-62      |                                                                                                 1 left side exit door or 2 exit windows.                                                                                                  |
-|     63-70      |                                                                                         1 left side exit door or 2 exit windows, and 1 roof exit.                                                                                         |
-|  71 and above  |1 left side exit door or 2 exit windows, and 1 roof exit, and any combination of door, roof, or windows such that the total capacity credit specified in Table 3 for these exits, plus 70, is greater than the seating capacity of the bus.|
-
-\* Side emergency exit doors must meet the requirements of S5.2.3.2(a), emergency roof exits must meet the requirements of S5.2.3.2(b), emergency window exits must meet the requirements of S5.2.3.2(c).
-
-Table 2
-
-|Seating capacity|                                                                                                Additional exits required \*                                                                                                 |
-|----------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|      1-57      |                                                                                                            None.                                                                                                            |
-|     58-74      |                                                                                          1 right side exit door or 2 exit windows.                                                                                          |
-|     75-82      |                                                                                 1 right side exit door or 2 exit windows, and 1 roof exit.                                                                                  |
-|  83 and above  |1 right side exit door or 2 windows, and 1 roof exit, and any combination of door, roof, or windows such that the total capacity credit specified in Table 3 for these exits plus 82 is greater than the capacity of the bus.|
-
-\* Side emergency exit doors must meet the requirements of S5.2.3.2(a), emergency roof exits must meet the requirements of S5.2.3.2(b), emergency window exits must meet the requirements of S5.2.3.2(c).
-
-Table 3
+|                                                                                            Seating capacity                                                                                             |                                                                                                Additional exits required \*                                                                                                 |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                  1-57                                                                                                   |                                                                                                            None.                                                                                                            |
+|                                                                                                  58-74                                                                                                  |                                                                                          1 right side exit door or 2 exit windows.                                                                                          |
+|                                                                                                  75-82                                                                                                  |                                                                                 1 right side exit door or 2 exit windows, and 1 roof exit.                                                                                  |
+|                                                                                              83 and above                                                                                               |1 right side exit door or 2 windows, and 1 roof exit, and any combination of door, roof, or windows such that the total capacity credit specified in Table 3 for these exits plus 82 is greater than the capacity of the bus.|
+|\* Side emergency exit doors must meet the requirements of S5.2.3.2(a), emergency roof exits must meet the requirements of S5.2.3.2(b), emergency window exits must meet the requirements of S5.2.3.2(c).|                                                                                                                                                                                                                             |
 
 |Exit Type|Capacity Credit|
 |---------|---------------|
@@ -172,7 +164,7 @@ S5.3.3.1 When tested under the conditions of S6., both before and after the wind
 
 S5.3.3.2 When tested under the conditions of S6., both before and after the window retention test required by S5.1, each school bus emergency exit window shall allow manual release of the exit by a single person, from inside the passenger compartment, using not more than two release mechanisms located in specified low-force or high-force regions (at the option of the manufacturer) with force applications and types of motions that conform to either S5.3.3.2 (a) or (b) of this section. In the case of windows with one release mechanism, the mechanism shall require two force applications to release the exit. In the case of windows with two release mechanisms, each mechanism shall require one application to release the exit. At least one of the force applications for each window shall differ from the direction of the initial motion to open the exit by no less than 90° and no more than 180°. Each release mechanism shall operate without the use of remote controls or tools, and notwithstanding any failure of the vehicle's power system. When a release mechanism is open and the vehicle's ignition is in the “on” position, a continuous warning shall be audible at the drivers seating position and in the vicinity of that emergency exit.
 
-(a) Emergency exit windows - Low-force application.
+(a) Emergency exit windows—Low-force application.
 
 (1) *Location:* Within the low-force access regions shown in Figures 1 and 3 for an emergency exit window.
 
@@ -180,7 +172,7 @@ S5.3.3.2 When tested under the conditions of S6., both before and after the wind
 
 (3) *Magnitude:* Not more than 89 newtons.
 
-(b) Emergency exit windows - High-force application.
+(b) Emergency exit windows—High-force application.
 
 (1) *Location:* Within the high-force access regions shown in Figures 2 and 3 for an emergency exit window.
 
@@ -190,7 +182,7 @@ S5.3.3.2 When tested under the conditions of S6., both before and after the wind
 
 S5.3.3.3 When tested under the conditions of S6., both before and after the window retention test required by S5.1, each school bus emergency roof exit shall allow manual release of the exit by a single person from both inside and outside the passenger compartment, using not more than two release mechanisms located at specified low-force or high-force regions (at the option of the manufacturer) with force applications and types of motions that conform either to S5.3.3.3 (a) or (b) of this section. In the case of roof exits with one release mechanism, the mechanism shall require two force applications to release the exit. In the case of roof exits with two release mechanisms, each mechanism shall require one application to release the exit. At least one of the force applications for each roof exit shall differ from the direction of the initial push-out motion of the exit by no less than 90° and no more than 180°.
 
-(a) Emergency roof exits - Low-force application.
+(a) Emergency roof exits—Low-force application.
 
 (1) *Location:* Within the low force access regions shown in Figure 3B, in the case of buses whose roof exits are not offset from the plane specified in S5.2.3.2(b)(5). In the case of buses which have roof exits offset from the plane specified in S5.2.3.2(b)(5), the amount of offset shall be used to recalculate the dimensions in Figure 3B for the offset exits.
 
@@ -198,7 +190,7 @@ S5.3.3.3 When tested under the conditions of S6., both before and after the wind
 
 (3) *Magnitude:* Not more than 89 newtons.
 
-(b) Emergency roof exits - High-force application.
+(b) Emergency roof exits—High-force application.
 
 (1) *Location:* Within the high force access regions shown in Figure 3B, in the case of buses whose roof exits are not offset from the plane specified in S5.2.3.2(b)(5). In the case of buses which have roof exits offset from the plane specified in S5.2.3.2(b)(5), the amount of offset shall be used to recalculate the dimensions in Figure 3B for the offset exits.
 
@@ -226,7 +218,7 @@ S5.4.2.1 *School buses with a GVWR of more than 10,000 pounds.*
 
 (iii) No portion of a seat or restraining barrier located forward of the area described in paragraph (a)(2)(i) of this section and between the door opening and a longitudinal vertical plane passing through the longitudinal centerline of the bus shall extend rearward of a vertical transverse plane tangent to the forwardmost portion of a latch mechanism on the door. (See Figures 5B and 5C.)
 
-(3)(i) Each emergency exit door of a school bus shall be equipped with a positive door opening device that, after the release mechanism has been operated, under the conditions of S6, before and after the window retention test required by S5.1 -
+(3)(i) Each emergency exit door of a school bus shall be equipped with a positive door opening device that, after the release mechanism has been operated, under the conditions of S6, before and after the window retention test required by S5.1—
 
 (A) Bears the weight of the door;
 
@@ -290,4 +282,4 @@ S6.3 For the window retention test, windows are installed, closed, and latched (
 
 S6.4 For the emergency exit release and extension tests, windows are installed as in S6.3, seats, armrests, and interior objects near the windows are installed as for normal use, and seats are in the upright position.
 
-![](/graphics/ec01au91.114.gif)![](/graphics/ec01au91.115.gif)![](/graphics/ec01au91.116.gif)![](/graphics/ec01au91.117.gif)![](/graphics/er30mr12.000.gif)![](/graphics/ec01au91.119.gif)![](/graphics/ec01au91.120.gif)![](/graphics/ec01au91.121.gif)![](/graphics/er19ap02.000.gif)Figure 6B [Reserved]![](/graphics/er19ap02.002.gif)Figure 6D [Reserved]![](/graphics/ec01au91.122.gif)[37 FR 9395, May 10, 1972]Editorial Note:For Federal Register citations affecting § 571.217, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+![](/graphics/ec01au91.114.gif)![](/graphics/ec01au91.115.gif)![](/graphics/ec01au91.116.gif)![](/graphics/ec01au913c.117.gif)![](/graphics/er30mr12.000.gif)Figure 3 Low and High-Force Access Regions for Emergency Exits Without Adjacent Seats![](/graphics/er18ap18.004.gif)![](/graphics/ec01au91.119.gif)![](/graphics/ec01au91.120.gif)![](/graphics/ec01au91.121.gif)![](/graphics/er19ap02.000.gif)Figure 6B [Reserved]![](/graphics/er19ap02.002.gif)Figure 6D [Reserved]![](/graphics/ec01au91.122.gif)[37 FR 9395, May 10, 1972]Editorial Note:For Federal Register citations affecting § 571.217, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

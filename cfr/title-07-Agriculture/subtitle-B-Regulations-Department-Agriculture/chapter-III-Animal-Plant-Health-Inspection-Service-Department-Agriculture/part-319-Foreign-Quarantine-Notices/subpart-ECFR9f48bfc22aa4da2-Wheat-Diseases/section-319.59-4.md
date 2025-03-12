@@ -1,12 +1,10 @@
 ##### § 319.59-4 Karnal bunt. #####
 
-Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
-
 (a) *Regulated articles.* The following are regulated articles for Karnal bunt:
 
 (1) Conveyances, including trucks, railroad cars, and other containers used to move host crops from a region listed in paragraph (b)(1) of this section that test positive for Karnal bunt through the presence of bunted kernels;
 
-(2) Plant parts, including grain, seed, straw, or hay, of all varieties of wheat (*Triticum aestivum*), durum wheat (*Triticum durum*), and triticale (*Triticum aestivum* × *Secale cereale*) from a region listed in paragraph (b)(1) of this section, except for straw/stalks/seed heads for decorative purposes that have been processed or manufactured prior to movement and are intended for use indoors;
+(2) Plant parts, including grain, straw, or hay, of all varieties of wheat (*Triticum aestivum*), durum wheat (*Triticum durum*), and triticale (*Triticum aestivum* × *Secale cereale*) from a region listed in paragraph (b)(1) of this section, except for straw/stalks/seed heads for decorative purposes that have been processed or manufactured prior to movement and are intended for use indoors;
 
 (3) *Tilletia indica* (Mitra) Mundkur;
 
@@ -40,4 +38,4 @@ Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
 
 (3) Items that require disinfection prior to entry into the United States must be disinfected in accordance with part 305 of this chapter.
 
-(Approved by the Office of Management and Budget under control number 0579-0240)[70 FR 8231, Feb. 18, 2005, as amended at 75 FR 4253, Jan. 26, 2010]
+(Approved by the Office of Management and Budget under control number 0579-0240)[70 FR 8231, Feb. 18, 2005, as amended at 75 FR 4253, Jan. 26, 2010; 83 FR 11866, Mar. 19, 2018]

@@ -1,7 +1,5 @@
 ##### § 319.6 Controlled import permits. #####
 
-Link to an amendment published at 83 FR 11855, Mar. 19, 2018.
-
 (a) *Definitions.*
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.
@@ -36,7 +34,7 @@ Link to an amendment published at 83 FR 11855, Mar. 19, 2018.
 
 (3) Fungicides, insecticides, and other treatments such as coatings, dips, or sprayings must not be applied before shipment, unless otherwise specified. Plant materials may be refused entry if they are difficult or hazardous to inspect because of the presence of such treatments. Plant materials must not be wrapped or otherwise packaged in a manner that impedes or prevents adequate inspection or treatment.
 
-(4) The plant material must be moved in an enclosed container or one completely enclosed by a covering adequate to prevent the possible escape or introduction of plant pests during shipment. Any packing material used in the consignment of the plant material must meet the requirements of § 319.37-9, and wood packing material used in the consignment must meet the requirements of § 319.40-3(b) and (c).
+(4) The plant material must be moved in an enclosed container or one completely enclosed by a covering adequate to prevent the possible escape or introduction of plant pests during shipment. Any packing material used in the consignment of the plant material must meet the requirements of § 319.37-11, and wood packing material used in the consignment must meet the requirements of § 319.40-3(b) and (c).
 
 (5) Consignments may be shipped as cargo, by mail or air freight, or hand-carried, as specified in the conditions of the CIP.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 83 FR 11855, Mar. 19, 2018.
 
 (2) *Appeal of denial or revocation.* Any person whose application for a permit has been denied or whose permit has been revoked may appeal the denial or revocation in accordance with § 319.7-5.
 
-(Approved by the Office of Management and Budget under control number 0579-0384)[78 FR 25568, May 2, 2013, as amended at 79 FR 19807, Apr. 10, 2014; 81 FR 40150, June 21, 2016]
+(Approved by the Office of Management and Budget under control number 0579-0384)[78 FR 25568, May 2, 2013, as amended at 79 FR 19807, Apr. 10, 2014; 81 FR 40150, June 21, 2016; 83 FR 11855, Mar. 19, 2018]

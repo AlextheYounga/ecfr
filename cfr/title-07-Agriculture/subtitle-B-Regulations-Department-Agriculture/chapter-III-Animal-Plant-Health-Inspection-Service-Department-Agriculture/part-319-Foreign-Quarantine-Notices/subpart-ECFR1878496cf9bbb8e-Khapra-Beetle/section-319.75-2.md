@@ -1,8 +1,6 @@
 ##### § 319.75-2 Regulated articles.1 #####
 
-Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
-
-1 The importation of regulated articles may be subject to prohibitions or additional restrictions under other provisions of 7 CFR part 319, such as Subpart - Foreign Cotton and Covers (see § 319.8) and Subpart - Fruits and Vegetables (see § 319.56).
+1 The importation of restricted articles may be subject to prohibitions or restrictions under other provisions of 7 CFR part 319. For example, fresh whole chilies (*Capsicum* spp.) and fresh whole red peppers (*Capsicum* spp.) from Pakistan are prohibited from being imported into the United States under the provisions of Subpart - Fruits and Vegetables of this part, and the importation of any restricted articles that are for planting or capable of being planted is restricted under Subpart - Plants for Planting of this part.
 
 (a) The following articles are regulated articles from all countries designated in accordance with paragraph (c) of this section as infested with khapra beetle and are subject to mandatory treatment in accordance with § 319.75-4:
 
@@ -28,4 +26,4 @@ Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
 
 (c) The Administrator will designate a country or an area under a specific jurisdictional authority as infested with khapra beetle when we receive official notification from the country or area that it is infested or when we intercept the pest in a commercial shipment from that country. The Administrator will publish the list of countries or areas under a specific jurisdictional authority found to be infested with khapra beetle on the Plant Protection and Quarantine Web site, *http://www.aphis.usda.gov/import\_export/plants/manuals/ports/downloads/kb.pdf.* After a change is made to the list of infested countries or areas, we will publish a notice in the Federal Register informing the public that the change has occurred.
 
-[79 FR 77841, Dec. 29, 2014, as amended at 80 FR 43010, July 21, 2015]
+[79 FR 77841, Dec. 29, 2014, as amended at 80 FR 43010, July 21, 2015; 83 FR 11866, Mar. 19, 2018]

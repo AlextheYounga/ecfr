@@ -1,7 +1,5 @@
 ##### § 319.75-1 Definitions. #####
 
-Link to an amendment published at 83 FR 11866, Mar. 19, 2018.
-
 Terms used in the singular form in this subpart shall be construed as the plural, and vice-versa, as the case may demand. The following terms, when used in this subpart, shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator of the Animal and Plant Health Inspection Service, United States Department of Agriculture, or any employee of the United States Department of Agriculture delegated to act in his or her stead.
@@ -11,8 +9,6 @@ Terms used in the singular form in this subpart shall be construed as the plural
 *Import.* (importation, imported). To import or move into the United States.
 
 *Inspector.* Any individual authorized by the Administrator or the Commissioner of U.S. Customs and Border Protection, Department of Homeland Security, to enforce the regulations in this subpart.
-
-*Nursery stock.* All field-grown florist's stock, trees, shrubs, vines, cuttings, grafts, scions, buds, fruit pits, and other seeds of fruit and ornamental trees or shrubs, and other plants and plant products for propagation, except field, vegetable and flower seeds, bedding plants, and other herbaceous plants, bulbs, and roots.
 
 *Person.* Any individual, corporation, company, society, association or other organized group.
 
@@ -28,4 +24,4 @@ Terms used in the singular form in this subpart shall be construed as the plural
 
 *United States.* The States, District of Columbia, American Samoa, Guam, Northern Mariana Islands, Puerto Rico, and the Virgin Islands of the United States.
 
-[46 FR 38334, July 27, 1981, as amended at 47 FR 3085, Jan. 22, 1982; 49 FR 1876, Jan. 16, 1984; 50 FR 8704, 8706, Mar. 5, 1985; 66 FR 21057, Apr. 27, 2001; 78 FR 25572, May 2, 2013; 19811, Apr. 10, 2014; 79 FR 77841, Dec. 29, 2014]
+[46 FR 38334, July 27, 1981, as amended at 47 FR 3085, Jan. 22, 1982; 49 FR 1876, Jan. 16, 1984; 50 FR 8704, 8706, Mar. 5, 1985; 66 FR 21057, Apr. 27, 2001; 78 FR 25572, May 2, 2013; 19811, Apr. 10, 2014; 79 FR 77841, Dec. 29, 2014; 83 FR 11866, Mar. 19, 2018]
