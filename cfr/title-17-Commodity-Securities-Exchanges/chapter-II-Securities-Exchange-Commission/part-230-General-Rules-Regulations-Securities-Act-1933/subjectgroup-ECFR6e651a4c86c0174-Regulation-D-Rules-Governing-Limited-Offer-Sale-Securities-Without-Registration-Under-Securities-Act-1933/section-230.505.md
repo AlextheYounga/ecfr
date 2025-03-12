@@ -1,6 +1,6 @@
 ##### § 230.505 Exemption for limited offers and sales of securities not exceeding $5,000,000. #####
 
-Link to an amendment published at 81 FR 83553, November 21, 2016.
+Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 (a) *Exemption.* Offers and sales of securities that satisfy the conditions in paragraph (b) of this section by an issuer that is not an investment company shall be exempt from the provisions of section 5 of the Act under section 3(b) of the Act.
 

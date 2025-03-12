@@ -1,6 +1,6 @@
 ##### § 230.508 Insignificant deviations from a term, condition or requirement of Regulation D. #####
 
-Link to an amendment published at 81 FR 83553, November 21, 2016.
+Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 (a) A failure to comply with a term, condition or requirement of § 230.504, § 230.505 or § 230.506 will not result in the loss of the exemption from the requirements of section 5 of the Act for any offer or sale to a particular individual or entity, if the person relying on the exemption shows:
 

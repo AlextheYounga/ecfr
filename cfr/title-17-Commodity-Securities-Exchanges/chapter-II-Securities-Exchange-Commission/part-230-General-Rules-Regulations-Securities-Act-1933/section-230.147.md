@@ -1,6 +1,6 @@
 ##### § 230.147 “Part of an issue”, “person resident”, and “doing business within” for purposes of section 3(a)(11). #####
 
-Link to an amendment published at 81 FR 83550, November 21, 2016.Preliminary Notes:
+Link to an amendment published at 81 FR 83550, Nov. 21, 2016.Preliminary Notes:
 
 1. This rule shall not raise any presumption that the exemption provided by section 3(a)(11) of the Act is not available for transactions by an issuer which do not satisfy all of the provisions of the rule.
 

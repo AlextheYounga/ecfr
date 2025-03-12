@@ -1,6 +1,6 @@
 ##### § 230.501 Definitions and terms used in Regulation D. #####
 
-Link to an amendment published at 81 FR 83553, November 21, 2016.
+Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 As used in Regulation D (§ 230.500 *et seq.* of this chapter), the following terms shall have the meaning indicated:
 

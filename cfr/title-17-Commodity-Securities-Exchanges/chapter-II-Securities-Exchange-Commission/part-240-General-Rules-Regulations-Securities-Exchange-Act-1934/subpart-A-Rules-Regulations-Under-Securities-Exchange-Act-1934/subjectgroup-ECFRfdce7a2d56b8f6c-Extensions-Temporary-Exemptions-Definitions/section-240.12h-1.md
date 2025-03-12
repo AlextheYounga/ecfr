@@ -66,6 +66,6 @@ All stock options issued under all of the written compensatory stock option plan
 
 (h) Any security-based swap that is issued by a clearing agency registered as a clearing agency under Section 17A of the Act (15 U.S.C. 78q-1) or exempt from registration under Section 17A of the Act pursuant to a rule, regulation, or order of the Commission in its function as a central counterparty that the Commission has determined must be cleared or that is permitted to be cleared pursuant to the clearing agency's rules, and that was sold to an eligible contract participant (as defined in Section 1a(18) of the Commodity Exchange Act (7 U.S.C. 1a(18))) in reliance on Rule 239 under the Securities Act of 1933 (17 CFR 230.239).
 
-(i) Any security-based swap offered and sold in reliance on Rule 240 under the Securities Act of 1933. This rule will expire on February 11, 2017. In such event, the Commission will publish a rule removing this paragraph (i) from 17 CFR part 240 or modifying it as appropriate.
+(i) Any security-based swap offered and sold in reliance on § 230.240 of this chapter. This section will expire on February 11, 2018.
 
-[30 FR 6114, Apr. 30, 1965, as amended at 43 FR 2392, Jan. 17, 1978. Redesignated at 47 FR 17052, Apr. 21, 1982; 68 FR 192, Jan. 2, 2003; 72 FR 69566, Dec. 7, 2007; 76 FR 40612, July 11, 2011; 77 FR 20549, Apr. 5, 2012; 78 FR 7659, Feb. 4, 2013; 79 FR 7576, Feb. 10, 2014]
+[30 FR 6114, Apr. 30, 1965, as amended at 43 FR 2392, Jan. 17, 1978. Redesignated at 47 FR 17052, Apr. 21, 1982; 68 FR 192, Jan. 2, 2003; 72 FR 69566, Dec. 7, 2007; 76 FR 40612, July 11, 2011; 77 FR 20549, Apr. 5, 2012; 78 FR 7659, Feb. 4, 2013; 79 FR 7576, Feb. 10, 2014; 82 FR 10707, Feb. 15, 2017]

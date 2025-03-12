@@ -1,6 +1,6 @@
 ##### § 239.500 Form D, notice of sales of securities under Regulation D and section 4(5) of the Securities Act of 1933. #####
 
-Link to an amendment published at 81 FR 83553, November 21, 2016.
+Link to an amendment published at 81 FR 83553, Nov. 21, 2016.
 
 (a) *When notice of sales on Form D must be filed.* (1) An issuer offering or selling securities in reliance on § 230.504, § 230.505, or § 230.506 of this chapter or section 4(5) of the Securities Act of 1933 must file with the Commission a notice of sales containing the information required by this form for each new offering of securities no later than 15 calendar days after the first sale of securities in the offering, unless the end of that period falls on a Saturday, Sunday or holiday, in which case the due date would be the first business day following.
 

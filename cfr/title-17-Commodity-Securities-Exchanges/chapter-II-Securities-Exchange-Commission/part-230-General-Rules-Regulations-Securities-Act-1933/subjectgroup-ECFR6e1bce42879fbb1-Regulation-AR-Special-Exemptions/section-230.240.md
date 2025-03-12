@@ -8,6 +8,6 @@
 
 (b) The exemption provided in paragraph (a) of this section does not apply to the provisions of Section 17(a) of the Act (15 U.S.C. 77q(a)).
 
-(c) This rule will expire on February 11, 2017. In such event, the Commission will publish a rule removing this section from 17 CFR part 230 or modifying it as appropriate.
+(c) This section will expire on February 11, 2018.
 
-[76 FR 40611, July 11, 2011, as amended at 78 FR 7659, Feb. 4, 2013; 79 FR 7576, Feb. 10, 2014]
+[82 FR 10707, Feb. 15, 2017]
