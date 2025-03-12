@@ -1,5 +1,7 @@
 ##### § 230.462 Immediate effectiveness of certain registration statements and post-effective amendments. #####
 
+Link to an amendment published at 85 FR 33356, June 1, 2020.
+
 (a) A registration statement on Form S-8 (§ 239.16b of this chapter) and a registration statement on Form S-3 (§ 239.13 of this chapter) or on Form F-3 (§ 239.33 of this chapter) for a dividend or interest reinvestment plan shall become effective upon filing with the Commission.
 
 (b) A registration statement and any post-effective amendment thereto shall become effective upon filing with the Commission if:

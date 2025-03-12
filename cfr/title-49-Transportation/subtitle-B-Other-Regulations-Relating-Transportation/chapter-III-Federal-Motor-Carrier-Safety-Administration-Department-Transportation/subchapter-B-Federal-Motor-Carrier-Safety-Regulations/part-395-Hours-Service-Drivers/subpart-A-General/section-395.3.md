@@ -1,5 +1,7 @@
 ##### § 395.3 Maximum driving time for property-carrying vehicles. #####
 
+Link to an amendment published at 85 FR 33452, June 1, 2020.
+
 (a) Except as otherwise provided in § 395.1, no motor carrier shall permit or require any driver used by it to drive a property-carrying commercial motor vehicle, nor shall any such driver drive a property-carrying commercial motor vehicle, regardless of the number of motor carriers using the driver's services, unless the driver complies with the following requirements:
 
 (1) *Start of work shift.* A driver may not drive without first taking 10 consecutive hours off duty;

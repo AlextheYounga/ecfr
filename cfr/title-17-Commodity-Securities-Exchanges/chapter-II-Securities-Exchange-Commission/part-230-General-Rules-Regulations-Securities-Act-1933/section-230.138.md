@@ -1,5 +1,7 @@
 ##### § 230.138 Publications or distributions of research reports by brokers or dealers about securities other than those they are distributing. #####
 
+Link to an amendment published at 85 FR 33352, June 1, 2020.
+
 (a) *Registered offerings.* Under the following conditions, a broker's or dealer's publication or distribution of research reports about securities of an issuer shall be deemed for purposes of sections 2(a)(10) and 5(c) of the Act not to constitute an offer for sale or offer to sell a security which is the subject of an offering pursuant to a registration statement that the issuer proposes to file, or has filed, or that is effective, even if the broker or dealer is participating or will participate in the registered offering of the issuer's securities:
 
 (1)(i) The research report relates solely to the issuer's common stock, or debt securities or preferred stock convertible into its common stock, and the offering involves solely the issuer's non-convertible debt securities or non-convertible, non-participating preferred stock; or

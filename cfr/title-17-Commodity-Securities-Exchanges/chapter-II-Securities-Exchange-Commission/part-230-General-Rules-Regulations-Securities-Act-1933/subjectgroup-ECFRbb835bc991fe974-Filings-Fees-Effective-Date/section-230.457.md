@@ -1,5 +1,7 @@
 ##### § 230.457 Computation of fee. #####
 
+Link to an amendment published at 85 FR 33356, June 1, 2020.
+
 (a) If a filing fee based on a bona fide estimate of the maximum offering price, computed in accordance with this rule where applicable, has been paid, no additional filing fee shall be required as a result of changes in the proposed offering price. If the number of shares or other units of securities, or the principal amount of debt securities to be offered is increased by an amendment filed prior to the effective date of the registration statement, an additional filing fee, computed on the basis of the offering price of the additional securities, shall be paid. There will be no refund once the statement is filed.
 
 (b) A required fee shall be reduced in an amount equal to any fee paid with respect to such transaction pursuant to sections 13(e) and 14(g) of the Securities Exchange Act of 1934 or any applicable provision of this section; the fee requirements under sections 13(e) and 14(g) shall be reduced in an amount equal to the fee paid the Commission with respect to a transaction under this section. No part of a filing fee is refundable.

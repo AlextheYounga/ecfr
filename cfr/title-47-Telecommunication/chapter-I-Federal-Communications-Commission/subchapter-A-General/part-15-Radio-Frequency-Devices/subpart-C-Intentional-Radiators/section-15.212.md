@@ -1,7 +1,5 @@
 ##### § 15.212 Modular transmitters. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) Single modular transmitters consist of a completely self-contained radiofrequency transmitter device that is typically incorporated into another product, host or device. Split modular transmitters consist of two components: a radio front end with antenna (or radio devices) and a transmitter control element (or specific hardware on which the software that controls the radio operation resides). All single or split modular transmitters are approved with an antenna. All of the following requirements apply, except as provided in paragraph (b) of this section.
 
 (1) Single modular transmitters must meet the following requirements to obtain a modular transmitter approval.
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
 
 (vii) The modular transmitter must comply with any specific rules or operating requirements that ordinarily apply to a complete transmitter and the manufacturer must provide adequate instructions along with the module to explain any such requirements. A copy of these instructions must be included in the application for equipment authorization.
 
-(viii) The modular transmitter must comply with any applicable RF exposure requirements in its final configuration.
+(viii) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of modular transmitters under this section must contain a statement confirming compliance with these requirements. The modular transmitter must comply with any applicable RF exposure requirements in its final configuration. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
 (2) Split modular transmitters must meet the requirements in paragraph (a)(1) of this section, excluding paragraphs (a)(1)(i) and (a)(1)(v), and the following additional requirements to obtain a modular transmitter approval.
 
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
 
 (b) A limited modular approval may be granted for single or split modular transmitters that do not comply with all of the above requirements, e.g., shielding, minimum signaling amplitude, buffered modulation/data inputs, or power supply regulation, if the manufacturer can demonstrate by alternative means in the application for equipment authorization that the modular transmitter meets all the applicable part 15 requirements under the operating conditions in which the transmitter will be used. Limited modular approval also may be granted in those instances where compliance with RF exposure rules is demonstrated only for particular product configurations. The applicant for certification must state how control of the end product into which the module will be installed will be maintained such that full compliance of the end product is always ensured.
 
-[72 FR 28893, May 23, 2007]
+[72 FR 28893, May 23, 2007, as amended at 85 FR 18149, Apr. 1, 2020]

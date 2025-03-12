@@ -1,7 +1,5 @@
 ##### § 15.255 Operation within the band 57-71 GHz. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) Operation under the provisions of this section is not permitted for the following products:
 
 (1) Equipment used on satellites.
@@ -56,10 +54,10 @@ Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
 
 (f) *Frequency stability.* Fundamental emissions must be contained within the frequency bands specified in this section during all conditions of operation. Equipment is presumed to operate over the temperature range −20 to + 50 degrees Celsius with an input voltage variation of 85% to 115% of rated input voltage, unless justification is presented to demonstrate otherwise.
 
-(g) Regardless of the power density levels permitted under this section, devices operating under the provisions of this section are subject to the radiofrequency radiation exposure requirements specified in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.
+(g) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
 (h) Any transmitter that has received the necessary FCC equipment authorization under the rules of this chapter may be mounted in a group installation for simultaneous operation with one or more other transmitter(s) that have received the necessary FCC equipment authorization, without any additional equipment authorization. However, no transmitter operating under the provisions of this section may be equipped with external phase-locking inputs that permit beam-forming arrays to be realized.
 
 (i) Measurement procedures that have been found to be acceptable to the Commission in accordance with § 2.947 of this chapter may be used to demonstrate compliance.
 
-[63 FR 42279, Aug. 7, 1998, as amended at 66 FR 7409, Jan. 23, 2001; 68 FR 68547, Dec. 9, 2003; 78 FR 59850, Sept. 30, 2013; 81 FR 79936, Nov. 14, 2016; 83 FR 63, Jan. 2, 2018]
+[63 FR 42279, Aug. 7, 1998, as amended at 66 FR 7409, Jan. 23, 2001; 68 FR 68547, Dec. 9, 2003; 78 FR 59850, Sept. 30, 2013; 81 FR 79936, Nov. 14, 2016; 83 FR 63, Jan. 2, 2018; 85 FR 18149, Apr. 1, 2020]

@@ -1,7 +1,5 @@
 ##### § 1.4000 Restrictions impairing reception of television broadcast signals, direct broadcast satellite services or multichannel multipoint distribution services. #####
 
-Link to an amendment published at 85 FR 18146, Apr. 1, 2020.
-
 (a)(1) Any restriction, including but not limited to any state or local law or regulation, including zoning, land-use, or building regulations, or any private covenant, contract provision, lease provision, homeowners' association rule or similar restriction, on property within the exclusive use or control of the antenna user where the user has a direct or indirect ownership or leasehold interest in the property that impairs the installation, maintenance, or use of:
 
 (i) An antenna that is:
@@ -40,11 +38,7 @@ Link to an amendment published at 85 FR 18146, Apr. 1, 2020.
 
 (3) It is no more burdensome to affected antenna users than is necessary to achieve the objectives described in paragraphs (b)(1) or (b)(2) of this section.
 
-(c) In the case of an antenna that is used to transmit fixed wireless signals, the provisions of this section shall apply only if a label is affixed to the antenna that:
-
-(1) Provides adequate notice regarding potential radiofrequency safety hazards, e.g., information regarding the safe minimum separation distance required between users and transceiver antennas; and
-
-(2) References the applicable FCC-adopted limits for radiofrequency exposure specified in § 1.1310 of this chapter.
+(c) [Reserved]
 
 (d) Local governments or associations may apply to the Commission for a waiver of this section under § 1.3 of this chapter. Waiver requests must comply with the procedures in paragraphs (f) and (h) of this section and will be put on public notice. The Commission may grant a waiver upon a showing by the applicant of local concerns of a highly specialized or unusual nature. No petition for waiver shall be considered unless it specifies the restriction at issue. Waivers granted in accordance with this section shall not apply to restrictions amended or enacted after the waiver is granted. Any responsive pleadings must be served on all parties and filed within 30 days after release of a public notice that such petition has been filed. Any replies must be filed within 15 days thereafter.
 
@@ -56,4 +50,4 @@ Link to an amendment published at 85 FR 18146, Apr. 1, 2020.
 
 (h) All allegations of fact contained in petitions and related pleadings before the Commission must be supported by affidavit of a person or persons with actual knowledge thereof. An original and two copies of all petitions and pleadings should be addressed to the Secretary, Federal Communications Commission, 445 12th Street, SW, Washington, DC 20554. Copies of the petitions and related pleadings will be available for public inspection in the Reference Information Center, Consumer and Governmental Affairs Bureau, Federal Communications Commission, 445 12th Street, SW, Washington, DC 20554. Copies will be available for purchase from the Commission's contract copy center, and the Commission decisions will be available on the Internet.
 
-[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002; 82 FR 41103, Aug. 29, 2017]
+[66 FR 2333, Jan. 11, 2001, as amended at 67 FR 13224, Mar. 21, 2002; 82 FR 41103, Aug. 29, 2017; 85 FR 18146, Apr. 1, 2020]

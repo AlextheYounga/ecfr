@@ -1,5 +1,7 @@
 ##### § 395.1 Scope of rules in this part. #####
 
+Link to an amendment published at 85 FR 33451, June 1, 2020.
+
 (a) *General.* (1) The rules in this part apply to all motor carriers and drivers, except as provided in paragraphs (b) through (x) of this section.
 
 (2) The exceptions from Federal requirements contained in paragraphs (l) and (m) of this section do not preempt State laws and regulations governing the safe operation of commercial motor vehicles.

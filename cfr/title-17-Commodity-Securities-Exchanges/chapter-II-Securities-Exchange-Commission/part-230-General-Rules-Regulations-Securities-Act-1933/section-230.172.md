@@ -1,5 +1,7 @@
 ##### § 230.172 Delivery of prospectuses. #####
 
+Link to an amendment published at 85 FR 33353, June 1, 2020.
+
 (a) *Sending confirmations and notices of allocations.* After the effective date of a registration statement, the following are exempt from the provisions of section 5(b)(1) of the Act if the conditions set forth in paragraph (c) of this section are satisfied:
 
 (1) Written confirmations of sales of securities in an offering pursuant to a registration statement that contain information limited to that called for in Rule 10b-10 under the Securities Exchange Act of 1934 (§ 240.10b-10 of this chapter) and other information customarily included in written confirmations of sales of securities, which may include notices provided pursuant to Rule 173 (§ 230.173); and

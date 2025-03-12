@@ -1,7 +1,5 @@
 ##### § 15.319 General technical requirements. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) [Reserved]
 
 (b) All transmissions must use only digital modulation techniques. Both asynchronous and isochronous operations are permitted within the 1920-1930 MHz band.
@@ -18,6 +16,6 @@ Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
 
 (h) Where there is a transition between limits, the tighter limit shall apply at the transition point.
 
-(i) Unlicensed PCS devices are subject to the radiofrequency radiation exposure requirements specified in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, as appropriate. All equipment shall be considered to operate in a “general population/uncontrolled” environment. Applications for equipment authorization of devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.
+(i) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. All equipment shall be considered to operate in a “general population/uncontrolled” environment. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
-[58 FR 59180, Nov. 8, 1993, as amended at 59 FR 32852, June 24, 1994; 59 FR 40835, Aug. 10, 1994; 60 FR 13073, Mar. 10, 1995; 61 FR 41018, Aug. 7, 1996; 69 FR 62621, Oct. 27, 2004; 69 FR 77949, Dec. 29, 2004; 77 FR 43013, July 23, 2012]
+[58 FR 59180, Nov. 8, 1993, as amended at 59 FR 32852, June 24, 1994; 59 FR 40835, Aug. 10, 1994; 60 FR 13073, Mar. 10, 1995; 61 FR 41018, Aug. 7, 1996; 69 FR 62621, Oct. 27, 2004; 69 FR 77949, Dec. 29, 2004; 77 FR 43013, July 23, 2012; 85 FR 18149, Apr. 1, 2020]

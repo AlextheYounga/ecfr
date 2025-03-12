@@ -1,5 +1,3 @@
 ##### § 208.8 Recipient responsibilities. #####
 
-Each recipient who is required to receive payment by electronic funds transfer shall provide the information necessary to effect payment by electronic funds transfer.
-
-[75 FR 80335, Dec. 22, 2010]
+Each recipient who is required to receive payment by electronic funds transfer shall provide the information necessary to effect payment by electronic funds transfer. For recipients who do not designate a bank account for the receipt of payments, Treasury may disburse payments to a Treasury-sponsored account or to an account to which the recipient is receiving other Federal payments.

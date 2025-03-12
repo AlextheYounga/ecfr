@@ -1,6 +1,6 @@
 ##### § 230.164 Post-filing free writing prospectuses in connection with certain registered offerings. #####
 
-Preliminary Notes to § 230.164.
+Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary Notes to § 230.164.
 
 1. This section is not available for any communication that, although in technical compliance with this section, is part of a plan or scheme to evade the requirements of section 5 of the Act.
 

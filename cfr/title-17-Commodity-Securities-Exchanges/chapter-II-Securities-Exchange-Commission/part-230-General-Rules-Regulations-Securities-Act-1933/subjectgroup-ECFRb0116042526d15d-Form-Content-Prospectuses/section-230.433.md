@@ -1,5 +1,7 @@
 ##### § 230.433 Conditions to permissible post-filing free writing prospectuses. #####
 
+Link to an amendment published at 85 FR 33355, June 1, 2020.
+
 (a) *Scope of section.* This section applies to any free writing prospectus with respect to securities of any issuer (except as set forth in Rule 164 (§ 230.164)) that are the subject of a registration statement that has been filed under the Act. Such a free writing prospectus that satisfies the conditions of this section may include information the substance of which is not included in the registration statement. Such a free writing prospectus that satisfies the conditions of this section will be a prospectus permitted under section 10(b) of the Act for purposes of sections 2(a)(10), 5(b)(1), and 5(b)(2) of the Act and will, for purposes of considering it a prospectus, be deemed to be public, without regard to its method of use or distribution, because it is related to the public offering of securities that are the subject of a filed registration statement.
 
 (b) *Permitted use of free writing prospectus.* Subject to the conditions of this paragraph (b) and satisfaction of the conditions set forth in paragraphs (c) through (g) of this section, a free writing prospectus may be used under this section and Rule 164 in connection with a registered offering of securities:

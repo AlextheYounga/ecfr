@@ -56,7 +56,7 @@ This section applies to the following types of entities: A security-based swap d
 
 (ix) The records required to be made pursuant to § 240.15c3-4 and the results of the periodic reviews conducted pursuant to § 240.15c3-4(d).
 
-(x) The records required to be made pursuant to § 240.18a-1(e)(2)(iv)(F)(*1*) and (*2*).
+(x) The records required to be made pursuant to § 240.18a-1(e)(2)(iii)(F)(*1*) and (*2*).
 
 (xi) A copy of information required to be reported under §§ 242.901 through 242.909 of this chapter (Regulation SBSR).
 
@@ -154,4 +154,4 @@ With respect to any books and records maintained or preserved on behalf of [SBSD
 
 (2) The term *associated person* has the meaning set forth in § 240.18a-5(d).
 
-[84 FR 68659, Dec. 16, 2019, as amended at 85 FR 6416, Feb. 4, 2020]
+[84 FR 68659, Dec. 16, 2019, as amended at 85 FR 6416, Feb. 4, 2020; 85 FR 33021, June 1, 2020]

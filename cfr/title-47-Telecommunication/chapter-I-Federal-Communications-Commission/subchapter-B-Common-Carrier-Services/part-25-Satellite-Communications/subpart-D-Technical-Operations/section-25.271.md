@@ -1,7 +1,5 @@
 ##### § 25.271 Control of transmitting stations. #####
 
-Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
-
 (a) The licensee of a facility licensed under this part is responsible for the proper operation and maintenance of the station.
 
 (b) The licensee of a transmitting earth station licensed under this part shall ensure that a trained operator is present on the earth station site, or at a designated remote control point for the earth station, at all times that transmissions are being conducted. No operator's license is required for a person to operate or perform maintenance on facilities authorized under this part.
@@ -24,6 +22,6 @@ Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
 
 (f) The licensee of any transmitting earth station licensed under this part must update the contact information provided in the most recent license application for the station within 10 days of any change therein. The updated information must be filed electronically in the “Other Filings” tab of the station's current authorization file in the International Bureau Filing System.
 
-(g) Licensees of transmitting earth stations are prohibited from using remote earth stations in their networks that are not designed to stop transmission when synchronization to signals from the target satellite fails.
+(g) All applicants shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. Applicants with terminals that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure shall provide a plan for mitigation of radiation exposure to the extent required to meet those guidelines. Licensees of transmitting earth stations are prohibited from using remote earth stations in their networks that are not designed to stop transmission when synchronization to signals from the target satellite fails.
 
-[58 FR 13421, Mar. 11, 1993, as amended at 66 FR 10631, Feb. 16, 2001; 70 FR 4787, Jan. 31, 2005; 70 FR 32257, June 2, 2005; 74 FR 47107, Sept. 15, 2009; 78 FR 8430, Feb. 6, 2013; 79 FR 8325, Feb. 12, 2014; 81 FR 55349, Aug. 18, 2016; 82 FR 59986, Dec. 18, 2017]
+[58 FR 13421, Mar. 11, 1993, as amended at 66 FR 10631, Feb. 16, 2001; 70 FR 4787, Jan. 31, 2005; 70 FR 32257, June 2, 2005; 74 FR 47107, Sept. 15, 2009; 78 FR 8430, Feb. 6, 2013; 79 FR 8325, Feb. 12, 2014; 81 FR 55349, Aug. 18, 2016; 82 FR 59986, Dec. 18, 2017; 85 FR 18150, Apr. 1, 2020]

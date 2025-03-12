@@ -1,5 +1,7 @@
 ##### § 230.430A Prospectus in a registration statement at the time of effectiveness. #####
 
+Link to an amendment published at 85 FR 33354, June 1, 2020.
+
 (a) The form of prospectus filed as part of a registration statement that is declared effective may omit information with respect to the public offering price, underwriting syndicate (including any material relationships between the registrant and underwriters not named therein), underwriting discounts or commissions, discounts or commissions to dealers, amount of proceeds, conversion rates, call prices and other items dependent upon the offering price, delivery dates, and terms of the securities dependent upon the offering date; and such form of prospectus need not contain such information in order for the registration statement to meet the requirements of Section 7 of the Securities Act (15 U.S.C. 77g) for the purposes of Section 5 thereof (15 U.S.C. 77e), *Provided,* That:
 
 (1) The securities to be registered are offered for cash;

@@ -1,6 +1,6 @@
 ##### § 230.163A Exemption from section 5(c) of the Act for certain communications made by or on behalf of issuers more than 30 days before a registration statement is filed. #####
 
-Preliminary Note to § 230.163A.
+Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary Note to § 230.163A.
 
 Attempted compliance with this section does not act as an exclusive election and the issuer also may claim the availability of any other applicable exemption or exclusion. Reliance on this section does not affect the availability of any other exemption or exclusion from the requirements of section 5 of the Act.
 

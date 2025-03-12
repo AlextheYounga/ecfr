@@ -1,7 +1,5 @@
 ##### § 25.115 Applications for earth station authorizations. #####
 
-Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
-
 (a)(1) *Transmitting earth stations.* Commission authorization must be obtained for authority to operate a transmitting earth station. Applications for transmitting earth stations must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter. Applications must be filed electronically on FCC Form 312, Main Form and Schedule B, and include the information specified in this section, except as set forth in paragraph (a)(2) of this section.
 
 (2) Applicants for licenses for transmitting earth stations in the FSS may file on FCC Form 312EZ if all of the following criteria are met:
@@ -225,5 +223,9 @@ Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
 (iii) The point of contact information referred to in § 25.228(e)(2), (f), or (g)(1) as appropriate.
 
 (iv) Applicants for ESIMs that will exceed the guidelines in § 1.1310 of this chapter for radio frequency radiation exposure must provide, with their environmental assessment, a plan for mitigation of radiation exposure to the extent required to meet those guidelines.
+
+(o) [Reserved]
+
+(p) The licensee and grantees shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter. *See* § 1.1307(b)(5)(ii).
 
 [62 FR 5928, Feb. 10, 1997]Editorial Note 1.:For Federal Register citations affecting § 25.115, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note 2.:At 84 FR 53651, Oct. 8, 2019, § 25.115 was amended in part by revising paragraph (c)(1); however, the amendment could not be incorporated because no new text was set out for paragraph (c)(1).

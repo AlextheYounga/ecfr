@@ -1,7 +1,5 @@
 ##### § 15.247 Operation within the bands 902-928 MHz, 2400-2483.5 MHz, and 5725-5850 MHz. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) Operation under the provisions of this Section is limited to frequency hopping and digitally modulated intentional radiators that comply with the following provisions:
 
 (1) Frequency hopping systems shall have hopping channel carrier frequencies separated by a minimum of 25 kHz or the 20 dB bandwidth of the hopping channel, whichever is greater. Alternatively, frequency hopping systems operating in the 2400-2483.5 MHz band may have hopping channel carrier frequencies that are separated by 25 kHz or two-thirds of the 20 dB bandwidth of the hopping channel, whichever is greater, provided the systems operate with an output power no greater than 125 mW. The system shall hop to channel frequencies that are selected at the system hopping rate from a pseudo randomly ordered list of hopping frequencies. Each frequency must be used equally on the average by each transmitter. The system receivers shall have input bandwidths that match the hopping channel bandwidths of their corresponding transmitters and shall shift frequencies in synchronization with the transmitted signals.
@@ -62,10 +60,10 @@ The transition provisions found in § 15.37(h) will apply to hybrid devices begi
 
 (h) The incorporation of intelligence within a frequency hopping spread spectrum system that permits the system to recognize other users within the spectrum band so that it individually and independently chooses and adapts its hopsets to avoid hopping on occupied channels is permitted. The coordination of frequency hopping systems in any other manner for the express purpose of avoiding the simultaneous occupancy of individual hopping frequencies by multiple transmitters is not permitted.
 
-Note:
+Note to paragraph (h):
 
 Spread spectrum systems are sharing these bands on a noninterference basis with systems supporting critical Government requirements that have been allocated the usage of these bands, secondary only to ISM equipment operated under the provisions of part 18 of this chapter. Many of these Government systems are airborne radiolocation systems that emit a high EIRP which can cause interference to other users. Also, investigations of the effect of spread spectrum interference to U. S. Government operations in the 902-928 MHz band may require a future decrease in the power limits allowed for spread spectrum operation.
 
-(i) Systems operating under the provisions of this section shall be operated in a manner that ensures that the public is not exposed to radio frequency energy levels in excess of the Commission's guidelines. *See* § 1.1307(b)(1) of this chapter.
+(i) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
-[54 FR 17714, Apr. 25, 1989, as amended at 55 FR 28762, July 13, 1990; 62 FR 26242, May 13, 1997; 65 FR 57561, Sept. 25, 2000; 67 FR 42734, June 25, 2002; 69 FR 54035, Sept. 7, 2004; 72 FR 5632, Feb. 7, 2007; 79 FR 24578, May 1, 2014]
+[54 FR 17714, Apr. 25, 1989, as amended at 55 FR 28762, July 13, 1990; 62 FR 26242, May 13, 1997; 65 FR 57561, Sept. 25, 2000; 67 FR 42734, June 25, 2002; 69 FR 54035, Sept. 7, 2004; 72 FR 5632, Feb. 7, 2007; 79 FR 24578, May 1, 2014; 85 FR 18149, Apr. 1, 2020]

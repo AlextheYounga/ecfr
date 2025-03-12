@@ -1,5 +1,7 @@
 ##### § 270.8b-16 Amendments to registration statement. #####
 
+Link to an amendment published at 85 FR 33360, June 1, 2020.
+
 (a) Every registered management investment company which is required to file an annual report on Form N-CEN, as prescribed by § 270.30a-1 of this chaptershall amend the registration statement required pursuant to Section 8(b) by filing, not more than 120 days after the close of each fiscal year ending on or after the date upon which such registration statement was filed, the appropriate form prescribed for such amendments.
 
 (b) Paragraph (a) of this section shall not apply to a registered closed-end management investment company whose registration statement was filed on Form N-2; provided that the following information is transmitted to shareholders in its annual report to shareholders:

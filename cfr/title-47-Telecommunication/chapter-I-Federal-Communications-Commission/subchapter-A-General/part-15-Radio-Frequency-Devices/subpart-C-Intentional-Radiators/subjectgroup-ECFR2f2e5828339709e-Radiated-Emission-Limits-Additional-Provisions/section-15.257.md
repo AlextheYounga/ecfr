@@ -1,7 +1,5 @@
 ##### § 15.257 Operation within the band 92-95 GHz. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) Operation of devices under the provisions of this section is limited to indoor use;
 
 (1) Devices operating under the provisions of this section, by the nature of their design, must be capable of operation only indoors. The necessity to operate with a fixed indoor infrastructure, e.g., a transmitter that must be connected to the AC power lines, may be considered sufficient to demonstrate this.
@@ -36,8 +34,8 @@ Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
 
 (f) Fundamental emissions must be contained within the frequency bands specified in this section during all conditions of operation. Equipment is presumed to operate over the temperature range −20 to + 50 degrees Celsius with an input voltage variation of 85% to 115% of rated input voltage, unless justification is presented to demonstrate otherwise.
 
-(g) Regardless of the maximum EIRP and maximum power density levels permitted under this section, devices operating under the provisions of this section are subject to the radiofrequency radiation exposure requirements specified in 47 CFR 1.1307(b), 2.1091, and 2.1093, as appropriate. Applications for equipment authorization of devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.
+(g) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
 (h) Any transmitter that has received the necessary FCC equipment authorization under the rules of this chapter may be mounted in a group installation for simultaneous operation with one or more other transmitter(s) that have received the necessary FCC equipment authorization, without any additional equipment authorization. However, no transmitter operating under the provisions of this section may be equipped with external phase-locking inputs that permit beam-forming arrays to be realized.
 
-[69 FR 3265, Jan. 23, 2004]
+[69 FR 3265, Jan. 23, 2004, as amended at 85 FR 18149, Apr. 1, 2020]

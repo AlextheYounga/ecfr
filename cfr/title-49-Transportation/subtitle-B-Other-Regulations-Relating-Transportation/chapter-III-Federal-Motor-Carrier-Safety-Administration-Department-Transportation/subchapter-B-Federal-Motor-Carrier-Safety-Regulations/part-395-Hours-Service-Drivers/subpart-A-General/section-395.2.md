@@ -1,5 +1,7 @@
 ##### § 395.2 Definitions. #####
 
+Link to an amendment published at 85 FR 33452, June 1, 2020.
+
 As used in this part, the following words and terms are construed to mean:
 
 *Adverse driving conditions* means snow, sleet, fog, other adverse weather conditions, a highway covered with snow or ice, or unusual road and traffic conditions, none of which were apparent on the basis of information known to the person dispatching the run at the time it was begun.

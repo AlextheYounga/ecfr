@@ -1,5 +1,7 @@
 ##### § 230.418 Supplemental information. #####
 
+Link to an amendment published at 85 FR 33354, June 1, 2020.
+
 (a) The Commission or its staff may, where it is deemed appropriate, request supplemental information concerning the registrant, the registration statement, the distribution of the securities, market activities and underwriters' activities. Such information includes, but is not limited to, the following items which the registrant should be prepared to furnish promptly upon request:
 
 (1)(i) Any reports or memoranda which have been prepared for external use by the registrant or a principal underwriter, as defined in Rule 405 (§ 230.405), in connection with the proposed offering;

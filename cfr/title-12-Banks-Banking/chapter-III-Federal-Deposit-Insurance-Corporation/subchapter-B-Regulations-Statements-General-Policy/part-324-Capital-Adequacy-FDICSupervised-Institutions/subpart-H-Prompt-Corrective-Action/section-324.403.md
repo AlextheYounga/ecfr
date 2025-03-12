@@ -46,7 +46,7 @@
 
 (v) Does not meet the definition of “well capitalized” in this section.
 
-(vi) Beginning January 1, 2018, an advanced approaches FDIC-supervised institution will be deemed to be “adequately capitalized” if it satisfies paragraphs (b)(2)(i) through (v) of this section and has a supplementary leverage ratio of 3.0 percent or greater, as calculated in accordance with § 324.11.
+(vi) Beginning January 1, 2018, an advanced approaches or Category III FDIC-supervised institution will be deemed to be “adequately capitalized” if it satisfies paragraphs (b)(2)(i) through (v) of this section and has a supplementary leverage ratio of 3.0 percent or greater, as calculated in accordance with § 324.10.
 
 (3) “Undercapitalized” if it:
 
@@ -58,7 +58,7 @@
 
 (iv) Has a leverage ratio that is less than 4.0 percent.
 
-(v) Beginning January 1, 2018, an advanced approaches FDIC-supervised institution will be deemed to be “undercapitalized” if it has a supplementary leverage ratio of less than 3.0 percent, as calculated in accordance with § 324.11.
+(v) Beginning January 1, 2018, an advanced approaches or Category III FDIC-supervised institution will be deemed to be “undercapitalized” if it has a supplementary leverage ratio of less than 3.0 percent, as calculated in accordance with § 324.10.
 
 (4) “Significantly undercapitalized” if it has:
 
@@ -110,4 +110,4 @@
 
 (2) *Unsafe or unsound practice.* The FDIC has determined, after notice and opportunity for hearing pursuant to § 308.202(a) of this chapter, that, in the most recent examination of the FDIC-supervised institution, the FDIC-supervised institution received and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014; 83 FR 17617, Apr. 23, 2018; 84 FR 61803, Nov. 13, 2019; 85 FR 5303, Jan. 30, 2020]
+[81 FR 22173, Apr. 15, 2016, as amended at 79 FR 24541, May 1, 2014; 83 FR 17617, Apr. 23, 2018; 84 FR 61803, Nov. 13, 2019; 85 FR 5303, Jan. 30, 2020; 85 FR 32990, June 1, 2020]

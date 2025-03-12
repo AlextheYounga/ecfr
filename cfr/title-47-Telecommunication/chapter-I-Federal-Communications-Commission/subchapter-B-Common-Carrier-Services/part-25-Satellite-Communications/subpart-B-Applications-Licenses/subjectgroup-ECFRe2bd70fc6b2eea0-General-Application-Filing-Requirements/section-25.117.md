@@ -1,7 +1,5 @@
 ##### § 25.117 Modification of station license. #####
 
-Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
-
 (a) Except as provided for in § 25.118 (Modifications not requiring prior authorization), no modification of a radio station governed by this part which affects the parameters or terms and conditions of the station authorization shall be made except upon application to and grant of such application by the Commission.
 
 (b) Both earth station and space station modification applications must be filed electronically through the International Bureau Filing System (IBFS) in accordance with the applicable provisions of part 1, subpart Y of this chapter.
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
 
 (2) That states there are unique and overriding public interest concerns that justify an extension, identifies these interests and justifies a precise extension period (f) An application for modification of a space station license to add an ancillary terrestrial component to an eligible satellite network will be treated as a request for a minor modification if the particulars of operations provided by the applicant comply with the criteria specified in § 25.149. Notwithstanding the treatment of such an application as a minor modification, the Commission shall place any initial application for the modification of a space station license to add an ancillary terrestrial component on notice for public comment. Except as provided for in § 25.149(f), no application for authority to add an ancillary terrestrial component to an eligible satellite network shall be granted until the applicant has demonstrated actual compliance with the criteria specified in § 25.149(b).
 
-(g) In cases where an earth station licensee proposes additional transmitters, facilities, or modifications, the resulting transmissions of which can reasonably be expected to cause the power density to exceed the RF exposure limits specified in part 1, subpart I of this chapter by five percent, the licensee must submit an environmental assessment pursuant to § 1.1307(b)(3)(i) of this chapter as an attachment to its modification application.
+(g) The licensee and grantees shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter. *See* § 1.1307(b)(5)(iii).
 
 (h) Unless otherwise ordered by the Commission, an application for any of the following kinds of modification of the operation of a GSO space station will be deemed granted 35 days after the date of the public notice that the application has been accepted for filing, provided no objection is filed during the 30-day notice period and the application does not propose a change that would be inconsistent with a Commission rule or require modification of the BSS plan in Appendix 30 or the associated feeder-link Plan in Appendix 30A of the ITU Radio Regulations (both incorporated by reference, *see* § 25.108).
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
 
 (2) Repositioning one or more antenna beams by no more than 0.3 angular degrees from a line between the space station and the initially authorized boresight location(s).
 
-[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016]
+[56 FR 24016, May 28, 1991, as amended at 61 FR 9952, Mar. 12, 1996; 62 FR 5928, Feb. 10, 1997; 68 FR 33649, June 5, 2003; 68 FR 47858, Aug. 12, 2003; 68 FR 51503, Aug. 27, 2003; 68 FR 62248, Nov. 3, 2003; 68 FR 63998, Nov. 12, 2003; 69 FR 47794, Aug. 6, 2004; 70 FR 32253, June 2, 2005; 72 FR 60279, Oct. 24, 2007; 78 FR 8421, Feb. 6, 2013; 81 FR 55328, Aug. 18, 2016; 85 FR 18150, Apr. 1, 2020]

@@ -120,4 +120,16 @@ Table 8 to Paragraph (h)
 |NLST3|  40°22′  |  69°30′   |
 |NLST1|  40°28′  |  69°30′   |
 
-[85 FR 17764, Mar. 31, 2020]
+(i) *Nantucket Lightship West Scallop Rotational Area.* The Nantucket Lightship West Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
+
+Table 9 to Paragraph (i)
+
+|Point|N latitude|W longitude|
+|-----|----------|-----------|
+|NLSW1|  40°20′  |  70°00′   |
+|NLSW2|40°43.44′ |  70°00′   |
+|NLSW3|40°43.44′ |  69°30′   |
+|NLSW4|  40°20′  |  69°30′   |
+|NLSW1|  40°20′  |  70°00′   |
+
+[85 FR 17764, Mar. 31, 2020]Effective Date Note:At 85 FR 33030, June 1, 2020, § 648.60 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020 through Nov. 28, 2020.

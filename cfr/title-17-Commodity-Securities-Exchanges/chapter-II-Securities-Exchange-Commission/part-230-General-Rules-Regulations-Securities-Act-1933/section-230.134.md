@@ -1,5 +1,7 @@
 ##### § 230.134 Communications not deemed a prospectus. #####
 
+Link to an amendment published at 85 FR 33352, June 1, 2020.
+
 Except as provided in paragraphs (e) and (g) of this section, the terms “prospectus” as defined in section 2(a)(10) of the Act or “free writing prospectus” as defined in Rule 405 (§ 230.405) shall not include a communication limited to the statements required or permitted by this section, provided that the communication is published or transmitted to any person only after a registration statement relating to the offering that includes a prospectus satisfying the requirements of section 10 of the Act (except as otherwise permitted in paragraph (a) of this section) has been filed.
 
 (a) Such communication may include any one or more of the following items of information, which need not follow the numerical sequence of this paragraph, provided that, except as to paragraphs (a)(4) through (6) of this section, the prospectus included in the filed registration statement does not have to include a price range otherwise required by rule:

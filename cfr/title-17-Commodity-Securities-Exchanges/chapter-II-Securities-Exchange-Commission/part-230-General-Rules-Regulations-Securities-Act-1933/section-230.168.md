@@ -1,6 +1,6 @@
 ##### § 230.168 Exemption from sections 2(a)(10) and 5(c) of the Act for certain communications of regularly released factual business information and forward-looking information. #####
 
-Preliminary notes to § 230.168.
+Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary notes to § 230.168.
 
 1. This section is not available for any communication that, although in technical compliance with this section, is part of a plan or scheme to evade the requirements of section 5 of the Act.
 

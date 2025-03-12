@@ -1,6 +1,6 @@
 ##### § 232.405 Interactive Data File submissions. #####
 
-Link to an amendment published at 85 FR 26099, May 1, 2020.
+Link to an amendment published at 85 FR 26099, May 1, 2020.Link to an amendment published at 85 FR 33357, June 1, 2020.
 
 This section applies to electronic filers that submit Interactive Data Files. Section 229.601(b)(101) of this chapter (Item 601(b)(101) of Regulation S-K), paragraph (101) of Part II - Information Not Required to be Delivered to Offerees or Purchasers of Form F-10 (§ 239.40 of this chapter), paragraph 101 of the Instructions as to Exhibits of Form 20-F (§ 249.220f of this chapter), paragraph B.(15) of the General Instructions to Form 40-F (§ 249.240f of this chapter), paragraph C.(6) of the General Instructions to Form 6-K (§ 249.306 of this chapter), and General Instruction C.3.(g) of Form N-1A (§§ 239.15A and 274.11A of this chapter) specify when electronic filers are required or permitted to submit an Interactive Data File (§ 232.11), as further described in the note to this section. This section imposes content, format and submission requirements for an Interactive Data File, but does not change the substantive content requirements for the financial and other disclosures in the Related Official Filing (§ 232.11).
 

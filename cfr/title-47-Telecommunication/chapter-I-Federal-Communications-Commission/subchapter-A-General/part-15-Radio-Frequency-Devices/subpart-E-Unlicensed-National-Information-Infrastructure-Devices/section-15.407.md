@@ -1,6 +1,6 @@
 ##### § 15.407 General technical requirements. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.Link to an amendment published at 85 FR 31411, May 26, 2020.
+Link to an amendment published at 85 FR 31411, May 26, 2020.
 
 (a) *Power limits:*
 
@@ -54,7 +54,7 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (e) Within the 5.725-5.85 GHz band, the minimum 6 dB bandwidth of U-NII devices shall be at least 500 kHz.
 
-(f) U-NII devices are subject to the radio frequency radiation exposure requirements specified in § 1.1307(b), § 2.1091 and § 2.1093 of this chapter, as appropriate. All equipment shall be considered to operate in a “general population/uncontrolled” environment. Applications for equipment authorization of devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.
+(f) Radio frequency devices operating under the provisions of this part are subject to the radio frequency radiation exposure requirements specified in §§ 1.1307(b), 1.1310, 2.1091, and 2.1093 of this chapter, as appropriate. All equipment shall be considered to operate in a “general population/uncontrolled” environment. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
 (g) Manufacturers of U-NII devices are responsible for ensuring frequency stability such that an emission is maintained within the band of operation under all conditions of normal operation as specified in the users manual.
 
@@ -84,4 +84,4 @@ The Commission strongly recommends that parties employing U-NII devices to provi
 
 (j) *Operator Filing Requirement:* Before deploying an aggregate total of more than one thousand outdoor access points within the 5.15-5.25 GHz band, parties must submit a letter to the Commission acknowledging that, should harmful interference to licensed services in this band occur, they will be required to take corrective action. Corrective actions may include reducing power, turning off devices, changing frequency bands, and/or further reducing power radiated in the vertical direction. This material shall be submitted to Laboratory Division, Office of Engineering and Technology, Federal Communications Commission, 7435 Oakland Mills Road, Columbia, MD 21046. Attn: U-NII Coordination, or via Web site at *https://www.fcc.gov/labhelp* with the SUBJECT LINE: “U-NII-1 Filing”.
 
-[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016]
+[63 FR 40836, July 31, 1998, as amended at 69 FR 2687, Jan. 20, 2004; 69 FR 54036, Sept. 7, 2004; 79 FR 24579, May 1, 2014; 79 FR 56988, Sept. 24, 2014; 79 FR 76903, Dec. 23, 2014; 81 FR 19901, Apr. 6, 2016; 85 FR 18149, Apr. 1, 2020]

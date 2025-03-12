@@ -1,7 +1,5 @@
 ##### § 15.709 General technical requirements. #####
 
-Link to an amendment published at 85 FR 18149, Apr. 1, 2020.
-
 (a) *Radiated power limits.* The maximum white space device EIRP per 6 MHz shall not exceed the limits of paragraphs (a)(2) through (4) of this section.
 
 (1) *General requirements.* (i) White space devices may be required to operate with less power than the maximum permitted to meet the co-channel and adjacent channel separation requirements of § 15.712 of this part.
@@ -81,8 +79,6 @@ Table 2 to Paragraph (b)(2)(ii)
 
 (ii) Compliance testing for white space devices that incorporate a separate sensing antenna shall be performed using the lowest gain antenna for each type of antenna to be certified.
 
-(h) *Compliance with radio frequency exposure requirements* - (1) *Fixed white space devices.* To ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, fixed white space devices shall be accompanied by instructions on measures to take to ensure that persons maintain a distance of at least 40 cm from the device, as well as any necessary hardware that may be needed to implement that protection. These instructions shall be submitted with the application for certification.
+(h) *Compliance with radio frequency exposure requirements.* White space devices shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091 and 2.1093 of this chapter, as appropriate. Applications for equipment authorization of RF sources under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
-(2) *Personal/portable white space devices.* Personal/portable white space devices that meet the definition of portable devices under § 2.1093 of this chapter and that operate with a source-based time-averaged output of less than 20 mW will not be subject to routine evaluation for compliance with the radio frequency exposure guidelines in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, while devices that operate with a source-based time-average output power greater than 20 mW will be subject to the routine evaluation requirements.
-
-[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34797, July 19, 2019]
+[80 FR 73070, Nov. 23, 2015, as amended at 84 FR 34797, July 19, 2019; 85 FR 18149, Apr. 1, 2020]

@@ -1,7 +1,5 @@
 ##### § 25.149 Application requirements for ancillary terrestrial components in Mobile-Satellite Service networks operating in the 1.5./1.6 GHz and 1.6/2.4 GHz Mobile-Satellite Service. #####
 
-Link to an amendment published at 85 FR 18150, Apr. 1, 2020.
-
 (a) Applicants for ancillary terrestrial component authority shall demonstrate that the applicant does or will comply with the following through certification or explanatory technical exhibit, as appropriate:
 
 (1) ATC shall be deployed in the forward-band mode of operation whereby the ATC mobile terminals transmit in the MSS uplink bands and the ATC base stations transmit in the MSS downlink bands in portions of the 1626.5-1660.5 MHz/1525-1559 MHz bands (L-band) and the 1610-1626.5 MHz/2483.5-2500 MHz bands.
@@ -22,7 +20,7 @@ An L-band MSS licensee is permitted to apply for ATC authorization based on a no
 
 (4) ATC base stations shall comply with all applicable antenna and structural clearance requirements established in part 17 of this chapter.
 
-(5) ATC base stations and mobile terminals shall comply with part 1 of this chapter, Subpart I - Procedures Implementing the National Environmental Policy Act of 1969, including the guidelines for human exposure to radio frequency electromagnetic fields as defined in §§ 1.1307(b) and 1.1310 of this chapter for PCS networks.
+(5) ATC base stations and mobile terminals shall comply with part 1 of this chapter, Subpart I—Procedures Implementing the National Environmental Policy Act of 1969, including the guidelines for human exposure to radio frequency electromagnetic fields as defined in §§ 1.1307(b) and 1.1310 of this chapter for PCS networks.
 
 (6) ATC base station operations shall use less than all available MSS frequencies when using all available frequencies for ATC base station operations would exclude otherwise available signals from MSS space-stations.
 
@@ -58,7 +56,7 @@ An L-band MSS licensee is permitted to apply for ATC authorization based on a no
 
 (2) Any manufacturer of radio transmitting equipment to be used in these services may request equipment authorization following the procedures set forth in subpart J of part 2 of this chapter. Equipment authorization for an individual transmitter may be requested by an applicant for a station authorization by following the procedures set forth in part 2 of this chapter.
 
-(3) Licensees and manufacturers are subject to the radiofrequency radiation exposure requirements specified in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. ATC base stations must comply with the requirements specified in § 1.1307(b) of this chapter for PCS base stations. ATC mobile stations must comply with the requirements specified for mobile and portable PCS transmitting devices in § 1.1307(b) of this chapter. ATC mobile terminals must also comply with the requirements in §§ 2.1091 and 2.1093 of this chapter for Satellite Communications Services devices. Applications for equipment authorization of ATC mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements for both fundamental emissions and unwanted emissions. Technical information showing the basis for this statement must be submitted to the Commission upon request.
+(3) Licensees and manufacturers shall ensure compliance with the Commission's radio frequency exposure requirements in §§ 1.1307(b), 2.1091, and 2.1093 of this chapter, as appropriate. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter. Applications for equipment authorization of mobile or portable devices operating under this section must contain a statement confirming compliance with these requirements. Technical information showing the basis for this statement must be submitted to the Commission upon request.
 
 (4) Applications for equipment authorization of terrestrial low-power system equipment that will operate in the 2483.5-2495 MHz band shall demonstrate the following:
 
@@ -94,4 +92,4 @@ Systems meeting the requirements set forth in this section are deemed to have al
 
 (h) *Spectrum leasing.* Leasing of spectrum rights by MSS licensees or system operators to spectrum lessees for ATC use is subject to the rules for spectrum manager leasing arrangements (*see* § 1.9020) as set forth in part 1, subpart X of the rules (*see* § 1.9001 *et seq.*). In addition, at the time of the filing of the requisite notification of a spectrum manager leasing arrangement using Form 608 (*see* §§ 1.9020(e) and 1.913(a)(5)), both parties to the proposed arrangement must have a complete and accurate Form 602 (*see* § 1.913(a)(2)) on file with the Commission.
 
-[68 FR 47859, Aug. 12, 2003, as amended at 69 FR 48162, Aug. 9, 2004; 70 FR 19318, Apr. 13, 2005, 73 FR 25592, May 7, 2008; 76 FR 31260, May 31, 2011; 78 FR 8267, Feb. 5, 2013; 78 FR 8424, Feb. 6, 2013; 79 FR 27502, May 14, 2014; 82 FR 8818, Jan. 31, 2017]
+[68 FR 47859, Aug. 12, 2003, as amended at 69 FR 48162, Aug. 9, 2004; 70 FR 19318, Apr. 13, 2005, 73 FR 25592, May 7, 2008; 76 FR 31260, May 31, 2011; 78 FR 8267, Feb. 5, 2013; 78 FR 8424, Feb. 6, 2013; 79 FR 27502, May 14, 2014; 82 FR 8818, Jan. 31, 2017; 85 FR 18150, Apr. 1, 2020]

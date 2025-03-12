@@ -1,7 +1,5 @@
 ##### § 73.404 Interim hybrid IBOC DAB operation. #####
 
-Link to an amendment published at 85 FR 18151, Apr. 1, 2020.
-
 (a) The licensee of an AM or FM station, or the permittee of a new AM or FM station which has commenced program test operation pursuant to § 73.1620, may commence interim hybrid IBOC DAB operation with digital facilities which conform to the technical specifications specified for hybrid DAB operation in the *First Report and Order* in MM Docket No. 99-325, as revised in the Media Bureau's subsequent *Order* in MM Docket No. 99-325. FM stations are permitted to operate with hybrid digital effective radiated power equal to one percent (−20 decibels below carrier (dBc)) of authorized analog effective radiated power and may operate with up to ten percent (−10 dBc) of authorized analog effective radiated power in accordance with the procedures set forth in the Media Bureau's *Order* in MM Docket No. 99-325. An AM or FM station may transmit IBOC signals during all hours for which the station is licensed to broadcast.
 
 (b) In situations where interference to other stations is anticipated or actually occurs, AM licensees may, upon notification to the Commission, reduce the power of the primary DAB sidebands by up to 6 dB. Any greater reduction of sideband power requires prior authority from the Commission via the filing of a request for special temporary authority or an informal letter request for modification of license.
@@ -36,6 +34,6 @@ Link to an amendment published at 85 FR 18151, Apr. 1, 2020.
 
 (9) If applicable, for FM systems employing interleaved antenna bays, a certification that adequate filtering and/or isolation equipment has been installed to prevent spurious emissions in excess of the limits specified in § 73.317;
 
-(10) A certification that the operation will not cause human exposure to levels of radio frequency radiation in excess of the limits specified in § 1.1310 of this chapter and is therefore categorically excluded from environmental processing pursuant to § 1.1306(b) of this chapter. Any station that cannot certify compliance must submit an environmental assessment (“EA”) pursuant to § 1.1311 of this chapter and may not commence IBOC operation until such EA is ruled upon by the Commission.
+(10) Licensees and permittees shall ensure compliance with the Commission's radio frequency exposure requirements in § 1.1307(b) of this chapter. An Environmental Assessment may be required if RF radiation from the proposed facilities would, in combination with radiation from other sources, cause RF power density or field strength in an accessible area to exceed the applicable limits specified in § 1.1310 of this chapter.
 
-[72 FR 45692, Aug. 15, 2007, as amended at 75 FR 17877, Apr. 8, 2010]
+[72 FR 45692, Aug. 15, 2007, as amended at 75 FR 17877, Apr. 8, 2010; 85 FR 18151, Apr. 1, 2020]

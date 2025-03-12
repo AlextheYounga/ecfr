@@ -1,6 +1,6 @@
 ##### § 230.163 Exemption from section 5(c) of the Act for certain communications by or on behalf of well-known seasoned issuers. #####
 
-Preliminary Note to § 230.163.
+Link to an amendment published at 85 FR 33352, June 1, 2020.Preliminary Note to § 230.163.
 
 Attempted compliance with this section does not act as an exclusive election and the issuer also may claim the availability of any other applicable exemption or exclusion. Reliance on this section does not affect the availability of any other exemption or exclusion from the requirements of section 5 of the Act.
 

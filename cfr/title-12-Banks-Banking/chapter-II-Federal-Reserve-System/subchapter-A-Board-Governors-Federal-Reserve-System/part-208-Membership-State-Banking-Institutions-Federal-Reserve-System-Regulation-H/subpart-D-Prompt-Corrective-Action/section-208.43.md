@@ -50,7 +50,7 @@
 
 (A) The bank has a leverage ratio of 4.0 percent or greater; and
 
-(B) With respect to an advanced approaches bank, on January 1, 2018, and thereafter, the bank has a supplementary leverage ratio of 3.0 percent or greater; and
+(B) With respect to an advanced approaches bank or bank that is a Category III Board-regulated institution (as defined in § 217.2 of this chapter), the bank has a supplementary leverage ratio of 3.0 percent or greater; and
 
 (v) The bank does not meet the definition of a “well capitalized” bank.
 
@@ -66,7 +66,7 @@
 
 (A) The bank has a leverage ratio of less than 4.0 percent; or
 
-(B) With respect to an advanced approaches bank, on January 1, 2018, and thereafter, the bank has a supplementary leverage ratio of less than 3.0 percent.
+(B) With respect to an advanced approaches bank or bank that is a Category III Board-regulated institution (as defined in § 217.2 of this chapter), the bank has a supplementary leverage ratio of less than 3.0 percent.
 
 (4) “Significantly undercapitalized” if:
 
@@ -86,4 +86,4 @@
 
 (2) *Unsafe or unsound practice.* The Board has determined, after notice and opportunity for hearing pursuant to 12 CFR 263.203, that, in the most recent examination of the bank, the bank received and has not corrected, a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, liquidity, or sensitivity to market risk.
 
-[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 80 FR 49102, Aug. 14, 2015; 80 FR 70672, Nov. 16, 2015; 84 FR 61796, Nov. 13, 2019; 84 FR 70887, Dec. 26, 2019]
+[63 FR 37652, July 13, 1998, as amended by Reg. H, 78 FR 62283, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 80 FR 49102, Aug. 14, 2015; 80 FR 70672, Nov. 16, 2015; 84 FR 61796, Nov. 13, 2019; 84 FR 70887, Dec. 26, 2019; 85 FR 32989, June 1, 2020]

@@ -1,5 +1,7 @@
 ##### § 270.23c-3 Repurchase offers by closed-end companies. #####
 
+Link to an amendment published at 85 FR 33360, June 1, 2020.
+
 (a) *Definitions.* For purposes of this section:
 
 (1) *Periodic interval* shall mean an interval of three, six, or twelve months.

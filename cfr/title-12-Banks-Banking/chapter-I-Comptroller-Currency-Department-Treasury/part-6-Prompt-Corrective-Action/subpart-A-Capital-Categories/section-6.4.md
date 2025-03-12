@@ -48,7 +48,7 @@
 
 (A) The national bank or Federal savings association has a leverage ratio of 4.0 percent or greater; and
 
-(B) With respect to an advanced approaches national bank or advanced approaches Federal savings association, on January 1, 2018 and thereafter, the national bank or Federal savings association has an supplementary leverage ratio of 3.0 percent or greater; and
+(B) With respect to an advanced approaches or Category III national bank or advanced approaches or Category III Federal savings association, the national bank or Federal savings association has a supplementary leverage ratio of 3.0 percent or greater; and
 
 (v) The national bank or Federal savings association does not meet the definition of a “well capitalized” national bank or Federal savings association.
 
@@ -64,7 +64,7 @@
 
 (A) The national bank or Federal savings association has a leverage ratio of less than 4.0 percent; or
 
-(B) With respect to an advanced approaches national bank or advanced approaches Federal savings association, on January 1, 2018, and thereafter, the national bank or Federal savings association has a supplementary leverage ratio of less than 3.0 percent.
+(B) With respect to an advanced approaches or Category III national bank or advanced approaches or Category III Federal savings association, on January 1, 2018, and thereafter, the national bank or Federal savings association has a supplementary leverage ratio of less than 3.0 percent.
 
 (4) *Significantly undercapitalized* if:
 
@@ -116,4 +116,4 @@
 
 (2) *Unsafe or unsound practice.* The OCC has determined, after notice and opportunity for hearing pursuant to subpart M of part 19 of this chapter with respect to national banks and § 165.8 of this chapter with respect to Federal savings associations, that in the most recent examination of the national bank or Federal savings association, the national bank or Federal savings association received, and has not corrected a less-than-satisfactory rating for any of the categories of asset quality, management, earnings, or liquidity.
 
-[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019; 85 FR 10968, Feb. 26, 2020]
+[78 FR 62275, Oct. 11, 2013, as amended at 79 FR 24539, May 1, 2014; 84 FR 61794, Nov. 13, 2019; 85 FR 10968, Feb. 26, 2020; 85 FR 32989, June 1, 2020]
