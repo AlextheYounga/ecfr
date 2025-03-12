@@ -1,8 +1,8 @@
-##### 719.271-2 The USAID Office of Small and Disadvantaged Business Utilization (SDB). #####
+##### 719.271-2 The USAID Office of Small and Disadvantaged Business Utilization (OSDBU). #####
 
 (a) OSDBU is responsible for administering, implementing, and coordinating the Agency's small business (including minority business enterprises) program.
 
-(b) OSDBU, headed by the Director, OSDBU , who also serves as the Minority Business Procurement Manager, shall be specifically responsible for:
+(b) OSDBU, headed by the Director, OSDBU, who also serves as the Minority Business Procurement Manager, shall be specifically responsible for:
 
 (1) Developing policies, plans, and procedures for a coordinated Agency-wide small business and minority business enterprise procurement program;
 

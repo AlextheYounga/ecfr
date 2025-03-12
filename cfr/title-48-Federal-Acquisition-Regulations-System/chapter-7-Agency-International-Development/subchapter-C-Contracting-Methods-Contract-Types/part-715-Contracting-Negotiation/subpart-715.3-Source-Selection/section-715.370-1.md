@@ -1,4 +1,4 @@
-##### 715.370-1 Title XII selection procedure - general. #####
+##### 715.370-1 Title XII selection procedure—general. #####
 
 (a) *General.* The Deputy Administrator has determined, as provided in (48 CFR) AIDAR 706.302-70(b)(3)(ii) that use of this Title XII source selection procedure is necessary so as not to impair or affect USAID's ability to administer Title XII of the Foreign Assistance Act. This determination is reflected in (48 CFR) AIDAR 706.302-70(b)(4). This constitutes authority for other than full and open competition when selecting Title XII institutions to perform Title XII projects.
 
@@ -8,7 +8,7 @@
 
 (d) *Solicitation, evaluation, and selection procedures.* (1) Competition shall be sought among eligible Title XII institutions to the maximum practicable extent; this requirement shall be deemed satisfied when a contractor is selected under the procedures of this subsection.
 
-(2) The project office shall -
+(2) The project office shall—
 
 (i) Prepare selection criteria for evaluation of eligible institutions for use in preparing the source list, determining predominantly qualified sources, and selecting the contractor;
 
@@ -16,7 +16,7 @@
 
 (iii) Provide a statement describing qualifications and areas of expertise considered essential, a statement of work, estimate of personnel requirements, special requirements (logistic support, Government furnished property, and so forth) for the contracting officer's use in preparing the request for technical proposal (RFTP).
 
-(iv) Send a memorandum incorporating the certification and determination required by paragraph (c) of this section, together with the information required by paragraphs (d)(2) (i) through (iii) of this section, with the “Action” copy of the requisition to the contracting officer, requesting him/her to prepare and distribute the RFTP.
+(iv) Send a memorandum incorporating the certification and determination required by paragraph (c) of this section, together with the information required by paragraphs (d)(2)(i) through (iii) of this section, with the “Action” copy of the requisition to the contracting officer, requesting him/her to prepare and distribute the RFTP.
 
 (3) Upon receipt and acceptance of the project officer's request, the contracting officer shall prepare the RFTP. The RFTP shall contain sufficient information to enable an offeror to submit a responsive and complete technical proposal. This includes a definitive statement of work, an estimate of the personnel required, and special provisions (such as logistic support, Government furnished equipment, and so forth), a proposed contract format, and evaluation criteria. No cost or pricing data will be requested or required by the RFTP. The RFTP will be distributed to the eligible institutions recommended by the project office. The RFTP will be synopsized, as required by (48 CFR) FAR 5.201, and will normally allow a minimum of 60 days for preparation and submission of a proposal.
 

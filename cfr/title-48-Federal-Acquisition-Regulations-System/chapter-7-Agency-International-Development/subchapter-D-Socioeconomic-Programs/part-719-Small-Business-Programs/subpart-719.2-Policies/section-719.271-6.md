@@ -30,7 +30,7 @@
 
 (e) *Appeal procedure.* (1) When informal efforts fail to resolve the set-aside disagreement between the contracting officer and OSDBU, the latter official may appeal the contracting officer's decision to the head of the contracting activity. Such an appeal will be made within five working days after receipt of the contracting officer's rejection.
 
-(2) In the case of an appeal, OSDBU will send the original and duplicate form, with the appeal noted in Block 14, directly to the head of the contracting activity with its written reasons for appealing. The contracting officer will be notified of SDB's appeal by means of a copy of the written reasons for appealing.
+(2) In the case of an appeal, OSDBU will send the original and duplicate form, with the appeal noted in Block 14, directly to the head of the contracting activity with its written reasons for appealing. The contracting officer will be notified of OSDBU's appeal by means of a copy of the written reasons for appealing.
 
 (3) The head of the contracting activity shall render a decision on the appeal (complete Block 15) within three working days after receipt of same and return the original to OSDBU and the duplicate to the contracting officer.
 

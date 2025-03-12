@@ -4,7 +4,7 @@ In order for the Agency small business program to be effective, the active suppo
 
 (a) Rendering decisions in cases resulting from non-acceptances by their contracting officers of set-aside recommendations made by OSDBU;
 
-(b) Consulting with SDB in establishing small business and minority business enterprise award goals, where practicable and desirable; and
+(b) Consulting with OSDBU in establishing small business and minority business enterprise award goals, where practicable and desirable; and
 
 (c) Advising contracting officer's representatives of their responsibilities as set forth in 719.271-5.
 

@@ -106,6 +106,6 @@
 
 (p) *Solicitation provisions and contract clauses* (1) Insert the provision at 1052.219-73, Department of the Treasury Mentor-Protégé Program, in all unrestricted solicitations exceeding $650,000 ($1,500,000 for construction) that offer subcontracting possibilities.
 
-(2) Insert the clause at *1052.219-75*, Mentor Requirements and Evaluation, in solicitations and contracts where the contractor is a participant in the Treasury Mentor-Protégé Program.
+(2) Insert the clause at 1052.219-75, Mentor Requirements and Evaluation, in solicitations and contracts where the contractor is a participant in the Treasury Mentor-Protégé Program.
 
 [76 FR 42057, July 18, 2011, as amended at 80 FR 11596, Mar. 4, 2015]

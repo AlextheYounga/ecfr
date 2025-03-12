@@ -1,6 +1,6 @@
 ##### 752.228-3 Worker's compensation insurance (Defense Base Act). #####
 
-As prescribed in 728.309, the following supplemental coverage is to be added to the clause specified in FAR 52.228-3 by the USAID contracting officer.
+As prescribed in 728.309, the following supplemental coverage must be added to the clause specified in (48 CFR) FAR 52.228-3 by the USAID contracting officer.
 
 Worker's Compensation Insurance (Defense Base Act) (DEC 1991)
 

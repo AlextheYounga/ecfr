@@ -14,7 +14,7 @@
 
 (ii) Awards for countries, regions, projects, or programs for which the Administrator of USAID makes a formal written determination, with supporting findings, that compliance with full and open competition procedures would impair foreign assistance objectives, and would be inconsistent with the fulfillment of the foreign assistance program.
 
-(4) Awards under (48 CFR) AIDAR 715.370-1 (Title XII selection procedure - general) or 715.370-2 (Title XII selection procedure - collaborative assistance).
+(4) Awards under (48 CFR) AIDAR 715.370-1 (Title XII selection procedure—general) or 715.370-2 (Title XII selection procedure—collaborative assistance).
 
 (5) An award for the continued provision of highly specialized services when award to another resource would result in substantial additional costs to the Government or would result in unacceptable delays.
 
@@ -24,6 +24,6 @@
 
 (3) The authority in 706.302-70(b)(3)(i) shall be used only when no other authority provided in (48 CFR) FAR 6.302 or (48 CFR) AIDAR 706.302 is suitable. The specific foreign assistance objective which would be impaired must be identified and explained in the written determination and finding. Prior consultation with the Agency Competition Advocate (see 706.501) is required before executing the written determination and finding, and this consultation must be reflected in the determination and finding.
 
-(4) Use of the authority in 706.302-70(b)(5) for proposed follow-on amendments in excess of one year or over $250,000 is subject to the approval of the Agency Competition Advocate. For all other follow-on amendments using this authority, the contracting officer's certification required in (48 CFR) FAR 6.303-2(b)(12)will serve as approval.
+(4) Use of the authority in 706.302-70(b)(5) for proposed follow-on amendments in excess of one year or over $250,000 is subject to the approval of the Agency Competition Advocate. For all other follow-on amendments using this authority, the contracting officer's certification required in (48 CFR) FAR 6.303-2(b)(12) will serve as approval.
 
 [50 FR 40976, Oct. 8, 1985, and 50 FR 51395, Dec. 17, 1985, as amended at 54 FR 28069, July 5, 1989; 54 FR 46389, Nov. 3, 1989; 57 FR 5235, Feb. 13, 1992; 61 FR 39091, July 26, 1996; 62 FR 40467, July 29, 1997; 64 FR 42042, Aug. 3, 1999; 79 FR 74988, 74992, Dec. 16, 2014]

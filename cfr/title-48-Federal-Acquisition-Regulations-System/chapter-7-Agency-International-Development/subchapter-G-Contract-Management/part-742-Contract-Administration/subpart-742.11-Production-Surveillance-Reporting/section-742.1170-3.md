@@ -2,7 +2,7 @@
 
 (a) The contractor is responsible for timely contract performance. Performance monitoring by USAID does not obviate this responsibility.
 
-(b) The requiring office, particularly the contracting officer's representativeand the contracting officer, will determine how to monitor the contractor's performance to protect the Government's interests, by considering:
+(b) The requiring office, particularly the contracting officer's representative and the contracting officer, will determine how to monitor the contractor's performance to protect the Government's interests, by considering:
 
 (1) The contract requirements for reporting progress;
 

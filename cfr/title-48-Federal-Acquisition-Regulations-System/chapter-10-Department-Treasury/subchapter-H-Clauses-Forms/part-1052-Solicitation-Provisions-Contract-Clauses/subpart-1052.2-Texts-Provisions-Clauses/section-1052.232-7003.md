@@ -1,10 +1,10 @@
 ##### 1052.232-7003 Electronic submission of payment requests. #####
 
-As prescribed in *1032.7003*, use the following clause:
+As prescribed in 1032.7003, use the following clause:
 
 Electronic Submission of Payment Requests (APR 2015)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 (1) “*Payment request”* means a bill, voucher, invoice, or request for contract financing payment with associated supporting documentation. The payment request must comply with the requirements identified in FAR 32.905(b), “Content of Invoices” and the applicable Payment clause included in this contract.
 

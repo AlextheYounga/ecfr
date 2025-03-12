@@ -4,4 +4,4 @@
 
 (b) If the contract requires the contractor (or contractor employees) to have routine physical access to USAID-controlled facilities in the U.S. (*i.e.,* will need an ID for regular entry to USAID space), or have logical access to USAID's information systems (*i.e.,* access to AIDNet, Phoenix, the Global Acquisition and Assistance System (GLAAS,) etc.,) and the solicitation and contract contains (48 CFR) FAR 52.204-9(a), the contracting officer must also insert (48 CFR) AIDAR 752.204-72, Access to USAID Facilities and USAID's Information Systems. Only U.S citizen employees or consultants of a U.S.-based company may request routine physical access to USAID-controlled facilities or logical access to USAID's information systems.
 
-[79 FR 74990, Dec. 16, 2014]
+[79 FR 74991, Dec. 16, 2014]

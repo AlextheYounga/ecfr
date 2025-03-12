@@ -4,7 +4,7 @@
 
 (b) *Alternate 70.* For use in all USAID contracts. Use in addition to the clause in FAR 52.202-1.
 
-USAID Definitions Clause - General Supplement for Use in All USAID Contracts (JAN 1990)
+USAID Definitions Clause—General Supplement for Use in All USAID Contracts (JAN 1990)
 
 (a) *USAID* shall mean the U.S. Agency for International Development.
 
@@ -32,7 +32,7 @@ USAID Definitions Clause - General Supplement for Use in All USAID Contracts (JA
 
 (c) *Alternate 71.* For use in USAID contracts with an educational institution for participant training. Use in addition to the clauses in (48 CFR) FAR 52.202-1 and in 752.202-1(b) of this chapter.
 
-USAID Definitions Clause - Supplement for Contracts With an Educational Institution for Participant Training (MAY 2011)
+USAID Definitions Clause—Supplement for Contracts With an Educational Institution for Participant Training (MAY 2011)
 
 (a) *Catalog* shall mean any medium by which the Institution publicly announces terms and conditions for enrollment in the Institution, including tuition and fees to be charged. This includes “bulletins,” “announcements,” or any other similar word the Institution may use.
 
@@ -46,7 +46,7 @@ USAID Definitions Clause - Supplement for Contracts With an Educational Institut
 
 (d) *Alternate 72.* For use in all USAID contracts which involve any performance overseas. Use in addition to the clauses in (48 CFR) FAR 52.202-1 and in 752.202-1(b) of this chapter.
 
-USAID Definitions Clause - Supplement for USAID Contracts Involving Performance Overseas (JUN 2009)
+USAID Definitions Clause—Supplement for USAID Contracts Involving Performance Overseas (JUN 2009)
 
 (a) *Contractor's Chief of Party* shall mean the representative of the Contractor in the Cooperating Country who shall be responsible for supervision of the performance of all duties undertaken by the Contractor in the Cooperating Country.
 
@@ -66,7 +66,7 @@ USAID Definitions Clause - Supplement for USAID Contracts Involving Performance 
 
 (e) *Regular employee* shall mean a Contractor employee appointed to serve one year or more in the Cooperating Country.
 
-(f)*Short-term employee* shall mean a Contractor employee appointed to serve less than one year in the Cooperating Country.
+(f) *Short-term employee* shall mean a Contractor employee appointed to serve less than one year in the Cooperating Country.
 
 (g) *Third Country National (TCN) employee* means an individual who meets the citizenship requirements of the TCN definition in (48 CFR) AIDAR 702.170 and is hired while residing outside the United States for work in a Cooperating Country.
 

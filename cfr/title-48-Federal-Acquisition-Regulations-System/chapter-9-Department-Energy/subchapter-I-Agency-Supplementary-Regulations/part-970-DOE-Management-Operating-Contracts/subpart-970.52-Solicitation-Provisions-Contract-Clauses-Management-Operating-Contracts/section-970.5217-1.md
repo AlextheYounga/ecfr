@@ -2,15 +2,15 @@
 
 As prescribed in 970.1707-4 insert the following clause:
 
-STRATEGIC PARTNERSHIP PROJECTS PROGRAM (NON-DOE FUNDED WORK) (April 23, 2015)
+Strategic Partnership Projects Program (Non-DOE Funded Work) (April 23, 2015)
 
 (a) *Authority to perform Strategic Partnership Projects.* Pursuant to the Economy Act of 1932, as amended (31 U.S.C. 1535), and the Atomic Energy Act of 1954, as amended (42 U.S.C. 2011 *et seq.*) or other applicable authority, the Contractor may perform work for non-DOE entities (sponsors) on a fully reimbursable basis in accordance with this clause.
 
 (b) *Contractor's implementation.* The Contractor must draft, implement, and maintain formal policies, practices, and procedures in accordance with this clause, which must be submitted to the Contracting Officer for review and approval.
 
-(c) *Conditions of participation in Strategic Partnership Projectsprogram.* The Contractor -
+(c) *Conditions of participation in Strategic Partnership Projects program.* The Contractor—
 
-(1) Must not perform Strategic Partnership Projectsactivities that would place it in direct competition with the domestic private sector;
+(1) Must not perform Strategic Partnership Projects activities that would place it in direct competition with the domestic private sector;
 
 (2) Must not respond to a request for proposals or any other solicitation from another Federal agency or non-Federal organization that involves direct comparative competition, either as an offeror, team member, or subcontractor to an offeror; however, the Contractor may, following notification to the Contracting Officer, respond to Broad Agency Announcements, Financial Assistance solicitations, and similar solicitations from another Federal Agency or non-Federal organizations when the selection is based on merit or peer review, the work involves basic or applied research to further advance scientific knowledge or understanding, and a response does not result in direct, comparative competition;
 
@@ -26,7 +26,7 @@ STRATEGIC PARTNERSHIP PROJECTS PROGRAM (NON-DOE FUNDED WORK) (April 23, 2015)
 
 (8) May subcontract portion(s) of a Work for Others project; however, the Contractor must select the subcontractor and the work to be subcontracted. Any subcontracted work must be in direct support of the DOE Contractor's performance as defined in the DOE approved Strategic Partnership Projects proposal package; and,
 
-(9) Must maintain a summary listing of project information for each active Strategic Partnership Projects project, consisting of -
+(9) Must maintain a summary listing of project information for each active Strategic Partnership Projects project, consisting of—
 
 (i) Sponsoring agency;
 

@@ -6,7 +6,7 @@ Notice of Changes in Travel Regulations (JAN 1990)
 
 (a) Changes in travel, differential, and allowance regulations shall be effective on the beginning of the Contractor's next pay period following the effective date of the change as published in the applicable travel regulations (the Department of State Standardized Regulations, Foreign Service Travel Regulations).
 
-(b) (1) Department of State Standardized Regulations are available at: *http://aoprals.state.gov/content.asp?content\_id=231&menu\_id=92.*
+(b)(1) Department of State Standardized Regulations are available at: *http://aoprals.state.gov/content.asp?content\_id=231&menu\_id=92.*
 
 (2)Foreign Service Travel Regulations are available at: 14 FAM 500: *http://www.state.gov/m/a/dir/regs/fam/14fam/500/index.htm.*
 

@@ -94,4 +94,4 @@ In addition to the requirements set forth in 24 CFR part 5, use of assistance pr
 
 (iii) The terms “affiliated individual,” “dating violence,” “domestic violence,” “sexual assault,” and “stalking” are defined in 24 CFR 5.2003.
 
-[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016; 81 FR 87812, Dec. 16, 2016]
+[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016; 81 FR 87812, Dec. 6, 2016]

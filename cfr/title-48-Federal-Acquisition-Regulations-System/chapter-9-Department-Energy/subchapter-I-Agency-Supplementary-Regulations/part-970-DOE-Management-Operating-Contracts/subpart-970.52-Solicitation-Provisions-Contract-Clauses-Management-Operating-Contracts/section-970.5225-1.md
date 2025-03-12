@@ -2,13 +2,13 @@
 
 As prescribed in 970.2571-3, use the following clause:
 
-COMPLIANCE WITH EXPORT CONTROL LAWS AND REGULATIONS (NOV 2015)
+Compliance With Export Control Laws and Regulations (NOV 2015)
 
 (a) The Contractor shall comply with all applicable U.S. export control laws and regulations.
 
 (b) The Contractor's responsibility to comply with all applicable laws and regulations exists independent of, and is not established or limited by, the information provided by this clause.
 
-(c) Nothing in the terms of this contract adds to, changes, supersedes, or waives any of the requirements of applicable Federal laws, Executive Orders, and regulations, including but not limited to -
+(c) Nothing in the terms of this contract adds to, changes, supersedes, or waives any of the requirements of applicable Federal laws, Executive Orders, and regulations, including but not limited to—
 
 (1) The Atomic Energy Act of 1954, as amended;
 
@@ -34,4 +34,4 @@ NSDD 189 does not take precedence over statutes. NSDD 189 does not exempt any re
 
 (e) The Contractor shall include the substance of this clause, including this paragraph (e), in all solicitations and subcontracts.
 
-[80 FR 64639, Oct. 23, 2015]
+[80 FR 64369, Oct. 23, 2015]
