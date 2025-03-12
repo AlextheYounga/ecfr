@@ -100,6 +100,8 @@
 
 (11) In an exceptional case, the Copyright Office may waive the online filing requirement set forth in paragraph (i)(8) of this section or may grant special relief from the deposit requirement under § 202.20(d), subject to such conditions as the Associate Register of Copyrights and Director of the Office of Registration Policy and Practice may impose on the applicant.
 
+(j) [Reserved]
+
 (k) *Secure test items.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that a group of test items may be registered in Class TX with one application, one filing fee, and identifying material, if the conditions set forth in § 202.13(c) and (d) have been met.
 
 (l) *Refusal to register.* The Copyright Office may refuse registration if the applicant fails to satisfy the requirements for registering a group of related works under this section or § 202.3(b)(5) through (7), or (9).

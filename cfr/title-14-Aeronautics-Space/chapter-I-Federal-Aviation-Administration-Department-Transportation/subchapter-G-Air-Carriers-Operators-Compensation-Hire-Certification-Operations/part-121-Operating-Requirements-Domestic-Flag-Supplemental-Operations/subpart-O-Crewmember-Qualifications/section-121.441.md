@@ -56,8 +56,6 @@ However, the entire proficiency check (other than the initial second-in-command 
 
 (B) For qualification proficiency checks, the maneuvers and procedures to be included in the related aircraft proficiency check and the level of FSTD to be used for each maneuver and procedure.
 
-(iii) For qualification proficiency checks, the maneuvers and procedures to be included in the related aircraft proficiency check based on review of the related aircraft, the operation, and the duty position.
-
 (3) The administrator may, at any time, terminate a grant of deviation authority issued under this paragraph (f).
 
-[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013; Docket FAA-2016-9526, Amdt. 121-377, 81 FR 90983, Dec. 16, 2016; Amdt. 121-377A, 81 FR 95860, Dec. 29, 2016]
+[Doc. No. 9509, 35 FR 96, Jan. 3, 1970, as amended by Amdt. 121-103, 38 FR 12203, May 10, 1973, Amdt. 121-108, 38 FR 35446, Dec. 28, 1973; Amdt. 121-144, 43 FR 22648, May 25, 1978; Amdt. 121-263, 62 FR 13791, Mar. 21, 1997; Amdt. 121-366, 78 FR 67841, Nov. 12, 2013; Docket FAA-2016-9526, Amdt. 121-377, 81 FR 90983, Dec. 16, 2016; Amdt. 121-377A, 81 FR 95860, Dec. 29, 2016; Amdt. 121-377B, 83 FR 12475, Mar. 22, 2018]

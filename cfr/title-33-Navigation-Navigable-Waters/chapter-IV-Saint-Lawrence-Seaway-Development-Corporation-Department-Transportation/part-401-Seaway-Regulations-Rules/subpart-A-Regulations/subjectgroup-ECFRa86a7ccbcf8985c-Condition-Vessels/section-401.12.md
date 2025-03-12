@@ -1,5 +1,7 @@
 ##### § 401.12 Minimum requirements - mooring lines and fairleads. #####
 
+Link to an amendment published at 83 FR 12485, Mar. 22, 2018.
+
 (a) Unless otherwise permitted by the officer the minimum requirements in respect to mooring lines which shall be available for securing on either side of the vessel, winches and the location of fairleads on vessels are as follows:
 
 (1) Vessels of 100 m or less in overall length shall have at least three mooring lines - wires or synthetic hawsers, two of which shall be independently power operated and one if synthetic, may be hand held.
