@@ -1,0 +1,5 @@
+##### § 17.539 Failure to comply with terms and conditions of agreement. #####
+
+(a) *Participant fails to satisfy terms of agreement.* If an eligible individual who accepts funding for the EACFMAF fails to satisfy the terms of agreement, the United States is entitled to recover damages in an amount equal to the total amount of EACFMAF funding paid or is payable to or on behalf of the individual, reduced by the total number of obligated service days the individual has already served minus the total number of days in the individual's period of obligated service.
+
+(b) *Repayment period.* The eligible individual will pay the amount of damages that the United States is entitled to recover under this section in full to the United States no later than one year after the date of the breach of the agreement.

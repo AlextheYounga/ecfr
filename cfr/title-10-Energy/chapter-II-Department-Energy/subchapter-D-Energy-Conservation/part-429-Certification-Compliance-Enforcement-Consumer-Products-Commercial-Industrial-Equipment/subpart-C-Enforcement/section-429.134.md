@@ -1,7 +1,5 @@
 ##### § 429.134 Product-specific enforcement provisions. #####
 
-Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
-
 (a) *General.* The following provisions apply to assessment and enforcement testing of the relevant products and equipment.
 
 (b) *Refrigerators, refrigerator-freezers, and freezers* - (1) *Verification of total refrigerated volume.* The total refrigerated volume of the basic model will be measured pursuant to the test requirements of 10 CFR part 430 for each unit tested. The results of the measurement(s) will be averaged and compared to the value of total refrigerated volume certified by the manufacturer. The certified total refrigerated volume will be considered valid only if:
@@ -14,9 +12,9 @@ Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
 
 (B) If the certified total refrigerated volume is found to be invalid, the average measured adjusted total volume, rounded to the nearest 0.1 cubic foot, will serve as the basis for calculation of maximum allowed energy use for the tested basic model.
 
-(2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 3.3 of the applicable test procedure for refrigerators or refrigerator-freezers in appendix A to subpart B of 10 CFR part 430 shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
+(2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 5.2(b) of the applicable test procedure for refrigerators or refrigerator-freezers in appendix A to subpart B of 10 CFR part 430 shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
-(c) *Clothes washers.* (1) *Determination of Remaining Moisture Content.* The procedure for determining remaining moisture content (RMC) will be performed once in its entirety, pursuant to the test requirements of section 3.8 of appendix J1 and appendix J2 to subpart B of part 430, for each unit tested.
+(c) *Clothes washers* - (1) *Determination of Remaining Moisture Content.* The procedure for determining remaining moisture content (RMC) will be performed once in its entirety, pursuant to the test requirements of section 3.8 of appendix J1 and appendix J2 to subpart B of part 430, for each unit tested.
 
 (i) The measured RMC value of a tested unit will be considered the tested unit's final RMC value if the measured RMC value is within two RMC percentage points of the certified RMC value of the basic model (expressed as a percentage), or is lower than the certified RMC value.
 
@@ -188,7 +186,7 @@ Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
 
 (B) If the certified total refrigerated volume is found to be invalid, the average measured adjusted total volume, rounded to the nearest 0.1 cubic foot, will serve as the basis for calculating the maximum allowed energy use for the tested basic model.
 
-(2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 3.3 of the applicable test procedure in appendix A to subpart B part 430 of this chapter shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
+(2) *Test for models with two compartments, each having its own user-operable temperature control.* The test described in section 5.2(b) of the applicable test procedure in appendix A to subpart B part 430 of this chapter shall be used for all units of a tested basic model before DOE makes a determination of noncompliance with respect to the basic model.
 
 (m) *Commercial packaged boilers* - (1) *Verification of fuel input rate.* The fuel input rate of each tested unit will be measured pursuant to the test requirements of § 431.86 of this chapter. The results of the measurement(s) will be compared to the value of rated input certified by the manufacturer. The certified rated input will be considered valid only if the measurement(s) (either the measured fuel input rate for a single unit sample or the average of the measured fuel input rates for a multiple unit sample) is within two percent of the certified rated input.
 
@@ -263,4 +261,4 @@ Table 1 of § 429.134 - Allowable Percentage Deviation From the Certified Full-L
 
 (2) If the certified seasonally adjusted cooling capacity is found to be invalid, the average measured seasonally adjusted cooling capacity will be used to determine the minimum allowed combined energy efficiency ratio for the basic model.
 
-[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020]
+[79 FR 22348, Apr. 21, 2014, as amended at 79 FR 40566, July 11, 2014; 80 FR 37148, June 30, 2015; 80 FR 45824, July 31, 2015; 80 FR 46760, Aug. 5, 2015; 80 FR 79669, Dec. 23, 2015; 81 FR 2646, Jan. 15, 2016; 81 FR 15426, Mar. 23, 2016; 81 FR 24009, Apr. 25, 2016; 81 FR 37055, June 8, 2016; 81 FR 38395, June 13, 2016; 81 FR 46791, July 18, 2016; 81 FR 79320, Nov. 10, 2016; 81 FR 96236, Dec. 29, 2016; 81 FR 89304, Dec. 9, 2016; 81 FR 89822, Dec. 12, 2016; 81 FR 95800, Dec. 28, 2016; 82 FR 1100, Jan. 4, 2017; 82 FR 36919, Aug. 7, 2017; 85 FR 1446, Jan. 10, 2020; 86 FR 56820, Oct. 12, 2021]

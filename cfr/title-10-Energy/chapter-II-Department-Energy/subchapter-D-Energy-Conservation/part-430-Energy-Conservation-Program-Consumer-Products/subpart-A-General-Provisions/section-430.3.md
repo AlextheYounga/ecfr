@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
-
 (a) Certain material is incorporated by reference into this subpart with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, DOE must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at the U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW, Washington, DC 20024, (202) 586-2945, *https://www.energy.gov/eere/buildings/appliance-and-equipment-standards-program,* and may be obtained from the other sources in this section. It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email: *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -272,7 +270,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (3) ANSI/AHAM HLD-1-2010 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, ANSI-approved June 11, 2010, IBR approved for appendices D1 and D2 to subpart B of this part.
 
-(4) AHAM HRF-1-2008, (“HRF-1-2008”), Association of Home Appliance Manufacturers, Energy and Internal Volume of Refrigerating Appliances (2008), including Errata to Energy and Internal Volume of Refrigerating Appliances, Correction Sheet issued November 17, 2009, IBR approved for appendices A and B to subpart B of this part.
+(4) AHAM HRF-1-2019 (“HRF-1-2019”), Energy and Internal Volume of Consumer Refrigeration Products, Copyright © 2019, IBR approved for appendices A and B to subpart B of this part.
 
 (5) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B of this part.
 

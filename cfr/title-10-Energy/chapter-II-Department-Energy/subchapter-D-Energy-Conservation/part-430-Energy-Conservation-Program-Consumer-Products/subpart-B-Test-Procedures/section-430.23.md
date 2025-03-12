@@ -1,14 +1,12 @@
 ##### § 430.23 Test procedures for the measurement of energy and water consumption. #####
 
-Link to an amendment published at 86 FR 56820, Oct. 12, 2021.
-
 When the test procedures of this section call for rounding off of test results, and the results fall equally between two values of the nearest dollar, kilowatt-hour, or other specified nearest value, the result shall be rounded up to the nearest higher value.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) The estimated annual operating cost for models without an anti-sweat heater switch shall be the product of the following three factors, with the resulting product then being rounded to the nearest dollar per year:
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
+(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -16,7 +14,7 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
+(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -24,7 +22,7 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the specified cycle type, determined according to section 6.2 of appendix A of this subpart; and
+(ii) The average per-cycle energy consumption for the specified cycle type, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -32,21 +30,17 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to section 6.1 of appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
 
-(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart, the resulting quotient then being rounded to the second decimal place; and
+(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
 (ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to 6.1 of appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
 
-(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart, the resulting quotient then being rounded to the second decimal place.
+(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place.
 
-(5) The annual energy use, expressed in kilowatt-hours per year, shall be the following, rounded to the nearest kilowatt-hour per year:
-
-(i) For models without an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by the average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
-
-(ii) For models having an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart.
+(5) The annual energy use, expressed in kilowatt-hours per year and rounded to the nearest kilowatt-hour per year, shall be determined according to appendix A of this subpart.
 
 (6) Other useful measures of energy consumption shall be those measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions which are derived from the application of appendix A of this subpart.
 
@@ -72,7 +66,7 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix B of this subpart; and
+(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix B of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -80,7 +74,7 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix B of this subpart; and
+(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix B of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -88,29 +82,25 @@ When the test procedures of this section call for rounding off of test results, 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the specified cycle type, determined according to section 6.2 of appendix B of this subpart; and
+(ii) The average per-cycle energy consumption for the specified cycle type, determined according to appendix B of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
-(4) The energy factor for freezers, expressed in cubic feet per kilowatt-hour per cycle, shall be:
+(4) The energy factor, expressed in cubic feet per kilowatt-hour per cycle, shall be:
 
-(i) For freezers not having an anti-sweat heater switch, the quotient of:
+(i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted net refrigerated volume in cubic feet, determined according to section 6.1 of appendix B of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by -
 
-(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to 6.2 of appendix B of this subpart, with the resulting quotient then being rounded to the second decimal place; and
+(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix B of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
-(ii) For freezers having an anti-sweat heater switch, the quotient of:
+(ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted net refrigerated volume in cubic feet, determined according to section 6.1 of appendix B of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix B of this subpart, divided by -
 
-(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix B of this subpart, with the resulting quotient then being rounded to the second decimal place.
+(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix B of this subpart, the resulting quotient then being rounded to the second decimal place.
 
-(5) The annual energy use of all freezers, expressed in kilowatt-hours per year, shall be the following, rounded to the nearest kilowatt-hour per year:
-
-(i) For freezers not having an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by the average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix B of this subpart; and
-
-(ii) For freezers having an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix B of this subpart.
+(5) The annual energy use, expressed in kilowatt-hours per year and rounded to the nearest kilowatt-hour per year, shall be determined according to appendix B of this subpart.
 
 (6) Other useful measures of energy consumption for freezers shall be those measures the Secretary determines are likely to assist consumers in making purchasing decisions and are derived from the application of appendix B of this subpart.
 
@@ -454,7 +444,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
+(ii) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -462,7 +452,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
+(ii) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -470,7 +460,7 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (i) The representative average-use cycle of 365 cycles per year;
 
-(ii) The average per-cycle energy consumption for the specified cycle type, determined according to section 6.2 of appendix A to this subpart; and
+(ii) The average per-cycle energy consumption for the specified cycle type, determined according to appendix A of this subpart; and
 
 (iii) The representative average unit cost of electricity in dollars per kilowatt-hour as provided by the Secretary.
 
@@ -478,21 +468,17 @@ M, MWS, N, EF, and ETLP are defined in paragraph (c)(1)(i) of this section, and 
 
 (i) For models without an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to section 6.1 of appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
 
-(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart, with the resulting quotient then being rounded to the second decimal place; and
+(B) The average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place; and
 
 (ii) For models having an anti-sweat heater switch, the quotient of:
 
-(A) The adjusted total volume in cubic feet, determined according to section 6.1 of appendix A of this subpart, divided by -
+(A) The adjusted total volume in cubic feet, determined according to appendix A of this subpart, divided by -
 
-(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart, with the resulting quotient then being rounded to the second decimal place.
+(B) Half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to appendix A of this subpart, the resulting quotient then being rounded to the second decimal place.
 
-(5) The annual energy use, expressed in kilowatt-hours per year, shall be the following, rounded to the nearest kilowatt-hour per year:
-
-(i) For models without an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by the average per-cycle energy consumption for the standard cycle in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart; and
-
-(ii) For models having an anti-sweat heater switch, the representative average use cycle of 365 cycles per year multiplied by half the sum of the average per-cycle energy consumption for the standard cycle and the average per-cycle energy consumption for a test cycle type with the anti-sweat heater switch in the position set at the factory just before shipping, each in kilowatt-hours per cycle, determined according to section 6.2 of appendix A of this subpart.
+(5) The annual energy use, expressed in kilowatt-hours per year and rounded to the nearest kilowatt-hour per year, shall be determined according to appendix A of this subpart.
 
 (6) Other useful measures of energy consumption shall be those measures of energy consumption that the Secretary determines are likely to assist consumers in making purchasing decisions which are derived from the application of appendix A of this subpart.
 

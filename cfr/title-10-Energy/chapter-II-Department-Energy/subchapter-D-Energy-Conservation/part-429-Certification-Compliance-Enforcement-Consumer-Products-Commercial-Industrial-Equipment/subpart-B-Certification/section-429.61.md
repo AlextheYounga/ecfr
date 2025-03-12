@@ -1,7 +1,5 @@
 ##### § 429.61 Consumer miscellaneous refrigeration products. #####
 
-Link to an amendment published at 86 FR 56819, Oct. 12, 2021.
-
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to miscellaneous refrigeration products; and
 
 (2) For each basic model of miscellaneous refrigeration product, a sample of sufficient size shall be randomly selected and tested to ensure that -
@@ -42,7 +40,7 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (2) Pursuant to § 429.12(b)(13), a certification report must include the following public product-specific information: The annual energy use in kilowatt hours per year (kWh/yr); the total refrigerated volume in cubic feet (cu ft) and the total adjusted volume in cubic feet (cu ft).
 
-(3) Pursuant to § 429.12(b)(13), a certification report coolers or combination cooler refrigeration products shall include the following additional product-specific information: Whether the basic model has variable defrost control (in which case, manufacturers must also report the values, if any, of CTL and CTM (for an example, see section 5.2.1.3 in appendix A to subpart B of part 430 of this chapter) used in the calculation of energy consumption), whether the basic model has variable anti-sweat heater control (in which case, manufacturers must also report the values of heater Watts at the ten humidity levels 5%, 15%, through 95% used to calculate the variable anti-sweat heater “Correction Factor”), and whether testing has been conducted with modifications to the standard temperature sensor locations specified by the figures referenced in section 5.1 of appendix A to subpart B of part 430 of this chapter.
+(3) Pursuant to § 429.12(b)(13), a certification report coolers or combination cooler refrigeration products shall include the following additional product-specific information: Whether the basic model has variable defrost control (in which case, manufacturers must also report the values, if any, of CTL and CTM (See section 5.3 in appendix A to subpart B of part 430 of this chapter) used in the calculation of energy consumption), whether the basic model has variable anti-sweat heater control (in which case, manufacturers must also report the values of heater Watts at the ten humidity levels (5%, 15%, 25%, 35%, 45%, 55%, 65%, 75%, 85%, and 95%) used to calculate the variable anti-sweat heater “Correction Factor”), and whether testing has been conducted with modifications to the standard temperature sensor locations, as specified in section 5.1(g) of appendix A to subpart B of part 430 of this chapter.
 
 (c) *Rounding requirements for representative values, including certified and rated values.* (1) The represented value of annual energy use must be rounded to the nearest kilowatt hour per year.
 
@@ -50,10 +48,10 @@ And x is the sample mean; s is the sample standard deviation; n is the number of
 
 (3) The represented value of adjusted total volume must be rounded to the nearest 0.1 cubic foot.
 
-(d) *Product category determination.* Each basic model of miscellaneous refrigeration product must be certified according to the appropriate product category as defined in § 430.2 based on compartment volumes and compartment temperatures.
+(d) Product category determination. Each basic model of miscellaneous refrigeration product must be certified according to the appropriate product category as defined in § 430.2 based on compartment volumes and compartment temperatures.
 
-(1) Compartment volumes used to determine product category shall be the mean of the measured compartment volumes for each tested unit of the basic model according to the provisions in section 5.3 of appendix A to subpart B of part 430 of this chapter, or the compartment volumes of the basic model as calculated in accordance with § 429.72(d); and
+(1) Compartment volumes used to determine product category shall be the mean of the measured compartment volumes for each tested unit of the basic model according to the provisions in section 4.1 of appendix A to subpart B of part 430 of this chapter, or the compartment volumes of the basic model as calculated in accordance with § 429.72(d); and
 
-(2) Compartment temperatures used to determine product category shall be the mean of the measured compartment temperatures at the coldest setting for each tested unit of the basic model according to the provisions section 5.1 of appendix A to subpart B of part 430 of this chapter. For cooler compartments with temperatures below 39 °F (3.9 °C) but no lower than 37 °F (2.8 °C), the compartment temperatures used to determine product category shall also include the mean of the measured compartment temperatures at the warmest setting for each tested unit of the basic model according to the provisions section 5.1 of appendix A to subpart B of part 430 of this chapter.
+(2) Compartment temperatures used to determine product category shall be the mean of the measured compartment temperatures at the coldest setting for each tested unit of the basic model according to the provisions of appendix A to subpart B of part 430 of this chapter. For cooler compartments with temperatures below 39 °F (3.9 °C) but no lower than 37 °F (2.8 °C), the compartment temperatures used to determine product category shall also include the mean of the measured compartment temperatures at the warmest setting for each tested unit of the basic model according to the provisions of appendix A to subpart B of part 430 of this chapter.
 
-[81 FR 46790, July 18, 2016]
+[81 FR 46790, July 18, 2016, as amended at 86 FR 56819, Oct. 12, 2021]
