@@ -1,6 +1,6 @@
 ##### § 80.203 Authorization of transmitters for licensing. #####
 
-(a) Each transmitter authorized in a station in the maritime services after September 30, 1986, except as indicated in paragraphs (g), (h) and (i) of this section, must be certificated by the Commission for part 80 operations. The procedures for certification are contained in part 2 of this chapter. Transmitters of a model authorized before October 1, 1986 will be considered type accepted for use in ship or coast stations as appropriate.
+(a) Each transmitter authorized in a station in the maritime services after September 30, 1986, except as indicated in paragraphs (g), (h) and (i) of this section, must be certified by the Commission for part 80 operations. The procedures for certification are contained in part 2 of this chapter. Transmitters of a model that have received equipment authorization before October 1, 1986 will be considered acceptable for use in ship or coast stations as appropriate.
 
 (b) The external controls, of maritime station transmitters capable of operation in the 156-162 MHz band and manufactured in or imported into the United States after August 1, 1990, or sold or installed after August 1, 1991, must provide for selection of only maritime channels for which the maritime station is authorized. Such transmitters must not be capable of being programmed by station operators using external controls to transmit on channels other than those programmed by the manufacturer, service or maintenance personnel.
 
@@ -28,9 +28,13 @@
 
 (e) [Reserved]
 
-(f) Transmitters certificated for single sideband suppressed carrier radiotelephone transmissions may be used for facsimile transmissions without filing for a certification modification provided the transmitters retain certification and comply with the applicable standards in this part.
+(f) Transmitters certified for single sideband suppressed carrier radiotelephone transmissions may be used for facsimile transmissions without filing for a certification modification provided the transmitters retain certification and comply with the applicable standards in this part.
 
-(g) Manufacturers of ship earth station transmitters intended for use in the INMARSAT space segment must comply with the verification procedures given in part 2 of this chapter. Such equipment must be verified in accordance with the technical requirements provided by INMARSAT and must be type approved by INMARSAT for use in the INMARSAT space segment. The ship earth station input/output parameters, the data obtained when the equipment is integrated in system configuration and the pertinent method of test procedures that are used for type approval of the station model which are essential for the compatible operation of that station in the INMARSAT space segment must be disclosed by the manufacturer upon request of the FCC. Witnessing of the type approval tests and the disclosure of the ship earth station equipment design or any other information of a proprietary nature will be at the discretion of the ship earth station manufacturer.
+(g) Manufacturers of ship earth station transmitters intended for use in the INMARSAT space segment are subject to Supplier's Declaration of Conformity pursuant to the procedures given in subpart J of part 2 of this chapter. Such equipment must be approved in accordance with the technical requirements provided by INMARSAT and must be type approved by INMARSAT for use in the INMARSAT space segment. The ship earth station input/output parameters, the data obtained when the equipment is integrated in system configuration and the pertinent method of test procedures that are used for type approval of the station model which are essential for the compatible operation of that station in the INMARSAT space segment must be disclosed by the manufacturer upon request of the FCC. Witnessing of the type approval tests and the disclosure of the ship earth station equipment design or any other information of a proprietary nature will be at the discretion of the ship earth station manufacturer.
+
+Note 1 to paragraph (g):
+
+The verification procedure has been replaced by Supplier's Declaration of Conformity. Equipment previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950 of this chapter.
 
 (h) In addition to the certification requirements contained in part 2 of this chapter, applicants for certification of 406.0-406.1 MHz radiobeacons must also comply with the certification procedures contained in § 80.1061 of this part.
 
@@ -40,13 +44,13 @@
 
 (k) Certification of individual radio transmitters requested by station applicants or licensees must also follow the certification procedure in paragraph (a) of this section. However, operation of such transmitters must be limited to the specific units individually identified on the station authorization.
 
-(l) Ship station transmitters may be certificated for emissions not shown in § 80.205 of this part. However, such emissions are not authorized for use in the United States or for communications with U.S. coast stations.
+(l) Ship station transmitters may be certified for emissions not shown in § 80.205. However, such emissions are not authorized for use in the United States or for communications with U.S. coast stations.
 
 (m) Ship station MF, HF, and VHF transmitters may employ external or internal devices to send synthesized voice transmissions for distress and safety purposes on any distress and safety frequency authorized for radiotelephony listed in § 80.369 provided the following requirements are met:
 
 (1) The technical characteristics of the distress transmissions must comply with this part.
 
-(2) A transmitter and any internal device capable of transmitting a synthesized voice message must be certificated as an integral unit.
+(2) A transmitter and any internal device capable of transmitting a synthesized voice message must be certified as an integral unit.
 
 (3) The synthesized voice distress transmission must begin with the words “this is a recording” and should be comprised of at least:
 
@@ -66,4 +70,4 @@
 
 (p) Applicable July 14, 2017, the Commission no longer accepts applications for certification of non-AIS VHF radios that include channels 75 and 76.
 
-[51 FR 31213, Sept. 2, 1986]Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[51 FR 31213, Sept. 2, 1986]Editorial Note:For Federal Register citations affecting § 80.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

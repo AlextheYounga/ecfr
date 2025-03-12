@@ -1,6 +1,8 @@
 ##### § 90.203 Certification required. #####
 
-(a) Except as specified in paragraphs (b) and (l) of this section, each transmitter utilized for operation under this part and each transmitter marketed as set forth in § 2.803 of this chapter must be of a type which has been certificated for use under this part.
+Link to an amendment published at 86 FR 23297, May 3, 2021.
+
+(a) Except as specified in paragraphs (b) and (l) of this section, each transmitter utilized for operation under this part and each transmitter marketed as set forth in § 2.803 of this chapter must be of a type which has been certified for use under this part.
 
 (1) Effective October 16, 2002, except in the 1427-1432 MHz band, an equipment approval may no longer be obtained for in-hospital medical telemetry equipment operating under the provisions of this part. The requirements for obtaining an approval for medical telemetry equipment after this date are found in subpart H of part 95 of this chapter.
 
@@ -26,7 +28,7 @@
 
 (d) Radiolocation transmitters for use in public safety and land transportation applications marketed after January 1, 1974, must comply with the requirements of paragraph (a) of this section.
 
-(e) Except as provided in paragraph (g) of this section, transmitters designed to operate above 25 MHz shall not be certificated for use under this part if the operator can program and transmit on frequencies, other than those programmed by the manufacturer, service or maintenance personnel, using the equipment's external operation controls.
+(e) Except as provided in paragraph (g) of this section, transmitters designed to operate above 25 MHz shall not be certified for use under this part if the operator can program and transmit on frequencies, other than those programmed by the manufacturer, service or maintenance personnel, using the equipment's external operation controls.
 
 (f) Except as provided in paragraph (g) of this section, transmitters designed to operate above 25 MHz that have been approved prior to January 15, 1988, and that permit the operator, by using external controls, to program the transmitter's operating frequencies, shall not be manufactured in, or imported into the United States after March 15, 1988. Marketing of these transmitters shall not be permitted after March 15, 1989.
 
@@ -34,7 +36,7 @@
 
 (1) Is such that transmitters with external controls normally available to the operator must be internally modified to place the equipment in the programmable mode. Further, while in the programmable mode, the equipment shall not be capable of transmitting. The procedures for making the modification and altering the frequency program shall not be made available with the operating information normally supplied to the end user of the equipment; or
 
-(2) Requires the tramsitter to be programmed for frequencies through controls normally inaccessible to the operator; or
+(2) Requires the transmitter to be programmed for frequencies through controls normally inaccessible to the operator; or
 
 (3) Requires equipment to be programmed for frequencies through use of external devices or specifically programmed modules made available only to service/maintenance personnel; or
 
@@ -46,7 +48,7 @@
 
 (2) The part 90 certification limits the use of the equipment to operations only under § 90.423.
 
-(i) Mobile/portable equipment capable of use in the 806-809/851-854 MHz band segment and submitted for certification thirty or more days after publication of a summary of the *Report and Order,* (FCC 16-48, released April 25, 2016) in PS Docket 13-209 in the Federal Register must have the capability to operate in the analog FM mode on the mutual aid channels designated in § 90.617(a)(1) of the rules.
+(i) Mobile/portable equipment capable of use in the 806-809/851-854 MHz band segment and submitted for certification thirty or more days after publication of a summary of the *Report and Order,* (FCC 16-48, released April 25, 2016) in PS Docket 13-209 in the Federal Register must have the capability to operate in the analog FM mode on the mutual aid channels designated in § 90.617(a)(1).
 
 (j) Except where otherwise specially provided for, transmitters operating on frequencies in the 150-174 MHz and 406-512 MHz bands must comply with the following:
 
@@ -82,9 +84,9 @@
 
 (B) New FCC Identifiers will be required to identify equipment that needs to be modified to comply with the requirements of paragraphs (j)(2) and (j)(4) of this section.
 
-(ii) All other applications for modification or permissive changes will be subject to the Rules of part 2 of this chapter.
+(ii) All other applications for modification or permissive changes will be subject to part 2 of this chapter.
 
-(7) Transmitters designed only for one-way paging operations may be certificated with up to a 25 kHz bandwidth and are exempt from the spectrum efficiency requirements of paragraphs (j)(3) and (j)(5) of this section.
+(7) Transmitters designed only for one-way paging operations may be certified with up to a 25 kHz bandwidth and are exempt from the spectrum efficiency requirements of paragraphs (j)(3) and (j)(5) of this section.
 
 (8) The Commission's Equipment Authorization Division may, on a case by case basis, grant certification to equipment with slower data rates than specified in paragraphs (j)(3) and (j)(5) of this section, provided that a technical analysis is submitted with the application which describes why the slower data rate will provide more spectral efficiency than the standard data rate.
 
@@ -98,7 +100,11 @@
 
 (k) For transmitters operating on frequencies in the 220-222 MHz band, certification will only be granted for equipment with channel bandwidths up to 5 kHz, except that certification will be granted for equipment operating on 220-222 MHz band Channels 1 through 160 (220.0025 through 220.7975/221.0025 through 221.7975), 171 through 180 (220.8525 through 220.8975/221.8525 through 221.8975), and 186 through 200 (220.9275 through 220.9975/221.9275 through 221.9975) with channel bandwidths greater than 5 kHz.
 
-(l) Ocean buoy and wildlife tracking transmitters operating in the band 40.66-40.70 MHz or 216-220 MHz under the provisions of § 90.248 of this part shall be authorized under verification procedure pursuant to subpart J of part 2 of this chapter.
+(l) Ocean buoy and wildlife tracking transmitters operating in the band 40.66-40.70 MHz or 216-220 MHz under the provisions of § 90.248 shall be authorized under Supplier's Declaration of Conformity pursuant to subpart J of part 2 of this chapter.
+
+Note 1 to paragraph (l):
+
+The verification procedure has been replaced by Supplier's Declaration of Conformity. Equipment previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950 of this chapter.
 
 (m) Applications for part 90 certification of transmitters designed to operate in in 769-775 MHz and 799-805 MHz frequency bands will only be granted to transmitters meeting the modulation, spectrum usage efficiency and channel capability requirements listed in §§ 90.535, 90.547, and 90.548.
 
@@ -114,4 +120,4 @@
 
 (p) Certification requirements for signal boosters are set forth in § 90.219.
 
-[43 FR 54791, Nov. 22, 1978; 44 FR 32219, June 5, 1979]Editorial Note:For Federal Register citations affecting § 90.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[43 FR 54791, Nov. 22, 1978; 44 FR 32219, June 5, 1979]Editorial Note:For Federal Register citations affecting § 90.203, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

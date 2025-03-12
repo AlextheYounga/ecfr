@@ -4,9 +4,13 @@
 
 (b) The 406.0-406.1 MHz ELT must contain as an integral part a homing beacon operating only on 121.500 MHz that meets all the requirements described in the RTCA Recommended Standards document described in paragraph (a) of this section. The 121.500 MHz homing beacon must have a continuous duty cycle that may be interrupted during the transmission of the 406.0-406.1 MHz signal only.
 
-(c) Prior to verification of a 406.0-406.1 MHz ELT, the ELT must be certified by a test facility recognized by one of the COSPAS/SARSAT Partners that the equipment satisfies the design characteristics associated with the COSPAS/SARSAT document COSPAS/SARSAT 406 MHz Distress Beacon Type Approval Standard (C/S T.007). Additionally, an independent test facility must certify that the ELT complies with the electrical and environmental standards associated with the RTCA Recommended Standards.
+(c) As part of its Supplier's Declaration of Conformity a 406.0-406.1 MHz ELT, the ELT must be certified by a test facility recognized by one of the COSPAS/SARSAT Partners that the equipment satisfies the design characteristics associated with the COSPAS/SARSAT document COSPAS/SARSAT 406 MHz Distress Beacon Type Approval Standard (C/S T.007). Additionally, an independent test facility must certify that the ELT complies with the electrical and environmental standards associated with the RTCA Recommended Standards.
 
-(d) The procedures for verification are contained in subpart J of part 2 of this chapter.
+Note 1 to paragraph (c):
+
+The verification procedure has been replaced by Supplier's Declaration of Conformity. Equipment previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950 of this chapter.
+
+(d) The procedures for Supplier's Declaration of Conformity are contained in subpart J of part 2 of this chapter.
 
 (e) An identification code, issued by the National Oceanic and Atmospheric Administration (NOAA), the United States Program Manager for the 406.0-406.1 MHz COSPAS/SARSAT satellite system, must be programmed in each ELT unit to establish a unique identification for each ELT station. With each marketable ELT unit the manufacturer or grantee must include a postage pre-paid registration card printed with the ELT identification code addressed to: NOAA/SARSAT Beacon Registration, NSOF, E/SPO53, 1315 East West Hwy, Silver Spring, MD 20910-9684. The registration card must request the owner's name, address, telephone, type of aircraft, alternate emergency contact, and other information as required by NOAA. The registration card must also contain information regarding the availability to register the ELT at NOAA's online Web-based registration database at: *http://www.beaconregistration.noaa.gov.* Further, the following statement must be included: “WARNING - failure to register this ELT with NOAA before installation could result in a monetary forfeiture being issued to the owner.”
 
@@ -14,4 +18,4 @@
 
 (g) For 406.0-406.1 MHz ELTs whose identification code can be changed after manufacture, the identification code shown on the plant or label must be easily replaceable using commonly available tools.
 
-[69 FR 32885, June 14, 2004, as amended at 76 FR 17352, Mar. 29, 2011; 79 FR 77918, Dec. 29, 2014]
+[69 FR 32885, June 14, 2004, as amended at 76 FR 17352, Mar. 29, 2011; 79 FR 77918, Dec. 29, 2014; 82 FR 50838, Nov. 2, 2017]

@@ -8,15 +8,17 @@
 
 (2) [Reserved]
 
-(c) Institute of Electrical and Electronic Engineers (IEEE), 3916 Ranchero Drive, Ann Arbor, MI 48108, 1-800-699-9277, *http://www.techstreet.com/ieee;* (ISO publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York, NY 10036, telephone (212) 642-4900.)
+(c) Institute of Electrical and Electronic Engineers (IEEE), 3916 Ranchero Drive, Ann Arbor, MI 48108, 1-800-699-9277, *http://www.techstreet.com/ieee;* (IEEE publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York, NY 10036, telephone (212) 642-4900.)
 
 (1) ANSI C63.4-2014: “American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz,” ANSI approved June 13, 2014, IBR approved for § 2.950(h) and:
 
-(i) Sections 5.4.4 through 5.5, IBR approved for §§ 2.948(d) and 2.950(f); and
+(i) Sections 5.4.4 through 5.5, IBR approved for §§ 2.948(d) and 2.950(f);
 
 (ii) [Reserved]
 
 (2) ANSI C63.10-2013, “American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices,” ANSI approved June 27, 2013, IBR approved for § 2.950(g).
+
+(3) ANSI C63.26-2015, “American National Standard of Procedures for Compliance Testing of Transmitters Used in Licensed Radio Services,” ANSI approved December 11, 2015, IBR approved for § 2.1041(b).
 
 (d) International Organization for Standardization (ISO), 1, ch. De la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland; *www.iso.org* ; Tel.: + 41 22 749 01 11; Fax: + 41 22 733 34 30; email: *central@iso.org*. (ISO publications can also be purchased from the American National Standards Institute (ANSI) through its NSSN operation (*www.nssn.org*), at Customer Service, American National Standards Institute, 25 West 43rd Street, New York, NY 10036, telephone (212) 642-4900.)
 
@@ -32,4 +34,4 @@
 
 (6) ISO/IEC Guide 65:1996(E), “General requirements for bodies operating product certification systems,” First Edition 1996, IBR approved for § 2.950(b).
 
-[80 FR 33439, June 12, 2015]
+[80 FR 33439, June 12, 2015, as amended at 82 FR 50826, Nov. 2, 2017]

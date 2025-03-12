@@ -1,8 +1,8 @@
 ##### § 2.948 Measurement facilities. #####
 
-(a) Equipment authorized under the certification or Declaration of Conformity (DoC) procedure shall be tested at a laboratory that is accredited in accordance with paragraph (e) of this section.
+(a) Equipment authorized under the certification procedure shall be tested at a laboratory that is accredited in accordance with paragraph (e) of this section.
 
-(b) A laboratory that makes measurements of equipment subject to an equipment authorization under the certification, DoC or verification procedure shall compile a description of the measurement facilities employed.
+(b) A laboratory that makes measurements of equipment subject to an equipment authorization under the certification procedure or Supplier's Declaration of Conformity shall compile a description of the measurement facilities employed.
 
 (1) The description of the measurement facilities shall contain the following information:
 
@@ -22,11 +22,11 @@
 
 (2) The description of the measurement facilities shall be provided to a laboratory accreditation body upon request.
 
-(3) The description of the measurement facilities shall be retained by the party responsible for verification of equipment and provided to the Commission upon request.
+(3) The description of the measurement facilities shall be retained by the party responsible for authorization of the equipment and provided to the Commission upon request.
 
-(i) The party responsible for verification of equipment may rely upon the description of the measurement facilities retained by an independent laboratory that performed the tests. In this situation, the party responsible for verification of the equipment is not required to retain a duplicate copy of the description of the measurement facilities.
+(i) The party responsible for authorization of the equipment may rely upon the description of the measurement facilities retained by an independent laboratory that performed the tests. In this situation, the party responsible for authorization of the equipment is not required to retain a duplicate copy of the description of the measurement facilities.
 
-(ii) No specific site calibration data is required for equipment that is verified for compliance based on measurements performed at the installation site of the equipment. The description of the measurement facilities may be retained at the site at which the measurements were performed.
+(ii) No specific site calibration data is required for equipment that is authorized for compliance based on measurements performed at the installation site of the equipment. The description of the measurement facilities may be retained at the site at which the measurements were performed.
 
 (c) The Commission will maintain a list of accredited laboratories that it has recognized. The Commission will make publicly available a list of those laboratories that have indicated a willingness to perform testing for the general public. Inclusion of a facility on the Commission's list does not constitute Commission endorsement of that facility. In order to be included on this list, the accrediting organization (or Designating Authority in the case of foreign laboratories) must submit the information listed below to the Commission's laboratory:
 
@@ -50,7 +50,7 @@
 
 (d) When the measurement method used requires the testing of radiated emissions on a validated test site, the site attenuation must comply with the requirements of Sections 5.4.4 through 5.5 of the following procedure: ANSI C63.4-2014 (incorporated by reference, see § 2.910). Measurement facilities used to make radiated emission measurements from 30 MHz to 1 GHz shall comply with the site validation requirements in ANSI C63.4-2014 (clause 5.4.4) and for radiated emission measurements from 1 GHz to 40 GHz shall comply with the site validation requirement of ANSI C63.4-2014 (clause 5.5.1 a) 1)), such that the site validation criteria called out in CISPR 16-1-4:2010-04 (incorporated by reference, see § 2.910) is met. Test site revalidation shall occur on an interval not to exceed three years.
 
-(e) A laboratory that has been accredited with a scope covering the measurements required for the types of equipment that it will test shall be deemed competent to test and submit test data for equipment subject to verification, Declaration of Conformity, and certification. Such a laboratory shall be accredited by a Commission recognized accreditation organization based on the International Organization for Standardization/International Electrotechnical Commission International Standard ISO/IEC 17025, (incorporated by reference, see § 2.910). The organization accrediting the laboratory must be recognized by the Commission's Office of Engineering and Technology, as indicated in § 0.241 of this chapter, to perform such accreditation based on International Standard ISO/IEC 17011 (incorporated by reference, see § 2.910). The frequency for reassessment of the test facility and the information that is required to be filed or retained by the testing party shall comply with the requirements established by the accrediting organization, but shall occur on an interval not to exceed two years.
+(e) A laboratory that has been accredited with a scope covering the measurements required for the types of equipment that it will test shall be deemed competent to test and submit test data for equipment subject to certification. Such a laboratory shall be accredited by a Commission recognized accreditation organization based on the International Organization for Standardization/International Electrotechnical Commission International Standard ISO/IEC 17025, (incorporated by reference, see § 2.910). The organization accrediting the laboratory must be recognized by the Commission's Office of Engineering and Technology, as indicated in § 0.241 of this chapter, to perform such accreditation based on International Standard ISO/IEC 17011 (incorporated by reference, see § 2.910). The frequency for reassessment of the test facility and the information that is required to be filed or retained by the testing party shall comply with the requirements established by the accrediting organization, but shall occur on an interval not to exceed two years.
 
 (f) The accreditation of a laboratory located outside of the United States, or its possessions, will be acceptable only under one of the following conditions:
 
@@ -58,4 +58,4 @@
 
 (2) If the laboratory is located in a country that does not have an MRA with the United States, then it must be accredited by an organization recognized by the Commission under the provisions of § 2.949 for performing accreditations in the country where the laboratory is located.
 
-[80 FR 33442, June 12, 2015]
+[80 FR 33442, June 12, 2015, as amended at 82 FR 50828, Nov. 2, 2017]

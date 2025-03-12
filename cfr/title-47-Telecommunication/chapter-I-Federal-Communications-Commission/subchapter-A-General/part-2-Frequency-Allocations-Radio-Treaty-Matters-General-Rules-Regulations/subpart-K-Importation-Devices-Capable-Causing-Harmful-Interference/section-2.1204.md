@@ -14,11 +14,11 @@
 
 (4) The radio frequency device is being imported in limited quantities for demonstration at industry trade shows and the device will not be offered for sale or marketed. The phrase “limited quantities,” in this context means:
 
-(i) 200 or fewer units, provided the product is designed solely for operation within one of the Commission's authorized radio services for which an operating license is required to be issued by the Commission; or
+(i) 400 or fewer devices.
 
-(ii) 10 or fewer units for all other products.
+(ii) Prior to importation of a greater number of units than shown above, written approval must be obtained from the Chief, Office of Engineering and Technology, FCC.
 
-(iii) Prior to importation of a greater number of units than shown above, written approval must be obtained from the Chief, Office of Engineering and Technology, FCC.
+(iii) Distinctly different models of a product and separate generations of a particular model under development are considered to be separate devices.
 
 (iv) Distinctly different models of a product and separate generations of a particular model under development are considered to be separate devices.
 
@@ -30,7 +30,15 @@
 
 (6) The radio frequency device is being imported for use exclusively by the U.S. Government.
 
-(7) Three or fewer radio receivers, computers, or other unintentional radiators as defined in part 15 of this chapter, are being imported for the individual's personal use and are not intended for sale.
+(7) Three or fewer radio frequency devices are being imported for the individual's personal use and are not intended for sale. Unless exempted otherwise in this chapter, the permitted devices must be from one or more of the following categories:
+
+(i) Unintentional radiator as defined in part 15 of this chapter which may include radio receivers, computers or other Class B digital devices in part 15 of this chapter.
+
+(ii) Consumer ISM equipment as defined in part 18 of this chapter.
+
+(iii) Intentional radiators subject to part 15 rules only if they can be used in client modes as specified in § 15.202 of this chapter.
+
+(iv) Transmitters operating under rules which require a station license as subscribers permitted under § 1.903 of this chapter and operated under the authority of an operator license issued by the Commission.
 
 (8) The radio frequency device is being imported for repair and will not be offered for sale or marketed.
 
@@ -40,4 +48,4 @@
 
 (b) The ultimate consignee must be able to document compliance with the selected import condition and the basis for determining the import condition applied.
 
-[56 FR 26619, June 10, 1991, as amended at 57 FR 38286, Aug. 24, 1992; 61 FR 8477, Mar. 5, 1996; 63 FR 31646, June 10, 1998; 64 FR 69929, Dec. 15, 1999; 64 FR 72572, Dec. 28, 1999; 69 FR 5709, Feb. 6, 2004; 74 FR 22704, May 14, 2009; 78 FR 25162, Apr. 29, 2013]
+[56 FR 26619, June 10, 1991, as amended at 57 FR 38286, Aug. 24, 1992; 61 FR 8477, Mar. 5, 1996; 63 FR 31646, June 10, 1998; 64 FR 69929, Dec. 15, 1999; 64 FR 72572, Dec. 28, 1999; 69 FR 5709, Feb. 6, 2004; 74 FR 22704, May 14, 2009; 78 FR 25162, Apr. 29, 2013; 82 FR 50830, Nov. 2, 2017]

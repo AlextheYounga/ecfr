@@ -1,6 +1,6 @@
 ##### § 305.3 Description of covered products. #####
 
-Link to an amendment published at 80 FR 67298, Nov. 2, 2015.Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
+Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
 
 (a) *Refrigerators and refrigerator-freezers.* (1) *Electric refrigerator* means a cabinet designed for the refrigerated storage of food, designed to be capable of achieving storage temperatures above 32 °F (0 °C) and below 39 °F (3.9 °C), and having a source of refrigeration requiring single phase, alternating current electric energy input only. An electric refrigerator may include a compartment for the freezing and storage of food at temperatures below 32 °F (0 °C), but does not provide a separate low temperature compartment designed for the freezing and storage of food at temperatures below 8 °F (−13.3 °C).
 
@@ -245,5 +245,69 @@ Link to an amendment published at 80 FR 67298, Nov. 2, 2015.Link to an amendment
 (x) *Ceiling fan* means a nonportable device that is suspended from a ceiling for circulating air via the rotation of fan blades. The requirements of this part are limited to those ceiling fans for which the Department of Energy has adopted and published test procedures for measuring energy usage.
 
 (y) *Television* means a product that is designed to produce dynamic video, contains an internal TV tuner encased within the product housing, and is capable of receiving dynamic visual content from wired or wireless sources including but not limited to: broadcast and similar services for terrestrial, cable, satellite, and/or broadband transmission of analog and/or digital signals; and/or display-specific data connections, such as HDMI, Component video, S-video, Composite video; and/or media storage devices such as a USB flash drive, memory card, or a DVD; and/or network connections, usually using Internet Protocol, typically carried over Ethernet or Wi-Fi. The requirements of this part are limited to those televisions for which the Department of Energy has adopted and published test procedures for measuring energy use.
+
+(z) *Specialty consumer lamp* means
+
+(1) Any lamp that:
+
+(i) Is not included under the definition of general service lamp in this part;
+
+(ii) Has a lumen range between 310 lumens and no more than 2,600 lumens or a rated wattage between 30 and 199;
+
+(iii) Has one of the following bases:
+
+(A) A medium screw base;
+
+(B) A candelabra screw base;
+
+(C) A GU-10 base; or
+
+(D) A GU-24 base; and
+
+(iv) Is capable of being operated at a voltage range at least partially within 110 and 130 volts.
+
+(2) *Inclusions.* The term *specialty consumer lamp* includes, but is not limited to, the following lamps if such lamps meet the conditions listed in paragraph (1):
+
+(i) vibration-service lamps as defined at 42 U.S.C. 6291(30)(AA);
+
+(ii) rough service lamps as defined at 42 U.S.C. 6291(30)(X);
+
+(iii) appliance lamps as defined at 42 U.S.C. 6291(30)(T); and
+
+(iv) shatter resistant lamps (including a shatter proof lamp and a shatter protected lamp) as defined in 42 U.S.C. 6291(30)(Z).
+
+(3) *Exclusions.* The term *specialty consumer lamp* does not include:
+
+(i) A black light lamp;
+
+(ii) A bug lamp;
+
+(iii) A colored lamp;
+
+(iv) An infrared lamp;
+
+(v) A left-hand thread lamp;
+
+(vi) A marine lamp;
+
+(vii) A marine signal service lamp;
+
+(viii) A mine service lamp;
+
+(ix) A sign service lamp;
+
+(x) A silver bowl lamp;
+
+(xi) A showcase lamp;
+
+(xii) A traffic signal lamp;
+
+(xiii) A G-shape lamp with diameter of 5 inches or more;
+
+(xiv) A C7, M-14, P, RP, S, or T shape lamp;
+
+(xv) A intermediate screw-base lamp; and
+
+(xvi) A plant light lamp.
 
 [52 FR 46894, Dec. 10, 1987, as amended at 59 FR 34031, 34032, July 1, 1994; 59 FR 49563, Sept. 28, 1994; 59 FR 67525, Dec. 29, 1994; 71 FR 4984, Jan. 31, 2006; 72 FR 49966, Aug. 29, 2007; 73 FR 63067, Oct. 23, 2008; 76 FR 79057, Dec. 21, 2011; 76 FR 1050, Jan. 6, 2011; 78 FR 2207, Jan. 10, 2013; 79 FR 19466, Apr. 9, 2014; 80 FR 67298, Nov. 2, 2015]

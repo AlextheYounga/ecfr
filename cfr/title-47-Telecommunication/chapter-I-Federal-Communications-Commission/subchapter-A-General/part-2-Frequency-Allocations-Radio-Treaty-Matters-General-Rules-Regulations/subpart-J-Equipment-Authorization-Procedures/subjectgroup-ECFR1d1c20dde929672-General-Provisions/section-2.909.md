@@ -1,21 +1,21 @@
 ##### § 2.909 Responsible party. #####
 
-The following parties are responsible for the compliance of radio frequency equipment with the applicable standards:
+(a) In the case of equipment that requires the issuance of a grant of certification, the party to whom that grant of certification is issued is responsible for the compliance of the equipment with the applicable standards. If the radio frequency equipment is modified by any party other than the grantee and that party is not working under the authorization of the grantee pursuant to § 2.929(b), the party performing the modification is responsible for compliance of the product with the applicable administrative and technical provisions in this chapter.
 
-(a) In the case of equipment which requires the issuance of a grant of certification, the party to whom that grant of certification is issued (the grantee). If the radio frequency equipment is modified by any party other than the grantee and that party is not working under the authorization of the grantee pursuant to § 2.929(b), the party performing the modification is responsible for compliance of the product with the applicable administrative and technical provisions in this chapter.
+(b) For equipment subject to Supplier's Declaration of Conformity the party responsible for the compliance of the equipment with the applicable standards, who must be located in the United States (see § 2.1077), is set forth as follows:
 
-(b) In the case of equipment subject to authorization under the verification procedure, the manufacturer or, in the case of imported equipment, the importer. If subsequent to manufacture and importation, the radio frequency equipment is modified by any party not working under the authority of the responsible party, the party performing the modification becomes the new responsible party.
+(1) The manufacturer or, if the equipment is assembled from individual component parts and the resulting system is subject to authorization under Supplier's Declaration of Conformity, the assembler.
 
-(c) In the case of equipment subject to authorization under the Declaration of Conformity procedure:
+(2) If the equipment by itself, or, a system is assembled from individual parts and the resulting system is subject to Supplier's Declaration of Conformity and that equipment or system is imported, the importer.
 
-(1) The manufacturer or, if the equipment is assembled from individual component parts and the resulting system is subject to authorization under a Declaration of Conformity, the assembler.
-
-(2) If the equipment, by itself, is subject to a Declaration of Conformity and that equipment is imported, the importer.
-
-(3) Retailers or original equipment manufacturers may enter into an agreement with the responsible party designated in paragraph (c)(1) or (c)(2) of this section to assume the responsibilities to ensure compliance of equipment and become the new responsible party.
+(3) Retailers or original equipment manufacturers may enter into an agreement with the responsible party designated in paragraph (b)(1) or (b)(2) of this section to assume the responsibilities to ensure compliance of equipment and become the new responsible party.
 
 (4) If the radio frequency equipment is modified by any party not working under the authority of the responsible party, the party performing the modifications, if located within the U.S., or the importer, if the equipment is imported subsequent to the modifications, becomes the new responsible party.
 
-(d) If, because of modifications performed subsequent to authorization, a new party becomes responsible for ensuring that a product complies with the technical standards and the new party does not obtain a new equipment authorization, the equipment shall be labelled, following the specifications in § 2.925(d), with the following: “This product has been modified by [insert name, address and telephone number of the party performing the modifications].”
+(c) If the end product or equipment is subject to both certification and Supplier's Declaration of Conformity (*i.e.,* composite system), all the requirements of paragraphs (a) and (b) of this section apply.
 
-[54 FR 17712, Apr. 25, 1989, as amended at 61 FR 31045, June 19, 1996; 62 FR 10470, Mar. 7, 1997; 62 FR 41880, Aug. 4, 1997; 80 FR 33439, June 12, 2015]
+(d) If, because of modifications performed subsequent to authorization, a new party becomes responsible for ensuring that a product complies with the technical standards and the new party does not obtain a new equipment authorization, the equipment shall be labeled, following the specifications in § 2.925(d), with the following: “This product has been modified by [insert name, address and telephone number or internet contact information of the party performing the modifications].”
+
+(e) In the case of transfer of control of equipment, as in the case of sale or merger of the responsible party, the new entity shall bear the responsibility of continued compliance of the equipment.
+
+[82 FR 50825, Nov. 2, 2017]

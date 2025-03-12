@@ -1,12 +1,12 @@
 ##### § 305.20 Paper catalogs and Web sites. #####
 
-Link to an amendment published at 80 FR 67300, Nov. 2, 2015.Link to an amendment published at 82 FR 29236, June 28, 2017.
+Link to an amendment published at 82 FR 29236, June 28, 2017.
 
 (a) Covered products offered for sale on the Internet. Any manufacturer, distributor, retailer, or private labeler who advertises a covered product on an Internet Web site in a manner that qualifies as a catalog under this Part shall disclose energy information as follows:
 
-(1) *Content.* (i) Products required to bear EnergyGuide or Lighting Facts labels. All Web sites advertising covered refrigerators, refrigerator-freezers, freezers, room air conditioners, clothes washers, dishwashers, ceiling fans, pool heaters, central air conditioners, heat pumps, furnaces, general service lamps, and televisions must display, for each model, a recognizable and legible image of the label required for that product by this Part. The Web site may hyperlink to the image of the label using the sample EnergyGuide and Lighting Facts icons depicted in appendix L. The Web site must hyperlink the image in a way that does not require consumers to save the hyperlinked image in order to view it.
+(1) *Content.* - (i) *Products required to bear EnergyGuide or Lighting Facts labels.* All Web sites advertising covered refrigerators, refrigerator-freezers, freezers, room air conditioners, clothes washers, dishwashers, ceiling fans, pool heaters, central air conditioners, heat pumps, furnaces, general service lamps, specialty consumer lamps (for products offered for sale after May 2, 2018), and televisions must display, for each model, a recognizable and legible image of the label required for that product by this part. The Web site may hyperlink to the image of the label using the sample EnergyGuide and Lighting Facts icons depicted in appendix L of this part. The Web site must hyperlink the image in a way that does not require consumers to save the hyperlinked image in order to view it.
 
-(ii) Products not required to bear EnergyGuide or Lighting Facts labels. All Web sites advertising covered showerheads, faucets, water closets, urinals, general service fluorescent lamps, fluorescent lamp ballasts, and metal halide lamp fixtures must include the following disclosures for each covered product:
+(ii) *Products not required to bear EnergyGuide or Lighting Facts labels.* All Web sites advertising covered showerheads, faucets, water closets, urinals, general service fluorescent lamps, fluorescent lamp ballasts, and metal halide lamp fixtures must include the following disclosures for each covered product. For plumbing products, the Web site may hyperlink to the disclosures using a prominent link labeled “Water Usage” or a similar description which facilitates the disclosure of the covered product's rated water usage.
 
 (A) Showerheads, faucets, water closets, and urinals. The product's water use, expressed in gallons and liters per minute (gpm and L/min) or per cycle (gpc and L/cycle) or gallons and liters per flush (gpf and Lpf) as specified in § 305.16.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 80 FR 67300, Nov. 2, 2015.Link to an amendment
 
 (2) *Format.* The required disclosures, whether text, label image, or icon, must appear clearly and conspicuously on each page that contains a detailed description of the covered product and its price. If a catalog displays an image of the full label, the size of the label may be altered to accommodate the catalog's design, as long as the label remains clear and conspicuous to consumers. For text disclosures made pursuant to § 305.20(b)(1)(i) and (ii), the required disclosure may be displayed once per page per type of product if the catalog offers multiple covered products of the same type on a page, as long as the disclosure remains clear and conspicuous.
 
-[78 FR 2209, Jan. 10, 2013]
+[78 FR 2209, Jan. 10, 2013, as amended at 80 FR 67300, Nov. 2, 2015]

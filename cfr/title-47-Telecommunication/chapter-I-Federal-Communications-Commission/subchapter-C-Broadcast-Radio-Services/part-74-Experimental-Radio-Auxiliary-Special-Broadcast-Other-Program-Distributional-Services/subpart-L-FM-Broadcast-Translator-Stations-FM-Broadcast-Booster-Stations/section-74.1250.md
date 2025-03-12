@@ -1,10 +1,14 @@
 ##### § 74.1250 Transmitters and associated equipment. #####
 
-(a) FM translator and booster transmitting apparatus, and exciters employed to provide a locally generated and modulated input signal to translator and booster equipment, used by stations authorized under the provisions of this subpart must be certificated upon the request of any manufacturer of transmitters in accordance with this section and subpart J of part 2 of this chapter. In addition, FM translator and booster stations may use FM broadcast transmitting apparatus verified or approved under the provisions of part 73 of this chapter.
+(a) FM translator and booster transmitting apparatus, and exciters employed to provide a locally generated and modulated input signal to translator and booster equipment, used by stations authorized under the provisions of this subpart must be certified upon the request of any manufacturer of transmitters in accordance with this section and subpart J of part 2 of this chapter. In addition, FM translator and booster stations may use FM broadcast transmitting apparatus authorized via Supplier's Declaration of Conformity or approved under the provisions of part 73 of this chapter.
+
+Note 1 to paragraph (a):
+
+The Declaration of Conformity procedure has been replaced by Supplier's Declaration of Conformity. Equipment previously authorized under subpart J of part 2 of this chapter may remain in use. See § 2.950 of this chapter.
 
 (b) Transmitting antennas, antennas used to receive signals to be rebroadcast, and transmission lines are not subject to the requirement for certification.
 
-(c) The following requirements must be met before translator, booster or exciter equipment will be certificated in accordance with this section:
+(c) The following requirements must be met before translator, booster or exciter equipment will be certified in accordance with this section:
 
 (1) Radio frequency harmonics and spurious emissions must conform with the specifications of § 74.1236 of this part.
 
@@ -16,4 +20,4 @@
 
 (5) For exciters, automatic means shall be provided for limiting the level of the audio frequency voltage applied to the modulator to ensure that a frequency swing in excess of 75 kHz will not occur under any condition of the modulation.
 
-[55 FR 50698, Dec. 10, 1990, as amended at 63 FR 36606, July 7, 1998]
+[55 FR 50698, Dec. 10, 1990, as amended at 63 FR 36606, July 7, 1998; 82 FR 50836, Nov. 2, 2017]

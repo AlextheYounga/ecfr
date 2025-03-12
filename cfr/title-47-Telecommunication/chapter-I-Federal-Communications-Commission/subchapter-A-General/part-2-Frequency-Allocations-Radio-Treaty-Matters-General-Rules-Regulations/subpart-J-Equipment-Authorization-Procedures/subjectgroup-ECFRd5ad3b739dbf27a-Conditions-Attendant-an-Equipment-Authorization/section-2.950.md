@@ -16,4 +16,8 @@
 
 (h) Measurements for unintentional radiators are to be made using the procedures in ANSI C63.4, except clauses 4.5.3, 4.6, 6.2.13, 8.2.2, 9, and 13 (incorporated by reference, see § 2.910), by July 13, 2016.
 
-[80 FR 33443, June 12, 2015, as amended at 81 FR 42265, June 29, 2016]
+(i) Radio frequency devices that would have been considered eligible for authorization under either the verification or Declaration of Conformity procedures that were in effect prior to November 2, 2017 may continue to be authorized until November 2, 2018 under the appropriate procedure in accordance with the requirements that were in effect immediately prior to November 2, 2017.
+
+(j) All radio frequency devices that were authorized under the verification or Declaration of Conformity procedures prior to November 2, 2017 must continue to meet all requirements associated with the applicable procedure that were in effect immediately prior to November 2, 2017. If any changes are made to such devices after November 2, 2018, the requirements associated with the Supplier's Declaration of Conformity will apply.
+
+[80 FR 33443, June 12, 2015, as amended at 81 FR 42265, June 29, 2016; 82 FR 50828, Nov. 2, 2017]

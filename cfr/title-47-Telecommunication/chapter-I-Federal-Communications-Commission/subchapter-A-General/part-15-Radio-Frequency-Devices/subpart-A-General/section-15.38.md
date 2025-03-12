@@ -38,9 +38,11 @@
 
 (g) Institute of Electrical and Electronic Engineers (IEEE), 3916 Ranchero Drive, Ann Arbor, MI 48108, 1-800-699-9277, *http://www.techstreet.com/ieee*.
 
-(1) ANSI C63.4-2014: “American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz,” ANSI approved June 13, 2014, IBR approved for § 15.31(a)(4), except clauses 4.5.3, 4.6, 6.2.13, 8.2.2, 9, and 13.
+(1) ANSI C63.4-2014: “American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz,” ANSI approved June 13, 2014, IBR approved for § 15.35(a).
 
-(2) ANSI C63.10-2013, “American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices,”ANSI approved June 27, 2013, IBR approved for § 15.31(a)(3).
+(2) ANSI C63.4-2014: “American National Standard for Methods of Measurement of Radio-Noise Emissions from Low-Voltage Electrical and Electronic Equipment in the Range of 9 kHz to 40 GHz,” ANSI approved June 13, 2014, IBR approved for § 15.31(a)(4), except clauses 4.5.3, 4.6, 6.2.13, 8.2.2, 9, and 13.
+
+(3) ANSI C63.10-2013, “American National Standard of Procedures for Compliance Testing of Unlicensed Wireless Devices,”ANSI approved June 27, 2013, IBR approved for § 15.31(a)(3).
 
 (h) The following documents are available from the following addresses: Society of Cable Telecommunications Engineers (SCTE) c/o Global Engineering Documents, 15 Inverness Way East, Englewood, Colorado 80112 or the American National Standards Institute, 25 West 43rd Street, Fourth Floor, New York, NY 10036 or at *http://www.scte.org/standards/index.cfm;*
 
@@ -54,4 +56,4 @@
 
 (5) ANSI/SCTE 65 2002 (formerly DVS 234): “Service Information Delivered Out-of-Band for Digital Cable Television,” 2002, IBR approved for § 15.123.
 
-[77 FR 43013, July 23, 2012, as amended at 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 80 FR 73068, Nov. 23, 2015]
+[77 FR 43013, July 23, 2012, as amended at 80 FR 2838, Jan. 21, 2015; 80 FR 33447, June 12, 2015; 80 FR 73068, Nov. 23, 2015; 82 FR 50832, Nov. 2, 2017]

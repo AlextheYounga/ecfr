@@ -6,7 +6,7 @@
 
 (1) For devices subject to authorization under certification, the device has been authorized in accordance with the rules in subpart J of this chapter and is properly identified and labeled as required by § 2.925 and other relevant sections in this chapter; or
 
-(2) For devices subject to authorization under verification or Declaration of Conformity in accordance with the rules in subpart J of this chapter, the device complies with all applicable technical, labeling, identification and administrative requirements; or
+(2) For devices subject to authorization under Supplier's Declaration of Conformity in accordance with the rules in subpart J of this part, the device complies with all applicable technical, labeling, identification and administrative requirements; or
 
 (3) For devices that do not require a grant of equipment authorization under subpart J of this chapter but must comply with the specified technical standards prior to use, the device complies with all applicable, technical, labeling, identification and administrative requirements.
 
@@ -44,4 +44,4 @@ FCC NOTICE: This kit is designed to allow:
 
 (d) *Importation.* The provisions of subpart K of this part continue to apply to imported radio frequency devices.
 
-[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015]
+[78 FR 25161, Apr. 29, 2013, as amended at 79 FR 48691, Aug. 18, 2014; 80 FR 52414, Aug. 31, 2015; 82 FR 50825, Nov. 2, 2017]

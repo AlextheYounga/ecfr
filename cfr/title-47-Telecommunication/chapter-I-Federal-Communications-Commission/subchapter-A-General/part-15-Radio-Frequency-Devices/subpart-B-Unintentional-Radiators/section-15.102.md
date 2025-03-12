@@ -14,8 +14,8 @@
 
 (3) Each responsible party's instructions to ensure compliance (including, if necessary, the use of shielded cables or other accessories or modifications) are followed when the system is assembled;
 
-(4) If the system is marketed, the resulting equipment combination is authorized under a Declaration of Conformity pursuant to § 15.101(c)(4) and a compliance information statement, as described in § 2.1077(b), is supplied with the system. Marketed systems shall also comply with the labelling requirements in § 15.19 and must be supplied with the information required under §§ 15.21, 15.27 and 15.105; and
+(4) If the system is marketed, the resulting equipment combination is authorized under Supplier's Declaration of Conformity pursuant to § 15.101(c)(4) and a compliance information statement, as described in § 2.1077(b) of this chapter, is supplied with the system. Marketed systems shall also comply with the labeling requirements in § 15.19 and must be supplied with the information required under §§ 15.21, 15.27 and 15.105; and
 
 (5) The assembler of a personal computer system may be required to test the system and/or make necessary modifications if a system is found to cause harmful interference or to be noncompliant with the appropriate standards in the configuration in which it is marketed (see §§ 2.909, 15.1, 15.27(d) and 15.101(e)).
 
-[61 FR 31050, June 19, 1996]
+[61 FR 31050, June 19, 1996, as amended at 82 FR 50833, Nov. 2, 2017]
