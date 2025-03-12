@@ -1,10 +1,10 @@
 ##### § 1926.250 General requirements for storage. #####
 
-Link to an amendment published at 84 FR 21577, May 14, 2019.
-
 (a) *General.* (1) All materials stored in tiers shall be stacked, racked, blocked, interlocked, or otherwise secured to prevent sliding, falling or collapse.
 
-(2) Maximum safe load limits of floors within buildings and structures, in pounds per square foot, shall be conspicuously posted in all storage areas, except for floor or slab on grade. Maximum safe loads shall not be exceeded.
+(2)(i) The weight of stored materials on floors within buildings and structures shall not exceed maximum safe load limits.
+
+(ii) Employers shall conspicuously post maximum safe load limits of floors within buildings and structures, in pounds per square foot, in all storage areas, except when the storage area is on a floor or slab on grade. Posting is not required for storage areas in all single-family residential structures and wood-framed multi-family residential structures.
 
 (3) Aisles and passageways shall be kept clear to provide for the free and safe movement of material handling equipment or employees. Such areas shall be kept in good repair.
 
@@ -46,4 +46,4 @@ Link to an amendment published at 84 FR 21577, May 14, 2019.
 
 (4) Positive protection shall be provided to prevent railroad cars from being moved while dockboards or bridge plates are in position.
 
-[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 49 FR 18295, Apr. 30, 1984; 54 FR 24334, June 7, 1989; 58 FR 35173, June 30, 1993; 59 FR 40729, Aug. 9, 1994; 61 FR 5510, Feb. 13, 1996]
+[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 49 FR 18295, Apr. 30, 1984; 54 FR 24334, June 7, 1989; 58 FR 35173, June 30, 1993; 59 FR 40729, Aug. 9, 1994; 61 FR 5510, Feb. 13, 1996; 84 FR 21577, May 14, 2019]

@@ -1,7 +1,5 @@
 ##### § 1926.800 Underground construction. #####
 
-Link to an amendment published at 84 FR 21577, May 14, 2019.
-
 (a) *Scope and application.* (1) This section applies to the construction of underground tunnels, shafts, chambers, and passageways. This section also applies to cut-and-cover excavations which are both physically connected to ongoing underground construction operations within the scope of this section, and covered in such a manner as to create conditions characteristic of underground construction.
 
 (2) This section does not apply to the following:
@@ -198,7 +196,13 @@ Link to an amendment published at 84 FR 21577, May 14, 2019.
 
 (10)(i) Internal combustion engines, except diesel-powered engines on mobile equipment, are prohibited underground.
 
-(ii) Mobile diesel-powered equipment used underground in atmospheres other than gassy operations shall be either approved by MSHA in accordance with the provisions of 30 CFR part 32 (formerly Schedule 24), or shall be demonstrated by the employer to be fully equivalent to such MSHA-approved equipment, and shall be operated in accordance with that part. (Each brake horsepower of a diesel engine requires at least 100 cubic feet (28.32 m3) of air per minute for suitable operation in addition to the air requirements for personnel. Some engines may require a greater amount of air to ensure that the allowable levels of carbon monoxide, nitric oxide, and nitrogen dioxide are not exceeded.)
+(ii) Mobile diesel-powered equipment used underground in atmospheres other than gassy operations:
+
+(A) Shall comply with MSHA provisions in 30 CFR 57.5067; or
+
+(B) If purchased on or before July 15, 2019, may alternatively comply with MSHA provisions under 30 CFR part 32 (revised as of July 1, 1996) (formerly Schedule 24), or be demonstrated by the employer to be fully equivalent to such MSHA-approved equipment, and be operated in accordance with that part.
+
+(iii) For purposes of this paragraph (k)(10), when an applicable MSHA provision uses the term “mine,” use the phrase “underground construction site.” (Each brake horsepower of a diesel engine requires at least 100 cubic feet (2.832 m3) of air per minute for suitable operation in addition to the air requirements for personnel. Some engines may require a greater amount of air to ensure that the allowable levels of carbon monoxide, nitric oxide, and nitrogen dioxide are not exceeded.)
 
 (11) Potentially gassy or gassy operations shall have ventilation systems installed which shall:
 
@@ -494,4 +498,4 @@ Link to an amendment published at 84 FR 21577, May 14, 2019.
 
 “Rapid Excavation Machine” - Tunnel boring machines, shields, roadheaders, or any other similar excavation machine.
 
-[54 FR 23850, June 2, 1989; 58 FR 35311, June 30, 1993, as amended at 61 FR 5510, Feb. 13, 1996; 63 FR 1297, Jan. 8, 1998; 71 FR 16674, Apr. 3, 2006; 75 FR 48135, Aug. 9, 2010; 77 FR 49728, Aug. 17, 2012; 78 FR 23841, Apr. 24, 2013]
+[54 FR 23850, June 2, 1989; 58 FR 35311, June 30, 1993, as amended at 61 FR 5510, Feb. 13, 1996; 63 FR 1297, Jan. 8, 1998; 71 FR 16674, Apr. 3, 2006; 75 FR 48135, Aug. 9, 2010; 77 FR 49728, Aug. 17, 2012; 78 FR 23841, Apr. 24, 2013; 84 FR 21577, May 14, 2019]

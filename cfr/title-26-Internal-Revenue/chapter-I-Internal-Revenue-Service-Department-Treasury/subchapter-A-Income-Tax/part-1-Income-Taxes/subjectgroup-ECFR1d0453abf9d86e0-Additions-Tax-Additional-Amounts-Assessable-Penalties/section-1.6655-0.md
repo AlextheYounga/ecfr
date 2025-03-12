@@ -54,7 +54,7 @@ This section lists the table of contents for §§ 1.6655-1 through 1.6655-7.
 
 (a) In general.
 
-(b) Determination of annualized income installment - in general.
+(b) Determination of annualized income installment—in general.
 
 (c) Special rules.
 
@@ -92,11 +92,7 @@ This section lists the table of contents for §§ 1.6655-1 through 1.6655-7.
 
 (3) Special rules.
 
-(i) Advance payments.
-
-(A) Advance payments under § 1.451-5(b)(1)(ii).
-
-(B) Advance payments under Rev. Proc. 2004-34.
+(i) Advance payments under Rev. Proc. 2004-34.
 
 (ii) Extraordinary items.
 
@@ -268,4 +264,4 @@ This section lists the table of contents for §§ 1.6655-1 through 1.6655-7.
 
 (d) Effective/applicability date.
 
-§ 1.6655-7 Addition to tax on account of excessive adjustment under section 6425.[T.D. 9347, 72 FR 44348, Aug. 7, 2007]
+§ 1.6655-7 Addition to tax on account of excessive adjustment under section 6425.[T.D. 9347, 72 FR 44348, Aug. 7, 2007, as amended by T.D. 9870, 84 FR 33692, July 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 1910.1027 Cadmium. #####
 
-Link to an amendment published at 84 FR 21477, May 14, 2019.
-
 (a) *Scope.* This standard applies to all occupational exposures to cadmium and cadmium compounds, in all forms, and in all industries covered by the Occupational Safety and Health Act, except the construction-related industries, which are covered under 29 CFR 1926.63.
 
 (b) *Definitions. Action level* (AL) is defined as an airborne concentration of cadmium of 2.5 micrograms per cubic meter of air (2.5 µg/m3), calculated as an 8-hour time-weighted average (TWA).
@@ -283,7 +281,7 @@ Table I - Separate Engineering Control Airborne Limits (SECALs) for Processes in
 
 (B) A complete physical examination with emphasis on: Blood pressure, the respiratory system, and the urinary system;
 
-(C) A 14 inch by 17 inch, or a reasonably standard sized posterior-anterior chest X-ray (after the initial X-ray, the frequency of chest X-rays is to be determined by the examining physician);
+(C) A 14 inch by 17 inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray (after the initial X-ray, the frequency of chest X-rays is to be determined by the examining physician);
 
 (D) Pulmonary function tests, including forced vital capacity (FVC) and forced expiratory volume at 1 second (FEV1);
 
@@ -1058,7 +1056,7 @@ C. *Spill Leak and Disposal Procedures.*
 
 1. *Steps to be taken if the materials is released or spilled.* Do not touch spilled material. Stop leak if you can do it without risk. For small, dry spills, with a clean shovel place material into clean, dry container and cover. Move containers from spill area. For larger spills, dike far ahead of spill for later disposal. Keep unnecessary people away. Isolate hazard and deny entry. The Superfund Amendments and Reauthorization Act of 1986 Section 304 requires that a release equal to or greater than the reportable quantity for this substance (100 pounds) must be immediately reported to the local emergency planning committee, the state emergency response commission, and the National Response Center (800) 424-8802; in Washington, DC Metropolitan area (202) 426-2675.
 
-Appendix C to § 1910.1027 [Reserved]Appendix D to § 1910.1027 - Occupational Health History Interview With Reference to Cadmium ExposureDirections(To be read by employee and signed prior to the interview)
+Appendix C to § 1910.1027 [Reserved]Appendix D to § 1910.1027 - Occupational Health History Interview With Reference to Cadmium ExposureDirections(To be read by employee and signed prior to the interview)![](/graphics/er14my19.017.gif)![](/graphics/er14my19.018.gif)![](/graphics/er14my19.019.gif)![](/graphics/er14my19.020.gif)![](/graphics/er14my19.021.gif)![](/graphics/er14my19.022.gif)![](/graphics/er14my19.023.gif)![](/graphics/er14my19.024.gif)![](/graphics/er14my19.025.gif)![](/graphics/er14my19.026.gif)![](/graphics/er14my19.027.gif)![](/graphics/er14my19.028.gif)![](/graphics/er14my19.029.gif)
 
 Please answer the questions you will be asked as completely and carefully as you can. These questions are asked of everyone who works with cadmium. You will also be asked to give blood and urine samples. The doctor will give your employer a written opinion on whether you are physically capable of working with cadmium. Legally, the doctor cannot share personal information you may tell him/her with your employer. The following information is considered strictly confidential. The results of the tests will go to you, your doctor and your employer. You will also receive an information sheet explaining the results of any biological monitoring or physical examinations performed.
 

@@ -1,7 +1,5 @@
 ##### § 250.292 What must the DWOP contain? #####
 
-Link to an amendment published at 84 FR 21973, May 15, 2019.
-
 You must include the following information in your DWOP:
 
 (a) A description and schematic of the typical wellbore, casing, and completion;
@@ -34,20 +32,14 @@ You must include the following information in your DWOP:
 
 (o) A list of any alternate compliance procedures or departures for which you anticipate requesting approval;
 
-(p) If you propose to use a pipeline free standing hybrid riser (FSHR) on a permanent installation that utilizes a critical chain, wire rope, or synthetic tether to connect the top of the riser to a buoyancy air can, provide the following information in your DWOP in the discussions required by paragraphs (f) and (g) of this section:
+(p) If you propose to use a pipeline free standing hybrid riser (FSHR) on a permanent installation that utilizes a buoyancy air can suspended from the top of the riser, you must provide the following information in your DWOP in the discussions required by paragraphs (f) and (g) of this section:
 
-(1) A detailed description and drawings of the FSHR, buoy and the tether system;
+(1) A detailed description and drawings of the FSHR, buoy, and the associated connection system;
 
-(2) Detailed information on the design, fabrication, and installation of the FSHR, buoy and tether system, including pressure ratings, fatigue life, and yield strengths;
+(2) Detailed information regarding the system used to connect the FSHR to the buoyancy air can, and associated redundancies; and
 
-(3) A description of how you met the design requirements, load cases, and allowable stresses for each load case according to API RP 2RD (as incorporated by reference in § 250.198);
-
-(4) Detailed information regarding the tether system used to connect the FSHR to a buoyancy air can;
-
-(5) Descriptions of your monitoring system and monitoring plan to monitor the pipeline FSHR and tether for fatigue, stress, and any other abnormal condition (e.g., corrosion) that may negatively impact the riser or tether; and
-
-(6) Documentation that the tether system and connection accessories for the pipeline FSHR have been certified by an approved classification society or equivalent and verified by the CVA required in subpart I of this part; and
+(3) Descriptions of your monitoring system and monitoring plan to monitor the pipeline FSHR and the associated connection system for fatigue, stress, and any other abnormal condition (e.g., corrosion) that may negatively impact the riser system's integrity.
 
 (q) Payment of the service fee listed in § 250.125.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26017, Apr. 29, 2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26017, Apr. 29, 2016; 84 FR 21973, May 15, 2019]

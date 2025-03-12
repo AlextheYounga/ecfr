@@ -338,7 +338,7 @@ Risks to consider include, but are not limited to:
 
 (ii) The record required in paragraph (f)(8)(i) of this section shall include at least the following information:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) Physician's written opinions, recommended limitations, and results of examinations and tests;
 

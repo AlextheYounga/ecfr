@@ -1,7 +1,5 @@
 ##### § 1910.1043 Cotton dust. #####
 
-Link to an amendment published at 84 FR 21490, May 14, 2019.
-
 (a) *Scope and application.* (1) This section, in its entirety, applies to the control of employee exposure to cotton dust in all workplaces where employees engage in yarn manufacturing, engage in slashing and weaving operations, or work in waste houses for textile operations.
 
 (2) This section does not apply to the handling or processing of woven or knitted materials; to maritime operations covered by 29 CFR Parts 1915 and 1918; to harvesting or ginning of cotton; or to the construction industry.
@@ -162,7 +160,7 @@ Link to an amendment published at 84 FR 21490, May 14, 2019.
 
 (ii) The standardized questionnaire contained in appendix B; and
 
-(iii) A pulmonary function measurement, including a determination of forced vital capacity (FVC) and forced expiratory volume in one second (FEV1), the FEV1/FVC ratio, and the percentage that the measured values of FEV1 and FVC differ from the predicted values, using the standard tables in appendix C. These determinations shall be made for each employee before the employee enters the workplace on the first day of the work week, preceded by at least 35 hours of no exposure to cotton dust. The tests shall be repeated during the shift, no less than 4 and no more than 10 hours after the beginning of the work shift; and, in any event, no more than one hour after cessation of exposure. Such exposure shall be typical of the employee's usual workplace exposure. The predicted FEV1 and FVC for blacks shall be multiplied by 0.85 to adjust for ethnic differences.
+(iii) A pulmonary function measurement, including forced vital capacity (FVC) and forced expiratory volume in one second (FEV1), and determination of the FEV1/FVC ratio shall be made. FVC, FEV1, and FEV1/FVC ratio values shall be compared to appropriate race/ethnicity-specific Lower Limit of Normal (LLN) values and predicted values published in Spirometric Reference Values from a Sample of the General U.S. Population, American Journal of Respiratory and Critical Care Medicine, 159(1): 179-187, January 1999 (commonly known as the NHANES III reference data set) (incorporated by reference, see § 1910.6). To obtain reference values for Asian-Americans, Spirometric Reference Values FEV1 and FVC predicted and LLN values for Caucasians shall be multiplied by 0.88 to adjust for ethnic differences. These determinations shall be made for each employee before the employee enters the workplace on the first day of the work week, preceded by at least 35 hours of no exposure to cotton dust. The tests shall be repeated during the shift, no less than 4 and no more than 10 hours after the beginning of the work shift; and, in any event, no more than one hour after cessation of exposure. Such exposure shall be typical of the employee's usual workplace exposure.
 
 (iv) Based upon the questionnaire results, each employee shall be graded according to Schilling's byssinosis classification system.
 
@@ -170,9 +168,9 @@ Link to an amendment published at 84 FR 21490, May 14, 2019.
 
 (ii) Medical surveillance as required in paragraph (h)(3)(i) of this section shall be provided every six months for all employees in the following categories:
 
-(A) An FEV1 of greater than 80 percent of the predicted value, but with an FEV1 decrement of 5 percent or 200 ml. on a first working day;
+(A) An FEV1 greater than the LLN, but with an FEV1 decrement of 5 percent or 200 ml. on a first working day;
 
-(B) An FEV1 of less than 80 percent of the predicted value; or
+(B) An FEV1 of less than the LLN; or
 
 (C) Where, in the opinion of the physician, any significant change in questionnaire findings, pulmonary function results, or other diagnostic tests have occurred.
 
@@ -312,7 +310,7 @@ WARNINGCOTTON DUST WORK AREAMAY CAUSE ACUTE OR DELAYEDLUNG INJURY(BYSSINOSIS)RES
 
 (6) *Mixed grades of washed cotton.* If more than one grade of washed cotton is being handled or processed together, the requirements of the grade with the most stringent exposure limit, medical and monitoring requirements shall be followed.
 
-(n) *Appendices.* (1) Appendices B, C, and D of this section are incorporated as part of this section and the contents of these appendices are mandatory.
+(n) *Appendices.* (1) Appendices B and D of this section are incorporated as part of this section and the contents of these appendices are mandatory.
 
 (2) Appendix A of this section contains information which is not intended to create any additional obligations not otherwise imposed or to detract from any existing obligations.
 

@@ -1,7 +1,5 @@
 ##### § 250.736 What are the requirements for choke manifolds, kelly-type valves inside BOPs, and drill string safety valves? #####
 
-Link to an amendment published at 84 FR 21981, May 15, 2019.
-
 (a) Your BOP system must include a choke manifold that is suitable for the anticipated surface pressures, anticipated methods of well control, the surrounding environment, and the corrosiveness, volume, and abrasiveness of drilling fluids and well fluids that you may encounter.
 
 (b) Choke manifold components must have a RWP at least as great as the RWP of the ram BOPs. If your choke manifold has buffer tanks downstream of choke assemblies, you must install isolation valves on any bleed lines.
@@ -18,8 +16,10 @@ Link to an amendment published at 84 FR 21981, May 15, 2019.
 
 (4) A drill string safety valve in the open position located on the rig floor. You must have a drill-string safety valve available for each size connection in the pipe;
 
-(5) When running casing, a safety valve in the open position available on the rig floor to fit the casing string being run in the hole;
+(5) When running casing, a safety valve in the open position available on the rig floor to fit the casing string being run in the hole. For subsea BOPs, the safety valve must be available on the rig floor if the length of casing being run exceeds the water depth, which would result in the casing being across the BOP stack and the rig floor prior to crossing over to the drill pipe running string;
 
 (6) All required manual and remote- controlled kelly-type valves, drill-string safety valves, and comparable-type valves (*i.e.*, kelly-type valve in a top-drive system) that are essentially full opening; and
 
 (7) A wrench to fit each manual valve. Each wrench must be readily accessible to the drilling crew.
+
+[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21981, May 15, 2019]

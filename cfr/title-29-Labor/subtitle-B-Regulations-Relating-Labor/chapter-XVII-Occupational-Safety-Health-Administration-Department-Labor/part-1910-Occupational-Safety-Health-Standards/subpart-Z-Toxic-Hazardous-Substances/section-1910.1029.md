@@ -1,7 +1,5 @@
 ##### § 1910.1029 Coke oven emissions. #####
 
-Link to an amendment published at 84 FR 21490, May 14, 2019.
-
 (a) *Scope and application.* This section applies to the control of employee exposure to coke oven emissions, except that this section shall not apply to working conditions with regard to which other Federal agencies exercise statutory authority to prescribe or enforce standards affecting occupational safety and health.
 
 (b) *Definitions.* For the purpose of this section:
@@ -334,7 +332,7 @@ Link to an amendment published at 84 FR 21490, May 14, 2019.
 
 (i) A work history and medical history which shall include smoking history and the presence and degree of respiratory symptoms, such as breathlessness, cough, sputum production, and wheezing;
 
-(ii) A standard posterior-anterior chest x-ray;
+(ii) A 14- by 17-inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray;
 
 (iii) Pulmonary function tests including forced vital capacity (FVC) and forced expiratory volume at one second (FEV 1.0) with recording of type of equipment used;
 
@@ -346,13 +344,11 @@ Link to an amendment published at 84 FR 21490, May 14, 2019.
 
 (vii) A urinary cytology examination.
 
-(3) *Periodic examinations.* (i) The employer shall provide the examinations specified in paragraphs (j)(2) (i)-(vi) of this section at least annually for employees covered under paragraph (j)(1)(i) of this section.
+(3) *Periodic examinations.* (i) The employer shall provide the examinations specified in paragraphs (j)(2)(i) and (iii) through (vi) of this section at least annually for employees covered under paragraph (j)(1)(i) of this section.
 
-(ii) The employer must provide the examinations specified in paragraphs (j)(2)(i) through (j)(2)(vii) of this section at least annually for employees 45 years of age or older or with five (5) or more years employment in the regulated area.
+(ii) The employer must provide the examinations specified in paragraphs (j)(2)(i) and (iii) through (vii) of this section at least annually for employees 45 years of age or older or with five (5) or more years employment in the regulated area.
 
-(iii) Whenever an employee who is 45 years of age or older or with five (5) or more years employment in a regulated area transfers or is transferred from employment in a regulated area, the employer must continue to provide the examinations specified in paragraphs (j)(2)(i) through (j)(2)(vii) of this section at least annually as long as that employee is employed by the same employer or a successor employer.
-
-(iv) Whenever an employee has not taken the examinations specified in paragraphs (j)(3) (i)-(iii) of this section with the six (6) months preceding the termination of employment the employer shall provide such examinations to the employee upon termination of employment.
+(iii) Whenever an employee who is 45 years of age or older or with five (5) or more years employment in a regulated area transfers or is transferred from employment in a regulated area, the employer must continue to provide the examinations specified in paragraphs (j)(2)(i) and (iii) through (vii) of this section at least annually as long as that employee is employed by the same employer or a successor employer.
 
 (4) *Information provided to the physician.* The employer shall provide the following information to the examining physician:
 
@@ -536,7 +532,7 @@ Your employer is required to post warning signs and labels for your protection. 
 
 vi. Medical Examinations
 
-If you work in a regulated area at least 30 days per year, your employer is required to provide you with a medical examination every year. The medical examination must include a medical history, a chest x-ray, pulmonary function test, weight comparison, skin examination, a urinalysis, and a urine cytology exam for early detection of urinary cancer. The urine cytology exam is only included in the initial exam until you are either 45 years or older, or have 5 or more years employment in the regulated areas when the medical exams including this test, but excepting the x-ray exam, are to be given every six months; under these conditions, you are to be given an x-ray exam at least once a year. The examining physician will provide a written opinion to your employer containing the results of the medical exams. You should also receive a copy of this opinion.
+If you work in a regulated area at least 30 days per year, your employer is required to provide you with a medical examination every year. The initial medical examination must include a medical history, a chest X-ray, pulmonary function test, weight comparison, skin examination, a urinalysis, and a urine cytology exam for early detection of urinary cancer. Periodic examinations shall include all tests required in the initial examination, except that (1) the x-ray is to be performed during initial examination only and (2) the urine cytologic test is to be performed only on those employees who are 45 years or older or who have worked for 5 or more years in the regulated area. The examining physician will provide a written opinion to your employer containing the results of the medical exams. You should also receive a copy of this opinion.
 
 vii. Observation of Monitoring
 
@@ -582,10 +578,10 @@ B. *Analysis.*
 
 ii. medical surveillance guidelines
 
-A. *General.* The minimum requirements for the medical examination for coke oven workers are given in paragraph (j) of the standard. The initial examination is to be provided to all coke oven workers who work at least 30 days in the regulated area. The examination includes a 14″ × 17″ posterior-anterior chest x-ray reading, pulmonary function tests (FVC and FEV 1.0), weight, urinalysis, skin examination, and a urinary cytologic examination. These tests are needed to serve as the baseline for comparing the employee's future test results. Periodic exams include all the elements of the initial exam, except that the urine cytologic test is to be performed only on those employees who are 45 years or older or who have worked for 5 or more years in the regulated area; periodic exams, with the exception of x-rays, are to be performed semiannually for this group instead of annually; for this group, x-rays will continue to be given at least annually. The examination contents are minimum requirements; additional tests such as lateral and oblique x-rays or additional pulmonary function tests may be performed if deemed necessary.
+A. *General.* The minimum requirements for the medical examination for coke oven workers are given in the standard in paragraph (j) of this section. The initial examination is to be provided to all coke oven workers who work at least 30 days in the regulated area. The examination includes a 14″ by 17″ or other reasonably-sized standard film or digital posterior-anterior chest X-ray reading, pulmonary function tests (FVC and FEV1), weight, urinalysis, skin examination, and a urinary cytologic examination. These tests are needed to serve as the baseline for comparing the employee's future test results. Periodic exams include all the elements of the initial exams, except that (1) the x-ray is to be performed during initial examination only and (2) the urine cytologic test is to be performed only on those employees who are 45 years or older or who have worked for 5 or more years in the regulated area. The examination contents are minimum requirements; additional tests such as lateral and oblique X-rays or additional pulmonary function tests may be performed if deemed necessary.
 
 B. *Pulmonary function tests.*
 
 Pulmonary function tests should be performed in a manner which minimizes subject and operator bias. There has been shown to be learning effects with regard to the results obtained from certain tests, such as FEV 1.0. Best results can be obtained by multiple trials for each subject. The best of three trials or the average of the last three of five trials may be used in obtaining reliable results. The type of equipment used (manufacturer, model, etc.) should be recorded with the results as reliability and accuracy varies and such information may be important in the evaluation of test results. Care should be exercised to obtain the best possible testing equipment.
 
-[39 FR 23502, June 27, 1974, 41 FR 46784, Oct. 22, 1976, as amended at 42 FR 3304, Jan. 18, 1977; 45 FR 35283, May 23, 1980; 50 FR 37353, 37354, Sept. 13, 1985; 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1290, Jan. 8, 1998; 63 FR 33468, June 18, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17782, Mar. 26, 2012]
+[39 FR 23502, June 27, 1974, 41 FR 46784, Oct. 22, 1976, as amended at 42 FR 3304, Jan. 18, 1977; 45 FR 35283, May 23, 1980; 50 FR 37353, 37354, Sept. 13, 1985; 54 FR 24334, June 7, 1989; 61 FR 5508, Feb. 13, 1996; 63 FR 1290, Jan. 8, 1998; 63 FR 33468, June 18, 1998; 70 FR 1142, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17782, Mar. 26, 2012; 84 FR 21490, May 14, 2019]

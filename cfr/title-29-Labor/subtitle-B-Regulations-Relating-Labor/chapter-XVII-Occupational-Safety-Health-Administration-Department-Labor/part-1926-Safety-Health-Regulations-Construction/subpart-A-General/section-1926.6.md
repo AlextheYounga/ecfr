@@ -1,24 +1,18 @@
 ##### § 1926.6 Incorporation by reference. #####
 
-Link to an amendment published at 84 FR 21574, May 14, 2019.
+(a) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (*i.e.,* provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act.
 
-(a) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (*i.e.,* provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act. The locations where these standards may be examined are as follows:
+(b) The standards listed in this section are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, OSHA must publish a document in the Federal Register and the material must be available to the public.
 
-(1) Offices of the Occupational Safety and Health Administration, U.S. Department of Labor, Frances Perkins Building, Washington, DC 20210.
+(c) Copies of standards listed in this section and issued by private standards organizations are available for purchase from the issuing organizations at the addresses or through the other contact information listed below for these private standards organizations. In addition, the standards are available for inspection at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW, Room N-3508, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). These standards are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these standards at NARA, telephone: 202-741-6030, or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
-(2) The Regional and Field Offices of the Occupational Safety and Health Administration, which are listed in the U.S. Government Manual.
-
-(b) The materials listed in paragraphs (g) through (ff) of this section are incorporated by reference in the corresponding sections noted as they exist on the date of the approval, and a notice of any change in these materials will be published in the Federal Register. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
-
-(c) Copies of standards listed in this section and issued by private standards organizations are available for purchase from the issuing organizations at the addresses or through the other contact information listed below for these private standards organizations. In addition, these standards are available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these standards at NARA, telephone: 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, the standards are available for inspection at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue, NW., Room N-2625, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627).
-
-(d)-(f) [Reserved]
-
-(g) The following material is available for purchase from the American Conference of Governmental Industrial Hygienists (ACGIH), 1330 Kemper Meadow Drive, Cincinnati, OH 45240; telephone: 513-742-6163; fax: 513-742-3355; e-mail: *mail@acgih.org*; Web site: *http://www.acgih.org*:
+(d) The following material is available for purchase from the American Conference of Governmental Industrial Hygienists (ACGIH), 1330 Kemper Meadow Drive, Cincinnati, OH 45240; telephone: 513-742-6163; fax: 513-742-3355; e-mail: *mail@acgih.org*; Web site: *http://www.acgih.org*:
 
 (1) Threshold Limit Values of Airborne Contaminants for 1970, 1970, IBR approved for § 1926.55(a) and appendix A of § 1926.55.
 
-(h) The following material is available for purchase from the American National Standards Institute (ANSI), 25 West 43rd Street, Fourth Floor, New York, NY 10036; telephone: 212-642-4900; fax: 212-302-1286; e-mail: *info@ansi.org;* Web site: *http://www.ansi.org/.*
+(2) [Reserved]
+
+(e) The following material is available for purchase from the American National Standards Institute (ANSI), 25 West 43rd Street, Fourth Floor, New York, NY 10036; telephone: 212-642-4900; fax: 212-302-1286; e-mail: *info@ansi.org;* Web site: *http://www.ansi.org/.*
 
 (1) ANSI A10.3-1970, Safety Requirements for Explosive-Actuated Fastening Tools, IBR approved for § 1926.302(e).
 
@@ -116,11 +110,15 @@ Link to an amendment published at 84 FR 21574, May 14, 2019.
 
 (35) American National Standards Institute (ANSI) Z89.1-2003, American National Standard for Industrial Head Protection; IBR approved for § 1926.100(b)(1)(ii). Copies of ANSI Z89.1-2003 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
-(36) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection - Protective Headwear for Industrial Workers - Requirements; IBR approved for § 1926.100(b)(1)(iii). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
+(36) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection—Protective Headwear for Industrial Workers—Requirements; IBR approved for § 1926.100(b)(1)(iii). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
-(i) [Reserved]
+(f) The following material is available for purchase from standards resellers such as the Document Center Inc., 111 Industrial Road, Suite 9, Belmont, CA 94002; telephone: 650-591-7600; fax: 650-591-7617; e-mail: *info@document-center.com*; Web site: *http://www.document-center.com/*:
 
-(j) The following material is available for purchase from the American Society for Testing and Materials (ASTM), ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959; telephone: 610-832-9585; fax: 610-832-9555; e-mail: *service@astm.org;* Web site: *http://www.astm.org/:*
+(1) ANSI B15.1-1953 (R1958), Safety Code for Mechanical Power-Transmission Apparatus, revised 1958, IBR approved for § 1926.300(b)(2).
+
+(2) ANSI B30.5-1968, Crawler, Locomotive, and Truck Cranes, approved Dec. 16, 1968, IBR approved for § 1926.1433(a).
+
+(g) The following material is available for purchase from the American Society for Testing and Materials (ASTM), ASTM International, 100 Barr Harbor Drive, PO Box C700, West Conshohocken, PA, 19428-2959; telephone: 610-832-9585; fax: 610-832-9555; e-mail: *service@astm.org;* Web site: *http://www.astm.org/:*
 
 (1) ASTM A370-1968, Methods and Definitions for Mechanical Testing and Steel Products, IBR approved for § 1926.1001(f).
 
@@ -132,11 +130,7 @@ Link to an amendment published at 84 FR 21574, May 14, 2019.
 
 (5) ASTM D323-1958 (R1968), Standard Method of Test for Vapor Pressure of Petroleum Products (Reid Method), IBR approved for § 1926.155(m).
 
-(k) The following material is available for purchase from the American Society of Agricultural and Biological Engineers (ASABE), 2950 Niles Road, St. Joseph, MI 49085; telephone: 269-429-0300; fax: 269-429-3852; e-mail: *hq@asabe.org;* Web site: *http://www.asabe.org/:*
-
-(1) ASAE R313.1-1971, Soil Cone Penetrometer, reaffirmed 1975, IBR approved for § 1926.1002(e).
-
-(l) The following material is available for purchase from the American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016; telephone: 1-800-843-2763; fax: 973-882-1717; e-mail: *infocentral@asme.org;* Web site: *http://www.asme.org/:*
+(h) The following material is available for purchase from the American Society of Mechanical Engineers (ASME), Three Park Avenue, New York, NY 10016; telephone: 1-800-843-2763; fax: 973-882-1717; e-mail: *infocentral@asme.org;* Web site: *http://www.asme.org/:*
 
 (1) ASME B30.2-2005, Overhead and Gantry Cranes (Top Running Bridge, Single or Multiple Girder, Top Running Trolley Hoist), issued Dec. 30, 2005 (“ASME B30.2-2005”), IBR approved for § 1926.1438(b).
 
@@ -150,53 +144,75 @@ Link to an amendment published at 84 FR 21574, May 14, 2019.
 
 (6) ASME Power Boilers, Section I, 1968, IBR approved for § 1926.603(a).
 
-(m) The following material is available for purchase from the American Welding Society (AWS), 550 N.W. LeJeune Road, Miami, Florida 33126; telephone: 1-800-443-9353; Web site: *http://www.aws.org/:*
+(i) The following material is available for purchase from the American Society of Agricultural and Biological Engineers (ASABE), 2950 Niles Road, St. Joseph, MI 49085; telephone: 269-429-0300; fax: 269-429-3852; e-mail: *hq@asabe.org;* Web site: *http://www.asabe.org/:*
 
-(1) AWS D1.1/D1.1M:2002, Structural Welding Code - Steel, 18th ed., ANSI approved Aug. 31, 2001 (“AWS D1.1/D1.1M:2002”), IBR approved for § 1926.1436(c).
+(1) ASAE R313.1-1971, Soil Cone Penetrometer, reaffirmed 1975, IBR approved for § 1926.1002(e).
+
+(2) [Reserved]
+
+(j) The following material is available for purchase from the American Welding Society (AWS), 550 N.W. LeJeune Road, Miami, Florida 33126; telephone: 1-800-443-9353; Web site: *http://www.aws.org/:*
+
+(1) AWS D1.1/D1.1M:2002, Structural Welding Code—Steel, 18th ed., ANSI approved Aug. 31, 2001 (“AWS D1.1/D1.1M:2002”), IBR approved for § 1926.1436(c).
 
 (2) ANSI/AWS D14.3-94, Specification for Welding Earthmoving and Construction Equipment, ANSI approved Jun. 11, 1993 (“ANSI/AWS D14.3-94”), IBR approved for § 1926.1436(c).
 
-(n) The following material is available for purchase from the British Standards Institution (BSI), 389 Chiswick High Road, London, W4 4AL, United Kingdom; telephone: + 44 20 8996 9001; fax: + 44 20 8996 7001; e-mail: *cservices@bsigroup.com;* Web site: *http://www.bsigroup.com/:*
+(k) The following material is available for purchase from the British Standards Institution (BSI), 389 Chiswick High Road, London, W4 4AL, United Kingdom; telephone: + 44 20 8996 9001; fax: + 44 20 8996 7001; e-mail: *cservices@bsigroup.com;* Web site: *http://www.bsigroup.com/:*
 
-(1) BS EN 13000:2004, Cranes - Mobile Cranes, published Jan. 4, 2006 (“BS EN 13000:2004”), IBR approved for § 1926.1433(c).
+(1) BS EN 13000:2004, Cranes—Mobile Cranes, published Jan. 4, 2006 (“BS EN 13000:2004”), IBR approved for § 1926.1433(c).
 
-(2) BS EN 14439:2006, Cranes - Safety - Tower Cranes, published Jan. 31, 2007 (“BS EN 14439:2006”), IBR approved for § 1926.1433(c).
+(2) BS EN 14439:2006, Cranes—Safety—Tower Cranes, published Jan. 31, 2007 (“BS EN 14439:2006”), IBR approved for § 1926.1433(c).
 
-(o) The following material is available for purchase from the Bureau of Reclamation, United States Department of the Interior, 1849 C Street, NW., Washington DC 20240; telephone: 202-208-4501; Web site: *http://www.usbr.gov/:*
+(l) The following material is available for purchase from the Bureau of Reclamation, United States Department of the Interior, 1849 C Street, NW., Washington DC 20240; telephone: 202-208-4501; Web site: *http://www.usbr.gov/:*
 
 (1) Safety and Health Regulations for Construction, Part II, Sept. 1971, IBR approved for § 1926.1000(f).
 
-(p) The following material is available for purchase from the California Department of Industrial Relations, 455 Golden Gate Avenue, San Francisco CA 94102; telephone: (415) 703-5070; e-mail: *info@dir.ca.gov;* Web site: *http://www.dir.ca.gov/:*
+(2) [Reserved]
+
+(m) The following material is available for purchase from the California Department of Industrial Relations, 455 Golden Gate Avenue, San Francisco CA 94102; telephone: (415) 703-5070; e-mail: *info@dir.ca.gov;* Web site: *http://www.dir.ca.gov/:*
 
 (1) Construction Safety Orders, IBR approved for § 1926.1000(f).
 
-(q)-(t) [Reserved]
+(2) [Reserved]
 
-(u) The following material is available for purchase from the Federal Highway Administration, United States Department of Transportation, 1200 New Jersey Ave., SE., Washington, DC 20590; telephone: 202-366-4000; Web site: *http://www.fhwa.dot.gov/:*
+(n) The following material is available from the Federal Highway Administration, United States Department of Transportation, 1200 New Jersey Avenue SE, Washington, DC 20590; telephone: 202-366-4000; website: *www.fhwa.dot.gov/:*
 
-(1) Manual on Uniform Traffic Control Devices (MUTCD), Part VI, Standards and Guides for Traffic Controls for Street and Highway Construction, Maintenance, Utility, and Incident Management Operation, 1988 Edition, Revision 3, September 3, 1993; IBR approved for §§ 1926.200(g), 1926.201(a), and 1926.202. Electronic copies of the MUTCD, 1988 Edition, Revision 3, are available for downloading at *http://www.osha.gov/doc/highway\_workzones/mutcd/index.html.*
+(1) Manual on Uniform Traffic Control Devices for Streets and Highways, 2009 Edition, December 2009 (including Revision 1 dated May 2012 and Revision 2 dated May 2012), (“MUTCD”) IBR approved for §§ 1926.200(g) and 1926.201(a).
 
-(2) Manual on Uniform Traffic Control Devices (MUTCD), Millennium Edition, Dec. 2000; IBR approved for §§ 1926.200(g)), 1926.201(a), and 1926.202. Electronic copies of the MUTCD 2000 are available for downloading at *http://mutcd.fhwa.dot.gov/kno-millennium\_12.18.00.htm.*
+(2) [Reserved]
 
-(v) The following material is available for purchase from the General Services Administration (GSA), 1800 F Street, NW., Washington, DC 20405; telephone: (202) 501-0800; Web site: *http://www.gsa.gov/:*
+(o) The following material is available for purchase from the General Services Administration (GSA), 1800 F Street, NW., Washington, DC 20405; telephone: (202) 501-0800; Web site: *http://www.gsa.gov/:*
 
 (1) QQ-P-416, Federal Specification Plating Cadmium (Electrodeposited), IBR approved for § 1926.104(e).
 
-(w) The following material is available for purchase from the Institute of Makers of Explosives (IME), 1120 19th Street, NW., Suite 310, Washington, DC 20036; telephone: 202-429-9280; fax: 202-429-9280; e-mail: *info@ime.org;* Web site: *http://www.ime.org/:*
+(2) [Reserved]
+
+(p) The following material is available for purchase from the Institute of Makers of Explosives (IME), 1120 19th Street, NW., Suite 310, Washington, DC 20036; telephone: 202-429-9280; fax: 202-429-9280; e-mail: *info@ime.org;* Web site: *http://www.ime.org/:*
 
 (1) IME Pub. No. 2, American Table of Distances for Storage of Explosives, Jun. 5, 1964, IBR approved for § 1926.914(a).
 
-(2) IME Pub. No. 20, Radio Frequency Energy - A Potential Hazard in the Use of Electric Blasting Caps, Mar. 1968, IBR approved for § 1926.900(k).
+(2) IME Pub. No. 20, Radio Frequency Energy—A Potential Hazard in the Use of Electric Blasting Caps, Mar. 1968, IBR approved for § 1926.900(k).
 
-(x) The following material is available for purchase from the International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, Case postale 56, CH-1211 Geneva 20, Switzerland; telephone: + 41 22 749 01 11; fax: + 41 22 733 34 30; Web site: *http://www.iso.org/:*
+(q) The following material is available from the International Labour Organization (ILO), 4 route des Morillons, CH-1211 Genève 22, Switzerland; telephone: +41 (0) 22 799 6111; fax: +41 (0) 22 798 8685; website:*//www.ilo.org/:*
 
-(1) ISO 11660-1:2008(E), Cranes - Access, guards and restraints - Part 1: General, 2d ed., Feb. 15, 2008 (“ISO 11660-1:2008(E)”), IBR approved for § 1926.1423(c).
+(1) Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses, Revised Edition 2011, Occupational safety and health series; 22 (Rev.2011), IBR approved for § 1926.1101.
 
-(2) ISO 11660-2:1994(E), Cranes - Access, guards and restraints - Part 2: Mobile cranes, 1994 (“ISO 11660-2:1994(E)”), IBR approved for § 1926.1423(c).
+(2) [Reserved]
 
-(3) ISO 11660-3:2008(E), Cranes - Access, guards and restraints - Part 3: Tower cranes, 2d ed., Feb. 15, 2008 (“ISO 11660-3:2008(E)”), IBR approved for § 1926.1423(c).
+(r) The following material is available for purchase from the International Organization for Standardization (ISO), 1, ch. de la Voie-Creuse, Case postale 56, CH-1211 Geneva 20, Switzerland; telephone: + 41 22 749 01 11; fax: + 41 22 733 34 30; Web site: *http://www.iso.org/:*
 
-(y) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169; telephone: 617-770-3000; fax: 617-770-0700; Web site: *http://www.nfpa.org/:*
+(1) ISO 3471:2008(E), Earth-moving machinery—Roll-over protective structures—Laboratory tests and performance requirements, Fourth Edition, Aug. 8, 2008 (“ISO 3471:2008”), IBR approved for §§ 1926.1001(c) and 1926.1002(c).
+
+(2) ISO 5700:2013(E), Tractors for agriculture and forestry—Roll-over protective structures—Static test method and acceptance conditions, Fifth Edition, May 1, 2013 (“ISO 5700:2013”), IBR approved for § 1926.1002(c).
+
+(3) ISO 27850:2013(E), Tractors for agriculture and forestry—Falling object protective structures—Test procedures and performance requirements, First Edition, May.01, 2013 (“ISO 27850:2013”), IBR approved for § 1926.1003(c).
+
+(4) ISO 11660-1:2008(E), Cranes—Access, guards and restraints—Part 1: General, 2d ed., Feb. 15, 2008 (“ISO 11660-1:2008(E)”), IBR approved for § 1926.1423(c).
+
+(5) ISO 11660-2:1994(E), Cranes—Access, guards and restraints—Part 2: Mobile cranes, 1994 (“ISO 11660-2:1994(E)”), IBR approved for § 1926.1423(c).
+
+(6) ISO 11660-3:2008(E), Cranes—Access, guards and restraints—Part 3: Tower cranes, 2d ed., Feb. 15, 2008 (“ISO 11660-3:2008(E)”), IBR approved for § 1926.1423(c).
+
+(s) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02169; telephone: 617-770-3000; fax: 617-770-0700; Web site: *http://www.nfpa.org/:*
 
 (1) NFPA 10A-1970, Maintenance and Use of Portable Fire Extinguishers, IBR approved for § 1926.150(c).
 
@@ -210,72 +226,58 @@ Link to an amendment published at 84 FR 21574, May 14, 2019.
 
 (6) NFPA 385-1966, Standard for Tank Vehicles for Flammable and Combustible Liquids, IBR approved for § 1926.152(g).
 
-(z) [Reserved]
-
-(aa) The following material is available for purchase from the Power Crane and Shovel Association (PCSA), 6737 W. Washington Street, Suite 2400, Milwaukee, WI 53214; telephone: 1-800-369-2310; fax: 414-272-1170; Web site: *http://www.aem.org/CBC/ProdSpec/PCSA/:*
+(t) The following material is available for purchase from the Power Crane and Shovel Association (PCSA), 6737 W. Washington Street, Suite 2400, Milwaukee, WI 53214; telephone: 1-800-369-2310; fax: 414-272-1170; Web site: *http://www.aem.org/CBC/ProdSpec/PCSA/:*
 
 (1) PCSA Std. No. 1, Mobile Crane and Excavator Standards, 1968, IBR approved for § 1926.602(b).
 
-(2) PCSA Std. No. 2, Mobile Hydraulic Crane Standards, 1968 (“PCSA Std. No. 2 (1968)”), IBR approved for §§ 1926.602(b), 1926.1433(a), and 1926.1501(a).
+(2) PCSA Std. No. 2, Mobile Hydraulic Crane Standards, 1968 (“PCSA Std. No. 2 (1968)”), IBR approved for §§ 1926.602(b) and 1926.1433(a).
 
 (3) PCSA Std. No. 3, Mobile Hydraulic Excavator Standards, 1969, IBR approved for § 1926.602(b).
 
-(bb)-(cc) [Reserved]
-
-(dd) The following material is available for purchase from the Society of Automotive Engineers (SAE), 400 Commonwealth Drive, Warrendale, PA 15096; telephone: 1-877-606-7323; fax: 724-776-0790; Web site: *http://www.sae.org/:*
+(u) The following material is available from the Society of Automotive Engineers (SAE), 400 Commonwealth Drive, Warrendale, PA 15096; telephone: 1-877-606-7323; fax: 724-776-0790; website: *www.sae.org/:*
 
 (1) SAE 1970 Handbook, IBR approved for § 1926.602(b).
 
-(2) SAE 1971 Handbook, IBR approved for § 1926.1001(h).
+(2) SAE J166-1971, Trucks and Wagons, IBR approved for § 1926.602(a).
 
-(3) SAE J166-1971, Trucks and Wagons, IBR approved for § 1926.602(a).
+(3) SAE J167, Protective Frame with Overhead Protection-Test Procedures and Performance Requirements, approved July 1970, IBR approved for § 1926.1003(b).
 
-(4) SAE J168-1970, Protective Enclosures - Test Procedures and Performance Requirements, IBR approved for § 1926.1002(a).
+(4) SAE J168, Protective Enclosures-Test Procedures and Performance Requirements, approved July 1970, IBR approved for § 1926.1002(b).
 
 (5) SAE J185 (reaf. May 2003), Access Systems for Off-Road Machines, reaffirmed May 2003 (“SAE J185 (May 1993)”), IBR approved for § 1926.1423(c).
 
 (6) SAE J236-1971, Self-Propelled Graders, IBR approved for § 1926.602(a).
 
-(7) SAE J237-1971, Front End Loaders and Dozers, IBR approved for § 126.602(a).
+(7) SAE J237-1971, Front End Loaders and Dozers, IBR approved for § 1926.602(a).
 
 (8) SAE J319b-1971, Self-Propelled Scrapers, IBR approved for § 1926.602(a).
 
-(9) SAE J320a-1971, Minimum Performance Criteria for Roll-Over Protective Structure for Rubber-Tired, Self-Propelled Scrapers, IBR approved for § 1926.1001(h).
+(9) SAE J320a, Minimum Performance Criteria for Roll-Over Protective Structure for Rubber-Tired, Self-Propelled Scrapers, revised July 1969 (editorial change July 1970), IBR approved for § 1926.1001(b).
 
 (10) SAE J321a-1970, Fenders for Pneumatic-Tired Earthmoving Haulage Equipment, IBR approved for § 1926.602(a).
 
 (11) SAE J333a-1970, Operator Protection for Agricultural and Light Industrial Tractors, IBR approved for § 1926.602(a).
 
-(11) SAE J386-1969, Seat Belts for Construction Equipment, IBR approved for § 1926.602(a).
+(12) SAE J334a, Protective Frame Test Procedures and Performance Requirements, revised July 1970, IBR approved for § 1926.1002(b).
 
-(12) SAE J394-1971, Minimum Performance Criteria for Roll-Over Protective Structure for Rubber-Tired Front End Loaders and Robber-Tired Dozers, IBR approved for § 1926.1001(h).
+(13) SAE J386-1969, Seat Belts for Construction Equipment, IBR approved for § 1926.602(a).
 
-(13) SAE J395-1971, Minimum Performance Criteria for Roll-Over Protective Structure for Crawler Tractors and Crawler-Type Loaders, IBR approved for § 1926.1001(h).
+(14) SAE J394, Minimum Performance Criteria for Roll-Over Protective Structure for Rubber-Tired Front End Loaders and Rubber-Tired Dozers, approved July 1969 (editorial change July 1970), IBR approved for § 1926.1001(b).
 
-(14) SAE J396-1971, Minimum Performance Criteria for Roll-Over Protective Structure for Motor Graders, IBR approved for § 1926.1001(h).
+(15) SAE J395, Minimum Performance Criteria for Roll-Over Protective Structure for Crawler Tractors and Crawler-Type Loaders, approved July 1969 (editorial change July 1970), IBR approved for § 1926.1001(b).
 
-(15) SAE J397-1969, Critical Zone Characteristics and Dimensions for Operators of Construction and Industrial Machinery, IBR approved for § 1926.1001(f).
+(16) SAE J396, Minimum Performance Criteria for Roll-Over Protective Structure for Motor Graders, approved July 1969 (editorial change July 1970), IBR approved for § 1926.1001(b).
 
-(16) SAE J743a-1964, Tractor Mounted Side Boom, 1964 (“SAE J743a-1964”), IBR approved for § 1926.1501(a).
+(17) SAE J397, Critical Zone Characteristics and Dimensions for Operators of Construction and Industrial Machinery, approved July 1969, IBR approved for § 1926.1001(b).
 
-(17) SAE J959-1966, Lifting Crane Wire-Rope Strength Factors, 1966 (“SAE J959-1966”), IBR approved for § 1926.1501(a).
+(18) SAE J987 (rev. Jun. 2003), Lattice Boom Cranes—Method of Test, revised Jun. 2003 (“SAE J987 (Jun. 2003)”), IBR approved for § 1926.1433(c).
 
-(18) SAE J987 (rev. Jun. 2003), Lattice Boom Cranes - Method of Test, revised Jun. 2003 (“SAE J987 (Jun. 2003)”), IBR approved for § 1926.1433(c).
+(19) SAE J1063 (rev. Nov. 1993), Cantilevered Boom Crane Structures—Method of Test, revised Nov. 1993 (“SAE J1063 (Nov. 1993)”), IBR approved for § 1926.1433(c).
 
-(19) SAE J1063 (rev. Nov. 1993), Cantilevered Boom Crane Structures - Method of Test, revised Nov. 1993 (“SAE J1063 (Nov. 1993)”), IBR approved for § 1926.1433(c).
-
-(ee) The following material is available for purchase from the United States Army Corps of Engineers, 441 G Street, NW., Washington, DC 20314; telephone: 202-761-0011; e-mail: *hq-publicaffairs@usace.army.mil;* Web site: *http://www.usace.army.mil/:*
+(v) The following material is available for purchase from the United States Army Corps of Engineers, 441 G Street, NW., Washington, DC 20314; telephone: 202-761-0011; e-mail: *hq-publicaffairs@usace.army.mil;* Web site: *http://www.usace.army.mil/:*
 
 (1) EM-385-1-1, General Safety Requirements, Mar. 1967, IBR approved for § 1926.1000(f).
 
-(ff) The following material is available for purchase from standards resellers such as the Document Center Inc., 111 Industrial Road, Suite 9, Belmont, CA 94002; telephone: 650-591-7600; fax: 650-591-7617; e-mail: *info@document-center.com*; Web site: *http://www.document-center.com/*:
+(2) [Reserved]
 
-(1) ANSI B15.1-1953 (R1958), Safety Code for Mechanical Power-Transmission Apparatus, revised 1958, IBR approved for §§ 1926.300(b)(2) and 1926.1501(a).
-
-(2) ANSI B30.2.0-1967, Safety Code for Overhead and Gantry Cranes, approved May 4, 1967, IBR approved for § 1926.1501(d).
-
-(3) ANSI B30.5-1968, Crawler, Locomotive, and Truck Cranes, approved Dec. 16, 1968, IBR approved for §§ 1926.1433(a), 1926.1501(a), and 1926.1501(b).
-
-(4) ANSI B30.6-1969, Safety Code for Derricks, approved Dec. 18, 1967, IBR approved for § 1926.1501(e).
-
-[75 FR 48130, Aug. 9, 2010, as amended at 77 FR 37600, June 22, 2012; 78 FR 35566, June 13, 2013; 78 FR 66641, Nov. 6, 2013; 79 FR 20692, Apr. 11, 2014; 81 FR 16092, Mar. 25, 2016]
+[75 FR 48130, Aug. 9, 2010, as amended at 77 FR 37600, June 22, 2012; 78 FR 35566, June 13, 2013; 78 FR 66641, Nov. 6, 2013; 79 FR 20692, Apr. 11, 2014; 81 FR 16092, Mar. 25, 2016; 84 FR 21574, May 14, 2019]

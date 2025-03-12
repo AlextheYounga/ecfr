@@ -1,5 +1,7 @@
 ##### § 17.62 Definitions. #####
 
+Link to an amendment published at 84 FR 33697, July 15, 2019.
+
 For the purpose of §§ 17.61 through 17.72:
 
 (a) The term *community residential care* means the monitoring, supervision, and assistance, in accordance with a statement of needed care, of the daily living activities of referred veterans in an approved home in the community by the facility's provider.

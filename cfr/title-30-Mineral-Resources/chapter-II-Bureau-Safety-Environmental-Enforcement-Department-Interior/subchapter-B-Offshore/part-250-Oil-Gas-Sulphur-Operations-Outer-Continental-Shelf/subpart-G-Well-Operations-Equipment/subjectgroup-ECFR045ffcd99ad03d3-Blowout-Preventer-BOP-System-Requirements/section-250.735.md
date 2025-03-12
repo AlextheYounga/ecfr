@@ -1,10 +1,8 @@
 ##### § 250.735 What associated systems and related equipment must all BOP systems include? #####
 
-Link to an amendment published at 84 FR 21981, May 15, 2019.
-
 All BOP systems must include the following associated systems and related equipment:
 
-(a) An accumulator system (as specified in API Standard 53, and incorporated by reference in § 250.198) that provides the volume of fluid capacity (as specified in API Standard 53, Annex C) necessary to close and hold closed all BOP components against MASP. The system must operate under MASP conditions as defined for the operation. You must be able to operate the BOP functions as defined in API Standard 53, without assistance from a charging system, and still have a minimum pressure of 200 psi remaining on the bottles above the pre-charge pressure. If you supply the accumulator regulators by rig air and do not have a secondary source of pneumatic supply, you must equip the regulators with manual overrides or other devices to ensure capability of hydraulic operations if rig air is lost;
+(a) An accumulator system (as specified in API Standard 53, incorporated by reference in § 250.198). Your accumulator system must have the fluid volume capacity and appropriate pre-charge pressures in accordance with API Standard 53. If you supply the accumulator regulators by rig air and do not have a secondary source of pneumatic supply, you must equip the regulators with manual overrides or other devices to ensure capability of hydraulic operations if rig air is lost;
 
 (b) An automatic backup to the primary accumulator-charging system. The power source must be independent from the power source for the primary accumulator-charging system. The independent power source must possess sufficient capability to close and hold closed all BOP components under MASP conditions as defined for the operation;
 
@@ -27,3 +25,5 @@ All BOP systems must include the following associated systems and related equipm
 (ii) Manual or remotely-operated locking devices must be installed on pipe rams and variable bore rams; and
 
 (h) A wellhead assembly with a RWP that exceeds the maximum anticipated wellhead pressure.
+
+[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21981, May 15, 2019]

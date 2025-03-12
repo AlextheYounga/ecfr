@@ -1,7 +1,5 @@
 ##### § 1915.80 Scope, application, definitions, and effective dates. #####
 
-Link to an amendment published at 84 FR 21555, May 14, 2019.
-
 (a) The provisions of this subpart apply to general working conditions in shipyard employment, including work on vessels, on vessel sections, and at landside operations, regardless of geographic location.
 
 (b) *Definitions applicable to this subpart.* (1) *Additional safety measure.* A component of the tags-plus system that provides an impediment (in addition to the energy-isolating device) to the release of energy or the energization or startup of the machinery, equipment, or system being serviced. Examples of additional safety measures include, but are not limited to, removing an isolating circuit element; blocking a controlling switch; blocking, blanking, or bleeding lines; removing a valve handle or wiring it in place; opening an extra disconnecting device.
@@ -76,7 +74,7 @@ Link to an amendment published at 84 FR 21555, May 14, 2019.
 
 (32) *Verification of isolation.* The means necessary to detect the presence of hazardous energy, which may involve the use of a test instrument (for example, a voltmeter), and, for other than electric shock protection, a visual inspection, or a deliberate attempt to start-up the machinery, equipment, or system.
 
-(33) *Vermin.* Insects, birds, and other animals, such as rodents and feral cats, that may create safety and health hazards for employees.
+(33) *Vermin.* Insects, birds, rodents and other animals that may create safety and health hazards for employees.
 
 (34) *Vessel section.* A subassembly, module, or other component of a vessel being built or repaired.
 
@@ -89,3 +87,5 @@ Link to an amendment published at 84 FR 21555, May 14, 2019.
 (38) *Worksite.* A general work location where one or more employees are performing work, such as a shipyard, pier, barge, vessel, or vessel section.
 
 (c) *Effective dates.* This final rule becomes effective and enforceable on August 1, 2011, except for the provisions in § 1915.89, which become effective and enforceable on October 31, 2011.
+
+[76 FR 24698, May 2, 2011, as amended at 84 FR 21555, May 14, 2019]

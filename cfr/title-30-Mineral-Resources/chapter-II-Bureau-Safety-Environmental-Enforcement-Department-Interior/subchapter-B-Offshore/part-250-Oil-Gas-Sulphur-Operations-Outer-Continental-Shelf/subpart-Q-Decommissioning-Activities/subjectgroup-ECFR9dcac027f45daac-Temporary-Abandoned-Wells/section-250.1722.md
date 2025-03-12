@@ -1,7 +1,5 @@
 ##### § 250.1722 If I install a subsea protective device, what requirements must I meet? #####
 
-Link to an amendment published at 84 FR 21985, May 15, 2019.
-
 If you install a subsea protective device under § 250.1721(f)(3), you must install it in a manner that allows fishing gear to pass over the obstruction without damage to the obstruction, the protective device, or the fishing gear.
 
 (a) Use form BSEE-0124, Application for Permit to Modify to request approval from the appropriate District Manager to install a subsea protective device.
@@ -10,7 +8,7 @@ If you install a subsea protective device under § 250.1721(f)(3), you must inst
 
 (c) You must trawl over the protective device when you install it (adhere to the requirements at § 250.1741(d) through (h)). If the trawl does not pass over the protective device or causes damage to it, you must notify the appropriate District Manager within 5 days and perform remedial action within 30 days of the trawl;
 
-(d) Within 30 days after you complete the trawling test described in paragraph (c) of this section, submit a report to the appropriate District Manager using form BSEE-0124, Application for Permit to Modify that includes the following:
+(d) Within 30 days after you complete the trawling test described in paragraph (c) of this section, submit a report to the appropriate District Manager using form BSEE-0125, End of Operations Report (EOR) that includes the following:
 
 (1) The date(s) the trawling test was performed and the vessel that was used;
 
@@ -41,3 +39,5 @@ If you install a subsea protective device under § 250.1721(f)(3), you must inst
 (1) A buoy with automatic tracking capabilities installed and maintained according to USCG requirements at 33 CFR part 67 (or its successor); or
 
 (2) A design and installation method that has been proven successful by trawl testing of previous protective devices of the same design and installed in areas with similar bottom conditions.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 84 FR 21985, May 15, 2019]

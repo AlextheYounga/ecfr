@@ -1,7 +1,5 @@
 ##### § 250.420 What well casing and cementing requirements must I meet? #####
 
-Link to an amendment published at 84 FR 21973, May 15, 2019.
-
 You must case and cement all wells. Your casing and cementing programs must meet the applicable requirements of this subpart and of subpart G of this part.
 
 (a) *Casing and cementing program requirements.* Your casing and cementing programs must:
@@ -16,7 +14,7 @@ You must case and cement all wells. Your casing and cementing programs must meet
 
 (5) Support unconsolidated sediments;
 
-(6) Provide adequate centralization to ensure proper cementation; and
+(6) Provide adequate centralization consistent with the guidelines of API Standard 65—Part 2 (as incorporated by reference in § 250.198); and
 
 (7)(i) Include a certification signed by a registered professional engineer that the casing and cementing design is appropriate for the purpose for which it is intended under expected wellbore conditions, and is sufficient to satisfy the tests and requirements of this section and § 250.423. Submit this certification with your APD (Form BSEE-0123).
 
@@ -36,4 +34,4 @@ You must case and cement all wells. Your casing and cementing programs must meet
 
 (2) You must use a weighted fluid during displacement to maintain an overbalanced hydrostatic pressure during the cement setting time, except when cementing casings or liners in riserless hole sections.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 50892, Aug. 22, 2012; 81 FR 26018, Apr. 29, 2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 77 FR 50892, Aug. 22, 2012; 81 FR 26018, Apr. 29, 2016; 84 FR 21973, May 15, 2019]

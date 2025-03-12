@@ -106,7 +106,7 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 
 (ii) Where the employer has previously monitored for lead exposure, and the data were obtained within the past 12 months during work operations conducted under workplace conditions closely resembling the processes, type of material, control methods, work practices, and environmental conditions used and prevailing in the employer's current operations, the employer may rely on such earlier monitoring results to satisfy the requirements of paragraph (d)(4)(i) of this section if the sampling and analytical methods meet the accuracy and confidence levels of paragraph (d)(10) of this section.
 
-(5) *Negative initial determination.* Where a determination, conducted under paragraphs (d) (1), (2), and (3) of this section is made that no employee is exposed to airborne concentrations of lead at or above the action level the employer shall make a written record of such determination. The record shall include at least the information specified in paragraph (d)(3)(i) of this section and shall also include the date of determination, location within the worksite, and the name and social security number of each employee monitored.
+(5) *Negative initial determination.* Where a determination, conducted under paragraphs (d) (1), (2), and (3) of this section is made that no employee is exposed to airborne concentrations of lead at or above the action level the employer shall make a written record of such determination. The record shall include at least the information specified in paragraph (d)(3)(i) of this section and shall also include the date of determination, location within the worksite, and the name of each employee monitored.
 
 (6) *Frequency.* (i) If the initial determination reveals employee exposure to be below the action level further exposure determination need not be repeated except as otherwise provided in paragraph (d)(7) of this section.
 
@@ -472,7 +472,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
 (C) The type of respiratory protective devices worn, if any;
 
-(D) Name, social security number, and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent; and
+(D) Name and job classification of the employee monitored and of all other employees whose exposure the measurement is intended to represent; and
 
 (E) The environmental variables that could affect the measurement of employee exposure.
 
@@ -482,7 +482,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
 (ii) This record shall include:
 
-(A) The name, social security number, and description of the duties of the employee;
+(A) The name and description of the duties of the employee;
 
 (B) A copy of the physician's written opinions;
 
@@ -504,7 +504,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
 (ii) Each record shall include:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) The date of each occasion that the employee was removed from current exposure to lead as well as the corresponding date on which the employee was returned to his or her former job status;
 
@@ -730,7 +730,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATINGXII. Recordkeeping - Paragraph (N
 
 Your employer is required to keep all records of exposure monitoring for airborne lead. These records must include the name and job classification of employees measured, details of the sampling and analytical techniques, the results of this sampling, and the type of respiratory protection being worn by the person sampled. Such records are to be retained for at least 30 years. Your employer is also required to keep all records of biological monitoring and medical examination results. These records must include the names of the employees, the physician's written opinion, and a copy of the results of the examination. Medical records must be preserved and maintained for the duration of employment plus 30 years. However, if the employee's duration of employment is less than one year, the employer need not retain that employee's medical records beyond the period of employment if they are provided to the employee upon termination of employment.
 
-Recordkeeping is also required if you are temporarily removed from your job under the medical removal protection program. This record must include your name and social security number, the date of your removal and return, how the removal was or is being accomplished, and whether or not the reason for the removal was an elevated blood lead level. Your employer is required to keep each medical removal record only for as long as the duration of an employee's employment.
+Recordkeeping is also required if you are temporarily removed from your job under the medical removal protection program. This record must include your name, the date of your removal and return, how the removal was or is being accomplished, and whether or not the reason for the removal was an elevated blood lead level. Your employer is required to keep each medical removal record only for as long as the duration of an employee's employment.
 
 The standard requires that if you request to see or copy environmental monitoring, blood lead level monitoring, or medical removal records, they must be made available to you or to a representative that you authorize. Your union also has access to these records. Medical records other than BLL's must also be provided upon request to you, to your physician or to any other person whom you may specifically designate. Your union does not have access to your personal medical records unless you authorize their access.
 

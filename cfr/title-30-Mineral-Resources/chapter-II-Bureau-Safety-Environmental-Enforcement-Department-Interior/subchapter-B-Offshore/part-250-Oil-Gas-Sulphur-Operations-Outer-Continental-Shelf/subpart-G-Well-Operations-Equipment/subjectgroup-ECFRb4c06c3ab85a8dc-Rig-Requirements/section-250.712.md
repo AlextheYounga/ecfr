@@ -1,7 +1,5 @@
 ##### § 250.712 What rig unit movements must I report? #####
 
-Link to an amendment published at 84 FR 21976, May 15, 2019.
-
 (a) You must report the movement of all rig units on and off locations to the District Manager using Form BSEE-0144, Rig Movement Notification Report. Rig units include MODUs, platform rigs, snubbing units, wire-line units used for non-routine operations, and coiled tubing units. You must inform the District Manager 24 hours before:
 
 (1) The arrival of a rig unit on location;
@@ -27,3 +25,9 @@ Link to an amendment published at 84 FR 21976, May 15, 2019.
 (e) If a drilling rig is entering OCS waters, you must inform the District Manager where the drilling rig is coming from.
 
 (f) If you change your anticipated date for initially moving on or off location by more than 24 hours, you must submit an updated Form BSEE-0144, Rig Movement Notification Report.
+
+(g) You are not required to report rig unit movements to and from the safe zone during the course of permitted operations.
+
+(h) If a rig unit is already on a well, you are not required to report any additional rig unit movements on that well.
+
+[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21976, May 15, 2019]

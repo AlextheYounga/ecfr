@@ -1,8 +1,6 @@
 ##### § 250.723 What additional safety measures must I take when I conduct operations on a platform that has producing wells or has other hydrocarbon flow? #####
 
-Link to an amendment published at 84 FR 21977, May 15, 2019.
-
-You must take the following safety measures when you conduct operations with a rig unit or lift boat on or jacked-up over a platform with producing wells or that has other hydrocarbon flow:
+You must take the following safety measures when you conduct operations with a rig unit on or jacked-up over a platform with producing wells or that has other hydrocarbon flow:
 
 (a) The movement of rig units and related equipment on and off a platform or from well to well on the same platform, including rigging up and rigging down, must be conducted in a safe manner;
 
@@ -14,7 +12,7 @@ You must take the following safety measures when you conduct operations with a r
 
 (2) You move or skid a rig unit between wells on a platform; or
 
-(3) A MODU or lift boat moves within 500 feet of a platform. You may resume production once the MODU or lift boat is in place, secured, and ready to begin operations.
+(3) A MODU moves within 500 feet of a platform. You may resume production once the MODU is in place, secured, and ready to begin operations.
 
 (d) All wells in the same well-bay which are capable of producing hydrocarbons must be shut-in below the surface with a pump-through-type tubing plug and at the surface with a closed master valve prior to moving rig units and related equipment, unless otherwise approved by the District Manager.
 
@@ -25,3 +23,5 @@ You must take the following safety measures when you conduct operations with a r
 (3) The well from which a rig unit or related equipment is to be moved must be equipped with a back pressure valve prior to removing the BOP system and installing the production tree.
 
 (e) Coiled tubing units, snubbing units, or wireline units may be moved onto and off of a platform without shutting in wells.
+
+[81 FR 26022, Apr. 29, 2016, as amended at 84 FR 21977, May 15, 2019]

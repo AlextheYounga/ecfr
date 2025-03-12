@@ -482,7 +482,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (E) Type of protective devices worn, if any; and
 
-(F) Name, social security number, and exposure of the employees whose exposures are represented.
+(F) Name and exposure of the employees whose exposures are represented.
 
 (iii) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.33.
 
@@ -490,7 +490,7 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (ii) The record shall include at least the following information:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) A copy of the employee's medical examination results, including the medical history, questionnaire responses, results of any tests, and physician's recommendations.
 

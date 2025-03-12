@@ -501,7 +501,6 @@
 |                                                  |                        1545-1855                        |
 |                     1.451-1                      |                        1545-0091                        |
 |                     1.451-4                      |                        1545-0123                        |
-|                     1.451-5                      |                        1545-0074                        |
 |                     1.451-6                      |                        1545-0074                        |
 |                     1.451-7                      |                        1545-0074                        |
 |                     1.453-1                      |                        1545-0152                        |
@@ -2342,4 +2341,4 @@
 |                                                  |                        1545-0957                        |
 |                     601.702                      |                        1545-0429                        |
 
-(26 U.S.C. 7805)[T.D. 8011, 50 FR 10222, Mar. 14, 1985]Editorial Note:For Federal Register citations affecting § 602.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[T.D. 8011, 50 FR 10222, Mar. 14, 1985]Editorial Note:For Federal Register citations affecting § 602.101, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

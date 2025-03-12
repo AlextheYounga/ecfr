@@ -1,7 +1,5 @@
 ##### § 1926.50 Medical services and first aid. #####
 
-Link to an amendment published at 84 FR 21575, May 14, 2019.
-
 (a) The employer shall insure the availability of medical personnel for advice and consultation on matters of occupational health.
 
 (b) Provisions shall be made prior to commencement of the project for prompt medical attention in case of serious injury.
@@ -14,11 +12,23 @@ Link to an amendment published at 84 FR 21575, May 14, 2019.
 
 (e) Proper equipment for prompt transportation of the injured person to a physician or hospital, or a communication system for contacting necessary ambulance service, shall be provided.
 
-(f) In areas where 911 is not available, the telephone numbers of the physicians, hospitals, or ambulances shall be conspicuously posted.
+(f)(1) In areas where 911 emergency dispatch services are not available, the telephone numbers of the physicians, hospitals, or ambulances shall be conspicuously posted.
+
+(2) In areas where 911 emergency dispatch services are available and an employer uses a communication system for contacting necessary emergency-medical service, the employer must:
+
+(i) Ensure that the communication system is effective in contacting the emergency-medical service; and
+
+(ii)(A) When using a communication system in an area that does not automatically supply the caller's latitude and longitude information to the 911 emergency dispatcher, the employer must post in a conspicuous location at the worksite either:
+
+(1) The latitude and longitude of the worksite; or
+
+(2) Other location-identification information that communicates effectively to employees the location of the worksite.
+
+(B) The requirement specified in paragraph (f)(2)(ii)(A) of this section does not apply to worksites with readily available telephone land lines that have 911 emergency service that automatically identifies the location of the caller.
 
 (g) Where the eyes or body of any person may be exposed to injurious corrosive materials, suitable facilities for quick drenching or flushing of the eyes and body shall be provided within the work area for immediate emergency use.
 
-Appendix A to § 1926.50 - First aid Kits (Non-Mandatory)
+Appendix A to § 1926.50—First aid Kits (Non-Mandatory)
 
 First aid supplies are required to be easily accessible under paragraph § 1926.50(d)(1). An example of the minimal contents of a generic first aid kit is described in American National Standard (ANSI) Z308.1-1978 “Minimum Requirements for Industrial Unit-Type First-aid Kits”. The contents of the kit listed in the ANSI standard should be adequate for small work sites. When larger operations or multiple operations are being conducted at the same location, employers should determine the need for additional first aid kits at the worksite, additional types of first aid equipment and supplies and additional quantities and types of supplies and equipment in the first aid kits.
 
@@ -26,4 +36,4 @@ In a similar fashion, employers who have unique or changing first-aid needs in t
 
 If it is reasonably anticipated employees will be exposed to blood or other potentially infectious materials while using first-aid supplies, employers should provide personal protective equipment (PPE). Appropriate PPE includes gloves, gowns, face shields, masks and eye protection (see “Occupational Exposure to Blood borne Pathogens”, 29 CFR 1910.1030(d)(3)) (56 FR 64175).
 
-[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 49 FR 18295, Apr. 30, 1984; 58 FR 35084, June 30, 1993; 61 FR 5510, Feb. 13, 1996; 63 FR 33469, June 18, 1998; 76 FR 80740, Dec. 27, 2011]
+[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 49 FR 18295, Apr. 30, 1984; 58 FR 35084, June 30, 1993; 61 FR 5510, Feb. 13, 1996; 63 FR 33469, June 18, 1998; 76 FR 80740, Dec. 27, 2011; 84 FR 21575, May 14, 2019]

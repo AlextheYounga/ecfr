@@ -1,7 +1,5 @@
 ##### § 1910.1052 Methylene chloride. #####
 
-Link to an amendment published at 84 FR 21544, May 14, 2019.
-
 This occupational health standard establishes requirements for employers to control occupational exposure to methylene chloride (MC). Employees exposed to MC are at increased risk of developing cancer, adverse effects on the heart, central nervous system and liver, and skin or eye irritation. Exposure may occur through inhalation, by absorption through the skin, or through contact with the skin. MC is a solvent which is used in many different types of work activities, such as paint stripping, polyurethane foam manufacturing, and cleaning and degreasing. Under the requirements of paragraph (d) of this section, each covered employer must make an initial determination of each employee's exposure to MC. If the employer determines that employees are exposed below the action level, the only other provisions of this section that apply are that a record must be made of the determination, the employees must receive information and training under paragraph (l) of this section and, where appropriate, employees must be protected from contact with liquid MC under paragraph (h) of this section. The provisions of the MC standard are as follows:
 
 (a) *Scope and application.* This section applies to all occupational exposures to methylene chloride (MC), Chemical Abstracts Service Registry Number 75-09-2, in general industry, construction and shipyard employment.
@@ -663,13 +661,11 @@ Chronic exposure to MC may also cause cancer.
 
 IV. Surveillance and Preventive Considerations
 
-As discussed above, MC is classified as a suspect or potential human carcinogen. It is a central nervous system (CNS) depressant and a skin, eye and respiratory tract irritant. At extremely high concentrations, MC has caused liver damage in animals.
-
-MC principally affects the CNS, where it acts as a narcotic. The observation of the symptoms characteristic of CNS depression, along with a physical examination, provides the best detection of early neurological disorders. Since exposure to MC also increases the carboxyhemoglobin level in the blood, ambient carbon monoxide levels would have an additive effect on that carboxyhemoglobin level. Based on such information, a periodic post-shift carboxyhemoglobin test as an index of the presence of carbon monoxide in the blood is recommended, but not required, for medical surveillance.
+As discussed in sections II and III of this appendix, MC is classified as a suspect or potential human carcinogen. It is a central nervous system (CNS) depressant and a skin, eye and respiratory tract irritant. At extremely high concentrations, MC has caused liver damage in animals. MC principally affects the CNS, where it acts as a narcotic. The observation of the symptoms characteristic of CNS depression, along with a physical examination, provides the best detection of early neurological disorders. Since exposure to MC also increases the carboxyhemoglobin level in the blood, ambient carbon monoxide levels would have an additive effect on that carboxyhemoglobin level. Based on such information, a periodic post-shift carboxyhemoglobin test as an index of the presence of carbon monoxide in the blood is recommended, but not required, for medical surveillance.
 
 Based on the animal evidence and three epidemiologic studies previously mentioned, OSHA concludes that MC is a suspect human carcinogen. The medical surveillance program is designed to observe exposed workers on a regular basis. While the medical surveillance program cannot detect MC-induced cancer at a preneoplastic stage, OSHA anticipates that, as in the past, early detection and treatments of cancers leading to enhanced survival rates will continue to evolve.
 
-A. Medical and Occupational History:
+A. Medical and Occupational History
 
 The medical and occupational work history plays an important role in the initial evaluation of workers exposed to MC. It is therefore extremely important for the examining physician or other licensed health care professional to evaluate the MC-exposed worker carefully and completely and to focus the examination on MC's potentially associated health hazards. The medical evaluation must include an annual detailed work and medical history with special emphasis on cardiac history and neurological symptoms.
 
@@ -683,144 +679,4 @@ An example of a medical and work history that would satisfy the requirement for 
 
 The following is a list of recommended questions and issues for the self-administered questionnaire for methylene chloride exposure.
 
-Questionnaire For Methylene Chloride ExposureI. Demographic Information1. Name2. Social Security Number3. Date4. Date of Birth5. Age6. Present occupation7. Sex8. RaceII. Occupational History
-
-1. Have you ever worked with methylene chloride, dichloromethane, methylene dichloride, or CH2 Cl2 (all are different names for the same chemical)? Please list which on the occupational history form if you have not already.
-
-2. If you have worked in any of the following industries and have not listed them on the occupational history form, please do so.
-
-Furniture strippingPolyurethane foam manufacturingChemical manufacturing or formulationPharmaceutical manufacturingAny industry in which you used solvents to clean and degrease equipment or partsConstruction, especially painting and refinishingAerosol manufacturingAny industry in which you used aerosol adhesives
-
-3. If you have not listed hobbies or household projects on the occupational history form, especially furniture refinishing, spray painting, or paint stripping, please do so.
-
-III. Medical HistoryA. General
-
-1. Do you consider yourself to be in good health? If no, state reason(s).
-
-2. Do you or have you ever had:
-
-a. Persistent thirst
-
-b. Frequent urination (three times or more at night)
-
-c. Dermatitis or irritated skin
-
-d. Non-healing wounds
-
-3. What prescription or non-prescription medications do you take, and for what reasons?
-
-4. Are you allergic to any medications, and what type of reaction do you have?
-
-B. Respiratory
-
-1. Do you have or have you ever had any chest illnesses or diseases? Explain.
-
-2. Do you have or have you ever had any of the following:
-
-a. Asthma
-
-b. Wheezing
-
-c. Shortness of breath
-
-3. Have you ever had an abnormal chest X-ray? If so, when, where, and what were the findings?
-
-4. Have you ever had difficulty using a respirator or breathing apparatus? Explain.
-
-5. Do any chest or lung diseases run in your family? Explain.
-
-6. Have you ever smoked cigarettes, cigars, or a pipe? Age started:
-
-7. Do you now smoke?
-
-8. If you have stopped smoking completely, how old were you when you stopped?
-
-9. On the average of the entire time you smoked, how many packs of cigarettes, cigars, or bowls of tobacco did you smoke per day?
-
-C. Cardiovascular
-
-1. Have you ever been diagnosed with any of the following: Which of the following apply to you now or did apply to you at some time in the past, even if the problem is controlled by medication? Please explain any yes answers (*i.e.*, when problem was diagnosed, length of time on medication).
-
-a. High cholesterol or triglyceride levelb. Hypertension (high blood pressure)c. Diabetesd. Family history of heart attack, stroke, or blocked arteries
-
-2. Have you ever had chest pain? If so, answer the next five questions.
-
-a. What was the quality of the pain (*i.e.*, crushing, stabbing, squeezing)?b. Did the pain go anywhere (*i.e.*, into jaw, left arm)?c. What brought the pain out?d. How long did it last?e. What made the pain go away?
-
-3. Have you ever had heart disease, a heart attack, stroke, aneurysm, or blocked arteries anywhere in you body? Explain (when, treatment).
-
-4. Have you ever had bypass surgery for blocked arteries in your heart or anywhere else? Explain.
-
-5. Have you ever had any other procedures done to open up a blocked artery (balloon angioplasty, carotid endarterectomy, clot-dissolving drug)?
-
-6. Do you have or have you ever had (explain each):
-
-a. Heart murmurb. Irregular heartbeatc. Shortness of breath while lying flatd. Congestive heart failuree. Ankle swellingf. Recurrent pain anywhere below the waist while walking
-
-7. Have you ever had an electrocardiogram (EKG)? When?
-
-8. Have you ever had an abnormal EKG? If so, when, where, and what were the findings?
-
-9. Do any heart diseases, high blood pressure, diabetes, high cholesterol, or high triglycerides run in your family? Explain.
-
-D. Hepatobiliary and Pancreas
-
-1. Do you now or have you ever drunk alcoholic beverages? Age started: \_\_\_\_ Age stopped: \_\_\_\_.
-
-2. Average numbers per week:
-
-a. Beers: \_\_\_\_, ounces in usual container:b. Glasses of wine: \_\_\_\_, ounces per glass:c. Drinks: \_\_\_\_, ounces in usual container:
-
-3. Do you have or have you ever had (explain each):
-
-a. Hepatitis (infectious, autoimmune, drug-induced, or chemical)b. Jaundicec. Elevated liver enzymes or elevated bilirubind. Liver disease or cancerE. Central Nervous System
-
-1. Do you or have you ever had (explain each):
-
-a. Headacheb. Dizzinessc. Faintingd. Loss of consciousnesse. Garbled speechf. Lack of balanceg. Mental/psychiatric illnessh. ForgetfulnessF. Hematologic
-
-1. Do you have, or have you ever had (explain each):
-
-a. Anemiab. Sickle cell disease or traitc. Glucose-6-phosphate dehydrogenase deficiencyd. Bleeding tendency disorder
-
-2. If not already mentioned previously, have you ever had a reaction to sulfa drugs or to drugs used to prevent or treat malaria? What was the drug? Describe the reaction.
-
-B. Physical Examination
-
-The complete physical examination, when coupled with the medical and occupational history, assists the physician or other licensed health care professional in detecting pre-existing conditions that might place the employee at increased risk, and establishes a baseline for future health monitoring. These examinations should include:
-
-1. Clinical impressions of the nervous system, cardiovascular function and pulmonary function, with additional tests conducted where indicated or determined by the examining physician or other licensed health care professional to be necessary.
-
-2. An evaluation of the advisability of the worker using a respirator, because the use of certain respirators places an additional burden on the cardiopulmonary system. It is necessary for the attending physician or other licensed health care professional to evaluate the cardiopulmonary function of these workers, in order to inform the employer in a written medical opinion of the worker's ability or fitness to work in an area requiring the use of certain types of respiratory protective equipment. The presence of facial hair or scars that might interfere with the worker's ability to wear certain types of respirators should also be noted during the examination and in the written medical opinion.
-
-Because of the importance of lung function to workers required to wear certain types of respirators to protect themselves from MC exposure, these workers must receive an assessment of pulmonary function before they begin to wear a negative pressure respirator and at least annually thereafter. The recommended pulmonary function tests include measurement of the employee's forced vital capacity (FVC), forced expiratory volume at one second (FEV1), as well as calculation of the ratios of FEV1 to FVC, and the ratios of measured FVC and measured FEV1 to expected respective values corrected for variation due to age, sex, race, and height. Pulmonary function evaluation must be conducted by a physician or other licensed health care professional experienced in pulmonary function tests.
-
-The following is a summary of the elements of a physical exam which would fulfill the requirements under the MC standard:
-
-Physical ExamI. Skin and appendages1. Irritated or broken skin2. Jaundice3. Clubbing cyanosis, edema4. Capillary refill time5. PallorII. Head1. Facial deformities2. Scars3. Hair growthIII. Eyes1. Scleral icterus2. Corneal arcus3. Pupillary size and response4. Fundoscopic examIV. Chest1. Standard examV. Heart1. Standard exam2. Jugular vein distension3. Peripheral pulsesVI. Abdomen1. Liver spanVII. Nervous System1. Complete standard neurologic examVIII. Laboratory1. Hemoglobin and hematocrit2. Alanine aminotransferase (ALT, SGPT)3. Post-shift carboxyhemoglobinIX. Studies1. Pulmonary function testing2. Electrocardiogram
-
-An evaluation of the oxygen carrying capacity of the blood of employees (for example by measured red blood cell volume) is considered useful, especially for workers acutely exposed to MC.
-
-It is also recommended, but not required, that end of shift carboxyhemoglobin levels be determined periodically, and any level above 3% for non-smokers and above 10% for smokers should prompt an investigation of the worker and his workplace. This test is recommended because MC is metabolized to CO, which combines strongly with hemoglobin, resulting in a reduced capacity of the blood to transport oxygen in the body. This is of particular concern for cigarette smokers because they already have a diminished hemoglobin capacity due to the presence of CO in cigarette smoke.
-
-C. Additional Examinations and Referrals1. Examination by a Specialist
-
-When a worker examination reveals unexplained symptoms or signs (*i.e.*, in the physical examination or in the laboratory tests), follow-up medical examinations are necessary to assure that MC exposure is not adversely affecting the worker's health. When the examining physician or other licensed health care professional finds it necessary, additional tests should be included to determine the nature of the medical problem and the underlying cause. Where relevant, the worker should be sent to a specialist for further testing and treatment as deemed necessary.
-
-The final rule requires additional investigations to be covered and it also permits physicians or other licensed health care professionals to add appropriate or necessary tests to improve the diagnosis of disease should such tests become available in the future.
-
-2. Emergencies
-
-The examination of workers exposed to MC in an emergency should be directed at the organ systems most likely to be affected. If the worker has received a severe acute exposure, hospitalization may be required to assure proper medical intervention. It is not possible to precisely define “severe,” but the physician or other licensed health care professional's judgement should not merely rest on hospitalization. If the worker has suffered significant conjunctival, oral, or nasal irritation, respiratory distress, or discomfort, the physician or other licensed health care professional should instigate appropriate follow-up procedures. These include attention to the eyes, lungs and the neurological system. The frequency of follow-up examinations should be determined by the attending physician or other licensed health care professional. This testing permits the early identification essential to proper medical management of such workers.
-
-D. Employer Obligations
-
-The employer is required to provide the responsible physician or other licensed health care professional and any specialists involved in a diagnosis with the following information: a copy of the MC standard including relevant appendices, a description of the affected employee's duties as they relate to his or her exposure to MC; an estimate of the employee's exposure including duration (e.g., 15hr/wk, three 8-hour shifts/wk, full time); a description of any personal protective equipment used by the employee, including respirators; and the results of any previous medical determinations for the affected employee related to MC exposure to the extent that this information is within the employer's control.
-
-E. Physicians' or Other Licensed Health Care Professionals' Obligations
-
-The standard requires the employer to ensure that the physician or other licensed health care professional provides a written statement to the employee and the employer. This statement should contain the physician's or licensed health care professional's opinion as to whether the employee has any medical condition placing him or her at increased risk of impaired health from exposure to MC or use of respirators, as appropriate. The physician or other licensed health care professional should also state his or her opinion regarding any restrictions that should be placed on the employee's exposure to MC or upon the use of protective clothing or equipment such as respirators. If the employee wears a respirator as a result of his or her exposure to MC, the physician or other licensed health care professional's opinion should also contain a statement regarding the suitability of the employee to wear the type of respirator assigned. Furthermore, the employee should be informed by the physician or other licensed health care professional about the cancer risk of MC and about risk factors for heart disease, and the potential for exacerbation of underlying heart disease by exposure to MC through its metabolism to carbon monoxide. Finally, the physician or other licensed health care professional should inform the employer that the employee has been told the results of the medical examination and of any medical conditions which require further explanation or treatment. This written opinion must not contain any information on specific findings or diagnosis unrelated to employee's occupational exposures.
-
-The purpose in requiring the examining physician or other licensed health care professional to supply the employer with a written opinion is to provide the employer with a medical basis to assist the employer in placing employees initially, in assuring that their health is not being impaired by exposure to MC, and to assess the employee's ability to use any required protective equipment.
-
-Appendix C to Section 1910.1052 - Questions and Answers - Methylene Chloride Control in Furniture Stripping![](/graphics/ec28oc91.040.gif)![](/graphics/er10ja97.022.gif)![](/graphics/er10ja97.023.gif)![](/graphics/er10ja97.024.gif)![](/graphics/er10ja97.025.gif)![](/graphics/er10ja97.026.gif)![](/graphics/er10ja97.027.gif)[62 FR 1601, Jan. 10, 1997, as amended at 62 FR 42667, Aug. 8, 1997; 62 FR 54383, Oct. 20, 1997; 62 FR 66277, Dec. 18, 1997; 63 FR 1295, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 63 FR 50729, Sept. 22, 1998; 71 FR 16674, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75587, Dec. 12, 2008; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013]
+![](/graphics/er14my19.084.gif)![](/graphics/er14my19.085.gif)![](/graphics/er14my19.086.gif)![](/graphics/er14my19.087.gif)![](/graphics/er14my19.088.gif)![](/graphics/er14my19.089.gif)![](/graphics/er14my19.090.gif)![](/graphics/er14my19.091.gif)![](/graphics/er14my19.092.gif)![](/graphics/er14my19.093.gif)![](/graphics/er14my19.094.gif)Appendix C to Section 1910.1052 - Questions and Answers - Methylene Chloride Control in Furniture Stripping![](/graphics/ec28oc91.040.gif)![](/graphics/er10ja97.022.gif)![](/graphics/er10ja97.023.gif)![](/graphics/er10ja97.024.gif)![](/graphics/er10ja97.025.gif)![](/graphics/er10ja97.026.gif)![](/graphics/er10ja97.027.gif)[62 FR 1601, Jan. 10, 1997, as amended at 62 FR 42667, Aug. 8, 1997; 62 FR 54383, Oct. 20, 1997; 62 FR 66277, Dec. 18, 1997; 63 FR 1295, Jan. 8, 1998; 63 FR 20099, Apr. 23, 1998; 63 FR 50729, Sept. 22, 1998; 71 FR 16674, Apr. 3, 2006; 71 FR 50190, Aug. 24, 2006; 73 FR 75587, Dec. 12, 2008; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21555, May 14, 2019]

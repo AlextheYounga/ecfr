@@ -1,7 +1,5 @@
 ##### § 1910.1001 Asbestos. #####
 
-Link to an amendment published at 84 FR 21458, May 14, 2019.
-
 (a) *Scope and application.* (1) This section applies to all occupational exposures to asbestos in all industries covered by the Occupational Safety and Health Act, except as provided in paragraph (a)(2) and (3) of this section.
 
 (2) This section does not apply to construction work as defined in 29 CFR 1910.12(b). (Exposure to asbestos in construction work is covered by 29 CFR 1926.1101).
@@ -328,13 +326,15 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (2) *Pre-placement examinations.* (i) Before an employee is assigned to an occupation exposed to airborne concentrations of asbestos fibers at or above the TWA and/or excursion limit, a pre-placement medical examination shall be provided or made available by the employer.
 
-(ii) Such examination shall include, as a minimum, a medical and work history; a complete physical examination of all systems with emphasis on the respiratory system, the cardiovascular system and digestive tract; completion of the respiratory disease standardized questionnaire in appendix D to this section, part 1; a chest roentgenogram (posterior-anterior 14 × 17 inches); pulmonary function tests to include forced vital capacity (FVC) and forced expiratory volume at 1 second (FEV(1.0)); and any additional tests deemed appropriate by the examining physician. Interpretation and classification of chest roentgenogram shall be conducted in accordance with appendix E to this section.
+(ii) Such examination shall include, as a minimum, a medical and work history; a complete physical examination of all systems with emphasis on the respiratory system, the cardiovascular system and digestive tract; completion of the respiratory disease standardized questionnaire in appendix D to this section, part 1; a 14- by 17-inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray; pulmonary function tests to include forced vital capacity (FVC) and forced expiratory volume at 1 second (FEV1); and any additional tests deemed appropriate by the examining physician. Classification of all chest X-rays shall be conducted in accordance with appendix E to this section.
 
 (3) *Periodic examinations.* (i) Periodic medical examinations shall be made available annually.
 
-(ii) The scope of the medical examination shall be in conformance with the protocol established in paragraph (l)(2)(ii) of this section, except that the frequency of chest roentgenogram shall be conducted in accordance with Table 1, and the abbreviated standardized questionnaire contained in, part 2 of appendix D to this section shall be administered to the employee.
+(ii) The scope of the medical examination shall be in conformance with the protocol established in paragraph (l)(2)(ii) of this section, except that the frequency of chest X-rays shall be conducted in accordance with Table 1 to this section, and the abbreviated standardized questionnaire contained in part 2 of appendix D to this section shall be administered to the employee.
 
-Table 1 - Frequency of Chest Roentgenogram
+Table 1 to § 1910.1001 - Frequency of Chest X-ray
+
+Table 1 - Frequency of Chest X-ray
 
 |Years since first exposure|Age of employee|             |              |
 |--------------------------|---------------|-------------|--------------|
@@ -941,17 +941,15 @@ Counts for the Fibers in the Figure
 |     11      |  0  |        Fiber crosses graticule twice.        |
 |     12      | 1/2 |   Although split, fiber only crosses once.   |
 
-![](/graphics/er10au94.006.gif)Appendix C to § 1910.1001 [Reserved]Appendix D to § 1910.1001 - Medical Questionnaires; Mandatory
+![](/graphics/er10au94.006.gif)Appendix C to § 1910.1001 [Reserved]![](/graphics/er14my19.000.gif)![](/graphics/er14my19.001.gif)![](/graphics/er14my19.002.gif)![](/graphics/er14my19.003.gif)![](/graphics/er14my19.004.gif)![](/graphics/er14my19.005.gif)![](/graphics/er14my19.006.gif)![](/graphics/er14my19.007.gif)![](/graphics/er14my19.008.gif)![](/graphics/er14my19.009.gif)![](/graphics/er14my19.010.gif)![](/graphics/er14my19.011.gif)![](/graphics/er14my19.012.gif)![](/graphics/er14my19.013.gif)![](/graphics/er14my19.014.gif)![](/graphics/er14my19.015.gif)![](/graphics/er14my19.016.gif)Appendix E to § 1910.1001 - Classification of Chest X-Rays - Mandatory
 
-This mandatory appendix contains the medical questionnaires that must be administered to all employees who are exposed to asbestos above the permissible exposure limit, and who will therefore be included in their employer's medical surveillance program. Part 1 of the appendix contains the Initial Medical Questionnaire, which must be obtained for all new hires who will be covered by the medical surveillance requirements. Part 2 includes the abbreviated Periodical Medical Questionnaire, which must be administered to all employees who are provided periodic medical examinations under the medical surveillance provisions of the standard.
+(a) Chest X-rays shall be classified in accordance with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011) (incorporated by reference, see § 1910.6), and recorded on a classification form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 through 4) shall be included. This form is not to be submitted to NIOSH.
 
-![](/graphics/ec28oc91.000.gif)![](/graphics/ec28oc91.001.gif)![](/graphics/ec28oc91.002.gif)![](/graphics/ec28oc91.003.gif)![](/graphics/ec28oc91.004.gif)![](/graphics/ec28oc91.005.gif)![](/graphics/ec28oc91.006.gif)![](/graphics/ec28oc91.007.gif)![](/graphics/ec28oc91.008.gif)![](/graphics/ec28oc91.009.gif)![](/graphics/ec28oc91.010.gif)![](/graphics/ec28oc91.011.gif)Appendix E to § 1910.1001 - Interpretation and Classification of Chest Roentgenograms - Mandatory
+(b) All X-rays shall be classified only by a B-Reader, a board eligible/certified radiologist, or an experienced physician with known expertise in pneumoconioses.
 
-(a) Chest roentgenograms shall be interpreted and classified in accordance with a professionally accepted Classification system and recorded on an interpretation form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 though 4) shall be included. This form is not to be submitted to NIOSH.
+(c) Whenever classifying chest X-ray film, the physician shall have immediately available for reference a complete set of the ILO standard format radiographs provided for use with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011).
 
-(b) Roentgenograms shall be interpreted and classified only by a B-reader, a board eligible/certified radiologist, or an experienced physician with known expertise in pneumoconioses.
-
-(c) All interpreters, whenever interpreting chest roentgenograms made under this section, shall have immediately available for reference a complete set of the ILO-U/C International Classification of Radiographs for Pneumoconioses, 1980.
+(d) Whenever classifying digitally-acquired chest X-rays, the physician shall have immediately available for reference a complete set of ILO standard digital chest radiographic images provided for use with the Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011). Classification of digitally-acquired chest X-rays shall be based on the viewing of images displayed as electronic copies and shall not be based on the viewing of hard copy printed transparencies of images.
 
 Appendix F to § 1910.1001 - Work Practices and Engineering Controls for Automotive Brake and Clutch Inspection, Disassembly, Repair and Assembly - Mandatory
 
@@ -1069,13 +1067,13 @@ Epidemiological studies indicate that the risk of lung cancer among exposed work
 
 III. Signs and Symptoms of Exposure-Related Disease
 
-The signs and symptoms of lung cancer or gastrointestinal cancer induced by exposure to asbestos are not unique, except that a chest X-ray of an exposed patient with lung cancer may show pleural plaques, pleural calcification, or pleural fibrosis. Symptoms characteristic of mesothelioma include shortness of breath, pain in the walls of the chest, or abdominal pain. Mesothelioma has a much longer latency period compared with lung cancer (40 years versus 15-20 years), and mesothelioma is therefore more likely to be found among workers who were first exposed to asbestos at an early age. Mesothelioma is always fatal.
+The signs and symptoms of lung cancer or gastrointestinal cancer induced by exposure to asbestos are not unique, except that a chest X-ray of an exposed patient with lung cancer may show pleural plaques, pleural calcification, or pleural fibrosis, and may also show asbestosis (*i.e.,* small irregular parenchymal opacities). Symptoms characteristic of mesothelioma include shortness of breath, pain in the chest or abdominal pain. Mesothelioma has a much longer average latency period compared with lung cancer (40 years versus 15-20 years), and mesothelioma is therefore more likely to be found among workers who were first exposed to asbestos at an early age. Mesothelioma is a fatal disease.
 
-Asbestosis is pulmonary fibrosis caused by the accumulation of asbestos fibers in the lungs. Symptoms include shortness of breath, coughing, fatigue, and vague feelings of sickness. When the fibrosis worsens, shortness of breath occurs even at rest. The diagnosis of asbestosis is based on a history of exposure to asbestos, the presence of characteristic radiologic changes, end-inspiratory crackles (rales), and other clinical features of fibrosing lung disease. Pleural plaques and thickening are observed on X-rays taken during the early stages of the disease. Asbestosis is often a progressive disease even in the absence of continued exposure, although this appears to be a highly individualized characteristic. In severe cases, death may be caused by respiratory or cardiac failure.
+Asbestosis is pulmonary fibrosis caused by the accumulation of asbestos fibers in the lungs. Symptoms include shortness of breath, coughing, fatigue, and vague feelings of sickness. When the fibrosis worsens, shortness of breath occurs even at rest. The diagnosis of asbestosis is most commonly based on a history of exposure to asbestos, the presence of characteristic radiologic abnormalities, end-inspiratory crackles (rales), and other clinical features of fibrosing lung disease. Pleural plaques and thickening may be observed on chest X-rays. Asbestosis is often a progressive disease even in the absence of continued exposure, although this appears to be a highly individualized characteristic. In severe cases, death may be caused by respiratory or cardiac failure.
 
 IV. Surveillance and Preventive Considerations
 
-As noted above, exposure to asbestos has been linked to an increased risk of lung cancer, mesothelioma, gastrointestinal cancer, and asbestosis among occupationally exposed workers. Adequate screening tests to determine an employee's potential for developing serious chronic diseases, such as cancer, from exposure to asbestos do not presently exist. However, some tests, particularly chest X-rays and pulmonary function tests, may indicate that an employee has been overexposed to asbestos increasing his or her risk of developing exposure-related chronic diseases. It is important for the physician to become familiar with the operating conditions in which occupational exposure to asbestos is likely to occur. This is particularly important in evaluating medical and work histories and in conducting physical examinations. When an active employee has been identified as having been overexposed to asbestos, measures taken by the employer to eliminate or mitigate further exposure should also lower the risk of serious long-term consequences.
+As noted in section III of this appendix, exposure to asbestos has been linked to an increased risk of lung cancer, mesothelioma, gastrointestinal cancer, and asbestosis among occupationally exposed workers. Adequate screening tests to determine an employee's potential for developing serious chronic diseases, such as cancer, from exposure to asbestos do not presently exist. However, some tests, particularly chest X-rays and pulmonary function tests, may indicate that an employee has been overexposed to asbestos increasing his or her risk of developing exposure-related chronic diseases. It is important for the physician to become familiar with the operating conditions in which occupational exposure to asbestos is likely to occur. This is particularly important in evaluating medical and work histories and in conducting physical examinations. When an active employee has been identified as having been overexposed to asbestos, measures taken by the employer to eliminate or mitigate further exposure should also lower the risk of serious long-term consequences.
 
 The employer is required to institute a medical surveillance program for all employees who are or will be exposed to asbestos at or above the permissible exposure limit (0.1 fiber per cubic centimeter of air). All examinations and procedures must be performed by or under the supervision of a licensed physician, at a reasonable time and place, and at no cost to the employee.
 
@@ -1083,15 +1081,15 @@ Although broad latitude is given to the physician in prescribing specific tests 
 
 (i) Medical and work histories with special emphasis directed to symptoms of the respiratory system, cardiovascular system, and digestive tract.
 
-(ii) Completion of the respiratory disease questionnaire contained in appendix D.
+(ii) Completion of the respiratory disease questionnaire contained in appendix D of this section.
 
-(iii) A physical examination including a chest roentgenogram and pulmonary function test that includes measurement of the employee's forced vital capacity (FVC) and forced expiratory volume at one second (FEV1).
+(iii) A physical examination including a chest X-ray and pulmonary function test that includes measurement of the employee's forced vital capacity (FVC) and forced expiratory volume at one second (FEV1).
 
 (iv) Any laboratory or other test that the examining physician deems by sound medical practice to be necessary.
 
 The employer is required to make the prescribed tests available at least annually to those employees covered; more often than specified if recommended by the examining physician; and upon termination of employment.
 
-The employer is required to provide the physician with the following information: A copy of this standard and appendices; a description of the mployee's duties as they relate to asbestos exposure; the employee's representative level of exposure to asbestos; a description of any personal protective and respiratory equipment used; and information from previous medical examinations of the affected employee that is not otherwise available to the physician. Making this information available to the physician will aid in the evaluation of the employee's health in relation to assigned duties and fitness to wear personal protective equipment, if required.
+The employer is required to provide the physician with the following information: A copy of the standard in this section (including all appendices to this section); a description of the employee's duties as they relate to asbestos exposure; the employee's representative level of exposure to asbestos; a description of any personal protective and respiratory equipment used; and information from previous medical examinations of the affected employee that is not otherwise available to the physician. Making this information available to the physician will aid in the evaluation of the employee's health in relation to assigned duties and fitness to wear personal protective equipment, if required.
 
 The employer is required to obtain a written opinion from the examining physician containing the results of the medical examination; the physician's opinion as to whether the employee has any detected medical conditions that would place the employee at an increased risk of exposure-related disease; any recommended limitations on the employee or on the use of personal protective equipment; and a statement that the employee has been informed by the physician of the results of the medical examination and of any medical conditions related to asbestos exposure that require further explanation or treatment. This written opinion must not reveal specific findings or diagnoses unrelated to exposure to asbestos, and a copy of the opinion must be provided to the affected employee.
 

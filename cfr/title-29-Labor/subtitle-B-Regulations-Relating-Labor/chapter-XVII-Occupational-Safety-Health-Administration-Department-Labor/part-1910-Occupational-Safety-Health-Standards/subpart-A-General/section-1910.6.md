@@ -1,14 +1,12 @@
 ##### § 1910.6 Incorporation by reference. #####
 
-Link to an amendment published at 84 FR 21457, May 14, 2019.
-
 (a)(1) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (i.e., provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act.
 
-(2) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of the Occupational Safety and Health Administration, U.S. Department of Labor, Washington, DC 20910; telephone: 202-693-2350 (TTY number: 877-889-5627).
+(2) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of the Occupational Safety and Health Administration, U.S. Department of Labor, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627).
 
-(3) The materials listed in paragraphs (b) through (w) of this section are incorporated by reference in the corresponding sections noted as they exist on the date of the approval, and a notice of any change in these materials will be published in the Federal Register. These incorporations by reference were approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
+(3) The standards listed in this section are incorporated by reference into this part with the approval of the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, OSHA must publish a document in the Federal Register and the material must be available to the public.
 
-(4) Copies of standards listed in this section and issued by private standards organizations are available for purchase from the issuing organizations at the addresses or through the other contact information listed below for these private standards organizations. In addition, these standards are available for inspection at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW., Room N-2625, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). They are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these standards at NARA, telephone: 202-741-6030, or go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
+(4) Copies of standards listed in this section and issued by private standards organizations are available for purchase from the issuing organizations at the addresses or through the other contact information listed below for these private standards organizations. In addition, these standards are available for inspection at any Regional Office of the Occupational Safety and Health Administration (OSHA), or at the OSHA Docket Office, U.S. Department of Labor, 200 Constitution Avenue NW, Room N-3508, Washington, DC 20210; telephone: 202-693-2350 (TTY number: 877-889-5627). They are also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of these standards at NARA, telephone: 202-741-6030, or go to *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) The following material is available for purchase from the American Conference of Governmental Industrial Hygienists (ACGIH), 1014 Broadway, Cincinnati OH 45202:
 
@@ -146,9 +144,9 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (59) ANSI Z35.1-1968, Specifications for Accident Prevention Signs; IBR approved for § 1910.261(c). Copies available for purchase from the IHS Standards Store, 15 Inverness Way East, Englewood, CO 80112; telephone: 1-877-413-5184; Web site: *www.global.ihs.com.*
 
-(60) ANSI Z41-1999, American National Standard for Personal Protection - Protective Footwear; IBR approved for § 1910.136(b)(1)(ii). Copies of ANSI Z41-1999 are available for purchase only from the National Safety Council, P.O. Box 558, Itasca, IL 60143-0558; telephone: 1-800-621-7619; fax: 708-285-0797; Web site: *http://www.nsc.org.*
+(60) ANSI Z41-1999, American National Standard for Personal Protection—Protective Footwear; IBR approved for § 1910.136(b)(1)(ii). Copies of ANSI Z41-1999 are available for purchase only from the National Safety Council, P.O. Box 558, Itasca, IL 60143-0558; telephone: 1-800-621-7619; fax: 708-285-0797; Web site: *http://www.nsc.org.*
 
-(61) ANSI Z41-1991, American National Standard for Personal Protection - Protective Footwear; IBR approved for § 1910.136(b)(1)(iii). Copies of ANSI Z41-1991 are available for purchase only from the National Safety Council, P.O. Box 558, Itasca, IL 60143-0558; telephone: 1-800-621-7619; fax: 708-285-0797; Web site: *http://www.nsc.org.*
+(61) ANSI Z41-1991, American National Standard for Personal Protection—Protective Footwear; IBR approved for § 1910.136(b)(1)(iii). Copies of ANSI Z41-1991 are available for purchase only from the National Safety Council, P.O. Box 558, Itasca, IL 60143-0558; telephone: 1-800-621-7619; fax: 708-285-0797; Web site: *http://www.nsc.org.*
 
 (62)-(63) [Reserved]
 
@@ -204,7 +202,7 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (74) American National Standards Institute (ANSI) Z89.1-2003, American National Standard for Industrial Head Protection; IBR approved for § 1910.135(b)(1)(ii). Copies of ANSI Z89.1-2003 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
-(75) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection - Protective Headwear for Industrial Workers - Requirements; IBR approved for § 1910.135(b)(1)(iii). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
+(75) American National Standards Institute (ANSI) Z89.1-1997, American National Standard for Personnel Protection—Protective Headwear for Industrial Workers—Requirements; IBR approved for § 1910.135(b)(1)(iii). Copies of ANSI Z89.1-1997 are available for purchase only from the International Safety Equipment Association, 1901 North Moore Street, Arlington, VA 22209-1762; telephone: 703-525-1695; fax: 703-528-2148; Web site: *www.safetyequipment.org.*
 
 (76) ANSI Z41.1-1967 Men's Safety Toe Footwear; IBR approved for § 1910.261(i)(4).
 
@@ -308,7 +306,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (28) ASTM F-2413-2005, Standard Specification for Performance Requirements for Protective Footwear, IBR approved for § 1910.136.
 
-(i) The following material is available for purchase from the American Welding Society (AWS), 550 NW, LeJeune Road, P.O. Box 351040, Miami FL 33135:
+(i) The following material is available at the American Thoracic Society (ATS), 25 Broadway, 18th Floor New York, NY 10004; website: *www.atsjournals.org/.*
+
+(1) Spirometric Reference Values from a Sample of the General U.S. Population. Hankinson JL, Odencrantz JR, Fedan KB. American Journal of Respiratory and Critical Care Medicine, 159:179-187, 1999, IBR approved for § 1910.1043(h).
+
+(2) [Reserved]
+
+(j) The following material is available for purchase from the American Welding Society (AWS), 550 NW, LeJeune Road, P.O. Box 351040, Miami FL 33135:
 
 (1)-(2) [Reserved]
 
@@ -322,13 +326,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (7) AWS D10.9-69 Standard Qualification of Welding Procedures and Welders for Piping and Tubing, IBR approved for § 1910.67(c)(5)(iii).
 
-(j) The following material is available for purchase from the Department of Commerce:
+(k) The following material is available for purchase from the Department of Commerce:
 
 (1) [Reserved]
 
 (2) Publication “Model Performance Criteria for Structural Fire Fighters' Helmets,” IBR approved for § 1910.156(e)(5)(i).
 
-(k) The following material is available for purchase from the Compressed Gas Association (CGA), 1235 Jefferson Davis Highway, Arlington, VA 22202:
+(l) The following material is available for purchase from the Compressed Gas Association (CGA), 1235 Jefferson Davis Highway, Arlington, VA 22202:
 
 (1) CGA C-6 (1968) Standards for Visual Inspection of Compressed Gas Cylinders, IBR approved for § 1910.101(a).
 
@@ -344,7 +348,7 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (7) CGA P-3 (1963) Specifications, Properties, and Recommendations for Packaging, Transportation, Storage and Use of Ammonium Nitrate, IBR approved for § 1910.109(i)(1)(ii)(*b*).
 
-(8) CGA S-1.1 (1963) and 1965 Addenda. Safety Release Device Standards - Cylinders for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*).
+(8) CGA S-1.1 (1963) and 1965 Addenda. Safety Release Device Standards—Cylinders for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*).
 
 (9) CGA S-1.2 (1963) Safety Release Device Standards, Cargo and Portable Tanks for Compressed Gases, IBR approved for §§ 1910.101(c); 1910.103(c)(1)(iv)(*a*)(*2*).
 
@@ -356,37 +360,63 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (13) CGA 1958 Regulator Connection Standard, IBR approved for § 1910.253(e) (4)(iv) and (6).
 
-(l) The following material is available for purchase from the Crane Manufacturer's Association of America, Inc. (CMAA), 1 Thomas Circle NW, Washington DC 20005:
+(m) The following material is available for purchase from the Crane Manufacturer's Association of America, Inc. (CMAA), 1 Thomas Circle NW, Washington DC 20005:
 
 (1) CMAA Specification 1B61, Specifications for Electric Overhead Traveling Cranes, IBR approved for § 1910.179(b)(6)(i).
 
 (2) [Reserved]
 
-(m) The following material is available for purchase from the General Services Administration:
+(n) The following material is available for purchase from the General Services Administration:
 
 (1) GSA Pub. GG-B-0067b, Air Compressed for Breathing Purposes, or Interim Federal Specifications, Apr. 1965, IBR approved for § 1910.134(d)(4).
 
 (2) [Reserved]
 
-(n) The following material is available for purchase from the Department of Health and Human Services:
+(o) The following material is available for purchase from the Department of Health and Human Services:
 
 (1) Publication No. 76-120 (1975), List of Personal Hearing Protectors and Attenuation Data, IBR approved for § 1910.95 App. B.
 
 (2) [Reserved]
 
-(o) The following material is available for purchase from the Institute of Makers of Explosives (IME), 420 Lexington Avenue, New York, NY 10017:
+(p) The following material is available for purchase from the Institute of Makers of Explosives (IME), 420 Lexington Avenue, New York, NY 10017:
 
 (1) IME Pamphlet No. 17, 1960, Safety in the Handling and Use of Explosives, IBR approved for §§ 1910.261 (a)(4)(iii) and (c)(14)(ii).
 
 (2) [Reserved]
 
-(p) The following material is available for purchase from the National Electrical Manufacturer's Association (NEMA):
+(q) The following material is available from the International Labour Organization (ILO), 4 route des Morillons, CH-1211 Genève 22, Switzerland; telephone: +41 (0) 22 799 6111; fax: +41 (0) 22 798 8685; website: *www.ilo.org/.*
+
+(1) Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses, Revised Edition 2011, Occupational safety and health series; 22 (Rev.2011), IBR approved for § 1910.1001.
+
+(2) [Reserved]
+
+(r)(1) The following materials are available for purchase from the International Standards Organization (ISO) through ANSI, 25 West 43rd Street, Fourth Floor, New York, NY 10036-7417; Telephone: 212-642-4980; Fax: 212-302-1286; Email: *info@ansi.org;* Web site: *http://www.ansi.org.*
+
+(2) Documents not available in the ANSI store may be purchased from:
+
+(i) Document Center Inc., 111 Industrial Road, Suite 9, Belmont, 94002; Telephone: 650-591-7600; Fax: 650-591-7617; Email: *info@document-center.com; Web site:**www.document-center.com.*
+
+(ii) DECO—Document Engineering Co., Inc., 15210 Stagg Street, Van Nuys, CA 91405; Telephone: 800-645-7732 or 818-782-1010; Fax: 818-782-2374; Email: *doceng@doceng.com;* Web site: *www.doceng.com*
+
+(iii) Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112; Telephone: 1-800-854-7179 or 303-397-7956; Fax: 303-397-2740; Email: *global@ihs.com;* Web sites: *http://global.ihs.com* or *http://www.store.ihs.com**;*
+
+(iv) ILI Infodisk, Inc., 610 Winters Avenue, Paramus, NJ 07652; Telephone: 201-986-1131; Fax: 201-986-7886; Email: *sales@ili-info.com;* Web site: *www.ili-info.com.*
+
+(v) Techstreet, a business of Thomson Reuters, 3916 Ranchero Drive, Ann Arbor, MI 48108; Telephone: 800-699-9277 or 734-780-8000; Fax: 734-780-2046; Email: *techstreet.service@thomsonreuters.com;* Web site: *www.Techstreet.com.*
+
+(3) ISO 10156:1996 (E), Gases and Gas Mixtures—Determination of Fire Potential and Oxidizing Ability for the Selection of Cylinder Valve Outlets, Second Edition, Feb. 15, 1996, IBR approved for appendix B to § 1910.1200.
+
+(4) ISO 10156-2:2005 (E), Gas cylinders—Gases and Gas Mixtures—Part 2: Determination of Oxidizing Ability of Toxic and Corrosive Gases and Gas Mixtures, First Edition, Aug. 1, 2005, IBR approved for Appendix B to § 1910.1200.
+
+(5) ISO 13943:2000 (E/F), Fire Safety—Vocabulary, First Edition, April, 15, 2000, IBR approved for appendix B to § 1910.1200.
+
+(s) The following material is available for purchase from the National Electrical Manufacturer's Association (NEMA):
 
 (1) NEMA EW-1 (1962) Requirements for Electric Arc Welding Apparatus, IBR approved for §§ 1910.254(b)(1).
 
 (2) [Reserved]
 
-(q) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02269; Telephone: 800-344-3555 or 617-770-3000; Fax: 1-800-593-6372 or 1-508-895-8301; Email: *custserv@nfpa.org;* Web site: *http://www.nfpa.org.*
+(t) The following material is available for purchase from the National Fire Protection Association (NFPA), 1 Batterymarch Park, Quincy, MA 02269; Telephone: 800-344-3555 or 617-770-3000; Fax: 1-800-593-6372 or 1-508-895-8301; Email: *custserv@nfpa.org;* Web site: *http://www.nfpa.org.*
 
 (1) NFPA 30 (1969) Flammable and Combustible Liquids Code, IBR approved for § 1910.178(f)(1).
 
@@ -462,13 +492,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (37) NFPA 30B, Code for the Manufacture and Storage of Aerosol Products, 2007 Edition, Approved August 17, 2006, IBR approved for Appendix B to § 1910.1200.
 
-(r) The following material is available for purchase from the National Food Plant Institute, 1700 K St. NW., Washington, DC 20006:
+(u) The following material is available for purchase from the National Food Plant Institute, 1700 K St. NW., Washington, DC 20006:
 
 (1) Definition and Test Procedures for Ammonium Nitrate Fertilizer (Nov. 1964), IBR approved for § 1910.109 Table H-22, ftn. 3.
 
 (2) [Reserved]
 
-(s) The following material is available for purchase from the National Institute for Occupational Safety and Health (NIOSH):
+(v) The following material is available for purchase from the National Institute for Occupational Safety and Health (NIOSH):
 
 (1) Registry of Toxic Effects of Chemical Substances, 1978, IBR approved for § 1910.20(c)(13)(i) and appendix B.
 
@@ -476,13 +506,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (3) NIOSH Recommendations for Occupational Safety and Health Standards (Sept. 1987), IBR approved for § 1910.120 PEL definition.
 
-(t) The following material is available for purchase from the Public Health Service:
+(w) The following material is available for purchase from the Public Health Service:
 
 (1) U.S. Pharmacopeia, IBR approved for § 1910.134(d)(1).
 
 (2) Publication No. 934 (1962), Food Service Sanitation Ordinance and Code, part V of the Food Service Sanitation Manual, IBR approved for § 1910.142(i)(1).
 
-(u) The following material is available for purchase from the Society of Automotive Engineers (SAE), 485 Lexington Avenue, New York, NY 10017:
+(x) The following material is available for purchase from the Society of Automotive Engineers (SAE), 485 Lexington Avenue, New York, NY 10017:
 
 (1) SAE J185, June 1988, Recommended Practice for Access Systems for Off-Road Machines, IBR approved for § 1910.266(f)(5)(i).
 
@@ -496,13 +526,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (6) SAE J1040, April 1988, Performance Criteria for Rollover Protective Structures (ROPS) for Construction, Earthmoving, Forestry and Mining Machines, IBR approved for § 1910.266(f)(3)(ii).
 
-(v) The following material is available for purchase from the Fertilizer Institute, 1015 18th Street NW, Washington, DC 20036:
+(y) The following material is available for purchase from the Fertilizer Institute, 1015 18th Street NW, Washington, DC 20036:
 
 (1) Standard M-1 (1953, 1955, 1957, 1960, 1961, 1963, 1965, 1966, 1967, 1968), Superseded by ANSI K61.1-1972, IBR approved for § 1910.111(b)(1) (i) and (iii).
 
 (2) [Reserved]
 
-(w) The following material is available for purchase from Underwriters Laboratories (UL), 207 East Ohio Street, Chicago, IL 60611:
+(z) The following material is available for purchase from Underwriters Laboratories (UL), 207 East Ohio Street, Chicago, IL 60611:
 
 (1) UL 58-61 Steel Underground Tanks for Flammable and Combustible Liquids, 5th Ed., IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*).
 
@@ -510,33 +540,13 @@ Link to an amendment published at 84 FR 21457, May 14, 2019.
 
 (3) UL 142-68 Steel Above Ground Tanks for Flammable and Combustible Liquids, IBR approved for § 1910.106(b)(1)(iii)(*a*)(*1*).
 
-(x) The following material is available for purchase from the: International Code Council, Chicago District Office, 4051 W. Flossmoor Rd., Country Club Hills, IL 60478; *telephone:* 708-799-2300, x3-3801; *facsimile:* 001-708-799-4981; *e-mail: order@iccsafe.org.*
+(aa) The following material is available for purchase from the: International Code Council, Chicago District Office, 4051 W. Flossmoor Rd., Country Club Hills, IL 60478; *telephone:* 708-799-2300, x3-3801; *facsimile:* 001-708-799-4981; *e-mail: order@iccsafe.org.*
 
 (1) IFC-2009, International Fire Code, copyright 2009, IBR approved for §§ 1910.34, 1910.35, 1910.36, and 1910.37.
 
 (2) [Reserved]
 
-(y)(1) The following materials are available for purchase from the International Standards Organization (ISO) through ANSI, 25 West 43rd Street, Fourth Floor, New York, NY 10036-7417; Telephone: 212-642-4980; Fax: 212-302-1286; Email: *info@ansi.org;* Web site: *http://www.ansi.org.*
-
-(2) Documents not available in the ANSI store may be purchased from:
-
-(i) Document Center Inc., 111 Industrial Road, Suite 9, Belmont, 94002; Telephone: 650-591-7600; Fax: 650-591-7617; Email: *info@document-center.com; Web site:**www.document-center.com.*
-
-(ii) DECO - Document Engineering Co., Inc., 15210 Stagg Street, Van Nuys, CA 91405; Telephone: 800-645-7732 or 818-782-1010; Fax: 818-782-2374; Email: *doceng@doceng.com;* Web site: *www.doceng.com*
-
-(iii) Global Engineering Documents, 15 Inverness Way East, Englewood, CO 80112; Telephone: 1-800-854-7179 or 303-397-7956; Fax: 303-397-2740; Email: *global@ihs.com;* Web sites: *http://global.ihs.com* or *http://www.store.ihs.com**;*
-
-(iv) ILI Infodisk, Inc., 610 Winters Avenue, Paramus, NJ 07652; Telephone: 201-986-1131; Fax: 201-986-7886; Email: *sales@ili-info.com;* Web site: *www.ili-info.com.*
-
-(v) Techstreet, a business of Thomson Reuters, 3916 Ranchero Drive, Ann Arbor, MI 48108; Telephone: 800-699-9277 or 734-780-8000; Fax: 734-780-2046; Email: *techstreet.service@thomsonreuters.com;* Web site: *www.Techstreet.com.*
-
-(3) ISO 10156:1996 (E), Gases and Gas Mixtures - Determination of Fire Potential and Oxidizing Ability for the Selection of Cylinder Valve Outlets, Second Edition, Feb. 15, 1996, IBR approved for Appendix B to § 1910.1200.
-
-(4) ISO 10156-2:2005 (E), Gas cylinders - Gases and Gas Mixtures - Part 2: Determination of Oxidizing Ability of Toxic and Corrosive Gases and Gas Mixtures, First Edition, Aug. 1, 2005, IBR approved for Appendix B to § 1910.1200.
-
-(5) ISO 13943:2000 (E/F), Fire Safety - Vocabulary, First Edition, April, 15, 2000, IBR approved for Appendix B to § 1910.1200.
-
-(z)(1) The following document is available for purchase from United Nations Publications, Customer Service, c/o National Book Network, 15200 NBN Way, PO Box 190, Blue Ridge Summit, PA 17214; telephone: 1-888-254-4286; fax: 1-800-338-4550; email: *unpublications@nbnbooks.com.* Other distributors of United Nations Publications include:
+(bb)(1) The following document is available for purchase from United Nations Publications, Customer Service, c/o National Book Network, 15200 NBN Way, PO Box 190, Blue Ridge Summit, PA 17214; telephone: 1-888-254-4286; fax: 1-800-338-4550; email: *unpublications@nbnbooks.com.* Other distributors of United Nations Publications include:
 
 (i) Bernan, 15200 NBN Way, Blue Ridge Summit, PA 17214; telephone: 1-800-865-3457; fax: 1-800-865-3450; email: *customercare@bernan;* Web site: *http://www.bernan.com;* and
 

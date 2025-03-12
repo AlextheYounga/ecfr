@@ -1,7 +1,5 @@
 ##### § 250.601 Definitions. #####
 
-Link to an amendment published at 84 FR 21976, May 15, 2019.
-
 When used in this subpart, the following terms shall have the meanings given below:
 
 *Expected surface pressure* means the highest pressure predicted to be exerted upon the surface of a well. In calculating expected surface pressure, you must consider reservoir pressure as well as applied surface pressure.
@@ -32,4 +30,8 @@ When used in this subpart, the following terms shall have the meanings given bel
 
 (l) Setting and retrieving other subsurface flow-control devices.
 
+(m) Acid treatments.
+
 *Workover operations* mean the work conducted on wells after the initial completion for the purpose of maintaining or restoring the productivity of a well.
+
+[76 FR 64462, Oct. 18, 2011, as amended at 84 FR 21976, May 15, 2019]

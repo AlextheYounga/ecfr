@@ -1,7 +1,5 @@
 ##### § 1926.1127 Cadmium. #####
 
-Link to an amendment published at 84 FR 21597, May 14, 2019.
-
 (a) *Scope.* This standard applies to all occupational exposures to cadmium and cadmium compounds, in all forms, in all construction work where an employee may potentially be exposed to cadmium. Construction work is defined as work involving construction, alteration and/or repair, including but not limited to the following:
 
 (1) Wrecking, demolition or salvage of structures where cadmium or materials containing cadmium are present;
@@ -60,7 +58,7 @@ Link to an amendment published at 84 FR 21597, May 14, 2019.
 
 (iii) Where the employer has objective data, as defined in paragraph (n)(2) of this section, demonstrating that employee exposure to cadmium will not exceed airborne concentrations at or above the action level under the expected conditions of processing, use, or handling, the employer may rely upon such data instead of implementing initial monitoring.
 
-(iv) Where a determination conducted under paragraphs (d)(1) or (d)(2) of this section is made that a potentially exposed employee is not exposed to airborne concentrations of cadmium at or above the action level, the employer shall make a written record of such determination. The record shall include at least the monitoring data developed under paragraphs (d)(2)(i)-(iii) of this section, where applicable, and shall also include the date of determination, and the name and social security number of each employee.
+(iv) Where a determination conducted under paragraphs (d)(1) or (d)(2) of this section is made that a potentially exposed employee is not exposed to airborne concentrations of cadmium at or above the action level, the employer shall make a written record of such determination. The record shall include at least the monitoring data developed under paragraphs (d)(2)(i)-(iii) of this section, where applicable, and shall also include the date of determination, and the name of each employee.
 
 (3) *Monitoring frequency (periodic monitoring).* (i) If the initial monitoring or periodic monitoring reveals employee exposures to be at or above the action level, the employer shall monitor at a frequency and pattern needed to assure that the monitoring results reflect with reasonable accuracy the employee's typical exposure levels, given the variability in the tasks performed, work practices, and environmental conditions on the job site, and to assure the adequacy of respiratory selection and the effectiveness of engineering and work practice controls.
 
@@ -290,7 +288,7 @@ Link to an amendment published at 84 FR 21597, May 14, 2019.
 
 (B) A complete physical examination with emphasis on: blood pressure, the respiratory system, and the urinary system;
 
-(C) A 14 inch by 17 inch, or a reasonably standard sized posterior-anterior chest X-ray (after the initial X-ray, the frequency of chest X-rays is to be determined by the examining physician);
+(C) A 14 inch by 17 inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray (after the initial X-ray, the frequency of chest X-rays is to be determined by the examining physician);
 
 (D) Pulmonary function tests, including forced vital capacity (FVC) and forced expiratory volume at 1 second (FEV1);
 
@@ -504,7 +502,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (A) The monitoring date, shift, duration, air volume, and results in terms of an 8-hour TWA of each sample taken, and if cadmium is not detected, the detection level;
 
-(B) The name, social security number, and job classification of all employees monitored and of all other employees whose exposures the monitoring result is intended to represent, including, where applicable, a description of how it was determined that the employee's monitoring result could be taken to represent other employee's exposures;
+(B) The name and job classification of all employees monitored and of all other employees whose exposures the monitoring result is intended to represent, including, where applicable, a description of how it was determined that the employee's monitoring result could be taken to represent other employee's exposures;
 
 (C) A description of the sampling and analytical methods used and evidence of their accuracy;
 
@@ -526,7 +524,7 @@ DANGERCONTAINS CADMIUMCANCER HAZARDAVOID CREATING DUSTCAN CAUSE LUNG AND KIDNEY 
 
 (ii) The record shall include at least the following information about the employee:
 
-(A) Name, social security number, and description of duties;
+(A) Name and description of duties;
 
 (B) A copy of the physician's written opinions and of the explanation sheets for biological monitoring results;
 
@@ -574,4 +572,4 @@ Appendix F to § 1926.1127 - Nonmandatory Protocol for Biological MonitoringNote
 
 The requirements applicable to construction work under this appendix F are identical to those set forth in appendix F to § 1910.1027 of this chapter.
 
-[57 FR 42452, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21787, Apr. 23, 1993. Redesignated and amended at 59 FR 215, Jan. 3, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 31433, 31434, June 20, 1996; 63 FR 1298, Jan. 8, 1998; 70 FR 1144, Jan. 5, 2005; 71 FR 16675, Apr. 3, 2006; 71 FR 50192, Aug. 24, 2006; 73 FR 75589, Dec. 12, 2008; 76 FR 33612, June 8, 2011; 77 FR 17895, Mar. 26, 2012]
+[57 FR 42452, Sept. 14, 1992, as amended at 57 FR 49272, Oct. 30, 1992; 58 FR 21787, Apr. 23, 1993. Redesignated and amended at 59 FR 215, Jan. 3, 1994; 61 FR 5510, Feb. 13, 1996; 61 FR 31433, 31434, June 20, 1996; 63 FR 1298, Jan. 8, 1998; 70 FR 1144, Jan. 5, 2005; 71 FR 16675, Apr. 3, 2006; 71 FR 50192, Aug. 24, 2006; 73 FR 75589, Dec. 12, 2008; 76 FR 33612, June 8, 2011; 77 FR 17895, Mar. 26, 2012; 84 FR 21597, May 14, 2019]

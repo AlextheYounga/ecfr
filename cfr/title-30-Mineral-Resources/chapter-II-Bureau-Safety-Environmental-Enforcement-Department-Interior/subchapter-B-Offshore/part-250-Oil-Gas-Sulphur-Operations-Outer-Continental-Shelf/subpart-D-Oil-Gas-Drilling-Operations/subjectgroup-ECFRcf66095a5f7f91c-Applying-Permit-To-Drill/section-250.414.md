@@ -1,7 +1,5 @@
 ##### § 250.414 What must my drilling prognosis include? #####
 
-Link to an amendment published at 84 FR 21973, May 15, 2019.
-
 Your drilling prognosis must include a brief description of the procedures you will follow in drilling the well. This prognosis includes but is not limited to the following:
 
 (a) Projected plans for coring at specified depths;
@@ -16,9 +14,9 @@ Your drilling prognosis must include a brief description of the procedures you w
 
 (ii) Except as provided in paragraph (c)(2) of this section, a minimum of 0.5 pound per gallon below the lower of the casing shoe pressure integrity test or the lowest estimated fracture gradient.
 
-(2) In lieu of meeting the criteria in paragraph (c)(1)(ii) of this section, you may use an equivalent downhole mud weight as specified in your APD, provided that you submit adequate documentation (such as risk modeling data, off-set well data, analog data, seismic data) to justify the alternative equivalent downhole mud weight.
+(2) In lieu of meeting the criteria in paragraph (c)(1)(ii) of this section, you may use an equivalent downhole mud weight as specified in your APD, provided that you submit adequate documentation (such as risk modeling data, off-set well data, analog data, seismic data) to justify the alternative equivalent downhole mud weight. You may submit such justification in advance of your full APD, and BSEE may consider such justification for approval when submitted. Any such approval will be contingent upon your confirmation in the APD that your plans and the information underlying your approved justification have not changed.
 
-(3) When determining the pore pressure and lowest estimated fracture gradient for a specific interval, you must consider related off-set well behavior observations.
+(3) When determining the pore pressure and lowest estimated fracture gradient for a specific interval, you must consider related off-set and analogous well behavior observations, if available.
 
 (d) Estimated depths to the top of significant marker formations;
 
@@ -36,4 +34,4 @@ Your drilling prognosis must include a brief description of the procedures you w
 
 (k) Any additional information required by the District Manager needed to clarify or evaluate your drilling prognosis.
 
-[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26017, Apr. 29, 2016]
+[76 FR 64462, Oct. 18, 2011, as amended at 81 FR 26017, Apr. 29, 2016; 84 FR 21973, May 15, 2019]

@@ -1,7 +1,5 @@
 ##### § 1926.1101 Asbestos. #####
 
-Link to an amendment published at 84 FR 21579, May 14, 2019.
-
 (a) *Scope and application.* This section regulates asbestos exposure in all work as defined in 29 CFR 1910.12(b), including but not limited to the following:
 
 (1) Demolition or salvage of structures where asbestos is present;
@@ -758,7 +756,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (B) On initial examination, the standardized questionnaire contained in part 1 of appendix D to this section, and, on annual examination, the abbreviated standardized questionnaire contained in part 2 of appendix D to this section.
 
-(C) A physical examination directed to the pulmonary and gastrointestinal systems, including a chest roentgenogram to be administered at the discretion of the physician, and pulmonary function tests of forced vital capacity (FVC) and forced expiratory volume at one second (FEV(1)). Interpretation and classification of chest shall be conducted in accordance with appendix E to this section.
+(C) A physical examination directed to the pulmonary and gastrointestinal systems, including a 14- by 17-inch or other reasonably-sized standard film or digital posterior-anterior chest X-ray to be administered at the discretion of the physician, and pulmonary function tests of forced vital capacity (FVC) and forced expiratory volume at one second (FEV1). Classification of all chest X-rays shall be conducted in accordance with appendix E to this section.
 
 (D) Any other examinations or tests deemed necessary by the examining physician.
 
@@ -818,7 +816,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (E) Type of protective devices worn, if any; and
 
-(F) Name, social security number, and exposure of the employees whose exposures are represented.
+(F) Name and exposure of the employees whose exposures are represented.
 
 (iii) The employer shall maintain this record for at least thirty (30) years, in accordance with 29 CFR 1910.33.
 
@@ -826,7 +824,7 @@ DANGERCONTAINS ASBESTOS FIBERSAVOID CREATING DUSTCANCER AND LUNG DISEASE HAZARD
 
 (ii) The record shall include at least the following information:
 
-(A) The name and social security number of the employee;
+(A) The name of the employee;
 
 (B) A copy of the employee's medical examination results, including the medical history, questionnaire responses, results of any tests, and physician's recommendations.
 
@@ -1391,17 +1389,15 @@ Counts for the Fibers in the Figure
 |     11      |  0  |        Fiber crosses graticule twice.        |
 |     12      | 1/2 |   Although split, fiber only crosses once.   |
 
-Appendix C to § 1926.1101 [Reserved]Appendix D to § 1926.1101 - Medical Questionnaires; Mandatory
+Appendix C to § 1926.1101 [Reserved]![](/graphics/er14my19.112.gif)![](/graphics/er14my19.113.gif)![](/graphics/er14my19.114.gif)![](/graphics/er14my19.115.gif)![](/graphics/er14my19.116.gif)![](/graphics/er14my19.117.gif)![](/graphics/er14my19.118.gif)![](/graphics/er14my19.119.gif)![](/graphics/er14my19.120.gif)![](/graphics/er14my19.121.gif)![](/graphics/er14my19.122.gif)![](/graphics/er14my19.123.gif)![](/graphics/er14my19.124.gif)![](/graphics/er14my19.125.gif)![](/graphics/er14my19.126.gif)![](/graphics/er14my19.127.gif)![](/graphics/er14my19.128.gif)Appendix E to § 1926.1101 - Classification of Chest X-Rays - Mandatory
 
-This mandatory appendix contains the medical questionnaires that must be administered to all employees who are exposed to asbestos above the permissible exposure limit, and who will therefore be included in their employer's medical surveillance program. part 1 of the appendix contains the Initial Medical Questionnaire, which must be obained for all new hires who will be covered by the medical surveillance requirements. part 2 includes the abbreviated Periodical Medical Questionnaire, which must be administered to all employees who are provided periodic medical examinations under the medical surveillance provisions of the standard.
+(a) Chest X-rays shall be classified in accordance with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011) (incorporated by reference, see § 1926.6), and recorded on a classification form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 through 4) shall be included. This form is not to be submitted to NIOSH.
 
-![](/graphics/ec30oc91.064.gif)![](/graphics/ec30oc91.065.gif)![](/graphics/ec30oc91.066.gif)![](/graphics/ec30oc91.067.gif)![](/graphics/ec30oc91.068.gif)![](/graphics/ec30oc91.069.gif)![](/graphics/ec30oc91.070.gif)![](/graphics/ec30oc91.071.gif)![](/graphics/ec30oc91.072.gif)![](/graphics/ec30oc91.073.gif)![](/graphics/ec30oc91.074.gif)![](/graphics/ec30oc91.075.gif)Appendix E to § 1926.1101 - Interpretation and Classification of Chest Roentgenograms - Mandatory
+(b) All X-rays shall be classified only by a B-Reader, a board eligible/certified radiologist, or an experienced physician with known expertise in pneumoconioses.
 
-(a) Chest roentgenograms shall be interpreted and classified in accordance with a professionally accepted classification system and recorded on an interpretation form following the format of the CDC/NIOSH (M) 2.8 form. As a minimum, the content within the bold lines of this form (items 1 through 4) shall be included. This form is not to be submitted to NIOSH.
+(c) Whenever classifying chest X-ray film, the physician shall have immediately available for reference a complete set of the ILO standard format radiographs provided for use with the Guidelines for the use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011).
 
-(b) Roentgenograms shall be interpreted and classified only by a B-reader, a board eligible/certified radiologist, or an experienced physician with known s.
-
-(c) All interpreters, whenever interpreting chest roentgenograms made under this section, shall have immediately available for reference a complete set of the ILO-U/C International Classification of Radiographs for Pneumoconioses, 1980.
+(d) Whenever classifying digitally-acquired chest X-rays, the physician shall have immediately available for reference a complete set of ILO standard digital chest radiographic images provided for use with the Guidelines for the Use of the ILO International Classification of Radiographs of Pneumoconioses (revised edition 2011). Classification of digitally-acquired chest X-rays shall be based on the viewing of images displayed as electronic copies and shall not be based on the viewing of hard copy printed transparencies of images.
 
 Appendix F to § 1926.1101 - Work Practices and Engineering Controls for Class I Asbestos Operations (Non-Mandatory)
 
@@ -1593,9 +1589,9 @@ Epidemiological studies indicate that the risk of lung cancer among exposed work
 
 III. Signs and Symptoms of Exposure-Related Disease
 
-The signs and symptoms of lung cancer or gastrointestinal cancer induced by exposure to asbestos are not unique, except that a chest X-ray of an exposed patient with lung cancer may show pleural plaques, pleural calcification, or pleural fibrosis. Symptoms characteristic of mesothelioma include shortness of breath, pain in the walls of the chest, or abdominal pain. Mesothelioma has a much longer latency period compared with lung cancer (40 years versus 15-20 years), and mesothelioma is therefore more likely to be found among workers who were first exposed to asbestos at an early age. Mesothelioma is always fatal.
+The signs and symptoms of lung cancer or gastrointestinal cancer induced by exposure to asbestos are not unique, except that a chest X-ray of an exposed patient with lung cancer may show pleural plaques, pleural calcification, or pleural fibrosis, and may also show asbestosis (*i.e.,* small irregular parenchymal opacities). Symptoms characteristic of mesothelioma include shortness of breath, pain in the chest or abdominal pain. Mesothelioma has a much longer average latency period compared with lung cancer (40 years versus 15-20 years), and mesothelioma is therefore more likely to be found among workers who were first exposed to asbestos at an early age. Mesothelioma is a fatal disease.
 
-Asbestosis is pulmonary tibrosis caused by the accumulation of asbestos fibers in the lungs. Symptoms include shortness of breath, coughing, fatigue, and vague feelings of sickness. When the fibrosis worsens, shortness of breath occurs even at rest. The diagnosis of asbestosis is based on a history of exposure to asbestos, the presence of characteristics radiologic changes, end-inspiratory crackles (rales), and other clinical features of fibrosing lung disease. Pleural plaques and thickening are observed on X-rays taken during the early stages of the disease. Asbestosis is often a progressive disease even in the absence of continued exposure, although this appears to be a highly individualized characteristic. In severe cases, death may be caused by respiratory or cardiac failure.
+Asbestosis is pulmonary fibrosis caused by the accumulation of asbestos fibers in the lungs. Symptoms include shortness of breath, coughing, fatigue, and vague feelings of sickness. When the fibrosis worsens, shortness of breath occurs even at rest. The diagnosis of asbestosis is most commonly based on a history of exposure to asbestos, the presence of characteristic radiologic abnormalities, end-inspiratory crackles (rales), and other clinical features of fibrosing lung disease. Pleural plaques and thickening may be observed on chest X-rays. Asbestosis is often a progressive disease even in the absence of continued exposure, although this appears to be a highly individualized characteristic. In severe cases, death may be caused by respiratory or cardiac failure.
 
 IV. Surveillance and Preventive Considerations
 
@@ -1609,7 +1605,7 @@ Although broad latitude is given to the physician in prescribing specific tests 
 
 (ii) Completion of the respiratory disease questionnaire contained in appendix D.
 
-(iii) A physical examination including a chest roentgenogram and pulmonary function test that includes measurement of the employee's forced vital capacity (FVC) and forced expiratory volume at one second (FEV1).
+(iii) A physical examination including a chest X-ray and pulmonary function test that includes measurement of the employee's forced vital capacity (FVC) and forced expiratory volume at one second (FEV1).
 
 (iv) Any laboratory or other test that the examining physician deems by sound medical practice to be necessary.
 

@@ -1,7 +1,5 @@
 ##### § 1926.200 Accident prevention signs and tags. #####
 
-Link to an amendment published at 84 FR 21577, May 14, 2019.
-
 (a) *General.* Signs and symbols required by this subpart shall be visible at all times when work is being performed, and shall be removed or covered promptly when the hazards no longer exist.
 
 (b) *Danger signs.* (1) Danger signs shall be used only where an immediate hazard exists, and shall follow the specifications illustrated in Figure 1 of ANSI Z35.1-1968 or in Figures 1 to 13 of ANSI Z535.2-2011, incorporated by reference in § 1926.6.
@@ -22,9 +20,9 @@ Link to an amendment published at 84 FR 21577, May 14, 2019.
 
 (f) *Directional signs.* Directional signs, other than automotive traffic signs specified in paragraph (g) of this section, shall be white with a black panel and a white directional symbol. Any additional wording on the sign shall be black letters on the white background.
 
-(g) *Traffic signs.* (1) Construction areas shall be posted with legible traffic signs at points of hazard.
+(g) *Traffic control signs and devices.* (1) At points of hazard, construction areas shall be posted with legible traffic control signs and protected by traffic control devices.
 
-(2) All traffic control signs or devices used for protection of construction workers shall conform to Part VI of the MUTCD, 1988 Edition, Revision 3, or Part VI of the MUTCD, Millennium Edition, incorporated by reference in § 1926.6.
+(2) The design and use of all traffic control devices, including signs, signals, markings, barricades, and other devices, for protection of construction workers shall conform to Part 6 of the MUTCD (incorporated by reference, see § 1926.6).
 
 (h) *Accident prevention tags.* (1) Accident prevention tags shall be used as a temporary means of warning employees of an existing hazard, such as defective tools, equipment, etc. They shall not be used in place of, or as a substitute for, accident prevention signs.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 84 FR 21577, May 14, 2019.
 
 (i) *Additional rules.* ANSI Z35.1-1968, ANSI Z535.2-2011, ANSI Z35.2-1968, and ANSI Z535.5-2011, incorporated by reference in § 1926.6, contain rules in addition to those specifically prescribed in this subpart. The employer shall comply with ANSI Z35.1-1968 or ANSI Z535.2-2011, and ANSI Z35.2-1968 or Z535.5-2011, with respect to such additional rules.
 
-[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 58 FR 35173, June 30, 1993; 67 FR 57736, Sept. 12, 2002; 69 FR 18803, Apr. 9, 2004; 78 FR 35567, June 13, 2013; 78 FR 66642, Nov. 6, 2013]
+[44 FR 8577, Feb. 9, 1979; 44 FR 20940, Apr. 6, 1979, as amended at 58 FR 35173, June 30, 1993; 67 FR 57736, Sept. 12, 2002; 69 FR 18803, Apr. 9, 2004; 78 FR 35567, June 13, 2013; 78 FR 66642, Nov. 6, 2013; 84 FR 21577, May 14, 2019]

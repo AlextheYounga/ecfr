@@ -1,7 +1,5 @@
 ##### § 1910.1051 1,3-Butadiene. #####
 
-Link to an amendment published at 84 FR 21527, May 14, 2019.
-
 (a) *Scope and application.* (1) This section applies to all occupational exposures to 1,3-Butadiene (BD), Chemical Abstracts Service Registry No. 106-99-0, except as provided in paragraph (a)(2) of this section.
 
 (2)(i) Except for the recordkeeping provisions in paragraph (m)(1) of this section, this section does not apply to the processing, use, or handling of products containing BD or to other work operations and streams in which BD is present where objective data are reasonably relied upon that demonstrate the work operation or the product or the group of products or operations to which it belongs may not reasonably be foreseen to release BD in airborne concentrations at or above the action level or in excess of the STEL under the expected conditions of processing, use, or handling that will cause the greatest possible release or in any plausible accident.
@@ -947,4 +945,4 @@ The peak which elutes just before BD is a reaction product between an impurity o
 
 *5.3.* Hawley, G.C., Ed. “The Condensed Chemical Dictionary”, 8th ed.; Van Nostrand Rienhold Company: New York, 1971; 139.5.4. *Chem. Eng. News* (June 10, 1985), (63), 22-66.
 
-Appendix E to § 1910.1051 [Reserved]Appendix F to § 1910.1051 - Medical Questionnaires (Non-Mandatory)![](/graphics/er04no96.003.gif)![](/graphics/er04no96.004.gif)![](/graphics/er04no96.005.gif)![](/graphics/er04no96.006.gif)![](/graphics/er04no96.007.gif)![](/graphics/er04no96.008.gif)![](/graphics/er04no96.009.gif)![](/graphics/er04no96.010.gif)[61 FR 56831, Nov. 4, 1996, as amended at 63 FR 1294, Jan. 8, 1998; 67 FR 67965, Nov. 7, 2002; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16674, Apr. 3, 2006; 73 FR 75587, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013]
+Appendix E to § 1910.1051 [Reserved]![](/graphics/er14my19.066.gif)![](/graphics/er14my19.067.gif)![](/graphics/er14my19.068.gif)![](/graphics/er14my19.069.gif)![](/graphics/er14my19.070.gif)![](/graphics/er14my19.071.gif)![](/graphics/er14my19.072.gif)![](/graphics/er14my19.073.gif)![](/graphics/er14my19.074.gif)![](/graphics/er14my19.075.gif)![](/graphics/er14my19.077.gif)![](/graphics/er14my19.078.gif)![](/graphics/er14my19.079.gif)![](/graphics/er14my19.080.gif)![](/graphics/er14my19.081.gif)![](/graphics/er14my19.082.gif)![](/graphics/er14my19.083.gif)[61 FR 56831, Nov. 4, 1996, as amended at 63 FR 1294, Jan. 8, 1998; 67 FR 67965, Nov. 7, 2002; 70 FR 1143, Jan. 5, 2005; 71 FR 16672, 16674, Apr. 3, 2006; 73 FR 75587, Dec. 12, 2008; 76 FR 33609, June 8, 2011; 77 FR 17785, Mar. 26, 2012; 78 FR 9313, Feb. 8, 2013; 84 FR 21527, May 14, 2019]

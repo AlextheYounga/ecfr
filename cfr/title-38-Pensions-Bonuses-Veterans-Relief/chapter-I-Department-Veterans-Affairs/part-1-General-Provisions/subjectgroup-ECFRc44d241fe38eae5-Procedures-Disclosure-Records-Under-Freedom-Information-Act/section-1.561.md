@@ -36,7 +36,7 @@
 
 (d) *Fees to be charge.d* The following fees will be used when calculating the fee owed pursuant to a request or appeal. The fees also apply to making documents available for public inspection and copying under § 1.553 of this part.
 
-(1) *Search* - (i) *Search fees.* When a FOIA Officer determines that a search fee applies, the fee will be based on the hourly salary of VA personnel performing the search, plus 16 percent of the salary. The type and number of personnel involved in addressing the request or appeal depends on the nature and complexity of the request and responsive records. Fees are charged in quarter hour increments.
+(1) *Search*—(i) *Search fees.* When a FOIA Officer determines that a search fee applies, the fee will be based on the hourly salary of VA personnel performing the search, plus 16 percent of the salary. The type and number of personnel involved in addressing the request or appeal depends on the nature and complexity of the request and responsive records. Fees are charged in quarter hour increments.
 
 (ii) *Computer search.* In cases where a computer search is required, the requester will be charged the direct costs of conducting the search, although certain requesters (as provided in paragraph (e)(1) of this section) will be charged no search fee and certain other requesters (as provided in paragraph (e)(4) of this section) will be entitled to the cost of 2 hours of employee search time without charge. When a computer search is required, VA will combine the hourly cost of operating the computer with the employee's salary, plus 16 percent of the salary. When the cost of the search (including the employee time, to include the cost of developing a search methodology, and the cost of the computer to process a request) equals the dollar amount of 2 hours of the salary of the employee performing the search, VA will begin to assess charges for a computer search.
 
@@ -96,7 +96,7 @@ VA will charge fees consistent with the salary scale published by the Office of 
 
 (k) *Aggregating requests.* Whenever a FOIA Officer reasonably believes that a requester or group of requesters acting together is attempting to divide a request into a series of requests for the purpose of avoiding fees, the FOIA Officer may aggregate those requests and charge accordingly. FOIA Officers may presume that multiple requests of this type made within a 30-day period have been made in order to avoid fees. Where requests are separated by a longer period, the FOIA Officer will aggregate them only where there exists a solid basis for determining that aggregation is warranted under all the circumstances involved. Multiple requests involving unrelated matters will not be aggregated.
 
-(l) *Advance payments.* (1) For requests other than those described in paragraphs (l)(2) and (l)(3) of this section, a FOIA Officer shall not require the requester to make an advance payment - in other words, a payment made before work is begun or continued on a request. Payment owed for work already completed (*i.e.,* a prepayment before copies are sent to the requester) is not an advance payment.
+(l) *Advance payments.* (1) For requests other than those described in paragraphs (l)(2) and (l)(3) of this section, a FOIA Officer shall not require the requester to make an advance payment—in other words, a payment made before work is begun or continued on a request. Payment owed for work already completed (*i.e.,* a prepayment before copies are sent to the requester) is not an advance payment.
 
 (2) Where a FOIA Officer determines or estimates that a total fee to be charged under this section will be more than $250.00, the FOIA Officer may require the requester to make an advance payment of an amount up to the amount of the entire anticipated fee before beginning to process the request.
 
@@ -140,4 +140,4 @@ VA will charge fees consistent with the salary scale published by the Office of 
 
 (8) When considering a request for fee waiver, VA may require proof of identity.
 
-[76 FR 51895, Aug. 19, 2011, as amended at 84 FR 12128, Apr. 1, 2019]
+[76 FR 51895, Aug. 19, 2011, as amended at 84 FR 12128, Apr. 1, 2019; 84 FR 14874, Apr. 12, 2019]

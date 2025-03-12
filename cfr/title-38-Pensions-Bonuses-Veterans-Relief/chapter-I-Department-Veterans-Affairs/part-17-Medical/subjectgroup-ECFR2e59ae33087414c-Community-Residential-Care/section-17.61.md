@@ -1,5 +1,7 @@
 ##### § 17.61 Eligibility. #####
 
+Link to an amendment published at 84 FR 33696, July 15, 2019.
+
 VA health care personnel may assist a veteran by referring such veteran for placement in a privately or publicly-owned community residential care facility if:
 
 (a) At the time of initiating the assistance:

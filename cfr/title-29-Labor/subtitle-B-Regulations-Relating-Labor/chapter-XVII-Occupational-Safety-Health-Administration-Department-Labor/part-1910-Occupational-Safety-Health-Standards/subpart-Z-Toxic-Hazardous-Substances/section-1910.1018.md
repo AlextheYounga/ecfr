@@ -1,7 +1,5 @@
 ##### § 1910.1018 Inorganic arsenic. #####
 
-Link to an amendment published at 84 FR 21476, May 14, 2019.
-
 (a) *Scope and application.* This section applies to all occupational exposures to inorganic arsenic except that this section does not apply to employee exposures in agriculture or resulting from pesticide application, the treatment of wood with preservatives or the utilization of arsenically preserved wood.
 
 (b) *Definitions. Action level* means a concentration of inorganic arsenic of 5 micrograms per cubic meter of air (5 µg/m3) averaged over any eight (8) hour period.
@@ -188,15 +186,15 @@ CAUTION: Clothing contaminated with inorganic arsenic; do not remove dust by blo
 
 (ii) A medical examination which shall include at least the following:
 
-(A) A standard posterior-anterior chest x-ray;
+(A) A standard film or digital posterior-anterior chest x-ray;
 
 (B) A nasal and skin examination; and
 
 (C) Other examinations which the physician believes appropriate because of the employees exposure to inorganic arsenic or because of required respirator use.
 
-(3) *Periodic examinations.* (i) Examinations must be provided in accordance with this paragraph at least annually.
+(3) *Periodic examinations.* (i) Examinations must be provided in accordance with paragraphs (n)(2)(i) and (n)(2)(ii)(B) and (C) of this section at least annually.
 
-(ii) Whenever a covered employee has not taken the examinations specified in paragraphs (n)(2)(i) and (n)(2)(ii) of this section within six (6) months preceding the termination of employment, the employer shall provide such examinations to the employee upon termination of employment.
+(ii) Whenever a covered employee has not taken the examinations specified in paragraphs (n)(2)(i) and (n)(2)(ii)(B) and (C) of this section within six (6) months preceding the termination of employment, the employer shall provide such examinations to the employee upon termination of employment.
 
 (4) *Additional examinations.* If the employee for any reason develops signs or symptoms commonly associated with exposure to inorganic arsenic the employer shall provide an appropriate examination and emergency medical treatment.
 
@@ -368,7 +366,7 @@ Your employer is required to post warning signs and labels for your protection. 
 
 vi. medical examinations
 
-If your exposure to arsenic is over the Action Level (5 μg/m3) - (including all persons working in regulated areas) at least 30 days per year, or you have been exposed to arsenic for more than 10 years over the Action Level, your employer is required to provide you with a medical examination. The examination shall be every 6 months for employees over 45 years old or with more than 10 years exposure over the Action Level and annually for other covered employees. The medical examination must include a medical history; a chest x-ray; a skin examination and a nasal examination. The examining physician will provide a written opinion to your employer containing the results of your medical exams. You should also receive a copy of this opinion. The physician must not tell your employer any conditions he detects unrelated to occupational exposure to arsenic but must tell you those conditions.
+If your exposure to arsenic is over the Action Level (5 µg/m3) - (including all persons working in regulated areas) at least 30 days per year, or you have been exposed to arsenic for more than 10 years over the Action Level, your employer is required to provide you with a medical examination. The examination shall be every 6 months for employees over 45 years old or with more than 10 years exposure over the Action Level and annually for other covered employees. The medical examination must include a medical history; a chest X-ray (during initial examination only); skin examination and a nasal examination. The examining physician will provide a written opinion to your employer containing the results of the medical exams. You should also receive a copy of this opinion. The physician must not tell your employer any conditions he detects unrelated to occupational exposure to arsenic but must tell you those conditions.
 
 vii. observation of monitoring
 
@@ -444,6 +442,24 @@ Appendix C to § 1910.1018 - Medical Surveillance GuidelinesI. General
 
 Medical examinations are to be provided for all employees exposed to levels of inorganic arsenic above the action level (5 µg/m3) for at least 30 days per year (which would include among others, all employees, who work in regulated areas). Examinations are also to be provided to all employees who have had 10 years or more exposure above the action level for more than 30 days per year while working for the present or predecessor employer though they may no longer be exposed above the level.
 
+An initial medical examination is to be provided to all such employees by December 1, 1978. In addition, an initial medical examination is to be provided to all employees who are first assigned to areas in which worker exposure will probably exceed 5 µg/m3 (after August 1, 1978) at the time of initial assignment. In addition to its immediate diagnostic usefulness, the initial examination will provide a baseline for comparing future test results. The initial examination must include as a minimum the following elements:
+
+(1) A work and medical history, including a smoking history, and presence and degree of respiratory symptoms such as breathlessness, cough, sputum production, and wheezing;
+
+(2) A 14″ by 17″ or other reasonably-sized standard film or digital posterior-anterior chest X-ray;
+
+(3) A nasal and skin examination; and
+
+(4) Other examinations which the physician believes appropriate because of the employee's exposure to inorganic arsenic or because of required respirator use.
+
+Periodic examinations are also to be provided to the employees listed in the first paragraph of this section. The periodic examinations shall be given annually for those covered employees 45 years of age or less with fewer than 10 years employment in areas where employee exposure exceeds the action level (5 µg/m3). Periodic examinations need not include sputum cytology or chest X-ray and only an updated medical history is required.
+
+Periodic examinations for other covered employees shall be provided every six (6) months. These examinations shall include all tests required in the initial examination, except the chest X-ray, and the medical history need only be updated.
+
+The examination contents are minimum requirements. Additional tests such as lateral and oblique X-rays or pulmonary function tests may be useful. For workers exposed to three arsenicals which are associated with lymphatic cancer, copper acetoarsenite, potassium arsenite, or sodium arsenite the examination should also include palpation of superficial lymph nodes and complete blood count.
+
+Medical examinations are to be provided for all employees exposed to levels of inorganic arsenic above the action level (5 µg/m3) for at least 30 days per year (which would include among others, all employees, who work in regulated areas). Examinations are also to be provided to all employees who have had 10 years or more exposure above the action level for more than 30 days per year while working for the present or predecessor employer though they may no longer be exposed above the level.
+
 An initial medical examination is to be provided to all such employees by December 1, 1978. In addition, an initial medical examination is to be provided to all employees who are first assigned to areas in which worker exposure will probably exceed 5 µg/m3 (after the effective date of this standard) at the time of initial assignment. In addition to its immediate diagnostic usefulness, the initial examination will provide a baseline for comparing future test results. The initial examination must include as a minimum the following elements:
 
 (1) A work and medical history, including a smoking history, and presence and degree of respiratory symptoms such as breathlessness, cough, sputum production, and wheezing;
@@ -498,4 +514,4 @@ Pinto, S. S., and K. W. Nelson. 1976. Arsenic toxicology and industrial exposure
 
 Vallee, B. L., D. D. Ulmer, and W. E. C. Wacker. 1960. Arsenic toxicology and biochemistry. AMA Arch. Indust. Health 21:132.
 
-[39 FR 23502, June 27, 1974, as amended at 43 FR 19624, May 5, 1978; 43 FR 28472, June 30, 1978; 45 FR 35282, May 23, 1980; 54 FR 24334, June 7, 1989; 58 FR 35310, June 30, 1993; 61 FR 5508, Feb. 13, 1996; 61 FR 9245, Mar. 7, 1996; 63 FR 1286, Jan. 8, 1998; 63 FR 33468, June 18, 1998; 70 FR 1141, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17780, Mar. 26, 2012]
+[39 FR 23502, June 27, 1974, as amended at 43 FR 19624, May 5, 1978; 43 FR 28472, June 30, 1978; 45 FR 35282, May 23, 1980; 54 FR 24334, June 7, 1989; 58 FR 35310, June 30, 1993; 61 FR 5508, Feb. 13, 1996; 61 FR 9245, Mar. 7, 1996; 63 FR 1286, Jan. 8, 1998; 63 FR 33468, June 18, 1998; 70 FR 1141, Jan. 5, 2005; 71 FR 16672, 16673, Apr. 3, 2006; 71 FR 50189, Aug. 24, 2006; 73 FR 75585, Dec. 12, 2008; 76 FR 33608, June 8, 2011; 77 FR 17780, Mar. 26, 2012; 84 FR 21470, May 14, 2019]
