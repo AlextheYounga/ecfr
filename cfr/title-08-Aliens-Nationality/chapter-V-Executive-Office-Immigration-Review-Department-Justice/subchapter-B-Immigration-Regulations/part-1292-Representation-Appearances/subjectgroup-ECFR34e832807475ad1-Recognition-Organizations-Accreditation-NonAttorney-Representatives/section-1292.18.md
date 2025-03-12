@@ -1,6 +1,6 @@
 ##### § 1292.18 Administrative review of denied requests for reconsideration. #####
 
-(a) *Authority of the Director.* The Director has the discretionary authority to review a request for reconsideration pursuant to § 1292.13(e), § 1292.16(f), or § 1292.17(d) that has been denied. The Director may delegate this authority to any officer within EOIR, except the Assistant Director for Policy (or the Assistant Director for Policy's delegate).
+(a) *Authority of the Director.* The Director has the discretionary authority to review a request for reconsideration pursuant to § 1292.13(e), § 1292.16(f), or § 1292.17(d) that has been denied.
 
 (1) An organization whose request for reconsideration pursuant to § 1292.13(e), § 1292.16(f), or § 1292.17(d) has been denied may request administrative review from the Director within ten (10) days of the denial, identifying the alleged factual or legal errors in the underlying determination. The request for administrative review shall be submitted to the Assistant Director for Policy (or the Assistant Director for Policy's delegate), who will forward the request to the Director.
 
@@ -14,4 +14,4 @@
 
 (d) *Decisions as precedents.* The Director, in his discretion, may cause reconsideration decisions by the OLAP Director pursuant to § 1292.13(e), § 1292.16(f), or § 1292.17(d), or decisions by the Director pursuant to this section to be published as precedents in the same manner as decisions of the Board and the Attorney General. Such decisions by the OLAP Director, except as overruled by the Director, and such decisions by the Director, except as overruled by the Attorney General, will serve as precedents in all proceedings under part 1292 involving the same issue or issues.
 
-[81 FR 92367, Dec. 19, 2016, as amended at 84 FR 44542, Aug. 26, 2019; 84 FR 31470, July 2, 2019]
+[81 FR 92367, Dec. 19, 2016, as amended at 84 FR 44542, Aug. 26, 2019; 84 FR 31470, July 2, 2019; 85 FR 69482, Nov. 3, 2020]

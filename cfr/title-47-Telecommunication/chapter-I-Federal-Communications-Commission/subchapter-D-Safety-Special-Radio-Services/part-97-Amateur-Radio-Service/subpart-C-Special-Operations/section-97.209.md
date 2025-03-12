@@ -1,6 +1,6 @@
 ##### § 97.209 Earth station. #####
 
-Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
+Link to an amendment published at 85 FR 64068, Oct. 9, 2020.Link to a correction published at 85 FR 69515, Nov. 3, 2020.
 
 (a) Any amateur station may be an Earth station. A holder of any class operator license may be the control operator of an Earth station, subject to the privileges of the class of operator license held by the control operator.
 

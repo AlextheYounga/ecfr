@@ -1,0 +1,27 @@
+##### § 210.26 Data collection and delivery efforts by digital music providers and musical work copyright owners. #####
+
+(a) *General.* This section prescribes rules under which digital music providers and musical work copyright owners shall engage in efforts to collect and provide information to the mechanical licensing collective that may assist the collective in matching musical works to sound recordings embodying those works and identifying and locating the copyright owners of those works.
+
+(b) *Digital music providers.* (1)(i) Pursuant to 17 U.S.C. 115(d)(4)(B), in addition to obtaining sound recording names and featured artists and providing them in reports of usage, a digital music provider operating under a blanket license shall engage in good-faith, commercially reasonable efforts to obtain from sound recording copyright owners and other licensors of sound recordings made available through the service(s) of such digital music provider the information belonging to the categories identified in § 210.27(e)(1)(i)(E) and (e)(1)(ii), without regard to any limitations that may apply to the reporting of such information in reports of usage. Such efforts must be undertaken periodically, and be specific and targeted to obtaining information not previously obtained from the applicable owner or other licensor for the specific sound recordings and musical works embodied therein for which the digital music provider lacks such information. Such efforts must also solicit updates for any previously obtained information if reasonably requested by the mechanical licensing collective. The digital music provider shall keep the mechanical licensing collective reasonably informed of the efforts it undertakes pursuant to this section.
+
+(ii) Any information required by paragraph (b)(1)(i) of this section, including any updates to such information, provided to the digital music provider by sound recording copyright owners or other licensors of sound recordings (or their representatives) shall be delivered to the mechanical licensing collective in reports of usage in accordance with § 210.27(e).
+
+(2)(i) Notwithstanding paragraph (b)(1) of this section, a digital music provider may satisfy its obligations under 17 U.S.C. 115(d)(4)(B) with respect to a particular sound recording by arranging, or collectively arranging with others, for the mechanical licensing collective to receive the information required by paragraph (b)(1)(i) of this section from an authoritative source of sound recording information, such as the collective designated by the Copyright Royalty Judges to collect and distribute royalties under the statutory licenses established in 17 U.S.C. 112 and 114, provided that:
+
+(A) Such arrangement requires such source to inform, including through periodic updates, the digital music provider and mechanical licensing collective about any relevant gaps in its repertoire coverage known to such source, including but not limited to particular categories of information identified in § 210.27(e)(1)(i)(E) and (e)(1)(ii), sound recording copyright owners and/or other licensors of sound recordings (*e.g.,* labels, distributors), genres, and/or countries of origin, that are either not covered or materially underrepresented as compared to overall market representation; and
+
+(B) Such digital music provider does not have actual knowledge or has not been notified by the source, the mechanical licensing collective, or a copyright owner, licensor, or author (or their respective representatives, including by an administrator or a collective management organization) of the relevant sound recording or musical work that is embodied in such sound recording, that the source lacks such information for the relevant sound recording or a set of sound recordings encompassing such sound recording.
+
+(ii) Satisfying the requirements of 17 U.S.C. 115(d)(4)(B) in the manner set out in paragraph (b)(2)(i) of this section does not excuse a digital music provider from having to report sound recording and musical work information in accordance with § 210.27(e).
+
+(3) The requirements of paragraph (b) of this section are without prejudice to what a court of competent jurisdiction may determine constitutes good-faith, commercially reasonable efforts for purposes of eligibility for the limitation on liability described in 17 U.S.C. 115(d)(10).
+
+(c) *Musical work copyright owners.* (1) Pursuant to 17 U.S.C. 115(d)(3)(E)(iv), each musical work copyright owner with any musical work listed in the musical works database shall engage in commercially reasonable efforts to deliver to the mechanical licensing collective, including for use in the musical works database, by providing, to the extent a musical work copyright owner becomes aware that such information is not then available in the database and to the extent the musical work copyright owner has such missing information, information regarding the names of the sound recordings in which that copyright owner's musical works (or shares thereof) are embodied, to the extent practicable.
+
+(2) As used in paragraph (c)(1) of this section, “information regarding the names of the sound recordings” shall include, for each applicable sound recording:
+
+(i) Sound recording name(s), including any alternative or parenthetical titles for the sound recording;
+
+(ii) Featured artist(s); and
+
+(iii) ISRC(s).
