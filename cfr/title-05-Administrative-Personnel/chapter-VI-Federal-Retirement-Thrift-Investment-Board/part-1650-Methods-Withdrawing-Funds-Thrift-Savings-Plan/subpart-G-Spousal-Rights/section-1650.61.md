@@ -12,8 +12,8 @@
 
 (3) A spouse must consent to any change in the amount or frequency of an existing installment payment series and waive his or her right to this annuity with respect to the applicable amount. Spousal consent is not required to stop installment payments.
 
-(4) Unless the TSP granted the participant an exception under this subpart to the spousal notification requirement within 90 days of the date the withdrawal form is processed by the TSP, to show that the spouse has consented to a different total or partial withdrawal election or installment payment change and waived the right to this annuity with respect to the applicable amount, the participant must submit to the TSP record keeper a properly completed withdrawal request form, signed by his or her spouse in the presence of a notary. If the TSP granted the participant an exception to the signature requirement, the participant should enclose a copy of the TSP's approval letter with the withdrawal form.
+(4) Unless the TSP granted the participant an exception under this subpart to the spousal notification requirement within 90 days of the date the withdrawal form is processed by the TSP, to show that the spouse has consented to a different total or partial withdrawal election or installment payment change and waived the right to this annuity with respect to the applicable amount, the participant must submit to the TSP record keeper a properly completed withdrawal request form, signed by his or her spouse. If the TSP granted the participant an exception to the signature requirement, the participant should enclose a copy of the TSP's approval letter with the withdrawal form.
 
 (5) The spouse's consent and waiver is irrevocable for the applicable withdrawal or installment payment change once the TSP record keeper has received it.
 
-[84 FR 46422, Sept. 4, 2019]
+[84 FR 46422, Sept. 4, 2019, as amended by 85 FR 21312, Apr. 17, 2020]

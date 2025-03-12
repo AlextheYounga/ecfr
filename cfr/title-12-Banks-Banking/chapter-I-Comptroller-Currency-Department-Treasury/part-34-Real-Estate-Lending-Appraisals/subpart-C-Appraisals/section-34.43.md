@@ -58,4 +58,10 @@
 
 (e) *Transactions requiring either a State certified or licensed appraiser.* All appraisals for federally related transactions not requiring the services of a State certified appraiser shall be prepared by either a State certified appraiser or a State licensed appraiser.
 
-[55 FR 34696, Aug. 24, 1990, as amended at 57 FR 12202, Apr. 9, 1992; 59 FR 29499, June 7, 1994; 79 FR 28400, May 16, 2014; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019; 84 FR 53597, Oct. 8, 2019]
+(f) *Deferrals of appraisals and evaluations for certain residential and commercial transactions* - (1) *120-day grace period.* The completion of appraisals and evaluations required under paragraphs (a) and (b) of this section may be deferred up to 120 days from the date of closing.
+
+(2) *Covered transactions.* The deferrals authorized under paragraph (f)(1) of this section apply to all residential and commercial real estate-secured transactions, excluding transactions for acquisition, development, and construction of real estate.
+
+(3) *Sunset.* The appraisal and evaluation deferrals authorized by this paragraph (f) will expire for transactions closing after December 31, 2020.
+
+[55 FR 34696, Aug. 24, 1990, as amended at 57 FR 12202, Apr. 9, 1992; 59 FR 29499, June 7, 1994; 79 FR 28400, May 16, 2014; 83 FR 15035, Apr. 9, 2018; 84 FR 53597, Oct. 8, 2019; 84 FR 53597, Oct. 8, 2019; 85 FR 21317, Apr. 17, 2020]Effective Date Note:At 85 FR 21317, Apr. 17, 2020, § 34.43 was amended by adding paragraph (f), effective until Dec. 31, 2020.

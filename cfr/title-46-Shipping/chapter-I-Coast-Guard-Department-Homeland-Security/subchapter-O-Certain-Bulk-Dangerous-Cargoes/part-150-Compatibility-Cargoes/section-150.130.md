@@ -1,5 +1,7 @@
 ##### § 150.130 Loading a cargo on vessels carrying cargoes with which it is incompatible. #####
 
+Link to an amendment published at 85 FR 21674, Apr. 17, 2020.
+
 Except as described in § 150.160, the person in charge of a vessel shall ensure that the containment system for a cargo that is a hazardous material meets the following requirements:
 
 (a) The containment system must separate the hazardous material or its residue from any cargo in table I with which it is incompatible by two barriers such as formed by a:
