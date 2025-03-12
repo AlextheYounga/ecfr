@@ -1,5 +1,7 @@
 ##### 1552.219-70 Mentor-Protégé Program. #####
 
+Link to an amendment published at 83 FR 28774, June 21, 2018.
+
 As prescribed in 1519.203(a), insert the following clause:
 
 Mentor-Protégé Program (SEP 2017)

@@ -112,13 +112,11 @@
 
 (A) The type of operation the driver self-certified that he or she will perform in accordance with § 383.71(b)(1) of this chapter.
 
-(B)(*1*) Beginning on May 21, 2014, and ending on June 22, 2018, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
+(B)(*1*) Beginning on May 21, 2014, and through June 21, 2021, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
 
 (*2*) If the driver has certified under paragraph (m)(2)(i)(A) of this section that he or she expects to operate in interstate commerce, that the driver has a valid medical examiner's certificate and any required medical variances.
 
-(C) *Exception.* Beginning on January 30, 2015 and until June 22, 2018, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(b)(5) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
-
-(ii) Until January 30, 2015, if a driver operating in non-excepted, interstate commerce has no medical certification status information on the CDLIS MVR obtained from the current State driver licensing agency, the employing motor carrier may accept a medical examiner's certificate issued to that driver, and place a copy of it in the driver qualification file before allowing the driver to operate a CMV in interstate commerce.
+(C) *Exception.* Beginning on January 30, 2015, and through June 21, 2021, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(b)(5) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
 
 (3) *Exception.* For drivers required to have a commercial learner's permit under part 383 of this chapter:
 
@@ -126,12 +124,14 @@
 
 (A) The type of operation the driver self-certified that he or she will perform in accordance with § 383.71(b)(1) and (g) of this chapter.
 
-(B)(*1*) Until June 22, 2018, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
+(B)(*1*) Through June 21, 2021, that the driver was certified by a medical examiner listed on the National Registry of Certified Medical Examiners as of the date of medical examiner's certificate issuance.
 
 (*2*) If the driver has a commercial learner's permit and has certified under paragraph (m)(3)(i)(A) of this section that he or she expects to operate in interstate commerce, that the driver has a valid medical examiner's certificate and any required medical variances.
 
-(C) Until June 22, 2018, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(a)(2)(vii) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
+(C) Through June 21, 2021, if the driver provided the motor carrier with a copy of the current medical examiner's certificate that was submitted to the State in accordance with § 383.73(a)(2)(vii) of this chapter, the motor carrier may use a copy of that medical examiner's certificate as proof of the driver's medical certification for up to 15 days after the date it was issued.
 
 (ii) Until July 8, 2015, if a driver operating in non-excepted, interstate commerce has no medical certification status information on the CDLIS MVR obtained from the current State driver licensing agency, the employing motor carrier may accept a medical examiner's certificate issued to that driver, and place a copy of it in the driver qualification file before allowing the driver to operate a CMV in interstate commerce.
 
-(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016]
+(4) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
+
+(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 83 FR 28782, June 21, 2018]

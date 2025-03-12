@@ -16,9 +16,9 @@
 
 (vi) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(a)(2)(v) and proof of State of domicile specified in § 383.71(a)(2)(vi). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade or transfer of a CDL or Non-domiciled CDL for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done;
 
-(vii)(A) Before June 22, 2018, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if the CLP applicant submits a current medical examiner's certificate, date-stamp the medical examiner's certificate, and post all required information from the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
+(vii)(A) Before June 22, 2021, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if the CLP applicant submits a current medical examiner's certificate, date-stamp the medical examiner's certificate, and post all required information from the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
 
-(B) On or after June 22, 2018, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if FMCSA provides current medical examiner's certificate information electronically, post all required information matching the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
+(B) On or after June 22, 2021, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if FMCSA provides current medical examiner's certificate information electronically, post all required information matching the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
 
 (b) *Initial CDL.* Prior to issuing a CDL to a person, a State must:
 
@@ -46,9 +46,9 @@
 
 (4) Require the driver applicant to surrender his/her non-CDL driver's license and CLP;
 
-(5)(i) Before June 22, 2018, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if the CDL holder submits a current medical examiner's certificate, date-stamp the medical examiner's certificate and post all required information from the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
+(5)(i) Before June 22, 2021, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if the CDL holder submits a current medical examiner's certificate, date-stamp the medical examiner's certificate and post all required information from the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
 
-(ii) On or after June 22, 2018, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if FMCSA provides current medical examiner's certificate information electronically, post all required information matching the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
+(ii) On or after June 22, 2021, for drivers who certified their type of driving according to § 383.71(b)(1)(i) (non-excepted interstate) and, if FMCSA provides current medical examiner's certificate information electronically, post all required information matching the medical examiner's certificate to the CDLIS driver record in accordance with paragraph (o) of this section.
 
 (6) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(b)(9) and proof of State of domicile specified in § 383.71(b)(10). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade or transfer of a CDL or Non-domiciled CDL for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done;
 
@@ -172,7 +172,7 @@
 
 (iii) The person performing the record check and the person authorizing the issuance are not the same.
 
-(o) *Medical recordkeeping* - (1)(i) *Status of CLP or CDL holder.* Before June 22, 2018, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
+(o) *Medical recordkeeping* - (1)(i) *Status of CLP or CDL holder.* Before June 22, 2021, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
 
 (A) Post the driver's self-certification of type of driving under § 383.71(b)(1) to the CDLIS driver record;
 
@@ -206,7 +206,7 @@
 
 (D) Retain the original or a copy of the medical examiner's certificate of any driver required to provide documentation of physical qualification for 3 years beyond the date the certificate was issued.
 
-(ii) *Status of CLP or CDL holder.* On or after June 22, 2018, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
+(ii) *Status of CLP or CDL holder.* On or after June 22, 2021, for each operator of a commercial motor vehicle required to have a CLP or CDL, the current licensing State must:
 
 (A) Post the driver's self-certification of type of driving under § 383.71(b)(1) to the CDLIS driver record;
 
@@ -240,28 +240,30 @@
 
 (D) Retain the electronic record of the medical examiner's certificate information for any driver required to have documentation of physical qualification for 3 years beyond the date the certificate was issued.
 
-(2) *Status update.* (i) Before June 22, 2018, the State must, within 10 calendar days of the driver's medical examiner's certificate or medical variance expiring, the medical variance being rescinded or the medical examiner's certificate being voided by FMCSA, update the medical certification status of that driver as “not certified.”
+(2) *Status update.* (i) Before June 22, 2021, the State must, within 10 calendar days of the driver's medical examiner's certificate or medical variance expiring, the medical variance being rescinded or the medical examiner's certificate being voided by FMCSA, update the medical certification status of that driver as “not certified.”
 
-(ii) Beginning June 22, 2018, the State must, within 10 calendar days of the driver's medical examiner's certificate or medical variance expiring, the medical examiner's certificate becoming invalid, the medical variance being rescinded or the medical examiner's certificate being voided by FMCSA, update the medical certification status of that driver as “not certified.”
+(ii) On or after June 22, 2021, the State must, within 10 calendar days of the driver's medical examiner's certificate or medical variance expiring, the medical examiner's certificate becoming invalid, the medical variance being rescinded or the medical examiner's certificate being voided by FMCSA, update the medical certification status of that driver as “not certified.”
 
-(3) *Variance update.* (i) Before June 22, 2018, within 10 calendar days of receiving information from FMCSA regarding issuance or renewal of a medical variance for a driver, the State must update the CDLIS driver record to include the medical variance information provided by FMCSA.
+(3) *Variance update.* (i) Before June 22, 2021, within 10 calendar days of receiving information from FMCSA regarding issuance or renewal of a medical variance for a driver, the State must update the CDLIS driver record to include the medical variance information provided by FMCSA.
 
-(ii) Beginning June 22, 2018, within 1 business day of electronically receiving medical variance information from FMCSA regarding the issuance or renewal of a medical variance for a driver, the State must update the CDLIS driver record to include the medical variance information provided by FMCSA.
+(ii) On or after June 22, 2021, within 1 business day of electronically receiving medical variance information from FMCSA regarding the issuance or renewal of a medical variance for a driver, the State must update the CDLIS driver record to include the medical variance information provided by FMCSA.
 
 (4) *Downgrade.* (i) If a driver's medical certification or medical variance expires, or FMCSA notifies the State that a medical certification was invalidated or voided or a medical variance was removed or rescinded, the State must:
 
-(A)(*1*) Before June 22, 2018 notify the CLP or CDL holder of his/her CLP or CDL “not-certified” medical certification status and that the CMV privileges will be removed from the CLP or CDL unless the driver submits a current medical examiner's certificate and/or medical variance, or changes his/her self-certification to driving only in excepted or intrastate commerce (if permitted by the State);
+(A)(*1*) Before June 22, 2021, notify the CLP or CDL holder of his/her CLP or CDL “not-certified” medical certification status and that the CMV privileges will be removed from the CLP or CDL unless the driver submits a current medical examiner's certificate and/or medical variance, or changes his/her self-certification to driving only in excepted or intrastate commerce (if permitted by the State);
 
-(*2*) On or after June 22, 2018 notify the CLP or CDL holder of his/her CLP or CDL “not-certified” medical certification status and that the CMV privileges will be removed from the CLP or CDL unless the driver has been medically examined and certified in accordance with 49 CFR 391.43 as physically qualified to operate a commercial motor vehicle by a medical examiner, as defined in 49 CFR 390.5, or the driver changes his/her self-certification to driving only in excepted or intrastate commerce (if permitted by the State).
+(*2*) On or after June 22, 2021, notify the CLP or CDL holder of his/her CLP or CDL “not-certified” medical certification status and that the CMV privileges will be removed from the CLP or CDL unless the driver has been medically examined and certified in accordance with 49 CFR 391.43 as physically qualified to operate a commercial motor vehicle by a medical examiner, as defined in 49 CFR 390.5, or the driver changes his/her self-certification to driving only in excepted or intrastate commerce (if permitted by the State).
 
 (B) Initiate established State procedures for downgrading the CLP or CDL. The CLP or CDL downgrade must be completed and recorded within 60 days of the driver's medical certification status becoming “not-certified” to operate a CMV.
 
-(ii)(A) Before June 22, 2018, if a driver fails to provide the State with the certification contained in § 383.71(b)(1), or a current medical examiner's certificate if the driver self-certifies according to § 383.71(b)(1)(i) that he/she is operating in non-excepted interstate commerce as required by § 383.71(h), the State must mark that CDLIS driver record as “not-certified” and initiate a CLP or CDL downgrade following State procedures in accordance with paragraph (o)(4)(i)(B) of this section.
+(ii)(A) Before June 22, 2021, if a driver fails to provide the State with the certification contained in § 383.71(b)(1), or a current medical examiner's certificate if the driver self-certifies according to § 383.71(b)(1)(i) that he/she is operating in non-excepted interstate commerce as required by § 383.71(h), the State must mark that CDLIS driver record as “not-certified” and initiate a CLP or CDL downgrade following State procedures in accordance with paragraph (o)(4)(i)(B) of this section.
 
-(B) On or after June 22, 2018 if a driver fails to provide the State with the certification contained in § 383.71(b)(1), or, if the driver self-certifies according to § 383.71(b)(1)(i) that he/she is operating in non-excepted interstate commerce as required by § 383.71(h) and the information required by paragraph (o)(2)(ii) of this section is not received and posted, the State must mark that CDLIS driver record as “not-certified” and initiate a CLP or CDL downgrade following State procedures in accordance with paragraph (o)(4)(i)(B) of this section.
+(B) On or after June 22, 2021, if a driver fails to provide the State with the certification contained in § 383.71(b)(1), or, if the driver self-certifies according to § 383.71(b)(1)(i) that he/she is operating in non-excepted interstate commerce as required by § 383.71(h) and the information required by paragraph (o)(2)(ii) of this section is not received and posted, the State must mark that CDLIS driver record as “not-certified” and initiate a CLP or CDL downgrade following State procedures in accordance with paragraph (o)(4)(i)(B) of this section.
 
 (5) FMCSA Medical Programs is designated as the keeper of the list of State contacts for receiving medical variance information from FMCSA. Beginning January 30, 2012, States are responsible for insuring their medical variance contact information is always up-to-date with FMCSA's Medical Programs.
 
+(6) In the event of a conflict between the medical certification information provided electronically by FMCSA and a paper copy of the medical examiner's certificate, the medical certification information provided electronically by FMCSA shall control.
+
 (p) After February 7, 2020, the State must notify FMCSA that a training provider in the State does not meet applicable State requirements for CMV instruction.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016; 81 FR 88803, Dec. 8, 2016; 82 FR 2916, Jan. 10, 2017; 83 FR 22876, May 17, 2018; 83 FR 28781, June 21, 2018]
