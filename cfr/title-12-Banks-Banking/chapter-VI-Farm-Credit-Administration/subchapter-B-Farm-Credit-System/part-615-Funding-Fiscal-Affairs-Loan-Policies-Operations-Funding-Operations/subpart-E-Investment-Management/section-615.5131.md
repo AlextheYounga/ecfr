@@ -1,5 +1,7 @@
 ##### § 615.5131 Definitions. #####
 
+Link to an amendment published at 85 FR 52253, Aug. 25, 2020.
+
 For purposes of this subpart, the following definitions apply:
 
 *Asset-backed securities (ABS)* mean investment securities that provide for ownership of a fractional undivided interest or collateral interests in specific assets of a trust that are sold and traded in the capital markets. For the purposes of this subpart, ABS exclude mortgage-backed securities that are defined in this section.

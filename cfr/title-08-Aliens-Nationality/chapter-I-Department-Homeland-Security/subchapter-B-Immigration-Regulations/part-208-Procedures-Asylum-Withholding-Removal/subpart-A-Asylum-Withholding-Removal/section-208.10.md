@@ -1,7 +1,21 @@
-##### § 208.10 Failure to appear at an interview before an asylum officer or failure to follow requirements for fingerprint processing. #####
+##### § 208.10 Failure to appear for an interview before an asylum officer or for a biometric services appointment for the asylum application. #####
 
-Link to an amendment published at 85 FR 38627, June 26, 2020.
+(a) *Failure to appear for asylum interview or for a biometric services appointment.* (1) The failure to appear for an interview or biometric services appointment may result in:
 
-Failure to appear for a scheduled interview without prior authorization may result in dismissal of the application or waiver of the right to an interview. Failure to comply with fingerprint processing requirements without good cause may result in dismissal of the application or waiver of the right to an adjudication by an asylum officer. Failure to appear shall be excused if the notice of the interview or fingerprint appointment was not mailed to the applicant's current address and such address had been provided to the USCIS by the applicant prior to the date of mailing in accordance with section 265 of the Act and regulations promulgated thereunder, unless the asylum officer determines that the applicant received reasonable notice of the interview or fingerprinting appointment. Failure to appear at the interview or fingerprint appointment will be excused if the applicant demonstrates that such failure was the result of exceptional circumstances.
+(i) Waiver of the right to an interview or adjudication by an asylum officer;
 
-[63 FR 12986, Mar. 17, 1998, as amended at 76 FR 53784, Aug. 29, 2011]
+(ii) Dismissal of the application for asylum;
+
+(iii) Referral of the applicant to the immigration court; or,
+
+(iv) Denial of employment authorization.
+
+(2) There is no requirement for USCIS to send a notice to an applicant that he or she failed to appear for his or her asylum interview or biometrics services appointment prior to issuing a decision on the application. Any rescheduling request for the asylum interview that has not yet been fulfilled on the date the application for employment authorization is filed under 8 CFR 274a.12(c)(8) will be treated as an applicant-caused delay for purposes of 8 CFR 208.7.
+
+(b) *Rescheduling missed appointments.* USCIS, in its sole discretion, may excuse the failure to appear for an interview or biometrics services appointment and reschedule the missed appointment as follows:
+
+(1) *Asylum Interview.* If the applicant demonstrates that he or she was unable to make the appointment due to exceptional circumstances.
+
+(2) *Biometrics services appointment.* USCIS may reschedule the biometrics services appointment as provided in 8 CFR part 103.
+
+[85 FR 38627, June 26, 2020]

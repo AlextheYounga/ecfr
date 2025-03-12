@@ -1,5 +1,7 @@
 ##### § 5.64 Special provisions for satellite systems. #####
 
+Link to an amendment published at 85 FR 52449, Aug. 25, 2020.
+
 (a) Construction of proposed experimental satellite facilities may begin prior to Commission grant of an authorization. Such construction is entirely at the applicant's risk and does not entitle the applicant to any assurances that its proposed experiment will be subsequently approved or regular services subsequently authorized. The applicant must notify the Commission's Office of Engineering and Technology in writing that it plans to begin construction at its own risk.
 
 (b) Except where the satellite system has already been authorized by the FCC, applicants for an experimental authorization involving a satellite system must submit a description of the design and operational strategies the satellite system will use to mitigate orbital debris, including the following information:

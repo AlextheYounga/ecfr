@@ -1,7 +1,5 @@
 ##### § 208.4 Filing the application. #####
 
-Link to an amendment published at 85 FR 38626, June 26, 2020.
-
 Except as prohibited in paragraph (a) of this section, asylum applications shall be filed in accordance with paragraph (b) of this section.
 
 (a) *Prohibitions on filing.* Section 208(a)(2) of the Act prohibits certain aliens from filing for asylum on or after April 1, 1997, unless the alien can demonstrate to the satisfaction of the Attorney General that one of the exceptions in section 208(a)(2)(D) of the Act applies. Such prohibition applies only to asylum applications under section 208 of the Act and not to applications for withholding of removal under § 208.16. If an applicant files an asylum application and it appears that one or more of the prohibitions contained in section 208(a)(2) of the Act apply, an asylum officer, in an interview, or an immigration judge, in a hearing, shall review the application and give the applicant the opportunity to present any relevant and useful information bearing on any prohibitions on filing to determine if the application should be rejected. For the purpose of making determinations under section 208(a)(2) of the Act, the following rules shall apply:
@@ -50,6 +48,6 @@ Except as prohibited in paragraph (a) of this section, asylum applications shall
 
 (6) *Asylum Cooperative Agreements.* Immigration officers have authority to apply section 208(a)(2)(A) of the Act, relating to the determination that the alien may be removed to a third country pursuant to a bilateral or multilateral agreement, as provided in § 208.30(e). For provisions relating to the authority of immigration judges with respect to section 208(a)(2)(A), see 8 CFR 1240.11(g) and (h).
 
-(c) *Amending an application after filing.* Upon request of the alien and as a matter of discretion, the asylum officer or immigration judge having jurisdiction may permit an asylum applicant to amend or supplement the application, but any delay caused by such request shall extend the period within which the applicant may not apply for employment authorization in accordance with § 208.7(a).
+(c) *Amending an application after filing.* Upon the request of the alien, and as a matter of discretion, the asylum officer or immigration judge with jurisdiction may permit an asylum applicant to amend or supplement the application. Any delay in adjudication or in proceedings caused by a request to amend or supplement the application will be treated as a delay caused by the applicant for purposes of § 208.7 and 8 CFR 274a.12(c)(8).
 
-[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69488, Nov. 29, 2004; 74 FR 26937, June 5, 2009; 74 FR 55737, Oct. 28, 2009; 84 FR 64008, Nov. 19, 2019; 85 FR 29310, May 14, 2020]
+[62 FR 10337, Mar. 6, 1997, as amended at 64 FR 8488, Feb. 19, 1999; 64 FR 13881, Mar. 23, 1999; 65 FR 76131, Dec. 6, 2000; 69 FR 69488, Nov. 29, 2004; 74 FR 26937, June 5, 2009; 74 FR 55737, Oct. 28, 2009; 84 FR 64008, Nov. 19, 2019; 85 FR 29310, May 14, 2020; 85 FR 38626, June 26, 2020]

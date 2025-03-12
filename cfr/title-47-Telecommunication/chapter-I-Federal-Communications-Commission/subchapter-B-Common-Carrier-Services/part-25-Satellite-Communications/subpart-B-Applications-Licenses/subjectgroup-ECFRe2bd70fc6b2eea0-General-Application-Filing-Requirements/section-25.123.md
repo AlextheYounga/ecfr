@@ -1,5 +1,7 @@
 ##### § 25.123 Applications for streamlined small spacecraft authorization. #####
 
+Link to an amendment published at 85 FR 52452, Aug. 25, 2020.
+
 (a) This section shall only apply to applicants for space stations that will operate beyond Earth's orbit and that are able to certify compliance with the certifications set forth in paragraph (b) of this section. For applicants seeking to be authorized under this section, a comprehensive proposal for Commission evaluation must be submitted for each space station in the proposed system on FCC Form 312, Main Form and Schedule S, as described in § 25.114(a) through (c), together with the certifications described in paragraph (b) of this section and the requirements described in paragraph (c) of this section.
 
 (b) Applicants filing for authorization under the streamlined procedure described in this section must include with their applications certifications that the following criteria will be met for all space stations to be operated under the license:

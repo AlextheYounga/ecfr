@@ -1,5 +1,7 @@
 ##### § 621.2 Definitions. #####
 
+Link to an amendment published at 85 FR 52253, Aug. 25, 2020.
+
 For the purposes of this part, the following definitions shall apply:
 
 (a) *Accounts and exposures* means data related to any loan, lease, letter of credit, derivative, or, any other asset, liability, other balance sheet account, or off-balance-sheet exposure of a System institution.

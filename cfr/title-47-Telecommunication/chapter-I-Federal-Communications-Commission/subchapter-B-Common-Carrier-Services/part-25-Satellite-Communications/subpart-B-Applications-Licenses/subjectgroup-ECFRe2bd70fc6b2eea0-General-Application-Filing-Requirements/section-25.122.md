@@ -1,5 +1,7 @@
 ##### § 25.122 Applications for streamlined small space station authorization. #####
 
+Link to an amendment published at 85 FR 52452, Aug. 25, 2020.
+
 (a) This section shall only apply to applicants for NGSO systems that are able to certify compliance with the certifications set forth in paragraph (c) of this section. For applicants seeking to be authorized under this section, a comprehensive proposal for Commission evaluation must be submitted for each space station in the proposed system on FCC Form 312, Main Form and Schedule S, as described in § 25.114(a) through (c), together with the certifications described in paragraph (c) of this section and the narrative requirements described in paragraph (d) of this section.
 
 (b) Applications for NGSO systems may be filed under this section, provided that the total number of space stations requested in the application is ten or fewer.

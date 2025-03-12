@@ -1,6 +1,6 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 85 FR 38628, June 26, 2020.Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
+Link to an amendment published at 85 FR 46928, Aug. 3, 2020.
 
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
@@ -116,7 +116,7 @@ Link to an amendment published at 85 FR 38628, June 26, 2020.Link to an amendmen
 
 (37) An alien paroled into the United States as an entrepreneur pursuant to 8 CFR 212.19 for the period of authorized parole. An entrepreneur who has timely filed a non-frivolous application requesting re-parole with respect to the same start-up entity in accordance with 8 CFR 212.19 prior to the expiration of his or her parole, but whose authorized parole period expires during the pendency of such application, is authorized to continue employment with the same start-up entity for a period not to exceed 240 days beginning on the date of expiration of parole. Such authorization shall be subject to any conditions and limitations on such expired parole. If DHS adjudicates the application prior to the expiration of this 240-day period and denies the application for re-parole, the employment authorization under this paragraph shall automatically terminate upon notification to the alien of the denial decision.
 
-(c) *Aliens who must apply for employment authorization.* An alien within a class of aliens described in this section must apply for work authorization. If authorized, such an alien may accept employment subject to any restrictions stated in the regulations or cited on the employment authorization document. USCIS, in its discretion, may establish a specific validity period for an employment authorization document, which may include any period when an administrative appeal or judicial review of an application or petition is pending.
+(c) *Aliens who must apply for employment authorization.* An alien within a class of aliens described in this section must apply for work authorization. If authorized, such an alien may accept employment subject to any restrictions stated in the regulations or cited on the employment authorization document. USCIS, in its discretion, may establish a specific validity period for an employment authorization document, which may include any period when an administrative appeal or judicial review of an application or petition is pending, unless otherwise provided in this chapter.
 
 (1) An alien spouse or unmarried dependent child; son or daughter of a foreign government official (A-1 or A-2) pursuant to 8 CFR 214.2(a)(2) and who presents an endorsement from an authorized representative of the Department of State;
 
@@ -142,17 +142,13 @@ Link to an amendment published at 85 FR 38628, June 26, 2020.Link to an amendmen
 
 (7) A dependent of an alien classified as NATO-1 through NATO-7 pursuant to § 214.2(n) of this chapter;
 
-(8) An alien who has filed a complete application for asylum or withholding of deportation or removal pursuant to 8 CFR part 208, whose application:
-
-(i) Has not been decided, and who is eligible to apply for employment authorization under § 208.7 of this chapter because the 150-day period set forth in that section has expired. Employment authorization may be granted according to the provisions of § 208.7 of this chapter in increments to be determined by the Commissioner and shall expire on a specified date; or
-
-(ii) Has been recommended for approval, but who has not yet received a grant of asylum or withholding or deportation or removal;
+(8) An alien who has filed a complete application for asylum or withholding of deportation or removal pursuant to 8 CFR parts 103 and 208, whose application has not been decided, and who is eligible to apply for employment authorization under 8 CFR 208.7 because the 365-day period set forth in that section has expired. Employment authorization may be granted according to the provisions of 8 CFR 208.7 of this chapter in increments to be determined by USCIS but not to exceed increments of two years.
 
 (9) An alien who has filed an application for adjustment of status to lawful permanent resident pursuant to part 245 of this chapter. For purposes of section 245(c)(8) of the Act, an alien will not be deemed to be an “unauthorized alien” as defined in section 274A(h)(3) of the Act while his or her properly filed Form I-485 application is pending final adjudication, if the alien has otherwise obtained permission from the Service pursuant to 8 CFR 274a.12 to engage in employment, or if the alien had been granted employment authorization prior to the filing of the adjustment application and such authorization does not expire during the pendency of the adjustment application. Upon meeting these conditions, the adjustment applicant need not file an application for employment authorization to continue employment during the period described in the preceding sentence;
 
 (10) An alien who has filed an application for suspension of deportation under section 244 of the Act (as it existed prior to April 1, 1997), cancellation of removal pursuant to section 240A of the Act, or special rule cancellation of removal under section 309(f)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, enacted as Pub. L. 104-208 (110 Stat. 3009-625) (as amended by the Nicaraguan Adjustment and Central American Relief Act (NACARA)), title II of Pub. L. 105-100 (111 Stat. 2160, 2193) and whose properly filed application has been accepted by the Service or EOIR.
 
-(11) Except as provided in paragraphs (b)(37) and (c)(34) of this section and § 212.19(h)(4) of this chapter, an alien paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit pursuant to section 212(d)(5) of the Act.
+(11) Except as provided in paragraphs (b)(37) and (c)(34) of this section, 8 CFR 212.19(h)(4), and except for aliens paroled from custody after having established a credible fear or reasonable fear of persecution or torture under 8 CFR 208.30, an alien paroled into the United States temporarily for urgent humanitarian reasons or significant public benefit pursuant to section 212(d)(5) of the Act.
 
 (12) An alien spouse of a long-term investor in the Commonwealth of the Northern Mariana Islands (E-2 CNMI Investor) other than an E-2 CNMI investor who obtained such status based upon a Foreign Retiree Investment Certificate, pursuant to 8 CFR 214.2(e)(23). An alien spouse of an E-2 CNMI Investor is eligible for employment in the CNMI only;
 

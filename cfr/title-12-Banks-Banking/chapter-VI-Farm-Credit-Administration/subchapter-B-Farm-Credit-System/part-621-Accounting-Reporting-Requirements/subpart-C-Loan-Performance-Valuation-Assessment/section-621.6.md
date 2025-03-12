@@ -1,5 +1,7 @@
 ##### § 621.6 Performance categories and other property owned. #####
 
+Link to an amendment published at 85 FR 52253, Aug. 25, 2020.
+
 Each institution shall employ the following practices with respect to categorizing high-risk loans and loan-related assets. No loan shall be put into more than one performance category. At a minimum, loans meeting the criteria for both nonaccrual and another performance category shall be classified as nonaccrual.
 
 (a) *Nonaccrual loans.* A loan shall be considered nonaccrual if it meets any of the following conditions:

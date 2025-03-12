@@ -1,14 +1,14 @@
 ##### § 274a.14 Termination of employment authorization. #####
 
-Link to an amendment published at 85 FR 38628, June 26, 2020.
-
 (a) *Automatic termination of employment authorization.* (1) Employment authorization granted under § 274a.12(c) of this chapter shall automatically terminate upon the occurrence of one of the following events:
 
 (i) The expiration date specified by the Service on the employment authorization document is reached;
 
-(ii) Exclusion or deportation proceedings are instituted (however, this shall not preclude the authorization of employment pursuant to § 274a.12(c) of this part where appropriate); or
+(ii) Exclusion or deportation proceedings are instituted (however, this shall not preclude the authorization of employment pursuant to § 274a.12(c) of this part where appropriate);
 
-(iii) The alien is granted voluntary departure.
+(iii) The alien is granted voluntary departure; or
+
+(iv) Automatic termination is provided elsewhere in this chapter.
 
 (2) Termination of employment authorization pursuant to this paragraph does not require the service of a notice of intent to revoke; employment authorization terminates upon the occurrence of any event enumerated in paragraph (a)(1) of this section.
 
@@ -28,4 +28,4 @@ However, automatic revocation under this section does not preclude reapplication
 
 (3) No notice of intent to revoke is necessary for the automatic termination of temporary employment authorization pursuant to this part.
 
-[52 FR 16221, May 1, 1987, as amended at 53 FR 8614, Mar. 16, 1988; 53 FR 20087, June 1, 1988; 61 FR 46537, Sept. 4, 1996]
+[52 FR 16221, May 1, 1987, as amended at 53 FR 8614, Mar. 16, 1988; 53 FR 20087, June 1, 1988; 61 FR 46537, Sept. 4, 1996; 85 FR 38628, June 26, 2020]

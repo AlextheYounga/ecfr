@@ -1,5 +1,7 @@
 ##### § 621.9 Reinstatement to accrual status. #####
 
+Link to an amendment published at 85 FR 52254, Aug. 25, 2020.
+
 A loan may be reinstated to accrual status, when each of the following criteria are met:
 
 (a) All contractual principal and interest due on the loan is paid and the loan is current;

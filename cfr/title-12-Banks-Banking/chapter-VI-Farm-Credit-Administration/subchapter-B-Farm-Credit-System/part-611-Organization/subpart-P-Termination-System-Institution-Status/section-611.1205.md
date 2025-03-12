@@ -1,5 +1,7 @@
 ##### § 611.1205 Definitions that apply in this subpart. #####
 
+Link to an amendment published at 85 FR 52253, Aug. 25, 2020.
+
 *Assets* means all assets determined in conformity with GAAP, except as otherwise required in this subpart.
 
 *Business days* means days the FCA is open for business.
