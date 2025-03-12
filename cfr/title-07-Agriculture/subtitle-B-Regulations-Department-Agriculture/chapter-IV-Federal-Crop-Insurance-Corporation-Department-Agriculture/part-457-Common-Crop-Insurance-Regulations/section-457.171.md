@@ -1,6 +1,6 @@
 ##### § 457.171 Cabbage crop insurance provisions. #####
 
-The Cabbage Crop Insurance Provisions for the 2011 and succeeding crop years are as follows:
+The Cabbage Crop Insurance Provisions for the 2023 and succeeding crop years in counties with a contract change date of November 30, and for the 2024 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
 FCIC policies: United States Department of Agriculture, Federal Crop Insurance Corporation.
 
@@ -15,8 +15,6 @@ Both FCIC and reinsured policies: Cabbage Crop Insurance Provisions.
 *Crop Year.* In lieu of the definition contained in section 1 of the Basic Provisions, a period of time that begins on the first day of the earliest planting period and continues through the last day of the insurance period for the latest planting period. The crop year is designated by the calendar year in which the cabbage planted in the latest planting period is normally harvested.
 
 *Damaged cabbage production.* Fresh market cabbage that fails to grade U.S. Commercial or better in accordance with the United States Standards for Grades of Cabbage, or processing cabbage that fails to grade U.S. No. 2 or better in accordance with the United States Standards for Grades of Cabbage for Processing due to an insurable cause of loss.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
 
 *Harvest.* Cutting of the cabbage plant to sever the head from the stalk.
 
@@ -52,11 +50,11 @@ Both FCIC and reinsured policies: Cabbage Crop Insurance Provisions.
 
 (b) In addition to the requirements of section 34 of the Basic Provisions, optional units may also be established by type if separate types are designated in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) You may select only one price election for all the cabbage in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each cabbage type designated in the Special Provisions.
+(a) You may select only one price election for all the cabbage in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each cabbage type designated in the Special Provisions.
 
 (b) The price elections you choose for each type must bear the same percentage relationship to the maximum price election offered by us for each type. For example, if you selected 100 percent of the maximum price election for one type, you must also select 100 percent of the maximum price election for all other types.
 
@@ -64,24 +62,24 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 In accordance with the provisions of section 4 of the Basic Provisions, the contract change dates are the following calendar dates preceding the cancellation dates:
 
-(a) April 30 in Florida; Brooks, Colquitt, Tift, and Toombs Counties, Georgia; and Texas;
+(a) April 30 in Florida; Georgia; and Texas;
 
-(b) November 30 in Alaska; Rabun County, Georgia; Illinois; Michigan; New York; North Carolina; Ohio; Oregon; Pennsylvania; Virginia; Washington; and Wisconsin; or
+(b) November 30 in Alaska; Michigan; New Jersey, New York; North Carolina; Ohio; Oregon; Pennsylvania; Virginia; Washington; and Wisconsin; or
 
-(c) As designated in the Special Provisions for all other states and counties.
+(c) As designated in the actuarial documents for all other states and counties.
 
 5. Cancellation and Termination Dates
 
 In accordance with the provisions of section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                               State and counties                                |Cancellation and  <br/>termination dates|
-|---------------------------------------------------------------------------------|----------------------------------------|
-|           Brooks, Colquitt, Tift, and Toombs Counties, Georgia; Texas           |                July 1.                 |
-|                                     Florida                                     |               August 15.               |
-|                               Oregon, Washington                                |              February 1.               |
-|                      Rabun County, Georgia; North Carolina                      |              February 28.              |
-|Alaska, Illinois, Michigan, New York, Ohio, Pennsylvania, Virginia, and Wisconsin|               March 15.                |
-|                          All other states and counties                          |As designated in the Special Provisions.|
+|                                State and counties                                 |   Cancellation and termination dates   |
+|-----------------------------------------------------------------------------------|----------------------------------------|
+|                                  Georgia, Texas                                   |                July 1.                 |
+|                                      Florida                                      |               August 15.               |
+|                                Oregon, Washington                                 |              February 1.               |
+|                                  North Carolina                                   |              February 28.              |
+|Alaska, Michigan, New Jersey, New York, Ohio, Pennsylvania, Virginia, and Wisconsin|               March 15.                |
+|                           All other states and counties                           |As designated in the Special Provisions.|
 
 6. Report of Acreage
 
@@ -165,23 +163,19 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (C) May 31 for the spring planting period;
 
-(iii) Brooks, Colquitt, Tift, and Toombs Counties, Georgia:
+(iii) Georgia:
 
 (A) January 15 for the fall planting period; and
 
 (B) June 15 for the spring planting period;
 
-(iv) Rabun County, Georgia:
-
-(A) September 15 for the spring planting period; and
-
-(B) October 31 for the summer planting period;
-
-(v) Illinois, Michigan, New York, Ohio, and Pennsylvania:
+(iv) Michigan, New Jersey, and Ohio:
 
 (A) September 30 for the spring planting period; and
 
 (B) November 25 for the summer planting period;
+
+(v) New York and Pennsylvania: November 25;
 
 (vi) North Carolina:
 
@@ -191,21 +185,17 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (vii) Oregon: December 31;
 
-(viii) Texas:
+(vii) Oregon:
 
-(A) December 31 for the summer planting period;
+(A) March 1 for all fall Red (Fresh) and Green (Fresh) types; and
 
-(B) February 15 for the fall planting period; and
-
-(C) April 30 for the winter planting period;
+(B) December 31 for all other types and planting periods;
 
 (ix) Virginia:
 
-(A) July 31 for the early spring planting period;
+(A) July 31 for the early spring planting period; and
 
-(B) September 15 for the spring planting period; and
-
-(C) November 15 for the summer planting period;
+(B) November 15 for the summer planting period;
 
 (x) Washington: December 31;
 
@@ -249,7 +239,7 @@ In addition to the provisions of section 9 of the Basic Provisions:
 
 (e) In lieu of the provisions contained in section 13 of the Basic Provisions that limit a replanting payment to one each crop year, only one replanting payment will be made for acreage replanted during each planting period within the crop year, if separate planting periods are allowed by the Special Provisions.
 
-12. Duties In The Event of Damage or Loss
+12. Duties in the Event of Damage or Loss
 
 (a) Failure to meet the requirements of this section will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
@@ -369,4 +359,4 @@ For a basic unit you have 100 percent share in 100 acres of cabbage, 50 acres fo
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[74 FR 8709, Feb. 26, 2009, as amended at 74 FR 26281, June 2, 2009; 75 FR 15891, Mar. 30, 2010]
+[74 FR 8709, Feb. 26, 2009, as amended at 74 FR 26281, June 2, 2009; 75 FR 15891, Mar. 30, 2010; 87 FR 38899, June 30, 2022]

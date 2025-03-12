@@ -1,5 +1,7 @@
 ##### § 904.502 Bonded release of seized property. #####
 
+Link to an amendment published at 87 FR 38942, June 30, 2022.
+
 (a) As authorized by applicable statute, at any time after seizure of any property, NOAA may, in its sole discretion, release any seized property upon deposit with NOAA of the full value of the property or such lesser amount as NOAA deems sufficient to protect the interests served by the applicable statute. In addition, NOAA may, in its sole discretion, accept a bond or other security in place of fish, wildlife, or other property seized. The bond will contain such conditions as NOAA deems appropriate.
 
 (b) Property may be released under this section only if possession thereof will not violate or frustrate the purpose or policy of any applicable law or regulation. Property that will not be released includes, but is not limited to:

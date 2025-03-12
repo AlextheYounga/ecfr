@@ -1,16 +1,10 @@
 ##### § 457.166 Blueberry crop insurance provisions. #####
 
-The Blueberry Crop Insurance Provisions for the 2005 and succeeding crop years are as follows:
+The Blueberry Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
-FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Blueberry Crop Insurance Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
-
-1. Definitions
+FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Blueberry Crop Insurance Provisions1. Definitions
 
 *Damaged blueberries.* Blueberries ready to harvest that due to an insurable cause of loss as shown in section 8 of these Crop Provisions do not meet the United States Standards for Grades of Blueberries, U.S. No. 1, or such other applicable grading standards specified in the Special Provisions.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, or permitting the general public to enter the field for the purpose of picking the crop.
 
 *Harvest.* Picking mature blueberries from the bushes either by hand or machine.
 
@@ -30,7 +24,7 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 The enterprise, whole-farm, and optional unit provisions in the Basic Provisions are not applicable, and blueberry acreage is limited to basic units as defined in section 1 of the Basic Provisions, unless otherwise specified in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -70,7 +64,7 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 (2) That are grown on bush varieties that:
 
-(i) Were commercially available when the bushes were set out or have subsequently became commercially available; and
+(i) Were commercially available when the bushes were set out or have subsequently become commercially available; and
 
 (ii) Are varieties adapted to the area of the following types:
 
@@ -162,7 +156,7 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (iii) During harvest.
 
-(3) At least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals and acceptable records provided by you will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count that is not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(3) At least 15 calendar days before any production will be harvested if any portion of your crop will be direct marketed. We will conduct an appraisal that will be used to determine your production to count sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals and acceptable records provided by you will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count that is not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (4) At least 15 days prior to the beginning of harvest if you intend to claim an indemnity on any unit as a result of previously reported damage, so that we may inspect the damaged production.
 
@@ -190,11 +184,25 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (7) Multiplying the result in section 10(b)(6) by your share.
 
-Example For Section 10(b)
+*Example for Section 10(b)*
 
-You have 100 percent share in 25 acres of highbush blueberries with a production guarantee of 4,000 pounds per acre and a price election of $.45 per pound. You are only able to harvest 62,500 total pounds because adverse weather reduced the yield. Your indemnity would be calculated as follows:
+You have 100 percent share in 25 acres of highbush blueberries with a production guarantee of 4,000 pounds per acre and a price election of $.90 per pound. You are only able to harvest 62,500 total pounds because adverse weather reduced the yield. Your indemnity would be calculated as follows:
 
-A. 25 acres × 4,000 pound production guarantee/acre = 100,000 pound total production guarantee;B. 100,000 pounds × $.45 price election = $45,000 guarantee;C. One type only, so same as (2) above, $45,000;D. 62,500 pounds production to count × $.45 price election = $28,125 value of production to count;E. One type only, so same as (4) above, $28,125;F. $45,000−$28,125 = $16,875 loss; andG. $16,875 × 100 percent share = $16,875 indemnity payment.End of Example
+A. 25 acres × 4,000 pound production guarantee/acre = 100,000 pound total production guarantee;
+
+B. 100,000 pounds × $.90 price election = $90,000 guarantee;
+
+C. One type only, so same as (2) above, $90,000;
+
+D. 62,500 pounds production to count × $.90 price election = $56,250 value of production to count;
+
+E. One type only, so same as (4) above, $56,250;
+
+F. $90,000 − $56,250 = $33,750 loss; and
+
+G. $33,750 × 100 percent share = $33,750 indemnity payment.
+
+*End of Example.*
 
 (c) The total production to count (in pounds) from all insurable acreage on the unit will include:
 
@@ -236,4 +244,4 @@ A. 25 acres × 4,000 pound production guarantee/acre = 100,000 pound total produ
 
 The late and prevented planting provisions in the Basic Provisions are not applicable.
 
-[69 FR 52155, Aug. 25, 2004]
+[69 FR 52155, Aug. 25, 2004, as amended at 87 FR 38898, June 30, 2022]

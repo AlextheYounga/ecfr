@@ -1,5 +1,7 @@
 ##### § 904.101 Notice of violation and assessment (NOVA). #####
 
+Link to an amendment published at 87 FR 38937, June 30, 2022.
+
 (a) A NOVA will be issued by NOAA and served upon the respondent(s). The NOVA will contain:
 
 (1) A concise statement of the facts believed to show a violation;

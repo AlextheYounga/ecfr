@@ -1,5 +1,7 @@
 ##### § 904.3 Filing and service of notices, documents, and other papers. #####
 
+Link to an amendment published at 87 FR 38936, June 30, 2022.
+
 (a) Service of a NOVA (§ 904.101), NOPS (§ 904.302), NIDP (§ 904.303), Notice of Proposed Forfeiture (§ 904.504), Notice of Seizure (§ 904.501), Notice of Summary Sale (§ 904.505) or Written Warning (§ 904.402) may be made by certified mail (return receipt requested), facsimile, electronic transmission, or third party commercial carrier to an addressee's last known address or by personal delivery. Service of a notice under this subpart will be considered effective upon receipt.
 
 (b) Service of documents and papers, other than such Notices as described in paragraph (a) of this section, may be made by first class mail (postage prepaid), facsimile, electronic transmission, or third party commercial carrier, to an addressee's last known address or by personal delivery. Service of documents and papers will be considered effective upon the date of postmark (or as otherwise shown for government-franked mail), facsimile transmission, delivery to third party commercial carrier, electronic transmission or upon personal delivery.

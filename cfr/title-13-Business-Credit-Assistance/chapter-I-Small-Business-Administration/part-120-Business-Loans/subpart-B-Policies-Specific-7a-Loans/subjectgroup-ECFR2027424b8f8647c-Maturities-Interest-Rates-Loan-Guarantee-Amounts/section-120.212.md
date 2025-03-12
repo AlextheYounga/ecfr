@@ -1,5 +1,7 @@
 ##### § 120.212 What limits are there on loan maturities? #####
 
+Link to an amendment published at 87 FR 38908, June 30, 2022.
+
 The term of a loan shall be:
 
 (a) The shortest appropriate term, depending upon the Borrower's ability to repay;

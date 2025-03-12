@@ -1,5 +1,7 @@
 ##### § 904.310 Nature of permit sanctions. #####
 
+Link to an amendment published at 87 FR 38942, June 30, 2022.
+
 (a) NOAA may suspend, modify, or deny a permit if:
 
 (1) A civil penalty has been assessed against the permit holder under subparts B and C of this part, but the permit holder has failed to pay the civil penalty, or has failed to comply with any term of a settlement agreement; or

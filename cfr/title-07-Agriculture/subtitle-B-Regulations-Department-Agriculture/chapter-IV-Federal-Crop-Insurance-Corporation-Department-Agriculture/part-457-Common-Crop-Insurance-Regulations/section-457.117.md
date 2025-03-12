@@ -1,6 +1,6 @@
 ##### § 457.117 Forage production crop insurance provisions. #####
 
-The Forage Production Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
+The Forage Production Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
 
@@ -20,8 +20,6 @@ Forage Production Crop Insurance Provisions1. Definitions
 
 *Cutting.* The severance of the forage plant from its roots.
 
-*Direct marketing.* Sale of the forage crop directly to consumers without the intervention of an intermediary such as a wholesaler, shipper, buyer, or broker. An example of direct marketing is selling directly to other producers.
-
 *Fall planted.* A forage crop seeded after June 30, except when specified in the Special Provisions.
 
 *Forage.* Planted perennial alfalfa, perennial red clover, perennial grasses, or a mixture thereof, or other species as shown in the Actuarial Documents.
@@ -38,7 +36,7 @@ Forage Production Crop Insurance Provisions1. Definitions
 
 *Year of establishment.* The period between seeding and when the forage crop has developed an adequate stand. The year of establishment is determined by the date of seeding. The year of establishment for spring planted forage is designated by the calendar year in which seeding occurred. The year of establishment for fall planted forage is designated by the calendar year after the year in which the crop was planted. Insurance under this policy does not attach until after the year of establishment. Insurance during the year of establishment may be available under the forage seeding policy.
 
-2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+2. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -131,7 +129,7 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (a) You must notify us within 3 days of the date cutting should have started if the insured crop will not be harvested;
 
-(b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing unless you have records verifying that the forage was direct marketed. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal;
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal;
 
 (c) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest if you previously gave notice in accordance with section 14 of the Basic Provisions so that we may inspect the damaged production. You must not destroy the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, and such failure results in our inability to inspect the damaged production, all such production will be considered undamaged and will be included as production to count; and
 
@@ -163,35 +161,35 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 Example 1
 
-Assume you have a 100 percent share in 100 acres of type A forage in the unit, with a guarantee of 3.0 tons per acre and a price election of $65 per ton. Due to adverse weather you were only able to harvest 50.0 tons. Your indemnity would be calculated as follows:
+Assume you have a 100 percent share in 100 acres of type A forage in the unit, with a guarantee of 3.0 tons per acre and a price election of $100 per ton. Due to adverse weather you were only able to harvest 50.0 tons. Your indemnity would be calculated as follows:
 
 1. 100 acres type A × 3 tons = 300-ton guarantee;
 
-2 & 3. 300 tons × $65 price election = $19,500 total value guarantee;
+2 & 3. 300 tons × $100 price election = $30,000 total value guarantee;
 
-4 & 5. 50 tons production to count × $65 price election = $3,250 total value of production to count;
+4 & 5. 50 tons production to count × $100 price election = $5,000 total value of production to count;
 
-6. $19,500 value guarantee - $3,250 = $16,250 loss; and
+6. $30,000 value guarantee − $5,000 = $25,000 loss; and
 
-7. $16,250 × 100 percent share = $16,250 indemnity payment.
+7. $25,000 × 100 percent share = $25,000 indemnity payment.
 
 Example 2
 
-Assume you also have a 100 percent share in 100 acres of type B forage in the same unit, with a guarantee of 1.0 ton per acre and a price election of $50 per ton. Due to adverse weather you were only able to harvest 5.0 tons. Your total indemnity for forage production for both types A and B in the same unit would be calculated as follows:
+Assume you also have a 100 percent share in 100 acres of type B forage in the same unit, with a guarantee of 1.0 ton per acre and a price election of $90 per ton. Due to adverse weather you were only able to harvest 5.0 tons. Your total indemnity for forage production for both types A and B in the same unit would be calculated as follows:
 
 1. 100 acres × 3 tons = 300-ton guarantee for type A and 100 acres × 1 ton = 100-ton guarantee for type B;
 
-2. 300-ton guarantee × $65 price election = $19,500 total value of the guarantee for type A and 100-ton guarantee × $50 price election = $5,000 total value of the guarantee for type B;
+2. 300-ton guarantee × $100 price election = $30,000 total value of the guarantee for type A and 100-ton guarantee × $90 price election = $9,000 total value of the guarantee for type B;
 
-3. $19,500 + $5,000 = $24,500 total value of the guarantee;
+3. $30,000 + $9,000 = $39,000 total value of the guarantee;
 
-4. 50 tons × $65 price election = $3,250 total value of production to count for type A; and 5 tons × $50 price election = $250 total value of production to count for type B;
+4. 50 tons × $100 price election = $5,000 total value of production to count for type A; and 5 tons × $90 price election = $450 total value of production to count for type B;
 
-5. $3,250 + $250 = $ 3,500 total value of production to count for types A and B;
+5. $5,000 + $450 = $5,450 total value of production to count for types A and B;
 
-6. $24,500 - $3,500 = $21,000 loss; and
+6. $39,000 − $5,450 = $33,550 loss; and
 
-7. $21,000 loss × 100 percent share = $21,000 indemnity payment.
+7. $33,550 loss × 100 percent share = $33,550 indemnity payment.
 
 (c) The total production to count (in tons) from all insurable acreage on the unit will include:
 
@@ -229,4 +227,4 @@ Assume you also have a 100 percent share in 100 acres of type B forage in the sa
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 14285, Mar. 26, 1997, as amended at 62 FR 65169, Dec. 10, 1997; 65 FR 3783, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000; 85 FR 23899, Apr. 30, 2020]
+[62 FR 14285, Mar. 26, 1997, as amended at 62 FR 65169, Dec. 10, 1997; 65 FR 3783, Jan. 25, 2000; 65 FR 11457, Mar. 3, 2000; 85 FR 23899, Apr. 30, 2020; 87 FR 38891, June 30, 2022]

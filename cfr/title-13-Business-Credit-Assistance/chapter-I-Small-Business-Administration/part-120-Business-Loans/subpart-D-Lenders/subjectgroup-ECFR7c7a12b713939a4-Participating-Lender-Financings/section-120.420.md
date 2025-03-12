@@ -1,5 +1,7 @@
 ##### § 120.420 Definitions. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *7(a) Loans* - All references to 7(a) loans under this subpart include loans made under section 7(a) of the Small Business Act (15 U.S.C. 631 *et seq.*) and loans made under section 502 of the Small Business Investment Act (15 U.S.C. 661 *et seq.*), both of which may be securitized under this subpart.
 
 (b) *Bank Regulatory Agencies* - The bank regulatory agencies are the Federal Deposit Insurance Corporation, the Federal Reserve Board, the Office of the Comptroller of the Currency, and the Office of Thrift Supervision.

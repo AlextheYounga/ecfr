@@ -1,5 +1,7 @@
 ##### § 904.251 Evidence. #####
 
+Link to an amendment published at 87 FR 38939, June 30, 2022.
+
 (a) *In general.* (1) At the hearing, every party has the right to present oral or documentary evidence in support of its case or defense, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. This paragraph may not be interpreted to diminish the powers and duties of the Judge under § 904.204.
 
 (2) All evidence that is relevant, material, reliable, and probative, and not unduly repetitious or cumulative, is admissible at the hearing. Formal rules of evidence do not necessarily apply to the administrative proceedings, and hearsay evidence is not inadmissible as such.

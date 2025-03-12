@@ -1,6 +1,6 @@
 ##### § 240.24b-2 Nondisclosure of information filed with the Commission and with any exchange. #####
 
-Preliminary Note:
+Link to an amendment published at 87 FR 38964, June 30, 2022.Preliminary Note:
 
 Except as otherwise provided in this rule, confidential treatment requests shall be submitted in paper format only, whether or not the filer is required to submit a filing in electronic format.
 

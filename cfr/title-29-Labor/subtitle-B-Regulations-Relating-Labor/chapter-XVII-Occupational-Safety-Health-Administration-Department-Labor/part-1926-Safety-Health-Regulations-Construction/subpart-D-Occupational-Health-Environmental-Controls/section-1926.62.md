@@ -38,7 +38,7 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 
 (3) When respirators are used to limit employee exposure as required under paragraph (c) of this section and all the requirements of paragraphs (e)(1) and (f) of this section have been met, employee exposure may be considered to be at the level provided by the protection factor of the respirator for those periods the respirator is worn. Those periods may be averaged with exposure levels during periods when respirators are not worn to determine the employee's daily TWA exposure.
 
-(d) *Exposure assessment* - (1) *General.* (i) Each employer who has a workplace or operation covered by this standard shall initially determine if any employee may be exposed to lead at or above the action level.
+(d) *Exposure assessment*—(1) *General.* (i) Each employer who has a workplace or operation covered by this standard shall initially determine if any employee may be exposed to lead at or above the action level.
 
 (ii) For the purposes of paragraph (d) of this section, employee exposure is that exposure which would occur if the employee were not using a respirator.
 
@@ -61,6 +61,14 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 (B) Where lead containing coatings or paint are present: rivet busting; power tool cleaning without dust collection systems; cleanup activities where dry expendable abrasives are used; and abrasive blasting enclosure movement and removal.
 
 (iv) With respect to the tasks listed in this paragraph (d)(2)(iv), where lead is present, until the employer performs an employee exposure assessment as required in this paragraph (d) and documents that the employee performing any of the listed tasks is not exposed to lead in excess of 2,500 µg/m3 (50×PEL), the employer shall treat the employee as if the employee were exposed to lead in excess of 2,500 µg/m3 and shall implement employee protective measures as prescribed in paragraph (d)(2)(v) of this section. Where the employer does establish that the employee is exposed to levels of lead below 2,500 µg/m3, the employer may provide the exposed employee with the appropriate respirator prescribed for use at such lower exposures, in accordance with paragraph (f) of this section. Interim protection as described in this paragraph is required where lead containing coatings or paint are present on structures when performing:
+
+(A) Abrasive blasting,
+
+(B) Welding,
+
+(C) Cutting, and
+
+(D) Torch burning.
 
 (v) Until the employer performs an employee exposure assessment as required under paragraph (d) of this section and determines actual employee exposure, the employer shall provide to employees performing the tasks described in paragraphs (d)(2)(i), (d)(2)(ii), (d)(2)(iii), and (d)(2)(iv) of this section with interim protection as follows:
 
@@ -114,7 +122,7 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 
 (9) *Accuracy of measurement.* The employer shall use a method of monitoring and analysis which has an accuracy (to a confidence level of 95%) of not less than plus or minus 25 percent for airborne concentrations of lead equal to or greater than 30 µg/m3.
 
-(e) *Methods of compliance* - (1) *Engineering and work practice controls.* The employer shall implement engineering and work practice controls, including administrative controls, to reduce and maintain employee exposure to lead to or below the permissible exposure limit to the extent that such controls are feasible. Wherever all feasible engineering and work practices controls that can be instituted are not sufficient to reduce employee exposure to or below the permissible exposure limit prescribed in paragraph (c) of this section, the employer shall nonetheless use them to reduce employee exposure to the lowest feasible level and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (f) of this section.
+(e) *Methods of compliance*—(1) *Engineering and work practice controls.* The employer shall implement engineering and work practice controls, including administrative controls, to reduce and maintain employee exposure to lead to or below the permissible exposure limit to the extent that such controls are feasible. Wherever all feasible engineering and work practices controls that can be instituted are not sufficient to reduce employee exposure to or below the permissible exposure limit prescribed in paragraph (c) of this section, the employer shall nonetheless use them to reduce employee exposure to the lowest feasible level and shall supplement them by the use of respiratory protection that complies with the requirements of paragraph (f) of this section.
 
 (2) *Compliance program.* (i) Prior to commencement of the job each employer shall establish and implement a written compliance program to achieve compliance with paragraph (c) of this section.
 
@@ -156,7 +164,7 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 
 (5) The employer shall ensure that, to the extent relevant, employees follow good work practices such as described in appendix B of this section.
 
-(f) *Respiratory protection* - (1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
+(f) *Respiratory protection*—(1) *General.* For employees who use respirators required by this section, the employer must provide each employee an appropriate respirator that complies with the requirements of this paragraph. Respirators must be used during:
 
 (i) Periods when an employee's exposure to lead exceeds the PEL.
 
@@ -180,7 +188,7 @@ Allowable employee exposure (in µg/m3) = 400 divided by hours worked in the day
 
 (ii) The employer must provide a powered air-purifying respirator when an employee chooses to use such a respirator and it will provide adequate protection to the employee.
 
-(g) *Protective work clothing and equipment* - (1) *Provision and use.* Where an employee is exposed to lead above the PEL without regard to the use of respirators, where employees are exposed to lead compounds which may cause skin or eye irritation (e.g. lead arsenate, lead azide), and as interim protection for employees performing tasks as specified in paragraph (d)(2) of this section, the employer shall provide at no cost to the employee and assure that the employee uses appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments such as, but not limited to:
+(g) *Protective work clothing and equipment*—(1) *Provision and use.* Where an employee is exposed to lead above the PEL without regard to the use of respirators, where employees are exposed to lead compounds which may cause skin or eye irritation (e.g. lead arsenate, lead azide), and as interim protection for employees performing tasks as specified in paragraph (d)(2) of this section, the employer shall provide at no cost to the employee and assure that the employee uses appropriate protective work clothing and equipment that prevents contamination of the employee and the employee's garments such as, but not limited to:
 
 (i) Coveralls or similar full-body work clothing;
 
@@ -210,7 +218,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (viii) The employer shall prohibit the removal of lead from protective clothing or equipment by blowing, shaking, or any other means which disperses lead into the air.
 
-(h) *Housekeeping* - (1) All surfaces shall be maintained as free as practicable of accumulations of lead.
+(h) *Housekeeping*—(1) All surfaces shall be maintained as free as practicable of accumulations of lead.
 
 (2) Clean-up of floors and other surfaces where lead accumulates shall wherever possible, be cleaned by vacuuming or other methods that minimize the likelihood of lead becoming airborne.
 
@@ -244,7 +252,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (ii) Where showers are not provided the employer shall assure that employees wash their hands and face at the end of the work-shift.
 
-(j) *Medical surveillance* - (1) *General.* (i) The employer shall make available initial medical surveillance to employees occupationally exposed on any day to lead at or above the action level. Initial medical surveillance consists of biological monitoring in the form of blood sampling and analysis for lead and zinc protoporphyrin levels.
+(j) *Medical surveillance*—(1) *General.* (i) The employer shall make available initial medical surveillance to employees occupationally exposed on any day to lead at or above the action level. Initial medical surveillance consists of biological monitoring in the form of blood sampling and analysis for lead and zinc protoporphyrin levels.
 
 (ii) The employer shall institute a medical surveillance program in accordance with paragraphs (j)(2) and (j)(3) of this section for all employees who are or may be exposed by the employer at or above the action level for more than 30 days in any consecutive 12 months;
 
@@ -252,7 +260,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (iv) The employer shall make available the required medical surveillance including multiple physician review under paragraph (j)(3)(iii) without cost to employees and at a reasonable time and place.
 
-(2) *Biological monitoring* - (i) *Blood lead and ZPP level sampling and analysis.* The employer shall make available biological monitoring in the form of blood sampling and analysis for lead and zinc protoporphyrin levels to each employee covered under paragraphs (j)(1)(i) and (ii) of this section on the following schedule:
+(2) *Biological monitoring*—(i) *Blood lead and ZPP level sampling and analysis.* The employer shall make available biological monitoring in the form of blood sampling and analysis for lead and zinc protoporphyrin levels to each employee covered under paragraphs (j)(1)(i) and (ii) of this section on the following schedule:
 
 (A) For each employee covered under paragraph (j)(1)(ii) of this section, at least every 2 months for the first 6 months and every 6 months thereafter;
 
@@ -268,7 +276,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (B) The employer shall notify each employee whose blood lead level is at or above 40 µg/dl that the standard requires temporary medical removal with Medical Removal Protection benefits when an employee's blood lead level is at or above the numerical criterion for medical removal under paragraph (k)(1)(i) of this section.
 
-(3) *Medical examinations and consultations* - (i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (j)(1)(ii) of this section on the following schedule:
+(3) *Medical examinations and consultations*—(i) *Frequency.* The employer shall make available medical examinations and consultations to each employee covered under paragraph (j)(1)(ii) of this section on the following schedule:
 
 (A) At least annually for each employee for whom a blood sampling test conducted at any time during the preceding 12 months indicated a blood lead level at or above 40 µg/dl;
 
@@ -360,7 +368,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (ii) If therapeutic or diagnostic chelation is to be performed by any person in paragraph (j)(4)(i) of this section, the employer shall assure that it be done under the supervision of a licensed physician in a clinical setting with thorough and appropriate medical monitoring and that the employee is notified in writing prior to its occurrence.
 
-(k) *Medical removal protection* - (1) *Temporary medical removal and return of an employee* - (i) *Temporary removal due to elevated blood lead level.* The employer shall remove an employee from work having an exposure to lead at or above the action level on each occasion that a periodic and a follow-up blood sampling test conducted pursuant to this section indicate that the employee's blood lead level is at or above 50 µg/dl; and,
+(k) *Medical removal protection*—(1) *Temporary medical removal and return of an employee*—(i) *Temporary removal due to elevated blood lead level.* The employer shall remove an employee from work having an exposure to lead at or above the action level on each occasion that a periodic and a follow-up blood sampling test conducted pursuant to this section indicate that the employee's blood lead level is at or above 50 µg/dl; and,
 
 (ii) *Temporary removal due to a final medical determination.* (A) The employer shall remove an employee from work having an exposure to lead at or above the action level on each occasion that a final medical determination results in a medical finding, determination, or opinion that the employee has a detected medical condition which places the employee at increased risk of material impairment to health from exposure to lead.
 
@@ -388,7 +396,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (*2*) If the employee has been on removal status for the preceding eighteen months due to an elevated blood lead level, then the employer shall await a final medical determination.
 
-(2) *Medical removal protection benefits* - (i) *Provision of medical removal protection benefits.* The employer shall provide an employee up to eighteen (18) months of medical removal protection benefits on each occasion that an employee is removed from exposure to lead or otherwise limited pursuant to this section.
+(2) *Medical removal protection benefits*—(i) *Provision of medical removal protection benefits.* The employer shall provide an employee up to eighteen (18) months of medical removal protection benefits on each occasion that an employee is removed from exposure to lead or otherwise limited pursuant to this section.
 
 (ii) *Definition of medical removal protection benefits.* For the purposes of this section, the requirement that an employer provide medical removal protection benefits means that, as long as the job the employee was removed from continues, the employer shall maintain the total normal earnings, seniority and other employment rights and benefits of an employee, including the employee's right to his or her former job status as though the employee had not been medically removed from the employee's job or otherwise medically limited.
 
@@ -400,7 +408,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (vi) *Voluntary removal or restriction of an employee.* Where an employer, although not required by this section to do so, removes an employee from exposure to lead or otherwise places limitations on an employee due to the effects of lead exposure on the employee's medical condition, the employer shall provide medical removal protection benefits to the employee equal to that required by paragraph (k)(2) (i) and (ii) of this section.
 
-(l) *Communication of hazards* - (1) *General* - (i) *Hazard communication.* The employer shall include lead in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of lead and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (l) of this section. The employer shall ensure that at least the following hazards are addressed:
+(l) *Communication of hazards*—(1) *General*—(i) *Hazard communication.* The employer shall include lead in the program established to comply with the Hazard Communication Standard (HCS) (§ 1910.1200). The employer shall ensure that each employee has access to labels on containers of lead and safety data sheets, and is trained in accordance with the provisions of HCS and paragraph (l) of this section. The employer shall ensure that at least the following hazards are addressed:
 
 (A) Reproductive/developmental toxicity;
 
@@ -440,7 +448,7 @@ Caution: Clothing contaminated with lead. Do not remove dust by blowing or shaki
 
 (ii) The employer shall provide, upon request, all materials relating to the employee information and training program to affected employees and their designated representatives, and to the Assistant Secretary and the Director.
 
-(m) *Signs* - (1) *General.* (i) The employer shall post the following warning signs in each work area where an employee's exposure to lead is above the PEL.
+(m) *Signs*—(1) *General.* (i) The employer shall post the following warning signs in each work area where an employee's exposure to lead is above the PEL.
 
 DANGERLEAD WORK AREAMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE CENTRAL NERVOUS SYSTEMDO NOT EAT, DRINK OR SMOKE IN THIS AREA
 
@@ -454,7 +462,7 @@ DANGERLEAD WORK AREAMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE
 
 WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
-(n) *Recordkeeping* - (1) *Exposure assessment.* (i) The employer shall establish and maintain an accurate record of all monitoring and other data used in conducting employee exposure assessments as required in paragraph (d) of this section.
+(n) *Recordkeeping*—(1) *Exposure assessment.* (i) The employer shall establish and maintain an accurate record of all monitoring and other data used in conducting employee exposure assessments as required in paragraph (d) of this section.
 
 (ii) Exposure monitoring records shall include:
 
@@ -516,7 +524,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
 (ii) The employer shall also comply with any additional requirements involving the transfer of records set forth in 29 CFR 1910.1020(h).
 
-(o) *Observation of monitoring* - (1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to lead conducted pursuant to paragraph (d) of this section.
+(o) *Observation of monitoring*—(1) *Employee observation.* The employer shall provide affected employees or their designated representatives an opportunity to observe any monitoring of employee exposure to lead conducted pursuant to paragraph (d) of this section.
 
 (2) *Observation procedures.* (i) Whenever observation of the monitoring of employee exposure to lead requires entry into an area where the use of respirators, protective clothing or equipment is required, the employer shall provide the observer with and assure the use of such respirators, clothing and equipment, and shall require the observer to comply with all other applicable safety and health procedures.
 
@@ -530,7 +538,7 @@ WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATING
 
 (p) *Appendices.* The information contained in the appendices to this section is not intended by itself, to create any additional obligations not otherwise imposed by this standard nor detract from any existing obligation.
 
-Appendix A to § 1926.62 - Substance Data Sheet for Occupational Exposure to LeadI. Substance Identification
+Appendix A to § 1926.62—Substance Data Sheet for Occupational Exposure to LeadI. Substance Identification
 
 A. *Substance:* Pure lead (Pb) is a heavy metal at room temperature and pressure and is a basic chemical element. It can combine with various other substances to form numerous lead compounds.
 
@@ -546,7 +554,7 @@ II. Health Hazard Data
 
 A. *Ways in which lead enters your body.* When absorbed into your body in certain doses, lead is a toxic substance. The object of the lead standard is to prevent absorption of harmful quantities of lead. The standard is intended to protect you not only from the immediate toxic effects of lead, but also from the serious toxic effects that may not become apparent until years of exposure have passed. Lead can be absorbed into your body by inhalation (breathing) and ingestion (eating). Lead (except for certain organic lead compounds not covered by the standard, such as tetraethyl lead) is not absorbed through your skin. When lead is scattered in the air as a dust, fume respiratory tract. Inhalation of airborne lead is generally the most important source of occupational lead absorption. You can also absorb lead through your digestive system if lead gets into your mouth and is swallowed. If you handle food, cigarettes, chewing tobacco, or make-up which have lead on them or handle them with hands contaminated with lead, this will contribute to ingestion. A significant portion of the lead that you inhale or ingest gets into your blood stream. Once in your blood stream, lead is circulated throughout your body and stored in various organs and body tissues. Some of this lead is quickly filtered out of your body and excreted, but some remains in the blood and other tissues. As exposure to lead continues, the amount stored in your body will increase if you are absorbing more lead than your body is excreting. Even though you may not be aware of any immediate symptoms of disease, this lead stored in your tissues can be slowly causing irreversible damage, first to individual cells, then to your organs and whole body systems.
 
-B. *Effects of overexposure to lead* - (1) *Short term (acute) overexposure.* Lead is a potent, systemic poison that serves no known useful function once absorbed by your body. Taken in large enough doses, lead can kill you in a matter of days. A condition affecting the brain called acute encephalopathy may arise which develops quickly to seizures, coma, and death from cardiorespiratory arrest. A short term dose of lead can lead to acute encephalopathy. Short term occupational exposures of this magnitude are highly unusual, but not impossible. Similar forms of encephalopathy may, however, arise from extended, chronic exposure to lower doses of lead. There is no sharp dividing line between rapidly developing acute effects of lead, and chronic effects which take longer to acquire. Lead adversely affects numerous body systems, and causes forms of health impairment and disease which arise after periods of exposure as short as days or as long as several years.
+B. *Effects of overexposure to lead*—(1) *Short term (acute) overexposure.* Lead is a potent, systemic poison that serves no known useful function once absorbed by your body. Taken in large enough doses, lead can kill you in a matter of days. A condition affecting the brain called acute encephalopathy may arise which develops quickly to seizures, coma, and death from cardiorespiratory arrest. A short term dose of lead can lead to acute encephalopathy. Short term occupational exposures of this magnitude are highly unusual, but not impossible. Similar forms of encephalopathy may, however, arise from extended, chronic exposure to lower doses of lead. There is no sharp dividing line between rapidly developing acute effects of lead, and chronic effects which take longer to acquire. Lead adversely affects numerous body systems, and causes forms of health impairment and disease which arise after periods of exposure as short as days or as long as several years.
 
 (2) *Long-term (chronic) overexposure.* Chronic overexposure to lead may result in severe damage to your blood-forming, nervous, urinary and reproductive systems. Some common symptoms of chronic overexposure include loss of appetite, metallic taste in the mouth, anxiety, constipation, nausea, pallor, excessive tiredness, weakness, insomnia, headache, nervous irritability, muscle and joint pain or soreness, fine tremors, numbness, dizziness, hyperactivity and colic. In lead colic there may be severe abdominal pain. Damage to the central nervous system in general and the brain (encephalopathy) in particular is one of the most severe forms of lead poisoning. The most severe, often fatal, form of encephalopathy may be preceded by vomiting, a feeling of dullness progressing to drowsiness and stupor, poor memory, restlessness, irritability, tremor, and convulsions. It may arise suddenly with the onset of seizures, followed by coma, and death. There is a tendency for muscular weakness to develop at the same time. This weakness may progress to paralysis often observed as a characteristic “wrist drop” or “foot drop” and is a manifestation of a disease to the nervous system called peripheral neuropathy. Chronic overexposure to lead also results in kidney disease with few, if any, symptoms appearing until extensive and most likely permanent kidney damage has occurred. Routine laboratory tests reveal the presence of this kidney disease only after about two-thirds of kidney function is lost. When overt symptoms of urinary dysfunction arise, it is often too late to correct or prevent worsening conditions, and progression to kidney dialysis or death is possible. Chronic overexposure to lead impairs the reproductive systems of both men and women. Overexposure to lead may result in decreased sex drive, impotence and sterility in men. Lead can alter the structure of sperm cells raising the risk of birth defects. There is evidence of miscarriage and stillbirth in women whose husbands were exposed to lead or who were exposed to lead themselves. Lead exposure also may result in decreased fertility, and abnormal menstrual cycles in women. The course of pregnancy may be adversely affected by exposure to lead since lead crosses the placental barrier and poses risks to developing fetuses. Children born of parents either one of whom were exposed to excess lead levels are more likely to have birth defects, mental retardation, behavioral disorders or die during the first year of childhood. Overexposure to lead also disrupts the blood-forming system resulting in decreased hemoglobin (the substance in the blood that carries oxygen to the cells) and ultimately anemia. Anemia is characterized by weakness, pallor and fatigability as a result of decreased oxygen carrying capacity in the blood.
 
@@ -554,21 +562,21 @@ B. *Effects of overexposure to lead* - (1) *Short term (acute) overexposure.* Le
 
 BLL measurements show the amount of lead circulating in your blood stream, but do not give any information about the amount of lead stored in your various tissues. BLL measurements merely show current absorption of lead, not the effect that lead is having on your body or the effects that past lead exposure may have already caused. Past research into lead-related diseases, however, has focused heavily on associations between BLLs and various diseases. As a result, your BLL is an important indicator of the likelihood that you will gradually acquire a lead-related health impairment or disease.
 
-Once your blood lead level climbs above 40 µg/dl, your risk of disease increases. There is a wide variability of individual response to lead, thus it is difficult to say that a particular BLL in a given person will cause a particular effect. Studies have associated fatal encephalopathy with BLLs as low as 150 µg/dl. Other studies have shown other forms of diseases in some workers with BLLs well below 80 µg/dl. Your BLL is a crucial indicator of the risks to your health, but one other factor is also extremely important. This factor is the length of time you have had elevated BLLs. The longer you have an elevated BLL, the greater the risk that large quantities of lead are being gradually stored in your organs and tissues (body burden). The greater your overall body burden, the greater the chances of substantial permanent damage. The best way to prevent all forms of lead-related impairments and diseases - both short term and long term - is to maintain your BLL below 40 µg/dl. The provisions of the standard are designed with this end in mind.
+Once your blood lead level climbs above 40 µg/dl, your risk of disease increases. There is a wide variability of individual response to lead, thus it is difficult to say that a particular BLL in a given person will cause a particular effect. Studies have associated fatal encephalopathy with BLLs as low as 150 µg/dl. Other studies have shown other forms of diseases in some workers with BLLs well below 80 µg/dl. Your BLL is a crucial indicator of the risks to your health, but one other factor is also extremely important. This factor is the length of time you have had elevated BLLs. The longer you have an elevated BLL, the greater the risk that large quantities of lead are being gradually stored in your organs and tissues (body burden). The greater your overall body burden, the greater the chances of substantial permanent damage. The best way to prevent all forms of lead-related impairments and diseases—both short term and long term—is to maintain your BLL below 40 µg/dl. The provisions of the standard are designed with this end in mind.
 
 Your employer has prime responsibility to assure that the provisions of the standard are complied with both by the company and by individual workers. You, as a worker, however, also have a responsibility to assist your employer in complying with the standard. You can play a key role in protecting your own health by learning about the lead hazards and their control, learning what the standard requires, following the standard where it governs your own actions, and seeing that your employer complies with provisions governing his or her actions.
 
 (4) *Reporting signs and symptoms of health problems.* You should immediately notify your employer if you develop signs or symptoms associated with lead poisoning or if you desire medical advice concerning the effects of current or past exposure to lead or your ability to have a healthy child. You should also notify your employer if you have difficulty breathing during a respirator fit test or while wearing a respirator. In each of these cases, your employer must make available to you appropriate medical examinations or consultations. These must be provided at no cost to you and at a reasonable time and place. The standard contains a procedure whereby you can obtain a second opinion by a physician of your choice if your employer selected the initial physician.
 
-Appendix B to § 1926.62 - Employee Standard Summary
+Appendix B to § 1926.62—Employee Standard Summary
 
 This appendix summarizes key provisions of the interim final standard for lead in construction that you as a worker should become familiar with.
 
-I. Permissible Exposure Limit (PEL) - Paragraph (C)
+I. Permissible Exposure Limit (PEL)—Paragraph (C)
 
 The standard sets a permissible exposure limit (PEL) of 50 micrograms of lead per cubic meter of air (50 µg/m3), averaged over an 8-hour workday which is referred to as a time-weighted average (TWA). This is the highest level of lead in air to which you may be permissibly exposed over an 8-hour workday. However, since this is an 8-hour average, short exposures above the PEL are permitted so long as for each 8-hour work day your average exposure does not exceed this level. This interim final standard, however, takes into account the fact that your daily exposure to lead can extend beyond a typical 8-hour workday as the result of overtime or other alterations in your work schedule. To deal with this situation, the standard contains a formula which reduces your permissible exposure when you are exposed more than 8 hours. For example, if you are exposed to lead for 10 hours a day, the maximum permitted average exposure would be 40 µg/m3.
 
-II. Exposure Assessment - Paragraph (D)
+II. Exposure Assessment—Paragraph (D)
 
 If lead is present in your workplace in any quantity, your employer is required to make an initial determination of whether any employee's exposure to lead exceeds the action level (30 µg/m3 averaged over an 8-hour day). Employee exposure is that exposure which would occur if the employee were not using a respirator. This initial determination requires your employer to monitor workers' exposures unless he or she has objective data which can demonstrate conclusively that no employee will be exposed to lead in excess of the action level. Where objective data is used in lieu of actual monitoring the employer must establish and maintain an accurate record, documenting its relevancy in assessing exposure levels for current job conditions. If such objective data is available, the employer need proceed no further on employee exposure assessment until such time that conditions have changed and the determination is no longer valid.
 
@@ -584,7 +592,7 @@ If you are exposed to lead and air sampling is performed, your employer is requi
 
 Your exposure must be rechecked by monitoring, at least every six months if your exposure is at or over the action level but below the PEL. Your employer may discontinue monitoring for you if 2 consecutive measurements, taken at least 7 days apart, are at or below the action level. Air monitoring must be repeated every 3 months if you are exposed over the PEL. Your employer must continue monitoring for you at this frequency until 2 consecutive measurements, taken at least 7 days apart, are below the PEL but above the action level, at which time your employer must repeat monitoring of your exposure every six months and may discontinue monitoring only after your exposure drops to or below the action level. However, whenever there is a change of equipment, process, control, or personnel or a new type of job is added at your workplace which may result in new or additional exposure to lead, your employer must perform additional monitoring.
 
-III. Methods of Compliance - Paragraph (E)
+III. Methods of Compliance—Paragraph (E)
 
 Your employer is required to assure that no employee is exposed to lead in excess of the PEL as an 8-hour TWA. The interim final standard for lead in construction requires employers to institute engineering and work practice controls including administrative controls to the extent feasible to reduce employee exposure to lead. Where such controls are feasible but not adequate to reduce exposures below the PEL they must be used nonetheless to reduce exposures to the lowest level that can be accomplished by these means and then supplemented with appropriate respiratory protection.
 
@@ -594,7 +602,7 @@ The written compliance program must be made available, upon request, to affected
 
 Finally, the plan must be reviewed and updated at least every 6 months to assure it reflects the current status in exposure control.
 
-IV. Respiratory Protection - Paragraph (F)
+IV. Respiratory Protection—Paragraph (F)
 
 Your employer is required to provide and assure your use of respirators when your exposure to lead is not controlled below the PEL by other means. The employer must pay the cost of the respirator. Whenever you request one, your employer is also required to provide you a respirator even if your air exposure level is not above the PEL. You might desire a respirator when, for example, you have received medical advice that your lead absorption should be decreased. Or, you may intend to have children in the near future, and want to reduce the level of lead in your body to minimize adverse reproductive effects. While respirators are the least satisfactory means of controlling your exposure, they are capable of providing significant protection if properly chosen, fitted, worn, cleaned, maintained, and replaced when they stop providing adequate protection.
 
@@ -608,7 +616,7 @@ You must also receive from your employer proper training in the use of respirato
 
 The standard provides that if your respirator uses filter elements, you must be given an opportunity to change the filter elements whenever an increase in breathing resistance is detected. You also must be permitted to periodically leave your work area to wash your face and respirator facepiece whenever necessary to prevent skin irritation. If you ever have difficulty in breathing during a fit test or while using a respirator, your employer must make a medical examination available to you to determine whether you can safely wear a respirator. The result of this examination may be to give you a positive pressure respirator (which reduces breathing resistance) or to provide alternative means of protection.
 
-V. Protective Work Clothing and Equipment - Paragraph (G)
+V. Protective Work Clothing and Equipment—Paragraph (G)
 
 If you are exposed to lead above the PEL as an 8-hour TWA, without regard to your use of a respirator, or if you are exposed to lead compounds such as lead arsenate or lead azide which can cause skin and eye irritation, your employer must provide you with protective work clothing and equipment appropriate for the hazard. If work clothing is provided, it must be provided in a clean and dry condition at least weekly, and daily if your airborne exposure to lead is greater than 200 µg/m3. Appropriate protective work clothing and equipment can include coveralls or similar full-body work clothing, gloves, hats, shoes or disposable shoe coverlets, and face shields or vented goggles. Your employer is required to provide all such equipment at no cost to you. In addition, your employer is responsible for providing repairs and replacement as necessary, and also is responsible for the cleaning, laundering or disposal of protective clothing and equipment.
 
@@ -642,11 +650,11 @@ Workers should follow these procedures upon finishing work for the day (in addit
 
 4. Wash hands and face again. If showers are available, take a shower and wash hair. If shower facilities are not available at the work site, shower immediately at home and wash hair.
 
-VI. Housekeeping - Paragraph (H)
+VI. Housekeeping—Paragraph (H)
 
 Your employer must establish a housekeeping program sufficient to maintain all surfaces as free as practicable of accumulations of lead dust. Vacuuming is the preferred method of meeting this requirement, and the use of compressed air to clean floors and other surfaces is generally prohibited unless removal with compressed air is done in conjunction with ventilation systems designed to contain dispersal of the lead dust. Dry or wet sweeping, shoveling, or brushing may not be used except where vacuuming or other equally effective methods have been tried and do not work. Vacuums must be used equipped with a special filter called a high-efficiency particulate air (HEPA) filter and emptied in a manner which minimizes the reentry of lead into the workplace.
 
-VII. Hygiene Facilities and Practices - Paragraph (I)
+VII. Hygiene Facilities and Practices—Paragraph (I)
 
 The standard requires that hand washing facilities be provided where occupational exposure to lead occurs. In addition, change areas, showers (where feasible), and lunchrooms or eating areas are to be made available to workers exposed to lead above the PEL. Your employer must assure that except in these facilities, food and beverage is not present or consumed, tobacco products are not present or used, and cosmetics are not applied, where airborne exposures are above the PEL. Change rooms provided by your employer must be equipped with separate storage facilities for your protective clothing and equipment and street clothes to avoid cross-contamination. After showering, no required protective clothing or equipment worn during the shift may be worn home. It is important that contaminated clothing or equipment be removed in change areas and not be worn home or you will extend your exposure and expose your family since lead from your clothing can accumulate in your house, car, etc.
 
@@ -654,11 +662,11 @@ Lunchrooms or eating areas may not be entered with protective clothing or equipm
 
 All of the facilities and hygiene practices just discussed are essential to minimize additional sources of lead absorption from inhalation or ingestion of lead that may accumulate on you, your clothes, or your possessions. Strict compliance with these provisions can virtually eliminate several sources of lead exposure which significantly contribute to excessive lead absorption.
 
-VIII. Medical Surveillance - Paragraph (J)
+VIII. Medical Surveillance—Paragraph (J)
 
 The medical surveillance program is part of the standard's comprehensive approach to the prevention of lead-related disease. Its purpose is to supplement the main thrust of the standard which is aimed at minimizing airborne concentrations of lead and sources of ingestion. Only medical surveillance can determine if the other provisions of the standard have affectively protected you as an individual. Compliance with the standard's provision will protect most workers from the adverse effects of lead exposure, but may not be satisfactory to protect individual workers (1) who have high body burdens of lead acquired over past years, (2) who have additional uncontrolled sources of non-occupational lead exposure, (3) who exhibit unusual variations in lead absorption rates, or (4) who have specific non-work related medical conditions which could be aggravated by lead exposure (e.g., renal disease, anemia). In addition, control systems may fail, or hygiene and respirator programs may be inadequate. Periodic medical surveillance of individual workers will help detect those failures. Medical surveillance will also be important to protect your reproductive ability-regardless of whether you are a man or woman.
 
-All medical surveillance required by the interim final standard must be performed by or under the supervision of a licensed physician. The employer must provide required medical surveillance without cost to employees and at a reasonable time and place. The standard's medical surveillance program has two parts - periodic biological monitoring and medical examinations. Your employer's obligation to offer you medical surveillance is triggered by the results of the air monitoring program. Full medical surveillance must be made available to all employees who are or may be exposed to lead in excess of the action level for more than 30 days a year and whose blood lead level exceeds 40 µg/dl. Initial medical surveillance consisting of blood sampling and analysis for lead and zinc protoporphyrin must be provided to all employees exposed at any time (1 day) above the action level.
+All medical surveillance required by the interim final standard must be performed by or under the supervision of a licensed physician. The employer must provide required medical surveillance without cost to employees and at a reasonable time and place. The standard's medical surveillance program has two parts—periodic biological monitoring and medical examinations. Your employer's obligation to offer you medical surveillance is triggered by the results of the air monitoring program. Full medical surveillance must be made available to all employees who are or may be exposed to lead in excess of the action level for more than 30 days a year and whose blood lead level exceeds 40 µg/dl. Initial medical surveillance consisting of blood sampling and analysis for lead and zinc protoporphyrin must be provided to all employees exposed at any time (1 day) above the action level.
 
 Biological monitoring under the standard must be provided at least every 2 months for the first 6 months and every 6 months thereafter until your blood lead level is below 40 µg/dl. A zinc protoporphyrin (ZPP) test is a very useful blood test which measures an adverse metabolic effect of lead on your body and is therefore an indicator of lead toxicity.
 
@@ -686,7 +694,7 @@ The standard allows the use of “therapeutic” or “diagnostic” chelation i
 
 In cases where the examining physician determines that chelation is appropriate, you must be notified in writing of this fact before such treatment. This will inform you of a potentially harmful treatment, and allow you to obtain a second opinion.
 
-IX. Medical Removal Protection - Paragraph (K)
+IX. Medical Removal Protection—Paragraph (K)
 
 Excessive lead absorption subjects you to increased risk of disease. Medical removal protection (MRP) is a means of protecting you when, for whatever reasons, other methods, such as engineering controls, work practices, and respirators, have failed to provide the protection you need. MRP involves the temporary removal of a worker from his or her regular job to a place of significantly lower exposure without any loss of earnings, seniority, or other employment rights or benefits. The purpose of this program is to cease further lead absorption and allow your body to naturally excrete lead which has previously been absorbed. Temporary medical removal can result from an elevated blood lead level, or a medical opinion. For up to 18 months, or for as long as the job the employee was removed from lasts, protection is provided as a result of either form of removal. The vast majority of removed workers, however, will return to their former jobs long before this eighteen month period expires.
 
@@ -696,7 +704,7 @@ The standard does not give specific instructions dealing with what an employer m
 
 In most cases, employers will likely transfer removed employees to other jobs with sufficiently low lead exposure. Alternatively, a worker's hours may be reduced so that the time weighted average exposure is reduced, or he or she may be temporarily laid off if no other alternative is feasible.
 
-In all of these situation, MRP benefits must be provided during the period of removal - i.e., you continue to receive the same earnings, seniority, and other rights and benefits you would have had if you had not been removed. Earnings includes more than just your base wage; it includes overtime, shift differentials, incentives, and other compensation you would have earned if you had not been removed. During the period of removal you must also be provided with appropriate follow-up medical surveillance. If you were removed because your blood lead level was too high, you must be provided with a monthly blood test. If a medical opinion caused your removal, you must be provided medical tests or examinations that the doctor believes to be appropriate. If you do not participate in this follow up medical surveillance, you may lose your eligibility for MRP benefits.
+In all of these situation, MRP benefits must be provided during the period of removal—i.e., you continue to receive the same earnings, seniority, and other rights and benefits you would have had if you had not been removed. Earnings includes more than just your base wage; it includes overtime, shift differentials, incentives, and other compensation you would have earned if you had not been removed. During the period of removal you must also be provided with appropriate follow-up medical surveillance. If you were removed because your blood lead level was too high, you must be provided with a monthly blood test. If a medical opinion caused your removal, you must be provided medical tests or examinations that the doctor believes to be appropriate. If you do not participate in this follow up medical surveillance, you may lose your eligibility for MRP benefits.
 
 When you are medically eligible to return to your former job, your employer must return you to your “former job status.” This means that you are entitled to the position, wages, benefits, etc., you would have had if you had not been removed. If you would still be in your old job if no removal had occurred that is where you go back. If not, you are returned consistent with whatever job assignment discretion your employer would have had if no removal had occurred. MRP only seeks to maintain your rights, not expand them or diminish them.
 
@@ -704,13 +712,13 @@ If you are removed under MRP and you are also eligible for worker compensation o
 
 The standard also covers situations where an employer voluntarily removes a worker from exposure to lead due to the effects of lead on the employee's medical condition, even though the standard does not require removal. In these situations MRP benefits must still be provided as though the standard required removal. Finally, it is important to note that in all cases where removal is required, respirators cannot be used as a substitute. Respirators may be used before removal becomes necessary, but not as an alternative to a transfer to a low exposure job, or to a lay-off with MRP benefits.
 
-X. Employee Information and Training - Paragraph (L)
+X. Employee Information and Training—Paragraph (L)
 
 Your employer is required to provide an information and training program for all employees exposed to lead above the action level or who may suffer skin or eye irritation from lead compounds such as lead arsenate or lead azide. The program must train these employees regarding the specific hazards associated with their work environment, protective measures which can be taken, including the contents of any compliance plan in effect, the danger of lead to their bodies (including their reproductive systems), and their rights under the standard. All employees must be trained prior to initial assignment to areas where there is a possibility of exposure over the action level.
 
 This training program must also be provided at least annually thereafter unless further exposure above the action level will not occur.
 
-XI. Signs - Paragraph (M)
+XI. Signs—Paragraph (M)
 
 The standard requires that the following warning sign be posted in work areas when the exposure to lead is above the PEL:
 
@@ -718,7 +726,7 @@ DANGERLEAD WORK AREAMAY DAMAGE FERTILITY OR THE UNBORN CHILDCAUSES DAMAGE TO THE
 
 Prior to June 1, 2016, employers may use the following legend in lieu of that specified above:
 
-WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATINGXII. Recordkeeping - Paragraph (N)
+WARNINGLEAD WORK AREAPOISONNO SMOKING OR EATINGXII. Recordkeeping—Paragraph (N)
 
 Your employer is required to keep all records of exposure monitoring for airborne lead. These records must include the name and job classification of employees measured, details of the sampling and analytical techniques, the results of this sampling, and the type of respiratory protection being worn by the person sampled. Such records are to be retained for at least 30 years. Your employer is also required to keep all records of biological monitoring and medical examination results. These records must include the names of the employees, the physician's written opinion, and a copy of the results of the examination. Medical records must be preserved and maintained for the duration of employment plus 30 years. However, if the employee's duration of employment is less than one year, the employer need not retain that employee's medical records beyond the period of employment if they are provided to the employee upon termination of employment.
 
@@ -726,7 +734,7 @@ Recordkeeping is also required if you are temporarily removed from your job unde
 
 The standard requires that if you request to see or copy environmental monitoring, blood lead level monitoring, or medical removal records, they must be made available to you or to a representative that you authorize. Your union also has access to these records. Medical records other than BLL's must also be provided upon request to you, to your physician or to any other person whom you may specifically designate. Your union does not have access to your personal medical records unless you authorize their access.
 
-XIII. Observation of Monitoring - Paragraph (O)
+XIII. Observation of Monitoring—Paragraph (O)
 
 When air monitoring for lead is performed at your workplace as required by this standard, your employer must allow you or someone you designate to act as an observer of the monitoring. Observers are entitled to an explanation of the measurement procedure, and to record the results obtained. Since results will not normally be available at the time of the monitoring, observers are entitled to record or receive the results of the monitoring when returned by the laboratory. Your employer is required to provide the observer with any personal protective devices required to be worn by employees working in the area that is being monitored. The employer must require the observer to wear all such equipment and to comply with all other applicable safety and health procedures.
 
@@ -736,7 +744,7 @@ A. A copy of the interim standard for lead in construction can be obtained free 
 
 B. Additional information about the standard, its enforcement, and your employer's compliance can be obtained from the nearest OSHA Area Office listed in your telephone directory under United States Government/Department of Labor.
 
-Appendix C to § 1926.62 - Medical Surveillance GuidelinesIntroduction
+Appendix C to § 1926.62—Medical Surveillance GuidelinesIntroduction
 
 The primary purpose of the Occupational Safety and Health Act of 1970 is to assure, so far as possible, safe and healthful working conditions for every working man and woman. The interim final occupational health standard for lead in construction is designed to protect workers exposed to inorganic lead including metallic lead, all inorganic lead compounds and organic lead soaps.
 
@@ -852,21 +860,21 @@ The medical history is also of fundamental importance and should include a listi
 
 A careful and complete review of systems must be performed to assess both recognized complaints and subtle or slowly acquired symptoms which the worker might not appreciate as being significant. The review of symptoms should include the following:
 
-1. General - weight loss, fatigue, decreased appetite.
+1. General—weight loss, fatigue, decreased appetite.
 
-2. Head, Eyes, Ears, Nose, Throat (HEENT) - headaches, visual disturbances or decreased visual acuity, hearing deficits or tinnitus, pigmentation of the oral mucosa, or metallic taste in mouth.
+2. Head, Eyes, Ears, Nose, Throat (HEENT)—headaches, visual disturbances or decreased visual acuity, hearing deficits or tinnitus, pigmentation of the oral mucosa, or metallic taste in mouth.
 
-3. Cardio-pulmonary - shortness of breath, cough, chest pains, palpitations, or orthopnea.
+3. Cardio-pulmonary—shortness of breath, cough, chest pains, palpitations, or orthopnea.
 
-4. Gastrointestinal - nausea, vomiting, heartburn, abdominal pain, constipation or diarrhea.
+4. Gastrointestinal—nausea, vomiting, heartburn, abdominal pain, constipation or diarrhea.
 
-5. Neurologic - irritability, insomnia, weakness (fatigue), dizziness, loss of memory, confusion, hallucinations, incoordination, ataxia, decreased strength in hands or feet, disturbances in gait, difficulty in climbing stairs, or seizures.
+5. Neurologic—irritability, insomnia, weakness (fatigue), dizziness, loss of memory, confusion, hallucinations, incoordination, ataxia, decreased strength in hands or feet, disturbances in gait, difficulty in climbing stairs, or seizures.
 
-6. Hematologic - pallor, easy fatigability, abnormal blood loss, melena.
+6. Hematologic—pallor, easy fatigability, abnormal blood loss, melena.
 
-7. Reproductive (male and female and spouse where relevant) - history of infertility, impotence, loss of libido, abnormal menstrual periods, history of miscarriages, stillbirths, or children with birth defects.
+7. Reproductive (male and female and spouse where relevant)—history of infertility, impotence, loss of libido, abnormal menstrual periods, history of miscarriages, stillbirths, or children with birth defects.
 
-8. Musculo-skeletal - muscle and joint pains.
+8. Musculo-skeletal—muscle and joint pains.
 
 The physical examination should emphasize the neurological, gastrointestinal, and cardiovascular systems. The worker's weight and blood pressure should be recorded and the oral mucosa checked for pigmentation characteristic of a possible Burtonian or lead line on the gingiva. It should be noted, however, that the lead line may not be present even in severe lead poisoning if good oral hygiene is practiced.
 
@@ -946,4 +954,4 @@ This document outlines the medical monitoring program as defined by the occupati
 
 It is hoped that this review and discussion will give the physician a better understanding of the OSHA standard with the ultimate goal of protecting the health and well-being of the worker exposed to lead under his or her care.
 
-[58 FR 26627, May 4, 1993, as amended at 58 FR 34218, June 24, 1993; 61 FR 5510, Feb. 13, 1996; 63 FR 1296, Jan. 8, 1998; 70 FR 1143, Jan. 5, 2005; 71 FR 16674, Apr. 3, 2006; 71 FR 50191, Aug. 24, 2006; 73 FR 75588, Dec. 12, 2008; 76 FR 33611, June 8, 2011; 76 FR 80741, Dec. 27, 2011; 77 FR 17890, Mar. 26, 2012; 85 FR 8735, Feb. 18, 2020]
+[58 FR 26627, May 4, 1993, as amended at 58 FR 34218, June 24, 1993; 61 FR 5510, Feb. 13, 1996; 63 FR 1296, Jan. 8, 1998; 70 FR 1143, Jan. 5, 2005; 71 FR 16674, Apr. 3, 2006; 71 FR 50191, Aug. 24, 2006; 73 FR 75588, Dec. 12, 2008; 76 FR 33611, June 8, 2011; 76 FR 80741, Dec. 27, 2011; 77 FR 17890, Mar. 26, 2012; 85 FR 8735, Feb. 18, 2020; 87 FR 38986, June 30, 2022]

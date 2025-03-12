@@ -1,6 +1,6 @@
 ##### § 457.121 Arizona-California citrus crop insurance provisions. #####
 
-The Arizona-California citrus crop insurance provisions for the 2015 and succeeding crop years are as follows:
+The Arizona-California citrus crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationArizona-California Citrus Crop Provisions1. Definitions
 
@@ -36,13 +36,11 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 *Dehorning.* Cutting of any scaffold limb to a length that is not greater than one-fourth (1/4) the height of the tree before cutting.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the insured crop.
-
 *Graft.* To unite a bud or scion with a rootstock or interstock in accordance with recommended practices to form a living union.
 
 *Harvest.* The severance of mature citrus from the tree by pulling, picking, or any other means, or by collecting marketable fruit from the ground.
 
-*Interplanted.* Acreage on which two or more agricultural commodities are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more agricultural commodities are planted in any form of alternating or mixed pattern.
 
 *Interstock.* The area of the tree that is grafted to the rootstock.
 
@@ -60,17 +58,17 @@ United States Department of AgricultureFederal Crop Insurance CorporationArizona
 
 (a) Basic units will be established in accordance with section 1 of the Basic Provisions.
 
-(b) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Unless otherwise allowed by written agreement, optional units may only be established if each optional unit meets one or more of the following:
+(b) Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Unless otherwise allowed by written agreement, optional units may only be established if each optional unit meets one or more of the following:
 
 (1) The optional unit is located on non-contiguous land; and
 
 (2) In addition to or instead of establishing optional units by non-contiguous land, optional units may be established by commodity type if allowed by the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 (a) In addition to the requirements of section 3 of the Basic Provisions, you may select only one price election and coverage level for each citrus fruit group you elect to insure. The price election you choose for each citrus fruit group need not bear the same percentage relationship to the maximum price offered by us for each citrus fruit group. For example, if you choose one hundred percent (100%) of the maximum price election for the citrus fruit group for Valencia oranges, you may choose seventy-five percent (75%) of the maximum price election for the citrus fruit group for Navel oranges. However, if separate price elections are available by commodity type within each citrus fruit group, the price elections you choose for each commodity type must have the same percentage relationship to the maximum price offered by us for each commodity type within the citrus fruit group.
 
-(b) In lieu of reporting your citrus production of marketable fresh fruit for the previous crop year, as required by section 3 of the Basic Provisions (§ 457.8), there is a lag period of one year. Each crop year, you must report your production from two crop years ago, e.g., on the 2015 crop year production report, you will provide your 2013 crop year production.
+(b) In lieu of reporting your citrus production of marketable fresh fruit for the previous crop year, as required by section 3 of the Basic Provisions (§ 457.8), there is a lag period of one year. Each crop year, you must report your production from two crop years ago, e.g., on the 2024 crop year production report, you will provide your 2022 crop year production.
 
 (c) In addition, you must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by commodity type, if applicable:
 
@@ -118,11 +116,11 @@ In accordance with section 8 of the Basic Provisions, the insured crop will be a
 
 (e) That is not sold by direct marketing, unless allowed by the Special Provisions or by written agreement; and
 
-(f) That, unless otherwise provided in the Special Provisions or if we inspect and approve a written agreement to insure such acreage, is grown on trees that have reached at least:
+(f) That, unless otherwise allowed by the Special Provisions, is grown on trees that have reached at least:
 
-(1) The sixth growing season after being set out; or
+(1) The sixth leaf year; or
 
-(2) The fifth growing season after topwork or grafting, if topwork or grafting occurs after set out.
+(2) The fifth leaf year after topwork or grafting, if topwork or grafting occurs after set out.
 
 7. Insurable Acreage
 
@@ -186,7 +184,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (b)In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
 
-(1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be harvested for direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (2) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest or immediately if damage is discovered during harvest so that we may have an opportunity to inspect unharvested trees. You must not sell or dispose of the damaged insured crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, all such production will be considered undamaged and included as production to count.
 
@@ -248,4 +246,4 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013]
+[61 FR 44147, Aug. 28, 1996, as amended at 62 FR 65170, Dec. 10, 1997; 78 FR 46253, July 31, 2013; 87 FR 38892, June 30, 2022]

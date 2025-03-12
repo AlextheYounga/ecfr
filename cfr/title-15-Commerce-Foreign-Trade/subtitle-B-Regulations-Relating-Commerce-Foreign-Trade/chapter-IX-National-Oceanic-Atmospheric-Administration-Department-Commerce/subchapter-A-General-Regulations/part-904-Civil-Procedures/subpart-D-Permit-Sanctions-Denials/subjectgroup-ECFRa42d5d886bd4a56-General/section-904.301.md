@@ -1,5 +1,7 @@
 ##### § 904.301 Bases for permit sanctions or denials. #####
 
+Link to an amendment published at 87 FR 38941, June 30, 2022.
+
 (a) Unless otherwise specified in a settlement agreement, or otherwise provided in this subpart, NOAA may take action under this subpart with respect to any permit issued under the statutes cited in § 904.1(c). The bases for an action to sanction or deny a permit include but are not limited to the following:
 
 (1) The commission of any violation prohibited by any statute administered by NOAA, including violation of any regulation promulgated or permit condition or restriction prescribed thereunder, by the permit holder or with the use of a permitted vessel;

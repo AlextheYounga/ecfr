@@ -1,10 +1,8 @@
 ##### § 457.159 Stonefruit crop insurance provisions. #####
 
-The Stonefruit Crop Insurance Provisions for the 2011 and succeeding crop years are as follows:
+The Stonefruit Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Stonefruit Crop Insurance Provisions1. Definitions
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as wholesaler, retailer, packer, processor, shipper, or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
 
 *Grade standards.* The United States Standards for Grades of Peaches, the United States Standards for Grades of Nectarines, the United States Standards for Grades of Apricots, and the United States Standards for Grades of Fresh Plums and Prunes, or other such standards specified in the Special Provisions.
 
@@ -12,7 +10,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Harvest.* The physical removal of mature stonefruit from the tree either by hand or machine.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Lug.* A container of fresh stonefruit of specified weight. Lugs of varying sizes will be converted to standard lug equivalents on the basis of the following average net pounds of packed fruit, or as specified in the Special Provisions:
 
@@ -53,13 +51,13 @@ Weight for Processing Apricots, Processing Cling Peaches, and Processing Freesto
 
 2. Unit Division
 
-In lieu of the provisions of section 34 of the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices, optional units will only be allowed as stated herein or by written agreement.
+In lieu of the provisions of section 34 of the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices, optional units will only be allowed as stated herein or by written agreement.
 
 (a) *Optional Units on Acreage Located on Non-contiguous Land:* Optional units may be established if each optional unit is located on non-contiguous land.
 
 (b) Optional Units by Type: Optional units may be established by type if allowed by the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -89,11 +87,13 @@ In addition to the requirements of section 3 of the Basic Provisions:
 
 (3) Or may occur after the beginning of the insurance period and you fail to notify us by the production reporting date, production lost due to uninsured causes equal to the amount of the reduction in yield used to establish your production guarantee will be applied in determining any indemnity (see section 11(c)(1)(ii)). We will reduce the yield used to establish your production guarantee for the subsequent crop year.
 
+(d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election we offer if a cause of loss that could or would reduce the yield of the insured crop is evident prior to the time that you request the increase.
+
 4. Contract Changes
 
 In accordance with section 4 of the Basic Provisions, the contract change date is October 31 for California and August 31 preceding the cancellation date for all other states, or as specified in the Special Provisions.
 
-5. Cancellation and Termination Dates.
+5. Cancellation and Termination Dates
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are January 31 for California and November 20 for all other states, or as specified in the Special Provisions.
 
@@ -113,9 +113,9 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (4) Are in compliance with the applicable State's Tree Fruit Agreement or related crop advisory board for the state (for each insured crop and type), when such regulations exist;
 
-(5) Have produced at least 200 lugs of fresh market production per acre, or at least 2.2 tons per acre for processing crops, in at least one of the four most recent actual production history crop years, unless we inspect such acreage and give our approval in writing;
+(5) Have produced at least 200 lugs of fresh market production per acre, or at least 2.2 tons per acre for processing crops, in at least one of the four most recent actual production history crop years, unless otherwise allowed by the Special Provisions;
 
-(6) Have, after being set out or grafted, reached at least the fifth growing season. However, we may give our approval in writing to insure acreage that has not reached this age if it meets the requirements of 6(b)(5); and
+(6) Have reached at least the fifth leaf year, including the fifth leaf year after grafting if grafting occurs after set out, unless otherwise allowed by the Special Provisions; and
 
 (7) Are grown in an orchard that, if inspected, is considered acceptable by us.
 
@@ -191,7 +191,7 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (a) You must notify us within 3 days after the date harvest should have started if the insured crop will not be harvested.
 
-(b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (c) In addition to section 14 of the Basic Provisions, if you intend to claim an indemnity on any unit, you must give us notice at least 15 days prior to the beginning of harvest. You must not destroy the damaged crop until after we have given you written consent to do so. If you fail to notify us and such failure results in our inability to inspect the damaged production, we may consider all such production to be undamaged and include it as production to count.
 
@@ -219,37 +219,37 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (7) Multiplying the result of section 11(b)(6) by your share.
 
-Scenario 1:
+*Scenario 1:*
 
-You select 75 percent coverage level and 100 percent of the price election on 50.0 acres of Type A stonefruit with 100 percent share in the unit. The production guarantee is 500.0 lugs per acre and the price election is $6.00 per lug. You harvest 5,000 lugs. Your indemnity would be calculated as follows:
+You select 75 percent coverage level and 100 percent of the price election on 50.0 acres of Type A stonefruit with 100 percent share in the unit. The approved yield is 500.0 lugs per acre and the price election is $6.00 per lug. You harvest 5,000 lugs. Your indemnity would be calculated as follows:
 
-(1) 50.0 acres × 500.0 lugs = 25,000-lug production guarantee;
+(1) 50.0 acres × 500.0 lugs × 0.75 = 18,750-lug production guarantee;
 
-(2) 25,000 lugs × $6.00 price election × 100 percent of the price election = $150,000 value of production guarantee;
+(2) 18,750 lugs × $6.00 price election × 100 percent of the price election = $112,500 value of production guarantee;
 
 (4) 5,000 harvested lugs × $6.00 price election × 100 percent of the price election = $30,000 value of production to count;
 
-(6) $150,000-$30,000 = $120,000 loss; and
+(6) $112,500 − $30,000 = $82,500 loss; and
 
-(7) 120,000 × 1.000 share = $120,000 indemnity payment.
+(7) $82,500 × 1.000 share = $82,500 indemnity payment.
 
-Scenario 2:
+*Scenario 2:*
 
-In addition to the above information in Scenario 1, you have an additional 50.0 acres of Type B stonefruit with 100 percent share in the unit. The production guarantee is 300.0 lugs per acre and the price election is $3.00 per lug. You harvest 3,000 lugs. Your indemnity would be calculated as follows:
+In addition to the above information in Scenario 1, you have an additional 50.0 acres of Type B stonefruit with 100 percent share in the unit. The approved yield is 300.0 lugs per acre and the price election is $4.00 per lug. You harvest 3,000 lugs. Your indemnity would be calculated as follows:
 
-(1) 50.0 acres × 500.0 lugs Type A = 25,000-lug guarantee; and 50.0 acres × 300.0 lugs Type B = 15,000-lug guarantee;
+(1) 50.0 acres × 500.0 lugs × 0.75 Type A = 18,750-lug guarantee; and 50.0 acres × 300.0 lugs × 0.75 Type B = 11,250-lug guarantee;
 
-(2) 25,000 lugs × $6.00 price election × 100 percent of the price election = $150,000 value of guarantee for Type A; and 15,000 lugs × $3.00 price election × 100 percent of the price election = $45,000 value of guarantee for Type B;
+(2) 18,750 lugs × $6.00 price election × 100 percent of the price election = $112,500 value of guarantee for Type A; and 11,250 lugs × $4.00 price election × 100 percent of the price election = $45,000 value of guarantee for Type B;
 
-(3) $150,000 + $45,000 = $195,000 total value of production guarantee;
+(3) $112,500 + $45,000 = $157,500 total value of production guarantee;
 
-(4) 5,000 harvested lugs Type A × $6.00 price election × 100 percent of the price election = $30,000 value of production to count; and 3,000 harvested lugs Type B × $3.00 price election × 100 percent of the price election = $9,000 value of production to count;
+(4) 5,000 harvested lugs Type A × $6.00 price election × 100 percent of the price election = $30,000 value of production to count; and 3,000 harvested lugs Type B × $4.00 price election × 100 percent of the price election = $12,000 value of production to count;
 
-(5) $30,000 + $9,000 = $39,000 total value of production to count;
+(5) $30,000 + $12,000 = $42,000 total value of production to count;
 
-(6) $195,000-$39,000 = $156,000 total loss; and
+(6) $157,500 − $42,000 = $115,500 total loss; and
 
-(7) $156,000 loss × 1.000 share = $156,000 indemnity payment.
+(7) $115,500 loss × 1.000 share = $115,500 indemnity payment.
 
 (c) The total production to count (in lugs or tons) from all insurable acres on a unit will include:
 
@@ -289,4 +289,4 @@ In addition to the above information in Scenario 1, you have an additional 50.0 
 
 The late and prevented planting provisions of the Basic Provisions (§ 457.8) are not applicable.
 
-[63 FR 29935, June 2, 1998, as amended at 65 FR 47840, Aug. 4, 2000; 75 FR 44717, July 29, 2010]
+[63 FR 29935, June 2, 1998, as amended at 65 FR 47840, Aug. 4, 2000; 75 FR 44717, July 29, 2010; 87 FR 38897, June 30, 2022]

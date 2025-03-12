@@ -1,5 +1,7 @@
 ##### § 904.504 Administrative forfeiture proceedings. #####
 
+Link to an amendment published at 87 FR 38942, June 30, 2022.
+
 (a) *When authorized.* This section applies to property that is determined under § 904.503 to have a value of $500,000 or less, and that is subject to administrative forfeiture under the applicable statute. This section does not apply to conveyances seized in connection with criminal proceedings.
 
 (b) *Procedure.* (1) NOAA will publish a Notice of Proposed Forfeiture once a week for at least three successive weeks in a newspaper of general circulation in the Federal judicial district in which the property was seized. However, if the value of the seized property does not exceed $1,000, the Notice may be published by posting for at least three successive weeks in a conspicuous place accessible to the public at the National Marine Fisheries Service Enforcement Office, U.S. District Court, or the U.S. Customs House nearest the place of seizure, with the date of posting indicated on the Notice. In addition, a reasonable effort will be made to serve the Notice, as provided in § 904.3, on each person whose identity, address and interest in the property are known or easily ascertainable.

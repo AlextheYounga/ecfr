@@ -1,10 +1,10 @@
 ##### § 457.129 Fresh market sweet corn crop insurance provisions. #####
 
-The fresh market sweet corn crop insurance provisions for the 2008 and succeeding crop years for all counties with a contract change date on or after the effective date of this rule and for the 2009 and succeeding crop years for all counties with a contract change date prior to the effective date of this rule, as follows:
+The fresh market sweet corn crop insurance provisions for the 2023 and succeeding crop years in counties with a contract change date of November 30, and for the 2024 and succeeding crop years in counties with a contract change date of April 30, are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh Market Sweet Corn Crop Provisions1. Definitions
 
-*Allowable cost.* The dollar amount per container for harvesting, packing, and handling as shown in the Special Provisions.
+*Allowable cost.* The dollar amount per container for harvesting, packing, and handling as shown in the actuarial documents.
 
 *Amount of insurance (per acre).* The dollar amount of coverage per acre obtained by multiplying the reference maximum dollar amount shown on the actuarial documents by the coverage level percentage you elect.
 
@@ -14,19 +14,17 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Crop year.* In lieu of the definition of “crop year” contained in section 1 of the Basic Provisions, for counties with fall, winter, and spring planting periods or counties with fall and spring planting periods, the period of time that begins on the first day of the earliest planting period for fall planted sweet corn and continues through the last day of the insurance period for spring planted sweet corn. For counties with only spring planting periods, the period of time that begins on the earliest planting period for spring planted sweet corn and continues through the last day of the insurance period for spring planted sweet corn. The crop year is designated by the calendar year in which spring planted sweet corn is harvested.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
-
 *Harvest.* Separation of ears of sweet corn from the plant by hand or machine.
 
 *Marketable sweet corn.* Sweet corn that is sold for any purpose or grades U.S. No. 1 or better in accordance with the requirements of the United States Standards for Grades of Sweet Corn.
 
-*Minimum value.* The dollar amount per container shown in the Special Provisions we will use to value marketable production to count.
+*Minimum value.* The dollar amount per container shown in the actuarial documents we will use to value marketable production to count.
 
 *Net value.* The dollar value of packed and sold sweet corn obtained by subtracting the allowable cost and any additional charges specified in the Special Provisions from the gross value per container of sweet corn sold. This result may not be less than zero.
 
 *Plant stand.* The number of live plants per acre prior to the occurrence of an insurable cause of loss.
 
-*Planted acreage.* In addition to the definition contained in the Basic Provisions, for each planting period, sweet corn seed must be planted in rows far enough apart to permit mechanical cultivation, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
+*Planted acreage.* In addition to the definition contained in section 1 of the Basic Provisions, for each planting period, sweet corn seed must be planted in rows far enough apart to permit mechanical cultivation, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
 *Planting period.* The period of time designated in the actuarial documents in which sweet corn must be planted to be considered fall, winter, or spring-planted sweet corn.
 
@@ -63,20 +61,20 @@ A basic unit, as defined in section 1 of the Basic Provisions, will also be esta
 
 In accordance with section 4 of the Basic Provisions, the contract change date shown below is the date preceding the cancellation date:
 
-|                                                 State and county                                                  |    Date    |
-|-------------------------------------------------------------------------------------------------------------------|------------|
-| All Florida counties; and all Georgia counties for which the Special Provisions designate a fall planting period  | April 30.  |
-|All Georgia counties for which the Special Provisions do not designate a fall planting period; and all other States|November 30.|
+|                                                State and county                                                |    Date    |
+|----------------------------------------------------------------------------------------------------------------|------------|
+|All Florida counties; and all Georgia counties for which the Special Provisions designate a fall planting period| April 30.  |
+|                                  Toombs County, Georgia; and all other states                                  |November 30.|
 
-5. Cancellation and Termination dates
+5. Cancellation and Termination Dates
 
-In accordance with section 2, the cancellation and termination dates are:
+In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are:
 
-|                                                                                                State and county                                                                                                |Cancellation and termination Dates|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
-|Florida; Atkinson, Baker, Berrien, Brantley, Camden, Colquitt, Cook, Early, Mitchell, and Ware Counties Georgia and all counties south thereof for which the Special Provisions designate a fall planting period|             July 31.             |
-|                                           Alabama; South Carolina; and all Georgia Counties for which the Special Provisions do not designate a fall planting period                                           |           February 15.           |
-|                                                                                                All other States                                                                                                |            March 15.             |
+|                                         State and county                                          |Cancellation and termination dates|
+|---------------------------------------------------------------------------------------------------|----------------------------------|
+|Florida; and all Georgia counties for which the Special Provisions designate a fall planting period|             July 31.             |
+|                                Alabama; and Toombs County, Georgia                                |           February 15.           |
+|                                         All other states                                          |            March 15.             |
 
 6. Report of Acreage
 
@@ -98,7 +96,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (2) Planted within the planting periods designated in the actuarial documents;
 
-(3) Grown under an irrigated practice, unless otherwise provided in the Special Provisions;
+(3) Grown under an irrigated practice, unless otherwise provided in the Special Provisions; and
 
 (4) Grown by a person who in at least one of the three previous crop years:
 
@@ -194,9 +192,9 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 (3) The calendar date for the end of the insurance period.
 
-(b) If insurance is permitted by the Special Provisions or by written agreement on acreage with production that will be sold by direct marketing, you must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine the value of your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal if you notify us that additional damage has occurred. These appraisals, and/or any acceptable production records provided by you, will be used to determine the value of your production to count.
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine the value of your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal if you notify us that additional damage has occurred. These appraisals, and/or any acceptable production records provided by you, will be used to determine the value of your production to count.
 
-(c) Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the dollar amount of insurance (per acre) for the applicable stage if such failure results in our inability to accurately determine the value of production.
+(c) Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the dollar amount of insurance (per acre) for the applicable stage if such failure results in our inability to accurately determine the value of production.
 
 14. Settlement of Claim
 
@@ -212,7 +210,7 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 (2) Multiplying each result in section 14(b)(1) by the percentage for the applicable stage (see section 3(e));
 
-(3) Totalling the results of section 14(b)(2);
+(3) Totaling the results of section 14(b)(2);
 
 (4) Subtracting either of the following values from the result of section 14(b)(3):
 
@@ -222,15 +220,19 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 (5) Multiplying the result of section 14(b)(4) by your share.
 
-|                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                                                                                                                                                                                                                                                                                                                                                    For example:                                                                                                                                                                                                                                                                                                                                                    |
-|You have a 100 percent share in 65.3 acres of fresh market sweet corn in the unit (15.0 acres in stage 1 and 50.3 acres in the final stage), with a dollar amount of insurance of $600 per acre. The 15.0 acre field was damaged by flood and appraisals of the crop determined there was no potential production to be counted. From the 50.3 acre field, you are only able to harvest 5,627 containers of sweet corn. The net value of all sweet corn production sold ($3.11 per container) is greater than the Minimum Value per container ($2.50). The 5,627 containers sold × $3.11 average net value per container = $17,500 value of your production to count. Your indemnity would be calculated as follows:|
-|                                                                                                                                                                                                                                                                                                    1 15.0 acres × $600 amount of insurance = $9,000 and  <br/> 50.3 acres × $600 amount of insurance = $30,180;                                                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                    2 $9,000 × .65 (percent for stage 1) = $5,850 and  <br/> $30,180 × 1.00 (percent for final stage) = $30,180;                                                                                                                                                                                                                                                                                                    |
-|                                                                                                                                                                                                                                                                                                                           3 $5,850 + $30,180 = $36,030 amount of insurance for the unit;                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                           4 $36,030−$17,500 value of production to count = $18,530 loss;                                                                                                                                                                                                                                                                                                                           |
-|                                                                                                                                                                                                                                                                                                                             5 $18,530 × 100 percent share = $18,530 indemnity payment.                                                                                                                                                                                                                                                                                                                             |
+*For example:*
+
+You have a 100 percent share in 65.3 acres of fresh market sweet corn in the unit (15.0 acres in stage 1 and 50.3 acres in the final stage), with a dollar amount of insurance of $1,000 per acre. The 15.0 acre field was damaged by flood and appraisals of the crop determined there was no potential production to be counted. From the 50.3 acre field, you are only able to harvest 5,627 containers of sweet corn. The net value of all sweet corn production sold ($3.50 per container) is greater than the Minimum Value per container ($3.30). The 5,627 containers sold × $3.50 average net value per container = $19,694.50 value of your production to count. Your indemnity would be calculated as follows:
+
+(1) 15.0 acres × $1,000 amount of insurance = $15,000 and 50.3 acres × $1,000 amount of insurance = $50,300;
+
+(2) $15,000 × .65 (percent for stage 1) = $9,750 and $50,300 × 1.00 (percent for final stage) = $50,300;
+
+(3) $9,750 + $50,300 = $60,050 amount of insurance for the unit;
+
+(4) $60,050−$19,694.50 value of production to count = $40,355.50 loss;
+
+(5) $40,355.50 × 100 percent share = $40,355.50 indemnity payment.
 
 (c) The total value of production to count from all insurable acreage on the unit will include:
 
@@ -288,7 +290,7 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (b) In lieu of the provisions contained in section 14(c)(3) of these Crop Provisions, the total value of harvested production that is not sold by direct marketing will be determined as follows:
 
-(1) The dollar amount obtained by multiplying the average net value per container from all sweet corn sold (this result may not be less than the minimum value option amount if such amount is provided in the Special Provisions) by the total number of all containers of sweet corn sold;
+(1) The dollar amount obtained by multiplying the average net value per container from all sweet corn sold (this result may not be less than the minimum value option amount if such amount is provided in the actuarial documents) by the total number of all containers of sweet corn sold;
 
 (2) For marketable sweet corn production that is not sold, the value of such production will be the dollar amount obtained by multiplying the total number of containers of such sweet corn by the minimum value for the planting period. Harvested production that is damaged or defective due to insurable causes and is not marketable will not be included as production to count.
 
@@ -300,4 +302,4 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (d) This option may be canceled by either you or us for any succeeding crop year by giving written notice on or before the cancellation date preceding the crop year for which the cancellation of this option is to be effective.
 
-[62 FR 14783, Mar. 28, 1997; 62 FR 26205, May 13, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 72 FR 54523, Sept. 26, 2007; 72 FR 62767, Nov. 7, 2007]
+[62 FR 14783, Mar. 28, 1997; 62 FR 26205, May 13, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 72 FR 54523, Sept. 26, 2007; 72 FR 62767, Nov. 7, 2007; 87 FR 38893, June 30, 2022]

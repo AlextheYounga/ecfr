@@ -1,6 +1,6 @@
 ##### § 457.175 California avocado crop insurance provisions. #####
 
-The California avocado crop provisions for the 2020 and succeeding crop years are as follows:
+The California avocado crop provisions for the 2024 and succeeding crop years are as follows:
 
 FCIC policies:
 
@@ -12,13 +12,11 @@ CDFA. The California Department of Food and Agriculture.
 
 *Crop year.* The period of time that begins on December 1 immediately prior to the time the avocado trees normally bloom and that ends on October 31 of the calendar year following such bloom. Crop year is designated by the calendar year following the year in which the avocado trees normally bloom.
 
-*Direct marketing.* The sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the fields for the purpose of picking all or a portion of the crop.
-
 *Harvest.* Picking of marketable avocado fruit from the trees or from the ground when permitted as described in section 11(c).
 
 *Initially apply.* Your application for crop insurance under these Crop Provisions for the first time and following each time you have cancelled the insurance or the insurance has terminated by action of the policy.
 
-*Interplanted.* Acreage in which two or more crops are planted in any form of an alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage in which two or more crops are planted in any form of an alternating or mixed pattern.
 
 *Marketable.* An avocado fruit that meets the standards published by the CDFA with respect to maturity, defects, size, and weight.
 
@@ -54,7 +52,7 @@ CDFA. The California Department of Food and Agriculture.
 
 (c) Subsections (a) and (c) of section 34 of the Basic Provisions do not apply to these Crop Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -112,7 +110,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (5) That is grown on trees that, if inspected, are considered acceptable to us.
 
-(b) In addition to the provisions of section 8 of the Basic Provisions that identify an uninsurable crop, we do not insure any avocados produced on trees that have not reached the sixth growing season after set out unless the unit has produced an average of at least 2,000 pounds of avocados per acre in one of the most recent three crop years or as otherwise specified in the Special Provisions.
+(b) In addition to the provisions of section 8 of the Basic Provisions that identify an uninsurable crop, we do not insure any avocados produced on trees that have not reached the sixth leaf year unless the unit has produced an average of at least 2,000 pounds of avocados per acre in one of the most recent three crop years or as otherwise specified in the Special Provisions.
 
 (c) Avocado trees that have been stumped are not insurable for three calendar years after the year stumping was performed. The calendar year stumping occurred will be considered to be the actual calendar year if performed between January 1 and June 30 of that year. It will be considered to be the following calendar year if performed between July 1 and December 31.
 
@@ -174,7 +172,7 @@ No premium will be due or indemnity paid unless a properly executed transfer of 
 
 In addition to the requirements of section 14 of the Basic Provisions:
 
-(a) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an inspection and appraisal, if needed, that will be used to determine your production to count for such production. If damage occurs after this inspection, we will conduct one or more additional inspections as needed. These inspections, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice as required will result in production to count determined as described in section 11(c) if we are not able to determine the amount of such production;
+(a) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an inspection and appraisal, if needed, that will be used to determine your production to count for such production. If damage occurs after this inspection, we will conduct one or more additional inspections as needed. These inspections, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice as required will result in production to count determined as described in section 11(c) if we are not able to determine the amount of such production;
 
 (b) If you intend to claim an indemnity on any unit, you must notify us immediately so we may inspect the unit. You must not sell or otherwise dispose of any damaged production until we have given you written consent to do so, or 15 days, whichever is earlier. If you fail to meet the requirements of this subsection all such production will be considered undamaged and included as production to count;
 
@@ -260,4 +258,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018; 87 FR 38900, June 30, 2022]

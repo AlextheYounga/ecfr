@@ -1,5 +1,7 @@
 ##### § 904.505 Summary sale. #####
 
+Link to an amendment published at 87 FR 38942, June 30, 2022.
+
 (a) In view of the perishable nature of fish, any person authorized to enforce a statute administered by NOAA may, as authorized by law, sell or cause to be sold, and any person may purchase, for not less than its domestic fair market value, fish seized under such statute.
 
 (b) Any person purchasing fish subject to this section must deliver the proceeds of the sale to a person authorized to enforce a statute administered by NOAA immediately upon request of such authorized person. Anyone who does not so deliver the proceeds may be subject to penalties under the applicable statute or statutes.

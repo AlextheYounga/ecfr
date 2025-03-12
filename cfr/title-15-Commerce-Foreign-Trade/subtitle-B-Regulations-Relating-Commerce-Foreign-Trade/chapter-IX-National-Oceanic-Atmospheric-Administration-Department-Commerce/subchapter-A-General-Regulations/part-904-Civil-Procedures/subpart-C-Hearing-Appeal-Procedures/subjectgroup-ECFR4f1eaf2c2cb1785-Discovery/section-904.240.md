@@ -1,5 +1,7 @@
 ##### § 904.240 Discovery generally. #####
 
+Link to an amendment published at 87 FR 38938, June 30, 2022.
+
 (a) *Preliminary position on issues and procedures (PPIP).* Prior to hearing the Judge will ordinarily require the parties to submit a written PPIP. Except for information regarding a respondent's ability to pay an assessed civil penalty, this PPIP will normally obviate the need for further discovery.
 
 (1) The PPIP shall include the following information: A factual summary of the case; a summary of all factual and legal issues in dispute; a list of all defenses that will be asserted, together with a summary of all factual and legal bases supporting each defense; a list of all potential witnesses, together with a summary of their anticipated testimony; and a list of all potential exhibits.

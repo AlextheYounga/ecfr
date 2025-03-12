@@ -1,5 +1,7 @@
 ##### § 120.701 Definitions. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *Deposit account* is a demand, time, savings, passbook, or similar account maintained with an insured depository institution (not including an account evidenced by a Certificate of Deposit).
 
 (b) *Grant* is a Federal award of money, or property in lieu of money (including cooperative agreements) to an eligible grantee that must account for its use. The term does not include the provision of technical assistance, revenue sharing, loans, loan guarantees, interest subsidies, insurance, direct appropriations, or any fellowship or other lump sum award.

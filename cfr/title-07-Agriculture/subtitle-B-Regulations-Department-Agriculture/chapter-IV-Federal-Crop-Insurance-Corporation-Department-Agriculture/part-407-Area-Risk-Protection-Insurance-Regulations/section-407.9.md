@@ -110,6 +110,8 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Expected county yield.* The yield, established in accordance with section 15, contained in the actuarial documents on which your coverage for the crop year is based.
 
+*Farm management record.* A contemporaneous record provided by you that documents your actual production recorded at the time of harvest, storing of the crop, or use of the crop for feed, and can be used to substantiate your actual production reported on the production report.
+
 *FCIC.* The Federal Crop Insurance Corporation, a wholly owned corporation within USDA.
 
 *Final county revenue.* The revenue determined by multiplying the final county yield by the harvest price with the result used to determine whether an indemnity will be due for Area Revenue Protection and Area Revenue Protection with the Harvest Price Exclusion, and released by FCIC at a time specified in the Crop Provisions.
@@ -190,7 +192,9 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Premium billing date.* The earliest date upon which you will be billed for insurance coverage based on your acreage report. The premium billing date is contained in the actuarial documents.
 
-*Production report.* A written record showing your annual production in accordance with section 8. The report contains yield information for the current year, including acreage and production. This report must be supported by written verifiable records from a warehouseman or buyer of the insured crop, by measurement of farm-stored production, or by other records of production approved by us in accordance with FCIC procedures.
+*Production record.* A written record that documents your actual production reported on the production report. The record must be an acceptable verifiable record or an acceptable farm management record as authorized by FCIC procedures.
+
+*Production report.* A written report provided by you showing your annual production in accordance with section 8. The report contains yield information for the current year, including planted acreage and production. This report must be supported by acceptable production records.
 
 *Production reporting date.* The date contained in the actuarial documents by which you are required to submit your production report.
 
@@ -248,7 +252,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *USDA.* United States Department of Agriculture.
 
-*Verifiable records.* Has the same meaning as the term defined in 7 CFR part 400, subpart G.
+*Verifiable record.* A contemporaneous record from a disinterested third party that substantiates your actual production reported on the production report. The record must be a document or evidence from a disinterested third party that is accurate and can be validated or verified by us.
 
 *Veteran farmer or rancher.*
 
@@ -798,7 +802,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (2) Because the incorrect information was the result of our error or the error of someone from USDA.
 
-(o) If you do not have records to support the information on your production report, you will be subject to the provisions in 8(m).
+(o) If you do not have acceptable production records to support the information you certified on your production report, you will be subject to the provisions in 8(m).
 
 (p) At any time we discover you have misreported any material information on your production report, you will be subject to the provisions in 8(m).
 
@@ -1202,9 +1206,11 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (1) We will make preliminary decisions regarding what constitutes a good farming practice.
 
-(2) If you disagree with our decision of what constitutes a good farming practice, you must request a determination from FCIC of what constitutes a good farming practice.
+(i) If you disagree with our decision of what constitutes a good farming practice you may request through us that FCIC review our decision. Requests for FCIC review must be made within 30 days of the postmark date on the written notice of the determination regarding good farming practices.
 
-(3) If you do not agree with any determination made by FCIC regarding what constitutes a good farming practice:
+(ii) You may not sue us for our decisions regarding whether good farming practices were used by you. You must request a determination from FCIC of what constitutes a good farming practice before filing any suit against FCIC.
+
+(2) If you do not agree with any determination made by FCIC regarding what constitutes a good farming practice:
 
 (i) You may request reconsideration by FCIC of this determination in accordance with the reconsideration process established for this purpose and published at 7 CFR part 400, subpart J; or
 
@@ -1374,4 +1380,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020; 86 FR 34610, June 30, 2021; 86 FR 42681, Aug. 5, 2021; 86 FR 67836, Nov. 30, 2021; 87 FR 38890, June 30, 2022]

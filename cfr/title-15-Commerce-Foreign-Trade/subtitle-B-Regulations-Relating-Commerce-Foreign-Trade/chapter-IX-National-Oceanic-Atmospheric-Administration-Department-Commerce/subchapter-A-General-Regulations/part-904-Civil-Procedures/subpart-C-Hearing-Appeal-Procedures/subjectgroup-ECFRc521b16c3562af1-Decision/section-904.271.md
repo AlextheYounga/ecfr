@@ -1,5 +1,7 @@
 ##### § 904.271 Initial decision. #####
 
+Link to an amendment published at 87 FR 38939, June 30, 2022.
+
 (a) After expiration of the period provided in § 904.261 for the filing of reply briefs (unless the parties have waived briefs or presented proposed findings orally at the hearing), the Judge will render a written decision upon the record in the case, setting forth:
 
 (1) Findings and conclusions, and the reasons or bases therefor, on all material issues of fact, law, or discretion presented on the record;

@@ -1,5 +1,7 @@
 ##### § 904.303 Notice of intent to deny permit (NIDP). #####
 
+Link to an amendment published at 87 FR 38941, June 30, 2022.
+
 (a) NOAA may issue a NIDP if the permit applicant has been charged with a violation of a statute, regulation, or permit administered by NOAA, for failure to pay a civil penalty or criminal fine, or for failure to comply with any term of a settlement agreement.
 
 (b) The NIDP will set forth the basis for its issuance and any opportunity for a hearing, and will be served in accordance with § 904.3.

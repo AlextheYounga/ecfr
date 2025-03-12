@@ -1,14 +1,12 @@
 ##### § 457.133 Prune crop insurance provisions. #####
 
-The Prune Crop Insurance Provisions for the 2013 and succeeding crop years are as follows:
+The Prune Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Prune Crop Provisions1. Definitions
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include: selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
-
 *Harvest.* Picking of mature prunes from the trees or ground either by hand or machine.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Natural condition prunes.* The condition of prunes in which they are normally delivered from a dehydrator or dry yard.
 
@@ -16,7 +14,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Standard prunes.* Any natural condition prunes:
 
-(a) That grade “C” or better in accordance with the United States Standards for Grades of Fresh Plums and Prunes; or
+(a) That grade “C,” “U.S. Standard,” or better in accordance with the United States Standards for Grades of Dried Prunes; or
 
 (b) That meet or exceed the grade standards in effect for the crop year if a Federal Marketing Agreement Dried Prune Order has been established for the area in which the insured crop is grown.
 
@@ -24,13 +22,13 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by irrigated and non-irrigated practices are not applicable. Instead of establishing optional units by section, section equivalent, or FSA farm serial number optional units may be established if each optional unit is located on non-contiguous land.
+Provisions in the Basic Provisions that allow optional units by irrigated and non-irrigated practices are not applicable. Instead of establishing optional units by section, section equivalent, or FSA farm number optional units may be established if each optional unit is located on non-contiguous land.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
-(a) You may select only one price election for all the prunes in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) You may select only one price election for all the prunes in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) You must report, by the production reporting date designated in section 3 of the Basic Provisions, by type if applicable:
 
@@ -84,7 +82,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (4) Are grown in an orchard that, if inspected, is considered acceptable by us; and
 
-(5) Have reached at least the seventh growing season after being set out.
+(5) Have reached at least the seventh leaf year.
 
 7. Insurable Acreage
 
@@ -146,7 +144,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (1) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
-(2) You must notify us at least 15 days before any production from any unit will be sold by direct marketing or sold as fresh fruit. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing or is sold as fresh fruit production. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing or sold as fresh fruit will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(2) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing or is sold as fresh fruit production. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing or sold as fresh fruit will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (3) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest, or immediately if damage is discovered during harvest, so that we may inspect the damaged production.
 
@@ -176,33 +174,37 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (7) Multiplying the result of section 11(b)(6) by your share.
 
-Example 1:You select 75 percent coverage level, 100 percent of the price election, and have a 100 percent share in 50.0 acres of type A prunes in the unit. The production guarantee is 2.5 tons per acre and your price election is $630.00 per ton. You harvest 10.0 tons. Your indemnity would be calculated as follows:
+*Example 1*:
 
-(1) 50.0 acres × 2.5 tons = 125.0-ton production guarantee;
+You select 75 percent coverage level, 100 percent of the price election, and have a 100 percent share in 50.0 acres of type A prunes in the unit. The approved yield is 2.5 tons per acre and your price election is $1,000 per ton. You harvest 10.0 tons. Your indemnity would be calculated as follows:
 
-(2) 125.0-ton guarantee × $630.00 price election = $78,750 value of production guarantee;
+(1) 50.0 acres × 2.5 tons × 0.75 = 93.75-ton production guarantee;
 
-(4) 10.0 tons × $630.00 price election = $6,300 value of production to count;
+(2) 93.75-ton guarantee × $1,000 price election = $93,750 value of production guarantee;
 
-(6) $78,750−$6,300 = $72,450 loss; and
+(4) 10.0 tons × $1,000 price election = $10,000 value of production to count;
 
-(7) $72,450 × 1.000 share = $72,450 indemnity payment.
+(6) $93,750 − $10,000 = $83,750 loss; and
 
-Example 2:In addition to the information in the first example, you have an additional 50.0 acres of type B prunes with 100 percent share in the same unit. The production guarantee is 2.0 tons per acre and the price election is $550.00 per ton. You harvest 5.0 tons. Your total indemnity for both types A and B would be calculated as follows:
+(7) $83,750 × 1.000 share = $83,750 indemnity payment.
 
-(1) 50.0 acres × 2.5 tons = 125.0-ton production guarantee for type A and 50.0 acres × 2.0 tons = 100.0-ton production guarantee for type B;
+*Example 2:*
 
-(2) 125.0-ton guarantee × $630.00 price election = $78,750 value of production guarantee for type A and 100.0-ton guarantee × $550.00 price election = $55,000 value production guarantee for type B;
+In addition to the information in the first example, you have an additional 50.0 acres of type B prunes with 100 percent share in the same unit. The approved yield is 2.0 tons per acre and the price election is $900 per ton. You harvest 5.0 tons. Your total indemnity for both types A and B would be calculated as follows:
 
-(3) $78,750 + $55,000 = $133,750 total value of production guarantee;
+(1) 50.0 acres × 2.5 tons × 0.75 = 93.75-ton production guarantee for type A and 50.0 acres × 2.0 × 0.75 tons = 75.0-ton production guarantee for type B;
 
-(4) 10.0 tons × $630.00 price election = $6,300 value of production to count for type A and 5.0 tons × $550.00 price election = $2,750 value of production to count for type B;
+(2) 93.75-ton guarantee × $1,000 price election = $93,750 value of production guarantee for type A and 75.0-ton guarantee × $900 price election = $67,500 value production guarantee for type B;
 
-(5) $6,300 + $2,750 = $9,050 total value of production to count;
+(3) $93,750 + $67,500 = $ 161,250 total value of production guarantee;
 
-(6) $133,750−$9,050 = $124,700 loss; and
+(4) 10.0 tons × $1,000 price election = $10,000 value of production to count for type A and 5.0 tons × $900 price election = $4,500 value of production to count for type B;
 
-(7) $124,700 loss × 1.000 share = $124,700 indemnity payment.
+(5) $10,000 + $4,500 = $14,500 total value of production to count;
+
+(6) $161,250 − $14,500 = $146,750 loss; and
+
+(7) $146,750 loss × 1.000 share = $146,750 indemnity payment.
 
 (c) The total production to count (in tons) from all insurable acreage on the unit will include:
 
@@ -240,4 +242,4 @@ Example 2:In addition to the information in the first example, you have an addit
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012]
+[62 FR 58630, Oct. 30, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 59048, Sept. 26, 2012; 87 FR 38894, June 30, 2022]

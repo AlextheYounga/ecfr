@@ -1,6 +1,6 @@
 ##### § 457.111 Pear crop insurance provisions. #####
 
-The Pear Crop Insurance Provisions for the 2015 and succeeding crop years are as follows:
+The Pear Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)
 
@@ -8,11 +8,9 @@ Both FCIC and Reinsured Policies
 
 Pear Crop Provisions1. Definitions
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
-
 *Harvest.* The picking of mature pears from the trees or the collecting of marketable pears from the ground.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Marketable.* Pear production that grades U.S. Number 2 processing or better, unless otherwise provided in the Special Provisions, or that is sold (even if failing to meet any U.S. or applicable state grading standard).
 
@@ -24,7 +22,7 @@ Pear Crop Provisions1. Definitions
 
 (b) In addition to establishing optional units in accordance with section 2(a), optional units may be established by type if allowed by the Special Provisions. The requirements of section 34 of the Basic Provisions that require the crop to be planted in a manner that results in a clear and discernable break in the planting pattern at the boundaries of each optional unit are not applicable for optional units by type.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
@@ -50,13 +48,7 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (iii) Any other information that we request in order to establish your approved yield.
 
-(c) We will reduce the yield used to establish your production guarantee, as necessary, based on our estimate of the effect of any situation listed in sections 3(b)(1) through (b)(4). If the situation occurred:
-
-(1) Before the beginning of the insurance period, the yield used to establish your production guarantee will be reduced for the current crop year regardless of whether the situation was due to an insured or uninsured cause of loss (If you fail to notify us of any circumstance that may reduce your yields from previous levels, we will reduce the yield used to establish your production guarantee at any time we become aware of the circumstance);
-
-(2) After the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee will be reduced for the current crop year only if the potential reduction in the yield used to establish your production guarantee is due to an uninsured cause of loss; or
-
-(3) After the beginning of the insurance period and you fail to notify us by the production reporting date, production lost due to uninsured causes equal to the amount of the reduction in yield used to establish your production guarantee will be applied in determining any indemnity (see section 11(c)(1)(ii)). We will reduce the yield used to establish your production guarantee for the subsequent crop year to reflect any reduction in the productive capacity of the trees.
+(c) That are grown on trees that have produced an average of at least five (5) tons of pears per acre in at least one of the four previous crop years, unless otherwise allowed by the Special Provisions; and
 
 (d) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
@@ -155,7 +147,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 (1) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
-(2) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(2) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (3) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest if you previously gave notice in accordance with section 14 of the Basic Provisions (§ 457.8), so that we may inspect the damaged production. You must not sell or dispose of the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, and such failure results in our inability to inspect the damaged production, all such production will be considered undamaged and included as production to count.
 
@@ -299,4 +291,4 @@ You have a 100 percent share of a 20-acre pear orchard. You have a production gu
 
 (5) $80,000 value of loss × 100 percent share = $80,000 indemnity payment.
 
-[61 FR 57580, Nov. 7, 1996; 62 FR 2007, Jan. 15, 1997, as amended at 62 FR 65167, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 75 FR 15880, 15881, Mar. 30, 2010; 79 FR 43602, July 28, 2014]
+[61 FR 57580, Nov. 7, 1996; 62 FR 2007, Jan. 15, 1997, as amended at 62 FR 65167, Dec. 10, 1997; 65 FR 47837, Aug. 4, 2000; 75 FR 15880, 15881, Mar. 30, 2010; 79 FR 43602, July 28, 2014; 87 FR 38891, June 30, 2022]

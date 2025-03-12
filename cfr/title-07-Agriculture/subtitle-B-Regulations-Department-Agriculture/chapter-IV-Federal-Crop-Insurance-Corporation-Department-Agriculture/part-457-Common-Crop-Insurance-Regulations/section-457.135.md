@@ -1,12 +1,10 @@
 ##### § 457.135 Onion crop insurance provisions. #####
 
-The Onion Crop Insurance Provisions for the 2017 and succeeding crop years in counties with a contract change date of November 30, and for the 2018 and succeeding crop years in counties with a contract change date of June 30, are as follows:
+The Onion Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Onion Crop Provisions1. Definitions
 
 *Damaged onion production.* Storage type onions that do not grade U.S. No. 1 or do not satisfy any other standards that may be contained in the Special Provisions; or non-storage type onions which do not satisfy standards contained in any applicable marketing order or other standards that may be contained in the Special Provisions.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of harvesting all or a portion of the crop.
 
 *Direct seeded.* Onions planted by placing onion seed by machine or by hand at the correct depth, into a seedbed that has been properly prepared for the planting method and production practice.
 
@@ -32,7 +30,7 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 (c) The price that will be paid for the production.
 
-*Production guarantee (per acre).*
+*Production guarantee (per acre).* In lieu of the definition contained in section 1 of the Basic Provisions, the production guarantee will be determined by stage as follows:
 
 (a) First stage production guarantee - Forty-five percent (45%) of the final stage production guarantee for direct seeded and transplanted storage and non-storage onions, unless otherwise specified in the Special Provisions.
 
@@ -48,13 +46,13 @@ FCIC PoliciesUnited States Department of AgricultureFederal Crop Insurance Corpo
 
 *Transplanted.* Onions planted by placing of the onion plant or sets, by machine or by hand at the correct depth, into a seedbed that has been properly prepared for the planting method and production practice.
 
-2. Unit Division.
+2. Unit Division
 
 In addition to the requirements of section 34 of the Basic Provisions, optional units may be established by type, if separate types are designated in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-(a) In addition to the requirements of section 3 of the Basic Provisions (§ 457.8), you may select only one price election for all the onions in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each onion type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) In addition to the requirements of section 3 of the Basic Provisions (§ 457.8), you may select only one price election for all the onions in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each onion type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) Your production guarantee progresses, in stages, to the final stage production guarantee. Stages will be determined on an acre basis. At least 75 percent (75%) of the plants on such acreage must be at the same stage to qualify for the first and second stages. The stages are as follows:
 
@@ -74,7 +72,7 @@ In addition to the requirements of section 34 of the Basic Provisions, optional 
 
 (c) Any acreage of onions damaged in the first or second stage, to the extent that the majority of producers in the area would not normally further care for the onions, will have a production guarantee for indemnity purposes, based on the stage in which the damage occurred, even if you continue to care for the damaged onions.
 
-4. Contract Changes.
+4. Contract Changes
 
 In accordance with section 4 of the Basic Provisions, the contract change date is:
 
@@ -84,19 +82,18 @@ In accordance with section 4 of the Basic Provisions, the contract change date i
 
 (c) As designated in the Special Provisions.
 
-5. Cancellation and Termination Dates.
+5. Cancellation and Termination Dates
 
 In accordance with section 2 of the Basic Provisions, the cancellation and termination dates are as follows, unless otherwise designated in the Special Provisions:
 
-|                                                                  State & County                                                                  |Cancellation date|Termination date|
-|--------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|----------------|
-|Arizona; Georgia; Kinney, Uvalde, Medina, Bexar, Wilson, Karnes, Bee, and San Patricio Counties, Texas, and all Texas Counties lying south thereof|    August 31    |   August 31.   |
-|                                           Umatilla County, Oregon; and Walla Walla County, Washington                                            |    August 31    | September 30.  |
-|                                        All California Counties, except Lassen, Modoc, Shasta and Siskiyou                                        |  September 30   | September 30.  |
-|                                                                      Hawaii                                                                      |  September 30   |  November 30.  |
-|                                                          All other states and counties                                                           |   February 1    |  February 1.   |
+|                                  State & county                                  |Cancellation date|Termination  <br/>date|
+|----------------------------------------------------------------------------------|-----------------|----------------------|
+|Arizona; Georgia; Uvalde County, Texas, and all Texas Counties lying south thereof|    August 31    |      August 31.      |
+|           Umatilla County, Oregon; and Walla Walla County, Washington            |    August 31    |    September 30.     |
+|            All California Counties, except Lassen, Modoc, and Shasta             |  September 30   |    September 30.     |
+|                          All other states and counties                           |   February 1    |     February 1.      |
 
-6. Report of Acreage.
+6. Report of Acreage
 
 In addition to the provisions of section 6 of the Basic Provisions, if the Special Provisions require a processor contract to insure your onions, you must provide a copy of all your processor contracts to us on or before the acreage reporting date.
 
@@ -122,7 +119,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 In addition to the provisions of section 9 of the Basic Provisions (§ 457.8), we will not insure any acreage of the insured crop that:
 
-(a) Was planted the previous year to storage or non-storage onions, green (bunch) onions, seed onions, chives, garlic, leeks, shallots, or scallions unless different rotation requirements are designated in the Special Provisions or we agree in writing to insure such acreage; or
+(a) Was planted the previous year to storage or non-storage onions, green (bunch) onions, seed onions, chives, garlic, leeks, shallots, or scallions unless different rotation requirements are designated in the Special Provisions or a written agreement insures such acreage; or
 
 (b) Is damaged before the final planting date to the extent that the majority of producers in the area would normally not further care for the crop and is not replanted, unless we agree that it is not practical to replant.
 
@@ -188,7 +185,7 @@ In addition to the provisions of section 9 of the Basic Provisions (§ 457.8), w
 
 (a) In accordance with the requirements of section 14 of the Basic Provisions, any representative samples of the crop that may be required must be at least 10 feet wide and extend the entire length of each field in the unit. The samples must not be topped, lifted, dug, harvested or destroyed until the earlier of our inspection or 15 days after harvest of the balance of the unit is completed.
 
-(b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count that is not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count that is not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 14. Settlement of Claim
 
@@ -214,23 +211,23 @@ In addition to the provisions of section 9 of the Basic Provisions (§ 457.8), w
 
 (7) Multiplying the result in section 14(b)(6) by your share.
 
-For Example:
+*For Example:*
 
-You have a 100 percent share in 100 acres of a unit of transplanted storage onions with a production guarantee of 200 hundredweight per acre, and you select 100 percent of the price election of $8.00 per hundredweight. Your crop suffers a covered cause of loss on 25 acres during the second stage which has a second stage production guarantee of 60 percent of the final stage production guarantee which equals 120 hundredweight per acre. The appraised production on the 25 acres was 2,500 hundredweight of onion production. Your harvested onion production on the remaining 75 acres is 16,000 hundredweight of harvested production to count. Your indemnity will be calculated as follows:
+You have a 100 percent share in 100 acres of a unit of transplanted storage onions with a production guarantee of 200 hundredweight per acre, and you select 100 percent of the price election of $20.00 per hundredweight. Your crop suffers a covered cause of loss on 25 acres during the second stage which has a second stage production guarantee of 60 percent of the final stage production guarantee which equals 120 hundredweight per acre. The appraised production on the 25 acres was 2,500 hundredweight of onion production. Your harvested onion production on the remaining 75 acres is 16,000 hundredweight of harvested production to count. Your indemnity will be calculated as follows:
 
 (1) 25 acres × 120 hundredweight (200 × .60) second stage production guarantee = 3,000 hundredweight, and 75 acres × 200 hundredweight final stage production guarantee = 15,000 hundredweight;
 
-(2) 3,000 hundredweight second stage production guarantee × $8.00 price election = $24,000 value of second stage production guarantee, and 15,000 hundredweight final stage production guarantee × $8.00 price election = $120,000 value of final stage production guarantee;
+(2) 3,000 hundredweight second stage production guarantee × $20.00 price election = $60,000 value of second stage production guarantee, and 15,000 hundredweight final stage production guarantee × $20.00 price election = $300,000 value of final stage production guarantee;
 
-(3) $24,000 value of second stage production guarantee + $120,000 value of final stage production guarantee = $144,000 total value of production guarantee;
+(3) $60,000 value of second stage production guarantee + $300,000 value of final stage production guarantee = $360,000 total value of production guarantee;
 
-(4) 500 hundredweight second stage production to count (from step 4 of the section 14(c)(1)(iv) example) × $8.00 price election = $4,000 value of second stage production to count, and 16,000 hundredweight final stage production to count × 8.00 price election = $128,000 value of final stage production to count;
+(4) 500 hundredweight second stage production to count (from step 4 of the section 14(c)(1)(iv) example) × $20.00 price election = $10,000 value of second stage production to count, and 16,000 hundredweight final stage production to count × $20.00 price election = $320,000 value of final stage production to count;
 
-(5) $4,000 value of second stage production to count + $128,000 value of final stage production to count = $132,000 total value of production to count;
+(5) $10,000 value of second stage production to count + $320,000 value of final stage production to count = $330,000 total value of production to count;
 
-(6) $144,000 total value of production guarantee −$132,000 total value of production to count = $12,000 value of loss; and
+(6) $360,000 total value of production guarantee − $330,000 total value of production to count = $30,000 value of loss; and
 
-(7) $12,000 × 100 percent share = $12,000 indemnity payment.
+(7) $30,000 × 100 percent share = $30,000 indemnity payment.
 
 (c) The total production (in hundredweight) to count from all insurable acreage on the unit will include:
 
@@ -284,4 +281,4 @@ You have 100 acres of a unit of transplanted storage onions with a production gu
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your final stage production guarantee for timely planted acreage. Additional prevented planting coverage levels are not available for onions.
 
-[62 FR 28613, May 27, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 64 FR 33385, June 23, 1999; 75 FR 15887, Mar. 30, 2010; 77 FR 13965, Mar. 8, 2012; 81 FR 84399, Nov. 23, 2016]
+[62 FR 28613, May 27, 1997, as amended at 62 FR 65173, Dec. 10, 1997; 64 FR 33385, June 23, 1999; 75 FR 15887, Mar. 30, 2010; 77 FR 13965, Mar. 8, 2012; 81 FR 84399, Nov. 23, 2016; 87 FR 38895, June 30, 2022]

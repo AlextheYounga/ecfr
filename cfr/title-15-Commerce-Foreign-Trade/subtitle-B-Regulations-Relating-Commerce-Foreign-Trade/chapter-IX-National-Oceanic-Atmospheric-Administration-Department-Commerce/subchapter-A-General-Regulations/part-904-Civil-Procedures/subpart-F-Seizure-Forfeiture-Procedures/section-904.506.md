@@ -1,5 +1,7 @@
 ##### § 904.506 Remission of forfeiture and restoration of proceeds of sale. #####
 
+Link to an amendment published at 87 FR 38943, June 30, 2022.
+
 (a) *Application of this section.* (1) This section establishes procedures for filing with NOAA a petition for relief from forfeitures incurred, or alleged to have been incurred, and from potential forfeiture of seized property, under any statute administered by NOAA that authorizes the remission or mitigation of forfeitures.
 
 (2) Although NOAA may properly consider a petition for remission or mitigation of forfeiture and restoration of proceeds of sale along with other consequences of a violation, the remission or mitigation of a forfeiture and restoration of proceeds is not dispositive of any criminal charge filed, civil penalty assessed, or permit sanction proposed, unless NOAA expressly so states. Remission or mitigation of forfeiture and restoration of proceeds is in the nature of executive clemency and is granted in the sole discretion of NOAA only when consistent with the purposes of the particular statute involved and this section.

@@ -1,5 +1,7 @@
 ##### § 120.542 Payment by SBA of legal fees and other expenses. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *Legal fees SBA will not pay.* (1) SBA will not pay legal fees or other costs that a Lender or Authorized CDC Liquidator incurs:
 
 (i) In asserting a claim, cross claim, counterclaim, or third-party claim against SBA or in defense of an action brought by SBA, unless payment of such fees or costs is otherwise required by federal law.

@@ -1,5 +1,7 @@
 ##### § 904.108 Factors considered in assessing civil penalties. #####
 
+Link to an amendment published at 87 FR 38937, June 30, 2022.
+
 (a) Factors to be taken into account in assessing a civil penalty, depending upon the statute in question, may include the nature, circumstances, extent, and gravity of the alleged violation; the respondent's degree of culpability, any history of prior violations, and ability to pay; and such other matters as justice may require.
 
 (b) NOAA may, in consideration of a respondent's ability to pay, increase or decrease a civil penalty from an amount that would otherwise be warranted by the other relevant factors. A civil penalty may be increased if a respondent's ability to pay is such that a higher civil penalty is necessary to deter future violations, or for commercial violators, to make a civil penalty more than a cost of doing business. A civil penalty may be decreased if the respondent establishes that he or she is unable to pay an otherwise appropriate civil penalty amount.

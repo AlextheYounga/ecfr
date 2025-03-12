@@ -1,5 +1,7 @@
 ##### § 120.214 What conditions apply for variable interest rates? #####
 
+Link to an amendment published at 87 FR 38908, June 30, 2022.
+
 A Lender may use a variable rate of interest, upon SBA's approval. SBA's maximum allowable rates apply only to the initial rate on the date SBA received the loan application. SBA shall approve the use of a variable interest rate under the following conditions:
 
 (a) *Frequency.* The first change may occur on the first calendar day of the month following initial disbursement, using the base rate (see paragraph (c) of this section) in effect on the first business day of the month. After that, changes may occur no more often than monthly.

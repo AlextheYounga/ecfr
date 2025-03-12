@@ -28,11 +28,11 @@
 
 (A) Had an effective date not more than six months prior to the origination date of the loan by a competent and appropriately State-certified or State-licensed appraiser;
 
-(B) Conforms to generally accepted appraisal standards as evidenced by the USPAP and the appraisal requirements1/\> of the Federal banking agencies; and
+(B) Conforms to generally accepted appraisal standards as evidenced by the USPAP and the appraisal requirements1 of the Federal banking agencies; and
 
 1 12 CFR part 34, subpart C (OCC); 12 CFR part 208, subpart E, and 12 CFR part 225, subpart G (Board); and 12 CFR part 323 (FDIC).
 
-(C) Provides an “as is” opinion of the market value of the real property, which includes an income approach;2/\>
+(C) Provides an “as is” opinion of the market value of the real property, which includes an income approach;2
 
 2 See USPAP, Standard 1.
 

@@ -1,6 +1,6 @@
 ##### § 457.119 Texas citrus fruit crop insurance provisions. #####
 
-The Texas citrus fruit crop insurance provisions for the 2018 and succeeding crop years are as follows:
+The Texas citrus fruit crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
 United States Department of AgricultureFederal Crop Insurance CorporationTexas Citrus Fruit Crop Provisions1. Definitions
 
@@ -18,8 +18,6 @@ United States Department of AgricultureFederal Crop Insurance CorporationTexas C
 
 *Crop year.* The period beginning with the date insurance attaches to the insured crop and extending through the normal harvest time. It is designated by the calendar year following the year in which the bloom is normally set.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper, or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the insured crop.
-
 *Excess rain.* An amount of precipitation that damages the insured crop.
 
 *Excess wind.* A natural movement of air that has sustained speeds exceeding 58 miles per hour (50 knots) recorded at the weather reporting station (U.S. National Weather Service reporting station or any other weather reporting station identified in the Special Provisions) operating nearest to the insured acreage at the time of damage.
@@ -36,7 +34,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationTexas C
 
 *Production guarantee (per acre).* In lieu of the definition contained in section 1 of the Basic Provisions, the production guarantee will be determined by stage as follows:
 
-(a) First stage production guarantee - The second stage production guarantee multiplied by forty percent (40%).
+(a) First stage production guarantee—The second stage production guarantee multiplied by forty percent (40%).
 
 (b) Second stage production guarantee. The quantity of citrus (in tons) determined by multiplying the yield determined in accordance with section 3(e) of these Crop Provisions by the coverage level percentage you elect.
 
@@ -56,7 +54,7 @@ United States Department of AgricultureFederal Crop Insurance CorporationTexas C
 
 (2) If each optional unit is located on non-contiguous land.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
@@ -186,7 +184,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (b) In addition to the requirements of section 14 of the Basic Provisions (§ 457.8), the following will apply:
 
-(1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(1) If the Special Provisions permit or a written agreement authorizing direct marketing exists, you must notify us at least 15 days before any production from any unit will be harvested for direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (2) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest, or within 24 hours if damage is discovered during harvest, so we may have an opportunity to inspect the unit. You must not sell or dispose of the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section, all such production will be considered undamaged and included as production to count.
 
@@ -244,7 +242,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 If individual records of juice content are not available, an average juice content from the nearest juice plant will be used, if available. If not available, a field appraisal will be made to determine the average juice content.
 
-(e) Any citrus fruit insured with an intended use of fresh that is not marketable as fresh fruit due to insurable causes will be adjusted by multiplying the number of tons of such citrus fruit by the applicable Fresh Fruit Factor contained in the Special Provisions.
+(e) Any citrus fruit insured with an intended use of fresh that is not marketable as fresh fruit due to insurable causes will be adjusted by multiplying the number of tons of such citrus fruit by the applicable Fresh Fruit Factor contained in the actuarial documents.
 
 (f) Any production will be considered marketed or marketable as fresh fruit unless, due solely to insured causes, such production was not marketed as fresh fruit.
 
@@ -256,4 +254,4 @@ If individual records of juice content are not available, an average juice conte
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016]
+[61 FR 41300, Aug. 8, 1996; 61 FR 57583, Nov. 7, 1996, as amended at 62 FR 65169, Dec. 10, 1997; 81 FR 38065, June 13, 2016; 81 FR 52590, June 10, 2016; 87 FR 38892, June 30, 2022]

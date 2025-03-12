@@ -1,6 +1,6 @@
 ##### § 457.131 Macadamia nut crop insurance provisions. #####
 
-The macadamia nut crop insurance provisions for the 2017 and succeeding crop years are as follows:
+The macadamia nut crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Macadamia Nut Crop Provisions1. Definitions
 
@@ -8,15 +8,13 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Crop year.* A period beginning with the date insurance attaches to the macadamia nut crop and extending through the normal harvest time. The crop year is designated by the calendar year in which the insurance period ends.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the orchard for the purpose of picking all or a portion of the crop.
+*Floaters.* Inedible, husked “field run” nuts identified by water flotation or laboratory testing.
 
 *Graft.* The uniting of a macadamia shoot to an established macadamia tree rootstock for future production of macadamia nuts.
 
-*Floaters.* Inedible, husked “field run” nuts identified by water flotation or laboratory testing.
-
 *Harvest.* Picking of mature macadamia nuts from the ground.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more agricultural commodities are planted in any form of alternating or mixed pattern.
 
 *Peewees.* Mature and immature wet in-shell nuts that are smaller than 16 mm (5/8 inch) in diameter.
 
@@ -30,13 +28,13 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land or grown and insured under an organic farming practice, unless otherwise allowed by written agreement.
+Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land or grown and insured under an organic farming practice, unless otherwise allowed by written agreement.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
-(a) You may select only one price election for all the macadamia nuts in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each macadamia nut type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) You may select only one price election for all the macadamia nuts in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each macadamia nut type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) You must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8), by type if applicable:
 
@@ -58,7 +56,7 @@ We will reduce the yield used to establish your production guarantee as necessar
 
 (c) The yield used to compute your production guarantee will be determined in accordance with Actual Production History (APH) regulations, 7 CFR part 400, subpart G, and applicable policy provisions unless damage or changes to the orchard or trees require establishment of the yield by another method. In the event of such damage or changes, the yield will be based on our appraisal of the potential of the insured acreage for the crop year.
 
-(d) Instead of reporting your macadamia nut production for the previous crop year, as required by section 3 of the Basic Provisions, there is a one-year lag period. Each crop year you must report your production from two crop years ago, *e.g.,* on the 2016 crop year production report, you will provide your 2014 crop year production.
+(d) Instead of reporting your macadamia nut production for the previous crop year, as required by section 3 of the Basic Provisions, there is a one-year lag period. Each crop year you must report your production from two crop years ago, *e.g.,* on the 2024 crop year production report, you will provide your 2022 crop year production.
 
 4. Contract Changes
 
@@ -84,7 +82,7 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 (c) That are grown in an orchard that, if inspected, is considered acceptable by us;
 
-(d) That are grown on trees that have reached at least the fifth growing season after being set out or grafted. However, we may give our approval in writing to insure acreage of trees that has not reached this age if it has produced at least 200 pounds of (wet in-shell) macadamia nuts per acre in a previous crop year; and
+(d) That are grown on trees that have reached at least the fifth leaf year, including the fifth leaf year after grafting if grafting occurs after set out, unless otherwise allowed by the Special Provisions; and
 
 (e) That are produced from blooms that normally occur during the calendar year in which insurance attaches and that are normally harvested prior to the end of the insurance period.
 
@@ -144,7 +142,7 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 
 (a) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
-(b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to
 
 (c) If you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest or immediately if damage is discovered during harvest, so that we may inspect the damaged production. You must not destroy the damaged crop until after we have given you written consent to do so. If you fail to meet the requirements of this section and such failure results in our inability to inspect the damaged production, we may consider all such production to be undamaged and include it as production to count.
 
@@ -173,6 +171,8 @@ In addition to the requirements of section 14 of the Basic Provisions (§ 457.8)
 (7) Multiplying the result in section 11(b)(6) by your share.
 
 You select the 65 percent coverage level and 100 percent of the price election on 10 acres of macadamia nuts in the unit. Your share is 100 percent. Your production guarantee (per acre) is 4,000 pounds. The price election is $0.78. You are able to harvest 25,000 pounds. Your indemnity would be calculated as follows:
+
+*For example:*
 
 (1) 10 acres × 4,000 pounds = 40,000 pounds guarantee;
 
@@ -210,4 +210,4 @@ You select the 65 percent coverage level and 100 percent of the price election o
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015]
+[62 FR 35664, July 2, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 75 FR 15887, Mar. 30, 2010; 75 FR 59057, Sept. 27, 2010; 80 FR 20412, Apr. 16, 2015; 87 FR 38893, June 30, 2022]

@@ -1,5 +1,7 @@
 ##### § 370.4 Reports of use of sound recordings under statutory license for nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services and business establishment services. #####
 
+Link to an amendment published at 87 FR 39001, June 30, 2022.
+
 (a) *General.* This section prescribes rules for the maintenance and delivery of Reports of Use of sound recordings under section 112(e) or section 114 of title 17 of the United States Code, or both, by nonsubscription transmission services, preexisting satellite digital audio radio services, new subscription services, and business establishment services.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:

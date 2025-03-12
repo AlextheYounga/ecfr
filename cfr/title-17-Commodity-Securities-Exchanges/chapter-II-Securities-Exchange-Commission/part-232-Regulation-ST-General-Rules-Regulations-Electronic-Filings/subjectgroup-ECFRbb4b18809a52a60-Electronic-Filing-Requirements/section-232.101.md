@@ -1,6 +1,6 @@
 ##### § 232.101 Mandated electronic submissions and exceptions. #####
 
-Link to an amendment published at 87 FR 35409, June 10, 2022.
+Link to an amendment published at 87 FR 35409, June 10, 2022.Link to an amendment published at 87 FR 38964, June 30, 2022.
 
 (a) *Mandated electronic submissions.* (1) The following filings, including any related correspondence and supplemental information, except as otherwise provided, shall be submitted in electronic format:
 

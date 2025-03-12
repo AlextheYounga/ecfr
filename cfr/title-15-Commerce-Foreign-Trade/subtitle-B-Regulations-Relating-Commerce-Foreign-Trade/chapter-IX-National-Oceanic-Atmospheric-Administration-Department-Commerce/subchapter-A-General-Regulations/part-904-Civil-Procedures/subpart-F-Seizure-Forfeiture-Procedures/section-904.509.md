@@ -1,5 +1,7 @@
 ##### § 904.509 Disposal of forfeited property. #####
 
+Link to an amendment published at 87 FR 38943, June 30, 2022.
+
 (a) *Delivery to Administrator.* Upon forfeiture of any fish, wildlife, parts or products thereof, or other property to the United States, including the abandonment or waiver of any claim to any such property, it will be delivered to NOAA for storage or disposal according to the provisions of this section.
 
 (b) *Disposal.* Disposal may be accomplished by one of the following means unless the property is the subject of a petition for remission or mitigation of forfeiture or disposed of by court order:

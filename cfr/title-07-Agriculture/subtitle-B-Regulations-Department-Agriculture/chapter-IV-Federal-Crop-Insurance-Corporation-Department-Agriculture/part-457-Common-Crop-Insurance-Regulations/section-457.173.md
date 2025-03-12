@@ -1,6 +1,6 @@
 ##### § 457.173 Florida Avocado crop insurance provisions. #####
 
-The Florida Avocado Crop Insurance Provisions for the 2011 and succeeding crop years are as follows:
+The Florida Avocado Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC policies:
 
@@ -18,27 +18,25 @@ Both FCIC and reinsured policies: Florida Avocado Crop Insurance Provisions.
 
 *Crop year.* A period beginning with the date insurance attaches to the avocado crop and extending through the normal harvest time. The crop year is designated by the calendar year after insurance attaches.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the fields for the purpose of picking all or a portion of the crop.
-
 *Harvest.* Picking of the avocados from the trees or ground by hand or machine.
 
 *Pound.* A unit of weight equal to sixteen ounces avoirdupois.
 
 *Set out.* Transplanting a tree into the grove.
 
-*Type.* Either early varieties or late varieties of avocados, as specified in the Special Provisions.
+*Type.* Early varieties, mid varieties, or late varieties of avocados, as specified in the Special Provisions.
 
 2. Unit Division.
 
-Provisions in section 34 of the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units may be established by type when provided for in the Special Provisions.
+Provisions in section 34 of the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Optional units may be established by type when provided for in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities.
+3. Insurance Guarantees, Coverage Levels, and Prices.
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
 (a) You may select only one coverage level for all the avocados in the county insured under this policy unless the Special Provisions provide that you may select a different coverage level for each avocado type designated in the Special Provisions. However, if you elect the Catastrophic Risk Protection (CAT) level of coverage, the CAT level of coverage will be applicable to all types of avocados you produce in the county.
 
-(b) You may select only one price election for all the avocados in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each avocado type designated in the Special Provisions. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must choose 100 percent of the maximum price election for the other type. However, if you elect the CAT level of coverage, the price election percentage will be equal to 55 percent of the applicable price election for each type of avocado you produce in the county.
+(b) You may select only one price election for all the avocados in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each avocado type designated in the actuarial documents. The price elections you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must choose 100 percent of the maximum price election for the other type. However, if you elect the CAT level of coverage, the price election percentage will be equal to 55 percent of the applicable price election for each type of avocado you produce in the county.
 
 (c) You must report, by the production reporting date designated in section 3 of the Basic Provisions, by type, if applicable:
 
@@ -80,7 +78,7 @@ In accordance with section 2 of the Basic Provisions, the cancellation and termi
 
 (b) In addition to the avocados not insurable in section 8 of the Basic Provisions, we do not insure any avocados produced on trees that have not:
 
-(1) Reached the fourth growing season after set out; and
+(1) Reached the fourth leaf year; and
 
 (2) Produced the minimum production per acre as specified in the Special Provisions in at least one of the previous three crop years.
 
@@ -150,11 +148,11 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibits in
 
 In addition to the requirements of section 14 of the Basic Provisions, the following will apply:
 
-(a) You must notify us at least 15 days before any production from any unit will be sold by direct marketing.
+(a) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested.
 
 (1) We will conduct a preharvest appraisal that will be used to determine your production. If damage occurs after the preharvest appraisal, and you can provide acceptable records to us that account for all production removed from the unit after our appraisal, we will conduct an additional appraisal that will be used to determine your production.
 
-(2) Failure to give timely notice that production will be sold by direct marketing will result in an appraised production to count of not less than the production guarantee per acre if such failure results in an inability to make an accurate appraisal.
+(2) Failure to give timely notice that production will be harvested for direct marketing will result in an appraised production to count of not less than the production guarantee per acre if such failure results in an inability to make an accurate appraisal.
 
 (b) If you intend to claim an indemnity on any unit, you must notify us 15 days prior to the beginning of harvest or immediately if damage is discovered during harvest so that we may inspect the damaged production.
 
@@ -226,4 +224,4 @@ You have a 100 percent share in 50 acres of early variety A in the unit, with a 
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[75 FR 15607, Mar. 30, 2010]
+[75 FR 15607, Mar. 30, 2010, as amended at 87 FR 38899, June 30, 2022]

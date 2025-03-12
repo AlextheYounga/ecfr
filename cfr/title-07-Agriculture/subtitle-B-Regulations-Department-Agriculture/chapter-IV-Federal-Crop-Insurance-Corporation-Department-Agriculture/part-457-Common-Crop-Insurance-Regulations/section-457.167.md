@@ -1,6 +1,6 @@
 ##### § 457.167 Pecan revenue crop insurance provisions. #####
 
-The Pecan Revenue Crop Insurance Provisions for the 2014 and succeeding crop years are as follows:
+The Pecan Revenue Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC policies:United States Department of AgricultureFederal Crop Insurance CorporationReinsured policies: (Appropriate title for insurance provider)Both FCIC and reinsured policies: Pecan Revenue Crop Insurance Provisions1. Definitions
 
@@ -18,8 +18,6 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Crop year.* The period beginning February 1 of the calendar year in which the pecan trees bloom and extending through January 31 of the year following such bloom, and will be designated by the calendar year in which the pecan trees bloom.
 
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, sheller, shipper, buyer or broker. Examples of direct marketing include selling through an on-farm or roadside stand, or a farmer's market, or permitting the general public to enter the field for the purpose of harvesting all or a portion of the crop, or shelling and packing your own pecans.
-
 *Gross sales.* Total value of in-shell pecans grown during a crop year.
 
 *Harvest.* Collecting mature pecans from the orchard.
@@ -28,7 +26,7 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *In-shell pecans.* Pecans as they are removed from the orchard with the nut-meats in the shell.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Market price.* The market price is:
 
@@ -50,7 +48,7 @@ FCIC policies:United States Department of AgricultureFederal Crop Insurance Corp
 
 *Two-year coverage module.* A two-crop-year subset of a continuous policy in which you agree to insure the crop for both years of the module, and we agree to offer the same premium rate, amount of insurance per acre, coverage level, terms and conditions of insurance for each year of coverage except for legislatively mandated changes, as long as all policy terms and conditions are met for each year of the coverage module, including the timely payment of premium, and you have not done anything that would result in a revision to these terms, as specified in this policy.
 
-2. Unit Division.
+2. Unit Division
 
 Except as provided in these Crop Provisions, for both years of the two-year coverage module a unit will be:
 
@@ -66,7 +64,7 @@ Except as provided in these Crop Provisions, for both years of the two-year cove
 
 (3) Optional units are selected and identified on the acreage report by the acreage reporting date of the first year of the two-year coverage module. Units will be determined when the acreage is reported, but may be adjusted or combined to reflect the actual unit structure when adjusting a loss. No further unit division may be made after the acreage reporting date for any reason.
 
-3. Insurance Guarantees and Coverage Levels for Determining Indemnities
+3. Insurance Guarantees and Coverage Levels
 
 In lieu of section 3 of the Basic Provisions, the following applies:
 
@@ -162,13 +160,13 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (c) That are grown in an orchard that, if inspected, is considered acceptable by us;
 
-(d) That are grown on trees that have produced at least 600 pounds of pecans in-shell per acre (or an amount provided in the Special Provisions) in at least one of the previous four crop years, unless we inspect and allow insurance by written agreement. This amount of production must be achieved subsequent to any top work that occurs within a unit;
+(d) That are grown on trees that have produced at least 600 pounds of pecans in-shell per acre (or an amount provided in the Special Provisions) in at least one of the previous four crop years, unless otherwise allowed by written agreement. This amount of production must be achieved subsequent to any top work that occurs within a unit;
 
 (e) That are grown on varieties or a grouping of varieties within a unit that are not designated as uninsurable in the Special Provisions;
 
-(f) That are in an orchard that consists of a minimum of one (1) contiguous acre, unless allowed by written agreement; and
+(f) That are in an orchard that consists of a minimum of one (1) contiguous acre, unless otherwise allowed by the Special Provisions; and
 
-(g) That are not (unless allowed by the Special Provisions or by written agreement):
+(g) That are not (unless otherwise allowed by the Special Provisions or by written agreement):
 
 (1) Grown on trees that are or have been hedged; or
 
@@ -182,7 +180,7 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (a) In accordance with the provisions of section 11 of the Basic Provisions:
 
-(1) Coverage begins on February 1 of each crop year. However, for the year of application, we will inspect all pecan acreage and will notify you of the acceptance or rejection of your application not later than 30 days after the sales closing date. If we fail to notify you by that date, your application will be accepted unless other grounds exist to reject the application, as specified in section 2 of the Basic Provisions of the application. You must provide any information that we require for the crop or to determine the condition of the orchard.
+(1) Coverage begins on February 1 of each crop year. However, for the year of application, we will inspect all pecan acreage and will notify you if your application was accepted or not accepted, no later than 30 days after the sales closing date. If we fail to notify you by that date, your application will be accepted unless other grounds exist to not accept the application, as specified in section 2 of the Basic Provisions. You must provide any information that we require for the crop or to determine the condition of the orchard.
 
 (2) For each subsequent two-year coverage module that the policy remains continuously in force, coverage begins on the day immediately following the end of the insurance period for the prior two-year coverage module. Policy cancellation that results solely from transferring an existing policy to a different insurance provider for a subsequent two-year coverage module will not be considered a break in continuous coverage.
 
@@ -234,7 +232,7 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 (a) You must notify us within 3 days of the date harvest should have started if the crop will not be harvested.
 
-(b) If the Special Provisions permit or you have a written agreement authorizing direct marketing, you must notify us at least 15 days before harvest begins if any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine the dollar value of your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised dollar value of production to count that is not less than the amount of insurance per acre for the direct-marketed acreage if such failure results in our inability to make the required appraisal.
+(b) If the Special Provisions permit or you have a written agreement authorizing direct marketing, you must notify us at least 15 days before harvest begins if any production from any unit will be harvested for direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine the dollar value of your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised dollar value of production to count that is not less than the amount of insurance per acre for the direct-marketed acreage if such failure results in our inability to make the required appraisal.
 
 (c) If you intend to claim an indemnity, you must notify us at least 15 days prior to the beginning of harvest, or immediately if a loss occurs during harvest, so that we may inspect the damaged production.
 
@@ -328,6 +326,6 @@ The substitution of yield provisions of the Basic Provisions are not applicable.
 
 16. Written Agreements
 
-Not withstanding the provisions of section 18 of the Basic Provisions, for counties with actuarial documents for pecans, you must have at least two years of production and gross sales records and for counties without actuarial documents, you must have at least four years of production and gross sales records to qualify for a written agreement.
+Notwithstanding the provisions of section 18 of the Basic Provisions, for counties with actuarial documents for pecans, you must have at least two years of production and gross sales records and for counties without actuarial documents, you must have at least four years of production and gross sales records to qualify for a written agreement.
 
-[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013]
+[69 FR 52163, Aug. 25, 2004; 69 FR 54179, Sept. 7, 2004, as amended at 69 FR 63041, Oct. 29, 2004; 78 FR 13459, Feb. 28, 2013; 78 FR 33691, June 5, 2013; 87 FR 38898, June 30, 2022]

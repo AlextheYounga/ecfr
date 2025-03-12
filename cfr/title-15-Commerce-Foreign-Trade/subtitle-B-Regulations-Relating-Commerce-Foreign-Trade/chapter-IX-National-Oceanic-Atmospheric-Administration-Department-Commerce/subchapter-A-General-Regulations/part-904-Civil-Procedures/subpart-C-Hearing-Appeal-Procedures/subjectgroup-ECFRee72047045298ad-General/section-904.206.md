@@ -1,5 +1,7 @@
 ##### § 904.206 Pleadings, motions, and service. #####
 
+Link to an amendment published at 87 FR 38938, June 30, 2022.
+
 (a) The original of all pleadings and documents must be filed with the Judge and a copy served upon the ALJ Docketing Center and each party. All pleadings or documents when submitted for filing must show that service has been made upon all parties. Such service must be made in accordance with § 904.3(b).
 
 (b) Pleadings and documents to be filed may be reproduced by printing or any other process, provided the copies are clear and legible; must be dated, the original signed in ink or as otherwise verified for electronic mail; and must show the docket description and title of the proceeding, and the title, if any, address, and telephone number of the signatory. If typewritten, the impression may be on only one side of the paper and must be double spaced, if possible, except that quotations may be single spaced and indented.

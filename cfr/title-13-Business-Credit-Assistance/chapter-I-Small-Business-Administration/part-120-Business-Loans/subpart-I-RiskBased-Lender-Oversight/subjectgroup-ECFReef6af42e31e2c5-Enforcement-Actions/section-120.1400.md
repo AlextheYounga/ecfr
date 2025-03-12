@@ -1,5 +1,7 @@
 ##### § 120.1400 Grounds for enforcement actions - SBA Lenders. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *Agreements.* By making SBA 7(a) guaranteed loans or 504 loans, SBA Lenders automatically agree to the terms, conditions, and remedies in Loan Program Requirements, as promulgated or issued from time to time and as if fully set forth in the SBA Form 750 (Loan Guaranty Agreement), Development Company 504 Debenture, CDC Certification, Servicing Agent Agreement, or other applicable participation, guaranty, or supplemental agreement. SBA Lenders further agree that a violation of Loan Program Requirements constitutes default under their respective agreements with SBA.
 
 (1) *Additional agreements by CDCs.* By obtaining approval for 504 loans after October 20, 2017, a CDC consents to the remedies in § 120.1500(e)(3) and waives in advance any right it may have to contest the validity of the appointment of a receiver. The CDC agrees that its consent to SBA's application to a Federal court of competent jurisdiction for appointment of a receiver of SBA's choosing, an injunction or other equitable relief, and the CDC's consent in advance to the court's granting of SBA's application, may be enforced upon any basis in law or equity recognized by the court.

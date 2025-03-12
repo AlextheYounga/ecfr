@@ -1,5 +1,7 @@
 ##### § 904.102 Procedures upon receipt of a NOVA. #####
 
+Link to an amendment published at 87 FR 38937, June 30, 2022.
+
 (a) The respondent has 30 days from receipt of the NOVA in which to respond. During this time the respondent may:
 
 (1) Accept the penalty or compromise penalty, if any, by taking the actions specified in the NOVA;

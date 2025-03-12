@@ -1,5 +1,7 @@
 ##### § 904.2 Definitions and acronyms. #####
 
+Link to an amendment published at 87 FR 38936, June 30, 2022.
+
 Unless the context otherwise requires, or as otherwise noted, terms in this Part have the meanings prescribed in the applicable statute or regulation. In addition, the following definitions apply:
 
 *Administrator* means the Administrator of NOAA or a designee.

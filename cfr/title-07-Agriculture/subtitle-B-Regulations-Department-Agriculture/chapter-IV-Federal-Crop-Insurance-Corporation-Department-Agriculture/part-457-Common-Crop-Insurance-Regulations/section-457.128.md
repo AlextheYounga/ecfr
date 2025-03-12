@@ -1,18 +1,12 @@
 ##### § 457.128 Guaranteed production plan of fresh market tomato crop insurance provisions. #####
 
-The Guaranteed Production Plan of Fresh Market Tomato Crop Insurance
+The Guaranteed Production Plan of Fresh Market Tomato Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Guarantee Production Plan of Fresh Market Tomato Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
-
-1. Definitions
+FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and reinsured policies:Guaranteed Production Plan of Fresh Market Tomato Crop Provisions1. Definitions
 
 *Acre.* Forty-three thousand five hundred sixty (43,560) square feet of land when row widths do not exceed six feet, or if row widths exceed six feet, the land area on which at least 7,260 linear feet of rows are planted.
 
 *Carton.* A container that contains 25 pounds of fresh tomatoes unless otherwise provided in the Special Provisions.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
 
 *First fruit set.* The date when 30 percent of the plants on the unit have produced fruit that has reached a minimum size of one inch in diameter.
 
@@ -52,11 +46,11 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 (b) Provisions in the Basic Provisions that allow optional units by irrigated and non-irrigated practices are not applicable.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-In addition to the requirements of section 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 3 (Insurance Guarantees, Coverage Levels, and Prices) of the Basic Provisions (§ 457.8):
 
-(a) You may select only one price election for all the tomatoes in the county insured under this policy unless the Special Provisions provide different price elections by type, in which case you may select one price election for each tomato type designated in the Special Provisions. The price election you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
+(a) You may select only one price election for all the tomatoes in the county insured under this policy unless the actuarial documents provide different price elections by type, in which case you may select one price election for each tomato type designated in the actuarial documents. The price election you choose for each type must have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you must also choose 100 percent of the maximum price election for all other types.
 
 (b) The production guarantees per acre are progressive by stages and increase at specified intervals to the final stage production guarantee. The stages and production guarantees are as follows:
 
@@ -83,7 +77,7 @@ In addition to the requirements of section 3 (Insurance Guarantees, Coverage Lev
 
 4. Contract Changes
 
-In accordance with section 4 (Contract Changes) of the Basic Provisions (§ 457.8), the contract change date is September 30 preceding the cancellation date for counties with a January 15 cancellation date and December 31 preceding the cancellation date for all other counties.
+In accordance with section 4 (Contract Changes) of the Basic Provisions (§ 457.8), the contract change date is September 30 preceding the cancellation date for counties with a January 31 cancellation date and December 31 preceding the cancellation date for all other counties.
 
 5. Cancellation and Termination Dates
 
@@ -93,7 +87,7 @@ Cancellation and Termination
 
 |                     State                      |   Dates   |
 |------------------------------------------------|-----------|
-|California, Florida, Georgia, and South Carolina|January 15.|
+|California, Florida, Georgia, and South Carolina|January 31.|
 |                All other states                | March 15. |
 
 6. Report of Acreage
@@ -274,4 +268,4 @@ In lieu of the provisions of section 11 (Insurance Period) of the Basic Provisio
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 23631, May 1, 1997; 62 FR 33539, June 20, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 63 FR 36157, July 2, 1998; 63 FR 50753, Sept. 23, 1998]
+[62 FR 23631, May 1, 1997; 62 FR 33539, June 20, 1997, as amended at 62 FR 65171, Dec. 10, 1997; 63 FR 36157, July 2, 1998; 63 FR 50753, Sept. 23, 1998; 87 FR 38892, June 30, 2022]

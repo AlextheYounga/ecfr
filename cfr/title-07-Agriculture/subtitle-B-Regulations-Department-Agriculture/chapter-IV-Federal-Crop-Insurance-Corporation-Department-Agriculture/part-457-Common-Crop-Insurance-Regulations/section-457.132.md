@@ -1,12 +1,8 @@
 ##### § 457.132 Cranberry crop insurance provisions. #####
 
-The cranberry crop insurance provisions for the 1999 and succeeding crop years are as follows:
+The cranberry crop insurance provisions for the 2023 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesCranberry Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
-
-1. Definitions
+FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesCranberry Crop Provisions1. Definitions
 
 *Barrel.* 100 pounds of cranberries.
 
@@ -16,15 +12,15 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 2. Unit Division
 
-Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land, unless otherwise allowed by written agreement.
+Provisions in the Basic Provisions that allow optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Optional units may be established only if each optional unit is located on non-contiguous land, unless otherwise allowed by written agreement.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
-In addition to the requirements of section 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (a) You may select only one price election for all the cranberries in the county insured under this policy.
 
-(b) You must report, by the production reporting date designated in section 3 (Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities) of the Basic Provisions (§ 457.8):
+(b) You must report, by the production reporting date designated in section 3 of the Basic Provisions (§ 457.8):
 
 (1) Any damage, removal of vines, change in practices, or any other circumstance that may reduce the expected yield below the yield upon which the insurance guarantee is based, and the number of affected acres;
 
@@ -36,15 +32,15 @@ We will adjust the yield used to establish your production guarantee as necessar
 
 4. Contract Changes
 
-In accordance with section 4 (Contract Changes) of the Basic Provisions (§ 457.8), the contract change date is August 31 preceding the cancellation date.
+In accordance with section 4 of the Basic Provisions (§ 457.8), the contract change date is August 31 preceding the cancellation date.
 
 5. Cancellation and Termination Dates
 
-In accordance with section 2 (Life of Policy, Cancellation, and Termination) of the Basic Provisions (§ 457.8), the cancellation and termination dates are November 20.
+In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are November 20.
 
 6. Insured Crop
 
-In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), the crop insured will be all the cranberries in the county for which a premium rate is provided by the actuarial documents:
+In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insured will be all the cranberries in the county for which a premium rate is provided by the actuarial documents:
 
 (a) In which you have a share;
 
@@ -52,17 +48,17 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 (c) That are grown in a bog that, if inspected, is considered acceptable by us; and
 
-(d) That are grown on vines that have completed four growing seasons after the vines were set out, unless otherwise provided by the actuarial table or by written agreement.
+(d) That are grown on vines that have reached at least the fourth leaf year unless otherwise provided by the Special Provisions.
 
 7. Insurance Period
 
-(a) In accordance with the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+(a) In accordance with the provisions of section 11 of the Basic Provisions (§ 457.8):
 
 (1) Coverage begins on November 21 of each crop year, except that for the year of application, if your application is received after November 11, but prior to November 21, insurance will attach on the 10th day after your properly completed application is received in our local office, unless we inspect the acreage during the 10 day period and determine that it does not meet insurability requirements. You must provide any information that we require for the crop or to determine the condition of the bog.
 
 (2) The calendar date for the end of the insurance period for each crop year is November 20.
 
-(b) In addition to the provisions of section 11 (Insurance Period) of the Basic Provisions (§ 457.8):
+(b) In addition to the provisions of section 11 of the Basic Provisions (§ 457.8):
 
 (1) If you acquire an insurable share in any insurable acreage after coverage begins but on or before the acreage reporting date for the crop year, and after an inspection we consider the acreage acceptable, insurance will be considered to have attached to such acreage on the calendar date for the beginning of the insurance period.
 
@@ -76,7 +72,7 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 8. Causes of Loss
 
-(a) In accordance with the provisions of section 12 (Causes of Loss) of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
+(a) In accordance with the provisions of section 12 of the Basic Provisions (§ 457.8), insurance is provided only against the following causes of loss that occur during the insurance period:
 
 (1) Adverse weather conditions;
 
@@ -92,7 +88,7 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 (7) Failure or breakdown of irrigation equipment or facilities due to direct damage to the irrigation equipment or facilities from an insurable cause of loss if the cranberry crop is damaged by freezing temperatures within 72 hours of such failure or breakdown and repair or replacement was not possible before damage occurred.
 
-(b) In addition to the causes of loss excluded in section 12 (Cause of Loss) of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production due to:
+(b) In addition to the causes of loss excluded in section 12 of the Basic Provisions (§ 457.8), we will not insure against damage or loss of production due to:
 
 (1) Disease or insect infestation, unless adverse weather:
 
@@ -104,7 +100,7 @@ In accordance with section 8 (Insured Crop) of the Basic Provisions (§ 457.8), 
 
 9. Duties in the Event of Damage or Loss
 
-In addition to the requirements of section 14 (Duties in the Event of Damage or Loss) of the Basic Provisions (§ 457.8):
+In addition to the requirements of section 14 of the Basic Provisions (§ 457.8):
 
 (a) If you discover damage, or if you intend to claim an indemnity on any insured unit, you must give us notice of probable loss:
 
@@ -168,4 +164,4 @@ In addition to the requirements of section 14 (Duties in the Event of Damage or 
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 5905, Feb. 10, 1997, as amended at 62 FR 65172, Dec. 10, 1997]
+[62 FR 5905, Feb. 10, 1997, as amended at 62 FR 65172, Dec. 10, 1997; 87 FR 38894, June 30, 2022]

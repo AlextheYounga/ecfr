@@ -1,5 +1,7 @@
 ##### § 120.862 Other economic development objectives. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 A Project that achieves any of the following community development or public policy goals is eligible if the CDC's overall portfolio of 504 loans, including the subject loan, meets or exceeds the CDC's required Job Opportunity average. Loan applications must indicate how the Project will meet the specified economic development objective.
 
 (a) Community Development goals:

@@ -1,5 +1,7 @@
 ##### § 904.1 Purpose and scope. #####
 
+Link to an amendment published at 87 FR 38935, June 30, 2022.
+
 (a) This part sets forth the procedures governing NOAA's administrative proceedings for assessment of civil penalties, suspension, revocation, modification, or denial of permits, issuance and use of written warnings, and release or forfeiture of seized property.
 
 (b) This subpart defines terms appearing in this part and sets forth rules for the filing and service of documents in administrative proceedings covered by this part.

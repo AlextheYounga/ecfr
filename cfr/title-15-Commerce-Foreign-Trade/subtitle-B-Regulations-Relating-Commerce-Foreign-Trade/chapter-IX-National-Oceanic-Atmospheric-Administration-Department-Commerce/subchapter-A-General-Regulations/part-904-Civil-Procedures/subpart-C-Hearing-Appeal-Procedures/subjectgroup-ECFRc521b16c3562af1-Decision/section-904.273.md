@@ -1,5 +1,7 @@
 ##### § 904.273 Administrative review of decision. #####
 
+Link to an amendment published at 87 FR 38940, June 30, 2022.
+
 (a) Subject to the requirements of this section, any party who wishes to seek review of an initial decision of a Judge must petition for review of the initial decision within 30 days after the date the decision is served. The petition must be served on the Administrator by registered or certified mail, return receipt requested at the following address: Administrator, National Oceanic and Atmospheric Administration, Department of Commerce, Room 5128, 14th Street and Constitution Avenue, NW., Washington, DC 20230. Copies of the petition for review, and all other documents and materials required in paragraph (d) of this section, must be served on all parties and the Assistant General Counsel for Enforcement and Litigation at the following address: Assistant General Counsel for Enforcement and Litigation, National Oceanic and Atmospheric Administration, 8484 Georgia Avenue, Suite 400, Silver Spring, MD 20910.
 
 (b) The Administrator may elect to issue an order to review the initial decision without petition and may affirm, reverse, modify or remand the Judge's initial decision. Any such order must be issued within 60 days after the date the initial decision is served.

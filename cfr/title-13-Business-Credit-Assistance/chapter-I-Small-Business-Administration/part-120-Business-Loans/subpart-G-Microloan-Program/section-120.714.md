@@ -1,5 +1,7 @@
 ##### § 120.714 How are grants made to non-lending technical assistance providers (NTAP)? #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 SBA selects non-lending technical assistance providers (NTAP) to receive grant funds for technical assistance to Microloan borrowers.
 
 (a) *Grant procedure for non-Intermediaries.* Any nonprofit entity that is not an Intermediary may apply to SBA for a grant to provide marketing, management and technical assistance to low-income individuals for the purpose of assisting them in obtaining private sector financing in amounts of $50,000 or less. To qualify, it must submit information regarding its ability to provide this assistance. If approved, the grant agreement will establish the terms and conditions for the grant.

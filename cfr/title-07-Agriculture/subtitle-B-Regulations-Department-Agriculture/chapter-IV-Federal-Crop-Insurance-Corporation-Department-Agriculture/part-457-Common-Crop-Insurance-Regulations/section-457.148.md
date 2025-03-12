@@ -1,12 +1,8 @@
 ##### § 457.148 Fresh market pepper crop insurance provisions. #####
 
-The fresh market pepper crop insurance provisions for the 1999 and succeeding crop years are as follows:
+The fresh market pepper crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
-FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh Market Pepper Crop Provisions
-
-If a conflict exists among the policy provisions, the order of priority is as follows: (1) The Catastrophic Risk Protection Endorsement, if applicable; (2) the Special Provisions; (3) these Crop Provisions; and (4) the Basic Provisions with (1) controlling (2), etc.
-
-1. Definitions
+FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh Market Pepper Crop Provisions1. Definitions
 
 *Acre.* 43,560 square feet of land when row widths do not exceed six feet, or if row widths exceed six feet, the land area on which at least 7,260 linear feet of rows are planted.
 
@@ -15,8 +11,6 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 *Box.* One and one-ninth (11/9) bushels of the insured crop.
 
 *Crop year.* In lieu of the definition of “crop year” contained in section 1 (Definitions) of the Basic Provisions (§ 457.8), crop year is a period of time that begins on the first day of the earliest planting period for fall planted peppers and continues through the last day of the insurance period for spring planted peppers. The crop year is designated by the calendar year in which spring planted peppers are harvested.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
 
 *Excess rain.* An amount of precipitation sufficient to directly damage the crop.
 
@@ -28,7 +22,7 @@ If a conflict exists among the policy provisions, the order of priority is as fo
 
 *Plant stand.* The number of live plants per acre prior to the occurrence of an insurable cause of loss.
 
-*Planted acreage.* In addition to the definition contained in the Basic Provisions, for each planting period, pepper seed or transplants must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
+*Planted acreage.* In addition to the definition contained in ;section 1 of the Basic Provisions, for each planting period, pepper seed or transplants must initially be planted in rows, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
 *Planting period.* The period of time designated in the actuarial documents in which the peppers must be planted to be considered fall, winter or spring-planted peppers.
 
@@ -84,7 +78,7 @@ In addition to the requirements of section 6 (Report of Acreage) of the Basic Pr
 
 7. Annual Premium
 
-In lieu of the premium amount determinations contained in section 7 (Annual Premium) of the Basic Provisions (§ 457.8), the annual premium amount for each cultural practice (e.g., fall direct-seeded irrigated) is determined by multiplying the third stage amount of insurance per acre by the premium rate for the cultural practice as established in the Actuarial Table, by the insured acreage, by your share at the time coverage begins, and by any applicable premium adjustment factors contained in the actuarial documents.
+In lieu of the premium amount determinations contained in section 7 (Annual Premium and Administrative Fees) of the Basic Provisions (§ 457.8), the annual premium amount for each cultural practice (for example, fall direct-seeded irrigated) is determined by multiplying the third stage amount of insurance per acre by the premium rate for the cultural practice as established in the actuarial documents, by the insured acreage, by your share at the time coverage begins, and by any applicable premium adjustment factors contained in the actuarial documents.
 
 8. Insured Crop
 
@@ -242,7 +236,7 @@ In addition to the requirements contained in section 14 (Duties in the Event of 
 
 (iv) For which you fail to provide acceptable production records;
 
-(2) The value of the following appraised production will not be less than the dollar amount obtained by multiplying the number of boxes of appraised peppers by the minimum value per box shown in the Special Provisions for the planting period:
+(2) The value of the following appraised production will not be less than the dollar amount obtained by multiplying the number of boxes of appraised peppers by the minimum value per box shown in the actuarial documents for the planting period:
 
 (i) Potential production on any acreage that has not been harvested the third time;
 
@@ -256,7 +250,7 @@ In addition to the requirements contained in section 14 (Duties in the Event of 
 
 (B) You may elect to continue to care for the crop, in which case the amount of production to count for the acreage will be the harvested production, or our reappraisal if the crop is not harvested.
 
-(3) The total value of all harvested production from the insurable acreage will be the dollar amount obtained by subtracting the allowable cost contained in the Special Provisions from the price received for each box of peppers (this result may not be less than the minimum value shown in the Special Provisions for any box of peppers), and multiplying this result by the number of boxes of peppers harvested. Harvested production that is damaged or defective due to insurable causes and is not marketable, will not be counted as production to count.
+(3) The total value of all harvested production from the insurable acreage will be the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each box of peppers (this result may not be less than the minimum value shown in the actuarial documents for any box of peppers), and multiplying this result by the number of boxes of peppers harvested. Harvested production that is damaged or defective due to insurable causes and is not marketable, will not be counted as production to count.
 
 15. Late and Prevented Planting
 
@@ -274,12 +268,12 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (1) If you selected Option I of the Minimum Value Option, the total value of harvested production will be as follows:
 
-(i) For sold production, the dollar amount obtained by subtracting the allowable cost contained in the Special Provisions from the price received for each box of peppers (this result may not be less than the minimum value option price contained in the Special Provisions for any box of peppers), and multiplying this result by the number of boxes of peppers sold; and
+(i) For sold production, the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each box of peppers (this result may not be less than the minimum value option price contained in the actuarial documents for any box of peppers), and multiplying this result by the number of boxes of peppers sold; and
 
-(ii) For marketable production that is not sold, the dollar amount obtained by multiplying the number of boxes of such peppers on the unit by the minimum value shown in the Special Provisions for the planting period (harvested production that is damaged or defective due to insurable causes and is not marketable will not be counted as production).
+(ii) For marketable production that is not sold, the dollar amount obtained by multiplying the number of boxes of such peppers on the unit by the minimum value shown in the actuarial documents for the planting period (harvested production that is damaged or defective due to insurable causes and is not marketable will not be counted as production).
 
 (2) If you selected Option II of the Minimum Value Option, the total value of harvested production will be as provided in section 16(b)(1), except that the dollar amount specified in section 16(b)(1)(i) may not be less than zero.
 
 (c) This option may be canceled by either you or us for any succeeding crop year by giving written notice on or before the cancellation date preceding the crop year for which the cancellation of this option is to be effective.
 
-[62 FR 14789, Mar. 28, 1997, as amended at 62 FR 65174, Dec. 10, 1997]
+[62 FR 14789, Mar. 28, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 87 FR 38896, June 30, 2022]

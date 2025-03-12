@@ -1,5 +1,7 @@
 ##### § 904.402 Procedures. #####
 
+Link to an amendment published at 87 FR 38942, June 30, 2022.
+
 (a) Any person authorized to enforce the laws listed in § 904.1(c) or Agency counsel may issue a written warning to a respondent as provided in § 904.3.
 
 (b) The written warning will:

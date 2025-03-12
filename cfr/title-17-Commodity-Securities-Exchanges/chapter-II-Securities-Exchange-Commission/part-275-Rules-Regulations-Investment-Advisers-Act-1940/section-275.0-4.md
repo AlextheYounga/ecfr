@@ -1,5 +1,7 @@
 ##### § 275.0-4 General requirements of papers and applications. #####
 
+Link to an amendment published at 87 FR 38976, June 30, 2022.
+
 (a) *Filings.* (1) All papers required to be filed with the Commission shall, unless otherwise provided by the rules and regulations, be delivered through the mails or otherwise to the Securities and Exchange Commission, Washington, DC 20549. Except as otherwise provided by the rules and regulations, such papers shall be deemed to have been filed with the Commission on the date when they are actually received by it.
 
 (2) All filings required to be made electronically with the Investment Adviser Registration Depository (“IARD”) shall, unless otherwise provided by the rules and regulations in this part, be deemed to have been filed with the Commission upon acceptance by the IARD. Filings required to be made through the IARD on a day that the IARD is closed shall be considered timely filed with the Commission if filed with the IARD no later than the following business day.

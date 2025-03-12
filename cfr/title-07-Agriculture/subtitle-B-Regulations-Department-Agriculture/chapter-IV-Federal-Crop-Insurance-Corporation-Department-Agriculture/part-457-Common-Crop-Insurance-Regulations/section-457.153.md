@@ -1,14 +1,12 @@
 ##### § 457.153 Peach crop insurance provisions. #####
 
-The Peach Crop Insurance Provisions for the 2013 and succeeding crop years are as follows:
+The Peach Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured policies:(Appropriate title for insurance provider)Both FCIC and reinsured policies:Peach Crop Provisions1. Definitions
 
 *Bearing tree.* A tree in at least the 4th growing season after set out.
 
 *Bushel.* Fifty pounds of ungraded peaches.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, or permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
 
 *Fresh peach production.* Peach production from insurable acreage that:
 
@@ -26,7 +24,7 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Harvest.* The picking or removal of mature peaches from the trees either by hand or machine.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Loss in quality.* When the crop is damaged to the extent that the producer does not receive the average price for U.S. Extra No. 1 peach.
 
@@ -44,15 +42,15 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Set out.* Transplanting the tree into the orchard.
 
-2. Unit Division.
+2. Unit Division
 
 In addition to the requirements contained in section 34 of the Basic Provisions, optional units may be established if each optional unit is:
 
 (a) Located on non-contiguous land; or
 
-(b) By fresh and processing as specified in the Special Provisions.
+(b) By fresh and processing.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
@@ -64,7 +62,7 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (3) If you only have processing peach acreage designated on your acreage report and fresh peach acreage is added after the sales closing date, we will assign a coverage level equal to the coverage level you selected for your processing peach acreage.
 
-(b) You may select only one price election for all the peaches in the county insured under this policy unless the Special Provisions provide different price elections by fresh and processing peaches. If the Special Provisions allow different price elections, you may select a separate price election for all your fresh peaches and for all your processing peaches. If the Special Provisions do not allow for different price elections, the price elections you choose for fresh peaches and processing peaches must have the same percentage relationship to the maximum price offered by us for fresh and processing peaches. For example, if you choose 100 percent of the maximum price election for fresh peaches, you must choose 100 percent of the maximum price election for processing peaches.
+(b) You may select only one price election for all the peaches in the county insured under this policy unless the actuarial documents provide different price elections by fresh and processing peaches. If the actuarial documents provide different price elections, you may select a separate price election for all your fresh peaches and for all your processing peaches. If the actuarial documents do not provide different price elections, the price elections you choose for fresh peaches and processing peaches must have the same percentage relationship to the maximum price offered by us for fresh and processing peaches. For example, if you choose 100 percent of the maximum price election for fresh peaches, you must choose 100 percent of the maximum price election for processing peaches.
 
 (c) You must report, not later than the production reporting date designated in section 3 of the Basic Provisions, separately by fresh and processing peach acreage, as applicable:
 
@@ -72,7 +70,7 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (2) The number of bearing and non-bearing trees on insurable and uninsurable acreage;
 
-(3) The age of trees, variety, and the planting pattern; and
+(3) The age of the trees, variety, and the planting pattern; and
 
 (4) For the first year of insurance, acreage interplanted with another perennial crop, and anytime the planting pattern of such acreage is changed:
 
@@ -90,7 +88,7 @@ In addition to the requirements of section 3 of the Basic Provisions (§ 457.8):
 
 (2) Or may occur after the beginning of the insurance period and you notify us by the production reporting date, the yield used to establish your production guarantee is due to an uninsured cause of loss;
 
-(3) Or may occur after the beginning of the insurance period and you fail to notify us by the production reporting date, production lost due to uninsured causes equal to the amount of the reduction in yield used to establish your production guarantee will be applied in determining any indemnity (see section 12(c)(1)(ii). We will reduce the yield used to establish your production guarantee for the subsequent crop year.
+(3) Or may occur after the beginning of the insurance period and you fail to notify us by the production reporting date, production lost due to uninsured causes equal to the amount of the reduction in yield used to establish your production guarantee will be applied in determining any indemnity (see section 12(c)(1)(ii)). We will reduce the yield used to establish your production guarantee for the subsequent crop year.
 
 (e) You may not increase your elected or assigned coverage level or the ratio of your price election to the maximum price election if a cause of loss that could or would reduce the yield of the insured crop has occurred prior to the time that you request the increase.
 
@@ -102,7 +100,7 @@ In accordance with section 4 of the Basic Provisions (§ 457.8), the contract ch
 
 In accordance with section 2 of the Basic Provisions (§ 457.8), the cancellation and termination dates are November 20.
 
-6. Report of Acreage.
+6. Report of Acreage
 
 In addition to the requirements contained in section 6 of the Basic Provisions, you must report and designate all acreage of peaches as fresh or processing peaches by the acreage reporting date. Any acreage not meeting all the requirements to qualify for fresh peach production must be designated on the acreage report as processing peach production.
 
@@ -122,15 +120,9 @@ In accordance with section 8 of the Basic Provisions (§ 457.8), the crop insure
 
 (c) That the crop insured will be any varieties of peaches that are grown for the production of Fresh or Processing Peaches.
 
-(d) That are grown in an orchard that, if inspected, is considered acceptable by us;
+(d) That are grown in an orchard that, if inspected, is considered acceptable by us; and
 
-(e) That has reached at least the fourth growing season after set out. However, we may agree in writing to insure acreage that has not reached this age if it has produced at least 100 bushels of peaches per acre; and
-
-(f) That are grown for:
-
-(1) Fresh peach production; or
-
-(2) Processing peach production.
+(e) That are grown on trees that have reached at least the fourth leaf year, unless otherwise allowed by the Special Provisions.
 
 8. Insurable Acreage
 
@@ -196,7 +188,7 @@ In lieu of the provisions in section 9 of the Basic Provisions (§ 457.8), that 
 
 (1) You must notify us within three days of the date that harvest of the damaged variety should have started if the crop will not be harvested.
 
-(2) You must notify us at least 15 days before any production from any unit will be sold by direct marketing unless you have records verifying that the direct market peaches were “weighed and graded” through a packing shed. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(2) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested, unless you have records verifying that the direct market peaches were “weighed and graded” through a packing shed. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (3) If you previously gave notice in accordance with section 14 of the Basic Provisions (§ 457.8), and if you intend to claim an indemnity on any unit, you must notify us at least 15 days prior to the beginning of harvest of the damaged variety, so that we may inspect the damaged production. You must not sell or dispose of the damaged crop until after we have given you written consent to do so.
 
@@ -240,7 +232,7 @@ Example:You have a 100 percent share in one basic unit with 10 acres of fresh pe
 
 (E) $38,750 value of the fresh peach production to count + $3,250 value of the processing peach production to count = $42,000 total value of the production to count;
 
-(F) $56,250 total value of the production guarantee - $42,000 total value of the production to count = $14,250 value of loss; and
+(F) $56,250 total value of the production guarantee—$42,000 total value of the production to count = $14,250 value of loss; and
 
 (G) $14,250 value of loss × 100 percent share = $14,250 indemnity payment.
 
@@ -290,4 +282,4 @@ Example:You have a 100 percent share in one basic unit with 10 acres of fresh pe
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 39923, July 25, 1997, as amended at 62 FR 65176, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 52592, Aug. 31, 2012]
+[62 FR 39923, July 25, 1997, as amended at 62 FR 65176, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 77 FR 52592, Aug. 31, 2012; 87 FR 38897, June 30, 2022]

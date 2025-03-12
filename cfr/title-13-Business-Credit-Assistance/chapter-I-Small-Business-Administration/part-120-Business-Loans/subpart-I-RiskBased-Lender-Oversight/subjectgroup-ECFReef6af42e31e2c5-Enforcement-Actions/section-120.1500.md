@@ -1,5 +1,7 @@
 ##### § 120.1500 Types of formal enforcement actions - SBA Lenders. #####
 
+Link to an amendment published at 87 FR 38910, June 30, 2022.
+
 Upon a determination that the grounds set forth in § 120.1400 exist, the D/OCRM may undertake, in his/her discretion (and with the involvement of the LOC as appropriate and consistent with its assigned responsibilities), one or more of the following formal enforcement actions for each of the types of SBA Lender listed, and is not restricted from delegating as appropriate. SBA will consider the severity or frequency of the violation or action and the circumstances triggering the ground in determining whether and what type of enforcement action to take. SBA will take formal enforcement action in accordance with procedures set forth in § 120.1600. If formal enforcement action is taken under this section and the SBA Lender fails to implement required corrective action in any material respect within the required timeframe in response to the formal enforcement action, the D/OCRM may take further enforcement action, as authorized by law. SBA's decision to take a formal enforcement action will not, by itself, invalidate a guaranty previously provided by SBA.
 
 (a) *Formal enforcement actions for all SBA Lenders.* - (1) *Imposition of portfolio guaranty dollar limit.* SBA may limit the maximum dollar amount that SBA will guarantee on the SBA Lender's SBA loans or debentures.

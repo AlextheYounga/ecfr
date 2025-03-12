@@ -1,5 +1,7 @@
 ##### § 120.540 Liquidation and litigation plans. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *SBA oversight.* SBA may monitor or review liquidation through the review of liquidation plans which all Authorized CDC Liquidators and certain Lenders must submit to SBA for approval prior to undertaking liquidation, and through liquidation wrap-up reports which Lenders must submit to SBA at the completion of liquidation. SBA will monitor debt collection litigation, such as judicial foreclosures, bankruptcy proceedings and other state and federal insolvency proceedings, through the review of litigation plans, as set forth in this section.
 
 (b) *Liquidation plan.* An Authorized CDC Liquidator and a Lender for a loan made under its authority as a CLP Lender must, prior to undertaking any liquidation, submit a written proposed liquidation plan to SBA and receive SBA's written approval of that plan.

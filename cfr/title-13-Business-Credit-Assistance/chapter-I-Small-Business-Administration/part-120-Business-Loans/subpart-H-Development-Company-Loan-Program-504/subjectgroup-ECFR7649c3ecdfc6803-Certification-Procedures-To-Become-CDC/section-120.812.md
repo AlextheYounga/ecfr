@@ -1,5 +1,7 @@
 ##### § 120.812 Probationary period for newly certified CDCs. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) Newly certified CDCs will be on probation for a period of two years from the date of certification, at the end of which the CDC must petition the Lead SBA Office for:
 
 (1) Permanent CDC status; or

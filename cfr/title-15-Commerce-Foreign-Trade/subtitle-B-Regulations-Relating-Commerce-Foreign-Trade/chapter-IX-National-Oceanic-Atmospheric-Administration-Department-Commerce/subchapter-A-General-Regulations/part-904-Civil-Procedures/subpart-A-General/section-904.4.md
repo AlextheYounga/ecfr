@@ -1,3 +1,5 @@
 ##### § 904.4 Computation of time periods. #####
 
+Link to an amendment published at 87 FR 38936, June 30, 2022.
+
 For a NOVA, NOPS or NIDP, the 30 day response period begins to run on the date the notice is received. All other time periods begin to run on the day following the service date of the document, paper, or event that begins the time period. Saturdays, Sundays, and Federal holidays will be included in computing such time, except that when such time expires on a Saturday, Sunday, or Federal holiday, in which event such period will be extended to include the next business day. This method of computing time periods also applies to any act, such as paying a civil penalty, required by this part to take place within a specified period of time. When the period of time prescribed or allowed is less than 11 days, intermediate Saturdays, Sundays, and legal holidays will be excluded in the computation.

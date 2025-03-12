@@ -1,12 +1,12 @@
 ##### § 457.139 Fresh market tomato (dollar plan) crop insurance provisions. #####
 
-The fresh market tomato (dollar plan) crop insurance provisions for the 2013 and succeeding crop years are as follows:
+The fresh market tomato (dollar plan) crop insurance provisions for the 2024 and succeeding crop years are as follows:
 
 FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsured Policies(Appropriate title for insurance provider)Both FCIC and Reinsured PoliciesFresh market tomato (dollar plan) crop provisions1. Definitions
 
 *Acre.* 43,560 square feet of planted acreage when row widths do not exceed six feet. If row widths exceed six feet, the land area on which at least 7,260 linear feet of rows are planted.
 
-*Allowable cost.* The dollar amount per carton for harvesting, packing, and handling as stated in the Special Provisions.
+*Allowable cost.* The dollar amount per carton for harvesting, packing, and handling as stated in the actuarial documents.
 
 *Amount of insurance per acre.* The dollar amount of insurance per acre obtained by multiplying the reference maximum dollar amount shown in the actuarial documents by the coverage level percentage you elect.
 
@@ -14,7 +14,7 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 *Crop year.* In lieu of the definition contained in the Basic Provisions (§ 457.8), crop year is a period of time that begins on the first day of the earliest planting period for fall planted tomatoes and continues through the last day of the insurance period for spring planted tomatoes. The crop year is designated by the calendar year in which spring planted tomatoes are harvested.
 
-*Direct marketing.* The sale of the insured crop directly to consumers without the intervention of an intermediary such as a registered handler, wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
+*Direct marketing.* In addition to the definition contained in section 1 of the Basic Provisions, the sale of the insured crop directly to consumers without the intervention of an intermediary including a registered handler.
 
 *Excess rain.* An amount of precipitation sufficient to directly damage the crop.
 
@@ -34,7 +34,7 @@ FCIC PoliciesDepartment of AgricultureFederal Crop Insurance CorporationReinsure
 
 (4) Shows no red color.
 
-*Minimum value.* The dollar amount per carton shown in the Special Provisions we will use to value appraised and unsold harvested production to count.
+*Minimum value.* The dollar amount per carton shown in the actuarial documents we will use to value appraised and unsold harvested production to count.
 
 *Penhookers.* Individuals who purchase the right to salvage tomatoes remaining in the field after commercial harvests are completed.
 
@@ -99,7 +99,7 @@ In addition to the requirements of section 6 of the Basic Provisions, you must r
 
 7. Annual Premium
 
-In lieu of the premium amount determinations contained in section 7 of the Basic Provisions, the annual premium amount for each cultural practice (e.g., fall transplanted irrigated) is determined by multiplying the final stage amount of insurance per acre by the premium rate for the cultural practice as established in the Actuarial Table, by the insured acreage, by your share at the time coverage begins, and by any applicable premium adjustment factors contained in the actuarial documents.
+In lieu of the premium amount determinations contained in section 7 of the Basic Provisions, the annual premium amount for each cultural practice (e.g., fall transplanted irrigated) is determined by multiplying the final stage amount of insurance per acre by the premium rate for the cultural practice as established in the actuarial documents, by the insured acreage, by your share at the time coverage begins, and by any applicable premium adjustment factors contained in the actuarial documents.
 
 8. Insured Crop
 
@@ -139,7 +139,7 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (b) In addition to the provisions of section 9 of the Basic Provisions:
 
-(1) You must replant any acreage of tomatoes damaged during the planting period in which initial planting took place whenever less than 50 percent of the plant stand remains: and
+(1) You must replant any acreage of tomatoes damaged during the planting period in which initial planting took place whenever less than 50 percent of the plant stand remains and
 
 (i) It is practical to replant;
 
@@ -260,7 +260,7 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 (2) The value of the following appraised production will not be less than the dollar amount obtained by multiplying the number of cartons of appraised tomatoes by the minimum value per carton shown in the Special Provisions for the planting period:
 
-(i) Potential production on any fresh market tomato acreage that has not been harvested the required number of times as specified in the Special Provisions.
+(i) Potential production on any fresh market tomato acreage that has not been harvested the required number of times as specified in the Special Provisions;
 
 (ii) Unharvested mature green tomatoes (unharvested production that is damaged or defective due to insurable causes and is not marketable will not be counted as production to count);
 
@@ -272,9 +272,9 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 (B) You may elect to continue to care for the crop, in which case the amount of production to count for the acreage will be the harvested production, or our reappraisal if the crop is not harvested.
 
-(3) The total value of all sold harvested production from the insurable acreage will be the dollar amount obtained by subtracting the allowable cost contained in the Special Provisions from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value shown in the Special Provisions for any carton of tomatoes), and multiplying this result by the number of cartons of fresh market tomatoes harvested.
+(3) The total value of all sold harvested production from the insurable acreage will be the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value shown in the actuarial documents for any carton of tomatoes), and multiplying this result by the number of cartons of fresh market tomatoes harvested.
 
-(4) The total value of all unsold harvested production will be the dollar amount obtained by multiplying the number of cartons of such tomatoes on the unit by the minimum value shown in the Special Provisions for the planting period. Harvested production that is damaged or defective due to an insured cause of loss and is not sold will not be counted as production to count.
+(4) The total value of all unsold harvested production will be the dollar amount obtained by multiplying the number of cartons of such tomatoes on the unit by the minimum value shown in the actuarial documentsfor the planting period. Harvested production that is damaged or defective due to an insured cause of loss and is not sold will not be counted as production to count.
 
 (5) Any penhooker salvage value paid to you will be added to the total dollar value of production to count.
 
@@ -282,7 +282,7 @@ In addition to the requirements contained in section 14 of the Basic Provisions,
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-16. Minimum Value Option.
+16. Minimum Value Option
 
 (a) The provisions of this option are continuous and will be attached to and made a part of your insurance policy, if:
 
@@ -292,7 +292,7 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 
 (b) In lieu of the provisions contained in section 14(c)(3) and 14(c)(4) of these Crop Provisions, the total value of harvested production will be determined as follows:
 
-(1) For sold harvested production, the dollar amount obtained by subtracting the allowable cost contained in the Special Provisions from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value option price contained in the Special Provisions for any carton of tomatoes sold), and multiplying this result by the number of cartons of fresh market tomatoes sold; and
+(1) For sold harvested production, the dollar amount obtained by subtracting the allowable cost contained in the actuarial documents from the price received for each carton of fresh market tomatoes in the load (this result may not be less than the minimum value option price contained in the actuarial documents for any carton of tomatoes sold), and multiplying this result by the number of cartons of fresh market tomatoes sold; and
 
 (2) For unsold harvested production, the dollar amount obtained by multiplying the number of cartons of such fresh market tomatoes on the unit by the minimum value shown in the Special Provisions for the planting period. Harvested production that is damaged or defective due to an insured cause of loss and is not sold will not be counted as production to count.
 
@@ -307,4 +307,4 @@ The late and prevented planting provisions of the Basic Provisions are not appli
 |                                                                                                                                                                                                                                                                                                                                             16(b)                                                                                                                                                                                                                                                                                                                                              |                                                Indemnity per acre = $5,250 − $1,500 = $3,750 × 100% share                                                 |3,750 |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |                                                   $3,750 × 10.0 acres = $37,500 total indemnity payment                                                   |37,500|
 
-[62 FR 14777, Mar. 28, 1997; 62 FR 63634, Dec. 2, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 77 FR 22469, Apr. 16, 2012]
+[62 FR 14777, Mar. 28, 1997; 62 FR 63634, Dec. 2, 1997, as amended at 62 FR 65174, Dec. 10, 1997; 77 FR 22469, Apr. 16, 2012; 87 FR 38896, June 30, 2022]

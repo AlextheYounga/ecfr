@@ -1,5 +1,7 @@
 ##### § 370.3 Reports of use of sound recordings under statutory license for preexisting subscription services. #####
 
+Link to an amendment published at 87 FR 39001, June 30, 2022.
+
 (a) *General.* This section prescribes the rules for the maintenance and delivery of reports of use for sound recordings under section 112(e) or section 114(d)(2) of title 17 of the United States Code, or both, by preexisting subscription services.
 
 (b) *Delivery.* Reports of Use shall be delivered to Collectives that are identified in the records of the Licensing Section of the Copyright Office as having been designated by determination of the Copyright Royalty Judges. Reports of Use shall be delivered on or before the forty-fifth day after the close of each month.

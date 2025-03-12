@@ -1,5 +1,7 @@
 ##### § 904.241 Depositions. #####
 
+Link to an amendment published at 87 FR 38938, June 30, 2022.
+
 (a) *Notice.* If a motion for deposition is granted, and unless otherwise ordered by the Judge, the party taking the deposition of any person must serve on that person and on any other party written notice at least 15 days before the deposition would be taken (or 25 days if the deposition is to be taken outside the United States). The notice must state the name and address of each person to be examined, the time and place where the examination would be held, the name and mailing address of the person before whom the deposition would be taken, and the subject matter about which each person would be examined.
 
 (b) *Taking the deposition.* Depositions may be taken before any officer authorized to administer oaths by the law of the United States or of the place where the examination is to be held, or before a person appointed by the Judge. Each deponent will be sworn, and any party has the right to cross-examine. Objections are not waived by failure to make them during the deposition unless the ground of the objection is one that might have been removed if presented at that time. The deposition will be recorded, transcribed, signed by the deponent, unless waived, and certified by the officer before whom the deposition was taken. All transcription costs associated with the testimony of a deponent will be borne by the party seeking the deposition. Each party will bear its own expense for any copies of the transcript. See also § 904.252(a).

@@ -1,5 +1,7 @@
 ##### § 120.381 Eligibility. #####
 
+Link to an amendment published at 87 FR 38909, June 30, 2022.
+
 (a) *Eligible small businesses.* A small business is eligible if it has been detrimentally impacted by the closure (or substantial reduction) of a Department of Defense installation, or the termination (or substantial reduction) of a Department of Defense Program on which the small business was a prime contractor, subcontractor, or supplier at any tier.
 
 (b) *Eligible individual.* An eligible individual, for purposes of this program, includes the following persons involuntarily separated from their position or voluntarily terminated under a program offering inducements to encourage early retirement:

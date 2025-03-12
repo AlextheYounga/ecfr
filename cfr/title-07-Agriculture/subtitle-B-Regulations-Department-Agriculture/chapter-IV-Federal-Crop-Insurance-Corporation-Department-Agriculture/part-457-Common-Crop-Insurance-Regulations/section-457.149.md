@@ -1,6 +1,6 @@
 ##### § 457.149 Table grape crop insurance provisions. #####
 
-The Table Grape Crop Insurance Provisions for the 2010 and succeeding crop years are as follows:
+The Table Grape Crop Insurance Provisions for the 2023 and succeeding crop years are as follows:
 
 For:
 
@@ -10,15 +10,11 @@ For both FCIC and reinsured policies:
 
 Table Grape Crop Provisions1. Definitions
 
-*Adapted.* Varieties that are recognized by the National Institute of Food and Agriculture as compatible with agronomic and weather conditions in the county.
-
-*Direct marketing.* Sale of the insured crop directly to consumers without the intervention of an intermediary such as a wholesaler, retailer, packer, processor, shipper or buyer. Examples of direct marketing include selling through an on-farm or roadside stand, farmer's market, and permitting the general public to enter the field for the purpose of picking all or a portion of the crop.
-
 *Graft.* To unite a shoot or bud (scion) with a rootstock or an existing vine in accordance with recommended practices to form a living union.
 
 *Harvest.* Removing the mature grapes from the vines either by hand or machine.
 
-*Interplanted.* Acreage on which two or more crops are planted in any form of alternating or mixed pattern.
+*Interplanted.* In lieu of the definition contained in section 1 of the Basic Provisions, acreage on which two or more crops are planted in any form of alternating or mixed pattern.
 
 *Lug.*
 
@@ -52,15 +48,15 @@ Table Grape Crop Provisions1. Definitions
 
 (1) A basic unit as defined in section 1 of the Basic Provisions will be divided into additional basic units by each table grape variety that you insure; and
 
-(2) Provisions in the Basic Provisions that provide for optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated practices are not applicable. Unless otherwise allowed by written agreement, optional units may only be established if each optional unit is located on non-contiguous land or grown and insured under an organic farming practice.
+(2) Provisions in the Basic Provisions that provide for optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated practices are not applicable. Unless otherwise allowed by written agreement, optional units may only be established if each optional unit is located on non-contiguous land or grown and insured under an organic farming practice.
 
-(b) In all states except Arizona and California, in addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated acreage and for acreage grown and insured under an organic farming practice as provided in the unit division provisions contained in the Basic Provisions, a separate optional unit may be established if each optional unit:
+(b) In all states except Arizona and California, in addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated acreage and for acreage grown and insured under an organic farming practice as provided in the unit division provisions contained in the Basic Provisions, a separate optional unit may be established if each optional unit:
 
 (1) Is located on non-contiguous land; or
 
 (2) Consists of a separate type when separate types are specified in the Special Provisions.
 
-3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
+3. Insurance Guarantees, Coverage Levels, and Prices
 
 In addition to the requirements of section 3 of the Basic Provisions:
 
@@ -122,9 +118,9 @@ In accordance with section 8 of the Basic Provisions, the crop insured will be a
 
 (d) That are grown in a vineyard that, if inspected, is considered acceptable by us;
 
-(e) That, after being set out or grafted, have reached the number of growing seasons designated by the Special Provisions; or
+(e) That, after being set out or grafted, have reached the number of leaf years designated by the Special Provisions; and
 
-(f) That have produced an average of at least 150 lugs of table grapes per acre (or as otherwise provided in the Special Provisions) in at least one of the three crop years immediately preceding the insured crop year, unless we inspect and allow insurance on acreage that has not produced this amount.
+(f) That have produced an average of at least 150 lugs of table grapes per acre in at least one of the three crop years immediately preceding the insured crop year, unless otherwise allowed by the Special Provisions.
 
 8. Insurable Acreage
 
@@ -180,13 +176,13 @@ In lieu of the provisions in section 9 of the Basic Provisions that prohibit ins
 
 (2) Inability to market the table grapes for any reason other than the actual physical damage from an insurable cause specified in this section. For example, we will not pay you an indemnity if you are unable to market due to quarantine, boycott, or refusal of any person to accept production.
 
-11. Duties In the Event of Damage or Loss
+11. Duties in the Event of Damage or Loss
 
 In addition to the requirements of section 14 of the Basic Provisions, the following will apply:
 
 (a) You must notify us within 3 days after the date harvest should have started if the crop will not be harvested.
 
-(b) You must notify us at least 15 days before any production from any unit will be sold by direct marketing. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be sold by direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
+(b) If any portion of your crop will be direct marketed, you must notify us at least 15 calendar days before any production will be harvested. We will conduct an appraisal that will be used to determine your production to count for production that is sold by direct marketing. If damage occurs after this appraisal, we will conduct an additional appraisal. These appraisals, and any acceptable records provided by you, will be used to determine your production to count. Failure to give timely notice that production will be harvested for direct marketing will result in an appraised amount of production to count of not less than the production guarantee per acre if such failure results in our inability to make the required appraisal.
 
 (c) If the crop has been damaged during the growing season and you previously gave notice in accordance with section 14 of the Basic Provisions, you must also provide notice at least 15 days prior to the beginning of harvest if you intend to claim an indemnity as a result of the damage previously reported. You must not destroy the damaged crop until the earlier of 15 days from the date you gave notice of loss, or our written consent to do so. If you fail to meet requirements of this section all such production will be considered undamaged and included as production to count.
 
@@ -240,4 +236,4 @@ In addition to the requirements of section 14 of the Basic Provisions, the follo
 
 The late and prevented planting provisions of the Basic Provisions are not applicable.
 
-[62 FR 47747, Sept. 11, 1997, as amended at 62 FR 65175, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 74 FR 32057, July 7, 2009; 74 FR 35113, July 20, 2009; 76 FR 4804, Jan. 27, 2011]
+[62 FR 47747, Sept. 11, 1997, as amended at 62 FR 65175, Dec. 10, 1997; 65 FR 47839, Aug. 4, 2000; 74 FR 32057, July 7, 2009; 74 FR 35113, July 20, 2009; 76 FR 4804, Jan. 27, 2011; 87 FR 38896, June 30, 2022]
