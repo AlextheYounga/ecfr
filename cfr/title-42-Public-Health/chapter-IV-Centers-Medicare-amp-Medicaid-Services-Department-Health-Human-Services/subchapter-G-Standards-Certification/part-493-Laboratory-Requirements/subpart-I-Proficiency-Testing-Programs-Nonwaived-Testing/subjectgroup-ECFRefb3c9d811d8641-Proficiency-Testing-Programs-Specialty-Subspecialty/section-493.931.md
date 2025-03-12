@@ -37,7 +37,7 @@ The criteria for acceptable performance are -
 |Glucose (excluding glucose performed on monitoring devices cleared by FDA for home use|       Target value ±6 mg/dl or ±10% (greater).        |
 |                                     Iron, total                                      |                  Target value ±20%.                   |
 |                             Lactate dehydrogenase (LDH)                              |                  Target value ±20%.                   |
-|                                    LDH isoenzymes                                    |       LDH1/LDH2 ( + or −) or Target value ±30%.       |
+|                                    LDH isoenzymes                                    |       LDH1/LDH2 (+ or −) or Target value ±30%.        |
 |                                      Magnesium                                       |                  Target value ±25%.                   |
 |                                      Potassium                                       |               Target value ±0.5 mmol/L.               |
 |                                        Sodium                                        |                Target value ±4 mmol/L.                |

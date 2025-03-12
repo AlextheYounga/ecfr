@@ -1,6 +1,6 @@
 ##### § 409.47 Place of service requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
 
 To be covered, home health services must be furnished in either the beneficiary's home or an outpatient setting as defined in this section.
 

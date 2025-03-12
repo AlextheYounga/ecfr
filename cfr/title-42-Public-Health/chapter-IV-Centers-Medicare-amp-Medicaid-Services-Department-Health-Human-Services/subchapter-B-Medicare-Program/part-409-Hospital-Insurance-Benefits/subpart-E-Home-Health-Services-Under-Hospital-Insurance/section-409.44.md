@@ -1,6 +1,6 @@
 ##### § 409.44 Skilled services requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
 
 (a) *General.* The Medicare Administrative Contractor's decision on whether care is reasonable and necessary is based on information provided on the forms and in the medical record concerning the unique medical condition of the individual beneficiary. A coverage denial is not made solely on the basis of the reviewer's general inferences about patients with similar diagnoses or on data related to utilization generally but is based upon objective clinical evidence regarding the beneficiary's individual need for care.
 

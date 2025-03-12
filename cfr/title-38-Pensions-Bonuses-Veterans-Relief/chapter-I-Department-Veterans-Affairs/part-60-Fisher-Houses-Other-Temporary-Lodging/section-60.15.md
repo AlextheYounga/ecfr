@@ -1,14 +1,8 @@
 ##### § 60.15 Application process. #####
 
-Link to an amendment published at 82 FR 26594, June 8, 2017.
+(a) *Submitting requests.* An accompanying individual requesting Fisher House or other temporary lodging must contact directly the provider, social worker, case manager, or Fisher House Manager at the veteran's VA health care facility of jurisdiction. Upon receiving a request, VA will determine the accompanying individual's eligibility for the requested housing, as provided in paragraph (b)(5) of this section.
 
-(a) *Obtaining and submitting the application.* VA Form 10-0408A is the application for Fisher House and other temporary lodging. Applications may be submitted by mail, telephone, facsimile, in person, or electronically. VA Form 10-0408A is available from any VA health care facility or may be obtained online at *http://vaww4.va.gov/vaforms/medical/pdf/vha-10-0408A-fill.pdf.* The completed application must be submitted as follows:
-
-(1) For Fisher House lodging, to the Fisher House Manager at the VA health care facility of jurisdiction.
-
-(2) For other temporary lodging, to the temporary lodging program coordinator at the VA health care facility of jurisdiction.
-
-(b) *Processing applications.* (1) Applications are generally processed in the order that they are received by VA, and temporary lodging is then granted on a first come first serve basis; however, in extraordinary circumstances, such as imminent death, critical injury, or organ donation applications may be processed out of order.
+(b) *Processing applications.* (1) Requests for all temporary housing are generally processed in the order that they are received by VA, and temporary lodging is then granted on a first come, first served basis; however, in extraordinary circumstances, such as imminent death, critical injury, or organ donation, requests may be processed out of order.
 
 (2) Temporary lodging is granted on a space-available basis, with some consideration given to the compatibility of the applicant(s) and the room(s) available. For example, although VA may require an applicant to share a room with another veteran's accompanying individual, VA would not do so if the persons affected are not the same gender.
 
@@ -18,10 +12,10 @@ Link to an amendment published at 82 FR 26594, June 8, 2017.
 
 (5) Subject to all criteria provided in this part, the person responsible for coordinating the Fisher House and other temporary lodging program(s) at the VA health care facility of jurisdiction is responsible for making decisions to grant temporary lodging. These decisions are considered to be final VA decisions concerning individual medical treatment plans and the scheduling and use of VA lodging facilities, and they are not appealable to the Board of Veterans' Appeals.
 
-(6) If VA denies an application for one type of lodging, such as at a Fisher House, the application will be considered for other temporary lodging and vice versa, if the applicant is eligible.
+(6) If VA denies a request for one type of lodging, such as at a Fisher House, the request will be considered for other temporary lodging and vice versa, if the requester is eligible.
 
-(7) If VA denies the application for all types of temporary lodging, VA will refer the application to a VA social worker at the VA health care facility of jurisdiction to determine if other arrangements can be made.
+(7) If VA denies a request for temporary lodging, VA will refer the request to a VA social worker at the VA health care facility of jurisdiction to determine if other arrangements can be made.
 
 (c) Costs for Fisher House and other temporary lodging under this part are borne by VA.
 
-(Authority: 38 U.S.C. 501, 1708)(The Office of Management and Budget has approved the information collection requirements in this section under OMB control number 2900-0630)
+(The Office of Management and Budget has approved the information collection requirements in this section under OMB control number 2900-0630)(Authority: 38 U.S.C. 501, 1708)[77 FR 59089, Sept. 26, 2012, as amended at 82 FR 26594, June 8, 2017]

@@ -149,7 +149,7 @@ Note 2: A container must be equipped with a pressure relief device that will pre
 
 (ii) Each cylinder must be protected with at least one pressure relief device and at least one frangible disc conforming to § 173.301(f) and paragraph (a)(2) of this section. The relieving capacity of the pressure relief device system must be equal to or greater than that calculated by the applicable formula in paragraph 5.8.3 of CGA S-1.1 (IBR, see § 171.7 of this subchapter).
 
-(iii) The temperature and pressure of the gas at the time the shipment is offered for transportation may not exceed −18 °C (0 °F) and 290 psig for carbon dioxide and −15.6 °C ( + 4 °F) and 290 psig for nitrous oxide. Maximum time in transit may not exceed 120 hours.
+(iii) The temperature and pressure of the gas at the time the shipment is offered for transportation may not exceed −18 °C (0 °F) and 290 psig for carbon dioxide and −15.6 °C (+4 °F) and 290 psig for nitrous oxide. Maximum time in transit may not exceed 120 hours.
 
 (2) The following pressure relief device settings, design service temperatures and filling densities apply:
 

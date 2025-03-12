@@ -1,6 +1,6 @@
 ##### § 440.110 Physical therapy, occupational therapy, and services for individuals with speech, hearing, and language disorders. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018, at 82 FR 31729, July 10, 2017.
 
 (a) *Physical therapy* - (1) *Physical therapy* means services prescribed by a physician or other licensed practitioner of the healing arts within the scope of his or her practice under State law and provided to a beneficiary by or under the direction of a qualified physical therapist. It includes any necessary supplies and equipment.
 

@@ -1,6 +1,6 @@
 ##### § 418.76 Condition of participation: Hospice aide and homemaker services. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed to Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
 
 All hospice aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section. Homemaker services must be provided by individuals who meet the personnel requirements specified in paragraph (j) of this section.
 

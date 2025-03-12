@@ -6,17 +6,17 @@
 
 (2) Has resources at or below the resource thresholds set forth in § 423.773(b)(2) or (d)(2).
 
-(b) *Full subsidy eligible individual.* A full subsidy eligible individual is a subsidy eligible individual who -
+(b) *Full subsidy eligible individual.* A full subsidy eligible individual is a subsidy eligible individual who—
 
 (1) Has income below 135 percent of the FPL applicable to the individual's family size; and
 
-(2)Has resources that do not exceed -
+(2) Has resources that do not exceed—
 
 (i) For 2006, 3 times the amount of resources an individual may have and still be eligible for benefits under the Supplemental Security Income (SSI) program under title XVI of the Act (including the assets or resources of the individual's spouse).
 
 (ii) For subsequent years, the amount of resources allowable for the previous year under this paragraph (b)(2) increased by the annual percentage increase in the consumer price index (all items, U.S. city average) as of September of that previous year, rounded to the nearest multiple of $10. The nearest multiple are rounded up if it is equal to or greater than $5 and down if it is less than $5.
 
-(c)(1) *Individuals treated as full subsidy eligible.* An individual must be treated as meeting the eligibility requirements for full subsidy eligible individuals under paragraph (b) of this section if the individual is a -
+(c)(1) *Individuals treated as full subsidy eligible.* An individual must be treated as meeting the eligibility requirements for full subsidy eligible individuals under paragraph (b) of this section if the individual is a—
 
 (i) Full-benefit dual eligible individual;
 
@@ -30,11 +30,11 @@
 
 (ii) For an individual deemed eligible between July 1 and December 31 of a calendar year, the individual is deemed eligible for the remainder of the calendar year and the following calendar year.
 
-(d) *Other low-income subsidy individuals.* Other low-income subsidy individuals are subsidy eligible individuals who -
+(d) *Other low-income subsidy individuals.* Other low-income subsidy individuals are subsidy eligible individuals who—
 
 (1) Have income less than 150 percent of the FPL applicable to the individual's family size; and
 
-(2) Have resources that do not exceed -
+(2) Have resources that do not exceed—
 
 (i) For 2006, $10,000 if single or $20,000 if married (including the assets or resources of the individual's spouse).
 

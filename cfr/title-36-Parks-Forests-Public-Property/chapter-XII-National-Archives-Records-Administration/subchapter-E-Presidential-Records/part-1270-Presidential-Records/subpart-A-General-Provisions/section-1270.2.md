@@ -1,0 +1,3 @@
+##### § 1270.2 Application. #####
+
+This part, except §§ 1270.46 and 1270.48, applies to Vice-Presidential records in the same manner as to Presidential records. The Vice President's duties and responsibilities, with respect to Vice-Presidential records, are the same as the President's duties and responsibilities with respect to Presidential records, except those in §§ 1270.46 and 1270.48. The Archivist's authority with respect to Vice-Presidential records is the same as the Archivist's authority with respect to Presidential records, except that the Archivist may enter into an agreement with a non-Federal archival repository to deposit Vice-Presidential records, if the Archivist determines it to be in the public interest.

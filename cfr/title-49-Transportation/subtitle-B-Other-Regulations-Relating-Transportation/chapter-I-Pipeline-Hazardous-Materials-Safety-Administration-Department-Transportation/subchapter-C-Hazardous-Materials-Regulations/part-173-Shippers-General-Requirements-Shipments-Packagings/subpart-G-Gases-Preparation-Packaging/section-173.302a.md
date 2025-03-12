@@ -45,7 +45,7 @@ S = (P(1.3D2 + 0.4d2)) / (D2−d2)Where:S = wall stress, pounds per square inch;
 
 (4) An external and internal visual examination made at the time of test or retest shows the cylinder to be free from excessive corrosion, pitting, or dangerous defects.
 
-(5) A plus sign ( + ) is added following the test date marking on the cylinder to indicate compliance with paragraphs (b) (2), (b)(3), and (b)(4) of this section.
+(5) A plus sign (+) is added following the test date marking on the cylinder to indicate compliance with paragraphs (b) (2), (b)(3), and (b)(4) of this section.
 
 (c) *Special filling limits for DOT 3A, 3AX, 3AA, and 3AAX cylinders containing Division 2.1 gases.* Except for transportation by aircraft, a DOT specification 3A, 3AX, 3AA, and 3AAX cylinder may be filled with hydrogen and mixtures of hydrogen with helium, argon or nitrogen, to a pressure 10% in excess of its marked service pressure subject to the following conditions:
 

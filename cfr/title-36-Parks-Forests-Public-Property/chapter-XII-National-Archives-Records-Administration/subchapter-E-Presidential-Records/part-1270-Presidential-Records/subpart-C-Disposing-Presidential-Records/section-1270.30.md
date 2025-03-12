@@ -1,0 +1,9 @@
+##### § 1270.30 Disposing of Presidential records by an incumbent President. #####
+
+An incumbent President may dispose of any Presidential records of their administration that, in the President's opinion, lack administrative, historical, informational, or evidentiary value, if the President obtains the Archivist's written views about the proposed disposal and either—
+
+(a) Those views state that the Archivist does not intend to request Congress's advice on the matter because the Archivist either does not consider the records proposed for disposal to be of special interest to Congress or does not consider it to be in the public interest to consult with Congress about the proposed disposal; or
+
+(b)(1) Those views state that the Archivist considers either that the records proposed for disposal may be of special interest to Congress or that consulting with Congress about the proposed disposal is in the public interest; and
+
+(2) The President submits copies of the proposed disposal schedule to the Senate and the House of Representatives at least 60 calendar days of continuous congressional session before the proposed disposal date. For the purpose of this section, a continuous congressional session breaks only when Congress adjourns *sine die* (with no date set to resume). If either House of Congress adjourns with a date set to resume, and breaks for more than three days, the adjourned days do not count when computing the 60-day timeline. The President submits copies of the proposed disposal schedule to the Senate Committees on Rules and Administration and Homeland Security and Governmental Affairs, and to the House Committees on House Administration and Oversight and Government Reform.

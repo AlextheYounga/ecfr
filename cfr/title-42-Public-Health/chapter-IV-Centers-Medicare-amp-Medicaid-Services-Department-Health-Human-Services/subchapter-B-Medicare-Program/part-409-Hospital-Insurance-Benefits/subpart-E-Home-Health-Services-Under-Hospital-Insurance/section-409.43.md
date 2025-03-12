@@ -1,6 +1,6 @@
 ##### § 409.43 Plan of care requirements. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
 
 (a) *Contents.* The plan of care must contain those items listed in § 484.18(a) of this chapter that specify the standards relating to a plan of care that an HHA must meet in order to participate in the Medicare program.
 

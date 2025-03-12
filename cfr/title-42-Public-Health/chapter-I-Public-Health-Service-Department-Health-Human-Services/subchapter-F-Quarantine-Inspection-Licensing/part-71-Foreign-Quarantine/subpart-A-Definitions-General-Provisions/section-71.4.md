@@ -1,4 +1,4 @@
-##### § 71.4 Requirements relating transmission of airline passenger, crew and flight information for public health purposes. #####
+##### § 71.4 Requirements relating to the transmission of airline passenger, crew, and flight information for public health purposes. #####
 
 (a) Any airline with a flight arriving into the United States, including any intermediate stops between the flight's origin and final destination, shall make the data elements in paragraph (b) of this section available to the Director for passengers or crew who, as determined by the Director, may be at risk of exposure to a communicable disease, to the extent that such data are already available and maintained by the airline, within 24 hours of an order by the Director and in a format available and acceptable to both the airline and the Director.
 
@@ -38,6 +38,6 @@
 
 (17) Seat number.
 
-(c) No later than February 18, 2019, the Secretary or Director will publish and seek comment on a report evaluating the burden of this section on affected entities and duplication of activities in relation to mandatory passenger data submissions to DHS/CBP. The report will specifically recommend actions that streamline and facilitate use and transmission of any duplicate information collected.
+(c) No later than February 21, 2019, the Secretary or Director will publish and seek comment on a report evaluating the burden of this section on affected entities and duplication of activities in relation to mandatory passenger data submissions to DHS/CBP. The report will specifically recommend actions that streamline and facilitate use and transmission of any duplicate information collected.
 
-[82 FR 6975, Jan. 19, 2017]
+[82 FR 6975, Jan. 19, 2017, as amended at 82 FR 31728, July 10, 2017]

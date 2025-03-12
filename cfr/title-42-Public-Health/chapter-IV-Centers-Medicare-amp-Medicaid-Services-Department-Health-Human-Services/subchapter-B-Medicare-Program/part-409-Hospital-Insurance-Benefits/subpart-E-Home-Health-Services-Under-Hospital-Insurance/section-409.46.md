@@ -1,6 +1,6 @@
 ##### § 409.46 Allowable administrative costs. #####
 
-Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.This amendment was delayed until Jan. 13, 2018 at 82 FR 31729, July 10, 2017.
 
 Services that are allowable as administrative costs but are not separately billable include, but are not limited to, the following:
 
