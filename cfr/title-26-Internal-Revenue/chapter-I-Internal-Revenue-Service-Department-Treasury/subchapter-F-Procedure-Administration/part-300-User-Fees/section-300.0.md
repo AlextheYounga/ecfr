@@ -1,5 +1,7 @@
 ##### § 300.0 User fees; in general. #####
 
+Link to an amendment published at 87 FR 11297, Mar. 1, 2022.
+
 (a) *In general.* The regulations in this part 300 are designated the User Fee Regulations and provide rules relating to user fees under 31 U.S.C. 9701.
 
 (b) *Applicability.* User fees are imposed on the following services:

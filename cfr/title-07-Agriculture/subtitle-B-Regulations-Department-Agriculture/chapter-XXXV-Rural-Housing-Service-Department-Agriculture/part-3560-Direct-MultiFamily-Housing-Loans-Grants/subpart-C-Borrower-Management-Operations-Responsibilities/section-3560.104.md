@@ -1,5 +1,7 @@
 ##### § 3560.104 Fair housing. #####
 
+Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
+
 (a) *General.* Borrowers must comply with the requirements of the Fair Housing Amendments Act of 1988, and this section to meet their fair housing responsibilities.
 
 (b) *Affirmative Fair Housing Marketing Plan* - (1) Borrowers with housing projects that have four or more rental units must prepare and maintain an Affirmative Fair Housing Marketing Plan (AFHMP) as defined in 24 CFR part 200, subpart M.

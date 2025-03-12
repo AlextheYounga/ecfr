@@ -1,5 +1,7 @@
 ##### § 300.9 Enrolled retirement plan agent special enrollment examination fee. #####
 
+Link to an amendment published at 87 FR 11297, Mar. 1, 2022.
+
 (a) *Applicability.* This section applies to the special enrollment examination to become an enrolled retirement plan agent pursuant to 31 CFR 10.4(b).
 
 (b) *Fee.* The fee for taking the enrolled retirement plan agent special enrollment examination is $11 per part, which is the cost to the government for overseeing the examination and does not include any fees charged by the administrator of the examination.

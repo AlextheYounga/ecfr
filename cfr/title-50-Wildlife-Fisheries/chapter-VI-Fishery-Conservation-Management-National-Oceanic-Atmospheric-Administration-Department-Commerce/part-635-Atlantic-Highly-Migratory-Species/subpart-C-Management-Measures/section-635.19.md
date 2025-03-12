@@ -30,7 +30,7 @@
 
 (4) Persons on a vessel issued a permit with a shark endorsement under § 635.4 may possess a shark only if the shark was taken by rod and reel or handline, except that persons on a vessel issued both an HMS Charter/Headboat permit with a commercial sale endorsement (with or without a shark endorsement) and a Federal Atlantic commercial shark permit may possess sharks taken by rod and reel, handline, bandit gear, longline, or gillnet if the vessel is engaged in a non for-hire fishing trip and the commercial shark fishery is open pursuant to § 635.28(b).
 
-(e) *Swordfish.* (1) No person may possess north Atlantic swordfish taken from its management unit by any gear other than handgear, green-stick, or longline, except that such swordfish taken incidentally while fishing with a squid trawl may be retained by a vessel issued a valid Incidental HMS squid trawl permit, subject to restrictions specified in § 635.24(b)(2). No person may possess south Atlantic swordfish taken from its management unit by any gear other than longline.
+(e) *Swordfish.* (1) No person may possess North Atlantic swordfish taken from its management unit by any gear other than handgear, green-stick, or longline, except that such swordfish taken incidentally while fishing with a squid trawl may be retained by a vessel issued a valid Incidental HMS squid trawl permit, subject to restrictions specified in § 635.24(b)(2). No person may possess South Atlantic swordfish taken from its management unit by any gear other than longline.
 
 (2) An Atlantic swordfish may not be retained or possessed on board a vessel with a gillnet. A swordfish will be deemed to have been harvested by gillnet when it is onboard, or offloaded from, a vessel fishing with or having on board a gillnet.
 
@@ -40,4 +40,4 @@
 
 (5) A person aboard a vessel issued or required to be issued a valid Swordfish General Commercial permit may only possess North Atlantic swordfish taken from its management unit by rod and reel, handline, bandit gear, green-stick, or harpoon gear.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017; 83 FR 33154, July 17, 2018]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 73144, Nov. 24, 2015; 82 FR 16506, Apr. 4, 2017; 82 FR 57549, Dec. 6, 2017; 83 FR 33154, July 17, 2018; 87 FR 11324, Mar. 1, 2022]

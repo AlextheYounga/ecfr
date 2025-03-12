@@ -1,5 +1,7 @@
 ##### § 3560.156 Lease requirements. #####
 
+Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
+
 (a) *Agency approval.* Borrowers must use a lease approved by the Agency. The lease must be consistent with Agency requirements and the requirements of all programs participating in the housing project. Prior to submitting the lease to the Agency for approval, borrowers must have their attorney certify that the lease complies with state and local laws, Agency requirements, and the requirements of all programs participating in the housing project. If there are conflicting requirements the borrower shall notify the Agency of the conflict and request guidance. Borrowers must execute their Agency approved lease with each tenant household prior to tenant occupancy of a rental unit.
 
 (b) *Lease requirements.* (1) All leases must be in writing.

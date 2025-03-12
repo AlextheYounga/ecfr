@@ -1,5 +1,7 @@
 ##### § 3560.154 Tenant selection. #####
 
+Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
+
 (a) *Application for occupancy.* Borrowers must use tenant application forms that collect sufficient information to properly determine household eligibility and to enable the Agency to monitor compliance with the Fair Housing Act, section 504 of the Rehabilitation Act of 1973, and title VI of the Civil Rights Act of 1964 during compliance reviews. At a minimum, borrowers must use application forms that collect the following information:
 
 (1) Name of the applicant and present address;

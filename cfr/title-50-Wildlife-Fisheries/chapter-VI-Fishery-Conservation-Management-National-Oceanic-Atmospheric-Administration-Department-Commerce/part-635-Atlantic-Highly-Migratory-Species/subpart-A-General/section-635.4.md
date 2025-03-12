@@ -20,7 +20,7 @@ Information on permits and permit requirements may be obtained from the Division
 
 (9) *Fees.* NMFS may charge a fee for each application for a permit or for each transfer or replacement of a permit. The amount of the fee is calculated in accordance with the procedures of the NOAA Finance Handbook, available from NMFS, for determining administrative costs of each special product or service. The fee may not exceed such costs and is specified in the instructions provided with each application form. Each applicant must include the appropriate fee with each application or request for transfer or replacement. A permit will not be issued to anyone who fails to pay the fee.
 
-(10) *Permit condition.* An owner of a vessel with a valid swordfish, shark, HMS Angling, HMS Charter/Headboat, Incidental HMS squid trawl, or HMS Commercial Caribbean Small Boat permit issued pursuant to this part must agree, as a condition of such permit, that the vessel's HMS fishing, catch, and gear are subject to the requirements of this part during the period of validity of the permit, without regard to whether such fishing occurs in the U.S. EEZ, or outside the U.S. EEZ, and without regard to where such HMS, or gear, are possessed, taken, or landed. However, when a vessel fishes within the waters of a state that has more restrictive regulations pertaining to HMS, persons aboard the vessel must abide by the state's more restrictive regulations.
+(10) *Permit condition.* An owner of a vessel with a valid Atlantic tunas, swordfish, shark, HMS Angling, HMS Charter/Headboat, Incidental HMS squid trawl, or HMS Commercial Caribbean Small Boat permit issued pursuant to this part must agree, as a condition of such permit, that the vessel's HMS fishing, catch, and gear are subject to the requirements of this part during the period of validity of the permit, without regard to whether such fishing occurs in the U.S. EEZ, or outside the U.S. EEZ, and without regard to where such HMS, or gear, are possessed, taken, or landed. However, when a vessel fishes within the waters of a state that has more restrictive regulations pertaining to HMS, persons aboard the vessel must abide by the state's more restrictive regulations.
 
 (b) *HMS Charter/Headboat permits.* (1) The owner of a charter boat or headboat used to fish for, retain, possess, or land any Atlantic HMS must obtain an HMS Charter/Headboat permit. In order to fish for, retain, possess, or land Atlantic sharks, the owner must have a valid shark endorsement issued by NMFS. A vessel issued an HMS Charter/Headboat permit for a fishing year shall not be issued an HMS Angling permit, a Swordfish General Commercial permit, or an Atlantic Tunas permit in any category for that same fishing year, regardless of a change in the vessel's ownership.
 
@@ -80,7 +80,7 @@ Information on permits and permit requirements may be obtained from the Division
 
 (iii) NMFS may require an applicant to provide documentation supporting the application before a permit is issued or to substantiate why such permit should not be revoked or otherwise sanctioned under paragraph (a)(6) of this section.
 
-(iv) An applicant for an incidental HMS squid trawl permit must submit, in addition to all other information specified in § 635.4(h)(1), a copy of a valid *Illex* squid moratorium permit, as described at § 648.4(a)(5)(i) of this chapter.
+(iv) An applicant for an incidental HMS squid trawl permit must submit, in addition to all other information specified in paragraph (h)(1) of this section, a copy of a valid *Illex* squid moratorium permit, as described at § 648.4(a)(5)(ii) of this chapter.
 
 (2) *LAPs for swordfish and shark.* See paragraph (l) of this section for transfers of LAPs for shark and swordfish. See paragraph (m) of this section for renewals of LAPs for shark and swordfish.
 
@@ -134,7 +134,7 @@ Information on permits and permit requirements may be obtained from the Division
 
 (n) *Incidental HMS Squid Trawl permits.* (1) The owner of a vessel in the squid trawl fishery, as described at § 635.24(b)(2), on which Atlantic swordfish are retained, or possessed with an intention to sell, or from which Atlantic swordfish are sold must obtain, in addition to any other required permits, an Incidental HMS squid trawl permit.
 
-(2) An Incidental HMS squid trawl permit is valid only when the vessel has on board a valid *Illex* squid moratorium permit, as described at § 648.4(a)(5)(i) of this chapter, and no commercial fishing gear other than trawl gear.
+(2) An Incidental HMS squid trawl permit is valid only when the vessel has on board a valid *Illex* squid moratorium permit, as described at § 648.4(a)(5)(ii) of this chapter, and no commercial fishing gear other than trawl gear.
 
 (o) *HMS Commercial Caribbean Small Boat permits.* (1) The owner of a vessel who fishes in the U.S. Caribbean, as defined at § 622.2 of this chapter, possesses handgear or green-stick gear and retains, with the intention to sell, any BAYS tunas, Atlantic swordfish, or Atlantic sharks may obtain an HMS Commercial Caribbean Small Boat permit. An HMS Commercial Caribbean Small Boat permit is valid only within the U.S. Caribbean, as defined at § 622.2 of this chapter.
 

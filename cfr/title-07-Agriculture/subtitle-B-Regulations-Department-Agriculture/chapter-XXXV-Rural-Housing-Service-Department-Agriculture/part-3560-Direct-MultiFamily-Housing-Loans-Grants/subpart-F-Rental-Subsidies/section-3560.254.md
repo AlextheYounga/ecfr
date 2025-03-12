@@ -1,5 +1,7 @@
 ##### § 3560.254 Eligibility for rental assistance. #####
 
+Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
+
 (a) *Eligible housing.* Housing projects eligible for Agency RA include the following types of projects.
 
 (1) Housing projects that operate under an Interest Credit Plan II RA agreement.

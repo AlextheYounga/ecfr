@@ -1,5 +1,7 @@
 ##### § 3560.102 Housing project management. #####
 
+Link to an amendment published at 87 FR 11280, Mar. 1, 2022.
+
 (a) *General.* Borrowers hold final responsibility for housing project management and must ensure that operations comply with the terms of all loan or grant documents, Agency requirements and applicable local, state and Federal laws and ordinances. Project operations shall be conducted to meet the actual needs and necessary expenses of the property or for any other purpose authorized under Agency regulations. Any party not meeting these responsibilities may be subject to penalties. It is expected that only typical and reasonable expenses be incurred for the services rendered. Consequently, methods to inflate, duplicate, obscure, or failure to disclose the true nature and cost of work performed for the services rendered will cause the Agency to deny budget requests for the services or issue a demand for recovery and reimbursement for unauthorized actions.
 
 (b) *Management plan.* Borrowers must develop and maintain a management plan for each housing project covered by their loan or grant. The management plan must establish the systems and procedures necessary to ensure that housing project operations comply with Agency requirements.

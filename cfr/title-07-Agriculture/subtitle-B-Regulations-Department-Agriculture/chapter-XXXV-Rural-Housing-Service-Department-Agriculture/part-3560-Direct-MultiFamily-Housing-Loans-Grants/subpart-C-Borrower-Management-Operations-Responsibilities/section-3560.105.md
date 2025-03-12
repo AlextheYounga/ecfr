@@ -1,5 +1,7 @@
 ##### § 3560.105 Insurance and taxes. #####
 
+Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
+
 (a) *General.* Borrowers must purchase and maintain property insurance on all buildings included as security for an Agency loan. Also, borrowers must furnish fidelity coverage, liability insurance, and any other insurance coverage required by the Agency in accordance with this paragraph to protect the security of the asset. Failure to maintain adequate insurance coverage or pay taxes may lead to a non-monetary default under § 3560.452(c).
 
 (b) *General insurance requirements.* All insurance policies must meet the requirements established by the loan documents and this section.

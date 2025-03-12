@@ -1,5 +1,7 @@
 ##### § 3560.72 Loan closing. #####
 
+Link to an amendment published at 87 FR 11280, Mar. 1, 2022.
+
 (a) *Requirements.* Loans will be closed in accordance with 7 CFR part 1927, subpart B and any state supplements. In all cases, the borrower must:
 
 (1) Provide evidence that an Agency-approved accounting system is in place;

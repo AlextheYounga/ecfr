@@ -1,5 +1,7 @@
 ##### § 3560.152 Tenant eligibility. #####
 
+Link to an amendment published at 87 FR 11281, Mar. 1, 2022.
+
 (a) *General requirements.* Except as specified in paragraph (b) of this section, a tenant eligible for occupancy in Agency-financed housing must either:
 
 (1) Be a United States citizen or qualified alien, and

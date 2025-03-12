@@ -198,7 +198,7 @@
 
 (C) *Edisto.* Bounded on the north by 32°24′ N. lat.; on the south by 32°18.5′ N. lat.; on the east by 78°54.0′ W. long.; and on the west by 79°06.0′ W. long.
 
-(D) *Charleston Deep Artificial Reef.* Bounded by rhumb lines connecting, in order, the following points: 32°9.65′ N lat., 79°9.2′ W long.; 32°7.155′ N lat., 79°5.595′ W long.; 32°2.36′ N lat., 79°9.975′ W long.; 32°5.04′ N lat., 79°13.575′ W long.
+(D) *Charleston Deep Artificial Reef.* Bounded by rhumb lines connecting, in order, the following points: 32°05.04′ N lat. 79°13.575′ W long.; 32°9.65′ N lat., 79°9.2′ W long.; 32°7.155′ N lat., 79°5.595′ W long.; 32°2.36′ N lat., 79°9.975′ W long.; 32°5.04′ N lat., 79°13.575′ W long.
 
 (E) *Georgia.* Bounded by rhumb lines connecting, in order, the following points: 31°43′ N. lat., 79°31′ W. long.; 31°43′ N. lat., 79°21′ W. long.; 31°34′ N. lat., 79°29′ W. long.; 31°34′ N. lat., 79°39′ W. long; 31°43′ N. lat., 79°31′ W. long.
 
@@ -254,4 +254,4 @@
 
 (2) A person on board a vessel that has been issued or is required to be issued an HMS Angling permit with a shark endorsement or a person on board a vessel with an HMS Charter/Headboat permit with a shark endorsement must deploy only non-offset, corrodible circle hooks when fishing for, retaining, possessing, or landing, except when fishing with flies or artificial lures.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020; 85 FR 65479, Oct. 16, 2020]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020; 85 FR 65479, Oct. 16, 2020; 87 FR 11324, Mar. 1, 2022]

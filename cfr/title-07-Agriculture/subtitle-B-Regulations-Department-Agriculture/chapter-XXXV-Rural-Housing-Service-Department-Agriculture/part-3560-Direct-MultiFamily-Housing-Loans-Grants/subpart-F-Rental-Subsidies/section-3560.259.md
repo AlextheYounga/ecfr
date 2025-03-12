@@ -1,5 +1,7 @@
 ##### § 3560.259 Transferring rental assistance. #####
 
+Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
+
 (a) *Agency authority.* The Agency may transfer rental assistance in the following instances:
 
 (1) To accompany the transfer of a housing project to a different borrower;

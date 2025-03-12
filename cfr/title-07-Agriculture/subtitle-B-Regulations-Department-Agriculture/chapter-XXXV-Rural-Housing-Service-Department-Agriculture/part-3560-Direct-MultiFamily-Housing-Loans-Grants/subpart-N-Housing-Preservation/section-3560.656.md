@@ -1,5 +1,7 @@
 ##### § 3560.656 Incentives offers. #####
 
+Link to an amendment published at 87 FR 11286, Mar. 1, 2022.
+
 (a) The Agency will offer a borrower, who submits a prepayment request meeting the conditions of § 3560.653(d), incentives to agree to the restrictive-use period in § 3560.662 if the following conditions are met:
 
 (1) The market value of the housing project is determined by the Agency, based on an appraisal conducted in accordance with subpart P of this part.

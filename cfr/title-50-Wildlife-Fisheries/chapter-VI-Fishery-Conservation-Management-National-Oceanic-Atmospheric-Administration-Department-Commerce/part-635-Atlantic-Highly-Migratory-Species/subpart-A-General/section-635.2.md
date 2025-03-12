@@ -154,8 +154,6 @@ In addition to the definitions in the Magnuson-Stevens Act, ATCA, and § 600.10 
 
 (5) For sharks, means all fish of the species listed in Table 1 of Appendix A to this part, in the western north Atlantic Ocean, including the Gulf of Mexico and the Caribbean Sea.
 
-*Mid-Atlantic Bight* means the area bounded by straight lines connecting the mid-Atlantic states' internal waters and extending to 71° W. long. between 35° N. lat. and 43° N. lat.
-
 *Mid-Atlantic shark closed area* means the Atlantic Ocean area seaward of the inner boundary of the U.S. EEZ from a point intersecting the inner boundary of the U.S. EEZ at 35°41′ N. lat. just south of Oregon Inlet, North Carolina, and connecting by straight lines the following coordinates in the order stated: 35°41′ N. lat., 75°25′ W. long. proceeding due east to 35°41′ N. lat., 74°51′ W. long.; then proceeding southeast to 35°30′ N. lat., 74°46′ W. long.; then proceeding southwest, roughly following the 55 fathom mark, to 33°51′ N. lat., 76°24′ W. long.; then proceeding due west to intersect the inner boundary of the U.S. EEZ at 33°51′ N. lat., 77°53′ W. long. near Cape Fear, North Carolina.
 
 *Naturally attached,* as it is used to describe shark fins, refers to shark fins that remain attached to the shark carcass via at least some portion of uncut skin. As used to describe the head of a swordfish, naturally attached refers to the whole head remaining fully attached to the carcass except for the bill, which may be removed provided it has been removed forward of the anterior tip of the lower jaw.

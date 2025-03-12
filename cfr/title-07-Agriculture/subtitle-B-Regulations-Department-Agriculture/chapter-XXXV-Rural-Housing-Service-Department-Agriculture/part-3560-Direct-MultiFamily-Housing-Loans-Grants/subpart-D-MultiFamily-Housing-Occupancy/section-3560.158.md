@@ -1,5 +1,7 @@
 ##### § 3560.158 Changes in tenant eligibility. #####
 
+Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
+
 (a) *General requirements.* Tenants must continue to meet the requirements of § 3560.152 to remain eligible for occupancy.
 
 (b) *Tenants no longer eligible.* Tenants who are no longer eligible for occupancy under the housing project's occupancy rules or do not meet the criteria set forth in § 3560.155(c) and (e) must vacate the property within 30 days of being notified by the borrower that they are no longer eligible for occupancy or at the expiration of their lease, whichever is greater, unless the conditions specified in paragraph (c) of this section exist.

@@ -1,5 +1,7 @@
 ##### § 3560.205 Rent and utility allowance changes. #####
 
+Link to an amendment published at 87 FR 11282, Mar. 1, 2022.
+
 (a) *General.* Borrowers must fully document that changes to rents and utility allowances are necessary to cover housing or utility costs allowed under the approved budget for the housing. Any changes must apply to all similar units in the housing project.
 
 (b) *Agency approval.* Borrowers must submit a fully documented request to the Agency to effect any rent or utility allowance change.

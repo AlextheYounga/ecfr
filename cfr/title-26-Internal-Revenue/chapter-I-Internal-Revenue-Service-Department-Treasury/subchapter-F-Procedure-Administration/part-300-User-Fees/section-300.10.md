@@ -1,5 +1,7 @@
 ##### § 300.10 Renewal of enrollment of enrolled retirement plan agent fee. #####
 
+Link to an amendment published at 87 FR 11297, Mar. 1, 2022.
+
 (a) *Applicability.* This section applies to the renewal of enrollment of enrolled retirement plan agents with the IRS pursuant to 31 CFR 10.5(b).
 
 (b) *Fee.* The fee for renewal of enrollment as an enrolled retirement plan agent with the IRS is $67.

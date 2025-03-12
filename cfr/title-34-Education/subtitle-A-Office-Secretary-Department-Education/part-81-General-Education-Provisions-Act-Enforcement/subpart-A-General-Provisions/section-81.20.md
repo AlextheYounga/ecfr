@@ -1,6 +1,6 @@
 ##### § 81.20 Interlocutory appeals to the Secretary from rulings of an ALJ. #####
 
-(a) A ruling by an ALJ may not be appealed to the Secretary until the issuance of an initial decision, except that the Secretary may, at any time prior to the issuance of an initial decision, grant review of a ruling upon either an ALJ's certification of the ruling to the Secretary for review, or the filing of a petition seeking review of an interim ruling by one or both of the parties, if -
+(a) A ruling by an ALJ may not be appealed to the Secretary until the issuance of an initial decision, except that the Secretary may, at any time prior to the issuance of an initial decision, grant review of a ruling upon either an ALJ's certification of the ruling to the Secretary for review, or the filing of a petition seeking review of an interim ruling by one or both of the parties, if—
 
 (1) That ruling involves a controlling question of substantive or procedural law; and
 
@@ -15,6 +15,10 @@
 (iii) A statement of the reasons showing that the ruling complained of involves a controlling question of substantive or procedural law and why immediate review of the ruling will materially advance the disposition of the case, or why subsequent review will be an inadequate remedy.
 
 (2) A petition may not exceed 10 pages, double-spaced, and must be accompanied by a copy of the ruling and any findings and opinions relating to the ruling.
+
+(3)(i) The petition must be filed electronically, and served upon the ALJ and other parties, by submission to OES on behalf of the Office of the Secretary unless a party shows the Secretary good cause why the petition cannot be filed electronically.
+
+(ii) If the Secretary permits a party to file a petition in paper format, the filing party must file the petition with the Office of Hearings and Appeals (OHA) on behalf of the Secretary by hand-delivery or regular mail. The filing party must provide a copy of the petition to the ALJ at the time the petition is filed, and a copy of the petition must be served upon the other parties by hand-delivery or regular mail.
 
 (c) If a party files a petition under this section, the ALJ may state to the Secretary a view as to whether review is appropriate by submitting a brief statement addressing the party's petition within 10 days of the ALJ's receipt of the petition for interlocutory review. The ALJ must serve a copy of the statement on all parties by submission to OES and, if the Secretary has permitted paper filing, by hand-delivery or regular mail.
 
@@ -36,4 +40,4 @@
 
 (i) The Secretary may affirm, modify, set aside, or remand the ALJ's ruling.
 
-(Authority: 5 U.S.C. 557(b); 20 U.S.C. 1234(f)(1))[58 FR 43473, Aug. 16, 1993, as amended at 86 FR 52832, Sept. 23, 2021]Editorial Note:At 86 FR 52832, Sept. 23, 2021, § 81.20 was amended; however, paragraph (b)(3) could not be added due to inaccurate amendatory instruction.
+[58 FR 43473, Aug. 16, 1993, as amended at 86 FR 52832, Sept. 23, 2021; 87 FR 11310, Mar. 1, 2022]

@@ -1,5 +1,7 @@
 ##### § 3560.306 Reserve account. #####
 
+Link to an amendment published at 87 FR 11285, Mar. 1, 2022.
+
 (a) *Purpose.* To meet the major capital expense needs of a housing project, borrowers must establish and maintain a reserve account.
 
 (b) *Financial management of the reserve account.* Borrower management of the reserve account is subject to the requirements of 7 CFR part 1902, subpart A regarding supervised bank accounts.

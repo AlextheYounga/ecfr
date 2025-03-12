@@ -1,5 +1,7 @@
 ##### § 3560.576 Occupancy restrictions. #####
 
+Link to an amendment published at 87 FR 11286, Mar. 1, 2022.
+
 (a) *Restrictions on conditions of occupancy.* (1) No borrower or grantee will be permitted to require that an occupant work on any particular farm or for any particular owner or interest as a condition of occupancy of the housing.
 
 (2) Tenant selection should be in accordance with the loan agreement, subpart D of this part and § 3560.577.

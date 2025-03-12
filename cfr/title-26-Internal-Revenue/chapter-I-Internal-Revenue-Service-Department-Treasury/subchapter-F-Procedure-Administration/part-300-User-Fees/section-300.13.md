@@ -1,5 +1,7 @@
 ##### § 300.13 Fee for estate tax closing letter. #####
 
+Link to an amendment published at 87 FR 11297, Mar. 1, 2022.
+
 (a) *Applicability.* This section applies to the request by a person described in paragraph (c) of this section for an estate tax closing letter from the IRS.
 
 (b) *Fee.* The fee for issuing an estate tax closing letter is $67.

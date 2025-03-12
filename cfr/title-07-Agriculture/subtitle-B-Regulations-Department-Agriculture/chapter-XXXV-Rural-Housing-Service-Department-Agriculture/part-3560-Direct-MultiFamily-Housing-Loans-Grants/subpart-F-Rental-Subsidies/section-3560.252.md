@@ -1,5 +1,7 @@
 ##### § 3560.252 Authorized rental subsidies. #####
 
+Link to an amendment published at 87 FR 11283, Mar. 1, 2022.
+
 (a) *General.* The purpose of rental subsidies is to reduce amounts paid by tenants for rent. Rental subsidies equal the difference between the approved shelter costs and tenant contributions as calculated in accordance with § 3560.203(a)(1).
 
 (b) *Forms of rental subsidies.* Rental subsidies may be in the form of:
