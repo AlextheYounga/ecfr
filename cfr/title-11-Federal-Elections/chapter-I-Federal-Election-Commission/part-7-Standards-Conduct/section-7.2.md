@@ -1,5 +1,7 @@
 ##### § 7.2 Definitions. #####
 
+Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
+
 As used in this part:
 
 (a) *Commission* means the Federal Election Commission, 999 E Street NW., Washington, DC 20463.

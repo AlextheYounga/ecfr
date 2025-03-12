@@ -1,5 +1,7 @@
 ##### § 1.2 Definitions. #####
 
+Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
+
 As defined in the Privacy Act of 1974 and for the purposes of this part, unless otherwise required by the context, the following terms shall have these meanings:
 
 *Act* means the Federal Election Campaign Act of 1971, as amended and chapters 95 and 96 of the Internal Revenue Code of 1954.

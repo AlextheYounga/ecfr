@@ -6,11 +6,11 @@
 
 (2) The Council may provide a requester in its complex track with an opportunity to limit the scope of the request to qualify for faster processing within the specified limits of the simple track(s).
 
-(c)(1) *Requests for expedited processing.* The Council shall respond to a request out of order and on an expedited basis whenever a requester demonstrates a compelling need for expedited processing in accordance with the requirements of this paragraph (c).
+(c) *Requests for expedited processing.* (1) The Council shall respond to a request out of order and on an expedited basis whenever a requester demonstrates a compelling need for expedited processing in accordance with the requirements of this paragraph (c).
 
 (2) *Form and content of a request for expedited processing.* A request for expedited processing shall be made as follows:
 
-(i) A request for expedited processing shall be made in writing or via the Internet and submitted as part of the initial request for records. When a request for records includes a request for expedited processing, both the envelope and the request itself must be clearly marked “Expedited Processing Requested.” A request for expedited processing that is not clearly so marked, but satisfies the requirements in § 1301.7(c)(2)(ii) and (iii), may nevertheless be granted.
+(i) A request for expedited processing shall be made in writing or via the Internet and submitted as part of the initial request for records. When a request for records includes a request for expedited processing, both the envelope and the request itself must be clearly marked “Expedited Processing Requested.” A request for expedited processing that is not clearly so marked, but satisfies the requirements in paragraphs (c)(2)(ii) and (iii) of this section, may nevertheless be granted.
 
 (ii) A request for expedited processing shall contain a statement that demonstrates a compelling need for the requester to obtain expedited processing of the requested records. A “compelling need” may be established under the standard in either paragraph (c)(2)(ii)(A) or (B) of this section by demonstrating that:
 
@@ -32,11 +32,11 @@
 
 (2) Toll the twenty-day time period while awaiting receipt of the requester's response to the Council's request for clarification regarding the assessment of fees.
 
-(e) *Unusual circumstances* - (1) *In general.* Except as provided in paragraph (e)(2) of this section, if the Council determines that, due to unusual circumstances, it cannot respond either to a request within the time period set forth in paragraph (d) of this section or to an appeal within the time period set forth in § 1301.11, the Council may extend the applicable time periods by informing the requester in writing of the unusual circumstances and of the date by which the Council expects to complete its processing of the request or appeal. Any extension or extensions of time shall not cumulatively total more than ten (10) days (exclusive of Saturdays, Sundays, and legal public holidays).
+(e) *Unusual circumstances*—(1) *In general.* Except as provided in paragraph (e)(2) of this section, if the Council determines that, due to unusual circumstances, it cannot respond either to a request within the time period set forth in paragraph (d) of this section or to an appeal within the time period set forth in § 1301.11, the Council may extend the applicable time periods by informing the requester in writing of the unusual circumstances and of the date by which the Council expects to complete its processing of the request or appeal. Any extension or extensions of time shall not cumulatively total more than ten (10) days (exclusive of Saturdays, Sundays, and legal public holidays).
 
 (2) *Additional time.* If the Council determines that it needs additional time beyond a ten-day extension to process the request or appeal, then the Council shall notify the requester and provide the requester with an opportunity to limit the scope of the request or appeal or to arrange for an alternative time frame for processing the request or appeal or a modified request or appeal. The requester shall retain the right to define the desired scope of the request or appeal, as long as it meets the requirements contained in this part. To aid the requester, the Council shall make available its FOIA Public Liaison, who shall assist in defining the desired scope of the request, and shall notify the requester of the right to seek dispute resolution services from the Office of Government Information Services.
 
-(3) *Unusual circumstances.* As used in this paragraph (e), “unusual circumstances” means, but only to the extent reasonably necessary to the proper processing of the particular requests:
+(3) As used in this paragraph (e), “unusual circumstances” means, but only to the extent reasonably necessary to the proper processing of the particular requests:
 
 (i) The need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
@@ -44,4 +44,4 @@
 
 (iii) The need for consultation, which shall be conducted with all practicable speed, with another agency having a substantial interest in the determination of the request, or among two or more components or component offices having substantial subject matter interest therein.
 
-(4) *Multiple requests.* Where the Council reasonably believes that multiple requests submitted by a requester, or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances, and the requests involve clearly related matters, they may be aggregated. Multiple requests involving unrelated matters will not be aggregated. The Council may disaggregate and treat as separate requests a single request that has multiple unrelated components. The Council shall notify the requester if a request is disaggregated.
+(4) Where the Council reasonably believes that multiple requests submitted by a requester, or by a group of requesters acting in concert, constitute a single request that would otherwise involve unusual circumstances, and the requests involve clearly related matters, they may be aggregated. Multiple requests involving unrelated matters will not be aggregated. The Council may disaggregate and treat as separate requests a single request that has multiple unrelated components. The Council shall notify the requester if a request is disaggregated.

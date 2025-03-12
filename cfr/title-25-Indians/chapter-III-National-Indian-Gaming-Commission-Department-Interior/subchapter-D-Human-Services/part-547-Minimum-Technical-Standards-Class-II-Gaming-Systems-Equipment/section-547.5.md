@@ -1,5 +1,7 @@
 ##### § 547.5 How does a tribal government, TGRA, or tribal gaming operation comply with this part? #####
 
+Link to an amendment published at 82 FR 61175, Dec. 27, 2017.
+
 (a) *Grandfathered gaming systems:* Any Class II gaming system manufactured before November 10, 2008, that is not already certified pursuant to this sub-section or compliant with paragraph (c) of this section may be made available for use at any tribal gaming operation if:
 
 (1) The TGRA submits the Class II gaming system software that affects the play of the Class II game, together with the signature verification required by § 547.8(f) to a testing laboratory recognized pursuant to paragraph (f) of this section within 120 days after October 22, 2012;

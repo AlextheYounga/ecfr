@@ -1,6 +1,6 @@
 ##### § 345.12 Definitions. #####
 
-Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
+Link to an amendment published at 82 FR 55743, Nov. 24, 2017.Link to an amendment published at 82 FR 61145, Dec. 27, 2017.
 
 For purposes of this part, the following definitions apply:
 

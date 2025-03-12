@@ -4,4 +4,4 @@
 
 (b) *Separation of fiduciary assets.* A national bank shall keep the assets of fiduciary accounts separate from the assets of the bank. A national bank shall keep the assets of each fiduciary account separate from all other accounts or shall identify the investments as the property of a particular account, except as provided in § 9.18.
 
-[61 FR 68554, Dec. 30, 1996, as amended at 82 FR 8105, Jan. 23, 2017
+[61 FR 68554, Dec. 30, 1996, as amended at 82 FR 8105, Jan. 23, 2017]

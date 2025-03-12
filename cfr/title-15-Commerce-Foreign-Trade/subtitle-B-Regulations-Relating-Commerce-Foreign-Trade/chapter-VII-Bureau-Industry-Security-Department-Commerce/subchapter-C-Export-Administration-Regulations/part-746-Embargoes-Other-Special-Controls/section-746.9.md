@@ -2,7 +2,7 @@
 
 Sections 5(a)(1) and 5(a)(2)(A) of the Syria Accountability and Lebanese Sovereignty Restoration Act of 2003 (Pub. L. 108-175, codified as a note to 22 U.S.C. 2151) (the SAA) require a prohibition on the export to Syria of all items on the Commerce Control List (in 15 CFR part 774) (CCL) and a prohibition on the export to Syria of products of the United States, other than food and medicine. The President also exercised national security waiver authority pursuant to Section 5(b) of the SAA for certain transactions. The provisions in this section were issued consistent with Executive Order 13338 of May 11, 2004 which implemented the SAA.
 
-(a) *License requirements.* A license is required for the export or reexport to Syria of all items subject to the EAR, except food and medicine classified as EAR99 (food and medicine are defined in part 772 of the EAR). A license is required for the “deemed export” and “deemed reexport,” as described in § 734.2(b) of the EAR, of any technology or source code on the Commerce Control List (CCL) to a Syrian foreign national. “Deemed exports” and “deemed reexports” to Syrian foreign nationals involving technology or source code subject to the EAR but not listed on the CCL do not require a license.
+(a) *License requirements.* A license is required for the export or reexport to Syria of all items subject to the EAR, except food and medicine classified as EAR99 (food and medicine are defined in part 772 of the EAR). A license is required for the deemed export and deemed reexport, as described in §§ 734.13(b) and 734.14(b) of the EAR, respectively, of any technology or source code on the Commerce Control List (CCL) to a Syrian foreign national. Deemed exports and deemed reexports to Syrian foreign nationals involving technology or source code subject to the EAR but not listed on the CCL do not require a license.
 
 (b) *License Exceptions.* No License Exceptions to the license requirements set forth in paragraph (a) of this section are available for exports or reexports to Syria, except the following:
 
@@ -26,4 +26,4 @@ Note to § 746.9:
 
 For administrative reasons, BIS continues to maintain provisions in General Order No. 2, supplement no. 1 to part 736 of the EAR relating to the President's waiver of certain prohibitions. This section contains all of the substantive controls against Syria, including the waiver-related provisions maintained in General Order No. 2.
 
-[76 FR 77117, Dec. 12, 2011, as amended at 78 FR 43973, July 23, 2013; 79 FR 32625, June 5, 2014]
+[76 FR 77117, Dec. 12, 2011, as amended at 78 FR 43973, July 23, 2013; 79 FR 32625, June 5, 2014; 82 FR 61157, Dec. 27, 2017]

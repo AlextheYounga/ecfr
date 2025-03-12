@@ -1,5 +1,7 @@
 ##### § 9008.2 Definitions. #####
 
+Link to an amendment published at 82 FR 60854, Dec. 26, 2017.
+
 (a) *Commission* means the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.
 
 (b) *Fund* means the Presidential Election Campaign Fund established by 26 U.S.C. 9006(a).

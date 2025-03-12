@@ -1,5 +1,7 @@
 ##### § 6.103 Definitions. #####
 
+Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
+
 For purposes of this part, the term -
 
 (a) *Auxiliary aids* means services, including attendant services, or devices that enable handicapped persons, including those with impaired sensory, manual, or speaking skills to have an equal opportunity to participate in, and enjoy the benefits of, programs or activities conducted by the Commission. For example, auxiliary aids useful for persons with impaired vision include readers, Brailled materials, audio recordings, and other similar services and devices. Auxiliary aids useful for persons with impaired hearing include telephone handset amplifiers, telephones compatible with hearing aids, telecommunication devices for deaf persons (TDD's), interpreters, notetakers, written materials, and other similar services and devices. Although auxiliary aids are explicitly required only by 11 CFR 6.160(a)(1), they may also be used to meet other requirements of this part.

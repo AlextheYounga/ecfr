@@ -1,3 +1,3 @@
 ##### § 1301.1 General. #####
 
-This part contains the regulations of the Financial Stability Oversight Council (the “Council”) implementing the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, as amended. These regulations set forth procedures for requesting access to records maintained by the Council. This part should be read together with the FOIA, which provides additional information about this topic.
+This subpart contains the regulations of the Financial Stability Oversight Council (the “Council”) implementing the Freedom of Information Act (“FOIA”), 5 U.S.C. 552, as amended. These regulations set forth procedures for requesting access to records maintained by the Council. These regulations should be read together with the FOIA, which provides additional information about this topic.

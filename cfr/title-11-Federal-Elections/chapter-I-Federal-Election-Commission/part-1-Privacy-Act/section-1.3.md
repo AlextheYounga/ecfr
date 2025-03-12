@@ -1,5 +1,7 @@
 ##### § 1.3 Procedures for requests pertaining to individual records in a record system. #####
 
+Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
+
 (a) Any individual may request the Commission to inform him or her whether a particular record system named by the individual contains a record pertaining to him or her. The request may be made in person or in writing at the location and to the person specified in the notice describing that record system.
 
 (b) An individual who believes that the Commission maintains records pertaining to him or her but who cannot determine which record system contains those records, may request assistance by mail or in person from the Chief Privacy Officer, Federal Election Commission, 999 E Street, NW., Washington, DC 20463 during the hours of 9 a.m. to 5:30 p.m.

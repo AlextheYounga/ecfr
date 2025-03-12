@@ -1,5 +1,7 @@
 ##### § 102.2 Statement of organization: Forms and committee identification number (52 U.S.C. 30103(b), (c)). #####
 
+Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
+
 (a) *Forms.* (1) The Statement of Organization shall be filed in accordance with 11 CFR part 105 on Federal Election Commission Form 1, which may be obtained from the Federal Election Commission, 999 E Street, NW., Washington, DC 20463. The Statement shall be signed by the treasurer and shall include the following information:
 
 (i) The name, address, and type of committee;

@@ -1,5 +1,7 @@
 ##### § 4.5 Categories of exemptions. #####
 
+Link to an amendment published at 82 FR 60852, Dec. 26, 2017.
+
 (a) No requests under 5 U.S.C. 552 shall be denied release unless the record contains, or its disclosure would reveal, matters that are:
 
 (1) Specifically authorized under criteria established by an executive order to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive order;

@@ -1,5 +1,7 @@
 ##### § 104.2 Forms. #####
 
+Link to an amendment published at 82 FR 60853, Dec. 26, 2017.
+
 (a) Each report filed by a political committee under 11 CFR part 104 shall be filed on the appropriate FEC form as set forth below at 11 CFR 104.2(e).
 
 (b) Forms may be obtained from the Federal Election Commission, 999 E Street, NW., Washington, DC 20463.

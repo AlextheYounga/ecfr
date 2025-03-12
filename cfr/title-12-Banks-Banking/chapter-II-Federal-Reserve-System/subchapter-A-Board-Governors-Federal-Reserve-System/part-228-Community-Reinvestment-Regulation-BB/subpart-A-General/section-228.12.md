@@ -1,6 +1,6 @@
 ##### § 228.12 Definitions. #####
 
-Link to an amendment published at 82 FR 55743, Nov. 24, 2017.
+Link to an amendment published at 82 FR 55743, Nov. 24, 2017.Link to an amendment published at 82 FR 61145, Dec. 27, 2017.
 
 For purposes of this part, the following definitions apply:
 
@@ -122,4 +122,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 228.25(b).
 
-[Reg. BB, 60 FR 22190, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41187, July 8, 2004; 70 FR 44267, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68664, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82219, Dec. 30, 2010; 76 FR 79531, Dec. 22, 2011; 77 FR 75524, Dec. 21, 2012; 78 FR 79285, Dec. 30, 2013; 79 FR 77854, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015; 82 FR 5356, Jan. 18, 2017]
+[Reg. BB, 60 FR 22190, May 4, 1995]Editorial Note:For Federal Register citations affecting § 228.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

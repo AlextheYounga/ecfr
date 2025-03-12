@@ -12,6 +12,6 @@
 
 (iii) *Adjustment of filing date.* If an electronic filer in good faith attempts to file a document pursuant to this part in a timely manner but the filing is delayed due to technical difficulties beyond the electronic filer's control, the electronic filer may request that the OCC adjust the filing date of such document. The OCC may grant the request if it appears that such adjustment is appropriate and consistent with the public interest and the protection of investors.
 
-(b) Copies of registration statements, definitive proxy solicitation materials, reports, and annual reports to shareholders required by this part (exclusive of exhibits) are available from the Disclosure Officer, Communications Division, Office of the Comptroller of the Currency, at the address listed on *www.occ.gov.*.
+(b) Copies of registration statements, definitive proxy solicitation materials, reports, and annual reports to shareholders required by this part (exclusive of exhibits) are available from the Disclosure Officer, Communications Division, Office of the Comptroller of the Currency, at the address listed on *www.occ.gov.*
 
 [60 FR 57332, Nov. 15, 1995, as amended at 68 FR 54984, Sept. 22, 2003; 70 FR 46404, Aug. 10, 2005; 79 FR 15641, Mar. 21, 2014; 82 FR 8106, Jan. 23, 2017]

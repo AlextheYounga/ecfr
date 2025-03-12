@@ -14,13 +14,13 @@
 
 (i) Unclassified;
 
-(ii) Secured using `end-to-end encryption;'
+(ii) Secured using 'end-to-end encryption;'
 
 (iii) Secured using cryptographic modules (hardware or “software”) compliant with Federal Information Processing Standards Publication 140-2 (FIPS 140-2) or its successors, supplemented by “software” implementation, cryptographic key management and other procedures and controls that are in accordance with guidance provided in current U.S. National Institute for Standards and Technology publications, or other equally or more effective cryptographic means; and
 
 (iv) Not intentionally stored in a country listed in Country Group D:5 (*see* supplement no. 1 to part 740 of the EAR) or in the Russian Federation.
 
-Note to paragraph (a)(4)(iv):
+Note 1 to paragraph (a)(5)(iv):
 
 Data in-transit via the Internet is not deemed to be stored.
 
@@ -28,4 +28,4 @@ Data in-transit via the Internet is not deemed to be stored.
 
 (c) *Ability to access “technology” or “software” in encrypted form.* The ability to access “technology” or “software” in encrypted form that satisfies the criteria set forth in paragraph (a)(5) of this section does not constitute the release or export of such “technology” or “software.”
 
-[81 FR 35604, June 3, 2016]
+[81 FR 35604, June 3, 2016, as amended at 82 FR 61156, Dec. 27, 2017]

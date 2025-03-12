@@ -1,6 +1,6 @@
 ##### § 1600.19 Employing agency contributions. #####
 
-Link to an amendment published at 82 FR 60102, Dec. 19, 2017.
+Link to an amendment published at 82 FR 60102, Dec. 19, 2017.Link to a correction of the above amendment published at 82 FR 61129, December 27, 2017.
 
 (a) *Agency Automatic (1%) Contributions.* Each pay period, any agency that employs an individual covered by FERS must make a contribution to that employee's tax-deferred balance for the benefit of the individual equal to 1% of the basic pay paid to such employee for service performed during that pay period. The employing agency must make Agency Automatic (1%) Contributions without regard to whether the employee elects to make employee contributions.
 

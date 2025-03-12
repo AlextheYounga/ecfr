@@ -6,7 +6,7 @@
 
 (1) The request for records shall be made in writing and submitted by mail or via the Internet and should state, both in the request itself and on any envelope that encloses it, that it comprises a FOIA request. A request that does not explicitly state that it is a FOIA request, but clearly indicates or implies that it is a request for records, may also be processed under the FOIA.
 
-(2) If a request is sent by mail, it shall be addressed and submitted as follows: FOIA Request - Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW., Washington, DC 20220. If a request is made via the Internet, it shall be submitted as set forth on the Council's Web site.
+(2) If a request is sent by mail, it shall be addressed and submitted as follows: FOIA Request—Financial Stability Oversight Council, U.S. Department of the Treasury, 1500 Pennsylvania Avenue NW., Washington DC 20220. If a request is made via the Internet, it shall be submitted as set forth on the Council's Web site.
 
 (3) In order to ensure the Council's ability to respond in a timely manner, a FOIA request must describe the records that the requester seeks in sufficient detail to enable Council personnel to locate them with a reasonable amount of effort. Whenever possible, the request must include specific information about each record sought, such as the date, title or name, author, recipient, and subject matter of the record. If known, the requester must include any file designations or descriptions for the records requested. In general, a requester is encouraged to provide more specific information about the records or types of records sought to increase the likelihood that responsive records can be located.
 
