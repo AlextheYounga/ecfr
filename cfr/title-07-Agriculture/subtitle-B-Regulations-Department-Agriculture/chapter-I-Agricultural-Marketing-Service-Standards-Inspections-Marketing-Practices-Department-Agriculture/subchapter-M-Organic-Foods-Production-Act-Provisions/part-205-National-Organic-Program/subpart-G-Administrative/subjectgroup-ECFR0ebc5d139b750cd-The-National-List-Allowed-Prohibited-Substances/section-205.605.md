@@ -1,7 +1,5 @@
 ##### § 205.605 Nonagricultural (nonorganic) substances allowed as ingredients in or on processed products labeled as “organic” or “made with organic (specified ingredients or food group(s)).” #####
 
-Link to an amendment published at 82 FR 31244, July 6, 2017.
-
 The following nonagricultural substances may be used as ingredients in or on processed products labeled as “organic” or “made with organic (specified ingredients or food group(s))” only in accordance with any restrictions specified in this section.
 
 (a) *Nonsynthetics allowed:*
@@ -100,8 +98,6 @@ Glycerin - produced by hydrolysis of fats and oils.
 
 Hydrogen peroxide.
 
-Magnesium carbonate - for use only in agricultural products labeled “made with organic (specified ingredients or food group(s)),” prohibited in agricultural products labeled “organic”.
-
 Magnesium chloride - derived from sea water.
 
 Magnesium stearate - for use only in agricultural products labeled “made with organic (specified ingredients or food group(s)),” prohibited in agricultural products labeled “organic”.
@@ -142,4 +138,4 @@ Xanthan gum.
 
 (c)-(z) [Reserved]
 
-[68 FR 61993, Oct. 31, 2003, as amended as 68 FR 62217, Nov. 3, 2003; 71 FR 53302, Sept. 11, 2006; 72 FR 58473, Oct. 16, 2007; 73 FR 59481, Oct. 9, 2008; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 78 FR 61161, Oct. 3, 2013; 81 FR 51709, Aug. 3, 2016]
+[68 FR 61993, Oct. 31, 2003, as amended as 68 FR 62217, Nov. 3, 2003; 71 FR 53302, Sept. 11, 2006; 72 FR 58473, Oct. 16, 2007; 73 FR 59481, Oct. 9, 2008; 75 FR 77524, Dec. 13, 2010; 77 FR 8092, Feb. 14, 2012; 77 FR 33298, June 6, 2012; 77 FR 45907, Aug. 2, 2012; 78 FR 31821, May 28, 2013; 78 FR 61161, Oct. 3, 2013; 81 FR 51709, Aug. 3, 2016; 82 FR 31244, July 6, 2017]

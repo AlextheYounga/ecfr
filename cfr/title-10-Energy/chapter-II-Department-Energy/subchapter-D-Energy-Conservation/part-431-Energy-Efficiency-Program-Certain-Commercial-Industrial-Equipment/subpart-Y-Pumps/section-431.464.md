@@ -1,5 +1,7 @@
 ##### § 431.464 Test procedure for measuring and determining energy consumption of pumps. #####
 
+Link to an amendment published at 82 FR 36923, Aug. 7, 2017.
+
 (a) *Scope.* This section provides the test procedures for determining the constant and variable load pump energy index for:
 
 (1) The following categories of clean water pumps:

@@ -1,5 +1,7 @@
 ##### § 1202.251 What coal is subject to royalties? #####
 
+Link to an amendment published at 82 FR 36953, Aug. 7, 2017.
+
 (a) All coal (except coal unavoidably lost as BLM determines under 43 CFR part 3400) from a Federal or Indian lease is subject to royalty. This includes coal used, sold, or otherwise disposed of by you on or off of the lease.
 
 (b) If you receive compensation for unavoidably lost coal through insurance coverage or other arrangements, you must pay royalties at the rate specified in the lease on the amount of compensation that you receive for the coal. No royalty is due on insurance compensation that you received for other losses.

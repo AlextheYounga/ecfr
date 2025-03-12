@@ -1,5 +1,7 @@
 ##### § 431.463 Materials incorporated by reference. #####
 
+Link to an amendment published at 82 FR 36922, Aug. 7, 2017.
+
 (a) *General.* DOE incorporates by reference the following standards into subpart Y of part 431. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Any subsequent amendment to a standard by the standard-setting organization will not affect the DOE test procedures unless and until amended by DOE. Material is incorporated as it exists on the date of the approval and a notice of any change in the material will be published in the Federal Register. All approved material is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Also, this material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, Sixth Floor, 950 L'Enfant Plaza SW., Washington, DC 20024, (202) 586-2945, or go to: *http://www1.eere.energy.gov/buildings/appliance\_standards.* These standards can be obtained from the sources below.
 
 (b) *FM.* FM Global, 1151 Boston-Providence Turnpike, P.O. Box 9102, Norwood, MA 02062, (781) 762-4300. *www.fmglobal.com*.

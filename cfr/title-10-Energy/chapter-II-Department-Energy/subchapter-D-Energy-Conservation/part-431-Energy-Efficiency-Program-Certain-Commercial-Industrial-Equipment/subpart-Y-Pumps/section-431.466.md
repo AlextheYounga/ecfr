@@ -1,5 +1,7 @@
 ##### § 431.466 Pumps labeling requirements. #####
 
+Link to an amendment published at 82 FR 36923, Aug. 7, 2017.
+
 (a) *Pump nameplate* - (1) *Required information.* The permanent nameplate of a pump for which standards are prescribed in § 431.465 must be marked clearly with the following information:
 
 (i) For bare pumps and pumps sold with electric motors but not continuous or non-continuous controls, the rated pump energy index - constant load (PEICL), and for pumps sold with motors and continuous or non-continuous controls, the rated pump energy index - variable load (PEIVL);

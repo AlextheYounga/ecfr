@@ -1,5 +1,7 @@
 ##### § 429.59 Pumps. #####
 
+Link to an amendment published at 82 FR 36918, Aug. 7, 2017.
+
 (a) *Determination of represented value.* Manufacturers must determine the represented value, which includes the certified rating, for each basic model by testing (which includes the calculation-based methods in the test procedure), in conjunction with the following sampling provisions. Manufacturers must update represented values to account for any change in the applicable motor standards in § 431.25 of this chapter and certify amended values as of the next annual certification.
 
 (1) Units to be tested. The requirements of § 429.11 are applicable to pumps; and for each basic model, a sample of sufficient size shall be randomly selected and tested to ensure that -

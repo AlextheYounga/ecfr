@@ -1,5 +1,7 @@
 ##### § 431.462 Definitions. #####
 
+Link to an amendment published at 82 FR 36920, Aug. 7, 2017.
+
 The following definitions are applicable to this subpart, including appendix A. In cases where there is a conflict, the language of the definitions adopted in this section takes precedence over any descriptions or definitions found in the 2014 version of ANSI/HI 1.1-1.2, “American National Standard for Rotodynamic Centrifugal Pumps for Nomenclature and Definitions” (ANSI/HI 1.1-1.2-2014) (incorporated by reference, see § 431.463), or the 2014 version of ANSI/HI 2.1-2.2, “American National Standard for Rotodynamic Vertical Pumps of Radial, Mixed, and Axial Flow Types for Nomenclature and Definitions” (ANSI/HI 2.1-2.2-2014) (incorporated by reference, see § 431.463). In cases where definitions reference design intent, DOE will consider marketing materials, labels and certifications, and equipment design to determine design intent.
 
 *Bare pump* means a pump excluding mechanical equipment, driver, and controls.

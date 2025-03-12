@@ -1,7 +1,5 @@
 ##### § 205.603 Synthetic substances allowed for use in organic livestock production. #####
 
-Link to an amendment published at 82 FR 31243, July 6, 2017.
-
 In accordance with restrictions specified in this section the following synthetic substances may be used in organic livestock production:
 
 (a) As disinfectants, sanitizer, and medical treatments as applicable.
@@ -42,23 +40,21 @@ In accordance with restrictions specified in this section the following syntheti
 
 (9) Flunixin (CAS #-38677-85-9) - in accordance with approved labeling; except that for use under 7 CFR part 205, the NOP requires a withdrawal period of at least two-times that required by the FDA.
 
-(10) Furosemide (CAS #-54-31-9) - in accordance with approved labeling; except that for use under 7 CFR part 205, the NOP requires a withdrawal period of at least two-times that required that required by the FDA.
+(10) Glucose.
 
-(11) Glucose.
+(11) Glycerin - Allowed as a livestock teat dip, must be produced through the hydrolysis of fats or oils.
 
-(12) Glycerin - Allowed as a livestock teat dip, must be produced through the hydrolysis of fats or oils.
+(12) Hydrogen peroxide.
 
-(13) Hydrogen peroxide.
+(13) Iodine.
 
-(14) Iodine.
+(14) Magnesium hydroxide (CAS #-1309-42-8) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires use by or on the lawful written order of a licensed veterinarian.
 
-(15) Magnesium hydroxide (CAS #-1309-42-8) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires use by or on the lawful written order of a licensed veterinarian.
+(15) Magnesium sulfate.
 
-(16) Magnesium sulfate.
+(16) Oxytocin - use in postparturition therapeutic applications.
 
-(17) Oxytocin - use in postparturition therapeutic applications.
-
-(18) Parasiticides - Prohibited in slaughter stock, allowed in emergency treatment for dairy and breeder stock when organic system plan-approved preventive management does not prevent infestation. Milk or milk products from a treated animal cannot be labeled as provided for in subpart D of this part for 90 days following treatment. In breeder stock, treatment cannot occur during the last third of gestation if the progeny will be sold as organic and must not be used during the lactation period for breeding stock.
+(17) Parasiticides - Prohibited in slaughter stock, allowed in emergency treatment for dairy and breeder stock when organic system plan-approved preventive management does not prevent infestation. Milk or milk products from a treated animal cannot be labeled as provided for in subpart D of this part for 90 days following treatment. In breeder stock, treatment cannot occur during the last third of gestation if the progeny will be sold as organic and must not be used during the lactation period for breeding stock.
 
 (i) Fenbendazole (CAS #43210-67-9) - only for use by or on the lawful written order of a licensed veterinarian.
 
@@ -66,13 +62,13 @@ In accordance with restrictions specified in this section the following syntheti
 
 (iii) Moxidectin (CAS #113507-06-5) - for control of internal parasites only.
 
-(19) Peroxyacetic/peracetic acid (CAS #-79-21-0) - for sanitizing facility and processing equipment.
+(18) Peroxyacetic/peracetic acid (CAS #-79-21-0) - for sanitizing facility and processing equipment.
 
-(20) Phosphoric acid - allowed as an equipment cleaner, *Provided*, That, no direct contact with organically managed livestock or land occurs.
+(19) Phosphoric acid - allowed as an equipment cleaner, *Provided*, That, no direct contact with organically managed livestock or land occurs.
 
-(21) Poloxalene (CAS #-9003-11-6) - for use under 7 CFR part 205, the NOP requires that poloxalene only be used for the emergency treatment of bloat.
+(20) Poloxalene (CAS #-9003-11-6) - for use under 7 CFR part 205, the NOP requires that poloxalene only be used for the emergency treatment of bloat.
 
-(22) Tolazoline (CAS #-59-98-3) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
+(21) Tolazoline (CAS #-59-98-3) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
 
 (i) Use by or on the lawful written order of a licensed veterinarian;
 
@@ -80,7 +76,7 @@ In accordance with restrictions specified in this section the following syntheti
 
 (iii) A meat withdrawal period of at least 8 days after administering to livestock intended for slaughter; and a milk discard period of at least 4 days after administering to dairy animals.
 
-(23) Xylazine (CAS #-7361-61-7) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
+(22) Xylazine (CAS #-7361-61-7) - federal law restricts this drug to use by or on the lawful written or oral order of a licensed veterinarian, in full compliance with the AMDUCA and 21 CFR part 530 of the Food and Drug Administration regulations. Also, for use under 7 CFR part 205, the NOP requires:
 
 (i) Use by or on the lawful written order of a licensed veterinarian;
 
@@ -126,4 +122,4 @@ In accordance with restrictions specified in this section the following syntheti
 
 (g)-(z) [Reserved]
 
-[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015]
+[72 FR 70484, Dec. 12, 2007, as amended at 73 FR 54059, Sept. 18, 2008; 75 FR 51924, Aug. 24, 2010; 77 FR 28745, May 15, 2012; 77 FR 45907, Aug. 2, 2012; 77 FR 57989, Sept. 19, 2012; 80 FR 6429, Feb. 5, 2015; 82 FR 31243, July 6, 2017]
