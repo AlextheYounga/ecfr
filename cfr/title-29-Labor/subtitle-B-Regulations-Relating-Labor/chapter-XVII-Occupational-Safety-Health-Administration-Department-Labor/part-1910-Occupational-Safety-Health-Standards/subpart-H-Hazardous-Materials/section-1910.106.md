@@ -26,13 +26,13 @@
 
 (12) Fire area shall mean an area of a building separated from the remainder of the building by construction having a fire resistance of at least 1 hour and having all communicating openings properly protected by an assembly having a fire resistance rating of at least 1 hour.
 
-(13) Flammable aerosol shall mean a flammable aerosol as defined by Appendix B to § 1910.1200 - Physical Hazard Criteria. For the purposes of paragraph (d) of this section, such aerosols are considered Category 1 flammable liquids.
+(13) Flammable aerosol shall mean a flammable aerosol as defined by Appendix B to § 1910.1200—Physical Hazard Criteria. For the purposes of paragraph (d) of this section, such aerosols are considered Category 1 flammable liquids.
 
 (14) *Flashpoint* means the minimum temperature at which a liquid gives off vapor within a test vessel in sufficient concentration to form an ignitable mixture with air near the surface of the liquid, and shall be determined as follows:
 
-(i) For a liquid which has a viscosity of less than 45 SUS at 100 °F (37.8 °C), does not contain suspended solids, and does not have a tendency to form a surface film while under test, the procedure specified in the Standard Method of Test for Flashpoint by Tag Closed Tester (ASTM D-56-70), which is incorporated by reference as specified in § 1910.6, or an equivalent test method as defined in Appendix B to § 1910.1200 - Physical Hazard Criteria, shall be used.
+(i) For a liquid which has a viscosity of less than 45 SUS at 100 °F (37.8 °C), does not contain suspended solids, and does not have a tendency to form a surface film while under test, the procedure specified in the Standard Method of Test for Flashpoint by Tag Closed Tester (ASTM D-56-70), which is incorporated by reference as specified in § 1910.6, or an equivalent test method as defined in Appendix B to § 1910.1200—Physical Hazard Criteria, shall be used.
 
-(ii) For a liquid which has a viscosity of 45 SUS or more at 100 °F (37.8 °C), or contains suspended solids, or has a tendency to form a surface film while under test, the Standard Method of Test for Flashpoint by Pensky-Martens Closed Tester (ASTM D-93-71) or an equivalent method as defined by Appendix B to § 1910.1200 - Physical Hazard Criteria, shall be used except that the methods specified in Note 1 to section 1.1 of ASTM D-93-71 may be used for the respective materials specified in the Note. The preceding ASTM standard is incorporated by reference as specified in § 1910.6.
+(ii) For a liquid which has a viscosity of 45 SUS or more at 100 °F (37.8 °C), or contains suspended solids, or has a tendency to form a surface film while under test, the Standard Method of Test for Flashpoint by Pensky-Martens Closed Tester (ASTM D-93-71) or an equivalent method as defined by Appendix B to § 1910.1200—Physical Hazard Criteria, shall be used except that the methods specified in Note 1 to section 1.1 of ASTM D-93-71 may be used for the respective materials specified in the Note. The preceding ASTM standard is incorporated by reference as specified in § 1910.6.
 
 (iii) For a liquid that is a mixture of compounds that have different volatilities and flashpoints, its flashpoint shall be determined by using the procedure specified in paragraph (a)(14)(i) or (ii) of this section on the liquid in the form it is shipped.
 
@@ -96,7 +96,7 @@
 
 (38) *Viscous* means a viscosity of 45 SUS or more.
 
-(b) *Tank storage* - (1) *Design and construction of tanks* - (i) *Materials.* (*a*) Tanks shall be built of steel except as provided in paragraphs (b)(1)(i) (*b*) through (*e*) of this section.
+(b) *Tank storage*—(1) *Design and construction of tanks*—(i) *Materials.* (*a*) Tanks shall be built of steel except as provided in paragraphs (b)(1)(i) (*b*) through (*e*) of this section.
 
 (*b*) Tanks may be built of materials other than steel for installation underground or if required by the properties of the liquid stored. Tanks located above ground or inside buildings shall be of noncombustible construction.
 
@@ -186,10 +186,6 @@ This paragraph may be used for operating pressures not exceeding 1 p.s.i.g.
 
 (*c*) Where entire dependence for emergency relief is placed upon pressure relieving devices, the total venting capacity of both normal and emergency vents shall be enough to prevent rupture of the shell or bottom of the tank if vertical, or of the shell or heads if horizontal. If unstable liquids are stored, the effects of heat or gas resulting from polymerization, decomposition, condensation, or self-reactivity shall be taken into account. The total capacity of both normal and emergency venting devices shall be not less than that derived from Table H-10 except as provided in subdivision (*e*) or (*f*) of this subdivision. Such device may be a self-closing manhole cover, or one using long bolts that permit the cover to lift under internal pressure, or an additional or larger relief valve or valves. The wetted area of the tank shall be calculated on the basis of 55 percent of the total exposed area of a sphere or spheroid, 75 percent of the total exposed area of a horizontal tank and the first 30 feet above grade of the exposed shell area of a vertical tank.
 
-Table H-10 - Wetted Area Versus Cubic Feet Free Air Per Hour
-
-[14.7 psia and 60 °F.]
-
 |Square feet|  CFH  |Square feet|  CFH  |Square feet|  CFH  |
 |-----------|-------|-----------|-------|-----------|-------|
 |    20     |21,100 |    200    |211,000|   1,000   |524,000|
@@ -239,7 +235,7 @@ V = 1337 ÷ *L√M**V* = Cubic feet of free air per hour from Table H-10.*L* = L
 
 (*c*) When tank vent piping is manifolded, pipe sizes shall be such as to discharge, within the pressure limitations of the system, the vapors they may be required to handle when manifolded tanks are subject to the same fire exposure.
 
-(vii) *Drainage, dikes, and walls for aboveground tanks - (a) Drainage and diked areas.* The area surrounding a tank or a group of tanks shall be provided with drainage as in subdivision (*b*) of this subdivision, or shall be diked as provided in subdivision (*c*) of this subdivision, to prevent accidental discharge of liquid from endangering adjoining property or reaching waterways.
+(vii) *Drainage, dikes, and walls for aboveground tanks—(a) Drainage and diked areas.* The area surrounding a tank or a group of tanks shall be provided with drainage as in subdivision (*b*) of this subdivision, or shall be diked as provided in subdivision (*c*) of this subdivision, to prevent accidental discharge of liquid from endangering adjoining property or reaching waterways.
 
 (*b) Drainage.* Where protection of adjoining property or waterways is by means of a natural or manmade drainage system, such systems shall comply with the following:
 
@@ -271,7 +267,7 @@ V = 1337 ÷ *L√M**V* = Cubic feet of free air per hour from Table H-10.*L* = L
 
 (*f*) Filling and emptying connections which are made and broken shall be located outside of buildings at a location free from any source of ignition and not less than 5 feet away from any building opening. Such connection shall be closed and liquidtight when not in use. The connection shall be properly identified.
 
-(3) *Installation of underground tanks* - (i) *Location.* Excavation for underground storage tanks shall be made with due care to avoid undermining of foundations of existing structures. Underground tanks or tanks under buildings shall be so located with respect to existing building foundations and supports that the loads carried by the latter cannot be transmitted to the tank. The distance from any part of a tank storing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), to the nearest wall of any basement or pit shall be not less than 1 foot, and to any property line that may be built upon, not less than 3 feet. The distance from any part of a tank storing Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids to the nearest wall of any basement, pit or property line shall be not less than 1 foot.
+(3) *Installation of underground tanks*— (i) *Location.* Excavation for underground storage tanks shall be made with due care to avoid undermining of foundations of existing structures. Underground tanks or tanks under buildings shall be so located with respect to existing building foundations and supports that the loads carried by the latter cannot be transmitted to the tank. The distance from any part of a tank storing Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), to the nearest wall of any basement or pit shall be not less than 1 foot, and to any property line that may be built upon, not less than 3 feet. The distance from any part of a tank storing Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids to the nearest wall of any basement, pit or property line shall be not less than 1 foot.
 
 (ii) *Depth and cover.* Underground tanks shall be set on firm foundations and surrounded with at least 6 inches of noncorrosive, inert materials such as clean sand, earth, or gravel well tamped in place. The tank shall be placed in the hole with care since dropping or rolling the tank into the hole can break a weld, puncture or damage the tank, or scrape off the protective coating of coated tanks. Tanks shall be covered with a minimum of 2 feet of earth, or shall be covered with not less than 1 foot of earth, on top of which shall be placed a slab of reinforced concrete not less than 4 inches thick. When underground tanks are, or are likely to be, subject to traffic, they shall be protected against damage from vehicles passing over them by at least 3 feet of earth cover, or 18 inches of well-tamped earth, plus 6 inches of reinforced concrete or 8 inches of asphaltic concrete. When asphaltic or reinforced concrete paving is used as part of the protection, it shall extend at least 1 foot horizontally beyond the outline of the tank in all directions.
 
@@ -287,24 +283,21 @@ V = 1337 ÷ *L√M**V* = Cubic feet of free air per hour from Table H-10.*L* = L
 
 (*b*) Size of vents. Each tank shall be vented through piping adequate in size to prevent blow-back of vapor or liquid at the fill opening while the tank is being filled. Vent pipes shall be not less than 11/4 inch nominal inside diameter.
 
-Table H-11 - Vent Line Diameters
-
-|Maximum flow GPM|Pipe length<sup>1</sup>|        |      |
-|----------------|-----------------------|--------|------|
-|    50 feet     |       100 feet        |200 feet|      |
-|                |        Inches         | Inches |Inches|
-|      100       |         11/4          |  11/4  | 11/4 |
-|      200       |         11/4          |  11/4  | 11/4 |
-|      300       |         11/4          |  11/4  | 11/2 |
-|      400       |         11/4          |  11/2  |  2   |
-|      500       |         11/2          |  11/2  |  2   |
-|      600       |         11/2          |   2    |  2   |
-|      700       |           2           |   2    |  2   |
-|      800       |           2           |   2    |  3   |
-|      900       |           2           |   2    |  3   |
-|     1,000      |           2           |   2    |  3   |
-
-<sup>1</sup> Vent lines of 50 ft., 100 ft., and 200 ft. of pipe plus 7 ells.
+|                              Maximum flow GPM                              |Pipe length <sup>1</sup>|        |      |
+|----------------------------------------------------------------------------|------------------------|--------|------|
+|                                  50 feet                                   |        100 feet        |200 feet|      |
+|                                                                            |         Inches         | Inches |Inches|
+|                                    100                                     |          11/4          |  11/4  | 11/4 |
+|                                    200                                     |          11/4          |  11/4  | 11/4 |
+|                                    300                                     |          11/4          |  11/4  | 11/2 |
+|                                    400                                     |          11/4          |  11/2  |  2   |
+|                                    500                                     |          11/2          |  11/2  |  2   |
+|                                    600                                     |          11/2          |   2    |  2   |
+|                                    700                                     |           2            |   2    |  2   |
+|                                    800                                     |           2            |   2    |  3   |
+|                                    900                                     |           2            |   2    |  3   |
+|                                   1,000                                    |           2            |   2    |  3   |
+|<sup>1</sup> Vent lines of 50 ft., 100 ft., and 200 ft. of pipe plus 7 ells.|                        |        |      |
 
 (*c*) Location and arrangement of vents for Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids. Vent pipes from tanks storing Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids shall terminate outside of the building and higher than the fill pipe opening. Vent outlets shall be above normal snow level. They may be fitted with return bends, coarse screens or other devices to minimize ingress of foreign material.
 
@@ -322,7 +315,7 @@ Table H-11 - Vent Line Diameters
 
 (*e*) Filling and emptying connections which are made and broken shall be located outside of buildings at a location free from any source of ignition and not less than 5 feet away from any building opening. Such connection shall be closed and liquidtight when not in use. The connection shall be properly identified.
 
-(4) *Installation of tanks inside of buildings* - (i) *Location.* Tanks shall not be permitted inside of buildings except as provided in paragraphs (e), (g), (h), or (i) of this section.
+(4) *Installation of tanks inside of buildings*—(i) *Location.* Tanks shall not be permitted inside of buildings except as provided in paragraphs (e), (g), (h), or (i) of this section.
 
 (ii) *Vents.* Vents for tanks inside of buildings shall be as provided in subparagraphs (2) (iv), (v), (vi)(*b*), and (3)(iv) of this paragraph, except that emergency venting by the use of weak roof seams on tanks shall not be permitted. Vents shall discharge vapors outside the buildings.
 
@@ -344,7 +337,7 @@ Table H-11 - Vent Line Diameters
 
 (*h*) Tanks inside buildings shall be equipped with a device, or other means shall be provided, to prevent overflow into the building.
 
-(5) *Supports, foundations, and anchorage for all tank locations* - (i) *General.* Tank supports shall be installed on firm foundations. Tank supports shall be of concrete, masonry, or protected steel. Single wood timber supports (not cribbing) laid horizontally may be used for outside aboveground tanks if not more than 12 inches high at their lowest point.
+(5) *Supports, foundations, and anchorage for all tank locations*—(i) *General.* Tank supports shall be installed on firm foundations. Tank supports shall be of concrete, masonry, or protected steel. Single wood timber supports (not cribbing) laid horizontally may be used for outside aboveground tanks if not more than 12 inches high at their lowest point.
 
 (ii) *Fire resistance.* Steel supports or exposed piling shall be protected by materials having a fire resistance rating of not less than 2 hours, except that steel saddles need not be protected if less than 12 inches high at their lowest point. Water spray protection or its equivalent may be used in lieu of fire-resistive materials to protect supports.
 
@@ -410,7 +403,7 @@ Table H-11 - Vent Line Diameters
 
 (6) *Sources of ignition.* In locations where flammable vapors may be present, precautions shall be taken to prevent ignition by eliminating or controlling sources of ignition. Sources of ignition may include open flames, lightning, smoking, cutting and welding, hot surfaces, frictional heat, sparks (static, electrical, and mechanical), spontaneous ignition, chemical and physical-chemical reactions, and radiant heat.
 
-(7) *Testing* - (i) *General.* All tanks, whether shop built or field erected, shall be strength tested before they are placed in service in accordance with the applicable paragraphs of the code under which they were built. The American Society of Mechanical Engineers (ASME) code stamp, American Petroleum Institute (API) monogram, or the label of the Underwriters' Laboratories, Inc., on a tank shall be evidence of compliance with this strength test. Tanks not marked in accordance with the above codes shall be strength tested before they are placed in service in accordance with good engineering principles and reference shall be made to the sections on testing in the codes listed in subparagraphs (1) (iii)(*a*), (iv)(*b*), or (v)(*b*) of this paragraph.
+(7) *Testing*—(i) *General.* All tanks, whether shop built or field erected, shall be strength tested before they are placed in service in accordance with the applicable paragraphs of the code under which they were built. The American Society of Mechanical Engineers (ASME) code stamp, American Petroleum Institute (API) monogram, or the label of the Underwriters' Laboratories, Inc., on a tank shall be evidence of compliance with this strength test. Tanks not marked in accordance with the above codes shall be strength tested before they are placed in service in accordance with good engineering principles and reference shall be made to the sections on testing in the codes listed in subparagraphs (1) (iii)(*a*), (iv)(*b*), or (v)(*b*) of this paragraph.
 
 (ii) *Strength.* When the vertical length of the fill and vent pipes is such that when filled with liquid the static head imposed upon the bottom of the tank exceeds 10 pounds per square inch, the tank and related piping shall be tested hydrostatically to a pressure equal to the static head thus imposed.
 
@@ -420,7 +413,7 @@ Table H-11 - Vent Line Diameters
 
 (v) *Derated operations.* Tanks to be operated at pressures below their design pressure may be tested by the applicable provisions of subdivision (i) or (ii) of this subparagraph, based upon the pressure developed under full emergency venting of the tank.
 
-(c) *Piping, valves, and fittings* - (1) *General* - (i) *Design.* The design (including selection of materials) fabrication, assembly, test, and inspection of piping systems containing flammable liquids shall be suitable for the expected working pressures and structural stresses. Conformity with the applicable provisions of Pressure Piping, ANSI B31 series and the provisions of this paragraph, shall be considered prima facie evidence of compliance with the foregoing provisions.
+(c) *Piping, valves, and fittings*—(1) *General*—(i) *Design.* The design (including selection of materials) fabrication, assembly, test, and inspection of piping systems containing flammable liquids shall be suitable for the expected working pressures and structural stresses. Conformity with the applicable provisions of Pressure Piping, ANSI B31 series and the provisions of this paragraph, shall be considered prima facie evidence of compliance with the foregoing provisions.
 
 (ii) *Exceptions.* This paragraph does not apply to any of the following:
 
@@ -432,7 +425,7 @@ Table H-11 - Vent Line Diameters
 
 (iii) *Definitions.* As used in this paragraph, piping systems consist of pipe, tubing, flanges, bolting, gaskets, valves, fittings, the pressure containing parts of other components such as expansion joints and strainers, and devices which serve such purposes as mixing, separating, snubbing, distributing, metering, or controlling flow.
 
-(2) *Materials for piping, valves, and fittings* - (i) *Required materials.* Materials for piping, valves, or fittings shall be steel, nodular iron, or malleable iron, except as provided in paragraph (c)(2) (ii), (iii) and (iv) of this section.
+(2) *Materials for piping, valves, and fittings*—(i) *Required materials.* Materials for piping, valves, or fittings shall be steel, nodular iron, or malleable iron, except as provided in paragraph (c)(2) (ii), (iii) and (iv) of this section.
 
 (ii) *Exceptions.* Materials other than steel, nodular iron, or malleable iron may be used underground, or if required by the properties of the flammable liquid handled. Material other than steel, nodular iron, or malleable iron shall be designed to specifications embodying principles recognized as good engineering practices for the material used.
 
@@ -450,7 +443,7 @@ Table H-11 - Vent Line Diameters
 
 (7) *Testing.* All piping before being covered, enclosed, or placed in use shall be hydrostatically tested to 150 percent of the maximum anticipated pressure of the system, or pneumatically tested to 110 percent of the maximum anticipated pressure of the system, but not less than 5 pounds per square inch gage at the highest point of the system. This test shall be maintained for a sufficient time to complete visual inspection of all joints and connections, but for at least 10 minutes.
 
-(d) *Container and portable tank storage* - (1) *Scope* - (i) *General.* This paragraph shall apply only to the storage of flammable liquids in drums or other containers (including flammable aerosols) not exceeding 60 gallons individual capacity and those portable tanks not exceeding 660 gallons individual capacity.
+(d) *Container and portable tank storage*—(1) *Scope*—(i) *General.* This paragraph shall apply only to the storage of flammable liquids in drums or other containers (including flammable aerosols) not exceeding 60 gallons individual capacity and those portable tanks not exceeding 660 gallons individual capacity.
 
 (ii) *Exceptions.* This paragraph shall not apply to the following:
 
@@ -462,11 +455,11 @@ Table H-11 - Vent Line Diameters
 
 (*d*) Beverages when packaged in individual containers not exceeding 1 gallon in size.
 
-(2) *Design, construction, and capacity of containers* - (i) *General.* Only approved containers and portable tanks shall be used. Metal containers and portable tanks meeting the requirements of and containing products authorized by chapter I, title 49 of the Code of Federal Regulations (regulations issued by the Hazardous Materials Regulations Board, Department of Transportation), shall be deemed to be acceptable.
+(2) *Design, construction, and capacity of containers*—(i) *General.* Only approved containers and portable tanks shall be used. Metal containers and portable tanks meeting the requirements of and containing products authorized by chapter I, title 49 of the Code of Federal Regulations (regulations issued by the Hazardous Materials Regulations Board, Department of Transportation), shall be deemed to be acceptable.
 
 (ii) *Emergency venting.* Each portable tank shall be provided with one or more devices installed in the top with sufficient emergency venting capacity to limit internal pressure under fire exposure conditions to 10 p.s.i.g., or 30 percent of the bursting pressure of the tank, whichever is greater. The total venting capacity shall be not less than that specified in paragraphs (b)(2)(v) (*c*) or (*e*) of this section. At least one pressure-activated vent having a minimum capacity of 6,000 cubic feet of free air (14.7 p.s.i.a. and 60 °F.) shall be used. It shall be set to open at not less than 5 p.s.i.g. If fusible vents are used, they shall be actuated by elements that operate at a temperature not exceeding 300 °F.
 
-(iii) *Size.* Flammable and combustible liquid containers shall be in accordance with Table H-12, except that glass or plastic containers of no more than 1-gallon capacity may be used for a Category 1 or 2 flammable liquid if:
+(iii) *Size.* Flammable liquid containers shall be in accordance with Table H-12, except that glass or plastic containers of no more than 1-gallon capacity may be used for a Category 1 or 2 flammable liquid if:
 
 (*a*)(*1*) Such liquid either would be rendered unfit for its intended use by contact with metal or would excessively corrode a metal container so as to create a leakage hazard; and
 
@@ -474,40 +467,34 @@ Table H-11 - Vent Line Diameters
 
 (*b*) The containers are intended for direct export outside the United States.
 
-Table H-12 - Maximum Allowable Size of Containers and Portable Tanks for Flammable Liquids
+|                                                                                                                Container type                                                                                                                |Category 1|Category 2|Category 3|Category 4|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|----------|----------|----------|
+|                                                                                                          Glass or approved plastic                                                                                                           |   1 pt   |   1 qt   |  1 gal   |  1 gal.  |
+|                                                                                                         Metal (other than DOT drums)                                                                                                         |  1 gal   |  5 gal   |  5 gal   |  5 gal.  |
+|                                                                                                                 Safety cans                                                                                                                  |  2 gal   |  5 gal   |  5 gal   |  5 gal.  |
+|                                                                                                       Metal drums (DOT specifications)                                                                                                       |  60 gal  |  60 gal  |  60 gal  | 60 gal.  |
+|                                                                                                           Approved portable tanks                                                                                                            | 660 gal  | 660 gal  | 660 gal  | 660 gal. |
+|**Note:** Container exemptions: (a) Medicines, beverages, foodstuffs, cosmetics, and other common consumer items, when packaged according to commonly accepted practices, shall be exempt from the requirements of 1910.106(d)(2)(i) and (ii).|          |          |          |          |
 
-|         Container type         |Category 1|Category 2|Category 3|Category 4|
-|--------------------------------|----------|----------|----------|----------|
-|   Glass or approved plastic    |   1 pt   |   1 qt   |  1 gal   |  1 gal.  |
-|  Metal (other than DOT drums)  |  1 gal   |  5 gal   |  5 gal   |  5 gal.  |
-|          Safety cans           |  2 gal   |  5 gal   |  5 gal   |  5 gal.  |
-|Metal drums (DOT specifications)|  60 gal  |  60 gal  |  60 gal  | 60 gal.  |
-|    Approved portable tanks     | 660 gal  | 660 gal  | 660 gal  | 660 gal. |
+(3) *Design, construction, and capacity of storage cabinets*—(i) *Maximum capacity.* Not more than 60 gallons of Category 1, 2, or 3 flammable liquids, nor more than 120 gallons of Category 4 flammable liquids may be stored in a storage cabinet.
 
-Note: Container exemptions: (a) Medicines, beverages, foodstuffs, cosmetics, and other common consumer items, when packaged according to commonly accepted practices, shall be exempt from the requirements of 1910.106(d)(2)(i) and (ii).
-
-(3) *Design, construction, and capacity of storage cabinets* - (i) *Maximum capacity.* Not more than 60 gallons of Category 1, 2, or 3 flammable liquids, nor more than 120 gallons of Category 4 flammable liquids may be stored in a storage cabinet.
-
-(ii) *Fire resistance.* Storage cabinets shall be designed and constructed to limit the internal temperature to not more than 325 °F. when subjected to a 10-minute fire test using the standard time-temperature curve as set forth in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251-1969, which is incorporated by reference as specified in § 1910.6. All joints and seams shall remain tight and the door shall remain securely closed during the fire test. Cabinets shall be labeled in conspicuous lettering, “Flammable - Keep Fire Away.”
+(ii) *Fire resistance.* Storage cabinets shall be designed and constructed to limit the internal temperature to not more than 325 °F. when subjected to a 10-minute fire test using the standard time-temperature curve as set forth in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251-1969, which is incorporated by reference as specified in § 1910.6. All joints and seams shall remain tight and the door shall remain securely closed during the fire test. Cabinets shall be labeled in conspicuous lettering, “Flammable—Keep Fire Away.”
 
 (*a*) Metal cabinets constructed in the following manner shall be deemed to be in compliance. The bottom, top, door, and sides of cabinet shall be at least No. 18 gage sheet iron and double walled with 11/2-inch air space. Joints shall be riveted, welded or made tight by some equally effective means. The door shall be provided with a three-point lock, and the door sill shall be raised at least 2 inches above the bottom of the cabinet.
 
 (*b*) Wooden cabinets constructed in the following manner shall be deemed in compliance. The bottom, sides, and top shall be constructed of an approved grade of plywood at least 1 inch in thickness, which shall not break down or delaminate under fire conditions. All joints shall be rabbetted and shall be fastened in two directions with flathead woodscrews. When more than one door is used, there shall be a rabbetted overlap of not less than 1 inch. Hinges shall be mounted in such a manner as not to lose their holding capacity due to loosening or burning out of the screws when subjected to the fire test.
 
-(4) *Design and construction of inside storage rooms* - (i) *Construction.* Inside storage rooms shall be constructed to meet the required fire-resistive rating for their use. Such construction shall comply with the test specifications set forth in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251-1969. Where an automatic sprinkler system is provided, the system shall be designed and installed in an acceptable manner. Openings to other rooms or buildings shall be provided with noncombustible liquid-tight raised sills or ramps at least 4 inches in height, or the floor in the storage area shall be at least 4 inches below the surrounding floor. Openings shall be provided with approved self-closing fire doors. The room shall be liquid-tight where the walls join the floor. A permissible alternate to the sill or ramp is an open-grated trench inside of the room which drains to a safe location. Where other portions of the building or other properties are exposed, windows shall be protected as set forth in the Standard for Fire Doors and Windows, NFPA No. 80-1968, which is incorporated by reference as specified in § 1910.6, for Class E or F openings. Wood at least 1 inch nominal thickness may be used for shelving, racks, dunnage, scuffboards, floor overlay, and similar installations.
+(4) *Design and construction of inside storage rooms*—(i) *Construction.* Inside storage rooms shall be constructed to meet the required fire-resistive rating for their use. Such construction shall comply with the test specifications set forth in Standard Methods of Fire Tests of Building Construction and Materials, NFPA 251-1969. Where an automatic sprinkler system is provided, the system shall be designed and installed in an acceptable manner. Openings to other rooms or buildings shall be provided with noncombustible liquid-tight raised sills or ramps at least 4 inches in height, or the floor in the storage area shall be at least 4 inches below the surrounding floor. Openings shall be provided with approved self-closing fire doors. The room shall be liquid-tight where the walls join the floor. A permissible alternate to the sill or ramp is an open-grated trench inside of the room which drains to a safe location. Where other portions of the building or other properties are exposed, windows shall be protected as set forth in the Standard for Fire Doors and Windows, NFPA No. 80-1968, which is incorporated by reference as specified in § 1910.6, for Class E or F openings. Wood at least 1 inch nominal thickness may be used for shelving, racks, dunnage, scuffboards, floor overlay, and similar installations.
 
 (ii) *Rating and capacity.* Storage in inside storage rooms shall comply with Table H-13.
 
-Table H-13 - Storage in Inside Rooms
-
-|Fire protection<sup>1</sup> provided|Fire resistance|Maximum size|Total allowable quantities (gals./sq. ft./floor area)|
-|------------------------------------|---------------|------------|-----------------------------------------------------|
-|                Yes                 |    2 hours    | 500 sq. ft |                         10                          |
-|                 No                 |    2 hours    | 500 sq. ft |                          5                          |
-|                Yes                 |    1 hour     | 150 sq. ft |                          4                          |
-|                 No                 |    1 hour     | 150 sq. ft |                          2                          |
-
-<sup>1</sup> Fire protection system shall be sprinkler, water spray, carbon dioxide, or other system.
+|                                Fire protection <sup>1</sup> provided                                |Fire resistance|Maximum size|Total allowable quantities (gals./sq. ft./floor area)|
+|-----------------------------------------------------------------------------------------------------|---------------|------------|-----------------------------------------------------|
+|                                                 Yes                                                 |    2 hours    | 500 sq. ft |                         10                          |
+|                                                 No                                                  |    2 hours    | 500 sq. ft |                          5                          |
+|                                                 Yes                                                 |    1 hour     | 150 sq. ft |                          4                          |
+|                                                 No                                                  |    1 hour     | 150 sq. ft |                          2                          |
+|<sup>1</sup> Fire protection system shall be sprinkler, water spray, carbon dioxide, or other system.|               |            |                                                     |
 
 (iii) *Wiring.* Electrical wiring and equipment located in inside storage rooms used for Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be approved under subpart S of this part for Class I, Division 2 Hazardous Locations; for Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids, shall be approved for general use.
 
@@ -515,7 +502,7 @@ Table H-13 - Storage in Inside Rooms
 
 (v) *Storage in inside storage rooms.* In every inside storage room there shall be maintained one clear aisle at least 3 feet wide. Containers over 30 gallons capacity shall not be stacked one upon the other. Dispensing shall be by approved pump or self-closing faucet only.
 
-(5) *Storage inside building* - (i) *Egress.* Flammable liquids, including stock for sale, shall not be stored so as to limit use of exits, stairways, or areas normally used for the safe egress of people.
+(5) *Storage inside building*—(i) *Egress.* Flammable liquids, including stock for sale, shall not be stored so as to limit use of exits, stairways, or areas normally used for the safe egress of people.
 
 (ii) *Containers.* The storage of flammable liquids in containers or portable tanks shall comply with subdivisions (iii) through (v) of this subparagraph.
 
@@ -543,7 +530,7 @@ Table H-13 - Storage in Inside Rooms
 
 (*f*) Aisles of at least 3 feet wide shall be provided where necessary for reasons of access to doors, windows or standpipe connections.
 
-(6) *Storage outside buildings* - (i) *General.* Storage outside buildings shall be in accordance with Table H-16 or H-17, and subdivisions (ii) and (iv) of this subparagraph.
+(6) *Storage outside buildings*—(i) *General.* Storage outside buildings shall be in accordance with Table H-16 or H-17, and subdivisions (ii) and (iv) of this subparagraph.
 
 ![](/graphics/er26mr12.056.gif)
 
@@ -557,7 +544,7 @@ Table H-13 - Storage in Inside Rooms
 
 (iv) *Security.* The storage area shall be protected against tampering or trespassers where necessary and shall be kept free of weeds, debris and other combustible material not necessary to the storage.
 
-(7) *Fire control* - (i) *Extinguishers.* Suitable fire control devices, such as small hose or portable fire extinguishers, shall be available at locations where flammable liquids are stored.
+(7) *Fire control*—(i) *Extinguishers.* Suitable fire control devices, such as small hose or portable fire extinguishers, shall be available at locations where flammable liquids are stored.
 
 ![](/graphics/er26mr12.057.gif)
 
@@ -571,7 +558,7 @@ Table H-13 - Storage in Inside Rooms
 
 (iv) *Water reactive materials.* Materials which will react with water shall not be stored in the same room with flammable liquids.
 
-(e) *Industrial plants* - (1) *Scope* - (i) *Application.* This paragraph shall apply to those industrial plants where:
+(e) *Industrial plants*—(1) *Scope*—(i) *Application.* This paragraph shall apply to those industrial plants where:
 
 (*a*) The use of flammable liquids is incidental to the principal business, or
 
@@ -579,7 +566,7 @@ Table H-13 - Storage in Inside Rooms
 
 (ii) *Exceptions.* Where portions of such plants involve chemical reactions such as oxidation, reduction, halogenation, hydrogenation, alkylation, polymerization, and other chemical processes, those portions of the plant shall be in accordance with paragraph (h) of this section.
 
-(2) *Incidental storage or use of flammable liquids* - (i) *Application.* This subparagraph shall be applicable to those portions of an industrial plant where the use and handling of flammable liquids is only incidental to the principal business, such as automobile assembly, construction of electronic equipment, furniture manufacturing, or other similar activities.
+(2) *Incidental storage or use of flammable liquids*—(i) *Application.* This subparagraph shall be applicable to those portions of an industrial plant where the use and handling of flammable liquids is only incidental to the principal business, such as automobile assembly, construction of electronic equipment, furniture manufacturing, or other similar activities.
 
 (ii) *Containers.* Flammable liquids shall be stored in tanks or closed containers.
 
@@ -605,7 +592,7 @@ Table H-13 - Storage in Inside Rooms
 
 (*d*) Flammable liquids shall be drawn from or transferred into vessels, containers, or portable tanks within a building only through a closed piping system, from safety cans, by means of a device drawing through the top, or from a container or portable tanks by gravity through an approved self-closing valve. Transferring by means of air pressure on the container or portable tanks shall be prohibited.
 
-(3) *Unit physical operations* - (i) *Application.* This subparagraph shall be applicable in those portions of industrial plants where flammable liquids are handled or used in unit physical operations such as mixing, drying, evaporating, filtering, distillation, and similar operations which do not involve chemical change. Examples are plants compounding cosmetics, pharmaceuticals, solvents, cleaning fluids, insecticides, and similar types of activities.
+(3) *Unit physical operations*—(i) *Application.* This subparagraph shall be applicable in those portions of industrial plants where flammable liquids are handled or used in unit physical operations such as mixing, drying, evaporating, filtering, distillation, and similar operations which do not involve chemical change. Examples are plants compounding cosmetics, pharmaceuticals, solvents, cleaning fluids, insecticides, and similar types of activities.
 
 (ii) *Location.* Industrial plants shall be located so that each building or unit of equipment is accessible from at least one side for firefighting and fire control purposes. Buildings shall be located with respect to lines of adjoining property which may be built upon as set forth in paragraph (h)(2) (i) and (ii) of this section except that the blank wall referred to in paragraph (h)(2)(ii) of this section shall have a fire resistance rating of at least 2 hours.
 
@@ -615,7 +602,7 @@ Table H-13 - Storage in Inside Rooms
 
 (*b*) Emergency drainage systems, if connected to public sewers or discharged into public waterways, shall be equipped with traps or separator.
 
-(v) *Ventilation* - (*a*) Areas as defined in paragraph (e)(3)(i) of this section using Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be ventilated at a rate of not less than 1 cubic foot per minute per square foot of solid floor area. This shall be accomplished by natural or mechanical ventilation with discharge or exhaust to a safe location outside of the building. Provision shall be made for introduction of makeup air in such a manner as not to short circuit the ventilation. Ventilation shall be arranged to include all floor areas or pits where flammable vapors may collect.
+(v) *Ventilation*—(*a*) Areas as defined in paragraph (e)(3)(i) of this section using Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be ventilated at a rate of not less than 1 cubic foot per minute per square foot of solid floor area. This shall be accomplished by natural or mechanical ventilation with discharge or exhaust to a safe location outside of the building. Provision shall be made for introduction of makeup air in such a manner as not to short circuit the ventilation. Ventilation shall be arranged to include all floor areas or pits where flammable vapors may collect.
 
 (*b*) Equipment used in a building and the ventilation of the building shall be designed so as to limit flammable vapor-air mixtures under normal operating conditions to the interior of equipment, and to not more than 5 feet from equipment which exposes Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), to the air. Examples of such equipment are dispensing stations, open centrifuges, plate and frame filters, open vacuum filters, and surfaces of open equipment.
 
@@ -625,7 +612,7 @@ Table H-13 - Storage in Inside Rooms
 
 (ii) [Reserved]
 
-(5) *Fire control* - (i) *Portable and special equipment.* Portable fire extinguishment and control equipment shall be provided in such quantities and types as are needed for the special hazards of operation and storage.
+(5) *Fire control*—(i) *Portable and special equipment.* Portable fire extinguishment and control equipment shall be provided in such quantities and types as are needed for the special hazards of operation and storage.
 
 (ii) *Water supply.* Water shall be available in volume and at adequate pressure to supply water hose streams, foam-producing equipment, automatic sprinklers, or water spray systems as the need is indicated by the special hazards of operation, dispensing and storage.
 
@@ -635,11 +622,11 @@ Table H-13 - Storage in Inside Rooms
 
 (v) *Maintenance.* All plant fire protection facilities shall be adequately maintained and periodically inspected and tested to make sure they are always in satisfactory operating condition, and they will serve their purpose in time of emergency.
 
-(6) *Sources of ignition* - (i) *General.* Adequate precautions shall be taken to prevent the ignition of flammable vapors. Sources of ignition include but are not limited to open flames; lightning; smoking; cutting and welding; hot surfaces; frictional heat; static, electrical, and mechanical sparks; spontaneous ignition, including heat-producing chemical reactions; and radiant heat.
+(6) *Sources of ignition*—(i) *General.* Adequate precautions shall be taken to prevent the ignition of flammable vapors. Sources of ignition include but are not limited to open flames; lightning; smoking; cutting and welding; hot surfaces; frictional heat; static, electrical, and mechanical sparks; spontaneous ignition, including heat-producing chemical reactions; and radiant heat.
 
 (ii) *Grounding.* Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall not be dispensed into containers unless the nozzle and container are electrically interconnected. Where the metallic floorplate on which the container stands while filling is electrically connected to the fill stem or where the fill stem is bonded to the container during filling operations by means of a bond wire, the provisions of this section shall be deemed to have been complied with.
 
-(7) *Electrical* - (i) *Equipment.* (*a*) All electrical wiring and equipment shall be installed according to the requirements of subpart S of this part.
+(7) *Electrical*—(i) *Equipment.* (*a*) All electrical wiring and equipment shall be installed according to the requirements of subpart S of this part.
 
 (*b*) Locations where flammable vapor-air mixtures may exist under normal operations shall be classified Class I, Division 1 according to the requirements of subpart S of this part. For those pieces of equipment installed in accordance with subparagraph (3)(v)(*b*) of this paragraph, the Division 1 area shall extend 5 feet in all directions from all points of vapor liberation. All areas within pits shall be classified Division 1 if any part of the pit is within a Division 1 or 2 classified area, unless the pit is provided with mechanical ventilation.
 
@@ -649,7 +636,7 @@ Table H-13 - Storage in Inside Rooms
 
 (8) *Repairs to equipment.* Hot work, such as welding or cutting operations, use of spark-producing power tools, and chipping operations shall be permitted only under supervision of an individual in responsible charge. The individual in responsible charge shall make an inspection of the area to be sure that it is safe for the work to be done and that safe procedures will be followed for the work specified.
 
-(9) *Housekeeping* - (i) *General.* Maintenance and operating practices shall be in accordance with established procedures which will tend to control leakage and prevent the accidental escape of flammable liquids. Spills shall be cleaned up promptly.
+(9) *Housekeeping*—(i) *General.* Maintenance and operating practices shall be in accordance with established procedures which will tend to control leakage and prevent the accidental escape of flammable liquids. Spills shall be cleaned up promptly.
 
 (ii) *Access.* Adequate aisles shall be maintained for unobstructed movement of personnel and so that fire protection equipment can be brought to bear on any part of flammable liquid storage, use, or any unit physical operation.
 
@@ -657,13 +644,13 @@ Table H-13 - Storage in Inside Rooms
 
 (iv) *Clear zone.* Ground area around buildings and unit operating areas shall be kept free of weeds, trash, or other unnecessary combustible materials.
 
-(f) *Bulk plants* - (1)(i) *Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C).* Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be stored in closed containers, or in storage tanks above ground outside of buildings, or underground in accordance with paragraph (b) of this section.
+(f) *Bulk plants*—(1)(i) *Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C).* Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be stored in closed containers, or in storage tanks above ground outside of buildings, or underground in accordance with paragraph (b) of this section.
 
 (ii) *Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids.* Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids shall be stored in containers, or in tanks within buildings or above ground outside of buildings, or underground in accordance with paragraph (b) of this section.
 
 (iii) *Piling containers.* Containers of flammable liquids when piled one upon the other shall be separated by dunnage sufficient to provide stability and to prevent excessive stress on container walls. The height of the pile shall be consistent with the stability and strength of containers.
 
-(2) *Buildings* - (i) *Exits.* Rooms in which flammable liquids are stored or handled by pumps shall have exit facilities arranged to prevent occupants from being trapped in the event of fire.
+(2) *Buildings*—(i) *Exits.* Rooms in which flammable liquids are stored or handled by pumps shall have exit facilities arranged to prevent occupants from being trapped in the event of fire.
 
 (ii) *Heating.* Rooms in which Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), are stored or handled shall be heated only by means not constituting a source of ignition, such as steam or hot water. Rooms containing heating appliances involving sources of ignition shall be located and arranged to prevent entry of flammable vapors.
 
@@ -673,7 +660,7 @@ Table H-13 - Storage in Inside Rooms
 
 (*c*) Containers of Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall not be drawn from or filled within buildings unless provision is made to prevent the accumulation of flammable vapors in hazardous concentrations. Where mechanical ventilation is required, it shall be kept in operation while flammable liquids with a flashpoint below 100 °F (37.8 °C) are being handled.
 
-(3) *Loading and unloading facilities* - (i) *Separation.* Tank vehicle and tank car loading or unloading facilities shall be separated from aboveground tanks, warehouses, other plant buildings or nearest line of adjoining property that may be built upon by a distance of 25 feet for Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), and 15 feet for Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids measured from the nearest position of any fill spout. Buildings for pumps or shelters for personnel may be a part of the facility.
+(3) *Loading and unloading facilities*— (i) *Separation.* Tank vehicle and tank car loading or unloading facilities shall be separated from aboveground tanks, warehouses, other plant buildings or nearest line of adjoining property that may be built upon by a distance of 25 feet for Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), and 15 feet for Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids measured from the nearest position of any fill spout. Buildings for pumps or shelters for personnel may be a part of the facility.
 
 (ii) *Category restriction.* Equipment such as piping, pumps, and meters used for the transfer of Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), between storage tanks and the fill stem of the loading rack shall not be used for the transfer of Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids.
 
@@ -703,7 +690,7 @@ Table H-13 - Storage in Inside Rooms
 
 (vi) *Container filling facilities.* Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall not be dispensed into containers unless the nozzle and container are electrically interconnected. Where the metallic floorplate on which the container stands while filling is electrically connected to the fill stem or where the fill stem is bonded to the container during filling operations by means of a bond wire, the provisions of this section shall be deemed to have been complied with.
 
-(4) *Wharves* - (i) *Definition, application.* The term wharf shall mean any wharf, pier, bulkhead, or other structure over or contiguous to navigable water used in conjunction with a bulk plant, the primary function of which is the transfer of flammable liquid cargo in bulk between the bulk plant and any tank vessel, ship, barge, lighter boat, or other mobile floating craft; and this subparagraph shall apply to all such installations except Marine Service Stations as covered in paragraph (g) of this section.
+(4) *Wharves*—(i) *Definition, application.* The term wharf shall mean any wharf, pier, bulkhead, or other structure over or contiguous to navigable water used in conjunction with a bulk plant, the primary function of which is the transfer of flammable liquid cargo in bulk between the bulk plant and any tank vessel, ship, barge, lighter boat, or other mobile floating craft; and this subparagraph shall apply to all such installations except Marine Service Stations as covered in paragraph (g) of this section.
 
 (ii)-(iii) [Reserved]
 
@@ -745,7 +732,7 @@ Table H-13 - Storage in Inside Rooms
 
 (x) *Operations control.* Loading or discharging shall not commence until the wharf superintendent and officer in charge of the tank vessel agree that the tank vessel is properly moored and all connections are properly made. Mechanical work shall not be performed on the wharf during cargo transfer, except under special authorization based on a review of the area involved, methods to be employed, and precautions necessary.
 
-(5) *Electrical equipment* - (i) *Application.* This paragraph (f)(5)(i) shall apply to areas where Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), are stored or handled. For areas where only Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids are stored or handled, the electrical equipment may be installed in accordance with the provisions of Subpart S of this part, for ordinary locations.
+(5) *Electrical equipment*—(i) *Application.* This paragraph (f)(5)(i) shall apply to areas where Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), are stored or handled. For areas where only Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids are stored or handled, the electrical equipment may be installed in accordance with the provisions of Subpart S of this part, for ordinary locations.
 
 (ii) *Conformance.* All electrical equipment and wiring shall be of a type specified by and shall be installed in accordance with subpart S of this part.
 
@@ -757,7 +744,7 @@ Table H-13 - Storage in Inside Rooms
 
 (8) *Fire control.* Suitable fire-control devices, such as small hose or portable fire extinguishers, shall be available to locations where fires are likely to occur. Additional fire-control equipment may be required where a tank of more than 50,000 gallons individual capacity contains Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), and where an unusual exposure hazard exists from surrounding property. Such additional fire-control equipment shall be sufficient to extinguish a fire in the largest tank. The design and amount of such equipment shall be in accordance with approved engineering standards.
 
-(g) *Service stations* - (1) *Storage and handling* - (i) *General provisions.* (*a*) Liquids shall be stored in approved closed containers not exceeding 60 gallons capacity, in tanks located underground, in tanks in special enclosures as described in paragraph (g)(i) of this section, or in aboveground tanks as provided for in paragraphs (g)(4)(ii), (*b*), (*c*) and (*d*) of this section.
+(g) *Service stations*—(1) *Storage and handling*—(i) *General provisions.* (*a*) Liquids shall be stored in approved closed containers not exceeding 60 gallons capacity, in tanks located underground, in tanks in special enclosures as described in paragraph (g)(i) of this section, or in aboveground tanks as provided for in paragraphs (g)(4)(ii), (*b*), (*c*) and (*d*) of this section.
 
 (*b*) Aboveground tanks, located in an adjoining bulk plant, may be connected by piping to service station underground tanks if, in addition to valves at aboveground tanks, a valve is also installed within control of service station personnel.
 
@@ -781,46 +768,42 @@ Table H-13 - Storage in Inside Rooms
 
 (*g*) [Reserved]
 
-Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
-
-|                                       Location                                        |Class I Group D division|                                                                                                Extent of classified area                                                                                                |
-|---------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|                        Tank vehicle and tank car:<sup>1</sup>                         |                        |                                                                                                                                                                                                                         |
-|                               Loading through open dome                               |           1            |                                                                               Within 3 feet of edge of dome, extending in all directions.                                                                               |
-|                                                                                       |           2            |                                                                     Area between 3 feet and 5 feet from edge of dome, extending in all directions.                                                                      |
-|              Loading through bottom connections with atmospheric venting              |           1            |                                                                      Within 3 feet of point of venting to atmosphere extending in all directions.                                                                       |
-|                                                                                       |           2            |        Area between 3 feet and 5 feet from point of venting to atmosphere, extending in all directions. Also up to 18 inches above grade within a horizontal radius of 10 feet from point of loading connection.        |
-|                 Loading through closed dome with atmospheric venting                  |       1  <br/>2        |Within 3 feet of open end of vent, extending in all directions.  <br/>Area between 3 feet and 5 feet from open end of vent, extending in all directions. Also within 3 feet of edge of dome, extending in all directions.|
-|                    Loading through closed dome with vapor recovery                    |           2            |                                                             Within 3 feet of point of connection of both fill and vapor lines, extending in all directions.                                                             |
-|              Bottom loading with vapor recovery or any bottom unloading               |           2            |                          Within 3 feet of point of connections extending in all directions. Also up to 18 inches above grade with in a horizontal radius of 10 feet from point of connection.                           |
-|                              Drum and container filling:                              |                        |                                                                                                                                                                                                                         |
-|                    Outdoors, or indoors with adequate ventilation                     |           1            |                                                                          Within 3 feet of vent and fill opening, extending in all directions.                                                                           |
-|                                                                                       |           2            |         Area between 3 feet and 5 feet from vent or fill opening, extending in all directions. Also up to 18 inches above floor or grade level within a horizontal radius of 10 feet from vent or fill opening.         |
-|                    Outdoors, or indoors with adequate ventilation                     |           1            |                                                                          Within 3 feet of vent and fill opening, extending in all directions.                                                                           |
-|                                                                                       |           2            |         Area between 3 feet and 5 feet from vent or fill opening, extending in all directions. Also up to 18 inches above floor or grade level within a horizontal radius of 10 feet from vent or fill opening.         |
-|                                  Tank - Aboveground:                                  |                        |                                                                                                                                                                                                                         |
-|                          Shell, ends, or roof and dike area                           |           2            |                                                              Within 10 feet from shell, ends, or roof of tank, Area inside dikes to level of top of dike.                                                               |
-|                                         Vent                                          |           1            |                                                                             Within 5 feet of open end of vent, extending in all directions.                                                                             |
-|                                                                                       |           2            |                                                                   Area between 5 feet and 10 feet from open end of vent, extending in all directions.                                                                   |
-|                                     Floating roof                                     |           1            |                                                                                        Area above the roof and within the shell.                                                                                        |
-|                                         Pits:                                         |                        |                                                                                                                                                                                                                         |
-|                            Without mechanical ventilation                             |           1            |                                                                     Entire area within pit if any part is within a Division 1 or 2 classified area.                                                                     |
-|                              With mechanical ventilation                              |           2            |                                                                     Entire area within pit if any part is within a Division 1 or 2 classified area.                                                                     |
-|Containing valves, fittings or piping, and not within a Division 1 or 2 classified area|           2            |                                                                                                       Entire pit.                                                                                                       |
-|           Pumps, bleeders, withdrawal fittings, meters and similar devices:           |                        |                                                                                                                                                                                                                         |
-|                                        Indoors                                        |           2            |                     Within 5 feet of any edge of such devices, extending in all directions. Also up to 3 feet above floor or grade level within 25 feet horizontally from any edge of such devices.                     |
-|                                       Outdoors                                        |           2            |                        Within 3 feet of any edge of such devices, extending in all directions. Also up to 18 inches above grade level within 10 feet horizontally from any edge of such devices.                        |
-|                      Storage and repair garage for tank vehicles                      |           1            |                                                                                          All pits or spaces below floor level.                                                                                          |
-|                                                                                       |           2            |                                                                  Area up to 18 inches above floor or grade level for entire storage or repair garage.                                                                   |
-|                    Drainage ditches, separators, impounding basins                    |           2            |                                            Area up to 18 inches above ditch, separator or basin. Also up to 18 inches above grade within 15 feet horizontally from any edge.                                            |
-|                         Garages for other than tank vehicles                          |    (<sup>2</sup> )     |              If there is any opening to these rooms within the extent of an outdoor classified area, the entire room shall be classified the same as the area classification at the point of the opening.               |
-|                                 Outdoor drum storage                                  |    (<sup>2</sup> )     |                                                                                                                                                                                                                         |
-|            Indoor warehousing where there is no flammable liquid transfer             |    (<sup>2</sup> )     |                      If there is any opening to these rooms within the extent of an indoor classified are, the room shall be classified the same as if the wall, curb or partition did not exist.                       |
-|                                 Office and rest rooms                                 |    (<sup>2</sup> )     |                                                                                                                                                                                                                         |
-
-<sup>1</sup> When classifying the extent of the area, consideration shall be given to the fact that tank cars or tank vehicles may be spotted at varying points. Therefore, the extremities of the loading or unloading positions shall be used.
-
-<sup>2</sup> Ordinary.
+|                                                                                                                    Location                                                                                                                    |Class I Group D division|                                                                                                Extent of classified area                                                                                                |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|                                                                                                    Tank vehicle and tank car: <sup>1</sup>                                                                                                     |                        |                                                                                                                                                                                                                         |
+|                                                                                                           Loading through open dome                                                                                                            |           1            |                                                                               Within 3 feet of edge of dome, extending in all directions.                                                                               |
+|                                                                                                                                                                                                                                                |           2            |                                                                     Area between 3 feet and 5 feet from edge of dome, extending in all directions.                                                                      |
+|                                                                                          Loading through bottom connections with atmospheric venting                                                                                           |           1            |                                                                      Within 3 feet of point of venting to atmosphere extending in all directions.                                                                       |
+|                                                                                                                                                                                                                                                |           2            |        Area between 3 feet and 5 feet from point of venting to atmosphere, extending in all directions. Also up to 18 inches above grade within a horizontal radius of 10 feet from point of loading connection.        |
+|                                                                                              Loading through closed dome with atmospheric venting                                                                                              |       1  <br/>2        |Within 3 feet of open end of vent, extending in all directions.  <br/>Area between 3 feet and 5 feet from open end of vent, extending in all directions. Also within 3 feet of edge of dome, extending in all directions.|
+|                                                                                                Loading through closed dome with vapor recovery                                                                                                 |           2            |                                                             Within 3 feet of point of connection of both fill and vapor lines, extending in all directions.                                                             |
+|                                                                                           Bottom loading with vapor recovery or any bottom unloading                                                                                           |           2            |                          Within 3 feet of point of connections extending in all directions. Also up to 18 inches above grade with in a horizontal radius of 10 feet from point of connection.                           |
+|                                                                                                          Drum and container filling:                                                                                                           |                        |                                                                                                                                                                                                                         |
+|                                                                                                 Outdoors, or indoors with adequate ventilation                                                                                                 |           1            |                                                                          Within 3 feet of vent and fill opening, extending in all directions.                                                                           |
+|                                                                                                                                                                                                                                                |           2            |         Area between 3 feet and 5 feet from vent or fill opening, extending in all directions. Also up to 18 inches above floor or grade level within a horizontal radius of 10 feet from vent or fill opening.         |
+|                                                                                                 Outdoors, or indoors with adequate ventilation                                                                                                 |           1            |                                                                          Within 3 feet of vent and fill opening, extending in all directions.                                                                           |
+|                                                                                                                                                                                                                                                |           2            |         Area between 3 feet and 5 feet from vent or fill opening, extending in all directions. Also up to 18 inches above floor or grade level within a horizontal radius of 10 feet from vent or fill opening.         |
+|                                                                                                               Tank—Aboveground:                                                                                                                |                        |                                                                                                                                                                                                                         |
+|                                                                                                       Shell, ends, or roof and dike area                                                                                                       |           2            |                                                              Within 10 feet from shell, ends, or roof of tank, Area inside dikes to level of top of dike.                                                               |
+|                                                                                                                      Vent                                                                                                                      |           1            |                                                                             Within 5 feet of open end of vent, extending in all directions.                                                                             |
+|                                                                                                                                                                                                                                                |           2            |                                                                   Area between 5 feet and 10 feet from open end of vent, extending in all directions.                                                                   |
+|                                                                                                                 Floating roof                                                                                                                  |           1            |                                                                                        Area above the roof and within the shell.                                                                                        |
+|                                                                                                                     Pits:                                                                                                                      |                        |                                                                                                                                                                                                                         |
+|                                                                                                         Without mechanical ventilation                                                                                                         |           1            |                                                                     Entire area within pit if any part is within a Division 1 or 2 classified area.                                                                     |
+|                                                                                                          With mechanical ventilation                                                                                                           |           2            |                                                                     Entire area within pit if any part is within a Division 1 or 2 classified area.                                                                     |
+|                                                                            Containing valves, fittings or piping, and not within a Division 1 or 2 classified area                                                                             |           2            |                                                                                                       Entire pit.                                                                                                       |
+|                                                                                       Pumps, bleeders, withdrawal fittings, meters and similar devices:                                                                                        |                        |                                                                                                                                                                                                                         |
+|                                                                                                                    Indoors                                                                                                                     |           2            |                     Within 5 feet of any edge of such devices, extending in all directions. Also up to 3 feet above floor or grade level within 25 feet horizontally from any edge of such devices.                     |
+|                                                                                                                    Outdoors                                                                                                                    |           2            |                        Within 3 feet of any edge of such devices, extending in all directions. Also up to 18 inches above grade level within 10 feet horizontally from any edge of such devices.                        |
+|                                                                                                  Storage and repair garage for tank vehicles                                                                                                   |           1            |                                                                                          All pits or spaces below floor level.                                                                                          |
+|                                                                                                                                                                                                                                                |           2            |                                                                  Area up to 18 inches above floor or grade level for entire storage or repair garage.                                                                   |
+|                                                                                                Drainage ditches, separators, impounding basins                                                                                                 |           2            |                                            Area up to 18 inches above ditch, separator or basin. Also up to 18 inches above grade within 15 feet horizontally from any edge.                                            |
+|                                                                                                      Garages for other than tank vehicles                                                                                                      |    (<sup>2</sup> )     |              If there is any opening to these rooms within the extent of an outdoor classified area, the entire room shall be classified the same as the area classification at the point of the opening.               |
+|                                                                                                              Outdoor drum storage                                                                                                              |    (<sup>2</sup> )     |                                                                                                                                                                                                                         |
+|                                                                                         Indoor warehousing where there is no flammable liquid transfer                                                                                         |    (<sup>2</sup> )     |                      If there is any opening to these rooms within the extent of an indoor classified are, the room shall be classified the same as if the wall, curb or partition did not exist.                       |
+|                                                                                                             Office and rest rooms                                                                                                              |    (<sup>2</sup> )     |                                                                                                                                                                                                                         |
+|<sup>1</sup> When classifying the extent of the area, consideration shall be given to the fact that tank cars or tank vehicles may be spotted at varying points. Therefore, the extremities of the loading or unloading positions shall be used.|                        |                                                                                                                                                                                                                         |
+|                                                                                                             <sup>2</sup> Ordinary.                                                                                                             |                        |                                                                                                                                                                                                                         |
 
 (ii) *Special enclosures.* (*a*) When installation of tanks in accordance with paragraph (b)(3) of this section is impractical because of property or building limitations, tanks for flammable liquids may be installed in buildings if properly enclosed.
 
@@ -838,7 +821,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (2) [Reserved]
 
-(3) *Dispensing systems* - (i) *Location.* Dispensing devices at automotive service stations shall be so located that all parts of the vehicle being served will be on the premises of the service station.
+(3) *Dispensing systems*—(i) *Location.* Dispensing devices at automotive service stations shall be so located that all parts of the vehicle being served will be on the premises of the service station.
 
 (ii) *Inside location.* Approved dispensing units may be located inside of buildings. The dispensing area shall be separated from other areas in an approved manner. The dispensing unit and its piping shall be mounted either on a concrete island or protected against collision damage by suitable means and shall be located in a position where it cannot be struck by a vehicle descending a ramp or other slope out of control. The dispensing area shall be provided with an approved mechanical or gravity ventilation system. When dispensing units are located below grade, only approved mechanical ventilation shall be used and the entire dispensing area shall be protected by an approved automatic sprinkler system. Ventilating systems shall be electrically interlocked with gasoline dispensing units so that the dispensing units cannot be operated unless the ventilating fan motors are energized.
 
@@ -870,7 +853,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (*b*) Manual-closing type valves shall be held open manually during dispensing. Automatic-closing type valves may be used in conjunction with an approved latch-open device.
 
-(4) *Marine service stations* - (i) *Dispensing.* (*a*) The dispensing area shall be located away from other structures so as to provide room for safe ingress and egress of craft to be fueled. Dispensing units shall in all cases be at least 20 feet from any activity involving fixed sources of ignition.
+(4) *Marine service stations*—(i) *Dispensing.* (*a*) The dispensing area shall be located away from other structures so as to provide room for safe ingress and egress of craft to be fueled. Dispensing units shall in all cases be at least 20 feet from any activity involving fixed sources of ignition.
 
 (*b*) Dispensing shall be by approved dispensing units with or without integral pumps and may be located on open piers, wharves, or floating docks or on shore or on piers of the solid fill type.
 
@@ -894,7 +877,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (*d*) Piping handling Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall be grounded to control stray currents.
 
-(5) *Electrical equipment* - (i) *Application.* This paragraph (g)(5) shall apply to areas where Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), are stored or handled. For areas where Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids are stored or handled the electrical equipment may be installed in accordance with the provisions of subpart S of this part, for ordinary locations.
+(5) *Electrical equipment*—(i) *Application.* This paragraph (g)(5) shall apply to areas where Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), are stored or handled. For areas where Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids are stored or handled the electrical equipment may be installed in accordance with the provisions of subpart S of this part, for ordinary locations.
 
 (ii) All electrical equipment and wiring shall be of a type specified by and shall be installed in accordance with subpart S of this part.
 
@@ -902,7 +885,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (iv) The area classifications listed shall be based on the assumption that the installation meets the applicable requirements of this section in all respects.
 
-(6) *Heating equipment* - (i) *Conformance.* Heating equipment shall be installed as provided in paragraphs (g)(6) (ii) through (v) of this section.
+(6) *Heating equipment*—(i) *Conformance.* Heating equipment shall be installed as provided in paragraphs (g)(6) (ii) through (v) of this section.
 
 (ii) *Application.* Heating equipment may be installed in the conventional manner in an area except as provided in paragraph (g)(6) (iii), (iv), or (v) of this section.
 
@@ -918,13 +901,13 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (9) *Fire control.* Each service station shall be provided with at least one fire extinguisher having a minimum approved classification of 6 B, C, located so that an extinguisher, will be within 75 feet of each pump, dispenser, underground fill pipe opening, and lubrication or service room.
 
-(h) *Processing plants* - (1) *Scope.* This paragraph shall apply to those plants or buildings which contain chemical operations such as oxidation, reduction, halogenation, hydrogenation, alkylation, polymerization, and other chemical processes but shall not apply to chemical plants, refineries or distilleries.
+(h) *Processing plants*—(1) *Scope.* This paragraph shall apply to those plants or buildings which contain chemical operations such as oxidation, reduction, halogenation, hydrogenation, alkylation, polymerization, and other chemical processes but shall not apply to chemical plants, refineries or distilleries.
 
-(2) *Location* - (i) *Classification.* The location of each processing vessel shall be based upon its flammable liquid capacity.
+(2) *Location*—(i) *Classification.* The location of each processing vessel shall be based upon its flammable liquid capacity.
 
 (ii) [Reserved]
 
-(3) *Processing building* - (i) *Construction.* (*a*) Processing buildings shall be of fire-resistance or noncombustible construction, except heavy timber construction with load-bearing walls may be permitted for plants utilizing only stable Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids. Except as provided in paragraph (h)(2)(ii) of this section or in the case of explosion resistant walls used in conjunction with explosion relieving facilities, see paragraph (h)(3)(iv) of this section, load-bearing walls are prohibited. Buildings shall be without basements or covered pits.
+(3) *Processing building*—(i) *Construction.* (*a*) Processing buildings shall be of fire-resistance or noncombustible construction, except heavy timber construction with load-bearing walls may be permitted for plants utilizing only stable Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) or Category 4 flammable liquids. Except as provided in paragraph (h)(2)(ii) of this section or in the case of explosion resistant walls used in conjunction with explosion relieving facilities, see paragraph (h)(3)(iv) of this section, load-bearing walls are prohibited. Buildings shall be without basements or covered pits.
 
 (*b*) Areas shall have adequate exit facilities arranged to prevent occupants from being trapped in the event of fire. Exits shall not be exposed by the drainage facilities described in paragraph (h)(ii) of this section.
 
@@ -946,7 +929,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (*d*) Windows of explosion venting type.
 
-(4) *Liquid handling* - (i) *Storage.* (*a*) The storage of flammable liquids in tanks shall be in accordance with the applicable provisions of paragraph (b) of this section.
+(4) *Liquid handling*—(i) *Storage.* (*a*) The storage of flammable liquids in tanks shall be in accordance with the applicable provisions of paragraph (b) of this section.
 
 (*b*) If the storage of flammable liquids in outside aboveground or underground tanks is not practical because of temperature or production considerations, tanks may be permitted inside of buildings or structures in accordance with the applicable provisions of paragraph (b) of this section.
 
@@ -970,7 +953,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (5) *Tank vehicle and tank car loading and unloading.* Tank vehicle and tank car loading or unloading facilities shall be separated from aboveground tanks, warehouses, other plant buildings, or nearest line of adjoining property which may be built upon by a distance of 25 feet for Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), and 15 feet for Category 3 flammable liquids with a flashpoint at or above 100 °F (37.8 °C) and Category 4 flammable liquids measured from the nearest position of any fill stem. Buildings for pumps or shelters for personnel may be a part of the facility. Operations of the facility shall comply with the appropriate portions of paragraph (f)(3) of this section.
 
-(6) *Fire control* - (i) *Portable extinguishers.* Approved portable fire extinguishers of appropriate size, type, and number shall be provided.
+(6) *Fire control*—(i) *Portable extinguishers.* Approved portable fire extinguishers of appropriate size, type, and number shall be provided.
 
 (ii) *Other controls.* Where the special hazards of operation or exposure indicate a need, the following fire control provision shall be provided.
 
@@ -986,7 +969,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (iv) *Maintenance.* All plant fire protection facilities shall be adequately maintained and periodically inspected and tested to make sure they are always in satisfactory operating condition and that they will serve their purpose in time of emergency.
 
-(7) *Sources of ignition* - (i) *General.* (*a*) Precautions shall be taken to prevent the ignition of flammable vapors. Sources of ignition include but are not limited to open flames; lightning; smoking; cutting and welding; hot surfaces; frictional heat; static, electrical, and mechanical sparks; spontaneous ignition, including heat-producing chemical reactions; and radiant heat.
+(7) *Sources of ignition*—(i) *General.* (*a*) Precautions shall be taken to prevent the ignition of flammable vapors. Sources of ignition include but are not limited to open flames; lightning; smoking; cutting and welding; hot surfaces; frictional heat; static, electrical, and mechanical sparks; spontaneous ignition, including heat-producing chemical reactions; and radiant heat.
 
 (*b*) Category 1 or 2 flammable liquids, or Category 3 flammable liquids with a flashpoint below 100 °F (37.8 °C), shall not be dispensed into containers unless the nozzle and container are electrically interconnected. Where the metallic floorplate on which the container stands while filling is electrically connected to the fill stem or where the fill stem is bonded to the container during filling operations by means of a bond wire, the provisions of this section shall be deemed to have been complied with.
 
@@ -1002,7 +985,7 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (*d*) Where the provisions of paragraphs (h)(7)(iii) (*a*), (*b*), and (*c*) of this section require the installation of explosion-proof equipment, ordinary electrical equipment including switchgear may be used if installed in a room or enclosure which is maintained under positive pressure with respect to the hazardous area. Ventilation makeup air shall be uncontaminated by flammable vapors.
 
-(8) *Housekeeping* - (i) *General.* Maintenance and operating practices shall be in accordance with established procedures which will tend to control leakage and prevent the accidental escape of flammable liquids. Spills shall be cleaned up promptly.
+(8) *Housekeeping*—(i) *General.* Maintenance and operating practices shall be in accordance with established procedures which will tend to control leakage and prevent the accidental escape of flammable liquids. Spills shall be cleaned up promptly.
 
 (ii) *Access.* Adequate aisles shall be maintained for unobstructed movement of personnel and so that fire protection equipment can be brought to bear on any part of the processing equipment.
 
@@ -1010,17 +993,17 @@ Table H-18 - Electrical Equipment Hazardous Areas - Bulk Plants
 
 (iv) *Clear zone.* Ground area around buildings and operating areas shall be kept free of tall grass, weeds, trash, or other combustible materials.
 
-(i) *Refineries, chemical plants, and distilleries* - (1) *Storage tanks.* Flammable liquids shall be stored in tanks, in containers, or in portable tanks. Tanks shall be installed in accordance with paragraph (b) of this section. Tanks for the storage of flammable liquids in tank farms and in locations other than process areas shall be located in accordance with paragraph (b)(2) (i) and (ii) of this section.
+(i) *Refineries, chemical plants, and distilleries*—(1) *Storage tanks.* Flammable liquids shall be stored in tanks, in containers, or in portable tanks. Tanks shall be installed in accordance with paragraph (b) of this section. Tanks for the storage of flammable liquids in tank farms and in locations other than process areas shall be located in accordance with paragraph (b)(2) (i) and (ii) of this section.
 
 (2) *Wharves.* Wharves handling flammable liquids shall be in accordance with paragraph (f)(4) of this section.
 
-(3) *Fired and unfired pressure vessels* - (i) *Fired vessels.* Fired pressure vessels shall be constructed in accordance with the Code for Fired Pressure Vessels, Section I of the ASME Boiler and Pressure Vessel Code - 1968.
+(3) *Fired and unfired pressure vessels*—(i) *Fired vessels.* Fired pressure vessels shall be constructed in accordance with the Code for Fired Pressure Vessels, Section I of the ASME Boiler and Pressure Vessel Code—1968.
 
-(ii) Unfired vessels shall be constructed in accordance with the Code for Unfired Pressure Vessels, Section VIII of the ASME Boiler and Pressure Vessel Code - 1968.
+(ii) Unfired vessels shall be constructed in accordance with the Code for Unfired Pressure Vessels, Section VIII of the ASME Boiler and Pressure Vessel Code—1968.
 
 (4) *Location of process units.* Process units shall be located so that they are accessible from at least one side for the purpose of fire control.
 
-(5) *Fire control* - (i) *Portable equipment.* Portable fire extinguishment and control equipment shall be provided in such quantities and types as are needed for the special hazards of operation and storage.
+(5) *Fire control*—(i) *Portable equipment.* Portable fire extinguishment and control equipment shall be provided in such quantities and types as are needed for the special hazards of operation and storage.
 
 (ii) *Water supply.* Water shall be available in volume and at adequate pressure to supply water hose streams, foam producing equipment, automatic sprinklers, or water spray systems as the need is indicated by the special hazards of operation and storage.
 

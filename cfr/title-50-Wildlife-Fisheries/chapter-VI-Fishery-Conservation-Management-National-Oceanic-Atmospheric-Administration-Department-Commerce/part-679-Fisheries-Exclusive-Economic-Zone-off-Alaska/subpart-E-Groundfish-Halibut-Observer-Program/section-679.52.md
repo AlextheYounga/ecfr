@@ -1,5 +1,7 @@
 ##### § 679.52 Observer provider permitting and responsibilities. #####
 
+Link to an amendment published at 83 FR 30533, June 29, 2018.
+
 (a) *Observer provider permit* - (1) *Permit.* The Regional Administrator may issue a permit authorizing a person's participation as an observer provider for operations requiring full observer coverage per § 679.51(a)(2) and (b)(2). Persons seeking to provide observer services under this section must obtain an observer provider permit from NMFS.
 
 (2) *New observer provider.* An applicant seeking an observer provider permit must submit a completed application by fax or mail to the Observer Program Office at the address listed at § 679.51(c)(3).

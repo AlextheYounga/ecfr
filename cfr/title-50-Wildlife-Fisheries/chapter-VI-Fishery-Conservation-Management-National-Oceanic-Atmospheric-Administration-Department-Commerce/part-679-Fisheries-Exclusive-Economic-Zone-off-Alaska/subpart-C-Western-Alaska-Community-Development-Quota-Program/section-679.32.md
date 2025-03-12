@@ -1,5 +1,7 @@
 ##### § 679.32 Groundfish and halibut CDQ catch monitoring. #####
 
+Link to an amendment published at 83 FR 30532, June 29, 2018.
+
 (a) *Applicability.* This section contains requirements for CDQ groups, vessel operators, and managers of processors that harvest or process fixed gear sablefish CDQ, pollock CDQ, or groundfish CDQ. Regulations governing the catch accounting of halibut CDQ are at § 679.40(h).
 
 (b) *PSQ catch.* Time and area closures required once a CDQ group has reached its salmon PSQ or crab PSQ are listed in § 679.7(d)(5). The catch of salmon or crab by vessels using other than trawl gear does not accrue to the PSQ for these species. The discard of halibut by vessels using pot gear, jig gear, or hook-and-line gear to harvest sablefish CDQ will not accrue to the halibut PSQ if this bycatch has been exempted from the halibut PSC limit in the annual BSAI specifications published in the Federal Register.

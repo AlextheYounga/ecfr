@@ -1,0 +1,3 @@
+##### § 650.3 Applicability. #####
+
+This part applies to any recipient subject to 49 U.S.C. chapter 53 that funds a public transportation capital project with Federal financial assistance under 49 U.S.C. chapter 53, the Transportation Infrastructure Finance and Innovation Act (TIFIA) (23 U.S.C. 181-189, 601-609), the Railroad Rehabilitation and Improvement Financing (RRIF) program (45 U.S.C. 821-823), or with any other Federal financial assistance.
