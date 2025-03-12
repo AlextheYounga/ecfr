@@ -1,6 +1,6 @@
 ##### § 401.405 Pilotage rates and charges. #####
 
-Link to an amendment published at 82 FR 41495, Aug. 31, 2017.
+Link to an amendment published at 82 FR 41495, Aug. 31, 2017.Link to a correction published at 82 FR 43864, Sept. 20, 2017.
 
 (a) The hourly rate for pilotage service on -
 

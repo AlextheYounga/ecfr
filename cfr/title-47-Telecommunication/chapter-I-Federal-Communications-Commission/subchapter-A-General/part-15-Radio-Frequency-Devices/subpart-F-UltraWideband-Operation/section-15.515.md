@@ -1,5 +1,7 @@
 ##### § 15.515 Technical requirements for vehicular radar systems. #####
 
+Link to an amendment published at 82 FR 43870, September 20, 2017.
+
 (a) Operation under the provisions of this section is limited to UWB field disturbance sensors mounted in terrestrial transportation vehicles. These devices shall operate only when the vehicle is operating, e.g., the engine is running. Operation shall occur only upon specific activation, such as upon starting the vehicle, changing gears, or engaging a turn signal.
 
 (b) The UWB bandwidth of a vehicular radar system operating under the provisions of this section shall be contained between 22 GHz and 29 GHz. In addition, the center frequency, fC, and the frequency at which the highest level emission occurs, fM, must be greater than 24.075 GHz.

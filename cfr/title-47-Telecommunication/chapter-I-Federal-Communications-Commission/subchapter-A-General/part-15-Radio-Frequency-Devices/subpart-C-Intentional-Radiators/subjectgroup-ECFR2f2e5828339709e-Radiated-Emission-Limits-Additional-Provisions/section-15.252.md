@@ -1,5 +1,7 @@
 ##### § 15.252 Operation of wideband vehicular radar systems within the bands 16.2-17.7 GHz and 23.12-29.0 GHz. #####
 
+Link to an amendment published at 82 FR 43870, September 20, 2017.
+
 (a) Operation under this section is limited to field disturbance sensors that are mounted in terrestrial transportation vehicles. Terrestrial use is limited to earth surface-based, non-aviation applications. Operation within the 16.2-17.7 GHz band is limited to field disturbance sensors that are used only for back-up assistance and that operate only when the vehicle is engaged in reverse.
 
 (1) The −10 dB bandwidth of the fundamental emission shall be located within the 16.2-17.7 GHz band or within the 23.12-29.0 GHz band, exclusive of the 23.6-24.0 GHz restricted band, as appropriate, under all conditions of operation including the effects from stepped frequency, frequency hopping or other modulation techniques that may be employed as well as the frequency stability of the transmitter over expected variations in temperature and supply voltage.

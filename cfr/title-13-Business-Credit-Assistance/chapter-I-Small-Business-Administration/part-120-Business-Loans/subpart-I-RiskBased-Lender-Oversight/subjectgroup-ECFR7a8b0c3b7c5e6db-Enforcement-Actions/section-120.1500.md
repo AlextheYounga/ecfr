@@ -1,7 +1,5 @@
 ##### § 120.1500 Types of enforcement actions - SBA Lenders. #####
 
-Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
-
 Upon a determination that the grounds set forth in § 120.1400 exist, SBA may undertake, in SBA's discretion, one or more of the following enforcement actions for each of the types of SBA Lenders listed. SBA will take such action in accordance with procedures set forth in § 120.1600. If enforcement action is taken under this section and the SBA Lender fails to implement required corrective action in any material respect within the required timeframe in response to the enforcement action, SBA may take further enforcement action, as authorized by law. SBA's decision to take an enforcement action will not, by itself, invalidate a guaranty previously provided by SBA.
 
 (a) *Enforcement actions for all SBA Lenders* - (1) *Imposition of portfolio guaranty dollar limit.* SBA may limit the maximum dollar amount that SBA will guarantee on the SBA Lender's SBA loans or debentures.
@@ -24,7 +22,7 @@ Upon a determination that the grounds set forth in § 120.1400 exist, SBA may un
 
 (2) *Remove Management Official.* SBA may issue an order to remove a Management Official from office. SBA may suspend a Management Official from office or prohibit a Management Official from participating in management of the SBA Supervised Lender or in reviewing, approving, closing, servicing, liquidating or litigating any 7(a) loan, or any other activities of the SBA Supervised Lender while the removal proceeding is pending in order to protect an SBA Supervised Lender or the interests of SBA or the United States.
 
-(3) *Initiate request for appointment of receiver.* The SBA may make application to a district court to take exclusive jurisdiction of an SBA Supervised Lender and appoint a trustee or receiver to hold or administer or liquidate the SBA Supervised Lender's assets under direction of the court. The receiver may take possession of the portfolio of 7(a) loans and sell such loans to a third party, and/or take possession of servicing activities of 7(a) loans and sell such servicing rights to a third party.
+(3) *Initiate request for appointment of receiver and/or other relief.* The SBA may make application to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of an SBA Supervised Lender, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate, and/or liquidate the SBA Supervised Lender; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's written consent, the receiver may take possession of the portfolio of 7(a) loans and sell such loans to a third party, and/or take possession of servicing activities of 7(a) loans and sell such servicing rights to a third party.
 
 (4) *Civil monetary penalties for report filing failure.* SBA may seek civil penalties, in accordance with § 120.465, of not more than $5,000 a day against an SBA Supervised Lender that fails to file any regular or special report by its due date as specified by regulation or SBA written directive.
 
@@ -50,4 +48,6 @@ Upon a determination that the grounds set forth in § 120.1400 exist, SBA may un
 
 (2) Instruct the Central Servicing Agent to withhold payment of servicing, late and/or other fee(s) to the CDC.
 
-[73 FR 75521, Dec. 11, 2008]
+(3) Apply to any Federal court of competent jurisdiction for the court to take exclusive jurisdiction, without notice, of the CDC, and SBA shall be entitled to the appointment of a receiver of SBA's choosing to hold, administer, operate and/or liquidate the CDC; and to such injunctive or other equitable relief as may be appropriate. Without limiting the foregoing and with SBA's consent, the receiver may take possession of the portfolio of 504 loans and/or pending 504 loan applications, including for the purpose of carrying out an enforcement order under paragraph (e)(1) of this section.
+
+[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017]

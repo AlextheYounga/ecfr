@@ -2,7 +2,7 @@
 
 (a) *General requirements.* The filer of EEI for export transactions is either the USPPI, or the U.S. authorized agent. All EEI submitted to the AES shall be complete, correct, and based on personal knowledge of the facts stated or on information furnished by the parties to the export transaction. The filer shall be physically located in the United States at the time of filing, have an EIN or DUNS and be certified to report in the AES. In the event that the filer does not have an EIN or DUNS, the filer must obtain an EIN from the Internal Revenue Service. The filer is responsible for the truth, accuracy, and completeness of the EEI, except insofar as that party can demonstrate that it reasonably relied on information furnished by other responsible persons participating in the transaction. All parties involved in export transactions, including U.S. authorized agents, should be aware that invoices and other commercial documents may not necessarily contain all the information needed to prepare the EEI. The parties shall ensure that all information needed for reporting to the AES, including correct export licensing information, is provided to the U.S. authorized agent for the purpose of correctly preparing the EEI.
 
-(b) *Parties to the export transaction* - (1) *Principal parties in interest.* Those persons in a transaction that receive the primary benefit, monetary or otherwise, are considered principal parties to the transaction. Generally, the principal parties in interest in a transaction are the seller and buyer. In most cases, the forwarding or other agent is not a principal party in interest.
+(b) *Parties to the export transaction*—(1) *Principal parties in interest.* Those persons in a transaction that receive the primary benefit, monetary or otherwise, are considered principal parties to the transaction. Generally, the principal parties in interest in a transaction are the seller and buyer. In most cases, the forwarding or other agent is not a principal party in interest.
 
 (2) *USPPI.* For purposes of filing EEI, the USPPI is the person or legal entity in the United States that receives the primary benefit, monetary or otherwise, from the transaction. Generally, that person or entity is the U.S. seller, manufacturer, order party, or foreign entity if in the United States at the time goods are purchased or obtained for export. The foreign entity shall be listed as the USPPI if it is in the United States when the items are purchased or obtained for export. The foreign entity shall then follow the provisions for filing the EEI specified in §§ 30.3 and 30.6 pertaining to the USPPI.
 
@@ -20,7 +20,7 @@
 
 (4) *Carrier.* A carrier is an individual or legal entity in the business of transporting passengers or goods. Airlines, trucking companies, railroad companies, shipping lines, and pipeline companies are all examples of carriers.
 
-(c) *General responsibilities of parties in export transactions* - (1) *USPPI responsibilities.* (i) The USPPI can prepare and file the EEI itself, or it can authorize an agent to prepare and file the EEI on its behalf. If the USPPI prepares the EEI itself, the USPPI is responsible for the accuracy and timely transmission of all the export information reported to the AES.
+(c) *General responsibilities of parties in export transactions*—(1) *USPPI responsibilities.* (i) The USPPI can prepare and file the EEI itself, or it can authorize an agent to prepare and file the EEI on its behalf. If the USPPI prepares the EEI itself, the USPPI is responsible for the accuracy and timely transmission of all the export information reported to the AES.
 
 (ii) When the USPPI authorizes an agent to file the EEI on its behalf, the USPPI is responsible for:
 
@@ -118,7 +118,7 @@ For items in paragraph (e) (1) (ix), (x),(xi) and (xii) of this section, where t
 
 (x) Port of export.
 
-(xi) Foreign port of unloading.
+(xi) Foreign port of unlading.
 
 (xii) Shipping weight.
 
@@ -138,4 +138,4 @@ Note to § 30.3:
 
 The EAR defines the “exporter” as the person in the United States who has the authority of a principal party in interest to determine and control the sending of items out of the United States (see 15 CFR 772 of the EAR). For statistical purposes “exporter” is not defined in the FTR. Instead, however, the USPPI is defined in the FTR.
 
-For purposes of licensing responsibility under the EAR, the U.S. agent of the FPPI may be the “exporter” or applicant on the license in certain routed export transactions (see 15 CFR 758.3 of the EAR). Therefore, due to the differences in export reporting requirements among Federal agencies, conformity of documentation is not required in the FTR.[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017]
+For purposes of licensing responsibility under the EAR, the U.S. agent of the FPPI may be the “exporter” or applicant on the license in certain routed export transactions (see 15 CFR 758.3 of the EAR). Therefore, due to the differences in export reporting requirements among Federal agencies, conformity of documentation is not required in the FTR.[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16375, Mar. 14, 2013; 82 FR 18389, Apr. 19, 2017; 82 FR 43843, Sept 20, 2017]

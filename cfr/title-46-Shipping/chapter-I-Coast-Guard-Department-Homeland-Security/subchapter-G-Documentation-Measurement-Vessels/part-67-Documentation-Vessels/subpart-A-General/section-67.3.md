@@ -4,9 +4,9 @@ The following definitions are for terms used in this part.
 
 *Acknowledgment* means:
 
-(a) An acknowledgment or notarization in any form which is in substantial compliance with the Uniform Acknowledgments Act, the Uniform Recognition of Acknowledgments Act, the Uniform Law on Notarial Acts, or the statutes of the State within which it is taken, made before a notary public or other official authorized by a law of a State or the United States to take acknowledgment of deeds;
+(1) An acknowledgment or notarization in any form which is in substantial compliance with the Uniform Acknowledgments Act, the Uniform Recognition of Acknowledgments Act, the Uniform Law on Notarial Acts, or the statutes of the State within which it is taken, made before a notary public or other official authorized by a law of a State or the United States to take acknowledgment of deeds;
 
-(b) An acknowledgment or notarization before a notary or other official authorized to take acknowledgments of deeds by the law of a foreign nation which is a party to the Hague Convention Abolishing the Requirement for Legalisation of Public Documents, 1961, provided that the acknowledgment or notarization is accompanied by the certificate described in Article 3 of that Convention; or
+(2) An acknowledgment or notarization before a notary or other official authorized to take acknowledgments of deeds by the law of a foreign nation which is a party to the Hague Convention Abolishing the Requirement of Legalisation for Foreign Public Documents, 1961, provided that the acknowledgment or notarization is accompanied by the certificate described in Article 4 of that Convention; or
 
 (c) Any attestation which is substantially in the following form:
 
@@ -18,7 +18,7 @@ Notary PublicMy commission expires: [date]
 
 *Captured vessel* means a vessel which has been taken by citizens of the United States during a period of war and is thereafter condemned as a prize by a court of competent jurisdiction.
 
-*Certification of Documentation* means form CG-1270.
+*Certificate of Documentation* means form CG-1270, when issued by the Director, National Vessel Documentation Center.
 
 *Citizen,* unless expressly provided otherwise, means a person meeting the applicable citizenship requirements of subpart C of this part as a United States citizen.
 
@@ -72,14 +72,14 @@ Rulings and interpretations concerning what activities constitute coastwise trad
 
 *Superstructure* means the main deck and any other structural part above the main deck.
 
-*United States,* when used in a geographic sense means the States of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States, except that for purposes of § 67.19(d)(3) trust territories are not considered to be part of the United States.
+*United States,* when used in a geographic sense means the States of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States, except that for purposes of § 67.19(c)(3) trust territories are not considered to be part of the United States.
 
 *Vessel* includes every description of watercraft or other contrivance capable of being used as a means of transportation on water, but does not include aircraft.
 
-*Wrecked vessel,* under the provisions of 46 U.S.C. app. 14, means a vessel which:
+*Wrecked vessel,* under the provisions of 46 U.S.C. 12107, means a vessel which:
 
 (1) Has incurred substantial damage to its hull or superstructure as a result of natural or accidental causes which occurred in the United States or its adjacent waters; and
 
 (2) Has undergone, in a shipyard in the United States or its possessions, repairs equaling three times the appraised salved value of the vessel.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 95-014, 60 FR 31603, June 15, 1995; CGD 94-070, 60 FR 40241, Aug. 7, 1995; CGD 95-012, 60 FR 48050, Sept. 18, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2001-8825, 69 FR 5400, Feb. 4, 2004; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004; USCG-2005-20258, 71 FR 61417, Oct. 18, 2006; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by CGD 95-014, 60 FR 31603, June 15, 1995; CGD 94-070, 60 FR 40241, Aug. 7, 1995; CGD 95-012, 60 FR 48050, Sept. 18, 1995; USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2001-8825, 69 FR 5400, Feb. 4, 2004; USCG-2004-18884, 69 FR 58346, Sept. 30, 2004; USCG-2005-20258, 71 FR 61417, Oct. 18, 2006; USCG-2012-0832, 77 FR 59778, Oct. 1, 2012; USCG-2016-0531, 82 FR 43863, Sept. 20, 2017]

@@ -86,7 +86,7 @@ The information specified in this section is required for EEI transmitted to the
 
 (iv) For definitions of the value to be reported in the EEI for special types of transactions where goods are not being exported pursuant to commercial sales, or where subsidies, government financing or participation, or other unusual conditions are involved, see Subpart C of this part.
 
-(18) *Export information code.* A code that identifies the type of export shipment or condition of the exported items (e.g., goods donated for relief or charity, impelled shipments, shipments under the Foreign Military Sales program, household goods, and all other shipments). (For the list of the codes see Appendix B.)
+(18) *Export information code.* A code that identifies the type of export shipment or condition of the exported items (*e.g.,* goods donated for relief or charity, impelled shipments, shipments under the Foreign Military Sales program, household goods, and all other shipments).
 
 (19) *Shipment Reference Number (SRN).* A unique identification number assigned by the filer that allows for the identification of the shipment in the filer's system. The reuse of the SRN is prohibited.
 
@@ -190,4 +190,4 @@ The information specified in this section is required for EEI transmitted to the
 
 (3) *Original ITN.* The ITN associated with a previously filed shipment that is replaced or divided and for which additional shipment(s) must be filed. The original ITN field can be used in certain scenarios, such as, but not limited to, shipments sold en route or cargo split by the carrier where the succeeding parts of the shipment are not exported within the timeframes specified in § 30.28.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017]
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017]

@@ -116,7 +116,7 @@
 
 *Exemption.* A specific reason as cited within this part that eliminates the requirement for filing EEI.
 
-*Exemption legend.* A notation placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading document that describes the basis for not filing EEI for an export transaction. The exemption legend shall reference the number of the section or provision in the FTR where the particular exemption is provided (See Appendix D to this part).
+*Exemption legend.* A notation placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading document that describes the basis for not filing EEI for an export transaction. The exemption legend shall reference the number of the section or provision in the FTR where the particular exemption is provided (See appendix B to this part).
 
 *Export.* To send or transport goods out of a country.
 
@@ -214,7 +214,7 @@
 
 *Postdeparture filing.* The privilege granted to approved USPPIs for their EEI to be filed up to five (5) calendar days after the date of export.
 
-*Postdeparture filing citation.* A notation placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading documents that states that the EEI will be filed after departure of the carrier. (See Appendix D of this part.)
+*Postdeparture filing citation.* A notation placed on the bill of lading, air waybill, export shipping instructions, or other commercial loading documents that states that the EEI will be filed after departure of the carrier. (See appendix B of this part.)
 
 *Power of attorney.* A legal authorization, in writing, from a USPPI or FPPI stating that an agent has authority to act as the principal party's true and lawful agent for purposes of preparing and filing the EEI in accordance with the laws and regulations of the United States. (See Appendix A of this part.)
 
@@ -298,4 +298,4 @@
 
 *Zone admission number.* A unique and sequential number assigned by a FTZ operator or user for shipments admitted to a zone.
 
-[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013; 82 FR 18388, Apr. 19, 2017]Editorial Note:At 78 FR 16373, Mar. 14, 2013, in § 30.1, the term “Kimberly Process Certificate (KPC)” was added to the definitions; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.
+[73 FR 31555, June 2, 2008, as amended at 74 FR 38916, Aug. 5, 2009; 78 FR 16373, Mar. 14, 2013; 82 FR 18388, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017]Editorial Note:At 78 FR 16373, Mar. 14, 2013, in § 30.1, the term “Kimberly Process Certificate (KPC)” was added to the definitions; however, the amendment could not be incorporated because of the inaccurate amendatory instruction.

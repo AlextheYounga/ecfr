@@ -1,7 +1,5 @@
 ##### § 120.435 Which loan pledges do not require notice to or consent by SBA? #####
 
-Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
-
 Notwithstanding the provisions of § 120.434(e), 7(a) loans may be pledged for the following purposes without notice to or consent by SBA:
 
 (a) Treasury tax and loan accounts;

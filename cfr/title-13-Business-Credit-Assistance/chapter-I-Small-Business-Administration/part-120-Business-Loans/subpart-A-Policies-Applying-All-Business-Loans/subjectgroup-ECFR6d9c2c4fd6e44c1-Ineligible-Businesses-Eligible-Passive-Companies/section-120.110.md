@@ -1,7 +1,5 @@
 ##### § 120.110 What businesses are ineligible for SBA business loans? #####
 
-Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
-
 The following types of businesses are ineligible:
 
 (a) Non-profit businesses (for-profit subsidiaries are eligible);
@@ -26,7 +24,7 @@ The following types of businesses are ineligible:
 
 (k) Businesses principally engaged in teaching, instructing, counseling or indoctrinating religion or religious beliefs, whether in a religious or secular setting;
 
-(l) Consumer and marketing cooperatives (producer cooperatives are eligible);
+(l) [Reserved]
 
 (m) Loan packagers earning more than one third of their gross annual revenue from packaging SBA loans;
 
@@ -45,3 +43,5 @@ The following types of businesses are ineligible:
 (r) Businesses primarily engaged in political or lobbying activities; and
 
 (s) Speculative businesses (such as oil wildcatting).
+
+[61 FR 3235, Jan. 31, 1996, as amended at 82 FR 39502, Aug. 21, 2017]

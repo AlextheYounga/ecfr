@@ -1,0 +1,3 @@
+##### § 986.68 Authority for research and promotion activities. #####
+
+The Council, with the approval of the Secretary, may establish or provide for the establishment of production research, marketing research and development projects, and marketing promotion, including paid generic advertising, designed to assist, improve, or promote the marketing, distribution, and consumption or efficient production of pecans including product development, nutritional research, and container development. The expenses of such projects shall be paid from funds collected pursuant to this part.

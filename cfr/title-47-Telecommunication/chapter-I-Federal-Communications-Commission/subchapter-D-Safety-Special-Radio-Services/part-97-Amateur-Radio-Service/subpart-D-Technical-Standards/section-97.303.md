@@ -1,5 +1,7 @@
 ##### § 97.303 Frequency sharing requirements. #####
 
+Link to an amendment published at 82 FR 43872, Sept. 20, 2017.
+
 The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § 97.301 of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 
 (a) Where, in adjacent ITU Regions or sub-Regions, a band of frequencies is allocated to different services of the same category (*i.e.,* primary or secondary services), the basic principle is the equality of right to operate. Accordingly, stations of each service in one Region or sub-Region must operate so as not to cause harmful interference to any service of the same or higher category in the other Regions or sub-Regions.

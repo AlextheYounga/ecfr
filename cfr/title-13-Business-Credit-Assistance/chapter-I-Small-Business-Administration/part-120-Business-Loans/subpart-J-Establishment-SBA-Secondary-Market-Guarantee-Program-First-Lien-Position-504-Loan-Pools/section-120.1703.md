@@ -1,7 +1,5 @@
 ##### § 120.1703 Qualifications to be a Pool Originator. #####
 
-Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
-
 (a) *Application to become Pool Originator.* The application to become a Pool Originator is available from the SBA and can be found on SBA's website. In order to qualify as a Pool Originator, an entity must send the application to the SBA and certify that it is a Pool Assembler or it:
 
 (1) Is regulated by the appropriate agency as defined in section 3(a)(34)(G) of the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(34)(G));
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
 
 (3) Has the financial capability to originate acceptable pools consisting of eligible First Lien Position 504 Loans in sufficient quantity to support the issuance of Pool Certificates;
 
-(4) Is in good standing with SBA (as the SBA determines), the Office of the Comptroller of the Currency (OCC) if it is a national bank, the Federal Deposit Insurance Corporation if it is a bank not regulated by the OCC, the Financial Institutions Regulatory Authority, if it is a member, the National Credit Union Administration if it is a credit union; and
+(4) Is in good standing with SBA (as the SBA determines), and is Satisfactory with the Office of the Comptroller of the Currency (OCC) if it is a national bank, the Federal Deposit Insurance Corporation if it is a bank not regulated by the OCC, the Financial Institutions Regulatory Authority if it is a member, the National Credit Union Administration if it is a credit union, as determined by SBA; and
 
 (5) for any Pool Originator that is an SBA Lender, that the SBA Lender has satisfactory SBA performance, as determined by SBA in its sole discretion.
 
@@ -25,3 +23,5 @@ Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
 (3) Maintains its books and records in accordance with generally accepted accounting principles or in accordance with the guidelines of the regulatory body governing its activities; and
 
 (4) Has not been suspended or terminated from the Program by SBA.
+
+[74 FR 56093, Oct. 30, 2009, as amended at 82 FR 39506, Aug. 21, 2017]

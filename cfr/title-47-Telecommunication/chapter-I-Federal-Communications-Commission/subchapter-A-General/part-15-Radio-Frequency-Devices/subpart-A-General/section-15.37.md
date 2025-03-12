@@ -1,6 +1,6 @@
 ##### § 15.37 Transition provisions for compliance with the rules. #####
 
-Link to an amendment published at 82 FR 41559, Sept. 1, 2017.
+Link to an amendment published at 82 FR 41559, Sept. 1, 2017.Link to an amendment published at 82 FR 43870, September 20, 2017.
 
 (a) The manufacture or importation of scanning receivers, and frequency converters designed or marketed for use with scanning receivers, that do not comply with the provisions of § 15.121 shall cease on or before October 25, 1999. Effective July 26, 1999, the Commission will not grant equipment authorization for receivers that do not comply with the provisions of § 15.121. This paragraph does not prohibit the sale or use of authorized receivers manufactured in the United States, or imported into the United States, prior to October 25, 1999.
 

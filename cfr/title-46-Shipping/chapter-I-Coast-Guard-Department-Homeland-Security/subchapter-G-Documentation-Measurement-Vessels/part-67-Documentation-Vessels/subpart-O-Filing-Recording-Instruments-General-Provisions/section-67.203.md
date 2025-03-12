@@ -12,8 +12,4 @@
 
 (d) The restriction imposed by paragraph (c) of this section does not apply to a bill of sale or deed of gift conveying an interest in a vessel which was neither documented nor last documented pursuant to these regulations or any predecessor regulations thereto at the time the instrument was executed, nor to an instrument conveying an interest in a vessel identified in § 67.11(b).
 
-(e) An instrument identified as eligible for filing and recording under § 67.200(c) may not be filed or recorded if the mortgagee or assignee is not a person qualifying as a citizen of the United States as defined in the Shipping Act, 1916, as amended, (46 U.S.C. app. chapter 23) or a trustee as defined in 46 U.S.C. 31328, unless the Maritime Administration has consented to the grant to a non-citizen made under the instrument. This restriction does not apply to an instrument conveying an interest in a vessel identified in § 67.11(b).
-
-(f) An instrument identified as eligible for filing and recording under § 67.200(d) may not be filed or recorded if the mortgagee or assignee is not a person described in 46 U.S.C. 31322(a)(1)(D). This restriction does not apply to an instrument conveying an interest in a vessel identified in § 67.11(b).
-
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31605, June 15, 1995]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31605, June 15, 1995; USCG-2016-0531, 82 FR 43864, Sept. 20, 2017]

@@ -1,5 +1,7 @@
 ##### § 2.1093 Radiofrequency radiation exposure evaluation: portable devices. #####
 
+Link to an amendment published at 82 FR 43870, September 20, 2017.
+
 (a) Requirements of this section are a consequence of Commission responsibilities under the National Environmental Policy Act to evaluate the environmental significance of its actions. See subpart I of part 1 of this chapter, in particular § 1.1307(b).
 
 (b) For purposes of this section, a portable device is defined as a transmitting device designed to be used so that the radiating structure(s) of the device is/are within 20 centimeters of the body of the user.

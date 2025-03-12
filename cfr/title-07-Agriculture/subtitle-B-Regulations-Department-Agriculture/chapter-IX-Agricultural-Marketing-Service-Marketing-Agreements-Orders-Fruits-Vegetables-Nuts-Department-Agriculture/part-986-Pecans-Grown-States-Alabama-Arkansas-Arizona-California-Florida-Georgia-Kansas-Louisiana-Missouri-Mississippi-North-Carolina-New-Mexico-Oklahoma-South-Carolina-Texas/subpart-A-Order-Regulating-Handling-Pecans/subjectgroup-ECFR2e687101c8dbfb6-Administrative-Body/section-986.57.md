@@ -1,0 +1,5 @@
+##### § 986.57 Funds and other property. #####
+
+(a) All funds received pursuant to any of the provisions of this part shall be used solely for the purposes specified in this part, and the Secretary may require the Council and its members to account for all receipts and disbursements.
+
+(b) Upon the death, resignation, removal, disqualification, or expiration of the term of office of any member or employee, all books, records, funds, and other property in their possession belonging to the Council shall be delivered to their successor in office or to the Council, and such assignments and other instruments shall be executed as may be necessary to vest in such successor or in the Council full title to all the books, records, funds, and other property in the possession or under the control of such member or employee pursuant to this subpart.

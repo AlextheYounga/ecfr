@@ -1,8 +1,6 @@
 ##### § 120.1600 General procedures for enforcement actions against SBA Lenders, SBA Supervised Lenders, Other Regulated SBLCs, Management Officials, Other Persons, Intermediaries, and NTAPs. #####
 
-Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
-
-(a) *In general.* Except as otherwise set forth for the enforcement actions listed in paragraphs (b) and (c) of this section, SBA will follow the procedures listed below.
+(a) *In general.* Except as otherwise set forth for the enforcement actions listed in paragraphs (a)(6), (b) and (c) of this section, SBA will follow the procedures listed below.
 
 (1) *SBA's notice of enforcement action.* (i) When undertaking an immediate suspension under § 120.1500(a)(4), or prior to undertaking an enforcement action set forth in § 120.1500(a), (b), and (e) and § 120.1540, SBA will issue a written notice to the affected SBA Lender, Intermediary, or NTAP identifying the proposed enforcement action or notifying it of an immediate suspension. The notice will set forth in reasonable detail the underlying facts and reasons for the proposed action or immediate suspension. If the notice is for a proposed or immediate suspension, SBA will also state the scope and term of the proposed or immediate suspension.
 
@@ -28,6 +26,8 @@ Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
 
 (5) *Appeals.* An SBA Lender, Intermediary, or NTAP may appeal the final agency decision only in the appropriate federal district court.
 
+(6) *Receiverships of Certified Development Companies and/or other relief.* If SBA undertakes the appointment of a receiver for a Certified Development Company and/or injunctive or other equitable relief, paragraphs (a)(1) through (5) of this section will not apply and SBA will follow the applicable procedures under Federal law to obtain such remedies and to enforce the Certified Development Company's consent and waiver in advance to those remedies.
+
 (b) *Procedures for certain enforcement actions against SBA Supervised Lenders (except Other Regulated SBLCs) and, where applicable, Management Officials and Other Persons* - (1) *Suspension and revocation actions and cease and desist orders.* If SBA seeks to suspend or revoke loan program authority (including, the authority to make, service, liquidate, or litigate SBA loans), or issue a cease and desist order to an SBA Supervised Lender or, as applicable, Other Person, SBA will follow the procedures below in lieu of those in paragraph (a) of this section.
 
 (i) *Show cause order and hearing.* The Administrator will serve upon the SBA Supervised Lender or Other Person an order to show cause why an order suspending or revoking the authority or why a cease and desist order should not be issued. The show cause order will contain a statement of the matters of fact and law asserted by SBA, as well as the legal authority and jurisdiction under which an administrative hearing will be held, and will set forth the place and time of the administrative hearing. The hearing will be conducted by an administrative law judge in accordance with 5 U.S.C. 554-557, 15 U.S.C. 650, and applicable sections of part 134 of this chapter. The Administrative Law Judge will issue a recommended decision based on the record.
@@ -50,7 +50,7 @@ Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
 
 (iv) *Effective date and judicial review.* The removal order will take effect 30 days after date of service upon the SBA Supervised Lender and the Management Official except in case of consent which will be effective at the time specified in the order or in case of removal for conviction on criminal charges the order will be effective upon removal order service on the SBA Supervised Lender and the Management Official. The order will remain effective and enforceable, except to the extent it is stayed, modified, terminated, or set aside by Administrator or a reviewing court. The adversely affected party will have 20 days from the order issuance date to seek judicial review in the appropriate federal district court.
 
-(4) *Receiverships, transfer of assets and servicing activities.* If SBA undertakes the appointment of a receiver for, or the transfer of assets or servicing rights of, an SBA Supervised Lender, SBA will follow the applicable procedures in 15 U.S.C. 650.
+(4) *Receiverships, transfer of assets and servicing activities.* If SBA undertakes the appointment of a receiver for, or the transfer of assets or servicing rights of an SBA Supervised Lender and/or injunctive or other equitable relief, SBA will follow the applicable procedures under Federal law to obtain such remedies and to enforce the SBA Supervised Lender's consent and waiver in advance to those remedies.
 
 (5) *Civil penalties for report filing failure.* If SBA seeks to impose civil penalties against an SBA Supervised Lender for failure to file a report in accordance with SBA regulations or written directive, SBA will follow the procedures set forth for enforcement actions in § 120.465.
 
@@ -82,4 +82,4 @@ Link to an amendment published at 82 FR 39506, Aug. 21, 2017.
 
 (7) *Appeals.* The capital directive constitutes a final agency action. An SBLC may appeal the final agency decision only in the appropriate federal district court.
 
-[73 FR 75521, Dec. 11, 2008]
+[73 FR 75521, Dec. 11, 2008, as amended at 82 FR 39506, Aug. 21, 2017]

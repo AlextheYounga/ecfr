@@ -1,7 +1,5 @@
 ##### § 115.60 Selection and admission of PSB Sureties. #####
 
-Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
-
 (a) *Selection of PSB Sureties.* SBA's selection of PSB Sureties will be guided by, but not limited to, these factors:
 
 (1) An underwriting limitation of at least $6,500,000 on the U.S. Treasury Department list of acceptable sureties;
@@ -14,6 +12,6 @@ Link to an amendment published at 82 FR 39502, Aug. 21, 2017.
 
 (5) The rating or ranking designations assigned to the Surety by recognized authority.
 
-(b) *Admission of PSB Sureties.* A Surety admitted to the PSB program must execute a PSB Agreement before approving SBA guaranteed bonds. No SBA guarantee attaches to bonds approved before the D/SG or designee has countersigned the Agreement.
+(b) *Admission of PSB Sureties.* A Surety admitted to the PSB program must execute a PSB Agreement before approving SBA guaranteed bonds. No SBA guarantee attaches to bonds approved before the D/SG or designee has countersigned the Agreement. For a period of nine months following admission to the PSB program, the Surety must obtain SBA's prior written approval before executing a bond greater than $2 million so that SBA may evaluate the Surety's performance in its underwriting and claims and recovery functions. At the end of this nine month period, SBA may in its discretion extend this period to allow SBA to further evaluate the Surety's performance.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34600, June 25, 2007; 81 FR 23566, Apr. 22, 2016]
+[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34600, June 25, 2007; 81 FR 23566, Apr. 22, 2016; 82 FR 39502, Aug. 21, 2017]

@@ -1,10 +1,8 @@
-##### § 120.1051 Frequency of on-site reviews and examinations. #####
+##### § 120.1051 Frequency of reviews and examinations. #####
 
-Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
+SBA may conduct reviews and examinations of SBA Lenders, Intermediaries, and NTAPs on a periodic basis. SBA may consider, but is not limited to, the following factors in determining frequency:
 
-SBA may conduct on-site reviews and examinations of SBA Lenders, Intermediaries, and NTAPs on a periodic basis. SBA may consider, but is not limited to, the following factors in determining frequency:
-
-(a) Off-site review/monitoring results, including an SBA Lender's, Intermediary's or NTAP's Risk Rating;
+(a) Results of monitoring, including an SBA Lender's, Intermediary's or NTAP's Risk Rating;
 
 (b) SBA loan portfolio size;
 
@@ -14,4 +12,4 @@ SBA may conduct on-site reviews and examinations of SBA Lenders, Intermediaries,
 
 (e) Such other risk-related information as SBA, in its discretion, determines to be appropriate.
 
-[73 FR 75519, Dec. 11, 2008]
+[73 FR 75519, Dec. 11, 2008, as amended at 82 FR 39504, Aug. 21, 2017]

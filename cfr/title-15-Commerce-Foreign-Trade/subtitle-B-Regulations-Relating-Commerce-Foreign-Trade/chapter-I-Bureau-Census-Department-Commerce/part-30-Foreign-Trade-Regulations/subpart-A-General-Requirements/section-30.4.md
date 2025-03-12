@@ -44,7 +44,7 @@ Two electronic filing options (predeparture and postdeparture) for transmitting 
 
 (vi) For all other modes, the USPPI or the authorized agent shall file the required EEI no later than two (2) hours prior to exportation.
 
-(3) For shipments between the United States and Puerto Rico, the USPPI or authorized agent shall provide the proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend to the exporting carrier by the time the shipment arrives at the port of unloading.
+(3) For shipments between the United States and Puerto Rico, the USPPI or authorized agent shall provide the proof of filing citation, postdeparture filing citation, AES downtime filing citation, exemption or exclusion legend to the exporting carrier by the time the shipment arrives at the port of unlading.
 
 (4) For non-USML shipments when the AES or AES*Direct* is unavailable, use the following instructions:
 
@@ -52,7 +52,7 @@ Two electronic filing options (predeparture and postdeparture) for transmitting 
 
 (ii) If AES or AES*Direct* is unavailable, the goods may be exported and the filer must:
 
-(A) Provide the appropriate downtime filing citation as described in § 30.7(b) and Appendix D; and
+(A) Provide the appropriate downtime filing citation as described in § 30.7(b) and appendix B of this part; and
 
 (B) Report the EEI at the first opportunity AES or AES*Direct* is available.
 
@@ -64,4 +64,4 @@ Two electronic filing options (predeparture and postdeparture) for transmitting 
 
 (d) *Proof of filing citation and exemption and exclusion legends.* The USPPI or the authorized agent shall provide the exporting carrier with the proof of filing citation and exemption and exclusion legends as described in § 30.7.
 
-[73 FR 31555, June 2, 2008, as amended at 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017]
+[73 FR 31555, June 2, 2008, as amended at 78 FR 16376, Mar. 14, 2013; 82 FR 18390, Apr. 19, 2017; 82 FR 43843, Sept. 20, 2017]

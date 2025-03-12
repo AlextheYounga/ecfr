@@ -1,0 +1,3 @@
+##### § 986.97 Counterparts. #####
+
+Handlers may sign an agreement with the Secretary indicating their support for this marketing order. This agreement may be executed in multiple counterparts by each handler. If more than fifty percent of the handlers, weighted by the volume of pecans handled during an appropriate period of time determined by the Secretary, enter into such an agreement, then a marketing agreement shall exist for the pecans marketing order. This marketing agreement shall not alter the terms of this part. Upon the termination of this part, the marketing agreement has no further force or effect.

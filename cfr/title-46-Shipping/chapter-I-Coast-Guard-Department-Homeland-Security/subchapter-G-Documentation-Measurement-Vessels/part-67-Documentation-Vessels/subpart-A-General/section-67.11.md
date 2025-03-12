@@ -1,10 +1,10 @@
 ##### § 67.11 Restriction on transfer of an interest in documented vessels to foreign persons; foreign registry or operation. #####
 
-(a) Unless approved by the Maritime Administration -
+(a) Unless approved by the Maritime Administration—
 
 (1) A documented vessel or a vessel last documented under the laws of the United States may not be placed under foreign registry or operated under the authority of a foreign country.
 
-(2) A documented vessel or a vessel last documented under the laws of the United States owned by a citizen of the United States as defined in section 2 of the Shipping Act, 1916 (46 U.S.C. app. 802), may not be sold, mortgaged, leased, chartered, delivered, or otherwise transferred to any person who is not a citizen of the United States as defined in section 2 of the Shipping Act, 1916 (46 U.S.C. app. 802).
+(2) A documented vessel or a vessel last documented under the laws of the United States owned by a citizen of the United States as defined in 46 U.S.C. 50501, may not be sold, leased, chartered, delivered, or otherwise transferred to any person who is not a citizen of the United States as defined in 46 U.S.C. 50501.
 
 (b) The restrictions in paragraph (a)(2) of this section do not apply to a vessel that has been operated only as:
 
@@ -20,4 +20,4 @@ For purposes of carrying out its responsibilities under the provisions of this p
 
 (c) The exemption in paragraph (b) of this section does not relieve all vessels from meeting the fishery endorsement requirements of this part. If your vessel is less than 100 feet in length and is a fishing vessel, fish processing vessel, or fish tender vessel as defined in 46 U.S.C. 2101, you must meet the fishery endorsement requirements set out in this part. Each vessel 100 feet and greater in length applying for a fishery endorsement is regulated by the Maritime Administration requirements found in 46 CFR part 356.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1003, as amended by USCG-1999-6095, 65 FR 76575, Dec. 7, 2000]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1003, as amended by USCG-1999-6095, 65 FR 76575, Dec. 7, 2000; USCG-2016-0531, 82 FR 43863, Sept. 20, 2017]

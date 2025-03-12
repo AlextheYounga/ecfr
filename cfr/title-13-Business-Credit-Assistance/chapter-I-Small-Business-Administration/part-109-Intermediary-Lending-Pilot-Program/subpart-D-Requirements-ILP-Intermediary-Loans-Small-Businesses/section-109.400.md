@@ -1,7 +1,5 @@
 ##### § 109.400 Eligible Small Business Concerns. #####
 
-Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
-
 (a) To be eligible to receive loans from an ILP Intermediary under this program, a small business must:
 
 (1) Be organized for profit;
@@ -40,7 +38,7 @@ Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
 
 (11) Businesses principally engaged in teaching, instructing, counseling or indoctrinating religion or religious beliefs, whether in a religious or secular setting;
 
-(12) Consumer and marketing cooperatives (producer cooperatives are eligible);
+(12) [Reserved]
 
 (13) Loan packagers earning more than one third of their gross annual revenue from packaging SBA loans;
 
@@ -67,3 +65,5 @@ Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
 (22) Businesses in which any Associate is an undocumented (illegal) alien; or
 
 (23) Businesses owned or controlled by an applicant or any of its Associates who are presently debarred, suspended, proposed for debarment, declared ineligible, or voluntarily excluded from participation by any Federal department or agency.
+
+[76 FR 18015, Apr. 1, 2011, as amended at 82 FR 39501, Aug. 21, 2017]

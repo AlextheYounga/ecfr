@@ -1,7 +1,5 @@
 ##### § 120.524 When is SBA released from liability on its guarantee? #####
 
-Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
-
 (a) SBA is released from liability on a loan guarantee (in whole or in part, within SBA's exclusive discretion), if any of the events below occur:
 
 (1) The Lender has failed to comply materially with any Loan Program Requirement for 7(a) loans.
@@ -24,7 +22,7 @@ Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
 
 (10) The Borrower has paid the loan in full.
 
-(b) If SBA determines, at any time, that any of the events set forth in paragraph (a) of this section occurred in connection with that loan, SBA is entitled to recover any moneys paid on the guarantee plus interest from the Lender responsible for those events.
+(b) If SBA determines, at any time, that any of the events set forth in paragraph (a) of this section occurred in connection with that loan, SBA is entitled to recover any moneys paid on the guarantee plus interest from the Lender. In the exercise of its rights, SBA may utilize all legal means available, including offset and judicial remedies.
 
 (c) If the Lender's loan documentation or other information indicates that one or more of the events in paragraph (a) of this section occurred, SBA may undertake such investigation as it deems necessary to determine whether to honor or deny the guarantee, and may withhold a decision on whether to honor the guarantee until the completion of such investigation.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 82 FR 39503, Aug. 21, 2017.
 
 (e) Unless SBA provides written notice to the contrary, the Lender remains responsible for all loan servicing ad liquidation actions until SBA honors its guarantee in full.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 72 FR 18361, Apr. 12, 2007]
+[61 FR 3235, Jan. 31, 1996, as amended at 72 FR 18361, Apr. 12, 2007; 82 FR 39503, Aug. 21, 2017]

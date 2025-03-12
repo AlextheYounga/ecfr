@@ -1,7 +1,5 @@
 ##### § 120.710 What is the Loan Loss Reserve Fund? #####
 
-Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
-
 (a) *General.* The Loan Loss Reserve Fund (“LLRF”) is a Deposit Account which an Intermediary must establish to pay any shortage in the MRF caused by delinquencies or losses on Microloans.
 
 (b) *Level of Loan Loss Reserve Fund.* Until it is in the Microloan program for at least five years, an Intermediary must maintain a balance on deposit in its LLRF equal to 15 percent of the outstanding balance of the notes receivable owed to it by its Microloan borrowers (“Portfolio”).
@@ -12,8 +10,8 @@ Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
 
 (e) *What must an intermediary demonstrate to get a reduction in Loan Loss Reserve Fund?* To receive a reduction in its LLRF, an Intermediary must:
 
-(1) Have satisfactory SBA performance, as determined by SBA in its discretion. The Intermediary's Risk Rating, among other factors, will be considered in determining satisfactory SBA performance. Other factors may include, but are not limited to, on-site review/examination assessments, historical performance measures (like default rate, purchase rate and loss rate), loan volume to the extent that it impacts performance measures, and other performance related measurements and information (such as contribution toward SBA mission); and
+(1) Have satisfactory SBA performance, as determined by SBA in its discretion. The Intermediary's Risk Rating, among other factors, will be considered in determining satisfactory SBA performance. Other factors may include, but are not limited to, review/examination assessments, historical performance measures (like default rate, purchase rate and loss rate), loan volume to the extent that it impacts performance measures, and other performance related measurements and information (such as contribution toward SBA mission); and
 
 (2) No other factors exist that may impair the Intermediary's ability to repay all obligations which it owes to the SBA under the Microloan program.
 
-[61 FR 3235, Jan. 31, 1996, as amended at 65 FR 17439, Apr. 3, 2000; 73 FR 75517, Dec. 11, 2008; 80 FR 34046, June 15, 2015]
+[61 FR 3235, Jan. 31, 1996, as amended at 65 FR 17439, Apr. 3, 2000; 73 FR 75517, Dec. 11, 2008; 80 FR 34046, June 15, 2015; 82 FR 39504, Aug. 21, 2017]

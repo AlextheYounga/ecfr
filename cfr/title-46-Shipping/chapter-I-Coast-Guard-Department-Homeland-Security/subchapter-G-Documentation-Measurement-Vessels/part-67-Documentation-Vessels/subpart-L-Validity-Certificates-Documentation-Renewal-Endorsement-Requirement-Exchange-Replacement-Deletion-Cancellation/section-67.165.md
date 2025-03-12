@@ -14,8 +14,8 @@
 
 (2) 46 U.S.C. chapter 313;
 
-(3) Sections 9 and 37(b) of the Shipping Act, 1916 (46 U.S.C. app. 808, 835(b)); and
+(3) 46 U.S.C. 56101, 56102 and 57109; and
 
-(4) Section 902 of the Merchant Marine Act, 1936 (46 U.S.C. app. 1242).
+(4) 46 U.S.C. 56301.
 
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993; 58 FR 65131, Dec. 13, 1993, as amended by CGD 95-014, 60 FR 31604, June 15, 1995; USCG-2016-0531, 82 FR 43864, Sept. 20, 2017]

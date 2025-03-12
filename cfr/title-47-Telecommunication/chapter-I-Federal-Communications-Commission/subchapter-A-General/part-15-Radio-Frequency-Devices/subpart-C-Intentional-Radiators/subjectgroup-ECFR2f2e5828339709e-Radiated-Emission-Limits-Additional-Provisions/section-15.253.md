@@ -1,5 +1,7 @@
 ##### § 15.253 Operation within the bands 46.7-46.9 GHz and 76.0-77.0 GHz. #####
 
+Link to an amendment published at 82 FR 43870, September 20, 2017.
+
 (a) Operation within the band 46.7-46.9 GHz is restricted to vehicle-mounted field disturbance sensors used as vehicle radar systems. The transmission of additional information, such as data, is permitted provided the primary mode of operation is as a vehicle-mounted field disturbance sensor. Operation under the provisions of this section is not permitted on aircraft or satellites.
 
 (b) The radiated emission limits within the bands 46.7-46.9 GHz are as follows:

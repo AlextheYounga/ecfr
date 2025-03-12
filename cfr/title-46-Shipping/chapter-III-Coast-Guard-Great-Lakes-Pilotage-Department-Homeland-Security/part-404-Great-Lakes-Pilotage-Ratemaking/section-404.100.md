@@ -1,6 +1,6 @@
 ##### § 404.100 Ratemaking and annual reviews in general. #####
 
-Link to an amendment published at 82 FR 41495, Aug. 31, 2017.
+Link to an amendment published at 82 FR 41495, Aug. 31, 2017.Link to a correction published at 82 FR 43864, Sept. 20, 2017.
 
 (a) The Director establishes base pilotage rates by a full ratemaking pursuant to § 404.101-404.108 of this part, conducted at least once every 5 years and completed by March 1 of the first year for which the base rates will be in effect. Base rates will be set to meet the goal specified in § 404.1(a) of this part.
 

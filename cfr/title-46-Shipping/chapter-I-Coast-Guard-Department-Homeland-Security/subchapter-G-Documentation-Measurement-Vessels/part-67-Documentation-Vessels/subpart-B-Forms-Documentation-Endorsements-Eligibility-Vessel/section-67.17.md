@@ -4,6 +4,4 @@
 
 (b) Any vessel eligible for documentation under § 67.5 is eligible for a registry endorsement.
 
-(c) A vessel otherwise eligible for a registry endorsement for which the Maritime Administration has not given approval for unrestricted transfer pursuant to 46 CFR part 221 loses that eligibility during any period in which it is mortgaged to a person not identified in § 67.233(b).
-
-[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by USCG-2009-0702, 74 FR 49230, Sept. 25, 2009]
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by USCG-2009-0702, 74 FR 49230, Sept. 25, 2009; USCG-2016-0531, 82 FR 43863, Sept. 20, 2017]

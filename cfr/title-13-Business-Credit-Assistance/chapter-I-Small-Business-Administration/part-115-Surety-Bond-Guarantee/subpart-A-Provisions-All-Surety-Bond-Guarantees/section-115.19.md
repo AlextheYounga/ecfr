@@ -1,7 +1,5 @@
 ##### § 115.19 Denial of liability. #####
 
-Link to an amendment published at 82 FR 39501, Aug. 21, 2017.
-
 In addition to equitable and legal defenses and remedies under contract law, the Act, and the regulations in this Part, SBA is relieved of liability in whole or in part within its discretion if any of the circumstances in paragraphs (a) through (h) of this section exist, except that SBA shall not deny liability on Prior Approval bonds based solely upon material information that was provided to SBA as part of the Surety's guarantee application.
 
 (a) *Excess Contract or bond amount.* The total Contract or Order amount at the time of Execution of the bond exceeds the Applicable Statutory Limit (see § 115.10) or the bond amount at any time exceeds the total Contract or Order amount.
@@ -10,17 +8,17 @@ In addition to equitable and legal defenses and remedies under contract law, the
 
 (c) *Material breach.* The Surety has committed a material breach of one or more terms or conditions of its Prior Approval or PSB Agreement. A material breach is considered to have occurred if:
 
-(1) Such breach (or such breaches in the aggregate) causes an increase in the Contract amount or in the bond amount of at least 25% or $100,000, whichever is less; or
+(1) Such breach (or such breaches in the aggregate) causes an increase in the Contract amount or in the bond amount of at least 25% or $500,000 of the original contract or bond amount, whichever is less; or
 
 (2) One of the conditions under Part B of Title IV of the Investment Act is not met.
 
-(d) *Substantial regulatory violation.* The Surety has committed a “substantial violation” of SBA regulations. For purposes of this paragraph, a “substantial violation” is a violation which causes an increase in the bond amount of at least 25% or $100,000, whichever is less in the aggregate, or is contrary to the purposes of the Surety Bond Guarantee Programs.
+(d) *Substantial regulatory violation.* The Surety has committed a “substantial violation” of SBA regulations. For purposes of this paragraph, a “substantial violation” is a violation which causes an increase in the bond amount of at least 25% or $500,000 of the original contract or bond amount, whichever is less in the aggregate, or is contrary to the purposes of the Surety Bond Guarantee Programs.
 
 (e) *Alteration.* Without obtaining prior written approval from SBA (which may be conditioned upon payment of additional fees), the Surety agrees to or acquiesces in any material alteration in the terms, conditions, or provisions of the bond, including but not limited to the following acts:
 
 (1) Naming as an Obligee or co-Obligee any Person that does not qualify as an Obligee under § 115.10; or
 
-(2) In the case of a Prior Approval Surety, acquiescing in any alteration to the bond which would increase the bond amount by at least 25% or $100,000, whichever is less.
+(2) In the case of a Prior Approval Surety, acquiescing in any alteration to the bond which would increase the bond amount by at least 25% or $500,000 of the original contract or bond amount, whichever is less.
 
 (f) *Timeliness.* (1) Either:
 
@@ -54,4 +52,4 @@ In addition to equitable and legal defenses and remedies under contract law, the
 
 (6) The Surety's loss under a Performance Bond did not result from the Principal's breach or Imminent Breach of the Contract.
 
-[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34599, July 25, 2007; 74 FR 36110, July 22, 2009; 79 FR 2087, Jan. 13, 2014]
+[61 FR 3271, Jan. 31, 1996, as amended at 66 FR 30804, June 8, 2001; 72 FR 34599, July 25, 2007; 74 FR 36110, July 22, 2009; 79 FR 2087, Jan. 13, 2014; 82 FR 39501, Aug. 21, 2017]

@@ -1,6 +1,6 @@
 ##### § 404.103 Ratemaking step 3: Determine number of pilots needed. #####
 
-Link to an amendment published at 82 FR 41495, Aug. 31, 2017.
+Link to an amendment published at 82 FR 41495, Aug. 31, 2017.Link to a correction published at 82 FR 43864, Sept. 20, 2017.
 
 (a) The Director determines the base number of pilots needed by dividing each area's peak pilotage demand data by its pilot work cycle. The pilot work cycle standard includes any time that the Director finds to be a necessary and reasonable component of ensuring that a pilotage assignment is carried out safely, efficiently, and reliably for each area. These components may include but are not limited to -
 

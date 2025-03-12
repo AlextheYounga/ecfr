@@ -1,7 +1,5 @@
 ##### § 120.884 Ineligible costs for 504 loans. #####
 
-Link to an amendment published at 82 FR 39504, Aug. 21, 2017.
-
 Costs not directly attributable and necessary for the Project may not be paid with proceeds of the 504 loan. These include, but are not limited to, the following:
 
 (a) Debt refinancing (other than interim financing), except as provided in § 120.882(e) and (g).
@@ -28,6 +26,6 @@ Costs not directly attributable and necessary for the Project may not be paid wi
 
 (2) Automobiles, trucks, and airplanes; and
 
-(3) Construction equipment (except for heavy duty construction equipment integral to a business' operations and meeting the IRS definition of capital equipment).
+(3) Construction equipment (except for heavy duty construction equipment integral to the business' operations with a remaining useful life of a minimum of 10 years).
 
-[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 74 FR 29591, June 23, 2009; 76 FR 9219, Feb. 17, 2011]
+[61 FR 3235, Jan. 31, 1996, as amended at 64 FR 2118, Jan. 13, 1999; 74 FR 29591, June 23, 2009; 76 FR 9219, Feb. 17, 2011; 82 FR 39504, Aug. 21, 2017]

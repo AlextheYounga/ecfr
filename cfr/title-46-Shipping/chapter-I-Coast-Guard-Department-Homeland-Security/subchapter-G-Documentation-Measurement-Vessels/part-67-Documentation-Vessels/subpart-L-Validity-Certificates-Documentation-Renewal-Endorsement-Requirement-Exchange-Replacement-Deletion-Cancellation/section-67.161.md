@@ -6,8 +6,10 @@
 
 (2) 46 U.S.C. chapter 313 for an instrument filed or recorded before the date of invalidation, and an assignment or a notice of claim of lien filed after that date;
 
-(3) Sections 9 and 37(b) of the Shipping Act, 1916 (46 U.S.C. app. 808, 835(b)); and
+(3) 46 U.S.C. 56101, 56102 and 57109; and
 
-(4) Section 902 of the Merchant Marine Act, 1936 (46 U.S.C. app. 1242).
+(4) 46 U.S.C. 56301.
 
 (b) The provisions of paragraph (a) of this section do not apply to a vessel which is subject only to a mortgage filed or recorded before January 1, 1989, which had not attained preferred status as of that date.
+
+[CGD 89-007, CGD 89-007a, 58 FR 60266, Nov. 15, 1993, as amended by USCG-2016-0531, 82 FR 43864, Sept. 20, 2017]

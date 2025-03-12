@@ -1,0 +1,3 @@
+##### § 986.51 Vacancy. #####
+
+Any vacancy on the Council occurring by the failure of any person selected to the Council to qualify as a member or alternate member due to a change in status making the member ineligible to serve, or due to death, removal, or resignation, shall be filled, by a majority vote of the Council for the unexpired portion of the term. However, that person shall fulfill all the qualifications set forth in this part as required for the member whose office that person is to fill. The qualifications of any person to fill a vacancy on the Council shall be certified in writing to the Secretary. The Secretary shall notify the Council if the Secretary determines that any such person is not qualified.

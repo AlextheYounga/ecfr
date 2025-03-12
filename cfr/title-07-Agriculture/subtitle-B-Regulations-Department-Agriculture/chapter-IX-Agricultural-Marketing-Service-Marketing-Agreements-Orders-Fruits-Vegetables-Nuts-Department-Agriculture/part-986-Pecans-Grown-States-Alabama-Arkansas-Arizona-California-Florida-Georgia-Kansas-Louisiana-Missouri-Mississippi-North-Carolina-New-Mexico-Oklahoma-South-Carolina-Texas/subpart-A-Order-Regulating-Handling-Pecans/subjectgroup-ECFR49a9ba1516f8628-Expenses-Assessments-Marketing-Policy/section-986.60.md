@@ -1,0 +1,3 @@
+##### § 986.60 Budget. #####
+
+As soon as practicable before the beginning of each fiscal year, and as may be necessary thereafter, the Council shall prepare a budget of income and expenditures necessary for the administration of this part. The Council may recommend a rate of assessment calculated to provide adequate funds to defray its proposed expenditures. The Council shall present such budget to the Secretary with an accompanying report showing the basis for its calculations, and all shall be subject to Secretary approval.
