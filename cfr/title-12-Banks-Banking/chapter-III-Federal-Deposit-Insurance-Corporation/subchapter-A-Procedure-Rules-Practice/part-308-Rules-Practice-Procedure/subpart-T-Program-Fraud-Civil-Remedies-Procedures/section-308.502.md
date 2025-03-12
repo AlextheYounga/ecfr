@@ -1,5 +1,7 @@
 ##### § 308.502 Basis for civil penalties and assessments. #####
 
+Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
+
 (a) *Claims.* (1) A person who makes a false, fictitious, or fraudulent claim to the FDIC is subject to a civil penalty of up to $5,000 per claim. A claim is false, fictitious, or fraudulent if the person making the claim knows, or has reason to know, that:
 
 (i) The claim is false, fictitious, or fraudulent; or

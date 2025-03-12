@@ -1,5 +1,7 @@
 ##### § 308.116 Assessment of penalties. #####
 
+Link to an amendment published at 83 FR 61114, Nov. 28, 2018.
+
 (a) *In general.* The civil money penalty shall be assessed upon the service of a Notice of Assessment which shall become final and unappealable unless the respondent requests a hearing pursuant to § 308.19(c)(2).
 
 (b) *Amount.* (1) Any person who violates any provision of the Change in Bank Control Act or any rule, regulation, or order issued by the FDIC pursuant thereto, shall forfeit and pay a civil money penalty of not more than $5,000 for each day the violation continues.

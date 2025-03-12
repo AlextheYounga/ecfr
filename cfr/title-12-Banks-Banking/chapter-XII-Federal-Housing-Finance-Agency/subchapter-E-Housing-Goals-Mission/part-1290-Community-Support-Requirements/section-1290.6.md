@@ -1,5 +1,7 @@
 ##### § 1290.6 Bank community support programs. #####
 
+Link to an amendment published at 83 FR 61231, Nov. 28, 2018.
+
 (a) *Requirement.* Consistent with the safe and sound operation of the Bank, each Bank shall establish and maintain a community support program. A Bank's community support program shall:
 
 (1) Provide technical assistance to members;

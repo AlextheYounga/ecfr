@@ -1,7 +1,5 @@
 ##### § 774.15 Constructive use determinations. #####
 
-Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
-
 (a) A constructive use occurs when the transportation project does not incorporate land from a Section 4(f) property, but the project's proximity impacts are so severe that the protected activities, features, or attributes that qualify the property for protection under Section 4(f) are substantially impaired. Substantial impairment occurs only when the protected activities, features, or attributes of the property are substantially diminished.
 
 (b) If the project results in a constructive use of a nearby Section 4(f) property, the Administration shall evaluate that use in accordance with § 774.3(a).
@@ -42,7 +40,11 @@ Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
 
 (1) Compliance with the requirements of 36 CFR 800.5 for proximity impacts of the proposed action, on a site listed on or eligible for the National Register, results in an agreement of “no historic properties affected” or “no adverse effect;”
 
-(2) The impact of projected traffic noise levels of the proposed highway project on a noise-sensitive activity do not exceed the FHWA noise abatement criteria as contained in Table 1 in part 772 of this chapter, or the projected operational noise levels of the proposed transit project do not exceed the noise impact criteria for a Section 4(f) activity in the FTA guidelines for transit noise and vibration impact assessment;
+(2) For projected noise levels:
+
+(i) The impact of projected traffic noise levels of the proposed highway project on a noise-sensitive activity do not exceed the FHWA noise abatement criteria as contained in Table 1 in part 772 of this chapter; or
+
+(ii) The projected operational noise levels of the proposed transit or railroad project do not exceed the noise impact criteria for a Section 4(f) activity in the FTA guidelines for transit noise and vibration impact assessment or the moderate impact criteria in the FRA guidelines for high-speed transportation noise and vibration impact assessment;
 
 (3) The projected noise levels exceed the relevant threshold in paragraph (f)(2) of this section because of high existing noise, but the increase in the projected noise levels if the proposed project is constructed, when compared with the projected noise levels if the project is not built, is barely perceptible (3 dBA or less);
 
@@ -55,3 +57,5 @@ Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
 (7) Change in accessibility will not substantially diminish the utilization of the Section 4(f) property; or
 
 (8) Vibration levels from project construction activities are mitigated, through advance planning and monitoring of the activities, to levels that do not cause a substantial impairment of protected activities, features, or attributes of the Section 4(f) property.
+
+[73 FR 13395, Mar. 12, 2008, as amended at 83 FR 54507, Oct. 29, 2018]

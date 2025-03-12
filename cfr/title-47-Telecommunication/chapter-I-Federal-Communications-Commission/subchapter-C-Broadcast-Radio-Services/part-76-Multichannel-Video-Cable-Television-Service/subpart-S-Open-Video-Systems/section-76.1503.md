@@ -4,7 +4,7 @@
 
 (b) *Demand for carriage.* An operator of an open video system shall solicit and determine the level of demand for carriage on the system among potential video programming providers in a non-discriminatory manner.
 
-(1) *Notification.* An open video system operator shall file with the Secretary of the Federal Communications Commission a “Notice of Intent” to establish an open video system, which the Commission will release in a Public Notice. Parties are required to attach a cover sheet to the filing indicating that the submission is an Open Video System Notice of Intent. The only wording on this cover sheet shall be “Open Video System Notice of Intent” and “Attention: Media Bureau.” This wording shall be located in the center of the page and should be in letters at least1/2 inch in size. Parties shall also include the words “open video systems” on their mailing envelopes. Parties must submit copies of the Notice of Intent with the Office of the Secretary and the Bureau Chief, Media Bureau. The Notice of Intent shall include the following information:
+(1) *Notification.* An open video system operator shall file a “Notice of Intent” to establish an open video system, which the Commission will release in a Public Notice. The Notice of Intent must be filed via electronic mail (email) at the following address: *OVS@fcc.gov.* The subject line shall read “Open Video System Notice of Intent.” An Open Video system notice of intent will not be considered properly filed unless filed as described in this paragraph (b). This Notice of Intent shall include the following information:
 
 (i) A heading clearly indicating that the document is a Notice of Intent to establish an open video system;
 
@@ -100,4 +100,4 @@ Note to paragraph (c)(3):
 
 Any video programming provider on an open video system may co-package video programming that is selected by itself, an affiliated video programming provider and/or unaffiliated video programming providers on the system.
 
-[61 FR 28708, June 5, 1996, as amended at 61 FR 43176, Aug. 21, 1996; 62 FR 26239, May 13, 1997; 65 FR 377, Jan. 5, 2000; 65 FR 53617, Sept. 5, 2000; 67 FR 13235, Mar. 21, 2002]
+[61 FR 28708, June 5, 1996, as amended at 61 FR 43176, Aug. 21, 1996; 62 FR 26239, May 13, 1997; 65 FR 377, Jan. 5, 2000; 65 FR 53617, Sept. 5, 2000; 67 FR 13235, Mar. 21, 2002; 83 FR 61136, Nov. 28, 2018]

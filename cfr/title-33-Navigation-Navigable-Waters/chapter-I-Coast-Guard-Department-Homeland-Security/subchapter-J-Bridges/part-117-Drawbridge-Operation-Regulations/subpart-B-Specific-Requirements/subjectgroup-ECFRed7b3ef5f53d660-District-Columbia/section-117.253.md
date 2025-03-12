@@ -1,8 +1,6 @@
 ##### § 117.253 Anacostia River. #####
 
-Link to an amendment published at 83 FR 54248, Oct. 29, 2018.
-
-(a) The draw of the Frederick Douglass Memorial (South Capitol Street) bridge, mile 1.2, shall open on signal if at least 24 hours notice is given. The draw is closed to the passage of vessels on each Presidential Inauguration Day and may occasionally be closed without advance notice to permit uninterrupted transit of dignitaries across the bridge.
+(a) The draw of the Frederick Douglass Memorial (South Capitol Street) bridge, mile 1.2, need not be opened for the passage of vessels.
 
 (b) The CSX Railroad Bridge, mile 3.4.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 83 FR 54248, Oct. 29, 2018.
 
 (6) The owners of the bridge shall provide and keep in good legible condition two board gauges painted white with black figures not less than six inches high to indicate the vertical clearance under the closed draw at all stages of the tide. The gauges shall be placed on the bridge so that they are plainly visible to the operator of any vessel approaching the bridge from either upstream or downstream.
 
-[CGD 82-025, 49 FR 17452, Apr. 24, 1984; 49 FR 37381, Sept. 24, 1984, as amended by CGD5-88-004, 53 FR 9627, Mar. 23, 1988; CGD05-95-081, 61 FR 57586, Nov. 7, 1996; CGD05-04-028, 69 FR 47773, Aug. 6, 2004; USCG-2011-0591, 77 FR 14970, Mar. 14, 2012]
+[CGD 82-025, 49 FR 17452, Apr. 24, 1984; 49 FR 37381, Sept. 24, 1984, as amended by CGD5-88-004, 53 FR 9627, Mar. 23, 1988; CGD05-95-081, 61 FR 57586, Nov. 7, 1996; CGD05-04-028, 69 FR 47773, Aug. 6, 2004; USCG-2011-0591, 77 FR 14970, Mar. 14, 2012; USCG 2018-0473, 83 FR 54248, Oct. 29, 2018]

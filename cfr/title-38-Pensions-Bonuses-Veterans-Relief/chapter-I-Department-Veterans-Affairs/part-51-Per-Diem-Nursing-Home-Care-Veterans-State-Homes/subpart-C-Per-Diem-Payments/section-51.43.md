@@ -1,5 +1,7 @@
 ##### § 51.43 Per diem and drugs and medicines - principles. #####
 
+Link to an amendment published at 83 FR 61274, Nov. 28, 2018.
+
 (a) As a condition for receiving payment of per diem under this part, the State home must submit to the VA medical center of jurisdiction for each veteran a completed VA Form 10-10EZ, Application for Medical Benefits (or VA Form 10-10EZR, Health Benefits Renewal Form, if a completed Form 10-10EZ is already on file at VA), and a completed VA Form 10-10SH, State Home Program Application for Care - Medical Certification. These VA Forms, which are available at any VA medical center and at *http://www.va.gov/vaforms*, must be submitted at the time of admission, with any request for a change in the level of care (domiciliary, hospital care or adult day health care), and any time the contact information has changed. If the facility is eligible to receive per diem payments for a veteran, VA will pay per diem under this part from the date of receipt of the completed forms required by this paragraph, except that VA will pay per diem from the day on which the veteran was admitted to the facility if the completed forms are received within 10 days after admission.
 
 (b) VA pays per diem on a monthly basis. To receive payment, the State must submit to the VA medical center of jurisdiction a completed VA Form 10-5588, State Home Report and Statement of Federal Aid Claimed, which is available at any VA medical center and at *http://www.va.gov/vaforms.*

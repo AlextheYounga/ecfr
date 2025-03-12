@@ -1,5 +1,7 @@
 ##### § 17.196 Aid for hospital care. #####
 
+Link to an amendment published at 83 FR 61271, Nov. 28, 2018.
+
 Aid may be paid to the designated State official for hospital care furnished in a recognized State home for any veteran if:
 
 (a) The veteran is eligible for hospital care in a Department of Veterans Affairs facility, and

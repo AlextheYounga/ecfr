@@ -1,5 +1,7 @@
 ##### § 327.3 Payment of assessments. #####
 
+Link to an amendment published at 83 FR 61115, Nov. 28, 2018.
+
 (a) *Required* - (1) *In general.* Each insured depository institution shall pay to the Corporation for each assessment period an assessment determined in accordance with this part 327.
 
 (2) *Notice of designated deposit account.* For the purpose of making such payments, each insured depository institution shall designate a deposit account for direct debit by the Corporation. No later than 30 days prior to the next payment date specified in paragraph (b)(2) of this section, each institution shall provide notice to the Corporation via FDIC*connect* of the account designated, including all information and authorizations needed by the Corporation for direct debit of the account. After the initial notice of the designated account, no further notice is required unless the institution designates a different account for assessment debit by the Corporation, in which case the requirements of the preceding sentence apply.

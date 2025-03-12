@@ -1,14 +1,24 @@
 ##### § 774.13 Exceptions. #####
 
-Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
-
 The Administration has identified various exceptions to the requirement for Section 4(f) approval. These exceptions include, but are not limited to:
 
-(a) Restoration, rehabilitation, or maintenance of transportation facilities that are on or eligible for the National Register when:
+(a) The use of historic transportation facilities in certain circumstances:
 
-(1) The Administration concludes, as a result of the consultation under 36 CFR 800.5, that such work will not adversely affect the historic qualities of the facility that caused it to be on or eligible for the National Register, and
+(1) Common post-1945 concrete or steel bridges and culverts that are exempt from individual review under 54 U.S.C. 306108.
 
-(2) The official(s) with jurisdiction over the Section 4(f) resource have not objected to the Administration conclusion in paragraph (a)(1) of this section.
+(2) Improvement of railroad or rail transit lines that are in use or were historically used for the transportation of goods or passengers, including, but not limited to, maintenance, preservation, rehabilitation, operation, modernization, reconstruction, and replacement of railroad or rail transit line elements, except for:
+
+(i) Stations;
+
+(ii) Bridges or tunnels on railroad lines that have been abandoned, or transit lines not in use, over which regular service has never operated, and that have not been railbanked or otherwise reserved for the transportation of goods or passengers; and
+
+(iii) Historic sites unrelated to the railroad or rail transit lines.
+
+(3) Maintenance, preservation, rehabilitation, operation, modernization, reconstruction, or replacement of historic transportation facilities, if the Administration concludes, as a result of the consultation under 36 CFR 800.5, that:
+
+(i) Such work will not adversely affect the historic qualities of the facility that caused it to be on or eligible for the National Register, or this work achieves compliance with Section 106 through a program alternative under 36 CFR 800.14; and
+
+(ii) The official(s) with jurisdiction over the Section 4(f) resource have not objected to the Administration conclusion that the proposed work does not adversely affect the historic qualities of the facility that caused it to be on or eligible for the National Register, or the Administration concludes this work achieves compliance with 54 U.S.C. 306108 (Section 106) through a program alternative under 36 CFR 800.14.
 
 (b) Archeological sites that are on or eligible for the National Register when:
 
@@ -30,7 +40,7 @@ The Administration has identified various exceptions to the requirement for Sect
 
 (5) There must be documented agreement of the official(s) with jurisdiction over the Section 4(f) resource regarding the above conditions.
 
-(e) Park road or parkway projects under 23 U.S.C. 204.
+(e) Projects for the Federal lands transportation facilities described in 23 U.S.C. 101(a)(8).
 
 (f) Certain trails, paths, bikeways, and sidewalks, in the following circumstances:
 
@@ -42,8 +52,10 @@ The Administration has identified various exceptions to the requirement for Sect
 
 (4) Trails, paths, bikeways, and sidewalks that are part of the local transportation system and which function primarily for transportation.
 
-(g) Transportation enhancement projects and mitigation activities, where:
+(g) Transportation enhancement activities, transportation alternatives projects, and mitigation activities, where:
 
 (1) The use of the Section 4(f) property is solely for the purpose of preserving or enhancing an activity, feature, or attribute that qualifies the property for Section 4(f) protection; and
 
 (2) The official(s) with jurisdiction over the Section 4(f) resource agrees in writing to paragraph (g)(1) of this section.
+
+[73 FR 13395, Mar. 12, 2008, as amended at 83 FR 54507, Oct. 29, 2018]

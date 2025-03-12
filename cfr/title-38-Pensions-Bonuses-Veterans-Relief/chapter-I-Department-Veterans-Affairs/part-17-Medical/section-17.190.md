@@ -1,5 +1,7 @@
 ##### § 17.190 Recognition of a State home. #####
 
+Link to an amendment published at 83 FR 61271, Nov. 28, 2018.
+
 A State-operated facility which provides hospital or domiciliary care to veterans must be formally recognized by the Secretary as a State home before Federal aid payments can be made for the care of such veterans. Any agency of a State (exclusive of a territory or possession) responsible for the maintenance or administration of a State home may apply for recognition by the Department of Veterans Affairs for the purpose of receiving aid for the care of veterans in such State home. A State home may be recognized if:
 
 (Authority: 38 U.S.C. 501, 1741)

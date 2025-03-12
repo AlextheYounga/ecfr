@@ -1,7 +1,5 @@
 ##### § 774.3 Section 4(f) approvals. #####
 
-Link to an amendment published at 83 FR 54506, Oct. 29, 2018.
-
 The Administration may not approve the use, as defined in § 774.17, of Section 4(f) property unless a determination is made under paragraph (a) or (b) of this section.
 
 (a) The Administration determines that:
@@ -34,7 +32,7 @@ The Administration may not approve the use, as defined in § 774.17, of Section 
 
 (d) Programmatic Section 4(f) evaluations are a time-saving procedural alternative to preparing individual Section 4(f) evaluations under paragraph (a) of this section for certain minor uses of Section 4(f) property. Programmatic Section 4(f) evaluations are developed by the Administration based on experience with a specific set of conditions that includes project type, degree of use and impact, and evaluation of avoidance alternatives.1 An approved programmatic Section 4(f) evaluation may be relied upon to cover a particular project only if the specific conditions in the programmatic evaluation are met
 
-1 FHWA has issued five programmatic Section 4(f) evaluations: (1) Final Nationwide Programmatic Section 4(f) Evaluation and Determination for Federal-Aid Transportation Projects That Have a Net Benefit to a Section 4(f) Property; (2) Nationwide Section 4(f) Evaluations and Approvals for Federally-Aided Highway Projects With Minor Involvement With Public Parks, Recreation Lands, Wildlife and Waterfowl Refuges, and Historic Sites; (3) Final Nationwide Section 4(f) Evaluation and Approval for Federally-Aided Highway Projects With Minor Involvements With Historic Sites; (4) Historic Bridges; Programmatic Section 4(f) Evaluation and Approval; and (5) Section 4(f) Statement and Determination for Independent Bikeway or Walkway Construction Projects.
+1 FHWA Section 4(f) Programmatic Evaluations can be found at *www.environment.fhwa.dot.gov/4f/4fnationwideevals.asp.*
 
 (1) The determination whether a programmatic Section 4(f) evaluation applies to the use of a specific Section 4(f) property shall be documented as specified in the applicable programmatic Section 4(f) evaluation.
 
@@ -42,4 +40,4 @@ The Administration may not approve the use, as defined in § 774.17, of Section 
 
 (e) The coordination requirements in § 774.5 must be completed before the Administration may make Section 4(f) approvals under this section. Requirements for the documentation and timing of Section 4(f) approvals are located in §§ 774.7 and 774.9, respectively.
 
-[73 FR 13395, Mar. 12, 2008, as amended at 73 FR 31610, June 3, 2008]
+[73 FR 13395, Mar. 12, 2008, as amended at 73 FR 31610, June 3, 2008; 83 FR 54506, Oct. 29, 2018]

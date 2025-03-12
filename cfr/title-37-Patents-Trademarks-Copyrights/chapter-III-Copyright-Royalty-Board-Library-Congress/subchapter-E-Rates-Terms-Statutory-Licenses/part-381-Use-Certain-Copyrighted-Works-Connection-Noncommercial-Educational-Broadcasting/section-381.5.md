@@ -36,9 +36,9 @@
 
 (3) For all such compositions in the repertory of SESAC, the royalty rates shall be as follows:
 
-(i) 2018: The 2017 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
+(i) 2018: $155 per station.
 
-(ii) 2019: The 2018 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
+(ii) 2019: $159 per station.
 
 (iii) 2020: The 2019 rate, subject to an annual cost of living adjustment in accordance with paragraph (c)(3)(vi) of this section.
 
@@ -58,4 +58,4 @@
 
 (e) *Records of use.* A public broadcasting entity subject to this section shall furnish to ASCAP, BMI and SESAC, upon request, a music-use report during one week of each calendar year. ASCAP, BMI and SESAC shall not in any one calendar year request more than 10 stations to furnish such reports.
 
-[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018]
+[72 FR 67647, Nov. 30, 2007, as amended at 73 FR 72726, Dec. 1, 2008; 74 FR 62705, Dec. 1, 2009; 75 FR 74623, Dec. 1, 2010; 76 FR 74703, Dec. 1, 2011; 77 FR 71105, Nov. 29, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 71319, Dec. 2, 2014; 80 FR 73118, Nov. 24, 2015; 81 FR 84478, Nov. 23, 2016; 83 FR 2740, Jan. 19, 2018; 83 FR 61126, Nov. 28, 2018]

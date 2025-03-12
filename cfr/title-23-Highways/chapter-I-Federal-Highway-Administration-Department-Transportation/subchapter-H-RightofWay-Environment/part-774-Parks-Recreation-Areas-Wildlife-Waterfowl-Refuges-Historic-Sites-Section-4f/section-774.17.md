@@ -1,10 +1,8 @@
 ##### § 774.17 Definitions. #####
 
-Link to an amendment published at 83 FR 54507, Oct. 29, 2018.
-
 The definitions contained in 23 U.S.C. 101(a) are applicable to this part. In addition, the following definitions apply:
 
-*Administration.* The FHWA or FTA, whichever is making the approval for the transportation program or project at issue. A reference herein to the Administration means the State when the State is functioning as the FHWA or FTA in carrying out responsibilities delegated or assigned to the State in accordance with 23 U.S.C. 325, 326, 327, or other applicable law.
+*Administration.* The FHWA, FRA, or FTA, whichever is approving the transportation program or project at issue. A reference herein to the Administration means the State when the State is functioning as the FHWA, FRA, or FTA in carrying out responsibilities delegated or assigned to the State in accordance with 23 U.S.C. 325, 326, 327, or other applicable law.
 
 *All possible planning.* All possible planning means that all reasonable measures identified in the Section 4(f) evaluation to minimize harm or mitigate for adverse impacts and effects must be included in the project.
 
@@ -26,7 +24,7 @@ The definitions contained in 23 U.S.C. 101(a) are applicable to this part. In ad
 
 *Applicant.* The Federal, State, or local government authority, proposing a transportation project, that the Administration works with to conduct environmental studies and prepare environmental documents. For transportation actions implemented by the Federal government on Federal lands, the Administration or the Federal land management agency may take on the responsibilities of the applicant described herein.
 
-*CE.* Refers to a Categorical Exclusion, which denotes an action with no individual or cumulative significant environmental effect pursuant to 40 CFR 1508.4 and § 771.117 of this chapter; unusual circumstances are taken into account in making categorical exclusion determinations.
+*CE.* Refers to a categorical exclusion, which is an action with no individual or cumulative significant environmental effect pursuant to 40 CFR 1508.4 and § 771.116, § 771.117, or § 771.118 of this chapter; unusual circumstances are taken into account in making categorical exclusion determinations.
 
 *De minimis impact.* (1) For historic sites, *de minimis* impact means that the Administration has determined, in accordance with 36 CFR part 800 that no historic property is affected by the project or that the project will have “no adverse effect” on the historic property in question.
 
@@ -72,11 +70,15 @@ The definitions contained in 23 U.S.C. 101(a) are applicable to this part. In ad
 
 (3) In the case of portions of Wild and Scenic Rivers to which Section 4(f) applies, the official(s) with jurisdiction are the official(s) of the Federal agency or agencies that own or administer the affected portion of the river corridor in question. For State administered, federally designated rivers (section 2(a)(ii) of the Wild and Scenic Rivers Act, 16 U.S.C. 1273(a)(ii)), the officials with jurisdiction include both the State agency designated by the respective Governor and the Secretary of the Interior.
 
-*ROD.* Refers to a Record of Decision prepared pursuant to 40 CFR 1505.2 and § 771.127 of this chapter.
+*Railroad or rail transit line elements.* Railroad or rail transit line elements include the elements related to the operation of the railroad or rail transit line, such as the railbed, rails, and track; tunnels; elevated support structures and bridges; substations; signal and communication devices; maintenance facilities; and railway-highway crossings.
+
+*ROD.* Refers to a record of decision prepared pursuant to 40 CFR 1505.2 and §§ 771.124 or 771.127 of this chapter.
 
 *Section 4(f) evaluation.* Refers to the documentation prepared to support the granting of a Section 4(f) approval under § 774.3(a), unless preceded by the word “programmatic.” A “programmatic Section 4(f) evaluation” is the documentation prepared pursuant to § 774.3(d) that authorizes subsequent project-level Section 4(f) approvals as described therein.
 
 *Section 4(f) Property.* Section 4(f) property means publicly owned land of a public park, recreation area, or wildlife and waterfowl refuge of national, State, or local significance, or land of an historic site of national, State, or local significance.
+
+*Station.* A station is a platform and the associated building or structure such as a depot, shelter, or canopy used by intercity or commuter rail transportation passengers for the purpose of boarding and alighting a train. A station does not include tracks, railyards, or electrification, communications or signal systems, or equipment. A platform alone is not considered a station.
 
 *Use.* Except as set forth in §§ 774.11 and 774.13, a “use” of Section 4(f) property occurs:
 
@@ -85,3 +87,5 @@ The definitions contained in 23 U.S.C. 101(a) are applicable to this part. In ad
 (2) When there is a temporary occupancy of land that is adverse in terms of the statute's preservation purpose as determined by the criteria in § 774.13(d); or
 
 (3) When there is a constructive use of a Section 4(f) property as determined by the criteria in § 774.15.
+
+[73 FR 13395, Mar. 12, 2008, as amended at 83 FR 54507, Oct. 29, 2018]

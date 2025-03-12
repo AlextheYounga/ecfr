@@ -1,3 +1,3 @@
 ##### § 771.131 Emergency action procedures. #####
 
-Requests for deviations from the procedures in this regulation because of emergency circumstances (40 CFR 1506.11) shall be referred to the Administration's headquarters for evaluation and decision after consultation with CEQ.
+Responses to some emergencies and disasters are categorically excluded under § 771.117 for FHWA, § 771.118 for FTA, or § 771.116 for FRA. Otherwise, requests for deviations from the procedures in this part because of emergency circumstances (40 CFR 1506.11) must be referred to the Administration's Headquarters for evaluation and decision after consultation with CEQ.

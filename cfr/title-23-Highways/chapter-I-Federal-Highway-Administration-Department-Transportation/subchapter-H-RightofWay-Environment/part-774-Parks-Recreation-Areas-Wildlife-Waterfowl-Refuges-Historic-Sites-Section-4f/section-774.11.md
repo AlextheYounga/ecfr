@@ -1,7 +1,5 @@
 ##### § 774.11 Applicability. #####
 
-Link to an amendment published at 83 FR 54506, Oct. 29, 2018.
-
 (a) The Administration will determine the applicability of Section 4(f) in accordance with this part.
 
 (b) When another Federal agency is the Federal lead agency for the NEPA process, the Administration shall make any required Section 4(f) approvals unless the Federal lead agency is another U.S. DOT agency.
@@ -22,8 +20,20 @@ Link to an amendment published at 83 FR 54506, Oct. 29, 2018.
 
 (h) When a property formally reserved for a future transportation facility temporarily functions for park, recreation, or wildlife and waterfowl refuge purposes in the interim, the interim activity, regardless of duration, will not subject the property to Section 4(f).
 
-(i) When a property is formally reserved for a future transportation facility before or at the same time a park, recreation area, or wildlife and waterfowl refuge is established and concurrent or joint planning or development of the transportation facility and the Section 4(f) resource occurs, then any resulting impacts of the transportation facility will not be considered a use as defined in § 774.17. Examples of such concurrent or joint planning or development include, but are not limited to:
+(i) When a property is formally reserved for a future transportation facility before or at the same time a park, recreation area, or wildlife and waterfowl refuge is established, and concurrent or joint planning or development of the transportation facility and the Section 4(f) resource occurs, then any resulting impacts of the transportation facility will not be considered a use as defined in § 774.17.
 
-(1) Designation or donation of property for the specific purpose of such concurrent development by the entity with jurisdiction or ownership of the property for both the potential transportation facility and the Section 4(f) property; or
+(1) Formal reservation of a property for a future transportation use can be demonstrated by a document of public record created prior to or contemporaneously with the establishment of the park, recreation area, or wildlife and waterfowl refuge. Examples of an adequate document to formally reserve a future transportation use include:
 
-(2) Designation, donation, planning, or development of property by two or more governmental agencies with jurisdiction for the potential transportation facility and the Section 4(f) property, in consultation with each other.
+(i) A map of public record that depicts a transportation facility on the property;
+
+(ii) A land use or zoning plan depicting a transportation facility on the property; or
+
+(iii) A fully executed real estate instrument that references a future transportation facility on the property.
+
+(2) Concurrent or joint planning or development can be demonstrated by a document of public record created after, contemporaneously with, or prior to the establishment of the Section 4(f) property. Examples of an adequate document to demonstrate concurrent or joint planning or development include:
+
+(i) A document of public record that describes or depicts the designation or donation of the property for both the potential transportation facility and the Section 4(f) property; or
+
+(ii) A map of public record, memorandum, planning document, report, or correspondence that describes or depicts action taken with respect to the property by two or more governmental agencies with jurisdiction for the potential transportation facility and the Section 4(f) property, in consultation with each other.
+
+[73 FR 13395, Mar. 12, 2008, as amended at 83 FR 54506, Oct. 29, 2018]

@@ -1,5 +1,7 @@
 ##### § 51.50 Eligible veterans. #####
 
+Link to an amendment published at 83 FR 61275, Nov. 28, 2018.
+
 A veteran is an eligible veteran under this part if VA determines that the veteran needs nursing home care and the veteran is within one of the following categories:
 
 (a) Veterans with service-connected disabilities;
