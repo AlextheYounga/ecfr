@@ -1,6 +1,6 @@
 ##### § 64.1200 Delivery restrictions. #####
 
-Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.Link to an amendment published at 86 FR 74375, Dec. 30, 2021.Link to an amendment published at 87 FR 7044, Feb. 8, 2022.
+Link to an amendment published at 86 FR 11448, Feb. 25, 2021.Link to an amendment published at 86 FR 17735, Apr. 6, 2021.
 
 (a) No person or entity may:
 
@@ -322,7 +322,7 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (iv) In the case of a code transmitting from a non-IP network to an IP network, ISUP code 21 must map to SIP code 603, 607, or 608 where the cause location is “user.”
 
-(10) [Reserved]
+(10) Any terminating provider that blocks calls pursuant to an opt-out or opt-in analytics program, either itself or through a third-party blocking service, must provide, at the request of the subscriber to a number, at no additional charge and within 3 business days of such a request, a list of calls to that number, including the date and time of the call and the calling number, that the terminating provider or its designee blocked pursuant to such analytics program within the 28 days prior to the request.
 
 (11) A terminating provider may block calls without liability under the Communications Act and the Commission's rules, without giving consumers the opportunity to opt out of such blocking, so long as:
 
@@ -360,8 +360,8 @@ The requirement in paragraph 64.1200(c)(2)(i)(D) for persons or entities to empl
 
 (1) Respond fully and in a timely matter to all traceback requests from the Commission, civil law enforcement, criminal law enforcement, and the industry traceback consortium;
 
-(2) [Reserved]
+(2) Take steps to effectively mitigate illegal traffic when it receives actual written notice of such traffic from the Commission through its Enforcement Bureau. In providing notice, the Enforcement Bureau shall identify with as much particularity as possible the suspected traffic; provide the basis for the Enforcement Bureau's reasonable belief that the identified traffic is unlawful; cite the statutory or regulatory provisions the suspected traffic appears to violate; and direct the voice service provider receiving the notice that it must comply with this section. Each notified provider must promptly investigate the identified traffic. Each notified provider must then promptly report the results of its investigation to the Enforcement Bureau, including any steps the provider has taken to effectively mitigate the identified traffic or an explanation as to why the provider has reasonably concluded that the identified calls were not illegal and what steps it took to reach that conclusion. Should the notified provider find that the traffic comes from an upstream provider with direct access to the U.S. Public Switched Telephone Network, that provider must promptly inform the Enforcement Bureau of the source of the traffic and, if possible, take steps to mitigate this traffic; and
 
 (3) Take affirmative, effective measures to prevent new and renewing customers from using its network to originate illegal calls, including knowing its customers and exercising due diligence in ensuring that its services are not used to originate illegal traffic.
 
-[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021; 86 FR 17734,17735, Apr. 6, 2021; 86 FR 74375, Dec. 30, 2021]
+[68 FR 44177, July 25, 2003, as amended at 68 FR 59131, Oct. 14, 2003; 69 FR 60316, Oct. 8, 2004; 70 FR 19337, Apr. 13, 2005; 71 FR 25977, May 3, 2006; 71 FR 56893, Sept. 28, 2006; 71 FR 75122, Dec. 14, 2006; 73 FR 40185, July 14, 2008; 77 FR 34246, June 11, 2012; 83 FR 1577, Jan. 12, 2018; 84 FR 10267, Mar. 20, 2019; 84 FR 11232, Mar. 26, 2019; 85 FR 56534, Sept. 14, 2020; 86 FR 2563, Jan. 13, 2021; 86 FR 11447, Feb. 25, 2021; 86 FR 17734,17735, Apr. 6, 2021; 86 FR 74375, Dec. 30, 2021; 87 FR 7044, Feb. 8, 2022]
