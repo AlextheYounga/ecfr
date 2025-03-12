@@ -1,12 +1,10 @@
 ##### § 571.212 Standard No. 212; Windshield mounting. #####
 
-Link to an amendment published at 87 FR 18597, Mar. 30, 2022.
-
 S1. *Scope.* This standard establishes windshield retention requirements for motor vehicles during crashes.
 
 S2. *Purpose.* The purpose of this standard is to reduce crash injuries and fatalities by providing for retention of the vehicle windshield during a crash, thereby utilizing fully the penetration-resistance and injury-avoidance properties of the windshield glazing material and preventing the ejection of occupants from the vehicle.
 
-S3. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks, and buses having a gross vehicle weight rating of 4536 kilograms or less. However, it does not apply to forward control vehicles, walk-in van-type vehicles, or to open-body type vehicles with fold-down or removable windshields.
+S3. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks designed to carry at least one person, and buses having a gross vehicle weight rating of 4,536 kilograms or less. However, it does not apply to forward control vehicles, walk-in van-type vehicles, or to open-body type vehicles with fold-down or removable windshields.
 
 S4. *Definition. Passive restraint system* means a system meeting the occupant crash protection requirements of S5. of Standard No. 208 by means that require no action by vehicle occupants.
 
@@ -32,4 +30,4 @@ S6.4 Tires are inflated to the vehicle manufacturer's specifications.
 
 S6.5 The windshield mounting material and all vehicle components in direct contact with the mounting material are at any temperature between −9 degrees Celsius and + 43 degrees Celsius.
 
-[41 FR 36494, Aug. 30, 1976, as amended at 42 FR 34289, July 5, 1977; 45 FR 22046, Apr. 3, 1980; 60 FR 13647, Mar. 14, 1995]
+[41 FR 36494, Aug. 30, 1976, as amended at 42 FR 34289, July 5, 1977; 45 FR 22046, Apr. 3, 1980; 60 FR 13647, Mar. 14, 1995; 87 FR 18597, Mar. 30, 2022]

@@ -1,5 +1,7 @@
 ##### § 29.11 Limitations. #####
 
+Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
+
 Nothing in this subpart or in any apprenticeship agreement will operate to invalidate:
 
 (a) Any apprenticeship provision in any collective bargaining agreement between employers and employees establishing higher apprenticeship standards; or

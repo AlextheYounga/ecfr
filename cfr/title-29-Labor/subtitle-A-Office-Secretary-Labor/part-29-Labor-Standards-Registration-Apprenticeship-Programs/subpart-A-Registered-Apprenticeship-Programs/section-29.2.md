@@ -1,5 +1,7 @@
 ##### § 29.2 Definitions. #####
 
+Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
+
 For the purpose of this subpart:
 
 *Administrator* means the Administrator of the Office of Apprenticeship, or any person specifically designated by the Administrator.

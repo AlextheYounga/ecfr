@@ -1,18 +1,16 @@
 ##### § 571.201 Standard No. 201; Occupant protection in interior impact. #####
 
-Link to an amendment published at 87 FR 18587, Mar. 30, 2022.
-
 S1. *Purpose and scope.* This standard specifies requirements to afford impact protection for occupants.
 
-S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses with a GVWR of 4,536 kilograms or less, except that the requirements of S6 do not apply to buses with a GVWR of more than 3,860 kilograms.
+S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks designed to carry at least one person, and buses with a GVWR of 4,536 kilograms or less, except that the requirements of S6 do not apply to buses with a GVWR of more than 3,860 kilograms.
 
 S3. *Definitions.*
 
-*A-pillar* means any pillar that is entirely forward of a transverse vertical plane passing through the seating reference point of the driver's seat.
+*A-pillar* means any pillar that is entirely forward of a transverse vertical plane passing through the seating reference point of the driver's designated seating position or, if there is no driver's designated seating position, any pillar that is entirely forward of a transverse vertical plane passing through the seating reference point of the rearmost designated seating position in the front row of seats.
 
 *Ambulance* means a motor vehicle designed exclusively for the purpose of emergency medical care, as evidenced by the presence of a passenger compartment to accommodate emergency medical personnel, one or more patients on litters or cots, and equipment and supplies for emergency care at a location or during transport.
 
-*B-pillar* means the forwardmost pillar on each side of the vehicle that is, in whole or in part, rearward of a transverse vertical plane passing through the seating reference point of the driver's seat, unless:
+*B-pillar* means the forwardmost pillar on each side of the vehicle that is, in whole or in part, rearward of a transverse vertical plane passing through the seating reference point of the driver's designated seating position or, if there is no driver's designated seating position, the forwardmost pillar on each side of the vehicle that is, in whole or in part, rearward of a transverse vertical plane passing through the seating reference point of the rearmost designated seating position in the front row of seats, unless:
 
 (1) There is only one pillar rearward of that plane and it is also a rearmost pillar; or
 
@@ -62,7 +60,7 @@ S3. *Definitions.*
 
 *Pillar* means any structure, excluding glazing and the vertical portion of door window frames, but including accompanying moldings, attached components such as safety belt anchorages and coat hooks, which:
 
-(1) Supports either a roof or any other structure (such as a roll-bar) that is above the driver's head, or
+(1) If there is a driver's designated seating position, supports either a roof or any other structure (such as a roll-bar) that is above the driver's head, or if there is no driver's designated seating position, supports either a roof or any other structure (such as a roll-bar) that is above the occupant in the rearmost designated seating position in the front row of seats, or
 
 (2) Is located along the side edge of a window.
 
@@ -98,11 +96,11 @@ S4.2 Vehicles manufactured on or after September 1, 1998 shall comply with the r
 
 S5 *Requirements for instrument panels, seat backs, interior compartment doors, sun visors, and armrests.* Each vehicle shall comply with the requirements specified in S5.1 through S5.5.2.
 
-S5.1 *Instrument panels.* Except as provided in S5.1.1, when that area of the instrument panel that is within the head impact area is impacted in accordance with S5.1.2 by a 6.8 kilogram, 165 mm diameter head form at -
+S5.1 *Instrument panels.* Except as provided in S5.1.1, when that area of the instrument panel that is within the head impact area is impacted in accordance with S5.1.2 by a 6.8 kilogram, 165 mm diameter head form at—
 
 (a) A relative velocity of 24 kilometers per hour for all vehicles except those specified in paragraph (b) of this section,
 
-(b) A relative velocity of 19 kilometers per hour for vehicles that meet the occupant crash protection requirements of S5.1 of 49 CFR 571.208 by means of inflatable restraint systems and meet the requirements of S4.1.5.1(a)(3) by means of a Type 2 seat belt assembly at the right front designated seating position, the deceleration of the head form shall not exceed 80 g continuously for more than 3 milliseconds.
+(b) A relative velocity of 19 kilometers per hour for vehicles that meet the occupant crash protection requirements of S5.1 of 49 CFR 571.208 by means of inflatable restraint systems and meet the requirements of S4.1.5.1(a)(3) by means of a Type 2 seat belt assembly at any front passenger designated seating position, the deceleration of the head form shall not exceed 80 g continuously for more than 3 milliseconds.
 
 S5.1.1 The requirements of S5.1 do not apply to:
 
@@ -112,13 +110,13 @@ S5.1.1 The requirements of S5.1 do not apply to:
 
 (c) Areas closer to the windshield juncture than those statically contactable by the head form with the windshield in place;
 
-(d) Areas outboard of any point of tangency on the instrument panel of a 165 mm diameter head form tangent to and inboard of a vertical longitudinal plane tangent to the inboard edge of the steering wheel; or
+(d) If the steering control is present, areas outboard of any point of tangency on the instrument panel of a 165 mm diameter head form tangent to and inboard of a vertical longitudinal plane tangent to the inboard edge of the steering control; or
 
 (e) Areas below any point at which a vertical line is tangent to the rearmost surface of the panel.
 
 S5.1.2 *Demonstration procedures.* Tests shall be performed as described in SAE Recommended Practice J921 (1965) (incorporated by reference, see § 571.5), using the specified instrumentation or instrumentation that meets the performance requirements specified in SAE Recommended Practice J977 (1966) (incorporated by reference, see § 571.5), except that:
 
-(a) The origin of the line tangent to the instrument panel surface shall be a point on a transverse horizontal line through a point 125 mm horizontally forward of the seating reference point of the front outboard passenger designated seating position, displaced vertically an amount equal to the rise which results from a 125 mm forward adjustment of the seat or 19 mm; and
+(a) The origin of the line tangent to the instrument panel surface shall be a point on a transverse horizontal line through a point 125 mm horizontally forward of the seating reference point of any front outboard passenger designated seating position, displaced vertically an amount equal to the rise which results from a 125 mm forward adjustment of the seat or 19 mm; and
 
 (b) Direction of impact shall be either:
 
@@ -306,7 +304,7 @@ S6.3 A vehicle need not meet the requirements of S6.1 through S6.2 for:
 
 (a) Any target located on a convertible roof frame or a convertible roof linkage mechanism.
 
-(b) Any target located rearward of a vertical plane 600 mm behind the seating reference point of the rearmost designated seating position. For altered vehicles and vehicles built in two or more stages, including ambulances and motor homes, any target located rearward of a vertical plane 300 mm behind the seating reference point of the driver's designated seating position (tests for altered vehicles and vehicles built in two or more stages do not include, within the time period for measuring HIC(d), any free motion headform contact with components rearward of this plane). If an altered vehicle or vehicle built in two or more stages is equipped with a transverse vertical partition positioned between the seating reference point of the driver's designated seating position and a vertical plane 300 mm behind the seating reference point of the driver's designated seating position, any target located rearward of the vertical partition is excluded.
+(b) Any target located rearward of a vertical plane 600 mm behind the seating reference point of the rearmost designated seating position. For altered vehicles and vehicles built in two or more stages, including ambulances and motor homes, any target located rearward of a vertical plane 300 mm behind the seating reference point of the driver's designated seating position or the rearmost designated seating position in the front row of seats, if there is no driver's designated seating position (tests for altered vehicles and vehicles built in two or more stages do not include, within the time period for measuring HIC(d), any free motion headform contact with components rearward of this plane). If an altered vehicle or vehicle built in two or more stages is equipped with a transverse vertical partition positioned between the seating reference point of the driver's designated seating position and a vertical plane 300 mm behind the seating reference point of the driver's designated seating position, any target located rearward of the vertical partition is excluded.
 
 (c) Any target in a vehicle manufactured in two or more stages that is delivered to a final stage manufacturer without an occupant compartment. Note: Motor homes, ambulances, and other vehicles manufactured using a chassis cab, a cut-away van, or any other incomplete vehicle delivered to a final stage manufacturer with a furnished front compartment are not excluded under this S6.3(c).
 
@@ -356,11 +354,11 @@ S8.4 *Doors.*
 
 S8.5 *Sun visors.* Each sun visor shall be placed in any position where one side of the visor is in contact with the vehicle interior surface (windshield, side rail, front header, roof, etc.).
 
-S8.6 *Steering wheel and seats.*
+S8.6 *Steering control and seats.*
 
-(a) During targeting, the steering wheel and seats may be placed in any position intended for use while the vehicle is in motion.
+(a) During targeting, the steering control and seats may be placed in any position intended for use while the vehicle is in motion.
 
-(b) During testing, the steering wheel and seats may be removed from the vehicle.
+(b) During testing, the steering control and seats may be removed from the vehicle.
 
 S8.7 *Seat belt anchorages.* If a target is on a seat belt anchorage, and if the seat belt anchorage is adjustable, tests are conducted with the anchorage adjusted to a point midway between the two extreme adjustment positions. If the anchorage has distinct adjustment positions, none of which is midway between the two extreme positions, tests are conducted with the anchorage adjusted to the nearest position above the midpoint of the two extreme positions.
 
@@ -407,8 +405,6 @@ S8.13.2 The headform travels freely through the air, along a velocity vector tha
 S8.13.3 At the time of initial contact between the headform and the vehicle interior surface, some portion of the forehead impact zone of the headform must contact some portion of the target circle.
 
 S8.13.4 *Approach angles.* The headform launching angle is as specified in Table 1. For components for which Table 1 specifies a range of angles, the headform launching angle is within the limits determined using the procedures specified in S8.13.4.1 and S8.13.4.2, and within the range specified in Table 1, using the orthogonal reference system specified in S9.
-
-Table 1 - Approach Angle Limits (in Degrees)
 
 |         Target component         |Horizontal Angle|Vertical angle|
 |----------------------------------|----------------|--------------|
@@ -543,29 +539,29 @@ S8.15 *Upper Roof.* The upper roof of a vehicle is determined according to the p
 
 (2) A longitudinal vertical plane G located at a distance of (.35 D2) to the left of Point M and a longitudinal vertical plane H located at a distance of (.35 D2) to the right of Point M, measured horizontally.
 
-S8.16 *Test weight - vehicle to pole test.* Each vehicle shall be loaded to its unloaded vehicle weight, plus 136 kilograms (300 pounds) or its rated cargo and luggage capacity (whichever is less), secured in the luggage or load-carrying area, plus the weight of the necessary anthropomorphic test dummy. Any added test equipment shall be located away from impact areas in secure places in the vehicle.
+S8.16 *Test weight—vehicle to pole test.* Each vehicle shall be loaded to its unloaded vehicle weight, plus 136 kilograms (300 pounds) or its rated cargo and luggage capacity (whichever is less), secured in the luggage or load-carrying area, plus the weight of the necessary anthropomorphic test dummy. Any added test equipment shall be located away from impact areas in secure places in the vehicle.
 
-S8.17 *Vehicle test attitude - vehicle to pole test.* Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its “as delivered” condition. The “as delivered” condition is the vehicle as received at the test site, filled to 100 percent of all fluid capacities and with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's “fully loaded condition.” The “fully loaded condition” is the test vehicle loaded in accordance with S8.16. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be the same as either the “as delivered” or “fully loaded” attitude or is between the “as delivered” attitude and the “fully loaded” attitude. If the test configuration requires that the vehicle be elevated off the ground, the pretest vehicle attitude must be maintained.
+S8.17 *Vehicle test attitude—vehicle to pole test.* Determine the distance between a level surface and a standard reference point on the test vehicle's body, directly above each wheel opening, when the vehicle is in its “as delivered” condition. The “as delivered” condition is the vehicle as received at the test site, filled to 100 percent of all fluid capacities and with all tires inflated to the manufacturer's specifications listed on the vehicle's tire placard. Determine the distance between the same level surface and the same standard reference points in the vehicle's “fully loaded condition.” The “fully loaded condition” is the test vehicle loaded in accordance with S8.16. The load placed in the cargo area shall be centered over the longitudinal centerline of the vehicle. The pretest vehicle attitude shall be the same as either the “as delivered” or “fully loaded” attitude or is between the “as delivered” attitude and the “fully loaded” attitude. If the test configuration requires that the vehicle be elevated off the ground, the pretest vehicle attitude must be maintained.
 
-S8.18 *Adjustable seats - vehicle to pole test.* Initially, adjustable seats shall be adjusted as specified in S8.3.2.1 of Standard 214 (49 CFR 571.214).
+S8.18 *Adjustable seats—vehicle to pole test.* Initially, adjustable seats shall be adjusted as specified in S8.3.2.1 of Standard 214 (49 CFR 571.214).
 
-S8.19 *Adjustable seat back placement - vehicle to pole test.* Initially, position adjustable seat backs in the manner specified in S8.3.2.2 of Standard 214 (49 CFR 571.214).
+S8.19 *Adjustable seat back placement—vehicle to pole test.* Initially, position adjustable seat backs in the manner specified in S8.3.2.2 of Standard 214 (49 CFR 571.214).
 
-S8.20 *Adjustable steering wheels - vehicle to pole test.* Adjustable steering controls shall be adjusted so that the steering wheel hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions.
+S8.20 *Adjustable steering controls—vehicle to pole test.* Adjustable steering controls shall be adjusted so that the steering control hub is at the geometric center of the locus it describes when it is moved through its full range of driving positions.
 
-S8.21 *Windows and sunroof - vehicle to pole test.* Movable windows and vents shall be placed in the fully open position. Any sunroof shall be placed in the fully closed position.
+S8.21 *Windows and sunroof—vehicle to pole test.* Movable windows and vents shall be placed in the fully open position. Any sunroof shall be placed in the fully closed position.
 
-S8.22 *Convertible tops - vehicle to pole test.* The top, if any, of convertibles and open-body type vehicles shall be in the closed passenger compartment configuration.
+S8.22 *Convertible tops—vehicle to pole test.* The top, if any, of convertibles and open-body type vehicles shall be in the closed passenger compartment configuration.
 
-S8.23 *Doors - vehicle to pole test.* Doors, including any rear hatchback or tailgate, shall be fully closed and latched but not locked.
+S8.23 *Doors—vehicle to pole test.* Doors, including any rear hatchback or tailgate, shall be fully closed and latched but not locked.
 
-S8.24 *Impact reference line - vehicle to pole test.* On the striking side of the vehicle, place an impact reference line at the intersection of the vehicle exterior and a transverse vertical plane passing through the center of gravity of the head of the dummy seated in accordance with S8.28, in the front outboard designated seating position.
+S8.24 *Impact reference line—vehicle to pole test.* On the striking side of the vehicle, place an impact reference line at the intersection of the vehicle exterior and a transverse vertical plane passing through the center of gravity of the head of the dummy seated in accordance with S8.28, in any front outboard designated seating position.
 
-S8.25 *Rigid Pole - vehicle to pole test.* The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.16 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm ±3 mm (10 inches) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
+S8.25 *Rigid Pole—vehicle to pole test.* The rigid pole is a vertical metal structure beginning no more than 102 millimeters (4 inches) above the lowest point of the tires on the striking side of the test vehicle when the vehicle is loaded as specified in S8.16 and extending above the highest point of the roof of the test vehicle. The pole is 254 mm ±3 mm (10 inches) in diameter and set off from any mounting surface, such as a barrier or other structure, so that the test vehicle will not contact such a mount or support at any time within 100 milliseconds of the initiation of vehicle to pole contact.
 
-S8.26 *Impact configuration - vehicle to pole test.* The rigid pole shall be stationary. The test vehicle shall be propelled sideways so that its line of forward motion forms an angle of 90 degrees (±3 degrees) with the vehicle's longitudinal center line. The impact reference line shall be aligned with the center line of the rigid pole so that, when the vehicle-to-pole contact occurs, the center line of the pole contacts the vehicle area bounded by two transverse vertical planes 38 mm (1.5 inches) forward and aft of the impact reference line.
+S8.26 *Impact configuration—vehicle to pole test.* The rigid pole shall be stationary. The test vehicle shall be propelled sideways so that its line of forward motion forms an angle of 90 degrees (±3 degrees) with the vehicle's longitudinal center line. The impact reference line shall be aligned with the center line of the rigid pole so that, when the vehicle-to-pole contact occurs, the center line of the pole contacts the vehicle area bounded by two transverse vertical planes 38 mm (1.5 inches) forward and aft of the impact reference line.
 
-S8.27 *Anthropomorphic test dummy - vehicle to pole test.*
+S8.27 *Anthropomorphic test dummy—vehicle to pole test.*
 
 S8.27.1 The anthropomorphic test dummy used for evaluation of a vehicle's head impact protection shall conform to the requirements of subpart M of part 572 of this chapter (49 CFR part 572, subpart M). In a test in which the test vehicle is striking its left side, the dummy is to be configured and instrumented to strike on its left side, in accordance with subpart M of part 572. In a test in which the test vehicle is striking its right side, the dummy is to be configured and instrumented to strike its right side, in accordance with subpart M of part 572.
 
@@ -577,7 +573,7 @@ S8.27.4 The stabilized temperature of the test dummy at the time of the side imp
 
 S8.27.5 The acceleration data from the accelerometers installed inside the skull cavity of the test dummy are processed according to the practices set forth in SAE Recommended Practice J211, March 1995, “Instrumentation for Impact Tests,” Class 1000.
 
-S8.28 *Positioning procedure for the Part 572 Subpart M test dummy - vehicle to pole test.* The part 572, subpart M, test dummy is initially positioned in the front outboard seating position on the struck side of the vehicle in accordance with the provisions of S12.1 of Standard 214 (49 CFR 571.214), and the vehicle seat is positioned as specified in S8.3.2.1 and S8.3.2.2 of that standard. The position of the dummy is then measured as follows. Locate the horizontal plane passing through the dummy head center of gravity. Identify the rearmost point on the dummy head in that plane. Construct a line in the plane that contains the rearward point of the front door daylight opening and is perpendicular to the longitudinal vehicle centerline. Measure the longitudinal distance between the rearmost point on the dummy head and this line. If this distance is less than 50 mm (2 inches) or the point is not forward of the line, then the seat and/or dummy positions is adjusted as follows. First, the seat back angle is adjusted, a maximum of 5 degrees, until a 50 mm (2 inches) distance is achieved. If this is not sufficient to produce the 50 mm (2 inches) distance, the seat is moved forward until the 50 mm (2 inches) distance is achieved or until the knees of the dummy contact the dashboard or knee bolster, whichever comes first. If the required distance cannot be achieved through movement of the seat, the seat back angle is adjusted even further forward until the 50 mm (2 inches) distance is obtained or until the seat back is in its fully upright locking position.
+S8.28 *Positioning procedure for the Part 572 Subpart M test dummy—vehicle to pole test.* The part 572, subpart M, test dummy is initially positioned in the front outboard seating position on the struck side of the vehicle in accordance with the provisions of S12.1 of Standard 214 (49 CFR 571.214), and the vehicle seat is positioned as specified in S8.3.2.1 and S8.3.2.2 of that standard. The position of the dummy is then measured as follows. Locate the horizontal plane passing through the dummy head center of gravity. Identify the rearmost point on the dummy head in that plane. Construct a line in the plane that contains the rearward point of the front door daylight opening and is perpendicular to the longitudinal vehicle centerline. Measure the longitudinal distance between the rearmost point on the dummy head and this line. If this distance is less than 50 mm (2 inches) or the point is not forward of the line, then the seat and/or dummy positions is adjusted as follows. First, the seat back angle is adjusted, a maximum of 5 degrees, until a 50 mm (2 inches) distance is achieved. If this is not sufficient to produce the 50 mm (2 inches) distance, the seat is moved forward until the 50 mm (2 inches) distance is achieved or until the knees of the dummy contact the dashboard or knee bolster, whichever comes first. If the required distance cannot be achieved through movement of the seat, the seat back angle is adjusted even further forward until the 50 mm (2 inches) distance is obtained or until the seat back is in its fully upright locking position.
 
 S9. *Orthogonal Reference System.* The approach angles specified in S8.13.4 are determined using the reference system specified in S9.1 through S9.4.
 

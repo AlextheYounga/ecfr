@@ -1,12 +1,10 @@
 ##### § 571.219 Standard No. 219; Windshield zone intrusion. #####
 
-Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
-
 S1. *Scope.* This standard specifies limits for the displacement into the windshield area of motor vehicle components during a crash.
 
 S2. *Purpose.* The purpose of this standard is to reduce crash injuries and fatalities that result from occupants contacting vehicle components displaced near or through the windshield.
 
-S3. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks and buses of 4,536 kilograms or less gross vehicle weight rating. However, it does not apply to forward control vehicles, walk-in van-type vehicles, or to open-body-type vehicles with fold-down or removable windshields.
+S3. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks designed to carry at least one person, and buses of 4,536 kilograms or less gross vehicle weight rating. However, it does not apply to forward control vehicles, walk-in van-type vehicles, or to open-body-type vehicles with fold-down or removable windshields.
 
 S4. *Definitions. Daylight Opening* (DLO) means the maximum unobstructed opening through the glazing surface, including reveal or garnish moldings adjoining the surface, as measured parallel to the outer surface of the glazing material.
 
@@ -54,4 +52,4 @@ S7.7 The vehicle, including test devices and instrumentation, is loaded as follo
 
 (b) Except as specified in S7.6, a multipurpose passenger vehicle, truck or bus is loaded to its unloaded vehicle weight, plus 136 kg or its rated cargo and luggage capacity, whichever is less, secured to the vehicle, plus a 50th-percentile test dummy as specified in part 572 of this chapter at each front outboard designated seating postion and at any other position whose protection system is required to be tested by a dummy under the provisions of Standard No. 208. Each dummy is restrained only by means that are installed for protection at its seating position. The load is distributed so that the mass on each axle as measured at the tire-ground interface is in proportion to its GAWR. If the mass on any axle when the vehicle is loaded to its unloaded vehicle weight plus dummy mass exceeds the axle's proportional share of the test mass, the remaining mass is placed so that the mass on that axle remains the same. For the purposes of this section, unloaded vehicle weight does not include the mass of work-performing accessories. Vehicles are tested to a maximum unloaded vehicle weight of 2,495 kg.
 
-![](/graphics/er27my98.007.gif)[40 FR 25462, June 16, 1975, as amended at 40 FR 53033, Nov. 14, 1975; 41 FR 54946, Dec. 16, 1976; 45 FR 22046, Apr. 3, 1980; 63 FR 28946, May 27, 1998]
+![](/graphics/er27my98.007.gif)[40 FR 25462, June 16, 1975, as amended at 40 FR 53033, Nov. 14, 1975; 41 FR 54946, Dec. 16, 1976; 45 FR 22046, Apr. 3, 1980; 63 FR 28946, May 27, 1998; 87 FR 18599, Mar. 30, 2022]

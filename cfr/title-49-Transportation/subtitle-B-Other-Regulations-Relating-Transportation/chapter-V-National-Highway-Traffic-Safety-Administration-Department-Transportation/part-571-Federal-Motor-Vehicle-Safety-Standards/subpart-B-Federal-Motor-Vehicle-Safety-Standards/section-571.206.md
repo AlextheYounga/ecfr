@@ -1,10 +1,8 @@
 ##### § 571.206 Standard No. 206; Door locks and door retention components. #####
 
-Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
-
 S1. *Scope and Purpose.* This standard specifies requirements for vehicle door locks and door retention components, including latches, hinges, and other supporting means, to minimize the likelihood of occupants being ejected from a vehicle as a result of impact.
 
-S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, and trucks, and buses with a gross vehicle weight rating (GVWR) of 4,536 kg or less.
+S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses with a gross vehicle weight rating (GVWR) of 4,536 kg or less.
 
 S3. *Definitions.*
 
@@ -52,9 +50,9 @@ S3. *Definitions.*
 
 *Secondary Latched Position* refers to the coupling condition of the latch that retains the door in a partially closed position.
 
-*Side Front Door* is a door that, in a side view, has 50 percent or more of its opening area forward of the rearmost point on the driver's seat back, when the seat back is adjusted to its most vertical and rearward position.
+*Side Front Door* is a door that, in a side view, has 50 percent or more of its opening area forward of the rearmost point on the driver's seat back, when the seat back is adjusted to its most vertical and rearward position. For vehicles without a driver's designated seating position it is a door that in a side view, has 50 percent or more of its opening area forward of the rearmost point on the most rearward passenger's seat back in the front row of seats, when the seat backs are adjusted to their most vertical and rearward position.
 
-*Side Rear Door* is a door that, in a side view, has 50 percent or more of its opening area to the rear of the rearmost point on the driver's seat back, when the driver's seat is adjusted to its most vertical and rearward position.
+*Side Rear Door* is a door that, in a side view, has 50 percent or more of its opening area to the rear of the rearmost point on the driver's seat back, when the driver's seat is adjusted to its most vertical and rearward position. For vehicles without a driver's designated seating position it is a door that in a side view, has 50 percent or more of its opening area rear of the rearmost point on the most rearward passenger's seat back in the front row of seats, when the seat backs are adjusted to their most vertical and rearward position.
 
 *Striker* is a device with which the latch engages to maintain the door in the fully latched or secondary latched position.
 
@@ -104,7 +102,7 @@ S4.1.2.1 When tested in accordance with S5.1.2, each door hinge system shall:
 
 (2) Not separate when a load of 9,000 N is applied perpendicular to the axis of the hinge pin and parallel to the hinge face plate (transverse load test) such that the hinge plates are not compressed against each other (Load Test Two).
 
-(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three - only for back doors that open in a vertical direction).
+(3) Not separate when a load of 9,000 N is applied in the direction of the axis of the hinge pin (Load Test Three—only for back doors that open in a vertical direction).
 
 S4.1.2.2 If a single hinge within the hinge system is tested instead of the entire hinge system, the hinge must bear a load proportional to the total number of hinges in the hinge system. (For example, an individual hinge in a two-hinge system must be capable of withstanding 50% of the load requirements of the total system.)
 
@@ -228,7 +226,7 @@ S5.1.1.4 *Inertial Force Application.* The test procedures for S4.1.1.4 and S4.2
 
 (B) Longitudinal Setup 2. Orient the vehicle so that its longitudinal axis is aligned with the axis of the acceleration device, simulating a rear impact.
 
-(C) Transverse Setup 1. Orient the vehicle so that its transverse axis is aligned with the axis of the acceleration device, simulating a driver-side impact.
+(C) Transverse Setup 1. Orient the vehicle so that its transverse axis is aligned with the axis of the acceleration device, simulating a left-side impact.
 
 (D) Transverse Setup 2. (Only for vehicles having different door arrangements on each side.) Orient the vehicle so that its transverse axis is aligned with the axis of the acceleration device, simulating a side impact in the direction opposite to that described in b(1)(ii)(C) of this paragraph.
 
@@ -412,4 +410,4 @@ S5.2.2.4 *Test Procedure.*
 
 S5.3 *Sliding Side Doors.* Compliance with S4.3 shall be demonstrated by applying an outward transverse load of 8,900 Newtons (2,000 pounds) to the load-bearing members at the opposite edges of the door (17,800 Newtons (4,000 pounds) total). The demonstration may be performed either in the vehicle or with the door retention components in a bench test fixture.
 
-![](/graphics/ep06fe07.006.gif)![](/graphics/ep06fe07.007.gif)![](/graphics/ep06fe07.008.gif)![](/graphics/ep06fe07.009.gif)![](/graphics/ep06fe07.010.gif)![](/graphics/ep06fe07.011.gif)![](/graphics/ep06fe07.012.gif)![](/graphics/er19fe10.004.gif)![](/graphics/ep06fe07.014.gif)![](/graphics/ep06fe07.015.gif)![](/graphics/ep06fe07.016.gif)[36 FR 22902, Dec. 2, 1971, as amended at 37 FR 284, Jan. 8, 1972; 50 FR 12031, Mar. 27, 1985; 60 FR 13646, Mar. 14, 1995; 60 FR 50134, Sept. 28, 1995; 61 FR 39907, July 31, 1996; 72 FR 5399, June 27, 2007; 74 FR 35135, July 20, 2009; 74 FR 37176, July 28, 2009; 75 FR 7382, Feb. 19, 2010; 77 FR 764, Jan. 6, 2012]Editorial Note:At 72 FR 5399, June 27, 2007, § 571.206 was amended by adding S.5.3; however, the amendment could not be incorporated because S.5.3 already exists.
+![](/graphics/ep06fe07.006.gif)![](/graphics/ep06fe07.007.gif)![](/graphics/ep06fe07.008.gif)![](/graphics/ep06fe07.009.gif)![](/graphics/ep06fe07.010.gif)![](/graphics/ep06fe07.011.gif)![](/graphics/ep06fe07.012.gif)![](/graphics/er19fe10.004.gif)![](/graphics/ep06fe07.014.gif)![](/graphics/ep06fe07.015.gif)![](/graphics/ep06fe07.016.gif)[36 FR 22902, Dec. 2, 1971, as amended at 37 FR 284, Jan. 8, 1972; 50 FR 12031, Mar. 27, 1985; 60 FR 13646, Mar. 14, 1995; 60 FR 50134, Sept. 28, 1995; 61 FR 39907, July 31, 1996; 72 FR 5399, June 27, 2007; 74 FR 35135, July 20, 2009; 74 FR 37176, July 28, 2009; 75 FR 7382, Feb. 19, 2010; 77 FR 764, Jan. 6, 2012; 87 FR 18588, Mar. 30, 2022]Editorial Note:At 72 FR 5399, June 27, 2007, § 571.206 was amended by adding S.5.3; however, the amendment could not be incorporated because S.5.3 already exists.

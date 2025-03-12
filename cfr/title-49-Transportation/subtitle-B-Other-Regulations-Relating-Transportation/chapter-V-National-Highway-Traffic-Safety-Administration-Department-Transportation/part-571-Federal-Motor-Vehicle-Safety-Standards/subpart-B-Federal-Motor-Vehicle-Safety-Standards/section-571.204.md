@@ -1,10 +1,8 @@
 ##### § 571.204 Standard No. 204; Steering control rearward displacement. #####
 
-Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
-
 S1. *Purpose and scope.* This standard specifies requirements limiting the rearward displacement of the steering control into the passenger compartment to reduce the likelihood of chest, neck, or head injury.
 
-S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses. However, it does not apply to walk-in vans.
+S2. *Application.* This standard applies to passenger cars and to multipurpose passenger vehicles, trucks, and buses. However, it does not apply to walk-in vans or vehicles without steering controls.
 
 S3. *Definitions.*
 
@@ -34,4 +32,4 @@ S5.6 The parking brake is disengaged and the transmission is in neutral.
 
 S5.7 Tires are inflated to the vehicle manufacturer's specifications.
 
-[52 FR 44897, Nov. 23, 1987, as amended at 63 FR 28935, May 27, 1998; 63 FR 51003, Sept. 24, 1998]
+[52 FR 44897, Nov. 23, 1987, as amended at 63 FR 28935, May 27, 1998; 63 FR 51003, Sept. 24, 1998; 87 FR 18588, Mar. 30, 2022]

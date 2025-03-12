@@ -1,5 +1,7 @@
 ##### § 29.10 Hearings for deregistration. #####
 
+Link to an amendment published at 87 FR 58287, Sept. 26, 2022.
+
 (a) Within 10 days of receipt of a request for a hearing, the Administrator of the Office of Apprenticeship must contact the Department's Office of Administrative Law Judges to request the designation of an Administrative Law Judge to preside over the hearing. The Administrative Law Judge shall give reasonable notice of such hearing to the appropriate sponsor. Such notice will include:
 
 (1) A reasonable time and place of hearing;

@@ -1,7 +1,5 @@
 ##### § 45.7 Element of payable claim: proximate cause. #####
 
-Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
-
 (a) *In general.* (1) In a case otherwise payable under this part, a claimant must prove by a preponderance of evidence that a negligent or wrongful act or omission by one or more DoD health care providers was the proximate cause of the harm suffered by the member.
 
 (2) Under section 2733a(c)(1), DoD is liable for only the portion of compensable injury, loss, or damages attributable to the medical malpractice of a DoD health care provider. To the extent other causes contributed to the personal injury or death of the member, whether pre-existing, concurrent, or subsequent, the potential amount of compensation under this regulation will be reduced by that proportion of the alternative cause(s).
@@ -12,4 +10,6 @@ Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
 
 (d) *Information DoD will consider in assessing proximate cause.* (1) In addition to the information submitted by the claimant, DoD may consider all relevant information in DoD records or information systems or otherwise available to DoD, including information prepared by or on behalf of DoD in connection with adjudication of the claim.
 
-(2) DoD will consider medical quality assurance records relevant to the health care provided to the patient. DoD's Clinical Quality Management Program features reviews of many circumstances of clinical care. Results of any such reviews of the care involved in the claim that occurred before or after the claim was filed may be considered by DoD in the adjudication of the claim. As required by 10 U.S.C. 1102, DoD medical quality assurance records are confidential. While such records may be used by DoD, any information contained in or derived from such records may not be disclosed to the claimant.
+(2) DoD may consider medical quality assurance records relevant to the health care provided to the patient. DoD's Clinical Quality Management Program features reviews of many circumstances of clinical care. Results of any such reviews of the care involved in the claim that occurred before or after the claim was filed may be considered by DoD in the adjudication of the claim. As required by 10 U.S.C. 1102, DoD medical quality assurance records are confidential. While such records may be used by DoD, any information contained in or derived from such records may not be disclosed to the claimant.
+
+[86 FR 32208, June 17, 2021, as amended at 87 FR 52462, Aug. 26, 2022]

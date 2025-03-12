@@ -1,7 +1,5 @@
 ##### § 886.309 Housing assistance payment to owners. #####
 
-Link to an amendment published at 87 FR 37997, June 27, 2022.
-
 (a) *General.* Housing Assistance Payments shall be paid to Owners for units under lease by eligible Families, in accordance with the Contract and as provided in this section. These Housing Assistance Payments will cover the difference between the Contract Rent and the Tenant Rent. Where applicable, the Utility Reimbursement will be paid to the Family as an additional Housing Assistance Payment. The Contract will provide that the Owner will make this payment on behalf of HUD. Funds will be paid to the Owner in trust solely for the purpose of making this additional payment. If the Family and the utility company consent, the Owner may pay the Utility Reimbursement jointly to the Family and the utility company or directly to the utility company.
 
 (b) *No assistance for owners.* No Section 8 assistance may be provided for any unit occupied by an owner. However, cooperatives are considered rental housing rather than owner-occupied housing under this subpart.
@@ -10,7 +8,7 @@ Link to an amendment published at 87 FR 37997, June 27, 2022.
 
 (d) *Payments for vacancies after initial occupancy.* If an eligible family vacates its unit (other than as a result of action by the Owner which is in violation of the Lease or the Contract or any applicable law), the owner may receive housing assistance payments for so much of the month in which the Family vacates the unit as the unit remains vacant. Should the unit remain vacant, the Owner may receive from HUD a housing assistance payment in the amount of 80 percent of Contract Rent for a vacancy period not exceeding an additional month. However, if the owner collects any of the family's share of the rent for this period, the payment must be reduced to an amount which, when added to the family's payments, does not exceed 80 percent of the Contract Rent. Any such excess shall be reimbursed by the Owner to HUD or as HUD may direct. (See also § 886.315.) The owner shall not be entitled to any payment under this paragraph unless he or she: (1) Immediately upon learning of the vacancy, has notified HUD of the vacancy or prospective vacancy and the reasons for the vacancy, and (2) has made and continues to make a good faith effort to fill the vacancy, including but not limited to, contacting applicants on the waiting list, if any, requesting the PHA and other appropriate sources to refer eligible applicants, and advertising the availability of the unit, and (3) has not rejected any eligible applicant, except for good cause acceptable to HUD.
 
-(e) *Payments for units where family is evicted.* If the owner evicts a family, the owner shall not be entitled to any payments pursuant to paragraph (d) of this section unless the request for such payment is supported by a certification that the provisions of § 886.327 and part 247 of this title have been followed.
+(e) *Payments for units where family is evicted.* If the owner evicts a family, the owner shall not be entitled to any payments pursuant to paragraph (d) of this section unless the request for such payment is supported by a certification that the provisions of § 886.328 and part 247 of this title have been followed.
 
 (f) *Prohibition for double compensation for vacancies.* The owner shall not be entitled to housing assistance payments with respect to vacant units under this section to the extent he or she is entitled to payments from other sources (for example, payments for losses of rental income incurred for holding units vacant for relocatees pursuant to Title I of the HCD Act or payments under § 886.315).
 
@@ -30,4 +28,4 @@ Link to an amendment published at 87 FR 37997, June 27, 2022.
 
 (3) HUD may deny any claim for additional payments or suspend or terminate payments if it determines that based on the Owner's statement and other evidence, there is not a reasonable prospect that the project can achieve financial soundness within a reasonable time.
 
-[44 FR 70365, Dec. 6, 1979, as amended at 49 FR 19949, May 10, 1984; 53 FR 3369, Feb. 5, 1988; 58 FR 43722, Aug. 17, 1993]
+[44 FR 70365, Dec. 6, 1979, as amended at 49 FR 19949, May 10, 1984; 53 FR 3369, Feb. 5, 1988; 58 FR 43722, Aug. 17, 1993; 87 FR 37997, June 27, 2022]

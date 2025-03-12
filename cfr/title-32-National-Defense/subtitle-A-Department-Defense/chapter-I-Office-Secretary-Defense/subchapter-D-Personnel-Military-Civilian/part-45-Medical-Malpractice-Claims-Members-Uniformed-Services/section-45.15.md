@@ -1,7 +1,5 @@
 ##### § 45.15 Other claims procedures and administrative matters. #####
 
-Link to an amendment published at 87 FR 52463, Aug. 26, 2022.
-
 (a) *Payment of damages.* In the event damages are awarded, the claimant or the claimant's estate is entitled to payment of those damages.
 
 (b) *Communication through counsel.* If the claimant is represented by counsel, all communications will be through the claimant's counsel.
@@ -12,4 +10,6 @@ Link to an amendment published at 87 FR 52463, Aug. 26, 2022.
 
 (e) *Monitoring claims adjudications under this part.* The General Counsel of the Defense Health Agency will monitor the performance of the claims adjudications structures and procedures under this part, including accounting for the number of claims processed under this part and the resolution of each claim and identifying means to enhance the effectiveness of the claims adjudication process.
 
-(f) *Authority for actions under this part.* To ensure consistency and compliance with statutory requirements, supplementation of the procedures in this part is not permitted without approval in writing by the General Counsel of the Department of Defense. The General Counsel of the Department of Defense, under DoD Directive 5145.01, “General Counsel of the Department of Defense,” may delegate in writing authority for making Initial and Final Determinations, and other actions by DoD officials under this part. As used in this part, and at DoD's discretion, “DoD” may include, but is not limited to, Military Departments.
+(f) *Authority for actions under this part.* To ensure consistency and compliance with statutory requirements, supplementation of the procedures in this part is not permitted without approval in writing by the General Counsel of the Department of Defense. The General Counsel of the Department of Defense, under DoD Directive 5145.01, “General Counsel of the Department of Defense,” may delegate in writing authority for making Initial and Final Determinations, and other actions by DoD officials under this part. As used in this part, and at DoD's discretion, “DoD” or “DoD Components” may include, but is not limited to, Military Departments.
+
+[86 FR 32208, June 17, 2021, as amended at 87 FR 52463, Aug. 26, 2022]

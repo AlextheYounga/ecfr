@@ -1,7 +1,5 @@
 ##### § 571.216a Standard No. 216a; Roof crush resistance; Upgraded standard. #####
 
-Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
-
 S1. *Scope.* This standard establishes strength requirements for the passenger compartment roof.
 
 S2. *Purpose.* The purpose of this standard is to reduce deaths and injuries due to the crushing of the roof into the occupant compartment in rollover crashes.
@@ -10,7 +8,7 @@ S3 *Application and selection of compliance options.*
 
 S3.1 *Application.*
 
-(a) This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a GVWR of 4,536 kilograms (10,000 pounds) or less, according to the implementation schedule specified in S8 and S9 of this section. However, it does not apply to -
+(a) This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks designed to carry at least one person, and buses with a GVWR of 4,536 kilograms (10,000 pounds) or less, according to the implementation schedule specified in S8 and S9 of this section. However, it does not apply to—
 
 (1) School buses;
 
@@ -54,7 +52,7 @@ S6. *Test device.* The test device is a rigid unyielding block whose lower surfa
 
 S7. *Test procedure.* Each vehicle must be capable of meeting the requirements of S5 when tested in accordance with the procedure in S7.1 through S7.6.
 
-S7.1 Support the vehicle off its suspension and rigidly secure the sills and the chassis frame (when applicable) of the vehicle on a rigid horizontal surface(s) at a longitudinal attitude of 0 degrees ±0.5 degrees. Measure the longitudinal vehicle attitude along both the driver and passenger sill. Determine the lateral vehicle attitude by measuring the vertical distance between a level surface and a standard reference point on the bottom of the driver and passenger side sills. The difference between the vertical distance measured on the driver side and the passenger side sills is not more than ±10 mm. Close all windows, close and lock all doors, and close and secure any moveable roof panel, moveable shade, or removable roof structure in place over the occupant compartment. Remove roof racks or other non-structural components. For a vehicle built on a chassis-cab incomplete vehicle that has some portion of the added body structure above the height of the incomplete vehicle, remove the entire added body structure prior to testing (the vehicle's unloaded vehicle weight as specified in S5 includes the weight of the added body structure).
+S7.1 Support the vehicle off its suspension and rigidly secure the sills and the chassis frame (when applicable) of the vehicle on a rigid horizontal surface(s) at a longitudinal attitude of 0 degrees ±0.5 degrees. Measure the longitudinal vehicle attitude along both the left and right front sill. Determine the lateral vehicle attitude by measuring the vertical distance between a level surface and a standard reference point on the bottom of the left and right front side sills. The difference between the vertical distance measured on the left front side and the right front side sills is not more than ±10 mm. Close all windows, close and lock all doors, and close and secure any moveable roof panel, moveable shade, or removable roof structure in place over the occupant compartment. Remove roof racks or other non-structural components. For a vehicle built on a chassis-cab incomplete vehicle that has some portion of the added body structure above the height of the incomplete vehicle, remove the entire added body structure prior to testing (the vehicle's unloaded vehicle weight as specified in S5 includes the weight of the added body structure).
 
 S7.2 Adjust the seats in accordance with S8.3.1 of 49 CFR 571.214. Position the top center of the head form specified in S5.2 of 49 CFR 571.201 at the location of the top center of the Head Restraint Measurement Device (HRMD) specified in 49 CFR 571.202a, in the front outboard designated seating position on the side of the vehicle being tested as follows:
 
@@ -64,17 +62,17 @@ S7.2 Adjust the seats in accordance with S8.3.1 of 49 CFR 571.214. Position the 
 
 (c) Mark the location of the top center of the HRMD in three dimensional space to locate the top center of the head form specified in S5.2 of 49 CFR 571.201.
 
-S7.3 Orient the test device as shown in Figure 1 of this section, so that -
+S7.3 Orient the test device as shown in Figure 1 of this section, so that—
 
 (a) Its longitudinal axis is at a forward angle (in side view) of 5 degrees (±0.5 degrees) below the horizontal, and is parallel to the vertical plane through the vehicle's longitudinal centerline;
 
 (b) Its transverse axis is at an outboard angle, in the front view projection, of 25 degrees below the horizontal (±0.5 degrees).
 
-S7.4 Maintaining the orientation specified in S7.3 of this section -
+S7.4 Maintaining the orientation specified in S7.3 of this section—
 
 (a) Lower the test device until it initially makes contact with the roof of the vehicle.
 
-(b) Position the test device so that -
+(b) Position the test device so that—
 
 (1) The longitudinal centerline on its lower surface is within 10 mm of the initial point of contact, or on the center of the initial contact area, with the roof; and
 
@@ -144,4 +142,4 @@ S9 *Vehicles with a GVWR above 2,722 kilograms (6,000 pounds).*
 
 (b) Vehicles that are manufactured in two or more stages or that are altered (within the meaning of 49 CFR 567.7) after having previously been certified in accordance with part 567 of this chapter are not subject to the requirements of S8.1 through S8.3. Instead, all vehicles produced by these manufacturers on or after September 1, 2017 must comply with this standard.
 
-![](/graphics/er12my09.063.gif)[74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768, Jan. 6, 2012]
+![](/graphics/er12my09.063.gif)[74 FR 22384, May 12, 2009, as amended at 75 FR 17605, Apr. 7, 2010; 77 FR 768, Jan. 6, 2012; 87 FR 18599, Mar. 30, 2022]

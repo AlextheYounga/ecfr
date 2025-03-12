@@ -1,8 +1,6 @@
 ##### § 45.11 Calculation of damages: offsets for DoD and VA Government compensation. #####
 
-Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
-
-(a) *In general.* Total potential damages calculated under this Part, both economic and non-economic, are reduced by offsetting most of the compensation otherwise provided or expected to be provided by DoD or VA for the same harm that is the subject of the medical malpractice claim. The general rule is that prospective medical malpractice damage awards are offset by DoD or VA payments and benefits that are primarily funded by Government appropriations. However, there is no offset for U.S. Government payments and benefits that are substantially funded by the military member.
+(a) *In general.* Total potential damages calculated under this part, both economic and non-economic, are reduced by offsetting most of the compensation otherwise provided or expected to be provided by DoD or VA for the same harm that is the subject of the medical malpractice claim. The general rule is that prospective medical malpractice damage awards are offset by DoD or VA payments and benefits that are primarily funded by Government appropriations. However, there is no offset for U.S. Government payments and benefits that are substantially funded by the military member. DoD is responsible for determining offsets, but claimants must provide information not available to DoD, but requested by DoD for the purpose of determining offsets.
 
 (b) *Eligibility for payments and benefits.* In determining the offsets that are applied to a medical malpractice damages award under this part, DoD presumes that a claimant will receive all the payments and benefits for which the claimant is expected to be eligible, whether or not the claimant has taken steps to obtain the payment or benefit or ultimately receives such payment or benefit. A claimant may present evidence that he or she is not eligible for a payment or benefit to rebut the presumption.
 
@@ -62,4 +60,4 @@ Link to an amendment published at 87 FR 52462, Aug. 26, 2022.
 
 (8) Medical care provided while in active service or in an active status prior to death, retirement, or separation.
 
-[86 FR 32208, June 17, 2021; 86 FR 33885, June 28, 2021]
+[86 FR 32208, June 17, 2021; 86 FR 33885, June 28, 2021, as amended at 87 FR 52462, Aug. 26, 2022]

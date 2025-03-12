@@ -1,10 +1,8 @@
 ##### § 571.207 Standard No. 207; Seating systems. #####
 
-Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
-
 S1. *Purpose and scope.* This standard establishes requirements for seats, their attachment assemblies, and their installation to minimize the possibility of their failure by forces acting on them as a result of vehicle impact.
 
-S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks and buses.
+S2. *Application.* This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, and buses.
 
 S3. *Definitions. Occupant seat* means a seat that provides at least one designated seating position.
 
@@ -12,21 +10,21 @@ S3. *Definitions. Occupant seat* means a seat that provides at least one designa
 
 S4. *Requirements.*
 
-S4.1 *Driver's seat.* Each vehicle shall have an occupant seat for the driver.
+S4.1 *Driver's seat.* Each vehicle with manually operated driving controls shall have a driver's designated seating position.
 
 S4.2. *General performance requirements.* When tested in accordance with S5, each occupant seat shall withstand the following forces, in newtons, except for: a side-facing seat; a passenger seat on a bus other than a school bus; a passenger seat on a school bus with a GVWR greater than 4,536 kilograms (10,000 pounds); and, a passenger seat on a school bus with a GVWR less than or equal to 4,536 kg manufactured before October 21, 2011.
 
-(a) In any position to which it can be adjusted - 20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
+(a) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a forward longitudinal direction;
 
-(b) In any position to which it can be adjusted - 20 times the mass of the seat in kilograms multiplied by 9.8 applied in a rearward longitudinal direction;
+(b) In any position to which it can be adjusted—20 times the mass of the seat in kilograms multiplied by 9.8 applied in a rearward longitudinal direction;
 
-(c) For a seat belt assembly attached to the seat - the force specified in paragraph (a), if it is a forward facing seat, or paragraph (b), if it is a rearward facing seat, in each case applied simultaneously with the forces imposed on the seat by the seat belt assembly when it is loaded in accordance with S4.2 of § 571.210; and
+(c) For a seat belt assembly attached to the seat—the force specified in paragraph (a), if it is a forward facing seat, or paragraph (b), if it is a rearward facing seat, in each case applied simultaneously with the forces imposed on the seat by the seat belt assembly when it is loaded in accordance with S4.2 of § 571.210; and
 
-(d) In its rearmost position - a force that produces a 373 newton meters moment about the seating reference point for each designated seating position that the seat provides, applied to the upper cross-member of the seat back or the upper seat back, in a rearward longitudinal direction for forward-facing seats and in a forward longitudinal direction for rearward-facing seats.
+(d) In its rearmost position—a force that produces a 373 newton meters moment about the seating reference point for each designated seating position that the seat provides, applied to the upper cross-member of the seat back or the upper seat back, in a rearward longitudinal direction for forward-facing seats and in a forward longitudinal direction for rearward-facing seats.
 
 S4.2.1 *Seat adjustment.* Except for vertical movement of nonlocking suspension type occupant seats in trucks or buses, each seat shall remain in its adjusted position when tested in accordance with the test procedures specified in S5.
 
-S4.3. *Restraining device for hinged or folding seats or seat backs.* Except for a passenger seat in a bus or a seat having a back that is adjustable only for the comfort of its occupants, a hinged or folding occupant seat or occupant seat back shall -
+S4.3. *Restraining device for hinged or folding seats or seat backs.* Except for a passenger seat in a bus or a seat having a back that is adjustable only for the comfort of its occupants, a hinged or folding occupant seat or occupant seat back shall—
 
 (a) Be equipped with a self-locking device for restraining the hinged or folding seat or seat back, and
 
@@ -70,4 +68,4 @@ S5.3 Apply the forces specified in S4.3.2.1(a) and (b) to a hinged or folding se
 
 S5.4 Determine the center of gravity of a seat or seat component with all cushions and upholstery in place and with the head restraint in its fully extended design position.
 
-![](/graphics/ec01au91.078.gif)![](/graphics/ec01au91.079.gif)![](/graphics/ec01au91.080.gif)![](/graphics/ec01au91.081.gif)[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008]
+![](/graphics/ec01au91.078.gif)![](/graphics/ec01au91.079.gif)![](/graphics/ec01au91.080.gif)![](/graphics/ec01au91.081.gif)[36 FR 22902, Dec. 2, 1971, as amended at 52 FR 7868, Mar. 13, 1987; 53 FR 30434, Aug. 12, 1988; 59 FR 37167, July 21, 1994; 60 FR 13647, Mar. 14, 1995; 63 FR 28935, May 27, 1998; 73 FR 62779, Oct. 21, 2008; 87 FR 18588, Mar. 30, 2022]

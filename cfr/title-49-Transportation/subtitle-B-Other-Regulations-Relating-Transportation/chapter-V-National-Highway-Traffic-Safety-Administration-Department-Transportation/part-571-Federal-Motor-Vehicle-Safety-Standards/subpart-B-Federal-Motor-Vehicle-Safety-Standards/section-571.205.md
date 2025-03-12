@@ -1,14 +1,12 @@
 ##### § 571.205 Standard No. 205, Glazing materials. #####
 
-Link to an amendment published at 87 FR 18588, Mar. 30, 2022.
-
 S1. *Scope.* This standard specifies requirements for glazing materials for use in motor vehicles and motor vehicle equipment.
 
 S2. *Purpose.* The purpose of this standard is to reduce injuries resulting from impact to glazing surfaces, to ensure a necessary degree of transparency in motor vehicle windows for driver visibility, and to minimize the possibility of occupants being thrown through the vehicle windows in collisions.
 
 S3. *Application.*
 
-(a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
+(a) This standard applies to passenger cars, multipurpose passenger vehicles, trucks designed to carry at least one person, buses, motorcycles, slide-in campers, pickup covers designed to carry persons while in motion and low speed vehicles, and to glazing materials for use in those vehicles.
 
 (b) For glazing materials manufactured before September 1, 2006, and for motor vehicles, slide-in campers and pickup covers designed to carry persons while in motion, manufactured before November 1, 2006, the manufacturer may, at its option, comply with 49 CFR 571.205(a) of this section.
 
@@ -42,7 +40,7 @@ S5.3 *Shade Bands.* Shade band areas for windshields shall comply with the requi
 
 S5.3.1 Shade bands for windshields shall comply with SAE Recommended Practice J100 (1995) (incorporated by reference, see § 571.5).
 
-S5.3.2 Except as provided in S5.3.2.1, the lower boundary of shade bands for windshields shall be a plane inclined upwards from the X axis of the vehicle at 7 degrees, passing through point V1, and parallel to the Y axis. The coordinate system and point V1 shall be as specified in Annexes 18 and 19 of European Commission for Europe (ECE) Regulation No. 43 Revision 2 - Amendment 1.
+S5.3.2 Except as provided in S5.3.2.1, the lower boundary of shade bands for windshields shall be a plane inclined upwards from the X axis of the vehicle at 7 degrees, passing through point V1, and parallel to the Y axis. The coordinate system and point V1 shall be as specified in Annexes 18 and 19 of European Commission for Europe (ECE) Regulation No. 43 Revision 2—Amendment 1.
 
 S5.3.2.1 In the area 300 mm wide centered on the intersection of the windshield surface and longitudinal vertical median plane of the vehicle, the lower boundary of shade bands for windshields shall be a plane inclined upwards from the X axis of the vehicle at 3 degrees, passing through point V1, and parallel to the Y axis.
 
@@ -52,7 +50,7 @@ S5.5 Item 4A Glazing. Item 4A glazing may be used in all areas in which Item 4 s
 
 S6. *Certification and marking.*
 
-S6.1 A prime glazing material manufacturer must certify, in accordance with 49 U.S.C. 30115, each piece of glazing material to which this standard applies that is designed -
+S6.1 A prime glazing material manufacturer must certify, in accordance with 49 U.S.C. 30115, each piece of glazing material to which this standard applies that is designed—
 
 (a) As a component of any specific motor vehicle or camper; or
 
@@ -60,7 +58,7 @@ S6.1 A prime glazing material manufacturer must certify, in accordance with 49 U
 
 S6.2 A prime glazing manufacturer certifies its glazing by adding to the marks required by section 7 of ANSI/SAE Z26.1-1996, in letters and numerals of the same size, the symbol “DOT” and a manufacturer's code mark that NHTSA assigns to the manufacturer. NHTSA will assign a code mark to a manufacturer after the manufacturer submits a written request to the Office of Vehicle Safety Compliance, National Highway Traffic Safety Administration, 400 Seventh Street, SW., Washington, DC 20590. The request must include the company name, address, and a statement from the manufacturer certifying its status as a prime glazing manufacturer as defined in S4.
 
-S6.3 A manufacturer or distributor who cuts a section of glazing material to which this standard applies, for use in a motor vehicle or camper, must -
+S6.3 A manufacturer or distributor who cuts a section of glazing material to which this standard applies, for use in a motor vehicle or camper, must—
 
 (a) Mark that material in accordance with section 7 of ANSI/SAE Z26.1-1996; and
 

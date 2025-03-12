@@ -1,10 +1,8 @@
 ##### § 571.226 Standard No. 226; Ejection Mitigation. #####
 
-Link to an amendment published at 87 FR 18599, Mar. 30, 2022.
-
 S1. *Purpose and Scope.* This standard establishes requirements for ejection mitigation systems to reduce the likelihood of complete and partial ejections of vehicle occupants through side windows during rollovers or side impact events.
 
-S2. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks and buses with a gross vehicle weight rating of 4,536 kg or less, except walk-in vans, modified roof vehicles, convertibles, and vehicles with no doors or with doors that are designed to be easily attached or removed so the vehicle can be operated without doors. Also excluded from this standard are law enforcement vehicles, correctional institution vehicles, taxis and limousines, if they have a fixed security partition separating the 1st and 2nd or 2nd and 3rd rows and if they are produced by more than one manufacturer or are altered (within the meaning of 49 CFR 567.7).
+S2. *Application.* This standard applies to passenger cars, and to multipurpose passenger vehicles, trucks designed to carry at least one person, and buses with a gross vehicle weight rating of 4,536 kg or less, except walk-in vans, modified roof vehicles, convertibles, and vehicles with no doors or with doors that are designed to be easily attached or removed so the vehicle can be operated without doors. Also excluded from this standard are law enforcement vehicles, correctional institution vehicles, taxis and limousines, if they have a fixed security partition separating the 1st and 2nd or 2nd and 3rd rows and if they are produced by more than one manufacturer or are altered (within the meaning of 49 CFR 567.7).
 
 S3. *Definitions.*
 
@@ -18,13 +16,9 @@ S3. *Definitions.*
 
 *Limited-line manufacturer* means a manufacturer that sells three or fewer carlines, as that term is defined in 49 CFR 583.4, in the United States during a production year.
 
-*Modified roof* means the replacement roof on a motor vehicle whose original roof has been removed, in part or in total, or a roof that has to be built over the driver's compartment in vehicles that did not have an original roof over the driver's compartment.
+*Modified roof* means the replacement roof on a motor vehicle whose original roof has been removed, in part or in total, or a roof that has to be built over the occupant compartment in vehicles that did not have an original roof over the occupant compartment.
 
 *Movable window* means a daylight opening composed of glazing designed to be moved with respect to the vehicle or frame while the vehicle is in motion.
-
-*Row* means a set of one or more seats whose seat outlines do not overlap with the seat outline of any other seats, when all seats are adjusted to their rearmost normal riding or driving position, when viewed from the side.
-
-*Seat outline* means the outer limits of a seat projected laterally onto a vertical longitudinal vehicle plane.
 
 *Side daylight opening* means, other than a door opening, the locus of all points where a horizontal line, perpendicular to the vehicle vertical longitudinal plane, is tangent to the periphery of the opening. The periphery includes surfaces 100 millimeters inboard of the inside surface of the window glazing and 25 mm outboard of the outside surface of the side glazing. The periphery excludes the following: any flexible gasket material or weather stripping used to create a waterproof seal between the glazing or door and the vehicle interior; grab handles used to facilitate occupant egress and ingress; and any part of a seat.
 
@@ -84,15 +78,15 @@ S5.2.1.2 *Rearmost limit of offset line.*
 
 (a) *Seats fixed in a forward facing direction.* Except as provided in S5.2.1.2(b), if an offset line extends rearward of a transverse vertical vehicle plane located behind the seating reference point at the distance specified in 5.2.1.2(a)(1) or (2), the transverse vertical vehicle plane defines the rearward edge of the offset line for the purposes of determining target locations.
 
-(1) For a vehicle with fewer than 3 rows - 1,400 mm behind the rearmost SgRP.
+(1) For a vehicle with fewer than 3 rows—1,400 mm behind the rearmost SgRP.
 
-(2) For a vehicle with 3 or more rows - 600 mm behind the 3rd row SgRP.
+(2) For a vehicle with 3 or more rows—600 mm behind the 3rd row SgRP.
 
 (b) *Seats not fixed in a forward facing direction.* When the last row seat adjacent to the opening, in the case of a vehicle with fewer than 3 rows, or the 3rd row seat adjacent to the opening, in the case of a vehicle with 3 or more rows, is not fixed in the forward facing direction, the offset line may extend farther rearward than specified in S5.2.1.2(a) under the following conditions. With the seat in any non-forward facing orientation, the seat back set at an inclination position closest to the manufacturer's design seat back angle, and all other seat adjustments at any possible position of adjustment, determine the location of a vertical transverse vehicle plane located behind the portion of the seat rearmost in the vehicle, at the distance specified in 5.2.1.2(b)(1) and (2). The boundary of target locations extends to this vertical plane if it is farther rearward than the plane determined in S5.2.1.2(a).
 
-(1) For a vehicle with fewer than 3 rows - 1,400 mm behind the portion of the seat rearmost in the vehicle.
+(1) For a vehicle with fewer than 3 rows—1,400 mm behind the portion of the seat rearmost in the vehicle.
 
-(2) For a vehicle with 3 or more rows - 600 mm behind the portion of the seat rearmost in the vehicle, for a seat in the 3rd row.
+(2) For a vehicle with 3 or more rows—600 mm behind the portion of the seat rearmost in the vehicle, for a seat in the 3rd row.
 
 (c) *Vehicles with partitions or bulkheads.* If a vehicle has a fixed transverse partition or bulkhead behind which there are no designated seating positions, a vertical transverse vehicle plane 25 mm forward of the most forward portion of the partition or bulkhead defines the rearward edge of the offset line for the purposes of determining target locations when said plane is forward of the limiting plane defined in S5.2.1.2(a) or (b).
 
@@ -122,8 +116,6 @@ S5.2.5.1 *Target elimination and reconstitution.*
 
 S5.2.5.1.1 *Target elimination.* Determine the horizontal and vertical distance between the centers of the targets. If the minimum distance between the z axes of the targets is less than 135 mm and the minimum distance between the x axes of the targets is less than 170 mm, eliminate the targets in the order of priority given in steps 1 through 4 of Table 1 (see Figure 5, 5a and 5b) (figures provided for illustration purposes). In each case, both the z axes of the targets must be closer than 135 mm and x axes of the targets must be closer than 170 mm. If the minimum distance between the z axes of the targets is not less than 135 mm or the minimum distance between the x axes of the targets is not less than 170 mm, do not eliminate the target. Continue checking all the targets listed in steps 1 through 4 of Table 1.
 
-Table 1 - Priority List of Target Distance To Be Checked Against Limits
-
 |Step|Measure distance from z axis to z axis and x axis to x axis for these targets|Eliminate this target if distances between z axes of targets and x axes of targets are less than 135 mm and 170 mm, respectively|
 |----|-----------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | 1  |                     Upper Secondary to Lower Secondary                      |                                                        Upper Secondary.                                                        |
@@ -133,7 +125,7 @@ Table 1 - Priority List of Target Distance To Be Checked Against Limits
 
 S5.2.5.1.2 *Target reconstitution.* If after following the procedure given in S5.2.5.1.1, there are only two targets remaining, determine the absolute distance between the centers of these targets. If this distance is greater than or equal to 360 mm, place a target such that its center bisects a line connecting the centers of the remaining targets.
 
-S5.2.5.2 *Target reorientation - 90 degree rotation.* If after following the procedure given in S5.2.5.1 there are less than four targets in a side daylight opening, repeat the procedure in 5.2 through 5.2.5.1.2, with a modification to S5.2 as follows. Reorient the target by rotating it 90 degrees about the y axis of the target such that the target positive z axis is aligned within ±1 degree of the vehicle longitudinal axis, pointing in the direction of the vehicle positive x axis (see Figures 5a and 5b) (figures provided for illustration purposes). If after performing the procedure in this section, the remaining targets exceed the number of targets determined with the original orientation of the target, the reoriented targets represent the final target locations for the side daylight opening.
+S5.2.5.2 *Target reorientation—90 degree rotation.* If after following the procedure given in S5.2.5.1 there are less than four targets in a side daylight opening, repeat the procedure in 5.2 through 5.2.5.1.2, with a modification to S5.2 as follows. Reorient the target by rotating it 90 degrees about the y axis of the target such that the target positive z axis is aligned within ±1 degree of the vehicle longitudinal axis, pointing in the direction of the vehicle positive x axis (see Figures 5a and 5b) (figures provided for illustration purposes). If after performing the procedure in this section, the remaining targets exceed the number of targets determined with the original orientation of the target, the reoriented targets represent the final target locations for the side daylight opening.
 
 S5.2.5.3 *Target reorientation incremental rotation.* If after following the procedure given in S5.2.5.2 there are no targets in a side daylight opening, starting with the target in the position defined in S5.2.2(a), reorient the target by rotating it in 5 degree increments about the y axis of the target by rotating the target positive z axis toward the vehicle positive x axis. At each increment of rotation, attempt to fit the target within the offset line of the side daylight opening. At the first increment of rotation where the target will fit, place the target center as close as possible to the geometric center of the side daylight opening. If more than one position exists that is closest to the geometric center of the side daylight opening, select the lowest.
 
@@ -173,7 +165,7 @@ S5.6.2 If the targets for the side daylight opening being impacted were determin
 
 S5.6.3 If the targets for the side daylight opening being impacted were determined by the procedure specified in S5.2.5.3, the ejection impactor orientation is as follows. At the time of launch the ejection impactor is rotated about the y axis of the ejection headform by rotating the headform positive z axis towards the vehicle positive x axis, in the increment determined to be necessary in S5.2.5.3 to fit the target within the side daylight opening.
 
-S5.6.4 After any test, extend the ejection impactor to the zero plane and determine that x, y and z axes of the ejection headform remain aligned within ±1 degree of its orientation at launch as specified in S5.6.1 - 5.6.3.
+S5.6.4 After any test, extend the ejection impactor to the zero plane and determine that x, y and z axes of the ejection headform remain aligned within ±1 degree of its orientation at launch as specified in S5.6.1—5.6.3.
 
 S6 *General test conditions.*
 
@@ -185,11 +177,11 @@ S6.1 *Vehicle test attitude.* The vehicle is supported off its suspension at an 
 
 (c) Place vehicle on a level surface.
 
-(d) Pitch: Measure the sill angle of the driver door sill and mark where the angle is measured.
+(d) Pitch: Measure the sill angle of the left front door sill and mark where the angle is measured.
 
 (e) Roll: Mark a point on the vehicle body above the left and right front wheel wells. Determine the vertical height of these two points from the level surface.
 
-(f) Support the vehicle off its suspension such that the driver door sill angle is within ±1 degree of that measured at the marked area in S6.1(d) and the vertical height difference of the two points marked in S6.1(e) is within ±5 mm of the vertical height difference determined in S6.1(e).
+(f) Support the vehicle off its suspension such that the left front door sill angle is within ±1 degree of that measured at the marked area in S6.1(d) and the vertical height difference of the two points marked in S6.1(e) is within ±5 mm of the vertical height difference determined in S6.1(e).
 
 S6.2 *Doors.*
 
@@ -265,19 +257,19 @@ S8.8 For the purposes of calculating average annual production of vehicles for e
 
 (a) For the purposes of calculating the vehicles complying with S8.2, a manufacturer may count a vehicle if it is manufactured on or after March 1, 2011 but before September 1, 2014.
 
-(b) For purposes of complying with S8.3, a manufacturer may count a vehicle if it -
+(b) For purposes of complying with S8.3, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after March 1, 2011 but before September 1, 2015 and,
 
 (2) Is not counted toward compliance with S8.2.
 
-(c) For purposes of complying with S8.4, a manufacturer may count a vehicle if it -
+(c) For purposes of complying with S8.4, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after March 1, 2011 but before September 1, 2016 and,
 
 (2) Is not counted toward compliance with S8.2 or S8.3.
 
-(d) For purposes of complying with S8.5, a manufacturer may count a vehicle if it -
+(d) For purposes of complying with S8.5, a manufacturer may count a vehicle if it—
 
 (1) Is manufactured on or after March 1, 2011 but before September 1, 2017 and,
 
@@ -285,4 +277,4 @@ S8.8 For the purposes of calculating average annual production of vehicles for e
 
 (e) For the purposes of calculating average annual production of vehicles for each manufacturer and the number of vehicles manufactured by each manufacturer, each vehicle that is excluded from having to meet this standard is not counted.
 
-![](/graphics/er19ja11.025.gif)![](/graphics/er19ja11.026.gif)![](/graphics/er19ja11.027.gif)![](/graphics/er19ja11.028.gif)![](/graphics/er19ja11.029.gif)![](/graphics/er09se13.007.gif)![](/graphics/er19ja11.030.gif)[76 FR 3296, Jan. 19, 2011; 76 FR 10524, Feb. 25, 2011, as amended at 78 FR 55165, Sept. 9, 2013; 85 FR 85535, Dec. 29, 2020]
+![](/graphics/er19ja11.025.gif)![](/graphics/er19ja11.026.gif)![](/graphics/er19ja11.027.gif)![](/graphics/er19ja11.028.gif)![](/graphics/er19ja11.029.gif)![](/graphics/er09se13.007.gif)![](/graphics/er19ja11.030.gif)[76 FR 3296, Jan. 19, 2011; 76 FR 10524, Feb. 25, 2011, as amended at 78 FR 55165, Sept. 9, 2013; 85 FR 85535, Dec. 29, 2020; 87 FR 18599, Mar. 30, 2022]

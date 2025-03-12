@@ -1,5 +1,9 @@
-##### § 886.335 HUD review of agreement and contract compliance. #####
+##### § 886.335 Management and occupancy reviews. #####
 
-Link to an amendment published at 87 FR 37997, June 27, 2022.
+(a) The contract administrator will conduct management and occupancy reviews to determine whether the owner is in compliance with the Contract. Such reviews will be conducted in accordance with a schedule set out by the Secretary and published in the Federal Register, following notice and the opportunity to comment. Where a change in ownership or management occurs, a management and occupancy review must be conducted within six months.
 
-HUD will review project operations at such intervals as it deems necessary to ensure that the owner is in full compliance with the terms and conditions of the contract, Regulatory Agreement, and Agreement to Enter into a Housing Assistance Contract, if any. The equal opportunity review may be conducted with the scheduled HUD review or at any time deemed appropriate by HUD.
+(b) HUD or the Contract Administrator may inspect project operations and units at any time.
+
+(c) Equal Opportunity reviews may be conducted by HUD at any time.
+
+[87 FR 37997, June 27, 2022]
