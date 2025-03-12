@@ -1,7 +1,5 @@
 ##### § 37.1301 General requirements. #####
 
-(a) A swap execution facility shall maintain financial resources sufficient to enable it to perform its functions in compliance with the core principles set forth in section 5h of the Act.
+(a) A swap execution facility shall maintain financial resources on an ongoing basis that are adequate to enable it to comply with the core principles set forth in section 5h of the Act and any applicable Commission regulations. Financial resources shall be considered adequate if their value exceeds the total amount that would enable the swap execution facility to cover its projected operating costs necessary for the swap execution facility to comply with section 5h of the Act and applicable Commission regulations for a one-year period, as calculated on a rolling basis pursuant to § 37.1304.
 
 (b) An entity that operates as both a swap execution facility and a derivatives clearing organization shall also comply with the financial resource requirements of § 39.11 of this chapter.
-
-(c) Financial resources shall be considered sufficient if their value is at least equal to a total amount that would enable the swap execution facility to cover its operating costs for a period of at least one year, calculated on a rolling basis.

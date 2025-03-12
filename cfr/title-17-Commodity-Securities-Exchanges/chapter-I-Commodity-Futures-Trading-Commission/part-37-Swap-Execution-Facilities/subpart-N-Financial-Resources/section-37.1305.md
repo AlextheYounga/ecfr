@@ -1,3 +1,3 @@
-##### § 37.1305 Liquidity of financial resources. #####
+##### § 37.1305 Valuation of financial resources. #####
 
-The financial resources allocated by the swap execution facility to meet the requirements of § 37.1301 shall include unencumbered, liquid financial assets (*i.e.,* cash and/or highly liquid securities) equal to at least six months' operating costs. If any portion of such financial resources is not sufficiently liquid, the swap execution facility may take into account a committed line of credit or similar facility for the purpose of meeting this requirement.
+No less than each fiscal quarter, a swap execution facility shall compute the current market value of each financial resource used to meet its obligations under §§ 37.1301 and 37.1303. Reductions in value to reflect market and credit risk (“haircuts”) shall be applied as appropriate.

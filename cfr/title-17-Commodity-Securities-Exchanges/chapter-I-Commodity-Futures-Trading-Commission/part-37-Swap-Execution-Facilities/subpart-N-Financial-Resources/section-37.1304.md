@@ -1,3 +1,3 @@
-##### § 37.1304 Valuation of financial resources. #####
+##### § 37.1304 Computation of costs to meet financial resources requirement. #####
 
-No less than each fiscal quarter, a swap execution facility shall compute the current market value of each financial resource used to meet its obligations under § 37.1301. Reductions in value to reflect market and credit risk (“haircuts”) shall be applied as appropriate.
+A swap execution facility shall each fiscal quarter, make a reasonable calculation of its projected operating costs and wind-down costs in order to determine its applicable obligations under §§ 37.1301 and 37.1303. The swap execution facility shall have reasonable discretion in determining the methodologies used to compute such amounts. The Commission may review the methodologies and require changes as appropriate.

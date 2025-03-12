@@ -4,9 +4,9 @@
 
 (1) Determine whether a particular financial resource under § 37.1302 may be used to satisfy the requirements of § 37.1301;
 
-(2) Review and make changes to the methodology used to compute projected operating costs under § 37.1303;
+(2) Review and make changes to the methodology used to compute projected operating costs and wind-down costs under § 37.1304 and the valuation of financial resources under § 37.1305;
 
-(3) Request reports, in addition to fiscal quarter reports, under § 37.1306(a); and
+(3) Request reports, in addition to those required in § 37.1306, or additional documentation or information under § 37.1306(a), (c), and (e); and
 
 (4) Grant an extension of time to file fiscal quarter reports under § 37.1306(d).
 

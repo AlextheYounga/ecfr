@@ -1,36 +1,34 @@
 ##### § 37.1501 Chief compliance officer. #####
 
-Link to an amendment published at 86 FR 9248, Feb. 11, 2021.
+(a) *Definitions.* For purposes of this part, the term—
 
-(a) *Definition of board of directors.* For purposes of this part, the term “board of directors” means the board of directors of a swap execution facility, or for those swap execution facilities whose organizational structure does not include a board of directors, a body performing a function similar to a board of directors.
+*Board of directors* means the board of directors of a swap execution facility, or for those swap execution facilities whose organizational structure does not include a board of directors, a body performing a function similar to a board of directors.
 
-(b) *Designation and qualifications of chief compliance officer* - (1) *Chief compliance officer required.* Each swap execution facility shall establish the position of chief compliance officer and designate an individual to serve in that capacity.
+*Senior officer* means the chief executive officer or other equivalent officer of the swap execution facility.
 
-(i) The position of chief compliance officer shall carry with it the authority and resources to develop and enforce policies and procedures necessary to fulfill the duties set forth for chief compliance officers in the Act and Commission regulations.
+(b) *Chief compliance officer*—(1) *Authority of chief compliance officer.* (i) The position of chief compliance officer shall carry with it the authority and resources to develop, in consultation with the board of directors or senior officer, the policies and procedures of the swap execution facility and enforce such policies and procedures to fulfill the duties set forth for chief compliance officers in the Act and Commission regulations.
 
 (ii) The chief compliance officer shall have supervisory authority over all staff acting at the direction of the chief compliance officer.
 
-(2) *Qualifications of chief compliance officer.* The individual designated to serve as chief compliance officer shall have the background and skills appropriate for fulfilling the responsibilities of the position. No individual disqualified from registration pursuant to sections 8a(2) or 8a(3) of the Act may serve as a chief compliance officer.
+(2) *Qualifications of chief compliance officer.* (i) The individual designated to serve as chief compliance officer shall have the background and skills appropriate for fulfilling the responsibilities of the position.
 
-(c) *Appointment, supervision, and removal of chief compliance office* - (1) *Appointment and compensation of chief compliance officer.* (i) A swap execution facility's chief compliance officer shall be appointed by its board of directors or senior officer. A swap execution facility shall notify the Commission within two business days of appointing any new chief compliance officer, whether interim or permanent.
+(ii) No individual disqualified from registration pursuant to sections 8a(2) or 8a(3) of the Act may serve as a chief compliance officer.
 
-(ii) The board of directors or the senior officer shall approve the compensation of the chief compliance officer.
+(3) *Appointment and removal of chief compliance officer.* (i) Only the board of directors or the senior officer may appoint or remove the chief compliance officer.
 
-(iii) The chief compliance officer shall meet with the board of directors at least annually and the regulatory oversight committee at least quarterly.
+(ii) The swap execution facility shall notify the Commission within two business days of the appointment or removal, whether interim or permanent, of a chief compliance officer.
 
-(iv) The chief compliance officer shall provide any information regarding the swap execution facility's self-regulatory program that is requested by the board of directors or the regulatory oversight committee.
+(4) *Compensation of the chief compliance officer.* The board of directors or the senior officer shall approve the compensation of the chief compliance officer.
 
-(2) *Supervision of chief compliance officer.* A swap execution facility's chief compliance officer shall report directly to the board of directors or to the senior officer of the swap execution facility, at the swap execution facility's discretion.
+(5) *Annual meeting with the chief compliance officer.* The chief compliance officer shall meet with the board of directors or senior officer of the swap execution facility at least annually.
 
-(3) *Removal of chief compliance officer.* (i) Removal of a swap execution facility's chief compliance officer shall require the approval of a majority of the swap execution facility's board of directors. If the swap execution facility does not have a board of directors, then the chief compliance officer may be removed by the senior officer of the swap execution facility.
+(6) *Information requested of the chief compliance officer.* The chief compliance officer shall provide any information regarding the self-regulatory program of the swap execution facility as requested by the board of directors or the senior officer.
 
-(ii) The swap execution facility shall notify the Commission of such removal within two business days.
+(c) *Duties of chief compliance officer.* The duties of the chief compliance officer shall include, but are not limited to, the following:
 
-(d) *Duties of chief compliance officer.* The chief compliance officer's duties shall include, but are not limited to, the following:
+(1) Overseeing and reviewing compliance of the swap execution facility with section 5h of the Act and any related rules adopted by the Commission;
 
-(1) Overseeing and reviewing the swap execution facility's compliance with section 5h of the Act and any related rules adopted by the Commission;
-
-(2) In consultation with the board of directors, a body performing a function similar to the board of directors, or the senior officer of the swap execution facility, resolving any conflicts of interest that may arise, including:
+(2) Taking reasonable steps, in consultation with the board of directors or the senior officer of the swap execution facility, to resolve any material conflicts of interest that may arise, including, but not limited to:
 
 (i) Conflicts between business considerations and compliance requirements;
 
@@ -42,58 +40,38 @@ Link to an amendment published at 86 FR 9248, Feb. 11, 2021.
 
 (4) Taking reasonable steps to ensure compliance with the Act and the rules of the Commission;
 
-(5) Establishing procedures for the remediation of noncompliance issues identified by the chief compliance officer through a compliance office review, look-back, internal or external audit finding, self-reported error, or validated complaint;
+(5) Establishing procedures reasonably designed to handle, respond, remediate, retest, and resolve noncompliance issues identified by the chief compliance officer through any means, including any compliance office review, look-back, internal or external audit finding, self-reported error, or validated complaint;
 
-(6) Establishing and following appropriate procedures for the handling, management response, remediation, retesting, and closing of noncompliance issues;
+(6) Establishing and administering a compliance manual designed to promote compliance with the applicable laws, rules, and regulations and a written code of ethics for the swap execution facility designed to prevent ethical violations and to promote honesty and ethical conduct by personnel of the swap execution facility;
 
-(7) Establishing and administering a compliance manual designed to promote compliance with the applicable laws, rules, and regulations and a written code of ethics designed to prevent ethical violations and to promote honesty and ethical conduct;
+(7) Supervising the self-regulatory program of the swap execution facility with respect to trade practice surveillance; market surveillance; real time market monitoring; compliance with audit trail requirements; enforcement and disciplinary proceedings; audits, examinations, and other regulatory responsibilities (including taking reasonable steps to ensure compliance with, if applicable, financial integrity, financial reporting, sales practice, recordkeeping, and other requirements); and
 
-(8) Supervising the swap execution facility's self-regulatory program with respect to trade practice surveillance; market surveillance; real-time market monitoring; compliance with audit trail requirements; enforcement and disciplinary proceedings; audits, examinations, and other regulatory responsibilities with respect to members and market participants (including ensuring compliance with, if applicable, financial integrity, financial reporting, sales practice, recordkeeping, and other requirements); and
+(8) Supervising the effectiveness and sufficiency of any regulatory services provided to the swap execution facility by a regulatory service provider in accordance with § 37.204.
 
-(9) Supervising the effectiveness and sufficiency of any regulatory services provided to the swap execution facility by a regulatory service provider in accordance with § 37.204.
+(d) *Preparation of annual compliance report.* The chief compliance officer shall, not less than annually, prepare and sign an annual compliance report that covers the prior fiscal year. The report shall, at a minimum, contain:
 
-(e) *Preparation of annual compliance report.* The chief compliance officer shall, not less than annually, prepare and sign an annual compliance report that, at a minimum, contains the following information covering the time period since the date on which the swap execution facility became registered with the Commission or since the end of the period covered by a previously filed annual compliance report, as applicable:
+(1) A description and self-assessment of the effectiveness of the written policies and procedures of the swap execution facility, including the code of ethics and conflict of interest policies, to reasonably ensure compliance with the Act and applicable Commission regulations;
 
-(1) A description of the swap execution facility's written policies and procedures, including the code of ethics and conflict of interest policies;
+(2) Any material changes made to compliance policies and procedures during the coverage period for the report and any areas of improvement or recommended changes to the compliance program;
 
-(2) A review of applicable Commission regulations and each subsection and core principle of section 5h of the Act, that, with respect to each:
+(3) A description of the financial, managerial, and operational resources set aside for compliance with the Act and applicable Commission regulations;
 
-(i) Identifies the policies and procedures that are designed to ensure compliance with each subsection and core principle, including each duty specified in section 5h(f)(15)(B) of the Act;
+(4) Any material non-compliance matters identified and an explanation of the corresponding action taken to resolve such non-compliance matters; and
 
-(ii) Provides a self-assessment as to the effectiveness of these policies and procedures; and
+(5) A certification by the chief compliance officer that, to the best of his or her knowledge and reasonable belief, and under penalty of law, the annual compliance report is accurate and complete in all material respects.
 
-(iii) Discusses areas for improvement and recommends potential or prospective changes or improvements to its compliance program and resources;
+(e) *Submission of annual compliance report and related matters*—(1) *Furnishing the annual compliance report prior to submission to the Commission.* Prior to submission to the Commission, the chief compliance officer shall provide the annual compliance report for review to the board of directors of the swap execution facility or, in the absence of a board of directors, to the senior officer of the swap execution facility. Members of the board of directors and the senior officer shall not require the chief compliance officer to make any changes to the report.
 
-(3) A list of any material changes to compliance policies and procedures since the last annual compliance report;
+(2) *Submission of annual compliance report to the Commission.* The annual compliance report shall be submitted electronically to the Commission not later than 90 calendar days after the end of the swap execution facility's fiscal year. The swap execution facility shall concurrently file the annual compliance report with the fourth-quarter financial report pursuant to § 37.1306.
 
-(4) A description of the financial, managerial, and operational resources set aside for compliance with respect to the Act and Commission regulations, including a description of the swap execution facility's self-regulatory program's staffing and structure, a catalogue of investigations and disciplinary actions taken since the last annual compliance report, and a review of the performance of disciplinary committees and panels;
+(3) *Amendments to annual compliance report.* (i) Promptly upon discovery of any material error or omission made in a previously filed annual compliance report, the chief compliance officer shall file an amendment with the Commission to correct the material error or omission. The chief compliance officer shall submit the amended annual compliance report to the board of directors, or in the absence of a board of directors, to the senior officer of the swap execution facility, pursuant to paragraph (e)(1) of this section.
 
-(5) A description of any material compliance matters, including noncompliance issues identified through a compliance office review, look-back, internal or external audit finding, self-reported error, or validated complaint, and an explanation of how they were resolved; and
+(ii) An amendment shall contain the certification required under paragraph (d)(5) of this section.
 
-(6) A certification by the chief compliance officer that, to the best of his or her knowledge and reasonable belief, and under penalty of law, the annual compliance report is accurate and complete.
+(4) *Request for extension.* A swap execution facility may request an extension of time to file its annual compliance report from the Commission. Reasonable and valid requests for extensions of the filing deadline may be granted at the discretion of the Commission.
 
-(f) *Submission of annual compliance report.* (1) Prior to submission to the Commission, the chief compliance officer shall provide the annual compliance report to the board of directors of the swap execution facility for its review. If the swap execution facility does not have a board of directors, then the annual compliance report shall be provided to the senior officer for his or her review. Members of the board of directors and the senior officer shall not require the chief compliance officer to make any changes to the report. Submission of the report to the board of directors or the senior officer, and any subsequent discussion of the report, shall be recorded in board minutes or a similar written record, as evidence of compliance with this requirement.
+(f) *Recordkeeping.* The swap execution facility shall maintain all records demonstrating compliance with the duties of the chief compliance officer and the preparation and submission of annual compliance reports consistent with §§ 37.1000 and 37.1001.
 
-(2) The annual compliance report shall be submitted electronically to the Commission not later than 60 calendar days after the end of the swap execution facility's fiscal year, concurrently with the filing of the fourth fiscal quarter financial report pursuant to § 37.1306.
+(g) *Delegation of authority.* The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or such other employee or employees as the Director may designate from time to time, the authority to grant or deny a request for an extension of time for a swap execution facility to file its annual compliance report under paragraph (e)(4) of this section. The Director may submit to the Commission for its consideration any matter that has been delegated in this paragraph. Nothing in this paragraph prohibits the Commission, at its election, from exercising the authority delegated in this paragraph.
 
-(3) Promptly upon discovery of any material error or omission made in a previously filed annual compliance report, the chief compliance officer shall file an amendment with the Commission to correct the material error or omission. An amendment shall contain the certification required under paragraph (e)(6) of this section.
-
-(4) A swap execution facility may request from the Commission an extension of time to file its annual compliance report based on substantial, undue hardship. Extensions of the filing deadline may be granted at the discretion of the Commission.
-
-(g) *Recordkeeping.* (1) The swap execution facility shall maintain:
-
-(i) A copy of the written policies and procedures, including the code of ethics and conflicts of interest policies adopted in furtherance of compliance with the Act and Commission regulations;
-
-(ii) Copies of all materials created in furtherance of the chief compliance officer's duties listed in paragraphs (d)(8) and (d)(9) of this section, including records of any investigations or disciplinary actions taken by the swap execution facility;
-
-(iii) Copies of all materials, including written reports provided to the board of directors or senior officer in connection with the review of the annual compliance report under paragraph (f)(1) of this section and the board minutes or a similar written record that documents the review of the annual compliance report by the board of directors or senior officer; and
-
-(iv) Any records relevant to the swap execution facility's annual compliance report, including, but not limited to, work papers and other documents that form the basis of the report, and memoranda, correspondence, other documents, and records that are
-
-(A) Created, sent, or received in connection with the annual compliance report and
-
-(B) Contain conclusions, opinions, analyses, or financial data related to the annual compliance report.
-
-(2) The swap execution facility shall maintain records in accordance with § 1.31 and part 45 of this chapter.
-
-(h) *Delegation of authority.* The Commission hereby delegates, until it orders otherwise, to the Director of the Division of Market Oversight or such other employee or employees as the Director may designate from time to time, authority to grant or deny a swap execution facility's request for an extension of time to file its annual compliance report under paragraph (f)(4) of this section.
+[86 FR 9248, Feb. 11, 2021]
