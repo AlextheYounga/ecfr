@@ -1,5 +1,5 @@
 ##### § 219.503 Notification; records. #####
 
-Link to an amendment published at 81 FR 37937, June 10, 2016.
+Each railroad must provide for medical review of drug test results according to the requirements of part 40 of this title, as provided in subpart H of this part. The railroad must also notify the applicant in writing of the results of any Federal drug and/or alcohol test that is a positive, adulteration, substitution, or refusal in the same manner as provided for employees in part 40 of this title and subpart H of this part. Records must be maintained confidentially and be retained in the same manner as required under subpart J of this part for employee test records, except that such records need not reflect the identity of an applicant who withdrew an application to perform regulated service before the commencement of the testing process.
 
-The railroad must provide for medical review of drug test results as provided in subpart H of this part. The railroad must notify the applicant of the results of the drug and alcohol tests in the same manner as provided for employees in subpart H of this part. Records must be maintained confidentially and be retained in the same manner as required under subpart J of this part for employee test records, except that such records need not reflect the identity of an applicant whose application for employment in covered service was denied.
+[81 FR 37937, June 10, 2016]

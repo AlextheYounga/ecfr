@@ -1,0 +1,5 @@
+##### § 219.405 Documentation requirements. #####
+
+(a) Each railroad must maintain written documentation that specifically describes the basis for each reasonable cause test it performs under Federal authority. This documentation must be completed promptly by the responsible railroad supervisor; although it does not need to be completed before the reasonable cause testing is conducted.
+
+(b) For a rule violation, the documentation must include the type of rule violation and the involvement of each tested regulated employee. For a train accident or train incident reportable under part 225 of this chapter, a railroad must describe either the amount of railroad property damage or the reportable casualty and the basis for the supervisor's belief that the employee's acts or omissions contributed to the occurrence or severity of the train accident or train incident.

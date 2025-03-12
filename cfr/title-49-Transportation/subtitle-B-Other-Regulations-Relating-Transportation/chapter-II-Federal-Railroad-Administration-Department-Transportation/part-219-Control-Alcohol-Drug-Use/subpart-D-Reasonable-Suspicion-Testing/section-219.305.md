@@ -1,0 +1,7 @@
+##### § 219.305 Prompt specimen collection; time limitations. #####
+
+(a) Consistent with the need to protect life and property, testing under this subpart must be conducted promptly following the observations upon which the testing decision is based.
+
+(b) If a test required by this subpart is not administered within two hours following a determination made under this section, the railroad must prepare and maintain on file a record stating the reasons the test was not administered within that time period. If an alcohol or drug test required by this subpart is not administered within eight hours of a determination made under this subpart, the railroad must cease attempts to administer the test and must record the reasons for not administering the test. The eight-hour requirement is satisfied if the individual has been delivered to the collection site (where the collector is present) and the request has been made to commence collection of the specimens within that period. The records required by this section must be submitted to FRA upon request of the FRA Drug and Alcohol Program Manager.
+
+(c) A regulated employee may not be tested under this subpart if that individual has been released from duty under the normal procedures of a railroad. An individual who has been transported to receive medical care is not released from duty for purposes of this section. Nothing in this section prohibits the subsequent testing of an employee who has failed to remain available for testing as required (*i.e.,* who is absent without leave).

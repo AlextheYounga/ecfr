@@ -1,16 +1,14 @@
 ##### § 305.7 Determinations of capacity. #####
 
-Link to an amendment published at 81 FR 63646, Sept. 15, 2016.
-
 The capacity of covered products shall be determined as follows:
 
-(a) *Refrigerators and refrigerator-freezers.* The capacity shall be the total refrigerated volume (VT) and the adjusted total volume (AV) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix A to 10 CFR part 430, subpart B.
+(a) *Refrigerators and refrigerator-freezers.* The capacity shall be the total refrigerated volume (VT) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix A to 10 CFR part 430, subpart B.
 
-(b) *Freezers.* The capacity shall be the total refrigerated volume (VT) and the adjusted total volume (AV) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix B to 10 CFR part 430, subpart B.
+(b) *Freezers.* The capacity shall be the total refrigerated volume (VT) in cubic feet, rounded to the nearest one-tenth of a cubic foot, as determined according to appendix B to 10 CFR part 430, subpart B.
 
 (c) *Dishwashers.* The capacity shall be the place-setting capacity, determined according to appendix C to 10 CFR part 430, subpart B.
 
-(d) *Water heaters.* The capacity shall be the first hour rating (for storage-type models) and gallons per minute (for instantaneous-type models), as determined according to appendix E to 10 CFR part 430, subpart B.
+(d) *Water heaters.* The capacity shall be the rated storage volume and first hour rating (for storage-type models), and gallons per minute (for instantaneous-type models), as determined according to appendix E to 10 CFR part 430, subpart B.
 
 (e) *Pool heaters.* The capacity shall be the heating capacity in Btu's per hour, rounded to the nearest 1,000 Btu's per hour, as determined according to appendix P to 10 CFR part 430, subpart B.
 
@@ -28,4 +26,4 @@ The capacity of covered products shall be determined as follows:
 
 (l) *Ceiling fans.* The capacity shall be the airflow in cubic feet per minute as determined according to appendix U of 10 CFR part 430, subpart B.
 
-[59 FR 34033, July 1, 1994, as amended at 59 FR 49564, Sept. 28, 1994; 70 FR 3875, Jan. 27, 2005; 73 FR 63067, Oct. 23, 2008; 78 FR 43981, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016]
+[59 FR 34033, July 1, 1994, as amended at 59 FR 49564, Sept. 28, 1994; 70 FR 3875, Jan. 27, 2005; 73 FR 63067, Oct. 23, 2008; 78 FR 43981, July 23, 2013; 79 FR 77870, Dec. 29, 2014; 80 FR 67299, Nov. 2, 2015; 81 FR 7202, Feb. 11, 2016; 81 FR 63646, Sept. 15, 2016]

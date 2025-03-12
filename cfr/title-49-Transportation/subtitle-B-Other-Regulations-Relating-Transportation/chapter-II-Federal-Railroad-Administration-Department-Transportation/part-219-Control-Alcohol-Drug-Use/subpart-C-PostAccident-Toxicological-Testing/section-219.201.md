@@ -1,32 +1,42 @@
 ##### § 219.201 Events for which testing is required. #####
 
-Link to an amendment published at 81 FR 37930, June 10, 2016.
+(a) *List of events.* Except as provided in paragraph (b) of this section, FRA post-accident toxicological tests must be conducted after any event that involves one or more of the circumstances described in paragraphs (a)(1) through (5) of this section:
 
-(a) *List of events.* Except as provided in paragraph (b) of this section, post-accident toxicological tests must be conducted after any event that involves one or more of the circumstances described in paragraphs (a)(1) through (4) of this section:
+(1) *Major train accident.* Any train accident (*i.e.,* a rail equipment accident involving damage in excess of the current reporting threshold) that involves one or more of the following:
 
-(1) *Major train accident.* Any train accident (i.e., a rail equipment accident involving damage in excess of the current reporting threshold) that involves one or more of the following:
+(i) A fatality to any person;
 
-(i) A fatality;
-
-(ii) A release of hazardous material lading from railroad equipment accompanied by -
+(ii) A release of hazardous material lading from railroad equipment accompanied by—
 
 (A) An evacuation; or
 
-(B) A reportable injury resulting from the hazardous material release (e.g., from fire, explosion, inhalation, or skin contact with the material); or
+(B) A reportable injury resulting from the hazardous material release (*e.g.,* from fire, explosion, inhalation, or skin contact with the material); or
 
-(iii) Damage to railroad property of $1,000,000 or more.
+(iii) Damage to railroad property of $1,500,000 or more.
 
-(2) *Impact accident.* An impact accident (i.e., a rail equipment accident defined as an “impact accident” in § 219.5) that involves damage in excess of the current reporting threshold, resulting in -
+(2) *Impact accident.* Any impact accident (*i.e.,* a rail equipment accident defined as an “impact accident” in § 219.5) that involves damage in excess of the current reporting threshold, resulting in—
 
 (i) A reportable injury; or
 
 (ii) Damage to railroad property of $150,000 or more.
 
-(3) *Fatal train incident.* Any train incident that involves a fatality to any on-duty railroad employee.
+(3) *Fatal train incident.* Any train incident that involves a fatality to an on-duty employee (as defined in § 219.5) who dies within 12 hours of the incident as a result of the operation of on-track equipment, regardless of whether that employee was performing regulated service.
 
-(4) *Passenger train accident.* Reportable injury to any person in a train accident (i.e., a rail equipment accident involving damage in excess of the current reporting threshold) involving a passenger train.
+(4) *Passenger train accident.* Any train accident (*i.e.,* a rail equipment accident involving damage in excess of the current reporting threshold) involving a passenger train and a reportable injury to any person.
 
-(b) *Exceptions.* No test may be required in the case of a collision between railroad rolling stock and a motor vehicle or other highway conveyance at a rail/highway grade crossing. No test may be required in the case of an accident/incident the cause and severity of which are wholly attributable to a natural cause (e.g., flood, tornado, or other natural disaster) or to vandalism or trespasser(s), as determined on the basis of objective and documented facts by the railroad representative responding to the scene.
+(5) *Human-factor highway-rail grade crossing accident/incident.* A highway-rail grade crossing accident/incident when it involves:
+
+(i) A regulated employee who interfered with the normal functioning of a grade crossing signal system, in testing or otherwise, without first taking measures to provide for the safety of highway traffic that depends on the normal functioning of such system, as prohibited by § 234.209 of this chapter;
+
+(ii) A train crewmember who was, or who should have been, flagging highway traffic to stop due to an activation failure of the grade crossing system, as provided by § 234.105(c)(3) of this chapter;
+
+(iii) A regulated employee who was performing, or should have been performing, the duties of an appropriately equipped flagger (as defined in § 234.5 of this chapter) due to an activation failure, partial activation, or false activation of the grade crossing signal system, as provided by § 234.105(c)(1) and (2), § 234.106, or § 234.107(c)(1)(i) of this chapter;
+
+(iv) A fatality to any regulated employee performing duties for the railroad, regardless of fault; or
+
+(v) A regulated employee who violated an FRA regulation or railroad operating rule and whose actions may have played a role in the cause or severity of the accident/incident.
+
+(b) *Exceptions.* Except for a human-factor highway-rail grade crossing accident/incident described in paragraph (a)(5) of this section, no test may be required in the case of a collision between railroad rolling stock and a motor vehicle or other highway conveyance at a highway/rail grade crossing. No test may be required for an accident/incident the cause and severity of which are wholly attributable to a natural cause (*e.g.,* flood, tornado, or other natural disaster) or to vandalism or trespasser(s), as determined on the basis of objective and documented facts by the railroad representative responding to the scene.
 
 (c) *Good faith determinations.* (1)(i) The railroad representative responding to the scene of the accident/incident must determine whether the accident/incident falls within the requirements of paragraph (a) of this section or is within the exception described in paragraph (b) of this section. It is the duty of the railroad representative to make reasonable inquiry into the facts as necessary to make such determinations. In making such inquiry, the railroad representative must consider the need to obtain specimens as soon as practical in order to determine the presence or absence of impairing substances reasonably contemporaneous with the accident/incident. The railroad representative satisfies the requirement of this section if, after making reasonable inquiry, the representative exercises good faith judgement in making the required determinations.
 
@@ -45,3 +55,5 @@ Link to an amendment published at 81 FR 37930, June 10, 2016.
 (4) An accident/incident with respect to which the railroad has made reasonable inquiry and exercised good faith judgment in determining the facts necessary to apply the criteria contained in paragraph (a) of this section is deemed a qualifying event for purposes of specimen analysis, reporting, and other purposes.
 
 (5) In the event specimens are collected following an event determined by FRA not to be a qualifying event within the meaning of this section, FRA directs its designated laboratory to destroy any specimen material submitted and to refrain from disclosing to any person the results of any analysis conducted.
+
+[66 FR 41973, Aug. 9, 2001, as amended at 81 FR 37930, June 10, 2016]

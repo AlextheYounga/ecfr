@@ -1,26 +1,14 @@
 ##### § 219.4 Recognition of a foreign railroad's workplace testing program. #####
 
-Link to an amendment published at 81 FR 37923, June 10, 2016.
-
 (a) *General.* A foreign railroad may petition the FRA Associate Administrator for Safety for recognition of a workplace testing program promulgated under the laws of its home country as a compatible alternative to the return-to-service requirements in subpart B of this part and the requirements of subparts E, F, and G of this part with respect to its employees whose primary reporting point is outside the United States but who enter the United States to perform train or dispatching service and with respect to its final applicants for, or its employees seeking to transfer for the first time to, duties involving such service.
 
-(1) To be so considered, the petition must document that the foreign railroad's workplace testing program contains equivalents to subparts B, E, F, and G of this part:
-
-(i) Pre-employment drug testing;
-
-(ii) A policy dealing with co-worker and self-reporting of alcohol and drug abuse problems;
-
-(iii) Random drug and alcohol testing;
-
-(iv) Return-to-duty testing; and
-
-(v) Testing procedures and safeguards reasonably comparable in effectiveness to all applicable provisions of the United States Department of Transportation Procedures for Workplace Drug and Alcohol Testing Programs (part 40 of this title).
+(1) To be so considered, the petition must document that the foreign railroad's workplace testing program contains equivalents to subparts B, F, G, and K of this part:
 
 (2) In approving a program under this section, the FRA Associate Administrator for Safety may impose conditions deemed necessary.
 
-(b) *Alternative programs.* (1) Upon FRA's recognition of a foreign railroad's workplace testing program as compatible with the return-to-service requirements in subpart B and the requirements of subparts E, F, and G of this part, the foreign railroad must comply with either the enumerated provisions of part 219 or with the standards of the recognized program, and any imposed conditions, with respect to its employees whose primary reporting point is outside the United States and who perform train or dispatching service in the United States. The foreign railroad must also, with respect to its final applicants for, or its employees seeking to transfer for the first time to, duties involving such train or dispatching service in the United States, comply with either subpart E of this part or the standards of the recognized program.
+(b) *Alternative programs.* (1) Upon FRA's recognition of a foreign railroad's workplace alcohol and drug use program as compatible with the return-to-service requirements in subpart B of this part and the requirements of subparts F, G, and K of this part, the foreign railroad must comply with either the specified provisions of § 219.4 or with the standards of its recognized program, and any imposed conditions, with respect to its employees whose primary reporting point is outside the United States and who perform train or dispatching service in the United States. The foreign railroad must also, with respect to its final applicants for, or its employees seeking to transfer for the first time to, duties involving such train or dispatching service in the United States, comply with either subpart F of this part or the standards of its recognized program.
 
-(2) The foreign railroad must comply with subparts A, B (other than the return-to-service provisions in § 219.104(d)), C, reasonable suspicion testing in subpart D, and subparts I and J. Drug or alcohol testing required by these subparts must be conducted in compliance with all applicable provisions of the United States Department of Transportation Procedures for Workplace Drug and Alcohol Testing Programs (part 40 of this title).
+(2) The foreign railroad must comply with subparts A (general), B (prohibitions, other than the return-to-service provisions in paragraph (d) of this section), C (post-accident toxicological testing), D (reasonable suspicion testing), I (annual report requirements), and J (recordkeeping requirements) of this part. Drug or alcohol testing required by these subparts (except for post-accident toxicological testing required by subpart C) must be conducted in compliance with all applicable provisions of the DOT Procedures for Workplace Drug and Alcohol Testing Programs (part 40 of this title).
 
 (c) *Petitions for recognition of a foreign railroad's workplace testing programs.* Each petition for recognition of a foreign workplace testing program shall contain:
 
@@ -56,4 +44,4 @@ Link to an amendment published at 81 FR 37923, June 10, 2016.
 
 (g) *Program recognition.* If its program has been recognized, the foreign railroad shall maintain a letter on file indicating that it has elected to extend specified elements of the recognized program to its operations in the United States. Once granted, program recognition remains valid so long as the program retains these elements and the foreign railroad complies with the program requirements.
 
-[69 FR 19286, Apr. 12, 2004, as amended at 74 FR 25172, 25173, May 27, 2009]
+[69 FR 19286, Apr. 12, 2004, as amended at 74 FR 25172, 25173, May 27, 2009; 81 FR 37923, June 10, 2016]

@@ -1,0 +1,9 @@
+##### § 219.301 Mandatory reasonable suspicion testing. #####
+
+(a) Each railroad must require a regulated employee to submit to a breath alcohol test when the railroad has reasonable suspicion to believe that the regulated employee has violated any prohibition of subpart B of this part concerning use of alcohol. The railroad's determination that reasonable suspicion exists to require the regulated employee to undergo an alcohol test must be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech, or body odors of the employee. A Federal reasonable suspicion alcohol test is not required to confirm the on-duty possession of alcohol.
+
+(b) Each railroad must require a regulated employee to submit to a drug test when the railroad has reasonable suspicion to believe that the regulated employee has violated the prohibitions of subpart B of this part concerning use of controlled substances. The railroad's determination that reasonable suspicion exists to require the regulated employee to undergo a drug test must be based on specific, contemporaneous, articulable observations concerning the appearance, behavior, speech, or body odors of the employee. Such observations may include indications of the chronic and withdrawal effects of drugs.
+
+(c) Reasonable suspicion observations made under this section must comply with the requirements of § 219.303.
+
+(d) As provided by § 219.11(b)(2), in any case where an employee is suffering a substantiated medical emergency and is subject to alcohol or drug testing under this subpart, necessary medical treatment must be accorded priority over provision of the breath or body fluid specimens. However, when the employee's condition is stabilized, reasonable suspicion testing must be completed if within the eight-hour limit provided for in § 219.305.

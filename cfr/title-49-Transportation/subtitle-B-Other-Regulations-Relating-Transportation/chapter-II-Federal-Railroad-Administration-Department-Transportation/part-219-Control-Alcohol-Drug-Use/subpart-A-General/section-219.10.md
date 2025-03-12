@@ -1,3 +1,5 @@
-##### § 219.10 xxx #####
+##### § 219.10 Penalties. #####
 
-Link to an amendment published at 81 FR 37926, June 10, 2016.
+Any person, as defined by § 219.5, who violates any requirement of this part or causes the violation of any such requirement is subject to a civil penalty of at least $650 and not more than $25,000 per violation, except that: Penalties may be assessed against individuals only for willful violations; where a grossly negligent violation or a pattern of repeated violations has created an imminent hazard of death or injury, or has caused death or injury, a penalty not to exceed $105,000 per violation may be assessed; and the standard of liability for a railroad will vary depending upon the requirement involved. See, *e.g.,* § 219.105, which is construed to qualify the responsibility of a railroad for the unauthorized conduct of an employee that violates § 219.101 or § 219.102 (while imposing a duty of due diligence to prevent such conduct). Each day a violation continues constitutes a separate offense. See Appendix A to this part for a statement of agency civil penalty policy.
+
+[81 FR 37926, June 10, 2016]
