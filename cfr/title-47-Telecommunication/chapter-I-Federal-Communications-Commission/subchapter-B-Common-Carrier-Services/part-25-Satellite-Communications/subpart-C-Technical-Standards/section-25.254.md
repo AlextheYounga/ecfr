@@ -1,7 +1,5 @@
 ##### § 25.254 Special requirements for ancillary terrestrial components operating in the 1610-1626.5 MHz/2483.5-2500 MHz bands. #####
 
-Link to an amendment published at 82 FR 8819, Jan. 31, 2017.
-
 (a) An applicant for an ancillary terrestrial component in these bands must demonstrate that ATC base stations shall:
 
 (1) Not exceed a peak EIRP of 32 dBW in 1.25 MHz;
@@ -46,4 +44,6 @@ Note to § 25.254:
 
 The preceding rules of § 25.254 are based on cdma2000 and IS-95 system architecture. To the extent that a 1.6/2.4 GHz Mobile-Satellite Service licensee is able to demonstrate that the use of different system architectures would produce no greater potential interference than would be produced as a result of implementing the rules of this section, the licensee may apply for ATC authorization based on another system architecture.
 
-[68 FR 33653, June 5, 2003, as amended at 69 FR 18803, Apr. 9, 2004; 70 FR 19320, Apr. 13, 2005; 73 FR 25592, May 5, 2008; 78 FR 8430, Feb. 6, 2013]
+(e) Licensees of terrestrial low-power systems operating in the 2483.5-2495 MHz band shall operate consistent with the technical limits and other requirements specified in § 25.149(c)(4) and (g)(2)-(3).
+
+[68 FR 33653, June 5, 2003, as amended at 69 FR 18803, Apr. 9, 2004; 70 FR 19320, Apr. 13, 2005; 73 FR 25592, May 5, 2008; 78 FR 8430, Feb. 6, 2013; 82 FR 8819, Jan. 31, 2017]

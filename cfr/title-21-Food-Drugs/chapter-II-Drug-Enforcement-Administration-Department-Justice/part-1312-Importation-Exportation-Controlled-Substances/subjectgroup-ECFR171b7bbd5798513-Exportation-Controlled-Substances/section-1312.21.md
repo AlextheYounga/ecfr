@@ -1,6 +1,6 @@
 ##### § 1312.21 Requirement of authorization to export. #####
 
-Link to an amendment published at 81 FR 97029, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97029, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) No person shall in any manner export or cause to be exported from the United States any controlled substance listed in Schedule I or II, or any narcotic substance listed in Schedule III or IV, or any non-narcotic substance in Schedule III which the Administrator has specifically designated by regulation in § 1312.30 of this part or any non-narcotic substance in Schedule IV or V which is also listed in Schedule I or II of the Convention on Psychotropic Substances unless and until such person is properly registered under the Act (or exempted from registration) and the Administrator has issued a permit pursuant to § 1312.23 of this part.
 

@@ -1,6 +1,6 @@
 ##### § 1312.23 Issuance of export permit. #####
 
-Link to an amendment published at 81 FR 97032, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97032, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The Administrator may authorize exportation of any controlled substance listed in Schedule I or II or any narcotic controlled substance listed in Schedule III or IV if he finds that such exportation is permitted by subsections 1003(a), (b), (c), (d), or (f) of the Act (21 U.S.C. 953(a), (b), (c), (d), or (f).
 

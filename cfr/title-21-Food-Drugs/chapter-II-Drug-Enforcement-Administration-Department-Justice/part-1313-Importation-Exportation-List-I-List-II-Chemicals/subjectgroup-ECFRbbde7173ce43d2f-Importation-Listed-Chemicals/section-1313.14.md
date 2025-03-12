@@ -1,6 +1,6 @@
 ##### § 1313.14 Distribution of import declaration. #####
 
-Link to an amendment published at 81 FR 97037, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97037, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 The required three copies of the listed chemical import declaration (DEA Form 486) will be distributed as follows:
 

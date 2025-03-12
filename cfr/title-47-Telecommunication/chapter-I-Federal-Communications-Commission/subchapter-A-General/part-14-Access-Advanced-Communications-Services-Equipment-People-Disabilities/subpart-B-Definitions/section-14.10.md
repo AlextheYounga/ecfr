@@ -1,7 +1,5 @@
 ##### § 14.10 Definitions. #####
 
-Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
-
 (a) The term *accessible* shall have the meaning provided in § 14.21(b).
 
 (b) The term *achievable* shall mean with reasonable effort or expense, as determined by the Commission. In making such a determination, the Commission shall consider:
@@ -67,3 +65,9 @@ Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
 (u) The term *specialized customer premises equipment* shall mean customer premise equipment which is commonly used by individuals with disabilities to achieve access.
 
 (v) The term *usable* shall have the meaning provided in § 14.21(c).
+
+(w) The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
+
+(x) The term *text-capable end user device* means end user equipment that is able to send, receive, and display text.
+
+[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017]

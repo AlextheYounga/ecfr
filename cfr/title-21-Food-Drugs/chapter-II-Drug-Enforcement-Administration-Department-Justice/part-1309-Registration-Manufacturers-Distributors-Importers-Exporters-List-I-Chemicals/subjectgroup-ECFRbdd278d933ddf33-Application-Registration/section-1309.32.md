@@ -1,6 +1,6 @@
 ##### § 1309.32 Application forms; contents; signature. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Any person who is required to be registered pursuant to § 1309.21 and is not so registered, shall apply on DEA Form 510.
 

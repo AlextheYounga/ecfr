@@ -1,6 +1,6 @@
 ##### § 195.64 National Registry of Pipeline and LNG Operators. #####
 
-Link to an amendment published at 82 FR 7999, January 23, 2017.
+Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (a) OPID Request. Effective January 1, 2012, each operator of a hazardous liquid pipeline or pipeline facility must obtain from PHMSA an Operator Identification Number (OPID). An OPID is assigned to an operator for the pipeline or pipeline system for which the operator has primary responsibility. To obtain an OPID or a change to an OPID, an operator must complete an OPID Assignment Request DOT Form PHMSA F 1000.1 through the National Registry of Pipeline and LNG Operators in accordance with § 195.58.
 

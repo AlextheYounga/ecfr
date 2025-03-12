@@ -1,6 +1,6 @@
 ##### § 199.227 Retention of records. #####
 
-Link to an amendment published at 82 FR 8001, January 23, 2017.
+Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 
 (a) *General requirement.* Each operator shall maintain records of its alcohol misuse prevention program as provided in this section. The records shall be maintained in a secure location with controlled access.
 

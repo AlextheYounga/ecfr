@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter of solution contains 20 milligrams (mg) of tripelennamine hydrochloride.
 
-(b) *Sponsors.* See Nos. 016592 and 054771 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 016592 and 051031 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.741 of this chapter.
 
@@ -24,4 +24,4 @@
 
 (iii) *Limitations.* Treated cattle must not be slaughtered for food during treatment and for 4 days following the last treatment. Milk that has been taken during treatment and for 24 hours (two milkings) after the last treatment must not be used for food. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[51 FR 44450, Dec. 10, 1986, as amended at 61 FR 29480, June 11, 1996; 62 FR 4164, Jan. 29, 1997; 78 FR 17597, Mar. 22, 2013; 79 FR 16198, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016]
+[51 FR 44450, Dec. 10, 1986, as amended at 61 FR 29480, June 11, 1996; 62 FR 4164, Jan. 29, 1997; 78 FR 17597, Mar. 22, 2013; 79 FR 16198, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 82 FR 11508, Feb. 24, 2017]

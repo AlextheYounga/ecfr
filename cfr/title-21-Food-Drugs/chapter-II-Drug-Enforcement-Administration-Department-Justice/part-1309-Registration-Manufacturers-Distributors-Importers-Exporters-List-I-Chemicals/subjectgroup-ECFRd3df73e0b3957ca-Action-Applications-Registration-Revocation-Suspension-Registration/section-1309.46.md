@@ -1,6 +1,6 @@
 ##### § 1309.46 Order to show cause. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) If, upon examination of the application for registration from any applicant and other information gathered by the Administration regarding the applicant, the Administrator is unable to make the determinations required by the applicable provisions of section 303 of the Act (21 U.S.C. 823) to register the applicant, the Administrator shall serve upon the applicant an order to show cause why the application for registration should not be denied.
 

@@ -1,6 +1,6 @@
 ##### § 1312.27 Contents of special controlled substances invoice. #####
 
-Link to an amendment published at 81 FR 97033, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97033, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) A person registered or authorized to export any non-narcotic controlled substance listed in Schedule III, IV, or V, which is not subject to the requirement of an export permit pursuant to § 1312.23 (b) or (c), or any person registered or authorized to export any controlled substance in Schedule V, must furnish a special controlled substances export invoice on DEA Form 236 to the Import/Export Unit, Drug Enforcement Administration, not less than 15 calendar days prior to the proposed date of exportation, and distribute four copies of same as hereinafter directed in § 1312.28 of this part. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address.
 

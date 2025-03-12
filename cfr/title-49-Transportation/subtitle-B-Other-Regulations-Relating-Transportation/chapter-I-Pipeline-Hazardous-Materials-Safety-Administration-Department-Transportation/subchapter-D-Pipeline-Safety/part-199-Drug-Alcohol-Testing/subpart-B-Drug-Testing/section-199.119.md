@@ -1,6 +1,6 @@
 ##### § 199.119 Reporting of anti-drug testing results. #####
 
-Link to an amendment published at 82 FR 8001, January 23, 2017.
+Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 
 (a) Each large operator (having more than 50 covered employees) shall submit an annual MIS report to PHMSA of its anti-drug testing using the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.25 and appendix H to Part 40), not later than March 15 of each year for the prior calendar year (January 1 through December 31). The Administrator shall require by written notice that small operators (50 or fewer covered employees) not otherwise required to submit annual MIS reports to prepare and submit such reports to PHMSA.
 

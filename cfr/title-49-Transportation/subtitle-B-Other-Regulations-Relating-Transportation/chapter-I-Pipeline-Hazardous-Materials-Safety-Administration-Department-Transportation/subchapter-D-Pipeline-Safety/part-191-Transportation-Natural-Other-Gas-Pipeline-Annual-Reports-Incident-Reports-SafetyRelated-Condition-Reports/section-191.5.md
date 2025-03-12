@@ -1,6 +1,6 @@
 ##### § 191.5 Immediate notice of certain incidents. #####
 
-Link to an amendment published at 82 FR 7997, January 23, 2017.
+Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
 
 (a) At the earliest practicable moment following discovery, each operator shall give notice in accordance with paragraph (b) of this section of each incident as defined in § 191.3.
 

@@ -1,7 +1,5 @@
 ##### § 7.3 Definitions. #####
 
-Link to an amendment published at 82 FR 7706, January 23, 2017.
-
 (a) The term *accessible* shall mean that:
 
 (1) Input, control, and mechanical functions shall be locatable, identifiable, and operable in accordance with each of the following, assessed independently:
@@ -46,6 +44,8 @@ Link to an amendment published at 82 FR 7706, January 23, 2017.
 
 (ix) Hearing aid coupling. Where a product delivers output by an audio transducer which is normally held up to the ear, provide a means for effective wireless coupling to hearing aids.
 
+(3) *Real-Time Text.* Voice communication services subject to this part that are provided over wireless IP facilities and handsets and other text-capable end user devices used with such service that do not themselves provide TTY functionality, may provide TTY connectability and signal compatibility pursuant to paragraphs (b)(3) and (4) of this section, or support real-time text communications, in accordance with 47 CFR part 67.
+
 (b) The term *compatibility* shall mean compatible with peripheral devices and specialized customer premises equipment commonly used by individuals with disabilities to achieve accessibility to voicemail and interactive menus, and in compliance with the following provisions, as applicable:
 
 (1) External electronic access to all information and control mechanisms. Information needed for the operation of products (including output, alerts, icons, on-line help, and documentation) shall be available in a standard electronic text format on a cross-industry standard port and all input to and control of a product shall allow for real time operation by electronic text input into a cross-industry standard external port and in cross-industry standard format. The cross-industry standard port shall not require manipulation of a connector by the user.
@@ -55,6 +55,8 @@ Link to an amendment published at 82 FR 7706, January 23, 2017.
 (3) TTY connectability. Products which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. It shall also be possible for the user to easily turn any microphone on and off to allow the user to intermix speech with TTY use.
 
 (4) TTY signal compatibility. Products, including those providing voice communication functionality, shall support use of all cross-manufacturer non-proprietary standard signals used by TTYs.
+
+(5) *TTY Support Exemption.* Voice communication services subject to this part that are offered over wireless IP facilities and equipment used with such services are not required to provide TTY connectability and TTY signal compatibility if such services and equipment support real-time text, in accordance with 47 CFR part 67.
 
 (c) The term *customer premises equipment* shall mean equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
 
@@ -85,3 +87,9 @@ Link to an amendment published at 82 FR 7706, January 23, 2017.
 (l) The term *usable* shall mean that individuals with disabilities have access to the full functionality and documentation for the product, including instructions, product information (including accessible feature information), documentation, bills and technical support which is provided to individuals without disabilities.
 
 (m) The term *Voicemail* shall mean the capability of answering calls and recording incoming messages when a line is busy or does not answer within a pre-specified amount of time or number of rings; receiving those messages at a later time; and may also include the ability to determine the sender and time of transmission without hearing the entire message; the ability to forward the message to another voice massaging customer, with and/or without an appended new message; the ability for the sender to confirm receipt of a message; the ability to send, receive, and/or store facsimile messages; and possibly other features.
+
+(n) The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
+
+(o) The term *text-capable end user device* means customer premises equipment that is able to send, receive, and display text.
+
+[64 FR 63255, Nov. 19, 1999, as amended at 82 FR 7706, Jan. 23, 2017]

@@ -14,4 +14,4 @@
 
 (g) For 406 MHz PLBs with identification codes that can be changed after manufacture, the identification code shown on the plate or label must be easily replaceable using commonly available tools.
 
-[68 FR 32678, June 2, 2003, as amended at 79 FR 77919, Dec. 29, 2014; 81 FR 90749, Dec. 15, 2016]Effective Date Note:At 81 FR 90749, Dec. 15, 2016, § 95.1402 was amended by revising paragraphs (a) through (f). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[68 FR 32678, June 2, 2003, as amended at 79 FR 77919, Dec. 29, 2014; 81 FR 90749, Dec. 15, 2016]

@@ -38,7 +38,7 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (B) From May 1 through December 31, until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight.
 
-(ii) *Sea bass pot component.* From May 1 through October 31, until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight. See § 622.183(b)(6) regarding the November 1 through April 30 seasonal closure of the commercial black sea bass pot component of the snapper-grouper fishery.
+(ii) Sea bass pot component. Until the applicable quota specified in § 622.190(a)(5) is reached - 1,000 lb (454 kg), gutted weight; 1,180 lb (535 kg), round weight.
 
 (iii) See § 622.190(c)(1) for the limitations regarding black sea bass after the applicable quota is reached.
 
@@ -50,4 +50,4 @@ Commercial trip limits are limits on the amount of the applicable species that m
 
 (b) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 23863 Apr. 23, 2013; 78 FR 44465, July 24, 2013; 78 FR 47579, Aug. 6, 2013; 79 FR 66322, Nov. 7, 2014; 80 FR 16587, Mar. 30, 2015; 80 FR 30953, June 1, 2015; 80 FR 43038, July 21, 2015; 81 FR 32253, May 23, 2016; 81 FR 45248, July 13, 2016; 82 FR 11157, Feb. 21, 2017]

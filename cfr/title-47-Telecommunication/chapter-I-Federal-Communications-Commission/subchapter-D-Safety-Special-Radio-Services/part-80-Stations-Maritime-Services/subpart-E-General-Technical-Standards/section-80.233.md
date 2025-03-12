@@ -12,4 +12,4 @@
 
 (d) A certification application for an AIS-SART device must contain a copy of the U.S. Coast Guard letter stating that the device satisfies all of the requirements specified in IEC 61097-14, a copy of the technical test data, and the instruction manual(s).
 
-[81 FR 90747, Dec. 15, 2016]Effective Date Note:At 81 FR 90747, Dec. 15, 2016, § 80.233 was added. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 90747, Dec. 15, 2016]

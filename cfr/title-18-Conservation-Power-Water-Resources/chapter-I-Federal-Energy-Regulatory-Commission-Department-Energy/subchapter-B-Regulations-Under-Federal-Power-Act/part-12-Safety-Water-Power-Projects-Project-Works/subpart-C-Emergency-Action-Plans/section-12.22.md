@@ -1,6 +1,6 @@
 ##### § 12.22 Contents of emergency action plan. #####
 
-(a) *Contents* - (1) *The plan itself.* An emergency action plan must conform with the guidelines established, and from time to time revised, by the Director of the Office of Energy Projects Licensing (available from the division of Inspections or the Regional Engineer) to provide:
+(a) *Contents* - (1) *The plan itself.* An emergency action plan must conform with the guidelines established, and from time to time revised, by the Director of the Office of Energy Projects (available from the division of Inspections or the Regional Engineer) to provide:
 
 (i) Instructions to project operators and attendants and other responsible personnel about the actions they are to take during a project emergency;
 
@@ -8,7 +8,7 @@
 
 (iii) Procedures for controlling the flow of water, including actions to reduce in-flows to reservoirs, such as limiting outflows from upstream dams or control structures, and actions to reduce downstream flows, such as increasing or decreasing outflows from downstream dams or control structures, on the waterway on which the project is located or its tributaries.
 
-(2) *Appendix to the plan.* Each copy of the emergency action plan submitted to the Regional Engineer must be accompanied by an appendix conforming with the guidelines established by the Director of the Office of Energy Projects Licensing that contains:
+(2) *Appendix to the plan.* Each copy of the emergency action plan submitted to the Regional Engineer must be accompanied by an appendix conforming with the guidelines established by the Director of the Office of Energy Projects that contains:
 
 (i) Plans for training project operators, attendants, and other responsible personnel to respond properly during a project emergency, including instructions on the procedures to be followed throughout a project emergency and the manner in which the licensee will periodically review the knowledge and understanding that these personnel have of those procedures;
 

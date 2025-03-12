@@ -1,6 +1,6 @@
 ##### § 195.248 Cover over buried pipeline. #####
 
-Link to an amendment published at 82 FR 7999, January 23, 2017.
+Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (a) Unless specifically exempted in this subpart, all pipe must be buried so that it is below the level of cultivation. Except as provided in paragraph (b) of this section, the pipe must be installed so that the cover between the top of the pipe and the ground level, road bed, river bottom, or underwater natural bottom (as determined by recognized and generally accepted practices), as applicable, complies with the following table:
 

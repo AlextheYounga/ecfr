@@ -1,6 +1,6 @@
 ##### § 1313.26 Transfers following exportation. #####
 
-Link to an amendment published at 81 FR 97039, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97039, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) In the case of a notice under § 1313.21(a) submitted by a regulated person, if the transferee identified in the notice, *i.e.*, the foreign importer, is not a regular customer, the regulated person may not transfer the listed chemical until after the expiration of the 15-day period beginning on the date on which the notice is submitted to the Administration.
 

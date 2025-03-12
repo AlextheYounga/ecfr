@@ -1,6 +1,6 @@
 ##### § 195.452 Pipeline integrity management in high consequence areas. #####
 
-Link to an amendment published at 82 FR 7999, January 23, 2017.
+Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (a) *Which pipelines are covered by this section?* This section applies to each hazardous liquid pipeline and carbon dioxide pipeline that could affect a high consequence area, including any pipeline located in a high consequence area unless the operator effectively demonstrates by risk assessment that the pipeline could not affect the area. (Appendix C of this part provides guidance on determining if a pipeline could affect a high consequence area.) Covered pipelines are categorized as follows:
 

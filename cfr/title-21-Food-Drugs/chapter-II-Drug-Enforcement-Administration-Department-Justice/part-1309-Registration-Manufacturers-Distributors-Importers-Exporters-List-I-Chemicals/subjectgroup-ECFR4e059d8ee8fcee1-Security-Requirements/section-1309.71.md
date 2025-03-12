@@ -1,6 +1,6 @@
 ##### § 1309.71 General security requirements. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) All applicants and registrants must provide effective controls and procedures to guard against theft and diversion of List I chemicals. Chemicals must be stored in containers sealed in such a manner as to indicate any attempts at tampering with the container. Where chemicals cannot be stored in sealed containers, access to the chemicals should be controlled through physical means or through human or electronic monitoring.
 

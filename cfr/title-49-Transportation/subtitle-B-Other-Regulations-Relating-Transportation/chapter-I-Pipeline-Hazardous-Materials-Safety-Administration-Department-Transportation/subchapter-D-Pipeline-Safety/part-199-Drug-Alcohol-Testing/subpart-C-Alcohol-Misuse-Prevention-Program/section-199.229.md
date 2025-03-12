@@ -1,6 +1,6 @@
 ##### § 199.229 Reporting of alcohol testing results. #####
 
-Link to an amendment published at 82 FR 8001, January 23, 2017.
+Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 
 (a) Each large operator (having more than 50 covered employees) shall submit an annual MIS report to PHMSA of its alcohol testing results using the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.25 and appendix H to part 40), not later than March 15 of each year for the previous calendar year (January 1 through December 31). The Administrator may require by written notice that small operators (50 or fewer covered employees) not otherwise required to submit annual MIS reports to prepare and submit such reports to PHMSA.
 

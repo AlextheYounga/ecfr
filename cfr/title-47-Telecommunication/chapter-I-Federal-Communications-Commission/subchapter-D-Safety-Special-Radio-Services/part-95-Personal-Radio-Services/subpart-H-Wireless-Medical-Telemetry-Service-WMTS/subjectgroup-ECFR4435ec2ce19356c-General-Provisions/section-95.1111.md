@@ -1,7 +1,5 @@
 ##### § 95.1111 Frequency coordination. #####
 
-Link to an amendment published at 80 FR 73805, Nov. 23, 2015.
-
 (a) Prior to operation, authorized health care providers who desire to use wireless medical telemetry devices must register all devices with a designated frequency coordinator. Except as specified in § 95.1105, operation of WMTS equipment prior to registration is not authorized under this part. The registration must include the following information:
 
 (1) Specific frequencies or frequency range(s) used;
@@ -22,4 +20,6 @@ Link to an amendment published at 80 FR 73805, Nov. 23, 2015.
 
 (c) As of April 14, 2010, no registrations may be accepted for frequencies where WMTS does not have primary status. Previously registered secondary facilities may continue to operate as registered.
 
-[65 FR 44008, July 17, 2000, as amended at 75 FR 19285, Apr. 14, 2010]
+(d) To receive interference protection, parties operating WMTS networks on channel 37 shall notify one of the white space database administrators of their operating location pursuant to §§ 15.713(j)(11) and 15.715(p) of this chapter.
+
+[65 FR 44008, July 17, 2000, as amended at 75 FR 19285, Apr. 14, 2010; 80 FR 73085, Nov. 23, 2015]

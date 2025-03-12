@@ -1,6 +1,6 @@
 ##### § 192.383 Excess flow valve installation. #####
 
-Link to an amendment published at 81 FR 71001, October 14, 2016.Link to a correction of the above amendment published at 81 FR 72739, October 21, 2016.
+Link to an amendment published at 81 FR 71001, Oct. 14, 2016.Link to a correction of the above amendment published at 81 FR 72739, Oct. 21, 2016.
 
 (a) *Definitions.* As used in this section:
 

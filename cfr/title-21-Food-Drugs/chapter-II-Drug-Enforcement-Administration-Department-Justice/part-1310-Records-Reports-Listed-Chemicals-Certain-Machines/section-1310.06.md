@@ -1,6 +1,6 @@
 ##### § 1310.06 Content of records and reports. #####
 
-Link to an amendment published at 81 FR 97023, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97023, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Each record required by § 1310.03 shall include the following:
 

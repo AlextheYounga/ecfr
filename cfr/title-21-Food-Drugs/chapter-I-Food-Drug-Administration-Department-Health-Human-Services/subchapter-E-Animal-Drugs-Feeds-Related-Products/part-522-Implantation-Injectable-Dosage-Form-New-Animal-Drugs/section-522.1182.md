@@ -26,7 +26,7 @@
 
 (ii) For the treatment of anemia due to iron deficiency, administer an intramuscular injection of 200 mg.
 
-(3) Nos. 000061 and 059120 for use of product described in paragraph (a)(1)(i) of this section as follows:
+(3) Nos. 000061 and 013744 for use of product described in paragraph (a)(1)(i) of this section as follows:
 
 (i) For the prevention of iron deficiency anemia, administer intramuscularly an amount of drug containing 100 to 150 mg of elemental iron to animals from 1 to 3 days of age.
 
@@ -56,4 +56,4 @@
 
 (ii) For treatment of anemia due to iron deficiency, intramuscularly inject 200 mg of elemental iron at the first sign of anemia.
 
-[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016]
+[73 FR 12635, Mar. 10, 2008, as amended at 73 FR 14385, Mar. 18, 2008; 78 FR 17597, Mar. 22, 2013; 78 FR 44433, July 24, 2013; 79 FR 16190, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 81 FR 59134, Aug. 29, 2016; 82 FR 11508, Feb. 24, 2017]

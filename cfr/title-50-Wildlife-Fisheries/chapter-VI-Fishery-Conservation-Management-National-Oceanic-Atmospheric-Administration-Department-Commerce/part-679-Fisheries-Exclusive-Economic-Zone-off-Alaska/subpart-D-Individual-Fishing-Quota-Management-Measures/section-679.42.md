@@ -360,4 +360,4 @@
 
 (ii) Comply with Vessel Monitoring System (VMS) requirements specified in paragraph (k)(2) of this section.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 8810, Jan. 31, 2017, the final rule amending part 679 that published Dec. 28, 2016 at 81 FR 95435 was stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017. At 82 FR 8811, Jan. 31, 2017, in § 679.42, paragraphs (b)(1) and (2), (k)(1) and (2), and paragraph (l) are stayed until Mar. 12, 2017. At 82 FR 9501, Feb. 7, 2017, the effectiveness of the stay was corrected to read Mar. 11, 2017.
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

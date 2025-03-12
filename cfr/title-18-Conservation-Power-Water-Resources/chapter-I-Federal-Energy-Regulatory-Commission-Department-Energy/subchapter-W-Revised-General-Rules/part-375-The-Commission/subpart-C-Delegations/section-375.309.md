@@ -1,7 +1,5 @@
 ##### § 375.309 Delegations to the General Counsel. #####
 
-Link to an amendment published at 81 FR 93748, Dec. 21, 2016.
-
 The Commission authorizes the General Counsel or the General Counsel's designee to:
 
 (a) Designate officers empowered to administer oaths and affirmations, subpoena witnesses, compel their attendance and testimony, take evidence, compel the filing of special reports and interrogatories, gather information, and require the production of any books, papers, correspondence, memoranda, contracts, agreements, or other records, in the course of formal investigations conducted by the Office of the General Counsel to the extent the Commission's order of investigation expressly provides for the exercise of such investigative powers.
@@ -18,8 +16,8 @@ The Commission authorizes the General Counsel or the General Counsel's designee 
 
 (g) Grant uncontested applications for exempt wholesale generator status that do not involve unusual or interpretation issues; to act on uncontested motions to withdraw such applications; and to act on uncontested amendments to applications for EWG status that do not present unusual or interpretation issues.
 
-(h) [Reserved]
+(h) Deny or grant, in whole or in part, an appeal of a determination by the CEII Coordinator.
 
 (i) Deny or grant, in whole or in part, an appeal of a Freedom of Information Act determination by the Director of the Office of External Affairs.
 
-[Order 38, 44 FR 46453, Aug. 8, 1979]Editorial Note:For Federal Register citations affecting § 375.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Order 38, 44 FR 46453, Aug. 8, 1979]Editorial Note:For Federal Register citations affecting § 375.309, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,6 +1,6 @@
 ##### § 195.5 Conversion to service subject to this part. #####
 
-Link to an amendment published at 82 FR 7999, January 23, 2017.
+Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (a) A steel pipeline previously used in service not subject to this part qualifies for use under this part if the operator prepares and follows a written procedure to accomplish the following:
 

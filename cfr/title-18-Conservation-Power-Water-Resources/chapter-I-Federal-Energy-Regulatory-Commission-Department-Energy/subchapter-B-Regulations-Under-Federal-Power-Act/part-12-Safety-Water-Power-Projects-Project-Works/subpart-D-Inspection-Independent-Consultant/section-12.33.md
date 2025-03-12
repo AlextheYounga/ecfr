@@ -1,6 +1,6 @@
 ##### § 12.33 Exemption. #####
 
-(a) Upon written request from the licensee, the Director of the Office of Energy Projects Licensing may grant an exemption from the requirements of this subpart in extraordinary circumstances that clearly establish good cause for exemption.
+(a) Upon written request from the licensee, the Director of the Office of Energy Projects may grant an exemption from the requirements of this subpart in extraordinary circumstances that clearly establish good cause for exemption.
 
 (b) Good cause for exemption may include the finding that the development in question has no dam except dams that meet the criteria for low hazard potential as defined by the Corps of Engineers in 33 CFR part 222.
 

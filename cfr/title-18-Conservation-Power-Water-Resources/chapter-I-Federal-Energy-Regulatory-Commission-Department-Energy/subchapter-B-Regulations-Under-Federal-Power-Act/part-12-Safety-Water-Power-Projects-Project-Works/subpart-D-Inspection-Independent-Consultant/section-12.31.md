@@ -24,6 +24,6 @@ For purposes of this subpart:
 
 (d) *Gross storage capacity* means the maximum possible volume of water impounded by a dam with zero spill, that is, without the discharge of water over the dam or a spillway.
 
-(e) The Director of the Office of Energy Projects Licensing may, for good cause shown, grant a waiver of the 10 year requirement in paragraph (a)(2) of this section. Any petition for waiver under this paragraph must be filed in accordance with § 1.7(b) of this chapter.
+(e) The Director of the Office of Energy Projects may, for good cause shown, grant a waiver of the 10 year requirement in paragraph (a)(2) of this section. Any petition for waiver under this paragraph must be filed in accordance with § 1.7(b) of this chapter.
 
 [Order 122, 46 FR 9036, Jan. 28, 1981, as amended at 49 FR 29370, July 20, 1984]

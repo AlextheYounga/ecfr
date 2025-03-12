@@ -1,6 +1,6 @@
 ##### § 1310.13 Exemption of chemical mixtures; application. #####
 
-Link to an amendment published at 81 FR 97025, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97025, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The Administrator may, by publication of a Final Rule in the Federal Register, exempt from the application of all or any part of the Act a chemical mixture consisting of two or more chemical components, at least one of which is not a List I or List II chemical, if:
 

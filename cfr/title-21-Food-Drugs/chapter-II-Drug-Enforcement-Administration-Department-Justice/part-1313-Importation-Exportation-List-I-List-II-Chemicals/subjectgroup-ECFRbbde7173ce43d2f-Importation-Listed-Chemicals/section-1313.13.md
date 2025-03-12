@@ -1,6 +1,6 @@
 ##### § 1313.13 Contents of import declaration. #####
 
-Link to an amendment published at 81 FR 97036, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97036, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Any List I or List II chemical listed in § 1310.02 of this chapter may be imported if that chemical is necessary for medical, commercial, scientific, or other legitimate uses within the United States. Chemical importations into the United States for immediate transfer/transshipment outside the United States must comply with the procedures set forth in § 1313.31.
 

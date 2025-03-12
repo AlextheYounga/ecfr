@@ -1,6 +1,6 @@
 ##### § 1301.26 Exemptions from import or export requirements for personal medical use. #####
 
-Link to an amendment published at 81 FR 97019, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97019, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 Any individual who has in his/her possession a controlled substance listed in schedules II, III, IV, or V, which he/she has lawfully obtained for his/her personal medical use, or for administration to an animal accompanying him/her, may enter or depart the United States with such substance notwithstanding sections 1002-1005 of the Act (21 U.S.C. 952-955), provided the following conditions are met:
 

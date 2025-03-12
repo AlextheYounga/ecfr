@@ -1,7 +1,5 @@
 ##### § 64.601 Definitions and provisions of general applicability. #####
 
-Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
-
 (a) For purposes of this subpart, the terms *Public Safety Answering Point (PSAP), statewide default answering point,* and *appropriate local emergency authority* are defined in 47 CFR 64.3000; the terms *pseudo-ANI* and *Wireline E911 Network* are defined in 47 CFR 9.3; the term *affiliate* is defined in 47 CFR 52.12(a)(1)(i), and the terms *majority* and *debt* are defined in 47 CFR 52.12(a)(1)(ii).
 
 (1) *711.* The abbreviated dialing code for accessing relay services anywhere in the United States.
@@ -32,7 +30,7 @@ Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
 
 (14) *Interconnected VoIP service.* The term “interconnected VoIP service” has the meaning given such term under § 9.3 of this chapter, as such section may be amended from time to time.
 
-(15) *Internet-based TRS (iTRS).* A telecommunications relay service (TRS) in which an individual with a hearing or a speech disability connects to a TRS communications assistant using an Internet Protocol-enabled device via the Internet, rather than the public switched telephone network. Internet-based TRS does not include the use of a text telephone (TTY) over an interconnected voice over Internet Protocol service.
+(15) *Internet-based TRS (iTRS).* A telecommunications relay service (TRS) in which an individual with a hearing or a speech disability connects to a TRS communications assistant using an Internet Protocol-enabled device via the Internet, rather than the public switched telephone network. Except as authorized or required by the Commission, Internet-based TRS does not include the use of a text telephone (TTY) or RTT over an interconnected voice over Internet Protocol service.
 
 (16) *Internet Protocol Captioned Telephone Service (IP CTS).* A telecommunications relay service that permits an individual who can speak but who has difficulty hearing over the telephone to use a telephone and an Internet Protocol-enabled device via the Internet to simultaneously listen to the other party and read captions of what the other party is saying. With IP CTS, the connection carrying the captions between the relay service provider and the relay service user is via the Internet, rather than the public switched telephone network.
 
@@ -112,6 +110,8 @@ Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
 
 (45) *VRS CA service provider.* A VRS provider that uses the Neutral Video Communication Service Platform for the video communication service components of VRS.
 
+(46) *Real-Time Text (RTT).* The term *real-time text* shall have the meaning set forth in § 67.1 of this chapter.
+
 (b) For purposes of this subpart, all regulations and requirements applicable to common carriers shall also be applicable to providers of interconnected VoIP service.
 
-[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013]
+[68 FR 50976, Aug. 25, 2003, as amended at 69 FR 53351, Sept. 1, 2004; 72 FR 43559, Aug. 6, 2007; 73 FR 41294, July 18, 2008; 76 FR 24400, May 2, 2011; 76 FR 65969, Oct. 25, 2011; 78 FR 40605, July 5, 2013; 82 FR 7707, Jan. 23, 2017]

@@ -1,6 +1,6 @@
 ##### § 1304.21 General requirements for continuing records. #####
 
-Link to an amendment published at 81 FR 97020, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97020, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Every registrant required to keep records pursuant to § 1304.03 shall maintain, on a current basis, a complete and accurate record of each substance manufactured, imported, received, sold, delivered, exported, or otherwise disposed of by him/her, and each inner liner, sealed inner liner, and unused and returned mail-back package, except that no registrant shall be required to maintain a perpetual inventory.
 

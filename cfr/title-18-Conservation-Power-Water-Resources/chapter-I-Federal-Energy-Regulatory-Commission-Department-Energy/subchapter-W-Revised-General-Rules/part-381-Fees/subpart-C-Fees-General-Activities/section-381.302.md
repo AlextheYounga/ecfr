@@ -1,6 +1,6 @@
 ##### § 381.302 Petition for issuance of a declaratory order (except under Part I of the Federal Power Act.) #####
 
-(a) Except as provided in paragraph (b) of this section, the fee established for filing a petition for issuance of a declaratory order under § 385.207 of this chapter is $24,980. The fee must be submitted in accordance with subpart A of this part.
+(a) Except as provided in paragraph (b) of this section, the fee established for filing a petition for issuance of a declaratory order under § 385.207 of this chapter is $25,640. The fee must be submitted in accordance with subpart A of this part.
 
 (b) No fee is necessary to file a petition for issuance of a declaratory order that solely concerns the investigation, issuance, transfer, renewal, revocation, and enforcement of licenses and permits for the construction, operation, and maintenance of dams, water conduits, reservoirs, powerhouses, transmission lines, or other works for the development and improvement of navigation and for the development and utilization of power across, along, from, or in navigable waters under Part I of the Federal Power Act.
 

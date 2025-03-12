@@ -1,6 +1,6 @@
 ##### § 190.341 Special permits. #####
 
-Link to an amendment published at 82 FR 7995, January 23, 2017.
+Link to an amendment published at 82 FR 7995, Jan. 23, 2017.
 
 (a) *What is a special permit?* A special permit is an order by which PHMSA waives compliance with one or more of the Federal pipeline safety regulations under the standards set forth in 49 U.S.C. 60118(c) and subject to conditions set forth in the order. A special permit is issued to a pipeline operator (or prospective operator) for specified facilities that are or, absent waiver, would be subject to the regulation.
 

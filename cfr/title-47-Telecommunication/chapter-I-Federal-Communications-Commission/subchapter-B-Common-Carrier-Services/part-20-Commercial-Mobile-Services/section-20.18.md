@@ -1,7 +1,5 @@
 ##### § 20.18 911 Service. #####
 
-Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
-
 (a) *Scope of section.* The following requirements are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 
 (1) Offer real-time, two way switched voice service that is interconnected with the public switched network; and
@@ -10,7 +8,7 @@ Link to an amendment published at 82 FR 7707, Jan. 23, 2017.
 
 (b) *Basic 911 Service.* CMRS providers subject to this section must transmit all wireless 911 calls without respect to their call validation process to a Public Safety Answering Point, or, where no Public Safety Answering Point has been designated, to a designated statewide default answering point or appropriate local emergency authority pursuant to § 64.3001 of this chapter, provided that “all wireless 911 calls” is defined as “any call initiated by a wireless user dialing 911 on a phone using a compliant radio frequency protocol of the serving carrier.”
 
-(c) *TTY Access to 911 Services.* CMRS providers subject to this section must be capable of transmitting 911 calls from individuals with speech or hearing disabilities through means other than mobile radio handsets, *e.g.*, through the use of Text Telephone Devices (TTY).
+(c) *Access to 911 services.* CMRS providers subject to this section must be capable of transmitting 911 calls from individuals with speech or hearing disabilities through means other than mobile radio handsets, *e.g.,* through the use of Text Telephone Devices (TTY). CMRS providers that provide voice communications over IP facilities are not required to support 911 access via TTYs if they provide 911 access via real-time text (RTT) communications, in accordance with 47 CFR part 67, except that RTT support is not required to the extent that it is not achievable for a particular manufacturer to support RTT on the provider's network.
 
 (d) *Phase I enhanced 911 services.* (1) As of April 1, 1998, or within six months of a request by the designated Public Safety Answering Point as set forth in paragraph (j) of this section, whichever is later, licensees subject to this section must provide the telephone number of the originator of a 911 call and the location of the cell site or base station receiving a 911 call from any mobile handset accessing their systems to the designated Public Safety Answering Point through the use of ANI and Pseudo-ANI.
 

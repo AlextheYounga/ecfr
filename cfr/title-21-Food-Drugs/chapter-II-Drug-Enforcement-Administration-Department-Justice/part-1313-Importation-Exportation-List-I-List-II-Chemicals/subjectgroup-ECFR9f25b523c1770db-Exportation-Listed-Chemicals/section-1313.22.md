@@ -1,6 +1,6 @@
 ##### § 1313.22 Contents of export declaration. #####
 
-Link to an amendment published at 81 FR 97038, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97038, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Any List I or List II chemical listed in § 1310.02 of this chapter which meets or exceeds the quantitative threshold criteria established in § 1310.04(f) of this chapter may be exported if that chemical is needed for medical, commercial, scientific, or other legitimate uses.
 

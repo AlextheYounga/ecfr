@@ -26,4 +26,4 @@
 
 (f) A certification application for an MSLD must contain a copy of the U.S. Coast Guard letter stating that the device satisfies all RTCM Recommended Standards, a copy of the technical test data, and the instruction manual(s).
 
-[81 FR 90749, Dec. 15, 2016]Effective Date Note:At 81 FR 90749, Dec. 15, 2016, § 95.1403 was added. This text contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 90749, Dec. 15, 2016]

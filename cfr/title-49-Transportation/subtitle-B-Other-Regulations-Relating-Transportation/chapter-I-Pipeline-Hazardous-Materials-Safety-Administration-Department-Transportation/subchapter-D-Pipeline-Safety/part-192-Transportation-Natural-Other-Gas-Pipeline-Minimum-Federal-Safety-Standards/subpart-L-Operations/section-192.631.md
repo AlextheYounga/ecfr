@@ -1,6 +1,6 @@
 ##### § 192.631 Control room management. #####
 
-Link to an amendment published at 82 FR 7997, January 23, 2017.
+Link to an amendment published at 82 FR 7997, Jan. 23, 2017.
 
 (a) *General.* (1) This section applies to each operator of a pipeline facility with a controller working in a control room who monitors and controls all or part of a pipeline facility through a SCADA system. Each operator must have and follow written control room management procedures that implement the requirements of this section, except that for each control room where an operator's activities are limited to either or both of:
 

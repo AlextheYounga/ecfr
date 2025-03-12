@@ -1,6 +1,6 @@
 ##### § 1309.26 Exemption of law enforcement officials. #####
 
-Link to an amendment published at 81 FR 97021, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97021, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The requirement of registration is waived for the following persons in the circumstances described in this section:
 

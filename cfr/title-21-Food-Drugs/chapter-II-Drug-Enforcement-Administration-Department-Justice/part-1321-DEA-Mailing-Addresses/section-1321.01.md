@@ -1,6 +1,6 @@
 ##### § 1321.01 DEA mailing addresses. #####
 
-Link to an amendment published at 81 FR 97041, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97041, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 The following table provides information regarding mailing addresses to be used when sending specified correspondence to the Drug Enforcement Administration.
 

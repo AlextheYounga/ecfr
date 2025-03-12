@@ -1,7 +1,6 @@
 ##### § 1312.13 Issuance of import permit. #####
 
-Link to an amendment published at
-81 FR 97027, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97027, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) The Administrator may authorize importation of any controlled substance listed in Schedule I or II or any narcotic drug listed in Schedule III, IV, or V if he finds:
 

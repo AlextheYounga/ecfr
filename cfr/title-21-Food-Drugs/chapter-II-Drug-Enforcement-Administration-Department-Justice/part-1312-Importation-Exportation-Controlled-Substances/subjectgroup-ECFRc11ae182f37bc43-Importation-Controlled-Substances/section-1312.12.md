@@ -1,6 +1,6 @@
 ##### § 1312.12 Application for import permit. #####
 
-Link to an amendment published at 81 FR 97026, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97026, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) An application for a permit to import controlled substances shall be made on DEA Form 357. DEA Form 357 may be obtained from, and shall be filed with, the Import/Export Unit, Drug Enforcement Administration. See the Table of DEA Mailing Addresses in § 1321.01 of this chapter for the current mailing address. Each application shall show the date of execution; the registration number of the importer; a detailed description of each controlled substance to be imported including the drug name, dosage form, National Drug Code (NDC) number, the Administration Controlled Substance Code Number as set forth in part 1308 of this chapter, the number and size of packages or containers, the name and quantity of the controlled substance contained in any finished dosage units, and the net quantity of any controlled substance (expressed in anhydrous acid, base or alkaloid) given in kilograms or parts thereof. The application shall also include the following:
 

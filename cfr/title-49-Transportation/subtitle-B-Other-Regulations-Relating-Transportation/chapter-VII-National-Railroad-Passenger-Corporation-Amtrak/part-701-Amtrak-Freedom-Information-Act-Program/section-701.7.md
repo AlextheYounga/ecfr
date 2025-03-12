@@ -1,12 +1,12 @@
 ##### § 701.7 Timing of responses to requests. #####
 
-(a) *General.* (1) The time limits of the FOIA will begin only after the requirements for submitting a request as established in § 701.5 have been met, and the request is deemed received by the Freedom of Information Office.
+(a) *General.* (1) The time limits prescribed in the FOIA will begin only after the requirements for submitting a request as established in § 701.5 have been met, and the request is deemed received by the FOIA Office.
 
 (2) A request for records shall be considered to have been received on the later of the following dates:
 
-(i) The requester has agreed in writing to pay applicable fees in accordance with § 701.5(d), or
+(i) The requester has agreed in writing to pay applicable fees in accordance with § 701.5(d); or
 
-(ii) The fees have been waived in accordance with § 701.11(k), or
+(ii) The fees have been waived in accordance with § 701.11(k); or
 
 (iii) Payment in advance has been received from the requester when required in accordance with § 701.11(i).
 
@@ -22,13 +22,13 @@
 
 (b) *Initial determination.* Whenever possible, an initial determination to release or deny a record shall be made within twenty business days after receipt of the request. In “unusual circumstances” as described in paragraph (d) of this section, the time for an initial determination may be extended for ten business days.
 
-(c) *Multitrack processing.* (1) Amtrak may use two or more processing tracks by distinguishing between simple and more complex requests based on the amount of work and/or time needed to process a request or the number of pages involved.
+(c) *Multitrack processing.* (1) Amtrak may use two or more processing tracks by distinguishing between simple, complex, and expedited requests based on the amount of work and/or time needed to process a request or the number of pages involved.
 
 (2) In general, when requests are received, Amtrak's FOIA Office will review and categorize them for tracking purposes. Requests within each track will be processed according to date of receipt.
 
 (3) The FOIA Office may contact a requester when a request does not appear to qualify for fast track processing to provide an opportunity to limit the scope of the request and qualify for a faster track. Such notification shall be at the discretion of the FOIA Office and will depend largely on whether it is believed that a narrowing of the request could place the request on a faster track.
 
-(d) *Unusual circumstances.* (1) The requesting party shall be notified in writing if the time limits for processing a request cannot be met because of unusual circumstances, and it will be necessary to extend the time limits for processing the request. The notification shall include the date by which the request can be expected to be completed. Where the extension is for more than ten business days, the requesting party will be afforded an opportunity to either modify the request so that it may be processed within the time limits or to arrange an alternative time period for processing the initial request or modified request.
+(d) *Unusual circumstances.* (1) The requesting party shall be notified in writing if the time limits for processing a request cannot be met because of unusual circumstances, and it will be necessary to extend the time limits for processing the request. The notification shall set forth the unusual circumstances for such extension and shall include the date by which the request can be expected to be completed. Where the extension is for more than ten business days, the requesting party will be afforded an opportunity to either modify the request so that it may be processed within the time limits or to arrange an alternative time period for processing the initial request or modified request. In such a case, the requesting party has the right to seek assistance from Amtrak's FOIA Public Liaison and to seek dispute resolution services from the Office of Government Information Services (OGIS).
 
 (2) If Amtrak believes that multiple requests submitted by a requester or by a group of requesters acting in concert constitute a single request that would otherwise involve unusual circumstances and the requests involve clearly related matters, the requests may be aggregated. Multiple requests concerning unrelated matters may not be aggregated.
 
@@ -40,7 +40,9 @@
 
 (iii) The need for consultation, which shall be conducted with all practicable speed, with agencies having a substantial interest in the determination of the request, or among two or more Amtrak components having a substantial subject-matter interest in the request.
 
-(e) *Expedited processing.* (1) Requests and appeals may be taken out of order and given expedited treatment whenever it is determined that they involve a compelling need, which means:
+(e) *Exceptional circumstances.* If a court has determined that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
+
+(f) *Expedited processing.* (1) Requests and appeals may be taken out of order and given expedited treatment whenever it is determined that they involve a compelling need, which means:
 
 (i) Circumstances in which the lack of expedited treatment could reasonably be expected to pose an imminent threat to the life or physical safety of an individual; and
 

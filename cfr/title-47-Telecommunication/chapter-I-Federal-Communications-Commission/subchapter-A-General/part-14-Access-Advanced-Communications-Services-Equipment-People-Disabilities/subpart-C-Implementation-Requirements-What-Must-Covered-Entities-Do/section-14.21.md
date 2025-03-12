@@ -46,6 +46,8 @@
 
 (ix) *Hearing aid coupling.* Where a product delivers output by an audio transducer which is normally held up to the ear, provide a means for effective wireless coupling to hearing aids.
 
+(3) *Real-Time Text.* Wireless interconnected VoIP services subject to this part and text-capable end user devices used with such services that do not themselves provide TTY functionality, may provide TTY connectability and signal compatibility pursuant to paragraphs (b)(3) and (4) of this section, or support real-time text communications, in accordance with 47 CFR part 67.
+
 (c) *Usable.* The term usable shall mean that individuals with disabilities have access to the full functionality and documentation for the product, including instructions, product information (including accessible feature information), documentation and technical support functionally equivalent to that provided to individuals without disabilities.
 
 (d) *Compatible.* The term *compatible* shall mean compatible with peripheral devices and specialized customer premises equipment, and in compliance with the following provisions, as applicable:
@@ -57,3 +59,7 @@
 (3) *TTY connectability.* Products that provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. It shall also be possible for the user to easily turn any microphone on and off to allow the user to intermix speech with TTY use.
 
 (4) *TTY signal compatibility.* Products, including those providing voice communication functionality, shall support use of all cross-manufacturer non-proprietary standard signals used by TTYs.
+
+(5) *TTY Support Exemption.* Interconnected and non-interconnected VoIP services subject to this part that are provided over wireless IP facilities and equipment are not required to provide TTY connectability and TTY signal compatibility if such services and equipment support real-time text, in accordance with 47 CFR part 67.
+
+[76 FR 82389, Dec. 30, 2011, as amended at 82 FR 7707, Jan. 23, 2017]

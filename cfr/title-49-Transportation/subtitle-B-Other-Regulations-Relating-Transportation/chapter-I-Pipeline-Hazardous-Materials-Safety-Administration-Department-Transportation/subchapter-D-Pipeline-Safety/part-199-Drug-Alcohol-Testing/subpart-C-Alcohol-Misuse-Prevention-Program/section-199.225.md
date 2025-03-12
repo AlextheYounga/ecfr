@@ -1,6 +1,6 @@
 ##### § 199.225 Alcohol tests required. #####
 
-Link to an amendment published at 82 FR 8001, January 23, 2017.
+Link to an amendment published at 82 FR 8001, Jan. 23, 2017.
 
 Each operator shall conduct the following types of alcohol tests for the presence of alcohol:
 

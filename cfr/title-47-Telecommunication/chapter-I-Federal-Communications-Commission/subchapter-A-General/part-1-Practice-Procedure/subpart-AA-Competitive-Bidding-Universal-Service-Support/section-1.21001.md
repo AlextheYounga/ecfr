@@ -1,7 +1,5 @@
 ##### § 1.21001 Participation in competitive bidding for support. #####
 
-Link to an amendment published at 81 FR 44448, July 7, 2016.
-
 (a) *Public Notice of the Application Process.* The dates and procedures for submitting applications to participate in competitive bidding pursuant to this subpart shall be announced by public notice.
 
 (b) *Application Contents.* An applicant to participate in competitive bidding pursuant to this subpart shall provide the following information in an acceptable form:
@@ -16,7 +14,7 @@ Link to an amendment published at 81 FR 44448, July 7, 2016.
 
 (5) Certification that the applicant and all applicable parties have complied with and will continue to comply with § 1.21002;
 
-(6) Certification that the applicant is in compliance with all statutory and regulatory requirements for receiving the universal service support that the applicant seeks;
+(6) Certification that the applicant is in compliance with all statutory and regulatory requirements for receiving the universal service support that the applicant seeks, or, if expressly allowed by the rules specific to a high-cost support mechanism, a certification that the applicant acknowledges that it must be in compliance with such requirements before being authorized to receive support;
 
 (7) Certification that the applicant will make any payment that may be required pursuant to § 1.21004;
 
@@ -37,3 +35,5 @@ Link to an amendment published at 81 FR 44448, July 7, 2016.
 (5) An applicant may be permitted to make minor modifications to its application after the deadline for submitting applications. Minor modifications may be subject to a deadline specified by public notice. Minor modifications include correcting typographical errors and supplying non-material information that was inadvertently omitted or was not available at the time the application was submitted.
 
 (6) After receipt and review of the applications, an applicant that will be permitted participate in competitive bidding shall be identified in a public notice.
+
+[76 FR 73851, Nov. 29, 2011, as amended at 81 FR 44448, July 7, 2016]Effective Date Note:At 81 FR 44448, July 7, 2016, § 1.21001(b)(6) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

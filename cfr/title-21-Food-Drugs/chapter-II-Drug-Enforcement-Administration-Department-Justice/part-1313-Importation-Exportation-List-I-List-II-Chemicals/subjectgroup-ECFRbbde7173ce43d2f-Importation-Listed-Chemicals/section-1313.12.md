@@ -1,6 +1,6 @@
 ##### § 1313.12 Requirement of authorization to import. #####
 
-Link to an amendment published at 81 FR 97036, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97036, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Each regulated person who imports a listed chemical that meets or exceeds the threshold quantities identified in § 1310.04(f) or is a listed chemical for which no threshold has been established as identified in § 1310.04(g) of this chapter, shall notify the Administrator of the importation not later than 15 days before the transaction is to take place.
 

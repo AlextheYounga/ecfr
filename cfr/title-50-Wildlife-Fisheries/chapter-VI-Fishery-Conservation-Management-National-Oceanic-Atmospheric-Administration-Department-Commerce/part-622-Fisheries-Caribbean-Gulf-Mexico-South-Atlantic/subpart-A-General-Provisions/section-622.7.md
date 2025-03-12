@@ -1,6 +1,6 @@
 ##### § 622.7 Fishing years. #####
 
-Link to an amendment published at 82 FR 10311, Feb. 10, 2017.
+Link to an amendment published at 82 FR 17394, Apr. 11, 2017.
 
 The fishing year for species or species groups governed in this part is January 1 through December 31 except for the following:
 
@@ -24,4 +24,6 @@ The fishing year for species or species groups governed in this part is January 
 
 (f) *South Atlantic yellowtail snapper* - August 1 through July 31.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 66322, Nov. 7, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 45248, July 13, 2016]
+(g) *Gulf of Mexico yellowtail snapper* - August 1 through July 31.
+
+[78 FR 22952, Apr. 17, 2013, as amended at 79 FR 66322, Nov. 7, 2014; 80 FR 4218, Jan. 27, 2015; 81 FR 45248, July 13, 2016; 81 FR 10311, Feb. 10, 2017]

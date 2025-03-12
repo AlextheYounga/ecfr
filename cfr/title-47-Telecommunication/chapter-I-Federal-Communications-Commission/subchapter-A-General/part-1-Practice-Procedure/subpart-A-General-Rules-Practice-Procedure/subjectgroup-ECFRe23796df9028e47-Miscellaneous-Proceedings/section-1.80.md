@@ -180,6 +180,10 @@ Unlike section 503 of the Act, which establishes maximum forfeiture amounts, oth
 |   47 U.S.C. 507(b)   |                               279                               |
 |    47 U.S.C. 554     |                               853                               |
 
+Note to paragraph (b)(9):
+
+Pursuant to Public Law 104-134, the first inflation adjustment cannot exceed 10 percent of the statutory maximum amount.
+
 (c) *Limits on the time when a proceeding may be initiated.* (1) In the case of a broadcast station, no forfeiture penalty shall be imposed if the violation occurred more than 1 year prior to the issuance of the appropriate notice or prior to the date of commencement of the current license term, whichever is earlier. For purposes of this paragraph, “date of commencement of the current license term” means the date of commencement of the last term of license for which the licensee has been granted a license by the Commission. A separate license term shall not be deemed to have commenced as a result of continuing a license in effect under section 307(c) pending decision on an application for renewal of the license.
 
 (2) In the case of a forfeiture imposed against a carrier under sections 202(c), 203(e), and 220(d), no forfeiture will be imposed if the violation occurred more than 5 years prior to the issuance of a notice of apparent liability.

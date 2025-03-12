@@ -1,6 +1,6 @@
 ##### § 1312.18 Contents of import declaration. #####
 
-Link to an amendment published at 81 FR 97028, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97028, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) Any non-narcotic controlled substance listed in Schedule III, IV, or V, not subject to the requirement of an import permit pursuant to § 1312.13 (b) or (c) of this chapter, may be imported if that substance is needed for medical, scientific or other legitimate uses in the United States, and will be imported pursuant to a controlled substances import declaration.
 

@@ -1,6 +1,6 @@
 ##### § 195.446 Control room management. #####
 
-Link to an amendment published at 82 FR 7999, January 23, 2017.
+Link to an amendment published at 82 FR 7999, Jan. 23, 2017.
 
 (a) *General.* This section applies to each operator of a pipeline facility with a controller working in a control room who monitors and controls all or part of a pipeline facility through a SCADA system. Each operator must have and follow written control room management procedures that implement the requirements of this section. The procedures required by this section must be integrated, as appropriate, with the operator's written procedures required by § 195.402. An operator must develop the procedures no later than August 1, 2011, and must implement the procedures according to the following schedule. The procedures required by paragraphs (b), (c)(5), (d)(2) and (d)(3), (f) and (g) of this section must be implemented no later than October 1, 2011. The procedures required by paragraphs (c)(1) through (4), (d)(1), (d)(4), and (e) must be implemented no later than August 1, 2012. The training procedures required by paragraph (h) must be implemented no later than August 1, 2012, except that any training required by another paragraph of this section must be implemented no later than the deadline for that paragraph.
 

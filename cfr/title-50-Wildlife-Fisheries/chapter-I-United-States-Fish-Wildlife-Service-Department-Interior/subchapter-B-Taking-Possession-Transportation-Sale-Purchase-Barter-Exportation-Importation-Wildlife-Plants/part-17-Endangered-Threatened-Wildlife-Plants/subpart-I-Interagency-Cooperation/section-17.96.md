@@ -2792,9 +2792,7 @@ Family Cactaceae: *Harrisia aboriginum* (aboriginal prickly-apple)
 
 (v) Map C of Unit APA11 follows:
 
-![](/graphics/er22ja16.037.gif)
-
-Family Cactaceae: *Pediocactus peeblesianus* var. *fickeiseniae* (Fickeisen plains cactus)
+![](/graphics/er22ja16.037.gif)Family Cactaceae: *Pediocactus peeblesianus* var. *fickeiseniae* (Fickeisen plains cactus)
 
 (1) Critical habitat units are depicted for Mohave and Coconino Counties, Arizona, on the maps below.
 

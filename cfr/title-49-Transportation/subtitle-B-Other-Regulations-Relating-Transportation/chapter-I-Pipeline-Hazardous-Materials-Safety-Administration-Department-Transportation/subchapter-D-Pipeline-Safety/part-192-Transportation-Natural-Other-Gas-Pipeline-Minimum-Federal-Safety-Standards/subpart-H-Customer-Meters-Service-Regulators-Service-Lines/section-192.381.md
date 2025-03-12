@@ -1,6 +1,6 @@
 ##### § 192.381 Service lines: Excess flow valve performance standards. #####
 
-Link to an amendment published at 81 FR 71001, October 14, 2016.
+Link to an amendment published at 81 FR 71001, Oct. 14, 2016.
 
 (a) Excess flow valves to be used on single residence service lines that operate continuously throughout the year at a pressure not less than 10 p.s.i. (69 kPa) gage must be manufactured and tested by the manufacturer according to an industry specification, or the manufacturer's written specification, to ensure that each valve will:
 

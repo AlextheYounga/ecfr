@@ -1,6 +1,6 @@
 ##### § 1312.15 Shipments in greater or less amount than authorized. #####
 
-Link to an amendment published at 81 FR 97027, December 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
+Link to an amendment published at 81 FR 97027, Dec. 30, 2016.Link to a delay published at 82 FR 8688, Jan. 30, 2017.
 
 (a) If the shipment made under an import permit is greater than the maximum amount authorized to be imported under the permit, as determined at the weighing by the District Director of the U.S. Customs Service, such difference shall be seized subject to forfeiture, pending an explanation; except that shipments of substances exceeding the maximum authorized amount by less than 1 percent may be released to the importer upon the filing by him of an amended import permit. If the substance is included in Schedule I, it will be summarily forfeited to the Government.
 
