@@ -1,5 +1,7 @@
 ##### § 107.311 Notice of probable violation. #####
 
+Link to an amendment published at 84 FR 6947, Feb. 28, 2019.
+
 (a) The Office of Chief Counsel may serve a notice of probable violation on a person alleging the violation of one or more provisions of the Federal hazardous material transportation law or any provision of this subchapter or subchapter C of this chapter, or any special permit, or order issued thereunder.
 
 (b) A notice of probable violation issued under this section includes the following information:

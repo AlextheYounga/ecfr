@@ -1,5 +1,7 @@
 ##### § 130.31 Response plans. #####
 
+Link to an amendment published at 84 FR 6948, Feb. 28, 2019.
+
 (a) No person may transport oil subject to this part unless that person has a current basic written plan that:
 
 (1) Sets forth the manner of response to discharges that may occur during transportation;

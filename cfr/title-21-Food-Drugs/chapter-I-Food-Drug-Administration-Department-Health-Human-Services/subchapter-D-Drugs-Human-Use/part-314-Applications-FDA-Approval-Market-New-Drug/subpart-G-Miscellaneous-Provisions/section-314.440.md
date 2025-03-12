@@ -1,5 +1,7 @@
 ##### § 314.440 Addresses for applications and abbreviated applications. #####
 
+Link to an amendment published at 84 FR 6673, February 28, 2019.
+
 (a) Applicants shall send applications, abbreviated applications, and other correspondence relating to matters covered by this part, except for products listed in paragraph (b) of this section, to the appropriate office identified below:
 
 (1) Except as provided in paragraph (a)(4) of this section, an application under § 314.50 or § 314.54 submitted for filing should be directed to the Central Document Room, 5901-B Ammendale Rd., Beltsville, MD 20705-1266. Applicants may obtain information about folders for binding applications on the Internet at *http://www.fda.gov/cder/ddms/binders.htm.* After FDA has filed the application, the agency will inform the applicant which division is responsible for the application. Amendments, supplements, resubmissions, requests for waivers, and other correspondence about an application that has been filed should be addressed to 5901-B Ammendale Rd., Beltsville, MD 20705-1266, to the attention of the appropriate division.

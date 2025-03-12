@@ -1,5 +1,7 @@
 ##### § 107.309 Warning letters. #####
 
+Link to an amendment published at 84 FR 6947, Feb. 28, 2019.
+
 (a) The Associate Administrator may issue a warning letter to any person whom the Associate Administrator believes to have committed a probable violation of the Federal hazardous material transportation law or any provision of this subchapter, subchapter C of this chapter, or any special permit issued thereunder.
 
 (b) A warning letter issued under this section includes:

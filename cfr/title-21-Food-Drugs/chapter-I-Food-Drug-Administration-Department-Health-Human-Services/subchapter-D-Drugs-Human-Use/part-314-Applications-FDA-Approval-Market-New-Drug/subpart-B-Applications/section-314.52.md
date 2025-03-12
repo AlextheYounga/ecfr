@@ -1,5 +1,7 @@
 ##### § 314.52 Notice of certification of invalidity, unenforceability, or noninfringement of a patent. #####
 
+Link to an amendment published at 84 FR 6673, February 28, 2019.
+
 (a) *Notice of certification.* For each patent that claims the listed drug or drugs relied upon or that claims a use for such listed drug or drugs and for which the 505(b)(2) applicant submits a paragraph IV certification, the applicant must send notice of such certification by registered or certified mail, return receipt requested, or by a designated delivery service, as defined in paragraph (g) of this section, to each of the following persons:
 
 (1) Each owner of the patent that is the subject of the certification or the representative designated by the owner to receive the notice. The name and address of the patent owner or its representative may be obtained from the U.S. Patent and Trademark Office; and

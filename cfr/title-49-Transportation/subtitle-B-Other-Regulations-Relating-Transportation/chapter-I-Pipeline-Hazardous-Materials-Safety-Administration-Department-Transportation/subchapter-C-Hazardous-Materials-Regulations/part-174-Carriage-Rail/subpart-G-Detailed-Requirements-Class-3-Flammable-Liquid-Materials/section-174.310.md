@@ -1,5 +1,7 @@
 ##### § 174.310 Requirements for the operation of high-hazard flammable trains. #####
 
+Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
+
 (a) *Applicability.* Each rail carrier operating a high-hazard flammable train (as defined in § 171.8 of this subchapter) must comply with each of the following additional safety requirements with respect to each high-hazard flammable train that it operates:
 
 (1) *Routing.* The additional planning requirements for transportation by rail in accordance with part 172, subpart I of this subchapter;

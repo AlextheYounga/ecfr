@@ -1,5 +1,7 @@
 ##### § 312.140 Address for correspondence. #####
 
+Link to an amendment published at 84 FR 6673, February 28, 2019.
+
 (a) A sponsor must send an initial IND submission to the Center for Drug Evaluation and Research (CDER) or to the Center for Biologics Evaluation and Research (CBER), depending on the Center responsible for regulating the product as follows:
 
 (1) *For drug products regulated by CDER.* Send the IND submission to the Central Document Room, Center for Drug Evaluation and Research, Food and Drug Administration, 5901-B Ammendale Rd., Beltsville, MD 20705-1266; except send an IND submission for an in vivo bioavailability or bioequivalence study in humans to support an abbreviated new drug application to the Office of Generic Drugs (HFD-600), Center for Drug Evaluation and Research, Food and Drug Administration, Metro Park North VII, 7620 Standish Pl., Rockville, MD 20855.

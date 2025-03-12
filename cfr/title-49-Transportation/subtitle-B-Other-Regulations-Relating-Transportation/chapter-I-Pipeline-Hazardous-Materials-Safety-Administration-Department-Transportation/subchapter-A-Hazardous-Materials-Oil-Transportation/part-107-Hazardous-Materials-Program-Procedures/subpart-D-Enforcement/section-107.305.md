@@ -1,5 +1,7 @@
 ##### § 107.305 Investigations. #####
 
+Link to an amendment published at 84 FR 6947, Feb. 28, 2019.
+
 (a) *General.* In accordance with its delegated authority under part 1 of this title, the Associate Administrator may initiate investigations relating to compliance by any person with any provisions of this subchapter or subchapter C of this chapter, or any special permit, approval, or order issued thereunder, or any court decree relating thereto. The Associate Administrator encourages voluntary production of documents in accordance with and subject to § 105.45, and hearings may be conducted, and depositions taken pursuant to 49 U.S.C. 5121(a). The Associate Administrator may conduct investigative conferences and hearings in the course of any investigation.
 
 (b) *Investigations and Inspections.* Investigations under 49 U.S.C. 5121(a) are conducted by personnel duly authorized for that purpose by the Associate Administrator. Inspections under 49 U.S.C. 5121(c) are conducted by Hazardous Materials Enforcement Specialists or Hazardous Materials Compliance Investigators, also known as “hazmat investigators” or “investigators,” whom the Associate Administrator has designated for that purpose.

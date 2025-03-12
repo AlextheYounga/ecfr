@@ -1,5 +1,7 @@
 ##### § 171.7 Reference material. #####
 
+Link to an amendment published at 84 FR 6952, Feb. 28, 2019.
+
 (a) *Matter incorporated by reference* - (1) *General.* Certain material is incorporated by reference into subchapters A, B, and C with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, PHMSA must publish a document in the Federal Register and the material must be available to the public. Matters referenced by footnote are included as part of the regulations of this subchapter.
 
 (2) *Accessibility of materials.* All incorporated matter is available for inspection at:

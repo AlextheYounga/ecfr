@@ -1,5 +1,7 @@
 ##### § 130.2 Scope. #####
 
+Link to an amendment published at 84 FR 6947, Feb. 28, 2019.
+
 (a) The requirements of this part apply to -
 
 (1) Any liquid petroleum oil in a packaging having a capacity of 3,500 gallons or more; and
