@@ -1,6 +1,6 @@
 ##### § 402.14 Formal consultation. #####
 
-Link to an amendment published at 84 FR 45016, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019, at 84 FR 50333, Sept. 25, 2019.
+Link to an amendment published at 84 FR 45016, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019 at 84 FR 50333, Sept. 25, 2019.
 
 (a) *Requirement for formal consultation.* Each Federal agency shall review its actions at the earliest possible time to determine whether any action may affect listed species or critical habitat. If such a determination is made, formal consultation is required, except as noted in paragraph (b) of this section. The Director may request a Federal agency to enter into consultation if he identifies any action of that agency that may affect listed species or critical habitat and for which there has been no consultation. When such a request is made, the Director shall forward to the Federal agency a written explanation of the basis for the request.
 

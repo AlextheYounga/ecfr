@@ -1,6 +1,6 @@
 ##### § 402.40 Definitions. #####
 
-Link to an amendment published at 84 FR 45018, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019, at 84 FR 50333, Sept. 25, 2019.
+Link to an amendment published at 84 FR 45018, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019 at 84 FR 50333, Sept. 25, 2019.
 
 The definitions in § 402.02 are applicable to this subpart. In addition, the following definitions are applicable only to this subpart.
 

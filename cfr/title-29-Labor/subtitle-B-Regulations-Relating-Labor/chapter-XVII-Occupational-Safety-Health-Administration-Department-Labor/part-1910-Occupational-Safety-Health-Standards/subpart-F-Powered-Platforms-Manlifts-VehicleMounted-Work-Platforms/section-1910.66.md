@@ -2,7 +2,7 @@
 
 (a) *Scope.* This section covers powered platform installations permanently dedicated to interior or exterior building maintenance of a specific structure or group of structures. This section does not apply to suspended scaffolds (swinging scaffolds) used to service buildings on a temporary basis and covered under subpart D of this part, nor to suspended scaffolds used for construction work and covered under subpart L of 29 CFR part 1926. Building maintenance includes, but is not limited to, such tasks as window cleaning, caulking, metal polishing and reglazing.
 
-(b) *Application* - (1) *New installations.* This section applies to all permanent installations completed after July 23, 1990. Major modifications to existing installations completed after that date are also considered new installations under this section.
+(b) *Application*—(1) *New installations.* This section applies to all permanent installations completed after July 23, 1990. Major modifications to existing installations completed after that date are also considered new installations under this section.
 
 (2) *Existing installations.* (i) Permanent installations in existence and/or completed before July 23, 1990 shall comply with paragraphs (g), (h), (i), (j) and appendix C to subpart I of this part.
 
@@ -138,7 +138,7 @@
 
 *Wrap* means one complete turn of the suspension wire rope around the surface of a hoist drum.
 
-(e) *Powered platform installations - Affected parts of buildings* - (1) *General requirements.* The following requirements apply to affected parts of buildings which utilize working platforms for building maintenance.
+(e) *Powered platform installations—Affected parts of buildings*—(1) *General requirements.* The following requirements apply to affected parts of buildings which utilize working platforms for building maintenance.
 
 (i) Structural supports, tie-downs, tie-in guides, anchoring devices and any affected parts of the building included in the installation shall be designed by or under the direction of a registered professional engineer experienced in such design;
 
@@ -240,7 +240,7 @@ See figure 3 in appendix B of this section for a description of a typical button
 
 (vi) An effective two-way voice communication system shall be provided between the equipment operators and persons stationed within the building being serviced. The communications facility shall be operable and shall be manned at all times by persons stationed within the building whenever the platform is being used.
 
-(f) *Powered platform installations - Equipment* - (1) *General requirements.* The following requirements apply to equipment which are part of a powered platform installation, such as platforms, stabilizing components, carriages, outriggers, davits, hoisting machines, wire ropes and electrical components.
+(f) *Powered platform installations—Equipment*—(1) *General requirements.* The following requirements apply to equipment which are part of a powered platform installation, such as platforms, stabilizing components, carriages, outriggers, davits, hoisting machines, wire ropes and electrical components.
 
 (i) Equipment installations shall be designed by or under the direction of a registered professional engineer experienced in such design;
 
@@ -306,7 +306,7 @@ See figure 3 in appendix B of this section for a description of a typical button
 
 (I) The tie-back rope shall be installed parallel to the centerline of the outrigger.
 
-(iii) Davits. (A) Every davit installation, fixed or transportable, rotatable or non-rotatable shall be designed and installed to insure that it has a stability factor against overturning of not less than four.
+(iii) *Davits.* (A) Every davit installation, fixed or transportable, rotatable or non-rotatable shall be designed and installed to insure that it has a stability factor against overturning of not less than four.
 
 (B) The following requirements apply to roof rigged davit systems:
 
@@ -356,7 +356,7 @@ See figure 3 in appendix B of this section for a description of a typical button
 
 (x) Any component of a hoisting machine which requires lubrication for its protection and proper functioning shall be provided with a means for that lubrication to be applied.
 
-(5) *Suspended equipment* - (i) *General requirements.* (A) Each suspended unit component, except suspension ropes and guardrail systems, shall be capable of supporting, without failure, at least four times the maximum intended live load applied or transmitted to that component.
+(5) *Suspended equipment*—(i) *General requirements.* (A) Each suspended unit component, except suspension ropes and guardrail systems, shall be capable of supporting, without failure, at least four times the maximum intended live load applied or transmitted to that component.
 
 (B) Each suspended unit component shall be constructed of materials that will withstand anticipated weather conditions.
 
@@ -540,7 +540,7 @@ See figure III in appendix B of this section for a description of a typical butt
 
 (ix) Cables which are in constant tension shall have overload devices which will prevent the tension in the cable from interfering with the load limiting device required in paragraph (f)(8)(vi)(B) of this section, or with the platform roll limiting device required in paragraph (f)(5)(ii)(C) of this section. The setting of these devices shall be coordinated with other overload settings at the time of design of the system, and shall be clearly indicated on or near the device. The device shall interrupt the equipment travel in the “down” direction.
 
-(g) *Inspection and tests* - (1) *Installations and alterations.* All completed building maintenance equipment installations shall be inspected and tested in the field before being placed in initial service to determine that all parts of the installation conform to applicable requirements of this standard, and that all safety and operating equipment is functioning as required. A similar inspection and test shall be made following any major alteration to an existing installation. No hoist in an installation shall be subjected to a load in excess of 125 percent of its rated load.
+(g) *Inspection and tests*—(1) *Installations and alterations.* All completed building maintenance equipment installations shall be inspected and tested in the field before being placed in initial service to determine that all parts of the installation conform to applicable requirements of this standard, and that all safety and operating equipment is functioning as required. A similar inspection and test shall be made following any major alteration to an existing installation. No hoist in an installation shall be subjected to a load in excess of 125 percent of its rated load.
 
 (2) *Periodic inspections and tests.* (i) Related building supporting structures shall undergo periodic inspection by a competent person at intervals not exceeding 12 months.
 
@@ -598,7 +598,7 @@ See figure III in appendix B of this section for a description of a typical butt
 
 (6) *Hoist inspection.* Before lowering personnel below the top elevation of the building, the hoist shall be tested each day in the lifting direction with the intended load to make certain it has sufficient capacity to raise the personnel back to the boarding level.
 
-(h) *Maintenance* - (1) *General maintenance.* All parts of the equipment affecting safe operation shall be maintained in proper working order so that they may perform the functions for which they were intended. The equipment shall be taken out of service when it is not in proper working order.
+(h) *Maintenance*—(1) *General maintenance.* All parts of the equipment affecting safe operation shall be maintained in proper working order so that they may perform the functions for which they were intended. The equipment shall be taken out of service when it is not in proper working order.
 
 (2) *Cleaning.* (i) Control or power contactors and relays shall be kept clean.
 
@@ -618,7 +618,7 @@ See figure III in appendix B of this section for a description of a typical butt
 
 (7) *Inoperative safety devices.* No person shall render a required safety device or electrical protective device inoperative, except as necessary for tests, inspections, and maintenance. Immediately upon completion of such tests, inspections and maintenance, the device shall be restored to its normal operating condition.
 
-(i) *Operations* - (1) *Training.* (i) Working platforms shall be operated only by persons who are proficient in the operation, safe use and inspection of the particular working platform to be operated.
+(i) *Operations*—(1) *Training.* (i) Working platforms shall be operated only by persons who are proficient in the operation, safe use and inspection of the particular working platform to be operated.
 
 (ii) All employees who operate working platforms shall be trained in the following:
 
@@ -662,7 +662,7 @@ Appendix A to § 1910.66, Guidelines (Advisory)
 
 3. *Design Requirements.* The design requirements for each installation should be based on the limitations (stresses, deflections, etc.), established by nationally recognized standards as promulgated by the following organizations, or to equivalent standards:
 
-AA - The Aluminum Association, 818 Connecticut Avenue, NW., Washington, DC, 20006Aluminum Construction ManualSpecifications For Aluminum StructuresAluminum Standards and DataAGMA - American Gear Manufacturers Association, 101 North Fort Meyer Dr., Suite 1000, Arlington, VA 22209AISC - American Institute of Steel Construction, 400 North Michigan Avenue, Chicago, IL 60611ANSI - American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018ASCE - American Society of Civil Engineers, 345 East 47th Street, New York, NY 10017ASME - American Society of Mechanical Engineers, 345 East 47th Street, New York, NY 10017ASTM - American Society for Testing and Materials, 1916 Race Street, Philadelphia, PA 19103AWS - American Welding Society, Inc., Box 351040, 550 NW. LeJeunne Road, Miami, FL 33126JIC - Joint Industrial Council, 2139 Wisconsin Avenue NW., Washington, DC 20007NEMA - National Electric Manufacturers Association, 2101 L Street, NW., Washington, DC 20037
+AA—The Aluminum Association, 818 Connecticut Avenue, NW., Washington, DC, 20006Aluminum Construction ManualSpecifications For Aluminum StructuresAluminum Standards and DataAGMA—American Gear Manufacturers Association, 101 North Fort Meyer Dr., Suite 1000, Arlington, VA 22209AISC—American Institute of Steel Construction, 400 North Michigan Avenue, Chicago, IL 60611ANSI—American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018ASCE—American Society of Civil Engineers, 345 East 47th Street, New York, NY 10017ASME—American Society of Mechanical Engineers, 345 East 47th Street, New York, NY 10017ASTM—American Society for Testing and Materials, 1916 Race Street, Philadelphia, PA 19103AWS—American Welding Society, Inc., Box 351040, 550 NW. LeJeunne Road, Miami, FL 33126JIC—Joint Industrial Council, 2139 Wisconsin Avenue NW., Washington, DC 20007NEMA—National Electric Manufacturers Association, 2101 L Street, NW., Washington, DC 20037
 
 4. *Tie-in-guides.* Indented mullions, T-rails or other equivalent guides are acceptable as tie-in guides in a building face for a continuous stabilization system. Internal guides are embedded in other building members with only the opening exposed (see Figure 1 of appendix B). External guides, however, are installed external to the other building members and so are fully exposed. The minimum opening for tie-in guides is three-quarters of an inch (19 mm), and the minimum inside dimensions are one-inch (25 mm) deep and two inches (50 mm) wide.
 
@@ -708,11 +708,11 @@ An employee who is required to work with chemical products on a platform should 
 
 11. *Suspension and Securing of Powered Platforms (Equivalency).* One acceptable method of demonstrating the equivalency of a method of suspending or securing a powered platform, as required in paragraphs (e)(2)(iii), (f)(3) and (f)(5)(i)(F), is to provide an engineering analysis by a registered professional engineer. The analysis should demonstrate that the proposed method will provide an equal or greater degree of safety for employees than any one of the methods specified in the standard.
 
-Appendix B to § 1910.66 - Exhibits (Advisory)
+Appendix B to § 1910.66—Exhibits (Advisory)
 
 The three drawings in appendix B illustrate typical platform stabilization systems which are addressed in the standard. The drawings are to be used for reference purposes only, and do not illustrate all the mandatory requirements for each system.
 
-![](/graphics/ec27oc91.012.gif)![](/graphics/ec27oc91.013.gif)![](/graphics/ec27oc91.014.gif)Appendix C to § 1910.66 [Reserved]Appendix D to § 1910.66 - Existing Installations (Mandatory)Use of the Appendix
+![](/graphics/ec27oc91.012.gif)![](/graphics/ec27oc91.013.gif)![](/graphics/ec27oc91.014.gif)Appendix C to § 1910.66 [Reserved]Appendix D to § 1910.66—Existing Installations (Mandatory)Use of the Appendix
 
 Appendix D sets out the mandatory building and equipment requirements for applicable permanent installations completed after August 27, 1971, and no later than July 23, 1990 which are exempt from the paragraphs (a), (b)(1), (b)(2), (c), (d), (e), and (f) of this standard. The requirements in appendix D are essentially the same as unrevised building and equipment provisions which previously were designated as 29 CFR 1910.66 (a), (b), (c) and (d) and which were effective on August 27, 1971.
 
@@ -720,17 +720,17 @@ Note:
 
 All existing installations subject to this appendix shall also comply with paragraphs (g), (h), (i), (j) and appendix C of the standard 29 CFR 1910.66.
 
-(a) *Definitions applicable to this appendix* - (1) *Angulated roping.* A system of platform suspension in which the upper wire rope sheaves or suspension points are closer to the plane of the building face than the corresponding attachment points on the platform, thus causing the platform to press against the face of the building during its vertical travel.
+(a) *Definitions applicable to this appendix*—(1) *Angulated roping.* A system of platform suspension in which the upper wire rope sheaves or suspension points are closer to the plane of the building face than the corresponding attachment points on the platform, thus causing the platform to press against the face of the building during its vertical travel.
 
 (2) *ANSI.* American National Standards Institute.
 
 (3) *Babbitted fastenings.* The method of providing wire rope attachments in which the ends of the wire strands are bent back and are held in a tapered socket by means of poured molten babbitt metal.
 
-(4) *Brake - disc type.* A brake in which the holding effect is obtained by frictional resistance between one or more faces of discs keyed to the rotating member to be held and fixed discs keyed to the stationary or housing member (pressure between the discs being applied axially).
+(4) *Brake—disc type.* A brake in which the holding effect is obtained by frictional resistance between one or more faces of discs keyed to the rotating member to be held and fixed discs keyed to the stationary or housing member (pressure between the discs being applied axially).
 
-(5) *Brake - self-energizing band type.* An essentially undirectional brake in which the holding effect is obtained by the snubbing action of a flexible band wrapped about a cylindrical wheel or drum affixed to the rotating member to be held, the connections and linkages being so arranged that the motion of the brake wheel or drum will act to increase the tension or holding force of the band.
+(5) *Brake—self-energizing band type.* An essentially undirectional brake in which the holding effect is obtained by the snubbing action of a flexible band wrapped about a cylindrical wheel or drum affixed to the rotating member to be held, the connections and linkages being so arranged that the motion of the brake wheel or drum will act to increase the tension or holding force of the band.
 
-(6) *Brake - shoe type.* A brake in which the holding effect is obtained by applying the direct pressure of two or more segmental friction elements held to a stationary member against a cylindrical wheel or drum affixed to the rotating member to be held.
+(6) *Brake—shoe type.* A brake in which the holding effect is obtained by applying the direct pressure of two or more segmental friction elements held to a stationary member against a cylindrical wheel or drum affixed to the rotating member to be held.
 
 (7) *Building face rollers.* A specialized form of guide roller designed to contact a portion of the outer face or wall structure of the building, and to assist in stabilizing the operators' platform during vertical travel.
 
@@ -788,7 +788,7 @@ All existing installations subject to this appendix shall also comply with parag
 
 (v) Both Type F and Type T powered platforms shall comply with the requirements of appendix C of this standard.
 
-(c) *Type F powered platforms* - (1) *Roof car, general.* (i) A roof car shall be provided whenever it is necessary to move the working platform horizontally to working or storage positions.
+(c) *Type F powered platforms*—(1) *Roof car, general.* (i) A roof car shall be provided whenever it is necessary to move the working platform horizontally to working or storage positions.
 
 (ii) The maximum rated speed at which a power traversed roof car may be moved in a horizontal direction shall be 50 feet per minute.
 
@@ -896,7 +896,7 @@ F = S × N/WWhereS = Manufacturer's rated breaking strength of one rope.N = Numb
 
 (g) The month and year the ropes were installed.
 
-(22) *Electrical wiring and equipment.* (i) All electrical equipment and wiring shall conform to the requirements of subpart S of this Part, except as modified by ANSI A120.1 - 1970 “American National Standard Safety Requirements for Powered Platforms for Exterior Building Maintenance” (see § 1910.6). For detail design specifications for electrical equipment, see part 2, ANSI A120.1-1970.
+(22) *Electrical wiring and equipment.* (i) All electrical equipment and wiring shall conform to the requirements of subpart S of this Part, except as modified by ANSI A120.1—1970 “American National Standard Safety Requirements for Powered Platforms for Exterior Building Maintenance” (see § 1910.6). For detail design specifications for electrical equipment, see part 2, ANSI A120.1-1970.
 
 (ii) All motors and operation and control equipment shall be supplied from a single power source.
 
@@ -980,7 +980,7 @@ F = S × N/WWhereS = Manufacturer's rated breaking strength of one rope.N = Numb
 
 (b) Telephones on a limited system or an approved two-way radio system, provided designated personnel are available to receive a message during the time the powered platform is in use.
 
-(d) *Type T powered platforms* - (1) *Roof car.* The requirements of paragraphs (c)(1) through (c)(5) of this appendix shall apply to Type T powered platforms.
+(d) *Type T powered platforms*—(1) *Roof car.* The requirements of paragraphs (c)(1) through (c)(5) of this appendix shall apply to Type T powered platforms.
 
 (2) *Working platform.* The requirements of paragraphs (c)(6) through (c)(16) of this appendix apply to Type T powered platforms.
 

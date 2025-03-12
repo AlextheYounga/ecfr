@@ -1,14 +1,18 @@
 ##### § 424.12 Criteria for designating critical habitat. #####
 
-Link to an amendment published at 84 FR 45053, Aug. 27, 2019.
-
 (a) To the maximum extent prudent and determinable, we will propose and finalize critical habitat designations concurrent with issuing proposed and final listing rules, respectively. If designation of critical habitat is not prudent or if critical habitat is not determinable, the Secretary will state the reasons for not designating critical habitat in the publication of proposed and final rules listing a species. The Secretary will make a final designation of critical habitat on the basis of the best scientific data available, after taking into consideration the probable economic, national security, and other relevant impacts of making such a designation in accordance with § 424.19.
 
-(1) A designation of critical habitat is not prudent when any of the following situations exist:
+(1) The Secretary may, but is not required to, determine that a designation would not be prudent in the following circumstances:
 
-(i) The species is threatened by taking or other human activity, and identification of critical habitat can be expected to increase the degree of such threat to the species; or
+(i) The species is threatened by taking or other human activity and identification of critical habitat can be expected to increase the degree of such threat to the species;
 
-(ii) Such designation of critical habitat would not be beneficial to the species. In determining whether a designation would not be beneficial, the factors the Services may consider include but are not limited to: Whether the present or threatened destruction, modification, or curtailment of a species' habitat or range is not a threat to the species, or whether any areas meet the definition of “critical habitat.”
+(ii) The present or threatened destruction, modification, or curtailment of a species' habitat or range is not a threat to the species, or threats to the species' habitat stem solely from causes that cannot be addressed through management actions resulting from consultations under section 7(a)(2) of the Act;
+
+(iii) Areas within the jurisdiction of the United States provide no more than negligible conservation value, if any, for a species occurring primarily outside the jurisdiction of the United States;
+
+(iv) No areas meet the definition of critical habitat; or
+
+(v) The Secretary otherwise determines that designation of critical habitat would not be prudent based on the best scientific data available.
 
 (2) Designation of critical habitat is not determinable when one or both of the following situations exist:
 
@@ -28,7 +32,7 @@ Link to an amendment published at 84 FR 45053, Aug. 27, 2019.
 
 (iv) Determine which of these features may require special management considerations or protection.
 
-(2) The Secretary will identify, at a scale determined by the Secretary to be appropriate, specific areas outside the geographical area occupied by the species that are essential for its conservation, considering the life history, status, and conservation needs of the species based on the best available scientific data.
+(2) The Secretary will designate as critical habitat, at a scale determined by the Secretary to be appropriate, specific areas outside the geographical area occupied by the species only upon a determination that such areas are essential for the conservation of the species. When designating critical habitat, the Secretary will first evaluate areas occupied by the species. The Secretary will only consider unoccupied areas to be essential where a critical habitat designation limited to geographical areas occupied would be inadequate to ensure the conservation of the species. In addition, for an unoccupied area to be considered essential, the Secretary must determine that there is a reasonable certainty both that the area will contribute to the conservation of the species and that the area contains one or more of those physical or biological features essential to the conservation of the species.
 
 (c) Each critical habitat area will be shown on a map, with more-detailed information discussed in the preamble of the rulemaking documents published in the Federal Register and made available from the lead field office of the Service responsible for such designation. Textual information may be included for purposes of clarifying or refining the location and boundaries of each area or to explain the exclusion of sites (e.g., paved roads, buildings) within the mapped area. Each area will be referenced to the State(s), county(ies), or other local government units within which all or part of the critical habitat is located. Unless otherwise indicated within the critical habitat descriptions, the names of the State(s) and county(ies) are provided for informational purposes only and do not constitute the boundaries of the area. Ephemeral reference points (*e.g.,* trees, sand bars) shall not be used in any textual description used to clarify or refine the boundaries of critical habitat.
 
@@ -50,4 +54,4 @@ Link to an amendment published at 84 FR 45053, Aug. 27, 2019.
 
 (4) The degree to which the relevant elements of the INRMP will protect the habitat from the types of effects that would be addressed through a destruction-or-adverse-modification analysis.
 
-[49 FR 38908, Oct. 1, 1984, as amended at 77 FR 25622, May 1, 2012; 81 FR 7439, Feb. 11, 2016]
+[49 FR 38908, Oct. 1, 1984, as amended at 77 FR 25622, May 1, 2012; 81 FR 7439, Feb. 11, 2016; 84 FR 45053, Aug. 27, 2019]

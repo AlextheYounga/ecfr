@@ -1,5 +1,5 @@
 ##### § 1.1151 Authority to prescribe and collect regulatory fees. #####
 
-Authority to impose and collect regulatory fees is contained in title VI, section 6002(a) of the Omnibus Budget Reconciliation Act of 1993 (Pub. L. 103-66, 107 Stat. 397), enacting section 9 of the Communications Act, 47 U.S.C. 159, which directs the Commission to prescribe and collect annual regulatory fees from designated regulatees in order to recover the costs of certain of its regulatory activities in the private radio, mass media, common carrier, and cable television services.
+Authority to impose and collect regulatory fees is contained in section 9 of the Communications Act, as amended by sections 101-103 of title I of the Consolidated Appropriations Act of 2018 (Pub. L. 115-141, 132 Stat. 1084), 47 U.S.C. 159, which directs the Commission to prescribe and collect annual regulatory fees to recover the cost of carrying out the functions of the Commission.
 
-[59 FR 30999, June 16, 1994]
+[84 FR 50999, Sept. 26, 2019]

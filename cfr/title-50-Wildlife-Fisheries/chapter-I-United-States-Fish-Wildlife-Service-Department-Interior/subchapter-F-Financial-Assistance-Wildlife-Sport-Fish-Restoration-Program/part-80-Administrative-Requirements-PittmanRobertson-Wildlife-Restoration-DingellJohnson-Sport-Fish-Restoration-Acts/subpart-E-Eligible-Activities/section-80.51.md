@@ -1,7 +1,5 @@
 ##### § 80.51 What activities are eligible for funding under the Dingell-Johnson Sport Fish Restoration Act? #####
 
-Link to an amendment published at 84 FR 44786, August 27, 2019.
-
 The following activities are eligible for funding under the Dingell-Johnson Sport Fish Restoration Act:
 
 (a) *Sport Fish Restoration program.* (1) Restore and manage sport fish for the benefit of the public.
@@ -38,6 +36,8 @@ The following activities are eligible for funding under the Dingell-Johnson Spor
 
 (ii) Provide public access for sport fishing.
 
+(iii) Grantees and subgrantees must follow the requirements at 2 CFR part 200 when acquiring equipment, goods, and services under an award, with emphasis on §§ 200.313, 200.317 through 200.326, and 200.439.
+
 (9) Construct, renovate, operate, or maintain pumpout and dump stations. A pumpout station is a facility that pumps or receives sewage from a type III marine sanitation device that the U.S. Coast Guard requires on some vessels. A dump station, also referred to as a “waste reception facility,” is specifically designed to receive waste from portable toilets on vessels.
 
 (10) Operate or maintain:
@@ -48,16 +48,26 @@ The following activities are eligible for funding under the Dingell-Johnson Spor
 
 (11) Coordinate grants in the Sport Fish Restoration program and related programs and subprograms.
 
-(b) *Sport Fish Restoration - Recreational Boating Access subprogram.* (1) Acquire land for new facilities, build new facilities, or acquire, renovate, or improve existing facilities to create or improve public access to the waters of the United States or improve the suitability of these waters for recreational boating. A broad range of access facilities and associated amenities can qualify for funding, but they must provide benefits to recreational boaters. “Facilities” includes auxiliary structures necessary to ensure safe use of recreational boating access facilities.
+(12) Provide technical assistance.
+
+(13) Make payments in lieu of taxes on real property under the control of the State fish and wildlife agency when the payment is:
+
+(i) Required by State or local law; and
+
+(ii) Required for all State lands including those acquired with Federal funds and those acquired with non-Federal funds.
+
+(b) *Sport Fish Restoration—Recreational Boating Access subprogram.* (1) Acquire land for new facilities, build new facilities, or acquire, renovate, or improve existing facilities to create or improve public access to the waters of the United States or improve the suitability of these waters for recreational boating. A broad range of access facilities and associated amenities can qualify for funding, but they must provide benefits to recreational boaters. “Facilities” includes auxiliary structures necessary to ensure safe use of recreational boating access facilities.
 
 (2) Conduct surveys to determine the adequacy, number, location, and quality of facilities providing access to recreational waters for all sizes of recreational boats.
 
-(c) *Sport Fish Restoration - Aquatic Resource Education subprogram.* Enhance the public's understanding of water resources, aquatic life forms, and sport fishing, and develop responsible attitudes and ethics toward the aquatic environment.
+(c) *Sport Fish Restoration—Aquatic Resource Education subprogram.* Enhance the public's understanding of water resources, aquatic life forms, and sport fishing, and develop responsible attitudes and ethics toward the aquatic environment.
 
-(d) *Sport Fish Restoration - Outreach and Communications subprogram.* (1) Improve communications with anglers, boaters, and the general public on sport fishing and boating opportunities.
+(d) *Sport Fish Restoration—Outreach and Communications subprogram.* (1) Improve communications with anglers, boaters, and the general public on sport fishing and boating opportunities.
 
 (2) Increase participation in sport fishing and boating.
 
 (3) Advance the adoption of sound fishing and boating practices including safety.
 
 (4) Promote conservation and responsible use of the aquatic resources of the United States.
+
+[76 FR 46156, Aug. 1, 2011, as amended at 84 FR 44786, Aug. 27, 2019]

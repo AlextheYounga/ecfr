@@ -1,16 +1,14 @@
 ##### § 424.11 Factors for listing, delisting, or reclassifying species. #####
 
-Link to an amendment published at 84 FR 45052, Aug. 27, 2019.
-
 (a) Any species or taxonomic group of species (e.g., genus, subgenus) as defined in § 424.02(k) is eligible for listing under the Act. A taxon of higher rank than species may be listed only if all included species are individually found to be endangered or threatened. In determining whether a particular taxon or population is a species for the purposes of the Act, the Secretary shall rely on standard taxonomic distinctions and the biological expertise of the Department and the scientific community concerning the relevant taxonomic group.
 
-(b) The Secretary shall make any determination required by paragraphs (c) and (d) of this section *solely* on the basis of the best available scientific and commercial information regarding a species' status, without reference to possible economic or other impacts of such determination.
+(b) The Secretary shall make any determination required by paragraphs (c), (d), and (e) of this section *solely* on the basis of the best available scientific and commercial information regarding a species' status.
 
-(c) A species shall be listed or reclassified if the Secretary determines, on the basis of the best scientific and commercial data available after conducting a review of the species' status, that the species is endangered or threatened because of any one or a combination of the following factors:
+(c) A species shall be listed or reclassified if the Secretary determines, on the basis of the best scientific and commercial data available after conducting a review of the species' status, that the species meets the definition of an endangered species or a threatened species because of any one or a combination of the following factors:
 
 (1) The present or threatened destruction, modification, or curtailment of its habitat or range;
 
-(2) Over utilization for commercial, recreational, scientific, or educational purposes;
+(2) Overutilization for commercial, recreational, scientific, or educational purposes;
 
 (3) Disease or predation;
 
@@ -18,14 +16,18 @@ Link to an amendment published at 84 FR 45052, Aug. 27, 2019.
 
 (5) Other natural or manmade factors affecting its continued existence.
 
-(d) The factors considered in delisting a species are those in paragraph (c) of this section as they relate to the definitions of endangered or threatened species. Such removal must be supported by the best scientific and commercial data available to the Secretary after conducting a review of the status of the species. A species may be delisted only if such data substantiate that it is neither endangered nor threatened for one or more of the following reasons:
+(d) In determining whether a species is a threatened species, the Services must analyze whether the species is likely to become an endangered species within the foreseeable future. The term foreseeable future extends only so far into the future as the Services can reasonably determine that both the future threats and the species' responses to those threats are likely. The Services will describe the foreseeable future on a case-by-case basis, using the best available data and taking into account considerations such as the species' life-history characteristics, threat-projection timeframes, and environmental variability. The Services need not identify the foreseeable future in terms of a specific period of time.
 
-(1) *Extinction.* Unless all individuals of the listed species had been previously identified and located, and were later found to be extirpated from their previous range, a sufficient period of time must be allowed before delisting to indicate clearly that the species is extinct.
+(e) The Secretary shall delist a species if the Secretary finds that, after conducting a status review based on the best scientific and commercial data available:
 
-(2) *Recovery.* The principal goal of the U.S. Fish and Wildlife Service and the National Marine Fisheries Service is to return listed species to a point at which protection under the Act is no longer required. A species may be delisted on the basis of recovery only if the best scientific and commercial data available indicate that it is no longer endangered or threatened.
+(1) The species is extinct;
 
-(3) *Original data for classification in error.* Subsequent investigations may show that the best scientific or commercial data available when the species was listed, or the interpretation of such data, were in error.
+(2) The species does not meet the definition of an endangered species or a threatened species. In making such a determination, the Secretary shall consider the same factors and apply the same standards set forth in paragraph (c) of this section regarding listing and reclassification; or
 
-(e) The fact that a species of fish, wildlife, or plant is protected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (see part 23 of this title 50) or a similar international agreement on such species, or has been identified as requiring protection from unrestricted commerce by any foreign nation, or to be in danger of extinction or likely to become so within the foreseeable future by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish, wildlife, or plants, may constitute evidence that the species is endangered or threatened. The weight given such evidence will vary depending on the international agreement in question, the criteria pursuant to which the species is eligible for protection under such authorities, and the degree of protection afforded the species. The Secretary shall give consideration to any species protected under such an international agreement, or by any State or foreign nation, to determine whether the species is endangered or threatened.
+(3) The listed entity does not meet the statutory definition of a species.
 
-(f) The Secretary shall take into account, in making determinations under paragraph (c) or (d) of this section, those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction, or on the high seas.
+(f) The fact that a species of fish, wildlife, or plant is protected by the Convention on International Trade in Endangered Species of Wild Fauna and Flora (see part 23 of this title) or a similar international agreement on such species, or has been identified as requiring protection from unrestricted commerce by any foreign nation, or to be in danger of extinction or likely to become so within the foreseeable future by any State agency or by any agency of a foreign nation that is responsible for the conservation of fish, wildlife, or plants, may constitute evidence that the species is endangered or threatened. The weight given such evidence will vary depending on the international agreement in question, the criteria pursuant to which the species is eligible for protection under such authorities, and the degree of protection afforded the species. The Secretary shall give consideration to any species protected under such an international agreement, or by any State or foreign nation, to determine whether the species is endangered or threatened.
+
+(g) The Secretary shall take into account, in making determinations under paragraph (c) or (e) of this section, those efforts, if any, being made by any State or foreign nation, or any political subdivision of a State or foreign nation, to protect such species, whether by predator control, protection of habitat and food supply, or other conservation practices, within any area under its jurisdiction, or on the high seas.
+
+[49 FR 38908, Oct. 1, 1984, as amended at 84 FR 45052, Aug. 27, 2019]

@@ -1,7 +1,5 @@
 ##### § 80.2 What terms do I need to know? #####
 
-Link to an amendment published at 84 FR 44784, August 27, 2019.
-
 The terms in this section pertain only to the regulations in this part.
 
 *Acts* means the Pittman-Robertson Wildlife Restoration Act of September 2, 1937, as amended (16 U.S.C. 669-669k), and the Dingell-Johnson Sport Fish Restoration Act of August 9, 1950, as amended (16 U.S.C. 777-777n, except 777e-1 and g-1).
@@ -10,11 +8,11 @@ The terms in this section pertain only to the regulations in this part.
 
 *Angler* means a person who fishes for sport fish for recreational purposes as permitted by State law.
 
-Capital improvement. (1) *Capital improvement* means:
+*Asset* means all tangible and intangible real and personal property of monetary value. This includes *Capital assets* as defined at 2 CFR 200.12, *Equipment* as defined at 2 CFR 200.33, and real property of any value.
 
-(i) A structure that costs at least $10,000 to build; or
+*Capital improvement* or *capital expenditure for improvement* means:
 
-(ii) The alteration, renovation, or repair of a structure if it increases the structure's useful life or its market value by at least $10,000.
+(1) A structure that costs at least $25,000 to build, acquire, or install; or the alteration or repair of a structure or the replacement of a structural component, if it increases the structure's useful life by at least 10 years or its market value by at least $25,000.
 
 (2) An agency may use its own definition of capital improvement if its definition includes all capital improvements as defined here.
 
@@ -46,7 +44,13 @@ Capital improvement. (1) *Capital improvement* means:
 
 *Lease* means an agreement in which the owner of a fee interest transfers to a lessee the right of exclusive possession and use of an area of land or water for a fixed period, which may be renewable. The lessor cannot readily revoke the lease at his or her discretion. The lessee pays rent periodically or as a single payment. The lessor must be able to regain possession of the lessee's interest (*leasehold interest*) at the end of the lease term. An agreement that does not correspond to this definition is not a lease even if it is labeled as one.
 
-*Match* means the value of any non-Federal in-kind contributions and the portion of the costs of a grant-funded project or projects not borne by the Federal Government.
+*Match or cost share* means the non-Federal portion of project costs or value of any non-Federal in-kind contributions of a grant-funded project, unless a Federal statute authorizes match using Federal funds. Match must meet the requirements at 2 CFR 200.306(b)(1)-(7).
+
+*Obligation* has two meanings depending on the context:
+
+(1) When a grantee of Federal financial assistance commits funds by incurring costs for purposes of the grant, the definition at 2 CFR 200.71 applies.
+
+(2) When the Service sets aside funds for disbursement immediately or at a later date in the formula-based programs under the Acts, the definition at 50 CFR 80.91 applies.
 
 *Personal property* means anything tangible or intangible that is not real property.
 
@@ -78,13 +82,13 @@ Capital improvement. (1) *Capital improvement* means:
 
 *Project-by-project grant* means an award of money based on a detailed statement of a project or projects and other supporting documentation.
 
-*Real property* means one, several, or all interests, benefits, and rights inherent in the ownership of a parcel of land or water. Examples of real property include fee and leasehold interests, conservation easements, and mineral rights.
+*Real property* means one, several, or all interests, benefits, and rights inherent in the ownership of a parcel of land or water. Examples of real property include fee, conservation easements, access easements, utility easements, and mineral rights. A leasehold interest is also real property except in those States where the State Attorney General provides an official opinion that determines a lease is personal property under State law.
 
-(1) A parcel includes (unless limited by its legal description) the air space above the parcel, the ground below it, and anything physically and firmly attached to it by a natural process or human action. Examples include standing timber, other vegetation (except annual crops), buildings, roads, fences, and other structures.
+(1) A parcel includes (unless limited by its legal description) the space above and below it and anything physically affixed to it by a natural process or human action. Examples include standing timber, other vegetation (except annual crops), buildings, roads, fences, and other structures.
 
 (2) A parcel may also have rights attached to it by a legally prescribed procedure. Examples include water rights or an access easement that allows the parcel's owner to travel across an adjacent parcel.
 
-(3) The legal classification of an interest, benefit, or right depends on its attributes rather than the name assigned to it. For example, a grazing “lease” is often a type of personal property known as a license, which is described in the definition of personal property in this section.
+(3) The legal classification of an interest, benefit, or right depends on its attributes rather than the name assigned to it. For example, a grazing permit is often incorrectly labeled a lease, which can be real property, but most grazing permits are actually licenses, which are not real property.
 
 *Regional Director* means the person appointed by the Director to be the chief executive official of one of the Service's geographic Regions, or a deputy or another person temporarily authorized to exercise the authority of the chief executive official of one of the Service's geographic Regions. This person's responsibility does not extend to any administrative units that the Service's Headquarters supervises directly in that geographic Region.
 
@@ -110,4 +114,4 @@ Capital improvement. (1) *Capital improvement* means:
 
 (3) Under the jurisdiction of a State fish and wildlife agency.
 
-[76 FR 46156, Aug. 1, 2011, as amended at 78 FR 35152, June 12, 2013]
+[76 FR 46156, Aug. 1, 2011, as amended at 78 FR 35152, June 12, 2013; 84 FR 44784, Aug. 27, 2019]

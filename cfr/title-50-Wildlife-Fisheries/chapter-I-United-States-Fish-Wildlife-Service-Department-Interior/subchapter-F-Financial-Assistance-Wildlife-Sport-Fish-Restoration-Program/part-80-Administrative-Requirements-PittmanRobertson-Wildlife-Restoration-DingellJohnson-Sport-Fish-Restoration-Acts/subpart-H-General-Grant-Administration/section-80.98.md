@@ -1,6 +1,8 @@
 ##### § 80.98 How must an agency report barter transactions? #####
 
-Link to an amendment published at 84 FR 44787, August 27, 2019.
+(a) A State fish and wildlife agency must follow the requirements in table 1 to § 80.98(a) when reporting barter transactions in the Federal financial report:
+
+Table 1 to § 80.98(a)
 
 (a) A State fish and wildlife agency must follow the requirements in the following table when reporting barter transactions in the Federal financial report:
 
@@ -16,3 +18,5 @@ Link to an amendment published at 84 FR 44787, August 27, 2019.
 (1) Allows an agricultural producer to farm or graze livestock on land under the agency's control; and
 
 (2) Designs the farming or grazing to advance the agency's fish and wildlife management objectives.
+
+[76 FR 46156, Aug. 1, 2011, as amended at 84 FR 44786, Aug. 27, 2019]

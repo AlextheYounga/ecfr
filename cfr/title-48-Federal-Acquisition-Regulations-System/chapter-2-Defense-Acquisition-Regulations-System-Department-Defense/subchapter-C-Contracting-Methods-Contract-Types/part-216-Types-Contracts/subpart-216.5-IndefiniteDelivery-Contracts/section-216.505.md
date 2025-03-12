@@ -1,5 +1,7 @@
 ##### 216.505 Ordering. #####
 
+Link to an amendment published at 84 FR 50789, September 26, 2019.
+
 (1) Departments and agencies shall comply with the review, approval, and reporting requirements established in accordance with subpart 217.7 when placing orders under non-DoD contracts in amounts exceeding the simplified acquisition threshold.
 
 (2) Orders placed under indefinite-delivery contracts may be issued on DD Form 1155, Order for Supplies or Services.

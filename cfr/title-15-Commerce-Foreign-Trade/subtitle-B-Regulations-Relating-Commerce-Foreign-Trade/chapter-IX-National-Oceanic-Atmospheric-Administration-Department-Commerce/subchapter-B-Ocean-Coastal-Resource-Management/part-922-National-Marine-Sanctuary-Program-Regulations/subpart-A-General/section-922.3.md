@@ -1,7 +1,5 @@
 ##### § 922.3 Definitions. #####
 
-Link to an amendment published at 84 FR 32601, July 8, 2019.
-
 *Act* means title III of the Marine Protection, Research, and Sanctuaries Act of 1972, as amended, 16 U.S.C. 1431 *et seq.,* also known as the National Marine Sanctuaries Act.
 
 *Assistant Administrator* means the Assistant Administrator for Ocean Services and Coastal Zone Management, National Oceanic and Atmospheric Administration (NOAA), or designee.
@@ -44,7 +42,7 @@ Link to an amendment published at 84 FR 32601, July 8, 2019.
 
 *Sanctuary quality* means any of those ambient conditions, physical-chemical characteristics and natural processes, the maintenance of which is essential to the ecological health of the Sanctuary, including, but not limited to, water quality, sediment quality and air quality.
 
-*Sanctuary resource* means any living or non-living resource of a National Marine Sanctuary that contributes to the conservation, recreational, ecological, historical, research, educational, or aesthetic value of the Sanctuary, including, but not limited to, the substratum of the area of the Sanctuary, other submerged features and the surrounding seabed, carbonate rock, corals and other bottom formations, coralline algae and other marine plants and algae, marine invertebrates, brine-seep biota, phytoplankton, zooplankton, fish, seabirds, sea turtles and other marine reptiles, marine mammals and historical resources. For Thunder Bay National Marine Sanctuary and Underwater Preserve, Sanctuary resource means an underwater cultural resource as defined at § 922.191.
+*Sanctuary resource* means any living or non-living resource of a National Marine Sanctuary that contributes to the conservation, recreational, ecological, historical, research, educational, or aesthetic value of the Sanctuary, including, but not limited to, the substratum of the area of the Sanctuary, other submerged features and the surrounding seabed, carbonate rock, corals and other bottom formations, coralline algae and other marine plants and algae, marine invertebrates, brine-seep biota, phytoplankton, zooplankton, fish, seabirds, sea turtles and other marine reptiles, marine mammals and historical resources. For Thunder Bay National Marine Sanctuary and Underwater Preserve, Sanctuary resource means an underwater cultural resource as defined at § 922.191. For Mallows Bay-Potomac River National Marine Sanctuary, Sanctuary resource is defined at § 922.201(a).
 
 *Secretary* means the Secretary of the United States Department of Commerce, or designee.
 
@@ -60,4 +58,4 @@ Link to an amendment published at 84 FR 32601, July 8, 2019.
 
 *Vessel* means a watercraft of any description capable of being used as a means of transportation in/on the waters of a Sanctuary.
 
-[60 FR 66877, Dec. 27, 1995, as amended at 62 FR 4607, Jan. 30, 1997; 65 FR 39055, June 22, 2000; 79 FR 33860, June 13, 2014]
+[60 FR 66877, Dec. 27, 1995, as amended at 62 FR 4607, Jan. 30, 1997; 65 FR 39055, June 22, 2000; 79 FR 33860, June 13, 2014; 84 FR 32601, July 8, 2016]

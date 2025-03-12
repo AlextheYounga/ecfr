@@ -1,0 +1,3 @@
+##### § 80.39 What must an agency do if it becomes aware of errors in its certified license data? #####
+
+A State fish and wildlife agency must submit revised certified data on paid license holders within 90 days after the agency becomes aware of errors in its certified data. The State may become ineligible to participate in the benefits of the relevant Act if it becomes aware of errors in its certified data and does not resubmit accurate certified data within 90 days.

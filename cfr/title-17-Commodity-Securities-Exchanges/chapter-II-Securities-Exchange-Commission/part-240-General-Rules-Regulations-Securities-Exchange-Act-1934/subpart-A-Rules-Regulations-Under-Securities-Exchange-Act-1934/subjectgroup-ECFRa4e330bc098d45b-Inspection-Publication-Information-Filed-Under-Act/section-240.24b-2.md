@@ -10,7 +10,15 @@ Except as otherwise provided in this rule, confidential treatment requests shall
 
 (1) One copy of the confidential portion, marked “Confidential Treatment,” of the material filed with the Commission. The copy shall contain an appropriate identification of the item or other requirement involved and, notwithstanding that the confidential portion does not constitute the whole of the answer, the entire answer thereto; except that in the case where the confidential portion is part of a financial statement or schedule, only the particular financial statement or schedule need be included. The copy of the confidential portion shall be in the same form as the remainder of the material filed;
 
-(2) An application making objection to the disclosure of the confidential portion. Such application shall be on a sheet or sheets separate from the confidential portion, and shall contain (i) an identification of the portion; (ii) a statement of the grounds of objection referring to, and containing an analysis of, the applicable exemption(s) from disclosure under the Commission's rules and regulations adopted under the Freedom of Information Act (17 CFR 200.80), and a justification of the period of time for which confidential treatment is sought; (iii) a written consent to the furnishing of the confidential portion to other government agencies, offices or bodies and to the Congress; and (iv) the name of each exchange, if any, with which the material is filed.
+(2) An application making objection to the disclosure of the confidential portion. Such application shall be on a sheet or sheets separate from the confidential portion, and shall contain:
+
+(i) An identification of the portion;
+
+(ii) A statement of the grounds of objection referring to, and containing an analysis of, the applicable exemption(s) from disclosure under the Freedom of Information Act (5 U.S.C. 552(b)), and a justification of the period of time for which confidential treatment is sought;
+
+(iii) A written consent to the furnishing of the confidential portion to other government agencies, offices or bodies and to the Congress; and
+
+(iv) The name of each exchange, if any, with which the material is filed.
 
 (3) The copy of the confidential portion and the application filed in accordance with this paragraph (b) shall be enclosed in a separate envelope marked “Confidential Treatment” and addressed to The Secretary, Securities and Exchange Commission, Washington, DC 20549.
 
@@ -32,4 +40,4 @@ Except as otherwise provided in this rule, confidential treatment requests shall
 
 (h) A security-based swap data repository shall not omit the confidential portion from the material filed in electronic format pursuant to section 13(n) of the Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder. In lieu of the procedures described in paragraph (b) of this section, a security-based swap data repository shall request confidential treatment electronically for any material filed in electronic format pursuant to section 13(n) of the Act (15 U.S.C. 78m(n)) and the rules and regulations thereunder.
 
-[41 FR 20578, May 19, 1976, as amended at 58 FR 14685, Mar. 18, 1993; 60 FR 32825, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30404, June 14, 1996; 79 FR 72436, Dec. 5, 2014; 80 FR 14556, Mar. 19, 2015]
+[41 FR 20578, May 19, 1976, as amended at 58 FR 14685, Mar. 18, 1993; 60 FR 32825, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30404, June 14, 1996; 79 FR 72436, Dec. 5, 2014; 80 FR 14556, Mar. 19, 2015; 84 FR 50739, Sept. 26, 2019]

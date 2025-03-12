@@ -1,7 +1,5 @@
 ##### § 922.42 Allowed activities. #####
 
-Link to an amendment published at 84 FR 32601, July 8, 2019.
+All activities (e.g., fishing, boating, diving, research, education) may be conducted unless prohibited or otherwise regulated in the site-specific regulations covered by this part, subject to any emergency regulations promulgated under this part, subject to all prohibitions, regulations, restrictions, and conditions validly imposed by any Federal, State, or local authority of competent jurisdiction, including but not limited to, Federal, Tribal, and State fishery management authorities, and subject to the provisions of section 312 of the National Marine Sanctuaries Act (NMSA) (16 U.S.C. 1431 *et seq.*). The Assistant Administrator may only directly regulate fishing activities pursuant to the procedure set forth in section 304(a)(5) of the NMSA.
 
-All activities (e.g., fishing, boating, diving, research, education) may be conducted unless prohibited or otherwise regulated in Subparts F through R, subject to any emergency regulations promulgated pursuant to §§ 922.44, 922.111(c), 922.165, 922.186, or 922.196, subject to all prohibitions, regulations, restrictions, and conditions validly imposed by any Federal, State, or local authority of competent jurisdiction, including Federal and State fishery management authorities, and subject to the provisions of section 312 of the National Marine Sanctuaries Act (NMSA), (16 U.S.C. 1431 *et seq.*). The Assistant Administrator may only directly regulate fishing activities pursuant to the procedure set forth in section 304(a)(5) of the NMSA.
-
-[65 FR 39055, June 22, 2000]
+[84 FR 32601, July 8, 2019]

@@ -1,5 +1,7 @@
 ##### 237.270 Acquisition of audit services. #####
 
+Link to an amendment published at 84 FR 50789, September 26, 2019.
+
 (a) *General policy.* (1) Do not contract for audit services unless -
 
 (i) The cognizant DoD audit organization determines that expertise required to perform the audit is not available within the DoD audit organization; or

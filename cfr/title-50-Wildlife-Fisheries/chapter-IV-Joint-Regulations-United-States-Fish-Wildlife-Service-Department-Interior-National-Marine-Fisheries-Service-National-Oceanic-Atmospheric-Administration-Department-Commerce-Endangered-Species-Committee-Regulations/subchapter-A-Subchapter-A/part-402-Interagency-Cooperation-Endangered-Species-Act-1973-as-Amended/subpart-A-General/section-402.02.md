@@ -1,6 +1,6 @@
 ##### § 402.02 Definitions. #####
 
-Link to an amendment published at 84 FR 45016, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019, at 84 FR 50333, Sept. 25, 2019.
+Link to an amendment published at 84 FR 45016, Aug. 27, 2019.This amendment was delayed until Oct. 28, 2019 at 84 FR 50333, Sept. 25, 2019.
 
 *Act* means the Endangered Species Act of 1973, as amended, 16 U.S.C. 1531 *et seq.*
 

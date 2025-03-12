@@ -1,7 +1,5 @@
 ##### § 424.02 Definitions. #####
 
-Link to an amendment published at 84 FR 45052, Aug. 27, 2019.
-
 The definitions contained in the Act and parts 17, 222, and 402 of this title apply to this part, unless specifically modified by one of the following definitions. Definitions contained in part 17 of this title apply only to species under the jurisdiction of the U.S. Fish and Wildlife Service. Definitions contained in part 222 of this title apply only to species under the jurisdiction of the National Marine Fisheries Service.
 
 *Candidate.* Any species being considered by the Secretary for listing as an endangered or threatened species, but not yet the subject of a proposed rule.
@@ -12,7 +10,7 @@ The definitions contained in the Act and parts 17, 222, and 402 of this title ap
 
 *List* or *lists.* The Lists of Endangered and Threatened Wildlife and Plants found at 50 CFR 17.11(h) or 17.12(h).
 
-*Physical or biological features.* The features that support the life-history needs of the species, including but not limited to, water characteristics, soil type, geological features, sites, prey, vegetation, symbiotic species, or other features. A feature may be a single habitat characteristic, or a more complex combination of habitat characteristics. Features may include habitat characteristics that support ephemeral or dynamic habitat conditions. Features may also be expressed in terms relating to principles of conservation biology, such as patch size, distribution distances, and connectivity.
+*Physical or biological features essential to the conservation of the species.* The features that occur in specific areas and that are essential to support the life-history needs of the species, including but not limited to, water characteristics, soil type, geological features, sites, prey, vegetation, symbiotic species, or other features. A feature may be a single habitat characteristic, or a more complex combination of habitat characteristics. Features may include habitat characteristics that support ephemeral or dynamic habitat conditions. Features may also be expressed in terms relating to principles of conservation biology, such as patch size, distribution distances, and connectivity.
 
 *Public hearing.* An informal hearing to provide the public with the opportunity to give comments and to permit an exchange of information and opinion on a proposed rule.
 
@@ -22,4 +20,4 @@ The definitions contained in the Act and parts 17, 222, and 402 of this title ap
 
 *Wildlife* or *fish and wildlife.* Any member of the animal kingdom, including without limitation, any vertebrate, mollusk, crustacean, arthropod, or other invertebrate, and includes any part, product, egg, or offspring thereof, or the dead body or parts thereof.
 
-[81 FR 7438, Feb. 11, 2016]
+[81 FR 7438, Feb. 11, 2016, as amended at 84 FR 45052, Aug. 27, 2019]

@@ -1,10 +1,6 @@
 ##### § 230.406 Confidential treatment of information filed with the Commission. #####
 
-Preliminary Notes:
-
-(1) Confidential treatment of supplemental information or other information not required to be filed under the Act should be requested under 17 CFR 200.83 and not under this rule.
-
-(2) All confidential treatment requests shall be submitted in paper format only, whether or not the filer is an electronic filer. *See* Rule 101(c)(1)(i) of Regulation S-T (§ 232.101(c)(1)(i) of this chapter).
+Confidential treatment of supplemental information or other information not required to be filed under the Act should be requested under 17 CFR 200.83 and not under this rule. All confidential treatment requests shall be submitted in paper format only, whether or not the filer is an electronic filer. *See* Rule 101(c)(1)(i) of Regulation S-T (§ 232.101(c)(1)(i) of this chapter).
 
 (a) Any person submitting any information in a document required to be filed under the Act may make written objection to its public disclosure by following the procedure in paragraph (b) of this section, which shall be the exclusive means of requesting confidential treatment of information included in any document (hereinafter referred to as the *material filed*) required to be filed under the Act, *except* that if the material filed is a registration statement on Form S-8 (§ 239.16b of this chapter) or on Form S-3, F-2, F-3 (§ 239.13, § 239.32 or § 239.33 of this chapter) relating to a dividend or interest reinvestment plan, or on Form S-4 (§ 239.25 of this chapter) complying with General Instruction G of that Form or if the material filed is a registration statement that does not contain a delaying amendment pursuant to Rule 473 (§ 230.473 of this chapter), the person shall comply with the procedure in paragraph (b) *prior* to the filing of a registration statement.
 
@@ -16,7 +12,7 @@ Preliminary Notes:
 
 (i) An identification of the portion;
 
-(ii) A statement of the grounds of the objection referring to and analyzing the applicable exemption(s) from disclosure under § 200.80 of this chapter, the Commission's rule adopted under the Freedom of Information Act (5 U.S.C. 552), and a justification of the period of time for which confidential treatment is sought;
+(ii) A statement of the grounds of the objection referring to and analyzing the applicable exemption(s) from disclosure under the Freedom of Information Act (5 U.S.C. 552) and a justification of the period of time for which confidential treatment is sought;
 
 (iii) A detailed explanation of why, based on the facts and circumstances of the particular case, disclosure of the information is unnecessary for the protection of investors;
 
@@ -44,4 +40,4 @@ Preliminary Notes:
 
 (i) If the confidential portion is made available to the public, one copy thereof shall be attached to each copy of the material filed with the Commission.
 
-[49 FR 13336, Apr. 4, 1984, as amended at 50 FR 19000, May 6, 1985; 58 FR 14669, 14670, Mar. 18, 1993; 60 FR 32824, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30402, June 14, 1996]
+[49 FR 13336, Apr. 4, 1984, as amended at 50 FR 19000, May 6, 1985; 58 FR 14669, 14670, Mar. 18, 1993; 60 FR 32824, June 23, 1995; 60 FR 47692, Sept. 14, 1995; 61 FR 30402, June 14, 1996; 84 FR 50739, Sept. 26, 2019]
