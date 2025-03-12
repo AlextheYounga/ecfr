@@ -1,5 +1,7 @@
 ##### § 21.9 Time for decision by GAO. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) GAO shall issue a decision on a protest within 100 days after it is filed.
 
 (b) In protests where GAO uses the express option procedures in § 21.10, GAO shall issue a decision on a protest within 65 days after it is filed.

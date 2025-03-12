@@ -6,7 +6,7 @@
 
 (2) Following the issuance of an Order by the Assistant Secretary pursuant to paragraph (b)(1) of this section, the facility may enter further consultations with Department.
 
-(3) Where the Assistant Secretary determines that a facility is in violation of an Order issued pursuant to paragraph (a) of this section and issues an Order Assessing Civil Penalty pursuant to paragraph (b)(1) of this section, a chemical facility is liable to the United States for a civil penalty of not more than $25,000 for each day during which the violation continues, if the violation of the Order occurred on or before November 2, 2015, or $33,333 for each day during which the violation of the Order continues, if the violation occurred after November 2, 2015.
+(3) Where the Assistant Secretary determines that a facility is in violation of an Order issued pursuant to paragraph (a) of this section and issues an Order Assessing Civil Penalty pursuant to paragraph (b)(1) of this section, a chemical facility is liable to the United States for a civil penalty of not more than $25,000 for each day during which the violation continues, if the violation of the Order occurred on or before November 2, 2015, or $34,013 for each day during which the violation of the Order continues, if the violation occurred after November 2, 2015.
 
 (c) *Procedures for Orders.* (1) At a minimum, an Order shall be signed by the Assistant Secretary, shall be dated, and shall include:
 
@@ -30,4 +30,4 @@
 
 (f) An Order issued under this section becomes final agency action when the time to file a Notice of Application of Review under § 27.310 has passed without such a filing or upon the conclusion of adjudication or appeal proceedings under this subpart.
 
-[72 FR 17729, Apr. 9, 2007, as amended at 81 FR 43001, July 1, 2016; 82 FR 8579, Jan. 27, 2017]
+[72 FR 17729, Apr. 9, 2007, as amended at 81 FR 43001, July 1, 2016; 82 FR 8579, Jan. 27, 2017; 83 FR 13834, Apr. 2, 2018]

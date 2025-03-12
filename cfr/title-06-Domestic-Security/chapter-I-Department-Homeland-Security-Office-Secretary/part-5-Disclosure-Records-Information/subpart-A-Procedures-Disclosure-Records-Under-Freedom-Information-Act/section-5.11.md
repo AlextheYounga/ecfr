@@ -28,7 +28,7 @@ These examples are provided for guidance purposes only. Each individual request 
 
 (1) *Search.* (i) Search fees shall be charged for all requests subject to the restrictions of paragraph (d) of this section. Components may properly charge for time spent searching even if they do not locate any responsive records or if they determine that the records are entirely exempt from disclosure.
 
-(ii) For each quarter hour spent by personnel searching for requested records, including electronic searches that do not require new programming, the fees will be as follows: Managerial - $10.25; professional - $7.00; and clerical/administrative - $4.00.
+(ii) For each quarter hour spent by personnel searching for requested records, including electronic searches that do not require new programming, the fees will be as follows: Managerial—$10.25; professional—$7.00; and clerical/administrative—$4.00.
 
 (iii) Requesters will be charged the direct costs associated with conducting any search that requires the creation of a new computer program, as referenced in section 5.4, to locate the requested records. Requesters shall be notified of the costs associated with creating such a program and must agree to pay the associated costs before the costs may be incurred.
 

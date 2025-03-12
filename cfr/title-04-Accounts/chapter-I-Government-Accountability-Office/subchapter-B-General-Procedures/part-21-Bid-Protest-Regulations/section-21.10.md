@@ -1,5 +1,7 @@
 ##### § 21.10 Express options, flexible alternative procedures, accelerated schedules, summary decisions, and status and other conferences. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) At the request of a party or on its own initiative, GAO may decide a protest using an express option.
 
 (b) The express option will be adopted at the discretion of GAO and only in those cases suitable for resolution within 65 days.

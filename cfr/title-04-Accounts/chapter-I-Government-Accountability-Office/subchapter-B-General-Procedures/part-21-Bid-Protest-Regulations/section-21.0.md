@@ -1,5 +1,7 @@
 ##### § 21.0 Definitions. #####
 
+Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
+
 (a)(1) *Interested party* means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of a contract or by the failure to award a contract.
 
 (2) In a public-private competition conducted under Office of Management and Budget Circular A-76 regarding performance of an activity or function of a Federal agency, or a decision to convert a function performed by Federal employees to private sector performance without a competition under OMB Circular A-76, *interested party* also means

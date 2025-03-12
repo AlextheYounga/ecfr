@@ -1,5 +1,7 @@
 ##### § 21.3 Notice of protest, submission of agency report, and time for filing of comments on report. #####
 
+Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
+
 (a) GAO shall notify the agency by telephone within 1 day after the filing of a protest, and, unless the protest is dismissed under this part, shall promptly send a written confirmation to the agency and an acknowledgment to the protester. The agency shall immediately give notice of the protest to the contractor if award has been made or, if no award has been made, to all bidders or offerors who appear to have a substantial prospect of receiving an award. The agency shall furnish copies of the protest submissions to those parties, except where disclosure of the information is prohibited by law, with instructions to communicate further directly with GAO. All parties shall furnish copies of all protest communications to the agency and to other participating parties. All protest communications shall be sent by means reasonably calculated to effect expeditious delivery.
 
 (b) A agency or intervenor which believes that the protest or specific protest allegations should be dismissed before submission of an agency report should file a request for dismissal as soon as practicable.

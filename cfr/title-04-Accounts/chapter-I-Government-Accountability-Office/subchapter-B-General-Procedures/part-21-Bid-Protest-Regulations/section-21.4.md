@@ -1,5 +1,7 @@
 ##### § 21.4 Protective orders. #####
 
+Link to an amendment published at 83 FR 13824, Apr. 2, 2018.
+
 (a) At the request of a party or on its own initiative, GAO may issue a protective order controlling the treatment of protected information. Such information may include proprietary, confidential, or source-selection-sensitive material, as well as other information the release of which could result in a competitive advantage to one or more firms. The protective order shall establish procedures for application for access to protected information, identification and safeguarding of that information, and submission of redacted copies of documents omitting protected information. Because a protective order serves to facilitate the pursuit of a protest by a protester through counsel, it is the responsibility of protester's counsel to request that a protective order be issued and to submit timely applications for admission under that order.
 
 (b) If no protective order has been issued, the agency may withhold from the parties those portions of its report that would ordinarily be subject to a protective order. GAO will review in camera all information not released to the parties.

@@ -1,5 +1,7 @@
 ##### § 21.5 Protest issues not for consideration. #####
 
+Link to an amendment published at 83 FR 13824, Apr. 2, 2018.
+
 A protest or specific protest allegations may be dismissed any time sufficient information is obtained by GAO warranting dismissal. Where an entire protest is dismissed, no agency report need be filed; where specific protest allegations are dismissed, an agency report shall be filed on the remaining allegations. Among the protest bases that shall be dismissed are the following:
 
 (a) *Contract administration.* The administration of an existing contract is within the discretion of the agency. Disputes between a contractor and the agency are resolved pursuant to the disputes clause of the contract and the Contract Disputes Act of 1978. 41 U.S.C. 601-613.

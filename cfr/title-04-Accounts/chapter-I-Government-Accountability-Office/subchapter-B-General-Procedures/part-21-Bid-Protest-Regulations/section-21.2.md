@@ -1,5 +1,7 @@
 ##### § 21.2 Time for filing. #####
 
+Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
+
 (a)(1) Protests based upon alleged improprieties in a solicitation which are apparent prior to bid opening or the time set for receipt of initial proposals shall be filed prior to bid opening or the time set for receipt of initial proposals. In procurements where proposals are requested, alleged improprieties which do not exist in the initial solicitation but which are subsequently incorporated into the solicitation must be protested not later than the next closing time for receipt of proposals following the incorporation.
 
 (2) Protests other than those covered by paragraph (a)(1) of this section shall be filed not later than 10 days after the basis of protest is known or should have been known (whichever is earlier), with the exception of protests challenging a procurement conducted on the basis of competitive proposals under which a debriefing is requested and, when requested, is required. In such cases, with respect to any protest basis which is known or should have been known either before or as a result of the debriefing, the initial protest shall not be filed before the debriefing date offered to the protester, but shall be filed not later than 10 days after the date on which the debriefing is held.

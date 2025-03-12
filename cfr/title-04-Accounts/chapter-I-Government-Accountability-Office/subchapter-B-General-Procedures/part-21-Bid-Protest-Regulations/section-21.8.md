@@ -1,5 +1,7 @@
 ##### § 21.8 Remedies. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) If GAO determines that a solicitation, cancellation of a solicitation, termination of a contract, proposed award, or award does not comply with statute or regulation, it shall recommend that the agency implement any combination of the following remedies:
 
 (1) Refrain from exercising options under the contract;

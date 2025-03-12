@@ -1,7 +1,5 @@
 ##### § 7.7 Rocky Mountain National Park. #####
 
-Link to an amendment published at 83 FR 8944, Mar. 2, 2018.
-
 (a) *Fishing.* (1) Fishing restrictions, based on management objectives described in the park's Resources Management Plan, are established annually by the Superintendent.
 
 (2) The Superintendent may impose closures and establish conditions or restrictions, in accordance with the criteria and procedures of §§ 1.5 and 1.7 of this chapter, on any activity pertaining to fishing, including, but not limited to species of fish that may be taken, seasons and hours during which fishing may take place, methods of taking, size, creel, and possession limits.
@@ -24,4 +22,6 @@ Link to an amendment published at 83 FR 8944, Mar. 2, 2018.
 
 (2) *When may I operate a snowmobile on the North Supply Access Trail?* The Superintendent will determine the opening and closing dates for use of the North Supply Access Trail each year, taking into consideration the location of wintering wildlife, appropriate snow cover, and other factors that may relate to public safety. The Superintendent will notify the public of such dates through one or more of the methods listed in § 1.7(a) of this chapter. Temporary closure of this route will be initiated through the posting of appropriate signs and/or barriers.
 
-[40 FR 14912, Apr. 3, 1975, as amended at 41 FR 49629, Nov. 10, 1976; 43 FR 14308, Apr. 5, 1978; 48 FR 30293, June 30, 1983; 49 FR 24893, June 18, 1984; 49 FR 25854, June 25, 1984; 52 FR 10685, Apr. 2, 1987; 52 FR 23304, June 19, 1987; 54 FR 4020, Jan. 27, 1989; 54 FR 43061, Oct. 20, 1989; 69 FR 53630, Sept. 2, 2004]
+(f) *Bicycle use on the East Shore Trail.* The Superintendent may designate all or portions of a 2-mile segment of the East Shore Trail, extending north from Shadow Mountain Dam to the park boundary, as open to bicycle use. A map showing portions of the East Shore Trail open to bicycle use will be available at park visitor centers and posted on the park website. The Superintendent will provide notice of all bicycle route designations in accordance with § 1.7 of this chapter. The Superintendent may limit, restrict, or impose conditions on bicycle use, or close any trail to bicycle use, or terminate such conditions, closures, limits, or restrictions in accordance with § 4.30 of this chapter.
+
+[40 FR 14912, Apr. 3, 1975, as amended at 41 FR 49629, Nov. 10, 1976; 43 FR 14308, Apr. 5, 1978; 48 FR 30293, June 30, 1983; 49 FR 24893, June 18, 1984; 49 FR 25854, June 25, 1984; 52 FR 10685, Apr. 2, 1987; 52 FR 23304, June 19, 1987; 54 FR 4020, Jan. 27, 1989; 54 FR 43061, Oct. 20, 1989; 69 FR 53630, Sept. 2, 2004; 83 FR 8944, Mar. 2, 2018]

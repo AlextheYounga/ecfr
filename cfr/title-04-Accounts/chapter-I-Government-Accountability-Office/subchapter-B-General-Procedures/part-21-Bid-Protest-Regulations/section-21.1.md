@@ -1,5 +1,7 @@
 ##### § 21.1 Filing a protest. #####
 
+Link to an amendment published at 83 FR 13823, Apr. 2, 2018.
+
 (a) An interested party may protest a solicitation or other request by a Federal agency for offers for a contract for the procurement of property or services; the cancellation of such a solicitation or other request; an award or proposed award of such a contract; and a termination of such a contract, if the protest alleges that the termination was based on improprieties in the award of the contract.
 
 (b) Protests must be in writing and addressed as follows: General Counsel, Government Accountability Office, 441 G Street, NW., Washington, DC 20548, Attention: Procurement Law Control Group.

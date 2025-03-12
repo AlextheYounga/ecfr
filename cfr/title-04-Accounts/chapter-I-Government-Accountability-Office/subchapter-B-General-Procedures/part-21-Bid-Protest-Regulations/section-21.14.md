@@ -1,5 +1,7 @@
 ##### § 21.14 Request for reconsideration. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) The protester, any intervenor, and any Federal agency involved in the protest may request reconsideration of a bid protest decision. GAO will not consider a request for reconsideration that does not contain a detailed statement of the factual and legal grounds upon which reversal or modification is deemed warranted, specifying any errors of law made or information not previously considered.
 
 (b) A request for reconsideration of a bid protest decision shall be filed, with copies to the parties who participated in the protest, not later than 10 days after the basis for reconsideration is known or should have been known, whichever is earlier.

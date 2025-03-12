@@ -1,5 +1,7 @@
 ##### § 21.12 Distribution of decisions. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) Unless it contains protected information, a copy of a decision shall be provided to the protester, any intervenors, and the agency involved; a copy also shall be made available to the public. A copy of a decision containing protected information shall be provided only to the agency and to individuals admitted to any protective order issued in the protest. A public version omitting the protected information shall be prepared wherever possible.
 
 (b) Decisions may be distributed to the parties, and are available from GAO, by electronic means.

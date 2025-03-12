@@ -1,5 +1,7 @@
 ##### § 21.7 Hearings. #####
 
+Link to an amendment published at 83 FR 13825, Apr. 2, 2018.
+
 (a) At the request of a party or on its own initiative, GAO may conduct a hearing in connection with a protest. The request shall set forth the reasons why a hearing is needed to resolve the protest.
 
 (b) Prior to the hearing, GAO may hold a pre-hearing conference to discuss and resolve matters such as the procedures to be followed, the issues to be considered, and the witnesses who will testify.
