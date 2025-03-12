@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (JAN 2022)
+Annual Representations and Certifications (MAY 2022)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -62,7 +60,7 @@ Annual Representations and Certifications (JAN 2022)
 
 (xi) 52.215-6, Place of Performance. This provision applies to solicitations unless the place of performance is specified by the Government.
 
-(xii) 52.219-1, Small Business Program Representations (Basic, Alternates I, and II). This provision applies to solicitations when the contract will be performed in the United States or its outlying areas.
+(xii) 52.219-1, Small Business Program Representations (Basic, Alternates I, and II). This provision applies to solicitations when the contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii).
 
 (A) The basic provision applies when the solicitations are issued by other than DoD, NASA, and the Coast Guard.
 
@@ -70,7 +68,7 @@ Annual Representations and Certifications (JAN 2022)
 
 (C) The provision with its Alternate II applies to solicitations that will result in a multiple-award contract with more than one NAICS code assigned.
 
-(xiii) 52.219-2, Equal Low Bids. This provision applies to solicitations when contracting by sealed bidding and the contract will be performed in the United States or its outlying areas.
+(xiii) 52.219-2, Equal Low Bids. This provision applies to solicitations when contracting by sealed bidding and the contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii).
 
 (xiv) 52.222-22, Previous Contracts and Compliance Reports. This provision applies to solicitations that include the clause at 52.222-26, Equal Opportunity.
 

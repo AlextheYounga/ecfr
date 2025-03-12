@@ -1,8 +1,8 @@
-##### 49.603-7 No-cost settlement agreement - partial termination. #####
+##### 49.603-7 No-cost settlement agreement—partial termination. #####
 
 [*Insert the following in Block 14 of SF 30 if a no-cost settlement agreement, under a partial termination, is to be executed.*]
 
-(a) This supplemental agreement modifies the contract to reflect a no-cost settlement agreement with respect to the Notice of Termination dated \_\_\_\_\_.
+(a) This supplemental agreement modifies the contract to reflect a no-cost settlement agreement with respect to the Notice of Termination dated \_\_\_\_\_\_\_\_\_\_.
 
 (b) The parties agree as follows:
 

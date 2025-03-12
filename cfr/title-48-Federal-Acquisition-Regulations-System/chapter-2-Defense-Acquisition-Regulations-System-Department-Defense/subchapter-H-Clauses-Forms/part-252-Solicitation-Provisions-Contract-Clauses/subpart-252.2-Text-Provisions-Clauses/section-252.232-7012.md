@@ -2,7 +2,7 @@
 
 As prescribed in 232.1005-70(a)(1), use the following clause: PERFORMANCE-BASED PAYMENTS - WHOLE-CONTRACT BASIS (APR 2020)
 
-(a) Performance-based payments shall form the basis for the contract financing payments provided under this contract, and shall apply to the whole contract. The performance-based payments schedule (Contract Attachment \_\_\_) describes the basis for payment, to include identification of the individual payment events, evidence of completion, and amount of payment due upon completion of each event.
+(a) Performance-based payments shall form the basis for the contract financing payments provided under this contract, and shall apply to the whole contract. The performance-based payments schedule (Contract Attachment \_\_\_\_\_\_) describes the basis for payment, to include identification of the individual payment events, evidence of completion, and amount of payment due upon completion of each event.
 
 (b) In accordance with 10 U.S.C. 2307(b)(4)(A), the Contractor's financial statements shall be in compliance with Generally Accepted Accounting Principles in order to receive performance-based payments.
 

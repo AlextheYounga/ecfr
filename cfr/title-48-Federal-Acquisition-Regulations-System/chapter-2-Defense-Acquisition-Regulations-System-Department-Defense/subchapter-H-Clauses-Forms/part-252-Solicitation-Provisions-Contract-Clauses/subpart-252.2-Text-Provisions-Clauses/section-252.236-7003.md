@@ -4,9 +4,9 @@ As prescribed in 236.570(b)(2), use the following clause:
 
 Payment for Mobilization and Preparatory Work (JAN 1997)
 
-(a) The Government will make payment to the Contractor under the procedures in this clause for mobilization and preparatory work under item no. \_\_\_\_\_.
+(a) The Government will make payment to the Contractor under the procedures in this clause for mobilization and preparatory work under item no. \_\_\_\_\_\_\_\_\_\_.
 
-(b) Payments will be made for actual payments by the Contractor on work preparatory to commencing actual work on the construction items for which payment is provided under the terms of this contract, as follows -
+(b) Payments will be made for actual payments by the Contractor on work preparatory to commencing actual work on the construction items for which payment is provided under the terms of this contract, as follows—
 
 (1) For construction plant and equipment exceeding $25,000 in value per unit (as appraised by the Contracting Officer at the work site) acquired for the execution of the work;
 
@@ -20,13 +20,13 @@ Payment for Mobilization and Preparatory Work (JAN 1997)
 
 (6) Hire of plant.
 
-(c) Requests for payment must include -
+(c) Requests for payment must include—
 
 (1) An account of the Contractor's actual expenditures;
 
 (2) Supporting documentation, including receipted bills or copies of payrolls and freight bills; and
 
-(3) The Contractor's documentation -
+(3) The Contractor's documentation—
 
 (i) Showing that it has acquired the construction plant, equipment, and material free from all encumbrances;
 
@@ -34,15 +34,15 @@ Payment for Mobilization and Preparatory Work (JAN 1997)
 
 (iii) Agreeing that structures and facilities prepared or erected for the prosecution of the contract work will be maintained and not dismantled prior to the completion and acceptance of the entire work, without the written permission of the Contracting Officer.
 
-(d) Upon receiving a request for payment, the Government will make payment, less any prescribed retained percentage, if -
+(d) Upon receiving a request for payment, the Government will make payment, less any prescribed retained percentage, if—
 
-(1) The Contracting Officer finds the -
+(1) The Contracting Officer finds the—
 
 (i) Construction plant, material, equipment, and the mobilization and preparatory work performed are suitable and necessary to the efficient prosecution of the contract; and
 
 (ii) Preparatory work has been done with proper economy and efficiency.
 
-(2) Payments for construction plant, equipment, material, and structures and facilities prepared or erected for prosecution of the contract work do not exceed -
+(2) Payments for construction plant, equipment, material, and structures and facilities prepared or erected for prosecution of the contract work do not exceed—
 
 (i) The Contractor's cost for the work performed less the estimated value upon completion of the contract; and
 
@@ -50,7 +50,7 @@ Payment for Mobilization and Preparatory Work (JAN 1997)
 
 (iii) 75 percent of the cost to the contractor of items which do have an appreciable salvage value.
 
-(e) (1) Payments will continue to be made for item no. \_\_\_\_, and all payments will be deducted from the contract price for this item, until the total deductions reduce this item to zero, after which no further payments will be made under this item.
+(e) (1) Payments will continue to be made for item no. \_\_\_\_\_\_\_\_, and all payments will be deducted from the contract price for this item, until the total deductions reduce this item to zero, after which no further payments will be made under this item.
 
 (2) If the total of payments so made does not reduce this item to zero, the balance will be paid to the Contractor in the final payment under the contract.
 

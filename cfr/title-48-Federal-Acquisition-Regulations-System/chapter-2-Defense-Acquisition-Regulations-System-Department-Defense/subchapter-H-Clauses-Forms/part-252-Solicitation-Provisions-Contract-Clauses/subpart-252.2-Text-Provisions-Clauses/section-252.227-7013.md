@@ -188,7 +188,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Special License Rights
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose these data are restricted by Contract No. \_\_\_\_\_\_\_\_ (Insert contract number) \_\_\_\_\_\_\_\_, License No. \_\_\_\_\_\_\_\_ (Insert license identifier) \_\_\_\_\_\_\_\_. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose these data are restricted by Contract No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Insert contract number) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, License No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (Insert license identifier) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend)
 

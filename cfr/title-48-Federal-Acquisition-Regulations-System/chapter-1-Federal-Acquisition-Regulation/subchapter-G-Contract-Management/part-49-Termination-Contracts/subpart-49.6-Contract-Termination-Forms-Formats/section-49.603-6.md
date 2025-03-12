@@ -1,8 +1,8 @@
-##### 49.603-6 No-cost settlement agreement - complete termination. #####
+##### 49.603-6 No-cost settlement agreement—complete termination. #####
 
 [*Insert the following in Block 14 of SF 30 if a no-cost settlement agreement, under a complete termination, is to be executed.*]
 
-(a) This supplemental agreement \_\_\_\_\_ [*insert* “modifies the contract to reflect a no-cost settlement agreement with respect to the Notice of Termination dated \_\_\_\_\_” *or, if not previously terminated,* “terminates the contract in its entirety”.]
+(a) This supplemental agreement \_\_\_\_\_\_\_\_\_\_ [*insert* “modifies the contract to reflect a no-cost settlement agreement with respect to the Notice of Termination dated \_\_\_\_\_\_\_\_\_\_” *or, if not previously terminated,* “terminates the contract in its entirety”.]
 
 (b) The parties agree as follows:
 

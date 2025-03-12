@@ -1,12 +1,12 @@
-##### 252.236-7012 Military construction on Kwajalein Atoll - evaluation preference. #####
+##### 252.236-7012 Military construction on Kwajalein Atoll—evaluation preference. #####
 
 As prescribed in 236.570(c)(2), use the following provision:
 
-Military Construction on Kwajalein Atoll - Evaluation Preference (MAR 1998)
+Military Construction on Kwajalein Atoll—Evaluation Preference (MAR 1998)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
-(1) *Marshallese firm* means a local firm incorporated in the Marshall Islands, or otherwise legally organized under the laws of the Marshall Islands, that -
+(1) *Marshallese firm* means a local firm incorporated in the Marshall Islands, or otherwise legally organized under the laws of the Marshall Islands, that—
 
 (i) Is more than 50 percent owned by citizens of the Marshall Islands; or
 
@@ -28,6 +28,6 @@ Military Construction on Kwajalein Atoll - Evaluation Preference (MAR 1998)
 
 (b) *Evaluation.* Offers from firms that do not qualify as United States firms or Marshallese firms will be evaluated by adding 20 percent to the offer, unless application of the factor would not result in award to a United States firm.
 
-(c) *Status.* The offeror is \_\_\_\_ a United States firm; \_\_\_\_ a Marshallese firm; \_\_\_\_ Other.
+(c) *Status.* The offeror is \_\_\_\_\_\_\_\_ a United States firm; \_\_\_\_\_\_\_\_ a Marshallese firm; \_\_\_\_\_\_\_\_ Other.
 
 (End of provision)[63 FR 11549, Mar. 9, 1998]

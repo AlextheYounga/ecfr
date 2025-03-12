@@ -8,11 +8,11 @@ This notice shall be sent by certified mail, return receipt requested, or electr
 
 [*At the top of the notice, set out all special details relating to the particular termination; e.g., name and address of company, contract number of terminated contract, items, etc.*]
 
-(a) *Effective date of termination.* This confirms the Government's electronic notice to you dated \_\_\_\_\_\_\_\_\_\_\_, 20\_\_, terminating \_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] Contract No. \_\_\_\_\_\_\_ (referred to as “the contract”) for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective on the date and in the manner stated in the electronic notice.
+(a) *Effective date of termination.* This confirms the Government's electronic notice to you dated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_, terminating \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] Contract No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (referred to as “the contract”) for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective on the date and in the manner stated in the electronic notice.
 
 (b) *Cessation of work and notification to immediate subcontractors.* You shall take the following steps:
 
-(1) Stop all work, make no further shipments, and place no further orders relating to the contract, except for -
+(1) Stop all work, make no further shipments, and place no further orders relating to the contract, except for—
 
 (i) The continued portion of the contract, if any;
 
@@ -20,7 +20,7 @@ This notice shall be sent by certified mail, return receipt requested, or electr
 
 (iii) Work-in-process that the Contracting Officer authorizes you to continue (A) for safety precautions, (B) to clear or avoid damage to equipment, (C) to avoid immediate complete spoilage of work-in-process having a definite commercial value, or (D) to prevent any other undue loss to the Government. (If you believe this authorization is necessary or advisable, immediately notify the Contracting Officer by telephone or personal conference and obtain instructions.)
 
-(2) Keep adequate records of your compliance with subparagraph (1) above showing the -
+(2) Keep adequate records of your compliance with subparagraph (1) above showing the—
 
 (i) Date you received the Notice of Termination;
 
@@ -28,7 +28,7 @@ This notice shall be sent by certified mail, return receipt requested, or electr
 
 (iii) Extent of completion of performance on the effective date.
 
-(3) Furnish notice of termination to each immediate subcontractor and supplier that will be affected by this termination. In the notice -
+(3) Furnish notice of termination to each immediate subcontractor and supplier that will be affected by this termination. In the notice—
 
 (i) Specify your Government contract number;
 
@@ -60,7 +60,7 @@ This notice shall be sent by certified mail, return receipt requested, or electr
 
 (2) Instruments of license or assignment on all inventions, discoveries, and patent applications made in the performance of the contract.
 
-(g) *Employees affected.* (1) If this termination, together with other outstanding terminations, will necessitate a significant reduction in your work force, you are urged to -
+(g) *Employees affected.* (1) If this termination, together with other outstanding terminations, will necessitate a significant reduction in your work force, you are urged to—
 
 (i) Promptly inform the local State Employment Service of your reduction-in-force schedule in numbers and occupations, so that the Service can take timely action in assisting displaced workers;
 
@@ -80,12 +80,12 @@ This notice shall be sent by certified mail, return receipt requested, or electr
 
 (Contracting Officer)(Name of Office)(Address)Acknowledgment of Notice
 
-The undersigned acknowledges receipt of a signed copy of this notice on \_\_\_\_\_\_\_\_\_, 20\_\_. Two signed copies of this notice are returned.
+The undersigned acknowledges receipt of a signed copy of this notice on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_. Two signed copies of this notice are returned.
 
 (Name of Contractor)By(Name)(Title)(End of notice)
 
 *Alternate notice.* Substitute the following paragraph (a) for paragraph (a) of 49.601-2, Notice of Termination to Prime Contractors, if no prior electronic notice was issued, or if no confirmation of an electronic notice was received:
 
-(a) *Effective date of termination.* You are notified that Contract No. \_\_\_\_\_\_\_ (referred to as “the contract”) is terminated \_\_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective \_\_\_\_\_\_\_\_ [*insert either* “immediately upon receipt of this Notice” *or* “on \_\_\_\_\_\_\_\_\_, 20\_\_,” *or* “as soon as you have delivered, including prior deliveries, the following items:” (*list*)]. Reduce items to be delivered as follows: [*insert instructions*].
+(a) *Effective date of termination.* You are notified that Contract No. \_\_\_\_\_\_\_\_\_\_\_\_\_\_ (referred to as “the contract”) is terminated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert* “completely” *or* “in part”] for the Government's convenience under the clause entitled \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert title of appropriate termination clause*]. The termination is effective \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ [*insert either* “immediately upon receipt of this Notice” *or* “on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_,” *or* “as soon as you have delivered, including prior deliveries, the following items:” (*list*)]. Reduce items to be delivered as follows: [*insert instructions*].
 
 [48 FR 42447, Sept. 19, 1983, as amended at 65 FR 36031, June 6, 2000; 81 FR 83099, Nov. 18, 2016; 82 FR 4714, Jan. 13, 2017]

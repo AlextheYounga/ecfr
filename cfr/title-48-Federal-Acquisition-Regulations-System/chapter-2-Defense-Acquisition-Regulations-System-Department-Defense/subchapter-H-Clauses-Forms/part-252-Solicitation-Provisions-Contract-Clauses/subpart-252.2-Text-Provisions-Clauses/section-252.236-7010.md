@@ -1,8 +1,8 @@
-##### 252.236-7010 Overseas military construction - Preference for United States firms. #####
+##### 252.236-7010 Overseas military construction—Preference for United States firms. #####
 
 As prescribed in 236.570(c)(1), use the following provision:
 
-Overseas Military Construction - Preference for United States Firms (JAN 1997)
+Overseas Military Construction—Preference for United States Firms (JAN 1997)
 
 (a) *Definition.* “United States firm,” as used in this provision, means a firm incorporated in the United States that complies with the following:
 
@@ -14,6 +14,6 @@ Overseas Military Construction - Preference for United States Firms (JAN 1997)
 
 (b) *Evaluation.* Offers from firms that do not qualify as United States firms will be evaluated by adding 20 percent to the offer.
 
-(c) *Status.* The offeror \_\_\_ is, \_\_\_ is not a United States firm.
+(c) *Status.* The offeror \_\_\_\_\_\_ is, \_\_\_\_\_\_ is not a United States firm.
 
 (End of provision)[62 FR 2857, Jan. 17, 1997, as amended at 63 FR 11549, Mar. 9, 1998]

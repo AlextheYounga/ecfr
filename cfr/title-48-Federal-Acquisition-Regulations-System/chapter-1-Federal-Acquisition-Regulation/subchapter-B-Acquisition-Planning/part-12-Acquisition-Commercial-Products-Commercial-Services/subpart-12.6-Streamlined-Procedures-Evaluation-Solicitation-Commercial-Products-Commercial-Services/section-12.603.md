@@ -4,7 +4,7 @@
 
 (b) When using the combined synopsis/solicitation procedure, the SF 1449 is not used for issuing the solicitation.
 
-(c) To use these procedures, the contracting officer shall -
+(c) To use these procedures, the contracting officer shall—
 
 (1) Prepare the synopsis as described at 5.207.
 
@@ -16,7 +16,7 @@ This is a combined synopsis/solicitation for commercial products or commercial s
 
 (ii) The solicitation number and a statement that the solicitation is issued as an invitation to bid (IFB), request for quotation (RFQ) or request for proposal (RFP).
 
-(iii) A statement that the solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular \_\_\_.
+(iii) A statement that the solicitation document and incorporated provisions and clauses are those in effect through Federal Acquisition Circular \_\_\_\_\_\_.
 
 (iv) A notice regarding any set-aside and the associated NAICS code and small business size standard.
 
@@ -26,15 +26,15 @@ This is a combined synopsis/solicitation for commercial products or commercial s
 
 (vii) Date(s) and place(s) of delivery and acceptance and FOB point.
 
-(viii) A statement that the provision at 52.212-1, Instructions to Offerors - Commercial Products and Commercial Services , applies to this acquisition and a statement regarding any addenda to the provision.
+(viii) A statement that the provision at 52.212-1, Instructions to Offerors—Commercial Products and Commercial Services, applies to this acquisition and a statement regarding any addenda to the provision.
 
-(ix) A statement regarding the applicability of the provision at 52.212-2, Evaluation - Commercial Products and Commercial Services , if used, and the specific evaluation criteria to be included in paragraph (a) of that provision. If this provision is not used, describe the evaluation procedures to be used.
+(ix) A statement regarding the applicability of the provision at 52.212-2, Evaluation—Commercial Products and Commercial Services, if used, and the specific evaluation criteria to be included in paragraph (a) of that provision. If this provision is not used, describe the evaluation procedures to be used.
 
-(x) A statement advising offerors to include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications - Commercial Products and Commercial Services , with its offer.
+(x) A statement advising offerors to include a completed copy of the provision at 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services, with its offer.
 
-(xi) A statement that the clause at 52.212-4, Contract Terms and Conditions - Commercial Products and Commercial Services, applies to this acquisition and a statement regarding any addenda to the clause.
+(xi) A statement that the clause at 52.212-4, Contract Terms and Conditions—Commercial Products and Commercial Services, applies to this acquisition and a statement regarding any addenda to the clause.
 
-(xii) A statement that the clause at 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services, applies to this acquisition and a statement regarding which, if any, of the additional FAR clauses cited in the clause are applicable to the acquisition.
+(xii) A statement that the clause at 52.212-5, Contract Terms and Conditions Required To Implement Statutes or Executive Orders—Commercial Products and Commercial Services, applies to this acquisition and a statement regarding which, if any, of the additional FAR clauses cited in the clause are applicable to the acquisition.
 
 (xiii) A statement regarding any additional contract requirement(s) or terms and conditions (such as contract financing arrangements or warranty requirements) determined by the contracting officer to be necessary for this acquisition and consistent with customary commercial practices.
 

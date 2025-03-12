@@ -24,7 +24,7 @@ Rights in Noncommercial Computer Software and Noncommercial Computer Software Do
 
 (5) *Computer software documentation* means owner's manuals, user's manuals, installation instructions, operating instructions, and other similar items, regardless of storage medium, that explain the capabilities of the computer software or provide instructions for using the software.
 
-(6)*Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor -
+(6) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor -
 
 (i) Is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
@@ -212,7 +212,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Special License Rights
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by Contract No. \_\_\_\_(Insert contract number)\_\_\_\_, License No.\_\_\_\_(Insert license identifier)\_\_\_\_. Any reproduction of computer software, computer software documentation, or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose this software are restricted by Contract No. \_\_\_\_\_\_\_\_(Insert contract number)\_\_\_\_\_\_\_\_, License No.\_\_\_\_\_\_\_\_(Insert license identifier)\_\_\_\_\_\_\_\_. Any reproduction of computer software, computer software documentation, or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend)
 

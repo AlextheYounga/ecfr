@@ -1,4 +1,4 @@
-##### 49.603-8 Fixed-price contracts - settlements with subcontractors only. #####
+##### 49.603-8 Fixed-price contracts—settlements with subcontractors only. #####
 
 [*Insert the following in Block 14 of SF 30 for settlements of fixed-price contracts covering only settlements with subcontractors.*]
 
@@ -16,7 +16,7 @@
 
 (4) The Contractor shall, within 10 days after receipt of the payment specified in this agreement, pay to each of its immediate subcontractors (or their respective assignees) the amounts to which they are entitled, after deducting any prior payments and, if the Contractor so elects, any amounts due and payable to the Contractor by those subcontractors.
 
-(5) The Government agrees to pay the Contractor or its assignee, upon presentation of a proper invoice or voucher, $\_\_\_\_\_ [*insert net amount of settlement*], which, together with the amount of $\_\_\_\_\_ previously paid the Contractor as partial, progress, or advance payments, constitutes payment in full and complete settlement, except as provided in subparagraph (b)(6) below, of the amount due the Contractor for that portion of its settlement proposal that is based upon termination of the subcontracts listed above.
+(5) The Government agrees to pay the Contractor or its assignee, upon presentation of a proper invoice or voucher, $\_\_\_\_\_\_\_\_\_\_ [*insert net amount of settlement*], which, together with the amount of $\_\_\_\_\_\_\_\_\_\_ previously paid the Contractor as partial, progress, or advance payments, constitutes payment in full and complete settlement, except as provided in subparagraph (b)(6) below, of the amount due the Contractor for that portion of its settlement proposal that is based upon termination of the subcontracts listed above.
 
 (6) Regardless of any other provision of this agreement, the following rights and liabilities of the parties under the contract are reserved: [*List reserved or excepted rights and liabilities. See 49.109-2 and 49.603-1(b)(7).*]
 

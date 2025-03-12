@@ -1,10 +1,10 @@
 ##### 42.1204 Applicability of novation agreements. #####
 
-(a) 41 U.S.C. 6305 prohibits transfer of Government contracts from the contractor to a third party. The Government may, when in its interest, recognize a third party as the successor in interest to a Government contract when the third party's interest in the contract arises out of the transfer of -
+(a) 41 U.S.C. 6305 prohibits transfer of Government contracts from the contractor to a third party. The Government may, when in its interest, recognize a third party as the successor in interest to a Government contract when the third party's interest in the contract arises out of the transfer of—
 
 (1) All the contractor's assets; or
 
-(2) The entire portion of the assets involved in performing the contract. (See 14.404-2(l) for the effect of novation agreements after bid opening but before award.) Examples of such transactions include, but are not limited to -
+(2) The entire portion of the assets involved in performing the contract. (See 14.404-2(l) for the effect of novation agreements after bid opening but before award.) Examples of such transactions include, but are not limited to—
 
 (i) Sale of these assets with a provision for assuming liabilities;
 
@@ -22,7 +22,7 @@
 
 (1) The document describing the proposed transaction, e.g., purchase/sale agreement or memorandum of understanding.
 
-(2) A list of all affected contracts between the transferor and the Government, as of the date of sale or transfer of assets, showing for each, as of that date, the -
+(2) A list of all affected contracts between the transferor and the Government, as of the date of sale or transfer of assets, showing for each, as of that date, the—
 
 (i) Contract number and type;
 
@@ -56,7 +56,7 @@
 
 (g) If the Government has acquired the documents during its participation in the pre-merger or pre-acquisition review process, or the Government's interests are adequately protected with an alternative formulation of the information, the responsible contracting officer may modify the list of documents to be submitted by the contractor.
 
-(h) When recognizing a successor in interest to a Government contract is consistent with the Government's interest, the responsible contracting officer shall execute a novation agreement with the transferor and the transferee. It shall ordinarily provide in part that -
+(h) When recognizing a successor in interest to a Government contract is consistent with the Government's interest, the responsible contracting officer shall execute a novation agreement with the transferor and the transferee. It shall ordinarily provide in part that—
 
 (1) The transferee assumes all the transferor's obligations under the contract;
 
@@ -70,13 +70,13 @@
 
 NOVATION AGREEMENT
 
-The ABC CORPORATION (Transferor), a corporation duly organized and existing under the laws of \_\_\_\_ [*insert State*] with its principal office in \_\_\_\_ [*insert city*]; the XYZ CORPORATION (Transferee), [*if appropriate add “formerly known as the EFG Corporation”*] a corporation duly organized and existing under the laws of \_\_\_\_ [*insert State*] with its principal office in \_\_\_\_ [*insert city*]; and the UNITED STATES OF AMERICA (Government) enter into this Agreement as of \_\_\_\_ [*insert the date transfer of assets became effective under applicable State law*].
+The ABC CORPORATION (Transferor), a corporation duly organized and existing under the laws of \_\_\_\_\_\_\_\_ [*insert State*] with its principal office in \_\_\_\_\_\_\_\_ [*insert city*]; the XYZ CORPORATION (Transferee), [*if appropriate add “formerly known as the EFG Corporation”*] a corporation duly organized and existing under the laws of \_\_\_\_\_\_\_\_ [*insert State*] with its principal office in \_\_\_\_\_\_\_\_ [*insert city*]; and the UNITED STATES OF AMERICA (Government) enter into this Agreement as of \_\_\_\_\_\_\_\_ [*insert the date transfer of assets became effective under applicable State law*].
 
 (a) THE PARTIES AGREE TO THE FOLLOWING FACTS:
 
-(1) The Government, represented by various Contracting Officers of the \_\_\_\_ [*insert name(s) of agency(ies)*], has entered into certain contracts with the Transferor, namely: \_\_\_\_ [*insert contract or purchase order identifications*]; [*or delete “namely” and insert “as shown in the attached list marked ‘Exhibit A’ and incorporated in this Agreement by reference.”*]. The term *the contracts,* as used in this Agreement, means the above contracts and purchase orders and all other contracts and purchase orders, including all modifications, made between the Government and the Transferor before the effective date of this Agreement (whether or not performance and payment have been completed and releases executed if the Government or the Transferor has any remaining rights, duties, or obligations under these contracts and purchase orders). Included in the term *the contracts* are also all modifications made under the terms and conditions of these contracts and purchase orders between the Government and the Transferee, on or after the effective date of this Agreement.
+(1) The Government, represented by various Contracting Officers of the \_\_\_\_\_\_\_\_ [*insert name(s) of agency(ies)*], has entered into certain contracts with the Transferor, namely: \_\_\_\_\_\_\_\_ [*insert contract or purchase order identifications*]; [*or delete “namely” and insert “as shown in the attached list marked ‘Exhibit A’ and incorporated in this Agreement by reference.”*]. The term *the contracts,* as used in this Agreement, means the above contracts and purchase orders and all other contracts and purchase orders, including all modifications, made between the Government and the Transferor before the effective date of this Agreement (whether or not performance and payment have been completed and releases executed if the Government or the Transferor has any remaining rights, duties, or obligations under these contracts and purchase orders). Included in the term *the contracts* are also all modifications made under the terms and conditions of these contracts and purchase orders between the Government and the Transferee, on or after the effective date of this Agreement.
 
-(2) As of \_\_\_\_, 20\_, the Transferor has transferred to the Transferee all the assets of the Transferor by virtue of a \_\_\_\_ [*insert term descriptive of the legal transaction involved*] between the Transferor and the Transferee.
+(2) As of \_\_\_\_\_\_\_\_, 20\_\_, the Transferor has transferred to the Transferee all the assets of the Transferor by virtue of a \_\_\_\_\_\_\_\_ [*insert term descriptive of the legal transaction involved*] between the Transferor and the Transferee.
 
 (3) The Transferee has acquired all the assets of the Transferor by virtue of the above transfer.
 
@@ -90,9 +90,9 @@ The ABC CORPORATION (Transferor), a corporation duly organized and existing unde
 
 [*When a change of name is also involved; e.g., a prior or concurrent change of the Transferee's name, an appropriate statement shall be inserted (see example in paragraph (8) below)*].
 
-(8) A certificate dated \_\_\_\_, 20\_, signed by the Secretary of State of \_\_\_\_ [*insert State*], to the effect that the corporate name of EFG CORPORATION was changed to XYZ CORPORATION on \_\_\_\_, 20\_, has been filed with the Government.
+(8) A certificate dated \_\_\_\_\_\_\_\_, 20\_\_, signed by the Secretary of State of \_\_\_\_\_\_\_\_ [*insert State*], to the effect that the corporate name of EFG CORPORATION was changed to XYZ CORPORATION on \_\_\_\_\_\_\_\_, 20\_\_, has been filed with the Government.
 
-(b) IN CONSIDERATION OF THESE FACTS, THE PARTIES AGREE THAT BY THIS AGREEMENT -
+(b) IN CONSIDERATION OF THESE FACTS, THE PARTIES AGREE THAT BY THIS AGREEMENT—
 
 (1) The Transferor confirms the transfer to the Transferee, and waives any claims and rights against the Government that it now has or may have in the future in connection with the contracts.
 
@@ -124,14 +124,14 @@ XYZ CORPORATION,
 
 ByTitle[CORPORATE SEAL]CERTIFICATE
 
-I, \_\_\_\_\_, certify that I am the Secretary of ABC CORPORATION; that \_\_\_\_\_, who signed this Agreement for this corporation, was then \_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers.
+I, \_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary of ABC CORPORATION; that \_\_\_\_\_\_\_\_\_\_, who signed this Agreement for this corporation, was then \_\_\_\_\_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers.
 
-Witness my hand and the seal of this corporation this \_\_\_\_ day of \_\_\_\_ 20\_.
+Witness my hand and the seal of this corporation this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_ 20\_\_.
 
 By[CORPORATE SEAL]CERTIFICATE
 
-I, \_\_\_\_\_, certify that I am the Secretary of XYZ CORPORATION; that \_\_\_\_\_, who signed this Agreement for this corporation, was then \_\_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers.
+I, \_\_\_\_\_\_\_\_\_\_, certify that I am the Secretary of XYZ CORPORATION; that \_\_\_\_\_\_\_\_\_\_, who signed this Agreement for this corporation, was then \_\_\_\_\_\_\_\_\_\_ of this corporation; and that this Agreement was duly signed for and on behalf of this corporation by authority of its governing body and within the scope of its corporate powers.
 
-Witness my hand and the seal of this corporation this \_\_\_\_ day of \_\_\_\_ 20\_.
+Witness my hand and the seal of this corporation this \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_ 20\_\_.
 
 By[CORPORATE SEAL][48 FR 42370, Sept. 19, 1983, as amended at 62 FR 64935, Dec. 9, 1997; 65 FR 24325, Apr. 25, 2000; 79 FR 24213, Apr. 29, 2014]

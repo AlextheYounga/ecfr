@@ -248,4 +248,16 @@ For the purposes of this paragraph (e)(3), 'executable software' means “softwa
 
 (iv) *File format requirements.* The information described in paragraph (a) of supplement no. 8 to part 742 must be provided to BIS and the ENC Encryption Request Coordinator in tabular or spreadsheet form, as an electronic file in comma separated values format (.csv) adhering to the specifications set forth in paragraph (b) of supplement no. 8 to part 742.
 
-[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021]
+(f) *End-use restrictions.* Notwithstanding the other provisions and authorizations of this section, License Exception ENC is not authorized for any of the following items if the exporter, reexporter, or transferor “knows” or has “reason to know” at the time of export, reexport, or transfer (in-country), including deemed exports and reexports, that the item will be used to affect the confidentiality, integrity, or availability of information or information systems, without authorization by the owner, operator, or administrator of the information system (including the information and processes within such systems):
+
+(1) “Cryptanalytic items,” classified in ECCN 5A004.a, 5D002.a.3.a or c.3.a, or 5E002;
+
+(2) Network penetration tools described in paragraph (b)(2)(i)(F) of this section, and ECCN 5E002 “technology” therefor; or
+
+(3) Automated network vulnerability analysis and response tools described in paragraph (b)(3)(iii)(A) of this section, and ECCN 5E002 “technology” therefor.
+
+Note to paragraph (f):
+
+See also § 740.22(c)(4).
+
+[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020; 86 FR 16487, Mar. 29, 2021; 87 FR 31951, May 26, 2022]

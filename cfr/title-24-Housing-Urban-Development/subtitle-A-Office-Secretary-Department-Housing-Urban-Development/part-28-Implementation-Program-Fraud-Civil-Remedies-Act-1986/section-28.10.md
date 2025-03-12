@@ -1,8 +1,6 @@
 ##### § 28.10 Basis for civil penalties and assessments. #####
 
-Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
-
-(a) *Claims.* (1) A civil penalty of not more than $11,803 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know:
+(a) *Claims.* (1) A civil penalty of not more than $12,537 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a claim that the person knows or has reason to know:
 
 (i) Is false, fictitious, or fraudulent;
 
@@ -28,15 +26,15 @@ Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
 
 (6) If the Government has made any payment, transferred property, or provided services on a claim, then the Government may assess a person found liable up to twice the amount of the claim or portion of the claim that is determined to be in violation of paragraph (a)(1) of this section.
 
-(b) *Statements.* (1) A civil penalty of not more than $11,803 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that:
+(b) *Statements.* (1) A civil penalty of not more than $12,537 may be imposed upon any person who makes, presents, or submits, or causes to be made, presented, or submitted, a written statement that:
 
-(A) Asserts a material fact which is false, fictitious, or fraudulent; or
+(i)(A) Asserts a material fact which is false, fictitious, or fraudulent; or
 
 (B)(*1*) Omits a material fact; and
 
 (*2*) Is false, fictitious, or fraudulent as a result of such omission;
 
-(ii) In the case of a statement described in (b)(1)(A)(ii) of this section, is a statement in which the person making, presenting, or submitting such statement has a duty to include such material fact; and
+(ii) In the case of a statement described in (b)(1)(i)(B) of this section, is a statement in which the person making, presenting, or submitting such statement has a duty to include such material fact; and
 
 (iii) Contains or is accompanied by an express certification or affirmation of the truthfulness and accuracy of the contents of the statement.
 
@@ -50,4 +48,4 @@ Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
 
 (e) *Joint and several liability.* A civil penalty or assessment may be imposed jointly and severally if more than one person is determined to be liable.
 
-[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021; 86 FR 31619, June 15, 2021]
+[61 FR 50213, Sept. 24, 1996, as amended at 68 FR 12787, Mar. 17, 2003; 72 FR 5588, Feb. 6, 2007; 73 FR 76831, Dec. 17, 2008; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13043, Mar. 6, 2020; 86 FR 14372, Mar. 16, 2021; 86 FR 31619, June 15, 2021; 87 FR 24220, Apr. 26, 2022]

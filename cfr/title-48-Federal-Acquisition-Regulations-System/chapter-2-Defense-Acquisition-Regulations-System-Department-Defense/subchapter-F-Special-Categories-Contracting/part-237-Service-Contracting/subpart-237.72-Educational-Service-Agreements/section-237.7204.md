@@ -2,9 +2,9 @@
 
 Educational service agreements under this subpart shall be in the following format. Add to the schedule any other provisions necessary to describe the requirements, if they are consistent with the following provisions and the policy of acquiring educational services in the form of standard course offerings at the prevailing rates of the institution.
 
-Educational Service AgreementAgreement No. \_\_\_\_\_\_
+Educational Service AgreementAgreement No. \_\_\_\_\_\_\_\_\_\_\_\_
 
-1. This agreement entered into on the \_\_\_\_ day of \_\_\_\_\_ \_\_\_\_, is between the Government, represented by the Contracting Officer, and the Contractor, (name of institution), an educational institution located in \_\_\_\_ (city), \_\_\_\_ (state).
+1. This agreement entered into on the \_\_\_\_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_, is between the Government, represented by the Contracting Officer, and the Contractor, (name of institution), an educational institution located in \_\_\_\_\_\_\_\_ (city), \_\_\_\_\_\_\_\_ (state).
 
 2. This agreement is for educational services to be provided by the Contractor to Government personnel at the Contractor's institution. The Contractor shall provide instruction with standard offerings of courses available to the public.
 
@@ -16,11 +16,11 @@ Educational Service AgreementAgreement No. \_\_\_\_\_\_
 
 6. This agreement shall start on the date in paragraph 1 and shall continue until terminated.
 
-7. The estimated annual cost of this agreement is $\_\_\_\_\_. This estimate is for administrative purposes only and does not impose any obligation on the Government to request any services or make any payment.
+7. The estimated annual cost of this agreement is $\_\_\_\_\_\_\_\_\_\_. This estimate is for administrative purposes only and does not impose any obligation on the Government to request any services or make any payment.
 
 8. Advance payments are authorized by 10 U.S.C. 2396(a)(3).
 
-9. Submit invoices to: \_\_\_\_\_\_ (name and address of activity).
+9. Submit invoices to: \_\_\_\_\_\_\_\_\_\_\_\_ (name and address of activity).
 
 Schedule Provisions
 
@@ -30,7 +30,7 @@ Schedule Provisions
 
 (c) All students under this agreement shall register in the same manner, be subject to the same academic regulations, and have the same privileges, including the use of all facilities and equipment as any other students enrolled in the institution.
 
-(d) Upon enrolling each student under this agreement, the Contractor shall, where the resident or nonresident status involves a difference in tuition or fees -
+(d) Upon enrolling each student under this agreement, the Contractor shall, where the resident or nonresident status involves a difference in tuition or fees—
 
 (i) Determine the resident or nonresident status of the student;
 
@@ -46,7 +46,7 @@ Schedule Provisions
 
 2. *Change in curriculum.* The Contracting Officer may vary the curriculum for any student enrolled under this agreement but shall not require or make any change in any course without the Contractor's consent.
 
-3. *Payment.* (a) The Government shall pay the Contractor the normal tuition and fees which the Contractor charges any students pursuing the same or similar curricula, except for any tuition and fees which this agreement excludes. The Contractor may change any tuition and fees, provided -
+3. *Payment.* (a) The Government shall pay the Contractor the normal tuition and fees which the Contractor charges any students pursuing the same or similar curricula, except for any tuition and fees which this agreement excludes. The Contractor may change any tuition and fees, provided—
 
 (1) The Contractor publishes the revisions in a catalog or otherwise publicly announces the revisions;
 
@@ -58,7 +58,7 @@ Schedule Provisions
 
 (c) If the Contractor regularly charges higher tuition and fees for nonresident students, the Contractor may charge the Government the normal nonresident tuition and fees for students under this agreement who are nonresidents. The Government shall not claim resident tuition and fees for any student solely on the basis of the student residing in the State as a consequence of enrollment under this agreement.
 
-(d) The Contractor shall charge the Government only the tuition and fees which relate directly to enrollment as a student. Tuition and fees may include -
+(d) The Contractor shall charge the Government only the tuition and fees which relate directly to enrollment as a student. Tuition and fees may include—
 
 (i) Penalty fees for late registration or change of course caused by the Government;
 
@@ -66,7 +66,7 @@ Schedule Provisions
 
 (iii) Any flat rate charge applicable to all students registered for research that appears in the Contractor's publicly announced fee schedule.
 
-(e) The Contractor shall not charge the Government for -
+(e) The Contractor shall not charge the Government for—
 
 (i) Permit charges, such as vehicle registration or parking fees, unless specifically authorized in the request for service; and
 
@@ -74,7 +74,7 @@ Schedule Provisions
 
 (f) Normally, the Contractor shall not directly charge individual students for application fees or any other fee chargeable to this agreement. However, if the Contractor's standard procedures require payment of any fee before the student is enrolled under this agreement, the Contractor may charge the student. When the Contractor receives payment from the Government, the Contractor shall fully reimburse the student.
 
-(g) For each term the Contractor enrolls students under this agreement, the Contractor shall submit \_\_\_\_ copies of an invoice listing charges for each student separately. The Contractor shall submit invoices within \_\_\_\_ days after the start of the term and shall include -
+(g) For each term the Contractor enrolls students under this agreement, the Contractor shall submit \_\_\_\_\_\_\_\_ copies of an invoice listing charges for each student separately. The Contractor shall submit invoices within \_\_\_\_\_\_\_\_ days after the start of the term and shall include—
 
 (i) Agreement number and inclusive dates of the term;
 
@@ -90,7 +90,7 @@ Schedule Provisions
 
 (i) The Contractor shall apply any credits resulting from withdrawal of students, or from any other cause under its standard procedures, to subsequent invoices submitted under this agreement. Credits should appear on the first invoice submitted after the action resulting in the credits. If no subsequent invoice is submitted, the Contractor shall deliver to the Contracting Officer a check drawn to the order of the office designated for contract administration. The Contractor shall identify the reason for the credit and the applicable term dates in all cases.
 
-4. *Withdrawal of students.* (a) The Government may, at its option and at any time, withdraw financial support for any student by issuing official orders. The Government will furnish \_\_\_\_ copies of the orders to the Contractor within a reasonable time after publication.
+4. *Withdrawal of students.* (a) The Government may, at its option and at any time, withdraw financial support for any student by issuing official orders. The Government will furnish \_\_\_\_\_\_\_\_ copies of the orders to the Contractor within a reasonable time after publication.
 
 (b) The Contractor may request withdrawal by the Government of any student for academic or disciplinary reasons.
 
@@ -124,7 +124,7 @@ Use the following clauses in educational service agreements:
 
 (l) “Tuition” means the amount of money charged by an educational institution for instruction, not including fees.
 
-(m) “Fees” means those applicable charges directly related to enrollment in the Contractor's institution. Unless specifically allowed in the request for services, fees shall not include -
+(m) “Fees” means those applicable charges directly related to enrollment in the Contractor's institution. Unless specifically allowed in the request for services, fees shall not include—
 
 (1) Any permit charge, such as parking and vehicle registration; or
 
@@ -136,9 +136,9 @@ Use the following clauses in educational service agreements:
 
 4. FAR 52.204-1, Approval of Contract, if required by department/agency procedures.
 
-5. FAR 52.215-2, Audit and Records - Negotiation.
+5. FAR 52.215-2, Audit and Records—Negotiation.
 
-6. FAR 52.215-8, Order of Precedence - Uniform Contract Format.
+6. FAR 52.215-8, Order of Precedence—Uniform Contract Format.
 
 7. Conflicts Between Agreement and Catalog. Insert the following clause:
 

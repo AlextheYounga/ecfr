@@ -1,8 +1,8 @@
-##### 49.603-3 Cost-reimbursement contracts - complete termination, if settlement includes cost. #####
+##### 49.603-3 Cost-reimbursement contracts—complete termination, if settlement includes cost. #####
 
 [*Insert the following in Block 14 of SF 30 for settlement of cost-reimbursement contracts that are completely terminated, if settlement includes costs.*]
 
-(a) This supplemental agreement settles the settlement proposal resulting from the Notice of Termination dated \_\_\_\_\_\_\_\_\_.
+(a) This supplemental agreement settles the settlement proposal resulting from the Notice of Termination dated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 (b) The parties agree to the following:
 
@@ -16,11 +16,11 @@
 
 (5) The Contractor shall, within 10 days after receipt of the payment specified in this agreement, pay to each of its immediate subcontractors (or their respective assignees) the amounts to which they are entitled, after deducting any prior payments and, if the Contractor so elects, any amounts due and payable to the Contractor by those subcontractors.
 
-(6)(i) The Contractor has received $\_\_\_\_\_ for work and services performed, or articles delivered, under the contract before the effective date of termination. The Government confirms the right of the Contractor, subject to paragraph (7) below, to retain this sum and agrees that it constitutes a portion of the total amount to which the Contractor is entitled in complete and final settlement of the contract.
+(6)(i) The Contractor has received $\_\_\_\_\_\_\_\_\_\_ for work and services performed, or articles delivered, under the contract before the effective date of termination. The Government confirms the right of the Contractor, subject to paragraph (7) below, to retain this sum and agrees that it constitutes a portion of the total amount to which the Contractor is entitled in complete and final settlement of the contract.
 
-(ii) Further, the Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, the sum of $\_\_\_\_\_ [*insert net amount of settlement*], arrived at by deducting from the sum of $\_\_\_\_\_ [*insert gross amount of settlement less amount shown in subdivision (6)(i) above*] (A) the amount of $\_\_\_\_\_ for all unliquidated partial or progress payments previously made to the Contractor or its assignee and all unliquidated advance payments (with any interest), (B) the amount of $\_\_\_\_ for all applicable property disposal credits [*insert if appropriate,* “and (C) the amount of $\_\_\_\_\_ for all other amounts due the Government under this contract, except as provided in paragraph (7) below.”]
+(ii) Further, the Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, the sum of $\_\_\_\_\_\_\_\_\_\_ [*insert net amount of settlement*], arrived at by deducting from the sum of $\_\_\_\_\_\_\_\_\_\_ [*insert gross amount of settlement less amount shown in subdivision (6)(i) above*] (A) the amount of $\_\_\_\_\_\_\_\_\_\_ for all unliquidated partial or progress payments previously made to the Contractor or its assignee and all unliquidated advance payments (with any interest), (B) the amount of $\_\_\_\_\_\_\_\_ for all applicable property disposal credits [*insert if appropriate,* “and (C) the amount of $\_\_\_\_\_\_\_\_\_\_ for all other amounts due the Government under this contract, except as provided in paragraph (7) below.”]
 
-(iii) The net settlement of $\_\_\_\_\_ in subdivision (ii) above, together with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor for the complete termination of the contract and of all other demands and liabilities of the Contractor and the Government under the contract, except as provided in paragraph (7) below.
+(iii) The net settlement of $\_\_\_\_\_\_\_\_\_\_ in subdivision (ii) above, together with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor for the complete termination of the contract and of all other demands and liabilities of the Contractor and the Government under the contract, except as provided in paragraph (7) below.
 
 (7) Regardless of any other provision of this agreement, the following rights and liabilities of the parties under the contract are reserved:
 

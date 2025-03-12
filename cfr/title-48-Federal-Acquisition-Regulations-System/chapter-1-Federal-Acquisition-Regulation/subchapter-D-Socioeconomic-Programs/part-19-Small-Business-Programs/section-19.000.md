@@ -1,7 +1,5 @@
 ##### 19.000 Scope of part. #####
 
-Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
-
 (a) This part implements the acquisition-related sections of the Small Business Act (15 U.S.C. 631, *et seq.*), applicable sections of the Armed Services Procurement Act (10 U.S.C. 2302, *et seq.*), 41 U.S.C. 3104, and Executive Order 12138, May 18, 1979. It covers -
 
 (1) The determination that a concern is eligible for participation in the programs identified in this part;
@@ -24,6 +22,12 @@ Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
 
 (10) The use of reserves.
 
-(b) This part, except for subpart 19.6, applies only in the United States or its outlying areas. Subpart 19.6 applies worldwide.
+(b)(1) Unless otherwise specified in this part (see subparts 19.6 and 19.7) -
 
-[48 FR 42240, Sept. 19, 1983, as amended at 59 FR 64785, Dec. 15, 1994; 59 FR 67036, Dec. 28, 1994; 63 FR 35721, June 30, 1998; 63 FR 36122, July 1, 1998; 63 FR 70268, Dec. 18, 1998; 64 FR 10536, Mar. 4, 1999; 65 FR 60544, Oct. 11, 2000; 68 FR 28081, May 22, 2003; 69 FR 25276, May 5, 2004; 71 FR 220, Jan. 3, 2006; 75 FR 77729, Dec. 13, 2010; 76 FR 18309, Apr. 1, 2011; 79 FR 24202, Apr. 29, 2014; 79 FR 61750, Oct. 14, 2014; 80 FR 81890, Dec. 31, 2015; 82 FR 4726, Jan. 13, 2017; 85 FR 11757, Feb. 27, 2020]
+(i) Contracting officers shall apply this part in the United States and its outlying areas; and
+
+(ii) Contracting officers may apply this part outside the United States and its outlying areas.
+
+(2) Offerors that participate in any procurement under this part are required to meet the definition of “small business concern” at 2.101 and the definition of “concern” at 19.001.
+
+[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.000, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

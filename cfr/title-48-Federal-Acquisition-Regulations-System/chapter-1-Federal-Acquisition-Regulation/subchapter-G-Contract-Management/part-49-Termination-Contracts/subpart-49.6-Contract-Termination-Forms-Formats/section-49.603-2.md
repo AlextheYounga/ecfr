@@ -1,8 +1,8 @@
-##### 49.603-2 Fixed-price contracts - partial termination. #####
+##### 49.603-2 Fixed-price contracts—partial termination. #####
 
 [*Insert the following in Block 14 of SF 30 for settlements of fixed-price contracts partially terminated.*]
 
-(a) This supplemental agreement settles the settlement proposal resulting from the Notice of Termination dated \_\_\_\_\_\_\_\_\_.
+(a) This supplemental agreement settles the settlement proposal resulting from the Notice of Termination dated \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 (b) The parties agree to the following:
 
@@ -18,11 +18,11 @@
 
 (6) The Contractor shall, within 10 days after receipt of the payment specified in this agreement, pay to each of its immediate subcontractors (or their respective assignees) the amounts to which they are entitled, after deducting any prior payments and, if the Contractor so elects, any amounts due and payable to the Contractor by those subcontractors.
 
-(7)(i) The Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, the sum of $\_\_\_\_\_\_ [*insert net amount of settlement*], arrived at by deducting from $\_\_\_\_\_\_ [*insert gross amount of settlement*], (A) the amount of $\_\_\_\_\_\_ for all unliquidated partial or progress payments previously made to the Contractor or its assignee and all unliquidated advance payments (with any interest) applicable to the terminated portion of the contract and (B) the amount of $\_\_\_\_\_\_ for all applicable property disposal credits.
+(7)(i) The Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, the sum of $\_\_\_\_\_\_\_\_\_\_\_\_ [*insert net amount of settlement*], arrived at by deducting from $\_\_\_\_\_\_\_\_\_\_\_\_ [*insert gross amount of settlement*], (A) the amount of $\_\_\_\_\_\_\_\_\_\_\_\_ for all unliquidated partial or progress payments previously made to the Contractor or its assignee and all unliquidated advance payments (with any interest) applicable to the terminated portion of the contract and (B) the amount of $\_\_\_\_\_\_\_\_\_\_\_\_ for all applicable property disposal credits.
 
-(ii) The net settlement of $\_\_\_\_\_\_ in subdivision (i) above, together with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor for the terminated portion of the contract, except as provided in subparagraph (8) below.
+(ii) The net settlement of $\_\_\_\_\_\_\_\_\_\_\_\_ in subdivision (i) above, together with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor for the terminated portion of the contract, except as provided in subparagraph (8) below.
 
-(iii) Upon payment of the net settlement of $\_\_\_\_\_\_, all obligations of the Contractor to perform further work or services or to make further deliveries under the terminated portion of the contract and all obligations of the Government to make further payments or carry out other undertakings concerning the terminated portion of the contract shall cease; *provided,* that nothing in this agreement shall impair or affect any covenants, terms, or conditions of the contract relating to the completed or continued portion of this contract.
+(iii) Upon payment of the net settlement of $\_\_\_\_\_\_\_\_\_\_\_\_, all obligations of the Contractor to perform further work or services or to make further deliveries under the terminated portion of the contract and all obligations of the Government to make further payments or carry out other undertakings concerning the terminated portion of the contract shall cease; *provided,* that nothing in this agreement shall impair or affect any covenants, terms, or conditions of the contract relating to the completed or continued portion of this contract.
 
 (8) Regardless of any other provision of this agreement, the following rights and liabilities of the parties under the contract are reserved:
 

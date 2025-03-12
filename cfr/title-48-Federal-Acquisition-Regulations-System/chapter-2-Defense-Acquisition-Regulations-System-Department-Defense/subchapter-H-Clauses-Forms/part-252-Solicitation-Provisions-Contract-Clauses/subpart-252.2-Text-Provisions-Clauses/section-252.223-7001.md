@@ -20,10 +20,10 @@ Hazard Warning Labels (DEC 1991)
 
 (c) The Offeror shall list which hazardous material listed in the Hazardous Material Identification and Material Safety Data clause of this contract will be labelled in accordance with one of the Acts in paragraphs (b) (1) through (5) of this clause instead of the Hazard Communication Standard. Any hazardous material not listed will be interpreted to mean that a label is required in accordance with the Hazard Communication Standard.
 
-|Material (if none, insert “none.”)|  Act   |
-|----------------------------------|--------|
-|             \_\_\_\_             |\_\_\_\_|
-|             \_\_\_\_             |\_\_\_\_|
+|Material (if none, insert “none.”)|      Act       |
+|----------------------------------|----------------|
+|         \_\_\_\_\_\_\_\_         |\_\_\_\_\_\_\_\_|
+|         \_\_\_\_\_\_\_\_         |\_\_\_\_\_\_\_\_|
 
 (d) The apparently successful Offeror agrees to submit, before award, a copy of the hazard warning label for all hazardous materials not listed in paragraph (c) of this clause. The Offeror shall submit the label with the Material Safety Data Sheet being furnished under the Hazardous Material Identification and Material Safety Data clause of this contract.
 

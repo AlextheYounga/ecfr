@@ -8,11 +8,11 @@ Findings, Determination, and Authorization for Advance Paymentsfindings
 
 (a) The undersigned hereby finds that:
 
-(1) The \_\_\_\_ [*insert the name of the contracting activity*] and \_\_\_\_ [*insert the name of the contractor*] (have entered) (propose to enter) into (negotiated) (sealed bid) Contract No. \_\_, dated \_\_\_
+(1) The \_\_\_\_\_\_\_\_ [*insert the name of the contracting activity*] and \_\_\_\_\_\_\_\_ [*insert the name of the contractor*] (have entered) (propose to enter) into (negotiated) (sealed bid) Contract No. \_\_\_\_, dated \_\_\_\_\_\_
 
 [*Summarize the specific facts and significant circumstances concerning the contract and the contractor, that, together with the other findings, will clearly support the determination below.*]
 
-(2) Advance payments (in an amount not to exceed $\_\_\_ at any time outstanding) (in an aggregate amount not exceeding $\_\_\_, less the aggregate amounts repaid, or withdrawn by the Government) are required by the Contractor to perform under the contract. The amount does not exceed the unpaid contract price or the estimated interim cash needs arising during the reimbursement cycle.
+(2) Advance payments (in an amount not to exceed $\_\_\_\_\_\_ at any time outstanding) (in an aggregate amount not exceeding $\_\_\_\_\_\_, less the aggregate amounts repaid, or withdrawn by the Government) are required by the Contractor to perform under the contract. The amount does not exceed the unpaid contract price or the estimated interim cash needs arising during the reimbursement cycle.
 
 (3) The advance payments are necessary for prompt, efficient contract performance that will benefit the Government.
 
@@ -32,13 +32,13 @@ Findings, Determination, and Authorization for Advance Paymentsfindings
 
 Determination
 
-(b) Based on the findings in (a) above, the undersigned determined that the making of the proposed advance payments, (with interest at the rate of \_\_ [*Insert the interest rate computed in accordance with 32.407*] percent on the daily unliquidated balance of the advance payments,) (without interest, except as provided by the proposed advance payment clause,) (is in the public interest) (will facilitate the national defense).
+(b) Based on the findings in (a) above, the undersigned determined that the making of the proposed advance payments, (with interest at the rate of \_\_\_\_ [*Insert the interest rate computed in accordance with 32.407*] percent on the daily unliquidated balance of the advance payments,) (without interest, except as provided by the proposed advance payment clause,) (is in the public interest) (will facilitate the national defense).
 
 Authorization
 
-(c) The advance payments, of which (the amount at any time outstanding) (the aggregate amount, less the aggregate amounts repaid, or withdrawn by the Government), shall not exceed $\_\_, are hereby authorized under (41 U.S.C. chapter 45, Contract Financing) (10 U.S.C. 2307) (the Extraordinary Contracting Authority of Government Agencies in Connection with National Defense Functions (50 U.S.C. 1431-1435) and Executive Order No. 10789 of November 14, 1958 (3 CFR 1958 Supp. pp. 72-74)) [*or, if other, cite appropriate authority*] on (terms substantially as contained in the proposed advance payment clause, a copy (an outline) of which is annexed to this authorization) (the following terms:) [*Insert the appropriate terms.*]
+(c) The advance payments, of which (the amount at any time outstanding) (the aggregate amount, less the aggregate amounts repaid, or withdrawn by the Government), shall not exceed $\_\_\_\_, are hereby authorized under (41 U.S.C. chapter 45, Contract Financing) (10 U.S.C. 2307) (the Extraordinary Contracting Authority of Government Agencies in Connection with National Defense Functions (50 U.S.C. 1431-1435) and Executive Order No. 10789 of November 14, 1958 (3 CFR 1958 Supp. pp. 72-74)) [*or, if other, cite appropriate authority*] on (terms substantially as contained in the proposed advance payment clause, a copy (an outline) of which is annexed to this authorization) (the following terms:) [*Insert the appropriate terms.*]
 
-(All prior authorizations for advance payments under Contract No. \_\_\_ are superseded.)
+(All prior authorizations for advance payments under Contract No. \_\_\_\_\_\_ are superseded.)
 
 (*Signature*)(*Name typed*)(*Title of authorized official*)
 

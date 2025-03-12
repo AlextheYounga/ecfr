@@ -4,7 +4,7 @@ As prescribed in 232.706-70, use the following clause:
 
 Limitation of Government's Obligation (APR 2014)
 
-(a) Contract line item(s) *[Contracting Officer insert after negotiations]* is/are incrementally funded. For this/these item(s), the sum of $\_\_ *[Contracting Officer insert after negotiations]* of the total price is presently available for payment and allotted to this contract. An allotment schedule is set forth in paragraph (j) of this clause.
+(a) Contract line item(s) *[Contracting Officer insert after negotiations]* is/are incrementally funded. For this/these item(s), the sum of $\_\_\_\_ *[Contracting Officer insert after negotiations]* of the total price is presently available for payment and allotted to this contract. An allotment schedule is set forth in paragraph (j) of this clause.
 
 (b) For item(s) identified in paragraph (a) of this clause, the Contractor agrees to perform up to the point at which the total amount payable by the Government, including reimbursement in the event of termination of those item(s) for the Government's convenience, approximates the total amount currently allotted to the contract. The Contractor is not authorized to continue work on those item(s) beyond that point. The Government will not be obligated in any event to reimburse the Contractor in excess of the amount allotted to the contract for those item(s) regardless of anything to the contrary in the clause entitled “Termination for Convenience of the Government.” As used in this clause, the total amount payable by the Government in the event of termination of applicable contract line item(s) for convenience includes costs, profit, and estimated termination settlement costs for those items(s).
 
@@ -24,12 +24,12 @@ Limitation of Government's Obligation (APR 2014)
 
 (j) The parties contemplate that the Government will allot funds to this contract in accordance with the following schedule:
 
-On execution of contract $\_\_
+On execution of contract $\_\_\_\_
 
-(month) (day), (year) $\_\_
+(month) (day), (year) $\_\_\_\_
 
-(month) (day), (year) $\_\_
+(month) (day), (year) $\_\_\_\_
 
-(month) (day), (year) $\_\_
+(month) (day), (year) $\_\_\_\_
 
 (End of clause)[58 FR 46093, Sept. 1, 1993, as amended at 71 FR 18673, Apr. 12, 2006; 71 FR 27644, May 12, 2006; 79 FR 22042, Apr. 21, 2014; 86 FR 59871, Oct. 29, 2021]

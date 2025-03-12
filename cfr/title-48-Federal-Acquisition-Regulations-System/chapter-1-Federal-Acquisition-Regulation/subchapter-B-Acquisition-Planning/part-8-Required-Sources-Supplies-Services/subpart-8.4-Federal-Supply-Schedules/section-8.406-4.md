@@ -10,7 +10,7 @@
 
 (1) Any repurchase shall be made at as low a price as reasonable, considering the quality required by the Government, delivery requirement, and administrative expenses. Copies of all repurchase orders, except the copy furnished to the contractor or any other commercial concern, shall include the notation:
 
-Repurchase against the account of \_\_\_\_ [*insert contractor's name*] under Order \_\_\_\_ [*insert number*] under Contract \_\_\_\_ [*insert number*].
+Repurchase against the account of \_\_\_\_\_\_\_\_ [*insert contractor's name*] under Order \_\_\_\_\_\_\_\_ [*insert number*] under Contract \_\_\_\_\_\_\_\_ [*insert number*].
 
 (2) When excess costs are anticipated, the ordering activity may withhold funds due the contractor as offset security. Ordering activities shall minimize excess costs to be charged against the contractor and collect or set-off any excess costs owed.
 

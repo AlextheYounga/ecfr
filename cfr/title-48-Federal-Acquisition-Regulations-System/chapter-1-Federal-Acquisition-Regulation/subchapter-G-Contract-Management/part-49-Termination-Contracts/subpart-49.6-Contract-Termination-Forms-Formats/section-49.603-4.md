@@ -1,14 +1,14 @@
-##### 49.603-4 Cost-reimbursement contracts - complete termination, with settlement limited to fee. #####
+##### 49.603-4 Cost-reimbursement contracts—complete termination, with settlement limited to fee. #####
 
 [*Insert the following in Block 14 of SF 30 for settlement of cost-reimbursement contracts that are completely terminated, if settlement is limited to fee.*]
 
-(a) This supplemental agreement settles the amount of fee due under the contract, terminated in its entirety by Notice of Termination dated \_\_\_\_\_.
+(a) This supplemental agreement settles the amount of fee due under the contract, terminated in its entirety by Notice of Termination dated \_\_\_\_\_\_\_\_\_\_.
 
 (b) The parties agree to the following:
 
-(1) The Contractor has received $\_\_\_\_\_ on account of its fee under the contract before the effective date of termination.
+(1) The Contractor has received $\_\_\_\_\_\_\_\_\_\_ on account of its fee under the contract before the effective date of termination.
 
-(2) The Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, $\_\_\_\_\_ [*insert net amount to be paid on account of fee*]. This sum, with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor on account of its fee under the contract.
+(2) The Government agrees to pay to the Contractor or its assignee, upon presentation of a proper invoice or voucher, $\_\_\_\_\_\_\_\_\_\_ [*insert net amount to be paid on account of fee*]. This sum, with sums previously paid, constitutes payment in full and complete settlement of the amount due the Contractor on account of its fee under the contract.
 
 (3) The Contractor's allowable costs under the contract will be paid under the terms and conditions of the contract and parts 31 and 49 of the Federal Acquisition Regulation.
 

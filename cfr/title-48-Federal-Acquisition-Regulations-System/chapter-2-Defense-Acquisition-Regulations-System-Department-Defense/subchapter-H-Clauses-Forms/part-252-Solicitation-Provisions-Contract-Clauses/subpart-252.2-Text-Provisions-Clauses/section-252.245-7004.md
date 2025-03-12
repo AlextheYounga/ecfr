@@ -4,17 +4,17 @@ As prescribed in 245.107(5), use the following clause:
 
 REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 (1) *Demilitarization* means the act of eliminating the functional capabilities and inherent military design features from DoD personal property. Methods and degree range from removal and destruction of critical features to total destruction by cutting, tearing, crushing, mangling, shredding, melting, burning, etc.
 
-(2) *Export-controlled items* means items subject to the Export Administration Regulations (EAR) (15 CFR parts 730-774) or the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130). The term includes -
+(2) *Export-controlled items* means items subject to the Export Administration Regulations (EAR) (15 CFR parts 730-774) or the International Traffic in Arms Regulations (ITAR) (22 CFR parts 120-130). The term includes—
 
 (i) *Defense items,* defined in the Arms Export Control Act, 22 U.S.C. 2778(j)(4)(A), as defense articles, defense services, and related technical data, etc.; and
 
 (ii) *Items,* defined in the EAR as “commodities,” “software,” and “technology,” terms that are also defined in the EAR, 15 CFR 772.1.
 
-(3) *Ineligible transferees* means individuals, entities, or countries -
+(3) *Ineligible transferees* means individuals, entities, or countries—
 
 (i) Excluded from Federal programs by the General Services Administration as identified in the System for Award Management Exclusions located at *https://www.acquisition.gov*;
 
@@ -42,7 +42,7 @@ REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
 
 (2) If the schedules are acceptable, the plant clearance officer shall complete and send the Contractor a DD Form 1637, Notice of Acceptance of Inventory.
 
-(c) *Proceeds from sales of surplus property.* Unless otherwise provided in the contract, the proceeds of any sale, purchase, or retention shall be -
+(c) *Proceeds from sales of surplus property.* Unless otherwise provided in the contract, the proceeds of any sale, purchase, or retention shall be—
 
 (1) Forwarded to the Contracting Officer;
 
@@ -72,7 +72,7 @@ REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
 
 “The Purchaser certifies that the property covered by this contract will be used in (name of country). In the event of resale or export by the Purchaser of any of the property, the Purchaser agrees to obtain the appropriate U.S. and foreign export or re-export license approval.”
 
-(j) *Restrictions on purchase or retention of Contractor inventory.* (1) The Contractor may not knowingly sell the inventory to any person or that person's agent, employee, or household member if that person -
+(j) *Restrictions on purchase or retention of Contractor inventory.* (1) The Contractor may not knowingly sell the inventory to any person or that person's agent, employee, or household member if that person—
 
 (i) Is a civilian employee of the DoD or the U.S. Coast Guard;
 
@@ -96,17 +96,17 @@ REPORTING, REUTILIZATION, AND DISPOSAL (DEC 2017)
 
 (9) The following terms and conditions shall be included in sales contracts involving the demilitarization, mutilation, or destruction of property:
 
-(i) *Demilitarization, mutilation, or destruction on Contractor or subcontractor premises.* Item(s) \_\_ require demilitarization, mutilation, or destruction by the Purchaser. Insert item number(s) and specific demilitarization, mutilation, or destruction requirements for item(s) shown in Defense Demilitarization Manual, DoDM 4160.28-M, edition in effect as of the date of this contract. Demilitarization shall be witnessed and verified by a Government representative using DRMS Form 145 or equivalent.
+(i) *Demilitarization, mutilation, or destruction on Contractor or subcontractor premises.* Item(s) \_\_\_\_ require demilitarization, mutilation, or destruction by the Purchaser. Insert item number(s) and specific demilitarization, mutilation, or destruction requirements for item(s) shown in Defense Demilitarization Manual, DoDM 4160.28-M, edition in effect as of the date of this contract. Demilitarization shall be witnessed and verified by a Government representative using DRMS Form 145 or equivalent.
 
 (ii) *Demilitarization, mutilation, or destruction off Contractor or subcontractor premises.*
 
-(A) Item(s) \_\_ require demilitarization, mutilation, or destruction by the Purchaser. Insert item number(s) and specific demilitarization, mutilation, or destruction requirements for item(s) shown in Defense Demilitarization Manual, DoDM 4160.28-M, edition in effect as of the date of this contract. Demilitarization shall be witnessed and verified by a Government representative using DRMS Form 145 or equivalent.
+(A) Item(s) \_\_\_\_ require demilitarization, mutilation, or destruction by the Purchaser. Insert item number(s) and specific demilitarization, mutilation, or destruction requirements for item(s) shown in Defense Demilitarization Manual, DoDM 4160.28-M, edition in effect as of the date of this contract. Demilitarization shall be witnessed and verified by a Government representative using DRMS Form 145 or equivalent.
 
 (B) Property requiring demilitarization shall not be removed, and title shall not pass to the Purchaser, until demilitarization has been accomplished and verified by a Government representative. Demilitarization will be accomplished as specified in the sales contract. Demilitarization shall be witnessed and verified by a Government representative using DRMS Form 145 or equivalent.
 
 (C) The Purchaser agrees to assume all costs incident to the demilitarization and to restore the working area to its present condition after removing the demilitarized property.
 
-(iii) *Failure to demilitarize.* If the Purchaser fails to demilitarize, mutilate, or destroy the property as specified in the contract, the Contractor may, upon giving 10 days written notice from date of mailing to the Purchaser -
+(iii) *Failure to demilitarize.* If the Purchaser fails to demilitarize, mutilate, or destroy the property as specified in the contract, the Contractor may, upon giving 10 days written notice from date of mailing to the Purchaser—
 
 (A) Repossess, demilitarize, and return the property to the Purchaser, in which case the Purchaser hereby agrees to pay to the Contractor, prior to the return of the property, all costs incurred by the Contractor in repossessing, demilitarizing, and returning the property;
 

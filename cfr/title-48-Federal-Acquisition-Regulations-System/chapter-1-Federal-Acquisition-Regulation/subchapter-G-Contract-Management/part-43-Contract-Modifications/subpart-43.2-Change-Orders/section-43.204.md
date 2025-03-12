@@ -36,6 +36,6 @@
 
 CONTRACTOR'S STATEMENT OF RELEASE
 
-In consideration of the modification(s) agreed to herein as complete equitable adjustments for the Contractor's \_\_\_\_\_\_\_\_ (describe) \_\_\_\_\_\_\_\_\_ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for \_\_\_\_\_\_\_\_\_\_ ).
+In consideration of the modification(s) agreed to herein as complete equitable adjustments for the Contractor's \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ (describe) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ “proposal(s) for adjustment,” the Contractor hereby releases the Government from any and all liability under this contract for further equitable adjustments attributable to such facts or circumstances giving rise to the “proposal(s) for adjustment” (except for \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ ).
 
 [48 FR 42386, Sept. 19, 1983, as amended at 56 FR 15154, Apr. 15, 1991; 62 FR 51271, Sept. 30, 1997]

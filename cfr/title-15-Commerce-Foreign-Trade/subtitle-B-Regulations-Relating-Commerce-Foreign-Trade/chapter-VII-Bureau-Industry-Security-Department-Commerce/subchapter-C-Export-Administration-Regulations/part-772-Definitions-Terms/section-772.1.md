@@ -304,7 +304,9 @@ This does not include cases of routing decisions taken on predefined information
 
 *End-effectors.* (Cat 2) Grippers, 'active tooling units' and any other tooling that is attached to the baseplate on the end of a “robot” manipulator arm.
 
-*Technical Note to definition of “End-effectors”: 'Active tooling unit': a device for applying motive power, process energy or sensing to the workpiece.*
+*Technical Note to definition of “End-effectors”:*
+
+*'Active tooling unit': a device for applying motive power, process energy or sensing to the workpiece.*
 
 *End item.* This is a system, equipment or assembled commodity ready for its intended use. Only ammunition, or fuel or other energy source is required to place it in an operating state. Examples of end items include ships, aircraft, computers, firearms, and milling machines.
 
@@ -480,7 +482,9 @@ Notes:
 
 *Information security.* (Cat 5P2, GSIN, GSN) - All the means and functions ensuring the accessibility, confidentiality or integrity of information or communications, excluding the means and functions intended to safeguard against malfunctions. This includes “cryptography”, “cryptographic activation”, “cryptanalysis”, protection against compromising emanations and computer security.
 
-*Technical Note to definition of “Information security”: 'Cryptanalysis': the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text. (ISO 7498-2-1988 (E), paragraph 3.3.18)*
+*Technical Note to definition of “Information security”:*
+
+*'Cryptanalysis': the analysis of a cryptographic system or its inputs and outputs to derive confidential variables or sensitive data, including clear text. (ISO 7498-2-1988 (E), paragraph 3.3.18)*
 
 *Instantaneous bandwidth.* (Cat 3 and 5) - The bandwidth over which output power remains constant within 3 dB without adjustment of other operating parameters.
 
@@ -532,15 +536,15 @@ Technical note 2 to “Intrusion software” definition:
 
 *Legible or legibility.* Legible and legibility mean the quality of a letter or numeral that enables the observer to identify it positively and quickly to the exclusion of all other letters or numerals.
 
-*Less sensitive government end users (as applied to encryption items).* The following “government end users” (as defined in this Section of the EAR) are considered “less sensitive” for the purposes of License Exception ENC (§ 740.17 of the EAR):
+*Less sensitive government end users (as applied to encryption items and 'cybersecurity items').* The following “government end users” (as defined in this section) are considered “less sensitive” for the purposes of License Exception ENC (§ 740.17 of the EAR) and License Exception ACE (§ 740.22 of the EAR):
 
-(1) Local/state/provincial “government end users” (departments, agencies and entities), including local/state/provincial executive, legislative, judicial, police, fire, rescue and public safety agencies.
+(1) Local/state/provincial “government end users” (departments, agencies, and entities), including local/state/provincial executive, legislative, judicial, police, fire, rescue, and public safety agencies.
 
-(2) National/federal/royal “government end users” (departments, agencies and entities) providing the following civil government functions and services:
+(2) National/federal/royal “government end users” (departments, agencies, and entities) providing the following civil government functions and services:
 
 (i) Census and statistics services;
 
-(ii) Civil public works infrastructure services (construction, maintenance, repair, regulation and administration) as follows: Buildings, public transportation, roads and highways, trucking;
+(ii) Civil public works infrastructure services (construction, maintenance, repair, regulation, and administration) as follows: Buildings, public transportation, roads and highways, trucking;
 
 (iii) Civil service administration and regulation, including human resources and personnel/labor management;
 
@@ -548,21 +552,21 @@ Technical note 2 to “Intrusion software” definition:
 
 (v) Economic (trade/commerce/investment), business and industrial development, promotion, regulation and administration, excluding the following end users/end uses:
 
-(A) Agencies, departments, boards and councils for science and technology;
+(A) Agencies, departments, boards, and councils for science and technology;
 
-(B) Research, development and national laboratories (other than as specified in paragraphs (2)(xi) (measurements and standards services) and (2)(xii) (meteorology/weather/atmospheric services) of this definition (below);
+(B) Research, development, and national laboratories (other than as specified in paragraphs (2)(xi) (measurements and standards services) and (2)(xii) (meteorology/weather/atmospheric services) of this definition); and
 
-(C) National telecommunications and information technology agencies, boards, councils and development authorities (including national information center, and Information Communications Technology (ICT)/telecommunications infrastructure/spectrum planning, policy, regulation and testing);
+(C) National telecommunications and information technology agencies, boards, councils, and development authorities (including national information center, and Information Communications Technology (ICT)/telecommunications infrastructure/spectrum planning, policy, regulation, and testing);
 
-(vi) Elections, balloting and polling services;
+(vi) Elections, balloting, and polling services;
 
-(vii) Energy regulation and administration, including oil, gas and mining sectors;
+(vii) Energy regulation and administration, including oil, gas, and mining sectors;
 
-(viii) Environmental/natural resources regulation, administration and protection, including wildlife, fisheries and national parks;
+(viii) Environmental/natural resources regulation, administration, and protection, including wildlife, fisheries, and national parks;
 
 (ix) Food/agriculture regulation and administration;
 
-(x) Labor/community/social services planning, regulation and administration, including: housing and urban development, municipality and rural affairs;
+(x) Labor/community/social services planning, regulation, and administration, including: Housing and urban development, municipality and rural affairs;
 
 (xi) Measurements and standards services;
 
@@ -576,15 +580,15 @@ Technical note 2 to “Intrusion software” definition:
 
 (xvi) Postal services;
 
-(xvii) Public and higher education (excluding government research institutions and any agency, institution or affiliate engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List);
+(xvii) Public and higher education (excluding government research institutions and any agency, institution, or affiliate engaged in the manufacture or distribution of items or services controlled on the Wassenaar Munitions List);
 
 (xviii) Public health and medicine/pharmaceutical regulation and administration;
 
 (xix) Public libraries;
 
-(xx) Sports/culture (includes film, commercial broadcasting and the arts) promotion, regulation and administration;
+(xx) Sports/culture (includes film, commercial broadcasting, and the arts) promotion, regulation, and administration; and
 
-(xxi) Travel/tourism promotion, regulation and administration.
+(xxi) Travel/tourism promotion, regulation, and administration.
 
 *Library.* (Cat 1) (parametric technical database) A collection of technical information, reference to which may enhance the performance of the relevant systems, equipment or components.
 
@@ -604,7 +608,9 @@ Technical note 2 to “Intrusion software” definition:
 
 (b) Is confined to a geographical area of moderate size (*e.g.,* office building, plant, campus, warehouse).
 
-*Technical Note to definition of “Local area network”: 'Data device' means equipment capable of transmitting or receiving sequences of digital information.*
+*Technical Note to definition of “Local area network”:*
+
+*'Data device' means equipment capable of transmitting or receiving sequences of digital information.*
 
 *MBTR* - See “maximum bit transfer rate”.
 
@@ -686,9 +692,9 @@ Note:
 
 *Monospectral imaging sensors.* (Cat 6) are capable of acquisition of imaging data from one discrete spectral band.
 
-*More sensitive government end users (as applied to encryption items).* The following national/federal/royal (departments, agencies and entities) “government end users” (as defined in this section of the EAR) providing the following government functions and services, are considered “more sensitive:”
+*More sensitive government end users (as applied to encryption items and 'cybersecurity items').* The following national/federal/royal (departments, agencies, and entities) “government end users” (as defined in this section) providing the following government functions and services, are considered “more sensitive” for the purposes of License Exception ENC (§ 740.17 of the EAR) and License Exception ACE (§ 740.22 of the EAR):
 
-(1) Agencies, departments, boards and councils for science and technology (including research, development and state/national laboratories, but not including measurements and standards);
+(1) Agencies, departments, boards, and councils for science and technology (including research, development, and state/national laboratories, but not including measurements and standards);
 
 (2) Currency and monetary authorities (including departments and offices of the national/federal/royal reserve);
 
@@ -696,17 +702,17 @@ Note:
 
 (4) Legislative bodies responsible for the enactment of laws;
 
-(5) Import/export control, customs and immigration agencies and entities;
+(5) Import/export control, customs and immigration agencies, and entities;
 
 (6) Intelligence agencies and entities;
 
 (7) Judiciary (including supreme courts and other national/federal/regional/royal high courts and tribunals);
 
-(8) Maritime, port, railway and airport authorities;
+(8) Maritime, port, railway, and airport authorities;
 
-(9) Military and armed services (including national guard, coast guard, security bureaus and paramilitary);
+(9) Military and armed services (including national guard, coast guard, security bureaus, and paramilitary);
 
-(10) Ministries, departments and garrisons of defense (including defense technology agencies);
+(10) Ministries, departments, and garrisons of defense (including defense technology agencies);
 
 (11) Ministries and departments of finance and taxation (including national/federal/royal budget and revenue authorities);
 
@@ -714,11 +720,11 @@ Note:
 
 (13) Ministries of interior, internal/home/mainland affairs, and homeland security;
 
-(14) State/national telecommunications and information technology agencies, boards, councils and development authorities (including national information/critical infrastructure data centers, and Information and Communications Technology (ICT)/telecommunications infrastructure/spectrum planning, policy, regulation and testing);
+(14) State/national telecommunications and information technology agencies, boards, councils, and development authorities (including national information/critical infrastructure data centers, and Information and Communications Technology (ICT)/telecommunications infrastructure/spectrum planning, policy, regulation, and testing);
 
-(15) Police, investigation and other law enforcement agencies and entities (including digital crime/cybercrime/computer forensics, counter narcotics/counter terrorism/counter proliferation agencies);
+(15) Police, investigation and other law enforcement agencies, and entities (including digital crime/cybercrime/computer forensics, counter narcotics/counter terrorism/counter proliferation agencies);
 
-(16) Prisons;
+(16) Prisons; and
 
 (17) Public safety agencies and entities (including national/federal/royal agencies and departments of civil defense, emergency management, and first responders).
 
@@ -786,7 +792,9 @@ Note:
 
 (c) Managing logs or audit data in support of any of the tasks described in paragraphs (a) or (b) of this definition.
 
-*Note to definition of “Operations, Administration or Maintenance”: “OAM” does not include any of the following tasks or their associated key management functions:*
+*Note to definition of “Operations, Administration or Maintenance”:*
+
+*“OAM” does not include any of the following tasks or their associated key management functions:*
 
 *a. Provisioning or upgrading any cryptographic functionality that is not directly related to establishing or managing authentication data in support of the tasks described in paragraphs (a)(1) or (2) of this definition; or*
 
@@ -898,9 +906,9 @@ e. Other UAVs - “Payload” includes:
 
 Technical Notes:
 
-1. 'Data device' means equipment capable of transmitting or receiving sequences of digital information.
+*1. 'Data device' means equipment capable of transmitting or receiving sequences of digital information.*
 
-2. The “local area network” extends beyond the geographical area of the “personal area network”.
+*2. The “local area network” extends beyond the geographical area of the “personal area network”.*
 
 *Port of export.* The port where the cargo to be shipped abroad is laden aboard the exporting carrier. It includes, in the case of an export by mail, the place of mailing.
 
@@ -1152,9 +1160,9 @@ Note to paragraphs (b)(4), (b)(5) and (b)(6):
 
 For a commodity or software to be not “specially designed” on the basis of paragraphs (b)(4), (b)(5) *or* (b)(6), documents contemporaneous with its “development,” in their totality, must establish the elements of paragraphs (b)(4), (b)(5) *or* (b)(6). Such documents may include concept design information, marketing plans, declarations in patent applications, or contracts. Absent such documents, the “commodity” may not be excluded from being “specially designed” by paragraphs (b)(4), (b)(5) *or* (b)(6).
 
-“Specific modulus”. (Cat 1) - Young's modulus in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of (50 ±5)%.
+*“Specific modulus”*. (Cat 1) - Young's modulus in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and a relative humidity of (50 ±5)%.
 
-“Specific tensile strength”. (Cat 1) - Ultimate tensile strength in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and relative humidity of (50 ±5)%.
+*“Specific tensile strength”*. (Cat 1) - Ultimate tensile strength in pascals, equivalent to N/m2, divided by specific weight in N/m3, measured at a temperature of (296 ±2) K ((23 ±2) °C) and relative humidity of (50 ±5)%.
 
 *Spectral efficiency.* (Cat 5) - A figure of merit parametrized to characterize the efficiency of transmission system that uses complex modulation schemes such as QAM (quadrature amplitude modulation), Trellis coding, QSPK (Q-phased shift key), etc. It is defined as follows:
 
@@ -1231,7 +1239,9 @@ g2sebok.incose.org/app/mss/asset.cfm?ID=INCOSE%20G2SEBOK%202.00&ST=F*), and in t
 
 Information necessary for the “development,” “production,” “use,” operation, installation, maintenance, repair, overhaul, or refurbishing (or other terms specified in ECCNs on the CCL that control “technology”) of an item.
 
-*N.B.: Controlled “technology” is defined in the General Technology Note and in the Commerce Control List (supplement no. 1 to part 774 of the EAR).*
+*N.B.:*
+
+*Controlled “technology” is defined in the General Technology Note and in the Commerce Control List (supplement no. 1 to part 774 of the EAR).*
 
 Note 1 to definition of Technology:
 

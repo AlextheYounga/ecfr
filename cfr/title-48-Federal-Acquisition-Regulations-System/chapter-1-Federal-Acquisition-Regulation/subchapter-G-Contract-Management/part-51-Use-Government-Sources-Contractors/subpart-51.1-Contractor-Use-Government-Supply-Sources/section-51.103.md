@@ -1,14 +1,14 @@
 ##### 51.103 Ordering from Government supply sources. #####
 
-(a) Contractors placing orders under Federal Supply Schedules shall follow the terms of the applicable schedule and authorization and include with each order -
+(a) Contractors placing orders under Federal Supply Schedules shall follow the terms of the applicable schedule and authorization and include with each order—
 
 (1) A copy of the authorization (unless a copy was previously furnished to the Federal Supply Schedule contractor); and
 
 (2) The following statement:
 
-This order is placed under written authorization from \_\_\_\_\_\_\_\_\_\_\_ dated\_\_\_\_\_\_. In the event of any inconsistency between the terms and conditions of this order and those of your Federal Supply Schedule contract, the latter will govern.
+This order is placed under written authorization from \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ dated\_\_\_\_\_\_\_\_\_\_\_\_. In the event of any inconsistency between the terms and conditions of this order and those of your Federal Supply Schedule contract, the latter will govern.
 
-(b) Contractors placing orders for Government stock shall -
+(b) Contractors placing orders for Government stock shall—
 
 (1) Comply with the requirements of the contracting officer's authorization, using FEDSTRIP or MILSTRIP procedures, as appropriate;
 

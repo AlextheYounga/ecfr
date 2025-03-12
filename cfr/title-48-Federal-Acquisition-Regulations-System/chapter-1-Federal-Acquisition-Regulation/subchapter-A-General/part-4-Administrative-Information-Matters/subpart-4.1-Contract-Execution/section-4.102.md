@@ -1,6 +1,6 @@
 ##### 4.102 Contractor's signature. #####
 
-(a) *Individuals.* A contract with an individual shall be signed by that individual. A contract with an individual doing business as a firm shall be signed by that individual, and the signature shall be followed by the individual's typed, stamped, or printed name and the words “, an individual doing business as \_\_\_\_\_\_\_\_\_\_\_” [*insert name of firm*].
+(a) *Individuals.* A contract with an individual shall be signed by that individual. A contract with an individual doing business as a firm shall be signed by that individual, and the signature shall be followed by the individual's typed, stamped, or printed name and the words “, an individual doing business as \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_” [*insert name of firm*].
 
 (b) *Partnerships.* A contract with a partnership shall be signed in the partnership name. Before signing for the Government, the contracting officer shall obtain a list of all partners and ensure that the individual(s) signing for the partnership have authority to bind the partnership.
 

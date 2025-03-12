@@ -1,10 +1,10 @@
 ##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 24843, Apr. 26, 2022.Link to an amendment published at 87 FR 12795, Mar. 7, 2022.
+Link to an amendment published at 87 FR 12795, Mar. 7, 2022.
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Products and Commercial Services (NOV 2021)
+Offeror Representations and Certifications - Commercial Products and Commercial Services (MAY 2022)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v)) of this provision.
 
@@ -136,7 +136,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Any changes provided by the offeror are applicable to this solicitation only, and do not result in an update to the representations and certifications posted electronically on SAM.*]
 
-(c) Offerors must complete the following representations when the resulting contract will be performed in the United States or its outlying areas. Check all that apply.
+(c) Offerors must complete the following representations when the resulting contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii). Check all that apply.
 
 (1) *Small business concern.* The offeror represents as part of its offer that it □ is, □ is not a small business concern.
 

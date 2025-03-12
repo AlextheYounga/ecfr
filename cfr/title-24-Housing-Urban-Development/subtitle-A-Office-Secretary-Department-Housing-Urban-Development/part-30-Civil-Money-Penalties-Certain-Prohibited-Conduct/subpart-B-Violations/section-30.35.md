@@ -1,7 +1,5 @@
 ##### § 30.35 Mortgagees and lenders. #####
 
-Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
-
 (a) *General.* The Mortgagee Review Board may initiate a civil money penalty action against any mortgagee or lender who knowingly and materially:
 
 (1) Violates the provisions listed in 12 U.S.C. 1735f-14(b);
@@ -46,8 +44,8 @@ Link to an amendment published at 87 FR 24420, Apr. 26, 2022.
 
 (b) *Continuing violation.* Each day that a violation continues shall constitute a separate violation.
 
-(c)(1) *Amount of penalty.* The maximum penalty is $10,366 for each violation, up to a limit of $2,073,133 for all violations committed during any one-year period. Each violation shall constitute a separate violation as to each mortgage or loan application.
+(c)(1) *Amount of penalty.* The maximum penalty is $11,011 for each violation, up to a limit of $2,202,123 for all violations committed during any one-year period. Each violation shall constitute a separate violation as to each mortgage or loan application.
 
 (2) *Maximum penalty for failing to engage in loss mitigation.* The penalty for a violation of paragraph (a)(14) of this section shall be three times the amount of the total mortgage insurance benefits claimed by the mortgagee with respect to any mortgage for which the mortgagee failed to engage in such loss mitigation actions.
 
-[61 FR 50215, Sept. 24, 1996, as amended at 63 FR 9742, Feb. 26, 1998; 68 FR 12788, Mar. 17, 2003; 70 FR 21578, Apr. 26, 2005; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 74 FR 14725, Apr. 1, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 82 FR 7117, Jan. 19, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13044, Mar. 6, 2020; 86 FR 14373, Mar. 16, 2021]
+[61 FR 50215, Sept. 24, 1996, as amended at 63 FR 9742, Feb. 26, 1998; 68 FR 12788, Mar. 17, 2003; 70 FR 21578, Apr. 26, 2005; 72 FR 5588, Feb. 6, 2007; 74 FR 2751, Jan. 15, 2009; 74 FR 14725, Apr. 1, 2009; 78 FR 4059, Jan. 18, 2013; 81 FR 38935, June 15, 2016; 82 FR 24524, May 30, 2017; 82 FR 7117, Jan. 19, 2017; 83 FR 32793, July 16, 2018; 84 FR 9453, Mar. 15, 2019; 85 FR 13044, Mar. 6, 2020; 86 FR 14373, Mar. 16, 2021; 87 FR 24420, Apr. 26, 2022]

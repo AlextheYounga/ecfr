@@ -10,11 +10,11 @@ Identification of Sources of Supply (NOV 1995)
 
 Table
 
-|Line items|National stock No.|Commercial item (Y or N)|Source of supply|Actual mfg?|      |      |
-|----------|------------------|------------------------|----------------|-----------|------|------|
-| Company  |     Address      |        Part No.        |                |           |      |      |
-|   (1)    |       (2)        |          (3)           |      (4)       |    (4)    | (5)  | (6)  |
-|  \_\_\_  |      \_\_\_      |         \_\_\_         |     \_\_\_     |  \_\_\_   |\_\_\_|\_\_\_|
+| Line items |National stock No.|Commercial item (Y or N)|Source of supply|Actual mfg? |            |            |
+|------------|------------------|------------------------|----------------|------------|------------|------------|
+|  Company   |     Address      |        Part No.        |                |            |            |            |
+|    (1)     |       (2)        |          (3)           |      (4)       |    (4)     |    (5)     |    (6)     |
+|\_\_\_\_\_\_|   \_\_\_\_\_\_   |      \_\_\_\_\_\_      |  \_\_\_\_\_\_  |\_\_\_\_\_\_|\_\_\_\_\_\_|\_\_\_\_\_\_|
 
 (1) List each deliverable item of supply and item of technical data.
 

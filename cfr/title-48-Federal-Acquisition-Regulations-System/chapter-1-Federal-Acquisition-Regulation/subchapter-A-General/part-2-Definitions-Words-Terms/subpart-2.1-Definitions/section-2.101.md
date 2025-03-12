@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -77,8 +75,6 @@ Link to an amendment published at 87 FR 24843, Apr. 26, 2022.
 (iv) Any combination of the factors described in paragraphs (1)(i), (ii), and (iii) of this definition.
 
 (2) “Separate smaller contract” as used in this definition, means a contract that has been performed by one or more small business concerns or that was suitable for award to one or more small business concerns.
-
-(3) This definition does not apply to a contract that will be awarded and performed entirely outside of the United States.
 
 *Business unit* means any segment of an organization, or an entire business organization that is not divided into segments.
 

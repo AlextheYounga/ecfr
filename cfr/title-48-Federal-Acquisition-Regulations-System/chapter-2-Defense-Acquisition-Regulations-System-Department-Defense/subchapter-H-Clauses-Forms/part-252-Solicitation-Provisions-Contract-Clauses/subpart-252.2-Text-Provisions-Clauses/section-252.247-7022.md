@@ -6,9 +6,9 @@ Representation of Extent of Transportation By Sea (JUN 2019)
 
 (a) The Offeror shall indicate by checking the appropriate blank in paragraph (b) of this provision whether transportation of supplies by sea is anticipated under the resultant contract. The term *supplies* is defined in the Transportation of Supplies by Sea clause of this solicitation.
 
-(b) *Representation.* The Offeror represents that it -
+(b) *Representation.* The Offeror represents that it—
 
-\_\_\_\_ Does anticipate that supplies will be transported by sea in the performance of any contract or subcontract resulting from this solicitation.\_\_\_\_ Does not anticipate that supplies will be transported by sea in the performance of any contract or subcontract resulting from this solicitation.
+\_\_\_\_\_\_\_\_ Does anticipate that supplies will be transported by sea in the performance of any contract or subcontract resulting from this solicitation.\_\_\_\_\_\_\_\_ Does not anticipate that supplies will be transported by sea in the performance of any contract or subcontract resulting from this solicitation.
 
 (c) Any contract resulting from this solicitation will include the Transportation of Supplies by Sea clause.
 

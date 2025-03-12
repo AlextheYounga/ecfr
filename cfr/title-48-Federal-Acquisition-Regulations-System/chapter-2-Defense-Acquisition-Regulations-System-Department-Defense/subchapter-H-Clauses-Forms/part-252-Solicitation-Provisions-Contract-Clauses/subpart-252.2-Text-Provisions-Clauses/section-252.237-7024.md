@@ -6,11 +6,11 @@ Notice of Continuation of Essential Contractor Services (OCT 2010)
 
 (a) *Definitions. Essential contractor service* and *mission-essential functions* have the meanings given in the clause at 252.237-7023, Continuation of Essential Contractor Services, in this solicitation.
 
-(b) The offeror shall provide with its offer a written plan describing how it will continue to perform the essential contractor services listed in attachment \_, Mission Essential Contractor Services, dated \_\_\_\_, during periods of crisis. The offeror shall -
+(b) The offeror shall provide with its offer a written plan describing how it will continue to perform the essential contractor services listed in attachment \_\_, Mission Essential Contractor Services, dated \_\_\_\_\_\_\_\_, during periods of crisis. The offeror shall—
 
 (1) Identify provisions made for the acquisition of essential personnel and resources, if necessary, for continuity of operations for up to 30 days or until normal operations can be resumed;
 
-(2) Address in the plan, at a minimum -
+(2) Address in the plan, at a minimum—
 
 (i) Challenges associated with maintaining essential contractor services during an extended event, such as a pandemic that occurs in repeated waves;
 

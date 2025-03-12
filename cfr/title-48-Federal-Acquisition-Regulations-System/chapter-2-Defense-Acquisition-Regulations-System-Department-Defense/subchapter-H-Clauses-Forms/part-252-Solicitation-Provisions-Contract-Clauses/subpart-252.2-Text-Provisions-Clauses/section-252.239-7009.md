@@ -8,10 +8,10 @@ Representation of Use of Cloud Computing (SEP 2015)
 
 (b) The Offeror shall indicate by checking the appropriate blank in paragraph (c) of this provision whether the use of cloud computing is anticipated under the resultant contract.
 
-(c) *Representation.* The Offeror represents that it -
+(c) *Representation.* The Offeror represents that it—
 
-\_\_Does anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this solicitation.
+\_\_\_\_Does anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this solicitation.
 
-\_\_Does not anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this solicitation.
+\_\_\_\_Does not anticipate that cloud computing services will be used in the performance of any contract or subcontract resulting from this solicitation.
 
 (End of provision)[80 FR 51745, Aug. 26, 2015, as amended at 80 FR 56930, Sept. 21, 2015; 80 FR 74695, Nov. 30, 2015]

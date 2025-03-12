@@ -10,7 +10,7 @@ Continuation of Essential Contractor Services (OCT 2010)
 
 (2) *Mission-essential functions* means those organizational activities that must be performed under all circumstances to achieve DoD component missions or responsibilities, as determined by the appropriate functional commander or civilian equivalent. Failure to perform or sustain these functions would significantly affect DoD's ability to provide vital services or exercise authority, direction, and control.
 
-(b) The Government has identified all or a portion of the contractor services performed under this contract as essential contractor services in support of mission-essential functions. These services are listed in attachment \_, Mission-Essential Contractor Services, dated \_\_\_\_.
+(b) The Government has identified all or a portion of the contractor services performed under this contract as essential contractor services in support of mission-essential functions. These services are listed in attachment \_\_, Mission-Essential Contractor Services, dated \_\_\_\_\_\_\_\_.
 
 (c)(1) The Mission-Essential Contractor Services Plan submitted by the Contractor, is incorporated in this contract.
 

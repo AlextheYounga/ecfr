@@ -1,6 +1,6 @@
 ##### 32.805 Procedure. #####
 
-(a) *Assignments.* (1) Assignments by corporations shall be -
+(a) *Assignments.* (1) Assignments by corporations shall be—
 
 (i) Executed by an authorized representative;
 
@@ -16,13 +16,13 @@
 
 (c) *Format for notice of assignment.* The following is a suggested format for use by an assignee in providing the notice of assignment required by 32.802(e).
 
-Notice of AssignmentTO: \_\_\_\_\_ [*address to one of the parties specified in 32.802(e)*].
+Notice of AssignmentTO: \_\_\_\_\_\_\_\_\_\_ [*address to one of the parties specified in 32.802(e)*].
 
-This has reference to Contract No. \_\_\_ dated \_\_\_, entered into between \_\_\_\_ [*contractor's name and address*] and \_\_\_\_ [*government agency, name of office, and address*], for \_\_\_\_ [*describe nature of the contract*].
+This has reference to Contract No. \_\_\_\_\_\_ dated \_\_\_\_\_\_, entered into between \_\_\_\_\_\_\_\_ [*contractor's name and address*] and \_\_\_\_\_\_\_\_ [*government agency, name of office, and address*], for \_\_\_\_\_\_\_\_ [*describe nature of the contract*].
 
 Moneys due or to become due under the contract described above have been assigned to the undersigned under the provisions of the Assignment of Claims Act of 1940, as amended, (31 U.S.C. 3727, 41 U.S.C. 6305).
 
-A true copy of the instrument of assignment executed by the Contractor on \_\_\_\_ [*date*], is attached to the original notice.
+A true copy of the instrument of assignment executed by the Contractor on \_\_\_\_\_\_\_\_ [*date*], is attached to the original notice.
 
 Payments due or to become due under this contract should be made to the undersigned assignee.
 
@@ -30,7 +30,7 @@ Please return to the undersigned the three enclosed copies of this notice with a
 
 Very truly yours,[*name of assignee*]By[*signature of signing officer*Title[*title of signing officer*][*address of assignee*]Acknowledgement
 
-Receipt is acknowledged of the above notice and of a copy of the instrument of assignment. They were received at \_\_ (a.m.) (p.m.) on \_\_\_\_, 20\_\_.
+Receipt is acknowledged of the above notice and of a copy of the instrument of assignment. They were received at \_\_\_\_ (a.m.) (p.m.) on \_\_\_\_\_\_\_\_, 20\_\_\_\_.
 
 [*signature*][*title*]
 
@@ -48,13 +48,13 @@ On behalf of
 
 (4) The assignee is registered separately in the System for Award Management unless one of the exceptions in 4.1102 applies.
 
-(e) *Release of assignment.* (1) A release of an assignment is required whenever -
+(e) *Release of assignment.* (1) A release of an assignment is required whenever—
 
 (i) There has been a further assignment or reassignment under the Act; or
 
 (ii) The contractor wishes to reestablish its right to receive further payments after the contractor's obligations to the assignee have been satisfied and a balance remains due under the contract.
 
-(2) The assignee, under a further assignment or reassignment, in order to establish a right to receive payment from the Government, must file with the addressees listed in 32.802(e) a -
+(2) The assignee, under a further assignment or reassignment, in order to establish a right to receive payment from the Government, must file with the addressees listed in 32.802(e) a—
 
 (i) Written notice of release of the contractor by the assigning financing institution;
 

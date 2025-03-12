@@ -4,9 +4,9 @@ As prescribed in 217.208-70(b), use the following clause:
 
 Surge Option (DEC 2018)
 
-(a) *General.* The Government has the option to -
+(a) *General.* The Government has the option to—
 
-(1) Increase the quantity of supplies or services called for under this contract by no more than \_\_percent or \_\_*[insert quantity and description of services or supplies to be increased];* and/or
+(1) Increase the quantity of supplies or services called for under this contract by no more than \_\_\_\_percent or \_\_\_\_*[insert quantity and description of services or supplies to be increased];* and/or
 
 (2) Accelerate the rate of delivery called for under this contract, at a price or cost established before contract award or to be established by negotiation as provided in this clause.
 

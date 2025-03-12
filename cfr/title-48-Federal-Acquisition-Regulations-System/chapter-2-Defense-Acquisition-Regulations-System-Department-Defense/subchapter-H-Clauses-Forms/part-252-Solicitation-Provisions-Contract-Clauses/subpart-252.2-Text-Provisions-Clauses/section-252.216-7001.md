@@ -8,11 +8,11 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 *Base labor index* means the average of the labor indices for the three months which consist of the month of bid opening (or offer submission) and the months immediately preceding and following that month.
 
-*Base steel index* means the Contractor's established price (see note 6) including all applicable extras of $\_\_\_\_ per \_\_\_\_\_ (see note 1) for \_\_\_\_\_ (see note 2) on the date set for bid opening (or the date of submission of the offer).
+*Base steel index* means the Contractor's established price (see note 6) including all applicable extras of $\_\_\_\_\_\_\_\_ per \_\_\_\_\_\_\_\_\_\_ (see note 1) for \_\_\_\_\_\_\_\_\_\_ (see note 2) on the date set for bid opening (or the date of submission of the offer).
 
 *Current labor index* means the average of the labor indices for the month in which delivery of supplies is required to be made and the month preceding.
 
-*Current steel index* means the Contractor's established price (see note 6) for that item, including all applicable extras in effect \_\_\_\_ days (see note 3) prior to the first day of the month in which delivery is required.
+*Current steel index* means the Contractor's established price (see note 6) for that item, including all applicable extras in effect \_\_\_\_\_\_\_\_ days (see note 3) prior to the first day of the month in which delivery is required.
 
 *Established price is* -
 
@@ -20,11 +20,11 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 (2) The net price after applying any applicable standard trade discounts offered by the Contractor from its catalog, list, or schedule price. (But see Note 6.)
 
-*Labor index* means the average straight time hourly earnings of the Contractor's employees in the \_\_\_\_ shop of the Contractor's \_\_\_\_\_ plant (see note 4) for any particular month.
+*Labor index* means the average straight time hourly earnings of the Contractor's employees in the \_\_\_\_\_\_\_\_ shop of the Contractor's \_\_\_\_\_\_\_\_\_\_ plant (see note 4) for any particular month.
 
 *Month* means calendar month. However, if the Contractor's accounting period does not coincide with the calendar month, then that accounting period shall be used in lieu of *month.*
 
-(b) Each contract unit price shall be subject to revision, under the terms of this clause, to reflect changes in the cost of labor and steel. For purpose of this price revision, the proportion of the contract unit price attributable to costs of labor not otherwise included in the price of the steel item identified under the *base steel index* definition in paragraph (a) shall be \_\_\_ percent, and the proportion of the contract unit price attributable to the cost of steel shall be \_\_\_ percent. (See note 5.)
+(b) Each contract unit price shall be subject to revision, under the terms of this clause, to reflect changes in the cost of labor and steel. For purpose of this price revision, the proportion of the contract unit price attributable to costs of labor not otherwise included in the price of the steel item identified under the *base steel index* definition in paragraph (a) shall be \_\_\_\_\_\_ percent, and the proportion of the contract unit price attributable to the cost of steel shall be \_\_\_\_\_\_ percent. (See note 5.)
 
 (c)(1) Unless otherwise specified in this contract, the labor index shall be computed by dividing the total straight time earnings of the Contractor's employees in the shop identified in paragraph (a) for any given month by the total number of straight time hours worked by those employees in that month.
 
@@ -38,11 +38,11 @@ Economic Price Adjustment - Nonstandard Steel Items (JUL 1997)
 
 (3) Each revised contract unit price shall be computed by adding -
 
-(i) The adjusted cost of labor (obtained by multiplying \_\_\_ percent of the contract unit price by a fraction, of which the numerator shall be the current labor index and the denominator shall be the base labor index);
+(i) The adjusted cost of labor (obtained by multiplying \_\_\_\_\_\_ percent of the contract unit price by a fraction, of which the numerator shall be the current labor index and the denominator shall be the base labor index);
 
-(ii) The adjusted cost of steel (obtained by multiplying \_\_\_ percent of the contract unit price by a fraction, of which the numerator shall be the current steel index and the denominator shall be the base steel index); and
+(ii) The adjusted cost of steel (obtained by multiplying \_\_\_\_\_\_ percent of the contract unit price by a fraction, of which the numerator shall be the current steel index and the denominator shall be the base steel index); and
 
-(iii) The amount equal to \_\_\_ percent of the original contract unit price (representing that portion of the unit price which relates neither to the cost of labor nor the cost of steel, and which is therefore not subject to revision (see note 5)).
+(iii) The amount equal to \_\_\_\_\_\_ percent of the original contract unit price (representing that portion of the unit price which relates neither to the cost of labor nor the cost of steel, and which is therefore not subject to revision (see note 5)).
 
 (4) The aggregate of the increases in any contract unit price under this contract shall not exceed ten percent of the original contract unit price.
 
