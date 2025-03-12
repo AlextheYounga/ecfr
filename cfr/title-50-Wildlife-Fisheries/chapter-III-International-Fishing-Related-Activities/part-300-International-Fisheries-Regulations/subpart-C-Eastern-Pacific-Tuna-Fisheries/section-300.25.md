@@ -26,7 +26,7 @@
 
 (d) [Reserved]
 
-(e) *Purse seine closures.* (1) *Closure periods* - (i) *General rule.* A commercial purse seine fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two closure periods:
+(e) *Purse seine closures* - (1) *Closure periods* - (i) *General rule.* A commercial purse seine fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two closure periods:
 
 (A) From 0000 hours Coordinated Universal Time (UTC) July 29, 2017, to 2400 hours UTC October 8, 2017; or,
 
@@ -86,4 +86,4 @@
 
 (i) *FAD data reporting for purse seine vessels.* U.S. vessel owners and operators must ensure that any interaction or activity with a FAD is reported using a standard format provided by the HMS Branch. The owner and operator shall ensure that the form is submitted to the address specified by the HMS Branch.
 
-[64 FR 44431, Aug. 16, 1999, as amended at 66 FR 49320, Sept. 27, 2001. Redesignated at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68338, Nov. 4, 2011; 76 FR 68338, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 19489, Apr. 9, 2014; 79 FR 28451, May 16, 2014; 79 FR 56019, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017; 82 FR 45516, Sept. 29, 2017]
+[64 FR 44431, Aug. 16, 1999]Editorial Note:For Federal Register citations affecting § 300.25, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

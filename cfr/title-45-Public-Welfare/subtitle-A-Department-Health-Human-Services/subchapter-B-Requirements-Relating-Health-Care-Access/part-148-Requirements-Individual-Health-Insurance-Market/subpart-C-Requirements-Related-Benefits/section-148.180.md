@@ -110,13 +110,9 @@ Example 2.(i) *Facts.* Individual *F* is covered by a health maintenance organiz
 
 (iii) *Medical appropriateness.* An issuer in the individual market may limit or exclude a benefit based on whether the benefit is medically appropriate, and the determination of whether the benefit is medically appropriate is not within the meaning of underwriting purposes. Accordingly, if an issuer conditions a benefit based on its medical appropriateness and the medical appropriateness of the benefit depends on a covered individual's genetic information, the issuer is permitted to condition the benefit on the genetic information. An issuer is permitted to request only the minimum amount of genetic information necessary to determine medical appropriateness, and may deny the benefit if the covered individual does not provide the genetic information required to determine medical appropriateness. *See* paragraph (g) of this section for examples illustrating the applicability of this paragraph (f)(1)(iii), as well as other provisions of this section.
 
-(2) *Prior to or in connection with enrollment* -
+(2) *Prior to or in connection with enrollment* - (i) *In general.* An issuer offering health insurance coverage in the individual market must not collect genetic information with respect to any individual prior to that individual's enrollment under the coverage or in connection with that individual's enrollment. Whether or not an individual's information is collected prior to that individual's enrollment is determined at the time of collection.
 
-(i) *In general.* An issuer offering health insurance coverage in the individual market must not collect genetic information with respect to any individual prior to that individual's enrollment under the coverage or in connection with that individual's enrollment. Whether or not an individual's information is collected prior to that individual's enrollment is determined at the time of collection.
-
-(ii) *Incidental collection exception.*
-
-(A) *In general.* If an issuer offering health insurance coverage in the individual market obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (f)(2), as long as the collection is not for underwriting purposes in violation of paragraph (f)(1) of this section.
+(ii) *Incidental collection exception* - (A) *In general.* If an issuer offering health insurance coverage in the individual market obtains genetic information incidental to the collection of other information concerning any individual, the collection is not a violation of this paragraph (f)(2), as long as the collection is not for underwriting purposes in violation of paragraph (f)(1) of this section.
 
 (B) *Limitation.* The incidental collection exception of this paragraph (f)(2)(ii) does not apply in connection with any collection where it is reasonable to anticipate that health information will be received, unless the collection explicitly provides that genetic information should not be provided.
 

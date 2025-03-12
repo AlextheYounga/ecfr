@@ -1,6 +1,6 @@
 ##### § 98.80 General procedures and requirements. #####
 
-An Indian Tribe or tribal organization (as described in Subpart G of these regulations) may be awarded grants to plan and carry out programs for the purpose of increasing the availability, affordability, and quality of child care and childhood development programs subject to the following conditions:
+An Indian Tribe or tribal organization (as described in subpart G of these regulations) may be awarded grants to plan and carry out programs for the purpose of increasing the availability, affordability, and quality of child care and childhood development programs subject to the following conditions:
 
 (a) An Indian Tribe applying for or receiving CCDF funds shall be subject to the requirements under this part as specified in this section based on the size of the awarded funds. The Secretary shall establish thresholds for Tribes' total CCDF allotments pursuant to §§ 98.61(c) and 98.62(b) to be divided into three categories:
 

@@ -1,5 +1,7 @@
 ##### § 300.27 Incidental catch and tuna retention requirements. #####
 
+Link to an amendment published at 82 FR 56178, Nov. 28, 2017.
+
 (a) *Tuna retention requirements for purse seine vessels.* Bigeye, skipjack, and yellowfin tuna caught in the Convention Area by a fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) using purse seine gear must be retained on board and landed, except for fish deemed unfit for human consumption for reasons other than size. This requirement shall not apply to the last set of a trip if the available well capacity is insufficient to accommodate the entire catch.
 
 (b) *Release requirements for non-tuna species on purse seine vessels.* All purse seine vessels must release all shark, billfish, ray (not including mobulid rays, which are subject to paragraph (g) of this section), dorado (*Coryphaena hippurus*), and other non-tuna fish species, except those being retained for consumption aboard the vessel, as soon as practicable after being identified on board the vessel during the brailing operation.

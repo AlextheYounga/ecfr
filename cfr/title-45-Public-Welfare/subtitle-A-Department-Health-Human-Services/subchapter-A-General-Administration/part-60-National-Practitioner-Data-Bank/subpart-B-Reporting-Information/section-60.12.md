@@ -1,6 +1,6 @@
 ##### § 60.12 Reporting adverse actions taken against clinical privileges. #####
 
-(a) *Reporting by health care entities to the NPDB.* (1) *Actions that must be reported and to whom the report must be made.* Each health care entity must report to the NPDB and provide a copy of the report to the Board of Medical Examiners in the state in which the health care entity is located the following actions:
+(a) *Reporting by health care entities to the NPDB*—(1) *Actions that must be reported and to whom the report must be made.* Each health care entity must report to the NPDB and provide a copy of the report to the Board of Medical Examiners in the state in which the health care entity is located the following actions:
 
 (i) Any professional review action that adversely affects the clinical privileges of a physician or dentist for a period longer than 30 days,
 
@@ -40,7 +40,7 @@
 
 (b) *Reporting by the Board of Medical Examiners to the NPDB.* Each Board must report any known instances of a health care entity's failure to report information as required under paragraph (a)(1) of this section. In addition, each Board of Medical Examiners must simultaneously report this information to the appropriate state licensing board in the state in which the health care entity is located, if the Board of Medical Examiners is not such licensing board.
 
-(c) *Sanctions* - (1) *Health care entities.* If the Secretary has reason to believe that a health care entity has substantially failed to report information in accordance with this section, the Secretary will conduct an investigation. If the investigation shows that the health care entity has not complied with this section, the Secretary will provide the entity with a written notice describing the noncompliance, giving the health care entity an opportunity to correct the noncompliance, and stating that the entity may request, within 30 days after receipt of such notice, a hearing with respect to the noncompliance. The request for a hearing must contain a statement of the material factual issues in dispute to demonstrate that there is cause for a hearing. These issues must be both substantive and relevant. The hearing will be held in the Washington, DC, metropolitan area. The Secretary will deny a hearing if:
+(c) *Sanctions*—(1) *Health care entities.* If the Secretary has reason to believe that a health care entity has substantially failed to report information in accordance with this section, the Secretary will conduct an investigation. If the investigation shows that the health care entity has not complied with this section, the Secretary will provide the entity with a written notice describing the noncompliance, giving the health care entity an opportunity to correct the noncompliance, and stating that the entity may request, within 30 days after receipt of such notice, a hearing with respect to the noncompliance. The request for a hearing must contain a statement of the material factual issues in dispute to demonstrate that there is cause for a hearing. These issues must be both substantive and relevant. The hearing will be held in the Washington, DC, metropolitan area. The Secretary will deny a hearing if:
 
 (i) The request for a hearing is untimely,
 

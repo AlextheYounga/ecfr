@@ -1,6 +1,6 @@
 ##### § 23.156 Forms of margin. #####
 
-(a) *Initial margin* - (1) *Eligible collateral.* A covered swap entity shall collect and post as initial margin for trades with a covered counterparty only the following types of collateral:
+(a) *Initial margin*—(1) *Eligible collateral.* A covered swap entity shall collect and post as initial margin for trades with a covered counterparty only the following types of collateral:
 
 (i) Immediately available cash funds denominated in:
 
@@ -52,25 +52,22 @@
 
 (B) The discounts set forth in the following table:
 
-Standardized Haircut Schedule
-
-|                                                                                                                                                                                                         |    |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
-|                                                                                Cash in same currency as swap obligation                                                                                 |0.0 |
-|    Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(iv) of this section): Residual maturity less than one-year    |0.5 |
-|Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(iv) of this section): Residual maturity between one and five years|2.0 |
-| Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(iv) of this section): Residual maturity greater than five years  |4.0 |
-|                      Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(iv) of this section): Residual maturity less than one-year                      |1.0 |
-|                  Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(iv) of this section): Residual maturity between one and five years                  |4.0 |
-|                   Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(iv) of this section): Residual maturity greater than five years                    |8.0 |
-|                                                                              Equities included in S&P 500 or related index                                                                              |15.0|
-|                                                        Equities included in S&P 1500 Composite or related index but not S&P 500 or related index                                                        |25.0|
-|                                                                                                  Gold                                                                                                   |15.0|
-|                                      Additional (additive) haircut on asset in which the currency of the swap obligation differs from that of the collateral asset                                      |8.0 |
+|                                                                                Cash in same currency as swap obligation                                                                                |0.0 |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|    Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(v) of this section): Residual maturity less than one-year    |0.5 |
+|Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(v) of this section): Residual maturity between one and five years|2.0 |
+| Eligible government and related debt (e.g., central bank, multilateral development bank, GSE securities identified in paragraph (a)(1)(v) of this section): Residual maturity greater than five years  |4.0 |
+|                      Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(v) of this section): Residual maturity less than one-year                      |1.0 |
+|                  Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(v) of this section): Residual maturity between one and five years                  |4.0 |
+|                   Eligible corporate debt (including eligible GSE debt securities not identified in paragraph (a)(1)(v) of this section): Residual maturity greater than five years                    |8.0 |
+|                                                                             Equities included in S&P 500 or related index                                                                              |15.0|
+|                                                       Equities included in S&P 1500 Composite or related index but not S&P 500 or related index                                                        |25.0|
+|                                                                                                  Gold                                                                                                  |15.0|
+|                                     Additional (additive) haircut on asset in which the currency of the swap obligation differs from that of the collateral asset                                      |8.0 |
 
 (ii) The value of initial margin collateral shall be computed as the product of the cash or market value of the eligible collateral asset times one minus the applicable haircut expressed in percentage terms. The total value of all initial margin collateral is calculated as the sum of those values for each eligible collateral asset.
 
-(b) *Variation margin* - (1) *Eligible collateral* - (i) *Swaps with a swap entity.* (A) A covered swap entity shall post and collect as variation margin to or from a counterparty that is a swap entity only immediately available cash funds that are denominated in: U.S. dollars;
+(b) *Variation margin*—(1) *Eligible collateral*—(i) *Swaps with a swap entity.* (A) A covered swap entity shall post and collect as variation margin to or from a counterparty that is a swap entity only immediately available cash funds that are denominated in: U.S. dollars;
 
 (B) Another major currency; or
 
@@ -89,3 +86,5 @@ Standardized Haircut Schedule
 (c) *Monitoring obligation.* A covered swap entity shall monitor the market value and eligibility of all collateral collected and posted to satisfy the margin requirements of §§ 23.150 through 23.161. To the extent that the market value of such collateral has declined, the covered swap entity shall promptly collect or post such additional eligible collateral as is necessary to maintain compliance with the margin requirements of §§ 23.150 through 23.161. To the extent that the collateral is no longer eligible, the covered swap entity shall promptly collect or post sufficient eligible replacement collateral to comply with the margin requirements of §§ 23.150 through 23.161.
 
 (d) *Excess margin.* A covered swap entity may collect or post initial margin or variation margin that is not required pursuant to §§ 23.150 through 23.161 in any form of collateral.
+
+[81 FR 695, Jan. 6, 2016, as amended at 82 FR 56169, Nov. 28, 2017]

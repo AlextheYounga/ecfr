@@ -2,7 +2,7 @@
 
 (a) *Purpose and scope.* The purpose of this section is to implement the Bottlenose Dolphin Take Reduction Plan (BDTRP) to reduce incidental mortality and serious injury of strategic stocks of bottlenose dolphins within the Western North Atlantic coastal morphotype in specific Category I and II commercial fisheries from New Jersey through Florida. Specific Category I and II commercial fisheries within the scope of the BDTRP are indentified and updated in the annual List of Fisheries. Gear restricted by this section includes small, medium, and large mesh gillnets and pound nets. The geographic scope of the BDTRP is all tidal and marine waters within 6.5 nautical miles (12 km) of shore from the New York-New Jersey border southward to Cape Hatteras, North Carolina, and within 14.6 nautical miles (27 km) of shore from Cape Hatteras, southward to, and including the east coast of Florida down to the fishery management council demarcation line between the Atlantic Ocean and the Gulf of Mexico (as described in § 600.105 of this title).
 
-(b) *Definitions.* In addition to the definitions contained in the Act, § 216.3 and § 229.2 of this chapter, the terms defined in this section shall have the following definitions, even if a contrary definition exists in the Act, § 216.3, or § 229.2:
+(b) *Definitions.* In addition to the definitions contained in the Act, §§ 216.3 and 229.2 of this chapter, the terms defined in this section shall have the following definitions, even if a contrary definition exists in the Act, § 216.3, or § 229.2:
 
 *Beach* means landward of and including the mean low water line.
 
@@ -37,15 +37,15 @@
 
 *Southern Virginia State waters* means the area consisting of all marine and tidal waters, within 3 nautical miles (5.56 km) of shore, bounded on the north by 37° 07.23′ N. (Cape Charles Light on Smith Island in the Chesapeake Bay mouth) and on the south by 36° 33′ N. (Virginia/North Carolina border at the coast).
 
-(c) *BDTRP regulated waters* - (1) *Gillnets.* The regulations pertaining to gillnets in this section apply to New Jersey, Delaware, and Maryland State waters; Northern North Carolina State waters; Northern Virginia State waters; South Carolina, Georgia, and Florida waters; Southern North Carolina State waters; and Southern Virginia State waters as defined in § 229.35(b), except for the waters identified in § 229.34(a)(2), with the following modification and addition. From Chincoteague to Ship Shoal Inlet in Virginia (37° 52′ N. 75° 24.30′ W. to 37° 11.90′ N. 75° 48.30′ W) and South Carolina, Georgia, and Florida waters, those waters landward of the 72 COLREGS demarcation line (International Regulations for Preventing Collisions at Sea, 1972), as depicted or noted on nautical charts published by the National Oceanic and Atmospheric Administration (Coast Charts 1:80,000 scale), and as described in 33 CFR part 80 are excluded from the regulations.
+(c) *BDTRP regulated waters*—(1) *Gillnets.* The regulations pertaining to gillnets in this section apply to New Jersey, Delaware, and Maryland State waters; Northern North Carolina State waters; Northern Virginia State waters; South Carolina, Georgia, and Florida waters; Southern North Carolina State waters; and Southern Virginia State waters as defined in § 229.35(b), except for the waters identified in § 229.34(a)(2), with the following modification and addition. From Chincoteague to Ship Shoal Inlet in Virginia (37° 52′ N. 75° 24.30′ W. to 37° 11.90′ N. 75° 48.30′ W) and South Carolina, Georgia, and Florida waters, those waters landward of the 72 COLREGS demarcation line (International Regulations for Preventing Collisions at Sea, 1972), as depicted or noted on nautical charts published by the National Oceanic and Atmospheric Administration (Coast Charts 1:80,000 scale), and as described in 33 CFR part 80 are excluded from the regulations.
 
 (2) *Pound nets.* The regulations pertaining to pound nets in this section apply to the Bottlenose Dolphin Pound Net Regulated Area.
 
-(d) *Regional management measures* - (1) *New Jersey, Delaware, and Maryland State waters* - (i) *Medium and large mesh gillnets.* From June 1 through October 31, in New Jersey, Delaware, and Maryland state waters, no person may fish with any medium or large mesh anchored gillnet gear at night unless such person remains within 0.5 nautical mile (0.93 km) of the closest portion of each gillnet and removes all such gear from the water and stows it on board the vessel before the vessel returns to port.
+(d) *Regional management measures*—(1) *New Jersey, Delaware, and Maryland State waters*—(i) *Medium and large mesh gillnets.* From June 1 through October 31, in New Jersey, Delaware, and Maryland state waters, no person may fish with any medium or large mesh anchored gillnet gear at night unless such person remains within 0.5 nautical mile (0.93 km) of the closest portion of each gillnet and removes all such gear from the water and stows it on board the vessel before the vessel returns to port.
 
 (ii) [Reserved]
 
-(2) *Virginia state waters* - (i) *Medium and large mesh gillnets.* From June 1 through October 31, in Southern Virginia State waters and Northern Virginia State waters, no person may fish with any medium or large mesh anchored gillnet gear at night unless such person remains within 0.5 nautical mile (0.93 km) of the closest portion of each gillnet and removes all such gear from the water and stows it on board the vessel before the vessel returns to port.
+(2) *Virginia state waters*—(i) *Medium and large mesh gillnets.* From June 1 through October 31, in Southern Virginia State waters and Northern Virginia State waters, no person may fish with any medium or large mesh anchored gillnet gear at night unless such person remains within 0.5 nautical mile (0.93 km) of the closest portion of each gillnet and removes all such gear from the water and stows it on board the vessel before the vessel returns to port.
 
 (ii) *Pound nets.* (A) Year-round, any offshore pound net in the Bottlenose Dolphin Pound Net Regulated Area must use a modified pound net leader.
 
@@ -53,11 +53,11 @@
 
 (C) The pound net licensee and the vessel operator of any offshore pound net set in the Bottlenose Dolphin Pound Net Regulated Area must have completed modified pound net leader compliance training and possess on board the vessel a valid modified pound net leader compliance training certificate issued by NMFS. NMFS retains discretion to provide exemptions in limited circumstances where appropriate. Notice will be given by NMFS announcing the times and locations of modified pound net leader compliance training.
 
-(3) *Southern Virginia State waters* - (i) *Large mesh gillnets.* From November 1 through December 31, in Southern Virginia State waters, no person may fish with, possess on board a vessel unless stowed, or fail to remove from the water, any large mesh gillnet gear at night.
+(3) *Southern Virginia State waters*—(i) *Large mesh gillnets.* From November 1 through December 31, in Southern Virginia State waters, no person may fish with, possess on board a vessel unless stowed, or fail to remove from the water, any large mesh gillnet gear at night.
 
 (ii) [Reserved]
 
-(4) *Northern North Carolina State waters* - (i) *Small mesh gillnets.* From May 1 through October 31, in Northern North Carolina State waters, no person may fish with any small mesh gillnet gear longer than 1,000 feet (304.8 m).
+(4) *Northern North Carolina State waters*—(i) *Small mesh gillnets.* From May 1 through October 31, in Northern North Carolina State waters, no person may fish with any small mesh gillnet gear longer than 1,000 feet (304.8 m).
 
 (ii) *Medium mesh gillnets.* From November 1 through April 30 of the following year, in Northern North Carolina State waters, no person may fish with any medium mesh gillnet at night.
 
@@ -65,13 +65,13 @@
 
 (B) From December 16 through April 14 of the following year, in Northern North Carolina State waters, no person may fish with any large mesh gillnet without tie-downs at night.
 
-(5) *Southern North Carolina State waters* - (i) *Medium mesh gillnets.* From November 1 through April 30 of the following year, in Southern North Carolina State waters, no person may fish with any medium mesh gillnet at night.
+(5) *Southern North Carolina State waters*—(i) *Medium mesh gillnets.* From November 1 through April 30 of the following year, in Southern North Carolina State waters, no person may fish with any medium mesh gillnet at night.
 
 (ii) *Large mesh gillnets.* (A) From April 15 through December 15, in Southern North Carolina State waters, no person may fish with any large mesh gillnet.
 
 (B) From December 16 through April 14 of the following year, in Southern North Carolina State waters, no person may fish, possess on board unless stowed, or fail to remove from the water, any large mesh gillnet at night.
 
-(6) *South Carolina, Georgia, and Florida waters* - (i) *Gillnets.* Year-round, in South Carolina, Georgia, and Florida waters, no person may fish with any gillnet gear unless such person remains within 0.25 nautical miles (0.46 km) of the closest portion of the gillnet. Gear shall be removed from the water and stowed on board the vessel before the vessel returns to port.
+(6) *South Carolina, Georgia, and Florida waters*—(i) *Gillnets.* Year-round, in South Carolina, Georgia, and Florida waters, no person may fish with any gillnet gear unless such person remains within 0.25 nautical miles (0.46 km) of the closest portion of the gillnet. Gear shall be removed from the water and stowed on board the vessel before the vessel returns to port.
 
 (ii) [Reserved]
 

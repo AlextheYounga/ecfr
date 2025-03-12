@@ -1,5 +1,7 @@
 ##### § 300.24 Prohibitions. #####
 
+Link to an amendment published at 82 FR 56178, Nov. 28, 2017.
+
 In addition to the prohibitions in § 300.4, it is unlawful for any person or vessel subject to the jurisdiction of the United States to:
 
 (a) Land any species of tuna during the closed season for that species in excess of the amount allowed by the Regional Administrator.
@@ -70,4 +72,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (hh) Use a U.S. longline vessel to catch silky shark in contravention of § 300.27(f).
 
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017; 82 FR 45516, Sept. 29, 2017]
+[61 FR 35550, July 5, 1996]Editorial Note:For Federal Register citations affecting § 300.24, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
