@@ -1,6 +1,6 @@
-##### § 1926.1404 Assembly/Disassembly - general requirements (applies to all assembly and disassembly operations). #####
+##### § 1926.1404 Assembly/Disassembly—general requirements (applies to all assembly and disassembly operations). #####
 
-(a) *Supervision - competent-qualified person.* (1) Assembly/disassembly must be directed by a person who meets the criteria for both a competent person and a qualified person, or by a competent person who is assisted by one or more qualified persons (“A/D director”).
+(a) *Supervision—competent-qualified person.* (1) Assembly/disassembly must be directed by a person who meets the criteria for both a competent person and a qualified person, or by a competent person who is assisted by one or more qualified persons (“A/D director”).
 
 (2) Where the assembly/disassembly is being performed by only one person, that person must meet the criteria for both a competent person and a qualified person. For purposes of this standard, that person is considered the A/D director.
 
@@ -68,9 +68,7 @@
 
 (l) [Reserved]
 
-(m) *Components and configuration.*
-
-(1) The selection of components, and configuration of the equipment, that affect the capacity or safe operation of the equipment must be in accordance with:
+(m) *Components and configuration.* (1) The selection of components, and configuration of the equipment, that affect the capacity or safe operation of the equipment must be in accordance with:
 
 (i) Manufacturer instructions, prohibitions, limitations, and specifications. Where these are unavailable, a registered professional engineer familiar with the type of equipment involved must approve, in writing, the selection and configuration of components; or
 

@@ -30,15 +30,15 @@ Note 4 to paragraph (a):
 
 See § 515.534 for a general license authorizing certain contingent contracts, including contingent contracts for the sale of items that may be exported from the United States to Cuba or reexported from a third country to Cuba consistent with the export licensing policy of the Department of Commerce, where performance of such contingent contracts is expressly made contingent on prior authorization by the Department of Commerce.
 
-(b) *Importation of certain items previously exported to Cuba; servicing and repair of such items.* (1) All transactions ordinarily incident to the importation into the United States or a third country of items previously exported from the United States to Cuba or exported or reexported from a third country to Cuba, and the servicing and repair of such items, are authorized, provided that:
+(b) *Importation of certain items previously exported to Cuba; servicing and repair of such items.* All transactions ordinarily incident to the importation into the United States or a third country of items previously exported from the United States to Cuba or exported or reexported from a third country to Cuba, and the servicing and repair of such items, are authorized, provided that:
 
-(i) The items previously were exported or reexported to Cuba pursuant to paragraph (a) of this section or § 515.559; and
+(1) The items previously were exported or reexported to Cuba pursuant to paragraph (a) of this section or § 515.559; and
 
-(ii) The items are being imported into the United States or a third country either:
+(2) The items are being imported into the United States or a third country either:
 
-(A) In order to service or repair the items before they are exported or reexported back to Cuba, or
+(i) In order to service or repair them before they are exported or reexported back to Cuba, or
 
-(B) To return them to the United States or a third country.
+(ii) To return them to the United States or a third country.
 
 Note to paragraph (b):
 
@@ -54,4 +54,4 @@ This paragraph does not authorize the exportation or reexportation of any item t
 
 (d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to the exportation and reexportation of items to Cuba when such transactions do not qualify for the general license under paragraph (c) of this section.
 
-[81 FR 71374, Oct. 17, 2016]
+[81 FR 71374, Oct. 17, 2016, as amended at 82 FR 52000, Nov. 9, 2017]

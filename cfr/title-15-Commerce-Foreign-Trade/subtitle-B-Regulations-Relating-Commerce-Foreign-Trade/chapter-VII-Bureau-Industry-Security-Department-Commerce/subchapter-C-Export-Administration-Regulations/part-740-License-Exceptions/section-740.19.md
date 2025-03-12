@@ -64,8 +64,8 @@ d. Telephone call transactions; and
 
 (2) *Individuals.* This License Exception may be used to export eligible commodities and software to and for the use of individuals other than the following:
 
-(i) *Ineligible Cuban Government Officials.* Members of the Council of Ministers and flag officers of the Revolutionary Armed Forces.
+(i) *Ineligible Cuban Government Officials.* Ministers and Vice-Ministers; members of the Council of State; members of the Council of Ministers; members and employees of the National Assembly of People's Power; members of any provincial assembly; local sector chiefs of the Committees for the Defense of the Revolution; Director Generals and sub-Director Generals and higher of all Cuban ministries and state agencies; employees of the Ministry of the Interior (MININT); employees of the Ministry of Defense (MINFAR); secretaries and first secretaries of the Confederation of Labor of Cuba (CTC) and its component unions; chief editors, editors and deputy editors of Cuban state-run media organizations and programs, including newspapers, television, and radio; or members and employees of the Supreme Court (Tribuno Supremo Nacional).
 
 (ii) *Ineligible Cuban Communist Party Officials.* Members of the Politburo.
 
-[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016]
+[74 FR 45989, Sept. 8, 2009, as amended at 80 FR 2289, Jan. 16, 2015; 80 FR 8523, Feb. 18, 2015; 80 FR 56902, Sept. 21, 2015; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017]

@@ -16,7 +16,7 @@ The following provisions shall apply to each person while engaged in public hunt
 
 (g) The use of any drug on any arrow for bow hunting on national wildlife refuges is prohibited. Archers may not have arrows employing such drugs in their possession on any national wildlife refuge.
 
-(h) The unauthorized distribution of bait and the hunting over bait is prohibited on wildlife refuge areas. (Black bear baiting and use of bait to trap furbearers are authorized in accordance with State regulations on national wildlife refuges in Alaska.).
+(h) The unauthorized distribution of bait and the hunting over bait is prohibited on wildlife refuge areas. (Baiting is authorized in accordance with State regulations on national wildlife refuges in Alaska).
 
 (i) The use of nails, wire, screws or bolts to attach a stand to a tree, or hunting from a tree into which a metal object has been driven to support a hunter is prohibited on wildlife refuge areas.
 
@@ -26,4 +26,4 @@ The following provisions shall apply to each person while engaged in public hunt
 
 (l) The refuge-specific regulations (§ 32.20 through § 32.72) may include the items discussed in § 32.3(b). Refuge permits and brochures should also include those items and any special conditions allowed by paragraph (f) of this section.
 
-[58 FR 5064, Jan. 19, 1993, as amended at 63 FR 46914, Sept. 3, 1998; 65 FR 30777, May 12, 2000; 67 FR 58943, Sept. 18, 2002; 81 FR 52271, Aug. 5, 2016]
+[58 FR 5064, Jan. 19, 1993, as amended at 63 FR 46914, Sept. 3, 1998; 65 FR 30777, May 12, 2000; 67 FR 58943, Sept. 18, 2002; 81 FR 52271, Aug. 5, 2016; 82 FR 52010, Nov. 9, 2017]

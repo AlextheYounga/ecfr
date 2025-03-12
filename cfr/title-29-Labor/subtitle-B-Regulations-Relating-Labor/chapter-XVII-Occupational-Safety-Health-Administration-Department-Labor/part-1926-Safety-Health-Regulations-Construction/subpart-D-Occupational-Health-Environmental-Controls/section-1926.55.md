@@ -62,7 +62,7 @@ Threshold Limit Values of Airborne Contaminants for Construction
 |                                 Benzo(a)pyrene; see Coal tar pitch volatiles                                 |                    |                |                  |                |
 |                                               Benzoyl peroxide                                               |      94-36-0       |       \-       |        5         |       \-       |
 |                                               Benzyl chloride                                                |      100-44-7      |       1        |        5         |       \-       |
-|                    Beryllium and beryllium compounds (as Be); see 1926.1124<sup>(q)</sup>                    |     7440-41-7      |                |      0.002       |       \-       |
+|                         Beryllium and beryllium compounds (as Be); see 1926.1124 (q)                         |     7440-41-7      |       \-       |      0.002       |       \-       |
 |                                            Biphenyl; see Diphenyl                                            |                    |                |                  |                |
 |                                      Bisphenol A; see Diglycidyl ether                                       |                    |                |                  |                |
 |                                                 Boron oxide                                                  |     1303-86-2      |                |                  |                |
@@ -510,8 +510,8 @@ Threshold Limit Values of Airborne Contaminants for Construction
 |              Silica, amorphous, diatomaceous earth, containing less than 1% crystalline silica               |     61790-53-2     | (<sup>2</sup>) |  (<sup>2</sup>)  | (<sup>2</sup>) |
 |                                     Silica, crystalline, respirable dust                                     |                    |                |                  |                |
 |                                         Cristobalite; see 1926.1153                                          |     14464-46-1     |                |                  |                |
-|                                           Quartz; see 1926.1153 5                                            |     14808-60-7     |                |                  |                |
-|                                     Tripoli (as quartz); see 1926.1153 5                                     |     1317-95-9      |                |                  |                |
+|                                      Quartz; see 1926.1153<sup>5</sup>                                       |     14808-60-7     |                |                  |                |
+|                                Tripoli (as quartz); see 1926.1153<sup>5</sup>                                |     1317-95-9      |                |                  |                |
 |                                           Tridymite; see 1926.1153                                           |     15468-32-3     |                |                  |                |
 |                                        Silica, fused, respirable dust                                        |     60676-86-0     | (<sup>2</sup>) |  (<sup>2</sup>)  | (<sup>2</sup>) |
 |                                 Silicates (less than 1% crystalline silica)                                  |                    |                |                  |                |
@@ -672,11 +672,11 @@ Footnotes
 
 <sup>d</sup> The CAS number is for information only. Enforcement is based on the substance name. For an entry covering more than one metal compound, measured as the metal, the CAS number for the metal is given - not CAS numbers for the individual compounds.
 
-<sup>e-f</sup> [Reserved]
+e-f [Reserved]
 
 <sup>g</sup> For sectors excluded from § 1926.1128 the limit is 10 ppm TWA.
 
-<sup>h-i</sup> [Reserved]
+h-i [Reserved]
 
 <sup>j</sup> Millions of particles per cubic foot of air, based on impinger samples counted by light-field techniques.
 

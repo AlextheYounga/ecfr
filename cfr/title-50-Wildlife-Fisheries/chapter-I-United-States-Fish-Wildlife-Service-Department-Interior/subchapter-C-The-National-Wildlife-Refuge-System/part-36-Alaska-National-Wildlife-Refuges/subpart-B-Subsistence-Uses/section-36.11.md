@@ -6,6 +6,8 @@
 
 (c) Nonwasteful subsistence uses of fish, wildlife and other renewable resources by local rural residents shall be the priority consumptive uses of such resources over any other consumptive uses permitted within Alaska National Wildlife Refuge areas.
 
-(d) Nothing in this subpart shall be construed as permitting the level of subsistence uses of fish and wildlife within Alaska National Wildlife Refuges to be inconsistent with the conservation of healthy populations of fish and wildlife.
+(d) The State of Alaska is authorized to regulate the taking of fish and wildlife for subsistence uses within Alaska National Wildlife Refuges to the extent such regulation is consistent with applicable Federal law, including but not limited to ANILCA.
 
-[46 FR 31827, June 17, 1981, as amended at 81 FR 52272, Aug. 5, 2016]
+(e) Nothing in this subpart shall be construed as permitting the level of subsistence uses of fish and wildlife within Alaska National Wildlife Refuges to be inconsistent with the conservation of healthy populations of fish and wildlife.
+
+[46 FR 31827, June 17, 1981, as amended at 81 FR 52272, Aug. 5, 2016; 82 FR 52010, Nov. 9, 2017]

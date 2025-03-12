@@ -28,9 +28,9 @@
 
 (b) Effective October 28, 2000, no specific licenses will be issued authorizing the travel-related transactions in paragraph (c) of this section in connection with activities other than those referenced in paragraph (a) of this section.
 
-(c) Persons generally or specifically licensed under this part to engage in transactions in connection with travel to, from, and within Cuba may engage in the following transactions:
+(c) Except as provided in paragraph (d) of this section, persons generally or specifically licensed under this part to engage in transactions in connection with travel to, from, and within Cuba may engage in the following transactions:
 
-(1) *Transportation to and from Cuba.* All transportation-related transactions ordinarily incident to travel to and from (not within) Cuba are authorized.
+(1) *Transportation to, from, and within Cuba; Cuban visas.* All transportation-related transactions ordinarily incident to travel to, from, and within Cuba, including the acquisition of Cuban visas, are authorized.
 
 (2) *Living expenses in Cuba.* All transactions ordinarily incident to travel within Cuba, including payment of living expenses and the acquisition in Cuba of goods for personal consumption there, are authorized.
 
@@ -52,7 +52,9 @@ Note to paragraph (c)(6):
 
 Account(s) authorized by this general license may only be accessed while the account holder is located in Cuba for travel authorized pursuant to this part. The account(s) may not be accessed or utilized by the account holder unless the account holder is located in Cuba and is engaging in authorized transactions. The account(s) may be maintained but not accessed while the account holder is located outside of Cuba other than for the purpose of funding or closing the bank account as authorized in paragraph (c)(6).
 
-(d) A blocked Cuban national permanently resident in Cuba who is departing the United States may carry currency as follows:
+(d) Nothing in paragraphs (c)(2), (c)(3), and (c)(6)(i) of this section authorizes a direct financial transaction prohibited by § 515.209 if the terms of the applicable general or specific license expressly exclude such a transaction.
+
+(e) A blocked Cuban national permanently resident in Cuba who is departing the United States may carry currency as follows:
 
 (1) The amount of any currency brought into the United States by the Cuban national and registered with U.S. Customs and Border Protection upon entry;
 
@@ -76,4 +78,4 @@ Note 3 to § 515.560:
 
 The export or reexport to Cuba of goods (including software) or technology subject to the Export Administration Regulations (15 CFR parts 730 through 774) may require separate authorization from the Department of Commerce.
 
-[64 FR 25814, May 13, 1999, as amended at 66 FR 36688, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 69 FR 33771, 33773, June 16, 2004; 74 FR 46006, Sept. 8, 2009; 76 FR 5074, Jan. 28, 2011; 80 FR 2295, Jan. 16, 2015; 80 FR 56922, Sept. 21, 2015; 81 FR 13992, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016]
+[64 FR 25814, May 13, 1999, as amended at 66 FR 36688, July 12, 2001; 68 FR 14146, Mar. 24, 2003; 69 FR 33771, 33773, June 16, 2004; 74 FR 46006, Sept. 8, 2009; 76 FR 5074, Jan. 28, 2011; 80 FR 2295, Jan. 16, 2015; 80 FR 56922, Sept. 21, 2015; 81 FR 13992, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017]

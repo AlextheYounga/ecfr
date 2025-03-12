@@ -50,4 +50,6 @@ The importation from Cuba and the exportation to Cuba of information or informat
 
 (e) Section 515.564(a)(2) authorizes the travel-related transactions set forth in § 515.560(c) and such additional transactions that are directly incident to attendance at or organization of professional meetings that are necessary and ordinarily incident to the publishing and marketing of written publications.
 
-[72 FR 50048, Aug. 30, 2007, as amended at 76 FR 5077, Jan. 28, 2011; 81 FR 13994, Mar. 16, 2016]
+(f) *Certain direct financial transactions restricted.* Nothing in this section authorizes a direct financial transaction prohibited by § 515.209.
+
+[72 FR 50048, Aug. 30, 2007, as amended at 76 FR 5077, Jan. 28, 2011; 81 FR 13994, Mar. 16, 2016; 82 FR 52003, Nov. 9, 2017]

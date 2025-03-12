@@ -148,8 +148,6 @@ iv. Ponds A5, A7, and A8N in the Alviso Unit. These ponds are located on the sou
 
 8. Persons possessing, transporting, or carrying firearms on the refuge must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in this part 32). We prohibit target practice on the refuge or any nonhunting discharge of any firearm (see § 27.42 of this chapter).
 
-8. Persons possessing, transporting, or carrying firearms on the refuge must comply with all provisions of State and local law. Persons may only use (discharge) firearms in accordance with refuge regulations (see § 27.42 of this chapter and specific refuge regulations in this part 32). We prohibit target practice on the refuge or any nonhunting discharge of any firearm (see § 27.42 of this chapter).
-
 9. At the Ravenswood Unit only, we only allow portable blinds or construction of temporary blinds of natural materials that readily decompose. We prohibit collection of these natural materials from the refuge (see § 27.51 of this chapter). You must remove portable blinds (see §§ 27.93 and 27.94 of this chapter) by legal sunset. Temporary blinds become available for general use on a first-come, first-served basis on subsequent days. We prohibit permanent blinds, pit blinds, or digging into the levees (see § 27.92 of this chapter). We prohibit entry into closed areas of the refuge prior to the hunt season in order to scout for hunting sites or to build blinds.
 
 *B. Upland Game Hunting.* [Reserved]

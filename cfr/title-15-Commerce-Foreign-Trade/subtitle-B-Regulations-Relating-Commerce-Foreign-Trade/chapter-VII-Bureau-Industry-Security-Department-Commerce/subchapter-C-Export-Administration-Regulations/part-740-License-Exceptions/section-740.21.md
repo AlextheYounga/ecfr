@@ -4,13 +4,15 @@
 
 (b) *Improving living conditions and supporting independent economic activity.* This paragraph authorizes the export or reexport to Cuba of items designated as EAR99, or controlled on the Commerce Control List (CCL) (supplement no. 1 to part 774 of the EAR) only for anti-terrorism reasons (*i.e.,* anti-terrorism must be the only reason for control that applies to the item as set forth in the Export Control Classification Number (ECCN) that controls the item). If any other reason for control applies to the item, it is not authorized for export or reexport by this paragraph. The item must be within one or more of the following categories:
 
-(1) Building materials, equipment, and tools for use by the private sector to construct or renovate *privately-owned* buildings, including privately-owned residences, businesses, places of worship and buildings for private sector social or recreational use;
+(1) Items for use by the Cuban private sector for private sector economic activities, except for items that would be used to:
 
-(2) Tools and equipment for private sector agricultural activity;
+(i) Primarily generate revenue for the state; or
 
-(3) Tools, equipment, supplies, and instruments for use by private sector entrepreneurs; or
+(ii) Contribute to the operation of the state, including through the construction or renovation of state-owned buildings.
 
-(4) Items sold directly to individuals in Cuba for their personal use or their immediate family's personal use, other than officials identified in paragraphs (d)(4)(ii) or (iii) of this section.
+(2) Items sold directly to individuals in Cuba for their personal use or their immediate family's personal use, other than officials identified in paragraphs (d)(4)(ii) or (iii) of this section.
+
+(2) Items sold directly to individuals in Cuba for their personal use or their immediate family's personal use, other than officials identified in paragraphs (d)(4)(ii) or (iii) of this section.
 
 (c) *Strengthening civil society.* This paragraph authorizes the export or reexport to Cuba of certain items for use in specified activities that can strengthen civil society. The items authorized pursuant this paragraph are limited to those designated as EAR99 or controlled only for anti-terrorism reasons on the CCL (*i.e.,* anti-terrorism must be the only reason for control that applies to the item as set forth in the ECCN that controls the item). If any other reason for control applies to the item, it is not authorized for export or reexport by this paragraph. The export or reexport must be within one or more of the following categories:
 
@@ -54,7 +56,7 @@
 
 (i) The Cuban Government or the Cuban Communist Party and organizations they administer or control;
 
-(ii) Members of the Council of Ministers and flag officers of the Revolutionary Armed Forces; and
+(ii) Ministers and Vice-Ministers; members of the Council of State; members of the Council of Ministers; members and employees of the National Assembly of People's Power; members of any provincial assembly; local sector chiefs of the Committees for the Defense of the Revolution; Director Generals and sub-Director Generals and higher of all Cuban ministries and state agencies; employees of the Ministry of the Interior (MININT); employees of the Ministry of Defense (MINFAR); secretaries and first secretaries of the Confederation of Labor of Cuba (CTC) and its component unions; chief editors, editors and deputy editors of Cuban state-run media organizations and programs, including newspapers, television, and radio; or members and employees of the Supreme Court (Tribuno Supremo Nacional); and
 
 (iii) Members of the Politburo.
 
@@ -96,4 +98,4 @@ Any resulting payments associated with establishing or maintaining a physical or
 
 (5) *Containers.* Containers that would require a license for export or reexport to Cuba but that are necessary for shipment of commodities being exported to Cuba under a license or license exception may be exported or reexported to Cuba. However, this paragraph (f) does not authorize the export of the container's contents, which, if not exempt from licensing, must be separately authorized for export or reexport under either a license or a license exception.
 
-[80 FR 2289, Jan. 16, 2015, as amended at 80 FR 56902, Sept. 21, 2015; 81 FR 13974, Mar. 16, 2016; 81 FR 71367, Oct. 17, 2016]
+[80 FR 2289, Jan. 16, 2015, as amended at 80 FR 56902, Sept. 21, 2015; 81 FR 13974, Mar. 16, 2016; 81 FR 71367, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017]

@@ -1,10 +1,10 @@
 ##### § 740.12 Gift parcels and humanitarian donations (GFT). #####
 
-(a) *Gift parcels* - (1) *Scope.* The provisions of paragraph (a) authorize exports and reexports of gift parcels by an individual (donor) addressed to an individual, or a religious, charitable or educational organization (donee) located in any destination for the use of the donee or the donee's immediate family (and not for resale). The gift parcel must be provided free of charge to the donee. However, payment by the donee of any handling charges or of any fees levied by the importing country (e.g., import duties, taxes, etc.) is not considered to be a cost to the donee for purposes of this definition of “gift parcel.”1
+(a) *Gift parcels*—(1) *Scope.* The provisions of paragraph (a) authorize exports and reexports of gift parcels by an individual (donor) addressed to an individual, or a religious, charitable or educational organization (donee) located in any destination for the use of the donee or the donee's immediate family (and not for resale). The gift parcel must be provided free of charge to the donee. However, payment by the donee of any handling charges or of any fees levied by the importing country (e.g., import duties, taxes, etc.) is not considered to be a cost to the donee for purposes of this definition of “gift parcel.”1
 
 1 Many foreign countries permit the entry, duty-free, of gift parcels that conform to regulations regarding contents and marking. To secure this advantage, the sender should show the words “U.S.A. Gift Parcel” on the addressee side of the package and on any required customs declarations. Information regarding the foreign postal regulations is available at local post offices. Senders of gift parcels who wish information regarding import duties of a foreign country should contact the nearest Commercial Office, Consulate or Embassy of the country concerned.
 
-(2) *Commodity, value and other limitations* - (i) *Item limitations* - (A) *Prohibited items.* (*1*) For Cuba no items listed on the Commerce Control List other than items listed in § 740.19(b) of the EAR may be included in a gift parcel.
+(2) *Commodity, value and other limitations*—(i) *Item limitations*—(A) *Prohibited items.* (*1*) For Cuba no items listed on the Commerce Control List other than items listed in § 740.19(b) of the EAR may be included in a gift parcel.
 
 (*2*) For all destinations, no items controlled for chemical and biological weapons (CB), missile technology (MT), national security (NS), nuclear proliferation (NP) or encryption items (EI) reasons on the Commerce Control List (supplement no. 1 to part 774 of the EAR) may be included in a gift parcel.
 
@@ -26,7 +26,7 @@ Example to paragraph (a)(2)(i)(B) of this section.A watch or piece of jewelry is
 
 (iv) *Value.* The combined total domestic retail value of all commodities and software in a single gift parcel may not exceed $800. This limit does not apply to food sent in a gift parcel to Cuba.
 
-(v) *Ineligible recipients.* (A) No gift parcel may be sent to any member of the Council of Ministers or flag officer of the Revolutionary Armed Forces.
+(v) *Ineligible recipients.* (A) No gift parcel may be sent to any of the following officials of the Cuban government: Ministers and Vice-Ministers; members of the Council of State; members of the Council of Ministers; members and employees of the National Assembly of People's Power; members of any provincial assembly; local sector chiefs of the Committees for the Defense of the Revolution; Director Generals and sub-Director Generals and higher of all Cuban ministries and state agencies; employees of the Ministry of the Interior (MININT); employees of the Ministry of Defense (MINFAR); secretaries and first secretaries of the Confederation of Labor of Cuba (CTC) and its component unions; chief editors, editors and deputy editors of Cuban state-run media organizations and programs, including newspapers, television, and radio; or members and employees of the Supreme Court (Tribuno Supremo Nacional).
 
 (B) No gift parcel may be sent to any member of the Politburo.
 
@@ -34,9 +34,9 @@ Example to paragraph (a)(2)(i)(B) of this section.A watch or piece of jewelry is
 
 (3) *How to export gift parcels.* (i) A gift parcel must be sent directly to the donee by the individual donor, or for such donor by a commercial or other gift-forwarding service or organization. Each gift parcel must show, on the outside wrapper, the name and address of the donor, as well as the name and address of the donee, regardless of whether sent by the donor or by a forwarding service.
 
-(ii) Each parcel must have the notation “GIFT - Export License Not Required” written on the addressee side of the package and the symbol “GFT” written on any required customs declaration.
+(ii) Each parcel must have the notation “GIFT—Export License Not Required” written on the addressee side of the package and the symbol “GFT” written on any required customs declaration.
 
-(b) *Humanitarian donations* - (1) *Scope.* The provisions of paragraph (b) authorize exports or reexports by groups or organizations of donations to meet basic human needs when those groups or organizations have experience in maintaining a verifiable system of distribution that ensures delivery to the intended beneficiaries.
+(b) *Humanitarian donations*—(1) *Scope.* The provisions of paragraph (b) authorize exports or reexports by groups or organizations of donations to meet basic human needs when those groups or organizations have experience in maintaining a verifiable system of distribution that ensures delivery to the intended beneficiaries.
 
 (2) *Basic human needs.* Basic human needs are defined as those requirements essential to individual well-being: health, food, clothing, shelter, and education. These needs are considered to extend beyond those of an emergency nature and those that meet direct needs for mere subsistence.
 
@@ -72,4 +72,4 @@ Example to paragraph (a)(2)(i)(B) of this section.A watch or piece of jewelry is
 
 (v) Information concerning the source of funding for the donative programs and the projected annual value of exports of humanitarian donations.
 
-[61 FR 64282, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996; 62 FR 25458, May 9, 1997; 69 FR 5690, Feb. 6, 2004; 69 FR 34566, June 22, 2004; 72 FR 3945, Jan. 29, 2007; 72 FR 43531, Aug. 6, 2007; 73 FR 35, Jan. 2, 2008; 73 FR 33673, June 13, 2008; 73 FR 49328, Aug. 21, 2008; 74 FR 45988, Sept. 3, 2009; 79 FR 32624, June 5, 2014; 80 FR 2289, Jan. 16, 2015; 81 FR 71366, Oct. 17, 2016]
+[61 FR 64282, Dec. 4, 1996. Redesignated at 61 FR 68579, Dec. 30, 1996; 62 FR 25458, May 9, 1997; 69 FR 5690, Feb. 6, 2004; 69 FR 34566, June 22, 2004; 72 FR 3945, Jan. 29, 2007; 72 FR 43531, Aug. 6, 2007; 73 FR 35, Jan. 2, 2008; 73 FR 33673, June 13, 2008; 73 FR 49328, Aug. 21, 2008; 74 FR 45988, Sept. 3, 2009; 79 FR 32624, June 5, 2014; 80 FR 2289, Jan. 16, 2015; 81 FR 71366, Oct. 17, 2016; 82 FR 51985, Nov. 9, 2017]

@@ -188,12 +188,12 @@
 
 (iv) Application of safe shut-down and securing procedures.
 
-(k) *Phase-in.* (1) The provisions of this section became applicable on November 8, 2010, except for paragraphs (a)(2) and (f), which are applicable November 10, 2017.
+(k) *Phase-in.* (1) The provisions of this section became applicable on November 8, 2010, except for paragraphs (a)(2) and (f) of this section, which are applicable November 10, 2018.
 
-(2) When § 1926.1427(a)(1) is not applicable, all of the requirements in paragraphs (k)(2)(i) and (ii) of this section apply until November 10, 2017.
+(2) When paragraph (a)(1) of this section is not applicable, all of the requirements in paragraphs (k)(2)(i) and (ii) of this section apply until November 10, 2018.
 
 (i) The employer must ensure that operators of equipment covered by this standard are competent to operate the equipment safely.
 
 (ii) When an employee assigned to operate machinery does not have the required knowledge or ability to operate the equipment safely, the employer must train that employee prior to operating the equipment. The employer must ensure that each operator is evaluated to confirm that he/she understands the information provided in the training.
 
-[75 FR 48135, Aug. 9, 2010, as amended at 79 FR 57798, Sept. 26, 2014]
+[75 FR 48135, Aug. 9, 2010, as amended at 79 FR 57798, Sept. 26, 2014; 82 FR 51997, Nov. 9, 2017]

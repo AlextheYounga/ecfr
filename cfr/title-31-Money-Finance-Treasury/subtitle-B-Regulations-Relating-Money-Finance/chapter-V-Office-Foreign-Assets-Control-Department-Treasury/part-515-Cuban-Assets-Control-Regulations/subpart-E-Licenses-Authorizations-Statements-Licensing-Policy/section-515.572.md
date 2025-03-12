@@ -1,6 +1,6 @@
 ##### § 515.572 Provision of travel, carrier, other transportation-related, and remittance forwarding services. #####
 
-(a) *General licenses* - (1) *Authorization to provide travel services.* Persons subject to U.S. jurisdiction are authorized to provide travel services in connection with travel-related transactions involving Cuba authorized pursuant to this part.
+(a) *General licenses* - (1) *Authorization to provide travel services.* Persons subject to U.S. jurisdiction are authorized to provide travel services in connection with travel-related transactions involving Cuba authorized pursuant to this part. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209 if the terms of the applicable general or specific license authorizing the travel expressly exclude such a transaction.
 
 (2) *Authorization to provide carrier services.* (i) Persons subject to U.S. jurisdiction are authorized to provide carrier services to, from, or within Cuba in connection with travel or transportation, directly or indirectly, between the United States and Cuba of persons, baggage, or cargo authorized pursuant to this part.
 
@@ -40,4 +40,4 @@ The following persons may be transported, directly or indirectly, between the Un
 
 (5) An individual, including a foreign national, who is traveling on official business of the U.S. government, a foreign government, or an intergovernmental organization of which the United States is a member or in which the United States holds observer status - including an employee, contractor, or grantee of such government or intergovernmental organization and any individual traveling on a diplomatic passport, as well as any close relative, as defined in § 515.339, accompanying the traveler - may be transported between the United States and Cuba.
 
-[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016]
+[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017]

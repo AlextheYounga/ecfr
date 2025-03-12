@@ -32,6 +32,8 @@ Each person relying on the general authorization in this paragraph must retain s
 
 Example to § 515.564(b):A musicologist travels to Cuba to research Cuban music pursuant to the general license for professional research set forth in paragraph (a) of this section. Others who are simply interested in music may not engage in travel-related transactions with the musicologist in reliance on this general license. For example, an art historian who plays in the same band with the musicologist would not qualify for the general license.
 
-(c) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to professional research or professional meetings in Cuba that do not qualify for the general license under paragraph (a) of this section.
+(c) *Certain direct financial transactions restricted.* Nothing in paragraph (a) of this section authorizes a direct financial transaction prohibited by § 515.209.
 
-[80 FR 2296, Jan. 16, 2015, as amended at 81 FR 4585, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016]
+(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to professional research or professional meetings in Cuba that do not qualify for the general license under paragraph (a) of this section.
+
+[80 FR 2296, Jan. 16, 2015, as amended at 81 FR 4585, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52000, Nov. 9, 2017]

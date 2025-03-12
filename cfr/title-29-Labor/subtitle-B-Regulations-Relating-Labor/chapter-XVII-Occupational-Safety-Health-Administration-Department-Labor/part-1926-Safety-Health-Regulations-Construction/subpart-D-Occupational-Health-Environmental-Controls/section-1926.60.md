@@ -310,7 +310,9 @@ DANGERCONTAINS MDACONTAINS MATERIALS WHICH MAY CAUSE CANCERLIVER TOXIN
 
 (C) Laboratory tests including:
 
-(*1*) Liver function tests and (*2*) Urinalysis.
+(*1*) Liver function tests and
+
+(*2*) Urinalysis.
 
 (D) Additional tests as necessary in the opinion of the physician.
 

@@ -20,6 +20,8 @@ Transactions incident to the organization of amateur and semi-professional inter
 
 (c) An entire group does not qualify for the general license in paragraph (a) or (b) of this section merely because some members of the group qualify individually.
 
-(d) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to public performances, clinics, workshops, athletic and other competitions, and exhibitions that do not qualify for the general licenses under paragraphs (a) or (b) of this section.
+(d) Nothing in paragraph (a) or (b) of this section authorizes a direct financial transaction prohibited by § 515.209.
 
-[80 FR 2298, Jan. 16, 2015, as amended at 81 FR 4585, Jan. 27, 2016]
+(e) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the travel-related transactions set forth in § 515.560(c) and such other transactions as are related to public performances, clinics, workshops, athletic and other competitions, and exhibitions that do not qualify for the general licenses under paragraphs (a) or (b) of this section.
+
+[80 FR 2298, Jan. 16, 2015, as amended at 81 FR 4585, Jan. 27, 2016; 82 FR 52003, Nov. 9, 2017]

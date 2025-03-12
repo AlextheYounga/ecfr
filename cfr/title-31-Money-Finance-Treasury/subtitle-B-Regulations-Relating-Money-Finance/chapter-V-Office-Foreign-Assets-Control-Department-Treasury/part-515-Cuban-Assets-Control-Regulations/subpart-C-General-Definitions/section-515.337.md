@@ -1,5 +1,5 @@
 ##### § 515.337 Prohibited officials of the Government of Cuba. #####
 
-For purposes of this part, the term *prohibited officials of the Government of Cuba* means members of the Council of Ministers and flag officers of the Revolutionary Armed Forces.
+For purposes of this part, the term *prohibited officials of the Government of Cuba* means Ministers and Vice-Ministers; members of the Council of State and the Council of Ministers; members and employees of the National Assembly of People's Power; members of any provincial assembly; local sector chiefs of the Committees for the Defense of the Revolution; Director Generals and sub-Director Generals and higher of all Cuban ministries and state agencies; employees of the Ministry of the Interior (MININT); employees of the Ministry of Defense (MINFAR); secretaries and first secretaries of the Confederation of Labor of Cuba (CTC) and its component unions; chief editors, editors, and deputy editors of Cuban state-run media organizations and programs, including newspapers, television, and radio; and members and employees of the Supreme Court (Tribuno Supremo Nacional).
 
-[81 FR 71374, Oct. 17, 2016]
+[82 FR 51999, Nov. 9, 2017]

@@ -11,3 +11,7 @@
 (b) No instrument which authorizes the conveyance, transfer, release, sale or other disposition of any property may be exported under this section unless it contains an express stipulation that such authority may not be exercised if the value of such property exceeds the sum of $5,000 or the equivalent thereof in foreign currency.
 
 (c) As used in this section, the term *tangible personal property* shall not include cash, bullion, deposits, credits, securities, patents, trademarks, or copyrights.
+
+(d) *Certain direct financial transactions restricted.* Nothing in this section authorizes a direct financial transaction prohibited by § 515.209.
+
+[28 FR 6974, July 9, 1963, as amended at 82 FR 52000, Nov. 9, 2017]

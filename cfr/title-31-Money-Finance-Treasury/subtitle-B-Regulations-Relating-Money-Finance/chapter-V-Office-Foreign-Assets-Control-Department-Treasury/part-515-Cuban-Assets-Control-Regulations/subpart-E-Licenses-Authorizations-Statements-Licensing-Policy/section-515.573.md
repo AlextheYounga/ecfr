@@ -62,8 +62,12 @@ This authorization does not allow persons subject to U.S. jurisdiction to establ
 
 (2) Specific licenses may be issued authorizing transactions necessary for the establishment and operation of news bureaus in the United States by Cuban organizations whose primary purpose is the gathering and dissemination of news to the general public.
 
+(f) *Certain direct financial transactions restricted.* (1) Nothing in paragraph (c)(3) of this section, with the exception of transactions related to exports or reexports of agricultural commodities, medicines or medical supplies, items associated with the provision of telecommunications and internet services for the Cuban people, or items associated with air and sea operations that support permissible travel, cargo, or trade, authorizes a direct financial transaction prohibited by § 515.209. Nothing in paragraph (c)(5) of this section, with the exception of transactions concerning air and sea operations that support permissible travel, cargo, or trade, authorizes a direct financial transaction prohibited by § 515.209.
+
+(2) Nothing in paragraph (d)(2), (3), or (6) of this section authorizes a direct financial transaction prohibited by § 515.209.
+
 Note to § 515.573:
 
 The export or reexport to Cuba of items subject to the Export Administration Regulations (15 CFR parts 730 through 774) may require separate authorization from the Department of Commerce.
 
-[80 FR 56924, Sept. 21, 2015, as amended at 81 FR 13993, Mar. 16, 2016]
+[80 FR 56924, Sept. 21, 2015, as amended at 81 FR 13993, Mar. 16, 2016; 82 FR 52003, Nov. 9, 2017]

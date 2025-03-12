@@ -52,10 +52,12 @@ This paragraph does not authorize U.S.-owned or -controlled firms in third count
 
 (2) The employment of Cuban nationals to develop mobile applications is authorized.
 
-(f) *Specific licenses.* Specific licenses may be issued on a case-by-case basis for the exportation of other internet-based services.
+(f) *Certain direct financial transactions restricted.* Nothing in paragraphs (d) or (e) authorizes a direct financial transaction prohibited by § 515.209.
+
+(g) *Specific licenses.* Specific licenses may be issued on a case-by-case basis for the exportation of other internet-based services.
 
 Note to § 515.578:
 
 For general licenses authorizing physical and business presence in Cuba for certain persons, see § 515.573. An authorization related to business presence was previously included in this section. For an authorization of certain telecommunications-related services, see § 515.542.
 
-[80 FR 2300, Jan. 16, 2015, as amended at 80 FR 56925, Sept. 21, 2015; 81 FR 13994, Mar. 16, 2016; 81 FR 71377, Oct. 17, 2016]
+[80 FR 2300, Jan. 16, 2015, as amended at 80 FR 56925, Sept. 21, 2015; 81 FR 13994, Mar. 16, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52004, Nov. 9, 2017]
