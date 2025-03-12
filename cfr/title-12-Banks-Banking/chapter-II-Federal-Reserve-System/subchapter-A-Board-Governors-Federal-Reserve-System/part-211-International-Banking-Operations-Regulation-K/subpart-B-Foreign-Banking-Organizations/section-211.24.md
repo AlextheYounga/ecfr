@@ -1,8 +1,6 @@
 ##### § 211.24 Approval of offices of foreign banks; procedures for applications; standards for approval; representative office activities and standards for approval; preservation of existing authority. #####
 
-Link to an amendment published at 84 FR 21692, May 15, 2019.
-
-(a) *Board approval of offices of foreign banks* - (1) *Prior Board approval of branches, agencies, commercial lending companies, or representative offices of foreign banks.* (i) Except as otherwise provided in paragraphs (a)(2) and (a)(3) of this section, a foreign bank shall obtain the approval of the Board before it:
+(a) *Board approval of offices of foreign banks*—(1) *Prior Board approval of branches, agencies, commercial lending companies, or representative offices of foreign banks.* (i) Except as otherwise provided in paragraphs (a)(2) and (a)(3) of this section, a foreign bank shall obtain the approval of the Board before it:
 
 (A) Establishes a branch, agency, commercial lending company subsidiary, or representative office in the United States; or
 
@@ -62,9 +60,9 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (8) *Transactions subject to approval under Regulation Y.* Subpart B of Regulation Y (12 CFR 225.11-225.17) governs the acquisition by a foreign banking organization of direct or indirect ownership or control of any voting securities of a bank or bank holding company in the United States if the acquisition results in the foreign banking organization's ownership or control of more than 5 percent of any class of voting securities of a U.S. bank or bank holding company, including through acquisition of a foreign bank or foreign banking organization that owns or controls more than 5 percent of any class of the voting securities of a U.S. bank or bank holding company.
 
-(b) *Procedures for application* - (1) *Filing application.* An application for the Board's approval pursuant to this section shall be filed in the manner prescribed by the Board.
+(b) *Procedures for application*—(1) *Filing application.* An application for the Board's approval pursuant to this section shall be filed in the manner prescribed by the Board.
 
-(2) *Publication requirement* - (i) *Newspaper notice.* Except with respect to a proposed transaction where more extensive notice is required by statute or as otherwise provided in paragraphs (b)(2)(ii) and (iii) of this section, an applicant under this section shall publish a notice in a newspaper of general circulation in the community in which the applicant proposes to engage in business.
+(2) *Publication requirement*—(i) *Newspaper notice.* Except with respect to a proposed transaction where more extensive notice is required by statute or as otherwise provided in paragraphs (b)(2)(ii) and (iii) of this section, an applicant under this section shall publish a notice in a newspaper of general circulation in the community in which the applicant proposes to engage in business.
 
 (ii) *Contents of notice.* The newspaper notice shall:
 
@@ -82,7 +80,7 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (ii) The Board may extend the 30-day comment period if the Board determines that additional relevant information is likely to be provided by interested persons, or if other extenuating circumstances exist.
 
-(4) *Board action on application.* (i) *Time limits.* (A) The Board shall act on an application from a foreign bank to establish a branch, agency, or commercial lending company subsidiary within 180 calendar days after the receipt of the application.
+(4) *Board action on application*—(i) *Time limits.* (A) The Board shall act on an application from a foreign bank to establish a branch, agency, or commercial lending company subsidiary within 180 calendar days after the receipt of the application.
 
 (B) The Board may extend for an additional 180 calendar days the period within which to take final action, after providing notice of and reasons for the extension to the applicant and the licensing authority.
 
@@ -92,7 +90,7 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (5) *Coordination with other regulators.* Upon receipt of an application by a foreign bank under this section, the Board shall promptly notify, consult with, and consider the views of the licensing authority.
 
-(c) *Standards for approval of U.S. offices of foreign banks* - (1) *Mandatory standards* - (i) *General.* As specified in section 7(d) of the IBA (12 U.S.C. 3105(d)), the Board may not approve an application to establish a branch or an agency, or to establish or acquire ownership or control of a commercial lending company, unless it determines that:
+(c) *Standards for approval of U.S. offices of foreign banks*—(1) *Mandatory standards*—(i) *General.* As specified in section 7(d) of the IBA (12 U.S.C. 3105(d)), the Board may not approve an application to establish a branch or an agency, or to establish or acquire ownership or control of a commercial lending company, unless it determines that:
 
 (A) Each of the foreign bank and any parent foreign bank engages directly in the business of banking outside the United States and, except as provided in paragraph (c)(1)(iii) of this section, is subject to comprehensive supervision or regulation on a consolidated basis by its home country supervisor; and
 
@@ -154,7 +152,7 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (4) *Board conditions on approval.* The Board may impose any conditions on its approval as it deems necessary, including a condition which may permit future termination by the Board of any activities or, in the case of a federal branch or a federal agency, by the Comptroller, based on the inability of the foreign bank to provide information on its activities or those of its affiliates that the Board deems necessary to determine and enforce compliance with U.S. banking laws.
 
-(d) *Representative offices* - (1) *Permissible activities.* A representative office may engage in:
+(d) *Representative offices*—(1) *Permissible activities.* A representative office may engage in:
 
 (i) *Representational and administrative functions.* Representational and administrative functions in connection with the banking activities of the foreign bank, which may include soliciting new business for the foreign bank; conducting research; acting as liaison between the foreign bank's head office and customers in the United States; performing preliminary and servicing steps in connection with lending;11 or performing back-office functions; but shall not include contracting for any deposit or deposit-like liability, lending money, or engaging in any other banking activity for the foreign bank;
 
@@ -184,7 +182,7 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (i) *Protection of customer information and consumer information.* An uninsured state-licensed branch or agency of a foreign bank shall comply with the Interagency Guidelines Establishing Information Security Standards prescribed pursuant to sections 501 and 505 of the Gramm-Leach-Bliley Act (15 U.S.C. 6801 and 6805) and, with respect to the proper disposal of consumer information, section 216 of the Fair and Accurate Credit Transactions Act of 2003 (15 U.S.C. 1681w), set forth in appendix D-2 to part 208 of this chapter.
 
-(j) *Procedures for monitoring Bank Secrecy Act compliance* - (1) *Establishment of Compliance Program.* Except for a Federal branch or a Federal agency or a state branch that is insured by the FDIC, a branch, agency, or representative office of a foreign bank operating in the United States shall, in accordance with the provisions of § 208.63 of the Board's Regulation H, 12 CFR 208.63, develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the provisions of subchapter II of chapter 53 of title 31, United States Code, the Bank Secrecy Act, and the implementing regulations promulgated thereunder by the Department of the Treasury at 31 CFR part 103. The compliance program shall be reduced to writing, and either:
+(j) *Procedures for monitoring Bank Secrecy Act compliance*—(1) *Establishment of Compliance Program.* Except for a Federal branch or a Federal agency or a state branch that is insured by the FDIC, a branch, agency, or representative office of a foreign bank operating in the United States shall, in accordance with the provisions of § 208.63 of the Board's Regulation H, 12 CFR 208.63, develop and provide for the continued administration of a program reasonably designed to assure and monitor compliance with the provisions of subchapter II of chapter 53 of title 31, United States Code, the Bank Secrecy Act, and the implementing regulations promulgated thereunder by the Department of the Treasury at 31 CFR part 103. The compliance program shall be reduced to writing, and either:
 
 (i) Approved by the foreign bank's board of directors and noted in the minutes, or
 
@@ -192,6 +190,4 @@ Link to an amendment published at 84 FR 21692, May 15, 2019.
 
 (2) *Customer identification program.* Except for a federal branch or a federal agency or a state branch that is insured by the FDIC, a branch, agency, or representative office of a foreign bank operating in the United States is subject to the requirements of 31 U.S.C. 5318(l) and the implementing regulation jointly promulgated by the Board and the Department of the Treasury at 31 CFR 103.121, which require a customer identification program.
 
-(k) *Registration of residential mortgage loan originators.* An uninsured State-licensed branch or agency of a foreign bank or commercial lending company owned or controlled by a foreign bank and any residential mortgage loan originator that it employs are subject to the requirements, including registration requirements, as applicable, of the Secure and Fair Enforcement for Mortgage Licensing Act (12 U.S.C. 5101 *et seq.*) and the Board's implementing regulation set forth in Regulation H at subpart I of part 208 of this chapter.
-
-[66 FR 53474, Oct. 26, 2001, as amended at 68 FR 35112, May 9, 2003; 69 FR 77618, Dec. 28, 2004; 71 FR 13936, Mar. 20, 2006; 75 FR 44692, July 28, 2010]
+[66 FR 53474, Oct. 26, 2001, as amended at 68 FR 35112, May 9, 2003; 69 FR 77618, Dec. 28, 2004; 71 FR 13936, Mar. 20, 2006; 75 FR 44692, July 28, 2010; 84 FR 21692, May 15, 2019]

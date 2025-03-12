@@ -1,5 +1,7 @@
 ##### § 74.1233 Processing FM translator and booster station applications. #####
 
+Link to an amendment published at 84 FR 27741, June 14, 2019.
+
 (a) Applications for FM translator and booster stations are divided into two groups:
 
 (1) In the first group are applications for new stations or for major changes in the facilities of authorized stations. For FM translator stations, a major change is any change in frequency (output channel) except changes to first, second or third adjacent channels, or intermediate frequency channels, and any change in antenna location where the station would not continue to provide 1 mV/m service to some portion of its previously authorized 1 mV/m service area. In addition, any change in frequency relocating an unbuilt station from the non-reserved band to the reserved band, or from the reserved band to the non-reserved band, will be considered major. All other changes will be considered minor. All major changes are subject to the provisions of §§ 73.3580 and 1.1104 of this chapter pertaining to major changes.

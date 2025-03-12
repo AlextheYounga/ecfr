@@ -1,6 +1,6 @@
 ##### § 2105.46 How will the Agency evaluate your fee waiver request? #####
 
-(a) In deciding whether your fee waiver request meets the requirements of § 2105.43(a)(1), the Agency will consider the criteria listed in paragraphs (a)(1) through (4) of this section. You must address and meet each of these criteria in order to demonstrate that you are entitled to a fee waiver.
+(a) In deciding whether your fee waiver request meets the requirements of § 2105.43(a)(1), the Agency will consider the criteria listed in paragraphs (a)(1) through (4) of this section.
 
 (1) How the records concern the operations or activities of the Federal Government.
 

@@ -2,7 +2,7 @@
 
 For the purpose of this part:
 
-(a) Museum means a public or private nonprofit institution which is organized on a permanent basis for essentially educational or aesthetic purposes and which, using a professional staff:
+(a) Museum means a public, tribal, or private nonprofit institution which is organized on a permanent basis for essentially educational, cultural heritage, or aesthetic purposes and which, using a professional staff:
 
 (1) Owns or uses tangible objects, either animate or inanimate;
 
@@ -63,3 +63,5 @@ For the purpose of this part:
 (3) The Director uses the information furnished under paragraph (d)(2) of this section in making a determination regarding the eligibility of such an institution under this section.
 
 (e) For the purpose of this section, an institution exhibits objects to the public if it exhibits the objects through facilities which it owns or operates.
+
+[79 FR 76088, Dec. 19, 2014, as amended at 84 FR 27704, June 14, 2019]

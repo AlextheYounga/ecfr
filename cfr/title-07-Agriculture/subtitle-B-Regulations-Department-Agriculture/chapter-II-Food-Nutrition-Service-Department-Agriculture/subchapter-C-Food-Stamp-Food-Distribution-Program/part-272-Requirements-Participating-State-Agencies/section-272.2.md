@@ -1,14 +1,12 @@
 ##### § 272.2 Plan of operation. #####
 
-Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
-
 (a) *General purpose and content* - (1) *Purpose.* State agencies shall periodically plan and budget program operations and establish objectives. When planning and budgeting for program operations for the next year, State agencies shall consider major corrective action objectives, existing program strengths and deficiencies, and other factors anticipated to impact on the operation of the State's SNAP and on projected expenditures.
 
 (2) *Content.* The basic components of the State Plan of Operation are the Federal/State Agreement, the Budget Projection Statement, and the Program Activity Statement. In addition, certain attachments to the Plan are specified in this section and in § 272.3. The requirements for the basic components and attachments are specified in § 272.2(c) and § 272.2(d) respectively. The Federal/State Agreement is the legal agreement between the State and the Department of Agriculture. This Agreement is the means by which the State elects to operate SNAP and to administer the program in accordance with the Food and Nutrition Act of 2008, as amended, regulations issued pursuant to the Act and the FNS-approved State Plan of Operation. The Budget Projection Statement and Program Activity Statement provide information on the number of actions and amounts budgeted for various functional areas such as certification and issuance. The Plan's attachments include the Quality Control Sample Plan, the Disaster Plan (currently reserved), the Employment and Training Plan, the optional Nutrition Education Plan, the optional plan for Program informational activities directed to low-income households, the optional plan for intercepting Unemployment Compensation (UC) benefits for collecting claims for intentional Program violations, the Systematic Alien Verification for Entitlements (SAVE) Plan, and the plan for the State Income and Eligibility Verification System. The State agency shall either include the Workfare Plan in its State Plan of Operation or append the Workfare Plan to the State Plan of Operation, as appropriate, in accordance with § 273.22(b)(3) of this chapter. The Workfare Plan shall be submitted separately, in accordance with § 273.22(b)(1) of this chapter. The ADP/CIS Plan is considered part of the State Plan of Operation but is submitted separately as prescribed under § 272.2(e)(8). State agencies and/or political subdivisions selected to operate a Simplified Application/Standardized Benefit Project shall include that Project's Work Plan in the State Plan of Operation. The Plan's attachments shall also include the Mail Issuance Loss Reporting Level Plan.
 
 (b) *Federal/State Agreement.* (1) The wording of the pre-printed Federal/State Agreement is as follows:
 
-The State of \_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food and Nutrition Act of 2008, as amended, implementing regulations and the FNS-approved State Plan of Operation. The State and FNS (USDA) further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
+The State of \_\_\_\_\_\_ and the Food and Nutrition Service (FNS), U.S. Department of Agriculture (USDA), hereby agree to act in accordance with the provisions of the Food and Nutrition Act of 2008, as amended, implementing regulations and the FNS-approved State Plan of Operation. The State and FNS (USDA) further agree to fully comply with any changes in Federal law and regulations. This agreement may be modified with the mutual written consent of both parties.
 
 Provisions
 
@@ -101,6 +99,8 @@ DateSignature(Governor or Authorized Designee)DateSignature(Regional Administrat
 (J) Section 273.26 of this chapter, it must include in the Plan's attachment a statement that transitional SNAP benefits are available and a description of the eligible cash-assistance programs by which households may qualify for transitional benefits; if one of the eligible programs includes a State-funded cash assistance program; whether household participation in that program runs concurrently, sequentially, or alternatively to TANF; the categories of households eligible for such benefits; the maximum number of months for which transitional benefits will be provided.
 
 (xvii) A plan indicating the definition of fleeing felon the State agency has adopted, as provided for in § 273.11(n).
+
+(xviii) A list indicating the names of gaming entities with which the State agency has entered into cooperative agreements and the frequency of data matches with such entities.
 
 (2) *Nutrition Education Plan.* If submitted, the Supplemental Nutrition Assistance Program Education (SNAP-Ed) Plan must include the following:
 

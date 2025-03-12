@@ -4,13 +4,11 @@
 
 (1) A civil penalty not to exceed the amount set forth in section 8 of the Act may be imposed on any person who violates, or attempts to violate, any order or regulation issued under the Act;
 
-Note to paragraph (a)(1):
+(2) The applicable maximum civil penalty per violation of the Act is $13,669.
 
-The applicable maximum civil penalty per violation of the Act is $13,333.
+(3) Whoever willfully violates, or willfully attempts to violate, any order or regulation issued under this Act shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than 10 years, or both; and any officer, director, or agent of any corporation who willfully participates in such violation may be punished by a like fine, imprisonment, or both; and
 
-(2) Whoever willfully violates, or willfully attempts to violate, any order or regulation issued under this Act shall, upon conviction, be fined not more than $50,000, or, if a natural person, may be imprisoned for not more than 10 years, or both; and any officer, director, or agent of any corporation who willfully participates in such violation may be punished by a like fine, imprisonment, or both; and
-
-(3) Those customs laws of the United States, both civil and criminal, including those laws relating to seizure and forfeiture, that apply to articles imported in violation of such laws shall apply with respect to any rough diamond imported in violation of the Act.
+(4) Those customs laws of the United States, both civil and criminal, including those laws relating to seizure and forfeiture, that apply to articles imported in violation of such laws shall apply with respect to any rough diamond imported in violation of the Act.
 
 Note to paragraph (a):
 
@@ -24,4 +22,4 @@ As reflected in paragraphs (a)(1) and (2) of this section, section 8(a) of the A
 
 (d) Violations of this part may also be subject to other applicable laws.
 
-[69 FR 56938, Sept. 23, 2004, as amended at 81 FR 43076, July 1, 2016; 82 FR 10439, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 83 FR 28373, June 19, 2018]
+[69 FR 56938, Sept. 23, 2004, as amended at 81 FR 43076, July 1, 2016; 82 FR 10439, Feb. 10, 2017; 83 FR 11880, Mar. 19, 2018; 83 FR 28373, June 19, 2018; 84 FR 27718, June 14, 20194]

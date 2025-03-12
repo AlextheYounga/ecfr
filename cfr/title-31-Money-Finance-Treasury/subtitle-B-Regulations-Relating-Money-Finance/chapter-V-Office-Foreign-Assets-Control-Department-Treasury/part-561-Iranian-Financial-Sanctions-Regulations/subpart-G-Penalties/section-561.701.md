@@ -10,9 +10,7 @@
 
 (3) Pursuant to section 206 of IEEPA (50 U.S.C. 1705), which is applicable to violations of the provisions of any license, ruling, regulation, order, directive, or instruction issued by or pursuant to the direction or authorization of the Secretary of the Treasury under IEEPA, a civil penalty not to exceed the amount set forth in section 206(b) of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any prohibition contained in § 561.204 or of any order, regulation, or license set forth in or issued pursuant to this part concerning such prohibition.
 
-Note to paragraph (a):
-
-The applicable maximum civil penalty per violation of IEEPA is the greater of $295,141 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
+(4) The applicable maximum civil penalty per violation of IEEPA is the greater of $302,584 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
 (b) *Criminal Penalty.* (1) As set forth in section 104(c) of CISADA and section 1245(g)(2) of the 2012 NDAA, a person who willfully commits, willfully attempts to commit, or willfully conspires to commit, or aids or abets in the commission of a violation of any prohibition contained in §§ 561.201 or 561.203 shall, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
@@ -26,4 +24,4 @@ The applicable maximum civil penalty per violation of IEEPA is the greater of $2
 
 (e) Violations of this part may also be subject to relevant provisions of other applicable laws.
 
-[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16410, Mar. 15, 2013; 81 FR 43076, July 1, 2016; 82 FR 10438, Feb. 10, 2017; 83 FR 11879, Mar. 19, 2018]
+[77 FR 11726, Feb. 27, 2012, as amended at 78 FR 16410, Mar. 15, 2013; 81 FR 43076, July 1, 2016; 82 FR 10438, Feb. 10, 2017; 83 FR 11879, Mar. 19, 2018; 84 FR 27718, June 14, 2019]

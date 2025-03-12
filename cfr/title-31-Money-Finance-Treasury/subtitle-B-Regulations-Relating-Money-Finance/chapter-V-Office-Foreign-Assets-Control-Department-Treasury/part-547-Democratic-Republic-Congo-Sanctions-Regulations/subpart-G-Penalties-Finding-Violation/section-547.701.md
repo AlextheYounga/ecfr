@@ -7,11 +7,9 @@ the Secretary of the Treasury pursuant to this part or otherwise under IEEPA.
 
 (1) A civil penalty not to exceed the amount set forth in section 206 of IEEPA may be imposed on any person who violates, attempts to violate, conspires to violate, or causes a violation of any license, order, regulation, or prohibition issued under IEEPA.
 
-Note 1 to paragraph (a)(1):
+(2) IEEPA provides for a maximum civil penalty not to exceed the greater of $302,584 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
 
-IEEPA provides for a maximum civil penalty not to exceed the greater of $295,141 or an amount that is twice the amount of the transaction that is the basis of the violation with respect to which the penalty is imposed.
-
-(2) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
+(3) A person who willfully commits, willfully attempts to commit, willfully conspires to commit, or aids or abets in the commission of a violation of any license, order, regulation, or prohibition may, upon conviction, be fined not more than $1,000,000, or if a natural person, be imprisoned for not more than 20 years, or both.
 
 (b)(1) The civil penalties provided in IEEPA are subject to adjustment pursuant to the Federal Civil Penalties Inflation Adjustment Act of 1990 (Pub. L. 101-410, as amended, 28 U.S.C. 2461 note).
 
@@ -24,3 +22,5 @@ IEEPA provides for a maximum civil penalty not to exceed the greater of $295,141
 (e) Violations involving transactions described at section 203(b)(1), (3), and (4) of IEEPA shall be subject only to the penalties set forth in paragraph (d) of this section.
 
 (f) Violations of this part may also be subject to other applicable laws.
+
+[74 FR 25441, May 28, 2009, as amended at 84 FR 27717, June 14, 2019]

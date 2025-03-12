@@ -1,7 +1,5 @@
 ##### § 271.2 Definitions. #####
 
-Link to an amendment published at 84 FR 15092, Apr. 15, 2019.
-
 *Access device* means any card, plate, code, account number, or other means of access that can be used alone, or in conjunction with another access device, to obtain payments, allotments, benefits, money, goods, or other things of value, or that can be used to initiate a transfer of funds under the Food and Nutrition Act of 2008, as amended.
 
 *Active case* means a household which was certified prior to, or during, the sample month and issued SNAP benefits for the sample month.
@@ -10,7 +8,7 @@ Link to an amendment published at 84 FR 15092, Apr. 15, 2019.
 
 *Adequate notice* in a periodic reporting system such as monthly reporting or quarterly reporting means a written notice that includes a statement of the action the agency has taken or intends to take; the reason for the intended action; the household's right to request a fair hearing; the name of the person to contact for additional information; the availability of continued benefits; and the liability of the household for any overissuances received while awaiting a fair hearing if the hearing official's decision is adverse to the household. Depending on the timing of a State's system and the timeliness of report submission by participating households, such notice may be received prior to agency action, at the time reduced benefits are received, or, if benefits are terminated, at the time benefits would have been received if they had not been terminated. In all cases, however, participants will be allowed ten days from the mailing date of the notice to contest the agency action and to have benefits restored to their previous level. If the 10-day period ends on a weekend or a holiday and a request is received the day after the weekend or holiday, the State agency shall consider the request to be timely.
 
-*Alien Status Verification Index (ASVI)* means the automated database maintained by the Immigration and Naturalization Service which may be accessed by State agencies to verify immigration status.
+*Alien Status Verification Index (ASVI)* means the automated database maintained by the United States Citizenship and Immigration Services (USCIS) which may be accessed by State agencies to verify immigration status.
 
 *Allotment* means the total value of coupons a household is authorized to receive during each month or other time period.
 
@@ -137,8 +135,6 @@ Link to an amendment published at 84 FR 15092, Apr. 15, 2019.
 *House-to-house trade route* means any retail food business operated from a truck, bus, pushcart, or other mobile vehicle.
 
 *Identification (ID) card* means a card for the purposes of 7 CFR 278.2(j).
-
-*Immigration and Naturalization Service (INS)* means the Immigration and Naturalization Service, U.S. Department of Justice.
 
 *Indian tribe* means: (1) Any Indian tribe, Band, Nation, or other organized Indian group on a reservation for example, a Rancheria, Pueblo or Colony, and including any Alaska Native Village or regional or village corporation (established pursuant to the Alaska Native Claims Settlement Act (85 Stat. 688)), that is on a reservation and is recognized as eligible for Federal programs and services provided to Indians because of their status as Indians; or (2) any Indian tribe or Band on a reservation holding a treaty with a State government.
 
@@ -273,6 +269,8 @@ Link to an amendment published at 84 FR 15092, Apr. 15, 2019.
 *Underissuance error rate.* (See *Underpayment error rate.*)
 
 *Underpayment error rate* means the ratio of the value of allotments underissued to recipient households to the total value of allotments issued in a fiscal year by a State agency.
+
+*United States Citizenship and Immigration Services (USCIS)* means the U.S. Citizenship and Immigration Services, U.S. Department of Homeland Security.
 
 *Universe* means all units for which information is desired.
 

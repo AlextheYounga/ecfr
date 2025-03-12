@@ -4,4 +4,4 @@
 
 (b) If you submit a FOIA request on behalf of another person or organization (for example, if you are an attorney submitting a request on behalf of a client), the Agency will determine the fee category by considering the underlying requester's identity and intended use of the information.
 
-(c) If your fee category is unclear, the Agency may ask you for additional information (see § 2105.49).
+(c) If your fee category is unclear, the Agency may ask you for additional information (*see* § 2105.49).

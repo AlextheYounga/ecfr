@@ -1,9 +1,11 @@
-##### § 2105.64 What are public liaisons? #####
+##### § 2105.64 When will the Agency make records available without a FOIA request? #####
 
-(a) The Agency has a FOIA Officer or Public Liaison who can assist requesters who have concerns about the service they received when seeking records or who are seeking assistance under § 2105.3 or § 2105.35(i).
+(a) Each Agency must:
 
-(b) FOIA Public Liaisons report to the Agency's Chief FOIA Officer and you can raise concerns to them about the service you have received.
+(1) Determine which of its records must be made publicly available under the FOIA (for example, certain frequently requested records);
 
-(c) FOIA Public Liaisons are responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in resolving disputes.
+(2) Identify additional records of interest to the public that are appropriate for public disclosure; and
 
-(d) A list of the Agency's FOIA Public Liaisons is available at *https://www.cfa.gov/foia*.
+(3) Post those records in FOIA libraries.
+
+(b) Because of these proactive disclosures, you are encouraged to review the Agency's FOIA libraries before filing a FOIA request. The material you seek may be immediately available electronically at no cost.

@@ -1,11 +1,5 @@
-##### § 2105.65 When will the Agency make records available without a FOIA request? #####
+##### § 2105.65 How will FOIA materials be preserved? #####
 
-(a) Each Agency must:
+(a) Each Agency must preserve all correspondence pertaining to the requests that it receives under subpart B of this part, as well as copies of all requested records, until disposition or destruction is authorized by the General Records Schedule 4.2 of the National Archives and Records Administration (NARA) or another NARA-approved records schedule.
 
-(1) Determine which of its records must be made publicly available under the FOIA (for example, certain frequently requested records);
-
-(2) Identify additional records of interest to the public that are appropriate for public disclosure; and
-
-(3) Post those records in FOIA libraries.
-
-(b) Because of these proactive disclosures, you are encouraged to review the Agency's FOIA libraries before filing a FOIA request. The material you seek may be immediately available electronically at no cost.
+(b) Materials that are identified as responsive to a FOIA request will not be disposed of or destroyed while the request or a related appeal or lawsuit is pending. This is true even if they would otherwise be authorized for disposition or destruction under the General Records Schedule 4.2 of NARA or another NARA-approved records schedule.

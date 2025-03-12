@@ -1,3 +1,9 @@
-##### § 2105.63 Where are records made available? #####
+##### § 2105.63 What are public liaisons? #####
 
-Records that are required by the FOIA to be made proactively available for public inspection and copying are accessible on the Agency's website. They may also be available at the Agency's office location.
+(a) The Agency has a FOIA Officer or Public Liaison who can assist requesters who have concerns about the service they received when seeking records or who are seeking assistance under § 2105.3 or § 2105.35(i).
+
+(b) FOIA Public Liaisons report to the Agency's Chief FOIA Officer and you can raise concerns to them about the service you have received.
+
+(c) FOIA Public Liaisons are responsible for assisting in reducing delays, increasing transparency and understanding of the status of requests, and assisting in resolving disputes.
+
+(d) A list of the Agency's FOIA Public Liaisons is available at *https://www.cfa.gov/foia.*

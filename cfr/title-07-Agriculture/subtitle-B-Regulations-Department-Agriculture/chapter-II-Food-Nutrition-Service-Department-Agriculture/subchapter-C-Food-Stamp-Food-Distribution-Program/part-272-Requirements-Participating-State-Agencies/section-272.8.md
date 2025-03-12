@@ -1,8 +1,6 @@
 ##### § 272.8 State income and eligibility verification system. #####
 
-Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
-
-(a) *General.* (1) State agencies may maintain and use an income and eligibility verification system (IEVS), as specified in this section. By means of the IEVS, State agencies may request wage and benefit information from the agencies identified in this paragraph (a)(1) and use that information in verifying eligibility for and the amount of SNAP benefits due to eligible households. Such information may be requested and used with respect to all household members, including any considered excluded household members as specified in § 273.11(c) of this chapter whenever the SSNs of such excluded household members are available to the State agency. If not otherwise documented, State agencies must obtain written agreements from these information provider agencies affirming that they must not record any information about individual SNAP households and that staff in those agencies are subject to the disclosure restrictions of the information provider agencies and § 272.1(c). The information provider agencies, at a minimum, are:
+(a) *General.* (1) State agencies shall maintain and use an income and eligibility verification system (IEVS), as specified in this section. By means of the IEVS, State agencies may request wage and benefit information from the agencies identified in this paragraph (a)(1) and use that information in verifying eligibility for and the amount of SNAP benefits due to eligible households. Such information may be requested and used with respect to all household members, including any considered excluded household members as specified in § 273.11(c) of this chapter whenever the SSNs of such excluded household members are available to the State agency. If not otherwise documented, State agencies must obtain written agreements from these information provider agencies affirming that they must not record any information about individual SNAP households and that staff in those agencies are subject to the disclosure restrictions of the information provider agencies and § 272.1(c). The information provider agencies, at a minimum, are:
 
 (i) The State Wage Information Collection Agency (SWICA) which maintains wage information;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 84 FR 15093, Apr. 15, 2019.
 
 (e) *Documentation.* The State agency must document, as required by § 273.2(f)(6) of this chapter, information obtained through the IEVS both when an adverse action is and is not instituted.
 
-[65 FR 70192, Nov. 21, 2000, as amended at 78 FR 12231, Feb. 22, 2013]
+[65 FR 70192, Nov. 21, 2000, as amended at 78 FR 12231, Feb. 22, 2013; 84 FR 15093, Apr. 15, 2019]

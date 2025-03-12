@@ -1,7 +1,5 @@
-##### § 2105.59 How are decisions on appeals issued? #####
+##### § 2105.59 When can you expect a decision on your appeal? #####
 
-(a) A decision on an appeal must be made in writing.
+(a) The basic time limit for responding to an appeal is 20 workdays after receipt of an appeal meeting the requirements of § 2105.56.
 
-(b) A decision that upholds the Agency's determination will notify you of the decision and your statutory right to file a lawsuit.
-
-(c) A decision that overturns, remands, or modifies the Agency's determination will notify you of the decision. The Agency then must further process the request in accordance with the appeal determination.
+(b) If the Agency is unable to reach a decision on your appeal within the given time limit for response, the appropriate deciding official for FOIA appeals will notify you of your statutory right to seek review in a United States District Court.
