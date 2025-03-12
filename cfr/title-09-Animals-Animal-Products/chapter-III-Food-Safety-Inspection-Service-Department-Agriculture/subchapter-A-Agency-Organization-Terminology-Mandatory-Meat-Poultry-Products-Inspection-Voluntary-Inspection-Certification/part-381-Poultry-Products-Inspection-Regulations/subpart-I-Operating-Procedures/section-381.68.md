@@ -1,4 +1,4 @@
-##### § 381.68 Maximum inspection rates - New turkey inspection system. #####
+##### § 381.68 Maximum inspection rates—New turkey inspection system. #####
 
 (a) The maximum inspection rates for one inspector New Turkey Inspection (NTI-1 and NTI-1 Modified) and two inspectors New Turkey Inspection (NTI-2 and NTI-2 Modified) are listed in the table below. The line speeds for NTI-1 and NTI-2 are for lines using standard 9-inch shackles on 12-inch centers with birds hung on every shackle and opened with J-type or Bar-type opening cuts. The line speeds for NTI-1 Modified and NTI-2 Modified are for Bar-type cut turkey lines using a shackle with a 4-inch by 4-inch selector (or kickout), a 45 degree bend of the lower 2 inches, an extended central loop portion of the shackle that lowers the abdominal cavity opening of the carcasses to an angle of 30 degrees from the vertical in direct alignment with the inspector's view, and a width of 10.5 inches. Maximum rates for those establishments having varying configurations will be established by the Administrator but will not exceed those in the table. Neither the rates in the table nor those established for establishments with varying configurations shall be exceeded under any circumstances.
 
@@ -6,19 +6,15 @@
 
 (c) The inspector in charge may reduce inspection line rates when in his/her judgment the prescribed inspection procedure cannot be adequately performed within the time available because the health conditions of a particular flock or other factors, including the manner in which birds are being presented to the inspector for inspection and the level of contamination among the birds on the line, dictate a need for a more extended inspection.
 
-Maximum Turkey Inspection Rates
+|                                                                      Inspection system                                                                      |       Line configuration       |Number of inspectors|          Birds/minute          |   |   |   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|--------------------|--------------------------------|---|---|---|
+|                                                                           J-Type                                                                            |            Bar-Type            |                    |                                |   |   |   |
+|                                                                     (\<16#)  <br/>light                                                                     |(\>16#) <sup>1</sup>  <br/>heavy|(\<16#)  <br/>light |(\>16#) <sup>1</sup>  <br/>heavy|   |   |   |
+|                                                                            NTI-1                                                                            |              12-1              |         1          |               32               |30 |25 |21 |
+|                                                                            NTI-2                                                                            |       <sup>2</sup> 24-2        |         2          |               51               |41 |45 |35 |
+|                                                                       NTI-1 Modified                                                                        |              12-1              |         1          |               —                | — |32 |30 |
+|                                                                       NTI-2 Modified                                                                        |       <sup>2</sup> 24-2        |         2          |               —                | — |51 |41 |
+|                          <sup>1</sup> This weight refers to the bird at the point of post-mortem inspection without blood or feet.                          |                                |                    |                                |   |   |   |
+|<sup>2</sup> The turkeys are suspended on the slaughter line at 12-inch intervals with two inspectors each looking at alternating birds at 24-inch intervals.|                                |                    |                                |   |   |   |
 
-| Inspection system |      Line configuration       |Number of inspectors|         Birds/minute          |   |   |   |
-|-------------------|-------------------------------|--------------------|-------------------------------|---|---|---|
-|      J-Type       |           Bar-Type            |                    |                               |   |   |   |
-|(\<16#)  <br/>light|(\>16#)<sup>1</sup>  <br/>heavy|(\<16#)  <br/>light |(\>16#)<sup>1</sup>  <br/>heavy|   |   |   |
-|       NTI-1       |             12-1              |         1          |              32               |30 |25 |21 |
-|       NTI-2       |       <sup>2</sup> 24-2       |         2          |              51               |41 |45 |35 |
-|  NTI-1 Modified   |             12-1              |         1          |               \-              | \-|32 |30 |
-|  NTI-2 Modified   |       <sup>2</sup> 24-2       |         2          |               \-              | \-|51 |41 |
-
-<sup>1</sup> This weight refers to the bird at the point of post-mortem inspection without blood or feet.
-
-<sup>2</sup> The turkeys are suspended on the slaughter line at 12-inch intervals with two inspectors each looking at alternating birds at 24-inch intervals.
-
-[50 FR 37512, Sept. 16, 1985, as amended at 73 FR 51902, Sept. 8, 2008]Editorial Note:At 75 FR 27926, May 19, 2010, § 381.68(a) was amended in the second sentence by removing “10.5” and adding in its place “10”; however, the amendment could not be incorporated because “10.5” does not exist in that sentence.
+[50 FR 37512, Sept. 16, 1985, as amended at 73 FR 51902, Sept. 8, 2008]

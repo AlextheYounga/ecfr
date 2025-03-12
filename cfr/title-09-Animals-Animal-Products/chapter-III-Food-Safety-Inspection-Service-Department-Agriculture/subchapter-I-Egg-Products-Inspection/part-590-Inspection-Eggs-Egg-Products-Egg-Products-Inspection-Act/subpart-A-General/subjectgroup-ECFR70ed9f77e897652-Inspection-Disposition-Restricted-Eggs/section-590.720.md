@@ -8,7 +8,7 @@
 
 (3) Processing for industrial use or for animal food. Such products must be handled in accordance with § 590.504(c) and identified as provided in §§ 590.840 and 590.860, or properly handled in a manner that clearly identifies the products as being inedible and not for human consumption and does not adulterate egg product intended for human consumption.
 
-(4) By coloring the shells of loss and inedible eggs with a sufficient amount of an FDA-approved color additive to give a distinct appearance or applying a substance that will penetrate the shell and decharacterize the contents of the egg. However, lots of eggs containing significant percentages of eggs having small to medium blood spots or meat spots, but no other types of loss or inedible eggs, may be shipped directly to official plants, provided they are conspicuously labeled with the name and address of the shipper and the wording “Spots - For Processing Only In Official Egg Products Plants.”
+(4) By coloring the shells of loss and inedible eggs with a sufficient amount of an FDA-approved color additive to give a distinct appearance or applying a substance that will penetrate the shell and decharacterize the contents of the egg. However, lots of eggs containing significant percentages of eggs having small to medium blood spots or meat spots, but no other types of loss or inedible eggs, may be shipped directly to official plants, provided they are conspicuously labeled with the name and address of the shipper and the wording “Spots—For Processing Only In Official Egg Products Plants.”
 
 (5) Incubator rejects must be broken or crushed and denatured or decharacterized in accordance with § 590.504(c)(1) and labeled as required in §§ 590.840 and 590.860.
 
@@ -21,3 +21,5 @@
 (3) Used as other than human food.
 
 (c) Records must be maintained as provided in § 590.200 to ensure proper disposition.
+
+[85 FR 68680, Oct. 29, 2020]

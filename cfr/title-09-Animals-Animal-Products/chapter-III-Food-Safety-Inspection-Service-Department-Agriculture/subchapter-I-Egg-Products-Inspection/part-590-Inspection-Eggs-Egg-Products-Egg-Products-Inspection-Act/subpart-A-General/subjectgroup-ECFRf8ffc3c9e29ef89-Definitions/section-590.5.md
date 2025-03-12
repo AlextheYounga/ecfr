@@ -122,8 +122,6 @@ For the purpose of these regulations, unless the context otherwise requires, the
 
 *Quality* means the inherent properties of any product which determine its relative degree of excellence.
 
-*Regional Director* means any employee of the Department in charge of inspection service in a designated geographical region.
-
 *Regulations* means the provisions in this part.
 
 *Regulatory inspector* means any employee of the U.S. Government, or State or local jurisdiction, who is authorized by the Secretary to make such inspections as required in § 590.28 of these regulations.
@@ -149,5 +147,3 @@ For the purpose of these regulations, unless the context otherwise requires, the
 *White or albumen* means, for the purpose of this part, the product obtained from the egg as broken from the shell and separated from the yolk.
 
 [36 FR 9814, May 28, 1971]Editorial Note:For Federal Register citations affecting § 590.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
-
-At 85 FR 68673, Oct. 29, 2020, § 590.5 was amended by removing the definition of *Regional Director*; however, the amendment could not be incorporated because the term does not exist.
