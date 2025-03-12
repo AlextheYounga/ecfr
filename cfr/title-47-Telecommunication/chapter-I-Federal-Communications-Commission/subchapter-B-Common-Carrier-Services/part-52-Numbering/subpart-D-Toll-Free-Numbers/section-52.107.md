@@ -1,7 +1,5 @@
 ##### § 52.107 Hoarding. #####
 
-Link to an amendment published at 83 FR 53396, Oct. 23, 2018.
-
 (a) As used in this section, hoarding is the acquisition by a toll free subscriber from a Responsible Organization of more toll free numbers than the toll free subscriber intends to use for the provision of toll free service. The definition of hoarding also includes number brokering, which is the selling of a toll free number by a private entity for a fee.
 
 (1) Toll free subscribers shall not hoard toll free numbers.
@@ -13,3 +11,7 @@ Link to an amendment published at 83 FR 53396, Oct. 23, 2018.
 (b) *Tariff Provision.* The following provision shall be included in the Service Management System tariff and in the local exchange carriers' toll free database access tariffs:
 
 [T]he Federal Communications Commission (“FCC”) has concluded that hoarding, defined as the acquisition of more toll free numbers than one intends to use for the provision of toll free service, as well as the sale of a toll free number by a private entity for a fee, is contrary to the public interest in the conservation of the scarce toll free number resource and contrary to the FCC's responsibility to promote the orderly use and allocation of toll free numbers.
+
+(c) *Toll Free Numbers Assigned via Competitive Bidding.* The provisions of this section shall not apply to toll free numbers assigned via competitive bidding or to numbers transferred under the exception to § 52.105 contained in paragraph (f) of that section.
+
+[62 FR 20127, Apr. 25, 1997, as amended at 83 FR 53396, Oct. 23, 2018]

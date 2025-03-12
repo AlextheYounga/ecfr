@@ -14,11 +14,9 @@
 
 (iii) Incident to the service of, a physician, physician assistant, clinical nurse specialist, or nurse practitioner when those professionals may perform speech-language pathology services under State law. When a speech-language pathology service is provided incident to the services of a physician, physician assistant, clinical nurse specialist, or nurse practitioner, by anyone other than a physician, physician assistant, clinical nurse specialist, or nurse practitioner, the service and the person who furnishes the service must meet the standards and conditions that apply to speech-language pathology and speech-language pathologists, except that a license to practice speech-language pathology services in the State is not required.
 
-(4) Claims submitted for furnished services contain prescribed information on patient functional limitations.
-
 (b) *Condition for coverage of outpatient speech-language pathology services furnished to certain inpatients of a hospital or a CAH or SNF.* Medicare Part B pays for outpatient speech-language pathology services furnished to an inpatient of a hospital, CAH, or SNF who requires the services but has exhausted or is otherwise ineligible for benefit days under Medicare Part A.
 
-(c) *Special provisions for services furnished by speech-language pathologists in private practice* - (1) *Basic qualifications.* In order to qualify under Medicare as a supplier of outpatient speech-language pathology services, each individual speech-language pathologist in private practice must meet the following requirements:
+(c) *Special provisions for services furnished by speech-language pathologists in private practice*—(1) *Basic qualifications.* In order to qualify under Medicare as a supplier of outpatient speech-language pathology services, each individual speech-language pathologist in private practice must meet the following requirements:
 
 (i) Be legally authorized (if applicable, licensed, certified, or registered) to engage in the private practice of speech-language pathology by the State in which he or she practices, and practice only within the scope of his or her license and/or certification.
 
@@ -38,4 +36,4 @@
 
 (d) *Excluded services.* No service is included as an outpatient speech-language pathology service if it is not included as an inpatient hospital service if furnished to a hospital or CAH inpatient.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 56 FR 8852, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 58 FR 30668, May 26, 1993; 63 FR 58907, Nov. 2, 1998; 69 FR 66422, Nov. 15, 2004; 73 FR 69933, Nov. 19, 2008; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 79 FR 68002, Nov. 13, 2014; 82 FR 4578, Jan. 13, 2017]
+[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 56 FR 8852, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 58 FR 30668, May 26, 1993; 63 FR 58907, Nov. 2, 1998; 69 FR 66422, Nov. 15, 2004; 73 FR 69933, Nov. 19, 2008; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 79 FR 68002, Nov. 13, 2014; 82 FR 4578, Jan. 13, 2017; 83 FR 60073, Nov. 23, 2018]

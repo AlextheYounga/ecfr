@@ -1,5 +1,7 @@
 ##### § 414.1310 Applicability. #####
 
+Link to an amendment published at 83 FR 60076, November 23, 2018.
+
 (a) *Program Implementation.* Except as specified in paragraph (b) of this section, MIPS applies to payments for items and services furnished by MIPS eligible clinicians on or after January 1, 2019.
 
 (b) *Exclusions.* (1) For a year, a MIPS eligible clinician does not include an eligible clinician who:

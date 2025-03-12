@@ -1,5 +1,7 @@
 ##### § 1970.11 Timing of the environmental review process. #####
 
+Link to an amendment published at 83 FR 59271, November 23, 2018.
+
 (a) Once an applicant decides to request Agency financial assistance, the applicant must initiate the environmental review process at the earliest possible time to ensure that planning, design, and other decisions reflect environmental policies and values, avoid delays, and minimize potential conflicts. This includes early coordination with the Agency, all funding partners, and regulatory agencies, in order to minimize duplication of effort.
 
 (b) The environmental review process must be concluded before completion of the obligation of funds.

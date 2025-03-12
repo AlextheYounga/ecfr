@@ -1,5 +1,7 @@
 ##### § 414.1440 Qualifying APM participant determination: All-payer combination option. #####
 
+Link to an amendment published at 83 FR 60091, November 23, 2018.
+
 (a) *Payments excluded from calculations.* (1) These calculations include a combination of both Medicare payments for Part B covered professional services and all other payments for all other payers, except for payments made by:
 
 (i) The Secretary of Defense for the costs of Department of Defense health care programs;

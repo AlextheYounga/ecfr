@@ -54,7 +54,7 @@
 
 (3) If the deductible has not been fully met by the beneficiary before the visit, and the amount of the RHC's reasonable customary charge for the services that is applied to the deductible is equal to or exceeds the all-inclusive rate, no payment is made to the RHC.
 
-(g) To receive payment, the FQHC or RHC must do all of the following:
+(g) To receive payment, the RHC or FQHC must do all of the following:
 
 (1) Furnish services in accordance with the requirements of subpart X of part 405 of this chapter and subpart A of part 491 of this chapter.
 
@@ -62,4 +62,4 @@
 
 (3) *HCPCS coding.* FQHCs and RHCs are required to submit HCPCS and other codes as required in reporting services furnished.
 
-[79 FR 25477, May 2, 2014, as amended at 80 FR 71371, Nov. 16, 2015]
+[79 FR 25477, May 2, 2014, as amended at 80 FR 71371, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018]

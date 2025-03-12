@@ -24,12 +24,10 @@ Services specified in § 410.100 and not excluded under § 410.102 are covered a
 
 (i) Is established and signed by a physician before treatment is begun; and
 
-(ii) Prescribes the type, amount, frequency, and duration of the services to be furnished, and indicates the diagnosis and anticipated rehabilitation goals that are consistent with the patient function reporting on the claims for services.
+(ii) Prescribes the type, amount, frequency, and duration of the services to be furnished, and indicates the diagnosis and anticipated rehabilitation goals.
 
 (2) The plan must be reviewed at least every 60 days for respiratory therapy services and every 90 days for physical therapy, occupational therapy and speech-language pathology services by a facility physician or the referring physician who, when appropriate, consults with the professional personnel providing the services.
 
 (3) The reviewing physician must certify or recertify that the plan is being followed, the patient is making progress in attaining the rehabilitation goals, and the treatment is having no harmful effects on the patient.
 
-(d) Claims submitted for physical therapy, occupational therapy or speech-language-pathology services, contain prescribed information on patient functional limitations.
-
-[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8841, Mar. 1, 1991; 72 FR 66400, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012]
+[51 FR 41339, Nov. 14, 1986, as amended at 56 FR 8841, Mar. 1, 1991; 72 FR 66400, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018]

@@ -1,5 +1,7 @@
 ##### § 425.404 Special assignment conditions for ACOs including FQHCs and RHCs. #####
 
+Link to an amendment published at 83 FR 60093, November 23, 2018.
+
 CMS assigns beneficiaries to ACOs based on services furnished in FQHCs or RHCs or both consistent with the general assignment methodology in § 425.402, with special conditions:
 
 (a) For performance years 2012 through 2018 -

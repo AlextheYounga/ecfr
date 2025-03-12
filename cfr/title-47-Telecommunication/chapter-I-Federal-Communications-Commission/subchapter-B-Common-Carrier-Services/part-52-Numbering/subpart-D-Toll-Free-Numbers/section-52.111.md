@@ -1,7 +1,5 @@
 ##### § 52.111 Toll free number assignment. #####
 
-Link to an amendment published at 83 FR 53396, Oct. 23, 2018.
+Toll free telephone numbers must be made available to Responsible Organizations and subscribers on an equitable basis. The Commission will assign toll free numbers by competitive bidding, on a first-come, first-served basis, by an alternative assignment methodology, or by a combination of the foregoing options.
 
-Toll free numbers shall be made available on a first-come, first-served basis unless otherwise directed by the Commission.
-
-[63 FR 16441, Apr. 3, 1998]
+[83 FR 53396, Oct. 23, 2018]

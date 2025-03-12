@@ -1,8 +1,6 @@
 ##### § 93.305 Flight-free zones and flight corridors. #####
 
-Link to an amendment published at 83 FR 48212, Sept. 24, 2018.
-
-Except in an emergency or if otherwise necessary for safety of flight, or unless otherwise authorized by the Flight Standards District Office for a purpose listed in 93.309, no person may operate an aircraft in the Special Flight Rules Area within the following flight-free zones:
+Except in an emergency or if otherwise necessary for safety of flight, or unless otherwise authorized by the responsible Flight Standards Office for a purpose listed in § 93.309, no person may operate an aircraft in the Special Flight Rules Area within the following flight-free zones:
 
 (a) *Desert View Flight-free Zone.* That airspace extending from the surface up to but not including 14,500 feet MSL within an area bounded by a line beginning at Lat. 35°59′58″ N., Long. 111°52′47″ W.; thence east to Lat. 36°00′00″ N., Long. 111°51′04″ W.; thence north to 36°00′24″ N., Long. 111°51′04″ W.; thence east to 36°00′24″ N., Long. 111°45′44″ W.; thence north along the GCNP boundary to Lat. 36°14′05″ N., Long. 111°48′34″ W.; thence southwest to Lat. 36°12′06″ N., Long. 111°51′14″ W.; to the point of origin; but not including the airspace at and above 10,500 feet MSL within 1 nautical mile of the western boundary of the zone. The corridor to the west between the Desert View and Bright Angel Flight-free Zones, is designated the “Zuni Point Corridor.” This corridor is 2 nautical miles wide for commercial air tour flights and 4 nautical miles wide for transient and general aviation operations.
 
@@ -12,4 +10,4 @@ Except in an emergency or if otherwise necessary for safety of flight, or unless
 
 (d) *Sanup Flight-free Zone.* That airspace extending from the surface up to but not including 8,000 feet MSL within an area bounded by a line beginning at Lat. 35°59′32″ N., Long. 113°20′28″ W.; west to Lat. 36°00′55″ N., Long. 113°42′09″ W.; southeast to Lat. 35°59′57″ N., Long. 113°41′09″ W.; to Lat. 35°59′09″ N., Long. 113°40′53″ W.; to Lat. 35°58′45″ N., Long. 113°40′15″ W.; to Lat. 35°57′52″ N., Long. 113°39′34″ W.; to Lat. 35°56′44″ N., Long. 113°39′07″ W.; to Lat. 35°56′04″ N., Long. 113°39′20″ W.; to Lat. 35°55′02″ N., Long. 113°40′43″ W.; to Lat. 35°54′47″ N., Long. 113°40′51″ W.; southeast to Lat. 35°50′16″ N., Long. 113°37′13″ W.; thence along the park boundary to the point of origin.
 
-[Doc. No. 28537, 61 FR 69330, Dec. 31, 1996, as amended by Amdt. 93-80, 65 FR 17742, Apr. 4, 2000]
+[Doc. No. 28537, 61 FR 69330, Dec. 31, 1996, as amended by Amdt. 93-80, 65 FR 17742, Apr. 4, 2000; Amdt. 93-102, 83 FR 48212, Sept. 24, 2018]

@@ -58,4 +58,4 @@
 
 (iii) *Grace period.* An eligible telecommunications carrier that submits the annual reporting information required by this section within three days of the deadline will not receive a reduction in support if the eligible telecommunications carrier and its holding company, operating companies, and affiliates as reported pursuant to § 54.313(a)(8) in their report due July 1 of the prior year have not missed the deadline in any prior year.
 
-[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017]Effective Date Note:At 81 FR 24341. Apr. 25, 2016, § 54.316 was added. Paragraphs (a) and (b) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[81 FR 24341, Apr. 25, 2016, as amended at 81 FR 44451, July 7, 2016; 81 FR 69713, Oct. 7, 2016; 82 FR 14340, Mar. 20, 2017]

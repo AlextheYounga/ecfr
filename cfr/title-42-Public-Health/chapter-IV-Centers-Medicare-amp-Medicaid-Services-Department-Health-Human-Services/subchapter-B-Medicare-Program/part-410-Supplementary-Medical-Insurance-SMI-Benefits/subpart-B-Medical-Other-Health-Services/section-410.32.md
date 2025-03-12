@@ -36,6 +36,8 @@
 
 (iii) *Personal supervision* means a physician must be in attendance in the room during the performance of the procedure.
 
+(4) *Supervision requirement for RRA or RPA.* Diagnostic tests that are performed by a registered radiologist assistant (RRA) who is certified and registered by the American Registry of Radiologic Technologists or a radiology practitioner assistant (RPA) who is certified by the Certification Board for Radiology Practitioner Assistants, and that would otherwise require a personal level of supervision as specified in paragraph (b)(3) of this section, may be furnished under a direct level of physician supervision to the extent permitted by state law and state scope of practice regulations.
+
 (c) *Portable x-ray services.* Portable x-ray services furnished in a place of residence used as the patient's home are covered if the following conditions are met:
 
 (1) These services are furnished under the general supervision of a physician, as defined in paragraph (b)(3)(i) of this section.
@@ -102,4 +104,4 @@
 
 (e) *Diagnostic laboratory tests furnished in hospitals and CAHs.* The provisions of paragraphs (a) and (d)(2) through (d)(4) of this section, inclusive, of this section apply to all diagnostic laboratory test furnished by hospitals and CAHs to outpatients.
 
-[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012]
+[62 FR 59098, Oct. 31, 1997, as amended at 63 FR 26308, May 12, 1998; 63 FR 53307, Oct. 5, 1998; 63 FR 58906, Nov. 2, 1998; 64 FR 59440, Nov. 2, 1999; 66 FR 58809, Nov. 23, 2001; 69 FR 66421, Nov. 15, 2004; 72 FR 66398, Nov. 27, 2007; 75 FR 73615, Nov. 29, 2010; 77 FR 69361, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018]

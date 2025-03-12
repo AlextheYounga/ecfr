@@ -10,4 +10,4 @@
 
 (c) *Choice of payment method.* Service providers providing discounted services under this subpart in any funding year shall, prior to the submission of the FCC Form 471, permit the billed entity to choose the method of payment for the discounted services from those methods approved by the Administrator, including by making a full, undiscounted payment and receiving subsequent reimbursement of the discount amount from the Administrator.
 
-[79 FR 49203, Aug. 19, 2014]Effective Date Note:At 79 FR 49203, Aug. 19, 2014, § 54.514 was revised. Paragraphs (a) and (c) will not become effective until July 1, 2016.
+[79 FR 49203, Aug. 19, 2014]

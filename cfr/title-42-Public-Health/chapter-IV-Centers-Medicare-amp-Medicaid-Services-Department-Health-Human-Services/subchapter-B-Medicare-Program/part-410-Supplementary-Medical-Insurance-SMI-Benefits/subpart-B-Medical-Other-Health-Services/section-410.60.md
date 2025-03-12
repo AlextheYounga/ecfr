@@ -14,8 +14,6 @@
 
 (iii) By, or incident to the service of, a physician, physician assistant, clinical nurse specialist, or nurse practitioner when those professionals may perform physical therapy services under State law. When a physical therapy service is provided incident to the service of a physician, physician's assistant, clinical nurse specialist, or nurse practitioner, by anyone other than a physician, physician assistant, clinical nurse specialist, or nurse practitioner, the service and the person who furnishes the service must meet the standards and conditions that apply to physical therapy and physical therapists, except that a license to practice physical therapy in the State is not required.
 
-(4) Claims submitted for furnished services contain prescribed information on patient functional limitations.
-
 (b) *Condition for coverage of outpatient physical therapy services furnished to certain inpatients of a hospital or a CAH or SNF.* Medicare Part B pays for outpatient physical therapy services furnished to an inpatient of a hospital, CAH, or SNF who requires them but who has exhausted or is otherwise + ineligible for benefit days under Medicare Part A.
 
 (c) *Special provisions for services furnished by physical therapists in private practice* - (1) *Basic qualifications.* In order to qualify under Medicare as a supplier of outpatient physical therapy services, each individual physical therapist in private practice must meet the following requirements:
@@ -56,4 +54,4 @@
 
 (3) For purposes of applying the limitation, outpatient physical therapy excludes services furnished by a hospital directly or under arrangements.
 
-[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014]
+[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66422, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018]

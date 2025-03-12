@@ -1,8 +1,6 @@
 ##### § 93.325 Quarterly reporting. #####
 
-Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
-
-(a) Each certificate holder must submit in writing, within 30 days of the end of each calendar quarter, the total number of commercial SFRA operations conducted for that quarter. Quarterly reports must be filed with the Las Vegas Flight Standards District Office.
+(a) Each certificate holder must submit in writing, within 30 days of the end of each calendar quarter, the total number of commercial SFRA operations conducted for that quarter. Quarterly reports must be filed with the responsible Flight Standards Office.
 
 (b) Each quarterly report must contain the following information.
 
@@ -18,4 +16,4 @@ Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
 
 (6) Route(s) flown.
 
-[65 FR 17733, Apr. 4, 2000]
+[65 FR 17733, Apr. 4, 2000 as amended by Amdt. 93-102, 83 FR 48213, Sept. 24, 2018]

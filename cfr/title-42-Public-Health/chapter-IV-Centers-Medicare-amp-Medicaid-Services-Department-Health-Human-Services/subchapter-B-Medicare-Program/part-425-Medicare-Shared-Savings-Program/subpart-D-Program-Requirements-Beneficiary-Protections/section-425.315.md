@@ -1,5 +1,7 @@
 ##### § 425.315 Reopening determinations of ACO shared savings or shared losses to correct financial reconciliation calculations. #####
 
+Link to an amendment published at 83 FR 60092, November 23, 2018.
+
 (a) *Reopenings.* (1) If CMS determines that the amount of shared savings due to the ACO or the amount of shared losses owed by the ACO has been calculated in error, CMS may reopen the initial determination or a final agency determination under subpart I of this part and issue a revised initial determination:
 
 (i) At any time in the case of fraud or similar fault as defined in § 405.902; or

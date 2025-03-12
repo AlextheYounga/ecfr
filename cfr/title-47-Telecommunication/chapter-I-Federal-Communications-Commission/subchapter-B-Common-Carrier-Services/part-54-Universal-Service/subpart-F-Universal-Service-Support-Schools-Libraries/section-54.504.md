@@ -70,4 +70,4 @@
 
 (5) The service provider listed on the FCC Form 473 certifies that the bills or invoices issued by this service provider to the billed entity are for equipment and services eligible for universal service support by the Administrator, and exclude any charges previously invoiced to the Administrator by the service provider.
 
-[79 FR 49199, Aug. 19, 2014, as amended at 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015]Effective Date Notes:At 79 FR 49199, Aug. 19, 2014, § 54.504 was revised. However, paragraphs (f)(4) and (f)(5) will become effective July 1, 2016.
+[79 FR 49199, Aug. 19, 2014, as amended at 79 FR 68634, Nov. 18, 2014; 80 FR 5989, Feb. 4, 2015]

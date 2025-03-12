@@ -1,5 +1,7 @@
 ##### § 425.221 Close-out procedures and payment consequences of early termination. #####
 
+Link to an amendment published at 83 FR 60092, November 23, 2018.
+
 (a) *Close-out procedures.* (1) An ACO whose participation agreement has expired or is terminated by CMS under § 425.218 or by the ACO under § 425.220 must implement close-out procedures including but not limited to the following issues in a form and manner and by a deadline specified by CMS:
 
 (i) Notice to ACO participants of termination.

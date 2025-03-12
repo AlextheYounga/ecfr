@@ -106,4 +106,8 @@
 
 (v) The required referrals relate solely to the physician's services covered by the scope of the employment, the arrangement for personal services, or the contract, and the referral requirement is reasonably necessary to effectuate the legitimate business purposes of the compensation arrangement. In no event may the physician be required to make referrals that relate to services that are not provided by the physician under the scope of his or her employment, arrangement for personal services, or contract.
 
-[72 FR 51086, Sept. 5, 2007; 72 FR 68076, Dec. 4, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 74 FR 62006, Nov. 25, 2009; 80 FR 71374, Nov. 16, 2015]
+(e) *Special rule on compensation arrangements* - (1) *Application.* This paragraph (e) applies only to compensation arrangements as defined in section 1877 of the Act and this subpart.
+
+(2) *Writing requirement.* In the case of any requirement in this subpart for a compensation arrangement to be in writing, such requirement may be satisfied by a collection of documents, including contemporaneous documents evidencing the course of conduct between the parties.
+
+[72 FR 51086, Sept. 5, 2007; 72 FR 68076, Dec. 4, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 74 FR 62006, Nov. 25, 2009; 80 FR 71374, Nov. 16, 2015; 83 FR 60074, Nov. 23, 2018]

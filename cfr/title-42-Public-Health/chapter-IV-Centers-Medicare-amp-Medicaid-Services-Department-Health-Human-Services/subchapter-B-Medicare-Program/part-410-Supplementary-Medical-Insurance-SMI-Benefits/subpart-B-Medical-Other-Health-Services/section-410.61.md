@@ -14,9 +14,9 @@
 
 (5) A nurse practitioner, a clinical nurse specialist, or a physician assistant.
 
-(c) *Content of the plan.* The plan prescribes the type, amount, frequency, and duration of the physical therapy, occupational therapy, or speech-language pathology services to be furnished to the individual, and indicates the diagnosis and anticipated goals that are consistent with the patient function reporting on claims for services.
+(c) *Content of the plan.* The plan prescribes the type, amount, frequency, and duration of the physical therapy, occupational therapy, or speech-language pathology services to be furnished to the individual, and indicates the diagnosis and anticipated goals.
 
-(d) *Changes in the plan.* Any changes in the plan -
+(d) *Changes in the plan.* Any changes in the plan—
 
 (1) Are made in writing and signed by one of the following:
 
@@ -34,4 +34,4 @@
 
 (2) The changes are incorporated in the plan immediately.
 
-[53 FR 6638, Mar. 2, 1988; 53 FR 12945, Apr. 20, 1988, as amended at 54 FR 38680, Sept. 20, 1989; 54 FR 46614, Nov. 6, 1989. Redesignated at 56 FR 8854, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 63 FR 58907, Nov. 2, 1998; 67 FR 80040, Dec. 31, 2002; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012]
+[53 FR 6638, Mar. 2, 1988; 53 FR 12945, Apr. 20, 1988, as amended at 54 FR 38680, Sept. 20, 1989; 54 FR 46614, Nov. 6, 1989. Redesignated at 56 FR 8854, Mar. 1, 1991; 56 FR 23022, May 20, 1991; 63 FR 58907, Nov. 2, 1998; 67 FR 80040, Dec. 31, 2002; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 83 FR 60073, Nov. 23, 2018]

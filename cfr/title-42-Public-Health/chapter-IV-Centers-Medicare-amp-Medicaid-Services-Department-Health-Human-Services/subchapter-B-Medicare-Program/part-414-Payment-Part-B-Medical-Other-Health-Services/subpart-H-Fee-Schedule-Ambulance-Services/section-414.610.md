@@ -1,5 +1,7 @@
 ##### § 414.610 Basis of payment. #####
 
+Link to an amendment published at 83 FR 60074, November 23, 2018.
+
 (a) *Method of payment.* Medicare payment for ambulance services is based on the lesser of the actual charge or the applicable fee schedule amount. The fee schedule payment for ambulance services equals a base rate for the level of service plus payment for mileage and applicable adjustment factors. Except for services furnished by certain critical access hospitals or entities owned and operated by them, as described in § 413.70(b) of this chapter, all ambulance services are paid under the fee schedule specified in this subpart (regardless of the vehicle furnishing the service).
 
 (b) *Mandatory assignment.* Effective with implementation of the ambulance fee schedule described in § 414.601 (that is, for services furnished on or after April 1, 2002), all payments made for ambulance services are made only on an assignment-related basis. Ambulance suppliers must accept the Medicare allowed charge as payment in full and may not bill or collect from the beneficiary any amount other than the unmet Part B deductible and Part B coinsurance amounts. Violations of this requirement may subject the provider or supplier to sanctions, as provided by law (part 402 of this chapter).

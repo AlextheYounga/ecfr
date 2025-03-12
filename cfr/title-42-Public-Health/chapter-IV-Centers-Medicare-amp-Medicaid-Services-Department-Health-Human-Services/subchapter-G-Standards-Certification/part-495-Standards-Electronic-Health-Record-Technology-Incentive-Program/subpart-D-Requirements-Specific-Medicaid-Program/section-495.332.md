@@ -1,5 +1,7 @@
 ##### § 495.332 State Medicaid health information technology (HIT) plan requirements. #####
 
+Link to an amendment published at 83 FR 60096, Nov. 23, 2018.
+
 Each State Medicaid HIT plan must include all of the following elements:
 
 (a) *State systems.* For State systems, interoperability, and the current and future visions:

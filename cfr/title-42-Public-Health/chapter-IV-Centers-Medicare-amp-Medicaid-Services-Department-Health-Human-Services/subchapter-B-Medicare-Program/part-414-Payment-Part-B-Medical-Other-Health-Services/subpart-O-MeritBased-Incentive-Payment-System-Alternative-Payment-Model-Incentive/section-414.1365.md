@@ -1,5 +1,7 @@
 ##### § 414.1365 Subcategories for the improvement activities performance category. #####
 
+Link to an amendment published at 83 FR 60080, November 23, 2018.
+
 (a) The following are the list of subcategories, of which, with the exception of Participation in an APM, include activities for selection by a MIPS eligible clinician or group:
 
 (1) Expanded practice access, such as same day appointments for urgent needs and after-hours access to clinician advice.

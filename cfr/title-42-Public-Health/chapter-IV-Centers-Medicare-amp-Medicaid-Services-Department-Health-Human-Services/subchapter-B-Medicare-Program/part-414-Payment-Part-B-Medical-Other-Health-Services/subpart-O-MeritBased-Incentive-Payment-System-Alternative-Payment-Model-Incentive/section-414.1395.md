@@ -1,5 +1,7 @@
 ##### § 414.1395 Public reporting. #####
 
+Link to an amendment published at 83 FR 60087, November 23, 2018.
+
 (a) *Public reporting of eligible clinician and group Quality Payment Program information.* For each program year, CMS posts on Physician Compare, in an easily understandable format, information regarding the performance of eligible clinicians or groups under the Quality Payment Program.
 
 (b) *Maintain existing public reporting standards.* With the exception of data that must be mandatorily reported on Physician Compare, for each program year, CMS relies on established public reporting standards to guide the information available for inclusion on Physician Compare. The public reporting standards require data included on Physician Compare to be statistically valid, reliable, and accurate; comparable across submission mechanisms; and meet the reliability threshold. And, to be included on the public facing profile pages, the data must also resonate with Web site users, as determined by CMS.

@@ -1,5 +1,7 @@
 ##### § 414.1330 Quality performance category. #####
 
+Link to an amendment published at 83 FR 60078, November 23, 2018.
+
 (a) For purposes of assessing performance of MIPS eligible clinicians on the quality performance category, CMS will use:
 
 (1) Quality measures included in the MIPS final list of quality measures.

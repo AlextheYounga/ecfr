@@ -1,7 +1,5 @@
 ##### § 93.321 Transfer and termination of allocations. #####
 
-Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
-
 (a) Allocations are not a property interest; they are an operating privilege subject to absolute FAA control.
 
 (b) Allocations are subject to the following conditions:
@@ -18,7 +16,7 @@ Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
 
 (ii) Allocations authorizing commercial air tours outside the Dragon and Zuni Point corridors may not be transferred into the Dragon and Zuni Point corridors. Allocations authorizing commercial air tours within the Dragon and Zuni Point corridors may be transferred outside of the Dragon and Zuni Point corridors.
 
-(iii) A certificate holder must notify in writing the Las Vegas Flight Standards District Office within 10 calendar days of a transfer of allocations. This notification must identify the parties involved, the type of transfer (permanent or temporary) and the number of allocations transferred. Permanent transfers are not effective until the Flight Standards District Office reissues the operations specifications reflecting the transfer. Temporary transfers are effective upon notification.
+(iii) A certificate holder must notify in writing the responsible Flight Standards Office within 10 calendar days of a transfer of allocations. This notification must identify the parties involved, the type of transfer (permanent or temporary) and the number of allocations transferred. Permanent transfers are not effective until the responsible Flight Standards Office reissues the operations specifications reflecting the transfer. Temporary transfers are effective upon notification.
 
 (5) An allocation will revert to the FAA upon voluntary cessation of commercial air tours within the SFRA for any consecutive 180-day period unless the certificate holder notifies the FSDO in writing, prior to the expiration of the 180-day time period, of the following: the reason why the certificate holder has not conducted any commercial air tours during the consecutive 180-day period; and the date the certificate holder intends on resuming commercial air tours operations. The FSDO will notify the certificate holder of any extension to the consecutive 180-days. A certificate holder may be granted one extension.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 48213, Sept. 24, 2018.
 
 (iv) Aviation safety.
 
-[65 FR 17733, Apr. 4, 2000]
+[65 FR 17733, Apr. 4, 2000 as amended by Amdt. 93-102, 83 FR 48213, Sept. 24, 2018]

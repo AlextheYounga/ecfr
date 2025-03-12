@@ -42,10 +42,10 @@
 
 (g) *Special rule for certain arrangements involving temporary noncompliance with signature requirements.* (1) An entity may submit a claim or bill and payment may be made to an entity that submits a claim or bill for a designated health service if -
 
-(i) The compensation arrangement between the entity and the referring physician fully complies with an applicable exception in § 411.355, § 411.356, or § 411.357, except with respect to the signature requirement in § 411.357(a)(1), (b)(1), (d)(1)(i), (e)(1)(i), (e)(4)(i), (l)(1), (p)(2), (q) (incorporating the requirement contained in § 1001.952(f)(4) of this title), (r)(2)(ii), (t)(1)(ii) or (t)(2)(iii) (both incorporating the requirements contained in § 411.357(e)(1)(i)), (v)(7)(i), (w)(7)(i), (x)(1)(i), or (y)(1); and
+(i) The compensation arrangement between the entity and the referring physician fully complies with an applicable exception in this subpart except with respect to the signature requirement of the exception; and
 
-(ii) The parties obtain the required signature(s) within 90 consecutive calendar days immediately following the date on which the compensation arrangement became noncompliant (without regard to whether any referrals occur or compensation is paid during such 90-day period) and the compensation arrangement otherwise complies with all criteria of the applicable exception.
+(ii) The parties obtain the required signature(s) within 90 consecutive calendar days immediately following the date on which the compensation arrangement became noncompliant and the compensation arrangement otherwise complies with all criteria of the applicable exception.
 
-(2) Paragraph (g)(1) of this section may be used by an entity only once every 3 years with respect to the same referring physician.
+(2) [Reserved]
 
-[72 FR 51086, Sept. 5, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 80 FR 71374, Nov. 16, 2015]
+[72 FR 51086, Sept. 5, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 80 FR 71374, Nov. 16, 2015; 83 FR, Nov. 23, 2018]

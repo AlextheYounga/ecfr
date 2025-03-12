@@ -1,5 +1,7 @@
 ##### § 425.402 Basic assignment methodology. #####
 
+Link to an amendment published at 83 FR 60093, November 23, 2018.
+
 (a) For performance years 2012 through 2015, CMS employs the following step-wise methodology to assign Medicare beneficiaries to an ACO after identifying all patients that had at least one primary care service with a physician who is an ACO professional of that ACO:
 
 (1)(i) Identify all primary care services rendered by primary care physicians during one of the following:

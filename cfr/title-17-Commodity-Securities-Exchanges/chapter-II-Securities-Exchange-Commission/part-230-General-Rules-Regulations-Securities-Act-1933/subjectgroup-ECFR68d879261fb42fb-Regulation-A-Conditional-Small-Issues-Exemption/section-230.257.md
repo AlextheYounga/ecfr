@@ -48,8 +48,4 @@
 
 (2) Recommence with the report covering the most recent financial period after that included in any effective registration statement or filed Exchange Act report.
 
-(g) *Temporary relief from ongoing reporting requirements.* (1) An issuer that is not able to meet a filing deadline for any report or form required to be filed by 17 CFR 230.252(f)(2)(i) or this section during the period from and including October 10, 2018 to and including November 21, 2018 due to Hurricane Michael and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 23, 2018.
-
-(2) In any report or form filed pursuant to paragraph (g)(1) of this section, the issuer must disclose that it is relying on this paragraph (g) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
-
-[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018]Effective Date Note:At 83 FR 52964, Oct. 19, 2018, § 230.257 was amended by adding paragraph (g) effective Oct. 19, 2018 through Nov. 23, 2018.
+[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018]

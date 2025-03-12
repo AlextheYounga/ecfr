@@ -1,5 +1,7 @@
 ##### § 117.716 Delaware River. #####
 
+Link to an amendment published at 83 FR 59311, Nov. 23, 2018.
+
 The following requirements apply to all drawbridges across the Delaware River:
 
 (a) The draws of railroad bridges need not be opened when there is a train in the bridge block approaching the bridge with the intention of crossing, or within five minutes of the known time of the passage of a scheduled passenger train.

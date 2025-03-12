@@ -1,5 +1,7 @@
 ##### § 425.200 Participation agreement with CMS. #####
 
+Link to an amendment published at 83 FR 60092, November 23, 2018.
+
 (a) *General.* In order to participate in the Shared Savings Program, an ACO must enter into a participation agreement with CMS for a period of not less than 3 years.
 
 (b) *Term of participation agreement.* (1) *For 2012.* For applications that are approved to participate in the Shared Savings Program for 2012, the start date for the participation agreement will be one of the following:

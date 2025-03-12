@@ -52,13 +52,29 @@
 
 (viii) A community mental health center (as defined in section 1861(ff)(3)(B) of the Act).
 
-(4) Originating sites must be:
+(ix) A renal dialysis facility (only for purposes of the home dialysis monthly ESRD-related clinical assessment in section 1881(b)(3)(B) of the Act);
+
+(x) The home of an individual (only for purposes of the home dialysis ESRD-related clinical assessment in section 1881(b)(3)(B) of the Act).
+
+(xi) A mobile stroke unit (only for purposes of diagnosis, evaluation, or treatment of symptoms of an acute stroke provided in accordance with section 1834(m)(6) of the Act).
+
+(xii) The home of an individual (only for purposes of treatment of a substance use disorder or a co-occurring mental health disorder, furnished on or after July 1, 2019, to an individual with a substance use disorder diagnosis.
+
+(4) Except as provided in paragraph (b)(4)(iv) of this section, originating sites must be:
 
 (i) Located in a health professional shortage area (as defined under section 332(a)(1)(A) of the Public Health Service Act (42 U.S.C. 254e(a)(1)(A)) that is either outside of a Metropolitan Statistical Area (MSA) as of December 31st of the preceding calendar year or within a rural census tract of an MSA as determined by the Office of Rural Health Policy of the Health Resources and Services Administration as of December 31st of the preceding calendar year, or
 
 (ii) Located in a county that is not included in a Metropolitan Statistical Area as defined in section 1886(d)(2)(D) of the Act as of December 31st of the preceding year, or
 
 (iii) An entity participating in a Federal telemedicine demonstration project that has been approved by, or receive funding from, the Secretary as of December 31, 2000, regardless of its geographic location.
+
+(iv) The geographic requirements specified in paragraph (b)(4) of this section do not apply to the following telehealth services:
+
+(A) Home dialysis monthly ESRD-related clinical assessment services furnished on or after January 1, 2019, at an originating site described in paragraphs (b)(3)(vi), (ix) or (x) of this section, in accordance with section 1881(b)(3)(B) of the Act; and
+
+(B) Services furnished on or after January 1, 2019, for purposes of diagnosis, evaluation, or treatment of symptoms of an acute stroke.
+
+(C) Services furnished on or after July 1, 2019 to an individual with a substance use disorder diagnosis, for purposes of treatment of a substance use disorder or a co-occurring mental health disorder.
 
 (5) The medical examination of the patient is under the control of the physician or practitioner at the distant site.
 
@@ -72,4 +88,4 @@
 
 (f) *Process for adding or deleting services.* Changes to the list of Medicare telehealth services are made through the annual physician fee schedule rulemaking process. A list of the services covered as telehealth services under this section is available on the CMS Web site.
 
-[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015]
+[66 FR 55330, Nov. 1, 2001, as amended at 67 FR 80041, Dec. 31, 2002; 69 FR 66423, Nov. 15, 2004; 70 FR 70330, Nov. 21, 2005; 72 FR 66399, Nov. 27, 2007; 73 FR 69934, Nov. 19, 2008; 74 FR 62005, Nov. 25, 2009; 75 FR 73615, Nov. 29, 2010; 76 FR 73470, Nov. 28, 2011; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 80 FR 71373, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018]

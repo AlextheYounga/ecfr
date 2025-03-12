@@ -22,8 +22,4 @@ I, [identify the certifying individual], certify that the financial statements o
 
 (5) The issuer liquidates or dissolves its business in accordance with state law.
 
-(d) *Temporary relief from certain reporting requirements.* (1) An issuer that is not able to meet a filing deadline for any report or form required to be filed by this section, 17 CFR 227.203(a)(3)), or 17 CFR 227.203(b) during the period from and including October 10, 2018 to and including November 21, 2018 due to Hurricane Michael and its aftermath shall be deemed to have satisfied the filing deadline for such report or form if the issuer files such report or form with the Commission on or before November 23, 2018.
-
-(2) In any report or form filed pursuant to paragraph (d)(1) of this section, the issuer must disclose that it is relying on this paragraph (d) and state the reasons why, in good faith, it could not file such report or form on a timely basis.
-
-[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018]Effective Date Note:At 83 FR 52964, Oct. 19, 2018, § 227.202 was amended by adding paragraph (d), effective Oct. 19, 2018 through Nov. 23, 2018.
+[80 FR 71537, Nov. 16, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018]

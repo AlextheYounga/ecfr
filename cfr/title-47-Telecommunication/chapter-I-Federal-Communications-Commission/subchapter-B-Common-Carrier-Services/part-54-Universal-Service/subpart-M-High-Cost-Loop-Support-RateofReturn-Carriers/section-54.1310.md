@@ -28,4 +28,4 @@
 
 (3) This paragraph (d) shall not apply to support provided from July 1, 2017 to June 30, 2018.
 
-[79 FR 39190, July 9, 2014, as amended at 83 FR 18965, May 1, 2018]
+[80 FR 4479, Jan. 27, 2015, as amended at 81 FR 24344, Apr. 25, 2016; 83 FR 18965, May 1, 2018]

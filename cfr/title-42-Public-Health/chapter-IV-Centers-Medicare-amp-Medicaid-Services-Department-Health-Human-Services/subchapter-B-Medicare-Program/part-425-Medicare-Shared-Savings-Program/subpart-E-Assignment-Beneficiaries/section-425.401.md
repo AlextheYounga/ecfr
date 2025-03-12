@@ -1,5 +1,7 @@
 ##### § 425.401 Criteria for a beneficiary to be assigned to an ACO. #####
 
+Link to an amendment published at 83 FR 60093, November 23, 2018.
+
 (a) A beneficiary may be assigned to an ACO under the assignment methodology in §§ 425.402 and 425.404, for a performance or benchmark year, if the beneficiary meets all of the following criteria during the assignment window:
 
 (1)(i) Has at least 1 month of Part A and Part B enrollment; and

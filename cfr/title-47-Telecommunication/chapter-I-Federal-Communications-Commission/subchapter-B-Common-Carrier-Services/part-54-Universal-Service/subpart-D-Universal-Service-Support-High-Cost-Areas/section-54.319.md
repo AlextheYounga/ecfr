@@ -40,4 +40,4 @@
 
 (h) The Wireline Competition Bureau shall update its analysis of competitive overlap in census blocks every seven years, utilizing the current public interest obligations in § 54.308(a)(2) as the standard that must be met by an unsubsidized competitor.
 
-[80 FR 4478, Jan. 27, 2015, as amended at 81 FR 24342, Apr. 25, 2016; 82 FR 14340, Mar. 20, 2017; 83 FR 14189, Apr. 3, 2018]Effective Date Note: At 81 FR 24342. Apr. 25, 2016, § 54.319(a) was revised and (d) through (h) were added. Paragraph (e) contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 4478, Jan. 27, 2015, as amended at 81 FR 24342, Apr. 25, 2016; 82 FR 14340, Mar. 20, 2017; 83 FR 14189, Apr. 3, 2018]

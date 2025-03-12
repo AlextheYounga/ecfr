@@ -1,6 +1,8 @@
 ##### § 405.2464 Payment rate. #####
 
-(a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.* (1) Except as specified in paragraph (c) of this section, a RHC that is authorized to bill under the reasonable cost system is paid an all-inclusive rate that is determined by the MAC at the beginning of the cost reporting period.
+(a) *Payment rate for RHCs that are authorized to bill under the reasonable cost system.*
+
+(1) Except as specified in paragraphs (d) and (e) of this section, an RHC that is authorized to bill under the reasonable cost system is paid an all-inclusive rate that is determined by the MAC at the beginning of the cost reporting period.
 
 (2) The rate is determined by dividing the estimated total allowable costs by estimated total visits for RHC services.
 
@@ -16,7 +18,7 @@
 
 (5) The RHC may request the MAC to review the rate to determine whether adjustment is required.
 
-(b) *Payment rate for FQHCs billing under the prospective payment system.* (1) Except as specified in paragraph (c) of this section, a per diem rate is calculated by CMS by dividing total FQHC costs by total FQHC daily encounters to establish an average per diem cost.
+(b) *Payment rate for FQHCs that are authorized to bill under the prospective payment system.* (1) Except as specified in paragraphs (d) and (e) of this section, a per diem rate is calculated by CMS by dividing total FQHC costs by total FQHC daily encounters to establish an average per diem cost.
 
 (2) The per diem rate is adjusted as follows:
 
@@ -30,8 +32,10 @@
 
 (B) A subsequent annual wellness visit.
 
-(c) *Payment for chronic care management services.* Payment to RHCs and FQHCs for qualified chronic care management services is at the physician fee schedule national average payment rate.
+(c) *Payment for care management services.* For chronic care management services furnished between January 1, 2016 and December 31, 2017, payment to RHCs and FQHCs is at the physician fee schedule national non-facility payment rate. For care management services furnished on or after January 1, 2018, payment to RHCs and FQHCs is at the rate set for each of the RHC and FQHC payment codes for care management services.
 
-(d) *Determination of the payment rate for FQHCs that are authorized to bill as grandfathered tribal FQHCs.* This rates is paid at the outpatient per visit rate for Medicare as set annually by the Indian Health Service for each beneficiary visit for covered services. There are no adjustments to this rate.
+(d) *Payment for FQHCs that are authorized to bill as grandfathered tribal FQHCs.* Grandfathered tribal FQHCs are paid at the outpatient per visit rate for Medicare as set annually by the Indian Health Service for each beneficiary visit for covered services. There are no adjustments to this rate.
 
-[79 FR 25478, May 2, 2014, as amended at 80 FR 71372, Nov. 16, 2015]
+(e) *Payment for communication technology-based and remote evaluation services.* For communication technology-based and remote evaluation services furnished on or after January 1, 2019, payment to RHCs and FQHCs is at the rate set for each of the RHC and FQHC payment codes for communication technology-based and remote evaluation services.
+
+[79 FR 25478, May 2, 2014, as amended at 80 FR 71372, Nov. 16, 2015; 83 FR 60073, Nov. 23, 2018]
