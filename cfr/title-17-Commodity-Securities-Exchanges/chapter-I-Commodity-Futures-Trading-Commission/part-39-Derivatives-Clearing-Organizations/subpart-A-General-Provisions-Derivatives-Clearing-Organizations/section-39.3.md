@@ -1,5 +1,7 @@
 ##### § 39.3 Procedures for registration. #####
 
+Link to an amendment published at 85 FR 67186, Oct. 21, 2020.
+
 (a) *Application for registration* - (1) *General procedure.* An entity seeking to register as a derivatives clearing organization shall file an application for registration with the Secretary of the Commission in the format and manner specified by the Commission. The Commission will review the application for registration as a derivatives clearing organization pursuant to the 180-day timeframe and procedures specified in section 6(a) of the Act, and may approve or deny the application. If the Commission approves the application, the Commission will register the applicant as a derivatives clearing organization subject to conditions as appropriate.
 
 (2) *Application.* Any entity seeking to register as a derivatives clearing organization shall submit to the Commission a completed Form DCO, which shall include a cover sheet, all applicable exhibits, and any supplemental materials, as provided in appendix A to this part (application). The Commission will not commence processing an application unless the applicant has filed the application as required by this section. Failure to file a completed application will preclude the Commission from determining that an application is materially complete, as provided in section 6(a) of the Act. Upon its own initiative, an applicant may file with its completed application additional information that may be necessary or helpful to the Commission in processing the application.

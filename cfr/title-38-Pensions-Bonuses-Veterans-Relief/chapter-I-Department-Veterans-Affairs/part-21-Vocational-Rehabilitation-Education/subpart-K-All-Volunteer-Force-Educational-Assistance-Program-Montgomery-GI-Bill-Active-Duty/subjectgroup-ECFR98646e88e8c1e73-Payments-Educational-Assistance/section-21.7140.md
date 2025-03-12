@@ -1,7 +1,5 @@
 ##### § 21.7140 Certifications and release of payments. #####
 
-Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
-
 (a) *Advance payments and lump-sum payments.* VA will apply the provisions of § 21.4138(a) and (b) in making advance payments and lump-sum payments to veterans and servicemembers.
 
 (Authority: 38 U.S.C. 3034 and 3680)
@@ -20,11 +18,13 @@ Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
 
 (Authority: 38 U.S.C. 3680(g), 3689)
 
-(2) VA will pay educational assistance to a veteran pursuing a program of apprenticeship or other on-job training only after -
+(2) VA will pay educational assistance to a veteran pursuing a program of apprenticeship or other on-job training only after—
 
 (i) The training establishment has certified his or her enrollment in the training program as provided in § 21.7152; and
 
-(ii) VA has received from the veteran and the training establishment a certification of hours worked.
+(ii) VA has received from the training establishment a certification of hours worked.
+
+(Authority: 38 U.S.C. 3034, 3680(g))
 
 (3) VA will pay educational assistance to a veteran or servicemember who is pursuing a correspondence course only after-
 
@@ -50,9 +50,9 @@ Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
 
 (5) VA will pay educational assistance for tuition assistance top-up only after the individual has submitted to VA a copy of the form(s) that the military service with jurisdiction requires for tuition assistance and that had been presented to the educational institution, covering the course or courses for which the claimant wants tuition assistance top-up. If the form(s) submitted did not contain the amount of tuition assistance charged to the individual, VA may delay payment until VA obtains that information from the educational institution. Examples of these forms include:
 
-(i) DA Form 2171, Request for Tuition Assistance - Army Continuing Education System;
+(i) DA Form 2171, Request for Tuition Assistance—Army Continuing Education System;
 
-(ii) AF Form 1227, Authority for Tuition Assistance - Education Services Program;
+(ii) AF Form 1227, Authority for Tuition Assistance—Education Services Program;
 
 (iii) NAVMC 10883, Application for Tuition Assistance, and either NAVEDTRA 1560/5, Tuition Assistance Authorization or NAVMC (page 2), Tuition Assistance Authorization;
 
@@ -78,4 +78,4 @@ Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
 
 (g) *Payments of accrued benefits.* Educational assistance remaining due and unpaid at the date of the servicemember's or veteran's death is payable under the provisions of § 3.1000 of this chapter.
 
-(Authority: 38 U.S.C. 5121)(The Office of Management and Budget has approved the information collection provisions in this section under control numbers 2900-0695 and 2900-0698)[53 FR 1757, Jan. 22, 1988, as amended at 55 FR 28388, July 11, 1990; 56 FR 20136, May 2, 1991; 56 FR 31332, July 10, 1991; 57 FR 15025, Apr. 24, 1992; 61 FR 26117, May 24, 1996; 62 FR 55761, Oct. 28, 1997; 64 FR 52652, Sept. 30, 1999; 68 FR 35180, June 12, 2003; 72 FR 16982, Apr. 5, 2007; 73 FR 65269, Nov. 3, 2008]
+(Authority: 38 U.S.C. 5121)(The Office of Management and Budget has approved the information collection provisions in this section under control numbers 2900-0178, 2900-0695, and 2900-0698)[53 FR 1757, Jan. 22, 1988, as amended at 55 FR 28388, July 11, 1990; 56 FR 20136, May 2, 1991; 56 FR 31332, July 10, 1991; 57 FR 15025, Apr. 24, 1992; 61 FR 26117, May 24, 1996; 62 FR 55761, Oct. 28, 1997; 64 FR 52652, Sept. 30, 1999; 68 FR 35180, June 12, 2003; 72 FR 16982, Apr. 5, 2007; 73 FR 65269, Nov. 3, 2008; 85 FR 59192, Sept. 21, 2020]

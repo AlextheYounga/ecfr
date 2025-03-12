@@ -1,5 +1,7 @@
 ##### § 39.2 Definitions. #####
 
+Link to an amendment published at 85 FR 67186, Oct. 21, 2020.
+
 For the purposes of this part:
 
 *Activity with a more complex risk profile* includes:

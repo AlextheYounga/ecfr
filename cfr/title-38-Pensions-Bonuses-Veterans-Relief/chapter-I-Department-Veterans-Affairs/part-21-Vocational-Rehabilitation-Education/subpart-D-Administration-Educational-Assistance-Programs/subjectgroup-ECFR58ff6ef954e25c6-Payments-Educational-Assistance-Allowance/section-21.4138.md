@@ -1,7 +1,5 @@
 ##### § 21.4138 Certifications and release of payments. #####
 
-Link to an amendment published at 85 FR 59191, Sept. 21, 2020.
-
 For the purposes of this section, the Manila Regional Office is considered the VA Regional Processing Office of jurisdiction for educational assistance allowance claims processed under 38 U.S.C. chapter 35 for educational institutions located in the Philippines.
 
 (a) *Advance payments.* (1) VA will make payments of educational assistance in advance when:
@@ -16,7 +14,7 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (v) There is no evidence in the veteran's, servicemember's, reservist's, or eligible person's claim file showing that he or she is not eligible for an advance payment;
 
-(vi) The period for which the veteran, servicemember, reservist, or eligible person has requested a payment either -
+(vi) The period for which the veteran, servicemember, reservist, or eligible person has requested a payment either—
 
 (A) Is preceded by an interval of nonpayment of 30 days or more; or
 
@@ -52,19 +50,19 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (e) *Other payments.* An individual must be pursuing a program of education in order to receive payments. To ensure that this is the case the provisions of this paragraph must be met.
 
-(1) VA will pay educational assistance to an individual (other than one pursuing a program of apprenticeship or other on-job training or a correspondence course, one who qualifies for an advance payment or one who qualifies for a lump-sum payment) only after -
+(1) VA will pay educational assistance to an individual (other than one pursuing a program of apprenticeship or other on-job training or a correspondence course, one who qualifies for an advance payment or one who qualifies for a lump-sum payment) only after—
 
 (i) The educational institution has certified his or her enrollment as provided in § 21.4203; and
 
 (ii) VA has received from the individual a verification of the individual's enrollment or verification of pursuit and continued enrollment, as appropriate. Generally, this verification will be required monthly, resulting in monthly payments.
 
-(2) VA will pay educational assistance to an individual pursuing a program of apprenticeship or other on-job training only after -
+(2) VA will pay educational assistance to an individual pursuing a program of apprenticeship or other on-job training only after—
 
 (i) The training establishment has certified his or her enrollment in the training program as provided in § 21.4203; and
 
-(ii) VA has received from the individual and the training establishment a certification of hours worked.
+(ii) VA has received from the training establishment a certification of hours worked.
 
-(3) VA will pay educational assistance to an individual who is pursuing a correspondence course only after -
+(3) VA will pay educational assistance to an individual who is pursuing a correspondence course only after—
 
 (i) The educational institution has certified his or her enrollment;
 
@@ -72,7 +70,7 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (iii) VA has received from the educational institution a certification or an endorsement on the individual's certificate, as to the number of lessons completed by the individual and serviced by the educational institution.
 
-(Authority: 38 U.S.C. 5113, 3680(b), 3680(g))
+(Authority: 38 U.S.C. 5113, 3680(b), 3680(c), 3680(g))
 
 (f) *Payment for intervals and temporary school closings.* VA may authorize payment for an interval or for a temporary school closing that occurs within a certified enrollment period. If a school closing that is or may be temporary occurs during an interval, VA will apply any applicable provisions in paragraphs (f)(1) through (f)(5) of this section concerning intervals and in paragraph (f)(6) of this section concerning temporary school closings. For the purposes of this paragraph, *interval* means a period without instruction between consecutive school terms, quarters, or semesters or a period without instruction between a summer term and a term, quarter, or semester. (See definitions of divisions of the school year in § 21.4200(b).)
 
@@ -142,10 +140,10 @@ For the purposes of this section, the Manila Regional Office is considered the V
 
 (*2*) The reason for the closing is a strike and the strike lasts, or is anticipated to last, more than 30 days.
 
-(ii) A school that disagrees with a decision made under paragraph (f)(6) of this section may request an administrative review. The review request must be submitted in writing and received by the Director of the VA Regional Processing Office of jurisdiction within one year of the date of VA's letter notifying the school of the decision. A review of the decision will include the evidence of record and any other pertinent evidence the school may wish to submit. The affirmation or reversal of the initial decision based on an administrative review is final. The review will be conducted by the -
+(ii) A school that disagrees with a decision made under paragraph (f)(6) of this section may request an administrative review. The review request must be submitted in writing and received by the Director of the VA Regional Processing Office of jurisdiction within one year of the date of VA's letter notifying the school of the decision. A review of the decision will include the evidence of record and any other pertinent evidence the school may wish to submit. The affirmation or reversal of the initial decision based on an administrative review is final. The review will be conducted by the—
 
 (A) Director, Education Service, if the Director of the VA Regional Processing Office of jurisdiction made the initial decision to continue or discontinue payments.
 
 (B) Under Secretary for Benefits, if the Director, Education Service, made the initial decision to continue or discontinue payments.
 
-(Authority: 38 U.S.C. 512, 3680(a))(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0604)[43 FR 35295, Aug. 9, 1978, as amended at 44 FR 62497, Oct. 31, 1979; 46 FR 20673, Apr. 7, 1981; 48 FR 37982, Aug. 22, 1983; 54 FR 33888, Aug. 17, 1989; 57 FR 24367, June 9, 1992; 64 FR 52651, Sept. 30, 1999; 68 FR 34328, June 9, 2003; 68 FR 35178, June 12, 2003; 73 FR 65263, Nov. 3, 2008]
+(Authority: 38 U.S.C. 512, 3680(a))(The Office of Management and Budget has approved the information collection requirements in this section under control numbers 2900-0178 and 2900-0604)[43 FR 35295, Aug. 9, 1978, as amended at 44 FR 62497, Oct. 31, 1979; 46 FR 20673, Apr. 7, 1981; 48 FR 37982, Aug. 22, 1983; 54 FR 33888, Aug. 17, 1989; 57 FR 24367, June 9, 1992; 64 FR 52651, Sept. 30, 1999; 68 FR 34328, June 9, 2003; 68 FR 35178, June 12, 2003; 73 FR 65263, Nov. 3, 2008; 85 FR 59191, Sept. 21, 2020]

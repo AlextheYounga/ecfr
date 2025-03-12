@@ -1,0 +1,3 @@
+##### § 1155.3 Legal review by Office of General Counsel. #####
+
+The Office of General Counsel is responsible for ensuring that Access Board guidance documents comply with applicable laws, regulations, and other Federal authorities, including the procedural requirements established in this part. Agency guidance documents must be reviewed and cleared before issuance or publication by the General Counsel or his or her designee, upon written delegation.

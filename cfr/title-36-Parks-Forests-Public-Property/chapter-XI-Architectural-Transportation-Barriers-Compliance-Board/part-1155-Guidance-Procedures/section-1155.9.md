@@ -1,0 +1,3 @@
+##### § 1155.9 Petitions for modification or withdrawal. #####
+
+Any person may petition the Access Board, in writing, for issuance, modification, or withdrawal of an agency guidance document. Requests should be addressed to the Office of General Counsel, describe the action(s) the requester wishes the agency to take with regard to existing or new guidance, and explain the bases for this request. Requests may be submitted by email (*OGC@access-board.gov*) or regular mail (Office of General Counsel, 1331 F Street NW, Suite 1000, Washington, DC 20004). The Office of General Counsel will review the request and respond in a timely manner, which, typically, is within 90 days of receipt.

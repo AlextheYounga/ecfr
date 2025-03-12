@@ -1,0 +1,3 @@
+##### § 1155.10 No private right of action. #####
+
+This part is solely intended to improve the internal management of the Access Board. Nothing in this part is intended to, or does, create a private right of action against the United States, its agencies or other entities, its officers or employees, or any other person. Authority to enforce compliance with this part is vested exclusively with the Board.

@@ -1,7 +1,5 @@
 ##### § 21.7640 Release of payments. #####
 
-Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
-
 (a) *Payments are dependent upon certifications, reports, and verifications of pursuit.* When certifications, reports, or verifications of pursuit are mentioned in this paragraph, the certifications, reports, and verifications of pursuit are to be made in the form prescribed by the Secretary of Veterans Affairs.
 
 (1) VA will pay educational assistance to a reservist who is pursuing a standard college degree only after the educational institution has certified his or her enrollment.
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
 
 (i) The training establishment has certified his or her enrollment in the training program in the form prescribed by the Secretary of Veterans Affairs; and
 
-(ii) VA has received certification by the reservist and the training establishment of the reservist's hours worked.
+(ii) VA has received certification by the training establishment of the reservist's hours worked.
 
 (4) VA will pay educational assistance to a reservist who is pursuing a correspondence course only after:
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 59192, Sept. 21, 2020.
 
 (f) *Apportionments prohibited.* VA will not apportion educational assistance.
 
-(Authority: 10 U.S.C. 16136(b), 38 U.S.C. 3680)(Approved by the Office of Management and Budget under control number 2900-0073)[53 FR 34740, Sept. 8, 1988, as amended at 61 FR 20729, May 8, 1996; 61 FR 29306, June 10, 1996; 61 FR 29482, June 11, 1996; 64 FR 52652, Sept. 30, 1999; 72 FR 39564, July 19, 2007; 73 FR 65269, Nov. 3, 2008]
+(Authority: 10 U.S.C. 16136(b), 38 U.S.C. 3680)(Approved by the Office of Management and Budget under control numbers 2900-0073 and 2900-0178)[53 FR 34740, Sept. 8, 1988, as amended at 61 FR 20729, May 8, 1996; 61 FR 29306, June 10, 1996; 61 FR 29482, June 11, 1996; 64 FR 52652, Sept. 30, 1999; 72 FR 39564, July 19, 2007; 73 FR 65269, Nov. 3, 2008; 85 FR 59192, Sept. 21, 2020]

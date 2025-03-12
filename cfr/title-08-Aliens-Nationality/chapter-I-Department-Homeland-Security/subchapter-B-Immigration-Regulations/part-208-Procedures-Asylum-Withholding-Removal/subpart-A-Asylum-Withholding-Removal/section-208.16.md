@@ -1,5 +1,7 @@
 ##### § 208.16 Withholding of removal under section 241(b)(3)(B) of the Act and withholding of removal under the Convention Against Torture. #####
 
+Link to an amendment published at 85 FR 67259, Oct. 21, 2020.
+
 (a) *Consideration of application for withholding of removal.* An asylum officer shall not decide whether the exclusion, deportation, or removal of an alien to a country where the alien's life or freedom would be threatened must be withheld, except in the case of an alien who is otherwise eligible for asylum but is precluded from being granted such status due solely to section 207(a)(5) of the Act. In exclusion, deportation, or removal proceedings, an immigration judge may adjudicate both an asylum claim and a request for withholding of removal whether or not asylum is granted.
 
 (b) *Eligibility for withholding of removal under section 241(b)(3) of the Act; burden of proof.* The burden of proof is on the applicant for withholding of removal under section 241(b)(3) of the Act to establish that his or her life or freedom would be threatened in the proposed country of removal on account of race, religion, nationality, membership in a particular social group, or political opinion. The testimony of the applicant, if credible, may be sufficient to sustain the burden of proof without corroboration. The evidence shall be evaluated as follows:

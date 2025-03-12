@@ -1,0 +1,3 @@
+##### § 1155.8 Notice-and-comment procedures. #####
+
+The Access Board shall publish a notice of availability in the Federal Register with a public comment period of not less than 30 days, absent written determination by the General Counsel that a public comment period would be impracticable, unnecessary, or contrary to the public interest. After the close of the public comment period, the Access Board will also prepare a written response to any major concerns raised by commenters and make this response document publicly available on the Access Board website and/or electronic rulemaking docket (such as regulations.gov), either before the guidance is finalized or upon publication.

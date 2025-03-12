@@ -1,0 +1,7 @@
+##### § 1155.6 Significance determinations. #####
+
+(a) *Agency requests.* The Access Board should make an initial, informal assessment concerning the “significance” of each proposed guidance document. The Office of General Counsel shall submit the proposed guidance to the Office of Management and Budget's Office of Information and Regulatory Affairs (OIRA) for a significance determination. The agency's request shall include, at minimum, a copy of the proposed guidance document, the agency's designation recommendation, and the bases for this recommendation.
+
+(b) *OIRA* s*ignificance determinations.* If OIRA determines that a guidance document is significant, the Access Board shall comply with the enhanced procedural requirements specified in §§ 1155.7 and 1155.8 prior to issuance. Otherwise, the Access Board may proceed to issue the guidance document after the Office of General Counsel has determined it complies with the requirements of § 1155.4.
+
+(c) *Emergency situations.* When an emergency, statutory deadline, judicial order, or other conditions, require the Access Board issue significant guidance more quickly than otherwise possible under the procedures established in this part, the Office of General Counsel will notify OIRA, as soon as possible, and comply with applicable clearance requirements to the maximum extent feasible.
