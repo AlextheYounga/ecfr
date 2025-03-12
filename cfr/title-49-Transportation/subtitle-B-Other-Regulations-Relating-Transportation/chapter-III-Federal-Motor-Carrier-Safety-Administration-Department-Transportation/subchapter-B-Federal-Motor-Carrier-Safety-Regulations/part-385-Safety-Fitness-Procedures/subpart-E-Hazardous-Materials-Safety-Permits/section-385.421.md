@@ -1,12 +1,10 @@
 ##### § 385.421 Under what circumstances will a safety permit be subject to revocation or suspension by FMCSA? #####
 
-Link to an amendment published at 78 FR 52650, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63708, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
 (a) *Grounds.* A safety permit will be subject to revocation or suspension by FMCSA for the following reasons:
 
-(1) A motor carrier fails to submit a renewal application (Form MCS-150B) in accordance with the schedule set forth in § 390.19(a)(2) and (a)(3) of this chapter;
+(1) A motor carrier fails to submit a renewal application (Form MCSA-1) in accordance with the schedule set forth in part 390, subpart E, of this subchapter.
 
-(2) A motor carrier provides any false or misleading information on its application (Form MCS-150B) or as part of updated information it is providing on Form MCS-150B (see § 385.405(d)).
+(2) A motor carrier provides any false or misleading information on its application form (Form MCSA-1) or as part of updated information it is providing on Form MCSA-1 (see § 385.405(d)).
 
 (3) A motor carrier is issued a final safety rating that is less than Satisfactory;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 78 FR 52650, Aug. 23, 2013.Link to a delay pub
 
 (4) A motor carrier whose safety permit has been revoked will not be issued a replacement safety permit or temporary safety permit for 365 days from the time of revocation.
 
-[69 FR 39367, June 30, 2004, as amended at 78 FR 58481, Sept. 24, 2013]
+[69 FR 39367, June 30, 2004, as amended at 78 FR 58481, Sept. 24, 2013; 80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.421 was suspended, effective Jan. 14, 2017.

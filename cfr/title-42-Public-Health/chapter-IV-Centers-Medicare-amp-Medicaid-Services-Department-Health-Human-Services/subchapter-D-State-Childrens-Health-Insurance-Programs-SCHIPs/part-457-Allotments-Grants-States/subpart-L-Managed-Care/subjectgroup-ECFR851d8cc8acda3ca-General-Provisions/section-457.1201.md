@@ -22,16 +22,18 @@
 
 (k) *Audited financial reports.* Contracts with MCOs, PAHPs, and PIHPs must comply with the requirements for submission of audited financial reports in § 438.3(m) of this chapter.
 
-(l) *Parity in mental health and substance use disorder benefits.* Contracts with MCOs, PAHPs, and PIHPs must comply with the requirements of § 438.3(n).
+(l) *Parity in mental health and substance use disorder benefits.* Contracts with MCOs, PAHPs, and PIHPs must comply with the requirements of § 457.496.
 
 (m) *Additional rules for contracts with PCCMs.* Contracts with PCCMs must comply with the requirements of § 438.3(q) of this chapter, except that the right to disenroll is in accordance with § 457.1212.
 
 (n) *Additional rules for contracts with PCCM entities.* (1) States must submit PCCM entity contracts to CMS for review.
 
-(2) Contracts with PCCMs must comply with the requirements of paragraph (o) of this section; § 457.1207; § 457.1240(b) (cross-referencing § 438.330(b)(3), (c), and (e) of this chapter); § 457.1240(e) (cross-referencing § 438.340 of this chapter); and § 457.1250(a) (cross-referencing § 438.350 of this chapter).
+(2) Contracts with PCCMs must comply with the requirements of paragraph (o) of this section; § 457.1207; § 457.1240(b) (cross-referencing § 438.330(b)(2), (b)(3), (c), and (e) of this chapter); § 457.1240(e) (cross-referencing § 438.340 of this chapter); and § 457.1250(a) (cross-referencing § 438.350 of this chapter).
 
 (o) *Attestations.* Contracts with MCO, PAHP, PIHP, PCCM or PCCM entities must include an attestation to the accuracy, completeness, and truthfulness of claims and payment data, under penalty of perjury.
 
 (p) *Guarantee not to avoid costs.* Contracts with an MCO, PAHP, PIHP, PCCM or PCCM entities must include a guarantee that the MCO, PAHP, PIHP, PCCM or PCCM entity will not avoid costs for services covered in its contract by referring enrollees to publicly supported health care resources.
 
 (q) *Recordkeeping requirements.* Contracts with MCOs, PIHPs, and PAHPs, must comply with the recordkeeping requirements of § 438.3(u) of this chapter.
+
+[81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017]

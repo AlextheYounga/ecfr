@@ -1,5 +1,7 @@
 ##### § 404.1519n Informing the medical source of examination scheduling, report content, and signature requirements. #####
 
+Link to an amendment published at 82 FR 5866, Jan. 18, 2017.
+
 The medical sources who perform consultative examinations will have a good understanding of our disability programs and their evidentiary requirements. They will be made fully aware of their responsibilities and obligations regarding confidentiality as described in § 401.105(e). We will fully inform medical sources who perform consultative examinations at the time we first contact them, and at subsequent appropriate intervals, of the following obligations:
 
 (a) *Scheduling.* In scheduling full consultative examinations, sufficient time should be allowed to permit the medical source to take a case history and perform the examination, including any needed tests. The following minimum scheduling intervals (*i.e.*, time set aside for the individual, not the actual duration of the consultative examination) should be used.

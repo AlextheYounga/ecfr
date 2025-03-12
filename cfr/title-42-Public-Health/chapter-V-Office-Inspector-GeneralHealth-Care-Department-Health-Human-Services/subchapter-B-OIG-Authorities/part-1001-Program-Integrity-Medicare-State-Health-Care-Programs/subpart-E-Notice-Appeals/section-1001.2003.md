@@ -1,5 +1,7 @@
 ##### § 1001.2003 Notice of proposal to exclude. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) Except as provided in paragraph (c) of this section, if the OIG proposes to exclude an individual or entity in accordance with § 1001.901, § 1001.951, § 1001.1601 or § 1001.1701, it will send written notice of this decision to the affected individual or entity. The written notice will provide the same information set forth in § 1001.2002(c). If an entity has a provider agreement under section 1866 of the Act, and the OIG also proposes to terminate that agreement in accordance with section 1866(b)(2)(C) of the Act, the notice will so indicate. The exclusion will be effective 60 days after the receipt of the notice (as defined in § 1005.2 of this chapter) unless, within that period, the individual or entity files a written request for a hearing in accordance with part 1005 of this chapter. Such request must set forth -
 
 (1) The specific issues or statements in the notice with which the individual or entity disagrees;

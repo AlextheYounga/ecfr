@@ -1,5 +1,7 @@
 ##### § 405.1112 Content of request for review. #####
 
+Link to an amendment published at 82 FR 5123, Jan. 17, 2017.
+
 (a) The request for MAC review must be filed with the MAC or appropriate ALJ hearing office. The request for review must be in writing and may be made on a standard form. A written request that is not made on a standard form is accepted if it contains the beneficiary's name; Medicare health insurance claim number; the specific service(s) or item(s) for which the review is requested; the specific date(s) of service; the date of the ALJ's decision or dismissal order, if any; if the party is requesting escalation from the ALJ to the MAC, the hearing office in which the appellant's request for hearing is pending; and the name and signature of the party or the representative of the party; and any other information CMS may decide.
 
 (b) The request for review must identify the parts of the ALJ action with which the party requesting review disagrees and explain why he or she disagrees with the ALJ's decision, dismissal, or other determination being appealed. For example, if the party requesting review believes that the ALJ's action is inconsistent with a statute, regulation, CMS Ruling, or other authority, the request for review should explain why the appellant believes the action is inconsistent with that authority.

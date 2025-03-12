@@ -1,5 +1,7 @@
 ##### § 405.1006 Amount in controversy required to request an ALJ hearing and judicial review. #####
 
+Link to an amendment published at 82 FR 5109, Jan. 17, 2017.
+
 (a) *Definitions.* For the purposes of aggregating claims to meet the amount in controversy requirement for an ALJ hearing or judicial review:
 
 (1) “Common issues of law and fact” means the claims sought to be aggregated are denied, or payment is reduced, for similar reasons and arise from a similar fact pattern material to the reason the claims are denied or payment is reduced.

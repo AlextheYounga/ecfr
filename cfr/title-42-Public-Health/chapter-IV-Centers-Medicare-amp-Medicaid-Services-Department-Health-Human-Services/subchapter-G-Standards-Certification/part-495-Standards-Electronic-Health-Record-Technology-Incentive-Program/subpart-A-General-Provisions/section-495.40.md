@@ -1,6 +1,6 @@
 ##### § 495.40 Demonstration of meaningful use criteria. #####
 
-(a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20 or § 495.24, as follows:
+(a) *Demonstration by EPs.* An EP must demonstrate that he or she satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22 or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For CY 2011 - (i) *Attestation.* Attest, through a secure mechanism, in a manner specified by CMS (or for a Medicaid EP, in a manner specified by the State), that during the EHR reporting period, the EP -
 
@@ -76,7 +76,7 @@
 
 (3) For all CYs, an EP who practices in multiple physical locations, not all of which have certified EHR technology available, will demonstrate meaningful use using only the locations where the EP has certified EHR technology available. (See also § 495.4 regarding the definition of meaningful EHR user).
 
-(b) *Demonstration by eligible hospitals and CAHs.* To successfully demonstrate that it is a meaningful EHR user, an eligible hospital or CAH must satisfy the following requirements:
+(b) *Demonstration by eligible hospitals and CAHs.* An eligible hospital or CAH must demonstrate that it satisfies each of the applicable objectives and associated measures under § 495.20, § 495.22, or § 495.24, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT:
 
 (1) For FY 2011 -
 
@@ -162,4 +162,4 @@
 
 (2) All EPs, eligible hospitals, and CAHs must keep documentation supporting their demonstration of meaningful use for 6 years.
 
-[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016]Editorial Note:At 81 FR 79892, Nov. 14, 2016, § 495.40 was amended in part by redesignating (b)(2)(i)(G) as (H) and adding a new (b)(2)(i)(G); however, the amendment could not be incorporated because (b)(2)(i)(H) already existed.
+[75 FR 44565, July 28, 2010, as amended at 76 FR 73473, Nov. 28, 2011; 76 FR 74584, Nov. 30, 2011; 77 FR 54157, Sept. 4, 2012; 77 FR 68565, Nov. 15, 2012; 77 FR 69372, Nov. 16, 2012; 79 FR 52933, Sept. 4, 2014. Redesignated and amended at 80 FR 62943, 62954, Oct. 16, 2015; 81 FR 77556, Nov. 4, 2016; 81 FR 79892, Nov. 14, 2016; 82 FR 36, Jan. 3, 2017]Editorial Note:At 81 FR 79892, Nov. 14, 2016, § 495.40 was amended in part by redesignating (b)(2)(i)(G) as (H) and adding a new (b)(2)(i)(G); however, the amendment could not be incorporated because (b)(2)(i)(H) already existed. At 82 FR 36, Jan. 3, 2017, a correction was published; however instructions 39.a., b., d., and f. could not be incorporated due to inaccurate regulatory instructions.

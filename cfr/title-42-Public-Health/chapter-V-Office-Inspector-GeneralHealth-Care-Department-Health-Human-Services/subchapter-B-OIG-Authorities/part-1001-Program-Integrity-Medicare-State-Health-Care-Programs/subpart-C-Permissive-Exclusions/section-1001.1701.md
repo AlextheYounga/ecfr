@@ -1,5 +1,7 @@
 ##### § 1001.1701 Billing for services of assistant at surgery during cataract operations. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude a physician whom it determines -
 
 (1) Has knowingly and willfully presented or caused to be presented a claim, or billed an individual enrolled under Part B of the Medicare program (or his or her representative) for:

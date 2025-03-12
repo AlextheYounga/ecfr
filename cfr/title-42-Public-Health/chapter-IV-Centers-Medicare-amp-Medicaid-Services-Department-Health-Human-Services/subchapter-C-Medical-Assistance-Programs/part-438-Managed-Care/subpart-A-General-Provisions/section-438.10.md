@@ -154,7 +154,7 @@
 
 (xii) How to exercise an advance directive, as set forth in § 438.3(j). For PAHPs, information must be provided only to the extent that the PAHP includes any of the providers described in § 489.102(a) of this chapter.
 
-(xiii) How to access auxiliary aids and services, including additional information in in alternative formats or languages.
+(xiii) How to access auxiliary aids and services, including additional information in alternative formats or languages.
 
 (xiv) The toll-free telephone number for member services, medical management, and any other unit providing services directly to enrollees.
 
@@ -217,3 +217,5 @@
 (3) Formulary drug lists must be made available on the MCO's, PIHP's, PAHP's, or, if applicable, PCCM entity's Web site in a machine readable file and format as specified by the Secretary.
 
 (j) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, PAHPs, PCCMs, and PCCM entities beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.10 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]

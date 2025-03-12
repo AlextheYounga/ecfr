@@ -1,7 +1,5 @@
 ##### § 1910.132 General requirements. #####
 
-Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
-
 (a) *Application.* Protective equipment, including personal protective equipment for eyes, face, head, and extremities, protective clothing, respiratory devices, and protective shields and barriers, shall be provided, used, and maintained in a sanitary and reliable condition wherever it is necessary by reason of hazards of processes or environment, chemical hazards, radiological hazards, or mechanical irritants encountered in a manner capable of causing injury or impairment in the function of any part of the body through absorption, inhalation or physical contact.
 
 (b) *Employee-owned equipment.* Where employees provide their own protective equipment, the employer shall be responsible to assure its adequacy, including proper maintenance, and sanitation of such equipment.
@@ -46,7 +44,7 @@ Non-mandatory appendix B contains an example of procedures that would comply wit
 
 (iii) Inadequacies in an affected employee's knowledge or use of assigned PPE indicate that the employee has not retained the requisite understanding or skill.
 
-(g) Paragraphs (d) and (f) of this section apply only to §§ 1910.133, 1910.135, 1919.136, and 1910.138. Parpagraphs (d) and (f) of this section do not apply to §§ 1910.134 and 1910.137.
+(g) Paragraphs (d) and (f) of this section apply only to §§ 1910.133, 1910.135, 1910.136, 1910.138, and 1910.140. Paragraphs (d) and (f) of this section do not apply to §§ 1910.134 and 1910.137.
 
 (h) *Payment for protective equipment.* (1) Except as provided by paragraphs (h)(2) through (h)(6) of this section, the protective equipment, including personal protective equipment (PPE), used to comply with this part, shall be provided by the employer at no cost to employees.
 
@@ -72,4 +70,4 @@ Note to § 1910.132(h):
 
 When the provisions of another OSHA standard specify whether or not the employer must pay for specific equipment, the payment provisions of that standard shall prevail.
 
-[39 FR 23502, June 27, 1974, as amended at 59 FR 16334, Apr. 6, 1994; 59 FR 33910, July 1, 1994; 72 FR 64428, Nov. 15, 2007; 76 FR 33606, June 8, 2011]
+[39 FR 23502, June 27, 1974, as amended at 59 FR 16334, Apr. 6, 1994; 59 FR 33910, July 1, 1994; 72 FR 64428, Nov. 15, 2007; 76 FR 33606, June 8, 2011; 81 FR 82999, Nov. 18, 2016]

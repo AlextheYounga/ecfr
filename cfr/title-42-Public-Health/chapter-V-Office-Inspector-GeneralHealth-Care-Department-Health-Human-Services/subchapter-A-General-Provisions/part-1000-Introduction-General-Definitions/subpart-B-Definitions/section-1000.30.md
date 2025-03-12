@@ -1,5 +1,7 @@
 ##### § 1000.30 Definitions specific to Medicaid. #####
 
+Link to an amendment published at 82 FR 4111, Jan. 12, 2017.
+
 As used in connection with the Medicaid program, unless the context indicates otherwise -
 
 *Applicant* means an individual whose written application for Medicaid has been submitted to the agency determining Medicaid eligibility, but has not received final action. This includes an individual (who need not be alive at the time of application) whose application is submitted through a representative or a person acting responsibly for the individual.

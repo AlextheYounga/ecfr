@@ -1,9 +1,17 @@
-##### § 88.12 Physician's determination of WTC-related health conditions. #####
+##### § 88.12 Enrollment decision—certified-eligible survivors. #####
 
-(a) A physician in a Clinical Center of Excellence or a member of the nationwide provider network shall promptly transmit to the WTC Program Administrator a diagnosis and the basis for the diagnosis of a WTC-related health condition or health condition medically associated with a WTC-related health condition. The physician's diagnosis shall be made based on an assessment of the following:
+(a) The WTC Health Program will prioritize certification requests in the order in which they are received.
 
-(1) The individual's exposure to airborne toxins, any other hazard or any other adverse condition resulting from the September 11, 2001, terrorist attacks.
+(b) The WTC Health Program will review the physician's determination, render a decision regarding certification of the individual's WTC-related health condition, and notify the individual of the decision and the reason for the decision in writing, pursuant to §§ 88.17 and 88.18.
 
-(2) The type of symptoms experienced by the individual and the temporal sequence of those symptoms.
+(1) If the individual is a screening-eligible survivor and the individual's condition is certified as a WTC-related health condition, the individual will automatically receive the status of a certified-eligible survivor.
 
-(b) For a health condition medically associated with a WTC-related health condition, the physician's determination shall contain information establishing how the health condition has resulted from treatment of a previously certified WTC-related health condition or how it has resulted from progression of the certified WTC-related health condition.
+(2) If a screening-eligible survivor's condition is not certified as a WTC-related health condition pursuant to §§ 88.17 and 88.18, the WTC Health Program will deny certified-eligible status. The screening-eligible survivor may appeal the decision to deny certification, as provided under § 88.21.
+
+(3) The WTC Health Program may deny certified-eligible survivor status of an otherwise eligible and qualified screening-eligible survivor if the Act's numerical limitations for certified-eligible survivors have been met.
+
+(i) No more than 25,000 individuals, other than those described in § 88.7, may be determined to be certified-eligible survivors at any time. The Administrator of the WTC Health Program may decide, based on the best available evidence, that sufficient funds are available under the WTC Health Program Fund to provide treatment and monitoring only for individuals who have already been certified as certified-eligible survivors at that time.
+
+(ii) [Reserved]
+
+(4) No individual who is determined to be a positive match to the terrorist watch list maintained by the Federal government may qualify to be a certified-eligible survivor in the WTC Health Program.

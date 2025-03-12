@@ -1,7 +1,5 @@
 ##### § 29.7 Apprenticeship agreement. #####
 
-Link to an amendment published at 81 FR 92107, Dec. 19, 2016.
-
 The apprenticeship agreement must contain, explicitly or by reference:
 
 (a) Names and signatures of the contracting parties (apprentice, and the program sponsor or employer), and the signature of a parent or guardian if the apprentice is a minor.
@@ -34,6 +32,10 @@ The apprenticeship agreement must contain, explicitly or by reference:
 
 (i) A reference incorporating as part of the agreement the standards of the apprenticeship program as they exist on the date of the agreement and as they may be amended during the period of the agreement.
 
-(j) A statement that the apprentice will be accorded equal opportunity in all phases of apprenticeship employment and training, without discrimination because of race, color, religion, national origin, or sex.
+(j) A statement that the apprentice will be accorded equal opportunity in all phases of apprenticeship employment and training, without discrimination because of race, color, religion, national origin, sex, sexual orientation, age (40 or older), genetic information, or disability.
 
 (k) Contact information (name, address, phone, and e-mail if appropriate) of the appropriate authority designated under the program to receive, process and make disposition of controversies or differences arising out of the apprenticeship agreement when the controversies or differences cannot be adjusted locally or resolved in accordance with the established procedure or applicable collective bargaining provisions.
+
+(l) A request for demographic data, including the apprentice's race, sex, and ethnicity, and disability status.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92107, Dec. 19, 2016]

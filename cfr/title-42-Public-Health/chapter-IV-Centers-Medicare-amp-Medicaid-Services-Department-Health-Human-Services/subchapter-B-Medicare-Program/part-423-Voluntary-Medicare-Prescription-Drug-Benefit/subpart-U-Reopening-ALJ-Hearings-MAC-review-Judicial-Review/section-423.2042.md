@@ -1,5 +1,7 @@
 ##### § 423.2042 The administrative record. #####
 
+Link to an amendment published at 82 FR 5134, Jan. 17, 2017.
+
 (a) *Creating the record.* (1) The ALJ makes a complete record of the evidence, including the hearing proceedings, if any.
 
 (2) The record will include marked as exhibits, the documents used in making the decision under review, including, but not limited to, medical records, written statements, certificates, reports, affidavits, and any other evidence the ALJ admits.

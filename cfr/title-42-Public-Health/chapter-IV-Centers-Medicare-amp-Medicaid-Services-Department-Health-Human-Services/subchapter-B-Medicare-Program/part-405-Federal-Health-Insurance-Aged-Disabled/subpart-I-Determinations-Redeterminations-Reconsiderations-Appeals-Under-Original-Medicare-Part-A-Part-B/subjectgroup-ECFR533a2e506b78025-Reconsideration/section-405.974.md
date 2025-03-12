@@ -1,5 +1,7 @@
 ##### § 405.974 Reconsideration. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 (a) *Reconsideration of a contractor determination.* Except as provided in § 405.972, upon the basis of the evidence of record, the QIC must issue a reconsideration affirming or reversing, in whole or in part, the initial determination, including the redetermination, in question.
 
 (b) *Reconsideration of contractor's dismissal of a redetermination request.* (1) A party to a contractor's dismissal of a request for redetermination has a right to have the dismissal reviewed by a QIC, if the party files a written request for review of the dismissal with the QIC within 60 calendar days after receipt of the contractor's notice of dismissal.

@@ -1,0 +1,3 @@
+##### § 11.2 What is the purpose of this part? #####
+
+This part implements section 402(j) of the Public Health Service Act (42 U.S.C. 282(j)) by providing requirements and procedures for the submission of clinical trial information for certain applicable clinical trials and other clinical trials to the Director of the National Institutes of Health (NIH) to be made publicly available via ClinicalTrials.gov, the Internet-accessible clinical trial registry and results data bank established by the National Library of Medicine (NLM) at *https://clinicaltrials.gov.*

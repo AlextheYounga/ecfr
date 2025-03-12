@@ -1,5 +1,7 @@
 ##### § 1001.401 Conviction relating to controlled substances. #####
 
+Link to an amendment published at 82 FR 4113, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude an individual or entity convicted under Federal or State law of a misdemeanor relating to the unlawful manufacture, distribution, prescription or dispensing of a controlled substance, as defined under Federal or State law. This section applies to any individual or entity that -
 
 (1) Is, or has ever been, a health care practitioner, provider or supplier;

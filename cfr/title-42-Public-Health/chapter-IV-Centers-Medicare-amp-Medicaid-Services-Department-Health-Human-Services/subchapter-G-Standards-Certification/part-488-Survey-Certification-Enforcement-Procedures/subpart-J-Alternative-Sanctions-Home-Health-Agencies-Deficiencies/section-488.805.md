@@ -1,5 +1,7 @@
 ##### § 488.805 Definitions. #####
 
+Link to an amendment published at 82 FR 4591, Jan. 13, 2017.
+
 As used in this subpart -
 
 *Directed plan of correction* means CMS or the temporary manager (with CMS/SA approval) may direct the HHA to take specific corrective action to achieve specific outcomes within specific timeframes.

@@ -1,7 +1,5 @@
 ##### § 214.1 Requirements for admission, extension, and maintenance of status. #####
 
-Link to an amendment published at 81 FR 82486, November 18, 2016.Link to an amendment published at 81 FR 92304, December 19, 2016.
-
 (a) *General* - (1) *Nonimmigrant classes.* For the purpose of administering the nonimmigrant provisions of the Act, the following administrative subclassifications of nonimmigrant classifications as defined in section 101(a)(15) of the Act are established:
 
 (i) Section 101(a)(15)(B) is divided into (B)(i) for visitors for business and (B)(ii) for visitors for pleasure;
@@ -18,7 +16,7 @@ Link to an amendment published at 81 FR 82486, November 18, 2016.Link to an amen
 
 (vii) Section 101(a)(15)(Q)(ii) is divided to create a (Q)(iii) for subclassification for the spouse and children of a nonimmigrant classified under section 101(a)(15)(Q)(ii) of the Act;
 
-(viii) Section 101(a)(15)(T)(ii) is divided into (T)(ii), (T)(iii) and (T)(iv) for the spouse, child, and parent, respectively, of a nonimmigrant classified under section 101(a)(15)(T)(i); and
+(viii) Section 101(a)(15)(T)(ii) is divided into (T)(ii), (T)(iii), (T)(iv), and (T)(v) for the spouse, child, parent, and unmarried sibling under 18 years of age, respectively, of a principal nonimmigrant classified under section 101(a)(15)(T)(i); and T(vi) for the adult or minor child of a derivative nonimmigrant classified under section 101(a)(15)(T)(ii); and
 
 (ix) Section 101(a)(15)(U)(ii) is divided into (U)(ii), (U)(iii), (U)(iv), and (U)(v) for the spouse, child, parent, and siblings, respectively, of a nonimmigrant classified under section 101(a)(15)(U)(i); and
 
@@ -82,7 +80,9 @@ Link to an amendment published at 81 FR 82486, November 18, 2016.Link to an amen
 |          101(a)(15)(T)(ii)           |       T-2        |
 |          101(a)(15)(T)(iii)          |       T-3        |
 |          101(a)(15)(T)(iv)           |       T-4        |
-|           101(a)(15)(U)(i)           |       U-1.       |
+|           101(a)(15)(T)(v)           |       T-5        |
+|          101(a)(15)(T)(vi)           |       T-6        |
+|           101(a)(15)(U)(i)           |       U-1        |
 |          101(a)(15)(U)(ii)           |U-2, U-3, U-4, U-5|
 |            101(a)(15)(V)             | V-1, V-2, or V-3 |
 |           NAFTA, Principal           |       TN.        |
@@ -204,4 +204,10 @@ The classification designation V-1 is for the spouse of a lawful permanent resid
 
 (k) *Denial of petitions under section 214(c) of the Act based on a finding by the Department of Labor.* Upon debarment by the Department of Labor pursuant to 20 CFR part 655, USCIS may deny any petition filed by that petitioner for nonimmigrant status under section 101(a)(15)(H) (except for status under sections 101(a)(15)(H)(i)(b1)), (L), (O), and (P)(i) of the Act) for a period of at least 1 year but not more than 5 years. The length of the period shall be based on the severity of the violation or violations. The decision to deny petitions, the time period for the bar to petitions, and the reasons for the time period will be explained in a written notice to the petitioner.
 
-[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+(l) *Period of stay.* (1) An alien admissible in E-1, E-2, E-3, H-1B, L-1, or TN classification and his or her dependents may be admitted to the United States or otherwise provided such status for the validity period of the petition, or for a validity period otherwise authorized for the E-1, E-2, E-3, and TN classifications, plus an additional period of up to 10 days before the validity period begins and 10 days after the validity period ends. Unless authorized under 8 CFR 274a.12, the alien may not work except during the validity period.
+
+(2) An alien admitted or otherwise provided status in E-1, E-2, E-3, H-1B, H-1B1, L-1, O-1 or TN classification and his or her dependents shall not be considered to have failed to maintain nonimmigrant status solely on the basis of a cessation of the employment on which the alien's classification was based, for up to 60 consecutive days or until the end of the authorized validity period, whichever is shorter, once during each authorized validity period. DHS may eliminate or shorten this 60-day period as a matter of discretion. Unless otherwise authorized under 8 CFR 274a.12, the alien may not work during such a period.
+
+(3) An alien in any authorized period described in paragraph (l) of this section may apply for and be granted an extension of stay under paragraph (c)(4) of this section or change of status under 8 CFR 248.1, if otherwise eligible.
+
+[26 FR 12067, Dec. 16, 1961]Editorial Note:For Federal Register citations affecting § 214.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

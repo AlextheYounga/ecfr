@@ -1,12 +1,10 @@
 ##### § 1201.1 Definitions. #####
 
-Link to an amendment published at 81 FR 91688, December 19, 2016.
-
 As used throughout this chapter, the following basic terms relating to the Federal Housing Finance Agency, the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, the Federal Home Loan Banks, the Office of Finance, and related entities have the meanings set forth below, unless otherwise indicated in a particular subchapter, part, section, or paragraph:
 
 *1934 Act* means the Securities Exchange Act of 1934 (15 U.S.C. 78a *et seq.*).
 
-*Acquired member assets or AMA* means those assets that may be acquired by a Bank under part 955 of this title, or any successor thereto.
+*Acquired member assets* or *AMA* means assets acquired in accordance with, and satisfying the applicable requirements of, part 1268 of this chapter.
 
 *Advance* means a loan from a Bank that is:
 
@@ -96,4 +94,4 @@ As used throughout this chapter, the following basic terms relating to the Feder
 
 *State* means a state of the United States, American Samoa, the Commonwealth of the Northern Mariana Islands, the District of Columbia, Guam, Puerto Rico, or the United States Virgin Islands.
 
-[78 FR 2322, Jan. 11, 2013, as amended at 79 FR 64665, Oct. 31, 2014; 81 FR 76295, Nov. 2, 2016]
+[78 FR 2322, Jan. 11, 2013, as amended at 79 FR 64665, Oct. 31, 2014; 81 FR 76295, Nov. 2, 2016; 81 FR 91688, Dec. 19, 2016]

@@ -1,5 +1,7 @@
 ##### § 423.2000 Hearing before an ALJ: general rule. #####
 
+Link to an amendment published at 82 FR 5127, Jan. 17, 2017.
+
 (a) If an enrollee is dissatisfied with an IRE's reconsideration, the enrollee may request a hearing.
 
 (b) A hearing may be conducted in-person, by video-teleconference, or by telephone. At the hearing, the enrollee may submit evidence subject to the restrictions in § 423.2018, examine the evidence used in making the determination under review, and present and/or question witnesses.

@@ -1,0 +1,3 @@
+##### § 3175.140 Flow-computer software testing. #####
+
+The BLM will approve a particular version of flow-computer software for use in a specific make and model of flow computer only if the testing performed on the software meets all of the standards and requirements in §§ 3175.141 through 3175.144. Type-testing is required for each software version that affects the calculation of flow rate, volume, heating value, live input variable averaging, flow time, or the integral value. Software updates or changes that do not affect these items do not require BLM approval.

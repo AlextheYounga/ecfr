@@ -1,1 +1,1 @@
-##### § 1610.3 Coordination with other Federal agencies, State and local governments, and Indian tribes. #####
+##### § 1610.3 Consultation with Indian tribes and coordination with other Federal agencies, State and local governments, and Indian tribes. #####

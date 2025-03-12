@@ -1,5 +1,7 @@
 ##### § 422.562 General provisions. #####
 
+Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
+
 (a) *Responsibilities of the MA organization.* (1) An MA organization, with respect to each MA plan that it offers, must establish and maintain -
 
 (i) A grievance procedure as described in § 422.564 for addressing issues that do not involve organization determinations;

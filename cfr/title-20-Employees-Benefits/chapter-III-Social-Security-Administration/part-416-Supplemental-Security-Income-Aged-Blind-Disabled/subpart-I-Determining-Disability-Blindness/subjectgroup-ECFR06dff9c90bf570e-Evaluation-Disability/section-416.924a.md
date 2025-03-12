@@ -1,5 +1,7 @@
 ##### § 416.924a Considerations in determining disability for children. #####
 
+Link to an amendment published at 82 FR 5879, Jan. 18, 2017.
+
 (a) *Basic considerations.* We consider all relevant information (*i.e.,* evidence) in your case record. The evidence in your case record may include information from medical sources, such as your pediatrician, other physician, psychologist, or qualified speech-language pathologist; other medical sources not listed in § 416.913(a), such as physical, occupational, and rehabilitation therapists; and nonmedical sources, such as your parents, teachers, and other people who know you.
 
 (1) *Medical evidence* - (i) *General.* Medical evidence of your impairment(s) must describe symptoms, signs, and laboratory findings. The medical evidence may include, but is not limited to, formal testing that provides information about your development or functioning in terms of standard deviations, percentiles, percentages of delay, or age or grade equivalents. It may also include opinions from medical sources about the nature and severity of your impairments. (*See* § 416.927.)

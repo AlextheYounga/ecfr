@@ -32,7 +32,7 @@
 
 (ii) The principles of § 1.7874-2(c)(2) (regarding acquisitions of stock of a foreign corporation that owns a domestic entity) apply by substituting the term “domestic” for “foreign” wherever it appears.
 
-(3) *Computation of foreign ownership percentage.* For purposes of determining a foreign ownership percentage, the principles of all rules applicable to calculating an ownership percentage apply (including section 7874(c)(4) and §§ 1.7874-2, 1.7874-2T, 1.7874-4T, 1.7874-5T, and 1.7874-7T) with the following modifications:
+(3) *Computation of foreign ownership percentage.* For purposes of determining a foreign ownership percentage, the principles of all rules applicable to calculating an ownership percentage apply (including section 7874(c)(4) and §§ 1.7874-2, 1.7874-2T, 1.7874-4, 1.7874-5T, and 1.7874-7T) with the following modifications:
 
 (i) Stock of a foreign acquiring corporation described in section 7874(a)(2)(B)(ii) is not taken into account.
 
@@ -66,4 +66,4 @@ Example.*Third-country transaction* - (i) *Facts.* FA, a newly formed foreign co
 
 (h) *Expiration date.* The applicability of this section expires on or before April 4, 2019.
 
-[T.D. 9761, 81 FR 20904, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016]
+[T.D. 9761, 81 FR 20904, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016; T.D. 9812, 82 FR 5401, Jan. 18, 2017]

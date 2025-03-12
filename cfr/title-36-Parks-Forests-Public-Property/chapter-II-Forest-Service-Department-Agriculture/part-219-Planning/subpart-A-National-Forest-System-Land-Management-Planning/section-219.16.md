@@ -1,14 +1,12 @@
 ##### § 219.16 Public notifications. #####
 
-Link to an amendment published at 81 FR 90739, Dec. 15, 2016.
-
 The following public notification requirements apply to plan development, amendment, or revision. Notifications may be combined where appropriate.
 
 (a) *When formal public notification is required.* Public notification must be provided as follows:
 
 (1) To initiate the development of a proposed plan, plan amendment, or plan revision;
 
-(2) To invite comments on a proposed plan, plan amendment, or plan revision, and associated environmental analysis. For a new plan, plan amendment, or a plan revision for which a draft environmental impact statement (EIS) is prepared, the comment period is at least 90 days. For an amendment for which a draft EIS is not prepared, the comment period is at least 30 days;
+(2) To invite comments on a proposed plan, plan amendment, or plan revision, and associated environmental analysis. For a new plan, plan amendment, or a plan revision for which a draft environmental impact statement (EIS) is prepared, the comment period is at least 90 days, except for an amendment that applies only to one project or activity. For an amendment that applies only to one project or activity for which a draft EIS is prepared, the comment period is at least 45 days unless a different time period is required by law or regulation or authorized pursuant to 40 CFR 1506.10(d). For an amendment for which a draft EIS is not prepared, the comment period is at least 30 days;
 
 (3) To begin the objection period for a plan, plan amendment, or plan revision before approval (§ 219.52);
 
@@ -33,3 +31,5 @@ The following public notification requirements apply to plan development, amendm
 (6) Additional public notice of administrative changes, changes to the monitoring program, opportunities to provide information for assessments, assessment reports, monitoring evaluation reports, or other notices not listed in paragraph (a) of this section may be made in any way the responsible official deems appropriate.
 
 (d) *Content of public notices.* Public notices required by this section except for notices applicable to paragraph (c)(3) of this section, must clearly describe the action subject to notice and the nature and scope of the decisions to be made; identify the responsible official; describe when, where, and how the responsible official will provide opportunities for the public to participate in the planning process; and explain how to obtain additional information.
+
+[77 FR 21260, Apr. 9, 2012, as amended at 81 FR 90739, Dec. 15, 2016]

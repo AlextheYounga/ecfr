@@ -1,7 +1,5 @@
 ##### § 1003.1 Organization, jurisdiction, and powers of the Board of Immigration Appeals. #####
 
-Link to an amendment published at 81 FR 92361, December 19, 2016.
-
 (a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 17 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board.
 
 (2) *Chairman.* The Attorney General shall designate one of the Board members to serve as Chairman. The Attorney General may designate one or two Vice Chairmen to assist the Chairman in the performance of his duties and to exercise all of the powers and duties of the Chairman in the absence or unavailability of the Chairman.
@@ -58,7 +56,7 @@ Link to an amendment published at 81 FR 92361, December 19, 2016.
 
 (12) Decisions of Immigration Judges on applications for adjustment of status referred on a Notice of Certification (Form I-290C) to the Immigration Court in accordance with §§ 1245.13(n)(2) and 1245.15(n)(3) of this chapter or remanded to the Immigration Court in accordance with §§ 1245.13(d)(2) and 1245.15(e)(2) of this chapter.
 
-(13) Decisions of adjudicating officials in practitioner disciplinary proceedings as provided in subpart G of this part.
+(13) Decisions of adjudicating officials in disciplinary proceedings involving practitioners or recognized organizations as provided in subpart G of this part.
 
 (14) Decisions of immigration judges regarding custody of aliens subject to a final order of removal made pursuant to § 1241.14 of this chapter.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 81 FR 92361, December 19, 2016.
 
 (ii) *Action by the Board.* The Board's case management screening plan shall promptly identify cases that are subject to summary dismissal pursuant to this paragraph. An order dismissing any appeal pursuant to this paragraph (d)(2) shall constitute the final decision of the Board.
 
-(iii) *Disciplinary consequences.* The filing by an attorney or representative accredited under § 1292.2(d) of this chapter of an appeal that is summarily dismissed under paragraph (d)(2)(i) of this section may constitute frivolous behavior under § 1003.102(j). Summary dismissal of an appeal under paragraph (d)(2)(i) of this section does not limit the other grounds and procedures for disciplinary action against attorneys or representatives.
+(iii) *Disciplinary consequences.* The filing by a practitioner, as defined in § 1003.101(b), of an appeal that is summarily dismissed under paragraph (d)(2)(i) of this section, may constitute frivolous behavior under § 1003.102(j).Summary dismissal of an appeal under paragraph (d)(2)(i) of this section does not limit the other grounds and procedures for disciplinary action against attorneys or representatives.
 
 (3) *Scope of review.* (i) The Board will not engage in *de novo* review of findings of fact determined by an immigration judge. Facts determined by the immigration judge, including findings as to the credibility of testimony, shall be reviewed only to determine whether the findings of the immigration judge are clearly erroneous.
 
@@ -102,7 +100,7 @@ Link to an amendment published at 81 FR 92361, December 19, 2016.
 
 (4) *Rules of practice.* The Board shall have authority, with the approval of the Director, EOIR, to prescribe procedures governing proceedings before it.
 
-(5) *Discipline of attorneys and representatives.* The Board shall determine whether any organization or individual desiring to represent aliens in immigration proceedings meets the requirements as set forth in § 1292.2 of this chapter. It shall also determine whether any organization desiring representation is of a kind described in § 1001.1(j) of this chapter, and shall regulate the conduct of attorneys, representatives of organizations, and others who appear in a representative capacity before the Board or the Service or any immigration judge.
+(5) *Discipline of practitioners and recognized organizations.* The Board shall have the authority pursuant to § 1003.101 *et seq.* to impose sanctions upon practitioners who appear in a representative capacity before the Board, the Immigration Courts, or DHS, and upon recognized organizations. The Board shall also have the authority pursuant to § 1003.107 to reinstate disciplined practitioners to appear in a representative capacity before the Board and the Immigration Courts, or DHS, or all three authorities.
 
 (6) *Identity, law enforcement, or security investigations or examinations.* (i) The Board shall not issue a decision affirming or granting to an alien an immigration status, relief or protection from removal, or other immigration benefit, as provided in 8 CFR 1003.47(b), that requires completion of identity, law enforcement, or security investigations or examinations if:
 
@@ -192,4 +190,4 @@ Link to an amendment published at 81 FR 92361, December 19, 2016.
 
 (j) *Continuation of jurisdiction and procedure.* The jurisdiction of, and procedures before, the Board of Immigration Appeals in exclusion, deportation, removal, rescission, asylum-only, and any other proceedings, shall remain in effect as in effect on February 28, 2003, until the regulations in this chapter are further modified by the Attorney General. Where a decision of an officer of the Immigration and Naturalization Service was, before March 1, 2003, appealable to the Board or to an immigration judge, or an application denied could be renewed in proceedings before an immigration judge, the same authority and procedures shall be followed until further modified by the Attorney General.
 
-[23 FR 9117, Nov. 26, 1958. Redesignated at 68 FR 9830, Feb. 28, 2003. Amended at 80 FR 31463, June 3, 2015]Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[23 FR 9117, Nov. 26, 1958. ]Editorial Note:For Federal Register citations affecting § 1003.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

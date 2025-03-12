@@ -1,5 +1,7 @@
 ##### § 416.920b How we consider evidence. #####
 
+Link to an amendment published at 82 FR 5877, Jan. 18, 2017.
+
 After we review all of the evidence relevant to your claim, including medical opinions (see § 416.927), we make findings about what the evidence shows. In some situations, we may not be able to make these findings because the evidence in your case record is insufficient or inconsistent. We consider evidence to be insufficient when it does not contain all the information we need to make our determination or decision. We consider evidence to be inconsistent when it conflicts with other evidence, contains an internal conflict, is ambiguous, or when the medical evidence does not appear to be based on medically acceptable clinical or laboratory diagnostic techniques. If the evidence in your case record is insufficient or inconsistent, we may need to take additional actions, as we explain in paragraphs (b) and (c) of this section.
 
 (a) If all of the evidence we receive, including all medical opinion(s), is consistent and there is sufficient evidence for us to determine whether you are disabled, we will make our determination or decision based on that evidence.

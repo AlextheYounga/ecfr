@@ -1,5 +1,7 @@
 ##### § 405.1010 When CMS or its contractors may participate in an ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5110, Jan. 17, 2017.
+
 (a) An ALJ may request, but may not require, CMS and/or one or more of its contractors to participate in any proceedings before the ALJ, including the oral hearing, if any. CMS and/or one or more of its contractors may also elect to participate in the hearing process.
 
 (b) If CMS or one or more of its contractors elects to participate, it advises the ALJ, the appellant, and all other parties identified in the notice of hearing of its intent to participate no later than 10 calendar days after receiving the notice of hearing.

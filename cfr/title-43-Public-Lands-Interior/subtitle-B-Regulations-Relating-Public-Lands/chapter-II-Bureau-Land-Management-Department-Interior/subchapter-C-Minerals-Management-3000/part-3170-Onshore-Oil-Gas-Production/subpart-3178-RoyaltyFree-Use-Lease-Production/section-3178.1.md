@@ -1,0 +1,3 @@
+##### § 3178.1 Purpose. #####
+
+The purpose of this subpart is to address the circumstances under which oil or gas produced from Federal and Indian leases may be used royalty-free in operations on the lease, unit, or communitized area. This subpart supersedes those portions of Notice to Lessees and Operators of Onshore Federal and Indian Oil and Gas Leases, Royalty or Compensation for Oil or Gas Lost (NTL-4A), pertaining to oil or gas used for beneficial purposes.

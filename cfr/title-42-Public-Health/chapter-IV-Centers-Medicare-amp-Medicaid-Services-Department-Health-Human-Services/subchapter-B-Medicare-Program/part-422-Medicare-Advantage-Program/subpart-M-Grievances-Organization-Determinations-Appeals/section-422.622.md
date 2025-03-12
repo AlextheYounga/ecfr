@@ -1,5 +1,7 @@
 ##### § 422.622 Requesting immediate QIO review of the decision to discharge from the inpatient hospital. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Enrollee's right to an immediate QIO review.* An enrollee has a right to request an immediate review by the QIO when an MA organization or hospital (acting directly or through its utilization committee), with physician concurrence determines that inpatient care is no longer necessary.
 
 (b) *Requesting an immediate QIO review.* (1) An enrollee who wishes to exercise the right to an immediate review must submit a request to the QIO that has an agreement with the hospital as specified in § 476.78 of this chapter. The request must be made no later than the day of discharge and may be in writing or by telephone.

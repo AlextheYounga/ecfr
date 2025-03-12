@@ -1,0 +1,3 @@
+##### § 1122.10 Transcripts. #####
+
+Transcripts, if any, of investigative testimony shall be recorded solely by the official reporter or other person or by means authorized by the Board or by the Investigating Officer(s). A witness who has given testimony pursuant to this part shall be entitled, upon written request, to procure a transcript of the witness' own testimony or, upon proper identification, shall have the right to inspect the official transcript of the witness' own testimony.

@@ -1,18 +1,18 @@
-##### § 1904.32 Annual summary. #####
-
-Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
+##### § 1904.32 Year-end review and annual summary. #####
 
 (a) *Basic requirement.* At the end of each calendar year, you must:
 
-(1) Review the OSHA 300 Log to verify that the entries are complete and accurate, and correct any deficiencies identified;
+(1) Review that year's OSHA 300 Log to verify that it contains accurate entries for all recordable injuries and illnesses that occurred during the year, and make any additions or corrections necessary to ensure its accuracy;
 
-(2) Create an annual summary of injuries and illnesses recorded on the OSHA 300 Log;
+(2) Verify that each injury and illness recorded on the 300 Log, including any injuries and illnesses added to the Log following your year-end review pursuant to paragraph (a)(1) of this section, is accurately recorded on a corresponding 301 Incident Report form;
 
-(3) Certify the summary; and
+(3) After you have verified the accuracy of the Log, create an annual summary of injuries and illnesses recorded on the Log;
 
-(4) Post the annual summary.
+(4) Certify the summary; and
 
-(b) *Implementation* - (1) *How extensively do I have to review the OSHA 300 Log entries at the end of the year?* You must review the entries as extensively as necessary to make sure that they are complete and correct.
+(5) Post the summary.
+
+(b) *Implementation* - (1) *How extensively do I have to review the OSHA 300 Log at the end of the year?* You must review the Log and its entries as extensively as necessary to verify that all recordable injuries and illnesses that occurred during the year are entered and that the Log and its entries are accurate.
 
 (2) *How do I complete the annual summary?* You must:
 
@@ -37,3 +37,5 @@ Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
 (5) *How do I post the annual summary?* You must post a copy of the annual summary in each establishment in a conspicuous place or places where notices to employees are customarily posted. You must ensure that the posted annual summary is not altered, defaced or covered by other material.
 
 (6) *When do I have to post the annual summary?* You must post the summary no later than February 1 of the year following the year covered by the records and keep the posting in place until April 30.
+
+[66 FR 6122, Jan. 19, 2001, as amended at 81 FR 91810, Dec. 19, 2016]

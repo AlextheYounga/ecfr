@@ -1,5 +1,7 @@
 ##### § 13.485 Subsistence use of timber and plant material. #####
 
+Link to an amendment published at 82 FR 3633, Jan. 12, 2017.
+
 (a) Notwithstanding any other provision of this part, the non-commercial cutting of standing timber by local rural residents for appropriate subsistence uses, such as firewood or house logs, may be permitted in park areas where subsistence uses are allowed as follows:
 
 (1) For standing timber of diameter greater than three inches at ground height, the Superintendent may permit cutting in accordance with the specifications of a permit if such cutting is determined to be compatible with the purposes for which the park area was established; and

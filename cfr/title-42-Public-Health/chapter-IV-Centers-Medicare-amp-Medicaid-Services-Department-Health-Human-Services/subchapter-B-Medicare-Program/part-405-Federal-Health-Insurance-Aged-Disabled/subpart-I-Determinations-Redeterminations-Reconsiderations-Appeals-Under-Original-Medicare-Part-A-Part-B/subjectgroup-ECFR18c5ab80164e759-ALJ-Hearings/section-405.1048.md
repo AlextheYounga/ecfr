@@ -1,5 +1,7 @@
 ##### § 405.1048 The effect of an ALJ's decision. #####
 
+Link to an amendment published at 82 FR 5119, Jan. 17, 2017.
+
 The decision of the ALJ is binding on all parties to the hearing unless -
 
 (a) A party to the hearing requests a review of the decision by the MAC within the stated time period or the MAC reviews the decision issued by an ALJ under the procedures set forth in § 405.1110, and the MAC issues a final decision or remand order or the appeal is escalated to Federal district court under the provisions at § 405.1132 and the Federal district court issues a decision.

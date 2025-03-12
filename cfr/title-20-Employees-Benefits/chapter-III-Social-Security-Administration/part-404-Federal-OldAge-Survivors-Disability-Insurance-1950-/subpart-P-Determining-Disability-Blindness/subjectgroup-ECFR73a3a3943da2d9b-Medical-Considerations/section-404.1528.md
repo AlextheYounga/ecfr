@@ -1,5 +1,7 @@
 ##### § 404.1528 Symptoms, signs, and laboratory findings. #####
 
+Link to an amendment published at 82 FR 5871, Jan. 18, 2017.
+
 (a) *Symptoms* are your own description of your physical or mental impairment. Your statements alone are not enough to establish that there is a physical or mental impairment.
 
 (b) *Signs* are anatomical, physiological, or psychological abnormalities which can be observed, apart from your statements (symptoms). Signs must be shown by medically acceptable clinical diagnostic techniques. Psychiatric signs are medically demonstrable phenomena that indicate specific psychological abnormalities, e.g., abnormalities of behavior, mood, thought, memory, orientation, development, or perception. They must also be shown by observable facts that can be medically described and evaluated.

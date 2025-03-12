@@ -1,5 +1,7 @@
 ##### § 423.2046 Notice of an ALJ decision. #####
 
+Link to an amendment published at 82 FR 5134, Jan. 17, 2017.
+
 (a) *General rule.* Unless the ALJ dismisses the hearing, the ALJ will issue a written decision that gives the findings of fact, conclusions of law, and the reasons for the decision.
 
 (1) For expedited hearings, the ALJ issues a written decision within the 10 calendar day adjudication timeframe under § 423.2016(b)(5).

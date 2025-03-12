@@ -22,7 +22,7 @@
 
 (d) *Calculation of the MLR.* The MLR experienced for each MCO, PIHP, or PAHP in a MLR reporting year is the ratio of the numerator (as defined in paragraph (e) of this section) to the denominator (as defined in paragraph (f) of this section). A MLR may be increased by a credibility adjustment, in accordance with paragraph (h) of this section.
 
-(e) *Numerator* - (1) *Required elements.* The numerator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year is the sum of the MCO's, PIHP's, or PAHP's incurred claims (as defined in (e)(2) of this section); the MCO's, PIHP's, or PAHP's expenditures for activities that improve health care quality (as defined in paragraph (e)(3) of this section); and fraud reduction activities (as defined in paragraph (e)(4) of this section).
+(e) *Numerator* - (1) *Required elements.* The numerator of an MCO's, PIHP's, or PAHP's MLR for a MLR reporting year is the sum of the MCO's, PIHP's, or PAHP's incurred claims (as defined in (e)(2) of this section); the MCO's, PIHP's, or PAHP's expenditures for activities that improve health care quality (as defined in paragraph (e)(3) of this section); and fraud prevention activities (as defined in paragraph (e)(4) of this section).
 
 (2) *Incurred claims.* (i) Incurred claims must include the following:
 
@@ -88,7 +88,7 @@
 
 (2) *Premium revenue.* Premium revenue includes the following for the MLR reporting year:
 
-(i) State capitation payments, developed in accordance with § 438.4, to the MCO, PIHP, or PAHP for all enrollees under a risk contract approved under § 438.3(a), excluding payments made under to § 438.6(d).
+(i) State capitation payments, developed in accordance with § 438.4, to the MCO, PIHP, or PAHP for all enrollees under a risk contract approved under § 438.3(a), excluding payments made under § 438.6(d).
 
 (ii) State-developed one time payments, for specific life events of enrollees.
 
@@ -199,3 +199,5 @@
 (m) *Recalculation of MLR.* In any instance where a State makes a retroactive change to the capitation payments for a MLR reporting year where the report has already been submitted to the State, the MCO, PIHP, or PAHP must re-calculate the MLR for all MLR reporting years affected by the change and submit a new report meeting the requirements in paragraph (k) of this section.
 
 (n) *Attestation.* MCOs, PIHPs, and PAHPs must attest to the accuracy of the calculation of the MLR in accordance with requirements of this section when submitting the report required under paragraph (k) of this section.
+
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]

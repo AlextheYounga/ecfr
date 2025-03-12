@@ -1,5 +1,7 @@
 ##### § 404.1616 Medical or psychological consultants. #####
 
+Link to an amendment published at 82 FR 5873, Jan. 18, 2017.
+
 (a) *What is a medical consultant?* A medical consultant is a person who is a member of a team that makes disability determinations in a State agency, as explained in § 404.1615, or who is a member of a team that makes disability determinations for us when we make disability determinations ourselves.
 
 (b) *What qualifications must a medical consultant have?* A medical consultant must be an acceptable medical source identified in § 404.1513(a)(1) or (a)(3) through (a)(5); that is, a licensed physician (medical or osteopathic), a licensed optometrist, a licensed podiatrist, or a qualified speech-language pathologist. The medical consultant must meet any appropriate qualifications for his or her specialty as explained in § 404.1513(a).

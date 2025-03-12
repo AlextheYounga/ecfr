@@ -1,5 +1,7 @@
 ##### § 1194.26 Desktop and portable computers. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 (a) All mechanically operated controls and keys shall comply with § 1194.23(k)(1) through (4).
 
 (b) If a product utilizes touchscreens or touch-operated controls, an input method shall be provided that complies with § 1194.23 (k) (1) through (4).

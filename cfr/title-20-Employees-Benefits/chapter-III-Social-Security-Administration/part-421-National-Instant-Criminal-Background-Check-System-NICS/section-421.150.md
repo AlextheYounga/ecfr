@@ -1,0 +1,5 @@
+##### § 421.150 Requesting relief from the Federal firearms prohibitions. #####
+
+(a) When our adjudication that an individual meets the criteria in § 421.110(b)(1) through (5) becomes final, he or she may apply for relief from the Federal firearms prohibitions imposed by Federal law as a result of our adjudication. If such an individual requests relief from us, we will apply the rules in §§ 421.150 through 421.165.
+
+(b) An application for relief filed under this section must be in writing and include the information required by § 421.151. It may also include any other supporting data that we or the applicant deem appropriate. When an individual requests relief under this section, we will also obtain a criminal history report on the individual before deciding whether to grant the request for relief.

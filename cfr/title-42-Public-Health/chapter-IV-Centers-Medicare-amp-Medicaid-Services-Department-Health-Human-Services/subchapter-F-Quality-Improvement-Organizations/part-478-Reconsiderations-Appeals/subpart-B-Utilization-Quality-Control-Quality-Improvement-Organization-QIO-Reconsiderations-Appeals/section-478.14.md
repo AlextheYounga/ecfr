@@ -1,5 +1,7 @@
 ##### § 478.14 Applicability. #####
 
+Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
+
 (a) *Basic provision.* This subpart applies to reconsiderations and hearings of a QIO initial denial determination involving the following issues:
 
 (1) Reasonableness of services.

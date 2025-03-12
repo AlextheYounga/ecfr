@@ -1,5 +1,7 @@
 ##### § 405.976 Notice of a reconsideration. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 (a) *Notification to parties* - (1) *General rules.* (i) Written notice of the reconsideration must be mailed or otherwise transmitted to all parties at their last known addresses, in accordance with the timeframes established in § 405.970(a) or (b).
 
 (ii) The notice must be written in a manner reasonably calculated to be understood by a beneficiary.

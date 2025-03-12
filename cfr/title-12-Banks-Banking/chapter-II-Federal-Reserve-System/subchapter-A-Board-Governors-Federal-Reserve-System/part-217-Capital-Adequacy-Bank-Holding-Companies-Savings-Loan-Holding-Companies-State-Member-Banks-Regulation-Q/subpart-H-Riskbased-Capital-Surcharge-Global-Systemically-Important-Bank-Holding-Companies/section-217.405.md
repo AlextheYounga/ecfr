@@ -1,7 +1,5 @@
 ##### § 217.405 Method 2 score. #####
 
-Link to an amendment published at 81 FR 90954, Dec. 16, 2016.
-
 (a) *General.* A global systemically important BHC's method 2 score is equal to:
 
 (1) The sum of:
@@ -12,11 +10,9 @@ Link to an amendment published at 81 FR 90954, Dec. 16, 2016.
 
 (b) *Systemic indicator score.* A global systemically important BHC's score for a systemic indicator is equal to:
 
-(1) The amount of the systemic indicator, as reported on the global systemically important BHC's most recent FR Y-15;
+(1) The amount of the systemic indicator, as reported by the bank holding company as of December 31 of the previous calendar year, expressed in billions of dollars;
 
 (2) Multiplied by the coefficient corresponding to the systemic indicator set forth in Table 1 of this section.
-
-Table 1 to § 217.405 - Coefficients for Systemic Indicators
 
 |          Category           |                 Systemic indicator                  |Coefficient value  <br/>(%)|
 |-----------------------------|-----------------------------------------------------|---------------------------|
@@ -29,3 +25,5 @@ Table 1 to § 217.405 - Coefficients for Systemic Indicators
 |                             |                   Level 3 assets                    |          161.177          |
 |Cross-jurisdictional activity|             Cross-jurisdictional claims             |           9.277           |
 |                             |          Cross-jurisdictional liabilities           |           9.926           |
+
+[Reg. Q, 80 FR 49105, Aug. 14, 2015, as amended at 81 FR 90954, Dec. 16, 2016]

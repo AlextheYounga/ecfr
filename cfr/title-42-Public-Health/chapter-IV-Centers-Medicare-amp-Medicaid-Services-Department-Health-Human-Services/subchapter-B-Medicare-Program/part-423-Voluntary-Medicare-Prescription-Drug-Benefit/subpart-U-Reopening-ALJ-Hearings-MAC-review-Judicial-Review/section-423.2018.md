@@ -1,5 +1,7 @@
 ##### § 423.2018 Submitting evidence before the ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5130, Jan. 17, 2017.
+
 (a) *All hearings.* An enrollee may submit any written evidence that he or she wishes to have considered at the hearing.
 
 (1) An ALJ will not consider any evidence submitted regarding a change in condition of an enrollee after the appealed coverage determination was made.

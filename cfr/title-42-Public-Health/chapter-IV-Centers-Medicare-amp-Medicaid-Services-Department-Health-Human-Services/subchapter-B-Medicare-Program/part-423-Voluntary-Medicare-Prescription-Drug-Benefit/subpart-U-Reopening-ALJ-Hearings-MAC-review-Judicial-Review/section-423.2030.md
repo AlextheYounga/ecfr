@@ -1,5 +1,7 @@
 ##### § 423.2030 ALJ hearing procedures. #####
 
+Link to an amendment published at 82 FR 5132, Jan. 17, 2017.
+
 (a) *General rule.* A hearing is open to the enrollee and to other persons the ALJ considers necessary and proper.
 
 (b) *At the hearing.* The ALJ fully examines the issues, questions the enrollee and other witnesses, and may accept documents that are material to the issues consistent with § 423.2018.

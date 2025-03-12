@@ -1,0 +1,5 @@
+##### § 1122.12 Certifications and false statements. #####
+
+(a) When producing documents under § 1122.4, the producing party shall submit a statement certifying that such person has made a reasonable search for the responsive documents and is producing all the documents called for by the Investigating Officer(s), subject to any search protocols agreed to by the Investigating Officer(s) and producing parties. If any responsive document(s) are not produced for any reason, the producing party shall state the reason therefor.
+
+(b) If any responsive documents are withheld because of a claim of the attorney-client privilege, work product privilege, or other applicable privilege, the producing party shall submit a list of such documents which shall, for each document, identify the attorney involved, the client involved, the date of the document, the person(s) shown on the document to have prepared and/or sent the document, and the person(s) shown on the document to have received copies of the document.

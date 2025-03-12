@@ -4,7 +4,7 @@
 
 (1) Identify, define, and specify the amount, duration, and scope of each service that the MCO, PIHP, or PAHP is required to offer.
 
-(2) Require that the services identified in paragraph (a)(1) of this section be furnished in an amount, duration, and scope that is no less than the amount, duration, and scope for the same services furnished to beneficiaries under FFS Medicaid, as set forth in § 440.230 of this chapter, and for enrollees under the age of 21, as set forth in subpart B of part 440 of this chapter.
+(2) Require that the services identified in paragraph (a)(1) of this section be furnished in an amount, duration, and scope that is no less than the amount, duration, and scope for the same services furnished to beneficiaries under FFS Medicaid, as set forth in § 440.230 of this chapter, and for enrollees under the age of 21, as set forth in subpart B of part 441 of this chapter.
 
 (3) Provide that the MCO, PIHP, or PAHP -
 
@@ -71,3 +71,5 @@
 (e) *Compensation for utilization management activities.* Each contract between a State and MCO, PIHP, or PAHP must provide that, consistent with §§ 438.3(i), and 422.208 of this chapter, compensation to individuals or entities that conduct utilization management activities is not structured so as to provide incentives for the individual or entity to deny, limit, or discontinue medically necessary services to any enrollee.
 
 (f) *Applicability date.* This section applies to the rating period for contracts with MCOs, PIHPs, and PAHPs beginning on or after July 1, 2017. Until that applicability date, states are required to continue to comply with § 438.210 contained in the 42 CFR parts 430 to 481, edition revised as of October 1, 2015.
+
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]

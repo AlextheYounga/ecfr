@@ -1,8 +1,6 @@
 ##### § 1267.2 Authorized investments and transactions. #####
 
-Link to an amendment published at 81 FR 91688, December 19, 2016.
-
-(a) In addition to assets enumerated in parts 1266 and 955 of this title and subject to the applicable limitations set forth in this part, and in part 1272 of this chapter, each Bank may invest in:
+(a) In addition to assets enumerated in parts 1266 and 1268 of this chapter and subject to the applicable limitations set forth in this part, and in part 1272 of this chapter, each Bank may invest in:
 
 (1) Obligations of the United States;
 
@@ -27,3 +25,5 @@ Link to an amendment published at 81 FR 91688, December 19, 2016.
 (4) Commitments to make advances; and
 
 (5) Commitments to make or purchase other loans.
+
+[76 FR 29151, May 20, 2011, as amended at 81 FR 91688, Dec. 19, 2016]

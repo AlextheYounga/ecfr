@@ -1,44 +1,42 @@
 ##### § 1910.261 Pulp, paper, and paperboard mills. #####
 
-Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
-
-(a) *General requirements* - (1) *Application.* This section applies to establishments where pulp, paper, and paperboard are manufactured and converted. This section does not apply to logging and the transportation of logs to pulp, paper, and paperboard mills.
+(a) *General requirements*—(1) *Application.* This section applies to establishments where pulp, paper, and paperboard are manufactured and converted. This section does not apply to logging and the transportation of logs to pulp, paper, and paperboard mills.
 
 (2) *Standards incorporated by reference.* Standards covering issues of occupational safety and health which have general application without regard to any specific industry are incorporated by reference in paragraphs (b) through (m) of this section and in subparagraphs (3) and (4) of this paragraph and made applicable under this section. Such standards shall be construed according to the rules set forth in § 1910.5.
 
 (3) *General incorporation of standards.* Establishments subject to this section shall comply with the following standards of the American National Standards Institute, which are incorporated by reference as specified in § 1910.6:
 
-(i) Practice for Industrial Lighting, A11.1 - 1965 (R-1970).
+(i) Practice for Industrial Lighting, A11.1—1965 (R-1970).
 
-(ii) Scheme for the Identification of Piping Systems, A13.1 - 1956.
+(ii) Scheme for the Identification of Piping Systems, A13.1—1956.
 
-(iii) Safety Code for Elevators, Dumbwaiters, and Moving Walks, A17.1 - 1965, including Supplements A17.1a - 1967, A17.1b - 1968, A17.1c - 1969, and A17.1d - 1970.
+(iii) Safety Code for Elevators, Dumbwaiters, and Moving Walks, A17.1—1965, including Supplements A17.1a—1967, A17.1b—1968, A17.1c—1969, and A17.1d—1970.
 
-(iv) Practice for the Inspection of Elevators (Inspector's Manual), A17.2 - 1960, including Suppelements A17.2a - 1965 and A17.2b - 1967.
+(iv) Practice for the Inspection of Elevators (Inspector's Manual), A17.2—1960, including Suppelements A17.2a—1965 and A17.2b—1967.
 
-(v) Safety Code for Conveyors, Cableways, and Related Equipment, B20.1 - 1957.
+(v) Safety Code for Conveyors, Cableways, and Related Equipment, B20.1—1957.
 
-(vi) Power Piping, B31.1.0 - 1967 and addenda B31.10a - 1969. Fuel Gas Piping, B31.2 - 1968.
+(vi) Power Piping, B31.1.0—1967 and addenda B31.10a—1969. Fuel Gas Piping, B31.2—1968.
 
-(vii) Identification of Gas-Mask Canisters, K13.1 - 1967.
+(vii) Identification of Gas-Mask Canisters, K13.1—1967.
 
-(viii) Prevention of Sulfur Fires and Explosions, Z12.12 - 1968.
+(viii) Prevention of Sulfur Fires and Explosions, Z12.12—1968.
 
-(ix) Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, Z33.1 - 1961.
+(ix) Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying, Z33.1—1961.
 
 (4) *Other standards.* The following standards, which are incorporated by reference as specified in § 1910.6, shall be considered standards under this section:
 
 (i) ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels, including addenda 1969.
 
-(ii) Building Exits Code for Life Safety from Fire, NFPA 101 - 1970.
+(ii) Building Exits Code for Life Safety from Fire, NFPA 101—1970.
 
 (iii) Safety in the Handling and Use of Explosives, IME Pamphlet No. 17, July 1960, Institute of Makers of Explosives.
 
-(b) *Safe practices* - (1) *Lockouts.* Devices such as padlocks shall be provided for locking out the source of power at the main disconnect switch. Before any maintenance, inspection, cleaning, adjusting, or servicing of equipment (electrical, mechanical, or other) that requires entrance into or close contact with the machinery or equipment, the main power disconnect switch or valve, or both, controlling its source of power or flow of material, shall be locked out or blocked off with padlock, blank flange, or similar device.
+(b) *Safe practices*—(1) *Lockouts.* Devices such as padlocks shall be provided for locking out the source of power at the main disconnect switch. Before any maintenance, inspection, cleaning, adjusting, or servicing of equipment (electrical, mechanical, or other) that requires entrance into or close contact with the machinery or equipment, the main power disconnect switch or valve, or both, controlling its source of power or flow of material, shall be locked out or blocked off with padlock, blank flange, or similar device.
 
 (2) *Emergency lighting.* Emergency lighting shall be provided wherever it is necessary for employees to remain at their machines or stations to shut down equipment in case of power failure. Emergency lighting shall be provided at stairways and passageways or aisleways used by employees for emergency exit in case of power failure. Emergency lighting shall be provided in all plant first aid and medical facilities.
 
-(c) *Handling and storage of pulpwood and pulp chips* - (1) *Handling pulpwood with forklift trucks.* Where large forklift trucks, or lift trucks with clam-jaws, are used in the yard, the operator's enclosed cab shall be provided with an escape hatch, whenever the hydraulic arm blocks escape through the side doors.
+(c) *Handling and storage of pulpwood and pulp chips*—(1) *Handling pulpwood with forklift trucks.* Where large forklift trucks, or lift trucks with clam-jaws, are used in the yard, the operator's enclosed cab shall be provided with an escape hatch, whenever the hydraulic arm blocks escape through the side doors.
 
 (2) *Handling pulpwood with cranes or stackers.* (i) Where locomotive cranes are used for loading or unloading pulpwood, the pulpwood shall be piled so as to allow a clearance of not less than 24 inches between the pile and the end of the cab of any locomotive crane in use, when the cab is turned in any working position.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iii) A crane shall not be operated where any part thereof may come within 10 feet of overhead powerlines (or other overhead obstructions) unless the powerlines have been deenergized. The boom shall be painted bright yellow from and including the head sheave to a point 6 feet down the boom towards the cab.
 
-(iv) Standard signals for the operation of cranes shall be established for all movements of the crane, in accordance with American National Standards B30.2 - 1943 (reaffirmed 1968) and B30.2.0 - 1967.
+(iv) Standard signals for the operation of cranes shall be established for all movements of the crane, in accordance with American National Standards B30.2—1943 (reaffirmed 1968) and B30.2.0—1967.
 
 (v) Only one member of the crew shall be authorized to give signals to the crane operator.
 
@@ -102,7 +100,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (ii) After cars are spotted for loading or unloading, warning flags or signs shall be placed in the center of the track at least 50 feet away from the cars and a derail set to protect workmen in the car.
 
-(10) *Illumination.* Artificial illumination shall be provided when loading or unloading is performed after dark, in accordance with American National Standard A11.1 - 1965 (R - 1970).
+(10) *Illumination.* Artificial illumination shall be provided when loading or unloading is performed after dark, in accordance with American National Standard A11.1—1965 (R—1970).
 
 (11) [Reserved]
 
@@ -116,15 +114,15 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (15) *Belt conveyors.* (i) The sides of the conveyor shall be constructed so that the wood will not fall off.
 
-(ii) Where conveyors cross passageways or roadways, a horizontal platform shall be provided under the conveyor extending out from the sides of the conveyor a distance equal to 1.5 times the length of the wood handled. The platform shall extend the width of the road plus 2 feet on each side, and shall be kept free of wood and rubbish. The edges of the platform shall be provided with toeboards or other protection to prevent wood from falling, in accordance with § 1910.23.
+(ii) Where conveyors cross passageways or roadways, a horizontal platform shall be provided under the conveyor, extended out from the sides of the conveyor a distance equal to 11/2 times the length of the wood handled. The platform shall extend the width of the road plus 2 feet (61 cm) on each side, and shall be kept free of wood and rubbish. The edges of the platform shall be provided with toeboards or other protection that meet the requirements of subpart D of this part, to prevent wood from falling.
 
 (iii) All conveyors for pulpwood shall have the inrunning nips between chain and sprockets guarded; also, turning drums shall be guarded.
 
-(iv) Every belt conveyor shall have an emergency stop cable extending the length of the conveyor so that it may be stopped from any location along the line, or conveniently located stop buttons within 10 feet of each work station, in accordance with American National Standard B20.1 - 1957.
+(iv) Every belt conveyor shall have an emergency stop cable extending the length of the conveyor so that it may be stopped from any location along the line, or conveniently located stop buttons within 10 feet of each work station, in accordance with American National Standard B20.1—1957.
 
-(16) *Signs.* When conveyors cross walkways or roadways in the yards, the employer must erect signs reading “Danger - Overhead Conveyor” or an equivalent warning, in accordance with ANSI Z35.1-1968 or ANSI Z535.2-2011, incorporated by reference in § 1910.6.
+(16) *Signs.* When conveyors cross walkways or roadways in the yards, the employer must erect signs reading “Danger—Overhead Conveyor” or an equivalent warning, in accordance with ANSI Z35.1-1968 or ANSI Z535.2-2011, incorporated by reference in § 1910.6.
 
-(d) *Handling and storage of raw materials other than pulpwood or pulp chips* - (1) *Personal protective equipment.* Whenever possible, all dust, fumes, and gases incident to handling materials shall be controlled at the source, in accordance with American National Standard Z9.2 - 1960. Where control at the source is not possible, respirators with goggles or protective masks shall be provided, and employees shall wear them when handling alum, clay, soda ash, lime, bleach powder, sulfur, chlorine, and similar materials, and when opening rag bales.
+(d) *Handling and storage of raw materials other than pulpwood or pulp chips*—(1) *Personal protective equipment.* Whenever possible, all dust, fumes, and gases incident to handling materials shall be controlled at the source, in accordance with American National Standard Z9.2—1960. Where control at the source is not possible, respirators with goggles or protective masks shall be provided, and employees shall wear them when handling alum, clay, soda ash, lime, bleach powder, sulfur, chlorine, and similar materials, and when opening rag bales.
 
 (2) *Clearance.* (i) When materials are being piled inside a building and upon platforms, an aisle clearance at least 3 feet greater than the widest truck in use shall be provided.
 
@@ -142,13 +140,13 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iii) When rolls are decked two or more high, the bottom rolls shall be chocked on each side to prevent shifting in either direction.
 
-(e) *Preparing pulpwood* - (1) *Gang and slasher saws.* A guard shall be provided in front of all gang and slasher saws to protect workers from wood thrown by saws. A guard shall be placed over tail sprockets.
+(e) *Preparing pulpwood*—(1) *Gang and slasher saws.* A guard shall be provided in front of all gang and slasher saws to protect workers from wood thrown by saws. A guard shall be placed over tail sprockets.
 
 (2) *Slasher tables.* Saws shall be stopped and power switches shall be locked out and tagged whenever it is necessary for any person to be on the slasher table.
 
 (3) [Reserved]
 
-(4) *Runway to the jack ladder.* The runway from the pond or unloading dock to the table shall be protected with standard handrails and toeboards. Inclined portions shall have cleats or equivalent nonslip surfacing in accordance with § 1910.23. Protective equipment shall be provided for persons working over water.
+(4) *Runway to the jack ladder.* The runway from the pond or unloading dock to the table shall be protected with standard handrails and toeboards. Inclined portions shall have cleats or equivalent nonslip surfacing that complies with subpart D of this part. Protective equipment shall be provided for persons working over water.
 
 (5) *Guards below table.* Where not protected by the frame of the machine, the underside of the slasher saws shall be enclosed with guards.
 
@@ -184,7 +182,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (19) *Carriers for knives.* Carriers shall be provided and used for transportation of knives.
 
-(f) *Rag and old paper preparation* - (1) *Ripping and trimming tools.* (i) Hand knives and scissors shall have blunt points, shall be fastened to the table with chain or thong, and shall not be carried on the person but placed safely in racks or sheaths when not in use.
+(f) *Rag and old paper preparation*—(1) *Ripping and trimming tools.* (i) Hand knives and scissors shall have blunt points, shall be fastened to the table with chain or thong, and shall not be carried on the person but placed safely in racks or sheaths when not in use.
 
 (ii) Hand knives and sharpening steels shall be provided with guards at the junction of the handle and the blade.
 
@@ -194,15 +192,15 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iii) Any manually fed cutter, shredder, or duster shall be provided with an idler roll as per subdivision (ii) of this subparagraph or the operator shall use special hand-feeding tools.
 
-(iv) Hoods of cutters, shredders, and dusters shall have exhaust ventilation, in accordance with American National Standard Z9.2 - 1960.
+(iv) Hoods of cutters, shredders, and dusters shall have exhaust ventilation, in accordance with American National Standard Z9.2—1960.
 
 (3) *Blowers.* (i) Blowers used for transporting rags shall be provided with feed hoppers having outer edges located not less than 48 inches from the fan.
 
 (ii) The arrangement of the blower discharge outlets and work areas shall be such as to prevent material from falling on workers.
 
-(4) *Conveyors.* Conveyors and conveyor drive belts and pulleys shall be fully enclosed or, if open and within 7 feet of the floor, shall be constructed and guarded in accordance with paragraph (c)(15) of this section and American National Standards B15.1 - 1953 (Reaffirmed 1958) and B20.1 - 1957.
+(4) *Conveyors.* Conveyors and conveyor drive belts and pulleys shall be fully enclosed or, if open and within 7 feet of the floor, shall be constructed and guarded in accordance with paragraph (c)(15) of this section and American National Standards B15.1—1953 (Reaffirmed 1958) and B20.1—1957.
 
-(5) *Dust.* Measures for the control of dust shall be provided, in accordance with American National Standards Z33.1 - 1961, Z87.1 - 1968, and Z88.2 - 1969.
+(5) *Dust.* Measures for the control of dust shall be provided, in accordance with American National Standards Z33.1—1961, Z87.1—1968, and Z88.2—1969.
 
 (6) *Rag cookers.* (i) When cleaning, inspection, or other work requires that persons enter rag cookers, all steam and water valves, or other control devices, shall be locked and tagged in the closed or “off” position. Blank flanging of pipelines is acceptable in place of closed and locked valves.
 
@@ -210,19 +208,19 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iii) [Reserved]
 
-(iv) Rag cookers shall be provided with safety valves in accordance with the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels - 1968, with Addenda.
+(iv) Rag cookers shall be provided with safety valves in accordance with the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.
 
-(g) *Chemical processes of making pulp* - (1) *Sulfur burners.* (i) Sulfur-burner houses shall be safely and adequately ventilated, and every precaution shall be taken to guard against dust explosion hazards and fires, in accordance with American National Standards Z9.2 - 1960 and Z12.12 - 1968.
+(g) *Chemical processes of making pulp*—(1) *Sulfur burners.* (i) Sulfur-burner houses shall be safely and adequately ventilated, and every precaution shall be taken to guard against dust explosion hazards and fires, in accordance with American National Standards Z9.2—1960 and Z12.12—1968.
 
 (ii) Nonsparking tools and equipment shall be used in handling dry sulfur.
 
-(iii) Sulfur storage bins shall be kept free of sulfur dust accumulation, in accordance with American National Standard Z9.2 - 1960.
+(iii) Sulfur storage bins shall be kept free of sulfur dust accumulation, in accordance with American National Standard Z9.2—1960.
 
 (iv) Sulfur-melting equipment shall not be located in the burner room.
 
 (2) *Protection for employees (acid plants).* (i) Supplied air respirators shall be strategically located for emergency and rescue use.
 
-(ii) During inspection, repairs, or maintenance of acid towers, the workman shall be provided with eye protection, a supplied air respirator, a safety belt, and an attached lifeline. The line shall be extended to an attendant stationed outside the tower opening.
+(ii) The worker shall be provided with eye protection, a supplied air respirator and a personal fall protection system that meets the requirements of subpart I of this part, during inspection, repairs or maintenance of acid towers. The line shall be extended to an attendant stationed outside the tower opening.
 
 (3) *Acid tower structure.* Outside elevators shall be inspected daily during winter months when ice materially affects safety. Elevators, runways, stairs, etc., for the acid tower shall be inspected monthly for defects that may occur because of exposure to acid or corrosive gases.
 
@@ -242,7 +240,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (10) *Gas masks (digester building).* Gas masks must be available, and they must furnish adequate protection against sulfurous acid and chlorine gases and be inspected and repaired in accordance with 29 CFR 1910.134.
 
-(11) *Elevators.* (i) Elevators shall be constructed in accordance with American National Standard A17.1 - 1965.
+(11) *Elevators.* (i) Elevators shall be constructed in accordance with American National Standard A17.1—1965.
 
 (ii) Elevators shall be equipped with gas masks for the maximum number of passengers.
 
@@ -256,7 +254,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iv) Digester blow valves shall be pinned or locked in closed position throughout the entire cooking period.
 
-(13) *Blow pits and blow tanks.* (i) Blowpit openings shall be preferably on the side of the pit instead of on top. When located on top, openings shall be as small as possible and shall be provided with railings in accordance with § 1910.23.
+(13) *Blow pits and blow tanks.* (i) Blow-pit openings preferably shall be on the side of the pit instead of on the top. Openings shall be as small as possible when located on top, and shall be protected in accordance with subpart D of this part.
 
 (ii) A specially constructed ladder shall be used for access to blow pits, to be constructed so that the door of the blow pit cannot be closed when the ladder is in place; other means shall be provided to prevent the closing of the pit door when anyone is in the pit.
 
@@ -276,27 +274,27 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (iii) No inspector shall enter a digester unless a lifeline is securely fastened to his body by means of a safety belt and at least one other experienced employee is stationed outside the digester to handle the line and to summon assistance. All ladders and lifelines shall be inspected before each use.
 
-(iv) All employees entering digesters for inspection or repair work shall be provided with protective headgear. Eye protection and dust masks shall be provided to workmen while the old brick lining is being removed, in accordance with American National Standards, Z87.1 - 1968, Z88.2 - 1969, and Z99.1 - 1969.
+(iv) All employees entering digesters for inspection or repair work shall be provided with protective headgear. Eye protection and dust masks shall be provided to workmen while the old brick lining is being removed, in accordance with American National Standards, Z87.1—1968, Z88.2—1969, and Z99.1—1969.
 
 (16) *Pressure tanks-accumulators (acid).* (i) Safety regulations governing inspection and repairing of pressure tanks-accumulators (acid) shall be the same as those specified in subparagraph (15) of this paragraph.
 
-(ii) The pressure tanks-accumulators shall be inspected twice annually. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels - 1968, with Addenda.)
+(ii) The pressure tanks-accumulators shall be inspected twice annually. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.)
 
-(17) *Pressure vessels (safety devices).* (i) A safety valve shall be installed in a separate line from each pressure vessel; no hand valve shall be installed between this safety valve and the pressure vessel. Safety valves shall be checked between each cook to be sure they have not become plugged or corroded to the point of being inoperative. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels - 1968, with Addenda.)
+(17) *Pressure vessels (safety devices).* (i) A safety valve shall be installed in a separate line from each pressure vessel; no hand valve shall be installed between this safety valve and the pressure vessel. Safety valves shall be checked between each cook to be sure they have not become plugged or corroded to the point of being inoperative. (See the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.)
 
-(ii) All safety devices shall conform to Paragraph U-2 in the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels - 1968, with Addenda.
+(ii) All safety devices shall conform to Paragraph U-2 in the ASME Boiler and Pressure Vessel Code, Section VIII, Unfired Pressure Vessels—1968, with Addenda.
 
 (18) *Miscellaneous.* Insofar as the processes of the sulfate and soda operations are similar to those of the sulfite processes, the standard of paragraphs (g) (1) through (17) of this section shall apply.
 
 (i) Quick operating showers, bubblers, etc., shall be available for emergency use in case of caustic soda burns.
 
-(ii) Rotary tenders, smelter operators, and those cleaning smelt spouts shall be provided with eye protection equipment (fitted with lenses that filter out the harmful rays emanating from the light source) when actively engaged in their duties, in accordance with American National Standard Z87.1 - 1968.
+(ii) Rotary tenders, smelter operators, and those cleaning smelt spouts shall be provided with eye protection equipment (fitted with lenses that filter out the harmful rays emanating from the light source) when actively engaged in their duties, in accordance with American National Standard Z87.1—1968.
 
-(iii) Heavy-duty pipe, valves, and fittings shall be used between digester and blow pit. These shall be inspected at least semiannually to determine the degree of deterioration and repaired or replaced when necessary, in accordance with American National Standards B31.1 - 1955, B31.1a - 1963, B31.1.0 - 1967, and B31.2 - 1968.
+(iii) Heavy-duty pipe, valves, and fittings shall be used between digester and blow pit. These shall be inspected at least semiannually to determine the degree of deterioration and repaired or replaced when necessary, in accordance with American National Standards B31.1—1955, B31.1a—1963, B31.1.0—1967, and B31.2—1968.
 
 (iv) Smelt-dissolving tanks shall be covered and the cover kept closed, except when samples are being taken.
 
-(v) Smelt tanks shall be provided with vent stacks and explosion doors, in accordance with American National Standard Z9.1 - 1951.
+(v) Smelt tanks shall be provided with vent stacks and explosion doors, in accordance with American National Standard Z9.1—1951.
 
 (19) *Blow lines.*
 
@@ -312,11 +310,11 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (23) *Turpentine systems and storage tanks.* Nonsparking tools and ground hose shall be used when pumping out the tank. The tank shall be surrounded by a berm or moat.
 
-(h) *Bleaching* - (1) *Bleaching engines.* Bleaching engines, except the Bellmer type, shall be completely covered on the top, with the exception of one small opening large enough to allow filling, but too small to admit a person. Platforms leading from one engine to another shall have standard guardrails in accordance with § 1910.23.
+(h) *Bleaching*—(1) *Bleaching engines.* Bleaching engines, except the Bellmer type, shall be completely covered on the top, with the exception of one small opening large enough to allow filling, but too small to admit an employee. Platforms leading from one engine to another shall have standard guardrails that meet the requirements in subpart D of this part.
 
-(2) *Bleach mixing rooms.* (i) The room in which the bleach powder is mixed shall be provided with adequate exhaust ventilation, located at the floor level, in accordance with American National Standard Z9.1 - 1951.
+(2) *Bleach mixing rooms.* (i) The room in which the bleach powder is mixed shall be provided with adequate exhaust ventilation, located at the floor level, in accordance with American National Standard Z9.1—1951.
 
-(ii) Chlorine gas shall be carried away from the work place and breathing area by an exhaust system. The gas shall be rendered neutral or harmless before being discharged into the atmosphere. The requirements of American National Standard Z9.2 - 1960 shall apply to this subdivision.
+(ii) Chlorine gas shall be carried away from the work place and breathing area by an exhaust system. The gas shall be rendered neutral or harmless before being discharged into the atmosphere. The requirements of American National Standard Z9.2—1960 shall apply to this subdivision.
 
 (iii) For emergency and rescue operations, the employer must provide employees with self-contained breathing apparatuses or supplied-air respirators, and ensure that employees use these respirators, in accordance with the requirements of 29 CFR 1910.134.
 
@@ -330,27 +328,27 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (v) Spur tracks upon which tank cars containing chlorine and caustic are spotted and connected to pipelines shall be protected by means of a derail in front of the cars.
 
-(vi) All chlorine, caustic, and acid lines shall be marked for positive identification, in accordance with American National Standard A13.1 - 1967.
+(vi) All chlorine, caustic, and acid lines shall be marked for positive identification, in accordance with American National Standard A13.1—1967.
 
 (4) *Bagged or drummed chemicals.* Bagged or drummed chemicals require efficient handling to prevent damage and spillage. Certain oxidizing chemicals used in bleaching pulp and also in some sanitizing work require added precautions for safety in storage and handling. In storage, these chemicals must be isolated from combustible materials and other chemicals with which they will react such as acids. They must also be kept dry, clean and uncontaminated.
 
-(i) *Mechanical pulp process* - (1) *Pulp grinders.* (i) Water wheels directly connected to pulp grinders shall be provided with speed governors limiting the peripheral speed of the grinder to that recommended by the manufacturer.
+(i) *Mechanical pulp process*—(1) *Pulp grinders.* (i) Water wheels directly connected to pulp grinders shall be provided with speed governors limiting the peripheral speed of the grinder to that recommended by the manufacturer.
 
 (ii) Doors of pocket grinders shall be arranged so as to keep them from closing accidentally.
 
-(2) *Butting saws.* Hood guards shall be provided on butting saws, in accordance with American National Standard O1.1 - 1954 (reaffirmed 1961).
+(2) *Butting saws.* Hood guards shall be provided on butting saws, in accordance with American National Standard O1.1—1954 (reaffirmed 1961).
 
 (3) *Floors and platforms.* The requirements of paragraph (b)(3) of this section shall apply.
 
-(4) *Personal protection.* Persons exposed to falling material shall wear eye, head, foot, and shin protection equipment, in accordance with American National Standards Z87.1 - 1968, Z88.2 - 1969, Z89.1 - 1969, and Z41.1 - 1967.
+(4) *Personal protection.* Persons exposed to falling material shall wear eye, head, foot, and shin protection equipment, in accordance with American National Standards Z87.1—1968, Z88.2—1969, Z89.1—1969, and Z41.1—1967.
 
-(j) *Stock preparation* - (1) *Pulp shredders.* (i) Cutting heads shall be completely enclosed except for an opening at the feed side sufficient to permit only entry of stock. The enclosure shall be bolted or locked in place. The enclosure shall be of solid material or with mesh or other openings not exceeding one-half inch.
+(j) *Stock preparation*—(1) *Pulp shredders.* (i) Cutting heads shall be completely enclosed except for an opening at the feed side sufficient to permit only entry of stock. The enclosure shall be bolted or locked in place. The enclosure shall be of solid material or with mesh or other openings not exceeding one-half inch.
 
 (ii) Either a slanting feed table with its outer edge not less than 36 inches from the cutting head or an automatic feeding device shall be provided.
 
 (iii) Repairs for cleaning of blockage shall be done only when the shredder is shutdown and control devices locked.
 
-(2) *Pulp conveyors.* Pulp conveyors and conveyor drive belts and pulleys shall be fully enclosed, or if open and within 7 feet of the floor, shall be constructed and guarded in accordance with American National Standard B20.1 - 1957.
+(2) *Pulp conveyors.* Pulp conveyors and conveyor drive belts and pulleys shall be fully enclosed, or if open and within 7 feet of the floor, shall be constructed and guarded in accordance with American National Standard B20.1—1957.
 
 (3) [Reserved]
 
@@ -358,13 +356,13 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (ii) When cleaning, inspecting, or other work requires that persons enter the beaters, all control devices shall be locked or tagged out, in accordance with paragraph (b)(4) of this section.
 
-(iii) When beaters are fed from a floor above, the chute opening, if less than 42 inches from the floor, shall be provided with a complete rail or other enclosure. Openings for manual feeding shall be sufficient only for entry of stock, and shall be provided with at least two permanently secured crossrails in accordance with § 1910.23.
+(iii) When beaters are fed from the floor above, the chute opening, if less than 42 inches (1.06 m) from the floor, shall be provided with a guardrail system that meets the requirements in subpart D of this part, or other equivalent enclosures. Openings for manual feeding shall be sufficient only for entry of stock, and shall be provided with at least two permanently secured crossrails or other fall protection system that meet the requirements in subpart D.
 
 (iv) [Reserved]
 
 (v) Floors around beaters shall be provided with sufficient drainage to remove wastes.
 
-(5) *Pulpers.* (i) All pulpers having the top or any other opening of a vessel less than 42 inches from the floor or work platform shall have such openings guarded by railed or other enclosures. For manual charging, openings shall be sufficient to permit the entry of stock, and shall be provided with at least two permanently secured crossrails in accordance with § 1910.23.
+(5) *Pulpers.* (i) All pulpers having the top or any other opening of a vessel less than 42 inches (107 cm) from the floor or work platform shall have such openings guarded by guardrail systems that meet the requirements in subpart D of this part, or other equivalent enclosures. For manual changing, openings shall be sufficient only to permit the entry of stock, and shall be provided with at least two permanently secured crossrails, or other fall protection systems that meet the requirements in subpart D.
 
 (ii) When cleaning, inspecting, or other work requires that persons enter the pulpers, they shall be equipped with safety belt and lifeline, and one person shall be stationed outside at a position to observe and assist in case of emergency.
 
@@ -374,7 +372,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (ii) When cleaning, inspecting, or other work requires that persons enter stock chests, they shall be provided with a low-voltage extension light.
 
-(k) *Machine room* - (1) *Emergency stops.* Paper machines shall be equipped with devices that will stop the machine quickly in an emergency. The devices shall consist of push buttons for electric motive power (or electrically operated engine stops), pull cords connected directly to the prime mover, control clutches, or other devices, interlocked with adequate braking action. The devices shall be tested periodically by making use of them when stopping the machine and shall be so located that any person working on the machine can quickly disconnect the machine from the source of power in case of emergency.
+(k) *Machine room*—(1) *Emergency stops.* Paper machines shall be equipped with devices that will stop the machine quickly in an emergency. The devices shall consist of push buttons for electric motive power (or electrically operated engine stops), pull cords connected directly to the prime mover, control clutches, or other devices, interlocked with adequate braking action. The devices shall be tested periodically by making use of them when stopping the machine and shall be so located that any person working on the machine can quickly disconnect the machine from the source of power in case of emergency.
 
 (2) *Drives.* (i) All drives shall be provided with lockout devices at the power switch which interrupts the flow of current to the unit.
 
@@ -390,7 +388,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (4)-(5) [Reserved]
 
-(6) *Steps.* Steps of uniform rise and tread with nonslip surfaces shall be provided at each press in accordance with § 1910.23.
+(6) *Steps.* Steps of uniform rise and tread with nonslip surfaces that meet the requirements in subpart D of this part shall be provided at each press.
 
 (7) *Plank walkways.* A removable plank shall be provided along each press, with standard guardrails installed. The planks shall have nonslip surfaces in accordance with paragraph (b)(3) of this section.
 
@@ -402,11 +400,11 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (11) *Steam and hot-water pipes.* All exposed steam and hot-water pipes within 7 feet of the floor or working platform or within 15 inches measured horizontally from stairways, ramps, or fixed ladders shall be covered with an insulating material, or guarded in such manner as to prevent contact.
 
-(12) *Dryer gears.* Dryer gears shall be guarded excepting where the oilers' walkway is removed out of reach of the gears' nips and spokes and hot pipes in accordance with American National Standard B15.1 - 1953 (reaffirmed 1958).
+(12) *Dryer gears.* Dryer gears shall be guarded excepting where the oilers' walkway is removed out of reach of the gears' nips and spokes and hot pipes in accordance with American National Standard B15.1—1953 (reaffirmed 1958).
 
 (i) A guardrail shall be provided at broke holes in accordance with § 1910.23.
 
-(13) *Broke hole.* (i) A guardrail shall be provided at broke holes in accordance with § 1910.23.
+(13) *Broke hole.* (i) A guardrail that complies with subpart D of this part shall be provided at broke holes.
 
 (ii) Where pulpers are located directly below the broke hole on a paper machine and where the broke hole opening is large enough to permit a worker to fall through, any employee pushing broke down the hole shall wear a safety belt attached to a safety belt line. The safety belt line shall be fastened in such a manner that it is impossible for the person to fall into the pulper.
 
@@ -414,7 +412,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (14) *Feeder belt.* A feeder belt or other effective device shall be provided for starting paper through the calender stack.
 
-(15) *Steps.* Steps or ladders of uniform rise and tread with nonslip surfaces shall be provided at each calendar stack. Handrails and hand grips shall be provided at each calendar stack in accordance with § 1910.23.
+(15) *Steps.* Steps or ladders that comply with subpart D of this part and tread with nonslip surfaces shall be provided at each calendar stack. Handrails and hand grips complying with subpart D shall be provided at each calendar stack.
 
 (16) [Reserved]
 
@@ -426,7 +424,7 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (20) *Scrapers.* Alloy steel scrapers with pullthrough blades approximately 3 by 5 inches in size shall be used to remove “scabs” from calender rolls.
 
-(21) *Illumination.* Permanent lighting shall be installed in all areas where employees are required to make machine adjustments and sheet transfers in accordance with the American National Standard A11.1 - 1965 (R 1970).
+(21) *Illumination.* Permanent lighting shall be installed in all areas where employees are required to make machine adjustments and sheet transfers in accordance with the American National Standard A11.1—1965 (R 1970).
 
 (22) *Control panels.* All control panel handles and buttons shall be protected from accidental contact.
 
@@ -456,13 +454,13 @@ Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
 
 (32) *Radiation.* Special standards regarding the use of radiation equipment shall be posted and followed as required by § 1910.96.
 
-(l) *Finishing room* - (1) *Cleaning rolls.* Rolls shall be cleaned only on the outrunning side.
+(l) *Finishing room*—(1) *Cleaning rolls.* Rolls shall be cleaned only on the outrunning side.
 
 (2) *Emergency stops.* Electrically or manually operated quick power disconnecting devices, interlocked with braking action, shall be provided on all operating sides of the machine within easy reach of all employees. These devices shall be tested by making use of them when stopping the machine.
 
-(3) *Core collars.* The requirements of paragraph (k)(27) of this section and the American National Standard B15.1 - 1953 (reaffirmed 1958) shall apply.
+(3) *Core collars.* The requirements of paragraph (k)(27) of this section and the American National Standard B15.1—1953 (reaffirmed 1958) shall apply.
 
-(4) *Elevators.* These shall be in accordance with American National Standard A17.1 - 1965.
+(4) *Elevators.* These shall be in accordance with American National Standard A17.1—1965.
 
 (5) *Control panels.* The requirements of paragraph (k)(22) of this section shall apply.
 
@@ -506,7 +504,7 @@ A zero speed switch should be installed to prevent the guard from being raised w
 
 (13) *Roll splitters.* The nip point and cutter knife shall be guarded by either automatic or manually operated barrier guards.
 
-(m) *Materials handling* - (1) *Hand trucks.* No person shall be permitted to ride on a powered hand truck unless it is so designed by the manufacturer. A limit switch shall be on operating handle - 30 degrees each way from a 45-degree angle up and down.
+(m) *Materials handling*—(1) *Hand trucks.* No person shall be permitted to ride on a powered hand truck unless it is so designed by the manufacturer. A limit switch shall be on operating handle—30 degrees each way from a 45-degree angle up and down.
 
 (2) [Reserved]
 
@@ -516,4 +514,4 @@ A zero speed switch should be installed to prevent the guard from being raised w
 
 (5) *Unloading cars.* Flag signals, derails, or other protective devices shall be used to protect men during switching operations. The blue flag policy shall be invoked according to paragraph (c)(9)(i) of this section.
 
-[39 FR 23502, June 27, 1974, as amended at 40 FR 23073, May 28, 1975; 43 FR 49751, Oct. 24, 1978; 49 FR 5323, Feb. 10, 1984; 55 FR 32015, Aug. 6, 1990; 61 FR 9241, Mar. 7, 1996; 63 FR 1285, Jan. 8, 1998; 63 FR 33467, June 18, 1998; 72 FR 71070, Dec. 14, 2007; 76 FR 80739, Dec. 27, 2011; 78 FR 35566, June 13, 2013]
+[39 FR 23502, June 27, 1974, as amended at 40 FR 23073, May 28, 1975; 43 FR 49751, Oct. 24, 1978; 49 FR 5323, Feb. 10, 1984; 55 FR 32015, Aug. 6, 1990; 61 FR 9241, Mar. 7, 1996; 63 FR 1285, Jan. 8, 1998; 63 FR 33467, June 18, 1998; 72 FR 71070, Dec. 14, 2007; 76 FR 80739, Dec. 27, 2011; 78 FR 35566, June 13, 2013; 81 FR 83005, Nov. 18, 2016]

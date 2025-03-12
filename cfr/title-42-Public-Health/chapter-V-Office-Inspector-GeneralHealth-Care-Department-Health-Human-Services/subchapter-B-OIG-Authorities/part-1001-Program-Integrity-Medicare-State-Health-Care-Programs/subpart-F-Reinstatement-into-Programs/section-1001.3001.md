@@ -1,5 +1,7 @@
 ##### § 1001.3001 Timing and method of request for reinstatement. #####
 
+Link to an amendment published at 82 FR 4117, Jan. 12, 2017.
+
 (a)(1) Except as provided in paragraphs (a)(2) and (a)(3) of this section or in § 1001.501(b)(4) of this part, an excluded individual or entity (other than those excluded in accordance with §§ 1001.1001 and 1001.1501) may submit a written request for reinstatement to the OIG only after the date specified in the notice of exclusion. Obtaining a program provider number or equivalent does not reinstate eligibility.
 
 (2) An entity under § 1001.1001 may apply for reinstatement prior to the date specified in the notice of exclusion by submitting a written request for reinstatement that includes documentation demonstrating that the standards set forth in § 1001.3002(c) have been met.

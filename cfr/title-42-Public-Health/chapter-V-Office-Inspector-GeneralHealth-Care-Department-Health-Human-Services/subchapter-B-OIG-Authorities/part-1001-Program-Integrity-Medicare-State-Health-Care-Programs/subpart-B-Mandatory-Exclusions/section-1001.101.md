@@ -1,5 +1,7 @@
 ##### § 1001.101 Basis for liability. #####
 
+Link to an amendment published at 82 FR 4112, Jan. 12, 2017.
+
 The OIG will exclude any individual or entity that -
 
 (a) Has been convicted of a criminal offense related to the delivery of an item or service under Medicare or a State health care program, including the performance of management or administrative services relating to the delivery of items or services under any such program;

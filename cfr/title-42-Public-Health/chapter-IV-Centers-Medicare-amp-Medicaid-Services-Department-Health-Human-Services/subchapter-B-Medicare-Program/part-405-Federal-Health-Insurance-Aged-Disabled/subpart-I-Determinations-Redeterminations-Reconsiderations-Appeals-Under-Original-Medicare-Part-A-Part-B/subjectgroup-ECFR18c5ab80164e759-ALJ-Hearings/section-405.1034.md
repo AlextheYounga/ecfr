@@ -1,5 +1,7 @@
 ##### § 405.1034 When an ALJ may remand a case to the QIC. #####
 
+Link to an amendment published at 82 FR 5117, Jan. 17, 2017.
+
 (a) *General rules.* (1) If an ALJ believes that the written record is missing information that is essential to resolving the issues on appeal and that information can be provided only by CMS or its contractors, then the ALJ may either:
 
 (i) Remand the case to the QIC that issued the reconsideration or

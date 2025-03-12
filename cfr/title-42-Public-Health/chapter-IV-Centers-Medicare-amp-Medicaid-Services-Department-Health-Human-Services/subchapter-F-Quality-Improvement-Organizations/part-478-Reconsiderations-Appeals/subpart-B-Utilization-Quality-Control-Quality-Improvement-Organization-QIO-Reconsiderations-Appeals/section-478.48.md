@@ -1,5 +1,7 @@
 ##### § 478.48 Reopening and revision of a reconsidered determination or a hearing decision. #####
 
+Link to an amendment published at 82 FR 5140, Jan. 17, 2017.
+
 (a) *QIO reopenings* - (1) *General rule.* A QIO or QIO subcontractor that made a reconsidered determination, or conducted a review of a DRG change as described in § 478.15, that is otherwise binding, may reopen and revise the reconsidered determination or review, either on its own motion or at the request of a party, within one year from the date of the reconsidered determination or review.
 
 (2) *Extension of time limit.* A QIO or QIO subcontractor may reopen and revise its reconsidered determination, or its review of a DRG change as described in § 478.15, that is otherwise binding, after one year but within four years of the date of the determination or review if -

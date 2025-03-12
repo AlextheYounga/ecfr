@@ -1,8 +1,6 @@
 ##### § 1910.67 Vehicle-mounted elevating and rotating work platforms. #####
 
-Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
-
-(a) *Definitions applicable to this section* - (1) *Aerial device.* Any vehicle - mounted device, telescoping or articulating, or both, which is used to position personnel.
+(a) *Definitions applicable to this section*—(1) *Aerial device.* Any vehicle—mounted device, telescoping or articulating, or both, which is used to position personnel.
 
 (2) *Aerial ladder.* An aerial device consisting of a single- or multiple-section extensible ladder.
 
@@ -20,15 +18,15 @@ Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
 
 (9) *Vertical tower.* An aerial device designed to elevate a platform in a substantially vertical axis.
 
-(b) *General requirements.* (1) Unless otherwise provided in this section, aerial devices (aerial lifts) acquired on or after July 1, 1975, shall be designed and constructed in conformance with the applicable requirements of the American National Standard for “Vehicle Mounted Elevating and Rotating Work Platforms,” ANSI A92.2 - 1969, including appendix, which is incorporated by reference as specified in § 1910.6. Aerial lifts acquired for use before July 1, 1975 which do not meet the requirements of ANSI A92.2 - 1969, may not be used after July 1, 1976, unless they shall have been modified so as to conform with the applicable design and construction requirements of ANSI A92.2 - 1969. Aerial devices include the following types of vehicle-mounted aerial devices used to elevate personnel to jobsites above ground: (i) Extensible boom platforms, (ii) aerial ladders, (iii) articulating boom platforms, (iv) vertical towers, and (v) a combination of any of the above. Aerial equipment may be made of metal, wood, fiberglass reinforced plastic (FRP), or other material; may be powered or manually operated; and are deemed to be aerial lifts whether or not they are capable of rotating about a substantially vertical axis.
+(b) *General requirements.* (1) Unless otherwise provided in this section, aerial devices (aerial lifts) acquired on or after July 1, 1975, shall be designed and constructed in conformance with the applicable requirements of the American National Standard for “Vehicle Mounted Elevating and Rotating Work Platforms,” ANSI A92.2—1969, including appendix, which is incorporated by reference as specified in § 1910.6. Aerial lifts acquired for use before July 1, 1975 which do not meet the requirements of ANSI A92.2—1969, may not be used after July 1, 1976, unless they shall have been modified so as to conform with the applicable design and construction requirements of ANSI A92.2—1969. Aerial devices include the following types of vehicle-mounted aerial devices used to elevate personnel to jobsites above ground: (i) Extensible boom platforms, (ii) aerial ladders, (iii) articulating boom platforms, (iv) vertical towers, and (v) a combination of any of the above. Aerial equipment may be made of metal, wood, fiberglass reinforced plastic (FRP), or other material; may be powered or manually operated; and are deemed to be aerial lifts whether or not they are capable of rotating about a substantially vertical axis.
 
-(2) Aerial lifts may be “field modified” for uses other than those intended by the manufacturer, provided the modification has been certified in writing by the manufacturer or by any other equivalent entity, such as a nationally recognized testing laboratory, to be in conformity with all applicable provisions of ANSI A92.2 - 1969 and this section, and to be at least as safe as the equipment was before modification.
+(2) Aerial lifts may be “field modified” for uses other than those intended by the manufacturer, provided the modification has been certified in writing by the manufacturer or by any other equivalent entity, such as a nationally recognized testing laboratory, to be in conformity with all applicable provisions of ANSI A92.2—1969 and this section, and to be at least as safe as the equipment was before modification.
 
 (3) The requirements of this section do not apply to firefighting equipment or to the vehicles upon which aerial devices are mounted, except with respect to the requirement that a vehicle be a stable support for the aerial device.
 
 (4) For operations near overhead electric lines, see § 1910.333(c)(3).
 
-(c) *Specific requirements* - (1) *Ladder trucks and tower trucks.* Before the truck is moved for highway travel, aerial ladders shall be secured in the lower traveling position by the locking device above the truck cab, and the manually operated device at the base of the ladder, or by other equally effective means (e.g., cradles which prevent rotation of the ladder in combination with positive acting linear actuators).
+(c) *Specific requirements*—(1) *Ladder trucks and tower trucks.* Before the truck is moved for highway travel, aerial ladders shall be secured in the lower traveling position by the locking device above the truck cab, and the manually operated device at the base of the ladder, or by other equally effective means (e.g., cradles which prevent rotation of the ladder in combination with positive acting linear actuators).
 
 (2) *Extensible and articulating boom platforms.* (i) Lift controls shall be tested each day prior to use to determine that such controls are in safe working condition.
 
@@ -38,7 +36,7 @@ Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
 
 (iv) Employees shall always stand firmly on the floor of the basket, and shall not sit or climb on the edge of the basket or use planks, ladders, or other devices for a work position.
 
-(v) A body belt shall be worn and a lanyard attached to the boom or basket when working from an aerial lift.
+(v) A personal fall arrest or travel restraint system that meets the requirements in subpart I of this part shall be worn and attached to the boom or basket when working from an aerial lift.
 
 (vi) Boom and basket load limits specified by the manufacturer shall not be exceeded.
 
@@ -54,13 +52,13 @@ Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
 
 (xii) Before moving an aerial lift for travel, the boom(s) shall be inspected to see that it is properly cradled and outriggers are in stowed position, except as provided in paragraph (c)(2)(viii) of this section.
 
-(3) *Electrical tests.* Electrical tests shall be made in conformance with the requirements of ANSI A92.2 - 1969, Section 5. However, equivalent DC voltage tests may be used in lieu of the AC voltage test specified in A92.2 - 1969. DC voltage tests which are approved by the equipment manufacturer or equivalent entity shall be considered an equivalent test for the purpose of this paragraph (c)(3).
+(3) *Electrical tests.* Electrical tests shall be made in conformance with the requirements of ANSI A92.2—1969, Section 5. However, equivalent DC voltage tests may be used in lieu of the AC voltage test specified in A92.2—1969. DC voltage tests which are approved by the equipment manufacturer or equivalent entity shall be considered an equivalent test for the purpose of this paragraph (c)(3).
 
-(4) *Bursting safety factor.* All critical hydraulic and pneumatic components shall comply with the provisions of the American National Standards Institute standard, ANSI A92.2 - 1969, Section 4.9 Bursting Safety Factor. Critical components are those in which a failure would result in a free fall or free rotation of the boom. All noncritical components shall have a bursting safety factor of at least two to one.
+(4) *Bursting safety factor.* All critical hydraulic and pneumatic components shall comply with the provisions of the American National Standards Institute standard, ANSI A92.2—1969, Section 4.9 Bursting Safety Factor. Critical components are those in which a failure would result in a free fall or free rotation of the boom. All noncritical components shall have a bursting safety factor of at least two to one.
 
 (5) “*Welding standards.”* All welding shall conform to the following American Welding Society (AWS) Standards which are incorporated by reference as specified in § 1910.6, as applicable:
 
-(i) Standard Qualification Procedure, AWS B3.0 - 41.
+(i) Standard Qualification Procedure, AWS B3.0—41.
 
 (ii) Recommended Practices for Automotive Welding Design, AWS D8.4-61.
 
@@ -68,4 +66,4 @@ Link to an amendment published at 81 FR 82999, Nov. 18, 2016.
 
 (iv) Specifications for Welding Highway and Railway Bridges, AWS D2.0-69.
 
-[39 FR 23502, June 27, 1974, as amended at 40 FR 13439, Mar. 26, 1975; 55 FR 32014, Aug. 6, 1990; 61 FR 9235, Mar. 7, 1996; 79 FR 37190, July 1, 2014]
+[39 FR 23502, June 27, 1974, as amended at 40 FR 13439, Mar. 26, 1975; 55 FR 32014, Aug. 6, 1990; 61 FR 9235, Mar. 7, 1996; 79 FR 37190, July 1, 2014; 81 FR 82999, Nov. 18, 2016]

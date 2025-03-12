@@ -1,5 +1,7 @@
 ##### § 416.1017 Reasonable efforts to obtain review by a qualified psychiatrist or psychologist. #####
 
+Link to an amendment published at 82 FR 5883, Jan. 18, 2017.
+
 (a) The State agency must determine if additional qualified psychiatrists and psychologists are needed to make the necessary reviews (see § 416.1015(d)). Where it does not have sufficient resources to make the necessary reviews, the State agency must attempt to obtain the resources needed. If the State agency is unable to obtain additional psychiatrists and psychologists because of low salary rates or fee schedules it should attempt to raise the State agency's levels of compensation to meet the prevailing rates for psychiatrists' and psychologists' services. If these efforts are unsuccessful, the State agency will seek assistance from us. We will assist the State agency as necessary. We will also monitor the State agency's efforts and where the State agency is unable to obtain the necessary services, we will make every reasonable effort to provide the services using Federal resources.
 
 (b) Federal resources may include the use of Federal contracts for the services of qualified psychiatrists and psychologists to review mental impairment cases. Where Federal resources are required to perform these reviews, which are a basic State agency responsibility, and where appropriate, the State agency's budget will be reduced accordingly.

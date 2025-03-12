@@ -1,5 +1,7 @@
 ##### § 405.1134 Extension of time to file action in Federal district court. #####
 
+Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
+
 (a) Any party to the MAC's decision or to a request for EAJR that has been certified by the review entity other than CMS may request that the time for filing an action in a Federal district court be extended.
 
 (b) The request must -

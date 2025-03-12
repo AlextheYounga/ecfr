@@ -1,7 +1,5 @@
 ##### § 191.3 Definitions. #####
 
-Link to an amendment published at 81 FR 91871, December 19, 2016.
-
 As used in this part and the PHMSA Forms referenced in this part -
 
 *Administrator* means the Administrator, Pipeline and Hazardous Materials Safety Administration or his or her delegate
@@ -10,17 +8,17 @@ As used in this part and the PHMSA Forms referenced in this part -
 
 *Incident* means any of the following events:
 
-(1) An event that involves a release of gas from a pipeline, or of liquefied natural gas, liquefied petroleum gas, refrigerant gas, or gas from an LNG facility, and that results in one or more of the following consequences:
+(1) An event that involves a release of gas from a pipeline, gas from an underground natural gas storage facility, liquefied natural gas, liquefied petroleum gas, refrigerant gas, or gas from an LNG facility, and that results in one or more of the following consequences:
 
 (i) A death, or personal injury necessitating in-patient hospitalization;
 
-(ii) Estimated property damage of $50,000 or more, including loss to the operator and others, or both, but excluding cost of gas lost;
+(ii) Estimated property damage of $50,000 or more, including loss to the operator and others, or both, but excluding cost of gas lost; or
 
-(iii) Unintentional estimated gas loss of three million cubic feet or more;
+(iii) Unintentional estimated gas loss of three million cubic feet or more.
 
-(2) An event that results in an emergency shutdown of an LNG facility. Activation of an emergency shutdown system for reasons other than an actual emergency does not constitute an incident.
+(2) An event that results in an emergency shutdown of an LNG facility or an underground natural gas storage facility. Activation of an emergency shutdown system for reasons other than an actual emergency does not constitute an incident.
 
-(3) An event that is significant in the judgment of the operator, even though it did not meet the criteria of paragraphs (1) or (2) of this definition.
+(3) An event that is significant in the judgment of the operator, even though it did not meet the criteria of paragraph (1) or (2) of this definition.
 
 *LNG facility* means a liquefied natural gas facility as defined in § 193.2007 of part 193 of this chapter;
 
@@ -42,4 +40,6 @@ As used in this part and the PHMSA Forms referenced in this part -
 
 *Transportation of gas* means the gathering, transmission, or distribution of gas by pipeline, or the storage of gas in or affecting interstate or foreign commerce.
 
-[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010]
+*Underground natural gas storage facility* means an underground natural gas storage facility as defined in § 192.3 of this chapter.
+
+[35 FR 320, Jan. 8, 1970, as amended by Amdt. 191-5, 49 FR 18960, May 3, 1984; Amdt. 191-10, 61 FR 18516, Apr. 26, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; 68 FR 11749, Mar. 12, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72905, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016]

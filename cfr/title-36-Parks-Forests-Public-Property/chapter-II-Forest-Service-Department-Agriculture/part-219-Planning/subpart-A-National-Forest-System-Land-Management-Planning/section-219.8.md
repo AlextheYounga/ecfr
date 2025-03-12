@@ -1,8 +1,6 @@
 ##### § 219.8 Sustainability. #####
 
-Link to an amendment published at 81 FR 90737, Dec. 15, 2016.
-
-The plan must provide for social, economic, and ecological sustainability within Forest Service authority and consistent with the inherent capability of the plan area, as follows:
+A plan developed or revised under this part must provide for social, economic, and ecological sustainability within Forest Service authority and consistent with the inherent capability of the plan area, as follows:
 
 (a) *Ecological sustainability.* (1) *Ecosystem Integrity.* The plan must include plan components, including standards or guidelines, to maintain or restore the ecological integrity of terrestrial and aquatic ecosystems and watersheds in the plan area, including plan components to maintain or restore structure, function, composition, and connectivity, taking into account:
 
@@ -65,3 +63,5 @@ The plan must provide for social, economic, and ecological sustainability within
 (5) Cultural and historic resources and uses; and
 
 (6) Opportunities to connect people with nature.
+
+[77 FR 21260, Apr. 9, 2012, as amended at 81 FR 90737, Dec. 15, 2016]

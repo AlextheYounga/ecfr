@@ -1,5 +1,7 @@
 ##### § 422.594 Notice of reconsidered determination by the independent entity. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Responsibility for the notice.* When the independent entity makes the reconsidered determination, it is responsible for mailing a notice of its reconsidered determination to the parties and for sending a copy to CMS.
 
 (b) *Content of the notice.* The notice must -

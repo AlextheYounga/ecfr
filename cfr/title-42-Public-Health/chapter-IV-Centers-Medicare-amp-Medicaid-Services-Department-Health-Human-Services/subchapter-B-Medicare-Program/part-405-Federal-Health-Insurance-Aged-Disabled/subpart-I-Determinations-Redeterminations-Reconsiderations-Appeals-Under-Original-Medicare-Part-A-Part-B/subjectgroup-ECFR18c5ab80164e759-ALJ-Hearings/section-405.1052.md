@@ -1,5 +1,7 @@
 ##### § 405.1052 Dismissal of a request for a hearing before an ALJ. #####
 
+Link to an amendment published at 82 FR 5119, Jan. 17, 2017.
+
 Dismissal of a request for a hearing is in accordance with the following:
 
 (a) An ALJ dismisses a request for a hearing under any of the following conditions:

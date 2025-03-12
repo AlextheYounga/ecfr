@@ -1,6 +1,6 @@
 ##### § 383.73 State procedures. #####
 
-Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment published at 81 FR 88803, Dec. 8, 2016.
+Link to an amendment published at 81 FR 88803, Dec. 8, 2016.Link to a correction published at 82 FR 2916, Jan. 10, 2017.
 
 (a) *Commercial Learner's Permit.* (1) Prior to July 8, 2015. When issuing a CLP to a person prior to July 8, 2015, a State must meet the requirements in § 383.71(a)(1):
 
@@ -56,9 +56,11 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 
 (7) If not previously done, complete the Social Security Number verification required by paragraph (g) of this section;
 
-(8) For persons applying for a hazardous materials endorsement, require compliance with the standards for such endorsement specified in §§ 383.71(b)(1)(i)§ 383.71(b)(8) and 383.141; and
+(8) For persons applying for a hazardous materials endorsement, require compliance with the standards for such endorsement specified in §§ 383.71(b)(1)(i)§ 383.71(b)(8) and 383.141;
 
-(9) Make the CDL valid for no more than 8 years from the date of issuance.
+(9) Make the CDL valid for no more than 8 years from the date of issuance; and
+
+(10) Beginning January 6, 2020, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
 (c) *License transfers.* Prior to issuing a CDL to a person who has a CDL from another State, a State must:
 
@@ -80,9 +82,11 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 
 (7) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(b)(9) and proof of State of domicile specified in § 383.71(b)(10). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade or transfer of a CDL or Non-domiciled CDL for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done;
 
-(8) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status of driver is “certified” for those who certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) that he/she plans to operate in non-excepted interstate commerce may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section and:
+(8) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status of driver is “certified” for those who certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) that he/she plans to operate in non-excepted interstate commerce may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section;
 
-(9) Make the CDL valid for no more than 8 years from the date of issuance.
+(9) Make the CDL valid for no more than 8 years from the date of issuance; and
+
+(10) Beginning January 6, 2020, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
 (d) *License Renewals.* Prior to renewing any CDL a State must:
 
@@ -98,9 +102,11 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 
 (6) Make the renewal of the CDL valid for no more than 8 years from the date of issuance;
 
-(7) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(b)(9) and proof of State of domicile specified in § 383.71(b)(10). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade or transfer of a CDL or Non-domiciled CDL for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done; and
+(7) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(b)(9) and proof of State of domicile specified in § 383.71(b)(10). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade or transfer of a CDL or Non-domiciled CDL for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done;
 
-(8) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status is “certified” for drivers who self-certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section.
+(8) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status is “certified” for drivers who self-certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section; and
+
+(9) Beginning January 6, 2020, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
 (e) *License upgrades.* Prior to issuing an upgrade of a CDL, a State must:
 
@@ -114,9 +120,11 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 
 (5) Require compliance with the standards for providing proof of citizenship or lawful permanent residency specified in § 383.71(b)(9) and proof of State of domicile specified in § 383.71(b)(10). *Exception:* A State is required to check the proof of citizenship or legal presence specified in this paragraph only for initial issuance, renewal or upgrade of a CLP or Non-domiciled CLP and for initial issuance, renewal, upgrade, or transfer of a CDL or Non-domiciled CDL, for the first time after July 8, 2011, provided a notation is made on the driver's record confirming that the proof of citizenship or legal presence check required by this paragraph has been made and noting the date it was done;
 
-(6) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status is “certified” for drivers who self-certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section and:
+(6) Beginning January 30, 2012, verify from the CDLIS driver record that the medical certification status is “certified” for drivers who self-certified according to § 383.71(b)(1)(i). *Exception:* A driver who certified according to § 383.71(b)(1)(i) may present a current medical examiner's certificate issued prior to January 30, 2012. The medical examiner's certificate provided by the driver must be posted to the CDLIS driver record in accordance with paragraph (o) of this section;
 
-(7) Make the CDL valid for no more than 8 years from the date of issuance.
+(7) Make the CDL valid for no more than 8 years from the date of issuance; and
+
+(8) Beginning January 6, 2020, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
 (f) *Non-domiciled CLP and CDL.* (1) A State may only issue a Non-domiciled CLP or CDL to a person who meets one of the circumstances described in § 383.71(f)(1).
 
@@ -129,6 +137,8 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 (iii) The State must have established, prior to issuing any Non-domiciled CLP or CDL, the practical capability of disqualifying the holder of any Non-domiciled CLP or CDL, by withdrawing or disqualifying his/her Non-domiciled CLP or CDL as if the Non-domiciled CLP or CDL were a CLP or CDL issued to a person domiciled in the State.
 
 (3) The State must require compliance with the standards for providing proof of legal presence specified in § 383.71(b)(9) and § 383.71(f)(2)(i).
+
+(4) Beginning January 6, 2020, for drivers seeking issuance, renewal, upgrade or transfer of a non-domiciled CDL, request information from the Drug and Alcohol Clearinghouse in accordance with § 382.725 of this chapter.
 
 (g) *Social Security Number verification.* (1) Prior to issuing a CLP or a CDL to a person the State must verify the name, date of birth, and Social Security Number provided by the applicant with the information on file with the Social Security Administration. The State is prohibited from issuing, renewing, upgrading, or transferring a CLP or CDL if the Social Security Administration database does not match the applicant-provided data.
 
@@ -250,4 +260,4 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.Link to an amendment
 
 (5) FMCSA Medical Programs is designated as the keeper of the list of State contacts for receiving medical variance information from FMCSA. Beginning January 30, 2012, States are responsible for insuring their medical variance contact information is always up-to-date with FMCSA's Medical Programs.
 
-[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015]
+[76 FR 26883, May 9, 2011, as amended at 77 FR 24127, Apr. 20, 2012; 78 FR 17880, Mar. 25, 2013; 78 FR 58480, Sept. 24, 2013; 79 FR 59456, Oct. 2, 2014; 80 FR 22810, Apr. 23, 2015; 80 FR 35577, June 22, 2015; 80 FR 59072, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016]

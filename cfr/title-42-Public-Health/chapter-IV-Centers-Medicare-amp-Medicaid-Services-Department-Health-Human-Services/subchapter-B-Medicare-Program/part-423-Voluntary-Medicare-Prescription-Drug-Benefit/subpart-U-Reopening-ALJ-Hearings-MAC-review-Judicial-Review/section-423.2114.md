@@ -1,5 +1,7 @@
 ##### § 423.2114 Dismissal of request for review. #####
 
+Link to an amendment published at 82 FR 5138, Jan. 17, 2017.
+
 The MAC dismisses a request for review if the enrollee requesting review did not file the request within the stated period of time and the time for filing has not been extended. The MAC also dismisses the request for review if -
 
 (a) The enrollee asks to withdraw the request for review;

@@ -8,6 +8,8 @@
 
 (d) *Managed care quality rating system.* The State must determine a quality rating or ratings for each MCO, PIHP, and PAHP in accordance with the requirements set forth in § 438.334 of this chapter.
 
-(e) *Managed care quality strategy.* The State must draft and implement a written quality strategy for assessing and improving the quality of health care and services furnished CHIP enrollees as described in § 438.340 of this chapter. In the case of a contract with a PCCM entity described in paragraph (f) of this section, § 438.340 (e) of this chapter apply.
+(e) *Managed care quality strategy.* The State must draft and implement a written quality strategy for assessing and improving the quality of health care and services furnished CHIP enrollees as described in § 438.340 of this chapter.
 
-(f) *Applicability to PPCM entities.* For purposes of paragraphs (b) and (e) of this section and § 457.1250(a), a PCCM entity described in this paragraph is a PCCM entity whose contract with the State provides for shared savings, incentive payments or other financial reward for improved quality outcomes.
+(f) *Applicability to PCCM entities.* For purposes of paragraphs (b) and (e) of this section and § 457.1250(a), a PCCM entity described in this paragraph is a PCCM entity whose contract with the State provides for shared savings, incentive payments or other financial reward for improved quality outcomes.
+
+[81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017]

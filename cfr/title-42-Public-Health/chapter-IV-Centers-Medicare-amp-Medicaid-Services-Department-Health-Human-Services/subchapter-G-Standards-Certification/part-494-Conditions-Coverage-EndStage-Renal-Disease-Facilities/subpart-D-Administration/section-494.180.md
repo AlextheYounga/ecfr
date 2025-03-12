@@ -1,10 +1,8 @@
 ##### § 494.180 Condition: Governance. #####
 
-Link to an amendment published at 81 FR 90228, Dec. 14, 2016.
-
 The ESRD facility is under the control of an identifiable governing body, or designated person(s) with full legal authority and responsibility for the governance and operation of the facility. The governing body adopts and enforces rules and regulations relative to its own governance and to the health care and safety of patients, to the protection of the patients' personal and property rights, and to the general operation of the facility.
 
-(a) *Standard: Designating a chief executive officer or administrator.* The governing body or designated person responsible must appoint an individual who serves as the dialysis facility's chief executive officer or administrator who exercises responsibility for the management of the facility and the provision of all dialysis services, including, but not limited to -
+(a) *Standard: Designating a chief executive officer or administrator.* The governing body or designated person responsible must appoint an individual who serves as the dialysis facility's chief executive officer or administrator who exercises responsibility for the management of the facility and the provision of all dialysis services, including, but not limited to—
 
 (1) Staff appointments;
 
@@ -14,7 +12,7 @@ The ESRD facility is under the control of an identifiable governing body, or des
 
 (4) Allocation of necessary staff and other resources for the facility's quality assessment and performance improvement program as described in § 494.110.
 
-(b) *Standard: Adequate number of qualified and trained staff.* The governing body or designated person responsible must ensure that -
+(b) *Standard: Adequate number of qualified and trained staff.* The governing body or designated person responsible must ensure that—
 
 (1) An adequate number of qualified personnel are present whenever patients are undergoing dialysis so that the patient/staff ratio is appropriate to the level of dialysis care given and meets the needs of patients; and the registered nurse, social worker and dietitian members of the interdisciplinary team are available to meet patient clinical needs;
 
@@ -24,7 +22,7 @@ The ESRD facility is under the control of an identifiable governing body, or des
 
 (4) All employees have an opportunity for continuing education and related development activities.
 
-(c) *Standard: Medical staff appointments.* The governing body -
+(c) *Standard: Medical staff appointments.* The governing body—
 
 (1) Is responsible for all medical staff appointments and credentialing in accordance with State law, including attending physicians, physician assistants, nurse practitioners, and clinical nurse specialists; and
 
@@ -42,7 +40,7 @@ The ESRD facility is under the control of an identifiable governing body, or des
 
 (3) A description of how the patient or the patient's designated representative will be informed of steps taken to resolve the grievance.
 
-(f) *Standard: Involuntary discharge and transfer policies and procedures.* The governing body must ensure that all staff follow the facility's patient discharge and transfer policies and procedures. The medical director ensures that no patient is discharged or transferred from the facility unless -
+(f) *Standard: Involuntary discharge and transfer policies and procedures.* The governing body must ensure that all staff follow the facility's patient discharge and transfer policies and procedures. The medical director ensures that no patient is discharged or transferred from the facility unless—
 
 (1) The patient or payer no longer reimburses the facility for the ordered services;
 
@@ -50,7 +48,7 @@ The ESRD facility is under the control of an identifiable governing body, or des
 
 (3) The transfer is necessary for the patient's welfare because the facility can no longer meet the patient's documented medical needs; or
 
-(4) The facility has reassessed the patient and determined that the patient's behavior is disruptive and abusive to the extent that the delivery of care to the patient or the ability of the facility to operate effectively is seriously impaired, in which case the medical director ensures that the patient's interdisciplinary team -
+(4) The facility has reassessed the patient and determined that the patient's behavior is disruptive and abusive to the extent that the delivery of care to the patient or the ability of the facility to operate effectively is seriously impaired, in which case the medical director ensures that the patient's interdisciplinary team—
 
 (i) Documents the reassessments, ongoing problem(s), and efforts made to resolve the problem(s), and enters this documentation into the patient's medical record;
 
@@ -74,13 +72,13 @@ The ESRD facility is under the control of an identifiable governing body, or des
 
 (ii) Include reasonable assurances that patients from the dialysis facility are accepted and treated in emergencies.
 
-(h) *Standard: Furnishing data and information for ESRD program administration.* Effective February 1, 2009, the dialysis facility must furnish data and information to CMS and at intervals as specified by the Secretary. This information is used in a national ESRD information system and in compilations relevant to program administration, including claims processing and reimbursement, quality improvement, and performance assessment. The data and information must -
+(h) *Standard: Furnishing data and information for ESRD program administration.* Effective February 1, 2009, the dialysis facility must furnish data and information to CMS and at intervals as specified by the Secretary. This information is used in a national ESRD information system and in compilations relevant to program administration, including claims processing and reimbursement, quality improvement, and performance assessment. The data and information must—
 
 (1) Be submitted at the intervals specified by the Secretary;
 
 (2) Be submitted electronically in the format specified by the Secretary;
 
-(3) Include, but not be limited to -
+(3) Include, but not be limited to—
 
 (i) Cost reports;
 
@@ -93,3 +91,13 @@ The ESRD facility is under the control of an identifiable governing body, or des
 (i) *Standard: Relationship with the ESRD network.* The governing body receives and acts upon recommendations from the ESRD network. The dialysis facility must cooperate with the ESRD network designated for its geographic area, in fulfilling the terms of the Network's current statement of work. Each facility must participate in ESRD network activities and pursue network goals.
 
 (j) *Standard: Disclosure of ownership.* In accordance with § 420.200 through § 420.206 of this chapter, the governing body must report ownership interests of 5 percent or more to its State survey agency.
+
+(k) *Standard: Disclosure to Insurers of Payments of Premiums.* (1) Facilities that make payments of premiums for individual market health plans (in any amount), whether directly, through a parent organization (such as a dialysis corporation), or through another entity (including by providing contributions to entities that make such payments) must—
+
+(i) Disclose to the applicable issuer each policy for which a third party payment described in this paragraph (k) will be made, and
+
+(ii) Obtain assurance from the issuer that the issuer will accept such payments for the duration of the plan year. If such assurances are not provided, the facility shall not make payments of premiums and shall take reasonable steps to ensure such payments are not made by the facility or by third parties to which the facility contributes as described in this paragraph (k).
+
+(2) If a facility is aware that a patient is not eligible for Medicaid and is not eligible to enroll in Medicare Part A and/or Part B except during the General Enrollment Period, and the facility is aware that the patient intends to enroll in Medicare Part A and/or Part B during that period, the standards under this paragraph (k) will not apply with respect to payments for that patient until July 1, 2017.
+
+[73 FR 20475, Apr. 15, 2008, as amended at 81 FR 90228, Dec. 14, 2016]

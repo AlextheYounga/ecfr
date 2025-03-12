@@ -1,39 +1,41 @@
-##### § 1910.24 Fixed industrial stairs. #####
+##### § 1910.24 Step bolts and manhole steps. #####
 
-(a) *Application of requirements.* This section contains specifications for the safe design and construction of fixed general industrial stairs. This classification includes interior and exterior stairs around machinery, tanks, and other equipment, and stairs leading to or from floors, platforms, or pits. This section does not apply to stairs used for fire exit purposes, to construction operations to private residences, or to articulated stairs, such as may be installed on floating roof tanks or on dock facilities, the angle of which changes with the rise and fall of the base support.
+(a) *Step bolts.* The employer must ensure:
 
-(b) *Where fixed stairs are required.* Fixed stairs shall be provided for access from one structure level to another where operations necessitate regular travel between levels, and for access to operating platforms at any equipment which requires attention routinely during operations. Fixed stairs shall also be provided where access to elevations is daily or at each shift for such purposes as gauging, inspection, regular maintenance, etc., where such work may expose employees to acids, caustics, gases, or other harmful substances, or for which purposes the carrying of tools or equipment by hand is normally required. (It is not the intent of this section to preclude the use of fixed ladders for access to elevated tanks, towers, and similar structures, overhead traveling cranes, etc., where the use of fixed ladders is common practice.) Spiral stairways shall not be permitted except for special limited usage and secondary access situations where it is not practical to provide a conventional stairway. Winding stairways may be installed on tanks and similar round structures where the diameter of the structure is not less than five (5) feet.
+(1) Each step bolt installed on or after January 17, 2017 in an environment where corrosion may occur is constructed of, or coated with, material that protects against corrosion;
 
-(c) *Stair strength.* Fixed stairways shall be designed and constructed to carry a load of five times the normal live load anticipated but never of less strength than to carry safely a moving concentrated load of 1,000 pounds.
+(2) Each step bolt is designed, constructed, and maintained to prevent the employee's foot from slipping off the end of the step bolt;
 
-(d) *Stair width.* Fixed stairways shall have a minimum width of 22 inches.
+(3) Step bolts are uniformly spaced at a vertical distance of not less than 12 inches (30 cm) and not more than 18 inches (46 cm) apart, measured center to center (see Figure D-6 of this section). The spacing from the entry and exit surface to the first step bolt may differ from the spacing between the other step bolts;
 
-(e) *Angle of stairway rise.* Fixed stairs shall be installed at angles to the horizontal of between 30° and 50°. Any uniform combination of rise/tread dimensions may be used that will result in a stairway at an angle to the horizontal within the permissible range. Table D-1 gives rise/tread dimensions which will produce a stairway within the permissible range, stating the angle to the horizontal produced by each combination. However, the rise/tread combinations are not limited to those given in Table D-1.
+(4) Each step bolt has a minimum clear width of 4.5 inches (11 cm);
 
-Table D-1
+(5) The minimum perpendicular distance between the centerline of each step bolt to the nearest permanent object in back of the step bolt is 7 inches (18 cm). When the employer demonstrates that an obstruction cannot be avoided, the distance must be at least 4.5 inches (11 cm);
 
-|Angle to horizontal|Rise (in inches)|Tread run (in inches)|
-|-------------------|----------------|---------------------|
-|      30°35′       |      61/2      |         11          |
-|      32°08′       |      63/4      |        103/4        |
-|      33°41′       |       7        |        101/2        |
-|      35°16′       |      71/4      |        101/4        |
-|      36°52′       |      71/2      |         10          |
-|      38°29′       |      73/4      |        93/4         |
-|      40°08′       |       8        |        91/2         |
-|      41°44′       |      81/4      |        91/4         |
-|      43°22′       |      81/2      |          9          |
-|      45°00′       |      83/4      |        83/4         |
-|      46°38′       |       9        |        81/2         |
-|      48°16′       |      91/4      |        81/4         |
-|      49°54′       |      91/2      |          8          |
+(6) Each step bolt installed before January 17, 2017 is capable of supporting its maximum intended load;
 
-(f) *Stair treads.* All treads shall be reasonably slip-resistant and the nosings shall be of nonslip finish. Welded bar grating treads without nosings are acceptable providing the leading edge can be readily identified by personnel descending the stairway and provided the tread is serrated or is of definite nonslip design. Rise height and tread width shall be uniform throughout any flight of stairs including any foundation structure used as one or more treads of the stairs.
+(7) Each step bolt installed on or after January 17, 2017 is capable of supporting at least four times its maximum intended load;
 
-(g) *Stairway platforms.* Stairway platforms shall be no less than the width of a stairway and a minimum of 30 inches in length measured in the direction of travel.
+(8) Each step bolt is inspected at the start of the workshift and maintained in accordance with § 1910.22; and
 
-(h) *Railings and handrails.* Standard railings shall be provided on the open sides of all exposed stairways and stair platforms. Handrails shall be provided on at least one side of closed stairways preferably on the right side descending. Stair railings and handrails shall be installed in accordance with the provisions of § 1910.23.
+(9) Any step bolt that is bent more than 15 degrees from the perpendicular in any direction is removed and replaced with a step bolt that meets the requirements of this section before an employee uses it.
 
-(i) *Vertical clearance.* Vertical clearance above any stair tread to an overhead obstruction shall be at least 7 feet measured from the leading edge of the tread.
+![](/graphics/er18no16.349.gif)
 
-[39 FR 23502, June 27, 1974, as amended at 43 FR 49744, Oct. 24, 1978; 49 FR 5321, Feb. 10, 1984]
+(b) *Manhole steps.* (1) The employer must ensure that each manhole step is capable of supporting its maximum intended load.
+
+(2) The employer must ensure that each manhole step installed on or after January 17, 2017:
+
+(i) Has a corrugated, knurled, dimpled, or other surface that minimizes the possibility of an employee slipping;
+
+(ii) Is constructed of, or coated with, material that protects against corrosion if the manhole step is located in an environment where corrosion may occur;
+
+(iii) Has a minimum clear step width of 10 inches (25 cm);
+
+(iv) Is uniformly spaced at a vertical distance not more than 16 inches (41 cm) apart, measured center to center between steps. The spacing from the entry and exit surface to the first manhole step may differ from the spacing between the other steps.
+
+(v) Has a minimum perpendicular distance between the centerline of the manhole step to the nearest permanent object in back of the step of at least 4.5 inches (11 cm); and
+
+(vi) Is designed, constructed, and maintained to prevent the employee's foot from slipping or sliding off the end.
+
+(3) The employer must ensure that each manhole step is inspected at the start of the work shift and maintained in accordance with § 1910.22.

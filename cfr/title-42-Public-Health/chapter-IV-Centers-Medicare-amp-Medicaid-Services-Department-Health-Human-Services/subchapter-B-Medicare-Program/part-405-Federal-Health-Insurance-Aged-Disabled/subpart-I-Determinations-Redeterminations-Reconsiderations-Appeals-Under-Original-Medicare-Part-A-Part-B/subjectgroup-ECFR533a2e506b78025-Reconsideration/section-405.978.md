@@ -1,5 +1,7 @@
 ##### § 405.978 Effect of a reconsideration. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 A reconsideration is binding on all parties, unless -
 
 (a) An ALJ decision is issued in accordance to a request for an ALJ hearing made in accordance with § 405.1014;

@@ -1,7 +1,5 @@
 ##### § 387.303 Security for the protection of the public: Minimum limits. #####
 
-Link to an amendment published at 78 FR 52651, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63709, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
 (a) *Definitions.* (1) *Primary security* means public liability coverage provided by the insurance or surety company responsible for the first dollar of coverage.
 
 (2) *Excess security* means public liability coverage above the primary security, or above any additional underlying security, up to and including the required minimum limits set forth in paragraph (b)(2) of this section.
@@ -22,6 +20,8 @@ Passenger Carriers: Kind of Equipment
 |-----------------------------------------------------------------------------------------------------------|--------------------|
 |          (A) Any vehicle with a seating capacity of 16 passengers or more (including the driver)          |     $5,000,000     |
 |(B) Any vehicle designed or used to transport 15 passengers or less (including the driver) for compensation|     1,500,000      |
+
+(iii) *Limits applicable to transit service providers.* Notwithstanding the provisions of paragraph (b)(1)(ii) of this section, the minimum level of financial responsibility for a motor vehicle used to provide transportation services within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under 49 U.S.C. 5307, 5310 or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities, will be the highest level required for any of the States in which it operates. This paragraph applies to transit service providers who operate in a transit service area located in more than one State, as well as transit service providers who operate in only one State but interline with other motor carriers that provide interstate transportation within or outside the transit service area. Transit service providers conducting such operations must register as for-hire passenger carriers under part 365, subpart A and part 390, subpart E of this subchapter, identify the State(s) in which they operate under the applicable grants, and certify on their registration documents that they have in effect financial responsibility levels in an amount equal to or greater than the highest level required by any of the States in which they are operating under a qualifying grant.
 
 (2) Motor carriers subject to § 387.301(a)(2) are required to have security for the required minimum limits as follows:
 
@@ -50,4 +50,4 @@ Notwithstanding the provisions of § 387.301(a)(1), the filing of evidence of in
 
 (2) For loss of or damage to or aggregate of losses or damages of or to household goods occurring at any one time and place - $10,000.
 
-[47 FR 55944, Dec. 14, 1982, as amended at 48 FR 43333, Sept. 23, 1983; 48 FR 45775, Oct. 7, 1983; 48 FR 51780, Nov. 14, 1983; 49 FR 1991, Jan. 17, 1984; 49 FR 27767, July 6, 1984; 50 FR 40030, Oct. 1, 1985; 53 FR 36984, Sept. 23, 1988; 54 FR 52034, Dec. 20, 1989; 55 FR 47338, Nov. 13, 1990; 62 FR 49941, Sept. 24, 1997; 67 FR 61824, Oct. 2, 2002; 68 FR 56198, Sept. 30, 2003; 72 FR 55701, Oct. 1, 2007; 75 FR 35328, June 22, 2010; 77 FR 59826, Oct. 1, 2012]
+[47 FR 55944, Dec. 14, 1982]Editorial Note:For Federal Register citations affecting § 387.303, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 5307, Jan. 17, 2017, § 387.303 was suspended, effective Jan. 14, 2017.

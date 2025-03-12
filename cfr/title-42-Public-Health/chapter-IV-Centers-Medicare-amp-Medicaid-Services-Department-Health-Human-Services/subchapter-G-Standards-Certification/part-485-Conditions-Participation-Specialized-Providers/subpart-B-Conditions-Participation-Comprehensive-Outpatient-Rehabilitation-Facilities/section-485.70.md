@@ -1,5 +1,7 @@
 ##### § 485.70 Personnel qualifications. #####
 
+Link to an amendment published at 82 FR 4591, Jan. 13, 2017.
+
 This section sets forth the qualifications that must be met, as a condition of participation, under § 485.58, and as a condition of coverage of services under § 410.100 of this chapter.
 
 (a) A facility physician must be a doctor of medicine or osteopathy who -

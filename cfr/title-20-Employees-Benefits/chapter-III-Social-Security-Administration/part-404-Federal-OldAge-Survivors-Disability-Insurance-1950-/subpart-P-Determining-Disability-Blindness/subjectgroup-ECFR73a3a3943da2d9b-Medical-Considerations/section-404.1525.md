@@ -1,5 +1,7 @@
 ##### § 404.1525 Listing of Impairments in appendix 1. #####
 
+Link to an amendment published at 82 FR 5869, Jan. 18, 2017.
+
 (a) *What is the purpose of the Listing of Impairments?* The Listing of Impairments (the listings) is in appendix 1 of this subpart. It describes for each of the major body systems impairments that we consider to be severe enough to prevent an individual from doing any gainful activity, regardless of his or her age, education, or work experience.
 
 (b) *How is appendix 1 organized?* There are two parts in appendix 1:

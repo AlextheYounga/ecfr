@@ -1,7 +1,5 @@
 ##### § 212.1 Documentary requirements for nonimmigrants. #####
 
-Link to an amendment published at 81 FR 92304, December 19, 2016.
-
 A valid unexpired visa that meets the requirements of part 215, subpart B, of this chapter, if applicable, and an unexpired passport, shall be presented by each arriving nonimmigrant alien except that the passport validity period for an applicant for admission who is a member of a class described in section 102 of the Act is not required to extend beyond the date of his application for admission if so admitted, and except as otherwise provided in the Act, this chapter, and for the following classes:
 
 (a) *Citizens of Canada or Bermuda, Bahamian nationals or British subjects resident in certain islands.* (1) *Canadian citizens.* A visa is generally not required for Canadian citizens, except those Canadians that fall under nonimmigrant visa categories E, K, S, or V as provided in paragraphs (h), (l), and (m) of this section and 22 CFR 41.2. A valid unexpired passport is required for Canadian citizens arriving in the United States, except when meeting one of the following requirements:
@@ -152,7 +150,7 @@ Any potential threats to the welfare, safety, or security of the United States, 
 
 (n) [Reserved]
 
-(o) *Alien in T-2 through T-4 classification.* Individuals seeking T-2 through T-4 nonimmigrant status may avail themselves of the provisions of paragraph (g) of this section, except that the authority to waive documentary requirements resides with the Service Center.
+(o) *Alien in T-2 through T-6 classification.* USCIS may apply paragraph (g) of this section to individuals seeking T-2, T-3, T-4, T-5, or T-6 nonimmigrant status upon request by the applicant.
 
 (Secs. 103, 104, 212 of the Immigration and Nationality Act, as amended (8 U.S.C. 1103, 1104, 1132))
 

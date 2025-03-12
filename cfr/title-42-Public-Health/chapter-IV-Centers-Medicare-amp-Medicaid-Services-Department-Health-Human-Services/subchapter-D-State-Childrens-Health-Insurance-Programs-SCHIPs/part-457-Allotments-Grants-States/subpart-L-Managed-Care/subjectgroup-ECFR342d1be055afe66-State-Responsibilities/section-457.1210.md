@@ -22,10 +22,12 @@
 
 (1) Include the MCOs, PIHPs, PAHPs, PCCMs, or PCCM entities available to the potential enrollee;
 
-(2) Explains how to select an MCO, PIHP, PAHP, PCCM, or PCCM entity;
+(2) Explain how to select an MCO, PIHP, PAHP, PCCM, or PCCM entity;
 
 (3) Explain the implications of making or not making an active choice of an MCO, PIHP, PAHP, PCCM or PCCM entity;
 
-(4) Explains the length of the enrollment period as well as the disenrollment policies in § 457.1212; and
+(4) Explain the length of the enrollment period as well as the disenrollment policies in § 457.1212; and
 
 (5) Comply with the information requirements in § 457.1207 and accessibility standards established under § 457.340.
+
+[81 FR 27897, May 6, 2016, as amended at 82 FR 40, Jan. 3, 2017]

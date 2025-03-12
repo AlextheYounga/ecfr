@@ -1,5 +1,7 @@
 ##### § 1194.22 Web-based intranet and internet information and applications. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 (a) A text equivalent for every non-text element shall be provided (e.g., via “alt”, “longdesc”, or in element content).
 
 (b) Equivalent alternatives for any multimedia presentation shall be synchronized with the presentation.

@@ -2,7 +2,7 @@
 
 (a) *General rule.* (1) The State, its agent that is not an MCO, PIHP, PAHP, or PCCM entity (described in § 438.310(c)(2)), or an EQRO may perform the mandatory and optional EQR-related activities in this section.
 
-(2) The data obtained from the mandatory and optional EQR-related activities in this section must be used for the annual EQR in § 438.350 and must include, at a minimum, the elements in § 438.364(a)(i) through (iv).
+(2) The data obtained from the mandatory and optional EQR-related activities in this section must be used for the annual EQR in § 438.350 and must include, at a minimum, the elements in § 438.364(a)(2)(i) through (iv).
 
 (b) *Mandatory activities.* (1) For each MCO, PIHP, or PAHP the following EQR-related activities must be performed:
 
@@ -31,3 +31,5 @@
 (6) Assist with the quality rating of MCOs, PIHPs, and PAHPs consistent with § 438.334.
 
 (d) *Technical assistance.* The EQRO may, at the State's direction, provide technical guidance to groups of MCOs, PIHPs, PAHPs, or PCCM entities (described in § 438.310(c)(2)) to assist them in conducting activities related to the mandatory and optional activities described in this section that provide information for the EQR and the resulting EQR technical report.
+
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]Editorial Note:At 82 FR 39, Jan. 3, 2017, § 438.358 was amended; however, the amendments in instructions 8. and 9. could not be incorporated due to inaccurate amendatory instructions.

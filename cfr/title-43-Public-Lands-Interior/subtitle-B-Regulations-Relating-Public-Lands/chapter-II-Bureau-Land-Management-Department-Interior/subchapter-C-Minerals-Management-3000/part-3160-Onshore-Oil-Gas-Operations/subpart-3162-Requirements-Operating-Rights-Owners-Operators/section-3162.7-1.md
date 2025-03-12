@@ -1,7 +1,5 @@
 ##### § 3162.7-1 Disposition of production. #####
 
-Link to an amendment published at 81 FR 81420, November 17, 2016.
-
 (a) The operator shall put into marketable condition, if economically feasible, all oil, other hydrocarbons, gas, and sulphur produced from the leased land.
 
 (b) Where oil accumulates in a pit, such oil must either be (1) recirculated through the regular treating system and returned to the stock tanks for sale, or (2) pumped into a stock tank without treatment and measured for sale in the same manner as from any sales tank in accordance with applicable orders and notices. In the absence of prior approval from the authorized officer, no oil should go to a pit except in an emergency. Each such occurrence must be reported to the authorized officer and the oil promptly recovered in accordance with applicable orders and notices.
@@ -18,6 +16,4 @@ Link to an amendment published at 81 FR 81420, November 17, 2016.
 
 (e) When requested by the authorized officer, the operator shall furnish storage for royalty oil, on the leasehold or at a mutually agreed upon delivery point off the leased land without cost to the lessor, for 30 days following the end of the calendar month in which the royalty accrued.
 
-(f) Any records generated under this section shall be maintained for 6 years from the date they were generated or, if notified by the Secretary, or his designee, that such records are involved in an audit or investigation, the records shall be maintained until the recordholder is released by the Secretary from the obligation to maintain them.
-
-[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983; 49 FR 37364, Sept. 21, 1984; 53 FR 17363, May 16, 1988]
+[47 FR 47765, Oct. 27, 1982. Redesignated and amended at 48 FR 36583, Aug. 12, 1983; 49 FR 37364, Sept. 21, 1984; 53 FR 17363, May 16, 1988; 81 FR 81420, Nov. 17, 2016]

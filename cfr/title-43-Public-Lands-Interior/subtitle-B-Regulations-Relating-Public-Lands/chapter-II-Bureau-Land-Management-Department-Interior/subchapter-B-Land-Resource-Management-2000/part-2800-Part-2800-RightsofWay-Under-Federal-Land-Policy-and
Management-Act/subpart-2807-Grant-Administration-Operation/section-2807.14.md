@@ -1,0 +1,3 @@
+##### § 2807.14 How will BLM notify me if someone else wants a grant for land subject to my grant or near or adjacent to it? #####
+
+BLM will notify you in writing when it receives a grant application for land subject to your grant or near or adjacent to it. BLM will consider your written recommendations as to how the proposed use affects the integrity of, or your ability to operate, your facilities. The notice will contain a time period within which you must respond. The notice may also notify you of additional opportunities to comment.

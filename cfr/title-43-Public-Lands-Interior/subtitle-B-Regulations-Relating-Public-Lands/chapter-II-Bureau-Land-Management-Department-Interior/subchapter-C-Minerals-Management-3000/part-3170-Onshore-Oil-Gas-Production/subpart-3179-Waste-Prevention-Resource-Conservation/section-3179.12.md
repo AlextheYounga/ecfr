@@ -1,0 +1,3 @@
+##### § 3179.12 Coordination with State regulatory authority. #####
+
+To the extent that any BLM action to enforce a prohibition, limitation, or order under this subpart may adversely affect production of oil or gas that comes from non-Federal and non-Indian mineral interests, the BLM will coordinate, on a case-by-case basis, with the State regulatory authority having jurisdiction over the oil and gas production from the non-Federal and non-Indian interests.

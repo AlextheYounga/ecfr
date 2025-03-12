@@ -1,5 +1,7 @@
 ##### § 1001.1901 Scope and effect of exclusion. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) *Scope of exclusion.* Exclusions of individuals and entities under this title will be from Medicare, Medicaid and any of the other Federal health care programs, as defined in § 1001.2.
 
 (b) *Effect of exclusion on excluded individuals and entities.* (1) Unless and until an individual or entity is reinstated into the Medicare, Medicaid and other Federal health care programs in accordance with subpart F of this part, no payment will be made by Medicare, Medicaid or any of the other Federal health care programs for any item or service furnished, on or after the effective date specified in the notice period, by an excluded individual or entity, or at the medical direction or on the prescription of a physician or other authorized individual who is excluded when the person furnishing such item or service knew or had reason to know of the exclusion. This section applies regardless of whether an individual or entity has obtained a program provider number or equivalent, either as an individual or as a member of a group, prior to being reinstated.

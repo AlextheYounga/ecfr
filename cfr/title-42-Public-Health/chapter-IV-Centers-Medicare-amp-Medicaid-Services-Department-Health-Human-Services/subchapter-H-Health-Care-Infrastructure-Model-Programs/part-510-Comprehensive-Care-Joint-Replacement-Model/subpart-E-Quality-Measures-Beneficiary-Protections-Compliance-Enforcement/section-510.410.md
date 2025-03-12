@@ -1,5 +1,7 @@
 ##### § 510.410 Compliance enforcement. #####
 
+Link to an amendment published at 82 FR 617, Jan. 3, 2017.
+
 (a) *General.* Participant hospitals must comply with all of the requirements outlined in this part. Except as specifically noted in this part, the regulations under this part must not be construed to affect the payment, coverage, program integrity, or other requirements (such as those in parts 412 and 482 of this chapter) that apply to providers and suppliers under this chapter.
 
 (b) *Failure to comply.* (1) CMS may take one or more of the remedial actions set forth in paragraph (b)(2) of this section if a participant hospital or any of the participant hospital's CJR collaborators -

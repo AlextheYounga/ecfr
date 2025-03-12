@@ -1,12 +1,10 @@
 ##### § 1281.1 Definitions. #####
 
-Link to an amendment published at 81 FR 91690, December 19, 2016.
-
 As used in this part:
 
-*Acquired Member Assets (AMA) program* means a program that authorizes a Bank to hold assets acquired from or through Bank members or housing associates by means of either a purchase or a funding transaction, subject to the requirements of 12 CFR parts 955 and 980, or successor regulations.
+*Acquired Member Assets (AMA) program* means a program that authorizes a Bank to hold assets acquired from or through Bank members or housing associates by means of either a purchase or funding transaction, subject to the requirements of parts 1268 and 1272 of this chapter.
 
-*AMA-approved mortgage* means a mortgage that meets the requirements of the AMA program at 12 CFR part 955, and is approved to be implemented under 12 CFR part 980, or successor regulations.
+*AMA-approved mortgage* means a mortgage that meets the requirements of an AMA program at part 1268 of this chapter, which program has been approved to be implemented under part 1272 of this chapter.
 
 *Balloon mortgage* means a mortgage providing for payments at regular intervals, with a final payment (balloon payment) that is at least 5 percent more than the periodic payments. The periodic payments may cover some or all of the periodic principal or interest. Typically, the periodic payments are level monthly payments that would fully amortize the mortgage over a stated term and the balloon payment is a single payment due after a specific period (but before the mortgage would fully amortize) and pays off or satisfies the outstanding balance of the mortgage.
 
@@ -154,4 +152,4 @@ As used in this part:
 
 *Very low-income* means income not in excess of 50 percent of area median income.
 
-[75 FR 81105, Dec. 27, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 81 FR 76300, Nov. 2, 2016]
+[75 FR 81105, Dec. 27, 2010, as amended at 78 FR 2328, Jan. 11, 2013; 81 FR 76300, Nov. 2, 2016; 81 FR 91690, Dec. 19, 2016]

@@ -1,0 +1,9 @@
+##### § 3174.13 Oil measurement by other methods. #####
+
+(a) Any method of oil measurement other than tank gauging, LACT system, or CMS at an FMP requires prior BLM approval.
+
+(b)(1) Any operator requesting approval to use alternate oil measurement equipment or measurement method must submit to the BLM performance data, actual field test results, laboratory test data, or any other supporting data or evidence that demonstrates that the proposed alternate oil equipment or method would meet or exceed the objectives of the applicable minimum requirements of this subpart and would not affect royalty income or production accountability.
+
+(2) The PMT will review the submitted data to ensure that the alternate oil measurement equipment or method meets the requirements of this subpart and will make a recommendation to the BLM to approve use of the equipment or method, disapprove use of the equipment or method, or approve use of the equipment or method with conditions for its use. If the PMT recommends, and the BLM approves new equipment or methods, the BLM will post the make, model, range or software version (as applicable), or method on the BLM Web site *www.blm.gov* as being appropriate for use at an FMP for oil measurement without further approval by the BLM, subject to any conditions of approval identified by the PMT and approved by the BLM.
+
+(c) The procedures for requesting and granting a variance under § 3170.6 of this part may not be used as an avenue for approving new technology, methods, or equipment. Approval of alternative oil measurement equipment or methods may be obtained only under this section.

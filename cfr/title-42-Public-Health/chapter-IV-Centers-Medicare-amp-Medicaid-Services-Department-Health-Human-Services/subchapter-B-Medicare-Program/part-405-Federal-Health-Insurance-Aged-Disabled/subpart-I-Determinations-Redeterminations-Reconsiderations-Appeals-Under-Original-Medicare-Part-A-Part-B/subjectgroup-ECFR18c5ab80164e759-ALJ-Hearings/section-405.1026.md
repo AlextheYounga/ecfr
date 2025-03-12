@@ -1,5 +1,7 @@
 ##### § 405.1026 Disqualification of the ALJ. #####
 
+Link to an amendment published at 82 FR 5115, Jan. 17, 2017.
+
 (a) An ALJ cannot conduct a hearing if he or she is prejudiced or partial to any party or has any interest in the matter pending for decision.
 
 (b) If a party objects to the ALJ who will conduct the hearing, the party must notify the ALJ within 10 calendar days of the date of the notice of hearing. The ALJ considers the party's objections and decides whether to proceed with the hearing or withdraw.

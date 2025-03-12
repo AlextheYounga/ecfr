@@ -1,5 +1,7 @@
 ##### § 1001.3002 Basis for reinstatement. #####
 
+Link to an amendment published at 82 FR 4117, Jan. 12, 2017.
+
 (a)(1) The OIG will authorize reinstatement if it determines that -
 
 (i) The period of exclusion has expired;

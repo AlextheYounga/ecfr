@@ -1,5 +1,7 @@
 ##### § 423.2122 What evidence may be submitted to the MAC. #####
 
+Link to an amendment published at 82 FR 5138, Jan. 17, 2017.
+
 (a) *Appeal before the MAC on request for review of ALJ's decision.* (1) If the MAC is reviewing an ALJ's decision, the MAC will consider the evidence contained in the record of the proceedings before the ALJ, and any new evidence that relates to the period before the coverage determination. If the hearing decision decides a new issue that the enrollee was not afforded an opportunity to address at the ALJ level, the MAC considers any evidence related to that issue that is submitted with the request for review.
 
 (2) If the MAC determines that additional evidence is needed to resolve the issues in the case and the hearing record indicates that the previous decision-makers have not attempted to obtain the evidence, the MAC may remand the case to an ALJ to obtain the evidence and issue a new decision.

@@ -1,5 +1,7 @@
 ##### § 405.1002 Right to an ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5109, Jan. 17, 2017.
+
 (a) A party to a QIC reconsideration may request a hearing before an ALJ if -
 
 (1) The party files a written request for an ALJ hearing within 60 calendar days after receipt of the notice of the QIC's reconsideration.

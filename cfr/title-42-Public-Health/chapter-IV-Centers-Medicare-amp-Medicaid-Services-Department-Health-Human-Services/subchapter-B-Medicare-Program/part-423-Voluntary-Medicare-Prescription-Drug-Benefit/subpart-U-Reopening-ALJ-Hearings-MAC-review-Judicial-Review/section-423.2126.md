@@ -1,5 +1,7 @@
 ##### § 423.2126 Case remanded by the MAC. #####
 
+Link to an amendment published at 82 FR 5138, Jan. 17, 2017.
+
 (a) *When the MAC may remand a case to the ALJ.* (1) The MAC may remand a case in which additional evidence is needed or additional action by the ALJ is required. The MAC will designate in its remand order whether the ALJ will issue a decision or a recommended decision on remand.
 
 (2) *Action by ALJ on remand.* The ALJ will take any action that is ordered by the MAC and may take any additional action that is not inconsistent with the MAC's remand order.

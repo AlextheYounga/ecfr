@@ -1,0 +1,7 @@
+##### § 1268.8 Administrative transactions and agreements between Banks. #####
+
+(a) *Delegation of administrative duties.* A Bank may delegate the administration of an AMA program to another Bank whose administrative office has been examined and approved by FHFA, or previously examined and approved by the Federal Housing Finance Board, to process AMA transactions. The existence of such a delegation, or the possibility that such a delegation may be made, must be disclosed to any potential participating financial institution as part of any AMA-related agreements signed with that participating financial institution. A Bank may contract with one or more parties, including without limitation another Bank, to provide services related to the administration of its own AMA program or the AMA program of another Bank for which it has been delegated administrative responsibility, without the necessity for further disclosure to the participating financial institutions.
+
+(b) *Termination of agreements.* Any agreement made between two or more Banks in connection with the administration of any AMA program may be terminated by any party after a reasonable notice period.
+
+(c) *Delegation of pricing authority.* A Bank that has delegated its AMA pricing function to another Bank shall retain a right to refuse to acquire AMA at prices it does not consider appropriate, pursuant to contractual provisions among the parties.

@@ -1,5 +1,7 @@
 ##### § 423.2124 Oral argument. #####
 
+Link to an amendment published at 82 FR 5138, Jan. 17, 2017.
+
 An enrollee may request to appear before the MAC to present oral argument.
 
 (a) The MAC grants a request for oral argument if it decides that the case raises an important question of law, policy, or fact that cannot be readily decided based on written submissions alone.

@@ -1,5 +1,7 @@
 ##### § 404.942 Prehearing proceedings and decisions by attorney advisors. #####
 
+Link to an amendment published at 82 FR 5863, Jan. 18, 2017.
+
 (a) *General.* After a hearing is requested but before it is held, an attorney advisor may conduct prehearing proceedings as set out in paragraph (c) of this section. If after the completion of these proceedings we can make a decision that is fully favorable to you and all other parties based on the preponderance of the evidence, an attorney advisor, instead of an administrative law judge, may issue the decision. The conduct of the prehearing proceedings by the attorney advisor will not delay the scheduling of a hearing. If the prehearing proceedings are not completed before the date of the hearing, the case will be sent to the administrative law judge unless a fully favorable decision is in process or you and all other parties to the hearing agree in writing to delay the hearing until the proceedings are completed.
 
 (b) *When prehearing proceedings may be conducted by an attorney advisor.* An attorney advisor may conduct prehearing proceedings if you have filed a claim for benefits based on disability and -

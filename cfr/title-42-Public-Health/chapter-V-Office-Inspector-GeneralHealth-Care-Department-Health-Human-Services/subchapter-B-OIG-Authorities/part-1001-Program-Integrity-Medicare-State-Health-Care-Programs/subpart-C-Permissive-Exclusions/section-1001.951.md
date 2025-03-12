@@ -1,5 +1,7 @@
 ##### § 1001.951 Fraud and kickbacks and other prohibited activities. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) Except as provided for in paragraph (a)(2)(ii) of this section, the OIG may exclude any individual or entity that it determines has committed an act described in section 1128B(b) of the Act.
 
 (2) With respect to acts described in section 1128B of the Act, the OIG -

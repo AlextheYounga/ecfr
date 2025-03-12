@@ -1,19 +1,15 @@
 ##### § 385.305 What happens after the FMCSA receives a request for new entrant registration? #####
 
-Link to an amendment published at 78 FR 52649, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63707, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.Link to a correction published at 81 FR 49554, July 28, 2016.
+(a) The applicant for new entrant registration will be directed to the FMCSA Internet Web site (*http://www.fmcsa.dot.gov*) to secure and/or complete the application package online.
 
-(a) The requester for new entrant registration will be directed to the FMCSA Internet website (*www.fmcsa.dot.gov*) to secure and/or complete the application package online.
-
-(b) The application package will contain the following:
+(b) The application package will include the following:
 
 (1) Educational and technical assistance material regarding the requirements of the FMCSRs and HMRs, if applicable.
 
-(2) The Form MCS-150, The Motor Carrier Identification Report.
+(2) Form MCSA-1—FMCSA Registration/Update (USDOT Number—Operating Authority Application). This form is used to obtain both a USDOT Number and operating authority.
 
-(3) Application forms to obtain operating authority under 49 CFR 365, as appropriate.
+(c) Upon completion of the application form, the new entrant will be issued an inactive USDOT Number. An applicant may not begin operations nor mark a commercial motor vehicle with the USDOT Number until after the date of the Agency's written notice that the USDOT Number has been activated. Violations of this section may be subject to the penalties under § 392.9b(b) of this chapter.
 
-(c) Upon completion of the application forms, the new entrant will be issued a USDOT number.
+(d) *Additional requirements for certain for-hire motor carriers.* For-hire motor carriers, unless providing transportation exempt from the commercial registration requirements in 49 U.S.C. chapter 139, must obtain operating authority as prescribed under § 390.201(b) and part 365 of this chapter before operating in interstate commerce.
 
-(d) For-hire motor carriers, unless providing transportation exempt from 49 CFR part 365 registration requirements, must also comply with the procedures established in 49 CFR part 365 to obtain operating authority before operating in interstate commerce.
-
-[67 FR 31983, May 13, 2002, as amended at 73 FR 76488, Dec. 16, 2008]
+[67 FR 31983, May 13, 2002, as amended by 80 FR 63707, Oct. 21, 2015]Effective Date Note:At 82 FR 5304, Jan. 17, 2017, § 385.305 was suspended, effective Jan. 14, 2017.

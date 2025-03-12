@@ -1,5 +1,7 @@
 ##### § 416.926 Medical equivalence for adults and children. #####
 
+Link to an amendment published at 82 FR 5880, Jan. 18, 2017.
+
 (a) *What is medical equivalence?* Your impairment(s) is medically equivalent to a listed impairment in appendix 1 of subpart P of part 404 of this chapter if it is at least equal in severity and duration to the criteria of any listed impairment.
 
 (b) *How do we determine medical equivalence?* We can find medical equivalence in three ways.

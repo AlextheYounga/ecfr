@@ -1,5 +1,7 @@
 ##### § 1001.1201 Failure to provide payment information. #####
 
+Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude any individual or entity that furnishes items or services for which payment may be made under Medicare or any of the State health care programs and that:
 
 (1) Fails to provide such information as is necessary to determine whether such payments are or were due and the amounts thereof, or

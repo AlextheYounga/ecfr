@@ -1,5 +1,7 @@
 ##### § 416.926a Functional equivalence for children. #####
 
+Link to an amendment published at 82 FR 5880, Jan. 18, 2017.
+
 (a) *General.* If you have a severe impairment or combination of impairments that does not meet or medically equal any listing, we will decide whether it results in limitations that functionally equal the listings. By “functionally equal the listings,” we mean that your impairment(s) must be of listing-level severity; *i.e.,* it must result in “marked” limitations in two domains of functioning or an “extreme” limitation in one domain, as explained in this section. We will assess the functional limitations caused by your impairment(s); *i.e.,* what you cannot do, have difficulty doing, need help doing, or are restricted from doing because of your impairment(s). When we make a finding regarding functional equivalence, we will assess the interactive and cumulative effects of all of the impairments for which we have evidence, including any impairments you have that are not “severe.” (*See* § 416.924(c).) When we assess your functional limitations, we will consider all the relevant factors in §§ 416.924a, 416.924b, and 416.929 including, but not limited to:
 
 (1) How well you can initiate and sustain activities, how much extra help you need, and the effects of structured or supportive settings (*see* § 416.924a(b)(5));

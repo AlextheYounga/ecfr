@@ -1,5 +1,7 @@
 ##### § 405.1036 Description of an ALJ hearing process. #####
 
+Link to an amendment published at 82 FR 5117, Jan. 17, 2017.
+
 (a) *The right to appear and present evidence.* (1) Any party to a hearing has the right to appear before the ALJ to present evidence and to state his or her position. A party may appear by video-teleconferencing (VTC), telephone, or in person as determined under § 405.1020.
 
 (2) A party may also make his or her appearance by means of a representative, who may make the appearance by VTC, telephone, or in person, as determined under § 405.1020.

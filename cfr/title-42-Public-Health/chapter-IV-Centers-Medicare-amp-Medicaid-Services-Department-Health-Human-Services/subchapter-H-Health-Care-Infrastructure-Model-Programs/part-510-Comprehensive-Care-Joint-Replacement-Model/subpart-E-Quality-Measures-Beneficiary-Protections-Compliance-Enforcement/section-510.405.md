@@ -1,5 +1,7 @@
 ##### § 510.405 Beneficiary choice and beneficiary notification. #####
 
+Link to an amendment published at 82 FR 616, Jan. 3, 2017.
+
 (a) *Beneficiary choice.* The CJR model does not restrict Medicare beneficiaries' ability to choose any Medicare enrolled provider or supplier, or any physician or practitioner who has opted out of Medicare.
 
 (1) As part of discharge planning and referral, participant hospitals must inform beneficiaries of all Medicare participating post-acute care providers in an area and must identify those post-acute care providers with whom they have sharing arrangements. Participant hospitals may recommend preferred providers and suppliers, consistent with applicable statutes and regulations. Participant hospitals may not limit beneficiary choice to any list of providers or suppliers in any manner other than that permitted under applicable statutes and regulations. Participant hospitals must respect patient and family preferences when they are expressed.

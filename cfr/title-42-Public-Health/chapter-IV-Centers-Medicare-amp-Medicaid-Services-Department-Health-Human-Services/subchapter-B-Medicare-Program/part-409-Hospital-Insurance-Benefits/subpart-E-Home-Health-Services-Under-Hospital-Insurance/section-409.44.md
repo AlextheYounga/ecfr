@@ -1,5 +1,7 @@
 ##### § 409.44 Skilled services requirements. #####
 
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+
 (a) *General.* The Medicare Administrative Contractor's decision on whether care is reasonable and necessary is based on information provided on the forms and in the medical record concerning the unique medical condition of the individual beneficiary. A coverage denial is not made solely on the basis of the reviewer's general inferences about patients with similar diagnoses or on data related to utilization generally but is based upon objective clinical evidence regarding the beneficiary's individual need for care.
 
 (b) *Skilled nursing care.* (1) Skilled nursing care consists of those services that must, under State law, be performed by a registered nurse, or practical (vocational) nurse, as defined in § 484.4 of this chapter, meet the criteria for skilled nursing services specified in § 409.32, and meet the qualifications for coverage of skilled services specified in § 409.42(c). See § 409.33(a) and (b) for a description of skilled nursing services and examples of them.

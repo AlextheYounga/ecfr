@@ -1,5 +1,7 @@
 ##### § 404.1512 Evidence. #####
 
+Link to an amendment published at 82 FR 5864, Jan. 18, 2017.
+
 (a) *General.* In general, you have to prove to us that you are blind or disabled. You must inform us about or submit all evidence known to you that relates to whether or not you are blind or disabled. This duty is ongoing and requires you to disclose any additional related evidence about which you become aware. This duty applies at each level of the administrative review process, including the Appeals Council level if the evidence relates to the period on or before the date of the administrative law judge hearing decision. We will consider only impairment(s) you say you have or about which we receive evidence.
 
 (b) *What we mean by “evidence.”* Evidence is anything you or anyone else submits to us or that we obtain that relates to your claim.

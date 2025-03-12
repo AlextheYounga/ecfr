@@ -1,10 +1,8 @@
 ##### § 1910.265 Sawmills. #####
 
-Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
+(a) *General requirements—Application.* This section includes safety requirements for sawmill operations including, but not limited to, log and lumber handling, sawing, trimming, and planing; waste disposal; operation of dry kilns; finishing; shipping; storage; yard and yard equipment; and for power tools and affiliated equipment used in connection with such operations, but excluding the manufacture of plywood, cooperage, and veneer.
 
-(a) *General requirements - Application.* This section includes safety requirements for sawmill operations including, but not limited to, log and lumber handling, sawing, trimming, and planing; waste disposal; operation of dry kilns; finishing; shipping; storage; yard and yard equipment; and for power tools and affiliated equipment used in connection with such operations, but excluding the manufacture of plywood, cooperage, and veneer.
-
-(b) *Definitions applicable to this section* - (1) *A-frame.* The term *A-frame* means a structure made of two independent columns fastened together at the top and separated at the bottom for stability.
+(b) *Definitions applicable to this section*—(1) *A-frame.* The term *A-frame* means a structure made of two independent columns fastened together at the top and separated at the bottom for stability.
 
 (2) *Annealing.* The term *annealing* means heating then cooling to soften and render less brittle.
 
@@ -96,9 +94,9 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (46) *Trestle.* The term *trestle* means a braced framework of timbers, piles or steelwork for carrying a road or railroad over a depression.
 
-(c) *Building facilities, and isolated equipment* - (1) *Safety factor.* All buildings, docks, tramways, walkways, log dumps, and other structures shall be designed, constructed and maintained so as to support the imposed load in accordance with a safety factor.
+(c) *Building facilities, and isolated equipment*—(1) *Safety factor.* All buildings, docks, tramways, walkways, log dumps, and other structures shall be designed, constructed and maintained so as to support the imposed load in accordance with a safety factor.
 
-(2) *Work areas.* Work areas under mills shall be as evenly surfaced as local conditions permit. They shall be free from unnecessary obstructions and provided with lighting facilities in accordance with American National Standard for Industrial Lighting A11.1 - 1965, which is incorporated by reference as specified in § 1910.6.
+(2) *Work areas.* Work areas under mills shall be as evenly surfaced as local conditions permit. They shall be free from unnecessary obstructions and provided with lighting facilities in accordance with American National Standard for Industrial Lighting A11.1—1965, which is incorporated by reference as specified in § 1910.6.
 
 (3) *Floors.* Flooring in buildings and on ramps and walkways shall be constructed and installed in accordance with established principles of mechanics and sound engineering practices. They shall be of adequate strength to support the estimated or actual dead and live loads acting on them with the resultant stress not exceeding the allowable stress for the material being used.
 
@@ -110,7 +108,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iv) *Nonslip floors.* Floors, footwalks, and passageways in the work area around machines or other places where a person is required to stand or walk shall be provided with effective means to minimize slipping.
 
-(4) *Walkways, docks, and platforms* - (i) *Width.* Walkways, docks, and platforms shall be of sufficient width to provide adequate passage and working areas.
+(4) *Walkways, docks, and platforms*—(i) *Width.* Walkways, docks, and platforms shall be of sufficient width to provide adequate passage and working areas.
 
 (ii) *Maintenance.* Walkways shall be evenly floored and kept in good repair.
 
@@ -118,17 +116,17 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iv) *Elevated walks.* All elevated walks, runways, or platforms, if 4 feet or more from the floor level, shall be provided with a standard railing except on loading or unloading sides of platforms. If height exceeds 6 feet, a standard toe board also shall be provided to prevent material from rolling or falling off.
 
-(v) *Elevated platforms.* Where elevated platforms are used routinely on a daily basis they shall be equipped with stairways or fixed ladders in accordance with § 1910.27.
+(v) *Elevated platforms.* Where elevated platforms are used routinely on a daily basis, they shall be equipped with stairways or fixed ladders that comply with subpart D of this part.
 
 (vi) *Hazardous locations.* Where required, walkways and stairways with standard handrails shall be provided in elevated and hazardous locations. Where such passageways are over walkways or work areas, standard toe boards shall be provided.
 
-(5) *Stairways* - (i) *Construction.* Stairways shall be constructed in accordance with § 1910.24.
+(5) *Stairways*—(i) *Construction.* Stairways shall be constructed in accordance with subpart D of this part.
 
 (ii) *Handrails.* Stairways shall be provided with a standard handrail on at least one side or on any open side. Where stairs are more than four feet wide there shall be a standard handrail at each side, and where more than eight feet wide, a third standard handrail shall be erected in the center of the stairway.
 
 (iii) *Lighting.* All stairways shall be adequately lighted as prescribed in paragraph (c)(9) of this section.
 
-(6) *Emergency exits including doors and fire escapes* - (i) *Opening.* Doors shall not open directly on or block a flight of stairs, and shall swing in the direction of exit travel.
+(6) *Emergency exits including doors and fire escapes*—(i) *Opening.* Doors shall not open directly on or block a flight of stairs, and shall swing in the direction of exit travel.
 
 (ii) *Identification.* Exits shall be located and identified in a manner that affords ready exit from all work areas.
 
@@ -142,7 +140,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (8) *Vats and tanks.* All open vats and tanks into which workmen could fall shall be guarded.
 
-(9) *Lighting* - (i) *Adequacy.* Illumination shall be provided and designed to supply adequate general and local lighting to rooms, buildings, and work areas during the time of use.
+(9) *Lighting*—(i) *Adequacy.* Illumination shall be provided and designed to supply adequate general and local lighting to rooms, buildings, and work areas during the time of use.
 
 (ii) *Effectiveness.* Factors upon which the adequacy and effectiveness of illumination will be judged, include the following:
 
@@ -162,19 +160,19 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (14) [Reserved]
 
-(15) *Gas piping and appliances.* All gas piping and appliances shall be installed in accordance with the American National Standard Requirements for the Installation of Gas Appliances and Gas Piping Z21.30 - 1964, which is incorporated by reference as specified in § 1910.6.
+(15) *Gas piping and appliances.* All gas piping and appliances shall be installed in accordance with the American National Standard Requirements for the Installation of Gas Appliances and Gas Piping Z21.30—1964, which is incorporated by reference as specified in § 1910.6.
 
 (16)-(17) [Reserved]
 
-(18) *Conveyors* - (i) *Standards.* Construction, operation, and maintenance of conveyors shall be in accordance with American National Standard B20.1 - 1957, which is incorporated by reference as specified in § 1910.6.
+(18) *Conveyors*—(i) *Standards.* Construction, operation, and maintenance of conveyors shall be in accordance with American National Standard B20.1—1957, which is incorporated by reference as specified in § 1910.6.
 
 (ii) *Guarding.* Spiked live rolls shall be guarded.
 
-(19) *Stationary tramways and trestles* - (i) *Foundations and walkways.* Tramways and trestles shall have substantial mud sills or foundations which shall be frequently inspected and kept in repair. When vehicles are operated on tramways and trestles which are used for foot passage, traffic shall be controlled or a walkway with standard handrails at the outer edge and shear timber on the inner edge shall be provided. This walkway shall be wide enough to allow adequate clearance to vehicles. When walkways cross over other thoroughfares, they shall be solidly fenced at the outer edge to a height of 42 inches over such thoroughfares.
+(19) *Stationary tramways and trestles*—(i) *Foundations and walkways.* Tramways and trestles shall have substantial mud sills or foundations which shall be frequently inspected and kept in repair. When vehicles are operated on tramways and trestles which are used for foot passage, traffic shall be controlled or a walkway with standard handrails at the outer edge and shear timber on the inner edge shall be provided. This walkway shall be wide enough to allow adequate clearance to vehicles. When walkways cross over other thoroughfares, they shall be solidly fenced at the outer edge to a height of 42 inches over such thoroughfares.
 
 (ii) *Clearance.* Stationary tramways and trestles shall have a vertical clearance of 22 feet over railroad rails. When constructed over carrier docks or roads, they shall have a clearance of 6 feet above the driver's foot rest on the carrier, and in no event shall this clearance be less than 12 feet from the roadway. In existing operations where it is impractical to obtain such clearance, telltales, electric signals, signs or other precautionary measures shall be installed.
 
-(20) *Blower, collecting, and exhaust systems* - (i) *Design, construction, and maintenance.* Blower collecting, and exhaust systems should be designed, constructed, and maintained in accordance with American National Standards Z33.1 - 1961 (For the Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying) and Z12.2 - 1962 (R1969) (Code for the Prevention of Dust Explosion in Woodworking and Wood Flour Manufacturing Plants), which are incorporated by reference as specified in § 1910.6.
+(20) *Blower, collecting, and exhaust systems*—(i) *Design, construction, and maintenance.* Blower collecting, and exhaust systems should be designed, constructed, and maintained in accordance with American National Standards Z33.1—1961 (For the Installation of Blower and Exhaust Systems for Dust, Stock, and Vapor Removal or Conveying) and Z12.2—1962 (R1969) (Code for the Prevention of Dust Explosion in Woodworking and Wood Flour Manufacturing Plants), which are incorporated by reference as specified in § 1910.6.
 
 (ii) *Collecting systems.* All mills containing one or more machines that create dust, shavings, chips, or slivers during a period of time equal to or greater than one-fourth of the working day, shall be equipped with a collecting system. It may be either continuous or automatic, and shall be of sufficient strength and capacity to enable it to remove such refuse from points of operation and immediate vicinities of machines and work areas.
 
@@ -186,7 +184,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (vi) *Hand removal of refuse.* Provision for the daily removal of refuse shall be made in all operations not required to have an exhaust system or having refuse too heavy, bulky, or otherwise unsuitable to be handled by the exhaust system.
 
-(21) *Chippers* - (i) *Whole-log chippers.* The feed system to the chipper shall be arranged so the operator does not stand in direct line with the chipper spout (hopper). The chipper spout shall be enclosed to a height of not less than 36 inches from the floor or the operator's platform. A safety belt and lifeline shall be worn by workmen when working at or near the spout unless the spout is guarded. The lifeline shall be short enough to prevent workers from falling into the chipper.
+(21) *Chippers*—(i) *Whole-log chippers.* The feed system to the chipper shall be arranged so the operator does not stand in direct line with the chipper spout (hopper). The chipper spout shall be enclosed to a height of not less than 36 inches from the floor or the operator's platform. A safety belt and lifeline shall be worn by workmen when working at or near the spout unless the spout is guarded. The lifeline shall be short enough to prevent workers from falling into the chipper.
 
 (ii) *Hogs.* (*a*) Hog mills shall be so designed and arranged that from no position on the rim of the chute shall the distance to the cutter knives be less than 40 inches.
 
@@ -196,7 +194,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (22) [Reserved]
 
-(23) *Bins, bunkers, hoppers, and fuel houses* - (i) *Guarding.* Open bins, bunkers, and hoppers whose upper edges extend less than 3 feet above working level shall be equipped with standard handrails and toe boards, or have their tops covered by a substantial grill or grating with openings small enough to prevent a man from falling through.
+(23) *Bins, bunkers, hoppers, and fuel houses*—(i) *Guarding.* Open bins, bunkers, and hoppers whose upper edges extend less than 3 feet above working level shall be equipped with standard handrails and toe boards, or have their tops covered by a substantial grill or grating with openings small enough to prevent a man from falling through.
 
 (ii) *Use of wheeled equipment to load bins.* Where automotive or other wheeled equipment is used to move materials into bins, bunkers, and hoppers, adequate guard rails shall be installed along each side of the runway, and a substantial bumper stop provided when necessary.
 
@@ -204,7 +202,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iv) *Walkways.* Where needed, fuel houses and bins shall have a standard railed platform or walkway near the top.
 
-(24) *Ropes, cables, slings, and chains* - (i) *Safe usage.* Ropes, cables, slings, and chains shall be used in accordance with safe use practices recommended by the manufacturer or within safe limits recommended by the equipment manufacturer when used in conjunction with it.
+(24) *Ropes, cables, slings, and chains*—(i) *Safe usage.* Ropes, cables, slings, and chains shall be used in accordance with safe use practices recommended by the manufacturer or within safe limits recommended by the equipment manufacturer when used in conjunction with it.
 
 (ii) *Hooks.* No open hook shall be used in rigging to lift any load where there is hazard from relieving the tension on the hook from the load or hook catching or fouling.
 
@@ -296,7 +294,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (xi) *Preventing entry to hazardous area.* Where the return of trucks from unstacker to stacker is by mechanical power or gravity, adequate signs, warning devices, or barriers shall be erected to prevent entry into the hazardous area.
 
-(27) *Lumber piling and storage* - (i) *Pile foundations.* In stacking units of lumber, pile foundations shall be designed and arranged to support maximum loads without sinking, sagging, or permitting the piles to topple. In unit package piles, substantial bolsters or unit separators shall be placed between each package directly over the stickers.
+(27) *Lumber piling and storage*—(i) *Pile foundations.* In stacking units of lumber, pile foundations shall be designed and arranged to support maximum loads without sinking, sagging, or permitting the piles to topple. In unit package piles, substantial bolsters or unit separators shall be placed between each package directly over the stickers.
 
 (ii) *Stacking dissimilar unit packages.* Long units of lumber shall not be stacked upon shorter packages except where a stable pile can be made with the use of package separators.
 
@@ -310,17 +308,17 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (28) *Lumber loading.* Loads shall be built and secured to insure stability in transit.
 
-(29) *Burners* - (i) *Guying.* If the burner stack is not self-supporting, it shall be guyed or otherwise supported.
+(29) *Burners*—(i) *Guying.* If the burner stack is not self-supporting, it shall be guyed or otherwise supported.
 
 (ii) *Runway.* The conveyor runway to the burner shall be equipped with a standard handrail. If the runway crosses a roadway or thoroughfare, standard toe boards shall be provided in addition.
 
-(30) *Vehicles* - (i) *Scope.* Vehicles shall include all mobile equipment normally used in sawmill, planing mill, storage, shipping, and yard operations.
+(30) *Vehicles*—(i) *Scope.* Vehicles shall include all mobile equipment normally used in sawmill, planing mill, storage, shipping, and yard operations.
 
 (ii) *Warning signals and spark arrestors.* All vehicles shall be equipped with audible warning signals and where practicable shall have spark arrestors.
 
 (iii) *Lights.* All vehicles operated in the dark or in poorly lighted areas shall be equipped with head and tail lights.
 
-(iv) *Overhead guard.* All vehicles operated in areas where overhead hazards exist shall be equipped with an approved overhead guard. See American National Standard Safety Code for Powered Industrial Trucks, B56.1 - 1969, which is incorporated by reference as specified in § 1910.6.
+(iv) *Overhead guard.* All vehicles operated in areas where overhead hazards exist shall be equipped with an approved overhead guard. See American National Standard Safety Code for Powered Industrial Trucks, B56.1—1969, which is incorporated by reference as specified in § 1910.6.
 
 (v) *Platform guard.* Where the operator is exposed to hazard from backing the vehicle into objects, an approved platform guard shall be provided and so arranged as to not impede exit of driver from vehicle.
 
@@ -344,7 +342,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*c*) Where rollers are used, at least two shall be equipped with locks which shall be locked when supporting loads during transit.
 
-(31) *Traffic control and flow* - (i) *Hazardous crossings.* Railroad tracks and other hazardous crossings shall be plainly posted.
+(31) *Traffic control and flow*—(i) *Hazardous crossings.* Railroad tracks and other hazardous crossings shall be plainly posted.
 
 (ii) *Restricted overhead clearance.* All areas of restricted side or overhead clearance shall be plainly marked.
 
@@ -352,7 +350,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iv) *Aisles, passageways, and roadways.* Aisles, passageways, and roadways shall be sufficiently wide to provide safe side clearance. One-way aisles may be used for two-way traffic if suitable turnouts are provided.
 
-(d) *Log handling, sorting, and storage* - (1) *Log unloading methods, equipment, and facilities* - (i) *Unloading methods.* (*a*) Stakes and chocks which trip shall be constructed in such manner that the tripping mechanism that releases the stake or chocks is activated at the opposite side of the load being tripped.
+(d) *Log handling, sorting, and storage*—(1) *Log unloading methods, equipment, and facilities*—(i) *Unloading methods.* (*a*) Stakes and chocks which trip shall be constructed in such manner that the tripping mechanism that releases the stake or chocks is activated at the opposite side of the load being tripped.
 
 (*b*) Binders on logs shall not be released prior to securing with unloading lines or other unloading device.
 
@@ -380,7 +378,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*j*) Wood pike poles shall be made of straight-grained, select material. Metal or conductive pike poles shall not be used around exposed energized electrical conductors. Defective, blunt, or dull pike poles shall not be used.
 
-(2) *Log unloading and storage areas* - (i) *General.* (*a*) Log dumps, booms, ponds, or storage areas used at night shall be illuminated in accordance with the requirements of American National Standard A11.1-1965 (R-1970) Standard Practice for Industrial Lighting, which is incorporated by reference as specified in § 1910.6.
+(2) *Log unloading and storage areas*—(i) *General.* (*a*) Log dumps, booms, ponds, or storage areas used at night shall be illuminated in accordance with the requirements of American National Standard A11.1-1965 (R-1970) Standard Practice for Industrial Lighting, which is incorporated by reference as specified in § 1910.6.
 
 (*b*) Log unloading areas shall be arranged and maintained to provide a safe working area.
 
@@ -426,7 +424,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*k*) All sorting gaps shall have a substantial stiff boom on each side.
 
-(iv) *Pond boats and rafts.* The applicable provisions of the Standard for Fire Protection for Motorcraft, NFPA No. 302 - 1968, which is incorporated by reference as specified in § 1910.6, shall be complied with.
+(iv) *Pond boats and rafts.* The applicable provisions of the Standard for Fire Protection for Motorcraft, NFPA No. 302—1968, which is incorporated by reference as specified in § 1910.6, shall be complied with.
 
 (*a*) Decks of pond boats shall be covered with nonslip material.
 
@@ -460,7 +458,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*h*) Log wells shall be provided with safeguards to minimize the possibility of logs rolling back into well from log deck.
 
-(3) *Log decks* - (i) *Access.* Safe access to the head rig shall be provided.
+(3) *Log decks*—(i) *Access.* Safe access to the head rig shall be provided.
 
 (ii) *Stops.* Log decks shall be provided with adequate stops, chains, or other safeguards to prevent logs from rolling down the deck onto the carriage or its runway.
 
@@ -476,7 +474,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (viii) *Entrance doorway.* Where the cutoff saw partially blocks the entrance from the log haul runway, the entrance shall be guarded.
 
-(4) *Mechanical barkers* - (i) *Rotary barkers.* Rotary barking devices shall be so guarded as to protect employees from flying chips, bark, or other extraneous material.
+(4) *Mechanical barkers*—(i) *Rotary barkers.* Rotary barking devices shall be so guarded as to protect employees from flying chips, bark, or other extraneous material.
 
 (ii) *Elevating ramp.* If an elevating ramp or gate is used, it shall be provided with a safety chain, hook, or other means of suspension while employees are underneath.
 
@@ -486,7 +484,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (v) *Holddown rolls.* Holddown rolls shall be installed at the infeed and outfeed sections of mechanical ring barkers to control the movement of logs.
 
-(e) *Log breakdown and related machinery and facilities* - (1) *Log carriages and carriage runways* - (i) *Bumpers.* A substantial stop or bumper with adequate shock-absorptive qualities shall be installed at each end of the carriage runway.
+(e) *Log breakdown and related machinery and facilities*—(1) *Log carriages and carriage runways*—(i) *Bumpers.* A substantial stop or bumper with adequate shock-absorptive qualities shall be installed at each end of the carriage runway.
 
 (ii) *Footing.* Rider-type carriages shall be floored to provide secure footing and a firm working platform for the block setter.
 
@@ -502,7 +500,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (viii) *Dogs.* Dogging devices shall be adequate to secure logs, cants, or boards, during sawing operations.
 
-(2) *Head saws* - (i) *Band head saws.* (*a*) Band head saws shall not be operated at speeds in excess of those recommended by the manufacturer
+(2) *Head saws*—(i) *Band head saws.* (*a*) Band head saws shall not be operated at speeds in excess of those recommended by the manufacturer
 
 (*b*) Band head saws shall be thoroughly inspected for cracks, splits, broken teeth, and other defects. A bandsaw with a crack greater than one-tenth the width of the saw shall not be placed in service until width of saw is reduced to eliminate crack, until cracked section is removed, or crack development is stopped.
 
@@ -530,7 +528,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*c*) Carriage cradles of whole-log sash gang saws (Swedish gangs), shall be of adequate height to prevent logs from kicking out while being loaded.
 
-(3) *Resaws* - (i) *Band resaws.* Band resaws shall meet the specifications for band head saws as required by paragraph (e)(2)(i) of this section.
+(3) *Resaws*—(i) *Band resaws.* Band resaws shall meet the specifications for band head saws as required by paragraph (e)(2)(i) of this section.
 
 (ii) *Circular gang resaws.* (*a*) Banks of circular gang resaws shall be guarded by a hood.
 
@@ -546,7 +544,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iii) *Sash gang resaws.* Sash gang resaws shall meet the safety specifications of whole-log sash gang saws in accordance with the requirements of paragraph (e)(2)(v) of this section.
 
-(4) *Trimmer saws* - (i) *Maximum speed.* Trimmer saws shall not be run at peripheral speeds in excess of those recommended by the manufacturer.
+(4) *Trimmer saws*—(i) *Maximum speed.* Trimmer saws shall not be run at peripheral speeds in excess of those recommended by the manufacturer.
 
 (ii) *Guards.* (*a*) Trimmer saws shall be guarded in front by adequate baffles to protect against flying debris and they shall be securely bolted to a substantial frame. These guards for a series of saws shall be set as close to the top of the trimmer table as is practical.
 
@@ -556,7 +554,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iii) *Safety stops.* Automatic trimmer saws shall be provided with safety stops or hangers to prevent saws from dropping on table.
 
-(5) *Edgers* - (i) *Location.* (*a*) Where vertical arbor edger saws are located ahead of the main saw, they shall be so guarded that an employee cannot contact any part of the edger saw from his normal position.
+(5) *Edgers*—(i) *Location.* (*a*) Where vertical arbor edger saws are located ahead of the main saw, they shall be so guarded that an employee cannot contact any part of the edger saw from his normal position.
 
 (*b*) Edgers shall not be located in the main roll case behind the head saws.
 
@@ -572,7 +570,7 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iv) *Operating speed of live rolls.* Live rolls and tailing devices in back of edger shall operate at a speed not less than the speed of the edger feed rolls.
 
-(6) *Planers* - (i) *Guards.* (*a*) All cutting heads shall be guarded.
+(6) *Planers*—(i) *Guards.* (*a*) All cutting heads shall be guarded.
 
 (*b*) Side head hoods shall be of sufficient height to safeguard the head setscrew.
 
@@ -580,11 +578,11 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (*d*) Levers or controls shall be so arranged or guarded as to reduce the possibility of accidental operation.
 
-(f) *Dry kilns and facilities* - (1) *Kiln foundations.* Dry kilns shall be constructed upon solid foundations to prevent tracks from sagging
+(f) *Dry kilns and facilities*—(1) *Kiln foundations.* Dry kilns shall be constructed upon solid foundations to prevent tracks from sagging
 
 (2) *Passageways.* A passageway shall be provided to give adequate clearance on at least one side or in the center of end-piled kilns and on two sides of cross-piled kilns.
 
-(3) *Doors* - (i) *Main kiln doors.* (*a*) Main kiln doors shall be provided with a method of holding them open while kiln is being loaded.
+(3) *Doors*—(i) *Main kiln doors.* (*a*) Main kiln doors shall be provided with a method of holding them open while kiln is being loaded.
 
 (*b*) Counterweights on vertical lift doors shall be boxed or otherwise guarded.
 
@@ -598,10 +596,10 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (5) *Steam mains.* All high-pressure steam mains located in or adjacent to an operating pit shall be covered with heat-insulating material.
 
-(6) *Ladders.* A fixed ladder, in accordance with the requirements of § 1910.27 or other adequate means shall be provided to permit access to the roof. Where controls and machinery are mounted on the roof, a permanent stairway with standard handrail shall be installed in accordance with the requirements of § 1910.24.
+(6) *Ladders.* A fixed ladder complying with the requirements of subpart D of this part, or other adequate means, shall be provided to permit access to the roof. Where controls and machinery are mounted on the roof, a permanent stairway with standard handrail shall be installed in accordance with the requirements in subpart D.
 
 (7) *Chocks.* A means shall be provided for chocking or blocking cars.
 
 (8) *Kiln tender room.* A warm room shall be provided for kiln employees to stay in during cold weather after leaving a hot kiln.
 
-[39 FR 23502, June 27, 1974, as amended at 40 FR 23073, May 28, 1975; 43 FR 49751, Oct. 24, 1978; 43 FR 51760, Nov. 7, 1978; 53 FR 12123, Apr. 12, 1988; 55 FR 32015, Aug. 6, 1990; 61 FR 9241, Mar. 7, 1996; 63 FR 33467, June 18, 1998; 70 FR 53929, Sept. 13, 2005; 76 FR 80739, Dec. 27, 2011]
+[39 FR 23502, June 27, 1974, as amended at 40 FR 23073, May 28, 1975; 43 FR 49751, Oct. 24, 1978; 43 FR 51760, Nov. 7, 1978; 53 FR 12123, Apr. 12, 1988; 55 FR 32015, Aug. 6, 1990; 61 FR 9241, Mar. 7, 1996; 63 FR 33467, June 18, 1998; 70 FR 53929, Sept. 13, 2005; 76 FR 80739, Dec. 27, 2011; 81 FR 83006, Nov. 18, 2016]

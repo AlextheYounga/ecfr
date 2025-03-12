@@ -1,6 +1,6 @@
 ##### § 274a.12 Classes of aliens authorized to accept employment. #####
 
-Link to an amendment published at 81 FR 82491, November 18, 2016.Link to an amendment published at 81 FR 92312, December 19, 2016.
+Link to an amendment published at 82 FR 5289, January 17, 2017.
 
 (a) *Aliens authorized employment incident to status.* Pursuant to the statutory or regulatory reference cited, the following classes of aliens are authorized to be employed in the United States without restrictions as to location or type of employment as a condition of their admission or subsequent change to one of the indicated classes. Any alien who is within a class of aliens described in paragraphs (a)(3), (a)(4), (a)(6)-(a)(8), (a)(10)-(a)(15), or (a)(20) of this section, and who seeks to be employed in the United States, must apply to U.S. Citizenship and Immigration Services (USCIS) for a document evidencing such employment authorization. USCIS may, in its discretion, determine the validity period assigned to any document issued evidencing an alien's authorization to work in the United States.
 
@@ -34,7 +34,7 @@ Link to an amendment published at 81 FR 82491, November 18, 2016.Link to an amen
 
 (15) Any alien in V nonimmigrant status as defined in section 101(a)(15)(V) of the Act and 8 CFR 214.15.
 
-(16) An alien authorized to be admitted to or remain in the United States as a nonimmigrant alien victim of a severe form of trafficking in persons under section 101(a)(15)(T)(i) of the Act. Employment authorization granted under this paragraph shall expire upon the expiration of the underlying T-1 nonimmigrant status granted by the Service;
+(16) Any alien in T-1 nonimmigrant status, pursuant to 8 CFR 214.11, for the period in that status, as evidenced by an employment authorization document issued by USCIS to the alien.
 
 (17)-(18) [Reserved]
 
@@ -70,7 +70,7 @@ Link to an amendment published at 81 FR 82491, November 18, 2016.Link to an amen
 
 (8) A personal employee of an official or representative of an international organization (G-5), pursuant to § 214.2(g) of this chapter. An alien in this status may be employed only by the official or representative of the international organization;
 
-(9) A temporary worker or trainee (H-1, H-2A, H-2B, or H-3), pursuant to § 214.2(h) of this chapter, or a nonimmigrant specialty occupation worker pursuant to section 101(a)(15)(H)(i)(b1) of the Act. An alien in this status may be employed only by the petitioner through whom the status was obtained. In the case of a professional H-2B athlete who is traded from one organization to another organization, employment authorization for the player will automatically continue for a period of 30 days after acquisition by the new organization, within which time the new organization is expected to file a new Form I-129 to petition for H-2B classification. If a new Form I-129 is not filed within 30 days, employment authorization will cease. If a new Form I-129 is filed within 30 days, the professional athlete's employment authorization will continue until the petition is adjudicated. If the new petition is denied, employment authorization will cease;
+(9) A temporary worker or trainee (H-1, H-2A, H-2B, or H-3), pursuant to § 214.2(h) of this chapter, or a nonimmigrant specialty occupation worker pursuant to section 101(a)(15)(H)(i)(b1) of the Act. An alien in this status may be employed only by the petitioner through whom the status was obtained. In the case of a professional H-2B athlete who is traded from one organization to another organization, employment authorization for the player will automatically continue for a period of 30 days after acquisition by the new organization, within which time the new organization is expected to file a new Form I-129 to petition for H-2B classification. If a new Form I-129 is not filed within 30 days, employment authorization will cease. If a new Form I-129 is filed within 30 days, the professional athlete's employment authorization will continue until the petition is adjudicated. If the new petition is denied, employment authorization will cease. In the case of a nonimmigrant with H-1B status, employment authorization will automatically continue upon the filing of a qualifying petition under 8 CFR 214.2(h)(2)(i)(H) until such petition is adjudicated, in accordance with section 214(n) of the Act and 8 CFR 214.2(h)(2)(i)(H);
 
 (10) An information media representative (I), pursuant to § 214.2(i) of this chapter. An alien in this status may be employed only for the sponsoring foreign news agency or bureau. Employment authorization does not extend to the dependents of an information media representative (also designated “I”);
 
@@ -180,12 +180,32 @@ Link to an amendment published at 81 FR 82491, November 18, 2016.Link to an amen
 
 (24) An alien who has filed an application for adjustment pursuant to section 1104 of the LIFE Act, Public Law 106-553, and the provisions of 8 CFR part 245a, Subpart B of this chapter.
 
-(25) An immediate family member of a T-1 victim of a severe form of trafficking in persons designated as a T-2, T-3 or T-4 nonimmigrant pursuant to § 214.11 of this chapter. Aliens in this status shall only be authorized to work for the duration of their T nonimmigrant status.
+(25) Any alien in T-2, T-3, T-4, T-5, or T-6 nonimmigrant status, pursuant to 8 CFR 214.11, for the period in that status, as evidenced by an employment authorization document issued by USCIS to the alien.
 
 (26) An H-4 nonimmigrant spouse of an H-1B nonimmigrant described as eligible for employment authorization in 8 CFR 214.2(h)(9)(iv).
+
+(27) [Reserved]
+
+(28) [Reserved]
+
+(29) [Reserved]
+
+(30) [Reserved]
+
+(31) [Reserved]
+
+(32) [Reserved]
+
+(33) [Reserved]
+
+(34) [Reserved]
+
+(35) An alien who is the principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
+
+(36) A spouse or child of a principal beneficiary of a valid immigrant petition under section 203(b)(1), 203(b)(2) or 203(b)(3) of the Act described as eligible for employment authorization in 8 CFR 204.5(p).
 
 (d) An alien lawfully enlisted in one of the Armed Forces, or whose enlistment the Secretary with jurisdiction over such Armed Force has determined would be vital to the national interest under 10 U.S.C. 504(b)(2), is authorized to be employed by that Armed Force in military service, if such employment is not otherwise authorized under this section and the immigration laws. An alien described in this section is not issued an employment authorization document.
 
 (e) *Basic criteria to establish economic necessity.* Title 45 - Public Welfare, Poverty Guidelines, 45 CFR 1060.2 should be used as the basic criteria to establish eligibility for employment authorization when the alien's economic necessity is identified as a factor. The alien shall submit an application for employment authorization listing his or her assets, income, and expenses as evidence of his or her economic need to work. Permission to work granted on the basis of the alien's application for employment authorization may be revoked under § 274a.14 of this chapter upon a showing that the information contained in the statement was not true and correct.
 
-Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[52 FR 16221, May 1, 1987]Editorial Note:For Federal Register citations affecting § 274a.12, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

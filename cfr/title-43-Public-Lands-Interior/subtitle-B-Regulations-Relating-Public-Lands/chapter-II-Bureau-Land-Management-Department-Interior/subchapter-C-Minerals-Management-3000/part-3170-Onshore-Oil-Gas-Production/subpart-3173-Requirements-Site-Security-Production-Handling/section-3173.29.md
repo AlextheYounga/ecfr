@@ -1,0 +1,20 @@
+##### § 3173.29 Immediate assessments for certain violations. #####
+
+Certain instances of noncompliance warrant the imposition of immediate assessments upon discovery, as prescribed in the following table. Imposition of these assessments does not preclude other appropriate enforcement actions:
+
+|                                                                                   Violation                                                                                   |Assessment amount per violation  <br/>($)|
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------|
+|                                            1. An appropriate valve on an oil storage tank was not sealed, as required by § 3173.2                                             |                  1,000                  |
+|                                    2. An appropriate valve or component on an oil metering system was not sealed, as required by § 3173.3                                     |                  1,000                  |
+|                                         3. A Federal seal is removed without prior approval of the AO or AR, as required by § 3173.4                                          |                  1,000                  |
+|                      4. Oil was not properly measured before removal from storage for use on a different lease, unit, or CA, as required by § 3173.7(b)                       |                  1,000                  |
+|                                                               5. An FMP was bypassed, in violation of § 3170.4                                                                |                  1,000                  |
+|                                          6. Theft or mishandling of production was not reported to the BLM, as required by § 3173.8                                           |                  1,000                  |
+|                                7. Records necessary to determine quantity and quality of production were not retained, as required by § 3170.7                                |                  1,000                  |
+|                                                        8. FMP application was not submitted, as required by § 3173.12                                                         |                  1,000                  |
+|9. (i) For facilities that begin operation after January 17, 2017, BLM approval for off-lease measurement was not obtained before removing production, as required by § 3173.23|                  1,000                  |
+|  (ii) Facilities that were in operation on or before January 17, 2017, are subject to an assessment if they do not have an existing BLM approval for off-lease measurement.   |                                         |
+|10. (i) For facilities that begin operation after January 17, 2017, BLM approval for surface commingling was not obtained before removing production, as required by § 3173.15 |                  1,000                  |
+|   (ii) Facilities that were in operation on or before January 17, 2017, are subject to an assessment if they do not have an existing BLM approval for surface commingling.    |                                         |
+|11. (i) For facilities that begin operation after January 17, 2017, BLM approval for downhole commingling was not obtained before removing production, as required by § 3173.15|                  1,000                  |
+|   (ii) Facilities that were in operation on or before January 17, 2017, are subject to an assessment if they do not have an existing BLM approval for downhole commingling.   |                                         |

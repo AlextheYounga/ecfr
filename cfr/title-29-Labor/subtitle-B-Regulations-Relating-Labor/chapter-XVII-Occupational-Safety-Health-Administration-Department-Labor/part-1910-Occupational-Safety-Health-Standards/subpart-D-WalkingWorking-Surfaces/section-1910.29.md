@@ -1,89 +1,197 @@
-##### § 1910.29 Manually propelled mobile ladder stands and scaffolds (towers). #####
+##### § 1910.29 Fall protection systems and falling object protection - criteria and practices. #####
 
-(a) *General requirements* - (1) *Application.* This section is intended to prescribe rules and requirements for the design, construction, and use of mobile work platforms (including ladder stands but not including aerial ladders) and rolling (mobile) scaffolds (towers). This standard is promulgated to aid in providing for the safety of life, limb, and property, by establishing minimum standards for structural design requirements and for the use of mobile work platforms and towers.
+(a) *General requirements.* The employer must:
 
-(2) *Working loads.* (i) Work platforms and scaffolds shall be capable of carrying the design load under varying circumstances depending upon the conditions of use. Therefore, all parts and appurtenances necessary for their safe and efficient utilization must be integral parts of the design.
+(1) Ensure each fall protection system and falling object protection, other than personal fall protection systems, that this part requires meets the requirements in this section. The employer must ensure each personal fall protection system meets the requirements in subpart I of this part; and
 
-(ii) Specific design and construction requirements are not a part of this section because of the wide variety of materials and design possibilities. However, the design shall be such as to produce a mobile ladder stand or scaffold that will safely sustain the specified loads. The material selected shall be of sufficient strength to meet the test requirements and shall be protected against corrosion or deterioration.
+(2) Provide and install all fall protection systems and falling object protection this subpart requires, and comply with the other requirements in this subpart before any employee begins work that necessitates fall or falling object protection.
 
-(*a*) The design working load of ladder stands shall be calculated on the basis of one or more 200-pound persons together with 50 pounds of equipment each.
+(b) *Guardrail systems.* The employer must ensure guardrail systems meet the following requirements:
 
-(*b*) The design load of all scaffolds shall be calculated on the basis of:
+(1) The top edge height of top rails, or equivalent guardrail system members, are 42 inches (107 cm), plus or minus 3 inches (8 cm), above the walking-working surface. The top edge height may exceed 45 inches (114 cm), provided the guardrail system meets all other criteria of paragraph (b) of this section (see Figure D-11 of this section).
 
-*Light* - Designed and constructed to carry a working load of 25 pounds per square foot.*Medium* - Designed and constructed to carry a working load of 50 pounds per square foot.*Heavy* - Designed and constructed to carry a working load of 75 pounds per square foot.All ladder stands and scaffolds shall be capable of supporting at least four times the design working load.
+(2) Midrails, screens, mesh, intermediate vertical members, solid panels, or equivalent intermediate members are installed between the walking-working surface and the top edge of the guardrail system as follows when there is not a wall or parapet that is at least 21 inches (53 cm) high:
 
-(iii) The materials used in mobile ladder stands and scaffolds shall be of standard manufacture and conform to standard specifications of strength, dimensions, and weights, and shall be selected to safely support the design working load.
+(i) Midrails are installed at a height midway between the top edge of the guardrail system and the walking-working surface;
 
-(iv) Nails, bolts, or other fasteners used in the construction of ladders, scaffolds, and towers shall be of adequate size and in sufficient numbers at each connection to develop the designed strength of the unit. Nails shall be driven full length. (All nails should be immediately withdrawn from dismantled lumber.)
+(ii) Screens and mesh extend from the walking-working surface to the top rail and along the entire opening between top rail supports;
 
-(v) All exposed surfaces shall be free from sharp edges, burrs or other safety hazards.
+(iii) Intermediate vertical members (such as balusters) are installed no more than 19 inches (48 cm) apart; and
 
-(3) *Work levels.* (i) The maximum work level height shall not exceed four (4) times the minimum or least base dimensions of any mobile ladder stand or scaffold. Where the basic mobile unit does not meet this requirement, suitable outrigger frames shall be employed to achieve this least base dimension, or provisions shall be made to guy or brace the unit against tipping.
+(iv) Other equivalent intermediate members (such as additional midrails and architectural panels) are installed so that the openings are not more than 19 inches (48 cm) wide.
 
-(ii) The minimum platform width for any work level shall not be less than 20 inches for mobile scaffolds (towers). Ladder stands shall have a minimum step width of 16 inches.
+(3) Guardrail systems are capable of withstanding, without failure, a force of at least 200 pounds (890 N) applied in a downward or outward direction within 2 inches (5 cm) of the top edge, at any point along the top rail.
 
-(iii) The supporting structure for the work level shall be rigidly braced, using adequate cross bracing or diagonal bracing with rigid platforms at each work level.
+(4) When the 200-pound (890-N) test load is applied in a downward direction, the top rail of the guardrail system must not deflect to a height of less than 39 inches (99 cm) above the walking-working surface.
 
-(iv) The steps of ladder stands shall be fabricated from slip resistant treads.
+(5) Midrails, screens, mesh, intermediate vertical members, solid panels, and other equivalent intermediate members are capable of withstanding, without failure, a force of at least 150 pounds (667 N) applied in any downward or outward direction at any point along the intermediate member.
 
-(v) The work level platform of scaffolds (towers) shall be of wood, aluminum, or plywood planking, steel or expanded metal, for the full width of the scaffold, except for necessary openings. Work platforms shall be secured in place. All planking shall be 2-inch (nominal) scaffold grade minimum 1,500 *f.* (stress grade) construction grade lumber or equivalent.
+(6) Guardrail systems are smooth-surfaced to protect employees from injury, such as punctures or lacerations, and to prevent catching or snagging of clothing.
 
-(vi) All scaffold work levels 10 feet or higher above the ground or floor shall have a standard (4-inch nominal) toeboard.
+(7) The ends of top rails and midrails do not overhang the terminal posts, except where the overhang does not pose a projection hazard for employees.
 
-(vii) All work levels 10 feet or higher above the ground or floor shall have a guardrail of 2- by 4-inch nominal or the equivalent installed no less than 36 inches or more than 42 inches high, with a mid-rail, when required, of 1- by 4-inch nominal lumber or equivalent.
+(8) Steel banding and plastic banding are not used for top rails or midrails.
 
-(viii) A climbing ladder or stairway shall be provided for proper access and egress, and shall be affixed or built into the scaffold and so located that its use will not have a tendency to tip the scaffold. A landing platform shall be provided at intervals not to exceed 30 feet.
+(9) Top rails and midrails are at least 0.25-inches (0.6 cm) in diameter or in thickness.
 
-(4) *Wheels or casters.* (i) Wheels or casters shall be properly designed for strength and dimensions to support four (4) times the design working load.
+(10) When guardrail systems are used at hoist areas, a removable guardrail section, consisting of a top rail and midrail, are placed across the access opening between guardrail sections when employees are not performing hoisting operations. The employer may use chains or gates instead of a removable guardrail section at hoist areas if the employer demonstrates the chains or gates provide a level of safety equivalent to guardrails.
 
-(ii) All scaffold casters shall be provided with a positive wheel and/or swivel lock to prevent movement. Ladder stands shall have at least two (2) of the four (4) casters and shall be of the swivel type.
+(11) When guardrail systems are used around holes, they are installed on all unprotected sides or edges of the hole.
 
-(iii) Where leveling of the elevated work platform is required, screw jacks or other suitable means for adjusting the height shall be provided in the base section of each mobile unit.
+(12) For guardrail systems used around holes through which materials may be passed:
 
-(b) *Mobile tubular welded frame scaffolds* - (1) *General.* Units shall be designed to comply with the requirements of paragraph (a) of this section.
+(i) When materials are being passed through the hole, not more than two sides of the guardrail system are removed; and
 
-(2) *Bracing.* Scaffolds shall be properly braced by cross braces and/or diagonal braces for securing vertical members together laterally. The cross braces shall be of a length that will automatically square and align vertical members so the erected scaffold is always plumb, square, and rigid.
+(ii) When materials are not being passed through the hole, the hole must be guarded by a guardrail system along all unprotected sides or edges or closed over with a cover.
 
-(3) *Spacing.* Spacing of panels or frames shall be consistent with the loads imposed. The frames shall be placed one on top of the other with coupling or stacking pins to provide proper vertical alignment of the legs.
+(13) When guardrail systems are used around holes that serve as points of access (such as ladderways), the guardrail system opening:
 
-(4) *Locking.* Where uplift may occur, panels shall be locked together vertically by pins or other equivalent means.
+(i) Has a self-closing gate that slides or swings away from the hole, and is equipped with a top rail and midrail or equivalent intermediate member that meets the requirements in paragraph (b) of this section; or
 
-(5) *Erection.* Only the manufacturer of a scaffold or his qualified designated agent shall be permitted to erect or supervise the erection of scaffolds exceeding 50 feet in height above the base, unless such structure is approved in writing by a registered professional engineer, or erected in accordance with instructions furnished by the manufacturer.
+(ii) Is offset to prevent an employee from walking or falling into the hole;
 
-(c) *Mobile tubular welded sectional folding scaffolds* - (1) *General.* Units including sectional stairway and sectional ladder scaffolds shall be designed to comply with the requirements of paragraph (a) of this section.
+(14) Guardrail systems on ramps and runways are installed along each unprotected side or edge.
 
-(2) *Stairway.* An integral stairway and work platform shall be incorporated into the structure of each sectional folding stairway scaffold.
+(15) Manila or synthetic rope used for top rails or midrails are inspected as necessary to ensure that the rope continues to meet the strength requirements in paragraphs (b)(3) and (5) of this section.
 
-(3) *Bracing.* An integral set of pivoting and hinged folding diagonal and horizontal braces and a detachable work platform shall be incorporated into the structure of each sectional folding ladder scaffold.
+Note to paragraph (b) of this section:
 
-(4) *Sectional folding stairway scaffolds.* Sectional folding stairway scaffolds shall be designed as medium duty scaffolds except for high clearance. These special base sections shall be designed as light duty scaffolds. When upper sectional folding stairway scaffolds are used with a special high clearance base, the load capacity of the entire scaffold shall be reduced accordingly. The width of a sectional folding stairway scaffold shall not exceed 41/2 feet. The maximum length of a sectional folding stairway scaffold shall not exceed 6 feet.
+The criteria and practices requirements for guardrail systems on scaffolds are contained in 29 CFR part 1926, subpart L.
 
-(5) *Sectional folding ladder scaffolds.* Sectional folding ladder scaffolds shall be designed as light duty scaffolds including special base (open end) sections which are designed for high clearance. For certain special applications the six-foot (6′) folding ladder scaffolds, except for special high clearance base sections, shall be designed for use as medium duty scaffolds. The width of a sectional folding ladder scaffold shall not exceed 41/2 feet. The maximum length of a sectional folding ladder scaffold shall not exceed 6 feet 6 inches for a six-foot (6′) long unit, 8 feet 6 inches for an eight-foot (8′) unit or 10 feet 6 inches for a ten-foot (10′) long unit.
+![](/graphics/er18no16.356.gif)
 
-(6) *End frames.* The end frames of sectional ladder and stairway scaffolds shall be designed so that the horizontal bearers provide supports for multiple planking levels.
+(c) *Safety net systems.* The employer must ensure each safety net system meets the requirements in 29 CFR part 1926, subpart M.
 
-(7) *Erection.* Only the manufacturer of the scaffold or his qualified designated agent shall be permitted to erect or supervise the erection of scaffolds exceeding 50 feet in height above the base, unless such structure is approved in writing by a licensed professional engineer, or erected in accordance with instructions furnished by the manufacturer.
+(d) *Designated areas.* (1) When the employer uses a designated area, the employer must ensure:
 
-(d) *Mobile tube and coupler scaffolds* - (1) *Design.* Units shall be designed to comply with the applicable requirements of paragraph (a) of this section.
+(i) Employees remain within the designated area while work operations are underway; and
 
-(2) *Material.* The material used for the couplers shall be of a structural type, such as a drop-forged steel, malleable iron or structural grade aluminum. The use of gray cast iron is prohibited.
+(ii) The perimeter of the designated area is delineated with a warning line consisting of a rope, wire, tape, or chain that meets the requirements of paragraphs (d)(2) and (3) of this section.
 
-(3) *Erection.* Only the manufacturer of the scaffold or his qualified designated agent shall be permitted to erect or supervise the erection of scaffolds exceeding 50 feet in height above the base, unless such structure is approved in writing by a licensed professional engineer, or erected in accordance with instructions furnished by the manufacturer.
+(2) The employer must ensure each warning line:
 
-(e) *Mobile work platforms* - (1) *Design.* Units shall be designed for the use intended and shall comply with the requirements of paragraph (a) of this section.
+(i) Has a minimum breaking strength of 200 pounds (0.89 kN);
 
-(2) *Base width.* The minimum width of the base of mobile work platforms shall not be less than 20 inches.
+(ii) Is installed so its lowest point, including sag, is not less than 34 inches (86 cm) and not more than 39 inches (99 cm) above the walking-working surface;
 
-(3) *Bracing.* Adequate rigid diagonal bracing to vertical members shall be provided.
+(iii) Is supported in such a manner that pulling on one section of the line will not result in slack being taken up in adjacent sections causing the line to fall below the limits specified in paragraph (d)(2)(ii) of this section;
 
-(f) *Mobile ladder stands* - (1) *Design.* Units shall comply with applicable requirements of paragraph (a) of this section.
+(iv) Is clearly visible from a distance of 25 feet (7.6 m) away, and anywhere within the designated area;
 
-(2) *Base width.* The minimum base width shall conform to paragraph (a)(3)(i) of this section. The maximum length of the base section shall be the total length of combined steps and top assembly, measured horizontally, plus five-eighths inch per step of rise.
+(v) Is erected as close to the work area as the task permits; and
 
-(3) *Steps.* Steps shall be uniformly spaced, and sloped, with a rise of not less than nine (9) inches, nor more than ten (10) inches, and a depth of not less seven (7) inches. The slope of the steps section shall be a minimum of fifty-five (55) degrees and a maximum of sixty (60) degrees measured from the horizontal.
+(vi) Is erected not less than 6 feet (1.8 m) from the roof edge for work that is both temporary and infrequent, or not less than 15 feet (4.6 m) for other work.
 
-(4) *Handrails.* (i) Units having more than five (5) steps or 60 inches vertical height to the top step shall be equipped with handrails.
+(3) When mobile mechanical equipment is used to perform work that is both temporary and infrequent in a designated area, the employer must ensure the warning line is erected not less than 6 feet (1.8 m) from the unprotected side or edge that is parallel to the direction in which the mechanical equipment is operated, and not less than 10 feet (3 m) from the unprotected side or edge that is perpendicular to the direction in which the mechanical equipment is operated.
 
-(ii) Handrails shall be a minimum of 29 inches high. Measurements shall be taken vertically from the center of the step.
+(e) *Covers.* The employer must ensure each cover for a hole in a walking-working surface:
 
-(5) *Loading.* The load (see paragraph (a)(2)(ii)(*a*) of this section) shall be applied uniformly to a 31/2 inches wide area front to back at the center of the width span with a safety factor of four (4).
+(1) Is capable of supporting without failure, at least twice the maximum intended load that may be imposed on the cover at any one time; and
+
+(2) Is secured to prevent accidental displacement.
+
+(f) *Handrails and stair rail systems.* The employer must ensure:
+
+(1) *Height criteria.* (i) Handrails are not less than 30 inches (76 cm) and not more than 38 inches (97 cm), as measured from the leading edge of the stair tread to the top surface of the handrail (see Figure D-12 of this section).
+
+(ii) The height of stair rail systems meets the following:
+
+(A) The height of stair rail systems installed before January 17, 2017 is not less than 30 inches (76 cm) from the leading edge of the stair tread to the top surface of the top rail; and
+
+(B) The height of stair rail systems installed on or after January 17, 2017 is not less than 42 inches (107 cm) from the leading edge of the stair tread to the top surface of the top rail.
+
+(iii) The top rail of a stair rail system may serve as a handrail only when:
+
+(A) The height of the stair rail system is not less than 36 inches (91 cm) and not more than 38 inches (97 cm) as measured at the leading edge of the stair tread to the top surface of the top rail (see Figure D-13 of this section); and
+
+(B) The top rail of the stair rail system meets the other handrail requirements in paragraph (f) of this section.
+
+(2) *Finger clearance.* The minimum clearance between handrails and any other object is 2.25 inches (5.7 cm).
+
+(3) *Surfaces.* Handrails and stair rail systems are smooth-surfaced to protect employees from injury, such as punctures or lacerations, and to prevent catching or snagging of clothing.
+
+(4) *Openings in stair rails.* No opening in a stair rail system exceeds 19 inches (48 cm) at its least dimension.
+
+(5) *Handhold.* Handrails have the shape and dimension necessary so that employees can grasp the handrail firmly.
+
+(6) *Projection hazards.* The ends of handrails and stair rail systems do not present any projection hazards.
+
+(7) *Strength criteria.* Handrails and the top rails of stair rail systems are capable of withstanding, without failure, a force of at least 200 pounds (890 N) applied in any downward or outward direction within 2 inches (5 cm) of any point along the top edge of the rail.
+
+![](/graphics/er18no16.357.gif)
+
+|   |                                                 |
+|---|-------------------------------------------------|
+|   |Figure D-13 - Combination Handrail and Stair Rail|
+
+(g) *Cages, wells, and platforms used with fixed ladders.* The employer must ensure:
+
+(1) Cages and wells installed on fixed ladders are designed, constructed, and maintained to permit easy access to, and egress from, the ladder that they enclose (see Figures D-14 and D-15 of this section);
+
+(2) Cages and wells are continuous throughout the length of the fixed ladder, except for access, egress, and other transfer points;
+
+(3) Cages and wells are designed, constructed, and maintained to contain employees in the event of a fall, and to direct them to a lower landing; and
+
+(4) Platforms used with fixed ladders provide a horizontal surface of at least 24 inches by 30 inches (61 cm by 76 cm).
+
+Note to paragraph (g):
+
+Section 1910.28 establishes the requirements that employers must follow on the use of cages and wells as a means of fall protection.
+
+![](/graphics/er18no16.358.gif)![](/graphics/er18no16.359.gif)
+
+(h) *Outdoor advertising.* This paragraph (h) applies only to employers engaged in outdoor advertising operations (see § 1910.28(b)(10)). Employers must ensure that each employee who climbs a fixed ladder without fall protection:
+
+(1) Is physically capable, as demonstrated through observations of actual climbing activities or by a physical examination, to perform the duties that may be assigned, including climbing fixed ladders without fall protection;
+
+(2) Has successfully completed a training or apprenticeship program that includes hands-on training on the safe climbing of ladders and is retrained as necessary to maintain the necessary skills;
+
+(3) Has the skill to climb ladders safely, as demonstrated through formal classroom training or on-the-job training, and performance observation; and
+
+(4) Performs climbing duties as a part of routine work activity.
+
+(i) *Ladder safety systems.* The employer must ensure:
+
+(1) Each ladder safety system allows the employee to climb up and down using both hands and does not require that the employee continuously hold, push, or pull any part of the system while climbing;
+
+(2) The connection between the carrier or lifeline and the point of attachment to the body harness or belt does not exceed 9 inches (23 cm);
+
+(3) Mountings for rigid carriers are attached at each end of the carrier, with intermediate mountings spaced, as necessary, along the entire length of the carrier so the system has the strength to stop employee falls;
+
+(4) Mountings for flexible carriers are attached at each end of the carrier and cable guides for flexible carriers are installed at least 25 feet (7.6 m) apart but not more than 40 feet (12.2 m) apart along the entire length of the carrier;
+
+(5) The design and installation of mountings and cable guides does not reduce the design strength of the ladder; and
+
+(6) Ladder safety systems and their support systems are capable of withstanding, without failure, a drop test consisting of an 18-inch (41-cm) drop of a 500-pound (227-kg) weight.
+
+(j) *Personal fall protection systems.* Body belts, harnesses, and other components used in personal fall arrest systems, work positioning systems, and travel restraint systems must meet the requirements of § 1910.140.
+
+(k) *Protection from falling objects.* (1) The employers must ensure toeboards used for falling object protection:
+
+(i) Are erected along the exposed edge of the overhead walking-working surface for a length that is sufficient to protect employees below.
+
+(ii) Have a minimum vertical height of 3.5 inches (9 cm) as measured from the top edge of the toeboard to the level of the walking-working surface.
+
+(iii) Do not have more than a 0.25-inch (0.5-cm) clearance or opening above the walking-working surface.
+
+(iv) Are solid or do not have any opening that exceeds 1 inch (3 cm) at its greatest dimension.
+
+(v) Have a minimum height of 2.5 inches (6 cm) when used around vehicle repair, service, or assembly pits. Toeboards may be omitted around vehicle repair, service, or assembly pits when the employer can demonstrate that a toeboard would prevent access to a vehicle that is over the pit.
+
+(vi) Are capable of withstanding, without failure, a force of at least 50 pounds (222 N) applied in any downward or outward direction at any point along the toeboard.
+
+(2) The employer must ensure:
+
+(i) Where tools, equipment, or materials are piled higher than the top of the toeboard, paneling or screening is installed from the toeboard to the midrail of the guardrail system and for a length that is sufficient to protect employees below. If the items are piled higher than the midrail, the employer also must install paneling or screening to the top rail and for a length that is sufficient to protect employees below; and
+
+(ii) All openings in guardrail systems are small enough to prevent objects from falling through the opening.
+
+(3) The employer must ensure canopies used for falling object protection are strong enough to prevent collapse and to prevent penetration by falling objects.
+
+(l) *Grab handles.* The employer must ensure each grab handle:
+
+(1) Is not less than 12 inches (30 cm) long;
+
+(2) Is mounted to provide at least 3 inches (8 cm) of clearance from the framing or opening; and
+
+(3) Is capable of withstanding a maximum horizontal pull-out force equal to two times the maximum intended load or 200 pounds (890 N), whichever is greater.

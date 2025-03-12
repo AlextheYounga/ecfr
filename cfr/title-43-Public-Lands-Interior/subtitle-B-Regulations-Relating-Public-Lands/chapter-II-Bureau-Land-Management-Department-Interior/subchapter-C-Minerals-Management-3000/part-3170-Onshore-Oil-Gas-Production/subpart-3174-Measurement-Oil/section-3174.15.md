@@ -1,0 +1,12 @@
+##### § 3174.15 Immediate assessments. #####
+
+Certain instances of noncompliance warrant the imposition of immediate assessments upon the BLM's discovery of the violation, as prescribed in the following table. Imposition of any of these assessments does not preclude other appropriate enforcement actions.
+
+|                                                                                  Violations subject to an immediate assessment                                                                                   |                                            |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------|
+|                                                                                                    Violation:                                                                                                    |Assessment  <br/>amount per  <br/>violation:|
+|                                                         1. Missing or nonfunctioning FMP LACT system components as required by § 3174.8 of this subpart                                                          |                   $1,000                   |
+|2. Failure to notify the AO within 72 hours, as required by § 3174.7(e) of this subpart, of any FMP LACT system failure or equipment malfunction resulting in use of an unapproved alternate method of measurement|                   1,000                    |
+|                                                             3. Missing or nonfunctioning FMP CMS components as required by § 3174.9 of this subpart                                                              |                   1,000                    |
+|                                                     4. Failure to meet the proving frequency requirements for an FMP, detailed in § 3174.11 of this subpart                                                      |                   1,000                    |
+|                 5. Failure to obtain a written approval, as required by § 3174.13 of this subpart, before using any oil measurement method other than tank gauging, LACT system, or CMS at a FMP                 |                   1,000                    |

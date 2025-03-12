@@ -1,5 +1,7 @@
 ##### § 1001.501 License revocation or suspension. #####
 
+Link to an amendment published at 82 FR 4113, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude an individual or entity that has -
 
 (1) Had a license to provide health care revoked or suspended by any State licensing authority, or has otherwise lost such a license (including the right to apply for or renew such a license), for reasons bearing on the individual's or entity's professional competence, professional performance or financial integrity; or

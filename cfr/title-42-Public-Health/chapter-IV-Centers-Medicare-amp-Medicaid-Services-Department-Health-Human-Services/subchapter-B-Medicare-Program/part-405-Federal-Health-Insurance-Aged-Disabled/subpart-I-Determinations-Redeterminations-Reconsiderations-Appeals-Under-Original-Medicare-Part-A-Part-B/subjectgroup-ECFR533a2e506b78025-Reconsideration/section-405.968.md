@@ -1,5 +1,7 @@
 ##### § 405.968 Conduct of a reconsideration. #####
 
+Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
+
 (a) *General rules.* (1) A reconsideration consists of an independent, on-the-record review of an initial determination, including the redetermination and all issues related to payment of the claim. In conducting a reconsideration, the QIC reviews the evidence and findings upon which the initial determination, including the redetermination, was based, and any additional evidence the parties submit or that the QIC obtains on its own. If the initial determination involves a finding on whether an item or service is reasonable and necessary for the diagnosis or treatment of illness or injury (under section 1862(a)(1)(A) of the Act), a QIC's reconsideration must involve consideration by a panel of physicians or other appropriate health care professionals, and be based on clinical experience, the patient's medical records, and medical, technical, and scientific evidence of record to the extent applicable.
 
 (b) *Authority of the QIC.* (1) National coverage determinations (NCDs), CMS Rulings, and applicable laws and regulations are binding on the QIC.

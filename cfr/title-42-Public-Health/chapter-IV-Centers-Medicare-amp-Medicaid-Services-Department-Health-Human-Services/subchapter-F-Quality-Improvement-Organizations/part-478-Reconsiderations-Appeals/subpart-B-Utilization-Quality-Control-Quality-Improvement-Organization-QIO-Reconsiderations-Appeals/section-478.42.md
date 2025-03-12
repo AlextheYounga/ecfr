@@ -1,5 +1,7 @@
 ##### § 478.42 Submitting a request for a hearing. #####
 
+Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
+
 (a) *Where to submit the written request.* A beneficiary who wants to obtain a hearing under § 478.40 must submit a written request to one of the following:
 
 (1) The office of the QIO or QIO subcontractor that made the initial determination.

@@ -1,7 +1,5 @@
 ##### § 391.23 Investigation and inquiries. #####
 
-Link to an amendment published at 81 FR 87730, Dec. 5, 2016.
-
 (a) Except as provided in subpart G of this part, each motor carrier shall make the following investigations and inquiries with respect to each driver it employs, other than a person who has been a regularly employed driver of the motor carrier for a continuous period which began before January 1, 1971:
 
 (1) An inquiry to each State where the driver held or holds a motor vehicle operator's license or permit during the preceding 3 years to obtain that driver's motor vehicle record.
@@ -42,7 +40,15 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.
 
 (iii) Refusals to be tested (including verified adulterated or substituted drug test results).
 
-(f) A prospective motor carrier employer must provide to the previous employer the driver's written consent meeting the requirements of § 40.321(b) for the release of the information in paragraph (e) of this section. If the driver refuses to provide this written consent, the prospective motor carrier employer must not permit the driver to operate a commercial motor vehicle for that motor carrier.
+(4) As of January 6, 2023, employers subject to § 382.701(a) of this chapter must use the Drug and Alcohol Clearinghouse to comply with the requirements of this section with respect to FMCSA-regulated employers.
+
+(i) *Exceptions.* (A) If an applicant who is subject to follow-up testing has not successfully completed all follow-up tests, the employer must request the applicant's follow-up testing plan directly from the previous employer in accordance with § 40.25(b)(5) of this title.
+
+(B) If an applicant was subject to an alcohol and controlled substance testing program under the requirements of a DOT mode other than FMCSA, the employer must request alcohol and controlled substances information required under this section directly from those employers regulated by a DOT mode other than FMCSA.
+
+(f)(1) A prospective motor carrier employer must provide to the previous employer the driver's consent meeting the requirements of § 40.321(b) of this title for the release of the information in paragraph (e) of this section. If the driver refuses to provide this consent, the prospective motor carrier employer must not permit the driver to operate a commercial motor vehicle for that motor carrier.
+
+(2) If a driver refuses to grant consent for the prospective motor carrier employer to query the Drug and Alcohol Clearinghouse in accordance with paragraph (e)(4) of this section, the prospective motor carrier employer must not permit the driver to operate a commercial motor vehicle.
 
 (g) After October 29, 2004, previous employers must:
 
@@ -128,4 +134,4 @@ Link to an amendment published at 81 FR 87730, Dec. 5, 2016.
 
 (ii) Until July 8, 2015, if a driver operating in non-excepted, interstate commerce has no medical certification status information on the CDLIS MVR obtained from the current State driver licensing agency, the employing motor carrier may accept a medical examiner's certificate issued to that driver, and place a copy of it in the driver qualification file before allowing the driver to operate a CMV in interstate commerce.
 
-(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015]
+(Approved by the Office of Management and Budget under control number 2126-0004)[35 FR 6460, Apr. 22, 1970, as amended at 35 FR 17420, Nov. 13, 1970; 69 FR 16720, Mar. 30, 2004; 72 FR 55703, Oct. 1, 2007; 73 FR 73126, Dec. 1, 2008; 75 FR 28502, May 21, 2010; 76 FR 70663, Nov. 15, 2011; 77 FR 24130, Apr. 20, 2012; 79 FR 2379, Jan. 14, 2014; 80 FR 22812, Apr. 23, 2015; 80 FR 35578, June 22, 2015; 80 FR 59074, Oct. 1, 2015; 81 FR 87730, Dec. 5, 2016]

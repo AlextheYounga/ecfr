@@ -1,5 +1,7 @@
 ##### § 1001.1301 Failure to grant immediate access. #####
 
+Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) The OIG may exclude any individual or entity that fails to grant immediate access upon reasonable request to -
 
 (i) The Secretary, a State survey agency or other authorized entity for the purpose of determining, in accordance with section 1864(a) of the Act, whether -

@@ -1,5 +1,7 @@
 ##### § 405.1012 When CMS or its contractors may be a party to a hearing. #####
 
+Link to an amendment published at 82 FR 5111, Jan. 17, 2017.
+
 (a) CMS and/or one or more of its contractors may be a party to an ALJ hearing unless the request for hearing is filed by an unrepresented beneficiary.
 
 (b) CMS and/or the contractor(s) advises the ALJ, appellant, and all other parties identified in the notice of hearing that it intends to participate as a party no later than 10 calendar days after receiving the notice of hearing.

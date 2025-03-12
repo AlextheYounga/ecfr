@@ -1,5 +1,7 @@
 ##### § 1002.3 Disclosure by providers and State Medicaid agencies. #####
 
+Link to an amendment published at 82 FR 4118, Jan. 12, 2017.
+
 (a) *Information that must be disclosed.* Before the Medicaid agency enters into or renews a provider agreement, or at any time upon written request by the Medicaid agency, the provider must disclose to the Medicaid agency the identity of any person described in § 1001.1001(a)(1) of this chapter.
 
 (b) *Notification to Inspector General.* (1) The Medicaid agency must notify the Inspector General of any disclosures made under paragraph (a) of this section within 20 working days from the date it receives the information.

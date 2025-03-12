@@ -1,5 +1,7 @@
 ##### § 438.6 Special contract provisions related to payment. #####
 
+Link to an amendment published at 82 FR 5428, Jan. 18, 2017.
+
 (a) *Definitions.* As used in this part, the following terms have the indicated meanings:
 
 *Base amount* is the starting amount, calculated according to paragraph (d)(2) of this section, available for pass-through payments to hospitals in a given contract year subject to the schedule in paragraph (d)(3) of this section.
@@ -52,7 +54,7 @@
 
 (C) Adopt a maximum fee schedule for network providers that provide a particular service under the contract, so long as the MCO, PIHP, or PAHP retains the ability to reasonably manage risk and has discretion in accomplishing the goals of the contract.
 
-(2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, generally accepted principles and practices, and have written approval prior to implementation. To obtain written approval, a state must demonstrate, in writing, that the arrangement -
+(2) *Process for approval.* (i) All contract arrangements that direct the MCO's, PIHP's or PAHP's expenditures under paragraphs (c)(1)(i) through (iii) of this section must be developed in accordance with § 438.4, the standards specified in § 438.5, generally accepted actuarial principles and practices, and have written approval prior to implementation. To obtain written approval, a state must demonstrate, in writing, that the arrangement -
 
 (A) Is based on the utilization and delivery of services;
 
@@ -109,3 +111,5 @@
 (5) *Pass-through payments to physicians or nursing facilities.* For contracts starting on or after July 1, 2017 through contracts beginning on or after July 1, 2021, the State may require pass-through payments to physicians and nursing facilities under the MCO, PIHP, or PAHP contract. For contracts beginning on or after July 1, 2022, the State cannot require pass-through payments for physicians or nursing facilities under a MCO, PIHP, or PAHP contract.
 
 (e) *Payments to MCOs and PIHPs for enrollees that are a patient in an institution for mental disease.* The State may make a monthly capitation payment to an MCO or PIHP for an enrollee aged 21-64 receiving inpatient treatment in an Institution for Mental Diseases, as defined in § 435.1010 of this chapter, so long as the facility is a hospital providing psychiatric or substance use disorder inpatient care or a sub-acute facility providing psychiatric or substance use disorder crisis residential services, and length of stay in the IMD is for a short term stay of no more than 15 days during the period of the monthly capitation payment. The provision of inpatient psychiatric or substance use disorder treatment in an IMD must meet the requirements for in lieu of services at § 438.3(e)(2)(i) through (iii). For purposes of rate setting, the state may use the utilization of services provided to an enrollee under this section when developing the inpatient psychiatric or substance use disorder component of the capitation rate, but must price utilization at the cost of the same services through providers included under the State plan.
+
+[81 FR 27853, May 6, 2016, as amended at 82 FR 39, Jan. 3, 2017]

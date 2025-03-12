@@ -1,12 +1,10 @@
 ##### § 390.21 Marking of self-propelled CMVs and intermodal equipment. #####
 
-Link to an amendment published at 78 FR 52653, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63712, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
 (a) *General.* Every self-propelled CMV subject to subchapter B of this chapter must be marked as specified in paragraphs (b), (c), and (d) of this section, and each unit of intermodal equipment interchanged or offered for interchange to a motor carrier by an intermodal equipment provider subject to subchapter B of this chapter must be marked as specified in paragraph (g) of this section.
 
 (b) *Nature of marking.* The marking must display the following information:
 
-(1) The legal name or a single trade name of the motor carrier operating the self-propelled CMV, as listed on the motor carrier identification report (Form MCS-150) and submitted in accordance with § 390.19.
+(1) The legal name or a single trade name of the motor carrier operating the self-propelled CMV, as listed on the Form MCSA-1, the URS online application, or the motor carrier identification report (Form MCS-150) and submitted in accordance with § 390.201 or § 390.19, as appropriate.
 
 (2) The identification number issued by FMCSA to the motor carrier or intermodal equipment provider, preceded by the letters “USDOT.”
 
@@ -86,4 +84,4 @@ Link to an amendment published at 78 FR 52653, Aug. 23, 2013.Link to a delay pub
 
 (B) Offer read-only access for inquiries on individual items of intermodal equipment, without requiring advance user registration, a password, or a usage fee.
 
-[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015]
+[65 FR 35296, June 2, 2000, as amended at 73 FR 76821, Dec. 17, 2008; 74 FR 68708, Dec. 29, 2009; 77 FR 59827, Oct. 1, 2012; 78 FR 58482, Sept. 24, 2013; 80 FR 30178, May 27, 2015; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5316, Jan. 17, 2017, § 360.21 was suspended, effective Jan. 14, 2017.

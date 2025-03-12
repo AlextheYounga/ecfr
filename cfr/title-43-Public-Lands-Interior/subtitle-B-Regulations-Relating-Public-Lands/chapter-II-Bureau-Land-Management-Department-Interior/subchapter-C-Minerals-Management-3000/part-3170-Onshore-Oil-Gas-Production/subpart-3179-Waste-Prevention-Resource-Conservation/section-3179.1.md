@@ -1,0 +1,3 @@
+##### § 3179.1 Purpose. #####
+
+The purpose of this subpart is to implement and carry out the purposes of statutes relating to prevention of waste from Federal and Indian (other than Osage Tribe) leases, conservation of surface resources, and management of the public lands for multiple use and sustained yield. This subpart supersedes those portions of Notice to Lessees and Operators of Onshore Federal and Indian Oil and Gas Leases, Royalty or Compensation for Oil and Gas Lost (NTL-4A),, pertaining to, among other things, flaring and venting of produced gas, unavoidably and avoidably lost gas, and waste prevention.

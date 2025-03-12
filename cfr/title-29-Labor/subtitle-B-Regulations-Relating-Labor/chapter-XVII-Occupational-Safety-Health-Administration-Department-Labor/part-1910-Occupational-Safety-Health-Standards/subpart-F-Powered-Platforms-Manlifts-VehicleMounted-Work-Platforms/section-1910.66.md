@@ -1,12 +1,10 @@
 ##### § 1910.66 Powered platforms for building maintenance. #####
 
-Link to an amendment published at 81 FR 82998, Nov. 18, 2016.
-
 (a) *Scope.* This section covers powered platform installations permanently dedicated to interior or exterior building maintenance of a specific structure or group of structures. This section does not apply to suspended scaffolds (swinging scaffolds) used to service buildings on a temporary basis and covered under subpart D of this part, nor to suspended scaffolds used for construction work and covered under subpart L of 29 CFR part 1926. Building maintenance includes, but is not limited to, such tasks as window cleaning, caulking, metal polishing and reglazing.
 
 (b) *Application* - (1) *New installations.* This section applies to all permanent installations completed after July 23, 1990. Major modifications to existing installations completed after that date are also considered new installations under this section.
 
-(2) *Existing installations.* (i) Permanent installations in existence and/or completed before July 23, 1990 shall comply with paragraphs (g), (h), (i), (j) and appendix C of this section.
+(2) *Existing installations.* (i) Permanent installations in existence and/or completed before July 23, 1990 shall comply with paragraphs (g), (h), (i), (j) and appendix C to subpart I of this part.
 
 (ii) In addition, permanent installations completed after August 27, 1971, and in existence and/or completed before July 23, 1990, shall comply with appendix D of this section.
 
@@ -14,7 +12,7 @@ Link to an amendment published at 81 FR 82998, Nov. 18, 2016.
 
 (2) Building owners shall base the information required in paragraph (c)(1) of this section on the results of a field test of the installation before being placed into service and following any major alteration to an existing installation, as required in paragraph (g)(1) of this section. The assurance shall also be based on all other relevant available information, including, but not limited to, test data, equipment specifications and verification by a registered professional engineer.
 
-(3) Building owners of all installations, new and existing, shall inform the employer in writing that the installation has been inspected, tested and maintained in compliance with the requirements of paragraphs (g) and (h) of this section and that all protection anchorages meet the requirements of paragraph (I)(c)(10) of appendix C.
+(3) Building owners of all installations, new and existing, shall inform the employer in writing that the installation has been inspected, tested, and maintained in compliance with the requirements of paragraphs (g) and (h) of this section and that all anchorages meet the requirements of § 1910.140(c)(13).
 
 (4) The employer shall not permit employees to use the installation prior to receiving assurance from the building owner that the installation meets the requirements contained in paragraphs (c)(1) and (c)(3) of this section.
 
@@ -418,15 +416,15 @@ See figure 3 in appendix B of this section for a description of a typical button
 
 (K) Means of access to or egress from a working platform which is 48 inches (1.2 m) or more above a safe surface shall be provided with a guardrail system or ladder handrails that conform to the provisions of subpart D of this part.
 
-(L) The platform shall be provided with a secondary wire rope suspension system if the platform contains overhead structures which restrict the emergency egress of employees. A horizontal lifeline or a direct connection anchorage shall be provided, as part of a fall arrest system which meets the requirements of appendix C, for each employee on such a platform.
+(L) The platform shall be provided with a secondary wire rope suspension system if the platform contains overhead structures which restrict the emergency egress of employees. A horizontal lifeline or a direct connection anchorage shall be provided as part of a personal fall arrest system that meets the requirements of subpart I of this part for each employee on such a platform.
 
-(M) A vertical lifeline shall be provided as part of a fall arrest system which meets the requirements of appendix C, for each employee on a working platform suspended by two or more wire ropes, if the failure of one wire rope or suspension attachment will cause the platform to upset. If a secondary wire rope suspension is used, vertical lifelines are not required for the fall arrest system, provided that each employee is attached to a horizontal lifeline anchored to the platform.
+(M) A vertical lifeline shall be provided as part of a personal fall arrest system that meets the requirements of subpart I of this part for each employee on a working platform suspended by two or more wire ropes, if the failure of one wire rope or suspension attachment will cause the platform to upset. If a secondary wire rope suspension is used, vertical lifelines are not required for the personal fall arrest system, provided that each employee is attached to a horizontal lifeline anchored to the platform.
 
 (N) An emergency electric operating device shall be provided on roof powered platforms near the hoisting machine for use in the event of failure of the normal operating device located on the working platform, or failure of the cable connected to the platform. The emergency electric operating device shall be mounted in a secured compartment, and the compartment shall be labeled with instructions for use. A means for opening the compartment shall be mounted in a break-glass receptable located near the emergency electric operating device or in an equivalent secure and accessible location.
 
 (iii) *Single point suspended working platforms.* (A) The requirements of paragraphs (f)(5)(ii) (A) through (K) of this section shall also apply to a single point working platform.
 
-(B) Each single point suspended working platform shall be provided with a secondary wire rope suspension system, which will prevent the working platform from falling should there be a failure of the primary means of support, or if the platform contains overhead structures which restrict the egress of the employees. A horizontal life line or a direct connection anchorage shall be provided, as part of a fall arrest system which meets the requirements of appendix C, for each employee on the platform.
+(B) Each single point suspended working platform shall be provided with a secondary wire rope suspension system which will prevent the working platform from falling should there be a failure of the primary means of support, or if the platform contains overhead structures which restrict the egress of the employees. A horizontal life line or a direct connection anchorage shall be provided as part of a personal fall arrest system that meets the requirements of subpart I of this part for each employee on the platform.
 
 (iv) *Ground-rigged working platforms.* (A) Groundrigged working platforms shall comply with all the requirements of paragraphs (f)(5)(ii) (A) through (M) of this section.
 
@@ -654,7 +652,7 @@ See figure III in appendix B of this section for a description of a typical butt
 
 (vii) Tools, materials and debris not related to the work in progress shall not be allowed to accumulate on platforms. Stabilizer ties shall be located so as to allow unencumbered passage along the full length of the platform and shall be of such length so as not to become entangled in rollers, hoists or other machinery.
 
-(j) *Personal fall protection.* Employees on working platforms shall be protected by a personal fall arrest system meeting the requirements of appendix C, section I, of this standard, and as otherwise provided by this standard.
+(j) *Personal fall protection.* Employees on working platforms shall be protected by a personal fall arrest system meeting the requirements of subpart I of this part and as otherwise provided by this standard.
 
 Appendix A to § 1910.66, Guidelines (Advisory)
 
@@ -714,259 +712,7 @@ Appendix B to § 1910.66 - Exhibits (Advisory)
 
 The three drawings in appendix B illustrate typical platform stabilization systems which are addressed in the standard. The drawings are to be used for reference purposes only, and do not illustrate all the mandatory requirements for each system.
 
-![](/graphics/ec27oc91.012.gif)![](/graphics/ec27oc91.013.gif)![](/graphics/ec27oc91.014.gif)Appendix C to § 1910.66 - Personal Fall Arrest System (Section I - Mandatory; Sections II and III - Non-Mandatory)Use of the Appendix
-
-Section I of appendix C sets out the mandatory criteria for personal fall arrest systems used by all employees using powered platforms, as required by paragraph (j)(1) of this standard. Section II sets out nonmandatory test procedures which may be used to determine compliance with applicable requirements contained in section I of this appendix. Section III provides nonmandatory guidelines which are intended to assist employers in complying with these provisions.
-
-I. *Personal fall arrest systems* - (a) *Scope and application.* This section establishes the application of and performance criteria for personal fall arrest systems which are required for use by all employees using powered platforms under paragraph 1910.66(j).
-
-(b) *Definitions. Anchorage* means a secure point of attachment for lifelines, lanyards or deceleration devices, and which is independent of the means of supporting or suspending the employee.
-
-*Body belt* means a strap with means both for securing it about the waist and for attaching it to a lanyard, lifeline, or deceleration device.
-
-*Body harness* means a design of straps which may be secured about the employee in a manner to distribute the fall arrest forces over at least the thighs, pelvis, waist, chest and shoulders with means for attaching it to other components of a personal fall arrest system.
-
-*Buckle* means any device for holding the body belt or body harness closed around the employee's body.
-
-*Competent person* means a person who is capable of identifying hazardous or dangerous conditions in the personal fall arrest system or any component thereof, as well as in their application and use with related equipment.
-
-*Connector* means a device which is used to couple (connect) parts of the system together. It may be an independent component of the system (such as a carabiner), or an integral component of part of the system (such as a buckle or dee-ring sewn into a body belt or body harness, or a snap-hook spliced or sewn to a lanyard or self-retracting lanyard).
-
-*Deceleration device* means any mechanism, such as a rope grab, ripstitch lanyard, specially woven lanyard, tearing or deforming lanyard, or automatic self retracting-lifeline/lanyard, which serves to dissipate a substantial amount of energy during a fall arrest, or otherwise limits the energy imposed on an employee during fall arrest.
-
-*Deceleration distance* means the additional vertical distance a falling employee travels, excluding lifeline elongation and free fall distance, before stopping, from the point at which the deceleration device begins to operate. It is measured as the distance between the location of an employee's body belt or body harness attachment point at the moment of activation (at the onset of fall arrest forces) of the deceleration device during a fall, and the location of that attachment point after the employee comes to a full stop.
-
-*Equivalent* means alternative designs, materials or methods which the employer can demonstrate will provide an equal or greater degree of safety for employees than the methods, materials or designs specified in the standard.
-
-*Free fall* means the act of falling before the personal fall arrest system begins to apply force to arrest the fall.
-
-*Free fall distance* means the vertical displacement of the fall arrest attachment point on the employee's body belt or body harness between onset of the fall and just before the system begins to apply force to arrest the fall. This distance excludes deceleration distance, lifeline and lanyard elongation but includes any deceleration device slide distance or self-retracting lifeline/lanyard extension before they operate and fall arrest forces occur.
-
-*Lanyard* means a flexible line of rope, wire rope, or strap which is used to secure the body belt or body harness to a deceleration device, lifeline, or anchorage.
-
-*Lifeline* means a component consisting of a flexible line for connection to an anchorage at one end to hang vertically (vertical lifeline), or for connection to anchorages at both ends to stretch horizontally (horizontal lifeline), and which serves as a means for connecting other components of a personal fall arrest system to the anchorage.
-
-*Personal fall arrest system* means a system used to arrest an employee in a fall from a working level. It consists of an anchorage, connectors, a body belt or body harness and may include a lanyard, deceleration device, lifeline, or suitable combinations of these.
-
-*Qualified person* means one with a recognized degree or professional certificate and extensive knowledge and experience in the subject field who is capable of design, analysis, evaluation and specifications in the subject work, project, or product.
-
-*Rope grab* means a deceleration device which travels on a lifeline and automatically frictionally engages the lifeline and locks so as to arrest the fall of an employee. A rope grab usually employs the principle of inertial locking, cam/lever locking, or both.
-
-*Self-retracting lifeline/lanyard* means a deceleration device which contains a drum-wound line which may be slowly extracted from, or retracted onto, the drum under slight tension during normal employee movement, and which, after onset of a fall, automatically locks the drum and arrests the fall.
-
-*Snap-hook* means a connector comprised of a hookshaped member with a normally closed keeper, or similar arrangement, which may be opened to permit the hook to receive an object and, when released, automatically closes to retain the object. Snap-hooks are generally one of two types:
-
-1. The locking type with a self-closing, self-locking keeper which remains closed and locked until unlocked and pressed open for connection or disconnection, or
-
-2. The non-locking type with a self-closing keeper which remains closed until pressed open for connection or disconnection.
-
-*Tie-off* means the act of an employee, wearing personal fall protection equipment, connecting directly or indirectly to an anchorage. It also means the condition of an employee being connected to an anchorage.
-
-(c) *Design for system components.* (1) Connectors shall be drop forged, pressed or formed steel, or made of equivalent materials.
-
-(2) Connectors shall have a corrosion-resistant finish, and all surfaces and edges shall be smooth to prevent damage to interfacing parts of the system.
-
-(3) Lanyards and vertical lifelines which tie-off one employee shall have a minimum breaking strength of 5,000 pounds (22.2 kN).
-
-(4) Self-retracting lifelines and lanyards which automatically limit free fall distance to two feet (0.61 m) or less shall have components capable of sustaining a minimum static tensile load of 3,000 pounds (13.3 kN) applied to the device with the lifeline or lanyard in the fully extended position.
-
-(5) Self-retracting lifelines and lanyards which do not limit free fall distance to two feet (0.61 m) or less, ripstitch lanyards, and tearing and deforming lanyards shall be capable of sustaining a minimum tensile load of 5,000 pounds (22.2 kN) applied to the device with the lifeline or lanyard in the fully extended position.
-
-(6) Dee-rings and snap-hooks shall be capable of sustaining a minimum tensile load of 5,000 pounds (22.2 kN).
-
-(7) Dee-rings and snap-hooks shall be 100 percent proof-tested to a minimum tensile load of 3,600 pounds (16 kN) without cracking, breaking, or taking permanent deformation.
-
-(8) Snap-hooks shall be sized to be compatible with the member to which they are connected so as to prevent unintentional disengagement of the snap-hook by depression of the snap-hook keeper by the connected member, or shall be a locking type snap-hook designed and used to prevent disengagement of the snap-hook by the contact of the snaphook keeper by the connected member.
-
-(9) Horizontal lifelines, where used, shall be designed, and installed as part of a complete personal fall arrest system, which maintains a safety factor of at least two, under the supervision of a qualified person.
-
-(10) Anchorages to which personal fall arrest equipment is attached shall be capable of supporting at least 5,000 pounds (22.2 kN) per employee attached, or shall be designed, installed, and used as part of a complete personal fall arrest system which maintains a safety factor of at least two, under the supervision of a qualified person.
-
-(11) Ropes and straps (webbing) used in lanyards, lifelines, and strength components of body belts and body harnesses, shall be made from synthetic fibers or wire rope.
-
-(d) *System performance criteria.* (1) Personal fall arrest systems shall, when stopping a fall:
-
-(i) Limit maximum arresting force on an employee to 900 pounds (4 kN) when used with a body belt;
-
-(ii) Limit maximum arresting force on an employee to 1,800 pounds (8 kN) when used with a body harness;
-
-(iii) Bring an employee to a complete stop and limit maximum deceleration distance an employee travels to 3.5 feet (1.07 m); and
-
-(iv) Shall have sufficient strength to withstand twice the potential impact energy of an employee free falling a distance of six feet (1.8 m), or the free fall distance permitted by the system, whichever is less.
-
-(2)(i) When used by employees having a combined person and tool weight of less than 310 pounds (140 kg), personal fall arrest systems which meet the criteria and protocols contained in paragraphs (b), (c) and (d) in section II of this appendix shall be considered as complying with the provisions of paragraphs (d)(1)(i) through (d)(1)(iv) above.
-
-(ii) When used by employees having a combined tool and body weight of 310 pounds (140 kg) or more, personal fall arrest systems which meet the criteria and protocols contained in paragraphs (b), (c) and (d) in section II may be considered as complying with the provisions of paragraphs (d)(1)(i) through (d)(1)(iv) provided that the criteria and protocols are modified appropriately to provide proper protection for such heavier weights.
-
-(e) *Care and use.* (1) Snap-hooks, unless of a locking type designed and used to prevent disengagement from the following connections, shall not be engaged:
-
-(i) Directly to webbing, rope or wire rope;
-
-(ii) To each other;
-
-(iii) To a dee-ring to which another snap-hook or other connector is attached;
-
-(iv) To a horizontal lifeline; or
-
-(v) To any object which is incompatibly shaped or dimensioned in relation to the snap-hook such that the connected object could depress the snap-hook keeper a sufficient amount to release itself.
-
-(2) Devices used to connect to a horizontal lifeline which may become a vertical lifeline shall be capable of locking in either direction on the lifeline.
-
-(3) Personal fall arrest systems shall be rigged such that an employee can neither free fall more than six feet (1.8 m), nor contact any lower level.
-
-(4) The attachment point of the body belt shall be located in the center of the wearer's back. The attachment point of the body harness shall be located in the center of the wearer's back near shoulder level, or above the wearer's head.
-
-(5) When vertical lifelines are used, each employee shall be provided with a separate lifeline.
-
-(6) Personal fall arrest systems or components shall be used only for employee fall protection.
-
-(7) Personal fall arrest systems or components subjected to impact loading shall be immediately removed from service and shall not be used again for employee protection unless inspected and determined by a competent person to be undamaged and suitable for reuse.
-
-(8) The employer shall provide for prompt rescue of employees in the event of a fall or shall assure the self-rescue capability of employees.
-
-(9) Before using a personal fall arrest system, and after any component or system is changed, employees shall be trained in accordance with the requirements of paragraph 1910.66(i)(1), in the safe use of the system.
-
-(f) *Inspections.* Personal fall arrest systems shall be inspected prior to each use for mildew, wear, damage and other deterioration, and defective components shall be removed from service if their strength or function may be adversely affected.
-
-II. *Test methods for personal fall arrest systems (non-mandatory)* - (a) *General.* Paragraphs (b), (c), (d) and (e), of this section II set forth test procedures which may be used to determine compliance with the requirements in paragraph (d)(1)(i) through (d)(1)(iv) of section I of this appendix.
-
-(b) *General conditions for all tests in section II.* (1) Lifelines, lanyards and deceleration devices should be attached to an anchorage and connected to the body-belt or body harness in the same manner as they would be when used to protect employees.
-
-(2) The anchorage should be rigid, and should not have a deflection greater than .04 inches (1 mm) when a force of 2,250 pounds (10 kN) is applied.
-
-(3) The frequency response of the load measuring instrumentation should be 120 Hz.
-
-(4) The test weight used in the strength and force tests should be a rigid, metal, cylindrical or torso-shaped object with a girth of 38 inches plus or minus four inches (96 cm plus or minus 10 cm).
-
-(5) The lanyard or lifeline used to create the free fall distance should be supplied with the system, or in its absence, the least elastic lanyard or lifeline available to be used with the system.
-
-(6) The test weight for each test should be hoisted to the required level and should be quickly released without having any appreciable motion imparted to it.
-
-(7) The system's performance should be evaluated taking into account the range of environmental conditions for which it is designed to be used.
-
-(8) Following the test, the system need not be capable of further operation.
-
-(c) *Strength test.* (1) During the testing of all systems, a test weight of 300 pounds plus or minus five pounds (135 kg plus or minus 2.5 kg) should be used. (See paragraph (b)(4), above.)
-
-(2) The test consists of dropping the test weight once. A new unused system should be used for each test.
-
-(3) For lanyard systems, the lanyard length should be six feet plus or minus two inches (1.83 m plus or minus 5 cm) as measured from the fixed anchorage to the attachment on the body belt or body harness.
-
-(4) For rope-grab-type deceleration systems, the length of the lifeline above the centerline of the grabbing mechanism to the lifeline's anchorage point should not exceed two feet (0.61 m).
-
-(5) For lanyard systems, for systems with deceleration devices which do not automatically limit free fall distance to two feet (0.61 m) or less, and for systems with deceleration devices which have a connection distance in excess of one foot (0.3 m) (measured between the centerline of the lifeline and the attachment point to the body belt or harness), the test weight should be rigged to free fall a distance of 7.5 feet (2.3 m) from a point that is 1.5 feet (46 cm) above the anchorage point, to its hanging location (six feet below the anchorage). The test weight should fall without interference, obstruction, or hitting the floor or ground during the test. In some cases a non-elastic wire lanyard of sufficient length may need to be added to the system (for test purposes) to create the necessary free fall distance.
-
-(6) For deceleration device systems with integral lifelines or lanyards which automatically limit free fall distance to two feet (0.61 m) or less, the test weight should be rigged to free fall a distance of four feet (1.22 m).
-
-(7) Any weight which detaches from the belt or harness should constitute failure for the strength test.
-
-(d) *Force test* - (1) *General.* The test consists of dropping the respective test weight specified in (d)(2)(i) or (d)(3)(i) once. A new, unused system should be used for each test.
-
-(2) *For lanyard systems.* (i) A test weight of 220 pounds plus or minus three pounds (100 kg plus or minus 1.6 kg) should be used. (See paragraph (b)(4), above.)
-
-(ii) Lanyard length should be six feet plus or minus two inches (1.83 m plus or minus 5 cm) as measured from the fixed anchorage to the attachment on the body belt or body harness.
-
-(iii) The test weight should fall free from the anchorage level to its hanging location (a total of six feet (1.83 m) free fall distance) without interference, obstruction, or hitting the floor or ground during the test.
-
-(3) *For all other systems.* (i) A test weight of 220 pounds plus or minus three pounds (100 kg plus or minus 1.6 kg) should be used. (See paragraph (b)(4), above.)
-
-(ii) The free fall distance to be used in the test should be the maximum fall distance physically permitted by the system during normal use conditions, up to a maximum free fall distance for the test weight of six feet (1.83 m), except as follows:
-
-(A) For deceleration systems which have a connection link or lanyard, the test weight should free fall a distance equal to the connection distance (measured between the centerline of the lifeline and the attachment point to the body belt or harness).
-
-(B) For deceleration device systems with integral lifelines or lanyards which automatically limit free fall distance to two feet (0.61 m) or less, the test weight should free fall a distance equal to that permitted by the system in normal use. (For example, to test a system with a self-retracting lifeline or lanyard, the test weight should be supported and the system allowed to retract the lifeline or lanyard as it would in normal use. The test weight would then be released and the force and deceleration distance measured).
-
-(4) A system fails the force test if the recorded maximum arresting force exceeds 1,260 pounds (15.6 kN) when using a body belt, and/or exceeds 2,520 pounds (11.2 kN) when using a body harness.
-
-(5) The maximum elongation and deceleration distance should be recorded during the force test.
-
-(e) *Deceleration device tests* - (1) *General.* The device should be evaluated or tested under the environmental conditions, (such as rain, ice, grease, dirt, type of lifeline, etc.), for which the device is designed.
-
-(2) *Rope-grab-type deceleration devices.* (i) Devices should be moved on a lifeline 1,000 times over the same length of line a distance of not less than one foot (30.5 cm), and the mechanism should lock each time.
-
-(ii) Unless the device is permanently marked to indicate the type(s) of lifeline which must be used, several types (different diameters and different materials), of lifelines should be used to test the device.
-
-(3) *Other self-activatinq-type deceleration devices.* The locking mechanisms of other self-activating-type deceleration devices designed for more than one arrest should lock each of 1,000 times as they would in normal service.
-
-III. *Additional non-mandatory guidelines for personal fall arrest systems.* The following information constitutes additional guidelines for use in complying with requirements for a personal fall arrest system.
-
-(a) *Selection and use considerations.* The kind of personal fall arrest system selected should match the particular work situation, and any possible free fall distance should be kept to a minimum. Consideration should be given to the particular work environment. For example, the presence of acids, dirt, moisture, oil, grease, etc., and their effect on the system, should be evaluated. Hot or cold environments may also have an adverse affect on the system. Wire rope should not be used where an electrical hazard is anticipated. As required by the standard, the employer must plan to have means available to promptly rescue an employee should a fall occur, since the suspended employee may not be able to reach a work level independently.
-
-Where lanyards, connectors, and lifelines are subject to damage by work operations such as welding, chemical cleaning, and sandblasting, the component should be protected, or other securing systems should be used. The employer should fully evaluate the work conditions and environment (including seasonal weather changes) before selecting the appropriate personal fall protection system. Once in use, the system's effectiveness should be monitored. In some cases, a program for cleaning and maintenance of the system may be necessary.
-
-(b) *Testing considerations.* Before purchasing or putting into use a personal fall arrest system, an employer should obtain from the supplier information about the system based on its performance during testing so that the employer can know if the system meets this standard. Testing should be done using recognized test methods. Section II of this appendix C contains test methods recognized for evaluating the performance of fall arrest systems. Not all systems may need to be individually tested; the performance of some systems may be based on data and calculations derived from testing of similar systems, provided that enough information is available to demonstrate similarity of function and design.
-
-(c) *Component compatibility considerations.* Ideally, a personal fall arrest system is designed, tested, and supplied as a complete system. However, it is common practice for lanyards, connectors, lifelines, deceleration devices, body belts and body harnesses to be interchanged since some components wear out before others. The employer and employee should realize that not all components are interchangeable. For instance, a lanyard should not be connected between a body belt (or harness) and a deceleration device of the self-retracting type since this can result in additional free fall for which the system was not designed. Any substitution or change to a personal fall arrest system should be fully evaluated or tested by a competent person to determine that it meets the standard, before the modified system is put in use.
-
-(d) *Employee training considerations.* Thorough employee training in the selection and use of personal fall arrest systems is imperative. As stated in the standard, before the equipment is used, employees must be trained in the safe use of the system. This should include the following: Application limits; proper anchoring and tie-off techniques; estimation of free fall distance, including determination of deceleration distance, and total fall distance to prevent striking a lower level; methods of use; and inspection and storage of the system. Careless or improper use of the equipment can result in serious injury or death. Employers and employees should become familiar with the material in this appendix, as well as manufacturer's recommendations, before a system is used. Of uppermost importance is the reduction in strength caused by certain tie-offs (such as using knots, tying around sharp edges, etc.) and maximum permitted free fall distance. Also, to be stressed are the importance of inspections prior to use, the limitations of the equipment, and unique conditions at the worksite which may be important in determining the type of system to use.
-
-(e) *Instruction considerations.* Employers should obtain comprehensive instructions from the supplier as to the system's proper use and application, including, where applicable:
-
-(1) The force measured during the sample force test;
-
-(2) The maximum elongation measured for lanyards during the force test;
-
-(3) The deceleration distance measured for deceleration devices during the force test;
-
-(4) Caution statements on critical use limitations;
-
-(5) Application limits;
-
-(6) Proper hook-up, anchoring and tie-off techniques, including the proper dee-ring or other attachment point to use on the body belt and harness for fall arrest;
-
-(7) Proper climbing techniques;
-
-(8) Methods of inspection, use, cleaning, and storage; and
-
-(9) Specific lifelines which may be used. This information should be provided to employees during training.
-
-(f) *Inspection considerations.* As stated in the standard (section I, Paragraph (f)), personal fall arrest systems must be regularly inspected. Any component with any significant defect, such as cuts, tears, abrasions, mold, or undue stretching; alterations or additions which might affect its efficiency; damage due to deterioration; contact with fire, acids, or other corrosives; distorted hooks or faulty hook springs; tongues unfitted to the shoulder of buckles; loose or damaged mountings; non-functioning parts; or wearing or internal deterioration in the ropes must be withdrawn from service immediately, and should be tagged or marked as unusable, or destroyed.
-
-(g) *Rescue considerations.* As required by the standard (section I, Paragraph (e)(8)), when personal fall arrest systems are used, the employer must assure that employees can be promptly rescued or can rescue themselves should a fall occur. The availability of rescue personnel, ladders or other rescue equipment should be evaluated. In some situations, equipment which allows employees to rescue themselves after the fall has been arrested may be desirable, such as devices which have descent capability.
-
-(h) *Tie-off considerations.* (1) One of the most important aspects of personal fall protection systems is fully planning the system *before* it is put into use. Probably the most overlooked component is planning for suitable anchorage points. Such planning should ideally be done before the structure or building is constructed so that anchorage points can be incorporated during construction for use later for window cleaning or other building maintenance. If properly planned, these anchorage points may be used *during* construction, as well as afterwards.
-
-(2) Employers and employees should at all times be aware that the strength of a personal fall arrest system is based on its being attached to an anchoring system which does not significantly reduce the strength of the system (such as a properly dimensioned eye-bolt/snap-hook anchorage). Therefore, if a means of attachment is used that will reduce the strength of the system, that component should be replaced by a stronger one, but one that will also maintain the appropriate maximum arrest force characteristics.
-
-(3) Tie-off using a knot in a rope lanyard or lifeline (at any location) can reduce the lifeline or lanyard strength by 50 percent or more. Therefore, a stronger lanyard or lifeline should be used to compensate for the weakening effect of the knot, or the lanyard length should be reduced (or the tie-off location raised) to minimize free fall distance, or the lanyard or lifeline should be replaced by one which has an appropriately incorporated connector to eliminate the need for a knot.
-
-(4) Tie-off of a rope lanyard or lifeline around an “H” or “I” beam or similar support can reduce its strength as much as 70 percent due to the cutting action of the beam edges. Therefore, use should be made of a webbing lanyard or wire core lifeline around the beam; or the lanyard or lifeline should be protected from the edge; or free fall distance should be greatly minimized.
-
-(5) Tie-off where the line passes over or around rough or sharp surfaces reduces strength drastically. Such a tie-off should be avoided or an alternative tie-off rigging should be used. Such alternatives may include use of a snap-hook/dee ring connection, wire rope tie-off, an effective padding of the surfaces, or an abrasion-resistance strap around or over the problem surface.
-
-(6) Horizontal lifelines may, depending on their geometry and angle of sag, be subjected to greater loads than the impact load imposed by an attached component. When the angle of horizontal lifeline sag is less than 30 degrees, the impact force imparted to the lifeline by an attached lanyard is greatly amplified. For example, with a sag angle of 15 degrees, the force amplification is about 2:1 and at 5 degrees sag, it is about 6:1. Depending on the angle of sag, and the line's elasticity, the strength of the horizontal lifeline and the anchorages to which it is attached should be increased a number of times over that of the lanyard. Extreme care should be taken in considering a horizontal lifeline for multiple tie-offs. The reason for this is that in multiple tie-offs to a horizontal lifeline, if one employee falls, the movement of the falling employee and the horizontal lifeline during arrest of the fall may cause other employees to also fall. Horizontal lifeline and anchorage strength should be increased for each additional employee to be tied-off. For these and other reasons, the design of systems using horizontal lifelines must only be done by qualified persons. Testing of installed lifelines and anchors prior to use is recommended.
-
-(7) The strength of an eye-bolt is rated along the axis of the bolt and its strength is greatly reduced if the force is applied at an angle to this axis (in the direction of shear). Also, care should be exercised in selecting the proper diameter of the eye to avoid accidental disengagement of snap-hooks not designed to be compatible for the connection.
-
-(8) Due to the significant reduction in the strength of the lifeline/lanyard (in some cases, as much as a 70 percent reduction), the sliding hitch knot should not be used for lifeline/lanyard connections except in emergency situations where no other available system is practical. The “one-and-one” sliding hitch knot should never be used because it is unreliable in stopping a fall. The “two-and-two,” or “three-and-three” knot (preferable), may be used in emergency situa-tions; however, care should be taken to limit free fall distance to a minimum because of reduced lifeline/lanyard strength.
-
-(i) *Vertical lifeline considerations.* As required by the standard, each employee must have a separate lifeline when the lifeline is vertical. The reason for this is that in multiple tie-offs to a single lifeline, if one employee falls, the movement of the lifeline during the arrest of the fall may pull other employees' lanyards, causing them to fall as well.
-
-(j) *Snap-hook considerations.* Although not required by this standard for all connections, locking snap-hooks designed for connection to suitable objects (of sufficient strength) are highly recommended in lieu of the non-locking type. Locking snap-hooks incorporate a positive locking mechanism in addition to the spring loaded keeper, which will not allow the keeper to open under moderate pressure without someone first releasing the mechanism. Such a feature, properly designed, effectively prevents roll-out from occurring.
-
-As required by the standard (section I, paragraph (e)(1)) the following connections must be avoided (unless properly designed locking snap-hooks are used) because they are conditions which can result in roll-out when a nonlocking snap-hook is used:
-
-• Direct connection of a snap-hook to a horizontal lifeline.
-
-• Two (or more) snap-hooks connected to one dee-ring.
-
-• Two snap-hooks connected to each other.
-
-• A snap-hook connected back on its integral lanyard.
-
-• A snap-hook connected to a webbing loop or webbing lanyard.
-
-• Improper dimensions of the dee-ring, rebar, or other connection point in relation to the snap-hook dimensions which would allow the snap-hook keeper to be depressed by a turning motion of the snap-hook.
-
-(k) *Free fall considerations.* The employer and employee should at all times be aware that a system's maximum arresting force is evaluated under normal use conditions established by the manufacturer, and in no case using a free fall distance in excess of six feet (1.8 m). A few extra feet of free fall can significantly increase the arresting force on the employee, possibly to the point of causing injury. Because of this, the free fall distance should be kept at a minimum, and, as required by the standard, in no case greater than six feet (1.8 m). To help assure this, the tie-off attachment point to the lifeline or anchor should be located at or above the connection point of the fall arrest equipment to belt or harness. (Since otherwise additional free fall distance is added to the length of the connecting means (i.e. lanyard)). Attaching to the working surface will often result in a free fall greater than six feet (1.8 m). For instance, if a six foot (1.8 m) lanyard is used, the total free fall distance will be the distance from the working level to the body belt (or harness) attachment point plus the six feet (1.8 m) of lanyard length. Another important consideration is that the arresting force which the fall system must withstand also goes up with greater distances of free fall, possibly exceeding the strength of the system.
-
-(l) *Elongation and deceleration distance considerations.* Other factors involved in a proper tie-off are elongation and deceleration distance. During the arresting of a fall, a lanyard will experience a length of stretching or elongation, whereas activation of a deceleration device will result in a certain stopping distance. These distances should be available with the lanyard or device's instructions and must be added to the free fall distance to arrive at the total fall distance before an employee is fully stopped. The additional stopping distance may be very significant if the lanyard or deceleration device is attached near or at the end of a long lifeline, which may itself add considerable distance due to its own elongation. As required by the standard, sufficient distance to allow for all of these factors must also be maintained between the employee and obstructions below, to prevent an injury due to impact before the system fully arrests the fall. In addition, a minimum of 12 feet (3.7 m) of lifeline should be allowed below the securing point of a rope grab type deceleration device, and the end terminated to prevent the device from sliding off the lifeline. Alternatively, the lifeline should extend to the ground or the next working level below. These measures are suggested to prevent the worker from inadvertently moving past the end of the lifeline and having the rope grab become disengaged from the lifeline.
-
-(m) *Obstruction considerations.* The location of the tie-off should also consider the hazard of obstructions in the potential fall path of the employee. Tie-offs which minimize the possibilities of exaggerated swinging should be considered. In addition, when a body belt is used, the employee's body will go through a horizontal position to a jack-knifed position during the arrest of all falls. Thus, obstructions which might interfere with this motion should be avoided or a severe injury could occur.
-
-(n) *Other considerations.* Because of the design of some personal fall arrest systems, additional considerations may be required for proper tie-off. For example, heavy deceleration devices of the self-retracting type should be secured overhead in order to avoid the weight of the device having to be supported by the employee. Also, if selfretracting equipment is connected to a horizontal lifeline, the sag in the lifeline should be minimized to prevent the device from sliding down the lifeline to a position which creates a swing hazard during fall arrest. In all cases, manufacturer's instructions should be followed.
-
-Appendix D to § 1910.66 - Existing Installations (Mandatory)Use of the Appendix
+![](/graphics/ec27oc91.012.gif)![](/graphics/ec27oc91.013.gif)![](/graphics/ec27oc91.014.gif)Appendix C to § 1910.66 [Reserved]Appendix D to § 1910.66 - Existing Installations (Mandatory)Use of the Appendix
 
 Appendix D sets out the mandatory building and equipment requirements for applicable permanent installations completed after August 27, 1971, and no later than July 23, 1990 which are exempt from the paragraphs (a), (b)(1), (b)(2), (c), (d), (e), and (f) of this standard. The requirements in appendix D are essentially the same as unrevised building and equipment provisions which previously were designated as 29 CFR 1910.66 (a), (b), (c) and (d) and which were effective on August 27, 1971.
 
@@ -1070,7 +816,7 @@ All existing installations subject to this appendix shall also comply with parag
 
 (iii) If the load on the motors is at any time in excess of three times that required for lifting the working platform with its rated load the motor shall stall.
 
-(4) *Access to the roof car.* Safe access to the roof car and from the roof car to the working platform shall be provided. If the access to the roof car at any point of its travel is not over the roof area or where otherwise necessary for safety, self-closing, self-locking gates shall be provided. Applicable provisions of the American National Standard Safety Requirements for Floor and Wall Openings, Railings and Toeboard, A12.1-1967, shall apply.
+(4) *Access to the roof car.* Safe access to the roof car and from the roof car to the working platform shall be provided. If the access to the roof car at any point of its travel is not over the roof area or where otherwise necessary for safety, then self-closing, self-locking gates shall be provided. Access to and from roof cars must comply with the requirements of subpart D of this part.
 
 (5) *Means for maintenance, repair, and storage.* Means shall be provided to run the roof car away from the roof perimeter, where necessary, and to provide a safe area for maintenance, repairs, and storage. Provisions shall be made to secure the machine in the stored position. For stored machines subject to wind forces, see special design and anchorage requirements for “wind forces” in part II, section 10.5.1.1 of ANSI A120.1-1970 American National Standard Safety Requirements for Powered Platforms for Exterior Building Maintenance.
 
@@ -1256,4 +1002,4 @@ F = S × N/WWhereS = Manufacturer's rated breaking strength of one rope.N = Numb
 
 (7) *Emergency communications.* All the requirements of paragraph (c)(23) of this appendix shall apply to Type T powered platforms.
 
-[54 FR 31456, July 28, 1989, as amended at 61 FR 9235, Mar. 7, 1996; 72 FR 7190, Feb. 14, 2007]
+[54 FR 31456, July 28, 1989, as amended at 61 FR 9235, Mar. 7, 1996; 72 FR 7190, Feb. 14, 2007; 81 FR 82998, Nov. 18, 2016]

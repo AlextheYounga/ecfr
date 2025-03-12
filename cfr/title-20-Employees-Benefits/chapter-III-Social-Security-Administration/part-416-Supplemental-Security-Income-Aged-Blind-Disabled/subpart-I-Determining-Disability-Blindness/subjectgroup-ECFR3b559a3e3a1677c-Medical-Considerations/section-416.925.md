@@ -1,5 +1,7 @@
 ##### § 416.925 Listing of Impairments in appendix 1 of subpart P of part 404 of this chapter. #####
 
+Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
+
 (a) *What is the purpose of the Listing of Impairments?* The Listing of Impairments (the listings) is in appendix 1 of subpart P of part 404 of this chapter. For adults, it describes for each of the major body systems impairments that we consider to be severe enough to prevent an individual from doing any gainful activity, regardless of his or her age, education, or work experience. For children, it describes impairments that cause marked and severe functional limitations.
 
 (b) *How is appendix 1 organized?* There are two parts in appendix 1:

@@ -1,5 +1,7 @@
 ##### § 1001.2 Definitions. #####
 
+Link to an amendment published at 82 FR 4111, Jan. 12, 2017.
+
 *Controlled substance* means a drug or other substance, or immediate precursor:
 
 (a) Included in schedules I, II, III, IV or V of part B of subchapter I in 21 U.S.C. chapter 13, or

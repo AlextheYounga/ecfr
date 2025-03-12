@@ -1,23 +1,27 @@
-##### § 210.12-13 Investments other than securities. #####
-
-Link to an amendment published at 81 FR 82016, November 18, 2016.
+##### § 210.12-13 Open option contracts written. #####
 
 [For management investment companies only]
 
-|        Col. A         |                          Col. B                          |                       Col. C                        |
-|-----------------------|----------------------------------------------------------|-----------------------------------------------------|
-|Description<sup>1</sup>|Balance held at close of period - quantity<sup>2 3 5</sup>|Value of each item at close of period<sup>4 6 7</sup>|
+|     Col. A      |         Col. B         |            Col. C             |    Col. D     |    Col. E    |    Col. F     |  Col. G   |
+|-----------------|------------------------|-------------------------------|---------------|--------------|---------------|-----------|
+|Description 1 2 3|Counterparty<sup>4</sup>|Number of contracts<sup>5</sup>|Notional amount|Exercise price|Expiration date|Value.6 7 8|
 
-<sup>1</sup> List each major category of investments by descriptive title.
+<sup>1</sup> Information as to put options shall be shown separately from information as to call options.
 
-<sup>2</sup> If practicable, indicate the quantity or measure in appropriate units.
+<sup>2</sup> Options where descriptions, counterparties, exercise prices or expiration dates differ shall be listed separately.
 
-<sup>3</sup> Indicate by an appropriate symbol each investment which is non-income producing.
+<sup>3</sup> Options on underlying investments where the underlying investment would otherwise be presented in accordance with §§ 210.12-12, 12-13A, 12-13B, 12-13C, or 12-13D should include the description of the underlying investment as would be required by §§ 210.12-12, 12-13A, 12-13B, 12-13C, or 12-13D as part of the description of the option.
 
-<sup>4</sup> Indicate by an appropriate symbol each investment not readily marketable. The term “investment not readily marketable” shall include investments for which there is no independent publicly quoted market and investments which cannot be sold because of restrictions or conditions applicable to the investment or the company.
+If the underlying investment is an index or basket of investments, and the components are publicly available on a Web site as of the balance sheet date, identify the index or basket. If the underlying investment is an index or basket of investments, the components are not publicly available on a Web site as of the balance sheet date, and the notional amount of the option contract does not exceed one percent of the net asset value of the registrant as of the close of the period, identify the index or basket. If the underlying investment is an index or basket of investments, the components are not publicly available on a Web site as of the balance sheet date, and the notional amount of the option contract exceeds one percent of the net asset value of the registrant as of the close of the period, provide a description of the index or custom basket and list separately: (i) The 50 largest components in the index or custom basket and (ii) any other components where the notional value for that components exceeds 1% of the notional value of the index or custom basket. For each investment separately listed, include the description of the underlying investment as would be required by §§ 210.12-12, 12-13, 12-13A, 12-13B, or 12-13D as part of the description, the quantity held (e.g. the number of shares for common stocks, principal amount for fixed income securities), the value at the close of the period, and the percentage value when compared to the custom basket's net assets.
 
-<sup>5</sup> Indicate by an appropriate symbol each investment subject to option. State in a footnote: (a) The quantity subject to option, (b) nature of option contract, (c) option price, and (d) dates within which options may be exercised.
+<sup>4</sup> Not required for exchange traded or centrally cleared options.
 
-<sup>6</sup> Column C shall be totaled and shall agree with the correlative amount shown on the related balance sheet.
+<sup>5</sup> If the number of shares subject to option is substituted for number of contracts, the column name shall reflect that change.
 
-<sup>7</sup> State in a footnote the following amounts based on cost for Federal income tax purposes: (a) Aggregate gross unrealized appreciation for all investments in which there is an excess of value over tax cost, (b) the aggregate gross unrealized depreciation for all investments in which there is an excess of tax cost over value, (c) the net unrealized appreciation or depreciation, and (d) the aggregate cost of investments for Federal income tax purposes.
+<sup>6</sup> Indicate by an appropriate symbol each investment which cannot be sold because of restrictions or conditions applicable to the investment.
+
+<sup>7</sup> Indicate by an appropriate symbol each investment whose value was determined using significant unobservable inputs.
+
+<sup>8</sup> Column G shall be totaled and shall agree with the correlative amount shown on the related balance sheet.
+
+[81 FR 82016, Nov. 18, 2016]

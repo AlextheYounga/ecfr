@@ -1,5 +1,7 @@
 ##### § 1001.601 Exclusion or suspension under a Federal or State health care program. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) The OIG may exclude an individual or entity suspended or excluded from participation, or otherwise sanctioned, under -
 
 (i) Any Federal program involving the provision of health care, or

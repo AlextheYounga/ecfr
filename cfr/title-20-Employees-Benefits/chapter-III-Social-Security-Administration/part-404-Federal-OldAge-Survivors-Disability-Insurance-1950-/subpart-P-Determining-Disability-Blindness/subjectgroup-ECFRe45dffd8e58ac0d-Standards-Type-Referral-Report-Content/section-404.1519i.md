@@ -1,5 +1,7 @@
 ##### § 404.1519i Other sources for consultative examinations. #####
 
+Link to an amendment published at 82 FR 5866, Jan. 18, 2017.
+
 We will use a medical source other than your treating source for a purchased examination or test in situations including, but not limited to, the following situations:
 
 (a) Your treating source prefers not to perform such an examination or does not have the equipment to provide the specific data needed;

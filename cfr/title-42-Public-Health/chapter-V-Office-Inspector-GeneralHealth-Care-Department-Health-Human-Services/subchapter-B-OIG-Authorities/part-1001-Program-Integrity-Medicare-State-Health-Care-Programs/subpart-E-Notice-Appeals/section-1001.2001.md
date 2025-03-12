@@ -1,5 +1,7 @@
 ##### § 1001.2001 Notice of intent to exclude. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) Except as provided in paragraph (c) of this section, if the OIG proposes to exclude an individual or entity in accordance with subpart C of this part, or in accordance with subpart B of this part where the exclusion is for a period exceeding 5 years, it will send written notice of its intent, the basis for the proposed exclusion and the potential effect of an exclusion. Within 30 days of receipt of notice, which will be deemed to be 5 days after the date on the notice, the individual or entity may submit documentary evidence and written argument concerning whether the exclusion is warranted and any related issues.
 
 (b) If the OIG proposes to exclude an individual or entity under the provisions of § 1001.701 or § 1001.801 of this part, in conjunction with the submission of documentary evidence and written argument, an individual or entity may request an opportunity to present oral argument to an OIG official.

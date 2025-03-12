@@ -1,5 +1,7 @@
 ##### § 422.626 Fast-track appeals of service terminations to independent review entities (IREs). #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Enrollee's right to a fast-track appeal of an MA organization's termination decision.* An enrollee of an MA organization has a right to a fast-track appeal of an MA organization's decision to terminate provider services.
 
 (1) An enrollee who desires a fast-track appeal must submit a request for an appeal to an IRE under contract with CMS, in writing or by telephone, by noon of the first day after the day of delivery of the termination notice. If, due to an emergency, the IRE is closed and unable to accept the enrollee's request for a fast-track appeal, the enrollee must file a request by noon of the next day that the IRE is open for business.

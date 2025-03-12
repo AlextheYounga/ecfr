@@ -1,5 +1,5 @@
 ##### § 365.119 Opposed applications. #####
 
-Link to an amendment published at 78 FR 52647, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63705, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
+If the application is opposed, opposing parties are required to send a copy of their protest to the applicant and to FMCSA. All protests must include statements made under oath (verified statements). There are no personal appearances or formal hearings.
 
-If the application is opposed, opposing parties are required to send a copy of their protest to the applicant.
+[80 FR 63705, Oct. 21, 2015]Effective Date Note:At 82 FR 5300, Jan. 17, 2017, § 365.119 was suspended, effective Jan. 14, 2017.

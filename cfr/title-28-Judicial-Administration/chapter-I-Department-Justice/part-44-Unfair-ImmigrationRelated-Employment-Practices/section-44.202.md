@@ -1,0 +1,3 @@
+##### § 44.202 Counting employees for jurisdictional purposes. #####
+
+The Special Counsel will calculate the number of employees referred to in § 44.200(b)(1)(i) by counting all part-time and full-time employees employed on the date that the alleged discrimination occurred. The Special Counsel will use the 20 calendar week requirement contained in Title VII of the Civil Rights Act of 1964, 42 U.S.C. 2000e(b), for purposes of determining whether the exception of § 44.200(b)(1)(ii) applies, and will refer to the Equal Employment Opportunity Commission charges of national origin discrimination that the Special Counsel determines are covered by 42 U.S.C. 2000e-2.

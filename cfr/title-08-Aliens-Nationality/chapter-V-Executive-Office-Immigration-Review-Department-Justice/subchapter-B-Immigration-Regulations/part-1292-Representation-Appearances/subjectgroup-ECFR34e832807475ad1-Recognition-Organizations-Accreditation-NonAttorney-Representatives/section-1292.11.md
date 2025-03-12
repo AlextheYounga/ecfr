@@ -1,0 +1,25 @@
+##### § 1292.11 Recognition of an organization. #####
+
+(a) *In general.* The OLAP Director, in the exercise of discretion, may recognize an eligible organization to provide representation through accredited representatives who appear on behalf of clients before the Immigration Courts, the Board, and DHS, or DHS alone. The OLAP Director will determine whether an organization is eligible for recognition. To be eligible for recognition, the organization must establish that:
+
+(1) The organization is a non-profit religious, charitable, social service, or similar organization that provides immigration legal services primarily to low-income and indigent clients within the United States, and, if the organization charges fees, has a written policy for accommodating clients unable to pay fees for immigration legal services;
+
+(2) The organization is a Federal tax-exempt organization established in the United States;
+
+(3) The organization is simultaneously applying to have at least one employee or volunteer of the organization approved as an accredited representative by the OLAP Director and at least one application for accreditation is concurrently approved, unless the organization is seeking renewal of recognition and has an accredited representative or is seeking renewal of recognition on inactive status as described in § 1292.16(i);
+
+(4) The organization has access to adequate knowledge, information, and experience in all aspects of immigration law and procedure; and
+
+(5) The organization has designated an authorized officer to act on behalf of the organization.
+
+(b) *Proof of status as non-profit religious, charitable, social service, or similar organization established in the United States and service to low-income and indigent clients.* The organization must submit: A copy of its organizing documents, including a statement of its mission or purpose; a declaration from its authorized officer attesting that it serves primarily low-income and indigent clients; a summary of the legal services to be provided; if it charges fees for legal services, fee schedules and organizational policies or guidance regarding fee waivers or reduced fees based on financial need; and its annual budget. The organization may also submit additional documentation to demonstrate non-profit status and service to primarily low-income and indigent individuals, such as reports prepared for funders or information about other free or low-cost immigration-related services that it provides (*e.g.,* educational or outreach events).
+
+(c) *Annual budget.* The organization must submit its annual budget for providing immigration legal services for the current year and, if available, its annual budget for providing immigration legal services for the prior year. If the annual budgets for both the current and prior years are unavailable, the organization must submit its projected annual budget for the upcoming year. The annual budget should describe how the organization is funded and include information about the organization's operating expenses and sources of revenue for providing immigration legal services. Sources of revenue may include, but are not limited to, grants, fees, donations, or dues.
+
+(d) *Proof of tax-exempt status.* The organization must submit a copy of its currently valid IRS tax-exemption determination letter, alternative documentation to establish Federal tax-exempt status, or proof that is has applied for Federal tax-exempt status.
+
+(e) *Proof of knowledge, information, and experience.* The organization must submit: A description of the immigration legal services that the organization seeks to offer; a description of the legal resources to which the organization has access; an organizational chart showing names, titles, and supervisors of immigration legal staff members; a description of the qualifications, experience, and breadth of immigration knowledge of these staff members, including, but not limited to resumes, letters of recommendation, certifications, and a list of all relevant, formal immigration-related trainings attended by staff members; and any agreement or proof of a formal arrangement entered into with non-staff immigration practitioners and recognized organizations for consultations or technical legal assistance.
+
+(f) *Validity period of recognition.* Recognition is valid for a period of six years from the date of the OLAP Director's approval of recognition, unless the organization has been granted conditional recognition. Conditional recognition is granted to an organization that has not been recognized previously, that has Federal tax-exempt status pending, or that has been approved for recognition after recognition was previously terminated pursuant to § 1292.17 or 8 CFR 1003.101 *et seq.* Conditional recognition is valid for two years from the date of the OLAP Director's approval of conditional recognition. Any organization's recognition is subject to being terminated pursuant to § 1292.17 or upon the issuance of disciplinary sanctions (termination or revocation) under 8 CFR 1003.101 *et seq.*
+
+[81 FR 92367, Dec. 19, 2016]

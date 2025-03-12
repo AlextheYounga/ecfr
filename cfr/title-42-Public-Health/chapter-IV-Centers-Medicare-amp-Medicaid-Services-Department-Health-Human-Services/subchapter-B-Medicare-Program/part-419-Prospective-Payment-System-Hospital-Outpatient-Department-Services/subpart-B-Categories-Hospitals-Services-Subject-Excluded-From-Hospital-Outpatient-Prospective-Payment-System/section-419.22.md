@@ -46,6 +46,6 @@ The following services are not paid for under the hospital outpatient prospectiv
 
 (u) Outpatient diabetes self-management training.
 
-(v) Effective January 1, 2017, for cost reporting periods beginning on or after January 1, 2017, items and services that do not meet the definition of excepted items and services under § 419.48(a).
+(v) Effective January 1, 2017, items and services that do not meet the definition of excepted items and services under § 419.48(a).
 
-[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 69 FR 65863, Nov. 15, 2004; 75 FR 72265, Nov. 24, 2010; 78 FR 50969, Aug. 19, 2013; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016]
+[65 FR 18542, Apr. 7, 2000, as amended at 66 FR 59922, Nov. 30, 2001; 69 FR 65863, Nov. 15, 2004; 75 FR 72265, Nov. 24, 2010; 78 FR 50969, Aug. 19, 2013; 78 FR 75196, Dec. 10, 2013; 79 FR 67031, Nov. 10, 2014; 81 FR 79879, Nov. 14, 2016; 82 FR 35, Jan. 3, 2017]

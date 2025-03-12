@@ -1,11 +1,7 @@
-##### § 88.11 Appeals regarding eligibility determinations - responders and survivors. #####
+##### § 88.11 Initial health evaluation for screening-eligible survivors. #####
 
-(a) An individual or his or her designated representative may appeal a denial of enrollment as a WTC responder or a denial of a determination of status as a screening-eligible survivor by sending a written letter to the WTC Program Administrator at the address specified in the notice of denial.
+(a) A CCE or an NPN-affiliated physician will provide the screening-eligible survivor an initial health evaluation to determine if the individual has a WTC-related health condition.
 
-(1) The letter shall be sent within 60 days of the date of the WTC Program Administrator's notification letter, and shall state the reasons why the individual believes the denial was incorrect and may include relevant new evidence not previously considered by the WTC Program Administrator.
+(b) The WTC Health Program will provide only one initial health evaluation per screening-eligible survivor. The individual may request additional health evaluations at his or her own expense.
 
-(2) Where the denial is based on information from the terrorist watch list, the appeal will be forwarded to the appropriate Federal agency.
-
-(b) The WTC Program Administrator will designate a Federal official independent of the WTC Health Program to review the appeal. The Federal official will issue a final decision after receipt and review.
-
-(c) The WTC Program Administrator may reopen and reconsider a denial at any time.
+(c) If the physician determines that the screening-eligible survivor has a WTC-related health condition, the physician will promptly transmit to the WTC Health Program his or her determination, consistent with the requirements of § 88.17(a).

@@ -1,0 +1,3 @@
+##### § 1003.900 Basis for civil money penalties. #####
+
+The OIG may impose a penalty against any person who it determines in accordance with this part is involved in the possession or use in the United States, receipt from outside the United States or transfer within the United States, of select agents and toxins in violation of sections 351A(b) or (c) of the Public Health Service Act or 42 CFR part 73.

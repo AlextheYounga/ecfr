@@ -1,5 +1,7 @@
 ##### § 405.910 Appointed representatives. #####
 
+Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
+
 (a) *Scope of representation.* An appointed representative may act on behalf of an individual or entity in exercising his or her right to an initial determination or appeal. Appointed representatives do not have party status and may take action only on behalf of the individual or entity that they represent.
 
 (b) *Persons not qualified.* A party may not name as an appointed representative, an individual who is disqualified, suspended, or otherwise prohibited by law from acting as a representative in any proceedings before DHHS, or in entitlement appeals, before SSA.

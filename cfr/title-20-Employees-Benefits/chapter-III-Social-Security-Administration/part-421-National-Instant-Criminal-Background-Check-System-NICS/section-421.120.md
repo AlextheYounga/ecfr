@@ -1,0 +1,3 @@
+##### § 421.120 NICS reporting requirements. #####
+
+On not less than a quarterly calendar basis, we will provide information about any individual who meets the criteria in § 421.110 to the Attorney General, or his or her designate, for inclusion in the NICS. The information we will report includes the name of the individual, his or her full date of birth, his or her sex, and his or her Social Security number. We will also report any other information that the Attorney General determines Federal agencies should report to the NICS.

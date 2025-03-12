@@ -1,5 +1,7 @@
 ##### § 423.562 General provisions. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Responsibilities of the Part D plan sponsor.* A Part D plan sponsor must meet all of the following requirements.
 
 (1) A Part D plan sponsor, for each Part D plan that it offers, must establish and maintain -

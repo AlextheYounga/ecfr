@@ -1,5 +1,7 @@
 ##### § 405.1046 Notice of an ALJ decision. #####
 
+Link to an amendment published at 82 FR 5119, Jan. 17, 2017.
+
 (a) *General rule.* Unless the ALJ dismisses the hearing, the ALJ will issue a written decision that gives the findings of fact, conclusions of law, and the reasons for the decision. The decision must be based on evidence offered at the hearing or otherwise admitted into the record. The ALJ mails a copy of the decision to all the parties at their last known address, to the QIC that issued the reconsideration determination, and to the contractor that issued the initial determination. For overpayment cases involving multiple beneficiaries, where there is no beneficiary liability, the ALJ may choose to send written notice only to the appellant. In the event a payment will be made to a provider or supplier in conjunction with this ALJ decision, the contractor must also issue a revised electronic or paper remittance advice to that provider or supplier.
 
 (b) *Content of the notice.* The decision must be written in a manner calculated to be understood by a beneficiary and must include -

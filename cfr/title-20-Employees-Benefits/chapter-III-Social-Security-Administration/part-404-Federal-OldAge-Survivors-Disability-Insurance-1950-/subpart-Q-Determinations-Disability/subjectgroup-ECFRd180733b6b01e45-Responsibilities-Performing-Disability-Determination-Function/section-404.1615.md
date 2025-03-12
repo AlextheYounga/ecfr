@@ -1,5 +1,7 @@
 ##### § 404.1615 Making disability determinations. #####
 
+Link to an amendment published at 82 FR 5872, Jan. 18, 2017.
+
 (a) When making a disability determination, the State agency will apply subpart P, part 404, of our regulations.
 
 (b) The State agency will make disability determinations based only on the medical and nonmedical evidence in its files.

@@ -1,0 +1,3 @@
+##### § 1.710 How will FDA notify the public about the fee schedule? #####
+
+FDA will notify the public of the fee schedule annually. The fee notice will be made publicly available prior to the beginning of the fiscal year for which the fees apply, except for the first fiscal year in which this regulation is effective. Each new fee schedule will be adjusted for inflation and improvements in the estimates of the cost to FDA of performing relevant work for the upcoming year.

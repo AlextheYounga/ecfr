@@ -4,7 +4,7 @@
 
 (b) *General rule.* Except as provided in paragraph (c) of this section, for purposes of the ownership percentage determination required by section 7874(a)(2)(B)(ii), stock held by one or more members of the EAG is not included in either the numerator or the denominator of the fraction that determines such percentage (ownership fraction).
 
-(c) *Exceptions to general rule* - (1) *Overview.* Stock held by one or more members of the EAG shall be included in the denominator, but not in the numerator, of the ownership fraction, if the acquisition qualifies as an *internal group restructuring* or results in a *loss of control*, as described in paragraph (c)(2) and (c)(3) of this section. For rules addressing the interaction of this section and § 1.7874-4T, see § 1.7874-4T(h).
+(c) *Exceptions to general rule* - (1) *Overview.* Stock held by one or more members of the EAG shall be included in the denominator, but not in the numerator, of the ownership fraction, if the acquisition qualifies as an *internal group restructuring* or results in a *loss of control*, as described in paragraph (c)(2) and (c)(3) of this section. For rules addressing the interaction of this section and § 1.7874-4, see § 1.7874-4(h).
 
 (2) *Internal group restructuring.* For purposes of paragraph (c)(1) of this section, an acquisition qualifies as an internal group restructuring if:
 
@@ -64,4 +64,4 @@ Example 8. Internal group restructuring; partnership.(i) *Facts.* LLC, a Delawar
 
 (2) [Reserved] For further guidance, see § 1.7874-1T(h)(2).
 
-[T.D. 9399, 73 FR 29057, May 20, 2008, as amended by T.D. 9453, 74 FR 27926, June 12, 2009; T.D. 9591, 77 FR 34791, June 12, 2012; T.D. 9654, 79 FR 3100, Jan. 17, 2014; T.D. 9761, 81 FR 20894, Apr. 8, 2016]
+[T.D. 9399, 73 FR 29057, May 20, 2008, as amended by T.D. 9453, 74 FR 27926, June 12, 2009; T.D. 9591, 77 FR 34791, June 12, 2012; T.D. 9654, 79 FR 3100, Jan. 17, 2014; T.D. 9761, 81 FR 20894, Apr. 8, 2016; T.D. 9812, 82 FR 5401, Jan. 18, 2017]

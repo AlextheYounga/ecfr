@@ -1,0 +1,23 @@
+##### § 88.24 Coordination of benefits and recoupment. #####
+
+The WTC Health Program will attempt to recover the cost of payment for treatment, including pharmacy benefits, for a WTC Health Program member's certified WTC-related health condition or health condition medically associated with a WTC-related health condition by coordinating benefits with any workers' compensation insurance available2 for members' work-related health conditions, and with any public or private health insurance available3 for members' non-work-related health conditions.
+
+2 As described in PHS Act, sec. 3331(b). To the extent that payment for treatment of the member's work-related condition has been made, or can reasonably be expected to be made, under any other work-related injury or illness benefit plan of the member's employer, the WTC Health Program will also attempt to recover the costs associated with treatment, including pharmacy benefits, for the member's certified WTC-related health condition or health condition medically associated with a WTC-related health condition. *See* PHS Act, sec. 3331(b)(1). For purposes of this regulation, “workers' compensation law or plan” or “workers' compensation insurance” includes any other work-related injury or illness benefit plan of the WTC Health Program member's employer.
+
+3 As described in PHS Act, sec. 3331(c).
+
+(a) Where a WTC Health Program member's WTC-related health condition or health condition medically associated with a WTC-related health condition is eligible for workers' compensation or another illness or injury benefit plan to which New York City is obligated to pay, the WTC Health Program is the primary payer.
+
+(b) Where a WTC Health Program member has filed a workers' compensation claim for a WTC-related health condition or health condition medically associated with a WTC-related health condition and the claim is pending, the WTC Health Program is the primary payer; however, if the claim is ultimately accepted by the workers' compensation board, the workers' compensation insurer in question is responsible for reimbursing the WTC Health Program for any treatment provided and/or paid for during the pendency of the claim.
+
+(c) Where a WTC Health Program member has filed a workers' compensation claim for a WTC-related health condition or health condition medically associated with a WTC-related health condition, but a final decision is issued denying the compensation for the claim, the WTC Health Program is the primary payer.
+
+(d) Where a WTC Health Program member has filed a workers' compensation claim for a WTC-related health condition or health condition medically associated with a WTC-related health condition with a workers' compensation plan to which New York City is not obligated to pay, the workers' compensation insurer is the primary payer. The WTC Health Program is the secondary payer.
+
+(1) If a WTC Health Program member settles a workers' compensation claim by entering into a settlement agreement that releases the employer or insurance carrier from paying for future medical care, the settlement must protect the interests of the WTC Health Program. This may include setting aside adequate funds to pay for future medical expenses, as required by the WTC Health Program, which would otherwise have been paid by workers' compensation. In such situations, the WTC Health Program may require reimbursement for treatment services of a WTC-related health condition or health condition medically associated with a WTC-related health condition directly from the member.
+
+(2) The WTC Health Program will pay providers for treatment in accordance with § 88.22(b); to the extent that the workers' compensation insurance pays for treatment at a lower rate, the WTC Health Program will recoup treatment costs at the workers' compensation insurance rate.
+
+(e) Where a WTC Health Program member's WTC-related health condition or health condition medically associated with a WTC-related health condition is not work-related, the WTC Health Program member's public or private health insurance plan is the primary payer. The WTC Health Program will pay costs not reimbursed by the public or private health insurance plan due to the application of deductibles, co-payments, co-insurance, other cost sharing arrangements, or payment caps up to and in accordance with the rates described in § 88.22(b).
+
+(f) Any coordination of benefits or recoupment situation not described in paragraphs (a) through (e) of this section will be handled pursuant to WTC Health Program policies and procedures, as found on the WTC Health Program Web site.

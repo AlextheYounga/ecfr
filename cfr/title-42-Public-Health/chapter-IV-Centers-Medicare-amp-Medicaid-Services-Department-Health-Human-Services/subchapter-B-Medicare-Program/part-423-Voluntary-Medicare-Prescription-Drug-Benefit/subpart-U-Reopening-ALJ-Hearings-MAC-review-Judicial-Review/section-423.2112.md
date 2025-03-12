@@ -1,5 +1,7 @@
 ##### § 423.2112 Content of request for review. #####
 
+Link to an amendment published at 82 FR 5138, Jan. 17, 2017.
+
 (a)(1) The request for MAC review must be filed with the entity specified in the notice of the ALJ's action.
 
 (2) The request for review must be in writing and may be made on a standard form, except for requests for expedited reviews which may be made orally.

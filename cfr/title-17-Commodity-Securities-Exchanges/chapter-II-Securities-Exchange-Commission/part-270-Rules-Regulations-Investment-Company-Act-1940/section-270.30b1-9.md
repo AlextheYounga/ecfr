@@ -1,3 +1,5 @@
-##### § 270.30b1-9 xxx #####
+##### § 270.30b1-9 Monthly report. #####
 
-Link to an amendment published at 81 FR 82021, Nov. 18, 2016.
+Each registered management investment company or exchange-traded fund organized as a unit investment trust, or series thereof, other than a registered open-end management investment company that is regulated as a money market fund under § 270.2a-7 or a small business investment company registered on Form N-5 (§§ 239.24 and 274.5 of this chapter), must file a monthly report of portfolio holdings on Form N-PORT (§ 274.150 of this chapter), current as of the last business day, or last calendar day, of the month. A registered investment company that has filed a registration statement with the Commission registering its securities for the first time under the Securities Act of 1933 is relieved of this reporting obligation with respect to any reporting period or portion thereof prior to the date on which that registration statement becomes effective or is withdrawn. Reports on Form N-PORT must be filed with the Commission no later than 30 days after the end of each month.
+
+[81 FR 82021, Nov. 18, 2016]

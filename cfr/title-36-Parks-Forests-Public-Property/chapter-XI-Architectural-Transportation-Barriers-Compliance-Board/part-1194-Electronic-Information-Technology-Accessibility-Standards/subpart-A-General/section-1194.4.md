@@ -1,5 +1,7 @@
 ##### § 1194.4 Definitions. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 The following definitions apply to this part:
 
 *Agency.* Any Federal department or agency, including the United States Postal Service.

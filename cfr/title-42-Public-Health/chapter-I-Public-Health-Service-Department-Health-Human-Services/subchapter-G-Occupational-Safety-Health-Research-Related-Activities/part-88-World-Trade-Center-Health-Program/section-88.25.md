@@ -1,0 +1,3 @@
+##### § 88.25 Reopening of WTC Health Program final decisions. #####
+
+At any time, and without regard to whether new evidence or information is provided or obtained, the Administrator of the WTC Health Program may reopen any final decision made by the WTC Health Program pursuant to the provisions of this part. The Administrator may affirm, vacate, or modify such decision, or take any other action he or she deems appropriate.

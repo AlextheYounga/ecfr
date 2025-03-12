@@ -1,5 +1,7 @@
 ##### § 510.300 Determination of episode target prices. #####
 
+Link to an amendment published at 82 FR 613, Jan. 3, 2017.
+
 (a) *General.* CMS establishes episode target prices for participant hospitals for each performance year of the model as specified in this section. Episode target prices are established according to the following:
 
 (1) MS-DRG assigned at discharge for anchor hospitalization and presence of hip fracture diagnosis for anchor hospitalization -

@@ -8,9 +8,9 @@
 
 (d) *De minimis exception to the general rule.* Paragraph (b) of this section does not apply if -
 
-(1) The ownership percentage described in section 7874(a)(2)(B)(ii), determined without regard to the application of paragraph (b) of this section and §§ 1.7874-4T(b) and 1.7874-7T(b), is less than five (by vote and value); and
+(1) The ownership percentage described in section 7874(a)(2)(B)(ii), determined without regard to the application of paragraph (b) of this section and §§ 1.7874-4(b) and 1.7874-7T(b), is less than five (by vote and value); and
 
-(2) On the completion date, former domestic entity shareholders or former domestic entity partners, as applicable, in the aggregate, own (applying the attribution rules of section 318(a) with the modifications described in section 304(c)(3)(B)) less than five percent (by vote and value) of the stock of (or a partnership interest in) each member of the expanded affiliated group.
+(2) After the domestic entity acquisition and all related transactions, each former domestic entity shareholder or former domestic entity partner, as applicable, owns (applying the attribution rules of section 318(a) with the modifications described in section 304(c)(3)(B)) less than five percent (by vote and value) of the stock of (or a partnership interest in) each member of the expanded affiliated group.
 
 (e) *Treatment of distributions made by a predecessor.* For purposes of this section, a corporation or a partnership (relevant entity), including a domestic entity, is treated as making the following distributions made by a predecessor with respect to the relevant entity:
 
@@ -44,7 +44,7 @@
 
 (A) The principles of section 7874(c)(2)(A) and §§ 1.7874-1 and 1.7874-6T do not apply; and
 
-(B) The principles of §§ 1.7874-4T and 1.7874-7T through 1.7874-9T do not apply.
+(B) The principles of §§ 1.7874-4 and 1.7874-7T through 1.7874-9T do not apply.
 
 (g) *Rule regarding direction of a section 355 distribution.* For purposes of this section, if a domestic corporation (distributing corporation) distributes the stock of another domestic corporation (controlled corporation) pursuant to a transaction described in section 355, and, immediately before the distribution, the fair market value of the stock of the controlled corporation represents more than 50 percent of the fair market value of the stock of the distributing corporation, then, the controlled corporation is deemed, on the date of the distribution, to have distributed the stock of the distributing corporation. The deemed distribution is equal to the fair market value of the stock of the distributing corporation (but not taking into account the fair market value of the stock of the controlled corporation) on the date of the distribution.
 
@@ -104,8 +104,8 @@
 
 (ii) If the look-back year has no distribution history period, zero.
 
-(i) *Applicability date.* Except as otherwise provided in this paragraph (i), this section applies to domestic entity acquisitions completed on or after September 22, 2014. Paragraph (d) of this section applies to domestic entity acquisitions completed on or after November 19, 2015. Paragraph (g) of this section applies to domestic entity acquisitions completed on or after April 4, 2016. For domestic entity acquisitions completed on or after September 22, 2014, and before November 19, 2015, however, taxpayers may elect to apply paragraph (d) of this section. In addition, for domestic entity acquisitions completed on or after September 22, 2014, and before April 4, 2016, taxpayers may elect to determine NOCDs consistently on the basis of taxable years, in lieu of 12-month periods, in a manner consistent with the principles of this section. See paragraph (h)(5) of this section.
+(i) *Applicability date.* Except as otherwise provided in this paragraph (i), this section applies to domestic entity acquisitions completed on or after September 22, 2014. Paragraph (d)(2) of this section applies to domestic entity acquisitions completed on or after January 13, 2017, and paragraph (d)(1) of this section applies to domestic entity acquisitions completed on or after November 19, 2015. Paragraph (g) of this section applies to domestic entity acquisitions completed on or after April 4, 2016. However, for domestic entity acquisitions completed on or after September 22, 2014, and before November 19, 2015, taxpayers may elect to apply paragraph (d)(1) of this section. For domestic entity acquisitions completed on or after September 22, 2014, and before January 13, 2017, taxpayers may elect to apply paragraph (d)(2) of this section or § 1.7874-10T(d)(2) as contained in the Internal Revenue Bulletin (IRB) 2016-20 (see *https://www.irs.gov/irb/2016-20\_IRB/ar05.html*). In addition, for domestic entity acquisitions completed on or after September 22, 2014, and before April 4, 2016, taxpayers may elect to determine NOCDs consistently on the basis of taxable years, in lieu of 12-month periods, in a manner consistent with the principles of this section. See paragraph (h)(5) of this section.
 
 (j) *Expiration date.* This section expires on or before April 4, 2019.
 
-[T.D. 9761, 81 FR 20905, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016]
+[T.D. 9761, 81 FR 20905, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016; T.D. 9812, 82 FR 5400, 5401, Jan. 18, 2017]

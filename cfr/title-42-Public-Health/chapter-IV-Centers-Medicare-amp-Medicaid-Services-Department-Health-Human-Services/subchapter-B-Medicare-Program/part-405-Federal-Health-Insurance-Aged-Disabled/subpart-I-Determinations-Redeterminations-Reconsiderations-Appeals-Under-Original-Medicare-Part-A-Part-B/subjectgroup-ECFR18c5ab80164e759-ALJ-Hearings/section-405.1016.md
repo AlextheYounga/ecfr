@@ -1,5 +1,7 @@
 ##### § 405.1016 Time frames for deciding an appeal before an ALJ. #####
 
+Link to an amendment published at 82 FR 5113, Jan. 17, 2017.
+
 (a) When a request for an ALJ hearing is filed after a QIC has issued a reconsideration, the ALJ must issue a decision, dismissal order, or remand to the QIC, as appropriate, no later than the end of the 90 calendar day period beginning on the date the request for hearing is received by the entity specified in the QIC's notice of reconsideration, unless the 90 calendar day period has been extended as provided in this subpart.
 
 (b) The adjudication period specified in paragraph (a) of this section begins on the date that a timely filed request for hearing is received by the entity specified in the QIC's reconsideration, or, if it is not timely filed, the date that the ALJ grants any extension to the filing deadline.

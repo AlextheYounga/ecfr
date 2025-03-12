@@ -1,5 +1,7 @@
 ##### § 405.1018 Submitting evidence before the ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5113, Jan. 17, 2017.
+
 (a) Except as provided in this section, parties must submit all written evidence they wish to have considered at the hearing with the request for hearing (or within 10 calendar days of receiving the notice of hearing).
 
 (b) If a party submits written evidence later than 10 calendar days after receiving the notice of hearing, the period between the time the evidence was required to have been submitted and the time it is received is not counted toward the adjudication deadline specified in § 405.1016.

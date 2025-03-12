@@ -1,5 +1,7 @@
 ##### § 423.2032 Issues before an ALJ. #####
 
+Link to an amendment published at 82 FR 5132, Jan. 17, 2017.
+
 (a) *General rule.* The issues before the ALJ include all the issues brought out in the coverage determination, redetermination, or reconsideration that were not decided entirely in an enrollee's favor. However, if evidence presented before the hearing causes the ALJ to question a favorable portion of the determination, he or she notifies the enrollee before the hearing and may consider it an issue at the hearing.
 
 (b) *New issues* - (1) *General.* The ALJ may consider a new issue at the hearing if he or she notifies the enrollee about the new issue any time before the start of the hearing.

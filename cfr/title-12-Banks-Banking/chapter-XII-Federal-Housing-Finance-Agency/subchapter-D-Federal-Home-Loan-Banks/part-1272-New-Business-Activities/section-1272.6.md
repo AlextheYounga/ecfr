@@ -1,3 +1,3 @@
-##### § 1272.6 FHFA consent. #####
+##### § 1272.6 Examinations. #####
 
-The FHFA may at any time provide consent for a Bank to undertake a particular new business activity and setting forth the terms and conditions that apply to the activity, with which the Bank shall comply if the Bank undertakes the activity in question.
+Nothing in this part shall limit in any manner the right of FHFA to conduct any examination of any Bank relating to its implementation of an NBA, including pre- or post-implementation safety and soundness examinations, or review of contracts or other agreements between the Bank and any other party.

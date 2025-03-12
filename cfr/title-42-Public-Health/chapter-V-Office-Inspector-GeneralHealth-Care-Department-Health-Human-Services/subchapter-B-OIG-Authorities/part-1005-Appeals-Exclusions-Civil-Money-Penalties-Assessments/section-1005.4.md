@@ -1,10 +1,8 @@
 ##### § 1005.4 Authority of the ALJ. #####
 
-Link to an amendment published at 81 FR 88365, Dec. 7, 2016.
-
 (a) The ALJ will conduct a fair and impartial hearing, avoid delay, maintain order and assure that a record of the proceeding is made.
 
-(b) The ALJ has the authority to -
+(b) The ALJ has the authority to—
 
 (1) Set and change the date, time and place of the hearing upon reasonable notice to the parties;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 88365, Dec. 7, 2016.
 
 (13) Conduct any conference, argument or hearing in person or, upon agreement of the parties, by telephone.
 
-(c) The ALJ does not have the authority to -
+(c) The ALJ does not have the authority to—
 
 (1) Find invalid or refuse to follow Federal statutes or regulations or secretarial delegations of authority;
 
@@ -42,10 +40,10 @@ Link to an amendment published at 81 FR 88365, Dec. 7, 2016.
 
 (4) Enjoin any act of the Secretary;
 
-(5) Review the exercise of discretion by the OIG to exclude an individual or entity under section 1128(b) of the Act, or determine the scope or effect of the exclusion,
+(5) Review the exercise of discretion by the OIG to exclude an individual or entity under section 1128(b) of the Act or under part 1003 of this chapter, or determine the scope or effect of the exclusion;
 
-(6) Set a period of exclusion at zero, or reduce a period of exclusion to zero, in any case where the ALJ finds that an individual or entity committed an act described in section 1128(b) of the Act, or
+(6) Set a period of exclusion at zero, or reduce a period of exclusion to zero, in any case in which the ALJ finds that an individual or entity committed an act described in section 1128(b) of the Act or under part 1003 of this chapter; or
 
 (7) Review the exercise of discretion by the OIG to impose a CMP, assessment or exclusion under part 1003 of this chapter.
 
-[57 FR 3350, Jan. 29, 1992, as amended at 58 FR 5618, Jan. 22, 1993]
+[57 FR 3350, Jan. 29, 1992, as amended at 58 FR 5618, Jan. 22, 1993; 81 FR 88365, Dec. 7, 2016]

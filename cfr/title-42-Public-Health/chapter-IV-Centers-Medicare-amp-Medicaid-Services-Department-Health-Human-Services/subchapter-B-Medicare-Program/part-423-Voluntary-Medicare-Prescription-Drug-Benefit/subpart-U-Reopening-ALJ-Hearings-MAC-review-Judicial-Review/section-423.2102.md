@@ -1,5 +1,7 @@
 ##### § 423.2102 Request for MAC review when ALJ issues decision or dismissal. #####
 
+Link to an amendment published at 82 FR 5137, Jan. 17, 2017.
+
 (a)(1) An enrollee to the ALJ hearing may request a MAC review if the enrollee files a written request for a MAC review within 60 calendar days after receipt of the ALJ's written decision or dismissal.
 
 (2) An enrollee may request that MAC review be expedited if the appeal involves an issue specified in § 423.566(b) but does not include solely a request for payment of Part D drugs already furnished.

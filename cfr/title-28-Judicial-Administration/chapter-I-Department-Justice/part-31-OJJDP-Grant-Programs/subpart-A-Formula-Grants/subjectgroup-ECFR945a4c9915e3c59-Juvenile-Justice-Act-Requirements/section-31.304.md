@@ -1,5 +1,7 @@
 ##### § 31.304 Definitions. #####
 
+Link to an amendment published at 82 FR 4793, Jan. 17, 2017.
+
 (a) *Private agency.* A private non-profit agency, organization or institution is:
 
 (1) Any corporation, foundation, trust, association, cooperative, or accredited institution of higher education not under public supervision or control; and

@@ -1,33 +1,37 @@
 ##### § 365.107 Types of applications. #####
 
-Link to an amendment published at 78 FR 52646, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63704, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
+(a) *Fitness applications.* Motor property applications and certain types of motor passenger applications require the finding that the applicant is fit, willing and able to perform the involved operations and to comply with all applicable statutory and regulatory provisions. These applications can be opposed only on the grounds that applicant is not fit [e.g., is not in compliance with applicable financial responsibility and safety fitness requirements]. These applications are:
 
-(a) Fitness applications. Motor property applications and certain types of motor passenger applications require only the finding that the applicant is fit, willing and able to perform the involved operations and to comply with all applicable statutory and regulatory provisions. These applications can be opposed only on the grounds that applicant is not fit [*e.g.,* is not in compliance with applicable financial responsibility and safety fitness requirements]. These applications are:
+(1) Motor carrier of property (except household goods).
 
-(1) Motor common and contract carrier of property (except household goods) , Mexican motor property carriers that perform private carriage and transport exempt items, and motor contract carrier of passengers transportation.
+(2) Broker of general commodities or household goods.
 
-(2) Motor carrier brokerage of general commodities (except household goods).
+(3) Certain types of motor carrier of passenger applications as described in Form MCSA-1.
 
-(3) Certain types of motor passenger applications as described in Form OP-1 (P).
+(b) Motor carrier of passenger “public interest” applications as described in Form MCSA-1.
 
-(b) Motor passenger “public interest” applications as described in Form OP-1 (P).
+(c) Intrastate motor passenger applications under 49 U.S.C. 13902(b)(3) as described in Form MCSA-1.
 
-(c) Intrastate motor passenger applications under 49 U.S.C. 13902(b)(3) as described in Form OP-1, Schedule B.
+(d) Motor carrier of household goods applications, including Mexico- or non-North America-domiciled carrier applicants. In addition to meeting the fitness standard under paragraph (a) of this section, an applicant seeking authority to operate as a motor carrier of household goods must:
 
-(d) Motor common carrier of household goods applications, including Mexican carrier applicants. These applications require a finding that:
+(1) Provide evidence of participation in an arbitration program and provide a copy of the notice of the arbitration program as required by 49 U.S.C. 14708(b)(2);
 
-(1) The applicant is fit, willing, and able to provide the involved transportation and to comply with all applicable statutory and regulatory provisions; and
+(2) Identify its tariff and provide a copy of the notice of the availability of that tariff for inspection as required by 49 U.S.C. 13702(c);
 
-(2) The service proposed will serve a useful public purpose, responsive to a public demand or need.
+(3) Provide evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers' rights and responsibilities, and options for limitations of liability for loss and damage; and
 
-(e) Motor contract carrier of household goods, household goods property broker, and freight forwarder applications. These applications require a finding that:
+(4) Disclose any relationship involving common stock, common ownership, common management, or common familial relationships between the applicant and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
 
-(1) The applicant is fit, willing, and able to provide the involved transportation and to comply with all applicable statutory and regulatory provisions; and
+(e) Temporary authority (TA) for motor carriers. These applications require a finding that there is or soon will be an immediate transportation need that cannot be met by existing carrier service.
 
-(2) The transportation to be provided will be consistent with the public interest and the national transportation policy of 49 U.S.C. 13101.
+(1) Applications for TA will be entertained only when an emergency declaration has been made pursuant to § 390.23 of this subchapter.
 
-(f) Temporary authority (TA) for motor and water carriers. These applications require a finding that there is or soon will be an immediate transportation need that cannot be met by existing carrier service.
+(2) Temporary authority must be requested by filing Form MCSA-1.
 
-(g) In view of the expedited time frames established in this part for processing requests for permanent authority, applications for TA will be entertained *only* in exceptional circumstances (*i.e.,* natural disasters or national emergencies) when evidence of immediate service need can be specifically documented in a narrative supplement appended to Form OP-1 for motor property carriers, Form OP-1MX for Mexican property carriers and, Form OP-1(P) for motor passenger carriers.
+(3) Applications for temporary authority are not subject to protest.
 
-[59 FR 63728, Dec. 9, 1994, as amended at 60 FR 63981, Dec. 13, 1995; 62 FR 49940, Sept. 24, 1997; 67 FR 61820, Oct. 2, 2002]
+(4) Motor carriers granted temporary authority must comply with financial responsibility requirements under part 387 of this subchapter.
+
+(5) Only a U.S.-domiciled motor carrier is eligible to receive temporary authority.
+
+[80 FR 63704, Oct. 21, 2015]Effective Date Note:At 82 FR 5299, Jan. 17, 2017, § 365.107 was suspended, effective Jan. 14, 2017.

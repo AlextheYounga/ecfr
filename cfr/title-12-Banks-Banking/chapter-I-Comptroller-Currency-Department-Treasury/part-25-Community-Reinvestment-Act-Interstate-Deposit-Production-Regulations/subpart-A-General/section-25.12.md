@@ -110,7 +110,7 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.216 billion. *Intermediate small bank* means a small bank with assets of at least $304 million as of December 31 of both of the prior two calendar years and less than $1.216 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.226 billion. *Intermediate small bank* means a small bank with assets of at least $307 million as of December 31 of both of the prior two calendar years and less than $1.226 billion as of December 31 of either of the prior two calendar years.
 
 (2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the OCC, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
@@ -120,4 +120,4 @@ For purposes of this part, the following definitions apply:
 
 (x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 25.25(b).
 
-[60 FR 22178, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41186, July 8, 2004; 70 FR 44266, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68663, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82218, Dec. 30, 2010; 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 78 FR 79284, Dec. 30, 2013; 79 FR 77853, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015]
+[60 FR 22178, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41186, July 8, 2004; 70 FR 44266, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68663, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82218, Dec. 30, 2010; 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 78 FR 79284, Dec. 30, 2013; 79 FR 77853, Dec. 29, 2014; 80 FR 81164, Dec. 29, 2015; 82 FR 5355, Jan. 18, 2017]

@@ -1,7 +1,5 @@
 ##### § 365.507 FMCSA action on the application. #####
 
-Link to an amendment published at 78 FR 52647, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63705, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
 (a) The FMCSA will review and act on each application submitted under this subpart in accordance with the procedures set out in this part.
 
 (b) The FMCSA will validate the accuracy of information and certifications provided in the application by checking data maintained in databases of the governments of Mexico and the United States.
@@ -14,8 +12,10 @@ Link to an amendment published at 78 FR 52647, Aug. 23, 2013.Link to a delay pub
 
 (1) Have its surety or insurance provider file proof of financial responsibility in the form of certificates of insurance, surety bonds, and endorsements, as required by § 387.301 of this subchapter;
 
-(2) File a hard copy of, or have its process agent(s) electronically submit, Form BOC-3 - Designation of Agents-Motor Carriers, Brokers and Freight Forwarders, as required by part 366 of this subchapter; and
+(2) Electronically file, or have its process agent(s) electronically file, Form BOC-3—Designation of Agents—Motor Carriers, Brokers and Freight Forwarders, as required by part 366 of this subchapter; and
 
 (3) Comply with all provisions of the safety monitoring system in subpart B of part 385 of this subchapter, including successfully passing CVSA Level I inspections at least every 90 days and having decals affixed to each commercial motor vehicle operated in the United States as required by § 385.103(c) of this subchapter.
 
 (f) The FMCSA may grant permanent operating authority to a Mexico-domiciled carrier no earlier than 18 months after the date that provisional operating authority is granted and only after successful completion to the satisfaction of the FMCSA of the safety monitoring system for Mexico-domiciled carriers set out in subpart B of part 385 of this subchapter. Successful completion includes obtaining a satisfactory safety rating as the result of a compliance review.
+
+[67 FR 12714, Mar. 19, 2002, as amended at 80 FR 63705, Oct. 21, 2015]Effective Date Note:At 82 FR 5302, Jan. 17, 2017, § 365.507 was suspended, effective Jan. 14, 2017.

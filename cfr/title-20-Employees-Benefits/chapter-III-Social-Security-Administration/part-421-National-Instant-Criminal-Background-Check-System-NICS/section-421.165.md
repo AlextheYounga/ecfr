@@ -1,0 +1,11 @@
+##### § 421.165 Actions on a request for relief. #####
+
+(a) After the applicant submits the evidence required under § 421.151 and any other evidence he or she wants us to consider, we will review the evidence, which will include any evidence from our records that we determine is appropriate. A decision maker who was not involved in making the finding that the applicant's benefit payments be made through a representative payee will review the evidence and act on the request for relief. We will notify the applicant in writing of our action regarding the request for relief.
+
+(b) If we deny an applicant's request for relief, we will send the applicant a written notice that explains the reasons for our action. We will also inform the applicant that if he or she is dissatisfied with our action, he or she has 60 days from the date he or she receives the notice of our action to file a petition seeking judicial review in Federal district court.
+
+(c) If we grant an applicant's request for relief, we will send the applicant a written notice that explains the reasons for our action. We will inform the applicant that we will notify the Attorney General, or his or her delegate, that the individual's record should be removed from the NICS database. We will also notify the applicant that he or she is no longer prohibited under 18 U.S.C. 922(g)(4) from purchasing, possessing, receiving, shipping, or transporting firearms or ammunition based on the prohibition that we granted the applicant relief from. We will notify the Attorney General, or his or her delegate, that the applicant's record should be removed from the NICS database after we grant the applicant's request for relief.
+
+(d)(1) The NIAA requires us to process each application for relief not later than 365 days after the date we receive it. We consider the application date for the request for relief to be the date on which all evidence required under § 421.151(a) is submitted.
+
+(2) If we fail to resolve an application for relief within that period for any reason, including a lack of appropriated funds, we will be deemed to have denied the relief request without cause. In accordance with the NIAA, judicial review of any petition brought under this paragraph (d) shall be de novo.

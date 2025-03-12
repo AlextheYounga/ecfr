@@ -1,5 +1,7 @@
 ##### § 405.1000 Hearing before an ALJ: General rule. #####
 
+Link to an amendment published at 82 FR 5109, Jan. 17, 2017.
+
 (a) If a party is dissatisfied with a QIC's reconsideration or if the adjudication period specified in § 405.970 for the QIC to complete its reconsideration has elapsed, the party may request a hearing.
 
 (b) A hearing may be conducted in-person, by video-teleconference (VTC), or by telephone. At the hearing, the parties may submit evidence (subject to the restrictions in § 405.1018 and § 405.1028), examine the evidence used in making the determination under review, and present and/or question witnesses.

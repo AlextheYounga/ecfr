@@ -1,7 +1,5 @@
 ##### § 1904.35 Employee involvement. #####
 
-Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
-
 (a) *Basic requirement.* Your employees and their representatives must be involved in the recordkeeping system in several ways.
 
 (1) You must inform each employee of how he or she is to report a work-related injury or illness to you.
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
 
 (iv) You must not discharge or in any manner discriminate against any employee for reporting a work-related injury or illness.
 
-(2) *Do I have to give my employees and their representatives access to the OSHA injury and illness records?* Yes, your employees, former employees, their personal representatives, and their authorized employee representatives have the right to access the OSHA injury and illness records, with some limitations, as discussed below.
+(2) *Do I have to give my employees and their representatives access to the OSHA injury and illness records?* Yes, your employees, former employees, their personal representatives, and their authorized employee representatives have the right to access accurate OSHA injury and illness records, with some limitations, as discussed below.
 
 (i) *Who is an authorized employee representative?* An authorized employee representative is an authorized collective bargaining agent of employees.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
 
 (B) The legal representative of a deceased or legally incapacitated employee or former employee.
 
-(iii) *If an employee or representative asks for access to the OSHA 300 Log, when do I have to provide it?* When an employee, former employee, personal representative, or authorized employee representative asks for copies of your current or stored OSHA 300 Log(s) for an establishment the employee or former employee has worked in, you must give the requester a copy of the relevant OSHA 300 Log(s) by the end of the next business day.
+(iii) *If an employee or representative asks for access to the OSHA 300 Log, when do I have to provide it?* When an employee, former employee, personal representative, or authorized employee representative asks for copies of your current or stored OSHA 300 Log(s) for an establishment the employee or former employee has worked in, you must give the requester a copy of the relevant and accurate OSHA 300 Log(s) by the end of the next business day.
 
 (iv) *May I remove the names of the employees or any other information from the OSHA 300 Log before I give copies to an employee, former employee, or employee representative?* No, you must leave the names on the 300 Log. However, to protect the privacy of injured and ill employees, you may not record the employee's name on the OSHA 300 Log for certain “privacy concern cases,” as specified in § 1904.29(b)(6) through (9).
 
@@ -42,4 +40,4 @@ Link to an amendment published at 81 FR 91810, Dec. 19, 2016.
 
 (vi) *May I charge for the copies?* No, you may not charge for these copies the first time they are provided. However, if one of the designated persons asks for additional copies, you may assess a reasonable charge for retrieving and copying the records.
 
-[81 FR 29691, May 12, 2016; 81 FR 31854, May 20, 2016]
+[81 FR 29691, May 12, 2016; 81 FR 31854, May 20, 2016, as amended at 81 FR 91810, Dec. 19, 2016]

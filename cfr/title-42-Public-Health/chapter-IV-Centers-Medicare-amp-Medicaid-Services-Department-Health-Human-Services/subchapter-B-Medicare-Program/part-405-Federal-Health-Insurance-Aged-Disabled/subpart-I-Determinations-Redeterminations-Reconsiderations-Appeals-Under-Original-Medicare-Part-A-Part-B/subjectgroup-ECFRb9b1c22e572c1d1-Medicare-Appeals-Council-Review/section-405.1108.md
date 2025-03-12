@@ -1,5 +1,7 @@
 ##### § 405.1108 MAC actions when request for review or escalation is filed. #####
 
+Link to an amendment published at 82 FR 5122, Jan. 17, 2017.
+
 (a) Except as specified in paragraphs (c) and (d) of this section, when a party requests that the MAC review an ALJ's decision, the MAC will review the ALJ's decision *de novo.* The party requesting review does not have a right to a hearing before the MAC. The MAC will consider all of the evidence in the administrative record. Upon completion of its review, the MAC may adopt, modify, or reverse the ALJ's decision or remand the case to an ALJ for further proceedings.
 
 (b) When a party requests that the MAC review an ALJ's dismissal, the MAC may deny review or vacate the dismissal and remand the case to the ALJ for further proceedings.

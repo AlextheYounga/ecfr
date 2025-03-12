@@ -1,5 +1,7 @@
 ##### § 423.2108 MAC Actions when request for review is filed. #####
 
+Link to an amendment published at 82 FR 5137, Jan. 17, 2017.
+
 (a) *General.* Except as specified in paragraph (c) of this section, when an enrollee requests that the MAC review an ALJ's decision, the MAC will review the ALJ's decision de novo. The enrollee requesting review does not have a right to a hearing before the MAC. The MAC will consider all of the evidence admitted into the administrative record. Upon completion of its review, the MAC may adopt, modify, or reverse the ALJ's decision or remand the case to the ALJ for further proceedings. Unless the MAC's review is expedited as provided in paragraph (d) of this section, the MAC must issue its action no later than 90 calendar days after receiving the request for review, unless the 90 calendar day period has been extended as provided in this subpart.
 
 (b) *Review of ALJ's dismissal.* When an enrollee requests that the MAC review an ALJ's dismissal, the MAC may deny review or vacate the dismissal and remand the case to the ALJ for further proceedings.

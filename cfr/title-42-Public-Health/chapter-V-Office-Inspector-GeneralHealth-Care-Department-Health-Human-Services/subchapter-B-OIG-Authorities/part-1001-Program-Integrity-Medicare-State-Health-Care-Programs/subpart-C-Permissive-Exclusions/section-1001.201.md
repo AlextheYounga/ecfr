@@ -1,5 +1,7 @@
 ##### § 1001.201 Conviction relating to program or health care fraud. #####
 
+Link to an amendment published at 82 FR 4112, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude an individual or entity convicted under Federal or State law of -
 
 (1) A misdemeanor relating to fraud, theft, embezzlement, breach of fiduciary responsibility, or other financial misconduct -

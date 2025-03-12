@@ -1,5 +1,7 @@
 ##### § 405.1020 Time and place for a hearing before an ALJ. #####
 
+Link to an amendment published at 82 FR 5114, Jan. 17, 2017.
+
 (a) *General.* The ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
 (b) *Determining how appearances are made.* The ALJ will direct that the appearance of an individual be conducted by videoteleconferencing (VTC) if the ALJ finds that VTC technology is available to conduct the appearance. The ALJ may also offer to conduct a hearing by telephone if the request for hearing or administrative record suggests that a telephone hearing may be more convenient for one or more of the parties. The ALJ, with the concurrence of the Managing Field Office ALJ, may determine that an in-person hearing should be conducted if -

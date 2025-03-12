@@ -1,8 +1,6 @@
 ##### § 191.1 Scope. #####
 
-Link to an amendment published at 81 FR 91871, December 19, 2016.
-
-(a) This part prescribes requirements for the reporting of incidents, safety-related conditions, and annual pipeline summary data by operators of gas pipeline facilities located in the United States or Puerto Rico, including pipelines within the limits of the Outer Continental Shelf as that term is defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331).
+(a) This part prescribes requirements for the reporting of incidents, safety-related conditions, annual pipeline summary data, National Operator Registry information, and other miscellaneous conditions by operators of underground natural gas storage facilities and natural gas pipeline facilities located in the United States or Puerto Rico, including underground natural gas storage facilities and pipelines within the limits of the Outer Continental Shelf as that term is defined in the Outer Continental Shelf Lands Act (43 U.S.C. 1331).
 
 (b) This part does not apply to -
 
@@ -20,4 +18,4 @@ Link to an amendment published at 81 FR 91871, December 19, 2016.
 
 (iii) Within inlets of the Gulf of Mexico, except for the requirements in § 192.612.
 
-[Amdt. 191-5, 49 FR 18960, May 3, 1984, as amended by Amdt. 191-6, 53 FR 24949, July 1, 1988; Amdt. 191-11, 61 FR 27793, June 3, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; Amdt. 191-15, 68 FR 46111, Aug. 5, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72904, Nov. 26, 2010]
+[Amdt. 191-5, 49 FR 18960, May 3, 1984, as amended by Amdt. 191-6, 53 FR 24949, July 1, 1988; Amdt. 191-11, 61 FR 27793, June 3, 1996; Amdt. 191-12, 62 FR 61695, Nov. 19, 1997; Amdt. 191-15, 68 FR 46111, Aug. 5, 2003; 70 FR 11139, Mar. 8, 2005; 75 FR 72904, Nov. 26, 2010; Amdt. 191-24, 81 FR 91871, Dec. 19, 2016]

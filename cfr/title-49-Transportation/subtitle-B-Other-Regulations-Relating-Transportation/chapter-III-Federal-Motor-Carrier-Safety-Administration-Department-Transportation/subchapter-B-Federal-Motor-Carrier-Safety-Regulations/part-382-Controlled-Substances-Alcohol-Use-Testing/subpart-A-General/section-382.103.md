@@ -1,8 +1,6 @@
 ##### § 382.103 Applicability. #####
 
-Link to an amendment published at 81 FR 87724, Dec. 5, 2016.
-
-(a) This part applies to every person and to all employers of such persons who operate a commercial motor vehicle in commerce in any State, and is subject to:
+(a) This part applies to service agents and to every person and to all employers of such persons who operate a commercial motor vehicle in commerce in any State and are subject to:
 
 (1) The commercial driver's license requirements of part 383 of this subchapter;
 
@@ -36,4 +34,4 @@ Link to an amendment published at 81 FR 87724, Dec. 5, 2016.
 
 (4) Who operate “covered farm vehicles,” as defined in 49 CFR 390.5.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016]
+[66 FR 43103, Aug. 17, 2001, as amended at 78 FR 16194, Mar. 14, 2013; 81 FR 68346, Oct. 4, 2016; 81 FR 71016, Oct. 14, 2016; 81 FR 87724, Dec. 5, 2016]

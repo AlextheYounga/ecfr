@@ -1,7 +1,5 @@
 ##### § 1910.179 Overhead and gantry cranes. #####
 
-Link to an amendment published at 81 FR 83005, Nov. 18, 2016.
-
 (a) *Definitions applicable to this section.* (1) A *crane* is a machine for lifting and lowering a load and moving it horizontally, with the hoisting mechanism an integral part of the machine. Cranes whether fixed or mobile are driven manually or by power.
 
 (2) An *automatic crane* is a crane which when activated operates through a preset cycle or cycles.
@@ -136,7 +134,7 @@ Chain properties do not conform to those shown in ANSI B30.9-1971, Safety Code f
 
 (65) *Truck* means the unit consisting of a frame, wheels, bearings, and axles which supports the bridge girders or trolleys.
 
-(b) *General requirements* - (1) *Application.* This section applies to overhead and gantry cranes, including semigantry, cantilever gantry, wall cranes, storage bridge cranes, and others having the same fundamental characteristics. These cranes are grouped because they all have trolleys and similar travel characteristics.
+(b) *General requirements*—(1) *Application.* This section applies to overhead and gantry cranes, including semigantry, cantilever gantry, wall cranes, storage bridge cranes, and others having the same fundamental characteristics. These cranes are grouped because they all have trolleys and similar travel characteristics.
 
 (2) *New and existing equipment.* All new overhead and gantry cranes constructed and installed on or after August 31, 1971, shall meet the design specifications of the American National Standard Safety Code for Overhead and Gantry Cranes, ANSI B30.2.0-1967, which is incorporated by reference as specified in § 1910.6.
 
@@ -152,19 +150,19 @@ Chain properties do not conform to those shown in ANSI B30.9-1971, Safety Code f
 
 (7) *Clearance between parallel cranes.* If the runways of two cranes are parallel, and there are no intervening walls or structure, there shall be adequate clearance provided and maintained between the two bridges.
 
-(8) *Designated personnel* - Only designated personnel shall be permitted to operate a crane covered by this section.
+(8) *Designated personnel*—Only designated personnel shall be permitted to operate a crane covered by this section.
 
-(c) *Cabs* - (1) *Cab location.* (i) The general arrangement of the cab and the location of control and protective equipment shall be such that all operating handles are within convenient reach of the operator when facing the area to be served by the load hook, or while facing the direction of travel of the cab. The arrangement shall allow the operator a full view of the load hook in all positions.
+(c) *Cabs*—(1) *Cab location.* (i) The general arrangement of the cab and the location of control and protective equipment shall be such that all operating handles are within convenient reach of the operator when facing the area to be served by the load hook, or while facing the direction of travel of the cab. The arrangement shall allow the operator a full view of the load hook in all positions.
 
 (ii) The cab shall be located to afford a minimum of 3 inches clearance from all fixed structures within its area of possible movement.
 
-(2) *Access to crane.* Access to the cab and/or bridge walkway shall be by a conveniently placed fixed ladder, stairs, or platform requiring no step over any gap exceeding 12 inches. Fixed ladders shall be in conformance with the American National Standard Safety Code for Fixed Ladders, ANSI A14.3-1956, which is incorporated by reference as specified in § 1910.6.
+(2) *Access to crane.* Access to the car and/or bridge walkway shall be by a conveniently placed fixed ladder, stairs, or platform requiring no step over any gap exceeding 12 inches (30 cm). Fixed ladders must comply with subpart D of this part.
 
 (3) *Fire extinguisher.* Carbon tetrachloride extinguishers shall not be used.
 
 (4) *Lighting.* Light in the cab shall be sufficient to enable the operator to see clearly enough to perform his work.
 
-(d) *Footwalks and ladders* - (1) *Location of footwalks.* (i) If sufficient headroom is available on cab-operated cranes, a footwalk shall be provided on the drive side along the entire length of the bridge of all cranes having the trolley running on the top of the girders.
+(d) *Footwalks and ladders*—(1) *Location of footwalks.* (i) If sufficient headroom is available on cab-operated cranes, a footwalk shall be provided on the drive side along the entire length of the bridge of all cranes having the trolley running on the top of the girders.
 
 (ii) Where footwalks are located in no case shall less than 48 inches of headroom be provided.
 
@@ -180,21 +178,21 @@ Wood will meet this requirement.
 
 (iv) The inner edge shall extend at least to the line of the outside edge of the lower cover plate or flange of the girder.
 
-(3) *Toeboards and handrails for footwalks.* Toeboards and handrails shall be in compliance with section 1910.23 of this part.
+(3) *Toeboards and handrails for footwalks.* Toeboards and handrails must comply with subpart D of this part.
 
 (4) *Ladders and stairways.* (i) Gantry cranes shall be provided with ladders or stairways extending from the ground to the footwalk or cab platform.
 
 (ii) Stairways shall be equipped with rigid and substantial metal handrails. Walking surfaces shall be of an antislip type.
 
-(iii) Ladders shall be permanently and securely fastened in place and shall be constructed in compliance with § 1910.27.
+(iii) Ladders shall be permanently and securely fastened in place and constructed in compliance with subpart D of this part.
 
-(e) *Stops, bumpers, rail sweeps, and guards* - (1) *Trolley stops.* (i) Stops shall be provided at the limits of travel of the trolley.
+(e) *Stops, bumpers, rail sweeps, and guards*—(1) *Trolley stops.* (i) Stops shall be provided at the limits of travel of the trolley.
 
 (ii) Stops shall be fastened to resist forces applied when contacted.
 
 (iii) A stop engaging the tread of the wheel shall be of a height at least equal to the radius of the wheel.
 
-(2) *Bridge bumpers* - (i) A crane shall be provided with bumpers or other automatic means providing equivalent effect, unless the crane travels at a slow rate of speed and has a faster deceleration rate due to the use of sleeve bearings, or is not operated near the ends of bridge and trolley travel, or is restricted to a limited distance by the nature of the crane operation and there is no hazard of striking any object in this limited distance, or is used in similar operating conditions. The bumpers shall be capable of stopping the crane (not including the lifted load) at an average rate of deceleration not to exceed 3 ft/s/s when traveling in either direction at 20 percent of the rated load speed.
+(2) *Bridge bumpers*—(i) A crane shall be provided with bumpers or other automatic means providing equivalent effect, unless the crane travels at a slow rate of speed and has a faster deceleration rate due to the use of sleeve bearings, or is not operated near the ends of bridge and trolley travel, or is restricted to a limited distance by the nature of the crane operation and there is no hazard of striking any object in this limited distance, or is used in similar operating conditions. The bumpers shall be capable of stopping the crane (not including the lifted load) at an average rate of deceleration not to exceed 3 ft/s/s when traveling in either direction at 20 percent of the rated load speed.
 
 (*a*) The bumpers shall have sufficient energy absorbing capacity to stop the crane when traveling at a speed of at least 40 percent of rated load speed.
 
@@ -202,7 +200,7 @@ Wood will meet this requirement.
 
 (ii) Bumpers shall be so designed and installed as to minimize parts falling from the crane in case of breakage.
 
-(3) *Trolley bumpers* - (i) A trolley shall be provided with bumpers or other automatic means of equivalent effect, unless the trolley travels at a slow rate of speed, or is not operated near the ends of bridge and trolley travel, or is restricted to a limited distance of the runway and there is no hazard of striking any object in this limited distance, or is used in similar operating conditions. The bumpers shall be capable of stopping the trolley (not including the lifted load) at an average rate of deceleration not to exceed 4.7 ft/s/s when traveling in either direction at one-third of the rated load speed.
+(3) *Trolley bumpers*—(i) A trolley shall be provided with bumpers or other automatic means of equivalent effect, unless the trolley travels at a slow rate of speed, or is not operated near the ends of bridge and trolley travel, or is restricted to a limited distance of the runway and there is no hazard of striking any object in this limited distance, or is used in similar operating conditions. The bumpers shall be capable of stopping the trolley (not including the lifted load) at an average rate of deceleration not to exceed 4.7 ft/s/s when traveling in either direction at one-third of the rated load speed.
 
 (ii) When more than one trolley is operated on the same bridge, each shall be equipped with bumpers or equivalent on their adjacent ends.
 
@@ -220,7 +218,7 @@ Wood will meet this requirement.
 
 (iii) Each guard shall be capable of supporting without permanent distortion the weight of a 200-pound person unless the guard is located where it is impossible for a person to step on it.
 
-(f) *Brakes* - (1) *Brakes for hoists.* (i) Each independent hoisting unit of a crane shall be equipped with at least one self-setting brake, hereafter referred to as a holding brake, applied directly to the motor shaft or some part of the gear train.
+(f) *Brakes*—(1) *Brakes for hoists.* (i) Each independent hoisting unit of a crane shall be equipped with at least one self-setting brake, hereafter referred to as a holding brake, applied directly to the motor shaft or some part of the gear train.
 
 (ii) Each independent hoisting unit of a crane, except worm-geared hoists, the angle of whose worm is such as to prevent the load from accelerating in the lowering direction shall, in addition to a holding brake, be equipped with control braking means to prevent overspeeding.
 
@@ -274,7 +272,7 @@ Wood will meet this requirement.
 
 (iii) On all floor, remote and pulpit-operated crane bridge drives, a brake of noncoasting mechanical drive shall be provided.
 
-(g) *Electric equipment* - (1) *General.* (i) Wiring and equipment shall comply with subpart S of this part.
+(g) *Electric equipment*—(1) *General.* (i) Wiring and equipment shall comply with subpart S of this part.
 
 (ii) The control circuit voltage shall not exceed 600 volts for a.c. or d.c. current.
 
@@ -334,7 +332,7 @@ Wood will meet this requirement.
 
 (7) *Extension lamps.* If a service receptacle is provided in the cab or on the bridge of cab-operated cranes, it shall be a grounded three-prong type permanent receptacle, not exceeding 300 volts.
 
-(h) *Hoisting equipment* - (1) *Sheaves.* (i) Sheave grooves shall be smooth and free from surface defects which could cause rope damage.
+(h) *Hoisting equipment*—(1) *Sheaves.* (i) Sheave grooves shall be smooth and free from surface defects which could cause rope damage.
 
 (ii) Sheaves carrying ropes which can be momentarily unloaded shall be provided with close-fitting guards or other suitable devices to guide the rope back into the groove when the load is applied again.
 
@@ -370,13 +368,13 @@ Wood will meet this requirement.
 
 (i) *Warning device.* Except for floor-operated cranes a gong or other effective warning signal shall be provided for each crane equipped with a power traveling mechanism.
 
-(j) *Inspection* - (1) *Inspection classification* - (i) *Initial inspection.* Prior to initial use all new and altered cranes shall be inspected to insure compliance with the provisions of this section.
+(j) *Inspection*—(1) *Inspection classification*—(i) *Initial inspection.* Prior to initial use all new and altered cranes shall be inspected to insure compliance with the provisions of this section.
 
 (ii) Inspection procedure for cranes in regular service is divided into two general classifications based upon the intervals at which inspection should be performed. The intervals in turn are dependent upon the nature of the critical components of the crane and the degree of their exposure to wear, deterioration, or malfunction. The two general classifications are herein designated as “frequent” and “periodic” with respective intervals between inspections as defined below:
 
-(*a*) Frequent inspection - Daily to monthly intervals.
+(*a*) Frequent inspection—Daily to monthly intervals.
 
-(*b*) Periodic inspection - 1 to 12-month intervals.
+(*b*) Periodic inspection—1 to 12-month intervals.
 
 (2) *Frequent inspection.* The following items shall be inspected for defects at intervals as defined in paragraph (j)(1)(ii) of this section or as specifically indicated, including observation during operation for any defects which might appear between regular inspections. All deficiencies such as listed shall be carefully examined and determination made as to whether they constitute a safety hazard:
 
@@ -422,7 +420,7 @@ Wood will meet this requirement.
 
 (iii) Standby cranes shall be inspected at least semi-annually in accordance with requirements of paragraph (j)(2) of this section and paragraph (m)(2) of this section.
 
-(k) *Testing* - (1) *Operational tests.* (i) Prior to initial use all new and altered cranes shall be tested to insure compliance with this section including the following functions:
+(k) *Testing*—(1) *Operational tests.* (i) Prior to initial use all new and altered cranes shall be tested to insure compliance with this section including the following functions:
 
 (*a*) Hoisting and lowering.
 
@@ -436,7 +434,7 @@ Wood will meet this requirement.
 
 (2) *Rated load test.* Test loads shall not be more than 125 percent of the rated load unless otherwise recommended by the manufacturer. The test reports shall be placed on file where readily available to appointed personnel.
 
-(l) *Maintenance* - (1) *Preventive maintenance.* A preventive maintenance program based on the crane manufacturer's recommendations shall be established.
+(l) *Maintenance*—(1) *Preventive maintenance.* A preventive maintenance program based on the crane manufacturer's recommendations shall be established.
 
 (2) *Maintenance procedure.* (i) Before adjustments and repairs are started on a crane the following precautions shall be taken:
 
@@ -476,7 +474,7 @@ Wood will meet this requirement.
 
 (*d*) Pendant control stations shall be kept clean and function labels kept legible.
 
-(m) *Rope inspection* - (1) *Running ropes.* A thorough inspection of all ropes shall be made at least once a month and a certification record which includes the date of inspection, the signature of the person who performed the inspection and an identifier for the ropes which were inspected shall be kept on file where readily available to appointed personnel. Any deterioration, resulting in appreciable loss of original strength, shall be carefully observed and determination made as to whether further use of the rope would constitute a safety hazard. Some of the conditions that could result in an appreciable loss of strength are the following:
+(m) *Rope inspection*—(1) *Running ropes.* A thorough inspection of all ropes shall be made at least once a month and a certification record which includes the date of inspection, the signature of the person who performed the inspection and an identifier for the ropes which were inspected shall be kept on file where readily available to appointed personnel. Any deterioration, resulting in appreciable loss of original strength, shall be carefully observed and determination made as to whether further use of the rope would constitute a safety hazard. Some of the conditions that could result in an appreciable loss of strength are the following:
 
 (i) Reduction of rope diameter below nominal diameter due to loss of core support, internal or external corrosion, or wear of outside wires.
 
@@ -492,7 +490,7 @@ Wood will meet this requirement.
 
 (2) *Other ropes.* All rope which has been idle for a period of a month or more due to shutdown or storage of a crane on which it is installed shall be given a thorough inspection before it is used. This inspection shall be for all types of deterioration and shall be performed by an appointed person whose approval shall be required for further use of the rope. A certification record shall be available for inspection which includes the date of inspection, the signature of the person who performed the inspection and an identifier for the rope which was inspected.
 
-(n) *Handling the load* - (1) *Size of load.* The crane shall not be loaded beyond its rated load except for test purposes as provided in paragraph (k) of this section.
+(n) *Handling the load*—(1) *Size of load.* The crane shall not be loaded beyond its rated load except for test purposes as provided in paragraph (k) of this section.
 
 (2) *Attaching the load.* (i) The hoist chain or hoist rope shall be free from kinks or twists and shall not be wrapped around the load.
 
@@ -536,7 +534,7 @@ Wood will meet this requirement.
 
 (ii) The hoist limit switch which controls the upper limit of travel of the load block shall never be used as an operating control.
 
-(o) *Other requirements, general* - (1) *Ladders.* (i) The employer shall insure that hands are free from encumbrances while personnel are using ladders.
+(o) *Other requirements, general*—(1) *Ladders.* (i) The employer shall insure that hands are free from encumbrances while personnel are using ladders.
 
 (ii) Articles which are too large to be carried in pockets or belts shall be lifted and lowered by hand line.
 
@@ -546,4 +544,4 @@ Wood will meet this requirement.
 
 (3) *Fire extinguishers.* The employer shall insure that operators are familiar with the operation and care of fire extinguishers provided.
 
-[39 FR 23502, June 27, 1974, as amended at 40 FR 27400, June 27, 1975; 49 FR 5322, Feb. 10, 1984; 51 FR 34560, Sept. 29, 1986; 55 FR 32015, Aug. 6, 1990; 61 FR 9239, Mar. 7, 1996]
+[39 FR 23502, June 27, 1974, as amended at 40 FR 27400, June 27, 1975; 49 FR 5322, Feb. 10, 1984; 51 FR 34560, Sept. 29, 1986; 55 FR 32015, Aug. 6, 1990; 61 FR 9239, Mar. 7, 1996; 81 FR 83005, Nov. 18, 2016]

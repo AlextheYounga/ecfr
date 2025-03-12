@@ -1,0 +1,11 @@
+##### § 11.35 By when will the NIH Director post clinical trial registration information submitted under § 11.28? #####
+
+(a) *Applicable drug clinical trial.* The Director will post publicly on *ClinicalTrials.gov* the clinical trial registration information, except for certain administrative data, for an applicable drug clinical trial not later than 30 calendar days after the responsible party has submitted such information, as specified in § 11.24.
+
+(b) *Applicable device clinical trial.* (1) For an applicable device clinical trial of a device product that was previously approved or cleared, the Director will post publicly on *ClinicalTrials.gov* the clinical trial registration information, except for certain administrative data, as soon as practicable, but not later than 30 calendar days after clinical trial results information is required to be posted, as specified in § 11.52.
+
+(2) For an applicable device clinical trial of a device product that has not been previously approved or cleared:
+
+(i) The Director will post publicly on *ClinicalTrials.gov* the clinical trial registration information, except for certain administrative data, not earlier than the date of FDA approval or clearance of the device product and not later than 30 calendar days after the date of such approval or clearance, except as otherwise provided in paragraph (b)(2)(ii) of this section.
+
+(ii) If, prior to the date of approval or clearance of the device product, the responsible party for an applicable clinical trial that is initiated on or after January 18, 2017, indicates to the Director, by submitting the Post Prior to U.S. FDA Approval or Clearance data element under § 11.28(a)(2)(i)(Q), that it is authorizing the Director to publicly post its clinical trial registration information, which would otherwise be subject to delayed posting as specified in paragraph (b)(2)(i) of this section, prior to the date of FDA approval or clearance of its device product, the Director will publicly post the registration information, except for certain administrative data, as soon as practicable.

@@ -1,8 +1,6 @@
 ##### § 219.10 Multiple use. #####
 
-Link to an amendment published at 81 FR 90737, Dec. 15, 2016.
-
-While meeting the requirements of §§ 219.8 and 219.9, the plan must provide for ecosystem services and multiple uses, including outdoor recreation, range, timber, watershed, wildlife, and fish, within Forest Service authority and the inherent capability of the plan area as follows:
+While meeting the requirements of §§ 219.8 and 219.9, a plan developed or revised under this part must provide for ecosystem services and multiple uses, including outdoor recreation, range, timber, watershed, wildlife, and fish, within Forest Service authority and the inherent capability of the plan area as follows:
 
 (a) *Integrated resource management for multiple use.* The plan must include plan components, including standards or guidelines, for integrated resource management to provide for ecosystem services and multiple uses in the plan area. When developing plan components for integrated resource management, to the extent relevant to the plan area and the public participation process and the requirements of §§ 219.7, 219.8, 219.9, and 219.11, the responsible official shall consider:
 
@@ -41,3 +39,5 @@ While meeting the requirements of §§ 219.8 and 219.9, the plan must provide fo
 (vi) Appropriate management of other designated areas or recommended designated areas in the plan area, including research natural areas.
 
 (2) Other plan components for integrated resource management to provide for multiple use as necessary.
+
+[77 FR 21260, Apr. 9, 2012, as amended at 81 FR 90737, Dec. 15, 2016]

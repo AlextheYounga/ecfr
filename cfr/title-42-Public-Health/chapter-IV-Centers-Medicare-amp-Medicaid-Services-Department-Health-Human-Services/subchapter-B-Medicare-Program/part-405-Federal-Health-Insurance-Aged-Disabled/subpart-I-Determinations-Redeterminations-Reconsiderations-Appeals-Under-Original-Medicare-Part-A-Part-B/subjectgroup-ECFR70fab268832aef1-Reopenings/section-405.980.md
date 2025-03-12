@@ -1,5 +1,7 @@
 ##### § 405.980 Reopening of initial determinations, redeterminations, reconsiderations, hearings, and reviews. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 (a) *General rules.* (1) A reopening is a remedial action taken to change a binding determination or decision that resulted in either an overpayment or underpayment, even though the binding determination or decision may have been correct at the time it was made based on the evidence of record. That action may be taken by -
 
 (i) A contractor to revise the initial determination or redetermination;

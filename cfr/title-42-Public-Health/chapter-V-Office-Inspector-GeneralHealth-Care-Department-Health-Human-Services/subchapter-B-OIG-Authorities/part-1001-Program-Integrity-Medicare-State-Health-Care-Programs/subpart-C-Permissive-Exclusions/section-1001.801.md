@@ -1,5 +1,7 @@
 ##### § 1001.801 Failure of HMOs and CMPs to furnish medically necessary items and services. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) Circumstances for exclusion. The OIG may exclude an entity -
 
 (1) That is a -

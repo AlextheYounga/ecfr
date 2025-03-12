@@ -1,5 +1,7 @@
 ##### § 423.2014 Request for an ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5128, Jan. 17, 2017.
+
 (a) *Content of the request.* The request for an ALJ hearing must be made in writing, except as set forth in paragraph (b) of this section. The request, including any oral request, must include all of the following:
 
 (1) The name, address, telephone number, and Medicare health insurance claim number of the enrollee.

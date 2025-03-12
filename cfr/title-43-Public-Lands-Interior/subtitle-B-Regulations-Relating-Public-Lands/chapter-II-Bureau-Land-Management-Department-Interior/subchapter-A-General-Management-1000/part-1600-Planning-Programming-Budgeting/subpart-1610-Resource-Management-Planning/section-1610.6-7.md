@@ -1,0 +1,3 @@
+##### § 1610.6-7 Revision. #####
+
+The BLM may revise a resource management plan, as necessary, when monitoring and evaluation findings (§ 1610.6-4), new data, new or revised policy, or other relevant changes in circumstances affect the entire resource management plan or major portions of the resource management plan. Revisions shall comply with all of the requirements of this part for preparing and approving a resource management plan.

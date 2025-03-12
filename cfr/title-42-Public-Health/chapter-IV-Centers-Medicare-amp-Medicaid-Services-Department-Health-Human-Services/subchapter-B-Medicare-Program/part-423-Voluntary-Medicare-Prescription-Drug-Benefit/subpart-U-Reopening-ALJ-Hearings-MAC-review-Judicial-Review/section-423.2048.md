@@ -1,5 +1,7 @@
 ##### § 423.2048 The effect of an ALJ's decision. #####
 
+Link to an amendment published at 82 FR 5135, Jan. 17, 2017.
+
 The decision of the ALJ is binding unless -
 
 (a) An enrollee requests a review of the decision by the MAC within the stated time period or the MAC reviews the decision issued by an ALJ under the procedures set forth in § 423.2110, and the MAC issues a final decision or remand order;

@@ -1,0 +1,11 @@
+##### § 30.9 Review of personnel processes. #####
+
+(a) As part of its affirmative action program, the sponsor must, for each registered apprenticeship program, engage in an annual review of its personnel processes related to the administration of the apprenticeship program to ensure that the sponsor is operating an apprenticeship program free from discrimination based on race, color, religion, national origin, sex, sexual orientation, age (40 or older), genetic information, and disability. This annual review is required regardless of whether the sponsor is underutilized as described in § 30.5(d). The review must be a careful, thorough, and systematic one and include review of all aspects of the apprenticeship program at the program, industry and occupation level, including, but not limited to, the qualifications for apprenticeship, application and selection procedures, wages, outreach and recruitment activities, advancement opportunities, promotions, work assignments, job performance, rotations among all work processes of the occupation, disciplinary actions, handling of requests for reasonable accommodations, and the program's accessibility to individuals with disabilities (including to the use of information and communication technology). The sponsor must make any necessary modifications to its program to ensure that its obligations under this part are met.
+
+(1) *Compliance date.* (i) Current sponsors: A sponsor that has a registered apprenticeship program as of the effective date of this regulation must comply with the obligations of paragraph (a) of this section within two years of the effective date of this rule.
+
+(ii) New sponsors: A sponsor registering with a Registration Agency after the effective date of this regulation shall comply with the obligations of paragraph (a) of this section within two years after the date of registration.
+
+*(2) [Reserved]*
+
+(b) The sponsor must include a description of its review in its written affirmative action plan and identify in the written plan any modifications made or to be made to the program as a result of its review.

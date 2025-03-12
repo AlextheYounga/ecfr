@@ -1,0 +1,9 @@
+##### § 387.403T General requirements. #####
+
+(a) *Cargo.* A household goods freight forwarder may not operate until it has filed with FMCSA an appropriate surety bond, certificate of insurance, qualifications as a self-insurer, or other securities or agreements, in the amounts prescribed in § 387.405, for loss of or damage to household goods.
+
+(b) *Public liability.* A HHGFF may not perform transfer, collection, and delivery service until it has filed with the FMCSA an appropriate surety bond, certificate of insurance, qualifications as a self-insurer, or other securities or agreements, in the amounts prescribed at § 387.405, conditioned to pay any final judgment recovered against such HHGFF for bodily injury to or the death of any person, or loss of or damage to property (except cargo) of others, or, in the case of freight vehicles described at § 387.303T(b)(2), for environmental restoration, resulting from the negligent operation, maintenance, or use of motor vehicles operated by or under its control in performing such service.
+
+(c) *Surety bond or trust fund.* A freight forwarder must have a surety bond or trust fund in effect. The FMCSA will not issue a freight forwarder license until a surety bond or trust fund for the full limit of liability prescribed in § 387.405 is in effect. The freight forwarder license shall remain valid or effective only as long as a surety bond or trust fund remains in effect and shall ensure the financial responsibility of the freight forwarder. The requirements applicable to property broker surety bonds and trust funds in § 387.307 shall apply to the surety bond or trust fund required by this paragraph (c).
+
+[82 FR 5310, Jan. 17, 2017]

@@ -1,5 +1,7 @@
 ##### § 510.500 Financial arrangements under the CJR model. #####
 
+Link to an amendment published at 82 FR 617, Jan. 3, 2017.
+
 (a) *General.* (1) A participant hospital may elect to enter into sharing arrangements.
 
 (2) A participant hospital must not make a gainsharing payment or receive an alignment payment except in accordance with a sharing arrangement. Any gainsharing payments or alignment payments made in accordance with a sharing arrangement must be made only from the participant hospital to the CJR collaborator with whom the participant hospital has signed a collaborator agreement containing a sharing arrangement.

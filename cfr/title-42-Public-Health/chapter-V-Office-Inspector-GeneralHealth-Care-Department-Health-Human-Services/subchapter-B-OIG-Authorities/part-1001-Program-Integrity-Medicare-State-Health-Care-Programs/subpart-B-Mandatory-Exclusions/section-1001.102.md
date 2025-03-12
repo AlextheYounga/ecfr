@@ -1,5 +1,7 @@
 ##### § 1001.102 Length of exclusion. #####
 
+Link to an amendment published at 82 FR 4112, Jan. 12, 2017.
+
 (a) No exclusion imposed in accordance with § 1001.101 will be for less than 5 years.
 
 (b) Any of the following factors may be considered to be aggravating and a basis for lengthening the period of exclusion -

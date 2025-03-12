@@ -1,0 +1,27 @@
+##### § 68.96 Emergency response exercises. #####
+
+(a) *Notification exercises.* At least once each calendar year, the owner or operator of a stationary source with any Program 2 or Program 3 process shall conduct an exercise of the stationary source's emergency response notification mechanisms required under § 68.90(b)(3) or § 68.95(a)(1)(i), as appropriate, before December 19, 2024, and annually thereafter. Owners or operators of responding stationary sources may perform the notification exercise as part of the tabletop and field exercises required in paragraph (b) of this section. The owner/operator shall maintain a written record of each notification exercise conducted over the last five years.
+
+(b) *Emergency response exercise program.* The owner or operator of a stationary source subject to the requirements of § 68.95 shall develop and implement an exercise program for its emergency response program, including the plan required under § 68.95(a)(1). Exercises shall involve facility emergency response personnel and, as appropriate, emergency response contractors. When planning emergency response field and tabletop exercises, the owner or operator shall coordinate with local public emergency response officials and invite them to participate in the exercise. The emergency response exercise program shall include:
+
+(1) *Emergency response field exercises.* The owner or operator shall conduct field exercises involving the simulated accidental release of a regulated substance (*i.e.,* toxic substance release or release of a regulated flammable substance involving a fire and/or explosion).
+
+(i) *Frequency.* As part of coordination with local emergency response officials required by § 68.93, the owner or operator shall consult with these officials to establish an appropriate frequency for field exercises, and shall conduct a field exercise before March 15, 2027, and at a minimum at least once every ten years thereafter, unless the appropriate local emergency response agencies agree in writing that such frequency is impractical. If local emergency response agencies so agree, the owner or operator shall consult with local emergency response officials to establish an alternate appropriate frequency for field exercises.
+
+(ii) *Scope.* Field exercises shall involve tests of the source's emergency response plan, including deployment of emergency response personnel and equipment. Field exercises should include: Tests of procedures to notify the public and the appropriate Federal, state, and local emergency response agencies about an accidental release; tests of procedures and measures for emergency response actions including evacuations and medical treatment; tests of communications systems; mobilization of facility emergency response personnel, including contractors, as appropriate; coordination with local emergency responders; emergency response equipment deployment; and any other action identified in the emergency response program, as appropriate.
+
+(2) *Tabletop exercises.* The owner or operator shall conduct a tabletop exercise involving the simulated accidental release of a regulated substance.
+
+(i) *Frequency.* As part of coordination with local emergency response officials required by § 68.93, the owner or operator shall consult with these officials to establish an appropriate frequency for tabletop exercises, and shall conduct a tabletop exercise before December 21, 2026, and at a minimum of at least once every three years thereafter.
+
+(ii) *Scope.* Tabletop exercises shall involve discussions of the source's emergency response plan. The exercise should include discussions of: Procedures to notify the public and the appropriate Federal, state, and local emergency response agencies; procedures and measures for emergency response including evacuations and medical treatment; identification of facility emergency response personnel and/or contractors and their responsibilities; coordination with local emergency responders; procedures for emergency response equipment deployment; and any other action identified in the emergency response plan, as appropriate.
+
+(3) *Documentation.* The owner or operator shall prepare an evaluation report within 90 days of each field and tabletop exercise. The report shall include a description of the exercise scenario, names and organizations of each participant, an evaluation of the exercise results including lessons learned, recommendations for improvement or revisions to the emergency response exercise program and emergency response program, and a schedule to promptly address and resolve recommendations.
+
+(c) *Alternative means of meeting exercise requirements.* The owner or operator may satisfy the requirement to conduct notification, field and/or tabletop exercises through:
+
+(1) Exercises conducted to meet other Federal, state or local exercise requirements, provided the exercise meets the requirements of paragraphs (a) and/or (b) of this section, as appropriate.
+
+(2) Response to an accidental release, provided the response includes the actions indicated in paragraphs (a) and/or (b) of this section, as appropriate. When used to meet field and/or tabletop exercise requirements, the owner or operator shall prepare an after-action report comparable to the exercise evaluation report required in paragraph (b)(3) of this section, within 90 days of the incident.
+
+[82 FR 4702, Jan. 13, 2017, as amended at 84 FR 69915, Dec. 19, 2019; 89 FR 17691, Mar. 11, 2024]

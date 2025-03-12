@@ -1,0 +1,3 @@
+##### § 1003.1510 Failure to request a hearing. #####
+
+If the respondent does not request a hearing within 60 days after the notice prescribed by § 1003.1500(a) is received, as determined by 42 CFR 1005.2(c), by the respondent, the OIG may impose the proposed penalty, assessment, and exclusion, or any less severe penalty, assessment, or exclusion. The OIG shall notify the respondent in any manner authorized by Rule 4 of the Federal Rules of Civil Procedure of any penalty, assessment, and exclusion that have been imposed and of the means by which the respondent may satisfy the judgment. The respondent has no right to appeal a penalty, an assessment, or an exclusion with respect to which he or she has not made a timely request for a hearing under 42 CFR 1005.2.

@@ -1,7 +1,5 @@
 ##### § 1002.1 Fees for records search, review, copying, certification, and related services. #####
 
-Link to an amendment published at 81 FR 90751, Dec. 15, 2016.
-
 Certifications and copies of such tariffs, reports and other public records and documents on file with the Surface Transportation Board as may be practicable to furnish, as well as searches and copying of records not considered public under the Freedom of Information Act (5 U.S.C. 552), will be furnished on the following basis:
 
 (a) Certificate of the Records Officer, $18.00.
@@ -72,6 +70,14 @@ Certifications and copies of such tariffs, reports and other public records and 
 (v) The existence and magnitude of a commercial interest: Whether the requester has a commercial interest that would be furthered by the requested disclosure; and, if so
 
 (vi) The primary interest in disclosure: Whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public interest in disclosure, that disclosure is “primarily in the commercial interest of the requester.” This fee waiver and reduction provision will be implemented in accordance with guidelines issued by the U.S. Department of Justice on April 2, 1987 and entitled “New FOIA Fee Waiver Policy Guidance.” A copy of these guidelines may be inspected or obtained from the Surface Transportation Board's Freedom of Information Office, Washington, DC 20423-0001.
+
+(15) No fees will be assessed if the FOIA Officer fails to comply with any time limit under the FOIA or these regulations, and has not timely notified the requester, in writing, that an unusual circumstance exists. If an unusual circumstance exists, and timely, written notice is given to the requester, the failure to meet the time limit may be excused an additional 10 working days before fees are automatically waived under this paragraph (g)(15).
+
+(16) If the FOIA Officer determines that unusual circumstances apply and more than 5,000 pages are necessary to respond to a request, fees may be charged if timely, written notice to the requester is provided and discussed with the requester via mail, Email, or telephone (or if at least three good-faith attempts are made to do so) regarding how the requester could effectively limit the scope of the request.
+
+(17) If a court has determined that exceptional circumstances exist, a failure to comply with time limits imposed by these regulations or FOIA shall be excused for the length of time provided by court order.
+
+(18) Fees may not be avoided by filing multiple requests at the same time. When the FOIA Officer reasonably believes that a requester, alone or with others, is breaking down one request into a series of requests to avoid fees, the requests will be combined, and the requester or requesters will be charged accordingly.
 
 (h) Fees for services described in paragraphs (a) through (g) of this section may be charged to accounts established in accordance with 49 CFR 1002.2(a)(2), or paid for by check, money order, currency, or credit card in accordance with 49 CFR 1002.2(a)(3).
 

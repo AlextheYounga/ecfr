@@ -1,5 +1,7 @@
 ##### § 423.1990 Expedited access to judicial review. #####
 
+Link to an amendment published at 82 FR 5127, Jan. 17, 2017.
+
 (a) *Process for expedited access to judicial review.* (1) For purposes of this section, a “review entity” means an entity of up to three reviewers who are ALJs or members of the Departmental Appeals Board, as determined by the Secretary.
 
 (2) In order to obtain expedited access to judicial review (EAJR), a review entity must certify that the MAC does not have the authority to decide the question of law or regulation relevant to the matters in dispute and that there is no material issue of fact in dispute.

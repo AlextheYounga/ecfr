@@ -1,0 +1,3 @@
+##### § 88.23 Appeal of reimbursement denial. #####
+
+After exhausting procedural and/or contractual administrative remedies, a CCE or NPN medical director or affiliated provider may submit a written appeal of a WTC Health Program decision to withhold reimbursement or payment for treatment found to be not medically necessary or not in accordance with approved WTC Health Program medical treatment protocols pursuant to § 88.20 of this part. Appeal procedures are published on the WTC Health Program Web site.

@@ -1,5 +1,7 @@
 ##### § 423.2100 Medicare appeals council review: general. #####
 
+Link to an amendment published at 82 FR 5137, Jan. 17, 2017.
+
 (a) Consistent with § 423.1974, the enrollee may request that the MAC review an ALJ's decision or dismissal.
 
 (b) When the MAC reviews an ALJ's written decision, it undertakes a de novo review.

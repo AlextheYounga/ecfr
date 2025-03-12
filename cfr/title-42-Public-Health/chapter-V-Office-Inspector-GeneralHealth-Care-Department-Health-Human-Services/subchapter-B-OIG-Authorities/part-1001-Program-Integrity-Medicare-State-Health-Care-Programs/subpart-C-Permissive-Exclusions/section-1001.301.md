@@ -1,5 +1,7 @@
 ##### § 1001.301 Conviction relating to obstruction of an investigation. #####
 
+Link to an amendment published at 82 FR 4112, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude an individual or entity that has been convicted, under Federal or State law, in connection with the interference with or obstruction of any investigation into any criminal offense described in § 1001.101 or § 1001.201.
 
 (b) *Length of exclusion.* (1) An exclusion imposed in accordance with this section will be for a period of 3 years, unless aggravating or mitigating factors listed in paragraphs (b)(2) and (b)(3) of this section form the basis for lengthening or shortening that period.

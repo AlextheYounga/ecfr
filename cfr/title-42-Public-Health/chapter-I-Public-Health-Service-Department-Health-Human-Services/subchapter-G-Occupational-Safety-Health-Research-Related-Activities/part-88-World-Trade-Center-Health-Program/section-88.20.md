@@ -1,0 +1,7 @@
+##### § 88.20 Authorization of treatment. #####
+
+(a) *Generally.* Medically necessary treatment of certified WTC-related health conditions and certified health conditions medically associated with WTC-related health conditions will be provided through the CCEs or the NPN as permitted under WTC Health Program treatment protocols and in accordance with all applicable WTC Health Program policies and procedures.
+
+(b) *Standard for determining medical necessity.* All treatment provided under the WTC Health Program will adhere to a standard which is reasonable and appropriate; based on scientific evidence, professional standards of care, expert opinion or any other relevant information; and which has been included in the medical treatment protocols developed by the Data Centers, with input from the CCEs, and approved by the Administrator of the WTC Health Program.
+
+(c) *Treatment pending certification.* While certification of a condition is pending, authorization for treatment of a WTC-related health condition or a health condition medically associated with a WTC-related health condition must be obtained from the WTC Health Program before treatment is provided, except for the provision of treatment for a medical emergency.

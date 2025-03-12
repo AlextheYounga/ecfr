@@ -1,7 +1,5 @@
 ##### § 1003.102 Grounds. #####
 
-Link to an amendment published at 81 FR 92362, December 19, 2016.
-
 It is deemed to be in the public interest for an adjudicating official or the Board to impose disciplinary sanctions against any practitioner who falls within one or more of the categories enumerated in this section, but these categories do not constitute the exclusive grounds for which disciplinary sanctions may be imposed in the public interest. Nothing in this regulation should be read to denigrate the practitioner's duty to represent zealously his or her client within the bounds of the law. A practitioner who falls within one of the following categories shall be subject to disciplinary sanctions in the public interest if he or she:
 
 (a) Charges or receives, either directly or indirectly:
@@ -24,7 +22,13 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (1) Contains a material misrepresentation of fact or law, or omits a fact necessary to make the statement considered as a whole not materially misleading, or,
 
-(2) Contains an assertion about the practitioner or his or her qualifications or services that cannot be substantiated. A practitioner shall not state or imply that he or she has been recognized or certified as a specialist in immigration and/or nationality law unless such certification is granted by the appropriate state regulatory authority or by an organization that has been approved by the appropriate state regulatory authority to grant such certification;
+(2) Contains an assertion about the practitioner or the practitioner's qualifications or services that cannot be substantiated. A practitioner shall not state or imply that the practitioner has been recognized or certified as a specialist in immigration or nationality law unless such certification is granted by the appropriate State regulatory authority or by an organization that has been approved by the appropriate State regulatory authority to grant such certification. An accredited representative shall not state or imply that the accredited representative:
+
+(i) Is approved to practice before the Immigration Courts or the Board, if the representative is only approved as an accredited representative before DHS;
+
+(ii) Is an accredited representative for an organization other than a recognized organization through which the representative acquired accreditation; or
+
+(iii) Is an attorney.
 
 (g) Engages in contumelious or otherwise obnoxious conduct, with regard to a case in which he or she acts in a representative capacity, which would constitute contempt of court in a judicial proceeding;
 
@@ -74,8 +78,10 @@ It is deemed to be in the public interest for an adjudicating official or the Bo
 
 (1) Has engaged in *practice* or *preparation* as those terms are defined in §§ 1001.1(i) and (k), and
 
-(2) Has been deemed to have engaged in a pattern or practice of failing to submit such forms, in compliance with applicable rules and regulations. Notwithstanding the foregoing, in each case where the respondent is represented, every pleading, application, motion, or other filing shall be signed by the practitioner of record in his or her individual name; or
+(2) Has been deemed to have engaged in a pattern or practice of failing to submit such forms, in compliance with applicable rules and regulations. Notwithstanding the foregoing, in each case where the respondent is represented, every pleading, application, motion, or other filing shall be signed by the practitioner of record in his or her individual name;
 
-(u) Repeatedly files notices, motions, briefs, or claims that reflect little or no attention to the specific factual or legal issues applicable to a client's case, but rather rely on boilerplate language indicative of a substantial failure to competently and diligently represent the client.
+(u) Repeatedly files notices, motions, briefs, or claims that reflect little or no attention to the specific factual or legal issues applicable to a client's case, but rather rely on boilerplate language indicative of a substantial failure to competently and diligently represent the client; or
 
-[65 FR 39526, June 27, 2000, as amended at 73 FR 76923, Dec. 18, 2008]
+(v) Acts outside the scope of the representative's approved authority as an accredited representative.
+
+[65 FR 39526, June 27, 2000, as amended at 73 FR 76923, Dec. 18, 2008, 81 FR 92362, Dec. 19, 2016]

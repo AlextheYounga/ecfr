@@ -1,5 +1,7 @@
 ##### § 423.2136 Judicial review. #####
 
+Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
+
 (a) *General rule.* To the extent authorized by sections 1876(c)(5)(B) and 1860D-4(h) of the Act and consistent with § 423.1976, an enrollee may obtain a court review of a MAC decision if the amount in controversy meets the threshold requirement estimated annually by the Secretary.
 
 (b) *Court in which to file civil action.* (1) Consistent with § 423.1976(c), any civil action described in paragraph (a) of this section must be filed in the District Court of the United States for the judicial district in which the enrollee resides.

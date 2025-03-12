@@ -1,3 +1,17 @@
-##### § 192.12 xxx #####
+##### § 192.12 Underground natural gas storage facilities. #####
 
-Link to an amendment published at 81 FR 91871, December 19, 2016.
+Underground natural gas storage facilities must meet the following requirements:
+
+(a) Each underground natural gas storage facility that uses a solution-mined salt cavern reservoir for gas storage constructed after July 18, 2017 must meet all requirements and recommendations of API RP 1170 (incorporated by reference, see § 192.7).
+
+(b) Each underground natural gas storage facility that uses a solution-mined salt cavern reservoir for storage including those constructed not later than July 18, 2017 must meet the operations, maintenance, integrity demonstration and verification, monitoring, threat and hazard identification, assessment, remediation, site security, emergency response and preparedness, and recordkeeping requirements and recommendations of API RP 1170, sections 9, 10, and 11 (incorporated by reference, see § 192.7) by January 18, 2018.
+
+(c) Each underground natural gas storage facility that uses a depleted hydrocarbon reservoir or an aquifer reservoir for storage constructed after July 18, 2017 must meet all requirements and recommendations of API RP 1171 (incorporated by reference, see § 192.7).
+
+(d) Each underground natural gas storage facility that uses a depleted hydrocarbon reservoir or an aquifer reservoir for gas storage, including those constructed not later than July 18, 2017 must meet the operations, maintenance, integrity demonstration and verification, monitoring, threat and hazard identification, assessment, remediation, site security, emergency response and preparedness, and recordkeeping requirements and recommendations of API RP 1171, sections 8, 9, 10, and 11 (incorporated by reference, see § 192.7) by January 18, 2018.
+
+(e) Operators of underground gas storage facilities must establish and follow written procedures for operations, maintenance, and emergencies implementing the requirements of API RP 1170 and API RP 1171, as required under this section, including the effective dates as applicable, and incorporate such procedures into their written procedures for operations, maintenance, and emergencies established pursuant to § 192.605.
+
+(f) With respect to the incorporation by reference of API RP 1170 and API RP 1171 in this section, the non-mandatory provisions (*i.e.,* provisions containing the word “should” or other non-mandatory language) are adopted as mandatory provisions under the authority of the pipeline safety laws except when the operator includes or references written technical justifications in its program or procedural manual, described in paragraph (a)(5) of this section, as to why compliance with a provision of the recommended practice is not practicable and not necessary for safety with respect to specified underground storage facilities or equipment. The justifications for any deviation from any provision of API RP 1170 and API RP 1171 must be technically reviewed and documented by a subject matter expert to ensure there will be no adverse impact on design, construction, operations, maintenance, integrity, emergency preparedness and response, and overall safety and must be dated and approved by a senior executive officer, vice president, or higher office with responsibility of the underground natural gas storage facility. An operator must discontinue use of any variance where PHMSA determines and provides notice that the variance adversely impacts design, construction, operations, maintenance, integrity, emergency preparedness and response, or overall safety.
+
+[Amdt. 192-122, 81 FR 91873, Dec. 19, 2016]

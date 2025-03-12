@@ -1,5 +1,7 @@
 ##### § 1000.10 General definitions. #####
 
+Link to an amendment published at 82 FR 4111, Jan. 12, 2017.
+
 In this chapter, unless the context indicates otherwise -
 
 *Act* means the Social Security Act, and titles referred to are titles of that Act.

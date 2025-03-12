@@ -1,5 +1,7 @@
 ##### § 423.1976 Judicial review. #####
 
+Link to an amendment published at 82 FR 5126, Jan. 17, 2017.
+
 (a) *Review of ALJ's decision.* The enrollee may request judicial review of an ALJ's decision if -
 
 (1) The MAC denied the enrollee's request for review; and

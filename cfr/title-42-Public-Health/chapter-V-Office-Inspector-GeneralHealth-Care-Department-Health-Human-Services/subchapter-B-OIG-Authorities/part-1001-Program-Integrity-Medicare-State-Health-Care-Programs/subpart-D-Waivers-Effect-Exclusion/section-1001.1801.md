@@ -1,5 +1,7 @@
 ##### § 1001.1801 Waivers of exclusions. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) The OIG has the authority to grant or deny a request from a State health care program that an exclusion from that program be waived with respect to an individual or entity, except that no waiver may be granted with respect to an exclusion under § 1001.101(b). The request must be in writing and from an individual directly responsible for administering the State health care program.
 
 (b) With respect to exclusions under § 1001.101(a), a request from a State health care program for a waiver of the exclusion will only be considered if the individual or entity is the sole community physician or the sole source of essential specialized services in a community.

@@ -1,5 +1,7 @@
 ##### § 405.1060 Applicability of national coverage determinations (NCDs). #####
 
+Link to an amendment published at 82 FR 5121, Jan. 17, 2017.
+
 (a) *General rule.* (1) An NCD is a determination by the Secretary of whether a particular item or service is covered nationally under Medicare.
 
 (2) An NCD does not include a determination of what code, if any, is assigned to a particular item or service covered under Medicare or a determination of the amount of payment made for a particular item or service.

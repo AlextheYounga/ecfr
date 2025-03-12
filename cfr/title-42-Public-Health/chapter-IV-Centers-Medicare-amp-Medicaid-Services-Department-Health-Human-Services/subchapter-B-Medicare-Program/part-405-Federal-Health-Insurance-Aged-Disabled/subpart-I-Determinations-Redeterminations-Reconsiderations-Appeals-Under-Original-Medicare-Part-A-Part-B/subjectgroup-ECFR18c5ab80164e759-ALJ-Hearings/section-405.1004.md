@@ -1,5 +1,7 @@
 ##### § 405.1004 Right to ALJ review of QIC notice of dismissal. #####
 
+Link to an amendment published at 82 FR 5109, Jan. 17, 2017.
+
 (a) A party to a QIC's dismissal of a request for reconsideration has a right to have the dismissal reviewed by an ALJ if -
 
 (1) The party files a written request for an ALJ review within 60 calendar days after receipt of the notice of the QIC's dismissal.

@@ -1,5 +1,7 @@
 ##### § 410.62 Outpatient speech-language pathology services: Conditions and exclusions. #####
 
+Link to an amendment published at 82 FR 4578, Jan. 13, 2017.
+
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(ii) of this section, Medicare Part B pays for outpatient speech-language pathology services only if they are furnished by an individual who meets the qualifications for a speech-language pathologist in § 484.4 of this chapter and only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine or osteopathy.

@@ -1,5 +1,7 @@
 ##### § 1194.21 Software applications and operating systems. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 (a) When software is designed to run on a system that has a keyboard, product functions shall be executable from a keyboard where the function itself or the result of performing a function can be discerned textually.
 
 (b) Applications shall not disrupt or disable activated features of other products that are identified as accessibility features, where those features are developed and documented according to industry standards. Applications also shall not disrupt or disable activated features of any operating system that are identified as accessibility features where the application programming interface for those accessibility features has been documented by the manufacturer of the operating system and is available to the product developer.

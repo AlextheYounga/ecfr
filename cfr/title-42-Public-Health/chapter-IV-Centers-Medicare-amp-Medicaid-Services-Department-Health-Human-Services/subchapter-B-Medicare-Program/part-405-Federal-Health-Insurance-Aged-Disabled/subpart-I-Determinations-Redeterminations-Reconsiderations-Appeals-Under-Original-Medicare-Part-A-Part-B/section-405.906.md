@@ -1,5 +1,7 @@
 ##### § 405.906 Parties to the initial determinations, redeterminations, reconsiderations, hearings, and reviews. #####
 
+Link to an amendment published at 82 FR 5106, Jan. 17, 2017.
+
 (a) *Parties to the initial determination.* The parties to the initial determination are the following individuals and entities:
 
 (1) A beneficiary who files a claim for payment under Medicare Part A or Part B or has had a claim for payment filed on his or her behalf, or in the case of a deceased beneficiary, when there is no estate, any person obligated to make or entitled to receive payment in accordance with part 424, subpart E of this chapter. Payment by a third party payer does not entitle that entity to party status.

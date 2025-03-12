@@ -1,5 +1,7 @@
 ##### § 1001.701 Excessive claims or furnishing of unnecessary or substandard items and services. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude an individual or entity that has -
 
 (1) Submitted, or caused to be submitted, bills or requests for payments under Medicare or any of the State health care programs containing charges or costs for items or services furnished that are substantially in excess of such individual's or entity's usual charges or costs for such items or services; or

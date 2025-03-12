@@ -1,7 +1,5 @@
 ##### § 382.401 Retention of records. #####
 
-Link to an amendment published at 81 FR 87725, Dec. 5, 2016.
-
 (a) *General requirement.* Each employer shall maintain records of its alcohol misuse and controlled substances use prevention programs as provided in this section. The records shall be maintained in a secure location with controlled access.
 
 (b) *Period of retention.* Each employer shall maintain the records in accordance with the following schedule:
@@ -18,7 +16,7 @@ Link to an amendment published at 81 FR 87725, Dec. 5, 2016.
 
 (v) Calibration documentation,
 
-(vi) Records related to the administration of the alcohol and controlled substances testing programs, and
+(vi) Records related to the administration of the alcohol and controlled substances testing program, including records of all driver violations, and
 
 (vii) A copy of each annual calendar year summary required by § 382.403.
 
@@ -102,4 +100,4 @@ Link to an amendment published at 81 FR 87725, Dec. 5, 2016.
 
 (2) The information collection requirements of this part are found in the following sections: Sections 382.105, 382.113, 382.301, 382.303, 382.305, 382.307, 382.401, 382.403, 382.405, 382.409, 382.411, 382.601, 382.603.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013]
+[66 FR 43103, Aug. 17, 2001, as amended at 67 FR 61821, Oct. 2, 2002; 68 FR 75459, Dec. 31, 2003; 78 FR 58479, Sept. 24, 2013; 81 FR 87725, Dec. 5, 2016]

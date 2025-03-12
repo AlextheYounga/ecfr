@@ -1,5 +1,7 @@
 ##### § 478.40 Beneficiary's right to a hearing. #####
 
+Link to an amendment published at 82 FR 5139, Jan. 17, 2017.
+
 (a) *Amount in controversy.* If the amount in controversy is at least $200, a beneficiary (but not a provider or practitioner) who is dissatisfied with a QIO reconsidered determination may obtain a hearing by an administrative law judge (ALJ) of the Office of Hearings and Appeals of the SSA.
 
 (b) *Subject matter.* A beneficiary has a right to a hearing on the following issues:

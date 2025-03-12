@@ -1,5 +1,7 @@
 ##### § 1001.1101 Failure to disclose certain information. #####
 
+Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude any entity that did not fully and accurately, or completely, make disclosures as required by section 1124, 1124A or 1126 of the Act, and by part 455, subpart B and part 420, subpart C of this title.
 
 (b) *Length of exclusion.* The following factors will be considered in determining the length of an exclusion under this section -

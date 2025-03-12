@@ -1,7 +1,5 @@
 ##### § 1.664 When would FDA withdraw accreditation? #####
 
-Link to an amendment published at 81 FR 90193, Dec. 14, 2016.
-
 (a) *Mandatory withdrawal.* FDA will withdraw accreditation from a third-party certification body:
 
 (1) Except as provided in paragraph (b) of this section, if the food or facility certified under this subpart is linked to an outbreak of foodborne illness or chemical or physical hazard that has a reasonable probability of causing serious adverse health consequences or death in humans or animals;
@@ -9,6 +7,8 @@ Link to an amendment published at 81 FR 90193, Dec. 14, 2016.
 (2) Following an evaluation and finding by FDA that the third-party certification body no longer complies with the applicable requirements of this subpart; or
 
 (3) Following its refusal to allow FDA to access records under § 1.658 or to conduct an audit, assessment, or investigation necessary to ensure continued compliance with this subpart.
+
+(4) If payment of the third-party certification body's annual fee is not received within 90 days of the payment due date, as specified in § 1.725(c)(3).
 
 (b) *Exception.* FDA may waive mandatory withdrawal under paragraph (a)(1) of this section, if FDA:
 
@@ -37,3 +37,5 @@ Link to an amendment published at 81 FR 90193, Dec. 14, 2016.
 (2) FDA may revoke the recognition of an accreditation body whenever FDA determines there is good cause for revocation of recognition under § 1.634.
 
 (h) *Public notice of withdrawal accreditation.* FDA will provide notice on the Web site described in § 1.690 of its withdrawal of accreditation of a third-party certification body and provide a description of the basis for withdrawal.
+
+[80 FR 74650, Nov. 27, 2015, as amended at 81 FR 90193, Dec. 14, 2016]

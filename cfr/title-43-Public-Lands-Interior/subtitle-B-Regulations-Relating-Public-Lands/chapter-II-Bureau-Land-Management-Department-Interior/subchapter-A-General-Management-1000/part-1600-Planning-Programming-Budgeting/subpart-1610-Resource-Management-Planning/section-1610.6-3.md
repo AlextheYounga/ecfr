@@ -1,0 +1,9 @@
+##### § 1610.6-3 Conformity and implementation. #####
+
+(a) All future resource management authorizations and actions, and subsequent more detailed or specific planning, shall conform to the plan components of the approved resource management plan.
+
+(b) After a resource management plan or plan amendment is approved, and if otherwise authorized by law, regulation, contract, permit, cooperative agreement, or other instrument of occupancy and use, the BLM shall take appropriate measures, subject to valid existing rights, to make operations and activities under existing permits, contracts, cooperative agreements, or other instruments for occupancy and use, conform to the plan components of the approved resource management plan or plan amendment within a reasonable period of time. Any person adversely affected by a specific action being proposed to implement some portion of a resource management plan or plan amendment may appeal such action pursuant to part 4, subpart E of this chapter, at the time the specific action is proposed for implementation.
+
+(c) If a proposed action is not in conformance with a plan component, and the deciding official determines that such action warrants further consideration before a resource management plan revision is scheduled, such consideration shall be through a resource management plan amendment in accordance with § 1610.6-6 of this part.
+
+(d) More detailed and site specific plans for coal, oil shale and tar sand resources shall be prepared in accordance with specific regulations for those resources: Part 3400 of this title for coal; part 3900 of this title for oil shale; and part 3140 of this title for tar sand. These activity plans shall be in conformance with land use plans prepared and approved under the provisions of this part.

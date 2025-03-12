@@ -1,0 +1,5 @@
+##### § 1003.1560 Notice to other agencies. #####
+
+(a) Whenever a penalty, an assessment, or an exclusion becomes final, the following organizations and entities will be notified about such action and the reasons for it: The appropriate State or local medical or professional association; the appropriate quality improvement organization; as appropriate, the State agency that administers each State health care program; the appropriate Medicare carrier or intermediary; the appropriate State or local licensing agency or organization (including the Medicare and Medicaid State survey agencies); and the long-term-care ombudsman. In cases involving exclusions, notice will also be given to the public of the exclusion and its effective date.
+
+(b) When the OIG proposes to exclude a nursing facility under this part, the OIG will, at the same time the facility is notified, notify the appropriate State licensing authority, the State Office of Aging, the long-term-care ombudsman, and the State Medicaid agency of the OIG's intention to exclude the facility.

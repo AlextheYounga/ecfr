@@ -1,0 +1,5 @@
+##### § 1003.1000 Basis for civil money penalties, assessments, and exclusions. #####
+
+(a) The OIG may impose a penalty, an assessment, and an exclusion against any person who it determines offers or transfers remuneration (as defined in § 1003.110) to any individual eligible for benefits under Medicare or a State health care program that such person knows, or should know, is likely to influence such individual to order or to receive from a particular provider, practitioner, or supplier, any item or service for which payment may be made, in whole or in part, under Medicare or a State health care program.
+
+(b) The OIG may impose a penalty against any person who it determines offered any financial or other incentive for an individual entitled to benefits under Medicare not to enroll, or to terminate enrollment, under a group health plan or a large group health plan that would, in the case of such enrollment, be a primary plan as defined in section 1862(b)(2)(A) of the Act.

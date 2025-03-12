@@ -1,10 +1,8 @@
 ##### § 390.40 What responsibilities do intermodal equipment providers have under the Federal Motor Carrier Safety Regulations (49 CFR parts 350-399)? #####
 
-Link to an amendment published at 78 FR 52654, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63712, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
+An intermodal equipment provider must—
 
-An intermodal equipment provider must -
-
-(a) Identify its operations to the FMCSA by filing the Form MCS-150C required by § 390.19.
+(a) Identify its operations to the FMCSA by filing the Form MCSA-1 required by § 390.201.
 
 (b) Mark its intermodal equipment with the USDOT number as required by § 390.21 before tendering the equipment to a motor carrier.
 
@@ -24,4 +22,4 @@ An intermodal equipment provider must -
 
 (j) Refrain from placing intermodal equipment in service on the public highways if that equipment has been found to pose an imminent hazard, as defined in § 386.72(b)(3) of this chapter.
 
-[73 FR 76822, Dec. 17, 2008, as amended at 74 FR 68708, Dec. 29, 2009; 78 FR 58483, Sept. 24, 2013; 79 FR 59457, Oct. 2, 2014]
+[73 FR 76822, Dec. 17, 2008, as amended at 74 FR 68708, Dec. 29, 2009; 78 FR 58483, Sept. 24, 2013; 79 FR 59457, Oct. 2, 2014; 80 FR 63712, Oct. 21, 2015]Effective Date Note:At 82 FR 5318, Jan. 17, 2017, § 390.40 was suspended, effective Jan. 14, 2017.

@@ -1,6 +1,6 @@
 ##### § 1.7874-12T Definitions (temporary). #####
 
-(a) *Definitions.* Except as otherwise provided, the following definitions apply for purposes of §§ 1.367(b)-4T, 1.956-2T, 1.7701(l)-4T, 1.7874-2, 1.7874-2T, and 1.7874-6T through 1.7874-11T.
+(a) *Definitions.* Except as otherwise provided, the following definitions apply for purposes of this section and §§ 1.367(b)-4T, 1.956-2T, 1.7701(l)-4T, 1.7874-2, 1.7874-2T, 1.7874-4, 1.7874-5, and 1.7874-6T through 1.7874-11T.
 
 (1) An *affiliated group* has the meaning set forth in section 1504(a) but without regard to section 1504(b)(3), except that section 1504(a) is applied by substituting “more than 50 percent” for “at least 80 percent” each place it appears. A *member of the affiliated group* is an entity included in the affiliated group.
 
@@ -62,4 +62,4 @@
 
 (c) *Expiration date.* This section expires on or before April 4, 2019.
 
-[T.D. 9761, 81 FR 20907, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016]PUBLIC LAW 74, 84TH CONGRESS
+[T.D. 9761, 81 FR 20907, Apr. 8, 2016, as amended at 81 FR 40812, June 23, 2016; T.D. 9812, 82 FR 5401, Jan. 18, 2017]PUBLIC LAW 74, 84TH CONGRESS

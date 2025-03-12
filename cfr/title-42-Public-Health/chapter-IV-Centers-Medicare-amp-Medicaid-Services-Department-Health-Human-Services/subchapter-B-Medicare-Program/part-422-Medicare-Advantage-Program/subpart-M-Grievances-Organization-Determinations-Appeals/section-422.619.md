@@ -1,5 +1,7 @@
 ##### § 422.619 How an MA organization must effectuate expedited reconsidered determinations. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Reversals by the MA organization.* If on reconsideration of an expedited request for service, the MA organization completely reverses its organization determination, the MA organization must authorize or provide the service under dispute as expeditiously as the enrollee's health condition requires, but no later than 72 hours after the date the MA organization receives the request for reconsideration (or no later than upon expiration of an extension described in § 422.590(e)).
 
 (b) *Reversals by the independent outside entity.* If the MA organization's determination is reversed in whole or in part by the independent outside entity, the MA organization must authorize or provide the service under dispute as expeditiously as the enrollee's health condition requires but no later than 72 hours from the date it receives notice reversing the determination. The MA organization must inform the independent outside entity that the organization has effectuated the decision.

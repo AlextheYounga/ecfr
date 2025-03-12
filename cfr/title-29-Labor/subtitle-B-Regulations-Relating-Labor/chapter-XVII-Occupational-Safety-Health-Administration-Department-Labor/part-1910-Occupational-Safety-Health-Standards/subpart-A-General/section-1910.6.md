@@ -1,7 +1,5 @@
 ##### § 1910.6 Incorporation by reference. #####
 
-Link to an amendment published at 81 FR 82981, Nov. 18, 2016.
-
 (a)(1) The standards of agencies of the U.S. Government, and organizations which are not agencies of the U.S. Government which are incorporated by reference in this part, have the same force and effect as other standards in this part. Only the mandatory provisions (i.e., provisions containing the word “shall” or other mandatory language) of standards incorporated by reference are adopted as standards under the Occupational Safety and Health Act.
 
 (2) Any changes in the standards incorporated by reference in this part and an official historic file of such changes are available for inspection in the Docket Office at the national office of the Occupational Safety and Health Administration, U.S. Department of Labor, Washington, DC 20910; telephone: 202-693-2350 (TTY number: 877-889-5627).
@@ -44,7 +42,7 @@ Link to an amendment published at 81 FR 82981, Nov. 18, 2016.
 
 (8) ANSI A14.2-56 Safety Code for Portable Metal Ladders, Supplemented by ANSI A14.2a-77, IBR approved for § 1910.261 (a)(3)(v) and (c)(3)(i).
 
-(9) ANSI A14.3-56 Safety Code for Fixed Ladders, IBR approved for §§ 1910.68(b) (4) and (12); 1910.179(c)(2); and 1910.261 (a)(3)(vi) and (c)(3)(i).
+(9) ANSI A14.3-56 Safety Code for Fixed Ladders, IBR approved for §§ 1910.68(b)(4); and 1910.261 (a)(3)(vi) and (c)(3)(i).
 
 (10) ANSI A17.1-65 Safety Code for Elevators, Dumbwaiters and Moving Walks, Including Supplements, A17.1a (1967); A17.1b (1968); A17.1c (1969); A17.1d (1970), IBR approved for § 1910.261 (a)(3)(vii), (g)(11)(i), and (l)(4).
 
@@ -266,7 +264,7 @@ Link to an amendment published at 81 FR 82981, Nov. 18, 2016.
 
 (7) ASTM B 88-69, Seamless Copper Water Tube, IBR approved for § 1910.110.
 
-(8) ASTM B 117-64, Salt Spray (Fog) Test, IBR approved for § 1910.268.
+(8) [Reserved]
 
 (9) ASTM B 210-68, Aluminum-Alloy Drawn Seamless Tubes, IBR approved for § 1910.110.
 
@@ -324,7 +322,7 @@ Link to an amendment published at 81 FR 82981, Nov. 18, 2016.
 
 (j) The following material is available for purchase from the Department of Commerce:
 
-(1) Commercial Standard, CS 202-56 (1961) “Industrial Lifts and Hinged Loading Ramps,” IBR approved for § 1910.30(a)(3).
+(1) [Reserved]
 
 (2) Publication “Model Performance Criteria for Structural Fire Fighters' Helmets,” IBR approved for § 1910.156(e)(5)(i).
 

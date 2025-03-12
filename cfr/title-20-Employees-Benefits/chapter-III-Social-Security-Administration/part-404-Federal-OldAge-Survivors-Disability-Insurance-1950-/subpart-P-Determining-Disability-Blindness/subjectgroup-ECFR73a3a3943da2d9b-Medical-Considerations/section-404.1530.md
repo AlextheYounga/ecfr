@@ -1,5 +1,7 @@
 ##### § 404.1530 Need to follow prescribed treatment. #####
 
+Link to an amendment published at 82 FR 5871, Jan. 18, 2017.
+
 (a) *What treatment you must follow.* In order to get benefits, you must follow treatment prescribed by your physician if this treatment can restore your ability to work.
 
 (b) *When you do not follow prescribed treatment.* If you do not follow the prescribed treatment without a good reason, we will not find you disabled or, if you are already receiving benefits, we will stop paying you benefits.

@@ -1,5 +1,7 @@
 ##### § 1001.1051 Exclusion of individuals with ownership or control interest in sanctioned entities. #####
 
+Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude any individual who -
 
 (1) Has a direct or indirect ownership or control interest in a sanctioned entity, and who knows or should know (as defined in section 1128A(i)(6) of the Act) of the action constituting the basis for the conviction or exclusion set forth in paragraph (b) of this section; or

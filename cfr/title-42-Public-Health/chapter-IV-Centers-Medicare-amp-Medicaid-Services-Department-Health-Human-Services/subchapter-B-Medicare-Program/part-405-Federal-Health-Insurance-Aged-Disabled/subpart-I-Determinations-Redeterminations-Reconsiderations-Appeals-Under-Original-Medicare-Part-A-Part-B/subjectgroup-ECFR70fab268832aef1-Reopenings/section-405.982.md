@@ -1,5 +1,7 @@
 ##### § 405.982 Notice of a revised determination or decision. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 (a) *When adjudicators initiate reopenings.* When any determination or decision is reopened and revised as provided in § 405.980, the contractor, QIC, ALJ, or the MAC must mail its revised determination or decision to the parties to that determination or decision at their last known address. In the case of a full or partial reversal resulting in issuance of a payment to a provider or supplier, a revised electronic or paper remittance advice notice must be issued by the Medicare contractor. An adverse revised determination or decision must state the rationale and basis for the reopening and revision and any right to appeal.
 
 (b) *Reopenings initiated at the request of a party.* The contractor, QIC, ALJ, or the MAC must mail its revised determination or decision to the parties to that determination or decision at their last known address. In the case of a full or partial reversal resulting in issuance of a payment to a provider or supplier, a revised electronic or paper remittance advice notice must be issued by the Medicare contractor. An adverse revised determination or decision must state the rationale and basis for the reopening and revision and any right to appeal.

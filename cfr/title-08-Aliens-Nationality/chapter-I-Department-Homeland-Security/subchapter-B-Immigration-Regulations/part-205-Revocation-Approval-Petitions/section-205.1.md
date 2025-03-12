@@ -1,7 +1,5 @@
 ##### § 205.1 Automatic revocation. #####
 
-Link to an amendment published at 81 FR 82486, November 18, 2016.
-
 (a) *Reasons for automatic revocation.* The approval of a petition or self-petition made under section 204 of the Act and in accordance with part 204 of this chapter is revoked as of the date of approval:
 
 (1) If the Secretary of State shall terminate the registration of the beneficiary pursuant to the provisions of section 203(e) of the Act before October 1, 1991, or section 203(g) of the Act on or after October 1, 1994;
@@ -50,9 +48,9 @@ Link to an amendment published at 81 FR 82486, November 18, 2016.
 
 (B) Upon the death of the petitioner or beneficiary.
 
-(C) Upon written notice of withdrawal filed by the petitioner, in employment-based preference cases, with any officer of the Service who is authorized to grant or deny petitions.
+(C) In employment-based preference cases, upon written notice of withdrawal filed by the petitioner to any officer of USCIS who is authorized to grant or deny petitions, where the withdrawal is filed less than 180 days after approval of the employment-based preference petition, unless an associated adjustment of status application has been pending for 180 days or more. A petition that is withdrawn 180 days or more after its approval, or 180 days or more after the associated adjustment of status application has been filed, remains approved unless its approval is revoked on other grounds. If an employment-based petition on behalf of an alien is withdrawn, the job offer of the petitioning employer is rescinded and the alien must obtain a new employment-based preference petition in order to seek adjustment of status or issuance of an immigrant visa as an employment-based immigrant, unless eligible for adjustment of status under section 204(j) of the Act and in accordance with 8 CFR 245.25.
 
-(D) Upon termination of the employer's business in an employment-based preference case under section 203(b)(1)(B), 203(b)(1)(C), 203(b)(2), or 203(b)(3) of the Act.
+(D) Upon termination of the petitioning employer's business less than 180 days after petition approval under section 203(b)(1)(B), 203(b)(1)(C), 203(b)(2), or 203(b)(3) of the Act, unless an associated adjustment of status application has been pending for 180 days or more. If a petitioning employer's business terminates 180 days or more after petition approval, or 180 days or more after an associated adjustment of status application has been filed, the petition remains approved unless its approval is revoked on other grounds. If a petitioning employer's business terminates the job offer of the petitioning employer is rescinded and the beneficiary must obtain a new employment-based preference petition on his or her behalf in order to seek adjustment of status or issuance of an immigrant visa as an employment-based immigrant, unless eligible for adjustment of status under section 204(j) of the Act and in accordance with 8 CFR 245.25.
 
 (iv) *Special immigrant juvenile petitions.* Unless the beneficiary met all of the eligibility requirements as of November 29, 1990, and the petition requirements as of November 29, 1990, and the petition for classification as a special immigrant juvenile was filed before June 1, 1994, or unless the change in circumstances resulted from the beneficiary's adoption or placement in a guardianship situation:
 
@@ -68,4 +66,4 @@ Link to an amendment published at 81 FR 82486, November 18, 2016.
 
 (b) *Notice.* When it shall appear to the director that the approval of a petition has been automatically revoked, he or she shall cause a notice of such revocation to be sent promptly to the consular office having jurisdiction over the visa application and a copy of such notice to be mailed to the petitioner's last known address.
 
-[61 FR 13077, Mar. 26, 1996, as amended at 71 FR 35749, June 21, 2006; 81 FR 73332, Oct. 24, 2016]
+[61 FR 13077, Mar. 26, 1996, as amended at 71 FR 35749, June 21, 2006; 81 FR 73332, Oct. 24, 2016; 81 FR 82486, Nov. 18, 2016]

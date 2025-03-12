@@ -1,5 +1,7 @@
 ##### § 416.924b Age as a factor of evaluation in the sequential evaluation process for children. #####
 
+Link to an amendment published at 82 FR 5880, Jan. 17, 2017.
+
 (a) *General.* In this section, we explain how we consider age when we decide whether you are disabled. Your age may or may not be a factor in our determination whether your impairment(s) meets or medically equals a listing, depending on the listing we use for comparison. However, your age is an important factor when we decide whether your impairment(s) is severe (*see* § 416.924(c)) and whether it functionally equals the listings (*see* § 416.926a). Except in the case of certain premature infants, as described in paragraph (b) of this section, age means chronological age.
 
 (1) When we determine whether you have an impairment or combination of impairments that is severe, we will compare your functioning to that of children your age who do not have impairments.

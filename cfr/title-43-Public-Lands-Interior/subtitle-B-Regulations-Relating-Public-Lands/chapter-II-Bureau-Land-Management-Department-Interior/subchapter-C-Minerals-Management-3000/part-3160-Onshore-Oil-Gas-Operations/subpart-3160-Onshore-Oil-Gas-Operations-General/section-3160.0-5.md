@@ -1,22 +1,10 @@
 ##### § 3160.0-5 Definitions. #####
 
-Link to an amendment published at 81 FR 83078, November 18, 2016.
-
 As used in this part, the term:
 
 *Annulus* means the space around a pipe in a wellbore, the outer wall of which may be the wall of either the borehole or casing; sometimes also called annular space.
 
 *Authorized representative* means any entity or individual authorized by the Secretary to perform duties by cooperative agreement, delegation or contract.
-
-*Avoidably lost* means the venting or flaring of produced gas without the prior authorization, approval, ratification or acceptance of the authorized officer and the loss of produced oil or gas when the authorized officer determines that such loss occurred as a result of:
-
-(1) Negligence on the part of the operator; or
-
-(2) The failure of the operator to take all reasonable measures to prevent and/or control the loss; or
-
-(3) The failure of the operator to comply fully with the applicable lease terms and regulations, applicable orders and notices, or the written orders of the authorized officer; or
-
-(4) Any combination of the foregoing.
 
 *Bradenhead* means a heavy, flanged steel fitting connected to the first string of casing that allows the suspension of intermediate and production strings of casing and supplies the means for the annulus to be sealed.
 
@@ -102,4 +90,4 @@ As used in this part, the term:
 
 *Waste of oil or gas* means any act or failure to act by the operator that is not sanctioned by the authorized officer as necessary for proper development and production and which results in: (1) A reduction in the quantity or quality of oil and gas ultimately producible from a reservoir under prudent and proper operations; or (2) avoidable surface loss of oil or gas.
 
-[53 FR 17362, May 16, 1988, as amended at 53 FR 22846, June 17, 1988; 66 FR 1892, Jan. 10, 2001; 80 FR 16217, Mar. 26, 2015]
+[53 FR 17362, May 16, 1988, as amended at 53 FR 22846, June 17, 1988; 66 FR 1892, Jan. 10, 2001; 80 FR 16217, Mar. 26, 2015; 81 FR 83078, Nov. 18, 2016]

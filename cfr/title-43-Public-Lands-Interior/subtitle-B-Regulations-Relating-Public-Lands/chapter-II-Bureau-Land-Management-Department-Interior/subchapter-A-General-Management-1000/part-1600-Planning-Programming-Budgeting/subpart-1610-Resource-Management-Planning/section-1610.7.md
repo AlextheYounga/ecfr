@@ -1,1 +1,3 @@
-##### § 1610.7 Designation of areas. #####
+##### § 1610.7 Management decision review by Congress. #####
+
+FLPMA requires that any BLM management decision or action pursuant to a management decision which totally eliminates one or more principal or major uses for 2 or more years with respect to a tract of 100,000 acres or more, shall be reported by the Secretary to Congress before it can be implemented. This report is not required prior to approval of a resource management plan which, if fully or partially implemented, would result in such an elimination of use(s). The required report shall be submitted as the first action step in implementing that portion of a resource management plan which would require elimination of such a use.

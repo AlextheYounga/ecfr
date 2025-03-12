@@ -1,5 +1,7 @@
 ##### § 404.1527 Evaluating opinion evidence. #####
 
+Link to an amendment published at 82 FR 5869, Jan. 18, 2017.
+
 (a) *General.* (1) You can only be found disabled if you are unable to do any substantial gainful activity by reason of any medically determinable physical or mental impairment which can be expected to result in death or which has lasted or can be expected to last for a continuous period of not less than 12 months. See § 404.1505. Your impairment must result from anatomical, physiological, or psychological abnormalities which are demonstrable by medically acceptable clinical and laboratory diagnostic techniques. See § 404.1508.
 
 (2) Evidence that you submit or that we obtain may contain medical opinions. Medical opinions are statements from physicians and psychologists or other acceptable medical sources that reflect judgments about the nature and severity of your impairment(s), including your symptoms, diagnosis and prognosis, what you can still do despite impairment(s), and your physical or mental restrictions.

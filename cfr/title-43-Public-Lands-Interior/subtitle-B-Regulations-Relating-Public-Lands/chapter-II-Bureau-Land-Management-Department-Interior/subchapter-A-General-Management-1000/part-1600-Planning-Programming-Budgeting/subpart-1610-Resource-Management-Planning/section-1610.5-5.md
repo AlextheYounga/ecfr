@@ -1,9 +1,5 @@
-##### § 1610.5-5 Amendment. #####
+##### § 1610.5-5 Selection of the proposed resource management plan. #####
 
-A resource management plan may be changed through amendment. An amendment shall be initiated by the need to consider monitoring and evaluation findings, new data, new or revised policy, a change in circumstances or a proposed action that may result in a change in the scope of resource uses or a change in the terms, conditions and decisions of the approved plan. An amendment shall be made through an environmental assessment of the proposed change, or an environmental impact statement, if necessary, public involvement as prescribed in § 1610.2 of this title, interagency coordination and consistency determination as prescribed in § 1610.3 of this title and any other data or analysis that may be appropriate. In all cases, the effect of the amendment on the plan shall be evaluated. If the amendment is being considered in response to a specific proposal, the analysis required for the proposal and for the amendment may occur simultaneously.
+(a) After publication of the draft resource management plan and draft environmental impact statement, the responsible official shall evaluate the comments received and prepare the proposed resource management plan and final environmental impact statement.
 
-(a) If the environmental assessment does not disclose significant impact, a finding of no significant impact may be made by the Field Manager. The Field Manager shall then make a recommendation on the amendment to the State Director for approval, and upon approval, the Field Manager shall issue a public notice of the action taken on the amendment. If the amendment is approved, it may be implemented 30 days after such notice.
-
-(b) If a decision is made to prepare an environmental impact statement, the amending process shall follow the same procedure required for the preparation and approval of the plan, but consideration shall be limited to that portion of the plan being considered for amendment. If several plans are being amended simultaneously, a single environmental impact statement may be prepared to cover all amendments.
-
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]
+(b) The deciding official shall publish these documents and file the final environmental impact statement with the Environmental Protection Agency.

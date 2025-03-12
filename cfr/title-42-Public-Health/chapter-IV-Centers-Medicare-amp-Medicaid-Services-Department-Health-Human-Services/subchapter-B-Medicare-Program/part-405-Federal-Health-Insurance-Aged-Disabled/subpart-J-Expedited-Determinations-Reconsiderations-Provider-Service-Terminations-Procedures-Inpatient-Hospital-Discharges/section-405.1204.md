@@ -1,5 +1,7 @@
 ##### § 405.1204 Expedited reconsiderations. #####
 
+Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
+
 (a) *Beneficiary's right to an expedited reconsideration.* A beneficiary who is dissatisfied with a QIO's expedited determination may request an expedited reconsideration by the appropriate QIC.
 
 (b) *Requesting an expedited reconsideration.* (1) A beneficiary who wishes to obtain an expedited reconsideration must submit a request for the reconsideration to the appropriate QIC, in writing or by telephone, by no later than noon of the calendar day following initial notification (whether by telephone or in writing) receipt of the QIO's determination. If the QIC is unable to accept the beneficiary's request, the beneficiary must submit the request by noon of the next day the QIC is available to accept a request.

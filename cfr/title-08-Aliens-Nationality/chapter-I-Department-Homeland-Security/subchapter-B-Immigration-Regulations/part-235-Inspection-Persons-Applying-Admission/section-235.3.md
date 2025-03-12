@@ -4,7 +4,7 @@
 
 (b) *Expedited removal* - (1) *Applicability.* The expedited removal provisions shall apply to the following classes of aliens who are determined to be inadmissible under section 212(a)(6)(C) or (7) of the Act:
 
-(i) Arriving aliens, as defined in 8 CFR 1.2, except for citizens of Cuba arriving at a United States port-of-entry by aircraft;
+(i) Arriving aliens, as defined in 8 CFR 1.2;
 
 (ii) As specifically designated by the Commissioner, aliens who arrive in, attempt to enter, or have entered the United States without having been admitted or paroled following inspection by an immigration officer at a designated port-of-entry, and who have not established to the satisfaction of the immigration officer that they have been physically present in the United States continuously for the 2-year period immediately prior to the date of determination of inadmissibility. The Commissioner shall have the sole discretion to apply the provisions of section 235(b)(1) of the Act, at any time, to any class of aliens described in this section. The Commissioner's designation shall become effective upon publication of a notice in the Federal Register. However, if the Commissioner determines, in the exercise of discretion, that the delay caused by publication would adversely affect the interests of the United States or the effective enforcement of the immigration laws, the Commissioner's designation shall become effective immediately upon issuance, and shall be published in the Federal Register as soon as practicable thereafter. When these provisions are in effect for aliens who enter without inspection, the burden of proof rests with the alien to affirmatively show that he or she has the required continuous physical presence in the United States. Any absence from the United States shall serve to break the period of continuous physical presence. An alien who was not inspected and admitted or paroled into the United States but who establishes that he or she has been continuously physically present in the United States for the 2-year period immediately prior to the date of determination of inadmissibility shall be detained in accordance with section 235(b)(2) of the Act for a proceeding under section 240 of the Act.
 
@@ -64,4 +64,4 @@
 
 (f) *Privilege of communication.* The mandatory notification requirements of consular and diplomatic officers pursuant to § 236.1(e) of this chapter apply when an inadmissible alien is detained for removal proceedings, including for purpose of conducting the credible fear determination.
 
-[62 FR 10355, Mar. 6, 1997, as amended at 64 FR 8494, Feb. 19, 1999; 65 FR 82256, Dec. 28, 2000; 69 FR 69490, Nov. 29, 2004; 76 FR 53790, Aug. 29, 2011]
+[62 FR 10355, Mar. 6, 1997, as amended at 64 FR 8494, Feb. 19, 1999; 65 FR 82256, Dec. 28, 2000; 69 FR 69490, Nov. 29, 2004; 76 FR 53790, Aug. 29, 2011; 82 FR 4771, Jan. 17, 2017]

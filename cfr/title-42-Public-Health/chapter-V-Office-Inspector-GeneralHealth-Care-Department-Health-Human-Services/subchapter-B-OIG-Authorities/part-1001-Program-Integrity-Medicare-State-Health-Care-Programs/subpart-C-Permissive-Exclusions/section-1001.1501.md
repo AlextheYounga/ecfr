@@ -1,5 +1,7 @@
 ##### § 1001.1501 Default of health education loan or scholarship obligations. #####
 
+Link to an amendment published at 82 FR 4115, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) Except as provided in paragraph (a)(4) of this section, the OIG may exclude any individual that the Public Health Service (PHS) determines is in default on repayments of scholarship obligations or loans in connection with health professions education made or secured in whole or in part by the Secretary.
 
 (2) Before imposing an exclusion in accordance with paragraph (a)(1) of this section, the OIG must determine that PHS has taken all reasonable administrative steps to secure repayment of the loans or obligations. If PHS has offered a Medicare offset arrangement as required by section 1892 of the Act, the OIG will find that all reasonable steps have been taken.

@@ -1,5 +1,7 @@
 ##### § 422.616 Reopening and revising determinations and decisions. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) An organization or reconsidered determination made by an MA organization, a reconsidered determination made by the independent entity described in § 422.592, or the decision of an ALJ or the MAC that is otherwise final and binding may be reopened and revised by the entity that made the determination or decision, under the rules in part 405 of this chapter.
 
 (b) Reopening may be at the instigation of any party.

@@ -1,5 +1,7 @@
 ##### § 405.972 Withdrawal or dismissal of a request for a reconsideration. #####
 
+Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
+
 (a) *Withdrawing a request.* An appellant that files a request for reconsideration may withdraw its request by filing a written and signed request for withdrawal. The request for withdrawal must -
 
 (1) Contain a clear statement that the appellant is withdrawing the request for reconsideration and does not intend to proceed further with the appeal.

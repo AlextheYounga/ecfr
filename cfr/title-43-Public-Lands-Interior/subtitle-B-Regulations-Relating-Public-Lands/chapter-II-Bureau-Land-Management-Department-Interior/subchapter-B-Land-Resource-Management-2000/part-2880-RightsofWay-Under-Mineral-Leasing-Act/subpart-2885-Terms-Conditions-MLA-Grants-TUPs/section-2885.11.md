@@ -1,8 +1,8 @@
 ##### § 2885.11 What terms and conditions must I comply with? #####
 
-Link to an amendment published at 81 FR 92227, December 19, 2016.
+(a)
 
-(a) *Duration.* All grants, except those issued for a term of 3 years or less, will expire on December 31 of the final year of the grant. The term of a grant may not exceed 30 years. The term of a TUP may not exceed 3 years. BLM will consider the following factors in establishing a reasonable term:
+(a) *Duration.* All grants, except those issued for a term of 3 years or less, will expire on December 31 of the final year of the grant. The term of a grant may not exceed 30 years, with the initial partial year of the grant considered to be the first year of the term. The term of a TUP may not exceed 3 years. The BLM will consider the following factors in establishing a reasonable term:
 
 (1) The cost of the pipeline and related facilities you plan to construct, operate, maintain, or terminate;
 
@@ -26,7 +26,7 @@ Link to an amendment published at 81 FR 92227, December 19, 2016.
 
 (6) Pay the rent and monitoring fees described in §§ 2885.19 and 2885.23 of this subpart;
 
-(7) If BLM requires, obtain and/or certify that you have obtained a surety bond or other acceptable security to cover any losses, damages, or injury to human health, the environment, and property incurred in connection with your use and occupancy of the right-of-way or TUP area, including terminating the grant or TUP, and to secure all obligations imposed by the grant or TUP and applicable laws and regulations. Your bond must cover liability for damages or injuries resulting from releases or discharges of hazardous materials. BLM may require a bond, an increase or decrease in the value of an existing bond, or other acceptable security at any time during the term of the grant or TUP. This bond is in addition to any individual lease, statewide, or nationwide oil and gas bonds you may have;
+(7) The BLM may require that you obtain, or certify that you have obtained, a performance and reclamation bond or other acceptable security to cover any losses, damages, or injury to human health, the environment, and property incurred in connection with your use and occupancy of the right-of-way or TUP area, including terminating the grant or TUP, and to secure all obligations imposed by the grant or TUP and applicable laws and regulations. Your bond must cover liability for damages or injuries resulting from releases or discharges of hazardous materials. We may require a bond, an increase or decrease in the value of an existing bond, or other acceptable security at any time during the term of the grant or TUP. This bond is in addition to any individual lease, statewide, or nationwide oil and gas bonds you may have. All other provisions in§ 2805.12(b) of this chapter regarding bond requirements for grants and leases issued under FLPMA also apply to grants or TUPs for oil and gas pipelines issued under this part;
 
 (8) Assume full liability if third parties are injured or damages occur to property on or near the right-of-way or TUP area (*see* § 2886.13 of this part);
 
@@ -76,4 +76,4 @@ Link to an amendment published at 81 FR 92227, December 19, 2016.
 
 (22) Comply with all other stipulations that BLM may require.
 
-[70 FR 21078, Apr. 22, 2005, as amended at 73 FR 65073, Oct. 31, 2008]
+[70 FR 21078, Apr. 22, 2005, as amended at 73 FR 65073, Oct. 31, 2008; 81 FR 92227, Dec. 19, 2016]

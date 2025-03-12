@@ -1,5 +1,7 @@
 ##### § 405.1100 Medicare Appeals Council review: General. #####
 
+Link to an amendment published at 82 FR 5122, Jan. 17, 2017.
+
 (a) The appellant or any other party to the hearing may request that the MAC review an ALJ's decision or dismissal.
 
 (b) Under circumstances set forth in §§ 405.1104 and 405.1108, the appellant may request that a case be escalated to the MAC for a decision even if the ALJ has not issued a decision or dismissal in his or her case.

@@ -1,5 +1,7 @@
 ##### § 1001.901 False or improper claims. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* The OIG may exclude any individual or entity that it determines has committed an act described in section 1128A of the Act. The imposition of a civil money penalty or assessment is not a prerequisite for an exclusion under this section.
 
 (b) *Length of exclusion.* In determining the length of an exclusion imposed in accordance with this section, the OIG will consider the following factors -

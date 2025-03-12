@@ -1,5 +1,7 @@
 ##### § 337.304 Veterans' preference. #####
 
+Link to an amendment published at 82 FR 5340, January 18, 2017.
+
 In this subpart:
 
 (a) Veterans' preference must be applied as prescribed in 5 U.S.C. 3319(b) and (c)(2);

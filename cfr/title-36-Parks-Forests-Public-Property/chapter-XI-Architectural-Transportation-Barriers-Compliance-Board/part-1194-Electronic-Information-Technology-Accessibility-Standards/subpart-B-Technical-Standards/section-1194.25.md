@@ -1,5 +1,7 @@
 ##### § 1194.25 Self contained, closed products. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 (a) Self contained products shall be usable by people with disabilities without requiring an end-user to attach assistive technology to the product. Personal headsets for private listening are not assistive technology.
 
 (b) When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.

@@ -1,5 +1,7 @@
 ##### § 404.1526 Medical equivalence. #####
 
+Link to an amendment published at 82 FR 5869, Jan. 18, 2017.
+
 (a) *What is medical equivalence?* Your impairment(s) is medically equivalent to a listed impairment in appendix 1 if it is at least equal in severity and duration to the criteria of any listed impairment.
 
 (b) *How do we determine medical equivalence?* We can find medical equivalence in three ways.

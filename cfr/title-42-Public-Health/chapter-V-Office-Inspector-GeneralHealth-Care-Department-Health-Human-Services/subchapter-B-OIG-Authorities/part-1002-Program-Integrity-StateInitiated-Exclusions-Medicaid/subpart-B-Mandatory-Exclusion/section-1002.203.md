@@ -1,5 +1,7 @@
 ##### § 1002.203 Mandatory exclusion. #####
 
+Link to an amendment published at 82 FR 4118, Jan. 12, 2017.
+
 (a) The State agency, in order to receive Federal financial participation (FFP), must provide that it will exclude from participation any HMO, or entity furnishing services under a waiver approved under section 1915(b)(1) of the Act, if such organization or entity -
 
 (1) Could be excluded under § 1001.1001 or § 1001.1051 of this chapter, or

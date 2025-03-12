@@ -1,5 +1,7 @@
 ##### § 416.903 Who makes disability and blindness determinations. #####
 
+Link to an amendment published at 82 FR 5874, Jan. 18, 2017.
+
 (a) *State agencies.* State agencies make disability and blindness determinations for the Commissioner for most persons living in the State. State agencies make these disability and blindness determinations under regulations containing performance standards and other administrative requirements relating to the disability and blindness determination function. States have the option of turning the function over to the Federal Government if they no longer want to make disability determinations. Also, the Commissioner may take the function away from any State which has substantially failed to make disability and blindness determinations in accordance with these regulations. Subpart J of this part contains the rules the States must follow in making disability and blindness determinations.
 
 (b) *Social Security Administration.* The Social Security Administration will make disability and blindness determinations for -

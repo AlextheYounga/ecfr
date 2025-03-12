@@ -1,5 +1,7 @@
 ##### § 416.902 General definitions and terms for this subpart. #####
 
+Link to an amendment published at 82 FR 5873, Jan. 18, 2017.
+
 As used in this subpart -
 
 *Acceptable medical source* refers to one of the sources described in § 416.913(a) who provides evidence about your impairments. It includes treating sources, nontreating sources, and nonexamining sources.

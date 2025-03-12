@@ -1,5 +1,7 @@
 ##### § 1000.20 Definitions specific to Medicare. #####
 
+Link to an amendment published at 82 FR 4111, Jan. 12, 2017.
+
 As used in connection with the Medicare program, unless the context indicates otherwise -
 
 *Carrier* means an entity that has a contract with CMS to determine and make Medicare payments for Part B benefits payable on a charge basis and to perform other related functions.

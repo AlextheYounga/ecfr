@@ -8,15 +8,7 @@
 
 (vii) *Converted property.* The term *converted property* means property owned by a C corporation that becomes the property of a RIC or a REIT.
 
-(b)(1) through (2)(ii) [Reserved]. For further guidance, see § 1.337(d)-7(b)(1) through (2)(ii).
-
-(iii) *Recognition period.* For purposes of applying the rules of section 1374 and the regulations thereunder, as modified by § 1.337(d)-7(b) and paragraph (b) of this section, the term *recognition period* means the 10-year period beginning -
-
-(A) In the case of a conversion transaction that is a qualification of a C corporation as a RIC or a REIT, on the first day of the RIC's or the REIT's first taxable year; and
-
-(B) In the case of other conversion transactions, on the day the property is acquired by the RIC or the REIT.
-
-(3) [Reserved]. For further guidance, see § 1.337(d)-7(b)(3).
+(b)(1) through (3) [Reserved]. For further guidance, see § 1.337(d)-7(b)(1) through (3).
 
 (4) *Section 355 distribution following a conversion transaction* - (i) *In general.* If a REIT is described in paragraph (f)(1) of this section and the related section 355 distribution (as defined in paragraph (f)(1)(i) of this section) follows a conversion transaction, then for the taxable year in which the related section 355 distribution occurs, § 1.1374-2(a)(1) and (2) (as modified by § 1.337(d)-7(b)(2)(i)) do not apply, and the REIT's net recognized built-in gain for such taxable year is the amount of its net unrealized built-in gain limitation (as defined in § 1.1374-2(a)(3)) for such taxable year.
 
@@ -60,8 +52,8 @@
 
 (ii) *Conversion transactions occurring on or after June 7, 2016.* Paragraphs (a)(1), (a)(2)(vi) and (vii), (b)(4), (c)(1), (c)(6), and (f) of this section apply to conversion transactions occurring on or after June 7, 2016 and to conversion transactions and related section 355 distributions for which the conversion transaction occurs before, and the related section 355 distribution occurs on or after, June 7, 2016. For conversion transactions that occurred on or after January 2, 2002 and before June 7, 2016, see § 1.337(d)-7 as contained in 26 CFR part 1 in effect on April 1, 2016.
 
-(iii) *Recognition period.* Paragraphs (b)(1)(ii), (b)(2)(iii), and (d)(2)(iii) of this section applies to conversion transactions that occur on or after August 8, 2016. For conversion transactions that occurred on or after January 2, 2002 and before August 8, 2016, see § 1.337(d)-7 as contained in 26 CFR part 1 in effect on April 1, 2016.
+(iii) [Reserved]. For further guidance, see § 1.337(d)-7(g)(2)(iii).
 
 (h) *Expiration date.* The applicability of this section expires on June 7, 2019.
 
-[T.D. 9770, 81 FR 36797, June 8, 2016, as amended at 81 FR 41800, June 28, 2016]
+[T.D. 9770, 81 FR 36797, June 8, 2016, as amended at 81 FR 41800, June 28, 2016; T.D. 9810, 82 FR 5388, Jan. 18, 2017]

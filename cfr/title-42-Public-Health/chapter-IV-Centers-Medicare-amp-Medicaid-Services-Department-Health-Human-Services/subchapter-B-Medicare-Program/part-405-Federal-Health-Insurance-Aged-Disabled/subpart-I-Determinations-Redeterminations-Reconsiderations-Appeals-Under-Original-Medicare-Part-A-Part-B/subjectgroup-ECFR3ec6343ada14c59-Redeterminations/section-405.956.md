@@ -1,5 +1,7 @@
 ##### § 405.956 Notice of a redetermination. #####
 
+Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
+
 (a) *Notification to parties* - (1) *General rule.* Written notice of a redetermination affirming, in whole or in part, the initial determination must be mailed or otherwise transmitted to all parties at their last known addresses in accordance with the time frames established in § 405.950. Written notice of a redetermination fully reversing the initial determination must be mailed or otherwise transmitted to the appellant in accordance with the time frames established in § 405.950. If the redetermination results in issuance of supplemental payment to a provider or supplier, the Medicare contractor must also issue an electronic or paper RA notice to the provider or supplier.
 
 (2) *Overpayment cases involving multiple beneficiaries who have no liability.* In an overpayment case involving multiple beneficiaries who have no liability, the contractor may issue a written notice only to the appellant.

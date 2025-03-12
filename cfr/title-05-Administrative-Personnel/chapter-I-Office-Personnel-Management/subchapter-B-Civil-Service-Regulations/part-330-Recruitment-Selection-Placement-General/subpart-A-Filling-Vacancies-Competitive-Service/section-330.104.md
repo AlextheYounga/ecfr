@@ -1,5 +1,7 @@
 ##### § 330.104 Requirements for vacancy announcements. #####
 
+Link to an amendment published at 82 FR 5339, January 18, 2017.
+
 (a) Each vacancy announcement must contain the following information:
 
 (1) Name of issuing agency;

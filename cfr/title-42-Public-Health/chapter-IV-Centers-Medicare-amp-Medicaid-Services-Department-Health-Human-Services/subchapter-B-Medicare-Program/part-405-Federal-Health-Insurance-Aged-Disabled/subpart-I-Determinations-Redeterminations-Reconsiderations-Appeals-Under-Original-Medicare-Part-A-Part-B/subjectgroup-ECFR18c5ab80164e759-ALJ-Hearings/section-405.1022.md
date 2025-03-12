@@ -1,5 +1,7 @@
 ##### § 405.1022 Notice of a hearing before an ALJ. #####
 
+Link to an amendment published at 82 FR 5115, Jan. 17, 2017.
+
 (a) *Issuing the notice.* After the ALJ sets the time and place of the hearing, notice of the hearing will be mailed to the parties and other potential participants, as provided in § 405.1020(c) at their last known address, or given by personal service. The ALJ is not required to send a notice of hearing to a party who indicates in writing that it does not wish to receive this notice. The notice is mailed or served at least 20 calendar days before the hearing.
 
 (b) *Notice information.* (1) The notice of hearing contains a statement of the specific issues to be decided and will inform the parties that they may designate a person to represent them during the proceedings.

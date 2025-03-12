@@ -1,5 +1,7 @@
 ##### § 423.2016 Timeframes for deciding an Appeal before an ALJ. #####
 
+Link to an amendment published at 82 FR 5129, Jan. 17, 2017.
+
 (a) *Hearings.* (1) When a request for an ALJ hearing is filed after an IRE has issued a written reconsideration, the ALJ must issue a decision, dismissal order, or remand, as appropriate, no later than the end of the 90 calendar day period beginning on the date the request for hearing is received by the entity specified in the IRE's notice of reconsideration, unless the 90 calendar day period has been extended as provided in this subpart.
 
 (2) The adjudication period specified in paragraph (a) of this section begins on the date that a timely filed request for hearing is received by the entity specified in the IRE's reconsideration, or, if it is not timely filed, the date that the ALJ grants any extension to the filing deadline.

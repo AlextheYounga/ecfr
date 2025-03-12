@@ -1,5 +1,7 @@
 ##### § 405.1136 Judicial review. #####
 
+Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
+
 (a) *General rules.* (1) To the extent authorized by sections 1869, 1876(c)(5)(B), and 1879(d) of the Act, a party to a MAC decision, or an appellant who requests escalation to Federal district court if the MAC does not complete its review of the ALJ's decision within the applicable adjudication period, may obtain a court review if the amount remaining in controversy satisfies the requirements of § 405.1006(c).
 
 (2) If the MAC's adjudication period set forth in § 405.1100 expires and the appellant does not request escalation to Federal district court, the case remains with the MAC until a final decision, dismissal order, or remand order is issued.

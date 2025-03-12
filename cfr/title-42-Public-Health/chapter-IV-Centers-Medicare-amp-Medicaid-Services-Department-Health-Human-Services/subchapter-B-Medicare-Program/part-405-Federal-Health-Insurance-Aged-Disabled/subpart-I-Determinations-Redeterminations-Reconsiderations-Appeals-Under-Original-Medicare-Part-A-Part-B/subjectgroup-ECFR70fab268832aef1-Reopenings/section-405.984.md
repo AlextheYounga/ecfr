@@ -1,5 +1,7 @@
 ##### § 405.984 Effect of a revised determination or decision. #####
 
+Link to an amendment published at 82 FR 5108, Jan. 17, 2017.
+
 (a) *Initial determinations.* The revision of an initial determination is binding upon all parties unless a party files a written request for a redetermination that is accepted and processed in accordance with § 405.940 through § 405.958.
 
 (b) *Redeterminations.* The revision of a redetermination is binding upon all parties unless a party files a written request for a QIC reconsideration that is accepted and processed in accordance with § 405.960 through § 405.978.

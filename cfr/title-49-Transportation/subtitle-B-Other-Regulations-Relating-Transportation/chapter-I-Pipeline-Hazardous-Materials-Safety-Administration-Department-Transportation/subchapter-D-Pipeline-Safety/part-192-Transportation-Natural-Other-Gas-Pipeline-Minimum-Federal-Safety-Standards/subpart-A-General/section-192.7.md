@@ -1,7 +1,5 @@
 ##### § 192.7 What documents are incorporated by reference partly or wholly in this part? #####
 
-Link to an amendment published at 81 FR 91871, December 19, 2016.
-
 (a) This part prescribes standards, or portions thereof, incorporated by reference into this part with the approval of the Director of the Federal Register in 5 U.S.C. 552(a) and 1 CFR part 51. The materials listed in this section have the full force of law. To enforce any edition other than that specified in this section, PHMSA must publish a notice of change in the Federal Register.
 
 (1) *Availability of standards incorporated by reference.* All of the materials incorporated by reference are available for inspection from several sources, including the following:
@@ -33,6 +31,10 @@ Link to an amendment published at 81 FR 91871, December 19, 2016.
 (8) ANSI/API Specification 6D, “Specification for Pipeline Valves,”23rd edition, effective October 1, 2008, including Errata 1 (June 2008), Errata2 (/November 2008), Errata 3 (February 2009), Errata 4 (April 2010), Errata 5 (November 2010), Errata 6 (August 2011) Addendum 1 (October 2009), Addendum 2 (August 2011), and Addendum 3 (October 2012), (ANSI/API Spec 6D), IBR approved for § 192.145(a).
 
 (9) API Standard 1104, “Welding of Pipelines and Related Facilities,” 20th edition, October 2005, including errata/addendum (July 2007) and errata 2 (2008), (API Std 1104), IBR approved for §§ 192.225(a); 192.227(a); 192.229(c); 192.241(c); and Item II, Appendix B.
+
+(10) API Recommended Practice 1170, “Design and Operation of Solution-mined Salt Caverns Used for Natural Gas Storage,” First edition, July 2015 (API RP 1170), IBR approved for § 192.12.
+
+(11) API Recommended Practice 1171, “Functional Integrity of Natural Gas Storage in Depleted Hydrocarbon Reservoirs and Aquifer Reservoirs,” First edition, September 2015, (API RP 1171), IBR approved for § 192.12.
 
 (c) ASME International (ASME), Three Park Avenue, New York, NY 10016, 800-843-2763 (U.S./Canada), *http://www.asme.org/.*
 

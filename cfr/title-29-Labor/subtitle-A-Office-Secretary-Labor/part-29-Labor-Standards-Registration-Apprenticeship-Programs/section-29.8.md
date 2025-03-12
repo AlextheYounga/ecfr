@@ -1,7 +1,5 @@
 ##### § 29.8 Deregistration of a registered program. #####
 
-Link to an amendment published at 81 FR 92108, Dec. 19, 2016.
-
 Deregistration of a program may be effected upon the voluntary action of the sponsor by submitting a request for cancellation of the registration in accordance with paragraph (a) of this section, or upon reasonable cause, by the Registration Agency instituting formal deregistration proceedings in accordance with paragraph (b) of this section.
 
 (a) *Deregistration at the request of the sponsor.* The Registration Agency may cancel the registration of an apprenticeship program by written acknowledgment of such request stating the following:
@@ -10,7 +8,7 @@ Deregistration of a program may be effected upon the voluntary action of the spo
 
 (2) That, within 15 days of the date of the acknowledgment, the sponsor will notify all apprentices of such cancellation and the effective date; that such cancellation automatically deprives the apprentice of individual registration; that the deregistration of the program removes the apprentice from coverage for Federal purposes which require the Secretary of Labor's approval of an apprenticeship program, and that all apprentices are referred to the Registration Agency for information about potential transfer to other registered apprenticeship programs.
 
-(b) *Deregistration by the registration agency upon reasonable cause.* (1)(i) Deregistration proceedings may be undertaken when the apprenticeship program is not conducted, operated, or administered in accordance with the program's registered provisions or with the requirements of this part, including not but limited to: failure to provide on-the-job learning; failure to provide related instruction; failure to pay the apprentice a progressively increasing schedule of wages consistent with the apprentices skills acquired; or persistent and significant failure to perform successfully. Deregistration proceedings for violation of equal opportunity requirements must be processed in accordance with the provisions under 29 CFR part 30.
+(b) *Deregistration by the registration agency upon reasonable cause.* (1)(i) Deregistration proceedings may be undertaken when the apprenticeship program is not conducted, operated, or administered in accordance with the program's registered provisions or with the requirements of this part, including but not limited to: failure to provide on-the-job learning; failure to provide related instruction; failure to pay the apprentice a progressively increasing schedule of wages consistent with the apprentices skills acquired; or persistent and significant failure to perform successfully.
 
 (ii) For purposes of this section, persistent and significant failure to perform successfully occurs when a program sponsor consistently fails to register at least one apprentice, shows a pattern of poor quality assessment results over a period of several years, demonstrates an ongoing pattern of very low completion rates over a period of several years, or shows no indication of improvement in the areas identified by the Registration Agency during a review process as requiring corrective action.
 
@@ -41,3 +39,5 @@ Deregistration of a program may be effected upon the voluntary action of the spo
 (7) If the sponsor requests a hearing, the Registration Agency will transmit to the Administrator a report containing all the data listed in paragraph (b)(6) of this section, and the Administrator will refer the matter to the Office of Administrative Law Judges. An Administrative Law Judge will convene a hearing in accordance with § 29.10, and issue a decision as required in § 29.10(c).
 
 (8) Every order of deregistration must contain a provision that the sponsor must, within 15 days of the effective date of the order, notify all registered apprentices of the deregistration of the program; the effective date thereof; that such cancellation automatically deprives the apprentice of individual registration; that the deregistration removes the apprentice from coverage for Federal purposes which require the Secretary of Labor's approval of an apprenticeship program; and that all apprentices are referred to the Registration Agency for information about potential transfer to other registered apprenticeship programs.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92107, Dec. 19, 2016]

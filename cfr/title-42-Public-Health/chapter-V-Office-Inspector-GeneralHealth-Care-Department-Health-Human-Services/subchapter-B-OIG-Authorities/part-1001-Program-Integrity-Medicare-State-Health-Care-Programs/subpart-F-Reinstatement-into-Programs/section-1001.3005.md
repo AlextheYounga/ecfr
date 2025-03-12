@@ -1,5 +1,7 @@
 ##### § 1001.3005 Reversed or vacated decisions. #####
 
+Link to an amendment published at 82 FR 4117, Jan. 12, 2017.
+
 (a) An individual or entity will be reinstated into Medicare, Medicaid and other Federal health care programs retroactive to the effective date of the exclusion when such exclusion is based on -
 
 (1) A conviction that is reversed or vacated on appeal;

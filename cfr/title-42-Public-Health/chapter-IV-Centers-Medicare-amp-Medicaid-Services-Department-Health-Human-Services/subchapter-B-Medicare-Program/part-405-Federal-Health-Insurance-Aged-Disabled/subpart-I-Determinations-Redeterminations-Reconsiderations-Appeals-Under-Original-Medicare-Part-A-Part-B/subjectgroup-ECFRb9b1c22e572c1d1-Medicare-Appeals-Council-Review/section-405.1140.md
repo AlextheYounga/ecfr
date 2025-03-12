@@ -1,5 +1,7 @@
 ##### § 405.1140 MAC review of ALJ decision in a case remanded by a Federal district court. #####
 
+Link to an amendment published at 82 FR 5124, Jan. 17, 2017.
+
 (a) *General rules.* (1) In accordance with § 405.1138, when a case is remanded by a Federal district court for further consideration and the MAC remands the case to an ALJ, a decision subsequently issued by the ALJ becomes the final decision of the Secretary unless the MAC assumes jurisdiction.
 
 (2) The MAC may assume jurisdiction based on written exceptions to the decision of the ALJ that a party files with the MAC or based on its authority under paragraph (c) of this section.

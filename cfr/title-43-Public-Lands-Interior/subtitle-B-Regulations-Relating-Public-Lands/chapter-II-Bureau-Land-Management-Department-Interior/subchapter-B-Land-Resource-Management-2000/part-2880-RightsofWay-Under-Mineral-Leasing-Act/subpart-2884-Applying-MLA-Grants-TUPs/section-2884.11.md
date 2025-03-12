@@ -1,7 +1,5 @@
 ##### § 2884.11 What information must I submit in my application? #####
 
-Link to an amendment published at 81 FR 92226, December 19, 2016.
-
 (a) File your application on Form SF-299 or as part of an Application for Permit to Drill or Reenter (BLM Form 3160-3) or Sundry Notice and Report on Wells (BLM Form 3160-5), available from any BLM office. Provide a complete description of the project, including:
 
 (1) The exact diameters of the pipes and locations of the pipelines;
@@ -22,7 +20,7 @@ Link to an amendment published at 81 FR 92226, December 19, 2016.
 
 (4) A statement of the need and economic feasibility of the proposed project;
 
-(5) The estimated schedule for constructing, operating, maintaining, and terminating the project (a Plan of Development);
+(5) The estimated schedule for constructing, operating, maintaining, and terminating the project (a POD). Your POD must be consistent with the development schedule and other requirements as noted on the POD template for oil and gas pipelines at *http://www.blm.gov;*
 
 (6) A map of the project, showing its proposed location and showing existing facilities adjacent to the proposal;
 
@@ -45,3 +43,5 @@ Link to an amendment published at 81 FR 92226, December 19, 2016.
 (3) Minimum shipment or purchase tenders.
 
 (e) If conditions or information affecting your application change, promptly notify BLM and submit to BLM in writing the necessary changes to your application. BLM may deny your application if you fail to do so.
+
+[70 FR 21078, Apr. 22, 2005, as amended at 81 FR 92226, Dec. 19, 2016]

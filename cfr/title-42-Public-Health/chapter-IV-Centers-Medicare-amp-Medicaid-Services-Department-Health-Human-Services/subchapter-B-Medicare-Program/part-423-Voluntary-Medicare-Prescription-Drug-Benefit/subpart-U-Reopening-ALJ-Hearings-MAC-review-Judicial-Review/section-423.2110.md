@@ -1,5 +1,7 @@
 ##### § 423.2110 MAC reviews on its own motion. #####
 
+Link to an amendment published at 82 FR 5137, Jan. 17, 2017.
+
 (a) *General rule.* The MAC may decide on its own motion to review a decision or dismissal issued by an ALJ. CMS or the IRE may refer a case to the MAC for it to consider reviewing under this authority any time within 60 calendar days after the ALJ's written decision or dismissal is issued.
 
 (b) *Referral of cases.* (1) CMS or the IRE may refer a case to the MAC if, in the view of CMS or the IRE, the decision or dismissal contains an error of law material to the outcome of the claim or presents a broad policy or procedural issue that may affect the public interest. CMS or the IRE may also request that the MAC take own motion review of a case if -

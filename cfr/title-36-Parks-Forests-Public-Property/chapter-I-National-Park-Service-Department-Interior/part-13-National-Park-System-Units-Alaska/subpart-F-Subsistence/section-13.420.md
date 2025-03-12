@@ -1,5 +1,7 @@
 ##### § 13.420 Definitions. #####
 
+Link to an amendment published at 82 FR 3632, Jan. 12, 2017.
+
 *Local rural resident.* As used in this part with respect to national parks and monuments, the term “local rural resident” shall mean either of the following:
 
 (1) Any person who has his/her primary, permanent home within the resident zone as defined by this section, and whenever absent from this primary, permanent home, has the intention of returning to it. Factors demonstrating the location of a person's primary, permanent home may include, but are not limited to, the permanent address indicated on licenses issued by the State of Alaska Department of Fish and Game, driver's license, and tax returns, and the location of registration to vote.

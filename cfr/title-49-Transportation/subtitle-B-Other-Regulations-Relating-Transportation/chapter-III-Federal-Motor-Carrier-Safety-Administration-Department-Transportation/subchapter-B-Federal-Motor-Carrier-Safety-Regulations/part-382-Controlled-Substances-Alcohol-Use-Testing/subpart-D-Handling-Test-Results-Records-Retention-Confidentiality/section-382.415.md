@@ -1,3 +1,5 @@
-##### § 382.415 xxx #####
+##### § 382.415 Notification to employers of a controlled substances or alcohol testing program violation. #####
 
-Link to an amendment published at 81 FR 87725, Dec. 5, 2016.
+Each person holding a commercial driver's license and subject to the DOT controlled substances and alcohol testing requirements in this part who has violated the alcohol and controlled substances prohibitions under part 40 of this title or this part without complying with the requirements of part 40, subpart O, must notify in writing all current employers of such violation(s). The driver is not required to provide notification to the employer that administered the test or documented the circumstances that gave rise to the violation. The notification must be made before the end of the business day following the day the employee received notice of the violation, or prior to performing any safety-sensitive function, whichever comes first.
+
+[81 FR 87725, Dec. 5, 2016]

@@ -58,4 +58,4 @@
 
 (l) *What if the Service denies the adjustment application?* If the Service denies the adjustment application, the alien physician may renew the application in removal proceedings.
 
-[65 FR 53895, Sept. 6, 2000; 65 FR 57861, Sept. 26, 2000; 65 FR 57944, Sept. 27, 2000; 67 FR 49563, July 31, 2002; 72 FR 19107, Apr. 17, 2007; 76 FR 53793, Aug. 29, 2011]
+[65 FR 53895, Sept. 6, 2000; 65 FR 57861, Sept. 26, 2000; 65 FR 57944, Sept. 27, 2000; 67 FR 49563, July 31, 2002; 72 FR 19107, Apr. 17, 2007; 76 FR 53793, Aug. 29, 2011; 81 FR 82490, Nov. 18, 2016]

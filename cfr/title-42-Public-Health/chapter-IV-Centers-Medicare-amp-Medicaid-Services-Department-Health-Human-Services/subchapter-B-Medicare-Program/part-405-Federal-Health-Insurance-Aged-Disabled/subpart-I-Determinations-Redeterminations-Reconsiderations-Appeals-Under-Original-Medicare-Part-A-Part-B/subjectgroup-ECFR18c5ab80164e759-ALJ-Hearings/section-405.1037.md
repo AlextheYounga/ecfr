@@ -1,5 +1,7 @@
 ##### § 405.1037 Discovery. #####
 
+Link to an amendment published at 82 FR 5117, Jan. 17, 2017.
+
 (a) *General rules.* (1) Discovery is permissible only when CMS or its contractor elects to participate in an ALJ hearing as a party.
 
 (2) The ALJ may permit discovery of a matter that is relevant to the specific subject matter of the ALJ hearing, provided the matter is not privileged or otherwise protected from disclosure and the ALJ determines that the discovery request is not unreasonable, unduly burdensome or expensive, or otherwise inappropriate.

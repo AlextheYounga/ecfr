@@ -1,125 +1,171 @@
-##### § 1910.23 Guarding floor and wall openings and holes. #####
+##### § 1910.23 Ladders. #####
 
-(a) *Protection for floor openings.* (1) Every stairway floor opening shall be guarded by a standard railing constructed in accordance with paragraph (e) of this section. The railing shall be provided on all exposed sides (except at entrance to stairway). For infrequently used stairways where traffic across the opening prevents the use of fixed standard railing (as when located in aisle spaces, etc.), the guard shall consist of a hinged floor opening cover of standard strength and construction and removable standard railings on all exposed sides (except at entrance to stairway).
+(a) *Application.* The employer must ensure that each ladder used meets the requirements of this section. This section covers all ladders, except when the ladder is:
 
-(2) Every ladderway floor opening or platform shall be guarded by a standard railing with standard toeboard on all exposed sides (except at entrance to opening), with the passage through the railing either provided with a swinging gate or so offset that a person cannot walk directly into the opening.
+(1) Used in emergency operations such as firefighting, rescue, and tactical law enforcement operations, or training for these operations; or
 
-(3) Every hatchway and chute floor opening shall be guarded by one of the following:
+(2) Designed into or is an integral part of machines or equipment.
 
-(i) Hinged floor opening cover of standard strength and construction equipped with standard railings or permanently attached thereto so as to leave only one exposed side. When the opening is not in use, the cover shall be closed or the exposed side shall be guarded at both top and intermediate positions by removable standard railings.
+(b) *General requirements for all ladders.* The employer must ensure:
 
-(ii) A removable railing with toeboard on not more than two sides of the opening and fixed standard railings with toeboards on all other exposed sides. The removable railings shall be kept in place when the opening is not in use.
+(1) Ladder rungs, steps, and cleats are parallel, level, and uniformly spaced when the ladder is in position for use;
 
-Where operating conditions necessitate the feeding of material into any hatchway or chute opening, protection shall be provided to prevent a person from falling through the opening.
+(2) Ladder rungs, steps, and cleats are spaced not less than 10 inches (25 cm) and not more than 14 inches (36 cm) apart, as measured between the centerlines of the rungs, cleats, and steps, except that:
 
-(4) Every skylight floor opening and hole shall be guarded by a standard skylight screen or a fixed standard railing on all exposed sides.
+(i) Ladder rungs and steps in elevator shafts must be spaced not less than 6 inches (15 cm) apart and not more than 16.5 inches (42 cm) apart, as measured along the ladder side rails; and
 
-(5) Every pit and trapdoor floor opening, infrequently used, shall be guarded by a floor opening cover of standard strength and construction. While the cover is not in place, the pit or trap opening shall be constantly attended by someone or shall be protected on all exposed sides by removable standard railings.
+(ii) Fixed ladder rungs and steps on telecommunication towers must be spaced not more than 18 inches (46 cm) apart, measured between the centerlines of the rungs or steps;
 
-(6) Every manhole floor opening shall be guarded by a standard manhole cover which need not be hinged in place. While the cover is not in place, the manhole opening shall be constantly attended by someone or shall be protected by removable standard railings.
+(3) Steps on stepstools are spaced not less than 8 inches (20 cm) apart and not more than 12 inches (30 cm) apart, as measured between the centerlines of the steps;
 
-(7) Every temporary floor opening shall have standard railings, or shall be constantly attended by someone.
+(4) Ladder rungs, steps, and cleats have a minimum clear width of 11.5 inches (29 cm) on portable ladders and 16 inches (41 cm) (measured before installation of ladder safety systems) for fixed ladders, except that:
 
-(8) Every floor hole into which persons can accidentally walk shall be guarded by either:
+(i) The minimum clear width does not apply to ladders with narrow rungs that are not designed to be stepped on, such as those located on the tapered end of orchard ladders and similar ladders;
 
-(i) A standard railing with standard toeboard on all exposed sides, or
+(ii) Rungs and steps of manhole entry ladders that are supported by the manhole opening must have a minimum clear width of 9 inches (23 cm);
 
-(ii) A floor hole cover of standard strength and construction. While the cover is not in place, the floor hole shall be constantly attended by someone or shall be protected by a removable standard railing.
+(iii) Rungs and steps on rolling ladders used in telecommunication centers must have a minimum clear width of 8 inches (20 cm); and
 
-(9) Every floor hole into which persons cannot accidentally walk (on account of fixed machinery, equipment, or walls) shall be protected by a cover that leaves no openings more than 1 inch wide. The cover shall be securely held in place to prevent tools or materials from falling through.
+(iv) Stepstools have a minimum clear width of 10.5 inches (26.7 cm);
 
-(10) Where doors or gates open directly on a stairway, a platform shall be provided, and the swing of the door shall not reduce the effective width to less than 20 inches.
+(5) Wooden ladders are not coated with any material that may obscure structural defects;
 
-(b) *Protection for wall openings and holes.* (1) Every wall opening from which there is a drop of more than 4 feet shall be guarded by one of the following:
+(6) Metal ladders are made with corrosion-resistant material or protected against corrosion;
 
-(i) Rail, roller, picket fence, half door, or equivalent barrier. Where there is exposure below to falling materials, a removable toe board or the equivalent shall also be provided. When the opening is not in use for handling materials, the guard shall be kept in position regardless of a door on the opening. In addition, a grab handle shall be provided on each side of the opening with its center approximately 4 feet above floor level and of standard strength and mounting.
+(7) Ladder surfaces are free of puncture and laceration hazards;
 
-(ii) Extension platform onto which materials can be hoisted for handling, and which shall have side rails or equivalent guards of standard specifications.
+(8) Ladders are used only for the purposes for which they were designed;
 
-(2) Every chute wall opening from which there is a drop of more than 4 feet shall be guarded by one or more of the barriers specified in paragraph (b)(1) of this section or as required by the conditions.
+(9) Ladders are inspected before initial use in each work shift, and more frequently as necessary, to identify any visible defects that could cause employee injury;
 
-(3) Every window wall opening at a stairway landing, floor, platform, or balcony, from which there is a drop of more than 4 feet, and where the bottom of the opening is less than 3 feet above the platform or landing, shall be guarded by standard slats, standard grill work (as specified in paragraph (e)(11) of this section), or standard railing. Where the window opening is below the landing, or platform, a standard toe board shall be provided.
+(10) Any ladder with structural or other defects is immediately tagged “Dangerous: Do Not Use” or with similar language in accordance with § 1910.145 and removed from service until repaired in accordance with § 1910.22(d), or replaced;
 
-(4) Every temporary wall opening shall have adequate guards but these need not be of standard construction.
+(11) Each employee faces the ladder when climbing up or down it;
 
-(5) Where there is a hazard of materials falling through a wall hole, and the lower edge of the near side of the hole is less than 4 inches above the floor, and the far side of the hole more than 5 feet above the next lower level, the hole shall be protected by a standard toeboard, or an enclosing screen either of solid construction, or as specified in paragraph (e)(11) of this section.
+(12) Each employee uses at least one hand to grasp the ladder when climbing up and down it; and
 
-(c) *Protection of open-sided floors, platforms, and runways.* (1) Every open-sided floor or platform 4 feet or more above adjacent floor or ground level shall be guarded by a standard railing (or the equivalent as specified in paragraph (e)(3) of this section) on all open sides except where there is entrance to a ramp, stairway, or fixed ladder. The railing shall be provided with a toeboard wherever, beneath the open sides,
+(13) No employee carries any object or load that could cause the employee to lose balance and fall while climbing up or down the ladder.
 
-(i) Persons can pass,
+(c) *Portable ladders.* The employer must ensure:
 
-(ii) There is moving machinery, or
+(1) Rungs and steps of portable metal ladders are corrugated, knurled, dimpled, coated with skid-resistant material, or otherwise treated to minimize the possibility of slipping;
 
-(iii) There is equipment with which falling materials could create a hazard.
+(2) Each stepladder or combination ladder used in a stepladder mode is equipped with a metal spreader or locking device that securely holds the front and back sections in an open position while the ladder is in use;
 
-(2) Every runway shall be guarded by a standard railing (or the equivalent as specified in paragraph (e)(3) of this section) on all open sides 4 feet or more above floor or ground level. Wherever tools, machine parts, or materials are likely to be used on the runway, a toeboard shall also be provided on each exposed side.
-Runways used exclusively for special purposes (such as oiling, shafting, or filling tank cars) may have the railing on one side omitted where operating conditions necessitate such omission, providing the falling hazard is minimized by using a runway of not less than 18 inches wide. Where persons entering upon runways become thereby exposed to machinery, electrical equipment, or other danger not a falling hazard, additional guarding than is here specified may be essential for protection.
+(3) Ladders are not loaded beyond the maximum intended load;
 
-(3) Regardless of height, open-sided floors, walkways, platforms, or runways above or adjacent to dangerous equipment, pickling or galvanizing tanks, degreasing units, and similar hazards shall be guarded with a standard railing and toe board.
+Note to paragraph (c)(3):
 
-(d) *Stairway railings and guards.* (1) Every flight of stairs having four or more risers shall be equipped with standard stair railings or standard handrails as specified in paragraphs (d)(1) (i) through (v) of this section, the width of the stair to be measured clear of all obstructions except handrails:
+The maximum intended load, as defined in § 1910.21(b), includes the total load (weight and force) of the employee and all tools, equipment, and materials being carried.
 
-(i) On stairways less than 44 inches wide having both sides enclosed, at least one handrail, preferably on the right side descending.
+(4) Ladders are used only on stable and level surfaces unless they are secured or stabilized to prevent accidental displacement;
 
-(ii) On stairways less than 44 inches wide having one side open, at least one stair railing on open side.
+(5) No portable single rail ladders are used;
 
-(iii) On stairways less than 44 inches wide having both sides open, one stair railing on each side.
+(6) No ladder is moved, shifted, or extended while an employee is on it;
 
-(iv) On stairways more than 44 inches wide but less than 88 inches wide, one handrail on each enclosed side and one stair railing on each open side.
+(7) Ladders placed in locations such as passageways, doorways, or driveways where they can be displaced by other activities or traffic:
 
-(v) On stairways 88 or more inches wide, one handrail on each enclosed side, one stair railing on each open side, and one intermediate stair railing located approximately midway of the width.
+(i) Are secured to prevent accidental displacement; or
 
-(2) Winding stairs shall be equipped with a handrail offset to prevent walking on all portions of the treads having width less than 6 inches.
+(ii) Are guarded by a temporary barricade, such as a row of traffic cones or caution tape, to keep the activities or traffic away from the ladder;
 
-(e) *Railing, toe boards, and cover specifications.* (1) A standard railing shall consist of top rail, intermediate rail, and posts, and shall have a vertical height of 42 inches nominal from upper surface of top rail to floor, platform, runway, or ramp level. The top rail shall be smooth-surfaced throughout the length of the railing. The intermediate rail shall be approximately halfway between the top rail and the floor, platform, runway, or ramp. The ends of the rails shall not overhang the terminal posts except where such overhang does not constitute a projection hazard.
+(8) The cap (if equipped) and top step of a stepladder are not used as steps;
 
-(2) A stair railing shall be of construction similar to a standard railing but the vertical height shall be not more than 34 inches nor less than 30 inches from upper surface of top rail to surface of tread in line with face of riser at forward edge of tread.
+(9) Portable ladders used on slippery surfaces are secured and stabilized;
 
-(3) [Reserved]
+(10) The top of a non-self-supporting ladder is placed so that both side rails are supported, unless the ladder is equipped with a single support attachment;
 
-(i) For wood railings, the posts shall be of at least 2-inch by 4-inch stock spaced not to exceed 6 feet; the top and intermediate rails shall be of at least 2-inch by 4-inch stock. If top rail is made of two right-angle pieces of 1-inch by 4-inch stock, posts may be spaced on 8-foot centers, with 2-inch by 4-inch intermediate rail.
+(11) Portable ladders used to gain access to an upper landing surface have side rails that extend at least 3 feet (0.9 m) above the upper landing surface (see Figure D-1 of this section);
 
-(ii) For pipe railings, posts and top and intermediate railings shall be at least 11/2 inches nominal diameter with posts spaced not more than 8 feet on centers.
+(12) Ladders and ladder sections are not tied or fastened together to provide added length unless they are specifically designed for such use;
 
-(iii) For structural steel railings, posts and top and intermediate rails shall be of 2-inch by 2-inch by3/8-inch angles or other metal shapes of equivalent bending strength with posts spaced not more than 8 feet on centers.
+(13) Ladders are not placed on boxes, barrels, or other unstable bases to obtain additional height.
 
-(iv) The anchoring of posts and framing of members for railings of all types shall be of such construction that the completed structure shall be capable of withstanding a load of at least 200 pounds applied in any direction at any point on the top rail.
+![](/graphics/er18no16.346.gif)
 
-(v) Other types, sizes, and arrangements of railing construction are acceptable provided they meet the following conditions:
+(d) *Fixed ladders.* The employer must ensure:
 
-(*a*) A smooth-surfaced top rail at a height above floor, platform, runway, or ramp level of 42 inches nominal;
+(1) Fixed ladders are capable of supporting their maximum intended load;
 
-(*b*) A strength to withstand at least the minimum requirement of 200 pounds top rail pressure;
+(2) The minimum perpendicular distance from the centerline of the steps or rungs, or grab bars, or both, to the nearest permanent object in back of the ladder is 7 inches (18 cm), except for elevator pit ladders, which have a minimum perpendicular distance of 4.5 inches (11 cm);
 
-(*c*) Protection between top rail and floor, platform, runway, ramp, or stair treads, equivalent at least to that afforded by a standard intermediate rail;
+(3) Grab bars do not protrude on the climbing side beyond the rungs of the ladder that they serve;
 
-(4) A standard toeboard shall be 4 inches nominal in vertical height from its top edge to the level of the floor, platform, runway, or ramp. It shall be securely fastened in place and with not more than1/4-inch clearance above floor level. It may be made of any substantial material either solid or with openings not over 1 inch in greatest dimension.
-Where material is piled to such height that a standard toeboard does not provide protection, paneling from floor to intermediate rail, or to top rail shall be provided.
+(4) The side rails of through or side-step ladders extend 42 inches (1.1 m) above the top of the access level or landing platform served by the ladder. For parapet ladders, the access level is:
 
-(5)(i) A handrail shall consist of a lengthwise member mounted directly on a wall or partition by means of brackets attached to the lower side of the handrail so as to offer no obstruction to a smooth surface along the top and both sides of the handrail. The handrail shall be of rounded or other section that will furnish an adequate handhold for anyone grasping it to avoid falling. The ends of the handrail should be turned in to the supporting wall or otherwise arranged so as not to constitute a projection hazard.
+(i) The roof, if the parapet is cut to permit passage through the parapet; or
 
-(ii) The height of handrails shall be not more than 34 inches nor less than 30 inches from upper surface of handrail to surface of tread in line with face of riser or to surface of ramp.
+(ii) The top of the parapet, if the parapet is continuous;
 
-(iii) The size of handrails shall be: When of hardwood, at least 2 inches in diameter; when of metal pipe, at least 11/2 inches in diameter. The length of brackets shall be such as will give a clearance between handrail and wall or any projection thereon of at least 3 inches. The spacing of brackets shall not exceed 8 feet.
+(5) For through ladders, the steps or rungs are omitted from the extensions, and the side rails are flared to provide not less than 24 inches (61cm) and not more than 30 inches (76 cm) of clearance. When a ladder safety system is provided, the maximum clearance between side rails of the extension must not exceed 36 inches (91 cm);
 
-(iv) The mounting of handrails shall be such that the completed structure is capable of withstanding a load of at least 200 pounds applied in any direction at any point on the rail.
+(6) For side-step ladders, the side rails, rungs, and steps must be continuous in the extension (see Figure D-2 of this section);
 
-(6) All handrails and railings shall be provided with a clearance of not less than 3 inches between the handrail or railing and any other object.
+(7) Grab bars extend 42 inches (1.1 m) above the access level or landing platforms served by the ladder;
 
-(7) Floor opening covers may be of any material that meets the following strength requirements:
+(8) The minimum size (cross-section) of grab bars is the same size as the rungs of the ladder.
 
-(i) Trench or conduit covers and their supports, when located in plant roadways, shall be designed to carry a truck rear-axle load of at least 20,000 pounds.
+(9) When a fixed ladder terminates at a hatch (see Figure D-3 of this section), the hatch cover:
 
-(ii) Manhole covers and their supports, when located in plant roadways, shall comply with local standard highway requirements if any; otherwise, they shall be designed to carry a truck rear-axle load of at least 20,000 pounds.
+(i) Opens with sufficient clearance to provide easy access to or from the ladder; and
 
-(iii) The construction of floor opening covers may be of any material that meets the strength requirements. Covers projecting not more than 1 inch above the floor level may be used providing all edges are chamfered to an angle with the horizontal of not over 30 degrees. All hinges, handles, bolts, or other parts shall set flush with the floor or cover surface.
+(ii) Opens at least 70 degrees from horizontal if the hatch is counterbalanced;
 
-(8) Skylight screens shall be of such construction and mounting that they are capable of withstanding a load of at least 200 pounds applied perpendicularly at any one area on the screen. They shall also be of such construction and mounting that under ordinary loads or impacts, they will not deflect downward sufficiently to break the glass below them. The construction shall be of grillwork with openings not more than 4 inches long or of slatwork with openings not more than 2 inches wide with length unrestricted.
+(10) Individual-rung ladders are constructed to prevent the employee's feet from sliding off the ends of the rungs (see Figure D-4 of this section);
 
-(9) Wall opening barriers (rails, rollers, picket fences, and half doors) shall be of such construction and mounting that, when in place at the opening, the barrier is capable of withstanding a load of at least 200 pounds applied in any direction (except upward) at any point on the top rail or corresponding member.
+(11) Fixed ladders having a pitch greater than 90 degrees from the horizontal are not used;
 
-(10) Wall opening grab handles shall be not less than 12 inches in length and shall be so mounted as to give 3 inches clearance from the side framing of the wall opening. The size, material, and anchoring of the grab handle shall be such that the completed structure is capable of withstanding a load of at least 200 pounds applied in any direction at any point of the handle.
+(12) The step-across distance from the centerline of the rungs or steps is:
 
-(11) Wall opening screens shall be of such construction and mounting that they are capable of withstanding a load of at least 200 pounds applied horizontally at any point on the near side of the screen. They may be of solid construction, of grillwork with openings not more than 8 inches long, or of slatwork with openings not more than 4 inches wide with length unrestricted.
+(i) For through ladders, not less than 7 inches (18 cm) and not more than 12 inches (30 cm) to the nearest edge of the structure, building, or equipment accessed from the ladders;
 
-[39 FR 23502, June 27, 1974, as amended at 43 FR 49744, Oct. 24, 1978; 49 FR 5321, Feb. 10, 1984]
+(ii) For side-step ladders, not less than 15 inches (38 cm) and not more than 20 inches (51 cm) to the access points of the platform edge;
+
+(13) Fixed ladders that do not have cages or wells have:
+
+(i) A clear width of at least 15 inches (38 cm) on each side of the ladder centerline to the nearest permanent object; and
+
+(ii) A minimum perpendicular distance of 30 inches (76 cm) from the centerline of the steps or rungs to the nearest object on the climbing side. When unavoidable obstructions are encountered, the minimum clearance at the obstruction may be reduced to 24 inches (61 cm), provided deflector plates are installed (see Figure D-5 of this section).
+
+Note to paragraph (d):
+
+Section 1910.28 establishes the employer's duty to provide fall protection for employees on fixed ladders, and § 1910.29 specifies the criteria for fall protection systems for fixed ladders.
+
+![](/graphics/er18no16.347.gif)![](/graphics/er18no16.348.gif)
+
+(e) *Mobile ladder stands and mobile ladder stand platforms* - (1) *General requirements.* The employer must ensure:
+
+(i) Mobile ladder stands and platforms have a step width of at least 16 inches (41 cm);
+
+(ii) The steps and platforms of mobile ladder stands and platforms are slip resistant. Slip-resistant surfaces must be either an integral part of the design and construction of the mobile ladder stand and platform, or provided as a secondary process or operation, such as dimpling, knurling, shotblasting, coating, spraying, or applying durable slip-resistant tapes;
+
+(iii) Mobile ladder stands and platforms are capable of supporting at least four times their maximum intended load;
+
+(iv) Wheels or casters under load are capable of supporting their proportional share of four times the maximum intended load, plus their proportional share of the unit's weight;
+
+(v) Unless otherwise specified in this section, mobile ladder stands and platforms with a top step height of 4 feet (1.2 m) or above have handrails with a vertical height of 29.5 inches (75 cm) to 37 inches (94 cm), measured from the front edge of a step. Removable gates or non-rigid members, such as chains, may be used instead of handrails in special-use applications;
+
+(vi) The maximum work-surface height of mobile ladder stands and platforms does not exceed four times the shortest base dimension, without additional support. For greater heights, outriggers, counterweights, or comparable means that stabilize the mobile ladder stands and platforms and prevent overturning must be used;
+
+(vii) Mobile ladder stands and platforms that have wheels or casters are equipped with a system to impede horizontal movement when an employee is on the stand or platform; and
+
+(viii) No mobile ladder stand or platform moves when an employee is on it.
+
+(2) *Design requirements for mobile ladder stands.* The employer must ensure:
+
+(i) Steps are uniformly spaced and arranged, with a rise of not more than 10 inches (25 cm) and a depth of not less than 7 inches (18 cm). The slope of the step stringer to which the steps are attached must not be more than 60 degrees, measured from the horizontal;
+
+(ii) Mobile ladder stands with a top step height above 10 feet (3 m) have the top step protected on three sides by a handrail with a vertical height of at least 36 inches (91 cm); and top steps that are 20 inches (51 cm) or more, front to back, have a midrail and toeboard. Removable gates or non-rigid members, such as chains, may be used instead of handrails in special-use applications; and
+
+(iii) The standing area of mobile ladder stands is within the base frame.
+
+(3) *Design requirements for mobile ladder stand platforms.* The employer must ensure:
+
+(i) Steps of mobile ladder stand platforms meet the requirements of paragraph (e)(2)(i) of this section. When the employer demonstrates that the requirement is not feasible, steeper slopes or vertical rung ladders may be used, provided the units are stabilized to prevent overturning;
+
+(ii) Mobile ladder stand platforms with a platform height of 4 to 10 feet (1.2 m to 3 m) have, in the platform area, handrails with a vertical height of at least 36 inches (91 cm) and midrails; and
+
+(iii) All ladder stand platforms with a platform height above 10 feet (3 m) have guardrails and toeboards on the exposed sides and ends of the platform.
+
+(iv) Removable gates or non-rigid members, such as chains, may be used on mobile ladder stand platforms instead of handrails and guardrails in special-use applications.

@@ -1,14 +1,12 @@
 ##### § 1910.268 Telecommunications. #####
 
-Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
-
 (a) *Application.* (1) This section sets forth safety and health standards that apply to the work conditions, practices, means, methods, operations, installations and processes performed at telecommunications centers and at telecommunications field installations, which are located outdoors or in building spaces used for such field installations. *Center* work includes the installation, operation, maintenance, rearrangement, and removal of communications equipment and other associated equipment in telecommunications switching centers. *Field* work includes the installation, operation, maintenance, rearrangement, and removal of conductors and other equipment used for signal or communication service, and of their supporting or containing structures, overhead or underground, on public or private rights of way, including buildings or other structures.
 
 (2) These standards do not apply: (i) To construction work, as defined in § 1910.12, nor (ii) to installations under the exclusive control of electric utilities used for the purpose of communications or metering, or for generation, control, transformation, transmission, and distribution of electric energy, which are located in buildings used exclusively by the electric utilities for such purposes, or located outdoors on property owned or leased by the electric utilities or on public highways, streets, roads, etc., or outdoors by established rights on private property.
 
 (3) Operations or conditions not specifically covered by this section are subject to all the applicable standards contained in this part 1910. See § 1910.5(c). Operations which involve construction work, as defined in § 1910.12 are subject to all the applicable standards contained in part 1926 of this chapter.
 
-(b) *General* - (1) *Buildings containing telecommunications centers* - (i) *Illumination.* Lighting in telecommunication centers shall be provided in an adequate amount such that continuing work operations, routine observations, and the passage of employees can be carried out in a safe and healthful manner. Certain specific tasks in centers, such as splicing cable and the maintenance and repair of equipment frame lineups, may require a higher level of illumination. In such cases, the employer shall install permanent lighting or portable supplemental lighting to attain a higher level of illumination shall be provided as needed to permit safe performance of the required task.
+(b) *General*—(1) *Buildings containing telecommunications centers*—(i) *Illumination.* Lighting in telecommunication centers shall be provided in an adequate amount such that continuing work operations, routine observations, and the passage of employees can be carried out in a safe and healthful manner. Certain specific tasks in centers, such as splicing cable and the maintenance and repair of equipment frame lineups, may require a higher level of illumination. In such cases, the employer shall install permanent lighting or portable supplemental lighting to attain a higher level of illumination shall be provided as needed to permit safe performance of the required task.
 
 (ii) *Working surfaces.* Guard rails and toe boards may be omitted on distribution frame mezzanine platforms to permit access to equipment. This exemption applies only on the side or sides of the platform facing the frames and only on those portions of the platform adjacent to equipped frames.
 
@@ -40,8 +38,6 @@ Link to an amendment published at 81 FR 83006, Nov. 18, 2016.
 
 (iii) The power conductors and equipment are deenergized and grounded.
 
-Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Parts
-
 |Voltage range (phase to phase, RMS)|Approach distance (inches)|
 |-----------------------------------|--------------------------|
 |          300 V and less           |      (<sup>1</sup>)      |
@@ -52,8 +48,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 |   Over 37 kV, not over 87.5 kV    |            42            |
 |   Over 87.5 kV, not over 121 kV   |            48            |
 |   Over 121 kV, not over 140 kV    |            54            |
-
-<sup>1</sup> Avoid contact.
+|    <sup>1</sup> Avoid contact.    |                          |
 
 (8) *Illumination of field work.* Whenever natural light is insufficient to adequately illuminate the worksite, artificial illumination shall be provided to enable the employee to perform the work safely.
 
@@ -71,7 +66,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (3) The employer shall insure that an employee finding any crossed or fallen wires which create or may create a hazardous situation at the work area: (i) Remains on guard or adopts other adequate means to warn other employees of the danger and (ii) has the proper authority notified at the earliest practical moment.
 
-(e) *Tools and personal protective equipment - Generally.* Personal protective equipment, protective devices and special tools needed for the work of employees shall be provided and the employer shall ensure that they are used by employees. Before each day's use the employer shall ensure that these personal protective devices, tools, and equipment are carefully inspected by a competent person to ascertain that they are in good condition.
+(e) *Tools and personal protective equipment—Generally.* Personal protective equipment, protective devices and special tools needed for the work of employees shall be provided and the employer shall ensure that they are used by employees. Before each day's use the employer shall ensure that these personal protective devices, tools, and equipment are carefully inspected by a competent person to ascertain that they are in good condition.
 
 (f) *Rubber insulating equipment.* (1) Rubber insulating equipment designed for the voltage levels to be encountered shall be provided and the employer shall ensure that they are used by employees as required by this section. The requirements of § 1910.137, Electrical Protective Equipment, shall be followed except for Table I-6.
 
@@ -85,49 +80,9 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (3) Gloves and blankets shall be marked to indicate compliance with the retest schedule, and shall be marked with the date the next test is due. Gloves found to be defective in the field or by the tests set forth in paragraph (f)(2) of this section shall be destroyed by cutting them open from the finger to the gauntlet.
 
-(g) *Personal climbing equipment* - (1) *General.* Safety belts and straps shall be provided and the employer shall ensure their use when work is performed at positions more than 4 feet above ground, on poles, and on towers, except as provided in paragraphs (n)(7) and (n)(8) of this section. No safety belts, safety straps or lanyards acquired after July 1, 1975 may be used unless they meet the tests set forth in paragraph (g)(2) of this section. The employer shall ensure that all safety belts and straps are inspected by a competent person prior to each day's use to determine that they are in safe working condition.
+(g) *Personal climbing equipment*—(1) *General.* A positioning system or a personal fall arrest system shall be provided and the employer shall ensure their use when work is performed at positions more than 4 feet (1.2 m) above the ground, on poles, and on towers, except as provided in paragraphs (n)(7) and (8) of this section. These systems shall meet the applicable requirements in subpart I of this part. The employer shall ensure that all climbing equipment is inspected before each day's use to determine that it is in safe working condition.
 
-(2) *Telecommunication lineman's body belts, safety straps, and lanyards* - (i) *General requirements.* (A) Hardware for lineman's body belts, safety straps, and lanyards shall be drop forged or pressed steel and shall have a corrosion resistant finish tested to meet the requirements of the American Society for Testing and Materials B117-64, which is incorporated by reference as specified in § 1910.6 (50-hour test). Surfaces shall be smooth and free of sharp edges. Production samples of lineman's safety straps, body belts and lanyards shall be approved by a nationally recognized testing laboratory, as having been tested in accordance with and as meeting the requirements of this paragraph.
-
-(B) All buckles shall withstand a 2,000-pound tensile test with a maximum permanent deformation no greater than one sixty-forth inch.
-
-(C) D rings shall withstand a 5,000-pound tensile test without cracking or breaking.
-
-(D) Snaphooks shall withstand a 5,000-pound tensile test, or shall withstand a 3,000-pound tensile test and a 180° bend test. Tensile failure is indicated by distortion of the snaphook sufficient to release the keeper; bend test failure is indicated by cracking of the snaphook.
-
-(ii) *Specific requirements.* (A)(*1*) All fabric used for safety straps shall be capable of withstanding an A.C. dielectric test of not less than 25,000 volts per foot “dry” for 3 minutes, without visible deterioration.
-
-(*2*) All fabric and leather used shall be tested for leakage current. Fabric or leather may not be used if the leakage current exceeds 1 milliampere when a potential of 3,000 volts is applied to the electrodes positioned 12 inches apart.
-
-(*3*) In lieu of alternating current tests, equivalent direct current tests may be performed.
-
-(B) The cushion part of the body belt shall:
-
-(*1*) Contain no exposed rivets on the inside. This provision does not apply to belts used by craftsmen not engaged in line work.
-
-(*2*) Be at least three inches in width;
-
-(*3*) Be at least five thirty-seconds (5/32) inch thick, if made of leather; and
-
-(C) [Reserved]
-
-(D) Suitable copper, steel, or equivalent liners shall be used around the bars of D rings to prevent wear between these members and the leather or fabric enclosing them.
-
-(E) All stitching shall be done with a minimum 42-pound weight nylon or equivalent thread and shall be lock stitched. Stitching parallel to an edge may not be less than three-sixteenths (3/16) inch from the edge of the narrowest member caught by the thread. The use of cross stitching on leather is prohibited.
-
-(F) The keepers of snaphooks shall have a spring tension that will not allow the keeper to begin to open when a weight of 21/2 pounds or less is applied, but the keepers shall begin to open when a weight of four pounds is applied. In making this determination, the weight shall be supported on the keeper against the end of the nose.
-
-(G) Safety straps, lanyards, and body belts shall be tested in accordance with the following procedure:
-
-(*1*) Attach one end of the safety strap or lanyard to a rigid support, and the other end to a 250-pound canvas bag of sand;
-
-(*2*) Allow the 250-pound canvas bag of sand to free fall 4 feet when testing safety straps and 6 feet when testing lanyards. In each case, the strap or lanyard shall stop the fall of the 250-pound bag;
-
-(*3*) Failure of the strap or lanyard shall be indicated by any breakage or slippage sufficient to permit the bag to fall free from the strap or lanyard.
-
-(*4*) The entire “body belt assembly” shall be tested using on D ring. A safety strap or lanyard shall be used that is capable of passing the “impact loading test” described in paragraph (g)(2)(ii)(G)(*2*) of this section and attached as required in paragraph (g)(2)(ii)(G)(*1*) of this section. The body belt shall be secured to the 250-pound bag of sand at a point which simulates the waist of a man and shall be dropped as stated in paragraph (g)(2)(ii)(G)(*2*) of this section. Failure of the body belt shall be indicated by any breakage or slippage sufficient to permit the bag to fall free from the body belt.
-
-(3) *Pole climbers.* (i) Pole climbers may not be used if the gaffs are less than 11/4 inches in length as measured on the underside of the gaff. The gaffs of pole climbers shall be covered with safety caps when not being used for their intended use.
+(2) *Pole climbers.* (i) Pole climbers may not be used if the gaffs are less than 11/4 inches in length as measured on the underside of the gaff. The gaffs of pole climbers shall be covered with safety caps when not being used for their intended use.
 
 (ii) The employer shall ensure that pole climbers are inspected by a competent person for the following conditions: Fractured or cracked gaffs or leg irons, loose or dull gaffs, broken straps or buckles. If any of these conditions exist, the defect shall be corrected before the climbers are used.
 
@@ -145,33 +100,9 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (E) Walking on rocky, hard, frozen, brushy or hilly terrain.
 
-(h) *Ladders.* (1) The employer shall ensure that no employee nor any material or equipment may be supported or permitted to be supported on any portion of a ladder unless it is first determined, by inspections and checks conducted by a competent person that such ladder is adequately strong, in good condition, and properly secured in place, as required in subpart D of this part and as required in this section.
+(h) *Ladders.* Ladders, step bolts, and manhole steps shall meet the applicable requirements in subpart D of this part.
 
-(2) The spacing between steps or rungs permanently installed on poles and towers shall be no more than 18 inches (36 inches on any one side). This requirement also applies to fixed ladders on towers, when towers are so equipped. Spacing between steps shall be uniform above the initial unstepped section, except where working, standing, or access steps are required. Fixed ladder rungs and step rungs for poles and towers shall have a minimum diameter of5/8″. Fixed ladder rungs shall have a minimum clear width of 12 inches. Steps for poles and towers shall have a minimum clear width of 41/2 inches. The spacing between detachable steps may not exceed 30 inches on any one side, and these steps shall be properly secured when in use.
-
-(3) Portable wood ladders intended for general use may not be painted but may be coated with a transclucent nonconductive coating. Portable wood ladders may not be longitudinally reinforced with metal.
-
-(4) Portable wood ladders that are not being carried on vehicles and are not in active use shall be stored where they will not be exposed to the elements and where there is good ventilation.
-
-(5) The provisions of § 1910.25(c)(5) shall apply to rolling ladders used in telecommunications centers, except that such ladders shall have a minimum inside width, between the side rails, of at least eight inches.
-
-(6) Climbing ladders or stairways on scaffolds used for access and egress shall be affixed or built into the scaffold by proper design and engineering, and shall be so located that their use will not disturb the stability of the scaffold. The rungs of the climbing device shall be equally spaced, but may not be less than 12 inches nominal nor more than 16 inches nominal apart. Horizontal end rungs used for platform support may also be utilized as a climbing device if such rungs meet the spacing requirement of this paragraph (h)(6), and if there is sufficient clearance between the rung and the edge of the platform to afford an adequate handhold. If a portable ladder is affixed to the scaffold, it shall be securely attached and shall have rungs meeting the spacing requirements of this paragraph (h)(6). Clearance shall be provided in the back of the ladder of not less than 6 inches from center of rung to the nearest scaffold structural member.
-
-(7) When a ladder is supported by an aerial strand, and ladder hooks or other supports are not being used, the ladder shall be extended at least 2 feet above the strand and shall be secured to it (e.g. lashed or held by a safety strap around the strand and ladder side rail). When a ladder is supported by a pole, it shall be securely lashed to the pole unless the ladder is specifically designed to prevent movement when used in this application.
-
-(8) The following requirements apply to metal manhole ladders. (i) Metal manhole ladders shall be free of structural defects and free of accident hazards such as sharp edges and burrs. The metal shall be protected against corrosion unless inherently corrosion-resistant.
-
-(ii) These ladders may be designed with parallel side rails, or with side rails varying uniformly in separation along the length (tapered), or with side rails flaring at the base to increase stability.
-
-(iii) The spacing of rungs or steps shall be on 12-inch centers.
-
-(iv) Connections between rungs or steps and siderails shall be constructed to insure rigidity as well as strength.
-
-(v) Rungs and steps shall be corrugated, knurled, dimpled, coated with skid-resistant material, or otherwise treated to minimize the possibility of slipping.
-
-(vi) Ladder hardware shall meet the strength requirements of the ladder's component parts and shall be of a material that is protected against corrosion unless inherently corrosion-resistant. Metals shall be so selected as to avoid excessive galvanic action.
-
-(i) *Other tools and personal protective equipment* - (1) *Head protection.* Head protection meeting the requirements of ANSI Z89.2-1971, “Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B” shall be provided whenever there is exposure to possible high voltage electrical contact, and the employer shall ensure that the head protection is used by employees. ANSI Z89.2-1971 is incorporated by reference as specified in § 1910.6.
+(i) *Other tools and personal protective equipment*—(1) *Head protection.* Head protection meeting the requirements of ANSI Z89.2-1971, “Safety Requirements for Industrial Protective Helmets for Electrical Workers, Class B” shall be provided whenever there is exposure to possible high voltage electrical contact, and the employer shall ensure that the head protection is used by employees. ANSI Z89.2-1971 is incorporated by reference as specified in § 1910.6.
 
 (2) *Eye protection.* Eye protection meeting the requirements of § 1910.133 (a)(2) thru (a)(6) shall be provided and the employer shall ensure its use by employees where foreign objects may enter the eyes due to work operations such as but not limited to:
 
@@ -221,7 +152,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (9) *Lead work.* The wiping of lead joints using melted solder, gas fueled torches, soldering irons or other appropriate heating devices, and the soldering of wires or other electrical connections do not constitute the welding, cutting and brazing described in subpart Q of this part. When operated from commercial power the metal housing of electric solder pots shall be grounded. Electric solder pots may be used with the power equipment described in paragraph (i)(5) of this section without a grounding conductor. The employer shall ensure that wiping gloves or cloths and eye protection are used in lead wiping operations. A drip pan to catch hot lead drippings shall also be provided and used.
 
-(j) *Vehicle-mounted material handling devices and other mechanical equipment* - (1) *General.* (i) The employer shall ensure that visual inspections are made of the equipment by a competent person each day the equipment is to be used to ascertain that it is in good condition.
+(j) *Vehicle-mounted material handling devices and other mechanical equipment*—(1) *General.* (i) The employer shall ensure that visual inspections are made of the equipment by a competent person each day the equipment is to be used to ascertain that it is in good condition.
 
 (ii) The employer shall ensure that tests shall be made at the beginning of each shift by a competent person to insure the vehicle brakes and operating systems are in proper working condition.
 
@@ -261,7 +192,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (*4*) There is excessive permanent distortion caused by kinking, crushing, or severe twisting of the rope.
 
-(k) *Materials handling and storage* - (1) *Poles.* When working with poles in piles or stacks, work shall be performed from the ends of the poles as much as possible, and precautions shall be taken for the safety of employees at the other end of the pole. During pole hauling operations, all loads shall be secured to prevent displacement. Lights, reflectors and/or flags shall be displayed on the end and sides of the load as necessary. The requirements for installation, removal, or other handling of poles in pole lines are prescribed in paragraph (n) of this section which pertains to overhead lines. In the case of hoisting machinery equipped with a positive stop loadholding device, it shall be permissible for the operator to leave his position at the controls (while a load is suspended) for the sole purpose of assisting in positioning the load prior to landing it. Prior to unloading steel, poles, crossarms, and similar material, the load shall be thoroughly examined to ascertain that the load has not shifted, that binders or stakes have not broken, and that the load is not otherwise hazardous to employees.
+(k) *Materials handling and storage*—(1) *Poles.* When working with poles in piles or stacks, work shall be performed from the ends of the poles as much as possible, and precautions shall be taken for the safety of employees at the other end of the pole. During pole hauling operations, all loads shall be secured to prevent displacement. Lights, reflectors and/or flags shall be displayed on the end and sides of the load as necessary. The requirements for installation, removal, or other handling of poles in pole lines are prescribed in paragraph (n) of this section which pertains to overhead lines. In the case of hoisting machinery equipped with a positive stop loadholding device, it shall be permissible for the operator to leave his position at the controls (while a load is suspended) for the sole purpose of assisting in positioning the load prior to landing it. Prior to unloading steel, poles, crossarms, and similar material, the load shall be thoroughly examined to ascertain that the load has not shifted, that binders or stakes have not broken, and that the load is not otherwise hazardous to employees.
 
 (2) *Cable reels.* Cable reels in storage shall be checked or otherwise restrained when there is a possibility that they might accidentally roll from position.
 
@@ -269,7 +200,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (2) Before the voltage is applied, cable conductors shall be isolated to the extent practicable. Employees shall be warned, by such techniques as briefing and tagging at all affected locations, to stay clear while the voltage is applied.
 
-(m) *Grounding for employee protection - pole lines* - (1) *Power conductors.* Electric power conductors and equipment shall be considered as energized unless the employee can visually determine that they are bonded to one of the grounds listed in paragraph (m)(4) of this section.
+(m) *Grounding for employee protection—pole lines*—(1) *Power conductors.* Electric power conductors and equipment shall be considered as energized unless the employee can visually determine that they are bonded to one of the grounds listed in paragraph (m)(4) of this section.
 
 (2) *Nonworking open wire.* Nonworking open wire communications lines shall be bonded to one of the grounds listed in paragraph (m)(4) of this section.
 
@@ -331,7 +262,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (vi) The employer shall insure that when antenna work has been completed, the rigger in charge of the job returns to the transmitter, notifies the transmitting technician in charge that work has been completed, and personally removes the tag from the antenna ground switch.
 
-(n) *Overhead lines* - (1) *Handling suspension strand.* (i) The employer shall insure that when handling cable suspension strand which is being installed on poles carrying exposed energized power conductors, employees shall wear insulating gloves and shall avoid body contact with the strand until after it has been tensioned, dead-ended and permanently grounded.
+(n) *Overhead lines*—(1) *Handling suspension strand.* (i) The employer shall insure that when handling cable suspension strand which is being installed on poles carrying exposed energized power conductors, employees shall wear insulating gloves and shall avoid body contact with the strand until after it has been tensioned, dead-ended and permanently grounded.
 
 (ii) The strand shall be restrained against upward movement during installation:
 
@@ -457,7 +388,7 @@ Table R-2 - Approach Distances to Exposed Energized Overhead Power Lines and Par
 
 (ii) a fuel tank (e.g., acetylene) may not be in the manhole unless in actual use.
 
-(p) *Microwave transmission* - (1) *Eye protection.* Employers shall insure that employees do not look into an open waveguide which is connected to an energized source of microwave radiation.
+(p) *Microwave transmission*—(1) *Eye protection.* Employers shall insure that employees do not look into an open waveguide which is connected to an energized source of microwave radiation.
 
 (2) *Hazardous area.* Accessible areas associated with microwave communication systems where the electromagnetic radiation level exceeds the radiation protection guide given in § 1910.97 shall be posted as described in that section. The lower half of the warning symbol shall include the following:
 
@@ -465,7 +396,7 @@ Radiation in this area may exceed hazard limitations and special precautions are
 
 (3) *Protective measures.* When an employee works in an area where the electromagnetic radiation exceeds the radiation protection guide, the employer shall institute measures that insure that the employee's exposure is not greater than that permitted by the radiation guide. Such measures shall include, but not be limited to those of an administrative or engineering nature or those involving personal protective equipment.
 
-(q) *Tree trimming* - *electrical hazards* - (1) *General.* (i) Employees engaged in pruning, trimming, removing, or clearing trees from lines shall be required to consider all overhead and underground electrical power conductors to be energized with potentially fatal voltages, never to be touched (contacted) either directly or indirectly.
+(q) *Tree trimming*—*electrical hazards*—(1) *General.* (i) Employees engaged in pruning, trimming, removing, or clearing trees from lines shall be required to consider all overhead and underground electrical power conductors to be energized with potentially fatal voltages, never to be touched (contacted) either directly or indirectly.
 
 (ii) Employees engaged in line-clearing operations shall be instructed that:
 
@@ -486,8 +417,6 @@ Radiation in this area may exceed hazard limitations and special precautions are
 (iii) During all tree working operations aloft where an electrical hazard of more than 750V exists, there shall be a second employee or trainee qualified in line clearance tree trimming within normal voice communication.
 
 (iv) Where tree work is performed by employees qualified in line-clearance tree trimming and trainees qualified in line-clearance tree trimming, the clearances from energized conductors given in Table R-3 shall apply.
-
-Table R-3 - Minimum Working Distances From Energized Conductors for Line-Clearance Tree Trimmers and Line-Clearance Tree-Trimmer Trainees
 
 |Voltage range (phase to phase) (kilovolts)|Minimum working distance|
 |------------------------------------------|------------------------|
@@ -515,9 +444,9 @@ Table R-3 - Minimum Working Distances From Energized Conductors for Line-Clearan
 
 (ii) When an emergency condition develops due to tree operations, work shall be suspended and the system operator/owner shall be notified immediately.
 
-(r) *Buried facilities - Communications lines and power lines in the same trench.* [Reserved]
+(r) *Buried facilities—Communications lines and power lines in the same trench.* [Reserved]
 
-(s) *Definitions* - (1) *Aerial lifts.* Aerial lifts include the following types of vehicle-mounted aerial devices used to elevate personnel to jobsites above ground:
+(s) *Definitions*—(1) *Aerial lifts.* Aerial lifts include the following types of vehicle-mounted aerial devices used to elevate personnel to jobsites above ground:
 
 (i) Extensible boom platforms,
 
@@ -629,4 +558,4 @@ Telecommunication centers are facilities established, equipped and arranged in a
 
 (45) *Voltage of a circuit not effectively grounded.* The voltage between any two conductors. If one circuit is directly connected to and supplied from another circuit of higher voltage (as in the case of an autotransformer), both are considered as of the higher voltage, unless the circuit of lower voltage is effectively grounded, in which case its voltage is not determined by the circuit of higher voltage. Direct connection implies electric connection as distinguished from connection merely through electromagnetic or electrostatic induction.
 
-[40 FR 13441, Mar. 26, 1975, as amended at 43 FR 49751, Oct. 24, 1978; 47 FR 14706, Apr. 6, 1982; 52 FR 36387, Sept. 28, 1987; 54 FR 24334, June 7, 1989; 61 FR 9242, Mar. 7, 1996; 63 FR 33467, June 18, 1998; 67 FR 67965, Nov. 7, 2002; 69 FR 31882, June 8, 2004; 70 FR 1141, Jan. 5, 2005]
+[40 FR 13441, Mar. 26, 1975, as amended at 43 FR 49751, Oct. 24, 1978; 47 FR 14706, Apr. 6, 1982; 52 FR 36387, Sept. 28, 1987; 54 FR 24334, June 7, 1989; 61 FR 9242, Mar. 7, 1996; 63 FR 33467, June 18, 1998; 67 FR 67965, Nov. 7, 2002; 69 FR 31882, June 8, 2004; 70 FR 1141, Jan. 5, 2005; 81 FR 83006, Nov. 18, 2016]

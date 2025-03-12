@@ -1,7 +1,5 @@
 ##### § 390.5 Definitions. #####
 
-Link to an amendment published at 78 FR 52653, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63711, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
 Unless specifically defined elsewhere, in this subchapter:
 
 *Accident* means -
@@ -118,7 +116,7 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *Exempt intracity zone* means the geographic area of a municipality or the commercial zone of that municipality described in appendix F to subchapter B of this chapter. The term “exempt intracity zone” does not include any municipality or commercial zone in the State of Hawaii. For purposes of § 391.62, a driver may be considered to operate a commercial motor vehicle wholly within an exempt intracity zone notwithstanding any common control, management, or arrangement for a continuous carriage or shipment to or from a point without such zone.
 
-*Exempt motor carrier* means a person engaged in transportation exempt from economic regulation by the Federal Motor Carrier Safety Administration (FMCSA) under 49 U.S.C. 13506. “Exempt motor carriers” are subject to the safety regulations set forth in this subchapter.
+*Exempt motor carrier* means a person engaged in transportation exempt from economic regulation by the Federal Motor Carrier Safety Administration (FMCSA) under 49 U.S.C. chapter 135 but subject to the safety regulations set forth in this subchapter.
 
 *Farm vehicle driver* means a person who drives only a commercial motor vehicle that is -
 
@@ -298,4 +296,4 @@ Unless specifically defined elsewhere, in this subchapter:
 
 *United States* means the 50 States and the District of Columbia.
 
-[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[53 FR 18052, May 19, 1988]Editorial Note:For Federal Register citations affecting § 390.5, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 5311, Jan. 17, 2017, § 390.5 was suspended, effective Jan. 14, 2017.

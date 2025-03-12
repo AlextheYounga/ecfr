@@ -1,5 +1,7 @@
 ##### § 422.612 Judicial review. #####
 
+Link to an amendment published at 82 FR 5125, Jan. 17, 2017.
+
 (a) *Review of ALJ's decision.* Any party, including the MA organization, may request judicial review (upon notifying the other parties) of an ALJ's decision if -
 
 (1) The Board denied the party's request for review; and

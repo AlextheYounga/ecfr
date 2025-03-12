@@ -1,0 +1,3 @@
+##### § 30.19 Exemptions. #####
+
+Requests for exemption from these regulations, or any part thereof, must be made in writing to the Registration Agency and must contain a statement of reasons supporting the request. Exemptions may be granted for good cause by the Registration Agency. State Apprenticeship Agencies must receive approval to grant an exemption from the Administrator, prior to granting an exemption from these regulations.

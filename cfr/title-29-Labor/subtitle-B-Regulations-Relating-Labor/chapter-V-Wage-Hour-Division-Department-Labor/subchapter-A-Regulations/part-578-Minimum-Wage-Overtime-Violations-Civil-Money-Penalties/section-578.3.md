@@ -1,6 +1,6 @@
 ##### § 578.3 What types of violations may result in a penalty being assessed? #####
 
-(a) A penalty of up to $1,894 per violation may be assessed against any person who repeatedly or willfully violates section 6 (minimum wage) or section 7 (overtime) of the Act. The amount of the penalty will be determined by applying the criteria in § 578.4.
+(a) A penalty of up to $1,925 per violation may be assessed against any person who repeatedly or willfully violates section 6 (minimum wage) or section 7 (overtime) of the Act. The amount of the penalty will be determined by applying the criteria in § 578.4.
 
 (b) *Repeated violations.* An employer's violation of section 6 or section 7 of the Act shall be deemed to be “repeated” for purposes of this section:
 
@@ -14,4 +14,4 @@
 
 (3) For purposes of this section, an employer's conduct shall be deemed to be in reckless disregard of the requirements of the Act, among other situations, if the employer should have inquired further into whether its conduct was in compliance with the Act, and failed to make adequate further inquiry.
 
-[57 FR 49129, Oct. 29, 1992; 57 FR 57280, Dec. 3, 1992, as amended at 66 FR 63503, Dec. 7, 2001; 81 FR 43451, July 1, 2016]
+[57 FR 49129, Oct. 29, 1992; 57 FR 57280, Dec. 3, 1992, as amended at 66 FR 63503, Dec. 7, 2001; 81 FR 43451, July 1, 2016; 82 FR 5382, Jan. 18, 2017]

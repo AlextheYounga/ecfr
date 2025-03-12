@@ -1,5 +1,7 @@
 ##### § 405.1102 Request for MAC review when ALJ issues decision or dismissal. #####
 
+Link to an amendment published at 82 FR 5122, Jan. 17, 2017.
+
 (a)(1) A party to the ALJ hearing may request a MAC review if the party files a written request for a MAC review within 60 calendar days after receipt of the ALJ's decision or dismissal.
 
 (2) For purposes of this section, the date of receipt of the ALJ's decision or dismissal is presumed to be 5 calendar days after the date of the notice of the decision or dismissal, unless there is evidence to the contrary.

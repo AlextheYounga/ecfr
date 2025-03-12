@@ -1,5 +1,7 @@
 ##### § 1001.1001 Exclusion of entities owned or controlled by a sanctioned person. #####
 
+Link to an amendment published at 82 FR 4114, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) The OIG may exclude an entity if:
 
 (i) A person with a relationship with such entity -

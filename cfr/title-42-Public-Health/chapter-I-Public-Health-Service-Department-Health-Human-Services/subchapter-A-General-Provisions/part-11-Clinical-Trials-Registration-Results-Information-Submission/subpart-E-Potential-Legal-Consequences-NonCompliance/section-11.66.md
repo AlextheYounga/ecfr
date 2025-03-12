@@ -1,0 +1,13 @@
+##### § 11.66 What are potential legal consequences of not complying with the requirements of this part? #####
+
+(a) *Civil or criminal judicial actions.* Failure to comply with the requirements of this part, issued under section 402(j) of the Public Health Service Act (42 U.S.C. 282(j)), is a prohibited act under one or more provisions of section 301(jj) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 331(jj)):
+
+(1) Failure to submit the certification required by section 402(j)(5)(B) of the Public Health Service (42 U.S.C. 282(j)(5)(B)) that all applicable requirements of section 402(j) have been met, or knowingly submitting a false certification under section 402(j)(5)(B), is a prohibited act under section 301(jj)(1) of the Federal Food, Drug, and Cosmetic Act.
+
+(2) Failure to submit clinical trial information required under section 402(j) of the Public Health Service Act is a prohibited act under section 301(jj)(2) of the Federal Food, Drug, and Cosmetic Act.
+
+(3) Submission of clinical trial information under section 402(j) that is false or misleading in any particular is a prohibited act under section 301(jj)(3) of the Federal Food, Drug, and Cosmetic Act.
+
+(b) *Civil monetary penalty actions.* Any person who violates section 301(jj) of the Federal Food, Drug, and Cosmetic Act is subject to civil monetary penalties under section 303(f)(3) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 333(f)(3)).
+
+(c) *Grant funding actions.* Under section 402(j)(5)(A) of the Public Health Service Act (42 U.S.C. 282(j)(5)(A)), if an applicable clinical trial is funded in whole or part by the Department of Health and Human Services, any required grant or progress report forms must include a certification that the responsible party has made all required registration and results submissions. If it is not verified that the required registration and results clinical trial information for each applicable clinical trial for which a grantee is the responsible party has been submitted, any remaining funding for a grant or funding for a future grant to such grantee will not be released. If the head of an HHS agency verifies that a grantee has not submitted such required clinical trial information, the agency head will provide notice to the grantee of the non-compliance and allow the grantee 30 days to correct the non-compliance and submit the required clinical trial information.

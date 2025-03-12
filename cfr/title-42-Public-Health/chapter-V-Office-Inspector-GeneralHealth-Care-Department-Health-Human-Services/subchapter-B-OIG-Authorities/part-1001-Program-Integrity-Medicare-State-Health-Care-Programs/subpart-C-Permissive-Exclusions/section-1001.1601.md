@@ -1,5 +1,7 @@
 ##### § 1001.1601 Violations of the limitations on physician charges. #####
 
+Link to an amendment published at 82 FR 4116, Jan. 12, 2017.
+
 (a) *Circumstance for exclusion.* (1) The OIG may exclude a physician whom it determines -
 
 (i) Is a non-participating physician under section 1842(j) of the Act;

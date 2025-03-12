@@ -1,7 +1,5 @@
 ##### § 1001.1 Definitions. #####
 
-Link to an amendment published at 81 FR 92361, December 19, 2016.
-
 As used in this chapter:
 
 (a) The terms defined in section 101 of the Immigration and Nationality Act (66 Stat. 163) shall have the meanings ascribed to them in that section and as supplemented, explained, and further defined in this chapter.
@@ -50,8 +48,12 @@ As used in this chapter:
 
 (w) The term *DHS* means the Department of Homeland Security. These rules incorporate by reference the organizational definitions for components of DHS as provided in 8 CFR 1.1.
 
-(x)-(aa) [Reserved]
+(x) The term *OLAP* means the Office of Legal Access Programs.
+
+(y) The term *OLAP Director* means the Program Director of the Office of Legal Access Programs.
+
+(aa) [Reserved]
 
 (bb) The term *transition program effective date* as used with respect to extending the immigration laws to the Commonwealth of the Northern Mariana Islands means November 28, 2009.
 
-[23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[23 FR 9115, Nov. 26, 1958]Editorial Note:For Federal Register citations affecting § 1001.1, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,5 +1,7 @@
 ##### § 405.1030 ALJ hearing procedures. #####
 
+Link to an amendment published at 82 FR 5116, Jan. 17, 2017.
+
 (a) *General rule.* A hearing is open to the parties and to other persons the ALJ considers necessary and proper.
 
 (b) *At the hearing.* At the hearing, the ALJ fully examines the issues, questions the parties and other witnesses, and may accept documents that are material to the issues consistent with §§ 405.1018 and 405.1028.

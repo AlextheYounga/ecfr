@@ -1,5 +1,7 @@
 ##### § 423.1980 Reopenings of coverage determinations, redeterminations, reconsiderations, hearings and reviews. #####
 
+Link to an amendment published at 82 FR 5126, Jan. 17, 2017.
+
 (a) *General rules.* (1) A reopening is a remedial action taken to change a binding determination or decision, even though the binding determination or decision may have been correct at the time it was made based on the evidence of record. Consistent with § 423.1978(a), that action may be taken by -
 
 (i) A Part D plan sponsor to revise the coverage determination or redetermination;

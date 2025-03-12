@@ -32,7 +32,11 @@
 
 (B) *Credits and credit carryforwards.* Consistent with paragraph (b)(1)(i) of this section, minimum tax credits and business credit carryforwards arising in taxable years for which the corporation that generated the credit was not subject to subchapter M of chapter 1 of the Internal Revenue Code are allowed to reduce the tax imposed on net recognized built-in gain under this paragraph (b) to the extent allowed under section 1374 and the regulations thereunder. Such credits and credit carryforwards must be used to reduce the tax imposed under this paragraph (b) on net recognized built-in gain for a taxable year to the greatest extent possible before such credits and credit carryforwards can be used to reduce the tax, if any, on other investment company taxable income for purposes of section 852(b) or on other real estate investment trust taxable income for purposes of section 857(b) for that taxable year.
 
-(iii) [Reserved]. For further guidance, see § 1.337(d)-7T(b)(2)(iii).
+(iii) *Recognition period.* For purposes of applying the rules of section 1374 and the regulations thereunder, as modified by paragraph (b) of this section, the term *recognition period* means the recognition period described in section 1374(d)(7), beginning -
+
+(A) In the case of a conversion transaction that is a qualification of a C corporation as a RIC or a REIT, on the first day of the RIC's or the REIT's first taxable year; and
+
+(B) In the case of other conversion transactions, on the day the RIC or the REIT acquires the property.
 
 (3) *Coordination with subchapter M rules* - (i) *Recognized built-in gains and losses subject to subchapter M.* Recognized built-in gains and losses of a RIC or REIT are included in computing investment company taxable income for purposes of section 852(b)(2), real estate investment trust taxable income for purposes of section 857(b)(2), capital gains for purposes of sections 852(b)(3) and 857(b)(3), gross income derived from sources within any foreign country or possession of the United States for purposes of section 853, and the dividends paid deduction for purposes of sections 852(b)(2)(D), 852(b)(3)(A), 857(b)(2)(B), and 857(b)(3)(A). In computing such income and deduction items, capital loss carryforwards and net operating loss carryforwards that are used by the RIC or REIT to reduce recognized built-in gains are allowed as a deduction, but only to the extent that they are otherwise allowable as a deduction against such income under the Internal Revenue Code (including section 852(b)(2)(B)).
 
@@ -134,6 +138,8 @@ Example 5. Section 1033(a) involuntary conversion of property held by a REIT.(i)
 
 (2) *Special rules* - (i) *Conversion transactions occurring on or after August 2, 2013 and certain prior conversion transactions.* Paragraphs (a)(2)(i) through (v), (d)(1), (d)(3), (d)(4), and (e) of this section apply to conversion transactions that occur on or after August 2, 2013. However, taxpayers may apply paragraphs (a)(2)(i) through (v), (d)(1), (d)(3), (d)(4), and (e) of this section to conversion transactions that occurred before August 2, 2013. For conversion transactions that occurred on or after January 2, 2002 and before August 2, 2013, see § 1.337(d)-7 as contained in 26 CFR part 1 in effect on April 1, 2013.
 
-(ii) through (iii) [Reserved]. For further guidance, see § 1.337(d)-7T(g)(2)(ii) through (iii).
+(ii) [Reserved]. For further guidance, see § 1.337(d)-7T(g)(2)(ii) through (iii).
 
-[T.D. 9047, 68 FR 12822, Mar. 18, 2003, as amended by T.D. 9626, 78 FR 46806, Aug. 2, 2013; T.D. 9770, 81 FR 36797, June 8, 2016]
+(iii) *Recognition period.* Paragraphs (b)(1)(ii) and (d)(2)(iii) of this section apply to conversion transactions that occur on or after August 8, 2016. Paragraph (b)(2)(iii) of this section applies to conversion transactions that occur after February 17, 2017. For conversion transactions that occurred on or after August 8, 2016 and on or before February 17, 2017, see § 1.337(d)-7T(b)(2)(iii) in effect on August 8, 2016. However, taxpayers may apply paragraph (b)(2)(iii) of this section to conversion transactions that occurred on or after August 8, 2016 and on or before February 17, 2017. For conversion transactions that occurred on or after January 2, 2002 and before August 8, 2016, see § 1.337(d)-7 as contained in 26 CFR part 1 in effect on April 1, 2016.
+
+[T.D. 9047, 68 FR 12822, Mar. 18, 2003, as amended by T.D. 9626, 78 FR 46806, Aug. 2, 2013; T.D. 9770, 81 FR 36797, June 8, 2016; T.D. 9810, 82 FR 5388, Jan. 18, 2017]

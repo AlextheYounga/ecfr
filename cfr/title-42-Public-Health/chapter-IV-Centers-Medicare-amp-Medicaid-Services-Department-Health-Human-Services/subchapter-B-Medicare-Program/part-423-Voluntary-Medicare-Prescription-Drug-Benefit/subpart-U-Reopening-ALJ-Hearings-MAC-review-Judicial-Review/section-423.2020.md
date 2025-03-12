@@ -1,5 +1,7 @@
 ##### § 423.2020 Time and place for a hearing before an ALJ. #####
 
+Link to an amendment published at 82 FR 5130, Jan. 17, 2017.
+
 (a) *General.* Consistent with § 423.1972(b), the ALJ sets the time and place for the hearing, and may change the time and place, if necessary.
 
 (b) *Determining how appearances are made.* (1) The ALJ will direct that the appearance of an individual be conducted by video-teleconferencing if the ALJ finds that video-teleconferencing technology is available to conduct the appearance.

@@ -1,5 +1,7 @@
 ##### § 423.2002 Right to an ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5127, Jan. 17, 2017.
+
 (a) Consistent with § 423.1970(a), an enrollee may request a hearing before an ALJ if -
 
 (1) The enrollee files a written request for an ALJ hearing within 60 calendar days after receipt of the written notice of the IRE's reconsideration; and

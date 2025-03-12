@@ -2,18 +2,4 @@
 
 The definitions contained in § 314.3 of this chapter apply to those terms when used in this part.
 
-(a) *Bioavailability* means the rate and extent to which the active ingredient or active moiety is absorbed from a drug product and becomes available at the site of action. For drug products that are not intended to be absorbed into the bloodstream, bioavailability may be assessed by measurements intended to reflect the rate and extent to which the active ingredient or active moiety becomes available at the site of action.
-
-(b) *Drug product* means a finished dosage form, e.g., tablet, capsule, or solution, that contains the active drug ingredient, generally, but not necessarily, in association with inactive ingredients.
-
-(c) *Pharmaceutical equivalents* means drug products in identical dosage forms that contain identical amounts of the identical active drug ingredient, *i.e.*, the same salt or ester of the same therapeutic moiety, or, in the case of modified release dosage forms that require a reservoir or overage or such forms as prefilled syringes where residual volume may vary, that deliver identical amounts of the active drug ingredient over the identical dosing period; do not necessarily contain the same inactive ingredients; and meet the identical compendial or other applicable standard of identity, strength, quality, and purity, including potency and, where applicable, content uniformity, disintegration times, and/or dissolution rates.
-
-(d) *Pharmaceutical alternatives* means drug products that contain the identical therapeutic moiety, or its precursor, but not necessarily in the same amount or dosage form or as the same salt or ester. Each such drug product individually meets either the identical or its own respective compendial or other applicable standard of identity, strength, quality, and purity, including potency and, where applicable, content uniformity, disintegration times and/or dissolution rates.
-
-(e) *Bioequivalence* means the absence of a significant difference in the rate and extent to which the active ingredient or active moiety in pharmaceutical equivalents or pharmaceutical alternatives becomes available at the site of drug action when administered at the same molar dose under similar conditions in an appropriately designed study. Where there is an intentional difference in rate (e.g., in certain extended release dosage forms), certain pharmaceutical equivalents or alternatives may be considered bioequivalent if there is no significant difference in the extent to which the active ingredient or moiety from each product becomes available at the site of drug action. This applies only if the difference in the rate at which the active ingredient or moiety becomes available at the site of drug action is intentional and is reflected in the proposed labeling, is not essential to the attainment of effective body drug concentrations on chronic use, and is considered medically insignificant for the drug.
-
-(f) *Bioequivalence requirement* means a requirement imposed by the Food and Drug Administration for in vitro and/or in vivo testing of specified drug products which must be satisfied as a condition of marketing.
-
-(g) *Same drug product formulation* means the formulation of the drug product submitted for approval and any formulations that have minor differences in composition or method of manufacture from the formulation submitted for approval, but are similar enough to be relevant to the agency's determination of bioequivalence.
-
-[42 FR 1634, Jan. 7, 1977, as amended at 42 FR 1648, Jan. 7, 1977; 57 FR 17997, Apr. 28, 1992; 67 FR 77672, Dec. 19, 2002; 74 FR 2861, Jan. 16, 2009; 81 FR 69658, Oct. 6, 2016]
+[81 FR 69658, Oct. 6, 2016]

@@ -1,5 +1,7 @@
 ##### § 405.1104 Request for MAC review when an ALJ does not issue a decision timely. #####
 
+Link to an amendment published at 82 FR 5122, Jan. 17, 2017.
+
 (a) *Requesting escalation.* An appellant who files a timely request for hearing before an ALJ and whose appeal continues to be pending before the ALJ at the end of the applicable ALJ adjudication period under § 405.1016 may request MAC review if -
 
 (1) The appellant files a written request with the ALJ to escalate the appeal to the MAC after the adjudication period has expired; and

@@ -1,8 +1,6 @@
 ##### § 385.409 When may a temporary safety permit be issued to a motor carrier? #####
 
-Link to an amendment published at 78 FR 52650, Aug. 23, 2013.Link to a delay published at 80 FR 63702, Oct. 21, 2015.Link to an amendment published at 80 FR 63708, Oct. 21, 2015.Link to a delay published at 81 FR 49553, July 28, 2016.
-
-(a) *Temporary safety permit.* If a motor carrier does not meet the criteria in § 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit a motor carrier must certify on Form MCS-150B that it is operating in full compliance with the HMRs; with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this chapter or in State regulations, whichever is applicable.
+(a) *Temporary safety permit.* If a motor carrier does not meet the criteria of § 385.407(a), FMCSA may issue it a temporary safety permit. To obtain a temporary safety permit, a motor carrier must certify on Form MCSA-1, the URS online application, that it is operating in full compliance with the HMRs, with the FMCSRs, and/or comparable State regulations, whichever is applicable; and with the minimum financial responsibility requirements in part 387 of this subchapter or in State regulations, whichever is applicable.
 
 (b) FMCSA will not issue a temporary safety permit to a motor carrier that:
 
@@ -19,3 +17,5 @@ Link to an amendment published at 78 FR 52650, Aug. 23, 2013.Link to a delay pub
 (2) A motor carrier that receives a less than Satisfactory safety rating is ineligible for a safety permit and will be subject to revocation of its temporary safety permit.
 
 (d) If a motor carrier has not received a safety rating within the 180-day time period, FMCSA will extend the effective date of the temporary safety permit for an additional 60 days, provided the motor carrier demonstrates that it is continuing to operate in full compliance with the FMCSRs and HMRs.
+
+[69 FR 39367, June 30, 2004, as amended at 80 FR 63708, Oct. 21, 2015]Effective Date Note:At 82 FR 5305, Jan. 17, 2017, § 385.409 was suspended, effective Jan. 14, 2017.

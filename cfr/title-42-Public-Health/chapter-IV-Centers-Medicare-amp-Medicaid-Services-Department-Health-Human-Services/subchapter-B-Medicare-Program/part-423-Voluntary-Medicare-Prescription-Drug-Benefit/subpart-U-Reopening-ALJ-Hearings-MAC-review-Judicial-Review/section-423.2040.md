@@ -1,5 +1,7 @@
 ##### § 423.2040 Prehearing and posthearing conferences. #####
 
+Link to an amendment published at 82 FR 5133, Jan. 17, 2017.
+
 (a) The ALJ may decide on his or her own, or at the request of the enrollee to the hearing, to hold a prehearing or posthearing conference to facilitate the hearing or the hearing decision.
 
 (b) For non-expedited hearings, the ALJ informs the enrollee of the time, place, and purpose of the conference at least 7 calendar days before the conference date, unless the enrollee indicates in writing that he or she does not wish to receive a written notice of the conference.

@@ -1,5 +1,7 @@
 ##### § 404.1513 Medical and other evidence of your impairment(s). #####
 
+Link to an amendment published at 82 FR 5865, Jan. 18, 2017.
+
 (a) *Sources who can provide evidence to establish an impairment.* We need evidence from acceptable medical sources to establish whether you have a medically determinable impairment(s). See § 404.1508. Acceptable medical sources are -
 
 (1) Licensed physicians (medical or osteopathic doctors);

@@ -1,15 +1,13 @@
-##### § 88.13 WTC Program Administrator's certification of health conditions. #####
+##### § 88.13 Disenrollment. #####
 
-(a) *WTC-related health condition.* (1) The WTC Program Administrator will review each physician determination, render a decision regarding certification, and notify the WTC responder, screening-eligible survivor, or certified-eligible survivor of the WTC Program Administrator's decision and the reason for the decision in writing.
+(a) The disenrollment of a WTC Health Program member may be initiated by the WTC Health Program in the following circumstances:
 
-(2) If certification is denied, the WTC responder, screening-eligible survivor, or certified-eligible survivor may appeal the WTC Program Administrator's decision to deny certification, as provided under § 88.15.
+(1) The WTC Health Program mistakenly enrolled an individual under § 88.4 (WTC responders) or § 88.8 (screening-eligible survivors) who did not provide sufficient proof of eligibility consistent with the required eligibility criteria; or
 
-(b) *Health condition medically associated with a WTC-related health condition.* (1) The WTC Program Administrator will review each physician determination, render a decision regarding certification, and notify the WTC responder or certified-eligible survivor in writing of the WTC Program Administrator's decision and the reason for the decision.
+(2) The WTC Health Program member's enrollment was based on incorrect or fraudulent information.
 
-(i) In the course of review, the WTC Program Administrator may seek a recommendation about certification from a physician panel with appropriate expertise for the condition.
+(b) The disenrollment of a WTC Health Program member may be initiated by the enrollee for any reason.
 
-(ii) [Reserved]
+(c) A disenrolled WTC Health Program member will be notified in writing by the WTC Health Program of a disenrollment decision, provided an explanation, as appropriate, for the decision, and provided information on how to appeal the decision. A disenrolled WTC Health Program member disenrolled pursuant to paragraph (a) may appeal the disenrollment decision in accordance with § 88.14.
 
-(2) If certification is denied, the WTC responder or certified-eligible survivor may appeal the WTC Program Administrator's decision to deny certification, as provided under § 88.15.
-
-(c) *Treatment pending certification.* While certification is pending, authorization for treatment of a WTC-related health condition or a health condition medically associated with a WTC-related health condition shall be obtained from the WTC Program Administrator before treatment is provided, except for the provision of treatment for a medical emergency.
+(d) A disenrolled WTC Health Program member who has been disenrolled in accordance with paragraphs (a) or (b) of this section may seek to re-enroll in the WTC Health Program using the application and enrollment procedures, provided that the application is supported by new information.

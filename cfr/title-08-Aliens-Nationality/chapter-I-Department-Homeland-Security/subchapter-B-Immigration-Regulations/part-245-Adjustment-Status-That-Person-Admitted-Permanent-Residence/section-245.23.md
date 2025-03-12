@@ -1,7 +1,5 @@
 ##### § 245.23 Adjustment of aliens in T nonimmigrant classification. #####
 
-Link to an amendment published at 81 FR 92304, December 19, 2016.
-
 (a) *Eligibility of principal T-1 applicants.* Except as described in paragraph (c) of this section, an alien may be granted adjustment of status to that of an alien lawfully admitted for permanent residence, provided the alien:
 
 (1) Applies for such adjustment;
@@ -10,7 +8,11 @@ Link to an amendment published at 81 FR 92304, December 19, 2016.
 
 (ii) Continues to hold such status at the time of application, or accrued 4 years in T-1 nonimmigrant status and files a complete application before April 13, 2009;
 
-(3) Has been physically present in the United States for a continuous period of at least 3 years since the first date of lawful admission as a T-1 nonimmigrant or has been physically present in the United States for a continuous period during the investigation or prosecution of acts of trafficking and the Attorney General has determined that the investigation or prosecution is complete, whichever period of time is less; provided that if the applicant has departed from the United States for any single period in excess of 90 days or for any periods in the aggregate exceeding 180 days, the applicant shall be considered to have failed to maintain continuous physical presence in the United States for purposes of section 245(*l*)(1)(A) of the Act;
+(3) Has been physically present in the United States for a continuous period of at least 3 years since the first date of lawful admission as a T-1 nonimmigrant, or has been physically present in the United States for a continuous period during the investigation or prosecution of acts of trafficking and the Attorney General has determined that the investigation or prosecution is complete, whichever period is less; except
+
+(i) If the applicant has departed from the United States for any single period in excess of 90 days or for any periods in the aggregate exceeding 180 days, the applicant shall be considered to have failed to maintain continuous physical presence in the United States for purposes of section 245(l)(1)(A) of the Act; and
+
+(ii) If the alien was granted T nonimmigrant status under 8 CFR 214.11, such alien's physical presence in the CNMI before, on, or after November 28, 2009, and subsequent to the grant of T nonimmigrant status, is considered as equivalent to presence in the United States pursuant to an admission in T nonimmigrant status.
 
 (4) Is admissible to the United States under the Act, or otherwise has been granted a waiver by USCIS of any applicable ground of inadmissibility, at the time of examination for adjustment;
 
@@ -24,7 +26,7 @@ Link to an amendment published at 81 FR 92304, December 19, 2016.
 
 (1) The T-1 principal nonimmigrant has applied for adjustment of status under this section and meets the eligibility requirements described under subsection (a);
 
-(2) The derivative family member was lawfully admitted to the United States in T-2, T-3, T-4, or T-5 nonimmigrant status as the spouse, parent, sibling, or child of a T-1 nonimmigrant, and continues to hold such status at the time of application;
+(2) The derivative family member was lawfully admitted to the United States in derivative T nonimmigrant status under section 101(a)(15)(T)(ii) of the Act, and continues to hold such status at the time of application;
 
 (3) The derivative family member has applied for such adjustment; and
 
@@ -100,4 +102,4 @@ Link to an amendment published at 81 FR 92304, December 19, 2016.
 
 (2) *Waiting list.* All eligible applicants who, due solely to the limit imposed in section 245(*l*)(4) of the Act and paragraph (m)(1) of this section, are not granted adjustment of status will be placed on a waiting list. USCIS will send the applicant written notice of such placement. Priority on the waiting list will be determined by the date the application was properly filed, with the oldest applications receiving the highest priority. In the following fiscal year, USCIS will proceed with granting adjustment of status to applicants on the waiting list who remain admissible and eligible for adjustment of status in order of highest priority until the available numbers are exhausted for the given fiscal year. After the status of qualifying applicants on the waiting list has been adjusted, any remaining numbers for that fiscal year will be issued to new qualifying applicants in the order that the applications were properly filed.
 
-[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013]
+[73 FR 75558, Dec. 12, 2008, as amended at 78 FR 18472, Mar. 27, 2013; 81 FR 92312, Dec. 19, 2016]

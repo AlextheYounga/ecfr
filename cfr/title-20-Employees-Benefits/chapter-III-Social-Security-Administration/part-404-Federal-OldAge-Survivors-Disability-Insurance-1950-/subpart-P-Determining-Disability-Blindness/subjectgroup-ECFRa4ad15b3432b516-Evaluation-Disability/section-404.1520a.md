@@ -1,6 +1,6 @@
 ##### § 404.1520a Evaluation of mental impairments. #####
 
-Link to an amendment published at 81 FR 66160, September 26, 2016.
+Link to an amendment published at 82 FR 5867, Jan. 18, 2017.
 
 (a) *General.* The steps outlined in § 404.1520 apply to the evaluation of physical and mental impairments. In addition, when we evaluate the severity of mental impairments for adults (persons age 18 and over) and in persons under age 18 when Part A of the Listing of Impairments is used, we must follow a special technique at each level in the administrative review process. We describe this special technique in paragraphs (b) through (e) of this section. Using the technique helps us:
 
@@ -18,13 +18,13 @@ Link to an amendment published at 81 FR 66160, September 26, 2016.
 
 (2) We will rate the degree of your functional limitation based on the extent to which your impairment(s) interferes with your ability to function independently, appropriately, effectively, and on a sustained basis. Thus, we will consider such factors as the quality and level of your overall functional performance, any episodic limitations, the amount of supervision or assistance you require, and the settings in which you are able to function. See 12.00C through 12.00H of the Listing of Impairments in appendix 1 to this subpart for more information about the factors we consider when we rate the degree of your functional limitation.
 
-(3) We have identified four broad functional areas in which we will rate the degree of your functional limitation: Activities of daily living; social functioning; concentration, persistence, or pace; and episodes of decompensation. See 12.00C of the Listing of Impairments.
+(3) We have identified four broad functional areas in which we will rate the degree of your functional limitation: Understand, remember, or apply information; interact with others; concentrate, persist, or maintain pace; and adapt or manage oneself. See 12.00E of the Listing of Impairments in appendix 1 to this subpart.
 
-(4) When we rate the degree of limitation in the first three functional areas (activities of daily living; social functioning; and concentration, persistence, or pace), we will use the following five-point scale: None, mild, moderate, marked, and extreme. When we rate the degree of limitation in the fourth functional area (episodes of decompensation), we will use the following four-point scale: None, one or two, three, four or more. The last point on each scale represents a degree of limitation that is incompatible with the ability to do any gainful activity.
+(4) When we rate your degree of limitation in these areas (understand, remember, or apply information; interact with others; concentrate, persist, or maintain pace; and adapt or manage oneself), we will use the following five-point scale: None, mild, moderate, marked, and extreme. The last point on the scale represents a degree of limitation that is incompatible with the ability to do any gainful activity.
 
 (d) *Use of the technique to evaluate mental impairments.* After we rate the degree of functional limitation resulting from your impairment(s), we will determine the severity of your mental impairment(s).
 
-(1) If we rate the degree of your limitation in the first three functional areas as “none” or “mild” and “none” in the fourth area, we will generally conclude that your impairment(s) is not severe, unless the evidence otherwise indicates that there is more than a minimal limitation in your ability to do basic work activities (see § 404.1521).
+(1) If we rate the degrees of your limitation as “none” or “mild,” we will generally conclude that your impairment(s) is not severe, unless the evidence otherwise indicates that there is more than a minimal limitation in your ability to do basic work activities (see § 404.1521).
 
 (2) If your mental impairment(s) is severe, we will then determine if it meets or is equivalent in severity to a listed mental disorder. We do this by comparing the medical findings about your impairment(s) and the rating of the degree of functional limitation to the criteria of the appropriate listed mental disorder. We will record the presence or absence of the criteria and the rating of the degree of functional limitation on a standard document at the initial and reconsideration levels of the administrative review process, or in the decision at the administrative law judge hearing and Appeals Council levels (in cases in which the Appeals Council issues a decision). See paragraph (e) of this section.
 
@@ -42,4 +42,4 @@ Link to an amendment published at 81 FR 66160, September 26, 2016.
 
 (5) If the administrative law judge requires the services of a medical expert to assist in applying the technique but such services are unavailable, the administrative law judge may return the case to the State agency or the appropriate Federal component, using the rules in § 404.941 of this part, for completion of the standard document. If, after reviewing the case file and completing the standard document, the State agency or Federal component concludes that a determination favorable to you is warranted, it will process the case using the rules found in § 404.941(d) or (e) of this part. If, after reviewing the case file and completing the standard document, the State agency or Federal component concludes that a determination favorable to you is not warranted, it will send the completed standard document and the case to the administrative law judge for further proceedings and a decision.
 
-[65 FR 50774, Aug. 21, 2000; 65 FR 60584, Oct. 12, 2000, as amended at 71 FR 16444, Mar. 31, 2006; 75 FR 62680, Oct. 13, 2010; 76 FR 24806, May 3, 2011]
+[65 FR 50774, Aug. 21, 2000; 65 FR 60584, Oct. 12, 2000, as amended at 71 FR 16444, Mar. 31, 2006; 75 FR 62680, Oct. 13, 2010; 76 FR 24806, May 3, 2011; 81 FR 66160, Sept. 26, 2016]

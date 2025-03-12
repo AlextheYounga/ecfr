@@ -1,7 +1,5 @@
 ##### § 382.107 Definitions. #####
 
-Link to an amendment published at 81 FR 87724, Dec. 5, 2016.
-
 Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this subchapter, and § 40.3 of this title, except as provided in this section -
 
 *Actual knowledge* for the purpose of subpart B of this part, means actual knowledge by an employer that a driver has used alcohol or controlled substances based on the employer's direct observation of the employee, information provided by the driver's previous employer(s), a traffic citation for driving a CMV while under the influence of alcohol or controlled substances or an employee's admission of alcohol or controlled substance use, except as provided in § 382.121. Direct observation as used in this definition means observation of alcohol or controlled substances use and does not include observation of employee behavior or physical characteristics sufficient to warrant reasonable suspicion testing under § 382.307.
@@ -17,6 +15,8 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 (1) Any trade, traffic or transportation within the jurisdiction of the United States between a place in a State and a place outside of such State, including a place outside of the United States; and
 
 (2) Trade, traffic, and transportation in the United States which affects any trade, traffic, and transportation described in paragraph (1) of this definition.
+
+*Commercial Driver's License Drug and Alcohol Clearinghouse (Clearinghouse)* means the FMCSA database that subpart G of this part requires employers and service agents to report information to and to query regarding drivers who are subject to the DOT controlled substance and alcohol testing regulations.
 
 *Commercial motor vehicle* means a motor vehicle or combination of motor vehicles used in commerce to transport passengers or property if the vehicle
 
@@ -59,6 +59,8 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 *Employer* means a person or entity employing one or more employees (including an individual who is self-employed) that is subject to DOT agency regulations requiring compliance with this part. The term, as used in this part, means the entity responsible for overall implementation of DOT drug and alcohol program requirements, including individuals employed by the entity who take personnel actions resulting from violations of this part and any applicable DOT agency regulations. Service agents are not employers for the purposes of this part.
 
 *Licensed medical practitioner* means a person who is licensed, certified, and/or registered, in accordance with applicable Federal, State, local, or foreign laws and regulations, to prescribe controlled substances and other drugs.
+
+*Negative return-to-duty test result* means a return-to-duty test with a negative drug result and/or an alcohol test with an alcohol concentration of less than 0.02, as described in § 40.305 of this title.
 
 *Performing (a safety-sensitive function)* means a driver is considered to be performing a safety-sensitive function during any period in which he or she is actually performing, ready to perform, or immediately available to perform any safety-sensitive functions.
 
@@ -108,4 +110,4 @@ Words or phrases used in this part are defined in §§ 386.2 and 390.5 of this s
 
 *Violation rate for random alcohol testing* means the number of 0.04 and above random alcohol confirmation test results conducted under this part plus the number of refusals of random alcohol tests required by this part, divided by the total number of random alcohol screening tests (including refusals) conducted under this part.
 
-[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012]
+[66 FR 43103, Aug. 17, 2001, as amended at 68 FR 75458, Dec. 31, 2003; 77 FR 59825, Oct. 1, 2012; 81 FR 87724, Dec. 5, 2016]

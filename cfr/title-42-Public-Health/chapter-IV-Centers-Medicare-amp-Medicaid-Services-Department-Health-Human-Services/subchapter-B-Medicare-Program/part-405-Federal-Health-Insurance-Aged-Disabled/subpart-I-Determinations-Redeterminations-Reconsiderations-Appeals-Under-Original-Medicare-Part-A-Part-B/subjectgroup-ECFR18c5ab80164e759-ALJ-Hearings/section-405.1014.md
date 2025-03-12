@@ -1,5 +1,7 @@
 ##### § 405.1014 Request for an ALJ hearing. #####
 
+Link to an amendment published at 82 FR 5112, Jan. 17, 2017.
+
 (a) *Content of the request.* The request for an ALJ hearing must be made in writing. The request must include all of the following -
 
 (1) The name, address, and Medicare health insurance claim number of the beneficiary whose claim is being appealed.

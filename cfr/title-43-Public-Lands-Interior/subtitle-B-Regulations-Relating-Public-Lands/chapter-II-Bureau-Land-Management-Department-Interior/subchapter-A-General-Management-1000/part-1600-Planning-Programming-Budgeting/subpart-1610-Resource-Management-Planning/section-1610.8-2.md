@@ -1,0 +1,13 @@
+##### § 1610.8-2 Designation and protection of areas of critical environmental concern. #####
+
+(a) Areas having potential for ACEC designation and protection shall be identified through inventory of public lands and during the planning assessment, and considered during the preparation or amendment of a resource management plan. The inventory data shall be analyzed to determine whether there are areas containing resources, values, systems or processes, or natural hazards eligible for further consideration for designation as an ACEC. In order to be a potential ACEC, both of the following criteria must be met:
+
+(1) *Relevance.* There must be present a significant historic, cultural, or scenic value; a fish or wildlife resource or other natural system or process; or natural hazard; and
+
+(2) *Importance.* The value, resource, system, process, or natural hazard described in paragraph (a)(1) of this section must have substantial significance and values. This generally requires qualities of special worth, consequence, meaning, distinctiveness, or cause for concern. A natural hazard can be important if it is a significant threat to human life or property.
+
+(b) Potential ACECs shall be considered for designation during the preparation or amendment of a resource management plan consistent with the priority established by FLPMA (43 U.S.C. 1712(c)(3)). The identification of a potential ACEC shall not, of itself, change or prevent change of the management or use of public lands. ACECs require special management attention (when such areas are developed or used or no development is required) to protect and prevent irreparable damage to the important historic, cultural, or scenic values, fish and wildlife resources or other natural system or process, or to protect life and safety from natural hazards.
+
+(1) When a draft resource management plan or plan amendment involves possible designation of one or more potential ACECs, the BLM shall publish a notice in the Federal Register and request written comments on the designations under consideration. This step may be integrated with the notice and comment period for the draft resource management plan or plan amendment (see § 1610.2-2). Any draft resource management plan or plan amendment involving a potential ACEC shall include a list of each potential ACEC and any special management attention which would occur if it were formally designated.
+
+(2) The approval of a resource management plan or plan amendment that contains an ACEC constitutes formal designation of an ACEC. The approved plan shall include a list of all designated ACECs, and include any special management attention, such as resource use determinations (§ 1610.1-2(b)(2)), identified to protect the designated ACECs.

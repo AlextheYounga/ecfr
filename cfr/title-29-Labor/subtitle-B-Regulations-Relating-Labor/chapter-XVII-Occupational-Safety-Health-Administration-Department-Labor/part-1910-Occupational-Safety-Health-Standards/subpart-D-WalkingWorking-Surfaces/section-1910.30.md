@@ -1,27 +1,33 @@
-##### § 1910.30 Other working surfaces. #####
+##### § 1910.30 Training requirements. #####
 
-(a) *Dockboards (bridge plates).* (1) Portable and powered dockboards shall be strong enough to carry the load imposed on them.
+(a) *Fall hazards.* (1) Before any employee is exposed to a fall hazard, the employer must provide training for each employee who uses personal fall protection systems or who is required to be trained as specified elsewhere in this subpart. Employers must ensure employees are trained in the requirements of this paragraph on or before May 17, 2017.
 
-(2) Portable dockboards shall be secured in position, either by being anchored or equipped with devices which will prevent their slipping.
+(2) The employer must ensure that each employee is trained by a qualified person.
 
-(3) Powered dockboards shall be designed and constructed in accordance with Commercial Standard CS202-56 (1961) “Industrial Lifts and Hinged Loading Ramps published by the U.S. Department of Commerce, which is incorporated by reference as specified in § 1910.6.
+(3) The employer must train each employee in at least the following topics:
 
-(4) Handholds, or other effective means, shall be provided on portable dockboards to permit safe handling.
+(i) The nature of the fall hazards in the work area and how to recognize them;
 
-(5) Positive protection shall be provided to prevent railroad cars from being moved while dockboards or bridge plates are in position.
+(ii) The procedures to be followed to minimize those hazards;
 
-(b) *Forging machine area.* (1) Machines shall be so located as to give (i) enough clearance between machines so that the movement of one operator will not interfere with the work of another, (ii) ample room for cleaning machines and handling the work, including material and scrap. The arrangement of machines shall be such that operators will not stand in aisles.
+(iii) The correct procedures for installing, inspecting, operating, maintaining, and disassembling the personal fall protection systems that the employee uses; and
 
-(2) Aisles shall be provided of sufficient width to permit the free movement of employees bringing and removing material. This aisle space is to be independent of working and storage space.
+(iv) The correct use of personal fall protection systems and equipment specified in paragraph (a)(1) of this section, including, but not limited to, proper hook-up, anchoring, and tie-off techniques, and methods of equipment inspection and storage, as specified by the manufacturer.
 
-(3) Wood platforms used on the floor in front of machines shall be substantially constructed.
+(b) *Equipment hazards.* (1) The employer must train each employee on or before May 17, 2017 in the proper care, inspection, storage, and use of equipment covered by this subpart before an employee uses the equipment.
 
-(c) *Veneer machinery.* (1) Sides of steam vats shall extend to a height of not less than 36 inches above the floor, working platform, or ground.
+(2) The employer must train each employee who uses a dockboard to properly place and secure it to prevent unintentional movement.
 
-(2) Large steam vats divided into sections shall be provided with substantial walkways between sections. Each walkway shall be provided with a standard handrail on each exposed side. These handrails may be removable, if necessary.
+(3) The employer must train each employee who uses a rope descent system in proper rigging and use of the equipment in accordance with § 1910.27.
 
-(3) Covers shall be removed only from that portion of steaming vats on which men are working and a portable railing shall be placed at this point to protect the operators.
+(4) The employer must train each employee who uses a designated area in the proper set-up and use of the area.
 
-(4) Workmen shall not ride or step on logs in steam vats.
+(c) *Retraining.* The employer must retrain an employee when the employer has reason to believe the employee does not have the understanding and skill required by paragraphs (a) and (b) of this section. Situations requiring retraining include, but are not limited to, the following:
 
-[39 FR 23502, June 27, 1974, as amended at 49 FR 5322, Feb. 10, 1984; 61 FR 9235, Mar. 7, 1996]
+(1) When changes in the workplace render previous training obsolete or inadequate;
+
+(2) When changes in the types of fall protection systems or equipment to be used render previous training obsolete or inadequate; or
+
+(3) When inadequacies in an affected employee's knowledge or use of fall protection systems or equipment indicate that the employee no longer has the requisite understanding or skill necessary to use equipment or perform the job safely.
+
+(d) *Training must be understandable.* The employer must provide information and training to each employee in a manner that the employee understands.

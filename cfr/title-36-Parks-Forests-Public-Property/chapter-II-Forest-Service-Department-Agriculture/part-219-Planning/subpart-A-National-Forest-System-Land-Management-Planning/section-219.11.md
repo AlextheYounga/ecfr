@@ -1,8 +1,6 @@
 ##### § 219.11 Timber requirements based on the NFMA. #####
 
-Link to an amendment published at 81 FR 90737, Dec. 15, 2016.
-
-While meeting the requirements of §§ 219.8 through 219.10, the plan must include plan components, including standards or guidelines, and other plan content regarding timber management within Forest Service authority and the inherent capability of the plan area, as follows:
+While meeting the requirements of §§ 219.8 through 219.10, a plan developed or revised under this part must include plan components, including standards or guidelines, and other plan content regarding timber management within Forest Service authority and the inherent capability of the plan area, as follows:
 
 (a) *Lands not suited for timber production.* (1) The responsible official shall identify lands within the plan area as not suited for timber production if any one of the following factors applies:
 
@@ -32,13 +30,7 @@ While meeting the requirements of §§ 219.8 through 219.10, the plan must inclu
 
 (3) Timber harvest would be carried out in a manner consistent with the protection of soil, watershed, fish, wildlife, recreation, and aesthetic resources.
 
-(4) Where plan components will allow clearcutting, seed tree cutting, shelterwood cutting, or other cuts designed to regenerate an even-aged stand of timber, the plan must include standards limiting the maximum size for openings that may be cut in one harvest operation, according to geographic areas, forest types, or other suitable classifications.
-
-(i) Plan standards may allow for openings larger than those specified in paragraph (d)(4) of this section to be cut in one harvest operation where the responsible official determines that larger harvest openings are necessary to help achieve desired ecological conditions in the plan area. If so, standards for exceptions shall include the particular conditions under which the larger size is permitted and must set a maximum size permitted under those conditions.
-
-(ii) Plan components may allow for size limits exceeding those established in paragraphs (d)(4) introductory text and (d)(4)(i) of this section on an individual timber sale basis after “60-days” public notice and review by the regional forester.
-
-(iii) The plan maximum size for openings to be cut in one harvest operation shall not apply to the size of openings harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm (16 U.S.C. 1604(g)(3)(F)(iv)).
+(4) Where plan components will allow clearcutting, seed tree cutting, shelterwood cutting, or other cuts designed to regenerate an even-aged stand of timber, the plan must include standards limiting the maximum size for openings that may be cut in one harvest operation, according to geographic areas, forest types, or other suitable classifications. Except as provided in paragraphs (d)(4)(i) through (iii) of this section, this limit may not exceed 60 acres for the Douglas-fir forest type of California, Oregon, and Washington; 80 acres for the southern yellow pine types of Alabama, Arkansas, Georgia, Florida, Louisiana, Mississippi, North Carolina, South Carolina, Oklahoma, and Texas; 100 acres for the hemlock-Sitka spruce forest type of coastal Alaska; and 40 acres for all other forest types.
 
 (5) Timber will be harvested from NFS lands only where such harvest would comply with the resource protections set out in sections 6(g)(3)(E) and (F) of the NFMA (16 U.S.C. 1604(g)(3)(E) and (F)). Some of these requirements are listed in paragraphs (d)(2) to (d)(4) of this section.
 
@@ -52,4 +44,4 @@ While meeting the requirements of §§ 219.8 through 219.10, the plan must inclu
 
 (7) The regeneration harvest of even-aged stands of trees is limited to stands that generally have reached the culmination of mean annual increment of growth. This requirement would apply only to regeneration harvest of even-aged stands on lands identified as suitable for timber production and where timber production is the primary purpose for the harvest. Plan components may allow for exceptions, set out in 16 U.S.C. 1604(m), only if such harvest is consistent with the other plan components of the land management plan.
 
-[77 FR 21260, Apr. 9, 2012, as amended at 77 FR 44145, July 27, 2012; 78 FR 23492, Apr. 19, 2013]
+[77 FR 21260, Apr. 9, 2012, as amended at 77 FR 44145, July 27, 2012; 78 FR 23492, Apr. 19, 2013; 81 FR 90737, Dec. 15, 2016]

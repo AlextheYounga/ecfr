@@ -1,7 +1,5 @@
 ##### § 29.5 Standards of apprenticeship. #####
 
-Link to an amendment published at 81 FR 92107, Dec. 19, 2016.
-
 An apprenticeship program, to be eligible for approval and registration by a Registration Agency, must conform to the following standards:
 
 (a) The program must have an organized, written plan (program standards) embodying the terms and conditions of employment, training, and supervision of one or more apprentices in an apprenticeable occupation, as defined in this part, and subscribed to by a sponsor who has undertaken to carry out the apprentice training program.
@@ -66,8 +64,10 @@ An apprenticeship program, to be eligible for approval and registration by a Reg
 
 (20) Authority for the cancellation of an apprenticeship agreement during the probationary period by either party without stated cause; cancellation during the probationary period will not have an adverse impact on the sponsor's completion rate.
 
-(21) Compliance with 29 CFR part 30, including the equal opportunity pledge prescribed in 29 CFR 30.3(b); an affirmative action plan complying with 29 CFR 30.4; and a method for the selection of apprentices authorized by 29 CFR 30.5, or compliance with parallel requirements contained in a State plan for equal opportunity in apprenticeship adopted under 29 CFR part 30 and approved by the Department. The apprenticeship standards must also include a statement that the program will be conducted, operated and administered in conformity with applicable provisions of 29 CFR part 30, as amended, or, if applicable, an approved State plan for equal opportunity in apprenticeship.
+(21) Compliance with 29 CFR part 30, including the equal opportunity pledge prescribed in 29 CFR 30.3(c); an affirmative action program complying with 29 CFR 30.4; and a method for the selection of apprentices complying with 29 CFR 30.10, or compliance with parallel requirements contained in a State plan for equal opportunity in apprenticeship adopted under 29 CFR part 30 and approved by the Department. The apprenticeship standards must also include a statement that the program will be conducted, operated and administered in conformity with applicable provisions of 29 CFR part 30, as amended, or if applicable, an approved State plan for equal opportunity in apprenticeship.
 
 (22) Contact information (name, address, telephone number, and e-mail address if appropriate) for the appropriate individual with authority under the program to receive, process and make disposition of complaints.
 
 (23) Recording and maintenance of all records concerning apprenticeship as may be required by the Office of Apprenticeship or recognized State Apprenticeship Agency and other applicable law.
+
+[73 FR 64425, Oct. 29, 2008, as amended at 81 FR 92107, Dec. 19, 2016]

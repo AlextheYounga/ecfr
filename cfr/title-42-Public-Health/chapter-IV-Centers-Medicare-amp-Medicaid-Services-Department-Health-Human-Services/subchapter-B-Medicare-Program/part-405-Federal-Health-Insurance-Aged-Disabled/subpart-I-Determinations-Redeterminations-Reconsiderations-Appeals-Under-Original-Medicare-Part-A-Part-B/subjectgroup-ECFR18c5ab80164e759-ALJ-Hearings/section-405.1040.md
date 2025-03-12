@@ -1,5 +1,7 @@
 ##### § 405.1040 Prehearing and posthearing conferences. #####
 
+Link to an amendment published at 82 FR 5118, Jan. 17, 2017.
+
 (a) The ALJ may decide on his or her own, or at the request of any party to the hearing, to hold a prehearing or posthearing conference to facilitate the hearing or the hearing decision.
 
 (b) The ALJ informs the parties of the time, place, and purpose of the conference at least 7 calendar days before the conference date, unless a party indicates in writing that it does not wish to receive a written notice of the conference.

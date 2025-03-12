@@ -1,5 +1,7 @@
 ##### § 416.994 How we will determine whether your disability continues or ends, disabled adults. #####
 
+Link to an amendment published at 82 FR 5882, Jan. 18, 2017.
+
 (a) *General.* There is a statutory requirement that, if you are entitled to disability benefits, your continued entitlement to such benefits must be reviewed periodically. Our rules for deciding whether your disability continues are set forth in paragraph (b) of this section. Additional rules apply if you were found disabled under a State plan, as set forth in paragraph (c) of this section.
 
 (b) *Disabled persons age 18 or over (adults).* If you are entitled to disability benefits as a disabled person age 18 or over (adult) there are a number of factors we consider in deciding whether your disability continues. We must determine if there has been any medical improvement in your impairment(s) and, if so, whether this medical improvement is related to your ability to work. If your impairment(s) has not so medically improved, we must consider whether one or more of the exceptions to medical improvement applies. If medical improvement related to your ability to work has not occurred and no exception applies, your benefits will continue. Even where medical improvement related to your ability to work has occurred or an exception applies, in most cases, (see paragraph (b)(4) of this section for exceptions) we must also show that you are currently able to engage in substantial gainful activity before we can find that you are no longer disabled.

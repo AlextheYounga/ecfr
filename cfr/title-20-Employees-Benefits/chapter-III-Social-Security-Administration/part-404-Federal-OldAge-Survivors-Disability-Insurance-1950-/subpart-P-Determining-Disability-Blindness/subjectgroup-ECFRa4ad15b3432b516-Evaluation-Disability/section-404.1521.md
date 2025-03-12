@@ -1,5 +1,7 @@
 ##### § 404.1521 What we mean by an impairment(s) that is not severe. #####
 
+Link to an amendment published at 82 FR 5868, Jan. 18, 2017.
+
 (a) *Non-severe impairment(s).* An impairment or combination of impairments is not severe if it does not significantly limit your physical or mental ability to do basic work activities.
 
 (b) *Basic work activities.* When we talk about basic work activities, we mean the abilities and aptitudes necessary to do most jobs. Examples of these include -

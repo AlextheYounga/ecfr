@@ -1,5 +1,7 @@
 ##### § 1194.2 Application. #####
 
+Link to an amendment published at 82 FR 5832, January 18, 2017.
+
 (a) Products covered by this part shall comply with all applicable provisions of this part. When developing, procuring, maintaining, or using electronic and information technology, each agency shall ensure that the products comply with the applicable provisions of this part, unless an undue burden would be imposed on the agency.
 
 (1) When compliance with the provisions of this part imposes an undue burden, agencies shall provide individuals with disabilities with the information and data involved by an alternative means of access that allows the individual to use the information and data.

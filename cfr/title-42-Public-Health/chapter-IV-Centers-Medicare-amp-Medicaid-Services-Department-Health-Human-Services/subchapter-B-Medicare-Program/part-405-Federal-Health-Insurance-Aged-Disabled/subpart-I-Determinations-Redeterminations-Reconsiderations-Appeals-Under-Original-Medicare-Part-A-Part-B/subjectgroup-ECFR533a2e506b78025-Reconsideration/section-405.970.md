@@ -1,5 +1,7 @@
 ##### § 405.970 Timeframe for making a reconsideration. #####
 
+Link to an amendment published at 82 FR 5107, Jan. 17, 2017.
+
 (a) *General rule.* Within 60 calendar days of the date the QIC receives a timely filed request for reconsideration or any additional time provided by paragraph (b) of this section, the QIC mails, or otherwise transmits to the parties at their last known addresses, written notice of -
 
 (1) The reconsideration;

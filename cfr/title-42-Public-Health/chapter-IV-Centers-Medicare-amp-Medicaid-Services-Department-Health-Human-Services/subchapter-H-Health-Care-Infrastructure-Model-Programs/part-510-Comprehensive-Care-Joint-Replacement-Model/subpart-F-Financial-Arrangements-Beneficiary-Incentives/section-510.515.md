@@ -1,5 +1,7 @@
 ##### § 510.515 Beneficiary incentives under the CJR model. #####
 
+Link to an amendment published at 82 FR 621, Jan. 3, 2017.
+
 (a) *General.* Participant hospitals may choose to provide in-kind patient engagement incentives to beneficiaries in a CJR episode, subject to the following conditions:
 
 (1) The incentive must be provided directly by the participant hospital or by an agent of the hospital under the hospital's direction and control to the beneficiary during a CJR episode of care.

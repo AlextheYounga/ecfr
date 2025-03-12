@@ -1,0 +1,7 @@
+##### § 1610.6-1 Resource management plan approval and implementation. #####
+
+(a) The deciding official may approve the resource management plan or plan amendment for which an environmental impact statement was prepared no earlier than 30 days after the Environmental Protection Agency publishes a notice of availability of the final environmental impact statement in the Federal Register.
+
+(b) Approval shall be withheld on any portion of a resource management plan or plan amendment being protested (see § 1610.6-2) until final action has been completed on such protest. If, after publication of a proposed resource management plan or plan amendment, the BLM intends to select an alternative that is within the spectrum of alternatives in the final environmental impact statement or environmental assessment, but is substantially different than the proposed resource management plan or plan amendment, the BLM shall notify the public and request written comments on the change before the resource management plan or plan amendment is approved.
+
+(c) The approval of a resource management plan or a plan amendment for which an environmental impact statement is prepared shall be documented in a concise public record of the decision (see 40 CFR 1505.2).

@@ -1,4 +1,4 @@
-##### § 88.4 Eligibility criteria - status as a WTC responder. #####
+##### § 88.4 Eligibility criteria—WTC responders. #####
 
 (a) Responders to the New York City disaster area who have not been previously identified as eligible as provided for under § 88.3 of this part may apply for enrollment in the WTC Health Program on or after July 1, 2011. Such individuals must meet the criteria in one of the following categories to be considered eligible for enrollment:
 
@@ -52,6 +52,4 @@
 
 (d) [Reserved]
 
-(e) The WTC Program Administrator will maintain a list of WTC responders.
-
-[76 FR 38930, July 1, 2011, as amended at 78 FR 18865, Mar. 28, 2013]
+(e) The WTC Health Program will maintain a list of WTC responders.
