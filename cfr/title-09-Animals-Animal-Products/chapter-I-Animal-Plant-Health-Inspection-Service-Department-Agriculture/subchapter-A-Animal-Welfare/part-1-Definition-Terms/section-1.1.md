@@ -1,10 +1,6 @@
 ##### § 1.1 Definitions. #####
 
-Link to an amendment published at 85 FR 28795, May 13, 2020.
-
 For the purposes of this subchapter, unless the context otherwise requires, the following terms shall have the meanings assigned to them in this section. The singular form shall also signify the plural and the masculine form shall also signify the feminine. Words undefined in the following paragraphs shall have the meaning attributed to them in general usage as reflected by definitions in a standard dictionary.
-
-*AC Regional Director* means a veterinarian or his designee, employed by APHIS, who is assigned by the Administrator to supervise and perform the official work of APHIS in a given State or States. As used in part 2 of this subchapter, the AC Regional Director shall be deemed to be the person in charge of the official work of APHIS in the State in which the dealer, exhibitor, research facility, intermediate handler, carrier, or operator of an auction sale has his principal place of business.
 
 *Act* means the Act of August 24, 1966 (Pub. L. 89-544), (commonly known as the Laboratory Animal Welfare Act), as amended by the Act of December 24, 1970 (Pub. L. 91-579), (the Animal Welfare Act of 1970), the Act of April 22, 1976 (Pub. L. 94-279), (the Animal Welfare Act of 1976), and the Act of December 23, 1985 (Pub. L. 99-198), (the Food Security Act of 1985), and as it may be subsequently amended.
 
@@ -26,7 +22,7 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Buffer area* means that area in a primary enclosure for a swim-with-the-dolphin program that is off-limits to members of the public and that directly abuts the interactive area.
 
-*Business hours* means a reasonable number of hours between 7 a.m. and 7 p.m., Monday through Friday, except for legal Federal holidays, each week of the year, during which inspections by APHIS may be made.
+*Business hours* means a reasonable number of hours between 7 a.m. and 7 p.m. each week of the year, during which inspections by APHIS may be made.
 
 *Business year* means the 12-month period during which business is conducted, and may be either on a calendar or fiscal-year basis.
 
@@ -188,4 +184,4 @@ For the purposes of this subchapter, unless the context otherwise requires, the 
 
 *Zoo* means any park, building, cage, enclosure, or other structure or premise in which a live animal or animals are kept for public exhibition or viewing, regardless of compensation.
 
-[54 FR 36119, Aug. 31, 1989, as amended at 55 FR 12631, Apr. 5, 1990; 58 FR 39129, July 22, 1993; 62 FR 43275, Aug. 13, 1997; 63 FR 47148, Sept. 4, 1998; 63 FR 62926, Nov. 10, 1998; 65 FR 6314, Feb. 9, 2000; 68 FR 12285, Mar. 14, 2003; 69 FR 31514, June 4, 2004; 69 FR 42099, July 14, 2004; 78 FR 57249, Sept. 18, 2013; 83 FR 25554, June 4, 2018]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, the definitions of *buffer area, interactive area, interactive session, sanctuary area,* and *swim-with-the-dolphin (SWTD) program* were suspended, effective Apr. 2, 1999.
+[54 FR 36119, Aug. 31, 1989, as amended at 55 FR 12631, Apr. 5, 1990; 58 FR 39129, July 22, 1993; 62 FR 43275, Aug. 13, 1997; 63 FR 47148, Sept. 4, 1998; 63 FR 62926, Nov. 10, 1998; 65 FR 6314, Feb. 9, 2000; 68 FR 12285, Mar. 14, 2003; 69 FR 31514, June 4, 2004; 69 FR 42099, July 14, 2004; 78 FR 57249, Sept. 18, 2013; 83 FR 25554, June 4, 2018; 85 FR 28795, May 13, 2020]Effective Date Note:At 64 FR 15920, Apr. 2, 1999, the definitions of *buffer area, interactive area, interactive session, sanctuary area,* and *swim-with-the-dolphin (SWTD) program* were suspended, effective Apr. 2, 1999.

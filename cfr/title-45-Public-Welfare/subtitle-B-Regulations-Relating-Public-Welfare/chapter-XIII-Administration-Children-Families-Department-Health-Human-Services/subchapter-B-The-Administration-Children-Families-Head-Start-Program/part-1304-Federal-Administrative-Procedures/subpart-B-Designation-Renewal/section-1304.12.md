@@ -1,15 +1,13 @@
 ##### § 1304.12 Grantee reporting requirements concerning certain conditions. #####
 
-Link to an amendment published at 85 FR 53208, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
+A Head Start agency must report in writing to the responsible HHS official within 10 working days of occurrence of any of the following events:
 
-(a) Head Start agencies must report in writing to the responsible HHS official within 30 working days of December 9, 2011, if the agency has had a revocation of a license to operate a center by a state of local licensing entity during the period between June 12, 2009, and December 9, 2011.
+(a) The agency has had a revocation of a license to operate a center by a state or local licensing entity.
 
-(b) Head Start agencies must report in writing to the responsible HHS official within 10 working days of occurrence any of the following events following December 9, 2011:
+(b) The agency has filed for bankruptcy or agreed to a reorganization plan as part of a bankruptcy settlement.
 
-(1) The agency has had a revocation of a license to operate a center by a state or local licensing entity.
+(c) The agency has been debarred from receiving federal or state funds from any federal or state department or agency or has been disqualified from the Child and Adult Care Food Program (CACFP).
 
-(2) The agency has filed for bankruptcy or agreed to a reorganization plan as part of a bankruptcy settlement.
+(d) The agency has received an audit, audit review, investigation or inspection report from the agency's auditor, a state agency, or the cognizant federal audit agency containing a determination that the agency is at risk of ceasing to be a going concern.
 
-(3) The agency has been debarred from receiving federal or state funds from any federal or state department or agency or has been disqualified from the Child and Adult Care Food Program (CACFP).
-
-(4) The agency has received an audit, audit review, investigation or inspection report from the agency's auditor, a state agency, or the cognizant federal audit agency containing a determination that the agency is at risk for ceasing to be a going concern.
+[85 FR 53208, Aug. 28, 2020]

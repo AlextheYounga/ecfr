@@ -1,7 +1,5 @@
 ##### § 2.35 Recordkeeping requirements. #####
 
-Link to an amendment published at 85 FR 28797, May 13, 2020.
-
 (a) The research facility shall maintain the following IACUC records:
 
 (1) Minutes of IACUC meetings, including records of attendance, activities of the Committee, and Committee deliberations;
@@ -44,7 +42,7 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (3) The method of transportation, including the name of the initial carrier or intermediate handler, or if a privately owned vehicle is used to transport the dog or cat, the name of the owner of the privately owned vehicle.
 
-(d)(1) The USDA Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) and Record of Aquisition and Dogs and Cats on Hand (APHIS Form 7005) are forms which may be used by research facilities to keep and maintain the information required by paragraph (b) of this section.
+(d)(1) The USDA Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) and Record of Acquisition and Dogs and Cats on Hand (APHIS Form 7005) are forms which may be used by research facilities to keep and maintain the information required by paragraph (b) of this section.
 
 (2) The USDA Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) and Record of Disposition of Dogs and Cats (APHIS Form 7006) are forms which may be used by research facilities to keep and maintain the information required by paragraph (c) of this section.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (f) All records and reports shall be maintained for at least three years. Records that relate directly to proposed activities and proposed significant changes in ongoing activities reviewed and approved by the IACUC shall be maintained for the duration of the activity and for an additional three years after completion of the activity. All records shall be available for inspection and copying by authorized APHIS or funding Federal agency representatives at reasonable times. APHIS inspectors will maintain the confidentiality of the information and will not remove the materials from the research facilities' premises unless there has been an alleged violation, they are needed to investigate a possible violation, or for other enforcement purposes. Release of any such materials, including reports, summaries, and photographs that contain trade secrets or commercial or financial information that is privileged or confidential will be governed by applicable sections of the Freedom of Information Act. Whenever the Administrator notifies a research facility in writing that specified records shall be retained pending completion of an investigation or proceeding under the Act, the research facility shall hold those records until their disposition is authorized in writing by the Administrator.
 
-(Approved by the Office of Management and Budget under control number 0579-0254)[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42101, July 14, 2004]
+(Approved by the Office of Management and Budget under control number 0579-0036)[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42101, July 14, 2004; 85 FR 28797, May 13, 2020]

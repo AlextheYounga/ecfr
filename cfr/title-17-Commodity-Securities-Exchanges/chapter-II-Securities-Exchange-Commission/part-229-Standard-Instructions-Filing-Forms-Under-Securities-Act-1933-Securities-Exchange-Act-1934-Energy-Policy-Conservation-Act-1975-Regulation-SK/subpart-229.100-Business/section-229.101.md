@@ -1,12 +1,20 @@
 ##### § 229.101 (Item 101) Description of business. #####
 
-Link to an amendment published at 85 FR 63759, Oct. 8, 2020.
+(a) *General development of business.* Describe the general development of the business of the registrant, its subsidiaries, and any predecessor(s).
 
-(a) *General development of business.* Describe the general development of the business of the registrant, its subsidiaries and any predecessor(s) during the past five years, or such shorter period as the registrant may have been engaged in business. Information shall be disclosed for earlier periods if material to an understanding of the general development of the business.
+(1) In describing developments, only information material to an understanding of the general development of the business is required. Disclosure may include, but should not be limited to, the following topics:
 
-(1) In describing developments, information shall be given as to matters such as the following: the year in which the registrant was organized and its form of organization; the nature and results of any bankruptcy, receivership or similar proceedings with respect to the registrant or any of its significant subsidiaries; the nature and results of any other material reclassification, merger or consolidation of the registrant or any of its significant subsidiaries; the acquisition or disposition of any material amount of assets otherwise than in the ordinary course of business; and any material changes in the mode of conducting the business.
+(i) Any material changes to a previously disclosed business strategy;
 
-(2) Registrants:
+(ii) The nature and effects of any material bankruptcy, receivership, or any similar proceeding with respect to the registrant or any of its significant subsidiaries;
+
+(iii) The nature and effects of any material reclassification, merger or consolidation of the registrant or any of its significant subsidiaries; and
+
+(iv) The acquisition or disposition of any material amount of assets otherwise than in the ordinary course of business.
+
+(2) Notwithstanding the provisions of § 230.411(b) or § 240.12b-23(a) of this chapter, as applicable, a registrant may only forgo providing a full discussion of the general development of its business for a filing other than an initial registration statement if it provides an update to the general development of its business, disclosing all of the material developments that have occurred since the most recent registration statement or report that includes a full discussion of the general development of its business. In addition, the registrant must incorporate by reference, and include one active hyperlink to one registration statement or report that includes, the full discussion of the general development of the registrant's business.
+
+(3) Registrants:
 
 (i) Filing a registration statement on Form S-1 (§ 239.11 of this chapter) under the Securities Act or on Form 10 (§ 249.210 of this chapter) under the Exchange Act;
 
@@ -30,33 +38,27 @@ Link to an amendment published at 85 FR 63759, Oct. 8, 2020.
 
 (b) [Reserved]
 
-(c) *Narrative description of business.* (1) Describe the business done and intended to be done by the registrant and its subsidiaries, focusing upon the registrant's dominant segment or each reportable segment about which financial information is presented in the financial statements. To the extent material to an understanding of the registrant's business taken as a whole, the description of each such segment shall include the information specified in paragraphs (c)(1) (i) through (x) of this section. The matters specified in paragraphs (c)(1) (xi) through (xiii) of this section shall be discussed with respect to the registrant's business in general; where material, the segments to which these matters are significant shall be identified.
+(c) *Description of business.* (1) Describe the business done and intended to be done by the registrant and its subsidiaries, focusing upon the registrant's dominant segment or each reportable segment about which financial information is presented in the financial statements. When describing each segment, only information material to an understanding of the business taken as a whole is required. Disclosure may include, but should not be limited to, the information specified in paragraphs (c)(1)(i) through (v) of this section.
 
-(i) The principal products produced and services rendered by the registrant in the segment and the principal markets for, and methods of distribution of, the segment's principal products and services. In addition, state for each of the last three fiscal years the amount or percentage of total revenue contributed by any class of similar products or services which accounted for 10 percent or more of consolidated revenue in any of the last three fiscal years or 15 percent or more of consolidated revenue, if total revenue did not exceed $50,000,000 during any of such fiscal years.
+(i) Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families or customers, including governmental customers;
 
-(ii) A description of the status of a product or segment (e.g. whether in the planning stage, whether prototypes exist, the degree to which product design has progressed or whether further engineering is necessary), if there has been a public announcement of, or if the registrant otherwise has made public information about, a new product or segment that would require the investment of a material amount of the assets of the registrant or that otherwise is material. This paragraph is not intended to require disclosure of otherwise nonpublic corporate information the disclosure of which would affect adversely the registrant's competitive position.
+(ii) Status of development efforts for new or enhanced products, trends in market demand and competitive conditions;
 
-(iii) The sources and availability of raw materials.
+(iii) Resources material to a registrant's business, such as:
 
-(iv) The importance to the segment and the duration and effect of all patents, trademarks, licenses, franchises and concessions held.
+(A) Sources and availability of raw materials; and
 
-(v) The extent to which the business of the segment is or may be seasonal.
+(B) The duration and effect of all patents, trademarks, licenses, franchises, and concessions held;
 
-(vi) The practices of the registrant and the industry (respective industries) relating to working capital items (e.g., where the registrant is required to carry significant amounts of inventory to meet rapid delivery requirements of customers or to assure itself of a continuous allotment of goods from suppliers; where the registrant provides rights to return merchandise; or where the registrant has provided extended payment terms to customers).
+(iv) A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government; and
 
-(vii) The dependence of the segment upon a single customer, or a few customers, the loss of any one or more of which would have a material adverse effect on the segment. The name of any customer and its relationship, if any, with the registrant or its subsidiaries shall be disclosed if sales to the customer by one or more segments are made in an aggregate amount equal to 10 percent or more of the registrant's consolidated revenues and the loss of such customer would have a material adverse effect on the registrant and its subsidiaries taken as a whole. The names of other customers may be included, unless in the particular case the effect of including the names would be misleading. For purposes of this paragraph, a group of customers under common control or customers that are affiliates of each other shall be regarded as a single customer.
+(v) The extent to which the business is or may be seasonal.
 
-(viii) The dollar amount of backlog orders believed to be firm, as of a recent date and as of a comparable date in the preceding fiscal year, together with an indication of the portion thereof not reasonably expected to be filled within the current fiscal year, and seasonal or other material aspects of the backlog. (There may be included as firm orders government orders that are firm but not yet funded and contracts awarded but not yet signed, provided an appropriate statement is added to explain the nature of such orders and the amount thereof. The portion of orders already included in sales or operating revenues on the basis of percentage of completion or program accounting shall be excluded.)
+(2) Discuss the information specified in paragraphs (c)(2)(i) and (ii) of this section with respect to, and to the extent material to an understanding of, the registrant's business taken as a whole, except that, if the information is material to a particular segment, you should additionally identify that segment.
 
-(ix) A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government.
+(i) The material effects that compliance with government regulations, including environmental regulations, may have upon the capital expenditures, earnings and competitive position of the registrant and its subsidiaries, including the estimated capital expenditures for environmental control facilities for the current fiscal year and any other material subsequent period; and
 
-(x) Competitive conditions in the business involved including, where material, the identity of the particular markets in which the registrant competes, an estimate of the number of competitors and the registrant's competitive position, if known or reasonably available to the registrant. Separate consideration shall be given to the principal products or services or classes of products or services of the segment, if any. Generally, the names of competitors need not be disclosed. The registrant may include such names, unless in the particular case the effect of including the names would be misleading. Where, however, the registrant knows or has reason to know that one or a small number of competitors is dominant in the industry it shall be identified. The principal methods of competition (e.g., price, service, warranty or product performance) shall be identified, and positive and negative factors pertaining to the competitive position of the registrant, to the extent that they exist, shall be explained if known or reasonably available to the registrant.
-
-(xi) [Reserved]
-
-(xii) Appropriate disclosure also shall be made as to the material effects that compliance with Federal, State and local provisions which have been enacted or adopted regulating the discharge of materials into the environment, or otherwise relating to the protection of the environment, may have upon the capital expenditures, earnings and competitive position of the registrant and its subsidiaries. The registrant shall disclose any material estimated capital expenditures for environmental control facilities for the remainder of its current fiscal year and its succeeding fiscal year and for such further periods as the registrant may deem materials.
-
-(xiii) The number of persons employed by the registrant.
+(ii) A description of the registrant's human capital resources, including the number of persons employed by the registrant, and any human capital measures or objectives that the registrant focuses on in managing the business (such as, depending on the nature of the registrant's business and workforce, measures or objectives that address the development, attraction and retention of personnel).
 
 (d) [Reserved]
 
@@ -94,7 +96,7 @@ Link to an amendment published at 85 FR 63759, Oct. 8, 2020.
 
 (2) If you provide this disclosure based on an opinion of counsel, name counsel in the prospectus and file as an exhibit to the registration statement a signed consent of counsel to the use of its name and opinion.
 
-(h) *Smaller reporting companies.* A smaller reporting company, as defined by § 229.10(f)(1), may satisfy its obligations under this Item by describing the development of its business during the last three years. If the smaller reporting company has not been in business for three years, give the same information for predecessor(s) of the smaller reporting company if there are any. This business development description should include:
+(h) *Smaller reporting companies.* A smaller reporting company, as defined by § 229.10(f)(1), may satisfy its obligations under this Item by describing the development of its business pursuant to this paragraph (h). In describing developments under paragraphs (h)(1) through (3), information should be provided for the period of time that is material to an understanding of the general development of the business. Notwithstanding the provisions of § 230.411(b) or § 240.12b-23(a) of this chapter as applicable, a smaller reporting company may only forgo providing a full discussion of the general development of its business for a filing other than an initial registration statement if it provides an update to the general development of its business disclosing all of the material developments that have occurred since the most recent registration statement or report that includes a full discussion of the general development of its business. In addition, the smaller reporting company must incorporate by reference, and include one active hyperlink to one registration statement or report that includes, the full discussion of the general development of the registrant's business. If the smaller reporting company has not been in business for three years, provide the same information for predecessor(s) of the smaller reporting company if there are any. This business development description should include:
 
 (1) Form and year of organization;
 
@@ -144,4 +146,4 @@ Link to an amendment published at 85 FR 63759, Oct. 8, 2020.
 
 3. The Commission, upon written request of the registrant and where consistent with the protection of investors, may permit the omission of any of the information required by this Item or the furnishing in substitution thereof of appropriate information of comparable character.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 63 FR 6381, Feb. 6, 1998; 64 FR 1734, Jan. 12, 1999; 67 FR 58504, Sept. 16, 2002; 70 FR 76641, Dec. 27, 2005; 73 FR 957, Jan. 4, 2008; 76 FR 50120, Aug. 12, 2011; 83 FR 50209, Oct. 4, 2018]
+[47 FR 11401, Mar. 16, 1982, as amended at 63 FR 6381, Feb. 6, 1998; 64 FR 1734, Jan. 12, 1999; 67 FR 58504, Sept. 16, 2002; 70 FR 76641, Dec. 27, 2005; 73 FR 957, Jan. 4, 2008; 76 FR 50120, Aug. 12, 2011; 83 FR 50209, Oct. 4, 2018; 85 FR 63759, Oct. 8, 2020]

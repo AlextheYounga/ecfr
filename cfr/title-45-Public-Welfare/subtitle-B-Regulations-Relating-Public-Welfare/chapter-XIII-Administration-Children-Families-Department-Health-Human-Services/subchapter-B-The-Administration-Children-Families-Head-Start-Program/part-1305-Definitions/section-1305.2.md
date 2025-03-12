@@ -1,7 +1,5 @@
 ##### § 1305.2 Terms. #####
 
-Link to an amendment published at 85 FR 53209, Aug. 28, 2020.This amendment was delayed until Nov. 9, 2020, at 85 FR 65733, Oct. 16, 2020.
-
 For the purposes of this subchapter, the following definitions apply:
 
 *ACF* means the Administration for Children and Families in the Department of Health and Human Services.
@@ -51,6 +49,8 @@ For the purposes of this subchapter, the following definitions apply:
 *Deficiency* is defined in the same manner as presented in the Head Start Act, 42 U.S.C. 9801.
 
 *Delegate agency* is defined in the same manner as presented in the Head Start Act, 42 U.S.C. 9801.
+
+*Denial of Refunding* means the refusal of a funding agency to fund an application for a continuation of a Head Start program for a subsequent program year when the decision is based on a determination that the grantee has improperly conducted its program, or is incapable of doing so properly in the future, or otherwise is in violation of applicable law, regulations, or other policies.
 
 *Development and administrative costs* mean costs incurred in accordance with an approved Head Start budget which do not directly relate to the provision of program component services, including services to children with disabilities, as set forth and described in the Head Start program performance standards (45 CFR part 1304).
 
@@ -183,3 +183,5 @@ For the purposes of this subchapter, the following definitions apply:
 *Transportation services* means the planned transporting of children to and from sites where an agency provides services funded under the Head Start Act. Transportation services can involve the pick-up and discharge of children at regularly scheduled times and pre-arranged sites, including trips between children's homes and program settings. The term includes services provided directly by the Head Start and Early Head Start grantee or delegate agency and services which such agencies arrange to be provided by another organization or an individual. Incidental trips, such as transporting a sick child home before the end of the day, or such as might be required to transport small groups of children to and from necessary services, are not included under the term.
 
 *Verify* or any variance of the word means to check or determine the correctness or truth by investigation or by reference.
+
+[81 FR 61412, Sept. 6, 2016, as amended at 85 FR 53209, Aug. 28, 2020]

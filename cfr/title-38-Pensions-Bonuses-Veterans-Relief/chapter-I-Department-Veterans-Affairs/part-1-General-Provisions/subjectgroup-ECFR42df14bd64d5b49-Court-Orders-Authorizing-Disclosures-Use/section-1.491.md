@@ -1,7 +1,5 @@
 ##### § 1.491 Confidential communications. #####
 
-Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
-
 (a) A court order under §§ 1.490 through 1.499 of this part may authorize disclosure of confidential communications made by a patient to a treatment program in the course of diagnosis, treatment, or referral for treatment only if:
 
 (1) The disclosure is necessary to protect against an existing threat to life or of serious bodily injury, including circumstances which constitute suspected child abuse and neglect and verbal threats against third parties;
@@ -12,4 +10,4 @@ Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
 
 (b) [Reserved]
 
-(Authority: 38 U.S.C. 7334)
+[60 FR 63929, Dec. 13, 1995, as amended at 85 FR 64043, Oct. 9, 2020]

@@ -1,7 +1,5 @@
 ##### § 1.478 Disclosures to prevent multiple enrollments in detoxification and maintenance treatment programs; not applicable to records relating to sickle cell anemia or infection with the human immunodeficiency virus. #####
 
-Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Central registry* means an organization which obtains from two or more member programs patient identifying information about individuals applying for maintenance treatment or detoxification treatment for the purpose of avoiding an individual's concurrent enrollment in more than one program.
@@ -38,4 +36,4 @@ Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
 
 (c) *Use of information limited to prevention of multiple enrollments.* A central registry and any non-VA detoxification or maintenance treatment program to which information is disclosed to prevent multiple enrollments may not redisclose or use patient identifying information for any purpose other than the prevention of multiple enrollments unless authorized by a court order under §§ 1.490 through 1.499 of this part.
 
-(Authority: 38 U.S.C. 7334)
+[60 FR 63929, Dec. 13, 1995, as amended at 85 FR 64043, Oct. 9, 2020]

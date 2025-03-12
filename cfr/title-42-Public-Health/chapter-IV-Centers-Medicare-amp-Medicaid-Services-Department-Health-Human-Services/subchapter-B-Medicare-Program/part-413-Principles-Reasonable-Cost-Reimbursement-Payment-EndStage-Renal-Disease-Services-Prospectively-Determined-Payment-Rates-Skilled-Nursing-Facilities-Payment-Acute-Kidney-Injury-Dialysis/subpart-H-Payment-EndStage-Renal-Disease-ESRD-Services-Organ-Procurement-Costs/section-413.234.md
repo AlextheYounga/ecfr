@@ -1,5 +1,7 @@
 ##### § 413.234. Drug designation process. #####
 
+Link to an amendment published at 85 FR 71485, Nov. 9, 2020.
+
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *ESRD PPS functional category.* A distinct grouping of drugs or biological products, as determined by CMS, whose end action effect is the treatment or management of a condition or conditions associated with ESRD.

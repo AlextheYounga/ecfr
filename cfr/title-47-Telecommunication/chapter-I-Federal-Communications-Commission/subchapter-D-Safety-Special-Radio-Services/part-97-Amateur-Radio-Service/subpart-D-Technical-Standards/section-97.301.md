@@ -1,42 +1,33 @@
 ##### § 97.301 Authorized frequency bands. #####
 
-Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
-
 The following transmitting frequency bands are available to an amateur station located within 50 km of the Earth's surface, within the specified ITU Region, and outside any area where the amateur service is regulated by any authority other than the FCC.
 
 (a) For a station having a control operator who has been granted a Technician, General, Advanced, or Amateur Extra Class operator license or who holds a CEPT radio-amateur license or IARP of any class:
 
-|Wavelength band|ITU region 1|ITU region 2|ITU region 3|Sharing requirements see § 97.303  <br/>(paragraph)|
-|---------------|------------|------------|------------|---------------------------------------------------|
-|      VHF      |    MHz     |    MHz     |    MHz     |                                                   |
-|      6 m      |            |   50-54    |   50-54    |                        (a)                        |
-|      2 m      |  144-146   |  144-148   |  144-148   |                     (a), (k)                      |
-|    1.25 m     |            |  219-220   |            |                        (l)                        |
-|      Do       |            |  222-225   |            |                        (a)                        |
-
-| UHF |   MHz   |   MHz   |   MHz   |                  |
-|-----|---------|---------|---------|------------------|
-|70 cm| 430-440 | 420-450 | 430-440 |  (a), (b), (m)   |
-|33 cm|         | 902-928 |         |(a), (b), (e), (n)|
-|23 cm|1240-1300|1240-1300|1240-1300|  (b), (d), (o)   |
-|13 cm|2300-2310|2300-2310|2300-2310|     (d), (p)     |
-| Do  |2390-2450|2390-2450|2390-2450|  (d), (e), (p)   |
-
-| SHF  |    GHz    |    GHz    |    GHz    |                  |
-|------|-----------|-----------|-----------|------------------|
-| 9 cm |           |  3.3-3.5  |  3.3-3.5  |(a), (b), (f), (q)|
-| 5 cm |5.650-5.850|5.650-5.925|5.650-5.850|(a), (b), (e), (r)|
-| 3 cm | 10.0-10.5 | 10.0-10.5 | 10.0-10.5 |  (a), (b), (k)   |
-|1.2 cm|24.00-24.25|24.00-24.25|24.00-24.25|  (b), (d), (e)   |
-
-| EHF  |     GHz     |     GHz     |     GHz     |             |
-|------|-------------|-------------|-------------|-------------|
-| 6 mm |  47.0-47.2  |  47.0-47.2  |  47.0-47.2  |             |
-| 4 mm |    76-81    |    76-81    |    76-81    |(c), (f), (s)|
-|2.5 mm|122.25-123.00|122.25-123.00|122.25-123.00|  (e), (t)   |
-| 2 mm |   134-141   |   134-141   |   134-141   |  (c), (f)   |
-| 1 mm |   241-250   |   241-250   |   241-250   |(c), (e), (f)|
-|      |  Above 275  |  Above 275  |  Above 275  |     (f)     |
+|Wavelength band|ITU Region 1 |ITU Region 2 |ITU Region 3 |Sharing  <br/>requirements  <br/>see § 97.303  <br/>(paragraph)|
+|---------------|-------------|-------------|-------------|---------------------------------------------------------------|
+|      VHF      |     MHz     |     MHz     |     MHz     |                                                               |
+|      6 m      |             |    50-54    |    50-54    |                             (a).                              |
+|      2 m      |   144-146   |   144-148   |   144-148   |                           (a), (k).                           |
+|    1.25 m     |             |   219-220   |             |                             (l).                              |
+|       Do      |             |   222-225   |             |                             (a).                              |
+|      UHF      |     MHz     |     MHz     |     MHz     |                                                               |
+|     70 cm     |   430-440   |   420-450   |   430-440   |                        (a), (b), (m).                         |
+|     33 cm     |             |   902-928   |             |                      (a), (b), (e), (n).                      |
+|     23 cm     |  1240-1300  |  1240-1300  |  1240-1300  |                        (b), (d), (o).                         |
+|     13 cm     |  2300-2310  |  2300-2310  |  2300-2310  |                           (d), (p).                           |
+|       Do      |  2390-2450  |  2390-2450  |  2390-2450  |                        (d), (e), (p).                         |
+|      SHF      |     GHz     |     GHz     |     GHz     |                                                               |
+|     5 cm      | 5.650-5.850 | 5.650-5.925 | 5.650-5.850 |                      (a), (b), (e), (r).                      |
+|     3 cm      |  10.0-10.5  |  10.0-10.5  |  10.0-10.5  |                        (a), (b), (k).                         |
+|    1.2 cm     | 24.00-24.25 | 24.00-24.25 | 24.00-24.25 |                        (b), (d), (e).                         |
+|      EHF      |     GHz     |     GHz     |     GHz     |                                                               |
+|     6 mm      |  47.0-47.2  |  47.0-47.2  |  47.0-47.2  |                                                               |
+|     4 mm      |    76-81    |    76-81    |    76-81    |                        (c), (f), (s).                         |
+|    2.5 mm     |122.25-123.00|122.25-123.00|122.25-123.00|                           (e), (t).                           |
+|     2 mm      |   134-141   |   134-141   |   134-141   |                           (c), (f).                           |
+|     1 mm      |   241-250   |   241-250   |   241-250   |                        (c), (e), (f).                         |
+|               |  Above 275  |  Above 275  |  Above 275  |                             (f).                              |
 
 (b) For a station having a control operator who has been granted an Amateur Extra Class operator license, who holds a CEPT radio amateur license, or who holds a Class 1 IARP license:
 
@@ -139,4 +130,4 @@ The following transmitting frequency bands are available to an amateur station l
 |-----|---------|---------|---------|--------|
 |23 cm|1270-1295|1270-1295|1270-1295|(d), (o)|
 
-[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017]
+[75 FR 27201, May 14, 2010, as amended at 75 FR 78171, Dec. 15, 2010; 80 FR 38911, July 7, 2015; 82 FR 27214, June 14, 2017; 85 FR 64068, Oct. 9, 2020]

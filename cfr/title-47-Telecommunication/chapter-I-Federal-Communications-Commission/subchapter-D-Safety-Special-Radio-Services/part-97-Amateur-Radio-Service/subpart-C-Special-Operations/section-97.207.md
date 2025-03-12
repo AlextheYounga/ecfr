@@ -1,6 +1,6 @@
 ##### § 97.207 Space station. #####
 
-Link to an amendment published at 85 FR 52453, Aug. 25, 2020.Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
+Link to an amendment published at 85 FR 52453, Aug. 25, 2020.
 
 (a) Any amateur station may be a space station. A holder of any class operator license may be the control operator of a space station, subject to the privileges of the class of operator license held by the control operator.
 
@@ -10,7 +10,7 @@ Link to an amendment published at 85 FR 52453, Aug. 25, 2020.Link to an amendmen
 
 (1) The 17 m, 15 m, 12 m, and 10 m bands, 6 mm, 4 mm, 2 mm and 1 mm bands; and
 
-(2) The 7.0-7.1 MHz, 14.00-14.25 MHz, 144-146 MHz, 435-438 MHz, 2400-2450 MHz, 3.40-3.41 GHz, 5.83-5.85 GHz, 10.45-10.50 GHz, and 24.00-24.05 GHz segments.
+(2) The 7.0-7.1 MHz, 14.00-14.25 MHz, 144-146 MHz, 435-438 MHz, 2400-2450 MHz, 5.83-5.85 GHz, 10.45-10.50 GHz, and 24.00-24.05 GHz segments.
 
 (d) A space station may automatically retransmit the radio signals of Earth stations and other space stations.
 
@@ -36,4 +36,4 @@ Link to an amendment published at 85 FR 52453, Aug. 25, 2020.Link to an amendmen
 
 (3) A post-space station notification is required no later than 3 months after termination of the space station transmissions. When termination of transmissions is ordered by the FCC, the notification is required no later than 24 hours after termination of transmissions.
 
-[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010]
+[54 FR 25857, June 20, 1989, as amended at 54 FR 39535, Sept. 27, 1989; 56 FR 56171, Nov. 1, 1991; 57 FR 32736, July 23, 1992; 60 FR 50124, Sept. 28, 1995; 63 FR 68980, Dec. 14, 1998; 69 FR 54588, Sept. 9, 2004; 71 FR 66462, Nov. 15, 2006; 75 FR 27201, May 14, 2010; 85 FR 64068, Oct. 9, 2020]

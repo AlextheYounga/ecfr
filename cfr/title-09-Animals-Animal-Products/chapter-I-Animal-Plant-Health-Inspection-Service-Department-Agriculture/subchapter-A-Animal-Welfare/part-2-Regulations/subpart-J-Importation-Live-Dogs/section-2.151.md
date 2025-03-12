@@ -1,12 +1,10 @@
 ##### § 2.151 Certifications. #####
 
-Link to an amendment published at 85 FR 28798, May 13, 2020.
-
-(a) *Required certificates.* Except as provided in paragraph (b) of this section, no person shall import a live dog from any part of the world into the continental United States or Hawaii for purposes of resale, research, or veterinary treatment unless the following conditions are met:
+(a) *Required certificates.* Except as provided in paragraph (b) of this section, no person shall import a live dog from any part of the world into the States for purposes of resale unless the following conditions are met:
 
 (1) *Health certificate.* Each dog is accompanied by an original health certificate issued in English by a licensed veterinarian with a valid license to practice veterinary medicine in the country of export that:
 
-(i) Specifies the name and address of the person intending to import the dog into the continental United States or Hawaii;
+(i) Specifies the name and address of the person intending to import the dog into the States;
 
 (ii) Identifies the dog on the basis of breed, sex, age, color, markings, and other identifying information;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 6 Alternatively, this requirement can be met by providing an exact copy of the rabies vaccination certificate if so required under the Public Health Service regulations in 42 CFR 71.51.
 
-(i) Specifies the name and address of the person intending to import the dog into the continental United States or Hawaii;
+(i) Specifies the name and address of the person intending to import the dog into the States;
 
 (ii) Identifies the dog on the basis of breed, sex, age, color, markings, and other identifying information;
 
@@ -32,9 +30,9 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 (v) Bears the signature and the license number of the veterinarian issuing the certificate.
 
-(b) *Exceptions.* (1) *Research.* The provisions of paragraphs (a)(1)(iii), (a)(1)(iv), (a)(1)(v), and/or (a)(2) of this section do not apply to any person who imports a live dog from any part of the world into the continental United States or Hawaii for use in research, tests, or experiments at a research facility, provided that: Such person submits satisfactory evidence to Animal Care at the time of his or her application for an import permit that the specific provision(s) would interfere with the dog's use in such research, tests, or experiments in accordance with a research proposal and the proposal has been approved by the research facility IACUC.
+(b) *Exceptions*—(1) *Research.* The provisions of paragraphs (a)(1)(iii), (a)(1)(iv), (a)(1)(v), and/or (a)(2) of this section do not apply to any person who imports a live dog from any part of the world into the States for resale for use in research, tests, or experiments at a research facility, provided that: Such person submits satisfactory evidence to Animal Care at the time of his or her application for an import permit that the specific provision(s) would interfere with the dog's use in such research, tests, or experiments in accordance with a research proposal and the proposal has been approved by the research facility IACUC.
 
-(2) *Veterinary care.* The provisions of paragraphs (a)(1)(iii) through (a)(1)(v) and (a)(2) of this section do not apply to any person who imports a live dog from any part of the world into the continental United States or Hawaii for veterinary treatment by a licensed veterinarian, provided that:
+(2) *Veterinary care.* The provisions of paragraphs (a)(1)(iii) through (a)(1)(v) and (a)(2) of this section do not apply to any person who imports a live dog from any part of the world into the States for veterinary treatment by a licensed veterinarian and subsequent resale, provided that:
 
 (i) The original health certificate required in paragraph (a)(1) of this section states that the dog is in need of veterinary treatment that cannot be obtained in the country of export and states the name and address of the licensed veterinarian in the United States who intends to provide the dog such veterinary treatment; and
 
@@ -42,4 +40,4 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 (3) *Dogs imported into Hawaii from the British Isles, Australia, Guam, or New Zealand.* The provisions of paragraph (a)(1)(iii) of this section do not apply to any person who lawfully imports a live dog into the State of Hawaii from the British Isles, Australia, Guam, or New Zealand in compliance with the applicable regulations of the State of Hawaii, provided that the dog is not transported out of the State of Hawaii for purposes of resale at less than 6 months of age.
 
-(Approved by the Office of Management and Budget under control number 0579-0379)
+(Approved by the Office of Management and Budget under control number 0579-0379)[79 FR 48659, Aug. 18, 2014, as amended at 85 FR 28798, May 13, 2020]

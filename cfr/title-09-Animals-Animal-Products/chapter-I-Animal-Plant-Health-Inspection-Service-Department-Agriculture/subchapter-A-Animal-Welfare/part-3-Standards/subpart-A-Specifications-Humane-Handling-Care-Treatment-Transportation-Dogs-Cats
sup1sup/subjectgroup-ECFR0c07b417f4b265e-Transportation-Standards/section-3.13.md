@@ -1,33 +1,31 @@
-##### § 3.13 Consignments to carriers and intermediate handlers. #####
+##### § 3.13 Veterinary care for dogs. #####
 
-Link to an amendment published at 85 FR 28798, May 13, 2020.
+(a) Each dealer, exhibitor, and research facility must follow an appropriate program of veterinary care for dogs that is developed, documented in writing, and signed by the attending veterinarian. Dealers, exhibitors, and research facilities must keep and maintain the written program and make it available for APHIS inspection. The written program of veterinary care must address the requirements for adequate veterinary care for every dealer and exhibitor in § 2.40 of this subchapter and every research facility in § 2.33 of this subchapter, and must also include:
 
-(a) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce more than 4 hours before the scheduled departure time of the primary conveyance on which the animal is to be transported. However, a carrier or intermediate handler may agree with anyone consigning a dog or cat to extend this time by up to 2 hours.
+(1) Regularly scheduled visits, not less than once every 12 months, by the attending veterinarian to all premises where animals are kept, to assess and ensure the adequacy of veterinary care and other aspects of animal care and use;
 
-(b) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce unless they are provided with the name, address, and telephone number of the consignee.
+(2) A complete physical examination from head to tail of each dog by the attending veterinarian not less than once every 12 months;
 
-(c) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce unless the consignor certifies in writing to the carrier or intermediate handler that the dog or cat was offered food and water during the 4 hours before delivery to the carrier or intermediate handler. The certification must be securely attached to the outside of the primary enclosure in a manner that makes it easily noticed and read. Instructions for no food or water are not acceptable unless directed by the attending veterinarian. Instructions must be in compliance with § 3.16 of this subpart. The certification must include the following information for each dog and cat:
+(3) Vaccinations for contagious and/or deadly diseases of dogs (including rabies, parvovirus and distemper) and sampling and treatment of parasites and other pests (including fleas, worms, coccidia, giardia, and heartworm) in accordance with a schedule approved by the attending veterinarian, unless otherwise required by a research protocol approved by the Committee at research facilities; and
 
-(1) The consignor's name and address;
+(4) Preventative care and treatment to ensure healthy and unmatted hair coats, properly trimmed nails, and clean and healthy eyes, ears, skin, and teeth, unless otherwise required by a research protocol approved by the Committee at research facilities.
 
-(2) The tag number or tattoo assigned to each dog or cat under §§ 2.38 and 2.50 of this chapter;
+(b) Dealers, exhibitors, and research facilities must keep copies of medical records for dogs and make the records available for APHIS inspection. These records must include:
 
-(3) The time and date the animal was last fed and watered and the specific instructions for the next feeding(s) and watering(s) for a 24-hour period; and
+(1) The identity of the animal, including identifying marks, tattoos, or tags on the animal and the animal's breed, sex, and age; *Provided,* however, that routine husbandry, such as vaccinations, preventive medical procedures, or treatments, performed on all animals in a group (or herd), may be kept on a single record;
 
-(4) The consignor's signature and the date and time the certification was signed.
+(2) If a problem is identified (such as a disease, injury, or illness), the date and a description of the problem, examination findings, test results, plan for treatment and care, and treatment procedures performed, when appropriate;
 
-(d) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce in a primary enclosure unless the primary enclosure meets the requirements of § 3.14 of this subpart. A carrier or intermediate handler must not accept a dog or cat for transport if the primary enclosure is obviously defective or damaged and cannot reasonably be expected to safely and comfortably contain the dog or cat without causing suffering or injury.
+(3) The names of all vaccines and treatments administered and the dates of administration; and
 
-(e) Carriers and intermediate handlers must not accept a dog or cat for transport in commerce unless their animal holding area meets the minimum temperature requirements provided in §§ 3.18 and 3.19 of this subpart, or unless the consignor provides them with a certificate signed by a veterinarian and dated no more than 10 days before delivery of the animal to the carrier or intermediate handler for transport in commerce, certifying that the animal is acclimated to temperatures lower than those required in §§ 3.18 and 3.19 of this subpart. Even if the carrier or intermediate handler receives this certification, the temperatures the dog or cat is exposed to while in a terminal facility must not be lower than 45 °F (2.2 °C) for more than 4 consecutive hours when dogs or cats are present, as set forth in § 3.18, nor lower than 45 °F (2.2 °C) for more than 45 minutes, as set forth in § 3.19, when moving dogs or cats to or from terminal facilities or primary conveyances. A copy of the certification must accompany the dog or cat to its destination and must include the following information:
+(4) The dates and findings/results of all screening, routine, or other required or recommended test or examination.
 
-(1) The consignor's name and address;
+(c) Medical records for dogs shall be kept for the following periods:
 
-(2) The tag number or tattoo assigned to each dog or cat under §§ 2.38 and 2.50 of this chapter;
+(1) The medical records for dogs shall be kept and maintained by the research facility for the duration of the research activity and for an additional 3 years after the dog is euthanized or disposed of, and for any period in excess of 3 years as necessary to comply with any applicable Federal, State, or local law.
 
-(3) A statement by a veterinarian, dated no more than 10 days before delivery, that to the best of his or her knowledge, each of the dogs or cats contained in the primary enclosure is acclimated to air temperatures lower than 50 °F (10 °C); but not lower than a minimum temperature, specified on a certificate, that the attending veterinarian has determined is based on generally accepted temperature standards for the age, condition, and breed of the dog or cat; and
+(2) The medical records for dogs shall be kept and maintained by the dealer or exhibitor for at least 1 year after the dog is euthanized or disposed of and for any period in excess of 1 year as necessary to comply with any applicable Federal, State, or local law.
 
-(4) The signature of the veterinarian and the date the certification was signed.
+(3) Whenever the Administrator notifies a research facility, dealer, or exhibitor in writing that specified records shall be retained pending completion of an investigation or proceeding under the Act, the research facility, dealer, or exhibitor shall hold those records until their disposition is authorized by the Administrator.
 
-(f) When a primary enclosure containing a dog or cat has arrived at the animal holding area at a terminal facility after transport, the carrier or intermediate handler must attempt to notify the consignee upon arrival and at least once in every 6-hour period thereafter. The time, date, and method of all attempted notifications and the actual notification of the consignee, and the name of the person who notifies or attempts to notify the consignee must be written either on the carrier's or intermediate handler's copy of the shipping document or on the copy that accompanies the primary enclosure. If the consignee cannot be notified within 24 hours after the dog or cat has arrived at the terminal facility, the carrier or intermediate handler must return the animal to the consignor or to whomever the consignor designates. If the consignee is notified of the arrival and does not accept delivery of the dog or cat within 48 hours after arrival of the dog or cat, the carrier or intermediate handler must return the animal to the consignor or to whomever the consignor designates. The carrier or intermediate handler must continue to provide proper care, feeding, and housing to the dog or cat, and maintain the dog or cat in accordance with generally accepted professional and husbandry practices until the consignee accepts delivery of the dog or cat or until it is returned to the consignor or to whomever the consignor designates. The carrier or intermediate handler must obligate the consignor to reimburse the carrier or intermediate handler for the cost of return transportation and care.
-
-(Approved by the Office of Management and Budget under control number 0579-0093)
+(Approved by the Office of Management and Budget under control number 0579-0470)[85 FR 28798, May 13, 2020]

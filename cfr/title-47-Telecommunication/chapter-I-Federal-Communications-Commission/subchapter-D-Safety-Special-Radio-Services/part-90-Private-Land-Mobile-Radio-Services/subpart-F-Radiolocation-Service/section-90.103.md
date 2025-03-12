@@ -1,7 +1,5 @@
 ##### § 90.103 Radiolocation Service. #####
 
-Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
-
 (a) *Eligibility.* The following persons are eligible for authorizations in- the Radiolocation Service to operate stations to determine distance, direction, speed, or position by means of radiolocation devices, for purposes other than navigation:
 
 (1) Any person engaged in a commercial, industrial, scientific, educational, or local government activity
@@ -12,11 +10,9 @@ Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
 
 (b) *Frequencies available.* The following table indicates frequencies available for assignment to stations in the Radiolocation Service, together with the class of station(s) to which they are normally assigned, and the specific assignment limitations, which are explained in paragraph (c) of this section:
 
-Radiolocation Service Frequency Table
-
 |Frequency or band|    Class of station(s)     |Limitation|
 |-----------------|----------------------------|----------|
-|    Kilohertz    |                            |          |
+|  **Kilohertz**  |                            |          |
 |    70 to 90     |Radiolocation land or mobile|    1     |
 |    90 to 110    |     Radiolocation land     |    2     |
 |   110 to 130    |Radiolocation land or mobile|    1     |
@@ -37,8 +33,6 @@ Radiolocation Service Frequency Table
 |  2450 to 2500   |          ......do          |9, 22, 23 |
 |  2900 to 3100   |          ......do          |  10, 11  |
 |  3100 to 3300   |          ......do          |    12    |
-|  3300 to 3500   |          ......do          |  12, 13  |
-|  3500 to 3550   |          ......do          |    12    |
 |  3550 to 3650   |          ......do          |    30    |
 |  5250 to 5350   |          ......do          |    12    |
 |  5350 to 5460   |          ......do          |  10, 14  |

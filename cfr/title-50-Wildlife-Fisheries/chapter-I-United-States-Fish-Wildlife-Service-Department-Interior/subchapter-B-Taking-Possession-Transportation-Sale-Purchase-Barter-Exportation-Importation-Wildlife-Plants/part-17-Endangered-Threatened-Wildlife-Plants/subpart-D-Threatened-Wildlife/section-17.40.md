@@ -1,7 +1,5 @@
 ##### § 17.40 Special rules - mammals. #####
 
-Link to an amendment published at 85 FR 69895, Nov. 3, 2020.
-
 (a) Mazama pocket gophers (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) - (1) *Which populations of the Mazama pocket gopher are covered by this special rule?* This special rule covers the four Thurston/Pierce subspecies of the Mazama pocket gopher (Olympia, Roy Prairie, Tenino, and Yelm) (*Thomomys mazama pugetensis, glacialis, tumuli,* and *yelmensis*) wherever they occur.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3) through (7) of this section, all prohibitions of § 17.31 apply to the Olympia, Roy Prairie, Tenino, and Yelm pocket gophers.
@@ -633,5 +631,25 @@ Native, and
 (2) The import exemption found in § 17.8 for threatened wildlife listed in Appendix II of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) does not apply to this subspecies. A threatened species import permit under § 17.32 is required for the importation of all specimens of *Panthera leo melanochaita.*
 
 (3) All applicable provisions of 50 CFR parts 13, 14, 17, and 23 must be met.
+
+(s) Pacific marten (*Martes caurina*), Coastal DPS.
+
+(1) *Prohibitions.* Except as provided in paragraph (s)(2) of this section, all prohibitions and provisions of section 9(a)(1) of the Act apply to the Coastal DPS of the Pacific marten.
+
+(2) *Exceptions from prohibitions.* In regard to the Coastal DPS of the Pacific marten (“coastal marten”), you may:
+
+(i) Conduct activities as authorized by a permit under § 17.32.
+
+(ii) Take as set forth at § 17.21(c)(2) through (c)(4) for endangered wildlife.
+
+(iii) Take as set forth at § 17.31(b).
+
+(iv) Conduct forest management activities for the purposes of reducing the risk or severity of wildfire, which include fuels reduction projects, firebreaks, and wildfire firefighting activities. More specifically, forest management practices such as those that treat vertical and horizontal (ladder) fuels in an effort to reduce continuity between understory and the overstory vegetation and the potential for crown fires, remove fuels within 150 feet of legally permitted structures and within 300 feet of habitable structures, or implement Fuelbreak/Defensible Space Prescriptions that allow for removal of trees or other vegetation to create a shaded fuelbreak along roads or other natural features, or create defensible space.
+
+(v) Conduct forestry management activities included in a plan or agreement for lands covered by a Natural Communities Conservation Plan or State Safe Harbor Agreement that addresses and authorizes State take of coastal marten as a covered species and is approved by the California Department of Fish and Wildlife under the authority of the California Endangered Species Act.
+
+(vi) Conduct forestry management activities consistent with the conservation needs of the coastal marten (e.g., activities that promote, retain, or restore suitable coastal marten habitat that increase percent canopy cover, percent ericaceous shrub cover, and denning and resting structures). These include activities consistent with finalized conservation plans or strategies, such as plans and documents that include coastal marten conservation prescriptions or compliance, and for which the Service has determined that meeting such plans or strategies, or portions thereof, would be consistent with conservation strategies for coastal marten.
+
+(vii) Conduct activities to remove toxicants and other chemicals consistent with conservation strategies for coastal marten. Such activities include management or cleanup activities that remove toxicants and other chemicals from forested areas, for which the Service has determined that such activities to remove toxicants and other chemicals would be consistent with conservation strategies for coastal marten. Cleanup of these sites may involve activities that may cause localized, short-term disturbance to coastal martens, as well as require limited removal of some habitat structures valuable to coastal martens (e.g., hazard trees that may be a suitable den site).
 
 [40 FR 44415, Sept. 26, 1975]Editorial Note:For Federal Register citations affecting § 17.40, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

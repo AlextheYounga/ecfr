@@ -1,7 +1,5 @@
 ##### § 2.75 Records: Dealers and exhibitors. #####
 
-Link to an amendment published at 85 FR 28798, May 13, 2020.
-
 (a)(1) Each dealer, other than operators of auction sales and brokers to whom animals are consigned, and each exhibitor shall make, keep, and maintain records or forms which fully and correctly disclose the following information concerning each dog or cat purchased or otherwise acquired, owned, held, or otherwise in his or her possession or under his or her control, or which is transported, euthanized, sold, or otherwise disposed of by that dealer or exhibitor. The records shall include any offspring born of any animal while in his or her possession or under his or her control.
 
 (i) The name and address of the person from whom a dog or cat was purchased or otherwise acquired whether or not the person is required to be licensed or registered under the Act;
@@ -30,13 +28,13 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 (ix) The date and method of disposition of a dog or cat, e.g., sale, death, euthanasia, or donation.
 
-(2) Each dealer and exhibitor shall use Record of Aquisition and Dogs and Cats on Hand (APHIS Form 7005) and Record of Disposition of Dogs and Cats (APHIS Form 7006) to make, keep, and maintain the information required by paragraph (a)(1) of this section: *Provided,* that if a dealer or exhibitor who uses a computerized recordkeeping system believes that APHIS Form 7005 and APHIS Form 7006 are unsuitable for him or her to make, keep, and maintain the information required by paragraph (a)(1) of this section, the dealer or exhibitor may request a variance from the requirement to use APHIS Form 7005 and APHIS Form 7006.
+(2) Each dealer and exhibitor shall use Record of Acquisition and Dogs and Cats on Hand (APHIS Form 7005) and Record of Disposition of Dogs and Cats (APHIS Form 7006) to make, keep, and maintain the information required by paragraph (a)(1) of this section: *Provided,* that if a dealer or exhibitor who uses a computerized recordkeeping system believes that APHIS Form 7005 and APHIS Form 7006 are unsuitable for him or her to make, keep, and maintain the information required by paragraph (a)(1) of this section, the dealer or exhibitor may request a variance from the requirement to use APHIS Form 7005 and APHIS Form 7006.
 
 (i) The request for a variance must consist of a written statement describing why APHIS Form 7005 and APHIS Form 7006 are unsuitable for the dealer or exhibitor to make, keep, and maintain the information required by paragraph (a)(1) of this section, and a description of the computerized recordkeeping system the person would use in lieu of APHIS Form 7005 and APHIS Form 7006 to make, keep, and maintain the information required by paragraph (a)(1) of this section. APHIS will advise the person as to the disposition of his or her request for a variance from the requirement to use APHIS Form 7005 and APHIS Form 7006.
 
 (ii) A dealer or exhibitor whose request for a variance has been denied may request a hearing in accordance with the applicable rules of practice for the purpose of showing why the request for a variance should not be denied. The denial of the variance shall remain in effect until the final legal decision has been rendered.
 
-(3) The USDA Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) may be used by dealers and exhibitors to make, keep, and maintain the information required by § 2.79.
+(3) The USDA Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) may be used by dealers and exhibitors to make, keep, and maintain the information required by § 2.78.
 
 (4) One copy of the record containing the information required by paragraph (a)(1) of this section shall accompany each shipment of any dog or cat purchased or otherwise acquired by a dealer or exhibitor. One copy of the record containing the information required by paragraph (a)(1) of this section shall accompany each shipment of any dog or cat sold or otherwise disposed of by a dealer or exhibitor: *Provided, however,* that, except as provided in § 2.133(b) of this part for dealers, information that indicates the source and date of acquisition of a dog or cat need not appear on the copy of the record accompanying the shipment. One copy of the record containing the information required by paragraph (a)(1) of this section shall be retained by the dealer or exhibitor.
 
@@ -56,8 +54,8 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 (vii) The number of animals in the shipment.
 
-(2) Record of Animals on Hand (other than dogs and cats) (APHIS Form 7019) and Record of Acquisition, Disposition, or Transport of Animals (other than dogs and cats) (APHIS Form 7020) are forms which may be used by dealers and exhibitors to keep and maintain the information required by paragraph (b)(1) of this section concerning animals other than dogs and cats except as provided in § 2.79.
+(2) Record of Animals on Hand (other than dogs and cats) (APHIS Form 7019) and Record of Acquisition, Disposition, or Transport of Animals (other than dogs and cats) (APHIS Form 7020) are forms which may be used by dealers and exhibitors to keep and maintain the information required by paragraph (b)(1) of this section concerning animals other than dogs and cats except as provided in § 2.78.
 
 (3) One copy of the record containing the information required by paragraph (b)(1) of this section shall accompany each shipment of any animal(s) other than a dog or cat purchased or otherwise acquired by a dealer or exhibitor. One copy of the record containing the information required by paragraph (b)(1) of this section shall accompany each shipment of any animal other than a dog or cat sold or otherwise disposed of by a dealer or exhibitor; *Provided, however,* That information which indicates the source and date of acquisition of any animal other than a dog or cat need not appear on the copy of the record accompanying the shipment. The dealer or exhibitor shall retain one copy of the record containing the information required by paragraph (b)(1) of this section.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 58 FR 45041, Aug. 26, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42102, July 14, 2004]
+[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 58 FR 45041, Aug. 26, 1993; 60 FR 13895, Mar. 15, 1995; 69 FR 42102, July 14, 2004; 85 FR 28798, May 13, 2020]

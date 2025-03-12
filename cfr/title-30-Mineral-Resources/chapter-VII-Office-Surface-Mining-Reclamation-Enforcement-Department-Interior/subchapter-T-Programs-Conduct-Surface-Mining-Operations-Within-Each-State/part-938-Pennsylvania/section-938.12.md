@@ -1,5 +1,7 @@
 ##### § 938.12 State statutory, regulatory, and proposed program amendment provisions not approved. #####
 
+Link to an amendment published at 85 FR 71263, Nov. 9, 2020.
+
 (a) We are not approving the following provisions or portions of provisions of the proposed program amendment that Pennsylvania submitted on July 29, 1998:
 
 (1) Section 5.1(b) (52 P.S. 1406.5a(b)) of BMSLCA is not approved to the extent noted in 30 CFR 938.13(a)(1).

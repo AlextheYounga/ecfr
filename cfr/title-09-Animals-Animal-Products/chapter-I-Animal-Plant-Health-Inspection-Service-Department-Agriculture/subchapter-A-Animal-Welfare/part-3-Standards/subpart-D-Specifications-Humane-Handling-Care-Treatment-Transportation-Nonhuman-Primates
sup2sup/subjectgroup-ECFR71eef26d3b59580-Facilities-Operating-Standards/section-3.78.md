@@ -1,6 +1,4 @@
-##### § 3.78 0utdoor housing facilities. #####
-
-Link to an amendment published at 85 FR 28799, May 13, 2020.
+##### § 3.78 Outdoor housing facilities. #####
 
 (a) *Acclimation.* Only nonhuman primates that are acclimated, as determined by the attending veterinarian, to the prevailing temperature and humidity at the outdoor housing facility during the time of year they are at the facility, and that can tolerate the range of temperatures and climatic conditions known to occur at the facility at that time of year without stress or discomfort, may be kept in outdoor facilities.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 85 FR 28799, May 13, 2020.
 
 (e) *Public barriers.* Fixed public exhibits housing nonhuman primates, such as zoos, must have a barrier between the primary enclosure and the public at any time the public is present, in order to restrict physical contact between the public and the nonhuman primates. Nonhuman primates used in trained animal acts or in uncaged public exhibits must be under the direct control and supervision of an experienced handler or trainer at all times when the public is present. Trained nonhuman primates may be allowed physical contact with the public, but only if they are under the direct control and supervision of an experienced handler or trainer at all times during the contact.
 
-(Approved by the Office of Management and Budget under control number 0579-0093)
+(Approved by the Office of Management and Budget under control number 0579-0093)[56 FR 6495, Feb. 15, 1991, as amended at 85 FR 28799, May 13, 2020]

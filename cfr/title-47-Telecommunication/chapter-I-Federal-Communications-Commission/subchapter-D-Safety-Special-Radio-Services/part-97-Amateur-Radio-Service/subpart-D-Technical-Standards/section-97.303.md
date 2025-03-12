@@ -1,12 +1,10 @@
 ##### § 97.303 Frequency sharing requirements. #####
 
-Link to an amendment published at 85 FR 64068, Oct. 9, 2020.
-
 The following paragraphs summarize the frequency sharing requirements that apply to amateur stations transmitting in the frequency bands specified in § 97.301 of this part. Each frequency band allocated to the amateur service is designated as either a secondary service or a primary service. A station in a secondary service must not cause harmful interference to, and must accept interference from, stations in a primary service.
 
 (a) Where, in adjacent ITU Regions or sub-Regions, a band of frequencies is allocated to different services of the same category (*i.e.,* primary or secondary services), the basic principle is the equality of right to operate. Accordingly, stations of each service in one Region or sub-Region must operate so as not to cause harmful interference to any service of the same or higher category in the other Regions or sub-Regions.
 
-(b) Amateur stations transmitting in the 70 cm band, the 33 cm band, the 23 cm band, the 9 cm band, the 5 cm band, the 3 cm band, or the 24.05-24.25 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government in the radiolocation service.
+(b) Amateur stations transmitting in the 70 cm band, the 33 cm band, the 23 cm band, the 5 cm band, the 3 cm band, or the 24.05-24.25 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government in the radiolocation service.
 
 (c) Amateur stations transmitting in the 76-81 GHz segment, the 136-141 GHz segment, or the 241-248 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the United States Government, the FCC, or other nations in the radiolocation service.
 
@@ -14,7 +12,7 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (e) Amateur stations receiving in the 33 cm band, the 2400-2450 MHz segment, the 5.725-5.875 GHz segment, the 1.2 cm band, the 2.5 mm band, or the 244-246 GHz segment must accept interference from industrial, scientific, and medical (ISM) equipment.
 
-(f) Amateur stations transmitting in the following segments must not cause harmful interference to radio astronomy stations: 3.332-3.339 GHz, 3.3458-3.3525 GHz, 76-81 GHz, 136-141 GHz, 241-248 GHz, 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz, or 926-945 GHz. In addition, amateur stations transmitting in the following segments must not cause harmful interference to stations in the Earth exploration-satellite service (passive) or the space research service (passive): 275-277 GHz, 294-306 GHz, 316-334 GHz, 342-349 GHz, 363-365 GHz, 371-389 GHz, 416-434 GHz, 442-444 GHz, 496-506 GHz, 546-568 GHz, 624-629 GHz, 634-654 GHz, 659-661 GHz, 684-692 GHz, 730-732 GHz, 851-853 GHz, or 951-956 GHz.
+(f) Amateur stations transmitting in the following segments must not cause harmful interference to radio astronomy stations: 76-81 GHz, 136-141 GHz, 241-248 GHz, 275-323 GHz, 327-371 GHz, 388-424 GHz, 426-442 GHz, 453-510 GHz, 623-711 GHz, 795-909 GHz, or 926-945 GHz. In addition, amateur stations transmitting in the following segments must not cause harmful interference to stations in the Earth exploration-satellite service (passive) or the space research service (passive): 275-286 GHz, 296-306 GHz, 313-356 GHz, 361-365 GHz, 369-392 GHz, 397-399 GHz, 409-411 GHz, 416-434 GHz, 439-467 GHz, 477-502 GHz, 523-527 GHz, 538-581 GHz, 611-630 GHz, 634-654 GHz, 657-692 GHz, 713-718 GHz, 729-733 GHz, 750-754 GHz, 771-776 GHz, 823-846 GHz, 850-854 GHz, 857-862 GHz, 866-882 GHz, 905-928 GHz, 951-956 GHz, 968-973 GHz and 985-990 GHz.
 
 (g) In the 2200 m and 630 m bands:
 
@@ -34,11 +32,9 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (ii) Stations authorized by other nations in the maritime mobile and aeronautical radionavigation services.
 
-(5) Amateur stations causing harmful interference shall take all necessary measures to eliminate such interference - including temporary or permanent termination of transmissions.
+(5) Amateur stations causing harmful interference shall take all necessary measures to eliminate such interference—including temporary or permanent termination of transmissions.
 
 (h) *60 m band:* (1) In the 5330.5-5406.4 kHz band (60 m band), amateur stations may transmit only on the five center frequencies specified in the table below. In order to meet this requirement, control operators of stations transmitting phone, data, and RTTY emissions (emission designators 2K80J3E, 2K80J2D, and 60H0J2B, respectively) may set the carrier frequency 1.5 kHz below the center frequency as specified in the table below. For CW emissions (emission designator 150HA1A), the carrier frequency is set to the center frequency. Amateur operators shall ensure that their emissions do not occupy more than 2.8 kHz centered on each of these center frequencies.
-
-60 M Band Frequencies (kHz)
 
 |Carrier|Center|
 |-------|------|
@@ -112,7 +108,7 @@ The following paragraphs summarize the frequency sharing requirements that apply
 
 (2) Amateur stations transmitting in the 2305-2310 MHz segment must not cause harmful interference to, and must accept interference from, stations authorized by the FCC in the fixed, mobile except aeronautical mobile, and radiolocation services.
 
-(q) Amateur stations transmitting in the 3.4-3.5 GHz segment must not cause harmful interference to, and must accept interference from, stations authorized by other nations in the fixed and fixed-satellite (space-to-Earth) services.
+(q) [Reserved]
 
 (r) *In the 5 cm band:*
 
@@ -128,4 +124,4 @@ Note to § 97.303:
 
 The Table of Frequency Allocations contains the complete, unabridged, and legally binding frequency sharing requirements that pertain to the Amateur Radio Service. *See* 47 CFR 2.104, 2.105, and 2.106. The United States, Puerto Rico, and the U.S. Virgin Islands are in Region 2 and other U.S. insular areas are in either Region 2 or 3; see appendix 1 to part 97.
 
-[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017; 82 FR 43872, Sept. 20, 2017]
+[75 FR 27203, May 14, 2010, as amended at 77 FR 5412, Feb. 3, 2012; 80 FR 38912, July 7, 2015; 82 FR 27215, June 14, 2017; 82 FR 43872, Sept. 20, 2017; 85 FR 64068, Oct. 9, 2020]

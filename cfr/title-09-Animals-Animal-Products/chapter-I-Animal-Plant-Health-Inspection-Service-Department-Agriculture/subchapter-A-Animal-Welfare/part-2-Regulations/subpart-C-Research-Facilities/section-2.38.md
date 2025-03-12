@@ -1,7 +1,5 @@
 ##### § 2.38 Miscellaneous. #####
 
-Link to an amendment published at 85 FR 28797, May 13, 2020.
-
 (a) *Information as to business: furnishing of same by research facilities.* Each research facility shall furnish to any APHIS official any information concerning the business of the research facility which the APHIS official may request in connection with the enforcement of the provisions of the Act, the regulations, and the standards in this subchapter. The information shall be furnished within a reasonable time and as may be specified in the request for information.
 
 (b) *Access and inspection of records and property.* (1) Each research facility shall, during business hours, allow APHIS officials:
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (2) The use of a room, table or other facilities necessary for the proper examination of the records and for inspection of the property or animals shall be extended to APHIS officials by the research facility.
 
-(c) *Publication of names of research facilities subject to the provisions of this part.* APHIS will publish lists of research facilities registered in accordance with the provisions of this subpart in the Federal Register. The lists may be obtained upon request from the AC Regional Director.
+(c) *Publication of lists of research facilities subject to the provisions of this part.* APHIS will publish on its website lists of research facilities registered in accordance with the provisions of this subpart. The lists may also be obtained upon request from the Deputy Administrator.
 
 (d) *Inspection for missing animals.* Each research facility shall allow, upon request and during business hours, police or officers of other law enforcement agencies with general law enforcement authority (not those agencies whose duties are limited to enforcement of local animal regulations) to enter its place of business to inspect animals and records for the purpose of seeking animals that are missing, under the following conditions:
 
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (ii) Deprivation of food or water shall not be used to train, work, or otherwise handle animals; *Provided, however:* That the short-term withholding of food or water from animals, when specified in an IACUC-approved activity that includes a description of monitoring procedures, is allowed by these regulations.
 
-(g) *Identification of dogs and cats.* (1) All live dogs or cats, including those from any exempt source, delivered for transportation, transported, purchased or otherwise acquired. sold, or disposed of by a research facility, shall be identified at the time of such delivery for transportation, purchase, sale, disposal, or acquisition in one of the following ways:
+(g) *Identification of dogs and cats.* (1) All live dogs or cats, including those from any exempt source, delivered for transportation, transported, purchased or otherwise acquired, sold, or disposed of by a research facility, shall be identified at the time of such delivery for transportation, purchase, sale, disposal, or acquisition in one of the following ways:
 
 (i) By the official tag or tattoo which was affixed to the animal at the time it was acquired by the research facility, as required by this section; or
 
@@ -62,7 +60,7 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (7) Research facilities may obtain, at their own expense, official tags from commercial tag manufacturers.1 At the time the research facility is registered, the Department will assign identification letters and numbers to be used on the official tags.
 
-1 A list of the commercial manufacturers who produce these tags and are known to the Department may be obtained from the AC Regional Director. Any manufacturer who desires to be included in the list should notify the Administrator.
+1 A list of the commercial manufacturers who produce these tags and are known to the Department may be obtained from the Deputy Administrator. Any manufacturer who desires to be included in the list should notify the Administrator.
 
 (8) Each research facility shall be held accountable for all official tags acquired. In the event an official tag is lost from a dog or cat while in the possession of a research facility, the facility shall make a diligent effort to locate and reapply the tag to the proper animal. If the lost tag is not located, the research facility shall affix another official tag to the animal in the manner prescribed in this section and record the tag number on the official records.
 
@@ -84,7 +82,7 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (3) The U.S. Interstate and International Certificate of Health Examination for Small Animals (APHIS Form 7001) may be used for health certification by a licensed veterinarian as required by this section.
 
-(i) *Holding of animals.* If any research facility obtains prior approval of the AC Regional Director, it may arrange to have another person hold animals: *Provided,* That:
+(i) *Holding of animals.* If any research facility obtains prior approval of the Deputy Administrator, it may arrange to have another person hold animals: *Provided,* That:
 
 (1) The other person agrees, in writing, to comply with the regulations in this part and the standards in part 3 of this subchapter, and to allow inspection of the premises by an APHIS official during business hours;
 
@@ -118,4 +116,4 @@ Link to an amendment published at 85 FR 28797, May 13, 2020.
 
 (3) The facility must provide and document participation in and successful completion of training for its personnel regarding their roles and responsibilities as outlined in the plan. For current registrants, training of facility personnel must be completed by September 27, 2013; for research facilities registered after July 29, 2013, training of facility personnel must be completed within 60 days of the facility putting its contingency plan in place. Employees hired 30 days or more before the contingency plan is put in place must also be trained by that date. For employees hired less than 30 days before that date or after that date, training must be conducted within 30 days of their start date. Any changes to the plan as a result of the annual review must be communicated to employees through training which must be conducted within 30 days of making the changes.
 
-[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 59 FR 67612, Dec. 30, 1994; 60 FR 13895, Mar. 15, 1995; 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 77 FR 76823, Dec. 31, 2012]Effective Date Note:At 78 FR 46255, July 31, 2013, in § 2.38, paragraph (l) was stayed indefinitely, effective July 31, 2013.
+[54 FR 36147, Aug. 31, 1989, as amended at 58 FR 39129, July 22, 1993; 59 FR 67612, Dec. 30, 1994; 60 FR 13895, Mar. 15, 1995; 63 FR 62926, Nov. 10, 1998; 69 FR 42101, July 14, 2004; 77 FR 76823, Dec. 31, 2012; 85 FR 28797, May 13, 2020]Effective Date Note:At 78 FR 46255, July 31, 2013, in § 2.38, paragraph (l) was stayed indefinitely, effective July 31, 2013.

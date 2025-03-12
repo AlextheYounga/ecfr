@@ -1,7 +1,5 @@
 ##### § 97.305 Authorized emission types. #####
 
-Link to an amendment published at 85 FR 64069, Oct. 9, 2020.
-
 (a) Except as specified elsewhere in this part, an amateur station may transmit a CW emission on any frequency authorized to the control operator.
 
 (b) A station may transmit a test emission on any frequency authorized to the control operator for brief periods for experimental purposes, except that no pulse modulation emission may be transmitted on any frequency where pulse is not specifically authorized and no SS modulation emission may be transmitted on any frequency where SS is not specifically authorized.
@@ -51,7 +49,6 @@ Link to an amendment published at 85 FR 64069, Oct. 9, 2020.
 |     23 cm     |               Entire band               |   MCW, phone, image, RTTY, data, SS, test    |         (7), (8), and (12).         |
 |     13 cm     |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 |     SHF:      |                                         |                                              |                                     |
-|     9 cm      |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 |     5 cm      |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 |     3 cm      |               Entire band               |   MCW, phone, image, RTTY, data, SS, test    |         (7), (8), and (12).         |
 |    1.2 cm     |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
@@ -63,4 +60,4 @@ Link to an amendment published at 85 FR 64069, Oct. 9, 2020.
 |      1mm      |               Entire band               |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 |               |              Above 275 GHz              |MCW, phone, image, RTTY, data, SS, test, pulse|         (7), (8), and (12).         |
 
-[54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012; 82 FR 27215, June 14, 2017]
+[54 FR 25857, June 20, 1989; 54 FR 39536, Sept. 27, 1989; 55 FR 22013, May 30, 1990, as amended at 55 FR 30457, July 26, 1990; 60 FR 15688, Mar. 27, 1995; 64 FR 51471, Sept. 23, 1999; 71 FR 66465, Nov. 15, 2006; 75 FR 27204, May 14, 2010; 77 FR 5412, Feb. 3, 2012; 82 FR 27215, June 14, 2017; 85 FR 64069, Oct. 9, 2020]

@@ -1,7 +1,5 @@
 ##### § 17.41 Special rules - birds. #####
 
-Link to an amendment published at 85 FR 63802, Oct. 8, 2020.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*). (1) *Which populations of the streaked horned lark are covered by this special rule?* The components of this special rule that apply to airport management and noxious weed control cover the rangewide distribution of this bird; the agricultural component applies only to the Willamette Valley in Oregon.
 
 (2) *What activities are prohibited?* Except as noted in paragraphs (a)(3), (4), and (5) of this section, all prohibitions of § 17.31 apply to the streaked horned lark.
@@ -162,4 +160,54 @@ Link to an amendment published at 85 FR 63802, Oct. 8, 2020.
 
 (iii) Reforestation and forested habitat enhancement projects within secondary forests (*i.e.,* young and mature) that promote the establishment or improvement of habitat conditions for the species by the planting of native trees, selective removal of native and exotic trees, seasonal pruning of native and exotic trees, or a combination of these.
 
-[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020]
+(f) Eastern black rail (*Laterallus jamaicensis jamaicensis*).
+
+(1) *Prohibitions.* The following activities with the eastern black rail are prohibited:
+
+(i) Purposeful take, including capture, handling, or other activities.
+
+(ii) Incidental take resulting from the following activities:
+
+(A) Prescribed burn activities, unless best management practices that minimize negative effects of the prescribed burn on the eastern black rail are employed. Best management practices include:
+
+(*1*) Regardless of the size of the area under management with prescribed fire, a broad range of habitat conditions should be maintained by burning on a rotational basis, which supports black rail population maintenance and growth. In any given calendar year, at least 50 percent of the eastern black rail habitat within the management boundary should be maintained in order to provide the dense overhead cover required by the subspecies. Management boundaries can include individual landholdings, e.g., a National Wildlife Refuge boundary, or be formed through landscape-level agreements across landholdings of different but contiguous ownerships. This percentage does not apply to landholdings smaller than 640 acres.
+
+(*2*) Where eastern black rail are present, the application of prescribed fire uses tactics that provide unburned refugia allowing birds to survive a fire (e.g., using short flanking, backing fires, or similar approaches). Prescribed fire is applied under fuel and weather conditions (e.g., soil moisture and/or relative humidity) that are most likely to result in patchy persistence of unburned habitat to serve as refugia from fire and predators.
+
+(*3*) Ignition tactics, rates of spread, and flame lengths should allow for wildlife escape routes to avoid trapping birds in a fire. The application of prescribed fire should avoid fires, such as ring and strip head fires, that have long, unbroken boundaries and/or that come together in a short period of time and that consume essentially all vegetation and prevent black rails from escaping a fire. If aerial ignition is the chosen tool, ignitions should be conducted in such a way that large, fast-moving fires are avoided.
+
+(B) Mowing, haying, and other mechanical treatment activities in persistent emergent wetlands when the activity occurs during the nesting or brooding periods, except in accordance with paragraph (f)(2)(iii) of this section.
+
+(C) Grazing activities on public lands that occur on eastern black rail habitat and, that individually or cumulatively with other land management practices, do not maintain at least 50 percent of eastern black rail habitat, *i.e.,* dense overhead cover, in any given calendar year within a management boundary.
+
+(D) Long-term or permanent damage, fragmentation, or conversion of persistent emergent wetlands and the contiguous wetland-upland transition zone to other habitat types (such as open water) or land uses that do not support eastern black rail.
+
+(iii) Possession and other acts with unlawfully taken eastern black rails. It is unlawful to possess, sell, deliver, carry, transport, or ship, by any means whatsoever, any eastern black rail that was taken in violation of section 9(a)(1)(B) and (C) of the Act or State laws.
+
+(iv) Import or export, as set forth at § 17.21(b) for endangered wildlife.
+
+(v) Possess and conduct other acts with unlawfully taken specimens, as set forth at § 17.21(d)(1) for endangered wildlife.
+
+(vi) Engage in interstate or foreign commerce in the course of commercial activity, as set forth at § 17.21(e) for endangered wildlife.
+
+(vii) Sell or offer for sale, as set forth at § 17.21(f) for endangered wildlife.
+
+(2) *Exceptions from prohibitions.*
+
+(i) All of the provisions of § 17.32 apply to the eastern black rail.
+
+(ii) Any employee or agent of the Service, of the National Marine Fisheries Service, or of a State conservation agency that is operating a conservation program for the eastern black rail pursuant to the terms of a cooperative agreement with the Service in accordance with section 6(c) of the Act, who is designated by his agency for such purposes, may, when acting in the course of his official duties, take eastern black rails.
+
+(iii) Incidental take resulting from haying, mowing, or other mechanical treatment activities in persistent emergent wetlands that occur during the nesting and brooding periods is allowed if those activities:
+
+(A) Are maintenance requirements to ensure safety and operational needs, including maintaining existing infrastructure such as firebreaks, roads, rights-of-way, levees, dikes, fence lines, airfields, and surface water irrigation infrastructure (e.g., head gates, ditches, canals, water control structures, and culverts); or
+
+(B) Occur during the control of woody encroachment and other invasive plant species to restore degraded habitat.
+
+(iv) Incidental take resulting from actions taken to control wildfires is allowed.
+
+(v) Incidental take resulting from the establishment of new firebreaks (for example, to protect wildlands or manmade infrastructure) and new fence lines is allowed.
+
+(vi) Incidental take resulting from prescribed burns, grazing, and mowing or other mechanical treatment activities in existing moist soil management units or prior converted croplands (e.g., impoundments for rice or other cereal grain production) is allowed.
+
+[43 FR 6233, Feb. 14, 1978, as amended at 58 FR 65095, Dec. 10, 1993; 60 FR 36010, July 12, 1995; 72 FR 37372, July 9, 2007; 73 FR 23970, May 1, 2008; 76 FR 30780, May 26, 2011; 76 FR 54713, Sept. 2, 2011; 78 FR 15641, Mar. 12, 2013; 78 FR 61502, Oct. 3, 2013; 79 FR 20084, Apr. 10, 2014; 79 FR 35900, June 24, 2014; 81 FR 47048, July 20, 2016; 81 FR 40547, June 22, 2016; 83 FR 39916, Aug. 13, 2018; 84 FR 6311, Feb. 26, 2019; 84 FR 69946, Dec. 19, 2019; 85 FR 22663, Apr. 23, 2020; 85 FR 63830, Oct. 8, 2020]

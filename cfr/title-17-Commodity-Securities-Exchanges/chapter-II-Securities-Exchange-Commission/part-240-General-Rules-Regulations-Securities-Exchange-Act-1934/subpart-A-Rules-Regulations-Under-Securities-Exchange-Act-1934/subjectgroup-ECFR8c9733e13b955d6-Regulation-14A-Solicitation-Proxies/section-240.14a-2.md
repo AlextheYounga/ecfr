@@ -136,7 +136,7 @@ The exemption provided in paragraph (b)(8) of this section shall not apply to a 
 
 Note 1 to paragraph (b)(9)(ii):
 
-For purposes of satisfying the requirement in paragraph (b)(9)(ii)(A) of this section, the proxy voting advice business's written policies and procedures need not require it to make available to the registrant additional versions of its proxy voting advice with respect to the same meeting, vote, consent or authorization, as applicable, if the advice is subsequently revised.
+For purposes of satisfying the requirement in paragraph (b)(9)(ii)(A) of this section, the proxy voting advice business's written policies and procedures need not r\>equire it to make available to the registrant additional versions of its proxy voting advice with respect to the same meeting, vote, consent or authorization, as applicable, if the advice is subsequently revised.
 
 (iii) A proxy voting advice business will be deemed to satisfy the requirement in paragraph (b)(9)(ii)(A) of this section if it has written policies and procedures that are reasonably designed to provide a registrant with a copy of its proxy voting advice, at no charge, no later than the time such advice is disseminated to the proxy voting advice business's clients. Such policies and procedures may include conditions requiring that:
 

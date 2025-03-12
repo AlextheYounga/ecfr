@@ -1,7 +1,5 @@
 ##### § 1.460 Definitions. #####
 
-Link to an amendment published at 85 FR 64043, Oct. 9, 2020.
-
 For purposes of §§ 1.460 through 1.499 of this part, the following definitions apply:
 
 *Agreement.* The term “agreement” means a document that a VA health care facility develops in collaboration with an Organ Procurement Organization, eye bank or tissue bank with written, detailed responsibilities and obligations of the parties with regard to identifying potential donors and facilitating the donation process.
@@ -21,6 +19,10 @@ For purposes of §§ 1.460 through 1.499 of this part, the following definitions
 *Drug abuse.* The term “drug abuse” means the use of a psychoactive substance for other than medicinal purposes which impairs the physical, mental, emotional, or social well-being of the user.
 
 *Eye bank and tissue bank.* The term “eye bank and tissue bank” means an “establishment” as defined in 21 CFR 1271.3, pursuant to section 361 of the Public Health Service Act (42 U.S.C. 264) that has a valid, current registration with the Federal Food and Drug Administration (FDA) as required under 21 CFR part 1271.
+
+*Health care.* The term “health care” has the same meaning as provided in 45 CFR 160.103.
+
+*Health care-related activities or functions.* The term “health care-related activities or functions” means the actions required for the delivery of health care, including hospital care, medical services, and extended care services. Health care-related activities or functions includes: Treatment as defined by 45 CFR 164.501; activities related to reimbursement for care and treatment by a health care provider; activities related to participation in health information exchanges for the delivery of health care; health care operations as defined by 45 CFR 164.501; and activities related to a patient's exercise of privacy rights regarding health information.
 
 *Individual.* The term “individual” means a veteran, as defined in 38 U.S.C. 101(2), or a dependent of a veteran, as defined in 38 U.S.C. 101(3) and (4)(A).
 
@@ -72,4 +74,4 @@ For purposes of §§ 1.460 through 1.499 of this part, the following definitions
 
 *VHA health care facilty.* The term “VHA health care facility” means a VA medical center, VA emergency room, VA nursing home or other facility as defined in 38 U.S.C. 1701(3).
 
-(Authority: 38 U.S.C. 7332, 7334)[60 FR 63929, Dec. 13, 1995, as amended at 72 FR 48241, Aug. 23, 2007; 73 FR 65260, Nov. 3, 2008; 76 FR 6696, Feb. 8, 2011; 82 FR 14822, Mar. 23, 2017]
+[60 FR 63929, Dec. 13, 1995, as amended at 72 FR 48241, Aug. 23, 2007; 73 FR 65260, Nov. 3, 2008; 76 FR 6696, Feb. 8, 2011; 82 FR 14822, Mar. 23, 2017; 85 FR 64043, Oct. 9, 2020]

@@ -1,7 +1,5 @@
 ##### § 2.132 Procurement of dogs, cats, and other animals; dealers. #####
 
-Link to an amendment published at 85 FR 28798, May 13, 2020.
-
 (a) A class “B” dealer may obtain live random source dogs and cats only from:
 
 (1) Other dealers who are licensed under the Act and in accordance with the regulations in part 2;
@@ -30,4 +28,4 @@ Link to an amendment published at 85 FR 28798, May 13, 2020.
 
 (d) No dealer or exhibitor shall knowingly obtain any dog, cat, or other animal from any person who is required to be licensed but who does not hold a current, valid, and unsuspended license. No dealer or exhibitor shall knowingly obtain any dog or cat from any person who is not licensed, other than a pound or shelter, without obtaining a certification that the animals were born and raised on that person's premises and, if the animals are for research purposes, that the person has sold fewer than 25 dogs and/or cats that year, or, if the animals are for use as pets, that the person does not maintain more than four breeding female dogs and/or cats.
 
-(Approved by the Office of Management and Budget under control number 0579-0254)[54 FR 36147, Aug. 31, 1989, as amended at 69 FR 42102, July 14, 2004; 80 FR 3463, Jan. 23, 2015]
+(Approved by the Office of Management and Budget under control number 0579-0036)[54 FR 36147, Aug. 31, 1989, as amended at 69 FR 42102, July 14, 2004; 80 FR 3463, Jan. 23, 2015; 85 FR 28798, May 13, 2020]

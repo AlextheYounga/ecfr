@@ -100,8 +100,8 @@ Loan Mix Index Categories and Weighted Charge-Off Rate Percentages
 |      Other Consumer      |                     1.4559717                      |
 |Real Estate Loans Residual|                     1.0169338                      |
 | Multifamily Residential  |                     0.8847597                      |
-|  Nonfarm Nonresidential  |                     0.7289274                      |
-|  I-4 Family Residential  |                     0.6973778                      |
+|  Nonfarm Nonresidential  |                     0.7286274                      |
+|  1-4 Family Residential  |                     0.6973778                      |
 |Loans to Depository Banks |                     0.5760532                      |
 | Agricultural Real Estate |                     0.2376712                      |
 |       Agriculture        |                     0.2432737                      |
@@ -443,4 +443,4 @@ Cutoff Values for Loss Severity Measure
 
 (h) *Assessment rates for bridge depository institutions and conservatorships.* Institutions that are bridge depository institutions under 12 U.S.C. 1821(n) and institutions for which the Corporation has been appointed or serves as conservator shall, in all cases, be assessed at the minimum initial base assessment rate applicable to established small institutions, which shall not be subject to adjustment under paragraph (b)(3) or (e)(1), (2), or (3) of this section.
 
-[81 FR 32207, May 20, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019; 84 FR 4249, Feb. 14, 2019; 85 FR 38292, June 26, 2020]
+[81 FR 32207, May 20, 2016, as amended at 83 FR 14568, Apr. 5, 2018; 84 FR 1353, Feb. 4, 2019; 84 FR 4249, Feb. 14, 2019; 85 FR 38292, June 26, 2020; 85 FR 71228, Nov. 9, 2020]
