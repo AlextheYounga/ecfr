@@ -4,7 +4,7 @@
 
 (1) The benefit year has not ended, and
 
-(2) The individual still has unused benefit rights based on such benefit year.1/\>
+(2) The individual still has unused benefit rights based on such benefit year.1
 
 1 The Federal-State Extended Unemployment Compensation Act of 1970, title II, Public Law 91-373, section 202(a)(1), limits the payment of extended benefits with respect to any week to individuals who have no rights to regular compensation with respect to such week under any State unemployment compensation law or to compensation under any other Federal law and in certain other instances. This provision precludes any individual from receiving any Federal-State extended benefits with respect to any week for which the individual is eligible to receive regular benefits based on a Combined Wage Claim. (See section 5752, part V of the Employment Security Manual.)
 

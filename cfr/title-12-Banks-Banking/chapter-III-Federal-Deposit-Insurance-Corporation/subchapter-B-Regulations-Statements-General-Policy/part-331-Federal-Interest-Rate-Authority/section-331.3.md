@@ -1,0 +1,3 @@
+##### § 331.3 Application of host State law. #####
+
+The laws of a host State shall apply to any branch in the host State of an out-of-State State bank to the same extent as such State laws apply to a branch in the host State of an out-of-State national bank. To the extent host State law is inapplicable to a branch of an out-of-State State bank in such host State pursuant to the preceding sentence, home State law shall apply to such branch.

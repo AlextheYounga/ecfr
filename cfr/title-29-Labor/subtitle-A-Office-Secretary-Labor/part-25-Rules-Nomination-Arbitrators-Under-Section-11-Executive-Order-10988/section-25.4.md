@@ -1,6 +1,6 @@
 ##### § 25.4 Contents of requests; service on other parties; answer; intervention. #####
 
-(a) Requests for nominations1/\> shall be in triplicate and contain the following information:
+(a) Requests for nominations1 shall be in triplicate and contain the following information:
 
 1 Requests should be on forms which will be supplied by the Secretary upon request.
 

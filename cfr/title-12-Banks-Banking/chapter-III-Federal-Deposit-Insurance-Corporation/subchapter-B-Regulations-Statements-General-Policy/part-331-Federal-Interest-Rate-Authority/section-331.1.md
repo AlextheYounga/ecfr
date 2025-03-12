@@ -1,0 +1,7 @@
+##### § 331.1 Authority, purpose, and scope. #####
+
+(a) *Authority.* The regulations in this part are issued by the Federal Deposit Insurance Corporation (FDIC) under sections 9(a)(Tenth) and 10(g) of the Federal Deposit Insurance Act (FDI Act), 12 U.S.C. 1819(a)(Tenth), 1820(g), to implement sections 24(j) and 27 of the FDI Act, 12 U.S.C. 1831a(j), 1831d, and related provisions of the Depository Institutions Deregulation and Monetary Control Act of 1980, Public Law 96-221, 94 Stat. 132 (1980).
+
+(b) *Purpose.* Section 24(j) of the FDI Act, as amended by the Riegle-Neal Amendments Act of 1997, Public Law 105-24, 111 Stat. 238 (1997), was enacted to maintain parity between State banks and national banks regarding the application of a host State's laws to branches of out-of-State banks. Section 27 of the FDI Act was enacted to provide State banks with interest rate authority similar to that provided to national banks under the National Bank Act, 12 U.S.C. 85. The regulations in this part clarify that State-chartered banks and insured branches of foreign banks have regulatory authority in these areas parallel to the authority of national banks under regulations issued by the Office of the Comptroller of the Currency, and address other issues the FDIC considers appropriate to implement these statutes.
+
+(c) *Scope.* The regulations in this part apply to State-chartered banks and insured branches of foreign banks.

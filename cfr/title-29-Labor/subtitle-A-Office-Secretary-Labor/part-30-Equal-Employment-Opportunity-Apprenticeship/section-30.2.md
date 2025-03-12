@@ -26,7 +26,7 @@ For the purpose of this part:
 
 (4) The imminence of the potential harm.
 
-*Disability*1/\> means, with respect to an individual:
+*Disability*1 means, with respect to an individual:
 
 1 The definitions for the term “disability” and other terms relevant to defining disability and disability discrimination standards, including “direct threat”, “major life activities”, “physical or mental impairment”, “qualified applicant or apprentice”, “reasonable accommodation”, and “undue hardship, are taken directly from title I of the Americans with Disabilities Act (ADA), as amended, and from the Equal Employment Opportunity Commission's regulations implementing the ADA at 29 CFR part 1630, to the extent that the ADA, as amended, did not provide a definition.
 
@@ -44,13 +44,13 @@ For the purpose of this part:
 
 *Ethnicity,* for purposes of recordkeeping and affirmative action, has the same meaning as under the Office of Management and Budget's Standards for the Classification of Federal Data on Race and Ethnicity, or any successor standards. Ethnicity thus refers to the following designations:
 
-(1) Hispanic or Latino - A person of Cuban, Mexican, Puerto Rican, Cuban, South or Central American, or other Spanish culture or origin, regardless of race.
+(1) Hispanic or Latino—A person of Cuban, Mexican, Puerto Rican, Cuban, South or Central American, or other Spanish culture or origin, regardless of race.
 
 (2) Not Hispanic or Latino
 
 *Genetic information* means:
 
-(1) Information about -
+(1) Information about—
 
 (i) An individual's genetic tests;
 
@@ -62,7 +62,7 @@ For the purpose of this part:
 
 (v) The genetic information of a fetus carried by an individual or by a pregnant woman who is a family member of the individual and the genetic information of any embryo legally held by the individual or family member using an assisted reproductive technology.
 
-(2) Genetic information does not include information about the sex or age of the individual, the sex or age of family members, or information about the race or ethnicity of the individual or family members that is not derived from a genetic test.2/\>
+(2) Genetic information does not include information about the sex or age of the individual, the sex or age of family members, or information about the race or ethnicity of the individual or family members that is not derived from a genetic test.2
 
 2 The definition of the term “genetic information” is taken directly from the Genetic Information Nondiscrimination Act of 2008 (GINA) at 42 U.S.C. 2000ff(4) and the EEOC's implementing regulations at 29 CFR 1635.3(c).
 
@@ -84,17 +84,17 @@ For the purpose of this part:
 
 *Race,* for purposes of recordkeeping and affirmative action, has the same meaning as under the Office of Management and Budget's Standards for the Classification of Federal Data on Race and Ethnicity, or any successor standards. Race thus refers to the following designations:
 
-(1) White - A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
+(1) White—A person having origins in any of the original peoples of Europe, the Middle East, or North Africa.
 
-(2) Black or African American - A person having origins in any of the black racial groups of Africa.
+(2) Black or African American—A person having origins in any of the black racial groups of Africa.
 
-(3) Native Hawaiian or Other Pacific Islander - A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
+(3) Native Hawaiian or Other Pacific Islander—A person having origins in any of the peoples of Hawaii, Guam, Samoa, or other Pacific Islands.
 
-(4) Asian - A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
+(4) Asian—A person having origins in any of the original peoples of the Far East, Southeast Asia, or the Indian Subcontinent including, for example, Cambodia, China, India, Japan, Korea, Malaysia, Pakistan, the Philippine Islands, Thailand, and Vietnam.
 
-(5) American Indian or Alaska Native - A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment.
+(5) American Indian or Alaska Native—A person having origins in any of the original peoples of North and South America (including Central America), and who maintains tribal affiliation or community attachment.
 
-*Reasonable accommodation* - (1) The term *reasonable accommodation* means:
+*Reasonable accommodation*—(1) The term *reasonable accommodation* means:
 
 (i) Modifications or adjustments to a job application process that enable a qualified applicant with a disability to be considered for the position such qualified applicant desires; or
 
@@ -118,7 +118,7 @@ For the purpose of this part:
 
 *State Apprenticeship Agency* (SAA) means an agency of a State government that has responsibility and accountability for apprenticeship within the State. Only an SAA may seek recognition from OA as an agency which has been properly constituted under an acceptable law or Executive Order (E.O.), and authorized by OA to register and oversee apprenticeship programs and agreements for Federal purposes.
 
-*Undue hardship* - (1) *In general.* Undue hardship means, with respect to the provision of an accommodation, significant difficulty or expense incurred by a sponsor, when considered in light of the factors set forth in paragraph (b) of this definition.
+*Undue hardship*—(1) *In general.* Undue hardship means, with respect to the provision of an accommodation, significant difficulty or expense incurred by a sponsor, when considered in light of the factors set forth in paragraph (b) of this definition.
 
 (2) *Factors to be considered.* In determining whether an accommodation would impose an undue hardship on a sponsor, factors to be considered include:
 
