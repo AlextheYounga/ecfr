@@ -1,7 +1,5 @@
 ##### § 301.92-1 Definitions. #####
 
-Link to an amendment published at 84 FR 16192, Apr. 18, 2019.
-
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.
 
 *Animal and Plant Health Inspection Service.* The Animal and Plant Health Inspection Service (APHIS) of the United States Department of Agriculture.
@@ -54,12 +52,14 @@ Link to an amendment published at 84 FR 16192, Apr. 18, 2019.
 
 *Quarantined area.* Any State, or any portion of a State, listed in § 301.92-3(a)(3) of this subpart or otherwise designated as a quarantined area in accordance with § 301.92-3(a)(2) of this subpart.
 
-*Regulated area.* Any area listed in § 301.92-3(b) of this subpart.
-
 *Regulated article.* Any article listed in § 301.92-2(b) of this subpart.
 
 *Restricted article.* Any article listed in § 301.92-2(a) of this subpart.
 
+*Regulated establishment.* Any nursery regulated by APHIS pursuant to § 301.92-3(b).
+
 *Soil.* The loose surface material of the earth in which plants grow, in most cases consisting of disintegrated rock with an admixture of organic material.
 
 *State.* The District of Columbia, Puerto Rico, the Northern Mariana Islands, or any State, territory, or possession of the United States.
+
+[72 FR 8597, Feb. 27, 2007, as amended at 84 FR 16192, Apr. 18, 2019]

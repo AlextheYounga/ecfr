@@ -1,7 +1,5 @@
 ##### § 1.1411 Timeline for access to utility poles. #####
 
-Link to an amendment published at 84 FR 16412, April 19, 2019.
-
 (a) *Definitions.*
 
 (1) The term “attachment” means any attachment by a cable television system or provider of telecommunications service to a pole owned or controlled by a utility.
@@ -12,7 +10,7 @@ Link to an amendment published at 84 FR 16412, April 19, 2019.
 
 (b) All time limits in this subsection are to be calculated according to § 1.4.
 
-(c) *Application review and survey* - (1) *Application completeness.* A utility shall review a new attacher's attachment application for completeness before reviewing the application on its merits. A new attacher's attachment application is considered complete if it provides the utility with the information necessary under its procedures, as specified in a master service agreement or in requirements that are available in writing publicly at the time of submission of the application, to begin to survey the affected poles.
+(c) *Application review and survey*—(1) *Application completeness.* A utility shall review a new attacher's attachment application for completeness before reviewing the application on its merits. A new attacher's attachment application is considered complete if it provides the utility with the information necessary under its procedures, as specified in a master service agreement or in requirements that are available in writing publicly at the time of submission of the application, to begin to survey the affected poles.
 
 (i) A utility shall determine within 10 business days after receipt of a new attacher's attachment application whether the application is complete and notify the attacher of that decision. If the utility does not respond within 10 business days after receipt of the application, or if the utility rejects the application as incomplete but fails to specify any reasons in its response, then the application is deemed complete. If the utility timely notifies the new attacher that its attachment application is not complete, then it must specify all reasons for finding it incomplete.
 
@@ -86,7 +84,7 @@ Link to an amendment published at 84 FR 16412, April 19, 2019.
 
 (3) An existing attacher may deviate from the time limits specified in this section during performance of complex make-ready for reasons of safety or service interruption that renders it infeasible for the existing attacher to complete complex make-ready within the time limits specified in this section. An existing attacher that so deviates shall immediately notify, in writing, the new attacher and other affected existing attachers and shall identify the affected poles and include a detailed explanation of the basis for the deviation and a new completion date, which in no event shall extend beyond 60 days from the date the notice described in paragraph (e)(1) of this section is sent by the utility (or up to 105 days in the case of larger orders described in paragraph (g) of this section). The existing attacher shall deviate from the time limits specified in this section for a period no longer than necessary to complete make-ready on the affected poles.
 
-(i) *Self-help remedy* - (1) *Surveys.* If a utility fails to complete a survey as specified in paragraph (c)(3)(i) of this section, then a new attacher may conduct the survey in place of the utility and, as specified in § 1.1412, hire a contractor to complete a survey.
+(i) *Self-help remedy*—(1) *Surveys.* If a utility fails to complete a survey as specified in paragraph (c)(3)(i) of this section, then a new attacher may conduct the survey in place of the utility and, as specified in § 1.1412, hire a contractor to complete a survey.
 
 (i) A new attacher shall permit the affected utility and existing attachers to be present for any field inspection conducted as part of the new attacher's survey.
 
@@ -126,7 +124,7 @@ Link to an amendment published at 84 FR 16412, April 19, 2019.
 
 (i) The new attacher shall permit the utility and any existing attachers on the affected poles to be present for any field inspection conducted as part of the new attacher's surveys. The new attacher shall use commercially reasonable efforts to provide the utility and affected existing attachers with advance notice of not less than 3 business days of a field inspection as part of any survey and shall provide the date, time, and location of the surveys, and name of the contractor performing the surveys.
 
-(ii) [Reserved].
+(ii) [Reserved]
 
 (4) *Make-ready.* If the new attacher's attachment application is approved and if it has provided 15 days prior written notice of the make-ready to the affected utility and existing attachers, the new attacher may proceed with make-ready using a contractor in the manner specified for simple make-ready in § 1.1412(b).
 
@@ -142,4 +140,4 @@ Link to an amendment published at 84 FR 16412, April 19, 2019.
 
 (5) *Post-make-ready timeline.* A new attacher shall notify the affected utility and existing attachers within 15 days after completion of make-ready on a particular pole. The notice shall provide the affected utility and existing attachers at least 90 days from receipt in which to inspect the make-ready. The affected utility and existing attachers have 14 days after completion of their inspection to notify the new attacher of any damage or code violations caused by make-ready conducted by the new attacher on their equipment. If the utility or an existing attacher notifies the new attacher of such damage or code violations, then the utility or existing attacher shall provide adequate documentation of the damage or the code violations. The utility or existing attacher may either complete any necessary remedial work and bill the new attacher for the reasonable costs related to fixing the damage or code violations or require the new attacher to fix the damage or code violations at its expense within 14 days following notice from the utility or existing attacher.
 
-[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44841, Sept. 4, 2018; 83 FR 46836, Sept. 14, 2018]Effective Date Note:At 83 FR 46836, Sept. 14, 2018, § 1.1411 was amended by revising paragraphs (a), (c), (d) introductory text, and (d)(2); adding paragraphs (d)(3) and (4); revising paragraphs (e)(1) and (2); adding paragraph (e)(3); revising paragraphs (f), (g)(1), (g)(4) and (5), (h), and (i); and adding paragraph (j). Paragraphs (c)(1) and (3), (d) introductory text, (d)(3), (e)(3), (h)(2) and (3), (i)(1) and (2), and (j) (1) through (5) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44841, Sept. 4, 2018; 83 FR 46836, Sept. 14, 2018]

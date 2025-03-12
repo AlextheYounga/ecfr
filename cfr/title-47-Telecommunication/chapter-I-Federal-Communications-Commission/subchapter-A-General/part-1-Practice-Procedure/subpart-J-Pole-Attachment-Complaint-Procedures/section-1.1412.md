@@ -1,7 +1,5 @@
 ##### § 1.1412 Contractors for survey and make-ready. #####
 
-Link to an amendment published at 84 FR 16412, April 19, 2019.
-
 (a) *Contractors for self-help complex and above the communications space make-ready.* A utility shall make available and keep up-to-date a reasonably sufficient list of contractors it authorizes to perform self-help surveys and make-ready that is complex and self-help surveys and make-ready that is above the communications space on its poles. The new attacher must use a contractor from this list to perform self-help work that is complex or above the communications space. New and existing attachers may request the addition to the list of any contractor that meets the minimum qualifications in paragraphs (c)(1) through (5) of this section and the utility may not unreasonably withhold its consent.
 
 (b) *Contractors for simple work.* A utility may, but is not required to, keep up-to-date a reasonably sufficient list of contractors it authorizes to perform surveys and simple make-ready. If a utility provides such a list, then the new attacher must choose a contractor from the list to perform the work. New and existing attachers may request the addition to the list of any contractor that meets the minimum qualifications in paragraphs (c)(1) through (5) of this section and the utility may not unreasonably withhold its consent.
@@ -24,4 +22,4 @@ Link to an amendment published at 84 FR 16412, April 19, 2019.
 
 (d) The consulting representative of an electric utility may make final determinations, on a nondiscriminatory basis, where there is insufficient capacity and for reasons of safety, reliability, and generally applicable engineering purposes.
 
-[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44842, Sept. 4, 2018; 83 FR 46839, Sept. 14, 2018]Effective Date Note:At 83 FR 46839, Sept. 14, 2018, § 1.1412 was amended by revising paragraphs (a), (b), and (c). Paragraphs (a) and (b) contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 26640, May 9, 2011. Redesignated and amended at 83 FR 44842, Sept. 4, 2018; 83 FR 46839, Sept. 14, 2018]
