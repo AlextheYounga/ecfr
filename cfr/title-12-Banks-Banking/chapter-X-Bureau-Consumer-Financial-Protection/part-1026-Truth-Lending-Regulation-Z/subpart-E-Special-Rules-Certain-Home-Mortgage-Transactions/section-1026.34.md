@@ -1,6 +1,6 @@
 ##### § 1026.34 Prohibited acts or practices in connection with high-cost mortgages. #####
 
-(a) *Prohibited acts or practices for high-cost mortgages* - (1) *Home improvement contracts.* A creditor shall not pay a contractor under a home improvement contract from the proceeds of a high-cost mortgage, other than:
+(a) *Prohibited acts or practices for high-cost mortgages*—(1) *Home improvement contracts.* A creditor shall not pay a contractor under a home improvement contract from the proceeds of a high-cost mortgage, other than:
 
 (i) By an instrument payable to the consumer or jointly to the consumer and the contractor; or
 
@@ -36,7 +36,7 @@
 
 (iv) *Exclusions from presumption of compliance.* Notwithstanding the previous paragraph, no presumption of compliance is available for an open-end, high-cost mortgage transaction for which the regular periodic payments when aggregated do not fully amortize the outstanding principal balance except as otherwise provided by § 1026.32(d)(1)(ii).
 
-(5) *Pre-loan counseling.* (i) *Certification of counseling required.* A creditor shall not extend a high-cost mortgage to a consumer unless the creditor receives written certification that the consumer has obtained counseling on the advisability of the mortgage from a counselor that is approved to provide such counseling by the Secretary of the U.S. Department of Housing and Urban Development or, if permitted by the Secretary, by a State housing finance authority.
+(5) *Pre-loan counseling*—(i) *Certification of counseling required.* A creditor shall not extend a high-cost mortgage to a consumer unless the creditor receives written certification that the consumer has obtained counseling on the advisability of the mortgage from a counselor that is approved to provide such counseling by the Secretary of the U.S. Department of Housing and Urban Development or, if permitted by the Secretary, by a State housing finance authority.
 
 (ii) *Timing of counseling.* The counseling required under this paragraph (a)(5) must occur after:
 
@@ -68,7 +68,7 @@
 
 (7) *Modification and deferral fees.* A creditor, successor-in-interest, assignee, or any agent of such parties may not charge a consumer any fee to modify, renew, extend or amend a high-cost mortgage, or to defer any payment due under the terms of such mortgage.
 
-(8) *Late fees.* (i) *General.* Any late payment charge imposed in connection with a high-cost mortgage must be specifically permitted by the terms of the loan contract or open-end credit agreement and may not exceed 4 percent of the amount of the payment past due. No such charge may be imposed more than once for a single late payment.
+(8) *Late fees*—(i) *General.* Any late payment charge imposed in connection with a high-cost mortgage must be specifically permitted by the terms of the loan contract or open-end credit agreement and may not exceed 4 percent of the amount of the payment past due. No such charge may be imposed more than once for a single late payment.
 
 (ii) *Timing.* A late payment charge may be imposed in connection with a high-cost mortgage only if the payment is not received by the end of the 15-day period beginning on the date the payment is due or, in the case of a high-cost mortgage on which interest on each installment is paid in advance, the end of the 30-day period beginning on the date the payment is due.
 
@@ -76,7 +76,7 @@
 
 (iv) *Failure to make required payment.* The terms of a high-cost mortgage agreement may provide that any payment shall first be applied to any past due balance. If the consumer fails to make a timely payment by the due date and subsequently resumes making payments but has not paid all past due payments, the creditor may impose a separate late payment charge for any payment(s) outstanding (without deduction due to late fees or related fees) until the default is cured.
 
-(9) *Payoff statements* - (i) *Fee prohibition.* In general, a creditor or servicer (as defined in 12 CFR 1024.2(b)) may not charge a fee for providing to a consumer, or a person authorized by the consumer to obtain such information, a statement of the amount due to pay off the outstanding balance of a high-cost mortgage.
+(9) *Payoff statements*—(i) *Fee prohibition.* In general, a creditor or servicer (as defined in 12 CFR 1024.2(b)) may not charge a fee for providing to a consumer, or a person authorized by the consumer to obtain such information, a statement of the amount due to pay off the outstanding balance of a high-cost mortgage.
 
 (ii) *Processing fee.* A creditor or servicer may charge a processing fee to cover the cost of providing a payoff statement, as described in paragraph (a)(9)(i) of this section, by fax or courier, provided that such fee may not exceed an amount that is comparable to fees imposed for similar services provided in connection with consumer credit transactions that are secured by the consumer's principal dwelling and are not high-cost mortgages. A creditor or servicer shall make a payoff statement available to a consumer, or a person authorized by the consumer to obtain such information, by a method other than by fax or courier and without charge pursuant to paragraph (a)(9)(i) of this section.
 

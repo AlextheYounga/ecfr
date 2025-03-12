@@ -36,7 +36,7 @@ Example 1.We would presume that a request from a professor of economics for reco
 
 (3) *Review.* We will charge review fees to requesters who make commercial use requests. We will assess review fees in connection with the initial review of the record, *i.e.,* the review we conduct to determine if an exemption applies to a particular record or portion of a record. We will not charge for review at the administrative appeal stage of exemptions applied at the initial review stage. However, if a particular exemption is deemed no longer to apply, any costs associated with re-review of the records in order to consider the use of other exemptions may be assessed as review fees. We will charge review fees at the same rates as those charged for a search under paragraph (c)(1)(ii) of this section.
 
-(d) *Other charges* - (1) *Special services.* We will charge you the direct cost of providing any special services you request, such as sending records by express mail, certifying that records are true copies, or providing multiple copies of the same document.
+(d) *Other charges*—(1) *Special services.* We will charge you the direct cost of providing any special services you request, such as sending records by express mail, certifying that records are true copies, or providing multiple copies of the same document.
 
 (2) *Interest.* We may assess interest charges on any unpaid fees starting on the 31st day following the day on which we sent the bill to you at the rate prescribed in Interest and Penalty on Claims, 31 U.S.C. 3717.
 
@@ -58,6 +58,8 @@ Example 1.We would presume that a request from a professor of economics for reco
 
 (3) If we require advance payment, we will not consider your request received and will not do any additional work until we receive the required payment. We will close your request if you do not pay the advance payment within thirty calendar days after the date of our fee determination.
 
+(4) Before we provide records in response to your request, we may collect payments you owe for work we already have completed.
+
 (h) *Requirements for waiver or reduction of fees.* (1) You can seek a fee waiver or reduction by explaining in writing how disclosure of the requested information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the government and is not primarily in your commercial interest. In determining whether to waive or reduce a fee we will consider whether disclosure of the requested information would:
 
 (i) Shed light on the operations or activities of the government. The subject of the request must specifically concern identifiable operations or activities of the Federal government with a connection that is direct and clear, not remote or attenuated.
@@ -69,3 +71,5 @@ Example 1.We would presume that a request from a professor of economics for reco
 (2) We will grant a partial waiver when only some of the records to be released satisfy the requirements in this section.
 
 (3) You should include your fee waiver or reduction request when you first submit your FOIA request to us. You can submit a fee waiver or reduction request at a later time so long as the underlying record request is pending or on administrative appeal. If you already committed to pay fees and subsequently request a waiver of those fees that we deny, you must pay any costs incurred up to the date the fee waiver request was received.
+
+[81 FR 89846, Dec. 13, 2016, as amended at 82 FR 18986, Apr. 25, 2017]

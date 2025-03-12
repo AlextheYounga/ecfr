@@ -1,0 +1,5 @@
+##### § 2004.26 Are there any exemptions from the Privacy Act? #####
+
+(a) *What is a Privacy Act exemption?* The Privacy Act authorizes USTR to exempt records or information in a system of records from some of the Privacy Act requirements, if we determine that the exemption is necessary. With the exception of certain law enforcement records, we will not provide you with an accounting of disclosures or make available to you records that are exempt.
+
+(b) *How do I know if the records or information I want are exempt?* Each USTR system of records notice will advise you if we have determined that records or information in records are exempt from Privacy Act requirements. If we have claimed an exemption for a system of records, the system of records notice will identify the exemption and the provisions of the Privacy Act from which the system is exempt.

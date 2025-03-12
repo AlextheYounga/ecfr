@@ -2,7 +2,7 @@
 
 Link to an amendment published at 81 FR 72371, Oct. 19, 2016.
 
-(a) *Disclosure requirements.* (1) *Form of disclosures.* Except as otherwise provided in this subpart, disclosures required under this subpart must be clear and conspicuous, in writing, and in a form that a recipient may keep. The disclosures required by this subpart may be provided in electronic form, subject to compliance with the consumer consent and other applicable provisions of the E-Sign Act, as set forth in § 1024.3. A servicer may use commonly accepted or readily understandable abbreviations in complying with the disclosure requirements of this subpart.
+(a) *Disclosure requirements* - (1) *Form of disclosures.* Except as otherwise provided in this subpart, disclosures required under this subpart must be clear and conspicuous, in writing, and in a form that a recipient may keep. The disclosures required by this subpart may be provided in electronic form, subject to compliance with the consumer consent and other applicable provisions of the E-Sign Act, as set forth in § 1024.3. A servicer may use commonly accepted or readily understandable abbreviations in complying with the disclosure requirements of this subpart.
 
 (2) *Foreign language disclosures.* Disclosures required under this subpart may be made in a language other than English, provided that the disclosures are made available in English upon a recipient's request.
 

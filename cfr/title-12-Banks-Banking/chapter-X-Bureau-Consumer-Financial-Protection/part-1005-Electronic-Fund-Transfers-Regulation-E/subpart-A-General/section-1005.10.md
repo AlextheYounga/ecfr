@@ -1,6 +1,6 @@
 ##### § 1005.10 Preauthorized transfers. #####
 
-Link to an amendment published at 81 FR 84326, Nov. 22, 2016.
+Link to an amendment published at 81 FR 84326, Nov. 22, 2016.This amendment was delayed until Apr. 1, 2018, at 82 FR 18975, Apr. 25, 2017.
 
 (a) *Preauthorized transfers to consumer's account* - (1) *Notice by financial institution.* When a person initiates preauthorized electronic fund transfers to a consumer's account at least once every 60 days, the account-holding financial institution shall provide notice to the consumer by:
 
