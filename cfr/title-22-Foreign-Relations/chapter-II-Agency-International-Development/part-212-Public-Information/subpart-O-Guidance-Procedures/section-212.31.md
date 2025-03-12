@@ -1,0 +1,7 @@
+##### § 212.31 Approval procedures for guidance documents identified as “significant” or “otherwise of importance to the Agency's interests.” #####
+
+(a) For guidance a USAID B/IO proposes to issue, if there is a reasonable possibility a guidance document could be as “significant” or “otherwise of importance to the Agency's interests” within the meaning of § 212.31, or if the B/IO is uncertain whether the guidance could qualify as such, the B/IO should email a copy of the proposed guidance document (or a summary of it) to the M Bureau for review and further direction before issuance.
+
+(b) As with significant regulations, after appropriate internal consultation and review, the M Bureau will submit significant guidance documents that are otherwise of importance to the Agency's interests to the Office of Information and Regulatory Affairs (OIRA) within OMB for review and designation.
+
+(c) If OMB/OIRA determines a guidance document from a USAID B/IO not to be either significant or otherwise of importance to the Agency's interests within the meaning of § 212.31, the Bureau for Management may proceed with issuance. For each guidance document coordinated through the Office of the Administrator, the issuing B/IO should include a statement in the Action Memorandum to indicate that the OMB/OIRA has reviewed and cleared the guidance document in accordance with this process.

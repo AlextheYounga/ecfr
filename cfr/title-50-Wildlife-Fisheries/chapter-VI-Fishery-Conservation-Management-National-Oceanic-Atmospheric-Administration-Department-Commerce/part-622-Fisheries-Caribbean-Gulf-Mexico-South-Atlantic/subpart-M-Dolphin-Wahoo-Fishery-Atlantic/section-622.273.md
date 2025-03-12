@@ -1,0 +1,5 @@
+##### § 622.273 Conservation measures for protected species. #####
+
+(a) *Atlantic dolphin and wahoo pelagic longliners.* The owner or operator of a vessel for which a commercial permit for Atlantic dolphin and wahoo has been issued, as required under § 622.270(a)(1), and that has on board a pelagic longline must post inside the wheelhouse the sea turtle handling and release guidelines provided by NMFS. Such owner or operator must also comply with the sea turtle bycatch mitigation measures, including gear requirements and sea turtle handling requirements, as specified in § 635.21(c)(5)(i) and (ii) of this chapter, respectively. For the purpose of this paragraph, a vessel is considered to have pelagic longline gear on board when a power-operated longline hauler, a mainline, floats capable of supporting the mainline, and leaders (gangions) with hooks are on board. Removal of any one of these elements constitutes removal of pelagic longline gear.
+
+(b) [Reserved]

@@ -1,5 +1,7 @@
 ##### § 324.121 Qualification process. #####
 
+Link to an amendment published at 86 FR 745, Jan. 6, 2021.
+
 (a) *Timing.* (1) An FDIC-supervised institution that is described in § 324.100(b)(1)(i) through (iv) must adopt a written implementation plan no later than six months after the date the FDIC-supervised institution meets a criterion in that section. The implementation plan must incorporate an explicit start date no later than 36 months after the date the FDIC-supervised institution meets at least one criterion under § 324.100(b)(1)(i) through (iv). The FDIC may extend the start date.
 
 (2) An FDIC-supervised institution that elects to be subject to this subpart under § 324.100(b)(1)(v) must adopt a written implementation plan.

@@ -132,7 +132,9 @@ The following definitions apply to this subpart. The definitions in §§ 718.2 a
 
 (1) For 2017 WHIP, a hurricane, wildfire, or Tropical Storm Cindy or related condition that occurred in the 2017 calendar year; extreme cold in calendar year 2017 for losses of peach and blueberry crops in calendar year 2017; and extreme cold and hurricane damage in calendar year 2017 for blueberry productivity losses in calendar year 2018; and
 
-(2) For WHIP+, a hurricane, flood, tornado, typhoon, volcanic activity, snowstorm, wildfire, or related condition that occurred in the 2018 or 2019 calendar year.
+(2) For WHIP+, a hurricane, flood, tornado, typhoon, volcanic activity, snowstorm, wildfire, excessive moisture, qualifying drought, or related condition that occurred in the 2018 or 2019 calendar year.
+
+*Qualifying drought* means an area within the county was rated by the U.S. Drought Monitor as having a D3 (extreme drought) or higher level of drought intensity during the applicable calendar year.
 
 *Related condition* means damaging weather or an adverse natural occurrence that occurred as a direct result of a specified qualifying disaster event, as determined by FSA, such as excessive rain, high winds, flooding, mudslides, and heavy smoke, as determined by the Deputy Administrator.
 
@@ -168,6 +170,8 @@ The following definitions apply to this subpart. The definitions in §§ 718.2 a
 
 *USDA Plant Hardiness Zone* means the 11 regions or planting zones as defined by a 10 degree Fahrenheit difference in the average annual minimum temperature.
 
+*U.S. drought monitor* is a system for classifying drought severity according to a range of abnormally dry to exceptional drought. It is a collaborative effort between Federal and academic partners, produced on a weekly basis, to synthesize multiple indices, outlooks, and drought impacts on a map and in narrative form. This synthesis of indices is reported by the National Drought Mitigation Center at *http://droughtmonitor.unl.edu.*
+
 *Value loss crop* has the meaning specified in subpart D, of part 1437 of this title.
 
 *Vine* means a perennial plant grown under normal conditions from which an annual fruit crop is produced for commercial market for human consumption, such as grape, kiwi, or passion fruit, and that has a flexible stem supported by climbing, twining, or creeping along a surface. Nursery stock, perennials that are normally propagated as annuals such as tomato plants, biennials such as strawberry plants, and annuals such as pumpkin, squash, cucumber, watermelon, and other melon plants, are excluded from the term vine in this subpart.
@@ -186,4 +190,4 @@ The following definitions apply to this subpart. The definitions in §§ 718.2 a
 
 *Yield* means unit of production, measured in bushels, pounds, or other unit of measure, per area of consideration, usually measured in acres.
 
-[83 FR 33801, July 18, 2018, as amended 84 FR 48529, Sept. 13, 2019]
+[83 FR 33801, July 18, 2018, as amended 84 FR 48529, Sept. 13, 2019; 86 FR 445, Jan. 6, 2021]

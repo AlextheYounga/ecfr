@@ -1,5 +1,7 @@
 ##### § 252.160 Applicability. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 (a) *General applicability.* This subpart applies to a U.S. intermediate holding company that is required to be established pursuant to § 252.153 and is controlled by a global systemically important foreign banking organization (Covered IHC).
 
 (b) *Initial applicability.* A Covered IHC is subject to the requirements of §§ 252.162, 252.163, 252.165, 252.166, and 252.167 beginning on the later of:

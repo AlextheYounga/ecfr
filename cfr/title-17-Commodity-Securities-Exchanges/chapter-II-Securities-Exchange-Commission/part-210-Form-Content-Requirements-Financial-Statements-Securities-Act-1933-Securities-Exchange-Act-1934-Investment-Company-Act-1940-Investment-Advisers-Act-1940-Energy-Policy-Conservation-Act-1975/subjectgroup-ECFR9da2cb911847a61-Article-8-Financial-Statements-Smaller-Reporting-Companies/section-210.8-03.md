@@ -1,7 +1,5 @@
 ##### § 210.8-03 Interim financial statements. #####
 
-Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
-
 Interim financial statements may be unaudited; however, before filing, interim financial statements included in quarterly reports on Form 10-Q (§ 249.308(a) of this chapter) must be reviewed by an independent public accountant using applicable professional standards and procedures for conducting such reviews, as may be modified or supplemented by the Commission. If, in any filing, the issuer states that interim financial statements have been reviewed by an independent public accountant, a report of the accountant on the review must be filed with the interim financial statements. Interim financial statements shall include a balance sheet as of the end of the issuer's most recent fiscal quarter, a balance sheet as of the end of the preceding fiscal year, and statements of comprehensive income and statements of cash flows for the interim period up to the date of such balance sheet and the comparable period of the preceding fiscal year.
 
 (a) *Condensed format.* Interim financial statements may be condensed as follows:
@@ -16,7 +14,7 @@ Interim financial statements may be unaudited; however, before filing, interim f
 
 (5) Provide the information required by § 210.3-04 for the current and comparative year-to-date periods, with subtotals for each interim period.
 
-(b) *Disclosure required and additional instructions as to content* - (1) *Footnotes.* Footnote and other disclosures should be provided as needed for fair presentation and to ensure that the financial statements are not misleading.
+(b) *Disclosure required and additional instructions as to content*—(1) *Footnotes.* Footnote and other disclosures should be provided as needed for fair presentation and to ensure that the financial statements are not misleading.
 
 (2) [Reserved]
 
@@ -26,4 +24,8 @@ Interim financial statements may be unaudited; however, before filing, interim f
 
 (5) *Material accounting changes.* The registrant's independent accountant must provide a letter in the first Form 10-Q (§ 249.308a of this chapter) filed after the change indicating whether or not the change is to a preferable method. Disclosure must be provided of any retroactive change to prior period financial statements, including the effect of any such change on income and income per share.
 
-*Instruction 1 to § 210.8-03.* Where §§ 210.8-01 through 210.8-08 (Article 8 of this part) are applicable to a Form 10-Q (§ 249.308a of this chapter) and the interim period is more than one quarter, statements of comprehensive income must also be provided for the most recent interim quarter and the comparable quarter of the preceding fiscal year.[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18615, Apr. 23, 2009; 83 FR 50204, Oct. 4, 2018; 85 FR 54065, Aug. 31, 2020]
+(6) *Financial statements of and disclosures about guarantors and issuers of guaranteed securities.* The requirements of § 210.3-10 are applicable to financial statements for a subsidiary of a smaller reporting company that issues securities guaranteed by the smaller reporting company or guarantees securities issued by the smaller reporting company. Disclosures about guarantors and issuers of guaranteed securities registered or being registered must be presented as required by § 210.13-01.
+
+(7) *Disclosures about affiliates whose securities collateralize an issuance.* Disclosures about a smaller reporting company's affiliates whose securities collateralize any class of securities registered or being registered and the related collateral arrangement must be presented as required by § 210.13-02.
+
+*Instruction 1 to § 210.8-03.* Where §§ 210.8-01 through 210.8-08 (Article 8 of this part) are applicable to a Form 10-Q (§ 249.308a of this chapter) and the interim period is more than one quarter, statements of comprehensive income must also be provided for the most recent interim quarter and the comparable quarter of the preceding fiscal year.[73 FR 953, Jan. 4, 2008, as amended at 74 FR 18615, Apr. 23, 2009; 83 FR 50204, Oct. 4, 2018; 85 FR 54065, Aug. 31, 2020; 85 FR 22000, Apr. 20, 2020]

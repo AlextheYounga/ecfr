@@ -1,5 +1,7 @@
 ##### § 217.121 Qualification process. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 (a) *Timing.* (1) A Board-regulated institution that is described in § 217.100(b)(1)(i) and (ii) must adopt a written implementation plan no later than six months after the date the Board-regulated institution meets a criterion in that section. The implementation plan must incorporate an explicit start date no later than 36 months after the date the Board-regulated institution meets at least one criterion under § 217.100(b)(1)(i) and (ii). The Board may extend the start date.
 
 (2) A Board-regulated institution that elects to be subject to this subpart under § 217.101(b)(1)(iii) must adopt a written implementation plan.

@@ -1,5 +1,7 @@
 ##### § 431.19 Department of Energy recognition of accreditation bodies. #####
 
+Link to an amendment published at 86 FR 21, Jan. 4, 2021.
+
 (a) *Petition.* To be classified by the Department of Energy as an accreditation body, an organization must submit a petition to the Department requesting such classification, in accordance with paragraph (c) of this section and § 431.21. The petition must demonstrate that the organization meets the criteria in paragraph (b) of this section.
 
 (b) *Evaluation criteria.* To be classified as an accreditation body by the Department, the organization must meet the following criteria:

@@ -1,7 +1,5 @@
 ##### § 229.1112 (Item 1112) Significant obligors of pool assets. #####
 
-Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
-
 (a) *Descriptive information.* Provide the following information for each significant obligor:
 
 (1) The name of the obligor.
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
 
 (b) *Financial information.* (1) If the pool assets relating to a significant obligor represent 10% or more, but less than 20%, of the asset pool, provide selected financial data required by Item 301 of Regulation S-K (§ 229.301) for the significant obligor, provided, however, that for a significant obligor under Item 1101(k)(2) of this Regulation AB, only net operating income for the most recent fiscal year and interim period is required.
 
-(2) If pool assets relating to a significant obligor represent 20% or more of the asset pool, provide financial statements meeting the requirements of Regulation S-X (§§ 210.1-01 through 210.12-29 of this chapter), except § 210.3-05 of this chapter and Article 11 of Regulation S-X (§§ 210.11-01 through 210.11-03 of this chapter), of the significant obligor. Financial statements of such obligor and its subsidiaries consolidated (as required by § 240.14a-3(b) of this chapter) shall be filed under this item.
+(2) If pool assets relating to a significant obligor represent 20% or more of the asset pool, provide financial statements meeting the requirements of §§ 210.1-01 through 210.13-02 (Regulation S-X) of this chapter, except §§ 210.3-05 (Rule 3-05) and 210.11-01 through 210.11-03 (Article 11 of Regulation S-X) of this chapter, of the significant obligor. Financial statements of such obligor and its subsidiaries consolidated (as required by § 240.14a-3(b) of this chapter) shall be filed under this item.
 
 *Instructions to Item 1112(b):* 1. No information need be provided pursuant to paragraph (b) of this section if the obligations of the significant obligor as they relate to the pool assets are backed by the full faith and credit of the United States.
 
@@ -30,4 +28,4 @@ a. Paragraph (b)(1) of this section may be complied with by providing the inform
 
 b. Paragraph (b)(2) of this section may be complied with by providing financial statements meeting the requirements of Item 17 of Form 20-F for the periods specified by Item 8.A. of Form 20-F.
 
-[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57313, Sept. 24, 2014]
+[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57313, Sept. 24, 2014; 85 FR 22003, Apr. 20, 2020]

@@ -1,7 +1,5 @@
 ##### § 229.1114 (Item 1114) Credit enhancement and other support, except for certain derivatives instruments. #####
 
-Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
-
 (a) *Descriptive information.* To the extent material, describe the following, including a clear discussion of the manner in which each potential item is designed to affect or ensure timely payment of the asset-backed securities:
 
 (1) Any external credit enhancement designed to ensure that the asset-backed securities or pool assets will pay in accordance with their terms, such as bond insurance, letters of credit or guarantees.
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 22003, Apr. 20, 2020.
 
 (2) *Financial information.* (i) If any entity or group of affiliated entities providing enhancement or other support described in paragraph (a) of this section is liable or contingently liable to provide payments representing 10% or more, but less than 20%, of the cash flow supporting any offered class of the asset-backed securities, provide financial data required by Item 301 of Regulation S-K (§ 229.301) for each such entity or group of affiliated entities.
 
-(ii) If any entity or group of affiliated entities providing enhancement or other support described in paragraph (a) of this section is liable or contingently liable to provide payments representing 20% or more of the cash flow supporting any offered class of the asset-backed securities, provide financial statements meeting the requirements of Regulation S-X (§§ 210.1-01 through 210.12-29 of this chapter), except § 210.3-05 of this chapter and Article 11 of Regulation S-X (§§ 210.11-01 through 210.11-03 of this chapter), of such entity or group of affiliated entities. Financial statements of such enhancement provider and its subsidiaries consolidated (as required by § 240.14a-3(b) of this chapter) shall be filed under this item.
+(ii) If any entity or group of affiliated entities providing enhancement or other support described in paragraph (a) of this section is liable or contingently liable to provide payments representing 20% or more of the cash flow supporting any offered class of the asset-backed securities, provide financial statements meeting the requirements of §§ 210.1-01 through 210.13-02 (Regulation S-X) of this chapter, except §§ 210.3-05 (Rule 3-05) and 210.11-01 through 210.11-03 (Article 11 of Regulation S-X) of this chapter, of such entity or group of affiliated entities. Financial statements of such enhancement provider and its subsidiaries consolidated (as required by § 240.14a-3(b) of this chapter) shall be filed under this item.
 
 *Instruction 1 to Item 1114(b).* The requirements in paragraph (b) of this section apply to all providers of external credit enhancement or other support, other than those described in Item 1115 of this Regulation AB. Enhancement may support payment on the pool assets or payments on the asset-backed securities themselves.
 
@@ -54,4 +52,4 @@ a. Paragraph (b)(2)(i) of this section may be complied with by providing the inf
 
 b. Paragraph (b)(2)(ii) of this section may be complied with by providing financial statements meeting the requirements of Item 17 of Form 20-F for the periods specified by Item 8.A. of Form 20-F.
 
-[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57315, Sept. 24, 2014]
+[70 FR 1597, Jan. 7, 2005, as amended at 79 FR 57315, Sept. 24, 2014; 85 FR 22003, Apr. 20, 2020]

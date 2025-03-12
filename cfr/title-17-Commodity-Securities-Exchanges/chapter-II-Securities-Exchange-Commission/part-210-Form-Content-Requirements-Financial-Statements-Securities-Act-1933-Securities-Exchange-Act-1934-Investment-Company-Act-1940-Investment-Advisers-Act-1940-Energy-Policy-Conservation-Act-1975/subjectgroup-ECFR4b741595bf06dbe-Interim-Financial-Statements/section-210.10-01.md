@@ -1,7 +1,5 @@
 ##### § 210.10-01 Interim financial statements. #####
 
-Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
-
 (a) *Condensed statements.* Interim financial statements shall follow the general form and content of presentation prescribed by the other sections of this Regulation with the following exceptions:
 
 (1) Interim financial statements required by this rule need only be provided as to the registrant and its subsidiaries consolidated and may be unaudited. Separate statements of other entities which may otherwise be required by this regulation may be omitted.
@@ -30,9 +28,13 @@ Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
 
 (6) For filings on Form 10-Q (§ 249.308(a) of this chapter), a letter from the registrant's independent accountant shall be filed as an exhibit (in accordance with the provisions of 17 CFR 229.601 (Item 601 of Regulation S-K)) in the first Form 10-Q after the date of an accounting change indicating whether or not the change is to an alternative principle which, in the accountant's judgment, is preferable under the circumstances; except that no letter from the accountant need be filed when the change is made in response to a standard adopted by the Financial Accounting Standards Board that requires such change.
 
-(7) Any material retroactive prior period adjustment made during any period covered by the interim financial statements shall be disclosed, together with the effect thereof upon net income - total and per share - of any prior period included and upon the balance of retained earnings. If results of operations for any period presented have been adjusted retroactively by such an item subsequent to the initial reporting of such period, similar disclosure of the effect of the change shall be made.
+(7) Any material retroactive prior period adjustment made during any period covered by the interim financial statements shall be disclosed, together with the effect thereof upon net income—total and per share—of any prior period included and upon the balance of retained earnings. If results of operations for any period presented have been adjusted retroactively by such an item subsequent to the initial reporting of such period, similar disclosure of the effect of the change shall be made.
 
 (8) Any unaudited interim financial statements furnished shall reflect all adjustments which are, in the opinion of management, necessary to a fair statement of the results for the interim periods presented. A statement to that effect shall be included. If all such adjustments are of a normal recurring nature, a statement to that effect shall be made; otherwise, there shall be furnished information describing in appropriate detail the nature and amount of any adjustments other than normal recurring adjustments entering into the determination of the results shown.
+
+(9) The requirements of § 210.3-10 are applicable to financial statements for a subsidiary of the registrant that issues securities guaranteed by the registrant or guarantees securities issued by the registrant. Disclosures about guarantors and issuers of guaranteed securities registered or being registered must be presented as required by § 210.13-01.
+
+(10) Disclosures about a registrant's affiliates whose securities collateralize any class of securities registered or being registered and the related collateral arrangement must be presented as required by § 210.13-02.
 
 (c) *Periods to be covered.* The periods for which interim financial statements are to be provided in registration statements are prescribed elsewhere in this Regulation (see §§ 210.3-01 and 3-02). For filings on Form 10-Q, financial statements shall be provided as set forth in this paragraph (c):
 
@@ -48,4 +50,4 @@ Link to an amendment published at 85 FR 22000, Apr. 20, 2020.
 
 (e) *Filing of other interim financial information in certain cases.* The Commission may, upon the informal written request of the registrant, and where consistent with the protection of investors, permit the omission of any of the interim financial information herein required or the filing in substitution thereof of appropriate information of comparable character. The Commission may also by informal written notice require the filing of other information in addition to, or in substitution for, the interim information herein required in any case where such information is necessary or appropriate for an adequate presentation of the financial condition of any person for which interim financial information is required, or whose financial information is otherwise necessary for the protection of investors.
 
-[46 FR 12489, Feb. 17, 1981, as amended at 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 57 FR 45293, Oct. 1, 1992; 64 FR 73401, Dec. 30, 1999; 73 FR 956, Jan. 4, 2008; 74 FR 18616, Apr. 23, 2009; 76 FR 50120, Aug. 12, 2011; 83 FR 50205, Oct. 4, 2018]
+[46 FR 12489, Feb. 17, 1981, as amended at 50 FR 25215, June 18, 1985; 50 FR 49533, Dec. 3, 1985; 57 FR 45293, Oct. 1, 1992; 64 FR 73401, Dec. 30, 1999; 73 FR 956, Jan. 4, 2008; 74 FR 18616, Apr. 23, 2009; 76 FR 50120, Aug. 12, 2011; 83 FR 50205, Oct. 4, 2018; 85 FR 22000, Apr. 20, 2020]

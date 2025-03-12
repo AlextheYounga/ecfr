@@ -130,6 +130,8 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (2) Change in method of accounting.
 
+(3) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
+
 (i) [Reserved]
 
 (j) Examples.
@@ -178,15 +180,27 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (iv) Mixed use costs.
 
-(3) $10,000,000 gross receipts test.
+(3) Gross receipts test of section 448(c)
 
-(i) In general.
+(i) In general
 
-(ii) Single employer.
+(ii) Application of gross receipts test
 
-(iii) Attribution of gross receipts.
+(A) In general
+
+(B) Gross receipts of individuals, etc.
+
+(C) Partners and S corporation shareholders
+
+(D) Examples
+
+(*1*) Example 1.
+
+(*2*) Example 2.
 
 (c) Residential construction contracts.
+
+(d) Applicability dates.
 
 § 1.460-4 Methods of accounting for long-term contracts.
 
@@ -278,7 +292,7 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (h) Examples.
 
-(i) [Reserved]
+(i) Applicability date.
 
 (j) Consolidated groups and controlled groups.
 
@@ -660,4 +674,6 @@ This section lists the paragraphs contained in § 1.460-1 through § 1.460-6.
 
 (j) Election not to apply look-back method in de minimis cases.
 
-[T.D. 9315, 55 FR 41670, Oct. 15, 1990, as amended by T.D. 8597, 60 FR 36683, July 18, 1995; T.D. 8756, 63 FR 1918, Jan. 13, 1998; T.D. 8775, 63 FR 36181, July 2, 1998; T.D. 8929, 66 FR 2224, Jan. 11, 2001; T.D. 8995, 67 FR 34605, May 15, 2002; T.D. 9137, 69 FR 42553, July 16, 2004]
+(k) Applicability date.
+
+[T.D. 9315, 55 FR 41670, Oct. 15, 1990, as amended by T.D. 8597, 60 FR 36683, July 18, 1995; T.D. 8756, 63 FR 1918, Jan. 13, 1998; T.D. 8775, 63 FR 36181, July 2, 1998; T.D. 8929, 66 FR 2224, Jan. 11, 2001; T.D. 8995, 67 FR 34605, May 15, 2002; T.D. 9137, 69 FR 42553, July 16, 2004; T.D. 9942, 86 FR 272, Jan. 5, 2021]

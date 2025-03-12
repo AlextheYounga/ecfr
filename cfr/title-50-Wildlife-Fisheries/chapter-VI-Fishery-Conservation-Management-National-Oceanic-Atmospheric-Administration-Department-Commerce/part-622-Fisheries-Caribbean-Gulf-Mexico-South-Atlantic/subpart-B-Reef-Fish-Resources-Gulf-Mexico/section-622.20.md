@@ -1,7 +1,5 @@
 ##### § 622.20 Permits and endorsements. #####
 
-Link to an amendment published at 85 FR 44017, July 21, 2020.
-
 (a) *Commercial vessels* - (1) *Commercial vessel permits.* For a person aboard a vessel to be eligible for exemption from the bag limits, to fish under a quota, as specified in § 622.39, or to sell Gulf reef fish or Florida Keys/East Florida hogfish in or from the Gulf EEZ, a commercial vessel permit for Gulf reef fish must have been issued to the vessel and must be on board. If Federal regulations for Gulf reef fish in subparts A or B of this part are more restrictive than state regulations, a person aboard a vessel for which a commercial vessel permit for Gulf reef fish has been issued must comply with such Federal regulations regardless of where the fish are harvested. See paragraph (a)(1)(i) of this section regarding a limited access system for commercial vessel permits for Gulf reef fish. See §§ 622.21(b)(1) and 622.22(b)(1), respectively, regarding an IFQ vessel account required to fish for, possess, or land Gulf red snapper or Gulf groupers and tilefishes, and paragraph (a)(2) of this section regarding an additional bottom longline endorsement required to fish for Gulf reef fish with bottom longline gear in a portion of the eastern Gulf.
 
 (i) *Limited access system for commercial vessel permits for Gulf reef fish.* (A) No applications for additional commercial vessel permits for Gulf reef fish will be accepted. Existing vessel permits may be renewed, are subject to the restriction on transfer in paragraph (a)(1)(i)(B) of this section, and are subject to the requirement for timely renewal in paragraph (a)(1)(i)(C) of this section. An application for renewal or transfer of a commercial vessel permit for Gulf reef fish will not be considered complete until proof of purchase, installation, activation, and operational status of an approved VMS for the vessel receiving the permit has been verified by NMFS VMS personnel.
@@ -34,7 +32,7 @@ Link to an amendment published at 85 FR 44017, July 21, 2020.
 
 (*1*) NMFS' Marine Recreational Fishing Vessel Directory Telephone Survey (conducted by the Gulf States Marine Fisheries Commission);
 
-(*2*) NMFS' Southeast Headboat Survey (as required by § 622.26(b)(1));
+(*2*) Charter vessel and headboat recordkeeping and reporting requirements specified in § 622.26(b);
 
 (*3*) Texas Parks and Wildlife Marine Recreational Fishing Survey; or
 
@@ -58,4 +56,4 @@ Link to an amendment published at 85 FR 44017, July 21, 2020.
 
 (d) *Permit procedures.* See § 622.4 for information regarding general permit procedures including, but not limited to application, fees, duration, transfer, renewal, display, sanctions and denials, and replacement.
 
-[78 FR 22952, Apr. 17, 2013, as amended 78 FR 46293, July 31, 2013; 79 FR 19494, Apr. 9, 2014; 82 FR 34580, July 25, 2017; 85 FR 22045, Apr. 21, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended 78 FR 46293, July 31, 2013; 79 FR 19494, Apr. 9, 2014; 82 FR 34580, July 25, 2017; 85 FR 22045, Apr. 21, 2020; 85 FR 44017, July 21, 2020]

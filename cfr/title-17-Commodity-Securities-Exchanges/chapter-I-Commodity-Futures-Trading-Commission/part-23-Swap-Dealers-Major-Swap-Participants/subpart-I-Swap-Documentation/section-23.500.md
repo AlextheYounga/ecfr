@@ -24,55 +24,7 @@ For purposes of this subpart I, the following terms shall be defined as provided
 
 (f) *Fully offsetting swaps* means swaps of equivalent terms where no net cash flow would be owed to either counterparty after the offset of payment obligations thereunder.
 
-(g) *Material terms* means the minimum primary economic terms (as defined in appendix 1 of part 45 of this chapter) of a swap other than the following:
-
-(1) An indication of whether the reporting counterparty is a swap dealer with respect to the swap;
-
-(2) An indication of whether the reporting party is a major swap participant with respect to the swap;
-
-(3) If the reporting counterparty is not a swap dealer or a major swap participant with respect to the swap, an indication of whether the reporting counterparty is a financial entity as defined in section 2(h)(7)(c) of the Act;
-
-(4) An indication of whether the reporting counterparty is a U.S. person;
-
-(5) An indication that the swap will be allocated;
-
-(6) If the swap will be allocated, or is a post-allocation swap, the legal entity identifier of the agent;
-
-(7) An indication of whether the swap is a post-allocation swap;
-
-(8) If the swap is a post-allocation swap, the unique swap identifier of the original transaction between the reporting counterparty and the agent;
-
-(9) An indication of whether the non-reporting counterparty is a swap dealer with respect to the swap;
-
-(10) An indication of whether the non-reporting counterparty is a major swap participant with respect to the swap;
-
-(11) If the non-reporting counterparty is not a swap dealer or a major swap participant with respect to the swap, an indication of whether the reporting counterparty is a financial entity as defined in section 2(h)(7)(c) of the Act;
-
-(12) An indication of whether the non-reporting counterparty is a U.S. person;
-
-(13) An indication that the swap is a multi-asset swap;
-
-(14) For a multi-asset swap, an indication of the primary asset class;
-
-(15) For a multi-asset swap, an indication of the secondary asset class(es);
-
-(16) An indication that the swap is a mixed swap;
-
-(17) For a mixed swap reported to two non-dually-registered swap data repositories, the identity of the other swap data repository (if any to which the swap is or will be reported;
-
-(18) Block trade indicator;
-
-(19) Execution timestamp;
-
-(20) Timestamp for submission to swap data repository;
-
-(21) Clearing indicator;
-
-(22) Clearing venue;
-
-(23) If the swap will not be cleared, an indication of whether the clearing requirement exception in section 2(h)(7) of the Act was elected; and
-
-(24) The identity of the counterparty electing the clearing requirement exception in section 2(h)(7) of the Act.
+(g) Material terms means the minimum primary economic terms as defined in appendix 1 of subpart I of part 23 of this chapter.
 
 (h) *Multilateral portfolio compression exercise* means an exercise in which multiple swap counterparties wholly terminate or change the notional value of some or all of the swaps submitted by the counterparties for inclusion in the portfolio compression exercise and, depending on the methodology employed, replace the terminated swaps with other swaps whose combined notional value (or some other measure of risk) is less than the combined notional value (or some other measure of risk) of the terminated swaps in the compression exercise.
 
@@ -92,4 +44,4 @@ For purposes of this subpart I, the following terms shall be defined as provided
 
 (m) *Valuation* means the current market value or net present value of a swap.
 
-[77 FR 55960, Sept. 11, 2012, as amended at 81 FR 27314, May 6, 2016]
+[77 FR 55960, Sept. 11, 2012, as amended at 81 FR 27314, May 6, 2016; 86 FR 225, Jan. 5, 2021]

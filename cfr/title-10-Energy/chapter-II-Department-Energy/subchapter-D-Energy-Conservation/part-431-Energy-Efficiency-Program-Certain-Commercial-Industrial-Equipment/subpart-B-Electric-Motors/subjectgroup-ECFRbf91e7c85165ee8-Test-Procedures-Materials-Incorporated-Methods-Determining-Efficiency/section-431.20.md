@@ -1,5 +1,7 @@
 ##### § 431.20 Department of Energy recognition of nationally recognized certification programs. #####
 
+Link to an amendment published at 86 FR 22, Jan. 4, 2021.
+
 (a) *Petition.* For a certification program to be classified by the Department of Energy as being nationally recognized in the United States for the purposes of Section 345(c) of EPCA (“nationally recognized”), the organization operating the program must submit a petition to the Department requesting such classification, in accordance with paragraph (c) of this Section and § 431.21. The petition must demonstrate that the program meets the criteria in paragraph (b) of this section.
 
 (b) *Evaluation criteria.* For a certification program to be classified by the Department as nationally recognized, it must meet the following criteria:

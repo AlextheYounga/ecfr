@@ -1,5 +1,7 @@
 ##### § 252.162 Covered IHC long-term debt requirement. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 (a) *Covered IHC long-term debt requirement.* A Covered IHC must have an outstanding eligible Covered IHC long-term debt amount that is no less than the amount equal to the greatest of:
 
 (1) 6 percent of the Covered IHC's total risk-weighted assets;

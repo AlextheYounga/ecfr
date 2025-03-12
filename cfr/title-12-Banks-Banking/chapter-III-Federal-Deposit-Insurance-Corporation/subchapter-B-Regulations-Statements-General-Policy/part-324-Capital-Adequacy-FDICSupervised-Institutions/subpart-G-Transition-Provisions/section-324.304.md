@@ -1,5 +1,7 @@
 ##### § 324.304 Temporary exclusions from total leverage exposure. #####
 
+Link to an amendment published at 86 FR 745, Jan. 6, 2021.
+
 (a) *In general.* Subject to paragraphs (b) through (g) of this section, and notwithstanding any other requirement in this part, an FDIC-supervised institution, when calculating on-balance sheet assets as of each day of a reporting quarter for purposes of determining the FDIC-supervised institution's total leverage exposure under § 324.10(c)(4), may exclude the balance sheet carrying value of the following items:
 
 (1) U.S. Treasury securities; and

@@ -1,5 +1,7 @@
 ##### § 23.154 Calculation of initial margin. #####
 
+Link to an amendment published at 86 FR 246, Jan. 5, 2021.
+
 (a) *Means of calculation.* (1) Each business day each covered swap entity shall calculate an initial margin amount to be collected from each covered counterparty using:
 
 (i) A risk-based model that meets the requirements of paragraph (b) of this section; or

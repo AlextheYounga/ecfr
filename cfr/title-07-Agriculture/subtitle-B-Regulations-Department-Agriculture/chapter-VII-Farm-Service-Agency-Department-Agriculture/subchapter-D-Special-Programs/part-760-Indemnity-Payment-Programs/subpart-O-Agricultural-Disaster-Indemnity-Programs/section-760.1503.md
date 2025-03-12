@@ -30,4 +30,6 @@
 
 (i) As a condition of eligibility to receive payments under this subpart, the participant must have been in compliance with the Highly Erodible Land Conservation and Wetland Conservation provisions of part 12 of this title for the applicable crop year for which the producer is applying for benefits under this subpart, and must not otherwise be precluded from receiving payments under parts 12, 400, 1400, or 1437 of this title or any law.
 
-[83 FR 33801, July 18, 2018, as amended 84 FR 48529, Sept. 13, 2019]
+(j) Members of cooperative processors are not eligible for WHIP+ assistance for sugar beet losses.
+
+[83 FR 33801, July 18, 2018, as amended 84 FR 48529, Sept. 13, 2019; 86 FR 445, Jan. 6, 2021]

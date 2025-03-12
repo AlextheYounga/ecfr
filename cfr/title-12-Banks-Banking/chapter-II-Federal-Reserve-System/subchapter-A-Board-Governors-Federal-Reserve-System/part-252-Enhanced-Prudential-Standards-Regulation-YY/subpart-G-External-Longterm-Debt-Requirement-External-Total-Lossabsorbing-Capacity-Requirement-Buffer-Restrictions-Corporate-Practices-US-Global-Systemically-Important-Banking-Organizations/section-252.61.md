@@ -1,5 +1,7 @@
 ##### § 252.61 Definitions. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 For purposes of this subpart:
 
 *Additional tier 1 capital* has the same meaning as in 12 CFR 217.20(c).

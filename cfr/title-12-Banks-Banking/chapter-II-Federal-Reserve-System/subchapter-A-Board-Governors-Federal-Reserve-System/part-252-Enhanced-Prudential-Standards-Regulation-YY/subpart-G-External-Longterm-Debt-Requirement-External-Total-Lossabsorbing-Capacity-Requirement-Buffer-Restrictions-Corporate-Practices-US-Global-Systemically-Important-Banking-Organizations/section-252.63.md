@@ -1,5 +1,7 @@
 ##### § 252.63 External total loss-absorbing capacity requirement and buffer. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 (a) *External total loss-absorbing capacity requirement.* A global systemically important BHC must maintain an outstanding external total loss-absorbing capacity amount that is no less than the amount equal to the greater of:
 
 (1) 18 percent of the global systemically important BHC's total risk-weighted assets; and

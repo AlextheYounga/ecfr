@@ -1,0 +1,3 @@
+##### § 212.39 No judicial review or enforceable rights. #####
+
+This subpart is intended to improve the internal management of USAID. As such, it is for USAID personnel only and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its Departments and Agencies or other entities, its officers or employees, or any other person.

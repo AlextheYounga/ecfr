@@ -28,7 +28,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (b) Exceptions.
 
-(1) Small resellers.
+(1) Small business taxpayers.
 
 (2) Long-term contracts.
 
@@ -362,13 +362,37 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (i) [Reserved]
 
-(j) Special rules.
+(j) Exemption for certain small business taxpayers.
 
-(1) Costs provided by a related person.
+(1) In general.
+
+(2) Application of the section 448(c) gross receipts test.
 
 (i) In general.
 
-(ii) Exceptions.
+(ii) Gross receipts of individuals, etc.
+
+(iii) Partners and S corporation shareholders.
+
+(iv) Examples.
+
+(A) Example 1
+
+(B) Example 2
+
+(3) Change in method of accounting.
+
+(i) In general.
+
+(ii) Prior section 263A method change.
+
+(k) Special rules
+
+(1) Costs provided by a related person.
+
+(i) In general
+
+(ii) Exceptions
 
 (2) Optional capitalization of period costs.
 
@@ -376,11 +400,11 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (ii) Period costs eligible for capitalization.
 
-(3) Trade or business application.
+(3) Trade or business application
 
 (4) Transfers with a principal purpose of tax avoidance. [Reserved]
 
-(k) Change in method of accounting.
+(l) Change in method of accounting.
 
 (1) In general.
 
@@ -392,7 +416,9 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (5) Time for requesting change.
 
-(l) Effective/applicability date.
+(m) Effective/applicability date.
+
+(6) Exemption for certain small business taxpayers.
 
 § 1.263A-2 Rules Relating to Property Produced by the Taxpayer.
 
@@ -654,7 +680,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (i) In general.
 
-(ii) Exception for small resellers.
+(ii) Exemption for small business taxpayers.
 
 (iii) De minimis production activities.
 
@@ -674,29 +700,15 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (iv) Application of simplified resale method.
 
-(b) Gross receipts exception for small resellers.
-
-(1) In general.
-
-(i) Test period for new taxpayers.
-
-(ii) Treatment of short taxable year.
-
-(2) Definition of gross receipts.
+(5) *De minimis* production activities.
 
 (i) In general.
 
-(ii) Amounts excluded.
+(ii) Definition of gross receipts to determine *de minimis* production activities.
 
-(3) Aggregation of gross receipts.
+(iii) Example.
 
-(i) In general.
-
-(ii) Single employer defined.
-
-(iii) Gross receipts of a single employer.
-
-(iv) Examples.
+(b) [Reserved].
 
 (c) Purchasing, handling, and storage costs.
 
@@ -880,9 +892,11 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (iii) Examples.
 
-(3) Costs required to be capitalized or inventoried under another provision.
+(3) Exemption for certain small business taxpayers.
 
-(4) Farming business.
+(4) Costs required to be capitalized or inventoried under another provision.
+
+(5) Farming business.
 
 (i) In general.
 
@@ -942,7 +956,7 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (3) Exclusion of property to which section 263A does not apply.
 
-(d) Election not to have section 263A apply.
+(d) Election not to have section 263A apply under section 263A(d)(3).
 
 (1) Introduction.
 
@@ -966,7 +980,11 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (B) Members of family.
 
-(5) Examples.
+(5) Revocation of section 263A(d)(3) election to permit exemption under section 263A(i).
+
+(6) Change from applying exemption under section 263A(i) to making a section 263A(d)(3) election.
+
+(7) Examples.
 
 (e) Exception for certain costs resulting from casualty losses.
 
@@ -982,11 +1000,19 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (ii) Example.
 
-(f) Effective date and change in method of accounting.
+(5) Special temporary rule for citrus plants lost by reason of casualty.
+
+(f) Change in method of accounting.
 
 (1) Effective date.
 
 (2) Change in method of accounting.
+
+(g) Effective date.
+
+(1) In general.
+
+(2) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
 
 § 1.263A-7 Changing a method of accounting under section 263A.
 
@@ -998,7 +1024,11 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (3) Taxpayers that change a method of accounting under section 263A.
 
-(4) Effective date.
+(4) Applicability dates.
+
+(i) In general.
+
+(ii) Changes made by Tax Cuts and Jobs Act (Pub. L. 115-97).
 
 (5) Definition of change in method of accounting.
 
@@ -1566,4 +1596,4 @@ This section lists the paragraphs in §§ 1.263A-1 through 1.263A-4 and §§ 1.2
 
 (c) Anti-abuse rule.
 
-[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014; T.D. 9843, 83 FR 58485, Nov. 20, 2018]
+[T.D. 8482, 58 FR 42207, Aug. 9, 1993, as amended by T.D. 8584, 59 FR 67196, Dec. 29, 1994; 60 FR 16574, Mar. 31, 1995; T.D. 8728, 62 FR 42054, Aug. 5, 1997; T.D. 8897, 65 FR 50643, Aug. 21, 2000; T.D. 9636, 78 FR 57745, Sept. 19, 2013; T.D. 9652, 79 FR 2096, Jan. 13, 2014; T.D. 9843, 83 FR 58485, Nov. 20, 2018; T.D, 9942, 86 FR 264, Jan. 5, 2021]

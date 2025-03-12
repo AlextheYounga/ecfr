@@ -1,6 +1,4 @@
-##### § 622.13 Prohibitions - general. #####
-
-Link to an amendment published at 85 FR 10339, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.
+##### § 622.13 Prohibitions—general. #####
 
 In addition to the general prohibitions in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
@@ -16,7 +14,7 @@ In addition to the general prohibitions in § 600.725 of this chapter, it is unl
 
 (f) Falsify or fail to display and maintain vessel and gear identification, as specified in this part.
 
-(g) Harvest or possess fish if the required headboat reports have not been submitted in accordance with this part.
+(g) Harvest or possess fish if the required charter vessel or headboat reports have not been submitted in accordance with this part.
 
 (h) First receive fish from federally permitted vessels if the required reports have not been submitted in accordance with § 622.5(c).
 
@@ -24,7 +22,7 @@ In addition to the general prohibitions in § 600.725 of this chapter, it is unl
 
 (j) Possess wreckfish as specified in § 622.172, receive wreckfish except as specified in § 622.172, or offload a wreckfish except as specified in § 622.172.
 
-(k) Transfer -
+(k) Transfer—
 
 (1) A wreckfish, as specified in § 622.172;
 
@@ -104,4 +102,4 @@ In addition to the general prohibitions in § 600.725 of this chapter, it is unl
 
 (ss) Fail to comply with any other requirement or restriction specified in this part or violate any provision(s) in this part.
 
-[78 FR 57535, Sept. 19, 2013, as amended at 78 FR 78781, Dec. 27, 2013; 79 FR 6099, Feb. 3, 2014; 79 FR 19494, Apr. 9, 2014; 81 FR 1792, Jan. 13, 2016]
+[78 FR 57535, Sept. 19, 2013, as amended at 78 FR 78781, Dec. 27, 2013; 79 FR 6099, Feb. 3, 2014; 79 FR 19494, Apr. 9, 2014; 81 FR 1792, Jan. 13, 2016; 85 FR 10339, Feb. 24, 2020]

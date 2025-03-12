@@ -1,6 +1,6 @@
 ##### § 760.1510 Application for payment. #####
 
-(a) An application for payment under this subpart must be submitted to the FSA county office serving as the farm's administrative county office by the close of business on a date that will be announced by the Deputy Administrator. Producers must submit:
+(a) An application for payment under this subpart must be submitted to the FSA county office serving as the farm's administrative county office by the close of business on October 30, 2020. Producers must submit:
 
 (1) For 2017 WHIP, a completed form FSA-890, Wildfires and Hurricanes Indemnity Program Application; or
 
@@ -34,4 +34,4 @@
 
 (e) Application approval and payment by FSA does not relieve a participant from having to submit any form required, but not filed, according to paragraph (d) of this section.
 
-[83 FR 33801, July 18, 2018, as amended 84 FR 48530, Sept. 13, 2019]
+[83 FR 33801, July 18, 2018, as amended 84 FR 48530, Sept. 13, 2019; 86 FR 446, Jan. 6, 2021]

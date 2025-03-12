@@ -12,15 +12,13 @@
 
 (5) Multiplying the result from paragraph (a)(4) of this section by the participant's share in paragraph (e) of this section;
 
-(6) Multiplying the result from paragraph (a)(5) of this section by the applicable payment factor in paragraph (f) of this section;
+(6) Multiplying the result from paragraph (a)(5) of this section by the applicable payment factor in paragraph (g) of this section;
 
 (7) Subtracting the amount of the gross insurance indemnity or NAP payment from the result from paragraph (a)(6) of this section;
 
 (8) Subtracting the secondary use or salvage value of the crop from the result from paragraph (a)(7) of this section; and
 
 (b) If the NAP or crop insurance coverage is at the coverage level listed in the first column, then the 2017 WHIP factor is listed in the second column, and the WHIP+ factor is listed in the third column:
-
-Table 1 to § 760.1511(b)
 
 |                       Coverage level                       |2017  <br/>WHIP factor  <br/>(percent)|WHIP+  <br/>factor  <br/>(percent)|
 |------------------------------------------------------------|--------------------------------------|----------------------------------|
@@ -66,4 +64,4 @@ Table 1 to § 760.1511(b)
 
 (h) Production from all end uses of a multi-use crop will be calculated separately and summarized together.
 
-[83 FR 33801, July 18, 2018, as amended 84 FR 48530, Sept. 13, 2019]
+[83 FR 33801, July 18, 2018, as amended 84 FR 48530, Sept. 13, 2019; 86 FR 446, Jan. 6, 2021]

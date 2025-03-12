@@ -1,5 +1,7 @@
 ##### § 431.442 Definitions. #####
 
+Link to an amendment published at 86 FR 23, Jan. 4, 2021.
+
 The following definitions are applicable to this subpart:
 
 *Alternative efficiency determination method,* or AEDM, means, with respect to a small electric motor, a method of calculating the total power loss and average full-load efficiency.

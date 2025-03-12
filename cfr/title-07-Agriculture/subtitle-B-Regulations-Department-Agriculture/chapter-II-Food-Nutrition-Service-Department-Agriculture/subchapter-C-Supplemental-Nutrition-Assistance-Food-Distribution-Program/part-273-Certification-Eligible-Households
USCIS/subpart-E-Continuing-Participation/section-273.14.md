@@ -1,5 +1,7 @@
 ##### § 273.14 Recertification. #####
 
+Link to an amendment published at 86 FR 410, Jan. 5, 2021.
+
 (a) *General.* No household may participate beyond the expiration of the certification period assigned in accordance with § 273.10(f) without a determination of eligibility for a new period. The State agency must establish procedures for notifying households of expiration dates, providing application forms, scheduling interviews, and recertifying eligible households prior to the expiration of certification periods. Households must apply for recertification and comply with interview and verification requirements.
 
 (b) *Recertification process* - (1) *Notice of expiration.* (i) The State agency shall provide households certified for one month or certified in the second month of a two-month certification period a notice of expiration (NOE) at the time of certification. The State agency shall provide other households the NOE before the first day of the last month of the certification period, but not before the first day of the next-to-the-last month. Jointly processed PA and GA households need not receive a separate SNAP notice if they are recertified for SNAP benefits at the same time as their PA or GA redetermination.

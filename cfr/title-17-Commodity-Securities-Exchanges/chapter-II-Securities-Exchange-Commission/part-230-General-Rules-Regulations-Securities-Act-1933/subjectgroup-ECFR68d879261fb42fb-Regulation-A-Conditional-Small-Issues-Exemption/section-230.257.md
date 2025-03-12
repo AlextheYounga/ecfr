@@ -1,7 +1,5 @@
 ##### § 230.257 Periodic and current reporting; exit report. #####
 
-Link to an amendment published at 85 FR 22004, Apr. 20, 2020.
-
 (a) *Tier 1: Exit report.* Each issuer that has filed an offering statement for a Tier 1 offering that has been qualified pursuant to this Regulation A must file an exit report on Form 1-Z (§ 239.94 of this chapter) not later than 30 calendar days after the termination or completion of the offering.
 
 (b) *Tier 2: Periodic and current reporting.* Each issuer that has filed an offering statement for a Tier 2 offering that has been qualified pursuant to this Regulation A must file with the Commission the following periodic and current reports:
@@ -25,6 +23,8 @@ Link to an amendment published at 85 FR 22004, Apr. 20, 2020.
 (5) *Reporting by successor issuers.* Where in connection with a succession by merger, consolidation, exchange of securities, acquisition of assets or otherwise, securities of any issuer that is not required to file reports pursuant to paragraph (b) of this section are issued to the holders of any class of securities of another issuer that is required to file such reports, the duty to file reports pursuant to paragraph (b) of this section shall be deemed to have been assumed by the issuer of the class of securities so issued. The successor issuer must, after the consummation of the succession, file reports in accordance with paragraph (b) of this section, unless that issuer is exempt from filing such reports or the duty to file such reports is terminated or suspended under paragraph (d) of this section.
 
 (6) *Exchange Act reporting requirements.* The duty to file reports under this rule shall be deemed to have been met if the issuer is subject to the reporting requirements of Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 15 U.S.C. 78o) and, as of each Form 1-K and Form 1-SA due date, has filed all reports required to be filed by Section 13 or 15(d) of the Exchange Act (15 U.S.C. 78m or 15 U.S.C. 78o) during the 12 months (or such shorter period that the registrant was required to file such reports) preceding such due date.
+
+(7) *Exemption for subsidiary issuers of guaranteed securities and subsidiary guarantors.* Any issuer of a guaranteed security, or guarantor of a security, that is permitted to omit financial statements by Item (b)(7)(i) of Part F/S of Form 1-A (referenced in § 239.90), Item 7(g)(1) of Part II of Form 1-K (referenced in § 239.91), and Item 3(e) of Form 1-SA (referenced in § 239.92), is exempt from the requirements of this paragraph (b).
 
 (c) *Amendments.* All amendments to the reports described in paragraphs (a) and (b) of this section must be filed under cover of the form amended, marked with the letter *A* to designate the document as an amendment, e.g., “1-K/A,” and in compliance with pertinent requirements applicable to such reports. Amendments filed pursuant to this paragraph (c) must set forth the complete text of each item as amended, but need not include any items that were not amended. Amendments must be numbered sequentially and be filed separately for each report amended. Amendments must be signed on behalf of the issuer by a duly authorized representative of the issuer. An amendment to any report required to include certifications as specified in the applicable form must include new certifications by the appropriate persons.
 
@@ -54,4 +54,4 @@ Link to an amendment published at 85 FR 22004, Apr. 20, 2020.
 
 (2) Recommence with the report covering the most recent financial period after that included in any effective registration statement or filed Exchange Act report.
 
-[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 84 FR 529, Jan. 31, 2019; 85 FR 17751, Mar. 31, 2020]
+[80 FR 21895, Apr. 20, 2015, as amended at 82 FR 45725, Oct. 2, 2017; 83 FR 47836, Sept. 21, 2018; 83 FR 52964, Oct. 19, 2018; 84 FR 529, Jan. 31, 2019; 85 FR 17751, Mar. 31, 2020; 85 FR 22004, Apr. 20, 2020]

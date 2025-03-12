@@ -1,5 +1,7 @@
 ##### § 1.446-2 Method of accounting for interest. #####
 
+Link to an amendment published at 86 FR 836, Jan. 6, 2021.
+
 (a) *Applicability* - (1) *In general.* This section provides rules for determining the amount of interest that accrues during an accrual period (other than interest described in paragraph (a)(2) of this section) and for determining the portion of a payment that consists of accrued interest. For purposes of this section, interest includes original issue discount and amounts treated as interest (whether stated or unstated) in any lending or deferred payment transaction. Accrued interest determined under this section is taken into account by a taxpayer under the taxpayer's regular method of accounting (e.g., an accrual method or the cash receipts and disbursements method). Application of an exception described in paragraph (a)(2) of this section to one party to a transaction does not affect the application of this section to any other party to the transaction.
 
 (2) *Exceptions* - (i) *Interest included or deducted under certain other provisions.* This section does not apply to interest that is taken into account under -

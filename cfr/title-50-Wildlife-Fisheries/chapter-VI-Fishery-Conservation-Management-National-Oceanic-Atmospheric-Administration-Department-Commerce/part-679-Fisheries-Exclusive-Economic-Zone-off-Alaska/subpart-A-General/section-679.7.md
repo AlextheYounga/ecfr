@@ -1,7 +1,5 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 85 FR 78045, Dec. 3, 2020.
-
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
 (a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
@@ -182,29 +180,39 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (2) *Prohibited species.* Conduct any fishing contrary to a notification issued under § 679.21.
 
-(3) *Parallel fisheries.* Use a vessel named or required to be named on an FFP to catch and process Pacific cod from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*4*) of this part for hook-and-line gear or (a)(7)(ii)(A)(*6*) of this part for pot gear unless that vessel is designated on both:
+(3) *Parallel Pacific cod fisheries - participation requirements.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod from State of Alaska waters adjacent to the BSAI, when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*2*) through (*9*), unless:
 
-(i) An LLP license issued under § 679.4(k) of this part with the following endorsements:
+(i) That non-trawl vessel is designated on both:
 
-(A) A catcher/processor endorsement;
+(A) An LLP license issued under § 679.4(k), unless that vessel is using jig gear and exempt from the LLP license requirement under § 679.4(k)(2)(iii). Each vessel required to have an LLP license must be designated with the following endorsements:
 
-(B) A BSAI catcher/processor Pacific cod hook-and-line, or a BSAI catcher/processor Pacific cod pot endorsement;
+(*1*) The BSAI area endorsement for the BSAI area adjacent to the parallel fishery where the harvest occurred; and
 
-(C) An Aleutian Islands area endorsement or Bering Sea area endorsement; and
+(*2*) A BSAI catcher/processor Pacific cod hook-and-line endorsement, a BSAI catcher/processor Pacific cod pot endorsement, or a BSAI Pacific cod catcher vessel endorsement if that catcher vessel is 60 feet or greater length overall; and
 
-(D) A non-trawl endorsement; and
+(B) An FFP issued under § 679.4(b) with the following endorsements:
 
-(ii) An FFP issued under § 679.4(b) of this part with the following endorsements:
+(*1*) A catcher/processor or catcher vessel operation type endorsement;
 
-(A) A catcher/processor endorsement;
+(*2*) A BSAI area endorsement; and
 
-(B) A BSAI endorsement; and
+(*3*) A pot or hook-and-line gear type endorsement.
 
-(C) A pot or hook-and-line gear type endorsement.
+(ii) Or, that trawl vessel is designated on both:
 
-(4) *Parallel fishery closures.* (i) Use a vessel named or required to be named on an FFP to catch and process Pacific cod with pot gear from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*6*) of this part for pot gear if the BSAI is open to directed fishing for Pacific cod but is not open to directed fishing for Pacific cod by a catcher/processor using pot gear.
+(A) An LLP license issued under § 679.4(k) endorsed for trawl gear with the BSAI area endorsement for the BSAI area adjacent to the parallel fishery where the harvest occurred; and
 
-(ii) Use a vessel named or required to be named on an FFP, to catch and process Pacific cod with hook-and-line gear from waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*4*) of this part for hook-and-line gear, if the BSAI is open to directed fishing for Pacific cod but is not open to directed fishing for Pacific cod by a catcher/processor using hook-and-line gear.
+(B) An FFP issued under § 679.4(b) with the following endorsements:
+
+(*1*) The BSAI area endorsement;
+
+(*2*) An operational type endorsement;
+
+(*3*) A trawl gear type endorsement; and
+
+(*4*) A Pacific cod gear type endorsement.
+
+(4) *Parallel Pacific cod fisheries - closures.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod with trawl, pot, or hook-and-line gear from State of Alaska waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A) for trawl, pot, or hook-and-line gear, if directed fishing for Pacific cod is not open for the sector to which the vessel belongs in Federal waters.
 
 (5) Conduct directed fishing for flatfish as defined in § 679.2 with a vessel required to be federally permitted in any reporting area of the Bering Sea subarea as described in Figure 1 to this part without meeting the requirements for modified nonpelagic trawl gear specified in § 679.24(f).
 

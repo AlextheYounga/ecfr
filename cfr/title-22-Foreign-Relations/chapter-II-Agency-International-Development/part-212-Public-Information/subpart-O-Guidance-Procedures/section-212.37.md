@@ -1,0 +1,3 @@
+##### § 212.37 Exigent circumstances. #####
+
+In emergency situations, or when a statutory deadline or court order requires the issuing B/IO within USAID to act more quickly than normal review procedures allow, the issuing B/IO shall coordinate with the Bureau for Management to notify OMB/OIRA as soon as possible and, to the extent practicable, shall comply with the requirements of this subpart at the earliest opportunity. Wherever practicable, the issuing B/IO should schedule its proceedings to permit sufficient time to comply with the procedures set forth in this subpart.

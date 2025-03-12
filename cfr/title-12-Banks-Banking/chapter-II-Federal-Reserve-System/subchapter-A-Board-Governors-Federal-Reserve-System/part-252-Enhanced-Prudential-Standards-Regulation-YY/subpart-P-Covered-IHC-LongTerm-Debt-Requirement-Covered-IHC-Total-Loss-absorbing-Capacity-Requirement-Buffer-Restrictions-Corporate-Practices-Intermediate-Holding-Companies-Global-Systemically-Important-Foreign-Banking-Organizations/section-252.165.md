@@ -1,5 +1,7 @@
 ##### § 252.165 Covered IHC total loss-absorbing capacity requirement and buffer. #####
 
+Link to an amendment published at 86 FR 738, Jan. 6, 2021.
+
 (a) *Covered IHC total loss-absorbing capacity requirement for a resolution Covered IHC.* A resolution Covered IHC must have an outstanding Covered IHC total loss-absorbing capacity amount that is no less than the amount equal to the greatest of:
 
 (1) 18 percent of the resolution Covered IHC's total risk-weighted assets;

@@ -1,7 +1,5 @@
 ##### § 622.1 Purpose and scope. #####
 
-Link to an amendment published at 85 FR 10339, Feb. 24, 2020.This amendment delayed until Jan. 4, 2021 at 85 FR 47917, Aug. 7, 2020.
-
 (a) The purpose of this part is to implement the FMPs prepared under the Magnuson-Stevens Act by the CFMC, GMFMC, and/or SAFMC listed in Table 1 of this section.
 
 (b) This part governs conservation and management of species included in the FMPs in or from the Caribbean, Gulf, Mid-Atlantic, South Atlantic, or Atlantic EEZ, unless otherwise specified, as indicated in Table 1 of this section. For the FMPs noted in the following table, conservation and management extends to adjoining state waters for the purposes of data collection and monitoring.
@@ -18,7 +16,7 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 |        FMP for Coral, Coral Reefs, and Live/Hard Bottom Habitats of the South Atlantic Region        |                        SAFMC                        |                         South Atlantic.<sup>5</sup>                         |
 |                         FMP for Coral and Coral reefs of the Gulf of Mexico                          |                        GMFMC                        |                                    Gulf.                                    |
 |FMP for Corals and Reef Associated Plants and Invertebrates of Puerto Rico and the U.S. Virgin Islands|                        CFMC                         |                                 Caribbean.                                  |
-|                    FMP for the Dolphin and Wahoo Fishery off the Atlantic States                     |                        SAFMC                        |                                  Atlantic.                                  |
+|                        FMP for the Dolphin and Wahoo Fishery of the Atlantic                         |                        SAFMC                        |                                  Atlantic.                                  |
 |                     FMP for the Golden Crab Fishery of the South Atlantic Region                     |                        SAFMC                        |                               South Atlantic.                               |
 |                    FMP for Pelagic Sargassum Habitat of the South Atlantic Region                    |                        SAFMC                        |                               South Atlantic.                               |
 |               FMP for Queen Conch Resources of Puerto Rico and the U.S. Virgin Islands               |                        CFMC                         |                                 Caribbean.                                  |
@@ -52,4 +50,4 @@ Table 1 to § 622.1 - FMPs Implemented Under Part 622
 
 <sup>10</sup> Certain provisions for the management of the private angling component of recreational red snapper in the Gulf EEZ have been delegated to the Gulf states, as specified in § 622.23.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017; 84 FR 4736, Feb. 19, 2019; 85 FR 6823, Feb. 6, 2020]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 78775, Dec. 27, 2013; 81 FR 1792, Jan. 13, 2016; 82 FR 34580, 34594 July 25, 2017; 82 FR 40075, Aug. 24, 2017; 84 FR 4736, Feb. 19, 2019; 85 FR 6823, Feb. 6, 2020; 85 FR 10339, Feb. 24, 2020]

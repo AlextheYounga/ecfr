@@ -1,0 +1,3 @@
+##### § 1.1 Scope. #####
+
+This part shall apply to guidance documents issued by all components of the Department, until the Secretary amends the Food and Drug Administration's good guidance regulations at 21 CFR 10.115 to bring them into conformance with the requirements of this part, at which point, such amended regulations shall apply to the Food and Drug Administration's issuance and use of guidance documents.

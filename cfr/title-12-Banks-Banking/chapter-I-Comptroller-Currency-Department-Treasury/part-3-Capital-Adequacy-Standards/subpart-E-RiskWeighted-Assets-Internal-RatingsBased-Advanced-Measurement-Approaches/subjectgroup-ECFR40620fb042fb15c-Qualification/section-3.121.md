@@ -1,5 +1,7 @@
 ##### § 3.121 Qualification process. #####
 
+Link to an amendment published at 86 FR 731, Jan. 6, 2021.
+
 (a) *Timing.* (1) A national bank or Federal savings association that is described in § 3.100(b)(1)(i) through (iv) must adopt a written implementation plan no later than six months after the date the national bank or Federal savings association meets a criterion in that section. The implementation plan must incorporate an explicit start date no later than 36 months after the date the national bank or Federal savings association meets at least one criterion under § 3.100(b)(1)(i) through (iv). The OCC may extend the start date.
 
 (2) A national bank or Federal savings association that elects to be subject to this appendix under § 3.100(b)(1)(v) must adopt a written implementation plan.

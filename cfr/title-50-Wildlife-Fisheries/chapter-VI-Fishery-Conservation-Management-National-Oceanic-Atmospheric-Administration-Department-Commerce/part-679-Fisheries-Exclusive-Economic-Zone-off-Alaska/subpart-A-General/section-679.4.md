@@ -1,7 +1,5 @@
 ##### § 679.4 Permits. #####
 
-Link to an amendment published at 85 FR 78045, Dec. 3, 2020.
-
 (a) *Requirements.* Only persons who are U.S. citizens are authorized to receive or hold permits under this section, with the exception that an IFQ hired master permit or a CDQ hired master permit need not be held by a U.S. citizen.
 
 (1) *What permits are available?* Various types of permits are issued for programs codified at 50 CFR parts 300 and 679. These permits are listed in the following table. The date of effectiveness for each permit is given along with certain reference paragraphs for further information.
@@ -96,11 +94,11 @@ Link to an amendment published at 85 FR 78045, Dec. 3, 2020.
 
 (2) *Vessel operations categories.* An FFP authorizes a vessel owner or authorized representative to deploy a vessel to conduct operations in the GOA or BSAI under the following categories: Catcher vessel, catcher/processor, mothership, tender vessel, or support vessel. A vessel may not be operated in a category other than as specified on the FFP, except that a catcher vessel, catcher/processor, mothership, or tender vessel may be operated as a support vessel.
 
-(3) *Duration* - (i) *Length of permit effectiveness.* An FFP is in effect from the effective date through the expiration date, unless it is revoked, suspended, surrendered in accordance with paragraph (a)(9) of this section, or modified under § 600.735 or § 600.740 of this chapter.
+(3) *Duration* - (i) *Length of permit effectiveness.* NMFS issues FFPs on a three-year cycle and an FFP is in effect from the effective date through the expiration date, as indicated on the FFP, unless the FFP is revoked, suspended, surrendered in accordance with paragraph (a)(9) of this section, or modified under § 600.735 or § 600.740 of this chapter.
 
 (ii) *Surrendered permit* - (A) An FFP may be voluntarily surrendered in accordance with paragraph (a)(9) of this section. Except as provided under paragraphs (b)(3)(ii)(B) and (C) of this section, if surrendered, an FFP may be reissued in the same fishing year in which it was surrendered.
 
-(B) For the BSAI, NMFS will not reissue a surrendered FFP to the owner or authorized representative of a vessel named on an FFP that has been issued with the following combination of endorsements: Catcher/processor vessel operation type, pot and/or hook-and-line gear type, and the BSAI area, until after the expiration date of the surrendered FFP.
+(B) For the BSAI, NMFS will not reissue a surrendered FFP to the owner or authorized representative of a vessel named on an FFP that has been issued with endorsements for catcher/processor or catcher vessel operation type; trawl, pot, and/or hook-and-line gear type; and the BSAI area, until after the expiration date of the surrendered FFP as initially issued.
 
 (C) For the GOA, NMFS will not reissue a surrendered FFP to the owner or authorized representative of a vessel named on an FFP that has been issued a GOA area endorsement and any combination of endorsements for catcher/processor operation type, catcher vessel operation type, trawl gear type, hook-and-line gear type, pot gear type, and/or jig gear type, until after the expiration date of the surrendered FFP.
 
@@ -108,7 +106,7 @@ Link to an amendment published at 85 FR 78045, Dec. 3, 2020.
 
 (iii) *Amended permit* - (A) An owner or authorized representative who applied for and received an FFP, must notify NMFS of any change in the permit information by submitting an FFP application found at the NMFS Web site at *http://alaskafisheries.noaa.gov.* The owner or authorized representative must submit the application form as instructed on the form. Except as provided under paragraphs (b)(3)(iii)(B) and (C) of this section, upon receipt and approval of an application form for permit amendment, NMFS will issue an amended FFP.
 
-(B) In the BSAI, NMFS will not approve an application to amend an FFP to remove a catcher/processor vessel operation endorsement, pot gear type endorsement, hook-and-line gear type endorsement, or BSAI area endorsement from an FFP that has been issued with endorsements for catcher/processor operation type, pot or hook-and-line gear type, and the BSAI area.
+(B) In the BSAI, NMFS will not approve an application to amend an FFP to remove a catcher/processor or catcher vessel operation type endorsement, trawl gear type endorsement, pot gear type endorsement, hook-and-line gear type endorsement, or BSAI area endorsement from an FFP that has been issued with endorsements for catcher/processor or catcher vessel operation type, trawl, pot, or hook-and-line gear type, and the BSAI area.
 
 (C) In the GOA, NMFS will not approve an application to amend an FFP to remove endorsements for catcher/processor operation type, catcher vessel operation type, trawl gear type, hook-and-line gear type, pot gear type, or jig gear type, and the GOA area.
 

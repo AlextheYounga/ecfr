@@ -1,0 +1,3 @@
+##### § 212.38 Reports to Congress and the Government Accountability Office. #####
+
+Unless otherwise determined in writing, it is the policy of USAID that upon issuing a guidance document determined to be “significant” within the meaning of § 212.31 the issuing B/IO shall submit a report to Congress and the Government Accountability Office in accordance with the procedures described in 5 U.S.C. 801 (the Congressional Review Act [CRA]). Under the CRA, USAID must coordinate with OMB/OIRA regarding a major determination for all guidance documents, irrespective of whether the Agency otherwise would submit a rule for regulatory review (Memorandum-19-14).

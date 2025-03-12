@@ -1,5 +1,7 @@
 ##### § 273.24 Time limit for able-bodied adults. #####
 
+Link to an amendment published at 86 FR 410, Jan. 5, 2021.
+
 (a) *Definitions.* For purposes of the SNAP time limit, the terms below have the following meanings:
 
 (1) *Fulfilling the work requirement* means:

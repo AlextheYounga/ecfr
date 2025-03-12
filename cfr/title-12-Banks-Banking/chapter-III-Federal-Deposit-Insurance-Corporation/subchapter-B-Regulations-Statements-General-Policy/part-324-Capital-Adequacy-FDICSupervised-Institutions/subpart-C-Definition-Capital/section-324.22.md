@@ -1,5 +1,7 @@
 ##### § 324.22 Regulatory capital adjustments and deductions. #####
 
+Link to an amendment published at 86 FR 742, Jan. 6, 2021.
+
 (a) *Regulatory capital deductions from common equity tier 1 capital.* An FDIC-supervised institution must deduct from the sum of its common equity tier 1 capital elements the items set forth in this paragraph (a):
 
 (1)(i) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section; and
