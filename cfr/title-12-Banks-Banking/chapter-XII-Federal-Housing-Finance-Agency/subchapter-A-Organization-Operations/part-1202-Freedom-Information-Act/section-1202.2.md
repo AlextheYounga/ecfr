@@ -1,6 +1,6 @@
 ##### § 1202.2 What do the terms in this part mean? #####
 
-Some of the terms you need to understand while reading this regulation are -
+Some of the terms you need to understand while reading this regulation are—
 
 *Aggregating* means combing multiple requests for documents that could reasonably have been the subject of a single request and which occur within a 30-day period, by a single requester or by a group of requesters acting in concert that would otherwise involve unusual circumstances.
 
@@ -12,9 +12,7 @@ Some of the terms you need to understand while reading this regulation are -
 
 *Days,* unless stated as “calendar days,” are working days and do not include Saturdays, Sundays, and Federal holidays. If the last day of any period prescribed herein falls on a Saturday, Sunday, or Federal holiday, the last day of the period will be the next working day that is not a Saturday, Sunday, or Federal holiday.
 
-*Discretionary release* means disclosure of records or information that would otherwise be exempt from disclosure under the FOIA.
-
-*Direct costs* means the expenses, including contract services and retrieving documents from the National Archives and Records Administration, incurred by FHFA, in searching for, reviewing and/or duplicating records to respond to a request for information. In the case of a commercial use request, the term also means those expenditures FHFA actually incurs in reviewing records to respond to the request. Direct costs include the cost of the time of the employee performing the work, the cost of any computer searches, and the cost of operating duplication equipment. Direct costs do not include overhead expenses such as costs of space, and heating or lighting the facility in which the records are stored.
+*Direct costs* means the expenses, including contract services and retrieving documents from at a Federal records center operated by the National Archives and Records Administration, incurred by FHFA, in searching for, reviewing and/or duplicating records to respond to a request for information. In the case of a commercial use request, the term also means those expenditures FHFA actually incurs in reviewing records to respond to the request. Direct costs include the cost of the time of the employee performing the work, the cost of any computer searches, and the cost of operating duplication equipment. Direct costs do not include overhead expenses such as costs of space, and heating or lighting the facility in which the records are stored.
 
 *Duplication* means reproducing a copy of a record, or of the information contained in it, necessary to respond to a FOIA request. Copies can take the form of paper, audiovisual materials, or electronic records, among others.
 
@@ -32,7 +30,7 @@ Some of the terms you need to understand while reading this regulation are -
 
 *Readily reproducible* means that the requested record or records exist in electronic format and can be downloaded or transferred intact to a computer disk, tape, or another electronic medium with equipment and software currently in use by FHFA.
 
-*Record* means information or documentary material FHFA maintains in any form or format, including electronic, which FHFA -
+*Record* means information or documentary material FHFA maintains in any form or format, including electronic, which FHFA—
 
 (1) Created or received under Federal law or in connection with the transaction of public business;
 
@@ -42,19 +40,19 @@ Some of the terms you need to understand while reading this regulation are -
 
 *Regulated entities* means the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, and the Federal Home Loan Banks.
 
-*Requester* means any person seeking access to FHFA records under the FOIA. A requester falls into one of three categories for the purpose of determining what fees may be charged. The *three* categories are -
+*Requester* means any person seeking access to FHFA records under the FOIA. A requester falls into one of three categories for the purpose of determining what fees may be charged. The *three* categories are—
 
-(1) *Commercial* - A request that asks for information for a use or a purpose that furthers a commercial, trade, or profit interest, which can include furthering those interests through litigation. A decision to place a requester in the commercial use category will be made on a case-by-case basis based on the requester's intended use of the information;
+(1) *Commercial*—A request that asks for information for a use or a purpose that furthers a commercial, trade, or profit interest, which can include furthering those interests through litigation. A decision to place a requester in the commercial use category will be made on a case-by-case basis based on the requester's intended use of the information;
 
-(2) *Noncommercial* - Three distinct subcategories -
+(2) *Noncommercial*—Three distinct subcategories—
 
-(i) *Educational institution* - Any school that operates a program of scholarly research. A requester in this fee category must show that the request is authorized by, and is made under the auspices of, an educational institution and that the records are not sought for a commercial use, but rather are sought to further scholarly research. To fall with this fee category, the request must serve the scholarly research goals of the institution rather than an individual research goal. A student who makes a request in furtherance of their coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request would qualify as part of this fee category;
+(i) *Educational institution*—Any school that operates a program of scholarly research. A requester in this fee category must show that the request is authorized by, and is made under the auspices of, an educational institution and that the records are not sought for a commercial use, but rather are sought to further scholarly research. To fall with this fee category, the request must serve the scholarly research goals of the institution rather than an individual research goal. A student who makes a request in furtherance of their coursework or other school-sponsored activities and provides a copy of a course syllabus or other reasonable documentation to indicate the research purpose for the request would qualify as part of this fee category;
 
-(ii) *Noncommercial scientific institution* - An institution that is not operated on a “commercial” basis, as defined in this section and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A request in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use; or
+(ii) *Noncommercial scientific institution*—An institution that is not operated on a “commercial” basis, as defined in this section and that is operated solely for the purpose of conducting scientific research the results of which are not intended to promote any particular product or industry. A request in this category must show that the request is authorized by and is made under the auspices of a qualifying institution and that the records are sought to further scientific research and are not for a commercial use; or
 
-(iii) *Representative of the news media* - Any person or entity that publishes or broadcasts news to the public, actively gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into distinct work, and distributes that work to an audience. The term “news” means information that is about current events or that would be of current interest to the public; and
+(iii) *Representative of the news media*—Any person or entity that publishes or broadcasts news to the public, actively gathers information of potential interest to a segment of the public, uses its editorial skills to turn the raw materials into distinct work, and distributes that work to an audience. The term “news” means information that is about current events or that would be of current interest to the public; and
 
-(3) *Other* - All requesters who do not fall within either of the preceding two categories.
+(3) *Other*—All requesters who do not fall within either of the preceding two categories.
 
 *Requester Service Centers* serve as the primary contacts for a requester when the requester has questions, is seeking information about how the FOIA works, or to check the status of their request.
 
@@ -64,10 +62,14 @@ Some of the terms you need to understand while reading this regulation are -
 
 *Submitter* means any person or entity providing confidential information to the Federal Government. The term “submitter” includes, but is not limited to corporations, state governments, and foreign governments.
 
-*Unusual circumstances* means the need to -
+*Unusual circumstances* means the need to—
 
 (1) Search for and collect records from agencies, offices, facilities, or locations that are separate from the office processing the request;
 
 (2) Search for, collect, and appropriately examine a voluminous amount of separate and distinct records in order to process a single request; or
 
 (3) Consult with another agency or among two or more components of the FHFA that have a substantial interest in the determination of a request.
+
+*Vaughn index* means an itemized index, used in litigation, correlating each withheld document (or portion) with a specific FOIA exemption and the relevant part of the agency's nondisclosure justification.
+
+[82 FR 13745, Mar. 15, 2017, as amended at 83 FR 5683, Feb. 9, 2018]

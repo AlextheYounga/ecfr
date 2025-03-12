@@ -10,8 +10,10 @@
 
 (e) *Describing the records you request.* You must describe the records that you seek in enough detail to enable FHFA to search for and locate the records with a reasonable amount of effort. Your request must include as much specific information as possible that you know about each record in your request, such as the date, title, name, author, recipient, subject matter, file designations, or the description of the record.
 
-(f) *How you want the records produced to you.* Your request must state in what form or format you want FHFA to furnish the releasable records, *e.g.,* hardcopy, electronic, etc.
+(f) *How you want the records produced to you.* Your request may state in what form or format you want FHFA to furnish the releasable records, *e.g.,* hardcopy, or electronic.
 
-(g) *Agreement to pay fees.* In your FOIA request you must agree to pay all applicable fees charged under § 1202.11 of this part, up to $100.00, unless you seek a fee waiver. When making a request, you may specify a higher or lower amount you will pay without consultation. Your inability to pay a fee does not justify granting a fee waiver. The fact that FHFA withholds all responsive documents or does not locate any documents responsive to your request, does not mean that you are not responsible for paying applicable fees. Your FOIA request will not be considered received by FHFA until your fee agreement, in writing, is received.
+(g) *Agreement to pay fees.* In your FOIA request you must acknowledge that you are aware of the applicable fees charged under § 1202.11, and specify an amount, if any, you are willing to pay without consultation. Your inability to pay a fee does not justify granting a fee waiver. The fact that FHFA withholds all responsive documents or does not locate any documents responsive to your request, does not mean that you are not responsible for paying applicable fees. Your FOIA request will not be considered received by FHFA until your acknowledgement of the applicable fees, in writing, is received. FHFA will notify a requester of any fees above $25.00.
 
 (h) *Valid requests.* FHFA will only process valid requests. A valid request must meet all the requirements of this part.
+
+[82 FR 13745, Mar. 15, 2017, as amended at 83 FR 5683, Feb. 9, 2018]

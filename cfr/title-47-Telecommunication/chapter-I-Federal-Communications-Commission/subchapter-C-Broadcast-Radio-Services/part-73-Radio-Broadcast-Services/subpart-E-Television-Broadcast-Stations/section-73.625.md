@@ -7,10 +7,6 @@
 |Channels 7-13 |43 dBu|
 |Channels 14-69|48 dBu|
 
-Note to paragraph (a)(1):
-
-These requirements above do not become effective until December 31, 2004 for commercial television licensees and December 31, 2005 for noncommercial television licensees. Prior to those dates, the following minimum F(50,90) field strength in dB above one uV/m must be provided over the entire principal community to be served:
-
 | Channels 2-6 |28 dBu|
 |:-------------|-----:|
 |Channels 7-13 |36 dBu|
@@ -66,4 +62,4 @@ A = 0.0277 square root of HWhere:A is the depression angle in degrees.H is the h
 
 (iv) The maximum ERP toward the radio horizon determined by this process must be clearly indicated. In addition, a tabulation of the relative fields representing the effective radiation pattern toward the radio horizon in the 36 radial directions must be submitted. A value of 1.0 should be used for the maximum radiation.
 
-[62 FR 26990, May 16, 1997, as amended at 63 FR 13562, Mar. 20, 1998; 66 FR 9985, Feb. 13, 2001; 66 FR 65135, Dec. 18, 2001]
+[62 FR 26990, May 16, 1997, as amended at 63 FR 13562, Mar. 20, 1998; 66 FR 9985, Feb. 13, 2001; 66 FR 65135, Dec. 18, 2001; 83 FR 5544, Feb. 8, 2018]

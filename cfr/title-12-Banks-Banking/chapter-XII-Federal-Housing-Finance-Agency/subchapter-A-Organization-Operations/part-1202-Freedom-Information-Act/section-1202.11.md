@@ -14,38 +14,60 @@
 
 1 Example of the rate formula is as follows: For 2016, EL-6 to EL-9 is [($55,769 + $63,554 + $71,816 + $81,152)/4][1/2088 hours per year][1.16 OMB markup factor] = $37.82 per hour.
 
-(d) *Notice of anticipated fees in excess of $100.00.* When FHFA determines or estimates that the fees chargeable to you will exceed $100.00, you will be notified of the actual or estimated amount of fees you will incur, unless you earlier indicated your willingness to pay fees as high as those anticipated. When you are notified that the actual or estimated fees exceed $100.00, your request will be tolled until you agree to pay, in writing, the anticipated total fee.
+(d) *Notice of anticipated fees in excess of $25.00.* When FHFA determines or estimates that the fees chargeable to you will exceed $25.00, you will be notified of the actual or estimated amount of fees you will incur, unless you earlier indicated your willingness to pay fees as high as those anticipated. When you are notified that the actual or estimated fees exceed $25.00, your request will be tolled until you agree to pay, in writing, the anticipated total fee.
 
-(e) *Advance payment of fees.* FHFA may request that you pay estimated fees or a deposit in advance of responding to your request. If FHFA requests advance payment or a deposit, your request will not be considered received by FHFA until the advance payment or deposit is received. FHFA will request advance payment or a deposit if -
+(e) *Advance payment of fees.* FHFA may request that you pay estimated fees or a deposit in advance of responding to your request. If FHFA requests advance payment or a deposit, your request will be tolled by FHFA until the advance payment or deposit is received. FHFA may request advance payment or a deposit if -
 
-(1) The fees are likely to exceed $500.00. FHFA will notify you of the likely cost and obtain from you satisfactory assurance of full payment if you have a history of prompt payment of FOIA fees to FHFA;
+(1) The fees are likely to exceed $250.00;
 
-(2) You do not have a history of payment, or if the estimate of fees exceeds $1,000.00, FHFA may require an advance payment of fees in an amount up to the full estimated charge that will be incurred;
+(2) You do not have a history of payment;
 
-(3) You previously failed to pay a fee to FHFA in a timely fashion, *i.e.,* within 30 calendar days of the date of a billing, FHFA may require you to make advance payment of the full amount of the fees anticipated before processing a new request or finishing processing of a pending request; or
+(3) You previously failed to pay a FOIA fee to FHFA in a timely fashion, *i.e.,* within 30 calendar days of the date of a billing; or
 
-(4) You have an outstanding balance due from a prior request. FHFA may require you to pay the full amount owed plus any applicable interest, as provided in paragraph (f) of this section, or demonstrate that the fee owed has been paid, as well as payment of the full amount of anticipated fees before processing your request.
+(4) You have an outstanding balance due from a prior request. FHFA will require you to pay the full amount owed plus any applicable interest, as provided in paragraph (f) of this section, or demonstrate that the fee owed has been paid, as well as payment of the full amount of anticipated fees before processing your request.
 
 (f) *Interest.* FHFA may charge you interest on an unpaid bill starting on the 31st calendar day following the day on which the bill was sent. Once a fee payment has been received by FHFA, even if not processed, FHFA will stay the accrual of interest. Interest charges will be assessed at the rate prescribed by 31 U.S.C. 3717 and will accrue from the date of the billing.
 
 (g) *FHFA assistance to reduce costs.* If FHFA notifies you of estimated fees exceeding $100.00 or requests advance payment or a deposit, you will have an opportunity to consult with FHFA FOIA staff to modify or reformulate your request to meet your needs at a lower cost.
 
-(h) *Fee waiver requests.* You may request a fee waiver in accordance with the FOIA and this regulation. Requests for a waiver of fees should be made at the time you submit your FOIA request. FHFA may grant your fee waiver request if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Federal Government and is not primarily in the commercial interest of the requester. In submitting a fee waiver request, you must address the following six factors -
+(h) *Fee waiver requests.* You may request a fee waiver in accordance with the FOIA and this regulation. Requests for a waiver of fees must be made in writing and should be made at the time you submit your FOIA request. However, your fee waiver may be submitted at a later time so long as the underlying record request is pending or on administrative appeal. FHFA may grant your fee waiver request or a reduction of fees if disclosure of the information is in the public interest because it is likely to contribute significantly to public understanding of the operations or activities of the Federal Government and is not primarily in your commercial interest. In submitting a fee waiver request, you must address the following six factors -
 
-(1) Whether the subject of the requested records concerns the operations or activities of the Federal Government;
+(1) Whether the subject of the requested records concerns the operations or activities of the Federal Government. The subject of the request must concern identifiable operations or activities of the Federal Government with a connection that is direct and clear, not remote or attenuated;
 
-(2) Whether the disclosure is likely to contribute to an understanding of Federal Government operations or activities;
+(2) Whether the disclosure is likely to contribute significantly to the public understanding of Federal Government operations or activities. This factor is satisfied when the following criteria are met:
 
-(3) Whether disclosure of the requested information will contribute to public understanding;
+(i) Disclosure of the requested information must be meaningfully informative about government operations or activities. The disclosure of information that already is in the public domain, in either the same or a substantially identical form, would not be meaningfully informative if nothing new would be added to the public's understanding; and
 
-(4) Whether the disclosure is likely to contribute significantly to public understanding of Federal Government operations or activities;
+(ii) The disclosure must contribute to the understanding of a reasonably broad audience of persons interested in the subject, as opposed to your individual understanding. Your expertise in the subject area as well as your ability and intention to effectively convey information to the public must be considered. FHFA will presume that a representative of the news media will satisfy this consideration.
 
-(5) Whether the requester has a commercial interest that would be furthered by the requested disclosure; and
+(3) The disclosure must not be primarily in your commercial interest. To determine whether disclosure of the requested information is primarily in your commercial interest FHFA will consider the following criteria:
 
-(6) Whether the magnitude of the identified commercial interest of the requester is sufficiently large, in comparison with the public interest in disclosure, that disclosure is primarily in the commercial interest of the requester.
+(i) FHFA will determine whether you have any commercial interest that would be furthered by the requested disclosure. A commercial interest includes any commercial, trade, or profit interest. You will be given an opportunity to provide explanatory information regarding this consideration; and
 
-(i) *Fee Waiver determination.* FHFA will notify you within 20 days of receipt of your request whether the fee waiver has been granted. A request for fee waiver that is denied may only be appealed when a final decision has been made on the initial FOIA request.
+(ii) If there is an identified commercial interest, FHFA will determine whether that is the primary interest furthered by the request.
 
-(j) *Restrictions on charging fees.* If FHFA fails to comply with the time limits in which to respond to a request, and if no unusual or exceptional circumstances, as those terms are defined by the FOIA, apply to the processing of the request, FHFA may not charge search fees, or in the instance of requests from requesters described in paragraph (b)(2) of this section, may not charge duplication fees. *See* 5 U.S.C. 552(a)(4)(A)(viii).
+(i) *Fee Waiver determination.* FHFA will notify you within 20 days of receipt of your request whether the fee waiver has been granted. Where only some of the records to be released satisfy the requirements for a waiver of fees, a waiver will be granted for those records. For those records that do not satisfy the requirements for a waiver of fees, you may be charged for those records. When you have committed to pay fees and subsequently ask for a waiver of those fees and that waiver is denied, you must pay any costs incurred up to the date the fee waiver request was received. A request for fee waiver that is denied may only be appealed when a final decision has been made on the initial FOIA request.
 
-(k) The FOIA Public Liaison or other FOIA contact is available to assist any requester in modifying or reformulating a request to meet the requester's needs at a lower cost.
+(j) *Restrictions on charging fees.* (1) When FHFA determines that you are an educational institution, non-commercial scientific institution, or representative of the news media, and the records are not sought for commercial use, FHFA will not charge search fees.
+
+(2)(i) If FHFA fails to comply with the FOIA's time limits in which to respond to your request, FHFA will not charge search fees, or, in the instances of requests from requesters described in paragraph (j)(1) of this section, will not charge duplication fees, except as described in paragraphs (j)(2)(ii) through (iv) of this section.
+
+(ii) If FHFA has determined that unusual circumstances as defined by the FOIA apply and FHFA has provided timely written notice to you in accordance with the FOIA, FHFA's failure to comply with the time limit will be excused for an additional 10 days.
+
+(iii) If FHFA determines that unusual circumstances, as defined by the FOIA, apply and more than 5,000 pages are necessary to respond to your request, FHFA may charge search fees, or, in the case of a requester described in paragraph (j)(1) of this section, may charge duplication fees, if the following steps are taken. FHFA must have provided timely written notice of unusual circumstances to you in accordance with the FOIA and FHFA must have discussed with you via written mail, email, or telephone (or made not less than three good-faith attempts to do so) how you could effectively limit the scope of your request in accordance with 5 U.S.C. 552(a)(6)(B)(ii). If this exception is satisfied, FHFA may charge all applicable fees incurred in the processing of the request.
+
+(iv) If a court has determined that exceptional circumstances exist, as defined by the FOIA, a failure to comply with the time limits shall be excused for the length of time provided by the court order.
+
+(3) No search or review fees will be charged for a quarter-hour period unless more than half of that period is required for search or review.
+
+(4) If you seek records for a commercial use, FHFA will provide without charge:
+
+(i) The first 100 pages of duplication (or the cost equivalent for other media); and
+
+(ii) The first two hours of search.
+
+(5) No fee will be charged when the total fee, after deducting the 100 free pages (or its cost equivalent) and the first two hours of search, is equal to or less than $25.00.
+
+(k) *Additional resource.* The FOIA Public Liaison or other FOIA contact is available to assist you in modifying or reformulating a request to meet your needs at a lower cost. FHFA will also notify you of the availability of OGIS to provide dispute resolution service.
+
+[82 FR 13745, Mar. 15, 2017, as amended at 83 FR 5684, Feb. 9, 2018]
