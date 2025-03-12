@@ -1,7 +1,5 @@
 ##### § 104.3 Contents of reports (52 U.S.C. 30104(b), 30114). #####
 
-Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
-
 (a) *Reporting of receipts.* Each report filed under § 104.1 shall disclose the total amount of receipts for the reporting period and for the calendar year (or for the election cycle, in the case of an authorized committee) and shall disclose the information set forth at paragraphs (a)(1) through (a)(4) of this section. The first report filed by a political committee shall also include all amounts received prior to becoming a political committee under § 100.5 of this chapter, even if such amounts were not received during the current reporting period.
 
 (1) *Cash on hand.* The amount of cash on hand at the beginning of the reporting period, including: currency; balance on deposit in banks, savings and loan institutions, and other depository institutions; traveler's checks owned by the committee; certificates of deposit, treasury bills and any other committee investments valued at cost.
@@ -68,9 +66,11 @@ Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
 
 (A) All loans to the committee, except loans made, guaranteed, or endorsed by a candidate to his or her authorized committee;
 
-(B) Loans made, guaranteed, or endorsed by a candidate to his or her authorized committee including loans derived from a bank loan to the candidate or from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other lines of credit described in 11 CFR 100.83 and 100.143; and
+(B) For each independent expenditure reported, the committee must also provide a statement which indicates whether such independent expenditure is in support of, or in opposition to a particular candidate, as well as the name of the candidate and the office sought by such candidate (including State and Congressional district, when applicable), and a certification, under penalty of perjury, as to whether such independent expenditure is made in cooperation, consultation or concert with, or at the request or suggestion of, any candidate or authorized committee or agent of such committee; and
 
-(C) Total loans;
+(C) For an independent expenditure that is made in support of or opposition to a presidential primary candidate and is publicly distributed or otherwise publicly disseminated in six or more states but does not refer to any particular state, the political committee must report the independent expenditure as a single expenditure - *i.e.,* without allocating it among states - and must indicate the state with the next upcoming presidential primary among those states where the independent expenditure is distributed, as specified in § 104.4(f)(2). The political committee must use memo text to indicate the states in which the communication is distributed.
+
+(D) The information required by paragraphs (b)(3)(vii)(A) through (C) of this section shall be reported on Schedule E as part of a report covering the reporting period in which the aggregate disbursements for any independent expenditure to any person exceed $200 per calendar year. Schedule E shall also include the total of all such expenditures of $200 or less made during the reporting period.
 
 (viii) For authorized committee(s) of Presidential candidates, federal funds received under chapters 95 and 96 of the Internal Revenue Code of 1954 (Title 26, United States Code);
 

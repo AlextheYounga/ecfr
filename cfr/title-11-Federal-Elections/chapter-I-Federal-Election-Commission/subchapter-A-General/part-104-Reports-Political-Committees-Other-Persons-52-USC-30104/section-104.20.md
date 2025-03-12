@@ -1,8 +1,6 @@
 ##### § 104.20 Reporting electioneering communications (52 U.S.C. 30104 (f)). #####
 
-Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
-
-(a) *Definitions* - (1) *Disclosure date* means:
+(a) *Definitions*—(1) *Disclosure date* means:
 
 (i) The first date on which an electioneering communication is publicly distributed provided that the person making the electioneering communication has made one or more disbursements, or has executed one or more contracts to make disbursements, for the direct costs of producing or airing one or more electioneering communications aggregating in excess of $10,000; or
 
@@ -32,18 +30,20 @@ Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
 
 (4) The amount of each disbursement, or amount obligated, of more than $200 during the period covered by the statement, the date the disbursement was made, or the contract was executed, and the identification of the person to whom that disbursement was made;
 
-(5) All clearly identified candidates referred to in the electioneering communication and the elections in which they are candidates;
+(5) All clearly identified candidates referred to in the electioneering communication and the elections in which they are candidates; and
 
-(6) The disclosure date, as defined in paragraph (a) of this section;
+(6) The disclosure date, as defined in paragraph (a) of this section.
 
-(7) If the disbursements were paid exclusively from a segregated bank account consisting of funds provided solely by persons other than national banks, corporations organized by authority of any law of Congress, or foreign nationals as defined in 11 CFR 110.20(a)(3), the name and address of each donor who donated an amount aggregating $1,000 or more to the segregated bank account, aggregating since the first day of the preceding calendar year.
+(7) If the election identified pursuant to paragraph (c)(5) of this section is a presidential primary election and the electioneering communication is publicly distributed or otherwise disseminated in six or more states but does not refer to any particular state, the electioneering communication shall be reported as a single communication, indicating the state with the next upcoming presidential primary among those states where the electioneering communication is distributed, and the states in which it constitutes an electioneering communication (as defined in 11 CFR 100.29(a)) shall be indicated in memo text.
 
-(8) If the disbursements were not paid exclusively from a segregated bank account described in paragraph (c)(7) of this section and were not made by a corporation or labor organization, the name and address of each donor who donated an amount aggregating $1,000 or more to the person making the disbursement, aggregating since the first day of the preceding calendar year.
+(8) If the disbursements were paid exclusively from a segregated bank account consisting of funds provided solely by persons other than national banks, corporations organized by authority of any law of Congress, or foreign nationals as defined in 11 CFR 110.20(a)(3), the name and address of each donor who donated an amount aggregating $1,000 or more to the segregated bank account, aggregating since the first day of the preceding calendar year.
 
-(9) If the disbursements were made by a corporation or labor organization and were not paid exclusively from a segregated bank account described in paragraph (c)(7) of this section, the name and address of each person who made a donation aggregating $1,000 or more to the corporation or labor organization, aggregating since the first day of the preceding calendar year, which was made for the purpose of furthering electioneering communications.
+(9) If the disbursements were not paid exclusively from a segregated bank account described in paragraph (c)(7) of this section and were not made by a corporation or labor organization, the name and address of each donor who donated an amount aggregating $1,000 or more to the person making the disbursement, aggregating since the first day of the preceding calendar year.
+
+(10) If the disbursements were made by a corporation or labor organization and were not paid exclusively from a segregated bank account described in paragraph (c)(7) of this section, the name and address of each person who made a donation aggregating $1,000 or more to the corporation or labor organization, aggregating since the first day of the preceding calendar year, which was made for the purpose of furthering electioneering communications.
 
 (d) *Recordkeeping.* All persons who make electioneering communications or who accept donations for the purpose of making electioneering communications must maintain records in accordance with 11 CFR 104.14.
 
 (e) *State waivers.* Statements of electioneering communications that must be filed with the Commission must also be filed with the Secretary of State of the appropriate State if the State has not obtained a waiver under 11 CFR 108.1(b).
 
-[68 FR 419, Jan. 3, 2003; 68 FR 5075, Jan. 31, 2003, as amended at 72 FR 72913, Dec. 26, 2007; 80 FR 62816, Oct. 21, 2014]
+[68 FR 419, Jan. 3, 2003; 68 FR 5075, Jan. 31, 2003, as amended at 72 FR 72913, Dec. 26, 2007; 80 FR 62816, Oct. 21, 2014; 83 FR 66595, Dec. 27, 2018]

@@ -1,7 +1,5 @@
 ##### § 109.10 How do political committees and other persons report independent expenditures? #####
 
-Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
-
 (a) Political committees, including political party committees, must report independent expenditures under 11 CFR 104.4.
 
 (b) Every person that is not a political committee and that makes independent expenditures aggregating in excess of $250 with respect to a given election in a calendar year shall file a verified statement or report on FEC Form 5 in accordance with 11 CFR 104.4(e) containing the information required by paragraph (e) of this section. Every person filing a report or statement under this section shall do so in accordance with the quarterly reporting schedule specified in 11 CFR 104.5(a)(1)(i) and (ii) and shall file a report or statement for any quarterly period during which any such independent expenditures that aggregate in excess of $250 are made and in any quarterly reporting period thereafter in which additional independent expenditures are made.
@@ -20,7 +18,7 @@ Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
 
 (iii) The amount, date, and purpose of each expenditure;
 
-(iv) A statement that indicates whether such expenditure was in support of, or in opposition to a candidate, together with the candidate's name and office sought;
+(iv) A statement that indicates whether such expenditure was in support of, or in opposition to a candidate, together with the candidate's name and office sought; if the expenditure meets the criteria set forth in 11 CFR 104.3(b)(3)(vii)(C), memo text must be used to indicate the states in which the communication is distributed, as prescribed in that section;
 
 (v) A verified certification under penalty of perjury as to whether such expenditure was made in cooperation, consultation, or concert with, or at the request or suggestion of a candidate, a candidate's authorized committee, or their agents, or a political party committee or its agents; and
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 66595, Dec. 27, 2018.
 
 (ii) For reports or statements filed by electronic mail, the person who made the independent expenditure shall certify, under penalty of perjury, the independence of the expenditure by typing the treasurer's name immediately following the certification required by paragraph (e)(1)(v) of this section.
 
-[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016]
+[68 FR 451, Jan. 3, 2003, as amended at 81 FR 34863, June 1, 2016; 83 FR 66595, Dec. 27, 2018]
