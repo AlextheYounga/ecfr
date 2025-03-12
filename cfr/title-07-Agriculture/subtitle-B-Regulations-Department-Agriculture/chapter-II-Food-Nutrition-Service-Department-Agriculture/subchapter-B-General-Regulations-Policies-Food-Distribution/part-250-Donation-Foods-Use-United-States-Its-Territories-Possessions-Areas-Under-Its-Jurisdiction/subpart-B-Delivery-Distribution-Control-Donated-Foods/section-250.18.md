@@ -8,4 +8,4 @@
 
 (d) *Other information.* The distributing agency must submit other information, as requested by FNS, in order to ensure compliance with requirements in this part. For example, FNS may require the distributing agency to submit information with respect to its assessment of the distribution charge, or to justify the efficiency and cost-effectiveness of its distribution system, in accordance with § 250.13(c) and (d).
 
-[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18927, May 1, 2018}
+[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18927, May 1, 2018]

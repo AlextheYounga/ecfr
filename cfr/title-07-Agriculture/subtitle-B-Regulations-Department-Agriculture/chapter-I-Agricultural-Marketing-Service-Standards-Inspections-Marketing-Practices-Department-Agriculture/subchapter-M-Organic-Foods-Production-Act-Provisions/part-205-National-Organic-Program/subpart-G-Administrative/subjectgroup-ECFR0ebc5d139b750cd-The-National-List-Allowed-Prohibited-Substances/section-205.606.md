@@ -1,5 +1,7 @@
 ##### § 205.606 Nonorganically produced agricultural products allowed as ingredients in or on processed products labeled as “organic.” #####
 
+Link to an amendment published at 84 FR 18136, Apr. 30, 2019.
+
 Only the following nonorganically produced agricultural products may be used as ingredients in or on processed products labeled as “organic,” only in accordance with any restrictions specified in this section, and only when the product is not commercially available in organic form.
 
 (a) Carnauba wax

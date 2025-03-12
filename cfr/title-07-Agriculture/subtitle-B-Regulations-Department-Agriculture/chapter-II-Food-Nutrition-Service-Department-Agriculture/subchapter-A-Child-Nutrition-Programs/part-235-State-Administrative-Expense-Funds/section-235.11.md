@@ -1,7 +1,5 @@
 ##### § 235.11 Other provisions. #####
 
-Link to an amendment published at 84 FR 6960, Mar. 1, 2019.
-
 (a) *State funds.* Expenditures of funds from State sources in any fiscal year for the administration of the National School Lunch Program, School Breakfast Program, Special Milk Program, Child and Adult Care Food Program shall not be less than that expended or obligated in fiscal year 1977. Failure of a State to maintain this level of funding will result in the total withdrawal of SAE funds. State agencies shall follow the provisions of 2 CFR part 200, subpart E and USDA implementing regulations 2 CFR part 400 and part 415 in identifying and documenting expenditures of funds from State revenues to meet the State funding requirement of this paragraph.
 
 (b) *Sanctions imposed.* (1) FNS may recover, withhold or cancel payment of up to one hundred (100) percent of the funds payable to a State agency under this part, whenever it is determined by FNS that the State agency has failed to comply with the requirements contained in this part and in parts 210, 215, 220 and 226 of this title and in part 250 of this title as it applies to the operation of the Food Distribution Program in schools and child and adult care institutions.
@@ -64,7 +62,7 @@ Link to an amendment published at 84 FR 6960, Mar. 1, 2019.
 
 (1) *Hiring standards for State directors of school nutrition programs.* Beginning July 1, 2015, newly hired State agency directors with responsibility for the administration of the National School Lunch Program under part 210 of this chapter and the School Breakfast Program under part 220 of this chapter must have:
 
-(i) Bachelor's degree with an academic major in areas including food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
+(i) Bachelor's degree, master's degree, or doctorate degree with an academic major in areas including food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
 
 (ii) Extensive relevant knowledge and experience in areas such as institutional food service operations, management, business, and/or nutrition education (experience in three or more of these areas highly recommended); and
 
@@ -72,7 +70,7 @@ Link to an amendment published at 84 FR 6960, Mar. 1, 2019.
 
 (iv) It is also strongly preferred that new hires possess:
 
-(A) Master's degree with an academic major in areas including food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
+(A) Both a bachelor's degree *and* a master's or doctorate degree with an academic major in areas including food and nutrition, food service management, dietetics, family and consumer sciences, nutrition education, culinary arts, business, or a related field;
 
 (B) At least five years of experience leading people in successfully accomplishing major multi-faceted projects related to child nutrition and/or institutional foodservice management; and
 

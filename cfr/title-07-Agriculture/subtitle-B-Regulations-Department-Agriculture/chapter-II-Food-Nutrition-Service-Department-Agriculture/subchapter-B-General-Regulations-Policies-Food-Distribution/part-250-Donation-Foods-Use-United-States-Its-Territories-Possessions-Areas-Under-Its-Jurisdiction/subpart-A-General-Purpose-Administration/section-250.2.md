@@ -215,4 +215,4 @@
 
 *Vendor* means a commercial food company from which the Department purchases foods for donation.
 
-[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18926, May 1, 2018}
+[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18926, May 1, 2018]

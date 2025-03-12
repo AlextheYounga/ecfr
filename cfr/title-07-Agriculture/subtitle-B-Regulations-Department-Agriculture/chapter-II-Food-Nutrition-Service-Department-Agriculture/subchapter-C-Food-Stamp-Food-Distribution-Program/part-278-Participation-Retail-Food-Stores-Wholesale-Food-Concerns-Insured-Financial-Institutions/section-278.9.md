@@ -8,7 +8,7 @@
 
 (d) The program changes of *Amendment 272* at § 278.5(a) (1) and (3) are effective upon publication of the amendment. Financial institutions must implement the provisions no later than April 21, 1986.
 
-(e) *Amendment No. 286.* The provisions for part 278 of *Amendment No. 286* were effective March 11, 1987 for purposes of submitting applications for authorization to accept food stamps. For all other purposes, the effective date was April 1, 1987.
+(e) *Amendment No. 286.* The provisions for part 278 of *Amendment No. 286* were effective March 11, 1987 for purposes of submitting applications for authorization to accept SNAP benefits. For all other purposes, the effective date was April 1, 1987.
 
 (f) *Amendment No. 280.* The provisions for part 271 and §§ 278.1(r) and 278.6(f) of No. 280 are effective retroactively to April 1, 1987. The provision for § 278.1(o) is effective May 22, 1987.
 

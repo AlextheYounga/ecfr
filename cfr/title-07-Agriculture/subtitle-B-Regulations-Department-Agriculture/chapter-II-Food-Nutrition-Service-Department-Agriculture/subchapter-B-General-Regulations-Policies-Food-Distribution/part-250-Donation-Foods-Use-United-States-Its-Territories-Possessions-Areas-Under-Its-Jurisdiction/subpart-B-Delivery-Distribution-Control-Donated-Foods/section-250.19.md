@@ -4,4 +4,4 @@
 
 (b) *Retention of records.* Records relating to requirements for donated foods must be retained for a period of three years from the close of the fiscal or school year to which they pertain. However, records pertaining to claims or audits that remain unresolved in this period of time must be retained until such actions have been resolved.
 
-[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18927, May 1, 2018}
+[81 FR 23100, Apr. 19, 2016, as amended at 83 FR 18927, May 1, 2018]

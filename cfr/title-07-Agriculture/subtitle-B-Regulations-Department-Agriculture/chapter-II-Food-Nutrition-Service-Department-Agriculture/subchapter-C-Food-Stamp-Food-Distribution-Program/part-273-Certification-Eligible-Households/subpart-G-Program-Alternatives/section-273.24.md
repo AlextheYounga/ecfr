@@ -76,9 +76,9 @@
 
 (iii) If the unfitness is not obvious, provides a statement from a physician, physician's assistant, nurse, nurse practitioner, designated representative of the physician's office, a licensed or certified psychologist, a social worker, or any other medical personnel the State agency determines appropriate, that he or she is physically or mentally unfit for employment.
 
-(3) Is a parent (natural, adoptive, or step) of a household member under age 18, even if the household member who is under 18 is not himself eligible for food stamps;
+(3) Is a parent (natural, adoptive, or step) of a household member under age 18, even if the household member who is under 18 is not himself eligible for SNAP benefits;
 
-(4) Is residing in a household where a household member is under age 18, even if the household member who is under 18 is not himself eligible for food stamps;
+(4) Is residing in a household where a household member is under age 18, even if the household member who is under 18 is not himself eligible for SNAP benefits;
 
 (5) Is otherwise exempt from work requirements under section 6(d)(2) of the Food and Nutrition Act of 2008, as implemented in regulations at § 273.7(b); or
 

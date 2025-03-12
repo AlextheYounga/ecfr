@@ -1,6 +1,6 @@
 ##### § 249.12 SFMNP costs. #####
 
-(a) *General* - (1) *Composition of allowable costs.* In general, a cost item will be deemed allowable if it is reasonable and necessary for SFMNP purposes and otherwise satisfies allowability criteria set forth in2 CFR part 200, subpart E, and USDA implementing regulations 2 CFR parts 400 and 415. SFMNP purposes include the administration and operation of the SFMNP. Allowable SFMNP costs may be classified as follows:
+(a) *General*—(1) *Composition of allowable costs.* In general, a cost item will be deemed allowable if it is reasonable and necessary for SFMNP purposes and otherwise satisfies allowability criteria set forth in 2 CFR part 200, subpart E, and USDA implementing regulations 2 CFR parts 400 and 415. SFMNP purposes include the administration and operation of the SFMNP. Allowable SFMNP costs may be classified as follows:
 
 (i) *Food costs and administrative costs.* Food costs are the costs of eligible foods provided to SFMNP participants. Administrative costs are the costs associated with providing SFMNP benefits and services to participants and generally administering the SFMNP. Specific examples of allowable administrative costs are listed in paragraph (b) of this section. A State agency may use up to 10 percent of its total Federal SFMNP grant to cover administrative costs. Any costs incurred for food and/or administration above the Federal grant level will be the State agency's responsibility.
 

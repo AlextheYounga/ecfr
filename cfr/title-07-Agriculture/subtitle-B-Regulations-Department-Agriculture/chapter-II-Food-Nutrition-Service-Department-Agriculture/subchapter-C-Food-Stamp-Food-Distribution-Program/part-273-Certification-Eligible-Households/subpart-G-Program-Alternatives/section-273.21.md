@@ -48,7 +48,7 @@
 
 (2) *Retrospective eligibility.* The State agency shall determine eligibility by considering all factors of eligibility retrospectively using the appropriate budget month except for residency and compliance with the requirements regarding social security numbers. Compliance with work registration provisions shall be considered as of the issuance month or month of application. The 60-day time frame for determining the applicability of the voluntary quit provision of § 273.7(n) shall be measured by the State agency from the date of application.
 
-(f) *Calculating allotments for households following the beginning months* - (1) *Household composition.* (i) If eligibility is determined retrospectively the State agency shall determine the household's composition as of the last day of the budget month.
+(f) *Calculating allotments for households following the beginning months*—(1) *Household composition.* (i) If eligibility is determined retrospectively the State agency shall determine the household's composition as of the last day of the budget month.
 
 (ii) If eligibility is determined prospectively (during the beginning months or for households processed under paragraph (e)(1) of this section), the State agency shall determine the household's composition as of the issuance month.
 
@@ -96,7 +96,7 @@
 
 (3) *The first months of retrospective budgeting following the beginning months.* The State agency shall begin to base issuances to the household on retrospective budgeting during the first month for which the State's system can use the month of application as a budget month. In a one-month system, the first month for which the issuance is based on retrospective budgeting shall be the second month of participation. In a two-month system, the first month for which the issuance is based on retrospective budgeting shall be the third month of participation. If the State agency had been averaging income or converting weekly or biweekly income to a monthly amount in the beginning months, it may begin using the household's actual budget month income when the household becomes subject to retrospective budgeting. For purposes of this paragraph, any income received in either or both of the beginning months from a source which no longer provides income to the household (terminated income), which was included in the household's prospective budget, shall be disregarded when the beginning month becomes the budget month.
 
-(h) *The monthly report form* - (1) *General.* (i) The State agency shall give the household a reasonable period of time after close of the budget month to submit the monthly reports.
+(h) *The monthly report form*—(1) *General.* (i) The State agency shall give the household a reasonable period of time after close of the budget month to submit the monthly reports.
 
 (ii) The State agency shall require each household in the MRRB system to report on household circumstances on a monthly basis as a condition of continuing eligibility.
 
@@ -128,7 +128,7 @@
 
 (i) *Verification.* Each month the household shall verify information for those items designated by the State agency. The State agency may designate that verification be submitted for any item that has changed or appears questionable. If the household voluntarily reports a change in its medical expenses, the State agency shall verify the change in accordance with § 273.2(f)(8)(ii) before acting on it if the change would increase the household's allotment. In the case of a reported change that would decrease the household's allotment, or make the household ineligible, the State agency shall act on the change without requiring verification, though verification which is required by § 273.2(f)(8)(i) shall be obtained prior to the household's recertification.
 
-(j) *State agency action on reports* - (1) *Processing.* Upon receiving a monthly report, the State agency shall:
+(j) *State agency action on reports*—(1) *Processing.* Upon receiving a monthly report, the State agency shall:
 
 (i) Review the report to ensure accuracy and completeness.
 
@@ -208,7 +208,7 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (E) If the household does not report or verify changes in child support, the State agency shall not allow a child support deduction.
 
-(k) *Issuance of benefits* - (1) *Timely issuance.* (i) For an eligible household which has filed a complete monthly report by the scheduled filing date, the State agency shall provide an opportunity to participate within the month following the budget month in a one-month system, or within the second month following the budget month in a two-month system.
+(k) *Issuance of benefits*—(1) *Timely issuance.* (i) For an eligible household which has filed a complete monthly report by the scheduled filing date, the State agency shall provide an opportunity to participate within the month following the budget month in a one-month system, or within the second month following the budget month in a two-month system.
 
 (ii) The State agency shall provide each household with an issuance cycle so that the household receives its benefits at about the same time each month and has an opportunity to participate before the end of each issuance month.
 
@@ -218,13 +218,13 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (iii) If an eligible household files a complete report after the issuance month, the State agency shall not provide the household with an opportunity to participate for that month.
 
-(l) *Other reporting requirements* - (1) *Information reported on the monthly report.* The monthly report shall be the sole reporting requirement for information required to be included in the monthly report. Changes in household circumstances not subject to monthly reporting shall be reported in accordance with § 273.12.
+(l) *Other reporting requirements*—(1) *Information reported on the monthly report.* The monthly report shall be the sole reporting requirement for information required to be included in the monthly report. Changes in household circumstances not subject to monthly reporting shall be reported in accordance with § 273.12.
 
 (2) *Households excluded from monthly reporting.* Households which are excluded from monthly reporting shall report changes in accordance with § 273.12.
 
 (m) *Termination.* (1) The State agency shall terminate a household's SNAP participation if the household:
 
-(i) Is ineligible for food stamps, unless suspended in accordance with paragraph (n) of this section:
+(i) Is ineligible for SNAP benefits, unless suspended in accordance with paragraph (n) of this section:
 
 (ii) Fails to file a complete report by the extended filing date; or
 
@@ -254,7 +254,7 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (o) If a household has been terminated or suspended based on an anticipated change in circumstances, the State agency shall not count any noncontinuing circumstances which caused the prospective ineligibility when calculating the household's benefits retrospectively in a subsequent month.
 
-(p) *Fair hearings* - (1) *Entitlement.* All households participating in a MRRB system shall be entitled to fair hearings in accordance with § 273.15.
+(p) *Fair hearings*—(1) *Entitlement.* All households participating in a MRRB system shall be entitled to fair hearings in accordance with § 273.15.
 
 (2) *Continuation of benefits.* (i) Any household which requests a fair hearing and does not waive continuation of benefits, and is otherwise eligible for continuation of benefits, shall have its benefits continued until the end of the certification period or the resolution of the fair hearing, whichever is first. If the State agency did not receive a monthly report from the household by the extended filing date and the household states that a monthly report was submitted, the household is entitled to continued benefits, *provided* That a completed report is submitted no later than the last day of the issuance month.
 
@@ -264,7 +264,7 @@ A State agency which elects to use the PA grant to be paid in the issuance month
 
 (iv) During the fair hearing period the State agency shall adjust allotments to take into account reported changes, except for the factor(s) on which the fair hearing is based.
 
-(q) *Recertification* - (1) *Timeliness.* The State agency shall recertify an eligible household which timely reapplies and provides it with an opportunity to participate in the household's normal issuance cycle.
+(q) *Recertification*—(1) *Timeliness.* The State agency shall recertify an eligible household which timely reapplies and provides it with an opportunity to participate in the household's normal issuance cycle.
 
 (2) *Retrospective Recertification.* (i) The State agency shall recertify the household using retrospective information to determine the household's benefit level for the first month of the new certification period.
 

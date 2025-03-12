@@ -1,5 +1,7 @@
 ##### § 205.603 Synthetic substances allowed for use in organic livestock production. #####
 
+Link to an amendment published at 84 FR 18136, Apr. 30, 2019.
+
 In accordance with restrictions specified in this section the following synthetic substances may be used in organic livestock production:
 
 (a) As disinfectants, sanitizer, and medical treatments as applicable.

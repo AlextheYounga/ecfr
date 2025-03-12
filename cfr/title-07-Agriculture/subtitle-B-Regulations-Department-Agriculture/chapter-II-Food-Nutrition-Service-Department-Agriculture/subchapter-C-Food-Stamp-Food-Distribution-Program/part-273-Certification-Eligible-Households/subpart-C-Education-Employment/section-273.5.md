@@ -18,7 +18,7 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (6) Be participating in a State or federally financed work study program during the regular school year.
 
-(i) To qualify under this provision, the student must be approved for work study at the time of application for food stamps, the work study must be approved for the school term, and the student must anticipate actually working during that time. The exemption shall begin with the month in which the school term begins or the month work study is approved, whichever is later. Once begun, the exemption shall continue until the end of the month in which the school term ends, or it becomes known that the student has refused an assignment.
+(i) To qualify under this provision, the student must be approved for work study at the time of application for SNAP benefits, the work study must be approved for the school term, and the student must anticipate actually working during that time. The exemption shall begin with the month in which the school term begins or the month work study is approved, whichever is later. Once begun, the exemption shall continue until the end of the month in which the school term ends, or it becomes known that the student has refused an assignment.
 
 (ii) The exemption shall not continue between terms when there is a break of a full month or longer unless the student is participating in work study during the break.
 
@@ -30,7 +30,7 @@ Link to an amendment published at 84 FR 15094, Apr. 15, 2019.
 
 (10) Be a single parent enrolled in an institution of higher education on a full-time basis (as determined by the institution) and be responsible for the care of a dependent child under age 12.
 
-(i) This provision applies in those situations where only one natural, adoptive or stepparent (regardless of marital status) is in the same food stamp household as the child.
+(i) This provision applies in those situations where only one natural, adoptive or stepparent (regardless of marital status) is in the same SNAP household as the child.
 
 (ii) If no natural, adoptive or stepparent is in the same SNAP household as the child, another full-time student in the same SNAP household as the child may qualify for eligible student status under this provision if he or she has parental control over the child and is not living with his or her spouse.
 
