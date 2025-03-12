@@ -1,5 +1,7 @@
 ##### § 3555.354 Loss claim procedures. #####
 
+Link to an amendment published at 84 FR 70887, Dec. 26, 2019.
+
 Rural Development may offer authorized lenders a web-based automated system to calculate, submit or update a loss claim request and/or future recovery subject to the requirements of § 3555.356. Manual paper loss claims may continue to be submitted by some lenders. Lenders must make a thorough review of all receipts and expenses prior to submitting a loss claim request. Supplemental adjustments to the initial claim may be considered, as provided by the Agency.
 
 (a) *Sold property.* For property that has been sold, the lender must submit a loss claim within 45 calendar days of the sale. Late claims made beyond this period of time may be rejected or reduced by Rural Development. Instructions and forms may be obtained from Rural Development.

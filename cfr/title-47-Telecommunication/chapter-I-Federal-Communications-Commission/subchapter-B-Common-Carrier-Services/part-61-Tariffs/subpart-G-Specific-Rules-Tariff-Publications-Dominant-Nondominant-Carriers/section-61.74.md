@@ -1,16 +1,16 @@
 ##### § 61.74 References to other instruments. #####
 
-Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
-
 (a) Except as otherwise provided in this and other sections of this part, no tariff publication filed with the Commission may make reference to any other tariff publication or to any other document or instrument.
 
-(b) Tariffs for end-on-end through services may reference the tariffs of other carriers participating in the offering.
+(b) Tariff publications filed by a carrier may reference other tariff publications filed by that carrier or its affiliates.
 
-(c) Tariffs may reference concurrences for the purpose of starting where rates or regulations applicable to a service not governed by the tariff may be found.
+(c) Tariffs for end-on-end through services may reference the tariffs of other carriers participating in the offering.
 
-(d) Tariffs may reference other FCC tariffs that are in effect and on file with the Commission for purposes of determining mileage, or specifying the operating centers at which a specific service is available.
+(d) Tariffs may reference concurrences for the purpose of starting where rates or regulations applicable to a service not governed by the tariff may be found.
 
-(e) Tariffs may reference technical publications which describe the engineering, specifications, or other technical aspects of a service offering, provided the following conditions are satisfied:
+(e) Tariffs may reference other FCC tariffs that are in effect and on file with the Commission for purposes of determining mileage, or specifying the operating centers at which a specific service is available.
+
+(f) Tariffs may reference technical publications which describe the engineering, specifications, or other technical aspects of a service offering, provided the following conditions are satisfied:
 
 (1) The tariff must contain a general description of the service offering, including basic parameters and structural elements of the offering;
 
@@ -22,4 +22,4 @@ Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
 
 (5) The issuing carrier regularly revises its tariff to refer to the current edition of the referenced technical publication.
 
-[49 FR 40869, Oct. 18, 1984, as amended at 61 FR 59366, Nov. 22, 1996; 64 FR 46592, Aug. 26, 1999; 66 FR 16881, Mar. 28, 2001]
+[49 FR 40869, Oct. 18, 1984, as amended at 61 FR 59366, Nov. 22, 1996; 64 FR 46592, Aug. 26, 1999; 66 FR 16881, Mar. 28, 2001; 84 FR 65016, Nov. 26, 2019]

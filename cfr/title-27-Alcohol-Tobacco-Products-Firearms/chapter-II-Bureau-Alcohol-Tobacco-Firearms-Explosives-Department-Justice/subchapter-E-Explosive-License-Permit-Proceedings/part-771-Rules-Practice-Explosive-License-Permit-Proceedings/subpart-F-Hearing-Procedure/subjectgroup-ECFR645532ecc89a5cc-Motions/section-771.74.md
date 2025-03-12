@@ -1,0 +1,3 @@
+##### § 771.74 Prior to hearing. #####
+
+All motions that should be made prior to the hearing, such as a motion directed to the sufficiency of the pleadings or of preliminary orders, shall be filed in writing with the Director of Industry Operations or the administrative law judge if the matter has been referred to him, and shall briefly state the order or relief applied for and the grounds for such motion.

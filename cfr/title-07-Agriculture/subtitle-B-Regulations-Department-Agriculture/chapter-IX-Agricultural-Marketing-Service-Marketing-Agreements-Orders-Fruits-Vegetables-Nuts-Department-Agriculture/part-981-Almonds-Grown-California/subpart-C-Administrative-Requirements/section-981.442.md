@@ -1,7 +1,5 @@
 ##### § 981.442 Quality control. #####
 
-Link to an amendment published at 84 FR 64969, Nov. 26, 2019.
-
 (a) *Incoming.* Pursuant to § 981.42(a), the quantity of inedible kernels in each variety of almonds received by a handler, including almonds of his own production, shall be determined and disposed of in accordance with the provisions of this paragraph.
 
 (1) *Sampling.* Each handler shall cause a representative sample of almonds to be drawn from each lot of any variety received. The sample shall be drawn before inedible kernels are removed from the lot, or the lot is processed or stored by the handler. For receipts at premises with mechanical sampling equipment and under contracts providing for payment by the handler to the producer for sound meat content, samples shall be drawn by the handler in a manner acceptable to the Board and the inspection agency. The inspection agency shall make periodic checks of the mechanical sampling procedures. For all other receipts, including but not limited to field examination and purchase receipts, accumulations purchased for cash at the handler's door or from an accumulator, or almonds of the handler's own production, sampling shall be conducted or monitored by the inspection agency in a manner acceptable to the Board. All samples shall be bagged and identified in a manner acceptable to the Board and the inspection agency.
@@ -20,15 +18,21 @@ Link to an amendment published at 84 FR 64969, Nov. 26, 2019.
 
 (7) *Accepted Users.* An accepted user's eligibility shall be subject to the following criteria:
 
-(i) Completion of an application with the Board for accepted user status;
+(i) Annual completion of an application with the Board for accepted user status;
 
-(ii) Submission of a business data sheet to the Board; and
+(ii) Annual submission of a business data sheet to the Board;
 
-(iii) The accurate and prompt submission of ABC Form 8 Part B to the Board for each lot of almonds received, supported by a public weighmaster weight certificate issued at the request of the accepted user at the time of receipt.
+(iii) Annual submission of an Accepted User Plan (Form ABC 30) to the Board by July 31 of each year;
 
-(iv) The Board may deny or revoke accepted user status at any time if the applicant or accepted user fails to meet the terms and conditions of § 981.442, or if the applicant or accepted user fails to meet the terms and conditions set forth in the accepted user application (ABC Form 34).
+(iv) The accurate and prompt submission of Form ABC 8, Part B, to the Board for each lot of almonds received. Each lot of inedible almonds received must be documented by a public weighmaster weight certificate issued at the request of the accepted user at the time of receipt of the lot. Weighmaster weight certificates must be submitted to the Board within 10 business days of issuance;
 
-(v) The eligibility of accepted users shall be reviewed annually by the Board. Handlers will not receive credit towards their disposition obligations pursuant to paragraph (a)(4) of this section for lots where the difference between the weight of the lot reported by the inspection agency on ABC Form 8 and the weight of the lot reported on the public weighmaster weight certificate exceeds 2.0 percent.
+(v) Disposal of inedible almond material within 6 months of receipt; and
+
+(vi) Disposal of inedible almond material received with no transfer of the material between accepted users.
+
+(vii) The Board may deny or revoke accepted user status at any time if the applicant or accepted user fails to meet the terms and conditions of § 981.442, or if the applicant or accepted user fails to meet the terms and conditions set forth in the accepted user application (Form ABC 34).
+
+(viii) The eligibility of accepted users shall be reviewed annually by the Board. Handlers will not receive credit towards their disposition obligations pursuant to paragraph (a)(4) of this section for inedible lots where the difference between the weight of the lot reported by the inspection agency on Form ABC 8 and the weight of the lot reported on the public weighmaster weight certificate exceeds 2.0 percent.
 
 (b) *Outgoing.* Pursuant to § 981.42(b), beginning September 1, 2007, and except as provided in § 981.13 and in paragraph (b)(6) of this section, handlers shall subject their almonds to a treatment process or processes prior to shipment to reduce potential *Salmonella* bacteria contamination in accordance with the provisions of this section.
 

@@ -1,0 +1,5 @@
+##### § 771.78 Revocation or denial of renewal. #####
+
+(a) The administrative law judge who presides at the hearing in proceedings for the revocation or denial of renewal of licenses or permits shall make a recommended decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send one copy of his recommended decision to the licensee or permittee or the licensee's or permittee's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.109.
+
+(b) If no hearing is requested, the Director of Industry Operations shall make the initial decision.

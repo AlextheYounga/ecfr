@@ -1,0 +1,3 @@
+##### § 771.71 Before citation. #####
+
+If a licensee or permittee surrenders the license or permit before the notice of revocation or denial of renewal, the Director of Industry Operations may accept the surrender. But if the evidence, in the opinion of the Director of Industry Operations, warrants issuance of a notice for revocation or denial of renewal, the surrender shall be refused and the Director of Industry Operations shall issue the notice.

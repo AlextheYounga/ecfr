@@ -1,0 +1,3 @@
+##### § 771.27 Service on the Director of Industry Operations or Director. #####
+
+Pleadings, motions, notices, and other formal documents may be served by certified mail, by personal service, or as otherwise agreed to by the parties, on the Director of Industry Operations (or upon the Attorney for the Government on behalf of the Director of Industry Operations), or on the Director, if the proceeding is before him for review on appeal.

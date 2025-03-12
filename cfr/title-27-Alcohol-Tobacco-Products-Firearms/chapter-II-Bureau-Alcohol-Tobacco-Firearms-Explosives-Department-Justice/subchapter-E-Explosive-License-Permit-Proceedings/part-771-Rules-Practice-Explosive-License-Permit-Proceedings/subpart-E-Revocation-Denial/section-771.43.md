@@ -1,0 +1,3 @@
+##### § 771.43 Grounds for denial of applications for licenses or permits. #####
+
+If, upon examination of any application (including a renewal application) for a license or permit, the Director of Industry Operations has reason to believe that the applicant is not entitled to such license or permit, the Director of Industry Operations shall issue a denial of the application. An applicant is not eligible for a license or permit if he fails to meet the requirements of 18 U.S.C. 843(b) and § 555.49 of this chapter.

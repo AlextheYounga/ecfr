@@ -1,0 +1,3 @@
+##### § 771.110 Revocation or denial of renewal. #####
+
+Pursuant to § 771.109(a), when the Director of Industry Operations issues an order revoking or denying the renewal of a license or permit, he shall furnish a copy of the order and of the recommended decision on which it is based to the Director. Should such order be subsequently set aside on review by the courts, the Director of Industry Operations will so advise the Director.

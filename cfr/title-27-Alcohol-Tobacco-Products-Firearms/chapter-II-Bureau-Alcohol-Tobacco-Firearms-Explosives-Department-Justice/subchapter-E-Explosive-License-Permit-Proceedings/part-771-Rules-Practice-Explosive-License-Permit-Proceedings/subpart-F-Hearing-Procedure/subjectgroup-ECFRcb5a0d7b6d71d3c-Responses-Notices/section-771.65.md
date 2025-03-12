@@ -1,0 +1,3 @@
+##### § 771.65 Responses admitting facts. #####
+
+If the licensee or permittee desires to waive the hearing on the allegations of fact set forth in the notice and does not contest the facts, the answer may consist of a statement that the licensee or permittee admits all material allegations of fact charged in the notice to be true. The Director of Industry Operations shall base the decision on the notice and such answer, although such an answer shall not affect the licensee's or permittee's right to submit proposed findings of fact and conclusions of law or right to appeal.

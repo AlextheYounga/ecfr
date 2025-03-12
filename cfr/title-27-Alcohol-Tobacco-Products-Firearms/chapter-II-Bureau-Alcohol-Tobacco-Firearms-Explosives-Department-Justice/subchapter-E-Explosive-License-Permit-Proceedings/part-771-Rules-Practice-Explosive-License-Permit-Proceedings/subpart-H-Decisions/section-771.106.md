@@ -1,0 +1,3 @@
+##### § 771.106 Certification and transmittal of record and decision. #####
+
+After reaching his decision, the administrative law judge shall certify the complete record of the proceeding before him and shall immediately forward the complete certified record together with one copy of the administrative law judge's recommended decision to the Director of Industry Operations for initial decision, one copy of the recommended decision to the applicant or the applicant's representative, and one copy of the recommended decision to the Attorney for the Government.

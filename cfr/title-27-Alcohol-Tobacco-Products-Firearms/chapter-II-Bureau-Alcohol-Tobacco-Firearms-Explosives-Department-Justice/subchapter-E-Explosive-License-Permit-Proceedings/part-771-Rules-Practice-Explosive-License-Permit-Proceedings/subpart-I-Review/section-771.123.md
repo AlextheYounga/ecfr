@@ -1,0 +1,7 @@
+##### § 771.123 Court review. #####
+
+(a) If an applicant, licensee, or permittee files an appeal in the United States Court of Appeals for the circuit in which he resides or has his principle place of business, within 60 days after the receipt of the Director's decision, the Director, upon notification that an appeal has been taken, shall prepare the record for submission to the court in accordance with applicable court rules.
+
+(b) If an applicant, licensee, or permittee does not seek review with the Director, but instead seeks review within 60 days after the receipt of the initial decision of the Director of Industry Operations pursuant to § 771.109, the Director of Industry Operations, upon notification that an appeal has been taken, shall prepare the record for submission to the court in accordance with applicable court rules. The Director of Industry Operations shall notify the Director if such an appeal is taken.
+
+(c) The Director, or the Director of Industry Operations, as the case may be, shall certify the correctness of the transcript of the record, forward one copy to the attorney for the Government in the review of the case, and file the original record of the proceedings with the original certificate in the appropriate United States Court of Appeals.

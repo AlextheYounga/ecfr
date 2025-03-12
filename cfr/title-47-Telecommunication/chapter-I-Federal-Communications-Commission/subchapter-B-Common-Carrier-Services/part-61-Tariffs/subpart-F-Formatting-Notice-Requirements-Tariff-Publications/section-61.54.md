@@ -1,7 +1,5 @@
 ##### § 61.54 Composition of tariffs. #####
 
-Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
-
 (a) Tariffs must contain in consecutive order: A title page; check sheet; table of contents; list of concurring, connecting, and other participating carriers; explanation of symbols and abbreviations; application of tariff; general rules (including definitions), regulations, exceptions and conditions; and rates. If the issuing carrier elects to add a section assisting in the use of the tariff, it should be placed immediately after the table of contents.
 
 (b) The title page of every tarif\_f and supplement must show:
@@ -28,16 +26,15 @@ Original tariff \_effective \_\_\_\_\_\_\_\_\_\_ (here show the effective date o
 
 (3)(i) When pages are revised, when new pages (including pages with letter or numeric suffix as set forth above) are added to the tariff, or when supplements are issued, the check sheet must be revised accordingly. Revised check sheets must indicate with an asterisk the specific pages added or revised. In addition to the notation in (1), the check sheet must list, under the heading “The original and revised pages named below (and Supplement No. \_\_\_\_) contain all changes from the original tariff that are in effect on the date shown,” all original pages in numerical order that have been added to the tariff and the pages which have been revised, including the revision number. For example:
 
-|Page |Number of revision except as indicated|
-|-----|--------------------------------------|
-|Title|                 1st                  |
-|  1  |                \*8th                 |
-|  3  |                 5th                  |
-| 5A  |               \*Orig.                |
-| 10  |                \*8th                 |
-| 151 |                Orig.                 |
-
-\*New or Revised page.
+|         Page         |Number of revision except as indicated|
+|----------------------|--------------------------------------|
+|        Title         |                 1st                  |
+|          1           |                \*8th                 |
+|          3           |                 5th                  |
+|          5A          |               \*Orig.                |
+|          10          |                \*8th                 |
+|         151          |                Orig.                 |
+|\*New or Revised page.|                                      |
 
 (ii) On each page, the carrier shall indicate the transmittal number under which that page was submitted.
 
@@ -69,4 +66,6 @@ R to signify reduction.I to signify increase.C to signify changed regulation.T t
 
 (j) *Rates and general rules, regulations, exceptions and conditions.* The general rules (including definitions), regulations, exceptions, and conditions which govern the tariff must be stated clearly and definitely. All general rules, regulations, exceptions or conditions which in any way affect the rates named in the tariff must be specified. A special rule, regulation, exception or condition affecting a particular item or rate must be specifically referred to in connection with such item or rate. Rates must be expressed in United States currency, per chargeable unit of service for all communication services, together with a list of all points of service to and from which the rates apply. They must be arranged in a simple and systematic manner. Complicated or ambiguous terminology may not be used, and no rate, rule, regulation, exception or condition shall be included which in any way attempts to substitute a rate, rule, regulation, exception or condition named in any other tariff.
 
-[49 FR 40869, Oct. 18, 1984, as amended at 64 FR 46591, Aug. 26, 1999]
+(k) *References to other tariffs.* Notwithstanding any other provisions in this section, tariff publications filed by a carrier may reference other tariff publications filed by that carrier or its affiliates.
+
+[49 FR 40869, Oct. 18, 1984, as amended at 64 FR 46591, Aug. 26, 1999; 84 FR 65016, Nov. 26, 2019]

@@ -1,5 +1,7 @@
 ##### § 3555.306 Liquidation. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 (a) *General.* (1) When a lender determines that a borrower is unable or unwilling to meet loan obligations with servicing options under this subpart, the lender must accelerate the guaranteed loan and, if necessary, foreclose.
 
 (2) Prior to acceleration the lender must have advised the borrower, in writing, of available foreclosure avoidance options and the borrower must have failed to request such options.

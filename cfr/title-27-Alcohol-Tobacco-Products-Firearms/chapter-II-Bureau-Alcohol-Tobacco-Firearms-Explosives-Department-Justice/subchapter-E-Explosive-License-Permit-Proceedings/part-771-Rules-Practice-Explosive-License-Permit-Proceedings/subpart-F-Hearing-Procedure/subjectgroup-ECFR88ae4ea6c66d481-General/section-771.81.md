@@ -1,0 +1,3 @@
+##### § 771.81 Stipulations at hearing. #####
+
+If there has been no initial conference under § 771.66, the administrative law judge may at the beginning of the hearing require that the parties attempt to arrive at such stipulations as will eliminate the necessity of taking evidence with respect to allegations of fact about which there is no substantial dispute. The administrative law judge should take similar action, where appropriate, throughout the hearing and should call and conduct any conferences that he deems advisable with a view to the simplification, clarification, and disposition of any of the issues involved in the hearing.

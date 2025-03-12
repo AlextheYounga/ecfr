@@ -1,0 +1,3 @@
+##### § 771.100 Unavailability of administrative law judge. #####
+
+In the event that the administrative law judge designated to conduct a hearing becomes unavailable before the filing of his findings and recommended decision, the Director may assign the case to another administrative law judge for the continuance of the proceeding, in accordance with the regulations in this part in the same manner as if he had been designated administrative law judge at the commencement of the proceeding.

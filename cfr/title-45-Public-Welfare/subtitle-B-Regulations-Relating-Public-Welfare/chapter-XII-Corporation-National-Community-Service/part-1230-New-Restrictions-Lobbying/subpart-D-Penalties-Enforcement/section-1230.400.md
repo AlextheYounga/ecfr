@@ -1,5 +1,7 @@
 ##### § 1230.400 Penalties. #####
 
+Link to an amendment published at 84 FR 70903, Dec. 26, 2019.
+
 (a) Any person who makes an expenditure prohibited herein shall be subject to a civil penalty of not less than $20,134 and not more than $201,340 for each such expenditure.
 
 (b) Any person who fails to file or amend the disclosure form (see Appendix B) to be filed or amended if required herein, shall be subject to a civil penalty of not less than $20,134 and not more than $201,340 for each such failure.

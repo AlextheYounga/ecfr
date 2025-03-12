@@ -1,0 +1,3 @@
+##### § 771.2 Liberal construction. #####
+
+Regulations in this part shall be liberally construed to secure just, expeditious, and efficient determination of the issues presented. The Rules of Civil Procedure for the U.S. District Courts (28 U.S.C. appendix) are not controlling, but may act as a guide in any situation not provided for or controlled by this part and shall be liberally construed or relaxed when necessary.

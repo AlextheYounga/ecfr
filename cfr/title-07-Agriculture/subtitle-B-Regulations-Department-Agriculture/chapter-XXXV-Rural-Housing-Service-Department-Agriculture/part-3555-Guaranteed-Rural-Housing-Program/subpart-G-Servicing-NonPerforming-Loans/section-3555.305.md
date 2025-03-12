@@ -1,5 +1,7 @@
 ##### § 3555.305 Voluntary liquidation. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 The lender must have exhausted the servicing options outlined in §§ 3555.302 through 3555.304 to cure the delinquency before considering voluntary liquidation. The methods of voluntary liquidation of the security property outlined in this section may be used to protect the interests of the Government. The lender must obtain prior Agency concurrence or a waiver as provided by § 3555.301(h).
 
 (a) *Eligibility.* To be eligible for voluntary liquidation, the following conditions must be met:

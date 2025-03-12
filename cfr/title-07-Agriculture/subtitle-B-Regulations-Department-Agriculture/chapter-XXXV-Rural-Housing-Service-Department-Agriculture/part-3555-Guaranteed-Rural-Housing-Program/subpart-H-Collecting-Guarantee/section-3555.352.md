@@ -1,5 +1,7 @@
 ##### § 3555.352 Loss covered by the guarantee. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 Subject to § 3555.351, the loss claim payment will be calculated as the difference between the Total Indebtedness on the loan and the Net Recovery Value calculated according to § 3555.353. The Total Indebtedness on the loan includes:
 
 (a) *Principal balance.* The unpaid principal balance;

@@ -1,5 +1,7 @@
 ##### § 3555.51 Lender eligibility. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 A lender must meet the requirements described in this section to be approved for participation in the SFHGLP.
 
 (a) *Ability to underwrite and service loans.* The lender must have a demonstrated ability to underwrite and service single-family home loans. A lender will be considered to have such a demonstrated ability if it qualifies as one of the following:

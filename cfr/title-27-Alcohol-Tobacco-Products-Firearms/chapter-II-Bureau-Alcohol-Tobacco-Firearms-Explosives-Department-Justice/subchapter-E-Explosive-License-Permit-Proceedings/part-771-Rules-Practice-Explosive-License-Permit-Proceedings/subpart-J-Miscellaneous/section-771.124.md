@@ -1,0 +1,3 @@
+##### § 771.124 Depositions. #####
+
+The administrative law judge may take or order the taking of depositions by either party to the proceeding at such time and place as the administrative law judge may designate before a person having the power to administer oaths, upon application therefor and notice to the parties to the action. The testimony shall be reduced to writing by the person taking the deposition, or a person under his direction, and the deposition shall be subscribed by the deponent unless subscribing thereof is waived in writing by the parties.

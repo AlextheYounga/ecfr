@@ -1,0 +1,5 @@
+##### § 771.77 Initial applications. #####
+
+(a) The administrative law judge who presides at the hearing on initial applications shall recommend a decision to the Director of Industry Operations. The administrative law judge shall certify the complete record of the proceedings before him and shall immediately forward the complete certified record to the Director of Industry Operations. The administrative law judge shall also send one copy of his recommended decision to the applicant or the applicant's representative, one copy to the Attorney for the Government, and one copy to the Director of Industry Operations, who shall make the initial decision as provided in § 771.107. The applicant may be directed by the Director of Industry Operations to produce such records as may be deemed necessary for examination. All hearings on applications shall be open to the public subject to such restrictions and limitations as may be consistent with orderly procedure.
+
+(b) If no hearing is requested, the return of the application marked “Disapproved” is the Director of Industry Operations' initial decision.

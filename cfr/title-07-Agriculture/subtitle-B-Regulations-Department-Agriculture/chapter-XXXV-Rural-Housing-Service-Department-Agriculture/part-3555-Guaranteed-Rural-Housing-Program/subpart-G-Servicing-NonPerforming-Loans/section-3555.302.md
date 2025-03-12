@@ -1,5 +1,7 @@
 ##### § 3555.302 Protective advances. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 Lenders may pay the following pre-liquidation expenses necessary to protect the security property and charge the cost against the borrower's account.
 
 (a) *Advances for taxes and insurance.* Without prior Agency concurrence, lenders may advance funds to pay past due real estate taxes, hazard and flood insurance premiums, and other related costs.

@@ -1,5 +1,7 @@
 ##### § 3555.353 Net recovery value. #####
 
+Link to an amendment published at 84 FR 70887, Dec. 26, 2019.
+
 The net recovery value of the property is determined differently for properties that have been sold than for properties that remain in the lender's inventory at the time the loss claim is filed.
 
 (a) *Actual net recovery value.* For a property that has been sold when a loss claim is filed, net recovery value is calculated as follows:

@@ -1,0 +1,3 @@
+##### § 771.42 Grounds for revocation of licenses or permits. #####
+
+Whenever the Director of Industry Operations has reason to believe that any holder of a license or permit has willfully violated any provision of 18 U.S.C. chapter 40 or 27 CFR part 555 or has become ineligible to continue operations authorized under the license or permit, the Director of Industry Operations shall issue a notice for the revocation of such license or permit, as the case may be.

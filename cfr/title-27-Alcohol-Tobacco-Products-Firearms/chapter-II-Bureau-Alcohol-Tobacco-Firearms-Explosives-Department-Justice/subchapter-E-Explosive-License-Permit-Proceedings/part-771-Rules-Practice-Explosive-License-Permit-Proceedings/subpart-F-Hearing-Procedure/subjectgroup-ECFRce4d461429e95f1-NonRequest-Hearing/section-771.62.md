@@ -1,0 +1,3 @@
+##### § 771.62 Initial application. #####
+
+In the case of an initial application, if the applicant does not request a hearing within 15 days, or within such additional time as the Director of Industry Operations may in his discretion allow, the Director of Industry Operations will return a copy of the application, marked “Disapproved,” to the applicant, accompanied by a brief statement including the findings upon which the denial is based.

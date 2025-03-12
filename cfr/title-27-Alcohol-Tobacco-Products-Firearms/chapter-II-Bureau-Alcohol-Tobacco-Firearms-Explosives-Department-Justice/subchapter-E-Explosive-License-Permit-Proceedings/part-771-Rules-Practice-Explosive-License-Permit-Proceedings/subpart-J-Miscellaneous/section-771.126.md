@@ -1,0 +1,3 @@
+##### § 771.126 Discovery. #####
+
+The discovery provisions of the Federal Rules of Civil Procedure and the Federal Rules of Criminal Procedure are not controlling with respect to agency proceedings under this part. However, fundamental fairness requires a party be given the opportunity to know what evidence is offered and a chance to rebut such evidence. Either party may petition the administrative law judge for non-burdensome discovery if the party can demonstrate that the interests of justice require disclosure of these materials.

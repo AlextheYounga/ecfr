@@ -1,0 +1,3 @@
+##### § 771.68 Revocation or denial of renewal. #####
+
+If, on the date set for a hearing concerning the revocation or denial of renewal of a license or permit, the licensee or permittee does not appear, no evidence has been offered, and no good cause has been shown for the failure to appear, the Attorney for the Government will proceed ex parte and offer for the record sufficient evidence to make a *prima facie* case. At such hearing, documents, statements, and affidavits may be submitted in lieu of testimony of witnesses.

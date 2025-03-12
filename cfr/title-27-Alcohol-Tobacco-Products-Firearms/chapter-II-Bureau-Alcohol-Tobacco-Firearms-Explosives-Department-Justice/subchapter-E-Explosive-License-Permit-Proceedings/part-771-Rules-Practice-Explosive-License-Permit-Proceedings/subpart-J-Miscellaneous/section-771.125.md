@@ -1,0 +1,3 @@
+##### § 771.125 Witnesses and fees. #####
+
+Witnesses summoned before the administrative law judge may be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses whose depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States. Witness fees and mileage shall be paid by the party at whose instance the witnesses appear and the person taking the deposition shall be paid by the party at whose instance the deposition is taken.

@@ -1,0 +1,3 @@
+##### § 771.80 Revocation or denial of renewal. #####
+
+In hearings on the revocation or denial of renewal of a license or permit, the burden of proof is on the Government to show that the Director of Industry Operations had reason to believe that the licensee or permittee is not entitled to a permit or license, as may be the case. The Government must meet this proof by a preponderance of the evidence.

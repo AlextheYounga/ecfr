@@ -1,7 +1,5 @@
 ##### § 61.49 Supporting information to be submitted with letters of transmittal for tariffs of carriers subject to price cap regulation. #####
 
-Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
-
 (a) Each price cap tariff filing must be accompanied by supporting materials sufficient to calculate required adjustments to each PCI, API, and SBI pursuant to the methodologies provided in §§ 61.45, 61.46, and 61.47, as applicable.
 
 (b) Each price cap tariff filing that proposes rates that are within applicable bands established pursuant to § 61.47, and that results in an API value that is equal to or less than the applicable PCI value, must be accompanied by supporting materials sufficient to establish compliance with the applicable bands, and to calculate the necessary adjustment to the affected APIs and SBIs pursuant to §§ 61.46 and 61.47, respectively.
@@ -18,7 +16,7 @@ Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
 
 (f)(1) [Reserved]
 
-(2) Each tariff filing submitted by a price cap local exchange carrier that introduces a new loop-based service, as defined in § 61.3(pp) of this part - including a restructured unbundled basic service element (BSE), as defined in § 69.2(mm) of this chapter, that constitutes a new loop-based service - that is or will later be included in a basket, must be accompanied by cost data sufficient to establish that the new loop-based service or unbundled BSE will not recover more than a just and reasonable portion of the carrier's overhead costs.
+(2) Each tariff filing submitted by a price cap local exchange carrier that introduces a new loop-based service, as defined in § 61.3(pp) of this part—including a restructured unbundled basic service element (BSE), as defined in § 69.2(mm) of this chapter, that constitutes a new loop-based service—that is or will later be included in a basket, must be accompanied by cost data sufficient to establish that the new loop-based service or unbundled BSE will not recover more than a just and reasonable portion of the carrier's overhead costs.
 
 (3) A price cap local exchange carrier may submit without cost data any tariff filings that introduce new services, other than loop-based services.
 
@@ -42,7 +40,7 @@ Link to an amendment published at 84 FR 65016, Nov. 26, 2019.
 
 (j) For a tariff that introduces a system of density pricing zones, as described in § 69.123 of this chapter, the carrier must, before filing its tariff, submit a density pricing zone plan including, *inter alia,* documentation sufficient to establish that the system of zones reasonably reflects cost-related characteristics, such as the density of total interstate traffic in central offices located in the respective zones, and receive approval of its proposed plan.
 
-(k) In accordance with §§ 61.41 through 61.49, price cap local exchange carriers that elect to file their annual access tariff pursuant to section 204(a)(3) of the Communications Act shall submit supporting material for their interstate annual access tariffs, absent rate information, 90 days prior to July 1 of each year.
+(k) [Reserved]
 
 (l) On each page of cost support material submitted pursuant to this section, the issuing carrier shall indicate the transmittal number under which that page was submitted.
 

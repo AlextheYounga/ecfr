@@ -1,0 +1,3 @@
+##### § 771.67 Initial applications. #####
+
+Where the applicant on an initial application for a license or permit has requested a hearing and does not appear at the appointed time and place, evidence has not been offered to refute or explain the grounds upon which disapproval of the application is contemplated, and no good cause has been shown for the failure to appear, the applicant shall be considered to have waived the hearing. When such waiver occurs, a default judgment against the applicant will be entered and the administrative law judge shall recommend disapproval of said application.

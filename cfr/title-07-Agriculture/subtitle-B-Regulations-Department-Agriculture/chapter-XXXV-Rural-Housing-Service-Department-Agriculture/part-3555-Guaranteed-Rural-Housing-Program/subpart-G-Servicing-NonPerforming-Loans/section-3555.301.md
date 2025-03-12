@@ -1,5 +1,7 @@
 ##### § 3555.301 General servicing techniques. #####
 
+Link to an amendment published at 84 FR 70886, Dec. 26, 2019.
+
 In accordance with industry standards and as provided by the Agency:
 
 (a) *Prompt action.* Lenders shall take prompt action to collect overdue amounts from borrowers to bring a delinquent loan current in as short a time as possible to avoid foreclosure to the extent possible and minimize losses.

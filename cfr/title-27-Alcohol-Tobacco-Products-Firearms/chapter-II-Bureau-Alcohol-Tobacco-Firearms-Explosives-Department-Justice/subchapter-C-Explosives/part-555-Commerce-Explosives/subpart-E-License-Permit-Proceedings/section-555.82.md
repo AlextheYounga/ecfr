@@ -1,5 +1,5 @@
-##### § 555.82 Provisions of part 200 made applicable. #####
+##### § 555.82 Rules of practice in license and permit proceedings. #####
 
-Link to an amendment published at 84 FR 64744, Nov. 25, 2019.
+Regulations governing the procedure and practice for disapproval of applications for explosives licenses and permits and for the denial of renewal or revocation of such licenses and permits under the Act are contained in part 771 of this chapter.
 
-The provisions of subpart G of part 200 of this chapter, as well as those provisions of part 71 relative to failure to appear, withdrawal of an application or surrender of a permit, the conduct of hearings before an administrative law judge, and record of testimony, are hereby made applicable to application, license, and permit proceedings under this subpart to the extent that they are not contrary to or incompatible with this subpart.
+[ATF 33F, 84 FR 64744, Nov. 25, 2019]

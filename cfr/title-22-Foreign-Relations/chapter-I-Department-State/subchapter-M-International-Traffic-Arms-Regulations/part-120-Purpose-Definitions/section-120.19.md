@@ -1,5 +1,7 @@
 ##### § 120.19 Reexport. #####
 
+Link to an amendment published at 84 FR 70892, Dec. 26, 2019.
+
 (a) *Reexport,* except as set forth in § 126.16 or § 126.17, means:
 
 (1) An actual shipment or transmission of a defense article from one foreign country to another foreign country, including the sending or taking of a defense article to or from such countries in any manner;

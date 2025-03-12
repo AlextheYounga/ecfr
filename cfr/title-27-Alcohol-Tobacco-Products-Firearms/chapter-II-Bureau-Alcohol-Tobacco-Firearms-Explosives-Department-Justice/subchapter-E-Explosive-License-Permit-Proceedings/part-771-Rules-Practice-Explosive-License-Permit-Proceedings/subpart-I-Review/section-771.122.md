@@ -1,0 +1,3 @@
+##### § 771.122 Denial of renewal or revocation. #####
+
+If the Director orders the denial of an application, a copy of the application marked “Disapproved” will be returned to the applicant by the Director of Industry Operations. If the Director orders a revocation of a license of permit, any stay of revocation will be withdrawn and the revocation will become effective upon the order of the Director of Industry Operations. After the issuance of a denial of a renewal application or a revocation, and pending the final determination of a timely appeal, the licensee or permittee may continue operations, if at all, pursuant to § 555.83 of this chapter.

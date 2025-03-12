@@ -1,0 +1,3 @@
+##### § 771.111 Proceedings involving violations not within the division of issuance of license or permit. #####
+
+In the event violations occurred at a place not within the field division where the licensee or permittee is located, the Director of Industry Operations of the field division where the licensee or permittee is located will take jurisdiction over any proceeding and will take appropriate action in accordance with this subpart, including issuing the relevant notice.

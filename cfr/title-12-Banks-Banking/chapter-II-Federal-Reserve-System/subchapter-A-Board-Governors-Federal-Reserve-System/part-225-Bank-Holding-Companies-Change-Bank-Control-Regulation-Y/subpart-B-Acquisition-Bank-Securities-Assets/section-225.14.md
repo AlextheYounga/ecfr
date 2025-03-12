@@ -1,6 +1,6 @@
 ##### § 225.14 Expedited action for certain bank acquisitions by well-run bank holding companies. #####
 
-Link to an amendment published at 84 FR 61799, Nov. 13, 2019.
+Link to an amendment published at 84 FR 61799, Nov. 13, 2019.Link to an amendment published at 84 FR 70887, Dec. 26, 2019.
 
 (a) *Filing of notice* - (1) *Information required and public notice.* As an alternative to the procedure provided in § 225.15, a bank holding company that meets the requirements of paragraph (c) of this section may satisfy the prior approval requirements of § 225.11 in connection with the acquisition of shares, assets or control of a bank, or a merger or consolidation between bank holding companies, by providing the appropriate Reserve Bank with a written notice containing the following:
 
