@@ -1,5 +1,7 @@
 ##### § 600.3 Definitions. #####
 
+Link to an amendment published at 85 FR 10063, Feb. 21, 2020.
+
 As used in this subchapter:
 
 (a) *Act* means the Public Health Service Act (58 Stat. 682), approved July 1, 1944.
