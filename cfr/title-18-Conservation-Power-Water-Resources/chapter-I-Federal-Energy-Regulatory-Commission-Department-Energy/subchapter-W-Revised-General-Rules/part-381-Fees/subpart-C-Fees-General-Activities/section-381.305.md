@@ -1,8 +1,6 @@
 ##### § 381.305 Interpretations by the Office of the General Counsel. #####
 
-Link to an amendment published at 85 FR 1103, Jan. 9, 2020.
-
-(a) Except as provided in paragraph (b) of this section, the fee established for a written interpretation by the Office of the General Counsel of any statute or implementing regulation under the jurisdiction of the Commission is $8,310. The fee must be submitted in accordance with subpart A of this part and § 385.1901 or § 388.104 of this chapter.
+(a) Except as provided in paragraph (b) of this section, the fee established for a written interpretation by the Office of the General Counsel of any statute or implementing regulation under the jurisdiction of the Commission is $8,620. The fee must be submitted in accordance with subpart A of this part and § 385.1901 or § 388.104 of this chapter.
 
 (b) No fee is necessary to file a request for a written interpretation by the Office of the General Counsel that solely concerns matters under Part I of the Federal Power Act.
 

@@ -1,5 +1,7 @@
 ##### § 121.301 What size standards and affiliation principles are applicable to financial assistance programs? #####
 
+Link to an amendment published at 85 FR 7651, Feb. 10, 2020.
+
 (a) For Business Loans (other than for 7(a) Business Loans for the period beginning May 5, 2009 and ending on September 30, 2010) and for Disaster Loans (other than physical disaster loans), an applicant business concern must satisfy two criteria:
 
 (1) The size of the applicant alone (without affiliates) must not exceed the size standard designated for the industry in which the applicant is primarily engaged; and

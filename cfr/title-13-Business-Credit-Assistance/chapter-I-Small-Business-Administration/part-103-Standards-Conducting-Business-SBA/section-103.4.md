@@ -1,5 +1,7 @@
 ##### § 103.4 What is “good cause” for suspension or revocation? #####
 
+Link to an amendment published at 85 FR 7647, Feb. 10, 2020.
+
 Any unlawful or unethical activity is good cause for suspension or revocation of the privilege to conduct business. This includes:
 
 (a) Attempting to influence any employee of SBA or a lender, by gifts, bribes or other unlawful or unethical activity, with respect to any matter involving SBA assistance.

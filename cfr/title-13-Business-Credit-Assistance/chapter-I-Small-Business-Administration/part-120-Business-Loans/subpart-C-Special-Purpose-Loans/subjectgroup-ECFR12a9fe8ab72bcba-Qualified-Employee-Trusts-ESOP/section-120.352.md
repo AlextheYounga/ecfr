@@ -1,5 +1,7 @@
 ##### § 120.352 Use of proceeds. #####
 
+Link to an amendment published at 85 FR 7648, Feb. 10, 2020.
+
 Loan proceeds may be used for two purposes.
 
 (a) *Qualified employer securities.* A qualified employee trust may relend loan proceeds to the employer by purchasing qualified employer securities. The small business concern may use these funds for any general 7(a) purpose.

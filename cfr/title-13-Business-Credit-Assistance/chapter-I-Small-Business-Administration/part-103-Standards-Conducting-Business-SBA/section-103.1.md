@@ -1,5 +1,7 @@
 ##### § 103.1 Key definitions. #####
 
+Link to an amendment published at 85 FR 7647, Feb. 10, 2020.
+
 (a) *Agent* means an authorized representative, including an attorney, accountant, consultant, packager, lender service provider, or any other person representing an applicant or participant by conducting business with SBA.
 
 (b) The term *conduct business with SBA* means:

@@ -1,5 +1,7 @@
 ##### § 120.712 How does an Intermediary get a grant to assist Microloan borrowers? #####
 
+Link to an amendment published at 85 FR 7651, Feb. 10, 2020.
+
 (a) *General.* An Intermediary is eligible to receive grant funding from SBA of not more than 25 percent of the outstanding balance of all SBA loans to the Intermediary. The Intermediary must contribute, solely from non-Federal sources, an amount equal to 25 percent of the grant. Contributions may be made in cash or in kind.
 
 (b) *Limitations on grant funds.* An Intermediary may not borrow its contribution. It may only use grant funds to provide Microloan borrowers with marketing, management, and technical assistance, except that:

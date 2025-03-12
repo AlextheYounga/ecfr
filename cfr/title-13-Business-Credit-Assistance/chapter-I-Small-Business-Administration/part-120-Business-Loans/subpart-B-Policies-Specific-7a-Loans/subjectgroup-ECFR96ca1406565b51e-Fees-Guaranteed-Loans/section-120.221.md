@@ -1,5 +1,7 @@
 ##### § 120.221 Fees and expenses which the Lender may collect from a loan applicant or Borrower. #####
 
+Link to an amendment published at 85 FR 7648, Feb. 10, 2020.
+
 Unless otherwise allowed by SBA Loan Program Requirements, the Lender may charge and collect from the applicant or Borrower only the following fees and expenses:
 
 (a) *Service and packaging fees.* The Lender may charge an applicant reasonable fees (customary for similar Lenders in the geographic area where the loan is being made) for packaging and other services. The Lender must advise the applicant in writing that the applicant is not required to obtain or pay for unwanted services. The applicant is responsible for deciding whether fees are reasonable. SBA may review these fees at any time. Lender must refund any such fee considered unreasonable by SBA.

@@ -1,5 +1,7 @@
 ##### § 121.302 When does SBA determine the size status of an applicant? #####
 
+Link to an amendment published at 85 FR 7652, Feb. 10, 2020.
+
 (a) The size status of an applicant for SBA financial assistance is determined as of the date the application for financial assistance is accepted for processing by SBA, except for applications under the Preferred Lenders Program (PLP), the Disaster Loan program, the SBIC program, and the New Markets Venture Capital (NMCV) program.
 
 (b) For the Preferred Lenders program, size is determined as of the date of approval of the loan by the Preferred Lender.
