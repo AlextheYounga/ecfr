@@ -10,7 +10,7 @@
 
 (4) Where a Federal payment is to be disbursed through a debit card, stored value card, prepaid card or similar payment card program established by the Service, the Federal payment may be deposited to an account at a financial institution designated by the Service as a financial or fiscal agent. The account title, access terms and other account provisions may be specified by the Service.
 
-(5)(i) Where a Federal payment is to be deposited to an account accessed by the recipient through a prepaid card that meets the following requirements:
+(5)(i) Where a Federal payment is to be deposited to a prepaid account that meets the following requirements:
 
 (A) The account is held at an insured financial institution;
 
@@ -18,17 +18,15 @@
 
 (C) The account is not attached to a line of credit or loan agreement under which repayment from the account is triggered upon delivery of the Federal payments; and
 
-(D) The issuer of the card complies with all of the requirements, and provides the holder of the card with all of the consumer protections, that apply to a payroll card account under the rules implementing the Electronic Fund Transfer Act, as amended.
+(D) The issuer of the account complies with all of the requirements, and provides the holder of the account with all of the consumer protections, that apply to a prepaid account under the rules implementing the Electronic Fund Transfer Act and the Truth in Lending Act.
 
-(ii) No person or entity may issue a prepaid card that receives Federal payments in violation of this subsection, and no financial institution may maintain an account for or on behalf of an issuer of a prepaid card that receives Federal payments if the issuer violates this paragraph.
+(ii) No person or entity may issue a prepaid account that receives Federal payments in violation of this paragraph (b)(5), and no financial institution may maintain a prepaid account that receives Federal payments if the issuer violates this paragraph (b)(5).
 
-(iii) For the purposes of this paragraph (b)(5), the term -
+(iii) For the purposes of this paragraph (b)(5), the term—
 
-(A) “Payroll card account” shall have the same meaning as that term is defined in the rules implementing the Electronic Fund Transfer Act;
+(A) “Prepaid account” means a prepaid account as defined for purposes of regulations implementing the Electronic Fund Transfer Act, as amended; and
 
-(B) “Prepaid card” means a card, code, or other means of access to funds of a recipient; and
-
-(C) “Issuer” means a person or entity that issues a prepaid card.
+(B) “Issuer” means a person or entity that issues a prepaid account.
 
 (6) Where a Federal payment is disbursed to a resident of a nursing facility, as defined in 42 U.S.C. 1396r, the payment may be deposited into a resident trust or patient fund account established by the nursing facility pursuant to requirements under Federal law relating to the protection of such funds.
 
@@ -36,4 +34,4 @@
 
 (8) The Secretary of the Treasury may waive the requirements of paragraph (a) of this section in any case or class of cases.
 
-[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 73 FR 52584, Sept. 10, 2008; 75 FR 80339, Dec. 22, 2010; 76 FR 59031, Sept. 23, 2011]
+[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 73 FR 52584, Sept. 10, 2008; 75 FR 80339, Dec. 22, 2010; 76 FR 59031, Sept. 23, 2011; 82 FR 42609, Sept. 11, 2017]

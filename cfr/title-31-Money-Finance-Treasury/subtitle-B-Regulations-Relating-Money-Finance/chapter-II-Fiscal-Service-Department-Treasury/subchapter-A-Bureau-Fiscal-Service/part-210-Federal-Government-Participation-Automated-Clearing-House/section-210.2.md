@@ -8,9 +8,9 @@ For purposes of this part, the following definitions apply. Any term that is not
 
 (c) *Agency* means any department, agency, or instrumentality of the United States Government, or a corporation owned or controlled by the Government of the United States. The term agency does not include a Federal Reserve Bank.
 
-(d) *Applicable ACH Rules* means the ACH Rules with an effective date on or before September 21, 2013, as published in “2013 NACHA Operating Rules and Guidelines: A Complete Guide to Rules Governing the ACH Network” (incorporated by reference, see § 210.3), except:
+(d) *Applicable ACH Rules* means the ACH Rules with an effective date on or before March 16, 2018, as published in “2016 NACHA Operating Rules & Guidelines: A Complete Guide to Rules Governing the ACH Network” (incorporated by reference, see § 210.3(b)) except:
 
-(1) ACH Rules 1.2.2, 1.2.3, 1.2.4, 1.2.5, and 1.2.6; Appendix Seven; Appendix Eight; Appendix Nine; and Appendix Ten (governing the enforcement of the ACH Rules, including self-audit requirements, and claims for compensation);
+(1) Subsections 1.2.2, 1.2.3, 1.2.4, 1.2.5 and 1.2.6; Appendix Seven; Appendix Eight; Appendix Nine and Appendix Ten (governing the enforcement of the ACH Rules, including self-audit requirements, and claims for compensation);
 
 (2) Section 2.10 and Section 3.6 (governing the reclamation of benefit payments);
 
@@ -18,9 +18,11 @@ For purposes of this part, the following definitions apply. Any term that is not
 
 (4) Section 2.2 (setting forth ODFI obligations to enter into agreements with, and perform risk management relating to, Originators and Third-Party Senders) and Section 1.6 (Security Requirements);
 
-(5) Section 2.17 (requiring reporting and reduction of high rates of entries returned as unauthorized); and
+(5) Section 2.17.2.2-2.17.2.6 (requiring reduction of high rates of entries returned as unauthorized);
 
-(6) The requirements of ACH Rule 2.11 (International ACH Transactions) shall not apply to entries representing the payment of a Federal tax obligation by a taxpayer.
+(6) The requirements of Section 2.5.8 (International ACH Transactions) shall not apply to entries representing the payment of a Federal tax obligation by a taxpayer; and
+
+(7) Until September 15, 2017, the provisions of Subsection 3.3.1.1, Section 8.99 and Appendix Three (definition of Effective Entry Date) relating to Same-Day Entries.
 
 (e) *Authorized payment agent* means any individual or entity that is appointed or otherwise selected as a representative payee or fiduciary, under regulations of the Social Security Administration, the Department of Veterans Affairs, the Railroad Retirement Board, or other agency making Federal payments, to act on behalf of an individual entitled to a Federal payment.
 
@@ -72,4 +74,4 @@ For purposes of this part, the following definitions apply. Any term that is not
 
 (r) *Treasury Financial Manual* means the manual issued by the Service containing procedures to be observed by all agencies and Federal Reserve Banks with respect to central accounting, financial reporting, and other Federal Government-wide fiscal responsibilities of the Treasury.
 
-[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 66 FR 10580, Feb. 16, 2001; 67 FR 17902, Apr. 11, 2002; 68 FR 33829, June 5, 2003; 70 FR 67366, Nov. 7, 2005; 73 FR 52584, Sept. 10, 2008; 76 FR 59030, Sept. 23, 2011; 79 FR 42980, July 24, 2014]
+[64 FR 17478, Apr. 9, 1999, as amended at 65 FR 18869, Apr. 7, 2000; 66 FR 10580, Feb. 16, 2001; 67 FR 17902, Apr. 11, 2002; 68 FR 33829, June 5, 2003; 70 FR 67366, Nov. 7, 2005; 73 FR 52584, Sept. 10, 2008; 76 FR 59030, Sept. 23, 2011; 79 FR 42980, July 24, 2014; 82 FR 42608, Sept. 11, 2017]

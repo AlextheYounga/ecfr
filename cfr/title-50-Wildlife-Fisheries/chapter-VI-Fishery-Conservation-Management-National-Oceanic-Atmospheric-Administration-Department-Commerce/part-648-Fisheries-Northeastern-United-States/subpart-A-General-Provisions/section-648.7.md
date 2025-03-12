@@ -1,6 +1,6 @@
 ##### § 648.7 Recordkeeping and reporting requirements. #####
 
-Link to an amendment published at 82 FR 40732, Aug. 28, 2017.
+Link to an amendment published at 82 FR 40732, Aug. 28, 2017.Link to an amendment published at 82 FR 42612, Sept. 11, 2017.
 
 (a) *Dealers* - (1) *Detailed report.* Federally permitted dealers, and any individual acting in the capacity of a dealer, must submit to the Regional Administrator or to the official designee a detailed report of all fish purchased or received for a commercial purpose, other than solely for transport on land, within the time period specified in paragraph (f) of this section, by one of the available electronic reporting mechanisms approved by NMFS, unless otherwise directed by the Regional Administrator. The following information, and any other information required by the Regional Administrator, must be provided in each report:
 

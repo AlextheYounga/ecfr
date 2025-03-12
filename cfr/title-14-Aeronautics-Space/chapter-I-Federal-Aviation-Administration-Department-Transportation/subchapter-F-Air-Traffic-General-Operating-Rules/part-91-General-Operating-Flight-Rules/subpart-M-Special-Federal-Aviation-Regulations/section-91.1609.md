@@ -16,4 +16,4 @@
 
 (e) *Expiration.* This SFAR will remain in effect until December 30, 2018. The FAA may amend, rescind, or extend this SFAR No. 114, § 91.1609, as necessary.
 
-[Docket FAA-2017-0768, 82 FR 40949, Aug. 29, 2017]
+[Docket FAA-2017-0768, Amdt. 91-348, 82 FR 40949, Aug. 29, 2017; Amdt. 91-348A, 82 FR 42592, Sept. 11, 2017]

@@ -1,7 +1,5 @@
 ##### § 79.3 Video description of video programming. #####
 
-Link to an amendment published at 82 FR 37354, Aug. 10, 2017.
-
 (a) *Definitions.* For purposes of this section the following definitions shall apply:
 
 (1) *Designated Market Areas (DMAs).* Unique, county-based geographic areas designated by The Nielsen Company, a television audience measurement service, based on television viewership in the counties that make up each DMA.
@@ -22,13 +20,13 @@ Link to an amendment published at 82 FR 37354, Aug. 10, 2017.
 
 (b) The following video programming distributors must provide programming with video description as follows:
 
-(1) Commercial television broadcast stations that are affiliated with one of the top four commercial television broadcast networks (ABC, CBS, Fox, and NBC), and that are licensed to a community located in the top 25 DMAs, as determined by The Nielsen Company as of January 1, 2011, must provide 50 hours of video description per calendar quarter, either during prime time or on children's programming, on each programming stream on which they carry one of the top four commercial television broadcast networks. If a station in one of these markets becomes affiliated with one of these networks after the effective date of these rules, it must begin compliance with these requirements no later than three months after the affiliation agreement is finalized;
+(1) Beginning July 1, 2015, commercial television broadcast stations that are affiliated with one of the top four commercial television broadcast networks (ABC, CBS, Fox, and NBC), and that are licensed to a community located in the top 60 DMAs, as determined by The Nielsen Company as of January 1, 2015, must provide 50 hours of video description per calendar quarter, either during prime time or on children's programming, and, beginning July 1, 2018, 37.5 additional hours of video description per calendar quarter between 6 a.m. and 11:59 p.m. local time, on each programming stream on which they carry one of the top four commercial television broadcast networks. If a station in one of these markets becomes affiliated with one of these networks after July 1, 2015, it must begin compliance with these requirements no later than three months after the affiliation agreement is finalized;
 
-(2) Beginning July 1, 2015, commercial television broadcast stations that are affiliated with one of the top four commercial television broadcast networks (ABC, CBS, Fox, and NBC), and that are licensed to a community located in the top 60 DMAs, as determined by The Nielsen Company as of January 1, 2015, must provide 50 hours of video description per calendar quarter, either during prime time or on children's programming, on each programming stream on which they carry one of the top four commercial television broadcast networks. If a station in one of these markets becomes affiliated with one of these networks after July 1, 2015, it must begin compliance with these requirements no later than three months after the affiliation agreement is finalized;
+(2) [Reserved]
 
 (3) Television broadcast stations that are affiliated or otherwise associated with any television network must pass through video description when the network provides video description and the broadcast station has the technical capability necessary to pass through the video description, unless it is using the technology used to provide video description for another purpose related to the programming that would conflict with providing the video description;
 
-(4) Multichannel video programming distributor (MVPD) systems that serve 50,000 or more subscribers must provide 50 hours of video description per calendar quarter during prime time or children's programming, on each channel on which they carry one of the top five national nonbroadcast networks, as defined by an average of the national audience share during prime time of nonbroadcast networks that reach 50 percent or more of MVPD households and have at least 50 hours per quarter of prime time programming that is not live or near-live or otherwise exempt under these rules. Initially, the top five networks are those determined by The Nielsen Company, for the time period October 2009-September 2010, and will update at three year intervals. The first update will be July 1, 2015, based on the ratings for the time period October 2013-September 2014; the second will be July 1, 2018, based on the ratings for the time period October 2016-September 2017; and so on; and
+(4) Multichannel video programming distributor (MVPD) systems that serve 50,000 or more subscribers must provide 50 hours of video description per calendar quarter during prime time or children's programming, and, beginning July 1, 2018, 37.5 additional hours of video description per calendar quarter between 6 a.m. and 11:59 p.m. local time, on each channel on which they carry one of the top five national nonbroadcast networks, as defined by an average of the national audience share during prime time of nonbroadcast networks that reach 50 percent or more of MVPD households and have at least 50 hours per quarter of prime time programming that is not live or near-live or otherwise exempt under these rules. Initially, the top five networks are those determined by The Nielsen Company, for the time period October 2009-September 2010, and will update at three year intervals. The first update will be July 1, 2015, based on the ratings for the time period October 2013-September 2014; the second will be July 1, 2018, based on the ratings for the time period October 2016-September 2017; and so on; and
 
 (5) Multichannel video programming distributor (MVPD) systems of any size:
 
@@ -38,11 +36,11 @@ Link to an amendment published at 82 FR 37354, Aug. 10, 2017.
 
 (c) *Responsibility for and determination of compliance.* (1) The Commission will calculate compliance on a per channel, and, for broadcasters, a per stream, calendar quarter basis, beginning with the calendar quarter July 1 through September 30, 2012.
 
-(2) In order to meet its fifty-hour quarterly requirement, a broadcaster or MVPD may count each program it airs with video description no more than a total of two times on each channel on which it airs the program. A broadcaster or MVPD may count the second airing in the same or any one subsequent quarter. A broadcaster may only count programs aired on its primary broadcasting stream towards its fifty-hour quarterly requirement. A broadcaster carrying one of the top four commercial television broadcast networks on a secondary stream may count programs aired on that stream toward its fifty-hour quarterly requirement for that network only.
+(2) In order to meet its quarterly requirement, a broadcaster or MVPD may count each program it airs with video description no more than a total of two times on each channel on which it airs the program. A broadcaster or MVPD may count the second airing in the same or any one subsequent quarter. A broadcaster may only count programs aired on its primary broadcasting stream towards its quarterly requirement. A broadcaster carrying one of the top four commercial television broadcast networks on a secondary stream may count programs aired on that stream toward its quarterly requirement for that network only.
 
 (3) Once a commercial television broadcast station as defined under paragraph (b)(1) of this section has aired a particular program with video description, it is required to include video description with all subsequent airings of that program on that same broadcast station, unless it is using the technology used to provide video description for another purpose related to the programming that would conflict with providing the video description.
 
-(4) Once an MVPD as defined under paragraph (b)(3) of this section:
+(4) Once an MVPD as defined under paragraph (b)(4) of this section:
 
 (i) Has aired a particular program with video description on a broadcast station it carries, it is required to include video description with all subsequent airings of that program on that same broadcast station, unless it is using the technology used to provide video description for another purpose related to the programming that would conflict with providing the video description; or
 
@@ -104,4 +102,4 @@ Link to an amendment published at 82 FR 37354, Aug. 10, 2017.
 
 (f) *Private rights of action are prohibited.* Nothing in this section shall be construed to authorize any private right of action to enforce any requirement of this section. The Commission shall have exclusive jurisdiction with respect to any complaint under this section.
 
-[76 FR 55604, Sept. 8, 2011, as amended at 76 FR 68118, Nov. 3, 2011]
+[76 FR 55604, Sept. 8, 2011, as amended at 76 FR 68118, Nov. 3, 2011; 82 FR 37354, Aug. 10, 2017]
