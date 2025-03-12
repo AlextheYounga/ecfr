@@ -40,11 +40,13 @@ The following definitions apply to this subpart and to the administration of ELA
 
 *Eligible adverse weather* means, as determined by the Deputy Administrator, an extreme and abnormal damaging weather event that is not expected to occur during the loss period, which results in eligible losses. The eligible adverse weather would have resulted in agricultural losses not covered by other programs in this part for which the Deputy Administrator determines financial assistance should be provided to producers. Adverse weather may include, but is not limited to, blizzard, eligible winter storms, and wildfires. Specific eligible adverse weather may vary based on the type of loss. Identification of eligible adverse weather will include locations (National, State, or county-level) and start and end dates.
 
-*Eligible drought* means that any area of the county has been rated by the U.S. Drought Monitor as having a D3 (extreme drought) intensity:
+*Eligible drought* means that any area of the county has been rated by the U.S. Drought Monitor as having D2 (severe drought) intensity for at least 8 consecutive weeks for the specific type of eligible grazing land or pastureland for the county, or D3 (extreme drought) or D4 (exceptional drought) intensity for the specific type of eligible grazing land or pastureland for the county, as determined by the Secretary:
 
-(1) At any time during the program year, for additional honeybee feed loss;
+(1) At any time during the program year, for additional honey bee feed loss;
 
-(2) That directly impacts water availability at any time during the normal grazing period (for example, snow pack that feeds streams and springs), as determined by the Deputy Administrator or designee, for losses resulting from transporting water to livestock.
+(2) That directly impacts water availability at any time during the normal grazing period (for example, snow pack that feeds streams and springs), as determined by the Deputy Administrator or designee, for losses resulting from transporting water to livestock; or
+
+(3) At any time during the normal grazing period, for losses resulting from the additional cost incurred to transport livestock feed or eligible livestock to feed, for additional mileage above normal.
 
 *Eligible grazing land* means land that is native or improved pastureland with permanent vegetative cover or land planted to a crop planted specifically for the purpose of providing grazing for eligible livestock.
 
@@ -107,4 +109,4 @@ Unweaned livestock are not grazing animals regardless of whether those unweaned 
 
 *Verifiable record* means a document provided by the producer that can be verified by the County Committee (COC) through an independent source.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020]
+[79 FR 21097, Apr. 14, 2014, as amended at 79 FR 57721, Sept. 26, 2014; 79 FR 74571, Dec. 15, 2014; 83 FR 49464, Oct. 2, 2018; 85 FR 10963, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]

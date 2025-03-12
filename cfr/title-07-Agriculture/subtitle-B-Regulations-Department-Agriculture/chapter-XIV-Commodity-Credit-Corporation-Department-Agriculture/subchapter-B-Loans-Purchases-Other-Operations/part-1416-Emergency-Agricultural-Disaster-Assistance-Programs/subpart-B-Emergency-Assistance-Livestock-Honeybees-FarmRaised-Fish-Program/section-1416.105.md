@@ -1,6 +1,6 @@
 ##### § 1416.105 Eligible producers, owners, and contract growers. #####
 
-(a) To be considered an eligible livestock producer for feed losses and losses resulting from transporting water and gathering livestock to treat for cattle tick fever and to receive payments, the participant must have:
+(a) To be considered an eligible livestock producer and receive payments for feed losses; losses resulting from transporting water, feed, or livestock; and gathering livestock to treat for cattle tick fever; the participant must have:
 
 (1) Owned, cash-leased, purchased, entered into a contract to purchase, or been a contract grower of eligible livestock for not less than 60 days before the beginning date of the eligible adverse weather or eligible loss condition; and
 
@@ -22,4 +22,4 @@
 
 (e) A producer seeking payments must not be ineligible under the restrictions applicable to foreign persons contained in § 1416.3(b) and must meet all other requirements of subpart A of this part and other applicable USDA regulations.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49466, Oct. 2, 2018; 85 FR 10964, Feb, 26, 2020]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49466, Oct. 2, 2018; 85 FR 10964, Feb, 26, 2020; 87 FR 19785, Apr. 6, 2022]

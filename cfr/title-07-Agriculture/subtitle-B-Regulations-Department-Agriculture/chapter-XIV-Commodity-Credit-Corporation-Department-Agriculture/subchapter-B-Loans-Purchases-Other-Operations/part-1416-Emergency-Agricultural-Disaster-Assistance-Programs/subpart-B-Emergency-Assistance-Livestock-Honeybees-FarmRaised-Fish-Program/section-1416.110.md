@@ -8,9 +8,9 @@
 
 (3) The additional cost of purchasing additional livestock feed above normal quantities, required to maintain the eligible livestock during an eligible adverse weather or eligible loss condition until additional livestock feed becomes available, as specified in § 1416.103(d)(3); and
 
-(4) The additional cost incurred for transporting livestock feed to eligible livestock due to an eligible adverse weather or eligible loss condition, as specified in § 1416.103(d)(4);
+(4) The additional cost incurred for transporting livestock feed to eligible livestock due to an eligible adverse weather or eligible loss condition, as specified in § 1416.103(d)(4).
 
-(b) Payments for losses resulting from the additional cost of transporting water to eligible livestock due to an eligible adverse weather, eligible loss condition, or eligible drought for no more 150 days during the program year, as specified in § 1416.103(d)(5) calculated based on a national payment rate, as determined in § 1416.109, multiplied by the lesser of either:
+(b) Payments for losses resulting from the additional cost of transporting water to eligible livestock due to an eligible adverse weather, eligible loss condition, or eligible drought for no more than 150 days during the program year, as specified in § 1416.103(d)(5) will be calculated based on a national payment rate, as determined in § 1416.109, multiplied by the lesser of either:
 
 (1) The total value of the cost to transport water to eligible livestock for 150 days, based on the daily water requirements for the eligible livestock, or
 
@@ -112,6 +112,16 @@
 
 (ii) Paragraph (l) of this section, for losses due to wildfires on non-Federal lands.
 
-(n) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
+(n) Payments for losses resulting from the additional cost of transporting eligible livestock to feed or livestock feed to eligible livestock, for additional mileage above normal, in excess of 25 miles per truckload and for no more than 1,000 miles per truckload of livestock or livestock feed during the program year, as specified in § 1416.103(d)(6) will be calculated based on a national payment rate, as determined in § 1416.109, multiplied by:
 
-[79 FR 21097, Apr. 14, 2014, as amended at 85 FR 10965, Feb, 26, 2020]
+(1) The national average price per mile to transport a truckload of livestock or livestock feed; and
+
+(2) The actual number of additional miles above normal to transport livestock or livestock feed by an eligible producer, in excess of 25 miles per truckload of livestock or feed and for no more than 1,000 miles per truckload of livestock or feed during the program year.
+
+(o) The national average price per mile to transport a truckload of livestock or feed to be used in the calculation for paragraph (n)(1) of this section is determined by the Deputy Administrator for each program year using a national cost formula developed by FSA based on the cost of hauling feed or livestock above normal mileage, not to include the first 25 miles. The national average price per mile considers the average cost for hauling a truckload of forage or livestock from sources 200 miles away. The Deputy Administrator may determine a different price per mile for a particular state, if the Deputy Administrator determines that a different price is necessary due to differences in state hauling costs compared to national average costs. The original physical location of the livestock will determine the applicable state for payment purposes.
+
+(p) Payments for losses resulting from costs associated with treating livestock feed transported above normal to prevent the spread of invasive pests, as specified in § 1416.103(d)(6), will be calculated based on a national payment rate, as determined in § 1416.109, multiplied by the producer's actual cost for controlling invasive pests in livestock feed transported above normal.
+
+(q) Payments calculated in this section are subject to the adjustments and limits provided for in this part.
+
+[79 FR 21097, Apr. 14, 2014, as amended at 85 FR 10965, Feb, 26, 2020; 87 FR 19786, Apr. 6, 2022]

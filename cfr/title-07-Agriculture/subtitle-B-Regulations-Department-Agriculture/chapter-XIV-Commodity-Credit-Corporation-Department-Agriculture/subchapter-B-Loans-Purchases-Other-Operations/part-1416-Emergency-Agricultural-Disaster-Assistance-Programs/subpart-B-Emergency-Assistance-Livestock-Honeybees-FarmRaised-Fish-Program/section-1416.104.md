@@ -1,6 +1,6 @@
 ##### § 1416.104 Eligible livestock, honeybees, and farm-raised fish. #####
 
-(a) To be considered eligible livestock for livestock grazing and feed, losses resulting from transporting water, and gathering livestock to treat for cattle tick fever, livestock must meet all the following conditions:
+(a) To be considered eligible livestock for livestock grazing and feed; losses resulting from transporting water, feed, and livestock; and gathering livestock to treat for cattle tick fever; livestock must meet all the following conditions:
 
 (1) Be grazing animals such as alpacas, adult or non-adult dairy cattle, adult or non-adult beef cattle, adult or non-adult beefalo, adult or non-adult buffalo or bison, deer, elk, emus, equine, goats, llamas, reindeer, or sheep;
 
@@ -10,7 +10,7 @@
 
 (4) Be livestock produced or maintained for commercial use or be livestock that is produced or maintained for producing livestock products for commercial use, such as milk from dairy, as part of the contract grower's or livestock owner's farming operation on the beginning date of the eligible adverse weather or eligible loss condition.
 
-(b) The eligible livestock types for grazing and feed losses, losses resulting from transporting water, and gathering livestock to treat for cattle tick fever, are:
+(b) The eligible livestock types for grazing and feed losses; losses resulting from transporting water, feed, and livestock; and gathering livestock to treat for cattle tick fever are:
 
 (1) Adult beef cows or bulls,
 
@@ -46,7 +46,7 @@
 
 (17) Sheep.
 
-(c) Ineligible livestock for grazing and feed losses, and losses resulting from transporting water, include, but are not limited to:
+(c) Ineligible livestock for grazing and feed losses and losses resulting from transporting water, feed, and livestock include, but are not limited to:
 
 (1) Livestock that were or would have been in a feedlot, on the beginning date of the eligible adverse weather or eligible loss condition, as a part of the normal business operation of the producer, as determined by FSA;
 
@@ -108,4 +108,4 @@
 
 (iii) Been physically located in the county where the eligible loss adverse weather or eligible loss condition occurred on the beginning date of the eligible adverse weather or eligible loss condition.
 
-79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020]
+79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018;85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]

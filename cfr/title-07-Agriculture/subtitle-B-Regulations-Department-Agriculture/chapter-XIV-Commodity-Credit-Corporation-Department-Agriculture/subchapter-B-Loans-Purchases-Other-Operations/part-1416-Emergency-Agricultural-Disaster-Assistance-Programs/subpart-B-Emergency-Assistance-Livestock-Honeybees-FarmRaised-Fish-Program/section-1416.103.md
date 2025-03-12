@@ -16,13 +16,15 @@
 
 (4) A loss resulting from the additional cost incurred for transporting livestock feed to eligible livestock as specified in § 1416.104(a) due to an eligible adverse weather or eligible loss condition, as determined by the Deputy Administrator, including, but not limited to, costs associated with equipment rental fees for hay lifts and snow removal. To be eligible, the loss must be incurred in combination with a loss described in paragraphs (d)(1), (2), or (3) of this section. The additional costs incurred must have been incurred for losses suffered in the county where the eligible adverse weather or eligible loss condition occurred. Eligible adverse weather or eligible loss conditions, as determined by the Deputy Administrator, include, but not limited to, blizzard, eligible winter storms, flood, hurricane, lightning, tidal surge, tornado, volcanic eruption, or wildfire on non-Federal land;
 
-(5) A loss resulting from the additional cost of transporting water to eligible livestock as specified in § 1416.104(a) due to eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including, but not limited to, costs associated with water transport equipment rental fees, labor, and contracted water transportation fees. The cost of the water is not eligible for payment. Transporting water to livestock located on land enrolled in CRP is not an eligible loss under ELAP. To be eligible for additional cost of transporting water to eligible livestock, the livestock must be on eligible grazing lands that meet all of the following:
+(5) A loss resulting from the additional cost of transporting water to eligible livestock as specified in § 1416.104(a) due to eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including, but not limited to, costs associated with water transport equipment rental fees, labor, and contracted water transportation fees. The cost of the water is not eligible for payment. To be eligible for additional cost of transporting water to eligible livestock, the livestock must be livestock that would normally have been grazing on eligible grazing lands that meet all of the following:
 
 (i) Physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred;
 
 (ii) That had adequate livestock watering systems or facilities before the eligible adverse weather, eligible loss condition, or eligible drought occurred; and
 
 (iii) That the producer is not normally required to transport water to the livestock.
+
+(6) A loss resulting from the additional cost incurred on or after January 1, 2021, to transport, eligible livestock to feed or livestock feed to eligible livestock for additional mileage above normal, due to eligible adverse weather, an eligible loss condition, or eligible drought, as determined by the Deputy Administrator, including costs associated with treating livestock feed to prevent the spread of invasive pests. The cost of the feed is not eligible for payment. Negligence, mismanagement, or wrongdoing by the producer is not considered an eligible loss condition for livestock or feed transportation costs. To be eligible for a loss under this paragraph, the livestock must be livestock that would normally have been on eligible grazing lands physically located in the county where the eligible adverse weather, eligible loss condition, or eligible drought, as determined by the Deputy Administrator, occurred.
 
 (e) For a grazing loss to be considered eligible, the grazing loss must have been incurred:
 
@@ -54,4 +56,4 @@
 
 (i) For death losses of bait fish, game fish, or other aquatic species, as determined by the Deputy Administrator, to be considered eligible, the producer must have incurred the fish loss, in excess of normal mortality, in the county where the eligible adverse weather or eligible loss condition occurred. The fish death must be due to an eligible adverse weather or eligible loss condition as determined by the Deputy Administrator including, but not limited to, earthquake, flood, hurricane, tidal surge, tornado, and volcanic eruption.
 
-[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020]
+[79 FR 21097, Apr. 14, 2014, as amended at 83 FR 49465, Oct. 2, 2018; 85 FR 10964, Feb. 26, 2020; 87 FR 19785, Apr. 6, 2022]
