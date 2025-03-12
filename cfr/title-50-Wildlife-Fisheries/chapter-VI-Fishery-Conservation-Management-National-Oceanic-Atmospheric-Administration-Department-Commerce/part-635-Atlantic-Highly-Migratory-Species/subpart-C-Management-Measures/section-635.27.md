@@ -1,6 +1,6 @@
 ##### § 635.27 Quotas. #####
 
-Link to an amendment published at 87 FR 25590, May 2, 2022.Link to an amendment published at 87 FR 39383, July 1, 2022.
+Link to an amendment published at 87 FR 25590, May 2, 2022.
 
 (a) *Bluefin tuna.* Consistent with ICCAT recommendations, and with paragraph (a)(10)(iv) of this section, NMFS may subtract the most recent, complete, and available estimate of dead discards from the annual U.S. bluefin tuna quota, and make the remainder available to be retained, possessed, or landed by persons and vessels subject to U.S. jurisdiction. The remaining baseline annual U.S. bluefin tuna quota will be allocated among the General, Angling, Harpoon, Purse Seine, Longline, Trap, and Reserve categories, as described in this section. Bluefin tuna quotas are specified in whole weight. The baseline annual U.S. bluefin tuna quota is 1,316.14 mt, not including an additional annual 25-mt allocation provided in paragraph (a)(3) of this section. The bluefin quota for the quota categories is calculated through the following process. First, 68 mt is subtracted from the baseline annual U.S. bluefin tuna quota and allocated to the Longline category quota. Second, the remaining quota is divided among the categories according to the following percentages: General - 47.1 percent (587.9 mt); Angling - 19.7 percent (245.9 mt), which includes the school bluefin tuna held in reserve as described under paragraph (a)(7)(ii) of this section; Harpoon - 3.9 percent (48.7 mt); Purse Seine - 18.6 percent (232.2 mt); Longline - 8.1 percent (101.1) plus the 68-mt allocation (*i.e.,* 169.1 mt total not including the 25-mt allocation from paragraph (a)(3)); Trap - 0.1 percent (1.2 mt); and Reserve - 2.5 percent (31.2 mt). NMFS may make inseason and annual adjustments to quotas as specified in paragraphs (a)(9) and (10) of this section, including quota adjustments as a result of the annual reallocation of Purse Seine quota described under paragraph (a)(4)(v) of this section.
 
@@ -188,13 +188,15 @@ Link to an amendment published at 87 FR 25590, May 2, 2022.Link to an amendment 
 
 (4) *Public display and non-specific research quotas.* All sharks collected under the authority of a display permit or EFP, subject to restrictions at § 635.32, will be counted against the following:
 
-(i) The base annual quota for persons who collect LCS other than sandbar, SCS, pelagic sharks, blue sharks, porbeagle sharks, or prohibited species under a display permit or EFP is 57.2 mt ww (41.2 mt dw).
+(i) The base annual quota for persons who collect LCS other than sandbar, SCS, pelagic sharks other than shortfin mako, blue sharks, porbeagle sharks, or prohibited species under a display permit or EFP is 57.2 mt ww (41.2 mt dw).
 
 (ii) The base annual quota for persons who collect sandbar sharks under a display permit is 1.4 mt ww (1.0 mt dw) and under an EFP is 1.4 mt ww (1.0 mt dw).
 
 (iii) No persons may collect dusky sharks under a display permit. Collection of dusky sharks for research under EFPs and/or SRPs may be considered on a case-by-case basis and any associated mortality would be deducted from the shark research and display quota.
 
 (iv) The base annual quota for persons who collect smoothhound sharks under a display permit or EFP is 6 mt ww (4.3 mt dw).
+
+(v) No persons may collect shortfin mako sharks under a display permit. Collection of shortfin mako sharks for research under EFPs and/or SRPs may be considered on a case-by-case basis and any associated mortality would be deducted from the shark research and display quota if shortfin mako shark retention is otherwise prohibited or counted against U.S. allowable retention levels established at ICCAT when retention is allowed.
 
 (c) *Swordfish* - (1) *Categories.* Consistent with ICCAT recommendations, the fishing year's total amount of swordfish that may be caught, retained, possessed, or landed by persons and vessels subject to U.S. jurisdiction is divided into quotas for the North Atlantic swordfish stock and the South Atlantic swordfish stock. The quota for the North Atlantic swordfish stock is further divided into equal semi-annual directed fishery quotas, an annual incidental catch quota for fishermen targeting other species or taking swordfish recreationally, and a reserve category.
 

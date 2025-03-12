@@ -1,7 +1,5 @@
 ##### § 635.21 Gear operation and deployment restrictions. #####
 
-Link to an amendment published at 87 FR 39382, July 1, 2022.
-
 (a) *All Atlantic HMS fishing gears.* (1) An Atlantic HMS harvested from its management unit that is not retained must be released in a manner that will ensure maximum probability of survival, but without removing the fish from the water.
 
 (2) If a billfish is caught by a hook and not retained, the fish must be released by cutting the line near the hook or by using a dehooking device, in either case without removing the fish from the water.
@@ -34,7 +32,7 @@ Link to an amendment published at 87 FR 39382, July 1, 2022.
 
 (iii) Has pelagic longline gear on board, persons aboard that vessel are required to release unharmed, to the extent practicable, porbeagle sharks that are alive at the time of haulback.
 
-(iv) Has pelagic longline gear on board, persons aboard that vessel are required to promptly release in a manner that causes the least harm any shortfin mako shark that is alive at the time of haulback. Any shortfin mako shark that is dead at the time of haulback may be retained provided the electronic monitoring system is installed and functioning in compliance with the requirements at § 635.9.
+(iv) Has pelagic longline gear on board, persons aboard that vessel are required to promptly release in a manner that causes the least harm any shortfin mako shark that is alive at the time of haulback, consistent with the requirements specified at paragraphs (a)(1) and (c)(6)(i) of this section. When the commercial retention limit specified at § 635.24(a)(4)(v) is greater than zero, any shortfin mako shark that is dead at the time of haulback may be retained provided the electronic monitoring system is installed and functioning in compliance with the requirements at § 635.9.
 
 (2) If pelagic longline gear is on board a vessel issued or required to be issued a LAP under this part, persons aboard that vessel may not fish or deploy any type of fishing gear:
 
@@ -256,4 +254,4 @@ Link to an amendment published at 87 FR 39382, July 1, 2022.
 
 (2) A person on board a vessel that has been issued or is required to be issued an HMS Angling permit with a shark endorsement or a person on board a vessel with an HMS Charter/Headboat permit with a shark endorsement must deploy only non-offset, corrodible circle hooks when fishing for, retaining, possessing, or landing, except when fishing with flies or artificial lures.
 
-[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020; 85 FR 65479, Oct. 16, 2020; 87 FR 11324, Mar. 1, 2022]
+[79 FR 71594, Dec. 2, 2014, as amended at 80 FR 60567, Oct. 7, 2015; 80 FR 73145, Nov. 24, 2015; 81 FR 57806, Aug. 24, 2016; 82 FR 16507, Apr. 4, 2017; 83 FR 33154, July 17, 2018; 84 FR 5376, Feb. 21, 2019; 85 FR 18841, Apr. 2, 2020; 85 FR 65479, Oct. 16, 2020; 87 FR 11324, Mar. 1, 2022; 87 FR 39382, July 1, 2022]

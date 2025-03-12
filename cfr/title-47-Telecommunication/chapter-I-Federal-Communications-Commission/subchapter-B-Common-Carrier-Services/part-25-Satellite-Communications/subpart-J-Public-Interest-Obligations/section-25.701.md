@@ -1,7 +1,5 @@
 ##### § 25.701 Other DBS Public interest obligations. #####
 
-Link to an amendment published at 87 FR 7754, Feb. 10, 2022.This amendment was made effective July 5, 2022, at 87 FR 33441, June 2, 2022.
-
 (a) DBS providers are subject to the public interest obligations set forth in paragraphs (b), (c), (d), (e) and (f) of this section. As used in this section, DBS providers are any of the following:
 
 (1) Entities licensed to operate satellites in the 12.2 to 12.7 GHz DBS frequency bands; or
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 7754, Feb. 10, 2022.This amendment was m
 
 (5) Non U.S. licensed satellite operators in the 17/24 GHz BSS that offer video programming directly to consumers in the United States or that sell or lease capacity to a video programming distributor that offers service directly to consumers in the United States pursuant to an earth station license issued under part 25 of this title and that offer a sufficient number of channels to consumers so that four percent of the total applicable programming channels yields a set aside of one channel of noncommercial programming pursuant to paragraph (e) of this section.
 
-(b) Political broadcasting requirements -
+(b) Political broadcasting requirements—
 
 (1) Legally qualified candidates for public office for purposes of this section are as defined in § 73.1940 of this chapter.
 
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 7754, Feb. 10, 2022.This amendment was m
 
 (v) *Discrimination between candidates.* In making time available to candidates for public office, no DBS provider shall make any discrimination between candidates in practices, regulations, facilities, or services for or in connection with the service rendered pursuant to this part, or make or give any preference to any candidate for public office or subject any such candidate to any prejudice or disadvantage; nor shall any DBS provider make any contract or other agreement that shall have the effect of permitting any legally qualified candidate for any public office to use DBS origination programming to the exclusion of other legally qualified candidates for the same public office.
 
-(c) *Candidate rates* - (1) *Charges for use of DBS facilities.* The charges, if any, made for the use of any DBS facility by any person who is a legally qualified candidate for any public office in connection with his or her campaign for nomination for election, or election, to such office shall not exceed:
+(c) *Candidate rates*—(1) *Charges for use of DBS facilities.* The charges, if any, made for the use of any DBS facility by any person who is a legally qualified candidate for any public office in connection with his or her campaign for nomination for election, or election, to such office shall not exceed:
 
 (i) During the 45 days preceding the date of a primary or primary runoff election and during the 60 days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the DBS provider for the same class and amount of time for the same period.
 
@@ -90,15 +88,37 @@ Link to an amendment published at 87 FR 7754, Feb. 10, 2022.This amendment was m
 
 (3) Once disclosure is made, DBS providers shall negotiate in good faith to actually sell time to candidates in accordance with the disclosure.
 
-(d) *Political file.* Each DBS provider shall maintain a complete and orderly political file.
+(d) *Political file.* (1) Each DBS operator engaged in origination programming shall maintain, and make available for public inspection, a complete record of a request to purchase adverting time that:
 
-(1) The political file shall contain, at a minimum:
+(i) Is made by or on behalf of a legally qualified candidate for public office; or
 
-(i) A record of all requests for DBS origination time, the disposition of those requests, and the charges made, if any, if the request is granted. The “disposition” includes the schedule of time purchased, when spots actually aired, the rates charged, and the classes of time purchased; and
+(ii) Communicates a message relating to any political matter of national importance, including:
 
-(ii) A record of the free time provided if free time is provided for use by or on behalf of candidates.
+(A) A legally qualified candidate;
 
-(2) All records required to be retained by this section must be placed in the political file as soon as possible and must be retained for a period of two years. After the effective date of this section, DBS providers shall place all new political file material required to be retained by this section in the online file hosted by the Commission.
+(B) Any election to Federal office; or
+
+(C) A national legislative issue of public importance.
+
+(2) A record maintained under this paragraph shall contain information regarding:
+
+(i) Whether the request to purchase advertising time is accepted or rejected by the DBS operator;
+
+(ii) The rate charged for the advertising time;
+
+(iii) The date and time on which the communication is aired;
+
+(iv) The class of time that is purchased;
+
+(v) The name of the candidate to which the communication refers and the office to which the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
+
+(vi) In the case of a request made by, or on behalf of, a candidate, the name of the candidate, the authorized committee of the candidate, and the treasurer of such committee; and
+
+(vii) In the case of any other request, the name of the person purchasing the time, the name, address, and phone number of a contact person for such person, and a list of the chief executive officers or members of the executive committee or of the board of directors of such person.
+
+(3) When free time is provided for use by or on behalf of candidates, a record of the free time provided shall be placed in the political file.
+
+(4) All records required by this paragraph shall be placed in the online public file hosted by the Commission as soon as possible and shall be retained for a period of two years. As soon as possible means immediately absent unusual circumstances.
 
 (e) *Commercial limits in children's programs.* (1) No DBS provider shall air more than 10.5 minutes of commercial matter per hour during children's programming on weekends, or more that 12 minutes of commercial matter per hour on week days.
 
@@ -114,7 +134,7 @@ Note 2 to paragraph (e):
 
 For purposes of this section, children's programming refers to programs originally produced and broadcast primarily for an audience of children 12 years old and younger.
 
-(f) Carriage obligation for noncommercial programming -
+(f) Carriage obligation for noncommercial programming—
 
 (1) *Reservation requirement.* DBS providers shall reserve four percent of their channel capacity exclusively for use by qualified programmers for noncommercial programming of an educational or informational nature. Channel capacity shall be determined annually by calculating, based on measurements taken on a quarterly basis, the average number of channels available for video programming on all satellites licensed to the provider during the previous year. DBS providers may use this reserved capacity for any purpose until such time as it is used for noncommercial educational or informational programming.
 
@@ -164,4 +184,4 @@ For purposes of this section, children's programming refers to programs original
 
 (7) *Effective date.* DBS providers are required to make channel capacity available pursuant to this section upon the effective date. Programming provided pursuant to this rule must be available to the public no later than six months after the effective date.
 
-[69 FR 23157, Apr. 28, 2004, as amended at 72 FR 50033, Aug. 29, 2007; 78 FR 8431, Feb. 6, 2013; 81 FR 10122, Feb. 29, 2016; 84 FR 45668, Aug. 30, 2019]
+[69 FR 23157, Apr. 28, 2004, as amended at 72 FR 50033, Aug. 29, 2007; 78 FR 8431, Feb. 6, 2013; 81 FR 10122, Feb. 29, 2016; 84 FR 45668, Aug. 30, 2019; 87 FR 7754, Feb. 10, 2022]

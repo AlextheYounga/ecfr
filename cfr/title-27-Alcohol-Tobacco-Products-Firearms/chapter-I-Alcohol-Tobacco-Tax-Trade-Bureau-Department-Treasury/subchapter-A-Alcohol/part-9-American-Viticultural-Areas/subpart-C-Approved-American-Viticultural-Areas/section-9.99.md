@@ -1,7 +1,5 @@
 ##### § 9.99 Clear Lake. #####
 
-Link to an amendment published at 87 FR 33645, June 3, 2022.
-
 (a) *Name.* The name of the viticultural area described in this section is “Clear Lake.”
 
 (b) *Approved Maps.* The appropriate maps for determining the boundaries of the Clear Lake viticultural area are four U.S.G.S. maps. The maps are titled as follows:
@@ -12,11 +10,13 @@ Link to an amendment published at 87 FR 33645, June 3, 2022.
 
 (3) “Lakeport Quadrangle, California,” 15 minute series, 1958;
 
-(4) “Kelseyville Quadrangle, California,” 15 minute series, 1959.
+(4) “Kelseyville Quadrangle, California,” 15 minute series, 1959;
+
+(5) “Upper Lake Quadrangle, California,” 7.5 minute series, 1996.
 
 (c) *Boundaries.* The Clear Lake viticultural area is located in southwestern Lake County, California. The descriptive boundaries of the viticultural area, using landmarks and points of reference on the applicable U.S.G.S. maps, are as follows:
 
-*Lower Lake Quadrangle Map* (15 minute series); From the beginning point on Mt. Hannah in Section 16, Township 12 North (T12N), Range 8 West (R8W), identified as having an elevation of 3,978 feet, the boundary runs -
+*Lower Lake Quadrangle Map* (15 minute series); From the beginning point on Mt. Hannah in Section 16, Township 12 North (T12N), Range 8 West (R8W), identified as having an elevation of 3,978 feet, the boundary runs—
 
 (1) East-southeasterly in a straight line to the point on Seigler Mountain in Section 23, T12N/R8W, identified as having an elevation of 3,692 feet;
 
@@ -30,32 +30,40 @@ Link to an amendment published at 87 FR 33645, June 3, 2022.
 
 (6) Then northerly along the east line of Sections 23, 14, 11, and 2, to the point at the northeast corner of Section 2, T13N/R7W, on the Clearlake Oaks Quadrangle map;
 
-*Clearlake Oaks Quadrangle Map* (15 minute series); Continuing from the northeast corner of Section 2, T13N/R7W -
+*Clearlake Oaks Quadrangle Map* (15 minute series); Continuing from the northeast corner of Section 2, T13N/R7W—
 
 (7) Then northwesterly in a straight line to the point in Section 21, T14N/R7W, at the top of Round Mountain
 
 (8) Then northwesterly in a straight line to the southeast corner of Section 4, T14N/R8W;
 
-*Lakeport Quadrangle Map* (15 minute series); Continuing from the southeast corner of Section 4, T14N/R8W, on the Clearlake Oaks Quadrangle Map -
+*Lakeport Quadrangle Map* (15 minute series); Continuing from the southeast corner of Section 4, T14N/R8W, on the Clearlake Oaks Quadrangle Map—
 
 (9) Then northwesterly on the Lakeport Quadrangle in a straight line to a point on Charlie Alley Peak in Section 28, T16N/R9W, identified as having an elevation of 3,482 feet;
 
 (10) Then westerly in a straight line to a point on Hells Peak in Section 29, T16N/R10W, identified as having an elevation of 2,325 feet;
 
-(11) The southeasterly in a straight line to a point on Griner Peak in Section 23, T15N/R10W, identified as having an elevation of 2,132 feet;
+(11) Then southeasterly in a straight line, crossing onto the Upper Lake quadrangle, to the intersection of the 1,600-foot elevation contour and an unnamed 4-wheel drive road in Section 9, T15N/R10W;
 
-(12) Then southwesterly in a straight line to a point on Scotts Mountain in Section 8, T14N/R10W, identified as having an elevation of 2,380 feet;
+(12) Then northwesterly, then southwesterly along the 1,600-foot elevation contour to a point in Section 8, T15N/R10W, that is due north of the westernmost structure in a row of three structures located south of Scotts Creek;
 
-(13) Then southeasterly in a straight line to a point on Lakeport Peak in Section 35, T14N/R10W, identified as having an elevation of 2,180 feet;
+(13) Then south in a straight line, crossing over Scotts Creek and the westernmost structure, to the intersection with an unnamed, unimproved road and the 1,600-foot elevation contour in Section 17, T15N/R10W;
 
-*Kelseyville Quadrangle Map* (15 minute series); Continuing from Lakeport Peak in Section 35, T14N/R10W, on the Lakeport Quadrangle Map -
+(14) Then generally east along the 1,600-foot elevation contour to its second intersection with an unnamed, unimproved road in section 15, T15N/R10W;
 
-(14) Then southeasterly in a straight line to the point at the southwest corner of Section 1, T13N/R10W;
+(15) The southeasterly in a straight line to a point on Griner Peak in Section 23, T15N/R10W, identified as having an elevation of 2,132 feet;
 
-(15) Then south by southeast in a straight line to the point at the southeast corner of Section 36, T13N/R10W;
+(16) Then southwesterly in a straight line to a point on Scotts Mountain in Section 8, T14N/R10W, identified as having an elevation of 2,380 feet;
 
-(16) Then south by southeasterly in a straight line to the point at the southwest corner of Section 18, T12N/R8W;
+(17) Then southeasterly in a straight line to a point on Lakeport Peak in Section 35, T14N/R10W, identified as having an elevation of 2,180 feet;
 
-(17) Then east by northeast in a straight line to the beginning point at Mount Hannah, Section 16, T12N/R8W, on the Lower Lake Quadrangle Map.
+*Kelseyville Quadrangle Map* (15 minute series); Continuing from Lakeport Peak in Section 35, T14N/R10W, on the Lakeport Quadrangle Map—
 
-[T.D. ATF-174, 49 FR 19468, May 8, 1984]
+(18) Then southeasterly in a straight line to the point at the southwest corner of Section 1, T13N/R10W;
+
+(19) Then south by southeast in a straight line to the point at the southeast corner of Section 36, T13N/R10W;
+
+(20) Then south by southeasterly in a straight line to the point at the southwest corner of Section 18, T12N/R8W;
+
+(21) Then east by northeast in a straight line to the beginning point at Mount Hannah, Section 16, T12N/R8W, on the Lower Lake Quadrangle Map.
+
+[T.D. ATF-174, 49 FR 19468, May 8, 1984, as amended by T.D. TTB-182, 87 FR 33645, June 3, 2022]

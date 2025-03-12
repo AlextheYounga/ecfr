@@ -796,7 +796,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |    Grants Pass     |                        30                         |   |
 |   Klamath Falls    |                   13, 29, \*33                    |   |
 |     La Grande      |                     \*13, 16                      |   |
-|      Medford       |                5, \*8, 10, 12, 26                 |   |
+|      Medford       |                5, \*8, 12, 16, 26                 |   |
 |     Pendleton      |                        11                         |   |
 |      Portland      |             \*10, 21, 24, 25, 26, 32              |   |
 |      Roseburg      |                    18, 19, 36                     |   |

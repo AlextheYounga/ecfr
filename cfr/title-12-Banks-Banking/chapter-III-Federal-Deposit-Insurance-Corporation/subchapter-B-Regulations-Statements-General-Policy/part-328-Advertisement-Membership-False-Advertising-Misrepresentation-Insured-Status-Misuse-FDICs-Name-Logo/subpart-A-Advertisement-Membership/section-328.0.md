@@ -1,0 +1,3 @@
+##### § 328.0 Scope. #####
+
+Part 328 describes the official sign of the FDIC and prescribes its use by insured depository institutions. It also prescribes the official advertising statement insured depository institutions must include in their advertisements. For purposes of part 328, the term “insured depository institution” includes insured branches of a foreign depository institution. Part 328 does not apply to non-insured offices or branches of insured depository institutions located in foreign countries.

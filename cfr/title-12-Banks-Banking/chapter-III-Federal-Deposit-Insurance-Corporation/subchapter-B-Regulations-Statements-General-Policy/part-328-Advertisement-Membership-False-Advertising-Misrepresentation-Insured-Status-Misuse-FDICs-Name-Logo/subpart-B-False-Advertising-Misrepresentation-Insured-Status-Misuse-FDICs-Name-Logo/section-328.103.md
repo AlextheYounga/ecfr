@@ -1,0 +1,3 @@
+##### § 328.103 Inquiries and complaints. #####
+
+Should any person have reason to believe that anyone is or may be acting in violation of section 18(a) of the FDI Act (12 U.S.C. 1828(a)) or this subpart, or have questions regarding the accuracy of deposit-related representations, such individuals may contact the FDIC at the FDIC Information and Support Center, *http://ask.fdic.gov/fdicinformationandsupportcenter/s/,* or by telephone at 1-877-275-3342 (1-877-ASK-FDIC).

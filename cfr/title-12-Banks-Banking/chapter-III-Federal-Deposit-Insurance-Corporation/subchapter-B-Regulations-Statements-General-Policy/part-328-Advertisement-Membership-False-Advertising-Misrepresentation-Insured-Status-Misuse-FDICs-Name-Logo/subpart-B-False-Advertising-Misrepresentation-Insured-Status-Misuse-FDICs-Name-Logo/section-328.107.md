@@ -1,0 +1,13 @@
+##### § 328.107 Formal enforcement actions. #####
+
+(a) *Enforcement authority.* For the purpose of enforcing the requirements of section 18(a)(4) of the FDI Act (12 U.S.C. 1818(a)(4)) and this subpart, the General Counsel has delegated authority to bring administrative enforcement actions against any person under sections 8(b), (c), (d), and (i) of the FDI Act (12 U.S.C. 1818(b), 1818(c), 1818(d), and 1818(i)). In the case of conduct by a Regulated Institution for which another Federal banking agency is the appropriate Federal banking agency or an institution-affiliated party of such an institution, the General Counsel may not bring an enforcement action under this subpart unless the FDIC has provided the appropriate Federal banking agency with notice as set forth in § 328.105(a)(1) and the appropriate Federal banking agency failed to take the recommended action.
+
+(b) *Venue.* Unless the person who is the subject of the enforcement action consents to a different location, the venue for an administrative action commenced under section 18(a)(4) of the FDI Act (12 U.S.C. 1818(a)(4)), will be as follows:
+
+(1) In a case where the person who is the subject of the action is an Insured Depository Institution or an IAP of an Insured Depository Institution, in the Federal judicial district or territory in which the home office of the Insured Depository Institution is located.
+
+(2) In a case where the person who is the subject of the action is not an Insured Depository Institution or an IAP of an Insured Depository Institution, the Federal judicial district or territory where the person who is the subject of the action resides, if the subject resides in the United States. If the subject of the action does not reside in the United States, the venue will be where the subject of the action conducts business or the Federal judicial district for the District of Columbia.
+
+(3) For the purposes of paragraph (b)(1) of this section, a natural person is deemed to reside in the Federal judicial district where the natural person is domiciled. A person other than a natural person is deemed to reside in the Federal judicial district where it is headquartered or has its principal place of business.
+
+(c) *Rules of practice and procedure.* All actions brought and maintained under this section will be subject to the FDIC's Rules of Practice and Procedure in subparts A through C of part 308 of this chapter (12 CFR 308.1 through 308.109).
