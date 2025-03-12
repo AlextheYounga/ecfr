@@ -1,5 +1,7 @@
 ##### § 679.42 Limitations on use of QS and IFQ. #####
 
+Link to an amendment published at 85 FR 850, Jan. 8, 2020.
+
 (a) *IFQ regulatory area and vessel category.* (1) The QS or IFQ specified for one IFQ regulatory area must not be used in a different IFQ regulatory area, except for the following:
 
 (i) All or part of the QS and IFQ specified for regulatory area 4C may be harvested in either Area 4C or Area 4D.

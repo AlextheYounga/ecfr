@@ -12,7 +12,7 @@
 
 (iii) Unbundled network element (UNE) loops, special access lines, or other leased facilities that the entity uses to complete terminations to the end-user premises;
 
-(iv) Wireless service for which the entity holds a license or that the entity manages or has obtained the right to use via a spectrum leasing arrangement or comparable arrangement pursuant to subpart X of this Part (§§ 1.9001-1.9080); or
+(iv) Wireless spectrum for which the entity holds a license or that the entity manages or has obtained the right to use via a spectrum leasing arrangement or comparable arrangement pursuant to subpart X of this Part (§§ 1.9001-1.9080); or
 
 (v) Unlicensed spectrum.
 
@@ -62,4 +62,4 @@
 
 (f) Failure to file the FCC Form 477 in accordance with the Commission's rules and the instructions to the Form 477 may lead to enforcement action pursuant to the Act and any other applicable law.
 
-[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019]
+[65 FR 19684, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000, as amended at 67 FR 13224, Mar. 21, 2002; 69 FR 77938, Dec. 29, 2004; 69 FR 72027, Dec. 10, 2004; 73 FR 37881, July 2, 2008; 78 FR 45470, July 29, 2013; 78 FR 49148, Aug. 13, 2013; 84 FR 43723, Aug. 22, 2019; 85 FR 838, Jan. 8, 2020]

@@ -1,5 +1,7 @@
 ##### § 679.28 Equipment and operational requirements. #####
 
+Link to an amendment published at 85 FR 850, Jan. 8, 2020.
+
 (a) *Applicability.* This section contains the operational requirements for scales, observer sampling stations, vessel monitoring system hardware, catch monitoring and control plans, catcher vessel electronic logbook software, and video monitoring systems. The operator or manager must retain a copy of all records described in this section (§ 679.28) as indicated at § 679.5(a)(5) and (6) and make available the records upon request of NMFS observers and authorized officers as indicated at § 679.5(a)(5).
 
 (b) *Scales used to weigh catch at sea.* In order to be approved by NMFS a scale used to weigh catch at sea must meet the type evaluation requirements set forth in paragraph (b)(1) of this section and the initial inspection and annual reinspection requirements set forth in paragraph (b)(2) of this section. Once a scale is installed on a vessel and approved by NMFS for use to weigh catch at sea, it must be reinspected annually and must be tested daily and meet the maximum permissible error (MPE) requirements described in paragraph (b)(3) of this section.

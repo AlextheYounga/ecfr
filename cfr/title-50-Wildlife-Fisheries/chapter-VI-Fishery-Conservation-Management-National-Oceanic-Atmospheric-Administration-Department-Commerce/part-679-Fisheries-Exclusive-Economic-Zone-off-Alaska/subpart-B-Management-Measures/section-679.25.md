@@ -1,5 +1,7 @@
 ##### § 679.25 Inseason adjustments. #####
 
+Link to an amendment published at 85 FR 850, Jan. 8, 2020.
+
 (a) *General* - (1) *Types of adjustments.* Inseason adjustments issued by NMFS under this section include:
 
 (i) Closure, extension, or opening of a season in all or part of a management area.

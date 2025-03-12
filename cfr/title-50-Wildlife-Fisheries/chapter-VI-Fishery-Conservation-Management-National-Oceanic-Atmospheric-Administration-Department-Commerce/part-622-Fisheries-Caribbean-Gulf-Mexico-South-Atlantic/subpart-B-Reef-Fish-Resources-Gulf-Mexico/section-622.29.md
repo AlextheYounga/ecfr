@@ -1,16 +1,14 @@
 ##### § 622.29 Conservation measures for protected resources. #####
 
-Link to an amendment published at 84 FR 67238, Dec. 9, 2019.
+(a) *Gulf reef fish commercial vessels and charter vessels/headboats*—(1) *Sea turtle conservation measures.* (i) The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under § 622.20(a)(1) and (b), respectively, must have the 2019 version of the NMFS document titled, “Careful Release Protocols for Sea Turtle Release with Minimal Injury” available for reference on board electronically or have a paper copy on board inside the wheelhouse, or within a waterproof case if there is no wheelhouse. In addition, the NMFS sea turtle handling and release guidelines placard must be posted inside the wheelhouse or an easily viewable area on the vessel if there is no wheelhouse.
 
-(a) *Gulf reef fish commercial vessels and charter vessels/headboats* - (1) *Sea turtle conservation measures.* (i) The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under § 622.20(a)(1) and (b), respectively, must have the 2019 version of the NMFS document titled, “Careful Release Protocols for Sea Turtle Release with Minimal Injury” available for reference on board electronically or have a paper copy on board inside the wheelhouse, or within a waterproof case if there is no wheelhouse. In addition, the NMFS sea turtle handling and release guidelines placard must be posted inside the wheelhouse or an easily viewable area on the vessel if there is no wheelhouse.
-
-(ii) Such owner or operator must also comply with the sea turtle interaction mitigation measures, including the release gear and handling requirements specified in paragraphs C. and D. in appendix F to this part.
+(ii) Such owner or operator must also comply with the sea turtle interaction mitigation measures, including the release gear and handling requirements specified in appendix F of this part.
 
 (iii) Those permitted vessels with a freeboard height of 4 ft (1.2 m) or less must have on board a net or hoist, tire or other support device, short-handled dehooker(s) for internal and external hooks, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers or mouth gags. This equipment must meet the specifications described in appendix F to this part.
 
 (iv) Those permitted vessels with a freeboard height of greater than 4 ft (1.2 m) must have on board a net or hoist, tire or other support device, long-handled line clipper or cutter, short-handled dehooker(s) for internal and external hooks, long-handled dehooker(s) for internal and external hooks, a long-handled device to pull an inverted “V” in the fishing line, long-nose or needle-nose pliers, bolt cutters, monofilament line cutters, and at least two types of mouth openers or mouth gags. This equipment must meet the specifications described in appendix F to this part.
 
-(2) *Smalltooth sawfish conservation measures.* The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under §§ 622.20(a)(1) and 622.20(b), respectively, that incidentally catches a smalltooth sawfish must -
+(2) *Smalltooth sawfish conservation measures.* The owner or operator of a vessel for which a commercial vessel permit for Gulf reef fish or a charter vessel/headboat permit for Gulf reef fish has been issued, as required under §§ 622.20(a)(1) and 622.20(b), respectively, that incidentally catches a smalltooth sawfish must—
 
 (i) Keep the sawfish in the water at all times;
 
@@ -34,4 +32,4 @@ Link to an amendment published at 84 FR 67238, Dec. 9, 2019.
 
 (ii) [Reserved]
 
-[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 22385, May 17, 2019]
+[78 FR 22952, Apr. 17, 2013, as amended at 84 FR 22385, May 17, 2019; 84 FR 67238, Dec. 9, 2019]

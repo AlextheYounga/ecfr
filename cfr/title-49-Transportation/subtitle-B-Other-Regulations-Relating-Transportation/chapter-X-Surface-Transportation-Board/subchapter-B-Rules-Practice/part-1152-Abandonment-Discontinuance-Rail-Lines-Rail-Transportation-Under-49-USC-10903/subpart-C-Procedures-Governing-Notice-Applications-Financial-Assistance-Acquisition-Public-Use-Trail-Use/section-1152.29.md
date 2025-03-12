@@ -1,7 +1,6 @@
 ##### § 1152.29 Prospective use of rights-of-way for interim trail use and rail banking. #####
 
-Link to an amendment published at 84 FR
-66325, Dec. 4, 2019.
+Link to an amendment published at 84 FR66325, Dec. 4, 2019.
 
 (a) If any state, political subdivision, or qualified private organization is interested in acquiring or using a right-of-way of a rail line proposed to be abandoned for interim trail use and rail banking pursuant to 16 U.S.C. 1247(d), it must file a comment or otherwise include a request in its filing (in a regulated abandonment proceeding) or a petition (in an exemption proceeding) indicating that it would like to do so. The comment/request or petition must include:
 

@@ -14,6 +14,8 @@
 
 (c) A certified HUBZone small business concern may submit an offer on a HUBZone contract for supplies as a nonmanufacturer if it meets the requirements of the nonmanufacturer rule set forth at § 121.406 of this chapter.
 
+(d)-(h) [Reserved]
+
 (i) *Ostensible subcontractor.* Where a subcontractor that is not similarly situated performs primary and vital requirements of a set-aside service contract, or where a prime contractor is unduly reliant on a small business that is not similarly situated to perform the set-aside service contract, the prime contractor is not eligible for award of a HUBZone contract.
 
 (1) When the subcontractor is small for the size standard assigned to the procurement, this issue may be grounds for a HUBZone status protest, as described in subpart H of this part. When the subcontractor is alleged to be other than small for the size standard assigned to the procurement, this issue may be grounds for a size protest under the ostensible subcontractor rule, as described at § 121.103(h)(4) of this chapter.

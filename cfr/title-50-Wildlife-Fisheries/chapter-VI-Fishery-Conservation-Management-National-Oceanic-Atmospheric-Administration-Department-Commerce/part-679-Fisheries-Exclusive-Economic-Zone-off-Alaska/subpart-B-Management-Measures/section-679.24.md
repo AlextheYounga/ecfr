@@ -1,5 +1,7 @@
 ##### § 679.24 Gear limitations. #####
 
+Link to an amendment published at 85 FR 850, Jan. 8, 2020.
+
 Regulations pertaining to vessel and gear markings are set forth in this section and as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of chapter III of this title.
 
 (a) *Marking of hook-and-line, longline pot, and pot-and-line gear.* (1) All hook-and-line, longline pot, and pot-and-line marker buoys carried on board or used by any vessel regulated under this part shall be marked with the vessel's Federal fisheries permit number or ADF&G vessel registration number.

@@ -1,6 +1,6 @@
 ##### § 679.7 Prohibitions. #####
 
-Link to an amendment published at 84 FR 70071, Dec. 20, 2019.
+Link to an amendment published at 84 FR 70071, Dec. 20, 2019.Link to an amendment published at 85 FR 849, Jan. 8, 2020.
 
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 

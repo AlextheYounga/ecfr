@@ -1,5 +1,7 @@
 ##### § 679.22 Closures. #####
 
+Link to an amendment published at 85 FR 849, Jan. 8, 2020.
+
 (a) *BSAI* - (1) *Zone 1 (512) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 512 of Zone 1 in the Bering Sea subarea.
 
 (2) *Zone 1 (516) closure to trawl gear.* No fishing with trawl gear is allowed at any time in reporting Area 516 of Zone 1 in the Bering Sea Subarea during the period March 15 through June 15.

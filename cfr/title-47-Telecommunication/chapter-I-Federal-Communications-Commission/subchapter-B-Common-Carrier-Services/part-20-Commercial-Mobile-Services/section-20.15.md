@@ -4,7 +4,7 @@
 
 (b) Commercial mobile radio service providers are not required to:
 
-(1) File with the Commission copies of contracts entered into with other carriers or comply with other reporting requirements, or with §§ 1.781 through 1.814 and 43.21 of this chapter; except that commercial radio service providers that offer broadband service, as described in § 1.7001(a) of this chapter or mobile telephony are required to file reports pursuant to §§ 1.7000 and 43.11 of this chapter. For purposes of this section, *mobile telephony* is defined as real-time, two-way switched voice service that is interconnected with the public switched network utilizing an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless handoff of subscriber calls.
+(1) File with the Commission copies of contracts entered into with other carriers or comply with other reporting requirements, or with §§ 1.781 through 1.814 and 43.21 of this chapter; except that commercial radio service providers that are facilities-based providers of broadband service or facilities-based providers of mobile telephony service, as described in § 1.7001(b)(1) and (3) of this chapter, are required to file reports pursuant to §§ 1.7000-1.7002 of this chapter. For purposes of this section, *mobile telephony* is defined as real-time, two-way switched voice service that is interconnected with the public switched network utilizing an in-network switching facility that enables the provider to reuse frequencies and accomplish seamless handoff of subscriber calls.
 
 (2) Seek authority for interlocking directors (section 212 of the Communications Act);
 
@@ -22,4 +22,4 @@
 
 (e) For obligations of commercial mobile radio service providers to provide local number portability, see § 52.1 of this chapter.
 
-[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38637, July 25, 1996; 63 FR 43040, Aug. 11, 1998; 65 FR 19685, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000; 66 FR 16879, Mar. 28, 2001; 69 FR 77938, Dec. 29, 2004]
+[59 FR 18495, Apr. 19, 1994, as amended at 61 FR 38637, July 25, 1996; 63 FR 43040, Aug. 11, 1998; 65 FR 19685, Apr. 12, 2000; 65 FR 24654, Apr. 27, 2000; 66 FR 16879, Mar. 28, 2001; 69 FR 77938, Dec. 29, 2004; 85 FR 838, Jan. 8, 2020]
