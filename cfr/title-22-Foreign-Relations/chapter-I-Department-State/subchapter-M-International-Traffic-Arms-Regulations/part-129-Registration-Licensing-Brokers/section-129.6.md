@@ -1,5 +1,7 @@
 ##### § 129.6 Procedures for obtaining approval. #####
 
+Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
+
 (a) All requests for approval of brokering activities must be made to the Directorate of Defense Trade Controls, be signed by an empowered official, and include the following information:
 
 (1) The applicant's name, address and registration code;

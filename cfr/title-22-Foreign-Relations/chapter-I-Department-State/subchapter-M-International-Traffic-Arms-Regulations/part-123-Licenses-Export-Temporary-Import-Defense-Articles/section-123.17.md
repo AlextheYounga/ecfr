@@ -1,5 +1,7 @@
 ##### § 123.17 Exports of firearms, ammunition, and personal protective gear. #####
 
+Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
+
 (a) Port Directors of U.S. Customs and Border Protection shall permit the export without a license of:
 
 (1) Parts and components for USML Category I(a) firearms, except barrels, cylinders, receivers (frames), or complete breech mechanisms, when the total value does not exceed $100 wholesale in any transaction, except to any of the countries or entities as provided in § 126.1 of this subchapter;

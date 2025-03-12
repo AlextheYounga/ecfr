@@ -1,5 +1,7 @@
 ##### § 762.2 Records to be retained. #####
 
+Link to an amendment published at 85 FR 4180, Jan. 23, 2020.
+
 (a) *Records required to be retained.* The records required to be retained under this part 762 include the following:
 
 (1) Export control documents as defined in part 772 of the EAR, except parties submitting documents electronically to BIS via the SNAP-R system are not required to retain copies of documents so submitted;

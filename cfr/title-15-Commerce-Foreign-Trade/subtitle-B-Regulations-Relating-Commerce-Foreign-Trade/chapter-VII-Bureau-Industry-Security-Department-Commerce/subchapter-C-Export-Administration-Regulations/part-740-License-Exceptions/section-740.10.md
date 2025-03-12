@@ -1,5 +1,7 @@
 ##### § 740.10 License Exception Servicing and replacement of parts and equipment (RPL). #####
 
+Link to an amendment published at 85 FR 4174, Jan. 23, 2020.
+
 License Exception RPL authorizes exports and reexports associated with one-for-one replacement of parts, components, accessories, and attachments. License Exception RPL also authorizes exports and reexports of certain items currently “subject to the EAR” to or for, or to replace, a defense article described in an export or reexport authorization issued under the authority of the Arms Export Control Act. It does not, however, authorize the export or reexport of defense articles subject to the ITAR, i.e., described on the United States Munitions List (22 CFR 121.1).
 
 (a) *Parts, components, accessories, and attachments* - (1) *Scope.* The provisions of this paragraph (a) authorize the export and reexport of one-for-one replacement parts, components, accessories, and attachments for previously exported equipment or other end items.

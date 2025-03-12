@@ -1,5 +1,7 @@
 ##### § 746.3 Iraq. #####
 
+Link to an amendment published at 85 FR 4177, Jan. 23, 2020.
+
 Pursuant to United Nations Security Council (UNSC) Resolutions 1483 and 1546 and other relevant resolutions, the United Nations maintains an embargo on the sale or supply to Iraq of arms and related materiel and their means of production, except items required by the Government of Iraq to serve the purposes of Resolution 1546. UNSC Resolutions 707 and 687 require that Iraq eliminate its nuclear weapons program and restrict its nuclear activities to the use of isotopes for medical, industrial or agricultural purposes. Such resolutions further mandate that Iraq eliminate its chemical and biological weapons programs as well as its ballistic missile program. In support of the applicable UNSC resolutions, certain Iraq specific license requirements and licensing policies are detailed in this section. In addition, this section details restrictions on transfers of items subject to the EAR within Iraq. Exporters should be aware that other provisions of the EAR, including parts 742 and 744, will continue to apply with respect to exports and reexports to Iraq and transfers within Iraq.
 
 (a) *License requirements.* (1) A license is required for the export or reexport to Iraq or transfer within Iraq of any item controlled on the Commerce Control List for NS, MT, NP, CW, CB, RS, CC, EI, SI, or SL reasons. See part 742 of the EAR.

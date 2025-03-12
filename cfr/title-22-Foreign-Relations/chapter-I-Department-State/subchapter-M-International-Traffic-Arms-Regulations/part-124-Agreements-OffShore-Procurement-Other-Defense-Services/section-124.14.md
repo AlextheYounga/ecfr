@@ -1,5 +1,7 @@
 ##### § 124.14 Exports to warehouses or distribution points outside the United States. #####
 
+Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
+
 (a) *Agreements.* Agreements (e.g., contracts) between U.S. persons and foreign persons for the warehousing and distribution of defense articles must be approved by the Directorate of Defense Trade Controls before they enter into force. Such agreements will be limited to unclassified defense articles and must contain conditions for special distribution, end-use and reporting. Licenses for exports pursuant to such agreements must be obtained prior to exports of the defense articles unless an exemption under § 123.16(b)(1) of this subchapter is applicable.
 
 (b) *Required information.* Proposed warehousing and distribution agreements (and amendments thereto) shall be submitted to the Directorate of Defense Trade Controls for approval. The following information must be included in all such agreements:

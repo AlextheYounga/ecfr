@@ -1,5 +1,7 @@
 ##### § 740.11 Governments, international organizations, international inspections under the Chemical Weapons Convention, and the International Space Station (GOV). #####
 
+Link to an amendment published at 85 FR 4174, Jan. 23, 2020.
+
 This License Exception authorizes exports and reexports for international nuclear safeguards; U.S. government agencies or personnel; agencies of cooperating governments; international inspections under the Chemical Weapons Convention; and the International Space Station.
 
 (a) *International safeguards* - (1) *Scope.* The International Atomic Energy Agency (IAEA) is an international organization that establishes and administers safeguards, including Additional Protocols, designed to ensure that special nuclear materials and other related nuclear facilities, equipment, and material are not diverted from peaceful purposes to non-peaceful purposes. European Atomic Energy Community (Euratom) is an international organization of European countries with headquarters in Luxembourg. Euratom establishes and administers safeguards designed to ensure that special nuclear materials and other related nuclear facilities, equipment, and material are not diverted from peaceful purposes to non-peaceful purposes. This paragraph (a) authorizes exports and reexports of commodities or software to the IAEA and Euratom, and reexports by IAEA and Euratom for official international safeguard use, as follows:

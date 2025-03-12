@@ -1,5 +1,7 @@
 ##### § 129.4 Requirement for approval. #####
 
+Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
+
 (a) Except as provided in § 129.5, no person who is required to register as a broker pursuant to § 129.3 of this subchapter may engage in the business of brokering activities pursuant to § 129.2(b) without first obtaining the approval of the Directorate of Defense Trade Controls for the brokering of any of the following:
 
 (1) Any foreign defense article or defense service (*see* § 120.44 of this subchapter, and § 129.5 for exemptions); or

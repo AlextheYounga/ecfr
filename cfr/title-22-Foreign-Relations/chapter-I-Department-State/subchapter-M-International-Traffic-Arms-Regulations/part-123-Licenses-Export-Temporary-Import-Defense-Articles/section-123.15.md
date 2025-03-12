@@ -1,5 +1,7 @@
 ##### § 123.15 Congressional certification pursuant to Section 36(c) of the Arms Export Control Act. #####
 
+Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
+
 (a) The Arms Export Control Act requires that a certification be provided to the Congress prior to the granting of any license or other approval for transactions, in the amounts described below, involving exports of any defense articles and defense services and for exports of major defense equipment, as defined in § 120.8 of this subchapter. Approvals may not be granted when the Congress has enacted a joint resolution prohibiting the export. Certification is required for any transaction involving:
 
 (1) A license for the export of major defense equipment sold under a contract in the amount of $14,000,000 or more, or for defense articles and defense services sold under a contract in the amount of $50,000,000 or more, to any country that is not a member of the North Atlantic Treaty Organization (NATO), or Australia, Israel, Japan, New Zealand, or the Republic of Korea that does not authorize a new sales territory; or

@@ -1,5 +1,7 @@
 ##### § 121.1 The United States Munitions List. #####
 
+Link to an amendment published at 85 FR 3830, Jan. 23, 2020.
+
 (a) *U.S. Munitions List.* In this part, articles, services, and related technical data are designated as defense articles or defense services pursuant to sections 38 and 47(7) of the Arms Export Control Act and constitute the U.S. Munitions List (USML). Changes in designations are published in the Federal Register. Paragraphs (a)(1) through (3) of this section describe or explain the elements of a USML category:
 
 (1) *Composition of U.S. Munitions List categories.* USML categories are organized by paragraphs and subparagraphs identified alphanumerically. They usually start by enumerating or otherwise describing end-items, followed by major systems and equipment; parts, components, accessories, and attachments; and technical data and defense services directly related to the defense articles of that USML category.

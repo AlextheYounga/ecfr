@@ -1,5 +1,7 @@
 ##### § 748.12 Firearms Convention (FC) Import Certificate. #####
 
+Link to an amendment published at 85 FR 4177, Jan. 23, 2020.
+
 (a) *Requirement to obtain document.* Unless an exception in § 748.9(c) applies, an FC Import Certificate is required for license applications for firearms and related commodities, regardless of value, that are destined for member countries of the Organization of American States (OAS). This requirement is consistent with the OAS Model Regulations described in § 742.17 of the EAR.
 
 (1) *Items subject to requirement.* Firearms and related commodities are those commodities controlled for “FC Column 1” reasons under ECCNs 0A984, 0A986, or 0A987.

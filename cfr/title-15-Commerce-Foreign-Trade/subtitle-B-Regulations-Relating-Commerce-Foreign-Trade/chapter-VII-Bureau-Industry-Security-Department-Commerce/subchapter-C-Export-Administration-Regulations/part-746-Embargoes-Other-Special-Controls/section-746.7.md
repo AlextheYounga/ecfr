@@ -1,5 +1,7 @@
 ##### § 746.7 Iran. #####
 
+Link to an amendment published at 85 FR 4177, Jan. 23, 2020.
+
 The Treasury Department's Office of Foreign Assets Control (OFAC) administers a comprehensive trade and investment embargo against Iran. This embargo includes prohibitions on exports and certain reexport transactions involving Iran, including transactions dealing with items subject to the EAR. These prohibitions are set forth in OFAC's Iranian Transactions Regulations (31 CFR part 560). In addition, BIS maintains licensing requirements on exports and reexports to Iran under the EAR as described in paragraph (a)(1) of this section or elsewhere in the EAR (*See, e.g.*, § 742.8 - Anti-terrorism: Iran).
 
 (a) *License Requirements* - (1) *EAR license requirements.* A license is required under the EAR to export or reexport to Iran any item on the CCL containing a CB Column 1, CB Column 2, CB Column 3, NP Column 1, NP Column 2, NS Column 1, NS Column 2, MT Column 1, RS Column 1, RS Column 2, CC Column 1, CC Column 2, CC Column 3, AT Column 1 or AT Column 2 in the Country Chart Column of the License Requirements section of an ECCN or classified under ECCNs 0A980, 0A982, 0A983, 0A985, 0E982, 1C355, 1C395, 1C980, 1C982, 1C983, 1C984, 2A994, 2D994, 2E994, 5A001.f.1, 5A980, 5D001 (for 5A001.f.1or for 5E001.a (for 5A001.f.1, or for 5D001.a (for 5A001.f.1))), 5D980, 5E001.a (for 5A001.f.1, or for 5D001.a (for 5A001.f.1)) or 5E980.

@@ -1,5 +1,7 @@
 ##### § 201.4 Recordation of transfers and other documents pertaining to copyright. #####
 
+Link to an amendment published at 85 FR 3855, Jan. 23, 2020.
+
 (a) *General.* This section prescribes conditions for the recordation of transfers of copyright ownership and other documents pertaining to a copyright under 17 U.S.C. 205. A document is eligible for recordation under this section if it meets the requirements of paragraph (d) of this section, if it is submitted in accordance with the submission procedure described in paragraph (e) of this section, and if it is accompanied by the fee specified in § 201.3(c). The date of recordation is the date when all of the elements required for recordation, including a proper document, fee, and any additional required information, are received in the Copyright Office. After recordation the document is returned to the sender with a certificate of recordation. The Office may reject any document submitted for recordation that fails to comply with 17 U.S.C. 205, the requirements of this section, or any relevant instructions or guidance provided by the Office.
 
 (b) *Documents not recordable under this section.* This section does not govern the filing or recordation of the following documents:

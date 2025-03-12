@@ -1,5 +1,7 @@
 ##### § 740.9 Temporary imports, exports, reexports, and transfers (in-country) (TMP). #####
 
+Link to an amendment published at 85 FR 4173, Jan. 23, 2020.
+
 This License Exception authorizes various temporary exports and reexports; exports and reexports of items temporarily in the United States; and exports and reexports of beta test software.
 
 (a) *Temporary exports, reexports, and transfers (in-country).* License Exception TMP authorizes exports, reexports, and transfers (in-country) of items for temporary use abroad (including use in or above international waters) subject to the conditions specified in this paragraph (a). No item may be exported, reexported, or transferred (in-country) under this paragraph (a) if an order to acquire the item, such as a purchase order, has been received before shipment; with prior knowledge that the item will stay abroad beyond the terms of this License Exception; or when the item is for subsequent lease or rental abroad. The references to various countries and country groups in these TMP-specific provisions do not limit or amend the prohibitions in § 740.2 of the EAR on the use of license exceptions generally, such as for exports of 9x515 or “600 series” items to destinations in Country Group D:5.

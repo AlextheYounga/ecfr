@@ -1,5 +1,7 @@
 ##### § 123.18 Firearms for personal use of members of the U.S. Armed Forces and civilian employees of the U.S. Government. #####
 
+Link to an amendment published at 85 FR 3833, Jan. 23, 2020.
+
 The following exemptions apply to members of the U.S. Armed Forces and civilian employees of the U.S. Government who are U.S. persons (both referred to herein as personnel). The exemptions apply only to such personnel if they are assigned abroad for extended duty. These exemptions do not apply to dependents.
 
 (a) *Firearms.* Port Directors of U.S. Customs and Border Protection shall permit nonautomatic firearms in Category I(a) of § 121.1 of this subchapter and parts therefor to be exported, except by mail, from the United States without a license if:

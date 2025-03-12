@@ -1,5 +1,7 @@
 ##### § 743.4 Conventional arms reporting. #####
 
+Link to an amendment published at 85 FR 4176, Jan. 23, 2020.
+
 (a) *Scope.* This section outlines special reporting requirements for exports of certain items listed on the Wassenaar Arrangement Munitions List and the UN Register of Conventional Arms. Participating States of the Wassenaar Arrangement exchange information every six months on deliveries to non-participating states of conventional arms set forth in the *Wassenaar Arrangement's Basic Documents* under Part II Guideline and Procedures, including the Initial Elements, Appendix 3: Specific Information Exchange on Arms Content by Category (at *www.wassenaar.org*), derived from the categories of the UN Register of Conventional Arms (at *www.un.org/disarmament/convarms/Register/*). Similar, although not identical, information is also reported by the U.S. Government to the United Nations on an annual basis. The reported information should include the quantity and the name of the recipient state and, except in the category of missiles and missile launchers, details of model and type. Such reports must be submitted to BIS semi-annually in accordance with the provisions of paragraph (f) of this section for items identified in paragraph (c)(1) and annually for items identified in paragraph (c)(2), and records of all exports subject to the reporting requirements of this section must be kept in accordance with part 762 of the EAR. This section does not require reports for reexports or transfers (in-country).
 
 Note to paragraph (a):

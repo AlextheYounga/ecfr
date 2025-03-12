@@ -1,5 +1,7 @@
 ##### § 740.16 Additional permissive reexports (APR). #####
 
+Link to an amendment published at 85 FR 4175, Jan. 23, 2020.
+
 This License Exception allows the following reexports:
 
 (a) *Reexports from Country Group A:1 and Hong Kong.* Reexports may be made from countries in Country Group A:1 or from Hong Kong, provided that:

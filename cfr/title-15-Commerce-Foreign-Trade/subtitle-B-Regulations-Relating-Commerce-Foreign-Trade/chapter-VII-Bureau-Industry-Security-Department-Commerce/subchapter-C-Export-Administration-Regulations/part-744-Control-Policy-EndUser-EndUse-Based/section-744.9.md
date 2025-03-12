@@ -1,5 +1,7 @@
 ##### § 744.9 Restrictions on exports, reexports, and transfers (in-country) of certain cameras, systems, or related components. #####
 
+Link to an amendment published at 85 FR 4177, Jan. 23, 2020.
+
 (a) *General prohibitions.* (1) In addition to the applicable license requirements for national security, regional stability, anti-terrorism and United Nations embargo reasons in §§ 742.4, 742.6, 742.8, 746.1(b), and 746.3 of the EAR, a license is required to export, reexport, or transfer (in-country) to any destination other than Canada commodities described in ECCNs 0A987 (incorporating commodities controlled by ECCNs 6A002 or 6A003, or commodities controlled by 6A993.a that meet the criterion of Note 3.a to 6A003.b.4), 6A002, 6A003, or 6A993.a (having a maximum frame rate equal to or less than 9 Hz and thus meeting the criteria of Note 3.a to 6A003.b.4), or 8A002.d if at the time of export, reexport, or transfer, the exporter, reexporter, or transferor knows or is informed that the item will be or is intended to be:
 
 (i) Used by a “military end-user,” as defined in paragraph (d) of this section; or

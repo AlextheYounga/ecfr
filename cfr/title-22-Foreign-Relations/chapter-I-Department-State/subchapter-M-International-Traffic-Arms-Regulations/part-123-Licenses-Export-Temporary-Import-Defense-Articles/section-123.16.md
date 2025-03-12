@@ -1,5 +1,7 @@
 ##### § 123.16 Exemptions of general applicability. #####
 
+Link to an amendment published at 85 FR 3832, Jan. 23, 2020.
+
 (a) The following exemptions apply to exports of unclassified defense articles for which no approval is needed from the Directorate of Defense Trade Controls. These exemptions do not apply to: Proscribed destinations under § 126.1 of this subchapter; exports for which Congressional notification is required (*see* § 123.15 of this subchapter); MTCR articles; Significant Military Equipment (SME); and may not be used by persons who are generally ineligible as described in § 120.1(c) of this subchapter. All shipments of defense articles, including but not limited to those to Australia, Canada, and the United Kingdom, require an Electronic Export Information (EEI) filing or notification letter. If the export of a defense article is exempt from licensing, the EEI filing must cite the exemption. Refer to § 123.22 of this subchapter for EEI filing and letter notification requirements.
 
 (b) The following exports are exempt from the licensing requirements of this subchapter.
