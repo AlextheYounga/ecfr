@@ -1,5 +1,7 @@
 ##### § 68.2 Definitions. #####
 
+Link to an amendment published at 88 FR 4737, Jan. 25, 2023.
+
 As used in this part:
 
 *Act* means the Public Health Service Act, as amended (42 U.S.C. 201 *et seq.*).

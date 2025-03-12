@@ -1,5 +1,7 @@
 ##### § 68.8 What do the NIH LRPs provide to participants? #####
 
+Link to an amendment published at 88 FR 4739, Jan. 25, 2023.
+
 (a) Loan repayments: For each year of the applicable service period the individual agrees to serve, the NIH may pay up to $35,000 per year of a participant's repayable debt.
 
 (b) Payments are made directly to a participant's lender(s). If there is more than one outstanding qualified educational loan, the NIH will repay the loans in the following order, unless the NIH determines significant savings would result from paying loans in a different order of priority:

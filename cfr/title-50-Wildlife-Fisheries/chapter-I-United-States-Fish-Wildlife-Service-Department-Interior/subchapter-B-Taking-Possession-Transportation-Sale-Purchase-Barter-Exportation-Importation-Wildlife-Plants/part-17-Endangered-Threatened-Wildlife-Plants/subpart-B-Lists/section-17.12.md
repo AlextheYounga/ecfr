@@ -1,6 +1,6 @@
 ##### § 17.12 Endangered and threatened plants. #####
 
-Link to an amendment published at 88 FR 2026, Jan. 12, 2023.
+Link to an amendment published at 88 FR 2026, Jan. 12, 2023.Link to an amendment published at 88 FR 4792, Jan. 25, 2023.
 
 (a) The list in paragraph (h) of this section contains the plant species determined by the Service or the National Marine Fisheries Service (NMFS) of the Department of Commerce's National Oceanic and Atmospheric Administration (hereafter in this section referred to as “the Services”) to be endangered species or threatened species. It also contains the plant species treated as endangered or threatened because they are similar in appearance to and may be confused with endangered or threatened species (see §§ 17.50 through 17.52). The “Common name,” “Scientific name,” “Where listed,” and “Status” columns provide regulatory information; together, they identify listed plant species within the meaning of the Act and describe where they are protected. When a taxon has more than one entry, the “Where listed” or “Status” column will identify its status in each relevant geographic area. The listing of a particular taxon includes all lower taxonomic units.
 

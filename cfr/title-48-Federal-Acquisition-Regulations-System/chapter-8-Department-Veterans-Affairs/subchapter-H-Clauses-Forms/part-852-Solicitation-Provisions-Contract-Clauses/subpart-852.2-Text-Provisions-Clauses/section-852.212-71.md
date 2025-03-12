@@ -1,5 +1,7 @@
 ##### 852.212-71 Gray Market Items. #####
 
+Link to an amendment published at 88 FR 4752, Jan. 25, 2023.
+
 As prescribed in 812.301(f)(2), insert the following provision in solicitations and contracts for new medical equipment:
 
 Gray Market Items (APR 2020)

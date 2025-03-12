@@ -1,5 +1,7 @@
 ##### § 68.5 Who is ineligible to participate? #####
 
+Link to an amendment published at 88 FR 4739, Jan. 25, 2023.
+
 The following individuals are ineligible for NIH LRP participation:
 
 (a) Persons who do not meet the eligibility requirements as specified under § 68.3 of this part;

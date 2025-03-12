@@ -1,5 +1,7 @@
 ##### § 68.7 How are applicants selected to participate in the NIH LRPs? #####
 
+Link to an amendment published at 88 FR 4739, Jan. 25, 2023.
+
 The NIH LRP awards are competitive. To be selected for participation in an NIH LRP, applicants must satisfy the following requirements:
 
 (a) Applicants must meet the eligibility requirements specified in §§ 68.3 and 68.4 of this part.

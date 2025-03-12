@@ -1,5 +1,7 @@
 ##### 852.212-70 Provisions and Clauses Applicable to VA Acquisition of Commercial Items. #####
 
+Link to an amendment published at 88 FR 4752, Jan. 25, 2023.
+
 As prescribed in 812.301(f)(1), insert the following clause to indicate provisions and clauses applicable to this acquisition:
 
 Provisions and Clauses Applicable to VA Acquisition of Commercial Items (APR 2020)
