@@ -14,6 +14,8 @@
 
 (6)(i) A detailed description of the environmental impact of the project shall be included with the application. It shall provide, among other things, information about the impact of the project on airspace, air and water quality, scenic and esthetic features, historical and archeological features, and wildlife, fish, and marine life.
 
-(ii) The proposed site, design, and construction of the project shall be consistent with the “Environmental Criteria for Electric Transmission Lines,” prescribed jointly by the Secretary of Agriculture, as well as such other environmental criteria and guidelines as the National Park Service shall from time to time prescribe. “Environmental Criteria for Electric Transmission Systems” is available from the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+(ii) [Reserved]
 
 (iii) If all other requirements are met, the application may be approved if it is determined that the beneficial purposes and effects of the project will not be outweighed by an adverse environmental impact. If the authorized officer determines that the application cannot be approved as proposed, he will, whenever possible, suggest alternative routes or methods of construction, or other modifications which if adopted by the applicant would make the application acceptable.
+
+[45 FR 47092, July 11, 1980, as amended at 83 FR 2070, Jan. 16, 2018]

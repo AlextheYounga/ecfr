@@ -1,0 +1,3 @@
+##### § 1041.7 Identification of unfair and abusive practice. #####
+
+It is an unfair and abusive practice for a lender to make attempts to withdraw payment from consumers' accounts in connection with a covered loan after the lender's second consecutive attempts to withdraw payments from the accounts from which the prior attempts were made have failed due to a lack of sufficient funds, unless the lender obtains the consumers' new and specific authorization to make further withdrawals from the accounts.

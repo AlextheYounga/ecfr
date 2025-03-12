@@ -1,5 +1,7 @@
 ##### § 2.52 Sale or distribution of printed matter. #####
 
+Link to an amendment published at 83 FR 2069, Jan. 16, 2018.
+
 (a) *Printed Matter.* The term “printed matter” means message-bearing textual printed material such as books, pamphlets, magazines, and leaflets, provided that it is not solely commercial advertising.
 
 (b) *Permits and the small group permit exception.* The sale or distribution of printed matter is allowed within park areas designated as available under § 2.51(c)(2) when the superintendent has issued a permit for the activity, except that:

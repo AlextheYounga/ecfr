@@ -1,5 +1,7 @@
 ##### § 54.411 Lifeline benefit portability. #####
 
+Link to an amendment published at 83 FR 2085, Jan. 16, 2018.
+
 (a) A provider shall not seek or receive reimbursement through the Lifeline program for service provided to a subscriber who has used the Lifeline benefit to enroll in a qualifying Lifeline-supported broadband Internet access service offering with another Lifeline provider within the previous 12 months.
 
 (b) A provider shall not seek or receive reimbursement through the Lifeline program for service provided to a subscriber who has used the Lifeline benefit to enroll in a qualifying Lifeline-supported voice telephony service offering with another Lifeline provider within the previous 60 days.

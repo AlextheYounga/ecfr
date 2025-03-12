@@ -1,10 +1,8 @@
 ##### § 1.362 Time for payment of maintenance fees. #####
 
-Link to an amendment published at 82 FR 52816, November 14, 2017.
-
 (a) Maintenance fees as set forth in §§ 1.20 (e) through (g) are required to be paid in all patents based on applications filed on or after December 12, 1980, except as noted in paragraph (b) of this section, to maintain a patent in force beyond 4, 8 and 12 years after the date of grant.
 
-(b) Maintenance fees are not required for any plant patents or for any design patents. Maintenance fees are not required for a reissue patent if the patent being reissued did not require maintenance fees.
+(b) Maintenance fees are not required for any plant patents or for any design patents.
 
 (c) The application filing dates for purposes of payment of maintenance fees are as follows:
 
@@ -40,4 +38,4 @@ Link to an amendment published at 82 FR 52816, November 14, 2017.
 
 (h) The periods specified in §§ 1.362 (d) and (e) with respect to a reissue application, including a continuing reissue application thereof, are counted from the date of grant of the original non-reissue application on which the reissued patent is based.
 
-[49 FR 34724, Aug. 31, 1984, as amended at 56 FR 65154, Dec. 13, 1991; 58 FR 54511, Oct. 22, 1993]
+[49 FR 34724, Aug. 31, 1984, as amended at 56 FR 65154, Dec. 13, 1991; 58 FR 54511, Oct. 22, 1993; 82 FR 52816, Nov. 14, 2017]

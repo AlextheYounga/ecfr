@@ -1,7 +1,5 @@
 ##### § 1.1307 Actions that may have a significant environmental effect, for which Environmental Assessments (EAs) must be prepared. #####
 
-Link to an amendment published at 82 FR 58758, Dec. 14, 2017.
-
 (a) Commission actions with respect to the following types of facilities may significantly affect the environment and thus require the preparation of EAs by the applicant (see §§ 1.1308 and 1.1311) and may require further Commission environmental processing (*see* §§ 1.1314, 1.1315 and 1.1317):
 
 (1) Facilities that are to be located in an officially designated wilderness area.
@@ -14,67 +12,7 @@ Note:
 
 The list of endangered and threatened species is contained in 50 CFR 17.11, 17.22, 222.23(a) and 227.4. The list of designated critical habitats is contained in 50 CFR 17.95, 17.96 and part 226. To ascertain the status of proposed species and habitats, inquiries may be directed to the Regional Director of the Fish and Wildlife Service, Department of the Interior.
 
-(4)(i) Facilities that may affect districts, sites, buildings, structures or objects, significant in American history, architecture, archeology, engineering or culture, that are listed, or are eligible for listing, in the National Register of Historic Places. (See 16 U.S.C. 470w(5); 36 CFR part 60 and 800.) To ascertain whether a proposed action may affect properties that are listed or eligible for listing in the National Register of Historic Places, an applicant shall follow the procedures set forth in the rules of the Advisory Council on Historic Preservation, 36 CFR part 800, as modified and supplemented by the Nationwide Programmatic Agreement for the Collocation of Wireless Antennas, Appendix B to Part 1 of this Chapter, and the Nationwide Programmatic Agreement Regarding the Section 106 National Historic Preservation Act Review Process, Appendix C to Part 1 of this Chapter.
-
-(ii) The requirements in paragraph (a)(4)(i) of this section do not apply to:
-
-(A) The mounting of antennas (including associated equipment such as wiring, cabling, cabinets, or backup-power) on existing utility structures (including utility poles and electric transmission towers in active use by a “utility” as defined in Section 224 of the Communications Act, 47 U.S.C. 224, but not including light poles, lamp posts, and other structures whose primary purpose is to provide public lighting) where the deployment meets the following conditions:
-
-(*1*) All antennas that are part of the deployment fit within enclosures (or if the antennas are exposed, within imaginary enclosures) that are individually no more than three cubic feet in volume, and all antennas on the structure, including any pre-existing antennas on the structure, fit within enclosures (or if the antennas are exposed, within imaginary enclosures) that total no more than six cubic feet in volume;
-
-(*2*) All other wireless equipment associated with the structure, including pre-existing enclosures and including equipment on the ground associated with antennas on the structure, are cumulatively no more than seventeen cubic feet in volume, exclusive of
-
-(*i*) Vertical cable runs for the connection of power and other services;
-
-(*ii*) Ancillary equipment installed by other entities that is outside of the applicant's ownership or control, and
-
-(*iii*) Comparable equipment from pre-existing wireless deployments on the structure;
-
-(*3*) The deployment will involve no new ground disturbance; and
-
-(*4*) The deployment would otherwise require the preparation of an EA under paragraph (a)(4)(i) of this section solely because of the age of the structure; or
-
-(B) The mounting of antennas (including associated equipment such as wiring, cabling, cabinets, or backup-power) on buildings or other non-tower structures where the deployment meets the following conditions:
-
-(*1*) There is an existing antenna on the building or structure;
-
-(*2*) One of the following criteria is met:
-
-(*i*) *Non-Visible Antennas.* The new antenna is not visible from any adjacent streets or surrounding public spaces and is added in the same vicinity as a pre-existing antenna;
-
-(*ii*) *Visible Replacement Antennas.* The new antenna is visible from adjacent streets or surrounding public spaces, provided that
-
-(*A*) It is a replacement for a pre-existing antenna,
-
-(*B*) The new antenna will be located in the same vicinity as the pre-existing antenna,
-
-(*C*) The new antenna will be visible only from adjacent streets and surrounding public spaces that also afford views of the pre-existing antenna,
-
-(*D*) The new antenna is not more than 3 feet larger in height or width (including all protuberances) than the pre-existing antenna, and
-
-(*E*) No new equipment cabinets are visible from the adjacent streets or surrounding public spaces; or
-
-(*iii*) *Other Visible Antennas.* The new antenna is visible from adjacent streets or surrounding public spaces, provided that
-
-(*A*) It is located in the same vicinity as a pre-existing antenna,
-
-(*B*) The new antenna will be visible only from adjacent streets and surrounding public spaces that also afford views of the pre-existing antenna,
-
-(*C*) The pre-existing antenna was not deployed pursuant to the exclusion in this subsection (§ 1.1307(a)(4)(ii)(B)(*2*)(*iii*)),
-
-(*D*) The new antenna is not more than three feet larger in height or width (including all protuberances) than the pre-existing antenna, and
-
-(*E*) No new equipment cabinets are visible from the adjacent streets or surrounding public spaces;
-
-(*3*) The new antenna complies with all zoning conditions and historic preservation conditions applicable to existing antennas in the same vicinity that directly mitigate or prevent effects, such as camouflage or concealment requirements;
-
-(*4*) The deployment of the new antenna involves no new ground disturbance; and
-
-(*5*) The deployment would otherwise require the preparation of an EA under paragraph (a)(4) of this section solely because of the age of the structure.
-
-Note to paragraph (a)(4)(ii):
-
-A non-visible new antenna is in the “same vicinity” as a pre-existing antenna if it will be collocated on the same rooftop, façade or other surface. A visible new antenna is in the “same vicinity” as a pre-existing antenna if it is on the same rooftop, façade, or other surface and the centerpoint of the new antenna is within ten feet of the centerpoint of the pre-existing antenna. A deployment causes no new ground disturbance when the depth and width of previous disturbance exceeds the proposed construction depth and width by at least two feet.
+(4) Facilities that may affect districts, sites, buildings, structures or objects, significant in American history, architecture, archeology, engineering or culture, that are listed, or are eligible for listing, in the National Register of Historic Places (*see* 54 U.S.C. 300308; 36 CFR parts 60 and 800), and that are subject to review pursuant to section 1.1320 and have been determined through that review process to have adverse effects on identified historic properties.
 
 (5) Facilities that may affect Indian religious sites.
 

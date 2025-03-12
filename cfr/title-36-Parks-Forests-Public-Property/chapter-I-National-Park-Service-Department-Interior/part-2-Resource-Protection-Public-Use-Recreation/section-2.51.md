@@ -1,5 +1,7 @@
 ##### § 2.51 Demonstrations. #####
 
+Link to an amendment published at 83 FR 2068, Jan. 16, 2018.
+
 (a) *Demonstrations.* The term “demonstrations” includes demonstrations, picketing, speechmaking, marching, holding vigils or religious services, and all other like forms of conduct that involve the communication or expression of views or grievances, engaged in by one or more persons, the conduct of which is reasonably likely to attract a crowd or onlookers. This term does not include casual park use by visitors or tourists that is not reasonably likely to attract a crowd or onlookers.
 
 (b) *Permits and the small group permit exception.* Demonstrations are allowed within park areas designated as available under paragraph (c)(2) of this section, when the superintendent has issued a permit for the activity, except that:

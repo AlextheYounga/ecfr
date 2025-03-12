@@ -1,7 +1,5 @@
 ##### § 622.38 Bag and possession limits. #####
 
-Link to an amendment published at 82 FR 59526, Dec. 15, 2017.
-
 (a) *Additional applicability provisions for Gulf reef fish.* (1) Section 622.11(a) provides the general applicability for bag and possession limits. However, § 622.11(a) notwithstanding, bag and possession limits also apply for Gulf reef fish in or from the EEZ to a person aboard a vessel that has on board a commercial permit for Gulf reef fish -
 
 (i) When trawl gear or entangling net gear is on board. A vessel is considered to have trawl gear on board when trawl doors and a net are on board. Removal from the vessel of all trawl doors or all nets constitutes removal of trawl gear.
@@ -22,7 +20,7 @@ Link to an amendment published at 82 FR 59526, Dec. 15, 2017.
 
 (4) *Snappers, combined, excluding red, lane, and vermilion snapper* - 10.
 
-(5) *Gulf reef fish, combined, excluding those specified in paragraphs (b)(1) through (b)(4) and paragraphs (b)(6) through (b)(7) of this section* - 20. In addition, within the 20-fish aggregate reef fish bag limit, no more than 2 fish may be gray triggerfish and no more than 10 fish may be vermilion snapper.
+(5) Gulf reef fish, combined, excluding those specified in paragraphs (b)(1) through (4) and paragraphs (b)(6) and (7) of this section - 20. In addition, within the 20-fish aggregate reef fish bag limit, no more than 1 fish may be gray triggerfish and no more than 10 fish may be vermilion snapper.
 
 (6) *Banded rudderfish and lesser amberjack, combined* - 5.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 82 FR 59526, Dec. 15, 2017.
 
 (c) *Possession limits.* A person, or a vessel in the case of speckled hind or Warsaw grouper, on a trip that spans more than 24 hours may possess no more than two daily bag limits, provided such trip is on a vessel that is operating as a charter vessel or headboat, the vessel has two licensed operators aboard, and each passenger is issued and has in possession a receipt issued on behalf of the vessel that verifies the length of the trip.
 
-[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 46822, Aug. 2, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 18553, Apr. 7, 2015; 82 FR 34581, July 25, 2017]
+[78 FR 22952, Apr. 17, 2013, as amended at 78 FR 27087, May 9, 2013; 78 FR 46822, Aug. 2, 2013; 78 FR 78775, Dec. 27, 2013; 80 FR 18553, Apr. 7, 2015; 82 FR 34581, July 25, 2017; 82 FR 59526, Dec. 15, 2017]
