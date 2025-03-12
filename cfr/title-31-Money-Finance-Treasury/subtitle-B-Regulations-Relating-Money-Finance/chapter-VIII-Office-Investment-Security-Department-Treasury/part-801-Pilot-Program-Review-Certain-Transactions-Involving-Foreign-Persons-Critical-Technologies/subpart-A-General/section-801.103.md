@@ -1,5 +1,7 @@
 ##### § 801.103 Applicability rule. #####
 
+Link to an amendment published at 85 FR 3155, Jan. 17, 2020.
+
 (a) Except as provided in paragraph (b) of this section and otherwise in this part, the regulations in this part apply from the pilot program effective date.
 
 (b) The regulations in this part do not apply to any transaction for which:

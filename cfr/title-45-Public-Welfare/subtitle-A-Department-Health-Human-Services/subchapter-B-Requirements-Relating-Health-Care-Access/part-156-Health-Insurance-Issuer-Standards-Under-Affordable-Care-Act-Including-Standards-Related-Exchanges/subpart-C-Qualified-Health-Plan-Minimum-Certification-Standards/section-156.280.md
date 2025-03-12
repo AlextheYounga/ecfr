@@ -1,6 +1,6 @@
 ##### § 156.280 Segregation of funds for abortion services. #####
 
-Link to an amendment published at 84 FR 71710, Dec. 27, 2019.
+Link to an amendment published at 84 FR 71710, Dec. 27, 2019.Link to a correction published at 85 FR 2888, Jan. 17, 2020.
 
 (a) *State opt-out of abortion coverage.* A QHP issuer must comply with a State law that prohibits abortion coverage in QHPs.
 
