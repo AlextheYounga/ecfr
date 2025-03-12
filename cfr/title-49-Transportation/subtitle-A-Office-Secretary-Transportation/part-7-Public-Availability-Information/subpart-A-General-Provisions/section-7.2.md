@@ -1,5 +1,7 @@
 ##### § 7.2 Definitions. #####
 
+Link to an amendment published at 82 FR 21139, May 5, 2017.
+
 Unless the context requires otherwise, the following definitions apply in this part:
 
 *Act* and *FOIA* mean the Freedom of Information Act, 5 U.S.C. 552, as amended.

@@ -1,5 +1,7 @@
 ##### § 7.27 What are the designated DOT FOIA Requester Service Centers? #####
 
+Link to an amendment published at 82 FR 21139, May 5, 2017.
+
 (a) A request for a record under this subpart may be submitted via paper, facsimile, or electronic mail to the FOIA Requester Service Center designated for the DOT component where the records are located, at the electronic mail addresses or facsimile numbers identified at *http://www.dot.gov/foia* or the mailing addresses indicated below (unless a more up-to-date mailing address has been designated at *http://www.dot.gov/foia*):
 
 (1) FOIA Requester Service Centers at 1200 New Jersey Avenue SE., Washington, DC 20590:

@@ -24,6 +24,8 @@ As used in this part:
 
 *Cash contributions* means the recipient's cash outlay, including the outlay of money contributed to the recipient by non-Federal third parties.
 
+*Center of Excellence* in food and agricultural research, extension, and education is a grantee whose application was not only found to be highly meritorious by a peer panel, but met additional criteria (*see* § 3430.17(c)) to receive the designation. This designation is specific to a grant application.
+
 *Certification of Non-Land-Grant College of Agriculture status* means an institution that followed NIFA's Process for Non-Land Grant College of Agriculture (NLGCA) Designation and received a certification of NLGCA designation from NIFA (*see* § 3430.16(c)).
 
 *College* or *university* means, unless defined in a separate subpart, an educational institution in any State which:
@@ -150,4 +152,4 @@ As used in this part:
 
 *Units of State government* means all State institutions, including the formal divisions of State government (*i.e.*, the official State agencies such as departments of transportation and education), local government agencies (e.g., a county human services office), and including State educational institutions (e.g., public colleges and universities).
 
-[74 FR 45740, Sept. 4, 2009, as amended at 76 FR 4813, Jan. 27, 2011; 79 FR 76000, Dec. 19, 2014; 81 FR 6413, Feb. 8, 2016]
+[74 FR 45740, Sept. 4, 2009, as amended at 76 FR 4813, Jan. 27, 2011; 79 FR 76000, Dec. 19, 2014; 81 FR 6413, Feb. 8, 2016; 82 FR 21109, May 5, 2017]

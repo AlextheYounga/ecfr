@@ -1,7 +1,5 @@
 ##### § 531.3 Definitions. #####
 
-Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
-
 When used in this part:
 
 (a) *Act* means the Shipping Act of 1984 as amended by the Ocean Shipping Reform Act of 1998;
@@ -32,7 +30,7 @@ When used in this part:
 
 (j) *Correction* means any change to a filed NSA that has retroactive effect.
 
-(k) *Effective date* means the date upon which an NSA or amendment is scheduled to go into effect by the parties to the NSA. An NSA or amendment becomes effective at 12:01 a.m. Eastern Standard Time on the beginning of the effective date. The effective date cannot be prior to the filing date of the NSA or amendment with the Commission.
+(k) *Effective date* means the date upon which an NSA or amendment is scheduled to go into effect by the parties to the contract. For an original NSA, the effective date cannot be prior to the filing date with the Commission. For an NSA amendment, the effective date can be no more than thirty (30) calendar days prior to the filing date with the Commission. An NSA or amendment thereto becomes effective at 12:01 a.m. Eastern Standard Time on the beginning of the effective date.
 
 (l) *Expiration date* means the last day after which the entire NSA is no longer in effect.
 
@@ -46,4 +44,4 @@ When used in this part:
 
 (q) *Statement of essential terms* means a concise statement of the essential terms of an NSA required to be published under this part.
 
-[69 FR 75853, Dec. 20, 2004, as amended at 70 FR 56580, Sept. 28, 2005; 74 FR 50724, Oct. 1, 2009]
+[69 FR 75853, Dec. 20, 2004, as amended at 70 FR 56580, Sept. 28, 2005; 74 FR 50724, Oct. 1, 2009; 82 FR 16297, Apr. 4, 2017]

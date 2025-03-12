@@ -1,5 +1,7 @@
 ##### § 810.205 Grades and grade requirements for Two-rowed Malting barley. #####
 
+Link to an amendment published at 81 FR 20544, May 3, 2017.
+
 |             Grade             |      Minimum limits of -       |       Maximum limits of -        |                   |                          |                                    |                     |    |
 |-------------------------------|--------------------------------|----------------------------------|-------------------|--------------------------|------------------------------------|---------------------|----|
 |Test weight per bushel (pounds)|Suitable malting types (percent)|Sound barley<sup>1</sup> (percent)|Wild oats (percent)|Foreign material (percent)|Skinned and broken kernels (percent)|Thin barley (percent)|    |

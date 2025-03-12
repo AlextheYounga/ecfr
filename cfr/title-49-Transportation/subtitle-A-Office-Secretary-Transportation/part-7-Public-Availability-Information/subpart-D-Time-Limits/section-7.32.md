@@ -1,5 +1,7 @@
 ##### § 7.32 What time limits apply to a requester when appealing DOT's initial or final determination? #####
 
+Link to an amendment published at 82 FR 21139, May 5, 2017.
+
 (a) *Denial of records request.* When the responsible DOT official determines that a record request will be denied, in whole or in part, because the record is subject to an exemption, is not in DOT's custody and control, or was not located following a reasonable search, DOT provides the requester with a written statement of the reasons for that determination, as described in § 7.31(a)(3), and of the right to appeal the determination within DOT.
 
 (b) *Denial of fee waiver.* When the responsible DOT official denies, in whole or in part, a request for a waiver of fees made pursuant to § 7.24(b) or § 7.43(c), DOT provides the requester with written notification of that determination and of the right to appeal the determination within DOT.

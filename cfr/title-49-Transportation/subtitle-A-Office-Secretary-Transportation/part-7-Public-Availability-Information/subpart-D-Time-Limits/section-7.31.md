@@ -1,5 +1,7 @@
 ##### § 7.31 What time limits apply to DOT with respect to initial determinations? #####
 
+Link to an amendment published at 82 FR 21139, May 5, 2017.
+
 (a) *In general.* (1) DOT ordinarily responds to requests according to their order of receipt.
 
 (2) DOT makes an initial determination whether to release a record requested pursuant to subpart C of this Part within twenty Federal working days after the request is received by the appropriate FOIA Requester Service Center designated in § 7.27, except that DOT may extend this time limit by up to ten Federal working days, or longer, in accordance with § 7.34. In addition, DOT may toll this time limit one time to seek additional information needed to clarify the request and as often as necessary to clarify fee issues with the requester (see § 7.35).

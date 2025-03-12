@@ -1,7 +1,5 @@
 ##### § 530.3 Definitions. #####
 
-Link to an amendment published at 82 FR 16296, Apr. 4, 2017.
-
 When used in this part:
 
 (a) *Act* means the Shipping Act of 1984 as amended by the Ocean Shipping Reform Act of 1998.
@@ -32,7 +30,7 @@ When used in this part:
 
 (2) That government has the right to appoint or disapprove the appointment of a majority of the directors, the chief operating officer or the chief executive officer of the carrier.
 
-(i) *Effective date* means the date upon which a service contract or amendment is scheduled to go into effect by the parties to the contract. A service contract or amendment becomes effective at 12:01 a.m. Eastern Standard Time on the beginning of the effective date. The effective date cannot be prior to the filing date of the service contract or amendment with the Commission.
+(i) *Effective date* means the date upon which a service contract or amendment is scheduled to go into effect by the parties to the contract. For an original service contract, the effective date cannot be prior to the filing date with the Commission. For a service contract amendment, the effective date can be no more than thirty (30) calendar days prior to the filing date with the Commission. A service contract or amendment thereto becomes effective at 12:01 a.m. Eastern Standard Time on the beginning of the effective date.
 
 (j) *Expiration date* means the last day after which the entire service contract is no longer in effect.
 
@@ -54,4 +52,4 @@ When used in this part:
 
 (s) *Statement of essential terms* means a concise statement of the essential terms of a service contract required to be published under § 530.12 of this part.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23792, May 4, 1999; 64 FR 41042, July 29, 1999; 65 FR 26513, May 8, 2000; 74 FR 50723, Oct. 1, 2009; 82 FR 16296, Apr. 4, 2017]

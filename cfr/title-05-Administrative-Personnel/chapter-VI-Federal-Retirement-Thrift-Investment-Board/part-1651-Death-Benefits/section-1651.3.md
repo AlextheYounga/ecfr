@@ -1,5 +1,7 @@
 ##### § 1651.3 Designation of beneficiary. #####
 
+Link to an amendment published at 82 FR 21107, May 5, 2017.
+
 (a) *Filing requirements.* To designate a beneficiary of a TSP account, a participant must complete and file a TSP designation of beneficiary form with the TSP record keeper. A participant may designate more beneficiaries than the TSP form accommodates by attaching additional pages to the TSP designation of beneficiary form in accordance with the instructions on the form. A valid TSP designation of beneficiary remains in effect until it is properly canceled or changed as described in § 1651.4.
 
 (b) *Eligible beneficiaries.* Any individual, firm, corporation, or legal entity, including the U.S. Government, may be designated as a beneficiary. Any number of beneficiaries can be named to share the death benefit. A beneficiary may be designated without the knowledge or consent of that beneficiary or the knowledge or consent of the participant's spouse. A participant may designate a custodian under the Uniform Transfers to Minors Act provided that the custodianship is established under the laws of the District of Columbia and that the participant designates the custodianship using the Agency's designation of custodian form.

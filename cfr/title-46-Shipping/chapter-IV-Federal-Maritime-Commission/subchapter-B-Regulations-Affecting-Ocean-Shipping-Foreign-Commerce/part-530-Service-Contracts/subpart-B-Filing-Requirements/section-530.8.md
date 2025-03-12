@@ -1,8 +1,10 @@
 ##### § 530.8 Service Contracts. #####
 
-Link to an amendment published at 82 FR 16296, Apr. 4, 2017.
+(a) Authorized persons shall file with BTA, in the manner set forth in appendix A of this part, a true and complete copy of:
 
-(a) Authorized persons shall file with BTCL, in the manner set forth in appendix A of this part, a true and complete copy of every service contract or amendment to a filed service contract before any cargo moves pursuant to that service contract or amendment.
+(1) Every service contract before any cargo moves pursuant to that service contract; and
+
+(2) Every amendment to a filed service contract no later than thirty (30) days after any cargo moves pursuant to that service contract amendment.
 
 (b) Every service contract filed with the Commission shall include the complete terms of the service contract including, but not limited to, the following:
 
@@ -62,4 +64,4 @@ Link to an amendment published at 82 FR 16296, Apr. 4, 2017.
 
 (3) Failure to file a service contract that goes into effect before it is filed, pursuant to paragraph (e)(1) of this section, within twenty-four (24) hours of the Commission's filing systems' return to service will be considered a violation of Commission regulations.
 
-[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012]
+[64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 FR 41042, July 29, 1999; 77 FR 13510, Mar. 7, 2012; 82 FR 16296, Apr. 4, 2017]

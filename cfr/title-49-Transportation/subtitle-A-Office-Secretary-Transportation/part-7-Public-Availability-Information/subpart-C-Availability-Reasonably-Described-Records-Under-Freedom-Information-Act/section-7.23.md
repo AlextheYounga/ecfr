@@ -1,5 +1,7 @@
 ##### § 7.23 What limitations apply to disclosure? #####
 
+Link to an amendment published at 82 FR 21139, May 5, 2017.
+
 (a) *Policy.* It is DOT policy to make its records available to the public to the greatest extent possible, in keeping with the spirit of FOIA. This includes releasing reasonably segregable and meaningful nonexempt information in a document from which exempt information is withheld.
 
 (b) *Statutory disclosure requirement.* As provided in 5 U.S.C. 552(a)(3)(A), DOT makes reasonably described records available upon request from a member of the public, when the request is submitted in accordance with this subpart, except to the extent that the records contain information exempt from FOIA's mandate of disclosure as provided in 5 U.S.C. 552(b).

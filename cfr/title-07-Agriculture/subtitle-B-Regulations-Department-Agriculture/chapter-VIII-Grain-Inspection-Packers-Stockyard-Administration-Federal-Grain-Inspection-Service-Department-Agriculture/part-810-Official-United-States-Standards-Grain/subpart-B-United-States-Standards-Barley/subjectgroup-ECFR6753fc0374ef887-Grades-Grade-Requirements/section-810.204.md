@@ -1,5 +1,7 @@
 ##### § 810.204 Grades and grade requirements for Six-rowed Malting barley and Six-rowed Blue Malting barley. #####
 
+Link to an amendment published at 81 FR 20543, May 3, 2017.
+
 |                Grade                |      Minimum limits of -       |       Maximum limits of -        |                                     |                          |                      |                                    |                     |    |
 |-------------------------------------|--------------------------------|----------------------------------|-------------------------------------|--------------------------|----------------------|------------------------------------|---------------------|----|
 |Test weight per  <br/>bushel (pounds)|Suitable malting types (percent)|Sound barley<sup>1</sup> (percent)|Damaged kernels<sup>1</sup> (percent)|Foreign material (percent)|Other grains (percent)|Skinned and broken kernels (percent)|Thin barley (percent)|    |

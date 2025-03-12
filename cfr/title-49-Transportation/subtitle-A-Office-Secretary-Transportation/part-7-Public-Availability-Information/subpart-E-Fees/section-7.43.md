@@ -1,5 +1,7 @@
 ##### § 7.43 When are fees waived or reduced for records requested under subpart C of this part? #####
 
+Link to an amendment published at 82 FR 21140, May 5, 2017.
+
 (a) DOT does not charge fees to any requester making a request under subpart C of this part for the following services:
 
 (1) Services for which the total amount of fees that could be charged for the particular request (or aggregation of requests) is less than US $20, after taking into account all services that must be provided free of charge or at a reduced charge.

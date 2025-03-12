@@ -4,4 +4,6 @@
 
 (b) *Notice of Award.* The notice of award document (*i.e.,* Form NIFA-2009, Award Face Sheet) will provide pertinent instructions and information noted in section 210 of 2 CFR part 200.
 
-[74 FR 45740, Sept. 4, 2009, as amended at 79 FR 76001, Dec. 19, 2014]
+(c) *Center of Excellence.* Applicant's Notice of Award will reflect that, for that particular grant program, the applicant meets all of the requirements of a center of excellence. Entities recognized as a center of excellence will maintain that distinction for the duration of their award or as identified in the terms and conditions of that award.
+
+[74 FR 45740, Sept. 4, 2009, as amended at 79 FR 76001, Dec. 19, 2014; 82 FR 21110, May 5, 2017]

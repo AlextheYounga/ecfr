@@ -1,5 +1,7 @@
 ##### § 800.86 Inspection of shiplot, unit train, and lash barge grain in single lots. #####
 
+Link to an amendment published at 81 FR 20543, May 3, 2017.
+
 (a) *General.* Official inspection for grade of bulk or sacked grain aboard, or being loaded aboard, or being unloaded from a ship, unit train, or lash barges as a single lot shall be performed according to the provisions of this section and procedures prescribed in the instructions.
 
 (b) *Application procedure.* Applications for the official inspection of shiplot, unit train, and lash barges as a single lot shall:

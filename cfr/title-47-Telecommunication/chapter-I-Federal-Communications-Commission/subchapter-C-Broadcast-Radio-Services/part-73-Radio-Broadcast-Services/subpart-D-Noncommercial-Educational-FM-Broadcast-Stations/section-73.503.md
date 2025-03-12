@@ -1,5 +1,7 @@
 ##### § 73.503 Licensing requirements and service. #####
 
+Link to an amendment published at 82 FR 21135, May 5, 2017.
+
 The operation of, and the service furnished by noncommercial educational FM broadcast stations shall be governed by the following:
 
 (a) A noncommercial educational FM broadcast station will be licensed only to a nonprofit educational organization and upon showing that the station will be used for the advancement of an educational program.

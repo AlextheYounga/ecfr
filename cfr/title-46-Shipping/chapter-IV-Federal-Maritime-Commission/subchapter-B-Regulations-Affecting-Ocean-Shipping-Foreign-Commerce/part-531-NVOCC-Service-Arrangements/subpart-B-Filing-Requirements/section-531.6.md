@@ -1,8 +1,10 @@
 ##### § 531.6 NVOCC Service Arrangements. #####
 
-Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
+(a) Authorized persons shall file with BTA, in the manner set forth in appendix A of this part, a true and complete copy of:
 
-(a) Authorized persons shall file with BTA, in the manner set forth in Appendix A of this part, a true and complete copy of every NSA or amendment before any cargo moves pursuant to that NSA or amendment.
+(1) Every NSA before any cargo moves pursuant to that NSA; and
+
+(2) Every amendment to a filed NSA no later than thirty (30) days after any cargo moves pursuant to that NSA amendment.
 
 (b) Every NSA filed with the Commission shall include the complete terms of the NSA including, but not limited to, the following:
 
@@ -44,7 +46,7 @@ Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
 
 (3) Pursuant to § 531.12(b), the carrier party to the NSA must, upon written request by the Commission, provide the Commission with the associated records of the referenced terms. For the purpose of paragraph (c)(2) of this section, the referenced terms will be deemed readily available to the Commission if the carrier party to the NSA provides the Commission with the associated records of the terms within thirty (30) days of the Commission's written request.
 
-(d) *Other requirements.* (1) For service pursuant to an NSA, no NVOCC may, either alone or in conjunction with any other person, directly or indirectly, provide service in the liner trade that is not in accordance with the rates, charges, classifications, rules and practices contained in a filed NSA.
+(d) *Other requirements.* (1) For service pursuant to an NSA, no NVOCC may, either alone or in conjunction with any other person, directly or indirectly, provide service in the liner trade that is not in accordance with the rates, charges, classifications, rules and practices contained in an effective NSA.
 
 (2) For service pursuant to an NSA, no NVOCC, may, either alone or in conjunction with any other person, directly or indirectly, engage in any unfair or unjustly discriminatory practice in the matter of rates or charges with respect to any port; and
 
@@ -68,4 +70,4 @@ Link to an amendment published at 82 FR 16297, Apr. 4, 2017.
 
 (g) Failure to comply with the provisions of this section shall result in the application of the terms of the otherwise applicable tariff.
 
-[69 FR 75853, Dec. 20, 2004, as amended at 70 FR 56580, Sept. 28, 2005; 74 FR 50724, Oct. 1, 2009; 77 FR 13510, Mar. 7, 2012]
+[69 FR 75853, Dec. 20, 2004, as amended at 70 FR 56580, Sept. 28, 2005; 74 FR 50724, Oct. 1, 2009; 77 FR 13510, Mar. 7, 2012; 82 FR 16297, Apr. 4, 2017]

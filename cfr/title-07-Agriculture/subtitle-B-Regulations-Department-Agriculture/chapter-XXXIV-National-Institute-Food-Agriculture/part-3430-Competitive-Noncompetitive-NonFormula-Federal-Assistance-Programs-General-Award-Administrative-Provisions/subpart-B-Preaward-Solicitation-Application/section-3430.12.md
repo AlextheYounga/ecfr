@@ -60,4 +60,6 @@
 
 (c) *Program announcements.* Occasionally, NIFA will issue a program announcement (PA) to alert potential applicants and the public about new and ongoing funding opportunities. These PAs may provide tentative due dates and are released without associated application packages. Hence, no applications are solicited under a PA. PAs are announced in the Federal Register or on the NIFA Web site.
 
-[74 FR 45740, Sept. 4, 2009, as amended at 79 FR 76001, Dec. 19, 2014]
+(d) If applicants choose to address center of excellence criteria, they must do so in their project narrative, subject to any page limitations on that section of the application.
+
+[74 FR 45740, Sept. 4, 2009, as amended at 79 FR 76001, Dec. 19, 2014; 82 FR 21109, May 5, 2017]
