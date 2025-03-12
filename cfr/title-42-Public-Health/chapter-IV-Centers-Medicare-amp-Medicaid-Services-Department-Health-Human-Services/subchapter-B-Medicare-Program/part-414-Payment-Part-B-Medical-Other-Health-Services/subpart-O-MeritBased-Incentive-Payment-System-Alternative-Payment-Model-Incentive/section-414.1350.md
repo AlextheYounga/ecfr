@@ -1,7 +1,5 @@
 ##### § 414.1350 Cost performance category. #####
 
-Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
-
 (a) *Specification of cost measures.* For purposes of assessing performance of MIPS eligible clinicians on the cost performance category, CMS specifies cost measures for a performance period.
 
 (b) *Attribution.* (1) Cost measures are attributed at the TIN/NPI level for the 2017 thorough 2019 performance periods.
@@ -26,9 +24,11 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (3) For the episode-based measures specified for the 2017 performance period, the case minimum is 20.
 
-(4) For the procedural episode-based measures specified beginning with the 2019 performance period, the case minimum is 10.
+(4) For the procedural episode-based measures specified beginning with the CY 2019 performance period/2021 MIPS payment year, the case minimum is 10, unless otherwise specified for individual measures. Beginning with the CY 2022 performance period/2024 MIPS payment year, the case minimum for Colon and Rectal Resection procedural episode-based measure is 20 episodes.
 
 (5) For the acute inpatient medical condition episode-based measures specified beginning with the 2019 performance period, the case minimum is 20.
+
+(6) For the chronic condition episode-based measures specified beginning with the CY 2022 performance period/2024 MIPS payment year, the case minimum is 20.
 
 (d) *Scoring weight.* Unless a different scoring weight is assigned by CMS under section 1848(q)(5)(F) of the Act, performance in the cost performance category comprises:
 
@@ -42,4 +42,4 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (5) 30 percent of the MIPS final score for MIPS payment year 2024 and each subsequent MIPS payment year.
 
-[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019, 85 FR 85031, Dec. 28, 2020 ]
+[83 FR 60079, Nov. 23, 2018, as amended at 84 FR 63195, Nov. 15, 2019, 85 FR 85031, Dec. 28, 2020; 86 FR 65671, Nov. 19, 2021]

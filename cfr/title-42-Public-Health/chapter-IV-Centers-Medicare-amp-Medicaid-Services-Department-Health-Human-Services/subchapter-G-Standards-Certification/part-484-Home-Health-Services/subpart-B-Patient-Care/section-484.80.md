@@ -1,7 +1,5 @@
 ##### § 484.80 Condition of participation: Home health aide services. #####
 
-Link to an amendment published at 86 FR 62421, Nov. 9, 2021.
-
 All home health aide services must be provided by individuals who meet the personnel requirements specified in paragraph (a) of this section.
 
 (a) *Standard: Home health aide qualifications.* (1) A qualified home health aide is a person who has successfully completed:
@@ -38,7 +36,7 @@ All home health aide services must be provided by individuals who meet the perso
 
 (viii) The physical, emotional, and developmental needs of and ways to work with the populations served by the HHA, including the need for respect for the patient, his or her privacy, and his or her property.
 
-(ix) Appropriate and safe techniques in performing personal hygiene and grooming tasks that include -
+(ix) Appropriate and safe techniques in performing personal hygiene and grooming tasks that include—
 
 (A) Bed bath;
 
@@ -138,15 +136,27 @@ All home health aide services must be provided by individuals who meet the perso
 
 (4) Home health aides must be members of the interdisciplinary team, must report changes in the patient's condition to a registered nurse or other appropriate skilled professional, and must complete appropriate records in compliance with the HHA's policies and procedures.
 
-(h) *Standard: Supervision of home health aides.* (1)(i) If home health aide services are provided to a patient who is receiving skilled nursing, physical or occupational therapy, or speech-language pathology services, a registered nurse or other appropriate skilled professional who is familiar with the patient, the patient's plan of care, and the written patient care instructions described in § 484.80(g), must make an onsite visit to the patient's home no less frequently than every 14 days. The home health aide does not have to be present during this visit.
+(h) *Standard: Supervision of home health aides.* (1)(i) If home health aide services are provided to a patient who is receiving skilled nursing, physical or occupational therapy, or speech language pathology services—
 
-(ii) If an area of concern in aide services is noted by the supervising registered nurse or other appropriate skilled professional, then the supervising individual must make an on-site visit to the location where the patient is receiving care in order to observe and assess the aide while he or she is performing care.
+(A) A registered nurse or other appropriate skilled professional who is familiar with the patient, the patient's plan of care, and the written patient care instructions described in paragraph (g) of this section, must complete a supervisory assessment of the aide services being provided no less frequently than every 14 days; and
 
-(iii) A registered nurse or other appropriate skilled professional must make an annual on-site visit to the location where a patient is receiving care in order to observe and assess each aide while he or she is performing care.
+(B) The home health aide does not need to be present during the supervisory assessment described in paragraph (h)(1)(i)(A) of this section.
 
-(2) If home health aide services are provided to a patient who is not receiving skilled nursing care, physical or occupational therapy, or speech-language pathology services, the registered nurse must make an on-site visit to the location where the patient is receiving care no less frequently than every 60 days in order to observe and assess each aide while he or she is performing care.
+(ii) The supervisory assessment must be completed onsite (that is, an in person visit), or on the rare occasion by using two-way audio-video telecommunications technology that allows for real-time interaction between the registered nurse (or other appropriate skilled professional) and the patient, not to exceed 1 virtual supervisory assessment per patient in a 60-day episode.
 
-(3) If a deficiency in aide services is verified by the registered nurse or other appropriate skilled professional during an on-site visit, then the agency must conduct, and the home health aide must complete, retraining and a competency evaluation related to the deficient skill(s).
+(iii) If an area of concern in aide services is noted by the supervising registered nurse or other appropriate skilled professional, then the supervising individual must make an on-site visit to the location where the patient is receiving care in order to observe and assess the aide while he or she is performing care.
+
+(iv) A registered nurse or other appropriate skilled professional must make an annual on-site visit to the location where a patient is receiving care in order to observe and assess each aide while he or she is performing care.
+
+(2)(i) If home health aide services are provided to a patient who is not receiving skilled nursing care, physical or occupational therapy, or speech language pathology services—
+
+(A) The registered nurse must make an onsite, in person visit every 60 days to assess the quality of care and services provided by the home health aide and to ensure that services meet the patient's needs; and
+
+(B) The home health aide does not need to be present during this visit.
+
+(ii) Semi-annually the registered nurse must make an on-site visit to the location where each patient is receiving care in order to observe and assess each home health aide while he or she is performing non-skilled care.
+
+(3) If a deficiency in aide services is verified by the registered nurse or other appropriate skilled professional during an on-site visit, then the agency must conduct, and the home health aide must complete, retraining and a competency evaluation for the deficient and all related skills.
 
 (4) Home health aide supervision must ensure that aides furnish care in a safe and effective manner, including, but not limited to, the following elements:
 
@@ -172,4 +182,4 @@ All home health aide services must be provided by individuals who meet the perso
 
 (i) *Standard: Individuals furnishing Medicaid personal care aide-only services under a Medicaid personal care benefit.* An individual may furnish personal care services, as defined in § 440.167 of this chapter, on behalf of an HHA. Before the individual may furnish personal care services, the individual must meet all qualification standards established by the state. The individual only needs to demonstrate competency in the services the individual is required to furnish.
 
-[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020]
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020; 86 FR 62421, Nov. 9, 2021]

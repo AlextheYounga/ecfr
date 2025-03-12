@@ -1,8 +1,6 @@
 ##### § 628.32 General risk weights. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
-(a) *Sovereign exposures* - (1) *Exposures to the U.S. Government.* (i) Notwithstanding any other requirement in this subpart, a System institution must assign a 0-percent risk weight to:
+(a) *Sovereign exposures*—(1) *Exposures to the U.S. Government.* (i) Notwithstanding any other requirement in this subpart, a System institution must assign a 0-percent risk weight to:
 
 (A) An exposure to the U.S. Government, its central bank, or a U.S. Government agency; and
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 
 (2) *Other sovereign exposures.* In accordance with Table 1 to § 628.32, a System institution must assign a risk weight to a sovereign exposure based on the Country Risk Classification (CRC) applicable to the sovereign or the sovereign's Organization for Economic Cooperation and Development (OECD) membership status if there is no CRC applicable to the sovereign.
 
-Table 1 to § 628.32 - Risk Weights for Sovereign Exposures
+Table 1 to § 628.32—Risk Weights for Sovereign Exposures
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -48,11 +46,11 @@ Table 1 to § 628.32 - Risk Weights for Sovereign Exposures
 
 (3) Purchased equity investments (including preferred stock investments) in other System institutions do not receive a risk weight, because they are deducted from capital in accordance with § 628.22.
 
-(d) *Exposures to depository institutions, foreign banks, and credit unions* - (1) *Exposures to U.S. depository institutions and credit unions.* A System institution must assign a 20-percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided in this paragraph (d). This risk weight applies to an exposure a System bank has to another financing institution (OFI) that is a depository institution or credit union organized under the laws of the United States or any state thereof or is owned and controlled by such an entity that guarantees the exposure. If the OFI exposure does not satisfy these requirements, it must be assigned a risk weight as a corporate exposure pursuant to paragraph (f)(1)(ii) or (f)(2) of this section.
+(d) *Exposures to depository institutions, foreign banks, and credit unions*—(1) *Exposures to U.S. depository institutions and credit unions.* A System institution must assign a 20-percent risk weight to an exposure to a depository institution or credit union that is organized under the laws of the United States or any state thereof, except as otherwise provided in this paragraph (d). This risk weight applies to an exposure a System bank has to another financing institution (OFI) that is a depository institution or credit union organized under the laws of the United States or any state thereof or is owned and controlled by such an entity that guarantees the exposure. If the OFI exposure does not satisfy these requirements, it must be assigned a risk weight as a corporate exposure pursuant to paragraph (f)(1)(ii) or (f)(2) of this section.
 
 (2) *Exposures to foreign banks.* (i) Except as otherwise provided under paragraph (d)(2)(iv) of this section, a System institution must assign a risk weight to an exposure to a foreign bank, in accordance with table 2 to § 628.32, based on the CRC rating that corresponds to the foreign bank's home country or the OECD membership status of the foreign bank's home country if there is no CRC applicable to the foreign bank's home country.
 
-Table 2 to § 628.32 - Risk Weights for Exposures to Foreign Banks
+Table 2 to § 628.32—Risk Weights for Exposures to Foreign Banks
 
 |                       |Risk weight  <br/>(in percent)|
 |-----------------------|------------------------------|
@@ -73,7 +71,7 @@ Table 2 to § 628.32 - Risk Weights for Exposures to Foreign Banks
 
 (3) [Reserved]
 
-(e) *Exposures to public sector entities (PSEs)* - (1) *Exposures to U.S. PSEs.* (i) A System institution must assign a 20-percent risk weight to a general obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
+(e) *Exposures to public sector entities (PSEs)*—(1) *Exposures to U.S. PSEs.* (i) A System institution must assign a 20-percent risk weight to a general obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
 
 (ii) A System institution must assign a 50-percent risk weight to a revenue obligation exposure to a PSE that is organized under the laws of the United States or any state or political subdivision thereof.
 
@@ -87,7 +85,7 @@ Table 2 to § 628.32 - Risk Weights for Exposures to Foreign Banks
 
 (ii) The risk weight is not lower than the risk weight that corresponds to the PSE's home country in accordance with table 1 to § 628.32.
 
-Table 3 to § 628.32 - Risk Weights for Non-U.S. PSE General Obligations
+Table 3 to § 628.32—Risk Weights for Non-U.S. PSE General Obligations
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -100,7 +98,7 @@ Table 3 to § 628.32 - Risk Weights for Non-U.S. PSE General Obligations
 |Non-OECD Member with No CRC|             100              |
 |     Sovereign Default     |             150              |
 
-Table 4 to § 628.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
+Table 4 to § 628.32—Risk Weights for Non-U.S. PSE Revenue Obligations
 
 |                           |Risk weight  <br/>(in percent)|
 |---------------------------|------------------------------|
@@ -120,7 +118,7 @@ Table 4 to § 628.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (6) A System institution must assign a 150-percent risk weight to a PSE exposure immediately upon determining that an event of sovereign default has occurred in a PSE's home country or if an event of sovereign default has occurred in the PSE's home country during the previous 5 years.
 
-(f) *Corporate exposures* - (1) *100-percent risk weight.* Except as provided in paragraph (f)(2) of this section, a System institution must assign a 100-percent risk weight to all its corporate exposures. Assets assigned a risk weight under this provision include:
+(f) *Corporate exposures*—(1) *100-percent risk weight.* Except as provided in paragraph (f)(2) of this section, a System institution must assign a 100-percent risk weight to all its corporate exposures. Assets assigned a risk weight under this provision include:
 
 (i) Borrower loans such as agricultural loans and consumer loans, regardless of the corporate form of the borrower, unless those loans qualify for different risk weights under other provisions of this subpart D;
 
@@ -160,7 +158,7 @@ Table 4 to § 628.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 
 (3) A System institution may assign a risk weight to the portion of a past due or nonaccrual exposure that is collateralized by financial collateral based on the risk weight that applies under § 628.37 if the financial collateral meets the requirements of that section.
 
-(l) *Other assets.* (1) A System institution must assign a 0-percent risk weight to cash owned and held in all offices of the System institution, in transit, or in accounts at a depository institution or a Federal Reserve Bank; to gold bullion held in a depository institution's vaults on an allocated basis, to the extent the gold bullion assets are offset by gold bullion liabilities; and to exposures that arise from the settlement of cash transactions (such as equities, fixed income, spot foreign exchange (FX) and spot commodities) with a central counterparty where there is no assumption of ongoing counterparty credit risk by the central counterparty after settlement of the trade.
+(l) *Other assets.* (1) A System institution must assign a 0-percent risk weight to cash owned and held in all offices of the System institution or in transit; to gold bullion held in the System institution's own vaults or held in a depository institution's vaults on an allocated basis, to the extent the gold bullion assets are offset by gold bullion liabilities; and to exposures that arise from the settlement of cash transactions (such as equities, fixed income, spot foreign exchange (FX), and spot commodities) with a central counterparty where there is no assumption of ongoing counterparty credit risk by the central counterparty after settlement of the trade.
 
 (2) A System institution must assign a 20-percent risk weight to cash items in the process of collection.
 
@@ -171,3 +169,5 @@ Table 4 to § 628.32 - Risk Weights for Non-U.S. PSE Revenue Obligations
 (5) A System institution must assign a 100-percent risk weight to all assets that are not specifically assigned a different risk weight under this subpart and that are not deducted from tier 1 or tier 2 capital pursuant to § 628.22.
 
 (6) [Reserved]
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]

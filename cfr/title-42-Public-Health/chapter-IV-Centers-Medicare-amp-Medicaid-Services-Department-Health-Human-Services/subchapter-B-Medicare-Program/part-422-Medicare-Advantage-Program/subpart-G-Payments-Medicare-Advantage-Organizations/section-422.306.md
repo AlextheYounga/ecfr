@@ -4,7 +4,7 @@ Subject to adjustments at §§ 422.308(b) and (g), the annual capitation rate fo
 
 (a) *Minimum percentage increase rate.* The annual capitation rate for each MA local area is equal to the minimum percentage increase rate, which is the annual capitation rate for the area for the preceding year increased by the national per capita MA growth percentage (defined at § 422.308(a)) for the year, but not taking into account any adjustment under § 422.308(b) for a year before 2004.
 
-(b) *Greater of the minimum percentage increase rate or local area fee-for-service costs.* The annual capitation rate for each MA local area is the greater of -
+(b) *Greater of the minimum percentage increase rate or local area fee-for-service costs.* The annual capitation rate for each MA local area is the greater of—
 
 (1) The minimum percentage increase rate under paragraph (a) of this section; or
 

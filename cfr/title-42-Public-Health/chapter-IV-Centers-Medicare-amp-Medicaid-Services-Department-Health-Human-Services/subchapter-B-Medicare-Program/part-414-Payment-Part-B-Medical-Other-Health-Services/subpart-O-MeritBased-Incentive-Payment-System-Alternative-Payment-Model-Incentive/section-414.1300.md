@@ -1,16 +1,14 @@
 ##### § 414.1300 Basis and scope. #####
 
-Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
-
 (a) *Basis.* This subpart implements the following provisions of the Act:
 
-(1) Section 1833(z) - Incentive Payments for Participation in Eligible Alternative Payment Models.
+(1) Section 1833(z)—Incentive Payments for Participation in Eligible Alternative Payment Models.
 
-(2) Section 1848(a) - Payment for Physicians' Services Based on Fee Schedule.
+(2) Section 1848(k)—Quality Reporting System.
 
-(3) Section 1848(k) - Quality Reporting System.
+(3) Section 1848(m)—Incentive Payments for Quality Reporting.
 
-(4) Section 1848(q) - Merit-based Incentive Payment System.
+(4) Section 1848(q)—Merit-based Incentive Payment System.
 
 (b) *Scope.* This subpart part sets forth the following:
 
@@ -33,3 +31,5 @@ Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
 (9) Methods for calculating and paying the APM Incentive Payment to QPs.
 
 (10) Criteria for Physician-Focused Payment Models (PFPMs).
+
+[81 FR 77537, Nov. 4, 2016, as amended at 86 FR 65669, Nov. 19, 2021]

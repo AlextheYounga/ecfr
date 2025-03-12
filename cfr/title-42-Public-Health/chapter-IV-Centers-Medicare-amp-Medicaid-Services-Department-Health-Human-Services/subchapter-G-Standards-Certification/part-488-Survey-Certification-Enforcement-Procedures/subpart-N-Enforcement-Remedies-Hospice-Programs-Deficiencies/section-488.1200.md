@@ -1,0 +1,3 @@
+##### § 488.1200 Statutory basis. #####
+
+Section 1822 of the Act authorizes the Secretary to take actions to remove and correct deficiencies in a hospice program through an enforcement remedy or termination or both. This section specifies that these remedies are in addition to any others available under State or Federal law, and, except for the final determination of civil money penalties, are imposed prior to the conduct of a hearing.

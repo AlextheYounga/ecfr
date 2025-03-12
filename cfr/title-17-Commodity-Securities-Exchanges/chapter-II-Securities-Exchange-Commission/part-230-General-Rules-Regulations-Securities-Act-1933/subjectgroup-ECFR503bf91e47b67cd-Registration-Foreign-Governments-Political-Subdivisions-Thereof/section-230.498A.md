@@ -1,7 +1,5 @@
 ##### § 230.498A Summary Prospectuses for separate accounts offering variable annuity and variable life insurance contracts. #####
 
-Link to an amendment published at 85 FR 26099, May 1, 2020.
-
 (a) *Definitions.* For purposes of this section:
 
 *Class* means a class of a Contract that varies principally with respect to distribution-related fees and expenses.
@@ -64,22 +62,6 @@ Additional information about certain investment products, including [variable an
 
 (D) The legend may include instructions describing how a shareholder can elect to receive prospectuses or other documents and communications by electronic delivery.
 
-(E) The legend for a Contract registered on Form N-3 shall include a statement to the following effect, if applicable:
-
-Beginning on [date], as permitted by regulations adopted by the Securities and Exchange Commission, paper copies of [the Registrant's] shareholder reports will no longer be sent by mail, unless you specifically request paper copies of the reports from [the Registrant] [or from your financial intermediary, such as a broker-dealer or bank]. Instead, the reports will be made available on a website, and you will be notified by mail each time a report is posted and provided with a website link to access the report.
-
-If you already elected to receive shareholder reports electronically, you will not be affected by this change and you need not take any action. You may elect to receive shareholder reports and other communications from [the Registrant] [or your financial intermediary] electronically by [insert instructions].
-
-You may elect to receive all future reports in paper free of charge. You can inform [the Registrant] [or your financial intermediary] that you wish to continue receiving paper copies of your shareholder reports by [insert instructions]. Your election to receive reports in paper will apply to all [funds] held with [the fund complex/your financial intermediary].
-
-(F) The legend for a Contract registered on Form N-4 or N-6 shall include a statement to the following effect, if applicable:
-
-Beginning on [date], as permitted by regulations adopted by the Securities and Exchange Commission, paper copies of the shareholder reports for [Portfolio Companies available under your Contract] will no longer be sent by mail, unless you specifically request paper copies of the reports from [the Registrant] [or from your financial intermediary, such as a broker-dealer or bank]. Instead, the reports will be made available on a website, and you will be notified by mail each time a report is posted and provided with a website link to access the report.
-
-If you already elected to receive shareholder reports electronically, you will not be affected by this change and you need not take any action. You may elect to receive shareholder reports and other communications from [the Portfolio Companies] [or your financial intermediary] electronically by [insert instructions].
-
-You may elect to receive all future reports in paper free of charge. You can inform [the Registrant] [or your financial intermediary] that you wish to continue receiving paper copies of your shareholder reports by [insert instructions]. Your election to receive reports in paper will apply to all portfolio companies [available under your Contract].
-
 (3) *Back cover page or last page of Initial Summary Prospectus.* (i) If a Registrant incorporates any information by reference into the Summary Prospectus, include a legend identifying the type of document (*e.g.,* Statutory Prospectus) from which the information is incorporated and the date of the document. If a Registrant incorporates by reference a part of a document, the legend must clearly identify the part by page, paragraph, caption, or otherwise. If information is incorporated from a source other than the Statutory Prospectus, the legend must explain that the incorporated information may be obtained, free of charge, in the same manner as the Statutory Prospectus.
 
 (ii) Include on the bottom of the back cover page or the last page of the Initial Summary Prospectus the EDGAR contract identifier for the contract in type size smaller than that generally used in the prospectus (*e.g.,* 8-point modern type).
@@ -128,7 +110,7 @@ The prospectus for the [Contract] contains more information about the [Contract]
 
 Additional information about certain investment products, including [variable annuities/variable life insurance contracts], has been prepared by the Securities and Exchange Commission's staff and is available at *Investor.gov.*
 
-(B) The legend required by paragraphs (b)(2)(v)(E) and (F) of this section, as applicable.
+(B) [Reserved]
 
 (4) *Back cover page or last page of Updating Summary Prospectus.* Include on the bottom of the back cover page or the last page of the Updating Summary Prospectus:
 
@@ -244,4 +226,4 @@ Additional information about certain investment products, including [variable an
 
 (3) *Other requirements.* The materials referenced in paragraph (j)(1)(iii) of this section must be delivered upon request, presented, and able to be retained under the conditions set forth in paragraphs (i)(1) and (3) of this section. Compliance with this paragraph (j)(3) is not a condition to the ability to rely on paragraph (j)(1) or (2) of this section, and failure to comply with this paragraph (j)(3) does not negate the ability to rely on paragraph (j)(1) or (2) of this section.
 
-[85 FR 26094, May 1, 2020]
+[85 FR 26094, 26099, May 1, 2020]

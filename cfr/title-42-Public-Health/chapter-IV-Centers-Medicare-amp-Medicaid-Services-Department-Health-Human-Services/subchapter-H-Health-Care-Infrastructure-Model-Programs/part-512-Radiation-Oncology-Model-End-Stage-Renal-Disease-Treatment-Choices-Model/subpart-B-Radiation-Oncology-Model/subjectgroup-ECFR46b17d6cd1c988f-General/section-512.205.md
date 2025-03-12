@@ -1,7 +1,5 @@
 ##### § 512.205 Definitions. #####
 
-Link to an amendment published at 86 FR 63994, Nov. 16, 2021.
-
 For purposes of this subpart, the following definitions apply:
 
 *Aggregate quality score (AQS)* means the numeric score calculated for each RO participant based on its performance on, and reporting of, quality measures and clinical data. The AQS is used to determine an RO participant's quality reconciliation payment amount.
@@ -9,6 +7,8 @@ For purposes of this subpart, the following definitions apply:
 *APM* means Alternative Payment Model.
 
 *ASC* means Ambulatory Surgery Center.
+
+*Baseline period* means the three calendar year period that begins on January 1 no fewer than five years but no more than six years prior to the start of the model performance period during which episodes must initiate in order to be used in the calculation of the national base rates, each RO participant's historical experience adjustment for the PC or TC or both for the model performance period, and the RO participant's case mix adjustment for the PC or TC or both for PY1. The baseline period is January 1, 2017 through December 31, 2019, unless the RO Model is prohibited by law from starting in calendar year (CY) 2022, in which case the baseline period will be delayed based on the new model performance period (for example, if the model performance period starts any time in CY 2023, then the baseline period would be CY 2018 through CY 2020).
 
 *Blend* means the weight given to an RO participant's historical experience adjustment relative to the geographically-adjusted trended national base rate in the calculation of its participant-specific episode payment amounts.
 
@@ -20,13 +20,13 @@ For purposes of this subpart, the following definitions apply:
 
 *Core-Based Statistical Area (CBSA)* means a statistical geographic area, based on the definition as identified by the Office of Management and Budget, with a population of at least 10,000, which consists of a county or counties anchored by at least one core (urbanized area or urban cluster), plus adjacent counties having a high degree of social and economic integration with the core (as measured through commuting ties with the counties containing the core).
 
-*Discount factor* means the set percentage by which CMS reduces payment of the professional component and technical component.
+*Discount factor* means the percentage by which CMS reduces payment of the professional component and technical component.
 
-(1) The reduction on payment occurs after the trend factor, the geographic adjustment, and the RO Model-specific adjustments have been applied but before beneficiary cost-sharing and standard CMS adjustments, including sequestration, have been applied.
+(1) The reduction of payment occurs after the trend factor, the geographic adjustment, and the RO Model-specific adjustments have been applied, but before beneficiary cost-sharing and standard CMS adjustments, including sequestration, have been applied.
 
 (2) The discount factor does not vary by cancer type.
 
-(3) The discount factor for the professional component is 3.75 percent; the discount factor for the technical component is 4.75 percent.
+(3) The discount factor for the professional component is 3.5 percent; the discount factor for the technical component is 4.5 percent.
 
 *Dual participant* means an RO participant that furnishes both the professional component and technical component of RT services of an RO episode through a freestanding radiation therapy center, identified by a single TIN.
 
@@ -35,6 +35,8 @@ For purposes of this subpart, the following definitions apply:
 *Episode* means the 90-day period of RT services that begins on the date of service that an RT provider or RT supplier that is not an RO participant furnishes an initial treatment planning service to a beneficiary, provided that an RT provider or RT supplier furnishes a technical component RT service to the beneficiary within 28 days of such initial treatment planning service. Additional criteria for constructing episodes to be included in determining the national base rates are set forth in § 512.250.
 
 *EOE* stands for “end of episode” and means the end of an RO episode.
+
+*EUC* stands for “extreme and uncontrollable circumstance” and means a circumstance that is beyond the control of one or more RO participants, adversely impacts such RO participants' ability to deliver care in accordance with the RO Model's requirements, and affects an entire region or locale.
 
 *HCPCS* means Healthcare Common Procedure Coding System.
 
@@ -58,9 +60,13 @@ For purposes of this subpart, the following definitions apply:
 
 *Initial reconciliation* means the first reconciliation of a PY that occurs as early as August following the applicable PY.
 
+*Legacy CCN* means a CMS certification number (CCN) that an RO participant that is a hospital outpatient department (HOPD) or its predecessor(s) previously used to bill Medicare for included RT services but no longer uses to bill Medicare for included RT services.
+
+*Legacy TIN* means a taxpayer identification number (TIN) that an RO participant that is a PGP, or a freestanding radiation therapy center, or its predecessor(s) previously used to bill Medicare for included RT services but no longer uses to bill Medicare for included RT services.
+
 *MIPS* means Merit based Incentive Payment System.
 
-*Model performance period* means July 1, 2021, through December 31, 2025, the last date on which an RO episode may end under the RO Model. No new RO episodes may begin after October 3, 2025, in order for all RO episodes to end by December 31, 2025.
+*Model performance period* means the five performance years (PYs) during which RO episodes must initiate and terminate. The model performance period begins on January 1, 2022 and ends on December 31, 2026, unless the RO Model is prohibited by law from starting on January 1, 2022, in which case the model performance period begins on the earliest date permitted by law that is January 1, April 1, or July 1.
 
 *National base rate* means the total payment amount for the relevant component of an RO episode, before application of the trend factor, discount factor, adjustments, and applicable withholds, for each of the included cancer types.
 
@@ -72,8 +78,6 @@ For purposes of this subpart, the following definitions apply:
 
 *Participant-specific technical episode payment* means a payment which is calculated by CMS as set forth in § 512.255 and which is paid by CMS to a Technical participant or Dual participant in accordance with § 512.265, for the provision of the technical component to an RO beneficiary during an RO episode.
 
-*Performance year (PY)* means the 6-month period beginning on July 1, 2021, and ending on December 31, 2021, and the 12-month period beginning on January 1 and ending on December 31 of each subsequent year (2022 through 2025) during the Model performance period.
-
 *PGP* means physician group practice.
 
 *PPS* means prospective payment system.
@@ -84,7 +88,7 @@ For purposes of this subpart, the following definitions apply:
 
 *PSO* means patient safety organization.
 
-*PY* means performance year.
+*PY* stands for performance year and means each 12-month period beginning on January 1 and ending on December 31 during the model performance period, unless the model performance period begins on a date other than January 1, in which case, the first performance year (PY1) begins on that date and ends on December 31 of the same year.
 
 *QP* means Qualifying APM Participants.
 
@@ -110,7 +114,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Stop-loss limit* means the set percentage at which loss is limited under the Model used to calculate the stop-loss reconciliation amount.
 
-*Stop-loss reconciliation amount* means the amount owed to RO participants that have fewer than 60 episodes during 2016-2018 and that were furnishing included RT services on November 30, 2020 in the CBSAs selected for participation for the loss incurred under the Model as described in § 512.285(f).
+*Stop-loss reconciliation amount* means the amount set forth in § 512.285(f) owed by CMS for the loss incurred under the Model to RO participants that have fewer than 60 episodes during the baseline period and were furnishing included RT services before the start of the model performance period in the CBSAs selected for participation.
 
 *Technical component (TC)* means the included RT services that are not furnished by a physician, including the provision of equipment, supplies, personnel, and administrative costs related to RT services.
 
@@ -118,8 +122,14 @@ For purposes of this subpart, the following definitions apply:
 
 *TIN* means Taxpayer Identification Number.
 
+*Track One* means a track for Professional participants and Dual participants that meet all RO Model requirements as specified in § 512.220, including use of CEHRT.
+
+*Track Two* means a track for Professional participants and Dual participants that meet all RO Model requirements as specified in § 512.220, except for use of CEHRT.
+
+*Track Three* means a track for Professional participants and Dual participants who do not meet one or more of the RO Model requirements set forth at § 512.220(a); and for all Technical participants.
+
 *Trend factor* means an adjustment applied to the national base rates that updates those rates to reflect current trends in the OPPS and PFS rates for RT services.
 
 *True-up reconciliation* means the process to calculate additional reconciliation payments or repayment amounts for incomplete episodes and duplicate RT services that are identified after the initial reconciliation and after a 12-month claims run-out for all RO episodes initiated in the applicable PY.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020; 86 FR 63994, Nov. 16, 2021]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

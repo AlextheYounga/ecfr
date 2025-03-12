@@ -1,7 +1,5 @@
 ##### § 447.502 Definitions. #####
 
-Link to an amendment published at 85 FR 87101, Dec. 31, 2020.
-
 For the purpose of this subpart, the following definitions apply:
 
 *Actual acquisition cost (AAC)* means the agency's determination of the pharmacy providers' actual prices paid to acquire drug products marketed or sold by specific manufacturers.
@@ -24,7 +22,7 @@ For the purpose of this subpart, the following definitions apply:
 
 *CMS-authorized supplemental rebate agreement* means an agreement that is approved through a state plan amendment (SPA) by CMS, which allows a state to enter into single and/or multi-state supplemental drug rebate arrangements that generate rebates that are at least as large as the rebates set forth in the Secretary's national rebate agreement with drug manufacturers. Revenue from these rebates must be paid directly to the state and be used by the state to offset a state's drug expenditures resulting in shared savings with the Federal Government.
 
-*Consumer Price Index - Urban (CPI-U)* means the index of consumer prices developed and updated by the U.S. Department of Labor. It is the CPI for all urban consumers (U.S. average) for the month before the beginning of the calendar quarter for which the rebate is paid.
+*Consumer Price Index—Urban (CPI-U)* means the index of consumer prices developed and updated by the U.S. Department of Labor. It is the CPI for all urban consumers (U.S. average) for the month before the beginning of the calendar quarter for which the rebate is paid.
 
 *Covered outpatient drug* means, of those drugs which are treated as a prescribed drug for the purposes of section 1905(a)(12) of the Act, a drug which may be dispensed only upon a prescription (except as provided in paragraphs (2) and (3) of this definition).
 
@@ -74,6 +72,8 @@ For the purpose of this subpart, the following definitions apply:
 
 *Lagged price concession* means any discount or rebate that is realized after the sale of the drug, but does not include customary prompt pay discounts.
 
+*Line extension* means, for a drug, a new formulation of the drug, but does not include an abuse-deterrent formulation of the drug (as determined by the Secretary).
+
 *Manufacturer* means any entity that holds the NDC for a covered outpatient drug or biological product and meets the following criteria:
 
 (1) Is engaged in the production, preparation, propagation, compounding, conversion, or processing of covered outpatient drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis; or
@@ -96,6 +96,8 @@ For the purpose of this subpart, the following definitions apply:
 
 *National rebate agreement* means the rebate agreement developed by CMS and entered into by CMS on behalf of the Secretary or his or her designee and a manufacturer to implement section 1927 of the Act.
 
+*New formulation* means, for a drug, a change to the drug, including, but not limited to: an extended release formulation or other change in release mechanism, a change in dosage form, strength, route of administration, or ingredients.
+
 *Nominal price* means a price that is less than 10 percent of the average manufacturer price (AMP) in the same quarter for which the AMP is computed.
 
 *Noninnovator multiple source drug* means:
@@ -110,7 +112,7 @@ For the purpose of this subpart, the following definitions apply:
 
 (5) If any of the drug products listed in this definition of a noninnovator multiple source drug subsequently receives an NDA or ANDA approval from FDA, the product's drug category changes to correlate with the new product application type.
 
-*Oral solid dosage form* means capsules, tablets, or similar drugs products intended for oral use as defined in accordance with FDA regulation at 21 CFR 206.3 that defines solid oral dosage form.
+*Oral solid dosage form* means, an orally administered dosage form that is not a liquid or gas at the time the drug enters the oral cavity.
 
 *Over-the-counter (OTC) drug* means a drug that is appropriate for use without the supervision of a health care professional such as a physician, and which can be purchased by a consumer without a prescription.
 

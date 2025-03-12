@@ -1,7 +1,5 @@
 ##### § 704.2 Definitions. #####
 
-Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
-
 *As used in this part:*
 
 *Adjusted trading* means any method or transaction whereby a corporate credit union sells a security to a vendor at a price above its current market price and simultaneously purchases or commits to purchase from the vendor another security at a price above its current market price.
@@ -98,7 +96,7 @@ Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
 
 *Internal control* means the process, established by the corporate credit union's board of directors, officers and employees, designed to provide reasonable assurance of reliable financial reporting and safeguarding of assets against unauthorized acquisition, use, or disposition. A credit union's internal control structure generally consists of five components: Control environment; risk assessment; control activities; information and communication; and monitoring. Reliable financial reporting refers to preparation of Call Reports as well as financial data published and presented to members that meet management's financial reporting objectives. Internal control over safeguarding of assets against unauthorized acquisition, use, or disposition refers to prevention or timely detection of transactions involving such unauthorized access, use, or disposition of assets which could result in a loss that is material to the financial statements.
 
-*Internal control framework* means criteria such as that established in *Internal Control - Integrated Framework,* issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO), or comparable, reasonable, and U.S.-recognized criteria.
+*Internal control framework* means criteria such as that established in *Internal Control—Integrated Framework,* issued by the Committee of Sponsoring Organizations of the Treadway Commission (COSO), or comparable, reasonable, and U.S.-recognized criteria.
 
 *Internal control over financial reporting* means a process effected by those charged with governance, management, and other personnel, designed to provide reasonable assurance regarding the preparation of reliable financial statements in accordance with accounting principles generally accepted in the United States of America. A corporate credit union's internal control over financial reporting includes those policies and procedures that:
 
@@ -125,6 +123,8 @@ Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
 *Moving monthly average net risk-weighted assets* means the average of the net risk-weighted assets for the month being measured and the previous eleven (11) months. Measurements must be taken on the last day of each month.
 
 *Mutual combination* means a transaction or event in which a corporate credit union acquires another credit union, or acquires an integrated set of activities and assets that is capable of being conducted and managed as a credit union.
+
+*Natural person credit union subordinated debt instrument* is any debt instrument issued by a natural person credit union that is subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and either the National Credit Union Share Insurance Fund or the insurer of a privately insured credit union.
 
 *NCUA* means NCUA Board (Board), unless the particular action has been delegated by the Board.
 
@@ -184,7 +184,7 @@ Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
 
 *Supervisory committee* means, for federally chartered corporate credit unions, the supervisory committee as defined in Section 111(b) of the Federal Credit Union Act, 12 U.S.C. 1761(b). For state chartered corporate credit unions, the term supervisory committee refers to the audit committee, or similar committee, designated by state statute or regulation.
 
-*Tier 1 capital* means the sum of items in paragraphs (1) and (2) of this definition from which items in paragraphs (3) through (6) are deducted:
+*Tier 1 capital* means the sum of items in paragraphs (1) and (2) of this definition from which items in paragraphs (3) through (7) of this definition are deducted:
 
 (1) Retained earnings;
 
@@ -196,7 +196,9 @@ Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
 
 (5) Deduct an amount equal to any PCC or NCA that the corporate credit union maintains at another corporate credit union;
 
-(6) Deduct any amount of PCC received from federally insured credit unions that causes PCC minus retained earnings, all divided by moving daily average net assets, to exceed two percent when a corporate credit union's retained earnings ratio is less than two and a half percent.
+(6) Deduct any amount of PCC received from federally insured credit unions that causes PCC minus retained earnings, all divided by moving daily average net assets, to exceed two percent when a corporate credit union's retained earnings ratio is less than two and a half percent; and
+
+(7) Deduct any natural person credit union subordinated debt instrument held by the corporate credit union.
 
 *Tier 1 risk-based capital ratio* means the ratio of Tier 1 capital to the moving monthly average net risk-weighted assets.
 
@@ -224,4 +226,4 @@ Link to an amendment published at 86 FR 10731, Feb. 23, 2021.
 
 *When-issued trading* means the buying and selling of securities in the period between the announcement of an offering and the issuance and payment date of the securities.
 
-[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015; 82 FR 55499, Nov. 22, 2017; 85 FR 71825, Nov. 12, 2020]
+[75 FR 64829, Oct. 20, 2010, as amended at 76 FR 23867, Apr. 29, 2011; 76 FR 79533, Dec. 22, 2011; 77 FR 74110, Dec. 13, 2012; 78 FR 32544, May 31, 2013; 80 FR 25936, May 6, 2015; 80 FR 57284, Sept. 23, 2015; 82 FR 55499, Nov. 22, 2017; 85 FR 71825, Nov. 12, 2020; 86 FR 10731, Feb. 23, 2021]

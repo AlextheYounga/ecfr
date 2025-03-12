@@ -1,25 +1,25 @@
-##### § 25.25 Community development test for wholesale or limited purpose banks. #####
+##### § 25.25 Community development test for wholesale or limited purpose banks and savings associations. #####
 
-(a) *Scope of test.* The OCC assesses a wholesale or limited purpose bank's record of helping to meet the credit needs of its assessment area(s) under the community development test through its community development lending, qualified investments, or community development services.
+(a) *Scope of test.* The appropriate Federal banking agency assesses a wholesale or limited purpose bank's or savings association's record of helping to meet the credit needs of its assessment area(s) under the community development test through its community development lending, qualified investments, or community development services.
 
-(b) *Designation as a wholesale or limited purpose bank.* In order to receive a designation as a wholesale or limited purpose bank, a bank shall file a request, in writing, with the OCC, at least three months prior to the proposed effective date of the designation. If the OCC approves the designation, it remains in effect until the bank requests revocation of the designation or until one year after the OCC notifies the bank that the OCC has revoked the designation on its own initiative.
+(b) *Designation as a wholesale or limited purpose bank or savings association.* In order to receive a designation as a wholesale or limited purpose bank or savings association, a bank or savings association shall file a request, in writing, with the appropriate Federal banking agency, at least three months prior to the proposed effective date of the designation. If the appropriate Federal banking agency approves the designation, it remains in effect until the bank or savings association requests revocation of the designation or until one year after the appropriate Federal banking agency notifies the bank or savings association that the it has revoked the designation on its own initiative.
 
-(c) *Performance criteria.* The OCC evaluates the community development performance of a wholesale or limited purpose bank pursuant to the following criteria:
+(c) *Performance criteria.* The appropriate Federal banking agency evaluates the community development performance of a wholesale or limited purpose bank or savings association pursuant to the following criteria:
 
-(1) The number and amount of community development loans (including originations and purchases of loans and other community development loan data provided by the bank, such as data on loans outstanding, commitments, and letters of credit), qualified investments, or community development services;
+(1) The number and amount of community development loans (including originations and purchases of loans and other community development loan data provided by the bank or savings association, such as data on loans outstanding, commitments, and letters of credit), qualified investments, or community development services;
 
 (2) The use of innovative or complex qualified investments, community development loans, or community development services and the extent to which the investments are not routinely provided by private investors; and
 
-(3) The bank's responsiveness to credit and community development needs.
+(3) The bank's or savings association's responsiveness to credit and community development needs.
 
-(d) *Indirect activities.* At a bank's option, the OCC will consider in its community development performance assessment:
+(d) *Indirect activities.* At a bank's or savings association's option, the appropriate Federal banking agency will consider in its community development performance assessment:
 
-(1) Qualified investments or community development services provided by an affiliate of the bank, if the investments or services are not claimed by any other institution; and
+(1) Qualified investments or community development services provided by an affiliate of the bank or savings association, if the investments or services are not claimed by any other institution; and
 
 (2) Community development lending by affiliates, consortia and third parties, subject to the requirements and limitations in § 25.22(c) and (d).
 
-(e) *Benefit to assessment area(s)* - (1) *Benefit inside assessment area(s).* The OCC considers all qualified investments, community development loans, and community development services that benefit areas within the bank's assessment area(s) or a broader statewide or regional area that includes the bank's assessment area(s).
+(e) *Benefit to assessment area(s)*—(1) *Benefit inside assessment area(s).* The appropriate Federal banking agency considers all qualified investments, community development loans, and community development services that benefit areas within the bank's or savings association's assessment area(s) or a broader statewide or regional area that includes the bank's or savings association's assessment area(s).
 
-(2) *Benefit outside assessment area(s).* The OCC considers the qualified investments, community development loans, and community development services that benefit areas outside the bank's assessment area(s), if the bank has adequately addressed the needs of its assessment area(s).
+(2) *Benefit outside assessment area(s).* The appropriate Federal banking agency considers the qualified investments, community development loans, and community development services that benefit areas outside the bank's or savings association's assessment area(s), if the bank or savings association has adequately addressed the needs of its assessment area(s).
 
-(f) *Community development performance rating.* The OCC rates a bank's community development performance as provided in appendix A of this part.
+(f) *Community development performance rating.* The appropriate Federal banking agency rates a bank's or savings association's community development performance as provided in appendix A of this part.

@@ -1,10 +1,8 @@
 ##### § 411.355 General exceptions to the referral prohibition related to both ownership/investment and compensation. #####
 
-Link to an amendment published at 86 FR 65668, Nov. 19, 2021.
-
 The prohibition on referrals set forth in § 411.353 does not apply to the following types of services:
 
-(a) *Physician services.* (1) Physician services as defined at § 410.20(a) of this chapter that are furnished -
+(a) *Physician services.* (1) Physician services as defined at § 410.20(a) of this chapter that are furnished—
 
 (i) Personally by another physician who is a member of the referring physician's group practice or is a physician in the same group practice (as defined at § 411.351) as the referring physician; or
 
@@ -104,7 +102,7 @@ The prohibition on referrals set forth in § 411.353 does not apply to the follo
 
 (e) *Academic medical centers.* (1) Services provided by an academic medical center if all of the following conditions are met:
 
-(i) The referring physician -
+(i) The referring physician—
 
 (A) Is a *bona fide* employee of a component of the academic medical center on a full-time or substantial part-time basis. (A “component” of an academic medical center means an affiliated medical school, faculty practice plan, hospital, teaching facility, institution of higher education, departmental professional corporation, or nonprofit support organization whose primary purpose is supporting the teaching mission of the academic medical center.) The components need not be separate legal entities;
 
@@ -132,7 +130,7 @@ The prohibition on referrals set forth in § 411.353 does not apply to the follo
 
 (C) All money paid to a referring physician for research must be used solely to support *bona fide* research or teaching and must be consistent with the terms and conditions of the grant.
 
-(2) The “academic medical center” for purposes of this section consists of -
+(2) The “academic medical center” for purposes of this section consists of—
 
 (i) An accredited medical school (including a university, when appropriate) or an accredited academic hospital (as defined at paragraph (e)(3) of this section);
 
@@ -164,15 +162,15 @@ The prohibition on referrals set forth in § 411.353 does not apply to the follo
 
 (4) The exception set forth in this paragraph (g) does not apply to any financial relationship between the referring physician and any entity other than the ESRD facility that furnishes the EPO and other dialysis-related drugs to the patient.
 
-(h) *Preventive screening tests, immunizations, and vaccines.* Preventive screening tests, immunizations, and vaccines that meet the following conditions:
+(h) *Preventive screening tests and vaccines*. (1) Preventive screening tests and vaccines that meet the following conditions:
 
-(1) The preventive screening tests, immunizations, and vaccines are subject to CMS-mandated frequency limits.
+(i) The preventive screening test or vaccine is listed on the List of CPT/HCPCS Codes as a code to which the exception in this paragraph is applicable.
 
-(2) [Reserved]
+(ii) The preventive screening test or vaccine is covered by Medicare.
 
-(3) [Reserved]
+(iii) The preventive screening test or vaccine is subject to a CMS-mandated frequency limit.
 
-(4) The preventive screening tests, immunizations, and vaccines must be covered by Medicare and must be listed as eligible for this exception on the List of CPT/HCPCS Codes.
+(2) During such period as the vaccine is not subject to a CMS-mandated frequency limit, paragraph (h)(1)(iii) of this section does not apply to a COVID-19 vaccine identified on the List of CPT/HCPCS Codes as a code to which the exception in this paragraph is applicable.
 
 (i) *Eyeglasses and contact lenses following cataract surgery.* Eyeglasses and contact lenses that are covered by Medicare when furnished to patients following cataract surgery that meet the following conditions:
 
@@ -190,4 +188,4 @@ The prohibition on referrals set forth in § 411.353 does not apply to the follo
 
 (2) The referring physician or the immediate family member must make reasonable inquiries as to the availability of other persons or entities to furnish the DHS. However, neither the referring physician nor the immediate family member has any obligation to inquire as to the availability of persons or entities located farther than 25 miles of or 45 minutes transportation time from (whichever test the referring physician utilized for purposes of paragraph (j)(1)(ii)) the patient's residence.
 
-[85 FR 77656, Dec. 2, 2020]
+[85 FR 77656, Dec. 2, 2020, as amended at 86 FR 65668, Nov. 19 2021]

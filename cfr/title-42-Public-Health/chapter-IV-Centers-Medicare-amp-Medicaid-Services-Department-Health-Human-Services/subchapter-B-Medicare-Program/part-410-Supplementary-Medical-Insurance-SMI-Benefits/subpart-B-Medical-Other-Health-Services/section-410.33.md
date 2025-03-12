@@ -1,7 +1,5 @@
 ##### § 410.33 Independent diagnostic testing facility. #####
 
-Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
-
 (a) *General rule.* (1) Effective for diagnostic procedures performed on or after March 15, 1999, carriers will pay for diagnostic procedures under the physician fee schedule only when performed by a physician, a group practice of physicians, an approved supplier of portable x-ray services, a nurse practitioner, or a clinical nurse specialist when he or she performs a test he or she is authorized by the State to perform, or an independent diagnostic testing facility (IDTF). An IDTF may be a fixed location, a mobile entity, or an individual nonphysician practitioner. It is independent of a physician's office or hospital; however, these rules apply when an IDTF furnishes diagnostic procedures in a physician's office.
 
 (2) *Exceptions.* The following diagnostic tests that are payable under the physician fee schedule and furnished by a nonhospital testing entity are not required to be furnished in accordance with the criteria set forth in paragraphs (b) through (e) and (g) and (h) of this section.
@@ -18,11 +16,13 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (2) The supervising physician must evidence proficiency in the performance and interpretation of each type of diagnostic procedure performed by the IDTF. The proficiency may be documented by certification in specific medical specialties or subspecialties or by criteria established by the carrier for the service area in which the IDTF is located. In the case of a procedure requiring the direct or personal supervision of a physician as set forth in § 410.32(b)(3)(ii) or (b)(3)(iii), the IDTF's supervising physician must personally furnish this level of supervision whether the procedure is performed in the IDTF or, in the case of mobile services, at the remote location. The IDTF must maintain documentation of sufficient physician resources during all hours of operations to assure that the required physician supervision is furnished. In the case of procedures requiring direct supervision, the supervising physician may oversee concurrent procedures.
 
-(c) *Nonphysician personnel.* Any nonphysician personnel used by the IDTF to perform tests must demonstrate the basic qualifications to perform the tests in question and have training and proficiency as evidenced by licensure or certification by the appropriate State health or education department. In the absence of a State licensing board, the technician must be certified by an appropriate national credentialing body. The IDTF must maintain documentation available for review that these requirements are met.
+(c) *Nonphysician personnel.* (1) Except as otherwise stated in paragraph (c)(2) of this section, any nonphysician personnel used by the IDTF to perform tests must demonstrate the basic qualifications to perform the tests in question and have training and proficiency as evidenced by licensure or certification by the appropriate State health or education department. In the absence of a State licensing board, the technician must be certified by an appropriate national credentialing body. The IDTF must maintain documentation available for review that these requirements are met.
+
+(2) For services that do not require direct or in-person beneficiary interaction, treatment, or testing, any nonphysician personnel used by the IDTF to perform the tests must meet all applicable State licensure requirements for doing so. If there are any applicable State licensure requirements, the IDTF must maintain documentation available for review that these requirements are met.
 
 (d) *Ordering of tests.* All procedures performed by the IDTF must be specifically ordered in writing by the physician who is treating the beneficiary, that is, the physician who is furnishing a consultation or treating a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. (Nonphysician practitioners may order tests as set forth in § 410.32(a)(3).) The order must specify the diagnosis or other basis for the testing. The supervising physician for the IDTF may not order tests to be performed by the IDTF, unless the IDTF's supervising physician is in fact the beneficiary's treating physician. That is, the physician in question had a relationship with the beneficiary prior to the performance of the testing and is treating the beneficiary for a specific medical problem. The IDTF may not add any procedures based on internal protocols without a written order from the treating physician.
 
-(e) *Multi-State entities.* (1) An IDTF that operates across State boundaries must -
+(e) *Multi-State entities.* (1) An IDTF that operates across State boundaries must—
 
 (i) Maintain documentation that its supervising physicians and technicians are licensed and certified in each of the States in which it operates; and
 
@@ -44,7 +44,7 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (ii) IDTF suppliers that provide services remotely and do not see beneficiaries at their practice location are exempt from providing hand washing and adequate patient privacy accommodations.
 
-(4) Has all applicable diagnostic testing equipment available at the physical site excluding portable diagnostic testing equipment. The IDTF must -
+(4) Has all applicable diagnostic testing equipment available at the physical site excluding portable diagnostic testing equipment. The IDTF must—
 
 (i) Maintain a catalog of portable diagnostic equipment, including diagnostic testing equipment serial numbers at the physical site;
 
@@ -52,29 +52,37 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (iii) Maintain a current inventory of the diagnostic testing equipment, including serial and registration numbers and provide this information to the designated fee-for-service contractor upon request, and notify the contractor of any changes in equipment within 90 days.
 
-(5) Maintain a primary business phone under the name of the designated business. The IDTF must have its -
+(5) Maintain a primary business phone under the name of the designated business. The IDTF must have its—
 
 (i) Primary business phone located at the designated site of the business or within the home office of the mobile IDTF units.
 
 (ii) Telephone or toll free telephone numbers available in a local directory and through directory assistance.
 
-(6) Have a comprehensive liability insurance policy of at least $300,000 per location that covers both the place of business and all customers and employees of the IDTF. The policy must be carried by a nonrelative-owned company. Failure to maintain required insurance at all times will result in revocation of the IDTF's billing privileges retroactive to the date the insurance lapsed. IDTF suppliers are responsible for providing the contact information for the issuing insurance agent and the underwriter. In addition, the IDTF must -
+(6) Have a comprehensive liability insurance policy of at least $300,000 per location that covers both the place of business and all customers and employees of the IDTF. The policy must be carried by a nonrelative-owned company. Failure to maintain required insurance at all times will result in revocation of the IDTF's billing privileges retroactive to the date the insurance lapsed. IDTF suppliers are responsible for providing the contact information for the issuing insurance agent and the underwriter. In addition, the IDTF must—
 
-(i) Ensure that the insurance policy must remain in force at all times and provide coverage of at least $300,000 per incident; and
+(i) Except as otherwise stated in paragraph (g)(6)(ii) of this section, have a comprehensive liability insurance policy of at least $300,000 per location that covers both the place of business and all customers and employees of the IDTF. The policy must be carried by a nonrelative-owned company. Failure to maintain required insurance at all times will result in revocation of the IDTF's billing privileges retroactive to the date the insurance lapsed. IDTF suppliers are responsible for providing the contact information for the issuing insurance agent and the underwriter. In addition, the IDTF must—
 
-(ii) Notify the CMS designated contractor in writing of any policy changes or cancellations.
+(A) Ensure that the insurance policy must remain in force at all times and provide coverage of at least $300,000 per incident; and
+
+(B) Notify the CMS designated contractor in writing of any policy changes or cancellations.
+
+(ii) Paragraph (g)(6)(i) of this section does not apply to IDTFs that only perform services that do not require direct or in-person beneficiary interaction, treatment, or testing.
 
 (7) Agree not to directly solicit patients, which include, but is not limited to, a prohibition on telephone, computer, or in-person contacts. The IDTF must accept only those patients referred for diagnostic testing by an attending physician, who is furnishing a consultation or treating a beneficiary for a specific medical problem and who uses the results in the management of the beneficiary's specific medical problem. Nonphysician practitioners may order tests as set forth in § 410.32(a)(3).
 
 (8) Answer, document, and maintain documentation of a beneficiary's written clinical complaint at the physical site of the IDTF (For mobile IDTFs, this documentation would be stored at their home office.) This includes, but is not limited to, the following:
 
-(i) The name, address, telephone number, and health insurance claim number of the beneficiary.
+(i) Except as otherwise stated in paragraph (g)(8)(ii) of this section, answer, document, and maintain documentation of a beneficiary's written clinical complaint at the physical site of the IDTF. (For mobile IDTFs, this documentation would be stored at their home office.) This includes, but is not limited to, the following:
 
-(ii) The date the complaint was received; the name of the person receiving the complaint; and a summary of actions taken to resolve the complaint.
+(A) The name, address, telephone number, and health insurance claim number of the beneficiary.
 
-(iii) If an investigation was not conducted, the name of the person making the decision and the reason for the decision.
+(B) The date the complaint was received; the name of the person receiving the complaint; and a summary of actions taken to resolve the complaint.
 
-(9) Openly post these standards for review by patients and the public.
+(C) If an investigation was not conducted, the name of the person making the decision and the reason for the decision.
+
+(ii) Paragraph (g)(8)(i) of this section does not apply to IDTFs that only perform services that do not require direct or in-person beneficiary interaction, treatment, or testing.
+
+(9) Openly post these standards for review by patients and the public. (This requirement does not apply to IDTFs that only perform services that do not require direct or in-person beneficiary interaction, treatment, or testing.)
 
 (10) Disclose to the government any person having ownership, financial, or control interest or any other legal interest in the supplier at the time of enrollment or within 30 days of a change.
 
@@ -84,7 +92,7 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (13) Have proper medical record storage and be able to retrieve medical records upon request from CMS or its fee-for-service contractor within 2 business days.
 
-(14) Permit CMS, including its agents, or its designated fee-for-service contractors, to conduct unannounced, on-site inspections to confirm the IDTF's compliance with these standards. The IDTF must -
+(14) Permit CMS, including its agents, or its designated fee-for-service contractors, to conduct unannounced, on-site inspections to confirm the IDTF's compliance with these standards. The IDTF must—
 
 (i) Be accessible during regular business hours to CMS and beneficiaries; and
 
@@ -110,4 +118,4 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (2) The date the IDTF first started furnishing services at its new practice location.
 
-[62 FR 59099, Oct. 31, 1997, as amended at 64 FR 59440, Nov. 2, 1999; 71 FR 69784, Dec. 1, 2006; 72 FR 18914, Apr. 16, 2007; 72 FR 66398, Nov. 27, 2007; 73 FR 2432, Jan. 15, 2008; 73 FR 69933, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008]
+[62 FR 59099, Oct. 31, 1997, as amended at 64 FR 59440, Nov. 2, 1999; 71 FR 69784, Dec. 1, 2006; 72 FR 18914, Apr. 16, 2007; 72 FR 66398, Nov. 27, 2007; 73 FR 2432, Jan. 15, 2008; 73 FR 69933, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 86 FR 65662, Nov. 19, 2021]

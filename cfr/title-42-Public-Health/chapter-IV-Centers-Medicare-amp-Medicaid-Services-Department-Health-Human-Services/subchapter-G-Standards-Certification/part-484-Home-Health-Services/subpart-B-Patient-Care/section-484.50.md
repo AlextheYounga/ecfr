@@ -1,10 +1,8 @@
 ##### § 484.50 Condition of participation: Patient rights. #####
 
-Link to an amendment published at 86 FR 62421, Nov. 9, 2021.
-
 The patient and representative (if any), have the right to be informed of the patient's rights in a language and manner the individual understands. The HHA must protect and promote the exercise of these rights.
 
-(a) *Standard: Notice of rights.* The HHA must -
+(a) *Standard: Notice of rights.* The HHA must—
 
 (1) Provide the patient and the patient's legal representative (if any), the following information during the initial evaluation visit, in advance of furnishing care to the patient:
 
@@ -26,7 +24,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (3) If a patient has been adjudged to lack legal capacity to make health care decisions under state law by a court of proper jurisdiction, the patient may exercise his or her rights to the extent allowed by court order.
 
-(c) *Standard: Rights of the patient.* The patient has the right to -
+(c) *Standard: Rights of the patient.* The patient has the right to—
 
 (1) Have his or her property and person treated with respect;
 
@@ -34,7 +32,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (3) Make complaints to the HHA regarding treatment or care that is (or fails to be) furnished, and the lack of respect for property and/or person by anyone who is furnishing services on behalf of the HHA;
 
-(4) Participate in, be informed about, and consent or refuse care in advance of and during treatment, where appropriate, with respect to -
+(4) Participate in, be informed about, and consent or refuse care in advance of and during treatment, where appropriate, with respect to—
 
 (i) Completion of all assessments;
 
@@ -56,7 +54,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (6) Have a confidential clinical record. Access to or release of patient information and clinical records is permitted in accordance with 45 CFR parts 160 and 164.
 
-(7) Be advised, orally and in writing, of -
+(7) Be advised, orally and in writing, of—
 
 (i) The extent to which payment for HHA services may be expected from Medicare, Medicaid, or any other federally-funded or federal aid program known to the HHA,
 
@@ -98,7 +96,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (5) The HHA determines, under a policy set by the HHA for the purpose of addressing discharge for cause that meets the requirements of paragraphs (d)(5)(i) through (d)(5)(iii) of this section, that the patient's (or other persons in the patient's home) behavior is disruptive, abusive, or uncooperative to the extent that delivery of care to the patient or the ability of the HHA to operate effectively is seriously impaired. The HHA must do the following before it discharges a patient for cause:
 
-(i) Advise the patient, representative (if any), the physician(s) issuing orders for the home health plan of care, and the patient's primary care practitioner or other health care professional who will be responsible for providing care and services to the patient after discharge from the HHA (if any) that a discharge for cause is being considered;
+(i) Advise the patient, the representative (if any), the physician(s) or allowed practitioner(s) issuing orders for the home health plan of care, and the patient's primary care practitioner or other health care professional who will be responsible for providing care and services to the patient after discharge from the HHA (if any) that a discharge for cause is being considered;
 
 (ii) Make efforts to resolve the problem(s) presented by the patient's behavior, the behavior of other persons in the patient's home, or situation;
 
@@ -110,7 +108,7 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (7) The HHA ceases to operate.
 
-(e) *Standard: Investigation of complaints.* (1) The HHA must -
+(e) *Standard: Investigation of complaints.* (1) The HHA must—
 
 (i) Investigate complaints made by a patient, the patient's representative (if any), and the patient's caregivers and family, including, but not limited to, the following topics:
 
@@ -124,10 +122,10 @@ The patient and representative (if any), have the right to be informed of the pa
 
 (2) Any HHA staff (whether employed directly or under arrangements) in the normal course of providing services to patients, who identifies, notices, or recognizes incidences or circumstances of mistreatment, neglect, verbal, mental, sexual, and/or physical abuse, including injuries of unknown source, or misappropriation of patient property, must report these findings immediately to the HHA and other appropriate authorities in accordance with state law.
 
-(f) *Standard: Accessibility.* Information must be provided to patients in plain language and in a manner that is accessible and timely to -
+(f) *Standard: Accessibility.* Information must be provided to patients in plain language and in a manner that is accessible and timely to—
 
 (1) Persons with disabilities, including accessible Web sites and the provision of auxiliary aids and services at no cost to the individual in accordance with the Americans with Disabilities Act and Section 504 of the Rehabilitation Act.
 
 (2) Persons with limited English proficiency through the provision of language services at no cost to the individual, including oral interpretation and written translations.
 
-[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020]
+[82 FR 4578, Jan. 13, 2017, as amended at 84 FR 51825, Sept. 30, 2019; 85 FR 27628, May 8, 2020; 86 FR 62421, Nov. 9, 2021]

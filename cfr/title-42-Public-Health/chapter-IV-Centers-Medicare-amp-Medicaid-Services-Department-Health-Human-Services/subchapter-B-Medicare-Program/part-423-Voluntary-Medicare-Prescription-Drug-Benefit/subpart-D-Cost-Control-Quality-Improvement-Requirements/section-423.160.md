@@ -1,7 +1,5 @@
 ##### § 423.160 Standards for electronic prescribing. #####
 
-Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
-
 (a) *General rules.* (1) Part D sponsors must establish and maintain an electronic prescription drug program that complies with the applicable standards in paragraph (b) of this section when transmitting, directly or through an intermediary, prescriptions and prescription-related information using electronic media for covered Part D drugs for Part D eligible individuals.
 
 (2) Except as provided in paragraph (a)(3) of this section, prescribers and dispensers that transmit, directly or through an intermediary, prescriptions and prescription-related information using electronic media must comply with the applicable standards in paragraph (b) of this section when e-prescribing for covered Part D drugs for Part D eligible individuals.
@@ -20,7 +18,15 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (ii) Pertains to the electronic transmission of medication history and of information on eligibility, benefits, and prescriptions with respect to covered Part D drugs under Part D of Title XVIII of the Act.
 
-(5) On January 1, 2021, prescribers must, except in circumstances in which the Secretary waives the requirement, conduct all prescribing for all Schedule II, III, IV, and V controlled substances electronically using the applicable standards in paragraph (b) of this section. Compliance actions against those not in compliance with this requirement will commence January 1, 2022.
+(5) Beginning on January 1, 2021, prescribers must, except in the circumstances described in paragraphs (a)(5)(i) through (iv) of this section, conduct prescribing for at least 70 percent of their Schedule II, III, IV, and V controlled substances that are Part D drugs electronically using the applicable standards in paragraph (b) of this section. Prescriptions written for a beneficiary in a long-term care facility will not be included in determining compliance until January 1, 2025. Compliance actions against prescribers who do not meet the compliance threshold based on prescriptions written for a beneficiary in a long-term care facility will commence on or after January 1, 2025. Compliance actions against prescribers who do not meet the compliance threshold based on other prescriptions will commence on or after January 1, 2023. Prescribers will be exempt from this requirement in the following situations:
+
+(i) Prescriber and dispensing pharmacy are the same entity.
+
+(ii) Prescriber issues 100 or fewer controlled substance prescriptions for Part D drugs per calendar year as determined using CMS claims data as of December 31st of the preceding year.
+
+(iii) Prescriber has an NCPDP database address in the geographic area of an emergency or disaster declared by a Federal, State, or local government entity.
+
+(iv) Prescriber has received a CMS-approved waiver because the prescriber is unable to conduct electronic prescribing of controlled substances (EPCS) due to circumstances beyond the prescriber's control.
 
 (b) *Standards.* (1) Entities described in paragraph (a) of this section must comply with the following adopted standards for transactions under this section:
 
@@ -228,4 +234,4 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (ii) [Reserved]
 
-(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020; 85 FR 86835, Dec. 31, 2020]
+(Authority: Section 1860D-4(e) of the Social Security Act (42 U.S.C. 1395w-104(e)))[70 FR 67593, Nov. 7, 2005, as amended at 71 FR 36023, June 23, 2006; 72 FR 66405, Nov. 27, 2007; 73 FR 18941, Apr. 7, 2008; 73 FR 69938, Nov. 19, 2008; 75 FR 38030, July 1, 2010; 77 FR 29030, May 16, 2012; 77 FR 69371, Nov. 16, 2012; 78 FR 74822, Dec. 10, 2013; 83 FR 16743, Apr. 16, 2018; 83 FR 27915, June 15, 2018; 84 FR 23883, May 23, 2019; 85 FR 85037, Dec. 28, 2020; 85 FR 86835, Dec. 31, 2020; 86 FR 65682, Nov. 19, 2021]

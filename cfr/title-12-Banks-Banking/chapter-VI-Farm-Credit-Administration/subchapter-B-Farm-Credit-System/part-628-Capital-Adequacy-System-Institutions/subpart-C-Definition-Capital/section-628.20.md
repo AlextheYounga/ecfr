@@ -1,7 +1,5 @@
 ##### § 628.20 Capital components and eligibility criteria for tier 1 and tier 2 capital instruments. #####
 
-Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) *Regulatory capital components.* A System institution's regulatory capital components are:
 
 (1) CET1 capital;
@@ -14,9 +12,9 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (1) Any common cooperative equity instrument issued by a System institution that meets all of the following criteria:
 
-(i) The instrument is issued directly by the System institution and represents a claim subordinated to general creditors, subordinated debt holders, and preferred stock holders in a receivership, insolvency, liquidation, or similar proceeding of the System institution;
+(i) The instrument is paid-in, issued directly by the System institution, and represents the most subordinated claim in a receivership, insolvency, liquidation, or similar proceeding of the System institution;
 
-(ii) The holder of the instrument is entitled to a claim on the residual assets of the System institution, the claim will be paid only after all creditors, subordinated debt holders, and preferred stock claims have been satisfied in a receivership, insolvency, liquidation, or similar proceeding;
+(ii) The holder of the instrument is entitled to a claim on the residual assets of the System institution after all senior claims have been satisfied in a receivership, insolvency, liquidation, or similar proceeding;
 
 (iii) The instrument has no maturity date, can be redeemed only at the discretion of the System institution and with the prior approval of FCA, and does not contain any term or feature that creates an incentive to redeem;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (ix) The instrument is classified as equity under GAAP;
 
-(x) The System institution, or an entity that the System institution controls, did not purchase or directly or indirectly fund the purchase of the instrument, except that where there is an obligation for a member of the institution to hold an instrument in order to receive a loan or service from the System institution, an amount of that loan equal to the minimum borrower stock requirement under section 4.3A of the Act will not be considered as a direct or indirect funding where:
+(x) The System institution, or an entity that the System institution controls, did not purchase or directly or indirectly fund the purchase of the instrument, except that where there is an obligation for a member of the institution to hold an instrument in order to receive a loan or service from the System institution, an amount of that loan equal to no more than $1,000 of the borrower stock requirement under section 4.3A of the Act will not be considered as a direct or indirect funding where:
 
 (A) The purpose of the loan is not the purchase of capital instruments of the System institution providing the loan; and
 
@@ -44,11 +42,11 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (xiii) The instrument is reported on the System institution's regulatory financial statements separately from other capital instruments; and
 
-(xiv) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 615.5200(d) of this chapter and re-affirmed by the board on an annual basis, provides that the institution:
+(xiv) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 628.21, provides that the institution:
 
 (A) Establishes a minimum redemption or revolvement period of 7 years for equities included in CET1; and
 
-(B) Shall not redeem, revolve, cancel, or remove any equities included in CET1 without prior approval of the FCA under § 628.20(f), except that the minimum statutory borrower stock described in paragraph (b)(1)(x) of this section may be redeemed without a minimum period outstanding after issuance and without the prior approval of the FCA.
+(B) Shall not redeem, revolve, cancel, or remove any equities included in CET1 without prior approval of the FCA under paragraph (f) of this section, except that the statutory borrower stock described in paragraph (b)(1)(x) of this section, not to exceed $1,000, may be redeemed without a minimum period outstanding after issuance and without the prior approval of the FCA, as long as after the redemption, the System institution continues to comply with all minimum regulatory capital requirements.
 
 (2) Unallocated retained earnings.
 
@@ -94,11 +92,11 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (xiii) [Reserved]
 
-(xiv) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 615.5200(d) of this chapter and re-affirmed by the board on an annual basis, provides that the institution:
+(xiv) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 628.21, provides that the institution:
 
 (A) Establishes a minimum redemption or no-call period of 5 years for equities included in additional tier 1; and
 
-(B) Shall not redeem, revolve, cancel, or remove any equities included in additional tier 1 capital without prior approval of the FCA under § 628.20(f).
+(B) Shall not redeem, revolve, cancel, or remove any equities included in additional tier 1 capital without prior approval of the FCA under paragraph (f) of this section.
 
 (2)-(3) [Reserved]
 
@@ -112,7 +110,7 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (1) Instruments (plus related surplus) that meet the following criteria:
 
-(i) The instrument is issued and paid-in, is a common cooperative equity, or is member equity purchased in accordance with paragraph (d)(1)(viii) of this section;
+(i) The instrument is issued and paid-in;
 
 (ii) The instrument is subordinated to general creditors of the System institution;
 
@@ -142,17 +140,17 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (B) The purchase or acquisition of one or more capital instruments of the institution is necessary in order for the beneficiary of the loan to become a member of the System institution; and
 
-(C) The capital instruments are in excess of the statutory minimum stock purchase amount.
+(C) The capital instruments are in excess of $1,000.
 
 (ix) [Reserved]
 
 (x) Redemption of the instrument prior to maturity or repurchase is at the discretion of the System institution and requires the prior approval of the FCA;
 
-(xi) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 615.5200(d) of this chapter and re-affirmed by the board on an annual basis, provides that the institution:
+(xi) The System institution's capitalization bylaws, or a resolution adopted by its board of directors under § 628.21, provides that the institution:
 
 (A) Establishes a minimum call, redemption or revolvement period of 5 years for equities included in tier 2 capital; and
 
-(B) Shall not call, redeem, revolve, cancel, or remove any equities included in tier 2 capital without prior approval of the FCA under § 628.20(f).
+(B) Shall not call, redeem, revolve, cancel, or remove any equities included in tier 2 capital without prior approval of the FCA under paragraph (f) of this section.
 
 (2) [Reserved]
 
@@ -190,7 +188,7 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 
 (i) For redemptions or revolvements of common cooperative equities included in CET1 capital or tier 2 capital, other than as provided in paragraph (f)(6) of this section, the institution issued or allocated such equities at least 7 years ago for CET1 capital and at least 5 years ago for tier 2 capital;
 
-(ii) After such cash payments, the dollar amount of the System institution's CET1 capital equals or exceeds the dollar amount of CET1 capital on the same date in the previous calendar year; and
+(ii) After such cash payments have been declared and defined by resolution of the board, the dollar amount of the System institution's CET1 capital at quarter-end equals or exceeds the dollar amount of CET1 capital on the same quarter-end in the previous calendar year; and
 
 (iii) The System institution continues to comply with all regulatory capital requirements and supervisory or enforcement actions.
 
@@ -201,3 +199,5 @@ Link to an amendment published at 86 FR 54359, Oct. 1, 2021.This amendment was m
 (ii) Equities held by the estate of a deceased former borrower; and
 
 (iii) Equities that the institution is required to cancel under § 615.5290 of this chapter in connection with a restructuring under part 617 of this chapter.
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54359, Oct. 1, 2021]

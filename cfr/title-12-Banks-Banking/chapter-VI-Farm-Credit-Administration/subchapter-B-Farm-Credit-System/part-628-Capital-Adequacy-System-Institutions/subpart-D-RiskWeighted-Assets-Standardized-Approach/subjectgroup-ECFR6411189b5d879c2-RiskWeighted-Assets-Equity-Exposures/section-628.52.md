@@ -1,7 +1,5 @@
 ##### § 628.52 Simple risk-weight approach (SRWA). #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) *General.* Under the SRWA, a System institution's total risk-weighted assets for equity exposures equals the sum of the risk-weighted asset amounts for each of the System institution's individual equity exposures (other than equity exposures to an investment fund) as determined under this section and the risk-weighted asset amounts for each of the System institution's individual equity exposures to an investment fund as determined under § 628.53.
 
 (b) *SRWA computation for individual equity exposures.* A System institution must determine the risk-weighted asset amount for an individual equity exposure (other than an equity exposure to an investment fund) by multiplying the adjusted carrying value of the equity exposure or the effective portion and ineffective portion of a hedge pair (as defined in paragraph (c) of this section) by the lowest applicable risk weight in this paragraph.
@@ -48,10 +46,12 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 
 (ii) Under the variability-reduction method of measuring effectiveness:
 
-![](/graphics/er28jy16.008.gif)Where:*X*t*= A*t*× B*t;*A*t = the value at time t of one exposure in a hedge pair; and*Bt* = the value at time t of the other exposure in a hedge pair.
+![](/graphics/er01oc21.004.gif)Where:*X*t = *A*t−*B*t;*A*t = the value at time t of one exposure in a hedge pair; and*Bt* = the value at time t of the other exposure in a hedge pair.
 
 (iii) Under the regression method of measuring effectiveness, E equals the coefficient of determination of a regression in which the change in value of one exposure in a hedge pair is the dependent variable and the change in value of the other exposure in a hedge pair is the independent variable. However, if the estimated regression coefficient is positive, then E equals 0.
 
 (3) The effective portion of a hedge pair is E multiplied by the greater of the adjusted carrying values of the equity exposures forming a hedge pair.
 
 (4) The ineffective portion of a hedge pair is (1-E) multiplied by the greater of the adjusted carrying values of the equity exposures forming a hedge pair.
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]

@@ -1,7 +1,5 @@
 ##### § 615.5201 Definitions. #####
 
-Link to an amendment published at 86 FR 54356, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 For the purpose of this subpart, the following definitions apply:
 
 *Allocated investment* means earnings allocated but not paid in cash by a System bank to an association or other recipient.
@@ -52,8 +50,8 @@ For the purpose of this subpart, the following definitions apply:
 
 *System bank* means a Farm Credit bank as defined in § 619.9140 of this chapter, which includes Farm Credit Banks, agricultural credit banks, and banks for cooperatives.
 
-*System institution* means a System bank, an association of the Farm Credit System, Farm Credit Leasing Services Corporation, and their successors, and any other institution chartered by the FCA that the FCA determines should be considered a System institution for the purposes of this subpart.
+*System institution* means a System bank, an association of the Farm Credit System, and their successors, and any other institution chartered by the Farm Credit Administration (FCA) that the FCA determines should be considered a System institution for the purposes of this subpart.
 
 *Term preferred stock* means preferred stock with an original maturity of at least 5 years and on which, if cumulative, the board of directors has the option to defer dividends, provided that, at the beginning of each of the last 5 years of the term of the stock, the amount that is eligible to be counted as permanent capital is reduced by 20 percent of the original amount of the stock (net of redemptions).
 
-[81 FR 49773, July 28, 2016]
+[81 FR 49773, July 28, 2016, as amended at 86 FR 54356, Oct. 1, 2021]

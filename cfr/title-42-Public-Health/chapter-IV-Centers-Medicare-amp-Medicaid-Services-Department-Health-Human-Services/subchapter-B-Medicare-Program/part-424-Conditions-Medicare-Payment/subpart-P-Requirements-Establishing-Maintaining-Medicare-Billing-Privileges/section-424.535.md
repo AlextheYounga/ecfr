@@ -1,7 +1,5 @@
 ##### § 424.535 Revocation of enrollment in the Medicare program. #####
 
-Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
-
 (a) *Reasons for revocation.* CMS may revoke a currently enrolled provider or supplier's Medicare enrollment and any corresponding provider agreement or supplier agreement for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements described in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter. The provider or supplier may also be determined not to be in compliance if it has failed to pay any user fees as assessed under part 488 of this chapter.
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (ii) Requested additional documentation must be submitted within 60 calendar days of request.
 
-(2) *Provider or supplier conduct.* The provider or supplier, or any owner, managing employee, authorized or delegated official, medical director, supervising physician, or other health care personnel of the provider or supplier is -
+(2) *Provider or supplier conduct*. The provider or supplier, or any owner, managing employee, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, of the provider or supplier is -
 
 (i) Excluded from the Medicare, Medicaid, and any other Federal health care program, as defined in § 1001.2 of this chapter, in accordance with section 1128, 1128A, 1156, 1842, 1862, 1867 or 1892 of the Act.
 
@@ -66,17 +64,13 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (ii) CMS determines that the provider or supplier has a pattern or practice of submitting claims that fail to meet Medicare requirements. In making this determination, CMS considers, as appropriate or applicable, the following:
 
-(A) The percentage of submitted claims that were denied.
+(A) The percentage of submitted claims that were denied during the period under consideration.
 
-(B) The reason(s) for the claim denials.
+(B) Whether the provider or supplier has any history of final adverse actions and the nature of any such actions.
 
-(C) Whether the provider or supplier has any history of final adverse actions (as that term is defined under § 424.502) and the nature of any such actions.
+(C) The type of billing non-compliance and the specific facts surrounding said non-compliance (to the extent this can be determined).
 
-(D) The length of time over which the pattern has continued.
-
-(E) How long the provider or supplier has been enrolled in Medicare.
-
-(F) Any other information regarding the provider or supplier's specific circumstances that CMS deems relevant to its determination as to whether the provider or supplier has or has not engaged in the pattern or practice described in this paragraph.
+(D) Any other information regarding the provider or supplier's specific circumstances that CMS deems relevant to its determination.
 
 (9) *Failure to report.* The provider or supplier did not comply with the reporting requirements specified in § 424.516(d) or (e), § 410.33(g)(2) of this chapter, or § 424.57(c)(2). In determining whether a revocation under this paragraph (a)(9) is appropriate, CMS considers the following factors:
 
@@ -106,7 +100,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (iii) CMS may apply paragraph (a)(12)(i) of this section to the provider or supplier under any of its current or former names, numerical identifiers or business identities.
 
-(13) *Prescribing authority.* (i) The physician or eligible professional's Drug Enforcement Administration (DEA) Certificate of Registration is suspended or revoked; or
+(13) *Prescribing authority.* (i) A physician or other eligible professional's Drug Enforcement Administration (DEA) Certificate of Registration to dispense a controlled substance is currently suspended or revoked or is surrendered in response to an order to show cause;
 
 (ii) The applicable licensing or administrative body for any state in which the physician or eligible professional practices suspends or revokes the physician or eligible professional's ability to prescribe drugs.
 
@@ -268,7 +262,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (2) Providers must be resurveyed and recertified by the State survey agency as a new provider and must establish a new provider agreement with CMS's Regional Office.
 
-(e) *Reversal of revocation.* If the revocation was due to adverse activity (sanction, exclusion, or felony) against an owner, managing employee, or an authorized or delegated official; or a medical director, supervising physician, or other personnel of the provider or supplier furnishing Medicare reimbursable services, the revocation may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that individual within 30 days of the revocation notification.
+(e) *Reversal of revocation*. If the revocation was due to adverse activity (sanction, exclusion, or felony) against the provider's or supplier's owner, managing employee, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, the revocation may be reversed if the provider or supplier terminates and submits proof that it has terminated its business relationship with that individual within 30 days of the revocation notification.
 
 (f) *Additional review.* When a provider or supplier is revoked from the Medicare program, CMS automatically reviews all other related Medicare enrollment files that the revoked provider or supplier has an association with (for example, as an owner or managing employee) to determine if the revocation warrants an adverse action of the associated Medicare provider or supplier.
 
@@ -308,4 +302,4 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (2) A revocation under paragraph (j)(1) of this section is effective the day before the Medicare contractor receives the provider's or supplier's Form CMS-855 voluntary termination application.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019; 84 FR 63204, Nov. 15, 2019]
+[71 FR 20776, Apr. 21, 2006, as amended at 72 FR 53648, Sept. 19, 2007; 73 FR 36461, June 27, 2008; 73 FR 69940, Nov. 19, 2008; 75 FR 24449, May 5, 2010; 75 FR 70465, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 77 FR 25318, Apr. 27, 2012; 77 FR 29030, May 16, 2012; 79 FR 29968, May 23, 2014; 79 FR 72532, Dec. 5, 2014; 84 FR 47854, Sept. 10, 2019; 84 FR 63204, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021]

@@ -1,7 +1,5 @@
 ##### § 386.2 Royalty fee for secondary transmission by satellite carriers. #####
 
-Link to an amendment published at 86 FR 67329, Nov. 26, 2021.
-
 (a) *General.* (1) For purposes of this section, *Per subscriber per month* shall mean for each subscriber subscribing to the station in question (or to a package including such station) on the last day of a given month.
 
 (2) In the case of a station engaged in digital multicasting, the rates set forth in paragraph (b) of this section shall apply to each digital stream that a satellite carrier or distributor retransmits pursuant to 17 U.S.C. 119, provided however that no additional royalty shall be paid for the carriage of any material related to the programming on such stream.
@@ -36,6 +34,8 @@ Link to an amendment published at 86 FR 67329, Nov. 26, 2021.
 
 (xii) 2021: 30 cents per subscriber per month.
 
+(xiii) 2022: 32 cents per subscriber per month.
+
 (2) *Viewing in commercial establishments.* The rates applicable to Satellite Carriers' carriage of each broadcast signal for viewing in commercial establishments shall be as follows:
 
 (i) 2010: 50 cents per subscriber per month (for each month of 2010);
@@ -66,4 +66,6 @@ Link to an amendment published at 86 FR 67329, Nov. 26, 2021.
 
 (xii) 2021: 61 cents per subscriber per month.
 
-[75 FR 53198, Aug. 31, 2010, as amended at 75 FR 75624, Dec. 6, 2010; 76 FR 74704, Dec. 1, 2011; 77 FR 70374, Nov. 26, 2012; 78 FR 71502, Nov. 29, 2013; 80 FR 22418, Apr. 22, 2015; 80 FR 73119, Nov. 24, 2015; 81 FR 84479, Nov. 23, 2016; 82 FR 55947, Nov. 27, 2017; 83 FR 61127, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020]
+(xiii) 2022: 65 cents per subscriber per month.
+
+[75 FR 53198, Aug. 31, 2010, as amended at 75 FR 75624, Dec. 6, 2010; 76 FR 74704, Dec. 1, 2011; 77 FR 70374, Nov. 26, 2012; 78 FR 71502, Nov. 29, 2013; 80 FR 22418, Apr. 22, 2015; 80 FR 73119, Nov. 24, 2015; 81 FR 84479, Nov. 23, 2016; 82 FR 55947, Nov. 27, 2017; 83 FR 61127, Nov. 28, 2018; 84 FR 64206, Nov. 21, 2019; 85 FR 74884, Nov. 24, 2020; 86 FR 67329, Nov. 26, 2021]

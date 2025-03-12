@@ -1,10 +1,8 @@
 ##### § 512.360 Beneficiary population and attribution. #####
 
-Link to an amendment published at 86 FR 62021, Nov. 8, 2021.
-
 (a) *General.* Except as provided in paragraph (b) of this section, CMS attributes ESRD Beneficiaries to an ETC Participant for each month during a MY based on the ESRD Beneficiary's receipt of services specified in paragraph (c) of this section during that month, for the purpose of assessing the ETC Participant's performance on the home dialysis rate and transplant rate during that MY. Except as provided in paragraph (b) of this section, CMS attributes Pre-emptive LDT Beneficiaries to a Managing Clinician for one or more months during a MY based on the Pre-emptive LDT Beneficiary's receipt of services specified in paragraph (c)(2) of this section during that MY, for the purpose of assessing the Managing Clinician's performance on the living donor transplant rate during that MY. CMS attributes ESRD Beneficiaries and, if applicable, Pre-emptive LDT Beneficiaries to the ETC Participant for each month during a MY retrospectively after the end of the MY. CMS attributes an ESRD Beneficiary to no more than one ESRD facility and no more than one Managing Clinician for a given month during a given MY. CMS attributes a Pre-emptive LDT Beneficiary to no more than one Managing Clinician for a given MY.
 
-(b) *Exclusions from attribution.* CMS does not attribute an ESRD Beneficiary or Pre-emptive LDT Beneficiary to an ETC Participant for a month if, at any point during the month, the beneficiary -
+(b) *Exclusions from attribution.* CMS does not attribute an ESRD Beneficiary or Pre-emptive LDT Beneficiary to an ETC Participant for a month if, at any point during the month, the beneficiary—
 
 (1) Is not enrolled in Medicare Part B;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 62021, Nov. 8, 2021.
 
 (8) Is residing in or receiving dialysis in a skilled nursing facility (SNF) or nursing facility.
 
-(c) *Attribution services.* (1) *ESRD facility beneficiary attribution.* To be attributed to an ESRD facility that is an ETC Participant for a month, an ESRD Beneficiary must not be excluded based on the criteria specified in paragraph (b) of this section and must have received renal dialysis services during the month from the ESRD facility. CMS does not attribute Pre-emptive LDT Beneficiaries to ESRD facilities.
+(c) *Attribution services*—(1) *ESRD facility beneficiary attribution.* To be attributed to an ESRD facility that is an ETC Participant for a month, an ESRD Beneficiary must not be excluded based on the criteria specified in paragraph (b) of this section and must have received renal dialysis services during the month from the ESRD facility. CMS does not attribute Pre-emptive LDT Beneficiaries to ESRD facilities.
 
 (i) An ESRD Beneficiary is attributed to the ESRD facility at which the ESRD Beneficiary received the plurality of his or her dialysis treatments in that month, other than renal dialysis services for AKI, as identified by claims with Type of Bill 072X, with claim service dates at the claim header through date during the month.
 
@@ -34,8 +32,18 @@ Link to an amendment published at 86 FR 62021, Nov. 8, 2021.
 
 (B) If more than one Managing Clinician submits a claim for the MCP furnished to a single ESRD Beneficiary with the same earliest claim service date at the claim line through date for the month, the ESRD Beneficiary is randomly attributed to one of these Managing Clinicians.
 
-(ii) A Pre-emptive LDT Beneficiary who is not excluded based on the criteria in paragraph (b) of this section is attributed to the Managing Clinician with whom the beneficiary has had the most claims between the start of the MY and the month in which the beneficiary received the transplant for all months between the start of the MY and the month of the transplant.
+(ii) For MY1 and MY2, a Pre-emptive LDT Beneficiary who is not excluded based on the criteria in paragraph (b) of this section is attributed to the Managing Clinician with whom the beneficiary has had the most claims between the start of the MY and the month in which the beneficiary received the transplant for all months between the start of the MY and the month of the transplant.
 
 (A) If no Managing Clinician has had the plurality of claims for a given Pre-emptive LDT Beneficiary such that multiple Managing Clinicians each had the same number of claims for that beneficiary during the MY, the Pre-emptive LDT Beneficiary is attributed to the Managing Clinician associated with the latest claim service date at the claim line through date during the MY up to and including the month of the transplant.
 
 (B) If no Managing Clinician had the plurality of claims for a given Pre-emptive LDT Beneficiary such that multiple Managing Clinicians each had the same number of services for that beneficiary during the MY, and more than one of those Managing Clinicians had the latest claim service date at the claim line through date during the MY up to and including the month of the transplant, the Pre-emptive LDT Beneficiary is randomly attributed to one of these Managing Clinicians.
+
+(iii) For MY3 through MY10, a Pre-emptive LDT Beneficiary who is not excluded based on the criteria in paragraph (b) of this section is attributed to the Managing Clinician who submitted the most claims for services furnished to the beneficiary in the 365 days preceding the date in which the beneficiary received the transplant.
+
+(A) If no Managing Clinician has had the most claims for a given Pre-emptive LDT Beneficiary such that multiple Managing Clinicians each had the same number of claims for that beneficiary in the 365 days preceding the date of the transplant, the Pre-emptive LDT Beneficiary is attributed to the Managing Clinician associated with the latest claim service date at the claim line through date during the 365 days preceding the date of the transplant.
+
+(B) If no Managing Clinician had the most claims for a given Pre-emptive LDT Beneficiary such that multiple Managing Clinicians each had the same number of claims for that beneficiary in the 365 days preceding the date of the transplant, and more than one of those Managing Clinicians had the latest claim service date at the claim line through date during the 365 days preceding the date of the transplant, the Pre-emptive LDT Beneficiary is randomly attributed to one of these Managing Clinicians.
+
+(C) The Pre-emptive LDT Beneficiary is considered eligible for attribution under this paragraph (c)(2)(iii) if the Pre-emptive LDT Beneficiary has at least 1-eligible month during the 12-month period that includes the month of the transplant and the 11 months prior to the month of the transplant. An eligible month refers to a month during which the Pre-emptive LDT Beneficiary not does not meet exclusion criteria in paragraph (b) of this section.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62021, Nov. 8, 2021]

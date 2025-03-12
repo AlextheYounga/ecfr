@@ -1,8 +1,6 @@
 ##### § 447.509 Medicaid drug rebates (MDR). #####
 
-Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
-
-(a) *Determination of rebate amount* - (1) *Basic rebate for single source drugs and innovator multiple source drugs.* The amount of basic rebate for each dosage form and strength of a single source drug or an innovator multiple source drug is equal to the product of:
+(a) *Determination of rebate amount*—(1) *Basic rebate for single source drugs and innovator multiple source drugs.* The amount of basic rebate for each dosage form and strength of a single source drug or an innovator multiple source drug is equal to the product of:
 
 (i) The total number of units of each dosage form and strength paid for under the State plan in the rebate period (as reported by the State); and
 
@@ -38,7 +36,7 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
 
-(ii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning on or after October 1, 2018 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:
+(ii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form, the rebate obligation for the rebate periods beginning on October 1, 2018 through December 31, 2021 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:
 
 (A) The AMP of the line extension of a single source drug or an innovator multiple source drug that is an oral solid dosage form.
 
@@ -46,7 +44,15 @@ Link to an amendment published at 85 FR 87103, Dec. 31, 2020.
 
 (C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
 
-(iii) The alternative rebate is required to be calculated if the manufacturer of the line extension drug also manufactures the initial brand name listed drug or has a corporate relationship with the manufacturer of the initial brand name listed drug.
+(iii) In the case of a drug that is a line extension of a single source drug or an innovator multiple source drug, provided that the initial single source drug or innovator multiple source drug is an oral solid dosage form, the rebate obligation for the rebate periods beginning on and after January 1, 2022 is the amount computed under paragraphs (a)(1) through (3) of this section for such new drug or, if greater, the amount computed under paragraph (a)(1) of this section plus the product of all of the following:
+
+(A) The AMP of the line extension of a single source drug or an innovator multiple source drug.
+
+(B) The highest additional rebate (calculated as a percentage of AMP) under this section for any strength of the original single source drug or innovator multiple source drug.
+
+(C) The total number of units of each dosage form and strength of the line extension product paid for under the State plan in the rebate period (as reported by the State).
+
+(iv) The alternative rebate is required to be calculated if the manufacturer of the line extension drug also manufactures the initial brand name listed drug or has a corporate relationship with the manufacturer of the initial brand name listed drug.
 
 (5) *Limit on rebate.* In no case will the total rebate amount exceed 100 percent of the AMP of the single source or multiple source innovator drug.
 

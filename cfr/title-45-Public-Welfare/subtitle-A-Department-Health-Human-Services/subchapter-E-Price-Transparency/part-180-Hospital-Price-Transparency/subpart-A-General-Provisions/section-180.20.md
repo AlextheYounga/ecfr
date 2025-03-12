@@ -1,7 +1,5 @@
 ##### § 180.20 Definitions. #####
 
-Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
-
 The following definitions apply to this part, unless specified otherwise:
 
 *Ancillary service* means an item or service a hospital customarily provides as part of or in conjunction with a shoppable primary service.
@@ -50,4 +48,8 @@ The following definitions apply to this part, unless specified otherwise:
 
 (5) Discounted cash price.
 
+*State forensic hospital* means a public psychiatric hospital that provides treatment for individuals who are in the custody of penal authorities.
+
 *Third party payer* means an entity that is, by statute, contract, or agreement, legally responsible for payment of a claim for a healthcare item or service.
+
+[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021]

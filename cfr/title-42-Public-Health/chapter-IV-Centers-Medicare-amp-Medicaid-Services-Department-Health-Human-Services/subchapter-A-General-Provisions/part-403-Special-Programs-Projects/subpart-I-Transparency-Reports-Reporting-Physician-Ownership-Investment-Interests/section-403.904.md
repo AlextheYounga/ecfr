@@ -1,10 +1,10 @@
 ##### § 403.904 Reports of payments or other transfers of value to covered recipients. #####
 
-Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
-
 (a) *General rule.* (1) Direct and indirect payments or other transfers of value provided by an applicable manufacturer to a covered recipient during the preceding calendar year, and direct and indirect payments or other transfers of value provided to a third party at the request of or designated by the applicable manufacturer on behalf of a covered recipient during the preceding calendar year, must be reported by the applicable manufacturer to CMS on an annual basis.
 
 (2) For CY 2013, only payments or other transfers of value made on or after August 1, 2013 must be reported to CMS.
+
+(3) An applicable manufacturer or applicable group purchasing organization that has reported payments or transfers of value under the scope of this section may not remove, delete, or alter any record/(s) unless an error is discovered in the information that had been furnished, or the record is otherwise believed to meet exceptions for reporting.
 
 (b) *Limitations.* Certain limitations on reporting apply in the following circumstances:
 
@@ -54,7 +54,7 @@ Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
 
 (8) *Related covered drug, device, biological or medical supply.* Report the marketed or brand name of the related covered drugs, devices, biologicals, or medical supplies, and therapeutic area or product category unless the payment or other transfer of value is not related to a particular covered drug, device, biological or medical supply.
 
-(i) For drugs and biologicals -
+(i) For drugs and biologicals—
 
 (A) If the marketed name has not yet been selected, applicable manufacturers must indicate the name registered on *clinicaltrials.gov*.
 
@@ -214,4 +214,4 @@ Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
 
 (14) A payment or transfer of value to a covered recipient if the payment or transfer of value is made solely in the context of a personal, non-business-related relationship.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63186, Nov. 15, 2019]
+[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63186, Nov. 15, 2019; 86 FR 65659, Nov. 19, 2021]

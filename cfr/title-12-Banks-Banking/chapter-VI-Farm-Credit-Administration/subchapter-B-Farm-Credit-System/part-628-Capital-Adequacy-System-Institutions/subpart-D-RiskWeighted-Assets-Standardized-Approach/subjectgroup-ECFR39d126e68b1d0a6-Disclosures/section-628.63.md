@@ -1,7 +1,5 @@
 ##### § 628.63 Disclosures. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) Except as provided in § 628.62, a System bank must make the disclosures described in Tables 1 through 10 of this section. The System bank must make these disclosures publicly available for each of the last 3 years (that is, 12 quarters) or such shorter period beginning on January 1, 2017.
 
 (b) A System bank must publicly disclose each quarter the following:
@@ -10,9 +8,9 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 
 (2) Total risk-weighted assets, including the different regulatory adjustments and deductions needed to calculate total risk-weighted assets;
 
-(3) Regulatory capital ratios during the transition period, including a description of all the regulatory capital elements and all regulatory adjustments and deductions needed to calculate the numerator and denominator of each capital ratio during the transition period; and
+(3) [Reserved]
 
-(4) A reconciliation of regulatory capital elements as they relate to its balance sheet in any audited consolidated financial statements.
+(4) A reconciliation of regulatory capital elements using month-end balances as they relate to its balance sheet in any applicable audited consolidated financial statements. The reconciliation must include a statement that compliance with the regulatory capital requirements outlined in subpart B of this part is determined using average daily balances for the most recent 3 months.
 
 Table 1 to § 628.63 - Scope of Application
 
@@ -237,3 +235,5 @@ Table 10 to § 628.63 - Interest Rate Risk for Non-Trading Activities
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |Qualitative disclosures |(a) The general qualitative disclosure requirement, including the nature of interest rate risk for non-trading activities and key assumptions, including assumptions regarding loan prepayments and behavior of non-maturity deposits, and frequency of measurement of interest rate risk for non-trading activities.|
 |Quantitative disclosures|    (b) The increase (decline) in earnings or economic value (or market value of equity or other relevant measure used by management) for upward and downward rate shocks according to management's method for measuring interest rate risk for non-trading activities, categorized by currency (as appropriate).    |
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]

@@ -1,0 +1,3 @@
+##### § 484.340 Basis and scope of this subpart. #####
+
+This subpart is established under sections 1102, 1115A, and 1871 of the Act (42 U.S.C. 1315a), which authorizes the Secretary to issue regulations to operate the Medicare program and test innovative payment and service delivery models to reduce program expenditures while preserving or enhancing the quality of care furnished to individuals under Titles XVIII and XIX of the Act.

@@ -1,7 +1,5 @@
 ##### § 414.1305 Definitions. #####
 
-Link to an amendment published at 86 FR 65670, Nov. 19, 2021.Link to an amendment published at 86 FR 73159, Dec. 27, 2021.
-
 As used in this section, unless otherwise indicated -
 
 *Additional performance threshold* means the numerical threshold for a MIPS payment year against which the final scores of MIPS eligible clinicians are compared to determine the additional MIPS payment adjustment factors for exceptional performance.
@@ -200,7 +198,11 @@ As used in this section, unless otherwise indicated -
 
 *CMS Web Interface* means a web product developed by CMS that is used by groups that have elected to utilize the CMS Web Interface to submit data on the MIPS measures and activities.
 
-*Collection type* means a set of quality measures with comparable specifications and data completeness criteria, as applicable, including, but not limited to: Electronic clinical quality measures (eCQMs); MIPS Clinical Quality Measures (MIPS CQMs); QCDR measures; Medicare Part B claims measures; for the 2019 through 2023 MIPS payment years, CMS Web Interface measures; the CAHPS for MIPS survey; and administrative claims measures.
+*Collection type* means a set of quality measures with comparable specifications and data completeness criteria, as applicable, including, but not limited to: Electronic clinical quality measures (eCQMs); MIPS clinical quality measures (MIPS CQMs); QCDR measures; Medicare Part B claims measures; CMS Web Interface measures (except as provided in paragraph (1) of this definition, for the CY 2017 through CY 2022 performance periods/2019 through 2024 MIPS payment years); the CAHPS for MIPS survey; and administrative claims measures.
+
+(1) For the CY 2021 through CY 2024 performance periods/2023 through 2026 MIPS payment years, collection types include CMS Web Interface measures for APM Entities reporting through the APM Performance Pathway in accordance with § 414.1367.
+
+(2) [Reserved]
 
 *Covered professional services* has the meaning given by section 1848(k)(3)(A) of the Act.
 
@@ -264,7 +266,7 @@ As used in this section, unless otherwise indicated -
 
 (5) Beginning with the 2023 MIPS payment year, the low-volume threshold that applies to an individual eligible clinician, or group that, during the MIPS determination period, has allowed charges for covered professional services less than or equal to $90,000, furnishes covered professional services to 200 or fewer Medicare Part B-enrolled individuals, or furnishes 200 or fewer covered professional services to Medicare Part B-enrolled individuals.
 
-*Meaningful EHR user for MIPS means* a MIPS eligible clinician who possesses CEHRT, uses the functionality of CEHRT, and reports on applicable objectives and measures specified for the Promoting Interoperability performance category for a performance period in the form and manner specified by CMS, supports information exchange and the prevention of health information blocking, and engages in activities related to supporting providers with the performance of CEHRT.
+*Meaningful EHR user for MIPS means a MIPS* eligible clinician who possesses CEHRT, uses the functionality of CEHRT, reports on applicable objectives and measures specified for the Promoting Interoperability performance category for a performance period in the form and manner specified by CMS, does not knowingly and willfully take action (such as to disable functionality) to limit or restrict the compatibility or interoperability of CEHRT, and engages in activities related to supporting providers with the performance of CEHRT.
 
 *Measure benchmark* means the level of performance that the MIPS eligible clinician is assessed on for a specific performance period at the measures and activities level.
 
@@ -330,7 +332,7 @@ As used in this section, unless otherwise indicated -
 
 (ii) A second 12-month segment beginning on October 1 of the calendar year preceding the applicable performance period and ending on September 30 of the calendar year in which the applicable performance period occurs.
 
-(2) Subject to § 414.1310(b)(1)(iii), an individual eligible clinician, group, or APM Entity group that is identified as not exceeding the low-volume threshold or as having special status during the first segment of the MIPS determination period will be identified as such for the applicable MIPS payment year regardless of the results of the second segment of the MIPS determination period. An individual eligible clinician, group, or APM Entity group for which the unique billing TIN and NPI combination is established during the second segment of the MIPS determination period will be assessed based solely on the results of such segment.
+(2) Subject to § 414.1310(b)(1)(iii), an individual eligible clinician, group, or APM Entity group that is identified as not exceeding the low-volume threshold or as having special status, as applicable, during the first segment of the MIPS determination period will be identified as such for the applicable MIPS payment year regardless of the results of the second segment of the MIPS determination period. An individual eligible clinician, group, or APM Entity group for which the unique billing TIN and NPI combination is established during the second segment of the MIPS determination period will be assessed based solely on the results of such segment.
 
 *MIPS eligible clinician* as identified by a unique billing TIN and NPI combination used to assess performance, means any of the following (except as excluded under § 414.1310(b)):
 
@@ -344,7 +346,7 @@ As used in this section, unless otherwise indicated -
 
 (iv) A group that includes such clinicians.
 
-(2) For the 2021 MIPS payment year and future years:
+(2) For the 2021 through 2023 MIPS payment years:
 
 (i) A clinician described in paragraph (1) of this definition;
 
@@ -360,9 +362,23 @@ As used in this section, unless otherwise indicated -
 
 (vii) A group that includes such clinicians.
 
+(3) For the 2024 MIPS payment year and future years:
+
+(i) A clinician described in paragraph (2) of this definition;
+
+(ii) A clinical social worker (as defined in section 1861(hh)(1) of the Act);
+
+(iii) A certified nurse midwife (as defined in section 1861(gg)(2) of the Act); and
+
+(iv) A group that includes such clinicians.
+
 *MIPS payment year* means a calendar year in which the MIPS payment adjustment factor, and if applicable the additional MIPS payment adjustment factor, are applied to Medicare Part B payments.
 
 *MIPS Value Pathway* means a subset of measures and activities established through rulemaking.
+
+*Multispecialty group* means a group that consists of two or more specialty types.
+
+*MVP participant* means an individual MIPS eligible clinician, multispecialty group, single-specialty group, subgroup, or APM Entity that is assessed on an MVP in accordance with § 414.1365 for all MIPS performance categories. For the CY 2026 performance period/2028 MIPS payment year and future years, MVP Participant means an individual MIPS eligible clinician, single-specialty group, subgroup, or APM Entity that is assessed on an MVP in accordance with § 414.1365 for all MIPS performance categories.
 
 *New Medicare-Enrolled MIPS eligible clinician* means an eligible clinician who first becomes a Medicare-enrolled eligible clinician within the Provider Enrollment, Chain and Ownership System (PECOS) during the performance period for a year and had not previously submitted claims under Medicare as an individual, an entity, or a part of a physician group or under a different billing number or tax identifier.
 
@@ -402,6 +418,8 @@ As used in this section, unless otherwise indicated -
 
 *Physician Compare* means the Physician Compare internet website of the Centers for Medicare & Medicaid Services (or a successor website).
 
+*Population health measure* means a quality measure that indicates the quality of a population or cohort's overall health and well-being, such as access to care, clinical outcomes, coordination of care and community services, health behaviors, preventive care and screening, health equity, or utilization of health services.
+
 *Primary care services* for purposes of CMS Web Interface and CAHPS for MIPS survey beneficiary assignment means the set of services identified by the following:
 
 (1) CPT codes:
@@ -415,6 +433,12 @@ As used in this section, unless otherwise indicated -
 (i) G0402 (code for the Welcome to Medicare visit); and G0438 and G0439 (codes for the annual wellness visits); and
 
 (ii) Beginning with the 2023 MIPS payment year, G2010 (code for remote evaluation of patient video/images); and G2012 (code for virtual check-in).
+
+*QCDR measure* means a quality measure that is submitted by a QCDR and approved by CMS under § 414.1400. QCDR measures consist of:
+
+(1) Measures that are not included in the MIPS final list of quality measures described in § 414.1330(a)(1) for the applicable MIPS payment year; and
+
+(2) Measures that are included in the MIPS final list of quality measures described in § 414.1330(a)(1) for the applicable MIPS payment year, but have undergone substantive changes, as determined by CMS.
 
 *QP patient count threshold* means the minimum threshold score specified in § 414.1430(a)(3) and (b)(3) that an eligible clinician must attain through a patient count methodology described in §§ 414.1435(b) and 414.1440(c) to become a QP for a year.
 
@@ -434,6 +458,8 @@ As used in this section, unless otherwise indicated -
 
 *Rural area* means a ZIP code designated as rural by the Federal Office of Rural Health Policy (FORHP), using the most recent FORHP Eligible ZIP Code file available.
 
+*Single specialty group* means a group that consists of one specialty type.
+
 *Small practice* means:
 
 (1) For the 2019 MIPS payment year, a TIN consisting of 15 or fewer eligible clinicians.
@@ -443,6 +469,14 @@ As used in this section, unless otherwise indicated -
 (3) Beginning with the 2021 MIPS payment year, a TIN consisting of 15 or fewer eligible clinicians during the MIPS determination period.
 
 *Solo practitioner* means a practice consisting of 1 eligible clinician (who is also a MIPS eligible clinician).
+
+*Special status* means that a MIPS eligible clinician:
+
+(1) Meets the definition of an ASC-based MIPS eligible clinician, facility-based MIPS eligible clinician, hospital-based MIPS eligible clinician, non-patient facing MIPS eligible clinician, or is in a small practice; or
+
+(2) Is located in an HPSA or rural area.
+
+*Subgroup* means a subset of a group which contains at least one MIPS eligible clinician and is identified by a combination of the group TIN, subgroup identifier, and each eligible clinician's NPI.
 
 *Submission type* means the mechanism by which the submitter type submits data to CMS, including, but not limited to:
 
@@ -454,7 +488,11 @@ As used in this section, unless otherwise indicated -
 
 (4) Medicare Part B claims; and
 
-(5) For the 2019 through 2023 MIPS payment years, the CMS Web Interface.
+(5) CMS Web Interface (except as provided in paragraph (5)(i) of this definition, for the CY 2017 through CY 2022 performance periods/2019 through 2024 MIPS payment years).
+
+(i) For the CY 2021 through CY 2024 performance periods/2023 through 2026 MIPS payment years, submission types include the CMS Web Interface for APM Entities reporting through the APM Performance Pathway in accordance with § 414.1367.
+
+(ii) [Reserved]
 
 *Submitter type* means the MIPS eligible clinician, group, Virtual Group, APM Entity, or third party intermediary acting on behalf of a MIPS eligible clinician, group, Virtual Group, or APM Entity, as applicable, that submits data on measures and activities under MIPS.
 
@@ -468,4 +506,4 @@ As used in this section, unless otherwise indicated -
 
 *Virtual group* means a combination of two or more TINs assigned to one or more solo practitioners or to one or more groups consisting of 10 or fewer eligible clinicians, or both, that elect to form a virtual group for a performance period for a year.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020]
+[81 FR 77537, Nov. 4, 2016, as amended at 82 FR 53950, Nov. 16, 2017; 83 FR 60075, Nov. 23, 2018; 84 FR 63194, Nov. 15, 2019; 85 FR 54872, Sept. 2, 2020; 85 FR 85029, Dec. 28, 2020; 86 FR 65670, Nov. 19, 2021; 86 FR 73159, Dec. 27, 2021]

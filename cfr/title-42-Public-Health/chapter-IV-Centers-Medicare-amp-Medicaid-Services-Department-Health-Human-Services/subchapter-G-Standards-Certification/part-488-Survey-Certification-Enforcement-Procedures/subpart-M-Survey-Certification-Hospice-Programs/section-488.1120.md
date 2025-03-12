@@ -1,0 +1,3 @@
+##### § 488.1120 Survey teams. #####
+
+Standard surveys conducted by more than one surveyor must be conducted by a multidisciplinary team of professionals typically involved in hospice care and identified as professionals providing hospice core services at § 418.64 of this chapter. The multidisciplinary team must include a registered nurse. Surveys conducted by a single surveyor, must be conducted by a registered nurse.

@@ -1,7 +1,5 @@
 ##### § 180.90 Civil monetary penalties. #####
 
-Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
-
 (a) *Basis for imposing civil monetary penalties.* CMS may impose a civil monetary penalty on a hospital identified as noncompliant according to § 180.70, and that fails to respond to CMS' request to submit a corrective action plan or comply with the requirements of a corrective action plan as described in § 180.80(d).
 
 (b) *Notice of imposition of a civil monetary penalty.* (1) If CMS imposes a penalty in accordance with this part, CMS provides a written notice of imposition of a civil monetary penalty to the hospital via certified mail or another form of traceable carrier.
@@ -38,7 +36,21 @@ Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
 
 (c) *Amount of the civil monetary penalty.* (1) CMS may impose a civil monetary penalty upon a hospital for a violation of each requirement of this part.
 
-(2) The maximum daily dollar amount for a civil monetary penalty to which a hospital may be subject is $300. Even if the hospital is in violation of multiple discrete requirements of this part, the maximum total sum that a single hospital may be assessed per day is $300.
+(2) CMS determines the daily dollar amount for a civil monetary penalty for which a hospital may be subject as follows:
+
+(i) For each day during Calendar Year 2021 that a hospital is determined by CMS to be out of compliance, the maximum daily dollar amount for a civil monetary penalty to which the hospital may be subject is $300. Even if the hospital is in violation of multiple discrete requirements of this part, the maximum total sum that a single hospital may be assessed per day is $300.
+
+(ii) Beginning January 1, 2022, for each day a hospital is determined by CMS to be out of compliance:
+
+(A) For a hospital with a number of beds equal to or less than 30, the maximum daily dollar civil monetary penalty amount to which it may be subject is $300, even if the hospital is in violation of multiple discrete requirements of this part.
+
+(B) For a hospital with at least 31 and up to and including 550 beds, the maximum daily dollar civil monetary penalty amount to which it may be subject is the number of beds times $10, even if the hospital is in violation of multiple discrete requirements of this part.
+
+(C) For a hospital with a number of beds greater than 550, the maximum daily dollar civil monetary penalty amount to which it may be subject is $5,500, even if the hospital is in violation of multiple discrete requirements of this part.
+
+(D)(*1*) CMS will use the most recently available, finalized Medicare hospital cost report to determine the number of beds for a Medicare-enrolled hospital, for purposes of determining the maximum daily dollar civil monetary penalty amount under paragraph (c)(2) of this section.
+
+(*2*) If the number of beds for the hospital cannot be determined according to paragraph (c)(2)(ii)(D)(*1*) of this section, CMS will request that the hospital provide documentation of its number of beds, in a form and manner and by the deadline prescribed by CMS in a written notice provided to the hospital. Should the hospital fail to provide CMS with this documentation in the prescribed form and manner, and by the specified deadline, CMS will impose on the hospital the maximum daily dollar civil monetary penalty amount according to paragraph (c)(2)(ii)(C) of this section.
 
 (3) The amount of the civil monetary penalty will be adjusted annually using the multiplier determined by OMB for annually adjusting civil monetary penalty amounts under part 102 of this title.
 
@@ -61,3 +73,5 @@ Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
 (iv) If the civil monetary penalty is overturned in full by a final and binding decision according to subpart D of this part, CMS will remove the notice of imposition of a civil monetary penalty from a CMS website.
 
 (f) *Continuing violations.* CMS may issue subsequent notice(s) of imposition of a civil monetary penalty, according to paragraph (b) of this section, that result from the same instance(s) of noncompliance.
+
+[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021]

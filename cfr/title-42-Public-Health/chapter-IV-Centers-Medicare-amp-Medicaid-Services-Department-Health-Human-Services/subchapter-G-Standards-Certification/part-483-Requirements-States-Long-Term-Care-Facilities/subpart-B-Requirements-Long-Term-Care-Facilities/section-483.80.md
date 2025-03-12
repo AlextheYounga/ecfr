@@ -1,7 +1,5 @@
 ##### § 483.80 Infection control. #####
 
-Link to an amendment published at 86 FR 62421, Nov. 9, 2021.
-
 The facility must establish and maintain an infection prevention and control program designed to provide a safe, sanitary, and comfortable environment and to help prevent the development and transmission of communicable diseases and infections.
 
 (a) *Infection prevention and control program.* The facility must establish an infection prevention and control program (IPCP) that must include, at a minimum, the following elements:
@@ -42,7 +40,7 @@ The facility must establish and maintain an infection prevention and control pro
 
 (c) *IP participation on quality assessment and assurance committee.* The individual designated as the IP, or at least one of the individuals if there is more than one IP, must be a member of the facility's quality assessment and assurance committee and report to the committee on the IPCP on a regular basis.
 
-(d) *Influenza, pneumococcal, and COVID-19 immunizations* - (1) *Influenza.* The facility must develop policies and procedures to ensure that -
+(d) *Influenza, pneumococcal, and COVID-19 immunizations*—(1) *Influenza.* The facility must develop policies and procedures to ensure that—
 
 (i) Before offering the influenza immunization, each resident or the resident's representative receives education regarding the benefits and potential side effects of the immunization;
 
@@ -56,7 +54,7 @@ The facility must establish and maintain an infection prevention and control pro
 
 (B) That the resident either received the influenza immunization or did not receive the influenza immunization due to medical contraindications or refusal.
 
-(2) *Pneumococcal disease.* The facility must develop policies and procedures to ensure that -
+(2) *Pneumococcal disease.* The facility must develop policies and procedures to ensure that—
 
 (i) Before offering the pneumococcal immunization, each resident or the resident's representative receives education regarding the benefits and potential side effects of the immunization;
 
@@ -102,35 +100,35 @@ The facility must establish and maintain an infection prevention and control pro
 
 (f) *Annual review.* The facility will conduct an annual review of its IPCP and update their program, as necessary.
 
-(g) *COVID-19 reporting.* The facility must -
+(g) *COVID-19 reporting.* Until December 31, 2024, with the exception of the requirements in paragraph (g)(1)(viii) of this section, the facility must do all of the following:
 
-(1) Electronically report information about COVID-19 in a standardized format specified by the Secretary. This report must include but is not limited to -
+(1) Electronically report information about COVID-19 in a standardized format specified by the Secretary. To the extent as required by the Secretary, this report must include the following:
 
-(i) Suspected and confirmed COVID-19 infections among residents and staff, including residents previously treated for COVID-19;
+(i) Suspected and confirmed COVID-19 infections among residents and staff, including residents previously treated for COVID-19.
 
-(ii) Total deaths and COVID-19 deaths among residents and staff;
+(ii) Total deaths and COVID-19 deaths among residents and staff.
 
-(iii) Personal protective equipment and hand hygiene supplies in the facility;
+(iii) Personal protective equipment and hand hygiene supplies in the facility.
 
-(iv) Ventilator capacity and supplies in the facility;
+(iv) Ventilator capacity and supplies in the facility.
 
-(v) Resident beds and census;
+(v) Resident beds and census.
 
-(vi) Access to COVID-19 testing while the resident is in the facility;
+(vi) Access to COVID-19 testing while the resident is in the facility.
 
-(vii) Staffing shortages;
+(vii) Staffing shortages.
 
-(viii) The COVID-19 vaccine status of residents and staff, including total numbers of residents and staff, numbers of residents and staff vaccinated, numbers of each dose of COVID-19 vaccine received, and COVID-19 vaccination adverse events; and
+(viii) The COVID-19 vaccine status of residents and staff, including total numbers of residents and staff, numbers of residents and staff vaccinated, numbers of each dose of COVID-19 vaccine received, and COVID-19 vaccination adverse events.
 
 (ix) Therapeutics administered to residents for treatment of COVID-19.
 
-(2) Provide the information specified in paragraph (g)(1) of this section at a frequency specified by the Secretary, but no less than weekly to the Centers for Disease Control and Prevention's National Healthcare Safety Network. This information will be posted publicly by CMS to support protecting the health and safety of residents, personnel, and the general public.
+(2) Provide the information specified in paragraph (g)(1) of this section weekly, unless the Secretary specifies a lesser frequency, to the Centers for Disease Control and Prevention's National Healthcare Safety Network. This information will be posted publicly by CMS to support protecting the health and safety of residents, personnel, and the general public.
 
-(3) Inform residents, their representatives, and families of those residing in facilities by 5 p.m. the next calendar day following the occurrence of either a single confirmed infection of COVID-19, or three or more residents or staff with new-onset of respiratory symptoms occurring within 72 hours of each other. This information must -
+(3) Inform residents, their representatives, and families of those residing in facilities by 5 p.m. the next calendar day following the occurrence of either a single confirmed infection of COVID-19, or three or more residents or staff with new-onset of respiratory symptoms occurring within 72 hours of each other. This information must do all of the following:
 
-(i) Not include personally identifiable information;
+(i) Not include personally identifiable information.
 
-(ii) Include information on mitigating actions implemented to prevent or reduce the risk of transmission, including if normal operations of the facility will be altered; and
+(ii) Include information on mitigating actions implemented to prevent or reduce the risk of transmission, including if normal operations of the facility will be altered.
 
 (iii) Include any cumulative updates for residents, their representatives, and families at least weekly or by 5 p.m. the next calendar day following the subsequent occurrence of either: Each time a confirmed infection of COVID-19 is identified, or whenever three or more residents or staff with new onset of respiratory symptoms occur within 72 hours of each other.
 
@@ -208,4 +206,4 @@ The facility must establish and maintain an infection prevention and control pro
 
 (x) Contingency plans for staff who are not fully vaccinated for COVID-19.
 
-[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021]
+[81 FR 68868, Oct. 4, 2016, as amended at 85 FR 27627, May 8, 2020; 85 FR 54873, Sept. 2, 2020; 86 FR 26335, May 13, 2021; 86 FR 61619, Nov. 5, 2021; 86 FR 62421, Nov. 9, 2021]

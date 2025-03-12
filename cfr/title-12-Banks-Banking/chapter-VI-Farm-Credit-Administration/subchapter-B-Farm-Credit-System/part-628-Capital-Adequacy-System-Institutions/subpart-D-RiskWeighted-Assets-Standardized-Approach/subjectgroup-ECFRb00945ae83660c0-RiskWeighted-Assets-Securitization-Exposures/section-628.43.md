@@ -1,7 +1,5 @@
 ##### § 628.43 Simplified supervisory formula approach (SSFA) and the gross-up approach. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) *General requirements for the SSFA.* To use the SSFA to determine the risk weight for a securitization exposure, a System institution must have data that enables it to assign accurately the parameters described in paragraph (b) of this section. Data used to assign the parameters described in paragraph (b) of this section must be the most currently available data; if the contract governing the underlying exposures of the securitization require payment on a monthly or quarterly basis, the data used to assign the parameters described in paragraph (b) of this section must be no more than 91 calendar days old. A System institution that does not have the appropriate data to assign the parameters described in paragraph (b) of this section must assign a risk weight of 1,250 percent to the exposure.
 
 (b) *SSFA parameters.* To calculate the risk weight for a securitization exposure using the SSFA, a System institution must have accurate information on the following five inputs to the SSFA calculation:
@@ -54,11 +52,11 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 
 (d) *SSFA equation.* (1) The System institution must define the following parameters:
 
-*K*A = *(1 − W)* × *K*G × *(0.5 × W)*
+KA = (1−W) × KG + (0.5 × W)
 
 (2) Then the System institution must calculate *K*SSFA according to the following equation:
 
-![](/graphics/er28jy16.006.gif)
+![](/graphics/er01oc21.002.gif)Where:![](/graphics/er01oc21.003.gif)
 
 (3) The risk weight for the exposure (expressed as a percent) is equal to *K*SSFA*× 1,250.*
 
@@ -89,3 +87,5 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 *RWA = RW × CEA*
 
 (f) *Limitations.* Notwithstanding any other provision of this section, a System institution must assign a risk weight of not less than 20 percent to a securitization exposure.
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]

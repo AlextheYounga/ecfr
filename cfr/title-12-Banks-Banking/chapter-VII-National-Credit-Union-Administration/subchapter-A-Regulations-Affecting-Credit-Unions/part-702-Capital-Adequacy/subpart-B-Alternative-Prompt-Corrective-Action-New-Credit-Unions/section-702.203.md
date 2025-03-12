@@ -1,0 +1,3 @@
+##### § 702.203 Prompt corrective action for adequately capitalized new credit unions. #####
+
+Beginning on the effective date of classification, an adequately capitalized new credit union must increase the dollar amount of its net worth by the amount reflected in its approved initial or revised business plan in accordance with § 702.204(a)(2), or in the absence of such a plan, in accordance with § 702.106 until it is well capitalized.

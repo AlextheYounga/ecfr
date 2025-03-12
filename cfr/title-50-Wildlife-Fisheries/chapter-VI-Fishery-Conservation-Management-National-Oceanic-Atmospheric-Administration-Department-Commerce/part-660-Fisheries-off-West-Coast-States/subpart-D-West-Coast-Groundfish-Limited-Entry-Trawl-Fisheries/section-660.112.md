@@ -146,10 +146,6 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (3) Fish with a vessel in the mothership sector, if that vessel was used to fish in the C/P fishery in the same calendar year.
 
-(i) Effective October 25, 2021 until December 31, 2021, notwithstanding any other section of this part, a vessel that was used to fish in the C/P fishery may be used to receive and process catch as mothership in the same calendar year, but not on the same fishing trip.
-
-(ii) [Reserved]
-
 (4) Catch, take, or harvest fish in the MS Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting mothership sector, as specified at § 660.13(d)(5)(iv)(A), subpart C.
 
 (5) Transfer catch to a vessel that is not registered to an MS permit. (*i.e.*, a tender vessel).
@@ -182,10 +178,6 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (3) Fish as a catcher/processor vessel in the same year that the vessel operates as a mothership in the mothership fishery.
 
-(i) Effective October 25, 2021 until December 31, 2021, notwithstanding any other section of this part, catcher-processor vessels and motherships are exempt from the prohibition in this paragraph (e)(3).
-
-(ii) [Reserved]
-
 (4) Fish in the C/P Coop Program with a vessel that does not have a valid VMS declaration for limited entry midwater trawl, Pacific whiting catcher/processor sector, as specified at § 660.13(d)(4)(iv)(A).
 
 (5) Fish in the C/P Coop Program with a vessel that is not identified in the C/P coop agreement.
@@ -200,4 +192,4 @@ In addition to the general prohibitions specified in § 660.12 and § 600.725 of
 
 (10) Retain and process more than 1 mt of Shared EC Species other than squid species in any calendar year; or, retain and process more than 40 mt of any Shared EC squid species in any calendar year.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021]Effective Date Note:At 86 FR 26442, May 14, 2021, § 660.112 was amended by adding paragraphs (d)(3)(i) and (ii) and (e)(3)(i) and (ii), effective May 14, 2021, until Nov. 10, 2021. At 86 FR 58811, Oct. 25, 2021, the effective date was extended to Dec. 31, 2021.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78384, Dec. 15, 2010; 76 FR 53837, Aug. 30, 2011; 76 FR 74739, Dec. 1, 2011; 77 FR 55155, Sept. 7, 2012; 78 FR 629, Jan. 3, 2013; 78 FR 68769, Nov. 15, 2013; 78 FR 75279, Dec. 11, 2013; 80 FR 22285, Apr. 21, 2015; 80 FR 77272, Dec. 14, 2015; 81 FR 19058, Apr. 4, 2016; 81 FR 27010, May 5, 2016; 81 FR 36808, June 8, 2016; 81 FR 84429, Nov. 23, 2016; 83 FR 62276, Dec. 3, 2018; 84 FR 63986, Nov. 19, 2019; 85 FR 37029, June 19, 2020; 85 FR 35601, June 11, 2020; 86 FR 26442, May 14, 2021; 86 FR 58813, Oct. 25, 2021]

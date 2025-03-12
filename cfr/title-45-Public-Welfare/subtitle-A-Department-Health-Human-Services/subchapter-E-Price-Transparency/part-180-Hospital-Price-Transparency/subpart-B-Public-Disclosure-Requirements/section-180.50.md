@@ -1,7 +1,5 @@
 ##### § 180.50 Requirements for making public hospital standard charges for all items and services. #####
 
-Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
-
 (a) *General rules.* (1) A hospital must establish, update, and make public a list of all standard charges for all items and services online in the form and manner specified in this section.
 
 (2) Each hospital location operating under a single hospital license (or approval) that has a different set of standard charges than the other location(s) operating under the same hospital license (or approval) must separately make public the standard charges applicable to that location.
@@ -32,12 +30,16 @@ Link to an amendment published at 86 FR 63998, Nov. 16, 2021.
 
 (i) Free of charge;
 
-(ii) Without having to establish a user account or password; and
+(ii) Without having to establish a user account or password;
 
-(iii) Without having to submit personal identifying information (PII).
+(iii) Without having to submit personal identifying information (PII); and
+
+(iv) To automated searches and direct file downloads through a link posted on a publicly available website.
 
 (4) The digital file and standard charge information contained in that file must be digitally searchable.
 
 (5) The file must use the following naming convention specified by CMS, specifically: \<ein\>\_\<hospital-name\>\_standardcharges.[json|xml|csv].
 
 (e) *Frequency of updates.* The hospital must update the standard charge information described in paragraph (b) of this section at least once annually. The hospital must clearly indicate the date that the standard charge data was most recently updated, either within the file itself or otherwise clearly associated with the file.
+
+[84 FR 65602, Nov. 27, 2019, as amended at 86 FR 63998, Nov. 16, 2021]

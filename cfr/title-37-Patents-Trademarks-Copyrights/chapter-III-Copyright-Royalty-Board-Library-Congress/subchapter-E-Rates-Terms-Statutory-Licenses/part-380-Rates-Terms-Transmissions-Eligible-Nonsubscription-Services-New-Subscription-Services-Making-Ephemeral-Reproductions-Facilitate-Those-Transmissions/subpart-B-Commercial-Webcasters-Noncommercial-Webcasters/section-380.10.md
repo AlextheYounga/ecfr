@@ -1,15 +1,15 @@
 ##### § 380.10 Royalty fees for the public performance of sound recordings and the making of ephemeral recordings. #####
 
-Link to an amendment published at 86 FR 68150, Dec. 1, 2021.
+(a) *Royalty fees.* For the year 2022, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
 
-(a) *Royalty fees.* For the year 2021, Licensees must pay royalty fees for all Eligible Transmissions of sound recordings at the following rates:
+(1) *Commercial webcasters:* $0.0028 per Performance for subscription services and $0.0022 per Performance for nonsubscription services.
 
-(1) *Commercial webcasters.* $0.0026 per Performance for subscription services and $0.0021 per Performance for nonsubscription services.
-
-(2) *Noncommercial webcasters.* $1000 per year for each channel or station and $0.0021 per Performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
+(2) *Noncommercial webcasters:* $1,000 per year for each channel or station and $0.0022 per Performance for all digital audio transmissions in excess of 159,140 ATH in a month on a channel or station.
 
 (b) *Minimum fee.* Licensees must pay the Collective a minimum fee of $1,000 each year for each channel or station. The Collective must apply the fee to the Licensee's account as credit towards any additional royalty fees that Licensees may incur in the same year. The fee is payable for each individual channel and each individual station maintained or operated by the Licensee and making Eligible Transmissions during each calendar year or part of a calendar year during which it is a Licensee. The maximum aggregate minimum fee in any calendar year that a Commercial Webcaster must pay is $100,000. The minimum fee is nonrefundable.
 
 (c) *Annual royalty fee adjustment.* The Copyright Royalty Judges shall adjust the royalty fees each year to reflect any changes occurring in the cost of living as determined by the most recent Consumer Price Index for All Urban Consumers (U.S. City Average, all items) (CPI-U) published by the Secretary of Labor before December 1 of the preceding year. The calculation of the rate for each year shall be cumulative based on a calculation of the percentage increase in the CPI-U from the CPI-U published in November, 2020 (260.229) and shall be made according to the following formulas: For subscription performances, (1 + (Cy−260.229)/260.229) × $0.0026; for nonsubscription performances, (1 + (Cy−260.229)/260.229) × $0.0021; for performances by a noncommercial webcaster in excess of 159,140 ATH per month, (1 + (Cy−260.229)/260.229) × $0.0021; where Cy is the CPI-U published by the Secretary of Labor before December 1 of the preceding year. The adjusted rate shall be rounded to the nearest fourth decimal place. The Judges shall publish notice of the adjusted fees in the Federal Register at least 25 days before January 1. The adjusted fees shall be effective on January 1.
 
 (d) *Ephemeral recordings royalty fees; allocation between ephemeral recordings and performance royalty fees.* The Collective must credit 5% of all royalty payments as payment for Ephemeral Recordings and credit the remaining 95% to section 114 royalties. All Ephemeral Recordings that a Licensee makes which are necessary and commercially reasonable for making noninteractive digital transmissions are included in the 5%.
+
+[86 FR 59593, Oct. 27, 2021, as amended at 86 FR 68150, Dec. 1, 2021]

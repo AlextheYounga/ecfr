@@ -1,7 +1,5 @@
 ##### § 410.37 Colorectal cancer screening tests: Conditions for and limitations on coverage. #####
 
-Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
-
 (a) *Definitions.* As used in this section, the following definitions apply:
 
 (1) *Colorectal cancer screening tests* means any of the following procedures furnished to an individual for the purpose of early detection of colorectal cancer:
@@ -72,4 +70,6 @@ Link to an amendment published at 86 FR 65662, Nov. 19, 2021.
 
 (2) In the case of an individual who is at high risk for colorectal cancer, payment may be made for a screening barium enema examination performed after at least 23 months have passed following the month in which the last screening barium enema or the last screening colonoscopy was performed.
 
-[62 FR 59100, Oct. 31, 1997, as amended at 66 FR 55329, Nov. 1, 2001; 67 FR 80040, Dec. 31, 2002; 77 FR 69362, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014]
+(j) *Expansion of coverage of colorectal cancer screening tests.* Effective January 1, 2022, colorectal cancer screening tests include a planned screening flexible sigmoidoscopy or screening colonoscopy that involves the removal of tissue or other matter or other procedure furnished in connection with, as a result of, and in the same clinical encounter as the screening test.
+
+[62 FR 59100, Oct. 31, 1997, as amended at 66 FR 55329, Nov. 1, 2001; 67 FR 80040, Dec. 31, 2002; 77 FR 69362, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 86 FR 65662, Nov. 19, 2021]

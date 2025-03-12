@@ -1,7 +1,5 @@
 ##### § 411.351 Definitions. #####
 
-Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
-
 The definitions in this subpart apply only for purposes of section 1877 of the Act and this subpart. As used in this subpart, unless the context indicates otherwise:
 
 *Centralized building* means all or part of a building, including, for purposes of this subpart only, a mobile vehicle, van, or trailer that is owned or leased on a full-time basis (that is, 24 hours per day, 7 days per week, for a term of not less than 6 months) by a group practice and that is used exclusively by the group practice. Space in a building or a mobile vehicle, van, or trailer that is shared by more than one group practice, by a group practice and one or more solo practitioners, or by a group practice and another provider or supplier (for example, a diagnostic imaging facility) is not a centralized building for purposes of this subpart. This provision does not preclude a group practice from providing services to other providers or suppliers (for example, purchased diagnostic tests) in the group practice's centralized building. A group practice may have more than one centralized building.
@@ -132,7 +130,7 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *Laboratory* means an entity furnishing biological, microbiological, serological, chemical, immunohematological, hematological, biophysical, cytological, pathological, or other examination of materials derived from the human body for the purpose of providing information for the diagnosis, prevention, or treatment of any disease or impairment of, or the assessment of the health of, human beings. These examinations also include procedures to determine, measure, or otherwise describe the presence or absence of various substances or organisms in the body. Entities only collecting or preparing specimens (or both) or only serving as a mailing service and not performing testing are not considered laboratories.
 
-*List of CPT/HCPCS Codes* means the list of CPT and HCPCS codes that identifies those items and services that are DHS under section 1877 of the Act or that may qualify for certain exceptions under section 1877 of the Act. It is updated annually, as published in the Federal Register, and is posted on the CMS website at *http://www.cms.hhs.gov/PhysicianSelfReferral/11\_\_List\_\_of\_\_Codes.asp#TopOfPage*.
+*List of CPT/HCPCS Codes* means the list of CPT and HCPCS codes that identifies those items and services that are DHS under section 1877 of the Act or that may qualify for certain exceptions under section 1877 of the Act. It is updated annually and posted on the CMS website at *https://www.cms.gov/Medicare/Fraud-and-Abuse/PhysicianSelfReferral/List\_of\_Codes.*
 
 *Locum tenens physician* (or substitute physician) means a physician who substitutes in exigent circumstances for another physician, in accordance with section 1842(b)(6)(D) of the Act and Pub. 100-04, Medicare Claims Processing Manual, Chapter 1, Section 30.2.11.
 
@@ -326,4 +324,4 @@ The definitions in this subpart apply only for purposes of section 1877 of the A
 
 *VBE participant* means a person or entity that engages in at least one value-based activity as part of a value-based enterprise.
 
-[85 FR 77656, Dec. 2, 2020]
+[85 FR 77656, Dec. 2, 2020, as amended at 86 FR 65667, Nov. 19, 2021]

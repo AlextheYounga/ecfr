@@ -20,15 +20,9 @@
 
 (C) The vessel is not used to fish as a mothership in the MS Coop Program in the same calendar year.
 
-(D) Effective October 25, 2021 until December 31, 2021, notwithstanding any other section of this part, a vessel may operate as both an MS and a C/P during the 2021 Pacific whiting primary fishing season, but not on the same fishing trip.
-
 (ii) *Catcher/processor vessel responsibilities.* The owner and operator of a catcher/processor vessel must:
 
 (A) *Recordkeeping and reporting.* Maintain a valid declaration as specified at § 660.13(d); maintain records as specified at § 660.113(a); and maintain and submit all records and reports specified at § 660.113(d) including, economic data, scale tests records, cease fishing reports, and cost recovery.
-
-(*1*) Under emergency measures effective October 25, 2021 until December 31, 2021, a vessel may operate as both a mothership and C/P during the 2021 Pacific whiting primary season, but not on the same fishing trip. A vessel registered in the same calendar year to operate under both a limited entry MS permit and limited entry permit with a C/P endorsement must declare prior to leaving port the sector in which it will participate for the duration of the trip, as per declaration requirements specified at § 660.13(d)(4)(iv)(A).
-
-(*2*) [Reserved]
 
 (B) *Observers.* As specified at paragraph (g) of this section, procure observer services, maintain the appropriate level of coverage, and meet the vessel responsibilities.
 
@@ -162,17 +156,9 @@
 
 (iii) *Restriction on C/P vessel operating as mothership.* A vessel registered to a C/P-endorsed permit cannot operate as a mothership during the same calendar year it participates in the C/P sector.
 
-(A) *Emergency rule extending seasonal flexibility on at-sea processor restrictions.* Effective October 25, 2021 until December 31, 2021, notwithstanding any other section of this part, vessels may operate as both an MS and a C/P during the 2021 Pacific whiting primary season, but not on the same fishing trip.
-
-(B) [Reserved]
-
 (iv) *Trawl identification of ownership interest form.* Any person that is applying for or renewing a C/P-endorsed permit shall document those persons that have an ownership interest in the permit greater than or equal to 2 percent. This ownership interest must be documented with the SFD via the Trawl Identification of Ownership Interest Form. SFD will not issue a C/P-endorsed permit unless the Trawl Identification of Ownership Interest Form has been completed.
 
 (2) *Renewal, change in permit ownership, vessel registration, or combination* - (i) *Renewal.* A C/P-endorsed permit must be renewed annually consistent with the limited entry permit regulations given at § 660.25(b)(4). If a vessel registered to the C/P-endorsed permit will operate as a mothership in the year for which the permit is renewed, the permit owner must make a declaration as part of the permit renewal that while participating in the whiting fishery they will operate solely as a mothership during the calendar year to which its limited entry permit applies. Any such declaration is binding on the vessel for the calendar year, even if the permit is registered to a different permit owner during the year, unless it is rescinded in response to a written request from the permit owner. Any request to rescind a declaration must be made by the permit owner and granted in writing by the Regional Administrator before any unprocessed whiting has been taken on board the vessel that calendar year.
-
-(A) *Emergency rule extending seasonal flexibility on at-sea processing restrictions.* Effective October 25, 2021 until December 31, 2021, a vessel registered to a C/P endorsed permit is exempt from the declaration in this paragraph (e)(2)(i) and may also operate as an MS during the 2021 Pacific whiting primary season, even if the permit owner previously declared to operate solely as a C/P.
-
-(B) [Reserved]
 
 (ii) *Change of permit ownership.* A C/P-endorsed permit is subject to the limited entry permit change in permit ownership regulations given at § 660.25(b)(4), subpart C.
 
@@ -550,4 +536,4 @@
 
 (H) The person or entity has the ability through any means whatsoever to control or have a controlling influence over the entity to which a permit associated QS is registered, with the exception of those activities allowed under paragraphs (h)(5)(v)(C) and (G) of this section.
 
-[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021]Effective Date Note:At 86 FR 26443, May 14, 2021, § 660.160 was amended by adding paragraphs (b)(1)(i)(D), (b)(1)(ii)(A)(*1*) and (*2*), (e)(1)(iii)(A) and (B), and (e)(2)(i)(A) and (B), effective May 14, 2021, until Nov. 10, 2021. At 86 FR 58811, Oct. 25, 2021, the effective date was extended to Dec. 31, 2021.
+[75 FR 60897, Oct. 1, 2010, as amended at 75 FR 78419, Dec. 15, 2010; 76 FR 27547, May 11, 2011; 76 FR 53838, Aug. 30, 2011; 76 FR 74746, Dec. 1, 2011; 77 FR 55158, Sept. 7, 2012; 78 FR 75282, Dec. 11, 2013; 80 FR 22297, Apr. 21, 2015; 81 FR 27011, May 5, 2016; 83 FR 763, Jan. 8, 2018; 83 FR 64004, Dec. 12, 2018; 84 FR 68812, Dec. 17, 2019; 85 FR 35601, June 11, 2020; 85 FR 37029, June 19, 2020; 86 FR 26443, May 14, 2021; 86 FR 58813, Oct. 25, 2021]

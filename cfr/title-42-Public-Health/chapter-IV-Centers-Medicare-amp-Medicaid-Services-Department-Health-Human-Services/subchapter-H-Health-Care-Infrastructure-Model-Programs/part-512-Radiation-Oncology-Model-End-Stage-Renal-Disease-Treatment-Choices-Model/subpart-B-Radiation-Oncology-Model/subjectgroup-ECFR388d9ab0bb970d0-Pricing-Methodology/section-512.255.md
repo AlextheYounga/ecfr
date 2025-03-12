@@ -1,7 +1,5 @@
 ##### § 512.255 Determination of participant-specific professional episode payment and participant-specific technical episode payment amounts. #####
 
-Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
-
 (a) Thirty days before the start of each PY, CMS provides each RO participant its case mix and historical experience adjustments for both the PC and TC as calculated in paragraphs (c)(3) and (4) of this section. If an RO participant is not eligible to receive a historical experience adjustment or case mix adjustment as described under paragraph (c)(7) of this section, then CMS provides a zero value for those adjustments.
 
 (b) Any episode used to calculate the participant-specific professional episode payment amounts and the participant-specific technical episode payment amounts for an RO participant is subject to the exclusions described in § 512.250(b)(1) and (2).
@@ -22,17 +20,15 @@ Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
 
 (ii) CMS updates case mix and historical experience adjustments according to the relevant treatment history that applies as a result of a merger, acquisition, or other new clinical or business relationship in the RO participant's case mix and historical experience adjustment calculations from the effective date of the change.
 
-(7) *Adjustments for RO participants with fewer than 60 episodes during 2016-2018.*
+(7) *Adjustments for RO participants with fewer than 60 episodes during the baseline period.* (i) RO participants that have fewer than 60 episodes in the baseline period do not receive a historical experience adjustment during the model performance period.
 
-(i) RO participants that have fewer than 60 episodes from 2016-2018 do not receive a historical experience adjustment during the Model performance period.
+(ii) RO participants that have fewer than 60 episodes in the baseline period do not receive a case mix adjustment for PY1.
 
-(ii) RO participants that have fewer than 60 episodes from 2016-2018 do not receive a case mix adjustment for PY1.
+(iii) RO participants that have fewer than 60 episodes in the baseline period that continue to have fewer than 60 episodes in the rolling 3-year period used to determine the case mix adjustment for each PY and that have never received a case mix adjustment do not receive a case mix adjustment for that PY.
 
-(iii) RO participants described in § 512.255(b)(7)(ii) that continue to have fewer than 60 episodes in the rolling 3-year period used to determine the case mix adjustment for each PY (2017-2019 for PY2, 2018-2020 for PY3, 2019-2021 for PY4, and 2020-2022 for PY5) and that have never received a case mix adjustment do not receive a case mix adjustment for that PY.
+(iv) RO participants that have fewer than 60 episodes in the baseline period and were furnishing included RT services in the CBSAs selected for participation before the start of the model performance period are eligible to receive a stop-loss reconciliation amount, if applicable, as described in § 512.285(f).
 
-(iv) RO participants that have fewer than 60 episodes from 2016-2018 and were furnishing included RT services in the CBSAs selected for participation on November 30, 2020 are eligible to receive a stop-loss reconciliation amount, if applicable, for the loss incurred under the RO Model as described in § 512.285(f).
-
-(8) *Discount factor.* CMS deducts a percentage discount from each episode payment after applying the trend factor, geographic adjustment, and case mix and historical experience adjustments to the national base rate. The discount factor for the PC is 3.75 percent. The discount factor for TC is 4.75 percent.
+(8) *Discount factor.* CMS reduces each episode payment by the discount factor after applying the trend factor, geographic adjustment, and case mix and historical experience adjustments to the national base rate.
 
 (9) *Incorrect payment withhold.* To account for duplicate RT services and incomplete episodes:
 
@@ -40,7 +36,7 @@ Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
 
 (ii) CMS determines during the annual reconciliation process set forth at § 512.285 whether an RO participant is eligible to receive a portion or all of the withheld amount or whether any payment is owed to CMS.
 
-(10) *Quality withhold.* In accordance with § 414.1415(b)(1) of this chapter, CMS withholds 2 percent from each professional episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, and discount factor to the national base rate starting in PY2. RO participants may earn back this withhold, in part or in full, based on their AQS.
+(10) *Quality withhold.* In accordance with § 414.1415(b)(1) of this chapter, CMS withholds 2 percent from each professional episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, and discount factor to the national base rate. RO participants may earn back this withhold, in part or in full, based on their AQS.
 
 (11) *Patient experience withhold.* Starting in PY3,
 
@@ -56,14 +52,14 @@ Link to an amendment published at 86 FR 63996, Nov. 16, 2021.
 
 (iii) The beneficiary coinsurance payment equals 20 percent of the episode payment amount to be paid to the RO participant(s) prior to the application of sequestration for the billed RO Model-specific HCPCS code with a SOE modifier and for the billed RO Model-specific HCPCS code with an EOE modifier for the PC and TC, except as provided in paragraph (c)(12)(iv) and(v) of this section.
 
-(iv) In the case of incomplete episodes
-
-(A) The beneficiary coinsurance payment equals 20 percent of the FFS amounts that would have been paid in the absence of the RO Model for the services furnished by the RO participant that initiated the PC and the RO participant that initiated the TC (if applicable), except for a subset of incomplete episodes described in paragraph (c)(12)(iv)(B); or
-
-(B) If an RO beneficiary ceases to have traditional FFS Medicare as his or her primary payer any time after the initial treatment planning service is furnished and before the date of service on a claim with an RO Model-specific HCPCS code and EOE modifier, provided a Technical participant or the same Dual participant that provided the initial treatment planning service furnishes a a technical component RT service to the RO beneficiary within 28 days of such initial treatment planning service, the beneficiary coinsurance payment equals 20 percent of the first installment of the episode payment amount to be paid to the RO participant(s) prior to the application of sequestration for the billed RO Model-specific HCPCS code with an SOE modifier for the PC and TC. If an RO participant bills the RO Model-specific HCPCS code and EOE modifier with a date of service that is prior to the date that the RO beneficiary ceases to have traditional FFS Medicare, then the beneficiary coinsurance payment equals 20 percent of the full episode payment amount for the PC or TC, as applicable.
+(iv) In the case of incomplete episodes, the beneficiary coinsurance payment equals 20 percent of the FFS amounts that would have been paid in the absence of the RO Model for the services furnished by the RO participant that initiated the PC and the RO participant that initiated the TC (if applicable).
 
 (v) In the case of duplicate RT services, the beneficiary coinsurance payment equals 20 percent of the episode payment amount to be paid to the RO participant(s) per § 512.255(c)(12)(iii) and 20 percent of the FFS amount to the RT provider and/or RT supplier furnishing one or more duplicate RT services.
 
-(13) *Sequestration.* CMS deducts 2 percent from each episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, discount, withholds, and coinsurance to the national base rate.
+(13) *Sequestration.* In accordance with applicable law, CMS deducts a percentage from each episode payment after applying the trend factor, geographic adjustment, case mix and historical experience adjustments, discount, withholds, and coinsurance to the national base rate.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020]Editorial Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+(14) *Modifications to the participant-specific adjustments for changes in TINs or CCNs.* (i) CMS calculates the RO participant's case mix adjustments in accordance with paragraph (c)(3) of this section based on all episodes and RO episodes, as applicable, attributed to the RO participant's legacy TIN(s) or legacy CCN(s), and current TIN or CCN, during the 3-year period that determines the case mix adjustment for each PY.
+
+(ii) CMS calculates the RO participant's historical experience adjustments in accordance with paragraph (c)(4) of this section based on all episodes attributed to the RO participant's legacy TIN(s) or legacy CCN(s), and current TIN or CCN, during the baseline period.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86305, Dec. 29, 2020; 86 FR 63996, Nov. 16, 2021]Editorial Note:At 85 FR 86305, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

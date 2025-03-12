@@ -1,0 +1,11 @@
+##### § 702.409 Preapproval for federally insured, state-chartered credit unions to issue Subordinated Debt. #####
+
+(a) A federally insured, state-chartered credit union is required to submit the information required under § 702.408 and, if applicable, paragraph (b) of this section to both the Appropriate Supervision Office and its state supervisory authority. The Appropriate Supervision Office will issue decisions approving a federally insured, state-chartered credit union's application only after obtaining the concurrence of the federally insured, state-chartered credit union's state supervisory authority. The NCUA will notify a federally insured, state-chartered credit union's state supervisory authority before issuing a decision to “approve for use” a federally insured, state-chartered credit union's Offering Document and any amendments thereto, under § 702.408, if applicable.
+
+(b) If the Appropriate Supervision Office has reason to believe that an issuance by a federally insured, state-chartered credit union under this subpart could subject that federally insured, state-chartered credit union to Federal income taxation, the Appropriate Supervision Office may require the federally insured, state-chartered credit union to provide:
+
+(1) A written legal opinion, satisfactory to the NCUA, from nationally recognized tax counsel or letter from the Internal Revenue Service indicating whether the proposed Subordinated Debt would be classified as capital stock for Federal income tax purposes and, if so, describing any material impact of Federal income taxes on the federally insured, state-chartered credit union's financial condition; or
+
+(2) A Pro Forma Financial Statement (balance sheet, income statement, and statement of cash flows), covering a minimum of two years, that shows the impact of the federally insured, state-chartered credit union being subject to Federal income tax.
+
+(c) If the Appropriate Supervision Office requires additional information from a federally insured, state-chartered credit union under paragraph (b) of this section, the federally insured, state-chartered credit union may determine, in its sole discretion, whether the information it provides is in the form described in paragraph (b)(1) or (2) of this section.

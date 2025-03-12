@@ -1,6 +1,6 @@
 ##### § 25.12 Definitions. #####
 
-For purposes of this part, the following definitions apply:
+For purposes of subparts A, B, C, and D, and appendices A and B, of this part, the following definitions apply:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company. The term “control” has the meaning given to that term in 12 U.S.C. 1841(a)(2), and a company is under common control with another company if both companies are directly or indirectly controlled by the same company.
 
@@ -12,9 +12,11 @@ For purposes of this part, the following definitions apply:
 
 (c) *Assessment area* means a geographic area delineated in accordance with § 25.41.
 
-(d) *Automated teller machine (ATM)* means an automated, unstaffed banking facility owned or operated by, or operated exclusively for, the bank at which deposits are received, cash dispersed, or money lent.
+(d) *Automated teller machine (ATM)* means an automated, unstaffed banking facility owned or operated by, or operated exclusively for, the bank or savings association at which deposits are received, cash dispersed, or money lent.
 
-(e) *Bank* means a national bank (including a Federal branch as defined in part 28 of this chapter) with Federally insured deposits, except as provided in § 25.11(c).
+(e)(1) *Bank or savings association* means, except as provided in § 25.11(c), a national bank (including a Federal branch as defined in part 28 of this chapter) with Federally insured deposits or a savings association;
+
+(2) *Bank and savings association* means, except as provided in § 25.11(c), a national bank (including a Federal branch as defined in part 28 of this chapter) with Federally insured deposits and a savings association.
 
 (f) *Branch* means a staffed banking facility authorized as a branch, whether shared or unshared, including, for example, a mini-branch in a grocery store or a branch operated in conjunction with any other local business or nonprofit organization.
 
@@ -26,13 +28,13 @@ For purposes of this part, the following definitions apply:
 
 (3) Activities that promote economic development by financing businesses or farms that meet the size eligibility standards of the Small Business Administration's Development Company or Small Business Investment Company programs (13 CFR 121.301) or have gross annual revenues of $1 million or less; or
 
-(4) Activities that revitalize or stabilize -
+(4) Activities that revitalize or stabilize—
 
 (i) Low-or moderate-income geographies;
 
 (ii) Designated disaster areas; or
 
-(iii) Distressed or underserved nonmetropolitan middle-income geographies designated by the Board of Governors of the Federal Reserve System, Federal Deposit Insurance Corporation, and OCC, based on -
+(iii) Distressed or underserved nonmetropolitan middle-income geographies designated by the Board of Governors of the Federal Reserve System, FDIC, and the OCC, based on—
 
 (A) Rates of poverty, unemployment, and population loss; or
 
@@ -42,11 +44,11 @@ For purposes of this part, the following definitions apply:
 
 (1) Has as its primary purpose community development; and
 
-(2) Except in the case of a wholesale or limited purpose bank:
+(2) Except in the case of a wholesale or limited purpose bank or savings association:
 
-(i) Has not been reported or collected by the bank or an affiliate for consideration in the bank's assessment as a home mortgage, small business, small farm, or consumer loan, unless the loan is for a multifamily dwelling (as defined in § 1003.2(n) of this title); and
+(i) Has not been reported or collected by the bank or savings association or an affiliate for consideration in the bank's or savings association's assessment as a home mortgage, small business, small farm, or consumer loan, unless the loan is for a multifamily dwelling (as defined in § 1003.2(n) of this title); and
 
-(ii) Benefits the bank's assessment area(s) or a broader statewide or regional area that includes the bank's assessment area(s).
+(ii) Benefits the bank's or savings association's assessment area(s) or a broader statewide or regional area(s) that includes the bank's or savings association's assessment area(s).
 
 (i) *Community development service* means a service that:
 
@@ -54,7 +56,7 @@ For purposes of this part, the following definitions apply:
 
 (2) Is related to the provision of financial services; and
 
-(3) Has not been considered in the evaluation of the bank's retail banking services under § 25.24(d).
+(3) Has not been considered in the evaluation of the bank's or savings association's retail banking services under § 25.24(d).
 
 (j) *Consumer loan* means a loan to one or more individuals for household, family, or other personal expenditures. A consumer loan does not include a home mortgage, small business, or small farm loan. Consumer loans include the following categories of loans:
 
@@ -80,7 +82,7 @@ For purposes of this part, the following definitions apply:
 
 (4) *Upper-income,* which means an individual income that is 120 percent or more of the area median income, or a median family income that is 120 percent or more, in the case of a geography.
 
-(n) *Limited purpose bank* means a bank that offers only a narrow product line (such as credit card or motor vehicle loans) to a regional or broader market and for which a designation as a limited purpose bank is in effect, in accordance with § 25.25(b).
+(n) *Limited purpose bank* or savings association means a bank or savings association that offers only a narrow product line (such as credit card or motor vehicle loans) to a regional or broader market and for which a designation as a limited purpose bank or savings association is in effect, in accordance with § 25.25(b).
 
 (o) *Loan location.* A loan is located as follows:
 
@@ -100,14 +102,12 @@ For purposes of this part, the following definitions apply:
 
 (t) *Qualified investment* means a lawful investment, deposit, membership share, or grant that has as its primary purpose community development.
 
-(u) *Small bank* - (1) *Definition. Small bank* means a bank that, as of December 31 of either of the prior two calendar years, had assets of less than $1.305 billion. *Intermediate small bank* means a small bank with assets of at least $326 million as of December 31 of both of the prior two calendar years and less than $1.305 billion as of December 31 of either of the prior two calendar years.
+(u) *Small bank or savings association*—(1) *Definition. Small bank or savings association* means a bank or savings association that, as of December 31 of either of the prior two calendar years, had assets of less than $1.322 billion. *Intermediate small bank or savings association* means a small bank or savings association with assets of at least $330 million as of December 31 of both of the prior two calendar years and less than $1.322 billion as of December 31 of either of the prior two calendar years.
 
-(2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the OCC, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
+(2) *Adjustment.* The dollar figures in paragraph (u)(1) of this section shall be adjusted annually and published by the appropriate Federal banking agency, based on the year-to-year change in the average of the Consumer Price Index for Urban Wage Earners and Clerical Workers, not seasonally adjusted, for each twelve-month period ending in November, with rounding to the nearest million.
 
 (v) *Small business loan* means a loan included in “loans to small businesses” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
 
 (w) *Small farm loan* means a loan included in “loans to small farms” as defined in the instructions for preparation of the Consolidated Report of Condition and Income.
 
-(x) *Wholesale bank* means a bank that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank is in effect, in accordance with § 25.25(b).
-
-[60 FR 22178, May 4, 1995, as amended at 60 FR 66050, Dec. 20, 1995; 61 FR 21363, May 10, 1996; 69 FR 41186, July 8, 2004; 70 FR 44266, Aug. 2, 2005; 71 FR 78336, Dec. 29, 2006; 72 FR 72573, Dec. 21, 2007; 73 FR 78154, Dec. 22, 2008; 74 FR 68663, Dec. 29, 2009; 75 FR 79285, Dec. 20, 2010; 75 FR 82218, Dec. 30, 2010; 76 FR 79530, Dec. 22, 2011; 77 FR 75523, Dec. 21, 2012; 80 FR 81164, Dec. 29, 2015; 82 FR 55742, Nov. 24, 2017; 84 FR 71740, Dec. 30, 2019]
+(x) *Wholesale bank or savings association* means a bank or savings association that is not in the business of extending home mortgage, small business, small farm, or consumer loans to retail customers, and for which a designation as a wholesale bank or savings association is in effect, in accordance with § 25.25(b).

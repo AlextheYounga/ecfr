@@ -1,7 +1,5 @@
 ##### § 498.3 Scope and applicability. #####
 
-Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
-
 (a) *Scope.* (1) This part sets forth procedures for reviewing initial determinations that CMS makes with respect to the matters specified in paragraph (b) of this section, and that the OIG makes with respect to the matters specified in paragraph (c) of this section. It also specifies, in paragraph (d) of this section, administrative actions that are not subject to appeal under this part.
 
 (2) The determinations listed in this section affect participation in the Medicare program. Many of the procedures of this part also apply to other determinations that do not affect participation in Medicare. Some examples follow:
@@ -16,11 +14,11 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (3) The following parts of this chapter specify the applicability of the provisions of this part 498 to sanctions or remedies imposed on the indicated entities or individuals:
 
-(i) Part 431, subpart D - for nursing facilities (NFs).
+(i) Part 431, subpart D—for nursing facilities (NFs).
 
-(ii) Part 488, subpart E (§ 488.330(e)) - for SNFs and NFs.
+(ii) Part 488, subpart E (§ 488.330(e))—for SNFs and NFs.
 
-(iii) Part 488, subpart E (§ 488.330(e)) and subpart F (§ 488.446) - for SNFs and NFs and their administrators.
+(iii) Part 488, subpart E (§ 488.330(e)) and subpart F (§ 488.446)—for SNFs and NFs and their administrators.
 
 (b) *Initial determinations by CMS.* CMS makes initial determinations with respect to the following matters:
 
@@ -48,11 +46,11 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (12) Whether a hospital, skilled nursing facility, home health agency, or hospice program meets or contimues to meet the advance directives requirements specified in subpart I of part 489 of this chapter.
 
-(13) Except as provided at paragraph (d)(12) of this section for SNFs, NFs, and HHAs, the finding of noncompliance leading to the imposition of enforcement actions specified in § 488.406 or § 488.820 of this chapter, but not the determination as to which sanction was imposed. The scope of review on the imposition if a civil money penalty is specified in §§ 488.438(e) and 488.845(h) of this chapter.
+(13) Except as provided at paragraph (d)(12) of this section for SNFs, NFs, HHAs, and hospice programs, the finding of noncompliance leading to the imposition of enforcement actions specified in § 488.406, § 488.820, or § 488.1170 of this chapter, but not the determination as to which sanction or remedy was imposed. The scope of review on the imposition of a civil money penalty is specified in § 488.438(e), § 488.845(h), or § 488.1195(h) of this chapter.
 
-(14) The level of noncompliance found by CMS in a SNF, NF, or HHA but only if a successful challenge on this issue would affect -
+(14) The level of noncompliance found by CMS in a SNF, NF, HHA, or hospice program, but only if a successful challenge on this issue would affect—
 
-(i) The range of civil money penalty amounts that CMS could collect (for SNFs or NFs, the scope of review during a hearing on the imposition of a civil money penalty is set forth in § 488.438(e) of this chapter and for HHAs, the scope of review during a hearing on the imposition of a civil money penalty is set forth in § 488.845(h) of this chapter); or
+(i) The range of civil money penalty amounts that CMS could collect (for SNFs or NFs, the scope of review during a hearing on imposition of a civil money penalty is set forth in § 488.438(e) of this chapter and for HHAs and hospice programs, the scope of review during a hearing on the imposition of a civil money penalty is set forth in §§ 488.845(h) and 488.1195(h) of this chapter); or
 
 (ii) A finding of substandard quality of care that results in the loss of approval for a SNF or NF of its nurse aide training program.
 
@@ -94,7 +92,7 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (6) The finding that the services of a laboratory are covered as hospital services or as physician's services, rather than as services of an independent laboratory, because the laboratory is not independent of the hospital or of the physician's office.
 
-(7) The refusal to accept for filing an election to claim payment for all emergency hospital services furnished in a calendar year because the institution -
+(7) The refusal to accept for filing an election to claim payment for all emergency hospital services furnished in a calendar year because the institution—
 
 (i) Had previously charged an individual or other person for services furnished during that calendar year;
 
@@ -106,7 +104,7 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (9) The finding that a hospital accredited by the Joint Commission on Accreditation of Hospitals or the American Osteopathic Association is not in compliance with a condition of participation, and a finding that that hospital is no longer deemed to meet the conditions of participation.
 
-(10) For a SNF, NF, or HHA -
+(10) For a SNF, NF, HHA, or hospice program—
 
 (i) The finding that the provider's deficiencies pose immediate jeopardy to the health or safety of the residents or patients;
 

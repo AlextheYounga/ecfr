@@ -1,7 +1,5 @@
 ##### § 620.5 Contents of the annual report to shareholders. #####
 
-Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 The report must contain the following items in substantially the same order:
 
 (a) *Description of business.* The description must include a brief discussion of the following items:
@@ -174,15 +172,15 @@ The report must contain the following items in substantially the same order:
 
 (iv) Total capital ratio.
 
-(4) The annual report for each fiscal year ending in 2017 through 2021 shall also include in comparative columnar form for each fiscal year ending in 2012 through 2016, the following ratios:
+(v) Tier 1 leverage ratio.
+
+(4) *For all banks (on a bank only basis) and for all associations.* The following ratios shall be disclosed in comparative columnar form in each annual report through fiscal year end 2021, only as long as these ratios are part of the previous 5 fiscal years of financial data required under paragraphs (f)(2) and (3) of this section:
 
 (i) Core surplus ratio.
 
 (ii) Total surplus ratio.
 
 (iii) For banks only, net collateral ratio.
-
-(iv) Tier 1 leverage ratio.
 
 (g) *Management's discussion and analysis of financial condition and results of operations.* Fully discuss any material aspects of the institution's financial condition, changes in financial condition, and results of operations during the last 2 fiscal years, identifying favorable and unfavorable trends, and significant events or uncertainties. In addition to the items enumerated below, the discussion shall provide such other information as is necessary to an understanding of the institution's financial condition, changes in financial condition, and results of operations.
 
@@ -264,4 +262,4 @@ The report must contain the following items in substantially the same order:
 
 (3) Each Farm Credit bank must include a summary report of the quantitative YBS data from its affiliated direct lender associations as described in FCA's instructions for the annual YBS yearend report. The report must include the definitions of “young,” “beginning,” and “small” farmers and ranchers. A narrative report may be necessary for an ample understanding of the YBS mission results.
 
-[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016]
+[51 FR 8656, Mar. 13, 1986, as amended at 69 FR 16471, Mar. 30, 2004; 70 FR 53909, Sept. 13, 2005; 71 FR 5764, Feb. 2, 2006; 71 FR 76119, Dec. 20, 2006; 72 FR 4414, Jan. 31, 2007; 74 FR 28599, June 17, 2009; 75 FR 18744, Apr. 12, 2010; 77 FR 60597, Oct. 3, 2012; 78 FR 31834, May 28, 2013; 79 FR 17856, Mar. 31, 2014; 81 FR 49778, July 28, 2016; 86 FR 54357, Oct. 1, 2021]

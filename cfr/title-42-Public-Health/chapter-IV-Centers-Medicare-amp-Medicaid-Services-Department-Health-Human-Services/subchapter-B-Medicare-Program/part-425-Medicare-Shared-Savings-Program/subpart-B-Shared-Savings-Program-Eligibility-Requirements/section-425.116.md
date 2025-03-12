@@ -1,7 +1,5 @@
 ##### § 425.116 Agreements with ACO participants and ACO providers/suppliers. #####
 
-Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
-
 (a) *ACO participant agreements.* For performance year 2017 and subsequent performance years, the ACO must have an ACO participant agreement with each ACO participant that complies with the following criteria:
 
 (1) The only parties to the agreement are the ACO and the ACO participant.
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 
 (5) The agreement must describe how the opportunity to receive shared savings or other financial arrangements will encourage the ACO provider/supplier to adhere to the quality assurance and improvement program and evidence-based medicine guidelines established by the ACO.
 
-(6) The agreement must require the ACO provider/supplier to -
+(6) The agreement must require the ACO provider/supplier to—
 
 (i) Update its enrollment information on a timely basis in accordance with Medicare program requirements; and
 
@@ -48,6 +46,6 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 
 (iii) Termination of the ACO participant agreement.
 
-(c) *Submission of agreements.* The ACO must submit an executed ACO participant agreement for each ACO participant at the time of its initial application, participation agreement renewal process, and when adding to its list of ACO participants in accordance with § 425.118. The agreements may be submitted in the form and manner set forth in § 425.204(c)(6) or as otherwise specified by CMS.
+(c) *Submission of agreements*. The ACO must submit an executed ACO participant agreement for each ACO participant that it requests to add to its list of ACO participants in accordance with § 425.118. The agreements may be submitted in the form and manner set forth in § 425.204(c)(6) or as otherwise specified by CMS.
 
-[80 FR 32835, June 9, 2015]
+[80 FR 32835, June 9, 2015; as amended at 86 FR 65683, Nov. 19, 2021]

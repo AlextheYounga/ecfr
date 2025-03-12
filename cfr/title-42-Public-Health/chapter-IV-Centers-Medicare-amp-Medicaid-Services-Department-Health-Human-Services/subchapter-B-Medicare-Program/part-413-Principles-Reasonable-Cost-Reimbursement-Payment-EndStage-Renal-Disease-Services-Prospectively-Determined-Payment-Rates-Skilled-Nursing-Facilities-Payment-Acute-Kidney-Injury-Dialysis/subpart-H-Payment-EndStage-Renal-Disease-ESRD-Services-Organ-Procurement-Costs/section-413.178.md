@@ -1,7 +1,5 @@
 ##### § 413.178 ESRD quality incentive program. #####
 
-Link to an amendment published at 86 FR 62020, Nov. 8, 2021.
-
 (a) *Definitions.* As used in this section:
 
 (1) *Achievement threshold* means the 15th percentile of national ESRD facility performance on a clinical measure during the baseline period for a payment year.
@@ -118,4 +116,8 @@ Link to an amendment published at 86 FR 62020, Nov. 8, 2021.
 
 (4) The establishment of the performance standards and the performance period under section 1881(h)(4) of the Act.
 
-[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020]
+(h) *Special rule for payment year 2022.* (1) CMS will calculate a measure rate for all measures specified by CMS under paragraph (c) of this section for the PY 2022 ESRD QIP but will not score facility performance on any of those measures or calculate a TPS for any facility under paragraph (e) of this section.
+
+(2) CMS will not establish a mTPS for PY 2022.
+
+[83 FR 57068, Nov. 14, 2018, as amended at 84 FR 60803, Nov. 8, 2019; 85 FR 54872, Sept. 2, 2020; 86 FR 62020, Nov. 8, 2021]

@@ -1,12 +1,10 @@
 ##### § 424.530 Denial of enrollment in the Medicare program. #####
 
-Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
-
 (a) *Reasons for denial.* CMS may deny a provider's or supplier's enrollment in the Medicare program for the following reasons:
 
 (1) *Noncompliance.* The provider or supplier is determined to not be in compliance with the enrollment requirements in this subpart P or in the enrollment application applicable for its provider or supplier type, and has not submitted a plan of corrective action as outlined in part 488 of this chapter.
 
-(2) *Provider or supplier conduct.* A provider, supplier, an owner, managing employee, an authorized or delegated official, medical director, supervising physician, or other health care personnel furnishing Medicare reimbursable services who is required to be reported on the enrollment application, in accordance with section 1862(e)(1) of the Act, is -
+(2) *Provider or supplier conduct.* The provider or supplier, or any owner, managing employee, authorized or delegated official, medical director, supervising physician, or other health care or administrative or management services personnel furnishing services payable by a Federal health care program, of the provider or supplier is -
 
 (i) Excluded from the Medicare, Medicaid and any other Federal health care programs, as defined in § 1001.2 of this chapter, in accordance with section 1128, 1128A, 1156, 1842, 1862, 1867 or 1892 of the Act.
 
@@ -82,7 +80,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (10) *Temporary moratorium.* A provider or supplier submits an enrollment application for a practice location in a geographic area where CMS has imposed a temporary moratorium.
 
-(11) *Prescribing authority.* (i) A physician or eligible professional's Drug Enforcement Administration (DEA) Certificate of Registration to dispense a controlled substance is currently suspended or revoked; or
+(11) *Prescribing authority.* (i) A physician or other eligible professional's Drug Enforcement Administration (DEA) Certificate of Registration to dispense a controlled substance is currently suspended or revoked or is surrendered in response to an order to show cause;
 
 (ii) The applicable licensing or administrative body for any State in which a physician or eligible professional practices has suspended or revoked the physician or eligible professional's ability to prescribe drugs, and such suspension or revocation is in effect on the date the physician or eligible professional submits his or her enrollment application to the Medicare contractor.
 
@@ -164,4 +162,4 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (iv) Any other information that CMS deems relevant to its determination.
 
-[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019]
+[71 FR 20776, Apr. 21, 2006, as amended at 73 FR 69940, Nov. 19, 2008; 75 FR 70464, Nov. 17, 2010; 76 FR 5964, Feb. 2, 2011; 79 FR 29968, May 23, 2014; 79 FR 72531, Dec. 5, 2014; 84 FR 47853, Sept. 10, 2019; 84 FR 63203, Nov. 15, 2019; 86 FR 65682, Nov. 19, 2021]

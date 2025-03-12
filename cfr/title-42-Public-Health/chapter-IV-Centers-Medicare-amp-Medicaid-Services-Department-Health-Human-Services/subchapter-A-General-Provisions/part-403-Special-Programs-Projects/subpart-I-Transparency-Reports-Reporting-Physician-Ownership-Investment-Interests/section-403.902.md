@@ -1,7 +1,5 @@
 ##### § 403.902 Definitions. #####
 
-Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
-
 For purposes of this subpart, the following definitions apply:
 
 *Applicable group purchasing organization* means an entity that:
@@ -28,7 +26,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Clinical investigation* means any experiment involving one or more human subjects, or materials derived from human subjects, in which a drug, device, biological or medical supply is administered, dispensed or used.
 
-*Clinical nurse specialist* means, an individual who -
+*Clinical nurse specialist* means, an individual who—
 
 (1) Is a registered nurse and is licensed to practice nursing in the State in which the clinical nurse specialist services are performed; and
 
@@ -36,13 +34,13 @@ For purposes of this subpart, the following definitions apply:
 
 *Common ownership* refers to circumstances where the same individual, individuals, entity, or entities directly or indirectly own 5 percent or more total ownership of two entities. This includes, but is not limited to, parent corporations, direct and indirect subsidiaries, and brother or sister corporations.
 
-*Covered drug, device, biological, or medical supply* means any drug, device, biological, or medical supply for which payment is available under Title XVIII of the Act or under a State plan under Title XIX or XXI of the Act (or a waiver of such plan), either separately (such as through a fee schedule or formulary) or as part of a bundled payment (for example, under the hospital inpatient prospective payment system or the hospital outpatient prospective payment system) and which is of the type that in the case of a -
+*Covered drug, device, biological, or medical supply* means any drug, device, biological, or medical supply for which payment is available under Title XVIII of the Act or under a State plan under Title XIX or XXI of the Act (or a waiver of such plan), either separately (such as through a fee schedule or formulary) or as part of a bundled payment (for example, under the hospital inpatient prospective payment system or the hospital outpatient prospective payment system) and which is of the type that in the case of a—
 
 (1) Drug or biological, by law, requires a prescription to be dispensed; or
 
 (2) Device (including a medical supply that is a device), by law, requires premarket approval by or premarket notification to the FDA.
 
-*Covered recipient* means - (1) Any physician, physician assistant, nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, or certified nurse-midwife who is not a bona fide employee of the applicable manufacturer that is reporting the payment; or
+*Covered recipient* means— (1) Any physician, physician assistant, nurse practitioner, clinical nurse specialist, certified registered nurse anesthetist, or certified nurse-midwife who is not a bona fide employee of the applicable manufacturer that is reporting the payment; or
 
 (2) A teaching hospital, which is any institution that received a payment under 1886(d)(5)(B), 1886(h), or 1886(s) of the Act during the last calendar year for which such information is available.
 
@@ -66,7 +64,7 @@ For purposes of this subpart, the following definitions apply:
 
 *Indirect payments or other transfers of value* refer to payments or other transfers of value made by an applicable manufacturer (or an applicable group purchasing organization) to a covered recipient (or a physician owner or investor) through a third party, where the applicable manufacturer (or applicable group purchasing organization) requires, instructs, directs, or otherwise causes the third party to provide the payment or transfer of value, in whole or in part, to a covered recipient(s) (or a physician owner or investor).
 
-*Know, knowing, or knowingly* - (1) Means that a person, with respect to information -
+*Know, knowing, or knowingly*—(1) Means that a person, with respect to information—
 
 (i) Has actual knowledge of the information;
 
@@ -84,13 +82,13 @@ For purposes of this subpart, the following definitions apply:
 
 *Nurse practitioner* means a nurse practitioner who performs such services as such individual is legally authorized to perform (in the State in which the individual performs such services) in accordance with State law (or the State regulatory mechanism provided by State law), and who meets such training, education, and experience requirements (or any combination thereof) as the Secretary may prescribe in regulations.
 
-*Operating in the United States* means that an entity -
+*Operating in the United States* means that an entity—
 
 (1) Has a physical location within the United States or in a territory, possession, or commonwealth of the United States; or
 
 (2) Otherwise conducts activities within the United States or in a territory, possession, or commonwealth of the United States, either directly or through a legally-authorized agent.
 
-*Ownership or investment interest* - (1) Includes, but is not limited to the following:
+*Ownership or investment interest*—(1) Includes, but is not limited to the following:
 
 (i) Stock, stock option(s) (other than those received as compensation, until they are exercised).
 
@@ -114,20 +112,36 @@ For purposes of this subpart, the following definitions apply:
 
 (v) An ownership or investment interest if an applicable manufacturer or applicable group purchasing organization did not know, as defined in this section, about such ownership or investment interest.
 
+(vi) A titular ownership or investment interest that excludes the ability or right to receive the financial benefits of ownership or investment, including, but not limited to, the distribution of profits, dividends, proceeds of sale, or similar returns on investment; or
+
+(vii) An interest in an entity that arises from an employee stock ownership plan (ESOP) that is qualified under section 401(a) of the Internal Revenue Code of 1986.
+
 *Payment or other transfer of value* means a transfer of anything of value.
 
 *Physician* has the same meaning given that term in section 1861(r) of the Act.
 
 *Physician assistant* means a physician assistant who performs such services as such individual is legally authorized to perform (in the State in which the individual performs such services) in accordance with State law (or the State regulatory mechanism provided by State law), and who meets such training, education, and experience requirements (or any combination thereof) as the Secretary may prescribe in regulations.
 
+*Physician-owned distributorship*, for the purposes of determining the existence of a reportable ownership or investment interest under this subpart, means an entity that:
+
+(1) Meets the definition of an applicable manufacturer or applicable group purchasing organization as defined in this section, and
+
+(2) Meets at least one of the following two conditions:
+
+(i) Has a minimum of 5 percent direct or indirect ownership or investment interest in the applicable manufacturer or applicable group purchasing organization held by a physician or a physician's immediate family member, or
+
+(ii) A physician or a physician's immediate family member receives compensation from the applicable manufacturer or group purchasing organization in the form of a commission, return on investment, profit sharing, profit distribution, or other remuneration directly or indirectly derived from the sale or distribution of devices by the applicable manufacturer or group purchasing organization in which the physician or physician's immediate family member has ownership.
+
+(3) This physician owned distributor definition does not apply for purposes of any other laws or regulations, including, but not limited to, section 1877 of the Act, the regulations at 42 CFR part 411, subpart J, section 1128B of the Act, or the regulations at 42 CFR 1001.952.
+
 *Related to a covered drug, device, biological, or medical supply* means that a payment or other transfer of value is made in reference to or in connection with one or more covered drugs, devices, biologicals, or medical supplies.
 
 *Research* includes a systematic investigation designed to develop or contribute to generalizable knowledge relating broadly to public health, including behavioral and social-sciences research. This term encompasses basic and applied research and product development.
 
-*Short term medical supply or device loan* means the loan of a covered device or a device under development, or the provision of a limited quantity of medical supplies for a short-term trial period, not to exceed a loan period of 90 days or a quantity of 90 days of average daily use, to permit evaluation of the device or medical supply by the covered recipient.
+*Short term medical supply or device loan* means the loan of a covered device or a device under development, or the provision of a limited quantity of medical supplies for a short-term trial period, not to exceed a loan period of 90 cumulative days per calendar year or a quantity of 90 cumulative days of average daily use per calendar year, to permit evaluation of the device or medical supply by the covered recipient.
 
 *Third party* means another individual or entity, regardless of whether such individual or entity is operating in the United States.
 
 *Unique device identifier* means an identifier that adequately identifies a device through its distribution and use by meeting the requirements of 21 CFR 801.40 and 830.3.
 
-[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63185, Nov. 15, 2019; 85 FR 10, Jan 2, 2020]
+[78 FR 9521, Feb. 8, 2013, as amended at 79 FR 68000, Nov. 13, 2014; 84 FR 63185, Nov. 15, 2019; 85 FR 10, Jan 2, 2020; 86 FR 65659, Nov. 19, 2021]

@@ -1,8 +1,6 @@
 ##### § 512.220 RO participant compliance with RO Model requirements. #####
 
-Link to an amendment published at 86 FR 63995, Nov. 16, 2021.
-
-(a) *RO participant-specific requirements.* (1) RO participants must satisfy the requirements of this section to qualify for the APM Incentive Payment.
+(a) *RO participant-specific requirements.* (1) An RO participant must satisfy the requirements of this section to be included in Track One under the RO Model in a particular PY. An RO participant that meets all of these RO Model requirements in a particular PY, excluding use of CEHRT, will be in Track Two for such PY. An RO participant that does not meet one or more of the RO Model requirements in paragraph (a) of this section in a particular PY will be in Track Three for such PY.
 
 (2) Each Professional participant and Dual participant must ensure its individual practitioners:
 
@@ -32,6 +30,10 @@ Link to an amendment published at 86 FR 63995, Nov. 16, 2021.
 
 (3) Starting in PY1, at such times and in the form and manner specified by CMS, each Technical participant and Dual participant must annually attest to whether it actively participates with a AHRQ-listed patient safety organization (PSO). Examples include maintaining a contractual or similar relationship with a PSO for the receipt and review of patient safety work product.
 
-(b) *CEHRT.* Each RO participant must use CEHRT, and ensure that its individual practitioners use CEHRT, in a manner sufficient to meet the applicable requirements of the Advanced APM criteria codified in § 414.1415(a)(1)(i) of this chapter. Within 30 days of the start of PY2 and each subsequent PY, each RO participant must certify in the form and manner, and by a deadline specified by CMS, that it uses CEHRT throughout such PY in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
+(b) *CEHRT.* (1) RO participants must use CEHRT, and ensure that their individual practitioners use CEHRT, in a manner sufficient to meet the applicable requirements of the Advanced APM criteria as specified at § 414.1415(a)(1)(i) of this chapter.
 
-[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.
+(2) Within 30 days of the start of PY1 and each subsequent PY, the RO participant must certify its use of CEHRT throughout such PY in a manner sufficient to meet the requirements set forth in § 414.1415(a)(1)(i) of this chapter.
+
+(3) An RO participant that joins the RO Model at any time during an ongoing PY must certify their use of CEHRT by the last QP determination date as specified at § 414.1325 of this chapter.
+
+[85 FR 61362, Sept. 29, 2020, as amended at 85 FR 86304, Dec. 29, 2020; 86 FR 63995, Nov. 16, 2021]Editorial Note:At 85 FR 86304, Dec. 29, 2020, this section was amended, effective Dec. 4, 2020; however, due to a publication error, the amendments were codified at 86 FR 33902, June 28, 2021.

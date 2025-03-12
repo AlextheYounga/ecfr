@@ -1,7 +1,5 @@
 ##### § 410.152 Amounts of payment. #####
 
-Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
-
 (a) *General provisions* - (1) *Exclusion from incurred expenses.* As used in this section, “incurred expenses” are expenses incurred by an individual, during his or her coverage period, for covered Part B services, excluding the following:
 
 (i) Expenses incurred for services for which the beneficiary is entitled to have payment made under Medicare Part A or would be so entitled except for the application of the Part A deductible and coinsurance requirements.
@@ -98,7 +96,7 @@ Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
 
 (2) Payment for CAH outpatient services is subject to the applicable Medicare Part B deductible and coinsurance amounts, except as described in § 413.70(b)(2)(iii) of this chapter, with Part B coinsurance being calculated as 20 percent of the customary (insofar as reasonable) charges of the CAH for the services.
 
-(l) *Amount of payment: Preventive services.* Medicare Part B pays 100 percent of the Medicare payment amount established under the applicable payment methodology for the service setting for providers and suppliers for the following preventive services:
+(l) *Amount of payment*: Preventive services. Except as provided otherwise in this paragraph, Medicare Part B pays 100 percent of the Medicare payment amount established under the applicable payment methodology for the service furnished by a provider or supplier for the following preventive services:
 
 (1) Pneumococcal (as specified in paragraph (h) of this section), influenza, hepatitis B, and COVID-19 vaccine and administration.
 
@@ -109,6 +107,18 @@ Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
 (4) Prostate cancer screening tests (excluding digital rectal examinations).
 
 (5) Colorectal cancer screening tests (excluding barium enemas).
+
+(i) For the colorectal cancer screening tests described in § 410.37(j), Medicare Part B pays at the specified percentage as follows:
+
+(A) 80 percent for CY 2022.
+
+(B) 85 percent for CY 2023 through 2026.
+
+(C) 90 percent for 2027 through 2029.
+
+(D) 100 percent beginning January 1, 2030.
+
+(ii) [Reserved]
 
 (6) Bone mass measurement.
 

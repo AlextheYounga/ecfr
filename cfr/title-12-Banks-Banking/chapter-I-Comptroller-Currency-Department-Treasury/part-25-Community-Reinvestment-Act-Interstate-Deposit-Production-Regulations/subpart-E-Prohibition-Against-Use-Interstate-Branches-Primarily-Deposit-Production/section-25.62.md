@@ -6,7 +6,7 @@ For purposes of this subpart, the following definitions apply:
 
 (1) A national bank; and
 
-(2) A foreign bank as that term is defined in 12 U.S.C. 3101(7) and 12 CFR 28.11(j).
+(2) A foreign bank as that term is defined in 12 U.S.C. 3101(7) and 12 CFR 28.11(i).
 
 (b) *Covered interstate branch* means:
 
@@ -18,7 +18,7 @@ For purposes of this subpart, the following definitions apply:
 
 (2) Any bank or branch of a bank controlled by an out-of-State bank holding company.
 
-(c) *Federal branch* means Federal branch as that term is defined in 12 U.S.C. 3101(6) and 12 CFR 28.11(i).
+(c) *Federal branch* means Federal branch as that term is defined in 12 U.S.C. 3101(6) and 12 CFR 28.11(h).
 
 (d) *Home State* means:
 
@@ -34,7 +34,7 @@ For purposes of this subpart, the following definitions apply:
 
 (4) With respect to a foreign bank:
 
-(i) For purposes of determining whether a U.S. branch of a foreign bank is a covered interstate branch, the home State of the foreign bank as determined in accordance with 12 U.S.C. 3103(c) and 12 CFR 28.11(o); and
+(i) For purposes of determining whether a U.S. branch of a foreign bank is a covered interstate branch, the home State of the foreign bank as determined in accordance with 12 U.S.C. 3103(c) and 12 CFR 28.11(n); and
 
 (ii) For purposes of determining whether a branch of a U.S. bank controlled by a foreign bank is a covered interstate branch, the State in which the total deposits of all banking subsidiaries of such foreign bank are the largest on the later of:
 
@@ -51,5 +51,3 @@ For purposes of this subpart, the following definitions apply:
 (h) *State* means state as that term is defined in 12 U.S.C. 1813(a)(3).
 
 (i) *Statewide loan-to-deposit ratio* means, with respect to a bank, the ratio of the bank's loans to its deposits in a state in which the bank has one or more covered interstate branches, as determined by the OCC.
-
-[62 FR 47734, Sept. 10, 1997, as amended at 67 FR 38847, June 6, 2002; 67 FR 46842, July 17, 2002]

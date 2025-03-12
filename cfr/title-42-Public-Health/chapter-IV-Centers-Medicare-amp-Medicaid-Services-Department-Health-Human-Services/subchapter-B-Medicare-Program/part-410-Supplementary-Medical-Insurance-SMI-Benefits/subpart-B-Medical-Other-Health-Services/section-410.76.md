@@ -1,10 +1,8 @@
 ##### § 410.76 Clinical nurse specialists' services. #####
 
-Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
-
 (a) *Definition.* As used in this section, the term “physician” means a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act.
 
-(b) *Qualifications.* For Medicare Part B coverage of his or her services, a clinical nurse specialist must -
+(b) *Qualifications.* For Medicare Part B coverage of his or her services, a clinical nurse specialist must—
 
 (1) Be a registered nurse who is currently licensed to practice in the State where he or she practices and be authorized to perform the services of a clinical nurse specialist in accordance with State law;
 
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
 
 (3) Be certified as a clinical nurse specialist by a national certifying body that has established standards for clinical nurse specialists and that is approved by the Secretary.
 
-(c) *Services.* Medicare Part B covers clinical nurse specialists' services in all settings in both rural and urban areas only if the services would be covered if furnished by a physician and the clinical nurse specialist -
+(c) *Services.* Medicare Part B covers clinical nurse specialists' services in all settings in both rural and urban areas only if the services would be covered if furnished by a physician and the clinical nurse specialist—
 
 (1) Is legally authorized to perform them in the State in which they are performed;
 
@@ -32,8 +30,8 @@ Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
 
 (1) Supervision of other nonphysician staff by clinical nurse specialists does not constitute personal performance of a professional service by clinical nurse specialists.
 
-(2) The services are provided on an assignment-related basis, and a clinical nurse specialist may not charge a beneficiary for a service not payable under this provision. If a beneficiary has made payment for a service, the clinical nurse specialist must make the appropriate refund to the beneficiary.
+(2) The services of a clinical nurse specialist are provided on an assignment-related basis, and the clinical nurse specialist may not charge a beneficiary in excess of the amounts permitted under 42 CFR 424.55. If a beneficiary has made payment for a service in excess of these limits, the clinical nurse specialist must refund the full amount of the impermissible charge to the beneficiary.
 
 (f) *Medical record documentation.* For clinical nurse specialists' services, the clinical nurse specialist may review and verify (sign and date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team, including, as applicable, notes documenting the clinical nurse specialist's presence and participation in the service.
 
-[63 FR 58908, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 73 FR 69934, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013; 84 FR 63191, Nov. 15, 2019]
+[63 FR 58908, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 73 FR 69934, Nov. 19, 2008; 78 FR 74811, Dec. 10, 2013; 84 FR 63191, Nov. 15, 2019; 86 FR 65665, Nov. 19, 2021]

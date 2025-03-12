@@ -1,6 +1,6 @@
 ##### § 700.2 Definitions. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
+Link to an amendment published at 86 FR 59288, Oct. 27, 2021.
 
 As used in this chapter:
 
@@ -32,7 +32,7 @@ As used in this chapter:
 
 *NCUA* refers to the National Credit Union Administration.
 
-*Net worth.* Unless otherwise noted, the term “net worth,” as applied to credit unions, has the same meaning as set forth in § 702.2(f) of this chapter.
+*Net worth.* Unless otherwise noted, the term “net worth,” as applied to credit unions, has the same meaning as set forth in § 702.2 of this chapter.
 
 *Non-federally insured credit union* means a credit union chartered under the laws of any State, the District of Columbia, the several territories and possessions of the United States, the Panama Canal Zone, or the Commonwealth of Puerto Rico, whose member accounts are not insured by the NCUA.
 
@@ -62,4 +62,4 @@ As used in this chapter:
 
 *Unimpaired capital and surplus* means the same as “paid-in and unimpaired capital and surplus,” as defined in paragraph (f) of this section.
 
-[36 FR 23794, Dec. 15, 1971; 37 FR 329, Jan. 11, 1972, as amended at 37 FR 10342, May 20, 1972; 45 FR 47121, July 14, 1980; 54 FR 48234, Nov. 22, 1989; 54 FR 52015, Dec. 20, 1989; 55 FR 1794, Jan. 19, 1990; 57 FR 47985, Oct. 21, 1992; 58 FR 40042, July 27, 1993; 65 FR 44966, July 20, 2000. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 73 FR 30477, May 28, 2008; 76 FR 60366, Sept. 29, 2011; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013; 84 FR 1604, Feb. 5, 2019; 85 FR 62210, Oct. 2, 2020; 86 FR 15400, Mar. 23, 2021]
+[36 FR 23794, Dec. 15, 1971; 37 FR 329, Jan. 11, 1972, as amended at 37 FR 10342, May 20, 1972; 45 FR 47121, July 14, 1980; 54 FR 48234, Nov. 22, 1989; 54 FR 52015, Dec. 20, 1989; 55 FR 1794, Jan. 19, 1990; 57 FR 47985, Oct. 21, 1992; 58 FR 40042, July 27, 1993; 65 FR 44966, July 20, 2000. Redesignated and amended at 66 FR 65624, Dec. 20, 2001; 73 FR 30477, May 28, 2008; 76 FR 60366, Sept. 29, 2011; 78 FR 4029, Jan. 18, 2013; 78 FR 32544, May 31, 2013; 78 FR 77564, Dec. 26, 2013; 80 FR 66706, Oct. 29, 2015; 84 FR 1604, Feb. 5, 2019; 85 FR 62210, Oct. 2, 2020; 86 FR 15400, Mar. 23, 2021]

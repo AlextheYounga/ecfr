@@ -1,7 +1,5 @@
 ##### § 414.1317 APM Entity groups. #####
 
-Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
-
 (a) *APM entity group determination.* The APM Entity group will be determined according to the requirements set forth in § 414.1425(b)(1).
 
 (1) In addition to the dates set forth in § 414.1425(b)(1), for purposes of MIPS, the APM Entity group includes an eligible clinician who is on a Participation List on December 31 of the MIPS performance period.
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (iii) In the event that a MIPS eligible clinician in an APM Entity receives an exception from the reporting requirements, such eligible clinician will be assigned a null score when CMS calculates the APM Entity's performance category score.
 
-(2) *Cost scoring for APM Entity groups.* The cost performance category weight is zero percent for APM Entities in MIPS APMs.
+(2) *Performance category weights.* The cost performance category weight is zero percent of the final score for an APM Entity. The performance category reweighting scenarios under § 414.1380(c)(2) apply to an APM Entity.
 
 (3) *Improvement scoring for APM Entity groups.* For an APM Entity for which CMS calculated a total performance category score for one or more participants in the APM Entity for the preceding MIPS performance period, CMS calculates an improvement score for each performance category for which a previous year's total performance category score is available as specified in § 414.1380(b).
 
@@ -30,4 +28,4 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (ii) If CMS approves the request for reweighting based on an APM Entity's application, and if MIPS data are submitted for the APM Entity for the applicable performance period, all four of the MIPS performance categories will be reweighted for the APM Entity group notwithstanding the data submission.
 
-[85 FR 85030, Dec. 28, 2020]
+[85 FR 85030, Dec. 28, 2020, as amended at 86 FR 65671, Nov. 19, 2021]

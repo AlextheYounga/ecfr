@@ -1,10 +1,10 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 86 FR 74530, Dec. 30, 2021.Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
+Link to an amendment published at 86 FR 71325, Dec. 15, 2021.
 
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (NOV 2021)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (JAN 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -92,7 +92,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (27) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (28) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2020) (E.O. 13126).
+\_\_ (28) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2022) (E.O. 13126).
 
 \_\_ (29) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 

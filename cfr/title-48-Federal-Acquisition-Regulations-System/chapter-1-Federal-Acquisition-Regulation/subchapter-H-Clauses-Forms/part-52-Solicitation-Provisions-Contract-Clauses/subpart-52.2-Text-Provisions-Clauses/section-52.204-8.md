@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 86 FR 74530, Dec. 30, 2021.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (NOV 2021)
+Annual Representations and Certifications (JAN 2022)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -92,9 +90,9 @@ Annual Representations and Certifications (NOV 2021)
 
 (B) If the acquisition value is $25,000 or more but is less than $50,000, the provision with its Alternate I applies.
 
-(C) If the acquisition value is $50,000 or more but is less than $83,099, the provision with its Alternate II applies.
+(C) If the acquisition value is $50,000 or more but is less than $92,319, the provision with its Alternate II applies.
 
-(D) If the acquisition value is $83,099 or more but is less than $100,000, the provision with its Alternate III applies.
+(D) If the acquisition value is $92,319 or more but is less than $100,000, the provision with its Alternate III applies.
 
 (xxii) 52.225-6, Trade Agreements Certificate. This provision applies to solicitations containing the clause at 52.225-5.
 

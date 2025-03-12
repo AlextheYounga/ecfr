@@ -1,7 +1,5 @@
 ##### § 410.150 To whom payment is made. #####
 
-Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
-
 (a) *General rules.* (1) Any SMI enrollee is, subject to the conditions, limitations, and exclusions set forth in this part and in parts 405, 416 and 424 of this chapter, entitled to have payment made as specified in paragraph (b) of this section.
 
 (2) The services specified in paragraphs (b)(5) through (b)(14) of this section must be furnished by a facility that has in effect a provider agreement or other appropriate agreement to participate in Medicare.
@@ -36,7 +34,9 @@ Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
 
 (14) To an SNF for services (other than those described in § 411.15(p)(2) of this chapter) that it furnishes to a resident (as defined in § 411.15(p)(3) of this chapter) of the SNF who is not in a covered Part A stay.
 
-(15) To the qualified employer of a physician assistant for professional services furnished by the physician assistant and for services and supplies furnished incident to his or her services. Payment is made to the employer of a physician assistant regardless of whether the physician assistant furnishes services under a W-2, employer-employee employment relationship, or whether the physician assistant is an independent contractor who receives a 1099 reflecting the relationship. Both types of relationships must conform to the appropriate guidelines provided by the Internal Revenue Service. A qualified employer is not a group of physician assistants that incorporate to bill for their services. Payment is made only if no facility or other provider charges or is paid any amount for services furnished by a physician assistant.
+(15)(i) Prior to January 1, 2022, to the qualified employer of a physician assistant for professional services furnished by the physician assistant and for services and supplies provided incident to his or her services. Payment is made to the employer of a physician assistant regardless of whether the physician assistant furnishes services under a W-2, employer-employee employment relationship, or whether the physician assistant is an independent contractor who receives a 1099 reflecting the relationship. Both types of relationships must conform to the appropriate guidelines provided by the Internal Revenue Service. A qualified employer is not a group of physician assistants that incorporate to bill for their services. Payment is made only if no facility or other provider charges or is paid any amount for services furnished by a physician assistant.
+
+(ii) Effective on or after January 1, 2022, payment is made to a physician assistant for professional services furnished by a physician assistant in all settings in both rural and nonrural areas and for services and supplies furnished incident to those services. Payment is made only if no facility or other provider charges, or is paid, any amount for the furnishing of professional services of the physician assistant.
 
 (16) To a nurse practitioner or clinical nurse specialist for professional services furnished by a nurse practitioner or clinical nurse specialist in all settings in both rural and nonrural areas and for services and supplies furnished incident to those services. Payment is made only if no facility or other provider charges, or is paid, any amount for the furnishing of the professional services of the nurse practitioner or clinical nurse specialist.
 
@@ -48,4 +48,4 @@ Link to an amendment published at 86 FR 65667, Nov. 19, 2021.
 
 (20) To a certified nurse-midwife for professional services furnished by the certified nurse-midwife in all settings and for services and supplies furnished incident to those services. Payment is made only if no facility or other provider charges or is paid any amount for the furnishing of the professional services of the certified nurse-midwife.
 
-[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 57 FR 24981, June 12, 1992; 58 FR 30668, May 26, 1993; 59 FR 6577, Feb. 11, 1994; 63 FR 20129, Apr. 23, 1998; 63 FR 26308, May 12, 1998; 63 FR 58909, Nov. 2, 1998; 65 FR 41211, July 3, 2000; 66 FR 39599, July 31, 2001; 75 FR 73615, Nov. 29, 2010]
+[51 FR 41339, Nov. 14, 1986, as amended at 53 FR 6648, Mar. 2, 1988; 57 FR 24981, June 12, 1992; 58 FR 30668, May 26, 1993; 59 FR 6577, Feb. 11, 1994; 63 FR 20129, Apr. 23, 1998; 63 FR 26308, May 12, 1998; 63 FR 58909, Nov. 2, 1998; 65 FR 41211, July 3, 2000; 66 FR 39599, July 31, 2001; 75 FR 73615, Nov. 29, 2010; 86 FR 65667, Nov. 19, 2021]

@@ -1,0 +1,3 @@
+##### § 484.365 Payments for home health services under the Expanded Home Health Value-Based Purchasing (HHVBP) Model. #####
+
+CMS determines a payment adjustment up to the applicable percent, upward or downward, under the expanded HHVBP Model for each competing HHA based on the agency's Total Performance Score using a linear exchange function that includes all other HHAs in its cohort that received a Total Performance Score for the applicable performance year. Payment adjustments made under the expanded HHVBP Model are calculated as a percentage of otherwise-applicable payments for home health services provided under section 1895 of the Act (42 U.S.C. 1395fff).

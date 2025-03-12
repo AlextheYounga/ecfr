@@ -1,0 +1,71 @@
+##### § 702.406 Requirements related to the offer, sale, and issuance of Subordinated Debt Notes. #####
+
+(a) *Offering Document.* An Issuing Credit Union or person acting on behalf of or at the direction of any Issuing Credit Union may only issue and sell Subordinated Debt Notes if, a reasonable time prior to the issuance and sale of any Subordinated Debt Notes, each purchaser of a Subordinated Debt Note receives an Offering Document that meets the requirements of § 702.408(e) and such further material information, if any, as may be necessary to make the required disclosures in that Offering Document, in the light of the circumstances under which they are made, not misleading.
+
+(b) *Territorial limitations.* An Issuing Credit Union may only offer, issue, and sell Subordinated Debt Notes in the United States of America (including any one of the states thereof and the District of Columbia), its territories, and its possessions. This limitation includes a prohibition on non-U.S. investors holding or purchasing Subordinated Debt Notes.
+
+(c) *Accredited Investors.* An Issuing Credit Union may only offer, issue, and sell Subordinated Debt to Accredited Investors, and the terms of any Subordinated Debt Note must include the restrictions in § 702.404(a)(10); provided that no Subordinated Debt Note may be issued, sold, resold, pledged, or otherwise transferred to a member of the board of the Issuing Credit Union, any Senior Executive Officer of the Issuing Credit Union, or any Immediate Family Member of any such board member or Senior Executive Officer. Prior to the offer of any Subordinated Debt Note, the Issuing Credit Union must receive a signed, unambiguous certification from any potential investor of a Subordinated Debt Note. The certification must be in substantially the following form:
+
+CERTIFICATE OF ACCREDITED INVESTOR STATUS
+
+Except as may be indicated by the undersigned below, the undersigned is an accredited investor, as that term is defined in Regulation D under the Securities Act of 1933, as amended (the “*Act*”). In order to demonstrate the basis on which it is representing its status as an accredited investor, the undersigned has checked one of the boxes below indicating that the undersigned is:
+
+[ ] Any bank as defined in section 3(a)(2) of the Act, or any savings and loan association or other institution as defined in section 3(a)(5)(A) of the Act whether acting in its individual or fiduciary capacity; any broker or dealer registered pursuant to section 15 of the Securities Exchange Act of 1934; any investment adviser registered pursuant to section 203 of the Investment Advisers Act of 1940 or registered pursuant to the laws of a state; any investment adviser relying on the exemption from registering with the Securities and Exchange Commission under section 203(l) or (m) of the Investment Advisers Act of 1940; any insurance company as defined in section 2(a)(13) of the Act; any investment company registered under the Investment Company Act of 1940 or a business development company as defined in section 2(a)(48) of that act; any Small Business Investment Company licensed by the U.S. Small Business Administration under section 301(c) or (d) of the Small Business Investment Act of 1958; any Rural Business Investment Company as defined in section 384A of the Consolidated Farm and Rural Development Act; any plan established and maintained by a state, its political subdivisions, or any agency or instrumentality of a state or its political subdivisions, for the benefit of its employees, if such plan has total assets in excess of $5,000,000; any employee benefit plan within the meaning of the Employee Retirement Income Security Act of 1974 if the investment decision is made by a plan fiduciary, as defined in section 3(21) of such act, which is either a bank, savings and loan association, insurance company, or registered investment adviser, or if the employee benefit plan has total assets in excess of $5,000,000 or, if a self-directed plan, with investment decisions made solely by persons that are accredited investors; [ ] A private business development company as defined in section 202(a)(22) of the Investment Advisers Act of 1940;
+
+[ ] Any organization described in section 501(c)(3) of the Internal Revenue Code, corporation, Massachusetts or similar business trust, partnership, or limited liability company, not formed for the specific purpose of acquiring the securities offered, with total assets in excess of $5,000,000; [ ] Any natural person whose individual net worth, or joint net worth with that person's spouse or spousal equivalent, exceeds $1,000,000; (excluding the value of the person's primary residence). For the purposes of calculating joint net worth in this paragraph: joint net worth can be the aggregate net worth of the investor and spouse or spousal equivalent; assets need not be held jointly to be included in the calculation;
+
+[ ] Any natural person who had an individual income in excess of $200,000 in each of the two most recent years or joint income with that person's spouse or spousal equivalent in excess of $300,000 in each of those years and has a reasonable expectation of reaching the same income level in the current year; [ ] A trust with total assets in excess of $5,000,000, not formed for the specific purpose of acquiring the securities offered, whose purchase is directed by a person who has such knowledge and experience in financial and business matters that he or she is capable of evaluating the merits and risks of the prospective investment;
+
+[ ] An entity in which all of the equity holders are accredited investors by virtue of their meeting one or more of the above standards;
+
+[ ] Any entity, of a type not listed in paragraph (a)(1), (2), (3), (7), or (8) of 17 CFR 230.501(a), not formed for the specific purpose of acquiring the securities offered, owning investments in excess of $5,000,000;
+
+[ ] Any natural person holding in good standing one or more professional certifications or designations or credentials from an accredited educational institution that the Securities and Exchange Commission has designated as qualifying an individual for accredited investor status;
+
+[ ] Any natural person who is a “knowledgeable employee,” as defined in rule 3c5(a)(4) under the Investment Company Act of 1940 (17 CFR 270.3c-5(a)(4)), of the issuer of the securities being offered or sold where the issuer would be an investment company, as defined in section 3 of such act, but for the exclusion provided by either section 3(c)(1) or section 3(c)(7) of such act;
+
+[ ] Any “family office,” as defined in rule 202(a)(11)(G)-1 under the Investment Advisers Act of 1940 (17 CFR 275.202(a)(11)(G)-1): (i) With assets under management in excess of $5,000,000, (ii) That is not formed for the specific purpose of acquiring the securities offered, and (iii) Whose prospective investment is directed by a person who has such knowledge and experience in financial and business matters that such family office is capable of evaluating the merits and risks of the prospective investment; and
+
+[ ] Any “family client,” as defined in rule 202(a)(11)(G)-1 under the Investment Advisers Act of 1940 (17 CFR 275.202(a)(11)(G)-1)), of a family office meeting the requirements in paragraph (a)(12) of § 275.202(a)(11)(G)-1 and whose prospective investment in the issuer is directed by such family office pursuant to paragraph (a)(12)(iii) of § 275.202(a)(11)(G)-1.
+
+The undersigned understands that [NAME OF ISSUING CREDIT UNION] (the “Credit Union”) is required to verify the undersigned's accredited investor status AND ELECTS TO DO ONE OF THE FOLLOWING:
+
+[ ] Allow the Credit Union's representative to review the undersigned's tax returns for the two most recently completed years and provide a written representation of the undersigned's reasonable expectation of reaching the income level necessary to qualify as an accredited investor during the current year;
+
+[ ] Allow the Credit Union's representative to: (1) obtain a written representation from the undersigned that states that all liabilities necessary to make a determination of net worth have been disclosed; and (2) review one or more of the following types of documentation dated within the past three months: bank statements, brokerage statements, tax assessments, appraisal reports as to assets, or a consumer report from a nationwide consumer reporting agency;
+
+[ ] Provide the Credit Union with a written confirmation from one of the following persons or entities that such person or entity has taken reasonable steps to verify that the undersigned is an accredited investor within the prior three months and has determined that the undersigned is an accredited investor:
+
+• A registered broker-dealer;
+
+• An investment adviser registered with the Securities Exchange Commission;
+
+• A licensed attorney who is in good standing under the laws of the jurisdictions in which such attorney is admitted to practice law; or
+
+• A certified public accountant who is duly registered and in good standing under the laws of the place of such accountant's residence or principal office.
+
+IN WITNESS WHEREOF, the undersigned has executed this Certificate of Accredited Investor Status effective as of \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, 20\_\_\_\_\_\_.
+
+Name of Investor[Name of Authorized RepresentativeTitle of Authorized Representative]SignatureAddressAddressPhone NumberEmail Address
+
+(d) *Use of trustees.* If using a trustee in connection with the offer, issuance, and sale of Subordinated Debt Notes, the trustee must meet the requirements set forth in the Trust Indenture Act of 1939, as amended, including requirements for qualification set forth in section 310 thereof; any rules related to such act in 17 CFR parts 260, 261, and 269; and any applicable state law.
+
+(e) *Offers, issuances, and sales of Subordinated Debt Notes.* Offers issuances, and sales of Subordinated Debt Notes are required to be made in accordance with the following requirements:
+
+(1) *Application to offer, issue, and sell at offices of Issuing Credit Union.* If the Issuing Credit Union intends to offer and sell Subordinated Debt Notes at one or more of its offices, the Issuing Credit Union must first apply in writing to the Appropriate Supervision Office indicating that it intends to offer, issue, and sell Subordinated Debt Notes at one or more of its offices. The application must include, at a minimum, the physical locations of such offices and a description of how the Issuing Credit Union will comply with the requirements of this paragraph (e);
+
+(2) *Decision on application.* Within 60 calendar days (which may be extended by the Appropriate Supervision Office) after the date of receipt of a complete application described in paragraph (e)(1) of this section, the Appropriate Supervision Office will provide the Issuing Credit Union with a written determination on its application to conduct offering and sales activity from its office(s). Any denial of an Issuing Credit Union's application under this section will include the reasons for such denial;
+
+(3) *Commissions, bonuses, or comparable payments.* In connection with any offering and sale of Subordinated Debt Notes (whether or not conducted at offices of the Issuing Credit Union), an Issuing Credit Union shall not pay, directly or indirectly, any commissions, bonuses, or comparable payments to any employee of the Issuing Credit Union or any affiliated Credit Union Service Organizations (CUSOs) assisting with the offer, issuance, and sale of such Subordinated Debt Notes, or to any other person in connection with the offer, issuance, and sale of Subordinated Debt Notes; except that compensation and commissions consistent with industry norms may be paid to securities personnel of registered broker-dealers as otherwise permitted by applicable law;
+
+(4) *Issuances by tellers.* No offers or sales may be made by tellers at the teller counter of any Issuing Credit Union, or by comparable persons at comparable locations;
+
+(5) *Permissible issuing personnel.* In connection with an offering or sale of Subordinated Debt Notes (whether or not conducted at offices of the Issuing Credit Union), such activity may be conducted only by regular, full-time employees of the Issuing Credit Union or by securities personnel who are subject to supervision by a registered broker-dealer, which securities personnel may be employees of the Issuing Credit Union's affiliated CUSO that is assisting the Issuing Credit Union with the offer, issuance, and sale of the Subordinated Debt Notes;
+
+(6) *Issuance practices, advertisements, and other literature used in connection with the offer and sale of Subordinated Debt Notes.* In connection with an offering or sale of Subordinated Debt Notes (whether or not conducted at offices of the Issuing Credit Union), issuance practices, advertisements, and other issuance literature used in connection with offers and issuances of Subordinated Debt Notes by Issuing Credit Unions or any affiliated CUSOs assisting with the offer and issuance of such Subordinated Debt Notes shall be subject to the requirements of this subpart; and
+
+(7) *Office of an Issuing Credit Union.* For purposes of this paragraph (e), an “office” of an Issuing Credit Union means any premises used by the Issuing Credit Union that is identified to the public through advertising or signage using the Issuing Credit Union's name, trade name, or logo.
+
+(f) *Securities laws.* An Issuing Credit Union must comply with all applicable Federal and state securities laws.
+
+(g) *Resales.* All resales of Subordinated Debt Notes issued by an Issuing Credit Union by holders of such Subordinated Debt Notes must be made pursuant to 17 CFR 230.144 (Rule 144 under the Securities Act of 1933, as amended) (other than paragraphs (c), (e), (f), (g) and (h) of such Rule), 17 CFR 230.144A (Rule 144A under the Securities Act of 1933, as amended), or another exemption from registration under the Securities Act of 1933, as amended. Subordinated Debt Notes must include the restrictions on resales in § 702.404(a)(10).

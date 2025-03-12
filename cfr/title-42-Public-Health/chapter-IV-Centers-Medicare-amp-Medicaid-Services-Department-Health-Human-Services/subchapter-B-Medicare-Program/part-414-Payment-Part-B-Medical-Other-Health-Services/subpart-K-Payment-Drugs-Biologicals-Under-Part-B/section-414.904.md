@@ -1,7 +1,5 @@
 ##### § 414.904 Average sales price as the basis for payment. #####
 
-Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
-
 (a) *Method of payment.* Payment for a drug furnished on or after January 1, 2005 is based on the lesser of -
 
 (1) The actual charge on the claim for program benefits; or
@@ -74,6 +72,20 @@ Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
 
 (iv) The applicable percentage threshold for widely available market price comparisons is 5 percent.
 
+(4) *Payment adjustment for certain drugs for which there is a self-administered version* - (i) *In general*. Except as provided in paragraphs (d)(4)(ii) and (iii) of this section, if the Inspector General identifies a drug or biological product in a study described in section 1847A(g)(1) of the Act, the Secretary must apply the payment limit for the applicable billing and payment code as specified in paragraph (d)(4)(iv) of this section, beginning with the first day of the second quarter after such study is publicly available. The methodology described in this paragraph will be recalculated each quarter thereafter, except when conditions described in paragraph (d)(4)(ii) are met.
+
+(ii) *Exception*. The adjustment described in paragraph (d)(4)(i) of this section does not apply to the payment limit for a billing and payment code for a quarter if, at the time that ASP calculations are finalized for such quarter, the drug in the dosage form described by the billing and payment code is included by the FDA on the drug shortage list in effect under section 506E of the Federal Food, Drug, and Cosmetic Act.
+
+(iii) *Special rule for certain billing and payment codes*. Effective July 1, 2021, for a billing and payment code described under section 1847A(g)(3) of the Act, the payment limit for the applicable billing and payment code must be determined as described in paragraph (d)(4)(iv) of this section, and the exception specified at paragraph (d)(4)(ii) of this section does not apply.
+
+(iv) *Lesser-of methodology*. For purposes of this section, the payment limit is the lesser of:
+
+(A) The payment limit determined under section 1847A of the Act for such billing and payment code if each National Drug Code for such product so identified under section 1847A(g)(1) of the Act were excluded from such determination; and
+
+(B) The payment limit otherwise determined under section 1847A of the Act for such billing and payment code without application of section 1847A(g) of the Act.
+
+(v) *NDC changes*. For an Inspector General-identified National Drug Code, as described under section 1847A(g)(1) or (3) of the Act, for which the manufacturer has redesignated the National Drug Code (without changes to the dosage form), the application of the lesser-of methodology described in this paragraph must use manufacturer-reported ASP data associated with the redesignated National Drug Code in the same manner as the one originally identified by the Inspector General.
+
 (e) *Exceptions to the average sales price* - (1) *Vaccines.* The payment limits for hepatitis B vaccine furnished to individuals at high or intermediate risk of contracting hepatitis B (as determined by the Secretary), pneumococcal vaccine, influenza vaccine, and COVID-19 vaccine are calculated using 95 percent of the average wholesale price.
 
 (2) *Infusion drugs furnished through a covered item of durable medical equipment.* The payment limit for an infusion drug furnished before January 1, 2017, through a covered item of durable medical equipment is calculated using 95 percent of the average wholesale price in effect on October 1, 2003.
@@ -106,4 +118,4 @@ Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
 
 (j) *Biosimilar biological products*. Effective January 1, 2016, the payment amount for a biosimilar biological drug product (as defined in § 414.902) for all NDCs assigned to such product is the sum of the average sales price of all NDCs assigned to the biosimilar biological products included within the same billing and payment code as determined under section 1847A(b)(6) of the Act and 6 percent of the amount determined under section 1847A(b)(4) of the Act for the reference drug product (as defined in § 414.902).
 
-[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020]
+[69 FR 66424, Nov. 15, 2004, as amended at 70 FR 70332, Nov. 21, 2005; 71 FR 69788, Dec. 1, 2006; 72 FR 66402, Nov. 27, 2007; 73 FR 69937, Nov. 19, 2008; 73 FR 80304, Dec. 31, 2008; 74 FR 62012, Nov. 25, 2009; 75 FR 73626, Nov. 29, 2010; 76 FR 73473, Nov. 28, 2011; 77 FR 69368, Nov. 16, 2012; 80 FR 71382, Nov. 16, 2015; 82 FR 53363, Nov. 15, 2017; 83 FR 60074, Nov. 23, 2018; 85 FR 71197, Nov. 6, 2020; 86 FR 65669, Nov. 19, 2021]

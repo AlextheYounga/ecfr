@@ -1,8 +1,6 @@
 ##### § 747.2003 Review of order reclassifying a credit union on safety and soundness criteria. #####
 
-Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
-
-(a) *Notice of proposed reclassification based on unsafe or unsound condition or practice.* When the NCUA Board proposes to reclassify a credit union or subject it to the supervisory actions applicable to the next lower net worth category pursuant to §§ 702.102(b) and 702.302(d) of this chapter (each such action hereinafter referred to as “reclassification”), the NCUA Board shall issue and serve on the credit union reasonable prior notice of the proposed reclassification.
+(a) *Notice of proposed reclassification based on unsafe or unsound condition or practice.* When the NCUA Board proposes to reclassify a credit union or subject it to the supervisory actions applicable to the next lower net worth category pursuant to §§ 702.102(b) and 702.202(d) of this chapter (each such action hereinafter referred to as “reclassification”), the NCUA Board shall issue and serve on the credit union reasonable prior notice of the proposed reclassification.
 
 (b) *Contents of notice.* A notice of intention to reclassify a credit union based on unsafe or unsound condition or practice shall state:
 
@@ -12,7 +10,7 @@ Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was 
 
 (3) The date by which the credit union must file a written response to the notice (including a request for a hearing), which date shall be no less than 14 calendar days from the date of service of the notice unless the NCUA Board determines that a shorter period is appropriate in light of the financial condition of the credit union or other relevant circumstances; and
 
-(4) That a credit union which fails to -
+(4) That a credit union which fails to—
 
 (i) File a written response to the notice of reclassification, within the specified time period, shall be deemed to have waived the opportunity to respond, and to have consented to reclassification;
 
@@ -46,4 +44,4 @@ Link to an amendment published at 80 FR 66723, Oct. 29, 2015.This amendment was 
 
 (h) *Non-delegation.* The NCUA Board may not delegate its authority to reclassify a credit union into a lower net worth category or to treat a credit union as if it were in a lower net worth category pursuant to § 702.102(b) or § 702.302(d) of this chapter.
 
-[65 FR 8594, Feb. 18, 2000, as amended at 75 FR 34623, June 18, 2010]
+[65 FR 8594, Feb. 18, 2000, as amended at 75 FR 34623, June 18, 2010; 80 FR 66723, Oct. 29, 2015]

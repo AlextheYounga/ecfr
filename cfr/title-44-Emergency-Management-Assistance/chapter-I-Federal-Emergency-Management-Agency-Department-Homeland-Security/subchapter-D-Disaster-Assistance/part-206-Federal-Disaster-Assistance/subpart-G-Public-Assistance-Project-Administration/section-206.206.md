@@ -1,27 +1,117 @@
-##### § 206.206 Appeals. #####
+##### § 206.206 Appeals and arbitrations. #####
 
-Link to an amendment published at 86 FR 45683, Aug. 16, 2021.
+(a) *Definitions.* The following definitions apply to this section:
 
-An eligible applicant, subrecipient, or recipient may appeal any determination previously made related to an application for or the provision of Federal assistance according to the procedures below.
+*Administrator* means the Administrator of the Federal Emergency Management Agency.
 
-(a) *Format and content.* The applicant or subrecipient will make the appeal in writing through the recipient to the Regional Administrator. The recipient shall review and evaluate all subrecipient appeals before submission to the Regional Administrator. The recipient may make recipient-related appeals to the Regional Administrator. The appeal shall contain documented justification supporting the appellant's position, specifying the monetary figure in dispute and the provisions in Federal law, regulation, or policy with which the appellant believes the initial action was inconsistent.
+*Amount in dispute* means the difference between the amount of financial assistance sought for a Public Assistance project and the amount of financial assistance for which FEMA has determined such Public Assistance project is eligible.
 
-(b) *Levels of appeal.* (1) The Regional Administrator will consider first appeals for public assistance-related decisions under subparts A through L of this part.
+*Applicant* has the same meaning as the definition at § 206.201(a).
 
-(2) The Assistant Administrator for the Disaster Assistance Directorate will consider appeals of the Regional Administrator's decision on any first appeal under paragraph (b)(1) of this section.
+*Final agency determination means:* (1) The decision of FEMA, if the applicant or recipient does not submit a first appeal within the time limits provided for in paragraph (b)(1)(ii)(A) of this section; or
 
-(c) *Time limits.* (1) Appellants must file appeals within 60 days after receipt of a notice of the action that is being appealed.
+(2) The decision of FEMA, if the applicant or recipient withdraws the pending appeal and does not file a request for arbitration within 30 calendar days of the withdrawal of the pending appeal; or
 
-(2) The recipient will review and forward appeals from an applicant or subrecipient, with a written recommendation, to the Regional Administrator within 60 days of receipt.
+(3) The decision of the FEMA Regional Administrator, if the applicant or recipient does not submit a second appeal within the time limits provided for in paragraph (b)(2)(ii)(A) of this section.
 
-(3) Within 90 days following receipt of an appeal, the Regional Administrator (for first appeals) or Assistant Administrator for the Disaster Assistance Directorate (for second appeals) will notify the recipient in writing of the disposition of the appeal or of the need for additional information. A request by the Regional Administrator or Assistant Administrator for the Disaster Assistance Directorate for additional information will include a date by which the information must be provided. Within 90 days following the receipt of the requested additional information or following expiration of the period for providing the information, the Regional Administrator or Assistant Administrator for the Disaster Assistance Directorate will notify the recipient in writing of the disposition of the appeal. If the decision is to grant the appeal, the Regional Administrator will take appropriate implementing action.
+*Recipient* has the same meaning as the definition at § 206.201(m).
 
-(d) *Technical advice.* In appeals involving highly technical issues, the Regional Administrator or Assistant Administrator for the Disaster Assistance Directorate may, at his or her discretion, submit the appeal to an independent scientific or technical person or group having expertise in the subject matter of the appeal for advice or recommendation. The period for this technical review may be in addition to other allotted time periods. Within 90 days of receipt of the report, the Regional Administrator or Assistant Administrator for the Disaster Assistance Directorate will notify the recipient in writing of the disposition of the appeal.
+*Regional Administrator* means an administrator of a regional office of FEMA, or his/her designated representative.
 
-(e) *Transition.* (1) This rule is effective for all appeals pending on and appeals from decisions issued on or after May 8, 1998, except as provided in paragraph (e)(2) of this section.
+*Rural area* means an area with a population of less than 200,000 outside an urbanized area.
 
-(2) Appeals pending from a decision of an Assistant Administrator for the Disaster Assistance Directorate before May 8, 1998 may be appealed to the Administrator in accordance with 44 CFR 206.440 as it existed before May 8, 1998 (44 CFR, revised as of October 1, 1997).
+*Urbanized area* means an area that consists of densely settled territory that contains 50,000 or more people.
 
-(3) The decision of the FEMA official at the next higher appeal level shall be the final administrative decision of FEMA.
+(b) *Appeals and arbitrations.* An eligible applicant or recipient may appeal any determination previously made related to an application for or the provision of Public Assistance according to the procedures of this section. An eligible applicant may request arbitration to dispute the eligibility for assistance or repayment of assistance.
 
-[63 FR 17110, Apr. 8, 1998; 63 FR 24970, May 6, 1998, as amended at 82 FR 43, Jan. 3, 2017]
+(1) *First appeal.* The applicant must make a first appeal in writing and submit it electronically through the recipient to the Regional Administrator. The recipient must include a written recommendation on the applicant's appeal with the electronic submission of the applicant's first appeal to the Regional Administrator. The recipient may make recipient-related appeals to the Regional Administrator.
+
+(i) *Content.* A first appeal must:
+
+(A) Contain all documented justification supporting the applicant or recipient's position;
+
+(B) Specify the amount in dispute, as applicable; and
+
+(C) Specify the provisions in Federal law, regulation, or policy with which the applicant or recipient believes the FEMA determination was inconsistent.
+
+(ii) *Time limits.* (A) The applicant may make a first appeal through the recipient within 60 calendar days from the date of the FEMA determination that is the subject of the appeal and the recipient must electronically forward to the Regional Administrator the applicant's first appeal with a recommendation within 120 calendar days from the date of the FEMA determination that is the subject of the appeal. If the applicant or the recipient do not meet their respective 60-calendar day and 120-calendar day deadlines, FEMA will deny the appeal. A recipient may make a recipient-related first appeal within 60 calendar days from the date of the FEMA determination that is the subject of the appeal and must electronically submit their first appeal to the Regional Administrator.
+
+(B) Within 90 calendar days following receipt of a first appeal, if there is a need for additional information, the Regional Administrator will provide electronic notice to the recipient and applicant. If there is no need for additional information, then FEMA will not provide notification. The Regional Administrator will generally allow the recipient 30 calendar days to provide any additional information.
+
+(C) The Regional Administrator will provide electronic notice of the disposition of the appeal to the applicant and recipient within 90 calendar days of receipt of the appeal or within 90 calendar days following the receipt of additional information or following expiration of the period for providing the information.
+
+(iii) *Technical advice.* In appeals involving highly technical issues, the Regional Administrator may, at his or her discretion, submit the appeal to an independent scientific or technical person or group having expertise in the subject matter of the appeal for advice or recommendation. The period for this technical review may be in addition to other allotted time periods. Within 90 calendar days of receipt of the report, the Regional Administrator will provide electronic notice of the disposition of the appeal to the recipient and applicant.
+
+(iv) *Effect of an appeal.* (A) FEMA will take no action to implement any determination pending an appeal decision from the Regional Administrator, subject to the exceptions in paragraph (b)(1)(iv)(B) of this section.
+
+(B) Notwithstanding paragraph (b)(1)(iv)(A) of this section, FEMA may:
+
+(*1*) Suspend funding (see 2 CFR 200.339);
+
+(*2*) Defer or disallow other claims questioned for reasons also disputed in the pending appeal; or
+
+(*3*) Take other action to recover, withhold, or offset funds if specifically authorized by statute or regulation.
+
+(v) *Implementation.* If the Regional Administrator grants an appeal, the Regional Administrator will take appropriate implementing action(s).
+
+(vi) *Guidance.* FEMA may issue separate guidance as necessary to supplement paragraph (b)(1) of this section.
+
+(2) *Second appeal.* If the Regional Administrator denies a first appeal in whole or in part, the applicant may make a second appeal in writing and submit it electronically through the recipient to the Assistant Administrator for the Recovery Directorate. The recipient must include a written recommendation on the applicant's appeal with the electronic submission of the applicant's second appeal to the Assistant Administrator for the Recovery Directorate. The recipient may make recipient-related second appeals to the Assistant Administrator for the Recovery Directorate.
+
+(i) *Content.* A second appeal must:
+
+(A) Contain all documented justification supporting the applicant or recipient's position;
+
+(B) Specify the amount in dispute, as applicable; and
+
+(C) Specify the provisions in Federal law, regulation, or policy with which the applicant or recipient believes the FEMA determination was inconsistent.
+
+(ii) *Time limits.* (A) If the Regional Administrator denies a first appeal in whole or in part, the applicant may make a second appeal through the recipient within 60 calendar days from the date of the Regional Administrator's first appeal decision and the recipient must electronically forward to the Assistant Administrator for the Recovery Directorate the applicant's second appeal with a recommendation within 120 calendar days from the date of the Regional Administrator's first appeal decision. If the applicant or the recipient do not meet their respective 60-calendar day and 120-calendar day deadlines, FEMA will deny the appeal. If the Regional Administrator denies a recipient-related first appeal in whole or in part, the recipient may make a recipient-related second appeal within 60 calendar days from the date of the Regional Administrator's first appeal decision and the recipient must electronically submit their second appeal to the Assistant Administrator for the Recovery Directorate.
+
+(B) Within 90 calendar days following receipt of a second appeal, if there is a need for additional information, the Assistant Administrator for the Recovery Directorate will provide electronic notice to the recipient and applicant. If there is no need for additional information, then FEMA will not provide notification. The Assistant Administrator for the Recovery Directorate will generally allow the recipient 30 calendar days to provide any additional information.
+
+(C) The Assistant Administrator for the Recovery Directorate will provide electronic notice of the disposition of the appeal to the recipient and applicant within 90 calendar days of receipt of the appeal or within 90 calendar days following the receipt of additional information or following expiration of the period for providing the information.
+
+(iii) *Technical advice.* In appeals involving highly technical issues, the Assistant Administrator for the Recovery Directorate may, at his or her discretion, submit the appeal to an independent scientific or technical person or group having expertise in the subject matter of the appeal for advice or recommendation. The period for this technical review may be in addition to other allotted time periods. Within 90 calendar days of receipt of the report, the Assistant Administrator for the Recovery Directorate will provide electronic notice of the disposition of the appeal to the recipient and applicant.
+
+(iv) *Effect of an appeal.* (A) FEMA will take no action to implement any determination pending an appeal decision from the Assistant Administrator for the Recovery Directorate, subject to the exceptions in paragraph (b)(2)(iv)(B) of this section.
+
+(B) Notwithstanding paragraph (b)(2)(iv)(A) of this section, FEMA may:
+
+(*1*) Suspend funding (see 2 CFR 200.339);
+
+(*2*) Defer or disallow other claims questioned for reasons also disputed in the pending appeal; or
+
+(*3*) Take other action to recover, withhold, or offset funds if specifically authorized by statute or regulation.
+
+(v) *Implementation.* If the Assistant Administrator for the Recovery Directorate grants an appeal, the Assistant Administrator for the Recovery Directorate will direct the Regional Administrator to take appropriate implementing action(s).
+
+(vi) *Guidance.* FEMA may issue separate guidance as necessary to supplement paragraph (b)(2) of this section.
+
+(3) *Arbitration*—(i) *Applicability.* An applicant may request arbitration from the Civilian Board of Contract Appeals (CBCA) if:
+
+(A) There is a dispute of the eligibility for assistance or of the repayment of assistance arising from a major disaster declared on or after January 1, 2016; and
+
+(B) The amount in dispute is greater than $500,000, or greater than $100,000 for an applicant for assistance in a rural area; and
+
+(C) The Regional Administrator has denied a first appeal decision or received a first appeal but not rendered a decision within 180 calendar days of receipt.
+
+(ii) *Limitations.* A request for arbitration is in lieu of a second appeal.
+
+(iii) *Request for arbitration.* (A) An applicant may initiate arbitration by submitting an electronic request simultaneously to the recipient, the CBCA, and FEMA. See 48 CFR part 6106.
+
+(B) *Time limits.* (*1*) An applicant must submit a request for arbitration within 60 calendar days from the date of the Regional Administrator's first appeal decision; or
+
+(*2*) If the first appeal was timely submitted, and the Regional Administrator has not rendered a decision within 180 calendar days of receiving the appeal, an applicant may arbitrate the decision of FEMA. To request arbitration, the applicant must first electronically submit a withdrawal of the pending appeal simultaneously to the recipient and the FEMA Regional Administrator. The applicant must then submit a request for arbitration to the recipient, the CBCA, and FEMA within 30 calendar days from the date of the withdrawal of the pending appeal.
+
+(C) *Content of request.* The request for arbitration must contain a written statement that specifies the amount in dispute, all documentation supporting the position of the applicant, the disaster number, and the name and address of the applicant's authorized representative or counsel.
+
+(iv) *Expenses.* Expenses for each party will be paid by the party who incurred the expense.
+
+(v) *Guidance.* FEMA may issue separate guidance as necessary to supplement paragraph (b)(3) of this section.
+
+(c) *Finality of decision.* (1) A FEMA final agency determination or a decision of the Assistant Administrator for the Recovery Directorate on a second appeal constitutes a final decision of FEMA. Final decisions are not subject to further administrative review.
+
+(2) In the alternative, a decision of the majority of the CBCA panel constitutes a final decision, binding on all parties. See 48 CFR 6106.613. Final decisions are not subject to further administrative review.
+
+[86 FR 45683, Aug. 16, 2021]

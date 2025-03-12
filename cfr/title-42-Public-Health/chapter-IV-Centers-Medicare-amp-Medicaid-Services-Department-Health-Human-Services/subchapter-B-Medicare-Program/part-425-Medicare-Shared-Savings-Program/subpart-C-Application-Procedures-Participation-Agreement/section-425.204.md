@@ -1,10 +1,8 @@
 ##### § 425.204 Content of the application. #####
 
-Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
-
 (a) *Accountability for beneficiaries.* As part of its application and participation agreement, the ACO must certify that the ACO, its ACO participants, and its ACO providers/suppliers have agreed to become accountable for the quality, cost, and overall care of the Medicare fee-for-service beneficiaries assigned to the ACO.
 
-(b) *Disclosure of prior participation.* (1) The ACO must disclose to CMS whether the ACO, its ACO participants, or its ACO providers/suppliers have participated in the Medicare Shared Savings Program under the same or a different name, or is related to or has an affiliation with another Shared Savings Program ACO.
+(b) *Prior participation*. Upon request by CMS during the application cycle, the ACO must submit information regarding prior participation in the Medicare Shared Savings Program by the ACO, its ACO participants, or its ACO providers/suppliers, including such information as may be necessary for CMS to determine whether to approve an ACO's application in accordance with § 425.224(b).
 
 (2) The ACO must specify whether the related participation agreement is currently active or has been terminated. If it has been terminated, the ACO must specify whether the termination was voluntary or involuntary.
 
@@ -70,7 +68,7 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 
 (iii) The ACO must certify the accuracy of this information.
 
-(6) As part of the application process and upon request by CMS, the ACO must submit documents demonstrating that its ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities are required to comply with the requirements of the Shared Savings Program. The evidence to be submitted must include, without limitation, sample or form agreements and, in the case of ACO participant agreements, the first and signature page(s) of each executed ACO participant agreement. CMS may request all pages of an executed ACO participant agreement to confirm that it conforms to the sample form agreement submitted by the ACO. The ACO must certify that all of its ACO participant agreements comply with the requirements of this part.
+(6) Upon request by CMS during the application cycle or at any point during an agreement period, the ACO must submit documents demonstrating that its ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities are required to comply with the requirements of the Shared Savings Program. Upon such a request, the evidence to be submitted must include, without limitation, sample or form agreements and, in the case of ACO participant agreements, the first and signature page(s) of each executed ACO participant agreement. CMS may request all pages of an executed ACO participant agreement to confirm that it conforms to the sample form agreement submitted by the ACO. The ACO must certify that all of its ACO participant agreements comply with the requirements of this part.
 
 (d) *Distribution of savings.* As part of its application to participate in the Shared Savings Program, an ACO must certify it has a mechanism and plan to receive and use payments for shared savings, including criteria for distributing shared savings among its ACO participants and ACO providers/suppliers.
 
@@ -108,13 +106,13 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 
 (ii) For a BASIC track or ENHANCED track ACO, the repayment mechanism amount must be equal to the lesser of the following:
 
-(A) One percent of the total per capita Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries, based on expenditures for the most recent calendar year for which 12 months of data are available.
+(A) One-half percent of the total per capita Medicare Parts A and B fee-for-service expenditures for the ACO's assigned beneficiaries, based on expenditures and the number of assigned beneficiaries for the most recent calendar year for which 12 months of data are available.
 
-(B) Two percent of the total Medicare Parts A and B fee-for-service revenue of its ACO participants, based on revenue for the most recent calendar year for which 12 months of data are available.
+(B) One percent of the total Medicare Parts A and B fee-for-service revenue of its ACO participants, based on revenue for the most recent calendar year for which 12 months of data are available, and based on the ACO's number of assigned beneficiaries for the most recent calendar year for which 12 months of data are available.
 
-(iii) For agreement periods beginning on or after July 1, 2019, CMS recalculates the ACO's repayment mechanism amount before the second and each subsequent performance year in the agreement period in accordance with this section based on the certified ACO participant list for the relevant performance year.
+(iii) CMS recalculates the ACO's repayment mechanism amount for the second and each subsequent performance year in the agreement period in accordance with paragraph (f)(4)(ii) of this section based on the certified ACO participant list for the relevant performance year, except that the number of assigned beneficiaries used in the calculations is the number of beneficiaries assigned to the ACO at the beginning of the relevant performance year under § 425.400(a)(2)(i) (for ACOs under preliminary prospective assignment with retrospective reconciliation) or § 425.400(a)(3)(i) (for ACOs under prospective assignment).
 
-(A) If the recalculated repayment mechanism amount exceeds the existing repayment mechanism amount by at least 50 percent or $1,000,000, whichever is the lesser value, CMS notifies the ACO in writing that the amount of its repayment mechanism must be increased to the recalculated repayment mechanism amount.
+(A) If the recalculated repayment mechanism amount exceeds the existing repayment mechanism amount by at least $1,000,000, CMS notifies the ACO in writing that the amount of its repayment mechanism must be increased to the recalculated repayment mechanism amount.
 
 (B) Within 90 days after receipt of such written notice from CMS, the ACO must submit for CMS approval documentation that the amount of its repayment mechanism has been increased to the amount specified by CMS.
 
@@ -127,6 +125,10 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 (*2*) The repayment mechanism amount for performance year 2021, as recalculated pursuant to paragraph (f)(4)(iii) of this section, is less than the existing repayment mechanism amount.
 
 (*3*) CMS will notify the ACO in writing if the ACO may elect to decrease the amount of its repayment mechanism pursuant to this paragraph (f)(4)(iv)(B). The ACO must submit such election, together with revised repayment mechanism documentation, in a form and manner and by a deadline specified by CMS. CMS will review the revised repayment mechanism documentation and may reject the election if the repayment mechanism documentation does not comply with the requirements of this paragraph (f).
+
+(v)(A) An ACO that established a repayment mechanism to support its participation in a two-sided model beginning on July 1, 2019, January 1, 2020, or January 1, 2021, may elect to decrease the amount of its repayment mechanism if the repayment mechanism amount for performance year 2022, as recalculated pursuant to paragraph (f)(4)(iii) of this section, is less than the existing repayment mechanism amount.
+
+(B) CMS will notify the ACO in writing if the ACO may elect to decrease the amount of its repayment mechanism pursuant to this paragraph (f)(4)(v). The ACO must submit such election, and revised repayment mechanism documentation, in a form and manner and by a deadline specified by CMS. CMS will review the revised repayment mechanism documentation and may reject the election if the repayment mechanism documentation does not comply with the requirements of this paragraph (f).
 
 (5) After the repayment mechanism has been used to repay any portion of shared losses owed to CMS, the ACO must replenish the amount of funds available through the repayment mechanism within 90 days. The resulting amount available through the repayment mechanism must be at least the amount specified by CMS in accordance with paragraph (f)(4) of this section.
 
@@ -176,4 +178,4 @@ Link to an amendment published at 86 FR 65683, Nov. 19, 2021.
 
 (ii) Documentation sufficient to demonstrate that the acquired entity's TIN was merged with or purchased by the ACO participant.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32837, June 9, 2015; 81 FR 80559, Nov. 15, 2016; 82 FR 53369, Nov. 15, 2017; 83 FR 68063, Dec. 31, 2018; 85 FR 85038, Dec. 28, 2020; 86 FR 65683, Nov. 19, 2021]

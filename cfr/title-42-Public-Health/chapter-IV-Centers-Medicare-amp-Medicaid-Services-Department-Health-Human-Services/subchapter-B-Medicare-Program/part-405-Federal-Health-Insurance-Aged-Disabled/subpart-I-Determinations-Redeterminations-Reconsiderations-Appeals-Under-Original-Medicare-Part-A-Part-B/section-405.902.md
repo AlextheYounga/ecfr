@@ -1,8 +1,10 @@
 ##### § 405.902 Definitions. #####
 
-Link to an amendment published at 86 FR 65659, Nov. 19, 2021.
+For the purposes of this subpart, the term—
 
-For the purposes of this subpart, the term -
+*Additional documentation* means any information requested by a contractor when conducting a prepayment review or post-payment review.
+
+*Additional documentation request (ADR)* means a contractor's initial documentation request in reviewing claims selected for prepayment review or post-payment review.
 
 *ALJ* means an Administrative Law Judge of the Department of Health and Human Services.
 
@@ -56,6 +58,10 @@ For the purposes of this subpart, the term -
 
 *Party* means an individual or entity listed in § 405.906 that has standing to appeal an initial determination and/or a subsequent administrative appeal determination.
 
+*Post-payment medical review (or post-payment review)* means a review that occurs after payment is made on the selected claim to determine whether the initial determination for payment was appropriate.
+
+*Prepayment medical review (or prepayment review)* means a review that occurs before an initial determination for payment is made on the selected claim to determine whether payment should be made.
+
 *Provider* means a hospital, critical access hospital, skilled nursing facility, comprehensive outpatient rehabilitation facility, home health agency, or hospice that has in effect an agreement to participate in Medicare, or clinic, rehabilitation agency, or public health agency that has in effect a similar agreement, but only to furnish outpatient physical therapy or speech pathology services, or a community mental health center that has in effect a similar agreement but only to furnish partial hospitalization services.
 
 *Qualified Independent Contractor (QIC)* means an entity which contracts with the Secretary in accordance with section 1869 of the Act to perform reconsiderations under § 405.960 through § 405.978.
@@ -72,4 +78,4 @@ For the purposes of this subpart, the term -
 
 *Vacate* means to set aside a previous action.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 80 FR 10617, Feb. 27, 2015; 82 FR 5106, Jan. 17, 2017]
+[70 FR 11472, Mar. 8, 2005, as amended at 74 FR 65333, Dec. 9, 2009; 80 FR 10617, Feb. 27, 2015; 82 FR 5106, Jan. 17, 2017; 86 FR 65659, Nov. 19, 2021]

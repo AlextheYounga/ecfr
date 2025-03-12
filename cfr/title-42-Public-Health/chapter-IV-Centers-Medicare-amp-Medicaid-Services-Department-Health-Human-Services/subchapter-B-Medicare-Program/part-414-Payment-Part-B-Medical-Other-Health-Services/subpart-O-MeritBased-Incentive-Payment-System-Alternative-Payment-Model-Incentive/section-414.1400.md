@@ -1,38 +1,16 @@
 ##### § 414.1400 Third party intermediaries. #####
 
-Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
+(a) *General.* (1) MIPS data may be submitted on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity by any of the following third party intermediaries:
 
-(a) *General.* (1) MIPS data may be submitted on behalf of a MIPS eligible clinician, group, or virtual group by any of the following third party intermediaries:
+(i) QCDR;
 
-(i) A QCDR;
+(ii) Qualified registry;
 
-(ii) A qualified registry;
+(iii) Health IT vendor; or
 
-(iii) A health IT vendor; or
+(iv) CMS-approved survey vendor.
 
-(iv) A CMS-approved survey vendor.
-
-(2) Beginning with the 2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories, and Health IT vendors must be able to submit data for at least one of the following MIPS performance categories:
-
-(i) Except as provided under paragraph (a)(2)(ii) of this section, QCDRs, qualified registries, and Health IT vendors must be able to submit data for all of the following MIPS performance categories:
-
-(A) Quality, except:
-
-(*1*) The CAHPS for MIPS survey; and
-
-(*2*) For qualified registries and Health IT vendors, QCDR measures;
-
-(B) Improvement activities; and
-
-(C) Promoting Interoperability, if the eligible clinician, group, or virtual group is using CEHRT; however, a third party intermediary may be excepted from this requirement if its MIPS eligible clinicians, groups or virtual groups fall under the reweighting policies at § 414.1380(c)(2)(i)(A)(*4*) or (*5*) or (c)(2)(i)(C)(*1*) through (*7*) or (c)(2)(i)(C)(*9*).
-
-(ii) Health IT vendors that do not support MIPS Value Pathways must be able to submit data for at least one of the MIPS performance categories described in paragraphs (a)(2)(i)(A) through (C) of this section.
-
-(iii) Promoting Interoperability, if the eligible clinician, group, or virtual group is using CEHRT; however, a third party intermediary may be excepted from this requirement if its MIPS eligible clinicians, groups or virtual groups fall under the reweighting policies at § 414.1380(c)(2)(i)(A)(*4*) or (*5*) or § 414.1380(c)(2)(i)(C)(*1*) through (*7*) or § 414.1380(c)(2)(i)(C)(*9*)).
-
-(3) CMS-approved survey vendors may submit data on the CAHPS for MIPS survey for the MIPS quality performance category.
-
-(4) Third party intermediary approval criteria -
+(2) Third party intermediary approval criteria -
 
 (i) To be approved as a third party intermediary, an entity must agree to meet the applicable requirements of this section, including, but not limited to, the following:
 
@@ -46,7 +24,7 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (E) The third party intermediary must provide services throughout the entire performance period and applicable data submission period.
 
-(F) Prior to discontinuing services to any MIPS eligible clinician, group, or virtual group during a performance period, the third party intermediary must support the transition of such MIPS eligible clinician, group, or virtual group to an alternate third party intermediary, submitter type, or, for any measure on which data has been collected, collection type according to a CMS approved a transition plan.
+(F) Prior to discontinuing services to any MIPS eligible clinician, group, virtual group, subgroup, or APM Entity during a performance period, the third party intermediary must support the transition of such MIPS eligible clinician, group, virtual group, subgroup, or APM Entity to an alternate third party intermediary, submitter type, or, for any measure on which data has been collected, collection type according to a CMS approved a transition plan.
 
 (ii) The determination of whether to approve an entity as a third party intermediary for a MIPS payment year may take into account:
 
@@ -56,130 +34,141 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (iii) Beginning with the 2023 MIPS payment year, third party intermediaries must attend and complete training and support sessions in the form and manner, and at the times, specified by CMS.
 
-(5) All data submitted to CMS by a third party intermediary on behalf of a MIPS eligible clinician, group or virtual group must be certified by the third party intermediary as true, accurate, and complete to the best of its knowledge. Such certification must be made in a form and manner and at such time as specified by CMS.
+(3) All data submitted to CMS by a third party intermediary on behalf of a MIPS eligible clinician, group, virtual group, subgroup, or APM Entity must be certified by the third party intermediary as true, accurate, and complete to the best of its knowledge. Such certification must be made in a form and manner and at such time as specified by CMS.
 
-(b) *QCDRs.* - (1) *QCDR self-nomination.* For the 2020 and 2021 MIPS payment years, entities seeking to qualify as a QCDR must self-nominate September 1 until November 1 of the CY preceding the applicable performance period. For the 2022 MIPS payment year and future years, entities seeking to qualify as a QCDR must self-nominate during a 60-day period during the CY preceding the applicable performance period (beginning no earlier than July 1 and ending no later than September 1). Entities seeking to qualify as a QCDR for a performance period must provide all information required by CMS at the time of self-nomination and must provide any additional information requested by CMS during the review process. For the 2021 MIPS payment year and future years, existing QCDRs that are in good standing may attest that certain aspects of their previous year's approved self-nomination have not changed and will be used for the applicable performance period. Beginning with the 2023 payment year, QCDRs are required to attest during the self-nomination process that they can provide performance feedback at least 4 times a year (as specified at paragraph (b)(2)(iv) of this section), and if not, provide sufficient rationale as to why they do not believe they would be able to meet this requirement. Each QCDR would still be required to submit notification to CMS within the reporting period promptly within the month of realization of the impending deficiency in order to be considered for this exception, as discussed at paragraph (b)(2)(iv) of this section.
+(b) *Additional requirements for QCDRs and qualified registries* - (1) General. (i) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDRs and qualified registries must be able to submit data for all of the following MIPS performance categories:
 
-(2) *QCDR conditions for approval.*In addition to the other requirements in this section, the criteria for an entity to be approved as a QCDR include the following:
-(i) Beginning with the 2022 MIPS Payment Year, the QCDR must have at least 25 participants by January 1 of the year prior to the applicable performance period.
+(A) Quality, except:
 
-(ii) If the entity uses an external organization for purposes of data collection, calculation, or transmission, it must have a signed, written agreement with the external organization that specifically details the responsibilities of the entity and the external organization. The written agreement must be effective as of September 1 of the year preceding the applicable performance period.
+(1) The CAHPS for MIPS survey; and
 
-(iii) Beginning with the 2023 MIPS payment year, require QCDRs to provide performance feedback to their clinicians and groups at least 4 times a year, and provide specific feedback to their clinicians and groups on how they compare to other clinicians who have submitted data on a given measure within the QCDR. Exceptions to this requirement may occur if the QCDR does not receive the data from their clinician until the end of the performance period.
+(2) For qualified registries, QCDR measures;
 
-(iv) Beginning with the 2023 payment year, the QCDR must conduct annual data validation audits in accordance with this paragraph (b)(2)(iv).
+(B) Improvement activities; and
 
-(A) The QCDR must conduct data validation for the payment year prior to submitting any data for that payment year to CMS for purposes of the MIPS program.
+(C) Promoting Interoperability, if the eligible clinician, group, virtual group, or subgroup is using CEHRT, unless the third party intermediary's MIPS eligible clinicians, groups, virtual groups, or subgroups fall under the reweighting policies at § 414.1380(c)(2)(i)(A)(4)(i) through (iii) or (c)(2)(i)(C)(1) through (7) or (c)(2)(i)(C)(9).
 
-(B) The QCDR must conduct data validation on data for each performance category for which it will submit data, including if applicable the Quality, Improvement Activities, and Promoting Interoperability performance categories.
+(ii) Beginning with the CY 2023 performance period/2025 MIPS payment year, QCDRs and qualified registries must support MVPs that are applicable to the MVP participant on whose behalf they submit MIPS data. QCDRs and qualified registries may also support the APP.
 
-(C) The QCDR must conduct data validation on data for each submitter type for which it will submit data, including if applicable MIPS eligible clinicians, groups, virtual groups, voluntary participants, and opt-in participants.
+(2) *Self-nomination.* For the CY 2018 and 2019 performance periods/2020 and 2021 MIPS payment years, entities seeking to qualify as a QCDR or qualified registry must self-nominate September 1 until November 1 of the CY preceding the applicable performance period. For the CY 2020 performance period/2022 MIPS payment year and future years, entities seeking to qualify as a QCDR or qualified registry must self-nominate during a 60-day period during the CY preceding the applicable performance period (beginning no earlier than July 1 and ending no later than September 1). Entities seeking to qualify as a QCDR or qualified registry for a performance period must provide all information required by CMS at the time of self-nomination and must provide any additional information requested by CMS during the review process. For the CY 2019 performance period/2021 MIPS payment year and future years, existing QCDRs and qualified registries that are in good standing may attest that certain aspects of their previous year's approved self-nomination have not changed and will be used for the applicable performance period.
 
-(D) The QCDR must use clinical documentation (provided by the clinicians they are submitting data for) to validate that the action or outcome measured actually occurred or was performed.
+(3) *Conditions for approval.* (i) Beginning with the CY 2020 performance period/2022 MIPS payment year, the QCDR or qualified registry must have at least 25 participants by January 1 of the year prior to the applicable performance period.
 
-(E) The QCDR shall conduct each data validation audit using a sampling methodology that meets the following requirements:
+(ii) If an entity seeking to qualify as a QCDR or qualified registry uses an external organization for purposes of data collection, calculation, or transmission, it must have a signed, written agreement with the external organization that specifically details the responsibilities of the entity and the external organization. The written agreement must be effective as of September 1 of the year preceding the applicable performance period.
 
-(*1*) Uses a sample size of at least 3 percent of the TIN/NPIs for which the QCDR will submit data to CMS, except that if a 3 percent sample size would result in fewer than 10 TIN/NPIs, the QCDR must use a sample size of at least 10 TIN/NPIs, and if a 3 percent sample size would result in more than 50 TIN/NPIs, the QCDR may use a sample size of 50 TIN/NPIs.
+(iii) Beginning with the CY 2021 performance period/2023 MIPS payment year, the QCDR or qualified registry must provide performance feedback to their clinicians and groups at least 4 times a year, and provide specific feedback to their clinicians and groups on how they compare to other clinicians who have submitted data on a given measure within the QCDR or qualified registry. Exceptions to this requirement may occur if the QCDR or qualified registry submits notification to CMS within the performance period promptly within the month of realization of the impending deficiency and provides sufficient rationale as to why they do not believe they would be able to meet this requirement (for example, if the QCDR does not receive the data from their clinician until the end of the performance period).
 
-(*2*) Uses a sample that includes at least 25 percent of the patients of each TIN/NPI in the sample, except that the sample for each TIN/NPI must include a minimum of 5 patients and does not need to include more than 50 patients.
+(iv) Beginning with the CY 2023 performance period/2025 MIPS payment year, the QCDR or qualified registry must submit a data validation plan annually, at the time of self-nomination for CMS' approval and may not change the plan once approved without the prior approval of the agency.
 
-(F) Each QCDR data validation audit must include the following:
+(v) Beginning with the CY 2021 performance period/2023 MIPS payment year, the QCDR or qualified registry must conduct annual data validation audits in accordance with this paragraph (b)(3)(v).
 
-(*1*) Verification of the eligibility status of each eligible clinician, group, virtual group, opt-in participant, and voluntary participant.
+(A) The QCDR or qualified registry must conduct data validation for the payment year prior to submitting any data for that payment year to CMS for purposes of the MIPS program.
 
-(*2*) Verification of the accuracy of TINs and NPIs.
+(B) The QCDR or qualified registry must conduct data validation on data for each performance category for which it will submit data, including if applicable the Quality, Improvement Activities, and Promoting Interoperability performance categories.
 
-(*3*) Calculation of reporting and performance rates.
+(C) The QCDR or qualified registry must conduct data validation on data for each submitter type for which it will submit data, including MIPS eligible clinicians, groups, virtual groups, subgroups, APM entities, voluntary participants, and opt-in participants, if applicable.
 
-(*4*) Verification that only the MIPS quality measures and QCDR measures, as applicable, that are relevant to the performance period will be used for MIPS submission.
+(D) The QCDR or qualified registry must use clinical documentation (provided by the clinicians they are submitting data for) to validate that the action or outcome measured actually occurred or was performed.
 
-(G) In a form and manner and by a deadline specified by CMS, the QCDR must report the results of each data validation audit, including the overall data deficiencies or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by any deficiency or error, and, how and when each deficiency or data error type was corrected.
+(E) The QCDR or qualified registry must conduct each data validation audit using a sampling methodology that meets the following requirements:
 
-(v) Beginning with the 2023 MIPS payment year, the QCDR must conduct targeted audits in accordance with this this paragraph (b)(2)(v).
+(1) Uses a sample size of at least 3 percent of the TIN/NPIs for which the QCDR or qualified registry will submit data to CMS, except that if a 3 percent sample size would result in fewer than 10 TIN/NPIs, the QCDR or qualified registry must use a sample size of at least 10 TIN/NPIs, and if a 3 percent sample size would result in more than 50 TIN/NPIs, the QCDR or qualified registry may use a sample size of 50 TIN/NPIs.
 
-(A) If a data validation audit under paragraph (b)(2)(iv) of this section identifies one or more deficiency or data error, the QCDR must conduct a targeted audit into the impact and root cause of each such deficiency or data error for that MIPS payment year.
+(2) Uses a sample that includes at least 25 percent of the patients of each TIN/NPI in the sample, except that the sample for each TIN/NPI must include a minimum of 5 patients and does not need to include more than 50 patients.
 
-(B) The QCDR must conduct any required targeted audits for the MIPS payment year and correct any deficiencies or data errors identified through such audit prior to the submission of data for that MIPS payment year.
+(F) Each QCDR or qualified registry data validation audit must include the following:
 
-(C) The QCDR must conduct the targeted audit using the sampling methodology that meets the requirements described in paragraph (b)(2)(iv)(E) of this section. The sample for the targeted audit must not include data from the sample used for the data validation audit in which the deficiency or data error was identified.
+(1) Verification of the eligibility status of each eligible clinician, group, virtual group, subgroup, opt-in participant, and voluntary participant.
 
-(D) In a form and manner and by a deadline specified by CMS, the QCDR must report the results of each targeted audit, including the overall deficiency or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by each deficiency or data error, and how and when each deficiency or data error type was corrected.
+(2) Verification of the accuracy of TINs and NPIs.
 
-(3) *QCDR measures for the quality performance category.* (i) For purposes of QCDRs submitting data for the MIPS quality performance category, CMS considers the following types of quality measures to be QCDR measures:
+(3) Calculation of reporting and performance rates.
 
-(A) Measures that are not included in the MIPS final list of quality measures described in § 414.1330(a)(1) for the applicable MIPS payment year; and
+(4) Verification that only the MIPS quality measures and QCDR measures, as applicable, that are relevant to the performance period will be used for MIPS submission.
 
-(B) Measures that are included in the MIPS final list of quality measures described in § 414.1330(a)(1) for the applicable MIPS payment year, but have undergone substantive changes, as determined by CMS.
+(G) In a form and manner and by a deadline specified by CMS, the QCDR or qualified registry must report the results of each data validation audit, including the overall data deficiencies or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by any deficiency or error, and, how and when each deficiency or data error type was corrected.
 
-(ii) For the 2020 MIPS payment year and future years, an entity seeking to become a QCDR must submit specifications for each measure, activity, and objective that the entity intends to submit to for MIPS (including the information described in paragraphs (b)(3)(ii)(A) and (B) of this section) at the time of self-nomination. In addition, no later than 15 calendar days following CMS approval of any QCDR measure specifications, the entity must publicly post the measure specifications for each QCDR measure (including the CMS-assigned QCDR measure ID) and provide CMS with a link to where this information is posted.
+(1) QCDRs and qualified registries must conduct validation on the data they intend to submit for the MIPS performance period and provide the results of the executed data validation plan by May 31st of the year following the performance period.
 
-(A) For QCDR measures, the entity must submit the measure specifications for each QCDR measure, including: Name/title of measures, NQF number (if NQF-endorsed), descriptions of the denominator, numerator, and when applicable, denominator exceptions, denominator exclusions, risk adjustment variables, and risk adjustment algorithms.
+(2) [Reserved]
 
-(B) For MIPS quality measures, the entity must submit the MIPS measure IDs and specialty-specific measure sets, as applicable.
+(vi) Beginning with the CY 2021 performance period/2023 MIPS payment year, the QCDR or qualified registry must conduct targeted audits in accordance with this paragraph (b)(3)(vi).
 
-(iii) A QCDR must include the CMS-assigned QCDR measure ID when submitting data on any QCDR measure to CMS.
+(A) If a data validation audit under paragraph (b)(3)(v) of this section identifies one or more deficiency or data error, the QCDR or qualified registry must conduct a targeted audit into the impact and root cause of each such deficiency or data error for that MIPS payment year.
 
-(iv) QCDR measure considerations for approval include:
+(B) The QCDR or qualified registry must conduct any required targeted audits for the MIPS payment year and correct any deficiencies or data errors identified through such audit prior to the submission of data for that MIPS payment year.
 
-(A) Preference for measures that are outcome-based rather than clinical process measures.
+(C) The QCDR or qualified registry must conduct the targeted audit using the sampling methodology that meets the requirements described in paragraph (b)(3)(iv)(E) of this section. The sample for the targeted audit must not include data from the sample used for the data validation audit in which the deficiency or data error was identified.
 
-(B) Measures that address patient safety and adverse events.
+(D) In a form and manner and by a deadline specified by CMS, the QCDR or qualified registry must report the results of each targeted audit, including the overall deficiency or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by each deficiency or data error, and how and when each deficiency or data error type was corrected.
 
-(C) Measures that identify appropriate use of diagnosis and therapeutics.
+(vii) For the CY 2023 performance period/2025 MIPS payment year, a QCDR or qualified registry that was approved but did not submit any MIPS data for any of the 2019 through 2023 MIPS payment years must submit a participation plan for CMS' approval. The participation plan must include the QCDR and/or qualified registry's detailed plans about how the QCDR or qualified registry intends to encourage clinicians to submit MIPS data to CMS through the QCDR or qualified registry.
 
-(D) Measures that address the domain of care coordination.
+(viii) Beginning with the CY 2024 performance period/2026 MIPS payment year, a QCDR or qualified registry that was approved but did not submit any MIPS data for either of the 2 years preceding the applicable self-nomination period must submit a participation plan for CMS' approval. This participation plan must include the QCDR's and/or qualified registry's detailed plans about how the QCDR or qualified registry intends to encourage clinicians to submit MIPS data to CMS through the QCDR or qualified registry.
 
-(E) Measures that address the domain for patient and caregiver experience.
+(4) *QCDR measures for the quality performance category - (i) QCDR measure self-nomination requirements.* For the CY 2018 performance period/2020 MIPS payment year and future years, at the time of self-nomination an entity seeking to become a QCDR must submit the following information for any measure it intends to submit for the payment year.
 
-(F) Measures that address efficiency, cost, and resource use.
+(A) For MIPS quality measures, the entity must submit specifications including the MIPS measure IDs and specialty-specific measure sets, as applicable.
 
-(G) Beginning with the 2021 performance period -
+(B) For QCDR measures, the entity must submit for CMS-approval measure specifications including: Name/title of measures, NQF number (if NQF- endorsed), descriptions of the denominator, numerator, and when applicable, denominator exceptions, denominator exclusions, risk adjustment variables, and risk adjustment algorithms. In addition, no later than 15 calendar days following CMS approval of any QCDR measure specifications, the entity must publicly post the measure specifications for that QCDR measure (including the CMS- assigned QCDR measure ID) and provide CMS with a link to where this information is posted.
 
-(*1*) That QCDRs link their QCDR measures as feasible to at least one of the following at the time of self-nomination:
+(ii) *QCDR measure submission requirements.* A QCDR must include the CMS-assigned QCDR measure ID when submitting data on any QCDR measure to CMS.
 
-(*i*) Cost measure;
+(iii) *QCDR measure approval criteria.* (A) QCDR measure requirements for approval are:
 
-(*ii*) Improvement activity; or
+(*1*) QCDR measures that are beyond the measure concept phase of development.
 
-(*iii*) An MVP.
+(*2*) QCDR measures that address significant variation in performance.
 
-(*2*) In cases where a QCDR measure does not have a clear link to a cost measure, improvement activity, or an MVP, we would consider exceptions if the potential QCDR measure otherwise meets the QCDR measure requirements and considerations.
+(*3*) Beginning with the CY 2022 performance period/2024 MIPS payment year, all QCDR measures must meet face validity. To be approved for the CY 2023 performance period/2025 MIPS payment year, all QCDR measures must meet face validity for the initial MIPS payment year for which it is approved. For subsequent years after being initially approved, all QCDR measures must be fully developed and tested, with complete testing results at the clinician level, prior to submitting the QCDR measure at the time of self-nomination.
 
-(H) Beginning with the 2020 performance period CMS may consider the extent to which a QCDR measure is available to MIPS eligible clinicians reporting through QCDRs other than the QCDR measure owner for purposes of MIPS. If CMS determines that a QCDR measure is not available to MIPS eligible clinicians, groups, and virtual groups reporting through other QCDRs, CMS may not approve the measure.
+(*i*) To be included in an MVP for the CY 2022 performance period/2024 MIPS payment year and future years, a QCDR measure must be fully tested.
 
-(I) We give greater consideration to measures for which QCDRs:
+(*ii*) [Reserved]
 
-(*1*) Conducted an environmental scan of existing QCDR measures; MIPS quality measures; quality measures retired from the legacy Physician Quality Reporting System (PQRS) program; and
+(*4*) Beginning with the CY 2022 performance period/2023 MIPS payment year, QCDRs are required to collect data on a QCDR measure, appropriate to the measure type, prior to submitting the QCDR measure for CMS consideration during the self-nomination period.
 
-(*2*) Utilized the CMS Quality Measure Development Plan Annual Report and the Blueprint for the CMS Measures Management System to identify measurement gaps prior to measure development.
+(*5*) Beginning with the CY 2020 performance period/2022 MIPS payment year, CMS may provisionally approve the individual QCDR measures for 1 year with the condition that QCDRs address certain areas of duplication with other approved QCDR measures or MIPS quality measures in order to be considered for the program in subsequent years. If such areas of duplication are not addressed, CMS may reject the duplicative QCDR measure.
 
-(J) Beginning with the 2020 performance period, we place greater preference on QCDR measures that meet case minimum and reporting volumes required for benchmarking after being in the program for 2 consecutive CY performance periods. Those that do not, may not continue to be approved.
+(B) QCDR measure considerations for approval include, but are not limited to:
 
-(*1*) Beginning with the 2020 performance period, in instances where a QCDR believes the low-reported QCDR measure that did not meet benchmarking thresholds is still important and relevant to a specialist's practice, that the QCDR may develop and submit a QCDR measure participation plan for our consideration. This QCDR measure participation plan must include the QCDR's detailed plans and changes to encourage eligible clinicians and groups to submit data on the low-reported QCDR measure for purposes of the MIPS program.
+(*1*) Measures that are outcome-based rather than clinical process measures.
 
-(*2*) [Reserved]
+(*2*) Measures that address patient safety and adverse events.
 
-(v) QCDR measure requirements for approval include:
+(*3*) Measures that identify appropriate use of diagnosis and therapeutics.
 
-(A) QCDR Measures that are beyond the measure concept phase of development.
+(*4*) Measures that address the domain of care coordination.
 
-(B) QCDR Measures that address significant variation in performance.
+(*5*) Measures that address the domain for patient and caregiver experience.
 
-(C) Beginning with the 2022 performance period, all QCDR measures must be fully developed and tested, with complete testing results at the clinician level, prior to submitting the QCDR measure at the time of self-nomination.
+(*6*) Measures that address efficiency, cost, and resource use.
 
-(*1*) To be approved for the 2024 MIPS payment year, a QCDR measure must be face valid. To be approved for the 2025 MIPS payment year and future years, a QCDR measure must be face valid for the initial MIPS payment year for which it is approved and fully tested for any subsequent MIPS payment year for which it is approved.
+(*7*) Beginning with the CY 2021 performance period/2023 MIPS payment year -
 
-(*2*) To be included in an MIPS Value Pathway for the 2024 MIPS payment year and future years, a QCDR measure must be fully tested.
+(*i*) That QCDRs link their QCDR measures as feasible to at least one cost measure, improvement activity, or an MVP at the time of self-nomination.
 
-(D) Beginning with the 2022 performance period, QCDRs are required to collect data on a QCDR measure, appropriate to the measure type, prior to submitting the QCDR measure for CMS consideration during the self-nomination period.
+(*ii*) In cases where a QCDR measure does not have a clear link to a cost measure, improvement activity, or an MVP, CMS would consider exceptions if the potential QCDR measure otherwise meets the QCDR measure requirements and considerations.
 
-(E) Beginning with the 2022 MIPS payment year, CMS may provisionally approve the individual QCDR measures for 1 year with the condition that QCDRs address certain areas of duplication with other approved QCDR measures or MIPS quality measures in order to be considered for the program in subsequent years. If such areas of duplication are not addressed, CMS may reject the duplicative QCDR measure.
+(*8*) Beginning with the CY 2020 performance period/2022 MIPS payment year CMS may consider the extent to which a QCDR measure is available to MIPS eligible clinicians reporting through QCDRs other than the QCDR measure owner for purposes of MIPS. If CMS determines that a QCDR measure is not available to MIPS eligible clinicians, groups, and virtual groups reporting through other QCDRs, CMS may not approve the measure.
 
-(vi) Beginning with the 2023 MIPS payment year, QCDR measures may be approved for 2 years, at CMS discretion by attaining approval status by meeting QCDR measure considerations and requirements. Upon annual review, CMS may revoke a QCDR measure's second year approval, if the QCDR measure is found to be: Topped out; duplicative of a more robust measure; reflects an outdated clinical guideline; or if the QCDR self-nominating the QCDR measure is no longer in good standing.
+(*9*) Greater consideration is given to measures for which QCDRs:
 
-(vii) Beginning with the 2020 performance period, QCDR measure rejection criteria considerations include, but are not limited to, the following factors:
+(*i*) Conducted an environmental scan of existing QCDR measures; MIPS quality measures; quality measures retired from the legacy Physician Quality Reporting System (PQRS) program; and
 
-(A) QCDR measures that are duplicative, or identical to other QCDR measures or MIPS quality measures that are currently in the program.
+(*ii*) Utilized the CMS Quality Measure Development Plan Annual Report and the Blueprint in the CMS Measures Management System to identify measurement gaps prior to measure development.
+
+(*10*) Beginning with the CY 2020 performance period/2022 MIPS payment year, CMS places greater preference on QCDR measures that meet case minimum and reporting volumes required for benchmarking after being in the program for 2 consecutive CY performance periods. Those that do not, may not continue to be approved.
+
+(*i*) Beginning with the CY 2020 performance period/2022 MIPS payment year, in instances where a QCDR believes the low-reported QCDR measure that did not meet benchmarking thresholds is still important and relevant to a specialist's practice, that the QCDR may develop and submit a QCDR measure participation plan for our consideration. This QCDR measure participation plan must include the QCDR's detailed plans and changes to encourage eligible clinicians and groups to submit data on the low-reported QCDR measure for purposes of the MIPS program.
+
+(*ii*) [Reserved]
+
+(C) Beginning with the CY 2021 performance period/2023 MIPS payment year, QCDR measures may be approved for 2 years, at CMS discretion by attaining approval status by meeting QCDR measure considerations and requirements. Upon annual review, CMS may revoke a QCDR measure's second year approval, if the QCDR measure is found to be: Topped out; duplicative of a more robust measure; reflects an outdated clinical guideline; or if the QCDR self-nominating the QCDR measure is no longer in good standing.
+
+(iv) *QCDR measure rejection criteria.* Beginning with the CY 2020 performance period/2022 MIPS payment year, QCDR measure rejection considerations include, but are not limited to:
+
+(A) QCDR measures that are duplicative or identical to other QCDR measures or MIPS quality measures that are currently in the program.
 
 (B) QCDR measures that are duplicative or identical to MIPS quality measures that have been removed from MIPS through rulemaking.
 
@@ -203,57 +192,39 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (L) QCDR measures that focus on rare events or “never events” in the measurement period.
 
-(c) *Qualified registries.* - (1) *Qualified registry self-nomination.* For the 2020 and 2021 MIPS payment years, entities seeking to qualify as a qualified registry must self-nominate from September 1 until November 1 of the CY preceding the applicable performance period. For the 2022 MIPS payment year and future years, entities seeking to qualify as a qualified registry must self-nominate during a 60-day period during the CY preceding the applicable performance period (beginning no earlier than July 1 and ending no later than September 1). Entities seeking to qualify as a qualified registry for a performance period must provide all information required by CMS at the time of self-nomination and must provide any additional information requested by CMS during the review process. For the 2021 MIPS payment year and future years, existing qualified registries that are in good standing may attest that certain aspects of their previous year's approved self-nomination have not changed and will be used for the applicable performance period. Beginning with the 2023 payment year, qualified registries are required to attest during the self-nomination process that they can provide performance feedback at least 4 times a year (as specified at § 414.1400(c)(2)(ii)), and if not, provide sufficient rationale as to why they do not believe they would be able to meet this requirement. Each qualified registry would still be required to submit notification to CMS within the reporting period promptly within the month of realization of the impending deficiency in order to be considered for this exception, as discussed at § 414.1400(c)(2)(ii).
+(M) QCDR does not have permission to use a QCDR measure owned by another QCDR for the applicable performance period.
 
-(2) *Establishment of a qualified registry entity.* Beginning with the 2022 MIPS Payment Year, the qualified registry must have at least 25 participants by January 1 of the year prior to the applicable performance period.
+(N) If a QCDR measure owner is not approved or is not in good standing, any associated QCDR measures will not be approved.
 
-(i) Beginning with the 2022 MIPS Payment Year, the qualified registry must have at least 25 participants by January 1 of the year prior to the applicable performance period.
+(c) *Additional requirements for Health IT vendors.* (1) Beginning with the CY 2021 performance period/2023 MIPS payment year, health IT vendors must be able to submit data for the MIPS performance categories as follows:
 
-(ii) Beginning with the 2023 MIPS payment year, require qualified registries to provide performance feedback to their clinicians and groups at least 4 times a year, and provide specific feedback to their clinicians and groups on how they compare to other clinicians who have submitted data on a given measure within the qualified registries. Exceptions to this requirement may occur if the qualified registries does not receive the data from their clinician until the end of the performance period.
+(i) Health IT vendors that support MVPs must be able to submit data for all of the MIPS performance categories:
 
-(iii) Beginning with the 2023 payment year, the qualified registry must conduct annual data validation audits in accordance with this paragraph (c)(2)(iii).
+(A) Quality, except:
 
-(A) The qualified registry must conduct their data validation audits prior to submitting any data to CMS for purposes of the MIPS program.
+(*1*) The CAHPS for MIPS survey; and
 
-(B) The qualified registry must conduct data validation on data for each performance category for which it will submit data, including if applicable the Quality, Improvement Activities, and Promoting Interoperability performance categories.
+(*2*) QCDR measures;
 
-(C) The qualified registry must conduct data validation on data for each submitter type for which it will submit data, including if applicable MIPS eligible clinicians, groups, virtual groups, voluntary participants, and opt-in participants.
+(B) Improvement activities; and
 
-(D) The qualified registry must use clinical documentation (provided by the clinicians they are submitting data for) to validate that the action or outcome measured actually occurred or was performed.
+(C) Promoting Interoperability, if the eligible clinician, group, virtual group, or subgroup is using CEHRT, unless:
 
-(E) The qualified registry shall conduct each data validation audit using a sampling methodology that meets the following:
+(*1*) The third party intermediary's MIPS eligible clinicians, groups, virtual groups, or subgroups fall under the reweighting policies at § 414.1380(c)(2)(i)(A)(*4*)(*i*) through (*iii*) or (c)(2)(i)(C)(*1*) through (*7*) or (c)(2)(i)(C)(*9*).
 
-(*1*) Uses a sample size of at least 3 percent of the TIN/NPIs for which the qualified registry will submit data to CMS, except that if a 3 percent sample size would result in fewer than 10 TIN/NPIs, the qualified registry must use a sample size of at least 10 TIN/NPIs, and if a 3 percent sample size would result in more than 50 TIN/NPIs, the qualified registry may use a sample size of 50 TIN/NPIs.
+(*2*) [Reserved]
 
-(*2*) Uses a sample that includes at least 25 percent of the patients of each TIN/NPI in the sample, except that the sample for each TIN/NPI must include a minimum of 5 patients and does not need to include more than 50 patients.
+(ii) Health IT vendors that do not support MVPs must be able to submit data for at least one of the MIPS performance categories described in paragraphs (c)(1)(i) of this section.
 
-(F) Each qualified registry data validation audit must include the following:
+(iii) Beginning with the CY 2023 performance period/2025 MIPS payment year, Health IT vendors must support MVPs that are applicable to the MVP participant on whose behalf they submit MIPS data. Health IT vendors may also support the APP.
 
-(*1*) Verification of the eligibility status of each eligible clinician, group, virtual group, opt-in participant, and voluntary participant.
+(2) [Reserved]
 
-(*2*) Verification of the accuracy of TINs and NPIs.
+(d) *Additional requirements for CMS-approved survey vendors.* (1) CMS-approved survey vendors may submit data on the CAHPS for MIPS survey for the MIPS quality performance category.
 
-(*3*) Calculation of reporting and performance rates.
+(2) Entities seeking to be a CMS-approved survey vendor for any MIPS performance period must submit a survey vendor application to CMS in a form and manner specified by CMS for each MIPS performance period for which it wishes to transmit such data. The application and any supplemental information requested by CMS must be submitted by deadlines specified by CMS. For an entity to be a CMS-approved survey vendor, it must meet the following criteria:
 
-(*4*) Verification that only MIPS quality measures and qualified registry measures that are relevant to the performance period will be utilized for MIPS submission.
-
-(G) In a form and manner and by a deadline specified by CMS, the qualified registry must report data validation results, including the overall deficiency or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by any deficiency or data error, how and when each deficiency or data error type was corrected.
-
-(iv) Beginning with the 2023 MIPS payment year, the qualified registry must conduct targeted audits in accordance with this paragraph (c)(2)(iv).
-
-(A) If a data validation audit under paragraph (c)(2)(iii) of this section identifies one or more deficiency or data error, the qualified registry must conduct a targeted audit into the impact and root cause of each such deficiency or data error for that MIPS payment year.
-
-(B) The qualified registry must conduct any required targeted audits for the MIPS payment year and correct any deficiencies or data errors identified through such audit prior to the submission of data for that MIPS payment year.
-
-(C) The qualified registry must conduct the targeted audit using the sampling methodology that meets the requirements described in paragraphs (c)(2)(iii)(E)(*1*) and (*2*) of this section. The sample for the targeted audit must not include data from the sample used for the data validation audit in which the deficiency or data error was identified.
-
-(D) In a form and manner and by a deadline specified by CMS, the qualified registry must report the results of each targeted audit, including the overall deficiency or data error rate, the types of deficiencies or data errors discovered, the percentage of clinicians impacted by each deficiency or data error, how and when each deficiency or data error type was corrected.
-
-(d) *Health IT vendor approval criteria.* Health IT vendors must meet the criteria specified at paragraph (a)(4) of this section.
-
-(e) *CMS-approved survey vendor approval criteria.* Entities seeking to be a CMS-approved survey vendor for any MIPS performance period must submit a survey vendor application to CMS in a form and manner specified by CMS for each MIPS performance period for which it wishes to transmit such data. The application and any supplemental information requested by CMS must be submitted by deadlines specified by CMS. For an entity to be a CMS-approved survey vendor, it must meet the following criteria:
-
-(1) The entity must have sufficient experience, capability, and capacity to accurately report CAHPS data, including:
+(3) The entity must have sufficient experience, capability, and capacity to accurately report CAHPS data, including:
 
 (i) At least 3 years of experience administering mixed-mode surveys (that is, surveys that employ multiple modes to collect date), including mail survey administration followed by survey administration via Computer Assisted Telephone Interview (CATI);
 
@@ -267,17 +238,17 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (vi) Employment of a program manager, information systems specialist, call center supervisor and mail center supervisor to administer the survey.
 
-(2) The entity has certified that it has the ability to maintain and transmit quality data in a manner that preserves the security and integrity of the data.
+(4) The entity has certified that it has the ability to maintain and transmit quality data in a manner that preserves the security and integrity of the data.
 
-(3) The entity has successfully completed, and has required its subcontractors to successfully complete, vendor training(s) administered by CMS or its contractors.
+(5) The entity has successfully completed, and has required its subcontractors to successfully complete, vendor training(s) administered by CMS or its contractors.
 
-(4) The entity has submitted a quality assurance plan and other materials relevant to survey administration, as determined by CMS, including cover letters, questionnaires and telephone scripts.
+(6) The entity has submitted a quality assurance plan and other materials relevant to survey administration, as determined by CMS, including cover letters, questionnaires and telephone scripts.
 
-(5) The entity has agreed to participate and cooperate, and has required its subcontractors to participate and cooperate, in all oversight activities related to survey administration conducted by CMS or its contractors.
+(7) The entity has agreed to participate and cooperate, and has required its subcontractors to participate and cooperate, in all oversight activities related to survey administration conducted by CMS or its contractors.
 
-(6) The entity has sent an interim survey data file to CMS that establishes the entity's ability to accurately report CAHPS data.
+(8) The entity has sent an interim survey data file to CMS that establishes the entity's ability to accurately report CAHPS data.
 
-(f) *Remedial action and termination of third party intermediaries.*(1) If CMS determines that a third party intermediary has ceased to meet one or more of the applicable criteria for approval, has submitted a false certification under paragraph (a)(5) of this section, or has submitted data that are inaccurate, unusable, or otherwise compromised, CMS may take one or more of the following remedial actions after providing written notice to the third party intermediary:
+(e) *Remedial action and termination of third party intermediaries.* (1) If CMS determines that a third party intermediary has ceased to meet one or more of the applicable criteria for approval, has submitted a false certification under paragraph (a)(3) of this section, or has submitted data that are inaccurate, unusable, or otherwise compromised, CMS may take one or more of the following remedial actions after providing written notice to the third party intermediary:
 
 (i) Require the third party intermediary to submit a corrective action plan (CAP) by a date specified by CMS. The CAP must address the following issues, unless different or additional information is specified by CMS:
 
@@ -295,17 +266,19 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (i) CMS has grounds to impose remedial action;
 
-(ii) CMS has not received a CAP within the specified time period or the CAP is not accepted by CMS; or
+(ii) CMS has not received a CAP within the specified time-period or the CAP is not accepted by CMS; or
 
 (iii) The third party intermediary fails to correct the deficiencies or data errors by the date specified by CMS.
 
-(3) For purposes of paragraph (f) of this section, CMS may determine that submitted data are inaccurate, unusable, or otherwise compromised, including but not limited to, if the submitted data:
+(3) Contains data inaccuracies affecting the third party intermediary's total clinicians may lead to remedial action/termination of the third party intermediary for future program year(s) based on CMS discretion.
 
-(i) Includes, without limitation, TIN/NPI mismatches, formatting issues, calculation errors, or data audit discrepancies; and
+(4) For purposes of this paragraph (e), CMS may determine that submitted data are inaccurate, unusable, or otherwise compromised, including but not limited to, if the submitted data:
 
-(ii) Affects more than 3 percent of the total number of MIPS eligible clinicians or group for which data was submitted by the third party intermediary.
+(i) Includes, without limitation, TIN/NPI mismatches, formatting issues, calculation errors, or data audit discrepancies.
 
-(g) *Auditing of entities submitting MIPS data.* Any third party intermediary must comply with the following procedures as a condition of its qualification and approval to participate in MIPS as a third party intermediary.
+(ii) [Reserved]
+
+(f) *Auditing of entities submitting MIPS data.* Any third party intermediary must comply with the following procedures as a condition of its qualification and approval to participate in MIPS as a third party intermediary.
 
 (1) The entity must make available to CMS the contact information of each MIPS eligible clinician or group on behalf of whom it submits data. The contact information must include, at a minimum, the MIPS eligible clinician or group's practice phone number, address, and, if available, email.
 
@@ -313,4 +286,4 @@ Link to an amendment published at 86 FR 65677, Nov. 19, 2021.
 
 (3) For the purposes of auditing, CMS may request any records or data retained for the purposes of MIPS for up to 6 years from the end of the MIPS performance period.
 
-[83 FR 60088, Nov. 23, 2018, as amended at 84 FR 63198, Nov. 15, 2019; 85 FR 27623, May 8, 2020; 85 FR 85033, Dec. 28, 2020; 86 FR 9472, Feb. 16, 2021]
+[86 FR 65677, Nov. 19, 2021]

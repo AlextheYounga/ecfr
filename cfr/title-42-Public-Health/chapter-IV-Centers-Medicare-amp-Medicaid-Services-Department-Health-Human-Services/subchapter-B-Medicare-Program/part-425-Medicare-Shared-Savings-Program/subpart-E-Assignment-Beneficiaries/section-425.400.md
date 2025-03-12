@@ -1,7 +1,5 @@
 ##### § 425.400 General. #####
 
-Link to an amendment published at 86 FR 65684, Nov. 19, 2021.
-
 (a)(1) *General.* CMS employs the assignment methodology described in § 425.402 and § 425.404 for purposes of benchmarking, preliminary prospective assignment (including quarterly updates), retrospective reconciliation, and prospective assignment.
 
 (i) A Medicare fee-for-service beneficiary is assigned to an ACO if the -
@@ -144,7 +142,9 @@ Link to an amendment published at 86 FR 65684, Nov. 19, 2021.
 
 (*7*) G0443 (code for alcohol misuse counseling service).
 
-(v) For the performance year starting on January 1, 2021, and subsequent performance years as follows:
+(v) For the performance year starting on January 1, 2021:
+
+(vi) For the performance year starting on January 1, 2022, and subsequent performance years as follows:
 
 (A) CPT codes:
 
@@ -158,21 +158,23 @@ Link to an amendment published at 86 FR 65684, Nov. 19, 2021.
 
 (*5*) 99341 through 99350 (codes for evaluation and management services furnished in a patient's home for claims identified by place of service modifier 12).
 
-(*6*) 99354 and 99355 (add-on codes, for prolonged evaluation and management or psychotherapy services beyond the typical service time of the primary procedure; when the base code is also a primary care service code under this paragraph (c)(1)(v)).
+(*6*) 99354 and 99355 (add-on codes, for prolonged evaluation and management or psychotherapy services beyond the typical service time of the primary procedure; when the base code is also a primary care service code under this paragraph (c)(1)(vi)).
 
 (*7*) 99421, 99422, and 99423 (codes for online digital evaluation and management).
 
-(*8*) 99439 (code for non-complex chronic care management).
+(*8*) 99424, 99425, 99426, and 99427 (codes for principal care management services).
 
-(*9*) 99483 (code for assessment of and care planning for patients with cognitive impairment).
+(*9*) 99437, 99487, 99489, 99490 and 99491 (codes for chronic care management).
 
-(*10*) 99484, 99492, 99493 and 99494 (codes for behavioral health integration services).
+(*10*) 99439 (code for non-complex chronic care management).
 
-(*11*) 99487, 99489, 99490 and 99491 (codes for chronic care management).
+(*11*) 99483 (code for assessment of and care planning for patients with cognitive impairment).
 
-(*12*) 99495 and 99496 (codes for transitional care management services).
+(*12*) 99484, 99492, 99493 and 99494 (codes for behavioral health integration services).
 
-(*13*) 99497 and 99498 (codes for advance care planning; services identified by these codes furnished in an inpatient setting are excluded).
+(*13*) 99495 and 99496 (codes for transitional care management services).
+
+(*14*) 99497 and 99498 (codes for advance care planning; services identified by these codes furnished in an inpatient setting are excluded).
 
 (B) HCPCS codes:
 
@@ -192,21 +194,25 @@ Link to an amendment published at 86 FR 65684, Nov. 19, 2021.
 
 (*8*) G2010 (code for the remote evaluation of patient video/images).
 
-(*9*) G2012 (code for virtual check-in).
+(*9*) G2012 and G2252 (codes for virtual check-in).
 
 (*10*) G2058 (code for non-complex chronic care management).
 
 (*11*) G2064 and G2065 (codes for principal care management services).
 
-(*12*) G2214 (code for psychiatric collaborative care model).
+(*12*) G2212 (code for prolonged office or other outpatient visit for the evaluation and management of a patient).
 
-(2)(i) When the assignment window (as defined in § 425.20) for a benchmark or performance year includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter, in determining beneficiary assignment, we use the primary care service codes identified in paragraph (c)(1) of this section, and additional primary care service codes as follows:
+(*13*) G2214 (code for psychiatric collaborative care model).
+
+(C) Primary care service codes include any CPT code identified by CMS that directly replaces a CPT code specified in paragraph (c)(1)(vi)(A) of this section or a HCPCS code specified in paragraph (c)(1)(vi)(B) of this section, when the assignment window (as defined in § 425.20) for a benchmark or performance year includes any day on or after the effective date of the replacement code for payment purposes under FFS Medicare.
+
+(2)(i) Except as otherwise specified in paragraph (c)(2)(i)(A)(2) of this section, when the assignment window (as defined in § 425.20) for a benchmark or performance year includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter, in determining beneficiary assignment, we use the primary care service codes identified in paragraph (c)(1) of this section, and additional primary care service codes as follows:
 
 (A) CPT codes:
 
 (*1*) 99421, 99422, and 99423 (codes for online digital evaluation and management services).
 
-(*2*) 99441, 99442, and 99443 (codes for telephone evaluation and management services).
+(*2*) 99441, 99442, and 99443 (codes for telephone evaluation and management services). These codes are used in determining beneficiary assignment as specified in paragraphs (c)(2)(i) and (ii) of this section and until they are no longer payable under Medicare fee-for-service payment policies as specified under section 1834(m) of the Act and §§ 410.78 and 414.65 of this subchapter.
 
 (B) HCPCS codes:
 
@@ -214,6 +220,6 @@ Link to an amendment published at 86 FR 65684, Nov. 19, 2021.
 
 (*2*) G2012 (code for virtual check-in).
 
-(ii) The additional primary care service codes specified in paragraph (c)(2)(i) of this section are applicable to all months of the assignment window (as defined in § 425.20), when the assignment window includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter.
+(ii) Except as otherwise specified in paragraph (c)(2)(i)(A)(2) of this section, the additional primary care service codes specified in paragraph (c)(2)(i) of this section are applicable to all months of the assignment window (as defined in § 425.20), when the assignment window includes any month(s) during the COVID-19 Public Health Emergency defined in § 400.200 of this chapter.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85040, Dec. 28, 2020]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018; 83 FR 68069, Dec. 31, 2018; 85 FR 27625, May 8, 2020; 85 FR 85040, Dec. 28, 2020; 86 FR 65684, Nov. 19, 2021]

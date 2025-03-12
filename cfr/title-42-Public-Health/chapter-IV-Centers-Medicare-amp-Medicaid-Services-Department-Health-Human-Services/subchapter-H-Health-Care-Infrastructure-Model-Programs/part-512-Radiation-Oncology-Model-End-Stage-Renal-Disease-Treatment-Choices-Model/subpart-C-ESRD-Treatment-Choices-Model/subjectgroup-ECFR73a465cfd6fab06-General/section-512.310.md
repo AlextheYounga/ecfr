@@ -1,12 +1,12 @@
 ##### § 512.310 Definitions. #####
 
-Link to an amendment published at 86 FR 62020, Nov. 8, 2021.
-
 For purposes of this subpart, the following definitions apply.
 
 *Adjusted ESRD PPS per Treatment Base Rate* means the per treatment payment amount as defined in § 413.230 of this chapter, including patient-level adjustments and facility-level adjustments, and excluding any applicable training adjustment, add-on payment amount, outlier payment amount, transitional drug add-on payment adjustment (TDAPA) amount, and transitional add-on payment adjustment for new and innovative equipment and supplies (TPNIES) amount.
 
 *Benchmark Year* (BY) means the 12-month period that begins 18 months prior to the start of a given measurement year (MY) from which data are used to construct benchmarks against which to score an ETC Participant's achievement and improvement on the home dialysis rate and transplant rate for the purpose of calculating the ETC Participant's MPS.
+
+*Clinical staff* means a licensed social worker or registered dietician/nutrition professional who furnishes services for which payment may be made under the physician fee schedule under the direction of and incident to the services of the Managing Clinician who is an ETC Participant.
 
 *Clinician Home Dialysis Payment Adjustment (Clinician HDPA)* means the payment adjustment to the MCP for a Managing Clinician who is an ETC Participant, for the Managing Clinician's home dialysis claims, as described in §§ 512.345 and 512.350.
 
@@ -18,7 +18,7 @@ For purposes of this subpart, the following definitions apply.
 
 (1) Is receiving dialysis or other services for end-stage renal disease, up to and including the month in which the beneficiary receives a kidney transplant up to and including the month in which the beneficiary receives a kidney transplant.
 
-(2) Has already received a kidney transplant and has a non-AKI dialysis or MCP claim -
+(2) Has already received a kidney transplant and has a non-AKI dialysis or MCP claim—
 
 (i) At least 12 months after the beneficiary's latest transplant date; or
 
@@ -31,6 +31,8 @@ For purposes of this subpart, the following definitions apply.
 *Facility Home Dialysis Payment Adjustment (Facility HDPA)* means the payment adjustment to the Adjusted ESRD PPS per Treatment Base Rate for an ESRD facility that is an ETC Participant for the ESRD facility's home dialysis claims, as described in §§ 512.340 and 512.350.
 
 *Facility Performance Payment Adjustment (Facility PPA)* means the payment adjustment to the Adjusted ESRD PPS per treatment base rate for an ESRD facility that is an ETC Participant based on the ESRD facility's MPS, as described in §§ 512.375(a) and 512.380.
+
+*Health Equity Incentive* means the amount added to the ETC Participant's improvement score, calculated as described in § 512.370(c)(1), if the ETC Participant's aggregation group demonstrated sufficient improvement on the home dialysis rate or transplant rate for attributed beneficiaries who are dual eligible or Medicare Low Income Subsidy (LIS) recipients between the Benchmark Year and the MY.
 
 *Home Dialysis Payment Adjustment (HDPA)* means either the Facility HDPA or the Clinician HDPA.
 
@@ -60,6 +62,8 @@ For purposes of this subpart, the following definitions apply.
 
 *Pre-emptive LDT Beneficiary* means a beneficiary who received a kidney transplant from a living donor prior to beginning dialysis.
 
+*Qualified staff* means both clinical staff and any qualified person (as defined at § 410.48(a) of this chapter) who is an ETC Participant.
+
 *Selected Geographic Area(s)* are those HRRs selected by CMS pursuant to § 512.325(b) for purposes of selecting ESRD facilities and Managing Clinicians required to participate in the ETC Model as ETC Participants.
 
 *Subsidiary ESRD facility* is an ESRD facility owned in whole or in part by another legal entity.
@@ -69,3 +73,5 @@ For purposes of this subpart, the following definitions apply.
 *Transplant rate* means the sum of the transplant waitlist rate and the living donor transplant rate, as described in § 512.365(c).
 
 *Transplant waitlist rate* means the rate of ESRD Beneficiaries attributed to the ETC Participant who were on the kidney transplant waitlist during the MY, as described in § 512.365(c)(1)(i)-(ii) and § 512.365(c)(2)(i)-(ii).
+
+[85 FR 61362, Sept. 29, 2020, as amended at 86 FR 62020, Nov. 8, 2021]

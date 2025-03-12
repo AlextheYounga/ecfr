@@ -1,7 +1,5 @@
 ##### § 414.1450 APM incentive payment. #####
 
-Link to an amendment published at 86 FR 65681, Nov. 19, 2021.
-
 (a) *In general.* (1) CMS makes a lump sum payment to QPs in the amount described in paragraph (b) of this section in the manner described in paragraphs (d) and (e) of this section.
 
 (2) CMS provides notice of the amount of the APM Incentive Payment to QPs as soon as practicable following the calculation and validation of the APM Incentive Payment amount, but in any event no later than 1 year after the incentive payment base period.
@@ -30,7 +28,7 @@ Link to an amendment published at 86 FR 65681, Nov. 19, 2021.
 
 (8) For payment amounts that are affected by a cash flow mechanism, the payment amounts that would have occurred if the cash flow mechanism were not in place are used in calculating the APM Incentive Payment amount.
 
-(c) *APM Incentive Payment recipient.* CMS will pay the APM Incentive Payment amount for a payment year to a solvent TIN or TINs associated with the QP identified at a specific step in the following hierarchy. If no TIN or TINs with which the QP has an association can be identified at a step, CMS will move to the next and successive steps listed in paragraphs (c)(1) through (8) of this section until CMS identifies a TIN or TINs with which the QP is associated, and to which CMS will make the APM Incentive Payment.
+(c) *APM Incentive Payment recipient.* CMS will pay the APM Incentive Payment amount for a payment year to a solvent TIN or TINs associated with the QP, identified based on Medicare Part B claims submitted for covered professional services during the base period or payment year, according to this section. If no TIN or TINs with which the QP has an association can be identified at a step, CMS will move to the next and successive steps listed in paragraphs (c)(1) through (8) of this section until CMS identifies a TIN or TINs with which the QP is associated, and to which CMS will make the APM Incentive Payment. If more than one TIN is identified at a step, the payment will be proportionately divided among the TINs according to the relative total paid amounts for Part B covered professional services paid to each TIN for services provided during the base year.
 
 (1) Any TIN associated with the QP that, during the QP Performance Period, is associated with an APM Entity through which the eligible clinician achieved QP status;
 
@@ -56,4 +54,4 @@ Link to an amendment published at 86 FR 65681, Nov. 19, 2021.
 
 (f) *Treatment of APM Incentive Payment for other Medicare incentive payments and payment adjustments.* APM Incentive Payments made under this section will not be included in determining the amount of incentive payment made to eligible clinicians under section 1833(m), (x), and (y) of the Act.
 
-[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020]
+[81 FR 77537, Nov. 4, 2016, as amended at 85 FR 85035, Dec. 28, 2020; 86 FR 65681, Nov. 19, 2021]

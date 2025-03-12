@@ -1,7 +1,5 @@
 ##### § 424.205 Requirements for Medicare Diabetes Prevention Program suppliers. #####
 
-Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
-
 (a) *Definitions.* In addition to the definitions specified at § 410.79(b) and § 414.84(a) of this subchapter, the following definitions apply to this section:
 
 *Administrative location* means a physical location associated with the MDPP supplier's operations where they are the primary operator in the space, from where coaches are dispatched or based, and where MDPP services may or may not be furnished.
@@ -34,9 +32,11 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (4) Maintains, and submits to CMS through the CMS-approved enrollment application, a roster of all coaches who will be furnishing MDPP services on the entity's behalf that includes each coach's first and last names, middle initial (if applicable), date of birth, Social Security Number (SSN), active and valid NPI, coach eligibility start date, and coach eligibility end date (if applicable). This roster must be updated in accordance with paragraph (d)(5) of this section.
 
-(5) Meets and certifies in its CMS-approved enrollment application that it meets and will continue to meet the supplier enrollment standards described in paragraph (d) of this section.
+(5) The Medicare provider enrollment application fee does not apply to all Medicare Diabetes Prevention Program (MDPP) suppliers that submit an enrollment application on or after January 1, 2022.
 
-(6) Revalidates its Medicare enrollment every 5 years after the effective date of enrollment.
+(6) Meets and certifies in its CMS-approved enrollment application that it meets and will continue to meet the supplier enrollment standards described in paragraph (d) of this section.
+
+(7) Revalidates its Medicare enrollment every 5 years after the effective date of enrollment.
 
 (c) *MDPP preliminary recognition.* For the purposes of this section, an MDPP preliminary recognition may include either:
 
@@ -46,7 +46,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (i) *MDPP interim preliminary recognition application period.* Entities may apply to CDC for CMS' MDPP interim preliminary by submitting information at the time and in the form and manner specified by CMS.
 
-(ii) *MDPP Interim preliminary recognition requirements.* An entity may qualify for MDPP interim preliminary recognition if -
+(ii) *MDPP Interim preliminary recognition requirements.* An entity may qualify for MDPP interim preliminary recognition if—
 
 (A) The entity has pending CDC recognition.
 
@@ -114,7 +114,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (15) The MDPP supplier must allow CMS or its agents to conduct onsite inspections or recordkeeping reviews in order to ascertain the MDPP supplier's compliance with these standards, and must adhere to the documentation requirements as outlined in paragraph (g) of this section.
 
-(e) *Coach eligibility* - (1) *Criteria.* To furnish MDPP services to a beneficiary, an MDPP coach must not:
+(e) *Coach eligibility*—(1) *Criteria.* To furnish MDPP services to a beneficiary, an MDPP coach must not:
 
 (i) Currently have Medicare billing privileges revoked and be currently subject to the reenrollment bar.
 
@@ -136,9 +136,9 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (2) *CMS determination of coach eligibility.* CMS will screen each individual identified on the roster of coaches included with the supplier's enrollment application described in paragraph (b)(4) of this section and updated in accordance with paragraph (d)(5) of this section to verify that the individual coach does not meet any of the conditions specified in paragraph (e)(1) of this section and that the coach can provide MDPP services on behalf of an MDPP supplier. For each individual coach successfully screened by CMS, his or her eligibility start date becomes effective and remains effective until an MDPP supplier or CMS takes action that results in an eligibility end date.
 
-(f) *Effective date for billing privileges.* (1) For MDPP suppliers initially enrolling and for newly established administrative locations that result in a new enrollment record or Provider Transaction Access Number, the effective date for Medicare billing privileges for MDPP suppliers is -
+(f) *Effective date for billing privileges.* (1) For MDPP suppliers initially enrolling and for newly established administrative locations that result in a new enrollment record or Provider Transaction Access Number, the effective date for Medicare billing privileges for MDPP suppliers is—
 
-(i) The later of -
+(i) The later of—
 
 (A) The date of filing of a Medicare enrollment application that was subsequently approved by a Medicare contractor;
 
@@ -176,7 +176,7 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 
 (4) An MDPP supplier is required to maintain and handle any beneficiary information related to MDPP, including Personally Identifiable Information (PII) and Protected Health Information (PHI), as would be required under HIPAA, other applicable state and federal privacy laws, and CMS standards.
 
-(5) The MDPP supplier's records must include an attestation from the MDPP supplier that, as applicable, the MDPP beneficiary for which it is submitting a claim -
+(5) The MDPP supplier's records must include an attestation from the MDPP supplier that, as applicable, the MDPP beneficiary for which it is submitting a claim—
 
 (i) Has attended their first, fourth or ninth core session, as applicable, if the claim submitted is for a performance payment under § 414.84(b)(1), (2), or (3) of this chapter.
 
@@ -225,3 +225,5 @@ Link to an amendment published at 86 FR 65682, Nov. 19, 2021.
 (*3*) A revoked MDPP supplier must, within 60 calendar days after the effective date of revocation, submit all claims for items and services furnished before the date of the revocation letter.
 
 (2) An MDPP supplier may appeal an enrollment denial or revocation decision in accordance with the procedures specified in part 498 of this chapter. References to suppliers in that section apply to MDPP suppliers.
+
+[82 FR 53364, Nov. 15, 2017,as amended at 86 FR 65682, Nov. 19, 2021]

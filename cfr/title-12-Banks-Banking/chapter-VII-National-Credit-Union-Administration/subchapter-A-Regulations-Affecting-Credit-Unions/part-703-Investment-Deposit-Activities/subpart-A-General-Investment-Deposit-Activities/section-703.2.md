@@ -1,6 +1,6 @@
 ##### § 703.2 Definitions. #####
 
-Link to an amendment published at 86 FR 72806, Dec. 23, 2021.Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
+Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
 
 *The following definitions apply to this part:*
 
@@ -64,7 +64,7 @@ Link to an amendment published at 86 FR 72806, Dec. 23, 2021.Link to an amendmen
 
 *Negotiable instrument* means an instrument that may be freely transferred from the purchaser to another person or entity by delivery, or endorsement and delivery, with full legal title becoming vested in the transferee.
 
-*Net worth* means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2(f) of this chapter.
+*Net worth* means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2 of this chapter.
 
 *Official* means any member of a Federal credit union's board of directors, credit committee, supervisory committee, or investment-related committee.
 
@@ -102,4 +102,4 @@ Link to an amendment published at 86 FR 72806, Dec. 23, 2021.Link to an amendmen
 
 *Zero coupon investment* means an investment that makes no periodic interest payments but instead is sold at a discount from its face value. The holder of a zero coupon investment realizes the rate of return through the gradual appreciation of the investment, which is redeemed at face value on a specified maturity date.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019; 86 FR 28247, May 26, 2021]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 77 FR 74109, Dec. 13, 2012; 79 FR 5241, Jan. 31, 2014; 84 FR 1606, Feb. 5, 2019; 86 FR 28247, May 26, 2021; 86 FR 72806, Dec. 23, 2021]

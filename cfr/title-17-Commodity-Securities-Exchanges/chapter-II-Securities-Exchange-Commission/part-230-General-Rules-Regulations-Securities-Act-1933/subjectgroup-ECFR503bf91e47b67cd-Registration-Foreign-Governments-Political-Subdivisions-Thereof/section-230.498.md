@@ -1,7 +1,5 @@
 ##### § 230.498 Summary Prospectuses for open-end management investment companies. #####
 
-Link to an amendment published at 83 FR 29204, June 22, 2018.
-
 (a) *Definitions.* For purposes of this section:
 
 (1) *Class* means a class of shares issued by a Fund that has more than one class that represent interests in the same portfolio of securities under § 270.18f-3 of this chapter or under an order exempting the Fund from sections 18(f), 18(g), and 18(i) of the Investment Company Act (15 U.S.C. 80a-18(f), 80a-18(g), and 80a-18(i)).
@@ -39,14 +37,6 @@ Before you invest, you may want to review the Fund's prospectus, which contains 
 (B) If a Fund incorporates any information by reference into the Summary Prospectus, the legend must identify the type of document (*e.g.,* Statutory Prospectus) from which the information is incorporated and the date of the document. If a Fund incorporates by reference a part of a document, the legend must clearly identify the part by page, paragraph, caption, or otherwise. If information is incorporated from a source other than the Statutory Prospectus, the legend must explain that the incorporated information may be obtained, free of charge, in the same manner as the Statutory Prospectus. A Fund may modify the legend to include a statement to the effect that the Summary Prospectus is intended for use in connection with a defined contribution plan that meets the requirements for qualification under section 401(k) of the Internal Revenue Code (26 U.S.C. 401(k)), a tax-deferred arrangement under section 403(b) or 457 of the Internal Revenue Code (26 U.S.C. 403(b) or 457), or a variable contract as defined in section 817(d) of the Internal Revenue Code (26 U.S.C. 817(d)), as applicable, and is not intended for use by other investors.
 
 (vi) The Summary Prospectus may provide instructions describing how a shareholder can elect to receive prospectuses or other documents and communications by electronic delivery.
-
-(vii) A statement to the following effect, if applicable:
-
-Beginning on [date], as permitted by regulations adopted by the Securities and Exchange Commission, paper copies of the Fund's shareholder reports will no longer be sent by mail, unless you specifically request paper copies of the reports from the Fund [or from your financial intermediary, such as a broker-dealer or bank]. Instead, the reports will be made available on a website, and you will be notified by mail each time a report is posted and provided with a website link to access the report.
-
-If you already elected to receive shareholder reports electronically, you will not be affected by this change and you need not take any action. You may elect to receive shareholder reports and other communications from the Fund [or your financial intermediary] electronically by [insert instructions].
-
-You may elect to receive all future reports in paper free of charge. You can inform the Fund [or your financial intermediary] that you wish to continue receiving paper copies of your shareholder reports by [insert instructions]. Your election to receive reports in paper will apply to all funds held with [the fund complex/your financial intermediary].
 
 (2) *Contents of the Summary Prospectus.* Except as otherwise provided in this paragraph (b), provide the information required or permitted by Items 2 through 8 of Form N-1A, and only that information, in the order required by the form. A Summary Prospectus may omit the explanation and information required by Instruction 2(c) to Item 4(b)(2) of Form N-1A.
 

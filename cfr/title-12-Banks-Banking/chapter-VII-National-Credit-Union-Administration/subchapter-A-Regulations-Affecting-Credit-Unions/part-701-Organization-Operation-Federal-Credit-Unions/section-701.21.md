@@ -1,10 +1,8 @@
 ##### § 701.21 Loans to members and lines of credit to members. #####
 
-Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018. This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.
-
 (a) *Statement of scope and purpose.* Section 701.21 complements the provisions of section 107(5) of the Federal Credit Union Act (12 U.S.C. 1757(5)) authorizing Federal credit unions to make loans to members and issue lines of credit (including credit cards) to members. Section 107(5) of the Act contains limitations on matters such as loan maturity, rate of interest, security, and prepayment penalties. Section 701.21 interprets and implements those provisions. In addition, § 701.21 states the NCUA Board's intent concerning preemption of state laws, and expands the authority of Federal credit unions to enforce due-on-sale clauses in real property loans. Also, while § 701.21 generally applies to Federal credit unions only, certain provisions apply to loans made by federally insured, state-chartered credit unions as specified in § 741.203 of this chapter. Part 722 of this chapter sets forth requirements for appraisals for certain real estate secured loans made under § 701.21 and any other applicable lending authority. Finally, it is noted that § 701.21 does not apply to loans by Federal credit unions to other credit unions (although certain statutory limitations in section 107 of the Act apply), nor to loans to credit union organizations which are governed by section 107(5)(D) of the Act and part 712 of this chapter.
 
-(b) *Relation to other laws* - (1) *Preemption of state laws.* Section 701.21 is promulgated pursuant to the NCUA Board's exclusive authority as set forth in section 107(5) of the Federal Credit Union Act (12 U.S.C 1757(5)) to regulate the rates, terms of repayment and other conditions of Federal credit union loans and lines of credit (including credit cards) to members. This exercise of the Board's authority preempts any state law purporting to limit or affect:
+(b) *Relation to other laws*—(1) *Preemption of state laws.* Section 701.21 is promulgated pursuant to the NCUA Board's exclusive authority as set forth in section 107(5) of the Federal Credit Union Act (12 U.S.C 1757(5)) to regulate the rates, terms of repayment and other conditions of Federal credit union loans and lines of credit (including credit cards) to members. This exercise of the Board's authority preempts any state law purporting to limit or affect:
 
 (i)(A) Rates of interest and amounts of finance charges, including:
 
@@ -62,13 +60,13 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (5) *Definition of State law.* For purposes of paragraph (b) of this section “state law” means the constitution, laws, regulations and judicial decisions of any state, the District of Columbia, the several territories and possessions of the United States, and the Commonwealth of Puerto Rico.
 
-(c) *General rules* - (1) *Scope.* The following general rules apply to all loans to members and, where indicated, all lines of credit (including credit cards) to members, except as otherwise provided in the remaining provisions of § 701.21.
+(c) *General rules*—(1) *Scope.* The following general rules apply to all loans to members and, where indicated, all lines of credit (including credit cards) to members, except as otherwise provided in the remaining provisions of § 701.21.
 
 (2) *Written policies.* The board of directors of each Federal credit union shall establish written policies for loans and lines of credit consistent with the relevant provisions of the Act, NCUA's regulations, and other applicable laws and regulations.
 
 (3) *Credit applications and overdrafts.* Consistent with policies established by the board of directors, the credit committee or loan officer shall ensure that a credit application is kept on file for each borrower supporting the decision to make a loan or establish a line of credit. A credit union may advance money to a member to cover an account deficit without having a credit application from the borrower on file if the credit union has a written overdraft policy. The policy must: set a cap on the total dollar amount of all overdrafts the credit union will honor consistent with the credit union's ability to absorb losses; establish a time limit not to exceed forty-five calendar days for a member either to deposit funds or obtain an approved loan from the credit union to cover each overdraft; limit the dollar amount of overdrafts the credit union will honor per member; and establish the fee and interest rate, if any, the credit union will charge members for honoring overdrafts.
 
-(4) *Maturity* - (i) *In general.* The maturity of a loan to a member may not exceed 15 years. Lines of credit are not subject to a statutory or regulatory maturity limit. Amortization of line of credit balances and the type and amount of security on any line of credit shall be as determined by contract between the Federal credit union and the member/borrower. In the case of a lending action that qualifies as a “new loan” under GAAP, the new loan's maturity is calculated from the new date of origination.
+(4) *Maturity*—(i) *In general.* The maturity of a loan to a member may not exceed 15 years. Lines of credit are not subject to a statutory or regulatory maturity limit. Amortization of line of credit balances and the type and amount of security on any line of credit shall be as determined by contract between the Federal credit union and the member/borrower. In the case of a lending action that qualifies as a “new loan” under GAAP, the new loan's maturity is calculated from the new date of origination.
 
 (ii) *Exceptions.* Notwithstanding the general 15-year maturity limit on loans to members, a federal credit union may make loans with maturities:
 
@@ -82,7 +80,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (6) *Early payment.* A member may repay a loan, or outstanding balance on a line of credit, prior to maturity in whole or in part on any business day without penalty.
 
-(7) *Loan interest rates* - (i) *General.* Except when the Board establishes a higher maximum rate, federal credit unions may not extend credit to members at rates exceeding 15 percent per year on the unpaid balance inclusive of all finance charges. Federal credit unions may use variable rates of interest but only if the effective rate over the term of a loan or line of credit does not exceed the maximum permissible rate.
+(7) *Loan interest rates*—(i) *General.* Except when the Board establishes a higher maximum rate, federal credit unions may not extend credit to members at rates exceeding 15 percent per year on the unpaid balance inclusive of all finance charges. Federal credit unions may use variable rates of interest but only if the effective rate over the term of a loan or line of credit does not exceed the maximum permissible rate.
 
 (ii) *Temporary rates.* (A) At least every 18 months, the Board will determine if federal credit unions may extend credit to members at an interest rate exceeding 15 percent. After consultation with appropriate congressional committees, the Department of Treasury, and other federal financial institution regulatory agencies, the Board may establish a rate exceeding the 15 percent per year rate, if it determines money market interest rates have risen over the preceding six-month period and prevailing interest rate levels threaten the safety and soundness of individual federal credit unions as evidenced by adverse trends in liquidity, capital, earnings, and growth.
 
@@ -90,7 +88,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (C) Federal credit unions may continue to charge rates exceeding the established maximum rate only on existing loans or lines of credit made before the effective date of any lowering of the maximum rate.
 
-(iii) *Payday alternative loans (PALs I)* - (A) *Minimum requirements for PALs I.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
+(iii) *Payday alternative loans (PALs I)*—(A) *Minimum requirements for PALs I.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
 
 (*1*) The principal of the payday alternative loan is not less than $200 or more than $1,000;
 
@@ -116,7 +114,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (*3*) *Risk avoidance.* Federal credit unions should consider risk avoidance strategies, including requiring members to participate in direct deposit and conducting a thorough evaluation of the federal credit union's resources and ability to engage in a payday alternative loan program.
 
-(iv) *Payday alternative loans (PALs II)* - (A) *Minimum requirements for PALs II.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
+(iv) *Payday alternative loans (PALs II)*—(A) *Minimum requirements for PALs II.* Notwithstanding any other provision of this section, a federal credit union may charge an interest rate that is 1000 basis points above the maximum interest rate established by the Board under paragraph (c)(7)(ii) of this section provided the federal credit union is offering closed-end credit, as defined in § 1026.2(a)(10) of this title, in accordance with the following conditions:
 
 (*1*) The principal of the payday alternative loan is not more than $2,000;
 
@@ -170,7 +168,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (D) Receipt of compensation from a person outside a Federal credit union by a volunteer official or non-senior-management employee of the credit union, or an immediate family member of a volunteer official or employee of the credit union, for a service or activity performed outside the credit union, provided that no referral has been made by the credit union or the official, employee, or family member.
 
-(d) *Loans and lines of credit to officials* - (1) *Purpose.* Sections 107(5)(A) (iv) and (v) of the Act require the approval of the board of directors of the Federal credit union in any case where the aggregate of loans to an official and loans on which the official serves as endorser or guarantor exceeds $20,000 plus pledged shares. This paragraph implements the requirement by establishing procedures for determining whether board of directors's approval is required. The section also prohibits preferential treatment of officials.
+(d) *Loans and lines of credit to officials*—(1) *Purpose.* Sections 107(5)(A) (iv) and (v) of the Act require the approval of the board of directors of the Federal credit union in any case where the aggregate of loans to an official and loans on which the official serves as endorser or guarantor exceeds $20,000 plus pledged shares. This paragraph implements the requirement by establishing procedures for determining whether board of directors's approval is required. The section also prohibits preferential treatment of officials.
 
 (2) *Official.* An “official” is any member of the board of directors, credit committee or supervisory committee.
 
@@ -192,7 +190,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (B) The amount of shares to be pledged by the official on the loan or line of credit applied for.
 
-(5) *Nonpreferential treatment.* The rates, terms and conditions on any loan or line of credit either made to, or endorsed or guaranteed by -
+(5) *Nonpreferential treatment.* The rates, terms and conditions on any loan or line of credit either made to, or endorsed or guaranteed by—
 
 (i) An official,
 
@@ -214,7 +212,7 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (3) Notwithstanding the general 20-year maturity limit on second mortgage loans, a federal credit union participating in the Department of the Treasury's Making Home Affordable Program may extend the term of a modified second mortgage to match the term of a modified first mortgage, in accordance with applicable program guidelines.
 
-(g) *Long-Term Mortgage Loans* - (1) *Authority.* Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a federal credit union may make residential real estate loans to members, including loans secured by manufactured homes permanently affixed to the land, with maturities of up to 40 years, or such longer period as may be permitted by the NCUA Board on a case-by-case basis, subject to the conditions of this paragraph (g).
+(g) *Long-Term Mortgage Loans*—(1) *Authority.* Notwithstanding the general 15-year maturity limit on loans to members in paragraph (c)(4) of this section, a federal credit union may make residential real estate loans to members, including loans secured by manufactured homes permanently affixed to the land, with maturities of up to 40 years, or such longer period as may be permitted by the NCUA Board on a case-by-case basis, subject to the conditions of this paragraph (g).
 
 (2) *Statutory limits.* The loan shall be made on a one to four family dwelling that is or will be the principal residence of the member-borrower and the loan shall be secured by a perfected first lien in favor of the credit union on such dwelling (or a perfected first security interest in the case of either a residential cooperative or a leasehold or ground rent estate).
 
@@ -288,6 +286,6 @@ Link to an amendment published at 80 FR 66706, Oct. 29, 2015.This amendment was 
 
 (B) Loans in which neither the third-party servicer nor any of its affiliates are involved in the origination, underwriting, or insuring of the loan or the process by which the credit union acquires its interest in the loan.
 
-(iv) The term “net worth” means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2(f) of this chapter.
+(iv) The term “net worth” means the retained earnings balance of the credit union at quarter end as determined under generally accepted accounting principles and as further defined in § 702.2 of this chapter.
 
 [49 FR 30685, Aug. 1, 1984]Editorial Note:For Federal Register citations affecting § 701.21, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

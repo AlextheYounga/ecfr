@@ -1,7 +1,5 @@
 ##### § 410.79 Medicare Diabetes Prevention Program expanded model: Conditions of coverage. #####
 
-Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
-
 (a) Medicare Diabetes Prevention Program (MDPP) services will be available beginning on April 1, 2018.
 
 (b) *Definitions.* For purposes of this section, the following definitions apply:
@@ -10,7 +8,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 *CDC-approved DPP curriculum* refers to the content of the core sessions, core maintenance sessions, and ongoing maintenance sessions. The curriculum may be either the CDC-preferred curriculum as designated by the CDC DPRP Standards or an alternative curriculum approved for use in DPP by the CDC.
 
-*Core maintenance session* means an MDPP service that -
+*Core maintenance session* means an MDPP service that—
 
 (i) Is furnished by an MDPP supplier to an MDPP beneficiary during a core maintenance session interval;
 
@@ -20,7 +18,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 *Core maintenance session interval* means one of the two consecutive 3-month time periods during months 7 through 12 of the MDPP services period, during which an MDPP supplier offers an MDPP beneficiary at least one core maintenance session per month.
 
-*Core session* means an MDPP service that -
+*Core session* means an MDPP service that—
 
 (i) Is furnished by an MDPP supplier to an MDPP beneficiary during months 1 through 6 of the MDPP services period;
 
@@ -48,7 +46,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 *National Diabetes Prevention Program (National DPP)* refers to an evidence-based intervention targeted to individuals with pre-diabetes that is furnished in community and health care settings and administered by the Centers for Disease Control and Prevention (CDC).
 
-*Ongoing maintenance session* means an MDPP service that -
+*Ongoing maintenance session* means an MDPP service that—
 
 (i) Is furnished by an MDPP supplier to an MDPP beneficiary during an ongoing maintenance session interval;
 
@@ -64,7 +62,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 *Virtual make-up session* means a make-up session that is not furnished in person and that is furnished in a manner consistent with the DPRP standards for virtual sessions.
 
-(c) Coverage for *MDPP services* - (1) *Beneficiary eligibility.* (i) A Medicare beneficiary is eligible for MDPP services offered during the core services period described in paragraph (c)(2)(i) of this section if the beneficiary meets all of the following criteria:
+(c) Coverage for *MDPP services*—(1) *Beneficiary eligibility.* (i) A Medicare beneficiary is eligible for MDPP services offered during the core services period described in paragraph (c)(2)(i) of this section if the beneficiary meets all of the following criteria:
 
 (A) Is enrolled under Medicare Part B;
 
@@ -80,9 +78,11 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 (ii) An MDPP beneficiary is eligible for the first ongoing maintenance session interval only if the beneficiary:
 
-(A) Attends at least one in-person core maintenance session during the final core maintenance session interval; and
+(A) Starts his or her first core session on or before December 31, 2021;
 
-(B) Achieves or maintains the required minimum weight loss at a minimum of one in-person core maintenance session during the final core maintenance session interval.
+(B) Attends at least one in-person core maintenance session during the final core maintenance session interval; and
+
+(C) Achieves or maintains the required minimum weight loss at a minimum of one in-person core maintenance session during the final core maintenance session interval.
 
 (iii) An MDPP beneficiary is eligible for a subsequent ongoing maintenance session interval only if the beneficiary:
 
@@ -104,7 +104,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 (3) *Limitations on the MDPP services period.*
 
-(i) Except as set forth in paragraph (c)(3)(ii) of this section -
+(i) Except as set forth in paragraph (c)(3)(ii) of this section—
 
 (A) The MDPP services period ends upon completion of the core services period described in paragraph (c)(2)(i) of this section, unless the MDPP beneficiary qualifies for the first ongoing maintenance session interval, in accordance with paragraph (c)(1)(ii) of this section.
 
@@ -186,7 +186,7 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 (B) Beneficiaries who begin the set of MDPP services on or after January 1, 2021 who are in the first 12 months of the set of MDPP services as of the start of an applicable 1135 waiver event, whose in-person sessions are suspended due to the applicable 1135 waiver event, and who elect not to continue with MDPP services virtually, may elect to restart the set of MDPP services at the beginning or may resume with the most recent attendance session of record.
 
-(C) Beneficiaries who began the set of MDPP services on or after January 1, 2021 who are in the second year of the set of MDPP services as of the start of an applicable 1135 waiver event, whose in-person sessions are suspended due to the applicable 1135 waiver event, and who elect not to continue with MDPP services virtually, may restart the ongoing maintenance session interval in which they were participating at the start of the applicable 1135 waiver event or may resume with the most recent attendance session of record.
+(C) Beneficiaries who began the set of MDPP services between January 1, 2021 and December 31, 2021 and who are in the second year of the set of MDPP services as of the start of an applicable 1135 waiver event, whose in-person sessions are suspended due to the applicable 1135 waiver event, and who elect not to continue with MDPP services virtually can elect to attend ongoing maintenance sessions; and may restart the ongoing maintenance session interval in which they were participating at the start of the applicable 1135 waiver event or may resume with the most recent attendance session of record.
 
 (D) Beneficiaries whose in-person sessions are suspended due to the applicable 1135 waiver event who elect to continue with MDPP services virtually, as described in paragraph (e)(2)(i) of this section, are not eligible to restart the set of MDPP services at a later date, but may elect to suspend the virtual set of MDPP services and resume the set of in-person MDPP services with the most recent attendance session of record.
 
@@ -200,4 +200,4 @@ Link to an amendment published at 86 FR 65666, Nov. 19, 2021.
 
 (vi) The minimum weight loss requirements for beneficiary eligibility in the ongoing maintenance session intervals described in paragraphs (c)(1)(ii)(B) and (c)(1)(iii)(B) of this section are waived only for MDPP beneficiaries who were receiving the MDPP set of services prior to January 1, 2021.
 
-[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020; 85 FR 85027, Dec. 28, 2020]
+[81 FR 80552, Nov. 15, 2016; 81 FR 81698, Nov. 18, 2016, as amended at 82 FR 53358, Nov. 15, 2017; 85 FR 19287, Apr. 6, 2020; 85 FR 85027, Dec. 28, 2020; 86 FR 65666, Nov. 19, 2021]

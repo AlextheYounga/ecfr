@@ -1,7 +1,5 @@
 ##### § 414.1325 Data submission requirements. #####
 
-Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
-
 (a) *Applicable performance categories.* (1) Except as provided in paragraph (a)(2) of this section or under § 414.1370, as applicable, individual MIPS eligible clinicians and groups must submit data on measures and activities for the quality, improvement activities, and Promoting Interoperability performance categories in accordance with this section. Except for the Medicare Part B claims submission type, the data may also be submitted on behalf of the individual MIPS eligible clinician or group by a third party intermediary described at § 414.1400.
 
 (2) There are no data submission requirements for:
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (c) *Data submission types for groups.* Groups may submit their MIPS data using:
 
-(1) For the quality performance category, the direct; login and upload; Medicare Part B claims (beginning with the 2021 MIPS payment year, for small practices only); and for the 2019 through 2023 MIPS payment years, CMS Web Interface (for groups consisting of 25 or more eligible clinicians or a third party intermediary submitting on behalf of a group) submission types.
+(1) For the quality performance category, the direct; login and upload; Medicare Part B claims (beginning with the CY 2019 MIPS performance period/2021 MIPS payment year, for small practices only); and CMS Web Interface (for groups consisting of 25 or more eligible clinicians, a third party intermediary submitting on behalf of a group) submission type.
 
 (2) For the improvement activities or Promoting Interoperability performance categories, the direct, login and upload, or login and attest submission types.
 
@@ -30,4 +28,4 @@ Link to an amendment published at 86 FR 65671, Nov. 19, 2021.
 
 (2) For the Medicare Part B claims submission type, data must be submitted on claims with dates of service during the applicable performance period that must be processed no later than 60 days following the close of the applicable performance period.
 
-[83 FR 60078, Nov. 23, 2018, as amended at 85 FR 85031, Dec. 28, 2020]
+[83 FR 60078, Nov. 23, 2018, as amended at 85 FR 85031, Dec. 28, 2020; 86 FR 65671, Nov. 19, 2021]

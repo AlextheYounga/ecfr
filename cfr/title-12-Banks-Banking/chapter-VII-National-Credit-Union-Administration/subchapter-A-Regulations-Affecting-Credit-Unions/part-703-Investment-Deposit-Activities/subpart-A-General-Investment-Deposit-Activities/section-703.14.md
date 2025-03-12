@@ -1,6 +1,6 @@
 ##### § 703.14 Permissible investments. #####
 
-Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was delayed until Jan. 1, 2020, at 83 FR 55467, Nov. 6, 2018.This amendment was further delayed until Jan. 1, 2022, at 84 FR 68781, Dec. 17, 2019.Link to an amendment published at 86 FR 59288, Oct. 27, 2021.Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
+Link to an amendment published at 86 FR 59288, Oct. 27, 2021.Link to an amendment published at 86 FR 72818, Dec. 23, 2021.
 
 (a) *Variable rate investment.* A federal credit union may invest in a variable rate investment, as long as the index is tied to domestic interest rates. Except in the case of Treasury Inflation Protected Securities, the variable rate investment cannot, for example, be tied to foreign currencies, foreign interest rates, domestic or foreign commodity prices, equity prices, or inflation rates. For purposes of this part, the U.S. dollar-denominated London Interbank Offered Rate (LIBOR) is a domestic interest rate.
 
@@ -72,7 +72,7 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was 
 
 (6) A federal credit union must obtain an undivided interest in the securities.
 
-(i) *Zero-coupon investments.* A federal credit union may only purchase a zero-coupon investment with a maturity date that is no greater than 10 years from the related settlement date, unless authorized under § 703.20 or otherwise provided in this paragraph. A federal credit union that received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a net worth classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters or, if subject to a risk-based net worth (RBNW) requirement under part 702 of this chapter, has remained “well capitalized” for the six (6) immediately preceding quarters after applying the applicable RBNW requirement, may purchase a zero-coupon investment with a maturity date that is no greater than 30 years from the related settlement date.
+(i) *Zero-coupon investments.* A federal credit union may only purchase a zero-coupon investment with a maturity date that is no greater than 10 years from the related settlement date, unless authorized under § 703.20 or otherwise provided in this paragraph. A federal credit union that received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a capital classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters may purchase a zero-coupon investment with a maturity date that is no greater than 30 years from the related settlement date.
 
 (j) *Commercial mortgage related security (CMRS).* A federal credit union may purchase a CMRS permitted by Section 107(7)(E) of the Act; and, pursuant to Section 107(15)(B) of the Act, a CMRS of an issuer other than a government-sponsored enterprise enumerated in Section 107(7)(E) of the Act, provided:
 
@@ -82,7 +82,7 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was 
 
 (3) The CMRS's underlying pool of loans contains more than 50 loans with no one loan representing more than 10 percent of the pool; and
 
-(4) The aggregate amount of private label CMRS purchased by the federal credit union does not exceed 25 percent of its net worth, unless authorized under § 703.20 or as otherwise provided in this subparagraph. A federal credit union that has received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a net worth classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters or, if subject to a risk-based net worth (RBNW) requirement under part 702 of this chapter, has remained “well capitalized” for the six (6) immediately preceding quarters after applying the applicable RBNW requirement, may hold private label CMRS in an aggregate amount not to exceed 50% of its net worth.
+(4) The aggregate amount of private label CMRS purchased by the federal credit union does not exceed 25 percent of its net worth, unless authorized under § 703.20 or as otherwise provided in this subparagraph. A federal credit union that has received a composite CAMEL rating of “1” or “2” for the last two (2) full examinations and maintained a capital classification of “well capitalized” under part 702 of this chapter for the six (6) immediately preceding quarters may hold private label CMRS in an aggregate amount not to exceed 50% of its net worth.
 
 (k) *Loan pipeline management.* A Federal credit union may enter into the following transactions related to the management of its loan pipeline:
 
@@ -92,4 +92,4 @@ Link to an amendment published at 80 FR 66722, Oct. 29, 2015.This amendment was 
 
 (l) *Embedded options.* A Federal credit union may enter into embedded options not required under generally accepted accounting principles adopted in the United States (GAAP) to be accounted for separately from the host contract. Embedded options that are required, under GAAP, to be accounted for separately from the host contract, are addressed in § 703.103(b) of this part.
 
-[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 75 FR 64826, Oct. 20, 2010; 77 FR 31991, May 31, 2012; 77 FR 74110, Dec. 13, 2012; 78 FR 13213 Feb. 27, 2013; 79 FR 5241, Jan. 31, 2014; 81 FR 17602, Mar. 30, 2016; 85 FR 62211, Oct. 2, 2020; 86 FR 28247, May 26, 2021]
+[68 FR 32960, June 3, 2003, as amended at 69 FR 39831, July 1, 2004; 71 FR 76124, Dec. 20, 2006; 75 FR 64826, Oct. 20, 2010; 77 FR 31991, May 31, 2012; 77 FR 74110, Dec. 13, 2012; 78 FR 13213 Feb. 27, 2013; 79 FR 5241, Jan. 31, 2014; 80 FR 66722, Oct. 29, 2015; 81 FR 17602, Mar. 30, 2016; 85 FR 62211, Oct. 2, 2020; 86 FR 28247, May 26, 2021]

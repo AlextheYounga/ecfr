@@ -36,8 +36,4 @@
 
 (6) *SOX* means the Sarbanes-Oxley Act of 2002.
 
-(e) *Temporary relief.* (1) Notwithstanding paragraph (a) of this section and for all requirements in this part, with respect to any fiscal year ending in 2021, an insured depository institution's consolidated total assets shall be determined based on the lesser of an insured depository institution's consolidated total assets as of December 31, 2019, or an insured depository institution's consolidated total assets as of the beginning of its fiscal year ending in 2021.
-
-(2) Until December 31, 2021, the FDIC reserves the authority to require an insured depository institution to comply with one or more requirements under this part if the FDIC determines that asset growth was related to a merger or acquisition.
-
-[74 FR 35745, July 20, 2009, as amended at 85 FR 67433, Oct. 23, 2020; 86 FR 66155, Nov. 22, 2021]Effective Date Note:At 86 FR 66155, Nov. 22, 2021, § 363.1 was amended by adding paragraph (e), effective Nov. 22, 2021 through Dec. 31, 2021.
+[74 FR 35745, July 20, 2009, as amended at 85 FR 67433, Oct. 23, 2020; 86 FR 66155, Nov. 22, 2021]

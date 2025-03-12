@@ -1,17 +1,15 @@
-##### § 701.38 Borrowed funds from natural persons. #####
+##### § 701.38 Borrowed funds. #####
 
-Link to an amendment published at 86 FR 11072, Feb. 23, 2021.
+(a) Federal credit unions may borrow funds from any source; provided that:
 
-(a) Federal credit unions may borrow from a natural person, provided:
+(1) The borrowing is evidenced by a written contract, such as a signed promissory note, that sets forth the terms and conditions including, at a minimum, maturity, prepayment, interest rate, method of computation of interest, and method of payment; and
 
-(1) The borrowing is evidenced by a signed promissory note which sets forth the terms and conditions regarding maturity, prepayment, interest rate, method of computation, and method of payment;
+(2) The written contract and any solicitation with respect to such borrowing contain clear and conspicuous language indicating that:
 
-(2) The promissory note and any advertisement for such funds contains conspicuous langauge indicating that:
+(i) The funds represent money borrowed by the Federal credit union; and
 
-(i) The note represents money borrowed by the credit union;
+(ii) The funds do not represent shares and, therefore, are not insured by the National Credit Union Administration.
 
-(ii) The note does not represent shares and, therefore, is *not* insured by the National Credit Union Share Insurance Fund.
+(b) A Federal credit union is subject to the maximum borrowing authority of an aggregate amount not exceeding 50 percent of its paid-in and unimpaired capital and surplus. Provided that any Federal credit union may discount with or sell to any Federal intermediate credit bank any eligible obligations up to the amount of its paid-in and unimpaired capital (12 U.S.C. 1757(9)).
 
-(b) Federal credit unions must comply with the maximum borrowing authority of § 741.2 of this chapter.
-
-[45 FR 29271, May 2, 1980, as amended at 47 FR 17979, Apr. 27, 1982; 72 FR 30246, May 31, 2007]
+[86 FR 11072, Feb. 23, 2021]

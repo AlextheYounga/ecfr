@@ -1,0 +1,3 @@
+##### § 1635.5 Who outside the recipient has access to these records? #####
+
+Recipients must make time records required by this section available for examination by auditors and representatives of LSC, and by any other person or entity statutorily entitled to access to such records. LSC shall not disclose any time record except to a Federal, State, or local law enforcement official or to an official of an appropriate bar association to enable such bar association official to investigate of an alleged violation of the rules of professional conduct.

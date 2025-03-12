@@ -1,8 +1,6 @@
 ##### § 620.3 Accuracy of reports and assessment of internal control over financial reporting. #####
 
-Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
-(a) *Prohibition against incomplete, inaccurate, or misleading disclosures.* No institution and no employee, officer, director, or nominee for director of the institution shall make any disclosure to shareholders or the general public concerning any matter required to be disclosed by this part that is incomplete, inaccurate, or misleading. When any such person makes disclosure that, in the judgment of the Farm Credit Administration, is incomplete, inaccurate, or misleading, whether or not such disclosure is made in disclosure statements required by this part, such institution or person shall make such additional or corrective disclosure as is necessary to provide shareholders and the general public with a full and fair disclosure.
+(a) *Prohibition against incomplete, inaccurate, or misleading disclosures.* No institution and no employee, officer, director, or nominee for director of the institution shall make any disclosure to shareholders or the general public concerning any matter required to be disclosed by this part that is incomplete, inaccurate, or misleading. When any such person makes disclosure that, in the judgment of the Farm Credit Administration, is incomplete, inaccurate, or misleading, whether or not such disclosure is made in disclosure statements required by this part, such institution or person shall make such additional or corrective disclosure as is necessary to provide shareholders and the general public with a full and fair disclosure. Unless otherwise determined by the Farm Credit Administration (FCA), the appropriate use of the limited disclosure authorized by § 628.62(c) of this chapter does not create an incomplete disclosure.
 
 (b) *Signatures.* The name and position title of each person signing the report must be printed beneath his or her signature. If any person required to sign the report has not signed the report, the name and position title of the individual and the reason(s) such individual is unable or refuses to sign must be disclosed in the report. All reports must be dated and signed on behalf of the institution by:
 
@@ -18,8 +16,8 @@ Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was m
 
 (2) The report has been prepared in accordance with all applicable statutory or regulatory requirements, and
 
-(3) The information is true, accurate, and complete to the best of signatories' knowledge and belief.
+(3) The information is true, accurate, and complete to the best of signatories' knowledge and belief. If the report contains the limited disclosure authorized by § 628.62(c) of this chapter, the statement may be modified to explain that the completeness of the report was determined in consideration of § 628.62(c).
 
 (d) *Management assessment of internal control over financial reporting.* Annual reports of those institutions with over $1 billion in total assets (as of the end of the prior fiscal year) must include a report by management assessing the effectiveness of the institution's internal control over financial reporting. The assessment must be conducted during the reporting period and be reported to the institution's board of directors. Quarterly and annual reports for those institutions with over $1 billion in total assets (as of the end of the prior fiscal year) must disclose any material change(s) in the internal control over financial reporting occurring during the reporting period.
 
-[71 FR 76119, Dec. 20, 2006, as amended at 74 FR 28599, June 17, 2009]
+[71 FR 76119, Dec. 20, 2006, as amended at 74 FR 28599, June 17, 2009; 86 FR 54357, Oct. 1, 2021]

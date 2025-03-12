@@ -1,7 +1,5 @@
 ##### § 628.22 Regulatory capital adjustments and deductions. #####
 
-Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) *Regulatory capital deductions from CET1 capital.* A System institution must deduct from the sum of its CET1 capital elements the items set forth in this paragraph (a):
 
 (1) Goodwill, net of associated deferred tax liabilities (DTLs) in accordance with paragraph (e) of this section;
@@ -14,13 +12,15 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 
 (5) Any defined benefit pension fund net asset, net of any associated DTL in accordance with paragraph (e) of this section, except that, with FCA prior approval, this deduction is not required for any defined benefit pension fund net asset to the extent the institution has unrestricted and unfettered access to the assets in that fund;
 
-(6) The System institution's allocated equity investment in another System institution; and
+(6) The System institution's allocated equity investment in another System institution or service corporation; and
 
 (7) [Reserved]
 
 (8) If, without the required prior FCA approval, the System institution redeems or revolves purchased or allocated equities included in its CET1 capital that have been outstanding for less than 7 years, the FCA may take appropriate supervisory or enforcement actions against the institution, which may include requiring the institution to deduct a portion of its purchased and allocated equities from CET1 capital.
 
-(b) [Reserved]
+(b) *Regulatory adjustments to CET1 capital.* (1) Any accrual of a patronage or dividend payable or receivable recognized in the financial statements prior to a related board declaration or resolution must be reversed to or from unallocated retained earnings for purposes of calculating CET1 capital.
+
+(2) [Reserved]
 
 (c) *Deductions from regulatory capital*.6 (1) [Reserved]
 
@@ -53,3 +53,5 @@ Link to an amendment published at 86 FR 54360, Oct. 1, 2021.This amendment was m
 (g) *Treatment of assets that are deducted.* A System institution must exclude from total risk-weighted assets any item deducted from regulatory capital under paragraphs (a) and (c) of this section.
 
 (h) [Reserved]
+
+[81 FR 49779, July 28, 2016, as amended at 86 FR 54360, Oct. 1, 2021]

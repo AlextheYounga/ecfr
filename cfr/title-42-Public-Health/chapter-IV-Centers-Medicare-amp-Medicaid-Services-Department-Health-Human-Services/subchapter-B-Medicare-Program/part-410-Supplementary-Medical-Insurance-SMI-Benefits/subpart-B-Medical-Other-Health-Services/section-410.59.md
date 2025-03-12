@@ -1,14 +1,12 @@
 ##### § 410.59 Outpatient occupational therapy services: Conditions. #####
 
-Link to an amendment published at 86 FR 65664, Nov. 19, 2021.
-
 (a) *Basic rule.* Except as specified in paragraph (a)(3)(iii) of this section, Medicare Part B pays for outpatient occupational therapy services only if they are furnished by an individual meeting the qualifications in part 484 of this chapter for an occupational therapist or an appropriately supervised occupational therapy assistant but only under the following conditions:
 
 (1) They are furnished to a beneficiary while he or she is under the care of a physician who is a doctor of medicine, osteopathy, or podiatric medicine.
 
 (2) They are furnished under a written plan of treatment that meets the requirements of § 410.61.
 
-(3) They are furnished -
+(3) They are furnished—
 
 (i) By a provider as defined in § 489.2 of this chapter, or by others under arrangements with, and under the supervision of, a provider; or
 
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.
 
 (iii) By, or incident to the service of, a physician, physician assistant, clinical nurse specialist, or nurse practitioner when those professionals may perform occupational therapy services within the scope of State law. When an occupational therapy service is provided incident to the service of a physician, physician assistant, clinical nurse specialist, or nurse practitioner, by anyone other than a physician, physician assistant, clinical nurse specialist, or nurse practitioner, the service and the person who furnishes the service must meet the standards and conditions that apply to occupational therapy and occupational therapists, except that a license to practice occupational therapy in the State is not required.
 
-(4) Effective for dates of service on and after January 1, 2020, for occupational therapy services described in paragraph (a)(3)(i) or (ii) of this section, as applicable -
+(4) Effective for dates of service on and after January 1, 2020, for occupational therapy services described in paragraph (a)(3)(i) or (ii) of this section, as applicable—
 
 (i) Claims for services furnished in whole or in part by an occupational therapy assistant must include the prescribed modifier; and
 
@@ -26,11 +24,15 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.
 
 (A) Furnishes all the minutes of a service exclusive of the occupational therapist; or
 
-(B) Furnishes a portion of a service separately from the part furnished by the occupational therapist such that the minutes for that portion of a service furnished by the occupational therapy assistant exceed 10 percent of the total minutes for that service.
+(B) Except as provided in paragraph (a)(4)(iv) of this section, furnishes a portion of a service, or in the case of a 15-minute (or other time interval) timed code, a portion of a unit of service separately from the part furnished by the occupational therapist such that the minutes for that portion of a service (or unit of a service) furnished by the occupational therapist assistant exceed 10 percent of the total minutes for that service (or unit of a service).
+
+(iv) Paragraph (a)(4)(iii)(B) of this section does not apply when determining whether the prescribed modifier applies to the last 15-minute unit of a service billed for a patient on a treatment day when the occupational therapist provides more than the midpoint of a 15-minute timed code, that is, 8 or more minutes, regardless of any minutes for the same service furnished by the occupational therapy assistant.
+
+(v) Where there are two remaining 15-minute units to bill of the same service, and the occupational therapist and occupational therapy assistant each provided between 9 and 14 minutes of the service with a total time of at least 23 minutes and no more than 28 minutes, one unit of the service is billed with the prescribed modifier for the minutes furnished by the occupational therapy assistant and one unit is billed without the prescribed modifier for the service provided by the occupational therapist.
 
 (b) *Conditions for coverage of outpatient therapy services furnished to certain inpatients of a hospital or a CAH or SNF.* Medicare Part B pays for outpatient occupational therapy services furnished to an inpatient of a hospital, CAH, or SNF who requires them but who has exhausted or is otherwise ineligible for benefit days under Medicare Part A.
 
-(c) *Special provisions for services furnished by occupational therapists in private practice* - (1) *Basic qualifications.* In order to qualify under Medicare as a supplier of outpatient occupational therapy services, each individual occupational therapist in private practice must meet the following requirements:
+(c) *Special provisions for services furnished by occupational therapists in private practice*—(1) *Basic qualifications.* In order to qualify under Medicare as a supplier of outpatient occupational therapy services, each individual occupational therapist in private practice must meet the following requirements:
 
 (i) Be legally authorized (if applicable, licensed, certified, or registered) to engage in the private practice of occupational therapy by the State in which he or she practices, and practice only within the scope of his or her license, certification, or registration.
 
@@ -80,4 +82,4 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.
 
 (B) For 2028 and each year thereafter, the applicable medical review threshold is determined by increasing the medical review threshold in effect for the previous year (starting with $3,000 in 2027) by the increase in the Medicare Economic Index for the current year.
 
-[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 69 FR 66421, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018; 84 FR 63188, Nov. 15, 2019]
+[63 FR 58906, Nov. 2, 1998, as amended at 67 FR 80040, Dec. 31, 2002; 69 FR 66421, Nov. 15, 2004; 72 FR 66399, Nov. 27, 2007; 77 FR 69363, Nov. 16, 2012; 78 FR 74811, Dec. 10, 2013; 79 FR 68002, Nov. 13, 2014; 83 FR 60073, Nov. 23, 2018; 84 FR 63188, Nov. 15, 2019; 86 FR 65664, Nov. 19, 2021]

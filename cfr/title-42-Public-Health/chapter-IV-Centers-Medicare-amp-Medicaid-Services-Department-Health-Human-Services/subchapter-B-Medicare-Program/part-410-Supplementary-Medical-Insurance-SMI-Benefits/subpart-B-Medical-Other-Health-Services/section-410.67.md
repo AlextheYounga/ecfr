@@ -1,7 +1,5 @@
 ##### § 410.67 Medicare coverage and payment of Opioid use disorder treatment services furnished by Opioid treatment programs. #####
 
-Link to an amendment published at 86 FR 65664, Nov. 19, 2021.Link to an amendment published at 86 FR 66036, Nov. 19, 2021.
-
 (a) *Basis and scope -*  (1) *Basis.* This section implements sections 1861(jjj), 1861(s)(2)(HH), 1833(a)(1)(CC) and 1834(w) of the Act which provide for coverage of opioid use disorder treatment services furnished by an opioid treatment program and the payment of a bundled payment under Part B to an opioid treatment program for opioid use disorder treatment services that are furnished to a beneficiary during an episode of care beginning on or after January 1, 2020.
 
 (2) *Scope.* This section sets forth the criteria for an opioid treatment program, the scope of opioid use disorder treatment services, and the methodology for determining the bundled payments to opioid treatment programs for furnishing opioid use disorder treatment services.
@@ -18,9 +16,9 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.Link to an amendmen
 
 (2) Dispensing and administration of opioid agonist and antagonist treatment medications, if applicable.
 
-(3) Substance use counseling by a professional to the extent authorized under State law to furnish such services including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, where audio/video communication technology is not available to the beneficiary, the counseling services may be furnished using audio-only telephone calls if all other applicable requirements are met.
+(3) Substance use counseling by a professional to the extent authorized under State law to furnish such services including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, or for services furnished after the end of such emergency, in cases where audio/video communication technology is not available to the beneficiary, the counseling services may be furnished using audio-only telephone calls if all other applicable requirements are met.
 
-(4) Individual and group therapy with a physician or psychologist (or other mental health professional to the extent authorized under State law), including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, where audio/video communication technology is not available to the beneficiary, the therapy services may be furnished using audio-only telephone calls if all other applicable requirements are met.
+(4) Individual and group therapy with a physician or psychologist (or other mental health professional to the extent authorized under State law), including services furnished via two-way interactive audio-video communication technology, as clinically appropriate, and in compliance with all applicable requirements. During a Public Health Emergency, as defined in § 400.200 of this chapter, or for services furnished after the end of such emergency, in cases where audio/video communication technology is not available to the beneficiary, the therapy services may be furnished using audio-only telephone calls if all other applicable requirements are met.
 
 (5) Toxicology testing.
 
@@ -54,7 +52,9 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.Link to an amendmen
 
 (A) *Implantable and injectable medications.* For implantable and injectable medications, the payment is determined using the methodology set forth in section 1847A of the Act, except that the payment amount must be 100 percent of the ASP, if ASP is used; and the payment must be 100 percent of the wholesale acquisition cost (WAC), if WAC is used.
 
-(B) For oral medications, if ASP data are available, the payment amount is 100 percent of ASP, which will be determined based on ASP data that have been calculated consistent with the provisions in part 414, subpart 800 of this chapter and voluntarily submitted by drug manufacturers. If ASP data are not available, the payment amount for methadone will be based on the TRICARE rate and for buprenorphine will be calculated using the National Average Drug Acquisition Cost.
+(B) *For oral medications.* (*1*) Except as provided under paragraph (d)(2)(i)(B)(*2*) of this section, if ASP data are available, the payment amount is 100 percent of ASP, which will be determined based on ASP data that have been calculated consistent with the provisions in part 414, subpart J of this chapter and voluntarily submitted by drug manufacturers. If ASP data are not available, the payment amount for methadone will be based on the TRICARE rate and for buprenorphine will be calculated using the National Average Drug Acquisition Cost.
+
+(*2*) For CY 2022, the payment amount for methadone is the payment amount determined under paragraph (d)(i)(B)(*1*) of this section for methadone in CY 2021.
 
 (C) *Exception.* For the drug component of bundled payments in the medication not otherwise specified category under paragraph (d)(1)(iii) of this section, the payment amount is be based on the applicable methodology under paragraphs (d)(2)(i)(A) and (B) of this section (applying the most recent available data for such new medication), or invoice pricing until the necessary data become available.
 
@@ -94,12 +94,14 @@ Link to an amendment published at 86 FR 65664, Nov. 19, 2021.Link to an amendmen
 
 (E) Take-home supply of opioid antagonist medications that are approved by the Food and Drug Administration under section 505 of the Federal, Food, Drug and Cosmetic Act for the emergency treatment of known or suspected opioid overdose and overdose education furnished in conjunction with opioid antagonist medication, an adjustment will be made when these medications are dispensed. This adjustment will be limited to once every 30 days, except when a further take home supply of these medications is medically reasonable and necessary. The opioid treatment program must document in the medical record the reason(s) for the exception. The amount of the drug component of the adjustment will be determined using the methodology in paragraph (d)(2)(i) of this section. The amount of the non-drug component of the adjustment will be determined based on the CY 2020 Medicare payment rate for CPT code 96161.
 
-(ii) The payment amounts for the non-drug component of the bundled payment for an episode of care, and the adjustments for counseling or therapy, intake activities and periodic assessments will be geographically adjusted using the Geographic Adjustment Factor described in § 414.26 of this chapter.
+(ii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be geographically adjusted using the Geographic Adjustment Factor described in § 414.26 of this subchapter.
 
-(iii) The payment amounts for the non-drug component of the bundled payment for an episode of care, and the adjustments for counseling or therapy, intake activities and periodic assessments will be updated annually using the Medicare Economic Index described in § 405.504(d) of this chapter.
+(iii) The payment amounts for the non-drug component of the bundled payment for an episode of care, the adjustments for counseling or therapy, intake activities, periodic assessments, and the non-drug component of the adjustment for take-home supplies of opioid antagonist medications will be updated annually using the Medicare Economic Index described in § 405.504(d) of this subchapter.
 
-(5) Payment for medications delivered, administered or dispensed to a beneficiary as part of the bundled payment is considered a duplicative payment if a claim for delivery, administration or dispensing of the same medications for the same beneficiary on the same date of service was also separately paid under Medicare Part B or Part D. CMS will recoup the duplicative payment made to the opioid treatment program.
+(5) Payment for medications delivered, administered or dispensed to a beneficiary as part of the bundled payment or an adjustment to the bundled payment under paragraph (d)(4)(i) of this section is considered a duplicative payment if a claim for delivery, administration or dispensing of the same medications for the same beneficiary on the same date of service was also separately paid under Medicare Part B or Part D. CMS will recoup the duplicative payment made to the opioid treatment program.
+
+(6) For purposes of the adjustment to the bundled payment under paragraph (d)(4)(i)(A) of this section, after the end of the Public Health Emergency as defined in § 400.200 of this chapter, when services are furnished using audio-only technology the practitioner must certify, in a form and manner specified by CMS, that they had the capacity to furnish the services using two-way, audio/video communication technology, but used audio-only technology because audio/video communication technology was not available to the beneficiary.
 
 (e) *Beneficiary cost-sharing.* A beneficiary copayment amount of zero will apply.
 
-[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 85026, Dec. 28, 2020]
+[84 FR 63189, Nov. 15, 2019, as amended at 85 FR 19286, Apr. 6, 2020; 85 FR 27620, May 8, 2020; 85 FR 85026, Dec. 28, 2020; 86 FR 65664, 66036, Nov. 19, 2021]

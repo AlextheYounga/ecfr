@@ -186,8 +186,6 @@
 
 (ii) No vessel may be used, during any fishing year, to harvest more than 50,000 lb (22.7 mt) of IFQ halibut derived from QS held by a CQE, and no vessel used to harvest IFQ halibut derived from QS held by a CQE may be used to harvest more IFQ halibut than the vessel use caps specified in paragraphs (h)(1) introductory text and (h)(1)(i) of this section.
 
-(iii) Notwithstanding the vessel use caps specified in paragraphs (h)(1) introductory text and (h)(1)(ii) of this section, vessel use caps do not apply to vessels harvesting IFQ halibut in IFQ regulatory areas 4A, 4B, 4C, and 4D during the 2021 IFQ fishing year. Harvest of IFQ halibut in regulatory areas 4A, 4B, 4C, and 4D is excluded from the calculation of vessel use caps for IFQ regulatory areas 2C, 3A, or 3B during the 2021 IFQ fishing year.
-
 (2) *Sablefish.* No vessel may be used, during any fishing year, to harvest more IFQ sablefish than one percent of the combined fixed gear TAC of sablefish for the GOA and BSAI IFQ regulatory areas, except that:
 
 (i) In the IFQ regulatory area east of 140 degrees W. long., no vessel may be used to harvest more than 1 percent of the fixed gear TAC of sablefish for this area.
@@ -360,4 +358,4 @@
 
 (iii) Report pot gear information required when submitting a PNOL as described in § 679.5.
 
-[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Effective Date Note:At 86 FR 28297, May 26, 2021, § 679.42 was amended by adding paragraph (h)(1)(iii), effective May 26, 2021, through Dec. 31, 2021.
+[61 FR 31230, June 19, 1996]Editorial Note:For Federal Register citations affecting § 679.42, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,10 +1,8 @@
 ##### § 405.986 Good cause for reopening. #####
 
-Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
+(a) *Establishing good cause for reopening.* Good cause may be established when—
 
-(a) *Establishing good cause.* Good cause may be established when -
-
-(1) There is new and material evidence that -
+(1) There is new and material evidence that—
 
 (i) Was not available or known at the time of the determination or decision; and
 
@@ -16,4 +14,4 @@ Link to an amendment published at 86 FR 65660, Nov. 19, 2021.
 
 (c) *Third party payer error.* A request to reopen a claim based upon a third party payer's error in making a primary payment determination when Medicare processed the claim in accordance with the information in its system of records or on the claim form does not constitute good cause for reopening.
 
-[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37703, June 30, 2005]
+[70 FR 11472, Mar. 8, 2005, as amended at 70 FR 37703, June 30, 2005; 86 FR 65660, Nov. 19, 2021]

@@ -1,7 +1,5 @@
 ##### § 1003.2 Definitions. #####
 
-Link to an amendment published at 84 FR 58003, Oct. 29, 2019.Link to an amendment published at 85 FR 28406, May 12, 2020.
-
 In this part:
 
 (a) *Act* means the Home Mortgage Disclosure Act (HMDA) (12 U.S.C. 2801 *et seq.*), as amended.
@@ -48,7 +46,7 @@ In this part:
 
 (A) In each of the two preceding calendar years, originated at least 100 closed-end mortgage loans that are not excluded from this part pursuant to § 1003.3(c)(1) through (10) or (c)(13); or
 
-(B) In each of the two preceding calendar years, originated at least 500 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); and
+(B) In each of the two preceding calendar years, originated at least 200 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10); and
 
 (2) *Nondepository financial institution* means a for-profit mortgage-lending institution (other than a bank, savings association, or credit union) that:
 
@@ -58,7 +56,7 @@ In this part:
 
 (A) In each of the two preceding calendar years, originated at least 100 closed-end mortgage loans that are not excluded from this part pursuant to § 1003.3(c)(1) through (10) or (c)(13); or
 
-(B) In each of the two preceding calendar years, originated at least 500 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10).
+(B) In each of the two preceding calendar years, originated at least 200 open-end lines of credit that are not excluded from this part pursuant to § 1003.3(c)(1) through (10).
 
 (h) [Reserved]
 
@@ -86,4 +84,4 @@ In this part:
 
 (q) *Reverse mortgage* means a closed-end mortgage loan or an open-end line of credit that is a reverse mortgage transaction as defined in Regulation Z, 12 CFR 1026.33(a), but without regard to whether the security interest is created in a principal dwelling.
 
-[80 FR 66308, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017; 84 FR 57980, Oct. 29, 2019; 85 FR 28404, May 12, 2020]
+[80 FR 66308, Oct. 28, 2015, as amended at 82 FR 43132, Sept. 13, 2017; 84 FR 57980, Oct. 29, 2019; 85 FR 28404, 28406, May 12, 2020]

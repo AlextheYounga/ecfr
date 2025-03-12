@@ -1,12 +1,10 @@
 ##### § 410.74 Physician assistants' services. #####
 
-Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
-
 (a) *Basic rule.* Medicare Part B covers physician assistants' services only if the following conditions are met:
 
 (1) The services would be covered as physicians' services if furnished by a physician (a doctor of medicine or osteopathy, as set forth in section 1861(r)(1) of the Act).
 
-(2) The physician assistant -
+(2) The physician assistant—
 
 (i) Meets the qualifications set forth in paragraph (c) of this section;
 
@@ -16,9 +14,9 @@ Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
 
 (iv) Performs the services in accordance with state law and state scope of practice rules for physician assistants in the state in which the physician assistant's professional services are furnished. Any state laws and scope of practice rules that describe the required practice relationship between physicians and physician assistants, including explicit supervisory or collaborative practice requirements, describe a form of supervision for purposes of section 1861(s)(2)(K)(i) of the Act. For states with no explicit state law and scope of practice rules regarding physician supervision of physician assistant's services, physician supervision is a process in which a physician assistant has a working relationship with one or more physicians to supervise the delivery of their health care services. Such physician supervision is evidenced by documenting at the practice level the physician assistant's scope of practice and the working relationships the physician assistant has with the supervising physician/s when furnishing professional services.
 
-(v) Furnishes services that are billed by the employer of a physician assistant; and
+(v) Prior to January 1, 2022, furnishes services that are billed by the employer of a physician assistant; and
 
-(vi) Performs the services -
+(vi) Performs the services—
 
 (A) In all settings in either rural and urban areas; or
 
@@ -38,8 +36,8 @@ Link to an amendment published at 86 FR 65665, Nov. 19, 2021.
 
 (1) Supervision of other nonphysician staff by a physician assistant does not constitute personal performance of a professional service by the physician assistant.
 
-(2) The services are provided on an assignment-related basis, and the physician assistant may not charge a beneficiary for a service not payable under this provision. If a beneficiary has made payment for a service, the physician assistant must make the appropriate refund to the beneficiary.
+(2) The services of a physician assistant are provided on an assignment-related basis, and the physician assistant may not charge a beneficiary in excess of the amounts permitted under 42 CFR 424.55. If a beneficiary has made payment for a service in excess of these limits, the physician assistant must refund the full amount of the impermissible charge to the beneficiary.
 
 (e) *Medical record documentation.* For physician assistants' services, the physician assistant may review and verify (sign and date), rather than re-document, notes in a patient's medical record made by physicians; residents; nurses; medical, physician assistant, and advanced practice registered nurse students; or other members of the medical team, including, as applicable, notes documenting the physician assistant's presence and participation in the service.
 
-[63 FR 58907, Nov. 2, 1998; 64 FR 25457, May 12, 1999, as amended at 78 FR 74811, Dec. 10, 2013; 84 FR 63190, Nov. 15, 2019]
+[63 FR 58907, Nov. 2, 1998; 64 FR 25457, May 12, 1999, as amended at 78 FR 74811, Dec. 10, 2013; 84 FR 63190, Nov. 15, 2019; 86 FR 65665, Nov. 19, 2021]

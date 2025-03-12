@@ -1,7 +1,5 @@
 ##### § 414.626 Data reporting by ground ambulance organizations. #####
 
-Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
-
 (a) *Definitions.* For purposes of this section, the following definitions apply:
 
 *Data collection period* means, with respect to a year, the 12-month period that reflects the ground ambulance organization's annual accounting period.
@@ -14,7 +12,7 @@ Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
 
 (b) *Data collection and submission requirement.* Except as provided in paragraph (d) of this section, a ground ambulance organization selected by CMS under paragraph (c) of this section must do the following:
 
-(1) Within 30 days of the date that CMS notifies a ground ambulance organization under paragraph (c)(3) of this section that it has selected the ground ambulance organization to report data under this section, the ground ambulance must select a data collection period that corresponds with its annual accounting period and provide the start date of that data collection period to the ground ambulance organization's Medicare Administrative Contractor.
+(1) Within 30 days of the date that CMS notifies a ground ambulance organization under paragraph (c)(3) of this section that it has selected the ground ambulance organization to report data under this section, the ground ambulance organization must select a data collection period that corresponds with its annual accounting period and provide the start date of that data collection period to CMS or its contractor.
 
 (2) Collect during its selected data collection period the data necessary to complete the Medicare Ground Ambulance Data Collection Instrument.
 
@@ -70,8 +68,8 @@ Link to an amendment published at 86 FR 65669, Nov. 19, 2021.
 
 (v) A statement of the reasons why the ground ambulance organization does not agree with CMS' determination and any supporting documentation.
 
-(f) *Public availability of data.* Beginning in 2022, and at least once every 2 years thereafter, CMS will post on its website data that it collected under this section, including but not limited to summary statistics and ground ambulance organization characteristics.
+(f) *Public availability of data*. Beginning in 2024, and at least once every 2 years thereafter, CMS will post on its website data that it collected under this section, including but not limited to summary statistics and ground ambulance organization characteristics.
 
 (g) *Limitations on review.* There is no administrative or judicial review under section 1869 or section 1878 of the Act, or otherwise of the data required for submission under paragraph (b) of this section or the selection of ground ambulance organizations under paragraph (c) of this section.
 
-[84 FR 63193, Nov. 15, 2019]
+[84 FR 63193, Nov. 15, 2019, as amended at 86 FR 65669, Nov. 19, 2021]

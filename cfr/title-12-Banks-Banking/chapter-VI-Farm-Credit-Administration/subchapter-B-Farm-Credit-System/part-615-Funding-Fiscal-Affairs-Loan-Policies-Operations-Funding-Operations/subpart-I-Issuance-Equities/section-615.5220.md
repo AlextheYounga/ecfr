@@ -1,7 +1,5 @@
 ##### § 615.5220 Capitalization bylaws. #####
 
-Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was made effective Jan. 1, 2022 at 86 FR 68395, Dec. 2, 2021.
-
 (a) The board of directors of each System bank and association shall, pursuant to section 4.3A of the Farm Credit Act of 1971 (Act), adopt capitalization bylaws, subject to the approval of its voting shareholders, that set forth:
 
 (1) Classes of equities and the manner in which they shall be issued, transferred, converted and retired;
@@ -22,7 +20,7 @@ Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was m
 
 (5) For banks for cooperatives and agricultural credit banks (with respect to loans to cooperatives), the percentage or dollar amount of equity or guaranty fund investment (which may be expressed as a range within which the board may from time to time determine the requirement) that serves as a target level of investment in the bank for patronage-sourced business, which amount shall not be less than, 2 percent of the loan amount or $1,000, whichever is less;
 
-(6) The manner in which equities will be retired, including a provision stating that equities other than those protected under section 4.9A of the Act are retireable at the sole discretion of the board, provided minimum capital adequacy standards established in subpart H of this part, part 628 of this chapter, and the capital requirements established by the board of directors of the System institution, are met;
+(6) The manner in which equities will be retired, including a provision stating that equities other than those protected under section 4.9A of the Act are retireable at the sole discretion of the board, provided minimum capital adequacy standards established by the Farm Credit Administration, and the capital requirements established by the board of directors of the System institution, are met;
 
 (7) The manner in which earnings will be allocated and distributed, including the basis on which patronage will be paid, which shall be in accord with cooperative principles; and
 
@@ -30,4 +28,4 @@ Link to an amendment published at 86 FR 54357, Oct. 1, 2021.This amendment was m
 
 (b) The board of directors of each service corporation (including the Farm Credit Leasing Services Corporation) shall adopt capitalization bylaws, subject to the approval of its voting shareholders, that set forth the requirements of paragraphs (a)(1), (2), and (3) of this section to the extent applicable. Such bylaws shall also set forth the manner in which equities will be retired and the manner in which earnings will be distributed.
 
-[81 FR 49775, July 28, 2016]
+[81 FR 49775, July 28, 2016, as amended at 86 FR 54357, Oct. 1, 2021]

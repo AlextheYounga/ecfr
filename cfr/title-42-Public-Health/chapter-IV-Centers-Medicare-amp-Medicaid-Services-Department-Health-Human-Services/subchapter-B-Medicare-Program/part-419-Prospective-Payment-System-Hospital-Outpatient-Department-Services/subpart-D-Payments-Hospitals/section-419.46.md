@@ -1,7 +1,5 @@
 ##### § 419.46 Participation, data submission, and validation requirements under the Hospital Outpatient Quality Reporting (OQR) Program. #####
 
-Link to an amendment published at 86 FR 63993, Nov. 16, 2021.
-
 (a) *Statutory authority.* Section 1833(t)(17) of the Act authorizes the Secretary to implement a quality reporting program in a manner so as to provide for a 2.0 percentage point reduction in the OPD fee schedule increase factor for a subsection (d) hospital (as defined in section 1886(d)(1)(B)) that does not submit data required to be submitted on measures in accordance with the Secretary's requirements in this part.
 
 (b) *Participation in the Hospital OQR Program.* To participate in the Hospital OQR Program, a hospital as defined in section 1886(d)(1)(B) of the Act and is paid under the OPPS must -
@@ -34,7 +32,7 @@ Link to an amendment published at 86 FR 63993, Nov. 16, 2021.
 
 (f) *Validation of Hospital OQR Program data*. CMS may validate one or more measures selected under section 1833(t)(17)(C) of the Act by reviewing documentation of patient encounters submitted by selected participating hospitals.
 
-(1) Upon written request by CMS or its contractor, a hospital must submit to CMS supporting medical record documentation that the hospital used for purposes of data submission under the program. The specific sample that a hospital must submit will be identified in the written request. A hospital must submit the supporting medical record documentation to CMS or its contractor within 45 days of the date identified on the written request, in the form and manner specified in the written request.
+(1) Upon written request by CMS or its contractor, a hospital must submit to CMS supporting medical record documentation that the hospital used for purposes of data submission under the program. The specific sample that a hospital must submit will be identified in the written request. A hospital must submit the supporting medical record documentation to CMS or its contractor within 30 days of the date identified on the written request, in the form and manner specified in the written request.
 
 (2) A hospital meets the validation requirement with respect to a calendar year if it achieves at least a 75-percent reliability score, as determined by CMS.
 
@@ -42,7 +40,11 @@ Link to an amendment published at 86 FR 63993, Nov. 16, 2021.
 
 (i) The hospital fails the validation requirement that applies to the previous year's payment determination; or
 
-(ii) The hospital has an outlier value for a measure based on the data it submits. An “outlier value” is a measure value that is greater than 5 standard deviations from the mean of the measure values for other hospitals, and indicates a poor score.
+(ii) The hospital has an outlier value for a measure based on the data it submits. An “outlier value” is a measure value that is greater than 5 standard deviations from the mean of the measure values for other hospitals, and indicates a poor score; or
+
+(iii) Any hospital that has not been randomly selected for validation in any of the previous 3 years; or
+
+(iv) Any hospital that passed validation in the previous year, but had a two-tailed confidence interval that included 75 percent.
 
 (4) Hospitals that are selected and receive a score for validation of chart-abstracted measures may request an educational review in order to better understand the results within 30 calendar days from the date the validation results are made available. If the results of an educational review indicate that a hospital's medical records selected for validation for chart-abstracted measures was incorrectly scored, the corrected quarterly validation score will be used to compute the hospital's final validation score at the end of the calendar year.
 
@@ -106,4 +108,4 @@ Link to an amendment published at 86 FR 63993, Nov. 16, 2021.
 
 (iii) *Application of measure removal factors.* The benefits of removing a measure from the Hospital OQR Program will be assessed on a case-by-case basis. Under this case-by-case approach, a measure will not be removed solely on the basis of meeting any specific factor.
 
-[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020]
+[78 FR 75196, Dec. 10, 2013, as amended at 79 FR 67031, Nov. 10, 2014; 80 FR 70606, Nov. 13, 2015; 81 FR 79879, Nov. 14, 2016; 82 FR 52637, Nov. 13, 2017; 82 FR 59497, Dec. 14, 2017; 83 FR 59179, Nov. 21, 2018; 85 FR 86302, Dec. 29, 2020; 86 FR 63993, Nov. 16, 2021]

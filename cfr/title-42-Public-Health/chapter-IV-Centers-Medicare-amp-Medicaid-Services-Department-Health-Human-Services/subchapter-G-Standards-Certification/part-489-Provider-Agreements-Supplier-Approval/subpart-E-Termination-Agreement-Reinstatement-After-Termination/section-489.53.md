@@ -1,7 +1,5 @@
 ##### § 489.53 Termination by CMS. #####
 
-Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
-
 (a) *Basis for termination of agreement.* CMS may terminate the agreement with any provider if CMS finds that any of the following failings is attributable to that provider, and may, in addition to the applicable requirements in this chapter governing the termination of agreements with suppliers, terminate the agreement with any supplier to which the failings in paragraphs (a)(2), (13) and (18) of this section are attributable:
 
 (1) It is not complying with the provisions of title XVIII and the applicable regulations of this chapter or with the provisions of the agreement.
@@ -36,11 +34,11 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (16) It has failed to pay a revisit user fee when and if assessed.
 
-(17) In the case of an HHA, it failed to correct any deficiencies within the required time frame.
+(17) In the case of an HHA or hospice program, it failed to correct any deficiencies within the required time frame.
 
 (18) The provider or supplier fails to grant immediate access upon a reasonable request to a state survey agency or other authorized entity for the purpose of determining, in accordance with § 488.3, whether the provider or supplier meets the applicable requirements, conditions of participation, conditions for coverage, or conditions for certification.
 
-(b) *Termination of agreements with certain hospitals.* In the case of a hospital or critical access hospital that has an emergency department, as defined in § 489.24(b), CMS may terminate the provider agreement if -
+(b) *Termination of agreements with certain hospitals.* In the case of a hospital or critical access hospital that has an emergency department, as defined in § 489.24(b), CMS may terminate the provider agreement if—
 
 (1) The hospital fails to comply with the requirements of § 489.24 (a) through (e), which require the hospital to examine, treat, or transfer emergency medical condition cases appropriately, and require that hospitals with specialized capabilities or facilities accept an appropriate transfer; or
 
@@ -48,9 +46,9 @@ Link to an amendment published at 86 FR 62431, Nov. 9, 2021.
 
 (c) *Termination of agreements with hospitals that fail to make required disclosures.* In the case of a physician-owned hospital, as defined at § 489.3, CMS may terminate the provider agreement if the hospital failed to comply with the requirements of § 489.20(u) or (w). In the case of other participating hospitals, as defined at § 489.24, CMS may terminate the provider agreement if the participating hospital failed to comply with the requirements of § 489.20(w).
 
-(d) *Notice of termination* - (1) *Timing: basic rule.* Except as provided in paragraphs (d)(2) and (d)(3) of this section, CMS gives the provider notice of termination at least 15 days before the effective date of termination of the provider agreement.
+(d) *Notice of termination*—(1) *Timing: basic rule.* Except as provided in paragraphs (d)(2) and (d)(3) of this section, CMS gives the provider notice of termination at least 15 days before the effective date of termination of the provider agreement.
 
-(2) *Timing exceptions: Immediate jeopardy situations* - (i) *Hospitals.* If CMS finds that a hospital is in violation of § 489.24(a) through (f), and CMS determines that the violation poses immediate jeopardy to the health or safety of individuals who present themselves to the hospital for emergency services, CMS -
+(2) *Timing exceptions: Immediate jeopardy situations*—(i) *Hospitals.* If CMS finds that a hospital is in violation of § 489.24(a) through (f), and CMS determines that the violation poses immediate jeopardy to the health or safety of individuals who present themselves to the hospital for emergency services, CMS—
 
 (A) Gives the hospital a preliminary notice indicating that its provider agreement will be terminated in 23 days if it does not correct the identified deficiencies or refute the finding; and
 

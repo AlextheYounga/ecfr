@@ -1,7 +1,5 @@
 ##### § 660.360 Recreational fishery - management measures. #####
 
-Link to an amendment published at 86 FR 72873, Dec. 23, 2021.
-
 (a) *General.* Federal recreational groundfish regulations are not intended to supersede any more restrictive state recreational groundfish regulations relating to federally-managed groundfish. The bag limits include fish taken in both state and Federal waters.
 
 (b) *Gear restrictions.* The only types of fishing gear authorized for recreational fishing are hook-and-line and spear. Spears may be propelled by hand or by mechanical means. More fishery-specific gear restrictions may be required by state as noted in paragraph (c) of this section (e.g., California's recreational “other flatfish” fishery).
@@ -92,7 +90,7 @@ Link to an amendment published at 86 FR 72873, Dec. 23, 2021.
 
 (*5*) South of 34°27′ N lat. (Southern Management Area), recreational fishing for the RCG Complex is open from March 1 through December 31 (*i.e.,* it's closed from January 1 through the last day in February).
 
-(B) *Bag limits, hook limits.* In times and areas when the recreational season for the RCG Complex is open, there is a limit of 2 hooks and 1 line when fishing for the RCG complex. The bag limit is 10 RCG Complex fish per day coastwide, with a sub-bag limit of 5 fish for vermilion rockfish. This sub-bag limit counts towards the bag limit for the RCG Complex and is not in addition to that limit. Retention of yelloweye rockfish, bronzespotted rockfish, and cowcod is prohibited. Multi-day limits are authorized by a valid permit issued by California and must not exceed the daily limit multiplied by the value of days in the fishing trip.
+(B) *Bag limits, hook limits.* In times and areas when the recreational season for the RCG Complex is open, there is a limit of 2 hooks and 1 line when fishing for the RCG complex. The bag limit is 10 RCG Complex fish per day coastwide, with a sub-bag limit of 4 fish for vermilion rockfish, 1 fish for quillback rockfish, and 1 fish for copper rockfish. These sub-bag limits count towards the bag limit for the RCG Complex and are not in addition to that limit. Retention of yelloweye rockfish, bronzespotted rockfish, and cowcod is prohibited. Multi-day limits are authorized by a valid permit issued by California and must not exceed the daily limit multiplied by the value of days in the fishing trip.
 
 (C) *Size limits.* The following size limits apply: cabezon may be no smaller than 15 in (38 cm) total length; and kelp and other greenling may be no smaller than 12 in (30 cm) total length.
 
@@ -142,4 +140,4 @@ Link to an amendment published at 86 FR 72873, Dec. 23, 2021.
 
 (d) *Salmon bycatch.* Recreational fisheries that are not accounted for within pre-season salmon modeling may be closed through automatic action at § 660.60(d)(1)(v) and (vi).
 
-[75 FR 60995, Oct. 1, 2010, as amended at 76 FR 11392, Mar. 2, 2011; 76 FR 27559, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 76 FR 79133, Dec. 21, 2011; 77 FR 12504, Mar. 1, 2012; 77 FR 55158, Sept. 7, 2012; 77 FR 63761, Oct. 17, 2012; 78 FR 642, Jan. 3, 2013; 78 FR 26279, May 6, 2013; 80 FR 12601, Mar. 10, 2015; 80 FR 61766, Oct. 14, 2015; 82 FR 9668, Feb. 7, 2017; 82 FR 21951, May 11, 2017; 82 FR 48666, Oct. 19, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 13431, Mar. 29, 2018; 83 FR 16008, Apr. 13, 2018; 83 FR 48728, Sept. 27, 2018; 83 FR 64014, Dec. 12, 2018; 84 FR 25720, June 4, 2019; 85 FR 79926, Dec. 11, 2020; 86 FR 14386, Mar. 16, 2021]Editorial Note:At 85 FR 79926, Dec. 11, 2020, § 660.360 was amended in part by revising paragraph (c)(2)(i)(D); however, the amendment could not be incorporated because that paragraph did not exist.
+[75 FR 60995, Oct. 1, 2010, as amended at 76 FR 11392, Mar. 2, 2011; 76 FR 27559, May 11, 2011; 76 FR 54714, Sept. 2, 2011; 76 FR 79133, Dec. 21, 2011; 77 FR 12504, Mar. 1, 2012; 77 FR 55158, Sept. 7, 2012; 77 FR 63761, Oct. 17, 2012; 78 FR 642, Jan. 3, 2013; 78 FR 26279, May 6, 2013; 80 FR 12601, Mar. 10, 2015; 80 FR 61766, Oct. 14, 2015; 82 FR 9668, Feb. 7, 2017; 82 FR 21951, May 11, 2017; 82 FR 48666, Oct. 19, 2017; 82 FR 60570, Dec. 21, 2017; 83 FR 13431, Mar. 29, 2018; 83 FR 16008, Apr. 13, 2018; 83 FR 48728, Sept. 27, 2018; 83 FR 64014, Dec. 12, 2018; 84 FR 25720, June 4, 2019; 85 FR 79926, Dec. 11, 2020; 86 FR 14386, Mar. 16, 2021; 86 FR 72873, Dec. 23, 2021]Editorial Note:At 85 FR 79926, Dec. 11, 2020, § 660.360 was amended in part by revising paragraph (c)(2)(i)(D); however, the amendment could not be incorporated because that paragraph did not exist.
