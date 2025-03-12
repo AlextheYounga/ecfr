@@ -1,5 +1,7 @@
 ##### § 1291.15 Agreements. #####
 
+Link to an amendment published at 87 FR 32969, June 1, 2022.
+
 (a) *Agreements between Banks and members.* A Bank shall have in place with each member receiving an AHP subsidized advance or AHP direct subsidy an agreement or agreements containing, at a minimum, the following provisions, where applicable:
 
 (1) *Notification of member.* The member has been notified of the requirements of this part as they may be amended from time to time, and all Bank policies relevant to the member's approved application for AHP subsidy.

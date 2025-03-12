@@ -1,0 +1,3 @@
+##### § 1601.21 Applicability. #####
+
+This subpart applies only to fund reallocations and fund transfers involving the movement of money from TSP core fund to one (or more) TSP core fund(s); it does not apply to the investment of future deposits, which is covered in subpart B of this part, nor does it apply to fund transfers involving the movement of money from the TSP core funds to the mutual fund window (and vice versa), which is covered in subpart F of this part.

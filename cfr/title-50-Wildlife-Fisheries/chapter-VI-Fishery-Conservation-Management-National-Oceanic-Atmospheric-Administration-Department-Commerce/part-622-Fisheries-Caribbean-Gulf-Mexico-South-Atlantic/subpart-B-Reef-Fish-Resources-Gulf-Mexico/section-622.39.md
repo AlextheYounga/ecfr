@@ -1,7 +1,5 @@
 ##### § 622.39 Quotas. #####
 
-Link to an amendment published at 87 FR 25590, May 2, 2022.
-
 See § 622.8 for general provisions regarding quota applicability and closure and reopening procedures. This section, provides quotas and specific quota closure restrictions for Gulf reef fish.
 
 (a) *Gulf reef fish* - (1) *Commercial quotas.* The following quotas apply to persons who fish under commercial vessel permits for Gulf reef fish, as required under § 622.20(a)(1).
@@ -30,7 +28,7 @@ See § 622.8 for general provisions regarding quota applicability and closure an
 
 (*4*) For fishing year 2015 and subsequent fishing years - 0.939 million lb (0.426 million kg).
 
-(C) *Red grouper* - 3.00 million lb (1.36 million kg).
+(C) *Red grouper* - 2.40 million lb (1.09 million kg).
 
 (iv) Tilefishes (including goldface tilefish, blueline tilefish, and tilefish) - 582,000 lb (263,991 kg), gutted weight, that is, eviscerated but otherwise whole.
 

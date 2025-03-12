@@ -4,27 +4,27 @@
 
 (1) *Units to be tested.* (i) If the represented value is determined through testing, the general requirements of § 429.11 are applicable; and
 
-(ii) For each basic model selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that -
+(ii) For each basic model selected for testing, a sample of sufficient size shall be randomly selected and tested to ensure that—
 
 (A) Any represented value of energy consumption or other measure of energy use of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er05my14.000.gif)and, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
+![](/graphics/er05my14.000.gif)and, *x* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
 
 (*2*) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er05my14.001.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from Appendix A to subpart B of part 429). And,
+![](/graphics/er05my14.001.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from Appendix A to subpart B of part 429). And,
 
 (B) Any represented value of energy efficiency or other measure of energy consumption of a basic model for which consumers would favor higher values shall be less than or equal to the lower of:
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er05my14.002.gif)and, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
+![](/graphics/er05my14.002.gif)and, *x* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
 
 (*2*) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er05my14.003.gif)And *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from Appendix A to subpart B of part 429).
+![](/graphics/er05my14.003.gif)And *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from Appendix A to subpart B of part 429).
 
 (2) *Alternative efficiency determination methods.* In lieu of testing, a represented value of efficiency or consumption for a basic model of commercial warm air furnace must be determined through the application of an AEDM pursuant to the requirements of § 429.70 and the provisions of this section, where:
 

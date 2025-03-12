@@ -8,23 +8,19 @@
 
 (2) If the variations in noise level involve maxima at intervals of 1 second or less, it is to be considered continuous.
 
-Table G-16 - Permissible Noise Exposures<sup>1</sup>
-
-|Duration per day, hours|Sound level dBA slow response|
-|-----------------------|-----------------------------|
-|           8           |             90              |
-|           6           |             92              |
-|           4           |             95              |
-|           3           |             97              |
-|           2           |             100             |
-|         11/2          |             102             |
-|           1           |             105             |
-|          1/2          |             110             |
-|      1/4 or less      |             115             |
-
-<sup>1</sup> When the daily noise exposure is composed of two or more periods of noise exposure of different levels, their combined effect should be considered, rather than the individual effect of each. If the sum of the following fractions: C1/T1 + C2/T2Cn/Tn exceeds unity, then, the mixed exposure should be considered to exceed the limit value. Cn indicates the total time of exposure at a specified noise level, and Tn indicates the total time of exposure permitted at that level.
-
-Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressure level.
+|                                                                                                                                                                                                                                                                                 Duration per day, hours                                                                                                                                                                                                                                                                                  |Sound level dBA slow response|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------|
+|                                                                                                                                                                                                                                                                                            8                                                                                                                                                                                                                                                                                             |             90              |
+|                                                                                                                                                                                                                                                                                            6                                                                                                                                                                                                                                                                                             |             92              |
+|                                                                                                                                                                                                                                                                                            4                                                                                                                                                                                                                                                                                             |             95              |
+|                                                                                                                                                                                                                                                                                            3                                                                                                                                                                                                                                                                                             |             97              |
+|                                                                                                                                                                                                                                                                                            2                                                                                                                                                                                                                                                                                             |             100             |
+|                                                                                                                                                                                                                                                                                           11/2                                                                                                                                                                                                                                                                                           |             102             |
+|                                                                                                                                                                                                                                                                                            1                                                                                                                                                                                                                                                                                             |             105             |
+|                                                                                                                                                                                                                                                                                           1/2                                                                                                                                                                                                                                                                                            |             110             |
+|                                                                                                                                                                                                                                                                                       1/4 or less                                                                                                                                                                                                                                                                                        |             115             |
+|<sup>1</sup> When the daily noise exposure is composed of two or more periods of noise exposure of different levels, their combined effect should be considered, rather than the individual effect of each. If the sum of the following fractions: C<sub>1</sub>/T<sub>1</sub> + C<sub>2</sub>/T<sub>2</sub>C<sub><em>n</em></sub>/T<sub><em>n</em></sub> exceeds unity, then, the mixed exposure should be considered to exceed the limit value. Cn indicates the total time of exposure at a specified noise level, and Tn indicates the total time of exposure permitted at that level.|                             |
+|                                                                                                                                                                                                                                                Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressure level.                                                                                                                                                                                                                                                 |                             |
 
 (c) *Hearing conservation program.* (1) The employer shall administer a continuing, effective hearing conservation program, as described in paragraphs (c) through (o) of this section, whenever employee noise exposures equal or exceed an 8-hour time-weighted average sound level (TWA) of 85 decibels measured on the A scale (slow response) or, equivalently, a dose of fifty percent. For purposes of the hearing conservation program, employee noise exposures shall be computed in accordance with appendix A and Table G-16a, and without regard to any attenuation provided by the use of personal protective equipment.
 
@@ -168,7 +164,7 @@ Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressu
 
 (3) The employer shall provide, upon request, all materials related to the employer's training and education program pertaining to this standard to the Assistant Secretary and the Director.
 
-(m) *Recordkeeping* - (1) *Exposure measurements.* The employer shall maintain an accurate record of all employee exposure measurements required by paragraph (d) of this section.
+(m) *Recordkeeping*—(1) *Exposure measurements.* The employer shall maintain an accurate record of all employee exposure measurements required by paragraph (d) of this section.
 
 (2) *Audiometric tests.* (i) The employer shall retain all employee audiometric test records obtained pursuant to paragraph (g) of this section:
 
@@ -202,7 +198,7 @@ Exposure to impulsive or impact noise should not exceed 140 dB peak sound pressu
 
 (o) *Exemptions.* Paragraphs (c) through (n) of this section shall not apply to employers engaged in oil and gas well drilling and servicing operations.
 
-Appendix A to § 1910.95 - Noise Exposure ComputationThis appendix is MandatoryI. Computation of Employee Noise Exposure
+Appendix A to § 1910.95—Noise Exposure ComputationThis appendix is MandatoryI. Computation of Employee Noise Exposure
 
 (1) Noise dose is computed using Table G-16a as follows:
 
@@ -215,8 +211,6 @@ D = 100(C1 / T1 + C2 / T2 + Cn / Tn),where Cn indicates the total time of exposu
 (2) The eight-hour time-weighted average sound level (TWA), in decibels, may be computed from the dose, in percent, by means of the formula: TWA = 16.61 log10 (D/100) + 90. For an eight-hour workshift with the noise level constant over the entire shift, the TWA is equal to the measured sound level.
 
 (3) A table relating dose and TWA is given in Section II.
-
-Table G-16a
 
 |A-weighted sound level, L (decibel)|Reference duration, T (hour)|
 |-----------------------------------|----------------------------|
@@ -280,9 +274,7 @@ Compliance with paragraphs (c)-(r) of this regulation is determined by the amoun
 
 In order to convert the reading of a dosimeter into TWA, see Table A-1, below. This table applies to dosimeters that are set by the manufacturer to calculate dose or percent exposure according to the relationships in Table G-16a. So, for example, a dose of 91 percent over an eight hour day results in a TWA of 89.3 dB, and, a dose of 50 percent corresponds to a TWA of 85 dB.
 
-If the dose as read on the dosimeter is less than or greater than the values found in Table A-1, the TWA may be calculated by using the formula: TWA 6.61 log10 (D/100) + 90 where TWA = 8-hour time-weighted average sound level and D = accumulated dose in percent exposure.
-
-Table A-1 - Conversion From “Percent Noise Exposure” or “Dose” to “8-Hour Time-Weighted Average Sound Level” (TWA)
+If the dose as read on the dosimeter is less than or greater than the values found in Table A-1, the TWA may be calculated by using the formula: TWA=16.61 log10 (D/100) + 90 where TWA = 8-hour time-weighted average sound level and D = accumulated dose in percent exposure.
 
 |Dose or percent noise exposure| TWA |
 |------------------------------|-----|
@@ -438,7 +430,7 @@ Table A-1 - Conversion From “Percent Noise Exposure” or “Dose” to “8-H
 |             990              |106.5|
 |             999              |106.6|
 
-Appendix B to § 1910.95 - Methods for Estimating the Adequacy of Hearing Protector AttenuationThis appendix is Mandatory
+Appendix B to § 1910.95—Methods for Estimating the Adequacy of Hearing Protector AttenuationThis appendix is Mandatory
 
 For employees who have experienced a significant threshold shift, hearing protector attenuation must be sufficient to reduce employee exposure to a TWA of 85 dB. Employers must select one of the following methods by which to estimate the adequacy of hearing protector attenuation.
 
@@ -490,7 +482,7 @@ When using the NRR to assess hearing protector adequacy, one of the following me
 
 (B) Subtract the NRR from the C-weighted sound level for that area.
 
-Appendix C to § 1910.95 - Audiometric Measuring InstrumentsThis appendix is Mandatory
+Appendix C to § 1910.95—Audiometric Measuring InstrumentsThis appendix is Mandatory
 
 1. In the event that pulsed-tone audiometers are used, they shall have a tone on-time of at least 200 milliseconds.
 
@@ -506,17 +498,15 @@ Appendix C to § 1910.95 - Audiometric Measuring InstrumentsThis appendix is Man
 
 (E) It must be possible at each test frequency to place a horizontal line segment parallel to the time axis on the audiogram, such that the audiometric tracing crosses the line segment at least six times at that test frequency. At each test frequency the threshold shall be the average of the midpoints of the tracing excursions.
 
-Appendix D to § 1910.95 - Audiometric Test RoomsThis appendix is Mandatory
+Appendix D to § 1910.95—Audiometric Test RoomsThis appendix is Mandatory
 
 Rooms used for audiometric testing shall not have background sound pressure levels exceeding those in Table D-1 when measured by equipment conforming at least to the Type 2 requirements of American National Standard Specification for Sound Level Meters, S1.4-1971 (R1976), and to the Class II requirements of American National Standard Specification for Octave, Half-Octave, and Third-Octave Band Filter Sets, S1.11-1971 (R1976).
 
-Table D-1 - Maximum Allowable Octave-Band Sound Pressure Levels for Audiometric Test Rooms
-
 |Octave-band center frequency (Hz)|500|1000|2000|4000|8000|
-|:--------------------------------|--:|---:|---:|---:|---:|
+|---------------------------------|---|----|----|----|----|
 |    Sound pressure level (dB)    |40 | 40 | 47 | 57 | 62 |
 
-Appendix E to § 1910.95 - Acoustic Calibration of AudiometersThis appendix is Mandatory
+Appendix E to § 1910.95—Acoustic Calibration of AudiometersThis appendix is Mandatory
 
 Audiometer calibration shall be checked acoustically, at least annually, according to the procedures described in this appendix. The equipment necessary to perform these measurements is a sound level meter, octave-band filter set, and a National Bureau of Standards 9A coupler. In making these measurements, the accuracy of the calibrating equipment shall be sufficient to determine that the audiometer is within the tolerances permitted by American Standard Specification for Audiometers, S3.6-1969.
 
@@ -544,8 +534,6 @@ D. This measurement may be made electrically with a voltmeter connected to the e
 
 When any of the measured sound levels deviate from the levels in Table E-1 or Table E-2 by ±3 dB at any test frequency between 500 and 3000 Hz, 4 dB at 4000 Hz, or 5 dB at 6000 Hz, an exhaustive calibration is advised. An exhaustive calibration is required if the deviations are greater than 15 dB or greater at any test frequency.
 
-Table E-1 - Reference Threshold Levels for Telephonics - TDH-39 Earphones
-
 |Frequency, Hz|Reference threshold level for TDH-39 earphones, dB|Sound level meter reading, dB|
 |-------------|--------------------------------------------------|-----------------------------|
 |     500     |                       11.5                       |            81.5             |
@@ -554,8 +542,6 @@ Table E-1 - Reference Threshold Levels for Telephonics - TDH-39 Earphones
 |    3000     |                        10                        |             80              |
 |    4000     |                       9.5                        |            79.5             |
 |    6000     |                       15.5                       |            85.5             |
-
-Table E-2 - Reference Threshold Levels for Telephonics - TDH-49 Earphones
 
 |Frequency, Hz|Reference threshold level for TDH-49 earphones, dB|Sound level meter reading, dB|
 |-------------|--------------------------------------------------|-----------------------------|
@@ -566,7 +552,7 @@ Table E-2 - Reference Threshold Levels for Telephonics - TDH-49 Earphones
 |    4000     |                       10.5                       |            80.5             |
 |    6000     |                       13.5                       |            83.5             |
 
-Appendix F to § 1910.95 - Calculations and Application of Age Corrections to AudiogramsThis appendix Is Non-Mandatory
+Appendix F to § 1910.95—Calculations and Application of Age Corrections to AudiogramsThis appendix Is Non-Mandatory
 
 In determining whether a standard threshold shift has occurred, allowance may be made for the contribution of aging to the change in hearing level by adjusting the most recent audiogram. If the employer chooses to adjust the audiogram, the employer shall follow the procedure described below. This procedure and the age correction tables were developed by the National Institute for Occupational Safety and Health in the criteria document entitled “Criteria for a Recommended Standard . . . Occupational Exposure to Noise,” ((HSM)-11001).
 
@@ -609,8 +595,6 @@ Go to Table F-1 and find the age correction values (in dB) for 4000 Hz at age 27
 |Difference|      1       | 1  | 1  | 3  | 3 |
 
 The difference represents the amount of hearing loss that may be attributed to aging in the time period between the baseline audiogram and the most recent audiogram. In this example, the difference at 4000 Hz is 3 dB. This value is subtracted from the hearing level at 4000 Hz, which in the most recent audiogram is 25, yielding 22 after adjustment. Then the hearing threshold in the baseline audiogram at 4000 Hz (5) is subtracted from the adjusted annual audiogram hearing threshold at 4000 Hz (22). Thus the age-corrected threshold shift would be 17 dB (as opposed to a threshold shift of 20 dB without age correction).
-
-Table F-1 - Age Correction Values in Decibels for Males
 
 |    Years    |Audiometric Test Frequencies (Hz)|    |    |    |   |
 |-------------|---------------------------------|----|----|----|---|
@@ -657,8 +641,6 @@ Table F-1 - Age Correction Values in Decibels for Males
 |     59      |               11                | 12 | 22 | 32 |37 |
 | 60 or older |               11                | 13 | 23 | 33 |38 |
 
-Table F-2 - Age Correction Values in Decibels for Females
-
 |    Years    |Audiometric Test Frequencies (Hz)|    |    |    |   |
 |-------------|---------------------------------|----|----|----|---|
 |    1000     |              2000               |3000|4000|6000|   |
@@ -704,7 +686,7 @@ Table F-2 - Age Correction Values in Decibels for Females
 |     59      |               14                | 12 | 16 | 16 |21 |
 | 60 or older |               14                | 12 | 16 | 17 |22 |
 
-Appendix G to § 1910.95 - Monitoring Noise Levels Non-Mandatory Informational Appendix
+Appendix G to § 1910.95—Monitoring Noise Levels Non-Mandatory Informational Appendix
 
 This appendix provides information to help employers comply with the noise monitoring obligations that are part of the hearing conservation amendment.
 
@@ -740,7 +722,7 @@ Noise monitoring equipment may be either purchased or rented. Sound level meters
 
 Free, on-site assistance may be obtained from OSHA-supported state and private consultation organizations. These safety and health consultative entities generally give priority to the needs of small businesses.
 
-Appendix H to § 1910.95 - Availability of Referenced Documents
+Appendix H to § 1910.95—Availability of Referenced Documents
 
 Paragraphs (c) through (o) of 29 CFR 1910.95 and the accompanying appendices contain provisions which incorporate publications by reference. Generally, the publications provide criteria for instruments to be used in monitoring and audiometric testing. These criteria are intended to be mandatory when so indicated in the applicable paragraphs of § 1910.95 and appendices.
 
@@ -748,17 +730,17 @@ It should be noted that OSHA does not require that employers purchase a copy of 
 
 The designation of the paragraph of the standard in which the referenced publications appear, the titles of the publications, and the availability of the publications are as follows:
 
-|   Paragraph designation   |                                       Referenced publication                                       |                                                                                   Available from -                                                                                    |
+|   Paragraph designation   |                                       Referenced publication                                       |                                                                                    Available from—                                                                                    |
 |---------------------------|----------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |        Appendix B         |“List of Personal Hearing Protectors and Attenuation Data,” HEW Pub. No. 76-120, 1975. NTIS-PB267461|                                                    National Technical Information Service, Port Royal Road, Springfield, VA 22161.                                                    |
 |        Appendix D         |                     “Specification for Sound Level Meters,” S1.4-1971 (R1976)                      |                                                    American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018.                                                    |
 |§ 1910.95(k)(2), appendix E|                            “Specifications for Audiometers,” S3.6-1969                             |                                                    American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018.                                                    |
 |        Appendix D         |   “Specification for Octave, Half-Octave and Third-Octave Band Filter Sets,” S1.11-1971 (R1976)    |Back Numbers Department, Dept. STD, American Institute of Physics, 333 E. 45th St., New York, NY 10017; American National Standards Institute, Inc., 1430 Broadway, New York, NY 10018.|
 
-The referenced publications (or a microfiche of the publications) are available for review at many universities and public libraries throughout the country. These publications may also be examined at the OSHA Technical Data Center, Room N2439, United States Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 219-7500 or at any OSHA Regional Office (see telephone directories under United States Government - Labor Department).
+The referenced publications (or a microfiche of the publications) are available for review at many universities and public libraries throughout the country. These publications may also be examined at the OSHA Technical Data Center, Room N2439, United States Department of Labor, 200 Constitution Avenue, NW., Washington, DC 20210, (202) 219-7500 or at any OSHA Regional Office (see telephone directories under United States Government—Labor Department).
 
-Appendix I to § 1910.95 - Definitions
+Appendix I to § 1910.95—Definitions
 
 These definitions apply to the following terms as used in paragraphs (c) through (n) of 29 CFR 1910.95.
 
-Action level - An 8-hour time-weighted average of 85 decibels measured on the A-scale, slow response, or equivalently, a dose of fifty percent.Audiogram - A chart, graph, or table resulting from an audiometric test showing an individual's hearing threshold levels as a function of frequency.Audiologist - A professional, specializing in the study and rehabilitation of hearing, who is certified by the American Speech-Language-Hearing Association or licensed by a state board of examiners.Baseline audiogram - The audiogram against which future audiograms are compared.Criterion sound level - A sound level of 90 decibels.Decibel (dB) - Unit of measurement of sound level.Hertz (Hz) - Unit of measurement of frequency, numerically equal to cycles per second.Medical pathology - A disorder or disease. For purposes of this regulation, a condition or disease affecting the ear, which should be treated by a physician specialist.Noise dose - The ratio, expressed as a percentage, of (1) the time integral, over a stated time or event, of the 0.6 power of the measured SLOW exponential time-averaged, squared A-weighted sound pressure and (2) the product of the criterion duration (8 hours) and the 0.6 power of the squared sound pressure corresponding to the criterion sound level (90 dB).Noise dosimeter - An instrument that integrates a function of sound pressure over a period of time in such a manner that it directly indicates a noise dose.Otolaryngologist - A physician specializing in diagnosis and treatment of disorders of the ear, nose and throat.Representative exposure - Measurements of an employee's noise dose or 8-hour time-weighted average sound level that the employers deem to be representative of the exposures of other employees in the workplace.Sound level - Ten times the common logarithm of the ratio of the square of the measured A-weighted sound pressure to the square of the standard reference pressure of 20 micropascals. Unit: decibels (dB). For use with this regulation, SLOW time response, in accordance with ANSI S1.4-1971 (R1976), is required.Sound level meter - An instrument for the measurement of sound level.Time-weighted average sound level - That sound level, which if constant over an 8-hour exposure, would result in the same noise dose as is measured.[39 FR 23502, June 27, 1974, as amended at 46 FR 4161, Jan. 16, 1981; 46 FR 62845, Dec. 29, 1981; 48 FR 9776, Mar. 8, 1983; 48 FR 29687, June 28, 1983; 54 FR 24333, June 7, 1989; 61 FR 9236, Mar. 7, 1996; 71 FR 16672, Apr. 3, 2006; 73 FR 75584, Dec. 12, 2008]
+Action level—An 8-hour time-weighted average of 85 decibels measured on the A-scale, slow response, or equivalently, a dose of fifty percent.Audiogram—A chart, graph, or table resulting from an audiometric test showing an individual's hearing threshold levels as a function of frequency.Audiologist—A professional, specializing in the study and rehabilitation of hearing, who is certified by the American Speech-Language-Hearing Association or licensed by a state board of examiners.Baseline audiogram—The audiogram against which future audiograms are compared.Criterion sound level—A sound level of 90 decibels.Decibel (dB)—Unit of measurement of sound level.Hertz (Hz)—Unit of measurement of frequency, numerically equal to cycles per second.Medical pathology—A disorder or disease. For purposes of this regulation, a condition or disease affecting the ear, which should be treated by a physician specialist.Noise dose—The ratio, expressed as a percentage, of (1) the time integral, over a stated time or event, of the 0.6 power of the measured SLOW exponential time-averaged, squared A-weighted sound pressure and (2) the product of the criterion duration (8 hours) and the 0.6 power of the squared sound pressure corresponding to the criterion sound level (90 dB).Noise dosimeter—An instrument that integrates a function of sound pressure over a period of time in such a manner that it directly indicates a noise dose.Otolaryngologist—A physician specializing in diagnosis and treatment of disorders of the ear, nose and throat.Representative exposure—Measurements of an employee's noise dose or 8-hour time-weighted average sound level that the employers deem to be representative of the exposures of other employees in the workplace.Sound level—Ten times the common logarithm of the ratio of the square of the measured A-weighted sound pressure to the square of the standard reference pressure of 20 micropascals. Unit: decibels (dB). For use with this regulation, SLOW time response, in accordance with ANSI S1.4-1971 (R1976), is required.Sound level meter—An instrument for the measurement of sound level.Time-weighted average sound level—That sound level, which if constant over an 8-hour exposure, would result in the same noise dose as is measured.[39 FR 23502, June 27, 1974, as amended at 46 FR 4161, Jan. 16, 1981; 46 FR 62845, Dec. 29, 1981; 48 FR 9776, Mar. 8, 1983; 48 FR 29687, June 28, 1983; 54 FR 24333, June 7, 1989; 61 FR 9236, Mar. 7, 1996; 71 FR 16672, Apr. 3, 2006; 73 FR 75584, Dec. 12, 2008]

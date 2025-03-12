@@ -34,7 +34,7 @@ When a party determines the energy efficiency of an electric motor in order to c
 
 (b) *Additional testing requirements applicable when a certification program is not used* - (1) *Selection of basic models for testing.* (i) Basic models must be selected for testing in accordance with the following criteria:
 
-(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior year, or during the prior 12 calendar month period beginning in 1997,1/\> whichever is later;
+(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior year, or during the prior 12 calendar month period beginning in 1997,1 whichever is later;
 
 1 In identifying these five basic models, any electric motor that does not comply with § 431.25 shall be excluded from consideration.
 
@@ -46,11 +46,11 @@ When a party determines the energy efficiency of an electric motor in order to c
 
 (ii) In any instance where it is impossible for a manufacturer to select basic models for testing in accordance with all of these criteria, the criteria shall be given priority in the order in which they are listed. Within the limits imposed by the criteria, basic models shall be selected randomly.
 
-(2) *Selection of units for testing.* For each basic model selected for testing,2/\> a sample of units shall be selected at random and tested. The sample shall be comprised of production units of the basic model, or units that are representative of such production units. The sample size shall be not fewer than five units, except that when fewer than five units of a basic model would be produced over a reasonable period of time (approximately 180 days), then each unit shall be tested. In a test of compliance with a represented average or nominal efficiency:
+(2) *Selection of units for testing.* For each basic model selected for testing,2 a sample of units shall be selected at random and tested. The sample shall be comprised of production units of the basic model, or units that are representative of such production units. The sample size shall be not fewer than five units, except that when fewer than five units of a basic model would be produced over a reasonable period of time (approximately 180 days), then each unit shall be tested. In a test of compliance with a represented average or nominal efficiency:
 
 2 Components of similar design may be substituted without requiring additional testing if the represented measures of energy consumption continue to satisfy the applicable sampling provision.
 
-(i) The average full-load efficiency of the sample X/\> which is defined by
+(i) The average full-load efficiency of the sample X which is defined by
 
 ![](/graphics/er83ad04.001.gif)where Xi is the measured full-load efficiency of unit *i* and n is the number of units tested, shall satisfy the condition:![](/graphics/er83ad04.002.gif)where RE is the represented nominal full-load efficiency, and
 

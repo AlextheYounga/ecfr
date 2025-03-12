@@ -25,17 +25,18 @@
 (d) *Stimulants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a stimulant effect on the central nervous system, including its salts, isomers and salts of isomers:
 
 |(1) Pyrovalerone|1485.|
-|:---------------|----:|
+|----------------|-----|
 | (2) [Reserved] |     |
 
 (e) *Depressants.* Unless specifically exempted or excluded or unless listed in another schedule, any material, compound, mixture, or preparation which contains any quantity of the following substances having a depressant effect on the central nervous system, including its salts:
 
 |                                           (1) Brivaracetam ((2S)-2-[(4R)-2-oxo-4-propylpyrrolidin-1-yl] butanamide) (also referred to as BRV; UCB-34714; Briviact) (including its salts)                                           |2710|
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---:|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |(2) Cenobamate ([(1R)-1-(2-chlorophenyl)-2-(tetrazol-2-yl)ethyl] carbamate; 2H-tetrazole-2-ethanol, alpha-(2-chlorophenyl)-, carbamate (ester), (alphaR)-; carbamic acid (R)-(+)-1-(2-chlorophenyl)-2-(2H-tetrazol-2-yl)ethyl ester)|2720|
 |                                                                        (3) Ezogabine [N-[2-amino-4-(4-fluorobenzylamino)-phenyl]-carbamic acid ethyl ester]                                                                        |2779|
-|                                                                                 (4) Lacosamide [(R)-2-acetoamido-N-benzyl-3-methoxy-propionamide]                                                                                  |2746|
-|                                                                    (5) Lasmiditan [2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-carbonyl)pyridine-2-yl-benzamide]                                                                    |2790|
-|                                                                                     (6) Pregabalin [(S)-3-(aminomethyl)-5-methylhexanoic acid]                                                                                     |2782|
+|                                                                                      (4) Ganaxolone (3α-hydroxy-3β-methyl-5α-pregnan-20-one)                                                                                       |2401|
+|                                                                                 (5) Lacosamide [(R)-2-acetoamido-N-benzyl-3-methoxy-propionamide]                                                                                  |2746|
+|                                                                    (6) Lasmiditan [2,4,6-trifluoro-N-(6-(1-methylpiperidine-4-carbonyl)pyridine-2-yl-benzamide]                                                                    |2790|
+|                                                                                     (7) Pregabalin [(S)-3-(aminomethyl)-5-methylhexanoic acid]                                                                                     |2782|
 
-[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018; 85 FR 5562, Jan. 31, 2020; 85 FR 13746, Mar. 10, 2020; 85 FR 51645, Aug. 21, 2020]
+[39 FR 22143, June 20, 1974, as amended at 43 FR 38383, Aug. 28, 1978; 44 FR 40888, July 13, 1979; 47 FR 49841, Nov. 3, 1982; 50 FR 8108, Feb. 28, 1985; 52 FR 5952, Feb. 27, 1987; 53 FR 10870, Apr. 4, 1988; 56 FR 61372, Dec. 3, 1991; 67 FR 62370, Oct. 7, 2002; 70 FR 43635, July 28, 2005; 74 FR 23790, May 21, 2009; 76 FR 77899, Dec. 15, 2011; 81 FR 29491, May 12, 2016; 83 FR 48953, Sept 28, 2018; 85 FR 5562, Jan. 31, 2020; 85 FR 13746, Mar. 10, 2020; 85 FR 51645, Aug. 21, 2020; 87 FR 32996, June 1, 2022]

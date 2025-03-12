@@ -294,30 +294,6 @@
 
 (i) Government and other entity challengers may use their own software and hardware to collect data for the challenge process. When they submit their data the data must meet the requirements in paragraphs (c)(1)(i) and (ii) of this section, except that government and other entity challengers may submit the International Mobile Equipment Identity (IMEI) of the device used to conduct a speed test for use in the challenge process instead of the timestamp that test measurement data were transmitted to the app developer's servers, as well as the source IP address and port of the device, as measured by the server;
 
-(A) The geographic coordinates of the test(s) (*i.e.,* latitude/longitude);
-
-(B) The name of the service provider being tested;
-
-(C) The consumer-grade device type(s), brand/model, and operating system used for the test;
-
-(D) The download and upload speeds;
-
-(E) The latency data;
-
-(F) The date and time of the test;
-
-(G) Whether the test was taken in an in-vehicle mobile or outdoor, pedestrian stationary environment, and if mobile, whether the test was conducted with the antenna outside of the vehicle;
-
-(H) For an in-vehicle test, the vehicle speed the vehicle was traveling when the test was taken, if available;
-
-(I) The signal strength, if available;
-
-(J) An indication of whether the test failed to establish a connection with a mobile network at the time and place it was initiated;
-
-(K) The network technology (*e.g.,* LTE, 5G) and spectrum band(s) used for the test; and
-
-(L) The location of the server to which the test connected;
-
 (ii) A complete description of the methodology(ies) used to collect their data;
 
 (iii) Challengers must substantiate their data through the certification of a qualified engineer or official; and

@@ -30,11 +30,11 @@ Or,
 
 (A) The mean of the sample, where:
 
-![](/graphics/er27ja12.003.gif)and, *x/\>* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
+![](/graphics/er27ja12.003.gif)and, *x* is the sample mean; n is the number of samples; and xi is the ith sample; Or,
 
 (B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.03, where:
 
-![](/graphics/er27ja12.004.gif)and *x/\>* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% two-tailed confidence interval with n-1 degrees of freedom (from Appendix A to this subpart).
+![](/graphics/er27ja12.004.gif)and *x* is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% two-tailed confidence interval with n-1 degrees of freedom (from Appendix A to this subpart).
 
 (iv) For each basic model of general service incandescent lamp, for measurements of rated lifetime, a minimum sample of 21 lamps shall be tested. The manufacturer shall randomly select a minimum of three lamps from each month of production for a minimum of 7 out of the 12-month period. In the instance where production occurs during fewer than 7 of such 12 months, the manufacturer shall randomly select three or more lamps from each month of production, where the number of lamps selected for each month shall be distributed as evenly as practicable among the months of production to attain a minimum sample of 21 lamps. The lifetime shall be represented as the length of operating time between first use and failure of 50 percent of the sample size, in accordance with test procedures described in section 4.2 of Appendix R to subpart B of part 430 of this chapter. Compliance will be determined by the percentage of sample size that meets the minimum rated lifetime.
 

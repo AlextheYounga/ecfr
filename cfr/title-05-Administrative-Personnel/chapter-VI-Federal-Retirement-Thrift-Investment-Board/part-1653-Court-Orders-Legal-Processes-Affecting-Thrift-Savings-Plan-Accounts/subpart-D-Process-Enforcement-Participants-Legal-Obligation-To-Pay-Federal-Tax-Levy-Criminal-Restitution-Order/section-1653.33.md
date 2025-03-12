@@ -1,8 +1,6 @@
 ##### § 1653.33 Qualifying criminal restitution order. #####
 
-Link to an amendment published at 87 FR 31691, May 24, 2022.
-
-(a) The TSP will only honor the terms of a criminal restitution order that is qualifying under paragraph (b) of this section.
+(a) The TSP record keeper will only honor the terms of a criminal restitution order that is qualifying under paragraph (b) of this section.
 
 (b) A criminal restitution order must meet each of the following requirements to be considered qualifying:
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 31691, May 24, 2022.
 
 (1) A criminal restitution order relating to a TSP account with a zero dollar account balance;
 
-(2) A criminal restitution order relating to a TSP account that contains only nonvested money, unless the money will become vested within 30 days of the date the TSP receives the order if the participant were to remain in Government service;
+(2) A criminal restitution order relating to a TSP account that contains only nonvested money, unless the money will become vested within 30 days of the date the TSP record keeper receives the order if the participant were to remain in Government service;
 
 (3) A criminal restitution order accompanied by an enforcement letter that requires the TSP to make a payment in the future;
 
@@ -24,6 +22,6 @@ Link to an amendment published at 87 FR 31691, May 24, 2022.
 
 (5) A criminal restitution order accompanied by an enforcement letter that requires TSP to make a series of payments;
 
-(6) A criminal restitution order accompanied by an enforcement letter that designates the specific TSP Fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
+(6) A criminal restitution order accompanied by an enforcement letter that designates the specific TSP core fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
 
-[79 FR 53604, Sept. 10, 2014, as amended at 80 FR 52605, Sept. 1, 2015]
+[79 FR 53604, Sept. 10, 2014, as amended at 80 FR 52605, Sept. 1, 2015; 87 FR 31691, May 24, 2022]

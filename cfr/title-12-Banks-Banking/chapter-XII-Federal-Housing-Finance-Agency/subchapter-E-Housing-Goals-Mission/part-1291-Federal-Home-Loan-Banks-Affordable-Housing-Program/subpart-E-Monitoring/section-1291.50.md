@@ -1,5 +1,7 @@
 ##### § 1291.50 Monitoring under the General Fund and Targeted Funds. #####
 
+Link to an amendment published at 87 FR 32969, June 1, 2022.
+
 (a) *Initial monitoring policies for owner-occupied and rental projects.* A Bank shall adopt written policies pursuant to which the Bank shall monitor each AHP owner-occupied project and rental project approved under its General Fund and any Targeted Funds prior to, and within a reasonable period of time after, project completion to verify, at a minimum, satisfaction of the requirements in this section.
 
 (1) *Satisfactory progress.* The Bank shall determine that:

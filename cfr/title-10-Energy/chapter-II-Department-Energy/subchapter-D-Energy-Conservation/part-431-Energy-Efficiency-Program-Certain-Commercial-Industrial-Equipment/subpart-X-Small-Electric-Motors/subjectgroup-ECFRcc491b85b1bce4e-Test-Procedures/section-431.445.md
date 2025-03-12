@@ -2,7 +2,7 @@
 
 (a) *Scope.* When a party determines the energy efficiency of a small electric motor to comply with an obligation imposed on it by or pursuant to Part A-1 of Title III of EPCA, 42 U.S.C. 6311-6317, this section applies.
 
-(b) *Provisions applicable to all small electric motors* - (1) *General requirements.* The average full-load efficiency of each basic model of small electric motor must be determined either by testing in accordance with § 431.444 of this subpart, or by application of an alternative efficiency determination method (AEDM) that meets the requirements of paragraphs (a)(2) and (3) of this section, provided, however, that an AEDM may be used to determine the average full-load efficiency of one or more of a manufacturer's basic models only if the average full-load efficiency of at least five of its other basic models is determined through testing.
+(b) *Provisions applicable to all small electric motors*—(1) *General requirements.* The average full-load efficiency of each basic model of small electric motor must be determined either by testing in accordance with § 431.444 of this subpart, or by application of an alternative efficiency determination method (AEDM) that meets the requirements of paragraphs (a)(2) and (3) of this section, provided, however, that an AEDM may be used to determine the average full-load efficiency of one or more of a manufacturer's basic models only if the average full-load efficiency of at least five of its other basic models is determined through testing.
 
 (2) *Alternative efficiency determination method.* An AEDM applied to a basic model must be:
 
@@ -24,7 +24,7 @@
 
 (ii) For each basic model for which a certification program is not used as described in paragraph (b)(5)(i) of this section, any testing of a motor to determine its energy efficiency must be carried out in accordance with paragraph (c) of this section.
 
-(c) *Additional testing requirements applicable when a certification program is not used* - (1) *Selection of basic models for testing.* (i) Basic models must be selected for testing in accordance with the following criteria:
+(c) *Additional testing requirements applicable when a certification program is not used*—(1) *Selection of basic models for testing.* (i) Basic models must be selected for testing in accordance with the following criteria:
 
 (A) Two of the basic models must be among the five basic models that have the highest unit volumes of production by the manufacturer in the prior year, or during the prior 12 calendar month period beginning in 2015, whichever is later, and comply with the standards set forth in § 431.446;
 
@@ -36,12 +36,12 @@
 
 (ii) In any instance where it is impossible for a manufacturer to select basic models for testing in accordance with all of these criteria, the criteria shall be given priority in the order in which they are listed. Within the limits imposed by the criteria, basic models shall be selected randomly.
 
-(2) *Selection of units for testing within a basic model.* For each basic model selected for testing,1/\> a sample of units shall be selected at random and tested. The sample shall be comprised of production units of the basic model, or units that are representative of such production units. The sample size shall be no fewer than five units, except when fewer than five units of a basic model would be produced over a reasonable period of time (approximately 180 days). In such cases, each unit produced shall be tested.
+(2) *Selection of units for testing within a basic model.* For each basic model selected for testing,1 a sample of units shall be selected at random and tested. The sample shall be comprised of production units of the basic model, or units that are representative of such production units. The sample size shall be no fewer than five units, except when fewer than five units of a basic model would be produced over a reasonable period of time (approximately 180 days). In such cases, each unit produced shall be tested.
 
 1 Components of similar design may be substituted without requiring additional testing if the represented measures of energy consumption continue to satisfy the applicable sampling provision.
 
 (3) *Applying results of testing.* When applying the test results to determine whether a motor complies with the required average efficiency level:
 
-The average full-load efficiency of the sample, X/\> which is defined by
+The average full-load efficiency of the sample, X which is defined by
 
 ![](/graphics/er04my12.000.gif)where Xi is the measured full-load efficiency of unit i and n is the number of units tested, shall satisfy the condition:![](/graphics/er04my12.001.gif)where RE is the required average full-load efficiency.[74 FR 32072, July 7, 2009, as amended at 77 FR 26638, May 4, 2012]

@@ -1,7 +1,5 @@
 ##### § 1605.1 Definitions. #####
 
-Link to an amendment published at 87 FR 31676, May 24, 2022.
-
 (a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
 
 (b) As used in this part:
@@ -16,11 +14,13 @@ Link to an amendment published at 87 FR 31676, May 24, 2022.
 
 (iii) The pay date of an erroneous contribution for which a negative adjustment is being made. However, if the erroneous contribution for which a negative adjustment is being made was a makeup or late contribution, the attributable pay date is the “as of” date of the erroneous makeup or late contribution.
 
-*Breakage* means the loss incurred or the gain realized on makeup or late contributions. It is the difference between the value of the shares of the applicable investment fund(s) that would have been purchased had the contribution been made on the “as of” date and the value of the shares of the same investment fund(s) on the date the contribution is posted to the account.
+*Breakage* means the loss incurred or the gain realized on makeup or late contributions.
 
 *BRS participant* means any member of the Uniformed Services described in 5 U.S.C. 8440e(e)(1).
 
-*Error* means any act or omission by the Board, the TSP Record Keeper, or the participant's employing agency that is not in accordance with applicable statutes, regulations, or administrative procedures that are made available to employing agencies and/or TSP participants. It does not mean an act or omission caused by events that are beyond the control of the Board, the TSP Record Keeper, or the participant's employing agency.
+*Earnings* means both positive and negative fund performance attributable to differences in TSP core fund share prices.
+
+*Error* means any act or omission by the Board, the TSP record keeper, or the participant's employing agency that is not in accordance with applicable statutes, regulations, or administrative procedures that are made available to employing agencies and/or TSP participants. It does not mean an act or omission caused by events that are beyond the control of the Board, the TSP record keeper, or the participant's employing agency.
 
 *FERCCA correction* means the correction of a retirement coverage error pursuant to the Federal Erroneous Retirement Coverage Corrections Act, title II, Public Law 106-265, 114 Stat. 770.
 
@@ -28,9 +28,9 @@ Link to an amendment published at 87 FR 31676, May 24, 2022.
 
 (i) Employee contributions that were timely deducted from a participant's basic pay but were not timely reported to the TSP record keeper for investment;
 
-(ii) Employee contributions that were timely reported to the TSP but were not timely posted to the participant's account by the TSP because the payment record on which they were submitted contained errors;
+(ii) Employee contributions that were timely reported to the TSP record keeper but were not timely posted to the participant's account by the TSP record keeper because the payment record on which they were submitted contained errors;
 
-(iii) Agency matching contributions attributable to employee contributions referred to in paragraphs (i) or (ii) of this definition; and
+(iii) Agency matching contributions attributable to employee contributions referred to in paragraph (i) or (ii) of this definition; and
 
 (iv) Delayed agency automatic (1%) contributions.
 
@@ -54,4 +54,4 @@ Link to an amendment published at 87 FR 31676, May 24, 2022.
 
 *Redesignation record* means a data record submitted by an employing agency to redesignate a contribution that the employing agency erroneously submitted to the wrong balance (traditional or Roth).
 
-[68 FR 35497, June 13, 2003, as amended at 70 FR 32209, June 1, 2005; 77 FR 26425, May 4, 2012; 82 FR 60104, Dec. 19, 2017]
+[68 FR 35497, June 13, 2003, as amended at 70 FR 32209, June 1, 2005; 77 FR 26425, May 4, 2012; 82 FR 60104, Dec. 19, 2017; 87 FR 31676, May 24, 2022]

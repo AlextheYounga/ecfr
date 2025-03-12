@@ -1,0 +1,11 @@
+##### § 1650.25 Rollovers from the TSP. #####
+
+(a) The TSP record keeper will, at the participant's election, roll over all or any portion of an eligible rollover distribution (as defined by section 402(c) of the Internal Revenue Code) directly to an eligible employer plan or an IRA.
+
+(b) If a post-employment distribution includes a payment from a participant's traditional balance and a payment from the participant's Roth balance, the TSP record keeper will, at the participant's election, roll over all or a portion of the payment from the traditional balance to a single plan or IRA and all or a portion of the payment from the Roth balance to another plan or IRA. The TSP record keeper will also allow the traditional and Roth portions of a payment to be rolled over to the same plan or IRA but, for each type of balance, the election must be made separately by the participant and each type of balance will be rolled over separately. However, the TSP record keeper will not roll over portions of the participant's traditional balance to two different institutions or portions of the participant's Roth balance to two different institutions.
+
+(c) If a post-employment distribution includes an amount from a participant's Roth balance and the participant elects to roll over that amount to another eligible employer plan or Roth IRA, the TSP record keeper will inform the plan administrator or trustee of the start date of the participant's Roth 5 year non-exclusion period or the participant's Roth initiation date, and the portion of the distribution that represents Roth contributions. If a post-employment distribution includes an amount from a participant's Roth balance and the participant does not elect to roll over the amount, the TSP record keeper will inform the participant of the portion of the distribution that represents Roth contributions.
+
+(d) Tax-exempt contributions can be rolled over only if the IRA or plan accepts such funds.
+
+(e) The TSP record keeper will roll over distributions only to the extent that the rollover is permitted by the Internal Revenue Code.

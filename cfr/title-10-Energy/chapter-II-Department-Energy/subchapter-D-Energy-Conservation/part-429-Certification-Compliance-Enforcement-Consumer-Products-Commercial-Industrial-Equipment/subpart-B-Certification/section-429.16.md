@@ -68,11 +68,11 @@ Table 1 to Paragraph (a)(1)
 
 (*A*) The mean of the sample, where:
 
-![](/graphics/er05ja17.000.gif)and, *x/\>* is the sample mean; *n* is the number of samples; and xi is the ith sample; or,
+![](/graphics/er05ja17.000.gif)and, *x* is the sample mean; *n* is the number of samples; and xi is the ith sample; or,
 
 (*B*) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er05ja17.001.gif)And *x/\>* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D). Round represented values of EER, SEER, HSPF, EER2, SEER2, and HSPF2 to the nearest 0.05.
+![](/graphics/er05ja17.001.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D). Round represented values of EER, SEER, HSPF, EER2, SEER2, and HSPF2 to the nearest 0.05.
 
 (iii) *Cooling Capacity and Heating Capacity.* The represented values of cooling capacity and heating capacity must each be a self-declared value that is:
 
@@ -80,11 +80,11 @@ Table 1 to Paragraph (a)(1)
 
 (*1*) The mean of the sample, where:
 
-![](/graphics/er05ja17.002.gif)and, *x/\>* is the sample mean; *n* is the number of samples; and xi is the ith sample; or,
+![](/graphics/er05ja17.002.gif)and, *x* is the sample mean; *n* is the number of samples; and xi is the ith sample; or,
 
 (*2*) The lower 90 percent confidence limit (LCL) of the true mean divided by 0.95, where:
 
-![](/graphics/er05ja17.003.gif)And *x/\>* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D).
+![](/graphics/er05ja17.003.gif)And *x* is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.90 is the t statistic for a 90 percent one-tailed confidence interval with n-1 degrees of freedom (from appendix D).
 
 (B) Rounded according to:
 

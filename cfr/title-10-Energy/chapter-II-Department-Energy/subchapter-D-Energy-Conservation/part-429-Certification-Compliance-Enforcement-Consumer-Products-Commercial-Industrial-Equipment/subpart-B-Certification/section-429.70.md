@@ -214,7 +214,7 @@
 
 (3) *Additional testing requirements.* (i) A manufacturer must select basic models for testing in accordance with the following criteria:
 
-(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior year, or during the prior 12-calendar-month period beginning in 2003,1/\> whichever is later;
+(A) Two of the basic models must be among the five basic models with the highest unit volumes of production by the manufacturer in the prior year, or during the prior 12-calendar-month period beginning in 2003,1 whichever is later;
 
 1 When identifying these five basic models, any basic model that does not comply with Federal energy conservation standards for distribution transformers that may be in effect shall be excluded from consideration.
 

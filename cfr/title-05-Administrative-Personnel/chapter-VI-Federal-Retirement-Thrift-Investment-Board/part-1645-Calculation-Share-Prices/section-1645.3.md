@@ -1,8 +1,6 @@
-##### § 1645.3 Calculation of total net earnings for each TSP Fund. #####
+##### § 1645.3 Calculation of total net earnings for each TSP core fund. #####
 
-Link to an amendment published at 87 FR 31681, May 24, 2022.
-
-(a) Each business day, net earnings will be calculated separately for each TSP Fund.
+(a) Each business day, net earnings will be calculated separately for each TSP core fund.
 
 (b) Net earnings for each fund will equal:
 
@@ -18,6 +16,6 @@ Link to an amendment published at 87 FR 31681, May 24, 2022.
 
 (2) Minus the accrued administrative expenses of the fund, determined in accordance with § 1645.4.
 
-(c) The net earnings for each TSP fund determined in accordance with paragraph (b) of this section will be added to the residual net earnings for that fund from the previous business day, as described in § 1645.5(b), to produce the total net earnings. The total net earnings will be used to calculate the share price for that business day.
+(c) The net earnings for each TSP core fund determined in accordance with paragraph (b) of this section will be added to the residual net earnings for that fund from the previous business day, as described in § 1645.5(b), to produce the total net earnings. The total net earnings will be used to calculate the share price for that business day.
 
-[70 FR 32214, June 1, 2005]
+[70 FR 32214, June 1, 2005, as amended at 87 FR 31681, May 24, 2022]

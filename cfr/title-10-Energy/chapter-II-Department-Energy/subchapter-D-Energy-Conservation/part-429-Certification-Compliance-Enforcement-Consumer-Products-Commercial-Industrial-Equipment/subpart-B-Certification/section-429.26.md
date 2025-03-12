@@ -2,7 +2,7 @@
 
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to fluorescent lamp ballasts; and
 
-(2) For each basic model of fluorescent lamp ballasts, a sample of sufficient size, not less than four, shall be randomly selected and tested to ensure that -
+(2) For each basic model of fluorescent lamp ballasts, a sample of sufficient size, not less than four, shall be randomly selected and tested to ensure that—
 
 (i) Any represented value of the energy consumption of a basic model for which consumers would favor lower values shall be greater than or equal to the higher of:
 
@@ -30,7 +30,7 @@ Or,
 
 ![](/graphics/er14se20.005.gif)Where:
 
-x/\> is the sample mean;
+x is the sample mean;
 
 n is the number of units in the sample; and
 

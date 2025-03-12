@@ -14,14 +14,14 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 
 *Fishery management area* means the EEZ off the coasts of Washington, Oregon, and California, bounded on the north by the Provisional International Boundary between the United States and Canada, and bounded on the south by the International Boundary between the United States and Mexico. The northeastern, northern, and northwestern boundaries of the fishery management area are as follows:
 
-(1) Northeastern boundary - that part of a line connecting the light on Tatoosh Island, WA, with the light on Bonilla Point on Vancouver Island, British Columbia, southerly of the International Boundary between the United States and Canada (at 48°29′37″ N. lat., 124°43′33″ W. long.), and northerly of the point where that line intersects with the boundary of the U.S. territorial sea.
+(1) Northeastern boundary—that part of a line connecting the light on Tatoosh Island, WA, with the light on Bonilla Point on Vancouver Island, British Columbia, southerly of the International Boundary between the United States and Canada (at 48°29′37″ N. lat., 124°43′33″ W. long.), and northerly of the point where that line intersects with the boundary of the U.S. territorial sea.
 
-(2) Northern and northwestern boundary is a line1/\> connecting the following coordinates:
+(2) Northern and northwestern boundary is a line1 connecting the following coordinates:
 
 1 The line joining these coordinates is the provisional international boundary of the U.S. EEZ as shown on NOAA/NOS Charts #18480 and #18002.
 
 |  N. lat.   |  W. long.   |
-|:-----------|:------------|
+|------------|-------------|
 |48°29′37.19″|124°43′33.19″|
 | 48°30′11″  | 124°47′13″  |
 | 48°30′22″  | 124°50′21″  |
@@ -43,7 +43,7 @@ In addition to the definitions in the Magnuson Act and in § 600.10 of this chap
 (3) The southern boundary of the fishery management area is the U.S.-Mexico International Boundary, which is a line connecting the following coordinates:
 
 | N. lat. | W. long. |
-|:--------|:---------|
+|---------|----------|
 |32°35′22″|117°27′49″|
 |32°37′37″|117°49′31″|
 |31°07′58″|118°36′18″|

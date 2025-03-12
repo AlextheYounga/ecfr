@@ -1,5 +1,7 @@
 ##### § 1291.23 Eligible projects. #####
 
+Link to an amendment published at 87 FR 32969, June 1, 2022.
+
 Projects receiving AHP subsidies pursuant to a Bank's General Fund and any Targeted Funds must meet the following eligibility requirements:
 
 (a) *Owner-occupied or rental housing.* The AHP subsidy shall be used exclusively for:

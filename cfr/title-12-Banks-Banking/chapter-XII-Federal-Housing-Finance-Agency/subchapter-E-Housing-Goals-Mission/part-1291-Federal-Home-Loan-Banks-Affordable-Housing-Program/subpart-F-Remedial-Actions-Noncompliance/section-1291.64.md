@@ -1,5 +1,7 @@
 ##### § 1291.64 Use of repaid AHP subsidies. #####
 
+Link to an amendment published at 87 FR 32969, June 1, 2022.
+
 (a) *Use of repaid AHP subsidies for other AHP-eligible projects or households.* Except as provided in paragraph (b) of this section, amounts of AHP subsidy, including any interest, repaid to a Bank pursuant to this part shall be made available by the Bank for other AHP-eligible projects or households.
 
 (b) *Re-use of repaid AHP direct subsidies in same project* - (1) *Requirements.* AHP direct subsidy, including any interest, repaid to a member or project sponsor, as applicable, under a Bank's General Fund and any Targeted Funds may be repaid by such parties to the Bank for subsequent disbursement to and re-use by such parties, or retained by such parties for subsequent re-use, as authorized by the Bank, in its discretion, after consultation with its Advisory Council, in its AHP Implementation Plan, provided all of the following requirements are satisfied:

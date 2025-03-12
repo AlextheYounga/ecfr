@@ -1,8 +1,6 @@
 ##### § 1653.36 Payment. #####
 
-Link to an amendment published at 87 FR 31692, May 24, 2022.
-
-(a) Payment pursuant to a qualifying tax levy or criminal restitution order will be made 30 days after the TSP decision letter.
+(a) Payment pursuant to a qualifying tax levy or criminal restitution order will be made 30 days after the decision letter.
 
 (b) In no case will payment exceed the participant's calculated entitlement.
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 31692, May 24, 2022.
 
 (3) Beneficiary participant account.
 
-(e) Payment will be made pro rata from the participant's traditional and Roth balances. The distribution from the traditional balance will be further pro rated between the tax-deferred balance and tax-exempt balance. The payment from the Roth balance will be further pro rated between contributions in the Roth balance and earnings in the Roth balance. In addition, all payments will be distributed pro rata from all TSP Funds in which the participant's account is invested. All pro rated amounts will be based on the balances in each fund or source of contributions on the day the disbursement is made.
+(e) Payment will be made pro rata from the participant's traditional and Roth balances. The distribution from the traditional balance will be further pro rated between the tax-deferred balance and tax-exempt balance. The payment from the Roth balance will be further pro rated between contributions in the Roth balance and earnings in the Roth balance. In addition, all payments will be distributed pro rata from all TSP core funds in which the participant's account is invested. All pro rated amounts will be based on the balances in each fund or source of contributions on the day the disbursement is made.
 
 (f) The payment is taxable to the participant and is subject to Federal income tax withholding. The tax withholding will be taken from the payee's entitlement and the gross amount of the payment (*i.e.*, the net payment distributed to the payee plus the amount withheld from the payment for taxes) will be reported to the IRS as income to the participant.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 87 FR 31692, May 24, 2022.
 
 (h) The TSP will not hold a payment pending appeal of a criminal restitution order or the underlying conviction. The TSP will treat the criminal restitution order as a final judgment pursuant to 18 U.S.C. 3664(o) and process payment as provided by this subpart.
 
-[79 FR 53604, Sept. 10, 2014, as amended at 80 FR 52606, Sept. 1, 2015]
+[79 FR 53604, Sept. 10, 2014, as amended at 80 FR 52606, Sept. 1, 2015; 87 FR 31692, May 24, 2022]

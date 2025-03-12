@@ -1,7 +1,5 @@
 ##### § 622.41 Annual catch limits (ACLs), annual catch targets (ACTs), and accountability measures (AMs). #####
 
-Link to an amendment published at 87 FR 25590, May 2, 2022.
-
 (a) *Greater amberjack* - (1) *Commercial sector.* (i) If commercial landings, as estimated by the SRD, reach or are projected to reach the annual catch target (ACT) specified in § 622.39(a)(1)(v)(commercial quota), the Assistant Administrator for Fisheries, NOAA, (AA) will file a notification with the Office of the Federal Register to close the commercial sector for the remainder of the fishing year.
 
 (ii) In addition to the measures specified in paragraph (a)(1)(i) of this section, if commercial landings, as estimated by the SRD, exceed the commercial ACL, as specified in (a)(1)(iii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the commercial ACT (commercial quota) and the commercial ACL for that following year by the amount of any commercial ACL overage in the prior fishing year.
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 25590, May 2, 2022.
 
 (iv) The applicable recreational ACLs for gag, in gutted weight, are 1.232 million lb (0.559 million kg) for 2012, 1.495 million lb (0.678 million kg) for 2013, 1.720 million lb (0.780 million kg) for 2014, and 1.903 million lb (0.863 million kg) for 2015 and subsequent fishing years. The recreational ACTs for gag, in gutted weight, are 1.031 million lb (0.468 million kg) for 2012, 1.287 million lb (0.584 million kg) for 2013, 1.519 million lb (0.689 million kg) for 2014, and 1.708 million lb (0.775 million kg) for 2015 and subsequent fishing years.
 
-(e) *Red grouper* - (1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial red grouper. The commercial ACT for red grouper is equal to the applicable quota specified in § 622.39(a)(1)(iii)(C). The applicable commercial ACL for red grouper, in gutted weight, is 3.16 million lb (1.43 million kg).
+(e) *Red grouper* - (1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial red grouper. The commercial ACT for red grouper is equal to the applicable quota specified in § 622.39(a)(1)(iii)(C). The commercial ACL for red grouper, in gutted weight, is 2.53 million lb (1.15 million kg).
 
 (2) *Recreational sector.* (i) Without regard to overfished status, if red grouper recreational landings, as estimated by the SRD, reach or are projected to reach the applicable ACL specified in paragraph (e)(2)(iv) of this section, the AA will file a notification with the Office of the Federal Register, to close the recreational sector for the remainder of the fishing year. On and after the effective date of such a notification, the bag and possession limit of red grouper in or from the Gulf EEZ is zero. This bag and possession limit applies in the Gulf on board a vessel for which a valid Federal charter vessel/headboat permit for Gulf reef fish has been issued, without regard to where such species were harvested, *i.e.* in state or Federal waters.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 25590, May 2, 2022.
 
 (iii) If red grouper are overfished, based on the most recent Status of U.S. Fisheries Report to Congress, and red grouper recreational landings, as estimated by the SRD, exceed the applicable ACL specified in paragraph (e)(2)(iv) of this section, the following measures will apply. In addition to the measures specified in paragraphs (e)(2)(i) and (ii) of this section, the AA will file a notification with the Office of the Federal Register, at or near the beginning of the following fishing year to reduce the ACL for that following year by the amount of the ACL overage in the prior fishing year, and reduce the ACT, as determined in paragraph (e)(2)(ii) of this section, by the amount of the ACL overage in the prior fishing year, unless the best scientific information available determines that a greater, lesser, or no overage adjustment is necessary.
 
-(iv) The recreational ACL for red grouper, in gutted weight, is 1.00 million lb (0.45 million kg). The recreational ACT for red grouper, in gutted weight, is 0.92 million lb (0.42 million kg).
+(iv) The recreational ACL for red grouper, in gutted weight, is 1.73 million lb (0.78 million kg). The recreational ACT for red grouper, in gutted weight, is 1.57 million lb (0.71 million kg).
 
 (f) *Deep-water grouper (DWG) combined (including yellowedge grouper, warsaw grouper, snowy grouper, and speckled hind)* - (1) *Commercial sector.* The IFQ program for groupers and tilefishes in the Gulf of Mexico serves as the accountability measure for commercial DWG. The commercial ACT for DWG is equal to the applicable quota specified in § 622.39(a)(1)(ii). The commercial ACL for DWG, in gutted weight, is 1.160 million lb (0.526 million kg) for 2014, 1.150 million lb (0.522 million kg) for 2015, and 1.070 million lb (0.485 million kg) for 2016 and subsequent fishing years.
 

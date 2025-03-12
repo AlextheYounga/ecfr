@@ -1,16 +1,10 @@
 ##### § 1690.1 Definitions. #####
 
-Link to an amendment published at 87 FR 31695, May 24, 2022.
-
 As used in this chapter:
 
-*Account* or *individual account* means the account established for a participant in the Thrift Savings Plan under 5 U.S.C. 8439(a). The TSP offers four types of accounts: civilian participant accounts, uniformed services accounts, civilian beneficiary participant accounts, and uniformed services beneficiary participant accounts. Each type of account may contain a traditional balance, a Roth balance, or both.
+*Agency automatic (1%) contributions* means any contributions made under 5 U.S.C. 8432(c)(1) and (c)(3). It also includes service automatic (1%) contributions made under 5 U.S.C. 8440e(e)(3)(A).
 
-*Account balance* means the sum of the dollar balances for each source of contributions in each TSP Fund for an individual account. The dollar balance in each fund on a given day is the product of the total number of shares in that fund multiplied by the share price for the fund on that day.
-
-*Agency Automatic (1%) Contributions* means any contributions made under 5 U.S.C. 8432(c)(1) and (c)(3). It also includes service automatic (1%) contributions made under 5 U.S.C. 8440e(e)(3)(A).
-
-*Agency Matching Contributions* means any contributions made under 5 U.S.C. 8432(c)(2). It also includes service matching contributions under 5 U.S.C. 8440e(e)(3)(B).
+*Agency matching contributions* means any contributions made under 5 U.S.C. 8432(c)(2). It also includes service matching contributions under 5 U.S.C. 8440e(e)(3)(B).
 
 *Basic pay* means basic pay as defined in 5 U.S.C. 8331(3). For CSRS and FERS employees, it is the rate of pay used in computing any amount the individual is otherwise required to contribute to the Civil Service Retirement and Disability Fund as a condition of participating in the Civil Service Retirement System or the Federal Employees' Retirement System, as the case may be. For members of the uniformed services, it is basic pay payable under 37 U.S.C. 204 and compensation received under 37 U.S.C. chapter 206.
 
@@ -36,8 +30,6 @@ As used in this chapter:
 
 *Civilian employee* or civilian participant means a TSP participant covered by the Federal Employees' Retirement System, the Civil Service Retirement System, or equivalent retirement plan.
 
-*Contribution allocation* means the participant's apportionment of his or her future contributions, loan payments, and transfers or rollovers from eligible employer plans or traditional IRAs among the TSP Funds.
-
 *Contribution election* means a request by an employee to start contributing to the TSP, to change the amount or type of contributions (traditional or Roth) made to the TSP each pay period, or to terminate contributions to the TSP.
 
 *Court of competent jurisdiction* means the court of any state, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court as defined by 25 U.S.C. 1301(3).
@@ -54,7 +46,7 @@ As used in this chapter:
 
 *Employee contributions* means traditional contributions and Roth contributions. Employee contributions are made at the participant's election pursuant to § 1600.12 and are deducted from compensation paid to the employee.
 
-*Employer contributions* means Agency Automatic (1%) Contributions under 5 U.S.C. 8432(c)(1), 8432(c)(3), or 5 U.S.C. 8440e(e)(3)(A) and Agency Matching Contributions under 5 U.S.C. 8432(c)(2) or 5 U.S.C. 8440e(e)(3)(B).
+*Employer contributions* means agency automatic (1%) contributions under 5 U.S.C. 8432(c)(1), 8432(c)(3), or 5 U.S.C. 8440e(e)(3)(A) and agency matching contributions under 5 U.S.C. 8432(c)(2) or 5 U.S.C. 8440e(e)(3)(B).
 
 *Employing agency* means the organization (or the payroll office that services the organization) that employs an individual eligible to contribute to the TSP and that has authority to make personnel compensation decisions for the individual. It includes the employing service for members of the uniformed services.
 
@@ -78,13 +70,17 @@ As used in this chapter:
 
 *I Fund* means the International Stock Index Investment Fund established under 5 U.S.C. 8438(b)(1)(E).
 
-*In-service withdrawal request* means a properly completed withdrawal election for either an age-based in-service withdrawal or a financial hardship in-service withdrawal, on any form required by the TSP, together with the supporting documentation required by the application.
+*In-service withdrawal request* means a properly completed withdrawal election for either an age-based in-service withdrawal under 5 CFR 1650.41 or a financial hardship in-service withdrawal under 5 CFR 1650.42.
+
+*Investment election* means the participant's apportionment of his or her future contributions, loan payments, and rollovers from eligible employer plans or traditional IRAs among the TSP core funds.
+
+*L Fund* means the Lifecycle Funds described in 5 CFR part 1601, subpart E.
 
 *PEBD* means the pay entry base date (or pay entry basic date for some services), which is determined by each uniformed service and is used to calculate how much time in service a member has for the purpose of determining longevity pay rates.
 
 *Plan participant* or *participant* means any person with an account (other than a beneficiary participant account) in the Thrift Savings Plan or who would have an account (other than a beneficiary account) but for an employing agency error.
 
-*Post-employment withdrawal request* means a properly completed withdrawal election on any form required by the TSP in order for a participant to elect a post-employment withdrawal of his or her account balance.
+*Post-employment distribution request* means a properly completed distribution withdrawal election under 5 CFR 1650.24.
 
 *Posting* means the process of crediting or debiting transactions to an individual account.
 
@@ -100,7 +96,7 @@ As used in this chapter:
 
 (1) Roth contributions and associated earnings; and
 
-(2) Amounts transferred to the TSP from a Roth account maintained by an eligible employer plans and earnings on those amounts.
+(2) Amounts rolled over to the TSP from a Roth account maintained by an eligible employer plans and earnings on those amounts.
 
 *Roth contributions* means employee contributions made to the participant's Roth balance which are authorized by 5 U.S.C. 8432d. Roth contributions may be deducted from taxable pay on an after-tax basis or from pay exempt from taxation under 26 U.S.C. 112.
 
@@ -112,7 +108,7 @@ As used in this chapter:
 
 (ii) The “as of” date or attributable pay date (as defined in § 1605.1 of this subchapter) that established the date of the participant's first Roth contribution to the TSP; or
 
-(iii) The date used, by a plan from which the participant directly transferred Roth money into the TSP, to measure the participant's Roth five year non-exclusion period.
+(iii) The date used, by a plan from which the participant directly rolled over Roth money into the TSP, to measure the participant's Roth 5 year non-exclusion period.
 
 (2) If a participant has a civilian account and a uniformed services account, the Roth initiation date for both accounts will be the same.
 
@@ -126,7 +122,7 @@ As used in this chapter:
 
 *Share price* means the value of a share in a TSP Fund. The share price is calculated separately for each fund for each business day. The share price includes the cumulative net earnings or losses for each fund through the date the share price is calculated.
 
-*Source of contributions* means traditional contributions, Roth contributions, Agency Automatic (1%) Contributions, or matching contributions. All amounts in a participant's account are attributed to one of these four sources. Catch-up contributions, transfers, rollovers, and loan payments are included in the traditional contribution source or the Roth contribution source.
+*Source of contributions* means traditional contributions, Roth contributions, agency automatic (1%) contributions, or agency matching contributions. All amounts in a participant's account are attributed to one of these four sources. Catch-up contributions, rollovers, and loan payments are included in the traditional contribution source or the Roth contribution source.
 
 *Special or incentive pay* means pay payable as special or incentive pay under 37 U.S.C. chapter 5.
 
@@ -134,7 +130,7 @@ As used in this chapter:
 
 *Tax-deferred balance* means the sum of:
 
-(1) All contributions, rollovers, and transfers in a participant's traditional balance that would otherwise be includible in gross income if paid directly to the participant and earnings on those amounts; and
+(1) All contributions and rollovers in a participant's traditional balance that would otherwise be includible in gross income if paid directly to the participant and earnings on those amounts; and
 
 (2) Earnings on any tax-exempt contributions in the traditional balance. The tax-deferred balance does not include tax-exempt contributions.
 
@@ -154,25 +150,25 @@ As used in this chapter:
 
 (1) Tax-deferred contributions and associated earnings;
 
-(2) Tax-deferred amounts rolled over or transferred into the TSP and associated earnings;
+(2) Tax-deferred amounts rolled over into the TSP and associated earnings;
 
 (3) Tax-exempt contributions and associated earnings;
 
-(4) Matching contributions and associated earnings;
+(4) Agency matching contributions and associated earnings;
 
-(5) Agency Automatic (1%) Contributions and associated earnings.
+(5) Agency automatic (1%) contributions and associated earnings.
 
 *Traditional contributions* means tax-deferred employee contributions and tax-exempt employee contributions made to the participant's traditional balance.
 
 *Traditional IRA* means an individual retirement account described in I.R.C. section 408(a) (26 U.S.C. 408(a)) and an individual retirement annuity described in I.R.C. section 408(b) (26 U.S.C. 408(b)) (other than an endowment contract).
 
-*Trustee-to-trustee transfer or transfer* means the payment of an eligible rollover distribution (as defined in section 402(c)(4) of the Internal Revenue Code) from an eligible employer plan or IRA directly to another eligible employer plan or IRA at the participant's request.
+*TSP core fund* means an investment fund established pursuant to 5 U.S.C. 8438(b)(1)(A)-(E) and (c)(2).
 
-*TSP Fund* means an investment fund established pursuant to 5 U.S.C. 8438 and an investment allocation fund established pursuant to 5 CFR Part 1601, subpart E.
+*TSP record keeper* means the entities the Board engages to perform record keeping and administration services for the Thrift Savings Plan.
 
-*TSP record keeper* means the entities the Board engages to perform record keeping services for the Thrift Savings Plan.
+*TSP record keeper* means the entities the Board engages to perform record keeping and administration services for the Thrift Savings Plan.
 
-*TSP Web site* means the Internet location maintained by the Board, which contains information about the TSP and by which TSP participants may, among other things, access their accounts by computer. The TSP Web site address is *www.tsp.gov.*
+*TSP website* means the internet location(s) maintained by the TSP and/or its record keeper, which contain(s) information about the TSP and by which TSP participants may, among other things, access their accounts by computer.
 
 *Uniformed service member* or uniformed services participant means a TSP participant who is a member of the uniformed services on active duty or a member of the Ready Reserve in any pay status.
 
@@ -184,4 +180,4 @@ As used in this chapter:
 
 *Vested account balance* means that portion of an individual's account which is not subject to forfeiture under 5 U.S.C. 8432(g).
 
-[68 FR 35519, June 13, 2003, as amended at 70 FR 32218, June 1, 2005; 71 FR 50320, Aug. 25, 2006; 75 FR 78880, Dec. 17, 2010; 77 FR 26429, May 4, 2012; 78 FR 57784, Sept. 20, 2013; 82 FR 60105, Dec. 19, 2017]Editorial Note:At 77 FR 26429, May 4, 2012, § 1690.1 was amended by removing the definitions of “regular contributions” and “combat zone compensation”; however, the amendatory instruction could not be incorporated because the definitions were not found in the section.
+[68 FR 35519, June 13, 2003, as amended at 70 FR 32218, June 1, 2005; 71 FR 50320, Aug. 25, 2006; 75 FR 78880, Dec. 17, 2010; 77 FR 26429, May 4, 2012; 78 FR 57784, Sept. 20, 2013; 82 FR 60105, Dec. 19, 2017; 87 FR 31695, May 24, 2022]Editorial Note:At 77 FR 26429, May 4, 2012, § 1690.1 was amended by removing the definitions of “regular contributions” and “combat zone compensation”; however, the amendatory instruction could not be incorporated because the definitions were not found in the section.

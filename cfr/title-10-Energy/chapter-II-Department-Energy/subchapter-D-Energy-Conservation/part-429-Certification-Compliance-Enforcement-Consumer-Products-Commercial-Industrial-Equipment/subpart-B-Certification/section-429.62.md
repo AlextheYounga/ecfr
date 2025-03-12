@@ -2,19 +2,19 @@
 
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to portable air conditioners; and
 
-(2) For each basic model of portable air conditioner, a sample of sufficient size must be randomly selected and tested to ensure that -
+(2) For each basic model of portable air conditioner, a sample of sufficient size must be randomly selected and tested to ensure that—
 
 (i) Any represented value of energy consumption or other measure of energy consumption of a basic model for which consumers would favor lower values is greater than or equal to the higher of:
 
 (A) The mean of the sample:
 
-![](/graphics/er01jn16.001.gif)Where:*x/\>* is the sample mean;xi is the ith sample; andn is the number of units in the test sample.
+![](/graphics/er01jn16.001.gif)Where:*x* is the sample mean;xi is the ith sample; andn is the number of units in the test sample.
 
 Or,
 
 (B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.10:
 
-![](/graphics/er01jn16.002.gif)Where:*x/\>* is the sample mean;s is the sample standard deviation;n is the number of units in the test sample; andt0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom.
+![](/graphics/er01jn16.002.gif)Where:*x* is the sample mean;s is the sample standard deviation;n is the number of units in the test sample; andt0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom.
 
 And,
 
@@ -22,13 +22,13 @@ And,
 
 (A) The mean of the sample:
 
-![](/graphics/er01jn16.003.gif)Where:*x/\>* is the sample mean;xi is the ith sample; andn is the number of units in the test sample.
+![](/graphics/er01jn16.003.gif)Where:*x* is the sample mean;xi is the ith sample; andn is the number of units in the test sample.
 
 Or,
 
 (B) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.90:
 
-![](/graphics/er01jn16.004.gif)Where:*x/\>* is the sample mean;s is the sample standard deviation;n is the number of units in the test sample; andt0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom.
+![](/graphics/er01jn16.004.gif)Where:*x* is the sample mean;s is the sample standard deviation;n is the number of units in the test sample; andt0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom.
 
 And,
 

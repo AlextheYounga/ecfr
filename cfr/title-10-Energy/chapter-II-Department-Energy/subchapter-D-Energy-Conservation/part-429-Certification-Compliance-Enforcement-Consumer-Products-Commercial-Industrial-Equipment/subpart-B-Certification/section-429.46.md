@@ -1,5 +1,7 @@
 ##### § 429.46 Commercial clothes washers. #####
 
+Link to an amendment published at 87 FR 33379, June 1, 2022.
+
 (a) *Sampling plan for selection of units for testing.* (1) The requirements of § 429.11 are applicable to commercial clothes washers; and
 
 (2) For each basic model of commercial clothes washers, a sample of sufficient size shall be randomly selected and tested to ensure that -

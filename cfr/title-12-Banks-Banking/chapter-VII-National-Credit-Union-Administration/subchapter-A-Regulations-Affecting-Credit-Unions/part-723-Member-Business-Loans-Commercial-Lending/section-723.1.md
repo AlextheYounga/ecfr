@@ -27,3 +27,5 @@
 (3) The requirements of § 701.23 of this chapter apply to a Federal credit union's purchase, sale, or pledge of a commercial loan as an eligible obligation.
 
 (4) The requirements of § 701.22 of this chapter apply to a federally insured credit union's purchase of a participation interest in a commercial loan.
+
+Editorial Note:At 80 FR 66723, Oct. 29, 2015, § 723.1 was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

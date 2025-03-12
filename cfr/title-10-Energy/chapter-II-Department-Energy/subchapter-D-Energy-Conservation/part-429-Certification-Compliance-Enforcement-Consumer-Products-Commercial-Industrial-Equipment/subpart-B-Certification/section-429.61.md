@@ -10,13 +10,13 @@
 
 ![](/graphics/er18jy16.000.gif)
 
-And, x/\> is the sample mean; n is the number of samples; and xi is the ith sample; or
+And, x is the sample mean; n is the number of samples; and xi is the ith sample; or
 
 (B) The upper 95 percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
 ![](/graphics/er18jy16.001.gif)
 
-And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 and
 
@@ -26,13 +26,13 @@ and
 
 ![](/graphics/er18jy16.002.gif)
 
-And, x/\> is the sample mean; n is the number of samples; and xi is the ith sample; or
+And, x is the sample mean; n is the number of samples; and xi is the ith sample; or
 
 (B) The lower 95 percent confidence limit (LCL) of the true mean divided by 0.90, where:
 
 ![](/graphics/er18jy16.003.gif)
 
-And x/\> is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
+And x is the sample mean; s is the sample standard deviation; n is the number of samples; and t0.95 is the t statistic for a 95% one-tailed confidence interval with n-1 degrees of freedom (from appendix A of this subpart).
 
 (3) The value of total refrigerated volume of a basic model reported in accordance with paragraph (b)(2) of this section shall be the mean of the total refrigerated volumes measured for each tested unit of the basic model or the total refrigerated volume of the basic model as calculated in accordance with § 429.72(d). The value of adjusted total volume of a basic model reported in accordance with paragraph (b)(2) of this section shall be the mean of the adjusted total volumes measured for each tested unit of the basic model or the adjusted total volume of the basic model as calculated in accordance with § 429.72(d).
 

@@ -176,7 +176,7 @@ Exceptions are as follows: Outside air intakes, exhaust outlets, relief outlets,
 
 (c) All electric lighting fixtures within daylighted zones under skylights are controlled by automatic daylighting controls.
 
-(d) The Uo of the skylight assembly including framing does not exceed\_\_\_\_\_\_\_\_\_\_\_\_Btu/(h·ft2·°F) [Use 0.70 for ≤8000 HDD65 and 0.45 for \>8000 HDD65 or both if the jurisdiction includes cities that are both below and above 8000 HDD65.]
+(d) The Uo of the skylight assembly including framing does not exceed\_\_\_\_\_\_Btu/(h·ft2·°F) [Use 0.70 for ≤8000 HDD65 and 0.45 for \>8000 HDD65 or both if the jurisdiction includes cities that are both below and above 8000 HDD65.]
 
 (e) Skylight curb U-value does not exceed 0.21 Btu/(h·ft2·°F).
 
@@ -186,7 +186,7 @@ Exceptions are as follows: Outside air intakes, exhaust outlets, relief outlets,
 
 402.4 *Exterior Walls.* Exterior walls shall comply with either 402.4.1 or 402.4.2.
 
-402.4.1 *Prescriptive Criteria.* (a) The exterior wall shall be designed in accordance with subsections 402.4.1.1 and 402.4.1.2. When the internal load density range is not known, the 0-1.50 W/ft2 range shall be used for residential, hotel/motel guest rooms, or warehouse occupancies; the 3.01-3.50 w/ft2 range shall be used for retail stores smaller than 2,000 ft2 and technical and vocational schools smaller than 10,000 ft2; and the 1.51-3.00 W/ft2 range shall be used for all other occupancies and building sizes. When the building envelope is designed or constructed prior to knowing the building occupancy type, an internal load density of \_\_\_\_\_\_ W/ft2 shall be used. [Use 3.0 W/ft2 for HDD65 \<3000, 2.25 W/ft2 for 3000 \<HDD65 \<6000, and 1.5 W/ft2 for HDD65 \>6000.]
+402.4.1 *Prescriptive Criteria.* (a) The exterior wall shall be designed in accordance with subsections 402.4.1.1 and 402.4.1.2. When the internal load density range is not known, the 0-1.50 W/ft2 range shall be used for residential, hotel/motel guest rooms, or warehouse occupancies; the 3.01-3.50 w/ft2 range shall be used for retail stores smaller than 2,000 ft2 and technical and vocational schools smaller than 10,000 ft2; and the 1.51-3.00 W/ft2 range shall be used for all other occupancies and building sizes. When the building envelope is designed or constructed prior to knowing the building occupancy type, an internal load density of \_\_\_ W/ft2 shall be used. [Use 3.0 W/ft2 for HDD65 \<3000, 2.25 W/ft2 for 3000 \<HDD65 \<6000, and 1.5 W/ft2 for HDD65 \>6000.]
 
 (b) When more than one condition exists, area weighted averages shall be used. This requirement shall apply to all thermal transmittances, shading coefficients, projection factors, and internal load densities rounded to the same number of decimal places as shown in the respective table.
 

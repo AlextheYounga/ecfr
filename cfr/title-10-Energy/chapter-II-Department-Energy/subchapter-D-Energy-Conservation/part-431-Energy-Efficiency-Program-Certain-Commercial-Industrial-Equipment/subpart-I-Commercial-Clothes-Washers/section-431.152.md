@@ -1,5 +1,7 @@
 ##### § 431.152 Definitions concerning commercial clothes washers. #####
 
+Link to an amendment published at 87 FR 33405, June 1, 2022.
+
 *Basic model* means all units of a given type of covered product (or class thereof) manufactured by one manufacturer, having the same primary energy source, and which have essentially identical electrical, physical, and functional (or hydraulic) characteristics that affect energy consumption, energy efficiency, water consumption, or water efficiency.
 
 *Commercial clothes washer* means a soft-mounted front-loading or soft-mounted top-loading clothes washer that -

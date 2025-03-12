@@ -1,25 +1,37 @@
-##### § 1655.15 Taxable distributions. #####
+##### § 1655.15 Deemed Distributions and Loan Offsets. #####
 
-Link to an amendment published at 87 FR 31693, May 24, 2022.
+(a) The TSP record keeper will ensure that all requirements set forth in section 72(p) of the Internal Revenue Code and the regulations promulgated thereunder with respect to deemed distributions are satisfied.
 
-(a) The Board may declare any unpaid loan principal, plus unpaid interest, to be a taxable distribution from the Plan if:
+(1) The TSP record keeper will declare the entire unpaid balance of an outstanding loan (including interest) to be a deemed distribution if:
 
-(1) A participant is in a confirmed nonpay status for a period of one year or more, has not advised the TSP that he or she is serving on active military duty, and payments are not resumed after the participant is notified the loan has been reamortized;
+(i) The participant misses two or more loan payments or the participant's payments are made for less than the required amount, and the delinquency is not cured within the cure period;
 
-(2) A participant separates from Government service and does not repay the outstanding loan principal and interest in full within the period specified by the notice to the participant from the TSP record keeper explaining the participant's repayment options;
+(ii) The loan is not repaid in full by the maximum term limit; or
 
-(3) The TSP record keeper advises the participant that there are missing payments and the participant fails to make (by personal check or guaranteed funds) a direct payment of the entire missing amount or repayment in full by the deadline established in accordance with § 1655.14(e);
+(iii) A participant is in a confirmed nonpay status for a period of one year or more, has not advised the TSP record keeper that he or she is serving on active military duty, and payments are not resumed after the participant is notified the loan has been reamortized.
 
-(4) Any material information provided in accordance with § 1655.10, § 1655.12, or § 1655.18 is found to be false;
+(2) Loan taxation does not relieve a participant of his or her obligation to repay the taxed loan amount. A participant may repay a taxed loan in full (including accrued interest) via check or money order up until the time he or she separates from Government service. The tax basis in a participant's TSP account will be adjusted to reflect the repayment of a taxed loan.
 
-(5) With the exception of a loan described in 5 CFR 1620.45, the loan is not repaid in full (including interest due) within five years, in the case of a general purpose loan, or within 15 years, in the case of a residential loan, from the loan issue date; or
+(3) If a participant does not repay a taxed loan:
 
-(6) The participant dies.
+(i) His or her account balance will be permanently reduced; and
 
-(b) If a taxable distribution occurs in accordance with paragraph (a) of this section, the Board will notify the participant of the amount and date of the distribution. The Board will report the distribution to the Internal Revenue Service as income for the year in which it occurs.
+(ii) The taxed loan will count as one of the two loans the participant is permitted per account and is treated as an outstanding loan balance when calculating the participant's maximum loan amount.
 
-(c) If a participant dies and a taxable distribution occurs in accordance with paragraph (a) of this section, the Board will notify the participant's estate of the amount and date of the distribution. Neither the estate nor any other person, including a beneficiary, may repay the loan of a deceased participant, nor can the funds be returned to the TSP.
+(b) The TSP record keeper will ensure that all requirements set forth in section 72(p) of the Internal Revenue Code and the regulations promulgated thereunder with respect to loan offsets are satisfied.
 
-(d) If, because of Board or TSP record keeper error, a TSP loan is declared a taxable distribution under circumstances that make such a declaration inconsistent with this part, or inconsistent with other procedures established by the Board or TSP record keeper in connection with the TSP loan program, the taxable distribution will be reversed. The participant will be provided an opportunity to reinstate loan payments or repay in full the outstanding balance on the loan.
+(1) The TSP record keeper will declare a loan offset in the following situations:
 
-[68 FR 35515, June 13, 2003, as amended at 68 FR 74451, Dec. 23, 2003; 72 FR 53414, Sept. 19, 2007; 77 FR 26429, May 4, 2012]
+(i) A participant separates from Government service and does not begin making loan repayments or repay the outstanding loan principal and interest in full within the period specified by the notice to the participant from the TSP record keeper explaining the participant's repayment options; or
+
+(ii) The participant dies.
+
+(2) [Reserved]
+
+(c) If a deemed distribution or loan offset occurs in accordance with paragraph (a) or (b) of this section, as applicable, the TSP record keeper will notify the participant of the amount and date of the distribution. The TSP record keeper will report the distribution to the Internal Revenue Service as income for the year in which it occurs.
+
+(d) If a participant dies and a loan offset occurs in accordance with paragraph (b) of this section, the TSP record keeper will notify the participant's estate of the amount and date of the distribution. Neither the estate nor any other person, including a beneficiary, may repay the loan of a deceased participant, nor can the funds be returned to the TSP.
+
+(e) If, because of Board or TSP record keeper error, a TSP loan is declared a deemed distribution or loan offset under circumstances that make such a declaration inconsistent with this part, or inconsistent with other procedures established by the Board or TSP record keeper in connection with the TSP loan program, the distribution will be reversed. The participant will be provided an opportunity to reinstate loan payments or repay in full the outstanding balance on the loan.
+
+[87 FR 31693, May 24, 2022]

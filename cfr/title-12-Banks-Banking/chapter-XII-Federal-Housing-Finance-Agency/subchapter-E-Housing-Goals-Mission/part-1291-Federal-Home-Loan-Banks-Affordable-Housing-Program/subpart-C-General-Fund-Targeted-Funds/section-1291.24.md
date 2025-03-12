@@ -1,5 +1,7 @@
 ##### § 1291.24 Eligible uses. #####
 
+Link to an amendment published at 87 FR 32969, June 1, 2022.
+
 (a) *Eligible uses of AHP subsidy.* AHP subsidies shall be used only for:
 
 (1) *Owner-occupied housing.* The purchase, construction, or rehabilitation of owner-occupied housing.

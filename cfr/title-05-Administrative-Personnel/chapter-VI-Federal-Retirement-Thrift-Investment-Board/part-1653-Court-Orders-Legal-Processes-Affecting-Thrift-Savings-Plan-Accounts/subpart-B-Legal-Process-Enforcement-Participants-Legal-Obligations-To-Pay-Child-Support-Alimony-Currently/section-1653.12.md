@@ -1,8 +1,6 @@
 ##### § 1653.12 Qualifying legal processes. #####
 
-Link to an amendment published at 87 FR 31690, May 24, 2022.
-
-(a) The TSP will only honor the terms of a legal process that is qualifying under paragraph (b) of this section.
+(a) The TSP record keeper will only honor the terms of a legal process that is qualifying under paragraph (b) of this section.
 
 (b) A legal process must meet each of the following requirements to be considered qualifying:
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 31690, May 24, 2022.
 
 (1) A legal process relating to a TSP account that has been closed;
 
-(2) A legal process relating to a TSP account that contains only nonvested money, unless the money will become vested within 30 days of the date the TSP receives the order if the participant were to remain in Government service;
+(2) A legal process relating to a TSP account that contains only nonvested money;
 
 (3) A legal process requiring the return to the TSP of money that was properly paid pursuant to an earlier legal process;
 
@@ -28,6 +26,6 @@ Link to an amendment published at 87 FR 31690, May 24, 2022.
 
 (5) A legal process requiring a series of payments.
 
-(6) A legal process that designates the specific TSP Fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
+(6) A legal process that designates the specific TSP core fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
 
-[68 FR 35510, June 13, 2003, as amended at 77 FR 26429, May 4, 2012]
+[68 FR 35510, June 13, 2003, as amended at 77 FR 26429, May 4, 2012; 87 FR 31690, May 24, 2022]

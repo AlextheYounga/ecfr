@@ -1,25 +1,10 @@
 ##### § 648.60 Sea Scallop Rotational Areas. #####
 
-Link to an amendment published at 87 FR 18287, Mar. 30, 2022.
-
-(a) *Mid-Atlantic Scallop Rotational Area.* The Mid-Atlantic Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
-
-Table 1 to Paragraph (a)
-
-|Point|N latitude|W longitude|
-|-----|----------|-----------|
-|MAA1 |  39°30′  |  73°10′   |
-|MAA2 |  39°30′  |  72°30′   |
-|MAA3 |  38°30′  |  73°30'   |
-|MAA4 |  38°10′  |  73°30'   |
-|MAA5 |  38°10′  |  74°20′   |
-|MAA6 |  38°50′  |  74°20′   |
-|MAA7 |  38°50′  |  73°42′   |
-|MAA1 |  39°30′  |  73°10′   |
+(a) {Reserved]
 
 (b) *Closed Area II Scallop Rotational Area* - (1) *Closed Area II Scallop Rotational Area boundaries.* The Closed Area II Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 2 to Paragraph (b)(1)
+Table 1 to Paragraph (b)(1)
 
 |Point|N latitude| W longitude  |     Note     |
 |-----|----------|--------------|--------------|
@@ -43,7 +28,7 @@ Table 2 to Paragraph (b)(1)
 
 (c) *Closed Area I Scallop Rotational Area.* The Closed Area I Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 3 to Paragraph (c)
+Table 2 to Paragraph (c)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -55,7 +40,7 @@ Table 3 to Paragraph (c)
 
 (d) *Closed Area II-East Scallop Rotational Area.* The Closed Area II-East Scallop Rotational Area is defined by straight lines, except where noted, connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 4 to Paragraph (d)
+Table 3 to Paragraph (d)
 
 |Point |N latitude|  W longitude  |     Note      |
 |------|----------|---------------|---------------|
@@ -75,7 +60,7 @@ Table 4 to Paragraph (d)
 
 (e) *Nantucket Lightship-South-Deep Scallop Rotational Area.* The Nantucket Lightship South-Deep Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 5 to Paragraph (e)
+Table 4 to Paragraph (e)
 
 |Point |N latitude|W longitude|
 |------|----------|-----------|
@@ -90,7 +75,7 @@ Table 5 to Paragraph (e)
 
 (g) *Nantucket Lightship-North Scallop Rotational Area.* The Nantucket Lightship North Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 6 to Paragraph (g)
+Table 5 to Paragraph (g)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -102,7 +87,7 @@ Table 6 to Paragraph (g)
 
 (h) *Nantucket Lightship-Triangle Scallop Rotational Area.* The Nantucket Lightship Triangle Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 7 to Paragraph (h)
+Table 6 to Paragraph (h)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -113,7 +98,7 @@ Table 7 to Paragraph (h)
 
 (i) *Nantucket Lightship-West Scallop Rotational Area.* The Nantucket Lightship-West Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 8 to Paragraph (i)
+Table 7 to Paragraph (i)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|
@@ -127,7 +112,7 @@ Table 8 to Paragraph (i)
 
 (j) *New York Bight Scallop Rotational Area.* The New York Bight Scallop Rotational Area is defined by straight lines connecting the following points in the order stated (copies of a chart depicting this area are available from the Regional Administrator upon request):
 
-Table 9 to Paragraph (j)
+Table 8 to Paragraph (j)
 
 |Point|N latitude|W longitude|
 |-----|----------|-----------|

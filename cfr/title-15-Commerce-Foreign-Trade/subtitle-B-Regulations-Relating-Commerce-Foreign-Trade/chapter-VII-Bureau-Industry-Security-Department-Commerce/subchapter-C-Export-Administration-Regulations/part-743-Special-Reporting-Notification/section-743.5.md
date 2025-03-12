@@ -1,5 +1,7 @@
 ##### § 743.5 Prior notifications to Congress of Exports of “600 Series Major Defense Equipment.” #####
 
+Link to an amendment published at 87 FR 32987, June 1, 2022.
+
 (a) *General requirement.* Applications to export items on the Commerce Control List that are “600 Series Major Defense Equipment” will be notified to Congress as provided in this section before licenses for such items are issued.
 
 (1) Exports of “600 Series Major Defense Equipment” to U.S. Government end users under License Exception GOV (§ 740.11(b) of the EAR) do not require such notification.

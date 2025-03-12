@@ -1,8 +1,6 @@
 ##### § 1650.32 Financial hardship withdrawals. #####
 
-Link to an amendment published at 87 FR 31683, May 24, 2022.
-
-(a) A participant who has not separated from Government employment and who can certify that he or she has a financial hardship is eligible to withdraw all or a portion of his or her own contributions to the TSP (and their attributable earnings) in a single payment to meet certain specified financial obligations. The amount of a financial hardship withdrawal request must be at least $1,000.
+(a) A participant who has not separated from Government service and who can certify that he or she has a financial hardship is eligible to withdraw all or a portion of his or her own contributions to the TSP (and their attributable earnings) in a single payment to meet certain specified financial obligations. The amount of a financial hardship withdrawal request must be at least $1,000.
 
 (b) To be eligible for a financial hardship withdrawal, a participant must have a financial need that results from at least one of the following five conditions:
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 31683, May 24, 2022.
 
 (4) The participant must have paid attorney fees and court costs associated with separation or divorce. Court-ordered payments to a spouse or former spouse and child support payments are not allowed, nor are costs of obtaining prepaid legal services or other coverage for legal services.
 
-(5) The participant has incurred expenses and losses (including loss of income) on account of a disaster declared by the Federal Emergency Management Agency (FEMA) under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, Public Law 100-707, provided that the participant's principal residence or principal place of employment at the time of the disaster was located in an area designated by the FEMA for individual assistance with respect to the disaster.
+(5) The participant has incurred expenses and losses (including loss of income) on account of a disaster declared by the Federal Emergency Management Agency (FEMA) under the Robert T. Stafford Disaster Relief and Emergency Assistance Act, Public Law 100-707, provided that the participant's principal residence or principal place of employment at the time of the disaster was located in an area designated by FEMA for individual assistance with respect to the disaster.
 
 (c) When determining financial hardship needs, a participant cannot use any expenses that are already paid or are reimbursable to the participant by insurance or otherwise.
 
@@ -24,8 +22,8 @@ Link to an amendment published at 87 FR 31683, May 24, 2022.
 
 (2) The amount in the participant's account that is equal to his or her own contributions and attributable earnings.
 
-(e) The participant must certify that he or he has a financial hardship as described on the hardship withdrawal form, and that the dollar amount of the withdrawal request does not exceed the actual amount of the financial hardship.
+(e) The participant must certify that he or she has a financial hardship as described on the hardship withdrawal request, and that the dollar amount of the withdrawal request does not exceed the actual amount of the financial hardship.
 
 (f) A participant is not eligible for an in-service hardship withdrawal based solely on monthly negative cash flow (as described in paragraph (b)(1) of this section) during the time he or she has pending a petition in bankruptcy under Chapter 13 of the Bankruptcy Code (11 U.S.C. chapter 13).
 
-[68 FR 35503, June 13, 2003, as amended at 68 FR 74451, Dec. 23, 2003; 85 FR 61805, Oct. 1, 2020]
+[68 FR 35503, June 13, 2003, as amended at 68 FR 74451, Dec. 23, 2003; 85 FR 61805, Oct. 1, 2020; 87 FR 31683, May 24, 2022]

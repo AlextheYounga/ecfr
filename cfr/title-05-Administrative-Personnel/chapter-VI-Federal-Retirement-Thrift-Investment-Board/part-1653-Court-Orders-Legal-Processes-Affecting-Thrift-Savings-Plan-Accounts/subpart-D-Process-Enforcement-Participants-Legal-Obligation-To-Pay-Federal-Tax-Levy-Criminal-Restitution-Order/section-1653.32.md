@@ -1,8 +1,6 @@
 ##### § 1653.32 Qualifying Federal tax levy. #####
 
-Link to an amendment published at 87 FR 31691, May 24, 2022.
-
-(a) The TSP will only honor the terms of a tax levy that is qualifying under paragraph (b) of this section.
+(a) The TSP record keeper will only honor the terms of a tax levy that is qualifying under paragraph (b) of this section.
 
 (b) A tax levy must meet each of the following requirements to be considered qualifying:
 
@@ -30,4 +28,6 @@ Link to an amendment published at 87 FR 31691, May 24, 2022.
 
 (5) A levy requiring a series of payments;
 
-(6) A levy that designates the specific TSP Fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
+(6) A levy that designates the specific TSP core fund, source of contributions, or balance from which the payment or portions of the payment shall be made.
+
+[79 FR 53604, Sept. 10, 2014, as amended at 87 FR 31691, May 24, 2022]

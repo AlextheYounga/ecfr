@@ -1,7 +1,5 @@
 ##### § 1653.1 Definitions. #####
 
-Link to an amendment published at 87 FR 31688, May 24, 2022.
-
 (a) Definitions generally applicable to the Thrift Savings Plan are set forth at 5 CFR 1690.1.
 
 (b) As used in this subpart:
@@ -14,6 +12,6 @@ Link to an amendment published at 87 FR 31688, May 24, 2022.
 
 *Retirement benefits court order* or *order* means a court decree of divorce, annulment or legal separation, or a court order or court-approved property settlement agreement incident to such a decree. Orders may be issued at any stage of a divorce, annulment, or legal separation proceeding.
 
-*TSP investment earnings or earnings* means both positive and negative fund performance attributable to differences in TSP fund share prices.
+*TSP investment earnings or earnings* means both positive and negative fund performance attributable to differences in TSP core fund share prices.
 
-[68 FR 35510, June 13, 2003, as amended at 74 FR 63063, Dec. 2, 2009]
+[68 FR 35510, June 13, 2003, as amended at 74 FR 63063, Dec. 2, 2009; 87 FR 31688, May 24, 2022]

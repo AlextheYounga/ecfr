@@ -8,15 +8,15 @@
 
 (A) The mean of the sample, where:
 
-![](/graphics/er25oc13.007.gif)and x/\> is the sample mean; *n* is the number of samples; and *x*i is the *i*th sample;Or,
+![](/graphics/er25oc13.007.gif)and x is the sample mean; *n* is the number of samples; and *x*i is the *i*th sample;Or,
 
 (B) For on mode power consumption, the upper 95 percent confidence limit (UCL) of the true mean divided by 1.05, where:
 
-![](/graphics/er25oc13.008.gif)and x/\> is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.95 is the t-statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart).And
+![](/graphics/er25oc13.008.gif)and x is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and *t*0.95 is the t-statistic for a 95% one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart).And
 
 (C) For standby mode power consumption and power consumption measurements in modes other than on mode, the upper 90 percent confidence limit (UCL) of the true mean divided by 1.10, where:
 
-![](/graphics/er25oc13.009.gif)and x/\> is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and t0.90 is the t-statistic for a 90% one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart).
+![](/graphics/er25oc13.009.gif)and x is the sample mean; *s* is the sample standard deviation; *n* is the number of samples; and t0.90 is the t-statistic for a 90% one-tailed confidence interval with n−1 degrees of freedom (from appendix A of this subpart).
 
 (ii) Any represented annual energy consumption of a basic model shall be determined by applying the AEC calculation in section 8.2 of Appendix H to subpart B of 10 CFR Part 430 to the represented values of power consumption as calculated pursuant to paragraph (a)(2)(i) of this section.
 
