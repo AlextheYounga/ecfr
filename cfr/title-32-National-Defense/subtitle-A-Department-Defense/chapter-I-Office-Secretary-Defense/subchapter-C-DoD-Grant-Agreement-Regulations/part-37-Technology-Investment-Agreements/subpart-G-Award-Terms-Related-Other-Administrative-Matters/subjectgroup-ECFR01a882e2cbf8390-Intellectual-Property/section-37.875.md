@@ -1,5 +1,7 @@
 ##### § 37.875 Should my TIA include a provision concerning foreign access to technology? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 (a) Consistent with the objective of enhancing the national security by increasing DoD reliance on the U.S. commercial technology and industrial bases, you must include a provision in the TIA that addresses foreign access to technology developed under the TIA.
 
 (b) The provision must provide, as a minimum, that any transfer of the:

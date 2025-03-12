@@ -1,5 +1,7 @@
 ##### § 37.660 What else must I specify concerning audits of for-profit participants by IPAs? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 If your expenditure-based TIA provides for audits of a for-profit participant by an IPA, you also must specify:
 
 (a) What periodic audits are to cover. It is important that you specify audit coverage that is only as broad as needed to provide reasonable assurance of the participant's compliance with award terms that have a direct and material effect on the research project. Appendix C to this part provides guidance to for-profit participants and their IPAs that you may use for this purpose. The DCAA and the OIG, DoD, also can provide advice to help you set appropriate limits on audit objectives and scope.

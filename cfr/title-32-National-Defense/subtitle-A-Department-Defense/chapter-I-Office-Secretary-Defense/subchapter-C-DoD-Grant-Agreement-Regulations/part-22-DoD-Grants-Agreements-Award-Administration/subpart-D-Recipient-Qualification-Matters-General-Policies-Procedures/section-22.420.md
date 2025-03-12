@@ -1,5 +1,7 @@
 ##### § 22.420 Pre-award procedures. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 (a) The appropriate method to be used and amount of effort to be expended in deciding the qualification of a potential recipient will vary. In deciding on the method and level of effort, the grants officer should consider factors such as:
 
 (1) DoD's past experience with the recipient;

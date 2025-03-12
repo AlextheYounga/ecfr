@@ -1,5 +1,7 @@
 ##### § 21.330 How are the DoDGARs published and maintained? #####
 
+Link to an amendment published at 85 FR 51240, Aug. 19, 2020.
+
 (a) The DoD publishes the DoDGARs in the Code of Federal Regulations (CFR) and in a separate internal DoD document (DoD 3210.6-R).
 
 (1) The location of the DoDGARs in the CFR currently is in transition. They are moving from Chapter I, Subchapter C, Title 32, to a new location in Chapter XI, Title 2 of the CFR. During the transition, there will be some parts of the DoDGARs in each of the two titles.

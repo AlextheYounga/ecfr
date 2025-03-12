@@ -1,5 +1,7 @@
 ##### § 21.515 Who reports the information for the CFDA? #####
 
+Link to an amendment published at 85 FR 51240, Aug. 19, 2020.
+
 (a) Each DoD Component that provides domestic financial assistance must:
 
 (1) Report to the Director of Information, Operations and Reports, Washington Headquarters Services (DIOR, WHS) all new programs and changes as they occur or as the DoD Component submits its annual updates to existing CFDA information.

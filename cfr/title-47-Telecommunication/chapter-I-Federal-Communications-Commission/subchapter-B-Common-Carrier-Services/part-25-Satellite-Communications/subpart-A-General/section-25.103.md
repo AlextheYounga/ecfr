@@ -1,7 +1,5 @@
 ##### § 25.103 Definitions. #####
 
-Link to an amendment published at 85 FR 43733, July 20, 2020.
-
 Terms with definitions including the “(RR)” designation are defined in the same way in § 2.1 of this chapter and in the Radio Regulations of the International Telecommunication Union.
 
 *1.5/1.6 GHz Mobile-Satellite Service.* Mobile-Satellite Service provided in any portion of the 1525-1559 MHz space-to-Earth band and the 1626.5-1660.5 MHz Earth-to-space band, which are referred to in this rule part as the “1.5/1.6 GHz MSS bands.”
@@ -118,6 +116,10 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Skew angle.* The angle between the minor axis of an axially asymmetric antenna beam and the plane tangent to the GSO arc.
 
+*Small satellite.* An NGSO space station eligible for authorization under the application process described in § 25.122.
+
+*Small spacecraft.* An NGSO space station operating beyond Earth's orbit that is eligible for authorization under the application process described in § 25.123.
+
 *Space radiocommunication.* Any radiocommunication involving the use of one or more space stations or the use of one or more reflecting satellites or other objects in space.
 
 *Space station.* A station located on an object which is beyond, is intended to go beyond, or has been beyond, the major portion of the Earth's atmosphere. (RR)
@@ -134,4 +136,4 @@ Terms with definitions including the “(RR)” designation are defined in the s
 
 *Vehicle-Mounted Earth Station (VMES).* An earth station, operating from a motorized vehicle that travels primarily on land, that receives from and transmits to Fixed-Satellite Service space stations and operates within the United States.
 
-[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020]
+[79 FR 8311, Feb. 12, 2014, as amended at 79 FR 26868, May 12, 2014; 81 FR 55324, Aug. 18, 2016; 83 FR 34489, July 20, 2018; 84 FR 53651, Oct. 8, 2019; 84 FR 66779, Dec. 5, 2019; 85 FR 22864, Apr. 23, 2020; 85 FR 44786, July 24, 2020; 85 FR 43733, July 20, 2020]

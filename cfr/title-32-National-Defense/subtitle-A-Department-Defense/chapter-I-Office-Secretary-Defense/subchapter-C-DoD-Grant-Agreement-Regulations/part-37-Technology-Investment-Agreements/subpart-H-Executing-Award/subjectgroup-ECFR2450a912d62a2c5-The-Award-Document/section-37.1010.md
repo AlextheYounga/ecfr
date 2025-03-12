@@ -1,5 +1,7 @@
 ##### § 37.1010 What substantive issues should my award document address? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 You necessarily will design and negotiate a TIA individually to meet the specific requirements of the particular project, so the complete list of substantive issues that you will address in the award document may vary. Every award document must address:
 
 (a) *Project scope.* The scope is an overall vision statement for the project, including a discussion of the project's purpose, objectives, and detailed military and commercial goals. It is a critical provision because it provides a context for resolving issues that may arise during post-award administration. In a fixed-support TIA, you also must clearly specify the well-defined outcomes that reliably indicate the amount of effort expended and serve as the basis for the level of the fixed support (*see* §§ 37.305 and 37.560(a)).

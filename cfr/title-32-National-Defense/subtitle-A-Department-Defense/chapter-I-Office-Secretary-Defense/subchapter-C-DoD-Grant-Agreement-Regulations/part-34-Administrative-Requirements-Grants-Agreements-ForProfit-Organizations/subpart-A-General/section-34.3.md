@@ -1,5 +1,7 @@
 ##### § 34.3 Deviations. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) *Individual deviations.* Individual deviations affecting only one award may be approved by DoD Components in accordance with procedures stated in 32 CFR 21.335(a) and 21.340.
 
 (b) *Small awards.* DoD Components may apply less restrictive requirements than the provisions of this part when awarding small awards, except for those requirements which are statutory.

@@ -1,5 +1,7 @@
 ##### § 22.715 Grants administration office functions. #####
 
+Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
+
 The primary responsibility of cognizant grants administration offices shall be to advise and assist grants officers and recipients prior to and after award, and to help ensure that recipients fulfill all requirements in law, regulation, and award terms and conditions. Specific functions include:
 
 (a) Conducting reviews and coordinating reviews, audits, and audit requests. This includes:

@@ -1,5 +1,7 @@
 ##### § 37.920 What requirement for access to a nonprofit participant's records do I include in a TIA? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 Your TIA must include for any nonprofit participant the standard access-to-records requirement at:
 
 (a) 32 CFR 33.42(e), for a participant that is a State or local governmental organization.

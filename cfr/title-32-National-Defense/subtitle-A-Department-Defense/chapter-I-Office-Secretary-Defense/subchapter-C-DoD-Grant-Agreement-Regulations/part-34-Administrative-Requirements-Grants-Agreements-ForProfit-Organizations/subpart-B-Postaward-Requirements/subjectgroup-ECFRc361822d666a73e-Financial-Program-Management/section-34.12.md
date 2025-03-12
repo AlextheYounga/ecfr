@@ -1,5 +1,7 @@
 ##### § 34.12 Payment. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) *Methods available.* Payment methods for awards with for-profit organizations are:
 
 (1) *Reimbursement.* Under this method, the recipient requests reimbursement for costs incurred during a time period. In cases where the recipient submits each request for payment to the grants officer, the DoD payment office reimburses the recipient by electronic funds transfer or check after approval of the request by the grants officer designated to do so.

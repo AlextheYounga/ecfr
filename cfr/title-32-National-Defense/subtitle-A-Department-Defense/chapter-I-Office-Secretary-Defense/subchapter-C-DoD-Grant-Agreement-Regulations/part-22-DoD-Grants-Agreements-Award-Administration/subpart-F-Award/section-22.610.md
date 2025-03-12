@@ -1,5 +1,7 @@
 ##### § 22.610 Award instruments. #####
 
+Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
+
 (a) Each award document shall include terms and conditions that:
 
 (1) Address programmatic requirements (e.g., a statement of work or other appropriate terms or conditions that describe the specific goals and objectives of the project). The grants officer shall develop such terms and conditions in coordination with program officials.

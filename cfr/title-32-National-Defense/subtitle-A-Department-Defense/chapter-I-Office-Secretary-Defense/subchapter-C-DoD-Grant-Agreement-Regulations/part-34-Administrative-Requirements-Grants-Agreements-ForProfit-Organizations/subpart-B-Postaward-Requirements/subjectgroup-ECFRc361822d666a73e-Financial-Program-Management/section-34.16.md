@@ -1,5 +1,7 @@
 ##### § 34.16 Audits. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) Any recipient that expends $500,000 or more in a year under Federal awards shall have an audit made for that year by an independent auditor, in accordance with paragraph (b) of this section. The audit generally should be made a part of the regularly scheduled, annual audit of the recipient's financial statements. However, it may be more economical in some cases to have the Federal awards separately audited, and a recipient may elect to do so, unless that option is precluded by award terms and conditions, or by Federal laws or regulations applicable to the program(s) under which the awards were made.
 
 (b) The auditor shall determine and report on whether:

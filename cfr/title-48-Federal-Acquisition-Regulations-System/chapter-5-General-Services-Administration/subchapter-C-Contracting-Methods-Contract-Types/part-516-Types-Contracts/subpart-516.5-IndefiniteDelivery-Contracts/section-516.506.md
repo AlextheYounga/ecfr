@@ -1,5 +1,7 @@
 ##### 516.506 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 85 FR 50959, Aug. 19, 2020.
+
 (a) In solicitations and contracts for Special Order Program items, when the contract authorizes FAS and other activities to issue delivery or task orders, insert the clause at 552.216-72, Placement of Orders. If only FAS will issue delivery or task orders, insert the clause with its Alternate I.
 
 (b) In solicitations and contracts for multiple-award contracts where GSA is the only ordering activity, or for GSA orders placed against a GSA multiple-award contract, insert clause 552.216-74, GSA Task-Order and Delivery-Order Ombudsman. This clause shall not be included in GSA-awarded contracts available for multiple agency use (*i.e.,* Governmentwide Acquisition Contracts, Multi-Agency Contracts); instead, see paragraph (d) of this section.

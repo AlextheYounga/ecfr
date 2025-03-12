@@ -1,5 +1,7 @@
 ##### § 37.690 How are nonprofit participants to manage real property and equipment? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 For nonprofit participants, your TIA's requirements for vesting of title, use, management, and disposition of real property or equipment acquired under the award are the same as those that apply to the participant's other Federal assistance awards. Specifically, the requirements are those in:
 
 (a) 32 CFR 33.31 and 33.32, for participants that are States and local governmental organizations.

@@ -1,5 +1,7 @@
 ##### § 22.315 Merit-based, competitive procedures. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 Competitive procedures are methods that encourage participation in DoD programs by a broad base of the most highly qualified performers. These procedures are characterized by competition among as many eligible proposers as possible, with a published or widely disseminated notice. Competitive procedures include, as a minimum:
 
 (a) *Notice to prospective proposers.* The notice may be a notice of funding availability or Broad Agency Announcement that is publicly disseminated, with unlimited distribution, or a specific notice that is distributed to eligible proposers (a specific notice must be distributed to at least two eligible proposers to be considered as part of a competitive procedure). Requirements for notices are as follows:

@@ -1,5 +1,7 @@
 ##### § 37.130 Which other parts of the DoD Grant and Agreement Regulations apply to TIAs? #####
 
+Link to an amendment published at 85 FR 51245, Aug. 19, 2020.
+
 (a) TIAs are explicitly covered in this part and part 21 of the DoD Grant and Agreement Regulations (DoDGARs). Part 21 (32 CFR part 21) addresses deviation procedures and other general matters that relate to the DoDGARs, to DoD Components' authorities and responsibilities for assistance instruments, and to requirements for reporting information about assistance awards.
 
 (b) Two additional parts of the DoDGARs apply to TIAs, although they do not mention TIAs explicitly. They are:

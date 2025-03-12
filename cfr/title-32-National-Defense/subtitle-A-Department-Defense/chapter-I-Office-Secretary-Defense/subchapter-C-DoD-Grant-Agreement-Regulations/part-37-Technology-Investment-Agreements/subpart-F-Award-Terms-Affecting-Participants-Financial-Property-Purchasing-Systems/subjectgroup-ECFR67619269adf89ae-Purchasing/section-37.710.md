@@ -1,5 +1,7 @@
 ##### § 37.710 What standards do I include for purchasing systems of nonprofit organizations? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 (a) So as not to force system changes for any nonprofit participant, your expenditure-based TIA will provide that each nonprofit participant's purchasing system comply with:
 
 (1) 32 CFR 33.36, if the participant is a State or local governmental organization.

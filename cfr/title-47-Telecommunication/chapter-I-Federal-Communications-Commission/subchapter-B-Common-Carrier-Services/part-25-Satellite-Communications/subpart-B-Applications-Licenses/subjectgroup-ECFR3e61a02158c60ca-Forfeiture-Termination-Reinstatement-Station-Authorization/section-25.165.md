@@ -1,8 +1,6 @@
 ##### § 25.165 Surety bonds. #####
 
-Link to an amendment published at 85 FR 43735, July 20, 2020.
-
-(a) For all space station licenses issued after September 20, 2004, other than licenses for DBS space stations, SDARS space stations, and replacement space stations as defined in paragraph (e) of this section, the licensee must post a bond within 30 days of the grant of its license. Failure to post a bond will render the license null and void automatically.
+(a) For all space station licenses issued after September 20, 2004, other than licenses for DBS space stations, SDARS space stations, space stations licensed in accordance with § 25.122 or § 25.123, and replacement space stations as defined in paragraph (e) of this section, the licensee must post a bond within 30 days of the grant of its license. Space station licensed in accordance with § 25.122 or § 25.123 must post a bond within one year plus 30 days of the grant of the license. Failure to post a bond will render the license null and void automatically.
 
 (1) An NGSO licensee must have on file a surety bond requiring payment in the event of default as defined in paragraph (c) of this section, in an amount, at a minimum, determined according to the following formula, with the resulting dollar amount rounded to the nearest $10,000: A = $1,000,000 + $4,000,000 \* D/2192, where A is the amount to be paid and D is the lesser of 2192 or the number of days that elapsed from the date of license grant until the date when the license was surrendered.
 
@@ -18,7 +16,7 @@ Link to an amendment published at 85 FR 43735, July 20, 2020.
 
 (e) A replacement space station is one that:
 
-(1) Is authorized to operate at an orbital location within ±0.15° of the assigned location of a GSO space station to be replaced or is authorized for NGSO operation and will replace an existing NGSO space station in its authorized orbit;
+(1) Is authorized to operate at an orbital location within ±0.15° of the assigned location of a GSO space station to be replaced or is authorized for NGSO operation and will replace an existing NGSO space station in its authorized orbit, except for space stations authorized under § 25.122 or § 25.123;
 
 (2) Is authorized to operate in the same frequency bands, and with the same coverage area as the space station to be replaced; and
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 43735, July 20, 2020.
 
 (g) An applicant will be considered to be in default with respect to a bond filed pursuant to paragraph (f) of this section if the applicant fails to submit a complete, acceptable license application pursuant to § 25.110(b)(3)(iii) for the operation proposed in the initial application materials filed pursuant to § 25.110(b)(3)(i) or (b)(3)(ii) within two years of the date of submission of the initial application materials.
 
-[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 81 FR 55335, Aug. 18, 2016; 82 FR 59986, Dec. 18, 2017]
+[68 FR 51507, Aug. 27, 2003, as amended at 69 FR 51587, Aug. 20, 2004; 81 FR 55335, Aug. 18, 2016; 82 FR 59986, Dec. 18, 2017; 85 FR 43735, July 20, 2020]

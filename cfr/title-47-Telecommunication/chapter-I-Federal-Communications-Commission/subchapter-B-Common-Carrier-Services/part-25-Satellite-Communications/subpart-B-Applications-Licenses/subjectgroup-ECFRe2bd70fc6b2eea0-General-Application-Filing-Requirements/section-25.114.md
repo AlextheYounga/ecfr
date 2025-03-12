@@ -1,7 +1,5 @@
 ##### § 25.114 Applications for space station authorizations. #####
 
-Link to an amendment published at 85 FR 43733, July 20, 2020.
-
 (a)(1) A license application filed pursuant to § 25.110(b)(2) for a GSO space station or NGSO space station or space-station constellation must comprise a comprehensive proposal and must be submitted on FCC Form 312, Main Form and Schedule S, with attached exhibits required by paragraph (d) of this section.
 
 (2) An application for blanket authority for an NGSO constellation of space stations that are not all technically identical must provide the information required by paragraphs (c) and (d) of this section for each type of station in the constellation.
@@ -88,7 +86,7 @@ Link to an amendment published at 85 FR 43733, July 20, 2020.
 
 (13) And the polarization information necessary to determine compliance with § 25.210(i).
 
-(d) The following information in narrative form shall be contained in each application:
+(d) The following information in narrative form shall be contained in each application, except space station applications filed pursuant to § 25.122 or § 25.123:
 
 (1) Overall description of system facilities, operations and services and explanation of how uplink frequency bands would be connected to downlink frequency bands;
 
@@ -142,4 +140,4 @@ Link to an amendment published at 85 FR 43733, July 20, 2020.
 
 (18) For space stations in the Direct Broadcast Satellite service or the 17/24 GHz broadcasting-satellite service, maximum orbital eccentricity.
 
-[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018]
+[68 FR 63997, Nov. 12, 2003, as amended at 69 FR 29901, May 26, 2004; 69 FR 47794, Aug. 6, 2004; 69 FR 54587, Sept. 9, 2004; 72 FR 50027, Aug. 29, 2007; 72 FR 60278, Oct. 24, 2007; 76 FR 50431, Aug. 15, 2011; 78 FR 8421, Feb. 6, 2013; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 82 FR 59984, Dec. 18, 2017; 83 FR 34489, July 20, 2018; 85 FR 43733, July 20, 2020]

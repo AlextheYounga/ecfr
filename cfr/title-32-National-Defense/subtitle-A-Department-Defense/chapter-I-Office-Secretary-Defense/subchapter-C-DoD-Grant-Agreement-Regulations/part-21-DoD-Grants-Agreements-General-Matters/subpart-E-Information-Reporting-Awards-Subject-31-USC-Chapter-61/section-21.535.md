@@ -1,5 +1,7 @@
 ##### § 21.535 Do DoD Components have central points for collecting DAADS data? #####
 
+Link to an amendment published at 85 FR 51241, Aug. 19, 2020.
+
 Each DoD Component must have a central point for collecting DAADS information from contracting activities within that DoD Component. The central points are as follows:
 
 (a) For the Army: As directed by the U.S. Army Contracting Support Agency.

@@ -1,5 +1,7 @@
 ##### § 21.540 What are the duties of the DoD Components' central points for the DAADS? #####
 
+Link to an amendment published at 85 FR 51241, Aug. 19, 2020.
+
 The office that serves, in accordance with § 21.535, as the central point for collecting DAADS information from contracting activities within each DoD Component must:
 
 (a) Establish internal procedures to ensure reporting by contracting activities that make awards subject to 31 U.S.C. chapter 61.

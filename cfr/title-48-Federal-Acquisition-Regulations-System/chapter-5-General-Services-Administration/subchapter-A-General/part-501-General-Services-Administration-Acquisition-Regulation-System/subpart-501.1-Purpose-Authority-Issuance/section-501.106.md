@@ -1,5 +1,7 @@
 ##### 501.106 OMB approval under the Paperwork Reduction Act. #####
 
+Link to an amendment published at 85 FR 50958, Aug. 19, 2020.
+
 |GSAR Reference |          OMB Control No.          |
 |---------------|-----------------------------------|
 | 509.105-1(a)  |             3090-0007             |

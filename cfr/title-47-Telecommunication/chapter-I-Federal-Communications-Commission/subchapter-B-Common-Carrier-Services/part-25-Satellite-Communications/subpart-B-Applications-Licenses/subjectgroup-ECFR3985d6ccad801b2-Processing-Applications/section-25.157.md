@@ -1,10 +1,8 @@
 ##### § 25.157 Consideration of applications for NGSO-like satellite operation. #####
 
-Link to an amendment published at 85 FR 43735, July 20, 2020.
+(a) This section specifies the procedures for considering license applications for “NGSO-like” satellite operation, except as provided in paragraphs (b) and (i) of this section. For purposes of this section, the term “NGSO-like satellite operation” means:
 
-(a) This section specifies the procedures for considering license applications for “NGSO-like” satellite operation, except as provided in paragraph (b) of this section. For purposes of this section, the term “NGSO-like satellite operation” means:
-
-(1) Operation of any NGSO satellite system, and
+(1) Operation of any NGSO satellite system; and
 
 (2) Operation of a GSO MSS satellite to communicate with earth stations with non-directional antennas.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 43735, July 20, 2020.
 
 (h) Services offered pursuant to an NGSO-like license in a frequency band granted before the Commission has adopted frequency-band-specific service rules for that band will be subject to the default service rules in § 25.217.
 
-[68 FR 51505, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 82 FR 59985, Dec. 18, 2017]
+[68 FR 51505, Aug. 27, 2003, as amended at 81 FR 55334, Aug. 18, 2016; 81 FR 75344, Oct. 31, 2016; 82 FR 59985, Dec. 18, 2017; 85 FR 43735, July 20, 2020]

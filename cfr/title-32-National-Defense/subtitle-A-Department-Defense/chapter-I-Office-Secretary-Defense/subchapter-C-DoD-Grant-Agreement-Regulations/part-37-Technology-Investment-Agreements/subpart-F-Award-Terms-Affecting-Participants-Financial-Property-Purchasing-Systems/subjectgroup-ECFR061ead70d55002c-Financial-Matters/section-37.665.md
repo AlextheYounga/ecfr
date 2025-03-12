@@ -1,5 +1,7 @@
 ##### § 37.665 Must I require nonprofit participants to have periodic audits? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 Yes, expenditure-based TIAs are assistance instruments subject to the Single Audit Act (31 U.S.C. 7501-7507), so nonprofit participants are subject to their usual requirements under that Act and OMB Circular A-133.5 Specifically, the requirements are those in:
 
 5*See* footnote 2 to § 37.635(a).

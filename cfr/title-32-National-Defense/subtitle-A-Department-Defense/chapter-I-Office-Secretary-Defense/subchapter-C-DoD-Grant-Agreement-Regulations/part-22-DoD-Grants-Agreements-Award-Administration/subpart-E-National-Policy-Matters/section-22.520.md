@@ -1,5 +1,7 @@
 ##### § 22.520 Campus access for military recruiting and Reserve Officer Training Corps (ROTC). #####
 
+Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
+
 (a) *Purpose.* (1) The purpose of this section is to implement 10 U.S.C. 983 as it applies to grants. Under that statute, DoD Components are prohibited from providing funds to institutions of higher education that have policies or practices, as described in paragraph (c) of this section, restricting campus access of military recruiters or the Reserve Officer Training Corps (ROTC).
 
 (2) By addressing the effect of 10 U.S.C. 983 on grants and cooperative agreements, this section supplements the DoD's primary implementation of that statute in 32 CFR part 216, “Military Recruiting and Reserve Officer Training Corps Program Access to Institutions of Higher Education.” Part 216 establishes procedures by which the Department of Defense identifies institutions of higher education that have a policy or practice described in paragraph (c) of this section.

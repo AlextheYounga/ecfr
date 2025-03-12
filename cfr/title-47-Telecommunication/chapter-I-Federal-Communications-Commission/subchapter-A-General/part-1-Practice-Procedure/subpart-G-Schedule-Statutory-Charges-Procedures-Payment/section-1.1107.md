@@ -1,7 +1,5 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
-Link to an amendment published at 85 FR 43733, July 20, 2020.
-
 Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
 |                                                   Service                                                   |                 FCC Form No.                  |           Fee amount           |   Payment type code   |
@@ -80,11 +78,12 @@ Remit payment for these services electronically using the Commission's electroni
 |                              f. Extension of Launch Authority (per satellite)                               |            312 Main & Corres & 159            |             980.00             |          CRY          |
 |                                          9. Space Stations (NGSO):                                          |                                               |                                |                       |
 |a. Application for Authority to Launch & Operate (per system of technically identical satellites) satellites)|          312 Main & Schedule S & 159          |           471,575.00           |          CLW          |
-|                                   b. Assignment or Transfer (per system)                                    |          312 Main & Schedule A & 159          |           13,480.00            |          CZW          |
-|                                        c. Modification (per system)                                         |    312 Main & Schedule S (if needed) & 159    |           33,685.00            |          CGW          |
-|                                d. Special Temporary Authority (per request)                                 |                 Corres & 159                  |            3,375.00            |          CXW          |
-|                              e. Amendment of Pending Application (per request)                              |          312 Main & Schedule S & 159          |            6,740.00            |          CAW          |
-|                                f. Extension of Launch Authority (per system)                                |                312 Main & 159                 |            3,375.00            |          CXW          |
+|          b. Application (license or market access for small satellite or small spacecraft system)           |          312 Main & Schedule S & 159          |           30,000.00            |          CLW          |
+|                                   c. Assignment or Transfer (per system)                                    |          312 Main & Schedule A & 159          |           13,480.00            |          CZW          |
+|                                        d. Modification (per system)                                         |    312 Main & Schedule S (if needed) & 159    |           33,685.00            |          CGW          |
+|                                e. Special Temporary Authority (per request)                                 |                 Corres & 159                  |            3,375.00            |          CXW          |
+|                              f. Amendment of Pending Application (per request)                              |          312 Main & Schedule S & 159          |            6,740.00            |          CAW          |
+|                                g. Extension of Launch Authority (per system)                                |                312 Main & 159                 |            3,375.00            |          CXW          |
 |                                      10. Direct Broadcast Satellites:                                       |                                               |                                |                       |
 |                     a. Authorization to Construct or Major Modification (per satellite)                     |          312 Main & Schedule S & 159          |            3,975.00            |          MTD          |
 |                         b. Construction Permit and Launch Authority (per satellite)                         |          312 Main & Schedule S & 159          |           38,555.00            |          MXD          |
@@ -102,4 +101,4 @@ Remit payment for these services electronically using the Commission's electroni
 |                                    b. Commercial AM or FM Radio Stations                                    |                   308 & 159                   |             110.00             |          MBR          |
 |                              13. Recognized Operating Agency (per application)                              |                 Corres & 159                  |            1,195.00            |          CUG          |
 
-[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020]
+[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020; 85 FR 43733, July 20, 2020]

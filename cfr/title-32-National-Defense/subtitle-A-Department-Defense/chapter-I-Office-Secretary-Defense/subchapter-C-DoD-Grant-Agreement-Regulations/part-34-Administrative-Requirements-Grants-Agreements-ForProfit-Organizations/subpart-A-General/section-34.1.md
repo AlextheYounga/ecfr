@@ -1,5 +1,7 @@
 ##### § 34.1 Purpose. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) This part prescribes administrative requirements for awards to for-profit organizations.
 
 (b) Applicability to prime awards and subawards is as follows:

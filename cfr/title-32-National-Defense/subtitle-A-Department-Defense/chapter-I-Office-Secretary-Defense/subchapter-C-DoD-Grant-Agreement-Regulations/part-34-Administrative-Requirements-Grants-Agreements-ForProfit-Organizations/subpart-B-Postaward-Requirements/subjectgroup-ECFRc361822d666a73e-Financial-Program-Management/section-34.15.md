@@ -1,5 +1,7 @@
 ##### § 34.15 Revision of budget and program plans. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) The budget plan is the financial expression of the project or program as approved during the award process. It may include either the sum of the Federal and non-Federal shares, or only the Federal share, depending upon DoD Component requirements. It shall be related to performance for program evaluation purposes whenever appropriate.
 
 (b) Recipients are required to report deviations from budget and program plans, and request prior approvals for budget and program plan revisions, in accordance with this section.

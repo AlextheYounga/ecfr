@@ -1,5 +1,7 @@
 ##### § 37.1000 What are my responsibilities at the time of award? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 At the time of the award, you must:
 
 (a) Ensure that the award document contains the appropriate terms and conditions and is signed by the appropriate parties, in accordance with §§ 37.1005 through 37.1015.

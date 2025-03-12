@@ -1,5 +1,7 @@
 ##### § 37.695 What are the requirements for Federally owned property? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 If you provide Federally owned property to any participant for the performance of research under a TIA, you must require that participant to account for, use, and dispose of the property in accordance with:
 
 (a) 32 CFR 34.22, if the participant is a for-profit firm.

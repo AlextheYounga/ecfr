@@ -1,5 +1,7 @@
 ##### § 34.2 Definitions. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 The following are definitions of terms as used in this part. Grants officers are cautioned that terms may be defined differently in this part than they are in other parts of the DoD Grant and Agreement Regulations (DoDGARs).
 
 *Advance.* A payment made by Treasury check or other appropriate payment mechanism to a recipient upon its request either before outlays are made by the recipient or through the use of predetermined payment schedules.

@@ -1,5 +1,7 @@
 ##### § 22.825 Closeout audits. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) *Purpose.* This section establishes DoD policy for obtaining audits at closeout of individual grants and cooperative agreements. It thereby supplements the closeout procedures specified in:
 
 (1) 32 CFR 32.71 and 32.72, for awards to institutions of higher education and other nonprofit organizations.

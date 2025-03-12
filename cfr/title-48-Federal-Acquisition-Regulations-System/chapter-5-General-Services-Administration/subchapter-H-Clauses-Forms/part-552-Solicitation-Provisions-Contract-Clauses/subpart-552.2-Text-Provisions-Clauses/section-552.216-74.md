@@ -1,5 +1,7 @@
 ##### 552.216-74 Task-Order and Delivery-Order Ombudsman. #####
 
+Link to an amendment published at 85 FR 50959, Aug. 19, 2020.
+
 As prescribed in 516.506(b), insert the following clause:
 
 Task-Order and Delivery-Order Ombudsman (JAN 2017)

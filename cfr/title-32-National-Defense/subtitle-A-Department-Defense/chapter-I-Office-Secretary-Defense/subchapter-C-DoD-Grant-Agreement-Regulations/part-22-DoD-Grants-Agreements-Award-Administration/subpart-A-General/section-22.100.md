@@ -1,5 +1,7 @@
 ##### § 22.100 Purpose, relation to other parts, and organization. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 (a) This part outlines grants officers' and DoD Components' responsibilities related to the award and administration of grants and cooperative agreements.
 
 (b) In doing so, it also supplements other parts of the DoD Grant and Agreement Regulations (DoDGARs) that are either Governmentwide rules or DoD implementation of Governmentwide guidance in Office of Management and Budget (OMB) Circulars. Those other parts of the DoDGARs, which are referenced as appropriate in this part, are:

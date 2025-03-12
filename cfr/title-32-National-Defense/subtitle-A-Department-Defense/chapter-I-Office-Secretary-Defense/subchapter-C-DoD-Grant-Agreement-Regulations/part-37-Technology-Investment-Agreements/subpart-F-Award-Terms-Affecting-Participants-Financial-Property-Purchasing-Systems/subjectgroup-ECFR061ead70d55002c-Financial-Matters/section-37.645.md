@@ -1,5 +1,7 @@
 ##### § 37.645 Must I require periodic audits, as well as award-specific audits, of for-profit participants? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 You need to consider requirements for both periodic audits and award-specific audits (as defined in § 37.1325 and § 37.1235, respectively). The way that your expenditure-based TIA addresses the two types of audits will vary, depending upon the type of for-profit participant.
 
 (a) For for-profit participants that are audited by the DCAA or other Federal auditors, as described in §§ 37.650(b) and 37.655, you need not add specific requirements for periodic audits because the Federal audits should be sufficient to address whatever may be needed. Your inclusion in the TIA of the standard access-to-records provision for those for-profit participants, as discussed in § 37.915(a), gives the necessary access in the event that you or administrative agreements officers later need to request audits to address award-specific issues that arise.

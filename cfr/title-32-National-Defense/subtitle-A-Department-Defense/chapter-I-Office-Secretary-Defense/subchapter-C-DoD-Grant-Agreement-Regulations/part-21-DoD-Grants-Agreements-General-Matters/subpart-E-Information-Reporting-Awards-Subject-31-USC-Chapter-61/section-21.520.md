@@ -1,5 +1,7 @@
 ##### § 21.520 What are the purposes of the Defense Assistance Awards Data System (DAADS)? #####
 
+Link to an amendment published at 85 FR 51240, Aug. 19, 2020.
+
 Data from the Defense Assistance Awards Data System (DAADS) are used to provide:
 
 (a) DoD inputs to meet statutory requirements for Federal Governmentwide reporting of data related to obligations of funds by assistance instrument.

@@ -1,5 +1,7 @@
 ##### § 37.635 What cost principles do I require a nonprofit participant to use? #####
 
+Link to an amendment published at 85 FR 51245, Aug. 19, 2020.
+
 So as not to force financial system changes for any nonprofit participant, your expenditure-based TIA will provide that costs to be charged to the research project by any nonprofit participant must be determined to be allowable in accordance with:
 
 (a) OMB Circular A-87,2 if the participant is a State or local governmental organization.

@@ -1,5 +1,7 @@
 ##### § 22.510 Certifications, representations, and assurances. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 (a) *Certifications* - (1) *Policy.* Certifications of compliance with national policy requirements are to be obtained from recipients only for those national policies where a statute, Executive order, or codified regulation specifically states that a certification is required. Other national policy requirements may be addressed by obtaining representations or assurances (see paragraph (b) of this section). Grants officers should utilize methods for obtaining certifications, in accordance with Executive Order 12866 (3 CFR, 1993 Comp., p. 638), that minimize administration and paperwork.
 
 (2) *Procedures.* (i) When necessary, grants officers may obtain individual, written certifications.

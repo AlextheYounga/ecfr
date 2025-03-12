@@ -1,5 +1,7 @@
 ##### § 34.17 Allowable costs. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 Allowability of costs shall be determined in accordance with the cost principles applicable to the type of entity incurring the costs, as follows:
 
 (a) *For-profit organizations.* Allowability of costs incurred by for-profit organizations that are recipients of prime awards from DoD Components, and those that are subrecipients under prime awards to other organizations, is to be determined in accordance with:

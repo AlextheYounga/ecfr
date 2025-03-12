@@ -1,5 +1,7 @@
 ##### § 37.1100 What are my responsibilities generally as an administrative agreements officer for a TIA? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 As the administrative agreements officer for a TIA, you have the responsibilities that your office agreed to accept in the delegation from the office that made the award. Generally, you will have the same responsibilities as a post-award administrator of a grant or cooperative agreement, as described in 32 CFR 22.715. Responsibilities for TIAs include:
 
 (a) Advising agreements officers before they award TIAs on how to establish award terms and conditions that better meet research programmatic needs, facilitate effective post-award administration, and ensure good stewardship of Federal funds.

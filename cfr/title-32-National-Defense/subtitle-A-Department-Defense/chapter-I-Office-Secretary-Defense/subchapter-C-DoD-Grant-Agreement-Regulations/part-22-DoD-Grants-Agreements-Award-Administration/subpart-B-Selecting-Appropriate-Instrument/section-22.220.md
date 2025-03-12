@@ -1,5 +1,7 @@
 ##### § 22.220 Exemptions. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 Under 31 U.S.C. 6307, “the Director of the Office of Management and Budget may exempt an agency transaction or program” from the requirements of 31 U.S.C. chapter 63. Grants officers shall request such exemptions only in exceptional circumstances. Each request shall specify for which individual transaction or program the exemption is sought; the reasons for requesting an exemption; the anticipated consequences if the exemption is not granted; and the implications for other agency transactions and programs if the exemption is granted. The procedures for requesting exemptions shall be:
 
 (a) In cases where 31 U.S.C. chapter 63 would require use of a contract and an exemption from that requirement is desired:

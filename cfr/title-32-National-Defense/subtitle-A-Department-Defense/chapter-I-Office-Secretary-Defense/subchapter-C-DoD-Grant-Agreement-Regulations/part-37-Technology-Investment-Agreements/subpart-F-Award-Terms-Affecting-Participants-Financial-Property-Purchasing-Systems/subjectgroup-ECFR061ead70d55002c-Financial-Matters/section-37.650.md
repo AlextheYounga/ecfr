@@ -1,5 +1,7 @@
 ##### § 37.650 Who must I identify as the auditor for a for-profit participant? #####
 
+Link to an amendment published at 85 FR 51246, Aug. 19, 2020.
+
 The auditor that you will identify in the expenditure-based TIA to perform periodic and award-specific audits of a for-profit participant depends on the circumstances, as follows:
 
 (a) You may provide that an IPA will be the auditor for a for-profit participant that does not meet the criteria in paragraph (b) of this section, but only if the participant will not agree to give the DCAA access to the necessary books and records for audit purposes. Note that the allocable portion of the costs of the IPA's audit may be reimbursable under the TIA, as described in § 37.660(b). The IPA should be the one that the participant uses to perform other audits (*e.g.,* of its financial statement), to minimize added burdens and costs. You must document in the award file the participant's unwillingness to give the DCAA access. The DCAA is to be the auditor if the participant grants the necessary access.

@@ -1,14 +1,14 @@
 ##### § 25.217 Default service rules. #####
 
-Link to an amendment published at 85 FR 43735, July 20, 2020.
-
 (a) The technical rules in this section apply only to licenses to operate a satellite system in a frequency band granted after a domestic frequency allocation has been adopted for that frequency band, but before any frequency-band-specific service rules have been adopted for that frequency band.
 
-(b)(1) For all NGSO-like satellite licenses for which the application was filed pursuant to the procedures set forth in § 25.157 after August 27, 2003, authorizing operations in a frequency band for which the Commission has not adopted frequency band-specific service rules at the time the license is granted, the licensee will be required to comply with the following technical requirements, notwithstanding the frequency bands specified in these rule provisions: §§ 25.143(b)(2)(ii) (except NGSO FSS systems) and (iii), 25.204(e), and 25.210(f) and (i).
+(b)(1) For all NGSO-like satellite licenses, except as specified in paragraph (b)(4) of this section, for which the application was filed pursuant to the procedures set forth in § 25.157 after August 27, 2003, authorizing operations in a frequency band for which the Commission has not adopted frequency band-specific service rules at the time the license is granted, the licensee will be required to comply with the technical requirements in paragraphs (b)(2) through (4) of this section, notwithstanding the frequency bands specified in these sections: §§ 25.143(b)(2)(ii) (except NGSO FSS systems) and (iii), 25.204(e), and 25.210(f) and (i).
 
 (2) In addition to the requirements set forth in paragraph (b)(1) of this section, the Commission will coordinate with the National Telecommunications and Information Administration (NTIA) regarding the operations of any licensees authorized to operate in a shared government/non-government frequency band, pursuant to the procedure set forth in § 25.142(b)(2)(ii).
 
 (3) Mobile earth station licensees authorized to operate with one or more space stations subject to paragraph (b)(1) of this section must comply with the requirements in §§ 25.285 and 25.287, notwithstanding the frequency bands specified in those sections. In addition, earth station licensees authorized to operate with one or more space stations described in paragraph (b)(1) of this section in frequency bands shared with terrestrial wireless services shall comply with the requirements in § 25.203(c).
+
+(4) For all small satellite licensees, for which the application was filed pursuant to § 25.122 or § 25.123, authorizing operations in a frequency band for which the Commission has not adopted frequency-band specific service rules at the time the license is granted, the licensee will not be required to comply with the technical requirements specified in this section.
 
 (c)(1) For all GSO-like satellite licenses for which the application was filed pursuant to the procedures set forth in § 25.158 after August 27, 2003, authorizing operations in a frequency band for which the Commission has not adopted frequency band-specific service rules at the time the license is granted, the licensee will be required to comply with the following technical requirements, notwithstanding the frequency bands specified in these rule provisions: §§ 25.143(b)(2)(iv), 25.204(e), and 25.210(f), (i), and (j).
 
@@ -22,4 +22,4 @@ Link to an amendment published at 85 FR 43735, July 20, 2020.
 
 (e) In the event that the Commission adopts frequency band-specific service rules for a particular frequency band after it has granted one or more space station or earth station licenses for operations in that frequency band, those licensees will be required to come into compliance with the frequency band-specific service rules within 30 days of the effective date of those rules, unless otherwise specified by either Commission or Bureau Order.
 
-[68 FR 51508, Aug. 27, 2003, as amended at 70 FR 59277, Oct. 12, 2005; 79 FR 8323, Feb. 12, 2014; 82 FR 59986, Dec. 18, 2017]
+[68 FR 51508, Aug. 27, 2003, as amended at 70 FR 59277, Oct. 12, 2005; 79 FR 8323, Feb. 12, 2014; 82 FR 59986, Dec. 18, 2017; 85 FR 43735, July 20, 2020]

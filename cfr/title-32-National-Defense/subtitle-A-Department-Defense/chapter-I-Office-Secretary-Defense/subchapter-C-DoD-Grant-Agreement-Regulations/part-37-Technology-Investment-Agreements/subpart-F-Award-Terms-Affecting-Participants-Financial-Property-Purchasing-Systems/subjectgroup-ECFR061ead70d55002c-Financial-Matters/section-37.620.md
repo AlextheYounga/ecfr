@@ -1,5 +1,7 @@
 ##### § 37.620 What financial management standards do I include for nonprofit participants? #####
 
+Link to an amendment published at 85 FR 51245, Aug. 19, 2020.
+
 So as not to force system changes for any State, local government, institution of higher education, or other nonprofit organization, your expenditure-based TIA's requirements for the financial management system of any nonprofit participant are the same as those that apply to the participant's other Federal assistance awards. Specifically, the requirements are those in:
 
 (a) 32 CFR 33.20 for State and local governments; and

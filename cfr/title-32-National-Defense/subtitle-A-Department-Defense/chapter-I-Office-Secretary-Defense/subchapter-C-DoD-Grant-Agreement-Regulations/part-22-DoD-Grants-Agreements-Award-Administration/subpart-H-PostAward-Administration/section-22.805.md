@@ -1,5 +1,7 @@
 ##### § 22.805 Post-award requirements in other parts. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 Grants officers responsible for post-award administration of grants and cooperative agreements shall administer such awards in accordance with the following parts of the DoDGARs, as supplemented by this subpart:
 
 (a) *Awards to domestic recipients.* Standard administrative requirements for grants and cooperative agreements with domestic recipients are specified in other parts of the DoDGARs, as follows:

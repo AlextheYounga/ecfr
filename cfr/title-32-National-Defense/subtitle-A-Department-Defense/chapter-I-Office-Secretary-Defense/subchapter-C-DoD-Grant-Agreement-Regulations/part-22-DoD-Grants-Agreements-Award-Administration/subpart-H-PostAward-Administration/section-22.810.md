@@ -1,5 +1,7 @@
 ##### § 22.810 Payments. #####
 
+Link to an amendment published at 85 FR 51244, Aug. 19, 2020.
+
 (a) *Purpose.* This section prescribes policies and grants officers' post-award responsibilities, with respect to payments to recipients of grants and cooperative agreements.
 
 (b) *Policy.* (1) It is Governmentwide policy to minimize the time elapsing between any payment of funds to a recipient and the recipient's disbursement of the funds for program purposes (see 32 CFR 32.22(a) and 33.21(b), and the implementation of the Cash Management Improvement Act at 31 CFR part 205).

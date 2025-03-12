@@ -1,5 +1,7 @@
 ##### § 22.310 Statutes concerning certain research, development, and facilities construction grants. #####
 
+Link to an amendment published at 85 FR 51242, Aug. 19, 2020.
+
 (a) *Definitions specific to this section.* For the purposes of implementing the requirements of 10 U.S.C. 2374 in this section, the following terms are defined:
 
 (1) *Follow-on grant.* A grant that provides for continuation of research and development performed by a recipient under a preceding grant. Note that follow-on grants are distinct from incremental funding actions during the period of execution of a multi-year award.

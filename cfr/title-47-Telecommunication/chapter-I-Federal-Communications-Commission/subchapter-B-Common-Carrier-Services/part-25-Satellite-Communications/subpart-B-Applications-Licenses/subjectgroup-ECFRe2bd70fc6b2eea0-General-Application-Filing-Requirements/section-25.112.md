@@ -1,14 +1,12 @@
 ##### § 25.112 Dismissal and return of applications. #####
 
-Link to an amendment published at 85 FR 43733, July 20, 2020.
-
 (a) An application will be unacceptable for filing and will be returned to the applicant with a brief statement identifying the omissions or discrepancies if:
 
 (1) The application is defective with respect to completeness of answers to questions, informational showings, internal inconsistencies, execution, or other matters of a formal character; or
 
 (2) The application does not substantially comply with the Commission's rules, regulations, specific requests for additional information, or other requirements.
 
-(3) The application requests authority to operate a space station in a frequency band that is not allocated internationally for such operations under the Radio Regulations of the International Telecommunication Union.
+(3) The application requests authority to operate a space station in a frequency band that is not allocated internationally for such operations under the Radio Regulations of the International Telecommunication Union, unless the application is filed pursuant to § 25.122 or § 25.123.
 
 (4) The application is identical to a pending application that was timely filed pursuant to § 25.157 or § 25.158.
 
@@ -22,4 +20,4 @@ Link to an amendment published at 85 FR 43733, July 20, 2020.
 
 (d) An application will be dismissed without prejudice as a matter of right if the applicant requests its dismissal prior to final Commission action.
 
-[56 FR 24016, May 28, 1991, as amended at 68 FR 51502, Aug. 27, 2003; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016]
+[56 FR 24016, May 28, 1991, as amended at 68 FR 51502, Aug. 27, 2003; 79 FR 8314, Feb. 12, 2014; 81 FR 55326, Aug. 18, 2016; 85 FR 43733, July 20, 2020]

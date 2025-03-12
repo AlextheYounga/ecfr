@@ -1,14 +1,12 @@
 ##### § 25.156 Consideration of applications. #####
 
-Link to an amendment published at 85 FR 43735, July 20, 2020.
-
 (a) Applications for a radio station authorization, or for modification or renewal of an authorization, will be granted if, upon examination of the application, any pleadings or objections filed, and upon consideration of such other matters as it may officially notice, the Commission finds that the applicant is legally, technically, and otherwise qualified, that the proposed facilities and operations comply with all applicable rules, regulations, and policies, and that grant of the application will serve the public interest, convenience and necessity.
 
 (b) [Reserved]
 
 (c) Reconsideration or review of any final action taken by the Commission will be in accordance with subpart A of part 1 of this chapter.
 
-(d)(1) Applications for NGSO-like satellite operation will be considered pursuant to the procedures set forth in § 25.157, except as provided in § 25.157(b).
+(d)(1) Applications for NGSO-like satellite operation will be considered pursuant to the procedures set forth in § 25.157, except as provided in § 25.157(b) or (i), as appropriate.
 
 (2) Applications for GSO-like satellite operation will be considered pursuant to the procedures set forth in § 25.158, except as provided in § 25.158(a)(2).
 
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 43735, July 20, 2020.
 
 (ii) The application is received by the Commission in a condition acceptable for filing by the “cut-off” date specified in a public notice.
 
-[56 FR 24016, May 28, 1991, as amended at 68 FR 51505, Aug. 27, 2003; 81 FR 55333, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017]
+[56 FR 24016, May 28, 1991, as amended at 68 FR 51505, Aug. 27, 2003; 81 FR 55333, Aug. 18, 2016; 82 FR 59985, Dec. 18, 2017; 85 FR 43735, July 20, 2020]

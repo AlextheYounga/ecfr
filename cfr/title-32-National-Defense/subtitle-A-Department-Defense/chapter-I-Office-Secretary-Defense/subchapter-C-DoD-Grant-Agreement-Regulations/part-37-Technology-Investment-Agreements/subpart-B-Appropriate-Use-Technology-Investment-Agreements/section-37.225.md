@@ -1,5 +1,7 @@
 ##### § 37.225 What judgment must I make about the benefits of using a TIA? #####
 
+Link to an amendment published at 85 FR 51245, Aug. 19, 2020.
+
 Before deciding that a TIA is appropriate, you also must judge that using a TIA could benefit defense research objectives in ways that likely would not happen if another type of assistance instrument were used (*e.g.,* a cooperative agreement subject to all of the requirements of 32 CFR part 34). You, in conjunction with Government program officials, must consider the questions in paragraphs (a) through (d) of this section, to help identify the benefits that may justify using a TIA and reducing some of the usual requirements. In accordance with § 37.1030, you will report your answers to these questions to help the DoD measure the Department-wide benefits of using TIAs and meet requirements to report to the Congress. Note that you must give full concise answers only to questions that relate to the benefits that you perceive for using the TIA, rather than another type of funding instrument, for the particular research project. A simple “no” or “not applicable” is a sufficient response for other questions. The questions are:
 
 (a) Will the use of a TIA permit the involvement in the research of any commercial firms or business units of firms that would not otherwise participate in the project? If so:

@@ -1,5 +1,7 @@
 ##### § 22.605 Grants officers' responsibilities. #####
 
+Link to an amendment published at 85 FR 51243, Aug. 19, 2020.
+
 At the time of award, the grants officer is responsible for ensuring that:
 
 (a) The award instrument contains the appropriate terms and conditions, in accordance with § 22.610.
