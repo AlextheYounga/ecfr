@@ -1,7 +1,5 @@
 ##### 15.404-1 Proposal analysis techniques. #####
 
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
-
 (a) *General.* The objective of proposal analysis is to ensure that the final agreed-to price is fair and reasonable.
 
 (1) The contracting officer is responsible for evaluating the reasonableness of the offered prices. The analytical techniques and procedures described in this section may be used, singly or in combination with others, to ensure that the final price is fair and reasonable. The complexity and circumstances of each acquisition should determine the level of detail of the analysis required.
@@ -50,7 +48,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (2) The Government may use various cost analysis techniques and procedures to ensure a fair and reasonable price, given the circumstances of the acquisition. Such techniques and procedures include the following:
 
-(i) Verification of cost data or pricing data and evaluation of cost elements, including -
+(i) Verification of cost data or pricing data and evaluation of cost elements, including—
 
 (A) The necessity for, and reasonableness of, proposed costs, including allowances for contingencies;
 
@@ -62,7 +60,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (ii) Evaluating the effect of the offeror's current practices on future costs. In conducting this evaluation, the contracting officer shall ensure that the effects of inefficient or uneconomical past practices are not projected into the future. In pricing production of recently developed complex equipment, the contracting officer should perform a trend analysis of basic labor and materials, even in periods of relative price stability.
 
-(iii) Comparison of costs proposed by the offeror for individual cost elements with -
+(iii) Comparison of costs proposed by the offeror for individual cost elements with—
 
 (A) Actual costs previously incurred by the same offeror;
 
@@ -98,9 +96,9 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (f) *Unit prices.* (1) Except when pricing an item on the basis of adequate price competition or catalog or market price, unit prices shall reflect the intrinsic value of an item or service and shall be in proportion to an item's base cost (e.g., manufacturing or acquisition costs). Any method of distributing costs to line items that distorts the unit prices shall not be used. For example, distributing costs equally among line items is not acceptable except when there is little or no variation in base cost.
 
-(2) Except for the acquisition of commercial products, contracting officers shall require that offerors identify in their proposals those items of supply that they will not manufacture or to which they will not contribute significant value, unless adequate price competition is expected (10 U.S.C. 2306a(b)(1)(A)(i) and 41 U.S.C. 3503(a)(1)(A)). Such information shall be used to determine whether the intrinsic value of an item has been distorted through application of overhead and whether such items should be considered for breakout. The contracting officer should require such information in all other negotiated contracts when appropriate.
+(2) Except for the acquisition of commercial products, contracting officers shall require that offerors identify in their proposals those items of supply that they will not manufacture or to which they will not contribute significant value, unless adequate price competition is expected (10 U.S.C. 3703(a)(1)(A) and 41 U.S.C. 3503(a)(1)(A)). Such information shall be used to determine whether the intrinsic value of an item has been distorted through application of overhead and whether such items should be considered for breakout. The contracting officer should require such information in all other negotiated contracts when appropriate.
 
-(g) *Unbalanced pricing.* (1) Unbalanced pricing may increase performance risk and could result in payment of unreasonably high prices. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more line items is significantly over or understated as indicated by the application of cost or price analysis techniques. The greatest risks associated with unbalanced pricing occur when -
+(g) *Unbalanced pricing.* (1) Unbalanced pricing may increase performance risk and could result in payment of unreasonably high prices. Unbalanced pricing exists when, despite an acceptable total evaluated price, the price of one or more line items is significantly over or understated as indicated by the application of cost or price analysis techniques. The greatest risks associated with unbalanced pricing occur when—
 
 (i) Startup work, mobilization, first articles, or first article testing are separate line items;
 
@@ -108,7 +106,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (iii) The evaluated price is the aggregate of estimated quantities to be ordered under separate line items of an indefinite-delivery contract.
 
-(2) All offers with separately priced line items or subline items shall be analyzed to determine if the prices are unbalanced. If cost or price analysis techniques indicate that an offer is unbalanced, the contracting officer shall -
+(2) All offers with separately priced line items or subline items shall be analyzed to determine if the prices are unbalanced. If cost or price analysis techniques indicate that an offer is unbalanced, the contracting officer shall—
 
 (i) Consider the risks to the Government associated with the unbalanced pricing in determining the competitive range and in making the source selection decision; and
 
@@ -118,7 +116,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (h) *Review and justification of pass-through contracts.* (1) The requirements of this paragraph (h) are applicable to all agencies. The requirements apply by law to the Department of Defense, the Department of State, and the United States Agency for International Development, per section 802 of the National Defense Authorization Act (NDAA) for Fiscal Year 2013. The requirements apply as a matter of policy to other Federal agencies.
 
-(2) Except as provided in paragraph (h)(3) of this section, when an offeror for a contract or a task or delivery order informs the contracting officer pursuant to 52.215-22 that it intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task or delivery order, the contracting officer shall -
+(2) Except as provided in paragraph (h)(3) of this section, when an offeror for a contract or a task or delivery order informs the contracting officer pursuant to 52.215-22 that it intends to award subcontracts for more than 70 percent of the total cost of work to be performed under the contract, task or delivery order, the contracting officer shall—
 
 (i) Consider the availability of alternative contract vehicles and the feasibility of contracting directly with a subcontractor or subcontractors that will perform the bulk of the work. If such alternative approaches are selected, any resulting solicitations shall be issued in accordance with the competition requirements under FAR part 6;
 
@@ -128,4 +126,4 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (3) Contract actions awarded pursuant to subparts 19.5, 19.8, 19.13, 19.14, or 19.15 are exempt from the requirements of this paragraph (h) (see section 1615 of the National Defense Authorization Act for Fiscal Year 2014 (Pub. L. 113-66)).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017; 84 FR 27497, June 12, 2019; 85 FR 67614, Oct. 23, 2020; 86 FR 61026, Nov. 4, 2021]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 58602, Oct. 30, 1998; 64 FR 51837, Sept. 24, 1999; 65 FR 16286, Mar. 27, 2000; 71 FR 67779, Nov. 22, 2006; 72 FR 27384, May 15, 2007; 73 FR 54016, Sept. 17, 2008; 75 FR 53145, Aug. 30, 2010; 77 FR 56744, Sept. 13, 2012; 78 FR 37692, June 21, 2013; 79 FR 24201, Apr. 29, 2014; 80 FR 26425, May 7, 2015; 82 FR 4713, Jan. 13, 2017; 84 FR 27497, June 12, 2019; 85 FR 67614, Oct. 23, 2020; 86 FR 61026, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]

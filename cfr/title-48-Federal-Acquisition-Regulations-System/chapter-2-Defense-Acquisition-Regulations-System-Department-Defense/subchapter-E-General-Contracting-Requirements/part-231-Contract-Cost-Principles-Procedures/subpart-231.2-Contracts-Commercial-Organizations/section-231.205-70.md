@@ -1,14 +1,12 @@
 ##### 231.205-70 External restructuring costs. #####
 
-Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
-
-(a) *Scope.* This subsection -
+(a) *Scope.* This subsection—
 
 (1) Prescribes policies and procedures for allowing contractor external restructuring costs when savings would result for DoD; and
 
-(2) Implements 10 U.S.C. 2325.
+(2) Implements 10 U.S.C. 3761.
 
-(b) *Definitions.* As used in this subsection:
+(b) *Definitions.* As used in this section:
 
 (1) *Business combination* means a transaction whereby assets or operations of two or more companies not previously under common ownership or control are combined, whether by merger, acquisition, or sale/purchase of assets.
 
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (5) *Restructuring savings* means cost reductions, including both direct and indirect cost reductions, that result from restructuring activities. Reassignments of cost to future periods are not restructuring savings.
 
-(c) *Limitations on cost allowability.* Restructuring costs associated with external restructuring activities shall not be allowed unless -
+(c) *Limitations on cost allowability.* Restructuring costs associated with external restructuring activities shall not be allowed unless—
 
 (1) Such costs are allowable in accordance with FAR part 31 and DFARS part 231;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (3) The cognizant administrative contracting officer (ACO) reviews the audit report and the projected costs and projected savings, and negotiates an advance agreement in accordance with paragraph (d) of this subsection; and
 
-(4)(i) The official designated in paragraph (c)(4)(ii) of this subsection determines in writing that the audited projected savings, on a present value basis, for DoD resulting from the restructuring will exceed either -
+(4)(i) The official designated in paragraph (c)(4)(ii) of this subsection determines in writing that the audited projected savings, on a present value basis, for DoD resulting from the restructuring will exceed either—
 
 (A) The costs allowed by a factor of at least two to one; or
 
@@ -56,13 +54,13 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (ii) The business combination will result in the preservation of a critical capability that might otherwise be lost to DoD, and the audited projected savings for DoD will exceed the costs allowed on a present value basis.
 
-(f) *Contracting officer responsibilities.* (1) The contracting officer, in consultation with the cognizant ACO, should consider including a repricing clause in noncompetitive fixed-price contracts that are negotiated during the period between -
+(f) *Contracting officer responsibilities.* (1) The contracting officer, in consultation with the cognizant ACO, should consider including a repricing clause in noncompetitive fixed-price contracts that are negotiated during the period between—
 
 (i) The time a business combination is announced; and
 
 (ii) The time the contractor's forward pricing rates are adjusted to reflect the impact of restructuring.
 
-(2) The decision to use a repricing clause will depend upon the particular circumstances involved, including -
+(2) The decision to use a repricing clause will depend upon the particular circumstances involved, including—
 
 (i) When the restructuring will take place;
 
@@ -76,4 +74,4 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (3) If the contracting officer decides to use a repricing clause, the clause must provide for a downward-only price adjustment to ensure that DoD receives its appropriate share of restructuring net savings.
 
-[63 FR 7309, Feb. 13, 1998; 63 FR 12862, Mar. 16, 1998, as amended at 64 FR 18828, Apr. 16, 1999; 65 FR 39705, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 69 FR 63332, Nov. 1, 2004; 70 FR 43075, July 26, 2005]
+[63 FR 7309, Feb. 13, 1998; 63 FR 12862, Mar. 16, 1998, as amended at 64 FR 18828, Apr. 16, 1999; 65 FR 39705, June 27, 2000; 68 FR 7440, Feb. 14, 2003; 69 FR 63332, Nov. 1, 2004; 70 FR 43075, July 26, 2005; 87 FR 76995, Dec. 16, 2022]

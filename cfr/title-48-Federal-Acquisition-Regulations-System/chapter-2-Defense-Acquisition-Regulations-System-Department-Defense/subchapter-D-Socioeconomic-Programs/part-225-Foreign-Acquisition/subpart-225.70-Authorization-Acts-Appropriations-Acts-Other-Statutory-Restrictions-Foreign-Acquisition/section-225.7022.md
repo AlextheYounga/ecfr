@@ -1,3 +1,1 @@
-##### 225.7022 xxx #####
-
-Link to an amendment published at 87 FR 76983, Dec. 16, 2022.
+##### 225.7022 Prohibition on certain procurements from the Xinjiang Uyghur Autonomous Region. #####

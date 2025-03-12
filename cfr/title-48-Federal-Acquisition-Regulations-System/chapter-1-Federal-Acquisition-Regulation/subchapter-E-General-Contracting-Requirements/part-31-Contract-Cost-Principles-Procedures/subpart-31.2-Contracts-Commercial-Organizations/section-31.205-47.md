@@ -1,12 +1,10 @@
 ##### 31.205-47 Costs related to legal and other proceedings. #####
 
-Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
-
-(a) *Definitions.* As used in this subsection -
+(a) *Definitions.* As used in this subsection—
 
 *Costs* include, but are not limited to, administrative and clerical expenses; the costs of legal services, whether performed by in-house or private counsel; the costs of the services of accountants, consultants, or others retained by the contractor to assist it; costs of employees, officers, and directors; and any similar costs incurred before, during, and after commencement of a judicial or administrative proceeding which bears a direct relationship to the proceedings.
 
-*Fraud* means -
+*Fraud* means —
 
 (1) Acts of fraud or corruption or attempts to defraud the Government or to corrupt its agents;
 
@@ -18,11 +16,11 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 *Proceeding* includes an investigation.
 
-(b) Costs incurred in connection with any proceeding brought by: A Federal, State, local, or foreign government for a violation of, or failure to comply with, law or regulation by the contractor (including its agents or employees) (41 U.S.C. 4310 and 10 U.S.C. 2324(k)); a contractor or subcontractor employee submitting a whistleblower complaint of reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409; or a third party in the name of the United States under the False Claims Act, 31 U.S.C. 3730, are unallowable if the result is -
+(b) Costs incurred in connection with any proceeding brought by: A Federal, State, local, or foreign government for a violation of, or failure to comply with, law or regulation by the contractor (including its agents or employees) (41 U.S.C. 4310 and 10 U.S.C. 3750); a contractor or subcontractor employee submitting a whistleblower complaint of reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 4701; or a third party in the name of the United States under the False Claims Act, 31 U.S.C. 3730, are unallowable if the result is—
 
 (1) In a criminal proceeding, a conviction;
 
-(2) In a civil or administrative proceeding, either a finding of contractor liability where the proceeding involves an allegation of fraud or similar misconduct; or imposition of a monetary penalty, or an order issued by the agency head to the contractor or subcontractor to take corrective action under 41 U.S.C. 4712 or 10 U.S.C. 2409, where the proceeding does not involve an allegation of fraud or similar misconduct;
+(2) In a civil or administrative proceeding, either a finding of contractor liability where the proceeding involves an allegation of fraud or similar misconduct; or imposition of a monetary penalty, or an order issued by the agency head to the contractor or subcontractor to take corrective action under 41 U.S.C. 4712 or 10 U.S.C. 4701, where the proceeding does not involve an allegation of fraud or similar misconduct;
 
 (3) A final decision by an appropriate official of an executive agency to:
 
@@ -40,7 +38,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (2)(i) In the event of a settlement of any proceeding brought by a third party under the False Claims Act in which the United States did not intervene, reasonable costs incurred by the contractor in connection with such a proceeding that are not otherwise unallowable by regulation or by separate agreement with the United States may be allowed if the contracting officer, in consultation with his or her legal advisor, determines that there was very little likelihood that the third party would have been successful on the merits.
 
-(ii) In the event of disposition by consent or compromise of a proceeding brought by a whistleblower for alleged reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 2409, reasonable costs incurred by a contractor or subcontractor in connection with such a proceeding that are not otherwise unallowable by regulation or by agreement with the United States may be allowed if the contracting officer, in consultation with his or her legal advisor, determined that there was very little likelihood that the claimant would have been successful on the merits.
+(ii) In the event of disposition by consent or compromise of a proceeding brought by a whistleblower for alleged reprisal in accordance with 41 U.S.C. 4712 or 10 U.S.C. 4701, reasonable costs incurred by a contractor or subcontractor in connection with such a proceeding that are not otherwise unallowable by regulation or by agreement with the United States may be allowed if the contracting officer, in consultation with his or her legal advisor, determined that there was very little likelihood that the claimant would have been successful on the merits.
 
 (d) To the extent that they are not otherwise unallowable, costs incurred in connection with any proceeding under paragraph (b) of this subsection commenced by a State, local, or foreign government may be allowable when the contracting officer (or other official specified in agency procedures) determines, that the costs were incurred either:
 
@@ -56,7 +54,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (3) The percentage of costs allowed does not exceed the percentage determined to be appropriate considering the complexity of procurement litigation, generally accepted principles governing the award of legal fees in civil actions involving the United States as a party, and such other factors as may be appropriate. Such percentage shall not exceed 80 percent. Agreements reached under paragraph (c) of this subsection shall be subject to this limitation. If, however, an agreement described in paragraph (c)(1) of this subsection explicitly states the amount of otherwise allowable incurred legal fees and limits the allowable recovery to 80 percent or less of the stated legal fees, no additional limitation need be applied. The amount of reimbursement allowed for legal costs in connection with any proceeding described in paragraph (c)(2) of this subsection shall be determined by the cognizant contracting officer, but shall not exceed 80 percent of otherwise allowable legal costs incurred.
 
-(f) Costs not covered elsewhere in this subsection are unallowable if incurred in connection with -
+(f) Costs not covered elsewhere in this subsection are unallowable if incurred in connection with—
 
 (1) Defense against Federal Government claims or appeals or the prosecution of claims or appeals against the Federal Government (see 2.101).
 
@@ -74,7 +72,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (8) Protests of Federal Government solicitations or contract awards, or the defense against protests of such solicitations or contract awards, unless the costs of defending against a protest are incurred pursuant to a written request from the cognizant contracting officer.
 
-(9) A Congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in paragraphs (b)(1) through (5) of this section (see 10 U.S.C. 2324(e)(1)(Q)).
+(9) A Congressional investigation or inquiry into an issue that is the subject matter of a proceeding resulting in a disposition as described in paragraphs (b)(1) through (5) of this section (see 10 U.S.C. 3744(a)(17)).
 
 (g) Costs which may be unallowable under 31.205-47, including directly associated costs, shall be segregated and accounted for by the contractor separately. During the pendency of any proceeding covered by paragraph (b) and subparagraphs (f)(4) and (f)(7) of this subsection, the contracting officer shall generally withhold payment of such costs. However, if in the best interests of the Government, the contracting officer may provide for conditional payment upon provision of adequate security, or other adequate assurance, and agreement by the contractor to repay all unallowable costs, plus interest, if the costs are subsequently determined to be unallowable.
 

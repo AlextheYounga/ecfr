@@ -1,10 +1,8 @@
 ##### 252.225-7052 Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten. #####
 
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
-
 As prescribed in 225.7018-5, use the following clause:
 
-Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Aug 2022)
+Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -62,7 +60,7 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Aug 2
 
 (2) Contains at least 90 percent tungsten in a matrix of other metals (such as nickel-iron or nickel-copper) and has density of at least 16.5 g/cm3).
 
-(b) *Restriction.* (1) Except as provided in paragraph (c) of this clause, the Contractor shall not deliver under this contract any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 2533c).
+(b) *Restriction.* (1) Except as provided in paragraph (c) of this clause, the Contractor shall not deliver under this contract any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 4872).
 
 (2)(i) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -
 
@@ -106,4 +104,4 @@ Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten (Aug 2
 
 (d) *Subcontracts.* The Contractor shall insert the substance of this clause, including this paragraph (d), in subcontracts and other contractual instruments that are for items containing a covered material, including subcontracts and other contractual instruments for commercial items, unless an exception in paragraph (c) of this clause applies. The Contractor shall not alter this clause other than to identify the appropriate parties.
 
-(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]
+(End of clause)[84 FR 18159, Apr. 30, 2019, as amended at 84 FR 72245, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 87 FR 76997, Dec. 16, 2022]

@@ -1,10 +1,8 @@
 ##### 30.603-2 Unilateral and desirable changes. #####
 
-Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
-
 (a) *Unilateral changes.* (1) The contractor may unilaterally change its disclosed or established cost accounting practices, but the Government shall not pay any increased cost, in the aggregate, as a result of the unilateral change.
 
-(2) Prior to making any contract price or cost adjustments under the applicable paragraph(s) addressing a unilateral change at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine that -
+(2) Prior to making any contract price or cost adjustments under the applicable paragraph(s) addressing a unilateral change at 52.230-2, 52.230-3, or 52.230-5, the CFAO shall determine that—
 
 (i) The contemplated contract price or cost adjustments will protect the Government from the payment of the estimated increased costs, in the aggregate; and
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (2) Until the CFAO has determined a change to a cost accounting practice is a desirable change, the change is a unilateral change.
 
-(3) Some factors to consider in determining if a change is desirable include, but are not limited to, whether -
+(3) Some factors to consider in determining if a change is desirable include, but are not limited to, whether—
 
 (i) The contractor must change the cost accounting practices it uses for Government contract and subcontract costing purposes to remain in compliance with the provisions of Part 31;
 
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (iii) Funds are available if the determination would necessitate an upward adjustment of contract cost or price.
 
-(c) *Notice and proposal preparation.* (1) When a contractor makes a unilateral change, the clause at 52.230-6, Administration of Cost Accounting Standards, requires the contractor to -
+(c) *Notice and proposal preparation.* (1) When a contractor makes a unilateral change, the clause at 52.230-6, Administration of Cost Accounting Standards, requires the contractor to—
 
 (i) Submit a description of the change to the CFAO not less than 60 days (or other mutually agreeable date) before implementation of the change; and
 
@@ -36,4 +34,6 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (3) The CFAO shall not approve a date for the retroactive change that is before the beginning of the contractor's fiscal year in which the request is made.
 
-(e) *Contractor accounting changes due to external restructuring activities.* The requirements for contract price and cost adjustments do not apply to compliant cost accounting practice changes that are directly associated with external restructuring activities that are subject to and meet the requirements of 10 U.S.C. 2325. However, the disclosure requirements in 52.230-6(b) shall be followed.
+(e) *Contractor accounting changes due to external restructuring activities.* The requirements for contract price and cost adjustments do not apply to compliant cost accounting practice changes that are directly associated with external restructuring activities that are subject to and meet the requirements of 10 U.S.C. 3761. However, the disclosure requirements in 52.230-6(b) shall be followed.
+
+[70 FR 11753, Mar. 9, 2005, as amended at 87 FR 73899, Dec. 1, 2022]

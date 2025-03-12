@@ -1,8 +1,6 @@
 ##### 15.505 Preaward debriefing of offerors. #####
 
-Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
-
-Offerors excluded from the competitive range or otherwise excluded from the competition before award may request a debriefing before award (10 U.S.C. 2305(b)(6)(A) and 41 U.S.C. 3705).
+Offerors excluded from the competitive range or otherwise excluded from the competition before award may request a debriefing before award (10 U.S.C. 3305and 41 U.S.C. 3705).
 
 (a)(1) The offeror may request a preaward debriefing by submitting a written request for debriefing to the contracting officer within 3 days after receipt of the notice of exclusion from the competition.
 
@@ -16,7 +14,7 @@ Offerors excluded from the competitive range or otherwise excluded from the comp
 
 (d) The contracting officer should normally chair any debriefing session held. Individuals who conducted the evaluations shall provide support.
 
-(e) At a minimum, preaward debriefings shall include -
+(e) At a minimum, preaward debriefings shall include—
 
 (1) The agency's evaluation of significant elements in the offeror's proposal;
 
@@ -24,7 +22,7 @@ Offerors excluded from the competitive range or otherwise excluded from the comp
 
 (3) Reasonable responses to relevant questions about whether source selection procedures contained in the solicitation, applicable regulations, and other applicable authorities were followed in the process of eliminating the offeror from the competition.
 
-(f) Preaward debriefings shall not disclose -
+(f) Preaward debriefings shall not disclose—
 
 (1) The number of offerors;
 
@@ -40,4 +38,4 @@ Offerors excluded from the competitive range or otherwise excluded from the comp
 
 (g) An official summary of the debriefing shall be included in the contract file.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 79 FR 24202, Apr. 29, 2014]
+[62 FR 51230, Sept. 30, 1997, as amended at 79 FR 24202, Apr. 29, 2014; 87 FR 73898, Dec. 1, 2022]

@@ -1,10 +1,8 @@
 ##### 252.225-7045 Balance of Payments Program - Construction Material Under Trade Agreements. #####
 
-Link to an amendment published at 87 FR 76988, Dec. 16, 2022.
-
 *Basic.* As prescribed in 225.7503(b) and (b)(1), use the following clause:
 
-Balance of Payments Program - Construction Material Under Trade Agreements - Basic (JUN 2022)
+Balance of Payments Program - Construction Material Under Trade Agreements - Basic (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -40,7 +38,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Bas
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
-(2) A Free Trade Agreement country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -102,7 +100,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Bas
 
 *Alternate I.* As prescribed in 225.7503(b) and (b)(2), use the following clause, which adds *Bahrainian or Mexican construction material* to paragraph (a), and uses a different paragraph (b) and (c) than the basic clause:
 
-Balance of Payments Program - Construction Material Under Trade Agreements - Alternate I (JUN 2022)
+Balance of Payments Program - Construction Material Under Trade Agreements - Alternate I (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -144,7 +142,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
-(2) A Free Trade Agreement country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -190,7 +188,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) This clause implements the Balance of Payments Program by providing a preference for domestic construction material. In addition, the Contracting Officer has determined that the WTO GPA and all Free Trade Agreements except NAFTA and the Bahrain Free Trade Agreement apply to this acquisition. Therefore, the Balance of Payments Program restrictions are waived for designated country construction material other than Bahrainian or Mexican construction material.
+(b) This clause implements the Balance of Payments Program by providing a preference for domestic construction material. In addition, the Contracting Officer has determined that the WTO GPA and all Free Trade Agreements except United States-Mexico-Canada Agreement and the Bahrain Free Trade Agreement apply to this acquisition. Therefore, the Balance of Payments Program restrictions are waived for designated country construction material other than Bahrainian or Mexican construction material.
 
 (c) The Contractor shall use only domestic or designated country construction material other than Bahrainian or Mexican construction material in performing this contract, except for -
 
@@ -204,7 +202,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 *Alternate II.* As prescribed in 225.7503(b) and (b)(3), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause, and adds paragraph (d):
 
-Balance of Payments Program - Construction Material Under Trade Agreements - Alternate II (JUN 2022)
+Balance of Payments Program - Construction Material Under Trade Agreements - Alternate II (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -240,7 +238,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
-(2) A Free Trade Agreement country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -310,9 +308,9 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (End of clause)
 
-*Alternate III.* As prescribed in 225.7503(b) and (b)(4), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA state* and *SC/CASA state construction material* to paragraph (a), uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause, and adds paragraph (d):
+*Alternate III.* As prescribed in 225.7503(b) and (b)(4), use the following clause, which adds *South Caucasus/Central and South Asian (SC/CASA) state* and *SC/CASA state construction material* to paragraph (a), uses a different paragraph (b) and introductory text for paragraph (c) than the basic clause, and adds paragraph (d):
 
-Balance of Payments Program - Construction Material Under Trade Agreements - Alternate III (JUN 2022)
+Balance of Payments Program - Construction Material Under Trade Agreements - Alternate III (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -348,7 +346,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen, and Matsu” (Chinese Taipei)), Ukraine, or the United Kingdom);
 
-(2) A Free Trade Agreement country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -402,7 +400,7 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) This clause implements the Balance of Payments Program by providing a preference for domestic construction material. In addition, the Contracting Officer has determined that the WTO GPA, all Free Trade Agreements except NAFTA and the Bahrain Free Trade Agreement, and other waivers relating to acquisitions in support of operations in Afghanistan apply to this acquisition. Therefore, the Balance of Payments Program restrictions are waived for SC/CASA state and designated country construction material other than Bahrainian or Mexican construction material.
+(b) This clause implements the Balance of Payments Program by providing a preference for domestic construction material. In addition, the Contracting Officer has determined that the WTO GPA, all Free Trade Agreements except United States-Mexico-Canada Agreement and the Bahrain Free Trade Agreement, and other waivers relating to acquisitions in support of operations in Afghanistan apply to this acquisition. Therefore, the Balance of Payments Program restrictions are waived for SC/CASA state and designated country construction material other than Bahrainian or Mexican construction material.
 
 (c) The Contractor shall use only domestic, SC/CASA state, or designated country construction material other than Bahrainian or Mexican construction material in performing this contract, except for -
 
@@ -416,4 +414,4 @@ Balance of Payments Program - Construction Material Under Trade Agreements - Alt
 
 (d) If the Contractor is from an SC/CASA state, the Contractor shall inform its government of its participation in this acquisition and that it generally will not have such opportunity in the future unless its government provides reciprocal procurement opportunities to U.S. products and services and suppliers of such products and services.
 
-(End of clause)[70 FR 2365, Jan. 13, 2005, as amended at 70 FR 35548, June 21, 2005; 70 FR 73153, Dec. 9, 2005; 71 FR 9271, Feb. 23, 2006; 71 FR 34836, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 72 FR 14243, Mar. 27, 2007; 73 FR 70913, Nov. 24, 2008; 74 FR 2424, Jan. 15, 2009; 74 FR 37651, July 29, 2009; 74 FR 61046, Nov. 23, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81921, Dec. 29, 2010; 76 FR 32843, June 6, 2011; 76 FR 38053, June 29, 2011; 77 FR 4632, Jan. 30, 2012; 77 FR 30359, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 68704, Nov. 16, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 79 FR 65831, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 81 FR 42564, June 30, 2016; 81 FR 65568, Sept. 23, 2016; 84 FR 39208, Aug. 9, 2019; 87 FR 37451, June 23, 2022]
+(End of clause)[70 FR 2365, Jan. 13, 2005, as amended at 70 FR 35548, June 21, 2005; 70 FR 73153, Dec. 9, 2005; 71 FR 9271, Feb. 23, 2006; 71 FR 34836, June 16, 2006; 71 FR 58543, Oct. 4, 2006; 72 FR 14243, Mar. 27, 2007; 73 FR 70913, Nov. 24, 2008; 74 FR 2424, Jan. 15, 2009; 74 FR 37651, July 29, 2009; 74 FR 61046, Nov. 23, 2009; 75 FR 66686, Oct. 29, 2010; 75 FR 81921, Dec. 29, 2010; 76 FR 32843, June 6, 2011; 76 FR 38053, June 29, 2011; 77 FR 4632, Jan. 30, 2012; 77 FR 30359, 30361, May 22, 2012; 77 FR 31537, May 29, 2012; 77 FR 68704, Nov. 16, 2012; 78 FR 48334, Aug. 8, 2013; 78 FR 65221, Oct. 31, 2013; 79 FR 65831, Nov. 5, 2014; 80 FR 36899, June 26, 2015; 80 FR 67254, Oct. 30, 2015; 81 FR 42564, June 30, 2016; 81 FR 65568, Sept. 23, 2016; 84 FR 39208, Aug. 9, 2019; 87 FR 37451, June 23, 2022; 87 FR 76988, Dec. 16, 2022]

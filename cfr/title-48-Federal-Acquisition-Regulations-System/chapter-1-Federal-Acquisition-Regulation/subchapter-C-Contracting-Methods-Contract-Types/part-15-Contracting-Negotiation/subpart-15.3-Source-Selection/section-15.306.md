@@ -1,16 +1,14 @@
 ##### 15.306 Exchanges with offerors after receipt of proposals. #####
 
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
-
 (a) *Clarifications and award without discussions.* (1) Clarifications are limited exchanges, between the Government and offerors, that may occur when award without discussions is contemplated.
 
 (2) If award will be made without conducting discussions, offerors may be given the opportunity to clarify certain aspects of proposals (e.g., the relevance of an offeror's past performance information and adverse past performance information to which the offeror has not previously had an opportunity to respond) or to resolve minor or clerical errors.
 
-(3) Award may be made without discussions if the solicitation states that the Government intends to evaluate proposals and make award without discussions. If the solicitation contains such a notice and the Government determines it is necessary to conduct discussions, the rationale for doing so shall be documented in the contract file (see the provision at 52.215-1) (10 U.S.C. 2305(b)(4)(A)(ii) and 41 U.S.C. 3703(a)(2)).
+(3) Award may be made without discussions if the solicitation states that the Government intends to evaluate proposals and make award without discussions. If the solicitation contains such a notice and the Government determines it is necessary to conduct discussions, the rationale for doing so shall be documented in the contract file (see the provision at 52.215-1) (10 U.S.C. 3303(a)(2) and 41 U.S.C. 3703(a)(2)).
 
-(b) *Communications with offerors before establishment of the competitive range.* Communications are exchanges, between the Government and offerors, after receipt of proposals, leading to establishment of the competitive range. If a competitive range is to be established, these communications -
+(b) *Communications with offerors before establishment of the competitive range.* Communications are exchanges, between the Government and offerors, after receipt of proposals, leading to establishment of the competitive range. If a competitive range is to be established, these communications—
 
-(1) Shall be limited to the offerors described in paragraphs (b)(1)(i) and (b)(1)(ii) of this section and -
+(1) Shall be limited to the offerors described in paragraphs (b)(1)(i) and (b)(1)(ii) of this section and—
 
 (i) Shall be held with offerors whose past performance information is the determining factor preventing them from being placed within the competitive range. Such communications shall address adverse past performance information to which an offeror has not had a prior opportunity to respond; and
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (2) May be conducted to enhance Government understanding of proposals; allow reasonable interpretation of the proposal; or facilitate the Government's evaluation process. Such communications shall not be used to cure proposal deficiencies or material omissions, materially alter the technical or cost elements of the proposal, and/or otherwise revise the proposal. Such communications may be considered in rating proposals for the purpose of establishing the competitive range;
 
-(3) Are for the purpose of addressing issues that must be explored to determine whether a proposal should be placed in the competitive range. Such communications shall not provide an opportunity for the offeror to revise its proposal, but may address -
+(3) Are for the purpose of addressing issues that must be explored to determine whether a proposal should be placed in the competitive range. Such communications shall not provide an opportunity for the offeror to revise its proposal, but may address—
 
 (i) Ambiguities in the proposal or other concerns (e.g., perceived deficiencies, weaknesses, errors, omissions, or mistakes (see 14.407)); and
 
@@ -28,7 +26,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (c) *Competitive range.* (1) Agencies shall evaluate all proposals in accordance with 15.305(a), and, if discussions are to be conducted, establish the competitive range. Based on the ratings of each proposal against all evaluation criteria, the contracting officer shall establish a competitive range comprised of all of the most highly rated proposals, unless the range is further reduced for purposes of efficiency pursuant to paragraph (c)(2) of this section.
 
-(2) After evaluating all proposals in accordance with 15.305(a) and paragraph (c)(1) of this section, the contracting officer may determine that the number of most highly rated proposals that might otherwise be included in the competitive range exceeds the number at which an efficient competition can be conducted. Provided the solicitation notifies offerors that the competitive range can be limited for purposes of efficiency (see 52.215-1(f)(4)), the contracting officer may limit the number of proposals in the competitive range to the greatest number that will permit an efficient competition among the most highly rated proposals (10 U.S.C. 2305(b)(4) and 41 U.S.C. 3703).
+(2) After evaluating all proposals in accordance with 15.305(a) and paragraph (c)(1) of this section, the contracting officer may determine that the number of most highly rated proposals that might otherwise be included in the competitive range exceeds the number at which an efficient competition can be conducted. Provided the solicitation notifies offerors that the competitive range can be limited for purposes of efficiency (see 52.215-1(f)(4)), the contracting officer may limit the number of proposals in the competitive range to the greatest number that will permit an efficient competition among the most highly rated proposals (10 U.S.C. 3303 and 41 U.S.C. 3703).
 
 (3) If the contracting officer, after complying with paragraph (d)(3) of this section, decides that an offeror's proposal should no longer be included in the competitive range, the proposal shall be eliminated from consideration for award. Written notice of this decision shall be provided to unsuccessful offerors in accordance with 15.503.
 
@@ -46,11 +44,11 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (5) If, after discussions have begun, an offeror originally in the competitive range is no longer considered to be among the most highly rated offerors being considered for award, that offeror may be eliminated from the competitive range whether or not all material aspects of the proposal have been discussed, or whether or not the offeror has been afforded an opportunity to submit a proposal revision (see 15.307(a) and 15.503(a)(1)).
 
-(e) *Limits on exchanges.* Government personnel involved in the acquisition shall not engage in conduct that -
+(e) *Limits on exchanges.* Government personnel involved in the acquisition shall not engage in conduct that—
 
 (1) Favors one offeror over another;
 
-(2) Reveals an offeror's technical solution, including -
+(2) Reveals an offeror's technical solution, including—
 
 (i) Unique technology;
 
@@ -64,4 +62,4 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (5) Knowingly furnishes source selection information in violation of 3.104 and 41 U.S.C. 2102 and 2107).
 
-[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 65369, Dec. 18, 2001; 79 FR 24201, Apr. 29, 2014; 86 FR 61025, Nov. 4, 2021]
+[62 FR 51230, Sept. 30, 1997, as amended at 66 FR 65369, Dec. 18, 2001; 79 FR 24201, Apr. 29, 2014; 86 FR 61025, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]

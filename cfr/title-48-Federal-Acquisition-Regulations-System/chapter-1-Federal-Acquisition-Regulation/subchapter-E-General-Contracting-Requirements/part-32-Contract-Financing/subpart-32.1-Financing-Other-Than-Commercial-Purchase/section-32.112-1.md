@@ -1,10 +1,8 @@
 ##### 32.112-1 Subcontractor assertions of nonpayment. #####
 
-Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
+(a) In accordance with Section 806(a)(4) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 4601 note prec.), upon the assertion by a subcontractor or supplier of a Federal contractor that the subcontractor or supplier has not been paid in accordance with the payment terms of the subcontract, purchase order, or other agreement with the prime contractor, the contracting officer may determine—
 
-(a) In accordance with Section 806(a)(4) of Pub. L. 102-190, as amended by Sections 2091 and 8105 of Pub. L. 103-355 (10 U.S.C. 2302 note), upon the assertion by a subcontractor or supplier of a Federal contractor that the subcontractor or supplier has not been paid in accordance with the payment terms of the subcontract, purchase order, or other agreement with the prime contractor, the contracting officer may determine -
-
-(1) For a construction contract, whether the contractor has made -
+(1) For a construction contract, whether the contractor has made—
 
 (i) Progress payments to the subcontractor or supplier in compliance with Chapter 39 of Title 31, United States Code (Prompt Payment Act); or
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (3) For any contract, whether the contractor's certification of payment of a subcontractor or supplier accompanying its payment request to the Government is accurate.
 
-(b) If, in making the determination in paragraphs (a)(1) and (2) of this section, the contracting officer finds the prime contractor is not in compliance, the contracting officer may -
+(b) If, in making the determination in paragraphs (a)(1) and (2) of this section, the contracting officer finds the prime contractor is not in compliance, the contracting officer may—
 
 (1) Encourage the contractor to make timely payment to the subcontractor or supplier; or
 
@@ -22,4 +20,4 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (c) If the contracting officer determines that a certification referred to in paragraph (a)(3) of this section is inaccurate in any material respect, the contracting officer shall initiate administrative or other remedial action.
 
-[60 FR 48274, Sept. 18, 1995, as amended at 79 FR 24211, Apr. 29, 2014]
+[60 FR 48274, Sept. 18, 1995, as amended at 79 FR 24211, Apr. 29, 2014; 87 FR 73899, Dec. 1, 2022]

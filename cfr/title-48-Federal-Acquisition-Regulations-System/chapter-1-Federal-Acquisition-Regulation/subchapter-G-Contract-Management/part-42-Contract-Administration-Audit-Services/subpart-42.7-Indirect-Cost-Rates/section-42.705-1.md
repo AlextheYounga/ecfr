@@ -1,7 +1,5 @@
 ##### 42.705-1 Contracting officer determination procedure. #####
 
-Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
-
 (a) *Applicability and responsibility.* Contracting officer determination shall be used for the following, with the indicated cognizant contracting officer (or cognizant Federal agency official) responsible for establishing the final indirect cost rates:
 
 (1) Business units of a multidivisional corporation under the cognizance of a corporate administrative contracting officer (see subpart 42.6), with that officer responsible for the determination, assisted, as required, by the administrative contracting officers assigned to the individual business units. Negotiations may be conducted on a coordinated or centralized basis, depending upon the degree of centralization within the contractor's organization.
@@ -22,7 +20,7 @@ Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
 
 (ii) Each contractor is required to submit the final indirect cost rate proposal within the six-month period following the expiration of each of its fiscal years. The contracting officer may grant, in writing, reasonable extensions, for exceptional circumstances only, when requested in writing by the contractor.
 
-(iii) Upon receipt of the proposal -
+(iii) Upon receipt of the proposal—
 
 (A) The cognizant auditor will review the adequacy of the contractor's proposal for audit in support of negotiating final indirect cost rates and will provide a written description of any inadequacies to the contractor and contracting officer.
 
@@ -34,9 +32,9 @@ Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
 
 (3) The contracting officer (or cognizant Federal agency official) shall head the Government negotiating team, which includes the cognizant auditor and technical or functional personnel as required. Contracting offices having significant dollar interest shall be invited to participate in the negotiation and in the preliminary discussion of critical issues. Individuals or offices that have provided a significant input to the Government position should be invited to attend.
 
-(4) The Government negotiating team shall develop a negotiation position. Pursuant to 10 U.S.C. 2324(f) and 41 U.S.C. 4305, the contracting, officer shall -
+(4) The Government negotiating team shall develop a negotiation position. Pursuant to 10 U.S.C. 3745 and 41 U.S.C. 4305, the contracting, officer shall—
 
-(i) Not resolve any questioned costs until obtaining -
+(i) Not resolve any questioned costs until obtaining—
 
 (A) Adequate documentation on the costs; and
 
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
 
 (ii) Whenever possible, invite the contract auditor to serve as an advisor at any negotiation or meeting with the contractor on the determination of the contractor's final indirect cost rates.
 
-(5) The cognizant contracting officer shall -
+(5) The cognizant contracting officer shall—
 
 (i) Conduct negotiations;
 
@@ -64,4 +62,4 @@ Link to an amendment published at 87 FR 73900, Dec. 1, 2022.
 
 (v) Notify the contractor of the individual costs which were considered unallowable and the respective amounts of the disallowance.
 
-[48 FR 42370, Sept. 19, 1983, as amended at 60 FR 42661, Aug. 16, 1995; 62 FR 51258, Sept. 30, 1997; 63 FR 9064, Feb. 23, 1998; 67 FR 6120, Feb. 8, 2002; 72 FR 27385, May 15, 2007; 75 FR 53149, Aug. 30, 2010; 76 FR 31408, May 31, 2011; 79 FR 24213, Apr. 29, 2014]
+[48 FR 42370, Sept. 19, 1983, as amended at 60 FR 42661, Aug. 16, 1995; 62 FR 51258, Sept. 30, 1997; 63 FR 9064, Feb. 23, 1998; 67 FR 6120, Feb. 8, 2002; 72 FR 27385, May 15, 2007; 75 FR 53149, Aug. 30, 2010; 76 FR 31408, May 31, 2011; 79 FR 24213, Apr. 29, 2014; 87 FR 73900, Dec. 1, 2022]

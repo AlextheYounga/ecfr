@@ -1,12 +1,10 @@
 ##### 252.209-7007 Prohibited Financial Interests for Lead System Integrators. #####
 
-Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
-
 As prescribed in 209.570-4(b), use the following clause:
 
-Prohibited Financial Interests for Lead System Integrators (JUL 2009)
+Prohibited Financial Interests for Lead System Integrators (DEC 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 (1) *Lead system integrator* includes *lead system integrator with system responsibility* and *lead system integrator without system responsibility.*
 
@@ -20,6 +18,6 @@ Prohibited Financial Interests for Lead System Integrators (JUL 2009)
 
 (d) Notwithstanding any other clause of this contract, if the Contracting Officer determines that the Contractor misrepresented its financial interests at the time of award or has violated the agreement in paragraph (c) of this clause, the Government may terminate this contract for default for the Contractor's material failure to comply with the terms and conditions of award or may take other remedial measures as appropriate in the Contracting Officer's sole discretion.
 
-(e) This clause implements the requirements of 10 U.S.C. 2410p, as added by Section 807 of the National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364), and Section 802 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(e) This clause implements the requirements of10 U.S.C. 4292.
 
-(End of clause)[73 FR 1825, Jan. 10, 2007, as amended at 74 FR 34269, July 15, 2009]
+(End of clause)[73 FR 1825, Jan. 10, 2007, as amended at 74 FR 34269, July 15, 2009; 87 FR 76996, Dec. 16, 2022]

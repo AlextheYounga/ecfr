@@ -1,10 +1,8 @@
 ##### 15.503 Notifications to unsuccessful offerors. #####
 
-Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
+(a) *Preaward notices*—(1) *Preaward notices of exclusion from competitive range.* The contracting officer shall notify offerors promptly in writing when their proposals are excluded from the competitive range or otherwise eliminated from the competition. The notice shall state the basis for the determination and that a proposal revision will not be considered.
 
-(a) *Preaward notices* - (1) *Preaward notices of exclusion from competitive range.* The contracting officer shall notify offerors promptly in writing when their proposals are excluded from the competitive range or otherwise eliminated from the competition. The notice shall state the basis for the determination and that a proposal revision will not be considered.
-
-(2) *Preaward notices for small business programs.* (i) In addition to the notice in paragraph (a)(1) of this section, the contracting officer shall notify each offeror in writing prior to award and upon completion of negotiations and determinations of responsibility -
+(2) *Preaward notices for small business programs.* (i) In addition to the notice in paragraph (a)(1) of this section, the contracting officer shall notify each offeror in writing prior to award and upon completion of negotiations and determinations of responsibility—
 
 (A) When using a small business set-aside (see subpart 19.5);
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
 
 (D) When using the Women-Owned Small Business Program procedures in 19.1505.
 
-(ii) The notice shall state -
+(ii) The notice shall state—
 
 (A) The name and address of the apparently successful offeror;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
 
 (iii) The notice is not required when the contracting officer determines in writing that the urgency of the requirement necessitates award without delay or when the contract is entered into under the 8(a) program (see 19.805-2).
 
-(b) *Postaward notices.* (1) Within 3 days after the date of contract award, the contracting officer shall provide written notification to each offeror whose proposal was in the competitive range but was not selected for award (10 U.S.C. 2305(b)(5) and 41 U.S.C. 3704) or had not been previously notified under paragraph (a) of this section. The notice shall include -
+(b) *Postaward notices.* (1) Within 3 days after the date of contract award, the contracting officer shall provide written notification to each offeror whose proposal was in the competitive range but was not selected for award (10 U.S.C. 3304 and 41 U.S.C. 3704) or had not been previously notified under paragraph (a) of this section. The notice shall include—
 
 (i) The number of offerors solicited;
 
@@ -40,4 +38,4 @@ Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
 
 (3) Upon request, the contracting officer shall provide the information in paragraph (b)(1) of this section to unsuccessful offerors that received a preaward notice of exclusion from the competitive range.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 35721, June 30, 1998; 63 FR 36121, July 1, 1998; 63 FR 70267, Dec. 18, 1998; 65 FR 80265, Dec. 20, 2000; 66 FR 17756, Apr. 3, 2001; 66 FR 66986, 66990, Dec. 27, 2001; 69 FR 25276, May 5, 2004; 76 FR 18309, Apr. 1, 2011; 79 FR 24202, Apr. 29, 2014; 79 FR 43582, July 25, 2014; 79 FR 61750, Oct. 14, 2014]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 35721, June 30, 1998; 63 FR 36121, July 1, 1998; 63 FR 70267, Dec. 18, 1998; 65 FR 80265, Dec. 20, 2000; 66 FR 17756, Apr. 3, 2001; 66 FR 66986, 66990, Dec. 27, 2001; 69 FR 25276, May 5, 2004; 76 FR 18309, Apr. 1, 2011; 79 FR 24202, Apr. 29, 2014; 79 FR 43582, July 25, 2014; 79 FR 61750, Oct. 14, 2014; 87 FR 73898, Dec. 1, 2022]

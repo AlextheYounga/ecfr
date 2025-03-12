@@ -1,18 +1,16 @@
-##### 252.209-7002 Disclosure of ownership or control by a foreign government. #####
-
-Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
+##### 252.209-7002 Disclosure of Ownership or Control by a Foreign Government. #####
 
 As prescribed in 209.104-70, use the following provision:
 
-Disclosure of Ownership or Control by a Foreign Government (JUN 2010)
+Disclosure of Ownership or Control by a Foreign Government (DEC 2022)
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 (1) *Effectively owned or controlled* means that a foreign government or any entity controlled by a foreign government has the power, either directly or indirectly, whether exercised or exercisable, to control the election, appointment, or tenure of the Offeror's officers or a majority of the Offeror's board of directors by any means, e.g., ownership, contract, or operation of law (or equivalent power for unincorporated organizations).
 
-(2) *Entity controlled by a foreign government* -
+(2) *Entity controlled by a foreign government*—
 
-(i) Means -
+(i) Means—
 
 (A) Any domestic or foreign organization or corporation that is effectively owned or controlled by a foreign government; or
 
@@ -22,7 +20,7 @@ Disclosure of Ownership or Control by a Foreign Government (JUN 2010)
 
 (3) *Foreign government* includes the state and the government of any country (other than the United States and its outlying areas) as well as any political subdivision, agency, or instrumentality thereof.
 
-(4) *Proscribed information* means -
+(4) *Proscribed information* means—
 
 (i) Top Secret information;
 
@@ -34,12 +32,12 @@ Disclosure of Ownership or Control by a Foreign Government (JUN 2010)
 
 (v) Sensitive Compartmented Information (SCI).
 
-(b) *Prohibition on award.* No contract under a national security program may be awarded to an entity controlled by a foreign government if that entity requires access to proscribed information to perform the contract, unless the Secretary of Defense or a designee has waived application of 10 U.S.C. 2536(a).
+(b) *Prohibition on award.* No contract under a national security program may be awarded to an entity controlled by a foreign government if that entity requires access to proscribed information to perform the contract, unless the Secretary of Defense or a designee has waived application of 10 U.S.C. 4874.
 
 (c) *Disclosure.* The Offeror shall disclose any interest a foreign government has in the Offeror when that interest constitutes control by a foreign government as defined in this provision. If the Offeror is a subsidiary, it shall also disclose any reportable interest a foreign government has in any entity that owns or controls the subsidiary, including reportable interest concerning the Offeror's immediate parent, intermediate parents, and the ultimate parent. Use separate paper as needed, and provide the information in the following format: Offeror's Point of Contact for Questions about Disclosure (Name and Phone Number with Country Code, City Code and Area Code, as applicable)
 
 |                 Name and Address of Offeror                 |                                                                                       |
-|:------------------------------------------------------------|:--------------------------------------------------------------------------------------|
+|-------------------------------------------------------------|---------------------------------------------------------------------------------------|
 |Name and Address of Entity Controlled by a Foreign Government|Description of Interest, Ownership Percentage, and Identification of Foreign Government|
 
-(End of provision)[58 FR 28471, May 13, 1993, as amended at 59 FR 51133, Oct. 7, 1994; 70 FR 35546, June 21, 2005; 75 FR 35685, June 23, 2010; 79 FR 73490, Dec. 11, 2014]
+(End of provision)[58 FR 28471, May 13, 1993, as amended at 59 FR 51133, Oct. 7, 1994; 70 FR 35546, June 21, 2005; 75 FR 35685, June 23, 2010; 79 FR 73490, Dec. 11, 2014; 87 FR 76996, Dec. 16, 2022]

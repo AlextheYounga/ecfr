@@ -1,10 +1,8 @@
 ##### 52.213-4 Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services). #####
 
-Link to an amendment published at 87 FR 73893, Dec. 1, 2022.Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
-
 As prescribed in 13.302-5(d), insert the following clause:
 
-Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (OCT 2022)
+Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products and Commercial Services) (DEC 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses that are incorporated by reference:
 
@@ -44,7 +42,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (vii) 52.233-1, Disputes (MAY 2014).
 
-(viii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (OCT 2022).
+(viii) 52.244-6, Subcontracts for Commercial Products and Commercial Services (DEC 2022).
 
 (ix) 52.253-1, Computer Generated Forms (JAN 1991).
 
@@ -54,7 +52,7 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (i) 52.204-10, Reporting Executive Compensation and First-Tier Subcontract Awards (JUN 2020) (Pub. L. 109-282) (31 U.S.C. 6101 note) (Applies to contracts valued at or above the threshold specified in FAR 4.1403(a) on the date of award of this contract).
 
-(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract).
+(ii) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126) (Applies to contracts for supplies exceeding the micro-purchase threshold, as defined in 2.101 on the date of award of this contract).
 
 (iii) 52.222-20, Contracts for Materials, Supplies, Articles, and Equipment (JUN 2020) (41 U.S.C. chapter 65) (Applies to supply contracts over the threshold specified in FAR 22.602 on the date of award of this contract, in the United States, Puerto Rico, or the U.S. Virgin Islands).
 
@@ -94,11 +92,11 @@ Terms and Conditions - Simplified Acquisitions (Other Than Commercial Products a
 
 (xvi) 52.223-21, Foams (JUN 2016) (E.O. 13693) (Applies to contracts for products that may contain high global warming potential hydrofluorocarbons or refrigerant blends containing hydrofluorocarbons as a foam blowing agent; or contracts for construction of buildings or facilities.
 
-(xvii)(A) 52.225-1, Buy American - Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in FAR 2.101 on the date of award of this contract, and the acquisition -
+(xvii)(A) 52.225-1, Buy American - Supplies (OCT 2022) (41 U.S.C. chapter 67) (Applies to contracts for supplies, and to contracts for services involving the furnishing of supplies, for use in the United States or its outlying areas, if the value of the supply contract or supply portion of a service contract exceeds the micro-purchase threshold, as defined in 2.101 on the date of award of this contract, and the acquisition -
 
 (*1*) Is set aside for small business concerns; or
 
-(*2*) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $25,000).
+(*2*) Cannot be set aside for small business concerns (see 19.502-2), and does not exceed $50,000).
 
 (B) *Alternate I* (OCT 2022) (Applies if the Contracting Officer has filled in the domestic content threshold below, which will apply to the entire contract period of performance. Substitute the following sentence for the first sentence of paragraph (1)(ii)(A) of the definition of *domestic end product* in paragraph (a) of 52.225-1:
 

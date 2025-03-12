@@ -1,16 +1,14 @@
 ##### 52.225-5 Trade Agreements. #####
 
-Link to an amendment published at 87 FR 73894, Dec. 1, 2022.
-
 As prescribed in 25.1101(c)(1), insert the following clause:
 
-Trade Agreements (OCT 2019)
+Trade Agreements (DEC 2022)
 
 (a) *Definitions.* As used in this clause.
 
-*Caribbean Basin country end product* -
+*Caribbean Basin country end product*—
 
-(1) Means an article that -
+(1) Means an article that—
 
 (i)(A) Is wholly the growth, product, or manufacture of a Caribbean Basin country; or
 
@@ -44,7 +42,7 @@ Trade Agreements (OCT 2019)
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan (known in the World Trade Organization as “the Separate Customs Territory of Taiwan, Penghu, Kinmen and Matsu (Chinese Taipei)”), Ukraine, or United Kingdom);
 
-(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -54,13 +52,13 @@ Trade Agreements (OCT 2019)
 
 *End product* means those articles, materials, and supplies to be acquired under the contract for public use.
 
-*Free Trade Agreement country end product* means an article that -
+*Free Trade Agreement country end product* means an article that—
 
 (1) Is wholly the growth, product, or manufacture of a Free Trade Agreement (FTA) country; or
 
 (2) In the case of an article that consists in whole or in part of materials from another country, has been substantially transformed in an FTA country into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed. The term refers to a product offered for purchase under a supply contract, but for purposes of calculating the value of the end product includes services (except transportation services) incidental to the article, provided that the value of those incidental services does not exceed that of the article itself.
 
-*Least developed country end product* means an article that -
+*Least developed country end product* means an article that—
 
 (1) Is wholly the growth, product, or manufacture of a least developed country; or
 
@@ -70,7 +68,7 @@ Trade Agreements (OCT 2019)
 
 *U.S.-made end product* means an article that is mined, produced, or manufactured in the United States or that is substantially transformed in the United States into a new and different article of commerce with a name, character, or use distinct from that of the article or articles from which it was transformed.,
 
-*WTO GPA country end product* means an article that -
+*WTO GPA country end product* means an article that—
 
 (1) Is wholly the growth, product, or manufacture of a WTO GPA country; or
 

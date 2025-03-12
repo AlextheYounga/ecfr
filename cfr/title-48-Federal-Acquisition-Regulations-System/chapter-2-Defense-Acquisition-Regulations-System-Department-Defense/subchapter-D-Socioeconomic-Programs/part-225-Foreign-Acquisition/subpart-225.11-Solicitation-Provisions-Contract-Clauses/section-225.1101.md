@@ -1,7 +1,5 @@
 ##### 225.1101 Acquisition of supplies. #####
 
-Link to an amendment published at 87 FR 76986, Dec. 16, 2022.
-
 (1) Use the basic or the alternate of the provision at 252.225-7000, Buy American - Balance of Payments Program Certificate, instead of the provision at FAR 52.225-2, Buy American Certificate, in any solicitation, including solicitations using FAR part 12 procedures for the acquisition of commercial items, that includes the basic or the alternate of the clause at 252.225-7001, Buy American and Balance of Payments Program. If the solicitation includes the provision at FAR 52.204-7, do not separately list the provision 252.225-7000 in the solicitation.
 
 (i) Use the basic provision when the solicitation includes the basic clause at 252.225-7001.
@@ -86,13 +84,13 @@ Link to an amendment published at 87 FR 76986, Dec. 16, 2022.
 
 (vi) Use the alternate V provision when the solicitation includes alternate V of the clause at 252.225-7036.
 
-(10)(i) Except as provided in paragraph (10)(ii) of this section, use the basic or an alternate of the clause at 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program, instead of the clause at FAR 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for the items listed at 225.401-70, when the estimated value equals or exceeds $25,000, but is less than $183,000, unless an exception at FAR 25.401 or 225.401 applies.
+(10)(i) Except as provided in paragraph (10)(ii) of this section, use the basic or an alternate of the clause at 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program, instead of the clause at FAR 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, in solicitations and contracts, including solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items, for the items listed at 225.401-70, when the estimated value is less than $183,000, unless an exception at FAR 25.401 or 225.401 applies.
 
 (A) Use the basic clause in solicitations and contracts when the estimated value equals or exceeds $100,000, but is less than $183,000, except if the acquisition is of end products in support of operations in Afghanistan.
 
-(B) Use the alternate I clause in solicitations and contracts when the estimated value equals or exceeds $25,000, but is less than $92,319, except if the acquisition is of end products in support of operations in Afghanistan.
+(B) Use the alternate I clause in solicitations and contracts when the estimated value is less than $92,319, except if the acquisition is of end products in support of operations in Afghanistan.
 
-(C) Use the alternate II clause in solicitations and contracts when the estimated value equals or exceeds $100,000, but is less than $183,000, and the acquisition is of end products in support of operations in Afghanistan.
+(C) Use the alternate II clause in solicitations and contracts when the estimated value is less than $183,000, and the acquisition is of end products in support of operations in Afghanistan.
 
 (D) Use the alternate III clause in solicitations and contracts when the estimated value equals or exceeds $25,000, but is less than $92,319, and the acquisition is of end products in support of operations in Afghanistan.
 
@@ -110,4 +108,4 @@ Link to an amendment published at 87 FR 76986, Dec. 16, 2022.
 
 (iii) The acquisition of eligible and noneligible products under the same contract may result in the application of a Free Trade Agreement to only some of the items acquired. In such case, indicate in the Schedule those items covered by the Buy American - Free Trade Agreements - Balance of Payments Program clause.
 
-[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021]
+[75 FR 81916, Dec. 29, 2010, as amended at 77 FR 4630, Jan. 30, 2012; 77 FR 30357, May 22, 2012; 77 FR 35880, June 15, 2012; 78 FR 37986, June 25, 2013; 78 FR 40043, July 3, 2013; 78 FR 59857, Sept. 30, 2013; 78 FR 79621, Dec. 31, 2013; 79 FR 3520, Jan. 22, 2014; 79 FR 11342, Feb. 28, 2014; 79 FR 65817, Nov. 5, 2014; 80 FR 2021, Jan. 15, 2015; 80 FR 36898, June 26, 2015; 80 FR 81471, Dec. 30, 2015; 81 FR 17048, Mar. 25, 2016; 82 FR 61482, Dec. 28, 2017; 84 FR 72246, Dec. 31, 2019; 86 FR 74377, Dec. 30, 2021; 87 FR 76986, Dec. 16, 2022]

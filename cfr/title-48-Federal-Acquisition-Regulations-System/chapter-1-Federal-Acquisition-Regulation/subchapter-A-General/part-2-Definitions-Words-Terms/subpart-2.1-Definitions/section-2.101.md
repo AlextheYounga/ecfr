@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -80,7 +78,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 *Business unit* means any segment of an organization, or an entire business organization that is not divided into segments.
 
-*Certified cost or pricing data* means “cost or pricing data” that were required to be submitted in accordance with FAR 15.403-4 and 15.403-5 and have been certified, or are required to be certified, in accordance with 15.406-2. This certification states that, to the best of the person's knowledge and belief, the cost or pricing data are accurate, complete, and current as of a date certain before contract award. Cost or pricing data are required to be certified in certain procurements (10 U.S.C. 2306a and 41 U.S.C. chapter 35).
+*Certified cost or pricing data* means “cost or pricing data” that were required to be submitted in accordance with FAR 15.403-4 and 15.403-5 and have been certified, or are required to be certified, in accordance with 15.406-2. This certification states that, to the best of the person's knowledge and belief, the cost or pricing data are accurate, complete, and current as of a date certain before contract award. Cost or pricing data are required to be certified in certain procurements (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35).
 
 *Change-of-name agreement* means a legal instrument executed by the contractor and the Government that recognizes the legal change of name of the contractor without disturbing the original contractual rights and obligations of the parties.
 
@@ -242,7 +240,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 *Conviction* means a judgment or conviction of a criminal offense by any court of competent jurisdiction, whether entered upon a verdict or a plea, and includes a conviction entered upon a plea of *nolo contendere.* For use in subpart 23.5, see the definition at 23.503.
 
-*Cost or pricing data* (10 U.S.C. 2306a(h)(1) and 41 U.S.C. chapter 35) means all facts that, as of the date of price agreement, or, if applicable, an earlier date agreed upon between the parties that is as close as practicable to the date of agreement on price, prudent buyers and sellers would reasonably expect to affect price negotiations significantly. Cost or pricing data are factual, not judgmental; and are verifiable. While they do not indicate the accuracy of the prospective contractor's judgment about estimated future costs or projections, they do include the data forming the basis for that judgment. Cost or pricing data are more than historical accounting data; they are all the facts that can be reasonably expected to contribute to the soundness of estimates of future costs and to the validity of determinations of costs already incurred. They also include, but are not limited to, such factors as -
+*Cost or pricing data* (10 U.S.C. 3701(1) and 41 U.S.C. chapter 35) means all facts that, as of the date of price agreement, or, if applicable, an earlier date agreed upon between the parties that is as close as practicable to the date of agreement on price, prudent buyers and sellers would reasonably expect to affect price negotiations significantly. Cost or pricing data are factual, not judgmental; and are verifiable. While they do not indicate the accuracy of the prospective contractor's judgment about estimated future costs or projections, they do include the data forming the basis for that judgment. Cost or pricing data are more than historical accounting data; they are all the facts that can be reasonably expected to contribute to the soundness of estimates of future costs and to the validity of determinations of costs already incurred. They also include, but are not limited to, such factors as -
 
 (1) Vendor quotations;
 
@@ -430,7 +428,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 *HUBZone small business concern* means a small business concern that meets the requirements described in 13 CFR 126.200, is certified by the Small Business Administration (SBA) and designated by SBA as a HUBZone small business concern in the Dynamic Small Business Search (DSBS) (13 CFR 126.103). SBA's designation also appears in SAM.
 
-*Humanitarian or peacekeeping operation* means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing (10 U.S.C. 2302(8) and 41 U.S.C. 153(2)).
+*Humanitarian or peacekeeping operation* means a military operation in support of the provision of humanitarian or foreign disaster assistance or in support of a peacekeeping operation under chapter VI or VII of the Charter of the United Nations. The term does not include routine training, force rotation, or stationing (10 U.S.C. 3015(2) and 41 U.S.C. 153(2)).
 
 *Hydrofluorocarbons* means compounds that contain only hydrogen, fluorine, and carbon.
 
@@ -528,7 +526,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 (2) A civilian agency is responsible for the system and total expenditures for the system are estimated to exceed $ 2.5 million or the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget Circular A-109, entitled “Major System Acquisitions,” whichever is greater; or
 
-(3) The system is designated a “major system” by the head of the agency responsible for the system (10 U.S.C. 2302 and 41 U.S.C. 109.
+(3) The system is designated a “major system” by the head of the agency responsible for the system (10 U.S.C. 3041 and 41 U.S.C. 109).
 
 *Make-or-buy program* means that part of a contractor's written plan for a contract identifying those major items to be produced or work efforts to be performed in the prime contractor's facilities and those to be subcontracted.
 
@@ -730,7 +728,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 *Qualified products list (QPL)* means a list of products that have been examined, tested, and have satisfied all applicable qualification requirements.
 
-*Qualifying offeror,* as used in 13.106-1 and 15.304, means an offeror that is determined to be a responsible source, submits a technically acceptable proposal that conforms to the requirements of the solicitation, and the contracting officer has no reason to believe would be likely to offer other than fair and reasonable pricing (10 U.S.C. 2305(a)(3)(D)).
+*Qualifying offeror,* as used in 13.106-1 and 15.304, means an offeror that is determined to be a responsible source, submits a technically acceptable proposal that conforms to the requirements of the solicitation, and the contracting officer has no reason to believe would be likely to offer other than fair and reasonable pricing (10 U.S.C. 3206(c)(4)).
 
 *Receiving report* means written evidence that indicates Government acceptance of supplies delivered or services performed (see subpart 46.6). Receiving reports must meet the requirements of 32.905(c).
 
@@ -814,7 +812,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 (ii) $1.5 million for any contract to be awarded and performed, or purchase to be made, outside the United States; and
 
-(2) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a humanitarian or peacekeeping operation (10 U.S.C. 2302), the term means $500,000 for any contract to be awarded and performed, or purchase to be made, outside the United States.
+(2) Acquisitions of supplies or services that, as determined by the head of the agency, are to be used to support a humanitarian or peacekeeping operation (10 U.S.C. 3015) , the term means $500,000 for any contract to be awarded and performed, or purchase to be made, outside the United States.
 
 *Single, Governmentwide point of entry,* means the one point of entry to be designated by the Administrator of OFPP that will allow the private sector to electronically access procurement opportunities Governmentwide.
 
@@ -840,7 +838,7 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 (2)(i) For civilian agencies, may include two business concerns in a mentor-protégé relationship when both the mentor and the protégé are small or the protégé is small and the concerns have received an exception to affiliation pursuant to 13 CFR 121.103(h)(3)(ii) or (iii).
 
-(ii) For DoD, may include two business concerns in a mentor-protégé relationship in the Department of Defense Pilot Mentor-Protégé Program (see section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Pub. L. 101-510; 10 U.S.C. 2302 note)) when both the mentor and the protégé are small. There is no exception to joint venture size affiliation for offers received from teaming arrangements under the Department of Defense Pilot Mentor-Protégé Program; and
+(ii) For DoD, may include two business concerns in a mentor-protégé relationship in the Department of Defense Pilot Mentor-Protégé Program (see section 831 of the National Defense Authorization Act for Fiscal Year 1991 (Pub. L. 101-510; 10 U.S.C. 4901 note prec.) when both the mentor and the protégé are small. There is no exception to joint venture size affiliation for offers received from teaming arrangements under the Department of Defense Pilot Mentor-Protégé Program; and
 
 (3) See 13 CFR 121.103(b)(9) regarding the exception to affiliation for offers received from Small Business Teaming Arrangements in the case of a solicitation of offers for a bundled contract with a reserve.
 

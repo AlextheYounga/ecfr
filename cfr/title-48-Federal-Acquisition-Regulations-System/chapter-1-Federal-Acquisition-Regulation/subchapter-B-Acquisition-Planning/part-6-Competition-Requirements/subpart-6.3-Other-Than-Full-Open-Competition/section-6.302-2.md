@@ -1,12 +1,10 @@
 ##### 6.302-2 Unusual and compelling urgency. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
-
-(a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(2) or 41 U.S.C. 3304(a)(2).
+(a) *Authority.* (1) Citations: 10 U.S.C. 3204(a)(2) or 41 U.S.C. 3304(a)(2).
 
 (2) When the agency's need for the supplies or services is of such an unusual and compelling urgency that the Government would be seriously injured unless the agency is permitted to limit the number of sources from which it solicits bids or proposals, full and open competition need not be provided for.
 
-(b) *Application.* This authority applies in those situations where -
+(b) *Application.* This authority applies in those situations where—
 
 (1) An unusual and compelling urgency precludes full and open competition; and
 
@@ -16,9 +14,9 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (2) This statutory authority requires that agencies shall request offers from as many potential sources as is practicable under the circumstances.
 
-(d) *Period of Performance.* (1) The total period of performance of a contract awarded or modified using this authority -
+(d) *Period of Performance.* (1) The total period of performance of a contract awarded or modified using this authority—
 
-(i) May not exceed the time necessary -
+(i) May not exceed the time necessary—
 
 (A) To meet the unusual and compelling requirements of the work to be performed under the contract; and
 
@@ -36,4 +34,4 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (5) The determination may be made after contract award when making the determination prior to award would unreasonably delay the acquisition.
 
-[50 FR 52431, Dec. 23, 1985, as amended at 74 FR 52851, Oct. 14, 2009; 74 FR 65615, Dec. 10, 2009; 79 FR 24198, Apr. 29, 2014; 80 FR 38309, July 2, 2015; 84 FR 19842, May 6, 2019]
+[50 FR 52431, Dec. 23, 1985, as amended at 74 FR 52851, Oct. 14, 2009; 74 FR 65615, Dec. 10, 2009; 79 FR 24198, Apr. 29, 2014; 80 FR 38309, July 2, 2015; 84 FR 19842, May 6, 2019; 87 FR 73896, Dec. 1, 2022]

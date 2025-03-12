@@ -1,7 +1,5 @@
 ##### 225.7001 Definitions. #####
 
-Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
-
 As used in this subpart -
 
 *Assembly* means an item forming a portion of a system or subsystem that -
@@ -14,7 +12,7 @@ As used in this subpart -
 
 *Component* means any item supplied to the Government as part of an end item or of another component except that for use in 225.7007, the term means an article, material, or supply incorporated directly into an end product.
 
-*End item,* as used in sections 225.7003 and 225.7018, means the final production product when assembled or completed and ready for delivery under a line item of the contract (10 U.S.C. 2533b(m)).
+*End item,* as used in sections 225.7003 and 225.7018, means the final production product when assembled or completed and ready for delivery under a line item of the contract (10 U.S.C. 4863(m)).
 
 *End product* means supplies delivered under a line item of the contract.
 
@@ -28,4 +26,4 @@ As used in this subpart -
 
 *Subsystem* means a functional grouping of items that combine to perform a major function within an end item, such as electrical power, altitude control, and propulsion.
 
-[84 FR 72243, Dec. 31, 2019]
+[84 FR 72243, Dec. 31, 2019, as amended at 87 FR 76993, Dec. 16, 2022]

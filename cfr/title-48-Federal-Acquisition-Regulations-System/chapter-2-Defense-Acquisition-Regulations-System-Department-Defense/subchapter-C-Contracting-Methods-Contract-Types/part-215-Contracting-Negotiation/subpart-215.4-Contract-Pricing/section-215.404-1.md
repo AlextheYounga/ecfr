@@ -1,7 +1,5 @@
 ##### 215.404-1 Proposal analysis techniques. #####
 
-Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
-
 (a) *General.* (i) Follow the procedures at PGI 215.404-1 for proposal analysis.
 
 (ii) For spare parts or support equipment, perform an analysis of -
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
 
 (b) *Price analysis for commercial and noncommercial items.* (i) In the absence of adequate price competition in response to the solicitation, pricing based on market prices is the preferred method to establish a fair and reasonable price (see PGI 215.404-1(b)(i)).
 
-(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 2306a(b)(5)).
+(ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial items under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 3703(e)).
 
 (iii) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b)(ii) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on -
 
@@ -50,4 +48,4 @@ Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
 
 (h) *Review and justification of pass-through contracts.* Follow the procedures at PGI 215.404-1(h)(2) when considering alternative approaches or making the determination that the contracting approach selected is in the best interest of the Government, as required by FAR 15.404-1(h)(2).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022]

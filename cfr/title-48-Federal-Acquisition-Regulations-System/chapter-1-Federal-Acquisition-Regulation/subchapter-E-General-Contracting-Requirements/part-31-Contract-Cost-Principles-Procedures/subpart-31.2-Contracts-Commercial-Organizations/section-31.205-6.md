@@ -1,7 +1,5 @@
 ##### 31.205-6 Compensation for personal services. #####
 
-Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
-
 (a) *General.* Compensation for personal services is allowable subject to the following general criteria and additional requirements contained in other parts of this cost principle:
 
 (1) Compensation for personal services must be for work performed by the employee in the current year and must not represent a retroactive adjustment of prior years' salaries or wages (but see paragraphs (g), (h), (j), (k), (m), and (o) of this subsection).
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (B) Persons who are contractually committed to acquire a substantial financial interest in the contractor's enterprise.
 
-(ii) For these individuals, compensation must -
+(ii) For these individuals, compensation must—
 
 (A) Be reasonable for the personal services rendered; and
 
@@ -28,9 +26,9 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (iii) For owners of closely held companies, compensation in excess of the costs that are deductible as compensation under the Internal Revenue Code (26 U.S.C.) and regulations under it is unallowable.
 
-(b) *Reasonableness* - (1) *Compensation pursuant to labor-management agreements.* If costs of compensation established under “arm's length” labor-management agreements negotiated under the terms of the Federal Labor Relations Act or similar state statutes are otherwise allowable, the costs are reasonable unless, as applied to work in performing Government contracts, the costs are unwarranted by the character and circumstances of the work or discriminatory against the Government. The application of the provisions of a labor-management agreement designed to apply to a given set of circumstances and conditions of employment (*e.g.,* work involving extremely hazardous activities or work not requiring recurrent use of overtime) is unwarranted when applied to a Government contract involving significantly different circumstances and conditions of employment (*e.g.,* work involving less hazardous activities or work continually requiring use of overtime). It is discriminatory against the Government if it results in employee compensation (in whatever form or name) in excess of that being paid for similar non-Government work under comparable circumstances.
+(b) *Reasonableness*—(1) *Compensation pursuant to labor-management agreements.* If costs of compensation established under “arm's length” labor-management agreements negotiated under the terms of the Federal Labor Relations Act or similar state statutes are otherwise allowable, the costs are reasonable unless, as applied to work in performing Government contracts, the costs are unwarranted by the character and circumstances of the work or discriminatory against the Government. The application of the provisions of a labor-management agreement designed to apply to a given set of circumstances and conditions of employment (*e.g.,* work involving extremely hazardous activities or work not requiring recurrent use of overtime) is unwarranted when applied to a Government contract involving significantly different circumstances and conditions of employment (*e.g.,* work involving less hazardous activities or work continually requiring use of overtime). It is discriminatory against the Government if it results in employee compensation (in whatever form or name) in excess of that being paid for similar non-Government work under comparable circumstances.
 
-(2) *Compensation not covered by labor-management agreements.* Compensation for each employee or job class of employees must be reasonable for the work performed. Compensation is reasonable if the aggregate of each measurable and allowable element sums to a reasonable total. In determining the reasonableness of total compensation, consider only allowable individual elements of compensation. In addition to the provisions of 31.201-3, in testing the reasonableness of compensation for particular employees or job classes of employees, consider factors determined to be relevant by the contracting officer. Factors that may be relevant include, but are not limited to, conformity with compensation practices of other firms -
+(2) *Compensation not covered by labor-management agreements.* Compensation for each employee or job class of employees must be reasonable for the work performed. Compensation is reasonable if the aggregate of each measurable and allowable element sums to a reasonable total. In determining the reasonableness of total compensation, consider only allowable individual elements of compensation. In addition to the provisions of 31.201-3, in testing the reasonableness of compensation for particular employees or job classes of employees, consider factors determined to be relevant by the contracting officer. Factors that may be relevant include, but are not limited to, conformity with compensation practices of other firms—
 
 (i) Of the same size;
 
@@ -42,7 +40,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (c) [Reserved]
 
-(d) *Form of payment.* (1) Compensation for personal services includes compensation paid or to be paid in the future to employees in the form of -
+(d) *Form of payment.* (1) Compensation for personal services includes compensation paid or to be paid in the future to employees in the form of—
 
 (i) Cash;
 
@@ -60,7 +58,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (2) Differential allowances for additional income taxes resulting from domestic assignments are unallowable. (However, payments for increased employee income or Federal Insurance Contributions Act taxes incident to allowable reimbursed relocation costs are allowable under 31.205-35(a)(10).)
 
-(f) *Bonuses and incentive compensation.* (1) Bonuses and incentive compensation are allowable provided the -
+(f) *Bonuses and incentive compensation.* (1) Bonuses and incentive compensation are allowable provided the—
 
 (i) Awards are paid or accrued under an agreement entered into in good faith between the contractor and the employees before the services are rendered or pursuant to an established plan or policy followed by the contractor so consistently as to imply, in effect, an agreement to make such payment; and
 
@@ -70,7 +68,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (g) *Severance pay.* (1) Severance pay is a payment in addition to regular salaries and wages by contractors to workers whose employment is being involuntarily terminated. Payments for early retirement incentive plans are covered in paragraph (j)(6) of this subsection.
 
-(2) Severance pay is allowable only to the extent that, in each case, it is required by -
+(2) Severance pay is allowable only to the extent that, in each case, it is required by—
 
 (i) Law;
 
@@ -82,7 +80,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (3) Payments made in the event of employment with a replacement contractor where continuity of employment with credit for prior length of service is preserved under substantially equal conditions of employment, or continued employment by the contractor at another facility, subsidiary, affiliate, or parent company of the contractor are not severance pay and are unallowable.
 
-(4) Actual normal turnover severance payments shall be allocated to all work performed in the contractor's plant. However, if the contractor uses the accrual method to account for normal turnover severance payments, that method will be acceptable if the amount of the accrual is -
+(4) Actual normal turnover severance payments shall be allocated to all work performed in the contractor's plant. However, if the contractor uses the accrual method to account for normal turnover severance payments, that method will be acceptable if the amount of the accrual is—
 
 (i) Reasonable in light of payments actually made for normal severances over a representative past period; and
 
@@ -90,7 +88,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (5) Abnormal or mass severance pay is of such a conjectural nature that accruals for this purpose are not allowable. However, the Government recognizes its obligation to participate, to the extent of its fair share, in any specific payment. Thus, the Government will consider allowability on a case-by-case basis.
 
-(6) Under 10 U.S.C. 2324(e)(1)(M) and 41 U.S.C. 4304(a)(13), the costs of severance payments to foreign nationals employed under a service contract performed outside the United States are unallowable to the extent that such payments exceed amounts typically paid to employees providing similar services in the same industry in the United States. Further, under 10 U.S.C. 2324(e)(1)(N) and 41 U.S.C. 4304(a)(14), all such costs of severance payments that are otherwise allowable are unallowable if the termination of employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country; this does not apply if the closing of a facility or curtailment of activities is made pursuant to a status-of-forces or other country-to-country agreement entered into with the government of that country before November 29, 1989. 10 U.S.C. 2324(e)(3) and 41 U.S.C. 4304(b) permit the head of the agency to waive these cost allowability limitations under certain circumstances (see 37.113 and the solicitation provision at 52.237-8).
+(6) Under 10 U.S.C. 3744(a)(13) and 41 U.S.C. 4304(a)(13), the costs of severance payments to foreign nationals employed under a service contract performed outside the United States are unallowable to the extent that such payments exceed amounts typically paid to employees providing similar services in the same industry in the United States. Further, under 10 U.S.C. 3744(a)(14)and 41 U.S.C. 4304(a)(14), all such costs of severance payments that are otherwise allowable are unallowable if the termination of employment of the foreign national is the result of the closing of, or the curtailment of activities at, a United States facility in that country at the request of the government of that country; this does not apply if the closing of a facility or curtailment of activities is made pursuant to a status-of-forces or other country-to-country agreement entered into with the government of that country before November 29, 1989. 10 U.S.C. 3744(b) and 41 U.S.C. 4304(b) permit the head of the agency to waive these cost allowability limitations under certain circumstances (see 37.113 and the solicitation provision at 52.237-8).
 
 (h) *Backpay.* Backpay is a retroactive adjustment of prior years' salaries or wages. Backpay is unallowable except as follows:
 
@@ -98,7 +96,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (2) Payments to union employees for the difference in their past and current wage rates for working without a contract or labor agreement during labor management negotiation are allowable.
 
-(3) Payments to nonunion employees based upon results of union agreement negotiation are allowable only if -
+(3) Payments to nonunion employees based upon results of union agreement negotiation are allowable only if—
 
 (i) A formal agreement or understanding exists between management and the employees concerning these payments; or
 
@@ -112,7 +110,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (3) If a contractor pays an employee in lieu of the employee receiving or exercising a right, option, or benefit which would have been unallowable under this paragraph (i), such payments are also unallowable.
 
-(j) *Pension costs.* (1) Pension plans are normally segregated into two types of plans: defined-benefit and defined-contribution pension plans. The contractor shall measure, assign, and allocate the costs of all defined-benefit pension plans and the costs of all defined-contribution pension plans in compliance with 48 CFR 9904.412 - Cost Accounting Standard for Composition and Measurement of Pension Cost, and 48 CFR 9904.413 - Adjustment and Allocation of Pension Cost. Pension costs are allowable subject to the referenced standards and the cost limitations and exclusions set forth in paragraph (j)(1)(i) and in paragraphs (j)(2) through (j)(6) of this subsection.
+(j) *Pension costs.* (1) Pension plans are normally segregated into two types of plans: defined-benefit and defined-contribution pension plans. The contractor shall measure, assign, and allocate the costs of all defined-benefit pension plans and the costs of all defined-contribution pension plans in compliance with 48 CFR 9904.412—Cost Accounting Standard for Composition and Measurement of Pension Cost, and 48 CFR 9904.413—Adjustment and Allocation of Pension Cost. Pension costs are allowable subject to the referenced standards and the cost limitations and exclusions set forth in paragraph (j)(1)(i) and in paragraphs (j)(2) through (j)(6) of this subsection.
 
 (i) Except for nonqualified pension plans using the pay-as-you-go cost method, to be allowable in the current year, the contractor shall fund pension costs by the time set for filing of the Federal income tax return or any extension. Pension costs assigned to the current year, but not funded by the tax return time, are not allowable in any subsequent year. For nonqualified pension plans using the pay-as-you-go method, to be allowable in the current year, the contractor shall allocate pension costs in the cost accounting period that the pension costs are assigned.
 
@@ -136,13 +134,13 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (iv) The contracting officer will consider the allowability of the cost of indemnifying the Pension Benefit Guaranty Corporation (PBGC) under ERISA section 4062 or 4064 arising from terminating an employee deferred compensation plan on a case-by-case basis, provided that if insurance was required by the PBGC under ERISA section 4023, it was so obtained and the indemnification payment is not recoverable under the insurance. Consideration under the foregoing circumstances will be primarily for the purpose of appraising the extent to which the indemnification payment is allocable to Government work. If a beneficial or other equitable relationship exists, the Government will participate, despite the requirements of 31.205-19(c)(3) and (d)(3), in the indemnification payment to the extent of its fair share.
 
-(v) Increased pension costs resulting from the withdrawal of assets from a pension fund and transfer to another employee benefit plan fund, or transfer of assets to another account within the same fund, are unallowable except to the extent authorized by an advance agreement. If the withdrawal of assets from a pension fund is a plan termination under ERISA, the provisions of paragraph (j)(3) of this subsection apply. The advance agreement shall -
+(v) Increased pension costs resulting from the withdrawal of assets from a pension fund and transfer to another employee benefit plan fund, or transfer of assets to another account within the same fund, are unallowable except to the extent authorized by an advance agreement. If the withdrawal of assets from a pension fund is a plan termination under ERISA, the provisions of paragraph (j)(3) of this subsection apply. The advance agreement shall—
 
 (A) State the amount of the Government's equitable share in the gross amount withdrawn or transferred; and
 
 (B) Provide that the Government receives a credit equal to the amount of the Government's equitable share of the gross withdrawal or transfer.
 
-(3) *Pension adjustments and asset reversions.* (i) For segment closings, pension plan terminations, or curtailment of benefits, the amount of the adjustment shall be -
+(3) *Pension adjustments and asset reversions.* (i) For segment closings, pension plan terminations, or curtailment of benefits, the amount of the adjustment shall be—
 
 (A) For contracts and subcontracts that are subject to full coverage under the Cost Accounting Standards (CAS) Board rules and regulations, the amount measured, assigned, and allocated in accordance with 48 CFR 9904.413-50(c)(12); and
 
@@ -158,7 +156,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (5) *Pension plans using the pay-as-you-go cost method.* When using the pay-as-you-go cost method, the contractor shall measure, assign, and allocate the cost of pension plans in accordance with 48 CFR 9904.412 and 9904.413. Pension costs for a pension plan using the pay-as-you-go cost method are allowable to the extent they are not otherwise unallowable.
 
-(6) *Early retirement incentives.* An early retirement incentive is an incentive given to an employee to retire early. For contract costing purposes, costs of early retirement incentives are allowable subject to the pension cost criteria contained in paragraphs (j)(2)(i) through (iv) of this subsection provided -
+(6) *Early retirement incentives.* An early retirement incentive is an incentive given to an employee to retire early. For contract costing purposes, costs of early retirement incentives are allowable subject to the pension cost criteria contained in paragraphs (j)(2)(i) through (iv) of this subsection provided—
 
 (i) The contractor measures, assigns, and allocates the costs in accordance with the contractor's accounting practices for pension costs;
 
@@ -190,7 +188,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (2) To be allowable, PRB costs shall be incurred pursuant to law, employer-employee agreement, or an established policy of the contractor, and shall comply with paragraphs (o)(2)(i), (ii), or (iii) of this subsection.
 
-(i) *Pay-as-you-go.* PRB costs are not accrued during the working lives of employees. Costs are assigned to the period in which -
+(i) *Pay-as-you-go.* PRB costs are not accrued during the working lives of employees. Costs are assigned to the period in which—
 
 (A) Benefits are actually provided; or
 
@@ -214,7 +212,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (*iii*) For a plan that transitioned from pay-as-you-go to accrual accounting for Government contract cost accounting prior to July 22, 2013, the unallowable amount of PRB cost attributable to the transition obligation amortization shall continue to be based on the cost principle in effect at the time of the transition until the original transition obligation schedule is fully amortized.
 
-(*2*) Contributions to a welfare benefit fund determined in accordance with applicable Internal Revenue Code. Allowable PRB costs based on such contributions shall -
+(*2*) Contributions to a welfare benefit fund determined in accordance with applicable Internal Revenue Code. Allowable PRB costs based on such contributions shall—
 
 (*i*) Be measured using reasonable actuarial assumptions, which shall include a health care inflation assumption unless prohibited by the Internal Revenue Code provisions governing welfare benefit funds;
 
@@ -232,7 +230,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (F) Recognize as a prepayment credit the market (fair) value of assets that were accumulated by deposits or contributions that were not used to fund costs assigned to previous periods for contract accounting purposes.
 
-(G) Comply with the following when changing from one accrual accounting method to another: the contractor shall -
+(G) Comply with the following when changing from one accrual accounting method to another: the contractor shall—
 
 (*1*) Treat the change in the unfunded actuarial liability (unfunded accumulated postretirement benefit obligation) as a gain or loss; and
 
@@ -246,7 +244,7 @@ Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
 
 (p) *Limitation on allowability of compensation.*
 
-Table 31-1 - Employee Compensation Limits
+Table 31-1—Employee Compensation Limits
 
 |                Contract award date                 |                  Applicable agencies                  |Covered employees|31.205-6|
 |----------------------------------------------------|-------------------------------------------------------|-----------------|--------|
@@ -255,13 +253,13 @@ Table 31-1 - Employee Compensation Limits
 |On/after December 31, 2011, and before June 24, 2014|              DoD, NASA, and Coast Guard               |  All Employees  |(p)(3). |
 |               On/after June 24, 2014               |                All Executive Agencies                 |  All Employees  |(p)(4). |
 
-(1) *Definitions.* As used in this paragraph (p) -
+(1) *Definitions.* As used in this paragraph (p)—
 
 (i) *Compensation* means the total amount of wages, salary, bonuses, deferred compensation (see paragraph (k) of this subsection), and employer contributions to defined contribution pension plans (see paragraphs (j)(4) and (q) of this subsection), for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in the contractor's cost accounting records for the fiscal year.
 
-(ii) *Senior executive* means -
+(ii) *Senior executive* means—
 
-(A) Prior to January 2, 1999 -
+(A) Prior to January 2, 1999—
 
 (*1*) The Chief Executive Officer (CEO) or any individual acting in a similar capacity at the contractor's headquarters;
 
@@ -275,27 +273,27 @@ Table 31-1 - Employee Compensation Limits
 
 (iv) *Contractor's headquarters* means the highest organizational level from which executive compensation costs are allocated to Government contracts.
 
-(2) *Senior executive compensation limit for contracts awarded before June 24, 2014* - (i) *Applicability.* This paragraph (p)(2) applies to the following:
+(2) *Senior executive compensation limit for contracts awarded before June 24, 2014*—(i) *Applicability.* This paragraph (p)(2) applies to the following:
 
 (A) To all executive agencies, other than DoD, NASA and the Coast Guard, for contracts awarded before June 24, 2014;
 
 (B) To DoD, NASA, and the Coast Guard for contracts awarded before December 31, 2011;
 
-(ii) Costs incurred after January 1, 1998, for the compensation of a senior executive in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP), under 41 U.S.C. 1127 as in effect prior to June 24, 2014, are unallowable (10 U.S.C. 2324(e)(1)(P) and 41 U.S.C. 4304(a)(16), as in effect prior to June 24, 2014). This limitation is the sole statutory limitation on allowable senior executive compensation costs incurred after January 1, 1998, under contracts awarded before June 24, 2014, and applies whether or not the affected contracts were previously subject to a statutory limitation on such costs. (Note that pursuant to section 804 of Pub. L. 105-261, the definition of “senior executive” in paragraph (p)(1) of this section has been changed for compensation costs incurred after January 1, 1999.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
+(ii) Costs incurred after January 1, 1998, for the compensation of a senior executive in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP), under 41 U.S.C. 1127 as in effect prior to June 24, 2014, are unallowable (10 U.S.C. 3744(a)(16)and 41 U.S.C. 4304(a)(16), as in effect prior to June 24, 2014). This limitation is the sole statutory limitation on allowable senior executive compensation costs incurred after January 1, 1998, under contracts awarded before June 24, 2014, and applies whether or not the affected contracts were previously subject to a statutory limitation on such costs. (Note that pursuant to section 804 of Pub. L. 105-261, the definition of “senior executive” in paragraph (p)(1) of this section has been changed for compensation costs incurred after January 1, 1999.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
 
 (3) All employee compensation limit for contracts awarded before June 24, 2014.
 
 (i) *Applicability.* This paragraph (p)(3) applies to DOD, NASA, and the Coast Guard for contracts awarded on or after December 31, 2011, and before June 24, 2014.
 
-(ii) Costs incurred after January 1, 2012, for the compensation of any contractor employee in excess of the benchmark compensation amount, determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP) under 41 U.S.C. 1127 as in effect prior to June 24, 2014 are unallowable (10 U.S.C. 2324(e)(1)(P) as in effect prior to June 24, 2014.) This limitation is the sole statutory limitation on allowable employee compensation costs incurred after January 1, 2012, under contracts awarded on or after December 31, 2011 and before June 24, 2014. (Note that pursuant to section 803 of Pub. L. 112-81, 10 U.S.C. 2324, Allowable costs under defense contracts, was amended by striking “senior executives” and inserting “any contractor employee”, making unallowable the excess compensation costs incurred after January 1, 2012, under affected contracts.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
+(ii) Costs incurred after January 1, 2012, for the compensation of any contractor employee in excess of the benchmark compensation amount, determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP) under 41 U.S.C. 1127 as in effect prior to June 24, 2014 are unallowable (10 U.S.C. 3744(a)(16)as in effect prior to June 24, 2014.) This limitation is the sole statutory limitation on allowable employee compensation costs incurred after January 1, 2012, under contracts awarded on or after December 31, 2011 and before June 24, 2014. (Note that pursuant to section 803 of Pub. L. 112-81, 10 U.S.C. 3744, Allowable costs under defense contracts, was amended by striking “senior executives” and inserting “any contractor employee”, making unallowable the excess compensation costs incurred after January 1, 2012, under affected contracts.) See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedBeforeJune24.pdf.*
 
 (4) All employee compensation limit for contracts awarded on or after June 24, 2014.
 
 (i) *Applicability.* This paragraph (p)(4) applies to all executive agency contracts awarded on or after June 24, 2014, and any subcontracts thereunder.
 
-(ii) Costs incurred on or after June 24, 2014, for the compensation of all employees in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP) are unallowable under 10 U.S.C. 2324(e)(1)(P) and 41 U.S.C. 4304(a)(16), as in effect on or after June 24, 2014, pursuant to section 702 of Public Law 113-67. This limitation is the sole statutory limitation on allowable employee compensation costs incurred on or after June 24, 2014, under contracts awarded on or after June 24, 2014. See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf.*
+(ii) Costs incurred on or after June 24, 2014, for the compensation of all employees in excess of the benchmark compensation amount determined applicable for the contractor fiscal year by the Administrator, Office of Federal Procurement Policy (OFPP) are unallowable under 10 U.S.C. 3744(a)(16) and 41 U.S.C. 4304(a)(16), as in effect on or after June 24, 2014, pursuant to section 702 of Public Law 113-67. This limitation is the sole statutory limitation on allowable employee compensation costs incurred on or after June 24, 2014, under contracts awarded on or after June 24, 2014. See *https://www.whitehouse.gov/wp-content/uploads/2017/11/ContractorCompensationCapContractsAwardedafterJune24.pdf.*
 
-(iii) *Exceptions.* An agency head may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities. In making such a determination, the agency shall consider, at a minimum, for each contractor employee in a narrowly targeted excepted position -
+(iii) *Exceptions.* An agency head may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities. In making such a determination, the agency shall consider, at a minimum, for each contractor employee in a narrowly targeted excepted position—
 
 (A) The amount of taxpayer funded compensation to be received by each employee; and
 
@@ -311,7 +309,7 @@ Table 31-1 - Employee Compensation Limits
 
 (iii) When the contribution is in the form of stock, the value of the stock contribution is limited to the fair market value of the stock on the date that title is effectively transferred to the trust.
 
-(iv) When the contribution is in the form of cash -
+(iv) When the contribution is in the form of cash—
 
 (A) Stock purchases by the ESOT in excess of fair market value are unallowable; and
 

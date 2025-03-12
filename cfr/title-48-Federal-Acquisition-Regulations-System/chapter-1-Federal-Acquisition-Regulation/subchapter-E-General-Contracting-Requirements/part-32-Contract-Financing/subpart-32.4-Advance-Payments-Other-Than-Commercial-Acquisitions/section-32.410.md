@@ -1,7 +1,5 @@
 ##### 32.410 Findings, determination, and authorization. #####
 
-Link to an amendment published at 87 FR 73899, Dec. 1, 2022.
-
 (a) Each determination concerning advance payments shall be supported by written findings (see 32.402(c)(1)(iii)).
 
 (b) The following is an example of the format and text of findings, determination, and authorization with alternative words, phrases, and paragraphs to be selected to conform to the circumstances involved:
@@ -38,7 +36,7 @@ Determination
 
 Authorization
 
-(c) The advance payments, of which (the amount at any time outstanding) (the aggregate amount, less the aggregate amounts repaid, or withdrawn by the Government), shall not exceed $\_\_\_\_, are hereby authorized under (41 U.S.C. chapter 45, Contract Financing) (10 U.S.C. 2307) (the Extraordinary Contracting Authority of Government Agencies in Connection with National Defense Functions (50 U.S.C. 1431-1435) and Executive Order No. 10789 of November 14, 1958 (3 CFR 1958 Supp. pp. 72-74)) [*or, if other, cite appropriate authority*] on (terms substantially as contained in the proposed advance payment clause, a copy (an outline) of which is annexed to this authorization) (the following terms:) [*Insert the appropriate terms.*]
+(c) The advance payments, of which (the amount at any time outstanding) (the aggregate amount, less the aggregate amounts repaid, or withdrawn by the Government), shall not exceed $\_\_\_\_, are hereby authorized under (41 U.S.C. chapter 45, Contract Financing) (10 U.S.C. chapter 277) (the Extraordinary Contracting Authority of Government Agencies in Connection with National Defense Functions (50 U.S.C. 1431-1435) and Executive Order No. 10789 of November 14, 1958 (3 CFR 1958 Supp. pp. 72-74)) [*or, if other, cite appropriate authority*] on (terms substantially as contained in the proposed advance payment clause, a copy (an outline) of which is annexed to this authorization) (the following terms:) [*Insert the appropriate terms.*]
 
 (All prior authorizations for advance payments under Contract No. \_\_\_\_\_\_ are superseded.)
 
@@ -46,4 +44,4 @@ Authorization
 
 [*Each Findings, Determination, and Authorization shall be individually prepared to fit the particular circumstances at hand. Subparagraphs (a)(1), (2), (3) and (4) and paragraphs (b) and (c) shall be used in each case. If the contract is (a) for experimental, developmental, or research work and with a nonprofit educational or research institution, or (b) only for management and operation of a Government-owned plant, subparagraph (a)(5) should not be included. If the advance payment is to be made without interest to the contractor, include subparagraph (a)(6), (7), or (8). If any advance payments have previously been authorized for the contract, include the final sentence of paragraph (c). The alternate parenthetical wording or other modifications may be used as appropriate. The paragraphs actually used shall be renumbered sequentially*].
 
-[48 FR 42328, Sept. 19, 1983, as amended at 50 FR 1744, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 66 FR 2138, Jan. 10, 2001; 79 FR 24211, Apr. 29, 2014]
+[48 FR 42328, Sept. 19, 1983, as amended at 50 FR 1744, Jan. 11, 1985; 50 FR 52429, Dec. 23, 1985; 66 FR 2138, Jan. 10, 2001; 79 FR 24211, Apr. 29, 2014; 87 FR 73899, Dec. 1, 2022]

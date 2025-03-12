@@ -1,12 +1,10 @@
-##### 52.225-23 Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements. #####
-
-Link to an amendment published at 87 FR 73894, Dec. 1, 2022.
+##### 52.225-23 Required Use of American Iron, Steel, and Manufactured Goods—Buy American Statute—Construction Materials Under Trade Agreements. #####
 
 As prescribed in 25.1102(e), insert the following clause:
 
-Required Use of American Iron, Steel, and Manufactured Goods - Buy American Statute - Construction Materials Under Trade Agreements (JAN 2021)
+Required Use of American Iron, Steel, and Manufactured Goods—Buy American Statute—Construction Materials Under Trade Agreements (DEC 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Component* means an article, material, or supply incorporated directly into a construction material.
 
@@ -16,7 +14,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
-(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -32,13 +30,13 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 *Foreign construction material* means a construction material other than a domestic construction material.
 
-*Free trade agreement (FTA) country construction material* means a construction material that -
+*Free trade agreement (FTA) country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of an FTA country; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in an FTA country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Least developed country construction material* means a construction material that -
+*Least developed country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a least developed country; or
 
@@ -52,7 +50,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
-(2) A Free Trade Agreement country (FTA)(Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or
+(2) A Free Trade Agreement country (FTA)(Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore); or
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan, Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia).
 
@@ -62,19 +60,19 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-*Unmanufactured construction material* means raw material brought to the construction site for incorporation into the building or work that has not been -
+*Unmanufactured construction material* means raw material brought to the construction site for incorporation into the building or work that has not been—
 
 (1) Processed into a specific form and shape; or
 
 (2) Combined with other raw material to create a material that has different properties than the properties of the individual raw materials.
 
-*WTO GPA country construction material* means a construction material that -
+*WTO GPA country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a WTO GPA country; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a WTO GPA country into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements -
+(b) *Construction materials.* (1) The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements—
 
 (i) Section 1605 of the Recovery Act by requiring, unless an exception applies, that all manufactured construction material in the project is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives); and
 
@@ -86,7 +84,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 [*Contracting Officer to list applicable excepted materials or indicate “none”.*]
 
-(4) The Contracting Officer may add other construction material to the list in paragraph (b)(3) of this clause if the Government determines that -
+(4) The Contracting Officer may add other construction material to the list in paragraph (b)(3) of this clause if the Government determines that—
 
 (i) The cost of domestic construction material would be unreasonable;
 
@@ -100,7 +98,7 @@ Required Use of American Iron, Steel, and Manufactured Goods - Buy American Stat
 
 (c) *Request for determination of inapplicability of section 1605 of the Recovery Act or the Buy American statute.*
 
-(1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including -
+(1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including—
 
 (A) A description of the foreign and domestic construction materials;
 
@@ -149,13 +147,13 @@ Foreign (Nondesignated Country) and Domestic Construction Materials Cost Compari
 
 *Alternate I* (MAY 2014). As prescribed in 25.1102(e), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
 
-*Bahrainian, Mexican, or Omani construction material” means a construction material that* -
+*Bahrainian, Mexican, or Omani construction material” means a construction material that*—
 
 (1) Is wholly the growth, product, or manufacture of Bahrain, Mexico, or Oman; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements -
+(b) *Construction materials.* (1) The restrictions of section 1605 of the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) (Recovery Act) do not apply to Recovery Act designated country manufactured construction material. The restrictions of the Buy American statute do not apply to designated country unmanufactured construction material. Consistent with U.S. obligations under international agreements, this clause implements—
 
 (i) Section 1605 of the Recovery Act, by requiring, unless an exception applies, that all manufactured construction material in the project is manufactured in the United States and, if the construction material consists wholly or predominantly of iron or steel, the iron or steel was produced in the United States (produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, except metallurgical processes involving refinement of steel additives); and
 
@@ -163,4 +161,4 @@ Foreign (Nondesignated Country) and Domestic Construction Materials Cost Compari
 
 (2) The Contractor shall use only domestic construction material, Recovery Act designated country manufactured construction material, or designated country unmanufactured construction material, other than Bahrainian, Mexican, or Omani construction material, in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 
-[74 FR 14628, Mar. 31, 2009, as amended at 74 FR 40463, Aug. 11, 2009; 75 FR 53168, Aug. 30, 2010; 76 FR 68040, Nov. 2, 2011; 77 FR 12937, Mar. 2, 2012; 77 FR 13956, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69726, Nov. 20, 2012; 78 FR 46794, Aug. 1, 2013; 78 FR 70481, Nov. 25, 2013; 79 FR 24222, Apr. 29, 2014; 80 FR 81894, Dec. 31, 2015; 81 FR 67776, Sept. 30, 2016; 84 FR 47868, Sept. 10, 2019; 86 FR 6193, Jan. 19, 2021]
+[74 FR 14628, Mar. 31, 2009]Editorial Note:For Federal Register citations affecting 52.225-23, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.

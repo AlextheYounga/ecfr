@@ -1,7 +1,5 @@
 ##### 12.503 Applicability of certain laws to Executive agency contracts for the acquisition of commercial products and commercial services. #####
 
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
-
 (a) The following laws are not applicable to Executive agency contracts for the acquisition of commercial products or commercial services:
 
 (1) 10 U.S.C. 983, Institutions of Higher Education that Prevent ROTC Access or Military Recruiting on Campus: Denial of Grants and Contracts from Department of Defense, Department of Education, and Certain Other Departments and Agencies (see 9.110).
@@ -12,15 +10,15 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (4) 41 U.S.C. 2303(b), Policy on Personal Conflicts of Interest by Contractor Employees (see subpart 3.11).
 
-(5) 41 U.S.C. 3901(b) and 10 U.S.C. 2306(b), Contingent Fees (see 3.404).
+(5) 41 U.S.C. 3901(b) and 10 U.S.C. 3321(b) Contingent Fees (see 3.404).
 
-(6) 41 U.S.C. 4706(d)(1) and 10 U.S.C. 2313(c)(1), GAO Access to Contractor Employees, section 871 of Public Law 110-417 (see 52.214-26 and 52.215-2).
+(6) 41 U.S.C. 4706(d)(1) and 10 U.S.C. 3841(d)(1), GAO Access to Contractor Employees, section 871 of Public Law 110-417 (see 52.214-26 and 52.215-2).
 
 (7) 41 U.S.C. chapter 65, Contracts for Materials, Supplies, Articles, and Equipment Exceeding $10,000 (see subpart 22.6).
 
 (8) 41 U.S.C. chapter 81, Drug-Free Workplace (see 23.501).
 
-(9) Section 806(a)(3) of Public Law 102-190, as amended by sections 2091 and 8105 of Public Law 103-355 (10 U.S.C. 2302 note), Payment Protections for Subcontractors and Suppliers (see 28.106-6).
+(9) Section 806(a)(3) of Public Law 102-190, as amended by sections 2091 and 8105 of Public Law 103-355 (10 U.S.C. 4601 note prec.), Payment Protections for Subcontractors and Suppliers (see 28.106-6).
 
 (10) 15 U.S.C. 644(w), Solicitation Notice Regarding Administration of Change Orders for Construction (see 36.211).
 
@@ -36,9 +34,9 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (c) The applicability of the following laws have been modified in regard to Executive agency contracts for the acquisition of commercial products and commercial services:
 
-(1) 41 U.S.C. 4704 and 10 U.S.C. 2402, Prohibition on Limiting Subcontractor Direct Sales to the United States (see 3.503).
+(1) 41 U.S.C. 4704 and 10 U.S.C. 4655, Prohibition on Limiting Subcontractor Direct Sales to the United States (see 3.503).
 
-(2) 41 U.S.C. chapter 35, Truthful Cost or Pricing Data, and 10 U.S.C. 2306a, Truth in Negotiations (see 15.403).
+(2) 41 U.S.C. chapter 35 and 10 U.S.C. chapter 271, Truthful Cost or Pricing Data (see 15.403).
 
 (3) 41 U.S.C. chapter 15, Cost Accounting Standards (see 48 CFR chapter 99) (see 12.214).
 

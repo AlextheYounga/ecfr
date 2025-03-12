@@ -1,14 +1,12 @@
-##### 252.235-7000 Indemnification under 10 U.S.C. 2354 - fixed price. #####
-
-Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+##### 252.235-7000 Indemnification Under 10 U.S.C. 3861—Fixed Price. #####
 
 As prescribed in 235.070-3, use the following clause:
 
-Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
+Indemnification Under 10 U.S.C. 3861—Fixed Price (DEC 2022)
 
-(a) This clause provides for indemnification under 10 U.S.C. 2354 if the Contractor meets all the terms and conditions of this clause.
+(a) This clause provides for indemnification under 10 U.S.C. 3861 if the Contractor meets all the terms and conditions of this clause.
 
-(b) Claims, losses, and damages covered -
+(b) Claims, losses, and damages covered—
 
 (1) Claims by third persons for death, bodily injury, sickness, or disease, or the loss, damage, or lost use of property. Claims include those for reasonable expenses of litigation or settlement. The term *third persons* includes employees of the contractor;
 
@@ -16,7 +14,7 @@ Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
 
 (3) Loss, damage, or lost use of the Government's property.
 
-(c) The claim, loss, or damage -
+(c) The claim, loss, or damage—
 
 (1) Must arise from the direct performance of this contract;
 
@@ -24,7 +22,7 @@ Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
 
 (3) Must result from an unusually hazardous risk as specifically defined in the contract;
 
-(4) Must not result from willful misconduct or lack of good faith on the part of any of the Contractor's directors or officers, managers, superintendents, or other equivalent representatives who have supervision or direction of -
+(4) Must not result from willful misconduct or lack of good faith on the part of any of the Contractor's directors or officers, managers, superintendents, or other equivalent representatives who have supervision or direction of—
 
 (i) All or substantially all of the Contractor's business;
 
@@ -40,7 +38,7 @@ Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
 
 (e) A reduction of the insurance coverage maintained by the Contractor on the date of the execution of this contract shall not increase the Government's liability under this clause unless the Contracting Officer consents, and the contract price is equitably adjusted, if appropriate, to reflect the Contractor's consideration for the Government's assumption of increased liability.
 
-(f) *Notice.* The Contractor shall -
+(f) *Notice.* The Contractor shall—
 
 (1) Promptly notify the Contracting Officer of any occurrence, action, or claim that might trigger the Government's liability under this clause;
 
@@ -50,7 +48,7 @@ Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
 
 (g) The Government may direct, participate in, and supervise the settlement or defense of the claim or action. The Contractor shall comply with the Government's directions and execute any authorizations required.
 
-(h) *Flowdown.* The Government shall indemnify the Contractor if the Contractor has an obligation to indemnify a subcontractor under any subcontract at any tier under this contract for the unusually hazardous risk identified in this contract only if -
+(h) *Flowdown.* The Government shall indemnify the Contractor if the Contractor has an obligation to indemnify a subcontractor under any subcontract at any tier under this contract for the unusually hazardous risk identified in this contract only if—
 
 (1) The Contracting Officer gave prior written approval for the Contractor to provide in a subcontract for the Contractor to indemnify the subcontractor for unusually hazardous risks defined in this contract;
 
@@ -64,4 +62,4 @@ Indemnification Under 10 U.S.C. 2354 - Fixed Price (DEC 1991)
 
 (j) The rights and obligations of the parties under this clause shall survive the termination, expiration, or completion of this contract.
 
-(End of clause)
+(End of clause)[56 FR 36284, 36479, July 31, 1991, as amended at 87 FR 76998, Dec. 16, 2022]

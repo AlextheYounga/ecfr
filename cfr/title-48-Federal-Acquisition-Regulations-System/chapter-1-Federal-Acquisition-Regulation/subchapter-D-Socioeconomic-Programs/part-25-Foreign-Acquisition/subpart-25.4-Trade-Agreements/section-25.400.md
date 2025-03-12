@@ -1,14 +1,12 @@
 ##### 25.400 Scope of subpart. #####
 
-Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
-
-(a) This subpart provides policies and procedures applicable to acquisitions that are covered by -
+(a) This subpart provides policies and procedures applicable to acquisitions that are covered by—
 
 (1) The World Trade Organization Government Procurement Agreement (WTO GPA), as approved by Congress in the Uruguay Round Agreements Act (Pub. L. 103-465);
 
-(2) Free Trade Agreements (FTA), consisting of -
+(2) Free Trade Agreements (FTA), consisting of—
 
-(i) NAFTA (the North American Free Trade Agreement, as approved by Congress in the North American Free Trade Agreement Implementation Act of 1993 (Pub. L. 103-182) (19 U.S.C. 3301 note));
+(i) USMCA (United States-Mexico-Canada Agreement, as approved by Congress in the United States-Mexico-Canada Agreement Implementation Act (Government Procurement Agreement applicable only to the United States and Mexico) (Pub. L. 116-113) (19 U.S.C. chapter 29 (sections 4501-4732));
 
 (ii) Chile FTA (the United States-Chile Free Trade Agreement, as approved by Congress in the United States-Chile Free Trade Agreement Implementation Act (Pub. L. 108-77) (19 U.S.C. 3805 note));
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
 (iv) Australia FTA (the United States-Australia Free Trade Agreement, as approved by Congress in the United States-Australia Free Trade Agreement Implementation Act (Pub. L. 108-286) (19 U.S.C. 3805 note));
 
-(v) Morocco FTA (The United States - Morocco Free Trade Agreement, as approved by Congress in the United States - Morocco Free Trade Agreement Implementation Act (Pub. L. 108-302) (19 U.S.C. 3805 note));
+(v) Morocco FTA (The United States—Morocco Free Trade Agreement, as approved by Congress in the United States—Morocco Free Trade Agreement Implementation Act (Pub. L. 108-302) (19 U.S.C. 3805 note));
 
 (vi) CAFTA-DR (The Dominican Republic-Central America-United States Free Trade Agreement, as approved by Congress in the Dominican Republic-Central America-United States Free Trade Agreement Implementation Act (Pub. L. 109-53) (19 U.S.C. 4001 note));
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
 (b) For application of the trade agreements that are unique to individual agencies, see agency regulations.
 
-[69 FR 77873, Dec. 28, 2004, as amended at 71 FR 219, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 74 FR 28428, June 15, 2009; 77 FR 13954, Mar. 7, 2012; 77 FR 27549, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 79 FR 24209, Apr. 29, 2014]
+[69 FR 77873, Dec. 28, 2004, as amended at 71 FR 219, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 74 FR 28428, June 15, 2009; 77 FR 13954, Mar. 7, 2012; 77 FR 27549, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 79 FR 24209, Apr. 29, 2014; 87 FR 73892, Dec. 1, 2022]

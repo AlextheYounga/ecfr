@@ -1,8 +1,6 @@
 ##### 217.204 Contracts. #####
 
-Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
-
-(e)(i) Notwithstanding FAR 17.204(e), the ordering period of a task order or delivery order contract (including a contract for information technology) awarded by DoD pursuant to 10 U.S.C. 2304a -
+(e)(i) Notwithstanding FAR 17.204(e), the ordering period of a task order or delivery order contract (including a contract for information technology) awarded by DoD pursuant to 10 U.S.C. 3403—
 
 (A) May be for any period up to 5 years;
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
 
 (A) Contracts, including task or delivery order contracts, awarded under other statutory authority.
 
-(B) Advisory and assistance service task order contracts (authorized by 10 U.S.C. 2304b that are limited by statute to 5 years, with the authority to extend an additional 6 months (see FAR 16.505(c)).
+(B) Advisory and assistance service task order contracts (authorized by 10 U.S.C. 3405 that are limited by statute to 5 years, with the authority to extend an additional 6 months (see FAR 16.505(c)).
 
 (C) Definite-quantity contracts.
 
@@ -24,4 +22,4 @@ Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
 
 (iii) Obtain approval from the senior procurement executive before issuing an order against a task or delivery order contract subject to paragraph (e)(i) of this section, if performance under the order is expected to extend more than 1 year beyond the 10-year limit or extended limit described in paragraph (e)(i)(C) of this section (see FAR 37.106 for funding and term of service contracts).
 
-[70 FR 73152, Dec. 9, 2005, as amended at 79 FR 58696, Sept. 30, 2014]
+[70 FR 73152, Dec. 9, 2005, as amended at 79 FR 58696, Sept. 30, 2014; 87 FR 76993, Dec. 16, 2022]

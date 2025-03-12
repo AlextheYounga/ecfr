@@ -1,12 +1,10 @@
 ##### 10.001 Policy. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
-
-(a) Agencies shall -
+(a) Agencies shall—
 
 (1) Ensure that legitimate needs are identified and trade-offs evaluated to acquire items that meet those needs;
 
-(2) Conduct market research appropriate to the circumstances -
+(2) Conduct market research appropriate to the circumstances—
 
 (i) Before developing new requirements documents for an acquisition by that agency;
 
@@ -16,19 +14,19 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (iv) Before soliciting offers for acquisitions that could lead to consolidation or bundling (15 U.S.C. 644(e)(2)(A) and 15 U.S.C. 657q);
 
-(v) Before awarding a task or delivery order under an indefinite-delivery-indefinite-quantity (ID/IQ) contract (*e.g.*, GWACs, MACs) for other than a commercial product or commercial service in excess of the simplified acquisition threshold (10 U.S.C. 2377(c)); and
+(v) Before awarding a task or delivery order under an indefinite-delivery-indefinite-quantity (ID/IQ) contract (*e.g.*, GWACs, MACs) for other than a commercial product or commercial service in excess of the simplified acquisition threshold 10 U.S.C. 3453(c)); and
 
-(vi) On an ongoing basis, take advantage (to the maximum extent practicable) of commercially available market research methods in order to effectively identify the capabilities of small businesses and new entrants into Federal contracting that are available in the marketplace for meeting the requirements of the agency in furtherance of -
+(vi) On an ongoing basis, take advantage (to the maximum extent practicable) of commercially available market research methods in order to effectively identify the capabilities of small businesses and new entrants into Federal contracting that are available in the marketplace for meeting the requirements of the agency in furtherance of—
 
 (A) A contingency operation or defense against or recovery from cyber, nuclear, biological, chemical, or radiological attack; and
 
 (B) Disaster relief to include debris removal, distribution of supplies, reconstruction, and other disaster or emergency relief activities (see 26.205); and
 
-(3) Use the results of market research to -
+(3) Use the results of market research to—
 
 (i) Determine if sources capable of satisfying the agency's requirements exist;
 
-(ii) Determine if commercial products or commercial services, or, to the extent commercial products suitable to meet the agency's needs are not available, nondevelopmental items are available that -
+(ii) Determine if commercial products or commercial services, or, to the extent commercial products suitable to meet the agency's needs are not available, nondevelopmental items are available that—
 
 (A) Meet the agency's requirements;
 
@@ -52,7 +50,7 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (b) When conducting market research, agencies should not request potential sources to submit more than the minimum information necessary.
 
-(c) If an agency contemplates consolidation or bundling, the agency -
+(c) If an agency contemplates consolidation or bundling, the agency—
 
 (1) When performing market research, should consult with the agency small business specialist and the local Small Business Administration procurement center representative (PCR). If a PCR is not assigned, see 19.402(a); and
 
@@ -60,4 +58,4 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (d) See 10.003 for the requirement for a prime contractor to perform market research in contracts in excess of $6 million, other than contracts for the acquisition of commercial products or commercial services (section 826 of Pub. L. 110-181).
 
-[60 FR 48237, Sept. 18, 1995, as amended at 64 FR 72443, Dec. 27, 1999; 65 FR 46054, July 26, 2000; 66 FR 20896, Apr. 25, 2001; 68 FR 4049, Jan. 27, 2003; 68 FR 60005, Oct. 20, 2003; 69 FR 8313, Feb. 23, 2003; 71 FR 36925, June 28, 2006; 71 FR 74676, Dec. 12, 2006; 74 FR 52849, Oct. 14, 2009; 75 FR 34278, June 16, 2010; 76 FR 14565, Mar. 16, 2011; 80 FR 38297, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 84 FR 19837, May 6, 2019; 85 FR 11756, Feb. 27, 2020; 85 FR 62488, Oct. 2, 2020; 86 FR 44231, Aug. 11, 2021; 86 FR 61021, Nov. 4, 2021]
+[60 FR 48237, Sept. 18, 1995, as amended at 64 FR 72443, Dec. 27, 1999; 65 FR 46054, July 26, 2000; 66 FR 20896, Apr. 25, 2001; 68 FR 4049, Jan. 27, 2003; 68 FR 60005, Oct. 20, 2003; 69 FR 8313, Feb. 23, 2003; 71 FR 36925, June 28, 2006; 71 FR 74676, Dec. 12, 2006; 74 FR 52849, Oct. 14, 2009; 75 FR 34278, June 16, 2010; 76 FR 14565, Mar. 16, 2011; 80 FR 38297, July 2, 2015; 81 FR 67772, Sept. 30, 2016; 84 FR 19837, May 6, 2019; 85 FR 11756, Feb. 27, 2020; 85 FR 62488, Oct. 2, 2020; 86 FR 44231, Aug. 11, 2021; 86 FR 61021, Nov. 4, 2021; 87 FR 73896, Dec. 1, 2022]

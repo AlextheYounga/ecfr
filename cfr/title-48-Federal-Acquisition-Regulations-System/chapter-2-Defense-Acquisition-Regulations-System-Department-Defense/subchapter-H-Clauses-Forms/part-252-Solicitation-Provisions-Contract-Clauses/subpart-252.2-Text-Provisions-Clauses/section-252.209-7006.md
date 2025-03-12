@@ -1,10 +1,8 @@
 ##### 252.209-7006 Limitations on Contractors Acting as Lead System Integrators. #####
 
-Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
-
 As prescribed in 209.570-4(a), use the following provision:
 
-Limitations on Contractors Acting As Lead System Integrators (JAN 2008)
+Limitations on Contractors Acting As Lead System Integrators (DEC 2022)
 
 (a) *Definitions. Lead system integrator, lead system integrator with system responsibility,* and *lead system integrator without system responsibility,* as used in this provision, have the meanings given in the clause of this solicitation entitled “Prohibited Financial Interests for Lead System Integrators” (DFARS 252.209-7007).
 
@@ -22,6 +20,6 @@ Limitations on Contractors Acting As Lead System Integrators (JAN 2008)
 
 (e) If the offeror does have a direct financial interest, the offeror may be prohibited from receiving an award under this solicitation, unless the offeror submits to the Contracting Officer appropriate evidence that the offeror was selected by a subcontractor to serve as a lower-tier subcontractor through a process over which the offeror exercised no control.
 
-(f) This provision implements the requirements of 10 U.S.C. 2410p, as added by section 807 of the National Defense Authorization Act for Fiscal Year 2007 (Pub. L. 109-364).
+(f) This provision implements the requirements of10 U.S.C. 4292.
 
-(End of provision)[73 FR 1825, Jan. 10, 2007]
+(End of provision)[73 FR 1825, Jan. 10, 2007, as amended at 87 FR 76996, Dec. 16, 2022]

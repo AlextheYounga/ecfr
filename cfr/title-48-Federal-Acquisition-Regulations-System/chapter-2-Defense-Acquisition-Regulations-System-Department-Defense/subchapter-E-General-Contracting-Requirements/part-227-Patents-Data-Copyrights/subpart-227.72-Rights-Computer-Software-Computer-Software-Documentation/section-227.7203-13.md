@@ -1,12 +1,10 @@
 ##### 227.7203-13 Government right to review, verify, challenge, and validate asserted restrictions. #####
 
-Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
-
 (a) *General.* An offeror's or contractor's assertion(s) of restrictions on the Government's rights to use, modify, reproduce, release, or disclose computer software or computer software documentation do not, by themselves, determine the extent of the Government's rights in such software or documentation. The Government may require an offeror or contractor to submit sufficient information to permit an evaluation of a particular asserted restriction and may challenge asserted restrictions when there are reasonable grounds to believe that an assertion is not valid.
 
 (b) *Requests for information.* Contracting officers should have a reason to suspect that an asserted restriction might not be correct prior to requesting information. When requesting information, provide the offeror or contractor the reason(s) for suspecting that an asserted restriction might not be correct. A need for additional license rights is not, by itself, a sufficient basis for requesting information concerning an asserted restriction. Follow the procedures at 227.7203-5(d) when additional license rights are needed but there is no basis to suspect that an asserted restriction might not be valid.
 
-(c) *Transacting matters directly with subcontractors.* The clause at 252.227-7019, Validation of Asserted Restrictions - Computer Software, obtains the contractor's agreement that the Government may transact matters under the clause directly with a subcontractor or supplier, at any tier, without creating or implying privity of contract. Contracting officers should permit a subcontractor or supplier to transact challenge and validation matters directly with the Government when -
+(c) *Transacting matters directly with subcontractors.* The clause at 252.227-7019, Validation of Asserted Restrictions—Computer Software, obtains the contractor's agreement that the Government may transact matters under the clause directly with a subcontractor or supplier, at any tier, without creating or implying privity of contract. Contracting officers should permit a subcontractor or supplier to transact challenge and validation matters directly with the Government when—
 
 (1) A subcontractor's or supplier's business interests in its technical data would be compromised if the data were disclosed to a higher tier contractor.
 
@@ -14,9 +12,9 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (3) Requested to do so by a subcontractor or supplier.
 
-(d) *Challenging asserted restrictions* - (1) *Pre-award considerations.* The challenge procedures in the clause at 252.227-7019 could significantly delay competitive procurements. Therefore, avoid challenging asserted restrictions prior to a competitive contract award unless resolution of the assertion is essential for successful completion of the procurement.
+(d) *Challenging asserted restrictions*—(1) *Pre-award considerations.* The challenge procedures in the clause at 252.227-7019 could significantly delay competitive procurements. Therefore, avoid challenging asserted restrictions prior to a competitive contract award unless resolution of the assertion is essential for successful completion of the procurement.
 
-(2) *Computer software documentation.* Computer software documentation is technical data. Challenges to asserted restrictions on the Government's rights to use, modify, reproduce, release, perform, display, or disclose computer software documentation must be made in accordance with the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, and the guidance at 227.7103-13. The procedures in the clause at 252.227-7037 implement requirements contained in 10 U.S.C. 2321. Resolution of questions regarding the validity of asserted restrictions using the process described at 227.7103-12(b)(2) is strongly encouraged.
+(2) *Computer software documentation.* Computer software documentation is technical data. Challenges to asserted restrictions on the Government's rights to use, modify, reproduce, release, perform, display, or disclose computer software documentation must be made in accordance with the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, and the guidance at 227.7103-13. The procedures in the clause at 252.227-7037 implement requirements contained in 10 U.S.C. 3781-3786. Resolution of questions regarding the validity of asserted restrictions using the process described at 227.7103-12(b)(2) is strongly encouraged.
 
 (3) *Computer software.* (i) Asserted restrictions should be reviewed before acceptance of the computer software deliverable under a contract. The Government's right to challenge an assertion expires three years after final payment under the contract or three years after delivery of the software, whichever is later. Those limitations on the Government's challenge rights do not apply to software that is publicly available, has been furnished to the Government without restrictions, or has been otherwise made available without restrictions.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (f) *Multiple challenges to an asserted restriction.* When more than one contracting officer challenges an asserted restriction, the contracting officer who made the earliest challenge is responsible for coordinating the Government challenges. That contracting officer shall consult with all other contracting officers making challenges, verify that all challenges apply to the same asserted restriction and, after consulting with the contractor, subcontractor, or supplier asserting the restriction, issue a schedule that provides that person a reasonable opportunity to respond to each challenge.
 
-[56 FR 36389, July 31, 1991, as amended at 76 FR 58148, Sept. 20, 2011; 81 FR 65566, Sept. 23, 2016]
+[56 FR 36389, July 31, 1991, as amended at 76 FR 58148, Sept. 20, 2011; 81 FR 65566, Sept. 23, 2016; 87 FR 76994, Dec. 16, 2022]

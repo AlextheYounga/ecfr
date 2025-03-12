@@ -1,6 +1,6 @@
 ##### § 407.25 Beginning of entitlement: Individual enrollment. #####
 
-Link to an amendment published at 87 FR 66506, Nov. 3, 2022.
+Link to an amendment published at 87 FR 66506, Nov. 3, 2022.Link to a correction published at 87 FR 80469, Dec. 30, 2022.
 
 The following apply whether an individual is self-enrolled or automatically enrolled in SMI:
 

@@ -1,8 +1,6 @@
 ##### 25.401 Exceptions. #####
 
-Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
-
-(a) This subpart does not apply to -
+(a) This subpart does not apply to—
 
 (1) Acquisitions set aside for small businesses;
 
@@ -10,13 +8,15 @@ Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
 (3) Acquisitions of end products for resale;
 
-(4) Acquisitions from Federal Prison Industries, Inc., under Subpart 8.6, and acquisitions under Subpart 8.7, Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled; and
+(4) Acquisitions from Federal Prison Industries, Inc., under Subpart 8.6, and acquisitions under Subpart 8.7, Acquisition from Nonprofit Agencies Employing People Who Are Blind or Severely Disabled;
 
-(5) Other acquisitions not using full and open competition, if authorized by Subpart 6.2 or 6.3, when the limitation of competition would preclude use of the procedures of this subpart; or sole source acquisitions justified in accordance with 13.501(a).
+(5) Other acquisitions not using full and open competition, if authorized by Subpart 6.2 or 6.3, when the limitation of competition would preclude use of the procedures of this subpart; or sole source acquisitions justified in accordance with 13.501(a);
+
+(6) Goods and services specifically excluded under individual trade agreements, such as exceptions negotiated by the U.S. Trade Representative for particular agencies. See the agency supplementary regulations.
 
 (b) In the World Trade Organization Government Procurement Agreement (WTO GPA) and each FTA, there is a U.S. schedule that lists services that are excluded from that agreement in acquisitions by the United States. Acquisitions of the following services are excluded from coverage by the U.S. schedule of the WTO GPA or an FTA as indicated in this table:
 
-|   |                                                                         The service  <br/>(Federal Service Codes from the Federal Procurement Data System Product/Service Code Manual are indicated in parentheses for some services.)                                                                          |WTO GPA AND KOREA FTA|Bahrain FTA, CAFTA-DR, Chile FTA, Columbia FTA, NAFTA, Oman FTA, Panama FTA, and Peru FTA|Singapore FTA|Australia and Morocco FTA|
+|   |                                                                         The service  <br/>(Federal Service Codes from the Federal Procurement Data System Product/Service Code Manual are indicated in parentheses for some services.)                                                                          |WTO GPA AND KOREA FTA|Bahrain FTA, CAFTA-DR, Chile FTA, Columbia FTA, USMCA, Oman FTA, Panama FTA, and Peru FTA|Singapore FTA|Australia and Morocco FTA|
 |---|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|-----------------------------------------------------------------------------------------|-------------|-------------------------|
 |(1)|                                                                                                                        All services purchased in support of military services overseas.                                                                                                                         |          X          |                                            X                                            |      X      |            X            |
 |(2)|                                                                            (i) Automatic data processing (ADP) telecommunications and transmission services (D304), except enhanced (i.e., value-added) telecommunications services.                                                                            |          X          |                                            X                                            |             |                         |
@@ -35,4 +35,4 @@ Link to an amendment published at 87 FR 73892, Dec. 1, 2022.
 
 \*\*Note 2. Acquisitions of the services listed at (4)(ii) of this table are a subset of the excluded services at (4)(i), and are therefore not covered under the WTO GPA.
 
-[69 FR 1054, Jan. 7, 2004, as amended at 69 FR 77874, Dec. 28, 2004; 70 FR 18958, Apr. 11, 2005; 71 FR 219, Jan. 3, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 74 FR 28428, June 15, 2009; 77 FR 13954, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 78 FR 6189, Jan. 29, 2013; 81 FR 83099, Nov. 18, 2016]
+[69 FR 1054, Jan. 7, 2004, as amended at 69 FR 77874, Dec. 28, 2004; 70 FR 18958, Apr. 11, 2005; 71 FR 219, Jan. 3, 2006; 71 FR 20307, Apr. 19, 2006; 71 FR 36937, June 28, 2006; 71 FR 67777, Nov. 22, 2006; 74 FR 28428, June 15, 2009; 77 FR 13954, Mar. 7, 2012; 77 FR 27550, May 10, 2012; 77 FR 69724, Nov. 20, 2012; 78 FR 6189, Jan. 29, 2013; 81 FR 83099, Nov. 18, 2016; 87 FR 73892, Dec. 1, 2022]

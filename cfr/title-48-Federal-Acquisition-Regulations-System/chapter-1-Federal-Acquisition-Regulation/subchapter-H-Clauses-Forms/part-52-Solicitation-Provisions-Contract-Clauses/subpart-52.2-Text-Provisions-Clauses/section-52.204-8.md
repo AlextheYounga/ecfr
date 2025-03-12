@@ -1,10 +1,8 @@
 ##### 52.204-8 Annual Representations and Certifications. #####
 
-Link to an amendment published at 87 FR 73893, Dec. 1, 2022.
-
 As prescribed in 4.1202(a), insert the following provision:
 
-Annual Representations and Certifications (MAY 2022)
+Annual Representations and Certifications (DEC 2022)
 
 (a)(1) The North American Industry Classification System (NAICS) code for this acquisition is \_\_\_\_\_\_\_ [*insert NAICS code*].
 
@@ -86,15 +84,13 @@ Annual Representations and Certifications (MAY 2022)
 
 (xx) 52.225-2, Buy American Certificate. This provision applies to solicitations containing the clause at 52.225-1.
 
-(xxi) 52.225-4, Buy American - Free Trade Agreements - Israeli Trade Act Certificate. (Basic, Alternates I, II, and III.) This provision applies to solicitations containing the clause at 52.225-3.
+(xxi) 52.225-4, Buy American-Free Trade Agreements-Israeli Trade Act Certificate. (Basic, Alternates II and III.) This provision applies to solicitations containing the clause at 52.225-3.
 
-(A) If the acquisition value is less than $25,000, the basic provision applies.
+(A) If the acquisition value is less than $50,000, the basic provision applies.
 
-(B) If the acquisition value is $25,000 or more but is less than $50,000, the provision with its Alternate I applies.
+(B) If the acquisition value is $50,000 or more but is less than $92,319, the provision with its Alternate II applies.
 
-(C) If the acquisition value is $50,000 or more but is less than $92,319, the provision with its Alternate II applies.
-
-(D) If the acquisition value is $92,319 or more but is less than $100,000, the provision with its Alternate III applies.
+(C) If the acquisition value is $92,319 or more but is less than $100,000, the provision with its Alternate III applies.
 
 (xxii) 52.225-6, Trade Agreements Certificate. This provision applies to solicitations containing the clause at 52.225-5.
 

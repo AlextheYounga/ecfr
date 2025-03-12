@@ -1,12 +1,8 @@
 ##### 53.300 Listing of Standard, Optional, and Agency forms. #####
 
-Link to an amendment published at 87 FR 73889, Dec. 1, 2022.
-
 This subpart identifies, in numerical sequence, Standard Forms (SF), Optional Forms (OF) and agency forms that are specified by the FAR for use in acquisitions.
 
 (a) You can access the forms in Table 53-1 at the GSA Forms Library at *https://www.gsa.gov/forms.*
-
-Table 53-1 - Forms in the GSA Forms Library
 
 |Form No.|                                    Form title                                     |
 |--------|-----------------------------------------------------------------------------------|
@@ -21,13 +17,13 @@ Table 53-1 - Forms in the GSA Forms Library
 | SF 33  |                          Solicitation, Offer and Award.                           |
 | SF 34  |                                 Annual Bid Bond.                                  |
 | SF 35  |                             Annual Performance Bond.                              |
-| SF 44  |                U.S. Government Purchase Order - Invoice - Voucher.                |
+| SF 44  |                  U.S. Government Purchase Order—Invoice—Voucher.                  |
 | SF 120 |                        Report of Excess Personal Property.                        |
 |SF 120A |             Continuation Sheet (Report of Excess Personal Property).              |
 | SF 126 |                       Report of Personal Property for Sale.                       |
 |SF 126A |            Report of Personal Property for Sale (Continuation Sheet).             |
 | SF 252 |                           Architect-Engineer Contract.                            |
-| SF 273 |            Reinsurance Agreement for a Bonds Statute Performance Bid.             |
+| SF 273 |            Reinsurance Agreement for a Bonds Statute Performance Bond.            |
 | SF 274 |              Reinsurance Agreement for a Bonds Statute Payment Bond.              |
 | SF 275 |               Reinsurance Agreement in Favor of the United States.                |
 | SF 294 |                  Subcontracting Report for Individual Contracts.                  |
@@ -77,17 +73,15 @@ Table 53-1 - Forms in the GSA Forms Library
 | OF 309 |               Amendment of Solicitation (Negotiated Procurements).                |
 | OF 336 |                                Continuation Sheet.                                |
 | OF 347 |                          Order for Supplies or Services.                          |
-| OF 348 |             Order For Supplies or Services - Schedule - Continuation.             |
-|OF 1419 |                        Abstract of Offers - Construction.                         |
+| OF 348 |               Order For Supplies or Services—Schedule—Continuation.               |
+|OF 1419 |                         Abstract of Offers—Construction.                          |
 |OF 1419A|                Abstract of Offers-Construction Continuation Sheet.                |
 
 (b) You can access the forms in Table 53-2 at the websites listed in the table.
 
-Table 53-2 - Other Forms
-
 |Form DD 254|Department of Defense Contract Security Classification Specification|   https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0254.pdf   |
-|:----------|:-------------------------------------------------------------------|:------------------------------------------------------------------------|
+|-----------|--------------------------------------------------------------------|-------------------------------------------------------------------------|
 |Form DD 441|              Department of Defense Security Agreement              |https://www.esd.whs.mil/Portals/54/Documents/DD/forms/dd/dd0441\_2020.pdf|
 |Form WH-347|                  Payroll-U.S. Department of Labor                  |                https://www.dol.gov/whd/forms/wh347.pdf.                 |
 
-[83 FR 42577, Aug. 22, 2018, as amended at 85 FR 40064, July 2, 2020; 86 FR 3687, Jan. 14, 2021; 86 FR 61038, Nov. 4, 2021]
+[83 FR 42577, Aug. 22, 2018, as amended at 85 FR 40064, July 2, 2020; 86 FR 3687, Jan. 14, 2021; 86 FR 61038, Nov. 4, 2021; 87 FR 73889, Dec. 1, 2022]

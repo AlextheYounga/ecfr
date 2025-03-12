@@ -1,6 +1,4 @@
-##### 215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
-
-Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
+##### 215.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35). #####
 
 (b) *Exceptions to certified cost or pricing data requirements.* (i) Follow the procedures at PGI 215.403-1(b).
 
@@ -42,4 +40,4 @@ Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
 
 (*2*) Certified cost or pricing data from subcontractors that are not nonprofit organizations when the subcontractor's proposal exceeds the certified cost or pricing data threshold at FAR 15.403-4(a)(1).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69493, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 76 FR 58137, Sept. 20, 2011; 77 FR 39139, June 29, 2012; 77 FR 43472, July 24, 2012; 77 FR 52253, Aug. 29, 2012; 77 FR 76937, 76939, Dec. 31, 2012; 78 FR 13543, Feb. 28, 2013; 78 FR 65216, Oct. 31, 2013; 80 FR 36904, June 26, 2015; 83 FR 4444, Jan. 31, 2018; 83 FR 30828, June 29, 2018; 85 FR 34532, June 5, 2020; 85 FR 61504, Sept. 29, 2020; 87 FR 76992, Dec. 16, 2022]

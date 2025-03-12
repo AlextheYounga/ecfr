@@ -1,8 +1,6 @@
 ##### 6.302-6 National security. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
-
-(a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(6) or 41 U.S.C. 3304(a)(6).
+(a) *Authority.* (1) Citations: 10 U.S.C. 3204(a)(6) or 41 U.S.C. 3304(a)(6).
 
 (2) Full and open competition need not be provided for when the disclosure of the agency's needs would compromise the national security unless the agency is permitted to limit the number of sources from which it solicits bids or proposals.
 
@@ -14,4 +12,4 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (3) This statutory authority requires that agencies shall request offers from as many potential sources as is practicable under the circumstances.
 
-[50 FR 52432, Dec. 23, 1985, as amended at 79 FR 24198, Apr. 29, 2014]
+[50 FR 52432, Dec. 23, 1985, as amended at 79 FR 24198, Apr. 29, 2014; 87 FR 73896, Dec. 1, 2022]

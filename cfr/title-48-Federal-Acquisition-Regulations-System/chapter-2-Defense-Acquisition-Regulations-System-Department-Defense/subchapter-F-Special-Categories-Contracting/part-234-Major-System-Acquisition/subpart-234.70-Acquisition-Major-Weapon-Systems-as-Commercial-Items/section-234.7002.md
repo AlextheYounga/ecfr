@@ -1,7 +1,5 @@
 ##### 234.7002 Policy. #####
 
-Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
-
 (a) *Major weapon systems.* (1) A DoD major weapon system may be treated as a commercial item, or acquired under procedures established for the acquisition of commercial items, only if -
 
 (i) The Secretary of Defense determines that -
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (2) This paragraph (c) shall apply only to components and spare parts that are acquired by DoD through a prime contract or a modification to a prime contract, or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value.
 
-(d) *Relevant information.* See 212.209(a) for requirements of 10 U.S.C. 2377 with regard to market research.
+(d) *Relevant information.* See 212.209(a) for requirements of 10 U.S.C. 3453 with regard to market research.
 
 (1) To the extent necessary to make a determination of price reasonableness, the contracting officer shall require the offeror to submit prices paid for the same or similar commercial items under comparable terms and conditions by both Government and commercial customers.
 
@@ -52,4 +50,4 @@ Link to an amendment published at 87 FR 76995, Dec. 16, 2022.
 
 (5) An offeror may submit information or analysis relating to the value of a commercial item to aid in the determination of the reasonableness of the price of such item. A contracting officer may consider such information or analysis in addition to the information submitted pursuant to paragraphs (d)(1) and (2) of this section. For additional guidance see PGI 234.7002(d)(5).
 
-[74 FR 34264, July 15, 2009, as amended at 83 FR 4445, Jan. 31, 2018; 85 FR 34532, June 5, 2020]
+[74 FR 34264, July 15, 2009, as amended at 83 FR 4445, Jan. 31, 2018; 85 FR 34532, June 5, 2020; 87 FR 76995, Dec. 16, 2022]

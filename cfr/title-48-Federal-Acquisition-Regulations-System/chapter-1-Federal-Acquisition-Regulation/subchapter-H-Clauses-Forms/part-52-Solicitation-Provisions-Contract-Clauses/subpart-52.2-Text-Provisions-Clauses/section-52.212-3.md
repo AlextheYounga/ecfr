@@ -1,20 +1,18 @@
-##### 52.212-3 Offeror Representations and Certifications - Commercial Products and Commercial Services. #####
-
-Link to an amendment published at 87 FR 73893, Dec. 1, 2022.
+##### 52.212-3 Offeror Representations and Certifications—Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(2), insert the following provision:
 
-Offeror Representations and Certifications - Commercial Products and Commercial Services (OCT 2022)
+Offeror Representations and Certifications—Commercial Products and Commercial Services (DEC 2022)
 
 The Offeror shall complete only paragraph (b) of this provision if the Offeror has completed the annual representations and certification electronically in the System for Award Management (SAM) accessed through *https://www.sam.gov.* If the Offeror has not completed the annual representations and certifications electronically, the Offeror shall complete only paragraphs (c) through (v) of this provision.
 
-(a) *Definitions.* As used in this provision -
+(a) *Definitions.* As used in this provision—
 
 *Covered telecommunications equipment or services* has the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
 
 *Economically disadvantaged women-owned small business (EDWOSB) concern* means a small business concern that is at least 51 percent directly and unconditionally owned by, and the management and daily business operations of which are controlled by, one or more women who are citizens of the United States and who are economically disadvantaged in accordance with 13 CFR part 127, and the concern is certified by SBA or an approved third-party certifier in accordance with 13 CFR 127.300. It automatically qualifies as a women-owned small business eligible under the WOSB Program.
 
-*Forced or indentured child labor* means all work or service -
+*Forced or indentured child labor* means all work or service—
 
 (1) Exacted from any person under the age of 18 under the menace of any penalty for its nonperformance and for which the worker does not offer himself voluntarily; or
 
@@ -26,7 +24,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Inverted domestic corporation* means a foreign incorporated entity that meets the definition of an inverted domestic corporation under 6 U.S.C. 395(b), applied in accordance with the rules and definitions of 6 U.S.C. 395(c).
 
-*Manufactured end product* means any end product in product and service codes (PSCs) 1000-9999, except -
+*Manufactured end product* means any end product in product and service codes (PSCs) 1000-9999, except—
 
 (1) PSC 5510, Lumber and Related Basic Wood Materials;
 
@@ -54,7 +52,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Reasonable inquiry* has the meaning provided in the clause 52.204-25, Prohibition on Contracting for Certain Telecommunications and Video Surveillance Services or Equipment.
 
-*Restricted business operations* means business operations in Sudan that include power production activities, mineral extraction activities, oil-related activities, or the production of military equipment, as those terms are defined in the Sudan Accountability and Divestment Act of 2007 (Pub. L. 110-174). Restricted business operations do not include business operations that the person (as that term is defined in Section 2 of the Sudan Accountability and Divestment Act of 2007) conducting the business can demonstrate -
+*Restricted business operations* means business operations in Sudan that include power production activities, mineral extraction activities, oil-related activities, or the production of military equipment, as those terms are defined in the Sudan Accountability and Divestment Act of 2007 (Pub. L. 110-174). Restricted business operations do not include business operations that the person (as that term is defined in Section 2 of the Sudan Accountability and Divestment Act of 2007) conducting the business can demonstrate—
 
 (1) Are conducted under contract directly and exclusively with the regional government of southern Sudan;
 
@@ -68,9 +66,9 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (6) Have been voluntarily suspended.
 
-*Sensitive technology* -
+*Sensitive technology*—
 
-(1) Means hardware, software, telecommunications equipment, or any other technology that is to be used specifically -
+(1) Means hardware, software, telecommunications equipment, or any other technology that is to be used specifically—
 
 (i) To restrict the free flow of unbiased information in Iran; or
 
@@ -78,23 +76,23 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) Does not include information or informational materials the export of which the President does not have the authority to regulate or prohibit pursuant to section 203(b)(3) of the International Emergency Economic Powers Act (50 U.S.C. 1702(b)(3)).
 
-*Service-disabled veteran-owned small business concern* -
+*Service-disabled veteran-owned small business concern*—
 
-(1) Means a small business concern -
+(1) Means a small business concern—
 
-(i) Not less than 51 percent of which is owned by one or more service - disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
+(i) Not less than 51 percent of which is owned by one or more service—disabled veterans or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more service-disabled veterans; and
 
 (ii) The management and daily business operations of which are controlled by one or more service-disabled veterans or, in the case of a service-disabled veteran with permanent and severe disability, the spouse or permanent caregiver of such veteran.
 
 (2) *Service-disabled veteran* means a veteran, as defined in 38 U.S.C. 101(2), with a disability that is service-connected, as defined in 38 U.S.C. 101(16).
 
-*Small business concern* - (1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
+*Small business concern*—(1) Means a concern, including its affiliates, that is independently owned and operated, not dominant in its field of operation, and qualified as a small business under the criteria in 13 CFR part 121 and size standards in this solicitation.
 
 (2) *Affiliates,* as used in this definition, means business concerns, one of whom directly or indirectly controls or has the power to control the others, or a third party or parties control or have the power to control the others. In determining whether affiliation exists, consideration is given to all appropriate factors including common ownership, common management, and contractual relationships. SBA determines affiliation based on the factors set forth at 13 CFR 121.103.
 
-*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that -
+*Small disadvantaged business concern,* consistent with 13 CFR 124.1002, means a small business concern under the size standard applicable to the acquisition, that—
 
-(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by -
+(1) Is at least 51 percent unconditionally and directly owned (as defined at 13 CFR 124.105) by—
 
 (i) One or more socially disadvantaged (as defined at 13 CFR 124.103) and economically disadvantaged (as defined at 13 CFR 124.104) individuals who are citizens of the United States; and
 
@@ -102,7 +100,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) The management and daily business operations of which are controlled (as defined at 13.CFR 124.106) by individuals, who meet the criteria in paragraphs (1)(i) and (ii) of this definition.
 
-*Subsidiary* means an entity in which more than 50 percent of the entity is owned -
+*Subsidiary* means an entity in which more than 50 percent of the entity is owned—
 
 (1) Directly by a parent corporation; or
 
@@ -110,7 +108,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Successor* means an entity that has replaced a predecessor by acquiring the assets and carrying out the affairs of the predecessor under a new name (often through acquisition or merger). The term “successor” does not include new offices/divisions of the same company or a company that only changes its name. The extent of the responsibility of the successor for the liabilities of the predecessor may vary, depending on State law and specific circumstances.
 
-*Veteran-owned small business concern* means a small business concern -
+*Veteran-owned small business concern* means a small business concern—
 
 (1) Not less than 51 percent of which is owned by one or more veterans (as defined at 38 U.S.C. 101(2)) or, in the case of any publicly owned business, not less than 51 percent of the stock of which is owned by one or more veterans; and
 
@@ -118,7 +116,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 *Women-owned business concern* means a concern which is at least 51 percent owned by one or more women; or in the case of any publicly owned business, at least 51 percent of its stock is owned by one or more women; and whose management and daily business operations are controlled by one or more women.
 
-*Women-owned small business concern* means a small business concern -
+*Women-owned small business concern* means a small business concern—
 
 (1) That is at least 51 percent owned by one or more women; or, in the case of any publicly owned business, at least 51 percent of the stock of which is owned by one or more women; and
 
@@ -128,7 +126,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (b)(1) *Annual Representations and Certifications.* Any changes provided by the Offeror in paragraph (b)(2) of this provision do not automatically change the representations and certifications in SAM.
 
-(2) The offeror has completed the annual representations and certifications electronically in SAM accessed through *http://www.sam.gov.* After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications - Commercial Products and Commercial Services, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard(s) applicable to the NAICS code(s) referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_\_\_.
+(2) The offeror has completed the annual representations and certifications electronically in SAM accessed through *http://www.sam.gov.* After reviewing SAM information, the Offeror verifies by submission of this offer that the representations and certifications currently posted electronically at FAR 52.212-3, Offeror Representations and Certifications—Commercial Products and Commercial Services, have been entered or updated in the last 12 months, are current, accurate, complete, and applicable to this solicitation (including the business size standard(s) applicable to the NAICS code(s) referenced for this solicitation), at the time this offer is submitted and are incorporated in this offer by reference (see FAR 4.1201), except for paragraphs \_\_\_\_.
 
 [*Offeror to identify the applicable paragraphs at (c) through (v) of this provision that the offeror has completed for the purposes of this solicitation only, if any.*
 
@@ -138,7 +136,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (c) Offerors must complete the following representations when the resulting contract is for supplies to be delivered or services to be performed in the United States or its outlying areas, or when the contracting officer has applied part 19 in accordance with 19.000(b)(1)(ii). Check all that apply.
 
-(1) *Small business concern.* The offeror represents as part of its offer that -
+(1) *Small business concern.* The offeror represents as part of its offer that—
 
 (i) It □ is, □ is not a small business concern; or
 
@@ -146,7 +144,7 @@ The Offeror shall complete only paragraph (b) of this provision if the Offeror h
 
 (2) *Veteran-owned small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents as part of its offer that it □ is, □ is not a veteran-owned small business concern.
 
-(3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that -
+(3) *Service-disabled veteran-owned small business concern.* [*Complete only if the offeror represented itself as a veteran-owned small business concern in paragraph (c)(2) of this provision.*] The offeror represents as part of its offer that—
 
 (i) It □ is, □ is not a service-disabled veteran-owned small business concern; or
 
@@ -168,21 +166,21 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (9) *Tie bid priority for labor surplus area concerns.* If this is an invitation for bid, small business offerors may identify the labor surplus areas in which costs to be incurred on account of manufacturing or production (by offeror or first-tier subcontractors) amount to more than 50 percent of the contract price:
 
-(10) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that -
+(10) *HUBZone small business concern.* [*Complete only if the offeror represented itself as a small business concern in paragraph (c)(1) of this provision.*] The offeror represents, as part of its offer, that—
 
 (i) It □ is, □ is not a HUBZone small business concern listed, on the date of this representation, as having been certified by SBA as a HUBZone small business concern in the Dynamic Small Business Search and SAM, and will attempt to maintain an employment rate of HUBZone residents of 35 percent of its employees during performance of a HUBZone contract (see 13 CFR 126.200(e)(1)); and
 
 (ii) It □ is, □ is not a HUBZone joint venture that complies with the requirements of 13 CFR 126.616(a) through (c). [*The offeror shall enter the name and unique entity identifier of each party to the joint venture:*\_\_.] Each HUBZone small business concern participating in the HUBZone joint venture shall provide representation of its HUBZone status.
 
-(d) Representations required to implement provisions of Executive Order 11246 -
+(d) Representations required to implement provisions of Executive Order 11246—
 
-(1) Previous contracts and compliance. The offeror represents that -
+(1) Previous contracts and compliance. The offeror represents that—
 
 (i) It □ has, □ has not participated in a previous contract or subcontract subject to the Equal Opportunity clause of this solicitation; and
 
 (ii) It □ has, □ has not filed all required compliance reports.
 
-(2) Affirmative Action Compliance. The offeror represents that -
+(2) Affirmative Action Compliance. The offeror represents that—
 
 (i) It □ has developed and has on file, □ has not developed and does not have on file, at each establishment, affirmative action programs required by rules and regulations of the Secretary of Labor (41 CFR parts 60-1 and 60-2), or
 
@@ -190,7 +188,7 @@ Complete paragraphs (c)(8) and (9) only if this solicitation is expected to exce
 
 (e) *Certification Regarding Payments to Influence Federal Transactions (31 U.S.C. 1352).* (Applies only if the contract is expected to exceed $150,000.) By submission of its offer, the offeror certifies to the best of its knowledge and belief that no Federal appropriated funds have been paid or will be paid to any person for influencing or attempting to influence an officer or employee of any agency, a Member of Congress, an officer or employee of Congress or an employee of a Member of Congress on his or her behalf in connection with the award of any resultant contract. If any registrants under the Lobbying Disclosure Act of 1995 have made a lobbying contact on behalf of the offeror with respect to this contract, the offeror shall complete and submit, with its offer, OMB Standard Form LLL, Disclosure of Lobbying Activities, to provide the name of the registrants. The offeror need not report regularly employed officers or employees of the offeror to whom payments of reasonable compensation were made.
 
-(f) *Buy American Certificate.* (Applies only if the clause at Federal Acquisition Regulation (FAR) 52.225-1, Buy American - Supplies, is included in this solicitation.)
+(f) *Buy American Certificate.* (Applies only if the clause at Federal Acquisition Regulation (FAR) 52.225-1, Buy American—Supplies, is included in this solicitation.)
 
 (1)(i) The Offeror certifies that each end product, except those listed in paragraph (f)(2) of this provision, is a domestic end product and that each domestic end product listed in paragraph (f)(3) of this provision contains a critical component.
 
@@ -218,13 +216,13 @@ Line Item No. \_\_\_\_\_\_
 
 (4) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
-(g)(1) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate.* (Applies only if the clause at FAR 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act, is included in this solicitation.)
+(g)(1) *Buy American—Free Trade Agreements—Israeli Trade Act Certificate.* (Applies only if the clause at FAR 52.225-3, Buy American—Free Trade Agreements—Israeli Trade Act, is included in this solicitation.)
 
 (i)(A) The Offeror certifies that each end product, except those listed in paragraph (g)(1)(ii) or (iii) of this provision, is a domestic end product and that each domestic end product listed in paragraph (g)(1)(iv) of this provision contains a critical component.
 
-(B) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
+(B) The terms “Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end product,” “commercially available off-the-shelf (COTS) item,” “critical component,” “domestic end product,” “end product,” “foreign end product,” “Free Trade Agreement country,” “Free Trade Agreement country end product,” “Israeli end product,” and “United States” are defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.”
 
-(ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.”
+(ii) The Offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.”
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
@@ -236,7 +234,7 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Moroccan, Oman
 
 [List as necessary]
 
-(iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
+(iii) The Offeror shall list those supplies that are foreign end products (other than those listed in paragraph (g)(1)(ii) of this provision) as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act.” The Offeror shall list as other foreign end products those end products manufactured in the United States that do not qualify as domestic end products. For those foreign end products that do not consist wholly or predominantly of iron or steel or a combination of both, the Offeror shall also indicate whether these foreign end products exceed 55 percent domestic content, except for those that are COTS items. If the percentage of the domestic content is unknown, select “no”.
 
 Other Foreign End Products:
 
@@ -256,37 +254,24 @@ Line Item No. \_\_\_\_\_\_
 
 (v) The Government will evaluate offers in accordance with the policies and procedures of FAR part 25.
 
-(2) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate I.* If *Alternate I* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
+(2) *Buy American—Free Trade Agreements—Israeli Trade Act Certificate, Alternate II.* If *Alternate II* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
-(g)(1)(ii) The offeror certifies that the following supplies are Canadian end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
+(g)(1)(ii) The offeror certifies that the following supplies are Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
-Canadian End Products:
+Israeli End Products:
 
-|Line item No.|
-|-------------|
-|             |
-|             |
-|             |
-
-[List as necessary]
-
-(3) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate II.* If *Alternate II* to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
-
-(g)(1)(ii) The offeror certifies that the following supplies are Canadian end products or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
-
-Canadian or Israeli End Products:
-
-|Line item No.|Country of origin|
-|-------------|-----------------|
-|             |                 |
-|             |                 |
-|             |                 |
+|            |   |   |
+|------------|---|---|
+|Line Item No|   |   |
+|            |   |   |
+|            |   |   |
+|            |   |   |
 
 [List as necessary]
 
-(4) *Buy American - Free Trade Agreements - Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
+(3) *Buy American—Free Trade Agreements—Israeli Trade Act Certificate, Alternate III.* If Alternate III to the clause at FAR 52.225-3 is included in this solicitation, substitute the following paragraph (g)(1)(ii) for paragraph (g)(1)(ii) of the basic provision:
 
-(g)(1)(ii) The offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American - Free Trade Agreements - Israeli Trade Act”:
+(g)(1)(ii) The offeror certifies that the following supplies are Free Trade Agreement country end products (other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian end products) or Israeli end products as defined in the clause of this solicitation entitled “Buy American—Free Trade Agreements—Israeli Trade Act”:
 
 Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Moroccan, Omani, Panamanian, or Peruvian End Products) or Israeli End Products:
 
@@ -298,7 +283,7 @@ Free Trade Agreement Country End Products (Other than Bahrainian, Korean, Morocc
 
 [List as necessary]
 
-(5) *Trade Agreements Certificate.* (Applies only if the clause at FAR 52.225-5, Trade Agreements, is included in this solicitation.)
+(4) *Trade Agreements Certificate.* (Applies only if the clause at FAR 52.225-5, Trade Agreements, is included in this solicitation.)
 
 (i) The offeror certifies that each end product, except those listed in paragraph (g)(5)(ii) of this provision, is a U.S.-made or designated country end product, as defined in the clause of this solicitation entitled “Trade Agreements”.
 
@@ -316,7 +301,7 @@ Other End Products:
 
 (iii) The Government will evaluate offers in accordance with the policies and procedures of FAR Part 25. For line items covered by the WTO GPA, the Government will evaluate offers of U.S.-made or designated country end products without regard to the restrictions of the Buy American statute. The Government will consider for award only offers of U.S.-made or designated country end products unless the Contracting Officer determines that there are no offers for such products or that the offers for such products are insufficient to fulfill the requirements of the solicitation.
 
-(h) *Certification Regarding Responsibility Matters (Executive Order 12689).* (Applies only if the contract value is expected to exceed the simplified acquisition threshold.) The offeror certifies, to the best of its knowledge and belief, that the offeror and/or any of its principals -
+(h) *Certification Regarding Responsibility Matters (Executive Order 12689).* (Applies only if the contract value is expected to exceed the simplified acquisition threshold.) The offeror certifies, to the best of its knowledge and belief, that the offeror and/or any of its principals—
 
 (1) □ Are, □ are not presently debarred, suspended, proposed for debarment, or declared ineligible for the award of contracts by any Federal agency;
 
@@ -356,7 +341,7 @@ Other End Products:
 
 □ (ii) The offeror may supply an end product listed in paragraph (i)(1) of this provision that was mined, produced, or manufactured in the corresponding country as listed for that product. The offeror certifies that it has made a good faith effort to determine whether forced or indentured child labor was used to mine, produce, or manufacture any such end product furnished under this contract. On the basis of those efforts, the offeror certifies that it is not aware of any such use of child labor.
 
-(j) *Place of manufacture.* (Does not apply unless the solicitation is predominantly for the acquisition of manufactured end products.) For statistical purposes only, the offeror shall indicate whether the place of manufacture of the end products it expects to provide in response to this solicitation is predominantly -
+(j) *Place of manufacture.* (Does not apply unless the solicitation is predominantly for the acquisition of manufactured end products.) For statistical purposes only, the offeror shall indicate whether the place of manufacture of the end products it expects to provide in response to this solicitation is predominantly—
 
 (1) □ In the United States (Check this box if the total anticipated price of offered end products manufactured in the United States exceeds the total anticipated price of offered end products manufactured outside the United States); or
 
@@ -364,7 +349,7 @@ Other End Products:
 
 (k) *Certificates regarding exemptions from the application of the Service Contract Labor Standards.* (Certification by the offeror as to its compliance with respect to the contract also constitutes its certification as to compliance by its subcontractor if it subcontracts out the exempt services.) [*The contracting officer is to check a box to indicate if paragraph (k)(1) or (k)(2) applies.*]
 
-(1)□ Maintenance, calibration, or repair of certain equipment as described in FAR 22.1003-4(c)(1). The offeror □ does □ does not certify that -
+(1)□ Maintenance, calibration, or repair of certain equipment as described in FAR 22.1003-4(c)(1). The offeror □ does □ does not certify that—
 
 (i) The items of equipment to be serviced under this contract are used regularly for other than Governmental purposes and are sold or traded by the offeror (or subcontractor in the case of an exempt subcontract) in substantial quantities to the general public in the course of normal business operations;
 
@@ -372,7 +357,7 @@ Other End Products:
 
 (iii) The compensation (wage and fringe benefits) plan for all service employees performing work under the contract will be the same as that used for these employees and equivalent employees servicing the same equipment of commercial customers.
 
-(2)□ Certain services as described in FAR 22.1003-4(d)(1). The offeror □ does □ does not certify that -
+(2)□ Certain services as described in FAR 22.1003-4(d)(1). The offeror □ does □ does not certify that—
 
 (i) The services under the contract are offered and sold regularly to non-Governmental customers, and are provided by the offeror (or subcontractor in the case of an exempt subcontract) to the general public in substantial quantities in the course of normal business operations;
 
@@ -382,7 +367,7 @@ Other End Products:
 
 (iv) The compensation (wage and fringe benefits) plan for all service employees performing work under the contract is the same as that used for these employees and equivalent employees servicing commercial customers.
 
-(3) If paragraph (k)(1) or (k)(2) of this clause applies -
+(3) If paragraph (k)(1) or (k)(2) of this clause applies—
 
 (i) If the offeror does not certify to the conditions in paragraph (k)(1) or (k)(2) and the Contracting Officer did not attach a Service Contract Labor Standards wage determination to the solicitation, the offeror shall notify the Contracting Officer as soon as possible; and
 
@@ -440,7 +425,7 @@ TIN \_\_\_\_\_\_\_\_\_\_.
 
 (n) *Prohibition on Contracting with Inverted Domestic Corporations.* (1) Government agencies are not permitted to use appropriated (or otherwise made available) funds for contracts with either an inverted domestic corporation, or a subsidiary of an inverted domestic corporation, unless the exception at 9.108-2(b) applies or the requirement is waived in accordance with the procedures at 9.108-4.
 
-(2) *Representation.* The Offeror represents that -
+(2) *Representation.* The Offeror represents that—
 
 (i) It □ is, □ is not an inverted domestic corporation; and
 
@@ -448,7 +433,7 @@ TIN \_\_\_\_\_\_\_\_\_\_.
 
 (o) *Prohibition on contracting with entities engaging in certain activities or transactions relating to Iran.* (1) The offeror shall email questions concerning sensitive technology to the Department of State at CISADA106@state.gov.
 
-(2) *Representation and certifications.* Unless a waiver is granted or an exception applies as provided in paragraph (o)(3) of this provision, by submission of its offer, the offeror -
+(2) *Representation and certifications.* Unless a waiver is granted or an exception applies as provided in paragraph (o)(3) of this provision, by submission of its offer, the offeror—
 
 (i) Represents, to the best of its knowledge and belief, that the offeror does not export any sensitive technology to the government of Iran or any entities or individuals owned or controlled by, or acting on behalf or at the direction of, the government of Iran;
 
@@ -456,7 +441,7 @@ TIN \_\_\_\_\_\_\_\_\_\_.
 
 (iii) Certifies that the offeror, and any person owned or controlled by the offeror, does not knowingly engage in any transaction that exceeds the threshold at FAR 25.703-2(a)(2) with Iran's Revolutionary Guard Corps or any of its officials, agents, or affiliates, the property and interests in property of which are blocked pursuant to the International Emergency Economic Powers Act (50 U.S.C. 1701 *et seq.*) (see OFAC's Specially Designated Nationals and Blocked Persons List at *https://www.treasury.gov/resource-center/sanctions/SDN-List/Pages/default.aspx*).
 
-(3) The representation and certification requirements of paragraph (o)(2) of this provision do not apply if -
+(3) The representation and certification requirements of paragraph (o)(2) of this provision do not apply if—
 
 (i) This solicitation includes a trade agreements certification (*e.g.,* 52.212-3(g) or a comparable agency provision); and
 
@@ -484,13 +469,13 @@ Highest-level owner legal name: \_\_\_\_.
 
 *(Do not use a “doing business as” name)*
 
-(q) *Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law.* (1) As required by sections 744 and 745 of Division E of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235), and similar provisions, if contained in subsequent appropriations acts, The Government will not enter into a contract with any corporation that -
+(q) *Representation by Corporations Regarding Delinquent Tax Liability or a Felony Conviction under any Federal Law.* (1) As required by sections 744 and 745 of Division E of the Consolidated and Further Continuing Appropriations Act, 2015 (Pub. L. 113-235), and similar provisions, if contained in subsequent appropriations acts, The Government will not enter into a contract with any corporation that—
 
 (i) Has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability, where the awarding agency is aware of the unpaid tax liability, unless an agency has considered suspension or debarment of the corporation and made a determination that suspension or debarment is not necessary to protect the interests of the Government; or
 
 (ii) Was convicted of a felony criminal violation under any Federal law within the preceding 24 months, where the awarding agency is aware of the conviction, unless an agency has considered suspension or debarment of the corporation and made a determination that this action is not necessary to protect the interests of the Government.
 
-(2) The Offeror represents that -
+(2) The Offeror represents that—
 
 (i) It is [ ] is not [ ] a corporation that has any unpaid Federal tax liability that has been assessed, for which all judicial and administrative remedies have been exhausted or have lapsed, and that is not being paid in a timely manner pursuant to an agreement with the authority responsible for collecting the tax liability; and
 
@@ -528,11 +513,11 @@ Predecessor legal name: \_\_\_\_.
 
 (3) *Representation.* By submission of its offer, the Offeror represents that it will not require its employees or subcontractors to sign or comply with internal confidentiality agreements or statements prohibiting or otherwise restricting such employees or subcontractors from lawfully reporting waste, fraud, or abuse related to the performance of a Government contract to a designated investigative or law enforcement representative of a Federal department or agency authorized to receive such information (*e.g.,* agency Office of the Inspector General).
 
-(v) *Covered Telecommunications Equipment or Services - Representation.* Section 889(a)(1)(A) and section 889 (a)(1)(B) of Public Law 115-232.
+(v) *Covered Telecommunications Equipment or Services—Representation.* Section 889(a)(1)(A) and section 889 (a)(1)(B) of Public Law 115-232.
 
 (1) The Offeror shall review the list of excluded parties in the System for Award Management (SAM) (*https://www.sam.gov*) for entities excluded from receiving federal awards for “covered telecommunications equipment or services”.
 
-(2) The Offeror represents that -
+(2) The Offeror represents that—
 
 (i) It [ ] does, [ ] does not provide covered telecommunications equipment or services as a part of its offered products or services to the Government in the performance of any contract, subcontract, or other contractual instrument.
 

@@ -1,10 +1,8 @@
 ##### 17.701 Definitions. #####
 
-Link to an amendment published at 87 FR 73889, Dec. 1, 2022.
+As used in this subpart—
 
-As used in this subpart -
-
-*Department of Defense (DoD) acquisition official* means -
+*Department of Defense (DoD) acquisition official* means—
 
 (1) A DoD contracting officer; or
 
@@ -12,7 +10,7 @@ As used in this subpart -
 
 *Nondefense agency* means any department or agency of the Federal Government other than the Department of Defense.
 
-*Nondefense agency that is an element of the intelligence community* means the agencies identified in 50 U.S.C. 401a(4), which include the -
+*Nondefense agency that is an element of the intelligence community* means the agencies identified in 50 U.S.C. 3003(4), which include the—
 
 (1) Office of the Director of National Intelligence;
 
@@ -27,3 +25,5 @@ As used in this subpart -
 (6) The Office of Intelligence and Analysis of the Department of Homeland Security and the Office of Intelligence of the Coast Guard; and
 
 (7) Such other elements of any department or agency as have been designated by the President, or designated jointly by the Director of National Intelligence and the head of the department or agency concerned, as an element of the intelligence community.
+
+[77 FR 69722, Nov. 20, 2012, as amended at 87 FR 73889, Dec. 1, 2022]

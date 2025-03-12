@@ -1,10 +1,8 @@
-##### 252.227-7013 Rights in technical data - Noncommercial items. #####
-
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+##### 252.227-7013 Rights in Technical Data-Noncommercial Items. #####
 
 As prescribed in 227.7103-6(a), use the following clause:
 
-Rights in Technical Data - Noncommercial Items (FEB 2014)
+Rights in Technical Data - Noncommercial Items (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -222,7 +220,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (ii) Does not include the reasonable costs of reproducing, handling, or mailing the documents or other media in which the technical data will be delivered.
 
-(k) *Applicability to subcontractors or suppliers.* (1) The Contractor shall ensure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 2320, 10 U.S.C. 2321, and the identification, assertion, and delivery processes of paragraph (e) of this clause are recognized and protected.
+(k) *Applicability to subcontractors or suppliers.* (1) The Contractor shall ensure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775, 10 U.S.C. 3781-3786, and the identification, assertion, and delivery processes of paragraph (e) of this clause are recognized and protected.
 
 (2) Whenever any technical data for noncommercial items, or for commercial items developed in any part at Government expense, is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts or other contractual instruments for commercial items, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to noncommercial items or to any portion of a commercial item that was developed in any part at Government expense, and the clause at 252.227-7015 will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher-tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data.
 
@@ -250,4 +248,4 @@ As prescribed in 227.7103-6(b)(2), add the following paragraphs (a)(17) and (b)(
 
 (b)(7) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022]
+[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022]

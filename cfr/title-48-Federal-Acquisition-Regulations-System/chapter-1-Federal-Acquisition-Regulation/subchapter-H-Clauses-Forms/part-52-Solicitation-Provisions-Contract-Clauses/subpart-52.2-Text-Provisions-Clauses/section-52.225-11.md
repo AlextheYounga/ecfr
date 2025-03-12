@@ -1,20 +1,18 @@
-##### 52.225-11 Buy American - Construction Materials Under Trade Agreements. #####
-
-Link to an amendment published at 87 FR 73894, Dec. 1, 2022.
+##### 52.225-11 Buy American—Construction Materials Under Trade Agreements. #####
 
 As prescribed in 25.1102(c), insert the following clause:
 
-Buy American - Construction Materials Under Trade Agreements (OCT 2022)
+Buy American—Construction Materials Under Trade Agreements (DEC 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-*Caribbean Basin country construction material* means a construction material that -
+*Caribbean Basin country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a Caribbean Basin country; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a Caribbean Basin country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Commercially available off-the-shelf (COTS) item* - (1) Means any item of supply (including construction material) that is -
+*Commercially available off-the-shelf (COTS) item*—(1) Means any item of supply (including construction material) that is—
 
 (i) A commercial product (as defined in paragraph (1) of the definition of “commercial product” at Federal Acquisition Regulation (FAR) 2.101;
 
@@ -28,7 +26,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 *Construction material* means an article, material, or supply brought to the construction site by the Contractor or subcontractor for incorporation into the building or work. The term also includes an item brought to the site preassembled from articles, materials, or supplies. However, emergency life safety systems, such as emergency lighting, fire alarm, and audio evacuation systems, that are discrete systems incorporated into a public building or work and that are produced as complete systems, are evaluated as a single and distinct construction material regardless of when or how the individual parts or components of those systems are delivered to the construction site. Materials purchased directly by the Government are supplies, not construction material.
 
-*Cost of components* means -
+*Cost of components* means—
 
 (1) For components purchased by the Contractor, the acquisition cost, including transportation costs to the place of incorporation into the construction material (whether or not such costs are paid to a domestic firm), and any applicable duty (whether or not a duty-free entry certificate is issued); or
 
@@ -42,7 +40,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 (1) A World Trade Organization Government Procurement Agreement (WTO GPA) country (Armenia, Aruba, Australia, Austria, Belgium, Bulgaria, Canada, Croatia, Cyprus, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hong Kong, Hungary, Iceland, Ireland, Israel, Italy, Japan, Korea (Republic of), Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Montenegro, Netherlands, New Zealand, Norway, Poland, Portugal, Romania, Singapore, Slovak Republic, Slovenia, Spain, Sweden, Switzerland, Taiwan, Ukraine, or United Kingdom);
 
-(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Canada, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
+(2) A Free Trade Agreement (FTA) country (Australia, Bahrain, Chile, Colombia, Costa Rica, Dominican Republic, El Salvador, Guatemala, Honduras, Korea (Republic of), Mexico, Morocco, Nicaragua, Oman, Panama, Peru, or Singapore);
 
 (3) A least developed country (Afghanistan, Angola, Bangladesh, Benin, Bhutan, Burkina Faso, Burundi, Cambodia, Central African Republic, Chad, Comoros, Democratic Republic of Congo, Djibouti, Equatorial Guinea, Eritrea, Ethiopia, Gambia, Guinea, Guinea-Bissau, Haiti, Kiribati, Laos, Lesotho, Liberia, Madagascar, Malawi, Mali, Mauritania, Mozambique, Nepal, Niger, Rwanda, Samoa, Sao Tome and Principe, Senegal, Sierra Leone, Solomon Islands, Somalia, South Sudan,Tanzania, Timor-Leste, Togo, Tuvalu, Uganda, Vanuatu, Yemen, or Zambia); or
 
@@ -50,13 +48,13 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 *Designated country construction material* means a construction material that is a WTO GPA country construction material, an FTA country construction material, a least developed country construction material, or a Caribbean Basin country construction material.
 
-*Domestic construction material* means -
+*Domestic construction material* means—
 
-(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both -
+(1) For construction material that does not consist wholly or predominantly of iron or steel or a combination of both—
 
 (i) An unmanufactured construction material mined or produced in the United States; or
 
-(ii) A construction material manufactured in the United States, if -
+(ii) A construction material manufactured in the United States, if—
 
 (A) The cost of its components mined, produced, or manufactured in the United States exceeds 60 percent of the cost of all its components, except that the percentage will be 65 percent for items delivered in calendar years 2024 through 2028 and 75 percent for items delivered starting in calendar year 2029. Components of foreign origin of the same class or kind for which nonavailability determinations have been made are treated as domestic. Components of unknown origin are treated as foreign; or
 
@@ -70,13 +68,13 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 *Foreign iron and steel* means iron or steel products not produced in the United States. Produced in the United States means that all manufacturing processes of the iron or steel must take place in the United States, from the initial melting stage through the application of coatings, except metallurgical processes involving refinement of steel additives. The origin of the elements of the iron or steel is not relevant to the determination of whether it is domestic or foreign.
 
-*Free Trade Agreement country construction material* means a construction material that -
+*Free Trade Agreement country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a Free Trade Agreement (FTA) country; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in a FTA country into a new and different construction material distinct from the materials from which it was transformed.
 
-*Least developed country construction material* means a construction material that -
+*Least developed country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a least developed country; or
 
@@ -88,7 +86,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 *United States* means the 50 States, the District of Columbia, and outlying areas.
 
-*WTO GPA country construction material* means a construction material that -
+*WTO GPA country construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of a WTO GPA country; or
 
@@ -102,7 +100,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 [Contracting Officer is to list applicable excepted materials or indicate “none”]
 
-(4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that -
+(4) The Contracting Officer may add other foreign construction material to the list in paragraph (b)(3) of this clause if the Government determines that—
 
 (i) The cost of domestic construction material would be unreasonable.
 
@@ -122,7 +120,7 @@ Buy American - Construction Materials Under Trade Agreements (OCT 2022)
 
 (iii) The construction material is not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities of a satisfactory quality.
 
-(c) *Request for determination of inapplicability of the Buy American statute.* (1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including -
+(c) *Request for determination of inapplicability of the Buy American statute.* (1)(i) Any Contractor request to use foreign construction material in accordance with paragraph (b)(4) of this clause shall include adequate information for Government evaluation of the request, including—
 
 (A) A description of the foreign and domestic construction materials;
 
@@ -171,15 +169,15 @@ Foreign and Domestic Construction Materials Price Comparison
 
 (End of clause)
 
-*Alternate I* (JAN 2021). As prescribed in 25.1102(c)(3), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
+*Alternate I* (DEC 2022). As prescribed in 25.1102(c)(3), add the following definition of “Bahrainian, Mexican, or Omani construction material” to paragraph (a) of the basic clause, and substitute the following paragraphs (b)(1) and (b)(2) for paragraphs (b)(1) and (b)(2) of the basic clause:
 
-*Bahrainian, Mexican, or Omani construction material* means a construction material that -
+*Bahrainian, Mexican, or Omani construction material* means a construction material that—
 
 (1) Is wholly the growth, product, or manufacture of Bahrain, Mexico, or Oman; or
 
 (2) In the case of a construction material that consists in whole or in part of materials from another country, has been substantially transformed in Bahrain, Mexico, or Oman into a new and different construction material distinct from the materials from which it was transformed.
 
-(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See FAR 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, NAFTA, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
+(b) *Construction materials.* (1) This clause implements 41 U.S.C. chapter 83, Buy American, by providing a preference for domestic construction material. In accordance with 41 U.S.C. 1907, the domestic content test of the Buy American statute is waived for construction material that is a COTS item, except that for construction material that consists wholly or predominantly of iron or steel or a combination of both, the domestic content test is applied only to the iron and steel content of the construction material, excluding COTS fasteners. (See 12.505(a)(2)). In addition, the Contracting Officer has determined that the WTO GPA and all the Free Trade Agreements except the Bahrain FTA, United States-Mexico-Canada Agreement, and the Oman FTA apply to this acquisition. Therefore, the Buy American statute restrictions are waived for designated country construction materials other than Bahrainian, Mexican, or Omani construction materials.
 
 (2) The Contractor shall use only domestic or designated country construction material other than Bahrainian, Mexican, or Omani construction material in performing this contract, except as provided in paragraphs (b)(3) and (b)(4) of this clause.
 

@@ -1,10 +1,8 @@
 ##### 225.772-1 Definitions. #####
 
-Link to an amendment published at 87 FR 76993, Dec. 16, 2022.
+As used in this section—
 
-As used in this section -
-
-*Covered foreign country* means -
+*Covered foreign country* means—
 
 (1) The People's Republic of China;
 
@@ -16,7 +14,7 @@ As used in this section -
 
 *Cybersecurity risk* means threats to and vulnerabilities of information or information systems and any related consequences caused by or resulting from unauthorized access, use, disclosure, degradation, disruption, modification, or destruction of such information or information systems, including such related consequences caused by an act of terrorism. (10 U.S.C. 2279)
 
-*Foreign entity* means -
+*Foreign entity* means—
 
 (1) Any branch, partnership, group or sub-group, association, estate, trust, corporation or division of a corporation, or organization organized under the laws of a foreign state if either its principal place of business is outside the United States or its equity securities are primarily traded on one or more foreign exchanges.
 
@@ -28,6 +26,6 @@ As used in this section -
 
 *Satellite services* means communications capabilities that utilize an on-orbit satellite for transmitting the signal from one location to another.
 
-*State sponsor of terrorism* means a country determined by the Secretary of State, under section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (Title XVII, Subtitle B, of the National Defense Authorization Act for Fiscal Year 2019, Pub. L. 115-232), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of December 14, 2020, state sponsors of terrorism include Iran, North Korea, and Syria. (10 U.S.C. 2327)
+*State sponsor of terrorism* means a country determined by the Secretary of State, under section 1754(c)(1)(A)(i) of the Export Control Reform Act of 2018 (Title XVII, Subtitle B, of the National Defense Authorization Act for Fiscal Year 2019, Pub. L. 115-232), to be a country the government of which has repeatedly provided support for acts of international terrorism. As of December 14, 2020, state sponsors of terrorism include Iran, North Korea, and Syria. (10 U.S.C. 4871)
 
-[83 FR 66072, Dec. 21, 2018, as amended at 86 FR 53883, Sept. 29, 2021]
+[83 FR 66072, Dec. 21, 2018, as amended at 86 FR 53883, Sept. 29, 2021; 87 FR 76993, Dec. 16, 2022]

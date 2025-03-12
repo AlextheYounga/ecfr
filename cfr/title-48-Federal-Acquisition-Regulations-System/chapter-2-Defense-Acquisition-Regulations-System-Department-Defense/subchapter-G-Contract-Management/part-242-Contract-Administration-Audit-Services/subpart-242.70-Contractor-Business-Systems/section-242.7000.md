@@ -1,20 +1,18 @@
 ##### 242.7000 Contractor business system deficiencies. #####
 
-Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
-
-(a) *Definitions.* As used in this subpart -
+(a) *Definitions.* As used in this subpart—
 
 *Acceptable contractor business systems* and *contractor business systems* are defined in the clause at 252.242-7005, Contractor Business Systems.
 
-*Covered contract* means a contract that is subject to the Cost Accounting Standards under 41 U.S.C. chapter 15, as implemented in regulations found at 48 CFR 9903.201-1 (see the FAR Appendix) (10 U.S.C. 2302 note, as amended by section 816 of Pub. L. 112-81).
+*Covered contract* means a contract that is subject to the Cost Accounting Standards under 41 U.S.C. chapter 15, as implemented in regulations found at 48 CFR 9903.201-1 (see the FAR Appendix) (10 U.S.C. 3841 note prec., as amended by section 816 of Pub. L. 112-81).
 
 *Significant deficiency* is defined in the clause at 252.242-7005, Contractor Business Systems.
 
-(b) *Determination to withhold payments.* If the contracting officer makes a final determination to disapprove a contractor's business system in accordance with the clause at 252.242-7005, Contractor Business Systems, the contracting officer shall -
+(b) *Determination to withhold payments.* If the contracting officer makes a final determination to disapprove a contractor's business system in accordance with the clause at 252.242-7005, Contractor Business Systems, the contracting officer shall—
 
 (1) In accordance with agency procedures, identify one or more covered contracts containing the clause at 252.242-7005, Contractor Business Systems, from which payments will be withheld. When identifying the covered contracts from which to withhold payments, the contracting officer shall ensure that the total amount of payment withholding under 252.242-7005, does not exceed 10 percent of progress payments, performance-based payments, and interim payments under cost-reimbursement, labor-hour, and time-and-materials contracts billed under each of the identified covered contracts. Similarly, the contracting officer shall ensure that the total amount of payment withholding under the clause at 252.242-7005, Contractor Business Systems, for each business system does not exceed five percent of progress payments, performance-based payments, and interim payments under cost-reimbursement, labor-hour, and time-and-materials contracts billed under each of the identified covered contracts. The contracting officer has the sole discretion to identify the covered contracts from which to withhold payments.
 
-(2) Promptly notify the contractor, in writing, of the contracting officer's determination to implement payment withholding in accordance with the clause at 252.242-7005, Contractor Business Systems. The notice of payment withholding shall be included in the contracting officer's written final determination for the contractor business system and shall inform the contractor that -
+(2) Promptly notify the contractor, in writing, of the contracting officer's determination to implement payment withholding in accordance with the clause at 252.242-7005, Contractor Business Systems. The notice of payment withholding shall be included in the contracting officer's written final determination for the contractor business system and shall inform the contractor that—
 
 (i) Payments shall be withheld from the contract or contracts identified in the written determination in accordance with the clause at 252.242-7005, Contractor Business Systems, until the contracting officer determines that there are no remaining significant deficiencies; and
 
@@ -28,9 +26,9 @@ Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
 
 (2) Prior to the receipt of verification, the contracting officer may discontinue withholding payments pending receipt of verification, and release any payments previously withheld, if the contractor submits evidence that the significant deficiencies have been corrected, and the contracting officer, in consultation with the auditor or functional specialist, determines that there is a reasonable expectation that the corrective actions have been implemented and are expected to correct the significant deficiencies.
 
-(3) Within 90 days of receipt of the contractor notification that the contractor has corrected the significant deficiencies, the contracting officer shall -
+(3) Within 90 days of receipt of the contractor notification that the contractor has corrected the significant deficiencies, the contracting officer shall—
 
-(i) Make a determination that -
+(i) Make a determination that—
 
 (A) The contractor has corrected all significant deficiencies as directed by the contracting officer's final determination in accordance with paragraph (d)(1) of this section;
 
@@ -44,4 +42,4 @@ Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
 
 (e) For sample formats for written notifications of contracting officer determinations to initiate payment withholding, reduce payment withholding, and discontinue payment withholding in accordance with the clause at DFARS 252.242-7005, Contractor Business Systems, see PGI 242.7000.
 
-[76 FR 28868, May 18, 2011, as amended at 77 FR 11365, Feb. 24, 2012]
+[76 FR 28868, May 18, 2011, as amended at 77 FR 11365, Feb. 24, 2012; 87 FR 76996, Dec. 16, 2022]

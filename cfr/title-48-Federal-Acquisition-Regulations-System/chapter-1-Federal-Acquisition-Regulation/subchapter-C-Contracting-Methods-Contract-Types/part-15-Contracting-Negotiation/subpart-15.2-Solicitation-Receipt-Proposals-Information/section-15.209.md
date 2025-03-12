@@ -1,16 +1,14 @@
 ##### 15.209 Solicitation provisions and contract clauses. #####
 
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+When contracting by negotiation—
 
-When contracting by negotiation -
-
-(a) The contracting officer shall insert the provision at 52.215-1, Instructions to Offerors - Competitive Acquisition, in all competitive solicitations where the Government intends to award a contract without discussions.
+(a) The contracting officer shall insert the provision at 52.215-1, Instructions to Offerors—Competitive Acquisition, in all competitive solicitations where the Government intends to award a contract without discussions.
 
 (1) If the Government intends to make award after discussions with offerors within the competitive range, the contracting officer shall use the basic provision with its *Alternate I.*
 
 (2) If the Government would be willing to accept alternate proposals, the contracting officer shall alter the basic clause to add a paragraph (c)(9) substantially the same as *Alternate II.*
 
-(b)(1) Except as provided in paragraph (b)(2) of this section, the contracting officer shall insert the clause at 52.215-2, Audit and Records-Negotiation (10 U.S.C. 2313, 41 U.S.C. 4706, and Audit Requirements in the OMB Uniform Guidance at 2 CFR part 200, subpart F) , in solicitations and contracts except those for -
+(b)(1) Except as provided in paragraph (b)(2) of this section, the contracting officer shall insert the clause at 52.215-2, Audit and Records-Negotiation (10 U.S.C. 3841, 41 U.S.C. 4706, and Audit Requirements in the OMB Uniform Guidance at 2 CFR part 200, subpart F) , in solicitations and contracts except those for—
 
 (i) Acquisitions not exceeding the simplified acquisition threshold;
 
@@ -18,7 +16,7 @@ When contracting by negotiation -
 
 (iii) The acquisition of commercial products or commercial services exempted under 15.403-1.
 
-(2)(i) When using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5) -
+(2)(i) When using funds appropriated or otherwise made available by the American Recovery and Reinvestment Act of 2009 (Pub. L. 111-5)—
 
 (A) The exceptions in paragraphs (b)(1)(i) through (b)(1)(iii) are not applicable; and
 
@@ -42,6 +40,6 @@ When contracting by negotiation -
 
 (g) [Reserved]
 
-(h) The contracting officer shall insert the clause at 52.215-8, Order of Precedence - Uniform Contract Format, in solicitations and contracts using the format at 15.204.
+(h) The contracting officer shall insert the clause at 52.215-8, Order of Precedence—Uniform Contract Format, in solicitations and contracts using the format at 15.204.
 
-[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 9055, Feb. 23, 1998; 63 FR 58589, Oct. 30, 1998; 64 FR 72418, Dec. 27, 1999; 69 FR 76346, Dec. 20, 2004; 72 FR 27384, May 15, 2007; 74 FR 14648, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 79 FR 24201, Apr. 29, 2014; 81 FR 45852, July 14, 2016; 86 FR 3687, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021]
+[62 FR 51230, Sept. 30, 1997, as amended at 63 FR 9055, Feb. 23, 1998; 63 FR 58589, Oct. 30, 1998; 64 FR 72418, Dec. 27, 1999; 69 FR 76346, Dec. 20, 2004; 72 FR 27384, May 15, 2007; 74 FR 14648, Mar. 31, 2009; 75 FR 34281, June 16, 2010; 79 FR 24201, Apr. 29, 2014; 81 FR 45852, July 14, 2016; 86 FR 3687, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]

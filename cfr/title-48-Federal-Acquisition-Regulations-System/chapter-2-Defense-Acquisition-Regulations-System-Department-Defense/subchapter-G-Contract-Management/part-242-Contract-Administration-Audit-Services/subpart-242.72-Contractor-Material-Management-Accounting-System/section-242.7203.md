@@ -1,14 +1,12 @@
 ##### 242.7203 Review procedures. #####
 
-Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
-
 (a) *Criteria for conducting reviews.* Conduct an MMAS review when -
 
 (1) A contractor has $40 million of qualifying sales to the Government during the contractor's preceding fiscal year; and
 
 (2) The administrative contracting officer (ACO), with advice from the auditor, determines an MMAS review is needed based on a risk assessment of the contractor's past experience and current vulnerability.
 
-(b) *Qualifying sales.* Qualifying sales are sales for which certified cost or pricing data were required under 10 U.S.C. 2306a, as implemented in FAR 15.403, or that are contracts priced on other than a firm-fixed-price or fixed-price with economic price adjustment basis. Sales include prime contracts, subcontracts, and modifications to such contracts and subcontracts.
+(b) *Qualifying sales.* Qualifying sales are sales for which certified cost or pricing data were required under 10 U.S.C. 3702, as implemented in FAR 15.403, or that are contracts priced on other than a firm-fixed-price or fixed-price with economic price adjustment basis. Sales include prime contracts, subcontracts, and modifications to such contracts and subcontracts.
 
 (c) *Disposition of findings* - (1) *Reporting of findings.* The auditor or functional specialist shall document findings and recommendations in a report to the contracting officer. If the auditor or functional specialist identifies any significant MMAS deficiencies, the report shall describe the deficiencies in sufficient detail to allow the contracting officer to understand the deficiencies.
 
@@ -40,4 +38,4 @@ Link to an amendment published at 87 FR 76996, Dec. 16, 2022.
 
 (e) *Contracting officer notifications.* The cognizant contracting officer shall promptly distribute copies of a determination to approve a system, disapprove a system and withhold payments, or approve a previously disapproved system and release withheld payments to the auditor; payment office; affected contracting officers at the buying activities; and cognizant contracting officers in contract administration activities.
 
-[65 FR 77833, Dec. 13, 2000, as amended at 76 FR 28869, May 18, 2011; 77 FR 76940, Dec. 31, 2012]
+[65 FR 77833, Dec. 13, 2000, as amended at 76 FR 28869, May 18, 2011; 77 FR 76940, Dec. 31, 2012; 87 FR 76996, Dec. 16, 2022]

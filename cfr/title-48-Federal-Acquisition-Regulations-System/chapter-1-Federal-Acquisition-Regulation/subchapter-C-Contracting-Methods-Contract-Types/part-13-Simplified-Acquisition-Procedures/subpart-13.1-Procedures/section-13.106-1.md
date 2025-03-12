@@ -1,7 +1,5 @@
 ##### 13.106-1 Soliciting competition. #####
 
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
-
 (a) *Considerations.* In soliciting competition, the contracting officer shall consider the guidance in 13.104 and the following before requesting quotations or offers:
 
 (1)(i) The nature of the article or service to be purchased and whether it is highly competitive and readily available in several makes or brands, or is relatively noncompetitive.
@@ -20,9 +18,9 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (iii) Solicitations are not required to state the relative importance assigned to each evaluation factor and subfactor, nor are they required to include subfactors.
 
-(iv) In accordance with 10 U.S.C. 2305(a)(3), for DoD, NASA, and the Coast Guard -
+(iv) In accordance with 10 U.S.C. 3206(c), for DoD, NASA, and the Coast Guard—
 
-(A) The contracting officer may choose not to include price or cost as an evaluation factor for award when a solicitation -
+(A) The contracting officer may choose not to include price or cost as an evaluation factor for award when a solicitation—
 
 (*1*) Has an estimated value above the simplified acquisition threshold;
 
@@ -38,7 +36,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (vi) Except for DoD, avoid using the lowest price technically acceptable source selection process to acquire certain supplies and services in accordance with 15.101-2(d).
 
-(b) *Soliciting from a single source* - (1) *For purchases not exceeding the simplified acquisition threshold.* (i) Contracting officers may solicit from one source if the contracting officer determines that the circumstances of the contract action deem only one source reasonably available (*e.g.,* urgency, exclusive licensing agreements, brand-name or industrial mobilization).
+(b) *Soliciting from a single source*— (1) *For purchases not exceeding the simplified acquisition threshold.* (i) Contracting officers may solicit from one source if the contracting officer determines that the circumstances of the contract action deem only one source reasonably available (*e.g.,* urgency, exclusive licensing agreements, brand-name or industrial mobilization).
 
 (ii) Where a single source is identified to provide a portion of a purchase because that portion of the purchase specifies a particular brand-name item, the documentation in paragraph (b)(1)(i) of this section only applies to the portion of the purchase requiring the brand-name item. The documentation should state it is covering only the portion of the acquisition which is brand-name.
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (3) See 5.102(a)(6) for the requirement to post the brand-name justification or documentation.
 
-(c) *Soliciting orally.* (1) The contracting officer shall solicit quotations orally to the maximum extent practicable, if -
+(c) *Soliciting orally.* (1) The contracting officer shall solicit quotations orally to the maximum extent practicable, if—
 
 (i) The acquisition does not exceed the simplified acquisition threshold;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (f) *Inquiries.* An agency should respond to inquiries received through any medium (including electronic commerce) if doing so would not interfere with the efficient conduct of the acquisition.
 
-[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 71 FR 57360, 57366, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 77 FR 193, Jan. 3, 2012; 80 FR 38297, July 2, 2015; 85 FR 40071, July 2, 2020; 86 FR 3681, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021]
+[62 FR 64917, Dec. 9, 1997, as amended at 63 FR 58593, Oct. 30, 1998; 71 FR 57360, 57366, Sept. 28, 2006; 72 FR 63076, Nov. 7, 2007; 77 FR 193, Jan. 3, 2012; 80 FR 38297, July 2, 2015; 85 FR 40071, July 2, 2020; 86 FR 3681, Jan. 14, 2021; 86 FR 61025, Nov. 4, 2021; 87 FR 73897, Dec. 1, 2022]

@@ -1,10 +1,8 @@
 ##### 225.7018-2 Restriction. #####
 
-Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+(a) Except as provided in 225.7018-3 and 225.7018-4, do not acquire any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 4872).
 
-(a) Except as provided in 225.7018-3 and 225.7018-4, do not acquire any covered material melted or produced in any covered country, or any end item, manufactured in any covered country, that contains a covered material (10 U.S.C. 2533c).
-
-(b)(1) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes -
+(b)(1) For samarium-cobalt magnets and neodymium iron-boron magnets, this restriction includes—
 
 (i) Melting samarium with cobalt to produce the samarium-cobalt alloy or melting neodymium with iron and boron to produce the neodymium-iron-boron alloy; and
 
@@ -14,7 +12,7 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (c) For production of tantalum metals of any kind and alloys, this restriction includes the reduction or melting of any form of tantalum to create tantalum metal including unwrought, powder, mill products, and alloys. The restriction also covers all subsequent phases of production of tantalum metals and alloys.
 
-(d) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes -
+(d) For production of tungsten metal powder and tungsten heavy alloy, this restriction includes—
 
 (1) Atomization;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (4) All subsequent phases of production of tungsten metal powder, tungsten heavy alloy, or any finished or semi-finished component containing tungsten heavy alloy.
 
-[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022]
+[84 FR 18158, Apr. 30, 2019, as amended at 84 FR 72244, Dec. 31, 2019; 85 FR 61502, Sept. 29, 2020; 87 FR 52347, Aug. 25, 2022; 87 FR 76994, Dec. 16, 2022]

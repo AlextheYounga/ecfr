@@ -1,10 +1,8 @@
-##### 225.7008 Waiver of restrictions of 10 U.S.C. 2534. #####
+##### 225.7008 Waiver of restrictions of 10 U.S.C. 4864. #####
 
-Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
+When specifically authorized by reference elsewhere in this subpart, the restrictions on certain foreign purchases under 10 U.S.C. 4864(a) may be waived as follows:
 
-When specifically authorized by reference elsewhere in this subpart, the restrictions on certain foreign purchases under 10 U.S.C. 2534(a) may be waived as follows:
-
-(a)(1) The Under Secretary of Defense (Acquisition and Sustainment) (USD(A&S)), without power of delegation, may waive a restriction for a particular item for a particular foreign country upon determination that -
+(a)(1) The Under Secretary of Defense (Acquisition and Sustainment) (USD(A&S)), without power of delegation, may waive a restriction for a particular item for a particular foreign country upon determination that—
 
 (i) United States producers of the item would not be jeopardized by competition from a foreign country, and that country does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country; or
 
@@ -14,7 +12,7 @@ When specifically authorized by reference elsewhere in this subpart, the restric
 
 (3) The effective period of the waiver shall not exceed 1 year.
 
-(4) For contracts entered into prior to the effective date of a waiver, provided adequate consideration is received to modify the contract, the waiver shall be applied as directed or authorized in the waiver to -
+(4) For contracts entered into prior to the effective date of a waiver, provided adequate consideration is received to modify the contract, the waiver shall be applied as directed or authorized in the waiver to—
 
 (i) Subcontracts entered into on or after the effective date of the waiver; and
 
@@ -34,4 +32,4 @@ When specifically authorized by reference elsewhere in this subpart, the restric
 
 (c) A restriction is waived when it would cause unreasonable costs. The cost of an item of U.S., Australian, Canadian, or United Kingdom origin is unreasonable if it exceeds 150 percent of the offered price, inclusive of duty, of items that are not of U.S., Australian, Canadian, or United Kingdom origin.
 
-[74 FR 37639, July 29, 2009, as amended at 78 FR 13543, Feb. 28, 2013; 80 FR 10391, Feb. 26, 2015; 85 FR 34534, June 5, 2020]
+[74 FR 37639, July 29, 2009, as amended at 78 FR 13543, Feb. 28, 2013; 80 FR 10391, Feb. 26, 2015; 85 FR 34534, June 5, 2020; 87 FR 76994, Dec. 16, 2022]

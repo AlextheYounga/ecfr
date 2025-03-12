@@ -1,18 +1,16 @@
 ##### 11.002 Policy. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
+(a) In fulfilling requirements of 10 U.S.C. 3206(a), 10 U.S.C. 3453, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall—
 
-(a) In fulfilling requirements of 10 U.S.C. 2305(a)(1), 10 U.S.C. 2377, 41 U.S.C. 3306(a), and 41 U.S.C. 3307, agencies shall -
-
-(1) Specify needs using market research in a manner designed to -
+(1) Specify needs using market research in a manner designed to—
 
 (i) Promote full and open competition (see part 6), or maximum practicable competition when using simplified acquisition procedures, with due regard to the nature of the supplies or services to be acquired; and
 
 (ii) Only include restrictive provisions or conditions to the extent necessary to satisfy the needs of the agency or as authorized by law.
 
-(2) To the maximum extent practicable, ensure that acquisition officials -
+(2) To the maximum extent practicable, ensure that acquisition officials—
 
-(i) State requirements with respect to an acquisition of supplies or services in terms of -
+(i) State requirements with respect to an acquisition of supplies or services in terms of—
 
 (A) Functions to be performed;
 
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (c) To the extent practicable and consistent with subpart 9.5, potential offerors should be given an opportunity to comment on agency requirements or to recommend application and tailoring of requirements documents and alternative approaches. Requiring agencies should apply specifications, standards, and related documents initially for guidance only, making final decisions on the application and tailoring of these documents as a product of the design and development process. Requiring agencies should not dictate detailed design solutions prematurely (see 7.101 and 7.105(a)(8)).
 
-(d)(1) When agencies acquire products and services, various statutes and executive orders (identified in part 23) require consideration of sustainable acquisition (see subpart 23.1) including -
+(d)(1) When agencies acquire products and services, various statutes and executive orders (identified in part 23) require consideration of sustainable acquisition (see subpart 23.1) including—
 
 (i) Energy-efficient and water-efficient services and products (including products containing energy-efficient standby power devices) (subpart 23.2);
 
@@ -46,7 +44,7 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (vi) Non-ozone-depleting substances, and products and services that minimize or eliminate, when feasible, the use, release, or emission of high global warming potential hydrofluorocarbons, such as by using reclaimed instead of virgin hydrofluorocarbons (subpart 23.8).
 
-(2) Unless an exception applies and is documented by the requiring activity, Executive agencies shall, to the maximum practicable, require the use of products and services listed in paragraph (d)(1) of this section when -
+(2) Unless an exception applies and is documented by the requiring activity, Executive agencies shall, to the maximum practicable, require the use of products and services listed in paragraph (d)(1) of this section when—
 
 (i) Developing, reviewing, or revising Federal and military specifications, product descriptions (including commercial item descriptions) and standards;
 
@@ -56,9 +54,9 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (e) Some or all of the performance levels or performance specifications in a solicitation may be identified as targets rather than as fixed or minimum requirements.
 
-(f) In accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), the contracting officer shall obtain from the requiring activity the requirement documents, which must identify -
+(f) In accordance with section 508 of the Rehabilitation Act of 1973 (29 U.S.C. 794d), the contracting officer shall obtain from the requiring activity the requirement documents, which must identify—
 
-(1) The needs of current and future users with disabilities to determine how -
+(1) The needs of current and future users with disabilities to determine how—
 
 (i) Users with disabilities will perform the functions supported by the information and communication technology (ICT);
 
@@ -72,4 +70,4 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (h) Agencies shall not include in a solicitation a requirement that prohibits an offeror from permitting its employees to telecommute unless the contracting officer executes a written determination in accordance with FAR 7.108(a).
 
-[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016; 86 FR 44231, Aug. 11, 2021; 86 FR 61021, Nov. 4, 2021]
+[60 FR 48238, Sept. 18, 1995, as amended at 61 FR 39192, July 26, 1996; 62 FR 263, Jan. 2, 1997; 62 FR 44810, Aug. 22, 1997; 62 FR 51230, Sept. 30, 1997; 65 FR 36017, June 6, 2000; 66 FR 20897, Apr. 25, 2001; 66 FR 65352, Dec. 18, 2001; 68 FR 43858, July 24, 2003; 69 FR 59702, Oct. 5, 2004; 72 FR 63043, Nov. 7, 2007; 74 FR 65607, Dec. 10, 2009; 76 FR 31398, May 31, 2011; 79 FR 24199, Apr. 29, 2014;79 FR 35861, June 24, 2014; 81 FR 30435, May 16, 2016; 86 FR 44231, Aug. 11, 2021; 86 FR 61021, Nov. 4, 2021; 87 FR 73896, Dec. 1, 2022]

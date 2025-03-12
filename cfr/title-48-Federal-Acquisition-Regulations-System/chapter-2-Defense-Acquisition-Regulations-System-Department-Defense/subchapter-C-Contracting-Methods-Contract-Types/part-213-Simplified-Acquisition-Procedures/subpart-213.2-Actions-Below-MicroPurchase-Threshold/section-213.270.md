@@ -1,12 +1,10 @@
 ##### 213.270 Use of the Governmentwide commercial purchase card. #####
 
-Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
-
-Use the Governmentwide commercial purchase card as the method of purchase and/or method of payment for purchases valued at or below the micro-purchase threshold. This policy applies to all types of contract actions authorized by the FAR unless -
+Use the Governmentwide commercial purchase card as the method of purchase and/or method of payment for purchases valued at or below the micro-purchase threshold. This policy applies to all types of contract actions authorized by the FAR unless—
 
 (a) The Deputy Secretary of Defense has approved an exception for an electronic commerce/electronic data interchange system or operational requirement that results in a more cost-effective payment process;
 
-(b)(1) A general or flag officer or a member of the Senior Executive Service (SES) makes a written determination that -
+(b)(1) A general or flag officer or a member of the Senior Executive Service (SES) makes a written determination that—
 
 (i) The source or sources available for the supply or service do not accept the purchase card; and
 
@@ -20,7 +18,7 @@ Use the Governmentwide commercial purchase card as the method of purchase and/or
 
 (2) The purchase is a Standard Form 44 purchase for aviation fuel or oil.
 
-(3) The purchase is an overseas transaction by a contracting officer in support of a contingency operation as defined in 10 U.S.C. 101(a)(13) or a humanitarian or peacekeeping operation as defined in 10 U.S.C. 2302(8).
+(3) The purchase is an overseas transaction by a contracting officer in support of a contingency operation as defined in 10 U.S.C. 101(a)(13) or a humanitarian or peacekeeping operation as defined in 10 U.S.C. 3015(2).
 
 (4) The purchase is a transaction in support of intelligence or other specialized activities addressed by Part 2.7 of Executive Order 12333.
 
@@ -32,7 +30,7 @@ Use the Governmentwide commercial purchase card as the method of purchase and/or
 
 (8) The purchase is under a Federal Supply Schedule contract that does not permit use of the Governmentwide commercial purchase card.
 
-(9) The purchase is for medical services and -
+(9) The purchase is for medical services and—
 
 (i) It involves a controlled substance or narcotic;
 
@@ -46,4 +44,4 @@ Use the Governmentwide commercial purchase card as the method of purchase and/or
 
 (vi) The senior local commander or director of a hospital or laboratory determines that use of the purchase card is not appropriate or cost-effective. The Medical Prime Vendor Program and the DoD Medical Electronic Catalog Program are two examples where use of the purchase card may not be cost-effective.
 
-[65 FR 46626, July 31, 2000, as amended at 70 FR 35544, June 21, 2005]
+[65 FR 46626, July 31, 2000, as amended at 70 FR 35544, June 21, 2005; 87 FR 76992, Dec. 16, 2022]

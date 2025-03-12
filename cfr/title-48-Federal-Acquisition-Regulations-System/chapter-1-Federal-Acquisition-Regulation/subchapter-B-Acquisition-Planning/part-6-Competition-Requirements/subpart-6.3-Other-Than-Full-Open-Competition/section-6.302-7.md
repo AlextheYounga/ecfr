@@ -1,8 +1,6 @@
 ##### 6.302-7 Public interest. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
-
-(a) *Authority.* (1) Citations: 10 U.S.C. 2304(c)(7) or 41 U.S.C. 3304(a)(7).
+(a) *Authority.* (1) Citations: 10 U.S.C. 3204(a)(7)or 41 U.S.C. 3304(a)(7).
 
 (2) Full and open competition need not be provided for when the agency head determines that it is not in the public interest in the particular acquisition concerned.
 
@@ -16,4 +14,4 @@ Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
 
 (4) This Determination and Finding (D & F) shall not be made on a class basis.
 
-[50 FR 52432, Dec. 23, 1985, as amended at 68 FR 69258, Dec. 11, 2003; 79 FR 24198, Apr. 29, 2014]
+[50 FR 52432, Dec. 23, 1985, as amended at 68 FR 69258, Dec. 11, 2003; 79 FR 24198, Apr. 29, 2014; 87 FR 73896, Dec. 1,2022]

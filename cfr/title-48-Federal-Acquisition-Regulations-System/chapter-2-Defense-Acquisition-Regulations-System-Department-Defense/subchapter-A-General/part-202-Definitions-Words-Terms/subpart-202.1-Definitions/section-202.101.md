@@ -1,14 +1,12 @@
 ##### 202.101 Definitions. #####
 
-Link to an amendment published at 87 FR 76989, Dec. 16, 2022.
-
 *Authorized aftermarket manufacturer* means an organization that fabricates an electronic part under a contract with, or with the express written authority of, the original component manufacturer based on the original component manufacturer's designs, formulas, and/or specifications.
 
 *Compromise* means disclosure of information to unauthorized persons, or a violation of the security policy of a system, in which unauthorized intentional or unintentional disclosure, modification, destruction, or loss of an object, or the copying of information to unauthorized media may have occurred.
 
-*Congressional defense committees* means -
+*Congressional defense committees* means—
 
-(1) In accordance with 10 U.S.C. 101(a)(16), except as otherwise specified in paragraph (2) of this definition or as otherwise specified by statute for particular applications -
+(1) In accordance with 10 U.S.C. 101(a)(16), except as otherwise specified in paragraph (2) of this definition or as otherwise specified by statute for particular applications—
 
 (i) The Committee on Armed Services of the Senate;
 
@@ -44,13 +42,13 @@ Link to an amendment published at 87 FR 76989, Dec. 16, 2022.
 
 *Head of the agency* means, for DoD, the Secretary of Defense, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force. Subject to the direction of the Secretary of Defense, the Under Secretary of Defense (Acquisition, Technology, and Logistics), and the Director of Defense Procurement and Acquisition Policy, the directors of the defense agencies have been delegated authority to act as head of the agency for their respective agencies (i.e., to perform functions under the FAR or DFARS reserved to a head of agency or agency head), except for such actions that by terms of statute, or any delegation, must be exercised within the Office of the Secretary of Defense. (For emergency acquisition flexibilities, *see* 218.270.)
 
-*Major defense acquisition program* is defined in 10.U.S.C. 2430(a).
+*Major defense acquisition program* is defined in 10 U.S.C. 4201.
 
-*Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 2431a).
+*Milestone decision authority,* with respect to a major defense acquisition program, major automated information system, or major system, means the official within the Department of Defense designated with the overall responsibility and authority for acquisition decisions for the program or system, including authority to approve entry of the program or system into the next phase of the acquisition process (10 U.S.C. 4211).
 
 *Non-Government sales* means sales of the supplies or services to non-Governmental entities for purposes other than governmental purposes.
 
-*Nontraditional defense contractor* means an entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 2302(9)).
+*Nontraditional defense contractor* means an entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 3014).
 
 *Obsolete electronic part* means an electronic part that is no longer available from the original manufacturer or an authorized aftermarket manufacturer.
 
@@ -68,7 +66,7 @@ Link to an amendment published at 87 FR 76989, Dec. 16, 2022.
 
 *Original manufacturer* means the original component manufacturer, the original equipment manufacturer, or the contract manufacturer.
 
-*Procedures, Guidance, and Information (PGI)* means a companion resource to the DFARS that -
+*Procedures, Guidance, and Information (PGI)* means a companion resource to the DFARS that—
 
 (1) Contains mandatory internal DoD procedures. The DFARS will direct compliance with mandatory procedures using imperative language such as “Follow the procedures at \* \* \*” or similar directive language;
 
@@ -78,15 +76,15 @@ Link to an amendment published at 87 FR 76989, Dec. 16, 2022.
 
 (4) Is available electronically at *http://www.acq.osd.mil/dpap/dars/index.htm.*
 
-*Senior procurement executive* means, for DoD -
+*Senior procurement executive* means, for DoD—
 
-Department of Defense (including the defense agencies) - Under Secretary of Defense (Acquisition, Technology, and Logistics);
+Department of Defense (including the defense agencies)—Under Secretary of Defense (Acquisition, Technology, and Logistics);
 
-Department of the Army - Assistant Secretary of the Army (Acquisition, Logistics and Technology);
+Department of the Army—Assistant Secretary of the Army (Acquisition, Logistics and Technology);
 
-Department of the Navy - Assistant Secretary of the Navy (Research, Development and Acquisition);
+Department of the Navy—Assistant Secretary of the Navy (Research, Development and Acquisition);
 
-Department of the Air Force - Assistant Secretary of the Air Force (Acquisition).
+Department of the Air Force—Assistant Secretary of the Air Force (Acquisition).
 
 The directors of the defense agencies have been delegated authority to act as senior procurement executive for their respective agencies, except for such actions that by terms of statute, or any delegation, must be exercised by the Under Secretary of Defense (Acquisition, Technology, and Logistics).
 
@@ -94,7 +92,7 @@ The directors of the defense agencies have been delegated authority to act as se
 
 *Suspect counterfeit electronic part* means an electronic part for which credible evidence (including, but not limited to, visual inspection or testing) provides reasonable doubt that the electronic part is authentic.
 
-*Tiered evaluation of offers*, also known as *cascading evaluation of offers*, means a procedure used in negotiated acquisitions, when market research is inconclusive for justifying limiting competition to small business concerns, whereby the contracting officer -
+*Tiered evaluation of offers*, also known as *cascading evaluation of offers*, means a procedure used in negotiated acquisitions, when market research is inconclusive for justifying limiting competition to small business concerns, whereby the contracting officer—
 
 (1) Solicits and receives offers from both small and other than small business concerns;
 

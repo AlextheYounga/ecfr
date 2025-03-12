@@ -1,10 +1,8 @@
 ##### 3.104-1 Definitions. #####
 
-Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
+As used in this section—
 
-As used in this section -
-
-*Agency ethics official* means the designated agency ethics official described in 5 CFR 2638.201 or other designated person, including -
+*Agency ethics official* means the designated agency ethics official described in 5 CFR 2638.201 or other designated person, including—
 
 (1) Deputy ethics officials described in 5 CFR 2638.204, to whom authority under 3.104-6 has been delegated by the designated agency ethics official; and
 
@@ -14,7 +12,7 @@ As used in this section -
 
 *Contractor bid or proposal information* means any of the following information submitted to a Federal agency as part of or in connection with a bid or proposal to enter into a Federal agency procurement contract, if that information has not been previously made available to the public or disclosed publicly:
 
-(1) Cost or pricing data (as defined by 10 U.S.C. 2306a(h)(1)) with respect to procurements subject to that section, and 41 U.S.C. 3501(a)(1), with respect to procurements subject to that section.
+(1) Cost or pricing data (as defined by 10 U.S.C. 3701(1)) with respect to procurements subject to that section, and 41 U.S.C. 3501(a)(1), with respect to procurements subject to that section.
 
 (2) Indirect costs and direct labor rates.
 
@@ -28,7 +26,7 @@ As used in this section -
 
 *Federal agency procurement* means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds. For broad agency announcements and small business innovation research programs, each proposal received by an agency constitutes a separate procurement for purposes of 41 U.S.C. chapter 21.
 
-*In excess of $10,000,000* means -
+*In excess of $10,000,000* means—
 
 (1) The value, or estimated value, at the time of award, of the contract, including all options;
 
@@ -42,7 +40,7 @@ As used in this section -
 
 (6) The estimated monetary value of negotiated overhead or other rates when applied to the Government portion of the applicable allocation base.
 
-*Official* means -
+*Official* means—
 
 (1) An officer, as defined in 5 U.S.C. 2104;
 
@@ -52,7 +50,7 @@ As used in this section -
 
 (4) A special Government employee, as defined in 18 U.S.C. 202.
 
-*Participating personally and substantially in a Federal agency procurement* means -
+*Participating personally and substantially in a Federal agency procurement* means—
 
 (1) Active and significant involvement of an official in any of the following activities directly related to that procurement:
 
@@ -82,4 +80,4 @@ As used in this section -
 
 *Source selection evaluation board* means any board, team, council, or other group that evaluates bids or proposals.
 
-[67 FR 13059, Mar. 20, 2002, as amended at 75 FR 77745, Dec. 13, 2010; 79 FR 24196, Apr. 29, 2014; 86 FR 61019, Nov. 4, 2021]
+[67 FR 13059, Mar. 20, 2002, as amended at 75 FR 77745, Dec. 13, 2010; 79 FR 24196, Apr. 29, 2014; 86 FR 61019, Nov. 4, 2021; 87 FR 73895, Dec. 1, 2022]

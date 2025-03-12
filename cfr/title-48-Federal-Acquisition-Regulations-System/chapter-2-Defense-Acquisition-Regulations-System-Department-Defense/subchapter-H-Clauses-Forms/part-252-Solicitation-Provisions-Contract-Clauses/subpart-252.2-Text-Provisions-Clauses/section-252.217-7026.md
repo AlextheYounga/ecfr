@@ -1,12 +1,10 @@
-##### 252.217-7026 Identification of sources of supply. #####
-
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+##### 252.217-7026 Identification of Sources of Supply. #####
 
 As prescribed in 217.7303, use the following provision:
 
-Identification of Sources of Supply (NOV 1995)
+Identification of Sources of Supply (DEC 2022)
 
-(a) The Government is required under 10 U.S.C. 2384 to obtain certain information on the actual manufacturer or sources of supplies it acquires.
+(a) The Government is required under 10 U.S.C. 4753 to obtain certain information on the actual manufacturer or sources of supplies it acquires.
 
 (b) The apparently successful Offeror agrees to complete and submit the following table before award:
 
@@ -30,4 +28,4 @@ Table
 
 (6) Use “Y” if the source of supply is the actual manufacturer; “N” if it is not; and “U” if unknown.
 
-(End of provision)[56 FR 36479, July 31, 1991, as amended at 59 FR 27675, May 27, 1994; 60 FR 61601, Nov. 30, 1995]
+(End of provision)[56 FR 36479, July 31, 1991, as amended at 59 FR 27675, May 27, 1994; 60 FR 61601, Nov. 30, 1995; 87 FR 76997, Dec. 16, 2022]

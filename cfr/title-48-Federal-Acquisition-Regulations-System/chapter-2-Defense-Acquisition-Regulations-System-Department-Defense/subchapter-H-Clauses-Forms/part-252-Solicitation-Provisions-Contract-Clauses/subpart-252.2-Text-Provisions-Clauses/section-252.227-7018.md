@@ -1,10 +1,8 @@
-##### 252.227-7018 Rights in noncommercial technical data and computer software - Small Business Innovation Research (SBIR) Program. #####
-
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+##### 252.227-7018 Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program. #####
 
 As prescribed in 227.7104(a), use the following clause:
 
-Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program (FEB 2014)
+Rights in Noncommercial Technical Data and Computer Software - Small Business Innovation Research (SBIR) Program (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -256,7 +254,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (ii) Does not include the reasonable costs of reproducing, handling, or mailing the documents or other media in which the technical data or computer software will be delivered.
 
-(k) *Applicability to subcontractors or suppliers.* (1) the Contractor shall assure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 2320, 10 U.S.C. 2321, and the identification, assertion, and delivery processes required by paragraph (e) of this clause are recognized and protected.
+(k) *Applicability to subcontractors or suppliers.* (1) The Contractor shall assure that the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775, 10 U.S.C. 3781-3786, and the identification, assertion, and delivery processes required by paragraph (e) of this clause are recognized and protected.
 
 (2) Whenever any noncommercial technical data or computer software is to be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. The Contractor shall use the Technical Data - Commercial Items clause of this contract to obtain technical data pertaining to commercial items, components, or processes. No other clause shall be used to enlarge or diminish the Government's, the Contractor's, or a higher tier subcontractor's or supplier's rights in a subcontractor's or supplier's technical data or computer software.
 
@@ -276,4 +274,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (3) This limitation on the Government's right to publish for sale shall continue as long as the technical data or computer software are reasonably available to the public for purchase.
 
-[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014]
+[60 FR 33499, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 76 FR 3538, Jan. 20, 2011; 76 FR 11369, Mar. 2, 2011; 78 FR 30239, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 76997, Dec. 16, 2022]

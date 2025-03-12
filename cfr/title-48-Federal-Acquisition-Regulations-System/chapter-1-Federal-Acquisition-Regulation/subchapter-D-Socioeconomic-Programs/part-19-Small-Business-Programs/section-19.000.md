@@ -1,8 +1,6 @@
 ##### 19.000 Scope of part. #####
 
-Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
-
-(a) This part implements the acquisition-related sections of the Small Business Act (15 U.S.C. 631, *et seq.*), applicable sections of the Armed Services Procurement Act (10 U.S.C. 2302, *et seq.*), 41 U.S.C. 3104, and Executive Order 12138, May 18, 1979. It covers -
+(a) This part implements the acquisition-related sections of the Small Business Act (15 U.S.C. 631, *et seq.*), applicable sections of the Armed Services Procurement Act (10 U.S.C. 3063-3064 and 3203), 41 U.S.C. 3104, and Executive Order 12138, May 18, 1979. It covers—
 
 (1) The determination that a concern is eligible for participation in the programs identified in this part;
 
@@ -24,7 +22,7 @@ Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
 
 (10) The use of reserves.
 
-(b)(1) Unless otherwise specified in this part (see subparts 19.6 and 19.7) -
+(b)(1) Unless otherwise specified in this part (see subparts 19.6 and 19.7)—
 
 (i) Contracting officers shall apply this part in the United States and its outlying areas; and
 
@@ -32,4 +30,4 @@ Link to an amendment published at 87 FR 73898, Dec. 1, 2022.
 
 (2) Offerors that participate in any procurement under this part are required to meet the definition of “small business concern” at 2.101 and the definition of “concern” at 19.001.
 
-[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.000, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[48 FR 42240, Sept. 19, 1983]Editorial Note:For Federal Register citations affecting section 19.000, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.govinfo.gov.

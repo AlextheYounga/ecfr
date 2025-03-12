@@ -1,10 +1,8 @@
-##### 252.227-7015 Technical data - Commercial items. #####
-
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+##### 252.227-7015 Technical Data - Commercial Items. #####
 
 As prescribed in 227.7102-4(a)(1), use the following clause:
 
-Technical Data - Commercial Items (FEB 2014)
+Technical Data - Commercial Items (DEC 2022)
 
 (a) *Definitions.* As used in this clause -
 
@@ -54,7 +52,7 @@ Technical Data - Commercial Items (FEB 2014)
 
 (d) *Release from liability.* The Contractor agrees that the Government, and other persons to whom the Government may have released or disclosed technical data delivered or otherwise furnished under this contract, shall have no liability for any release or disclosure of technical data that are not marked to indicate that such data are licensed data subject to use, modification, reproduction, release, performance, display, or disclosure restrictions.
 
-(e) *Applicability to subcontractors or suppliers.* (1) The Contractor shall recognize and protect the rights afforded its subcontractors and suppliers under 10 U.S.C. 2320 and 10 U.S.C. 2321.
+(e) *Applicability to subcontractors or suppliers.* (1) The Contractor shall recognize and protect the rights afforded its subcontractors and suppliers under 10 U.S.C. 3771-3775 and 10 U.S.C. 3781-3786.
 
 (2) Whenever any technical data related to commercial items developed in any part at private expense will be obtained from a subcontractor or supplier for delivery to the Government under this contract, the Contractor shall use this same clause in the subcontract or other contractual instrument, including subcontracts and other contractual instruments for commercial items, and require its subcontractors or suppliers to do so, without alteration, except to identify the parties. This clause will govern the technical data pertaining to any portion of a commercial item that was developed exclusively at private expense, and the clause at 252.227-7013 will govern the technical data pertaining to any portion of a commercial item that was developed in any part at Government expense.
 
@@ -66,4 +64,4 @@ Technical Data - Commercial Items (FEB 2014)
 
 (b)(4) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022]
+[60 FR 33497, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61045, Nov. 23, 2009; 76 FR 11368, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 76 FR 76320, Dec. 7, 2011; 78 FR 30239, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022]

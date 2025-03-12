@@ -1,12 +1,10 @@
 ##### 215.101-2-70 Limitations and prohibitions. #####
 
-Link to an amendment published at 87 FR 76992, Dec. 16, 2022.
-
 The following limitations and prohibitions apply when considering the use of the lowest price technically acceptable source selection procedures.
 
 (a) *Limitations.*
 
-(1) In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328) as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note), the lowest price technically acceptable source selection process shall only be used when -
+(1) In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328) as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 3241 note prec.), the lowest price technically acceptable source selection process shall only be used when—
 
 (i) Minimum requirements can be described clearly and comprehensively and expressed in terms of performance objectives, measures, and standards that will be used to determine the acceptability of offers;
 
@@ -24,7 +22,7 @@ The following limitations and prohibitions apply when considering the use of the
 
 (viii) The contracting officer documents the contract file describing the circumstances justifying the use of the lowest price technically acceptable source selection process.
 
-(2) In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017, as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 2305 note), contracting officers shall avoid, to the maximum extent practicable, using the lowest price technically acceptable source selection process in the case of a procurement that is predominately for the acquisition of -
+(2) In accordance with section 813 of the National Defense Authorization Act for Fiscal Year 2017, as amended by section 822 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91) (see 10 U.S.C. 3241 note prec.), contracting officers shall avoid, to the maximum extent practicable, using the lowest price technically acceptable source selection process in the case of a procurement that is predominately for the acquisition of—
 
 (i) Information technology services, cybersecurity services, systems engineering and technical assistance services, advanced electronic testing, or other knowledge-based professional services;
 
@@ -34,10 +32,10 @@ The following limitations and prohibitions apply when considering the use of the
 
 (b) *Prohibitions.*
 
-(1) In accordance with section 814 of the National Defense Authorization Act for Fiscal Year 2017 as amended by section 882 of the National Defense Authorization Act for Fiscal Year 2018 (see 10 U.S.C. 2302 note), contracting officers shall not use the lowest price technically acceptable source selection process to procure items designated by the requiring activity as personal protective equipment or an aviation critical safety item, when the requiring activity advises the contracting officer that the level of quality or failure of the equipment or item could result in combat casualties. See 252.209-7010 for the definition and identification of critical safety items.
+(1) In accordance with section 814 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328) as amended by section 882 of the National Defense Authorization Act for Fiscal Year 2018 (Pub. L. 115-91), contracting officers shall not use the lowest price technically acceptable source selection process to procure items designated by the requiring activity as personal protective equipment or an aviation critical safety item, when the requiring activity advises the contracting officer that the level of quality or failure of the equipment or item could result in combat casualties. See 252.209-7010 for the definition and identification of critical safety items.
 
-(2) In accordance with section 832 of the National Defense Authorization Act for Fiscal Year 2018 (see 10 U.S.C. 2442 note), contracting officers shall not use the lowest price technically acceptable source selection process to acquire engineering and manufacturing development for a major defense acquisition program for which budgetary authority is requested beginning in fiscal year 2019.
+(2) In accordance with section 832 of the National Defense Authorization Act for Fiscal Year 2018 (see 10 U.S.C. 4232), contracting officers shall not use the lowest price technically acceptable source selection process to acquire engineering and manufacturing development for a major defense acquisition program for which budgetary authority is requested beginning in fiscal year 2019.
 
-(3) Contracting officers shall make award decisions based on best value factors and criteria, as determined by the resource sponsor (in accordance with agency procedures), for an auditing contract. The use of the lowest price technically acceptable source selection process is prohibited (10 U.S.C. 254b).
+(3) Contracting officers shall make award decisions based on best value factors and criteria, as determined by the resource sponsor (in accordance with agency procedures), for an auditing contract. The use of the lowest price technically acceptable source selection process is prohibited (10 U.S.C. 240f).
 
-[84 FR 50788, Sept. 26, 2019]
+[84 FR 50788, Sept. 26, 2019, as amended at 87 FR 76992, Dec. 16, 2022]

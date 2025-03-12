@@ -1,14 +1,12 @@
-##### 252.215-7016 Notification to Offerors - Postaward Debriefings. #####
-
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
+##### 252.215-7016 Notification to Offerors—Postaward Debriefings. #####
 
 As prescribed in 215.570, use the following provision:
 
-Notification to Offerors - Postaward Debriefings (MAR 2022)
+Notification to Offerors—Postaward Debriefings (DEC 2022)
 
-(a) *Definition.* As used in this provision -
+(a) *Definition.* As used in this provision—
 
-*Nontraditional defense contractor* means an entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 2302(9)).
+*Nontraditional defense contractor* means an entity that is not currently performing and has not performed any contract or subcontract for DoD that is subject to full coverage under the cost accounting standards prescribed pursuant to 41 U.S.C. 1502 and the regulations implementing such section, for at least the 1-year period preceding the solicitation of sources by DoD for the procurement (10 U.S.C. 3014).
 
 (b) *Postaward debriefing.*
 
@@ -20,13 +18,13 @@ Notification to Offerors - Postaward Debriefings (MAR 2022)
 
 (ii) For contracts in excess of $100 million, disclosure of the agency's written source selection decision document, redacted to protect the confidential and proprietary information of other offerors for the contract award.
 
-(3) If a required postaward debriefing is provided -
+(3) If a required postaward debriefing is provided—
 
 (i) The debriefed Offeror may submit additional written questions related to the debriefing not later than 2 business days after the date of the debriefing;
 
 (ii) The agency will respond in writing to timely submitted additional questions within 5 business days after receipt by the contracting officer; and
 
-(iii) The postaward debriefing will not be considered to be concluded until the later of -
+(iii) The postaward debriefing will not be considered to be concluded until the later of—
 
 (A) The date that the postaward debriefing is delivered, orally or in writing; or
 
@@ -40,4 +38,4 @@ Notification to Offerors - Postaward Debriefings (MAR 2022)
 
 (3) Within 5 days after a postaward debriefing under FAR 15.506 is concluded in accordance with Defense Federal Acquisition Regulation Supplement 215.506-70(b).
 
-(End of provision)[87 FR 15811, Mar. 18, 2022]
+(End of provision)[87 FR 15811, Mar. 18, 2022, as amended at 87 FR 76997, Dec. 16, 2022]

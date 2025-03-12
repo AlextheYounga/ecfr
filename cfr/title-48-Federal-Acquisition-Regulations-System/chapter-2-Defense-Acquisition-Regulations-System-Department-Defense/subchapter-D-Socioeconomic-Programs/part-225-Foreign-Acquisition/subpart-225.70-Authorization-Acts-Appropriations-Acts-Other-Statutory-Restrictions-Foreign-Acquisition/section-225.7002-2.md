@@ -1,10 +1,8 @@
 ##### 225.7002-2 Exceptions. #####
 
-Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
-
 Acquisitions in the following categories are not subject to the restrictions in 225.7002-1:
 
-(a) Acquisitions not exceeding $150,000, except for athletic footwear purchased by DoD for use by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the Armed Forces (section 817 of the National Defense Authorization Act for Fiscal Year 2017 (Pub. L. 114-328)).
+(a) Acquisitions not exceeding $150,000, except for athletic footwear purchased by DoD for use by members of the Army, Navy, Air Force, or Marine Corps upon their initial entry into the Armed Forces (37 U.S.C. 418(b)(4)).
 
 (b) Acquisitions of any of the items in 225.7002-1, if the Secretary concerned determines that items grown, reprocessed, reused, or produced in the United States cannot be acquired as and when needed in a satisfactory quality and sufficient quantity at U.S. market prices. (*See* the requirement in 205.301 for synopsis within 7 days after contract award when using this exception.)
 
@@ -68,6 +66,6 @@ Acquisitions in the following categories are not subject to the restrictions in 
 
 (n) Acquisitions of chemical warfare protective clothing when the acquisition furthers an agreement with a qualifying country. (See 225.003(10) and the requirement in 205.301 for synopsis within 7 days after contract award when using this exception.)
 
-(o) Acquisitions that are interagency, State, or local purchases that are executed by DoD as a result of the transfer of contracts from the General Services Administration or for which DoD serves as an item manager for products on behalf of the General Services Administration. According to section 897 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), such contracts shall not be subject to requirements under chapter 148 of title 10, United States Code (including 10 U.S.C. 2533a), to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.
+(o) Acquisitions that are interagency, State, or local purchases that are executed by DoD as a result of the transfer of contracts from the General Services Administration or for which DoD serves as an item manager for products on behalf of the General Services Administration. According to section 897 of the National Defense Authorization Act for Fiscal Year 2016 (Pub. L. 114-92), such contracts shall not be subject to requirements under subchapter II of chapter 385 (including 10 U.S.C. 4862), to the extent such contracts are for purchases of products by other Federal agencies or State or local governments.
 
-[67 FR 20697, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 70 FR 43073, July 26, 2005; 71 FR 34833, June 16, 2006; 71 FR 58537, Oct. 4, 2006; 72 FR 20765, Apr. 26, 2007; 72 FR 63123, Nov. 8, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 74 FR 37636, July 29, 2009; 74 FR 52896, Oct. 15, 2009; 75 FR 34945, June 21, 2010; 76 FR 14589, Mar. 17, 2011; 76 FR 52133, \>Aug. 19, 2011; 80 FR 36718, June 26, 2015; 80 FR 51749, Aug. 26, 2015; 81 FR 42562, June 30, 2016; 83 FR 65562, Dec. 21, 2018; 85 FR 61501, Sept. 29, 2020; 87 FR 25147, Apr. 28, 2022]
+[67 FR 20697, Apr. 26, 2002, as amended at 68 FR 7442, Feb. 14, 2003; 69 FR 26509, May 13, 2004; 69 FR 31910, June 8, 2004; 70 FR 43073, July 26, 2005; 71 FR 34833, June 16, 2006; 71 FR 58537, Oct. 4, 2006; 72 FR 20765, Apr. 26, 2007; 72 FR 63123, Nov. 8, 2007; 73 FR 11356, Mar. 3, 2008; 73 FR 76971, Dec. 18, 2008; 74 FR 37636, July 29, 2009; 74 FR 52896, Oct. 15, 2009; 75 FR 34945, June 21, 2010; 76 FR 14589, Mar. 17, 2011; 76 FR 52133, \>Aug. 19, 2011; 80 FR 36718, June 26, 2015; 80 FR 51749, Aug. 26, 2015; 81 FR 42562, June 30, 2016; 83 FR 65562, Dec. 21, 2018; 85 FR 61501, Sept. 29, 2020; 87 FR 25147, Apr. 28, 2022; 87 FR 76994, Dec. 16, 2022]

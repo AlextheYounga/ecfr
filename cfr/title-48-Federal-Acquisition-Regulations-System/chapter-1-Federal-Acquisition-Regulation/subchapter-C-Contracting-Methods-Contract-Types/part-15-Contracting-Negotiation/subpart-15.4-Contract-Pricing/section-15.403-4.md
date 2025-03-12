@@ -1,6 +1,4 @@
-##### 15.403-4 Requiring certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
-
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+##### 15.403-4 Requiring certified cost or pricing data (10 U.S.C. chapter 271 and 41 U.S.C. chapter 35). #####
 
 (a)(1) The contracting officer shall obtain certified cost or pricing data only if the contracting officer concludes that none of the exceptions in 15.403-1(b) applies. However, if the contracting officer has reason to believe exceptional circumstances exist and has sufficient data available to determine a fair and reasonable price, then the contracting officer should consider requesting a waiver under the exception at 15.403-1(b)(4). The threshold for obtaining certified cost or pricing data is $750,000 for prime contracts awarded before July 1, 2018, and $2 million for prime contracts awarded on or after July 1, 2018. When a clause refers to this threshold, and if the threshold is adjusted for inflation pursuant to 1.109(a), then pursuant to 1.109(d) the changed threshold applies throughout the remaining term of the contract, unless there is a subsequent threshold adjustment. Unless an exception applies, certified cost or pricing data are required before accomplishing any of the following actions expected to exceed the current threshold or, in the case of existing contracts, the threshold specified in the contract:
 
@@ -9,7 +7,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 (ii) The award of a subcontract at any tier, if the contractor and each higher-tier subcontractor were required to furnish certified cost or pricing data (but see waivers at 15.403-1(c)(4)).
 
 (iii) The modification of any sealed bid or negotiated contract (whether or not certified cost or pricing data were initially required) or any subcontract covered by paragraph (a)(1)(ii) of this subsection. Price adjustment amounts must consider both increases and decreases (*e.g.,* a $500,000 modification resulting from a reduction of $1,500,000 and an increase of $1,000,000 is a $2,500,000 pricing adjustment exceeding the $2,000,000 threshold).
-This requirement does not apply when unrelated and separately priced changes for which certified cost or pricing data would not otherwise be required are included for administrative convenience in the same modification. Negotiated final pricing actions (such as termination settlements and total final price agreements for fixed-price incentive and redeterminable contracts) are contract modifications requiring certified cost or pricing data if -
+This requirement does not apply when unrelated and separately priced changes for which certified cost or pricing data would not otherwise be required are included for administrative convenience in the same modification. Negotiated final pricing actions (such as termination settlements and total final price agreements for fixed-price incentive and redeterminable contracts) are contract modifications requiring certified cost or pricing data if—
 
 (A) The total final price agreement for such settlements or agreements exceeds the pertinent threshold set forth at paragraph (a)(1) of this subsection; or
 

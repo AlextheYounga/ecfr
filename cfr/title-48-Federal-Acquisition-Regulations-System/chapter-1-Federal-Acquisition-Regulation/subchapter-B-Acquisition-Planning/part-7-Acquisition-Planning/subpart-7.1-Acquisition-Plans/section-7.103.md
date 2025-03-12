@@ -1,15 +1,12 @@
 ##### 7.103 Agency-head responsibilities. #####
 
-Link to an amendment published at 87 FR 73896, Dec. 1, 2022.
-
 The agency head or a designee shall prescribe procedures for the following:
 
-(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A)
-and 41 U.S.C. 3306(a)(1)).
+(a) Promoting and providing for full and open competition (see part 6) or, when full and open competition is not required in accordance with part 6, for obtaining competition to the maximum extent practicable, with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1)and 41 U.S.C. 3306(a)(1)).
 
-(b) Encouraging offerors to supply commercial products or commercial services, or to the extent that commercial products suitable to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (10 U.S.C. 2377 and 41 U.S.C 3307).
+(b) Encouraging offerors to supply commercial products or commercial services, or to the extent that commercial products suitable to meet the agency needs are not available, nondevelopmental items in response to agency solicitations (10 U.S.C. 3453 and 41 U.S.C 3307).
 
-(c) Ensuring that acquisition planners address the requirement to specify needs, develop specifications, and to solicit offers in such a manner to promote and provide for full and open competition with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 2305(a)(1)(A) and 41 U.S.C. 3306(a)(1)). (See part 6 and 10.002.)
+(c) Ensuring that acquisition planners address the requirement to specify needs, develop specifications, and to solicit offers in such a manner to promote and provide for full and open competition with due regard to the nature of the supplies and services to be acquired (10 U.S.C. 3206(a)(1) and 41 U.S.C. 3306(a)(1)). (See part 6 and 10.002.)
 
 (d) Ensuring that acquisition planners document the file to support the selection of the contract type in accordance with subpart 16.1.
 
@@ -39,7 +36,7 @@ and 41 U.S.C. 3306(a)(1)).
 
 (o) Ensuring that agency planners include use of the metric system of measurement in proposed acquisitions in accordance with 15 U.S.C. 205b (see 11.002(b)) and agency metric plans and guidelines.
 
-(p) Ensuring that agency planners -
+(p) Ensuring that agency planners—
 
 (1) Specify needs for printing and writing paper consistent with the 30 percent postconsumer fiber minimum content standards specified in section 2(d)(ii) of Executive Order 13423 of January 24, 2007, Strengthening Federal Environmental, Energy, and Transportation Management, and section 2(e)(iv) of Executive Order 13514 of October 5, 2009 (see 11.303);
 
@@ -57,7 +54,7 @@ and 41 U.S.C. 3306(a)(1)).
 
 (t) Ensuring that knowledge gained from prior acquisitions is used to further refine requirements and acquisition strategies. For services, greater use of performance-based acquisition methods should occur for follow-on acquisitions.
 
-(u) Ensuring that acquisition planners, to the maximum extent practicable -
+(u) Ensuring that acquisition planners, to the maximum extent practicable—
 
 (1) Structure contract requirements to facilitate competition by and among small business concerns; and
 

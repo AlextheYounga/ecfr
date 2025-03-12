@@ -1,10 +1,8 @@
-##### 52.212-4 Contract Terms and Conditions - Commercial Products and Commercial Services. #####
-
-Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
+##### 52.212-4 Contract Terms and Conditions—Commercial Products and Commercial Services. #####
 
 As prescribed in 12.301(b)(3), insert the following clause:
 
-Contract Terms and Conditions - Commercial Products and Commercial Services (NOV 2021)
+Contract Terms and Conditions—Commercial Products and Commercial Services (DEC 2022)
 
 (a) *Inspection/Acceptance.* The Contractor shall only tender for acceptance those items that conform to the requirements of this contract. The Government reserves the right to inspect or test any supplies or services that have been tendered for acceptance. The Government may require repair or replacement of nonconforming supplies or reperformance of nonconforming services at no increase in contract price. If repair/replacement or reperformance will not correct the defects or is not possible, the Government may seek an equitable price reduction or adequate consideration for acceptance of nonconforming supplies or services. The Government must exercise its postacceptance rights (1) within a reasonable time after the defect was discovered or should have been discovered; and (2) before any substantial change occurs in the condition of the item, unless the change is due to the defect in the item.
 
@@ -18,7 +16,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (f) *Excusable delays.* The Contractor shall be liable for default unless nonperformance is caused by an occurrence beyond the reasonable control of the Contractor and without its fault or negligence such as, acts of God or the public enemy, acts of the Government in either its sovereign or contractual capacity, fires, floods, epidemics, quarantine restrictions, strikes, unusually severe weather, and delays of common carriers. The Contractor shall notify the Contracting Officer in writing as soon as it is reasonably possible after the commencement of any excusable delay, setting forth the full particulars in connection therewith, shall remedy such occurrence with all reasonable dispatch, and shall promptly give written notice to the Contracting Officer of the cessation of such occurrence.
 
-(g) *Invoice.* (1) The Contractor shall submit an original invoice and three copies (or electronic invoice, if authorized) to the address designated in the contract to receive invoices. An invoice must include -
+(g) *Invoice.* (1) The Contractor shall submit an original invoice and three copies (or electronic invoice, if authorized) to the address designated in the contract to receive invoices. An invoice must include—
 
 (i) Name and address of the Contractor;
 
@@ -42,7 +40,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (A) The Contractor shall include EFT banking information on the invoice only if required elsewhere in this contract.
 
-(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision, contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer - System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer - Other Than System for Award Management), or applicable agency procedures.
+(B) If EFT banking information is not required to be on the invoice, in order for the invoice to be a proper invoice, the Contractor shall have submitted correct EFT banking information in accordance with the applicable solicitation provision, contract clause (*e.g.,* 52.232-33, Payment by Electronic Funds Transfer— System for Award Management, or 52.232-34, Payment by Electronic Funds Transfer—Other Than System for Award Management), or applicable agency procedures.
 
 (C) EFT banking information is not required if the Government waived the requirement to pay by EFT.
 
@@ -50,7 +48,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (h) *Patent indemnity.* The Contractor shall indemnify the Government and its officers, employees and agents against liability, including costs, for actual or alleged direct or contributory infringement of, or inducement to infringe, any United States or foreign patent, trademark or copyright, arising out of the performance of this contract, provided the Contractor is reasonably notified of such claims and proceedings.
 
-(i) *Payment* - (1) *Items accepted.* Payment shall be made for items accepted by the Government that have been delivered to the delivery destinations set forth in this contract.
+(i) *Payment*—(1) *Items accepted.* Payment shall be made for items accepted by the Government that have been delivered to the delivery destinations set forth in this contract.
 
 (2) *Prompt payment.* The Government will make payment in accordance with the Prompt Payment Act (31 U.S.C. 3903) and prompt payment regulations at 5 CFR part 1315.
 
@@ -58,9 +56,9 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (4) *Discount.* In connection with any discount offered for early payment, time shall be computed from the date of the invoice. For the purpose of computing the discount earned, payment shall be considered to have been made on the date which appears on the payment check or the specified payment date if an electronic funds transfer payment is made.
 
-(5) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall -
+(5) *Overpayments.* If the Contractor becomes aware of a duplicate contract financing or invoice payment or that the Government has otherwise overpaid on a contract financing or invoice payment, the Contractor shall—
 
-(i) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(i) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (A) Circumstances of the overpayment (*e.g.*, duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
@@ -76,7 +74,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (ii) The Government may issue a demand for payment to the Contractor upon finding a debt is due under the contract.
 
-(iii) *Final decisions.* The Contracting Officer will issue a final decision as required by 33.211 if -
+(iii) *Final decisions.* The Contracting Officer will issue a final decision as required by 33.211 if—
 
 (A) The Contracting Officer and the Contractor are unable to reach agreement on the existence or amount of a debt within 30 days;
 
@@ -92,7 +90,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (B) The date of the first written demand for payment, including any demand for payment resulting from a default termination.
 
-(vi) The interest charge shall be computed for the actual number of calendar days involved beginning on the due date and ending on -
+(vi) The interest charge shall be computed for the actual number of calendar days involved beginning on the due date and ending on—
 
 (A) The date on which the designated office receives payment from the Contractor;
 
@@ -122,7 +120,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (q) *Other compliances.* The Contractor shall comply with all applicable Federal, State and local laws, executive orders, rules and regulations applicable to its performance under this contract.
 
-(r) *Compliance with laws unique to Government contracts.* The Contractor agrees to comply with 31 U.S.C. 1352 relating to limitations on the use of appropriated funds to influence certain Federal contracts; 18 U.S.C. 431 relating to officials not to benefit; 40 U.S.C. chapter 37, Contract Work Hours and Safety Standards; 41 U.S.C. chapter 87, Kickbacks; 41 U.S.C. 4712 and 10 U.S.C. 2409 relating to whistleblower protections; 49 U.S.C. 40118, Fly American; and 41 U.S.C. chapter 21 relating to procurement integrity.
+(r) *Compliance with laws unique to Government contracts.* The Contractor agrees to comply with 31 U.S.C. 1352 relating to limitations on the use of appropriated funds to influence certain Federal contracts; 18 U.S.C. 431 relating to officials not to benefit; 40 U.S.C. chapter 37, Contract Work Hours and Safety Standards; 41 U.S.C. chapter 87, Kickbacks; 41 U.S.C. 4712 and 10 U.S.C. 4701 relating to whistleblower protections; 49 U.S.C. 40118, Fly American; and 41 U.S.C. chapter 21 relating to procurement integrity.
 
 (s) *Order of precedence.* Any inconsistencies in this solicitation or contract shall be resolved by giving precedence in the following order: (1) the schedule of supplies/services; (2) The Assignments, Disputes, Payments, Invoice, Other Compliances, Compliance with Laws Unique to Government Contracts, and Unauthorized Obligations paragraphs of this clause; (3) the clause at 52.212-5; (4) addenda to this solicitation or contract, including any license agreements for computer software; (5) solicitation provisions if this is a solicitation; (6) other paragraphs of this clause; (7) the Standard Form 1449; (8) other documents, exhibits, and attachments; and (9) the specification.
 
@@ -152,7 +150,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (4) At any time during contract performance, but not later than 6 months (or such other time as may be specified in the contract) after acceptance of the services or materials last delivered under this contract, the Government may require the Contractor to replace or correct services or materials that at time of delivery failed to meet contract requirements. Except as otherwise specified in paragraph (a)(6) of this clause, the cost of replacement or correction shall be determined under paragraph (i) of this clause, but the “hourly rate” for labor hours incurred in the replacement or correction shall be reduced to exclude that portion of the rate attributable to profit. Unless otherwise specified below, the portion of the “hourly rate” attributable to profit shall be 10 percent. The Contractor shall not tender for acceptance materials and services required to be replaced or corrected without disclosing the former requirement for replacement or correction, and, when required, shall disclose the corrective action taken. [*Insert portion of labor rate attributable to profit.*]
 
-(5)(i) If the Contractor fails to proceed with reasonable promptness to perform required replacement or correction, and if the replacement or correction can be performed within the ceiling price (or the ceiling price as increased by the Government), the Government may -
+(5)(i) If the Contractor fails to proceed with reasonable promptness to perform required replacement or correction, and if the replacement or correction can be performed within the ceiling price (or the ceiling price as increased by the Government), the Government may—
 
 (A) By contract or otherwise, perform the replacement or correction, charge to the Contractor any increased cost, or deduct such increased cost from any amounts paid or due under this contract; or
 
@@ -160,7 +158,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (ii) Failure to agree to the amount of increased cost to be charged to the Contractor shall be a dispute under the Disputes clause of the contract.
 
-(6) Notwithstanding paragraphs (a)(4) and (5) above, the Government may at any time require the Contractor to remedy by correction or replacement, without cost to the Government, any failure by the Contractor to comply with the requirements of this contract, if the failure is due to -
+(6) Notwithstanding paragraphs (a)(4) and (5) above, the Government may at any time require the Contractor to remedy by correction or replacement, without cost to the Government, any failure by the Contractor to comply with the requirements of this contract, if the failure is due to—
 
 (i) Fraud, lack of good faith, or willful misconduct on the part of the Contractor's managerial personnel; or
 
@@ -172,11 +170,11 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (9) Unless otherwise specified in the contract, the Contractor's obligation to correct or replace Government-furnished property shall be governed by the clause pertaining to Government property.
 
-(e) *Definitions.* (1) The clause at FAR 52.202-1, Definitions, is incorporated herein by reference. As used in this clause -
+(e) *Definitions.* (1) The clause at FAR 52.202-1, Definitions, is incorporated herein by reference. As used in this clause—
 
 (i) *Direct materials* means those materials that enter directly into the end product, or that are used or consumed directly in connection with the furnishing of the end product or service.
 
-(ii) *Hourly rate* means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are -
+(ii) *Hourly rate* means the rate(s) prescribed in the contract for payment for labor that meets the labor category qualifications of a labor category specified in the contract that are—
 
 (A) Performed by the contractor;
 
@@ -184,7 +182,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (C) Transferred between divisions, subsidiaries, or affiliates of the contractor under a common control.
 
-(iii) *Materials* means -
+(iii) *Materials* means—
 
 (A) Direct materials, including supplies transferred between divisions, subsidiaries, or affiliates of the contractor under a common control;
 
@@ -220,19 +218,19 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (ii) *Materials.*
 
-(A) If the Contractor furnishes materials that meet the definition of a commercial product at FAR 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the -
+(A) If the Contractor furnishes materials that meet the definition of a commercial product at FAR 2.101, the price to be paid for such materials shall not exceed the Contractor's established catalog or market price, adjusted to reflect the—
 
 (*1*) Quantities being acquired; and
 
 (*2*) Any modifications necessary because of contract requirements.
 
-(B) Except as provided for in paragraph (i)(1)(ii)(A) and (D)(2) of this clause, the Government will reimburse the Contractor the actual cost of materials (less any rebates, refunds, or discounts received by the contractor that are identifiable to the contract) provided the Contractor -
+(B) Except as provided for in paragraph (i)(1)(ii)(A) and (D)(2) of this clause, the Government will reimburse the Contractor the actual cost of materials (less any rebates, refunds, or discounts received by the contractor that are identifiable to the contract) provided the Contractor—
 
 (*1*) Has made payments for materials in accordance with the terms and conditions of the agreement or invoice; or
 
 (*2*) Makes these payments within 30 days of the submission of the Contractor's payment request to the Government and such payment is in accordance with the terms and conditions of the agreement or invoice.
 
-(C) To the extent able, the Contractor shall -
+(C) To the extent able, the Contractor shall—
 
 (*1*) Obtain materials at the most advantageous prices available with due regard to securing prompt delivery of satisfactory materials; and
 
@@ -252,7 +250,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (i) Records that verify that the employees whose time has been included in any invoice meet the qualifications for the labor categories specified in the contract;
 
-(ii) For labor hours (including any subcontractor hours reimbursed at the hourly rate in the schedule), when timecards are required as substantiation for payment -
+(ii) For labor hours (including any subcontractor hours reimbursed at the hourly rate in the schedule), when timecards are required as substantiation for payment—
 
 (A) The original timecards (paper-based or electronic);
 
@@ -262,15 +260,15 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (D) Employees whose time has been included in any invoice for the purpose of verifying that these employees have worked the hours shown on the invoices.
 
-(iii) For material and subcontract costs that are reimbursed on the basis of actual cost -
+(iii) For material and subcontract costs that are reimbursed on the basis of actual cost—
 
 (A) Any invoices or subcontract agreements substantiating material costs; and
 
 (B) Any documents supporting payment of those invoices.
 
-(5) *Overpayments/Underpayments.* Each payment previously made shall be subject to reduction to the extent of amounts, on preceding invoices, that are found by the Contracting Officer not to have been properly payable and shall also be subject to reduction for overpayments or to increase for underpayments. The Contractor shall promptly pay any such reduction within 30 days unless the parties agree otherwise. The Government within 30 days will pay any such increases, unless the parties agree otherwise. The Contractor's payment will be made by check. If the Contractor becomes aware of a duplicate invoice payment or that the Government has otherwise overpaid on an invoice payment, the Contractor shall -
+(5) *Overpayments/Underpayments.* Each payment previously made shall be subject to reduction to the extent of amounts, on preceding invoices, that are found by the Contracting Officer not to have been properly payable and shall also be subject to reduction for overpayments or to increase for underpayments. The Contractor shall promptly pay any such reduction within 30 days unless the parties agree otherwise. The Government within 30 days will pay any such increases, unless the parties agree otherwise. The Contractor's payment will be made by check. If the Contractor becomes aware of a duplicate invoice payment or that the Government has otherwise overpaid on an invoice payment, the Contractor shall—
 
-(i) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the -
+(i) Remit the overpayment amount to the payment office cited in the contract along with a description of the overpayment including the—
 
 (A) Circumstances of the overpayment (*e.g.*, duplicate payment, erroneous payment, liquidation errors, date(s) of overpayment);
 
@@ -286,7 +284,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (ii) The Government may issue a demand for payment to the Contractor upon finding a debt is due under the contract.
 
-(iii) *Final Decisions.* The Contracting Officer will issue a final decision as required by 33.211 if -
+(iii) *Final Decisions.* The Contracting Officer will issue a final decision as required by 33.211 if—
 
 (A) The Contracting Officer and the Contractor are unable to reach agreement on the existence or amount of a debt in a timely manner;
 
@@ -302,7 +300,7 @@ Contract Terms and Conditions - Commercial Products and Commercial Services (NOV
 
 (B) The date of the first written demand for payment, including any demand for payment resulting from a default termination.
 
-(vi) The interest charge shall be computed for the actual number of calendar days involved beginning on the due date and ending on -
+(vi) The interest charge shall be computed for the actual number of calendar days involved beginning on the due date and ending on—
 
 (A) The date on which the designated office receives payment from the Contractor;
 

@@ -1,10 +1,8 @@
-##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. 2306a and 41 U.S.C. chapter 35). #####
-
-Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
+##### 15.403-1 Prohibition on obtaining certified cost or pricing data (10 U.S.C. chapter 271and 41 U.S.C. chapter 35). #####
 
 (a) Certified cost or pricing data shall not be obtained for acquisitions at or below the simplified acquisition threshold.
 
-(b) *Exceptions to certified cost or pricing data requirements.* The contracting officer shall not require certified cost or pricing data to support any action (contracts, subcontracts, or modifications) (but may require data other than certified cost or pricing data as defined in FAR 2.101 to support a determination of a fair and reasonable price or cost realism) -
+(b) *Exceptions to certified cost or pricing data requirements.* The contracting officer shall not require certified cost or pricing data to support any action (contracts, subcontracts, or modifications) (but may require data other than certified cost or pricing data as defined in FAR 2.101 to support a determination of a fair and reasonable price or cost realism)—
 
 (1) When the contracting officer determines that prices agreed upon are based on adequate price competition (see standards in paragraph (c)(1) of this subsection);
 
@@ -16,7 +14,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (5) When modifying a contract or subcontract for commercial products or commercial services (see standards in paragraph (c)(3) of this section).
 
-(c) *Standards for exceptions from certified cost or pricing data requirements* - (1) *Adequate price competition.* (i) A price is based on adequate price competition when -
+(c) *Standards for exceptions from certified cost or pricing data requirements*— (1) *Adequate price competition.* (i) A price is based on adequate price competition when—
 
 (A) Two or more responsible offerors, competing independently, submit priced offers that satisfy the Government's expressed requirement;
 
@@ -26,9 +24,9 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (ii) For agencies other than DoD, NASA, and the Coast Guard, a price is also based on adequate price competition when-
 
-(A) There was a reasonable expectation, based on market research or other assessment, that two or more responsible offerors, competing independently, would submit priced offers in response to the solicitation's expressed requirement, even though only one offer is received from a responsible offeror and if -
+(A) There was a reasonable expectation, based on market research or other assessment, that two or more responsible offerors, competing independently, would submit priced offers in response to the solicitation's expressed requirement, even though only one offer is received from a responsible offeror and if—
 
-(*1*) Based on the offer received, the contracting officer can reasonably conclude that the offer was submitted with the expectation of competition, *e.g.,* circumstances indicate that -
+(*1*) Based on the offer received, the contracting officer can reasonably conclude that the offer was submitted with the expectation of competition, *e.g.,* circumstances indicate that—
 
 (*i*) The offeror believed that at least one other offeror was capable of submitting a meaningful offer; and
 
@@ -44,7 +42,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (ii) In accordance with section 41 U.S.C. 3501:
 
-(A) When purchasing services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, they may be considered commercial services (thus meeting the purpose of 41 U.S.C. chapter 35 and 10 U.S.C. 2306a for truth in negotiations) only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price of such services.
+(A) When purchasing services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, they may be considered commercial services (thus meeting the purpose of 41 U.S.C. chapter 35 and 10 U.S.C. chapter 271 for truth in negotiations) only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price of such services.
 
 (B) In order to make this determination, the contracting officer may request the offeror to submit prices paid for the same or similar commercial services under comparable terms and conditions by both Government and commercial customers; and
 
@@ -60,7 +58,7 @@ Link to an amendment published at 87 FR 73897, Dec. 1, 2022.
 
 (iv) Any acquisition for other than commercial products or services treated as commercial products or commercial services at 12.102(f)(1), except sole source contracts greater than $20 million, is exempt from the requirements for certified cost or pricing data (41 U.S.C. 1903).
 
-(4) *Waivers.* The head of the contracting activity (HCA) may, without power of delegation, waive the requirement for submission of certified cost or pricing data in exceptional cases. The authorization for the waiver and the supporting rationale shall be in writing. The HCA may consider waiving the requirement if the price can be determined to be fair and reasonable without submission of certified cost or pricing data. For example, if certified cost or pricing data were furnished on previous production buys and the contracting officer determines such data are sufficient, when combined with updated data, a waiver may be granted. If the HCA has waived the requirement for submission of certified cost or pricing data, the contractor or higher-tier subcontractor to whom the waiver relates shall be considered as having been required to provide certified cost or pricing data. Consequently, award of any lower-tier subcontract expected to exceed the certified cost or pricing data threshold requires the submission of certified cost or pricing data unless -
+(4) *Waivers.* The head of the contracting activity (HCA) may, without power of delegation, waive the requirement for submission of certified cost or pricing data in exceptional cases. The authorization for the waiver and the supporting rationale shall be in writing. The HCA may consider waiving the requirement if the price can be determined to be fair and reasonable without submission of certified cost or pricing data. For example, if certified cost or pricing data were furnished on previous production buys and the contracting officer determines such data are sufficient, when combined with updated data, a waiver may be granted. If the HCA has waived the requirement for submission of certified cost or pricing data, the contractor or higher-tier subcontractor to whom the waiver relates shall be considered as having been required to provide certified cost or pricing data. Consequently, award of any lower-tier subcontract expected to exceed the certified cost or pricing data threshold requires the submission of certified cost or pricing data unless—
 
 (i) An exception otherwise applies to the subcontract; or
 

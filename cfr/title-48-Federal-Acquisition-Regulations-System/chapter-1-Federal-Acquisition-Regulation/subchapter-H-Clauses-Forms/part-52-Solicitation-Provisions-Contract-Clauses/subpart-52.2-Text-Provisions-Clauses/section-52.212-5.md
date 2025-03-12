@@ -1,10 +1,8 @@
 ##### 52.212-5 Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services. #####
 
-Link to an amendment published at 87 FR 73893, Dec. 1, 2022.Link to an amendment published at 87 FR 73901, Dec. 1, 2022.
-
 As prescribed in 12.301(b)(4), insert the following clause:
 
-Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (OCT 2022)
+Contract Terms and Conditions Required To Implement Statutes or Executive Orders - Commercial Products and Commercial Services (DEC 2022)
 
 (a) The Contractor shall comply with the following Federal Acquisition Regulation (FAR) clauses, which are incorporated in this contract by reference, to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services:
 
@@ -22,7 +20,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (b) The Contractor shall comply with the FAR clauses in this paragraph (b) that the Contracting Officer has indicated as being incorporated in this contract by reference to implement provisions of law or Executive orders applicable to acquisitions of commercial products and commercial services: [*Contracting Officer check as appropriate.*]
 
-\_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (JUN 2020), with *Alternate I* (NOV 2021) (41 U.S.C. 4704 and 10 U.S.C. 2402).
+\_\_ (1) 52.203-6, Restrictions on Subcontractor Sales to the Government (JUN 2020), with *Alternate I* (NOV 2021) (41 U.S.C. 4704 and 10 U.S.C. 4655).
 
 \_\_ (2) 52.203-13, Contractor Code of Business Ethics and Conduct (NOV 2021) (41 U.S.C. 3509).
 
@@ -92,7 +90,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (27) 52.222-3, Convict Labor (JUN 2003) (E.O. 11755).
 
-\_\_ (28) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (JAN 2022) (E.O. 13126).
+\_\_ (28) 52.222-19, Child Labor - Cooperation with Authorities and Remedies (DEC 2022) (E.O. 13126).
 
 \_\_ (29) 52.222-21, Prohibition of Segregated Facilities (APR 2015).
 
@@ -154,21 +152,21 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (ii) Alternate I (OCT 2022) of 52.225-1.
 
-\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (OCT 2022) (41 U.S.C. chapter 83, 19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, Pub. L. 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
+\_\_ (49)(i) 52.225-3, Buy American - Free Trade Agreements - Israeli Trade Act (DEC 2022) (19 U.S.C. 3301 note, 19 U.S.C. 2112 note, 19 U.S.C. 3805 note, 19 U.S.C. 4001 note, 19 U.S.C. chapter 29 (sections 4501-4732), Public Law 103-182, 108-77, 108-78, 108-286, 108-302, 109-53, 109-169, 109-283, 110-138, 112-41, 112-42, and 112-43.
 
-\_\_ (ii) Alternate I (JAN 2021) of 52.225-3.
+\_\_ (ii) Alternate I [Reserved].
 
-\_\_ (iii) Alternate II (JAN 2021) of 52.225-3.
+\_\_ (iii) Alternate II (DEC 2022) of 52.225-3.
 
 \_\_ (iv) Alternate III (JAN 2021) of 52.225-3.
 
 \_\_ (v) Alternate IV (OCT 2022) of 52.225-3.
 
-\_\_ (50) 52.225-5, Trade Agreements (OCT 2019) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
+\_\_ (50) 52.225-5, Trade Agreements (DEC 2022) (19 U.S.C. 2501, *et seq.,* 19 U.S.C. 3301 note).
 
 \_\_ (51) 52.225-13, Restrictions on Certain Foreign Purchases (FEB 2021) (E.O.'s, proclamations, and statutes administered by the Office of Foreign Assets Control of the Department of the Treasury).
 
-\_\_ (52) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+\_\_ (52) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
 
 \_\_ (53) 52.226-4, Notice of Disaster or Emergency Area Set-Aside (NOV 2007) (42 U.S.C. 5150).
 
@@ -176,9 +174,9 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_ (55) 52.229-12, Tax on Certain Foreign Procurements (FEB 2021).
 
-\_\_ (56) 52.232-29, Terms for Financing of Purchases of Commercial Products and Commercial Services (NOV 2021) (41 U.S.C.4505, 10 U.S.C. 2307(f)).
+\_\_ (56) 52.232-29, Terms for Financing of Purchases of Commercial Products and Commercial Services (NOV 2021) (41 U.S.C.4505, 10 U.S.C. 3805).
 
-\_\_ (57) 52.232-30, Installment Payments for Commercial Products and Commercial Services (NOV 2021) (41 U.S.C. 4505, 10 U.S.C. 2307(f)).
+\_\_ (57) 52.232-30, Installment Payments for Commercial Products and Commercial Services (NOV 2021) (41 U.S.C. 4505, 10 U.S.C. 3805).
 
 \_\_ (58) 52.232-33, Payment by Electronic Funds Transfer - System for Award Management (OCT 2018) (31 U.S.C. 3332).
 
@@ -268,7 +266,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 (B) Alternate I (JAN 2017) of 52.224-3.
 
-(xx) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(xx) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
 
 (xxi) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 
@@ -280,7 +278,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 *Alternate I* (JULY 2014). As prescribed in 12.301(b)(4)(i), delete paragraph (d) from the basic clause, redesignate paragraph (e) as paragraph (d), and revise the reference to “paragraphs (a), (b), (c), or (d) of this clause” in the redesignated paragraph (d) to read “paragraphs (a), (b), and (c) of this clause”.
 
-*Alternate II* (OCT 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
+*Alternate II* (DEC 2022). As prescribed in 12.301(b)(4)(ii), substitute the following paragraphs (d)(1) and (e)(1) for paragraphs (d)(1) and (e)(1) of the basic clause as follows:
 
 (d)(1) The Comptroller General of the United States, an appropriate Inspector General appointed under section 3 or 8G of the Inspector General Act of 1978 (5 U.S.C. App.), or an authorized representative of either of the foregoing officials shall have access to and right to -
 
@@ -334,7 +332,7 @@ Contract Terms and Conditions Required To Implement Statutes or Executive Orders
 
 \_\_\_\_\_\_(*2*) Alternate I (JAN 2017) of 52.224-3.
 
-(S) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. 2302 Note).
+(S) 52.225-26, Contractors Performing Private Security Functions Outside the United States (OCT 2016) (Section 862, as amended, of the National Defense Authorization Act for Fiscal Year 2008; 10 U.S.C. Subtitle A, Part V, Subpart G Note).
 
 (T) 52.226-6, Promoting Excess Food Donation to Nonprofit Organizations. (JUN 2020) (42 U.S.C. 1792). Flow down required in accordance with paragraph (e) of FAR clause 52.226-6.
 

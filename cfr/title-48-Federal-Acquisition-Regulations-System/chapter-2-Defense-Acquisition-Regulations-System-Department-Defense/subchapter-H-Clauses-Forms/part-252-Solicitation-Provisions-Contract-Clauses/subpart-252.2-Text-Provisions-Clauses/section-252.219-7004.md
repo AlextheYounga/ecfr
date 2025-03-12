@@ -1,12 +1,10 @@
 ##### 252.219-7004 Small Business Subcontracting Plan (Test Program). #####
 
-Link to an amendment published at 87 FR 76997, Dec. 16, 2022.
-
 As prescribed in 219.708(b)(1)(B), use the following clause:
 
-Small Business Subcontracting Plan (Test Program) (MAY 2019)
+Small Business Subcontracting Plan (Test Program) (DEC 2022)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 *Covered small business concern* means a small business concern, veteran-owned small business concern, service-disabled veteran-owned small business concern, HUBZone small business concern, women-owned small business concern, or small disadvantaged business concern, as these terms are defined in FAR 2.101.
 
@@ -24,11 +22,11 @@ Small Business Subcontracting Plan (Test Program) (MAY 2019)
 
 (i) A list of contracts covered under its comprehensive small business subcontracting plan, to include the Commercial and Government Entity (CAGE) code and unique entity identifier.
 
-(ii) The amount of first-tier subcontract dollars awarded during the 6-month period covered by the report to covered small business concerns, with the information set forth separately by -
+(ii) The amount of first-tier subcontract dollars awarded during the 6-month period covered by the report to covered small business concerns, with the information set forth separately by—
 
 (A) North American Industrial Classification System (NAICS) code;
 
-(B) Major defense acquisition program, as defined in 10 U.S.C. 2430(a);
+(B) Major defense acquisition program, as defined in 10 U.S.C. 4201;
 
 (C) Contract number, if the contract is for maintenance, overhaul, repair, servicing, rehabilitation, salvage, modernization, or modification of supplies, systems, or equipment, and the total value of the contract, including options, exceeds $100 million; and
 
@@ -40,7 +38,7 @@ Small Business Subcontracting Plan (Test Program) (MAY 2019)
 
 (v) Costs avoided through the use of a comprehensive subcontracting plan.
 
-(2) The Contractor shall -
+(2) The Contractor shall—
 
 (i) Ensure that subcontractors with subcontracting plans agree to submit an Individual Subcontract Report (ISR) and/or Summary Subcontract Report (SSR) using the Electronic Subcontracting Reporting System (eSRS).
 
@@ -50,7 +48,7 @@ Small Business Subcontracting Plan (Test Program) (MAY 2019)
 
 (iv) Acknowledge receipt or reject all ISRs submitted by its subcontractors using eSRS.
 
-(3) The Contractor shall submit SSRs using eSRS at *http://www.esrs.gov*. The reports shall provide information on subcontract awards to small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns. Purchases from a corporation, company, or subdivision that is an affiliate of the prime Contractor or subcontractor are not included in these reports. Subcontract award data reported by prime contractors and subcontractors shall be limited to awards made to their immediate next-tier subcontractors. Credit cannot be taken for awards made to lower-tier subcontractors unless the Contractor or subcontractor has been designated to receive a small business or small disadvantaged business credit from a member firm of the Alaska Native - Corporations or an Indian tribe. Only subcontracts involving performance in the U.S. or its outlying areas should be included in these reports.
+(3) The Contractor shall submit SSRs using eSRS at *http://www.esrs.gov*. The reports shall provide information on subcontract awards to small business concerns, veteran-owned small business concerns, service-disabled veteran-owned small business concerns, HUBZone small business concerns, small disadvantaged business concerns, and women-owned small business concerns. Purchases from a corporation, company, or subdivision that is an affiliate of the prime Contractor or subcontractor are not included in these reports. Subcontract award data reported by prime contractors and subcontractors shall be limited to awards made to their immediate next-tier subcontractors. Credit cannot be taken for awards made to lower-tier subcontractors unless the Contractor or subcontractor has been designated to receive a small business or small disadvantaged business credit from a member firm of the Alaska Native—Corporations or an Indian tribe. Only subcontracts involving performance in the U.S. or its outlying areas should be included in these reports.
 
 (i) This report may be submitted on a corporate, company, or subdivision (e.g., plant or division operating as a separate profit center) basis, as negotiated in the comprehensive subcontracting plan with the Defense Contract Management Agency.
 
@@ -72,12 +70,12 @@ Small Business Subcontracting Plan (Test Program) (MAY 2019)
 
 (4) The Contractor shall have the right of appeal under the clause in this contract entitled “Disputes” from any final decision of the Contracting Officer.
 
-(g) *Subcontracts.* The Contractor shall include in subcontracts that offer subcontracting opportunities, are expected to exceed the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, and are required to include the clause at FAR 52.219-8, Utilization of Small Business Concerns, the clauses at -
+(g) *Subcontracts.* The Contractor shall include in subcontracts that offer subcontracting opportunities, are expected to exceed the applicable threshold specified in FAR 19.702(a) on the date of subcontract award, and are required to include the clause at FAR 52.219-8, Utilization of Small Business Concerns, the clauses at—
 
-(1) FAR 52.219-9, Small Business Subcontracting Plan, and Defense Federal Acquisition Regulation Supplement (DFARS) 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Basic;
+(1) FAR 52.219-9, Small Business Subcontracting Plan, and Defense Federal Acquisition Regulation Supplement (DFARS) 252.219-7003, Small Business Subcontracting Plan (DoD Contracts)—Basic;
 
-(2) FAR 52.219-9, Small Business Subcontracting Plan, with its Alternate III, and DFARS 252.219-7003, Small Business Subcontracting Plan (DoD Contracts) - Alternate I, to allow for submission of SF 294s in lieu of ISRs; or
+(2) FAR 52.219-9, Small Business Subcontracting Plan, with its Alternate III, and DFARS 252.219-7003, Small Business Subcontracting Plan (DoD Contracts)—Alternate I, to allow for submission of SF 294s in lieu of ISRs; or
 
 (3) DFARS 252.219-7004, Small Business Subcontracting Plan (Test Program), in subcontracts with subcontractors that participate in the Test Program described in DFARS 219.702-70.
 
-(End of clause)[83 FR 15999, Apr. 13, 2018, as amended at 84 FR 25188, May 31, 2019]
+(End of clause)[83 FR 15999, Apr. 13, 2018, as amended at 84 FR 25188, May 31, 2019; 87 FR 76997, Dec. 16, 2022]

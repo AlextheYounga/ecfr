@@ -1,8 +1,6 @@
 ##### 209.405 Effect of listing. #####
 
-Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
-
-(a) Under 10 U.S.C. 2393(b), when a department or agency determines that a compelling reason exists for it to conduct business with a contractor that is debarred or suspended from procurement programs, it must provide written notice of the determination to the General Services Administration (GSA), GSA Suspension and Debarment Official, Office of Acquisition Policy, 1275 First Street, NE., Washington, DC 20417. Examples of compelling reasons are -
+(a) Under 10 U.S.C. 4654(b), when a department or agency determines that a compelling reason exists for it to conduct business with a contractor that is debarred or suspended from procurement programs, it must provide written notice of the determination to the General Services Administration (GSA), GSA Suspension and Debarment Official, Office of Acquisition Policy, 1275 First Street, NE., Washington, DC 20417. Examples of compelling reasons are—
 
 (i) Only a debarred or suspended contractor can provide the supplies or services;
 
@@ -18,7 +16,7 @@ Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
 
 (A) The agency head may delegate this exemption authority to a level no lower than a general or flag officer or a member of the Senior Executive Service.
 
-(B) The official granting the exemption -
+(B) The official granting the exemption—
 
 (*1*) Shall promptly notify the Environmental Protection Agency suspending and debarring official of the exemption and the corresponding justification; and
 
@@ -30,4 +28,4 @@ Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
 
 (E) See PGI 209.405 for additional procedures and information.
 
-[74 FR 2414, Jan. 15, 2009, as amended at 76 FR 27274, May 11, 2011; 79 FR 73489, Dec. 11, 2014]
+[74 FR 2414, Jan. 15, 2009, as amended at 76 FR 27274, May 11, 2011; 79 FR 73489, Dec. 11, 2014; 87 FR 76991, Dec. 16, 2022]

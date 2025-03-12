@@ -1,12 +1,10 @@
 ##### 3.104-2 General. #####
 
-Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
-
 (a) This section implements 41 U.S.C. chapter 21, Restrictions on Obtaining and Disclosing Certain Information. Agency supplementation of 3.104, including specific definitions to identify individuals who occupy positions specified in 3.104-3(d)(1)(ii), and any clauses required by 3.104 must be approved by the senior procurement executive of the agency, unless a law establishes a higher level of approval for that agency.
 
-(b) Agency officials are reminded that there are other statutes and regulations that deal with the same or related prohibited conduct, for example -
+(b) Agency officials are reminded that there are other statutes and regulations that deal with the same or related prohibited conduct, for example—
 
-(1) The offer or acceptance of a bribe or gratuity is prohibited by 18 U.S.C. 201 and 10 U.S.C. 2207. The acceptance of a gift, under certain circumstances, is prohibited by 5 U.S.C. 7353 and 5 CFR part 2635;
+(1) The offer or acceptance of a bribe or gratuity is prohibited by 18 U.S.C. 201 and 10 U.S.C. 4651. The acceptance of a gift, under certain circumstances, is prohibited by 5 U.S.C. 7353 and 5 CFR part 2635;
 
 (2) Contacts with an offeror during the conduct of an acquisition may constitute “seeking employment,”(see subpart F of 5 CFR part 2636 and 3.104-3(c)(2)). Government officers and employees (employees) are prohibited by 18 U.S.C. 208 and 5 CFR part 2635 from participating personally and substantially in any particular matter that would affect the financial interests of any person with whom the employee is seeking employment. An employee who engages in negotiations or is otherwise seeking employment with an offeror or who has an arrangement concerning future employment with an offeror must comply with the applicable disqualification requirements of 5 CFR 2635.604 and 2635.606. The statutory prohibition in 18 U.S.C. 208 also may require an employee's disqualification from participation in the acquisition even if the employee's duties may not be considered “participating personally and substantially,” as this term is defined in 3.104-1;
 
@@ -18,4 +16,4 @@ Link to an amendment published at 87 FR 73895, Dec. 1, 2022.
 
 (6) Using nonpublic information to further an employee's private interest or that of another and engaging in a financial transaction using nonpublic information are prohibited by 5 CFR 2635.703.
 
-[67 FR 13059, Mar. 20, 2002, as amended at 79 FR 24196, Apr. 29, 2014]
+[67 FR 13059, Mar. 20, 2002, as amended at 79 FR 24196, Apr. 29, 2014; 87 FR 73895 Dec. 1, 2022]

@@ -1,16 +1,14 @@
 ##### 212.301 Solicitation provisions and contract clauses for the acquisition of commercial items. #####
 
-Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendment published at 87 FR 76986, Dec. 16, 2022.Link to an amendment published at 87 FR 76991, Dec. 16, 2022.
-
 (c) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301.
 
 (f) The following additional provisions and clauses apply to DoD solicitations and contracts using FAR part 12 procedures for the acquisition of commercial items. If the offeror has completed any of the following provisions listed in this paragraph electronically as part of its annual representations and certifications at *https://www.sam.gov,* the contracting officer shall consider this information instead of requiring the offeror to complete these provisions for a particular solicitation.
 
-(i) *Part 203 - Improper Business Practices and Personal Conflicts of Interest.* (A) Use the FAR clause at 52.203-3, Gratuities, as prescribed in FAR 3.202, to comply with 10 U.S.C. 2207.
+(i) *Part 203 - Improper Business Practices and Personal Conflicts of Interest.* (A) Use the FAR clause at 52.203-3, Gratuities, as prescribed in FAR 3.202, to comply with 10 U.S.C. 4651.
 
 (B) Use the clause at 252.203-7000, Requirements Relating to Compensation of Former DoD Officials, as prescribed in 203.171-4(a), to comply with section 847 of Pub. L. 110-181.
 
-(C) Use the clause at 252.203-7002, Requirement to Inform Employees of Whistleblower Rights, as prescribed in 203.970, to comply with 10 U.S.C. 2409.
+(C) Use the clause at 252.203-7002, Requirement to Inform Employees of Whistleblower Rights, as prescribed in 203.970, to comply with 10 U.S.C. 4701.
 
 (D) Use the clause at 252.203-7003, Agency Office of the Inspector General, as prescribed in 203.1004(a), to comply with section 6101 of Pub. L. 110-252 and 41 U.S.C. 3509.
 
@@ -44,13 +42,13 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (M) Use the clause at 252.204-7022, Expediting Contract Closeout, as prescribed in 204.804-70.
 
-(N) Use the clause at 252.204-7023, Reporting Requirements for Contracted Services, to comply with 10 U.S.C. 2330a.
+(N) Use the clause at 252.204-7023, Reporting Requirements for Contracted Services, to comply with 10 U.S.C. 4505.
 
 (*1*) Use the basic clause as prescribed in 204.1705(a)(i) and (ii).
 
 (*2*) Use the alternate I clause as prescribed in 204.1705(a)(i) and (iii).
 
-(iii) *Part 205 - Publicizing Contract Actions.* Use the clause at 252.205-7000, Provision of Information to Cooperative Agreement Holders, as prescribed in 205.470, to comply with 10 U.S.C. 2416.
+(iii) *Part 205 - Publicizing Contract Actions.* Use the clause at 252.205-7000, Provision of Information to Cooperative Agreement Holders, as prescribed in 205.470, to comply with 10 U.S.C. 4957.
 
 (iv) *Part 211 - Describing Agency Needs.* (A) Use the clause at 252.211-7003, Item Unique Identification and Valuation, as prescribed in 211.274-6(a)(1).
 
@@ -88,7 +86,7 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (B) Use the clause at 252.219-7004, Small Business Subcontracting Plan (Test Program), as prescribed in 219.708(b)(1)(B), to comply with 15 U.S.C. 637 note.
 
-(C) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 2419.
+(C) Use the provision at 252.219-7000, Advancing Small Business Growth, as prescribed in 219.309(1), to comply with 10 U.S.C. 4959.
 
 (D) Use the provision at 252.219-7012, Competition for Religious-Related Services, as prescribed in 219.270-3.
 
@@ -110,15 +108,15 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (D) Use the clause at 252.225-7007, Prohibition on Acquisition of Certain Items from Communist Chinese Military Companies, as prescribed in 225.1103(4), to comply with section 1211 of the National Defense Authorization Act (NDAA) for Fiscal Year (FY) 2006 (Pub. L. 109-163) as amended by the NDAAs for FY 2012 and FY 2017.
 
-(E) Use the clause at 252.225-7008, Restriction on Acquisition of Specialty Metals, as prescribed in 225.7003-5(a)(1), to comply with 10 U.S.C. 2533b.
+(E) Use the clause at 252.225-7008, Restriction on Acquisition of Specialty Metals, as prescribed in 225.7003-5(a)(1), to comply with 10 U.S.C. 4863.
 
-(F) Use the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals, as prescribed in 225.7003-5(a)(2), to comply with 10 U.S.C. 2533b.
+(F) Use the clause at 252.225-7009, Restriction on Acquisition of Certain Articles Containing Specialty Metals, as prescribed in 225.7003-5(a)(2), to comply with 10 U.S.C. 4863.
 
-(G) Use the provision at 252.225-7010, Commercial Derivative Military Article - Specialty Metals Compliance Certificate, as prescribed in 225.7003-5(b), to comply with 10 U.S.C. 2533b.
+(G) Use the provision at 252.225-7010, Commercial Derivative Military Article - Specialty Metals Compliance Certificate, as prescribed in 225.7003-5(b), to comply with 10 U.S.C. 4863.
 
-(H) Use the clause at 252.225-7012, Preference for Certain Domestic Commodities, as prescribed in 225.7002-3(a), to comply with 10 U.S.C. 2533a.
+(H) Use the clause at 252.225-7012, Preference for Certain Domestic Commodities, as prescribed in 225.7002-3(a), to comply with 10 U.S.C. 4862.
 
-(I) Use the clause at 252.225-7015, Restriction on Acquisition of Hand or Measuring Tools, as prescribed in 225.7002-3(b), to comply with 10 U.S.C. 2533a.
+(I) Use the clause at 252.225-7015, Restriction on Acquisition of Hand or Measuring Tools, as prescribed in 225.7002-3(b), to comply with 10 U.S.C. 4862.
 
 (J) Use the clause at 252.225-7016, Restriction on Acquisition of Ball and Roller Bearings, as prescribed in 225.7009-5, to comply with section 8065 of Pub. L. 107-117 and the same restriction in subsequent DoD appropriations acts.
 
@@ -126,13 +124,13 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (L) Use the provision at 252.225-7018, Photovoltaic Devices - Certificate, as prescribed in 225.7017-4(b), to comply with section 846 of Public Law 111-383.
 
-(M) Use the provision at 252.225-7020, Trade Agreements Certificate, to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 3301 note. Alternate I also implements section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(M) Use the provision at 252.225-7020, Trade Agreements Certificate, to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732. Alternate I also implements section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic provision as prescribed in 225.1101(5)(i).
 
 (*2*) Use the alternate I provision as prescribed in 225.1101(5)(ii).
 
-(N) Use the clause at 252.225-7021, Trade Agreements to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 3301 note.
+(N) Use the clause at 252.225-7021, Trade Agreements to comply with 19 U.S.C. 2501-2518 and 19 U.S.C. 4501-4732.
 
 (*1*) Use the basic clause as prescribed in 225.1101(6)(i).
 
@@ -150,9 +148,9 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (T) Use the clause at 252.225-7029, Acquisition of Uniform Components for Afghan Military or Afghan National Police, as prescribed in 225.7703-4(d).
 
-(U) Use the provision at 252.225-7031, Secondary Arab Boycott of Israel, as prescribed in 225.7605, to comply with 10 U.S.C. 2410i.
+(U) Use the provision at 252.225-7031, Secondary Arab Boycott of Israel, as prescribed in 225.7605, to comply with 10 U.S.C. 4659.
 
-(V) Use the provision at 252.225-7035, Buy American - Free Trade Agreements - Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 3301 note. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(V) Use the provision at 252.225-7035, Buy American - Free Trade Agreements - Balance of Payments Program Certificate, to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic provision as prescribed in 225.1101(9)(i).
 
@@ -166,7 +164,7 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (*6*) Use the alternate V provision as prescribed in 225.1101(9)(vi).
 
-(W) Use the clause at 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 3301 note. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
+(W) Use the clause at 252.225-7036, Buy American - Free Trade Agreements - Balance of Payments Program to comply with 41 U.S.C. chapter 83 and 19 U.S.C. 4501-4732. Alternates II, III, and V also implement section 886 of the National Defense Authorization Act for Fiscal Year 2008 (Pub. L. 110-181).
 
 (*1*) Use the basic clause as prescribed in 225.1101(10)(i)(A).
 
@@ -180,9 +178,9 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (*6*) Use the alternate V clause as prescribed in 225.1101(10)(i)(F).
 
-(X) Use the provision at 252.225-7037, Evaluation of Offers for Air Circuit Breakers, as prescribed in 225.7006-4(a), to comply with 10 U.S.C. 2534(a)(3).
+(X) Use the provision at 252.225-7037, Evaluation of Offers for Air Circuit Breakers, as prescribed in 225.7006-4(a), to comply with 10 U.S.C. 4864(a)(3).
 
-(Y) Use the clause at 252.225-7038, Restriction on Acquisition of Air Circuit Breakers, as prescribed in 225.7006-4(b), to comply with 10 U.S.C. 2534(a)(3).
+(Y) Use the clause at 252.225-7038, Restriction on Acquisition of Air Circuit Breakers, as prescribed in 225.7006-4(b), to comply with 10 U.S.C. 4864(a)(3).
 
 (Z) Use the clause at 252.225-7039, Defense Contractors Performing Private Security Functions Outside the United States, as prescribed in 225.302-6, to comply with section 2 of Pub. L. 110-181, as amended.
 
@@ -192,11 +190,11 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (CC) Use the provision at 252.225-7049, Prohibition on Acquisition of Certain Foreign Commercial Satellite Services - Representations, as prescribed in 225.772-5(a), to comply with 10 U.S.C. 2279.
 
-(DD) Use the provision at 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism, as prescribed in 225.771-5, to comply with 10 U.S.C. 2327(b).
+(DD) Use the provision at 252.225-7050, Disclosure of Ownership or Control by the Government of a Country that is a State Sponsor of Terrorism, as prescribed in 225.771-5, to comply with 10 U.S.C. 4871(b).
 
 (EE) Use the clause at 252.225-7051, Prohibition on Acquisition for Certain Foreign Commercial Satellite Services, as prescribed in 225.772-5(b), to comply with 10 U.S.C. 2279.
 
-(FF) Use the clause at 252.225-7052, Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten, as prescribed in 225.7018-5, to comply with 10 U.S.C. 2533c.
+(FF) Use the clause at 252.225-7052, Restriction on the Acquisition of Certain Magnets, Tantalum, and Tungsten, as prescribed in 225.7018-5, to comply with 10 U.S.C. 4872.
 
 (GG) Use the provision at 252.225-7053, Representation Regarding Prohibition on Use of Certain Energy Sourced from Inside the Russian Federation, as prescribed in 225.7019-4(a), to comply with section 2821 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
@@ -206,19 +204,23 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (JJ) Use the clause at 252.225-7056, Prohibition Regarding Business Operations with the Maduro Regime, as prescribed in 225.7020-5(b), to comply with section 890 of the National Defense Authorization Act for Fiscal Year 2020 (Pub. L. 116-92).
 
+(KK) Use the provision at 252.225-7059, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region - Certification, as prescribed in 225.7022-5(a), to comply with section 848 of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117-81).
+
+(LL) Use the clause at 252.225-7060, Prohibition on Certain Procurements from the Xinjiang Uyghur Autonomous Region, as prescribed in 225.7022-5(b), to comply with section 848 of the National Defense Authorization Act for Fiscal Year 2022 (Pub. L. 117-81).
+
 (xi) *Part 226 - Other Socioeconomic Programs.* (A) Use the clause at 252.226-7001, Utilization of Indian Organizations, Indian-Owned Economic Enterprises, and Native Hawaiian Small Business Concerns, as prescribed in 226.104, to comply with section 8021 of Pub. L. 107-248 and similar sections in subsequent DoD appropriations acts.
 
 (B) Use the provision at 252.226-7002, Representation for Demonstration Project for Contractors Employing Persons with Disabilities, as prescribed in 226.7203.
 
 (xii) *Part 227 - Patents, Data, and Copyrights.* (A) Use the clause at 252.227-7013, Rights in Technical Data-Noncommercial Items, as prescribed in 227.7103-6(a). Use the clause with its Alternate I as prescribed in 227.7103-6(b)(1). Use the clause with its Alternate II as prescribed in 227.7103-6(b)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
 
-(B) Use the clause at 252.227-7015, Technical Data-Commercial Items, as prescribed in 227.7102-4(a)(1), to comply with 10 U.S.C. 2320. Use the clause with its Alternate I as prescribed in 227.7102-4(a)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
+(B) Use the clause at 252.227-7015, Technical Data-Commercial Items, as prescribed in 227.7102-4(a)(1), to comply with 10 U.S.C. 3772(a). Use the clause with its Alternate I as prescribed in 227.7102-4(a)(2), to comply with 10 U.S.C. 8687 and 17 U.S.C. 1301, *et seq.*
 
 (C) Use the clause at 252.227-7037, Validation of Restrictive Markings on Technical Data, as prescribed in 227.7102-4(c).
 
 (xiii) *Part 229 - Taxes.* Use the clause at 252.229-7014, Full Exemption from Two-Percent Excise Tax on Certain Foreign Procurements, as prescribed at 229.402-70, to comply with 26 U.S.C. 5000C.
 
-(xiv) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 2227.
+(xiv) *Part 232 - Contract Financing.* (A) Use the clause at 252.232-7003, Electronic Submission of Payment Requests and Receiving Reports, as prescribed in 232.7004, to comply with 10 U.S.C. 4601.
 
 (B) Use the clause at 252.232-7006, Wide Area WorkFlow Payment Instructions, as prescribed in 232.7004(b).
 
@@ -230,7 +232,7 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (F) Use the provision at 252.232-7014, Notification of Payment in Local Currency (Afghanistan), as prescribed in 232.7202.
 
-(G) Use the clause at 252.232-7017, Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration, as prescribed in 232.009-2(2), to comply with 10 U.S.C. 2307(a).
+(G) Use the clause at 252.232-7017, Accelerating Payments to Small Business Subcontractors - Prohibition on Fees and Consideration, as prescribed in 232.009-2(2), to comply with 10 U.S.C. 3801.
 
 (xv) *Part 237 - Service Contracting.* (A) Use the clause at 252.237-7010, Prohibition on Interrogation of Detainees by Contractor Personnel, as prescribed in 237.173-5, to comply with section 1038 of Pub. L. 111-84.
 
@@ -244,11 +246,11 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (B) Use the clause 252.239-7010, Cloud Computing Services, as prescribed in 239.7604(b).
 
-(C) Use the provision at 252.239-7017, Notice of Supply Chain Risk, as prescribed in 239.7306(a), to comply with 10 U.S.C. 2339a.
+(C) Use the provision at 252.239-7017, Notice of Supply Chain Risk, as prescribed in 239.7306(a), to comply with 10 U.S.C. 3252.
 
-(D) Use the clause at 252.239-7018, Supply Chain Risk, as prescribed in 239.7306(b), to comply with 10 U.S.C. 2339a.
+(D) Use the clause at 252.239-7018, Supply Chain Risk, as prescribed in 239.7306(b), to comply with 10 U.S.C. 3252.
 
-(xvii) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 2410.
+(xvii) *Part 243 - Contract Modifications.* Use the clause at 252.243-7002, Requests for Equitable Adjustment, as prescribed in 243.205-71, to comply with 10 U.S.C. 3862.
 
 (xviii) *Part 244 - Subcontracting Policies and Procedures.* Use the clause at 252.244-7000, Subcontracts for Commercial Items, as prescribed in 244.403.
 
@@ -278,4 +280,4 @@ Link to an amendment published at 87 FR 76983, Dec. 16, 2022.Link to an amendmen
 
 (G) Use the clause at 252.247-7028, Application for U.S. Government Shipping Documentation/Instructions, as prescribed in 247.207.
 
-[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022]
+[80 FR 2019, Jan. 15, 2015, as amended at 80 FR 4999, Jan. 29, 2015; 80 FR 30116, 30118, May 26, 2015; 80 FR 36901, June 26, 2015; 80 FR 51743, 51749, Aug. 26, 2015; 80 FR 56929, Sept. 21, 2015; 80 FR 67251, Oct. 30, 2015; 80 FR 72603, Nov. 20, 2015; 80 FR 81469, Dec. 30, 2015; 81 FR 17046, Mar. 25, 2016; 81 FR 28728, 28730, May 10, 2016; 81 FR 50647, Aug. 2, 2016; 82 FR 61480, Dec. 28, 2017; 83 FR 4443, Jan. 31, 2018; 83 FR 16002, Apr. 13, 2018; 83 FR 19645, May 4, 2018; 83 FR 24887, 24888, May 30, 2018; 83 FR 30825, June 29, 2018; 83 FR 62499, Dec. 4, 2018; 83 FR 66063, 66071, Dec. 21, 2018; 84 FR 4363, 4369, 4371, Feb. 15, 2019; 84 FR 18158, Apr. 30, 2019; 84 FR 48508, 48510, Sept. 13, 2019; 84 FR 58332, Oct. 31, 2019; 84 FR 72237, 72559, Dec. 31, 2019; 85 FR 19697, Apr. 8, 2020; 85 FR 61501, 61520, Sept. 29, 2020; 85 FR 74612, Nov. 23, 2020; 85 FR 61520, Sept. 29, 2020; 86 FR 3836, Jan. 15, 2021; 86 FR 27277, May 20, 2021; 86 FR 36236, July 9, 2021; 86 FR 48338, Aug. 30, 2021; 87 FR 15810, Mar. 18, 2022; 87 FR 52347, Aug. 25, 2022; 87 FR 65501, 65512, 65514, 65517, Oct. 28, 2022; 87 FR 76983, 76986, 76991, Dec. 16, 2022]

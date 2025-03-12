@@ -1,10 +1,8 @@
 ##### 252.227-7037 Validation of Restrictive Markings on Technical Data. #####
 
-Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
-
 As prescribed in 227.7102-4(c), 227.7103-6(e)(3),227.7104(e)(5), or 227.7203-6(f), use the following clause:
 
-Validation of Restrictive Markings on Technical Data (APR 2022)
+Validation of Restrictive Markings on Technical Data (DEC 2022)
 
 (a) *Definitions.* The terms used in this clause are defined in the Rights in Technical Data - Noncommercial Items clause of this contract.
 
@@ -64,7 +62,7 @@ Validation of Restrictive Markings on Technical Data (APR 2022)
 
 (2) Has been furnished to the United States without restriction; or
 
-(3) Has been otherwise made available without restriction. Only the Contracting Officer's final decision resolving a formal challenge by sustaining the validity of a restrictive marking constitutes “validation” as addressed in 10 U.S.C. 2321.
+(3) Has been otherwise made available without restriction. Only the Contracting Officer's final decision resolving a formal challenge by sustaining the validity of a restrictive marking constitutes “validation” as addressed in 10 U.S.C. 3785(c).
 
 (j) *Decision not to challenge.* A decision by the Government, or a determination by the Contracting Officer, to not challenge the restrictive marking or asserted restriction shall not constitute “validation.”
 
@@ -72,4 +70,4 @@ Validation of Restrictive Markings on Technical Data (APR 2022)
 
 (l) *Flowdown.* The Contractor or subcontractor agrees to insert this clause in contractual instruments, including subcontracts and other contractual instruments for commercial items, with its subcontractors or suppliers at any tier requiring the delivery of technical data.
 
-(End of clause)[60 FR 33505, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 64 FR 51077, Sept. 21, 1999; 69 FR 31912, June 8, 2004; 76 FR 58138, 58149, Sept. 20, 2011; 77 FR 23632, Apr. 20, 2012; 77 FR 76938, Dec. 31, 2012; 78 FR 37990, June 25, 2013; 81 FR 65567, Sept. 23, 2016; 87 FR 25151, Apr. 28, 2022]
+(End of clause)[60 FR 33505, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 64 FR 51077, Sept. 21, 1999; 69 FR 31912, June 8, 2004; 76 FR 58138, 58149, Sept. 20, 2011; 77 FR 23632, Apr. 20, 2012; 77 FR 76938, Dec. 31, 2012; 78 FR 37990, June 25, 2013; 81 FR 65567, Sept. 23, 2016; 87 FR 25151, Apr. 28, 2022; 87 FR 76998, Dec. 16, 2022]

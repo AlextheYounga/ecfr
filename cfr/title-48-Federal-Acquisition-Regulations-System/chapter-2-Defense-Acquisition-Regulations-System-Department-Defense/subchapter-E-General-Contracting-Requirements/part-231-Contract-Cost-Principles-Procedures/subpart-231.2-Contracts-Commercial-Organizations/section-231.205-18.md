@@ -1,7 +1,5 @@
 ##### 231.205-18 Independent research and development and bid and proposal costs. #####
 
-Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
-
 (a) *Definitions.* As used in this subsection -
 
 (i) *Covered contract* means a DoD prime contract for an amount exceeding the simplified acquisition threshold, except for a fixed-price contract without cost incentives. The term also includes a subcontract for an amount exceeding the simplified acquisition threshold, except for a fixed-price subcontract without cost incentives under such a prime contract.
@@ -32,7 +30,7 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (*4*) Enhance the industrial competitiveness of the United States.
 
-(*5*) Promote the development of technologies identified as critical under 10 U.S.C. 2522.
+(*5*) Promote the development of technologies identified as critical under 10 U.S.C. 4845.
 
 (*6*) Increase the development and promotion of efficient and effective applications of dual-use technologies.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 87 FR 76994, Dec. 16, 2022.
 
 (vi) The cognizant contract administration office shall furnish contractors with guidance on financial information needed to support IR&D/B&P costs and on technical information needed from major contractors to support the potential interest to DoD determination (also see 242.771-3).
 
-[64 FR 8729, Feb. 23, 1999, as amended at 77 FR 4636, Jan. 30, 2012; 81 FR 78011, Nov. 4, 2016; 83 FR 42788, Aug. 24, 2018]
+[64 FR 8729, Feb. 23, 1999, as amended at 77 FR 4636, Jan. 30, 2012; 81 FR 78011, Nov. 4, 2016; 83 FR 42788, Aug. 24, 2018; 87 FR 76994, Dec. 16, 2022]

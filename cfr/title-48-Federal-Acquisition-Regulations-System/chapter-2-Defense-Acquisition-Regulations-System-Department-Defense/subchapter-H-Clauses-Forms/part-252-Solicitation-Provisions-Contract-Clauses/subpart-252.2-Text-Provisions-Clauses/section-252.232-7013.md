@@ -1,14 +1,12 @@
-##### 252.232-7013 Performance-Based Payments - Deliverable-Item Basis. #####
-
-Link to an amendment published at 87 FR 76998, Dec. 16, 2022.
+##### 252.232-7013 Performance-Based Payments—Deliverable-Item Basis. #####
 
 As prescribed in 232.1005-70(a)(2), use the following clause:
 
-Performance-Based Payments - Deliverable-Item Basis (APR 2020)
+Performance-Based Payments—Deliverable-Item Basis (DEC 2022)
 
 (a) Performance-based payments shall form the basis for the contract financing payments provided under this contract and shall apply to Contract Line Item Number(s) (CLIN(s)) [Contracting Officer insert applicable CLIN(s)]. The performance-based payments schedule (Contract Attachment \_\_\_\_) describes the basis for payment, to include identification of the individual payment events, CLINs to which each event applies, evidence of completion, and amount of payment due upon completion of each event.
 
-(b) In accordance with 10 U.S.C. 2307(b)(4)(A), the Contractor's financial statements shall be in compliance with Generally Accepted Accounting Principles in order to receive performance-based payments.
+(b) In accordance with 10 U.S.C. 3802(c), the Contractor's financial statements shall be in compliance with Generally Accepted Accounting Principles in order to receive performance-based payments.
 
 (c)(1) The Contractor shall, in addition to providing the information required by FAR 52.232-32, submit information for all payment requests using the following format:
 
@@ -32,4 +30,4 @@ Performance-Based Payments - Deliverable-Item Basis (APR 2020)
 
 (ii) Paragraph (f) of the clause at FAR 52.232-32 does not apply to the extent that the Contractor and the Contracting Officer agree on alternative forms of security. In the event the Contractor fails to provide adequate security, as required in this contract, no financing payment will be made under this contract. Upon receipt of adequate security, financing payments will be made, including all previous payments to which the Contractor is entitled, in accordance with the terms of the provisions for contract financing. If at any time the Contracting Officer determines that the security provided by the Contractor is insufficient, the Contractor shall promptly provide such additional security as the Contracting Officer determines necessary. In the event the Contractor fails to provide such additional security, the Contracting Officer may collect or liquidate such security that has been provided and suspend further payments to the Contractor; and the Contractor shall repay to the Government the amount of unliquidated financing payments as the Contracting Officer at his sole discretion deems repayable.
 
-(End of clause)[79 FR 17936, Mar. 31, 2014, as amended at 79 FR 23278, Apr. 28, 2014; 85 FR 19689, Apr. 8, 2020]
+(End of clause)[79 FR 17936, Mar. 31, 2014, as amended at 79 FR 23278, Apr. 28, 2014; 85 FR 19689, Apr. 8, 2020; 87 FR 76998, Dec. 16, 2022]
