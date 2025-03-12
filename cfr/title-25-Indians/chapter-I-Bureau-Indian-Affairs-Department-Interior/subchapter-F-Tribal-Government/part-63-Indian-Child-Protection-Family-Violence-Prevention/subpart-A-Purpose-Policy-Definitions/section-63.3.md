@@ -36,6 +36,8 @@
 
 *Must* is used in place of shall and indicates a mandatory or imperative act or requirement.
 
+*Offenses committed against children* means any felonious or misdemeanor crime under Federal, State, or Tribal law committed against a victim that has not attained the age of eighteen years. In determining whether a crime falls within this category, the applicable Federal, State, or Tribal law under which the individual was convicted or pleaded guilty or nolo contendere is controlling.
+
 *Person responsible for a child's welfare* is any person who has legal or other recognized duty for the care and safety of a child, and may include any employee or volunteer of a children's residential facility, and any person providing out-of-home care, education, or services to children.
 
 *Related assistance* means the counseling and self-help services for abusers, victims, and dependents in family violence situations; referrals for appropriate health-care services (including alcohol and drug abuse treatment); and may include food, clothing, child care, transportation, and emergency services for victims of family violence and their dependents.
@@ -47,3 +49,5 @@
 *Shelter* means the temporary refuge and related assistance in compliance with applicable Federal and tribal laws and regulations governing the provision, on a regular basis, of shelter, safe homes, meals, and related assistance to victims of family violence or their dependents.
 
 *Tribal organization* means the recognized governing body of any Indian tribe; any legally established organization of Indians which is controlled, sanctioned, or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities: *Provided,* That in any case where a contract is let, a grant is awarded, or funding agreement is made to an organization to perform services benefitting more than one Indian tribe, the approval of each such Indian tribe must be a prerequisite to the letting or making of such contract, grant, or funding agreement.
+
+[61 FR 32274, June 21, 1996, as amended at 85 FR 37564, June 23, 2020]
