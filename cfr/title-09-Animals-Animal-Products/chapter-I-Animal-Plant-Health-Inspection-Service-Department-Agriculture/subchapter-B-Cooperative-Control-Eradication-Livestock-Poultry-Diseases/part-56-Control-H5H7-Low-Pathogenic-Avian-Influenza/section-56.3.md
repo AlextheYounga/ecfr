@@ -1,5 +1,7 @@
 ##### § 56.3 Payment of indemnity. #####
 
+Link to an amendment published at 85 FR 62562, Oct. 5, 2020.
+
 (a) *Activities eligible for indemnity.* The Administrator may pay indemnity for the activities listed in paragraphs (a)(1) through (a)(3) of this section, as provided in paragraph (b) of this section:
 
 (1) Destruction and disposal of poultry that were infected with or exposed to H5/H7 LPAI;

@@ -1,5 +1,7 @@
 ##### 552.238-74 Introduction of New Supplies/Services (INSS). #####
 
+Link to an amendment published at 85 FR 62613, Oct. 5, 2020.
+
 As prescribed in 538.273(b)(2), insert the following provision:
 
 Introduction of New Supplies/Services (INSS) (MAY 2019)

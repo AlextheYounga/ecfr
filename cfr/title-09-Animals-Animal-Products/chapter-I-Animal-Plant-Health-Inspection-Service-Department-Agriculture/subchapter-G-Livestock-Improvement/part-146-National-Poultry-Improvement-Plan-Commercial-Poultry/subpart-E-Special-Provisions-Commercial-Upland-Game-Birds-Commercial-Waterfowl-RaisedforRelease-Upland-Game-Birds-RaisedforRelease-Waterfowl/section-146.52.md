@@ -1,5 +1,7 @@
 ##### § 146.52 Participation. #####
 
+Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+
 (a) Participating commercial upland game bird slaughter plants, commercial waterfowl slaughter plants, raised-for-release upland game bird premises, raised-for-release waterfowl premises, and commercial upland game bird and commercial waterfowl producing eggs for human consumption premises shall comply with the applicable general provisions of subpart A of this part and the special provisions of this subpart E.
 
 (b) Commercial waterfowl and commercial upland game bird slaughter plants that slaughter fewer than 50,000 birds annually are exempt from the special provisions of this subpart E.

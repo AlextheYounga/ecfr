@@ -1,5 +1,7 @@
 ##### § 56.10 Initial State response and containment plan. #####
 
+Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
+
 (a) In order for poultry owners within a State to be eligible for indemnity for 100 percent of eligible costs under § 56.3(b), the State in which the poultry participate in the Plan must have in place an initial State response and containment plan that has been approved by APHIS. The initial State response and containment plan must be developed by the Official State Agency. In States where the Official State Agency is different than the Cooperating State Agency, the Cooperating State Agency must also participate in the development of the plan. The plan must be administered by the Cooperating State Agency of the relevant State. This plan must include:
 
 (1) Provisions for a standing emergency disease management committee, regular meetings, and exercises, including coordination with any tribal governments that may be affected;

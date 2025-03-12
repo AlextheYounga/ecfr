@@ -1,5 +1,7 @@
 ##### § 56.9 Claims not allowed. #####
 
+Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
+
 (a) The Department will not allow claims arising out of the destruction of poultry unless the poultry have been appraised as prescribed in this part and the owners have signed the appraisal form indicating agreement with the appraisal amount as required by § 56.4(a)(1).
 
 (b) The Department will not allow claims arising out of the destruction of poultry unless the owners have signed a written agreement with APHIS in which they agree that if they maintain poultry in the future on the premises used for poultry for which indemnity is paid, they will maintain the poultry in accordance with a plan set forth by the Cooperating State Agency and will not introduce poultry onto the premises until after the date specified by the Cooperating State Agency. Persons who do not maintain their poultry and premises in accordance with this written agreement will not be eligible to receive indemnity under this part.

@@ -1,5 +1,7 @@
 ##### § 146.13 Testing. #####
 
+Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+
 (a) *Samples.* Either egg or blood samples may be used for testing. Samples must be collected in accordance with the following requirements:
 
 (1) *Egg samples.* Egg samples must be collected and prepared in accordance with part 147 of this subchapter.

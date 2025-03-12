@@ -150,7 +150,7 @@ While the exporter, reexporter, and transferor must furnish the applicable ECCN 
 
 (f) *Applicability of Wassenaar Arrangement reporting requirements.* See § 743.1 of the EAR for special reporting requirements that apply to some exports made pursuant to this section.
 
-(g) *License Exception STA eligibility requests for 9x515 and “600 series” items* - (1) *Applicability.* Any person may request License Exception STA eligibility for end items described in ECCN 0A606.a, ECCN 8A609.a, ECCNs 8A620.a or .b, “spacecraft” in ECCNs 9A515.a.1, .a.2, .a.3, .a.4, or .g, 9A610.a, or technology ECCNs 9E515.b, .d, .e, or .f.
+(g) *License Exception STA eligibility requests for 9x515 and “600 series” items* - (1) *Applicability.* Any person may request License Exception STA eligibility for end items described in ECCN 0A606.a, ECCN 8A609.a, ECCNs 8A620.a or .b, “spacecraft” in ECCNs 9A515.a.1, .a.2, .a.3, or .a.4, “sub-orbital craft,” or items in 9A515.g, 9A610.a, or technology ECCNs 9E515.b, .d, .e, or .f.
 
 (2) *Required information and manner of requests.* Requests for License Exception STA eligibility must be made via the BIS Simplified Network Application Process-Redesign(SNAP-R) system unless BIS authorizes submission via the paper BIS-748-P Multipurpose Application form. For situations in which BIS 748-P submissions may be authorized, see § 748.1(d)(1). For required information specific to License Exception STA eligibility requests, see supplement no. 1 to part 748, Blocks 5 and 6 and supplement no. 2 to part 748, paragraph (w). In SNAP-R the work type for these applications is “Export.”
 

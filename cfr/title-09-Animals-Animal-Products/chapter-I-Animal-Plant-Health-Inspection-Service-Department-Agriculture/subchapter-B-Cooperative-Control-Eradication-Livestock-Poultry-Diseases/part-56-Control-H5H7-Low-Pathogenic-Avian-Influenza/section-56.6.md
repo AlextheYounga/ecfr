@@ -1,5 +1,7 @@
 ##### § 56.6 Presentation of claims for indemnity. #####
 
+Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
+
 Claims for the following must be documented on a form furnished by APHIS and presented to an APHIS employee or the State representative authorized to accept the claims:
 
 (a) Compensation for the value of poultry to be destroyed due to infection with or exposure to H5/H7 LPAI;

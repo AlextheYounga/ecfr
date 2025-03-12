@@ -1,5 +1,7 @@
 ##### § 56.8 Conditions for payment. #####
 
+Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
+
 (a) When poultry or eggs have been destroyed pursuant to this part, the Administrator may pay claims to any party with which the owner of the poultry or eggs has entered into a contract for the growing or care of the poultry or eggs. The indemnity the Administrator may pay to such a party or parties shall be determined as follows:
 
 (1) Divide the value of the contract the owner of the poultry or eggs entered into with another party for the growing and care of the poultry or eggs in dollars by the duration of the contract as it was signed prior to the H5/H7 LPAI outbreak in days;

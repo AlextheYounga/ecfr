@@ -1,6 +1,6 @@
 ##### § 740.17 Encryption commodities, software, and technology (ENC). #####
 
-License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCNs 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” classified under ECCNs 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release of source code or technology to any national of a country listed in Country Groups E:1 or E:2. Reexports and transfers (in-country) under License Exception ENC are subject to the criteria set forth in paragraph (c) of this section. Paragraphs (b) and (d) of this section set forth information about classifications required by this section. Items described in paragraphs (b)(1) and (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5 - Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following self-classification or classification by BIS and are no longer subject to “EI” and “NS” controls. Paragraph (e) sets forth reporting required by this section. For items exported under paragraphs (b)(1), (b)(3)(i), (ii), or (iv) of this section and therefore excluded from paragraph (e) reporting requirements, exporters are reminded of the recordkeeping requirements in part 762 of the EAR and that they may be required to make such records available upon request. All classification requests, and reports submitted to BIS pursuant to this section for encryption items will be reviewed by the ENC Encryption Request Coordinator, Ft. Meade, MD.
+License Exception ENC authorizes export, reexport, and transfer (in-country) of systems, equipment, commodities, and components therefor that are classified under ECCN 5A002, 5B002, equivalent or related software and technology therefor classified under 5D002 or 5E002, and “cryptanalytic items” and digital forensics items (investigative tools) classified under ECCN 5A004, 5D002 or 5E002. This License Exception ENC does not authorize export or reexport to, transfer (in-country) in, or provision of any service in any country listed in Country Groups E:1 or E:2 in supplement no. 1 to part 740 of the EAR, or release of source code or technology to any national of a country listed in Country Groups E:1 or E:2. Reexports and transfers (in-country) under License Exception ENC are subject to the criteria set forth in paragraph (c) of this section. Paragraphs (b) and (d) of this section set forth information about classifications required by this section. Items described in paragraphs (b)(1) and (b)(3)(i), (ii), or (iv) of this section that meet the criteria set forth in Note 3 to Category 5 - Part 2 of the Commerce Control List (the “mass market” note) are classified under ECCN 5A992.c or 5D992.c following self-classification or classification by BIS and are no longer subject to “EI” and “NS” controls. Paragraph (e) sets forth reporting required by this section. For items exported under paragraphs (b)(1), (b)(3)(i), (ii), or (iv) of this section and therefore excluded from paragraph (e) reporting requirements, exporters are reminded of the recordkeeping requirements in part 762 of the EAR and that they may be required to make such records available upon request. All classification requests, and reports submitted to BIS pursuant to this section for encryption items will be reviewed by the ENC Encryption Request Coordinator, Ft. Meade, MD.
 
 (a) *No classification request or reporting required.* License Exception ENC authorizes the export, reexport, or transfer (in-country) to the end users and for the end uses set forth in paragraphs (a)(1) through (3) of this section, without submission of a classification request, self-classification report or sales report to BIS.
 
@@ -44,11 +44,11 @@ Note to paragraph (b)(2) introductory text:
 
 Immediately after the classification request is submitted to BIS in accordance with paragraph (d) of this section and subject to the reporting requirements in paragraph (e) of this section, this paragraph also authorizes exports, reexports, and transfers (in-country) of:
 
-1. All submitted encryption items described in this paragraph (b)(2), except “cryptanalytic items,” to any end user located or headquartered in a country listed in supplement no. 3 to this part;
+1. All submitted encryption items described in this paragraph (b)(2), except “cryptanalytic items,” classified in ECCN 5A004.a, 5D002.a.3.a or c.3.a, or 5E002, to any end user located or headquartered in a country listed in supplement no. 3 to this part;
 
 2. Encryption source code as described in paragraph (b)(2)(i)(B) to non-“government end users” in any country;
 
-3. “Cryptanalytic items” to non-“government end users,” only, located or headquartered in a country listed in supplement no. 3 to this part; and
+3. “Cryptanalytic items,” classified in ECCN 5A004.a, 5D002.a.3.a or c.3.a, or 5E002, to non-“government end users,” only, located or headquartered in a country listed in supplement no. 3 to this part; and
 
 4. Items described in paragraphs (b)(2)(iii) and (b)(2)(iv)(A) of this section, to specified destinations and end users.
 
@@ -128,7 +128,7 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 (H) *Specified cryptographic ultra-wideband and “spread spectrum” items.* Encryption commodities and components therefor, classified under ECCNs 5A002.d or .e, and equivalent or related software therefor classified under ECCN 5D002.
 
-(ii) *Cryptanalytic commodities and software. “*Cryptanalytic items” classified in ECCN 5A004 or 5D002 to non- “government end users” located or headquartered in countries not listed in supplement no. 3 to this part.
+(ii) *Cryptanalytic commodities and software. “*Cryptanalytic items” classified in ECCN 5A004.a, 5D002.a.3.a, or 5D002.c.3.a, to non- “government end users” located or headquartered in countries not listed in supplement no. 3 to this part.
 
 (iii) *“Open cryptographic interface” items.* Items that provide an “open cryptographic interface,” to any end user located or headquartered in a country listed in supplement no. 3 to this part.
 
@@ -136,7 +136,7 @@ Commodities, software, and components for the “cryptographic activation” of 
 
 (A) *Technology for “non-standard cryptography.”* Encryption technology classified under ECCN 5E002 for “non-standard cryptography,” to any end user located or headquartered in a country listed in supplement no. 3 to this part;
 
-(B) *Other technology.* Encryption technology classified under ECCN 5E002 except technology for “cryptanalytic items,” “non-standard cryptography” or any “open cryptographic interface,” to any non-“government end user” located in a country not listed in Country Group D:1, E:1, or E:2 of supplement no. 1 to part 740 of the EAR.
+(B) *Other technology.* Encryption technology classified under ECCN 5E002 except technology for “cryptanalytic items” classified in ECCN 5A004.a, 5D002.a.3.a or 5D002.c.3.a, “non-standard cryptography” or any “open cryptographic interface,” to any non-“government end user” located in a country not listed in Country Group D:1, E:1, or E:2 of supplement no. 1 to part 740 of the EAR.
 
 Note to paragraph (b)(2):
 
@@ -160,7 +160,7 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (A) *Automated network vulnerability analysis and response.* Automated network analysis, visualization, or packet inspection for profiling network flow, network user or client behavior, or network structure/topology and adapting in real-time to the operating environment; *or*
 
-(B) *Digital forensics, including network or computer forensics.* Investigation of data leakage, network breaches, and other malicious intrusion activities through triage of captured digital forensic data for law enforcement purposes or in a similarly rigorous evidentiary manner.
+(B) *Digital forensics and investigative tools.* Items specified in ECCN 5A004.b, 5D002.a.3.b, or 5D002.c.3.b, see supplement no. 1 to part 774 Commerce Control List.
 
 (iv) “*Cryptographic activation” commodities, components, and software.* Commodities, components, and software classified under ECCNs 5A002.b or 5D002.b where the product or cryptographic functionality is not otherwise described in paragraphs (b)(2) or (b)(3)(i) of this section.
 
@@ -244,4 +244,4 @@ Immediately after the classification request is submitted to BIS in accordance w
 
 (iv) *File format requirements.* The information described in paragraph (a) of supplement no. 8 to part 742 must be provided to BIS and the ENC Encryption Request Coordinator in tabular or spreadsheet form, as an electronic file in comma separated values format (.csv) adhering to the specifications set forth in paragraph (b) of supplement no. 8 to part 742.
 
-[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018]
+[81 FR 64669, Sept. 20, 2016, as amended at 82 FR 27110, June 14, 2017; 83 FR 53750, Oct. 24, 2018; 85 FR 62587, Oct. 5, 2020]

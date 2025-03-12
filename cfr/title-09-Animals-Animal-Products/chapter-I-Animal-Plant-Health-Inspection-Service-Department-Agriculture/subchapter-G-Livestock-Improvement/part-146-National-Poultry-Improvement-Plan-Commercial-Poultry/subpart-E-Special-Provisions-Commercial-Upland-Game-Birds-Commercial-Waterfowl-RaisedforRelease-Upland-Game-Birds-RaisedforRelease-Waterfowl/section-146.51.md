@@ -1,5 +1,7 @@
 ##### § 146.51 Definitions. #####
 
+Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+
 *Commercial upland game bird slaughter plant.* A commercial upland game bird slaughter plant that is federally inspected or under State inspection that the U.S. Department of Agriculture's Food Safety and Inspection Service has recognized as equivalent to Federal inspection.
 
 *Commercial upland game birds.* Upland game bird pheasants, quail, or partridges grown under confinement for the primary purposes of producing eggs and/or meat for human consumption.

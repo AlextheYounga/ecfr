@@ -1,5 +1,7 @@
 ##### § 145.83 Terminology and classification; flocks and products. #####
 
+Link to an amendment published at 85 FR 62568, Oct. 5, 2020.
+
 Participating flocks, and the eggs and chicks produced from them, which have met the respective requirements specified in this section, may be designated by the following terms and the corresponding designs illustrated in § 145.10:
 
 (a) [Reserved]

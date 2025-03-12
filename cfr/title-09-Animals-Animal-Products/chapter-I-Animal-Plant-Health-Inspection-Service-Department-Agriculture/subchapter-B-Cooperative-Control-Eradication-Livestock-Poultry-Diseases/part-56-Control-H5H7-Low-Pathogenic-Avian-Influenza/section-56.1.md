@@ -1,5 +1,7 @@
 ##### § 56.1 Definitions. #####
 
+Link to an amendment published at 85 FR 62562, Oct. 5, 2020.
+
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any other employee of the Animal and Plant Health Inspection Service delegated to act in the Administrator's stead.
 
 *Animal and Plant Health Inspection Service (APHIS).* The Animal and Plant Health Inspection Service of the U.S. Department of Agriculture.

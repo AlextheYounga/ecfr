@@ -1,5 +1,7 @@
 ##### § 145.44 Terminology and classification; States. #####
 
+Link to an amendment published at 85 FR 62565, Oct. 5, 2020.
+
 (a) *U.S. Pullorum-Typhoid Clean State.* (1) A State will be declared a U.S. Pullorum-Typhoid Clean State when it has been determined by the Service that:
 
 (i) The State is in compliance with the provisions contained in § 145.23(b)(3)(i) through (vii), § 145.33(b)(3)(i) through (vii), § 145.43(b)(3)(i) through (vi), § 145.53(b)(3)(i) through (vii), § 145.73(b)(2)(i), § 145.83(b)(2)(i), and § 145.93(b)(3)(i) through (vii).

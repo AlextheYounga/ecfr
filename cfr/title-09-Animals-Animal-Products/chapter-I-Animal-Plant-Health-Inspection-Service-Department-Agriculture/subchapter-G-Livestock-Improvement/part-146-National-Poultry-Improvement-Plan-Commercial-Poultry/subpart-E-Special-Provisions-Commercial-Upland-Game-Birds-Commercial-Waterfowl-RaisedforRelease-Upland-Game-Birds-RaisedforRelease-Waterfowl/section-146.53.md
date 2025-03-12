@@ -1,5 +1,7 @@
 ##### § 146.53 Terminology and classification; slaughter plants and premises. #####
 
+Link to an amendment published at 85 FR 62571, Oct. 5, 2020.
+
 Participating flocks which have met the respective requirements specified in this section may be designated by the following terms and the corresponding designs illustrated in § 146.9 of this part:
 
 (a) *U.S. H5/H7 Avian Influenza Monitored.* This program is intended to be the basis from which the commercial waterfowl and commercial upland game bird industry may conduct a program to monitor for the H5/H7 subtypes of avian influenza. It is intended to determine the presence of the H5/H7 subtypes of avian influenza in commercial waterfowl and commercial upland game birds through routine surveillance of each participating slaughter plant or, in the case of egg-producing flocks, the regular surveillance of these flocks. A slaughter plant will qualify for this classification when the Official State Agency determines that it has met one of the following requirements:

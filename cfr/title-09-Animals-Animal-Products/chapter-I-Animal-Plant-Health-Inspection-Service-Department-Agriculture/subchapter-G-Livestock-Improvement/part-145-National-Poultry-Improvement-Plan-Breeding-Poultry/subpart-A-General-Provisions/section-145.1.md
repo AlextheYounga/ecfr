@@ -1,5 +1,7 @@
 ##### § 145.1 Definitions. #####
 
+Link to an amendment published at 85 FR 62564, Oct. 5, 2020.
+
 Words used in this part in the singular form shall be deemed to import the plural, and vice versa, as the case may demand. Except where the context otherwise requires, for the purposes of this part the following terms shall be construed, respectively, to mean:
 
 *Administrator.* The Administrator, Animal and Plant Health Inspection Service, or any person authorized to act for the Administrator.

@@ -1,5 +1,7 @@
 ##### § 145.51 Definitions. #####
 
+Link to an amendment published at 85 FR 62566, Oct. 5, 2020.
+
 Except where the context otherwise requires, for the purposes of this subpart the following terms shall be construed, respectively, to mean:
 
 *Exhibition Poultry.* Domesticated fowl which are bred for the combined purposes of meat or egg production and competitive showing.

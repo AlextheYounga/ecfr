@@ -1,5 +1,7 @@
 ##### § 56.5 Destruction and disposal of poultry and cleaning and disinfection of premises, conveyances, and materials. #####
 
+Link to an amendment published at 85 FR 62563, Oct. 5, 2020.
+
 (a) *Destruction of poultry.* Poultry that are infected with or exposed to H5/H7 LPAI may be required to be destroyed at the discretion of the Cooperating State Agency and APHIS and in accordance with the initial State response and containment plan described in § 56.10. The Cooperating State Agency and APHIS will select a method to use for the destruction of such poultry based on the following factors:
 
 (1) The species, size, and number of the poultry to be destroyed;
