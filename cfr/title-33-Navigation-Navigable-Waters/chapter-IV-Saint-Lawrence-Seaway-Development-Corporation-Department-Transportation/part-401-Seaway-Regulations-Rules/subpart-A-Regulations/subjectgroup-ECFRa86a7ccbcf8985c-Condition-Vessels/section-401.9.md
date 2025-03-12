@@ -1,5 +1,7 @@
 ##### § 401.9 Radio telephone and navigation equipment. #####
 
+Link to an amendment published at 85 FR 15950, Mar. 20, 2020.
+
 (a) Self-propelled vessels, other than pleasure craft of less than 20.0 m in overall length, shall be equipped with VHF (very high frequency) radiotelephone equipment.
 
 (b) The radio transmitters on a vessel shall:

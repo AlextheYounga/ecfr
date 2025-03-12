@@ -1,5 +1,7 @@
 ##### § 76.1600 Electronic delivery of notices. #####
 
+Link to an amendment published at 85 FR 16005, Mar. 20, 2020.
+
 (a) Written information provided by cable operators to subscribers or customers pursuant to §§ 76.1601, 76.1602, 76.1603, 76.1604, 76.1618, and 76.1620 of this Subpart T, as well as subscriber privacy notifications required by cable operators, satellite providers, and open video systems pursuant to sections 631, 338(i), and 653 of the Communications Act, may be delivered electronically by email to any subscriber who has not opted out of electronic delivery under paragraph (a)(3) of this section if the entity:
 
 (1) Sends the notice to the subscriber's or customer's verified email address;

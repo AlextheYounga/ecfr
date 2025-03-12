@@ -1,5 +1,7 @@
 ##### § 74.799 Low power television and TV translator channel sharing. #####
 
+Link to an amendment published at 85 FR 16004, Mar. 20, 2020.
+
 (a) *Channel sharing generally.* (1) Subject to the provisions of this section, low power television and TV translator stations may voluntarily seek Commission approval to share a single six megahertz channel with other low power television and TV translator stations, Class A television stations, and full power television stations.
 
 (2) Each station sharing a single channel pursuant to this section shall continue to be licensed and operated separately, have its own call sign and be separately subject to all of the Commission's obligations, rules, and policies.

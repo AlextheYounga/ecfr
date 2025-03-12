@@ -1,5 +1,7 @@
 ##### § 76.66 Satellite broadcast signal carriage. #####
 
+Link to an amendment published at 85 FR 16005, Mar. 20, 2020.
+
 (a) *Definitions* - (1) *Satellite carrier.* A satellite carrier is an entity that uses the facilities of a satellite or satellite service licensed by the Federal Communications Commission, and operates in the Fixed-Satellite Service under part 25 of title 47 of the Code of Federal Regulations or the Direct Broadcast Satellite Service under part 100 of title 47 of the Code of Federal Regulations, to establish and operate a channel of communications for point-to-multipoint distribution of television station signals, and that owns or leases a capacity or a service on a satellite in order to provide such point-to-multipoint distribution, except to the extent that such entity provides such distribution pursuant to tariff under the Communications Act of 1934, other than for private home viewing.
 
 (2) *Secondary transmission.* A secondary transmission is the further transmitting of a primary transmission simultaneously with the primary transmission.

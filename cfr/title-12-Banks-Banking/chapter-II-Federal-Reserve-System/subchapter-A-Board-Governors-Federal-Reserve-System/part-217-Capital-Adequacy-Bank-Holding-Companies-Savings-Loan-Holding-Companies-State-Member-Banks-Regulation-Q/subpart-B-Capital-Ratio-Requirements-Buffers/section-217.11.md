@@ -6,7 +6,11 @@ Link to an amendment published at 85 FR 15596, Mar. 18, 2020.
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of a Board-regulated institution is the Board-regulated institution's net income, calculated in accordance with the instructions to the Call Report or the FR Y-9C, as applicable, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income.
+(i) *Eligible retained income.* The eligible retained income of a Board-regulated institution is the greater of:
+
+(A) The Board-regulated institution's net income, calculated in accordance with the instructions to the FR Y-9C or Call Report, as applicable, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+(B) The average of the Board-regulated institution's net income, calculated in accordance with the instructions to the FR Y-9C or Call Report, as applicable, for the four calendar quarters preceding the current calendar quarter.
 
 (ii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that a Board-regulated institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum payout ratio is based on the Board-regulated institution's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 217.11.
 
@@ -104,4 +108,4 @@ Table 2 to § 217.11 - Calculation of Maximum Leverage Payout Amount
 |Less than or equal to 1.0 percent, and greater than 0.5 percent|                                      20 percent.                                      |
 |               Less than or equal to 0.5 percent               |                                      0 percent.                                       |
 
-[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015; 83 FR 705, Jan. 8, 2018; 83 FR 17477, Apr. 20, 2018; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019]
+[Reg. Q, 78 FR 62157, 62285, Oct. 11, 2013, as amended at 78 FR 62286, Oct. 11, 2013; 79 FR 24540, May 1, 2014; 79 FR 78295, Dec. 30, 2014; 80 FR 49103, Aug. 14, 2015; 83 FR 705, Jan. 8, 2018; 83 FR 17477, Apr. 20, 2018; 84 FR 35259, July 22, 2019; 84 FR 59271, Nov. 1, 2019; 85 FR 15916, Mar. 20, 2020]

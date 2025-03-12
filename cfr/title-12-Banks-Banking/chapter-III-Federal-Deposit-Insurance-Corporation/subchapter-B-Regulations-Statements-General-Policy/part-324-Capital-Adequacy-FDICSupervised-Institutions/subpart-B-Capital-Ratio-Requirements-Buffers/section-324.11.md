@@ -4,7 +4,11 @@
 
 (2) *Definitions.* For purposes of this section, the following definitions apply:
 
-(i) *Eligible retained income.* The eligible retained income of an FDIC-supervised institution is the FDIC-supervised institution's net income, calculated in accordance with the instructions to the Call Report, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income.
+(i) *Eligible retained income.* The eligible retained income of an FDIC-supervised institution is the greater of:
+
+(A) The FDIC-supervised institution's net income, calculated in accordance with the instructions to the Call Report, for the four calendar quarters preceding the current calendar quarter, net of any distributions and associated tax effects not already reflected in net income; and
+
+(B) The average of the FDIC-supervised institution's net income, calculated in accordance with the instructions to Call Report, for the four calendar quarters preceding the current calendar quarter.
 
 (ii) *Maximum payout ratio.* The maximum payout ratio is the percentage of eligible retained income that an FDIC-supervised institution can pay out in the form of distributions and discretionary bonus payments during the current calendar quarter. The maximum payout ratio is based on the FDIC-supervised institution's capital conservation buffer, calculated as of the last day of the previous calendar quarter, as set forth in Table 1 to § 324.11.
 
@@ -78,4 +82,4 @@ Table 1 to § 324.11 - Calculation of Maximum Payout Amount
 
 (3) *Countercyclical capital buffer amount for foreign jurisdictions.* The FDIC will adjust the countercyclical capital buffer amount for private sector credit exposures to reflect decisions made by foreign jurisdictions consistent with due process requirements described in paragraph (b)(2) of this section.
 
-[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019]
+[78 FR 55471, Sept. 10, 2013, as amended at 79 FR 20758, Apr. 14, 2014; 81 FR 71354, Oct. 17, 2016; 84 FR 35270, July 22, 2019; 84 FR 59278, Nov. 1, 2019; 85 FR 15916, Mar. 20, 2020]

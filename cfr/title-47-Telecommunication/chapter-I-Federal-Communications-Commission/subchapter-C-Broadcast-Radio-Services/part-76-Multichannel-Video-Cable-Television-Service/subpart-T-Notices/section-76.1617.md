@@ -1,5 +1,7 @@
 ##### § 76.1617 Initial must-carry notice. #####
 
+Link to an amendment published at 85 FR 16006, Mar. 20, 2020.
+
 (a) Within 60 days of activation of a cable system, a cable operator must notify all qualified NCE stations of its designated principal headend by certified mail.
 
 (b) Within 60 days of activation of a cable system, a cable operator must notify all local commercial and NCE stations that may not be entitled to carriage because they either:

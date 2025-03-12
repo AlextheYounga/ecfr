@@ -1,5 +1,7 @@
 ##### § 401.7 Fenders. #####
 
+Link to an amendment published at 85 FR 15950, Mar. 20, 2020.
+
 (a) Where any structural part of a vessel protrudes so as to endanger Seaway installations, the vessel shall be equipped with only horizontal permanent fenders -
 
 (1) That are made of steel, hardwood, or teflon or a combination of two or all of these materials, are of a thickness not exceeding 15 centimeters, with well tapered ends, and are located along the hull, close to the main deck level; and

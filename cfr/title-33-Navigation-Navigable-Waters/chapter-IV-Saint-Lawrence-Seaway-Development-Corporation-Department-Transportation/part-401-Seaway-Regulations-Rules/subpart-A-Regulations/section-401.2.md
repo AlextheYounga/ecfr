@@ -1,5 +1,7 @@
 ##### § 401.2 Interpretation. #####
 
+Link to an amendment published at 85 FR 15950, Mar. 20, 2020.
+
 In the regulations in this part:
 
 (a) *Corporation* means the Saint Lawrence Seaway Development Corporation;
