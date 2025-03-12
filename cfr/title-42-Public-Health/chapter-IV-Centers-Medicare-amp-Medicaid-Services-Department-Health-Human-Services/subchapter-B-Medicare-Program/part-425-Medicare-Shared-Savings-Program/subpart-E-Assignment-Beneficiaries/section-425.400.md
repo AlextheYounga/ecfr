@@ -1,6 +1,6 @@
 ##### § 425.400 General. #####
 
-Link to an amendment published at 83 FR 60092, November 23, 2018.
+Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (a)(1) *General.* CMS employs the assignment methodology described in § 425.402 and § 425.404 for purposes of benchmarking, preliminary prospective assignment (including quarterly updates), retrospective reconciliation, and prospective assignment.
 
@@ -10,7 +10,7 @@ Link to an amendment published at 83 FR 60092, November 23, 2018.
 
 (B) Beneficiary's utilization of primary care services meets the criteria established under the assignment methodology described in § 425.402 and § 425.404.
 
-(ii) CMS applies a step-wise process based on the beneficiary's utilization of primary care services provided under Title XVIII by a physician who is an ACO professional during each performance year for which shared savings are to be determined.
+(ii) CMS applies a step-wise process based on the beneficiary's utilization of primary care services provided under Title XVIII by a physician who is an ACO professional during each performance year for which shared savings are to be determined and, with respect to ACOs participating in a 6-month performance year during CY 2019, during the entirety of CY 2019 as specified in § 425.609.
 
 (2) *Assignment under Tracks 1 and 2.* (i) Medicare assigns beneficiaries in a preliminary manner at the beginning of a performance year based on most recent data available.
 
@@ -88,23 +88,31 @@ Link to an amendment published at 83 FR 60092, November 23, 2018.
 
 (C) Revenue center codes 0521, 0522, 0524, and 0525 submitted by FQHCs (for services furnished prior to January 1, 2011), or by RHCs.
 
-(iv) For performance year 2019 and subsequent performance years as follows:
+(iv) For performance years starting on January 1, 2019, and subsequent performance years as follows:
 
 (A) CPT codes:
 
-(*1*) 99201 through 99215.
+(*1*) 99201 through 99215 (codes for office or other outpatient visit for the evaluation and management of a patient).
 
-(*2*) 99304 through 99318 (excluding claims including the POS 31 modifier).
+(*2*) 99304 through 99318 (codes for professional services furnished in a nursing facility; services identified by these codes furnished in a SNF are excluded).
 
-(*3*) 99319 through 99340.
+(*3*) 99319 through 99340 (codes for patient domiciliary, rest home, or custodial care visit).
 
-(*4*) 99341 through 99350.
+(*4*) 99341 through 99350 (codes for evaluation and management services furnished in a patients' home for claims identified by place of service modifier 12).
 
-(*5*) 99487 and 99489.
+(*5*) 99487, 99489 and 99490 (codes for chronic care management).
 
-(*6*) 99495, 99496, and 99490.
+(*6*) 99495 and 99496 (codes for transitional care management services).
 
-(B) HCPCS Codes:
+(*7*) 99497 and 99498 (codes for advance care planning).
+
+(*8*) 96160 and 96161 (codes for administration of health risk assessment).
+
+(*9*) 99354 and 99355 (add-on codes, for prolonged evaluation and management or psychotherapy services beyond the typical service time of the primary procedure; when the base code is also a primary care service code under this paragraph (c)(1)).
+
+(*10*) 99484, 99492, 99493 and 99494 (codes for behavioral health integration services).
+
+(B) HCPCS codes:
 
 (*1*) G0402 (the code for the Welcome to Medicare visit) and
 
@@ -113,7 +121,12 @@ Link to an amendment published at 83 FR 60092, November 23, 2018.
 (*3*) G0463 for services furnished in ETA hospitals.
 
 (*4*) G0506 (code for chronic care management).
+.
 
-(*5*) G0502, G0503, G0504 and G0507 (codes for behavioral health integration).
+(*5*) G0444 (codes for annual depression screening service).
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017]
+(*6*) G0442 (code for alcohol misuse screening service).
+
+(*7*) G0443 (code for alcohol misuse counseling service).
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32840, June 9, 2015; 82 FR 53369, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018]

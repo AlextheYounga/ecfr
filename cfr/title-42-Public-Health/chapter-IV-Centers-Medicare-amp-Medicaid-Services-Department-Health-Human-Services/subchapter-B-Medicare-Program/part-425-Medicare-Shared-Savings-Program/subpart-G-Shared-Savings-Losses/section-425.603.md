@@ -1,6 +1,6 @@
 ##### § 425.603 Resetting, adjusting, and updating the benchmark for a subsequent agreement period. #####
 
-Link to an amendment published at 83 FR 60094, November 23, 2018.
+Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (a) An ACO's benchmark is reset at the start of each subsequent agreement period.
 
@@ -194,4 +194,10 @@ Link to an amendment published at 83 FR 60094, November 23, 2018.
 
 (3) Weighting the aggregate expenditure values determined for each population of beneficiaries (according to Medicare enrollment type) under paragraph (f)(2) of this section by a weight reflecting the proportion of the ACO's overall beneficiary population in the applicable Medicare enrollment type for the relevant benchmark or performance year.
 
-[81 FR 38014, June 10, 2016, as amended at 82 FR 53370, Nov. 15, 2017]
+(g) In determining performance for the January 1, 2019 through June 30, 2019 performance year described in § 425.609(b) CMS does all of the following:
+
+(1) When adjusting the benchmark using the methodology set forth in paragraph (c)(10) of this section and § 425.609(b), CMS adjusts for severity and case mix between BY3 and CY 2019.
+
+(2) When updating the benchmark using the methodology set forth in paragraph (d) of this section and § 425.609(b), CMS updates the benchmark based on growth between BY3 and CY 2019.
+
+[81 FR 38014, June 10, 2016, as amended at 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018]

@@ -1,5 +1,7 @@
 ##### § 425.224 Renewal of participation agreements. #####
 
+Link to an amendment published at 83 FR 68065, December 31, 2018.
+
 (a) *General rules.* An ACO may request renewal of its participation agreement for a second or subsequent agreement period.
 
 (1) In order to obtain a determination regarding whether it meets the requirements for renewal of its participation agreement, the ACO must submit a complete renewal request in the form and manner and by the deadline specified by CMS.

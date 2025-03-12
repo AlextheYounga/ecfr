@@ -1,6 +1,6 @@
 ##### § 201.3 Fees for registration, recordation, and related services, special services, and services performed by the Licensing Division. #####
 
-Link to an amendment published at 83 FR 61549, November 30, 2018.Link to an amendment published at 83 FR 66628, December 27, 2018.
+Link to an amendment published at 83 FR 66628, December 27, 2018.
 
 (a) *General.* This section prescribes the fees for registration, recordation, and related services, special services, and services performed by the Licensing Division.
 
@@ -29,7 +29,7 @@ Link to an amendment published at 83 FR 61549, November 30, 2018.Link to an amen
 |                                                                    (5) Registration of a renewal claim (Form RE):                                                                    |              |
 |                                                                              (i) Claim without addendum                                                                              |     100      |
 |                                                                 (ii) Addendum (in addition to the fee for the claim)                                                                 |     100      |
-|                                           (6) Registration of a claim in a group of serials (Form SE/Group) (per issue, minimum 2 issues)                                            |      25      |
+|                                                  (6) Registration of a claim in a group of serials (per issue, minimum two issues)                                                   |      25      |
 |                                                    (7) Registration of a claim in a group of newspapers or a group of newsletters                                                    |      80      |
 |                                                           (8) Registration of a claim in a restored copyright (Form GATT)                                                            |      85      |
 |                                                                   (9) Preregistration of certain unpublished works                                                                   |     140      |
@@ -121,4 +121,4 @@ Link to an amendment published at 83 FR 61549, November 30, 2018.Link to an amen
 
 (f) *Fees for travel in connection with educational activities.* For travel expenses in connection with Copyright Office educational activities when participation by Copyright Office personnel has been requested by another organization or person and that organization or person has agreed to pay such expenses, collection of the fee shall be subject to, and the amount of the fee shall be no greater than, the amount authorized under the Federal Travel Regulations found in Chapters 300 through 304 of Title 41.
 
-[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018]
+[64 FR 29520, June 1, 1999, as amended at 64 FR 36574, July 7, 1999; 65 FR 39819, June 28, 2000; 67 FR 38005, May 31, 2002; 71 FR 31090, June 1, 2006; 71 FR 46402, Aug. 14, 2006; 72 FR 33691, June 19, 2007; 74 FR 12556, Mar. 25, 2009, 74 FR 32807, July 9, 2009; 77 FR 18705, Mar. 28, 2012; 77 FR 18707, Mar. 28, 2012; 78 FR 71501, Nov. 29, 2013; 79 FR 15918, Mar. 24, 2014; 79 FR 24334, Apr. 30, 2014; 79 FR 68623, Nov. 18, 2014; 81 FR 75707, Nov. 1, 2016; 82 FR 9008, Feb. 2, 2017; 82 FR 9356, Feb. 6, 2017; 82 FR 26853, June 12, 2017; 82 FR 29413, June 29, 2017; 82 FR 52223, Nov. 13, 2017; 83 FR 2547, Jan. 18, 2018; 83 FR 4146, Jan. 30, 2018; 83 FR 52153, Oct. 16, 2018; 83 FR 61549, Nov. 30, 2018]

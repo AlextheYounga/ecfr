@@ -1,6 +1,6 @@
 ##### § 425.502 Calculating the ACO quality performance score. #####
 
-Link to an amendment published at 83 FR 60093, November 23, 2018.
+Link to an amendment published at 83 FR 68069, December 31, 2018.
 
 (a) *Establishing a quality performance standard.* CMS designates the quality performance standard in each performance year. The quality performance standard is the overall standard the ACO must meet in order to be eligible for shared savings.
 
@@ -76,13 +76,27 @@ Link to an amendment published at 83 FR 60093, November 23, 2018.
 
 (v) If an ACO renews its participation agreement for a subsequent agreement period, quality improvement will be measured based on a comparison between performance in the first year of the new agreement period and performance in the third year of the previous agreement period.
 
-(vi) For performance year 2017, if an ACO receives the mean Shared Savings Program ACO quality score based on the extreme and uncontrollable circumstances policies in paragraph (f) of this section, the ACO is not eligible for bonus points awarded based on quality improvement.
+(vi) For performance year 2017 and subsequent performance years, if an ACO receives the mean Shared Savings Program ACO quality score based on the extreme and uncontrollable circumstances policies in paragraph (f) of this section, the ACO is not eligible for bonus points awarded based on quality improvement.
 
-(f) *Extreme and uncontrollable circumstances.* For performance year 2017, including the applicable quality data reporting period for the performance year if the quality reporting period is not extended, in the event that CMS determines 20 percent or more of an ACO's assigned beneficiaries for the performance year, as determined under subpart E of this part, reside in an area identified under the Quality Payment Program as being affected by an extreme and uncontrollable circumstance or an ACO's legal entity is located in such an area, the following approach is used in calculating the quality score instead of the methodology specified in paragraphs (a) through (e) of this section.
+(vii) For performance year 2017 and subsequent performance years, if an ACO receives the mean Shared Savings Program ACO quality score under paragraph (f) of this section, in the next performance year for which the ACO receives a quality performance score based on its own quality reporting, quality improvement is measured based on a comparison between the performance in that year and the most recently available prior performance year in which the ACO reported quality.
 
-(1) The ACO's minimum quality performance score is set to equal the mean quality performance score for all Shared Savings Program ACOs for performance year 2017.
+(f) *Extreme and uncontrollable circumstances.* For performance year 2017 and subsequent performance years, including the applicable quality data reporting period for the performance year if the quality reporting period is not extended, CMS uses an alternative approach to calculating the quality score for ACOs affected by extreme and uncontrollable circumstances instead of the methodology specified in paragraphs (a) through (e) of this section as follows:
 
-(2) If the ACO completely and accurately reports all quality measures, CMS uses the higher of the ACO's quality performance score or the mean quality performance score for all Shared Savings Program ACOs.
+(1) CMS determines the ACO was affected by an extreme and uncontrollable circumstance based on either of the following:
+
+(i) Twenty percent or more of the ACO's assigned beneficiaries reside in an area identified under the Quality Payment Program as being affected by an extreme and uncontrollable circumstance.
+
+(A) Assignment is determined under subpart E of this part.
+
+(B) In making this determination for performance year 2017, CMS uses the final list of beneficiaries assigned to the ACO for the performance year. For performance year 2018 and subsequent performance years, CMS uses the list of assigned beneficiaries used to generate the Web Interface quality reporting sample.
+
+(ii) The ACO's legal entity is located in an area identified under the Quality Payment Program as being affected by an extreme and uncontrollable circumstance. An ACO's legal entity location is based on the address on file for the ACO in CMS' ACO application and management system.
+
+(2) If CMS determines the ACO meets the requirements of paragraph (f)(1) of this section, CMS calculates the ACO's quality score as follows:
+
+(i) The ACO's minimum quality performance score is set to equal the mean quality performance score for all Shared Savings Program ACOs for the relevant performance year.
+
+(ii) If the ACO completely and accurately reports all quality measures, CMS uses the higher of the ACO's quality performance score or the mean quality performance score for all Shared Savings Program ACOs.
 
 (3) CMS applies determinations made under the Quality Payment Program with respect to -
 
@@ -90,8 +104,6 @@ Link to an amendment published at 83 FR 60093, November 23, 2018.
 
 (ii) The affected areas.
 
-(4) An ACO's legal entity location is based on the address on file for the ACO in CMS' ACO application and management system.
+(4) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred, the percentage of the ACO's assigned beneficiaries residing in the affected areas, and the location of the ACO legal entity.
 
-(5) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred, the percentage of the ACO's assigned beneficiaries residing in the affected areas, and the location of the ACO legal entity.
-
-[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017]
+[76 FR 67973, Nov. 2, 2011, as amended at 78 FR 74823, Dec. 10, 2013; 79 FR 68008, Nov. 13, 2014; 80 FR 71386, Nov. 16, 2015; 81 FR 80560, Nov. 15, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60093, Nov. 23, 2018]

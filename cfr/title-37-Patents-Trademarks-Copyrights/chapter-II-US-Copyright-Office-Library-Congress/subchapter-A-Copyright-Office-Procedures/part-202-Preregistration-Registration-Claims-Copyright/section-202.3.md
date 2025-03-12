@@ -1,6 +1,6 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 83 FR 61549, November 30, 2018.Link to an amendment published at 83 FR 66628, December 27, 2018.
+Link to an amendment published at 83 FR 66628, December 27, 2018.
 
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
@@ -94,71 +94,7 @@ Registration of an unpublished “collection” extends to each copyrightable el
 
 (C) The deposit required by § 202.20(c)(2)(vii)(D).
 
-(6) *Group registration of related serials.* (i) Pursuant to the authority granted by section 408(c)(1) of title 17 of the United States Code, the Register of Copyrights has determined that, on the basis of a single application, deposit, and filing fee, a single registration may be made for a group of serials published at intervals of a week or longer if all the following conditions are met:
-
-(A) The Library of Congress receives two complimentary copies promptly after publication of each issue of the serial.
-
-(B) The single application covers no more than the issues published in a given three month period.
-
-(C) The claim to copyright for which registration is sought is in the collective work.
-
-(D) The collective work authorship is essentially new material that is being published for the first time.
-
-(E) The collective work is a work made for hire.
-
-(F) The author(s) and claimant(s) of the collective work is the same person(s) or organization(s).
-
-(G) Each issue must have been created no more than one year prior to publication and all issues included in the group registration must have been published in the same calendar year.
-
-(ii) To be eligible for group registration of serials, publishers must submit a letter affirming that two complimentary subscriptions to the particular serial have been entered for the Library of Congress. The letter should be mailed to the address specified in § 201.1 of this chapter.
-
-(iii) The complimentary subscription copies must be mailed to the address specified in § 201.1 of this chapter.
-
-(iv) The Register of Copyrights may revoke the privilege of group registration of serials for any publisher who fails to submit the required complimentary subscription copies promptly after publication of each issue. Notice of revocation of the group registration of serials privilege shall be given in writing and shall be sent to the individual person or organization applying for group registration of serials, at the last address shown in the records of the Copyright Office. A notice of revocation may be given at any time if the requirements of the regulation are not satisfied, but it shall state a specific date of revocation that is at least 30 days later than the date the notice is mailed.
-
-(v) To apply for registration of a group of serial issues under 17 U.S.C 408(c)(1) and this section, an applicant may file electronically, or submit a completed Form SE/Group.
-
-(A) For applicants filing electronically:
-
-(*1*) Furnish the requested information for group of serial issues.
-
-(*2*) Submit the appropriate filing fee, as required in § 201.3(c) of this chapter, for each issue covered by the group registration.
-
-(*3*) Submit either a digital format which complies with § 202.20(b)(2)(iii) or a deposit consisting of one complete copy of the best edition of each issue included in the group registration.
-
-(B) For applicants filing a completed Form SE/Group, the following must be sent together in the same package:
-
-(*1*) A completed Form SE/Group, providing the requested information.
-
-(*2*) The appropriate filing fee, as required in § 201.3(c) of this chapter, for each issue covered by the group registration.
-
-(*3*) A deposit consisting of one complete copy of the best edition of each issue included in the group registration.
-
-(7)-(8) [Reserved]
-
-(9) *Group registration of daily newsletters.* Pursuant to the authority granted by 17 U.S.C. 408(c)(1), the Register of Copyrights has determined that, on the basis of a single application, deposit, and filing fee, a single registration may be made for a group of two or more issues of a daily newsletter if the following conditions are met:
-
-(i) As used in this regulation, daily newsletter means a serial published and distributed by mail or electronic media (online or telefacsimile), or in any medium including but not limited to, paper, cassette tape, diskette or CD-ROM. Publication must occur on at least two days each week and the newsletter must contain news or information of interest chiefly to a special group (for example, trade and professional associations, corporate in-house groups, schools, colleges, or churches).
-
-(ii) The works must be essentially all new collective works or all new issues that have not been published before.
-
-(iii) Each issue must be a work made for hire.
-
-(iv) The author(s) and claimant(s) must be the same person(s) or organization(s) for all of the issues.
-
-(v) All the items in the group must bear issue dates within a single calendar month under the same continuing title.
-
-(vi) Deposit. (A). The deposit for newsletters registered under this section is one complete copy of each issue included in the group.
-
-(B). In addition, if requested in writing by the Copyright Acquisitions Division before an application for registration is submitted, the claimant must give the Library of Congress whichever of the following the Library prefers: either as many as two complimentary subscriptions of the newsletter in the edition most suitable to the Library's needs, or a single positive, 35 mm silver halide microfilm meeting the Library's best edition criteria that includes all issues published as final editions in the designated calendar month. Subscription copies must be delivered to the separate address specified by the Copyright Acquisitions Division in its request. Subscription copies or a microfilm are not required unless expressly requested by the Copyright Acquisitions Division.
-
-(C) The copyright owner of any newsletter that cannot meet the criteria set out in this section may continue to register on Form SE or Short Form SE.
-
-(vii) Registration is sought within three months after the publication date of the last issue included in the group.
-
-(viii) A Form G/DN shall be submitted for daily newsletters bearing issue dates within a single month, together with one copy of each issue, and a filing fee. The application shall designate the first and last day that issues in the group were published.
-
-(10) [Reserved]
+(6)-(10) [Reserved]
 
 (11) *One registration per work.* As a general rule only one copyright registration can be made for the same version of a particular work. However:
 

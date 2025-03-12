@@ -142,8 +142,6 @@ IFQ Species
 
 (*3*) In years where the non-tribal deductions from the TAC, ACL, or ACT when specified, described at § 660.55(b), were too high and would go unharvested, NMFS may increase the shorebased trawl allocation, consistent with § 660.60(c), and issue additional QP to QS accounts.
 
-(*4*) In 2018, NMFS may make deposits to QS accounts for widow rockfish in two parts. If NMFS elects to issue widow rockfish QP in two parts, on or about January 1, NMFS will deposit interim QP based on the lesser of the initial allocation or the reallocation. After NMFS finalizes the IAD of widow rockfish QS, NMFS will deposit additional QP to the QS account as necessary.
-
 (B) *Pacific whiting QP annual allocation.* NMFS will issue QP for Pacific whiting annually by multiplying the QS permit owner's QS for Pacific whiting by that year's shorebased trawl allocation for Pacific whiting.
 
 (*1*) In years where the Pacific whiting harvest specification is known by January 1, deposits to QS accounts for Pacific whiting will be made on or about January 1.
@@ -1433,4 +1431,4 @@ Pacific Halibut
 
 (2) *AMP QP pass through.* The 10 percent of non-whiting QS will be reserved for the AMP, but the resulting AMP QP will be issued to all QS permit owners in proportion to their non-whiting QS until the implementation of any regulatory changes developed pursuant to the first program review for the trawl rationalization program.
 
-[75 FR 60897, Oct. 1, 2010]Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Effective Date Note:At 82 FR 55784, Nov. 24, 2017, § 660.140(d)(1)(ii)(A)(*4*) was added, effective Dec. 26, 2017 through Dec. 31, 2018.
+[75 FR 60897, Oct. 1, 2010]Editorial Note:For Federal Register citations affecting § 660.140, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

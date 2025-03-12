@@ -1,6 +1,6 @@
 ##### § 425.606 Calculation of shared savings and losses under Track 2. #####
 
-Link to an amendment published at 83 FR 60094, November 23, 2018.
+Link to an amendment published at 83 FR 68077, December 31, 2018.
 
 (a) *General rule.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are above or below the updated benchmark determined under § 425.602. In order to qualify for a shared savings payment under Track 2, or to be responsible for sharing losses with CMS, an ACO's average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services for the performance year must be below or above the updated benchmark, respectively, by at least the minimum savings or loss rate under paragraph (b) of this section.
 
@@ -80,9 +80,9 @@ Link to an amendment published at 83 FR 60094, November 23, 2018.
 
 (3) If an ACO has shared losses, the ACO must make payment in full to CMS within 90 days of receipt of notification.
 
-(i) *Extreme and uncontrollable circumstances.* For performance year 2017, the following adjustment is made in calculating the amount of shared losses, after the application of the shared loss rate in paragraph (f) of this section and the loss recoupment limit in paragraph (g) of this section.
+(i) *Extreme and uncontrollable circumstances.* For performance year 2017 and subsequent performance years, the following adjustment is made in calculating the amount of shared losses, after the application of the shared loss rate in paragraph (f) of this section and the loss recoupment limit in paragraph (g) of this section.
 
-(1) CMS determines the percentage of the ACO's performance year 2017 assigned beneficiary population affected by an extreme and uncontrollable circumstance.
+(1) CMS determines the percentage of the ACO's performance year assigned beneficiary population affected by an extreme and uncontrollable circumstance.
 
 (2) CMS reduces the amount of the ACO's shared losses by an amount determined by multiplying the shared losses by the percentage of the total months in the performance year affected by an extreme and uncontrollable circumstance, and the percentage of the ACO's assigned beneficiaries who reside in an area affected by an extreme and uncontrollable circumstance.
 
@@ -94,4 +94,6 @@ Link to an amendment published at 83 FR 60094, November 23, 2018.
 
 (4) CMS has sole discretion to determine the time period during which an extreme and uncontrollable circumstance occurred and the percentage of the ACO's assigned beneficiaries residing in the affected areas.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017]
+(j) *January 1, 2019 through June 30, 2019.* Shared savings or shared losses for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38017, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 82 FR 60918, Dec. 26, 2017; 83 FR 60094, Nov. 23, 2018]

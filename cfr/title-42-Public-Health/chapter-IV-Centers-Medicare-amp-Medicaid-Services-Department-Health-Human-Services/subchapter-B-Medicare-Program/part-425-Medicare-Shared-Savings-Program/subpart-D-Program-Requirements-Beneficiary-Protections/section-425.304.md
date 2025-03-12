@@ -1,5 +1,7 @@
 ##### § 425.304 Other program requirements. #####
 
+Link to an amendment published at 83 FR 68066, December 31, 2018.
+
 (a) *Beneficiary inducements.* (1) ACOs, ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities are prohibited from providing gifts or other remuneration to beneficiaries as inducements for receiving items or services from or remaining in, an ACO or with ACO providers/suppliers in a particular ACO or receiving items or services from ACO participants or ACO providers/suppliers.
 
 (2) Consistent with the provisions of paragraph (a)(1) of this section and subject to compliance with all other applicable laws and regulations, ACO, ACO participants and ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities may provide in-kind items or services to beneficiaries if there is a reasonable connection between the items and services and the medical care of the beneficiary and the items or services are preventive care items or services or advance a clinical goal for the beneficiary, including adherence to a treatment regime, adherence to a drug regime, adherence to a follow-up care plan, or management of a chronic disease or condition.

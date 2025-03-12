@@ -1,6 +1,6 @@
 ##### § 425.602 Establishing, adjusting, and updating the benchmark for an ACO's first agreement period. #####
 
-Link to an amendment published at 83 FR 60094, November 23, 2018.
+Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (a) *Computing per capita Medicare Part A and Part B benchmark expenditures.* In computing an ACO's fixed historical benchmark that is adjusted for historical growth and beneficiary characteristics, including health status, CMS determines the per capita Parts A and B fee-for-service expenditures for beneficiaries that would have been assigned to the ACO in any of the 3 most recent years prior to the agreement period using the ACO participants' TINs identified at the start of the agreement period. CMS does all of the following:
 
@@ -106,4 +106,10 @@ Link to an amendment published at 83 FR 60094, November 23, 2018.
 
 (D) Aged/non-dual eligible Medicare and Medicaid beneficiaries.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38014, June 10, 2016; 82 FR 53370, Nov. 15, 2017]
+(c) *January 1, 2019 through June 30, 2019 performance year.* In determining performance for the January 1, 2019 through June 30, 2019 performance year described in § 425.609(b) CMS does all of the following:
+
+(1) When adjusting the benchmark using the methodology set forth in paragraph (a)(9) of this section and § 425.609(b), CMS adjusts for severity and case mix between BY3 and CY 2019.
+
+(2) When updating the benchmark using the methodology set forth in paragraph (b) of this section and § 425.609(b), CMS updates the benchmark based on growth between BY3 and CY 2019.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32842, June 9, 2015; 81 FR 38014, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018]

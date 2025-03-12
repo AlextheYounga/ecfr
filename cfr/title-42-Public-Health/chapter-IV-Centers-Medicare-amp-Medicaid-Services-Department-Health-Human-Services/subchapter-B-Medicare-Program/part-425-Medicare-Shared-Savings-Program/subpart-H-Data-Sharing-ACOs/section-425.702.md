@@ -1,6 +1,6 @@
 ##### § 425.702 Aggregate reports. #####
 
-Link to an amendment published at 83 FR 60096, November 23, 2018.
+Link to an amendment published at 83 FR 68081, December 31, 2018.
 
 CMS shares aggregate reports with ACOs as follows:
 
@@ -52,4 +52,6 @@ CMS shares aggregate reports with ACOs as follows:
 
 (ii) As the business associate of its ACO participants and ACO providers/suppliers, who are HIPAA-covered entities, and the request reflects the minimum data necessary for the ACO to conduct health care operations work that falls within the first or second paragraph of the definition of health care operations at 45 CFR 164.501 on behalf of those participants.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32844, June 9, 2015]
+(d) For an ACO eligible to be reconciled under § 425.609(b), CMS shares with the ACO quarterly aggregate reports as provided in paragraphs (b) and (c)(1)(ii) of this section for CY 2019.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32844, June 9, 2015; 83 FR 60096, Nov. 23, 2018]

@@ -1,5 +1,7 @@
 ##### § 425.312 Notification to beneficiaries of participation in shared savings program. #####
 
+Link to an amendment published at 83 FR 68068, December 31, 2018.
+
 (a) ACO participants must notify beneficiaries at the point of care that their ACO providers/suppliers are participating in the Shared Savings Program and of the opportunity to decline claims data sharing under § 425.708.
 
 (1) Notification is carried out when an ACO participant posts signs in its facilities and, in settings in which beneficiaries receive primary care services, by making standardized written notices available upon request.

@@ -1,6 +1,6 @@
 ##### § 425.20 Definitions. #####
 
-Link to an amendment published at 83 FR 60092, November 23, 2018.
+Link to an amendment published at 83 FR 68062, December 31, 2018.
 
 As used in this part, unless otherwise indicated -
 
@@ -38,7 +38,7 @@ As used in this part, unless otherwise indicated -
 
 *ACO's regional service area* means all counties where one or more beneficiaries assigned to the ACO reside.
 
-*Agreement period* means the term of the participation agreement, which is 3 performance years unless otherwise specified in the participation agreement.
+*Agreement period* means the term of the participation agreement.
 
 *Antitrust Agency* means the Department of Justice or Federal Trade Commission.
 
@@ -68,11 +68,15 @@ As used in this part, unless otherwise indicated -
 
 *BY* stands for benchmark year.
 
+*Certified Electronic Health Record Technology (CEHRT)* has the same meaning given this term under § 414.1305 of this chapter.
+
 *Continuously assigned beneficiary* means a beneficiary assigned to the ACO in the current performance year who was either assigned to or received a primary care service from any of the ACO participants during the assignment window for the most recent prior benchmark or performance year.
 
 *Covered professional services* has the same meaning given these terms under section 1848(k)(3)(A) of the Act.
 
 *Critical access hospital (CAH)* has the same meaning given this term under § 400.202 of this chapter.
+
+*Eligible clinician* has the same meaning given this term under § 414.1305 of this chapter.
 
 *Eligible professional* has the meanings given this term under section 1848(k)(3)(B) of the Act.
 
@@ -102,7 +106,7 @@ As used in this part, unless otherwise indicated -
 
 *Participation agreement* means the written agreement required under § 425.208(a) between the ACO and CMS that, along with the regulations in this part, govern the ACO's participation in the Shared Savings Program.
 
-*Performance year* means the 12-month period beginning on January 1 of each year during the agreement period, unless otherwise noted in the participation agreement. For an ACO with a start date of April 1, 2012 or July 1, 2012, the ACO's first performance year is defined as 21 months and 18 months, respectively.
+*Performance year* means the 12-month period beginning on January 1 of each year during the agreement period, unless otherwise specified in § 425.200(c) or noted in the participation agreement.
 
 *Physician* means a doctor of medicine or osteopathy (as defined in section 1861(r)(1) of the Act).
 
@@ -132,4 +136,4 @@ As used in this part, unless otherwise indicated -
 
 *Two-sided model* means a model under which the ACO may share savings with the Medicare program, if it meets the requirements for doing so, and is also liable for sharing any losses incurred under subpart G of this part.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017]
+[76 FR 67973, Nov. 2, 2011, as amended at 80 FR 32833, June 9, 2015; 80 FR 71385, Nov. 16, 2015; 81 FR 38013, June 10, 2016; 82 FR 53368, Nov. 15, 2017; 83 FR 60092, Nov. 23, 2018]

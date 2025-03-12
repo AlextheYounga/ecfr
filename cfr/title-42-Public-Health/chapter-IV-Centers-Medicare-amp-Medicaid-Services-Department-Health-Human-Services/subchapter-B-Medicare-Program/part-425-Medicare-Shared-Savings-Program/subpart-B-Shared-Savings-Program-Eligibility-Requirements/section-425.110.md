@@ -1,5 +1,7 @@
 ##### § 425.110 Number of ACO professionals and beneficiaries. #####
 
+Link to an amendment published at 83 FR 68063, December 31, 2018.
+
 (a)(1) The ACO must include primary care ACO professionals that are sufficient for the number of Medicare fee-for-service beneficiaries assigned to the ACO under subpart E of this part. The ACO must have at least 5,000 assigned beneficiaries.
 
 (2) CMS deems an ACO to have initially satisfied the requirement to have at least 5,000 assigned beneficiaries as specified in paragraph (a)(1) of this section if 5,000 or more beneficiaries are historically assigned to the ACO participants in each of the 3 benchmark years, as calculated using the assignment methodology set forth in subpart E of this part. In the case of the third benchmark year, CMS uses the most recent data available to estimate the number of assigned beneficiaries.

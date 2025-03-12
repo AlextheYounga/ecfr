@@ -26,10 +26,10 @@
 
 (9) Notwithstanding anything contained in this section, the Inland Navigation Rules (33 CFR subchapter E) are still in effect and must be strictly adhered to at all times.
 
-(d) *Enforcement periods.* This regulation will be enforced 24 hours a day from 5:00 a.m. on July 3, 2014 until 11:59 p.m. on December 31, 2018.
+(d) *Enforcement periods.* This regulation will be enforced 24 hours a day from 11:59 p.m. on December 31, 2018 until 11:59 p.m. on December 31, 2019.
 
 (1) Notice of suspension of enforcement: If enforcement is suspended, the COTP will cause a notice of the suspension of enforcement by appropriate means to the affected segments of the public. Such means of notification may include, but are not limited to, Broadcast Notice to Mariners and Local Notice to Mariners. Such notification will include the date and time that enforcement will be suspended as well as the date and time that enforcement will resume.
 
 (2) Violations of this regulation may be reported to the COTP at 718-354-4353 or on VHF-Channel 16.
 
-Effective Date Note:By USCG-2013-0705, 79 FR 43254, July 25, 2014, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0174 was revised, effective from July 25, 2014, to Dec. 31, 2018. By USCG-2013-0705, 83 FR 65521, Dec. 21, 2018, the effective period of § 165.T01-0174 is extended to December 31, 2019.
+Effective Date Note:By USCG-2013-0705, 79 FR 43254, July 25, 2014, as amended by USCG-2015-0433, 80 FR 44282, July 27, 2015, temporary § 165.T01-0174 was revised, effective from July 25, 2014, to Dec. 31, 2018. By USCG-2013-0705, 83 FR 65521, Dec. 21, 2018, temporary § 165.T01-0174 is effective until Dec. 31, 2019.

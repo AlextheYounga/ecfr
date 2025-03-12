@@ -1,5 +1,7 @@
 ##### § 425.118 Required reporting of ACO participants and ACO providers/suppliers. #####
 
+Link to an amendment published at 83 FR 68063, December 31, 2018.
+
 (a) *List requirements.* (1) The ACO must maintain, update, and submit to CMS an accurate and complete list identifying each ACO participant (including its Medicare-enrolled TIN) and each ACO provider/supplier (including its NPI or other identifier) in accordance with this section.
 
 (2) Before the start of an agreement period, before each performance year thereafter, and at such other times as specified by CMS, the ACO must submit to CMS an ACO participant list and an ACO provider/supplier list. The ACO may request consideration of claims billed under merged and acquired Medicare-enrolled TINs in accordance with the process set forth at § 425.204(g).

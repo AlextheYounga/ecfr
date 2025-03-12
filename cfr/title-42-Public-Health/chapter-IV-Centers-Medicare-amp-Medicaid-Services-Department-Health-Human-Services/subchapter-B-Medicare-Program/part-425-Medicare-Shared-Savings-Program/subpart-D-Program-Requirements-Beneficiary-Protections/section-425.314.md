@@ -1,5 +1,7 @@
 ##### § 425.314 Audits and record retention. #####
 
+Link to an amendment published at 83 FR 68068, December 31, 2018.
+
 (a) *Right to audit.* The ACO must agree, and must require its ACO participants, ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities to agree, that the CMS, DHHS, the Comptroller General, the Federal Government or their designees have the right to audit, inspect, investigate, and evaluate any books, contracts, records, documents and other evidence of the ACO, ACO participants, and ACO providers/suppliers, and other individuals or entities performing functions or services related to ACO activities that pertain to all of the following:
 
 (1) The ACO's compliance with Shared Savings Program.

@@ -1,7 +1,5 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
-Link to an amendment published at 83 FR 61550, November 30, 2018.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
 (b) *Definitions.* For the purposes of this section:
@@ -192,7 +190,7 @@ The number of sets of instructions and identifying material shall be the same as
 
 (xvi) *Phonorecords.* In any case where the phonorecord or phonorecords submitted for registration of a claim to copyright is inaudible on audio playback devices in the Registration Program of the Copyright Office, the Office will seek an appropriate deposit in accordance with paragraph (d) of this section.
 
-(xvii) *Group registration of serials.* For group registration of related serials, as specified in § 202.3(b)(6), for applicants filing electronically, the deposit must consist of one complete copy of the best edition of each issue included in the group registration, or a digital format of a complete copy which complies with § 202.20(b)(2)(iii). For applicants filing a completed Form SE/Group, the deposit must consist of one complete copy of the best edition of each issue included in the group registration. In addition, for all filings for group registration of serial issues, two complimentary subscriptions to any serial for which group registration is sought must be entered and maintained in the name of the Library of Congress, and the copies must be submitted regularly and promptly after publication.
+(xvii) [Reserved]
 
 (xviii) *Architectural works.* (A) For designs of unconstructed buildings, the deposit must consist of one complete copy of an architectural drawing or blueprint in visually perceptible form showing the overall form of the building and any interior arrangements of spaces and/or design elements in which copyright is claimed. For archival purposes, the Copyright Office prefers that the drawing submissions consist of the following in descending order of preference:6
 

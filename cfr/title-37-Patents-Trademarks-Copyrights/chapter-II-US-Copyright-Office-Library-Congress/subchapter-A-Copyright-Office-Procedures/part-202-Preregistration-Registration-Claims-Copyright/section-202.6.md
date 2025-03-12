@@ -1,7 +1,5 @@
 ##### § 202.6 Supplementary registration. #####
 
-Link to an amendment published at 83 FR 61550, November 30, 2018.
-
 (a) *General.* This section prescribes conditions relating to the filing of an application for supplementary registration under section 408(d) of title 17 of the United States Code to correct an error in a copyright registration or to amplify the information given in a registration. No correction or amplification of the information in a basic registration will be made except pursuant to the provisions of this section. As an exception, where it is discovered that a basic registration contains an error caused by the Copyright Office's own action, the Office will take appropriate measures to rectify its mistake.
 
 (b) *Definitions.* (1) A *basic registration* means any of the following:
@@ -38,7 +36,7 @@ Link to an amendment published at 83 FR 61550, November 30, 2018.
 
 (6) In general, the Copyright Office will not issue a supplementary registration for a basic registration made under title 17 of the United States Code as it existed before January 1, 1978. In an exceptional case, the Copyright Office may issue a supplementary registration for such a registration, if the correction or amplification is supported by clear, convincing, and objective documentation.
 
-(e) *Application for supplementary registration.* (1) To seek a supplementary registration for a work registered in Class TX, PA, VA, SR, or SE., an unpublished collection, or a unit of publication registered under § 202.3, or a group of related works registered under § 202.3(b)(6) through (10) or § 202.4, an applicant must complete and submit the online application designated for supplementary registration.
+(e) *Application for supplementary registration.* (1) To seek a supplementary registration for a work registered in Class TX, PA, VA, SR, or SE, an unpublished collection, or a unit of publication registered under § 202.3, or a group of related works registered under § 202.4, an applicant must complete and submit the online application designated for supplementary registration.
 
 (2) To seek a supplementary registration for a database that consists predominantly of photographs registered under § 202.3(b)(5), an applicant must complete and submit the online application designated for supplementary registration after consultation with and under the direction of the Visual Arts Division.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 83 FR 61550, November 30, 2018.
 
 (2) As provided in section 408(d) of title 17 of the United States Code, the information contained in a supplementary registration augments but does not supersede that contained in the basic registration. The basic registration will not be expunged or cancelled.
 
-[82 FR 27427, June 15, 2017, as amended at 82 FR 42738, Sept. 12, 2017]
+[82 FR 27427, June 15, 2017, as amended at 82 FR 42738, Sept. 12, 2017; 83 FR 61550, Nov. 30, 2018]

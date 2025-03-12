@@ -1,6 +1,6 @@
 ##### § 425.604 Calculation of savings under the one-sided model. #####
 
-Link to an amendment published at 83 FR 60094, November 23, 2018.
+Link to an amendment published at 83 FR 68074, December 31, 2018.
 
 (a) *Savings determination.* For each performance year, CMS determines whether the estimated average per capita Medicare expenditures under the ACO for Medicare fee-for-service beneficiaries for Parts A and B services are below the applicable updated benchmark determined under § 425.602.
 
@@ -63,4 +63,6 @@ Link to an amendment published at 83 FR 60094, November 23, 2018.
 
 (f) *Notification of savings.* CMS notifies an ACO in writing regarding whether the ACO qualifies for a shared savings payment, and if so, the amount of the payment due.
 
-[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017]
+(g) *January 1, 2019 through June 30, 2019 performance year.* Shared savings for the January 1, 2019 through June 30, 2019 performance year are calculated as described in § 425.609.
+
+[76 FR 67973, Nov. 2, 2011, as amended at 81 FR 38016, June 10, 2016; 82 FR 53370, Nov. 15, 2017; 83 FR 60094, Nov. 23, 2018]

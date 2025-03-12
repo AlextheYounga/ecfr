@@ -1,5 +1,7 @@
 ##### § 425.222 Re-application after termination. #####
 
+Link to an amendment published at 83 FR 68065, December 31, 2018.
+
 (a) An ACO that has been terminated from the Shared Savings Program under §§ 425.218 or 425.220 may participate in the Shared Savings Program again only after the date on which the term of the original participation agreement would have expired if the ACO had not been terminated.
 
 (b) To be eligible to participate in the Shared Savings Program after a previous termination, the ACO must demonstrate in its application that it has corrected the deficiencies that caused it to be terminated from the Shared Savings Program and has processes in place to ensure that it will remain in compliance with the terms of the new participation agreement.
