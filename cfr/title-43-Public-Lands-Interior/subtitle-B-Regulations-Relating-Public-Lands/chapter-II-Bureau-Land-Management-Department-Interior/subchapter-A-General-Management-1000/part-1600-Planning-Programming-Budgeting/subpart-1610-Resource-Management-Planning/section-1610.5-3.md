@@ -1,9 +1,11 @@
-##### § 1610.5-3 Estimation of effects of alternatives. #####
+##### § 1610.5-3 Conformity and implementation. #####
 
-(a) *Basis for analysis.* The responsible official shall identify the procedures, assumptions, and indicators that will be used to estimate the environmental, ecological, social, and economic effects of implementing each alternative considered in detail.
+(a) All future resource management authorizations and actions, as well as budget or other action proposals to higher levels in the Bureau of Land Management and Department, and subsequent more detailed or specific planning, shall conform to the approved plan.
 
-(1) The responsible official shall make the preliminary procedures, assumptions, and indicators available for public review prior to the publication of the draft resource management plan and draft environmental impact statement, and, as appropriate, prior to the publication of draft plan amendments when an environmental impact statement is prepared to inform the amendment.
+(b) After a plan is approved or amended, and if otherwise authorized by law, regulation, contract, permit, cooperative agreement or other instrument of occupancy and use, the Field Manager shall take appropriate measures, subject to valid existing rights, to make operations and activities under existing permits, contracts, cooperative agreements or other instruments for occupancy and use, conform to the approved plan or amendment within a reasonable period of time. Any person adversely affected by a specific action being proposed to implement some portion of a resource management plan or amendment may appeal such action pursuant to 43 CFR 4.400 at the time the action is proposed for implementation.
 
-(2) The BLM may change the procedures, assumptions, and indicators as planning proceeds if it determines that public suggestions or other new information make such changes necessary. A description of these changes shall be made available to the public in the draft resource management plan (see § 1610.5-4).
+(c) If a proposed action is not in conformance, and warrants further consideration before a plan revision is scheduled, such consideration shall be through a plan amendment in accordance with the provisions of § 1610.5-5 of this title.
 
-(b) *Effects analysis.* The responsible official shall estimate and display the environmental, ecological, economic, and social effects of implementing each alternative considered in detail. The estimation of effects shall be guided by the basis for analysis, the planning assessment, and procedures implementing the National Environmental Policy Act. The estimate may be stated in terms of probable ranges where effects cannot be precisely determined.
+(d) More detailed and site specific plans for coal, oil shale and tar sand resources shall be prepared in accordance with specific regulations for those resources: Group 3400 of this title for coal; Group 3900 of this title for oil shale; and part 3140 of this title for tar sand. These activity plans shall be in conformance with land use plans prepared and approved under the provisions of this part.
+
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

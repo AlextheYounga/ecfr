@@ -12,4 +12,4 @@
 
 (d) BLM may change planning criteria as planning proceeds if we determine that public suggestions or study and assessment findings make such changes desirable.
 
-[70 FR 14566, Mar. 23, 2005]
+[70 FR 14566, Mar. 23, 2005, as amended at 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

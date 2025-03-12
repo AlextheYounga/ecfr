@@ -1,7 +1,5 @@
 ##### § 1.767 Cable landing licenses. #####
 
-Link to an amendment published at 82 FR 55331, November 21, 2017.
-
 (a) Applications for cable landing licenses under 47 U.S.C. 34-39 and Executive Order No. 10530, dated May 10, 1954, should be filed in accordance with the provisions of that Executive Order. These applications should contain:
 
 (1) The name, address and telephone number(s) of the applicant;
@@ -102,11 +100,13 @@ Licensees may rely on the Commission's list of foreign carriers that do not qual
 
 (12) The licensee shall comply with the requirements of § 1.768;
 
-(13) The cable landing license is revocable by the Commission after due notice and opportunity for hearing pursuant to section 2 of the Cable Landing License Act, 47 U.S.C. 35, or for failure to comply with the terms of the license or with the Commission's rules; and
+(13) The licensee shall file annual international circuit capacity reports as required by § 43.82 of this chapter.
 
-(14) The licensee must notify the Commission within thirty (30) days of the date the cable is placed into service. The cable landing license shall expire twenty-five (25) years from the in-service date, unless renewed or extended upon proper application. Upon expiration, all rights granted under the license shall be terminated.
+(14) The cable landing license is revocable by the Commission after due notice and opportunity for hearing pursuant to section 2 of the Cable Landing License Act, 47 U.S.C. 35, or for failure to comply with the terms of the license or with the Commission's rules; and
 
-(15) Licensees shall file submarine cable outage reports as required in 47 CFR part 4.
+(15) The licensee must notify the Commission within thirty (30) days of the date the cable is placed into service. The cable landing license shall expire twenty-five (25) years from the in-service date, unless renewed or extended upon proper application. Upon expiration, all rights granted under the license shall be terminated.
+
+(16) Licensees shall file submarine cable outage reports as required in 47 CFR part 4.
 
 (h) *Applicants/Licensees.* Except as otherwise required by the Commission, the following entities, at a minimum, shall be applicants for, and licensees on, a cable landing license:
 
@@ -158,4 +158,6 @@ Note to § 1.767:
 
 The terms “affiliated” and “foreign carrier,” as used in this section, are defined as in § 63.09 of this chapter except that the term “foreign carrier” also shall include any entity that owns or controls a cable landing station in a foreign market. The term “country” as used in this section refers to the foreign points identified in the U.S. Department of State list of Independent States of the World and its list of Dependencies and Areas of Special Sovereignty. *See http://www.state.gov.*
 
-[28 FR 12450, Nov. 22, 1963, as amended at 52 FR 5289, Feb. 20, 1987; 61 FR 15726, Apr. 9, 1996; 64 FR 19061, Apr. 19, 1999; 65 FR 51769, Aug. 25, 2000; 65 FR 54799, Sept. 11, 2000; 67 FR 1619, Jan. 14, 2002; 69 FR 40327, July 2, 2004; 70 FR 38796, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 75 FR 81490, Dec. 28, 2010; 76 FR 32867, June 7, 2011; 78 FR 15623, Mar. 12, 2013; 79 FR 31876, June 3, 2014; 81 FR 52362, Aug. 8, 2016]Effective Date Note:At 81 FR 52362, Aug. 8, 2016, § 1.767 was amended by adding paragraph (g)(15), revising paragraph (n), and adding paragraph (o). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[28 FR 12450, Nov. 22, 1963, as amended at 52 FR 5289, Feb. 20, 1987; 61 FR 15726, Apr. 9, 1996; 64 FR 19061, Apr. 19, 1999; 65 FR 51769, Aug. 25, 2000; 65 FR 54799, Sept. 11, 2000; 67 FR 1619, Jan. 14, 2002; 69 FR 40327, July 2, 2004; 70 FR 38796, July 6, 2005; 72 FR 54366, Sept. 25, 2007; 75 FR 81490, Dec. 28, 2010; 76 FR 32867, June 7, 2011; 78 FR 15623, Mar. 12, 2013; 79 FR 31876, June 3, 2014; 81 FR 52362, Aug. 8, 2016; 82 FR 55331, Nov. 21, 2017]Effective Date Notes:1. At 81 FR 52362, Aug. 8, 2016, § 1.767 was amended by adding paragraph (g)(15), revising paragraph (n), and adding paragraph (o). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+
+2. At 82 FR 55331, Nov. 21, 2017, § 1.767 was amended by redesignating paragraphs (g)(13) through (15) as paragraphs (g)(14) through (16) and adding new paragraph (g)(13). These paragraphs contain information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

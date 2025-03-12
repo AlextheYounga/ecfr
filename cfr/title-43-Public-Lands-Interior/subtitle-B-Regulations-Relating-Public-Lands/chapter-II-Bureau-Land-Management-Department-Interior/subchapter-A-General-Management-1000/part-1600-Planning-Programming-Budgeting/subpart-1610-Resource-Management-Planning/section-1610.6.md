@@ -1,1 +1,5 @@
-##### § 1610.6 Resource management plan approval, implementation, and modification. #####
+##### § 1610.6 Management decision review by Congress. #####
+
+The Federal Land Policy and Management Act requires that any Bureau of Land Management management decision or action pursuant to a management decision which totally eliminates one or more principal or major uses for 2 or more years with respect to a tract of 100,000 acres or more, shall be reported by the Secretary to Congress before it can be implemented. This report shall not be required prior to approval of a resource management plan which, if fully or partially implemented, would result in such an elimination. The required report shall be submitted as the first action step in implementing that portion of a resource management plan which would require elimination of such a use.
+
+[48 FR 20368, May 5, 1983, as amended at 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

@@ -1,0 +1,35 @@
+##### § 43.21 Transactions with affiliates. #####
+
+(a) Communication common carriers having annual operating revenues in excess of the indexed revenue threshold, as defined in § 32.9000, and certain companies (as indicated in paragraph (b) of this section) directly or indirectly controlling such carriers shall file with the Commission annual reports or an annual letter as provided in this section. Except as provided in paragraph (b) of this section, each annual report required by this section shall be filed no later than April 1 of each year, covering the preceding calendar year. It shall be filed on the appropriate report form prescribed by the Commission (see § 1.785 of this chapter) and shall contain full and specific answers to all questions propounded and information requested in the currently effective report forms. The number of copies to be filed shall be specified in the applicable report form. At least one copy of this report shall be signed on the signature page by the responsible accounting officer. A copy of each annual report shall be as retained in the principal office of the respondent and shall be filed in such manner to be readily available for reference and inspection.
+
+(b) Each company, not itself a communication common carrier, that directly or indirectly controls any communication common carrier that has annual operating revenues equal to or above the indexed revenue threshold, as defined in § 32.9000, shall file annually with the Commission, not later than the date prescribed by the Securities and Exchange Commission for its purposes, two complete copies of any annual report Forms 10-K (or any superseding form) filed with that Commission.
+
+(c) Each miscellaneous common carrier (as defined by § 21.2 of this chapter) with operating revenues for a calendar year in excess of the indexed revenue threshold, as defined in § 32.9000, shall file with the Common Carrier Bureau Chief a letter showing its operating revenues for that year and the value of its total communications plant at the end of that year. This letter must be filed no later than April 1 of the following year. Those miscellaneous common carriers with annual operating revenues that equal or surpass the indexed revenue threshold for the first time may file the letter up to one month after publication of the adjusted revenue threshold in the Federal Register, but in no event shall such carriers be required to file the letter prior to April 1.
+
+(d) Each communications common carrier required by order to file a manual allocating its costs between regulated and nonregulated operations shall file, on or before April 1:
+
+(1) A three-year forecast of regulated and nonregulated use of network plant for the current calendar year and the two calendar years following, and investment pool projections and allocations for the current calendar year; and
+
+(2) A report of the actual use of network plant investment for the prior calendar year.
+
+(e) Each incumbent local exchange carrier, except mid-sized incumbent local exchange carriers, as defined by § 32.9000 with annual operating revenues equal to or above the indexed revenue threshold shall file, no later than April 1 of each year:
+
+(1) Its revenues, expenses and investment for all accounts established in part 32 of this chapter, on an operating company basis,
+
+(2) The same part 32 of this chapter, on a study area basis, with data for regulated and nonregulated operations for those accounts which are related to the carrier's revenue requirement, and
+
+(3) The separations categories on a study area basis, with each category further divided into access elements and a nonaccess interstate category.
+
+(f) Each incumbent local exchange carrier with operating revenues for the preceding year that equal or exceed the indexed revenue threshold shall file, no later than April 1 of each year, a report showing for the previous calendar year its revenues, expenses, taxes, plant in service, other investment and depreciation reserves, and other such data as are required by the Commission, on computer media prescribed by the Commission. The total operating results shall be allocated between regulated and nonregulated operations, and the regulated data shall be further divided into the following categories: State and interstate, and the interstate will be further divided into common line, traffic sensitive access, special access, and nonaccess.
+
+(g) Each incumbent local exchange carrier for whom price cap regulation is mandatory and every incumbent local exchange carrier that elects to be covered by the price cap rules shall file, by April 1 of each year, a report designed to capture trends in service quality under price cap regulation. The report shall contain data relative to network measures of service quality, as defined by the Wireline Competition Bureau, from the previous calendar year on a study area basis.
+
+(h) Each incumbent local exchange carrier for whom price cap regulation is mandatory shall file, by April 1 of each year, a report designed to capture trends in service quality under price cap regulation. The report shall contain data relative to customer measures of service quality, as defined by the Wireline Competition Bureau, from the previous calendar year a study area basis.
+
+(i) Each incumbent local exchange carrier for whom price regulation is mandatory shall file, by April 1 of each year, a report containing data from the previous calendar year on a study area basis that are designed to capture trends in telephone industry infrastructure development under price cap regulation.
+
+(j) Each incumbent local exchange carrier with annual operating revenues that equal or exceed the indexed revenue threshold shall file, no later than April 1 of each year, a report containing data from the previous calendar year on an operating company basis. Such report shall combine statistical data designed to monitor network growth, usage, and reliability.
+
+(k) Each designated interstate carrier with operating revenues for the preceding year that equal or exceed the indexed revenue threshold shall file, no later than April 1 of each year, a report showing for the previous calendar year its revenues, expenses, taxes, plant in service, other investments and depreciation reserves, and such other data as are required by the Commission, on computer media prescribed by the Commission. The total operating results shall be allocated between regulated and nonregulated operations, and the regulated data shall be further divided into the following categories: State and interstate, and the interstate will be further divided into common line, traffic sensitive access, special access, and nonaccess.
+
+[28 FR 13214, Dec. 5, 1963, as amended at 49 FR 10122, Mar. 19, 1984; 50 FR 41153, Oct. 9, 1985; 51 FR 37024, Oct. 17, 1986; 52 FR 35918, Sept. 24, 1987; 58 FR 36143, July 6, 1993; 61 FR 50245, Sept. 25, 1996; 62 FR 39778, July 24, 1997; 67 FR 5700, Feb. 6, 2002; 67 FR 13225, Mar. 21, 2002]

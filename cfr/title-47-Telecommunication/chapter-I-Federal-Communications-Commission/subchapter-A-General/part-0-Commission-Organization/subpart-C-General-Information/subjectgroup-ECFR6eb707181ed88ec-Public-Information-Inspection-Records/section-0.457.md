@@ -1,7 +1,5 @@
 ##### § 0.457 Records not routinely available for public inspection. #####
 
-Link to an amendment published at 82 FR 55331, November 21, 2017.
-
 The records listed in this section are not routinely available for public inspection pursuant to 5 U.S.C. 552(b). The records are listed in this section by category, according to the statutory basis for withholding those records from inspection; under each category, if appropriate, the underlying policy considerations affecting the withholding and disclosure of records in that category are briefly outlined. The Commission will entertain requests from members of the public under § 0.461 for permission to inspect particular records withheld from inspection under the provisions of this section, and will weigh the policy considerations favoring non-disclosure against the reasons cited for permitting inspection in the light of the facts of the particular case. In making such requests, there may be more than one basis for withholding particular records from inspection. The Commission will permit inspection of records unless Commission staff reasonably foresees that disclosure would harm an interest protected by the exemptions described in 5 U.S.C. 552(b) or where disclosure is prohibited by law. The listing of records by category is not intended to imply the contrary but is solely for the information and assistance of persons making such requests. Requests to inspect or copy the transcripts, recordings or minutes of closed agency meetings will be considered under § 0.607 rather than under the provisions of this section.
 
 (a) Materials that are specifically authorized under criteria established by Executive Order (E.O.) to be kept secret in the interest of national defense or foreign policy and are in fact properly classified pursuant to such Executive Order, 5 U.S.C. 552(b)(1).
@@ -56,6 +54,8 @@ The records listed in this section are not routinely available for public inspec
 
 (x) Copyrighted materials the release of which would have a substantial adverse effect on the copyright holder's potential market, except to the extent such a release can be considered fair use.
 
+(xi) Lists and updates of U.S.-international routes for which a carrier has an arrangement with a foreign carrier for direct termination in the foreign destination provided pursuant to § 63.22(h) of this chapter.
+
 Note to paragraph (d)(1):
 
 The content of the communications described in paragraph (d)(1)(vii)(A) of this section is in some circumstances separately available through the ITU's publication process, or through records available in connection with the Commission's licensing procedures.
@@ -80,4 +80,4 @@ The content of the communications described in paragraph (d)(1)(vii)(A) of this 
 
 (6) Could reasonably be expected to endanger the life or physical safety of any individual.
 
-[82 FR 4189, Jan. 13, 2017]
+[82 FR 4189, Jan. 13, 2017, as amended at 82 FR 55331, Nov. 21, 2017]Effective Date Note:At 82 FR 55331, Nov. 21, 2017, § 0.457 was amended by adding paragraph (d)(1)(xi). This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.

@@ -1,3 +1,3 @@
-##### § 1610.5 Preparation of a resource management plan. #####
+##### § 1610.5 Resource management plan approval, use and modification. #####
 
-When preparing a resource management plan, or a plan amendment for which an environmental impact statement will be prepared, the BLM shall follow the process described in §§ 1610.5-1 through 1610.5-5.
+[48 FR 20368, May 5, 1983, as amended at 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

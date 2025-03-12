@@ -20,4 +20,4 @@ The Field Manager, in collaboration with any cooperating agencies, will analyze 
 
 (i) Critical threshold levels which should be considered in the formulation of planned alternatives.
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14566, Mar. 23, 2005]
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14566, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

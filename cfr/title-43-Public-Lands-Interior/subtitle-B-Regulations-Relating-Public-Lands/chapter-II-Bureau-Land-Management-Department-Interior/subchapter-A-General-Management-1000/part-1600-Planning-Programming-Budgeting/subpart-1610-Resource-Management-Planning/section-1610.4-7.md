@@ -2,4 +2,4 @@
 
 The Field Manager, in collaboration with any cooperating agencies, will evaluate the alternatives, estimate their effects according to the planning criteria, and identify a preferred alternative that best meets Director and State Director guidance. Nonetheless, the decision to select a preferred alternative remains the exclusive responsibility of the BLM. The resulting draft resource management plan and draft environmental impact statement shall be forwarded to the State Director for approval, publication, and filing with the Environmental Protection Agency. This draft plan and environmental impact statement shall be provided for comment to the Governor of the State involved, and to officials of other Federal agencies, State and local governments and Indian tribes that the State Director has reason to believe would be concerned. This action shall constitute compliance with the requirements of § 3420.1-7 of this title.
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

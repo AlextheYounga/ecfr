@@ -1,0 +1,3 @@
+##### § 584.802 Delegation by the Secretary of the Treasury. #####
+
+Any action that the Secretary of the Treasury is authorized to take pursuant to the Magnitsky Act; Presidential Memorandum of April 5, 2013: Delegation of Functions Under Section 404 and 406 of Public Law 112-208 (78 FR 22761, April 16, 2013); or any Executive orders or further Presidential action relating to the Magnitsky Act, may be taken by the Director of OFAC or by any other person to whom the Secretary of the Treasury has delegated authority so to act.

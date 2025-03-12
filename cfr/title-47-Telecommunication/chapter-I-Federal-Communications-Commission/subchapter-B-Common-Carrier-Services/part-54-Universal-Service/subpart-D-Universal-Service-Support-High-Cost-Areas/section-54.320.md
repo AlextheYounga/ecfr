@@ -28,4 +28,4 @@
 
 (3) *Compliance reviews.* If subsequent to the eligible telecommunications carrier's support term, USAC determines in the course of a compliance review that the eligible telecommunications carrier does not have sufficient evidence to demonstrate that it is offering service to all of the locations required by the final milestone or, in the case of Alaska Plan participants, did not provide service consistent with the carrier's approved performance plan, USAC shall recover a percentage of support from the eligible telecommunications carrier as specified in paragraph (d)(2) of this section.
 
-[76 FR 73876, Nov. 29, 2011, as amended at 80 FR 4478, Jan. 27, 2015; 81 FR 69714, Oct. 7, 2016]Effective Date Note:At 80 FR 4478, Jan. 27, 2015, § 54.320(d) was added. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[76 FR 73876, Nov. 29, 2011, as amended at 80 FR 4478, Jan. 27, 2015; 81 FR 69714, Oct. 7, 2016]

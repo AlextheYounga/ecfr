@@ -1,47 +1,13 @@
-##### § 1610.3-2 Coordination of planning efforts. #####
+##### § 1610.3-2 Consistency requirements. #####
 
-(a) *Objectives of coordination.* In addition to the public involvement prescribed by § 1610.2, and to the extent consistent with Federal laws and regulations applicable to public lands, coordination is to be accomplished with other Federal agencies, State and local governments, and Indian tribes. The objectives of this coordination are for the BLM to:
+(a) Guidance and resource management plans and amendments to management framework plans shall be consistent with officially approved or adopted resource related plans, and the policies and programs contained therein, of other Federal agencies, State and local governments and Indian tribes, so long as the guidance and resource management plans are also consistent with the purposes, policies and programs of Federal laws and regulations applicable to public lands, including Federal and State pollution control laws as implemented by applicable Federal and State air, water, noise, and other pollution standards or implementation plans.
 
-(1) Keep apprised of the plans, policies, and management programs of other Federal agencies, State and local governments, and Indian tribes;
+(b) In the absence of officially approved or adopted resource-related plans of other Federal agencies, State and local governments and Indian tribes, guidance and resource management plans shall, to the maximum extent practical, be consistent with officially approved and adopted resource related policies and programs of other Federal agencies, State and local governments and Indian tribes. Such consistency will be accomplished so long as the guidance and resource management plans are consistent with the policies, programs and provisions of Federal laws and regulations applicable to public lands, including, but not limited to, Federal and State pollution control laws as implemented by applicable Federal and State air, water, noise and other pollution standards or implementation plans.
 
-(2) Assure that the BLM considers those plans, policies, and management programs that are germane in the development of resource management plans for public lands;
+(c) State Directors and Field Managers shall, to the extent practicable, keep apprised of State and local governmental and Indian tribal policies, plans, and programs, but they shall not be accountable for ensuring consistency if they have not been notified, in writing, by State and local governments or Indian tribes of an apparent inconsistency.
 
-(3) Assist in resolving, to the extent practical, inconsistencies between Federal and non-Federal government plans;
+(d) Where State and local government policies, plans, and programs differ, those of the higher authority will normally be followed.
 
-(4) Provide for meaningful public involvement of other Federal agencies, State and local government officials, both elected and appointed, and Indian tribes, in the development of resource management plans, including early notice of final decisions that may have a significant impact on non-Federal lands; and
+(e) Prior to the approval of a proposed resource management plan, or amendment to a management framework plan or resource management plan, the State Director shall submit to the Governor of the State(s) involved, the proposed plan or amendment and shall identify any known inconsistencies with State or local plans, policies or programs. The Governor(s) shall have 60 days in which to identify inconsistencies and provide recommendations in writing to the State Director. If the Governor(s) does not respond within the 60-day period, the plan or amendment shall be presumed to be consistent. If the written recommendation(s) of the Governor(s) recommend changes in the proposed plan or amendment which were not raised during the public participation process on that plan or amendment, the State Director shall provide the public with an opportunity to comment on the recommendation(s). If the State Director does not accept the recommendations of the Governor(s), the State Director shall notify the Governor(s) and the Governor(s) shall have 30 days in which to submit a written appeal to the Director of the Bureau of Land Management. The Director shall accept the recommendations of the Governor(s) if he/she determines that they provide for a reasonable balance between the national interest and the State's interest. The Director shall communicate to the Governor(s) in writing and publish in the Federal Register the reasons for his/her determination to accept or reject such Governor's recommendations.
 
-(5) Where possible and appropriate, develop resource management plans collaboratively with cooperating agencies.
-
-(b) *Cooperating agencies.* When preparing a resource management plan, the responsible official shall follow applicable regulations regarding the invitation of eligible governmental entities (see 43 CFR 46.225) to participate as cooperating agencies. The same requirement applies when the BLM amends a resource management plan and prepares an environmental impact statement to inform the amendment.
-
-(1) The responsible official shall consider any request by an eligible governmental entity to participate as a cooperating agency. If the responsible official denies a request or determines it is inappropriate to extend an invitation to an eligible governmental entity, he or she shall inform the deciding official of the denial. The deciding official shall determine if the denial is appropriate and state the reasons for any denials in the environmental impact statement.
-
-(2) When a cooperating agency is a non-Federal agency, a memorandum of understanding shall be used and shall include a commitment to maintain the confidentiality of documents and deliberations during the period prior to the public release by the BLM of any documents, including drafts (see 43 CFR 46.225(d)).
-
-(3) The responsible official shall collaborate, to the fullest extent possible, with all cooperating agencies concerning those issues relating to their jurisdiction and special expertise, during the following steps in the planning process:
-
-(i) Preparation of the planning assessment (see § 1610.4);
-
-(ii) Identification of planning issues (see § 1610.5-1);
-
-(iii) Formulation of resource management alternatives (see § 1610.5-2);
-
-(iv) Estimation of effects of alternatives (see § 1610.5-3);
-
-(v) Preparation of the draft resource management plan (see § 1610.5-4); and
-
-(vi) Preparation of the proposed resource management plan (see § 1610.5-5).
-
-(c) *Coordination requirements.* The BLM shall provide Federal agencies, State and local governments, and Indian tribes opportunity for review, advice, and suggestions on issues and topics which may affect or influence other agency or other government programs.
-
-(1) To facilitate coordination with State governments, deciding officials should seek the input of the Governor(s) on the timing, scope, and coordination of resource management planning; definition of planning areas; scheduling of public involvement activities; and multiple use and sustained yield on public lands.
-
-(2) Deciding officials may seek written agreements with Governors or their designated representatives on processes and procedural topics such as exchanging information, providing advice and participation, and timeframes for receiving State government participation and review in a timely fashion. If an agreement is not reached, the deciding official shall provide opportunity for Governor and State agency review, advice, and suggestions on issues and topics that the deciding official has reason to believe could affect or influence State government programs.
-
-(3) The responsible official shall notify Federal agencies, State and local governments, and Indian tribes that have requested to be notified or that the responsible official has reason to believe would be interested in the resource management plan or plan amendment of any opportunities for public involvement in the preparation or amendment of a resource management plan. These notices shall be issued simultaneously with the public notices required under § 1610.2-1 of this part.
-
-(4) The responsible official shall notify relevant State agencies consistent with State procedures for coordination of Federal activities for circulation among State agencies, if such procedures exist.
-
-(5) The responsible official shall provide Federal agencies, State and local governments, and Indian tribes the time period prescribed under § 1610.2 of this part for review and comment on resource management plans and plan amendments.
-
-(d) *Resource advisory councils.* When an advisory council has been formed under section 309 of FLPMA for the area addressed in a resource management plan or plan amendment, the responsible official shall inform that council, seek its views, and consider them throughout the planning process.
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

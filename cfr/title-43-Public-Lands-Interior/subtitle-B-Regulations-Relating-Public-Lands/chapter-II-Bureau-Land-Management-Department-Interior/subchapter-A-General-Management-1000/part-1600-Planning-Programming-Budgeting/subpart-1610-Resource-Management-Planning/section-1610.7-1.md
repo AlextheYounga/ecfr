@@ -12,4 +12,4 @@
 
 (3) After a resource management plan or plan amendment in which lands are designated unsuitable is approved, the Field Manager shall take all necessary steps to implement the results of the unsuitability review as it applies to minerals or materials other than coal.
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

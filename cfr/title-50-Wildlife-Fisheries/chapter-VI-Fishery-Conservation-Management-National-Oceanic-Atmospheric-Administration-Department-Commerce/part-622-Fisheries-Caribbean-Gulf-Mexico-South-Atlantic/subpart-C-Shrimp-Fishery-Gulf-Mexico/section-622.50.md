@@ -1,5 +1,7 @@
 ##### § 622.50 Permits, permit moratorium, and endorsements. #####
 
+Link to an amendment published at 82 FR 60567, Dec. 21, 2017.
+
 (a) *Gulf shrimp permit.* For a person aboard a vessel to fish for shrimp in the Gulf EEZ or possess shrimp in or from the Gulf EEZ, a commercial vessel permit for Gulf shrimp must have been issued to the vessel and must be on board. See paragraph (b) of this section regarding a moratorium on commercial vessel permits for Gulf shrimp and the associated provisions. See paragraph (c) of this section, regarding an additional endorsement requirement related to royal red shrimp.
 
 (b) *Moratorium on commercial vessel permits for Gulf shrimp.* The provisions of this paragraph (b) are applicable through October 26, 2026.

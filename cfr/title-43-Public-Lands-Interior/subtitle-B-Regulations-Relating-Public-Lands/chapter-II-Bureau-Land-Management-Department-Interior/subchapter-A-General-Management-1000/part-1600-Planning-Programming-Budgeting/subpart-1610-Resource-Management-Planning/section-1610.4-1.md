@@ -2,4 +2,4 @@
 
 At the outset of the planning process, the public, other Federal agencies, State and local governments and Indian tribes shall be given an opportunity to suggest concerns, needs, and resource use, development and protection opportunities for consideration in the preparation of the resource management plan. The Field Manager, in collaboration with any cooperating agencies, will analyze those suggestions and other available data, such as records of resource conditions, trends, needs, and problems, and select topics and determine the issues to be addressed during the planning process. Issues may be modified during the planning process to incorporate new information. The identification of issues shall also comply with the scoping process required by regulations implementing the National Environmental Policy Act (40 CFR 1501.7).
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14566, Mar. 23, 2005]
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14566, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]

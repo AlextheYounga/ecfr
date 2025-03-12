@@ -8,4 +8,4 @@ These regulations authorize the preparation of a resource management plan for wh
 
 (c) A land use analysis may be used to consider a coal lease when there is no Federal ownership interest in the surface or when coal resources are insufficient to justify plan preparation costs. The land use analysis process, as authorized by the Federal Coal Leasing Amendments Act, consists of an environmental assessment or impact statement, public participation as required by § 1610.2 of this title, the consultation and consistency determinations required by § 1610.3 of this title, the protest procedure prescribed by § 1610.5-2 of this title and a decision on the coal lease proposal. A land use analysis meets the planning requirements of section 202 of the Federal Land Policy and Management Act. The decision to approve the land use analysis and to lease coal is made by the Departmental official who has been delegated the authority to issue coal leases.
 
-[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005]
+[48 FR 20368, May 5, 1983, as amended at 70 FR 14567, Mar. 23, 2005; 81 FR 89661, Dec. 12, 2016; 82 FR 60555, Dec. 21, 2017]
