@@ -1,7 +1,5 @@
 ##### § 307.5 Mandatory computerized support enforcement systems. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 (a) *Basic requirement.* (1) By October 1, 1997, each State must have in effect an operational computerized support enforcement system, which meets Federal requirements under § 302.85(a)(1) of this chapter, OCSE will review each system to certify that these requirements are met; and
 
 (2) By October 1, 2000, each State must have in effect an operational computerized support enforcement system, which meets Federal requirements under § 302.85(a)(2) of this chapter. OCSE will review each system to certify that these requirements are met.
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (2) Include a detailed description of the separate automated or manual processes the State plans to use and how they will interface with the base system;
 
-(3) Provide documentation that the alternative system configuration will enable the State to be in substantial compliance with title IV-D of the Act in accordance with section 403(h) of the Act and implementing regulations. In addition, if the State is subject to a Notice under § 305.99 of this part that it did not substantially comply with one or more of the requirements of title IV-D of the Act, at the time a waiver request is submitted, the State must:
+(3) Provide documentation that the alternative system configuration will enable the State to be in substantial compliance with title IV-D of the Act in accordance with section 403(h) of the Act and implementing regulations. In addition, if the State is subject to a Notice under § 305.66 of this part that it did not substantially comply with one or more of the requirements of title IV-D of the Act, at the time a waiver request is submitted, the State must:
 
 (i) Demonstrate that the deficiency is not related to or caused by the performance of the system; or
 
@@ -46,4 +44,4 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (iii) FFP is not available for developing new systems or making major changes and enhancements to separate automated or manual processes so that alternative system configurations meet conditions for waiver.
 
-[57 FR 47003, Oct. 14, 1992, as amended at 61 FR 67241, Dec. 20, 1996; 63 FR 44814, Aug. 21, 1998; 81 FR 93568, Dec. 20, 2016]
+[57 FR 47003, Oct. 14, 1992, as amended at 61 FR 67241, Dec. 20, 1996; 63 FR 44814, Aug. 21, 1998; 81 FR 93568, Dec. 20, 2016; 85 FR 72911, Nov. 16, 2020]

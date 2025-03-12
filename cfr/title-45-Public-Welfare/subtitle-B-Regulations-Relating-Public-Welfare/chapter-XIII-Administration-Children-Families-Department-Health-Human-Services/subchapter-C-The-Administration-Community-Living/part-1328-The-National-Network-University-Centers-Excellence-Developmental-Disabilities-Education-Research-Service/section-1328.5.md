@@ -1,12 +1,10 @@
 ##### § 1328.5 Applications. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 (a) To be eligible to receive a grant under § 1388.2 for a Center, an entity shall submit to the Secretary, or his or her designee, an application at such time, in such manner, and containing such information, as the Secretary, or his or her designee, may require for approval.
 
 (b) Each application shall describe a five-year plan that must include:
 
-(1) Projected goal(s) related to one or more areas of emphasis described in § 1385.3 of this chapter for each of the core functions.
+(1) Projected goal(s) related to one or more areas of emphasis described in § 1325.3 of this chapter for each of the core functions.
 
 (2) Measures of progress.
 
@@ -22,7 +20,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (iii) Will be reviewed and revised annually as necessary to address emerging trends and needs.
 
-(3) Use the funds made available through the grant to supplement, and not supplant, the funds that would otherwise be made available for activities described in § 1388.2(a)(1) and (2).
+(3) Use the funds made available through the grant to supplement, and not supplant, the funds that would otherwise be made available for activities described in § 1328.2(a)(1) and (2).
 
 (4) Protect, consistent with the policy specified in section 101(c) of the DD Act of 2000 the legal and human rights of all individuals with developmental disabilities (especially those individuals under State guardianship who are involved in activities carried out under programs assisted under subtitle D of the Act).
 
@@ -60,7 +58,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (7) Have a director with appropriate academic credentials, demonstrated leadership, expertise regarding developmental disabilities, significant experience in managing grants and contracts, and the ability to leverage public and private funds; and
 
-(i) Allocate adequate staff time to carry out activities related to each of the core functions described in § 1388.3.
+(i) Allocate adequate staff time to carry out activities related to each of the core functions described in § 1328.3.
 
 (ii) [Reserved]
 
@@ -75,3 +73,5 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 (e)(1) The Federal share of the cost of administration or operation of a Center, or the cost of carrying out a training initiative, supported by a grant made under subtitle D of the Act may not be more than 75 percent of the necessary cost of such project, as determined by the Secretary, or his or her designee.
 
 (2) In the case of a project whose activities or products target individuals with developmental disabilities who live in an urban or rural poverty area, as determined by the Secretary, or his or her designee, the Federal share of the cost of the project may not be more than 90 percent of the necessary costs of the project, as determined by the Secretary, or his or her designee.
+
+[80 FR 44807, July 27, 2015, as amended at 81 FR 35647, June 3, 2016; 85 FR 72911, Nov. 16, 2020]Editorial Note:At 85 FR 72911, Nov. 16, 2020, § 1328.5 was amended in part by removing the reference “1388.2” and adding in its place “45 CFR 1328.2”; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

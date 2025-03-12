@@ -1,7 +1,5 @@
 ##### § 56.108 Use of grant funds. #####
 
-Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
-
 (a) Any funds granted pursuant to this part, as well as other funds to be used in performance of the approved project, may be expended solely for carrying out the approved project in accordance with section 319 of the Act, the applicable regulations of this part, the terms and conditions of the award, and the applicable cost principles prescribed in 45 CFR part 75, subpart E.
 
 (b) Project funds awarded under this part may be used for, but need not be limited to, the following:
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
 
 (4) To reimburse such governing board or advisory council members who are individuals eligible to be served by the project for wages lost by reason of participation in the activities of such board or council;
 
-(5) The cost of delivering health services to migratory agricultural workers, seasonal agricultural workers and the members of their families within the project's catchment area, within the following limitations: grant funds may be used to pay the full cost of project services to such individuals and families with annual incomes at or below those set forth in the most recent “CSA Income Poverty Guidelines” (45 CFR 1060.2) issued by the Community Services Administration, and to pay the portion of the cost of services provided in accordance with the schedule of discounts which, under such schedule, is uncompensated; *Provided,* That
+(5) The cost of delivering health services to migratory agricultural workers, seasonal agricultural workers and the members of their families within the project's catchment area, within the following limitations: grant funds may be used to pay the full cost of project services to such individuals and families with annual incomes at or below those set forth in the poverty guidelines updated periodically in the Federal Register by the U.S. Department of Health and Human Services under the authority of 42 U.S.C. 9902(2); and to pay the portion of the cost of services provided in accordance with the schedule of discounts which, under such schedule, is uncompensated; *Provided,* That
 
 (i) Charges will be made to such individuals and families in accordance with § 56.303(f) of subpart C or § 56.603(e) of subpart F, as applicable;
 
@@ -28,4 +26,4 @@ Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
 
 (c) Prior approval by the Secretary of revisions of the budget and project plan is required whenever there is to be a significant change in the scope or nature of project activities.
 
-[42 FR 60406, Nov. 25, 1977, as amended at 81 FR 3008, Jan. 20, 2016]
+[42 FR 60406, Nov. 25, 1977, as amended at 81 FR 3008, Jan. 20, 2016; 85 FR 72908, Nov. 16, 2020]

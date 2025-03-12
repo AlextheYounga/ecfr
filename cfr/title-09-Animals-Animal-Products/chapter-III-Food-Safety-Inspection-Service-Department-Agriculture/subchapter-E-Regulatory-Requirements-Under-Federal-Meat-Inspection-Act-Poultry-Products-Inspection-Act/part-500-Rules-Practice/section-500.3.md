@@ -1,6 +1,6 @@
 ##### § 500.3 Withholding action or suspension without prior notification. #####
 
-Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
 
 (a) FSIS may take a withholding action or impose a suspension without providing the establishment prior notification because:
 

@@ -1,16 +1,16 @@
 ##### § 404.2 General definitions and use of terms. #####
 
-Link to an amendment published at 85 FR 73156, Nov. 16, 2020.
-
 (a) *Terms relating to the Act and regulations.* (1) *The Act* means the Social Security Act, as amended (42 U.S.C. Chapter 7).
 
 (2) *Section* means a section of the regulations in part 404 of this chapter unless the context indicates otherwise.
 
-(b) *Commissioner; Appeals Council; Administrative Law Judge defined.* (1) *Commissioner* means the Commissioner of Social Security.
+(b) *Commissioner; Appeals Council; Administrative Law Judge; Administrative Appeals Judge defined*—(1) *Commissioner* means the Commissioner of Social Security.
 
-(2) *Appeals Council* means the Appeals Council of the Office of Hearings and Appeals in the Social Security Administration or such member or members thereof as may be designated by the Chairman.
+(2) *Appeals Council* means the Appeals Council of the Office of Analytics, Review, and Oversight in the Social Security Administration or such member or members thereof as may be designated by the Chair of the Appeals Council.
 
-(3) *Administrative Law Judge* means an Administrative Law Judge in the Office of Hearings and Appeals in the Social Security Administration.
+(3) *Administrative Law Judge* means an Administrative Law Judge in the Office of Hearings Operations in the Social Security Administration.
+
+(4) *Administrative Appeals Judge* means an Administrative Appeals Judge serving as a member of the Appeals Council.
 
 (c) *Miscellaneous.* (1) *Certify,* when used in connection with the duty imposed on the Commissioner by section 205(i) of the act, means that action taken by the Administration in the form of a written statement addressed to the Managing Trustee, setting forth the name and address of the person to whom payment of a benefit or lump sum, or any part thereof, is to be made, the amount to be paid, and the time at which payment should be made.
 
@@ -52,4 +52,4 @@ Link to an amendment published at 85 FR 73156, Nov. 16, 2020.
 
 (8) The terms defined in sections 209, 210, and 211 of the act shall have the meanings therein assigned to them.
 
-[26 FR 7055, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 28 FR 1037, Feb. 2, 1963; 28 FR 14492, Dec. 31, 1963; 29 FR 15509, Nov. 19, 1964; 41 FR 32886, Aug. 6, 1976; 51 FR 11718, Apr. 7, 1986; 61 FR 41330, Aug. 8, 1996; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 79 FR 33684, June 12, 2014; 83 FR 21708, May 10, 2018]
+[26 FR 7055, Aug. 5, 1961; 26 FR 7760, Aug. 19, 1961, as amended at 28 FR 1037, Feb. 2, 1963; 28 FR 14492, Dec. 31, 1963; 29 FR 15509, Nov. 19, 1964; 41 FR 32886, Aug. 6, 1976; 51 FR 11718, Apr. 7, 1986; 61 FR 41330, Aug. 8, 1996; 62 FR 38450, July 18, 1997; 69 FR 51555, Aug. 20, 2004; 79 FR 33684, June 12, 2014; 83 FR 21708, May 10, 2018; 85 FR 73156, Nov. 16, 2020]

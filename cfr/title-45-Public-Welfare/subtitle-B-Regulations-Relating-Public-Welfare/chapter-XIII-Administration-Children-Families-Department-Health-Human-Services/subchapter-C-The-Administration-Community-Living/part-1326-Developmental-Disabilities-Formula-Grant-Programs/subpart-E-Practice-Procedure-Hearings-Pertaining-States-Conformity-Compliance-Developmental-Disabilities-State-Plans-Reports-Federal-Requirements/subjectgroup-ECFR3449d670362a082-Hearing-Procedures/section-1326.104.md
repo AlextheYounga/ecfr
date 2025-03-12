@@ -1,0 +1,3 @@
+##### § 1326.104 Evidentiary purpose. #####
+
+The hearing is directed to receiving factual evidence and expert opinion testimony related to the issues in the proceeding. Argument will not be received in evidence; rather, it must be presented in statements, memoranda, or briefs, as directed by the presiding officer. Brief opening statements, which shall be limited to a statement of the party's position and what it intends to prove, may be made at hearings.

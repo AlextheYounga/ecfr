@@ -1,7 +1,5 @@
 ##### § 423.2330 Manufacturer discount payment audit and dispute resolution. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) *Third-party Administration (TPA) audits.* (1) Manufacturers participating in the Discount Program may conduct periodic audits, no more often than annually, directly or through third parties as specified in this section.
 
 (2) The manufacturer must provide the TPA with 60 days notice of the reasonable basis for the audit and a description of the information required for the audit.
@@ -20,9 +18,9 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (2) Such notice must be accompanied by supporting evidence that is material, specific, and related to the dispute in a manner specified by CMS.
 
-(3) The manufacturer must not withhold any invoiced discount payments pending dispute resolution with the sole exception of invoiced amounts for applicable drugs that do not have labeler codes provided by the manufacturer to CMS in accordance with § 423.2306(b)(4) of this subpart. If payment is withheld in accordance with this paragraph, the manufacturer must notify the TPA and applicable Part D sponsors within 38 days of receipt of the applicable invoice that payment is being withheld for this reason.
+(3) The manufacturer must not withhold any invoiced discount payments pending dispute resolution with the sole exception of invoiced amounts for applicable drugs that do not have labeler codes provided by the manufacturer to CMS in accordance with § 423.2315(b)(4). If payment is withheld in accordance with this paragraph, the manufacturer must notify the TPA and applicable Part D sponsors within 38 days of receipt of the applicable invoice that payment is being withheld for this reason.
 
-(4) If the manufacturer receives an unfavorable determination from the TPA, or the dispute is not resolved within 60 calendar days of the TPA's receipt of the notice of dispute, the manufacturer may request review by the independent review entity contracted by CMS within -
+(4) If the manufacturer receives an unfavorable determination from the TPA, or the dispute is not resolved within 60 calendar days of the TPA's receipt of the notice of dispute, the manufacturer may request review by the independent review entity contracted by CMS within—
 
 (i) Thirty calendar days of the unfavorable determination; or
 
@@ -35,3 +33,5 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 (ii) The decision of the CMS Administrator is final and binding.
 
 (7) CMS adjusts future invoices (or implements an alternative reimbursement process if determined necessary by CMS) if the dispute is resolved in favor of the manufacturer.
+
+[77 FR 22172, Apr. 12, 2012, as amended at 85 FR 72909, Nov. 16, 2020]

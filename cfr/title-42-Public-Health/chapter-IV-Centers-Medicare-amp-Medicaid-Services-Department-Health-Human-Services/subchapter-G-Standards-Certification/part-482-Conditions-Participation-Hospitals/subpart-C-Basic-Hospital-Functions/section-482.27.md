@@ -1,7 +1,5 @@
 ##### § 482.27 Condition of participation: Laboratory services. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 The hospital must maintain, or have available, adequate laboratory services to meet the needs of its patients. The hospital must ensure that all laboratory services provided to its patients are performed in a facility certified in accordance with part 493 of this chapter.
 
 (a) *Standard: Adequacy of laboratory services.* The hospital must have laboratory services available, either directly or through a contractual agreement with a certified laboratory that meets requirements of part 493 of this chapter.
@@ -14,7 +12,7 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (4) The medical staff and a pathologist must determine which tissue specimens require a macroscopic (gross) examination and which require both macroscopic and microscopic examinations.
 
-(b) *Standard: Potentially infectious blood and blood components* - (1) *Potentially human immunodeficiency virus (HIV) infectious blood and blood components.* Potentially HIV infectious blood and blood components are prior collections from a donor -
+(b) *Standard: Potentially infectious blood and blood components*—(1) *Potentially human immunodeficiency virus (HIV) infectious blood and blood components.* Potentially HIV infectious blood and blood components are prior collections from a donor—
 
 (i) Who tested negative at the time of donation but tests reactive for evidence of HIV infection on a later donation;
 
@@ -24,27 +22,27 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (2) *Potentially hepatitis C virus (HCV) infectious blood and blood components.* Potentially HCV infectious blood and blood components are the blood and blood components identified in 21 CFR 610.47.
 
-(3) *Services furnished by an outside blood collecting establishment.* If a hospital regularly uses the services of an outside blood collecting establishment, it must have an agreement with the blood collecting establishment that governs the procurement, transfer, and availability of blood and blood components. The agreement must require that the blood collecting establishment notify the hospital -
+(3) *Services furnished by an outside blood collecting establishment.* If a hospital regularly uses the services of an outside blood collecting establishment, it must have an agreement with the blood collecting establishment that governs the procurement, transfer, and availability of blood and blood components. The agreement must require that the blood collecting establishment notify the hospital—
 
 (i) Within 3 calendar days if the blood collecting establishment supplied blood and blood components collected from a donor who tested negative at the time of donation but tests reactive for evidence of HIV or HCV infection on a later donation or who is determined to be at increased risk for transmitting HIV or HCV infection;
 
 (ii) Within 45 days of the test, of the results of the supplemental (additional, more specific) test for HIV or HCV, as relevant, or other follow-up testing required by FDA; and
 
-(iii) Within 3 calendar days after the blood collecting establishment supplied blood and blood components collected from an infectious donor, whenever records are available, as set forth at 21 CFR 610.48(b)(3).
+(iii) Within 3 calendar days after the blood collecting establishment supplied blood and blood components collected from an infectious donor, whenever records are available.
 
 (4) *Quarantine and disposition of blood and blood components pending completion of testing.* If the blood collecting establishment (either internal or under an agreement) notifies the hospital of the reactive HIV or HCV screening test results, the hospital must determine the disposition of the blood or blood product and quarantine all blood and blood components from previous donations in inventory.
 
 (i) If the blood collecting establishment notifies the hospital that the result of the supplemental (additional, more specific) test or other follow-up testing required by FDA is negative, absent other informative test results, the hospital may release the blood and blood components from quarantine.
 
-(ii) If the blood collecting establishment notifies the hospital that the result of the supplemental, (additional, more specific) test or other follow-up testing required by FDA is positive, the hospital must -
+(ii) If the blood collecting establishment notifies the hospital that the result of the supplemental, (additional, more specific) test or other follow-up testing required by FDA is positive, the hospital must—
 
 (A) Dispose of the blood and blood components; and
 
 (B) Notify the transfusion beneficiaries as set forth in paragraph (b)(6) of this section.
 
-(iii) If the blood collecting establishment notifies the hospital that the result of the supplemental, (additional, more specific) test or other follow-up testing required by FDA is indeterminate, the hospital must destroy or label prior collections of blood or blood components held in quarantine as set forth at 21 CFR 610.46(b)(2), 610.47(b)(2), and 610.48(c)(2).
+(iii) If the blood collecting establishment notifies the hospital that the result of the supplemental, (additional, more specific) test or other follow-up testing required by FDA is indeterminate, the hospital must destroy or label prior collections of blood or blood components held in quarantine as set forth at 21 CFR 610.46(b)(2) and 610.47(b)(2).
 
-(5) *Recordkeeping by the hospital.* The hospital must maintain -
+(5) *Recordkeeping by the hospital.* The hospital must maintain—
 
 (i) Records of the source and disposition of all units of blood and blood components for at least 10 years from the date of disposition in a manner that permits prompt retrieval; and
 
@@ -58,7 +56,7 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (iii) Document in the patient's medical record the notification or attempts to give the required notification.
 
-(7) *Timeframe for notification* - For donors tested on or after February 20, 2008. For notifications resulting from donors tested on or after February 20, 2008 as set forth at 21 CFR 610.46 and 610.47 the notification effort begins when the blood collecting establishment notifies the hospital that it received potentially HIV or HCV infectious blood and blood components. The hospital must make reasonable attempts to give notification over a period of 12 weeks unless -
+(7) *Timeframe for notification*—For donors tested on or after February 20, 2008. For notifications resulting from donors tested on or after February 20, 2008 as set forth at 21 CFR 610.46 and 610.47 the notification effort begins when the blood collecting establishment notifies the hospital that it received potentially HIV or HCV infectious blood and blood components. The hospital must make reasonable attempts to give notification over a period of 12 weeks unless—
 
 (i) The patient is located and notified; or
 
@@ -82,4 +80,4 @@ The hospital must maintain, or have available, adequate laboratory services to m
 
 (2) Notification and counseling of beneficiaries that may have received infectious blood and blood components.
 
-[57 FR 7136, Feb. 28, 1992, as amended at 61 FR 47433, Sept. 9, 1996; 72 FR 48573, Aug. 24, 2007; 84 FR 51819, Sept. 30, 2019]
+[57 FR 7136, Feb. 28, 1992, as amended at 61 FR 47433, Sept. 9, 1996; 72 FR 48573, Aug. 24, 2007; 84 FR 51819, Sept. 30, 2019; 85 FR 72909, Nov. 16, 2020]

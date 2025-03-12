@@ -1,10 +1,8 @@
 ##### § 426.110 Definitions. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 For the purposes of this part, the following definitions apply:
 
-*Aggrieved party* means a Medicare beneficiary, or the estate of a Medicare beneficiary, who -
+*Aggrieved party* means a Medicare beneficiary, or the estate of a Medicare beneficiary, who—
 
 (1) Is entitled to benefits under Part A, enrolled under Part B, or both (including an individual enrolled in fee-for-service Medicare, in a Medicare + Choice plan, or in another Medicare managed care plan);
 
@@ -26,7 +24,7 @@ For the purposes of this part, the following definitions apply:
 
 *Proprietary data* and *Privileged information* means information from a source external to CMS or a contractor, or protected health information, that meets the following criteria:
 
-(1) It is ordinarily protected from disclosure in accordance with 45 CFR part 164, under the Trade Secrets Act (18 U.S.C. 1905) or under Exemptions 4 or 5 of the Freedom of Information Act (5 U.S.C. 552) as specified in 45 CFR 5.65.
+(1) It is ordinarily protected from disclosure in accordance with 45 CFR part 164, under the Trade Secrets Act (18 U.S.C. 1905) or under Exemptions 4 or 5 of the Freedom of Information Act (5 U.S.C. 552) as specified in 45 CFR 5.31(d) and (e).
 
 (2) The party who possesses the right to protection of the information from public release or disclosure has not provided its consent to the public release or disclosure of the information. Any information submitted by the public that is not marked proprietary is not considered proprietary.
 
@@ -35,3 +33,5 @@ For the purposes of this part, the following definitions apply:
 *Supplemental LCD/NCD record* is a record that the contractor/CMS provides to the ALJ/Board and any aggrieved party and consists of all materials received and considered during a reconsideration. Materials that are already in the record before the ALJ/Board (for example, new evidence presented in the taking of evidence or hearing) need not be provided but may be incorporated by reference in the supplement to the LCD/NCD record. The contractor/CMS may provide statements, evidence, or other submissions to the ALJ/Board during the proceedings, as provided elsewhere in these regulations, but these submissions are not considered as supplementing the LCD/NCD record.
 
 *Treating physician* means the physician who is the beneficiary's primary clinician with responsibility for overseeing the beneficiary's care and either approving or providing the service at issue in the challenge.
+
+[68 FR 63716, Nov. 7, 2003, as amended at 85 FR 72909, Nov. 16, 2020]

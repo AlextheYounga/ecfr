@@ -1,0 +1,3 @@
+##### § 1326.108 Official transcript. #####
+
+The Department will designate the official reporter for all hearings. The official transcript of testimony taken, together with any stipulations, exhibits, briefs, or memoranda of law filed with them is filed with the Department. Transcripts of testimony in hearings may be obtained from the official reporter by the parties and the public at rates not to exceed the maximum rates fixed by the contract between the Department and the reporter. Upon notice to all parties, the presiding officer may authorize corrections to the transcript which involve matters of substance. Transcripts must be taken by stenotype machine and not be voice recording devices, unless otherwise agreed by all of the parties and the presiding officer.

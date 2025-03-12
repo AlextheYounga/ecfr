@@ -1,0 +1,5 @@
+##### § 590.13 Federal and State cooperation. #####
+
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
+
+The Secretary shall, whenever he determines that it would effectuate the purposes of the Act, authorize the Administrator to cooperate with appropriate State and other governmental agencies in carrying out any provisions of the Egg Products Inspection Act and these regulations. In carrying out the provisions of the Act and the regulations, the Secretary may conduct such examinations, investigations, and inspections as he determines practicable through any officer or employee of any such agency commissioned by him for such purpose. The Secretary shall reimburse the States and other agencies for the services rendered by them in such cooperative programs as agreed to in the cooperative agreements as signed by the Administrator and the duly authorized agent of the State or other agency.

@@ -127,3 +127,5 @@ For the purposes of parts 1325 through 1328 of this chapter, the following defin
 *UCEDD.* The term “UCEDD” means University Centers for Excellence in Developmental Disabilities Education, Research, and Service, also known by the term “Center” under section 102(5) of the Act.
 
 *Unserved and underserved.* The term “unserved and underserved” includes populations such as individuals from racial and ethnic minority backgrounds, disadvantaged individuals, individuals with limited English proficiency, individuals from underserved geographic areas (rural or urban), and specific groups of individuals within the population of individuals with developmental disabilities, including individuals who require assistive technology in order to participate in community life.
+
+[80 FR 44807, July 27, 2015, as amended at 81 FR 35647, June 3, 2016]

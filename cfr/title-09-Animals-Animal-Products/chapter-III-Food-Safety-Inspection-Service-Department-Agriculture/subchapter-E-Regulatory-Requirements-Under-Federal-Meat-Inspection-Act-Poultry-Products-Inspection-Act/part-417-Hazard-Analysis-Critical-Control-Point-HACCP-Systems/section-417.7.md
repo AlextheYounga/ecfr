@@ -1,6 +1,6 @@
 ##### § 417.7 Training. #####
 
-Link to an amendment published at 85 FR 68672, Oct. 29, 2020.
+Link to an amendment published at 85 FR 68672, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
 
 (a) Only an individual who has met the requirements of paragraph (b) of this section, but who need not be an employee of the establishment, shall be permitted to perform the following functions:
 

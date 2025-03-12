@@ -1,0 +1,7 @@
+##### § 590.240 Detaining product. #####
+
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
+
+Whenever any eggs or egg products subject to the Act are found by any authorized representative of the Secretary upon any premises, and there is reason to believe that they are or have been processed, bought, sold, possessed, used, transported, or offered or received for sale or transportation in violation of the Act or the regulations in this part, or that they are in any other way in violation of the Act, such articles may be detained by such representative for a period not to exceed 20 days, as more fully provided in section 19 of the Act. A detention tag or other similar device shall be used to identify detained product, and the custodian or owner shall be given a written notice of such detention. Only authorized representatives of the Secretary shall affix or remove detention identification. The provisions of this section shall in no way derogate from authority for condemnation or seizure conferred by other provisions of the Act, the regulations in this part, or other laws.
+
+[37 FR 6658, Apr. 1, 1972. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 63 FR 69972, Dec. 17, 1998]

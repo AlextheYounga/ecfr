@@ -1,0 +1,23 @@
+##### § 1326.22 Periodic reports: State Protection and Advocacy System. #####
+
+(a) By January 1 of each year, each State Protection and Advocacy System shall submit to AIDD, an Annual Program Performance Report. In order to be accepted, the Report must meet the requirements of section 144(e) of the Act (42 U.S.C. 15044), the applicable regulation and include information on the System's program necessary for the Secretary, or his or her designee, to comply with section 105(1), (2), and (3) of the Act (42 U.S.C. 15005). The Report shall describe the activities, accomplishments, and expenditures of the system during the preceding fiscal year. Reports shall include a description of the system's goals and the extent to which the goals were achieved, barriers to their achievement; the process used to obtain public input, the nature of such input, and how such input was used; the extent to which unserved or underserved individuals or groups, particularly from ethnic or racial groups or geographic regions (*e.g.,* rural or urban areas) were the target of assistance or service; and other such information on the Protection and Advocacy System's activities requested by AIDD.
+
+(b) Financial status reports (standard form 425) must be submitted by the agency administering and operating the State Protection and Advocacy System semiannually.
+
+(c) By January 1 of each year, the State Protection and Advocacy System shall submit to AIDD, an Annual Statement of Goals and Priorities, (SGP), for the coming fiscal year as required under section 143(a)(2)(C) of the Act (42 U.S.C. 15043). In order to be accepted by AIDD, an SGP must meet the requirements of section 143 of the Act.
+
+(1) The SGP is a description and explanation of the system's goals and priorities for its activities, selection criteria for its individual advocacy and training activities, and the outcomes it strives to accomplish. The SGP is developed through data driven strategic planning. If changes are made to the goals or the indicators of progress established for a year, the SGP must be amended to reflect those changes. The SGP must include a description of how the Protection and Advocacy System operates, and where applicable, how it coordinates the State Protection and Advocacy program for individuals with developmental disabilities with other Protection and Advocacy programs administered by the State Protection and Advocacy System. This description must include the System's processes for intake, internal and external referrals, and streamlining of advocacy services. If the System will be requesting or requiring fees or donations from clients as part of the intake process, the SGP must state that the system will be doing so. The description also must address collaboration, the reduction of duplication and overlap of services, the sharing of information on service needs, and the development of statements of goals and priorities for the various advocacy programs.
+
+(2) Priorities as established through the SGP serve as the basis for the Protection and Advocacy System to determine which cases are selected in a given fiscal year. Protection and Advocacy Systems have the authority to turn down a request for assistance when it is outside the scope of the SGP, but they must inform individuals when this is the basis for turning them down.
+
+(d) Each fiscal year, the Protection and Advocacy System shall:
+
+(1) Obtain formal public input on its Statement of Goals and Priorities;
+
+(2) At a minimum, provide for a broad distribution of the proposed Statement of Goals and Priorities for the next fiscal year in a manner accessible to individuals with developmental disabilities and their representatives, allowing at least 45 days from the date of distribution for comment;
+
+(3) Provide to the State Councils on Developmental Disabilities and the University Centers for Excellence in Developmental Disabilities Education, Research and Service a copy of the proposed Statement of Goals and Priorities for comment concurrently with the public notice;
+
+(4) Incorporate or address any comments received through public input and any input received from the State Councils on Developmental Disabilities and the University Centers for Excellence in Developmental Disabilities Education, Research and Service in the final Statement submitted; and
+
+(5) Address how the Protection and Advocacy System, State Councils on Developmental Disabilities, and University Centers for Excellence in Developmental Disabilities Education Research and Service will collaborate with each other and with other public and private entities.

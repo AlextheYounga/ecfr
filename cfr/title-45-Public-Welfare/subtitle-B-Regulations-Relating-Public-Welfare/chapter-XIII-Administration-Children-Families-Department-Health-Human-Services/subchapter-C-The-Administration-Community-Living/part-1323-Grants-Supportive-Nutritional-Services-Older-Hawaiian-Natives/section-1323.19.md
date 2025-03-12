@@ -23,3 +23,5 @@ To receive funds under this part, an eligible organization shall submit an appli
 (6) The services provided under this part will be coordinated, where applicable, with services provided under title III of the Act.
 
 (e) Signature by the principal official of the eligible organization.
+
+[53 FR 33777, Aug. 31, 1988, as amended at 81 FR 35646, June 3, 2016]

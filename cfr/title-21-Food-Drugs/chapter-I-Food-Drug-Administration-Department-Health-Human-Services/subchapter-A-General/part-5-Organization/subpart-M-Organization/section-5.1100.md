@@ -1,6 +1,6 @@
 ##### § 5.1100 Headquarters. #####
 
-Link to an amendment published at 85 FR 72906, Nov. 16, 2020.*Office of the Commissioner*.1
+*Office of the Commissioner*.1
 
 1 Mailing address: 10903 New Hampshire Ave., Silver Spring, MD 20993.
 
@@ -248,4 +248,5 @@ Chemistry Branch.Microbiology Branch.Seafood Products Research Center.*Office of
 
 62 Mailing address: 10903 New Hampshire Ave., Silver Spring, MD 20993.
 
-Management and Operations Staff.Intergovernment Affairs Staff.*Office of Policy.*Regulations Policy and Management Staff.Policy Development and Coordination Staff.*Office of Planning.*Planning Staff.Program Evaluation and Process Improvement Staff.Economics Staff.Risk Communication Staff.*Office of Legislation.**Office of Public Health Strategy and Analysis.*[81 FR 78033, Nov. 7, 2016, as amended at 83 FR 13106, Mar. 27, 2018; 85 FR 18440, Apr. 2, 2020]
+Management and Operations Staff.Intergovernment Affairs Staff.*Office of Policy.*Regulations Policy and Management Staff.Policy Development and Coordination Staff.*Office of Planning.*Planning Staff.Program Evaluation and Process Improvement Staff.Economics Staff.Risk Communication Staff.*Office of Legislation.**Office of Public Health Strategy and Analysis.*[81 FR 78033, Nov. 7, 2016, as amended at 83 FR 13106, Mar. 27,
+2018; 85 FR 18440, Apr. 2, 2020]Editorial Note:At 85 FR 72906, Nov 16, 2020, § 5.1100 was amended; however, the amendment could not be incorporated due to the inaccurate amendatory instruction.

@@ -1,7 +1,5 @@
 ##### § 51c.107 Use of project funds. #####
 
-Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
-
 (a) Any funds granted pursuant to this part, as well as other funds to be used in performance of the approved project, may be expended solely for carrying out the approved project in accordance with section 330 of the Act, the applicable regulations of this part, the terms and conditions of the award, and the applicable cost principles prescribed in 45 CFR part 75, subpart E.
 
 (b) Project funds awarded under this part may be used for, but need not be limited to, the following:
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
 
 (4) The reimbursement of governing board members for wages lost by reason of participation in the activities of such board if the member is from a family with an annual family income below $10,000 or if the member is a single person with an annual income below $7,000;
 
-(5) The cost of delivering health services, including services rendered on a prepaid capitation basis, to residents of the project's catchment area within the following limitations: grant funds may be used to pay the full cost of project services to individuals and families with annual incomes at or below those set forth in the most recent “CSA Income Poverty Guidelines” (45 CFR 1060.2) issued by the Community Services Administration; and to pay the portion of the cost of services provided in accordance with the schedule of discounts which, under such schedule, is uncompensated; *Provided,* That (i) charges will be made to such individuals and families in accordance with § 51c.303(f) of subpart C; (ii) reasonable effort shall be made to collect such charges under a billing and collections system; and (iii) the charge to grant funds shall exclude any amounts collected pursuant to paragraph (b)(5)(ii) of this section;
+(5) The cost of delivering health services, including services rendered on a prepaid capitation basis, to residents of the project's catchment area within the following limitations: grant funds may be used to pay the full cost of project services to individuals and families with annual incomes at or below those set forth in the poverty guidelines updated periodically in the Federal Register by the U.S. Department of Health and Human Services under the authority of 42 U.S.C. 9902(2); and to pay the portion of the cost of services provided in accordance with the schedule of discounts which, under such schedule, is uncompensated; *Provided,* That (i) charges will be made to such individuals and families in accordance with § 51c.303(f) of subpart C; (ii) reasonable effort shall be made to collect such charges under a billing and collections system; and (iii) the charge to grant funds shall exclude any amounts collected pursuant to paragraph (b)(5)(ii) of this section;
 
 (6) The cost of insurance for medical emergency and out-of-area coverage;
 
@@ -24,4 +22,4 @@ Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
 
 (c) Prior approval by the Secretary of revisions of the budget and project plan is required whenever there is to be a significant change in the scope or nature of project activities.
 
-[41 FR 53205, Dec. 3, 1976, as amended at 81 FR 3007, Jan. 20, 2016]
+[41 FR 53205, Dec. 3, 1976, as amended at 81 FR 3007, Jan. 20, 2016; 85 FR 72908, Nov. 16, 2020]

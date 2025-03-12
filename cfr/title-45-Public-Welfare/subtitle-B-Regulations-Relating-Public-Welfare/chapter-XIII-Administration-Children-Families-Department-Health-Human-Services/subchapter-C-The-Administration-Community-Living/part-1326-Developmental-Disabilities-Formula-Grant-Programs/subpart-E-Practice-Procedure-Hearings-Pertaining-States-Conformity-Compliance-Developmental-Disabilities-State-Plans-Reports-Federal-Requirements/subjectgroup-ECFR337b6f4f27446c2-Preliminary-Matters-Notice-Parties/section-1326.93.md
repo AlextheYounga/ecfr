@@ -1,0 +1,15 @@
+##### § 1326.93 Issues at hearing. #####
+
+(a) Prior to a hearing, the Secretary or his or her designee may notify the State in writing of additional issues which will be considered at the hearing. That notice must be published in the Federal Register. If that notice is mailed to the State less than 20 days before the date of the hearing, the State or any other party, at its request, must be granted a postponement of the hearing to a date 20 days after the notice was mailed or such later date as may be agreed to by the Secretary or his or her designee.
+
+(b) If any issue is resolved in whole or in part, but new or modified issues are presented, the hearing must proceed on the new or modified issues.
+
+(c)(1) If at any time, whether prior to, during, or after the hearing, the Secretary, or his or her designee, finds that the State has come into compliance with Federal requirements on any issue in whole or in part, he or she must remove the issue from the proceedings in whole or in part as may be appropriate. If all issues are removed the Secretary, or his or her designee, must terminate the hearing.
+
+(2) Prior to the removal of an issue, in whole or in part, from a hearing involving issues relating to the conformity with Federal requirements under part B of the Act, of the State plan or the activities of the State Protection and Advocacy System, the Secretary, or his or her designee, must provide all parties other than the Department and the State (see § 1326.94(b)) with the statement of his or her intention to remove an issue from the hearing and the reasons for that decision. A copy of the proposed State plan provision or document explaining changes in the activities of the State's Protection and Advocacy System on which the State and the Secretary, or his or her designee, have settled must be sent to the parties. The parties must have an opportunity to submit in writing within 15 days their views as to, or any information bearing upon, the merits of the proposed provision and the merits of the reasons for removing the issue from the hearing.
+
+(d) In hearings involving questions of noncompliance of a State's operation of its program under part B of the Act, with the State plan or with Federal requirements, or compliance of the State Protection and Advocacy System with Federal requirements, the same procedure set forth in paragraph (c)(2) of this section must be followed with respect to any report or evidence resulting in a conclusion by the Secretary, or his or her designee, that a State has achieved compliance.
+
+(e) The issues considered at the hearing must be limited to those issues of which the State is notified as provided in § 1326.90 and paragraph (a) of this section, and new or modified issues described in paragraph (b) of this section, and may not include issues or parts of issues removed from the proceedings pursuant to paragraph (c) of this section.
+
+[80 FR 44807, July 27, 2015, as amended at 81 FR 35647, June 3, 2016; 85 FR 72911, Nov. 16, 2020]

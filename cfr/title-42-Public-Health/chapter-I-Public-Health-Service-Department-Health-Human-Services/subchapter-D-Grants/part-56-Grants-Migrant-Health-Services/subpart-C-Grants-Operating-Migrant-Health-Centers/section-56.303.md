@@ -1,7 +1,5 @@
 ##### § 56.303 Project elements. #####
 
-Link to an amendment published at 85 FR 72908, Nov. 16, 2020.
-
 A migrant health center supported under this subpart must:
 
 (a) Provide the health services of the center so that such services are available and accessible promptly, as appropriate, and in a manner which will assure continuity of service to the migratory and seasonal agricultural workers and their families within the center's catchment area.
@@ -24,7 +22,7 @@ A migrant health center supported under this subpart must:
 
 (e) Where the cost of care and services furnished by or through the center is to be reimbursed under title XIX or title XX of the Social Security Act, obtain or make every reasonable effort to obtain a written agreement with the title XIX or title XX State agency for such reimbursement.
 
-(f) Have prepared a schedule of fees or payments for the provision of its services designed to cover its reasonable costs of operation and a corresponding schedule of discounts adjusted on the basis of the patient's ability to pay. The schedule of discounts must provide for a full discount to individuals and families with annual incomes at or below those set forth in the most recent CSA Poverty Income Guidelines (42 CFR 1060.2) (except that nominal fees for service may be collected from such individuals and families) and for no discount to individuals and families with annual incomes greater than twice those set forth in such Guidelines.
+(f) Have prepared a schedule of fees or payments for the provision of its services designed to cover its reasonable costs of operation and a corresponding schedule of discounts adjusted on the basis of the patient's ability to pay. The schedule of discounts must provide for a full discount to individuals and families with annual incomes at or below those set forth in the poverty guidelines updated periodically in the Federal Register by the U.S. Department of Health and Human Services under the authority of 42 U.S.C. 9902(2); (except that nominal fees for service may be collected from such individuals and families) and for no discount to individuals and families with annual incomes greater than twice those set forth in such Guidelines.
 
 (g) Make every reasonable effort, including the establishment of systems for eligibility determination, billing, and collection, to
 
@@ -75,3 +73,5 @@ A migrant health center supported under this subpart must:
 (4) Enter into contracts or arrangements for the provision of primary health services only if alternative resources are reasonably available to provide these services in the event of termination of such arrangements.
 
 (u) Operate in a manner such that no migratory or seasonal agricultural worker or member of their family will be denied service by reason of his or her inability to pay therefor. *Provided, however,* That a charge for the provision of services will be made to the extent that a third party (including a Government agency) is authorized or is under legal obligation to pay such charges.
+
+[42 FR 60406, Nov. 25, 1977, as amended at 85 FR 72908, Nov. 16, 2020]

@@ -1,7 +1,5 @@
 ##### § 1324.19 Duties of the representatives of the Office. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 In carrying out the duties of the Office, the Ombudsman may designate an entity as a local Ombudsman entity and may designate an employee or volunteer of the local Ombudsman entity as a representative of the Office. Representatives of the Office may also be designated employees or volunteers within the Office.
 
 (a) *Duties.* An individual so designated as a representative of the Office shall, in accordance with the policies and procedures established by the Office and the State agency:
@@ -64,7 +62,7 @@ In carrying out the duties of the Office, the Ombudsman may designate an entity 
 
 (5) For purposes of paragraphs (b)(1) through (3) of this section, if a resident is unable to communicate his or her informed consent, or perspective on the extent to which the matter has been satisfactorily resolved, the Ombudsman or representative of the Office may rely on the communication of informed consent and/or perspective regarding the resolution of the complaint of a resident representative so long as the Ombudsman or representative of the Office has no reasonable cause to believe that the resident representative is not acting in the best interests of the resident.
 
-(6) For purposes of paragraphs (b)(1) through (3) of this section, the procedures for disclosure, as required by § 1327.11(e)(3), shall provide that the Ombudsman or representative of the Office may refer the matter and disclose resident-identifying information to the appropriate agency or agencies for regulatory oversight; protective services; access to administrative, legal, or other remedies; and/or law enforcement action in the following circumstances:
+(6) For purposes of paragraphs (b)(1) through (3) of this section, the procedures for disclosure, as required by § 1324.11(e)(3), shall provide that the Ombudsman or representative of the Office may refer the matter and disclose resident-identifying information to the appropriate agency or agencies for regulatory oversight; protective services; access to administrative, legal, or other remedies; and/or law enforcement action in the following circumstances:
 
 (i) The resident is unable to communicate informed consent to the Ombudsman or representative of the Office;
 
@@ -78,7 +76,7 @@ In carrying out the duties of the Office, the Ombudsman may designate an entity 
 
 (vi) The representative of the Office obtains the approval of the Ombudsman or otherwise follows the policies and procedures of the Office described in paragraph (b)(9) of this section.
 
-(7) For purposes of paragraphs (b)(1) through (3) of this section, the procedures for disclosure, as required by § 1327.11(e)(3), shall provide that, the Ombudsman or representative of the Office may refer the matter and disclose resident-identifying information to the appropriate agency or agencies for regulatory oversight; protective services; access to administrative, legal, or other remedies; and/or law enforcement action in the following circumstances:
+(7) For purposes of paragraphs (b)(1) through (3) of this section, the procedures for disclosure, as required by § 1324.11(e)(3), shall provide that, the Ombudsman or representative of the Office may refer the matter and disclose resident-identifying information to the appropriate agency or agencies for regulatory oversight; protective services; access to administrative, legal, or other remedies; and/or law enforcement action in the following circumstances:
 
 (i) The resident is unable to communicate informed consent to the Ombudsman or representative of the Office and the Ombudsman or representative of the Office has reasonable cause to believe that the resident representative has taken an action, inaction or decision that may adversely affect the health, safety, welfare, or rights of the resident;
 
@@ -88,7 +86,7 @@ In carrying out the duties of the Office, the Ombudsman may designate an entity 
 
 (iv) The representative of the Ombudsman obtains the approval of the Ombudsman.
 
-(8) The procedures for disclosure, as required by § 1327.11(e)(3), shall provide that, if the Ombudsman or representative of the Office personally witnesses suspected abuse, gross neglect, or exploitation of a resident, the Ombudsman or representative of the Office shall seek communication of informed consent from such resident to disclose resident-identifying information to appropriate agencies;
+(8) The procedures for disclosure, as required by § 1324.11(e)(3), shall provide that, if the Ombudsman or representative of the Office personally witnesses suspected abuse, gross neglect, or exploitation of a resident, the Ombudsman or representative of the Office shall seek communication of informed consent from such resident to disclose resident-identifying information to appropriate agencies;
 
 (i) Where such resident is able to communicate informed consent, or has a resident representative available to provide informed consent, the Ombudsman or representative of the Office shall follow the direction of the resident or resident representative as set forth paragraphs (b)(1) through (3) of this section; and
 
@@ -110,4 +108,4 @@ In carrying out the duties of the Office, the Ombudsman may designate an entity 
 
 (iii) Disclosure of resident-identifying information under paragraph (b)(7) of this section shall require Ombudsman approval.
 
-[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 92697, Dec. 20, 2016]
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016; 81 FR 92697, Dec. 20, 2016; 85 FR 72911, Nov. 16, 2020]

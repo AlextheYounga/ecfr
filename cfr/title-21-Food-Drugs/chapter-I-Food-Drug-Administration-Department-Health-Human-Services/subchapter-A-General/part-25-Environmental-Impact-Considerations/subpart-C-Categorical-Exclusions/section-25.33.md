@@ -14,11 +14,9 @@ The classes of actions listed in this section are categorically excluded and, th
 
 (4) Changes specified in § 514.8(b)(3), (b)(4), or (c)(3) of this chapter;
 
-(5) A change of sponsor;
+(5) A change of sponsor; or
 
-(6) A previously approved animal drug to be contained in medicated feed blocks under § 510.455 of this chapter or as a liquid feed supplement under § 558.5 of this chapter; or
-
-(7) Approval of a drug for use in animal feeds if such drug has been approved under § 514.2 or 514.9 of this chapter for other uses.
+(6) A previously approved animal drug to be contained in medicated feed blocks under § 510.455 of this chapter or as a liquid feed supplement under § 558.5 of this chapter.
 
 (b) [Reserved]
 
@@ -44,4 +42,4 @@ The classes of actions listed in this section are categorically excluded and, th
 
 (h) Withdrawal of approval of a food additive petition that reduces or eliminates animal feed uses of a food additive.
 
-[62 FR 40592, July 29, 1997, as amended at 71 FR 74782, Dec. 13, 2006; 72 FR 69119, Dec. 6, 2007]
+[62 FR 40592, July 29, 1997, as amended at 71 FR 74782, Dec. 13, 2006; 72 FR 69119, Dec. 6, 2007; 85 FR 72907, Nov. 16, 2020]

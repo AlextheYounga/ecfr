@@ -1,7 +1,5 @@
 ##### § 441.18 Case management services. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) If a State plan provides for case management services (including targeted case management services), as defined in § 440.169 of this chapter, the State must meet the following requirements:
 
 (1) Allow individuals the free choice of any qualified Medicaid provider within the specified geographic area identified in the plan when obtaining case management services, in accordance with § 431.51 of this chapter, except as specified in paragraph (b) of this section.
@@ -60,7 +58,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (b) If the State limits qualified providers of case management services for target groups of individuals with developmental disability or chronic mental illness, in accordance with § 431.51(a)(4) of this chapter, the plan must identify any limitations to be imposed on the providers and specify how these limitations enable providers to ensure that individuals within the target groups receive needed services.
 
-(c) Case management does not include, and FFP is not available in expenditures for, services defined in § 441.169 of this chapter when the case management activities constitute the direct delivery of underlying medical, educational, social, or other services to which an eligible individual has been referred, including for foster care programs, services such as, but not limited to, the following:
+(c) Case management does not include, and FFP is not available in expenditures for, services defined in § 440.169 of this chapter when the case management activities constitute the direct delivery of underlying medical, educational, social, or other services to which an eligible individual has been referred, including for foster care programs, services such as, but not limited to, the following:
 
 (1) Research gathering and completion of documentation required by the foster care program.
 
@@ -80,4 +78,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (d) After the State assesses whether the activities are within the scope of the case management benefit (applying the limitations described above), in determining the allowable costs for case management (or targeted case management) services that are also furnished by another federally-funded program, the State must use cost allocation methodologies, consistent with OMB Circular A-87, CMS policies, or any subsequent guidance and reflected in an approved cost allocation plan.
 
-[72 FR 68092, Dec. 4, 2007, as amended at 74 FR 31196, June 30, 2009]
+[72 FR 68092, Dec. 4, 2007, as amended at 74 FR 31196, June 30, 2009; 85 FR 72909, Nov. 16, 2020]

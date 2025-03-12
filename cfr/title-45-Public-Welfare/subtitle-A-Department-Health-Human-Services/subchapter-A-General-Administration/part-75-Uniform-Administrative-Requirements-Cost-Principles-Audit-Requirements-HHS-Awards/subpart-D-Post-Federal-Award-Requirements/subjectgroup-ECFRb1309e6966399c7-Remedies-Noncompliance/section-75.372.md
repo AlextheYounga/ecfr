@@ -1,7 +1,5 @@
 ##### § 75.372 Termination. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 (a) The Federal award may be terminated in whole or in part as follows:
 
 (1) By the HHS awarding agency or pass-through entity, if the non-Federal entity fails to comply with the terms and conditions of the award;
@@ -14,7 +12,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (b) When an HHS awarding agency terminates a Federal award prior to the end of the period of performance due to the non-Federal entity's material failure to comply with the Federal award terms and conditions, the HHS awarding agency must report the termination to the OMB-designated integrity and performance system accessible through SAM (currently FAPIIS).
 
-(1) The information required under this paragraph (b) is not to be reported to the designated integrity and performance system until after the non-Federal entity either -
+(1) The information required under this paragraph (b) is not to be reported to the designated integrity and performance system until after the non-Federal entity either—
 
 (i) Has exhausted its opportunities to object or challenge the decision, see § 75.374; or
 
@@ -28,6 +26,6 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (3) HHS awarding agencies shall not post any information that will be made publicly available in the non-public segment of the designated integrity and performance system that is covered by a disclosure exemption under the Freedom of Information Act. If the non-Federal entity asserts within seven calendar days to the HHS awarding agency who posted the information, that some of the information made publicly available is covered by a disclosure exemption under the Freedom of Information Act, the HHS awarding agency who posted the information must remove the posting within seven calendar days of receiving the assertion. Prior to reposting the releasable information, the HHS agency must resolve the issue in accordance with the agency's Freedom of Information Act procedures.
 
-(c) When a Federal award is terminated or partially terminated, both the HHS awarding agency or pass-through agency and the non-Federal entity remain responsible for compliance with the requirements of §§ 75.381 through 75.390.
+(c) When a Federal award is terminated or partially terminated, both the HHS awarding agency or pass-through agency and the non-Federal entity remain responsible for compliance with the requirements of §§ 75.381 and 75.386.
 
-[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3017, Jan. 20, 2016]
+[79 FR 75889, Dec. 19, 2014, as amended at 81 FR 3017, Jan. 20, 2016; 85 FR 72911, Nov. 16, 2020]

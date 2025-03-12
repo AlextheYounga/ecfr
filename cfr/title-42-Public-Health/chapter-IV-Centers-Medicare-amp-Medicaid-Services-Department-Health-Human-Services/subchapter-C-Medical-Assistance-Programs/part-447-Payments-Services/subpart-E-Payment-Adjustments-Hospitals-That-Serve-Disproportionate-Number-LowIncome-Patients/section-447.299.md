@@ -1,12 +1,10 @@
 ##### § 447.299 Reporting requirements. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) Beginning with the first quarter of Federal fiscal year 1993, each State must submit to CMS the quarterly aggregate amount of its disproportionate share hospital payments made to each individual public and private provider or facility. States' reports must present a complete, accurate, and full disclosure of all of their DSH programs and expenditures.
 
 (b) Each State must report the aggregate information specified under paragraph (a) of this section on a quarterly basis in accordance with procedures established by CMS.
 
-(c) Beginning with each State's Medicaid State plan rate year 2005, for each Medicaid State plan rate year, the State must submit to CMS, at the same time as it submits the completed audit required under § 455.204, the following information for each DSH hospital to which the State made a DSH payment in order to permit verification of the appropriateness of such payments:
+(c) Beginning with each State's Medicaid State plan rate year 2005, for each Medicaid State plan rate year, the State must submit to CMS, at the same time as it submits the completed audit required under § 455.304 of this chapter, the following information for each DSH hospital to which the State made a DSH payment in order to permit verification of the appropriateness of such payments:
 
 (1) *Hospital name.* The name of the hospital that received a DSH payment from the State, identifying facilities that are institutes for mental disease (IMDs) and facilities that are located out-of-state.
 
@@ -26,7 +24,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (9) *Total Medicaid IP/OP Payments.* Provide the total sum of items identified in § 447.299(c)(6), (7) and (8).
 
-(10) *Total Cost of Care for Medicaid IP/OP Services.* The total annual costs incurred by each hospital for furnishing inpatient hospital and outpatient hospital services to Medicaid eligible individuals. The total annual costs are determined on a hospital-specific basis, not a service-specific basis. For purposes of this section, costs -
+(10) *Total Cost of Care for Medicaid IP/OP Services.* The total annual costs incurred by each hospital for furnishing inpatient hospital and outpatient hospital services to Medicaid eligible individuals. The total annual costs are determined on a hospital-specific basis, not a service-specific basis. For purposes of this section, costs—
 
 (i) Are defined as costs net of third-party payments, including, but not limited to, payments by Medicare and private insurance.
 
@@ -66,4 +64,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (e) If a State fails to comply with the reporting requirements contained in this section, future grant awards will be reduced by the amount of FFP CMS estimates is attributable to the expenditures made to the disproportionate share hospitals as to which the State has not reported properly, until such time as the State complies with the reporting requirements. Deferrals and/or disallowances of equivalent amounts may also be imposed with respect to quarters for which the State has failed to report properly. Unless otherwise prohibited by law, FFP for those expenditures will be released when the State complies with all reporting requirements.
 
-[46 FR 47971, Sept. 30, 1981, as amended at 73 FR 77950, Dec. 19, 2008; 74 FR 18657, Apr. 24, 2009; 77 FR 31512, May 29, 2012; 78 FR 57313, Sept. 18, 2013; 82 FR 16122, Apr. 3, 2017]
+[46 FR 47971, Sept. 30, 1981, as amended at 73 FR 77950, Dec. 19, 2008; 74 FR 18657, Apr. 24, 2009; 77 FR 31512, May 29, 2012; 78 FR 57313, Sept. 18, 2013; 82 FR 16122, Apr. 3, 2017; 85 FR 72909, Nov. 16, 2020]

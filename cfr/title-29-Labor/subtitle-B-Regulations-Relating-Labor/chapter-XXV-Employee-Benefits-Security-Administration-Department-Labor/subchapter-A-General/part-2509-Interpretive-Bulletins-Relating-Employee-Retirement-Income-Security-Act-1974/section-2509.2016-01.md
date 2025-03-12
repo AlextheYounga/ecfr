@@ -1,5 +1,7 @@
 ##### § 2509.2016-01 Interpretive Bulletin relating to the exercise of shareholder rights and written statements of investment policy, including proxy voting policies or guidelines. #####
 
+Link to an amendment published at 85 FR 81694, Dec. 16, 2020.
+
 This interpretive bulletin sets forth the Department of Labor's (the Department) interpretation of sections 402, 403 and 404 of the Employee Retirement Income Security Act of 1974 (ERISA) as those sections apply to voting of proxies on securities held in employee benefit plan investment portfolios and the maintenance of and compliance with statements of investment policy, including proxy voting policy. In addition, this interpretive bulletin provides guidance on the appropriateness under ERISA of active engagement with corporate management by plan fiduciaries.
 
 (1) Proxy Voting

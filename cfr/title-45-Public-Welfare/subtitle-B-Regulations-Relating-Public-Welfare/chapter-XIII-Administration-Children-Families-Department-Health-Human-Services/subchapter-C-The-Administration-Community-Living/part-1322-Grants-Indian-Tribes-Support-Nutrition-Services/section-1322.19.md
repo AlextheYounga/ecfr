@@ -25,3 +25,5 @@ A tribal organization shall have an approved application. The application shall 
 (e) A tribal resolution(s) authorizing the tribal organization to apply for a grant under this part; and
 
 (f) Signature by the principal official of the tribe.
+
+[53 FR 33774, Aug. 31, 1988, as amended at 81 FR 35645, June 3, 2016]

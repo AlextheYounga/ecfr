@@ -1,0 +1,7 @@
+##### § 590.800 Identification of restricted eggs. #####
+
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
+
+The shipping container of restricted eggs shall be determined to be satisfactorily identified if such container bears the packer's name and address, the quality of the eggs in the container (e.g., dirties, checks, inedibles, or loss), or the statement “Restricted Eggs - For Processing Only In An Official USDA Egg Products Plant,” for checks or dirties, or “Restricted Eggs - Not To Be Used As Human Food,” for inedibles, loss, and incubator rejects, or “Restricted Eggs - To Be Regraded” for graded eggs which contain more restricted eggs than are allowed in the official standards for U.S. Consumer Grade B shell eggs. The size of the letters of the identification wording shall be as required in § 590.860.
+
+[40 FR 20060, May 8, 1975. Redesignated at 42 FR 32514, June 27, 1977, and further redesignated at 46 FR 63203, Dec. 31, 1981, as amended at 60 FR 49171, Sept. 21, 1995; 63 FR 69972, Dec. 17, 1998]

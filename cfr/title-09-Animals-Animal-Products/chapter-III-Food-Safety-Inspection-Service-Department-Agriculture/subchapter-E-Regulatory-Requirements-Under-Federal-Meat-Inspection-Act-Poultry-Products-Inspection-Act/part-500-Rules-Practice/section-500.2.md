@@ -1,6 +1,6 @@
 ##### § 500.2 Regulatory control action. #####
 
-Link to an amendment published at 85 FR 68672, Oct. 29, 2020.
+Link to an amendment published at 85 FR 68672, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
 
 (a) FSIS may take a regulatory control action because of:
 

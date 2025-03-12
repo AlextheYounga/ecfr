@@ -1,7 +1,5 @@
 ##### § 81.30 Cancellation of certificates. #####
 
-Link to an amendment published at 85 FR 72907, Nov. 16, 2020.
-
 (a) Certificates issued heretofore for colors being removed from the provisional list (§ 81.10(a)) are cancelled and of no effect after December 1, 1960, and use of such color additives in drugs or cosmetics after that date will result in adulteration.
 
 (b)(1) Certificates issued heretofore for the color additive designated FD&C Red No. 1 are cancelled as of the date of the publication of this Order, and use of this color additive in the manufacture of foods, drugs, or cosmetics after that date will result in adulteration.
@@ -70,7 +68,7 @@ Ext. D&C Yellow No. 3.Ext. D&C Red No. 8Ext. D&C Orange No. 3.
 
 (s)(1) Certificates issued for D&C Red No. 8 and D&C Red No. 9, their lakes, and all mixtures containing these color additives are canceled and have no effect as pertains to their use in mouthwash, dentifrices, and ingested drugs, except ingested drug lip products, after January 6, 1987, and use of these color additives in the manufacture of mouthwash, dentifrices, and ingested drugs, except ingested drug lip products, after this date will result in adulteration.
 
-(2) The agency finds, on the basis of the scientific evidence before it, that no action has to be taken to remove from the market mouthwash, dentifrices, and ingested drugs to which the color additives were added on or before January 6, 1987. Ingested drug lip products, however, are regulated for use in §§ 74.1308 and 74.1309.
+(2) The agency finds, on the basis of the scientific evidence before it, that no action has to be taken to remove from the market mouthwash, dentifrices, and ingested drugs to which the color additives were added on or before January 6, 1987.
 
 (3) Certificates issued for D&C Red No. 8, and D&C Red No. 9, their lakes, and all mixtures containing these color additives are cancelled and have no effect as pertains to their use in ingested drug and cosmetic lip products and in externally applied drugs and cosmetics after July 15, 1988, and use of these color additives in the manufacture of ingested drugs and cosmetic lip products and in externally applied drugs and cosmetics after this date will result in adulteration.
 

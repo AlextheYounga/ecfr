@@ -1,6 +1,6 @@
 ##### § 402.2 Definitions. #####
 
-As used in this part -
+As used in this part—
 
 *The Act* means the Immigration Reform and Control Act of 1986, Public Law 99-603, as amended.
 
@@ -26,9 +26,9 @@ As used in this part -
 
 *INA* means the Immigration and Nationality Act, 8 U.S.C. 1101, *et seq.*
 
-*Local educational agency* means -
+*Local educational agency* means—
 
-(a) A public board of education or other public authority legally constituted within a State for either administrative control of or direction of, or to perform service functions for, public elementary or secondary schools in -
+(a) A public board of education or other public authority legally constituted within a State for either administrative control of or direction of, or to perform service functions for, public elementary or secondary schools in—
 
 (1) A city, county, township, school district, or other political subdivision of a State; or
 
@@ -76,14 +76,14 @@ As used in this definition, basic subsistence needs are minimal living requireme
 
 *State* means the 50 States, the District of Columbia, Puerto Rico, Guam, and the Virgin Islands of the United States.
 
-*State educational agency* means -
+*State educational agency* means—
 
 (1) The State board of education or other agency or officer primarily responsible for the supervision of public elementary and secondary schools in a State. In the absence of this officer or agency, it is an officer or agency designated by the Governor or State law; or
 
 (2) The State board of education or other agency or officer primarily responsible for the State supervision of public elementary and secondary schools; or if there is a separate State agency or officer primarily responsible for supervision of adult education in public schools, then that agency or officer may be designated for the purpose of the Act by the Governor or by State law. If no agency or officer qualifies under the preceding sentence, the term means an appropriate agency or officer designated for the purpose of the Act by the Governor.
 
-*Unexpended funds* means the amount by which allotments awarded to a State, as determined under § 402.31 and § 402.33 of this part, exceed the State's SLIAG-related costs, as defined in this part, reported in annual reports pursuant to § 402.51 and accepted by the Department as of March 15, 1995.
+*Unexpended funds* means the amount by which allotments awarded to a State, as determined under §§ 402.31 and 402.33 of this part, exceed the State's SLIAG-related costs, as defined in this part, reported in annual reports pursuant to § 402.51 and accepted by the Department as of March 15, 1995.
 
-*Unreimbursed SLIAG-related costs* means the amount by which a State's total SLIAG-related costs, as defined in this part, reported in annual reports pursuant to § 402.51 and accepted by the Department as of March 15, 1995, exceed the allotments awarded to a State, as determined under § 402.31 and § 402.33 of this part.
+*Unreimbursed SLIAG-related costs* means the amount by which a State's total SLIAG-related costs, as defined in this part, reported in annual reports pursuant to § 402.51 and accepted by the Department as of March 15, 1995, exceed the allotments awarded to a State, as determined under §§ 402.31 and 402.33 of this part.
 
 [53 FR 7858, Mar. 10, 1988, as amended at 56 FR 19808, Apr. 30, 1991; 56 FR 21246, May 7, 1991; 59 FR 65726, Dec. 21, 1994]

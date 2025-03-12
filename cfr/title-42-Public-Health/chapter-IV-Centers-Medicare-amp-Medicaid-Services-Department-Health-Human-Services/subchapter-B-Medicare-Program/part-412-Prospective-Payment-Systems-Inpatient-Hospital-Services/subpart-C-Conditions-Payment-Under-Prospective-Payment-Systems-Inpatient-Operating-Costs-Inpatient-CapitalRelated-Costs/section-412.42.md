@@ -1,20 +1,18 @@
 ##### § 412.42 Limitations on charges to beneficiaries. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) *Prohibited charges.* A hospital may not charge a beneficiary for any services for which payment is made by Medicare, even if the hospital's costs of furnishing services to that beneficiary are greater than the amount the hospital is paid under the prospective payment systems.
 
-(b) *Permitted charges - Stay covered.* A hospital receiving payment under the prospective payment systems for a covered hospital stay (that is, a stay that includes at least one covered day) may charge the Medicare beneficiary or other person only for the following:
+(b) *Permitted charges—Stay covered.* A hospital receiving payment under the prospective payment systems for a covered hospital stay (that is, a stay that includes at least one covered day) may charge the Medicare beneficiary or other person only for the following:
 
 (1) The applicable deductible and coinsurance amounts under §§ 409.82, 409.83, and 409.87 of this chapter.
 
 (2) Noncovered items and services, furnished at any time during a covered stay, unless they are excluded from coverage only on the basis of the following:
 
-(i) The exclusion of custodial care under § 405.310(g) of this chapter (see paragraph (c) of this section for when charges may be made for custodial care).
+(i) The exclusion of custodial care under § 411.15(g) of this chapter (see paragraph (c) of this section for when charges may be made for custodial care).
 
-(ii) The exclusion of medically unnecessary items and services under § 405.310(k) of this chapter (see paragraphs (c) and (d) of this section for when charges may be made for medically unnecessary items and services).
+(ii) The exclusion of medically unnecessary items and services under § 411.15(k) of this chapter (see paragraphs (c) and (d) of this section for when charges may be made for medically unnecessary items and services).
 
-(iii) The exclusion under § 405.310(m) of this chapter of nonphysician services furnished to hospital inpatients by other than the hospital or a provider or supplier under arrangements made by the hospital.
+(iii) The exclusion under § 411.15(m) of this chapter of nonphysician services furnished to hospital inpatients by other than the hospital or a provider or supplier under arrangements made by the hospital.
 
 (iv) The exclusion of items and services furnished when the patient is not entitled to Medicare Part A benefits under subpart A of part 406 of this chapter (see paragraph (e) of this section for when charges may be made for items and services furnished when the patient is not entitled to benefits).
 
@@ -50,4 +48,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (2) The hospital must identify such cases to the QIO or intermediary in accordance with CMS instructions.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 50 FR 35688, Sept. 3, 1985; 54 FR 41747, Oct. 11, 1989; 57 FR 39821, Sept. 1, 1992; 71 FR 48137, Aug. 18, 2006; 71 FR 68722, Nov. 27, 2006]
+[50 FR 12741, Mar. 29, 1985, as amended at 50 FR 35688, Sept. 3, 1985; 54 FR 41747, Oct. 11, 1989; 57 FR 39821, Sept. 1, 1992; 71 FR 48137, Aug. 18, 2006; 71 FR 68722, Nov. 27, 2006; 85 FR 72909, Nov. 16, 2020]

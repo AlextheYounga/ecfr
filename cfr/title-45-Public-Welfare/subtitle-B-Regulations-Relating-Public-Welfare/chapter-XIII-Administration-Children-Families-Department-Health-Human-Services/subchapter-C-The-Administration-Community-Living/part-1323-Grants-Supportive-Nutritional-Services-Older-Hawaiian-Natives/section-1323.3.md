@@ -25,3 +25,5 @@
 *Project period,* as used in § 1323.19, means the total time for which a project is approved for support, including any extensions.
 
 *Service area,* as used in § 1323.9(b) and elsewhere in this part, means that geographic area approved by the Commissioner in which the grantee provides supportive and nutritional services to older Hawaiian Natives residing there.
+
+[53 FR 33777, Aug. 31, 1988, as amended at 81 FR 35646, June 3, 2016]

@@ -1,7 +1,5 @@
 ##### § 422.304 Monthly payments. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) *General rules.* Except as provided in paragraph (b) of this section, CMS makes advance monthly payments of the amounts determined under paragraphs (a)(1) and (a)(2) of this section for coverage of original fee-for-service benefits for an individual in an MA payment area for a month.
 
 (1) *Payment of bid for plans with bids below benchmark.* For MA plans that have average per capita monthly savings (as described at § 422.264(b) for local plans and § 422.264(d) for regional plans), CMS pays:
@@ -20,7 +18,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (2) Reimbursement for premium and cost sharing reductions for low-income individuals, described at section 1860D-14 of the Act.
 
-(c) *Special rules* - (1) *Enrollees with end-stage renal disease.* (i) For enrollees determined to have end-stage renal disease (ESRD), CMS establishes special rates that are actuarially equivalent to rates in effect before the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
+(c) *Special rules*—(1) *Enrollees with end-stage renal disease.* (i) For enrollees determined to have end-stage renal disease (ESRD), CMS establishes special rates that are actuarially equivalent to rates in effect before the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003.
 
 (ii) CMS publishes annual changes in these capitation rates no later than the first Monday in April each year, as provided in § 422.312.
 
@@ -32,7 +30,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (3) *RFB plan enrollees.* For RFB plan enrollees, CMS adjusts the capitation payments otherwise determined under this subpart to ensure that the payment level is appropriate for the actuarial characteristics and experience of these enrollees. That adjustment can be made on an individual or organization basis.
 
-(d) *Payment areas* - (1) *General rule.* Except as provided in paragraph (e) of this section -
+(d) *Payment areas*—(1) *General rule.* Except as provided in paragraph (e) of this section—
 
 (i) An MA payment area for an MA local plan is an MA local area defined at § 422.252.
 
@@ -40,7 +38,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (2) *Special rule for ESRD enrollees.* For ESRD enrollees, the MA payment area is a State or other geographic area specified by CMS.
 
-(e) *Geographic adjustment of payment areas for MA local plans* - (1) *Terminology.* “Metropolitan Statistical Area” and “Metropolitan Division” mean any areas so designated by the Office of Management and Budget in the Executive Office of the President.
+(e) *Geographic adjustment of payment areas for MA local plans*—(1) *Terminology.* “Metropolitan Statistical Area” and “Metropolitan Division” mean any areas so designated by the Office of Management and Budget in the Executive Office of the President.
 
 (2) *State request.* A State's chief executive may request, no later than February 1 of any year, a geographic adjustment of the State's payment areas for MA local plans for the following calendar year. The chief executive may request any of the following adjustments to the payment area specified in paragraph (c)(1)(i) of this section:
 
@@ -58,6 +56,6 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (4) *Budget neutrality adjustment for geographically adjusted payment areas.* If CMS adjusts a State's payment areas in accordance with paragraph (d)(2) of this section, CMS at that time, and each year thereafter, adjusts the capitation rates so that the aggregate Medicare payments do not exceed the aggregate Medicare payments that would have been made to all the State's payments areas, absent the geographic adjustment.
 
-(f) *Separate payment for meaningful use of certified EHRs.* In the case of qualifying MA organizations, as defined in § 495.200 of this chapter, entitled to MA EHR incentive payments per § 495.220 of this chapter, such payments are made in accordance with sections 1853(l) and (m) of the Act and subpart C of part 495 of this chapter.
+(f) *Separate payment for meaningful use of certified EHRs.* In the case of qualifying MA organizations, as defined in § 495.200 of this chapter, entitled to MA EHR incentive payments per § 495.204 of this chapter, such payments are made in accordance with sections 1853(l) and (m) of the Act and subpart C of part 495 of this chapter.
 
-[70 FR 4729, Jan. 28, 2005, as amended at 75 FR 44564, July 28, 2010]
+[70 FR 4729, Jan. 28, 2005, as amended at 75 FR 44564, July 28, 2010; 85 FR 72909, Nov. 16, 2020]

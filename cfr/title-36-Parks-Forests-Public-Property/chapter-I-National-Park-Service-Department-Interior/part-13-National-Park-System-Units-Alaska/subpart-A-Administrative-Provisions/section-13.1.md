@@ -1,7 +1,5 @@
 ##### § 13.1 Definitions. #####
 
-Link to an amendment published at 85 FR 72961, Nov. 16, 2020.
-
 The following definitions shall apply to all regulations contained in this part:
 
 *Aircraft* means a machine or device that is used or intended to be used to carry persons or objects in flight through the air, including, but not limited to airplanes, helicopters and gliders.
@@ -21,6 +19,8 @@ The following definitions shall apply to all regulations contained in this part:
 *Downed aircraft* means an aircraft that as a result of mechanical failure or accident cannot take off.
 
 *Facility* means buildings, structures, park roads as defined by § 1.4, parking lots, campgrounds, picnic areas, paved trails, and maintenance support yards.
+
+*Federally owned lands* means lands, waters, and interests therein the title to which is in the United States, and does not include those land interests tentatively approved to the State of Alaska; or conveyed by an interim conveyance to a Native corporation.
 
 *Firearm* means any loaded or unloaded pistol, revolver, rifle, shotgun or other weapon which will or is designated to or may readily be converted to expel a projectile by the action of expanded gases, except that it does not include a pistol or rifle powered by compressed gas. The term “firearm” also includes irritant gas devices.
 
@@ -44,13 +44,13 @@ The following definitions shall apply to all regulations contained in this part:
 
 *Off-road vehicle* means any motor vehicle designed for or capable of crosscountry travel on or immediately over land, water, sand, snow, ice, marsh, wetland or other natural terrain, except snowmachines or snowmobiles as defined in this chapter.
 
-*Park areas* means lands and waters administered by the National Park Service within the State of Alaska.
+*Park areas* means federally owned lands administered by the National Park Service in Alaska.
 
 *Person* means any individual, firm, corporation, society, association, partnership, or any private or public body.
 
 *Possession* means exercising dominion or control, with or without ownership, over weapons, traps, nets or other property.
 
-*Public lands* means lands situated in Alaska which are federally owned lands, except -
+*Public lands* means lands situated in Alaska which are federally owned lands, except—
 
 (1) Land selections of the State of Alaska which have been tentatively approved or validly selected under the Alaska Statehood Act (72 Stat. 339) and lands which have been confirmed to, validly selected by, or granted to the Territory of Alaska or the State under any other provision of Federal law;
 
@@ -72,4 +72,4 @@ The following definitions shall apply to all regulations contained in this part:
 
 *Weapon* means a firearm, compressed gas or spring powered pistol or rifle, bow and arrow, crossbow, blow gun, speargun, hand thrown spear, slingshot, explosive device, or any other implement designed to discharge missiles into the air or under the water.
 
-[71 FR 69333, Nov. 30, 2006, as amended at 73 FR 3185, Jan. 17, 2008; 80 FR 64342, Oct. 23, 2015; 85 FR 35191, June 9, 2020]
+[71 FR 69333, Nov. 30, 2006, as amended at 73 FR 3185, Jan. 17, 2008; 80 FR 64342, Oct. 23, 2015; 85 FR 35191, June 9, 2020; 85 FR 72961, Nov. 16, 2020]

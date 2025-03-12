@@ -1,7 +1,5 @@
 ##### § 63.2 Definitions. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 As used in this part:
 
 *Act* means the Public Health Service Act, as amended (42 U.S.C. 201 *et seq.*).
@@ -14,12 +12,12 @@ As used in this part:
 
 *HHS* means the Department of Health and Human Services.
 
-*Misconduct in science* shall have the same meaning as prescribed in § 50.102 of this chapter.
-
 *NIH* means the National Institutes of Health.
 
 *PHS* means the Public Health Service.
 
+*Research misconduct* shall have the same meaning as prescribed in § 93.103 of this chapter.
+
 *Traineeship* means an award under the regulations of this part to a qualified individual for that person's subsistence and other expenses during the period that person is participating in the research training approved under the award.
 
-[60 FR 10719, Feb. 27, 1995, as amended at 65 FR 66513, Nov. 6, 2000]
+[60 FR 10719, Feb. 27, 1995, as amended at 65 FR 66513, Nov. 6, 2000; 85 FR 72909, Nov. 16, 2020]

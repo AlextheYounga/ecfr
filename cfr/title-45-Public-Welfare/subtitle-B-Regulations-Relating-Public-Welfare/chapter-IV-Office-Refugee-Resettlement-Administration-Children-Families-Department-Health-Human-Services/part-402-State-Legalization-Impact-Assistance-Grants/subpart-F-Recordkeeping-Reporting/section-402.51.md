@@ -2,13 +2,13 @@
 
 (a)(1) After the end of each Federal fiscal year through FY 1994 for which it received or during which it obligated or expended SLIAG funds and by the due date indicated below, a State must submit annual reports containing the information identified in (c) and (e) of this section. The reports are due no later than 90 days after the end of a Federal fiscal year.
 
-(2) A State which receives funds pursuant to § 402.31 and § 402.33 and which expends funds pursuant to § 402.26(b) must submit a report containing the information identified in paragraph (e) of this section. The report is due no later than December 29, 1994.
+(2) A State which receives funds pursuant to §§ 402.31 and 402.33 and which expends funds pursuant to § 402.26(b) must submit a report containing the information identified in paragraph (e) of this section. The report is due no later than December 29, 1994.
 
 (b)(1) Failure to submit the annual report required in (a) of this section by the deadline, without prior written permission from the Secretary, constitutes a basis for withholding of SLIAG funds.
 
 (2) Failure by a State to submit the required information prior to the calculation of allocations pursuant to Subpart D will result in the Secretary's including no SLIAG-related costs for the fiscal year for that State in the calculation of State allocations.
 
-(c) A State's annual report must provide information on the status of each fiscal year's funds, as of September 30, for the fiscal year for funds received under § 402.31 and § 402.33, including:
+(c) A State's annual report must provide information on the status of each fiscal year's funds, as of September 30, for the fiscal year for funds received under §§ 402.31 and 402.33, including:
 
 (1) Identification of the amount obligated and the amount expended by the State grantee agency;
 

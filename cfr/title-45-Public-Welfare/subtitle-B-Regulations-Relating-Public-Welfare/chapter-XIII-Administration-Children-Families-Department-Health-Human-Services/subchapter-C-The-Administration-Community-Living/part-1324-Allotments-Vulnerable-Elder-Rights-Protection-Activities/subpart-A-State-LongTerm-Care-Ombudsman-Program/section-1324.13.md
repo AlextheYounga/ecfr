@@ -2,13 +2,13 @@
 
 The Ombudsman, as head of the Office, shall have responsibility for the leadership and management of the Office in coordination with the State agency, and, where applicable, any other agency carrying out the Ombudsman program, as follows.
 
-(a) *Functions.* The Ombudsman shall, personally or through representatives of the Office -
+(a) *Functions.* The Ombudsman shall, personally or through representatives of the Office—
 
-(1) Identify, investigate, and resolve complaints that -
+(1) Identify, investigate, and resolve complaints that—
 
 (i) Are made by, or on behalf of, residents; and
 
-(ii) Relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of residents (including the welfare and rights of residents with respect to the appointment and activities of resident representatives) of -
+(ii) Relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of residents (including the welfare and rights of residents with respect to the appointment and activities of resident representatives) of—
 
 (A) Providers, or representatives of providers, of long-term care;
 
@@ -60,7 +60,7 @@ The Ombudsman, as head of the Office, shall have responsibility for the leadersh
 
 (iii) Monitor, on a regular basis, the Ombudsman program performance of local Ombudsman entities.
 
-(2) *Training requirements.* The Ombudsman shall establish procedures for training for certification and continuing education of the representatives of the Office, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs as described in section 201(d) of the Act, in consultation with residents, resident representatives, citizen organizations, long-term care providers, and the State agency, that -
+(2) *Training requirements.* The Ombudsman shall establish procedures for training for certification and continuing education of the representatives of the Office, based on model standards established by the Director of the Office of Long-Term Care Ombudsman Programs as described in section 201(d) of the Act, in consultation with residents, resident representatives, citizen organizations, long-term care providers, and the State agency, that—
 
 (i) Specify a minimum number of hours of initial training;
 
@@ -68,7 +68,7 @@ The Ombudsman, as head of the Office, shall have responsibility for the leadersh
 
 (iii) Specify an annual number of hours of in-service training for all representatives of the Office;
 
-(3) Prohibit any representative of the Office from carrying out the duties described in § 1324.19 unless the representative -
+(3) Prohibit any representative of the Office from carrying out the duties described in § 1324.19 unless the representative—
 
 (i) Has received the training required under paragraph (c)(2) of this section or is performing such duties under supervision of the Ombudsman or a designated representative of the Office as part of certification training requirements; and
 
@@ -135,3 +135,5 @@ The Ombudsman, as head of the Office, shall have responsibility for the leadersh
 (10) The State legal assistance developer and legal assistance programs, including those provided under section 306(a)(2)(C) of the Act.
 
 (i) The Ombudsman shall carry out such other activities as the Assistant Secretary determines to be appropriate.
+
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016]

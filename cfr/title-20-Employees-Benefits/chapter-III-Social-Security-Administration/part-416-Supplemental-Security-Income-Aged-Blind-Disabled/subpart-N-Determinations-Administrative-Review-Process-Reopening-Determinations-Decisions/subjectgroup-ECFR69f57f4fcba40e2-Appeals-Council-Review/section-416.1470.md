@@ -1,14 +1,12 @@
 ##### § 416.1470 Cases the Appeals Council will review. #####
 
-Link to an amendment published at 85 FR 73160, Nov. 16, 2020.
+(a) The Appeals Council will review a case at a party's request or on its own motion if—
 
-(a) The Appeals Council will review a case if -
-
-(1) There appears to be an abuse of discretion by the administrative law judge;
+(1) There appears to be an abuse of discretion by the administrative law judge or administrative appeals judge who heard the case;
 
 (2) There is an error of law;
 
-(3) The action, findings or conclusions of the administrative law judge are not supported by substantial evidence;
+(3) The action, findings or conclusions in the hearing decision or dismissal order are not supported by substantial evidence;
 
 (4) There is a broad policy or procedural issue that may affect the general public interest; or
 
@@ -34,4 +32,4 @@ Link to an amendment published at 85 FR 73160, Nov. 16, 2020.
 
 (c) If you submit additional evidence that does not relate to the period on or before the date of the administrative law judge hearing decision as required in paragraph (a)(5) of this section, or the Appeals Council does not find you had good cause for missing the deadline to submit the evidence in § 416.1435, the Appeals Council will send you a notice that explains why it did not accept the additional evidence and advises you of your right to file a new application. The notice will also advise you that if you file a new application within 60 days after the date of the Appeals Council's notice, your request for review will constitute a written statement indicating an intent to claim benefits under § 416.340. If you file a new application within 60 days of the Appeals Council's notice, we will use the date you requested Appeals Council review as the filing date for your new application.
 
-[81 FR 90996, Dec. 16, 2016]
+[81 FR 90996, Dec. 16, 2016, as amended at 85 FR 73160, Nov. 16, 2020]

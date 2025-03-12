@@ -1,12 +1,10 @@
 ##### § 1004.40 Action on identification of a violation. #####
 
-Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
-
-When a QIO identifies a violation, it must -
+When a QIO identifies a violation, it must—
 
 (a) Indicate whether the violation is a gross and flagrant violation or is a substantial violation in a substantial number of cases; and
 
-(b) Send the practitioner or other person written notice of the identification of a violation containing the following information -
+(b) Send the practitioner or other person written notice of the identification of a violation containing the following information—
 
 (1) The obligation(s) involved;
 
@@ -18,7 +16,7 @@ When a QIO identifies a violation, it must -
 
 (5) The sanction that the QIO could recomment to the OIG;
 
-(6) The right of the practitioner or other person to submit to the QIO within 30 days of receipt of the notice additional information or a written request for a meeting with the QIO to review and discuss the finding, or both. The date of receipt is presumed to be 5 days after the date on the notice, unless there is a reasonable showing to the contrary. The notice will also state that if a meeting is requested -
+(6) The right of the practitioner or other person to submit to the QIO within 30 days of receipt of the notice additional information or a written request for a meeting with the QIO to review and discuss the finding, or both. The date of receipt is presumed to be 5 days after the date on the notice, unless there is a reasonable showing to the contrary. The notice will also state that if a meeting is requested—
 
 (i) It will be held within 30 days of receipt by the QIO of the request, but may be extended for good cause;
 
@@ -26,4 +24,6 @@ When a QIO identifies a violation, it must -
 
 (iii) The attorney, if present, will be permitted to make opening and closing remarks, ask clarifying questions at the meeting and assist the practitioner or other person in presenting the testimony of expert witnesses who may appear on the practitioner's or other person's behalf; and
 
-(7) A copy of the material used by the QIO in arriving at its finding except for QIO deliberations, as set forth in § 476.139 of this part.
+(7) A copy of the material used by the QIO in arriving at its finding except for QIO deliberations, as set forth in § 480.139 of this part.
+
+[60 FR 63640, Dec. 12, 1995, as amended at 85 FR 72910, Nov. 16, 2020]

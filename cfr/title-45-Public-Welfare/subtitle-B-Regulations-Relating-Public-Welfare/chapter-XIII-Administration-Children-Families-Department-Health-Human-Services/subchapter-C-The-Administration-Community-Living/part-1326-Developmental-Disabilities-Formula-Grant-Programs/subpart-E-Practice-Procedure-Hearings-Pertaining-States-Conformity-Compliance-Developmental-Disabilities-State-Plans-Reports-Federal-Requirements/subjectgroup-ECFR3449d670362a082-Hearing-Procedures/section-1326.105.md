@@ -1,0 +1,7 @@
+##### § 1326.105 Evidence. #####
+
+(a) *Testimony.* Testimony by witnesses at the hearing is given orally under oath or affirmation. Witnesses must be available at the hearing for cross-examination by all parties.
+
+(b) *Stipulations and exhibits.* Two or more parties may agree to stipulations of fact. Such stipulations, or any exhibit proposed by any party, must be exchanged at the prehearing conference or at a different time prior to the hearing if the presiding officer requires it.
+
+(c) *Rules of evidence.* Technical rules of evidence do not apply to hearings conducted pursuant to this subpart, but rules or principles designed to assure production of the most credible evidence available and to subject testimony to test by cross-examination are applied where reasonably necessary by the presiding officer. A witness may be cross-examined on any matter material to the proceeding without regard to the scope of his or her direct examination. The presiding officer may exclude irrelevant, immaterial, or unduly repetitious evidence. All documents and other evidence offered or taken for the record is open to examination by the parties and opportunity must be given to refute facts and arguments advanced on either side of the issues.

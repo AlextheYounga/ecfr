@@ -1,6 +1,6 @@
 ##### § 500.5 Notification, appeals, and actions held in abeyance. #####
 
-Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
 
 (a) If FSIS takes a withholding action or imposes a suspension, the establishment will be notified orally and, as promptly as circumstances permit, in writing. The written notification will:
 

@@ -25,3 +25,5 @@ The following definitions apply to this part:
 *State Long-Term Care Ombudsman program, Ombudsman program, or program,* as used in sections 711 and 712 of the Act, means the program through which the functions and duties of the Office are carried out, consisting of the Ombudsman, the Office headed by the Ombudsman, and the representatives of the Office.
 
 *Willful interference* means actions or inactions taken by an individual in an attempt to intentionally prevent, interfere with, or attempt to impede the Ombudsman from performing any of the functions or responsibilities set forth in § 1324.13, or the Ombudsman or a representative of the Office from performing any of the duties set forth in § 1324.19.
+
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016]

@@ -1,7 +1,5 @@
 ##### § 124.511 Investigation and determination of compliance. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
 (a) *Complaints.* A complaint that a facility is out of compliance with the requirements of this subpart may be filed with the Secretary by any person.
 
 (1) A complaint is considered to be filed with the Secretary on the date the following information is received in the Office of the HHS Regional Health Administrator for the Region in which the facility is located:
@@ -26,13 +24,13 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (ii) A certification of substantial compliance shall be based on the amount properly claimed by the facility pursuant to § 124.509(a), utilizing procedures determined by the Secretary to be sufficient to establish that the facility has substantially complied with its assurance for the period covered by the certification. The procedures will include examination of individual account data to the extent deemed necessary by the Secretary.
 
-(iii) A certification of substantial compliance will be made where the Secretary determines that, for the period covered by the certification, the facility provided uncompensated services to eligible persons who had equal opportunity to apply therefor. In making this determination, the Secretary will consider, in descending order of importance, whether -
+(iii) A certification of substantial compliance will be made where the Secretary determines that, for the period covered by the certification, the facility provided uncompensated services to eligible persons who had equal opportunity to apply therefor. In making this determination, the Secretary will consider, in descending order of importance, whether—
 
 (A) Corrective action prescribed pursuant to § 124.512(b) has been taken by the facility;
 
 (B) Any noncompliance with the requirements of this subpart may be remedied by corrective action under § 124.512(b);
 
-(C) The facility had procedures in place that complied with the requirements of § 124.504(c), § 124.505, § 124.507, § 124.509, 125.510, § 124.513(b)(2), § 124.514(b)(2), § 124.515, § 124.516(b)(1) or (b)(2), as applicable, or § 124.517(b), and systematically and correctly followed such procedures.
+(C) The facility had procedures in place that complied with the requirements of § 124.504(c), § 124.505, § 124.507, § 124.509, § 124.513(b)(2), § 124.514(b)(2), § 124.515, § 124.516(b)(1) or (b)(2), as applicable, or § 124.517(b), and systematically and correctly followed such procedures.
 
 (2) *Compliance prior to February 1, 1988.* The Secretary will determine the amount of creditable services provided prior to the effective date of these rules using the compliance standards applicable under the rules as promulgated on May 18, 1979, based on procedures determined by the Secretary to be sufficient to establish that the facility provided such amounts of uncompensated services in the period(s) being assessed.
 
@@ -56,4 +54,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (9) The availability of restricted or unrestricted funds (such as an endowment) available for charitable use.
 
-[52 FR 46031, Dec. 3, 1987; 52 FR 48362, Dec. 21, 1987; 53 FR 5576, Feb. 25, 1988; 59 FR 44639, Aug. 30, 1994; 66 FR 49266, Sept. 26, 2001]
+[52 FR 46031, Dec. 3, 1987; 52 FR 48362, Dec. 21, 1987; 53 FR 5576, Feb. 25, 1988; 59 FR 44639, Aug. 30, 1994; 66 FR 49266, Sept. 26, 2001; 85 FR 72909, Nov. 16, 2020]

@@ -1,7 +1,5 @@
 ##### § 1008.36 Submission of a request. #####
 
-Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
-
 (a) A request for a formal advisory opinion must be submitted in writing. An original and 2 copies of the request should be addressed to the headquarter offices of the OIG.
 
 (b) Each request for an advisory opinion must include -
@@ -24,7 +22,7 @@ Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
 
 (iv) Detailed statements of all collateral or oral understandings, if any, and
 
-(v) If applicable, a designation of trade secrets or confidential commercial or financial information in the manner described in 45 CFR 5.65;
+(v) If applicable, a designation of trade secrets or confidential commercial or financial information in the manner described in 45 CFR 5.41;
 
 (5) Signed certifications by the requestor(s), as described in § 1008.37 of this part;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
 
 (7) Each requesting party's Taxpayer Identification Number.
 
-(Approved by the Office of Management and Budget under control number 0990-0213)[62 FR 7357, Feb. 19, 1997, as amended at 63 FR 38325, July 16, 1998; 73 FR 15939, Mar. 26, 2008]
+(Approved by the Office of Management and Budget under control number 0990-0213)[62 FR 7357, Feb. 19, 1997, as amended at 63 FR 38325, July 16, 1998; 73 FR 15939, Mar. 26, 2008; 85 FR 72910, Nov. 16, 2020]

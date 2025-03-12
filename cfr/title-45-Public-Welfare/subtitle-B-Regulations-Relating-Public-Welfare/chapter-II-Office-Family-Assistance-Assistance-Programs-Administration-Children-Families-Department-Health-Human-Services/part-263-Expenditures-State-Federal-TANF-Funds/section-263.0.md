@@ -1,6 +1,6 @@
 ##### § 263.0 What definitions apply to this part? #####
 
-(a) Except as noted in § 263.2(d), the general TANF definitions at § 260.30 through § 260.33 of this chapter apply to this part.
+(a) Except as noted in § 263.2(d), the general TANF definitions at §§ 260.30 through 260.33 of this chapter apply to this part.
 
 (b) The term “administrative costs” means costs necessary for the proper administration of the TANF program or separate State programs.
 

@@ -1,7 +1,5 @@
 ##### § 1324.11 Establishment of the Office of the State Long-Term Care Ombudsman. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 (a) The Office of the State Long-Term Care Ombudsman shall be an entity which shall be headed by the State Long-Term Care Ombudsman, who shall carry out all of the functions and responsibilities set forth in § 1324.13 and shall carry out, directly and/or through local Ombudsman entities, the duties set forth in § 1324.19.
 
 (b) The State agency shall establish the Office and, thereby carry out the Long-Term Care Ombudsman program in any of the following ways:
@@ -50,7 +48,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (iii) Access to the name and contact information of the resident representative, if any, where needed to perform the functions and duties set forth in §§ 1324.13 and 1324.19;
 
-(iv) Access to review the medical, social and other records relating to a resident, if -
+(iv) Access to review the medical, social and other records relating to a resident, if—
 
 (A) The resident or resident representative communicates informed consent to the access and the consent is given in writing or through the use of auxiliary aids and services;
 
@@ -66,9 +64,9 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (3) *Disclosure.* Policies and procedures regarding disclosure of files, records and other information maintained by the Ombudsman program must include, but not be limited to:
 
-(i) Provision that the files, records, and information maintained by the Ombudsman program may be disclosed only at the discretion of the Ombudsman or designee of the Ombudsman for such purpose and in accordance with the criteria developed by the Ombudsman, as required by § 1327.13(e);
+(i) Provision that the files, records, and information maintained by the Ombudsman program may be disclosed only at the discretion of the Ombudsman or designee of the Ombudsman for such purpose and in accordance with the criteria developed by the Ombudsman, as required by § 1324.13(e);
 
-(ii) Prohibition of the disclosure of identifying information of any resident with respect to whom the Ombudsman program maintains files, records, or information, except as otherwise provided by § 1327.19(b)(5) through (8), unless:
+(ii) Prohibition of the disclosure of identifying information of any resident with respect to whom the Ombudsman program maintains files, records, or information, except as otherwise provided by § 1324.19(b)(5) through (8), unless:
 
 (A) The resident or the resident representative communicates informed consent to the disclosure and the consent is given in writing or through the use of auxiliary aids and services;
 
@@ -84,7 +82,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (C) The disclosure is required by court order;
 
-(iv) Exclusion of the Ombudsman and representatives of the Office from abuse reporting requirements, including when such reporting would disclose identifying information of a complainant or resident without appropriate consent or court order, except as otherwise provided in § 1327.19(b)(5) through (8); and
+(iv) Exclusion of the Ombudsman and representatives of the Office from abuse reporting requirements, including when such reporting would disclose identifying information of a complainant or resident without appropriate consent or court order, except as otherwise provided in § 1324.19(b)(5) through (8); and
 
 (v) Adherence to the provisions of paragraph (e)(3) of this section, regardless of the source of the request for information or the source of funding for the services of the Ombudsman program, notwithstanding section 705(a)(6)(c) of the Act.
 
@@ -108,7 +106,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (6) *Designation.* Policies and procedures related to designation must establish the criteria and process by which the Ombudsman shall designate and refuse, suspend or remove designation of local Ombudsman entities and representatives of the Office.
 
-(i) Such criteria should include, but not be limited to, the authority to refuse, suspend or remove designation a local Ombudsman entity or representative of the Office in situations in which an identified conflict of interest cannot be adequately removed or remedied as set forth in § 1327.21.
+(i) Such criteria should include, but not be limited to, the authority to refuse, suspend or remove designation a local Ombudsman entity or representative of the Office in situations in which an identified conflict of interest cannot be adequately removed or remedied as set forth in § 1324.21.
 
 (ii) [Reserved]
 
@@ -125,3 +123,5 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 (ii) Recommendations to changes in Federal, State and local laws, regulations, policies and actions pertaining to the health, safety, welfare, and rights of residents; and
 
 (iii) Provision of information to public and private agencies, legislators, the media, and other persons, regarding the problems and concerns of residents and recommendations related to the problems and concerns.
+
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016; 85 FR 72911, Nov. 16, 2020]

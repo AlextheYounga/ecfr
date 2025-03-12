@@ -1,7 +1,5 @@
 ##### § 1324.15 State agency responsibilities related to the Ombudsman program. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 (a) In addition to the responsibilities set forth in part 1321 of this chapter, the State agency shall ensure that the Ombudsman complies with the relevant provisions of the Act and of this rule.
 
 (b) The State agency shall ensure, through the development of policies, procedures, and other means, consistent with § 1324.11(e)(2), that the Ombudsman program has sufficient authority and access to facilities, residents, and information needed to fully perform all of the functions, responsibilities, and duties of the Office.
@@ -12,7 +10,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (e) The State agency shall provide monitoring, as required by § 1321.11(b) of this chapter, including but not limited to fiscal monitoring, where the Office and/or local Ombudsman entity is organizationally located within an agency under contract or other arrangement with the State agency. Such monitoring shall include an assessment of whether the Ombudsman program is performing all of the functions, responsibilities and duties set forth in §§ 1324.13 and 1324.19. The State agency may make reasonable requests of reports, including aggregated data regarding Ombudsman program activities, to meet the requirements of this provision.
 
-(f) The State agency shall ensure that any review of files, records or other information maintained by the Ombudsman program is consistent with the disclosure limitations set forth in §§ 1324.11(e)(3) and 1327.13(e).
+(f) The State agency shall ensure that any review of files, records or other information maintained by the Ombudsman program is consistent with the disclosure limitations set forth in §§ 1324.11(e)(3) and 1324.13(e).
 
 (g) The State agency shall integrate the goals and objectives of the Office into the State plan and coordinate the goals and objectives of the Office with those of other programs established under Title VII of the Act and other State elder rights, disability rights, and elder justice programs, including, but not limited to, legal assistance programs provided under section 306(a)(2)(C) of the Act, to promote collaborative efforts and diminish duplicative efforts. Where applicable, the State agency shall require inclusion of goals and objectives of local Ombudsman entities into area plans on aging.
 
@@ -30,7 +28,7 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (j) *Legal counsel.* (1) The State agency shall ensure that:
 
-(i) Legal counsel for the Ombudsman program is adequate, available, has competencies relevant to the legal needs of the program and of residents, and is without conflict of interest (as defined by the State ethical standards governing the legal profession), in order to -
+(i) Legal counsel for the Ombudsman program is adequate, available, has competencies relevant to the legal needs of the program and of residents, and is without conflict of interest (as defined by the State ethical standards governing the legal profession), in order to—
 
 (A) Provide consultation and representation as needed in order for the Ombudsman program to protect the health, safety, welfare, and rights of residents; and
 
@@ -48,12 +46,14 @@ Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
 
 (k) The State agency shall require the Office to:
 
-(1) Develop and provide final approval of an annual report as set forth in section 712(h)(1) of the Act and § 1327.13(g) and as otherwise required by the Assistant Secretary.
+(1) Develop and provide final approval of an annual report as set forth in section 712(h)(1) of the Act and § 1324.13(g) and as otherwise required by the Assistant Secretary.
 
 (2) Analyze, comment on, and monitor the development and implementation of Federal, State, and local laws, regulations, and other government policies and actions that pertain to long-term care facilities and services, and to the health, safety, welfare, and rights of residents, in the State, and recommend any changes in such laws, regulations, and policies as the Office determines to be appropriate;
 
 (3) Provide such information as the Office determines to be necessary to public and private agencies, legislators, the media, and other persons, regarding the problems and concerns of individuals residing in long-term care facilities; and recommendations related to such problems and concerns; and
 
-(4) Establish procedures for the training of the representatives of the Office, as set forth in § 1327.13(c)(2).
+(4) Establish procedures for the training of the representatives of the Office, as set forth in § 1324.13(c)(2).
 
 (5) Coordinate Ombudsman program services with entities with responsibilities relevant to the health, safety, welfare, and rights of residents of long-term care facilities, as set forth in § 1324.13(h).
+
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016; 85 FR 72911, Nov. 16, 2020]

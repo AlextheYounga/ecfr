@@ -1,8 +1,6 @@
 ##### § 1328.3 Core functions. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
-The Centers described in § 1388.2 must engage in the core functions referred to in this section, which shall include:
+The Centers described in § 1328.2 must engage in the core functions referred to in this section, which shall include:
 
 (a) Provision of interdisciplinary pre-service preparation and continuing education of students and fellows, which may include the preparation and continuing education of leadership, direct service, clinical, or other personnel to strengthen and increase the capacity of States and communities to achieve the purpose of the DD Act of 2000.
 
@@ -15,3 +13,5 @@ The Centers described in § 1388.2 must engage in the core functions referred to
 (c) Conduct of research, which may include basic or applied research, evaluation, and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families.
 
 (d) Dissemination of information related to activities undertaken to address the purpose of the DD Act of 2000, especially dissemination of information that demonstrates that the network authorized under Subtitle D of the Act is a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
+
+[80 FR 44807, July 27, 2015, as amended at 81 FR 35647, June 3, 2016; 85 FR 72911, Nov. 16, 2020]

@@ -1,0 +1,3 @@
+##### § 1326.24 Allowable litigation costs. #####
+
+Allotments may be used to pay the otherwise allowable costs incurred by a Protection and Advocacy System in bringing lawsuits in its own right to redress incidents of abuse or neglect, discrimination and other rights violations impacting the ability of individuals with developmental disabilities to obtain access to records and when it appears on behalf of named plaintiffs or a class of plaintiff for such purposes.

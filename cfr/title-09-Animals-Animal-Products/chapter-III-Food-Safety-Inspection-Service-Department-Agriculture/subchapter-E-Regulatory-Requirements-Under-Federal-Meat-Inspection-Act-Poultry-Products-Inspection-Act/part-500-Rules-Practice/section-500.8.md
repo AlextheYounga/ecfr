@@ -1,6 +1,6 @@
 ##### § 500.8 Procedures for rescinding or refusing approval of marks, labels, and containers. #####
 
-Link to an amendment published at 85 FR 68673, Oct. 29, 2020.
+Link to an amendment published at 85 FR 68673, Oct. 29, 2020.Link to an amendment published at 85 FR 81340, Dec. 16, 2020.
 
 (a) FSIS may rescind or refuse approval of false or misleading marks, labels, or sizes or forms of any container for use with any meat or poultry product under section 7 of the FMIA or under section 8 of the PPIA.
 

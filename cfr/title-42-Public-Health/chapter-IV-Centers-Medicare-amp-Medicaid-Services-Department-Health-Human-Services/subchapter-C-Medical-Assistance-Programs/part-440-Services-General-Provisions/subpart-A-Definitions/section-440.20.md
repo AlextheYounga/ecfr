@@ -1,14 +1,12 @@
 ##### § 440.20 Outpatient hospital services and rural health clinic services. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
-
-(a) *Outpatient hospital services* means preventive, diagnostic, therapeutic, rehabilitative, or palliative services that -
+(a) *Outpatient hospital services* means preventive, diagnostic, therapeutic, rehabilitative, or palliative services that—
 
 (1) Are furnished to outpatients;
 
 (2) Are furnished by or under the direction of a physician or dentist; and
 
-(3) Are furnished by an institution that -
+(3) Are furnished by an institution that—
 
 (i) Is licensed or formally approved as a hospital by an officially designated authority for State standard-setting; and
 
@@ -16,7 +14,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (4) May be limited by a Medicaid agency in the following manner: A Medicaid agency may exclude from the definition of “outpatient hospital services” those types of items and services that are not generally furnished by most hospitals in the State.
 
-(b) *Rural health clinic services.* If nurse practitioners or physician assistants (as defined in § 481.1 of this chapter) are not prohibited by State law from furnishing primary health care, “rural health clinic services” means the following services when furnished by a rural health clinic that has been certified in accordance with part 491 of this chapter.
+(b) *Rural health clinic services.* If nurse practitioners or physician assistants (as defined in § 491.2 of this chapter) are not prohibited by State law from furnishing primary health care, “rural health clinic services” means the following services when furnished by a rural health clinic that has been certified in accordance with part 491 of this chapter.
 
 (1) Services furnished by a physician within the scope of practice of his profession under State law, if the physician performs the services in the clinic or the services are furnished away from the clinic and the physician has an agreement with the clinic providing that he will be paid by it for such services.
 
@@ -36,4 +34,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.
 
 (c) *Other ambulatory services furnished by a rural health clinic.* If the State plan covers rural health clinic services, other ambulatory services means ambulatory services other than rural health clinic services, as defined in paragraph (b) of this section, that are otherwise included in the plan and meet specific State plan requirements for furnishing those services. Other ambulatory services furnishd by a rural health clinic are not subject to the physician supervision requirements specified in § 491.8(b) of this chapter, unless required by State law or the State plan.
 
-[43 FR 45224, Sept. 29, 1978, as amended at 47 FR 21050, May 17, 1982; 52 FR 47934, Dec. 17, 1987; 60 FR 61486, Nov. 30, 1995; 73 FR 66198, Nov. 7, 2008; 74 FR 31195, June 30, 2009]
+[43 FR 45224, Sept. 29, 1978, as amended at 47 FR 21050, May 17, 1982; 52 FR 47934, Dec. 17, 1987; 60 FR 61486, Nov. 30, 1995; 73 FR 66198, Nov. 7, 2008; 74 FR 31195, June 30, 2009; 85 FR 72909, Nov. 16, 2020]

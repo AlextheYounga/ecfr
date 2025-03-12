@@ -1,7 +1,5 @@
 ##### § 1324.21 Conflicts of interest. #####
 
-Link to an amendment published at 85 FR 72911, Nov. 16, 2020.
-
 The State agency and the Ombudsman shall consider both the organizational and individual conflicts of interest that may impact the effectiveness and credibility of the work of the Office. In so doing, both the State agency and the Ombudsman shall be responsible to identify actual and potential conflicts and, where a conflict has been identified, to remove or remedy such conflict as set forth in paragraphs (b) and (d) of this section.
 
 (a) *Identification of organizational conflicts.* In identifying conflicts of interest pursuant to section 712(f) of the Act, the State agency and the Ombudsman shall consider the organizational conflicts that may impact the effectiveness and credibility of the work of the Office. Organizational conflicts of interest include, but are not limited to, placement of the Office, or requiring that an Ombudsman or representative of the Office perform conflicting activities, in an organization that:
@@ -48,7 +46,7 @@ decision-making services for residents of long-term care facilities.
 
 (v) Assure that the Ombudsman has disclosed such conflicts and described steps taken to remove or remedy conflicts within the annual report submitted to the Assistant Secretary through the National Ombudsman Reporting System.
 
-(3) Where a State agency is unable to adequately remove or remedy a conflict, it shall carry out the Ombudsman program by contract or other arrangement with a public agency or nonprofit private organization, pursuant to section 712(a)(4) of the Act. The State agency may not enter into a contract or other arrangement to carry out the Ombudsman program if the other entity, and may not operate the Office directly if it:
+(3) Where a State agency is unable to adequately remove or remedy a conflict, it shall carry out the Ombudsman program by contract or other arrangement with a public agency or nonprofit private organization, pursuant to section 712(a)(4) of the Act. The State agency may not enter into a contract or other arrangement to carry out the Ombudsman program, and may not operate the Office directly if it:
 
 (i) Is responsible for licensing, surveying, or certifying long-term care facilities;
 
@@ -141,3 +139,5 @@ decision-making services for residents of long-term care facilities.
 (A) An agency which appoints or employs representatives of the Office shall make efforts to avoid appointing or employing an individual as a representative of the Office who has been employed by or participating in the management of a long-term care facility within the previous twelve months.
 
 (B) Where such individual is appointed or employed, the agency shall take steps to remedy the conflict.
+
+[80 FR 7758, Feb. 11, 2015, as amended at 81 FR 35646, June 3, 2016; 85 FR 72911, Nov. 16, 2020]

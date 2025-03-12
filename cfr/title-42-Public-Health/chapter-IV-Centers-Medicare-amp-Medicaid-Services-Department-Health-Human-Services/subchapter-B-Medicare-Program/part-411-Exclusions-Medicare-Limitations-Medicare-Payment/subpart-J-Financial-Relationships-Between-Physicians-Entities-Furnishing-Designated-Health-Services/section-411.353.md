@@ -1,6 +1,6 @@
 ##### § 411.353 Prohibition on certain referrals by physicians and limitations on billing. #####
 
-Link to an amendment published at 85 FR 72909, Nov. 16, 2020.Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
+Link to an amendment published at 85 FR 77656, Dec. 2, 2020.
 
 (a) *Prohibition on referrals.* Except as provided in this subpart, a physician who has a direct or indirect financial relationship with an entity, or who has an immediate family member who has a direct or indirect financial relationship with the entity, may not make a referral to that entity for the furnishing of DHS for which payment otherwise may be made under Medicare. A physician's prohibited financial relationship with an entity that furnishes DHS is not imputed to his or her group practice or its members or its staff. However, a referral made by a physician's group practice, its members, or its staff may be imputed to the physician if the physician directs the group practice, its members, or its staff to make the referral or if the physician controls referrals made by his or her group practice, its members, or its staff.
 
@@ -20,7 +20,7 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.Link to an amendmen
 
 (ii) The burden of production on each issue at each level of appeal is initially on the claimant, but may shift to CMS or its contractors during the course of the appellate proceeding, depending on the evidence presented by the claimant.
 
-(d) *Refunds.* An entity that collects payment for a designated health service that was performed pursuant to a prohibited referral must refund all collected amounts on a timely basis, as defined at § 1003.101 of this title.
+(d) *Refunds.* An entity that collects payment for a designated health service that was performed pursuant to a prohibited referral must refund all collected amounts on a timely basis, as defined at § 1003.110.
 
 (e) *Exception for certain entities.* Payment may be made to an entity that submits a claim for a designated health service if -
 
@@ -50,4 +50,4 @@ Link to an amendment published at 85 FR 72909, Nov. 16, 2020.Link to an amendmen
 
 (2) [Reserved]
 
-[72 FR 51086, Sept. 5, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 80 FR 71374, Nov. 16, 2015; 83 FR 60074, Nov. 23, 2018]
+[72 FR 51086, Sept. 5, 2007, as amended at 73 FR 48751, Aug. 19, 2008; 73 FR 57543, Oct. 3, 2008; 80 FR 71374, Nov. 16, 2015; 83 FR 60074, Nov. 23, 2018; 85 FR 72909, Nov. 16, 2020]

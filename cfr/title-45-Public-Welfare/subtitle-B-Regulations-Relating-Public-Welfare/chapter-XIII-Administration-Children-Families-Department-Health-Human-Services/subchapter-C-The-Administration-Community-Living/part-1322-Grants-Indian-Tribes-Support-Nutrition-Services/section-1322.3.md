@@ -25,3 +25,5 @@
 *Service provider,* means any entity that is awarded a subgrant or contract from a tribal organization to provide services under this part.
 
 *Tribal organization,* as used in § 1322.7 and elsewhere in this part, means the recognized governing body of any Indian tribe, or any legally established organization of Indians which is controlled, sanctioned or chartered by such governing body or which is democratically elected by the adult members of the Indian community to be served by such organization and which includes the maximum participation of Indians in all phases of its activities. Provided that in any case where a contract is let or grant made to an organization to perform services benefiting more than one Indian tribe, the approval of each Indian tribe shall be a prerequisite to the letting or making of the contract or grant (25 U.S.C. 450b).
+
+[53 FR 33774, Aug. 31, 1988, as amended at 81 FR 35645, June 3, 2016]

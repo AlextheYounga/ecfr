@@ -1,10 +1,8 @@
 ##### § 485.639 Condition of participation: Surgical services. #####
 
-Link to an amendment published at 85 FR 72910, Nov. 16, 2020.
-
 If a CAH provides surgical services, surgical procedures must be performed in a safe manner by qualified practitioners who have been granted clinical privileges by the governing body, or responsible individual, of the CAH in accordance with the designation requirements under paragraph (a) of this section.
 
-(a) *Designation of qualified practitioners.* The CAH designates the practitioners who are allowed to perform surgery for CAH patients, in accordance with its approved policies and procedures, and with State scope of practice laws. Surgery is performed only by -
+(a) *Designation of qualified practitioners.* The CAH designates the practitioners who are allowed to perform surgery for CAH patients, in accordance with its approved policies and procedures, and with State scope of practice laws. Surgery is performed only by—
 
 (1) A doctor of medicine or osteopathy, including an osteopathic practitioner recognized under section 1101(a)(7) of the Act;
 
@@ -20,7 +18,7 @@ If a CAH provides surgical services, surgical procedures must be performed in a 
 
 (c) *Administration of anesthesia.* The CAH designates the person who is allowed to administer anesthesia to CAH patients in accordance with its approved policies and procedures and with State scope-of-practice laws.
 
-(1) Anesthesia must be administered by only -
+(1) Anesthesia must be administered by only—
 
 (i) A qualified anesthesiologist;
 
@@ -34,7 +32,7 @@ If a CAH provides surgical services, surgical procedures must be performed in a 
 
 (vi) An anesthesiologist's assistant, as defined in § 410.69(b) of this chapter; or
 
-(vii) A supervised trainee in an approved educational program, as described in § 413.85 or § 413.86 of this chapter.
+(vii) A supervised trainee in an approved educational program, as described in § 413.85 or §§ 413.76 through 413.83 of this chapter.
 
 (2) In those cases in which a CRNA administers the anesthesia, the anesthetist must be under the supervision of the operating practitioner except as provided in paragraph (e) of this section. An anesthesiologist's assistant who administers anesthesia must be under the supervision of an anesthesiologist.
 
@@ -44,4 +42,4 @@ If a CAH provides surgical services, surgical procedures must be performed in a 
 
 (2) The request for exemption and recognition of State laws and the withdrawal of the request may be submitted at any time, and are effective upon submission.
 
-[60 FR 45851, Sept. 1, 1995, as amended at 62 FR 46037, Aug. 29, 1997; 66 FR 39938, Aug. 1, 2001; 66 FR 56769, Nov. 13, 2001; 77 FR 29076, May 16, 2012]
+[60 FR 45851, Sept. 1, 1995, as amended at 62 FR 46037, Aug. 29, 1997; 66 FR 39938, Aug. 1, 2001; 66 FR 56769, Nov. 13, 2001; 77 FR 29076, May 16, 2012; 85 FR 72910, Nov. 16, 2020]
