@@ -1,0 +1,3 @@
+##### § 500.1 Purpose and scope. #####
+
+Sections 500.2 through 500.5 of this part implement 47 U.S.C. 1428(c) as codified pursuant to the Middle Class Tax Relief and Job Creation Act of 2012 (Pub. L. 112-96, Title VI, 126 Stat. 256 (codified at 47 U.S.C. 1401 *et seq.*)) (Act), which requires the National Telecommunications and Information Administration (NTIA) to annually review fees the First Responder Network Authority (FirstNet) proposes to assess pursuant to 47 U.S.C. 1428(a).

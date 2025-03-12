@@ -1,7 +1,5 @@
 ##### § 91.313 Restricted category civil aircraft: Operating limitations. #####
 
-Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
-
 (a) No person may operate a restricted category civil aircraft -
 
 (1) For other than the special purpose for which it is certificated; or
@@ -32,8 +30,10 @@ Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
 
 (f) This section does not apply to nonpassenger-carrying civil rotorcraft external-load operations conducted under part 133 of this chapter.
 
-(g) No person may operate a small restricted-category civil airplane manufactured after July 18, 1978, unless an approved shoulder harness is installed for each front seat. The shoulder harness must be designed to protect each occupant from serious head injury when the occupant experiences the ultimate inertia forces specified in § 23.561(b)(2) of this chapter. The shoulder harness installation at each flight crewmember station must permit the crewmember, when seated and with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operation. For purposes of this paragraph -
+(g) No person may operate a small restricted-category civil airplane manufactured after July 18, 1978, unless an approved shoulder harness or restraint system is installed for each front seat. The shoulder harness or restraint system installation at each flightcrew station must permit the flightcrew member, when seated and with the safety belt and shoulder harness fastened or the restraint system engaged, to perform all functions necessary for flight operation. For purposes of this paragraph -
 
 (1) The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA-approved type design data; and
 
 (2) A front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
+
+[Docket No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Docket FAA-2015-1621, Amdt. 91-346, 81 FR 96700, Dec. 30, 2016]

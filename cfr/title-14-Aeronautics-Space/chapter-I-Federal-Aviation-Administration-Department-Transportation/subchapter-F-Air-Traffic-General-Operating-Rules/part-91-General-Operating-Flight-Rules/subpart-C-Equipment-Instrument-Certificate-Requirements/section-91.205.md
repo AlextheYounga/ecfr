@@ -1,7 +1,5 @@
 ##### § 91.205 Powered civil aircraft with standard category U.S. airworthiness certificates: Instrument and equipment requirements. #####
 
-Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
-
 (a) *General.* Except as provided in paragraphs (c)(3) and (e) of this section, no person may operate a powered civil aircraft with a standard category U.S. airworthiness certificate in any operation described in paragraphs (b) through (f) of this section unless that aircraft contains the instruments and equipment specified in those paragraphs (or FAA-approved equivalents) for that type of operation, and those instruments and items of equipment are in operable condition.
 
 (b) *Visual-flight rules (day).* For VFR flight during the day, the following instruments and equipment are required:
@@ -30,21 +28,17 @@ Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
 
 (12) If the aircraft is operated for hire over water and beyond power-off gliding distance from shore, approved flotation gear readily available to each occupant and, unless the aircraft is operating under part 121 of this subchapter, at least one pyrotechnic signaling device. As used in this section, “shore” means that area of the land adjacent to the water which is above the high water mark and excludes land areas which are intermittently under water.
 
-(13) An approved safety belt with an approved metal-to-metal latching device for each occupant 2 years of age or older.
+(13) An approved safety belt with an approved metal-to-metal latching device, or other approved restraint system for each occupant 2 years of age or older.
 
-(14) For small civil airplanes manufactured after July 18, 1978, an approved shoulder harness for each front seat. The shoulder harness must be designed to protect the occupant from serious head injury when the occupant experiences the ultimate inertia forces specified in § 23.561(b)(2) of this chapter. Each shoulder harness installed at a flight crewmember station must permit the crewmember, when seated and with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operations. For purposes of this paragraph -
+(14) For small civil airplanes manufactured after July 18, 1978, an approved shoulder harness or restraint system for each front seat. For small civil airplanes manufactured after December 12, 1986, an approved shoulder harness or restraint system for all seats. Shoulder harnesses installed at flightcrew stations must permit the flightcrew member, when seated and with the safety belt and shoulder harness fastened, to perform all functions necessary for flight operations. For purposes of this paragraph—
 
 (i) The date of manufacture of an airplane is the date the inspection acceptance records reflect that the airplane is complete and meets the FAA-approved type design data; and
 
-(ii) A front seat is a seat located at a flight crewmember station or any seat located alongside such a seat.
+(ii) A front seat is a seat located at a flightcrew member station or any seat located alongside such a seat.
 
 (15) An emergency locator transmitter, if required by § 91.207.
 
-(16) For normal, utility, and acrobatic category airplanes with a seating configuration, excluding pilot seats, of 9 or less, manufactured after December 12, 1986, a shoulder harness for -
-
-(i) Each front seat that meets the requirements of § 23.785 (g) and (h) of this chapter in effect on December 12, 1985;
-
-(ii) Each additional seat that meets the requirements of § 23.785(g) of this chapter in effect on December 12, 1985.
+(16) [Reserved]
 
 (17) For rotorcraft manufactured after September 16, 1992, a shoulder harness for each seat that meets the requirements of § 27.2 or § 29.2 of this chapter in effect on September 16, 1991.
 
@@ -88,7 +82,7 @@ Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
 
 (e) *Flight at and above 24,000 feet MSL (FL 240).* If VOR navigation equipment is required under paragraph (d)(2) of this section, no person may operate a U.S.-registered civil aircraft within the 50 states and the District of Columbia at or above FL 240 unless that aircraft is equipped with approved DME or a suitable RNAV system. When the DME or RNAV system required by this paragraph fails at and above FL 240, the pilot in command of the aircraft must notify ATC immediately, and then may continue operations at and above FL 240 to the next airport of intended landing where repairs or replacement of the equipment can be made.
 
-(f) *Category II operations.* The requirements for Category II operations are the instruments and equipment specified in -
+(f) *Category II operations.* The requirements for Category II operations are the instruments and equipment specified in—
 
 (1) Paragraph (d) of this section; and
 
@@ -114,4 +108,4 @@ Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
 
 (i) *Exclusions.* Paragraphs (f) and (g) of this section do not apply to operations conducted by a holder of a certificate issued under part 121 or part 135 of this chapter.
 
-[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-220, 55 FR 43310, Oct. 26, 1990; Amdt. 91-223, 56 FR 41052, Aug. 16, 1991; Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-248, 61 FR 5171, Feb. 9, 1996; Amdt. 91-251, 61 FR 34560, July 2, 1996; Amdt. 91-285, 69 FR 77599, Dec. 27, 2004; Amdt. 91-296, 72 FR 31679, June 7, 2007; Amdt. 91-309, 74 FR 42563, Aug. 21, 2009]
+[Doc. No. 18334, 54 FR 34292, Aug. 18, 1989, as amended by Amdt. 91-220, 55 FR 43310, Oct. 26, 1990; Amdt. 91-223, 56 FR 41052, Aug. 16, 1991; Amdt. 91-231, 57 FR 42672, Sept. 15, 1992; Amdt. 91-248, 61 FR 5171, Feb. 9, 1996; Amdt. 91-251, 61 FR 34560, July 2, 1996; Amdt. 91-285, 69 FR 77599, Dec. 27, 2004; Amdt. 91-296, 72 FR 31679, June 7, 2007; Amdt. 91-309, 74 FR 42563, Aug. 21, 2009; Docket FAA-2015-1621, Amdt. 91-346, 81 FR 96700, Dec. 30, 2016]

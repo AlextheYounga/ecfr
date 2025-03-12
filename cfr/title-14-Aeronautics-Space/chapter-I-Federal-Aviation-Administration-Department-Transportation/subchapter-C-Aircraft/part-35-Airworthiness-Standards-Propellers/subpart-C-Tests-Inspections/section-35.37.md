@@ -1,7 +1,5 @@
 ##### § 35.37 Fatigue limits and evaluation. #####
 
-Link to an amendment published at 81 FR 96700, Dec. 30, 2016.
-
 This section does not apply to fixed-pitch wood propellers of conventional design.
 
 (a) Fatigue limits must be established by tests, or analysis based on tests, for propeller:
@@ -22,8 +20,8 @@ This section does not apply to fixed-pitch wood propellers of conventional desig
 
 (c) A fatigue evaluation of the propeller must be conducted to show that hazardous propeller effects due to fatigue will be avoided throughout the intended operational life of the propeller on either:
 
-(1) The intended airplane by complying with § 23.907 or § 25.907 of this chapter, as applicable; or
+(1) The intended airplane by complying with § 23.2400(c) or § 25.907 of this chapter, as applicable; or
 
 (2) A typical airplane.
 
-[Amdt. 35-8, 73 FR 63348, Oct. 24, 2008]
+[Amdt. 35-8, 73 FR 63348, Oct. 24, 2008, as amended by Doc. FAA-2015-1621, Amdt. 35-10, 81 FR 96700, Dec. 30, 2016]

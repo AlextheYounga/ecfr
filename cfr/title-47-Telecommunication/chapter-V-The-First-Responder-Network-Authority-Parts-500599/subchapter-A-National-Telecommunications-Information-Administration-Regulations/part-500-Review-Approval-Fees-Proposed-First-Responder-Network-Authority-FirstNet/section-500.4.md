@@ -1,0 +1,3 @@
+##### § 500.4 Scope of NTIA review of FirstNet proposed fees. #####
+
+NTIA shall approve FirstNet proposed fees only if such fees, when combined with any non-fee-based income projected to be received by FirstNet, are sufficient, but do not exceed the amount necessary, to recoup FirstNet's projected total expenses in carrying out its powers, duties, and responsibilities under 47 U.S.C. 1401 *et seq.* for the fiscal year involved.

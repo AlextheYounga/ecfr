@@ -1,0 +1,21 @@
+##### § 23.2200 Structural design envelope. #####
+
+The applicant must determine the structural design envelope, which describes the range and limits of airplane design and operational parameters for which the applicant will show compliance with the requirements of this subpart. The applicant must account for all airplane design and operational parameters that affect structural loads, strength, durability, and aeroelasticity, including:
+
+(a) Structural design airspeeds, landing descent speeds, and any other airspeed limitation at which the applicant must show compliance to the requirements of this subpart. The structural design airspeeds must -
+
+(1) Be sufficiently greater than the stalling speed of the airplane to safeguard against loss of control in turbulent air; and
+
+(2) Provide sufficient margin for the establishment of practical operational limiting airspeeds.
+
+(b) Design maneuvering load factors not less than those, which service history shows, may occur within the structural design envelope.
+
+(c) Inertial properties including weight, center of gravity, and mass moments of inertia, accounting for -
+
+(1) Each critical weight from the airplane empty weight to the maximum weight; and
+
+(2) The weight and distribution of occupants, payload, and fuel.
+
+(d) Characteristics of airplane control systems, including range of motion and tolerances for control surfaces, high lift devices, or other moveable surfaces.
+
+(e) Each critical altitude up to the maximum altitude.
