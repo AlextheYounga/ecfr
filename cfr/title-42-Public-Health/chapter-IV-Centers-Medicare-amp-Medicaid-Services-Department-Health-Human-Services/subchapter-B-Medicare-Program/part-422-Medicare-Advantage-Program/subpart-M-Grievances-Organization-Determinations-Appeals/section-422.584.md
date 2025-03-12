@@ -1,5 +1,7 @@
 ##### § 422.584 Expediting certain reconsiderations. #####
 
+Link to an amendment published at 84 FR 23881, May 23, 2019.
+
 (a) *Who may request an expedited reconsideration.* An enrollee or a physician (regardless of whether he or she is affiliated with the MA organization) may request that an MA organization expedite a reconsideration of a determination that involves the issues described in § 422.566(b)(3) and (b)(4). (This does not include requests for payment of services already furnished.)
 
 (b) *How to make a request.* (1) To ask for an expedited reconsideration, an enrollee or a physician acting on behalf of an enrollee must submit an oral or written request directly to the MA organization or, if applicable, to the entity responsible for making the reconsideration, as directed by the MA organization.

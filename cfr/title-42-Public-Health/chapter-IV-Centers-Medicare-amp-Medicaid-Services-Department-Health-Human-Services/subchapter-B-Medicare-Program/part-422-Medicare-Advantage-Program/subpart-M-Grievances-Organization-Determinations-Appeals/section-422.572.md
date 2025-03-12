@@ -1,5 +1,7 @@
 ##### § 422.572 Timeframes and notice requirements for expedited organization determinations. #####
 
+Link to an amendment published at 84 FR 23881, May 23, 2019.
+
 (a) *Timeframe.* Except as provided in paragraph (b) of this section, an MA organization that approves a request for expedited determination must make its determination and notify the enrollee (and the physician involved, as appropriate) of its decision, whether adverse or favorable, as expeditiously as the enrollee's health condition requires, but no later than 72 hours after receiving the request.
 
 (b) *Extensions.* (1) The MA organization may extend the 72-hour deadline by up to 14 calendar days if -

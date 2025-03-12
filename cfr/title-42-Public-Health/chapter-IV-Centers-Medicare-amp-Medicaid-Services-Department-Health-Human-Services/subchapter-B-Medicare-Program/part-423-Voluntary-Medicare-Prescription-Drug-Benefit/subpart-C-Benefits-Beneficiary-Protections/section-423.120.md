@@ -1,6 +1,6 @@
 ##### § 423.120 Access to covered Part D drugs. #####
 
-Link to an amendment published at 84 FR 15840, April 16, 2019.
+Link to an amendment published at 84 FR 15840, April 16, 2019.Link to an amendment published at 84 FR 23883, May 23, 2019.
 
 (a) *Assuring pharmacy access* - (1) *Standards for convenient access to network pharmacies.* Except as provided in paragraph (a)(7) of this section, a Part D sponsor (as defined in § 423.4 of this part) must have a contracted pharmacy network consisting of retail pharmacies sufficient to ensure that, for beneficiaries residing in each State in a PDP sponsor's service area (as defined in § 423.112(a) of this part), each State in a regional MA-organization's service area (as defined in § 422.2 of this part), the entire service area of a local MA organization (as defined in § 422.2 of this chapter) or the entire geographic area of a cost contract (as defined in § 417.401 of this chapter) all of the following requirements are satisfied:
 

@@ -1,0 +1,23 @@
+##### § 1209.251 Payment of assessments. #####
+
+(a) Each first handler responsible for collecting assessments on domestic mushrooms shall collect the amounts assessed and remit such amounts to the Council on a monthly basis not later than the fifteenth day of the month following the month in which the mushrooms were marketed to or through the first handler.
+
+(b) Each producer responsible for paying any assessment amount on the producer's own mushrooms shall remit such amount to the Council on a monthly basis not later than the fifteenth day of the month following the month in which the mushrooms were marketed by the producer.
+
+(c) Each importer shall be responsible for remittance to the Council of any assessment amount not collected by the U.S. Customs Service at the time of entry or withdrawal for consumption into the United States. Any such assessment amount shall be remitted to the Council on a monthly basis not later than the fifteenth day of the month following the month of entry or withdrawal for consumption into the United States. Any person who imports mushrooms, as principal or as an agent, broker, or consignee for any person who produces mushrooms outside the United States for marketing in the United States shall be considered an importer.
+
+(d) Remittance shall be by check, draft, or money order payable to the Mushroom Council, and shall be accompanied by a report, on a form provided by the Council.
+
+(e) A late payment charge shall be imposed on any first handler or importer who fails to make timely remittance to the Council of the total assessment amount for which the person is liable. Such late payment charge shall be imposed on any assessments not received by the last day of the month following the month in which the mushrooms involved were marketed or, in the case of imports, not collected by the U.S. Customs Service at the time of entry or withdrawal for consumption into the United States. This one-time late payment charge shall be 10 percent of the assessments due before interest charges have accrued. The late payment charge will not be applied to any late payments postmarked within 15 days after the end of the month such assessments are due.
+
+(f) In addition to the late payment charge, interest shall be charged at a rate of one and one-half percent per month on the outstanding balance, including the late payment charge and any accrued interest, of any account that remains delinquent beyond the last day of the second month following the month the mushrooms involved were marketed. However, first handlers paying their assessments, in accordance with paragraph (h)(2) of this section, will not be subject to the one and one-half percent per month interest under this paragraph until the last day of the second month after such assessments are due under paragraph (h)(2) of this section. In the case of imports, such a rate of interest will be charged to any account that remains delinquent on any assessments not collected by the U.S. Customs Service at the time of entry or withdrawal for consumption into the United States. Such a rate of interest will continue to be charged monthly until the outstanding balance is paid to the Council.
+
+(g) Any assessment determined by the Council at a date later than prescribed by this section, because of a person's failure to submit a report to the Council when due, shall be considered to have been payable by the date it would have been due if the report had been filed on time. A late payment charge and monthly interest charges on the outstanding balance shall be applicable to such unpaid assessment in accordance with paragraphs (e) and (f) of this section.
+
+(h) In lieu of the monthly assessment payment and reporting requirements of § 1209.260 of this subpart and § 1209.60 of this part, the Council may permit a first handler to make advance payment of the total estimated assessment amount due to the Council for the ensuing fiscal year, or portion thereof, prior to the actual determination of assessable mushrooms.
+
+(1) Each person shall provide an initial report estimating assessable mushrooms. The Council may request additional information on such estimate.
+
+(2) Each person shall provide a final report of actual marketings during the period involved and remit any unpaid assessments not later than the fifteenth day of the month following the end of the period covered.
+
+(3) Any person whose prepayment exceeds the amount paid shall be reimbursed for the amount of overpayment. The Council shall not, in any case, be obligated to pay interest on any advance payment.

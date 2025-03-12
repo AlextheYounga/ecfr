@@ -1,0 +1,3 @@
+##### § 1209.237 Appointment. #####
+
+If an employee, partner, officer, or shareholder of a producer or importer is a current member of the Council, no nominee who is also an employee, partner, officer, or shareholder of such producer or importer shall be appointed to the Council. A Council member shall be disqualified from serving on the Council if such individual ceases to be affiliated with a producer or importer within the region the Council member represents.

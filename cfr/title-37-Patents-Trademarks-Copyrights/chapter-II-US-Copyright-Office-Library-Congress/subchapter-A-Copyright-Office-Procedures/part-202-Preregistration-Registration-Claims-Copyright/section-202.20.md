@@ -1,7 +1,5 @@
 ##### § 202.20 Deposit of copies and phonorecords for copyright registration. #####
 
-Link to an amendment published at 84 FR 16785, April 23, 2019.
-
 (a) *General.* This section prescribes rules pertaining to the deposit of copies and phonorecords of published and unpublished works for the purpose of copyright registration under section 408 of title 17 of the United States Code. The provisions of this section are not applicable to the deposit of copies and phonorecords for the Library of Congress under section 407 of title 17, except as expressly adopted in § 202.19.
 
 (b) *Definitions.* For the purposes of this section:
@@ -83,6 +81,8 @@ Link to an amendment published at 84 FR 16785, April 23, 2019.
 (K) Works reproduced on three-dimensional containers such as boxes, cases, and cartons.
 
 (L) Published literary monographs.
+
+(M) Architectural works, for which the deposit must comply with the requirements set forth in § 202.11.
 
 (ii) *Motion pictures.* In the case of published or unpublished motion pictures, the deposit of one complete copy will suffice. The deposit of a copy or copies for any published or unpublished motion picture must be accompanied by a separate description of its contents, such as a continuity, pressbook, or synopsis. In any case where the deposit copy or copies required for registration of a motion picture cannot be viewed for examining purposes on equipment in the Registration Program of the Copyright Office, the description accompanying the deposit must comply with § 202.21(h). The Library of Congress may, at its sole discretion, enter into an agreement permitting the return of copies of published motion pictures to the depositor under certain conditions and establishing certain rights and obligations of the Library of Congress with respect to such copies. In the event of termination of such an agreement by the Library, it shall not be subject to reinstatement, nor shall the depositor or any successor in interest of the depositor be entitled to any similar or subsequent agreement with the Library, unless at the sole discretion of the Library it would be in the best interests of the Library to reinstate the agreement or enter into a new agreement. In the case of unpublished motion pictures (including television transmission programs that have been fixed and transmitted to the public, but have not been published), the deposit of identifying material in compliance with § 202.21 may be made and will suffice in lieu of an actual copy. In the case of colorized versions of motion pictures made from pre-existing black and white motion pictures, in addition to the deposit of one complete copy of the colorized motion picture and the separate description of its contents as specified above, the deposit shall consist of one complete print of the black and white version of the motion picture from which the colorized version was prepared. If special relief from this requirement is requested and granted, the claimant shall make a good faith effort to deposit the best available, near-archival quality black and white print, as a condition of any grant of special relief.
 
@@ -192,31 +192,7 @@ The number of sets of instructions and identifying material shall be the same as
 
 (xvi) *Phonorecords.* In any case where the phonorecord or phonorecords submitted for registration of a claim to copyright is inaudible on audio playback devices in the Registration Program of the Copyright Office, the Office will seek an appropriate deposit in accordance with paragraph (d) of this section.
 
-(xvii) [Reserved]
-
-(xviii) *Architectural works.* (A) For designs of unconstructed buildings, the deposit must consist of one complete copy of an architectural drawing or blueprint in visually perceptible form showing the overall form of the building and any interior arrangements of spaces and/or design elements in which copyright is claimed. For archival purposes, the Copyright Office prefers that the drawing submissions consist of the following in descending order of preference:6
-
-6 The Copyright Office prefers that the deposit disclose the name(s) of the architect(s) and draftsperson(s) and the building site, if known.
-
-(*1*) Original format, or best quality form of reproduction, including offset or silk screen printing;
-
-(*2*) Xerographic or photographic copies on good quality paper;
-
-(*3*) Positive photostat or photodirect positive;
-
-(*4*) Blue line copies (diazo or ozalid process).
-
-(B) For designs of constructed buildings, the deposit must consist of one complete copy of an architectural drawing or blueprint in visually perceptible form showing the overall form of the building and any interior arrangement of spaces and/or design elements in which copyright is claimed. In addition, the deposit must also include identifying material in the form of photographs complying with § 202.21, which clearly discloses the architectural works being registered.7 For archival purposes, the Copyright Office prefers that the drawing submissions constitute the most finished form of presentation drawings and consist of the following in descending order of preference:
-
-7 With respect to the accompanying photographs, the Copyright Office prefers 8 × 10 inches, good quality photographs, which clearly show several exterior and interior views. The Copyright Office prefers that the deposit disclose the name(s) of the architect(s) and draftsperson(s) and the building site.
-
-(*1*) Original format, or best quality form of reproduction, including offset or silk screen printing;
-
-(*2*) Xerographic or photographic copies on good quality paper;
-
-(*3*) Positive photostat or photodirect positive;
-
-(*4*) Blue line copies (diazo or ozalid process).
+(xvii)-(xviii) [Reserved]
 
 (xix) *Works fixed in a CD-ROM format.* (A) Where a work is fixed in a CD-ROM format, the deposit must consist of one complete copy of the entire CD-ROM package, including a complete copy of any accompanying operating software and instructional manual, and a printed version of the work embodied in the CD-ROM, if the work is fixed in print as well as a CD-ROM. A complete copy of a published CD-ROM package includes all of the elements comprising the applicable unit of publication, including elements that if considered separately would not be copyrightable subject matter or could be the subject of a separate registration.
 

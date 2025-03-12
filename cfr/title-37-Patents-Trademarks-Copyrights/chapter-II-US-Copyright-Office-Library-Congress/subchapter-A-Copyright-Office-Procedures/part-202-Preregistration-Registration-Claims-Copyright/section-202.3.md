@@ -1,7 +1,5 @@
 ##### § 202.3 Registration of copyright. #####
 
-Link to an amendment published at 84 FR 16785, April 23, 2019.
-
 (a) *General.* (1) This section prescribes conditions for the registration of copyright, and the application to be made for registration under sections 408 and 409 of title 17 of the United States Code.
 
 (2) For the purposes of this section, the terms *audiovisual work*, *compilation*, *copy*, *derivative work*, *device*, *fixation*, *literary work*, *motion picture*, *phonorecord*, *pictorial, graphic and sculptural works*, *process*, *sound recording*, and their variant forms, have the meanings set forth in section 101 of title 17. The term *author* includes an employer or other person for whom a work is “made for hire” under section 101 of title 17.
@@ -20,7 +18,7 @@ Link to an amendment published at 84 FR 16785, April 23, 2019.
 
 (ii) *Class PA: Works of the performing arts.* This class includes all published and unpublished works prepared for the purpose of being performed directly before an audience or indirectly by means of a device or process. Examples: Musical works, including any accompanying words; dramatic works, including any accompanying music; pantomimes and choreographic works; and motion pictures and other audiovisual works.
 
-(iii) *Class VA: Works of the visual arts.* This class includes all published and unpublished pictorial, graphic, and sculptural works. Examples: Two dimensional and three dimensional works of the fine, graphic, and applied arts; photographs; prints and art reproductions; maps, globes, and charts; technical drawings, diagrams, and models; and pictorial or graphic labels and advertisements.
+(iii) *Class VA: Works of the visual arts.* This class includes all published and unpublished pictorial, graphic, and sculptural works. Examples: Two dimensional and three dimensional works of the fine, graphic, and applied arts; photographs; prints and art reproductions; maps, globes, and charts; technical drawings, diagrams, and models; and pictorial or graphic labels and advertisements. This class also includes published and unpublished architectural works.
 
 (iv) *Class SR: Sound recordings.* This class includes all published and unpublished sound recordings fixed on and after February 15, 1972. Claims to copyright in literary, dramatic, and musical works embodied in phonorecords may also be registered in this class under paragraph (b)(4) of this section if:
 

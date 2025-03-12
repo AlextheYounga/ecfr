@@ -1,5 +1,7 @@
 ##### § 422.590 Timeframes and responsibility for reconsiderations. #####
 
+Link to an amendment published at 84 FR 23881, May 23, 2019.
+
 (a) *Standard reconsideration: Request for services.* (1) Except as provided in paragraph (e) of this section, if the MA organization makes a reconsidered determination that is completely favorable to the enrollee, the MA organization must issue the determination (and effectuate it in accordance with § 422.618(a)) as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration.
 
 (2) If the MA organization makes a reconsidered determination that affirms, in whole or in part, its adverse organization determination, it must prepare a written explanation and send the case file to the independent entity contracted by CMS as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days from the date it receives the request for a standard reconsideration (or no later than the expiration of an extension described in paragraph (a)(1) of this section). The organization must make reasonable and diligent efforts to assist in gathering and forwarding information to the independent entity.

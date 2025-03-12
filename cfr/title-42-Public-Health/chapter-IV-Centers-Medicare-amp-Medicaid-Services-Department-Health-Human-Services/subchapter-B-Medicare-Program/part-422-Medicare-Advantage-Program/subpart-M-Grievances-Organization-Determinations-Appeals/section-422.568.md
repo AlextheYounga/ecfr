@@ -1,6 +1,6 @@
 ##### § 422.568 Standard timeframes and notice requirements for organization determinations. #####
 
-Link to an amendment published at 84 FR 15843, April 16, 2019.
+Link to an amendment published at 84 FR 15843, April 16, 2019.Link to an amendment published at 84 FR 23880, May 23, 2019.
 
 (a) *Method and place for filing a request.* An enrollee must ask for a standard organization determination by making a request with the MA organization or, if applicable, to the entity responsible for making the determination (as directed by the MA organization), in accordance with the following:
 

@@ -1,0 +1,3 @@
+##### § 1209.231 Nominations. #####
+
+Nominations shall be made at regional caucuses of producers or importers, or by mail ballot in accordance with the procedures prescribed in § 1209.31 of this part. Proxy voting by producers and importers shall not be permitted at a regional caucus or in a mail ballot. Each regional caucus and mail ballot shall be scheduled so as to ensure that the nominations for each position that will be open at the beginning of the following year are received by the Secretary by August 1, or such other date approved by the Secretary.

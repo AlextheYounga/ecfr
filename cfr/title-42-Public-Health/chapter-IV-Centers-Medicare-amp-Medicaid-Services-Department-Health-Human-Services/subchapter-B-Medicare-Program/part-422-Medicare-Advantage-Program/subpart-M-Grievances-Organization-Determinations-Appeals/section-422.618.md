@@ -1,5 +1,7 @@
 ##### § 422.618 How an MA organization must effectuate standard reconsidered determinations or decisions. #####
 
+Link to an amendment published at 84 FR 23882, May 23, 2019.
+
 (a) *Reversals by the MA organization* - (1) *Requests for service.* If, on reconsideration of a request for service, the MA organization completely reverses its organization determination, the organization must authorize or provide the service under dispute as expeditiously as the enrollee's health condition requires, but no later than 30 calendar days after the date the MA organization receives the request for reconsideration (or no later than upon expiration of an extension described in § 422.590(e)).
 
 (2) *Requests for payment.* If, on reconsideration of a request for payment, the MA organization completely reverses its organization determination, the organization must pay for the service no later than 60 calendar days after the date the MA organization receives the request for reconsideration.
