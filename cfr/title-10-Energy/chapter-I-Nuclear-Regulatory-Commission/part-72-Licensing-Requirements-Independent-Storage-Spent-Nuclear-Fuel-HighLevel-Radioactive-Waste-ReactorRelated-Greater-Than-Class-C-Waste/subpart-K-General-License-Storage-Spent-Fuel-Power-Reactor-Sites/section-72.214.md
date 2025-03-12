@@ -1,6 +1,6 @@
 ##### § 72.214 List of approved spent fuel storage casks. #####
 
-Link to an amendment published at 88 FR 953, Jan. 6, 2023.Link to an amendment published at 88 FR 9116, Feb. 13, 2023.
+Link to an amendment published at 88 FR 9116, Feb. 13, 2023.
 
 The following casks are approved for storage of spent fuel under the conditions specified in their Certificates of Compliance.
 
@@ -415,9 +415,9 @@ Model Number: MAGNASTOR®.
 
 *Amendment Number 5 Effective Date:* July 27, 2020.
 
-Amendment Number 6 [Reserved]
+*Amendment Number 6 Effective Date:* March 22, 2023.
 
-Amendment Number 7 [Reserved]
+*Amendment Number 7* [Reserved]
 
 *Amendment Number 8 Effective Date:* October 11, 2022.
 

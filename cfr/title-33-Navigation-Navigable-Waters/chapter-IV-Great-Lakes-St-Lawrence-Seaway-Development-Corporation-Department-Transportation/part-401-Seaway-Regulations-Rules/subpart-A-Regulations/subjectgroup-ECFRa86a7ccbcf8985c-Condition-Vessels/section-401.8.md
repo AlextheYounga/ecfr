@@ -1,15 +1,23 @@
 ##### § 401.8 Landing booms. #####
 
-Link to an amendment published at 88 FR 14267, Mar. 8, 2023.
+(a) Vessels of more than 50 m in overall length and a freeboard of 2m or more shall either be equipped with landing booms or make provisions for tie-up service at the approach walls.
 
-(a) Vessels of more than 50 m in overall length shall be equipped with at least one adequate landing boom on each side which are to be in compliance with applicable regulations.
+(b) For vessels with landing booms:
 
-(b) Vessel's crews shall be adequately trained in the use of landing booms for the purpose of landing crew ashore.
+(1) Vessel must be equipped with an adequate landing boom on each side;
 
-(c) Vessels with a freeboard less than 2 meters are not required to be equipped with landing booms.
+(2) Landing booms must be in compliance with applicable regulations;
 
-(d) Vessels not equipped with landing booms shall make arrangements with a “Tie-Up Service” provider for tie-up and let-go at Seaway Approach walls prior to commencing transit of the Seaway.
+(3) Vessel's crews shall be adequately trained in the use of landing booms for the purpose of landing crew ashore.
 
-(e) Vessels shall have onboard for inspection a copy of the test certificate for each landing boom.
+(4) Vessel must have onboard for inspection the following documents:
 
-[87 FR 12591, Mar. 7, 2022]
+(i) A copy of the test certificates for each of the landing booms from either a classification society or a third party, dated within 5 years;
+
+(ii) Documents to demonstrate appropriate training;
+
+(iii) Documented tests and maintenance records of landing boom equipment.
+
+(c) Vessels not equipped with or not using landing booms shall make arrangements with a third party tie-up service provider for tie-up at Seaway Approach walls at the Canadian Locks prior to commencing transit of the Seaway.
+
+[88 FR 14267, Mar. 8, 2023]

@@ -1,10 +1,10 @@
-##### 252.227-7013 Rights in Technical Data - Other Than Commercial Products and Commercial Services. #####
+##### 252.227-7013 Rights in Technical Data—Other Than Commercial Products and Commercial Services. #####
 
 As prescribed in 227.7103-6(a), use the following clause:
 
-Rights in Technical Data - Other Than Commercial Products or Commercial Services (JAN 2023)
+Rights in Technical Data—Other Than Commercial Products or Commercial Services (MAR 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
 (1) *Computer data base* means a collection of data recorded in a form capable of being processed by a computer. The term does not include computer software.
 
@@ -14,7 +14,7 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (4) *Computer software documentation* means owner's manuals, user's manuals, installation instructions, operating instructions, and other similar items, regardless of storage medium, that explain the capabilities of the computer software or provide instructions for using the software.
 
-(5) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014)under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor -
+(5) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014)under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor—
 
 (i) Is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
@@ -38,19 +38,19 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (12) *Government purpose* means any activity in which the United States Government is a party, including cooperative agreements with international or multi-national defense organizations, or sales or transfers by the United States Government to foreign governments or international organizations. Government purposes include competitive procurement, but do not include the rights to use, modify, reproduce, release, perform, display, or disclose technical data for commercial purposes or authorize others to do so.
 
-(13) *Government purpose rights* means the rights to -
+(13) *Government purpose rights* means the rights to—
 
 (i) Use, modify, reproduce, release, perform, display, or disclose technical data within the Government without restriction; and
 
 (ii) Release or disclose technical data outside the Government and authorize persons to whom release or disclosure has been made to use, modify, reproduce, release, perform, display, or disclose that data for United States government purposes.
 
-(14) *Limited rights* means the rights to use, modify, reproduce, release, perform, display, or disclose technical data, in whole or in part, within the Government. The Government may not, without the written permission of the party asserting limited rights, release or disclose the technical data outside the Government, use the technical data for manufacture, or authorize the technical data to be used by another party, except that the Government may reproduce, release, or disclose such data or authorize the use or reproduction of the data by persons outside the Government if -
+(14) *Limited rights* means the rights to use, modify, reproduce, release, perform, display, or disclose technical data, in whole or in part, within the Government. The Government may not, without the written permission of the party asserting limited rights, release or disclose the technical data outside the Government, use the technical data for manufacture, or authorize the technical data to be used by another party, except that the Government may reproduce, release, or disclose such data or authorize the use or reproduction of the data by persons outside the Government if—
 
-(i) The reproduction, release, disclosure, or use is -
+(i) The reproduction, release, disclosure, or use is—
 
 (A) Necessary for emergency repair and overhaul; or
 
-(B) A release or disclosure to -
+(B) A release or disclosure to—
 
 (*1*) A covered Government support contractor in performance of its covered Government support contract for use, modification, reproduction, performance, display, or release or disclosure to a person authorized to receive limited rights technical data; or
 
@@ -60,13 +60,13 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (iii) The contractor or subcontractor asserting the restriction is notified of such reproduction, release, disclosure, or use.
 
-(15) *Technical data* means recorded information, regardless of the form or method of the recording, of a scientific or technical nature (including computer software documentation). The term does not include computer software or data incidental to contract administration, such as financial and/or management information.
+(15) *Technical data* means recorded information, regardless of the form or method of the recording, of a scientific or technical nature (including computer software documentation). The term does not include computer software or financial, administrative, cost or pricing, or management information, or information incidental to contract administration.
 
 (16) *Unlimited rights* means rights to use, modify, reproduce, perform, display, release, or disclose technical data in whole or in part, in any manner, and for any purpose whatsoever, and to have or authorize others to do so.
 
 (b) *Rights in technical data.* The Contractor grants or shall obtain for the Government the following royalty free, worldwide , nonexclusive, irrevocable license rights in technical data other than computer software documentation (see the Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation clause of this contract for rights in computer software documentation):
 
-(1) *Unlimited rights.* The Government shall have unlimited rights in technical data that are -
+(1) *Unlimited rights.* The Government shall have unlimited rights in technical data that are—
 
 (i) Data pertaining to an item, component, or process which has been or will be developed exclusively with Government funds;
 
@@ -84,13 +84,13 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (viii) Data in which the Government has obtained unlimited rights under another Government contract or as a result of negotiations; or
 
-(ix) Data furnished to the Government, under this or any other Government contract or subcontract thereunder, with -
+(ix) Data furnished to the Government, under this or any other Government contract or subcontract thereunder, with—
 
 (A) Government purpose license rights or limited rights and the restrictive condition(s) has/have expired; or
 
 (B) Government purpose rights and the Contractor's exclusive right to use such data for commercial purposes has expired.
 
-(2) *Government purpose rights.* (i) The Government shall have government purpose rights for a five-year period, or such other period as may be negotiated, in technical data -
+(2) *Government purpose rights.* (i) The Government shall have government purpose rights for a five-year period, or such other period as may be negotiated, in technical data—
 
 (A) That pertain to items, components, or processes developed with mixed funding except when the Government is entitled to unlimited rights in such data as provided in paragraphs (b)(1)(ii) and (b)(1)(iv) through (b)(1)(ix) of this clause; or
 
@@ -98,7 +98,7 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (ii) The five-year period, or such other period as may have been negotiated, shall commence upon execution of the contract, subcontract, letter contract (or similar contractual instrument), contract modification, or option exercise that required development of the items, components, or processes or creation of the data described in paragraph (b)(2)(i)(B) of this clause. Upon expiration of the five-year or other negotiated period, the Government shall have unlimited rights in the technical data.
 
-(iii) The Government shall not release or disclose technical data in which it has government purpose rights unless -
+(iii) The Government shall not release or disclose technical data in which it has government purpose rights unless—
 
 (A) Prior to release or disclosure, the intended recipient is subject to the non-disclosure agreement at 227.7103-7 of the Defense Federal Acquisition Regulation Supplement (DFARS); or
 
@@ -106,7 +106,7 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (iv) The Contractor has the exclusive right, including the right to license others, to use technical data in which the Government has obtained government purpose rights under this contract for any commercial purpose during the time period specified in the government purpose rights legend prescribed in paragraph (f)(2) of this clause.
 
-(3) *Limited rights.* (i) Except as provided in paragraphs (b)(1)(ii) and (b)(1)(iv) through (b)(1)(ix) of this clause, the Government shall have limited rights in technical data -
+(3) *Limited rights.* (i) Except as provided in paragraphs (b)(1)(ii) and (b)(1)(iv) through (b)(1)(ix) of this clause, the Government shall have limited rights in technical data—
 
 (A) Pertaining to items, components, or processes developed exclusively at private expense and marked with the limited rights legend prescribed in paragraph (f) of this clause; or
 
@@ -116,7 +116,7 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (iii) The Contractor, its subcontractors, and suppliers are not required to provide the Government additional rights to use, modify, reproduce, release, perform, display, or disclose technical data furnished to the Government with limited rights. However, if the Government desires to obtain additional rights in technical data in which it has limited rights, the Contractor agrees to promptly enter into negotiations with the Contracting Officer to determine whether there are acceptable terms for transferring such rights. All technical data in which the Contractor has granted the Government additional rights shall be listed or described in a license agreement made part of the contract. The license shall enumerate the additional rights granted the Government in such data.
 
-(iv) The Contractor acknowledges that -
+(iv) The Contractor acknowledges that—
 
 (A) Limited rights data are authorized to be released or disclosed to covered Government support contractors;
 
@@ -128,7 +128,7 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (4) *Specifically negotiated license rights.* The standard license rights granted to the Government under paragraphs (b)(1) through (b)(3) of this clause, including the period during which the Government shall have government purpose rights in technical data, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights than are enumerated in paragraph (a)(14) of this clause. Any rights so negotiated shall be identified in a license agreement made part of this contract.
 
-(5) *Prior government rights.* Technical data that will be delivered, furnished, or otherwise provided to the Government under this contract, in which the Government has previously obtained rights shall be delivered, furnished, or provided with the pre-existing rights, unless -
+(5) *Prior government rights.* Technical data that will be delivered, furnished, or otherwise provided to the Government under this contract, in which the Government has previously obtained rights shall be delivered, furnished, or provided with the pre-existing rights, unless—
 
 (i) The parties have agreed otherwise; or
 
@@ -146,19 +146,15 @@ Rights in Technical Data - Other Than Commercial Products or Commercial Services
 
 (3) In addition to the assertions made in the Attachment, other assertions may be identified after award when based on new information or inadvertent omissions unless the inadvertent omissions would have materially affected the source selection decision. Such identification and assertion shall be submitted to the Contracting Officer as soon as practicable prior to the scheduled date for delivery of the data, in the following format, and signed by an official authorized to contractually obligate the Contractor: Identification and Assertion of Restrictions on the Government's Use, Release, or Disclosure of Technical Data.
 
-The Contractor asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following technical data should be restricted -
+The Contractor asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following technical data should be restricted—
 
-|Technical data to be furnished with restrictions<sup>1</sup>|Basis for assertion<sup>2</sup>|Asserted rights category<sup>3</sup>|Name of person asserting restrictions<sup>4</sup>|
-|------------------------------------------------------------|-------------------------------|------------------------------------|-------------------------------------------------|
-|                           (LIST)                           |            (LIST)             |               (LIST)               |                     (LIST)                      |
-
-<sup>1</sup> If the assertion is applicable to items, components or processes developed at private expense, identify both the data and each such item, component, or process.
-
-<sup>2</sup> Generally, the development of an item, component, or process at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose technical data pertaining to such items, components, or processes. Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.
-
-<sup>3</sup> Enter asserted rights category (e.g., government purpose license rights from a prior contract, rights in SBIR data generated under another contract, limited or government purpose rights under this or a prior contract, or specifically negotiated licenses).
-
-<sup>4</sup> Corporation, individual, or other person, as appropriate.
+|                                                                                                                                                                                                                              Technical data to be furnished with restrictions <sup>1</sup>                                                                                                                                                                                                                               |Basis for assertion <sup>2</sup>|Asserted rights category <sup>3</sup>|Name of person asserting restrictions <sup>4</sup>|
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|-------------------------------------|--------------------------------------------------|
+|                                                                                                                                                                                                                                                          (LIST)                                                                                                                                                                                                                                                          |             (LIST)             |               (LIST)                |                      (LIST)                      |
+|                                                                                                                                                                      <sup>1</sup> If the assertion is applicable to items, components or processes developed at private expense, identify both the data and each such item, component, or process.                                                                                                                                                                       |                                |                                     |                                                  |
+|<sup>2</sup> Generally, the development of an item, component, or process at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose technical data pertaining to such items, components, or processes. Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.|                                |                                     |                                                  |
+|                                                                                                                       <sup>3</sup> Enter asserted rights category (e.g., government purpose license rights from a prior contract, rights in SBIR data generated under another contract, limited or government purpose rights under this or a prior contract, or specifically negotiated licenses).                                                                                                                       |                                |                                     |                                                  |
+|                                                                                                                                                                                                                          <sup>4</sup> Corporation, individual, or other person, as appropriate.                                                                                                                                                                                                                          |                                |                                     |                                                  |
 
 DatePrinted Name and TitleSignature(End of identification and assertion)
 
@@ -172,7 +168,7 @@ DatePrinted Name and TitleSignature(End of identification and assertion)
 
 Government Purpose RightsContract No.Contractor NameContractor AddressExpiration Date
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Technical Data - Other Than Commercial Products or Commercial Services clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(2) of the Rights in Technical Data—Other Than Commercial Products or Commercial Services clause contained in the above identified contract. No restrictions apply after the expiration date shown above. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings.
 
 (End of legend)
 
@@ -180,7 +176,7 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 Limited RightsContract No.Contractor NameContractor Address
 
-The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(3) of the Rights in Technical Data - Other Than Commercial Products or Commercial Services clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.
+The Government's rights to use, modify, reproduce, release, perform, display, or disclose these technical data are restricted by paragraph (b)(3) of the Rights in Technical Data—Other Than Commercial Products or Commercial Services clause contained in the above identified contract. Any reproduction of technical data or portions thereof marked with this legend must also reproduce the markings. Any person, other than the Government, who has been provided access to such data must promptly notify the above named Contractor.
 
 (End of legend)
 
@@ -196,25 +192,25 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (5) *Pre-existing data markings.* If the terms of a prior contract or license permitted the Contractor to restrict the Government's rights to use, modify, reproduce, release, perform, display, or disclose technical data deliverable under this contract, and those restrictions are still applicable, the Contractor may mark such data with the appropriate restrictive legend for which the data qualified under the prior contract or license. The marking procedures in paragraph (f)(1) of this clause shall be followed.
 
-(g) *Contractor procedures and records.* Throughout performance of this contract, the Contractor and its subcontractors or suppliers that will deliver technical data with other than unlimited rights, shall -
+(g) *Contractor procedures and records.* Throughout performance of this contract, the Contractor and its subcontractors or suppliers that will deliver technical data with other than unlimited rights, shall—
 
 (1) Have, maintain, and follow written procedures sufficient to assure that restrictive markings are used only when authorized by the terms of this clause; and
 
 (2) Maintain records sufficient to justify the validity of any restrictive markings on technical data delivered under this contract.
 
-(h) *Removal of unjustified and nonconforming markings* - (1) *Unjustified technical data markings.* The rights and obligations of the parties regarding the validation of restrictive markings on technical data furnished or to be furnished under this contract are contained in the Validation of Restrictive Markings on Technical Data clause of this contract. Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures in the Validation of Restrictive Markings on Technical Data clause of this contract, a restrictive marking is determined to be unjustified.
+(h) *Removal of unjustified and nonconforming markings*—(1) *Unjustified technical data markings.* The rights and obligations of the parties regarding the validation of restrictive markings on technical data furnished or to be furnished under this contract are contained in the Validation of Restrictive Markings on Technical Data clause of this contract. Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures in the Validation of Restrictive Markings on Technical Data clause of this contract, a restrictive marking is determined to be unjustified.
 
 (2) *Nonconforming technical data markings.* A nonconforming marking is a marking placed on technical data delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract. Correction of nonconforming markings is not subject to the Validation of Restrictive Markings on Technical Data clause of this contract. If the Contracting Officer notifies the Contractor of a nonconforming marking and the Contractor fails to remove or correct such marking within sixty (60) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming marking.
 
 (i) *Relation to patents.* Nothing contained in this clause shall imply a license to the Government under any patent or be construed as affecting the scope of any license or other right otherwise granted to the Government under any patent.
 
-(j) *Limitation on charges for rights in technical data.* (1) The Contractor shall not charge to this contract any cost, including, but not limited to, license fees, royalties, or similar charges, for rights in technical data to be delivered under this contract when -
+(j) *Limitation on charges for rights in technical data.* (1) The Contractor shall not charge to this contract any cost, including, but not limited to, license fees, royalties, or similar charges, for rights in technical data to be delivered under this contract when—
 
 (i) The Government has acquired, by any means, the same or greater rights in the data; or
 
 (ii) The data are available to the public without restrictions.
 
-(2) The limitation in paragraph (j)(1) of this clause -
+(2) The limitation in paragraph (j)(1) of this clause—
 
 (i) Includes costs charged by a subcontractor or supplier, at any tier, or costs incurred by the Contractor to acquire rights in subcontractor or supplier technical data, if the subcontractor or supplier has been paid for such rights under any other Government contract or under a license conveying the rights to the Government; and
 
@@ -248,4 +244,4 @@ As prescribed in 227.7103-6(b)(2), add the following paragraphs (a)(17) and (b)(
 
 (b)(7) *Vessel designs.* For a vessel design (including a vessel design embodied in a useful article) that is developed or delivered under this contract, the Government shall have the right to make and have made any useful article that embodies the vessel design, to import the article, to sell the article, and to distribute the article for sale or to use the article in trade, to the same extent that the Government is granted rights in the technical data pertaining to the vessel design.
 
-[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022; 88 FR 6593, Jan. 31, 2023]
+[60 FR 33490, June 28, 1995, as amended at 60 FR 61602, Nov. 30, 1995; 74 FR 61044, Nov. 23, 2009; 76 FR 11367, Mar. 2, 2011; 76 FR 58148, Sept. 20, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 78 FR 37990, June 25, 2013; 79 FR 11341, Feb. 28, 2014; 87 FR 15819, Mar. 18, 2022; 87 FR 76997, Dec. 16, 2022; 88 FR 6593, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023]

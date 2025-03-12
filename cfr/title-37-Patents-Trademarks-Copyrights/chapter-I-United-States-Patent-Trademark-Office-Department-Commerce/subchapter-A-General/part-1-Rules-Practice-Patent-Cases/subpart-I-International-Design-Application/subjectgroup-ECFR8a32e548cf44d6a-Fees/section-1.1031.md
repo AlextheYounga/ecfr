@@ -4,8 +4,8 @@
 
 |                                     |      |
 |-------------------------------------|------|
-|     By a micro entity (§ 1.29)      |$30.00|
-|    By a small entity (§ 1.27(a))    |60.00 |
+|     By a micro entity (§ 1.29)      |$24.00|
+|    By a small entity (§ 1.27(a))    |48.00 |
 |By other than a small or micro entity|120.00|
 
 (b) The Schedule of Fees annexed to the Regulations (Rule 27(1)), a list of individual designation fee amounts, and a fee calculator may be viewed on the Web site of the World Intellectual Property Organization, currently available at *http://www.wipo.int/hague.*
@@ -30,4 +30,4 @@
 
 (2) A second part (issue fee) as provided in § 1.18(b). The second part is payable within the period specified in a notice of allowance (§ 1.311).
 
-[80 FR 17964, Apr. 2, 2015, as amended at 82 FR 52816, Nov. 14, 2017]
+[80 FR 17964, Apr. 2, 2015, as amended at 82 FR 52816, Nov. 14, 2017; 88 FR 17158, Mar. 22, 2023]

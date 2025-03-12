@@ -1,0 +1,31 @@
+##### 227.7103-10 Contractor identification and marking of technical data to be furnished with restrictive markings. #####
+
+(a) *Identification requirements.* (1) The solicitation provision at 252.227-7017, Identification and Assertion of Use, Release, or Disclosure Restrictions, requires offerors to identify to the contracting officer, prior to contract award, any technical data that the offeror asserts should be provided to the Government with restrictions on use, modification, reproduction, release or disclosure. This requirement does not apply to restrictions based solely on copyright. The notification and identification must be submitted as an attachment to the offer. If an offeror fails to submit the attachment or fails to complete the attachment in accordance with the requirements of the solicitation provision, such failure shall constitute a minor informality. Provide offerors an opportunity to remedy a minor informality in accordance with the procedures at FAR 14.405 or 15.306. An offeror's failure to correct the informality within the time prescribed by the contracting officer shall render the offer ineligible for award.
+
+(2) The procedures for correcting minor informalities shall not be used to obtain information regarding asserted restrictions or an offeror's suggested asserted rights category. Questions regarding the justification for an asserted restriction or asserted rights category must be pursued in accordance with the procedures at 227.7103-13.
+
+(3) The restrictions asserted by a successful offeror shall be attached to its contract unless, in accordance with the procedures at 227.7103-13, the parties have agreed that an asserted restriction is not justified. The contract attachment shall provide the same information regarding identification of the technical data, the asserted rights category, the basis for the assertion, and the name of the person asserting the restrictions as required by paragraph (d) of the solicitation provision at 252.227-7017. Subsequent to contract award, the clause at 252.227-7013, Rights in Technical Data— Other Than Commercial Products and Commercial Services, permits the contractor to make additional assertions under certain conditions. The additional assertions must be made in accordance with the procedures and in the format prescribed by that clause.
+
+(4) Neither the pre- or post-award assertions made by the contractor, nor the fact that certain assertions are identified in the attachment to the contract, determine the respective rights of the parties. As provided at 227.7103-13, the Government has the right to review, verify, challenge and validate restrictive markings.
+
+(5) Information provided by offerors in response to the solicitation provision may be used in the source selection process to evaluate the impact on evaluation factors that may be created by restrictions on the Government's ability to use or disclose technical data. However, offerors shall not be prohibited from offering products for which the offeror is entitled to provide the Government limited rights in the technical data pertaining to such products and offerors shall not be required, either as a condition of being responsive to a solicitation or as a condition for award, to sell or otherwise relinquish any greater rights in technical data when the offeror is entitled to provide the technical data with limited rights.
+
+(b) *Contractor marking requirements.* The clause at 252.227-7013, Rights in Technical Data—Other Than Commercial Products and Commercial Services—
+
+(1) Requires a contractor that desires to restrict the Government's rights in technical data to place restrictive markings on the data, provides instructions for the placement of the restrictive markings, and authorizes the use of certain restrictive markings; and
+
+(2) Requires a contractor to deliver, furnish, or otherwise provide to the Government any technical data in which the Government has previously obtained rights with the Government's pre-existing rights in that data unless the parties have agreed otherwise or restrictions on the Government's rights to use, modify, reproduce, release, perform, display, or disclose the data have expired. When restrictions are still applicable, the contractor is permitted to mark the data with the appropriate restrictive legend for which the data qualified.
+
+(c) *Unmarked technical data.* (1) Technical data delivered or otherwise provided under a contract without restrictive markings shall be presumed to have been delivered with unlimited rights and may be released or disclosed without restriction. To the extent practicable, if a contractor has requested permission (see paragraph (c)(2) of this subsection) to correct an inadvertent omission of markings, do not release or disclose the technical data pending evaluation of the request.
+
+(2) A contractor may request permission to have appropriate legends placed on unmarked technical data at its expense. The request must be received by the contracting officer within six months following the furnishing or delivery of such data, or any extension of that time approved by the contracting officer. The person making the request must:
+
+(i) Identify the technical data that should have been marked;
+
+(ii) Demonstrate that the omission of the marking was inadvertent, the proposed marking is justified and conforms with the requirements for the marking of technical data contained in the clause at 252.227-7013; and
+
+(iii) Acknowledge, in writing, that the Government has no liability with respect to any disclosure, reproduction, or use of the technical data made prior to the addition of the marking or resulting from the omission of the marking.
+
+(3) Contracting officers should grant permission to mark only if the technical data were not distributed outside the Government or were distributed outside the Government with restrictions on further use or disclosure.
+
+[60 FR 33471, June 28, 1995, as amended at 82 FR 61481, Dec. 28, 2017; 88 FR 6585, Jan. 31, 2023]

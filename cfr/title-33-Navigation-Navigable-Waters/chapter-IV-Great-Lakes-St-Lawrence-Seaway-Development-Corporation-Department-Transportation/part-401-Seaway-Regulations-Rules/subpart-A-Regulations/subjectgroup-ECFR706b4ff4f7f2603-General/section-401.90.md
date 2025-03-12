@@ -1,10 +1,8 @@
 ##### § 401.90 Boarding for inspections. #####
 
-Link to an amendment published at 88 FR 14268, Mar. 8, 2023.
-
 (a) For the purpose of enforcing these Regulations in this part in both Canadian and U.S. waters, an officer may board any vessel and:
 
-(1) Examine the vessel and its cargo; and
+(1) Examine the vessel, its equipment and cargo; and
 
 (2) Determine that the vessel is adequately manned.
 
@@ -28,4 +26,4 @@ Link to an amendment published at 88 FR 14268, Mar. 8, 2023.
 
 (d) Vessels shall provide a safe and approved means of boarding. Pigeon holes are not accepted as a means of boarding and an alternate safe means of access shall be provided.
 
-[65 FR 52915, Aug. 31, 2000; 65 FR 56486, Sept. 19, 2000, as amended at 75 FR 10690, Mar. 9, 2010]
+[65 FR 52915, Aug. 31, 2000; 65 FR 56486, Sept. 19, 2000, as amended at 75 FR 10690, Mar. 9, 2010; 88 FR 14268, Mar. 8, 2023]

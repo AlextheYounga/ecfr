@@ -1,6 +1,6 @@
-##### 252.228-7006 Compliance with Spanish laws and insurance. #####
+##### 252.228-7006 Compliance with Spanish Laws and Insurance. #####
 
-As prescribed at 228.370(e), use the following clause:
+As prescribed at 228.371(e), use the following clause:
 
 Compliance with Spanish Laws and Insurance (DEC 1998)
 
@@ -18,7 +18,7 @@ Compliance with Spanish Laws and Insurance (DEC 1998)
 
 (e) The Contractor shall provide the Contracting Officer with a similar representation for all subcontracts with non-Spanish concerns that will perform work in Spain under this contract.
 
-(f) Insurance policies required herein shall be purchased from Spanish insurance companies or other insurance companies legally authorized to conduct business in Spain. Such policies shall conform to Spanish laws and regulations and shall -
+(f) Insurance policies required herein shall be purchased from Spanish insurance companies or other insurance companies legally authorized to conduct business in Spain. Such policies shall conform to Spanish laws and regulations and shall—
 
 (1) Contain provisions requiring submission to Spanish law and jurisdiction of any problem that may arise with regard to the interpretation or application of the clauses and conditions of the insurance policy;
 
@@ -30,4 +30,4 @@ Compliance with Spanish Laws and Insurance (DEC 1998)
 
 (5) Not contain any provisions requiring submission to any type of arbitration.
 
-(End of clause)[62 FR 34132, June 24, 1997, as amended at 63 FR 69006, Dec. 15, 1998; 75 FR 32647, June 8, 2010]
+(End of clause)[62 FR 34132, June 24, 1997, as amended at 63 FR 69006, Dec. 15, 1998; 75 FR 32647, June 8, 2010; 88 FR 17354, Mar. 22, 2023]

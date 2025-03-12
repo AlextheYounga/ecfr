@@ -6,4 +6,6 @@
 
 (3) See 227.7202 for policy on the acquisition of commercial computer software and commercial computer software documentation.
 
-[83 FR 4445, Jan. 31, 2018, as amended at 88 FR 6588, Jan. 31, 2023]
+(4) See 227.7203 for policy on the acquisition of other than commercial computer software and other than commercial computer software documentation.
+
+[83 FR 4445, Jan. 31, 2018, as amended at 88 FR 6588, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023]

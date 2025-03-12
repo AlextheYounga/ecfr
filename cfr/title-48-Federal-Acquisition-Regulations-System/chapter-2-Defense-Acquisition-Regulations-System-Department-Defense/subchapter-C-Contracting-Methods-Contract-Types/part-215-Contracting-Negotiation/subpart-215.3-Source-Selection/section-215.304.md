@@ -16,7 +16,7 @@
 
 (v) Include an evaluation factor regarding supply chain risk (see subpart 239.73) when acquiring information technology, whether as a service or as a supply, that is a covered system, is a part of a covered system, or is in support of a covered system, as defined in 239.7301. For additional guidance see PGI 215.304(c)(v).
 
-(vi) Ensure source selections emphasize sustainment factors and objective reliability and maintainability evaluation criteria in competitive contracts for the -
+(vi) Ensure source selections emphasize sustainment factors and objective reliability and maintainability evaluation criteria in competitive contracts for the—
 
 (A) Technical maturation and risk reduction phase of weapon system design (see guidance at PGI 207.105(b)(14)(ii)(*2*));
 
@@ -26,4 +26,8 @@
 
 (vii) See 226.7202 for an additional evaluation factor required in solicitations when using the Demonstration Project for Contractors Employing Persons with Disabilities.
 
-[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015; 84 FR 58333, Oct. 31, 2019; 84 FR 72560, Dec. 31, 2019; 87 FR 76992, Dec. 16, 2022]
+(viii)(A) When procuring supplies or services, the contracting officer shall ensure Supplier Performance Risk System (SPRS) assessments of price risk and supplier risk are considered as a part of the award decision. See 204.7603.
+
+(B) When procuring an end product identified by a material identifier that is available as described at PGI 204.7603, the contracting officer shall also consider SPRS assessments of item risk in the award decision.
+
+[71 FR 3414, Jan. 23, 2006, as amended at 71 FR 14109, Mar. 21, 2006; 72 FR 49205, Aug. 28, 2007; 76 FR 38051, June 29, 2011; 78 FR 69270, Nov. 18, 2013; 79 FR 61581, Oct. 14, 2014; 80 FR 67251, Oct. 30, 2015; 84 FR 58333, Oct. 31, 2019; 84 FR 72560, Dec. 31, 2019; 87 FR 76992, Dec. 16, 2022; 88 FR 17339, Mar. 22, 2023]

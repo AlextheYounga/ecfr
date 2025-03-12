@@ -4,4 +4,6 @@
 
 (2) See 217.7801 for the prohibition on the use of reverse auctions for personal protective equipment and aviation critical safety items.
 
-[84 FR 50788, Sept. 26, 2019, as amended at 88 FR 6582, Jan. 31, 2023]
+(3) See 204.7603 for procedures on the required use of Supplier Performance Risk System risk assessments as part of the award decision.
+
+[84 FR 50788, Sept. 26, 2019, as amended at 88 FR 6582, Jan. 31, 2023; 88 FR 17339, Mar. 22, 2023]

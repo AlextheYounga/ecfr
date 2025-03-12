@@ -96,8 +96,8 @@ Table 1 to Paragraph (o)(1)
 
 |                                     |        |
 |-------------------------------------|--------|
-|     By a micro entity (§ 1.29)      |$265.00 |
-|    By a small entity (§ 1.27(a))    | 530.00 |
+|     By a micro entity (§ 1.29)      |$212.00 |
+|    By a small entity (§ 1.27(a))    | 424.00 |
 |By other than a small or micro entity|1,060.00|
 
 (2) First receipt by the Office of a sequence listing in electronic form exceeding 800MB in size (without file compression):
@@ -106,12 +106,12 @@ Table 2 to Paragraph (o)(2)
 
 |                                     |         |
 |-------------------------------------|---------|
-|     By a micro entity (§ 1.29)      |$2,625.00|
-|    By a small entity (§ 1.27(a))    |5,250.00 |
+|     By a micro entity (§ 1.29)      |$2,100.00|
+|    By a small entity (§ 1.27(a))    |4,200.00 |
 |By other than a small or micro entity|10,500.00|
 
 (p) Additional Fee for Overnight Delivery: $40.00
 
 (q) Additional fee for expedited service: $170.00
 
-[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020; 86 FR 28451, May 26, 2021]
+[82 FR 52815, Nov. 14, 2017, as amended at 85 FR 46989, Aug. 3, 2020, 85 FR 58283, Sept. 18, 2020; 86 FR 28451, May 26, 2021; 88 FR 17157, Mar. 22, 2023]

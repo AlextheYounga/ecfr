@@ -12,6 +12,8 @@
 
 (39) See 223.370 for contract administration responsibilities on contracts for ammunition and explosives.
 
+(56) Within DoD, maintaining surveillance of aircraft flight and ground operations is accomplished by incorporating into the contract, task order, or delivery order the requirements of the applicable version of the combined regulation/instruction entitled “Contractor's Flight and Ground Operations” (Air Force Instruction 10-220, Army Regulation 95-20, Naval Air Systems Command (NAVAIR) Instruction 3710.1 (Series), Coast Guard Instruction M13020.3 (Series), and Defense Contract Management Agency Instruction 8210-1 (Series)). See PGI 242.302(a)(56).
+
 (67) Also support program offices and buying activities in precontractual efforts leading to a solicitation or award.
 
 (S-70) Serve as the single point of contact for all Single Process Initiative (SPI) Management Council activities. The ACO shall negotiate and execute facilitywide class modifications and agreements for SPI processes, when authorized by the affected components.
@@ -30,4 +32,8 @@
 
 (b)(S-70) Issue, negotiate, and execute orders under basic ordering agreements for overhaul, maintenance, and repair.
 
-[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016; 88 FR 6600, Jan. 31, 2023]
+(S-71)(A) Except for classified contracts, negotiate or settle questioned direct costs in an incurred cost audit. The procuring contracting officer may delegate this authority to the contract administration office (CAO) only upon prior coordination and agreement with the CAO. Upon such delegation, the procuring contracting officer shall provide the CAO access within 30 days to all supporting documentation in their possession related to the questioned direct costs in an incurred cost audit.
+
+(B) After settlement of the questioned direct costs, the CAO shall provide the procuring contracting office the results of the settlement. The procuring contracting office shall make any adjustments resulting from the settlement on affected contracts and report such adjustments to the CAO.
+
+[71 FR 44928, Aug. 8, 2006, as amended at 76 FR 36884, June 23, 2011; 76 FR 71830, Nov. 18, 2011; 77 FR 11365, Feb. 24, 2012; 77 FR 23632, Apr. 20, 2012; 78 FR 13544, Feb. 28, 2013; 79 FR 30471, May 28, 2014; 80 FR 36903, June 26, 2015; 81 FR 50648, Aug. 2, 2016; 88 FR 6600, Jan. 31, 2023; 88 FR 17352, 17355, Mar. 22, 2023]

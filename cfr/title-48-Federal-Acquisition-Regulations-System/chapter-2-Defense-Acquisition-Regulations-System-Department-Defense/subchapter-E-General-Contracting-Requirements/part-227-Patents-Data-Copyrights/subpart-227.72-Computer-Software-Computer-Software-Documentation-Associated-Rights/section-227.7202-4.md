@@ -1,0 +1,3 @@
+##### 227.7202-4 Contract clause. #####
+
+A specific contract clause governing the Government's rights in commercial computer software or commercial computer software documentation is not prescribed. As required by 227.7202-3, the Government's rights to use, modify, reproduce, release, perform, display, or disclose computer software or computer software documentation shall be identified in a license agreement.

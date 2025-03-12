@@ -2,7 +2,7 @@
 
 (a) *General.* (i) Follow the procedures at PGI 215.404-1 for proposal analysis.
 
-(ii) For spare parts or support equipment, perform an analysis of -
+(ii) For spare parts or support equipment, perform an analysis of—
 
 (A) Those line items where the proposed price exceeds by 25 percent or more the lowest price the Government has paid within the most recent 12-month period based on reasonably available data;
 
@@ -16,7 +16,7 @@
 
 (ii) If the contracting officer determines that the information obtained through market research is insufficient to determine the reasonableness of price, the contracting officer shall consider information submitted by the offeror of recent purchase prices paid by the Government and commercial customers for the same or similar commercial products or commercial services under comparable terms and conditions in establishing price reasonableness on a subsequent purchase if the contracting officer is satisfied that the prices previously paid remain a valid reference for comparison. Price reasonableness shall not be based solely on historical prices paid by the Government (see 215.403-3(a)(1)). The contracting officer shall consider the totality of other relevant factors such as the time elapsed since the prior purchase and any differences in the quantities purchased (10 U.S.C. 3703(e)).
 
-(iii) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b)(ii) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on -
+(iii) If the contracting officer determines that the offeror cannot provide sufficient information as described in paragraph (b)(ii) of this section to determine the reasonableness of price, the contracting officer should request the offeror to submit information on—
 
 (A) Prices paid for the same or similar items sold under different terms and conditions;
 
@@ -46,6 +46,8 @@
 
 (vii) The contracting officer may consult with the DoD cadre of experts who are available to provide expert advice to the acquisition workforce in assisting with commercial product or commercial service determinations and price reasonableness determinations. The DoD cadre of experts is identified at PGI 215.404-1(b)(vii).
 
+(viii) When procuring a service or an end product identified by a material identifier that is available as described at PGI 204.7603, the contracting officer shall consider the Supplier Performance Risk System price risk assessments in determining if a proposed price is consistent with historical prices paid for an item or otherwise creates a risk to the Government. See also 215.403-3(a)(1).
+
 (h) *Review and justification of pass-through contracts.* Follow the procedures at PGI 215.404-1(h)(2) when considering alternative approaches or making the determination that the contracting approach selected is in the best interest of the Government, as required by FAR 15.404-1(h)(2).
 
-[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023]
+[63 FR 55040, Oct. 14, 1998, as amended at 71 FR 69494, Dec. 1, 2006; 72 FR 30278, May 31, 2007; 77 FR 76940, Dec. 31, 2012; 83 FR 4444, Jan. 31, 2018; 84 FR 72563, Dec. 31, 2019; 87 FR 65504, Oct. 28, 2022; 87 FR 76992, Dec. 16, 2022; 88 FR 6583, Jan. 31, 2023; 88 FR 17339, Mar. 22, 2023]

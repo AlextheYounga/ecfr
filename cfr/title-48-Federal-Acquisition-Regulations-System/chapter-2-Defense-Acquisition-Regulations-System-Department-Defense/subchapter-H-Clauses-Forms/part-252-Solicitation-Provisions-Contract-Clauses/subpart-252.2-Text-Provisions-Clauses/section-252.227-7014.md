@@ -2,11 +2,11 @@
 
 As prescribed in 227.7203-6(a)(1), use the following clause:
 
-Rights In Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation (JAN 2023)
+Rights in Other Than Commercial Computer Software and Other Than Commercial Computer Software Documentation (MAR 2023)
 
-(a) *Definitions.* As used in this clause -
+(a) *Definitions.* As used in this clause—
 
-(1) *Commercial computer software* means software developed or regularly used for nongovernmental purposes which -
+(1) *Commercial computer software* means software developed or regularly used for nongovernmental purposes which—
 
 (i) Has been sold, leased, or licensed to the public;
 
@@ -24,13 +24,13 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (5) *Computer software documentation* means owner's manuals, user's manuals, installation instructions, operating instructions, and other similar items, regardless of storage medium, that explain the capabilities of the computer software or provide instructions for using the software.
 
-(6) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor -
+(6) *Covered Government support contractor* means a contractor (other than a litigation support contractor covered by 252.204-7014) under a contract, the primary purpose of which is to furnish independent and impartial advice or technical assistance directly to the Government in support of the Government's management and oversight of a program or effort (rather than to directly furnish an end item or service to accomplish a program or effort), provided that the contractor—
 
 (i) Is not affiliated with the prime contractor or a first-tier subcontractor on the program or effort, or with any direct competitor of such prime contractor or any such first-tier subcontractor in furnishing end items or services of the type developed or produced on the program or effort; and
 
 (ii) Receives access to technical data or computer software for performance of a Government contract that contains the clause at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends.
 
-(7) *Developed* means that -
+(7) *Developed* means that—
 
 (i) A computer program has been successfully operated in a computer and tested to the extent sufficient to demonstrate to reasonable persons skilled in the art that the program can reasonably be expected to perform its intended purpose;
 
@@ -50,7 +50,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (11) *Government purpose* means any activity in which the United States Government is a party, including cooperative agreements with international or multi-national defense organizations or sales or transfers by the United States Government to foreign governments or international organizations. Government purposes include competitive procurement, but do not include the rights to use, modify, reproduce, release, perform, display, or disclose computer software or computer software documentation for commercial purposes or authorize others to do so.
 
-(12) *Government purpose rights* means the rights to -
+(12) *Government purpose rights* means the rights to—
 
 (i) Use, modify, reproduce, release, perform, display, or disclose computer software or computer software documentation within the Government without restriction; and
 
@@ -60,31 +60,31 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (14) *Other than commercial computer software* means software that does not qualify as commercial computer software under the definition of “commercial computer software” of this clause.
 
-(15) *Restricted rights* apply only to other than commercial computer software and mean the Government's rights to -
+(15) *Restricted rights* apply only to other than commercial computer software and mean the Government's rights to—
 
 (i) Use a computer program with one computer at one time. The program may not be accessed by more than one terminal or central processing unit or time shared unless otherwise permitted by this contract;
 
 (ii) Transfer a computer program to another Government agency without the further permission of the Contractor if the transferor destroys all copies of the program and related computer software documentation in its possession and notifies the licensor of the transfer. Transferred programs remain subject to the provisions of this clause;
 
-(iii) Make the minimum number of copies of the computer software required for safekeeping (archive), backup, or modification purposes;
+(iii) Make a reasonable number of copies of the computer software required for the purposes of safekeeping (archive), backup, modification, or other activities authorized in paragraphs (a)(15)(i), (ii), and (iv) through (vii) of this clause;
 
-(iv) Modify computer software provided that the Government may -
+(iv) Modify computer software provided that the Government may—
 
 (A) Use the modified software only as provided in paragraphs (a)(15)(i) and (iii) of this clause; and
 
 (B) Not release or disclose the modified software except as provided in paragraphs (a)(15)(ii), (v), (vi) and (vii) of this clause;
 
-(v) Permit contractors or subcontractors performing service contracts (see 37.101 of the Federal Acquisition Regulation) in support of this or a related contract to use computer software to diagnose and correct deficiencies in a computer program, to modify computer software to enable a computer program to be combined with, adapted to, or merged with other computer programs or when necessary to respond to urgent tactical situations, provided that -
+(v) Use, and permit contractors or subcontractors performing service contracts (see 37.101 of the Federal Acquisition Regulation) in support of this or a related contract to use, computer software to diagnose and correct deficiencies in a computer program, to modify computer software to enable a computer program to be combined with, adapted to, or merged with other computer programs or when necessary to respond to urgent tactical situations, provided that—
 
-(A) The Government notifies the party which has granted restricted rights that a release or disclosure to particular contractors or subcontractors was made;
+(A) The Government notifies the party which has granted restricted rights that any such release or disclosure to particular contractors or subcontractors was made;
 
-(B) Such contractors or subcontractors are subject to the use and non-disclosure agreement at 227.7103-7 of the Defense Federal Acquisition Regulation Supplement (DFARS) or are Government contractors receiving access to the software for performance of a Government contract that contains the clause at DFARS 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends;
+(B) Such contractors or subcontractors are subject to the use and nondisclosure agreement at 227.7103-7 of the Defense Federal Acquisition Regulation Supplement (DFARS) or are Government contractors receiving access to the software for performance of a Government contract that contains the clause at DFARS 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends;
 
 (C) The Government shall not permit the recipient to decompile, disassemble, or reverse engineer the software, or use software decompiled, disassembled, or reverse engineered by the Government pursuant to paragraph (a)(15)(iv) of this clause, for any other purpose; and
 
 (D) Such use is subject to the limitations in paragraphs (a)(15)(i) through (iii) of this clause;
 
-(vi) Permit contractors or subcontractors performing emergency repairs or overhaul of items or components of items procured under this or a related contract to use the computer software when necessary to perform the repairs or overhaul, or to modify the computer software to reflect the repairs or overhaul made, provided that -
+(vi) Use, and permit contractors or subcontractors performing emergency repairs or overhaul of items or components of items procured under this or a related contract to use, the computer software when necessary to perform or overhaul, or to modify the computer software to reflect the emergency repairs or overhaul made, provided that—
 
 (A) The intended recipient is subject to the use and non-disclosure agreement at DFARS 227.7103-7 or is a Government contractor receiving access to the software for performance of a Government contract that contains the clause at DFARS 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends;
 
@@ -92,7 +92,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (C) Such use is subject to the limitations in paragraphs (a)(15)(i) through (iii) of this clause; and
 
-(vii) Permit covered Government support contractors in the performance of covered Government support contracts that contain the clause at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends, to use, modify, reproduce, perform, display, or release or disclose the computer software to a person authorized to receive restricted rights computer software, provided that -
+(vii) Use, modify, reproduce, perform, display, or release or disclose computer software to a person authorized to receive restricted rights computer software for management and oversight of a program or effort, and permit covered Government support contractors in the performance of covered Government support contracts that contain the clause at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends, to use, modify, reproduce, perform, display, or release or disclose the computer software to a person authorized to receive restricted rights computer software, provided that—
 
 (A) The Government shall not permit the covered Government support contractor to decompile, disassemble, or reverse engineer the software, or use software decompiled, disassembled, or reverse engineered by the Government pursuant to paragraph (a)(15)(iv) of this clause, for any other purpose; and
 
@@ -102,7 +102,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (b) *Rights in computer software or computer software documentation.* The Contractor grants or shall obtain for the Government the following royalty free, worldwide , nonexclusive, irrevocable license rights in other than commercial computer software or computer software documentation. All rights not granted to the Government are retained by the Contractor.
 
-(1) *Unlimited rights.* The Government shall have unlimited rights in -
+(1) *Unlimited rights.* The Government shall have unlimited rights in—
 
 (i) Computer software developed exclusively with Government funds;
 
@@ -114,7 +114,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (v) Computer software or computer software documentation obtained with unlimited rights under another Government contract or as a result of negotiations; or
 
-(vi) Computer software or computer software documentation furnished to the Government, under this or any other Government contract or subcontract thereunder with -
+(vi) Computer software or computer software documentation furnished to the Government, under this or any other Government contract or subcontract thereunder with—
 
 (A) Restricted rights in computer software, limited rights in technical data, or government purpose license rights and the restrictive conditions have expired; or
 
@@ -124,7 +124,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (ii) Government purpose rights shall remain in effect for a period of five years unless a different period has been negotiated. Upon expiration of the five-year or other negotiated period, the Government shall have unlimited rights in the computer software or computer software documentation. The government purpose rights period shall commence upon execution of the contract, subcontract, letter contract (or similar contractual instrument), contract modification, or option exercise that required development of the computer software.
 
-(iii) The Government shall not release or disclose computer software in which it has government purpose rights to any other person unless -
+(iii) The Government shall not release or disclose computer software in which it has government purpose rights to any other person unless—
 
 (A) Prior to release or disclosure, the intended recipient is subject to the use and non-disclosure agreement at DFARS 227.7103-7; or
 
@@ -134,7 +134,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (ii) The Contractor, its subcontractors, or suppliers are not required to provide the Government additional rights in other than commercial computer software delivered or otherwise provided to the Government with restricted rights. However, if the Government desires to obtain additional rights in such software, the Contractor agrees to promptly enter into negotiations with the Contracting Officer to determine whether there are acceptable terms for transferring such rights. All noncommercial computer software in which the Contractor has granted the Government additional rights shall be listed or described in a license agreement made part of the contract (see paragraph (b)(4) of this clause). The license shall enumerate the additional rights granted the Government.
 
-(iii) The Contractor acknowledges that -
+(iii) The Contractor acknowledges that—
 
 (A) Restricted rights computer software is authorized to be released or disclosed to covered Government support contractors;
 
@@ -144,11 +144,11 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (D) Any such non-disclosure agreement shall address the restrictions on the covered Government support contractor's use of the restricted rights software as set forth in the clause at 252.227-7025, Limitations on the Use or Disclosure of Government-Furnished Information Marked with Restrictive Legends. The non-disclosure agreement shall not include any additional terms and conditions unless mutually agreed to by the parties to the non-disclosure agreement.
 
-(4) *Specifically negotiated license rights.*(i) The standard license rights granted to the Government under paragraphs (b)(1) through (3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in the definition of “restricted rights” of this clause or lesser rights in computer software documentation than are enumerated in the definition of “limited rights” of the Rights in Technical Data - Other Than Commercial Products and Commercial Services clause of this contract.
+(4) *Specifically negotiated license rights.*(i) The standard license rights granted to the Government under paragraphs (b)(1) through (3) of this clause, including the period during which the Government shall have government purpose rights in computer software, may be modified by mutual agreement to provide such rights as the parties consider appropriate but shall not provide the Government lesser rights in computer software than are enumerated in the definition of “restricted rights” of this clause or lesser rights in computer software documentation than are enumerated in the definition of “limited rights” of the Rights in Technical Data—Other Than Commercial Products and Commercial Services clause of this contract.
 
 (ii) Any rights so negotiated shall be identified in a license agreement made part of this contract.
 
-(5) *Prior government rights.* Computer software or computer software documentation that will be delivered, furnished, or otherwise provided to the Government under this contract, in which the Government has previously obtained rights shall be delivered, furnished, or provided with the pre-existing rights, unless -
+(5) *Prior government rights.* Computer software or computer software documentation that will be delivered, furnished, or otherwise provided to the Government under this contract, in which the Government has previously obtained rights shall be delivered, furnished, or provided with the pre-existing rights, unless—
 
 (i) The parties have agreed otherwise; or
 
@@ -158,7 +158,7 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 (c) *Rights in derivative computer software or computer software documentation.* The Government shall retain its rights in the unchanged portions of any computer software or computer software documentation delivered under this contract that the Contractor uses to prepare, or includes in, derivative computer software or computer software documentation.
 
-(d) *Third party copyrighted computer software or computer software documentation.* The Contractor shall not, without the written approval of the Contracting Officer, incorporate any copyrighted computer software or computer software documentation in the software or documentation to be delivered under this contract unless the Contractor is the copyright owner or has obtained for the Government the license rights necessary to perfect a license or licenses in the deliverable software or documentation of the appropriate scope set forth in paragraph (b) of this clause, and prior to delivery of such -
+(d) *Third party copyrighted computer software or computer software documentation.* The Contractor shall not, without the written approval of the Contracting Officer, incorporate any copyrighted computer software or computer software documentation in the software or documentation to be delivered under this contract unless the Contractor is the copyright owner or has obtained for the Government the license rights necessary to perfect a license or licenses in the deliverable software or documentation of the appropriate scope set forth in paragraph (b) of this clause, and prior to delivery of such—
 
 (1) Computer software, has provided a statement of the license rights obtained in a form acceptable to the Contracting Officer; or
 
@@ -172,21 +172,17 @@ Rights In Other Than Commercial Computer Software and Other Than Commercial Comp
 
 The Contractor asserts for itself, or the persons identified below, that the Government's rights to use, release, or disclose the following computer software should be restricted:
 
-|Computer Software to be Furnished With Restrictions\*|Basis for Assertion\*\*|Asserted Rights Category\*\*\*|Name of Person Asserting Restrictions\*\*\*\*|
-|-----------------------------------------------------|-----------------------|------------------------------|---------------------------------------------|
-|                       (LIST)                        |        (LIST)         |            (LIST)            |                   (LIST)                    |
-
-\*Generally, development at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose computer software.
-
-\*\*Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.
-
-\*\*\*Enter asserted rights category (e.g., restricted or government purpose rights in computer software, government purpose license rights from a prior contract, rights in SBIR software generated under another contract, or specifically negotiated licenses).
-
-\*\*\*\*Corporation, individual, or other person, as appropriate.
+|                                                                                                      Computer Software to be Furnished With Restrictions\*                                                                                                       |Basis for Assertion\*\*|Asserted Rights Category\*\*\*|Name of Person Asserting Restrictions\*\*\*\*|
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------|------------------------------|---------------------------------------------|
+|                                                                                                                              (LIST)                                                                                                                              |        (LIST)         |            (LIST)            |                   (LIST)                    |
+|                              \*Generally, development at private expense, either exclusively or partially, is the only basis for asserting restrictions on the Government's rights to use, release, or disclose computer software.                               |                       |                              |                                             |
+|                     \*\*Indicate whether development was exclusively or partially at private expense. If development was not at private expense, enter the specific reason for asserting that the Government's rights should be restricted.                      |                       |                              |                                             |
+|\*\*\*Enter asserted rights category (e.g., restricted or government purpose rights in computer software, government purpose license rights from a prior contract, rights in SBIR software generated under another contract, or specifically negotiated licenses).|                       |                              |                                             |
+|                                                                                                \*\*\*\*Corporation, individual, or other person, as appropriate.                                                                                                 |                       |                              |                                             |
 
 DatePrinted Name and TitleSignature(End of identification and assertion)
 
-(4) When requested by the Contracting Officer, the Contractor shall provide sufficient information to enable the Contracting Officer to evaluate the Contractor's assertions. The Contracting Officer reserves the right to add the Contractor's assertions to the Attachment and validate any listed assertion, at a later date, in accordance with the procedures of the Validation of Asserted Restrictions - Computer Software clause of this contract.
+(4) When requested by the Contracting Officer, the Contractor shall provide sufficient information to enable the Contracting Officer to evaluate the Contractor's assertions. The Contracting Officer reserves the right to add the Contractor's assertions to the Attachment and validate any listed assertion, at a later date, in accordance with the procedures of the Validation of Asserted Restrictions—Computer Software clause of this contract.
 
 (f) *Marking requirements.* The Contractor, and its subcontractors or suppliers, may only assert restrictions on the Government's rights to use, modify, reproduce, release, perform, display, or disclose computer software by marking the deliverable software or documentation subject to restriction. Except as provided in paragraph (f)(5) of this clause, only the following legends are authorized under this contract; the government purpose rights legend at paragraph (f)(2) of this clause; the restricted rights legend at paragraph (f)(3) of this clause; or the special license rights legend at paragraph (f)(4) of this clause; and/or a notice of copyright as prescribed under 17 U.S.C. 401 or 402.
 
@@ -220,25 +216,25 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (5) *Pre-existing markings.* If the terms of a prior contract or license permitted the Contractor to restrict the Government's rights to use, modify, release, perform, display, or disclose computer software or computer software documentation and those restrictions are still applicable, the Contractor may mark such software or documentation with the appropriate restrictive legend for which the software qualified under the prior contract or license. The marking procedures in paragraph (f)(1) of this clause shall be followed.
 
-(g) *Contractor procedures and records.* Throughout performance of this contract, the Contractor and its subcontractors or suppliers that will deliver computer software or computer software documentation with other than unlimited rights, shall -
+(g) *Contractor procedures and records.* Throughout performance of this contract, the Contractor and its subcontractors or suppliers that will deliver computer software or computer software documentation with other than unlimited rights, shall—
 
 (1) Have, maintain, and follow written procedures sufficient to assure that restrictive markings are used only when authorized by the terms of this clause; and
 
 (2) Maintain records sufficient to justify the validity of any restrictive markings on computer software or computer software documentation delivered under this contract.
 
-(h) *Removal of unjustified and nonconforming markings* - (1) *Unjustified computer software or computer software documentation markings.* The rights and obligations of the parties regarding the validation of restrictive markings on computer software or computer software documentation furnished or to be furnished under this contract are contained in the Validation of Asserted Restrictions - Computer Software and the Validation of Restrictive Markings on Technical Data clauses of this contract, respectively. Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures of those clauses, a restrictive marking is determined to be unjustified.
+(h) *Removal of unjustified and nonconforming markings*—(1) *Unjustified computer software or computer software documentation markings.* The rights and obligations of the parties regarding the validation of restrictive markings on computer software or computer software documentation furnished or to be furnished under this contract are contained in the Validation of Asserted Restrictions—Computer Software and the Validation of Restrictive Markings on Technical Data clauses of this contract, respectively. Notwithstanding any provision of this contract concerning inspection and acceptance, the Government may ignore or, at the Contractor's expense, correct or strike a marking if, in accordance with the procedures of those clauses, a restrictive marking is determined to be unjustified.
 
-(2) *Nonconforming computer software or computer software documentation markings.* A nonconforming marking is a marking placed on computer software or computer software documentation delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract. Correction of nonconforming markings is not subject to the Validation of Asserted Restrictions - Computer Software or the Validation of Restrictive Markings on Technical Data clause of this contract. If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty (60) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.
+(2) *Nonconforming computer software or computer software documentation markings.* A nonconforming marking is a marking placed on computer software or computer software documentation delivered or otherwise furnished to the Government under this contract that is not in the format authorized by this contract. Correction of nonconforming markings is not subject to the Validation of Asserted Restrictions—Computer Software or the Validation of Restrictive Markings on Technical Data clause of this contract. If the Contracting Officer notifies the Contractor of a nonconforming marking or markings and the Contractor fails to remove or correct such markings within sixty (60) days, the Government may ignore or, at the Contractor's expense, remove or correct any nonconforming markings.
 
 (i) *Relation to patents.* Nothing contained in this clause shall imply a license to the Government under any patent or be construed as affecting the scope of any license or other right otherwise granted to the Government under any patent.
 
-(j) *Limitation on charges for rights in computer software or computer software documentation.* (1) The Contractor shall not charge to this contract any cost, including but not limited to license fees, royalties, or similar charges, for rights in computer software or computer software documentation to be delivered under this contract when -
+(j) *Limitation on charges for rights in computer software or computer software documentation.* (1) The Contractor shall not charge to this contract any cost, including but not limited to license fees, royalties, or similar charges, for rights in computer software or computer software documentation to be delivered under this contract when—
 
 (i) The Government has acquired, by any means, the same or greater rights in the software or documentation; or
 
 (ii) The software or documentation are available to the public without restrictions.
 
-(2) The limitation in paragraph (j)(1) of this clause -
+(2) The limitation in paragraph (j)(1) of this clause—
 
 (i) Includes costs charged by a subcontractor or supplier, at any tier, or costs incurred by the Contractor to acquire rights in subcontractor or supplier computer software or computer software documentation, if the subcontractor or supplier has been paid for such rights under any other Government contract or under a license conveying the rights to the Government; and
 
@@ -262,4 +258,4 @@ The Government's rights to use, modify, reproduce, release, perform, display, or
 
 (3) This limitation on the Government's rights to publish for sale shall continue as long as the software or documentation are reasonably available to the public for purchase.
 
-[60 FR 33493, June 28, 1995, as amended at 76 FR 11368, Mar. 2, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 88 FR 6593, Jan. 31, 2023]
+[60 FR 33493, June 28, 1995, as amended at 76 FR 11368, Mar. 2, 2011; 77 FR 10976, Feb. 24, 2012; 78 FR 30238, May 22, 2013; 79 FR 11341, Feb. 28, 2014; 88 FR 6593, Jan. 31, 2023; 88 FR 17345, Mar. 22, 2023]

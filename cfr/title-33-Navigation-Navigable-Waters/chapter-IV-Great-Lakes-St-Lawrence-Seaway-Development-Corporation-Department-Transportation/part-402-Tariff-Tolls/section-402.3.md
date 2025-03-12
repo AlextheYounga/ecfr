@@ -1,7 +1,5 @@
 ##### § 402.3 Interpretation. #####
 
-Link to an amendment published at 88 FR 15275, Mar. 13, 2023.
-
 In this tariff,
 
 *Bulk cargo* means cargo consisting of goods, loose or in mass, that generally must be shoveled, pumped, blown, scooped or forked in the handling and includes:
@@ -30,7 +28,7 @@ In this tariff,
 
 (1) Empty containers or the tare weight of loaded containers;
 
-(2) Ships' fuel, ballast or stores;
+(2) Vessels' fuel, ballast or stores;
 
 (3) The personal effects of crew or passengers; or
 
@@ -40,15 +38,13 @@ In this tariff,
 
 *Closing date* means in respect of a year, the first date in such year after the opening date on which both the Montreal-Lake Ontario portion and the Welland Canal portion of the Seaway are closed for vessel traffic.
 
-*Commodity* means cargo that has been defined as a commodity in the Manager's then current publicly announced commodity codes.
+*Commodity* means cargo that has been defined as a commodity in the Manager's commodity codes.
 
-*Containerized cargo* means cargo shipped in a container. Containers are used to transport freight in multiple modes; ship, rail, and truck. There are many configurations: Dry, insulated or thermal, refrigerated or reefer, flat racks and platforms, open top and tank. Usual dimensions: Width 8 feet, height 8 foot 6 inches or 9 foot 6 inches, lengths 20 foot or 40 foot. Less common lengths include, for example, 24, 28, 44, 45, 46, 48, 53, and 56 feet.
+*Containerized cargo* means cargo shipping in a container. Containers are used to transport freight in multiple modes: vessel, rail, and truck. There are many configurations: Dry, insulated or thermal, refrigerated or reefer, flat racks and platforms, open top and tank. Typical dimensions: 8 feet in width, 8 feet 6 inches or 9 feet 6 inches in height and 20 feet or 40 feet in length. Less common lengths include, for example, 24, 28, 44, 45, 46, 48, 53, and 56 feet.
 
 *Corporation* means the Great Lakes St. Lawrence Seaway Development Corporation.
 
 *Domestic cargo* means cargo, the shipment of which originates at one Canadian point and terminates at another Canadian point, or originates at one United States point and terminates at another United States point or originates at one Canadian or United States point in the Great Lakes Saint Lawrence Seaway System and terminates at another Canadian or United States point in the Great Lakes Saint Lawrence Seaway System but does not include import or export cargo designated at the point of origin for transshipment by water at a point in Canada or in the United States.
-
-*Duration* means the number of years negotiated between the Manager and a shipper for the application of a toll reduction under the Gateway Incentive.
 
 *Gateway incentive* means a percentage reduction, as part of an incentive program, negotiated and offered on applicable cargo tolls for shipments of a specific commodity diverted to the Seaway from a competing gateway.
 
@@ -84,15 +80,15 @@ In this tariff,
 
 *New business* means:
 
-(1) Containerized cargo moved by ship in the Seaway at any time in a navigation season;
+(1) Containerized cargo moved by vessel in the Seaway at any time in a navigation season;
 
-(2) A commodity/origin/destination combination in which the commodity moved by ship in the Seaway at any time in a navigation season:
+(2) A commodity/origin/destination combination in which the commodity moved by vessel in the Seaway at any time in a navigation season:
 
 (i) Originating at a point inside Canada or the United States of America or at a country outside Canada or the United States of America, provided that such commodity has not originated from such point or country, as the case may be, at any time in any of the five consecutive navigation seasons immediately preceding the then current navigation season;
 
 (ii) Destined to a point inside Canada or the United States of America or a country outside Canada or the United States of America, provided that such commodity has not been destined to such point or country, as the case may be, at any time in any of the five consecutive navigation seasons immediately preceding the then current navigation season;
 
-(iii) Originating at a point inside Canada or the United States of America or a country outside Canada or the United States of America and destined to a point inside Canada or the United States of America or a country outside Canada or the United States of America, provided that such Commodity was previously moved, in lieu of movement by ship, by any mode of transportation other than by ship at all times in the five consecutive navigation seasons immediately preceding the then current navigation season; or
+(iii) Originating at a point inside Canada or the United States of America or a country outside Canada or the United States of America and destined to a point inside Canada or the United States of America or a country outside Canada or the United States of America, provided that such Commodity was previously moved by any mode of transportation other than by vessel at all times in the five consecutive navigation seasons immediately preceding the then current navigation season; or
 
 (iv) That has not moved through either section of the Seaway in any of the five consecutive navigation seasons immediately preceding the then current navigation season, in a volume exceeding 10,000 metric tons.
 
@@ -116,8 +112,8 @@ In this tariff,
 
 *Vessel* (“ship” in Canada) means every type of craft used as a means of transportation on water, except a vessel owned or employed by the Manager or the Corporation.
 
-*Volume commitment* means the negotiated annual cargo tonnage, with a minimum of 250,000 metric tons per year, a shipper must reach for the negotiated toll reduction under the Gateway Incentive to become applicable.
+*Volume commitment* means the negotiated annual cargo tonnage, with a minimum of 75,000 metric tons per year, a shipper/receiver must reach for the negotiated toll reduction under the Gateway Incentive to become applicable.
 
 *Volume rebate* means a percentage reduction, as part of an initiative program, offered on applicable cargo tolls for shipments of a specific commodity above and beyond a pre-approved historical maximum volume.
 
-[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016; 84 FR 8985, Mar. 13, 2019; 86 FR 15586, Mar. 24, 2021]
+[66 FR 15329, Mar. 16, 2001, as amended at 71 FR 14807, Mar. 24, 2006; 72 FR 4431, Jan. 31, 2007; 74 FR 10678, Mar. 12, 2009; 78 FR 19106, Mar. 29, 2013; 79 FR 13252, Mar. 10, 2014; 81 FR 14391, Mar. 17, 2016; 84 FR 8985, Mar. 13, 2019; 86 FR 15586, Mar. 24, 2021; 88 FR 15275, Mar. 13, 2023]
