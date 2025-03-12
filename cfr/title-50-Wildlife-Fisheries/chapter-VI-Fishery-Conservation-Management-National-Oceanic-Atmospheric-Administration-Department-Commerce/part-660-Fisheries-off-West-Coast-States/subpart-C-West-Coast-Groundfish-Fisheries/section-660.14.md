@@ -1,5 +1,7 @@
 ##### § 660.14 Vessel Monitoring System (VMS) requirements. #####
 
+Link to an amendment published at 87 FR 11599, Mar. 2, 2022.
+
 (a) *What is a VMS?* A VMS consists of a NMFS OLE type-approved mobile transceiver unit that automatically determines the vessel's position and transmits it to a NMFS OLE type-approved communications service provider. The communications service provider receives the transmission and relays it to NMFS OLE.
 
 (b) *Who is Required to Have a VMS?* The following vessels are required to install a NMFS OLE type-approved mobile transceiver unit and to arrange for a NMFS OLE type-approved communications service provider to receive and relay transmissions to NMFS OLE prior to fishing:

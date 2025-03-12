@@ -770,7 +770,7 @@ ut terminals of the transmitter (including any filters that may be employed). In
 |   Shaker Heights   |                        10                         |
 |    Springfield     |                         S                         |
 |    Steubenville    |                         9                         |
-|       Toledo       |              5, 11, 13, 23, 26, \*29              |
+|       Toledo       |             11, 13, 23, 26, \*29, 35              |
 |     Youngstown     |                     31, 33, S                     |
 |     Zanesville     |                        30                         |
 |      Oklahoma      |                                                   |
