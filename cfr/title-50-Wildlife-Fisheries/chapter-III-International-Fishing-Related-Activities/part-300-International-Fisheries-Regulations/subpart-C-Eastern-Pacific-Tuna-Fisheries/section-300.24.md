@@ -70,6 +70,4 @@ In addition to the prohibitions in § 300.4, it is unlawful for any person or ve
 
 (hh) Use a U.S. longline vessel to catch silky shark in contravention of § 300.27(f).
 
-(ii) Use a U.S. purse seine fishing vessel of the applicable class size to make a set on either floating objects or dolphins in the IATTC Convention Area after a closure for either of these set types is announced by the Regional Administrator, in contravention of § 300.25(d).
-
-[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017]
+[61 FR 35550, July 5, 1996, as amended at 64 FR 29133, May 28, 1999; 64 FR 44430, Aug. 16, 1999; 66 FR 49320, Sept. 27, 2001. Redesignated and amended at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68337, Nov. 4, 2011; 76 FR 68337, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 28451, May 16, 2014; 79 FR 56018, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 80 FR 60538, Oct. 7, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017; 82 FR 45516, Sept. 29, 2017]

@@ -24,27 +24,23 @@
 
 (c) *Transshipments at sea.* No person subject to these regulations may transship purse seine-caught tuna from one vessel to another vessel at sea within the Convention Area.
 
-(d) *Purse seine tuna catch limits.* (1) Fishing seasons for all tuna species begin on January 1 and end either on December 31 or when NMFS closes the fishery for either a specific species or set-type or both.
+(d) [Reserved]
 
-(2) For the calendar year 2017, the following total allowable catch limits for the combined catch of bigeye and yellowfin tuna, shall apply in the IATTC Convention Area:
+(e) *Purse seine closures.* (1) *Closure periods* - (i) *General rule.* A commercial purse seine fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two closure periods:
 
-(i) For purse seine vessels of all nations that are class size 4-6 (more than 182 metric tons carrying capacity), the total allowable catch is 97,711 metric tons for floating object sets.
+(A) From 0000 hours Coordinated Universal Time (UTC) July 29, 2017, to 2400 hours UTC October 8, 2017; or,
 
-(ii) For purse seine vessels of all nations that are class size 6, the total allowable catch is 162,182 metric tons for dolphin sets.
+(B) From 0000 hours UTC November 9, 2017, to 2400 hours UTC January 19, 2018.
 
-(3) NMFS will project a closure date for floating object sets and for dolphin sets using data provided by the IATTC. NMFS will publish a notice in the Federal Register announcing the closures for these set types at least 7 calendar days in advance of the projected closure dates.
+(ii) *Vessels with DMLs.* Notwithstanding paragraph (e)(1)(i) of this section, a purse seine vessel for which a dolphin mortality limit has been assigned may fish during 10 days of the closure period the vessel selected, if the vessel makes no floating object sets during this period. The respective 10-day periods are:
 
-(4) Once the closure date for floating object sets is effective, pursuant to paragraph (d)(3) of this section, U.S. purse seine vessels of class size 4-6 will be prohibited from making a floating object set in the Convention Area until the end of the 2017 calendar year. Once the closure date for dolphin sets is effective, pursuant to paragraph (d)(3) of this section, U.S. purse seine vessels of class size 6 will be prohibited from making a dolphin set in the Convention Area until the end of the 2017 calendar year.
+(A) From 0000 hours UTC September 29, 2017, to 2400 hours UTC October 8, 2017; and,
 
-(e) *Purse seine closures.* (1) A commercial purse seine fishing vessel of the United States that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 62 days during one of the following two periods:
-
-(i) From 0000 hours Coordinated Universal Time (UTC) July 29, 2017, to 2400 hours UTC September 28, 2017, or
-
-(ii) From 0000 hours UTC November 18, 2017, to 2400 hours UTC January 18, 2018.
+(B) From 0000 hours UTC November 9, 2017, to 2400 hours UTC November 18, 2017.
 
 (2) A vessel owner, manager, or association representative of a vessel that is subject to the requirements of paragraph (e)(1) of this section must, in 2017, provide written notification to the Regional Administrator declaring to which one of the two closure periods identified in paragraph (e)(1) of this section his or her vessel will adhere in that year. This written notification must be submitted by fax at (562) 980-4047 or email at *RegionalAdministrator.WCRHMS@noaa.gov* and must be received no later than July 1 2017. The written notification must include the vessel name and registration number, the closure dates that will be adhered to by that vessel, and the vessel owner or managing owner's name, signature, business address, and business telephone number.
 
-(3) If written notification is not submitted per paragraph (e)(2) of this section for a vessel subject to the requirements under paragraph (e)(1) of this section, that vessel must adhere to the closure period under paragraph (e)(1)(ii) of this section.
+(3) If written notification is not submitted per paragraph (e)(2) of this section for a vessel subject to the requirements under paragraph (e)(1)(i) of this section, that vessel must adhere to the closure period under paragraph (e)(1)(i)(B) of this section.
 
 (4) *Request for exemption due to force majeure.* A request for exemption due to force majeure must be made to the Sustainable Fisheries Division by fax at (562) 980-4047 or emailed to *RegionalAdministrator.WCRHMS@noaa.gov.* The request must include the name and official number of the vessel, vessel owner or manager's name and signature, and evidence to support the request, which may include but is not limited to photographs, repair bills, certificates of departure from port, and in the case of a marine casualty, a completed copy of the U.S. Coast Guard Form CG-2692A (See 46 CFR 4.05-10).
 
@@ -54,7 +50,7 @@
 
 (5) A vessel of class size 4 (182 to 272 metric tons carrying capacity) may make one fishing trip of up to 30 days duration during the specified closure period in paragraph (e)(1) of this section, provided that the vessel carries an observer authorized pursuant to the Agreement on the International Dolphin Conservation Program during the entire fishing trip.
 
-(6) A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on September 29 to 2400 hours on October 29 in 2017 to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W. longitude and bounded at the north and south by 4° N. and 3° S. latitude.
+(6) A fishing vessel of the United States of class size 4-6 (more than 182 metric tons carrying capacity) may not be used from 0000 hours on October 9 to 2400 hours on November 8 in 2017 to fish with purse seine gear within the area bounded at the east and west by 96° and 110° W. longitude and bounded at the north and south by 4° N. and 3° S. latitude.
 
 (7) At all times while a vessel is in a time/area closed period established under paragraphs (e)(1) or (e)(6) of this section, unless fishing under exceptions established under paragraphs (e)(4) or (e)(5) of this section, the fishing gear of the vessel must be stowed in a manner as not to be readily available for fishing. In particular, the boom must be lowered as far as possible so that the vessel cannot be used for fishing, but so that the skiff is accessible for use in emergency situations; the helicopter, if any, must be tied down; and launches must be secured.
 
@@ -90,4 +86,4 @@
 
 (i) *FAD data reporting for purse seine vessels.* U.S. vessel owners and operators must ensure that any interaction or activity with a FAD is reported using a standard format provided by the HMS Branch. The owner and operator shall ensure that the form is submitted to the address specified by the HMS Branch.
 
-[64 FR 44431, Aug. 16, 1999, as amended at 66 FR 49320, Sept. 27, 2001. Redesignated at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68338, Nov. 4, 2011; 76 FR 68338, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 19489, Apr. 9, 2014; 79 FR 28451, May 16, 2014; 79 FR 56019, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017]
+[64 FR 44431, Aug. 16, 1999, as amended at 66 FR 49320, Sept. 27, 2001. Redesignated at 69 FR 67277, Nov. 17, 2004; 74 FR 1620, Jan. 13, 2009; 74 FR 61051, Nov. 23, 2009; 76 FR 68338, Nov. 4, 2011; 76 FR 68338, Nov. 4, 2011; 78 FR 33243, June 4, 2013; 79 FR 19489, Apr. 9, 2014; 79 FR 28451, May 16, 2014; 79 FR 56019, Sept. 18, 2014; 80 FR 38989, July 8, 2015; 81 FR 50403, Aug. 1, 2016; 81 FR 86969, Dec. 2, 2016; 82 FR 17385, Apr. 11, 2017; 82 FR 18705, Apr. 21, 2017; 82 FR 45516, Sept. 29, 2017]

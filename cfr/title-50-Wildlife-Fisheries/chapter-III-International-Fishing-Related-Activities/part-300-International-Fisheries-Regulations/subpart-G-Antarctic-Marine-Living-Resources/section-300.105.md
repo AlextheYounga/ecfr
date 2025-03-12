@@ -27,3 +27,5 @@
 (3) Determined to have been harvested or transshipped by a vessel identified by CCAMLR as having engaged in illegal, unreported and unregulated (IUU) fishing; or
 
 (3) Accompanied by inaccurate, incomplete, invalid, or improperly validated CDS documentation or by a SVDCD.
+
+Editorial Note:At 82 FR 6223, Jan. 19, 2017, subpart G to part 300 was revised, and § 300.105 was set out with two paragraphs designated (h)(3).
