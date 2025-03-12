@@ -1,5 +1,7 @@
 ##### § 522.1002 Follicle stimulating hormone. #####
 
+Link to an amendment published at 82 FR 21690, May 10, 2017.
+
 (a)(1) *Specifications.* Each package contains 2 vials. One vial contains dry, powdered, porcine pituitary gland equivalent to 75 units (NIH-FSH-S1) of follicle stimulating hormone. The other vial contains 10 milliliters of aqueous diluent.
 
 (2) *Sponsor.* See No. 052923 in § 510.600(c) of this chapter.

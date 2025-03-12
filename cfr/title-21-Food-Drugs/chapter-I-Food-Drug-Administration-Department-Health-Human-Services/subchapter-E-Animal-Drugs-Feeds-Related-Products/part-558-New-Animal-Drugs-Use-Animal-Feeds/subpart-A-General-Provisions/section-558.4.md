@@ -37,7 +37,6 @@ Category I
 |                  Nequinate                  |                95-112                 |  1.83 g/lb (0.4%)   |                                                                80-120.                                                                |
 |                  Nystatin                   |                85-125                 |   5.0 g/lb (1.1%)   |                                                                75-125.                                                                |
 |               Oxytetracycline               |                90-120                 |  20.0 g/lb (4.4%)   |                                                            75-125/65-135.                                                             |
-|                 Penicillin                  |                80-120                 |  10.0 g/lb (2.2%)   |                                                                65-135.                                                                |
 |                 Poloxalene                  |                90-110                 | 54.48 g/lb (12.0%)  |                                                          Liq. feed: 85-115.                                                           |
 |                 Ractopamine                 |                85-105                 |  2.46 g/lb (0.54%)  |                                                            80-110/75-125.                                                             |
 |                 Salinomycin                 |                90-110                 |   6.0 g/lb (1.3%)   |                                                                80-120.                                                                |
@@ -80,9 +79,6 @@ Category II
 |     Sulfadimethoxine     |                90-110                 |Poultry: 5.675 g/lb  <br/>Fish: 85.1 g/lb|                              80-115/75-125.                               |
 |        Ormetoprim        |                90-110                 |Poultry: 3.405 g/lb  <br/>Fish: 17.0 g/lb|                                  80-115.                                  |
 |      Sulfamerazine       |                85-115                 |            18.6 g/lb (4.0%)             |                                  85-115.                                  |
-|      Sulfamethazine      |                85-115                 |            10.0 g/lb (2.2%)             |                                  80-120.                                  |
-|    Chlortetracycline     |                85-115                 |            10.0 g/lb (2.2%)             |                              85-125/70-130.                               |
-|        Penicillin        |                85-115                 |             5.0 g/lb (1.1%)             |                              85-125/70-130.                               |
 |      Sulfamethazine      |                85-115                 |            10.0 g/lb (2.2%)             |                                  80-120.                                  |
 |    Chlortetracycline     |                85-115                 |            10.0 g/lb (2.2%)             |                              85-125/70-130.                               |
 |      Sulfamethazine      |                85-115                 |            10.0 g/lb (2.2%)             |                                  80-120.                                  |

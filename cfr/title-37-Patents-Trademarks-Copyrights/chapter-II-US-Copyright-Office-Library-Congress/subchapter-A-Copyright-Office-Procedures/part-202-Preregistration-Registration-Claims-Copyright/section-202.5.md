@@ -22,7 +22,7 @@
 
 (4) If the Review Board decides to register an applicant's work in response to a second request for reconsideration, it will notify the applicant in writing of the decision and the work will be registered. If the Review Board upholds the refusal to register the work, it will send the applicant a written notification stating the reasons for refusal.
 
-(d) *Submission of reconsiderations.* (1) All submissions for reconsideration should be mailed to the address specified in § 201.1(c)(4) of this chapter.
+(d) *Submission of reconsiderations.* (1) All submissions for reconsideration should be mailed to the address specified in § 201.1(c) of this chapter.
 
 (2) The first page of the written request must contain the Copyright Office control number and clearly indicate either “FIRST RECONSIDERATION” or “SECOND RECONSIDERATION,” as appropriate, on the subject line.
 
@@ -32,4 +32,4 @@
 
 (g) *Final agency action.* A decision by the Review Board in response to a second request for reconsideration constitutes final agency action.
 
-[69 FR 77636, Dec. 28, 2004, as amended at 70 FR 7177, Feb. 11, 2005; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 81 FR 62373, Sept. 9, 2016; 82 FR 9359, Feb. 6, 2017]
+[69 FR 77636, Dec. 28, 2004, as amended at 70 FR 7177, Feb. 11, 2005; 73 FR 37839, July 2, 2008; 78 FR 42875, July 18, 2013; 81 FR 62373, Sept. 9, 2016; 82 FR 9359, Feb. 6, 2017; 82 FR 21697, May 10, 2017]

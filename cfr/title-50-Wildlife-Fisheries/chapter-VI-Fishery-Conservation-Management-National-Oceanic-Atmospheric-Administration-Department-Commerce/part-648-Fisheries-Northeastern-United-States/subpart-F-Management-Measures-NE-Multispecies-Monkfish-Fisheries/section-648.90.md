@@ -290,14 +290,14 @@ Atlantic Wolffish Fixed Gear AM Area 2
 
 (ii) *Post-season adjustment for an overage.* If NMFS determines that a small-mesh multispecies ACL was exceeded in a given fishing year, the in-season accountability measure adjustment trigger, as specified in paragraph (b)(5)(iii) of this section, shall be reduced in a subsequent fishing year by 1 percent for each 1 percent by which the ACL was exceeded through notification consistent with the Administrative Procedure Act. For example, if the in-season adjustment trigger is 90 percent, and an ACL is exceeded by 5 percent, the adjustment trigger for the stock whose ACL was exceeded would be reduced to 85 percent for subsequent fishing years.
 
-(iii) *Small-mesh multispecies in-season adjustment triggers.* The small-mesh multispecies inseason accountability measure adjustment triggers are as follow:
+(iii) *Small-mesh multispecies in-season adjustment triggers.* The small-mesh multispecies in-season accountability measure adjustment triggers are as follows:
 
 |      Species       |In-season  <br/>adjustment  <br/>trigger  <br/>(percent)|
 |--------------------|--------------------------------------------------------|
-| Northern Red Hake  |                          62.5                          |
+| Northern Red Hake  |                          37.9                          |
 |Northern Silver Hake|                           90                           |
 | Southern Red Hake  |                           90                           |
-|  Southern Whiting  |                           90                           |
+|Southern Silver Hake|                           90                           |
 
 (c) *Within season management action for NE multispecies, including small-mesh NE multispecies.* The Council may, at any time, initiate action to add or adjust management measures if it finds that action is necessary to meet or be consistent with the goals and objectives of the NE Multispecies FMP, to address gear conflicts, or to facilitate the development of aquaculture projects in the EEZ. This procedure may also be used to modify FMP overfishing definitions and fishing mortality targets that form the basis for selecting specific management measures.
 

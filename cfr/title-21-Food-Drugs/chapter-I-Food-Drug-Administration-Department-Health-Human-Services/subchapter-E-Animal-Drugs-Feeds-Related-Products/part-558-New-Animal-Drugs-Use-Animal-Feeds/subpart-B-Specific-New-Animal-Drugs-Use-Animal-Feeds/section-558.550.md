@@ -112,4 +112,12 @@
 
 (ii) [Reserved]
 
+(5) Salinomycin may also be used in combination with:
+
+(i)-(ii) [Reserved]
+
+(iii) Chlortetracycline as in § 558.128.
+
+(iv) Lincomycin as in § 558.325.
+
 [48 FR 30616, July 5, 1983]Editorial Note:For Federal Register citations affecting § 558.550, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*Editorial Note:At 81 FR 95013, Dec. 27, 2016, § 558.550 was amended in part by revising paragraph (d)(4); however, the amendment could not be incorporated because no revised text for (d)(4) was set out.

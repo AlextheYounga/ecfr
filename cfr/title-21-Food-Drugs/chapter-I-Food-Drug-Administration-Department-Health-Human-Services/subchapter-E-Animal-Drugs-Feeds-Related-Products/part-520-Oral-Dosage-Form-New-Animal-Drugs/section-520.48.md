@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) of solution contains 2.2 milligrams (mg) altrenogest.
 
-(b) *Sponsors.* See Nos. 000061 and 013744 in § 510.600(c) of this chapter.
+(b) *Sponsors.* See Nos. 000061 and 061623 in § 510.600(c) of this chapter.
 
 (c) *Tolerances.* See § 556.36 of this chapter.
 
@@ -18,4 +18,4 @@
 
 (iii) *Limitations.* Do not use in gilts having a previous or current history of uterine inflammation (i.e., acute, subacute or chronic endometritis). Gilts must not be slaughtered for human consumption for 21 days after the last treatment.
 
-[66 FR 47960, Sept. 17, 2001, as amended at 68 FR 62006, Oct. 31, 2003; 72 FR 9455, Feb. 21, 2008; 74 FR 61516, Nov. 25, 2009; 77 FR 32012, May 31, 2012; 80 FR 34278, June 16, 2015]
+[66 FR 47960, Sept. 17, 2001, as amended at 68 FR 62006, Oct. 31, 2003; 72 FR 9455, Feb. 21, 2008; 74 FR 61516, Nov. 25, 2009; 77 FR 32012, May 31, 2012; 80 FR 34278, June 16, 2015; 82 FR 21690, May 10, 2017]

@@ -8,9 +8,9 @@
 
 (b) *Sponsors.* See sponsors numbers in § 510.600(c) of this chapter as follow:
 
-(1) Nos. 054771 and 069254 for use of product described in paragraph (a)(1) as in paragraph (d)(1) of this section.
+(1) Nos. 054771 and 069254 for use of product described in paragraph (a)(1) as in paragraph (e)(1) of this section.
 
-(2) Nos. 054771 and 069254 for use of product described in paragraph (a)(2) as in paragraph (d)(2) of this section.
+(2) Nos. 054771 and 069254 for use of product described in paragraph (a)(2) as in paragraph (e)(2) of this section.
 
 (c) *Related tolerances.* See §§ 556.150 and 556.670 of this chapter.
 
@@ -34,4 +34,4 @@
 
 (iii) *Limitations.* Feed as the sole ration. Withdraw 15 days prior to slaughter.
 
-[79 FR 37622, July 2, 2014, as amended at 80 FR 13231, Mar. 13, 2015; 81 FR 63054, Sept. 14, 2016; 81 FR 95004, Dec. 27, 2016]
+[79 FR 37622, July 2, 2014, as amended at 80 FR 13231, Mar. 13, 2015; 81 FR 63054, Sept. 14, 2016; 81 FR 95004, Dec. 27, 2016; 82 FR 21691, May 10, 2017]

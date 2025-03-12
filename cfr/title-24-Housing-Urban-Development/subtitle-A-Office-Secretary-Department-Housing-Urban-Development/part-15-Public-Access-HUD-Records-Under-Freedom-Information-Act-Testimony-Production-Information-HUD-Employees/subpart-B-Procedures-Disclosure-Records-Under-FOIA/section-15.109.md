@@ -1,8 +1,8 @@
 ##### § 15.109 Appeals. #####
 
-(a) *In general.* A requester may appeal an adverse determination denying a request, in any respect, in writing. The letter of appeal should clearly identify the determination that is being appealed and the assigned tracking number. The appeal letter and envelope should be marked “Freedom of Information Act Appeal” for the quickest possible handling. If mailed, the requester's letter of appeal must be postmarked within 30 calendar days of the date of HUD's letter of determination. If the letter of appeal is transmitted electronically or by a means other than the United States Postal Service, it must be received in the appropriate office by the close of business on the 30th calendar day after the date of HUD's letter of determination.
+(a) *In general.* A requester may appeal an adverse determination denying a request, in any respect, in writing. The letter of appeal should clearly identify the determination that is being appealed and the assigned tracking number. The appeal letter and envelope should be marked “Freedom of Information Act Appeal” for the quickest possible handling. If mailed, the requester's letter of appeal must be postmarked within 90 calendar days of the date of HUD's letter of determination. If the letter of appeal is transmitted electronically or by a means other than the United States Postal Service, it must be received in the appropriate office by the close of business on the 30th calendar day after the date of HUD's letter of determination.
 
-(b) *Time frames* - (1) Expedited processing. HUD will decide an appeal of a denial of a request to expedite processing of a FOIA request within 10 working days of receipt of the appeal.
+(b) *Time frames*—(1) Expedited processing. HUD will decide an appeal of a denial of a request to expedite processing of a FOIA request within 10 working days of receipt of the appeal.
 
 (2) *All other appeals.* HUD will make a determination on appeals within 20 working days of receipt, unless unusual circumstances require HUD to extend the time for an additional 10 working days.
 
@@ -19,3 +19,5 @@
 (4) Any additional information the appellant wishes to include.
 
 (d) *When appeal is required.* Before seeking a court review of HUD's adverse determination, a requester generally must have exhausted their administrative remedies.
+
+[80 FR 49145, Aug. 17, 2015 as amended at 82 FR 21695, May 10, 2017]

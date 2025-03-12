@@ -6,7 +6,7 @@
 
 (1) Final opinions and orders.
 
-(2) Public access to high-value, machine readable datasets via *http://www/data/gov.*
+(2) Public access to high-value, machine readable datasets via *http://www.data.gov.*
 
 (3) Statements of policy and interpretation, including:
 
@@ -86,4 +86,4 @@
 
 (22) FOIA request logs.
 
-[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017]
+[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017; 82 FR 21694, May 10, 2017]

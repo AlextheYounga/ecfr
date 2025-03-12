@@ -1,5 +1,7 @@
 ##### § 510.600 Names, addresses, and drug labeler codes of sponsors of approved applications. #####
 
+Link to an amendment published at 82 FR 21690, May 10, 2017.
+
 (a) Section 512(i) of the act requires publication of names and addresses of sponsors of approved applications for new animal drugs.
 
 (b) In this section each name and address is identified by a numerical drug labeler code. The labeler codes identify the sponsors of the new animal drug applications associated with the regulations published pursuant to section 512(i) of the act. The codes appear in the appropriate regulations and serve as a reference to the names and addresses listed in this section. The drug labeler code is established pursuant to section 510 of the act.
@@ -20,6 +22,7 @@
 |                            Alexion Pharmaceuticals, Inc., 100 College St., New Haven, CT 06510                             |     069334      |
 |                   American Pharmaceuticals and Cosmetics, Inc., 1401 Joel East Rd., Fort Worth, TX 76140                   |     065531      |
 |                             Anika Therapeutics Inc., 236 West Cummings Park, Woburn, MA 01801                              |     060865      |
+|                      Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043                       |     086073      |
 |                      AquaBounty Technologies, Inc., Two Clock Tower Pl., suite 395, Maynard, MA 01754                      |     086053      |
 |                          Ark Sciences, Inc., 1101 East 33rd St., suite B304, Baltimore, MD 21218                           |     076175      |
 |                         Aratana Therapeutics, Inc., 11400 Tomahawk Creek Pkwy., Leawood, KS 66211                          |     086026      |
@@ -68,7 +71,6 @@
 |                               Mylan Institutional LLC, 4901 Hiawatha Dr., Rockford, IL 61103                               |     063286      |
 |                            Natchez Animal Supply Co., 201 John R. Junkin Dr., Natchez, MS 39120                            |     049968      |
 |                                    Neogen Corp., 944 Nandino Blvd., Lexington, KY 40511                                    |     059051      |
-|                             Nexcyon Pharmaceuticals, Inc., P.O. Box 259158, Madison, WI 53725                              |     050929      |
 |                        Norbrook Laboratories, Ltd., Station Works, Newry BT35 6JP, Northern Ireland                        |     055529      |
 |                               Oasmia Pharmaceutical AB, Vallongatan 1, 75228 Uppsala, Sweden                               |     052818      |
 |                                      Orion Corp., Orionintie 1, 02200 Espoo, Finland                                       |     052483      |
@@ -151,7 +153,6 @@
 |     050057      |                           Pharmaceutical Ventures, Ltd., P.O. Box D1400, Pomona, NY 10970.                           |
 |     050378      |                           Western Chemical, Inc., 1269 Lattimore Rd., Ferndale, WA 98248.                            |
 |     050604      |                        Merial, Inc., 3239 Satellite Blvd., bldg. 500, Duluth, GA 30096-4640.                         |
-|     050929      |                          Nexcyon Pharmaceuticals, Inc., P.O. Box 259158, Madison, WI 53725.                          |
 |     051031      |                     Kinetic Technologies, LLC, 961 Beasley St., Suite 270, Lexington, KY 40509.                      |
 |     051072      |                     Aurora Pharmaceutical, LLC, 1196 Highway 3 South, Northfield, MN 55057-3009.                     |
 |     051079      |                      Mylan Institutional, Inc., 12720 Dairy Ashford Rd., Sugar Land, TX 77478.                       |
@@ -214,6 +215,7 @@
 |     086053      |                  AquaBounty Technologies, Inc., Two Clock Tower Pl., suite 395, Maynard, MA 01754.                   |
 |     086064      |                         Ivaoes Animal Health, 4300 SW 73rd Ave., Suite 110, Miami, FL 33155.                         |
 |     086072      |                           VetDC, Inc., 320 E Vine Dr., Suite 218, Fort Collins, CO 80524.                            |
+|     086073      |                   Anzac Animal Health, LLC, 218 Millwell Dr., Suite B, Maryland Heights, MO 63043.                   |
 |     099207      |                      Medicis Dermatologics, Inc., 8125 North Hayden Rd., Scottsdale, AZ 85258.                       |
 
 [40 FR 13807, Mar. 27, 1975]Editorial Notes:1. For Federal Register citations affecting § 510.600, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

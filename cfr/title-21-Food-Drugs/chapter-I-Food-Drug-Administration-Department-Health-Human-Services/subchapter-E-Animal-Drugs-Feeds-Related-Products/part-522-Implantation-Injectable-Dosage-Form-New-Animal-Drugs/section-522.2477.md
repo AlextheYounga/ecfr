@@ -6,9 +6,11 @@
 
 (1) No. 058198 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(B), (d)(1)(i)(C), (d)(1)(i)(D), (d)(1)(i)(E), (d)(1)(i)(F), (d)(1)(ii), (d)(1)(iii), (d)(2), and (d)(3) of this section.
 
-(2) No. 000061 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(C), (d)(1)(i)(D), (d)(1)(i)(G), (d)(1)(ii), (d)(1)(iii), (d)(2)(i)(A), (d)(2)(i)(C), (d)(2)(i)(D), (d)(2)(ii), (d)(2)(iii), (d)(3)(i)(A), (d)(3)(ii), and (d)(3)(iii) of this section.
+(2) No. 000061 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(C), (d)(1)(i)(D), (d)(1)(i)(G), (d)(1)(ii), (d)(1)(iii), (d)(2)(i)(A), (d)(2)(i)(C), (d)(2)(i)(D), (d)(2)(ii), (d)(2)(iii), (d)(3)(i)(A), (d)(3)(ii), (d)(3)(iii), and (d)(4) of this section.
 
 (3) No. 054771 for use as in paragraphs (d)(1)(i)(A), (d)(1)(i)(D), (d)(1)(ii), (d)(1)(iii), (d)(3)(i)(A), (d)(3)(ii), and (d)(3)(iii) of this section.
+
+(c) [Reserved]
 
 (d) *Conditions of use* - (1) *Steers fed in confinement for slaughter* - (i) *Amount.* (A) 120 milligrams (mg) trenbolone acetate and 24 mg estradiol (one implant consisting of 6 pellets, each pellet containing 20 mg trenbolone acetate and 4 mg estradiol) per implant dose.
 
@@ -55,5 +57,11 @@ estradiol, and 1 pellet containing 29 mg tylosin tartrate) per implant dose for 
 (ii) *Indications for use.* For increased rate of weight gain.
 
 (iii) *Limitations.* Implant subcutaneously in ear only. Do not use in animals intended for subsequent breeding or in dairy animals. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+
+(4) *Beef steers and heifers fed in confinement for slaughter* - (i) *Amount.* Each extended- and delayed-release implant contains 200 mg trenbolone acetate and 20 mg estradiol (one implant consisting of 10 pellets, each pellet containing 20 mg trenbolone acetate and 2 mg estradiol) per implant dose.
+
+(ii) *Indications for use.* For increased rate of weight gain and improved feed efficiency during 70 to 200 days after implantation.
+
+(iii) *Limitations.* Implant subcutaneously in the ear only. Do not use in lactating dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows. Do not use in calves to be processed for veal. A withdrawal period has not been established for this product in pre-ruminating calves. Effectiveness and animal safety in veal calves have not been established. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant during the production phase(s) identified on labeling (beef steers and heifers fed in confinement for slaughter) unless otherwise indicated on labeling because safety and effectiveness have not been evaluated.
 
 [60 FR 4376, Jan. 23, 1995]Editorial Note:For Federal Register citations affecting § 522.2477, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*

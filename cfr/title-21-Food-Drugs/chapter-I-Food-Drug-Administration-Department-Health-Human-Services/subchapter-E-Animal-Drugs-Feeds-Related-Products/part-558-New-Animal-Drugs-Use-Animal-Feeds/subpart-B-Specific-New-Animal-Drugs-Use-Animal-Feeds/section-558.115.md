@@ -26,10 +26,6 @@
 
 (ii) *Limitations.* Do not feed to swine over 75 pounds; do not feed within 10 weeks of slaughter; consult a veterinarian before feeding to severely debilitated animals; feed continuously as sole ration. Do not use in complete feeds containing less than 15 percent crude protein.
 
-(4) *Amount.* Carbadox, 10 to 25 grams per ton of feed; plus oxytetracycline, 10 milligrams per pound of body weight.
+(4) Carbadox may also be used in combination with oxytetracycline as in § 558.450.
 
-(i) *Indications for use.* For treatment of bacterial enteritis caused by *Escherichia coli* and *S. choleraesuis* susceptible to oxytetracycline, for treatment of bacterial pneumonia caused by *Pasteurella multocida* susceptible to oxytetracycline; and for increased rate of weight gain and improved feed efficiency.
-
-(ii) *Limitations.* Feed continuously for 7 to 14 days. Not for use in pregnant swine or swine intended for breeding purposes. Do not feed to swine within 42 days of slaughter.
-
-[40 FR 13959, Mar. 27, 1975, as amended at 40 FR 45164, Oct. 1, 1975; 40 FR 57798, Dec. 12, 1975; 42 FR 761, Jan. 4, 1977; 51 FR 7396, Mar. 3, 1986; 63 FR 59216, Nov. 3, 1998; 66 FR 47963, Sept. 17, 2001; 69 FR 51173, Aug. 18, 2004]
+[40 FR 13959, Mar. 27, 1975, as amended at 40 FR 45164, Oct. 1, 1975; 40 FR 57798, Dec. 12, 1975; 42 FR 761, Jan. 4, 1977; 51 FR 7396, Mar. 3, 1986; 63 FR 59216, Nov. 3, 1998; 66 FR 47963, Sept. 17, 2001; 69 FR 51173, Aug. 18, 2004; 82 FR 21691, May 10, 2017]

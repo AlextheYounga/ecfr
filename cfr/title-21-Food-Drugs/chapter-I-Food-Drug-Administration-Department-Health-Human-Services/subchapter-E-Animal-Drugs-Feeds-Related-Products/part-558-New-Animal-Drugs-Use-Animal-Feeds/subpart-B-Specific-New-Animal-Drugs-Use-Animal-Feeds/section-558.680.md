@@ -35,8 +35,10 @@
 | (i) 113.5 to 170.3 |                                        |                                  Growing turkeys: For prevention and control of coccidiosis                                  |              Feed continuously as sole ration. For turkeys grown for meat purposes only. Do not feed to laying birds              |054771 |
 |(ii) 113.5 to 170.3 |Bacitracin methylenedisalicylate 4 to 50|Growing turkeys: For prevention and control of coccidiosis; and for increased rate of weight gain and improved feed efficiency|Feed continuously as sole ration until 14 to 16 weeks of age. For turkeys grown for meat purposes only. Do not feed to laying birds|054771 |
 
-(e)(1)-(2) [Reserved]
+(3) Zoalene may also be used in combination with:
 
-(3) Zoalene may also be used in combination with lincomycin as in § 558.325.
+(i)-(ii) [Reserved]
 
-[41 FR 11005, Mar. 15, 1976, as amended at 42 FR 18618, Apr. 8, 1977; 42 FR 20817, Apr. 22, 1977; 42 FR 36995, July 19, 1977; 51 FR 7401, Mar. 3, 1986; 52 FR 2686, Jan. 26, 1987; 55 FR 8461, Mar. 8, 1990; 57 FR 8403, Mar. 10, 1992; 57 FR 8578, Mar. 11, 1992; 61 FR 35957, July 9, 1996; 63 FR 38750, July 20, 1998; 67 FR 6868, Feb. 14, 2002; 71 FR 16223, Mar. 31, 2006; 71 FR 27958, May 15, 2006; 76 FR 17027, Mar. 28, 2011; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17610, Mar. 30, 2016; 81 FR 95025, Dec. 27, 2016]
+(iii) Lincomycin as in § 558.325.
+
+[41 FR 11005, Mar. 15, 1976, as amended at 42 FR 18618, Apr. 8, 1977; 42 FR 20817, Apr. 22, 1977; 42 FR 36995, July 19, 1977; 51 FR 7401, Mar. 3, 1986; 52 FR 2686, Jan. 26, 1987; 55 FR 8461, Mar. 8, 1990; 57 FR 8403, Mar. 10, 1992; 57 FR 8578, Mar. 11, 1992; 61 FR 35957, July 9, 1996; 63 FR 38750, July 20, 1998; 67 FR 6868, Feb. 14, 2002; 71 FR 16223, Mar. 31, 2006; 71 FR 27958, May 15, 2006; 76 FR 17027, Mar. 28, 2011; 79 FR 10983, Feb. 27, 2014; 79 FR 13546, Mar. 11, 2014; 81 FR 17610, Mar. 30, 2016; 81 FR 95025, Dec. 27, 2016; 82 FR 21693, May 10, 2017]

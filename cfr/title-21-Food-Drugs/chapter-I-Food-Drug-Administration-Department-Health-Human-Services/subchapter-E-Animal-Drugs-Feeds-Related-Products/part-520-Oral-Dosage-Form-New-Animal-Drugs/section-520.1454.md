@@ -2,7 +2,7 @@
 
 (a) *Specifications.* Each milliliter (mL) of solution contains 1 milligram (mg) moxidectin.
 
-(b) *Sponsor.* See No. 000010 in § 510.600(c) of this chapter.
+(b) *Sponsor.* See No. 000859 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See § 556.426 of this chapter.
 
@@ -14,4 +14,4 @@
 
 (3) *Limitations.* Sheep must not be slaughtered for human consumption within 7 days of treatment. Because a withholding time in milk has not been established for this product, do not use in female sheep providing milk for human consumption.
 
-[70 FR 76163, Dec. 23, 2005, as amended at 76 FR 48714, Aug. 9, 2011]
+[70 FR 76163, Dec. 23, 2005, as amended at 76 FR 48714, Aug. 9, 2011; 82 FR 21690, May 10, 2017]

@@ -22,10 +22,10 @@
 
 (iii) An estimate of the volume of records or information withheld, when appropriate, in number of pages or in some other reasonable form of estimation. This estimate does not need to be provided if the volume is otherwise indicated through deletions on records disclosed in part, or if providing an estimate would harm an interest protected by an applicable exemption; and
 
-(iv) Notice of the right of the requester to appeal to the head of the agency, within a period determined by the head of the agency that is not less than 90 days after the date of such adverse determination; and
+(iv) Notice of the right of the requester to appeal to the head of the agency, within a period determined by the head of the agency that is not less than 90 days after the date of such adverse determination;
 
-(v) Notice of the right of the requester to seek dispute resolution services from the FOIA Public Liaison of the agency or the Office of Government Information Services; and
+(v) Notice of the right of the requester to seek dispute resolution services from the FOIA Public Liaison of the agency or the Office of Government Information Services;
 
 (vi) A statement that the denial may be appealed as provided by § 15.109 and a description of the requirements for appeal.
 
-[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017]
+[80 FR 49145, Aug. 17, 2015, as amended at 82 FR 3622, Jan. 12, 2017; 82 FR 21694, May 10, 2017]

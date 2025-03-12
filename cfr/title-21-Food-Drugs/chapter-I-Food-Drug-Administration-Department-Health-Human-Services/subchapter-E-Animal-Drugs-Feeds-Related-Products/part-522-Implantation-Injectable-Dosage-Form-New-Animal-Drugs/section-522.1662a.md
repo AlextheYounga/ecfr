@@ -72,7 +72,7 @@
 
 (vii) Not for use in lactating dairy animals. Do not administer to laying hens unless the eggs are used for hatching only.
 
-(e)(1) *Specifications.* Each milliliter of sterile solution contains 100 milligrams of oxytetracycline hydrochloride.
+(e)(1) *Specifications.* Each milliliter of solution contains 100 milligrams of oxytetracycline hydrochloride.
 
 (2) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
@@ -80,7 +80,7 @@
 
 (*b*) *Indications for use.* Treatment of diseases due to oxytetracycline-susceptible organisms as follows: Pneumonia and shipping fever complex associated with *Pasteurella* spp. and *Haemophilus* spp., foot-rot and diphtheria caused by *Fusobacterium necrophorum,* bacterial enteritis (scours) caused by *Escherichia coli,* wooden tongue caused by *Actinobacillus lignieresii,* leptospirosis caused by *Leptospira pomona,* and wound infections and acute metritis caused by *Staphylococcus* spp. and *Streptococcus* spp. If labeled for use by or on the order of a licensed veterinarian, it may be used for the treatment of anaplasmosis caused by *Anaplasma marginale* and anthrax caused by *Bacillus anthracis.*
 
-(*c*) *Limitations.* Administer intramuscularly. Treatment of all diseases should be instituted early and continue for 24 to 48 hours beyond remission of disease symptoms, but not to exceed a total of 4 consecutive days. Consult your veterinarian if no improvement is noted within 48 hours. Do not inject more than 10 milliliters per site in adult cattle, reducing the volume according to age and body size to 1 to 2 milliliters in small calves. Exceeding the highest recommended dose of 5 milligrams per pound of body weight, administering at recommended levels for more than 4 consecutive days, and/or exceeding 10 milliliters intramuscularly per injection site may result in antibiotic residues beyond the withdrawal time. Discontinue treatment at least 15 days prior to slaughter. Not for use in lactating dairy cattle.
+(*c*) *Limitations.* Administer intramuscularly. Treatment of all diseases should be instituted early and continue for 24 to 48 hours beyond remission of disease symptoms, but not to exceed a total of 4 consecutive days. Consult your veterinarian if no improvement is noted within 48 hours. Do not inject more than 10 milliliters per site in adult cattle, reducing the volume according to age and body size to 1 to 2 milliliters in small calves. Exceeding the highest recommended dose of 5 milligrams per pound of body weight per day, administering more than the recommended number of treatments, and/or exceeding 10 milliliters intramuscularly or subcutaneously per injection site in adult beef and dairy cattle may result in antibiotic residues beyond the withdrawal period. Discontinue treatment at least 15 days prior to slaughter. Not for use in lactating dairy cattle.
 
 (ii) *Swine* - (*a*) *Amount.* 3 to 5 milligrams of oxytetracycline per pound of body weight per day. Sows: 3 milligrams of oxytetracycline per pound of body weight, administered once, approximately 8 hours before farrowing or immediately after completion of farrowing.
 

@@ -1,6 +1,6 @@
 ##### § 522.90b Ampicillin trihydrate powder for injection. #####
 
-(a) *Specifications.* Each milliliter of aqueous suspension constituted from ampicillin trihydrate powder contains 50, 100, or 250 milligrams (mg) ampicillin equivalents.
+(a) *Specifications.* Each milliliter of aqueous suspension constituted from ampicillin trihydrate powder contains 200, 250, or 400 milligrams (mg) ampicillin equivalents.
 
 (b) *Sponsors.* See Nos. 000010 and 010515 in § 510.600(c) of this chapter.
 
@@ -18,4 +18,4 @@
 
 (iii) *Limitations.* Do not treat cattle for more than 7 days. Milk from treated cows must not be used for food during treatment and for 48 hours (4 milkings) after the last treatment. Cattle must not be slaughtered for food during treatment and for 144 hours (6 days) after the last treatment. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[57 FR 37331, Aug. 18, 1992; 57 FR 42623, Sept. 15, 1992; 58 FR 18304, Apr. 8, 1993; 63 FR 41420, Aug. 4, 1998; 75 FR 10167, Mar. 5, 2010; 76 FR 17338, Mar. 29, 2011; 76 FR 53051, Aug. 25, 2011]
+[57 FR 37331, Aug. 18, 1992; 57 FR 42623, Sept. 15, 1992; 58 FR 18304, Apr. 8, 1993; 63 FR 41420, Aug. 4, 1998; 75 FR 10167, Mar. 5, 2010; 76 FR 17338, Mar. 29, 2011; 76 FR 53051, Aug. 25, 2011; 82 FR 21690, May 10, 2017]
