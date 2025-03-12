@@ -1,5 +1,7 @@
 ##### § 203.50 Eligibility of rehabilitation loans. #####
 
+Link to an amendment published at 84 FR 41877, Aug. 15, 2019.
+
 A rehabilitation loan which meets the requirements of this subpart, except as modified by this section, shall be eligible for insurance under section 203(k) of the National Housing Act.
 
 (a) For the purpose of this section:

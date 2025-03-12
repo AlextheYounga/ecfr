@@ -1,5 +1,7 @@
 ##### § 206.131 Contract rights and obligations for mortgages on individual dwelling units in a condominium. #####
 
+Link to an amendment published at 84 FR 41877, Aug. 15, 2019.
+
 (a) *Additional requirements.* The requirements of this subpart shall be applicable to mortgages on individual dwelling units in a condominium, except as modified by this section.
 
 (b) *References.* The term *property* as used in this subpart shall be construed to include the individual dwelling unit and the undivided interest in the common areas and facilities as may be designated.

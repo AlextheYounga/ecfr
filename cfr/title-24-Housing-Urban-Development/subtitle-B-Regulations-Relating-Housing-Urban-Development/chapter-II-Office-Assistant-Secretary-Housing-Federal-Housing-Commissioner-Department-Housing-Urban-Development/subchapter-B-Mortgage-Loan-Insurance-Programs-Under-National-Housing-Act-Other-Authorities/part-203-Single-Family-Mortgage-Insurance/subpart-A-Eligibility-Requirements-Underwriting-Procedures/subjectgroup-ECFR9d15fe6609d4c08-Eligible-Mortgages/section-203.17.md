@@ -1,5 +1,7 @@
 ##### § 203.17 Mortgage provisions. #####
 
+Link to an amendment published at 84 FR 41875, Aug. 15, 2019.
+
 (a) *Mortgage form.* (1) The term *mortgage* as used in this part, except § 203.43c, means a first lien as is commonly given to secure advances on, or the unpaid purchase price of, real estate under the laws of the jurisdiction where the property is located, and may refer both to a security instrument creating a lien, whether called a *mortgage, deed of trust, security deed* or another term used in a particular jurisdiction, as well as the credit instrument, or note, secured thereby.
 
 (2)(i) The mortgage shall be in a form meeting the requirements of the Commissioner. The Commissioner may prescribe complete mortgage instruments. For each case in which the Commissioner does not prescribe complete mortgage instruments, the Commissioner
@@ -8,7 +10,7 @@
 
 (B) May also prescribe the language or substance of additional provisions for all mortgages as well as the language or substance of additional provisions for use only in particular jurisdictions or for particular programs.
 
-(ii) Each mortgage shall also contian any provisions necessary to create a valid and enforceable secured debt under the laws of the jurisdiction in which the property is located.
+(ii) Each mortgage shall also contain any provisions necessary to create a valid and enforceable secured debt under the laws of the jurisdiction in which the property is located.
 
 (b) *Mortgage multiples.* A mortgage shall involve a principal obligation in a multiple of $1.
 
