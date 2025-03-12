@@ -1,5 +1,7 @@
 ##### § 4.27 Additional reporting by advisors of certain large commodity pools. #####
 
+Link to an amendment published at 84 FR 67354, Dec. 10, 2019.
+
 (a) *General definitions.* For the purposes of this section:
 
 (1) *Commodity pool operator* or *CPO* has the same meaning as commodity pool operator defined in section 1a(11) of the Commodity Exchange Act;

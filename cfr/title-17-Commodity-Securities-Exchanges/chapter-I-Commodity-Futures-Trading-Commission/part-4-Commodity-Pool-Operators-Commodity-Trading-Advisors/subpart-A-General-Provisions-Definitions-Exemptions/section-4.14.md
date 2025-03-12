@@ -1,5 +1,7 @@
 ##### § 4.14 Exemption from registration as a commodity trading advisor. #####
 
+Link to an amendment published at 84 FR 67368, Dec. 10, 2019.
+
 This section is organized as follows: Paragraph (a) of this section specifies the criteria that must be met to qualify for exemption from registration under this section, including the notice of exemption from registration and continuing obligations of persons who have claimed exemption under paragraph (a)(8) of this section; paragraph (b) of this section concerns “cash market transactions”; and paragraph (c) of this section specifies the effect of registration on a person who has claimed an exemption from registration under this section or who is eligible to claim an exemption from registration hereunder.
 
 (a) A person is not required to register under the Act as a commodity trading advisor if:

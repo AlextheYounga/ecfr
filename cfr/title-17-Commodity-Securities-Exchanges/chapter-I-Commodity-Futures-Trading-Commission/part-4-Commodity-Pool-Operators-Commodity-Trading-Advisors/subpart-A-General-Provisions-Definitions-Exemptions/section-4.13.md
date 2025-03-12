@@ -1,5 +1,7 @@
 ##### § 4.13 Exemption from registration as a commodity pool operator. #####
 
+Link to an amendment published at 84 FR 67368, Dec. 10, 2019.
+
 This section is organized as follows: Paragraph (a) of this section specifies the criteria that must be met to qualify for exemption from registration under this section; paragraph (b) of this section governs the notice that must be filed to claim exemption from registration; paragraph (c) of this section sets forth the continuing obligations of a person who has claimed exemption under this section; paragraph (d) of this section specifies information certain persons must provide if they subsequently register; paragraph (e) of this section specifies the effect of registration on a person who has claimed an exemption from registration under this section or who is eligible to claim an exemption from registration hereunder; and paragraph (f) of this section specifies the effect of this section on § 4.5 of this chapter.
 
 (a) A person is not required to register under the Act as a commodity pool operator if:
