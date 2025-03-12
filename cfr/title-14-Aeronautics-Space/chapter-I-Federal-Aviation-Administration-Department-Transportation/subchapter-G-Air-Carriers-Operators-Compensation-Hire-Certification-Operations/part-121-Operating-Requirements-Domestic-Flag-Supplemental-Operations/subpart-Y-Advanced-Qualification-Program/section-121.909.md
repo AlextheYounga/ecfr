@@ -1,6 +1,6 @@
 ##### § 121.909 Approval of Advanced Qualification Program. #####
 
-(a) *Approval process.* Application for approval of an AQP curriculum under this subpart is made, through the FAA office responsible for approval of the certificate holder's operations specifications, to the Manager of the Advanced Qualification Program.
+(a) *Approval process.* Application for approval of an AQP curriculum under this subpart is made, through the FAA office responsible for approval of the certificate holder's operations specifications, to the Manager of the Air Transportation Division.
 
 (b) *Approval criteria.* Each AQP must have separate curriculums for indoctrination, qualification, and continuing qualification (including upgrade, transition, and requalification), as specified in §§ 121.911, 121.913, and 121.915. All AQP curriculums must be based on an instructional systems development methodology. This methodology must incorporate a thorough analysis of the certificate holder's operations, aircraft, line environment and job functions. All AQP qualification and continuing qualification curriculums must integrate the training and evaluation of CRM and technical skills and knowledge. An application for approval of an AQP curriculum may be approved if the program meets the following requirements:
 
@@ -29,3 +29,5 @@
 (d) *Advanced Qualification Program revisions or rescissions of approval.* If after a certificate holder begins training and qualification under an AQP, the FAA finds the certificate holder is not meeting the provisions of its approved AQP, the FAA may require the certificate holder, pursuant to § 121.405(e), to make revisions. Or if otherwise warranted, the FAA may withdraw AQP approval and require the certificate holder to submit and obtain approval for a plan (containing a schedule of events) that the certificate holder must comply with and use to transition to an approved training program under subpart N of this part or under subpart H of part 135 of this chapter, as appropriate. The certificate holder may also voluntarily submit and obtain approval for a plan (containing a schedule of events) to transition to an approved training program under subpart N of this part or under subpart H of part 135 of this chapter, as appropriate.
 
 (e) *Approval by the FAA.* Final approval of an AQP by the FAA indicates the FAA has accepted the justification provided under paragraph (b)(4) of this section and the applicant's initial justification and continuing process establish an equivalent level of safety for each requirement of parts 61, 63, 65, 121, and 135 of this chapter that is being replaced.
+
+[Docket No. FAA-2005-20750, 70 FR 54815, Sept. 16, 2005, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]

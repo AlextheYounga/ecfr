@@ -1,14 +1,14 @@
 ##### § 142.11 Application for issuance or amendment. #####
 
-(a) An application for a training center certificate and training specifications shall -
+(a) An application for a training center certificate and training specifications shall—
 
 (1) Be made on a form and in a manner prescribed by the Administrator;
 
-(2) Be filed with the FAA Flight Standards District Office that has jurisdiction over the area in which the applicant's principal business office is located; and
+(2) Be filed with the responsible Flight Standards office for the area in which the applicant's principal business office is located; and
 
 (3) Be made at least 120 calendar days before the beginning of any proposed training or 60 calendar days before effecting an amendment to any approved training, unless a shorter filing period is approved by the Administrator.
 
-(b) Each application for a training center certificate and training specification shall provide -
+(b) Each application for a training center certificate and training specification shall provide—
 
 (1) A statement showing that the minimum qualification requirements for each management position are met or exceeded;
 
@@ -30,17 +30,17 @@
 
 (10) A method of demonstrating the applicant's qualification and ability to provide training for a certificate or rating in fewer than the minimum hours prescribed in part 61 of this chapter if the applicant proposes to do so.
 
-(c) The facilities and equipment described in paragraph (b)(6) of this section shall -
+(c) The facilities and equipment described in paragraph (b)(6) of this section shall—
 
 (1) Be available for inspection and evaluation prior to approval; and
 
 (2) Be in place and operational at the location of the proposed training center prior to issuance of a certificate under this part.
 
-(d) An applicant who meets the requirements of this part and is approved by the Administrator is entitled to -
+(d) An applicant who meets the requirements of this part and is approved by the Administrator is entitled to—
 
 (1) A training center certificate containing all business names included on the application under which the certificate holder may conduct operations and the address of each business office used by the certificate holder; and
 
-(2) Training specifications, issued by the Administrator to the certificate holder, containing -
+(2) Training specifications, issued by the Administrator to the certificate holder, containing—
 
 (i) The type of training authorized, including approved courses;
 
@@ -56,11 +56,11 @@
 
 (vii) Any other items the Administrator may require or allow.
 
-(e) The Administrator may deny, suspend, revoke, or terminate a certificate under this part if the Administrator finds that the applicant or the certificate holder -
+(e) The Administrator may deny, suspend, revoke, or terminate a certificate under this part if the Administrator finds that the applicant or the certificate holder—
 
 (1) Held a training center certificate that was revoked, suspended, or terminated within the previous 5 years; or
 
-(2) Employs or proposes to employ a person who -
+(2) Employs or proposes to employ a person who—
 
 (i) Was previously employed in a management or supervisory position by the holder of a training center certificate that was revoked, suspended, or terminated within the previous 5 years;
 
@@ -72,7 +72,7 @@
 
 (4) Should not be granted a certificate if the grant would not foster aviation safety.
 
-(f) At any time, the Administrator may amend a training center certificate -
+(f) At any time, the Administrator may amend a training center certificate—
 
 (1) On the Administrator's own initiative, under section 609 of the Federal Aviation Act of 1958 (49 U.S.C. 1429), as amended, and part 13 of this chapter; or
 
@@ -80,4 +80,4 @@
 
 (g) The certificate holder must file an application to amend a training center certificate at least 60 calendar days prior to the applicant's proposed effective amendment date unless a different filing period is approved by the Administrator.
 
-[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997]
+[Doc. No. 26933, 61 FR 34562, July 2, 1996, as amended by Amdt. 142-1, 62 FR 13791, Mar. 21, 1997; Docket FAA-2018-0119, Amdt. 142-10, 83 FR 9176, Mar. 5, 2018]

@@ -1,0 +1,3 @@
+##### § 510.321 Payable-through account. #####
+
+The term *payable-through account* means a correspondent account maintained by a U.S. financial institution for a foreign financial institution by means of which the foreign financial institution permits its customers to engage, either directly or through a subaccount, in banking activities usual in connection with the business of banking in the United States.

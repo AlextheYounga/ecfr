@@ -2,7 +2,7 @@
 
 (a) *Early ETOPS: reporting, tracking, and resolving problems.* The holder of a type certificate for an airplane-engine combination approved using the Early ETOPS method specified in part 25, Appendix K, of this chapter must use a system for reporting, tracking, and resolving each problem resulting in one of the occurrences specified in paragraph (a)(6) of this section.
 
-(1) The system must identify how the type certificate holder will promptly identify problems, report them to the responsible FAA aircraft certification office, and propose a solution to the FAA to resolve each problem. A proposed solution must consist of -
+(1) The system must identify how the type certificate holder will promptly identify problems, report them to the responsible Aircraft Certification Service office, and propose a solution to the FAA to resolve each problem. A proposed solution must consist of—
 
 (i) A change in the airplane or engine type design;
 
@@ -14,7 +14,7 @@
 
 (2) For an airplane with more than two engines, the system must be in place for the first 250,000 world fleet engine-hours for the approved airplane-engine combination.
 
-(3) For two-engine airplanes, the system must be in place for the first 250,000 world fleet engine-hours for the approved airplane-engine combination and after that until -
+(3) For two-engine airplanes, the system must be in place for the first 250,000 world fleet engine-hours for the approved airplane-engine combination and after that until—
 
 (i) The world fleet 12-month rolling average IFSD rate is at or below the rate required by paragraph (b)(2) of this section; and
 
@@ -51,7 +51,7 @@
 
 (x) Any unscheduled engine removal for a condition that could result in one of the reportable occurrences listed in this paragraph.
 
-(b) *Reliability of two-engine airplanes* - (1) *Reporting of two-engine airplane in-service reliability.* The holder of a type certificate for an airplane approved for ETOPS and the holder of a type certificate for an engine installed on an airplane approved for ETOPS must report monthly to their respective FAA type certificate holding office on the reliability of the world fleet of those airplanes and engines. The report provided by both the airplane and engine type certificate holders must address each airplane-engine combination approved for ETOPS. The FAA may approve quarterly reporting if the airplane-engine combination demonstrates an IFSD rate at or below those specified in paragraph (b)(2) of this section for a period acceptable to the FAA. This reporting may be combined with the reporting required by § 21.3. The responsible type certificate holder must investigate any cause of an IFSD resulting from an occurrence attributable to the design of its product and report the results of that investigation to its FAA office responsible for administering its type certificate. Reporting must include:
+(b) *Reliability of two-engine airplanes*—(1) *Reporting of two-engine airplane in-service reliability.* The holder of a type certificate for an airplane approved for ETOPS and the holder of a type certificate for an engine installed on an airplane approved for ETOPS must report monthly to their respective Aircraft Certification Service office on the reliability of the world fleet of those airplanes and engines. The report provided by both the airplane and engine type certificate holders must address each airplane-engine combination approved for ETOPS. The FAA may approve quarterly reporting if the airplane-engine combination demonstrates an IFSD rate at or below those specified in paragraph (b)(2) of this section for a period acceptable to the FAA. This reporting may be combined with the reporting required by § 21.3. The responsible type certificate holder must investigate any cause of an IFSD resulting from an occurrence attributable to the design of its product and report the results of that investigation to its responsible Aircraft Certification Service office. Reporting must include:
 
 (i) Engine IFSDs, except planned IFSDs performed for flight training.
 
@@ -67,4 +67,4 @@
 
 (iii) A rate of 0.01 per 1,000 world-fleet engine-hours for an airplane-engine combination approved for ETOPS beyond 180 minutes, excluding airplane-engine combinations approved for 207-minute ETOPS in the North Pacific operating area under appendix P, section I, paragraph (h), of part 121 of this chapter.
 
-[Doc. No. FAA-2002-6717, 72 FR 1872, Jan. 16, 2007]
+[Doc. No. FAA-2002-6717, 72 FR 1872, Jan. 16, 2007, as amended by Doc. No. FAA-2018-0119, Amdt. 21-101, 83 FR 9169, Mar. 5, 2018]

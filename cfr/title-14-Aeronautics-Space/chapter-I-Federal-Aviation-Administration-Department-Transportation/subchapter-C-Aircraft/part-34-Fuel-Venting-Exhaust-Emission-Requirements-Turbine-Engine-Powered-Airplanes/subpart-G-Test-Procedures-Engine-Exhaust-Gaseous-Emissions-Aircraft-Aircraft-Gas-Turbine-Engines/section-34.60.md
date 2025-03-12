@@ -8,7 +8,7 @@
 
 (d) Test engines must reach a steady operating temperature before the start of emission measurements.
 
-(e) In consultation with the EPA, the FAA may approve alternative procedures for measuring emissions, including testing and sampling methods, analytical techniques, and equipment specifications that differ from those specified in this part. Manufacturers and operators may request approval of alternative procedures by written request with supporting justification to the FAA Aircraft Certification Office and to the Designated EPA Program Officer. To be approved, one of the following conditions must be met:
+(e) In consultation with the EPA, the FAA may approve alternative procedures for measuring emissions, including testing and sampling methods, analytical techniques, and equipment specifications that differ from those specified in this part. Manufacturers and operators may request approval of alternative procedures by written request with supporting justification to the FAA and to the Designated EPA Program Officer. To be approved, one of the following conditions must be met:
 
 (1) The engine cannot be tested using the specified procedures; or
 
@@ -32,4 +32,4 @@ LTO Test Cycles and Time in Mode
 
 (h) The system and procedure for sampling and measurement of gaseous emissions shall be as specified by in Appendices 2, 3, 4, 5 and 6 to the International Civil Aviation Organization (ICAO) Annex 16, Environmental Protection, Volume II, Aircraft Engine Emissions, Third Edition, July 2008. This incorporation by reference was approved by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. This document can be obtained from the ICAO, Document Sales Unit, 999 University Street, Montreal, Quebec H3C 5H7, Canada, phone + 1 514-954-8022, or *www.icao.int* or *sales25icao.int.* Copies can be reviewed at the FAA New England Regional Office, 12 New England Executive Park, Burlington, Massachusetts, 781-238-7101, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
-[Doc. No. FAA-2012-1333, 77 FR 76853, Dec. 31, 2012]
+[Doc. No. FAA-2012-1333, 77 FR 76853, Dec. 31, 2012, as amended by Doc. No. FAA-2018-0119, Amdt. 34-6, 83 FR 9170, Mar. 5, 2018]

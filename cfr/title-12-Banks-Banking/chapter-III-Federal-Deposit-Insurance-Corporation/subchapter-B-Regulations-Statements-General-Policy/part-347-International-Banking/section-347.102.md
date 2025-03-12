@@ -1,5 +1,7 @@
 ##### § 347.102 Definitions. #####
 
+Link to an amendment published at 83 FR 9143, Mar. 5, 2018.
+
 For the purposes of this subpart:
 
 (a) An affiliate of an insured state nonmember bank means:

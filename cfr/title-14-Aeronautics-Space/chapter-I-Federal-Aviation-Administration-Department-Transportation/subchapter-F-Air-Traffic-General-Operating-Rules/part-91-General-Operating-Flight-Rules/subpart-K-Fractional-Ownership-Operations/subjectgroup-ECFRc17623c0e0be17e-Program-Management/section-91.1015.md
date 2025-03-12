@@ -30,7 +30,7 @@
 
 (2) The Administrator suspends or revokes the management specifications.
 
-(d) At least 30 days before it proposes to establish or change the location of its principal base of operations, its main operations base, or its main maintenance base, a program manager must provide written notification to the Flight Standards District Office that issued the program manager's management specifications.
+(d) At least 30 days before it proposes to establish or change the location of its principal base of operations, its main operations base, or its main maintenance base, a program manager must provide written notification to the Flight Standards office that issued the program manager's management specifications.
 
 (e) Each program manager must maintain a complete and separate set of its management specifications at its principal base of operations, or at a place approved by the Administrator, and must make its management specifications available for inspection by the Administrator and the fractional owner(s) to whom the program manager furnishes its services for review and audit.
 
@@ -41,3 +41,5 @@
 (2) State that compliance with each management specifications requirement is mandatory.
 
 (g) Each program manager must keep each of its employees and other persons who perform duties material to its operations informed of the provisions of its management specifications that apply to that employee's or person's duties and responsibilities.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]

@@ -2,9 +2,9 @@
 
 (a)(1) *Applicability.* This section applies to all certificate holders operating under this part, except for on-demand operations with aircraft having 19 or fewer passenger seats and commuter operations with aircraft having 9 or fewer passenger seats.
 
-(2) *Duty to make determination of suitability.* Each certificate holder shall determine, to the extent necessary to perform the applicable functions of paragraph (d) of this section, the suitability of each person it permits to occupy an exit seat. For the purpose of this section -
+(2) *Duty to make determination of suitability.* Each certificate holder shall determine, to the extent necessary to perform the applicable functions of paragraph (d) of this section, the suitability of each person it permits to occupy an exit seat. For the purpose of this section—
 
-(i) *Exit seat* means -
+(i) *Exit seat* means—
 
 (A) Each seat having direct access to an exit; and
 
@@ -16,7 +16,7 @@
 
 (4) *Submission of designation for approval.* Each certificate holder shall designate the exit seats for each passenger seating configuration in its fleet in accordance with the definitions in this paragraph and submit those designations for approval as part of the procedures required to be submitted for approval under paragraphs (n) and (p) of this section.
 
-(b) No certificate holder may seat a person in a seat affected by this section if the certificate holder determines that it is likely that the person would be unable to perform one or more of the applicable functions listed in paragraph (d) of this section because -
+(b) No certificate holder may seat a person in a seat affected by this section if the certificate holder determines that it is likely that the person would be unable to perform one or more of the applicable functions listed in paragraph (d) of this section because—
 
 (1) The person lacks sufficient mobility, strength, or dexterity in both arms and hands, and both legs:
 
@@ -80,9 +80,9 @@
 
 (10) Assess, select, and follow a safe path away from the emergency exit.
 
-(e) Each certificate holder shall include on passenger information cards, at each exit seat -
+(e) Each certificate holder shall include on passenger information cards, at each exit seat—
 
-(1) In the primary language in which emergency commands are given by the crew, the selection criteria set forth in paragraph (b) of this section, and a request that a passenger identify himself or herself to allow reseating if he or she -
+(1) In the primary language in which emergency commands are given by the crew, the selection criteria set forth in paragraph (b) of this section, and a request that a passenger identify himself or herself to allow reseating if he or she—
 
 (i) Cannot meet the selection criteria set forth in paragraph (b) of this section;
 
@@ -106,7 +106,7 @@ A certificate holder shall not require the passenger to disclose his or her reas
 
 (h) Each certificate holder shall include in its passenger briefings a reference to the passenger information cards, required by paragraphs (d) and (e), the selection criteria set forth in paragraph (b), and the functions to be performed, set forth in paragraph (d) of this section.
 
-(i) Each certificate holder shall include in its passenger briefings a request that a passenger identify himself or herself to allow reseating if he or she -
+(i) Each certificate holder shall include in its passenger briefings a request that a passenger identify himself or herself to allow reseating if he or she—
 
 (1) Cannot meet the selection criteria set forth in paragraph (b) of this section;
 
@@ -124,13 +124,13 @@ A certificate holder shall not require the passenger to disclose his or her reas
 
 (l) In the event of full booking in the non-exit seats and if necessary to accommodate a passenger being relocated from an exit seat, the certificate holder shall move a passenger who is willing and able to assume the evacuation functions that may be required, to an exit seat.
 
-(m) A certificate holder may deny transportation to any passenger under this section only because -
+(m) A certificate holder may deny transportation to any passenger under this section only because—
 
 (1) The passenger refuses to comply with instructions given by a crewmember or other authorized employee of the certificate holder implementing exit seating restrictions established in accordance with this section, or
 
 (2) The only seat that will physically accommodate the person's handicap is an exit seat.
 
-(n) In order to comply with this section certificate holders shall -
+(n) In order to comply with this section certificate holders shall—
 
 (1) Establish procedures that address:
 
@@ -142,10 +142,10 @@ A certificate holder shall not require the passenger to disclose his or her reas
 
 (iv) How to resolve disputes arising from implementation of this section, including identification of the certificate holder employee on the airport to whom complaints should be addressed for resolution; and,
 
-(2) Submit their procedures for preliminary review and approval to the principal operations inspectors assigned to them at the certificate-holding district office.
+(2) Submit their procedures for preliminary review and approval to the principal operations inspectors assigned to them at the responsible Flight Standards office.
 
 (o) Certificate holders shall assign seats prior to boarding consistent with the criteria listed in paragraph (b) and the functions listed in paragraph (d) of this section, to the maximum extent feasible.
 
-(p) The procedures required by paragraph (n) of this section will not become effective until final approval is granted by the Director, Flight Standards Service, Washington, DC. Approval will be based solely upon the safety aspects of the certificate holder's procedures.
+(p) The procedures required by paragraph (n) of this section will not become effective until final approval is granted by the Executive Director, Flight Standards Service, Washington, DC. Approval will be based solely upon the safety aspects of the certificate holder's procedures.
 
-[Doc. No. 25821, 55 FR 8073, Mar. 6, 1990, as amended by Amdt. 135-45, 57 FR 48664, Oct. 27, 1992; Amdt. 135-50, 59 FR 33603, June 29, 1994; Amdt. 135-60, 61 FR 2616, Jan. 26, 1996]
+[Doc. No. 25821, 55 FR 8073, Mar. 6, 1990, as amended by Amdt. 135-45, 57 FR 48664, Oct. 27, 1992; Amdt. 135-50, 59 FR 33603, June 29, 1994; Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018]

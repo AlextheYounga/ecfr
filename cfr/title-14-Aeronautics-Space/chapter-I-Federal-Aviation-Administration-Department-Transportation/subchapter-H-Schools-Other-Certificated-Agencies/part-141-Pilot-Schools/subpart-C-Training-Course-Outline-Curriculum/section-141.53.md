@@ -2,7 +2,7 @@
 
 (a) *General.* An applicant for a pilot school certificate or provisional pilot school certificate must obtain the Administrator's approval of the outline of each training course for which certification and rating is sought.
 
-(b) *Application.* (1) An application for the approval of an initial or amended training course must be submitted in duplicate to the FAA Flight Standards District Office having jurisdiction over the area where the school is based.
+(b) *Application.* (1) An application for the approval of an initial or amended training course must be submitted in duplicate to the responsible Flight Standards office for the area where the school is based.
 
 (2) An application for the approval of an initial or amended training course must be submitted at least 30 days before any training under that course, or any amendment thereto, is scheduled to begin.
 
@@ -28,4 +28,4 @@
 
 (v) Access control.
 
-[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40908, July 30, 1997; Amdt. 141-12, 74 FR 42563, Aug. 21, 2009; Amdt. 141-15, 76 FR 54107, Aug. 31, 2011]
+[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40908, July 30, 1997; Amdt. 141-12, 74 FR 42563, Aug. 21, 2009; Amdt. 141-15, 76 FR 54107, Aug. 31, 2011, as amended by Docket FAA-2018-0119, Amdt. 141-19, 83 FR 9175, Mar. 5, 2018]

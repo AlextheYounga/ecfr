@@ -1,5 +1,7 @@
 ##### § 29.773 Pilot compartment view. #####
 
+Link to an amendment published at 83 FR 9423, March 6, 2018.
+
 (a) *Nonprecipitation conditions.* For nonprecipitation conditions, the following apply:
 
 (1) Each pilot compartment must be arranged to give the pilots a sufficiently extensive, clear, and undistorted view for safe operation.

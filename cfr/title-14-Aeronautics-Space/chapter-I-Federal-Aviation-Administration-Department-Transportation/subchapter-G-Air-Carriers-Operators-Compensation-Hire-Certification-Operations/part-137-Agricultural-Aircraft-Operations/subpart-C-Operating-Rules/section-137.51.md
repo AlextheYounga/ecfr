@@ -1,6 +1,6 @@
 ##### § 137.51 Operation over congested areas: General. #####
 
-(a) Notwithstanding part 91 of this chapter, an aircraft may be operated over a congested area at altitudes required for the proper accomplishment of the agricultural aircraft operation if the operation is conducted -
+(a) Notwithstanding part 91 of this chapter, an aircraft may be operated over a congested area at altitudes required for the proper accomplishment of the agricultural aircraft operation if the operation is conducted—
 
 (1) With the maximum safety to persons and property on the surface, consistent with the operation; and
 
@@ -12,7 +12,7 @@
 
 (2) Notice of the intended operation must be given to the public by some effective means, such as daily newspapers, radio, television, or door-to-door notice.
 
-(3) A plan for each complete operation must be submitted to, and approved by appropriate personnel of the FAA Flight Standards District Office having jurisdiction over the area where the operation is to be conducted. The plan must include consideration of obstructions to flight; the emergency landing capabilities of the aircraft to be used; and any necessary coordination with air traffic control.
+(3) A plan for each complete operation must be submitted to, and approved by appropriate personnel of the responsible Flight Standards office for the area where the operation is to be conducted. The plan must include consideration of obstructions to flight; the emergency landing capabilities of the aircraft to be used; and any necessary coordination with air traffic control.
 
 (4) Single engine aircraft must be operated as follows:
 
@@ -30,4 +30,4 @@
 
 (iii) No person may operate any multiengine aircraft over a congested area below the altitudes prescribed in part 91 of this chapter except during the actual dispensing operation, including the approaches, departures, and turnarounds necessary for that operation.
 
-[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Doc. No. 8084, 32 FR 5769, Apr. 11, 1967; Amdt. 137-13, 54 FR 39294, Sept. 25, 1989]
+[Doc. No. 1464, 30 FR 8106, June 24, 1965, as amended by Doc. No. 8084, 32 FR 5769, Apr. 11, 1967; Amdt. 137-13, 54 FR 39294, Sept. 25, 1989; Docket FAA-2018-0119, Amdt. 137-17, 83 FR 9175, Mar. 5, 2018]

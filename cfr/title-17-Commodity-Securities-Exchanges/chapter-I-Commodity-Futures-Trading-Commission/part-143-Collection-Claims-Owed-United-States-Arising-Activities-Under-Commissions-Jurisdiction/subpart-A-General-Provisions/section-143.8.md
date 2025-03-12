@@ -1,117 +1,37 @@
 ##### § 143.8 Inflation-adjusted civil monetary penalties. #####
 
-(a) Unless otherwise amended by an act of Congress, the inflation-adjusted maximum civil monetary penalty for each violation of the Commodity Exchange Act or the rules, regulations or orders promulgated thereunder that may be assessed or enforced under the Commodity Exchange Act in an administrative proceeding before the Commission or a civil action in Federal court will be:
+(a) *Statutory inflation adjustment of civil monetary penalties.* The Inflation Adjustment Act of 1990, as amended, requires annual inflation adjustments to the civil monetary penalties imposed under the Commodity Exchange Act for violations that occurred on or after November 2, 2015. The Commission will publish notice of these adjusted penalty amounts in the Federal Register. The inflation adjustment is calculated by multiplying the maximum dollar amount of the civil monetary penalty for the previous calendar year by the cost-of-living inflation adjustment multiplier provided by the Office Management and Budget, which is based on the change in the Consumer Price Index, and rounding the total to the nearest dollar. Set forth in the charts in paragraph (b) of this section are the inflation adjusted penalty amounts for violations occurring on or after November 2, 2015 and the penalty amounts for violations that occurred prior to November 2, 2015. These penalty charts are also available on the Commission's website at: *http://www.cftc.gov/LawRegulation/Enforcement/InflationAdjustedCivilMonetaryPenalties/index.htm.*
 
-(1) For a civil penalty assessed pursuant to Section 6(c) of the Commodity Exchange Act, 7 U.S.C. 9, against any person (other than a registered entity):
+(b) *2018 inflation adjustment.* The maximum amount of each civil monetary penalty in the following charts applies to penalties assessed after March 6, 2018:
 
-(i) In an administrative proceeding before the Commission or a civil action in Federal court initiated prior to August 1, 2016:
+(1) For Non-Manipulation or Attempted Manipulation Violations:
 
-(A) For manipulation or attempted manipulation violations:
+Table 1 to Paragraph (b)(1)
 
-(*1*) Committed on or after May 22, 2008, not more than the greater of $1,000,000 or triple the monetary gain to such person for each such violation; and
+|                                  U.S. Code citation                                   |                        Civil monetary penalty description                        |Date of violation and corresponding penalty|                           |        |        |
+|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|---------------------------|--------|--------|
+|                       10/23/2004  <br/>through  <br/>10/22/2008                       |                    10/23/2008  <br/>through  <br/>10/22/2012                     | 10/23/2012  <br/>through  <br/>11/01/2015 |11/02/2015  <br/>to present|        |        |
+|     Civil Monetary Penalty Imposed by the Commission in an Administrative Action      |                                                                                  |                                           |                           |        |        |
+|                7 U.S.C. 9 (Section 6(c) of the Commodity Exchange Act)                |            For any person other than a registered entity<sup>1</sup>             |                 $130,000                  |         $130,000          |$140,000|$161,115|
+|                7 U.S.C. 13a (Section 6b of the Commodity Exchange Act)                |For a registered entity<sup>1</sup> or any of its directors, officers or employees|                  625,000                  |          675,000          |700,000 |887,509 |
+|Civil Monetary Penalty Imposed by a Federal District Court in a Civil Injunctive Action|                                                                                  |                                           |                           |        |        |
+|               7 U.S.C. 13a-1 (Section 6c of the Commodity Exchange Act)               |                                    Any Person                                    |                  130,000                  |          140,000          |140,000 |177,501 |
 
-(*2*) [Reserved]
+<sup>1</sup> The term “registered entity” is defined in 7 U.S.C. 1a (Section 1a of the Commodity Exchange Act).
 
-(B) For all other violations:
+(2) For Manipulation or Attempted Manipulation Violations:
 
-(*1*) Committed between November 27, 1996 and October 22, 2000, not more than the greater of $110,000 or triple the monetary gain to such person for each such violation;
+Table 1 to Paragraph (b)(2)
 
-(*2*) Committed between October 23, 2000 and October 22, 2004, not more than the greater of $120,000 or triple the monetary gain to such person for each such violation;
+|                                  U.S. Code citation                                   |                        Civil monetary penalty description                        |Date of violation and corresponding penalty|                           |          |          |
+|---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|-------------------------------------------|---------------------------|----------|----------|
+|                       10/23/2004  <br/>through  <br/>05/21/2008                       |                    05/22/2008  <br/>through  <br/>08/14/2011                     | 08/15/2011  <br/>through  <br/>11/01/2015 |11/02/2015  <br/>to present|          |          |
+|     Civil Monetary Penalty Imposed by the Commission in an Administrative Action      |                                                                                  |                                           |                           |          |          |
+|                7 U.S.C. 9 (Section 6(c) of the Commodity Exchange Act)                |            For any person other than a registered entity<sup>1</sup>             |                 $130,000                  |        $1,000,000         |$1,025,000|$1,162,183|
+|                7 U.S.C. 13a (Section 6b of the Commodity Exchange Act)                |For a registered entity<sup>1</sup> or any of its directors, officers or employees|                  625,000                  |         1,000,000         |1,025,000 |1,162,183 |
+|Civil Monetary Penalty Imposed by a Federal District Court In a Civil Injunctive Action|                                                                                  |                                           |                           |          |          |
+|               7 U.S.C. 13a-1 (Section 6c of the Commodity Exchange Act)               |                                    Any Person                                    |                  130,000                  |         1,000,000         |1,025,000 |1,162,183 |
 
-(*3*) Committed between October 23, 2004 and October 22, 2008, not more than the greater of $130,000 or triple the monetary gain to such person for each such violation; and
+<sup>1</sup> The term “registered entity” is defined in 7 U.S.C. 1a (Section 1a of the Commodity Exchange Act).
 
-(*4*) Committed on or after October 23, 2008, not more than the greater of $140,000 or triple the monetary gain to such person for each such violation;
-
-(ii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on August 1, 2016 through January 14, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,098,190 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations:
-
-(*1*) Not more than the greater of $152,243 or triple the monetary gain to such person for each such violation; and
-
-(*2*) [Reserved]
-
-(iii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on or after January 15, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,116,156 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations, not more than the greater of $154,734 or triple the monetary gain to such person for each such violation; and
-
-(2) For a civil monetary penalty assessed pursuant to Section 6(d) of the Commodity Exchange Act, 7 U.S.C. 13b, against any person (other than a registered entity):
-
-(i) In an administrative proceeding before the Commission or a civil action in Federal court initiated prior to August 1, 2016, for violations committed on or after August 15, 2011, not more than the greater of $140,000 or triple the monetary gain to such person for each such violation; and
-
-(ii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on August 1, 2016 through January 14, 2017, not more than the greater of $152,243 or triple the monetary gain to such person for each such violation;
-
-(iii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on or after January 15, 2017, not more than the greater of $154,734 or triple the monetary gain to such person for each such violation; and
-
-(3) For a civil monetary penalty assessed pursuant to Section 6b of the Commodity Exchange Act, 7 U.S.C. 13a, against any registered entity or any director, officer, agent, or employee of any registered entity:
-
-(i) In an administrative proceeding before the Commission or a civil action in Federal court initiated prior to August 1, 2016:
-
-(A) For manipulation or attempted manipulation violations:
-
-(*1*) Committed between May 22, 2008 and August 14, 2011, not more than the greater of $1,000,000 or triple the monetary gain to such person for each such violation;
-
-(*2*) Committed on or after August 15, 2011, not more than the greater of $1,025,000 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations:
-
-(*1*) Committed between November 27, 1996 and October 22, 2000, not more than $550,000 for each such violation;
-
-(*2*) Committed between October 23, 2000 and October 22, 2004, not more than $575,000 for each such violation;
-
-(*3*) Committed between October 23, 2004 and October 22, 2008, not more than $625,000 for each such violation;
-
-(*4*) Committed between October 23, 2008 and October 22, 2012, not more than the greater of $675,000 or triple the monetary gain to such person for each such violation; and
-
-(*5*) Committed on or after October 23, 2012, not more than the greater of $700,000 or triple the monetary gain to such person for each such violation; and
-
-(ii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on August 1, 2016 through January 14, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,098,190 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations, not more than the greater of $838,640 or triple the monetary gain to such person for each such violation;
-
-(iii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on or after January 15, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,116,156 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations, not more than the greater of $852,360 or triple the monetary gain to such person for each such violation; and
-
-(4) For a civil monetary penalty assessed pursuant to Section 6c of the Commodity Exchange Act, 7 U.S.C. 13a-1, against any registered entity or other person:
-
-(i) In an administrative proceeding before the Commission or a civil action in Federal court initiated prior to August 1, 2016:
-
-(A) For manipulation or attempted manipulation violations:
-
-(*1*) Committed between May 22, 2008 and August 14, 2011, not more than the greater of $1,000,000 or triple the monetary gain to such person for each such violation; and
-
-(*2*) Committed on or after August 15, 2011, not more than the greater of $1,025,000 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations:
-
-(*1*) Committed between November 27, 1996 and October 22, 2000, not more than the greater of $110,000 or triple the monetary gain to such person for each such violation;
-
-(*2*) Committed between October 23, 2000 and October 22, 2004, not more than the greater of $120,000 or triple the monetary gain to such person for each such violation;
-
-(*3*) Committed between October 23, 2004 and October 22, 2008, not more than the greater of $130,000 or triple the monetary gain to such person for each such violation; and
-
-(*4*) Committed on or after October 23, 2008, not more than the greater of $140,000 or triple the monetary gain to such person for each such violation;
-
-(ii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on August 1, 2016 through January 14, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,098,190 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations, not more than the greater of $167,728 or triple the monetary gain to such person for each such violation.
-
-(iii) In an administrative proceeding before the Commission or a civil action in Federal court initiated on or after January 15, 2017:
-
-(A) For manipulation or attempted manipulation violations, not more than the greater of $1,116,156 or triple the monetary gain to such person for each such violation; and
-
-(B) For all other violations, not more than the greater of $170,472 or triple the monetary gain to such person for each such violation.
-
-(b) The Commission will adjust for inflation the maximum penalties set forth in this section on a yearly basis.
-
-[61 FR 55566, Oct. 28, 1996, as amended at 77 FR 65102, Oct. 25, 2012; 81 FR 41437, June 27, 2016; 82 FR 7645, Jan. 23, 2017]
+[83 FR 9428, Mar. 6, 2018]

@@ -1,10 +1,8 @@
-##### § 110.2 Definitions #####
+##### § 110.2 Definitions. #####
 
-For the purpose of this subchapter, the term -
+For the purpose of this subchapter, the term—
 
 *All-cargo operation* means any operation for compensation or hire that is other than a passenger-carrying operation or, if passengers are carried, they are only those specified in § 121.583(a) or § 135.85 of this chapter.
-
-*Certificate-holding district office* means the Flight Standards District Office that has responsibility for administering the certificate and is charged with the overall inspection of the certificate holder's operations.
 
 *Commercial air tour* means a flight conducted for compensation or hire in an airplane or helicopter where a purpose of the flight is sightseeing. The FAA may consider the following factors in determining whether a flight is a commercial air tour:
 
@@ -84,21 +82,21 @@ For the purpose of this subchapter, the term -
 
 (2) For all other aircraft, the maximum certificated takeoff weight of an aircraft, less the empty weight, less all justifiable aircraft equipment, and less the operating load (consisting of minimum fuel load, oil, and flightcrew). The allowance for the weight of the crew, oil, and fuel is as follows:
 
-(i) Crew - for each crewmember required by the Federal Aviation Regulations -
+(i) Crew—for each crewmember required by the Federal Aviation Regulations—
 
-(A) For male flightcrew members - 180 pounds.
+(A) For male flightcrew members—180 pounds.
 
-(B) For female flightcrew members - 140 pounds.
+(B) For female flightcrew members—140 pounds.
 
-(C) For male flight attendants - 180 pounds.
+(C) For male flight attendants—180 pounds.
 
-(D) For female flight attendants - 130 pounds.
+(D) For female flight attendants—130 pounds.
 
-(E) For flight attendants not identified by gender - 140 pounds.
+(E) For flight attendants not identified by gender—140 pounds.
 
-(ii) Oil - 350 pounds or the oil capacity as specified on the Type Certificate Data Sheet.
+(ii) Oil—350 pounds or the oil capacity as specified on the Type Certificate Data Sheet.
 
-(iii) Fuel - the minimum weight of fuel required by the applicable Federal Aviation Regulations for a flight between domestic points 174 nautical miles apart under VFR weather conditions that does not involve extended overwater operations.
+(iii) Fuel—the minimum weight of fuel required by the applicable Federal Aviation Regulations for a flight between domestic points 174 nautical miles apart under VFR weather conditions that does not involve extended overwater operations.
 
 *Maximum zero fuel weight* means the maximum permissible weight of an aircraft with no disposable fuel or oil. The zero fuel weight figure may be found in either the aircraft type certificate data sheet, the approved Aircraft Flight Manual, or both.
 
@@ -165,3 +163,5 @@ For the purpose of this subchapter, the term -
 (4) Private carriage.
 
 *Years in service* means the calendar time elapsed since an aircraft was issued its first U.S. or first foreign airworthiness certificate.
+
+[Docket No. FAA-2009-0140, 76 FR 7486, Feb. 10, 2011, as amended by Docket FAA-2018-0119, Amdt. 110-2, 83 FR 9172, Mar. 5, 2018]

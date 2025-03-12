@@ -6,7 +6,7 @@
 
 (c) The principal business office may not be shared with, or used by, another pilot school.
 
-(d) Before changing the location of the principal business office or the operations base, each certificate holder must notify the FAA Flight Standards District Office having jurisdiction over the area of the new location, and the notice must be:
+(d) Before changing the location of the principal business office or the operations base, each certificate holder must notify the responsible Flight Standards office for the area of the new location, and the notice must be:
 
 (1) Submitted in writing at least 30 days before the change of location; and
 
@@ -17,3 +17,5 @@
 (1) The Administrator has inspected and approved the base for use by the certificate holder; and
 
 (2) The course of training and any needed amendments have been approved for use at that base.
+
+[Docket No. 25910, 62 FR 16347, Apr. 4, 1997, as amended by Docket FAA-2018-0119, Amdt. 141-19, 83 FR 9175, Mar. 5, 2018]

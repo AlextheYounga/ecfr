@@ -6,7 +6,7 @@
 
 (c) A certificated repair station must prepare and keep current a quality control manual in a format acceptable to the FAA that includes the following:
 
-(1) A description of the system and procedures used for -
+(1) A description of the system and procedures used for—
 
 (i) Inspecting incoming raw materials to ensure acceptable quality;
 
@@ -30,6 +30,8 @@
 
 (3) A sample of the inspection and maintenance forms and instructions for completing such forms or a reference to a separate forms manual; and
 
-(4) Procedures for revising the quality control manual required under this section and notifying the certificate holding district office of the revisions, including how often the certificate holding district office will be notified of revisions.
+(4) Procedures for revising the quality control manual required under this section and notifying the responsible Flight Standards office of the revisions, including how often the responsible Flight Standards office will be notified of revisions.
 
-(d) A certificated repair station must notify its certificate holding district office of revisions to its quality control manual.
+(d) A certificated repair station must notify its responsible Flight Standards office of revisions to its quality control manual.
+
+[Docket No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended by Docket FAA-2018-0119, Amdt. 145-32, 83 FR 9176, Mar. 5, 2018]

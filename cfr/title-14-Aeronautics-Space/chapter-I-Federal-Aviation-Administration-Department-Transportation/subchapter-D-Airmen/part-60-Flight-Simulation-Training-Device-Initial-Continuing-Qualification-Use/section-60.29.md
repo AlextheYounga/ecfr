@@ -12,13 +12,13 @@
 
 (i) The NSPM finds under paragraph (c) of this section that there is an emergency requiring immediate action with respect to safety in air commerce; or
 
-(ii) The sponsor petitions the Director of Flight Standards Service for reconsideration of the NSPM finding under paragraph (b) of this section.
+(ii) The sponsor petitions the Executive Director of Flight Standards Service for reconsideration of the NSPM finding under paragraph (b) of this section.
 
 (b) When a sponsor seeks reconsideration of a decision from the NSPM concerning the FSTD qualification, the following procedure applies:
 
 (1) The sponsor must petition for reconsideration of that decision within 30 days of the date that the sponsor receives a notice that some or all of the FSTD is no longer qualified.
 
-(2) The sponsor must address its petition to the Director, Flight Standards Service, AFS-1, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591.
+(2) The sponsor must address its petition to the Executive Director, Flight Standards Service, Federal Aviation Administration, 800 Independence Ave., SW., Washington, DC 20591.
 
 (3) A petition for reconsideration, if filed within the 30-day period, suspends the effectiveness of the determination by the NSPM that the FSTD is no longer qualified unless the NSPM has found, under paragraph (c) of this section, that an emergency exists requiring immediate action with respect to safety in air commerce.
 
@@ -35,3 +35,5 @@
 (2) The FSTD successfully passes an evaluation for those elements of an initial qualification evaluation, in accordance with §§ 60.15 and 60.17(c), as determined to be necessary by the NSPM.
 
 (e) In making the determinations described in paragraph (d) of this section, the NSPM considers factors including the reason for the loss of qualification, any repairs or replacements that may have to have been completed, the number of continuing qualification evaluations missed, the number of sponsor-conducted quarterly inspections missed, and the care that had been taken of the device since the loss of qualification.
+
+[Docket No. FAA-2002-12461, 71 FR 63426, Oct. 30, 2006, as amended by Docket FAA-2018-0119, Amdt. 60-5, 83 FR 9170, Mar. 5, 2018]

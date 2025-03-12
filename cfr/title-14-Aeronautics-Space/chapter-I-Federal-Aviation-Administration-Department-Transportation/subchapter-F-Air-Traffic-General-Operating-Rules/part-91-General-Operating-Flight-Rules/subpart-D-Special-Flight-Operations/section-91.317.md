@@ -4,9 +4,9 @@
 
 (b) No person may operate a provisionally certificated civil aircraft outside the United States unless that person has specific authority to do so from the Administrator and each foreign country involved.
 
-(c) Unless otherwise authorized by the Director, Flight Standards Service, no person may operate a provisionally certificated civil aircraft in air transportation.
+(c) Unless otherwise authorized by the Executive Director, Flight Standards Service, no person may operate a provisionally certificated civil aircraft in air transportation.
 
-(d) Unless otherwise authorized by the Administrator, no person may operate a provisionally certificated civil aircraft except -
+(d) Unless otherwise authorized by the Administrator, no person may operate a provisionally certificated civil aircraft except—
 
 (1) In direct conjunction with the type or supplemental type certification of that aircraft;
 
@@ -22,7 +22,7 @@
 
 (e) Each person operating a provisionally certificated civil aircraft shall operate within the prescribed limitations displayed in the aircraft or set forth in the provisional aircraft flight manual or other appropriate document. However, when operating in direct conjunction with the type or supplemental type certification of the aircraft, that person shall operate under the experimental aircraft limitations of § 21.191 of this chapter and when flight testing, shall operate under the requirements of § 91.305 of this part.
 
-(f) Each person operating a provisionally certificated civil aircraft shall establish approved procedures for -
+(f) Each person operating a provisionally certificated civil aircraft shall establish approved procedures for—
 
 (1) The use and guidance of flight and ground personnel in operating under this section; and
 
@@ -34,7 +34,7 @@
 
 (i) Whenever the manufacturer, or the Administrator, determines that a change in design, construction, or operation is necessary to ensure safe operation, no person may operate a provisionally certificated civil aircraft until that change has been made and approved. Section 21.99 of this chapter applies to operations under this section.
 
-(j) Each person operating a provisionally certificated civil aircraft -
+(j) Each person operating a provisionally certificated civil aircraft—
 
 (1) May carry in that aircraft only persons who have a proper interest in the operations allowed by this section or who are specifically authorized by both the manufacturer and the Administrator; and
 
@@ -42,4 +42,4 @@
 
 (k) The Administrator may prescribe additional limitations or procedures that the Administrator considers necessary, including limitations on the number of persons who may be carried in the aircraft.
 
-(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-212, 54 FR 39293, Sept. 25, 1989]
+(Approved by the Office of Management and Budget under control number 2120-0005)[Doc. No. 18334, 54 FR 34308, Aug. 18, 1989, as amended by Amdt. 91-212, 54 FR 39293, Sept. 25, 1989; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]

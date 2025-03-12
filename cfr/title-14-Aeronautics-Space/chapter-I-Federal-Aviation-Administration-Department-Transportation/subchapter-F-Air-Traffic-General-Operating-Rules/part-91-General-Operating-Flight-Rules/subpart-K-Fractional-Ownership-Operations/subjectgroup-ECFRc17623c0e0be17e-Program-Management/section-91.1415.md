@@ -1,6 +1,6 @@
 ##### § 91.1415 CAMP: Mechanical reliability reports. #####
 
-(a) Each program manager who maintains program aircraft under a CAMP must report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning -
+(a) Each program manager who maintains program aircraft under a CAMP must report the occurrence or detection of each failure, malfunction, or defect in an aircraft concerning—
 
 (1) Fires during flight and whether the related fire-warning system functioned properly;
 
@@ -38,7 +38,7 @@
 
 (c) In addition to the reports required by paragraph (a) of this section, each program manager must report any other failure, malfunction, or defect in an aircraft that occurs or is detected at any time if, in the manager's opinion, the failure, malfunction, or defect has endangered or may endanger the safe operation of the aircraft.
 
-(d) Each program manager must send each report required by this section, in writing, covering each 24-hour period beginning at 0900 hours local time of each day and ending at 0900 hours local time on the next day to the Flight Standards District Office that issued the program manager's management specifications. Each report of occurrences during a 24-hour period must be mailed or transmitted to that office within the next 72 hours. However, a report that is due on Saturday or Sunday may be mailed or transmitted on the following Monday and one that is due on a holiday may be mailed or transmitted on the next workday. For aircraft operated in areas where mail is not collected, reports may be mailed or transmitted within 72 hours after the aircraft returns to a point where the mail is collected.
+(d) Each program manager must send each report required by this section, in writing, covering each 24-hour period beginning at 0900 hours local time of each day and ending at 0900 hours local time on the next day to the Flight Standards office that issued the program manager's management specifications. Each report of occurrences during a 24-hour period must be mailed or transmitted to that office within the next 72 hours. However, a report that is due on Saturday or Sunday may be mailed or transmitted on the following Monday and one that is due on a holiday may be mailed or transmitted on the next workday. For aircraft operated in areas where mail is not collected, reports may be mailed or transmitted within 72 hours after the aircraft returns to a point where the mail is collected.
 
 (e) The program manager must transmit the reports required by this section on a form and in a manner prescribed by the Administrator, and must include as much of the following as is available:
 
@@ -61,3 +61,5 @@
 (g) No person may withhold a report required by this section even when not all information required by this section is available.
 
 (h) When the program manager receives additional information, including information from the manufacturer or other agency, concerning a report required by this section, the program manager must expeditiously submit it as a supplement to the first report and reference the date and place of submission of the first report.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]

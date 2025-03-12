@@ -1,6 +1,6 @@
 ##### § 129.107 Repairs assessment for pressurized fuselages. #####
 
-(a) No foreign air carrier or foreign persons operating a U.S. registered airplane may operate an Airbus Model A300 (excluding −600 series), British Aerospace Model BAC 1-11, Boeing Model 707, 720, 727, 737, or 747, McDonnell Douglas Model DC-8, DC-9/MD-80 or DC-10, Fokker Model F28, or Lockheed Model L-1011 beyond the applicable flight cycle implementation time specified below, or May 25, 2001, whichever occurs later, unless operations specifications have been issued to reference repair assessment guidelines applicable to the fuselage pressure boundary (fuselage skin, door skin, and bulkhead webs), and those guidelines are incorporated in its maintenance program. The repair assessment guidelines must be approved by the FAA Aircraft Certification Office (ACO), or office of the Transport Airplane Directorate, having cognizance over the type certificate for the affected airplane.
+(a) No foreign air carrier or foreign persons operating a U.S. registered airplane may operate an Airbus Model A300 (excluding −600 series), British Aerospace Model BAC 1-11, Boeing Model 707, 720, 727, 737, or 747, McDonnell Douglas Model DC-8, DC-9/MD-80 or DC-10, Fokker Model F28, or Lockheed Model L-1011 beyond the applicable flight cycle implementation time specified below, or May 25, 2001, whichever occurs later, unless operations specifications have been issued to reference repair assessment guidelines applicable to the fuselage pressure boundary (fuselage skin, door skin, and bulkhead webs), and those guidelines are incorporated in its maintenance program. The repair assessment guidelines must be approved by the responsible Aircraft Certification Service office for the type certificate for the affected airplane.
 
 (1) For the Airbus Model A300 (excluding the -600 series), the flight cycle implementation time is:
 
@@ -34,4 +34,4 @@
 
 (b) [Reserved]
 
-[Doc. No. 29104, 65 FR 24126, Apr. 25, 2000; 65 FR 35703, June 5, 2000, as amended by Amdt. 129-30, 66 FR 23131, May 7, 2001; Amdt. 129-35, 67 FR 72834, Dec. 9, 2002; Amdt. 129-39, 69 FR 45942, July 30, 2004. Redesignated and amended by Amdt. 129-43, 72 FR 63413, Nov. 8, 2007]
+[Doc. No. 29104, 65 FR 24126, Apr. 25, 2000; 65 FR 35703, June 5, 2000, as amended by Amdt. 129-30, 66 FR 23131, May 7, 2001; Amdt. 129-35, 67 FR 72834, Dec. 9, 2002; Amdt. 129-39, 69 FR 45942, July 30, 2004. Redesignated and amended by Amdt. 129-43, 72 FR 63413, Nov. 8, 2007; Docket FAA-2018-0119, Amdt. 129-53, 83 FR 9174, Mar. 5, 2018]

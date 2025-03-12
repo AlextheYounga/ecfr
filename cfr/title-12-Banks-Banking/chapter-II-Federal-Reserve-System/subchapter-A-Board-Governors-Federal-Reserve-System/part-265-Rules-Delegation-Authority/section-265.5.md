@@ -1,7 +1,5 @@
 ##### § 265.5 Functions delegated to Secretary of the Board. #####
 
-The Secretary of the Board (or the Acting Secretary) is authorized:
-
 (a) *Procedure* - (1) *Extension of time period for public participation in proposed regulations.* To extend, when appropriate under the Board's Rules of Procedure (12 CFR 262.2 (a) and (b)), the time period for public participation with respect to proposed regulations of the Board.
 
 (2) *Extension of time period in notices, orders, rules, or regulations.* (i) To grant or deny requests to extend any time period in any notice, order, rule, or regulation of the Board relating to filing information, comments, opposition, briefs, exceptions, or other matters, in connection with any application, request or petition for the Board's approval, authority, determination, or permission, or any other action by the Board.
@@ -15,10 +13,11 @@ The Secretary of the Board (or the Acting Secretary) is authorized:
 (4) *Technical corrections in Board rules and regulations.* To make technical corrections, such as spelling, grammar, construction, and organization (including removal of obsolete provisions and consolidation of related provisions), to the Board's rules, regulations, and orders and other records of Board action but only with the concurrence of the Board's General Counsel.
 
 (b) *Availability of information* - (1) *FOIA requests.* To make available, upon request, information in Board records and consider requests for confidential treatment of information in Board records under the Freedom of Information Act (5 U.S.C. 552) and under the Board's Rules Regarding Availability of Information (12 CFR part 261).
++
 
-(2) *Annual reports on Privacy Act.* To approve annual reports required by the Privacy Act (5 U.S.C. 552a(p)) from the Board to the Office of Management and Budget for inclusion in the President's annual consolidated report to Congress.
+(3) *Annual reports on Privacy Act.* To approve annual reports required by the Privacy Act (5 U.S.C. 552a(p)) from the Board to the Office of Management and Budget for inclusion in the President's annual consolidated report to Congress.
 
-(3) *Report on prime rate of commercial banks.* To determine and report, under 26 U.S.C. (IRC) 6621, to the Secretary of the Treasury the average predominant prime rate quoted by commercial banks to large businesses.
+(4) *Report on prime rate of commercial banks.* To determine and report, under 26 U.S.C. (IRC) 6621, to the Secretary of the Treasury the average predominant prime rate quoted by commercial banks to large businesses.
 
 (c) *Bank holding companies; Change in bank control; Mergers* - (1) *Reports on competitive factors in bank mergers.* To furnish reports on competitive factors involved in a bank merger to the Comptroller of the Currency and the Federal Deposit Insurance Corporation under the provisions of the Federal Deposit Insurance Act (12 U.S.C. 1828(c)); The Bank Holding Company Act (12 U.S.C. 1842(a), 1843(c)(14)); the Bank Service Corporation Act (12 U.S.C. 1865(a), (b), 1867(d)); the Change in Bank Control Act (12 U.S.C. 1817(j)); and the Federal Reserve Act (12 U.S.C. 321 *et seq.,* 601-604a, 611 *et seq.*).
 
@@ -68,4 +67,4 @@ The Secretary of the Board (or the Acting Secretary) is authorized:
 
 (2) The agreed-upon location does not raise any significant policy issues.
 
-[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001]
+[56 FR 25619, June 5, 1991, as amended at 56 FR 67153, 67154, Dec. 30, 1991; 58 FR 26509, May 4, 1993; 62 FR 34617, June 27, 1997; 66 FR 58655, Nov. 23, 2001; 83 FR , Mar. 6, 2018]

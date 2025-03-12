@@ -10,7 +10,7 @@
 
 (b) Except as provided in paragraph (e) of this section, no person may serve as a second-in-command of an aircraft type certificated for more than one required pilot flight crewmember or in operations requiring a second-in-command unless that person has within the previous 12 calendar months:
 
-(1) Become familiar with the following information for the specific type aircraft for which second-in-command privileges are requested -
+(1) Become familiar with the following information for the specific type aircraft for which second-in-command privileges are requested—
 
 (i) Operational procedures applicable to the powerplant, equipment, and systems.
 
@@ -22,7 +22,7 @@
 
 (v) Placards and markings.
 
-(2) Except as provided in paragraph (g) of this section, performed and logged pilot time in the type of aircraft or in a flight simulator that represents the type of aircraft for which second-in-command privileges are requested, which includes -
+(2) Except as provided in paragraph (g) of this section, performed and logged pilot time in the type of aircraft or in a flight simulator that represents the type of aircraft for which second-in-command privileges are requested, which includes—
 
 (i) Three takeoffs and three landings to a full stop as the sole manipulator of the flight controls;
 
@@ -38,13 +38,13 @@
 
 (2) The trainer or qualified management official must make an endorsement in the applicant's logbook that states “[Applicant's Name and Pilot Certificate Number] has demonstrated the skill and knowledge required for the safe operation of the [Type of Aircraft], relevant to the duties and responsibilities of a second in command.”
 
-(3) If the applicant's flight experience and/or training records are in an electronic form, the applicant must present a paper copy of those records containing the signature of the trainer or qualified management official to an FAA Flight Standards District Office or Examiner.
+(3) If the applicant's flight experience and/or training records are in an electronic form, the applicant must present a paper copy of those records containing the signature of the trainer or qualified management official to a Flight Standards office or Examiner.
 
-(4) The applicant must complete and sign an Airman Certificate and/or Rating Application, FAA Form 8710-1, and present the application to an FAA Flight Standards District Office or to an Examiner.
+(4) The applicant must complete and sign an Airman Certificate and/or Rating Application, FAA Form 8710-1, and present the application to a Flight Standards office or to an Examiner.
 
 (5) The person who provided the ground and flight training to the applicant must sign the “Instructor's Recommendation” section of the Airman Certificate and/or Rating Application, FAA Form 8710-1. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's FAA Form 8710-1.
 
-(6) The applicant must appear in person at a FAA Flight Standards District Office or to an Examiner with his or her logbook/training records and with the completed and signed FAA Form 8710-1.
+(6) The applicant must appear in person at a Flight Standards office or to an Examiner with his or her logbook/training records and with the completed and signed FAA Form 8710-1.
 
 (7) There is no practical test required for the issuance of the “SIC Privileges Only” pilot type rating.
 
@@ -54,13 +54,13 @@
 
 (2) The trainer or qualified management official must make an endorsement in the applicant's logbook that states “[Applicant's Name and Pilot Certificate Number] has demonstrated the skill and knowledge required for the safe operation of the [Type of Aircraft], relevant to the duties and responsibilities of a second in command.”
 
-(3) If the applicant's flight experience and/or training records are in an electronic form, the applicant must provide a paper copy of those records containing the signature of the trainer or qualified management official to an FAA Flight Standards District Office, an Examiner, or an Aircrew Program Designee.
+(3) If the applicant's flight experience and/or training records are in an electronic form, the applicant must provide a paper copy of those records containing the signature of the trainer or qualified management official to a Flight Standards office, an Examiner, or an Aircrew Program Designee.
 
-(4) The applicant must complete and sign an Airman Certificate and/or Rating Application, FAA Form 8710-1, and present the application to an FAA Flight Standards District Office or to an Examiner or to an authorized Aircrew Program Designee.
+(4) The applicant must complete and sign an Airman Certificate and/or Rating Application, FAA Form 8710-1, and present the application to a Flight Standards office or to an Examiner or to an authorized Aircrew Program Designee.
 
 (5) The person who provided the ground and flight training to the applicant must sign the “Instructor's Recommendation” section of the Airman Certificate and/or Rating Application, FAA Form 8710-1. In lieu of the trainer, it is permissible for a qualified management official within the organization to sign the applicant's FAA Form 8710-1.
 
-(6) The applicant must appear in person at an FAA Flight Standards District Office or to an Examiner or to an authorized Aircrew Program Designee with his or her logbook/training records and with the completed and signed FAA Form 8710-1.
+(6) The applicant must appear in person at a Flight Standards office or to an Examiner or to an authorized Aircrew Program Designee with his or her logbook/training records and with the completed and signed FAA Form 8710-1.
 
 (7) There is no practical test required for the issuance of the “SIC Privileges Only” pilot type rating.
 
@@ -90,4 +90,4 @@
 
 (j) When an applicant for an initial second-in-command qualification for a particular type of aircraft receives all the training in a flight simulator, that applicant must satisfactorily complete one takeoff and one landing in an aircraft of the same type for which the qualification is sought. This requirement does not apply to an applicant who completes a proficiency check under part 121 or competency check under subpart K, part 91, part 125, or part 135 for the particular type of aircraft.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005; Amdt. 61-109, 70 FR 61890, Oct. 27, 2005; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40898, July 30, 1997; Amdt. 61-109, 68 FR 54559, Sept. 17, 2003; Amdt. 61-113, 70 FR 45271, Aug. 4, 2005; Amdt. 61-109, 70 FR 61890, Oct. 27, 2005; Amdt. 61-124, 74 FR 42550, Aug. 21, 2009; Amdt. 61-128, 76 FR 54105, Aug. 31, 2011; Amdt. 61-130, 78 FR 42374, July 15, 2013; Docket FAA-2018-0119, Amdt. 61-141, 83 FR 9170, Mar. 5, 2018]

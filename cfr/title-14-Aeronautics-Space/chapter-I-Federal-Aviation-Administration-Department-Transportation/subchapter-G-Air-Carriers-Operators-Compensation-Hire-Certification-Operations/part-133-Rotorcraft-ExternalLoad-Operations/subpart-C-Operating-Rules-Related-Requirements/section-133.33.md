@@ -2,7 +2,7 @@
 
 (a) No person may conduct a rotorcraft external-load operation without, or contrary to, the Rotorcraft-Load Combination Flight Manual prescribed in § 133.47.
 
-(b) No person may conduct a rotorcraft external-load operation unless -
+(b) No person may conduct a rotorcraft external-load operation unless—
 
 (1) The rotorcraft complies with § 133.19; and
 
@@ -24,7 +24,7 @@
 
 (d) Notwithstanding the provisions of part 91 of this chapter, the holder of a Rotorcraft External-Load Operator Certificate may conduct (in rotorcraft type certificated under and meeting the requirements of part 27 or 29 of this chapter, including the external-load attaching means) rotorcraft external-load operations over congested areas if those operations are conducted without hazard to persons or property on the surface and comply with the following:
 
-(1) The operator must develop a plan for each complete operation, coordinate this plan with the FAA Flight Standards District Office having jurisdiction over the area in which the operation will be conducted, and obtain approval for the operation from that district office. The plan must include an agreement with the appropriate political subdivision that local officials will exclude unauthorized persons from the area in which the operation will be conducted, coordination with air traffic control, if necessary, and a detailed chart depicting the flight routes and altitudes.
+(1) The operator must develop a plan for each complete operation, coordinate this plan with the responsible Flight Standards office for the area in which the operation will be conducted, and obtain approval for the operation from that office. The plan must include an agreement with the appropriate political subdivision that local officials will exclude unauthorized persons from the area in which the operation will be conducted, coordination with air traffic control, if necessary, and a detailed chart depicting the flight routes and altitudes.
 
 (2) Each flight must be conducted at an altitude, and on a route, that will allow a jettisonable external load to be released, and the rotorcraft landed, in an emergency without hazard to persons or property on the surface.
 
@@ -32,4 +32,4 @@
 
 (f) No person may conduct rotorcraft external-load operations under IFR unless specifically approved by the Administrator. However, under no circumstances may a person be carried as part of the external-load under IFR.
 
-[Doc. No. 24550, 51 FR 40708, Nov. 7, 1986, as amended by Amdt. 133-11, 54 FR 39294, Sept. 25, 1989]
+[Doc. No. 24550, 51 FR 40708, Nov. 7, 1986, as amended by Amdt. 133-11, 54 FR 39294, Sept. 25, 1989; Docket FAA-2018-0119, Amdt. 133-16, 83 FR 9175, Mar. 5, 2018]

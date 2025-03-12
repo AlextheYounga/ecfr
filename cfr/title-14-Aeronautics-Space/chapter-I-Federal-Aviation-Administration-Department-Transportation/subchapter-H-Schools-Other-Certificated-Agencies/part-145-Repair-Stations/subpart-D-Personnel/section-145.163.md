@@ -6,6 +6,6 @@
 
 (c) A certificated repair station must document, in a format acceptable to the FAA, the individual employee training required under paragraph (a) of this section. These training records must be retained for a minimum of 2 years.
 
-(d) A certificated repair station must submit revisions to its training program to its certificate holding district office in accordance with the procedures required by § 145.209(e).
+(d) A certificated repair station must submit revisions to its training program to its responsible Flight Standards office in accordance with the procedures required by § 145.209(e).
 
-[Doc. No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended at 70 FR 15581, Mar. 28, 2005; Amdt. 145-30, 79 FR 46985, Aug. 12, 2014]
+[Doc. No. FAA-1999-5836, 66 FR 41117, Aug. 6, 2001, as amended at 70 FR 15581, Mar. 28, 2005; Amdt. 145-30, 79 FR 46985, Aug. 12, 2014; Docket FAA-2018-0119, Amdt. 145-32, 83 FR 9176, Mar. 5, 2018]

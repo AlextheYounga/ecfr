@@ -1,0 +1,9 @@
+##### § 510.511 Noncommercial, personal remittances. #####
+
+(a)(1) U.S. persons are authorized to send and receive and U.S. depository institutions, U.S.-registered brokers or dealers in securities, and U.S.-registered money transmitters are authorized to process transfers of funds to or from North Korea or for or on behalf of an individual ordinarily resident in North Korea, other than an individual whose property and interests in property are blocked pursuant to § 510.201(a), in cases in which the transfers involve noncommercial, personal remittances, up to a maximum of $5,000 per year.
+
+(2) Noncommercial, personal remittances do not include charitable donations of funds to or for the benefit of an entity or funds transfers for use in supporting or operating a business, including a family-owned business.
+
+(b) The transferring institutions identified in paragraph (a) of this section may rely on the originator of a funds transfer with regard to compliance with paragraph (a) of this section, provided that the transferring institution does not know or have reason to know that the funds transfer is not in compliance with paragraph (a) of this section.
+
+(c) An individual who is a U.S. person is authorized to carry funds as a noncommercial, personal remittance, as described in paragraph (a) of this section, to an individual in North Korea or ordinarily resident in North Korea, other than an individual whose property and interests in property are blocked pursuant to § 510.201(a), provided that the individual who is a U.S. person is carrying the funds on his or her behalf, not on behalf of another person.

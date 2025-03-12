@@ -1,6 +1,6 @@
 ##### § 121.1111 Electrical wiring interconnection systems (EWIS) maintenance program. #####
 
-(a) Except as provided in paragraph (f) of this section, this section applies to transport category, turbine-powered airplanes with a type certificate issued after January 1, 1958, that, as a result of original type certification or later increase in capacity, have -
+(a) Except as provided in paragraph (f) of this section, this section applies to transport category, turbine-powered airplanes with a type certificate issued after January 1, 1958, that, as a result of original type certification or later increase in capacity, have—
 
 (1) A maximum type-certificated passenger capacity of 30 or more, or
 
@@ -8,7 +8,7 @@
 
 (b) After March 10, 2011, no certificate holder may operate an airplane identified in paragraph (a) of this section unless the maintenance program for that airplane includes inspections and procedures for electrical wiring interconnection systems (EWIS).
 
-(c) The proposed EWIS maintenance program changes must be based on EWIS Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the provisions of Appendix H of part 25 of this chapter applicable to each affected airplane (including those ICA developed for supplemental type certificates installed on each airplane) and that have been approved by the FAA Oversight Office.
+(c) The proposed EWIS maintenance program changes must be based on EWIS Instructions for Continued Airworthiness (ICA) that have been developed in accordance with the provisions of Appendix H of part 25 of this chapter applicable to each affected airplane (including those ICA developed for supplemental type certificates installed on each airplane) and that have been approved by the responsible Aircraft Certification Service office.
 
 (1) For airplanes subject to § 26.11 of this chapter, the EWIS ICA must comply with paragraphs H25.5(a)(1) and (b).
 
@@ -40,8 +40,10 @@
 
 (10) Handley Page Herald Type 300
 
-(11) Avions Marcel Dassault - Breguet Aviation Mercure 100C
+(11) Avions Marcel Dassault—Breguet Aviation Mercure 100C
 
 (12) Airbus Caravelle
 
 (13) Lockheed L-300
+
+[Amdt. 121-336, 72 FR 63411, Nov. 8, 2007, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]

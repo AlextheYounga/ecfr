@@ -2,4 +2,6 @@
 
 (a) This subpart requires operators to support the continued airworthiness of each airplane. These requirements may include, but are not limited to, revising the inspection program, incorporating design changes, and incorporating revisions to Instructions for Continued Airworthiness.
 
-(b) For purposes of this subpart, the “FAA Oversight Office” is the aircraft certification office or office of the Transport Airplane Directorate with oversight responsibility for the relevant type certificate or supplemental type certificate, as determined by the Administrator.
+(b) [Reserved]
+
+[Amdt. 125-53, 72 FR 63412, Nov. 8, 2007, as amended by Docket FAA-2018-0119, Amdt. 125-68, 83 FR 9174, Mar. 5, 2018]

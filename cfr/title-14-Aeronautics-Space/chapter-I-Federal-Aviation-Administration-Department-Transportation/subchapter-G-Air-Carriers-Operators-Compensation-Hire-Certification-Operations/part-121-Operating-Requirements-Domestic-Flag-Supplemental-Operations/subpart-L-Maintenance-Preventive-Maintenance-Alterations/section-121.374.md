@@ -4,7 +4,7 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (a) *ETOPS maintenance document.* The certificate holder must have an ETOPS maintenance document for use by each person involved in ETOPS.
 
-(1) The document must -
+(1) The document must—
 
 (i) List each ETOPS significant system,
 
@@ -20,7 +20,7 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (1) The certificate holder must complete a pre-departure service check immediately before each ETOPS flight.
 
-(2) At a minimum, this check must -
+(2) At a minimum, this check must—
 
 (i) Verify the condition of all ETOPS Significant Systems;
 
@@ -74,7 +74,7 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (h) *Reliability program.* The certificate holder must have an ETOPS reliability program. This program must be the certificate holder's existing reliability program or its Continuing Analysis and Surveillance System (CASS) supplemented for ETOPS. This program must be event-oriented and include procedures to report the events listed below, as follows:
 
-(1) The certificate holder must report the following events within 96 hours of the occurrence to its certificate holding district office (CHDO):
+(1) The certificate holder must report the following events within 96 hours of the occurrence to its responsible Flight Standards office:
 
 (i) IFSDs, except planned IFSDs performed for flight training.
 
@@ -90,7 +90,7 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (vii) Any event that would jeopardize the safe flight and landing of the airplane on an ETOPS flight.
 
-(2) The certificate holder must investigate the cause of each event listed in paragraph (h)(1) of this section and submit findings and a description of corrective action to its CHDO. The report must include the information specified in § 121.703(e). The corrective action must be acceptable to its CHDO.
+(2) The certificate holder must investigate the cause of each event listed in paragraph (h)(1) of this section and submit findings and a description of corrective action to its responsible Flight Standards office. The report must include the information specified in § 121.703(e). The corrective action must be acceptable to its responsible Flight Standards office.
 
 (i) *Propulsion system monitoring.* (1) If the IFSD rate (computed on a 12-month rolling average) for an engine installed as part of an airplane-engine combination exceeds the following values, the certificate holder must do a comprehensive review of its operations to identify any common cause effects and systemic errors. The IFSD rate must be computed using all engines of that type in the certificate holder's entire fleet of airplanes approved for ETOPS.
 
@@ -100,7 +100,7 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (iii) A rate of 0.02 per 1,000 engine hours for ETOPS beyond 207 minutes in the North Pacific Area of Operation and beyond 180 minutes elsewhere.
 
-(2) Within 30 days of exceeding the rates above, the certificate holder must submit a report of investigation and any necessary corrective action taken to its CHDO.
+(2) Within 30 days of exceeding the rates above, the certificate holder must submit a report of investigation and any necessary corrective action taken to its responsible Flight Standards office.
 
 (j) *Engine condition monitoring.* (1) The certificate holder must have an engine condition monitoring program to detect deterioration at an early stage and to allow for corrective action before safe operation is affected.
 
@@ -116,6 +116,6 @@ In order to conduct an ETOPS flight using a two-engine airplane, each certificat
 
 (n) *Configuration, maintenance, and procedures (CMP) document.* If an airplane-engine combination has a CMP document, the certificate holder must use a system that ensures compliance with the applicable FAA-approved document.
 
-(o) *Procedural changes.* Each substantial change to the maintenance or training procedures that were used to qualify the certificate holder for ETOPS, must be submitted to the CHDO for review. The certificate holder cannot implement a change until its CHDO notifies the certificate holder that the review is complete.
+(o) *Procedural changes.* Each substantial change to the maintenance or training procedures that were used to qualify the certificate holder for ETOPS, must be submitted to the CHDO for review. The certificate holder cannot implement a change until its responsible Flight Standards office notifies the certificate holder that the review is complete.
 
-[Doc. No. FAA-2002-6717, 72 FR 1880, Jan. 16, 2007, as amended by Amdt. 121-329, 72 FR 7348, Feb. 15, 2007; Amdt. 121-329, 72 FR 26541, May 10, 2007; Amdt. 121-339, 73 FR 33881, June 16, 2008]
+[Doc. No. FAA-2002-6717, 72 FR 1880, Jan. 16, 2007, as amended by Amdt. 121-329, 72 FR 7348, Feb. 15, 2007; Amdt. 121-329, 72 FR 26541, May 10, 2007; Amdt. 121-339, 73 FR 33881, June 16, 2008; Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]

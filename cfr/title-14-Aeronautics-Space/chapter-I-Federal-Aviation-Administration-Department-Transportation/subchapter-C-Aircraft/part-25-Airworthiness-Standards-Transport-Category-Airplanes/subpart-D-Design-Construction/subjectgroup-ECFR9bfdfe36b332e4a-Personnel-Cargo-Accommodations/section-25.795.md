@@ -30,7 +30,7 @@
 
 (2) *Survivability of systems.* (i) Except where impracticable, redundant airplane systems necessary for continued safe flight and landing must be physically separated, at a minimum, by an amount equal to a sphere of diameter
 
-![](/graphics/er28oc08.003.gif)(where H0 is defined under § 25.365(e)(2) of this part and D need not exceed 5.05 feet (1.54 meters)). The sphere is applied everywhere within the fuselage - limited by the forward bulkhead and the aft bulkhead of the passenger cabin and cargo compartment beyond which only one-half the sphere is applied.
+![](/graphics/er28oc08.003.gif)(where H0 is defined under § 25.365(e)(2) of this part and D need not exceed 5.05 feet (1.54 meters)). The sphere is applied everywhere within the fuselage—limited by the forward bulkhead and the aft bulkhead of the passenger cabin and cargo compartment beyond which only one-half the sphere is applied.
 
 (ii) Where compliance with paragraph (c)(2)(i) of this section is impracticable, other design precautions must be taken to maximize the survivability of those systems.
 
@@ -60,12 +60,10 @@
 
 (2) You may review copies of NIJ Standard 0101.04 at the:
 
-(i) FAA Transport Airplane Directorate, 1601 Lind Avenue, SW., Renton, Washington 98055;
+(i) National Institute of Justice (NIJ), *http://www.ojp.usdoj.gov/nij,* telephone (202) 307-2942; or
 
-(ii) National Institute of Justice (NIJ), *http://www.ojp.usdoj.gov/nij,* telephone (202) 307-2942; or
-
-(iii) National Archives and Records Administration (NARA). For information on the availability of this material at NARA go to *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html* or call (202) 741-6030.
+(ii) National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (3) You may obtain copies of NIJ Standard 0101.04 from the National Criminal Justice Reference Service, P.O. Box 6000, Rockville, MD 20849-6000, telephone (800) 851-3420.
 
-[Amdt. 25-127; 121-341, 73 FR 63879, Oct. 28, 2008, as amended at 74 FR 22819, May 15, 2009; Amdt. 25-138, 79 FR 13519, Mar. 11, 2014]
+[Amdt. 25-127; 121-341, 73 FR 63879, Oct. 28, 2008, as amended at 74 FR 22819, May 15, 2009; Amdt. 25-138, 79 FR 13519, Mar. 11, 2014; Doc. No. FAA-2018-0119, Amdt. 25-145, 83 FR 9169, Mar. 5, 2018]

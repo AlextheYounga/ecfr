@@ -1,5 +1,7 @@
 ##### § 347.202 Definitions. #####
 
+Link to an amendment published at 83 FR 9143, Mar. 5, 2018.
+
 For the purposes of this subpart:
 
 (a) Affiliate means any entity that controls, is controlled by, or is under common control with another entity. An entity shall be deemed to “control” another entity if the entity directly or indirectly owns, controls, or has the power to vote 25 percent or more of any class of voting securities of the other entity or controls in any manner the election of a majority of the directors or trustees of the other entity.

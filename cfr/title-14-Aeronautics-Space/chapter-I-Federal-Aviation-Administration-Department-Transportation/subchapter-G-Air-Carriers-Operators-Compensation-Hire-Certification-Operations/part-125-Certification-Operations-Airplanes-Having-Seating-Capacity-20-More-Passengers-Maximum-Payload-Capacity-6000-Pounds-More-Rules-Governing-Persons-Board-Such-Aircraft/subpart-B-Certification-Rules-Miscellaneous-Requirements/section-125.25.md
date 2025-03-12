@@ -2,7 +2,7 @@
 
 (a) Each applicant for a certificate under this part must show that it has enough management personnel, including at least a director of operations, to assure that its operations are conducted in accordance with the requirements of this part.
 
-(b) Each applicant shall -
+(b) Each applicant shall—
 
 (1) Set forth the duties, responsibilities, and authority of each of its management personnel in the general policy section of its manual;
 
@@ -10,4 +10,6 @@
 
 (3) Designate a person as responsible for the scheduling of inspections required by the manual and for the updating of the approved weight and balance system on all airplanes.
 
-(c) Each certificate holder shall notify the FAA Flight Standards district office charged with the overall inspection of the certificate holder of any change made in the assignment of persons to the listed positions within 10 days, excluding Saturdays, Sundays, and Federal holidays, of such change.
+(c) Each certificate holder shall notify the responsible Flight Standards office charged with the overall inspection of the certificate holder of any change made in the assignment of persons to the listed positions within 10 days, excluding Saturdays, Sundays, and Federal holidays, of such change.
+
+[Docket No. 19779, 45 FR 67235, Oct. 9, 1980, as amended by Docket FAA-2018-0119, Amdt. 125-68, 83 FR 9173, Mar. 5, 2018]

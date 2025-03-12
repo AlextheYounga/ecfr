@@ -38,7 +38,7 @@
 
 (d) Pilots and sponsors of events described in this section are limited to no more than 4 events per calendar year.
 
-(e) At least seven days before the event, each sponsor of an event described in this section must furnish to the FAA Flight Standards District Office with jurisdiction over the geographical area where the event is scheduled:
+(e) At least seven days before the event, each sponsor of an event described in this section must furnish to the responsible Flight Standards office for the area where the event is scheduled:
 
 (1) A signed letter detailing the name of the sponsor, the purpose of the event, the date and time of the event, the location of the event, all prior events under this section participated in by the sponsor in the current calendar year;
 
@@ -46,4 +46,4 @@
 
 (3) A signed statement from each pilot that lists all prior events under this section in which the pilot has participated during the current calendar year.
 
-[Doc. No. FAA-1998-4521, 72 FR 6910, Feb. 13, 2007, as amended by Amdt. 91-308, 74 FR 32804, July 9, 2009]
+[Doc. No. FAA-1998-4521, 72 FR 6910, Feb. 13, 2007, as amended by Amdt. 91-308, 74 FR 32804, July 9, 2009; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]

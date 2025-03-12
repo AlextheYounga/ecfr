@@ -1,5 +1,7 @@
 ##### § 27.773 Pilot compartment view. #####
 
+Link to an amendment published at 83 FR 9423, March 6, 2018.
+
 (a) Each pilot compartment must be free from glare and reflections that could interfere with the pilot's view, and designed so that -
 
 (1) Each pilot's view is sufficiently extensive, clear, and undistorted for safe operation; and

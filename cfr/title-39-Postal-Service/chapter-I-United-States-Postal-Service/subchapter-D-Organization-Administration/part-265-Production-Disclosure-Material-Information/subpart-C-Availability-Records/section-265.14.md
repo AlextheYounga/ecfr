@@ -134,4 +134,4 @@
 
 (g) *Disclosure in part of otherwise exempt record.* Any reasonably segregable portion of a record shall be provided after deleting the information which is neither subject to mandatory disclosure nor available as a matter of discretion.
 
-![](/graphics/er30no16.002.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017; 82 FR 32767, July 18, 2017]
+![](/graphics/er06mr18.000.gif)![](/graphics/er30no16.003.gif)[81 FR 86271, Nov. 30, 2016, as amended at 82 FR 12921, Mar. 8, 2017; 82 FR 32767, July 18, 2017; 83 FR 9433, Mar. 6, 2018]

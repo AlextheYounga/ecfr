@@ -24,7 +24,7 @@
 
 (2) The extended LOV and the airworthiness limitation items pertaining to widespread fatigue damage must be clearly distinguishable within its maintenance program.
 
-(e) *Principal Maintenance Inspector approval.* Foreign air carriers or foreign persons must submit the maintenance program revisions required by paragraphs (b), (c), and (d) of this section to the Principal Maintenance Inspector or Flight Standards International Field Office for review and approval.
+(e) *Principal Maintenance Inspector approval.* Foreign air carriers or foreign persons must submit the maintenance program revisions required by paragraphs (b), (c), and (d) of this section to the Principal Maintenance Inspector or Flight Standards office for review and approval.
 
 (f) *Exception.* For any airplane for which an LOV has not been approved as of the applicable compliance date specified in paragraph (c) or Table 1 of this section, instead of including an approved LOV in the ALS, an operator must include the applicable default LOV specified in Table 1 or Table 2 of this section, as applicable, in the ALS.
 
@@ -141,4 +141,4 @@ Table 2 - Airplanes Excluded from § 26.21
 |                  Lockheed:                   |                                                                 |
 |           300-50A01 (USAF C 141A)            |                            20,000 FC                            |
 
-[Doc. No. FAA-2006-24281, 75 FR 69787, Nov. 15, 2010, as amended by Amdt. 129-51, 77 FR 30878, May 24, 2012; Amdt. 129-51A, 77 FR 55107, Sept. 7, 2012]
+[Doc. No. FAA-2006-24281, 75 FR 69787, Nov. 15, 2010, as amended by Amdt. 129-51, 77 FR 30878, May 24, 2012; Amdt. 129-51A, 77 FR 55107, Sept. 7, 2012; Docket FAA-2018-0119, Amdt. 129-53, 83 FR 9174, Mar. 5, 2018]

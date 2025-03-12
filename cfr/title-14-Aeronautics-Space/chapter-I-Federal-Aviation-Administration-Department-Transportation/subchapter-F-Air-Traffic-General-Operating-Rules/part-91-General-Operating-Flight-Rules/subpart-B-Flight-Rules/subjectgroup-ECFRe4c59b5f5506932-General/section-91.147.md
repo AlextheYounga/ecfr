@@ -4,7 +4,7 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 (a) For the purposes of this section and for drug and alcohol testing, *Operator* means any person conducting nonstop passenger-carrying flights in an airplane or helicopter for compensation or hire in accordance with §§ 119.1(e)(2), 135.1(a)(5), or 121.1(d), of this chapter that begin and end at the same airport and are conducted within a 25-statute mile radius of that airport.
 
-(b) An Operator must comply with the safety provisions of part 136, subpart A of this chapter, and apply for and receive a Letter of Authorization from the Flight Standards District Office nearest to its principal place of business.
+(b) An Operator must comply with the safety provisions of part 136, subpart A of this chapter, and apply for and receive a Letter of Authorization from the responsible Flight Standards office.
 
 (c) Each application for a Letter of Authorization must include the following information:
 
@@ -26,4 +26,4 @@ Each Operator conducting passenger-carrying flights for compensation or hire mus
 
 (e) The Operator must comply with the provisions of the Letter of Authorization received.
 
-[Doc. No. FAA-1998-4521, 72 FR 6911, Feb. 13, 2007, as amended by Amdt. 91-307, 74 FR 22652, May 14, 2009; Amdt. 91-320, 76 FR 8893, Feb. 16, 2011]
+[Doc. No. FAA-1998-4521, 72 FR 6911, Feb. 13, 2007, as amended by Amdt. 91-307, 74 FR 22652, May 14, 2009; Amdt. 91-320, 76 FR 8893, Feb. 16, 2011; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9171, Mar. 5, 2018]

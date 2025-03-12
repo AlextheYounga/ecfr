@@ -1,0 +1,7 @@
+##### § 510.408 Charitable contributions. #####
+
+Unless specifically authorized by OFAC pursuant to this part, no charitable contribution of funds, goods, services, or technology, including contributions to relieve human suffering, such as food, clothing, or medicine, may be made by, to, or for the benefit of, or received from, the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a). For the purposes of this part, a contribution is made by, to, or for the benefit of, or received from, the Government of North Korea, the Workers' Party of Korea, or any other person whose property and interests in property are blocked pursuant to § 510.201(a) if made by, to, or in the name of, or received from or in the name of, such a person; if made by, to, or in the name of, or received from or in the name of, an entity or individual acting for or on behalf of, or owned or controlled by, such a person; or if made in an attempt to violate, to evade, or to avoid the bar on the provision of contributions by, to, or for the benefit of such a person, or the receipt of contributions from such a person.
+
+Note 1 to § 510.408:
+
+Separate authorization by the Department of Commerce under the Export Administration Regulations (EAR), 15 CFR part 730 through 774, may be required if the charitable contributions are subject to the EAR.

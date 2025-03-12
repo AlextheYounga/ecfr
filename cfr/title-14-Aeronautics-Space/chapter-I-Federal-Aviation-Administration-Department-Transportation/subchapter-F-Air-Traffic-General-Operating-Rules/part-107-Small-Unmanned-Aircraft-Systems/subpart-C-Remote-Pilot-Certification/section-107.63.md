@@ -10,8 +10,10 @@ An applicant for a remote pilot certificate with a small UAS rating under this s
 
 (b) If the application is being made pursuant to paragraph (a)(2) of this section:
 
-(1) The application must be submitted to a Flight Standards District Office, a designated pilot examiner, an airman certification representative for a pilot school, a certificated flight instructor, or other person authorized by the Administrator;
+(1) The application must be submitted to the responsible Flight Standards office, a designated pilot examiner, an airman certification representative for a pilot school, a certificated flight instructor, or other person authorized by the Administrator;
 
 (2) The person accepting the application submission must verify the identity of the applicant in a manner acceptable to the Administrator; and
 
 (3) The person making the application must, by logbook endorsement or other manner acceptable to the Administrator, show the applicant meets the flight review requirements specified in § 61.56 of this chapter.
+
+[Docket FAA-2015-0150, Amdt. 107-1, 81 FR 42209, June 28, 2016, as amended by Docket FAA-2018-0119, Amdt. 107-2, 83 FR 9172, Mar. 5, 2018]

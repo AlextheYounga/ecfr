@@ -1,6 +1,6 @@
 ##### § 135.273 Duty period limitations and rest time requirements. #####
 
-(a) For purposes of this section -
+(a) For purposes of this section—
 
 *Calendar day* means the period of elapsed time, using Coordinated Universal Time or local time, that begins at midnight and ends 24 hours later at the next midnight.
 
@@ -40,9 +40,9 @@
 
 (14) A flight attendant is not considered to be scheduled for duty in excess of duty period limitations if the flights to which the flight attendant is assigned are scheduled and normally terminate within the limitations but due to circumstances beyond the control of the certificate holder (such as adverse weather conditions) are not at the time of departure expected to reach their destination within the scheduled time.
 
-(c) Notwithstanding paragraph (b) of this section, a certificate holder may apply the flight crewmember flight time and duty limitations and rest requirements of this part to flight attendants for all operations conducted under this part provided that -
+(c) Notwithstanding paragraph (b) of this section, a certificate holder may apply the flight crewmember flight time and duty limitations and rest requirements of this part to flight attendants for all operations conducted under this part provided that—
 
-(1) The certificate holder establishes written procedures that -
+(1) The certificate holder establishes written procedures that—
 
 (i) Apply to all flight attendants used in the certificate holder's operation;
 
@@ -52,6 +52,6 @@
 
 (iv) Are approved by the Administrator and described or referenced in the certificate holder's operations specifications; and
 
-(2) Whenever the Administrator finds that revisions are necessary for the continued adequacy of duty period limitation and rest requirement procedures that are required by paragraph (c)(1) of this section and that had been granted final approval, the certificate holder must, after notification by the Administrator, make any changes in the procedures that are found necessary by the Administrator. Within 30 days after the certificate holder receives such notice, it may file a petition to reconsider the notice with the certificate-holding district office. The filing of a petition to reconsider stays the notice, pending decision by the Administrator. However, if the Administrator finds that there is an emergency that requires immediate action in the interest of safety, the Administrator may, upon a statement of the reasons, require a change effective without stay.
+(2) Whenever the Administrator finds that revisions are necessary for the continued adequacy of duty period limitation and rest requirement procedures that are required by paragraph (c)(1) of this section and that had been granted final approval, the certificate holder must, after notification by the Administrator, make any changes in the procedures that are found necessary by the Administrator. Within 30 days after the certificate holder receives such notice, it may file a petition to reconsider the notice with the responsible Flight Standards office. The filing of a petition to reconsider stays the notice, pending decision by the Administrator. However, if the Administrator finds that there is an emergency that requires immediate action in the interest of safety, the Administrator may, upon a statement of the reasons, require a change effective without stay.
 
-[Amdt. 135-52, 59 FR 42993, Aug. 19, 1994, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996]
+[Amdt. 135-52, 59 FR 42993, Aug. 19, 1994, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018]

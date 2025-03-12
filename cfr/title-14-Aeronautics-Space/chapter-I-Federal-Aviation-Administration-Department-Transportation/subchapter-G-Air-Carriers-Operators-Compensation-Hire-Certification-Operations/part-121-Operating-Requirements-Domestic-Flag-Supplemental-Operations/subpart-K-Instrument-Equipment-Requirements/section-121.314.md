@@ -22,6 +22,6 @@ For each transport category airplane type certificated after January 1, 1958:
 
 (iii) The serial number of each airplane listed in the operations specifications issued to the certificate holder for operation under this part that has at least one Class D compartment that has not been converted or retrofitted.
 
-(2) The written report must be submitted to the Certificate Holding District Office by July 1, 1998, and at each three-month interval thereafter.
+(2) The written report must be submitted to the responsible Flight Standards office by July 1, 1998, and at each three-month interval thereafter.
 
-[Doc. No. 28937, 63 FR 8049, Feb. 17, 1998]
+[Doc. No. 28937, 63 FR 8049, Feb. 17, 1998, as amended by Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]

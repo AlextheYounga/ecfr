@@ -1,10 +1,10 @@
 ##### § 61.77 Special purpose pilot authorization: Operation of a civil aircraft of the United States and leased by a non-U.S. citizen. #####
 
-(a) *General.* The holder of a foreign pilot license issued by a contracting State to the Convention on International Civil Aviation who meets the requirements of this section may be issued a special purpose pilot authorization by the Administrator for the purpose of performing pilot duties -
+(a) *General.* The holder of a foreign pilot license issued by a contracting State to the Convention on International Civil Aviation who meets the requirements of this section may be issued a special purpose pilot authorization by the Administrator for the purpose of performing pilot duties—
 
 (1) On a civil aircraft of U.S. registry that is leased to a person who is not a citizen of the United States, and
 
-(2) For carrying persons or property for compensation or hire for operations in -
+(2) For carrying persons or property for compensation or hire for operations in—
 
 (i) Scheduled international air services in turbojet-powered airplanes of U.S. registry;
 
@@ -14,11 +14,11 @@
 
 (iv) Scheduled international air services, or nonscheduled international air transportation, in airplanes of U.S. registry having a payload capacity of more than 7,500 pounds.
 
-(b) *Eligibility.* To be eligible for the issuance or renewal of a special purpose pilot authorization, an applicant must present the following to an FAA Flight Standards District Office:
+(b) *Eligibility.* To be eligible for the issuance or renewal of a special purpose pilot authorization, an applicant must present the following to a Flight Standards office:
 
 (1) A foreign pilot license issued by the aeronautical authority of a contracting State to the Convention on International Civil Aviation that contains the appropriate aircraft category, class, type rating, if appropriate, and instrument rating for the aircraft to be flown;
 
-(2) A certification by the lessee of the aircraft -
+(2) A certification by the lessee of the aircraft—
 
 (i) Stating that the applicant is employed by the lessee;
 
@@ -30,15 +30,15 @@
 
 (4) Documentation the applicant meets the medical standards for the issuance of the foreign pilot license from the aeronautical authority of that contracting State to the Convention on International Civil Aviation; and
 
-(5) A statement that the applicant does not already hold a special purpose pilot authorization; however, if the applicant already holds a special purpose pilot authorization, then that special purpose pilot authorization must be surrendered to either the FAA Flight Standards District Office that issued it, or the FAA Flight Standards District Office processing the application for the authorization, prior to being issued another special purpose pilot authorization.
+(5) A statement that the applicant does not already hold a special purpose pilot authorization; however, if the applicant already holds a special purpose pilot authorization, then that special purpose pilot authorization must be surrendered to either the Flight Standards office that issued it, or the Flight Standards office processing the application for the authorization, prior to being issued another special purpose pilot authorization.
 
-(c) *Privileges.* A person issued a special purpose pilot authorization under this section -
+(c) *Privileges.* A person issued a special purpose pilot authorization under this section—
 
 (1) May exercise the privileges prescribed on the special purpose pilot authorization; and
 
 (2) Must comply with the limitations specified in this section and any additional limitations specified on the special purpose pilot authorization.
 
-(d) *General limitations.* A special purpose pilot authorization may be used only -
+(d) *General limitations.* A special purpose pilot authorization may be used only—
 
 (1) For flights between foreign countries or for flights in foreign air commerce within the time period allotted on the authorization.
 
@@ -64,7 +64,7 @@
 
 (2) *International air transportation,* as used in paragraph (e) of this section, means air transportation performed in airplanes for the public transport of passengers, mail, or cargo, in which service passes through the air space over the territory of more than one country.
 
-(g) *Expiration date.* Each special purpose pilot authorization issued under this section expires -
+(g) *Expiration date.* Each special purpose pilot authorization issued under this section expires—
 
 (1) 60 calendar months from the month it was issued, unless sooner suspended or revoked;
 
@@ -74,7 +74,7 @@
 
 (4) When the person no longer meets the medical standards for the issuance of the foreign pilot license.
 
-(h) *Renewal.* A person exercising the privileges of a special purpose pilot authorization may apply for a 60-calendar-month extension of that authorization, provided the person -
+(h) *Renewal.* A person exercising the privileges of a special purpose pilot authorization may apply for a 60-calendar-month extension of that authorization, provided the person—
 
 (1) Continues to meet the requirements of this section; and
 
@@ -82,4 +82,4 @@
 
 (i) *Surrender.* The holder of a special purpose pilot authorization must surrender the authorization to the Administrator within 7 days after the date the authorization terminates.
 
-[Doc. No. 25910, 62 FR 40901, July 30, 1997, as amended by Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42557, Aug. 21, 2009; Amdt. 61-134, 80 FR 33401, June 12, 2015]
+[Doc. No. 25910, 62 FR 40901, July 30, 1997, as amended by Amdt. 61-123, 74 FR 34234, July 15, 2009; Amdt. 61-124, 74 FR 42557, Aug. 21, 2009; Amdt. 61-134, 80 FR 33401, June 12, 2015; Docket FAA-2018-0119, Amdt. 61-141, 83 FR 9170, Mar. 5, 2018]

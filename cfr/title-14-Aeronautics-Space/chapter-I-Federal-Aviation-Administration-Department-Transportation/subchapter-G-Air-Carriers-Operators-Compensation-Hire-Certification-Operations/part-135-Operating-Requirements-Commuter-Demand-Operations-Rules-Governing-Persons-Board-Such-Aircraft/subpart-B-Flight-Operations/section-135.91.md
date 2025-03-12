@@ -2,7 +2,7 @@
 
 (a) Except as provided in paragraphs (d) and (e) of this section, no certificate holder may allow the carriage or operation of equipment for the storage, generation or dispensing of medical oxygen unless the conditions in paragraphs (a) through (c) of this section are satisfied. Beginning August 22, 2016, a certificate holder may allow a passenger to carry and operate a portable oxygen concentrator when the conditions in paragraphs (b) and (f) of this section are satisfied.
 
-(1) The equipment must be -
+(1) The equipment must be—
 
 (i) Of an approved type or in conformity with the manufacturing, packaging, marking, labeling, and maintenance requirements of title 49 CFR parts 171, 172, and 173, except § 173.24(a)(1);
 
@@ -16,7 +16,7 @@
 
 (2) When the oxygen is stored in the form of a liquid, the equipment must have been under the certificate holder's approved maintenance program since its purchase new or since the storage container was last purged.
 
-(3) When the oxygen is stored in the form of a compressed gas as defined in title 49 CFR 173.115(b) -
+(3) When the oxygen is stored in the form of a compressed gas as defined in title 49 CFR 173.115(b)—
 
 (i) When owned by the certificate holder, it must be maintained under its approved maintenance program; and
 
@@ -32,9 +32,9 @@
 
 (d) Paragraph (a)(1)(i) of this section does not apply when that equipment is furnished by a professional or medical emergency service for use on board an aircraft in a medical emergency when no other practical means of transportation (including any other properly equipped certificate holder) is reasonably available and the person carried under the medical emergency is accompanied by a person trained in the use of medical oxygen.
 
-(e) Each certificate holder who, under the authority of paragraph (d) of this section, deviates from paragraph (a)(1)(i) of this section under a medical emergency shall, within 10 days, excluding Saturdays, Sundays, and Federal holidays, after the deviation, send to the certificate-holding district office a complete report of the operation involved, including a description of the deviation and the reasons for it.
+(e) Each certificate holder who, under the authority of paragraph (d) of this section, deviates from paragraph (a)(1)(i) of this section under a medical emergency shall, within 10 days, excluding Saturdays, Sundays, and Federal holidays, after the deviation, send to the responsible Flight Standards office a complete report of the operation involved, including a description of the deviation and the reasons for it.
 
-(f) *Portable oxygen concentrators* - (1) *Acceptance criteria.* A passenger may carry or operate a portable oxygen concentrator for personal use on board an aircraft and a certificate holder may allow a passenger to carry or operate a portable oxygen concentrator on board an aircraft operated under this part during all phases of flight if the portable oxygen concentrator satisfies all of the requirements of this paragraph (f):
+(f) *Portable oxygen concentrators*—(1) *Acceptance criteria.* A passenger may carry or operate a portable oxygen concentrator for personal use on board an aircraft and a certificate holder may allow a passenger to carry or operate a portable oxygen concentrator on board an aircraft operated under this part during all phases of flight if the portable oxygen concentrator satisfies all of the requirements of this paragraph (f):
 
 (i) Is legally marketed in the United States in accordance with Food and Drug Administration requirements in title 21 of the CFR;
 
@@ -100,4 +100,4 @@
 
 (ii) *Stowage of device.* During movement on the surface, takeoff and landing, the device must be stowed under the seat in front of the user, or in another approved stowage location so that it does not block the aisle way or the entryway to the row. If the device is to be operated by the user, it must be operated only at a seat location that does not restrict any passenger's access to, or use of, any required emergency or regular exit, or the aisle(s) in the passenger compartment.
 
-[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Docket FAA-2014-0554, Amdt. 135-133, 81 FR 33119, May 24, 2016]
+[Doc. No. 16097, 43 FR 46783, Oct. 10, 1978, as amended by Amdt. 135-60, 61 FR 2616, Jan. 26, 1996; Docket FAA-2014-0554, Amdt. 135-133, 81 FR 33119, May 24, 2016; Docket FAA-2018-0119, Amdt. 135-139, 83 FR 9175, Mar. 5, 2018]

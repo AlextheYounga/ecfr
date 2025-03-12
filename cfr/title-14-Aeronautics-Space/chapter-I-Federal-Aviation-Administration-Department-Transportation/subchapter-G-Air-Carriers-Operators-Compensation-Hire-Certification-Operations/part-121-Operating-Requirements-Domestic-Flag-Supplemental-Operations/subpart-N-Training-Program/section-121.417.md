@@ -76,7 +76,7 @@
 
 (D) Emergency evacuation including the use of a slide.
 
-(d) After September 1, 1993, no crewmember may serve in operations under this part unless that crewmember has performed the PBE drill and the firefighting drill described by paragraphs (c)(1)(i) and (c)(1)(ii) of this section, as part of a one-time training requirement of paragraphs (c)(1) or (c)(2) of this section as appropriate. Any crewmember who performs the PBE drill and the firefighting drill prescribed in paragraphs (c)(1)(i) and (c)(1)(ii) of this section after May 26, 1987, is deemed to be in compliance with this regulation upon presentation of information or documentation, in a form and manner acceptable to the Director, Flight Standards Service, showing that the appropriate drills have been accomplished.
+(d) After September 1, 1993, no crewmember may serve in operations under this part unless that crewmember has performed the PBE drill and the firefighting drill described by paragraphs (c)(1)(i) and (c)(1)(ii) of this section, as part of a one-time training requirement of paragraphs (c)(1) or (c)(2) of this section as appropriate. Any crewmember who performs the PBE drill and the firefighting drill prescribed in paragraphs (c)(1)(i) and (c)(1)(ii) of this section after May 26, 1987, is deemed to be in compliance with this regulation upon presentation of information or documentation, in a form and manner acceptable to the Executive Director, Flight Standards Service, showing that the appropriate drills have been accomplished.
 
 (e) Crewmembers who serve in operations above 25,000 feet must receive instruction in the following:
 
@@ -110,4 +110,4 @@
 
 (8) *Simulated fire* means an artificial duplication of smoke or flame used to create various aircraft firefighting scenarios, such as lavatory, galley oven, and aircraft seat fires.
 
-[Doc. No. 9509, 35 FR 90, Jan. 3, 1970]Editorial Note:For Federal Register citations affecting § 121.417, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.fdsys.gov.*
+[Doc. No. 9509, 35 FR 90, Jan. 3, 1970]Editorial Note:For Federal Register citations affecting § 121.417, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

@@ -1,7 +1,5 @@
 ##### § 3010.23 Calculation of percentage change in rates. #####
 
-Link to an amendment published at 83 FR 4591, Feb. 1, 2018.
-
 (a) *Definitions.* In this section:
 
 (1) *Current rate* - (i) *In general.* Except as provided in paragraphs (a)(1)(ii) and (iii) of this section, the term *current rate* means the rate in effect when the Postal Service files the notice of rate adjustment.
@@ -32,6 +30,8 @@ Percentage change in rates =
 
 (4) *Adjustment for deletion of rate cell when alternate rate cell is not available.* For an adjustment accounting for the effects of the deletion of a rate cell when an alternate rate cell is not available, the Postal Service should adjust the billing determinants associated with the rate cell to zero. If the Postal Service does not adjust the billing determinants for the rate cell to zero, the Postal Service shall include a rationale for its treatment of the rate cell with the information required under paragraph (d)(2) of this section.
 
+(5) *Procedures for mail preparation changes.* The Postal Service shall provide published notice of all mail preparation changes in a single, publicly available source. The Postal Service shall file notice with the Commission of the single source it will use to provide published notice of all mail preparation changes. When providing notice of a mail preparation change, the Postal Service shall affirmatively state whether or not the change requires compliance with paragraph (d)(2) of this section. If the Postal Service's determination regarding compliance with paragraph (d)(2) of this section is raised by the Commission or any other party, the Postal Service must demonstrate, by a preponderance of the evidence, that a mail preparation change does not require compliance with paragraph (d)(2) of this section in any proceeding where compliance is at issue. In any challenge to the Postal Service's determination concerning a mail preparation change, the challenging party shall provide all information to rebut the Postal Service's determination that the change is not subject to the price cap.
+
 (e) *Treatment of rate incentives.* (1) Rate incentives may be excluded from a percentage change in rates calculation. If the Postal Service elects to exclude a rate incentive from a percentage change in rates calculation, the rate incentive shall be treated in the same manner as a rate under a negotiated service agreement (as described in § 3010.24).
 
 (2) A rate incentive may be included in a percentage change in rates calculation if it meets the following criteria:
@@ -42,4 +42,4 @@ Percentage change in rates =
 
 (iii) The rate incentive is a rate of general applicability.
 
-[79 FR 33833, June 12, 2014]
+[79 FR 33833, June 12, 2014, as amended at 83 FR 4591, Feb. 1, 2018]

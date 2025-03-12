@@ -1,12 +1,12 @@
 ##### § 119.1 Applicability. #####
 
-(a) This part applies to each person operating or intending to operate civil aircraft -
+(a) This part applies to each person operating or intending to operate civil aircraft—
 
 (1) As an air carrier or commercial operator, or both, in air commerce; or
 
 (2) When common carriage is not involved, in operations of U.S.-registered civil airplanes with a seat configuration of 20 or more passengers, or a maximum payload capacity of 6,000 pounds or more.
 
-(b) This part prescribes -
+(b) This part prescribes—
 
 (1) The types of air operator certificates issued by the Federal Aviation Administration, including air carrier certificates and operating certificates;
 
@@ -24,7 +24,7 @@
 
 (d) This part does not govern operations conducted under part 91, subpart K (when common carriage is not involved) nor does it govern operations conducted under part 129, 133, 137, or 139 of this chapter.
 
-(e) Except for operations when common carriage is not involved conducted with airplanes having a passenger-seat configuration of 20 seats or more, excluding any required crewmember seat, or a payload capacity of 6,000 pounds or more, this part does not apply to -
+(e) Except for operations when common carriage is not involved conducted with airplanes having a passenger-seat configuration of 20 seats or more, excluding any required crewmember seat, or a payload capacity of 6,000 pounds or more, this part does not apply to—
 
 (1) Student instruction;
 
@@ -32,7 +32,7 @@
 
 (3) Ferry or training flights;
 
-(4) Aerial work operations, including -
+(4) Aerial work operations, including—
 
 (i) Crop dusting, seeding, spraying, and bird chasing;
 
@@ -50,7 +50,7 @@
 
 (6) Nonstop flights conducted within a 25-statute-mile radius of the airport of takeoff carrying persons or objects for the purpose of conducting intentional parachute operations.
 
-(7) Helicopter flights conducted within a 25 statute mile radius of the airport of takeoff if -
+(7) Helicopter flights conducted within a 25 statute mile radius of the airport of takeoff if—
 
 (i) Not more than two passengers are carried in the helicopter in addition to the required flightcrew;
 
@@ -58,7 +58,7 @@
 
 (iii) The helicopter used is certificated in the standard category and complies with the 100-hour inspection requirements of part 91 of this chapter;
 
-(iv) The operator notifies the FAA Flight Standards District Office responsible for the geographic area concerned at least 72 hours before each flight and furnishes any essential information that the office requests;
+(iv) The operator notifies the responsible Flight Standards office at least 72 hours before each flight and furnishes any essential information that the office requests;
 
 (v) The number of flights does not exceed a total of six in any calendar year;
 
@@ -74,4 +74,4 @@
 
 (11) Small UAS operations conducted under part 107 of this chapter.
 
-[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-4, 66 FR 23557, May 9, 2001; Amdt. 119-5, 67 FR 9554, Mar. 1, 2002; Amdt. 119-7, 68 FR 54584, Sept. 17, 2003; 72 FR 6911, Feb. 13, 2007; Docket FAA-2015-0150, Amdt. 119-18, 81 FR 42214, June 28, 2016]
+[Doc. No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Amdt. 119-4, 66 FR 23557, May 9, 2001; Amdt. 119-5, 67 FR 9554, Mar. 1, 2002; Amdt. 119-7, 68 FR 54584, Sept. 17, 2003; 72 FR 6911, Feb. 13, 2007; Docket FAA-2015-0150, Amdt. 119-18, 81 FR 42214, June 28, 2016; Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018]

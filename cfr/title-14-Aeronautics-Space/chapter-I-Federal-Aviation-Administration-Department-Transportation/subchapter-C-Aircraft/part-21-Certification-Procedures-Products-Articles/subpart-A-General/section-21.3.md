@@ -32,9 +32,9 @@
 
 (13) A failure or malfunction of more than one attitude, airspeed, or altitude instrument during a given operation of the aircraft.
 
-(d) The requirements of paragraph (a) of this section do not apply to -
+(d) The requirements of paragraph (a) of this section do not apply to—
 
-(1) Failures, malfunctions, or defects that the holder of a type certificate (including amended or supplemental type certificates), PMA, TSO authorization, or the licensee of a type certificate determines -
+(1) Failures, malfunctions, or defects that the holder of a type certificate (including amended or supplemental type certificates), PMA, TSO authorization, or the licensee of a type certificate determines—
 
 (i) Were caused by improper maintenance or use;
 
@@ -42,15 +42,15 @@
 
 (iii) Were reported under the accident reporting provisions of 49 CFR part 830 of the regulations of the National Transportation Safety Board.
 
-(2) Failures, malfunctions, or defects in products or articles -
+(2) Failures, malfunctions, or defects in products or articles—
 
 (i) Manufactured by a foreign manufacturer under a U.S. type certificate issued under § 21.29 or under an approval issued under § 21.621; or
 
 (ii) Exported to the United States under § 21.502.
 
-(e) Each report required by this section -
+(e) Each report required by this section—
 
-(1) Must be made to the Aircraft Certification Office in the region in which the person required to make the report is located within 24 hours after it has determined that the failure, malfunction, or defect required to be reported has occurred. However, a report that is due on a Saturday or a Sunday may be delivered on the following Monday and one that is due on a holiday may be delivered on the next workday;
+(1) Must be made to the FAA within 24 hours after it has determined that the failure, malfunction, or defect required to be reported has occurred. However, a report that is due on a Saturday or a Sunday may be delivered on the following Monday and one that is due on a holiday may be delivered on the next workday;
 
 (2) Must be transmitted in a manner and form acceptable to the FAA and by the most expeditious method available; and
 
@@ -62,6 +62,6 @@
 
 (iii) Nature of the failure, malfunction, or defect.
 
-(f) If an accident investigation or service difficulty report shows that a product or article manufactured under this part is unsafe because of a manufacturing or design data defect, the holder of the production approval for that product or article must, upon request of the FAA, report to the FAA the results of its investigation and any action taken or proposed by the holder of that production approval to correct that defect. If action is required to correct the defect in an existing product or article, the holder of that production approval must send the data necessary for issuing an appropriate airworthiness directive to the appropriate aircraft certification office.
+(f) If an accident investigation or service difficulty report shows that a product or article manufactured under this part is unsafe because of a manufacturing or design data defect, the holder of the production approval for that product or article must, upon request of the FAA, report to the FAA the results of its investigation and any action taken or proposed by the holder of that production approval to correct that defect. If action is required to correct the defect in an existing product or article, the holder of that production approval must send the data necessary for issuing an appropriate airworthiness directive to the FAA.
 
-[Amdt. 21-36, 35 FR 18187, Nov. 28, 1970, as amended by Amdt. 21-37, 35 FR 18450, Dec. 4, 1970; Amdt. 21-50, 45 FR 38346, June 9, 1980; Amdt. 21-67, 54 FR 39291, Sept. 25, 1989; Amdt. 21-92, 74 FR 53385, Oct. 16, 2009]
+[Amdt. 21-36, 35 FR 18187, Nov. 28, 1970, as amended by Amdt. 21-37, 35 FR 18450, Dec. 4, 1970; Amdt. 21-50, 45 FR 38346, June 9, 1980; Amdt. 21-67, 54 FR 39291, Sept. 25, 1989; Amdt. 21-92, 74 FR 53385, Oct. 16, 2009; Doc. No. FAA-2018-0119, Amdt. 21-101, 83 FR 9169, Mar. 5, 2018]

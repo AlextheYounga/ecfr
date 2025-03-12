@@ -4,7 +4,7 @@
 
 (1) An approved Minimum Equipment List exists for that airplane.
 
-(2) The certificate-holding district office has issued the certificate holder operations specifications authorizing operations in accordance with an approved Minimum Equipment List. The flight crew shall have direct access at all times prior to flight to all of the information contained in the approved Minimum Equipment List through printed or other means approved by the Administrator in the certificate holders operations specifications. An approved Minimum Equipment List, as authorized by the operations specifications, constitutes an approved change to the type design without requiring recertification.
+(2) The responsible Flight Standards office has issued the certificate holder operations specifications authorizing operations in accordance with an approved Minimum Equipment List. The flight crew shall have direct access at all times prior to flight to all of the information contained in the approved Minimum Equipment List through printed or other means approved by the Administrator in the certificate holders operations specifications. An approved Minimum Equipment List, as authorized by the operations specifications, constitutes an approved change to the type design without requiring recertification.
 
 (3) The approved Minimum Equipment List must:
 
@@ -26,4 +26,4 @@
 
 (c) Notwithstanding paragraphs (b)(1) and (b)(3) of this section, an airplane with inoperable instruments or equipment may be operated under a special flight permit under §§ 21.197 and 21.199 of this chapter.
 
-[Doc. No. 25780, 56 FR 12310, Mar. 22, 1991; Amdt. 121-222, 56 FR 14290, Apr. 8, 1991; Amdt. 121-253, 61 FR 2615, Jan. 26, 1996]
+[Doc. No. 25780, 56 FR 12310, Mar. 22, 1991; Amdt. 121-222, 56 FR 14290, Apr. 8, 1991; Amdt. 121-253, 61 FR 2615, Jan. 26, 1996; Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9172, Mar. 5, 2018]

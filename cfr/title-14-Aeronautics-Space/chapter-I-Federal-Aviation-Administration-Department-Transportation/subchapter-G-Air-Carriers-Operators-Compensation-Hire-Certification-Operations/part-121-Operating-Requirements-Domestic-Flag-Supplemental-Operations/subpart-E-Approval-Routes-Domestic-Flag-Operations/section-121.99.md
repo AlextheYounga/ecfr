@@ -1,6 +1,6 @@
-##### § 121.99 Communications facilities - domestic and flag operations. #####
+##### § 121.99 Communications facilities—domestic and flag operations. #####
 
-(a) Each certificate holder conducting domestic or flag operations must show that a two-way communication system, or other means of communication approved by the FAA certificate holding district office, is available over the entire route. The communications may be direct links or via an approved communication link that will provide reliable and rapid communications under normal operating conditions between each airplane and the appropriate dispatch office, and between each airplane and the appropriate air traffic control unit.
+(a) Each certificate holder conducting domestic or flag operations must show that a two-way communication system, or other means of communication approved by the responsible Flight Standards office, is available over the entire route. The communications may be direct links or via an approved communication link that will provide reliable and rapid communications under normal operating conditions between each airplane and the appropriate dispatch office, and between each airplane and the appropriate air traffic control unit.
 
 (b) Except in an emergency, for all flag and domestic kinds of operations, the communications systems between each airplane and the dispatch office must be independent of any system operated by the United States.
 
@@ -10,4 +10,4 @@
 
 (e) Operators of two-engine turbine-powered airplanes with 207 minute ETOPS approval in the North Pacific Area of Operation must comply with the requirements of paragraph (d) of this section as of February 15, 2007.
 
-[Doc. No. 28154, 62 FR 13256, Mar. 19, 1997, as amended by Amdt. 121-329, 72 FR 1878, Jan. 16, 2007; Amdt. 121-333, 72 FR 31680, June 7, 2007]
+[Doc. No. 28154, 62 FR 13256, Mar. 19, 1997, as amended by Amdt. 121-329, 72 FR 1878, Jan. 16, 2007; Amdt. 121-333, 72 FR 31680, June 7, 2007; Docket FAA-2018-0119, Amdt. 121-380, 83 FR 9173, Mar. 5, 2018]

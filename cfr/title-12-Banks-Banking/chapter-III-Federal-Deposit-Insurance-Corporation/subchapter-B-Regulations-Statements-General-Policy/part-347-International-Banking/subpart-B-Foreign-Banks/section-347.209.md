@@ -1,5 +1,7 @@
 ##### § 347.209 Pledge of assets. #####
 
+Link to an amendment published at 83 FR 9143, Mar. 5, 2018.
+
 (a) *Purpose.* A foreign bank that has an insured branch must pledge assets for the benefit of the FDIC or its designee(s). Whenever the FDIC is obligated under section 11(f) of the Federal Deposit Insurance Act (12 U.S.C. 1821(f)) to pay the insured deposits of an insured branch, the assets pledged under this section must become the property of the FDIC and be used to the extent necessary to protect the Deposit Insurance Fund.
 
 (b) *Amount of assets to be pledged.* (1) For a newly insured branch, a foreign bank must pledge assets equal to at least 5 percent of the liabilities of the branch, based on the branch's projection of its liabilities at the end of each of the first three years of operations. For all other insured branches, a foreign bank must pledge assets equal to the appropriate percentage applicable to the insured branch, as determined by reference to the risk-based assessment schedule contained in this paragraph, of the insured branch's average liabilities for the last 30 days of the most recent calendar quarter.4

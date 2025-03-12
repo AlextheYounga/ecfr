@@ -4,21 +4,21 @@
 
 (b) *Limit of validity.* Each person identified in paragraph (c) of this section must comply with the following requirements:
 
-(1) Establish a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane. This demonstration must include an evaluation of airplane structural configurations and be supported by test evidence and analysis at a minimum and, if available, service experience, or service experience and teardown inspection results, of high-time airplanes of similar structural design, accounting for differences in operating conditions and procedures. The airplane structural configurations to be evaluated include -
+(1) Establish a limit of validity of the engineering data that supports the structural maintenance program (hereafter referred to as LOV) that corresponds to the period of time, stated as a number of total accumulated flight cycles or flight hours or both, during which it is demonstrated that widespread fatigue damage will not occur in the airplane. This demonstration must include an evaluation of airplane structural configurations and be supported by test evidence and analysis at a minimum and, if available, service experience, or service experience and teardown inspection results, of high-time airplanes of similar structural design, accounting for differences in operating conditions and procedures. The airplane structural configurations to be evaluated include—
 
 (i) All model variations and derivatives approved under the type certificate; and
 
 (ii) All structural modifications to and replacements for the airplane structural configurations specified in paragraph (b)(1)(i) of this section, mandated by airworthiness directives as of January 14, 2011.
 
-(2) If the LOV depends on performance of maintenance actions for which service information has not been mandated by airworthiness directive as of January 14, 2011, submit the following to the FAA Oversight Office:
+(2) If the LOV depends on performance of maintenance actions for which service information has not been mandated by airworthiness directive as of January 14, 2011, submit the following to the responsible Aircraft Certification Service office:
 
 (i) For those maintenance actions for which service information has been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions.
 
-(ii) For those maintenance actions for which service information has not been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions and a binding schedule for providing in a timely manner the necessary service information for those actions. Once the FAA Oversight Office approves this schedule, each person identified in paragraph (c) of this section must comply with that schedule.
+(ii) For those maintenance actions for which service information has not been issued as of the applicable compliance date specified in paragraph (c) of this section, a list identifying each of those actions and a binding schedule for providing in a timely manner the necessary service information for those actions. Once the responsible Aircraft Certification Service office approves this schedule, each person identified in paragraph (c) of this section must comply with that schedule.
 
 (3) Unless previously accomplished, establish an Airworthiness Limitations section (ALS) for each airplane structural configuration evaluated under paragraph (b)(1) of this section.
 
-(4) Incorporate the applicable LOV established under paragraph (b)(1) of this section into the ALS for each airplane structural configuration evaluated under paragraph (b)(1) and submit it to the FAA Oversight Office for approval.
+(4) Incorporate the applicable LOV established under paragraph (b)(1) of this section into the ALS for each airplane structural configuration evaluated under paragraph (b)(1) and submit it to the responsible Aircraft Certification Service office for approval.
 
 (c) *Persons who must comply and compliance dates.* The following persons must comply with the requirements of paragraph (b) of this section by the specified date.
 
@@ -72,11 +72,11 @@
 
 (2) A proposed means of compliance with paragraphs (b)(1) through (b)(4) of this section.
 
-(3) A proposal for submitting a draft of all compliance items required by paragraph (b) of this section for review by the FAA Oversight Office not less than 60 days before the compliance date specified in paragraph (c) of this section, as applicable.
+(3) A proposal for submitting a draft of all compliance items required by paragraph (b) of this section for review by the responsible Aircraft Certification Service office not less than 60 days before the compliance date specified in paragraph (c) of this section, as applicable.
 
 (4) A proposal for how the LOV will be distributed.
 
-(e) *Compliance dates for compliance plans.* The following persons must submit the compliance plan described in paragraph (d) of this section to the FAA Oversight Office by the specified date.
+(e) *Compliance dates for compliance plans.* The following persons must submit the compliance plan described in paragraph (d) of this section to the responsible Aircraft Certification Service office by the specified date.
 
 (1) Holders of type certificates: No later than April 14, 2011.
 
@@ -132,52 +132,49 @@
 
 (19) D & R Nevada, LLC, Convair Model 23M.
 
-Table 1 - Compliance Dates for Affected Airplanes
+|             Airplane model  <br/>(all existing <sup>1</sup> models)              |Compliance date—  <br/>(months after January 14, 2011)|
+|----------------------------------------------------------------------------------|------------------------------------------------------|
+|                                     Airbus:                                      |                                                      |
+|                                   A300 Series                                    |                          18                          |
+|                           A310 Series, A300-600 Series                           |                          48                          |
+|                                   A318 Series                                    |                          48                          |
+|                                   A319 Series                                    |                          48                          |
+|                                   A320 Series                                    |                          48                          |
+|                                   A321 Series                                    |                          48                          |
+|                      A330-200, -200 Freighter, -300 Series                       |                          48                          |
+|                        A340-200, -300, -500, -600 Series                         |                          48                          |
+|                                 A380-800 Series                                  |                          60                          |
+|                                     Boeing:                                      |                                                      |
+|                                       717                                        |                          48                          |
+|                                 727 (all series)                                 |                          18                          |
+|              737 (Classics): 737-100, -200, -200C, -300, -400, -500              |                          18                          |
+|                737 (NG): 737-600, -700, -700C, -800, -900, -900ER                |                          48                          |
+|747 (Classics): 747-100, -100B, -100B SUD, -200B, -200C, -200F, -300, 747SP, 747SR|                          18                          |
+|                          747-400: 747-400, -400D, -400F                          |                          48                          |
+|                                       757                                        |                          48                          |
+|                                       767                                        |                          48                          |
+|                                  777-200, -300                                   |                          48                          |
+|                            777-200LR, 777-300ER, 777F                            |                          60                          |
+|                                   Bombardier:                                    |                                                      |
+|      CL-600: 2D15 (Regional Jet Series 705), 2D24 (Regional Jet Series 900)      |                          60                          |
+|                                     Embraer:                                     |                                                      |
+|                                     ERJ 170                                      |                          60                          |
+|                                     ERJ 190                                      |                          60                          |
+|                                     Fokker:                                      |                                                      |
+|                            F.28 Mark 0070, Mark 0100                             |                          18                          |
+|                                    Lockheed:                                     |                                                      |
+|                                      L-1011                                      |                          18                          |
+|                                       188                                        |                          18                          |
+|                                 382 (all series)                                 |                          18                          |
+|                                McDonnell Douglas:                                |                                                      |
+|                                    DC-8, -8F                                     |                          18                          |
+|                                       DC-9                                       |                          18                          |
+|                      MD-80 (DC-9-81, -82, -83, -87, MD-88)                       |                          18                          |
+|                                      MD-90                                       |                          48                          |
+|                                      DC-10                                       |                          18                          |
+|                                      MD-10                                       |                          48                          |
+|                                   MD-11, -11F                                    |                          48                          |
+|  All Other Airplane Models Listed on a Type Certificate as of January 14, 2011   |                          60                          |
+|              <sup>1</sup> Type certificated as of January 14, 2011.              |                                                      |
 
-|              Airplane model  <br/>(all existing<sup>1</sup> models)              |Compliance date -  <br/>(months after January 14, 2011)|
-|----------------------------------------------------------------------------------|-------------------------------------------------------|
-|                                     Airbus:                                      |                                                       |
-|                                   A300 Series                                    |                          18                           |
-|                           A310 Series, A300-600 Series                           |                          48                           |
-|                                   A318 Series                                    |                          48                           |
-|                                   A319 Series                                    |                          48                           |
-|                                   A320 Series                                    |                          48                           |
-|                                   A321 Series                                    |                          48                           |
-|                      A330-200, -200 Freighter, -300 Series                       |                          48                           |
-|                        A340-200, -300, -500, -600 Series                         |                          48                           |
-|                                 A380-800 Series                                  |                          60                           |
-|                                     Boeing:                                      |                                                       |
-|                                       717                                        |                          48                           |
-|                                 727 (all series)                                 |                          18                           |
-|              737 (Classics): 737-100, -200, -200C, -300, -400, -500              |                          18                           |
-|                737 (NG): 737-600, -700, -700C, -800, -900, -900ER                |                          48                           |
-|747 (Classics): 747-100, -100B, -100B SUD, -200B, -200C, -200F, -300, 747SP, 747SR|                          18                           |
-|                          747-400: 747-400, -400D, -400F                          |                          48                           |
-|                                       757                                        |                          48                           |
-|                                       767                                        |                          48                           |
-|                                  777-200, -300                                   |                          48                           |
-|                            777-200LR, 777-300ER, 777F                            |                          60                           |
-|                                   Bombardier:                                    |                                                       |
-|      CL-600: 2D15 (Regional Jet Series 705), 2D24 (Regional Jet Series 900)      |                          60                           |
-|                                     Embraer:                                     |                                                       |
-|                                     ERJ 170                                      |                          60                           |
-|                                     ERJ 190                                      |                          60                           |
-|                                     Fokker:                                      |                                                       |
-|                            F.28 Mark 0070, Mark 0100                             |                          18                           |
-|                                    Lockheed:                                     |                                                       |
-|                                      L-1011                                      |                          18                           |
-|                                       188                                        |                          18                           |
-|                                 382 (all series)                                 |                          18                           |
-|                                McDonnell Douglas:                                |                                                       |
-|                                    DC-8, -8F                                     |                          18                           |
-|                                       DC-9                                       |                          18                           |
-|                      MD-80 (DC-9-81, -82, -83, -87, MD-88)                       |                          18                           |
-|                                      MD-90                                       |                          48                           |
-|                                      DC-10                                       |                          18                           |
-|                                      MD-10                                       |                          48                           |
-|                                   MD-11, -11F                                    |                          48                           |
-|  All Other Airplane Models Listed on a Type Certificate as of January 14, 2011   |                          60                           |
-
-<sup>1</sup> Type certificated as of January 14, 2011.
-
-[Doc. No. FAA-2006-24281, 75 FR 69782, Nov. 15, 2010, as amended at 77 FR 30878, May 24, 2012]
+[Doc. No. FAA-2006-24281, 75 FR 69782, Nov. 15, 2010, as amended at 77 FR 30878, May 24, 2012; Doc. No. FAA-2018-0119, Amdt. 26-7, 83 FR 9169, Mar. 5, 2018]

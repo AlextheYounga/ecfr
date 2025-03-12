@@ -22,11 +22,11 @@ A pilot school that holds examining authority may only recommend the issuance of
 
 (1) Knows, or has reason to believe, the test has been compromised; or
 
-(2) Is notified by an FAA Flight Standards District Office that there is reason to believe or it is known that the test has been compromised.
+(2) Is notified by the responsible Flight Standards office that there is reason to believe or it is known that the test has been compromised.
 
 (e) A pilot school that holds examining authority must maintain a record of all temporary airman certificates it issues, which consist of the following information:
 
-(1) A chronological listing that includes -
+(1) A chronological listing that includes—
 
 (i) The date the temporary airman certificate was issued;
 
@@ -46,4 +46,4 @@ A pilot school that holds examining authority may only recommend the issuance of
 
 (f) Except for pilot schools that have an airman certification representative, when a student passes the knowledge test or practical test, the pilot school that holds examining authority must submit that student's airman application file and training record to the FAA for processing for the issuance of a permanent airman certificate.
 
-[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40908, July 30, 1997]
+[Doc. No. 25910, 62 FR 16347, Apr. 4, 1997; Amdt. 141-9, 62 FR 40908, July 30, 1997, as amended by Docket FAA-2018-0119, Amdt. 141-19, 83 FR 9176, Mar. 5, 2018]

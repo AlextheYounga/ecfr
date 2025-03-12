@@ -12,7 +12,7 @@
 
 (5) Chief Inspector.
 
-(b) The Administrator may approve positions or numbers of positions other than those listed in paragraph (a) of this section for a particular operation if the certificate holder shows that it can perform the operation with the highest degree of safety under the direction of fewer or different categories of management personnel due to -
+(b) The Administrator may approve positions or numbers of positions other than those listed in paragraph (a) of this section for a particular operation if the certificate holder shows that it can perform the operation with the highest degree of safety under the direction of fewer or different categories of management personnel due to—
 
 (1) The kind of operation involved;
 
@@ -22,11 +22,11 @@
 
 (c) The title of the positions required under paragraph (a) of this section or the title and number of equivalent positions approved under paragraph (b) of this section shall be set forth in the certificate holder's operations specifications.
 
-(d) The individuals who serve in the positions required or approved under paragraph (a) or (b) of this section and anyone in a position to exercise control over operations conducted under the operating certificate must -
+(d) The individuals who serve in the positions required or approved under paragraph (a) or (b) of this section and anyone in a position to exercise control over operations conducted under the operating certificate must—
 
 (1) Be qualified through training, experience, and expertise;
 
-(2) To the extent of their responsibilities, have a full understanding of the following materials with respect to the certificate holder's operation -
+(2) To the extent of their responsibilities, have a full understanding of the following materials with respect to the certificate holder's operation—
 
 (i) Aviation safety standards and safe operating practices;
 
@@ -46,4 +46,6 @@
 
 (2) List in the manual the names and business addresses of the individuals assigned to those positions; and
 
-(3) Notify the certificate-holding district office within 10 days of any change in personnel or any vacancy in any position listed.
+(3) Notify the responsible Flight Standards office within 10 days of any change in personnel or any vacancy in any position listed.
+
+[Docket No. 28154, 60 FR 65913, Dec. 20, 1995, as amended by Docket FAA-2018-0119, Amdt. 119-19, 83 FR 9172, Mar. 5, 2018]
