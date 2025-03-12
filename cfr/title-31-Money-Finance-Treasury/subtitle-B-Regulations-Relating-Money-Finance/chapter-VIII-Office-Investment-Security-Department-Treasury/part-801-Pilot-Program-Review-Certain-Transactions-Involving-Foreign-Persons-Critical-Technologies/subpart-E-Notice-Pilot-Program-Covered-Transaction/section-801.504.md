@@ -1,0 +1,3 @@
+##### § 801.504 Agency notice of pilot program covered transactions. #####
+
+Any member of the Committee, or his designee at or above the Under Secretary or equivalent level, may file an agency notice to the Committee through the Staff Chairperson regarding a pilot program covered transaction for which no declaration has been submitted pursuant to § 801.401 and no written notice has been filed under § 801.501(a) if that member has reason to believe that the transaction is a pilot program covered transaction and may raise national security considerations. Notices filed under this paragraph are deemed accepted upon their receipt by the Staff Chairperson.

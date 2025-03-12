@@ -1,0 +1,3 @@
+##### § 801.102 Effect on other law. #####
+
+Unless otherwise indicated, nothing in this part shall be construed as altering or affecting any other authority, process, regulation, investigation, enforcement measure, or review provided by or established under any other provision of federal law, including the International Emergency Economic Powers Act (50 U.S.C. 1701-1706), or any other authority of the President or the Congress under the Constitution of the United States.

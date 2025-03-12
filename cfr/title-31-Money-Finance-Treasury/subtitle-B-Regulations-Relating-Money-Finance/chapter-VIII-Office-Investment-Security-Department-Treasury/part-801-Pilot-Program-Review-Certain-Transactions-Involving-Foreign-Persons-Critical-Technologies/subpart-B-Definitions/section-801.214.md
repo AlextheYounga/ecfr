@@ -1,0 +1,3 @@
+##### § 801.214 Unaffiliated pilot program U.S. business. #####
+
+The term *unaffiliated pilot program U.S. business* means, with respect to a foreign person, a pilot program U.S. business in which that foreign person does not directly hold more than fifty percent of the outstanding voting interest or have the right to appoint more than half of the members of the board of directors or equivalent governing body.

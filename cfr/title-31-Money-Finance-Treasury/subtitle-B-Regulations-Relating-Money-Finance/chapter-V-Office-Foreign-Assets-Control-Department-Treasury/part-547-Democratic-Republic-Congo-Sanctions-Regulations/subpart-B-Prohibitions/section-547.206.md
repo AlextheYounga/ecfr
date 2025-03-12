@@ -1,0 +1,17 @@
+##### § 547.206 Exempt transactions. #####
+
+(a) *United Nations Participation Act.* The exemptions described in this section do not apply to transactions involving property or interests in property of persons whose property and interests in property are blocked pursuant to the authority of the United Nations Participation Act, as amended (22 U.S.C. 287c(b)) (UNPA).
+
+Note 1 to paragraph (a):
+
+Persons whose property and interests in property are blocked pursuant to the authority of the UNPA include those listed on *both* OFAC's Specially Designated Nationals and Blocked Persons List (SDN List) and the Consolidated United Nations Security Council Sanctions List (UN List) (see *https://www.un.org*) as well as persons listed on the SDN List for being owned or controlled by, or acting for or on behalf of, persons listed on *both* the SDN List and the UN List.
+
+(b) *Personal communications.* The prohibitions contained in this part do not apply to any postal, telegraphic, telephonic, or other personal communication that does not involve the transfer of anything of value.
+
+(c) *Information or informational materials.* (1) The prohibitions contained in this part do not apply to the importation from any country and the exportation to any country of any information or informational materials, as defined in § 547.314, whether commercial or otherwise, regardless of format or medium of transmission.
+
+(2) This section does not exempt from regulation transactions related to information or informational materials not fully created and in existence at the date of the transactions, or to the substantive or artistic alteration or enhancement of information or informational materials, or to the provision of marketing and business consulting services. Such prohibited transactions include payment of advances for information or informational materials not yet created and completed (with the exception of prepaid subscriptions for widely circulated magazines and other periodical publications); provision of services to market, produce or co-produce, create, or assist in the creation of information or informational materials; and payment of royalties with respect to income received for enhancements or alterations made by U.S. persons to such information or informational materials.
+
+(3) This section does not exempt transactions incident to the exportation of software subject to the Export Administration Regulations, 15 CFR parts 730 through 774, or to the exportation of goods (including software) or technology for use in the transmission of any data, or to the provision, sale, or leasing of capacity on telecommunications transmission facilities (such as satellite or terrestrial network connectivity) for use in the transmission of any data. The exportation of such items or services and the provision, sale, or leasing of such capacity or facilities to a person whose property and interests in property are blocked pursuant to § 547.201(a) are prohibited.
+
+(d) *Travel.* The prohibitions contained in this part do not apply to transactions ordinarily incident to travel to or from any country, including importation or exportation of accompanied baggage for personal use, maintenance within any country including payment of living expenses and acquisition of goods or services for personal use, and arrangement or facilitation of such travel including nonscheduled air, sea, or land voyages.
