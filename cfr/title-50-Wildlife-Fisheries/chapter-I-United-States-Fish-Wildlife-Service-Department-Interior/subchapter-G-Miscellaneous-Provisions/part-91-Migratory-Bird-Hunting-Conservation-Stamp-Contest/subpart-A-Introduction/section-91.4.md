@@ -2,90 +2,92 @@
 
 Five or fewer of the species listed below will be identified as eligible each year; those eligible species will be provided to each contestant with the information provided in § 91.1.
 
-(a) *Whistling-Ducks.* (1) Fulvous Whistling-Duck (*Dendrocygna bicolor*)
+(a) *Whistling-Ducks.* (1) Fulvous Whistling-Duck (*Dendrocygna bicolor*).
 
-(2) Black-bellied Whistling-Duck (*Dendrocygna autumnalis*)
+(2) Black-bellied Whistling-Duck (*Dendrocygna autumnalis*).
 
-(b) *Swans.* (1) Trumpeter Swan (*Cygnus buccinator*)
+(b) *Geese.* (1) Emperor Goose (*Anser canagicus*).
 
-(2) Tundra Swan (*Cygnus columbianus*)
+(2) Snow Goose (including “white” and “blue” morphs) (*Anser caerulescens*).
 
-(c) *Geese.* (1) Greater White-fronted Goose (*Anser albifrons*)
+(3) Ross's Goose (*Anser rossii*).
 
-(2) Snow Goose (including “white” and “blue” morphs) (*Chen caerulescens*)
+(4) Greater White-fronted Goose (*Anser albifrons*).
 
-(3) Ross's Goose (*Chen rossii*)
+(5) Brant (*Branta bernicla*).
 
-(4) Emperor Goose (*Chen canagica*)
+(6) Cackling Goose (*Branta hutchinsii*).
 
-(5) Canada Goose (*Branta canadensis*)
+(7) Canada Goose (*Branta canadensis*).
 
-(6) Cackling Goose (*Branta hutchinsii*)
+(c) *Swans.* (1) Trumpeter Swan (*Cygnus buccinator*).
 
-(d) *Brant.* (1) Brant (*Branta bernicla*)
+(2) Tundra Swan (*Cygnus columbianus*).
 
-(e) *Dabbling Ducks.* (1) Wood Duck (*Aix sponsa*)
+(d) *Dabbling Ducks.* (1) Wood Duck (*Aix sponsa*).
 
-(2) American Wigeon (*Anas americana*)
+(2) Blue-winged Teal (*Spatula discors*).
 
-(3) Gadwall (*Anas strepera*)
+(3) Cinnamon Teal (*Spatula cyanoptera*).
 
-(4) American Green-winged Teal (*Anas crecca carolinensis*)
+(4) Northern Shoveler (*Spatula clypeata*).
 
-(5) Mallard (*Anas platyrhynchos*)
+(5) Gadwall (*Mareca strepera*).
 
-(6) Mottled Duck (*Anas fulvigula*)
+(6) American Wigeon (*Mareca americana*).
 
-(7) American Black Duck (*Anas rubripes*)
+(7) Mallard (*Anas platyrhynchos*).
 
-(8) Northern Pintail (*Anas acuta*)
+(8) American Black Duck (*Anas rubripes*).
 
-(9) Blue-winged Teal (*Anas discors*)
+(9) Mottled Duck (*Anas fulvigula*).
 
-(10) Cinnamon Teal (*Anas cyanoptera*)
+(10) Northern Pintail (*Anas acuta*).
 
-(11) Northern Shoveler (*Anas clypeata*)
+(11) Green-winged Teal (*Anas crecca*).
 
-(f) *Diving Ducks.* (1) Canvasback (*Aythya valisineria*)
+(e) *Diving Ducks.* (1) Canvasback (*Aythya valisineria*).
 
-(2) Redhead (*Aythya americana*)
+(2) Redhead (*Aythya americana*).
 
-(3) Ring-necked Duck (*Aythya collaris*)
+(3) Ring-necked Duck (*Aythya collaris*).
 
-(4) Greater Scaup (*Aythya marila*)
+(4) Greater Scaup (*Aythya marila*).
 
-(5) Lesser Scaup (*Aythya affinis*)
+(5) Lesser Scaup (*Aythya affinis*).
 
-(g) *Sea-Ducks.* (1) Common Eider (*Somateria mollissima*)
+(f) *Sea-Ducks.* (1) Steller's Eider (*Polysticta stelleri*).
 
-(2) King Eider (*Somateria spectabilis*)
+(2) Spectacled Eider (*Somateria fischeri*).
 
-(3) Spectacled Eider (*Somateria fischeri*)
+(3) King Eider (*Somateria spectabilis*).
 
-(4) Steller's Eider (*Polysticta stelleri*)
+(4) Common Eider (*Somateria mollissima*).
 
-(5) Harlequin Duck (*Histrionicus histrionicus*)
+(5) Harlequin Duck (*Histrionicus histrionicus*).
 
-(6) Long-tailed Duck (*Clangula hyemalis*)
+(6) Surf Scoter (*Melanitta perspicillata*).
 
-(7) Black Scoter (*Melanitta nigra*)
+(7) White-winged Scoter (*Melanitta fusca*).
 
-(8) Surf Scoter (*Melanitta perspicillata*)
+(8) Black Scoter (*Melanitta americana*).
 
-(9) White-winged Scoter (*Melanitta fusca*)
+(9) Long-tailed Duck (*Clangula hyemalis*).
 
-(10) Bufflehead (*Bucephala albeola*)
+(10) Bufflehead (*Bucephala albeola*).
 
-(11) Barrow's Goldeneye (*Bucephala islandica*)
+(11) Common Goldeneye (*Bucephala clangula*).
 
-(12) Common Goldeneye (*Bucephala clangula*)
+(12) Barrow's Goldeneye (*Bucephala islandica*).
 
-(h) *Mergansers.* (1) Hooded Merganser (*Lophodytes cucullatus*)
+(g) *Mergansers.* (1) Hooded Merganser (*Lophodytes cucullatus*).
 
-(2) Red-breasted Merganser (*Mergus serrator*)
+(2) Common Merganser (*Mergus merganser*).
 
-(3) Common Merganser (*Mergus merganser*)
+(3) Red-breasted Merganser (*Mergus serrator*).
 
-(i) *Stiff Tails.* (1) Ruddy Duck (*Oxyura jamaicensis*)
+(h) *Stiff Tails.* (1) Ruddy Duck (*Oxyura jamaicensis*).
 
-[71 FR 39014, July 11, 2006]
+(2) [Reserved]
+
+[83 FR 12279, Mar. 21, 2018]
