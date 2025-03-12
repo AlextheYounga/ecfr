@@ -1,7 +1,5 @@
 ##### § 117.723 Hackensack River. #####
 
-Link to an amendment published at 85 FR 8749, Feb. 18, 2020.
-
 (a) The following requirements apply to all bridges across the Hackensack River:
 
 (1) The owners of each bridge shall provide and keep in good legible condition clearance gauges for each draw, with figures not less than 18 inches high for bridges below the turning basin at mile 4.0, and 12 inches high for bridges above mile 4.0. The gauges shall be designed, installed and maintained according to the provisions of § 118.160 of this chapter.
@@ -24,7 +22,7 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (d) Except as provided in paragraph (a)(2) of this section, the draw of the NJTRO Lower Hack Bridge, mile 3.4, at Jersey City shall open on signal if at least a one-hour advance notice is given to the drawtender at the Upper Hack bridge, mile 6.9, at Secaucus, New Jersey by calling the number posted at the bridge. In the event the NJTRO HX draw tender is at the Newark/Harrison (Morristown Line) Bridge, mile 5.8, on the Passaic River, up to an additional half hour delay is permitted.
 
-(e) Except as provided in paragraph (a)(2) of this section, the draw of the Amtrak Portal Bridge, mile 5.0, at Little Snake Hill, need not open for the passage of vessel traffic Monday through Friday, except Federal holidays, from 6 a.m. to 10 a.m. and from 4 p.m. to 8 p.m. Additional bridge openings shall be provided for commercial vessels from 6 a.m. to 7:20 a.m.; 9:20 a.m. to 10 a.m.; 4 p.m. to 4:30 p.m. and from 6:50 p.m. to 8 p.m., if at least a one-hour advance notice is given by calling the number posted at the bridge. At all other times the draw shall open on signal.
+(e) The draw of the Amtrak Portal Bridge, mile 5.0, at Little Snake Hill, New Jersey, need not open for the passage of vessel traffic from 5 a.m. to 10 a.m. and from 3 p.m. to 8 p.m. Additional bridge openings shall be provided for tide restricted commercial vessels between 7 a.m. and 8 a.m. and between 5 p.m. and 6 p.m., if at least a two-hour advance notice is given by calling the number posted at the bridge. At all other times the bridge shall open on signal if at least two-hour advance notice is given.
 
 (f) Except as provided in paragraph (a)(2) of this section, the draw of the NJTRO Upper Hack Bridge, mile 6.9 at Secaucus, N.J. shall open on signal unless the drawtender is at the NJTRO HX Bridge, mile 7.7 at Secaucus, N.J. over the Hackensack River, then up to a half hour delay is permitted.
 
@@ -34,4 +32,4 @@ Additional bridge openings shall be provided for commercial vessels from 6 a.m. 
 
 (i) The draw of the New York Susquehanna and Western Railroad bridge, mile 16.3, and the Midtown bridge, mile 16.5, both at Hackensack, need not be opened for the passage of vessels, however, the draws shall be restored to operable condition within 12 months after notification by the District Commander to do so.
 
-[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019]
+[USCG-2013-1005, 79 FR 34418, June 17, 2013, as amended by USCG-2016-0173, 81 FR 62367, Sept. 9, 2016; USCG-2019-0108, 84 FR 23490, May 22, 2019; USCG-2019-0086, 85 FR 8749, Feb. 18, 2020]

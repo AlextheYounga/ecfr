@@ -1,5 +1,7 @@
 ##### § 4.15 Submarine cable outage reporting. #####
 
+Link to an amendment published at 85 FR 15740, Mar. 19, 2020.
+
 (a) *Definitions.* (1) For purposes of this section, “outage” is defined as a failure or significant degradation in the performance of a licensee's cable service regardless of whether the traffic can be re-routed to an alternate path.
 
 (2) An “outage” requires reporting under this section when there is:

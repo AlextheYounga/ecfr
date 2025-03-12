@@ -1,5 +1,7 @@
 ##### § 165.754 Safety Zone: San Juan Harbor, San Juan, PR. #####
 
+Link to an amendment published at 85 FR 15724, Mar. 19, 2020.
+
 (a) *Regulated area.* A moving safety zone is established in the following area:
 
 (1) The waters around Liquefied Petroleum Gas ships entering San Juan Harbor in an area one half mile around each vessel, beginning one mile north of the San Juan Harbor #1 Sea Buoy, in approximate position 18-29.3N, 66-07.6W and continuing until the vessel is safely moored at either the Gulf Refinery Oil dock or the Catano Oil dock in approximate position 18-25.8N, 66-06.5W. All coordinates referenced use datum: NAD 83.

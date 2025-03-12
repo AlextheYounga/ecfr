@@ -1,5 +1,7 @@
 ##### § 4.1 Scope, basis, and purpose. #####
 
+Link to an amendment published at 85 FR 15733, Mar. 19, 2020.
+
 (a) In this part, the Federal Communications Commission is setting forth requirements pertinent to the reporting of disruptions to communications and to the reliability and security of communications infrastructures.
 
 (b) The definitions, criteria, and reporting requirements set forth in Sections 4.2 through 4.13 of this part are applicable to the communications providers defined in Section 4.3 of this part.

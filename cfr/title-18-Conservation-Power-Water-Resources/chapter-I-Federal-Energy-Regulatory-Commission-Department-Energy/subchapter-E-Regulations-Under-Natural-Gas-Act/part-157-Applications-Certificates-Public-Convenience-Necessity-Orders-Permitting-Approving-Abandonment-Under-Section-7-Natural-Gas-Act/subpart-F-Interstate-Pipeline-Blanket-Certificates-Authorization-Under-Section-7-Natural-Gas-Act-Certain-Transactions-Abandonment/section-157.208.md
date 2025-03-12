@@ -75,6 +75,7 @@ Table I to Part 157
 |                   2017                    |                       11,800,000                       |33,200,000 |
 |                   2018                    |                       12,000,000                       |33,800,000 |
 |                   2019                    |                       12,300,000                       |34,600,000 |
+|                   2020                    |                       12,500,000                       |35,200,000 |
 
 (e) *Reporting requirements.* For each facility completed during the calendar year pursuant to paragraph (a) of this section and § 157.213(a), the certificate holder shall file in the manner prescribed in §§ 157.6(a) and 385.2011 of this chapter as part of the required annual report under § 157.207(a) the information described in paragraphs (e)(1)-(5) of this section. For each facility completed during the calendar year pursuant to paragraph (b) of this section, and §§ 157.210, 157.212, and 157.213(b), the certificate holder shall file in the manner prescribed above only the information described in paragraph (e)(3) of this section.
 
