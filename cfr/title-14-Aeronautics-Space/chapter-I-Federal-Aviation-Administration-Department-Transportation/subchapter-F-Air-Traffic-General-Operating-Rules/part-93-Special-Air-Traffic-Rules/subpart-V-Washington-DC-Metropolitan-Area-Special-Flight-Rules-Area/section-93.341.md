@@ -16,4 +16,6 @@
 
 (5) Aircraft operations maintaining radio contact with Air Traffic Control and continuously transmitting an Air Traffic Control-assigned discrete transponder code. The pilot must monitor VHF frequency 121.5 or UHF frequency 243.0.
 
-(d) Before departing from an airport within the DC FRZ, or before entering the DC FRZ, all aircraft, except DOD, law enforcement, and lifeguard or air ambulance aircraft operating under an FAA/TSA airspace authorization must file and activate an IFR or a DC FRZ or a DC SFRA flight plan and transmit a discrete transponder code assigned by an Air Traffic Control facility. Aircraft must transmit the discrete transponder code at all times while in the DC FRZ or DC SFRA.
+(d) Before departing from an airport within the DC FRZ, or before entering the DC FRZ, all aircraft, except DOD, law enforcement, and lifeguard or air ambulance aircraft operating under an FAA/TSA airspace authorization must file and activate an IFR or a DC FRZ flight plan and transmit a discrete transponder code assigned by an Air Traffic Control facility. Aircraft must transmit the discrete transponder code at all times while in the DC FRZ or DC SFRA.
+
+[Docket No. FAA-2004-17005, 73 FR 76213, Dec. 16, 2008, as amended by Amdt. No. 93-91A, 83 FR 13411, Mar. 29, 2018]

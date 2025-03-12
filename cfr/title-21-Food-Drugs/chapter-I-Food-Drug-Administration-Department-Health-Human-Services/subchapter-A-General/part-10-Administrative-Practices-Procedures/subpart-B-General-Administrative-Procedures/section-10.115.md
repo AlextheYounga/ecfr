@@ -34,7 +34,7 @@
 
 (2) You can suggest areas for guidance document development. Your suggestions should address why a guidance document is necessary.
 
-(3) You can submit drafts of proposed guidance documents for FDA to consider. When you do so, you should mark the document “Guidance Document Submission” and submit it to Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(3) You can submit drafts of proposed guidance documents for FDA to consider. When you do so, you should mark the document “Guidance Document Submission” and submit it to Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. If you wish to submit the draft of a proposed guidance document electronically, submit it through *https://www.regulations.gov* at Docket No. FDA-2013-S-0610. It is only necessary to submit one copy.
 
 (4) You can, at any time, suggest that FDA revise or withdraw an already existing guidance document. Your suggestion should address why the guidance document should be revised or withdrawn and, if applicable, how it should be revised.
 
@@ -152,4 +152,4 @@
 
 (o) *What can you do if you believe that someone at FDA is not following these GGP's?* If you believe that someone at FDA did not follow the procedures in this section or that someone at FDA treated a guidance document as a binding requirement, you should contact that person's supervisor in the center or office that issued the guidance document. If the issue cannot be resolved, you should contact the next highest supervisor. You can also contact the center or office ombudsman for assistance in resolving the issue. If you are unable to resolve the issue at the center or office level or if you feel that you are not making progress by going through the chain of command, you may ask the Office of the Chief Mediator and Ombudsman to become involved.
 
-[65 FR 56477, Sept. 19, 2000]
+[65 FR 56477, Sept. 19, 2000, as amended at 83 FR 13416, Mar. 29, 2018]
