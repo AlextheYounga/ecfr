@@ -1,6 +1,6 @@
 ##### § 192.18 How to notify PHMSA. #####
 
-Link to an amendment published at 86 FR 63298, Nov. 15, 2021.
+Link to an amendment published at 86 FR 63298, Nov. 15, 2021.Link to an amendment published at 87 FR 20982, Apr. 8, 2022.
 
 (a) An operator must provide any notification required by this part by -
 

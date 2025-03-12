@@ -1,5 +1,7 @@
 ##### § 195.11 What is a regulated rural gathering line and what requirements apply? #####
 
+Link to an amendment published at 87 FR 20987, Apr. 8, 2022.
+
 Each operator of a regulated rural gathering line, as defined in paragraph (a) of this section, must comply with the safety requirements described in paragraph (b) of this section.
 
 (a) *Definition.* As used in this section, a regulated rural gathering line means an onshore gathering line in a rural area that meets all of the following criteria -

@@ -1,5 +1,7 @@
 ##### § 30.6 Communications. #####
 
+Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
+
 (a) Unless otherwise specified or covered under the regional licensing program as provided in paragraph (b) of this section, any communication or report concerning the regulations in parts 30 through 37 and 39 of this chapter and any application filed under these regulations may be submitted to the Commission as follows:
 
 (1) By mail addressed: ATTN: Document Control Desk, Director, Office of Nuclear Material Safety and Safeguards U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001.

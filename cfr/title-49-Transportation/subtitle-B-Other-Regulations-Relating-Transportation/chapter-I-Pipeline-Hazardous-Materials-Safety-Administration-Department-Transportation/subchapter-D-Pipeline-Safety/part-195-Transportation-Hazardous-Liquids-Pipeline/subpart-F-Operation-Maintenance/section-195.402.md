@@ -1,5 +1,7 @@
 ##### § 195.402 Procedural manual for operations, maintenance, and emergencies. #####
 
+Link to an amendment published at 87 FR 20988, Apr. 8, 2022.
+
 (a) *General.* Each operator shall prepare and follow for each pipeline system a manual of written procedures for conducting normal operations and maintenance activities and handling abnormal operations and emergencies. This manual shall be reviewed at intervals not exceeding 15 months, but at least once each calendar year, and appropriate changes made as necessary to insure that the manual is effective. This manual shall be prepared before initial operations of a pipeline system commence, and appropriate parts shall be kept at locations where operations and maintenance activities are conducted.
 
 (b) The Associate Administrator or the State Agency that has submitted a current certification under the pipeline safety laws (49 U.S.C. 60101 *et seq.*) with respect to the pipeline facility governed by an operator's plans and procedures may, after notice and opportunity for hearing as provided in 49 CFR 190.206 or the relevant State procedures, require the operator to amend its plans and procedures as necessary to provide a reasonable level of safety.

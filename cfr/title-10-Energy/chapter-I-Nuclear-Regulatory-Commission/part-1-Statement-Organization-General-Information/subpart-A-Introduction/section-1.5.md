@@ -1,5 +1,7 @@
 ##### § 1.5 Location of principal offices and regional offices. #####
 
+Link to an amendment published at 87 FR 20696, Apr. 8, 2022.
+
 (a) The principal NRC offices are located in the Washington, DC, area. Facilities for the service of process and documents are maintained in the State of Maryland at 11555 Rockville Pike, Rockville, Maryland 20852-2738. The agency's official mailing address is U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001. The locations of NRC offices in the Washington, DC, area are as follows:
 
 (1) One White Flint North Building, 11555 Rockville Pike, Rockville, Maryland 20852-2738.

@@ -1,5 +1,7 @@
 ##### § 70.61 Performance requirements. #####
 
+Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
+
 (a) Each applicant or licensee shall evaluate, in the integrated safety analysis performed in accordance with § 70.62, its compliance with the performance requirements in paragraphs (b), (c), and (d) of this section.
 
 (b) The risk of each credible high-consequence event must be limited. Engineered controls, administrative controls, or both, shall be applied to the extent needed to reduce the likelihood of occurrence of the event so that, upon implementation of such controls, the event is highly unlikely or its consequences are less severe than those in paragrahs (b)(1)-(4) of this section. High consequence events are those internally or externally initiated events that result in:

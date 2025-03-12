@@ -1,5 +1,7 @@
 ##### § 192.615 Emergency plans. #####
 
+Link to an amendment published at 87 FR 20983, Apr. 8, 2022.
+
 (a) Each operator shall establish written procedures to minimize the hazard resulting from a gas pipeline emergency. At a minimum, the procedures must provide for the following:
 
 (1) Receiving, identifying, and classifying notices of events which require immediate response by the operator.

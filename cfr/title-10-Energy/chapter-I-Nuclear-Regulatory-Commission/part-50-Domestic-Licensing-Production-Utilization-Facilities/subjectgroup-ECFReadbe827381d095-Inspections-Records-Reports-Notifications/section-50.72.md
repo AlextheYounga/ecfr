@@ -1,5 +1,7 @@
 ##### § 50.72 Immediate notification requirements for operating nuclear power reactors. #####
 
+Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
+
 (a) *General requirements.*1 (1) Each nuclear power reactor licensee licensed under §§ 50.21(b) or 50.22 holding an operating license under this part or a combined license under part 52 of this chapter after the Commission makes the finding under § 52.103(g), shall notify the NRC Operations Center via the Emergency Notification System of:
 
 1 Other requirements for immediate notification of the NRC by licensed operating nuclear power reactors are contained elsewhere in this chapter, in particular §§ 20.1906, 20.2202, 50.36, 72.216, and 73.71.

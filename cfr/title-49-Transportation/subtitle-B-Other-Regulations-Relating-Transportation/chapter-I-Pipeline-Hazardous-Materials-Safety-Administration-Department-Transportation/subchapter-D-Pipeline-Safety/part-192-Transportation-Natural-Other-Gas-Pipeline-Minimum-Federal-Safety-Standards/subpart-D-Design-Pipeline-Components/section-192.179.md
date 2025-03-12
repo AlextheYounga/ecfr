@@ -1,5 +1,7 @@
 ##### § 192.179 Transmission line valves. #####
 
+Link to an amendment published at 87 FR 20982, Apr. 8, 2022.
+
 (a) Each transmission line, other than offshore segments, must have sectionalizing block valves spaced as follows, unless in a particular case the Administrator finds that alternative spacing would provide an equivalent level of safety:
 
 (1) Each point on the pipeline in a Class 4 location must be within 21/2 miles (4 kilometers)of a valve.

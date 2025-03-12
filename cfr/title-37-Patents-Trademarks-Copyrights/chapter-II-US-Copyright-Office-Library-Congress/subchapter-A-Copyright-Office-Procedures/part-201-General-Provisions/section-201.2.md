@@ -1,5 +1,7 @@
 ##### § 201.2 Information given by the Copyright Office. #####
 
+Link to an amendment published at 87 FR 20713, Apr. 8, 2022.
+
 (a) *In general.* (1) Information relative to the operations of the Copyright Office is supplied without charge. A search of the records, indexes, and deposits will be made for such information as they may contain relative to copyright claims upon application and payment of the statutory fee. The Copyright Office, however, does not undertake the making of comparisons of copyright deposits to determine similarity between works.
 
 (2) The Copyright Office does not furnish the names of copyright attorneys, publishers, agents, or other similar information.

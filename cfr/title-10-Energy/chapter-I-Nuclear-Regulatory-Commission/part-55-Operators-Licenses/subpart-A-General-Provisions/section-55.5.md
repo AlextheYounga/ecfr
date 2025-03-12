@@ -1,5 +1,7 @@
 ##### § 55.5 Communications. #####
 
+Link to an amendment published at 87 FR 20697, Apr. 8, 2022.
+
 (a) Except as provided under a regional licensing program identified in paragraph (b) of this section, an applicant or licensee or facility licensee shall submit any communication or report concerning the regulations in this part and shall submit any application filed under these regulations to the Commission as follows:
 
 (1) By mail addressed to - Director, Office of Nuclear Reactor Regulation, U.S. Nuclear Regulatory Commission, Washington, DC 20555-0001; or

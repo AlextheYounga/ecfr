@@ -1,5 +1,7 @@
 ##### § 195.260 Valves: Location. #####
 
+Link to an amendment published at 87 FR 20987, Apr. 8, 2022.
+
 A valve must be installed at each of the following locations:
 
 (a) On the suction end and the discharge end of a pump station in a manner that permits isolation of the pump station equipment in the event of an emergency.
