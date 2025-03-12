@@ -1,5 +1,7 @@
 ##### § 301-10.183 What class of ship accommodations must I use? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 You must use the lowest first-class accommodations when traveling by ship, except when your agency specifically authorizes/approves your use of other than lowest first-class ship accommodations under paragraphs (a) through (d) of this section.
 
 (a) Lowest first class accommodations are not available on the ship.

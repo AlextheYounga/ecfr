@@ -1,5 +1,7 @@
 ##### § 304-5.5 May we authorize an employee to travel by other than coach-class on common carriers or other than lowest first-class on ships if we accept payment in full from a non-Federal source for such transportation expenses? #####
 
+Link to an amendment published at 87 FR 55707, Sept. 12, 2022.
+
 Yes, you may authorize an employee to travel by other than coach-class on common carriers or other than lowest first-class on ships as long as the:
 
 (a) Non-Federal source makes full payment for such transportation services in advance of travel; and

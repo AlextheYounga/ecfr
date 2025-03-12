@@ -1,5 +1,7 @@
 ##### § 300-70.103 Are there any exceptions to the reporting requirement? #####
 
+Link to an amendment published at 87 FR 55702, Sept. 12, 2022.
+
 Yes. You are not required to report data that is protected from public disclosure by statute or Executive Order. However, you are required to submit, in a cover letter to GSA, the following aggregate information.
 
 (a) Aggregate number of authorized other than coach-class trips that are protected from disclosure;

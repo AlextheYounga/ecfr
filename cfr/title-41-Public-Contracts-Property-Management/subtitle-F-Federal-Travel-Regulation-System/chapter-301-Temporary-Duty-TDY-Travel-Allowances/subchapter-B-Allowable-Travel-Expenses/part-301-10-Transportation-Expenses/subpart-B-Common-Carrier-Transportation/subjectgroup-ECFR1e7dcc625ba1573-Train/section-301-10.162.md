@@ -1,5 +1,7 @@
 ##### § 301-10.162 When may I use other than coach-class train accommodations? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 You may use other than coach-class train accommodations only when your agency specifically authorizes/approves this use under paragraphs (a) through (e) of this section.
 
 (a) No coach-class accommodations are reasonably available on a train that is scheduled to leave within 24 hours of your proposed departure time, or scheduled to arrive within 24 hours of your proposed arrival time;

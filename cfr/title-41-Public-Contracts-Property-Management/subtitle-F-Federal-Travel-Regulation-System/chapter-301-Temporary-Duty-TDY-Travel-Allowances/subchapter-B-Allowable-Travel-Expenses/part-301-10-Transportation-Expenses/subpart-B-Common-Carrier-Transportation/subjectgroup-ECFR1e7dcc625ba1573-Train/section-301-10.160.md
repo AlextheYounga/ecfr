@@ -1,5 +1,7 @@
 ##### § 301-10.160 What classes of train accommodations are available? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 (a) *Coach-class* - The basic class of accommodations offered by a rail carrier to passengers that includes a level of service available to all passengers regardless of the fare paid. Coach-class includes reserved coach accommodations as well as slumber coach accommodations when overnight train travel is involved.
 
 (b) *Slumber coach* - Includes slumber coach accommodations on trains offering such accommodations, or the lowest level of sleeping accommodations available on a train that does not offer slumber coach accommodations.

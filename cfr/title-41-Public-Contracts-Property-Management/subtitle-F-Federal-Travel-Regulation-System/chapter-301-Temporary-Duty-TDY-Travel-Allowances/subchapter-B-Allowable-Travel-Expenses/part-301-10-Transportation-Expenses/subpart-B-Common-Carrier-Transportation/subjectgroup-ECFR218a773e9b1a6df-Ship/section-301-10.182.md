@@ -1,5 +1,7 @@
 ##### § 301-10.182 What classes of ship accommodations are available? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 Accommodations on ships vary according to deck levels.
 
 (a) *Other than lowest first-class* - All classes above the lowest first-class, includes but is not limited to a suite.

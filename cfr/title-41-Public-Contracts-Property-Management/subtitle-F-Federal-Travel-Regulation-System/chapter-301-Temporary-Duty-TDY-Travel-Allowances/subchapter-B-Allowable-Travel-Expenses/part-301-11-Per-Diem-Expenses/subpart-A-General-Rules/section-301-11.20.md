@@ -1,5 +1,7 @@
 ##### § 301-11.20 May my agency authorize a rest period for me while I am traveling? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 (a) Your agency may authorize a rest period not in excess of 24 hours at either an intermediate point or at your destination if:
 
 (1) Either your origin or destination point is OCONUS;

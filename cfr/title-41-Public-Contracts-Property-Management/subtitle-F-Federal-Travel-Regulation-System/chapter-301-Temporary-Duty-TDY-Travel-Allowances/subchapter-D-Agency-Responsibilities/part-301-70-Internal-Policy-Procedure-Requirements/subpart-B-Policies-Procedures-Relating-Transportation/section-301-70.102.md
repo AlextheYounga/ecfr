@@ -1,5 +1,7 @@
 ##### § 301-70.102 What governing policies must we establish for authorization and payment of transportation expenses? #####
 
+Link to an amendment published at 87 FR 55706, Sept. 12, 2022.
+
 You must establish policies and procedures governing:
 
 (a) Who will determine what method of transportation is more advantageous to the Government;

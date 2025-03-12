@@ -1,5 +1,7 @@
 ##### § 301-2.5 What travel arrangements require specific authorization or prior approval? #####
 
+Link to an amendment published at 87 FR 55702, Sept. 12, 2022.
+
 You must have a specific authorization or prior approval for:
 
 (a) Use of other than coach-class service on common carrier transportation;

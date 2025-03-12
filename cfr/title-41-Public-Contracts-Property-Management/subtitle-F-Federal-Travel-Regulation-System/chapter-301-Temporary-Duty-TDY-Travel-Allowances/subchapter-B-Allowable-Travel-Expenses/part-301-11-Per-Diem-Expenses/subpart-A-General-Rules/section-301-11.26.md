@@ -1,5 +1,7 @@
 ##### § 301-11.26 How do I request a review of the per diem in a location? #####
 
+Link to an amendment published at 87 FR 55705, Sept. 12, 2022.
+
 If you travel to a location where the per diem rate is insufficient to meet necessary expenses, you may submit a request, containing pertinent lodging & meal cost data, through your agency's Travel Manager asking that the location be reviewed. Depending on the location in question your agency's Travel Manager may submit the review request to:
 
 |                                          For CONUS locations                                          |                                                  For non-foreign area locations                                                  |                                     For foreign area locations                                      |

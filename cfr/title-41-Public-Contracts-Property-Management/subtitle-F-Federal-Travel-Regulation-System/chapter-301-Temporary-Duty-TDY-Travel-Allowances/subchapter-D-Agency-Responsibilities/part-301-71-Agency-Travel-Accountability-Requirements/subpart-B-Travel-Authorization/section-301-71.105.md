@@ -1,5 +1,7 @@
 ##### § 301-71.105 Must we issue a written or electronic travel authorization in advance of travel? #####
 
+Link to an amendment published at 87 FR 55706, Sept. 12, 2022.
+
 Yes, except when advance written or electronic authorization is not possible or practical and approval is in accordance with §§ 301-2.1 and 301-2.5 for:
 
 (a) Use of other than coach-class service accommodation on common carriers or use of other than lowest first-class accommodation on ships;
