@@ -168,7 +168,7 @@
 
 (vi) *Other withholding agents.* Any person that is a withholding agent that is not described in any of paragraphs (d)(4)(i) through (v) of this section shall file Forms 1042-S in the same manner as a U.S. withholding agent and in accordance with the instructions to the form.
 
-(vii) [Reserved]. For further guidance, see § 1.1474-1T(d)(4)(vii).
+(vii) *Combined Form 1042-S reporting.* A withholding agent required to report on Form 1042-S under paragraph (d)(4) of this section (other than a nonparticipating FFI reporting under paragraph (d)(4)(v) of this section) may rely on the procedures used for chapter 3 purposes (provided in published guidance) for reporting on Form 1042-S (even if the withholding agent is not required to report under chapter 3) for combined reporting following a merger or acquisition, provided that all of the requirements for such reporting provided in the Instructions for Form 1042-S are satisfied.
 
 (e) *Magnetic media reporting.* A withholding agent that is not a financial institution and that is required to file 250 or more Form 1042-S information returns for a taxable year must file Form 1042-S returns on magnetic media. See § 301.6011-2(b) of this chapter for the requirements of a withholding agent that is not a financial institution with respect to the filing of Forms 1042-S on magnetic media. See § 301.1474-1(a) of this chapter for the requirements applicable to a withholding agent that is a financial institution with respect to the filing of Forms 1042-S on magnetic media.
 
@@ -210,4 +210,4 @@
 
 (j) *Effective/applicability date.* This section applies on January 6, 2017. However, taxpayers may apply these provisions as of January 28, 2013. (For the rules that apply beginning on January 28, 2013, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1 revised April 1, 2016.)
 
-[T.D. 9610, 78 FR 5985, Jan. 28, 2013; 78 FR 55208, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12862, Mar. 6, 2014; T.D. 9809, 82 FR 2188, Jan. 6, 2017; 82 FR 29729, June 30, 2017]
+[T.D. 9610, 78 FR 5985, Jan. 28, 2013; 78 FR 55208, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12862, Mar. 6, 2014; T.D. 9809, 82 FR 2188, Jan. 6, 2017; 82 FR 29729, June 30, 2017; T.D. 9890, 85 FR 206, Jan. 2, 2020]

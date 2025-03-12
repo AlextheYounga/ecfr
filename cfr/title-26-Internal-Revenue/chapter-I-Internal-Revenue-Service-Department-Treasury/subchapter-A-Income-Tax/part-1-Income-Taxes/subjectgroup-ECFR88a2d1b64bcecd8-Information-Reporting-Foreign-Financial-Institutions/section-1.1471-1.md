@@ -42,7 +42,7 @@
 
 (19) *Chapter 4 status.* The term *chapter 4 status* means a person's status as a U.S. person, a specified U.S. person, an individual that is a foreign person, a participating FFI, a deemed-compliant FFI, a restricted distributor, an exempt beneficial owner, a nonparticipating FFI, a territory financial institution, an excepted NFFE, or a passive NFFE.
 
-(20) *Chapter 4 withholding rate pool.* The term *chapter 4 withholding rate pool* means a pool of payees that are nonparticipating FFIs provided on a chapter 4 withholding statement (as described in § 1.1471-3(c)(3)(iii)(B)(*3*)) to which a withholdable payment is allocated. The term *chapter 4 withholding rate pool* also means a pool provided on an FFI withholding statement (as described in § 1.1471-3(c)(3)(iii)(B)(*2*)) to which a withholdable payment is allocated to -
+(20) *Chapter 4 withholding rate pool.* The term *chapter 4 withholding rate pool* means a pool of payees that are nonparticipating FFIs provided on a chapter 4 withholding statement (as described in § 1.1471-3(c)(3)(iii)(B)(*3*)) to which a withholdable payment is allocated. The term *chapter 4 withholding rate pool* also means a pool provided on an FFI withholding statement (as described in § 1.1471-3(c)(3)(iii)(B)(*2*)) to which a withholdable payment is allocated to—
 
 (i) A pool of payees consisting of each class of recalcitrant account holders described in § 1.1471-4(d)(6) (or with respect to an FFI that is a QI, a single pool of recalcitrant account holders without the need to subdivide into each class of recalcitrant account holders described in § 1.1471-4(d)(6)), including a separate pool of account holders to which the escrow procedures for dormant accounts apply; or
 
@@ -98,7 +98,7 @@
 
 (45) *FATF.* The term *FATF* means the Financial Action Task Force, an inter-governmental body that develops and promotes international policies to combat money laundering and terrorist financing.
 
-(46) *FATF-compliant jurisdiction.* The term *FATF-compliant jurisdiction* means a jurisdiction that -
+(46) *FATF-compliant jurisdiction.* The term *FATF-compliant jurisdiction* means a jurisdiction that—
 
 (i) Is not subject to a FATF call on its members and other jurisdictions to apply counter-measures to protect the international financial system from the on-going and substantial money laundering and terrorist financing risks emanating from the jurisdiction;
 
@@ -136,13 +136,13 @@
 
 (61) *Group annuity contract.* The term *group annuity contract* means an annuity contract under which the obligees are individuals who are affiliated through an employer, trade association, labor union, or other association or group.
 
-(62) *Group insurance contract.* The term *group insurance contract* means an insurance contract that -
+(62) *Group insurance contract.* The term *group insurance contract* means an insurance contract that—
 
 (i) Provides coverage on individuals who are affiliated through an employer, trade association, labor union, or other association or group; and
 
 (ii) Charges a premium for each member of the group (or member of a class within the group) that is determined without regard to the individual health characteristics other than age, gender, and smoking habits of the member (or class of members) of the group.
 
-(63) *Immediate annuity.* The term *immediate annuity* means an annuity contract that -
+(63) *Immediate annuity.* The term *immediate annuity* means an annuity contract that—
 
 (i) Is purchased with a single premium or annuity consideration; and
 
@@ -150,7 +150,7 @@
 
 (64) *Individual account.* The term *individual account* means an account held by one or more individuals.
 
-(65) *Insurance company.* The term *insurance company* means an entity or arrangement -
+(65) *Insurance company.* The term *insurance company* means an entity or arrangement—
 
 (i) That is regulated as an insurance business under the laws, regulations, or practices of any jurisdiction in which the company does business;
 
@@ -192,7 +192,7 @@
 
 (82) *Nonparticipating FFI.* The term *nonparticipating FFI* means an FFI other than a participating FFI, a deemed-compliant FFI, or an exempt beneficial owner.
 
-(83) *Nonreporting IGA FFI.* The term *nonreporting IGA FFI* means an FFI that is a resident of, or located or established in, a Model 1 or Model 2 IGA jurisdiction, as the context requires, and that meets the requirements of one of the following -
+(83) *Nonreporting IGA FFI.* The term *nonreporting IGA FFI* means an FFI that is a resident of, or located or established in, a Model 1 or Model 2 IGA jurisdiction, as the context requires, and that meets the requirements of one of the following—
 
 (i) A nonreporting financial institution described in Annex II of the Model 1 IGA;
 
@@ -234,7 +234,7 @@
 
 (98) *Payor.* The term *payor* has the meaning set forth in §§ 31.3406(a)-2 and 1.6049-4(a)(2) and generally includes a withholding agent.
 
-(99) [Reserved]. For further guidance, see § 1.1471-1T(b)(99).
+(99) *Permanent residence address.* The term *permanent residence address* has the meaning set forth in § 1.1441-1(c)(38).
 
 (100) *Person.* The term *person* has the meaning set forth in section 7701(a)(1) and the regulations thereunder and includes an entity or arrangement that is an insurance company. The term *person* also includes, with respect to a withholdable payment, a QI branch of a U.S. financial institution.
 
@@ -244,9 +244,9 @@
 
 (103) *Preexisting individual account.* The term *preexisting individual account* means a preexisting account held by one or more individuals.
 
-(104) *Preexisting obligation* - (i) The term *preexisting obligation* means any account, instrument, contract, debt, or equity interest maintained, executed, or issued by the withholding agent that is outstanding on June 30, 2014. With respect to a participating FFI, the term *preexisting obligation* means any account, instrument, or contract (including any debt or equity interest) maintained, executed, or issued by the FFI that is outstanding on the effective date of the FFI agreement. With respect to a registered deemed-compliant FFI, a preexisting obligation means any account, instrument, or contract (including any debt or equity interest) that is maintained, executed, or issued by the FFI prior to the later of the date that the FFI registers as a deemed-compliant FFI pursuant to § 1.1471-5(f)(1) and receives a GIIN or the date the FFI is required to implement its account opening procedures under § 1.1471-5(f). Notwithstanding the previous provisions of this paragraph (b)(104)(i), a preexisting obligation includes an obligation held by an entity that is issued, opened, or executed on or after July 1, 2014, and before January 1, 2015, by or with a withholding agent or FFI that treats the obligation as a preexisting obligation. See §§ 1.1471-2(a)(4)(ii), 1.1472-1(b)(2), and 1.1471-4(c)(3) for the due diligence requirements applicable to preexisting obligations for withholding agents and participating FFIs.
+(104) *Preexisting obligation*—(i) The term *preexisting obligation* means any account, instrument, contract, debt, or equity interest maintained, executed, or issued by the withholding agent that is outstanding on June 30, 2014. With respect to a participating FFI, the term *preexisting obligation* means any account, instrument, or contract (including any debt or equity interest) maintained, executed, or issued by the FFI that is outstanding on the effective date of the FFI agreement. With respect to a registered deemed-compliant FFI, a preexisting obligation means any account, instrument, or contract (including any debt or equity interest) that is maintained, executed, or issued by the FFI prior to the later of the date that the FFI registers as a deemed-compliant FFI pursuant to § 1.1471-5(f)(1) and receives a GIIN or the date the FFI is required to implement its account opening procedures under § 1.1471-5(f). Notwithstanding the previous provisions of this paragraph (b)(104)(i), a preexisting obligation includes an obligation held by an entity that is issued, opened, or executed on or after July 1, 2014, and before January 1, 2015, by or with a withholding agent or FFI that treats the obligation as a preexisting obligation. See §§ 1.1471-2(a)(4)(ii), 1.1472-1(b)(2), and 1.1471-4(c)(3) for the due diligence requirements applicable to preexisting obligations for withholding agents and participating FFIs.
 
-(ii) The term *preexisting obligation* also includes any obligation (referring to an account, instrument, contract, debt, or equity interest) of an account holder or payee, regardless of the date such obligation was entered into, if -
+(ii) The term *preexisting obligation* also includes any obligation (referring to an account, instrument, contract, debt, or equity interest) of an account holder or payee, regardless of the date such obligation was entered into, if—
 
 (A) The account holder or payee also holds with the withholding agent (or a member of the withholding agent's expanded affiliated group or sponsored FFI group) an account, instrument, contract, or equity interest that is a preexisting obligation under paragraph (b)(104)(i) of this section;
 
@@ -326,7 +326,7 @@
 
 (140) *U.S. payor.* The term *U.S. payor* means a U.S. payor or U.S. middleman as defined in § 1.6049-5(c)(5).
 
-(141) *U.S. person* - (i) Except as otherwise provided in paragraph (b)(141)(ii) of this section, the term *U.S. person* or *United States person* means a person described in section 7701(a)(30), the United States government (including an agency or instrumentality thereof), a State (including an agency or instrumentality thereof), or the District of Columbia (including an agency or instrumentality thereof). The term *U.S. person* or *United States person* also means a foreign insurance company that has made an election under section 953(d), provided that either the foreign insurance company is not a specified insurance company (as described in § 1.1471-5(e)(1)(iv)), or the foreign insurance company is a specified insurance company and is licensed to do business in any State.
+(141) *U.S. person*—(i) Except as otherwise provided in paragraph (b)(141)(ii) of this section, the term *U.S. person* or *United States person* means a person described in section 7701(a)(30), the United States government (including an agency or instrumentality thereof), a State (including an agency or instrumentality thereof), or the District of Columbia (including an agency or instrumentality thereof). The term *U.S. person* or *United States person* also means a foreign insurance company that has made an election under section 953(d), provided that either the foreign insurance company is not a specified insurance company (as described in § 1.1471-5(e)(1)(iv)), or the foreign insurance company is a specified insurance company and is licensed to do business in any State.
 
 (ii) The term *U.S. person* or *United States person* does not include a foreign insurance company that has made an election under section 953(d) if it is a specified insurance company and is not licensed to do business in any State. An individual will not be treated as a U.S. person for a taxable year or any portion of a taxable year that the individual is a dual resident taxpayer (within the meaning of § 301.7701(b)-7(a)(1) of this chapter) who is treated as a nonresident alien pursuant to § 301.7701(b)-7 of this chapter for purposes of computing the individual's U.S. tax liability. A U.S. person does not include an alien individual who has made an election under section 6013(g) or (h) to be treated as a resident of the United States.
 
@@ -352,4 +352,4 @@
 
 (c) *Applicability date.* This section generally applies beginning on January 6, 2017, except for paragraphs (b)(116) and (121) of this section, which apply beginning on March 25, 2019. However, taxpayers may apply these provisions as of January 28, 2013. (For the rules that otherwise apply beginning on January 6, 2017, and before March 25, 2019, see this section as in effect and contained in 26 CFR part 1 revised April 1, 2018. For rules that otherwise apply beginning on January 28, 2013, and before January 6, 2017, see this section as in effect and contained in 26 CFR part 1 revised April 1, 2016.)
 
-[T.D. 9610, 78 FR 5906, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12825, Mar. 6, 2014; T.D. 9809, 82 FR 2148, Jan. 6, 2017; T.D. 9852, 84 FR 10980, Mar. 25, 2019]
+[T.D. 9610, 78 FR 5906, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013, as amended by T.D. 9657, 79 FR 12825, Mar. 6, 2014; T.D. 9809, 82 FR 2148, Jan. 6, 2017; T.D. 9852, 84 FR 10980, Mar. 25, 2019; T.D. 9890, 85 FR 204, Jan. 2, 2020]

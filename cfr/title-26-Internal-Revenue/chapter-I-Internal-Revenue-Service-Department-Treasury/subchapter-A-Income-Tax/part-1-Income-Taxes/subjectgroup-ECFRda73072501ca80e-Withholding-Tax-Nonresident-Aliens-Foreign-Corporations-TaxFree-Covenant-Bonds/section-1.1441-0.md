@@ -308,7 +308,31 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (A) In general.
 
-(B) Requirement to collect foreign TIN and date of birth beginning January 1, 2017.
+(B) Requirement to collect foreign TIN and date of birth.
+
+(*1*) In general.
+
+(*2*) Definitions.
+
+(*3*) Requirements for reasonable explanation of the absence of a foreign TIN.
+
+(*4*) Exceptions to the requirement to obtain a foreign TIN (or reasonable explanation for its absence).
+
+(*i*) Jurisdictions with which the United States does not have an agreement relating to the exchange of tax information.
+
+(*ii*) Jurisdictions that do not issue foreign TINs.
+
+(*iii*) Account holder that is a government, international organization, foreign central bank of issue, or resident of a U.S. territory.
+
+(*5*) Transition rules for the foreign TIN requirement for a beneficial owner withholding certificate signed before January 1, 2018.
+
+(*i*) Payments made before January 1, 2020.
+
+(*ii*) Payments made after December 31, 2019.
+
+(*iii*) Limitation on standard of knowledge.
+
+(*6*) Transition rule for the date of birth requirement for a beneficial owner withholding certificate signed before January 1, 2018.
 
 (3) Intermediary, flow-through, or U.S. branch withholding certificate.
 
@@ -416,6 +440,14 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (E) Third party repositories.
 
+(F) Examples.
+
+(1) Example 1.
+
+(2) Example 2.
+
+(3) Example 3.
+
 (v) Additional procedures for certificates provided electronically.
 
 (vi) Acceptable substitute form.
@@ -486,7 +518,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (2) Lack of documentation for past years.
 
-(3) Section 871(m) transactions.
+(3) Special rules related to section 871(m).
 
 § 1.1441-2 Amounts subject to withholding.
 
@@ -912,7 +944,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (2) Reason to know.
 
-(3) Financial institutions - limits on reason to know.
+(3) Financial institutions—limits on reason to know.
 
 (i) In general.
 
@@ -924,7 +956,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (ii) Examples.
 
-(5) Withholding certificate - establishment of foreign status.
+(5) Withholding certificate—establishment of foreign status.
 
 (i) Classification of U.S. status, U.S. address, or U.S. telephone number.
 
@@ -932,7 +964,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iii) Standing instructions with respect to offshore obligations.
 
-(6) Withholding certificate - claim of reduced rate of withholding under treaty.
+(6) Withholding certificate—claim of reduced rate of withholding under treaty.
 
 (i) Permanent residence address.
 
@@ -942,7 +974,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (7) Documentary evidence.
 
-(8) Documentary evidence - establishment of foreign status.
+(8) Documentary evidence—establishment of foreign status.
 
 (i) Documentary evidence received prior to January 1, 2001.
 
@@ -956,7 +988,7 @@ This section lists captions contained in §§ 1.1441-1 through 1.1441-9.
 
 (iv) Standing instructions with respect of offshore obligations.
 
-(9) Documentary evidence - claim of reduced rate of withholding under treaty.
+(9) Documentary evidence—claim of reduced rate of withholding under treaty.
 
 (i) Permanent residence address and mailing address.
 
@@ -1052,4 +1084,4 @@ Settlements.
 
 (e) Effective date.
 
-[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9808, 82 FR 2056, Jan. 6, 2017; 82 FR 29720, June 30, 2017]
+[T.D. 8734, 62 FR 53421, Oct. 14, 1997, as amended by T.D. 8881, 66 FR 32168, May 22, 2000; T.D. 9023, 67 FR 70312, Nov. 22, 2002; T.D. 9272, 71 FR 43366, Aug. 1, 2006; T.D. 9415, 73 FR 40172, July 14, 2008; T.D. 9808, 82 FR 2056, Jan. 6, 2017; T.D. 9808, 82 FR 29720, June 30, 2017; T.D. 9890, 85 FR 198, Jan. 2, 2020]

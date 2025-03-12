@@ -458,6 +458,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (*4*) Special requirements for an exempt beneficial owner withholding statement.
 
+(*5*) Nonqualified intermediary withholding statement.
+
 (C) Failure to provide allocation information.
 
 (D) Special rules applicable to a withholding certificate of a QI that assumes primary withholding responsibility under chapter 3.
@@ -1069,6 +1071,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 (E) Requirement to identify the GIIN of a branch that maintains an account.
 
 (F) Reporting by participating FFIs and registered deemed-compliant FFIs (including QIs, WPs, WTs, and certain U.S. branches not treated as U.S. persons) for accounts of nonparticipating FFIs (transitional).
+
+(G) Combined reporting on Form 8966 following merger or bulk acquisition.
 
 (iii) Special U.S. account reporting rules for U.S. payors.
 
@@ -2144,6 +2148,8 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (vi) Other withholding agents.
 
+(vii) Combined Form 1042-S reporting.
+
 (e) Magnetic media reporting.
 
 (f) Indemnification of withholding agent.
@@ -2274,4 +2280,4 @@ This section lists the table of contents for §§ 1.1471-1 through 1.1474-7 and 
 
 (e) Effective/applicability date.
 
-[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017; T.D. 9852, 84 FR 10979, Mar. 25, 2019]
+[T.D. 9610, 78 FR 5899, Jan. 28, 2013; 78 FR 55203, Sept. 10, 2013; as amended by T.D. 9809, 82 FR 2144, Jan. 6, 2017; T.D. 9852, 84 FR 10979, Mar. 25, 2019; T.D. 9890, 85 FR 204, Jan. 2, 2020]
