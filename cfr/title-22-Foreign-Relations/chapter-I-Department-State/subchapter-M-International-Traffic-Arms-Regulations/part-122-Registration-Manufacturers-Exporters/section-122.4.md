@@ -1,5 +1,7 @@
 ##### § 122.4 Notification of changes in information furnished by registrants. #####
 
+Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
+
 (a) A registrant must, within five days of the event, provide to the Directorate of Defense Trade Controls a written notification, signed by a senior officer (e.g., chief executive officer, president, secretary, partner, member, treasurer, general counsel), if:
 
 (1) Any of the persons referred to in § 122.2(b) is indicted or otherwise charged (e.g., by criminal information in lieu of indictment) for or convicted of violating any of the U.S. criminal statutes enumerated in § 120.27 of this subchapter or violating a foreign criminal law on exportation of defense articles where conviction of such law carries a minimum term of imprisonment of greater than 1 year, or becomes ineligible to contract with, or to receive a license or other approval to export or temporarily import defense articles or defense services from any agency of the U.S. Government; or

@@ -1,5 +1,7 @@
 ##### § 125.4 Exemptions of general applicability. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) The following exemptions apply to exports of technical data for which approval is not needed from the Directorate of Defense Trade Controls. The exemptions, except for paragraph (b)(13) of this section, do not apply to exports to proscribed destinations under § 126.1 of this subchapter or for persons considered generally ineligible under § 120.1(c) of this subchapter. The exemptions are also not applicable for purposes of establishing offshore procurement arrangements or producing defense articles offshore (*see* § 124.13), except as authorized under § 125.4(c). Transmission of classified information must comply with the requirements of the Department of Defense National Industrial Security Program Operating Manual (unless such requirements are in direct conflict with guidance provided by the Directorate of Defense Trade controls, in which case the latter guidance must be followed) and the exporter must certify to the transmittal authority that the technical data does not exceed the technical limitation of the authorized export.
 
 (b) The following exports are exempt from the licensing requirements of this subchapter.

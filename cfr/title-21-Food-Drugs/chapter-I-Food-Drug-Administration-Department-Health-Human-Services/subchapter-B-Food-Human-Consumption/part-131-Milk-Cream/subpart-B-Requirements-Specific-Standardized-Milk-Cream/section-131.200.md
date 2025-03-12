@@ -74,4 +74,4 @@ ISO 7889:2003(E) is co-published as IDF 117:2003(E).
 
 (ii) [Reserved]
 
-[86 FR 31137, June 11, 2021]
+[86 FR 31137, June 11, 2021]Effective Date Note:At 87 FR 16394, Mar. 23, 2022, § 131.200(a), (b), (c), (d)(2), and (d)(8)(ii) were stayed indefinitely.

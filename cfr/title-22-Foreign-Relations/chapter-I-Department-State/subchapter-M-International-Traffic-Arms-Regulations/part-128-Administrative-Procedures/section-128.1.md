@@ -1,5 +1,7 @@
 ##### § 128.1 Exclusion of functions from the Administrative Procedure Act. #####
 
+Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
+
 The Arms Export Control Act authorizes the President to control the import and export of defense articles and services in furtherance of world peace and the security and foreign policy of the United States. It authorizes the Secretary of State to make decisions on whether license applications or other written requests for approval shall be granted, or whether exemptions may be used. It also authorizes the Secretary of State to revoke, suspend or amend licenses or other written approvals whenever the Secretary deems such action to be advisable. The administration of the Arms Export Control Act is a foreign affairs function encompassed within the meaning of the military and foreign affairs exclusion of the Administrative Procedure Act and is thereby expressly exempt from various provisions of that Act. Because the exercising of the foreign affairs function, including the decisions required to implement the Arms Export Control Act, is highly discretionary, it is excluded from review under the Administrative Procedure Act.
 
 [61 FR 48831, Sept. 17, 1996]

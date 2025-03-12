@@ -1,5 +1,7 @@
 ##### § 126.10 Disclosure of information. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) *Freedom of information.* Subchapter R of this title contains regulations on the availability to the public of information and records of the Department of State. The provisions of subchapter R apply to such disclosures by the Directorate of Defense Trade Controls.
 
 (b) *Determinations required by law.* Section 38(e) of the Arms Export Control Act (22 U.S.C. 2778(e)) provides, by reference to section 12(c) of the Export Administration Act (50 U.S.C. 2411), that information obtained for the purpose of consideration of, or concerning, license applications shall be withheld from public disclosure unless the release of such information is determined by the Secretary to be in the national interest. Section 38(e) of the Arms Control Export Act further provides that, the names of countries and types and quantities of defense articles for which licenses are issued under this section shall not be withheld from public disclosure unless certain determinations are made that the release of such information would be contrary to the national interest. Such determinations required by section 38(e) shall be made by the Assistant Secretary of State for Political-Military Affairs.

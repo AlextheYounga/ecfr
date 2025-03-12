@@ -1,5 +1,7 @@
 ##### § 124.2 Exemptions for training and military service. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) Technical assistance agreements are not required for the provision of training in the basic operation and maintenance of defense articles lawfully exported or authorized for export to the same recipient. This does not include training in intermediate and depot level maintenance.
 
 (b) Services performed as a member of the regular military forces of a foreign nation by U.S. persons who have been drafted into such forces are not deemed to be defense services for purposes of § 120.9 of this subchapter.

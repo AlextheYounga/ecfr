@@ -1,5 +1,7 @@
 ##### § 129.3 Requirement to register. #####
 
+Link to an amendment published at 87 FR 16426, Mar. 23, 2022.
+
 (a) Except as provided in paragraph (b) of this section, any person who engages in brokering activities (*see* § 129.2) is required to register with the Directorate of Defense Trade Controls. Registration under this section is generally a precondition for the issuance of approval for brokering activities required under this part 129 or the use of exemptions.
 
 (b) *Exemptions.* Registration, approval, recordkeeping, and reporting under this section are not required for:

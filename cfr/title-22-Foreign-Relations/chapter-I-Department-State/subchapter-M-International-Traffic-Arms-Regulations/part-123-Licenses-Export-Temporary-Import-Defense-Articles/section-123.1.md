@@ -1,5 +1,7 @@
 ##### § 123.1 Requirement for export or temporary import licenses. #####
 
+Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
+
 (a) Any person who intends to export or to import temporarily a defense article must obtain the approval of the Directorate of Defense Trade Controls prior to the export or temporary import, unless the export or temporary import qualifies for an exemption under the provisions of this subchapter. The applicant must be registered with the Directorate of Defense Trade Controls pursuant to part 122 of this subchapter prior to submitting an application. Applications for unclassified exports and temporary imports must be submitted electronically. Applications for classified exports and classified temporary imports must be submitted via paper. Further guidance is provided on the Internet Web site of the Directorate of Defense Trade Controls. The application forms for export or temporary import are as follows:
 
 (1) Unclassified permanent exports must be made on Form DSP-5;

@@ -1,5 +1,7 @@
 ##### § 125.1 Exports subject to this part. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) The controls of this part apply to the export of technical data and the export of classified defense articles. Information which is in the public domain (see § 120.11 of this subchapter and § 125.4(b)(13)) is not subject to the controls of this subchapter.
 
 (b) A license for the export of technical data and the exemptions in § 125.4 may not be used for foreign production purposes or for technical assistance unless the approval of the Directorate of Defense Trade Controls has been obtained. Such approval is generally provided only pursuant to the procedures specified in part 124 of this subchapter.

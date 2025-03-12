@@ -1,5 +1,7 @@
 ##### § 129.2 Definitions. #####
 
+Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
+
 As used in this part:
 
 (a) *Broker* means any person (*see* § 120.14 of this subchapter) described below who engages in the business of brokering activities:

@@ -1,5 +1,7 @@
 ##### § 126.9 Advisory opinions and related authorizations. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) *Preliminary authorization determinations.* A person may request information from the Directorate of Defense Trade Controls as to whether it would likely grant a license or other approval for a particular defense article or defense service to a particular country. Such information from the Directorate of Defense Trade Controls is issued on a case-by-case basis and applies only to the particular matters presented to the Directorate of Defense Trade Controls. These opinions are not binding on the Department of State and may not be used in future matters before the Department. A request for an advisory opinion must be made in writing and must outline in detail the equipment, its usage, the security classification (if any) of the articles or related technical data, and the country or countries involved.
 
 (b) *Related authorizations.* The Directorate of Defense Trade Controls may, as appropriate, in accordance with the procedures set forth in paragraph (a) of this section, provide export authorization, subject to all other relevant requirements of this subchapter, both for transactions that have been the subject of advisory opinions requested by prospective U.S. exporters, or for the Directorate's own initiatives. Such initiatives may cover pilot programs, or specifically anticipated circumstances for which the Directorate considers special authorizations appropriate.

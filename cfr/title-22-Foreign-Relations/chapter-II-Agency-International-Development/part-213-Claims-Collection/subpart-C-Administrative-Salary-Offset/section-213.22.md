@@ -1,6 +1,6 @@
 ##### § 213.22 Salary offset when USAID is the creditor Agency. #####
 
-(a) *Due process requirements - Entitlement to notice, hearing, written response and decision.* (1) Prior to initiating collection action through salary offset, USAID will first provide the employee with the opportunity to pay in full the amount owed, unless such notification will compromise the Government's ultimate ability to collect the debt.
+(a) *Due process requirements—Entitlement to notice, hearing, written response and decision.* (1) Prior to initiating collection action through salary offset, USAID will first provide the employee with the opportunity to pay in full the amount owed, unless such notification will compromise the Government's ultimate ability to collect the debt.
 
 (2) Except as provided in paragraph (b) of this section, each employee from whom the Agency proposes to collect a debt by salary offset under this section is entitled to receive a written notice as described in paragraph (c) of this section.
 
@@ -10,7 +10,7 @@
 
 (ii) The repayment schedule, if it was not established by written agreement between the employee and the Agency.
 
-(b) *Exceptions to due process requirements - pay and allowances.* The procedural requirements of paragraph (a) of this section are not applicable to overpayments of pay or allowances caused by the following:
+(b) *Exceptions to due process requirements—pay and allowances.* The procedural requirements of paragraph (a) of this section are not applicable to overpayments of pay or allowances caused by the following:
 
 (1) Any adjustment of pay arising out of an employee's election of coverage or a change in coverage under a Federal benefits program (such as health insurance) requiring periodic deductions from pay, if the amount to be recovered was accumulated over four pay periods or less. However, if the amount to be recovered was accumulated over more than four pay periods the full procedures prescribed under paragraph (d) of this section will be extended to the employee;
 
@@ -40,7 +40,7 @@
 
 (10) That a final decision on the hearing (if requested) will be issued at the earliest practical date, but no later than 60 days after the filing of the request, unless the employee requests and the hearing official grants a delay in the proceedings;
 
-(11) That any knowingly false or frivolous statements, representations or evidence may subject the employee to -
+(11) That any knowingly false or frivolous statements, representations or evidence may subject the employee to—
 
 (i) Disciplinary procedures under 5 U.S.C. chapter 75 or any other applicable statutes or regulations;
 
@@ -62,7 +62,7 @@
 
 (3) The decision of the hearing official is final and binding on the parties.
 
-(g) *Request for waiver.* In certain instances, an employee may have a statutory right to request a waiver of overpayment of pay or allowances (*e.g.,* 5 U.S.C. 5584 or 5 U.S.C. 5724(i)). When an employee requests waiver consideration under a right authorized by statute, the Agency will suspend further collection on the debt until it makes a final administrative decision on the waiver request. However, when it appears that an employee's resignation, termination, or other action may prejudice the Government's ability to recover the debt, the suspension of recovery is not required. During the period of the suspension, USAID will not assess interest, penalties, charges, and administrative costs against the debt. The Agency will not duplicate, for purposes of salary offset, any of the procedures already provided the debtor under a request for waiver. See § 213.13.
+(g) *Request for waiver.* In certain instances, an employee may have a statutory right to request a waiver of overpayment of pay or allowances (e.g., 5 U.S.C. 5584 or 5 U.S.C. 5724(i)). When an employee requests waiver consideration under a right authorized by statute, the Agency will suspend further collection on the debt until it makes a final administrative decision on the waiver request. However, when it appears that an employee's resignation, termination, or other action may prejudice the Government's ability to recover the debt, the suspension of recovery is not required. During the period of the suspension, USAID will not assess interest, penalties, charges, and administrative costs against the debt. The Agency will not duplicate, for purposes of salary offset, any of the procedures already provided the debtor under a request for waiver. See § 213.13.
 
 (h) *Method and source of collection.* A debt will be collected in a lump sum or by installment deductions at established pay intervals from an employee's current pay account, unless the employee and the Agency agree to alternative arrangements for payment. The alternative payment schedule must be in writing, signed by both the employee and the CFO and will be documented in the Agency's files.
 

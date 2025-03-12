@@ -1,5 +1,7 @@
 ##### § 126.13 Required information. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) All applications for licenses (DSP-5, DSP-61, DSP-73, and DSP-85), all requests for approval of agreements and amendments thereto under part 124 of this subchapter, and all requests for other written authorizations (including requests for retransfer or reexport pursuant to § 123.9 of this subchapter) must include a letter signed by a responsible official empowered by the applicant and addressed to the Directorate of Defense Trade Controls, stating whether:
 
 (1) The applicant or the chief executive officer, president, vice-presidents, secretary, partner, member, other senior officers or officials (e.g., comptroller, treasurer, general counsel) or any member of the board of directors is the subject of an indictment or has been otherwise charged (e.g., by criminal information in lieu of indictment) for, or has been convicted of, violating any of the U.S. criminal statutes enumerated in § 120.27 of this subchapter;

@@ -1,5 +1,7 @@
 ##### § 127.12 Voluntary disclosures. #####
 
+Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
+
 (a) *General policy.* The Department strongly encourages the disclosure of information to the Directorate of Defense Trade Controls by persons (see § 120.14 of this subchapter) that believe they may have violated any export control provision of the Arms Export Control Act, or any regulation, order, license, or other authorization issued under the authority of the Arms Export Control Act. The Department may consider a voluntary disclosure as a mitigating factor in determining the administrative penalties, if any, that should be imposed. Failure to report a violation may result in circumstances detrimental to U.S. national security and foreign policy interests, and will be an adverse factor in determining the appropriate disposition of such violations.
 
 (b) *Limitations.* (1) The provisions of this section apply only when information is provided to the Directorate of Defense Trade Controls for its review in determining whether to take administrative action under part 128 of this subchapter concerning a violation of the export control provisions of the Arms Export Control Act and these regulations.

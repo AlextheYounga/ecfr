@@ -1,5 +1,7 @@
 ##### § 127.1 Violations. #####
 
+Link to an amendment published at 87 FR 16425, Mar. 23, 2022.
+
 (a) Without first obtaining the required license or other written approval from the Directorate of Defense Trade Controls, it is unlawful:
 
 (1) To export or attempt to export from the United States any defense article or technical data or to furnish or attempt to furnish any defense service for which a license or written approval is required by this subchapter;

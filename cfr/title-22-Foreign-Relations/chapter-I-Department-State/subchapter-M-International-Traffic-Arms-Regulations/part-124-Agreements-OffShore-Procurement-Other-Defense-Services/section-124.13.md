@@ -1,5 +1,7 @@
 ##### § 124.13 Procurement by United States persons in foreign countries (offshore procurement). #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 Notwithstanding the other provisions in part 124 of this subchapter, the Directorate of Defense Trade Controls may authorize by means of a license (DSP-5) the export of unclassified technical data to foreign persons for offshore procurement of defense articles, provided that:
 
 (a) The contract or purchase order for offshore procurement limits delivery of the defense articles to be produced only to the person in the United States or to an agency of the U.S. Government; and

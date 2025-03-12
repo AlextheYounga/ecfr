@@ -1,5 +1,7 @@
 ##### § 123.9 Country of ultimate destination and approval of reexports or retransfers. #####
 
+Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
+
 (a) The country designated as the country of ultimate destination on an application for an export license, or in an Electronic Export Information filing where an exemption is claimed under this subchapter, must be the country of ultimate end-use. The written approval of the Directorate of Defense Trade Controls must be obtained before reselling, transferring, reexporting, retransferring, transshipping, or disposing of a defense article to any end-user, end-use, or destination other than as stated on the export license, or in the Electronic Export Information filing in cases where an exemption is claimed under this subchapter, except in accordance with the provisions of an exemption under this subchapter that explicitly authorizes the resell, transfer, reexport, retransfer, transshipment, or disposition of a defense article without such approval. Exporters must determine the specific end-user, end-use, and destination prior to submitting an application to the Directorate of Defense Trade Controls or claiming an exemption under this subchapter.
 
 Note to paragraph (a):

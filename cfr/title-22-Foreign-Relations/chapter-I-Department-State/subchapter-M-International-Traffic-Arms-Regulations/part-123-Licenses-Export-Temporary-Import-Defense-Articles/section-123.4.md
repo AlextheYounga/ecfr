@@ -1,5 +1,7 @@
 ##### § 123.4 Temporary import license exemptions. #####
 
+Link to an amendment published at 87 FR 16423, Mar. 23, 2022.
+
 (a) Port Directors of U.S. Customs and Border Protection shall permit the temporary import (and subsequent export) without a license, for a period of up to 4 years, of unclassified U.S.-origin defense items (including any items manufactured abroad pursuant to U.S. Government approval) if the item temporarily imported:
 
 (1) Is serviced (e.g., inspection, testing, calibration or repair, including overhaul, reconditioning and one-to-one replacement of any defective items, parts or components, but excluding any modifications, enhancement, upgrade or other form of alteration or improvement that changes the basic performance of the item), and is subsequently returned to the country from which it was imported. Shipment may be made by the U.S. importer or a foreign government representative of the country from which the goods were imported; or

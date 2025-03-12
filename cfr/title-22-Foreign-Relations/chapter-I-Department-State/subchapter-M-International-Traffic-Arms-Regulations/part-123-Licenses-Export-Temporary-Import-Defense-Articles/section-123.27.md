@@ -1,5 +1,7 @@
 ##### § 123.27 Special licensing regime for export to U.S. allies of commercial communications satellite components, systems, parts, accessories, attachments and associated technical data. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) U.S. persons engaged in the business of exporting specifically designed or modified components, systems, parts, accessories, attachments, associated equipment and certain associated technical data for commercial communications satellites, and who are so registered with the Directorate of Defense Trade Controls pursuant to part 122 of this subchapter, may submit license applications for multiple permanent and temporary exports and temporary imports of such articles for expeditious consideration without meeting the documentary requirements of § 123.1(c)(4) and (5) concerning purchase orders, letters of intent, contracts and non-transfer and end use certificates, or the documentary requirements of § 123.9, concerning approval of re-exports or re-transfers, when all of the following requirements are met:
 
 (1) The proposed exports or re-exports concern exclusively one or more countries of the North Atlantic Treaty Organization (see § 120.31 of this subchapter) and/or one or more countries which have been designated in accordance with section 517 of the Foreign Assistance Act of 1961 and with section 1206 of the Foreign Relations Authorization Act, Fiscal Year 2003 as a major non-NATO ally (see § 120.32 of this subchapter).

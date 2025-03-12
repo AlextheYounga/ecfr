@@ -1,5 +1,7 @@
 ##### § 126.7 Denial, revocation, suspension, or amendment of licenses and other approvals. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a) *Policy.* Licenses or approvals shall be denied or revoked whenever required by any statute of the United States (see §§ 127.7 and 127.11 of this subchapter). Any application for an export license or other approval under this subchapter may be disapproved, and any license or other approval or exemption granted under this subchapter may be revoked, suspended, or amended without prior notice whenever:
 
 (1) The Department of State deems such action to be in furtherance of world peace, the national security or the foreign policy of the United States, or is otherwise advisable; or

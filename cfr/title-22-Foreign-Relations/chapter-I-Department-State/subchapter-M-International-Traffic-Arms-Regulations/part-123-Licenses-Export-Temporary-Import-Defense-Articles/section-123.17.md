@@ -1,5 +1,7 @@
 ##### § 123.17 Exemption for personal protective gear. #####
 
+Link to an amendment published at 87 FR 16424, Mar. 23, 2022.
+
 (a)-(e) [Reserved]
 
 (f) Port Directors of U.S. Customs and Border Protection (CBP) shall permit U.S. persons to export temporarily from the United States without a license one set of body armor covered by U.S. Munitions List Category X(a)(1), which may include one helmet covered by U.S. Munitions List Category X(a)(6), or one set of chemical agent protective gear covered by U.S. Munitions List Category XIV(f)(4), which may include one additional filter canister, provided:

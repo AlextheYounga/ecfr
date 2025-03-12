@@ -1,5 +1,7 @@
 ##### § 129.5 Exemption from requirement for approval. #####
 
+Link to an amendment published at 87 FR 16426, Mar. 23, 2022.
+
 (a) Unless paragraph (c) of this section applies, brokering activities undertaken for an agency of the U.S. Government pursuant to a contract between the broker and that agency are exempt from the requirement for approval provided that:
 
 (1) The brokering activities concern defense articles or defense services solely for the use of the agency; or
