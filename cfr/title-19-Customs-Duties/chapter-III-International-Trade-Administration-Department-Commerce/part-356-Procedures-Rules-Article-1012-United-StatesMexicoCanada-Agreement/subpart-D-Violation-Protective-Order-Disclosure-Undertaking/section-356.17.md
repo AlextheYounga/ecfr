@@ -1,0 +1,3 @@
+##### § 356.17 Request to charge. #####
+
+Upon deciding to initiate a proceeding pursuant to § 356.15, the Deputy Under Secretary will request the authorized agency of the involved FTA country to initiate a proceeding for imposing sanctions for violation of a protective order or a disclosure undertaking by issuing a letter of request to charge that includes a statement of the allegation that a protective order or a disclosure undertaking has been violated and the basis thereof.

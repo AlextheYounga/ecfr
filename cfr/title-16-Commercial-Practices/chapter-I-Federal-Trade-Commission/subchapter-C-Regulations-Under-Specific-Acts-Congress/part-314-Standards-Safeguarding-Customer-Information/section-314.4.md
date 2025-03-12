@@ -1,5 +1,7 @@
 ##### § 314.4 Elements. #####
 
+Link to an amendment published at 86 FR 70307, Dec. 9, 2021.
+
 In order to develop, implement, and maintain your information security program, you shall:
 
 (a) Designate an employee or employees to coordinate your information security program.

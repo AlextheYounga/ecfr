@@ -1,5 +1,7 @@
 ##### § 232.13 Date of filing; adjustment of filing date. #####
 
+Link to an amendment published at 86 FR 70200, Dec. 9, 2021.
+
 (a) *General.* (1) Except as provided in paragraph (b) of this section, the business day on which a filing is received by the Commission shall be the date of filing thereof, if:
 
 (i) All requirements of the Acts and rules applicable to such filing have been complied with;

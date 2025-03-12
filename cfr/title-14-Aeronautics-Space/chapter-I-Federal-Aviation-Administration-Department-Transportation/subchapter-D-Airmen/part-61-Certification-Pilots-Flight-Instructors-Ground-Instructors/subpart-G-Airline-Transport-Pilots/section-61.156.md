@@ -1,8 +1,6 @@
-##### § 61.156 Training requirements: Airplane category - multiengine class rating or airplane type rating concurrently with airline transport pilot certificate. #####
+##### § 61.156 Training requirements: Airplane category—multiengine class or multiengine airplane type rating concurrently with an airline transport pilot certificate. #####
 
-Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
-
-After July 31, 2014, a person who applies for the knowledge test for an airline transport pilot certificate with an airplane category multiengine class rating must present a graduation certificate from an authorized training provider under part 121, 135, 141, or 142 of this chapter certifying the applicant has completed the following training in a course approved by the Administrator.
+A person who applies for the knowledge test for an airline transport pilot certificate with an airplane category multiengine class rating must present a graduation certificate from an authorized training provider under part 121, 135, 141, or 142 of this chapter certifying the applicant has completed the following training in a course approved by the Administrator.
 
 (a) *Academic training.* The applicant for the knowledge test must receive at least 30 hours of classroom instruction that includes the following:
 
@@ -50,4 +48,4 @@ After July 31, 2014, a person who applies for the knowledge test for an airline 
 
 (c) *Deviation authority.* The Administrator may issue deviation authority from the weight requirement in paragraph (b)(1) of this section upon a determination that the objectives of the training can be met in an alternative device.
 
-[Doc. No. FAA-2010-0100, 78 FR 42375, July 15, 2013]
+[Doc. No. FAA-2010-0100, 78 FR 42375, July 15, 2013, as amended by Amdt. 61-149, 86 FR 62087, Nov. 9, 2021]

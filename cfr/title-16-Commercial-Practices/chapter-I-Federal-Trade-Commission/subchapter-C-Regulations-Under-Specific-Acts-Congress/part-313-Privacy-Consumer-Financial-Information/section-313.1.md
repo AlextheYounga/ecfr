@@ -1,5 +1,7 @@
 ##### § 313.1 Purpose and scope. #####
 
+Link to an amendment published at 86 FR 70025, Dec. 9, 2021.
+
 (a) *Purpose.* This part governs the treatment of nonpublic personal information about consumers by the financial institutions listed in paragraph (b) of this section. This part:
 
 (1) Requires a financial institution in specified circumstances to provide notice to customers about its privacy policies and practices;

@@ -1,5 +1,7 @@
 ##### § 313.4 Initial privacy notice to consumers required. #####
 
+Link to an amendment published at 86 FR 70026, Dec. 9, 2021.
+
 (a) *Initial notice requirement.* You must provide a clear and conspicuous notice that accurately reflects your privacy policies and practices to:
 
 (1) *Customer.* An individual who becomes your customer, not later than when you establish a customer relationship, except as provided in paragraph (e) of this section; and

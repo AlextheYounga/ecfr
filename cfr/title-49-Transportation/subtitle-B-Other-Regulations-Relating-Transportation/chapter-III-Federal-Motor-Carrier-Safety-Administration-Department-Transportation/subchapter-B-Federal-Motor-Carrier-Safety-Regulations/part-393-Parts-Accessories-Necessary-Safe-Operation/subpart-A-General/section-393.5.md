@@ -1,7 +1,5 @@
 ##### § 393.5 Definitions. #####
 
-Link to an amendment published at 86 FR 62111, Nov. 9, 2021.
-
 As used in this part, the following words and terms are construed to mean:
 
 *Aggregate working load limit.* The summation of the working load limits or restraining capacity of all devices used to secure an article of cargo on a vehicle.
@@ -134,6 +132,8 @@ As used in this part, the following words and terms are construed to mean:
 
 *Reflex reflector.* A device which is used on a vehicle to give an indication to an approaching driver by reflected lighted from the lamps on the approaching vehicle.
 
+*Road construction controlled horizontal discharge trailer* means a trailer or semitrailer that is equipped with a mechanical drive and a conveyor to deliver asphalt and other road building materials, in a controlled horizontal manner, into a lay down machine or paving equipment for road construction and paving operations.
+
 *Saddle-mount.* A device, designed and constructed as to be readily demountable, used in driveaway-towaway operations to perform the functions of a conventional fifth wheel:
 
 (1) Upper-half. *Upper-half* of a “saddle-mount” means that part of the device which is securely attached to the towed vehicle and maintains a fixed position relative thereto, but does not include the “king-pin;”
@@ -202,4 +202,4 @@ As used in this part, the following words and terms are construed to mean:
 
 *Working load limit (WLL).* The maximum load that may be applied to a component of a cargo securement system during normal service, usually assigned by the manufacturer of the component.
 
-[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016]
+[53 FR 49384, Dec. 7, 1988, as amended at 63 FR 8339, Feb. 18, 1998; 63 FR 24465, May 4, 1998; 64 FR 47707, Sept. 1, 1999; 67 FR 61224, Sept. 27, 2002; 68 FR 56208, Sept. 30, 2003; 70 FR 48026, Aug. 15, 2005; 71 FR 35832, June 22, 2006; 72 FR 9870, Mar. 6, 2007; 81 FR 47731, July 22, 2016; 81 FR 65574, Sept. 23, 2016; 86 FR 62111, Nov. 9, 2021]

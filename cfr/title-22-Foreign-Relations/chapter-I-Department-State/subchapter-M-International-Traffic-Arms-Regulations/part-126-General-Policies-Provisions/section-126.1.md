@@ -36,6 +36,7 @@ Table 2 to Paragraph (d)(2)
 |          Country           |  Country specific paragraph location  |
 |----------------------------|---------------------------------------|
 |        Afghanistan         |See also paragraph (g) of this section.|
+|          Cambodia          |See also paragraph (o) of this section.|
 |  Central African Republic  |See also paragraph (u) of this section.|
 |           Cyprus           |See also paragraph (r) of this section.|
 |Democratic Republic of Congo|See also paragraph (i) of this section.|
@@ -147,7 +148,9 @@ Note to paragraph (e):
 
 (n) *Ethiopia.* It is the policy of the United States to deny licenses or other approvals for exports of defense articles or defense services destined to or for the armed forces, police, intelligence, or other internal security forces of Ethiopia.
 
-(o)-(q) [Reserved]
+(o) *Cambodia.* It is the policy of the United States to deny licenses or other approvals for exports and imports of defense articles and defense services destined for or originating in Cambodia, except that a license or other approval may be issued, on a case-by-case basis, for defense articles and defense services in furtherance of conventional weapons destruction or humanitarian mine action activities.
+
+(p)-(q) [Reserved]
 
 (r) *Cyprus.* It is the policy of the United States to deny licenses or other approvals for exports or imports of defense articles and defense services destined for or originating in Cyprus, except that a license or other approval may be issued, on a case-by-case basis, for the United Nations Forces in Cyprus (UNFICYP) or for civilian end-users. This policy of denial does not apply to exports, reexports, retransfers, and temporary imports of non-lethal defense articles and defense services destined for or originating in Cyprus if:
 

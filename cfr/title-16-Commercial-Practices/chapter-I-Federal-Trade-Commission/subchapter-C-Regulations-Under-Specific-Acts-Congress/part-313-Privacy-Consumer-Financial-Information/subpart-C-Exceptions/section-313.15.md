@@ -1,5 +1,7 @@
 ##### § 313.15 Other exceptions to notice and opt out requirements. #####
 
+Link to an amendment published at 86 FR 70026, Dec. 9, 2021.
+
 (a) *Exceptions to opt out requirements.* The requirements for initial notice in § 313.4(a)(2), for the opt out in §§ 313.7 and 313.10, and for service providers and joint marketing in § 313.13 do not apply when you disclose nonpublic personal information:
 
 (1) With the consent or at the direction of the consumer, provided that the consumer has not revoked the consent or direction;

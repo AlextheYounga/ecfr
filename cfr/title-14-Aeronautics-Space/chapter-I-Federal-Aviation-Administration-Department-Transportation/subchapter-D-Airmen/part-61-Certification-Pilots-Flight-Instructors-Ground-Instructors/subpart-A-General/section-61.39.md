@@ -1,7 +1,5 @@
 ##### § 61.39 Prerequisites for practical tests. #####
 
-Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
-
 (a) Except as provided in paragraphs (b), (c), and (e) of this section, to be eligible for a practical test for a certificate or rating issued under this part, an applicant must:
 
 (1) Pass the required knowledge test:
@@ -18,7 +16,7 @@ Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
 
 (5) Meet the prescribed age requirement of this part for the issuance of the certificate or rating sought;
 
-(6) Have an endorsement, if required by this part, in the applicant's logbook or training record that has been signed by an authorized instructor who certifies that the applicant -
+(6) Have an endorsement, if required by this part, in the applicant's logbook or training record that has been signed by an authorized instructor who certifies that the applicant—
 
 (i) Has received and logged training time within 2 calendar months preceding the month of application in preparation for the practical test;
 
@@ -28,7 +26,7 @@ Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
 
 (7) Have a completed and signed application form.
 
-(b) An applicant for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate with an airplane type rating may take the practical test with an expired knowledge test only if the applicant passed the knowledge test after July 31, 2014, and is employed:
+(b) An applicant for an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate obtained concurrently with a multiengine airplane type rating may take the practical test with an expired knowledge test only if the applicant passed the knowledge test after July 31, 2014, and is employed:
 
 (1) As a flightcrew member by a part 119 certificate holder conducting operations under parts 125 or 135 of this chapter at the time of the practical test and has satisfactorily accomplished that operator's approved pilot-in-command training or checking program; or
 
@@ -42,7 +40,7 @@ Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
 
 (2) By the U.S. Armed Forces as a flight crewmember in U.S. military air transport operations at the time of the practical test and has completed the pilot in command aircraft qualification training program that is appropriate to the pilot certificate and rating sought.
 
-(d) In addition to the requirements in paragraph (a) of this section, to be eligible for a practical test for an airline transport pilot certificate with an airplane category multiengine class rating or airline transport pilot certificate obtained concurrently with an airplane type rating, an applicant must:
+(d) In addition to the requirements in paragraph (a) of this section, to be eligible for a practical test for an airline transport pilot certificate with an airplane category multiengine class rating or airline transport pilot certificate obtained concurrently with a multiengine airplane type rating, an applicant must:
 
 (1) If the applicant passed the knowledge test after July 31, 2014, present the graduation certificate for the airline transport pilot certification training program in § 61.156, at the time of application for the practical test;
 
@@ -62,4 +60,4 @@ Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
 
 (g) If all increments of the practical test for a certificate or rating are not completed within 2 calendar months after the month the applicant began the test, the applicant must retake the entire practical test.
 
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-130, 78 FR 42373, July 15, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30726, June 27, 2018]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997; Amdt. 61-103, 62 FR 40897, July 30, 1997, as amended by Amdt. 61-104, 63 FR 20286, Apr. 23, 1998; Amdt. 61-124, 74 FR 42548, Aug. 21, 2009; Amdt. 61-130, 78 FR 42373, July 15, 2013; Amdt. 61-130B, 78 FR 77573, Dec. 24, 2013; Amdt. 61-142, 83 FR 30726, June 27, 2018; Amdt. 61-149, 86 FR 62087, Nov. 9, 2021]

@@ -1,5 +1,7 @@
 ##### § 230.473 Delaying amendments. #####
 
+Link to an amendment published at 86 FR 70200, Dec. 9, 2021.
+
 (a) An amendment in the following form filed with a registration statement, or as an amendment to a registration statement which has not become effective, shall be deemed, for the purpose of section 8(a) of the Act, to be filed on such date or dates as may be necessary to delay the effective date of such registration statement (1) until the registrant shall file a further amendment which specifically states as provided in paragraph (b) of this section that such registration statement shall thereafter become effective in accordance with section 8(a) of the Act, or (2) until the registration statement shall become effective on such date as the Commission, acting pursuant to section 8(a), may determine:
 
 The registrant hereby amends this registration statement on such date or dates as may be necessary to delay its effective date until the registrant shall file a further amendment which specifically states that this registration statement shall thereafter become effective in accordance with section 8(a) of the Securities Act of 1933 or until the registration statement shall become effective on such date as the Commission acting pursuant to said section 8(a), may determine.

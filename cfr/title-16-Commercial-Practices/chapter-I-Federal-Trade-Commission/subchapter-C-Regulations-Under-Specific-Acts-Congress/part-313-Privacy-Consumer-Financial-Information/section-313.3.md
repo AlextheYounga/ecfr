@@ -1,5 +1,7 @@
 ##### § 313.3 Definitions. #####
 
+Link to an amendment published at 86 FR 70025, Dec. 9, 2021.
+
 As used in this part, unless the context requires otherwise:
 
 (a) *Affiliate* means any company that controls, is controlled by, or is under common control with another company.

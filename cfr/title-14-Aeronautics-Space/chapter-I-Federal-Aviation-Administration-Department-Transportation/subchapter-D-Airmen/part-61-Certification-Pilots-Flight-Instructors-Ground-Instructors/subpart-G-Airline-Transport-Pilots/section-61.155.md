@@ -1,7 +1,5 @@
 ##### § 61.155 Aeronautical knowledge. #####
 
-Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
-
 (a) *General.* The knowledge test for an airline transport pilot certificate is based on the aeronautical knowledge areas listed in paragraph (c) of this section that are appropriate to the aircraft category and class rating sought.
 
 (b) *Aircraft type rating.* A person who is applying for an additional aircraft type rating to be added to an airline transport pilot certificate is not required to pass a knowledge test if that person's airline transport pilot certificate lists the aircraft category and class rating that is appropriate to the type rating sought.
@@ -32,8 +30,6 @@ Link to an amendment published at 86 FR 62087, Nov. 9, 2021.
 
 (13) Crew resource management to include crew communication and coordination; and
 
-(14) After July 31, 2014, for airplane category multiengine class rating or airplane type rating, the content of the airline transport pilot certification training program in § 61.156.
+(14) For an airline transport pilot certificate with an airplane category multiengine class rating or an airline transport pilot certificate obtained concurrently with a multiengine airplane type rating, the content of the airline transport pilot certification training program in § 61.156.
 
-(d) An applicant who successfully completes the knowledge test for an airline transport pilot certificate prior to August 1, 2014, must successfully complete the practical test within 24 months from the month in which the knowledge test was successfully completed. An applicant who passes the knowledge test prior to August 1, 2014, but fails to successfully complete the airplane category with a multiengine class rating practical test within 24 months must complete the airline transport pilot certification training program specified in § 61.156 and retake the knowledge test prior to applying for the airplane category with a multiengine class rating practical test.
-
-[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-130, 78 FR 42374, July 15, 2013; Docket FAA-2010-0100, Amdt. 61-130C, 81 FR 2, Jan. 4, 2016]
+[Doc. No. 25910, 62 FR 16298, Apr. 4, 1997, as amended by Amdt. 61-130, 78 FR 42374, July 15, 2013; Amdt. 61-130C, 81 FR 2, Jan. 4, 2016; Amdt. 61-149, 86 FR 62087, Nov. 9, 2021]

@@ -1,5 +1,7 @@
 ##### § 240.0-11 Filing fees for certain acquisitions, dispositions and similar transactions. #####
 
+Link to an amendment published at 86 FR 70251, Dec. 9, 2021.
+
 (a) *General.* (1) At the time of filing a disclosure document described in paragraphs (b) through (d) of this section relating to certain acquisitions, dispositions, business combinations, consolidations or similar transactions, the person filing the specified document shall pay a fee payable to the Commission to be calculated as set forth in paragraphs (b) through (d) of this section.
 
 (2) Only one fee per transaction is required to be paid. A required fee shall be reduced in an amount equal to any fee paid with respect to such transaction pursuant to either section 6(b) of the Securities Act of 1933 or any applicable provision of this rule; the fee requirements under section 6(b) shall be reduced in an amount equal to the fee paid the Commission with respect to a transaction under this regulation. No part of a filing fee is refundable.

@@ -1,5 +1,7 @@
 ##### § 230.456 Date of filing; timing of fee payment. #####
 
+Link to an amendment published at 86 FR 70199, Dec. 9, 2021.
+
 (a) The date on which any papers are actually received by the Commission shall be the date of filing thereof, if all the requirements of the act and the rules with respect to such filing have been complied with and the required fee paid. The failure to pay an insignificant amount of the required fee at the time of filing, as the result of a bona fide error, shall not be deemed to affect the date of filing.
 
 (b)(1) Notwithstanding paragraph (a) of this section, a well-known seasoned issuer that registers securities offerings on an automatic shelf registration statement, or registers additional securities or classes of securities thereon pursuant to Rule 413(b) (§ 230.413(b)), may, but is not required to, defer payment of all or any part of the registration fee to the Commission required by section 6(b)(2) of the Act on the following conditions:

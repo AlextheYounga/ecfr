@@ -1,5 +1,7 @@
 ##### § 202.3a Instructions for filing fees. #####
 
+Link to an amendment published at 86 FR 70197, Dec. 9, 2021.
+
 (a) *General instructions for remittance of filing fees.* Payment of filing fees specified by the following sections shall be made according to the directions listed in this section: § 230.111 of this chapter, § 240.0-9 of this chapter, and § 270.0-8 of this chapter. All such fees are to be paid through the U.S. Treasury designated lockbox depository and may be paid by wire transfer, certified check, bank cashier's check, United States postal money order, or bank money order pursuant to the specific instructions set forth in paragraph (b) of this section. Personal checks will not be accepted for payment of fees. To ensure proper posting, all filers must include their Commission-assigned Central Index Key (CIK) number (also known as the Commission-assigned registrant or payor account number) on fee payments. If a third party submits a fee payment, the fee payment must specify the account number to which the fee is to be applied.
 
 (b) *Instructions for payment of filing fees.* Except as provided in paragraph (c) of this section, these instructions provide direction for remitting fees specified in paragraph (a) of this section. You may contact the Fee Account Services Branch in the Office of Financial Management at (202) 551-8989 for additional information if you have questions.

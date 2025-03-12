@@ -1,5 +1,7 @@
 ##### § 200.30-1 Delegation of authority to Director of Division of Corporation Finance. #####
 
+Link to an amendment published at 86 FR 70043, Dec. 9, 2021.
+
 Pursuant to sections 4A and 4B of the Securities Exchange Act of 1934, as amended (15 U.S.C. 78d-1, 78d-2), the Securities and Exchange Commission hereby delegates, until the Commission orders otherwise, the following functions to the Director of the Division of Corporation Finance, to be performed by the Director or under the Director's direction by such person or persons as may be designated from time to time by the Chairman of the Commission:
 
 (a) With respect to registration of securities pursuant to the Securities Act of 1933 (15 U.S.C. 77a *et seq.*), and Regulation C thereunder (§ 230.400 *et seq.* of this chapter):

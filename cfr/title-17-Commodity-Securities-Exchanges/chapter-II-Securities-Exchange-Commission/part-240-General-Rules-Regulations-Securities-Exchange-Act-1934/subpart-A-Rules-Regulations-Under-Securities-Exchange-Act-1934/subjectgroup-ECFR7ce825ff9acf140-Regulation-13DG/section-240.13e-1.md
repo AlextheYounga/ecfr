@@ -1,5 +1,7 @@
 ##### § 240.13e-1 Purchase of securities by the issuer during a third-party tender offer. #####
 
+Link to an amendment published at 86 FR 70251, Dec. 9, 2021.
+
 An issuer that has received notice that it is the subject of a tender offer made under Section 14(d)(1) of the Act (15 U.S.C. 78n), that has commenced under § 240.14d-2 must not purchase any of its equity securities during the tender offer unless the issuer first:
 
 (a) Files a statement with the Commission containing the following information:

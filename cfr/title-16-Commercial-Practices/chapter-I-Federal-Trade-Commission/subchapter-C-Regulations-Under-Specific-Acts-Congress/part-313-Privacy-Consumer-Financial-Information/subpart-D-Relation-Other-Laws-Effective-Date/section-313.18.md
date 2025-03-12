@@ -1,5 +1,7 @@
 ##### § 313.18 Effective date; transition rule. #####
 
+Link to an amendment published at 86 FR 70027, Dec. 9, 2021.
+
 (a) *Effective date* - (1) *General rule.* This part is effective November 13, 2000. In order to provide sufficient time for you to establish policies and systems to comply with the requirements of this part, the Commission has extended the time for compliance with this part until July 1, 2001.
 
 (2) *Exception.* This part is not effective as to any institution that is significantly engaged in activities that the Federal Reserve Board determines, after November 12, 1999, (pursuant to its authority in Section 4(k)(1-3) of the Bank Holding Company Act), are activities that a financial holding company may engage in, until the Commission so determines.
