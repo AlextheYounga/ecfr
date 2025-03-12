@@ -1,23 +1,17 @@
 ##### § 1470.22 Conservation stewardship plan. #####
 
-(a) NRCS will use the conservation planning process as outlined in the National Planning Procedures Handbook to encourage participants to address resource concerns in a comprehensive manner.
+(a) NRCS will use the conservation planning process as outlined in the NRCS “National Planning Procedures Handbook” to encourage participants to address resource concerns in a comprehensive manner.
 
-(b) The conservation stewardship plan will contain a record of the participant's decisions that describes the schedule of conservation activities to be implemented, managed, or improved under the conservation stewardship contract. The plan will describe the program purposes to be achieved through one or more conservation activities.
+(b) The conservation stewardship plan will contain a record of the participant's objectives and decisions to meet or exceed stewardship thresholds for identified resource concerns through implementation or adoption of one or more conservation activities. The plan will document the schedule of conservation activities to be implemented, managed, or improved under the conservation stewardship contract.
 
-(c) Associated supporting information maintained with the participant's plan will include:
+(c) Supporting documentation for the participant's plan will include—
 
-(1) Documentation that will be the basis for:
+(1) Identification and inventory of priority resource concerns;
 
-(i) Identifying and inventorying priority resource concerns,
+(2) Establishing benchmark data on the condition of existing conservation activities at the time of enrollment;
 
-(ii) Establishing benchmark data on the condition of existing conservation activities,
+(3) A plan map delineating the agricultural operation included in the program contract with associated acreage amounts;
 
-(iii) Describing conservation activities to be implemented, managed, or improved, and
+(4) For organic producers or producers transitioning to organic production, documentation that supports the participant's transition to or participation in the National Organic Program; and
 
-(iv) Documenting the participant's conservation objectives to reach and exceed stewardship thresholds;
-
-(2) A plan map delineating the land area identified and included in the program contract with associated acreage amounts;
-
-(3) In the case where a participant wishes to initiate or retain organic certification, documentation that will support the participant's transition to or participation in the National Organic Program; and
-
-(4) Other information as determined appropriate by NRCS.
+(5) Other information as determined appropriate by NRCS.

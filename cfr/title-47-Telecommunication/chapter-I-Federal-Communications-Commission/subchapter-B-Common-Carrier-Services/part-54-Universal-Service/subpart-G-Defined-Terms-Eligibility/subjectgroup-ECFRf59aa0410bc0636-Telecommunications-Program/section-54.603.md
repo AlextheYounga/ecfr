@@ -1,0 +1,9 @@
+##### § 54.603 Consortia, telecommunications services, and existing contracts. #####
+
+(a) *Consortia.* (1) Under the Telecommunications Program, an eligible health care provider may join a consortium with other eligible health care providers; with schools, libraries, and library consortia eligible under subpart F of this part; and with public sector (governmental) entities to order telecommunications services. With one exception, eligible health care providers participating in consortia with ineligible private sector members shall not be eligible for supported services under this subpart. A consortium may include ineligible private sector entities if such consortium is only receiving services at tariffed rates or at market rates from those providers who do not file tariffs.
+
+(2) For consortia, universal service support under the Telecommunications Program shall apply only to the portion of eligible services used by an eligible health care provider.
+
+(b) *Telecommunications services.* Any telecommunications service that is the subject of a properly completed bona fide request by a rural health care provider shall be eligible for universal service support. Upon submitting a bona fide request to a telecommunications carrier, each eligible rural health care provider is entitled to receive the most cost-effective, commercially-available telecommunications service, and a telecommunications service carrier that is eligible for support under the Telecommunications Program shall provide such service at the urban rate, as defined in § 54.604.
+
+(c) *Existing contracts.* A signed contract for services eligible for Telecommunications Program support pursuant to this subpart between an eligible health care provider, as defined under § 54.600, and a service provider shall be exempt from the competitive bid requirements as set forth in § 54.622(i).

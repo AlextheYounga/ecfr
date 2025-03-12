@@ -1,5 +1,7 @@
 ##### § 801.8 Requirements for the BE-10, Benchmark Survey of U.S. Direct Investment Abroad - 2014. #####
 
+Link to an amendment published at 84 FR 60915, Nov. 12, 2019.
+
 A BE-10, Benchmark Survey of U.S. Direct Investment Abroad will be conducted covering 2014. All legal authorities, provisions, definitions, and requirements contained in §§ 801.1 and 801.2 and §§ 801.4 through 801.6 are applicable to this survey. Specific additional requirements for the BE-10 survey are given in paragraphs (a) through (d) of this section. More detailed instructions are given on the report forms and instructions.
 
 (a) *Response required.* A response is required from persons subject to the reporting requirements of the BE-10, Benchmark Survey of U.S. Direct Investment Abroad - 2014, contained herein, whether or not they are contacted by BEA. Also, a person, or their agent, that is contacted by BEA about reporting in this survey, either by sending them a report form or by written inquiry, must respond in writing pursuant this section. This may be accomplished by:

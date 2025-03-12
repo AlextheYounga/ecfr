@@ -1,8 +1,8 @@
 ##### § 1470.1 Applicability. #####
 
-(a) This part sets forth the policies, procedures, and requirements for the Conservation Stewardship Program (CSP) as administered by the Natural Resources Conservation Service (NRCS), for enrollment during fiscal year (FY) 2014 and thereafter. Contracts entered into prior to FY 2014 will use the regulations and policies in effect the date prior to February 7, 2014.
+(a) This part sets forth the policies, procedures, and requirements for the Conservation Stewardship Program (CSP) as administered by the Natural Resources Conservation Service (NRCS), for enrollment during fiscal year (FY) 2019 and thereafter. Contracts entered into prior to FY 2019 will use the regulations and policies in effect prior to December 20, 2018.
 
-(b) The purpose of CSP is to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner by:
+(b) The purpose of CSP is to encourage producers to address priority resource concerns and improve and conserve the quality and condition of natural resources in a comprehensive manner by—
 
 (1) Undertaking additional conservation activities; and
 

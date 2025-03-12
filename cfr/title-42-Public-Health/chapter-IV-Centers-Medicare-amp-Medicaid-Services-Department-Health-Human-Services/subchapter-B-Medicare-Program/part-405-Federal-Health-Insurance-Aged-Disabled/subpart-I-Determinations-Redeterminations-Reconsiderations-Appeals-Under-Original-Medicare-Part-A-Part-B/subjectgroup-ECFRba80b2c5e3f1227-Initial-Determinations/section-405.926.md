@@ -1,5 +1,7 @@
 ##### § 405.926 Actions that are not initial determinations. #####
 
+Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
+
 Actions that are not initial determinations and are not appealable under this subpart include, but are not limited to the following:
 
 (a) Any determination for which CMS has sole responsibility, for example one of the following:

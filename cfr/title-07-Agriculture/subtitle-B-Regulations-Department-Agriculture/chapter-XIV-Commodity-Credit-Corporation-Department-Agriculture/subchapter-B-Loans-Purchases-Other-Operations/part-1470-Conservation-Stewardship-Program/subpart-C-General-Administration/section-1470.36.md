@@ -4,7 +4,7 @@
 
 (b) A participant who is determined to have erroneously represented any fact affecting a program determination made in accordance with this part will not be entitled to contract payments and must refund to NRCS all payments, plus interest determined in accordance with 7 CFR part 1403.
 
-(c) A participant will refund to NRCS all payments, plus interest determined in accordance with 7 CFR part 1403, received by such participant with respect to all CSP contracts if they are determined to have:
+(c) A participant will refund to NRCS all payments, plus interest determined in accordance with 7 CFR part 1403, received by such participant with respect to all CSP contracts if they are determined to have—
 
 (1) Adopted any scheme or device that tends to defeat the purpose of the program;
 

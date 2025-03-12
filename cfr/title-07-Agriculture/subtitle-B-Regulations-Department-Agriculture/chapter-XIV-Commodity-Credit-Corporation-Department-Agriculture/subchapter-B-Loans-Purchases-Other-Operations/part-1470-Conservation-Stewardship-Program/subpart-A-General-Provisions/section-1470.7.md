@@ -1,9 +1,7 @@
-##### § 1470.7 Enhancements and conservation practices. #####
+##### § 1470.7 Conservation activities. #####
 
-(a) Participant decisions describing the additional enhancements and conservation practices to be implemented under the conservation stewardship contract will be recorded in the conservation stewardship plan.
+(a) NRCS will record in the conservation stewardship plan the additional conservation activities the participant agrees to implement under the conservation stewardship contract.
 
-(b) NRCS will make available to the public the list of conservation activities available to be installed, adopted, maintained, and managed through the CSP.
+(b) NRCS will make available to the public the list of conservation activities an applicant may choose to implement and manage through the CSP.
 
-(c) NRCS will make available bundled suites of conservation enhancements for participants to select voluntarily to include as part of their conservation stewardship plans. The bundles will be designed to coordinate the installation and adoption of enhancements with each other to address resource concerns in a more comprehensive and cost-effective manner.
-
-(d) CSP encourages the use of other NRCS programs to install conservation practices that are required to meet agreed-upon stewardship thresholds, but the practices may not be compensated through CSP.
+(c) NRCS may make available bundles of conservation activities that when implemented together address resource concerns in a more comprehensive and cost-effective manner.

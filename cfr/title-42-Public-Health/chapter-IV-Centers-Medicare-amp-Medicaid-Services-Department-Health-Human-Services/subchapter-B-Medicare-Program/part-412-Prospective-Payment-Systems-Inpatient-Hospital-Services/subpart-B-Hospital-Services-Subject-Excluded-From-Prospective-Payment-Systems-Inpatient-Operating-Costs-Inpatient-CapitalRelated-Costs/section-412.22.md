@@ -1,5 +1,7 @@
 ##### § 412.22 Excluded hospitals and hospital units: General rules. #####
 
+Link to an amendment published at 84 FR 61490, Nov. 12, 2019.
+
 (a) *Criteria.* Subject to the criteria set forth in paragraph (e) of this section, a hospital is excluded from the prospective payment systems specified in § 412.1(a)(1) of this part if it meets the criteria for one or more of the excluded classifications described in § 412.23. For purposes of this subpart, the term “hospital” includes a critical access hospital (CAH).
 
 (b) *Cost reimbursement.* Except for those hospitals specified in paragraph (c) of this section, and § 412.20(b), (c), and (d), all excluded hospitals (and excluded hospital units, as described in § 412.23 through § 412.29) are reimbursed under the cost reimbursement rules set forth in part 413 of this chapter, and are subject to the ceiling on the rate of hospital cost increases as specified in § 413.40 of this chapter.

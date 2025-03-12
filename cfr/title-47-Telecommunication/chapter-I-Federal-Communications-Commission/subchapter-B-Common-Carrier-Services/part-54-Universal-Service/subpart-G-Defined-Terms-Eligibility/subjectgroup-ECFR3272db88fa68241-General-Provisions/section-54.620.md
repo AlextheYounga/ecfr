@@ -1,0 +1,7 @@
+##### § 54.620 Annual filing requirements and commitments. #####
+
+(a) *Annual filing requirement.* Health care providers seeking support under the RHC Program shall file new funding requests for each funding year consistent with the filing periods established under this subpart, except for health care providers who have received a multi-year funding commitment in this section.
+
+(b) *Long-term contracts.* If health care providers enter into long-term contracts for eligible services, the Administrator shall only commit funds to cover the portion of such a long-term contract scheduled to be delivered during the funding year for which universal service support is sought, except for multi-year funding commitments as described in this section.
+
+(c) *Multi-year commitments under the Healthcare Connect Fund Program.* Participants in the Healthcare Connect Fund Program are permitted to enter into multi-year contracts for eligible expenses and may receive funding commitments from the Administrator for a period that covers up to three years of funding. If a long-term contract covers a period of more than three years, the applicant may also have the contract designated as “evergreen” under § 54.622(i)(3), which will allow the applicant to re-apply for funding under the contract after three years without having to undergo additional competitive bidding.

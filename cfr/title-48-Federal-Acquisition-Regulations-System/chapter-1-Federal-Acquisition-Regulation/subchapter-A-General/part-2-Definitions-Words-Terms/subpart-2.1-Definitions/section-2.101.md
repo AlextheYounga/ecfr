@@ -1,7 +1,5 @@
 ##### 2.101 Definitions. #####
 
-Link to an amendment published at 84 FR 54762, Oct. 10, 2019.
-
 (a) A word or a term, defined in this section, has the same meaning throughout this regulation (48 CFR chapter 1), unless -
 
 (1) The context in which the word or term is used clearly requires a different meaning; or
@@ -146,7 +144,7 @@ Link to an amendment published at 84 FR 54762, Oct. 10, 2019.
 
 (7) Any item, combination of items, or service referred to in paragraphs (1) through (6) of this definition, notwithstanding the fact that the item, combination of items, or service is transferred between or among separate divisions, subsidiaries, or affiliates of a contractor; or
 
-(8) A nondevelopmental item, if the procuring agency determines the item was developed exclusively at private expense and sold in substantial quantities, on a competitive basis, to multiple State and local governments.
+(8) A nondevelopmental item, if the procuring agency determines the item was developed exclusively at private expense and sold in substantial quantities, on a competitive basis, to multiple State and local governments or to multiple foreign governments.
 
 *Commercially available off-the-shelf (COTS) item -*  (1) Means any item of supply (including construction material) that is -
 

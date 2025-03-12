@@ -1,5 +1,7 @@
 ##### § 202.4 Group registration. #####
 
+Link to an amendment published at 84 FR 60918, November 12, 2019.Link to an amendment published at 84 FR 60919, November 12, 2019.
+
 (a) *General.* This section prescribes conditions for issuing a registration for a group of related works under section 408(c) of title 17 of the United States Code.
 
 (b) *Definitions.* (1) For purposes of this section, unless otherwise specified, the terms used have the meanings set forth in §§ 202.3, 202.13, and 202.20.

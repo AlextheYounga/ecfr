@@ -1,73 +1,63 @@
 ##### § 1470.24 Payments. #####
 
-(a) *Annual payments.* Subject to the availability of funds, NRCS will provide, as appropriate, annual payments under the program to compensate a participant for installing and adopting additional conservation activities, and improving, maintaining, and managing existing conservation activities across the entire agricultural operation in a manner that increases or extends the conservation benefits in place at the time the contract offer is accepted by NRCS. A split-rate annual payment structure is used to provide separate payments for additional and existing conservation activities in order to place emphasis on implementing additional conservation.
+(a) *Annual payments.* Subject to the availability of funds, NRCS will provide, as appropriate, annual payments under the program to compensate a participant for installing and adopting additional conservation activities, and for improving, maintaining, and managing existing conservation activities across the entire agricultural operation in a manner that increases or extends the conservation benefits in place at the time NRCS accepts the contract offer. A split-rate annual payment structure is used to provide separate payments for additional and existing conservation activities in order to place emphasis on implementing additional conservation.
 
-(1) To receive annual payments, a participant must:
+(1) NRCS will make equal annual payments for the existing activity portion of the payment, specific to the operation, based on the land uses and NRCS assessment of existing stewardship. NRCS will make payments for the additional conservation activities based on the complexity and extent of the individual activities completed by the participant during the previous fiscal year. Additional activities implemented may vary from year to year, so the total annual payment may fluctuate;
 
-(i) Install and adopt additional conservation activities as scheduled in the conservation stewardship plan. At least one additional conservation activity must be scheduled, installed, and adopted within the first 12 months of the contract. All enhancements must be scheduled, installed, and adopted by the end of the third fiscal year of the contract, unless the Chief approves a different schedule to meet specific conservation stewardship goals. Installed enhancements must be maintained for the remainder of the contract period and adopted enhancements must recur for the remainder of the contract period.
+(2) In order to receive an annual payment for a land use, participants must schedule, install, and adopt at least one additional conservation activity on the land use type;
 
-(ii) At a minimum, maintain activities to the level of existing conservation performance identified at the time of enrollment for the conservation stewardship contract period, and
+(3) At least one additional conservation activity must be implemented on one land use type within the first 12 months of the contract. NRCS may extend this timeframe if NRCS determines that the participant is unable to complete the conservation activity for reasons beyond their control;
 
-(2) To earn annual payments for an eligible land use, a participant must schedule, install, and adopt at least one additional conservation activity on that land-use type. Eligible land-use types that fail to have at least one additional conservation activity scheduled, installed, and adopted will not receive annual payments;
+(4) NRCS will base the annual payment rates, to the maximum extent practicable, on the following factors:
 
-(3) Annual payments will be prorated over the contract term so as to accommodate, to the extent practicable, participants earning equal annual payments in each fiscal year;
+(i) Costs incurred by the participant associated with planning, design, materials, installation, labor, management, maintenance, or training;
 
-(4) The annual payment rates will be based to the maximum extent practicable, on the following factors:
+(ii) Income foregone by the participant;
 
-(i) Costs incurred by the participant associated with planning, design, materials, installation, labor, management, maintenance, or training,
+(iii) Expected conservation benefits;
 
-(ii) Income foregone by the participant,
+(iv) The extent to which priority resource concerns will be addressed through the installation and adoption of conservation activities on the agricultural operation;
 
-(iii) Expected conservation benefits,
+(v) The level of stewardship in place at the time of application and maintained over the term of the contract;
 
-(iv) The extent to which priority resource concerns will be addressed through the installation and adoption of conservation activities on the agricultural operation,
+(vi) The degree to which the conservation activities will be integrated across the entire agricultural operation for all State identified priority resource concerns over the term of the contract; and
 
-(v) The level of stewardship in place at the time of application and maintained over the term of the contract,
+(vii) Such other factors as determined by the Chief; and
 
-(vi) The degree to which the conservation activities will be integrated across the entire agricultural operation for all applicable priority resource concerns over the term of the contract, and
+(5) Participants will receive payments for cover crop activities at not less than 125 percent of the annual payment amount, as determined by NRCS.
 
-(vii) Such other factors as determined by the Chief.
+(b) *Supplemental payments.* Subject to the availability of funds, NRCS will provide a supplemental payment to a participant receiving annual payments, who also agrees to adopt or improve a resource-conserving crop rotation or adopt advanced grazing management, as defined by NRCS, to achieve beneficial crop or grazing rotations as appropriate for the eligible land of the participant.
 
-(5) The annual payment will accommodate some participant operational adjustments.
+(1) NRCS will determine whether a resource-conserving crop rotation or advanced grazing management is eligible for supplemental payments based on whether the resource-conserving crop rotation or advanced grazing management is designed to provide natural resource conservation and production benefits;
 
-(i) Enhancements may be replaced with similar enhancements without adjustment of annual payment as long as the conservation performance is determined by NRCS to be equal to or better than the conservation performance of the additional enhancements offered at enrollment. An enhancement replacement that results in a decline below that conservation performance level will be considered a violation of the contract, and
+(2) A participant must adopt or improve the resource-conserving crop rotation or adopt advanced grazing management during the term of the contract to be eligible to receive a supplemental payment;
 
-(ii) Adjustments to existing activities may occur consistent with conservation performance requirements from § 1470.23; and
+(3) Supplemental payments will be based, to the maximum extent practicable, on the factors from paragraph (a)(4) of this section; and
 
-(6) Conservation activities may be applied on other land included in an agricultural operation, as determined by NRCS.
+(4) Supplemental payments will be not less than 150 percent of the annual payment amount, as determined by NRCS.
 
-(b) *Supplemental payments.* Subject to the availability of funds, NRCS will provide a supplemental payment to a participant receiving annual payments, who also agrees to adopt or improve a resource-conserving crop rotation as defined by NRCS to achieve beneficial crop rotations as appropriate for the eligible land of the participant.
+(c) *Comprehensive conservation plan.* Participants choosing to develop a comprehensive conservation plan through their conservation stewardship contract will receive a one-time payment for this activity. NRCS will determine the payment based on the number of priority resource concerns addressed in the comprehensive conservation plan and the number of types of land uses included in the plan. Participants will not be eligible to receive payment for plans developed prior to their enrollment in a conservation stewardship contract.
 
-(1) NRCS will determine whether a resource-conserving crop rotation is eligible for supplemental payments based on whether the resource-conserving crop rotation is designed to provide natural resource conservation and production benefits;
+(d) *Minimum contract payment.* NRCS may make a minimum contract payment to a participant in any fiscal year in which the contract's payment amount total is less than a rate determined equitable by the Chief based upon the effort required by a participant to comply with the terms of the contract.
 
-(2) A participant must adopt or improve the resource-conserving crop rotation during the term of the contract to be eligible to receive a supplemental payment. Unless the Chief approves a different schedule to meet the conservation stewardship goals of particular crop rotation sequences, a resource-conserving crop rotation:
+(e) *Timing of payments.* NRCS will make payments as soon as practicable after October 1 of each fiscal year for activities carried out in the previous fiscal year. For newly enrolled contracts, NRCS will make payments as soon as practicable after October 1 following the fiscal year of enrollment.
 
-(i) Is considered adopted when the resource-conserving crop is planted on at least one-third of the rotation acres; and
-
-(ii) Must be adopted by the third fiscal year of the contract and planted on all rotation acres by the fifth fiscal year of the contract; and
-
-(3) The supplemental payment is to encourage a producer to adopt or improve a resource-conserving crop rotation and will be based, to the maximum extent practicable, on the factors from § 1470.24(a)(4).
-
-(c) *Minimum contract payment.* NRCS may make a minimum contract payment to a participant in any fiscal year in which the contract's payment amount total is less than a rate determined equitable by the Chief based upon the effort required by a participant to comply with the terms of the contract.
-
-(d) *Timing of payments.* NRCS will make payments as soon as practicable after October 1 of each fiscal year for activities carried out in the previous fiscal year. For newly enrolled contracts, payments will be made as soon as practicable after October 1 following the fiscal year of enrollment.
-
-(e) *Noncompensatory matters.* A CSP payment to a participant will not be provided for:
+(f) *Noncompensatory matters.* NRCS will not provide a CSP payment to a participant for -
 
 (1) New conservation activities applied with financial assistance through other USDA conservation programs;
 
-(2) The design, construction, or maintenance of animal waste storage or treatment facilities, or associated waste transport or transfer devices for animal feeding operations; or
+(2) The design, construction, or maintenance of animal waste storage or treatment facilities, or associated waste transport or transfer devices for animal feeding operations;
 
-(3) Conservation activities for which there is no cost incurred or income foregone by the participant.
+(3) Conservation activities for which there is no cost incurred or income foregone by the participant; or
 
-(f) *Payment limits.* A person or legal entity may not receive, directly or indirectly, payments that, in the aggregate, exceed $40,000 during any fiscal year for all CSP contracts entered into, and $200,000 under all CSP contracts entered into during fiscal years 2014 through 2018, excluding funding arrangements with Indian tribes, regardless of the number of contracts entered into under the CSP by the person or legal entity. NRCS may waive the annual payment limitations in this section where NRCS determines that due to circumstances beyond the participant's control, payment for implementation for a fiscal year's activities cannot be made as scheduled under the CSP contract.
+(4) Conservation activities initiated or implemented prior to contract approval, unless NRCS granted a waiver prior to the participant starting the activity.
 
-(g) *Contract limits.* Each conservation stewardship contract will be limited to $200,000 over the term of the initial contract period, except that conservation stewardship contracts with joint operations will be limited to $80,000 per fiscal year and $400,000 over the term of the initial contract period.
+(g) *Payment limits.* A person or legal entity may not receive, directly or indirectly, payments that, in the aggregate, exceed $200,000 under all CSP contracts entered into during fiscal years 2019 through 2023, excluding funding arrangements with Indian Tribes, regardless of the number of contracts entered into under the CSP by the person or legal entity.
 
-(h) *Payment and contract limitation provisions for individual Indians and Indian Tribes.* Payment limitations apply to individual tribal member(s) when applying and subsequently being granted a contract as an individual(s). Contracts with Indian Tribes are not subject to payment or contract limitations. Indian Tribes and BIA will certify in writing that no one individual, directly or indirectly, will receive more than the payment limitation. Certification provided at the time of enrollment will cover the entire contract period. The Tribal entity must also provide, upon request from NRCS, a listing of individuals and payment made, by Social Security number or other unique identification number, during the previous year for calculation of overall payment limitations.
+(h) *Contract limits.* Each conservation stewardship contract will be limited to $200,000 over the term of the contract period, except that conservation stewardship contracts with any joint operation will be limited to $400,000 over the term of the contract period.
 
-(i) *Tax Identification Number.* To be eligible to receive a CSP payment, all legal entities or persons applying, either alone or as part of a joint operation, must provide a tax identification number and percentage interest in the legal entity. In accordance with 7 CFR part 1400, an applicant applying as a joint operation or legal entity must provide a list of all members of the legal entity and joint operation and associated embedded entities, along with the members' Social Security numbers and percentage of interest in the joint operation or legal entity. Payments will be directly attributed to legal entity members for the purpose of complying with § 1470.24(f). Applicant applying as a joint operation must provide an EIN for the joint operation to qualify for the contract limit available under § 1470.24(g).
+(i) *Scope of payment and contract limitations for Indian Tribes and individual Tribal members.* Contracts with Indian Tribes are not subject to payment or contract limitations but payment limitations in paragraph (f) of this section apply to individual Tribal member(s). Indian Tribes and the Bureau of Indian Affairs will certify in writing that no one individual, directly or indirectly, will receive more than the payment limitation. Certification provided at the time of enrollment will cover the entire contract period. The Tribal entity must also provide, upon request from NRCS, a listing of individuals and payment made, by Social Security number or other unique identification number, during the previous year for calculation of overall payment limitations.
 
-(j) *Unique tax identification numbers.* American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payment. Any participant that utilizes a unique identification number as an alternative to a tax identification number will utilize only that identifier for all CSP contracts to which the participant is a party.
+(j) *Tax Identification Number.* To be eligible to receive a CSP payment, all applicants must provide a tax identification number. In accordance with 7 CFR part 1400, applicants who participate as a legal entity or joint operation must provide a list of all members of the legal entity or joint operation and associated embedded entities, along with the members' Social Security numbers and percentage interest in the legal entity or joint operation. NRCS attributes payments directly to legal entity members for the purpose of complying with paragraph (f) of this section.
 
-[79 FR 65843, Nov. 5, 2014, as amended at 81 FR 12582, Mar. 10, 2016]
+(k) *Unique identification numbers.* American Indians, Alaska Natives, and Pacific Islanders may use another unique identification number for each individual eligible for payment. Any participant that uses a unique identification number as an alternative to a tax identification number will use that identifier for all CSP contracts in which they participate.
