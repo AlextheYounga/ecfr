@@ -16,7 +16,7 @@
 
 (7) Title insurance or title record for the security, if available;
 
-(8) Complete debt settlement application in accordance with subpart B of 7 CFR part 1956 before or in conjunction with the voluntary conveyance offer if the value of the property to be conveyed is less than the FLP debt; and
+(8) Complete debt settlement application in accordance with subpart B of part 761, subpart F of this chapter before, or in conjunction with, the voluntary conveyance offer if the value of the property to be conveyed is less than the FLP debt; and
 
 (9) Any other documentation required by the Agency to evaluate the request.
 
@@ -37,3 +37,5 @@
 (2) The Agency will credit the borrower's account for the amount of the market value of the property less any prior liens, or the debt, whichever is less. In the case of an American Indian borrower whose loans are secured by real estate located within the boundaries of a Federally recognized Indian reservation, however, the Agency will credit the borrower's account with the greater of the market value of the security or the borrower's FLP debt.
 
 (e) *Right of possession.* After voluntary conveyance, the borrower or former owner retains no statutory, implied, or inherent right of possession to the property beyond those rights under an approved lease-purchase agreement executed according to § 766.154 or required by State law.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36713, June 17, 2020]

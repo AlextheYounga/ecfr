@@ -4,6 +4,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 (a) *Abbreviations.*
 
+*ARA* Alternative Repayment Agreement.
+
 *CL* Conservation Loan.
 
 *CLP* Certified Lender Program.
@@ -13,6 +15,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *EE* Economic Emergency loan.
 
 *EM* Emergency loan.
+
+*FCCS* Federal Claims Collection Standards.
 
 *FLP* Farm Loan Programs.
 
@@ -27,6 +31,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *MLP* Micro Lender Program.
 
 *NRCS* National Resources and Conservation Service, USDA.
+
+*OIG* Office of the Inspector General, USDA.
 
 *OGC* Office of the General Counsel of the USDA.
 
@@ -64,7 +70,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Adequate security* is property which is required to provide security value at least equal to the direct loan amount.
 
-*Adjustment* is a form of settlement that reduces the financial obligation to the Agency, conditioned upon the completion of payment of a specified amount at a future time. An adjustment is not a final settlement until all payments have been made under the agreement.
+*Adjustment* means the settlement of an FLP debt for less than the total amount owed. The adjusted amount is collected through a series of payments that are scheduled over time. An adjustment is not a final settlement until all scheduled payments have been made. After applying all payments pursuant to the adjustment agreement, any remaining balance is canceled. The amount canceled is reported to the IRS pursuant to § 3.90 of this title and applicable IRS requirements.
 
 *Administrative appraisal review* is a review of an appraisal to determine if the appraisal:
 
@@ -81,6 +87,8 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 *Allonge* is an attachment or an addendum to a promissory note.
 
 *Allowable costs* are those costs for replacement or repair that are supported by acceptable documentation, including, but not limited to, written estimates, invoices, and bills.
+
+*Alternative repayment agreement* is a written repayment agreement accepted by both the borrower and the Agency as specified in §§ 3.42(b) and 3.80 of this title. The agreement may allow for payments to be made from the borrower to the Agency as an alternative to collecting the payment amounts through administrative offset, or Federal salary offset.
 
 *Applicant* is the individual or entity applying for a loan or loan servicing under either the direct or guaranteed loan program.
 
@@ -128,7 +136,7 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Borrower (or debtor)* is an individual or entity that has an outstanding obligation to the Agency or to a lender under any direct or guaranteed FLP loan, without regard to whether the loan has been accelerated. The term “borrower” includes all parties liable for such obligation, including collection-only borrowers, except for debtors whose total loans and accounts have been voluntarily or involuntarily foreclosed, sold, or conveyed, or who have been discharged of all such obligations owed to the Agency or guaranteed lender.
 
-*Cancellation* is the final discharge of, and release of liability for, a financial obligation to the Agency on which no settlement amount has been paid.
+*Cancellation* means the final resolution of an FLP debt without receiving payment in full. Any amounts still owed, after applying payments in accordance with approved adjustment and compromise agreements, is canceled. The amount canceled is reported to the IRS pursuant to § 3.90 of this title and applicable IRS requirements.
 
 *Cash flow budget* is a projection listing all anticipated cash inflows (including all farm income, nonfarm income and all loan advances) and all cash outflows (including all farm and nonfarm debt service and other expenses) to be incurred during the period of the budget. Advances and principal repayments of lines of credit may be excluded from a cash flow budget. Cash flow budgets for guaranteed loans under $125,000 do not require income and expenses itemized by categories. A cash flow budget may be completed either for a 12-month period, a typical production cycle, or the life of the loan, as appropriate. It may also be prepared with a breakdown of cash inflows and outflows for each month of the review period and include the expected outstanding operating credit balance for the end of each month. The latter type is referred to as a “monthly cash flow budget.”
 
@@ -182,29 +190,29 @@ The following abbreviations and definitions are applicable to the Farm Loan Prog
 
 *Current market value buyout* is the termination of a borrower's loan obligations to the Agency in exchange for payment of the current appraised value of the borrower's security property and non-essential assets, less any prior liens.
 
-*Debt forgiveness* is a reduction or termination of a debt under the Act in a manner that results in a loss to the Agency.
+*Debt forgiveness* means the reduction or termination of a debt under the Act in a manner that results in a loss to the Agency, through:
 
-(1) Debt forgiveness may be through:
+(i)(A) Writing down or writing off a debt pursuant to 7 U.S.C. 2001;
 
-(i) Writing down or writing off a debt pursuant to 7 U.S.C. 2001;
+(B) Cancellation of remaining amounts owed after compromising, adjusting, reducing, or charging off a debt or claim pursuant to 7 U.S.C. 1981;
 
-(ii) Compromising, adjusting, reducing, or charging off a debt or claim pursuant to 7 U.S.C. 1981; or
+(C) Paying a loss pursuant to 7 U.S.C. 2005 on a FLP loan guaranteed by the Agency;
 
-(iii) Paying a loss pursuant to 7 U.S.C. 2005 on a FLP loan guaranteed by the Agency.
+(D) Discharging a debt as a result of bankruptcy; or
 
-(2) Debt forgiveness does not include:
+(E) Releases of liability which result in a loss to the Agency.
 
-(i) Debt reduction through a conservation contract;
+(ii) Debt forgiveness does not include:
 
-(ii) Any writedown provided as part of the resolution of a discrimination complaint against the Agency;
+(A) Debt reduction through a conservation contract;
 
-(iii) Prior debt forgiveness that has been repaid in its entirety;
+(B) Any writedown provided as part of the resolution of a discrimination complaint against the Agency;
 
-(iv) Consolidation, rescheduling, reamortization, or deferral of a loan; or
+(C) Prior debt forgiveness that has been repaid in its entirety;
 
-(v) Forgiveness of YL debt, due to circumstances beyond the borrower's control.
+(D) Consolidation, rescheduling, reamortization, or deferral of a loan; and
 
-The Agency will use the criteria in 7 CFR 766.104(a)(1) to determine if the circumstances were beyond the borrower's control.
+(E) Forgiveness of a YL debt due to circumstances beyond the borrower's control.
 
 *Debt settlement* is a compromise, adjustment, or cancellation of an FLP debt.
 
@@ -343,6 +351,8 @@ The Agency will use the criteria in 7 CFR 766.104(a)(1) to determine if the circ
 *Guarantor* is a party not included in the farming operation who assumes responsibility for repayment in the event of default.
 
 *Hazard insurance* is insurance covering fire, windstorm, lightning, hail, explosion, riot, civil commotion, aircraft, vehicles, smoke, builder's risk, public liability, property damage, flood or mudslide, workers compensation, or any similar insurance that is available and needed to protect the Agency security or that is required by law.
+
+*Hearing official.* For the purposes of salary offset, the hearing official is an Administrative Law Judge of the USDA or another individual not under the supervision or control of the USDA. For the purposes of administrative wage garnishment, the hearing official is selected pursuant to part 3, subpart E of this title.
 
 *Highly erodible land* is land as determined by Natural Resources Conservation Service to meet the requirements provided in section 1201 of the Food Security Act of 1985.
 
@@ -586,4 +596,4 @@ The Agency will use the criteria in 7 CFR 766.104(a)(1) to determine if the circ
 
 *Youth loan* is an operating type loan made to an eligible rural youth applicant to finance a modest income-producing agricultural project.
 
-[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016]
+[72 FR 63285, Nov. 8, 2007; 72 FR 74153, Dec. 31, 2007, as amended at 73 FR 74344, Dec. 8, 2008; 75 FR 54012, Sept. 3, 2010; 76 FR 75430, Dec. 2, 2011; 77 FR 15938, May 18, 2012; 78 FR 3834, Jan. 16, 2013; 78 FR 14005, Mar. 4, 2013; 78 FR 65529, Nov. 1, 2013; 79 FR 60743, Oct. 8, 2014; 79 FR 78693, Dec. 31, 2014; 80 FR 74970, Dec. 1, 2015; 81 FR 3292, Jan. 21, 2016; 81 FR 72690, Oct. 21, 2016; 85 FR 36691, June 17, 2020]

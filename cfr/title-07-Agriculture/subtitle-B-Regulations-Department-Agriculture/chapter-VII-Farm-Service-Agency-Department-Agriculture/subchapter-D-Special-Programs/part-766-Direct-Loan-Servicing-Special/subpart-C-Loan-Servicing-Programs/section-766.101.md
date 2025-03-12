@@ -20,11 +20,11 @@
 
 (b) *Form of notification.* The Agency will notify borrowers of the availability of primary loan servicing programs, conservation contract, current market value buyout, debt settlement programs, and homestead protection as follows:
 
-(1) A borrower who is financially distressed, or current and requesting servicing will be provided FSA-2512 (Appendix A to this subpart);
+(1) A borrower who is financially distressed, or current and requesting servicing will be provided FSA-2512;
 
-(2) A borrower who is 90 days past due will be sent FSA-2510 (Appendix B to this subpart);
+(2) A borrower who is 90 days past due will be sent FSA-2510 (Appendix A to this subpart) or FSA-2510-IA (Appendix B to this subpart);
 
-(3) A borrower who is in non-monetary or both monetary and non-monetary default will receive FSA-2514 (Appendix C to this subpart);
+(3) A borrower who is in non-monetary or both monetary and non-monetary default will receive FSA-2514;
 
 (4) A borrower who has only delinquent SA will be notified of available loan servicing;
 
@@ -36,6 +36,8 @@
 
 (1) Current or financially distressed may submit a complete application any time prior to becoming 90 days past due;
 
-(2) Ninety (90) days past due must submit a complete application within 60 days from receipt of FSA-2510;
+(2) Ninety (90) days past due must submit a complete application within 60 days from receipt of or FSA-2510-IA;
 
 (3) In non-monetary default with or without monetary default must submit a complete application within 60 days from receipt of FSA-2514.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020]

@@ -1,3 +1,5 @@
 ##### § 3.20 Standards for suspending or terminating collection activities. #####
 
-An agency shall follow the standards set forth in 31 CFR part 903 for the suspension or termination of collection activity pursuant to 31 U.S.C. 3711, except where otherwise authorized or required by law.
+(a) An agency will follow the standards specified in 31 CFR part 903 for the suspension or termination of collection activity pursuant to 31 U.S.C. 3711, except where otherwise authorized or required by law.
+
+(b) CCC will, in exercising its authority pursuant to section 4 of the CCC Charter Act (15 U.S.C. 714b) to make final and conclusive settlement and adjustment of any CCC claims, follow the standards specified in 31 CFR 903.2, 903.3, 903.4, and 903.5(c) and (d), for the suspension or termination of collection activities with regard to debts owed to CCC, to the maximum extent practicable. In addition to the bases for the termination of collection activities specified in 31 CFR 903.3, CCC may terminate collection activities when the approving official with the authority to terminate collection activities with regard to the debt has determined that such action is in the interest of CCC.

@@ -1,6 +1,6 @@
 ##### § 869.404 Schedule of charges and rates. #####
 
-(a) A provider authorized under § 869.401 or ;§ 769.402 must furnish AMS with copies of its current schedule of charges and rates for all services as they become effective.
+(a) A provider authorized under § 869.401 or § 869.402 must furnish AMS with copies of its current schedule of charges and rates for all services as they become effective.
 
 (b) Charges and rates assessed any user by the provider must be in effect for a minimum period of one year.
 

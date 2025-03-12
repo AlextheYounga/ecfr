@@ -12,7 +12,7 @@
 
 (5) A resolution approved by the governing body that authorizes the conveyance in the case of an entity borrower;
 
-(6) Complete debt settlement application in accordance with subpart B of 7 CFR part 1956 before or in conjunction with the voluntary conveyance offer if the value of the property to be conveyed is less than the debt.
+(6) Complete debt settlement application in accordance with part 761, subpart F of this chapter before, or in conjunction with, the voluntary conveyance offer if the value of the property to be conveyed is less than the FLP debt.
 
 (b) *Conditions for conveying chattel.* The Agency will accept conveyance of chattel only if:
 
@@ -29,3 +29,5 @@
 (c) *Charging and crediting the borrower's account.* (1) The Agency will charge the borrower's account for all recoverable costs incurred in connection with the conveyance.
 
 (2) The Agency will credit the borrower's account in the amount of the market value of the chattel.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36713, June 17, 2020]

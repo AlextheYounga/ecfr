@@ -20,7 +20,7 @@
 
 (b) In addition to the requirements contained in paragraph (a) of this section, the borrower must submit an aerial photo delineating any land to be considered for a conservation contract.
 
-(c) To be considered for debt settlement, the borrower must provide the appropriate Agency form, and any additional information required under subpart B of 7 CFR part 1956.
+(c) To be considered for debt settlement, the borrower must provide the appropriate Agency form, and any additional information required under part 761, subpart F of this chapter.
 
 (d) If a borrower who submitted a complete application while current or financially distressed is renotified as a result of becoming 90 days past due, the borrower must only submit a request for servicing in accordance with paragraph (a)(1) of this section, provided all other information is less than 90 days old and is based on the current production cycle. Any information 90 or more days old or not based on the current production cycle must be updated.
 
@@ -36,4 +36,4 @@
 
 (4) The withdrawing individual does not have repayment ability and does not own any non-essential assets.
 
-Editorial Note:At 81 FR 51285, Aug. 3, 2016, § 766.102, in paragraph (b)(3)(ii), the words “subpart G of 7 CFR part 1940” were removed and the words “part 799 of this chapter” were added in their place. However, paragraph (b)(3)(ii) does not exist, and this amendment could not be incorporated.
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020]Editorial Note:At 81 FR 51285, Aug. 3, 2016, § 766.102, in paragraph (b)(3)(ii), the words “subpart G of 7 CFR part 1940” were removed and the words “part 799 of this chapter” were added in their place. However, paragraph (b)(3)(ii) does not exist, and this amendment could not be incorporated.

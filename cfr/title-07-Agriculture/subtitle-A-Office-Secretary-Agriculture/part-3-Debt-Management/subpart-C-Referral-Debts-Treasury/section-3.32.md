@@ -1,3 +1,3 @@
 ##### § 3.32 Discretionary referral for cross-servicing. #####
 
-Agencies shall consider referring legally enforceable nontax debts that are less than 180 days delinquent to Treasury or to Treasury-designated “debt collection centers” in accordance with 31 CFR 285.12 to accomplish efficient, cost effective debt collection if no USDA payments will be available to collect the debt through internal administrative offset under § 3.43.
+Agencies will consider referring legally enforceable nontax debts that are less than 180 days delinquent to Treasury or to Treasury-designated “debt collection centers” in accordance with 31 CFR 285.12 to accomplish efficient, cost effective debt collection if no USDA payments will be available to collect the debt through administrative offset under § 3.43.

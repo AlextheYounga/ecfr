@@ -276,4 +276,4 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 
 *Wheat* means wheat for feed or dual purpose variety that follows the standard planting and harvesting practice of wheat for the area in which the wheat is grown.
 
-[68 FR 16172, Apr. 3, 2003; 69 FR 250, Jan. 5, 2004, as amended at 79 FR 74571, Dec. 15, 2014; 80 FR 41994, July 16, 2015]
+[68 FR 16172, Apr. 3, 2003; 69 FR 250, Jan. 5, 2004, as amended at 79 FR 74571, Dec. 15, 2014; 80 FR 41994, July 16, 2015; 84 FR 45886, Sept. 3, 2019]

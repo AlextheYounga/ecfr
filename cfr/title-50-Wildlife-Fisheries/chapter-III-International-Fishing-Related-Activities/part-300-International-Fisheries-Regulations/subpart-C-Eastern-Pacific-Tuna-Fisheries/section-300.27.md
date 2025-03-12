@@ -18,7 +18,7 @@ Link to an amendment published at 85 FR 29669, May 18, 2020.
 
 (d) *Oceanic whitetip shark restrictions.* The crew, operator, or owner of a fishing vessel of the United States used to fish for HMS in the Convention Area shall be prohibited from retaining on board, transshipping, landing, storing, selling, or offering for sale any part or whole carcass of an oceanic whitetip shark (*Carcharhinus longimanus*) and must release unharmed, to the extent practicable, all oceanic whitetip sharks when brought alongside the vessel.
 
-(e) *Silky shark restrictions for purse seine vessels.* The crew, operator, and owner of a commercial purse seine fishing vessel of the United States used to fish for tuna or tuna-like species is prohibited from retaining on board, transshipping, storing, or landing any part or whole carcass of a silky shark (*Carcharhinus falciformis*) that is caught in the Convention Area.
+(e) *Silky shark restrictions for purse seine vessels.* The crew, operator, and owner of a commercial purse seine or longline fishing vessel of the United States used to fish for tuna or tuna-like species is prohibited from retaining on board, transshipping, storing, or landing any part or whole carcass of a silky shark (*Carcharhinus falciformis*) that is caught in the IATTC Convention Area, except as provided in paragraph (f) of this section.
 
 (f) *Silky shark restrictions for longline vessels.* The crew, operator, and owner of a longline vessel of the United States used to fish for tuna or tuna-like species must limit the retained catch of silky sharks caught in the IATTC Convention Area to a maximum of 20 percent in weight of the total catch during each fishing trip that occurs in whole or in part in the IATTC Convention Area.
 
@@ -42,4 +42,4 @@ Link to an amendment published at 85 FR 29669, May 18, 2020.
 
 (l) *Shark line prohibition for longline vessels.* Any U.S. longline vessel used to fish for tuna or swordfish is prohibited from using any shark line in the IATTC Convention Area.
 
-[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019]
+[81 FR 50403, Aug. 1, 2016, as amended at 81 FR 86970, Dec. 2, 2016; 82 FR 56178, Nov. 28, 2017; 84 FR 70048, Dec. 20, 2019; 85 FR 29669, May 18, 2020]

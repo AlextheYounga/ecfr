@@ -18,4 +18,6 @@
 
 (c) *Overpayments.* If an Agency miscalculation of a final payment results in an overpayment by the borrower of less than $10, the borrower must request a refund from the Agency in writing. Overpayments of $10 or more automatically will be refunded by the Agency.
 
-(d) *Underpayments.* If an Agency miscalculation of a final payment amount results in an underpayment, the Agency may collect all account balances resulting from its error. If the Agency cannot collect an underpayment from the borrower, the Agency will attempt to settle the debt in accordance with subpart B of 7 CFR part 1956.
+(d) *Underpayments.* If an Agency miscalculation of a final payment amount results in an underpayment, the Agency may collect all account balances resulting from its error. If the Agency cannot collect an underpayment from the borrower, the Agency will service the debt in accordance with part 761, subpart F of this chapter.
+
+[72 FR 63309, Nov. 8, 2007, as amended at 85 FR 36693, June 17, 2020]

@@ -1,7 +1,7 @@
 ##### § 772.13 Delinquent account servicing. #####
 
-(a) *AMP loans.* If the borrower does not make arrangements to cure the default after notice by the Agency and is not eligible for reamortization in accordance with § 772.14, the Agency will liquidate the account according to § 772.16.
+(a) *AMP loans.* If the borrower does not make arrangements to cure the default after notice by the Agency and is not eligible for reamortization in accordance with § 772.14, the Agency will liquidate the account in accordance with § 772.16. Delinquent AMP loans will be serviced in accordance with part 761, subpart F of this chapter and part 3 of this title.
 
-(b) *IMP loans.* Delinquent IMP borrowers will be serviced according to 7 CFR part 3, part 766, and part 1951, subpart C, concerning internal agency offset and referral to the Department of the Treasury Offset Program and Treasury Cross-Servicing (or successor regulations).
+(b) *IMP loans.* Delinquent IMP loans will be serviced in accordance with part 761, subpart F of this chapter and part 3 of this title.
 
-[68 FR 69949, Dec. 16, 2003, as amended at 72 FR 64121, Nov. 15, 2007]
+[85 FR 36713, June 17, 2020]

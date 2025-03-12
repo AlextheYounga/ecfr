@@ -1,3 +1,3 @@
-##### § 3.21 Referrals of Debts to Justice. #####
+##### § 3.21 Referrals of debts to Justice. #####
 
-An agency shall promptly refer to Justice for litigation debts on which aggressive collection activity has been taken in accordance with this part, and that cannot be compromised by the agency or on which collection activity cannot be suspended or terminated in accordance with 31 CFR parts 902 and 903. Agencies shall follow the procedures set forth in 31 CFR part 904 in making such referrals.
+An agency will promptly refer to Justice for litigation debts on which aggressive collection activity has been taken in accordance with this part, and that cannot be compromised by the agency or on which collection activity cannot be suspended or terminated in accordance with 31 CFR parts 902 and 903. Agencies will follow the procedures specified in 31 CFR part 904 in making such referrals. Agencies will consult with OGC on all debts which are to be collected in foreign jurisdictions to determine how and if a referral to Justice will take place.

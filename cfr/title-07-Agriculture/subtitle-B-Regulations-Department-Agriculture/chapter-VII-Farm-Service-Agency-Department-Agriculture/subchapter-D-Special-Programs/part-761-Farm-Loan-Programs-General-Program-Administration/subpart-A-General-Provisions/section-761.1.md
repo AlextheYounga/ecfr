@@ -12,4 +12,10 @@
 
 (d) This part describes the Agency's general and administrative policies for its guaranteed and direct Farm Loan Programs. In general, this part addresses issues that affect both guaranteed and direct loan programs.
 
-[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011; 83 FR 11869, Mar. 19, 2018]
+(e) Part 3 of this title and 31 CFR part 285 describe the policies and procedures the Agency will follow for non-centralized offset (including administrative offset) and referral to Treasury for centralized offset (TOP), Federal salary offset, Administrative Wage Garnishment, and collection through Treasury's private collection agencies (cross-servicing). Supplemental provisions for FLP purposes are described in part 761, subpart F of this title.
+
+(f) Part 3 of this title and 31 CFR parts 900-904 describe the policies and procedures the Agency will follow for debt settlement authorities pursuant to the Federal Claims Collection Standards. Supplemental provisions for FLP purposes are described in part 761, subpart F of this title.
+
+(g) Part 761, subpart F of this title describes the debt settlement policies and procedures for FLP debt pursuant to the Act.
+
+[72 FR 63285, Nov. 8, 2007, as amended at 76 FR 5057, Jan. 28, 2011; 83 FR 11869, Mar. 19, 2018; 85 FR 36691, June 17, 2020]

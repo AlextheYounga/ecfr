@@ -22,7 +22,7 @@
 
 (ii) The sale is in the Agency's financial interest.
 
-(5) If an unpaid loan balance remains after the sale, the Agency will continue to service the loan in accordance with subpart B of 7 CFR part 1956.
+(5) If an unpaid loan balance remains after the sale, the Agency will continue to service the loan in accordance with part 761, subpart F of this chapter and part 3 of this title.
 
 (b) *Voluntary sale of chattel.* If the borrower complies with paragraph (a) of this section, the borrower may sell chattel security by:
 
@@ -37,3 +37,5 @@
 (iii) Has a buyer who is ready and able to purchase the property; and
 
 (iv) Obtains the Agency's agreement for the sale.
+
+[72 FR 63316, Nov. 8, 2007, as amended at 85 FR 36713, June 17, 2020]
