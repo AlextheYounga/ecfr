@@ -1,7 +1,5 @@
 ##### § 230.405 Definitions of terms. #####
 
-Link to an amendment published at 85 FR 17241, Mar. 26, 2020.
-
 Unless the context otherwise requires, all terms used in §§ 230.400 to 230.494, inclusive, or in the forms for registration have the same meanings as in the Act and in the general rules and regulations. In addition, the following definitions apply, unless the context otherwise requires:
 
 *Affiliate.* An *affiliate* of, or person *affiliated* with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls or is controlled by, or is under common control with, the person specified.
@@ -271,6 +269,8 @@ For purposes of making the prescribed income test the following guidance should 
 |                              |         Revenues - Less than $80 million         |    Revenues - Less than $80 million.     |
 
 Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
+
+Instruction 2 to definition of “smaller reporting company”: A foreign private issuer is not eligible to use the requirements for smaller reporting companies unless it uses the forms and rules designated for domestic issuers and provides financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles.
 
 *Subsidiary.* A *subsidiary* of a specified person is an affiliate controlled by such person directly, or indirectly through one or more intermediaries. (See also *majority owned subsidiary, significant subsidiary, totally held subsidiary,* and *wholly owned subsidiary.*)
 

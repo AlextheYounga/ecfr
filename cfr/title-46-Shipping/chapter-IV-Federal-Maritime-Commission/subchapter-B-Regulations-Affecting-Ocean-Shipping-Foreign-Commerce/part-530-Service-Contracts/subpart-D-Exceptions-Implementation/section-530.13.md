@@ -12,7 +12,7 @@
 
 (5) Waste paper or paper waste.
 
-(b) *Commission exemptions.* Exemptions from the requirements of this part are governed by section 16 of the Act (46 U.S.C. 40103) and Rule 67 of the Commission's Rules of Practice and Procedure, § 502.67 of this chapter. The following commodities and/or services are exempt from the requirements of this part:
+(b) *Commission exemptions.* Exemptions from the requirements of this part are governed by 46 U.S.C. 40103(a) and §§ 502.10 and 502.92 of this chapter. The following commodities and/or services are exempt from the requirements of this part:
 
 (1) *Mail in foreign commerce.* Transportation of mail between the United States and foreign countries.
 
@@ -28,4 +28,4 @@
 
 (d) *Waiver.* Upon filing a service contract pursuant to paragraph (c) of this section, the service contract shall be subject to the same requirements as those for service contracts generally.
 
-[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009]
+[64 FR 23793, May 4, 1999, as amended at 74 FR 50724, Oct. 1, 2009; 85 FR 23229, Apr. 27, 2020]

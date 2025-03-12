@@ -1,5 +1,7 @@
 ##### § 100.728 Special Local Regulations; Hurricane Offshore Classic, St. Petersburg, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated area.* The regulated area is formed by a line drawn from position 27°46.9″ N, 082°37.45″ W (onshore at North Shore Park) east southeast to position 27°46.39″ N, 082°32.65″ W; thence due south to position 27°44.67″ N, 082°32.65″ W; thence due west to position 27°44.67″ N, 082°37.45″ W (onshore just south of Lassing Park). All coordinates referenced use Datum: NAD 83.
 
 (b) *Special local regulations.* (1) Entry into the regulated area by other than event participants is prohibited unless authorized by the patrol commander designated by Coast Guard Sector St. Petersburg, Florida.

@@ -1,6 +1,6 @@
 ##### § 27.4 Terms and definitions. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
+Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
 
 *600 MHz service.* A radiocommunication service licensed pursuant to this part for the frequency bands specified in § 27.5(l).
 
@@ -26,11 +26,9 @@ Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendmen
 
 *Commence operations.* A 600 MHz Band licensee is deemed to commence operations when it begins pre-launch site activation and commissioning tests using permanent base station equipment, antennas and/or tower locations as part of its site and system optimization in the area of its planned commercial service infrastructure deployment.
 
-*Commercial EBS licensee.* A licensee authorized to operate on EBS channels pursuant to the provisions of § 27.1201(c) contained in the edition of 47 CFR parts 20 to 39, revised as of October 1, 2005, or §§ 74.990 through 74.992 contained in the edition of 47 CFR parts 70 to 79, revised as of October 1, 2004, of this chapter, and that does not meet the eligibility requirements of § 27.1201(a).
-
 *Documented complaint.* A complaint that a party is suffering from non-consensual interference. A documented complaint must contain a certification that the complainant has contacted the operator of the allegedly offending facility and tried to resolve the situation prior to filing. The complaint must then specify the nature of the interference, whether the interference is constant or intermittent, when the interference began and the site(s) most likely to be causing the interference. The complaint should be accompanied by a videotape or other evidence showing the effects of the interference. The complaint must contain a motion for a temporary order to have the interfering station cease transmitting. The complaint must be filed with the Secretary's office and served on the allegedly offending party.
 
-*Educational Broadband Service (EBS).* A fixed or mobile service, the licensees of which are educational institutions or non-profit educational organizations, and intended primarily for video, data, or voice transmissions of instructional, cultural, and other types of educational material to one or more receiving locations.
+*Educational Broadband Service (EBS).* A radiocommunication service licensed under this part for the frequency bands specified in § 27.5(i).
 
 *Effective Radiated Power (ERP) (in a given direction).* The product of the power supplied to the antenna and its gain relative to a half-wave dipole in a given direction.
 

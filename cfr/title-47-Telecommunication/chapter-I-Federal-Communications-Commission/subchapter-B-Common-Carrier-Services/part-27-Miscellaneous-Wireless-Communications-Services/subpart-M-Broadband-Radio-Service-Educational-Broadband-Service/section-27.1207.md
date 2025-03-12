@@ -1,19 +1,7 @@
-##### § 27.1207 BTA license authorization. #####
+##### § 27.1207 Service areas and authorizations. #####
 
-Link to an amendment published at 84 FR 57366, Oct. 25, 2019.
+(a) Initial authorizations for BRS granted after January 1, 2008, shall be blanket licenses for all BRS frequencies identified in § 27.5(i)(2). Except for incumbent BRS licenses, BRS service areas are the 1992 version of Basic Trading Areas (BTAs) defined by Rand McNally, or additional service areas similar to BTAs adopted by the Commission. The market area for each license will be listed on the license authorization. The following are additional BRS service areas in places where Rand McNally has not defined BTAs: American Samoa; Guam; Gulf of Mexico Zone A; Gulf of Mexico Zone B; Gulf of Mexico Zone C; Northern Mariana Islands; Mayaguez/Aguadilla-Ponce, Puerto Rico; San Juan, Puerto Rico; and the United States Virgin Islands. The boundaries of Gulf of Mexico Zone A are from an area twelve nautical miles from the shoreline at mean high tide on the north and east, to the limit of the Outer Continental Shelf to the south, and to longitude 91°00′ to the west. The boundaries of Gulf of Mexico Zone B are from an area twelve nautical miles from the shoreline at mean high tide on the north, to the limit of the Outer Continental Shelf to the south, to longitude 91°00′ to the east, and to longitude 94°00′ to the west. The boundaries of Gulf of Mexico Zone C are from an area twelve nautical miles from the shoreline at mean high tide on the north and west, to longitude 94°00′ to the east, and to a line 281 kilometers from the reference point at Linares, N.L., Mexico on the southwest. The Mayaguez/Aguadilla-Ponce, PR, service area consists of the following municipios: Adjuntas, Aguada, Aguadilla, Anasco, Arroyo, Cabo Rojo, Coamo, Guanica, Guayama, Guayanilla, Hormigueros, Isabela, Jayuya, Juana Diaz, Lajas, Las Marias, Maricao, Maunabo, Mayaguez, Moca, Patillas, Penuelas, Ponce, Quebradillas, Rincón, Sabana Grande, Salinas, San German, Santa Isabel, Villalba and Yauco. The San Juan service area consists of all other municipios in Puerto Rico.
 
-(a) Winning bidders must file an application (FCC Form 601) for an initial authorization.
+(b) For EBS initial licenses issued after October 25, 2019, except for licenses issued in the Tribal Priority Window, the GSA is the county for which the license is issued, subject to the exclusion of overlapping, co-channel incumbent GSAs. For purposes of this subpart, counties are defined using the United States Census Bureau's data reflecting county legal boundaries and names valid through January 1, 2017. Except for licenses issued in the Tribal Priority Window, there shall be three initial authorizations issued in each county: One authorization for channels A1, A2, A3, B1, B2, B3, C1, C2, and C3; the second authorization for channels D1, D2, D3, JA1, JA2, JA3, JB1, JB2, JB3, JC1, JC2, JC3, JD1, JD2, JD3, A4, B4, C4, D4, and G4; the third authorization for channels G1, G2, G3, KG1, KG2, and KG3.
 
-(b) Initial authorizations for BRS granted after January 1, 2008, shall be blanket licenses for all BRS frequencies identified in § 27.5(i)(2) and based on the geographic areas identified in § 27.1208. Blanket licenses cover all mobile and response stations.
-
-(1) A station would be required to be individually licensed if
-
-(i) International agreements require coordination;
-
-(ii) Submission of an Environmental Assessment is required under § 1.1307 of this chapter;
-
-(iii) The station would affect the radio quiet zones under § 1.924 of this chapter.
-
-(2) Any antenna structure that requires notification to the Federal Aviation Administration (FAA) must be registered with the Commission prior to construction under § 17.4 of this chapter.
-
-[69 FR 72034, Dec. 10, 2004, as amended at 73 FR 26040, May 8, 2008]
+[84 FR 57366, Oct. 25, 2019]

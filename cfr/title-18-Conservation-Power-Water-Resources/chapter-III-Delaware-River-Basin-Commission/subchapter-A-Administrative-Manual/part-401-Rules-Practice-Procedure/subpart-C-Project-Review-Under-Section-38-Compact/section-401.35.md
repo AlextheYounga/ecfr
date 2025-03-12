@@ -1,5 +1,7 @@
 ##### § 401.35 Classification of projects for review under Section 3.8 of the Compact. #####
 
+Link to an amendment published at 86 FR 20629, Apr. 21, 2021.
+
 (a) Except as the Executive Director may specially direct by notice to the project owner or sponsor, or as a state or federal agency may refer under paragraph (c) of this section, a project in any of the following classifications will be deemed not to have a substantial effect on the water resources of the Basin and is not required to be submitted under Section 3.8 of the Compact:
 
 (1) The construction of new impoundments or the enlargement or removal of existing impoundments, for whatever purpose, when the storage capacity is less than 100 million gallons;

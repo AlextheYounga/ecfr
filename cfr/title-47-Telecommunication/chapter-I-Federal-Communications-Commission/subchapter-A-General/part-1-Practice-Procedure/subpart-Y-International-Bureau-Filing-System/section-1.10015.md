@@ -1,7 +1,5 @@
 ##### § 1.10015 Are there exceptions for emergency filings? #####
 
-Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
-
 (a) Sometimes we grant licenses, modifications or renewals even if no one files an application. Instances where this may occur include:
 
 (1) If we find there is an emergency involving danger to life or property, or because equipment is damaged;
@@ -12,6 +10,8 @@ Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
 
 (4) If there is an emergency where we find that it is not feasible to secure renewal applications from existing licensees or to follow normal licensing procedures.
 
-(b) Emergency authorizations stop at the end of emergency periods or wars. After the emergency period or war, you must submit your request by filing the appropriate form either manually or electronically.
+(b) Emergency authorizations stop at the end of emergency periods or wars. After the emergency period or war, you must submit your request by filing the appropriate form electronically.
 
 (c) The procedures for emergency requests, as described in this section, are as specified in §§ 25.120 and 63.25 of this chapter.
+
+[69 FR 40327, July 2, 2004, as amended at 85 FR 17285, Mar. 27, 2020]

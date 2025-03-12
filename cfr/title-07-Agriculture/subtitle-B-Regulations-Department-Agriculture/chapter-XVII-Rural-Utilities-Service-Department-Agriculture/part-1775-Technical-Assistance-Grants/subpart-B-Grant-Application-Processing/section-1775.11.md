@@ -18,8 +18,10 @@ The application and supporting information will be used to determine the applica
 
 (h) Projects providing technical assistance/training that accomplish the objective within a 12-month or less timeframe.
 
-(i) Projects primarily providing “hands on” technical assistance and training, i.e., on-site assistance as opposed to preparation and distribution of printed material, to communities with existing water and waste systems which are experiencing operation and maintenance or management problems.
+(i) Projects primarily providing “hands on” technical assistance and training, *i.e.,* on-site assistance as opposed to preparation and distribution of printed material, to communities with existing water and waste systems which are experiencing operation and maintenance or management problems; and/or provide technical assistance and training to water supply systems or waste facilities that are unhealthful (*i.e.,* emerging contaminants detected in drinking water and surface water supplies.)
 
 (j) Cash or in kind support of project from non-federal sources.
 
 (k) Ability to demonstrate sustainability of project without Federal financial support.
+
+[70 FR 70878, Jan. 7, 2004, as amended at 85 FR 23210, Apr. 27, 2020]

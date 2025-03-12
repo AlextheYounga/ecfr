@@ -1,7 +1,5 @@
 ##### § 240.12b-2 Definitions. #####
 
-Link to an amendment published at 85 FR 17241, Mar. 26, 2020.
-
 Unless the context otherwise requires, the following terms, when used in the rules contained in this regulation or in Regulation 13A or 15D or in the forms for statements and reports filed pursuant to sections 12, 13 or 15(d) of the act, shall have the respective meanings indicated in this rule:
 
 *Accelerated filer and large accelerated filer* - (1) *Accelerated filer.* The term *accelerated filer* means an issuer after it first meets the following conditions as of the end of its fiscal year:
@@ -10,7 +8,9 @@ Unless the context otherwise requires, the following terms, when used in the rul
 
 (ii) The issuer has been subject to the requirements of section 13(a) or 15(d) of the Act (15 U.S.C. 78m or 78o(d)) for a period of at least twelve calendar months; and
 
-(iii) The issuer has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act.
+(iii) The issuer has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act; and
+
+(iv) The issuer is not eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, as applicable.
 
 (2) *Large accelerated filer.* The term *large accelerated filer* means an issuer after it first meets the following conditions as of the end of its fiscal year:
 
@@ -18,21 +18,25 @@ Unless the context otherwise requires, the following terms, when used in the rul
 
 (ii) The issuer has been subject to the requirements of section 13(a) or 15(d) of the Act for a period of at least twelve calendar months; and
 
-(iii) The issuer has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act.
+(iii) The issuer has filed at least one annual report pursuant to section 13(a) or 15(d) of the Act; and
+
+(iv) The issuer is not eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, as applicable.
 
 (3) *Entering and exiting accelerated filer and large accelerated filer status.*
 
 (i) The determination at the end of the issuer's fiscal year for whether a non-accelerated filer becomes an accelerated filer, or whether a non-accelerated filer or accelerated filer becomes a large accelerated filer, governs the deadlines for the annual report to be filed for that fiscal year, the quarterly and annual reports to be filed for the subsequent fiscal year and all annual and quarterly reports to be filed thereafter while the issuer remains an accelerated filer or large accelerated filer.
 
-(ii) Once an issuer becomes an accelerated filer, it will remain an accelerated filer unless the issuer determines at the end of a fiscal year that the aggregate worldwide market value of the voting and non-voting common equity held by non-affiliates of the issuer was less than $50 million, as of the last business day of the issuer's most recently completed second fiscal quarter. An issuer making this determination becomes a non-accelerated filer. The issuer will not become an accelerated filer again unless it subsequently meets the conditions in paragraph (1) of this definition.
+(ii) Once an issuer becomes an accelerated filer, it will remain an accelerated filer unless: The issuer determines, at the end of a fiscal year, that the aggregate worldwide market value of the voting and non-voting common equity held by its non-affiliates was less than $60 million, as of the last business day of the issuer's most recently completed second fiscal quarter; or it determines that it is eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, as applicable. An issuer that makes either of these determinations becomes a non-accelerated filer. The issuer will not become an accelerated filer again unless it subsequently meets the conditions in paragraph (1) of this definition.
 
-(iii) Once an issuer becomes a large accelerated filer, it will remain a large accelerated filer unless the issuer determines at the end of a fiscal year that the aggregate worldwide market value of the voting and non-voting common equity held by non-affiliates of the issuer was less than $500 million, as of the last business day of the issuer's most recently completed second fiscal quarter. If the issuer's aggregate worldwide market value was $50 million or more, but less than $500 million, as of the last business day of the issuer's most recently completed second fiscal quarter, the issuer becomes an accelerated filer. If the issuer's aggregate worldwide market value was less than $50 million, as of the last business day of the issuer's most recently completed second fiscal quarter, the issuer becomes a non-accelerated filer. An issuer will not become a large accelerated filer again unless it subsequently meets the conditions in paragraph (2) of this definition.
+(iii) Once an issuer becomes a large accelerated filer, it will remain a large accelerated filer unless: It determines, at the end of a fiscal year, that the aggregate worldwide market value of the voting and non-voting common equity held by its non-affiliates (“aggregate worldwide market value”) was less than $560 million, as of the last business day of the issuer's most recently completed second fiscal quarter or it determines that it is eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, as applicable. If the issuer's aggregate worldwide market value was $60 million or more, but less than $560 million, as of the last business day of the issuer's most recently completed second fiscal quarter, and it is not eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, as applicable, it becomes an accelerated filer. If the issuer's aggregate worldwide market value was less than $60 million, as of the last business day of the issuer's most recently completed second fiscal quarter, or it is eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, it becomes a non-accelerated filer. An issuer will not become a large accelerated filer again unless it subsequently meets the conditions in paragraph (2) of this definition.
 
 (iv) The determination at the end of the issuer's fiscal year for whether an accelerated filer becomes a non-accelerated filer, or a large accelerated filer becomes an accelerated filer or a non-accelerated filer, governs the deadlines for the annual report to be filed for that fiscal year, the quarterly and annual reports to be filed for the subsequent fiscal year and all annual and quarterly reports to be filed thereafter while the issuer remains an accelerated filer or non-accelerated filer.
 
 Note to paragraphs (1), (2) and (3):
 
 The aggregate worldwide market value of the issuer's outstanding voting and non-voting common equity shall be computed by use of the price at which the common equity was last sold, or the average of the bid and asked prices of such common equity, in the principal market for such common equity.
+
+(4) For purposes of paragraphs (1), (2), and (3) of this definition only, a business development company is considered to be eligible to use the requirements for smaller reporting companies under the revenue test in paragraph (2) or (3)(iii)(B) of the “smaller reporting company” definition in this section, provided that the business development company meets the requirements of the test using annual investment income under Rule 6-07.1 of Regulation S-X (17 CFR 210.6-07.1) as the measure of its “annual revenues” for purposes of the test.
 
 *Affiliate.* An “affiliate” of, or a person “affiliated” with, a specified person, is a person that directly, or indirectly through one or more intermediaries, controls, or is controlled by, or is under common control with, the person specified.
 
@@ -185,6 +189,8 @@ For purposes of making the prescribed income test the following guidance should 
 |                              |         Revenues - Less than $80 million         |    Revenues - Less than $80 million.     |
 
 Instruction 1 to definition of “smaller reporting company”: A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (1) and (3)(iii)(A) of this definition will qualify as a smaller reporting company regardless of its revenues.
+
+Instruction 2 to definition of “smaller reporting company”: A foreign private issuer is not eligible to use the requirements for smaller reporting companies unless it uses the forms and rules designated for domestic issuers and provides financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles.
 
 *Succession:* The term *succession* means the direct acquisition of the assets comprising a going business, whether by merger, consolidation, purchase, or other direct transfer; or the acquisition of control of a shell company in a transaction required to be reported on Form 8-K (§ 249.308 of this chapter) in compliance with Item 5.01 of that Form or on Form 20-F (§ 249.220f of this chapter) in compliance with Rule 13a-19 (§ 240.13a-19) or Rule 15d-19 (§ 240.15d-19). Except for an acquisition of control of a shell company, the term does not include the acquisition of control of a business unless followed by the direct acquisition of its assets. The terms *succeed* and *successor* have meanings correlative to the foregoing.
 

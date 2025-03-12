@@ -1,5 +1,7 @@
 ##### § 100.722 Special Local Regulations; Bradenton Area Riverwalk Regatta, Manatee River; Bradenton, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated Areas.* The following regulated areas are established as special local regulations. All coordinates are North American Datum 1983.
 
 (1) *Enforcement Area #1.* All waters of the Manatee River between the Green Bridge and the CSX Train Trestle contained within the following points: 27°30.73′ N, 82°34.37′ W, thence to position 27°30.73′ N, 82°34.13′ W, thence to position 27°29.97′ N, 82°34.27′ W, thence to position 27°29.59′ N, 82°34.07′ W, thence back to the original position, 27°30.73′ N, 82°34.37′ W.

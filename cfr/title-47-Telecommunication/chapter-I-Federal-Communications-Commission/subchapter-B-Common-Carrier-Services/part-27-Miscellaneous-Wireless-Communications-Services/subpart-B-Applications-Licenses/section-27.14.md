@@ -1,6 +1,6 @@
 ##### § 27.14 Construction requirements. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
+Link to an amendment published at 85 FR 22881, Apr. 23, 2020.
 
 (a) AWS and WCS licensees, with the exception of WCS licensees holding authorizations for the 600 MHz band, Block A in the 698-704 MHz and 728-734 MHz bands, Block B in the 704-710 MHz and 734-740 MHz bands, Block E in the 722-728 MHz band, Block C, C1 or C2 in the 746-757 MHz and 776-787 MHz bands, Block A in the 2305-2310 MHz and 2350-2355 MHz bands, Block B in the 2310-2315 MHz and 2355-2360 MHz bands, Block C in the 2315-2320 MHz band, and Block D in the 2345-2350 MHz band, and with the exception of licensees holding AWS authorizations in the 1915-1920 MHz and 1995-2000 MHz bands, the 2000-2020 MHz and 2180-2200 MHz bands, or 1695-1710 MHz, 1755-1780 MHz and 2155-2180 MHz bands, must, as a performance requirement, make a showing of “substantial service” in their license area within the prescribed license term set forth in § 27.13. “Substantial service” is defined as service which is sound, favorable and substantially above a level of mediocre service which just might minimally warrant renewal. Failure by any licensee to meet this requirement will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
@@ -48,7 +48,7 @@ Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendmen
 
 (m)-(n) [Reserved]
 
-(o) BRS and EBS licensees originally issued a BRS or EBS license prior to November 6, 2009 must make a showing of substantial service no later than May 1, 2011. With respect to initial BRS licenses issued on or after November 6, 2009, the licensee must make a showing of substantial service within four years from the date of issue of the license. Incumbent BRS licensees that are required to demonstrate substantial service by May 1, 2011 must file their substantial service showings with their renewal applications. “Substantial service” is defined as service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal. Substantial service for BRS and EBS licensees is satisfied if a licensee meets the requirements of paragraph (o)(1), (o)(2), or (o)(3) of this section. If a licensee has not met the requirements of paragraph (o)(1), (o)(2), or (o)(3) of this section, then demonstration of substantial service shall proceed on a case-by-case basis. Except as provided in paragraphs (o)(4) and (o)(5) of this section, all substantial service determinations will be made on a license-by-license basis. Failure by any licensee to demonstrate substantial service will result in forfeiture of the license and the licensee will be ineligible to regain it.
+(o) With respect to initial BRS licenses issued on or after November 6, 2009, the licensee must make a showing of substantial service within four years from the date of issue of the license. With respect to EBS licenses issued after October 25, 2019, the licensee must comply with paragraph (u) of this section. “Substantial service” is defined as service which is sound, favorable, and substantially above a level of mediocre service which just might minimally warrant renewal. Substantial service for BRS and EBS licensees is satisfied if a licensee meets the requirements of paragraph (o)(1), (2), or (3) of this section. If a licensee has not met the requirements of paragraph (o)(1), (2), or (3) of this section, then demonstration of substantial service shall proceed on a case-by-case basis. Except as provided in paragraphs (o)(4) and (5) of this section, all substantial service determinations will be made on a license-by-license basis. Failure by any licensee to demonstrate substantial service will result in forfeiture of the license and the licensee will be ineligible to regain it.
 
 (1) A BRS or EBS licensee has provided “substantial service” by:
 
@@ -66,15 +66,15 @@ Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendmen
 
 (v) Providing service to niche markets or areas outside the areas served by other licensees.
 
-(2) An EBS licensee has provided “substantial service” when:
+(2) An EBS license initially issued prior to October 25, 2019 has provided “substantial service” when:
 
 (i) The EBS licensee is using its spectrum (or spectrum to which the EBS licensee's educational services are shifted) to provide educational services within the EBS licensee's GSA;
 
 (ii) the EBS licensee's license is actually being used to serve the educational mission of one or more accredited public or private schools, colleges or universities providing formal educational and cultural development to enrolled students; or
 
-(iii) the level of service provided by the EBS licensee meets or exceeds the minimum usage requirements specified in § 27.1214.
+(iii) The level of service provided by the EBS licensee meets or exceeds the minimum usage requirements specified in § 27.1214 contained in the edition of 47 CFR parts 20 through 39, revised as of October 1, 2017.
 
-(3) An EBS or BRS licensee may be deemed to provide substantial service through a leasing arrangement if the lessee is providing substantial service under paragraph (o)(1) of this section. The EBS licensee must also be otherwise in compliance with this Chapter (including the programming requirements in § 27.1203 of this subpart).
+(3) An EBS or BRS licensee may be deemed to provide substantial service through a leasing arrangement if the lessee is providing substantial service under paragraph (o)(1) of this section.
 
 (4) If the GSA of a licensee is less than 1924 square miles in size, and there is an overlapping co-channel station licensed or leased by the licensee or its affiliate, substantial service may be demonstrated by meeting the requirements of paragraph (o)(1) or (o)(2) of this section with respect to the combined GSAs of both stations.
 

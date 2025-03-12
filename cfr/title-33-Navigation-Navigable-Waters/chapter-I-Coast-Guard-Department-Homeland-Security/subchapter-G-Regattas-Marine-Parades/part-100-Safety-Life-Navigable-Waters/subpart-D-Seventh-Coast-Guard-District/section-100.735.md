@@ -1,5 +1,7 @@
 ##### § 100.735 Special Local Regulation; Annual OPA World Championships, Gulf of Mexico; Englewood Beach, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated areas.* The following regulated areas are established as special local regulations. All coordinates are North American Datum 1983.
 
 (1) *Race area.* All waters of the Gulf of Mexico contained within the following points:

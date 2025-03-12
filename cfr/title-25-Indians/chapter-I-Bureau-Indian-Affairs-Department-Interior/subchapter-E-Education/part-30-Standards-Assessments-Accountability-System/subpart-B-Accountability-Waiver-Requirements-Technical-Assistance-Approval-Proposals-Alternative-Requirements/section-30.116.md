@@ -1,0 +1,3 @@
+##### § 30.116 Will the Secretary provide technical assistance to tribal governing bodies or school boards seeking to develop alternative requirements? #####
+
+The Secretary and the Secretary of Education are required by statute to provide technical assistance, upon request, either directly or through contract, to a tribal governing body or a school board that seeks to develop alternative requirements. A tribal governing body or school board seeking such assistance must submit a request in writing to the Director. The Secretary will provide such technical assistance on an ongoing and timely basis.

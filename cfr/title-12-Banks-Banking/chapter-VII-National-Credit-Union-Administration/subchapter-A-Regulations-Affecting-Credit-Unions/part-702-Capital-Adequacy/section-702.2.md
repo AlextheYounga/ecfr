@@ -56,6 +56,8 @@ Except as provided below, the terms used in this part have the same meanings as 
 
 (2) For each quarter, a credit union must elect a measure of total assets from paragraph (k)(1) of this section to apply for all purposes under this part except §§ 702.103 through 702.108 [risk-based net worth requirement].
 
+(3) Notwithstanding paragraph (k)(1) of this section, a credit union may exclude loans pledged as collateral for a non-recourse loan that is provided as part of the Paycheck Protection Program Lending Facility, announced by the Federal Reserve Board on April 7, 2020, from the calculation of total assets for the purpose of calculating its net worth ratio. For the purpose of this provision, a credit union's liability under the Facility must be reduced by the principal amount of the loans pledged as collateral for funds advanced under the Facility.
+
 (l) *Weighted-average life* means the weighted-average time to the return of a dollar of principal, calculated by multiplying each portion of principal received by the time at which it is expected to be received (based on a reasonable and supportable estimate of that time), and then summing and dividing by the total amount of principal.
 
-[65 FR 8584, Feb. 18, 2000, as amended at 65 FR 44966, July 20, 2000; 67 FR 71087, Nov. 29, 2002; 73 FR 72691, Dec. 1, 2008; 75 FR 34620, June 18, 2010; 76 FR 60367, Sept. 29, 2011; 78 FR 32544, May 31, 2013]
+[65 FR 8584, Feb. 18, 2000, as amended at 65 FR 44966, July 20, 2000; 67 FR 71087, Nov. 29, 2002; 73 FR 72691, Dec. 1, 2008; 75 FR 34620, June 18, 2010; 76 FR 60367, Sept. 29, 2011; 78 FR 32544, May 31, 2013; 85 FR 23216, Apr. 27, 2020]

@@ -2,7 +2,7 @@
 
 Grant funds may be used for the following purposes:
 
-(a) To pay reasonable costs associated with providing potable water or waste disposal services to residents of rural or native villages in Alaska. Reasonable costs include construction, planning, pre-development costs (including engineering, design, and rights-of-way establishment), and technical assistance as further defined below:
+(a) To pay reasonable costs associated with providing potable water or waste disposal services to residents of recipient communities. Reasonable costs include construction, planning, pre-development costs (including engineering, design, and rights-of-way establishment), and technical assistance as further defined in paragraphs (a)(1) through (3) of this section:
 
 (1) *Planning.* Grants can be made specifically for planning report costs (including Master Plans, Feasibility Studies, and Detection or Source Studies) associated with the prioritization process.
 
@@ -29,3 +29,5 @@ Grant funds may be used for the following purposes:
 (vi) Legal authority (*i.e.* easements) is obtained to construct these improvements.
 
 (vii) Documentation must be provided to RUS indicating the quantity and quality of the individual installations that may be developed; cost effectiveness of the individual facility compared with initial and long term user costs on a central system; health and pollution problems attributable to individual facilities; operational or management problems peculiar to individual installations; and permit of regulatory agency requirements.
+
+[80 FR 52609, Sept. 1, 2015, as amended at 85 FR 23212, Apr. 27, 2020]

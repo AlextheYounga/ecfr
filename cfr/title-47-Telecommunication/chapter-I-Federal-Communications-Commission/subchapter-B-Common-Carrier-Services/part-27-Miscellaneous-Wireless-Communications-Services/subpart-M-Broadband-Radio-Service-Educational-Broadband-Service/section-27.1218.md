@@ -1,6 +1,4 @@
-##### § 27.1218 Designated entities. #####
-
-Link to an amendment published at 84 FR 57366, Oct. 25, 2019.
+##### § 27.1218 Broadband Radio Service designated entity provisions. #####
 
 (a) *Eligibility for small business provisions.* (1) A small business is an entity that, together with all attributed parties, has average gross revenues that are not more than $40 million for the preceding three years.
 

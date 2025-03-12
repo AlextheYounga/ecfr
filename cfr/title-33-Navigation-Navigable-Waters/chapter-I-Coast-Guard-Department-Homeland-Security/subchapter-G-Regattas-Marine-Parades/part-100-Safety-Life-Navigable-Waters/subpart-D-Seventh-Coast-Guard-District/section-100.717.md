@@ -1,5 +1,7 @@
 ##### § 100.717 Annual Fort Myers Beach Offshore Grand Prix; Fort Myers, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated Area.* The regulated area is formed by a line drawn from the start/finish position, at the Fort Myers Beach pier (26°28.07′ N, 81°58.30′ W), thence to position 26°26.08′ N, 81°55.29′ W, thence to position 26°24.76′ N, 81°54.68′ W, thence to position 26°23.74′ N, 81°55.10′ W, thence to position 26°23.91′ N, 81°55.40′ W, thence to position 26°24.94′ N, 81°55.24′ W, thence to position 26°26.93′ N, 81°58.53′ W, thence to position 26°27.32′ N, 81°58.16′ W, thence back to the start/finish position, at the Fort Myers Beach pier (26°28.07, 81°58.30′ W). All coordinates referenced use datum: NAD 83.
 
 (b) *Special local regulations.* (1) No vessel may anchor shoreward of the shoreside boundaries of the regulated area, from 11 a.m. to 3 p.m. edt.

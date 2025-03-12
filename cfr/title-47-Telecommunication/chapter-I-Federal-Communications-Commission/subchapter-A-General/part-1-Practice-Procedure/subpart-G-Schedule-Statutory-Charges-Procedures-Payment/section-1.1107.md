@@ -1,8 +1,6 @@
 ##### § 1.1107 Schedule of charges for applications and other filings for the international services. #####
 
-Link to an amendment published at 85 FR 17284, Mar. 27, 2020.
-
-Payment can be made electronically using the Commission's electronic filing and payment system “Fee Filer” (*www.fcc.gov/feefiler*). Remit manual filings and/or payments for these services to: Federal Communications Commission, International Bureau Applications, P.O. Box 979093, St. Louis, MO 63197-9000.
+Remit payment for these services electronically using the Commission's electronic payment system in accordance with the procedures set forth on the Commission's website, *www.fcc.gov/licensing-databases/fees.*
 
 |                                                   Service                                                   |                 FCC Form No.                  |           Fee amount           |   Payment type code   |
 |-------------------------------------------------------------------------------------------------------------|-----------------------------------------------|--------------------------------|-----------------------|
@@ -102,4 +100,4 @@ Payment can be made electronically using the Commission's electronic filing and 
 |                                    b. Commercial AM or FM Radio Stations                                    |                   308 & 159                   |             110.00             |          MBR          |
 |                              13. Recognized Operating Agency (per application)                              |                 Corres & 159                  |            1,195.00            |          CUG          |
 
-[83 FR 38049, Aug. 3, 2018]
+[83 FR 38049, Aug. 3, 2018, as amended at 85 FR 17284, Mar. 27, 2020]

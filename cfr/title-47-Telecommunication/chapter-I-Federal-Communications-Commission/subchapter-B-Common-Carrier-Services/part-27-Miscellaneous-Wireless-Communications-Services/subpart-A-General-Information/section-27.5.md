@@ -1,6 +1,6 @@
 ##### § 27.5 Frequencies. #####
 
-Link to an amendment published at 84 FR 57364, Oct. 25, 2019.Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
+Link to an amendment published at 85 FR 22865, Apr. 23, 2020.
 
 (a) *2305-2320 MHz and 2345-2360 MHz bands.* The following frequencies are available for WCS in the 2305-2320 MHz and 2345-2360 MHz bands:
 
@@ -78,7 +78,7 @@ BRS Channel KH1: 2614.00000-2614.33333 MHz.BRS Channel KH2: 2614.33333-2614.6666
 
 No 125 kHz channels are provided for channels in operation in this service. The 125 kHz channels previously associated with these channels have been reallocated to Channel G3 in the upper band segment.
 
-(3) During the transition (see §§ 27.1230-27.1239) EBS and BRS licensees may exchange channels to effectuate the transition of the 2.5 GHz band in a given BTA.
+(3) [Reserved]
 
 (4) A temporary fixed broadband station may use any available broadband channel on a secondary basis, except that operation of temporary fixed broadband stations is not allowed within 56.3 km (35 miles) of Canada.
 

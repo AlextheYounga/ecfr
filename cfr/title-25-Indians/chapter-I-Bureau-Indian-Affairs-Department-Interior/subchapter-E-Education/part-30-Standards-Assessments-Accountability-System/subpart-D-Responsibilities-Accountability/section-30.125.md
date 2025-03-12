@@ -1,0 +1,3 @@
+##### § 30.125 What is required for the Bureau to meet its reporting responsibilities? #####
+
+The Bureau is required to prepare and disseminate widely to the public an annual report card for the BIE-funded school system as a whole, and also report cards for individual BIE-funded schools, consistent with the requirements of section 1111(h) of the Act. The BIE's annual report card will be made available on the internet along with all BIE-funded school report cards.

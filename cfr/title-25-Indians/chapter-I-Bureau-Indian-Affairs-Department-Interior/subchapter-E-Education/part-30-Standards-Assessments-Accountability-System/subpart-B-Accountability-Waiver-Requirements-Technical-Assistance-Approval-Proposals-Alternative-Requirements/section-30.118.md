@@ -1,0 +1,3 @@
+##### § 30.118 When should the tribal governing body or school board request technical assistance? #####
+
+A tribal governing body or school board may request technical assistance in writing at any time. A tribal governing body or school board is welcomed and encouraged to request technical assistance before formally notifying the Secretary of its intention to waive the requirements established by the Secretary in order to maximize the time available for technical assistance.

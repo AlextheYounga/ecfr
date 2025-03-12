@@ -1,0 +1,5 @@
+##### § 1318.304 Supplements and adoptions. #####
+
+(a) If new information concerning action modifications, alternatives, or probable environmental effects becomes available and there are important components of the proposed action that remain to be implemented, the NEPA compliance staff and TVA legal counsel, in consultation with the initiating TVA entity, will consider whether an EA should be supplemented based on the significance of the new information. The NEPA compliance staff will be responsible for preparing supplements to EAs.
+
+(b) TVA may adopt an EA prepared by another agency if it determines that the environmental impacts of TVA's action are adequately assessed in the EA. Public involvement must be provided consistent with § 1318.301. The adopted EA and the FONSI issued by TVA must be provided on TVA's public website.

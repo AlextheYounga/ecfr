@@ -1,7 +1,5 @@
 ##### § 91.1063 Testing and training: Applicability and terms used. #####
 
-Link to an amendment published at 85 FR 10920, Feb. 25, 2020.
-
 (a) Sections 91.1065 through 91.1107:
 
 (1) Prescribe the tests and checks required for pilots and flight attendant crewmembers and for the approval of check pilots in operations under this subpart;
@@ -12,7 +10,17 @@ Link to an amendment published at 85 FR 10920, Feb. 25, 2020.
 
 (4) Permits training center personnel authorized under part 142 of this chapter who meet the requirements of § 91.1075 to conduct training, testing and checking under contract or other arrangements to those persons subject to the requirements of this subpart.
 
-(b) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts N and O of part 121 of this chapter instead of §§ 91.1065 through 91.1107, except for the operating experience requirements of § 121.434 of this chapter.
+(b) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of part 121, subparts N and O of this chapter instead of §§ 91.1065 through 91.1107, provided that the following additional limitations and allowances apply to program managers so authorized:
+
+(1) *Operating experience and operations familiarization.* Program managers are not required to comply with the operating experience requirements of § 121.434 or the operations familiarization requirements of § 121.435 of this chapter.
+
+(2) *Upgrade training.* (i) Each program manager must include in upgrade ground training for pilots, instruction in at least the subjects identified in § 121.419(a) of this chapter, as applicable to their assigned duties; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, instruction and facilitated discussion in the subjects identified in § 121.419(c) of this chapter.
+
+(ii) Each program manager must include in upgrade flight training for pilots, flight training for the maneuvers and procedures required in § 121.424(a), (c), (e), and (f) of this chapter; and, for pilots serving in crews of two or more pilots, beginning on April 27, 2022, the flight training required in § 121.424(b) of this chapter.
+
+(3) *Initial and recurrent leadership and command and mentoring training.* Program managers are not required to include leadership and command training in §§ 121.409(b)(2)(ii)(B)(*6*), 121.419(c)(1), 121.424(b) and 121.427(d)(1) of this chapter, and mentoring training in §§ 121.419(c)(2) and 121.427(d)(1) of this chapter in initial and recurrent training for pilots in command who serve in operations that use only one pilot.
+
+(4) *One-time leadership and command and mentoring training.* Section 121.429 of this chapter does not apply to program managers conducting operations under this subpart when those operations use only one pilot.
 
 (c) If authorized by the Administrator, a program manager may comply with the applicable training and testing sections of subparts G and H of part 135 of this chapter instead of §§ 91.1065 through 91.1107, except for the operating experience requirements of § 135.244 of this chapter.
 
@@ -41,3 +49,5 @@ Link to an amendment published at 85 FR 10920, Feb. 25, 2020.
 (iii) Testing requirements of § 91.1065.
 
 (iv) Recurrent flight attendant testing requirements of § 91.1067.
+
+[Docket No. FAA-2001-10047, 68 FR 54561, Sept. 17, 2003, as amended by Amdt. 61-144, 85 FR 10920, Feb. 25, 2020]

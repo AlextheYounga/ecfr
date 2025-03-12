@@ -1,5 +1,7 @@
 ##### § 648.322 Skate allocation, possession, and landing provisions. #####
 
+Link to an amendment published at 85 FR 23242, Apr. 27, 2020.
+
 (a) *Allocation of TAL.* (1) A total of 66.5 percent of the annual skate complex TAL shall be allocated to the skate wing fishery. All skate products that are landed in wing form, for the skate wing market, or classified by Federal dealers as food as required under § 648.7(a)(1)(i), shall count against the skate wing fishery TAL. The annual skate wing fishery TAL shall be allocated in two seasonal quota periods as follows:
 
 (i) Season 1 - May 1 through August 31, 57 percent of the annual skate wing fishery TAL shall be allocated;

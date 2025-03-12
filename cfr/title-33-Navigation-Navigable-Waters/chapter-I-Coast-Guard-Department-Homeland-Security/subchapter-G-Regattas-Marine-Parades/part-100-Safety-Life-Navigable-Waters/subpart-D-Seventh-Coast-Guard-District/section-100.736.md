@@ -1,5 +1,7 @@
 ##### § 100.736 Annual Fort Myers Beach air show; Fort Myers Beach, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a)(1) *Regulated Area.* The regulated area is formed by the following coordinates; point 1: 26°28′08″ N, 81°59′15″ W south to point 2: 26°27′37″ N, 81°59′39″ W east to point 3: 26°25′45″ N, 81°55′34″ W north to point 4: 26°26′14″ N, 81°55′22″ W and west along the contour of the shore to point 5: 26°27′52″ N, 81°58′04″ W to original point 1: 26°28′08″ N, 81°59′15″ W. All coordinates referenced use datum: NAD 83.
 
 (2) *Air Box Area.* The air box area is contained within the regulated area and is formed by the following coordinates; point 1: 26°27′34″ N, 81°58′22″ W south to point 2: 26°27′07″ N, 81°58′39″ W east to point 3: 26°26′15″ N, 81°56′36″ W north to point 4: 26°26′42″ N, 81°56′22″ W and west to original point 1: 26°27′34″ N, 81°58′22″ W. All coordinates referenced use datum: NAD 83.

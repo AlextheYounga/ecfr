@@ -1,0 +1,7 @@
+##### § 30.100 What is the purpose of this part? #####
+
+(a) This part establishes regulations regarding standards, assessments, and an accountability system at BIE-funded schools consistent with section 1111 of the Elementary and Secondary Education Act of 1965. The Act requires the Secretary to develop or implement requirements for standards, assessments, and an accountability system for BIE-funded schools.
+
+(b) Nothing in this part may be construed to affect, modify, or diminish the sovereign rights of Indian Tribes; statutory rights under law, including the right to use Native American languages as a medium of instruction as described in the *Native American Languages Act,* Public Law 101-477; the Secretary's trust responsibility for Indian education; nor the trust responsibility of the United States to Indian Tribes or individual Indians. In carrying out the education mission of the Department, the BIE has an obligation to provide for a comprehensive multicultural and multilingual education program including the production and use of instructional materials, culturally appropriate methodologies and teaching and learning strategies that will reinforce, preserve, and maintain Indian and Alaska Native languages, cultures, and histories which school boards, Tribes and Alaska Native entities may utilize at their discretion.
+
+(c) In carrying out activities under this part, the Secretary will be guided by the policies stated in 25 CFR part 32.

@@ -1,7 +1,5 @@
 ##### § 229.10 (Item 10) General. #####
 
-Link to an amendment published at 85 FR 17241, Mar. 26, 2020.
-
 (a) *Application of Regulation S-K.* This part (together with the General Rules and Regulations under the Securities Act of 1933, 15 U.S.C. 77a *et seq.,* as amended (*Securities Act*), and the Securities Exchange Act of 1934, 15 U.S.C. 78a *et seq.,* as amended (*Exchange Act*) (parts 230 and 240 of this chapter), the Interpretative Releases under these Acts (parts 231 and 241 of this chapter) and the forms under these Acts (parts 239 and 249 of this chapter)) states the requirements applicable to the content of the non-financial statement portions of:
 
 (1) Registration statements under the Securities Act (part 239 of this chapter) to the extent provided in the forms to be used for registration under such Act; and
@@ -162,4 +160,6 @@ Index of Scaled Disclosure Available to Smaller Reporting Companies
 
 Instruction 1 to paragraph (f): A registrant that qualifies as a smaller reporting company under the public float thresholds identified in paragraphs (f)(1)(i) and (f)(2)(iii)(A) of this section will qualify as a smaller reporting company regardless of its revenues.
 
-[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 83 FR 32018, July 10, 2018; 83 FR 50209, Oct. 4, 2018; 84 FR 12716, Apr. 2, 2019]
+Instruction 2 to paragraph (f): A foreign private issuer is not eligible to use the requirements for smaller reporting companies unless it uses the forms and rules designated for domestic issuers and provides financial statements prepared in accordance with U.S. Generally Accepted Accounting Principles.
+
+[47 FR 11401, Mar. 16, 1982, as amended at 52 FR 21260, June 5, 1987; 58 FR 14665, Mar. 18, 1993; 58 FR 62029, Nov. 23, 1993; 60 FR 32824, June 23, 1995; 64 FR 61443, Nov. 10, 1999; 68 FR 4831, Jan. 30, 2003; 70 FR 1593, Jan. 7, 2005; 73 FR 956, Jan. 4, 2008; 76 FR 46617, Aug. 3, 2011; 83 FR 32018, July 10, 2018; 83 FR 50209, Oct. 4, 2018; 84 FR 12716, Apr. 2, 2019; 85 FR 17241, Mar. 26, 2020]

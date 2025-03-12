@@ -1,5 +1,7 @@
 ##### § 100.720 Special Local Regulations; Suncoast Super Boat Grand Prix, Gulf of Mexico; Sarasota, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated areas.* The following regulated areas are established as special local regulations. All coordinates are North American Datum 1983.
 
 (1) *Race area.* All waters of the Gulf of Mexico contained within the following points: 27°18.19′ N., 82°34.29′ W., thence to position 27°17.42′ N., 82°35.00′ W., thence to position 27°18.61′ N., 82°36.59′ W., thence to position 27°19.58′ N., 82°35.54′ W., thence back to the original position 27°18.19′ N., 82°34.29′ W.

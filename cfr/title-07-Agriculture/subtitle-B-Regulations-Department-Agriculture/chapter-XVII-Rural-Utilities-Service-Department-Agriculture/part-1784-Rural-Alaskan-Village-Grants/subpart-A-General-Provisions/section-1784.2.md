@@ -20,11 +20,11 @@ The following definitions apply to subparts A through E of this part.
 
 *IHS* means the United States Department of Health and Human Services, Indian Health Service.
 
+*Native Villages in Alaska* means a Native village in Alaska which meets the definition of a village as defined in section 3 of the Alaska Native Claims Settlement Act (43 U.S.C. 1602).
+
 *Owner* means Grant recipient.
 
 *RAVG* means Rural Alaskan Village Grant, a grant awarded by RUS, DEC, and/or ANTHC to a grant recipient under this part.
-
-*Rural or Native Villages in Alaska* means a rural community or Native village in Alaska which meets the definition of a village under State statutes and does not have a population in excess of 10,000 inhabitants, according to the U.S. Census American Community Survey.
 
 *RD* means Rural Development, a federal agency mission area delivering the United States Department of Agriculture's programs to rural communities.
 
@@ -39,3 +39,5 @@ The following definitions apply to subparts A through E of this part.
 *USDA* means the United States Department of Agriculture.
 
 *VSW* means Village Safe Water Program authorized under the Village Safe Water Act, Alaska Statute Title 46, Chapter 7 (AS 46.07).
+
+[80 FR 52609, Sept. 1, 2015, as amended at 85 FR 23212, Apr. 27, 2020]

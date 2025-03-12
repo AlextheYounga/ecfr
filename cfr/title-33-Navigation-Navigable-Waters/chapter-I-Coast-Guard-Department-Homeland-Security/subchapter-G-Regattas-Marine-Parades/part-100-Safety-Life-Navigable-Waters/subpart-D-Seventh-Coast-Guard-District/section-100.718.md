@@ -1,5 +1,7 @@
 ##### § 100.718 Annual Suncoast Kilo Run; Sarasota Bay, Sarasota, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) *Regulated area.* The regulated area is established in Sarasota Bat with the northwest corner point at Whale Key, position 27°23′53″ N, 82°37′46″ W, extending to the northeast corner point at Bayshore Gardens Channel, position 27°25′11″ N, 82°35′45″ W, extending to the southeast corner point at Whitaker Bayou, position 27°21′22″ N, 82°33′14″ W, and then to the southwest corner point at Quick Point, position 27°20′18″ N, 82°34′36″ W. All coordinates referenced use datum: NAD 83.
 
 (b) *Special local regulations.* (1) In accordance with these regulations, the regulated area is designated as a “no wake” zone. Spectator craft are permitted into the area, but are prohibited from entering the race course areas described in (b)(2) of this section.

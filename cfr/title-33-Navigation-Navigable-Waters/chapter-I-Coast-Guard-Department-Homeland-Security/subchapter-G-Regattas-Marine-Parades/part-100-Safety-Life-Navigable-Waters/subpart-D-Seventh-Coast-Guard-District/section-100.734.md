@@ -1,5 +1,7 @@
 ##### § 100.734 Annual Gasparilla Marine Parade; Hillsborough Bay, Tampa, FL. #####
 
+Link to an amendment published at 85 FR 23227, Apr. 27, 2020.
+
 (a) Regulated Area. A regulated area is established consisting of all waters of Hillsborough Bay and its tributaries north of 27°51′18″ north latitude and south of the John F. Kennedy Bridge. The regulated area includes the following in their entirety: Hillsborough Cut “D” Channel, Seddon Channel, and the Hillsborough River south of the John F. Kennedy Bridge. All coordinates referenced use datum: NAD 83.
 
 (b) Special local regulations.

@@ -22,4 +22,6 @@ Grant funds may be used for the following purposes:
 
 (j) Assist rural water systems to comply with the requirements of the Federal Water Pollution Control Act (33 U.S.C. 1251 *et seq.*) (FWPCA) or the SDWA when such failure to comply is directly related to a recent decline in quality of potable water. This would not apply to changes in the requirements of FWPCA or SDWA.
 
-(k) Provide potable water to communities through means other than those covered above for not to exceed 120 days when a more permanent solution is not feasible in a shorter time frame.
+(k) Provide potable water to communities through means other than those covered above for no more than 120 days when a more permanent solution is not feasible in a shorter time frame. Where drinking water supplies are inadequate due to an event, including drought, severe weather, or contamination, potable water may be provided for a period of time, not to exceed an additional 120 days to protect public health.
+
+[68 FR 46078, Aug. 5, 2003, as amended at 85 FR 23211, Apr. 27, 2020]

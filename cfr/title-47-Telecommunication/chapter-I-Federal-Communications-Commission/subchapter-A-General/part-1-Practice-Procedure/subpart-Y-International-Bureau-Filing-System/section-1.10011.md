@@ -1,14 +1,12 @@
 ##### § 1.10011 Who may sign applications? #####
 
-Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
-
-(a) “Signed” in this section refers to electronically filed applications. An electronic application is “signed” when there is an electronic signature. An electronic signature is the typed name of the person “signing” the application, which is then electronically transmitted via IBFS.
+(a) The Commission only accepts electronic applications. An electronic application is “signed” when there is an electronic signature. An electronic signature is the typed name of the person “signing” the application, which is then electronically transmitted via MyIBFS.
 
 (b) For all electronically filed applications, you (or the signor) must actually sign a paper copy of the application, and keep the signed original in your files for future reference.
 
 (c) You only need to sign the original of applications, amendments, and related statements of fact.
 
-(d) Sign applications, amendments, and related statements of fact as follows (either electronically or manually):
+(d) Sign applications, amendments, and related statements of fact as follows:
 
 (1) By you, if you are an individual;
 
@@ -35,3 +33,5 @@ Link to an amendment published at 85 FR 17285, Mar. 27, 2020.
 (2) If your attorney states any matter based solely on his belief (rather than knowledge), your attorney must explain his reasons for believing that such statements are true.
 
 (g) It is unnecessary to sign applications, amendments, and related statements of fact under oath. However, willful false statements are punishable by a fine and imprisonment, 18 U.S.C. 1001, and by administrative sanctions.
+
+[69 FR 40327, July 2, 2004, as amended at 85 FR 17285, Mar. 27, 2020]

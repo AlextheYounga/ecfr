@@ -1,0 +1,3 @@
+##### § 1318.406 Supplements. #####
+
+If TVA makes substantial changes in the proposed action that are relevant to environmental concerns or there is significant new information relevant to environmental concerns, and important components of the proposed action remain to be implemented, the NEPA compliance staff and TVA legal counsel, in consultation with the initiating TVA entity, will determine how the FEIS should be supplemented. The NEPA compliance staff will be responsible for preparing a supplement to an EIS.
