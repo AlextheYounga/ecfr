@@ -1,5 +1,7 @@
 ##### § 32.14 PSOB Office determination. #####
 
+Link to an amendment published at 83 FR 22385, May 15, 2018.
+
 (a) Upon its approving or denying a claim, the PSOB Office shall serve notice of the same upon the claimant (and upon any other claimant who may have filed a claim with respect to the same public safety officer). In the event of a denial, such notice shall -
 
 (1) Specify the factual findings and legal conclusions that support it; and

@@ -1,5 +1,7 @@
 ##### § 32.36 Payment and repayment. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) The computation described in the Act, at 42 U.S.C. 3796d-1(a)(2), shall be based on a certification from the eligible educational institution as to the claimant's full-, three-quarter-, half-, or less-than-half-time student status, according to such institution's own academic standards and practices.
 
 (b) No payment shall be made with respect to any grading period that ended before the injury date.

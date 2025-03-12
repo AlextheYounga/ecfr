@@ -1,5 +1,7 @@
 ##### § 32.7 Fees for representative services. #####
 
+Link to an amendment published at 83 FR 22383, May 15, 2018.
+
 (a) A person seeking to receive any amount from (or with respect to) a claimant for representative services provided in connection with any claim may petition the PSOB Office for authorization under this section. Such petition shall include -
 
 (1) An itemized description of the services;

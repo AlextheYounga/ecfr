@@ -1,5 +1,7 @@
 ##### § 32.6 Payment and repayment. #####
 
+Link to an amendment published at 83 FR 22383, May 15, 2018.
+
 (a) No payment shall be made to (or on behalf of) more than one individual, on the basis of being a particular public safety officer's spouse. If more than one should qualify, payment shall be made to the one with whom the officer considered himself, as of the injury date, to have the closest relationship, except that the individual (if any) who was a member of the officer's household (as of such date) shall be presumed rebuttably to be such one, unless legal proceedings (by the officer against such member, or vice versa) shall have been pending then in any court.
 
 (b) No payment shall be made, save -

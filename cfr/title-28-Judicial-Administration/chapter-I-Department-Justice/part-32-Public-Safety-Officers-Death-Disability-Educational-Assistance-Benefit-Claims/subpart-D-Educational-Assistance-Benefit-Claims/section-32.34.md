@@ -1,5 +1,7 @@
 ##### § 32.34 PSOB Office determination. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) In the event of the PSOB Office's denying a claim, the notice it serves upon the claimant shall -
 
 (1) Specify the factual findings and legal conclusions that support the denial; and

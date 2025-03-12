@@ -38,7 +38,7 @@
 
 (F) Any time limit prescribed in this section may be extended for a period not to exceed 30 days by the Regional Administrator for good cause, either upon his or her own motion or upon written request from the appellant stating the reason(s) therefore.
 
-(4) General HMS permits issued under this subpart will remain valid until the first date of renewal, and permits may be subsequently renewed for 2-year terms. The first date of renewal will be the last day of the vessel owner's birth month in the second calendar year after the permit is issued (*e.g.,* if the birth month is March and the permit is issued on October 3, 2007, the permit will remain valid through March 31, 2009).
+(4) General HMS permits issued under this subpart will remain valid until the first date of renewal, and permits may be subsequently renewed for 2-year terms. The first date of renewal will be the last day of the vessel owner's birth month in the second calendar year after the permit is issued (e.g., if the birth month is March and the permit is issued on October 3, 2007, the permit will remain valid through March 31, 2009).
 
 (5) Replacement permits may be issued without charge to replace lost or mutilated permits. Replacement permits may be obtained by submitting to the SFD c/o the Regional Administrator a complete, signed vessel permit application. An application for a replacement permit is not considered a new application.
 
@@ -50,7 +50,7 @@
 
 (e) *Fees.* An application for a permit, or renewal of an existing permit under this section will include a fee for each vessel. The fee amount required will be calculated in accordance with the NOAA Finance Handbook and specified on the application form.
 
-(f) *Federal limited entry drift gillnet permit* - (1) *General.* This section applies to individuals fishing with large-mesh (14 inch or greater stretched mesh) drift gillnet (DGN) gear. Individuals who target, retain, transship, or land fish captured with a large-mesh DGN must possess a valid Federal limited entry DGN permit. Federal limited entry DGN permits are issued to an individual, and a vessel must be specified on the permit.
+(f) *Federal limited entry drift gillnet permit*—(1) *General.* This section applies to individuals fishing with large-mesh (14 inch or greater stretched mesh) drift gillnet (DGN) gear. Individuals who target, retain, transship, or land fish captured with a large-mesh DGN must possess a valid Federal limited entry DGN permit. Federal limited entry DGN permits are issued to an individual, and a vessel must be specified on the permit.
 
 (2) *Initial qualification.* Upon publication of NMFS' final rule to establish the Federal limited entry DGN permit, all State of California limited entry DGN permit holders are eligible to obtain a Federal limited entry DGN permit. If a 2017-2018 California state DGN permit renewal application is not received by the California Department of Fish and Wildlife or postmarked by March 31, 2018, the permit holder is not eligible to receive a 2018-2019 Federal limited entry DGN permit.
 
@@ -68,7 +68,7 @@
 
 (7) *Appeals.* Any applicant for an initial permit may appeal the initial issuance decision to the Regional Administrator. Appeals will be made and processed following procedures as described at paragraph (b)(3)(iv) of this section.
 
-(8) *Transfers.* Federal limited entry DGN permits may be transferred to another individual only if the current permit holder has held the Federal DGN permit for a minimum of three consecutive years (counted April 1 to March 31 of the following year). At the time of the establishment of the Federal limited entry DGN permit system, the length of time an individual has held a State of California limited entry DGN permit carries over (*e.g.,* if an individual has held a California DGN permit for two years, they are eligible to transfer the Federal DGN permit after holding the Federal DGN permit for one year). Exceptions to this limitation on permit transfer may be made under the following circumstances:
+(8) *Transfers.* Federal limited entry DGN permits may be transferred to another individual only if the current permit holder has held the Federal DGN permit for a minimum of three consecutive years (counted April 1 to March 31 of the following year). At the time of the establishment of the Federal limited entry DGN permit system, the length of time an individual has held a State of California limited entry DGN permit carries over (e.g., if an individual has held a California DGN permit for two years, they are eligible to transfer the Federal DGN permit after holding the Federal DGN permit for one year). Exceptions to this limitation on permit transfer may be made under the following circumstances:
 
 (i) The permit holder suffers from a serious illness or permanent disability that prevents the permit holder from earning a livelihood from commercial fishing.
 

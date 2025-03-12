@@ -1,5 +1,7 @@
 ##### § 1915.80 Scope, application, definitions, and effective dates. #####
 
+Link to an amendment published at 84 FR 21555, May 14, 2019.
+
 (a) The provisions of this subpart apply to general working conditions in shipyard employment, including work on vessels, on vessel sections, and at landside operations, regardless of geographic location.
 
 (b) *Definitions applicable to this subpart.* (1) *Additional safety measure.* A component of the tags-plus system that provides an impediment (in addition to the energy-isolating device) to the release of energy or the energization or startup of the machinery, equipment, or system being serviced. Examples of additional safety measures include, but are not limited to, removing an isolating circuit element; blocking a controlling switch; blocking, blanking, or bleeding lines; removing a valve handle or wiring it in place; opening an extra disconnecting device.

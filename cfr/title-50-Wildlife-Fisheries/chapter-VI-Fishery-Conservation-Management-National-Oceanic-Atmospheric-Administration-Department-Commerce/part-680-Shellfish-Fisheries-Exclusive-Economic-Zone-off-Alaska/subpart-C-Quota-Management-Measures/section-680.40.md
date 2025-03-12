@@ -308,7 +308,7 @@ QS adj. p = Unadjusted West QS p × RAF
 
 (4) *Qualification for initial allocation of PQS* - (i) *Years.* The qualifying years for each crab QS fishery are designated in Table 9 to this part.
 
-(ii) *Ownership interest.* Documentation of ownership interest in a dissolved partnership or corporation, association, or other entity shall be limited to corporate documents (*e.g.*, articles of incorporation) or notarized statements signed by each former partner, shareholder or director, and specifying their proportions of interest.
+(ii) *Ownership interest.* Documentation of ownership interest in a dissolved partnership or corporation, association, or other entity shall be limited to corporate documents (e.g., articles of incorporation) or notarized statements signed by each former partner, shareholder or director, and specifying their proportions of interest.
 
 (iii) *Legal processing of crab* means, for the purpose of initial allocation of PQS, raw crab pounds processed in the crab QS fisheries designated under paragraph (a)(1) of this section in compliance with state and Federal permitting, landing, and reporting regulations in effect at the time of the landing. Legal processing excludes any deadloss, processing of crab harvested in a test fishery or under a scientific, education, exploratory, or experimental permit, or under the Western Alaska CDQ Program.
 

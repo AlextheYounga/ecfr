@@ -10,7 +10,7 @@
 
 (5) An exemption may not be transferred to another person.
 
-(6) If more than one person, *e.g.,* a partnership or corporation, owned a large vessel when it was registered for use with a Western Pacific general longline permit and made at least one landing of western Pacific pelagic MUS in American Samoa on or prior to November 13, 1997, an exemption issued under this section will be issued to only one person.
+(6) If more than one person, e.g., a partnership or corporation, owned a large vessel when it was registered for use with a Western Pacific general longline permit and made at least one landing of western Pacific pelagic MUS in American Samoa on or prior to November 13, 1997, an exemption issued under this section will be issued to only one person.
 
 (b) [Reserved]
 

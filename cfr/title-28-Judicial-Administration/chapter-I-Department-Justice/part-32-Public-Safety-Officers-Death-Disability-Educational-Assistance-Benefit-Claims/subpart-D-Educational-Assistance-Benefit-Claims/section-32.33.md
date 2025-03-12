@@ -1,5 +1,7 @@
 ##### § 32.33 Definitions. #####
 
+Link to an amendment published at 83 FR 22386, May 15, 2018.
+
 *Application* means claim (*i.e.*, a threshold claim or a financial claim).
 
 *Assistance* means financial assistance.

@@ -1,5 +1,7 @@
 ##### § 1915.5 Incorporation by reference. #####
 
+Link to an amendment published at 84 FR 21555, May 14, 2019.
+
 (a) Specifications, standards, and codes of agencies of the U.S. Government, to the extent specified in the text, form a part of the regulations of this part. In addition, under the authority vested in the Secretary under the Act, the specifications, standards, and codes of organizations which are not agencies of the U.S. Government, in effect on the date of the promulgation of the regulations of this part as listed below, to the extent specified in the text, form a part of the regulations of this part.
 
 (b)(1) The standards listed in paragraph (d) of this section are incorporated by reference in the corresponding sections noted as the sections exist on the date of the approval, and a notice of any change in these standards will be published in the Federal Register. The Director of the Federal Register approved these incorporations by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.

@@ -16,7 +16,7 @@ General groundfish recordkeeping and reporting requirements are defined at § 66
 
 (2) *Electronic vessel logbook.* [Reserved]
 
-(3) *Gear switching declaration.* Any person with a limited entry trawl permit participating in the Shorebased IFQ Program using groundfish non-trawl gear (i.e., gear switching) must submit a valid gear declaration reporting such participation as specified in § 660.13(d)(5)(iv)(A).
+(3) *Gear switching declaration.* Any person with a limited entry trawl permit participating in the Shorebased IFQ Program using groundfish non-trawl gear (*i.e.*, gear switching) must submit a valid gear declaration reporting such participation as specified in § 660.13(d)(5)(iv)(A).
 
 (4) *Electronic fish ticket.* The IFQ first receiver is responsible for compliance with all reporting requirements described in this paragraph.
 

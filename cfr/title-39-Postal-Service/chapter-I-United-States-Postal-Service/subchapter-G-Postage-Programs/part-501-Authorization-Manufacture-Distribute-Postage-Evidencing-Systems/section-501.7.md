@@ -1,7 +1,5 @@
 ##### § 501.7 Postage Evidencing System requirements. #####
 
-Link to an amendment published at 82 FR 60118, Dec. 19, 2017.
-
 (a) A Postage Evidencing System submitted to the Postal Service for approval must meet the requirements of the Intelligent Mail Indicia Performance Criteria published by PT. Copies of the current Performance Criteria may be requested via mail to the address in § 501.2(g).
 
 (b) The provider must affix to all meters a cautionary message providing the meter user with basic reminders on leasing and meter movement.
@@ -18,7 +16,7 @@ REWARD UP TO $50,000 for information leading to the conviction of any person who
 
 (2) Exceptions to the formatting of the required message are determined on a case-by-case basis. Any deviation from standardized meter message requirements must be approved in writing by the Postal Service.
 
-(c) The provider must ensure that any matter printed by a postage evidencing system, whether within the boundaries of the indicia or outside the clear zone as defined in DMM 604.4.0 and the Performance Criteria for Information-Based Indicia and Security Architecture for Open IBI Postage Evidencing Systems or Performance Criteria for Information-Based Indicia and Security Architecture for Closed IBI Postage Metering Systems, is:
+(c) The provider must ensure that, with the exception of Customized Postage products, any matter printed by a postage evidencing system, whether within the boundaries of the indicia or outside the clear zone as defined in DMM 604.4.0 and the Performance Criteria for Information-Based Indicia and Security Architecture for Open IBI Postage Evidencing Systems or Performance Criteria for Information-Based Indicia and Security Architecture for Closed IBI Postage Metering Systems, is:
 
 (1) Consistent with the Postal Service's intent to maintain neutrality on religious, social, political, legal, moral, or other public issues;
 
@@ -36,4 +34,4 @@ REWARD UP TO $50,000 for information leading to the conviction of any person who
 
 (3) The customer understands that images or other matter is not provided, approved, or endorsed in any way by the Postal Service.
 
-[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013]
+[71 FR 65733, Nov. 9, 2006, as amended at 78 FR 44439, July 24, 2013; 82 FR 60118, Dec. 19, 2017]

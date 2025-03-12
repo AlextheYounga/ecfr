@@ -1,5 +1,7 @@
 ##### § 32.15 Prerequisite certification. #####
 
+Link to an amendment published at 83 FR 22385, May 15, 2018.
+
 (a) Except as provided in the Act, at 42 U.S.C. 3796c-1 or Public Law 107-37, and unless, for good cause shown, the Director grants a waiver, no claim shall be approved unless the following (which shall be necessary, but not sufficient, for such approval) are filed with the PSOB Office:
 
 (1) Subject to paragraphs (b) and (d) of this section, a certification from the public agency in which the public safety officer served (as of the injury date) that he died as a direct and proximate result of a line of duty injury, and either -

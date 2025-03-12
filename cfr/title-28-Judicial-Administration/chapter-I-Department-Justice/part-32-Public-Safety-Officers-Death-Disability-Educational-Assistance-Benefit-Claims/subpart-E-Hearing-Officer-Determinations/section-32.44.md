@@ -1,5 +1,7 @@
 ##### § 32.44 Hearing Officer determination. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) Upon his determining a claim, the Hearing Officer shall file a notice of the same simultaneously with the Director (for his review under subpart F of this part in the event of approval) and the PSOB Office, which notice shall specify the factual findings and legal conclusions that support it.
 
 (b) Upon a Hearing Officer's denying a claim, the PSOB Office shall serve notice of the same upon the claimant (and upon any other claimant who may have filed a claim with respect to the same public safety officer), which notice shall -

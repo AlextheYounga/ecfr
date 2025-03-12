@@ -1,5 +1,7 @@
 ##### § 32.24 PSOB Office determination. #####
 
+Link to an amendment published at 83 FR 22386, May 15, 2018.
+
 (a) Upon its approving or denying a claim, the PSOB Office shall serve notice of the same upon the claimant. In the event of a denial, such notice shall -
 
 (1) Specify the factual findings and legal conclusions that support it; and

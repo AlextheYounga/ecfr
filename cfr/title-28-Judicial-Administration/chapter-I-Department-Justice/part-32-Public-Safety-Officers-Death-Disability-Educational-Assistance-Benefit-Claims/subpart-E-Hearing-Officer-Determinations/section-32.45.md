@@ -1,5 +1,7 @@
 ##### § 32.45 Hearings. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) Except with respect to a remand or referral, at the election of a claimant under subpart B or C of this part, the Hearing Officer shall hold a hearing, at a location agreeable to the claimant and the Officer (or, otherwise, at a location ruled by the Hearing Officer to be suitable), for the sole purposes of obtaining, consistent with § 32.5(c),
 
 (1) Evidence from the claimant and his fact or expert witnesses; and

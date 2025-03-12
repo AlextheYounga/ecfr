@@ -2,7 +2,7 @@
 
 (a) *General.* Federal recreational groundfish regulations are not intended to supersede any more restrictive state recreational groundfish regulations relating to federally-managed groundfish. The bag limits include fish taken in both state and Federal waters.
 
-(b) *Gear restrictions.* The only types of fishing gear authorized for recreational fishing are hook-and-line and spear. Spears may be propelled by hand or by mechanical means. More fishery-specific gear restrictions may be required by state as noted in paragraph (c) of this section (*e.g.* California's recreational “other flatfish” fishery).
+(b) *Gear restrictions.* The only types of fishing gear authorized for recreational fishing are hook-and-line and spear. Spears may be propelled by hand or by mechanical means. More fishery-specific gear restrictions may be required by state as noted in paragraph (c) of this section (e.g., California's recreational “other flatfish” fishery).
 
 (c) *State-specific recreational fishery management measures.* Federal recreational groundfish regulations are not intended to supersede any more restrictive State recreational groundfish regulations relating to federally-managed groundfish. Off the coast of Washington, Oregon, and California, boat limits apply, whereby each fisher aboard a vessel may continue to use angling gear until the combined daily limits of groundfish for all licensed and juvenile anglers aboard has been attained (additional state restrictions on boat limits may apply).
 

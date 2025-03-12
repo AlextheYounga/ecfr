@@ -1,5 +1,7 @@
 ##### § 32.5 Evidence. #####
 
+Link to an amendment published at 83 FR 22383, May 15, 2018.
+
 (a) Except as otherwise may be expressly provided in the Act or this part, a claimant has the burden of persuasion as to all material issues of fact, and by the standard of proof of “more likely than not.”
 
 (b) Except as otherwise may be expressly provided in this part, the PSOB determining official may, at his discretion, consider (but shall not be bound by) the factual findings of a public agency.

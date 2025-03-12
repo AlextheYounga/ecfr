@@ -1,5 +1,7 @@
 ##### § 32.2 Computation of time; filing. #####
 
+Link to an amendment published at 83 FR 22378, May 15, 2018.
+
 (a) In computing any period of time prescribed or allowed, the day of the act, event, or default from which the designated period of time begins to run shall not be included. The last day of the period so computed shall be included, unless it is a Saturday, a Sunday, or a federal legal holiday, or, when the act to be done is a filing with the PSOB Office, a day on which weather or other conditions have caused that Office to be closed or inaccessible, in which event the period runs until the end of the next day that is not one of the aforedescribed days.
 
 (b) A filing is deemed filed with the PSOB Office, a Hearing Officer, the Director, or any other OJP office, -officer, -employee, or -agent, only on the day that it actually is received at the office of the same. When a filing is prescribed to be filed with more than one of the foregoing, it shall be deemed filed as of the day the last such one so receives it.

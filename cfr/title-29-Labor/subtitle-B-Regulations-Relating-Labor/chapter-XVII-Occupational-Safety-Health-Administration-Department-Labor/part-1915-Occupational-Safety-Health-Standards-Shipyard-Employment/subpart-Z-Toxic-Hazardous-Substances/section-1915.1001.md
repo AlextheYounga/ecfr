@@ -1,5 +1,7 @@
 ##### § 1915.1001 Asbestos. #####
 
+Link to an amendment published at 84 FR 21555, May 14, 2019.
+
 (a) *Scope and application.* This section regulates asbestos exposure in all shipyard employment work as defined in 29 CFR part 1915, including but not limited to the following:
 
 (1) Demolition or salvage of structures, vessels, and vessel sections where asbestos is present;

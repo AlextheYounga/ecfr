@@ -1,5 +1,7 @@
 ##### § 32.22 Time for filing claim. #####
 
+Link to an amendment published at 83 FR 22386, May 15, 2018.
+
 (a) Unless, for good cause shown, the Director extends the time for filing, no claim shall be considered if it is filed with the PSOB Office after the later of -
 
 (1) Three years after the injury date; or

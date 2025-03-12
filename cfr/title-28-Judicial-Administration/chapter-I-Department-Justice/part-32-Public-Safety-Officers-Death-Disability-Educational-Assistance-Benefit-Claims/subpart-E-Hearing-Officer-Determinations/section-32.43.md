@@ -1,5 +1,7 @@
 ##### § 32.43 Appointment and assignment of Hearing Officers. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) Pursuant to 42 U.S.C. 3787 (employment and authority of hearing officers), Hearing Officers may be appointed from time to time by the Director, to remain on the roster of such Officers at his pleasure.
 
 (b) Upon the filing of a request for a Hearing Officer determination (or upon remand or referral), the PSOB Office shall assign the claim to a Hearing Officer on the roster; the PSOB Office may assign a particular claim to a specific Hearing Officer if it judges, in its discretion, that his experience or expertise suit him especially for it.

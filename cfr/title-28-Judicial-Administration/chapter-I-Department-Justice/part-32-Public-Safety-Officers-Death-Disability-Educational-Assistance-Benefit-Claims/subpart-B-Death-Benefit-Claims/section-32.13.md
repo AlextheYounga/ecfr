@@ -1,5 +1,7 @@
 ##### § 32.13 Definitions. #####
 
+Link to an amendment published at 83 FR 22384, May 15, 2018.
+
 *Adoptive parent of a public safety officer* means any individual who (not being a step-parent), as of the injury date, was the legally-adoptive parent of the public safety officer, or otherwise was in a child-parent relationship with him.
 
 *Beneficiary of a life insurance policy of a public safety officer* - An individual (living or deceased on the date of death of the public safety officer) is designated as beneficiary of a life insurance policy of such officer as of such date, only if the designation is, as of such date, legal and valid (as a designation of beneficiary of a life insurance policy) and unrevoked (by such officer or by operation of law) or otherwise unterminated, except that -

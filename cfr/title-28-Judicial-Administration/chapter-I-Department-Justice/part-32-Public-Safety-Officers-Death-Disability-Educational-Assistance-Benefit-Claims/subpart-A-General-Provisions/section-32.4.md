@@ -1,5 +1,7 @@
 ##### § 32.4 Terms; construction, severability; effect. #####
 
+Link to an amendment published at 83 FR 22382, May 15, 2018.
+
 (a) In determining the meaning of any provision of this part, unless the context should indicate otherwise, the first three provisions of 1 U.S.C. 1 (rules of construction) shall apply.
 
 (b) If benefits are denied to any individual pursuant to the Act, at 42 U.S.C. 3796a(4), or otherwise because his actions were a substantial contributing factor to the death of the public safety officer, such individual shall be presumed irrebuttably, for all purposes, not to have survived the officer.

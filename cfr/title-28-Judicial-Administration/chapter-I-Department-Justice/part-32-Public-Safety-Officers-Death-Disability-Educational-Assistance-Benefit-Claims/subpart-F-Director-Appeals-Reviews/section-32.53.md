@@ -1,5 +1,7 @@
 ##### § 32.53 Review. #####
 
+Link to an amendment published at 83 FR 22387, May 15, 2018.
+
 (a) Upon the filing of the approval (under subpart E of this part) of a claim, the Director shall review the same.
 
 (b) The Director may review -

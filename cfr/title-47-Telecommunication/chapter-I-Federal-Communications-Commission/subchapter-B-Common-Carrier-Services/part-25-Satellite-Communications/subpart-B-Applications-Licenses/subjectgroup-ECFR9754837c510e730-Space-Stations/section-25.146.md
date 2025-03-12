@@ -22,4 +22,4 @@
 
 (e) An NGSO FSS licensee or market access recipient must ensure that ephemeris data for its constellation is available to all operators of authorized, in-orbit, co-frequency satellite systems in a manner that is mutually acceptable.
 
-[82 FR 59985, Dec. 18, 2017]Effective Date Note:At 82 FR 59985, Dec. 18, 2017, § 25.146 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[82 FR 59985, Dec. 18, 2017]Effective Date Note:At 82 FR 59985, Dec. 18, 2017, § 25.146 was revised. This section contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget. At 83 FR 22391, May 15, 2018, the effective date was announced as May 31, 2018.

@@ -100,7 +100,7 @@
 
 *Point Judith Light* means the aid to navigation light located at Point Judith, RI, and defined as follows: Located at 41°21.7′ N. lat., 71°28.9′ W. long.; is 65 ft (19.8 m) above the water; and is shown from an octagonal tower 51 ft (15.5 m) high.
 
-*Qualifying year* means any calendar year during the period from March 25, 1991, through September 1, 1999, excluding the time periods in calendar years 1991 and 1999 that are outside the qualification period (i.e., January 1, 1991 through March 24, 1991, and September 2, 1999, through December 31, 1999), and refers to the specific year selected by the applicant for the purposes of qualifying for access to the lobster trap fishery in Areas 3, 4 and/or 5 under the requirements set forth in 697.4(a)(7)(vi-x).
+*Qualifying year* means any calendar year during the period from March 25, 1991, through September 1, 1999, excluding the time periods in calendar years 1991 and 1999 that are outside the qualification period (*i.e.*, January 1, 1991 through March 24, 1991, and September 2, 1999, through December 31, 1999), and refers to the specific year selected by the applicant for the purposes of qualifying for access to the lobster trap fishery in Areas 3, 4 and/or 5 under the requirements set forth in 697.4(a)(7)(vi-x).
 
 *Recreational fishing* means fishing that is not intended to, nor results in the barter, trade, or sale of fish.
 
