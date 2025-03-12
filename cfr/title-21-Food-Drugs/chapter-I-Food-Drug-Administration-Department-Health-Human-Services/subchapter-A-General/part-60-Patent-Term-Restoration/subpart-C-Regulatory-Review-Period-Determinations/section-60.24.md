@@ -1,6 +1,6 @@
 ##### § 60.24 Revision of regulatory review period determinations. #####
 
-(a) Any person may request a revision of the regulatory review period determination within 60 days after its initial publication in the Federal Register. The request shall be sent to the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. The request shall specify the following:
+(a) Any person may request a revision of the regulatory review period determination within 60 days after its initial publication in the Federal Register. The request shall be sent to the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. The request shall specify the following:
 
 (1) The type of action requested;
 

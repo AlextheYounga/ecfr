@@ -1,5 +1,7 @@
 ##### § 11.55 Appeal to the USPTO Director. #####
 
+Link to an amendment published at 88 FR 45088, July 14, 2023.
+
 (a) Within 14 days after the date of the initial decision of the hearing officer under §§ 11.25 or 11.54, either party may appeal to the USPTO Director by filing a notice of appeal. The notice shall be filed with the General Counsel for the USPTO Director at the address set forth in § 1.1(a)(3)(iv) of this chapter and served on the opposing party. If both parties file notices of appeal, the first to file is deemed the appellant for purposes of this rule. If both file on the same day, the respondent is deemed the appellant.
 
 (b) Any notice of cross-appeal shall be filed within 14 days after the date of service of the notice of appeal.

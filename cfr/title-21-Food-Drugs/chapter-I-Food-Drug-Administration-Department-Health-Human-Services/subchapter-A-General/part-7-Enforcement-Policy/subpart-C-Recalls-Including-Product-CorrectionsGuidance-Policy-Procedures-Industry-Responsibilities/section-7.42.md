@@ -30,7 +30,7 @@
 
 (ii) Public warning through specialized news media, e.g., professional or trade press, or to specific segments of the population such as physicians, hospitals, etc.
 
-(3) *Effectiveness checks.* The purpose of effectiveness checks is to verify that all consignees at the recall depth specified by the strategy have received notification about the recall and have taken appropriate action. The method for contacting consignees may be accomplished by personal visits, telephone calls, letters, or a combination thereof. A guide entitled “Methods for Conducting Recall Effectiveness Checks” that describes the use of these different methods is available upon request from the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. The recalling firm will ordinarily be responsible for conducting effectiveness checks, but the Food and Drug Administration will assist in this task where necessary and appropriate. The recall strategy will specify the method(s) to be used for and the level of effectiveness checks that will be conducted, as follows:
+(3) *Effectiveness checks.* The purpose of effectiveness checks is to verify that all consignees at the recall depth specified by the strategy have received notification about the recall and have taken appropriate action. The method for contacting consignees may be accomplished by personal visits, telephone calls, letters, or a combination thereof. A guide entitled “Methods for Conducting Recall Effectiveness Checks” that describes the use of these different methods is available upon request from the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852. The recalling firm will ordinarily be responsible for conducting effectiveness checks, but the Food and Drug Administration will assist in this task where necessary and appropriate. The recall strategy will specify the method(s) to be used for and the level of effectiveness checks that will be conducted, as follows:
 
 (i) Level A—100 percent of the total number of consignees to be contacted;
 
@@ -42,4 +42,4 @@
 
 (v) Level E—No effectiveness checks.
 
-[43 FR 26218, June 16, 1978, as amended at 46 FR 8455, Jan. 27, 1981; 59 FR 14363, Mar. 28, 1994; 68 FR 24879, May 9, 2003]
+[43 FR 26218, June 16, 1978, as amended at 46 FR 8455, Jan. 27, 1981; 59 FR 14363, Mar. 28, 1994; 68 FR 24879, May 9, 2003; 88 FR 45064, July 14, 2023]

@@ -1,6 +1,6 @@
 ##### § 17.47 Appeals. #####
 
-(a) Either the Center or any respondent may appeal an initial decision, including a decision not to withdraw a default judgment, or a decision granting summary decision to the Commissioner of Food and Drugs or other entity the Commissioner designates to decide the appeal. The Commissioner has currently designated the Departmental Appeals Board (DAB) to decide appeals under this part. Parties may appeal to the DAB by filing a notice of appeal with the DAB, Appellate Division MS6127, Departmental Appeals Board, United States Department of Health and Human Services, 330 Independence Ave. SW., Cohen Bldg., rm. G-644, Washington, DC 20201, and the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, in accordance with this section.
+(a) Either the Center or any respondent may appeal an initial decision, including a decision not to withdraw a default judgment, or a decision granting summary decision to the Commissioner of Food and Drugs or other entity the Commissioner designates to decide the appeal. The Commissioner has currently designated the Departmental Appeals Board (DAB) to decide appeals under this part. Parties may appeal to the DAB by filing a notice of appeal with the DAB, Appellate Division MS6127, Departmental Appeals Board, United States Department of Health and Human Services, 330 Independence Ave. SW., Cohen Bldg., rm. G-644, Washington, DC 20201, and the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, in accordance with this section.
 
 (b)(1) A notice of appeal may be filed at any time within 30 days after the presiding officer issues an initial decision or decision granting summary decision.
 
@@ -8,7 +8,7 @@
 
 (c) A notice of appeal shall be accompanied by a written brief of no greater length than that allowed for the posthearing brief. The notice must identify specific exceptions to the initial decision, must support each exception with citations to the record, and must explain the basis for each exception.
 
-(d) The opposing party may file a brief of no greater length than that allowed for the posthearing brief in opposition to exceptions within 30 days of receiving the notice of appeal and accompanying brief, unless such time period is extended by the Commissioner or the entity designated by the Commissioner to hear appeals on request of the opposing party for good cause shown. Any brief in opposition to exceptions shall be filed with the Division of Dockets Management and the DAB (addresses above).
+(d) The opposing party may file a brief of no greater length than that allowed for the posthearing brief in opposition to exceptions within 30 days of receiving the notice of appeal and accompanying brief, unless such time period is extended by the Commissioner or the entity designated by the Commissioner to hear appeals on request of the opposing party for good cause shown. Any brief in opposition to exceptions shall be filed with the Dockets Management Staff and the DAB (addresses above).
 
 (e) The appellant may file a reply brief not more than 10 pages in length within 10 days of being served with appellee's brief.
 

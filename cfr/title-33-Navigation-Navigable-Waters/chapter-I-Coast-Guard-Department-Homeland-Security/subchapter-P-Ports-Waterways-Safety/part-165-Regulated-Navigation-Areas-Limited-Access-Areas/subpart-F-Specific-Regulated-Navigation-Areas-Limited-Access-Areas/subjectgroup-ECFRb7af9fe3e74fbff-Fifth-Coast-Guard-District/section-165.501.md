@@ -1,10 +1,8 @@
 ##### § 165.501 Chesapeake Bay entrance and Hampton Roads, VA and adjacent waters—Regulated Navigation Area. #####
 
-Link to an amendment published at 88 FR 32970, May 23, 2023.
-
 (a) *Location.* The waters enclosed by the shoreline and the following lines are a Regulated Navigation Area:
 
-(1) *Offshore zone.* A line drawn due East from the mean low water mark at the North Carolina and Virginia border at latitude 36°33′03″ N, longitude 75°52′00″ W, to the Territorial Seas boundary line at latitude 36°33′05″ N, longitude 75°36′51″ W, thence generally Northeastward along the Territorial Seas boundary line to latitude 38°01′39″ N, longitude 74°57′18″ W, thence due West to the mean low water mark at the Maryland and Virginia border at latitude 38°01′39″ N, longitude 75°14′30″ W, thence South along the mean low water mark on the Virginia coast, and eastward of the Colregs Demarcation Lines across Chincoteague Inlet, Assawoman Inlet, Gargathy Inlet, Metompkin Inlet, Wachapreague Inlet, Quinby Inlet, Great Machipongo Inlet, Sand Shoal Inlet, New Inlet, Ship Shoal Inlet and Little Inlet, to the Colregs Demarcation Line across the mouth of Chesapeake Bay, continuing south along the Virginia low water mark and eastward of the Colregs Demarcation Line across Rudee Inlet to the point of beginning. All positions reference NAD 83.
+(1) *Offshore Zone.* A line drawn due East from the mean low water mark at the North Carolina and Virginia border at latitude 36°33′03″ N, longitude 75°52′00″ W, to the Territorial Seas boundary line at latitude 36°33′05″ N, longitude 75°36′51″ W, thence generally Northeastward along the Territorial Seas boundary line to latitude 38°01′39″ N, longitude 74°57′18″ W, thence due West to the mean low water mark at the Maryland and Virginia border at latitude 38°01′39″ N, longitude 75°14′30″ W, thence South along the mean low water mark on the Virginia coast, and eastward of the Colregs Demarcation Lines across Chincoteague Inlet, Assawoman Inlet, Gargathy Inlet, Metompkin Inlet, Wachapreague Inlet, Quinby Inlet, Great Machipongo Inlet, Sand Shoal Inlet, New Inlet, Ship Shoal Inlet and Little Inlet, to the Colregs Demarcation Line across the mouth of Chesapeake Bay, continuing south along the Virginia low water mark and eastward of the Colregs Demarcation Line across Rudee Inlet to the point of beginning. All positions reference NAD 83.
 
 (2) *Inland zone.* The waters enclosed by the shoreline and the following lines:
 
@@ -30,7 +28,7 @@ Link to an amendment published at 88 FR 32970, May 23, 2023.
 
 (xi) A line drawn across Little Creek along the eastern side of the Ocean View Avenue (U.S. Route 60) Bridge, Norfolk, Virginia.
 
-(xii) A line drawn across Lynnhaven Inlet along the northern side of Shore Drive (U.S. Route 60) Bridge, Virginia Beach, Virginia.
+(xii) A line drawn across Lynnhaven Inlet along the northern side of Shore Drive (U.S. Route 60) Bridge, Norfolk, Virginia.
 
 (b) *Definitions.* In this section:
 
@@ -38,7 +36,7 @@ Link to an amendment published at 88 FR 32970, May 23, 2023.
 
 *Coast Guard Patrol Commander* is a Coast Guard commissioned, warrant or petty officer who has been designated by the Commander, Coast Guard Sector Virginia.
 
-*Designated representative of the Captain of the Port* means a person, including the duty officer at the Coast Guard Sector Virginia, the Joint Harbor Operations Center watchstander, or the Coast Guard or Navy Patrol Commander who has been authorized by the Captain of the Port to act on his or her behalf and at his or her request to carry out such orders and directions as needed. All patrol vessels shall display the Coast Guard Ensign at all times when underway.
+*Designated representative of the Captain of the Port* means a person, including the command duty officer at Coast Guard Sector Virginia or the Coast Guard or Navy Patrol Commander who has been authorized by the Captain of the Port to act on his or her behalf and at his or her request to carry out such orders and directions as needed. All patrol vessels shall display the Coast Guard Ensign at all times when underway.
 
 *I-664 Bridge Tunnel* means the Monitor Merrimac Bridge Tunnel.
 
@@ -54,17 +52,19 @@ Link to an amendment published at 88 FR 32970, May 23, 2023.
 
 (1) Law enforcement.
 
-(2) Servicing aids to navigation.
+(2) Search and rescue.
 
-(3) Surveying, maintenance, or improvement of waters in the Regulated Navigation Area.
+(3) Servicing aids to navigation.
 
-(d) *Regulations*—(1) *Anchoring restrictions.* No vessel over 65 feet long may anchor or moor in the inland waters of the Regulated Navigation Area outside an anchorage designated in § 110.168 of this title, with these exceptions:
+(4) Surveying, maintenance, or improvement of waters in the Regulated Navigation Area.
+
+(d) *Regulations.* (1) *Anchoring restrictions.* No vessel over 65 feet long may anchor or moor in the inland waters of the Regulated Navigation Area outside an anchorage designated in § 110.168 of this title, with these exceptions:
 
 (i) The vessel has the permission of the Captain of the Port.
 
 (ii) Only in an emergency, when unable to proceed without endangering the safety of persons, property, or the environment, may a vessel anchor in a channel.
 
-(iii) A vessel may not anchor within the confines of Little Creek Harbor, Desert Cove, or Little Creek Cove without the permission of the Captain of the Port. The Captain of the Port shall consult with the Commander, Naval Amphibious Base Little Creek, before granting permission to anchor within this area.
+(iii) A vessel may not anchor within the confines of Little Creek Harbor, Desert Cove, or Little Creek Cove without the permission of the Captain of the Port or designated representative. The Captain of the Port shall consult with the Commander, Joint Expeditionary Base Little Creek-Fort Story, before granting permission to anchor within this area.
 
 (2) *Anchoring detail requirements.* A self-propelled vessel over 100 gross tons, which is equipped with an anchor or anchors (other than a tugboat equipped with bow fenderwork of a type of construction that prevents an anchor being rigged for quick release), that is underway within two nautical miles of the CBBT or the I-664 Bridge Tunnel shall station its personnel at locations on the vessel from which they can anchor the vessel without delay in an emergency.
 
@@ -96,7 +96,7 @@ Link to an amendment published at 88 FR 32970, May 23, 2023.
 
 (6) *Requirements for navigation charts, radars, and pilots.* No vessel over 100 gross tons may enter the Regulated Navigation Area, unless it has on board:
 
-(i) Corrected charts of the Regulated Navigation Area. Instead of corrected paper charts, warships or other vessels owned, leased, or operated by the United States Government and used only in government noncommercial service may carry electronic charting and navigation systems that have met the applicable agency regulations regarding navigation safety.
+(i) Corrected paper or electronic charts of the Regulated Navigation Area.
 
 (ii) An operative radar during periods of reduced visibility;
 
@@ -106,32 +106,30 @@ Link to an amendment published at 88 FR 32970, May 23, 2023.
 
 (ii) A vessel over 100 gross tons with an emergency that is located within two nautical miles of the CBBT or I-664 Bridge Tunnel shall notify the Captain of the Port of its location and the nature of the emergency, as soon as possible.
 
-(8) *Vessel speed limits*—(i) *Little Creek.* A vessel may not proceed at a speed over five knots between the Route 60 bridge and the mouth of Fishermans Cove (Northwest Branch of Little Creek).
+(8) *Vessel speed limits*—(i) *Little Creek.* A vessel may not proceed at a speed over five knots between the Route 60 Bridge and the mouth of Fishermans Cove (Northwest Branch of Little Creek).
 
 (ii) *Southern Branch of the Elizabeth River.* A vessel may not proceed at a speed over six knots between the junction of the Southern and Eastern Branches of the Elizabeth River and the Norfolk and Portsmouth Belt Line Railroad Bridge between Chesapeake and Portsmouth, Virginia.
 
 (iii) *Norfolk Harbor Reach.* Nonpublic vessels of 300 gross tons or more may not proceed at a speed over 10 knots between the Elizabeth River Channel Lighted Gong Buoy 5 of Norfolk Harbor Reach (southwest of Sewells Point) at approximately 36°58′00″ N, 076°20′00″ W, and gated Elizabeth River Channel Lighted Buoys 17 and 18 of Craney Island Reach (southwest of Norfolk International Terminal at approximately 36°54′17″ N, and 076°20′11″ W.
 
-(9) *Port security requirements.* Vessels in excess of 300 gross tons, including tug and barge combinations in excess of 300 gross tons (combined), shall not enter the Regulated Navigation Area, move within the Regulated Navigation Area, or be present within the Regulated Navigation Area, unless they comply with the following requirements:
+(9) *Port security requirements.* This paragraph shall only apply when the Commandant or the Captain of the Port sets MARSEC Level 2 or 3, as detailed in 33 CFR part 101, for any area, operation, or industry within the Regulated Navigation Area. Vessels in excess of 300 gross tons, including tug and barge combinations in excess of 300 gross tons (combined), shall not enter the Regulated Navigation Area, move within the Regulated Navigation Area, or be present within the Regulated Navigation Area, unless they comply with the following requirements:
 
 (i) Obtain authorization to enter the Regulated Navigation Area from the designated representative of the Captain of the Port prior to entry. All vessels entering or remaining in the Regulated Navigation Area may be subject to a Coast Guard boarding.
 
-(ii) Ensure that no person who is not a permanent member of the vessel's crew, or a member of a Coast Guard boarding team, boards the vessel without a valid purpose and photo identification.
+(ii) Report any departure from or movement within the Regulated Navigation Area to the designated representative of the Captain of the Port prior to getting underway.
 
-(iii) Report any departure from or movement within the Regulated Navigation Area to the designated representative of the Captain of the Port prior to getting underway.
+(iii) The designated representative of the Captain of the Port is the Sector Command Center (SCC) which shall be contacted on VHF-FM channel 12, or by calling (757) 668-5555.
 
-(iv) The designated representative of the Captain of the Port is the Sector Command Center (SCC)—Joint Harbor Operations Center (JHOC) which shall be contacted on VHF-FM channel 12, or by calling (757) 668-5555.
-
-(v) In addition to the authorities listed in this part, this paragraph is promulgated under the authority under 46 U.S.C. 70116.
+(iv) In addition to the authorities listed in this part, this paragraph is promulgated under the authority under 46 U.S.C. 70116.
 
 (e) *Waivers.* (1) The Captain of the Port may, upon request, waive any regulation in this section.
 
 (2) An application for a waiver must state the need for the waiver and describe the proposed vessel operations.
 
-(f) *Control of vessels within the regulated navigation area.* (1) When necessary to prevent damage, destruction or loss of any vessel, facility or port infrastructure, the Captain of the Port may direct the movement of vessels or issue orders requiring vessels to anchor or moor in specific locations.
+(f) *Control of vessels within the regulated navigation area.* (1) When necessary to avoid hazard to vessel traffic, facility or port infrastructure, or the public, the Captain of the Port may prohibit entry into the regulated area, direct the movement of a vessel or vessels, or issue orders requiring vessels to anchor or moor in specific locations.
 
-(2) If needed for the maritime, commercial or security interests of the United States, the Captain of the Port may order a vessel to move from the location in which it is anchored to another location within the Regulated Navigation Area.
+(2) If needed for the maritime, commercial or safety and security interests of the United States, the Captain of the Port may direct a vessel or vessels to move from its current location to another location within the Regulated Navigation Area, or to leave the Regulated Navigation Area completely.
 
 (3) The master of a vessel within the Regulated Navigation Area shall comply with any orders or directions issued to the master's vessel by the Captain of the Port.
 
-[CGD05-02-099, 68 FR 35175, June 12, 2003, as amended by USCG-2006-25150, 71 FR 39211, July 12, 2006; USCG-0943, 85 FR 6806, Feb. 6, 2020]
+[USCG-2023-0059, 88 FR 32970, May 23, 2023]

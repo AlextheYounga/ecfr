@@ -32,7 +32,7 @@ DRUGS IN DISPENSERS PRESSURIZED BY GASEOUS PROPELLANTS. (See also § 310.201(a) 
 
 The warnings herein shall appear prominently and conspicuously, but in no case may the letters be less than1/16 inch in height.
 
-If the label of any package is too small to accommodate the warnings, the Commissioner may establish by regulation an acceptable alternative method, e.g., a type size smaller than1/16 inch in height. A petition requesting such a regulation, as an amendment to this paragraph, shall be submitted to the Division of Dockets Management in the form established in part 10 of this chapter.
+If the label of any package is too small to accommodate the warnings, the Commissioner may establish by regulation an acceptable alternative method, e.g., a type size smaller than1/16 inch in height. A petition requesting such a regulation, as an amendment to this paragraph, shall be submitted to the Dockets Management Staff in the form established in part 10 of this chapter.
 
 *Warning*—Avoid spraying in eyes. Contents under pressure. Do not puncture or incinerate. Do not store at temperature above 120 °F. Keep out of reach of children.
 

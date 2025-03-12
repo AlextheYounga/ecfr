@@ -14,6 +14,6 @@
 
 (1) The expiration of the 180-day period for filing a due diligence petition; or
 
-(2) If FDA has received a request for a revision, a due diligence petition, or a request for a hearing, upon resolution of the request for a revision, the petition, or the hearing, whichever is later. FDA will send a copy of the notification to the applicant and file a copy of the notification in the docket established for the application in FDA's Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(2) If FDA has received a request for a revision, a due diligence petition, or a request for a hearing, upon resolution of the request for a revision, the petition, or the hearing, whichever is later. FDA will send a copy of the notification to the applicant and file a copy of the notification in the docket established for the application in FDA's Dockets Management Staff (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 [53 FR 7305, Mar. 7, 1988, as amended at 59 FR 14364, Mar. 28, 1994]

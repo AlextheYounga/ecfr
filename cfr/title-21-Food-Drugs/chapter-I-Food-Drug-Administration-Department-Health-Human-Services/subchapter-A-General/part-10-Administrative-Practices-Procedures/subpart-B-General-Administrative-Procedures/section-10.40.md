@@ -28,23 +28,23 @@
 
 (vi) An address for submitting written comments;
 
-(vii) Supplementary information about the notice in the form of a preamble that summarizes the proposal and the facts and policy underlying it, includes references to all information on which the Commissioner relies for the proposal (copies or a full list of which are a part of the docket file on the matter in the office of the Division of Dockets Management), and cites the authority under which the regulation is proposed;
+(vii) Supplementary information about the notice in the form of a preamble that summarizes the proposal and the facts and policy underlying it, includes references to all information on which the Commissioner relies for the proposal (copies or a full list of which are a part of the docket file on the matter in the office of the Dockets Management Staff), and cites the authority under which the regulation is proposed;
 
 (viii) Either the terms or substance of the proposed regulation or a description of the subjects and issues involved;
 
 (ix) A reference to the existence or lack of need for an environmental impact statement under § 25.52 of this chapter; and
 
-(x) The docket number of the matter, which identifies the docket file established by the Division of Dockets Management for all relevant submissions.
+(x) The docket number of the matter, which identifies the docket file established by the Dockets Management Staff for all relevant submissions.
 
 (2) The proposal will provide 60 days for comment, although the Commissioner may shorten or lengthen this time period for good cause. In no event is the time for comment to be less than 10 days.
 
-(3) After publication of the proposed rule, any interested person may request the Commissioner to extend the comment period for an additional specified period by submitting a written request to the Division of Dockets Management stating the grounds for the request. The request is submitted under § 10.35 but should be headed “REQUEST FOR EXTENSION OF COMMENT PERIOD.”
+(3) After publication of the proposed rule, any interested person may request the Commissioner to extend the comment period for an additional specified period by submitting a written request to the Dockets Management Staff stating the grounds for the request. The request is submitted under § 10.35 but should be headed “REQUEST FOR EXTENSION OF COMMENT PERIOD.”
 
 (i) A request must discuss the reason comments could not feasibly be submitted within the time permitted, or that important new information will shortly be available, or that sound public policy otherwise supports an extension of the time for comment. The Commissioner may grant or deny the request or may grant an extension for a time period different from that requested. An extension may be limited to specific persons who have made and justified the request, but will ordinarily apply to all interested persons.
 
-(ii) A comment time extension of 30 days or longer will be published in the Federal Register and will be applicable to all interested persons. A comment time extension of less than 30 days will be the subject either of a letter or memorandum filed with the Division of Dockets Management or of a notice published in the Federal Register.
+(ii) A comment time extension of 30 days or longer will be published in the Federal Register and will be applicable to all interested persons. A comment time extension of less than 30 days will be the subject either of a letter or memorandum filed with the Dockets Management Staff or of a notice published in the Federal Register.
 
-(4) A notice of proposed rulemaking will request that four copies of all comments be submitted to the Division of Dockets Management, except that individuals may submit single copies. Comments will be stamped with the date of receipt and will be numbered chronologically.
+(4) A notice of proposed rulemaking will request that four copies of all comments be submitted to the Dockets Management Staff, except that individuals may submit single copies. Comments will be stamped with the date of receipt and will be numbered chronologically.
 
 (5) Persons submitting comments critical of a proposed regulation are encouraged to include their preferred alternative wording.
 
@@ -80,11 +80,11 @@
 
 (3) A notice published in the Federal Register requesting information and views before the Commissioner determines whether to propose a regulation.
 
-(4) A draft of a proposed regulation placed on public display in the office of the Division of Dockets Management. If this procedure is used, the Commissioner shall publish an appropriate notice in the Federal Register stating that the document is available and specifying the time within which comments on the draft proposal may be submitted orally or in writing.
+(4) A draft of a proposed regulation placed on public display in the office of the Dockets Management Staff. If this procedure is used, the Commissioner shall publish an appropriate notice in the Federal Register stating that the document is available and specifying the time within which comments on the draft proposal may be submitted orally or in writing.
 
 (5) A revised proposal published in the Federal Register, which proposal is subject to all the provisions in this section relating to proposed regulations.
 
-(6) A tentative final regulation or tentative revised final regulation placed on public display in the office of the Division of Dockets Management and, if deemed desirable by the Commissioner, published in the Federal Register. If the tentative regulation is placed on display only, the Commissioner shall publish an appropriate notice in the Federal Register stating that the document is available and specifying the time within which comments may be submitted orally or in writing on the tentative final regulation. The Commissioner shall mail a copy of the tentative final regulation and the Federal Register notice to each person who submitted comments on the proposed regulation if one has been published.
+(6) A tentative final regulation or tentative revised final regulation placed on public display in the office of the Dockets Management Staff and, if deemed desirable by the Commissioner, published in the Federal Register. If the tentative regulation is placed on display only, the Commissioner shall publish an appropriate notice in the Federal Register stating that the document is available and specifying the time within which comments may be submitted orally or in writing on the tentative final regulation. The Commissioner shall mail a copy of the tentative final regulation and the Federal Register notice to each person who submitted comments on the proposed regulation if one has been published.
 
 (7) A final regulation published in the Federal Register that provides an opportunity for the submission of further comments, in accordance with paragraph (e)(1) of this section.
 
@@ -96,19 +96,19 @@
 
 (2) If a petition for reconsideration or for a stay of action is filed, the administrative record specified in §§ 10.33(k) and 10.35(h).
 
-(3) The proposed rule published in the Federal Register, including all information identified or filed by the Commissioner with the Division of Dockets Management on the proposal.
+(3) The proposed rule published in the Federal Register, including all information identified or filed by the Commissioner with the Dockets Management Staff on the proposal.
 
 (4) All comments received on the proposal, including all information submitted as a part of the comments.
 
-(5) The notice promulgating the final regulation, including all information identified or filed by the Commissioner with the Division of Dockets Management as part of the administrative record of the final regulation.
+(5) The notice promulgating the final regulation, including all information identified or filed by the Commissioner with the Dockets Management Staff as part of the administrative record of the final regulation.
 
 (6) The transcripts, minutes of meetings, reports, Federal Register notices, and other documents resulting from the procedures specified in paragraph (f) of this section, but not the transcript of a closed portion of a public advisory committee meeting.
 
-(7) All documents submitted to the Division of Dockets Management under § 10.65(h).
+(7) All documents submitted to the Dockets Management Staff under § 10.65(h).
 
 (h) The record of the administrative proceeding closes on the date of publication of the final regulation in the Federal Register unless some other date is specified. Thereafter, any interested person may submit a petition for reconsideration under § 10.33 or a petition for stay of action under § 10.35. A person who wishes to rely upon information or views not included in the administrative record shall submit it to the Commissioner with a new petition to modify the final regulation.
 
-(i) The Division of Dockets Management shall maintain a chronological list of all regulations proposed and promulgated under this section and § 10.50 (which list will not include regulations resulting from petitions filed and assigned a docket number under § 10.30) showing—
+(i) The Dockets Management Staff shall maintain a chronological list of all regulations proposed and promulgated under this section and § 10.50 (which list will not include regulations resulting from petitions filed and assigned a docket number under § 10.30) showing—
 
 (1) The docket number (for a petition submitted directly to a center, the list also includes the number or other designation assigned by the center, e.g., the number assigned to a food additive petition);
 

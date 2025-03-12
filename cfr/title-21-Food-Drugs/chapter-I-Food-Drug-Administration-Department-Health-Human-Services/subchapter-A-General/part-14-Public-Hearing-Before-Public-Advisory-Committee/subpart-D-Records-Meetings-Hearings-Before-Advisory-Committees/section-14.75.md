@@ -28,7 +28,7 @@
 
 (2) Material provided to the advisory committee by a person making a presentation described in § 14.25(c) and which is prohibited from public disclosure under part 20 and the regulations referenced there.
 
-(c) The Division of Dockets Management (HFA-305) will maintain a file for each committee containing the following principal records for ready access by the public:
+(c) The Dockets Management Staff (HFA-305) will maintain a file for each committee containing the following principal records for ready access by the public:
 
 (1) The committee charter.
 

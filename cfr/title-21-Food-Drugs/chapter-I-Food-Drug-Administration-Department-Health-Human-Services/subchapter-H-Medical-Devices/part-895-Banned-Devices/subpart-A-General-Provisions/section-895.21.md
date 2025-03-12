@@ -28,7 +28,7 @@
 
 (7) The determination as to whether, and the reasons why, the banning should apply to devices already in commercial distribution or those already sold to the ultimate user, or both; and
 
-(8) Any other data and information that the Commissioner believes are pertinent to the proceeding. The notice will afford all interested persons an opportunity to submit written comments within 30 days after the date of publication of the proposed regulation. All nonconfidential information upon which the proposed finding is based, including the recommendations of the panel, will be available for public review in the Division of Dockets Management, Food and Drug Administration.
+(8) Any other data and information that the Commissioner believes are pertinent to the proceeding. The notice will afford all interested persons an opportunity to submit written comments within 30 days after the date of publication of the proposed regulation. All nonconfidential information upon which the proposed finding is based, including the recommendations of the panel, will be available for public review in the Dockets Management Staff, Food and Drug Administration.
 
 (e)(1) If, after reviewing the administrative record of the regulatory hearing before the Food and Drug Administration, if any, the written comments received on the proposed regulation, and any additional available data and information, the Commissioner determines to ban a device, a final regulation to this effect will be published in the Federal Register. The final regulation will amend subpart B by adding the name or description of the device, or both, to the list of banned devices.
 
@@ -40,4 +40,4 @@
 
 (h) Upon petition of any interested person submitted in accordance with § 10.30 of this chapter, or as a matter of discretion, the Commissioner may institute proceedings to amend or revoke a regulation that made a device a banned device if the Commissioner finds that the conditions that constituted the basis for the regulation banning the device are no longer applicable. When appropriate, the procedures in this section will be employed in such proceedings.
 
-[44 FR 29221, May 18, 1979, as amended at 53 FR 11254, Apr. 6, 1988; 57 FR 58405, Dec. 10, 1992; 65 FR 43690, July 14, 2000]
+[44 FR 29221, May 18, 1979, as amended at 53 FR 11254, Apr. 6, 1988; 57 FR 58405, Dec. 10, 1992; 65 FR 43690, July 14, 2000; 88 FR 45067, July 14, 2023]

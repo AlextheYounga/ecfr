@@ -8,7 +8,7 @@
 
 (d) For any OTC drug product intended for oral ingestion and labeled for use by children under 6 years of age, the amount of alcohol in the product shall not exceed 0.5 percent.
 
-(e) The Food and Drug Administration will grant an exemption from paragraphs (b), (c), and (d) of this section where appropriate, upon petition under the provisions of § 10.30 of this chapter. Appropriate cause, such as a specific solubility or manufacturing problem, must be adequately documented in the petition. Decisions with respect to requests for exemption shall be maintained in a permanent file for public review by the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(e) The Food and Drug Administration will grant an exemption from paragraphs (b), (c), and (d) of this section where appropriate, upon petition under the provisions of § 10.30 of this chapter. Appropriate cause, such as a specific solubility or manufacturing problem, must be adequately documented in the petition. Decisions with respect to requests for exemption shall be maintained in a permanent file for public review by the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (f) Ipecac syrup is exempt from the provisions of paragraph (d) of this section.
 
@@ -20,4 +20,4 @@
 
 (3) Orally ingested homeopathic drug products.
 
-[60 FR 13595, Mar. 13, 1995, as amended at 61 FR 58630, Nov. 18, 1996; 68 FR 24879, May 9, 2003]
+[60 FR 13595, Mar. 13, 1995, as amended at 61 FR 58630, Nov. 18, 1996; 68 FR 24879, May 9, 2003; 88 FR 45066, July 14, 2023]

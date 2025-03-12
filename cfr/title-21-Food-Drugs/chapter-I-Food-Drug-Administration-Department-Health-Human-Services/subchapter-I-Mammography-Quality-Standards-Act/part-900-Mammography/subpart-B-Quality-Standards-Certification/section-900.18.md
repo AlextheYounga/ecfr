@@ -34,11 +34,11 @@
 
 (d) *Ruling on applications.* (1) FDA may approve or deny, in whole or in part, a request for approval of an alternative standard or any amendment or extension thereof, and shall inform the applicant in writing of this action. The written notice shall state the manner in which the requested alternative standard differs from the agency standard and a summary of the reasons for approval or denial of the request. If the request is approved, the written notice shall also include the effective date and the termination date of the approval and a summary of the limitations and conditions attached to the approval and any other information that may be relevant to the approved request. Each approved alternative standard shall be assigned an identifying number.
 
-(2) Notice of an approved request for an alternative standard or any amendment or extension thereof shall be placed in the public docket file in the Division of Dockets Management and may also be in the form of a notice published in the Federal Register. The notice shall state the name of the applicant, a description of the published agency standard, and a description of the approved alternative standard, including limitations and conditions attached to the approval of the alternative standard.
+(2) Notice of an approved request for an alternative standard or any amendment or extension thereof shall be placed in the public docket file in the Dockets Management Staff and may also be in the form of a notice published in the Federal Register. The notice shall state the name of the applicant, a description of the published agency standard, and a description of the approved alternative standard, including limitations and conditions attached to the approval of the alternative standard.
 
 (3) Summaries of the approval of alternative standards, including information on their nature and number, shall be provided to the National Mammography Quality Assurance Advisory Committee.
 
-(4) All applications for approval of alternative standards and for amendments and extensions thereof and all correspondence (including written notices of approval) on these applications shall be available for public disclosure in the Division of Dockets Management, excluding patient identifiers and confidential commercial information.
+(4) All applications for approval of alternative standards and for amendments and extensions thereof and all correspondence (including written notices of approval) on these applications shall be available for public disclosure in the Dockets Management Staff, excluding patient identifiers and confidential commercial information.
 
 (e) *Amendment or extension of an alternative standard.* An application for amending or extending approval of an alternative standard shall include the following information:
 
@@ -56,4 +56,4 @@
 
 (g) *Withdrawal of approval of alternative requirements.* FDA shall amend or withdraw approval of an alternative standard whenever the agency determines that this action is necessary to protect the human health or otherwise is justified by § 900.12. Such action will become effective on the date specified in the written notice of the action sent to the applicant, except that it will become effective immediately upon notification of the applicant when FDA determines that such action is necessary to prevent an imminent health hazard.
 
-[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18444, Apr. 2, 2020]
+[62 FR 55976, Oct. 28, 1997; 62 FR 60614, Nov. 10, 1997, as amended at 75 FR 20916, Apr. 22, 2010; 85 FR 18444, Apr. 2, 2020; 88 FR 45067, July 14, 2023]

@@ -6,7 +6,7 @@
 
 (1) *Electronic submission.* Petitions (including any attachments) may be electronically submitted in accordance with paragraph (b)(3) of this section and § 10.20 through *http://www.regulations.gov* at Docket No. FDA 2013-S-0610. It is only necessary to submit one copy.
 
-(2) *Mail, delivery services, or other non-electronic submissions.* A petition (including any attachments), that is not electronically submitted under paragraph (b)(1) of this section, must be submitted in accordance with paragraph (b)(3) and § 10.20 and delivered to this address: Division of Dockets Management, Department of Health and Human Services, Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. It is only necessary to submit two copies.
+(2) *Mail, delivery services, or other non-electronic submissions.* A petition (including any attachments), that is not electronically submitted under paragraph (b)(1) of this section, must be submitted in accordance with paragraph (b)(3) of this section and § 10.20 and delivered to this address: Dockets Management Staff, Department of Health and Human Services, Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. Submit two copies (original and redacted version) for confidential petitions. Otherwise, only one copy is necessary.
 
 (3) *Petition format.* A petition submitted under paragraphs (b)(1) or (b)(2) of this section must be in accordance with § 10.20 and in the following format:
 
@@ -40,9 +40,9 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (Signature)(Name of petitioner)(Mailing address)(Telephone number)
 
-(c) A petition that appears to meet the requirements of paragraph (b)(3) of this section, § 10.20, and, if applicable, § 10.31, will be filed by the Division of Dockets Management, stamped with the date of filing, and assigned a unique docket number. The unique docket number identifies the docket file established by the Division of Dockets Management for all submissions relating to the petition, as provided in this part. Subsequent submissions relating to the matter must refer to the assigned docket number assigned in this paragraph and will be filed in the established docket file. Related petitions may be filed together and given the same docket number. The Division of Dockets Management will promptly notify the petitioner of the filing and unique docket number of the petition.
+(c) A petition that appears to meet the requirements of paragraph (b)(3) of this section, § 10.20, and, if applicable, § 10.31, will be filed by the Dockets Management Staff, stamped with the date of filing, and assigned a unique docket number. The unique docket number identifies the docket file established by the Dockets Management Staff for all submissions relating to the petition, as provided in this part. Subsequent submissions relating to the matter must refer to the assigned docket number assigned in this paragraph and will be filed in the established docket file. Related petitions may be filed together and given the same docket number. The Dockets Management Staff will promptly notify the petitioner of the filing and unique docket number of the petition.
 
-(d) An interested person may submit comments to the Division of Dockets Management on a filed petition, which comments become part of the docket file. The comments are to specify the docket number of the petition and include, if applicable, the verification under § 10.31, and may support or oppose the petition in whole or in part. A request for alternative or different administrative action must be submitted as a separate petition.
+(d) An interested person may submit comments to the Dockets Management Staff on a filed petition, which comments become part of the docket file. The comments are to specify the docket number of the petition and include, if applicable, the verification under § 10.31, and may support or oppose the petition in whole or in part. A request for alternative or different administrative action must be submitted as a separate petition.
 
 (e)(1) The Commissioner shall, in accordance with paragraph (e)(2), rule upon each petition filed under paragraph (c) of this section, taking into consideration (i) available agency resources for the category of subject matter, (ii) the priority assigned to the petition considering both the category of subject matter involved and the overall work of the agency, and (iii) time requirements established by statute.
 
@@ -80,7 +80,7 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (i) The record of the administrative proceeding consists of the following:
 
-(1) The petition, including all information on which it relies, filed by the Division of Dockets Management.
+(1) The petition, including all information on which it relies, filed by the Dockets Management Staff.
 
 (2) All comments received on the petition, including all information submitted as a part of the comments.
 
@@ -88,9 +88,9 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (4) The record, consisting of any transcripts, minutes of meetings, reports, Federal Register notices, and other documents resulting from the optional procedures specified in paragraph (h) of this section, except a transcript of a closed portion of a public advisory committee meeting.
 
-(5) The Commissioner's decision on the petition, including all information identified or filed by the Commissioner with the Division of Dockets Management as part of the record supporting the decision.
+(5) The Commissioner's decision on the petition, including all information identified or filed by the Commissioner with the Dockets Management Staff as part of the record supporting the decision.
 
-(6) All documents filed with the Division of Dockets Management under § 10.65(h).
+(6) All documents filed with the Dockets Management Staff under § 10.65(h).
 
 (7) If a petition for reconsideration or for a stay of action is filed under paragraph (j) of this section, the administrative record specified in § 10.33(k) or § 10.35(h).
 
@@ -98,11 +98,11 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (k) This section does not apply to the referral of a matter to a United States attorney for the initiation of court enforcement action and related correspondence, or to requests, suggestions, and recommendations made informally in routine correspondence received by FDA. Routine correspondence does not constitute a petition within the meaning of this section unless it purports to meet the requirements of this section. Action on routine correspondence does not constitute final administrative action subject to judicial review under § 10.45.
 
-(l) The Division of Dockets Management will maintain a chronological list of each petition filed under this section and § 10.85, but not of petitions submitted elsewhere in the agency under § 10.25(a)(1), showing:
+(l) The Dockets Management Staff will maintain a chronological list of each petition filed under this section and § 10.85, but not of petitions submitted elsewhere in the agency under § 10.25(a)(1), showing:
 
 (1) The docket number;
 
-(2) The date the petition was filed by the Division of Dockets Management;
+(2) The date the petition was filed by the Dockets Management Staff;
 
 (3) The name of the petitioner;
 
@@ -110,4 +110,4 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (5) The disposition of the petition.
 
-[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 50 FR 16656, Apr. 26, 1985; 54 FR 9034, Mar. 3, 1989; 57 FR 17980, Apr. 28, 1992; 59 FR 14364, Mar. 28, 1994; 62 FR 40592, July 29, 1997; 66 FR 6467, Jan. 22, 2001; 66 FR 12848, Mar. 1, 2001; 78 FR 76749, Dec. 19, 2013; 81 FR 78505, Nov. 8, 2016]
+[44 FR 22323, Apr. 13, 1979, as amended at 46 FR 8455, Jan. 27, 1981; 50 FR 16656, Apr. 26, 1985; 54 FR 9034, Mar. 3, 1989; 57 FR 17980, Apr. 28, 1992; 59 FR 14364, Mar. 28, 1994; 62 FR 40592, July 29, 1997; 66 FR 6467, Jan. 22, 2001; 66 FR 12848, Mar. 1, 2001; 78 FR 76749, Dec. 19, 2013; 81 FR 78505, Nov. 8, 2016; 88 FR 45064, July 14, 2023]

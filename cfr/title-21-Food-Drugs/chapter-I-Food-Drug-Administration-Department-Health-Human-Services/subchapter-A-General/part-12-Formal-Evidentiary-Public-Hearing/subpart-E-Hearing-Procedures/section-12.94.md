@@ -2,7 +2,7 @@
 
 (a) A hearing consists of the development of evidence and the resolution of factual issues as set forth in this subpart and in the prehearing order.
 
-(b) All orders, transcripts, written statements of position, written direct testimony, written interrogatories and responses, and any other written material submitted in the proceeding is a part of the administrative record of the hearing, and will be promptly placed on public display in the office of the Division of Dockets Management, except as provided in § 12.105.
+(b) All orders, transcripts, written statements of position, written direct testimony, written interrogatories and responses, and any other written material submitted in the proceeding is a part of the administrative record of the hearing, and will be promptly placed on public display in the office of the Dockets Management Staff, except as provided in § 12.105.
 
 (c) Written evidence, identified as such, is admissible unless a participant objects and the presiding officer excludes it on objection of a participant or on the presiding officer's own initiative.
 

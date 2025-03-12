@@ -1,5 +1,7 @@
 ##### § 11.504 Professional independence of a practitioner. #####
 
+Link to an amendment published at 88 FR 45088, July 14, 2023.
+
 (a) A practitioner or law firm shall not share legal fees with a non-practitioner, except that:
 
 (1) An agreement by a practitioner with the practitioner's firm, partner, or associate may provide for the payment of money, over a reasonable period of time after the practitioner's death, to the practitioner's estate or to one or more specified persons;

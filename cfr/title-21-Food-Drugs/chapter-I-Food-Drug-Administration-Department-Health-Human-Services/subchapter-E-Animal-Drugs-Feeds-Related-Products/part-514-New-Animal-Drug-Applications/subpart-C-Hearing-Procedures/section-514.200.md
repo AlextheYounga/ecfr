@@ -6,7 +6,7 @@
 
 (c) If the applicant desires to request a hearing:
 
-(1) Within 30 days after publication of the notice of opportunity for hearing, the applicant must submit to the Division of Dockets Management written objections and a request for a hearing in accordance with §§ 12.20 and 12.22. This request for a hearing must include each specific objection to the proposal on which a hearing is requested, together with a detailed description and analysis of the factual information (including all relevant clinical and other investigational data) the applicant will present in support of that objection. A request for a hearing may not rest upon mere allegations or denials or general descriptions of positions or contentions, but must set forth specific reliable evidence showing there is a genuine and substantial issue of fact that requires a hearing.
+(1) Within 30 days after publication of the notice of opportunity for hearing, the applicant must submit to the Dockets Management Staff written objections and a request for a hearing in accordance with §§ 12.20 and 12.22. This request for a hearing must include each specific objection to the proposal on which a hearing is requested, together with a detailed description and analysis of the factual information (including all relevant clinical and other investigational data) the applicant will present in support of that objection. A request for a hearing may not rest upon mere allegations or denials or general descriptions of positions or contentions, but must set forth specific reliable evidence showing there is a genuine and substantial issue of fact that requires a hearing.
 
 (2) If the Commissioner determines upon review of the data and information submitted in the objections and request for a hearing that a hearing is not justified because no genuine and substantial issue of fact precludes the refusal to approve the application or the withdrawal of approval of the application (for example, the applicant has not identified any adequate and well-controlled clinical investigations to support the claims of effectiveness), the Commissioner will enter an order denying the hearing and stating the final findings and conclusions.
 
@@ -26,4 +26,4 @@
 
 (d) The hearing will be open to the public; however, if the Commissioner finds that portions of the application which serve as a basis for the hearing contain information concerning a method or process entitled to protection as a trade secret, the part of the hearing involving such portions will not be public, unless the respondent so specifies in the request for a hearing.
 
-[81 FR 52997, Aug. 11, 2016]
+[81 FR 52997, Aug. 11, 2016, as amended 88 FR 45066, July 14, 2023]

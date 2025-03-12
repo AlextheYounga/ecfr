@@ -58,16 +58,15 @@
 
 (4) *Chemical quality.* (i)(A) Bottled water shall, when a composite of analytical units of equal volume from a sample is examined by the methods described in paragraph (b)(4)(i)(B) of this section, meet standards of chemical quality and shall not contain chemical substances in excess of the following concentrations:
 
-|            Substance             |Concentration in milligrams per liter|
-|----------------------------------|-------------------------------------|
-|       Chloride<sup>1</sup>       |                250.0                |
-|         Iron<sup>1</sup>         |                 0.3                 |
-|      Manganese<sup>1</sup>       |                0.05                 |
-|             Phenols              |                0.001                |
-|Total dissolved solids<sup>1</sup>|                500.0                |
-|         Zinc<sup>1</sup>         |                 5.0                 |
-
-<sup>1</sup> Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.
+|                                                                        Substance                                                                        |Concentration in milligrams per liter|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+|                                                                  Chloride<sup>1</sup>                                                                   |                250.0                |
+|                                                                    Iron<sup>1</sup>                                                                     |                 0.3                 |
+|                                                                  Manganese<sup>1</sup>                                                                  |                0.05                 |
+|                                                                         Phenols                                                                         |                0.001                |
+|                                                           Total dissolved solids<sup>1</sup>                                                            |                500.0                |
+|                                                                    Zinc <sup>1</sup>                                                                    |                 5.0                 |
+|<sup>1</sup> Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.|                                     |
 
 (B) Analyses conducted to determine compliance with paragraph (b)(4)(i)(A) of this section shall be made in accordance with the methods described in the applicable sections of “Standard Methods for the Examination of Water and Wastewater,” 15th Ed. (1980), or “Methods for Chemical Analysis of Water and Wastes,” Environmental Monitoring and Support Laboratory (EMSL), EPA-600/4-79-020, March 1983, U.S. Environmental Protection Agency (EPA), both of which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51.
 
@@ -82,8 +81,6 @@
 (*4*) “Part II: The Analysis of Trihalomethanes in Drinking Water by Liquid/Liquid Extraction,” which is cross-referenced in 40 CFR part 141, subpart C, appendix C;
 
 (ii)(A) Bottled water packaged in the United States to which no fluoride is added shall not contain fluoride in excess of the levels in Table 1 and these levels shall be based on the annual average of maximum daily air temperatures at the location where the bottled water is sold at retail.
-
-Table 1
 
 |Annual average of maximum daily air temperatures (°F)|Fluoride concentration in milligrams per liter|
 |-----------------------------------------------------|----------------------------------------------|
@@ -180,19 +177,18 @@ Table 1
 |PCB's (as decachlorobiphenyl) (1336-36-3)|               0.0005                |
 |          Picloram (1918-02-1)           |                 0.5                 |
 |           Simazine (122-34-9)           |                0.004                |
-|    2,3,7,8-TCDD (Dioxin) (1746-01-6)    |              3 × 10−8               |
+|    2,3,7,8-TCDD (Dioxin) (1746-01-6)    |         3 × 10<sup>−8</sup>         |
 |          Toxaphene (8001-35-2)          |                0.003                |
 |       2,4,5-TP (Silvex) (93-72-1)       |                0.05                 |
 
 (D) The allowable levels for certain chemicals for which EPA has established secondary maximum contaminant levels in its drinking water regulations (40 CFR part 143) are as follows:
 
-|    Contaminant    |Concentration in milligrams per liter|
-|-------------------|-------------------------------------|
-|     Aluminum      |                 0.2                 |
-|      Silver       |                 0.1                 |
-|Sulfate<sup>1</sup>|                250.0                |
-
-<sup>1</sup> Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.
+|                                                                       Contaminant                                                                       |Concentration in milligrams per liter|
+|---------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------|
+|                                                                        Aluminum                                                                         |                 0.2                 |
+|                                                                         Silver                                                                          |                 0.1                 |
+|                                                                  Sulfate <sup>1</sup>                                                                   |                250.0                |
+|<sup>1</sup> Mineral water is exempt from allowable level. The exemptions are aesthetically based allowable levels and do not relate to a health concern.|                                     |
 
 (E) Analyses to determine compliance with the requirements of paragraph (b)(4)(iii)(A) of this section shall be conducted in accordance with an applicable method and applicable revisions to the methods listed in paragraphs (b)(4)(iii)(E)(*1*) through (b)(4)(iii)(E)(*14*) of this section and described, unless otherwise noted, in “Methods for Chemical Analysis of Water and Wastes,” U.S. EPA Environmental Monitoring and Support Laboratory (EMSL), Cincinnati, OH 45258 (EPA-600/4-79-020), March 1983, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of this publication are available from the National Technical Information Service (NTIS), U.S. Department of Commerce, 5825 Port Royal Rd., Springfield, VA 22161, or may be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039, or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.*
 
@@ -314,7 +310,7 @@ Table 1
 
 (*ii*) Method 200.9—“Determination of Trace Elements by Stabilized Temperature Graphite Furnace Atomic Absorption,” Revision 2.2, which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Method 200.9 is contained in the manual entitled “Methods for the Determination of Metals in Environmental Samples—Supplement 1,” EPA/600/R-94/111, May 1994. The availability of this incorporation by reference is given in paragraph (b)(4)(iii)(E)(*14*)(*i*) of this section.
 
-(F) Analyses to determine compliance with the requirements of paragraphs (b)(4)(iii)(B) and (b)(4)(iii)(C) of this section shall be conducted in accordance with an applicable method or applicable revisions to the methods listed in paragraphs (b)(4)(iii)(F)(*1*) through (b)(4)(iii)(F)(*22*) of this section and described, unless otherwise noted, in “Methods for the Determination of Organic Compounds in Drinking Water,” Office of Research and Development, EMSL, EPA/600/4-88/039, December 1988, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement 1,” Office of Research and Development, EMSL, EPA/600/4-90/020, July 1990, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement III,” EPA National Exposure Research Laboratory, Office of Research and Development, EPA/600/R-95/131, August 1995, including Errata, November 27, 1995. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these publications are available from National Technical Information Service, U.S. Department of Commerce, 5285 Port Royal Rd., Springfield, VA 22161. You may inspect a copy at the Division of Dockets Management, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, 301-827-6860 or at the National Archives and Records Administration (NARA). Hearing-impaired or speech-impaired individuals may access this number through TTY by calling the toll-free Federal Relay Service at 800-877-8339. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
+(F) Analyses to determine compliance with the requirements of paragraphs (b)(4)(iii)(B) and (b)(4)(iii)(C) of this section shall be conducted in accordance with an applicable method or applicable revisions to the methods listed in paragraphs (b)(4)(iii)(F)(*1*) through (b)(4)(iii)(F)(*22*) of this section and described, unless otherwise noted, in “Methods for the Determination of Organic Compounds in Drinking Water,” Office of Research and Development, EMSL, EPA/600/4-88/039, December 1988, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement 1,” Office of Research and Development, EMSL, EPA/600/4-90/020, July 1990, or in “Methods for the Determination of Organic Compounds in Drinking Water, Supplement III,” EPA National Exposure Research Laboratory, Office of Research and Development, EPA/600/R-95/131, August 1995, including Errata, November 27, 1995. The Director of the Federal Register approves this incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of these publications are available from National Technical Information Service, U.S. Department of Commerce, 5285 Port Royal Rd., Springfield, VA 22161. You may inspect a copy at the Dockets Management Staff, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, 301-827-6860 or at the National Archives and Records Administration (NARA). Hearing-impaired or speech-impaired individuals may access this number through TTY by calling the toll-free Federal Relay Service at 800-877-8339. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (*1*) Method 502.1—“Volatile Halogenated Organic Compounds in Water by Purge and Trap Gas Chromatography,” Rev. 2.0, 1989, (applicable to VOC's), which is incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51, or
 
@@ -406,9 +402,9 @@ Table 1
 |Haloacetic acids (five) (HAA5)|                0.060                |
 | Total Trihalomethanes (TTHM) |                0.080                |
 |    Residual disinfectants    |                                     |
-|          Chloramine          |            4.0 (as Cl2)             |
-|           Chlorine           |            4.0 (as Cl2)             |
-|       Chlorine dioxide       |            0.8 (as ClO2)            |
+|          Chloramine          |       4.0 (as Cl<sub>2</sub>)       |
+|           Chlorine           |       4.0 (as Cl<sub>2</sub>)       |
+|       Chlorine dioxide       |      0.8 (as ClO<sub>2</sub>)       |
 
 (I) Analysis to determine compliance with the requirements of paragraph (b)(4)(iii)(H) of this section shall be conducted in accordance with an applicable method listed in paragraphs (b)(4)(iii)(I)(*1*) through (b)(4)(iii)(I)(*7*) of this section and described in “Method 300.1, Determination of Inorganic Anions in Drinking Water by Ion Chromatography,” Rev. 1.0, U.S. EPA, 1997, EPA/600/R-98/118; “Methods for the Determination of Inorganic Substances in Environmental Samples,” U.S. EPA, August 1993, EPA/600/R-93/100; “Methods for the Determination of Organic Compounds in Drinking Water-Supplement II,” U.S. EPA, August 1992, EPA/600/R-92/129; “Methods for the Determination of Organic Compounds in Drinking Water-Supplement III,” U.S. EPA, August 1995, EPA/600/R-95/131; “Standard Methods for the Examination of Water and Wastewater,” 19th Ed., American Public Health Association, 1995; and “Annual Book of ASTM Standards,” vol. 11.01, American Society for Testing and Materials, 1996, which are incorporated by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the following publications are available from the National Technical Information Service (NTIS): EPA/600/R-95/131 (NTIS number PB95-261616), EPA/600/R-92/129 (NTIS number PB92-207703), EPA/600/R-93/100 (NTIS number PB94-121811), and EPA/600/R-98/118 (NTIS number PB98-169196). NTIS can be contacted at NTIS, U.S. Department of Commerce, 5285 Port Royal Rd., Springfield, VA 22161, 1-800-553-6847 or 703-605-6000, *www.ntis.gov.* Copies of the publication EPA/600/R-98/118 are also available from the Chemical Exposure Research Branch, Microbiological and Chemical Exposure Assessment Research Division, National Exposure Research Laboratory, U.S. EPA, Cincinnati, OH 45268, 513-569-7757, (FAX) 513-569-7757. Copies of “Standard Methods for the Examination of Water and Wastewater,” 19th Ed., are available from the American Public Health Association, 1015 15th Street, NW., Washington, DC 20005. All of the publications cited in paragraph (b)(4)(iii)(I) of this section may be examined at the National Archives and Records Administration (NARA), or at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039. For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Copies of “Annual Book of ASTM Standards,” 1996, vol. 11.01, are available from the American Society for Testing and Materials, 100 Barr Harbor Dr., West Conshohoken, PA 19428, or may be examined at the Office of the Federal Register. Copies of the methods incorporated by reference in paragraph (b)(4)(iii)(I) of this section may also be examined at the Food and Drug Administration's Main Library, 10903 New Hampshire Ave., Bldg. 2, Third Floor, Silver Spring, MD 20993, 301-796-2039.
 
@@ -518,4 +514,4 @@ Table 1
 
 (d) *Adulteration.* Bottled water containing a substance at a level considered injurious to health under section 402(a)(1) of the Federal Food, Drug, and Cosmetic Act (the act), or that consists in whole or in part of any filthy, putrid, or decomposed substance, or that is otherwise unfit for food under section 402(a)(3) of the act is deemed to be adulterated, regardless of whether or not the water bears a label statement of substandard quality prescribed by paragraph (c) of this section. If *E. coli* is present in bottled water, then the bottled water will be deemed adulterated under section 402(a)(3) of the act.
 
-[60 FR 57124, Nov. 13, 1995]Editorial Note:For Federal Register citations affecting § 165.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at www.fdsys.gov.
+[60 FR 57124, Nov. 13, 1995]Editorial Note:For Federal Register citations affecting § 165.110, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

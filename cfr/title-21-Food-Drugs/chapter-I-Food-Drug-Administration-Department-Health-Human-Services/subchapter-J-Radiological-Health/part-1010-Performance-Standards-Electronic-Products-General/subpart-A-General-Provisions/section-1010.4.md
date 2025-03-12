@@ -36,7 +36,7 @@
 
 (2) The Director, Center for Devices and Radiological Health, shall amend or withdraw a variance whenever the Director determines that this action is necessary to protect the public health or otherwise is justified by this subchapter. Such action will become effective on the date specified in the written notice of the action sent to the applicant, except that it will become effective immediately upon notification to the applicant when the Director determines that such action is necessary to prevent an imminent health hazard.
 
-(3) All applications for variances and for amendments and extensions thereof and all correspondence (including written notices of approval) on these applications will be available for public disclosure in the office of the Division of Dockets Management, except for information regarded as confidential under section 537(e) of the act.
+(3) All applications for variances and for amendments and extensions thereof and all correspondence (including written notices of approval) on these applications will be available for public disclosure in the office of the Dockets Management Staff, except for information regarded as confidential under section 537(e) of the act.
 
 (d) *Certification of equipment covered by variance.* The manufacturer of any product for which a variance is granted shall modify the tag, label, or other certification required by § 1010.2 to state:
 
@@ -46,4 +46,4 @@
 
 (3) The assigned number and effective date of the variance.
 
-[39 FR 13879, Apr. 18, 1974, as amended at 44 FR 48191, Aug. 17, 1979; 50 FR 7518, Feb. 22, 1985; 50 FR 13565, Apr. 5, 1985; 53 FR 11254, Apr. 6, 1988; 53 FR 52683, Dec. 29, 1988; 59 FR 14365, Mar. 28, 1994; 65 FR 17137, Mar. 31, 2000; 73 FR 34861, June 19, 2008; 75 FR 16353, Apr. 1, 2010; 88 FR 3654, Jan. 20, 2023]
+[39 FR 13879, Apr. 18, 1974, as amended at 44 FR 48191, Aug. 17, 1979; 50 FR 7518, Feb. 22, 1985; 50 FR 13565, Apr. 5, 1985; 53 FR 11254, Apr. 6, 1988; 53 FR 52683, Dec. 29, 1988; 59 FR 14365, Mar. 28, 1994; 65 FR 17137, Mar. 31, 2000; 73 FR 34861, June 19, 2008; 75 FR 16353, Apr. 1, 2010; 88 FR 3654, Jan. 20, 2023; 88 FR 45067, July 14, 2023]

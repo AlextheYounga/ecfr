@@ -4,7 +4,7 @@
 
 (1) The order or regulation or notice of opportunity for hearing that gave rise to the hearing;
 
-(2) All objections and requests for hearing filed by the Division of Dockets Management under §§ 12.20 through 12.22;
+(2) All objections and requests for hearing filed by the Dockets Management Staff under §§ 12.20 through 12.22;
 
 (3) The notice of hearing published under § 12.35;
 
@@ -26,7 +26,7 @@
 
 (12) All transcripts prepared under § 12.98; and
 
-(13) Any other document relating to the hearing and filed with the Division of Dockets Management by the presiding officer or any participant;
+(13) Any other document relating to the hearing and filed with the Dockets Management Staff by the presiding officer or any participant;
 
 (b) The record of the administrative proceeding is closed—
 

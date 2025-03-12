@@ -1,6 +1,6 @@
 ##### § 14.35 Written submissions to an advisory committee. #####
 
-(a) Ten copies of written submissions to a committee are to be sent to the Designated Federal Officer unless an applicable Federal Register notice or other regulations in this chapter specify otherwise. Submissions are subject to the provisions of § 10.20, except that it is not necessary to send copies to the Division of Dockets Management.
+(a) Ten copies of written submissions to a committee are to be sent to the Designated Federal Officer unless an applicable Federal Register notice or other regulations in this chapter specify otherwise. Submissions are subject to the provisions of § 10.20, except that it is not necessary to send copies to the Dockets Management Staff.
 
 (b) At the request of a committee, or on the Commissioner's own initiative, the Commissioner may issue in the Federal Register a notice requesting the submission to the committee of written information and views pertinent to a matter being reviewed by the committee. The notice may specify the manner in which the submission should be made.
 

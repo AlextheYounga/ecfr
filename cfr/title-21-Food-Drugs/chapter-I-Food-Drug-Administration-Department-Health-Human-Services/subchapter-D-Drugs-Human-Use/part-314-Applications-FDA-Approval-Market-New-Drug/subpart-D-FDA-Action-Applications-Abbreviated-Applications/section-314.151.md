@@ -22,8 +22,8 @@
 
 (7) Except as provided in paragraph (d) of this section, any abbreviated new drug application whose holder submitted comments on the notice of opportunity for hearing shall be withdrawn upon the issuance of a final decision concluding that the listed drug should be withdrawn for grounds as described in § 314.150(a). The final decision shall be in writing and shall constitute final agency action, reviewable in a judicial proceeding.
 
-(8) Documents in the record will be publicly available in accordance with § 10.20(j) of this chapter. Documents available for examination or copying will be placed on public display in the Division of Dockets Management (HFA-305), Food and Drug Administration, room. 1-23, 12420 Parklawn Dr., Rockville, MD 20857, promptly upon receipt in that office.
+(8) Documents in the record will be publicly available in accordance with § 10.20(j) of this chapter. Documents available for examination or copying will be placed on public display in the Dockets Management Staff (HFA-305), Food and Drug Administration, room. 1-23, 12420 Parklawn Dr., Rockville, MD 20857, promptly upon receipt in that office.
 
 (d) If the agency determines, based upon information submitted by the holder of an abbreviated new drug application, that the grounds for withdrawal of the listed drug are not applicable to a drug identified in the notice of opportunity for hearing, the final decision will state that the approval of the abbreviated new drug application for such drug is not withdrawn.
 
-[57 FR 17994, Apr. 28, 1992]
+[57 FR 17994, Apr. 28, 1992, as amended at 88 FR 45066, July 14, 2023]

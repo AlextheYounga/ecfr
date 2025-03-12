@@ -8,7 +8,7 @@
 
 (d)(1) If the existence of a biological product file has been publicly disclosed or acknowledged before a license has been issued, no data or information contained in the file is available for public disclosure before such license is issued, but the Commissioner may, in his discretion, disclose a summary of such selected portions of the safety and effectiveness data as are appropriate for public consideration of a specific pending issue, e.g., at an open session of a Food and Drug Administration advisory committee or pursuant to an exchange of important regulatory information with a foreign government.
 
-(2) Notwithstanding paragraph (d)(1) of this section, FDA will make available to the public upon request the information in the IND that was required to be filed in Docket Number 95S-0158 in the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
+(2) Notwithstanding paragraph (d)(1) of this section, FDA will make available to the public upon request the information in the IND that was required to be filed in Docket Number 95S-0158 in the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
 
 (e) After a license has been issued, the following data and information in the biological product file are immediately available for public disclosure unless extraordinary circumstances are shown:
 
@@ -42,4 +42,4 @@
 
 (g) For purposes of this regulation, safety and effectiveness data include all studies and tests of a biological product on animals and humans and all studies and tests on the drug for identity, stability, purity, potency, and bioavailability.
 
-[39 FR 44656, Dec. 24, 1974, as amended at 42 FR 15676, Mar. 22, 1977; 49 FR 23833, June 8, 1984; 55 FR 11013, Mar. 26, 1990; 61 FR 51530, Oct. 2, 1996; 64 FR 56452, Oct. 20, 1999; 68 FR 24879, May 9, 2003; 69 FR 13717, Mar. 24, 2004; 70 FR 14984, Mar. 24, 2005]
+[39 FR 44656, Dec. 24, 1974, as amended at 42 FR 15676, Mar. 22, 1977; 49 FR 23833, June 8, 1984; 55 FR 11013, Mar. 26, 1990; 61 FR 51530, Oct. 2, 1996; 64 FR 56452, Oct. 20, 1999; 68 FR 24879, May 9, 2003; 69 FR 13717, Mar. 24, 2004; 70 FR 14984, Mar. 24, 2005; 88 FR 45066, July 14, 2023]

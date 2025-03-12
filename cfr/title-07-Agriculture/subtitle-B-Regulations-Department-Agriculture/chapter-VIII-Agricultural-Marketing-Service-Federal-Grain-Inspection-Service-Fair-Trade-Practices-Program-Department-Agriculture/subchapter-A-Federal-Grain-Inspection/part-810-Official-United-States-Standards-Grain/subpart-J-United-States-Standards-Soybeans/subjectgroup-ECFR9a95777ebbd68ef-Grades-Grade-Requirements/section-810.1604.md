@@ -1,5 +1,7 @@
 ##### § 810.1604 Grades and grade requirements for soybeans. #####
 
+Link to an amendment published at 88 FR 45056, July 14, 2023.
+
 |                                          Grading factors                                          |     Grades U.S. Nos.     |    |    |    |
 |---------------------------------------------------------------------------------------------------|--------------------------|----|----|----|
 |                                                 1                                                 |            2             | 3  | 4  |    |

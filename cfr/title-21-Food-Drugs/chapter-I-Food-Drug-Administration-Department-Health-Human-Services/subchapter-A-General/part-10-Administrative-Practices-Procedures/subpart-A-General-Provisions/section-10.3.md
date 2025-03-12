@@ -18,7 +18,7 @@
 
 *Department* means the U.S. Department of Health and Human Services.
 
-*Division of Dockets Management* means the Division of Dockets Management, Office of Management and Operations of the Food and Drug Administration, U.S. Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+*Dockets Management Staff* means the Dockets Management Staff, Office of Management and Operations of the Food and Drug Administration, U.S. Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 *Ex parte communication* means an oral or written communication not on the public record for which reasonable prior notice to all parties is not given, but does not include requests for status reports on a matter.
 

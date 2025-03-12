@@ -6,7 +6,7 @@
 
 (c) After receipt of an application meeting the requirements of § 808.20, the Commissioner shall review such application and determine whether to grant or deny an exemption from preemption for each requirement which is the subject of the application. The Commissioner shall then issue in the Federal Register a proposed regulation either to grant or to deny an exemption from preemption. The Commissioner shall also issue in the Federal Register a notice of opportunity to request an oral hearing before the Commissioner or the Commissioner's designee.
 
-(d) A request for an oral hearing may be made by the State or political subdivision or any other interested person. Such request shall be submitted to the Division of Dockets Management within the period of time prescribed in the notice and shall include an explanation of why an oral hearing, rather than submission of written comments only, is essential to the presentation of views on the application for exemption from preemption and the proposed regulation.
+(d) A request for an oral hearing may be made by the State or political subdivision or any other interested person. Such request shall be submitted to the Dockets Management Staff within the period of time prescribed in the notice and shall include an explanation of why an oral hearing, rather than submission of written comments only, is essential to the presentation of views on the application for exemption from preemption and the proposed regulation.
 
 (e) If a timely request for an oral hearing is made, the Commissioner shall review such a request and may grant a legislative-type informal oral hearing pursuant to part 15 of this chapter by publishing in the Federal Register a notice of the hearing in accordance with § 15.20 of this chapter. The scope of the oral hearing shall be limited to matters relevant to the application for exemption from preemption and the proposed regulation. Oral or written presentations at the oral hearing which are not relevant to the application shall be excluded from the administrative record of the hearing.
 
@@ -24,4 +24,4 @@
 
 (h) An advisory opinion pursuant to § 808.5 or a regulation pursuant to paragraph (g) of this section constitutes final agency action.
 
-[43 FR 18665, May 2, 1978, as amended at 87 FR 50761, Aug. 17, 2022]
+[43 FR 18665, May 2, 1978, as amended at 87 FR 50761, Aug. 17, 2022; 88 FR 45067, July 14, 2023]

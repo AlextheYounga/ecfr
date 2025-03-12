@@ -8,7 +8,7 @@
 
 (d)(1) If the existence of a PMA file has been publicly disclosed or acknowledged before an order approving, or an order denying approval of the PMA is issued, data or information contained in the file are not available for public disclosure before such order issues. FDA may, however, disclose a summary of portions of the safety and effectiveness data before an approval order or an order denying approval of the PMA issues if disclosure is relevant to public consideration of a specific pending issue.
 
-(2) Notwithstanding paragraph (d)(1) of this section, FDA will make available to the public upon request the information in the IDE that was required to be filed in Docket Number 95S-0158 in the Division of Dockets Management (HFA-305), Food and Drug Administration, 12420 Parklawn Dr., rm. 1-23, Rockville, MD 20857, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
+(2) Notwithstanding paragraph (d)(1) of this section, FDA will make available to the public upon request the information in the IDE that was required to be filed in Docket Number 95S-0158 in the Dockets Management Staff (HFA-305), Food and Drug Administration, 12420 Parklawn Dr., rm. 1-23, Rockville, MD 20857, for investigations involving an exception from informed consent under § 50.24 of this chapter. Persons wishing to request this information shall submit a request under the Freedom of Information Act.
 
 (e) Upon issuance of an order approving, or an order denying approval of any PMA, FDA will make available to the public the fact of the existence of the PMA and a detailed summary of information submitted to FDA respecting the safety and effectiveness of the device that is the subject of the PMA and that is the basis for the order.
 
@@ -58,4 +58,4 @@
 
 (3) Quantitative or semiquantitative formulas.
 
-[51 FR 26364, July 22, 1986, as amended at 61 FR 51531, Oct. 2, 1996]
+[51 FR 26364, July 22, 1986, as amended at 61 FR 51531, Oct. 2, 1996; 88 FR 45067, July 14, 2023]

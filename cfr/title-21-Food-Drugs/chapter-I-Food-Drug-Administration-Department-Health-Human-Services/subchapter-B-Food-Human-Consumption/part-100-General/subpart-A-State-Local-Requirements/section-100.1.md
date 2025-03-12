@@ -32,9 +32,9 @@
 
 (2) An original and one copy of the petition shall be submitted, or the petitioner may submit an original and a computer readable disk containing the petition. Contents of the disk should be in a standard format, such as ASCII format. (Petitioners interested in submitting a disk should contact the Center for Food Safety and Applied Nutrition for details.)
 
-(3) Petitions for exemption from preemption for a State requirement shall be submitted to the Division of Dockets Management in the following form:
+(3) Petitions for exemption from preemption for a State requirement shall be submitted to the Dockets Management Staff in the following form:
 
-(Date) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Division of Dockets Management,Food and Drug Administration,Department of Health and Human Services,5630 Fishers Lane, rm. 1061,Rockville, MD 20852.Petition Requesting Exemption from Preemption for State Requirement
+(Date) \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_Dockets Management Staff,Food and Drug Administration,Department of Health and Human Services,5630 Fishers Lane, rm. 1061,Rockville, MD 20852.Petition Requesting Exemption from Preemption for State Requirement
 
 The undersigned submits this petition under section 403A(b)of the Federal Food, Drug, and Cosmetic Act to request that the Food and Drug Administration exempt a State requirement from preemption.
 
@@ -84,9 +84,9 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (2) If a petition does not meet the prerequisite requirements of paragraph (c) of this section, the agency will issue a letter to the petitioner denying the petition and stating in what respect the petition does not meet these requirements.
 
-(3) If a petition appears to meet the prerequisite requirements in paragraph (c) of this section, it will be filed by the Division of Dockets Management, stamped with the date of filing, and assigned a docket number. The docket number identifies the file established by the Division of Dockets Management for all submissions relating to the petition, as provided in this part. Subsequent submissions relating to the matter must refer to the docket number and will be filed in the docket file. The Division of Dockets Management will promptly notify the petitioner in writing of the filing and docket number of a petition.
+(3) If a petition appears to meet the prerequisite requirements in paragraph (c) of this section, it will be filed by the Dockets Management Staff, stamped with the date of filing, and assigned a docket number. The docket number identifies the file established by the Dockets Management Staff for all submissions relating to the petition, as provided in this part. Subsequent submissions relating to the matter must refer to the docket number and will be filed in the docket file. The Dockets Management Staff will promptly notify the petitioner in writing of the filing and docket number of a petition.
 
-(4) Any interested person may submit written comments to the Division of Dockets Management on a filed petition as provided in § 10.30(d) of this chapter.
+(4) Any interested person may submit written comments to the Dockets Management Staff on a filed petition as provided in § 10.30(d) of this chapter.
 
 (5) Within 90 days of the date of filing the agency will furnish a response to the petitioner. The response will either:
 
@@ -102,4 +102,4 @@ The undersigned certifies, that, to the best knowledge and belief of the undersi
 
 (2) Action on the petition, whichever occurs later.
 
-[58 FR 2468, Jan. 6, 1993]
+[58 FR 2468, Jan. 6, 1993, as amended at 88 FR 45065, July 14, 2023]

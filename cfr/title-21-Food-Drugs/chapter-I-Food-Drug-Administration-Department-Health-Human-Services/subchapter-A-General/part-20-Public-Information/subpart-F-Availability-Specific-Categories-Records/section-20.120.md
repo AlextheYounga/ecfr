@@ -14,16 +14,16 @@
 
 (5) Such other records and information as the agency determines are appropriate for inclusion in the public reading room.
 
-(c) The following records are available in the Division of Dockets Management's Public Reading Room:
+(c) The following records are available in the Dockets Management Staff's Public Reading Room:
 
 (1) Final opinions, including concurring and dissenting opinions, as well as orders, made in the adjudication of cases;
 
 (2) Statements of policy and interpretation adopted by the agency that are still in force and not published in the Federal Register;
 
-(3) Indexes of records maintained in the Division of Dockets Management's Public Reading Room; and
+(3) Indexes of records maintained in the Dockets Management Staff's Public Reading Room; and
 
 (4) Such other records and information as the agency determines are appropriate for inclusion in the public reading room.
 
 (d) The agency will make reading room records created by the Food and Drug Administration on or after November 1, 1996, available electronically through the Internet at the agency's World Wide Web site which can be found at *http://www.fda.gov.* At the agency's discretion, the Food and Drug Administration may also make available through the Internet such additional records and information it believes will be useful to the public.
 
-[68 FR 25287, May 12, 2003; 68 FR 65392, Nov. 20, 2003, as amended at 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 87 FR 55914, Sept. 13, 2022]
+[68 FR 25287, May 12, 2003; 68 FR 65392, Nov. 20, 2003, as amended at 76 FR 31470, June 1, 2011; 79 FR 68115, Nov. 14, 2014; 87 FR 55914, Sept. 13, 2022; 88 FR 45065, July 14, 2023]

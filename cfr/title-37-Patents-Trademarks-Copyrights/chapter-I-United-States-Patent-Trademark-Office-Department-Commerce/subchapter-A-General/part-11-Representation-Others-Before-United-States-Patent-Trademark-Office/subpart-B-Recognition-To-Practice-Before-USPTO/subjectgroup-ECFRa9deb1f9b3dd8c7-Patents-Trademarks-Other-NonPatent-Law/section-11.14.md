@@ -1,5 +1,7 @@
 ##### § 11.14 Individuals who may practice before the Office in trademark and other non-patent matters. #####
 
+Link to an amendment published at 88 FR 45087, July 14, 2023.
+
 (a) *Attorneys.* Any individual who is an attorney as defined in § 11.1 may represent others before the Office in trademark and other non-patent matters. An attorney is not required to apply for registration or recognition to practice before the Office in trademark and other non-patent matters. Registration as a patent practitioner does not itself entitle an individual to practice before the Office in trademark matters.
 
 (b) *Non-lawyers.* Individuals who are not attorneys are not recognized to practice before the Office in trademark and other non-patent matters, except that individuals not attorneys who were recognized to practice before the Office in trademark matters under this chapter prior to January 1, 1957, will be recognized as agents to continue practice before the Office in trademark matters. Except as provided in the preceding sentence, registration as a patent agent does not itself entitle an individual to practice before the Office in trademark matters.

@@ -1,5 +1,7 @@
 ##### § 41.84 Victims of trafficking in persons. #####
 
+Link to an amendment published at 88 FR 45072, July 14, 2023.
+
 (a) *Eligibility.* An alien may be classifiable as a parent, spouse or child under INA 101(a)(15)(T)(ii) if:
 
 (1) The consular officer is satisfied that the alien has the required relationship to an alien who has been granted status by the Secretary for Homeland Security under INA 101(a)(15)(T)(i);

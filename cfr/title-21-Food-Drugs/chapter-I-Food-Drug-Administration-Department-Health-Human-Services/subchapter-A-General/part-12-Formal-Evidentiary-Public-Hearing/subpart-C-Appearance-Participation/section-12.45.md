@@ -1,10 +1,10 @@
 ##### § 12.45 Notice of participation. #####
 
-(a) Within 30 days after publication of the notice of hearing under § 12.35, a person desiring to participate in a hearing is to file with the Division of Dockets Management under § 10.20 a notice of participation in the following form:
+(a) Within 30 days after publication of the notice of hearing under § 12.35, a person desiring to participate in a hearing is to file with the Dockets Management Staff under § 10.20 a notice of participation in the following form:
 
  (Date)
 
-Division of Dockets Management, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+Dockets Management Staff, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 Notice of ParticipationDocket No. \_\_\_\_
 
@@ -24,7 +24,7 @@ B. *Commitment to participate.* (A statement that the person will present docume
 
  (Signed)
 
-(b) An amendment to a notice of participation should be filed with the Division of Dockets Management and served on all participants.
+(b) An amendment to a notice of participation should be filed with the Dockets Management Staff and served on all participants.
 
 (c) No person may participate in a hearing who has not filed a written notice of participation or whose participation has been stricken under paragraph (e) of this section.
 

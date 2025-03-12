@@ -6,8 +6,8 @@
 
 (c)(1) When appropriate under the criteria of § 509.6, an action level for an added poisonous or deleterious substance, which may be a food additive, may be established to define a level of contamination at which a food may be regarded as adulterated.
 
-(2) Whenever an action level is established or changed, a notice shall be published in the Federal Register as soon as practicable thereafter. The notice shall call attention to the material supporting the action level which shall be on file with the Division of Dockets Management before the notice is published. The notice shall invite public comment on the action level.
+(2) Whenever an action level is established or changed, a notice shall be published in the Federal Register as soon as practicable thereafter. The notice shall call attention to the material supporting the action level which shall be on file with the Dockets Management Staff before the notice is published. The notice shall invite public comment on the action level.
 
 (d) A regulation may be established in subpart D of this part to identify a food containing a naturally occurring poisonous or deleterious substance which will be deemed to be adulterated under section 402(a)(1) of the act. These regulations do not constitute a complete list of such foods.
 
-[42 FR 52821, Sept. 30, 1977, as amended at 55 FR 20786, May 21, 1990]
+[42 FR 52821, Sept. 30, 1977, as amended at 55 FR 20786, May 21, 1990; 88 FR 45066, July 14, 2023]

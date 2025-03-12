@@ -1,5 +1,7 @@
 ##### § 810.1602 Definition of other terms. #####
 
+Link to an amendment published at 88 FR 45056, July 14, 2023.
+
 (a) *Classes.* There are two classes for soybeans: Yellow soybeans and Mixed soybeans.
 
 (1) *Yellow soybeans.* Soybeans that have yellow or green seed coats and which in cross section, are yellow or have a yellow tinge, and may include not more than 10.0 percent of soybeans of other colors.

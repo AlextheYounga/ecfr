@@ -1,6 +1,6 @@
 ##### § 17.5 Complaint. #####
 
-(a) The Center with principal jurisdiction over the matter involved shall begin all administrative civil money penalty actions by serving on the respondent(s) a complaint signed by the Office of the Chief Counsel attorney for the Center and by filing a copy of the complaint with the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. For a civil money penalty action against retailers of tobacco products, the complaint may be signed by any Agency employee designated by the Chief Counsel.
+(a) The Center with principal jurisdiction over the matter involved shall begin all administrative civil money penalty actions by serving on the respondent(s) a complaint signed by the Office of the Chief Counsel attorney for the Center and by filing a copy of the complaint with the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, Rm. 1061, Rockville, MD 20852. For a civil money penalty action against retailers of tobacco products, the complaint may be signed by any Agency employee designated by the Chief Counsel.
 
 (b) The complaint shall state:
 

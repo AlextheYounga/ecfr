@@ -36,7 +36,7 @@
 
 (4) *Administration of variances and extensions.* (i) Written notification of the granting or refusal of a variance or extension will be provided to the applying railroad company by the Director, Center for Food Safety and Applied Nutrition. The notification of a granted variance will state the approved deviation from the compliance schedule provided for in paragraph (d) of this section. The notification of a granted extension will state the final date for compliance with the provisions of paragraph (b) of this section.
 
-(ii) A public file of requested variances and extensions, their disposition, and information relating to pending actions will be maintained in the Division of Dockets Management, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(ii) A public file of requested variances and extensions, their disposition, and information relating to pending actions will be maintained in the Dockets Management Staff, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (iii) After notice to the railroad company and opportunity for hearing in accordance with part 16 of this chapter, a variance or extension may be withdrawn prior to its scheduled termination if the Director, Center for Food Safety and Applied Nutrition, determines that such withdrawal is necessary to protect the public health.
 
@@ -44,4 +44,4 @@ Cross Reference:
 
 For statutory exemptions for “intercity rail passenger service,” see section 306(i) of 45 U.S.C. 546(i).
 
-[40 FR 5624, Feb. 6, 1975, as amended at 40 FR 30110, July 17, 1975; 46 FR 8461, Jan. 27, 1981; 48 FR 11432, Mar. 18, 1983; 54 FR 24900, June 12, 1989; 59 FR 14366, Mar. 28, 1994; 61 FR 14481, Apr. 2, 1996; 66 FR 56035, Nov. 6, 2001; 81 FR 49897, July 29, 2016]Effective Date Note:For a document staying the effectiveness of § 1250.51 (b) and (d), see 42 FR 57122, Nov. 1, 1977.
+[40 FR 5624, Feb. 6, 1975, as amended at 40 FR 30110, July 17, 1975; 46 FR 8461, Jan. 27, 1981; 48 FR 11432, Mar. 18, 1983; 54 FR 24900, June 12, 1989; 59 FR 14366, Mar. 28, 1994; 61 FR 14481, Apr. 2, 1996; 66 FR 56035, Nov. 6, 2001; 81 FR 49897, July 29, 2016; 88 FR 45067, July 14, 2023]Effective Date Note:For a document staying the effectiveness of § 1250.51 (b) and (d), see 42 FR 57122, Nov. 1, 1977.

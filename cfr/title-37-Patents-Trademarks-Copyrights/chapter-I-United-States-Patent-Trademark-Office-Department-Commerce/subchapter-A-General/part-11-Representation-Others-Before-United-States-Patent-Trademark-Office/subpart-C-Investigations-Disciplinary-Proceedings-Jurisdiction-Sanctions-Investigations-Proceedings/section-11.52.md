@@ -1,5 +1,7 @@
 ##### § 11.52 Written discovery. #####
 
+Link to an amendment published at 88 FR 45088, July 14, 2023.
+
 (a) After an answer is filed under § 11.36, a party may seek written discovery of only relevant evidence. The party seeking written discovery shall file a motion under § 11.43 explaining in detail, for each request made, how the discovery sought is reasonable and relevant to an issue actually raised in the complaint or the answer. The motion shall include a copy of the proposed written discovery requests. Any response shall include specific objections to each request, if any. Any objection not raised in the response will be deemed to have been waived.
 
 (b) If the hearing officer concludes that the proposed written discovery is reasonable and relevant, the hearing officer, under such conditions as he or she deems appropriate, may order an opposing party, within 30 days, or longer if so ordered by the hearing officer, to:

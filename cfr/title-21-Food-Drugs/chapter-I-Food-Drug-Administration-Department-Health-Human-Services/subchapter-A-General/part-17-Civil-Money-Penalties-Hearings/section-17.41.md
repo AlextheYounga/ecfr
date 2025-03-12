@@ -1,6 +1,6 @@
 ##### § 17.41 The administrative record. #####
 
-(a) The hearing will be recorded and transcribed. Witnesses, participants, and counsel have 30 days from the time the transcript becomes available to propose corrections in the transcript of oral testimony. Corrections are permitted only for transcription errors. The presiding officer shall promptly order justified corrections. Transcripts may be obtained following the hearing from the Division of Dockets Management at a cost not to exceed the actual cost of duplication.
+(a) The hearing will be recorded and transcribed. Witnesses, participants, and counsel have 30 days from the time the transcript becomes available to propose corrections in the transcript of oral testimony. Corrections are permitted only for transcription errors. The presiding officer shall promptly order justified corrections. Transcripts may be obtained following the hearing from the Dockets Management Staff at a cost not to exceed the actual cost of duplication.
 
 (b) The transcript of testimony, exhibits, and other evidence admitted at the hearing and all papers and requests filed in the proceeding constitute the administrative record for the decision by the presiding officer and the entity designated by the Commissioner of Food and Drugs to decide the appeal, currently the DAB.
 

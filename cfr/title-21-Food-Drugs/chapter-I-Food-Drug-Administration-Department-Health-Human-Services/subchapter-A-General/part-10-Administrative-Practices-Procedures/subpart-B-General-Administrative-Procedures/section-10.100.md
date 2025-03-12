@@ -30,7 +30,7 @@
 
 (d) *Public display.* The public calendar will be placed on public display at the following locations:
 
-(1) Division of Dockets Management.
+(1) Dockets Management Staff.
 
 (2) Office of the Associate Commissioner for Public Affairs.
 

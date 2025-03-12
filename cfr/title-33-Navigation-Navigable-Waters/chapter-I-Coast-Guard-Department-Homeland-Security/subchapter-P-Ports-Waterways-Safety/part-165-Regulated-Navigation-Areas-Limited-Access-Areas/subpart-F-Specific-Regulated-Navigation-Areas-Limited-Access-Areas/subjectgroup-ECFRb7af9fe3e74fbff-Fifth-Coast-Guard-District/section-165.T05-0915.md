@@ -16,4 +16,4 @@
 
 (e) *Enforcement period.* This section will be enforced until January 31, 2027, unless cancelled sooner by the COTP.
 
-[USCG-2021-0915, 87 FR 52469, Aug. 26, 2022]
+[USCG-2021-0915, 87 FR 52469, Aug. 26, 2022]Effective Date Note:By USCG-2021-0915, 87 FR 52469, Aug. 26, 2022, § 165.T05-0915 was added, effective Sept. 26, 2022, to Jan. 31, 2027.

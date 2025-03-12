@@ -1,5 +1,7 @@
 ##### § 11.43 Motions before a hearing officer. #####
 
+Link to an amendment published at 88 FR 45088, July 14, 2023.
+
 Motions, including all prehearing motions commonly filed under the Federal Rules of Civil Procedure, shall be served on the opposing party and filed with the hearing officer. Each motion shall be accompanied by a written memorandum setting forth a concise statement of the facts and supporting reasons, along with a citation of the authorities upon which the movant relies. Unless extended by the tribunal for good cause, an opposing party shall serve and file a memorandum in response to the motion within 21 days of the date of service of the motion, and the moving party may file a reply memorandum within 14 days after service of the opposing party's responsive memorandum. All memoranda shall be double-spaced and written in 12-point font unless otherwise ordered by the hearing officer. Every motion must include a statement that the moving party or attorney for the moving party has conferred with the opposing party or attorney for the opposing party in a good-faith effort to resolve the issues raised by the motion and whether the motion is opposed. If, prior to a decision on the motion, the parties resolve issues raised by a motion presented to the hearing officer, the parties shall promptly notify the hearing officer.
 
 [86 FR 28461, May 26, 2021]

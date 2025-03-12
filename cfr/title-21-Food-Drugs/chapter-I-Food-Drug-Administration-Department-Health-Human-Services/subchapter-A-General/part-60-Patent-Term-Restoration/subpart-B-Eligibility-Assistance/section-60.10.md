@@ -20,6 +20,6 @@
 
 (5) Providing the U.S. Patent and Trademark Office with any other information relevant to the U.S. Patent and Trademark Office's determination of whether a patent related to a product is eligible for patent term restoration.
 
-(b) FDA will notify the U.S. Patent and Trademark Office of its findings in writing, send a copy of this notification to the applicant, and file a copy of the notification in the docket established for the application in FDA's Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(b) FDA will notify the U.S. Patent and Trademark Office of its findings in writing, send a copy of this notification to the applicant, and file a copy of the notification in the docket established for the application in FDA's Dockets Management Staff (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 [57 FR 56261, Nov. 27, 1992]

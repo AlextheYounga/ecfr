@@ -1,6 +1,6 @@
 ##### § 14.142 Functions of a color additive advisory committee. #####
 
-(a) A color additive advisory committee reviews all available information relating to the matter referred to it, including all information contained in any pertinent color additive petition and in FDA files. All information reviewed is placed on public display and is available for review at the office of the Division of Dockets Management.
+(a) A color additive advisory committee reviews all available information relating to the matter referred to it, including all information contained in any pertinent color additive petition and in FDA files. All information reviewed is placed on public display and is available for review at the office of the Dockets Management Staff.
 
 (b) The Commissioner specifies to the color additive advisory committee, in writing, the issues on which review and recommendations are requested.
 

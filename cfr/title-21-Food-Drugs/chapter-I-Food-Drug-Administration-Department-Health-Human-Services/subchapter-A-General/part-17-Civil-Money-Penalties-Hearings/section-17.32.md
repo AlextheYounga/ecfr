@@ -1,6 +1,6 @@
 ##### § 17.32 Motions. #####
 
-(a) Any application to the presiding officer for an order or ruling shall be by motion. Motions shall state the relief sought, the authority relied upon, and the facts alleged, and shall be filed with the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, delivered to the presiding officer, and served on all other parties.
+(a) Any application to the presiding officer for an order or ruling shall be by motion. Motions shall state the relief sought, the authority relied upon, and the facts alleged, and shall be filed with the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852, delivered to the presiding officer, and served on all other parties.
 
 (b) Except for motions made during a prehearing conference or at the hearing, all motions shall be in writing. The presiding officer may require that oral motions be reduced to writing.
 

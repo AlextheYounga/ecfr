@@ -1,5 +1,7 @@
 ##### § 42.11 Classification symbols. #####
 
+Link to an amendment published at 88 FR 45072, July 14, 2023.
+
 A visa issued to an immigrant alien within one of the classes described below shall bear an appropriate visa symbol to show the classification of the alien.
 
 Immigrants

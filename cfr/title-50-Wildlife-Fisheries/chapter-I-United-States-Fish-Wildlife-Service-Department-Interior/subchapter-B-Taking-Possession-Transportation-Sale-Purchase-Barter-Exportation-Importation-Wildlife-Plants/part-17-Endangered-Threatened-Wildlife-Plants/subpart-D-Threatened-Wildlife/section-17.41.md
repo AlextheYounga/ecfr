@@ -1,7 +1,5 @@
 ##### § 17.41 Special rules—birds. #####
 
-Link to an amendment published at 87 FR 73971, Dec. 2, 2022.
-
 (a) Streaked horned lark (*Eremophila alpestris strigata*).
 
 (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to streaked horned lark. Except as provided under paragraph (a)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
@@ -278,9 +276,9 @@ Figure 1 to paragraph (k)![](/graphics/er25no22.032.gif)
 
 (*4*) Other routine activities required to implement managed grazing, including but not limited to feeding, monitoring, and moving of livestock.
 
-(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the Northern DPS of the lesser prairie-chicken. Except as provided under paragraph (k)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(l) [Reserved]
 
-(m) Emperor penguin (*Aptenodytes forsteri*). (1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the emperor penguin. Except as provided under paragraph (m)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
+(m) Emperor penguin (*Aptenodytes forsteri*)—(1) *Prohibitions.* The following prohibitions that apply to endangered wildlife also apply to the emperor penguin. Except as provided under paragraph (m)(2) of this section and §§ 17.4 and 17.5, it is unlawful for any person subject to the jurisdiction of the United States to commit, to attempt to commit, to solicit another to commit, or cause to be committed, any of the following acts in regard to this species:
 
 (i) Import or export, as set forth at § 17.21(b) for endangered wildlife.
 

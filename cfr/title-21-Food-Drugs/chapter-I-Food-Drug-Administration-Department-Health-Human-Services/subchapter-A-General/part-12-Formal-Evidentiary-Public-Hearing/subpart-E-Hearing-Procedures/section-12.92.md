@@ -4,7 +4,7 @@
 
 (1) To expedite the hearing, participants are encouraged to prepare in advance for the prehearing conference. Participants should cooperate with each other, and request information and begin preparation of testimony at the earliest possible time. Failure of a participant to appear at the prehearing conference or to raise matters that could reasonably be anticipated and resolved at that time will not delay the progress of the hearing, and constitutes a waiver of the rights of the participant regarding such matters as objections to the agreements reached, actions taken, or rulings issued by the presiding officer and may be grounds for striking the participation under § 12.45.
 
-(2) Participants shall bring to the prehearing conference the following specific information, which will be filed with the Division of Dockets Management under § 12.80:
+(2) Participants shall bring to the prehearing conference the following specific information, which will be filed with the Dockets Management Staff under § 12.80:
 
 (i) Any additional information to supplement the submission filed under § 12.85, which may be filed if approved under § 12.85(c).
 

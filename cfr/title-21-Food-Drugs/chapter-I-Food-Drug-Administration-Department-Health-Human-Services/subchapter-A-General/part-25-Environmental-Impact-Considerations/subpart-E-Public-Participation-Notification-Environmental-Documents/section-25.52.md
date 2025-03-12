@@ -6,6 +6,6 @@
 
 (c) In those cases where the existence of applications and premarket notifications for drugs, animal drugs, biologic products, devices, or tobacco products has already been disclosed before the Agency approves the action, the Agency will ensure appropriate public involvement consistent with 40 CFR 1506.6 and part 1503 in preparing and implementing the NEPA procedures related to preparing EISs while following its own disclosure requirements including those listed in part 20 and §§ 312.130(b), 314.430(d), 514.11(d), 514.12(b), 601.51(d), 807.95(e), 812.38(b), and 814.9(d) of this chapter.
 
-(d) Draft and final EIS's, comments, and responses will be included in the administrative record and will be available from the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(d) Draft and final EIS's, comments, and responses will be included in the administrative record and will be available from the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 [62 FR 40592, July 29, 1997, as amended at 68 FR 24879, May 9, 2003; 80 FR 57535, Sept. 24, 2015]

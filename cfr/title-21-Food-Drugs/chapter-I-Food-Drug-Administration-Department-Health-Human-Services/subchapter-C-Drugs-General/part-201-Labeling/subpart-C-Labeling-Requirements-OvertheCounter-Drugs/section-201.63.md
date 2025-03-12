@@ -10,10 +10,10 @@
 
 (2) Drugs that are labeled exclusively for pediatric use.
 
-(d) The Food and Drug Administration will grant an exemption from paragraph (a) of this section where appropriate upon petition under the provisions of § 10.30 of this chapter. Decisions with respect to requests for exemptions shall be maintained in a permanent file for public review by the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(d) The Food and Drug Administration will grant an exemption from paragraph (a) of this section where appropriate upon petition under the provisions of § 10.30 of this chapter. Decisions with respect to requests for exemptions shall be maintained in a permanent file for public review by the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (e) The labeling of orally or rectally administered OTC aspirin and aspirin-containing drug products must bear a warning that immediately follows the general warning identified in paragraph (a) of this section. The warning shall be as follows:
 
 “It is especially important not to use” (select “aspirin” or “carbaspirin calcium,” as appropriate) “during the last 3 months of pregnancy unless definitely directed to do so by a doctor because it may cause problems in the unborn child or complications during delivery.”
 
-[47 FR 54757, Dec. 3, 1982, as amended at 55 FR 27784, July 5, 1990; 59 FR 14364, Mar. 28, 1994; 64 FR 13286, Mar. 17, 1999; 68 FR 24879, May 9, 2003]
+[47 FR 54757, Dec. 3, 1982, as amended at 55 FR 27784, July 5, 1990; 59 FR 14364, Mar. 28, 1994; 64 FR 13286, Mar. 17, 1999; 68 FR 24879, May 9, 2003; 88 FR 45065, July 14, 2023]

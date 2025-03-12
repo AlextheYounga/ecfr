@@ -2,7 +2,7 @@
 
 (a) FDA will consult its records and experts to verify the dates contained in the application and to determine the length of the product's regulatory review period under § 60.22. The application shall contain information relevant to the determination of the regulatory review period as stated in the “Guidelines for Extension of Patent Term Under 35 U.S.C. 156” published on October 9, 1984, in PTO's *Official Gazette* and as required by 37 CFR chapter I.
 
-(b) After determining the length of the regulatory review period, FDA will notify PTO in writing of its determination, send a copy of this determination to the applicant, and file a copy of the determination in the docket established for the application in FDA's Division of Dockets Management (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(b) After determining the length of the regulatory review period, FDA will notify PTO in writing of its determination, send a copy of this determination to the applicant, and file a copy of the determination in the docket established for the application in FDA's Dockets Management Staff (HFA-305), 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (c) FDA will also publish the regulatory review period determination in the Federal Register. The notice will include the following:
 

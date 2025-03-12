@@ -1,6 +1,6 @@
 ##### § 13.20 Submissions to a Board. #####
 
-(a) Submissions are to be filed with the Division of Dockets Management under § 10.20.
+(a) Submissions are to be filed with the Dockets Management Staff under § 10.20.
 
 (b) The person making a submission shall serve copies of it on each participant in the proceeding, except as provided in §§ 13.10(b)(2) and 13.45. Submissions of documentary data and information need not be sent to each participant, but any accompanying transmittal letter, summary, statement of position, certification under paragraph (d) of this section, or similar document must be.
 

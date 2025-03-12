@@ -4,7 +4,7 @@ If the Commissioner determines that a Board should be established to conduct a h
 
 (a) If the hearing is under § 13.1 (a) or (b), all applicable information described in § 12.32(e).
 
-(1) Any written document that is to be the subject matter of the hearing will be published as a part of the notice, or the notice will refer to it if the document has already been published in the Federal Register or state that the document is available from the Division of Dockets Management or an agency employee designated in the notice.
+(1) Any written document that is to be the subject matter of the hearing will be published as a part of the notice, or the notice will refer to it if the document has already been published in the Federal Register or state that the document is available from the Dockets Management Staff or an agency employee designated in the notice.
 
 (2) For purposes of a hearing under § 13.1 (a) or (b), all participants who file a notice of participation under § 12.32(e)(6)(ii) are deemed to be parties and entitled to participate in selection of the Board under § 13.15(b).
 

@@ -54,7 +54,7 @@ The statements of identity, indications, warnings, and directions for use, respe
 
 (iii) *For products labeled for both adults and children under 12 years of age.* The following warning should be used instead of the warnings in § 341.80(c)(1)(iii) and part 343 of this chapter: “Stop use and ask a doctor if [in bold type] [bullet] pain or nasal congestion gets worse or lasts more than 5 days (children) or 7 days (adults) [bullet] fever gets worse or lasts more than 3 days [bullet] redness or swelling is present [bullet] new symptoms occur”.
 
-(4) *For permitted combinations containing an antihistamine combined with an oral antitussive.* The labeling states the warning “When using this product [in bold type] [bullet] may cause marked drowsiness.” The word “marked” may be deleted from the warning upon petition under the provisions of § 10.30 of this chapter provided adequate data are submitted to demonstrate that the combination product does not cause a significant increase in drowsiness as compared with each active ingredient when tested alone. The petition and the data it contains will be maintained in a permanent file for public review in the Division of Dockets Management (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(4) *For permitted combinations containing an antihistamine combined with an oral antitussive.* The labeling states the warning “When using this product [in bold type] [bullet] may cause marked drowsiness.” The word “marked” may be deleted from the warning upon petition under the provisions of § 10.30 of this chapter provided adequate data are submitted to demonstrate that the combination product does not cause a significant increase in drowsiness as compared with each active ingredient when tested alone. The petition and the data it contains will be maintained in a permanent file for public review in the Dockets Management Staff (HFA-305), Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 (5) *For permitted combinations containing camphor, menthol, and eucalyptus oil identified in § 341.40(u).* The labeling states the warnings for topical antitussive ingredients in § 341.74(c).
 
@@ -68,4 +68,4 @@ The statements of identity, indications, warnings, and directions for use, respe
 
 (3) *For permitted combinations containing levmetamfetamine with aromatics identified in § 341.40(v).* The labeling states the directions for topical nasal decongestant ingredients in § 341.80(d)(2)(i) and (d)(2)(viii).
 
-[67 FR 78170, Dec. 23, 2002, as amended at 70 FR 58977, Oct. 11, 2005; 71 FR 43362, Aug. 1, 2006]
+[67 FR 78170, Dec. 23, 2002, as amended at 70 FR 58977, Oct. 11, 2005; 71 FR 43362, Aug. 1, 2006; 88 FR 45066, July 14, 2023]

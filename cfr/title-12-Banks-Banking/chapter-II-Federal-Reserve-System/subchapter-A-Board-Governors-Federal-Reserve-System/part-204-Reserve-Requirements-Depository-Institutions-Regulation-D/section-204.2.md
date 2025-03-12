@@ -188,7 +188,7 @@ For purposes of this part, the following definitions apply unless otherwise spec
 
 (E) Any other foreign, international, or supranational entity specifically designated by the Board.6
 
-6 The designated entities are specified in 12 CFR 217.126.
+6 The designated entities are specified in 12 CFR 204.125.
 
 (2) *Nonpersonal time deposit* does not include nontransferable time deposits to the credit of or in which the entire beneficial interest is held by an individual pursuant to an individual retirement account or Keogh (H.R. 10) plan under 26 U.S.C. 408, 401, or non-transferable time deposits held by an employer as part of an unfunded deferred-compensation plan established pursuant to subtitle D of the Revenue Act of 1978 (Pub. L. 95-600, 92 Stat. 2763), or a *401(k) plan* under 26 U.S.C. 401(k).
 

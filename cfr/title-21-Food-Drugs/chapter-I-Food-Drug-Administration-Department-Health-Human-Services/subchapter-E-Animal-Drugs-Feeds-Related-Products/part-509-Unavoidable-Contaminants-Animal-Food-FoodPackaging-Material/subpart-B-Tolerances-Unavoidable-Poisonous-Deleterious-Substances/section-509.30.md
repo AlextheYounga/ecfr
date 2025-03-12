@@ -8,6 +8,6 @@
 
 (3) 10 parts per million in paper food-packaging material intended for or used with finished animal feed and any components intended for animal feeds. The tolerance shall not apply to paper food-packaging material separated from the food therein by a functional barrier which is impermeable to migration of PCB's.
 
-(b) A compilation entitled “Analytical Methodology for Polychlorinated Biphenyls, February 1973” for determining compliance with the tolerances established in this section is available from the Division of Dockets Management, Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+(b) A compilation entitled “Analytical Methodology for Polychlorinated Biphenyls, February 1973” for determining compliance with the tolerances established in this section is available from the Dockets Management Staff, Food and Drug Administration, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
-[42 FR 52821, Sept. 30, 1977, as amended at 46 FR 8460, Jan. 27, 1981; 59 FR 14365, Mar. 28, 1994; 68 FR 24879, May 9, 2003]
+[42 FR 52821, Sept. 30, 1977, as amended at 46 FR 8460, Jan. 27, 1981; 59 FR 14365, Mar. 28, 1994; 68 FR 24879, May 9, 2003; 88 FR 45066, July 14, 2023]

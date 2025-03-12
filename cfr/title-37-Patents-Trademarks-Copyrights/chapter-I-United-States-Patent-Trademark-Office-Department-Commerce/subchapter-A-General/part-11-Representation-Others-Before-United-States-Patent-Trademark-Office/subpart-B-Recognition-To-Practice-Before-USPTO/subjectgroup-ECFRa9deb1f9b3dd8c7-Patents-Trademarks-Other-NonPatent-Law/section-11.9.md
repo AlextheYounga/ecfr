@@ -1,5 +1,7 @@
 ##### § 11.9 Limited recognition in patent matters. #####
 
+Link to an amendment published at 88 FR 45086, July 14, 2023.
+
 (a) Any individual not registered under § 11.6 may, upon a showing of circumstances that render it necessary or justifiable and that the individual is of good moral character and reputation, be given limited recognition by the OED Director to prosecute as attorney or agent a specified patent application or specified patent applications. Limited recognition under this paragraph shall not extend further than the application or applications specified. Limited recognition shall not be granted to individuals who have passed the examination or to those for whom the examination has been waived while such individual's application for registration to practice before the Office in patent matters is pending.
 
 (b) A nonimmigrant alien residing in the United States and fulfilling the provisions of paragraphs (d) and (e) of this section may be granted limited recognition if the nonimmigrant alien is authorized by the United States Government to be employed or trained in the United States in the capacity of representing a patent applicant by presenting or prosecuting a patent application. Limited recognition shall be granted for a period consistent with the terms of authorized employment or training. Limited recognition shall not be granted or extended to a non-United States citizen residing abroad. If granted, limited recognition shall automatically expire upon the nonimmigrant alien's departure from the United States.

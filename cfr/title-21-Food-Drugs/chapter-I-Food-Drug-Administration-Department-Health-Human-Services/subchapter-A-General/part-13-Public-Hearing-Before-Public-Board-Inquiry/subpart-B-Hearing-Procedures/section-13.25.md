@@ -1,6 +1,6 @@
 ##### § 13.25 Disclosure of data and information by the participants. #####
 
-(a) Before the notice of hearing is published under § 13.5, the director of the center responsible for the matters involved in the hearing must submit to the Division of Dockets Management—
+(a) Before the notice of hearing is published under § 13.5, the director of the center responsible for the matters involved in the hearing must submit to the Dockets Management Staff—
 
 (1) The relevant portions of the existing administrative record of the proceeding. Portions of the administrative record not relevant to the issues in the hearing are not part of the administrative record;
 
@@ -12,7 +12,7 @@
 
 (5) A signed statement that, to the best of the director's knowledge and belief, the submission complies with this section.
 
-(b) Within the time prescribed in the notice of hearing published under § 13.5, each participant shall submit to the Division of Dockets Management all information specified in paragraph (a)(2) through (5) of this section and any objections that the administrative record filed under paragraph (a)(1) of this section is incomplete. With respect to the information specified in paragraph (a)(3) of this section, participants are to exercise reasonable diligence in identifying documents in files comparable to those described in that paragraph.
+(b) Within the time prescribed in the notice of hearing published under § 13.5, each participant shall submit to the Dockets Management Staff all information specified in paragraph (a)(2) through (5) of this section and any objections that the administrative record filed under paragraph (a)(1) of this section is incomplete. With respect to the information specified in paragraph (a)(3) of this section, participants are to exercise reasonable diligence in identifying documents in files comparable to those described in that paragraph.
 
 (c) The submissions required by paragraphs (a) and (b) of this section may be supplemented later in the proceeding, with the approval of the Board, on a showing that the views of the persons or the material contained in the supplement was not known or reasonably available when the initial submission was made or that the relevance of the views of the persons or the material contained in the supplement could not reasonably have been foreseen.
 

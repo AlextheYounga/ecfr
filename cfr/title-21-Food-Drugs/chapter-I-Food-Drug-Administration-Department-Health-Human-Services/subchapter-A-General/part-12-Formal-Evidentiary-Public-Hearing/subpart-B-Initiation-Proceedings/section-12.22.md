@@ -1,6 +1,6 @@
 ##### § 12.22 Filing objections and requests for a hearing on a regulation or order. #####
 
-(a) Objections and requests for a hearing under § 12.20(d) must be submitted to the Division of Dockets Management and will be accepted for filing if they meet the following conditions:
+(a) Objections and requests for a hearing under § 12.20(d) must be submitted to the Dockets Management Staff and will be accepted for filing if they meet the following conditions:
 
 (1) They are submitted within the time specified in § 12.20(e).
 
@@ -20,14 +20,14 @@
 
 (ii) A summary of the nondocumentary testimony to be presented by any witnesses relied upon must be submitted.
 
-(b) Requests for hearing submitted under § 12.21 will be submitted to the Division of Dockets Management and will be accepted for filing if they meet the following conditions:
+(b) Requests for hearing submitted under § 12.21 will be submitted to the Dockets Management Staff and will be accepted for filing if they meet the following conditions:
 
 (1) They are submitted on or before the 30th day after the date of publication of the notice of opportunity for hearing.
 
 (2) They comply with §§ 314.200, 514.200, or 601.7(a).
 
-(c) If an objection or request for a public hearing fails to meet the requirements of this section and the deficiency becomes known to the Division of Dockets Management, the Division of Dockets Management shall return it with a copy of the applicable regulations, indicating those provisions not complied with. A deficient objection or request for a hearing may be supplemented and subsequently filed if submitted within the 30-day time period specified in § 12.20(e) or § 12.21(b).
+(c) If an objection or request for a public hearing fails to meet the requirements of this section and the deficiency becomes known to the Dockets Management Staff, the Dockets Management Staff shall return it with a copy of the applicable regulations, indicating those provisions not complied with. A deficient objection or request for a hearing may be supplemented and subsequently filed if submitted within the 30-day time period specified in § 12.20(e) or § 12.21(b).
 
-(d) If another person objects to a regulation issued in response to a petition submitted under § 12.20(a)(2), the petitioner may submit a written reply to the Division of Dockets Management.
+(d) If another person objects to a regulation issued in response to a petition submitted under § 12.20(a)(2), the petitioner may submit a written reply to the Dockets Management Staff.
 
 [44 FR 22339, Apr. 13, 1979, as amended at 54 FR 9035, Mar. 3, 1989; 64 FR 69190, Dec. 10, 1999]

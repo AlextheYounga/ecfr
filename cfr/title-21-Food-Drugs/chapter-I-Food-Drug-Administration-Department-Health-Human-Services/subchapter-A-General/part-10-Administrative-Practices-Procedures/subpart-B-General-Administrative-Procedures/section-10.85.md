@@ -20,7 +20,7 @@
 
 (Date)
 
-Division of Dockets Management, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
+Dockets Management Staff, Food and Drug Administration, Department of Health and Human Services, 5630 Fishers Lane, rm. 1061, Rockville, MD 20852.
 
 Request for Advisory Opinion
 
@@ -38,7 +38,7 @@ The undersigned certifies that, to the best of his/her knowledge and belief, thi
 
 (Signature)(Person making request)(Mailing address)(Telephone number)
 
-(c) The Commissioner may respond to an oral or written request to the agency as a request for an advisory opinion, in which case the request will be filed with the Division of Dockets Management and be subject to this section.
+(c) The Commissioner may respond to an oral or written request to the agency as a request for an advisory opinion, in which case the request will be filed with the Dockets Management Staff and be subject to this section.
 
 (d) A statement of policy or interpretation made in the following documents, unless subsequently repudiated by the agency or overruled by a court, will constitute an advisory opinion:
 
@@ -54,11 +54,11 @@ The undersigned certifies that, to the best of his/her knowledge and belief, thi
 
 (f) In unusual situations involving an immediate and significant danger to health, the Commissioner may take appropriate civil enforcement action contrary to an advisory opinion before amending or revoking the opinion. This action may be taken only with the approval of the Commissioner, who may not delegate this function. Appropriate amendment or revocation of the advisory opinion involved will be expedited.
 
-(g) An advisory opinion may be amended or revoked at any time after it has been issued. Notice of amendment or revocation will be given in the same manner as notice of the advisory opinion was originally given or in the Federal Register, and will be placed on public display as part of the file on the matter in the office of the Division of Dockets Management. The Division of Dockets Management shall maintain a separate chronological index of all advisory opinions filed. The index will specify the date of the request for the advisory opinion, the date of the opinion, and identification of the appropriate file.
+(g) An advisory opinion may be amended or revoked at any time after it has been issued. Notice of amendment or revocation will be given in the same manner as notice of the advisory opinion was originally given or in the Federal Register, and will be placed on public display as part of the file on the matter in the office of the Dockets Management Staff. The Dockets Management Staff shall maintain a separate chronological index of all advisory opinions filed. The index will specify the date of the request for the advisory opinion, the date of the opinion, and identification of the appropriate file.
 
 (h) Action undertaken or completed in conformity with an advisory opinion which has subsequently been amended or revoked is acceptable to FDA unless the Commissioner determines that substantial public interest considerations preclude continued acceptance. Whenever possible, an amended or revoked advisory opinion will state when action previously undertaken or completed does not remain acceptable, and any transition period that may be applicable.
 
-(i) An interested person may submit written comments on an advisory opinion or modified advisory opinion. Four copies of any comments are to be sent to the Division of Dockets Management for inclusion in the public file on the advisory opinion. Individuals may submit only one copy. Comments will be considered in determining whether further modification of an advisory opinion is warranted.
+(i) An interested person may submit written comments on an advisory opinion or modified advisory opinion. Four copies of any comments are to be sent to the Dockets Management Staff for inclusion in the public file on the advisory opinion. Individuals may submit only one copy. Comments will be considered in determining whether further modification of an advisory opinion is warranted.
 
 (j) An advisory opinion may be used in administrative or court proceedings to illustrate acceptable and unacceptable procedures or standards, but not as a legal requirement.
 
