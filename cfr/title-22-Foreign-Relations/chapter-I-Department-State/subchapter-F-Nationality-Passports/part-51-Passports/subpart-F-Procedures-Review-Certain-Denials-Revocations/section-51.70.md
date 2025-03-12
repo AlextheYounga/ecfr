@@ -28,4 +28,4 @@
 
 (e) The person requesting the hearing may obtain one continuance, not to exceed an additional 90 days, upon written request. The request for a continuance must be received by the Department as soon as practicable and in no case less than five business days prior to the scheduled hearing date. Any further continuances are within the sole discretion of the Department.
 
-[83 FR 21875, May 11, 2018]
+[83 FR 21875, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 51.70 was stayed until June 10, 2018.

@@ -1,5 +1,7 @@
 ##### § 383.73 State procedures. #####
 
+Link to an amendment published at 83 FR 22876, May 17, 2018.
+
 (a) *Commercial Learner's Permit.* (1) Prior to July 8, 2015. When issuing a CLP to a person prior to July 8, 2015, a State must meet the requirements in § 383.71(a)(1):
 
 (2) *On or after July 8, 2015.* Prior to issuing a CLP to a person on or after July 8, 2015, a State must:

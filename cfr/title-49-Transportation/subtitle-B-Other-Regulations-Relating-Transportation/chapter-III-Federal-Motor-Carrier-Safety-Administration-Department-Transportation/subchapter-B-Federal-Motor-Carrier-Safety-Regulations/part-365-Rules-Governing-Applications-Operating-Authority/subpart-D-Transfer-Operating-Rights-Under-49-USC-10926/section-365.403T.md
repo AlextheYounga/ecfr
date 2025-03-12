@@ -1,5 +1,7 @@
 ##### § 365.403T Definitions. #####
 
+Link to an amendment published at 83 FR 22873, May 17, 2018.
+
 For the purposes of this part, the following definitions apply:
 
 (a) *Transfer.* Transfers include all transactions (*i.e.,* the sale or lease of interstate operating rights,1 or the merger of two or more carriers or a carrier into a noncarrier) subject to 49 U.S.C. 10926, as well as the sale of property brokers' licenses under 49 U.S.C. 10321.

@@ -1,5 +1,7 @@
 ##### § 350.105 What definitions are used in this part? #####
 
+Link to an amendment published at 83 FR 22873, May 17, 2018.
+
 *10-year average accident rate* means for each State, the aggregate number of large truck-involved fatal crashes (as reported in the Fatality Analysis Reporting System (FARS)) for a 10-year period divided by the aggregate vehicle miles traveled (VMT) as defined by the Federal Highway Administration (FHWA) for the same 10-year period.
 
 *Accident rate* means for each State, the total number of fatal crashes involving large trucks (as measured by the FARS for each State) divided by the total Vehicles Miles Traveled (VMT) as defined by the Federal Highway Administration (FHWA) for each State for all vehicles.

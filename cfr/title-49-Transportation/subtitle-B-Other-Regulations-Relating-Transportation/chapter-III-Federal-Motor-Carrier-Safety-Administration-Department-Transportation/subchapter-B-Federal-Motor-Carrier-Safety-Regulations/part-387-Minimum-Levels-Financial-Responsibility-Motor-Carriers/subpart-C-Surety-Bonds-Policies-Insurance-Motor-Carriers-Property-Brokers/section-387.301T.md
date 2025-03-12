@@ -1,5 +1,7 @@
 ##### § 387.301T Surety bond, certificate of insurance, or other securities. #####
 
+Link to an amendment published at 83 FR 22877, May 17, 2018.
+
 (a) *Public liability.* (1) No common or contract carrier or foreign (Mexican) motor private carrier or foreign motor carrier transporting exempt commodities subject to Subtitle IV, part B, chapter 135 of title 49 of the U.S. Code shall engage in interstate or foreign commerce, and no certificate or permit shall be issued to such a carrier or remain in force unless and until there shall have been filed with and accepted by the FMCSA surety bonds, certificates of insurance, proof of qualifications as self-insurer, or other securities or agreements, in the amounts prescribed in § 387.303T, conditioned to pay any final judgment recovered against such motor carrier for bodily injuries to or the death of any person resulting from the negligent operation, maintenance or use of motor vehicles in transportation subject to Subtitle IV, part B, chapter 135 of title 49 of the U.S. Code, or for loss of or damage to property of others, or, in the case of motor carriers of property operating freight vehicles described in § 387.303T(b)(2), for environmental restoration.
 
 (2) Motor Carriers of property which are subject to the conditions set forth in paragraph (a)(1) of this section and transport the commodities described in § 387.303T(b)(2), are required to obtain security in the minimum limits prescribed in § 387.303T(b)(2).

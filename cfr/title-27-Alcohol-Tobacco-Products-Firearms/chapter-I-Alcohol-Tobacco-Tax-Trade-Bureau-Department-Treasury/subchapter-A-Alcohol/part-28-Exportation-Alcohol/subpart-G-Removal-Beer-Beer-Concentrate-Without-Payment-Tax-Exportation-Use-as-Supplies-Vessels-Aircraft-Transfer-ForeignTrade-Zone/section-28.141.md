@@ -16,4 +16,4 @@
 
 (c) *Bond.* Except where the brewer is not required to hold a bond under § 25.91(e) of this chapter, all removals of beer or beer concentrate will be made by the brewer under the provisions of the brewer's bond, Form 5130.22 as prescribed in § 28.60.
 
-(Sec. 309, Tariff Act of 1930, 46 Stat. 690, as amended (19 U.S.C. 1309); sec. 3, Act of June 18, 1934, 48 Stat. 999, as amended (19 U.S.C. 81c); sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended (26 U.S.C. 5053))[ T.D. ATF-224, 51 FR 7699, Mar. 5, 1986, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004; T.D. TTB-146, 82 FR 1137, Jan. 4, 2017]
+(Sec. 309, Tariff Act of 1930, 46 Stat. 690, as amended (19 U.S.C. 1309); sec. 3, Act of June 18, 1934, 48 Stat. 999, as amended (19 U.S.C. 81c); sec. 201, Pub. L. 85-859, 72 Stat. 1334, as amended (26 U.S.C. 5053))[T.D. ATF-224, 51 FR 7699, Mar. 5, 1986, as amended by T.D. TTB-8, 69 FR 3833, Jan. 27, 2004; T.D. TTB-146, 82 FR 1137, Jan. 4, 2017]

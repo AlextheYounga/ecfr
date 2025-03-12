@@ -1,5 +1,7 @@
 ##### § 101.2 Administrative terminology. #####
 
+Link to an amendment published at 83 FR 22835, May 17, 2018.
+
 The following administrative words and phrases shall mean:
 
 *Adjacent herd.* Adjacent herds are herds physically contiguous to the herd of origin; there are no herds between an adjacent herd and the herd of origin.

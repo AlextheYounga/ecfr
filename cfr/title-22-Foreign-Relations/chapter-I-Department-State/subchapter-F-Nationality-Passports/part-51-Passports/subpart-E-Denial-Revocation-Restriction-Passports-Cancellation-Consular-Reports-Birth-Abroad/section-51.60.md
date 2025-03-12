@@ -58,4 +58,4 @@
 
 (i) In appropriate circumstances, where an individual's passport application is denied or passport revoked consistent with this part, the Department may issue a limited validity passport good only for direct return to the United States.
 
-[72 FR 64931, Nov. 19, 2007, as amended at 81 FR 60609, Sept. 1, 2016; 81 FR 66185, Sept. 27, 2016; 83 FR 21874, May 11, 2018]
+[72 FR 64931, Nov. 19, 2007, as amended at 81 FR 60609, Sept. 1, 2016; 81 FR 66185, Sept. 27, 2016; 83 FR 21874, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 51.60(h) and (i) were stayed until June 10, 2018.

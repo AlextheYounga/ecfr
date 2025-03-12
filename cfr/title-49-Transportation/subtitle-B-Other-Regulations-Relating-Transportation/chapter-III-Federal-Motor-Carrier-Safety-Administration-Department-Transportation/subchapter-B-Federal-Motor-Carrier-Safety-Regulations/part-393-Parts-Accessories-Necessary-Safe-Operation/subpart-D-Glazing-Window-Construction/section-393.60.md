@@ -1,5 +1,7 @@
 ##### § 393.60 Glazing in specified openings. #####
 
+Link to an amendment published at 83 FR 22878, May 17, 2018.
+
 (a) *Glazing material.* Glazing material used in windshields, windows, and doors on a motor vehicle manufactured on or after December 25, 1968, shall at a minimum meet the requirements of Federal Motor Vehicle Safety Standard (FMVSS) No. 205 in effect on the date of manufacture of the motor vehicle. The glazing material shall be marked in accordance with FMVSS No. 205 (49 CFR 571.205, S6).
 
 (b) *Windshields required.* Each bus, truck and truck-tractor shall be equipped with a windshield. Each windshield or portion of a multi-piece windshield shall be mounted using the full periphery of the glazing material.

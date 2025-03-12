@@ -1,5 +1,7 @@
 ##### § 390.3T General applicability. #####
 
+Link to an amendment published at 83 FR 22877, May 17, 2018.
+
 (a)(1) The rules in this subchapter are applicable to all employers, employees, and commercial motor vehicles that transport property or passengers in interstate commerce.
 
 (2) The rules in 49 CFR 386.12(e) and 390.6 prohibiting the coercion of drivers of commercial motor vehicles operating in interstate commerce:

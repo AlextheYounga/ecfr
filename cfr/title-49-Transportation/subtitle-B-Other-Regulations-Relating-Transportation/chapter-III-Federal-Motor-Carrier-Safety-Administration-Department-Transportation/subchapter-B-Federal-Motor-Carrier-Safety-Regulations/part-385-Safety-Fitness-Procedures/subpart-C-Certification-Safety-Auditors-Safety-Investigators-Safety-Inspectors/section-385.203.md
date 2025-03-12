@@ -1,5 +1,7 @@
 ##### § 385.203 What are the requirements to obtain and maintain certification? #####
 
+Link to an amendment published at 83 FR 22876, May 17, 2018.
+
 (a) After June 17, 2002, a person who is not qualified under § 385.201(a) may not perform a compliance review, safety audit, roadability review, or roadside inspection unless he or she has been certified by FMCSA or a State or local agency applying the FMCSA standards after successfully completing classroom training and examinations on the FMCSRs and HMRs as described in detail on the FMCSA website (*www.fmcsa.dot.gov*). These employees must also comply with the maintenance of certification/qualification requirements of paragraph (b) of this section.
 
 (b) *Maintenance of certification/qualification.* A person may not perform a compliance review, safety audit, roadability review, or roadside inspection unless he or she meets the quality-control and periodic re-training requirements adopted by the FMCSA to ensure the maintenance of high standards and familiarity with amendments to the FMCSRs and HMRs. These maintenance of certification/qualification requirements are described in detail on the FMCSA website (*www.fmcsa.dot.gov*).

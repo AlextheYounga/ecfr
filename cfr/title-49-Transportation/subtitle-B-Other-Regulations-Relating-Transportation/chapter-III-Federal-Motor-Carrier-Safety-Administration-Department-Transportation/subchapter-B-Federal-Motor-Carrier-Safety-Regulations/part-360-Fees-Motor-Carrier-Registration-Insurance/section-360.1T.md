@@ -1,5 +1,7 @@
 ##### § 360.1T Fees for registration-related services. #####
 
+Link to an amendment published at 83 FR 22873, May 17, 2018.
+
 Certifications and copies of public records and documents on file with the Federal Motor Carrier Safety Administration will be furnished on the following basis, pursuant to the Freedom of Information Act regulations at 49 CFR part 7:
 
 (a) Certificate of the Director, Office of Data Analysis and Information Systems, as to the authenticity of documents, $9.00;

@@ -1,5 +1,7 @@
 ##### § 387.303T Security for the protection of the public: Minimum limits. #####
 
+Link to an amendment published at 83 FR 22877, May 17, 2018.
+
 (a) *Definitions.* (1) *Primary security* means public liability coverage provided by the insurance or surety company responsible for the first dollar of coverage.
 
 (2) *Excess security* means public liability coverage above the primary security, or above any additional underlying security, up to and including the required minimum limits set forth in paragraph (b)(2) of this section.

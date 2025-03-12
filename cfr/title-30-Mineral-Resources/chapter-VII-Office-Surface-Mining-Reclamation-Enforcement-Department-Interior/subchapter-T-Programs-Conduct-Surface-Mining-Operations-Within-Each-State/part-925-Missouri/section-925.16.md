@@ -1,5 +1,7 @@
 ##### § 925.16 Required program amendments. #####
 
+Link to an amendment published at 83 FR 22852, May 17, 2018.
+
 Pursuant to 30 CFR 732.17, Missouri is required to make the following program amendments:
 
 (a)-(o) [Reserved]

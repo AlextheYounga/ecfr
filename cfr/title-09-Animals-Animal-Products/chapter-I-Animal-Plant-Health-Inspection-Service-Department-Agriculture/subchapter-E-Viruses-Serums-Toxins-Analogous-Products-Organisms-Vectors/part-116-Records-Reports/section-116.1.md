@@ -1,5 +1,7 @@
 ##### § 116.1 Applicability and general considerations. #####
 
+Link to an amendment published at 83 FR 22836, May 17, 2018.
+
 (a) Each licensee, permittee, and foreign manufacturer of biological products imported into the United States shall maintain, at the licensed or foreign establishment in which the products are prepared, detailed records of information necessary to give a complete accounting of all the activities within each establishment. Such records shall include, but shall not be limited to, the items enumerated in this part.
 
 (1) Records shall be made concurrently with the performance of successive steps in the development and preparation of biological products, including new products under development. Such records shall include the date and where critical, the time that each essential step was taken, the identity and quantity of ingredients added or removed at each step, and any gain or loss of product from the beginning to the end of product preparation.

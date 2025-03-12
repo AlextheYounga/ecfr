@@ -1,5 +1,7 @@
 ##### § 390.15 Assistance in investigations and special studies. #####
 
+Link to an amendment published at 83 FR 22878, May 17, 2018.
+
 (a) Each motor carrier and intermodal equipment provider must do the following:
 
 (1) Make all records and information pertaining to an accident available to an authorized representative or special agent of the Federal Motor Carrier Safety Administration, an authorized State or local enforcement agency representative, or authorized third party representative within such time as the request or investigation may specify.

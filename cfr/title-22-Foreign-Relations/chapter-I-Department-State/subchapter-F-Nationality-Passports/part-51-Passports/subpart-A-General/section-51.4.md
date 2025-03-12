@@ -34,4 +34,4 @@
 
 (8) The Department approves a Certificate of Loss of Nationality for the passport holder pursuant to § 50.40 of this chapter and 8 U.S.C. 1481.
 
-[81 FR 67158, Sept. 30, 2016, as amended at 83 FR 21874, May 11, 2018]
+[81 FR 67158, Sept. 30, 2016, as amended at 83 FR 21874, May 11, 2018]Effective Date Note:At 83 FR 22848, May 17, 2018, § 51.4(g)(1) and (8) were stayed until June 10, 2018.

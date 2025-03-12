@@ -1,6 +1,6 @@
 ##### § 373.103 For-hire, non-exempt expense bills. #####
 
-Link to an amendment published at 83 FR 16224, Apr. 16, 2018.
+Link to an amendment published at 83 FR 16224, Apr. 16, 2018.Link to an amendment published at 83 FR 22873, May 17, 2018.
 
 (a) *Property.* Every for-hire, non-exempt motor carrier shall issue a freight or expense bill for each shipment transported containing the following information:
 

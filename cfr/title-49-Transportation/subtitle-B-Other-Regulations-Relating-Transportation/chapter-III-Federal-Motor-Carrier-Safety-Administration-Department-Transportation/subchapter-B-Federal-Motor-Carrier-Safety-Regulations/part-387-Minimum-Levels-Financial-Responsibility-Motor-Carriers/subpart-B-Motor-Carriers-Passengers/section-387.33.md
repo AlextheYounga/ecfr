@@ -1,5 +1,7 @@
 ##### § 387.33 Financial responsibility, minimum levels. #####
 
+Link to an amendment published at 83 FR 22876, May 17, 2018.
+
 (a) *General limits.* The minimum levels of financial responsibility referred to in § 387.31 are prescribed as follows:
 
 SCHEDULE OF LIMITSPublic Liability

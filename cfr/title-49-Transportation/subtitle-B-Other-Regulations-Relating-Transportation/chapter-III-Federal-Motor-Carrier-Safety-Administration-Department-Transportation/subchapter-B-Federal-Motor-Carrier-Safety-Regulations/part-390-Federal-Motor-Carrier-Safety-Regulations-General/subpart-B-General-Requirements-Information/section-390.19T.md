@@ -1,5 +1,7 @@
 ##### § 390.19T Motor carrier identification reports for certain Mexico-domiciled motor carriers. #####
 
+Link to an amendment published at 83 FR 22878, May 17, 2018.
+
 (a) *Applicability.* Each motor carrier and intermodal equipment provider must file Form MCS-150, Form MCS-150B or Form MCS-150C with FMCSA as follows:
 
 (1) A U.S.-, Canada-, Mexico-, or non-North America-domiciled motor carrier conducting operations in interstate commerce must file a Motor Carrier Identification Report, Form MCS-150.

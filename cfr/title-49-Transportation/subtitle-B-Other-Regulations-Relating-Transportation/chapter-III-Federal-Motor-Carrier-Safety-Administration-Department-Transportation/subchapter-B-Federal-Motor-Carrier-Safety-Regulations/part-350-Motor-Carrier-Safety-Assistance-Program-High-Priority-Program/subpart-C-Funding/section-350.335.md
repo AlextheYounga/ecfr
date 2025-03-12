@@ -1,5 +1,7 @@
 ##### § 350.335 What are the consequences if a State has laws or regulations incompatible with the Federal regulations? #####
 
+Link to an amendment published at 83 FR 22873, May 17, 2018.
+
 (a) FMCSA may initiate a proceeding to withdraw Plan approval or withhold MCSAP funds in accordance with 49 CFR 320.215 in the following situations:
 
 (1) When a State that currently has compatible CMV safety laws and regulations pertaining to interstate commerce (*i.e.,* rules identical to the FMCSRs and HMRs or have the same effect as the FMCSRs and identical to the HMRs) and intrastate commerce (*i.e.,* rules identical to or within the tolerance guidelines for the FMCSRs and identical to the HMRs) enacts a law or regulation which results in an incompatible rule;

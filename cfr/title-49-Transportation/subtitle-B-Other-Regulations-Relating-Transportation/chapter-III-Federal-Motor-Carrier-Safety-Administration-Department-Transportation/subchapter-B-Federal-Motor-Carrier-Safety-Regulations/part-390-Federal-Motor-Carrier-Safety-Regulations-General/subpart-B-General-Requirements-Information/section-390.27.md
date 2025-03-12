@@ -1,5 +1,7 @@
 ##### § 390.27 Locations of motor carrier safety service centers. #####
 
+Link to an amendment published at 83 FR 22878, May 17, 2018.
+
 |Service center|                                         Territory included                                          |                                  Location of office                                  |
 |--------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 |   Eastern    |             CT, DC, DE, MA, MD, ME, NJ, NH, NY, PA, PR, RI, VA, VT, Virgin Islands, WV              |               802 Cromwell Park Drive, Suite N, Glen Burnie, MD 21061.               |

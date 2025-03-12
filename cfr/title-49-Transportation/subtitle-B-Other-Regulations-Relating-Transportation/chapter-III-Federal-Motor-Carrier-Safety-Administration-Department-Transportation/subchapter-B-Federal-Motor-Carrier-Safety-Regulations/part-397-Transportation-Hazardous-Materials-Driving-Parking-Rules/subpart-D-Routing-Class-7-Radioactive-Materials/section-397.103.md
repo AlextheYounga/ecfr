@@ -1,5 +1,7 @@
 ##### § 397.103 Requirements for State routing designations. #####
 
+Link to an amendment published at 83 FR 22881, May 17, 2018.
+
 (a) The State routing agency, as defined in § 397.201(c), shall select routes to minimize radiological risk using “Guidelines for Selecting Preferred Highway Routes for Highway Route Controlled Quantity Shipments of Radioactive Materials,” or an equivalent routing analysis which adequately considers overall risk to the public. Designations must be preceded by substantive consultation with affected local jurisdictions and with any other affected States to ensure consideration of all impacts and continuity of designated routes.
 
 (b) State routing agencies may designate preferred routes as an alternative to, or in addition to, one or more Interstate System highways, including interstate system bypasses, or Interstate System beltways.

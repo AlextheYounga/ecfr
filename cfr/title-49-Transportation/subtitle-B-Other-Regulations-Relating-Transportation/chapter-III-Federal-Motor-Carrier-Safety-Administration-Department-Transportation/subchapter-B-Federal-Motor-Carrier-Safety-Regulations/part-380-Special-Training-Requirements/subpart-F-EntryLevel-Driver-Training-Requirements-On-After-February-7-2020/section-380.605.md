@@ -1,5 +1,7 @@
 ##### § 380.605 Definitions. #####
 
+Link to an amendment published at 83 FR 22874, May 17, 2018.
+
 (a) The definitions in parts 383 and 384 of this subchapter apply to this subpart, except as stated below.
 
 (b) As used in this subpart:

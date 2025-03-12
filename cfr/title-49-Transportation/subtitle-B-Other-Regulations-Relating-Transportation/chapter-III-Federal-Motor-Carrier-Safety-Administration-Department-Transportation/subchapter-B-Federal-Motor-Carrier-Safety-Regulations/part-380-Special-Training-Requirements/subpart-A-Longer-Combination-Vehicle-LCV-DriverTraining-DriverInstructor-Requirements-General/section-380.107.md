@@ -1,5 +1,7 @@
 ##### § 380.107 General requirements. #####
 
+Link to an amendment published at 83 FR 22874, May 17, 2018.
+
 (a) Except as provided in § 380.111, a driver who wishes to operate an LCV shall first take and successfully complete an LCV driver-training program that provides the knowledge and skills necessary to operate an LCV. The specific types of knowledge and skills that a training program shall include are outlined in the appendix to this part.
 
 (b) Before a person receives training:

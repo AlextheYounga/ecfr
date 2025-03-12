@@ -1,5 +1,7 @@
 ##### § 387.3 Applicability. #####
 
+Link to an amendment published at 83 FR 22876, May 17, 2018.
+
 (a) This subpart applies to for-hire motor carriers operating motor vehicles transporting property in interstate or foreign commerce.
 
 (b) This subpart applies to motor carriers operating motor vehicles transporting hazardous materials, hazardous substances, or hazardous wastes in interstate, foreign, or intrastate commerce.

@@ -1,5 +1,7 @@
 ##### § 360.3T Filing fees. #####
 
+Link to an amendment published at 83 FR 22873, May 17, 2018.
+
 (a) *Manner of payment.* (1) Except for the insurance fees described in the next sentence, all filing fees will be payable at the time and place the application, petition, or other document is tendered for filing. The service fee for insurance, surety or self-insurer accepted certificate of insurance, surety bond or other instrument submitted in lieu of a broker surety bond must be charged to an insurance service account established by the Federal Motor Carrier Safety Administration in accordance with paragraph (a)(2) of this section.
 
 (2) *Billing account procedure.* A written request must be submitted to the Office of Enforcement and Compliance, Insurance Compliance Division (MC-ECI) to establish an insurance service fee account.

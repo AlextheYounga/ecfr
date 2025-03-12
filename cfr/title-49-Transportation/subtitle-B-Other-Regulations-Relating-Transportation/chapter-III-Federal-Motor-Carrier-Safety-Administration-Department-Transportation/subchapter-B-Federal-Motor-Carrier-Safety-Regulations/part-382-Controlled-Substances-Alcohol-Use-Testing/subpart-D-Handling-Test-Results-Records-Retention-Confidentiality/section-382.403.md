@@ -1,5 +1,7 @@
 ##### § 382.403 Reporting of results in a management information system. #####
 
+Link to an amendment published at 83 FR 22875, May 17, 2018.
+
 (a) An employer shall prepare and maintain a summary of the results of its alcohol and controlled substances testing programs performed under this part during the previous calendar year, when requested by the Secretary of Transportation, any DOT agency, or any State or local officials with regulatory authority over the employer or any of its drivers.
 
 (b) If an employer is notified, during the month of January, of a request by the Federal Motor Carrier Safety Administration to report the employer's annual calendar year summary information, the employer shall prepare and submit the report to the FMCSA by March 15 of that year. The employer shall ensure that the annual summary report is accurate and received by March 15 at the location that the FMCSA specifies in its request. The employer must use the Management Information System (MIS) form and instructions as required by 49 CFR part 40 (at § 40.26 and appendix H to part 40). The employer may also use the electronic version of the MIS form provided by the DOT. The Administrator may designate means (*e.g.,* electronic program transmitted via the Internet), other than hard-copy, for MIS form submission. For information on the electronic version of the form, see: *http://www.fmcsa.dot.gov/safetyprogs/drugs/engtesting.htm.*

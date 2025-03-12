@@ -1,5 +1,7 @@
 ##### § 387.313 Forms and procedures. #####
 
+Link to an amendment published at 83 FR 22877, May 17, 2018.
+
 (a) *Forms for endorsements, certificates of insurance and others* - (1) *In form prescribed.* Endorsements for policies of insurance and surety bonds, certificates of insurance, applications to qualify as a self-insurer, or for approval of other securities or agreements, and notices of cancellation must be in the form prescribed and approved by the FMCSA.
 
 (2) *Aggregation of Insurance.\*\** When insurance is provided by more than one insurer in order to aggregate security limits for carriers operating only freight vehicles under 10,000 pounds Gross Vehicle Weight Rating, as defined in § 387.303(b)(1), a separate *Form BMC 90,* with the specific amounts of underlying and limits of coverage shown thereon or appended thereto, and *Form BMC 91X* certificate is required of each insurer.

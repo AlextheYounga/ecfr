@@ -1,6 +1,6 @@
 ##### § 387.7 Financial responsibility required. #####
 
-Link to an amendment published at 83 FR 16226, Apr. 16, 2018.
+Link to an amendment published at 83 FR 16226, Apr. 16, 2018.Link to an amendment published at 83 FR 22876, May 17, 2018.
 
 (a) No motor carrier shall operate a motor vehicle until the motor carrier has obtained and has in effect the minimum levels of financial responsibility as set forth in § 387.9 of this subpart.
 

@@ -1,5 +1,7 @@
 ##### § 390.3 General applicability. #####
 
+Link to an amendment published at 83 FR 22877, May 17, 2018.
+
 (a) The rules in subchapter B of this chapter are applicable to all employers, employees, and commercial motor vehicles that transport property or passengers in interstate commerce.
 
 (b) The rules in part 383 of this chapter, Commercial Driver's License Standards; Requirements and Penalties, are applicable to every person who operates a commercial motor vehicle, as defined in § 383.5 of this subchapter, in interstate or intrastate commerce and to all employers of such persons.

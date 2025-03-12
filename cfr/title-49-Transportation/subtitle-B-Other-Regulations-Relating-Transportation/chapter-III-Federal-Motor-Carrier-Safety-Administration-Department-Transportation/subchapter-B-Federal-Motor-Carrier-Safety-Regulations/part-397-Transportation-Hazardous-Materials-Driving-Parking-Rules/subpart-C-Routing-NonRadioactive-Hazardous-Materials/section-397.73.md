@@ -1,5 +1,7 @@
 ##### § 397.73 Public information and reporting requirements. #####
 
+Link to an amendment published at 83 FR 22881, May 17, 2018.
+
 (a) Public information. Information on NRHM routing designations must be made available by the States and Indian tribes to the public in the form of maps, lists, road signs or some combination thereof. If road signs are used, those signs and their placements must comply with the provisions of the Manual on Uniform Traffic Control Devices for Streets and Highways, published by the Federal Highway Administration (FHWA), particularly the Hazardous Cargo signs identified as R14-2 and R14-3 shown in Section 2B-62 of that Manual. This publication may be accessed free of charge on the Internet at *http://mutcd.fhwa.dot.gov/.*
 
 (b) *Reporting and publishing requirements.* (1) Each State or Indian tribe, through its routing agency, shall provide information identifying all NRHM routing designations that exist within its jurisdiction by:

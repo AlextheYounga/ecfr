@@ -1,5 +1,7 @@
 ##### § 395.13 Drivers declared out of service. #####
 
+Link to an amendment published at 83 FR 22878, May 17, 2018.
+
 (a) *Authority to declare drivers out of service.* Every special agent of the Federal Motor Carrier Safety Administration (as defined in appendix B to this subchapter) is authorized to declare a driver out of service and to notify the motor carrier of that declaration, upon finding at the time and place of examination that the driver has violated the out of service criteria as set forth in paragraph (b) of this section.
 
 (b) *Out of service criteria.* (1) No driver shall drive after being on duty in excess of the maximum periods permitted by this part.

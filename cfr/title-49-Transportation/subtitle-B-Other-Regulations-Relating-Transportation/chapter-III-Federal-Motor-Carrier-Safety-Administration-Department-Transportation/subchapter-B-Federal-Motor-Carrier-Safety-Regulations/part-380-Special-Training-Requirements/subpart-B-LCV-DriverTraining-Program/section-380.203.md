@@ -1,5 +1,7 @@
 ##### § 380.203 LCV Doubles. #####
 
+Link to an amendment published at 83 FR 22874, May 17, 2018.
+
 (a) To qualify for the training necessary to operate an LCV Double, a driver-student shall, during the 6 months immediately preceding application for training, have:
 
 (1) A valid Class A CDL with a double/triple trailer endorsement;

@@ -1,5 +1,7 @@
 ##### § 380.109 Driver testing. #####
 
+Link to an amendment published at 83 FR 22874, May 17, 2018.
+
 (a) *Testing methods.* The driver-student must pass knowledge and skills tests in accordance with the following requirements, to determine whether a driver-student has successfully completed an LCV driver-training program as specified in subpart B of this part. The written knowledge test may be administered by any qualified driver-instructor. The skills tests, based on actual operation of an LCV, must be administered by a qualified LCV skills instructor.
 
 (1) All tests shall be constructed to determine if the driver-student possesses the required knowledge and skills set forth in the appendix to this part for the specific type of LCV training program being taught.

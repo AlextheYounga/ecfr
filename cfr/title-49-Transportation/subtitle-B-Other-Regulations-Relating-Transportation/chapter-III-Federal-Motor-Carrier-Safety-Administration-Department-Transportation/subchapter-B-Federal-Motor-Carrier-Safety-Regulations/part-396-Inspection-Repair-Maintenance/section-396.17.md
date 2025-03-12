@@ -1,5 +1,7 @@
 ##### § 396.17 Periodic inspection. #####
 
+Link to an amendment published at 83 FR 22881, May 17, 2018.
+
 (a) Every commercial motor vehicle must be inspected as required by this section. The inspection must include, at a minimum, the parts and accessories set forth in appendix G of this subchapter. The term *commercial motor vehicle* includes each vehicle in a combination vehicle. For example, for a tractor semitrailer, full trailer combination, the tractor, semitrailer, and the full trailer (including the converter dolly if so equipped) must each be inspected.
 
 (b) Except as provided in § 396.23 and this paragraph, motor carriers must inspect or cause to be inspected all motor vehicles subject to their control. Intermodal equipment providers must inspect or cause to be inspected intermodal equipment that is interchanged or intended for interchange to motor carriers in intermodal transportation.
