@@ -1,6 +1,6 @@
 ##### § 515.572 Provision of travel, carrier, other transportation-related, and remittance forwarding services. #####
 
-(a) *General licenses* - (1) *Authorization to provide travel services.* Persons subject to U.S. jurisdiction are authorized to provide travel services in connection with travel-related transactions involving Cuba authorized pursuant to this part. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209, or the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210, if the terms of the applicable general or specific license authorizing the travel expressly exclude such a transaction.
+(a) *General licenses*—(1) *Authorization to provide travel services.* Persons subject to U.S. jurisdiction are authorized to provide travel services in connection with travel-related transactions involving Cuba authorized pursuant to this part. Nothing in this paragraph authorizes a direct financial transaction prohibited by § 515.209, or the lodging, paying for lodging, or making any reservation for or on behalf of a third party to lodge, at any property on the Cuba Prohibited Accommodations List to the extent prohibited by § 515.210, if the terms of the applicable general or specific license authorizing the travel expressly exclude such a transaction.
 
 (2) *Authorization to provide carrier services.* (i) Persons subject to U.S. jurisdiction are authorized to provide carrier services to, from, or within Cuba in connection with travel or transportation, directly or indirectly, between the United States and Cuba of persons, baggage, or cargo authorized pursuant to this part.
 
@@ -16,9 +16,13 @@ The export or reexport to Cuba of items subject to the Export Administration Reg
 
 (5) *Authorization to provide civil aviation safety-related services.* Persons subject to U.S. jurisdiction are authorized to provide civil aviation safety-related services to Cuba and Cuban nationals, wherever located, to ensure the safety of civil aviation and the safe operation of commercial aircraft.
 
-Note to paragraph (a)(5):
+Note 2 to paragraph (a)(5):
 
 For provisions related to transactions ordinarily incident to the exportation or reexportation of items to Cuba, see §§ 515.533 and 515.559.
+
+Note 3 to paragraph (*a*):
+
+Section 515.564 authorizes employees, officials, consultants, or agents of persons subject to U.S. jurisdiction providing travel or carrier services or remittance forwarding services authorized pursuant to this part to engage in the travel-related transactions set forth in § 515.560(c) and such additional transactions as are directly incident to travel to Cuba for professional meetings in Cuba, such as those related to safety and security of flights to and from Cuba, or necessary to arrange for travel or carrier services or remittance forwarding to Cuba.
 
 (b) *Required reports and recordkeeping.* (1) Persons subject to U.S. jurisdiction providing services authorized pursuant to paragraphs (a)(1) through (a)(4) of this section must retain for at least five years from the date of the transaction a certification from each customer indicating the section of this part that authorizes the person to travel or send remittances to Cuba. In the case of a customer traveling under a specific license, the specific license number or a copy of the license must be maintained on file with the person subject to U.S. jurisdiction providing services authorized pursuant to this section.
 
@@ -26,7 +30,7 @@ For provisions related to transactions ordinarily incident to the exportation or
 
 (c) *Specific licenses.* Specific licenses may be issued on a case-by-case basis authorizing the provision of travel, carrier, or remittance-forwarding services other than those authorized by paragraph (a) of this section.
 
-Note to § 515.572:
+Note 4 to § 515.572:
 
 The following persons may be transported, directly or indirectly, between the United States and Cuba by a person authorized to provide carrier services:
 
@@ -38,6 +42,6 @@ The following persons may be transported, directly or indirectly, between the Un
 
 (4) Cuban nationals who have taken up residence in the United States and are licensed as unblocked nationals pursuant to § 515.505(a)(1) are persons subject to U.S. jurisdiction and may be transported between the United States and Cuba if they meet the criteria set out in (1) above; and
 
-(5) An individual, including a foreign national, who is traveling on official business of the U.S. government, a foreign government, or an intergovernmental organization of which the United States is a member or in which the United States holds observer status - including an employee, contractor, or grantee of such government or intergovernmental organization and any individual traveling on a diplomatic passport, as well as any close relative, as defined in § 515.339, accompanying the traveler - may be transported between the United States and Cuba.
+(5) An individual, including a foreign national, who is traveling on official business of the U.S. government, a foreign government, or an intergovernmental organization of which the United States is a member or in which the United States holds observer status—including an employee, contractor, or grantee of such government or intergovernmental organization and any individual traveling on a diplomatic passport, as well as any close relative, as defined in § 515.339, accompanying the traveler—may be transported between the United States and Cuba.
 
-[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017; 84 FR 25993, June 5, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020]
+[80 FR 2299, Jan. 16, 2015, as amended at 80 FR 56923, Sept. 21, 2015; 81 FR 4586, Jan. 27, 2016; 81 FR 71377, Oct. 17, 2016; 82 FR 52003, Nov. 9, 2017; 84 FR 25993, June 5, 2019; 85 FR 60072, Sept. 24, 2020; 85 FR 67989, Oct. 27, 2020; 87 FR 35091, June 8, 2022]

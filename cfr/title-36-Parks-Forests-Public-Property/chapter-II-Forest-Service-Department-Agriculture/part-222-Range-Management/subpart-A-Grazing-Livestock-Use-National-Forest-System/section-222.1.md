@@ -1,5 +1,7 @@
 ##### § 222.1 Authority and definitions. #####
 
+Link to an amendment published at 87 FR 35103, June 9, 2022.
+
 (a) *Authority.* The Chief, Forest Service, shall develop, administer and protect the range resources and permit and regulate the grazing use of all kinds and classes of livestock on all National Forest System lands and on other lands under Forest Service control. He may redelegate this authority.
 
 (b) *Definitions.* (1) An *allotment* is a designated area of land available for livestock grazing.

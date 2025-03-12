@@ -22,10 +22,10 @@
 
 Note 1 to § 515.542:
 
-For an authorization of travel-related transactions that are directly incident to the conduct of market research, commercial marketing, sales or contract negotiation, accompanied delivery, installation, leasing, servicing, or repair in Cuba of items consistent with the export or reexport policy of the Department of Commerce, see § 515.533(c).
+For an authorization of travel-related transactions that are directly incident to the conduct of market research, commercial marketing, sales or contract negotiation, accompanied delivery, installation, leasing, servicing, or repair in Cuba of items consistent with the export or reexport policy of the Department of Commerce, see § 515.533(c). For an authorization of travel-related transactions that are directly incident to participation in professional meetings, including where such meetings relate to telecommunications services or other activities authorized by paragraphs (b) through (e) of this section, see § 515.564(a).
 
 Note 2 to § 515.542:
 
 For general licenses authorizing physical and business presence in Cuba for certain persons, see § 515.573. An authorization related to business presence was previously included in this section. For an authorization of certain internet-related services, see § 515.578.
 
-[80 FR 2293, Jan. 16, 2015, as amended at 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 85 FR 60071, Sept. 24, 2020]
+[80 FR 2293, Jan. 16, 2015, as amended at 80 FR 56921, Sept. 21, 2015; 81 FR 13991, Mar. 16, 2016; 81 FR 71376, Oct. 17, 2016; 85 FR 60071, Sept. 24, 2020; 87 FR 35089, June 9, 2022]

@@ -8,6 +8,6 @@ For provisions related to transactions ordinarily incident to the exportation or
 
 Note 2 to § 515.591:
 
-See § 515.564 for a general license authorizing travel-related and other transactions incident to professional research in Cuba, § 515.533(c) for a general license authorizing travel-related and other transactions relating to certain exports and reexports to Cuba, and § 515.575(a) for a general license authorizing transactions, including travel-related transactions, related to certain humanitarian projects.
+See § 515.564 for a general license authorizing travel-related and other transactions incident to professional research and professional meetings in Cuba, § 515.533(c) for a general license authorizing travel-related and other transactions relating to certain exports and reexports to Cuba, and § 515.575(a) for a general license authorizing transactions, including travel-related transactions, related to certain humanitarian projects.
 
-[81 FR 71378, Oct. 17, 2016, as amended at 85 FR 60072, Sept. 24, 2020]
+[81 FR 71378, Oct. 17, 2016, as amended at 85 FR 60072, Sept. 24, 2020; 87 FR 35091, June 9, 2022]

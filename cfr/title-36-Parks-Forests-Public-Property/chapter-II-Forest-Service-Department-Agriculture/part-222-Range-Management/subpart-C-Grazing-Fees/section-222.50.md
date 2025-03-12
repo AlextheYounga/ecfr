@@ -1,5 +1,7 @@
 ##### § 222.50 General procedures. #####
 
+Link to an amendment published at 87 FR 35104, June 9, 2022.
+
 (a) Fees shall be charged for all livestock grazing or livestock use of National Forest system lands, or other lands under Forest Service control. An exception is livestock authorized free of charge under provisions of § 222.3(c)(2)(ii) (B) through (G).
 
 (b) Guiding establishment of fees are the law and general governmental policy as established by Bureau of the Budget (now, Office of Management and Budget) Circular A-25 of September 23, 1959, which directs that a fair market value be obtained for all services and resources provided the public through establishment of a system of reasonable fee charges, and that the users be afford equitable treatment. This policy precludes a monetary consideration in the fee structure for any permit value that may be capitalized into the permit holder's private ranching operation.
