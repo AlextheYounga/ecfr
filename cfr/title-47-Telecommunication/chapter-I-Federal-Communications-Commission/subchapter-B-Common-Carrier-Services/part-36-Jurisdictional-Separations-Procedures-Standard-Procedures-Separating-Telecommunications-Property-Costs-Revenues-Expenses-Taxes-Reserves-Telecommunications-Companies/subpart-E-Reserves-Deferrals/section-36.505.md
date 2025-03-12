@@ -1,5 +1,5 @@
-##### § 36.505 Accumulated amortization - Tangible - Account 3400 (Class B Telephone Companies); Accumulated amortization - Capital Leases - Account 3410 (Class A Telephone Companies). #####
+##### § 36.505 Accumulated amortization—Tangible—Account 3400. #####
 
-Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+Amounts in these accounts are apportioned among the operations on the basis of the separation of the related accounts.
 
-(a) Amounts in these accounts are apportioned among the operations on the basis of the separation of the related accounts.
+[52 FR 17229, May 6, 1987, as amended at 83 FR 63587, Dec. 11, 2018]

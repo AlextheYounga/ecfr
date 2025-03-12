@@ -1,6 +1,4 @@
-##### § 36.353 Network operations expenses - Account 6530 (Class B telephone companies); Accounts 6531, 6532, 6533, 6534, and 6535 (Class A telephone companies). #####
-
-Link to an amendment published at 83 FR 63587, Dec. 11, 2018.
+##### § 36.353 Network operations expenses—Account 6530. #####
 
 (a) This account includes the expenses associated with the provisions of power, network administration, testing, plant operations administration, and engineering.
 

@@ -14,6 +14,6 @@
 
 (c) Host/Remote Message C&WF - Category 4 - This category includes the cost of message host/remote location C&WF for which a message circuit switching function is performed at the host central office. It applies to C&WF between host offices and all remote locations. The procedures for apportioning the cost of these facilities among the operations are set forth in § 36.157.
 
-(d) Effective July 1, 2001, through December 31, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balance of Account 2410 to the categories/subcategories, as specified in paragraph (a) through (c) of this section based on the relative percentage assignment of the average balance of Account 2410 to these categories/subcategories during the twelve month period ending December 31, 2000.
+(d) Effective July 1, 2001, through December 31, 2018, study areas subject to price cap regulation, pursuant to § 61.41 of this chapter, shall assign the average balance of Account 2410 to the categories/subcategories, as specified in paragraph (a) through (c) of this section based on the relative percentage assignment of the average balance of Account 2410 to these categories/subcategories during the twelve-month period ending December 31, 2000.
 
 [52 FR 17229, May 6, 1987, as amended at 66 FR 33206, June 21, 2001; 71 FR 65746, Nov. 9, 2006; 75 FR 30301, June 1, 2010; 76 FR 30841, May 27, 2011; 79 FR 36237, June 26, 2014]
