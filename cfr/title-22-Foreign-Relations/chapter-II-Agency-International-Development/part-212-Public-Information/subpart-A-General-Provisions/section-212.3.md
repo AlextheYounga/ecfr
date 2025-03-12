@@ -1,3 +1,3 @@
-##### § 212.3 Records available on the Agency's Web site. #####
+##### § 212.3 Records available on the Agency's website. #####
 
-Information that is required to be published in the Federal Register under 5 U.S.C. 552(a)(1) is regularly updated by the Agency and found on its public Web site: *www.usaid.gov/foia-requests.* Records that are required by the FOIA to be made available for public inspection in an electronic format under 5 U.S.C. 552(a)(2) also are available on the Agency's public Web site.
+Information that is required to be published in the Federal Register under 5 U.S.C. 552(a)(1) is regularly updated by the Agency and found on its public website, *https://www.usaid.gov/foia-requests,* or for records of the Office of the USAID Inspector General (OIG), on the FOIA page of OIG's public website, *https://oig.usaid.gov/FOIA.* Records required by FOIA to be made available for public inspection in an electronic format under 5 U.S.C. 552(a)(2) are available on the Agency's and OIG's public websites.

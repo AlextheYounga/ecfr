@@ -1,0 +1,3 @@
+##### § 294.29 Billing procedures. #####
+
+All Agreement Holders must submit a voucher to the Maritime Administration for payment. For Agreement Holders operating under more than one TSP Operating Agreement, the Agreement Holder may submit a single monthly voucher applicable to all its TSP Operating Agreements. Each voucher submission must include a certification that the vessel(s) for which payment is requested were operated in accordance with § 294.23(a) and applicable TSP Operating Agreements. All submissions must be forwarded to the Tanker Security Program, Maritime Administration, via email to *sealiftsupport@dot.gov.* Payments will be paid and processed under the terms and conditions of the Prompt Payment Act, 31 U.S.C. 3901, *et seq.*

@@ -13,3 +13,5 @@
 (ii) The particular characteristics of the records involved, including their nature and the type of information contained in them; and
 
 (iii) The identity and number of requesters and whether there is widespread media, historical, academic, or commercial interest in the records.
+
+(b) [Reserved]
