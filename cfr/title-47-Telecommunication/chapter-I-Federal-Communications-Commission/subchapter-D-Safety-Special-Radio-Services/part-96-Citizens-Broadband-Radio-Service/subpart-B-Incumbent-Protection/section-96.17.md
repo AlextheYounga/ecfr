@@ -38,4 +38,4 @@
 
 (f) FSS earth station licensees in the 3600-3700 and 3700-4200 MHz bands may request additional protection from SAS Administrators to prevent harmful interference into their systems. SAS Administrators must establish a process to receive and address such requests, consistent with §§ 96.53(o) and 96.63 and shall make good faith efforts to address interference concerns, consistent with their other responsibilities under this part. In addressing such requests, SASs shall assume that 3700-4200 MHz earth stations are utilizing filters with the characteristics described in § 96.17(a)(3) or (b)(2) as appropriate for the 3600-3700 or 3700-4200 MHz band.
 
-[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016]Effective Date Note:At 81 FR 49066, July 26, 2016, § 96.17(b) was revised. This paragraph contains information collection and recordkeeping requirements and will not become effective until approval has been given by the Office of Management and Budget.
+[80 FR 36222, June 23, 2015, as amended at 81 FR 49066, July 26, 2016]

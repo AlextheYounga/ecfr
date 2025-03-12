@@ -12,10 +12,10 @@ Payment or reimbursement under 38 U.S.C. 1725 for emergency treatment (including
 
 (e) The veteran is financially liable to the provider of emergency treatment for that treatment;
 
-(f) The veteran has no coverage under a health-plan contract for payment or reimbursement, in whole or in part, for the emergency treatment (this condition cannot be met if the veteran has coverage under a health-plan contract but payment is barred because of a failure by the veteran or the provider to comply with the provisions of that health-plan contract, e.g., failure to submit a bill or medical records within specified time limits, or failure to exhaust appeals of the denial of payment);
+(f) The veteran does not have coverage under a health-plan contract that would fully extinguish the medical liability for the emergency treatment (this condition cannot be met if the veteran has coverage under a health-plan contract but payment is barred because of a failure by the veteran or the provider to comply with the provisions of that health-plan contract, *e.g.,* failure to submit a bill or medical records within specified time limits, or failure to exhaust appeals of the denial of payment);
 
 (g) If the condition for which the emergency treatment was furnished was caused by an accident or work-related injury, the claimant has exhausted without success all claims and remedies reasonably available to the veteran or provider against a third party for payment of such treatment; and the veteran has no contractual or legal recourse against a third party that could reasonably be pursued for the purpose of extinguishing, in whole, the veteran's liability to the provider; and
 
 (h) The veteran is not eligible for reimbursement under 38 U.S.C. 1728 for the emergency treatment provided (38 U.S.C. 1728 authorizes VA payment or reimbursement for emergency treatment to a limited group of veterans, primarily those who receive emergency treatment for a service-connected disability).
 
-(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23617, Apr. 20, 2012; 80 FR 79484, Dec. 22, 2015]
+(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23617, Apr. 20, 2012; 80 FR 79484, Dec. 22, 2015; 83 FR 979, Jan. 9, 2018]

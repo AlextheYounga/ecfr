@@ -1,6 +1,20 @@
 ##### § 17.1005 Payment limitations. #####
 
-(a) Payment or reimbursement for emergency treatment under 38 U.S.C. 1725 shall be the lesser of the amount for which the veteran is personally liable or 70 percent of the amount under the applicable Medicare fee schedule for such treatment.
+(a) Payment or reimbursement for emergency treatment (including emergency transportation) under 38 U.S.C. 1725 will be calculated as follows:
+
+(1) If an eligible veteran has personal liability to a provider of emergency treatment and no contractual or legal recourse against a third party, including under a health-plan contract, VA will pay the lesser of the amount for which the veteran is personally liable or 70 percent of the applicable Medicare fee schedule amount for such treatment.
+
+(2) If an eligible veteran has personal liability to a provider of emergency treatment after payment by a third party, including under a health-plan contract, VA will pay:
+
+(i) The difference between the amount VA would have paid under paragraph (a)(1) of this section for the cost of the emergency treatment and the amount paid (or payable) by the third party, if that amount would be greater than zero, or;
+
+(ii) If applying paragraph (a)(2)(i) of this section would result in no payment by VA, the lesser of the veteran's remaining personal liability after such third-party payment or 70 percent of the applicable Medicare fee schedule amount for such treatment.
+
+(3) In the absence of a Medicare fee schedule rate for the emergency treatment, VA payment will be the lesser of the amount for which the veteran is personally liable or the amount calculated by the VA Fee Schedule in § 17.56 (a)(2)(i)(B).
+
+(4) Unless rejected and refunded by the provider within 30 days from the date of receipt, the provider will consider VA's payment made under paragraphs (a)(1), (a)(2), or (a)(3) of this section as payment in full and extinguish the veteran's liability to the provider. (Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.)
+
+(5) VA will not reimburse a veteran under this section for any copayment, deductible, coinsurance, or similar payment that the veteran owes the third party or is obligated to pay under a health-plan contract.
 
 (b) Except as provided in paragraph (c) of this section, VA will not approve claims for payment or reimbursement of the costs of emergency treatment not previously authorized for any period beyond the date on which the medical emergency ended. For this purpose, VA considers that an emergency ends when the designated VA clinician at the VA facility has determined that, based on sound medical judgment, a veteran who received emergency treatment:
 
@@ -16,14 +30,4 @@
 
 (d) If a stabilized veteran who requires continued non-emergency treatment refuses to be transferred to an available VA facility (or other Federal facility that VA has an agreement with to furnish health care services for veterans), VA will make payment or reimbursement only for the expenses related to the initial evaluation and the emergency treatment furnished to the veteran up to the point of refusal of transfer by the veteran.
 
-(e) If an eligible veteran under § 17.1002 has contractual or legal recourse against a third party that would only partially extinguish the veteran's liability to the provider of emergency treatment, then:
-
-(1) VA will be the secondary payer;
-
-(2) Subject to the limitations of this section, VA will pay the difference between the amount VA would have paid under this section for the cost of the emergency treatment and the amount paid (or payable) by the third party; and
-
-(3) The provider will consider the combined payment under paragraph (e)(2) of this section as payment in full and extinguish the veteran's liability to the provider.
-
-(f) VA will not reimburse a claimant under this section for any deductible, copayment or similar payment that the veteran owes the third party.
-
-(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23618, Apr. 20, 2012; 78 FR 36093, June 17, 2013]
+(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23618, Apr. 20, 2012; 78 FR 36093, June 17, 2013; 83 FR 979, Jan. 9, 2018]
