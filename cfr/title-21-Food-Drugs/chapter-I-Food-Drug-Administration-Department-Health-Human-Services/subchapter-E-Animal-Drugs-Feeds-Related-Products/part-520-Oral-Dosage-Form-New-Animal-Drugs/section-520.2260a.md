@@ -32,6 +32,6 @@
 
 (B) [Reserved]
 
-(iii) *Limitations.* Do not administer for more than 5 consecutive days. Do not treat calves within 11 days of slaughter. Do not use in calves to be slaughtered under 1 month of age or in calves being fed an all milk diet. Do not use in female dairy cattle 20 months of age or older; such use may cause drug residues in milk. Administer with adequate supervision. Follow recommended dosages carefully. Fluid intake must be adequate. If symptoms persist after 2 or 3 days, consult a veterinarian.
+(iii) *Limitations.* Do not administer for more than 5 consecutive days. Do not treat calves within 11 days of slaughter. Do not use in calves to be slaughtered under 1 month of age or in calves being fed an all milk diet. Do not use in female dairy cattle 20 months of age or older; such use may cause drug residues in milk. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[87 FR 58961, Sept. 29, 2022]
+[87 FR 58961, Sept. 29, 2022, as amended at 88 FR 14897, Mar. 10, 2023]

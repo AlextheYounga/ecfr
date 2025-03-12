@@ -2,86 +2,32 @@
 
 (a) *Specifications.* (1) Each implant consists of:
 
-(i) 8 pellets, each pellet containing 25 milligrams (mg) trenbolone acetate and 3.5 mg estradiol benzoate.
+(i) 100 milligrams (mg) trenbolone acetate and 14 mg estradiol benzoate (one implant consisting of four pellets, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate) per implant dose.
 
-(ii) 4 pellets, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate.
+(ii) 200 mg trenbolone acetate and 28 mg estradiol benzoate (one implant consisting of eight pellets, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate) per implant dose.
 
-(2) Each extended release implant consists of:
+(2) Each extended-release implant consists of:
 
-(i) 8 pellets with a porous polymer film coating, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate.
+(i) 150 mg trenbolone acetate and 21 mg estradiol benzoate (one implant consisting of six pellets with a porous polymer film coating, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate) per implant dose.
 
-(ii) 6 pellets with a porous polymer film coating, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate.
+(ii) 200 mg trenbolone acetate and 28 mg estradiol benzoate (one implant consisting of eight pellets with a porous polymer film coating, each pellet containing 25 mg trenbolone acetate and 3.5 mg estradiol benzoate) per implant dose.
 
 (b) *Sponsor.* See No. 054771 in § 510.600(c) of this chapter.
 
 (c) *Related tolerances.* See §§ 556.240 and 556.739 of this chapter.
 
-(d) *Conditions of use* - (1) *Steers fed in confinement for slaughter.* (i) For an implant as described in paragraph (a)(1)(i) of this section:
+(d) *Conditions of use*—(1) *Growing beef steers and heifers fed in confinement for slaughter*—(i) *Amounts and indications for use*. (A) An implant containing 100 mg trenbolone acetate and 14 mg estradiol benzoate as described in paragraph (a)(1)(i) of this section for increased rate of weight gain in growing beef steers fed in confinement for slaughter and for increased rate of weight gain and improved feed efficiency in growing beef heifers fed in confinement for slaughter. For increased rate of weight gain for up to 200 days in a reimplantation program where an implant as described in paragraph (a)(1)(i) of this section is the first implant and an implant as described in paragraph (a)(1)(i) or (ii) or (a)(2)(ii) of this section is administered 60 to 120 days later.
 
-(A) *Amount.* 200 mg trenbolone acetate and 28 mg estradiol benzoate.
+(B) An implant containing 200 mg trenbolone acetate and 28 mg estradiol benzoate as described in paragraph (a)(1)(ii) of this section for increased rate of weight gain and improved feed efficiency in growing beef steers fed in confinement for slaughter and for increased rate of weight gain in growing beef heifers fed in confinement for slaughter. For increased rate of weight gain for up to 200 days in a reimplantation program where an implant as described in paragraph (a)(1)(i) of this section is the first implant and an implant as described in paragraph (a)(1)(ii) of this section is administered 60 to 120 days later.
 
-(B) *Indications for use.* For increased rate of weight gain and improved feed efficiency.
+(C) An extended-release implant containing 150 mg trenbolone acetate and 21 mg estradiol benzoate as described in paragraph (a)(2)(i) of this section for increased rate of weight gain for up to 200 days.
 
-(C) *Limitations.* Implant subcutaneously in ear only. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(D) An extended-release implant containing 200 mg trenbolone acetate and 28 mg estradiol benzoate as described in paragraph (a)(2)(ii) of this section for increased rate of weight gain and improved feed efficiency for up to 200 days. For increased rate of weight gain for up to 200 days in a reimplantation program where an implant as described in paragraph (a)(1)(i) of this section is the first implant and an implant as described in paragraph (a)(2)(ii) of this section is administered 60 to 120 days later.
 
-(ii) For an implant as described in paragraph (a)(1)(ii) of this section:
+(ii) *Limitations.* Implant pellets subcutaneously in ear only. Other than as described on the labeling, this implant is not approved for repeated implantation (reimplantation) with any other cattle ear implant in growing beef steers and heifers fed in confinement for slaughter as safety and effectiveness have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows. The extended-release implant described in paragraph (a)(2)(i) of this section, used as described in paragraph (d)(1)(i)(C) of this section, is not approved for repeated implantation (reimplantation) with this or any other cattle ear implant.
 
-(A) *Amount.* 100 mg trenbolone acetate and 14 mg estradiol benzoate.
+(2) *Growing beef steers and heifers on pasture (stocker, feeder, and slaughter)*—(i) *Amounts and indications for use.* An extended-release implant containing 150 mg trenbolone acetate and 21 mg estradiol benzoate as described in paragraph (a)(2)(i) of this section for increased rate of weight gain for up to 200 days.
 
-(B) *Indications for use.* For increased rate of weight gain.
+(ii) *Limitations.* Implant pellets subcutaneously in ear only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant. Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
 
-(C) *Limitations.* Implant subcutaneously in ear only. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
-
-(iii) For an implant as described in paragraph (a)(2)(i) of this section:
-
-(A) *Amount.* 200 mg trenbolone acetate and 28 mg estradiol benzoate in an extended release implant.
-
-(B) *Indications for use.* For increased rate of weight gain and improved feed efficiency for up to 200 days.
-
-(C) *Limitations.* Implant subcutaneously in ear only. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
-
-(2) *Heifers fed in confinement for slaughter.* (i) For an implant as described in paragraph (a)(1)(i) of this section:
-
-(A) *Amount.* 200 mg trenbolone acetate and 28 mg estradiol benzoate.
-
-(B) *Indications for use.* For increased rate of weight gain.
-
-(C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
-
-(ii) For an implant as described in paragraph (a)(1)(ii) of this section:
-
-(A) *Amount.* 100 mg trenbolone acetate and 14 mg estradiol benzoate.
-
-(B) *Indications for use.* For increased rate of weight gain and improved feed efficiency.
-
-(C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
-
-(iii) For an implant as described in paragraph (a)(2)(i) of this section:
-
-(A) *Amount.* 200 mg trenbolone acetate and 28 mg estradiol benzoate in an extended release implant.
-
-(B) *Indications for use.* For increased rate of weight gain and improved feed efficiency for up to 200 days.
-
-(C) *Limitations.* Implant subcutaneously in ear only. Not for use in dairy or beef replacement heifers. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
-
-(3) *Growing beef steers and heifers fed in confinement for slaughter.* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
-
-(A) *Amount.* 150 mg trenbolone acetate and 21 mg estradiol benzoate in an extended-release implant.
-
-(B) *Indications for use.* For increased rate of weight gain for up to 200 days.
-
-(C) *Limitations.* Implant pellets subcutaneously in ear only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant within each separate production phase. Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
-
-(ii) [Reserved]
-
-(4) *Growing beef steers and heifers on pasture (stocker, feeder, and slaughter).* (i) For an implant as described in paragraph (a)(2)(ii) of this section:
-
-(A) *Amount.* 150 mg trenbolone acetate and 21 mg estradiol benzoate in an extended release implant.
-
-(B) *Indications for use.* For increased rate of weight gain for up to 200 days.
-
-(C) *Limitations.* Implant pellets subcutaneously in ear only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant within each separate production phase. Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves because effectiveness and safety have not been established. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
-
-(ii) [Reserved]
-
-[67 FR 78972, Dec. 27, 2002, as amended at 69 FR 67818, Nov. 22, 2004; 79 FR 16197, Mar. 25, 2014; 79 FR 64116, Oct. 28, 2014; 87 FR 17946, Mar. 29, 2022]
+[88 FR 14900, Mar. 10, 2023]

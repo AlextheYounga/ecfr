@@ -22,7 +22,7 @@
 
 (3) If earnings are awarded, the TSP record keeper will calculate the amount to be awarded by:
 
-(i) Determining the payee's award amount (*e.g.,* the percentage of the participant's account);
+(i) Determining the payee's award amount (e.g., the percentage of the participant's account);
 
 (ii) Determining, based on the participant's investment allocation as of the date used to calculate the entitlement, the number and composition of shares that the payee's award amount would have purchased as of the date used to calculate the entitlement.
 

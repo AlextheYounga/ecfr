@@ -1,5 +1,7 @@
 ##### § 900.14 Suspension or revocation of certificates. #####
 
+Link to an amendment published at 88 FR 15171, Mar. 10, 2023.
+
 (a) Except as provided in paragraph (b) of this section, FDA may suspend or revoke a certificate if FDA finds, after providing the owner or operator of the facility with notice and opportunity for an informal hearing in accordance with part 16 of this chapter, that the owner, operator, or any employee of the facility:
 
 (1) Has been guilty of misrepresentation in obtaining the certificate;

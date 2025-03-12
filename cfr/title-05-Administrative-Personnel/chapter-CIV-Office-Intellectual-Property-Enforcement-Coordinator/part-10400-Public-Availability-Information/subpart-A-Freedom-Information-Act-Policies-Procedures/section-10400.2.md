@@ -1,0 +1,3 @@
+##### § 10400.2 The Office of the Intellectual Property Enforcement Coordinator—organization and functions. #####
+
+The Office of the Intellectual Property Enforcement Coordinator was created by Title III of the Pro IP Act of 2008, 15 U.S.C. 8111 *et seq.* The mission of IPEC is to advise the President and coordinate with Cabinet departments and agencies on the development of the United States' overall intellectual property policy and strategy, to promote innovation and creativity, and to ensure effective intellectual property protection and enforcement, domestically and abroad. IPEC is headed by the Intellectual Property Enforcement Coordinator.

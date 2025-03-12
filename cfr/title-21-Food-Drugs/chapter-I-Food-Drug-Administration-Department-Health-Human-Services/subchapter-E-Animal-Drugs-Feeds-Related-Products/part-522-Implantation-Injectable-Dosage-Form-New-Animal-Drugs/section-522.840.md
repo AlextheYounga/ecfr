@@ -8,10 +8,10 @@
 
 (d) *Conditions of use.* For implantation in steers and heifers as follows:
 
-(1) *Amount.* Insert one 25.7-mg implant every 200 days; insert one 43.9-mg implant every 400 days.
+(1) *Amounts and indications for use*—(i) *25.7-mg extended-release implant.* Insert one implant for increased rate of weight gain for up to 200 days in beef steer calves 2 months of age and older; for increased rate of weight gain for up to 200 days in growing beef steers and heifers on pasture (stocker, feeder, and slaughter); and for increased rate of weight gain and improved feed efficiency for up to 200 days in growing beef steers and heifers fed in confinement for slaughter.
 
-(2) *Indications for use.* For increased rate of weight gain in suckling and pastured growing steers; for improved feed efficiency and increased rate of weight gain in steers and heifers fed in confinement for slaughter. No additional effectiveness may be expected from reimplanting in less than 200 days for the 25.7-mg implant or 400 days for the 43.9-mg implant.
+(ii) *43.9-mg extended-release implant.* Insert one implant for increased rate of weight gain for up to 400 days in beef steer calves 2 months of age and older; for increased rate of weight gain for up to 400 days in growing beef steers and heifers on pasture (stocker, feeder, and slaughter); and for increased rate of weight gain and improved feed efficiency for up to 400 days in growing beef steers and heifers fed in confinement for slaughter.
 
-(3) *Limitations.* For subcutaneous ear implantation in steers and heifers only. Safety and effectiveness have not been established in veal calves. A withdrawal period has not been established for this product in preruminating calves. Do not use in calves to be processed for veal.
+(2) *Limitations.* For subcutaneous ear implantation only. Not approved for repeated implantation (reimplantation) with this or any other cattle ear implant within each separate production phase (beef steer calves 2 months of age and older, growing beef steers on pasture (stocker, feeder, and slaughter), growing beef steers and heifers fed in confinement for slaughter). Safety and effectiveness following reimplantation have not been evaluated. Do not use in beef calves less than 2 months of age, dairy calves, and veal calves. A withdrawal period has not been established for this product in pre-ruminating calves. Do not use in dairy cows or in animals intended for subsequent breeding. Use in these cattle may cause drug residues in milk and/or in calves born to these cows.
 
-[69 FR 67818, Nov. 22, 2004, as amended at 77 FR 31723, May 30, 2012; 81 FR 48702, July 26, 2016; 87 FR 10969, Feb. 28, 2022]
+[69 FR 67818, Nov. 22, 2004, as amended at 77 FR 31723, May 30, 2012; 81 FR 48702, July 26, 2016; 87 FR 10969, Feb. 28, 2022; 88 FR 14898, Mar. 10, 2023]

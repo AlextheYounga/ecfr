@@ -1,6 +1,6 @@
-##### § 1690.15 Freezing an account - administrative holds. #####
+##### § 1690.15 Freezing an account—administrative holds. #####
 
-(a) The TSP record keeper may freeze (*e.g.,* place an administrative hold on) a participant's account for any of the following reasons:
+(a) The TSP record keeper may freeze (e.g., place an administrative hold on) a participant's account for any of the following reasons:
 
 (1) Pursuant to a qualifying retirement benefits court order as set forth in part 1653 of this chapter;
 
@@ -12,7 +12,7 @@
 
 (5) In response to litigation pertaining to an account;
 
-(6) For operational reasons (*e.g.,* to correct a processing error or to stop payment on a check when account funds are insufficient);
+(6) For operational reasons (e.g., to correct a processing error or to stop payment on a check when account funds are insufficient);
 
 (7) Pursuant to a written request from a participant made in the manner prescribed by the TSP record keeper; and
 

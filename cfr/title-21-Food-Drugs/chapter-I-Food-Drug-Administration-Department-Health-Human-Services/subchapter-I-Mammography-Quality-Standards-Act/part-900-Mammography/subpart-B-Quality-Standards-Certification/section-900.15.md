@@ -1,5 +1,7 @@
 ##### § 900.15 Appeals of adverse accreditation or reaccreditation decisions that preclude certification or recertification. #####
 
+Link to an amendment published at 88 FR 15171, Mar. 10, 2023.
+
 (a) The appeals procedures described in this section are available only for adverse accreditation or reaccreditation decisions that preclude certification or recertification by FDA. Agency decisions to suspend or revoke certificates that are already in effect will be handled in accordance with § 900.14.
 
 (b) Upon learning that a facility has failed to become accredited or reaccredited, FDA will notify the facility that the agency is unable to certify that facility without proof of accreditation.

@@ -1,0 +1,3 @@
+##### § 10400.17 Markings on released documents. #####
+
+When requested records contain matters that are exempted under 5 U.S.C. 552(b), but such exempted matters can be reasonably segregated from the remainder of the records, the records shall be disclosed by IPEC with the necessary redactions. If records are disclosed in part, IPEC will mark them to show the amount and location of information redacted and the exemption(s) under which the redactions were made unless doing so would harm an interest protected by an applicable exemption.

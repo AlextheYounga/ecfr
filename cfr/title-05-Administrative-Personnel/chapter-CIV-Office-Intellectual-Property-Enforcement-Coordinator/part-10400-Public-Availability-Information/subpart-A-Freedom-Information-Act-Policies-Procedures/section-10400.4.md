@@ -1,0 +1,3 @@
+##### § 10400.4 Access to information. #####
+
+The Office of the Intellectual Property Enforcement Coordinator makes available information pertaining to matters issued, adopted, or promulgated by IPEC, that are within the scope of 5 U.S.C. 552(a)(2). Such “reading room” information is located at *https://www.whitehouse.gov/ipec.* Included in that information are IPEC's proactive disclosures. Proactive disclosures are records that have been requested three or more times, or that have been released to a requester and that IPEC determines have become, or are likely to become, the subject of subsequent requests for substantially the same records.

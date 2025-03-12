@@ -1,5 +1,7 @@
 ##### § 206.6 Report to the President. #####
 
+Link to an amendment published at 88 FR 14890, Mar. 10, 2023.
+
 (a) *In general.* The Commission will include in its report to the President the following:
 
 (1) The determination made and an explanation of the basis for the determination;

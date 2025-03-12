@@ -22,6 +22,6 @@
 
 (3) A second injection may be given 3 days later if symptoms persist.
 
-(4) Not for use in laying hens; do not treat chickens within 5 days of slaughter; do not treat turkeys within 7 days of slaughter.
+(4) Not for use in laying hens; do not treat chickens within 5 days of slaughter. Do not treat turkeys within 7 days of slaughter. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[40 FR 13858, Mar. 27, 1975, as amended at 79 FR 16196, Mar. 25, 2014]
+[40 FR 13858, Mar. 27, 1975, as amended at 79 FR 16196, Mar. 25, 2014; 88 FR 14900, Mar. 10, 2023]

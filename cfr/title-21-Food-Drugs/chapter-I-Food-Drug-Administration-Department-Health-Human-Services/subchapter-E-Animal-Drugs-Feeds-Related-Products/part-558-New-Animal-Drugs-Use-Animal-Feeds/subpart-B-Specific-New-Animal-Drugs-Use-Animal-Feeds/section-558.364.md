@@ -22,6 +22,6 @@
 
 (i) Avilamycin as in § 558.68.
 
-(ii) [Reserved]
+(ii) Virginiamycin as in § 558.635.
 
-[83 FR 64742, Dec. 18, 2018, as amended at 84 FR 8981, Mar. 13, 2019; 86 FR 14825, Mar. 19, 2021]
+[83 FR 64742, Dec. 18, 2018, as amended at 84 FR 8981, Mar. 13, 2019; 86 FR 14825, Mar. 19, 2021; 88 FR 14907, Mar. 10, 2023]

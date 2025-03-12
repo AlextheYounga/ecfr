@@ -1,0 +1,17 @@
+##### § 10400.5 Records requiring consultation, referral, and coordination. #####
+
+Requests for records that are in IPEC's custody, and for which other agencies (or other Federal Government offices) have an interest, shall be reviewed by IPEC. IPEC will then either consult with the other agencies or offices regarding the records; refer the records to the other agencies for further processing; or coordinate with the other agencies when a referral is not appropriate.
+
+(a) *Consultation.* When records originated with IPEC, and contain within them information of interest to another agency or other Federal Government office, IPEC will consult with that agency or office prior to making a release determination.
+
+(b) *Referral*—(1) *Determination.* When IPEC believes that a different agency is best able to determine whether to disclose the record, IPEC will refer to that agency the responsibility for responding to the request regarding that record. Ordinarily, the agency that originated the record is presumed to be the best agency to make the disclosure determination. However, if IPEC and the originating agency jointly agree that IPEC is in the best position to respond regarding the record, then the record may be handled as a consultation.
+
+(2) *Documentation.* Whenever IPEC refers any part of the responsibility for responding to a request to another agency, IPEC must document the referral, maintain a copy of the record that it refers, and notify the requester of the referral, informing the requester of the name(s) of the agency to which the record was referred, including that agency's FOIA contact information.
+
+(3) *Coordination.* The standard referral procedure is not appropriate where disclosure of the identity of the agency to which the referral would be made could harm an interest protected by an applicable exemption, such as the exemptions that protect personal privacy or national security interests. In order to avoid harm to an interest protected by an applicable exemption, IPEC will coordinate with the originating agency to seek its views on the disclosability of the record. IPEC will convey, to the requester, the release determination for the record.
+
+(c) *Classified information.* On receipt of any request involving classified information, IPEC must determine whether the information is currently and properly classified in accordance with applicable classification rules. Whenever a request involves a record containing information that has been classified or may be appropriate for classification by another agency under any applicable executive order concerning the classification of records, IPEC will refer the responsibility for responding to the request regarding that information to the agency that classified the information, or that should consider the information for classification. Whenever a record contains information that has been derivatively classified (for example, when it contains information classified by another agency), IPEC will refer the responsibility for responding to that portion of the request to the agency that classified the underlying information.
+
+(d) *Timing of responses to consultations and referrals.* IPEC will handle all consultations and referrals received by IPEC according to the date that the (consulting or referring) agency received the perfected FOIA request.
+
+(e) *Agreements regarding consultations and referrals.* IPEC may establish agreements with other agencies to eliminate the need for consultations or referrals with respect to particular types of records.

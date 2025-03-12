@@ -6,11 +6,11 @@
 
 (1) Nos. 016592 and 054771 for use as in paragraph (d) of this section.
 
-(2) No. 061133 for use as in paragraph (d)(2) of this section.
+(2) Nos. 055529 and 061133 for use as in paragraph (d)(2) of this section.
 
 (c) *Related tolerances.* See § 556.510 of this chapter.
 
-(d) *Conditions of use* - (1) *Dogs and cats* - (i) *Amount.* 10,000 units per pound body weight daily by intramuscular injection at 24-hour intervals. Continue treatment at least 48 hours after symptoms disappear.
+(d) *Conditions of use* - (1) *Dogs and cats* - (i) *Amount.* 10,000 units per pound body weight daily by intramuscular injection.
 
 (ii) *Indications for use.* Treatment of infections caused by penicillin-sensitive organisms.
 
@@ -24,6 +24,8 @@
 
 (A) For Nos. 054771 and 061133: Do not exceed 7 days of treatment in nonlactating dairy and beef cattle, sheep, and swine, or 5 days in lactating cattle. Discontinue treatment for the following number of days before slaughter: Nonruminating cattle (calves) - 7; all other cattle - 4; sheep - 8; and swine - 6.
 
-(B) For No. 016592: Continue treatment at least 1 day after symptoms disappear (usually 2 or 3 days).
+(B) For Nos. 016592 and 055529: Treatment should not exceed 4 consecutive days. A withdrawal period has not been established for this product in pre-ruminating calves. Discontinue treatment for the following number of days before slaughter: Cattle - 10; sheep - 9; and swine - 7.
 
-[66 FR 712, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 68 FR 42589, July 18, 2003; 69 FR 17586, Apr. 5, 2004; 70 FR 16935, Apr. 4, 2005; 73 FR 14177, Mar. 17, 2008; 75 FR 54017, Sept. 3, 2010; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020]
+(C) For No. 054771: Federal law restricts this drug to use by or on the order of a licensed veterinarian.
+
+[66 FR 712, Jan. 4, 2001, as amended at 68 FR 34534, June 10, 2003; 68 FR 42589, July 18, 2003; 69 FR 17586, Apr. 5, 2004; 70 FR 16935, Apr. 4, 2005; 73 FR 14177, Mar. 17, 2008; 75 FR 54017, Sept. 3, 2010; 78 FR 17597, Mar. 22, 2013; 79 FR 16192, Mar. 25, 2014; 81 FR 22524, Apr. 18, 2016; 84 FR 8974, Mar. 13, 2019; 85 FR 18120, Apr. 1, 2020; 88 FR 14899, Mar. 10, 2023]

@@ -1,5 +1,7 @@
 ##### § 900.12 Quality standards. #####
 
+Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
+
 (a) *Personnel.* The following requirements apply to all personnel involved in any aspect of mammography, including the production, processing, and interpretation of mammograms and related quality assurance activities:
 
 (1) *Interpreting physicians.* All physicians interpreting mammograms shall meet the following qualifications:
@@ -176,7 +178,7 @@
 
 (15) *Film masking devices.* Facilities shall ensure that film masking devices that can limit the illuminated area to a region equal to or smaller than the exposed portion of the film are available to all interpreting physicians interpreting for the facility.
 
-(c) *Medical records and mammography reports* - (1) *Contents and terminology.* Each facility shall prepare a written report of the results of each mammography examination performed under its certificate. The mammography report shall include the following information:
+(c) *Medical records and mammography reports*—(1) *Contents and terminology.* Each facility shall prepare a written report of the results of each mammography examination performed under its certificate. The mammography report shall include the following information:
 
 (i) The name of the patient and an additional patient identifier;
 
@@ -236,7 +238,7 @@
 
 (vii) Mammography unit identification, if there is more than one unit in the facility.
 
-(d) *Quality assurance - general.* Each facility shall establish and maintain a quality assurance program to ensure the safety, reliability, clarity, and accuracy of mammography services performed at the facility.
+(d) *Quality assurance—general.* Each facility shall establish and maintain a quality assurance program to ensure the safety, reliability, clarity, and accuracy of mammography services performed at the facility.
 
 (1) *Responsible individuals.* Responsibility for the quality assurance program and for each of its elements shall be assigned to individuals who are qualified for their assignments and who shall be allowed adequate time to perform these duties.
 
@@ -254,7 +256,7 @@
 
 (2) *Quality assurance records.* The lead interpreting physician, quality control technologist, and medical physicist shall ensure that records concerning mammography technique and procedures, quality control (including monitoring data, problems detected by analysis of that data, corrective actions, and the effectiveness of the correction actions), safety, protection, and employee qualifications to meet assigned quality assurance tasks are properly maintained and updated. These quality control records shall be kept for each test specified in paragraphs (e) and (f) of this section until the next annual inspection has been completed and FDA has determined that the facility is in compliance with the quality assurance requirements or until the test has been performed two additional times at the required frequency, whichever is longer.
 
-(e) *Quality assurance - equipment* - (1) *Daily quality control tests.* Film processors used to develop mammograms shall be adjusted and maintained to meet the technical development specifications for the mammography film in use. A processor performance test shall be performed on each day that clinical films are processed before any clinical films are processed that day. The test shall include an assessment of base plus fog density, mid-density, and density difference, using the mammography film used clinically at the facility.
+(e) *Quality assurance—equipment*—(1) *Daily quality control tests.* Film processors used to develop mammograms shall be adjusted and maintained to meet the technical development specifications for the mammography film in use. A processor performance test shall be performed on each day that clinical films are processed before any clinical films are processed that day. The test shall include an assessment of base plus fog density, mid-density, and density difference, using the mammography film used clinically at the facility.
 
 (i) The base plus fog density shall be within + 0.03 of the established operating level.
 
@@ -320,8 +322,6 @@
 
 (B) *Focal spot dimensions.* Measured values of the focal spot length (dimension parallel to the anode cathode axis) and width (dimension perpendicular to the anode cathode axis) shall be within the tolerance limits specified in table 1.
 
-Table 1
-
 | Focal Spot Tolerance Limit |                           |    |
 |----------------------------|---------------------------|----|
 |Nominal Focal Spot Size (mm)|Maximum Measured Dimensions|    |
@@ -334,8 +334,6 @@ Table 1
 |            0.60            |           0.90            |1.30|
 
 (iv) *Beam quality and half-value layer (HVL).* The HVL shall meet the specifications of § 1020.30(m)(1) of this chapter for the minimum HVL. These values, extrapolated to the mammographic range, are shown in table 2. Values not shown in table 2 may be determined by linear interpolation or extrapolation.
-
-Table 2
 
 |X-ray Tube Voltage (kilovolt peak) and Minimum HVL|                               |                                     |
 |--------------------------------------------------|-------------------------------|-------------------------------------|
@@ -370,7 +368,7 @@ Table 2
 
 (C) A manual emergency compression release that can be activated in the event of power or automatic release failure.
 
-(6) *Quality control tests - other modalities.* For systems with image receptor modalities other than screen-film, the quality assurance program shall be substantially the same as the quality assurance program recommended by the image receptor manufacturer, except that the maximum allowable dose shall not exceed the maximum allowable dose for screen-film systems in paragraph (e)(5)(vi) of this section.
+(6) *Quality control tests—other modalities.* For systems with image receptor modalities other than screen-film, the quality assurance program shall be substantially the same as the quality assurance program recommended by the image receptor manufacturer, except that the maximum allowable dose shall not exceed the maximum allowable dose for screen-film systems in paragraph (e)(5)(vi) of this section.
 
 (7) *Mobile units.* The facility shall verify that mammography units used to produce mammograms at more than one location meet the requirements in paragraphs (e)(1) through (e)(6) of this section. In addition, at each examination location, before any examinations are conducted, the facility shall verify satisfactory performance of such units using a test method that establishes the adequacy of the image quality produced by the unit.
 

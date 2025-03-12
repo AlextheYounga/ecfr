@@ -1,5 +1,7 @@
 ##### § 900.4 Standards for accreditation bodies. #####
 
+Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
+
 (a) *Code of conduct and general responsibilities.* The accreditation body shall accept the following responsibilities in order to ensure safe and accurate mammography at the facilities it accredits and shall perform these responsibilities in a manner that ensures the integrity and impartiality of accreditation body actions.
 
 (1)(i) When an accreditation body receives or discovers information that suggests inadequate image quality, or upon request by FDA, the accreditation body shall review a facility's clinical images or other aspects of a facility's practice to assist FDA in determining whether or not the facility's practice poses a serious risk to human health. Such reviews are in addition to the evaluation an accreditation body performs as part of the initial accreditation or renewal process for facilities.
@@ -44,7 +46,7 @@
 
 (4) If deficiencies cannot be corrected to ensure compliance with standards or if a facility is unwilling to take corrective actions, the accreditation body shall immediately so notify FDA, and shall suspend or revoke the facility's accreditation in accordance with the policies and procedures described under § 900.3(b)(3)(iii)(I).
 
-(c) *Clinical image review for accreditation and reaccreditation* - (1) *Frequency of review.* The accreditation body shall review clinical images from each facility accredited by the body at least once every 3 years.
+(c) *Clinical image review for accreditation and reaccreditation*—(1) *Frequency of review.* The accreditation body shall review clinical images from each facility accredited by the body at least once every 3 years.
 
 (2) *Requirements for clinical image attributes.* The accreditation body shall use the following attributes for all clinical image reviews, unless FDA has approved other attributes:
 
@@ -110,7 +112,7 @@
 
 (7) *Notification of unsatisfactory image quality.* If the accreditation body determines that the clinical images received from a facility are of unsatisfactory quality, the body shall notify the facility of the nature of the problem and its possible causes.
 
-(d) *Phantom image review for accreditation and reaccreditation* - (1) *Frequency of review.* The accreditation body shall review phantom images from each facility accredited by the body at least once every 3 years.
+(d) *Phantom image review for accreditation and reaccreditation*—(1) *Frequency of review.* The accreditation body shall review phantom images from each facility accredited by the body at least once every 3 years.
 
 (2) *Requirements for the phantom used.* The accreditation body shall require that each facility submit for review phantom images that the facility produced using a phantom and methods of use specified by the body and approved by FDA in accordance with § 900.3(d) or paragraph (a)(8) of this section.
 
@@ -150,7 +152,7 @@
 
 (f) *Accreditation body onsite visits and random clinical image reviews.* The accreditation body shall conduct onsite visits and random clinical image reviews of a sample of facilities to monitor and assess their compliance with standards established by the body for accreditation. The accreditation body shall submit annually to FDA, at the address given in § 900.3(b)(1), 3 copies of a summary report describing all facility assessments the body conducted under the provisions of this section for the year being reported.
 
-(1) *Onsite visits* - (i) *Sample size.* Annually, each accreditation body shall visit at least 5 percent of the facilities it accredits. However, a minimum of 5 facilities shall be visited, and visits to no more than 50 facilities are required, unless problems identified in paragraph (f)(1)(i)(B) of this section indicate a need to visit more than 50 facilities.
+(1) *Onsite visits*—(i) *Sample size.* Annually, each accreditation body shall visit at least 5 percent of the facilities it accredits. However, a minimum of 5 facilities shall be visited, and visits to no more than 50 facilities are required, unless problems identified in paragraph (f)(1)(i)(B) of this section indicate a need to visit more than 50 facilities.
 
 (A) At least 50 percent of the facilities visited shall be selected randomly.
 
@@ -176,7 +178,7 @@
 
 (H) Review of all factors related to previously identified concerns or concerns identified during that visit.
 
-(2) *Clinical image review for random sample of facilities* - (i) *Sample size.* In addition to conducting clinical image reviews for accreditation and reaccreditation for all facilities, the accreditation body shall conduct clinical image reviews annually for a randomly selected sample as specified by FDA, but to include at least 3 percent of the facilities the body accredits. Accreditation bodies may count toward this random sample requirement all facilities selected randomly for the onsite visits described in paragraph (f)(1)(i)(A) of this section. Accreditation bodies shall not count toward the random sample requirement any facilities described in paragraph (f)(1)(i)(B) of this section that were selected for a visit because of previously identified concerns.
+(2) *Clinical image review for random sample of facilities*—(i) *Sample size.* In addition to conducting clinical image reviews for accreditation and reaccreditation for all facilities, the accreditation body shall conduct clinical image reviews annually for a randomly selected sample as specified by FDA, but to include at least 3 percent of the facilities the body accredits. Accreditation bodies may count toward this random sample requirement all facilities selected randomly for the onsite visits described in paragraph (f)(1)(i)(A) of this section. Accreditation bodies shall not count toward the random sample requirement any facilities described in paragraph (f)(1)(i)(B) of this section that were selected for a visit because of previously identified concerns.
 
 (ii) *Random clinical image review.* In performing clinical image reviews of the random sample of facilities, accreditation bodies shall evaluate the same attributes as those in paragraph (c) of this section for review of clinical images for accreditation and reaccreditation.
 

@@ -1,5 +1,7 @@
 ##### § 900.2 Definitions. #####
 
+Link to an amendment published at 88 FR 15168, Mar. 10, 2023.
+
 The following definitions apply to subparts A, B, and C of this part:
 
 (a) *Accreditation body* or *body* means an entity that has been approved by FDA under § 900.3(d) to accredit mammography facilities.

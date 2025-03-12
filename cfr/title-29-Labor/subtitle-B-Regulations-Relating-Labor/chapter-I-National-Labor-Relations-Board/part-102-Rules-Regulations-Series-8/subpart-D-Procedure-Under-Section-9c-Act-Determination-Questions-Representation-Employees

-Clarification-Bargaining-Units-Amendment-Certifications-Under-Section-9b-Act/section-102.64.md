@@ -6,4 +6,4 @@
 
 (c) The hearing shall continue from day to day until completed unless the Regional Director concludes that extraordinary circumstances warrant otherwise. The Regional Director may, in the director's discretion, adjourn the hearing to a different place by announcement thereof at the hearing or by other appropriate notice.
 
-[84 FR 69593, Dec. 18, 2019]
+[84 FR 69593, Dec. 18, 2019]Editorial Note:As of March 10, 2023, 29 CFR 102.64(a) is stayed from May 31, 2020, until September 10, 2023.

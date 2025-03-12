@@ -1,0 +1,3 @@
+##### § 10400.16 Aggregation of requests for fees. #####
+
+When IPEC reasonably believes that a requester or a group of requesters acting in concert is attempting to divide a single request into a series of requests for the purpose of avoiding fees, IPEC may aggregate those requests and charge accordingly. IPEC may presume that multiple requests of this type made within a 30-day period have been made in order to avoid fees. For requests separated by a longer period, IPEC will aggregate them only where there is a reasonable basis for determining that aggregation is warranted in view of all the circumstances involved. Multiple requests involving unrelated matters cannot be aggregated.

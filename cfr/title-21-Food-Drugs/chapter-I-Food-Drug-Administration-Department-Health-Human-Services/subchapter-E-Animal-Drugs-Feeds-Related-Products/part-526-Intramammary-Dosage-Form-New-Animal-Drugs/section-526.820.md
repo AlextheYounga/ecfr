@@ -8,16 +8,16 @@
 
 (c) *Related tolerances.* See § 556.230 of this chapter.
 
-(d) *Conditions of use for syringe described in paragraph (a)(1) of this section in lactating cows* - (1) *Amount.* Infuse the contents of one 6-mL syringe (300 mg erythromycin base) into each infected quarter. Repeat infusion at 12-hour intervals for a maximum of 3 infusions.
+(d) *Conditions of use for syringe described in paragraph (a)(1) of this section in lactating cows*—(1) *Amount.* Infuse the contents of one 6-mL syringe (300 mg erythromycin base) into each infected quarter. Repeat infusion at 12-hour intervals for a maximum of 3 infusions.
 
 (2) *Indications for use.* For the treatment of mastitis due to *Staphylococcus aureus, Streptococcus agalactiae, Streptococcus dysgalactiae,* and *Streptococcus uberis* in lactating cows.
 
-(3) *Limitations.* Milk taken from animals during treatment and for 36 hours (3 milkings) after the latest treatment must not be used for food.
+(3) *Limitations.* Milk taken from animals during treatment and for 36 hours (3 milkings) after the latest treatment must not be used for food. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-(e) *Conditions of use for syringe described in paragraph (a)(2) of this section in dry cows* - (1) *Amount.* Infuse the contents of one 12-mL syringe (600 mg erythromycin base) into each infected quarter at the time of drying off.
+(e) *Conditions of use for syringe described in paragraph (a)(2) of this section in dry cows*—(1) *Amount.* Infuse the contents of one 12-mL syringe (600 mg erythromycin base) into each infected quarter at the time of drying off.
 
 (2) *Indications for use.* For the treatment of mastitis due to *Staphylococcus aureus, Streptococcus agalactiae,**Streptococcus dysgalactiae,* and *Streptococcus uberis* in dry cows.
 
-(3) *Limitations.* For use in dry cows only.
+(3) *Limitations.* For use in dry cows only. Federal law restricts this drug to use by or on the order of a licensed veterinarian.
 
-[86 FR 13186, Mar. 8, 2021]
+[86 FR 13186, Mar. 8, 2021, as amended at 88 FR 14901, Mar. 10, 2023]

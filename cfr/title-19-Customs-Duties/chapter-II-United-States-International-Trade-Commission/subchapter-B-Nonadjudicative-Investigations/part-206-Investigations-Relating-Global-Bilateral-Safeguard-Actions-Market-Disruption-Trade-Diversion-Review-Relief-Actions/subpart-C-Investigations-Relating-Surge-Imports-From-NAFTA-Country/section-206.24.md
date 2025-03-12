@@ -1,5 +1,7 @@
 ##### § 206.24 Contents of request. #####
 
+Link to an amendment published at 88 FR 14890, Mar. 10, 2023.
+
 The request for an investigation shall include the following information:
 
 (a) The identity of the entity submitting the request; a description of the relief action the effectiveness of which is allegedly being undermined; and a description of the imported article, identifying the United States tariff provision under which it is classified, and the name of the country or countries from which the surge in imports is alleged to be coming;

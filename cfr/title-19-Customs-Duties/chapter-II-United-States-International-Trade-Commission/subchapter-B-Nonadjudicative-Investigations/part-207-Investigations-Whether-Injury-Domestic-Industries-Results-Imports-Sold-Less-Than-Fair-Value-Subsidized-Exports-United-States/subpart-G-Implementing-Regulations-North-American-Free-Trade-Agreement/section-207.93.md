@@ -1,5 +1,7 @@
 ##### § 207.93 Protection of proprietary information during panel and committee proceedings. #####
 
+Link to an amendment published at 88 FR 14892, Mar. 10, 2023.
+
 (a) *Requests for protective orders.* A request for access to proprietary information pursuant to 19 U.S.C. 1677f(f)(1) shall be made to the Secretary of the Commission.
 
 (b) *Persons authorized to receive proprietary information under protective order.* The following persons may be authorized by the Commission to receive access to proprietary information if they comply with these regulations and such other conditions imposed upon them by the Commission:
