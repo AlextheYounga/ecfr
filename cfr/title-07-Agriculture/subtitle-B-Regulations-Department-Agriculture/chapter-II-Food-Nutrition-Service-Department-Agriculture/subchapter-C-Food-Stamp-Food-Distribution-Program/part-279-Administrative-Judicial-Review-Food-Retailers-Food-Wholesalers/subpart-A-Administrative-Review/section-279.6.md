@@ -1,5 +1,7 @@
 ##### § 279.6 Legal advice and extensions of time. #####
 
+Link to an amendment published at 85 FR 52479, Aug. 26, 2020.
+
 (a) *Advice from Office of the General Counsel.* If any request for review involves any doubtful questions of law, the Benefit Redemption Division shall obtain the advice of the Department's Office of the General Counsel.
 
 (b) *Extensions of time.* Upon timely written request to the designated reviewer by the firm requesting the review, the designated reviewer may grant extensions of time if, in the designated reviewer's discretion, additional time is required for the firm to fully present information in support of its position. However, no extensions may be made in the time allowed for the filing of a request for review.
