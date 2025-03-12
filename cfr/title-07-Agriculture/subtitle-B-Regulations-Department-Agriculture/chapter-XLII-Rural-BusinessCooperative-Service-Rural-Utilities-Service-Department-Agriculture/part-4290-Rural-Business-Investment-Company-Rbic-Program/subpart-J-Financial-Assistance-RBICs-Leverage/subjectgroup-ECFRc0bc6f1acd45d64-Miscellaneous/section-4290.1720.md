@@ -1,3 +1,3 @@
-##### § 4290.1720 Characteristics of Secretary's guarantee. #####
+##### § 4290.1720 Characteristics of Agency's guarantee. #####
 
-If the Secretary agrees to guarantee a RBIC's Debentures, such guarantee will be unconditional, irrespective of the validity, regularity or enforceability of the Debentures or any other circumstances that might constitute a legal or equitable discharge or defense of a guarantor. Pursuant to its guarantee, the Secretary will make timely payments of principal and interest on the Debentures.
+If the Agency agrees to guarantee a RBIC's Debentures, such guarantee will be unconditional, irrespective of the validity, regularity or enforceability of the Debentures or any other circumstances that might constitute a legal or equitable discharge or defense of a guarantor. Pursuant to its guarantee, the Agency will make timely payments of principal and interest on the Debentures.

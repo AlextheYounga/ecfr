@@ -1,6 +1,6 @@
 ##### § 4290.420 Prohibition on exercise of ownership or Control rights in RBIC before approval. #####
 
-Without the Secretary's prior written approval, no change of ownership or Control may take effect and no officer, director, employee or other Person acting on your behalf shall:
+Without the Agency's prior written approval, no change of ownership or Control may take effect and no officer, director, employee or other Person acting on your behalf shall:
 
 (a) Register on your books any transfer of ownership interest to the proposed new owner(s);
 

@@ -2,7 +2,7 @@
 
 (a) If you submit a request for a draw against your Leverage commitment more than 90 days following your submission of an annual SBA Form 468 or a SBA Form 468 (Short Form) or other USDA-approved form(s), you must:
 
-(1) Give the Secretary a financial statement on Form 468 (Short Form) or other USDA-approved form(s), and
+(1) Give the Agency a financial statement on Form 468 (Short Form) or other USDA-approved form(s), and
 
 (2) File a statement of no material adverse change in your financial condition since your last filing of SBA Form 468 or other USDA-approved form(s).
 

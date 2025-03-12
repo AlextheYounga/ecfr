@@ -10,7 +10,7 @@ If you request an informal hearing, and FDA grants the request:
 
 (1) The order withdrawing an exemption under §§ 117.254 and 117.257, rather than the notice under § 16.22(a) of this chapter, provides notice of opportunity for a hearing under this section and is part of the administrative record of the regulatory hearing under § 16.80(a) of this chapter.
 
-(2) A request for a hearing under this subpart must be addressed to the FDA District Director (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition) as provided in the order withdrawing an exemption.
+(2) A request for a hearing under this subpart must be addressed to the FDA Division Director (or, in the case of a foreign facility, the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition) as provided in the order withdrawing an exemption.
 
 (3) Section 117.274, rather than § 16.42(a) of this chapter, describes the FDA employees who preside at hearings under this subpart.
 
@@ -21,3 +21,5 @@ If you request an informal hearing, and FDA grants the request:
 (6) No party shall have the right, under § 16.119 of this chapter to petition the Commissioner of Food and Drugs for reconsideration or a stay of the presiding officer's final decision.
 
 (7) If FDA grants a request for an informal hearing on an appeal of an order withdrawing an exemption, the hearing must be conducted as a regulatory hearing under a regulation in accordance with part 16 of this chapter, except that § 16.95(b) of this chapter does not apply to a hearing under this subpart. With respect to a regulatory hearing under this subpart, the administrative record of the hearing specified in §§ 16.80(a)(1) through (3) and (a)(5) of this chapter and 117.270(c)(5) constitutes the exclusive record for the presiding officer's final decision. For purposes of judicial review under § 10.45 of this chapter, the record of the administrative proceeding consists of the record of the hearing and the presiding officer's final decision.
+
+[80 FR 56145, Sept. 17, 2015, as amended at 85 FR 16553, Mar. 24, 2020]

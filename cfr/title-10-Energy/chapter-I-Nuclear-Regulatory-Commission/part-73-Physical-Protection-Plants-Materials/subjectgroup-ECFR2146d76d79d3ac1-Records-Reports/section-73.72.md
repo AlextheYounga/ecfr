@@ -36,4 +36,4 @@
 
 (b) A licensee who conducts an on-site transfer of spent nuclear fuel that does not travel upon or cross a public highway is exempt from the requirements of this section for that transfer.
 
-[52 FR 9653, Mar. 26, 1987, as amended at 53 FR 4111, Feb. 12, 1988; 60 FR 24552, May 9, 1995; 67 FR 3586, Jan. 25, 2002; 68 FR 58820, Oct. 10, 2003; 74 FR 62684, Dec. 1, 2009; 78 FR 29557, May 20, 2013; 83 FR 58723, Nov. 21, 2018; 84 FR 63568, Nov. 18, 2019]
+[52 FR 9653, Mar. 26, 1987, as amended at 53 FR 4111, Feb. 12, 1988; 60 FR 24552, May 9, 1995; 67 FR 3586, Jan. 25, 2002; 68 FR 58820, Oct. 10, 2003; 74 FR 62684, Dec. 1, 2009; 78 FR 29557, May 20, 2013; 83 FR 58723, Nov. 21, 2018; 84 FR 63568, Nov. 18, 2019; 84 FR 67659, Dec. 11, 2019]

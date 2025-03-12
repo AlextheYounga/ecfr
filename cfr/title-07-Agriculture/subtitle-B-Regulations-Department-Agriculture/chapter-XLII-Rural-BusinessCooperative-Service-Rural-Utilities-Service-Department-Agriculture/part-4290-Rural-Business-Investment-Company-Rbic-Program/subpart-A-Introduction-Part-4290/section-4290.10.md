@@ -1,3 +1,3 @@
 ##### § 4290.10 Description of the Rural Business Investment Company Program. #####
 
-The Rural Business Investment Company (“RBIC”) Program is a Developmental Venture Capital program for the purpose of promoting economic development and the creation of wealth and job opportunities in Rural Areas and among individuals living in such Areas. To this end, the Secretary will select and license RBIC Applicants that will agree to address the unmet Equity Capital needs of Smaller Enterprises primarily located in Rural Areas.
+The Rural Business Investment Company (“RBIC”) Program is a Developmental Capital program for the purpose of promoting economic development and the creation of wealth and job opportunities in Rural Areas and among individuals living in such Areas. To this end, the Agency will select and license RBIC Applicants that will agree to address the unmet Equity Capital needs of Smaller Enterprises primarily located in Rural Areas.

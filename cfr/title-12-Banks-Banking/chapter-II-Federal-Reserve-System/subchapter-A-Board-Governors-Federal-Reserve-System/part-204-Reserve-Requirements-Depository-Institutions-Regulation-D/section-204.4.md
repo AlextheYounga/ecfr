@@ -14,13 +14,13 @@
 
 Table 1 to Paragraph (f)
 
-|                                          Reservable liability                                          |                   Reserve requirement                   |
-|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------|
-|                                       Net Transaction Accounts:                                        |                                                         |
-|                       $0 to reserve requirement exemption amount ($16.9 million)                       |                  0 percent of amount.                   |
-|Over reserve requirement exemption amount ($16.9 million) and up to low reserve tranche ($127.5 million)|                  3 percent of amount.                   |
-|                               Over low reserve tranche ($127.5 million)                                |$3,318,000 plus 10 percent of amount over $127.5 million.|
-|                                       Nonpersonal time deposits                                        |                       0 percent.                        |
-|                                        Eurocurrency liabilities                                        |                       0 percent.                        |
+|                                          Reservable liability                                          |Reserve requirement |
+|--------------------------------------------------------------------------------------------------------|--------------------|
+|                                       Net Transaction Accounts:                                        |                    |
+|                       $0 to reserve requirement exemption amount ($16.9 million)                       |0 percent of amount.|
+|Over reserve requirement exemption amount ($16.9 million) and up to low reserve tranche ($127.5 million)|0 percent of amount.|
+|                               Over low reserve tranche ($127.5 million)                                |0 percent of amount.|
+|                                       Nonpersonal time deposits                                        |     0 percent.     |
+|                                        Eurocurrency liabilities                                        |     0 percent.     |
 
-[Reg. D, 74 FR 25637, May 29, 2009, as amended at 74 FR 52875, Oct. 15, 2009; 75 FR 65564, Oct. 26, 2010; 76 FR 68066, Nov. 3, 2011; 77 FR 21852, Apr. 12, 2012; 77 FR 65774, Oct. 31, 2012; 78 FR 66250, Nov. 5, 2013; 79 FR 68350, Nov. 17, 2014; 80 FR 71683, Nov. 17, 2015; 81 FR 91673, Dec. 19, 2016; 82 FR 51755, Nov. 8, 2017; 83 FR 54518, Oct. 30, 2018; 84 FR 64706, Nov. 25, 2019]
+[Reg. D, 74 FR 25637, May 29, 2009, as amended at 74 FR 52875, Oct. 15, 2009; 75 FR 65564, Oct. 26, 2010; 76 FR 68066, Nov. 3, 2011; 77 FR 21852, Apr. 12, 2012; 77 FR 65774, Oct. 31, 2012; 78 FR 66250, Nov. 5, 2013; 79 FR 68350, Nov. 17, 2014; 80 FR 71683, Nov. 17, 2015; 81 FR 91673, Dec. 19, 2016; 82 FR 51755, Nov. 8, 2017; 83 FR 54518, Oct. 30, 2018; 84 FR 64706, Nov. 25, 2019; 85 FR 16526, Mar. 24, 2020]

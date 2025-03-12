@@ -1,6 +1,6 @@
 ##### § 4290.370 Evaluation criteria. #####
 
-Of those Applicants whose management team is considered qualified for venture capital investing and who have submitted an eligible and complete application, the Secretary on behalf of USDA and the Administrator on behalf of SBA, in their sole discretion, will evaluate and select an Applicant for participation in the RBIC program by considering the following criteria -
+Of those Applicants whose management team is considered qualified for venture capital investing and who have submitted an eligible and complete application, the Administrator of RBS and the Administrator on behalf of SBA, in their sole discretion, will evaluate and select an Applicant for participation in the RBIC program by considering the following criteria:
 
 (a) Whether the Applicant's management team has the knowledge, experience, and capability necessary to manage a sound, economically viable RBIC and to comply with the Act;
 
@@ -14,9 +14,9 @@ Of those Applicants whose management team is considered qualified for venture ca
 
 (f) Whether the Applicant will be able to operate actively in its identified Rural Areas in accordance with its business plan;
 
-(g) The need for Developmental Venture Capital investments in the Rural Areas in which the Applicant intends to invest;
+(g) The need for Developmental Capital investments in the Rural Areas in which the Applicant intends to invest;
 
-(h) The extent to which the Applicant will concentrate its activities on serving Smaller Enterprises and Small Business Concerns located in the Rural Areas in which it intends to invest, including the ratio of resources that it proposes to invest in such Enterprises as compared to other Enterprises;
+(h) The extent to which the Applicant will concentrate its activities on serving Smaller Enterprises located in the Rural Area in which it intends to invest, including the ratio of resources that it proposes to invest in such Enterprises as compared to other Enterprises;
 
 (i) The Applicant's demonstrated understanding of the markets in the Rural Areas in which it intends to focus its activities;
 
@@ -27,3 +27,5 @@ Of those Applicants whose management team is considered qualified for venture ca
 (l) The extent to which the activities proposed by the Applicant will promote economic development and the creation of wealth and job opportunities in the Rural Areas in which it intends to invest and among individuals living in such Areas; and
 
 (m) The strength of the Applicant's application compared to applications submitted by other Applicants intending to invest in the same or proximate Rural Areas.
+
+[69 FR 32202, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]

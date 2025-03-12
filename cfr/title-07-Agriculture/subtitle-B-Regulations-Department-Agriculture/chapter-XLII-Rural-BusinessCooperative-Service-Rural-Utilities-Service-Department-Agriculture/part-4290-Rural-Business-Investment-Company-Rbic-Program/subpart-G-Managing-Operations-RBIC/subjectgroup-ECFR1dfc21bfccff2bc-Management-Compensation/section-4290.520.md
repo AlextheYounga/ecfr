@@ -1,6 +1,6 @@
 ##### § 4290.520 Management Expenses of a RBIC. #####
 
-The Secretary must approve your initial Management Expenses and any increases in your Management Expenses.
+The Agency must approve your initial Management Expenses and any increases in your Management Expenses.
 
 (a) *Definition of Management Expenses.* Management Expenses include:
 
@@ -18,4 +18,4 @@ The Secretary must approve your initial Management Expenses and any increases in
 
 (7) Expenses related to developing, investigating and monitoring investments.
 
-(b) Management Expenses do not include services provided by specialized outside consultants, outside lawyers and independent public accountants, if they perform services not generally performed by a venture capital company.
+(b) Management Expenses do not include services provided by specialized outside consultants, outside lawyers and independent public accountants, if they perform services not generally performed by a capital company.

@@ -6,6 +6,8 @@
 
 *Affiliate* or *Affiliates* has the meaning set forth in title 13 CFR 121.103.
 
+*Agency* means the Rural Business-Cooperative Service (RBS) an agency of the U.S. Department of Agriculture.
+
 *Applicant* means any entity submitting an application to be licensed as a RBIC.
 
 *Articles* mean articles of incorporation or charter and bylaws for a Corporate RBIC, the certificate and limited partnership agreement for a Partnership RBIC, and the operating agreement or other organizational documents for an LLC RBIC.
@@ -60,7 +62,7 @@
 
 *Commitment* means a written agreement between a RBIC and an Enterprise that obligates the RBIC to provide Financing (except a guarantee) to that Enterprise in a fixed or determinable sum, by a fixed or determinable future date. In this context the term “agreement” means that there has been agreement on the principal economic terms of the Financing. The agreement may include reasonable conditions precedent to the RBIC's obligation to fund the Commitment, but these conditions must be outside the RBIC's control.
 
-*Common Control* means a condition such that two or more Persons, either through ownership, management, contract, or otherwise, are under the Control of one group or Person. Two or more RBICs are presumed to be under Common Control if they are Affiliates of each other by reason of common ownership or common officers, directors, or general partners; or if they are managed or their investments are significantly directed either by a common independent Investment Advisor/Manager or managerial contractor, or by two or more such advisors or contractors that are Affiliates of each other. This presumption may be rebutted by evidence satisfactory to the Secretary.
+*Common Control* means a condition such that two or more Persons, either through ownership, management, contract, or otherwise, are under the Control of one group or Person. Two or more RBICs are presumed to be under Common Control if they are Affiliates of each other by reason of common ownership or common officers, directors, or general partners; or if they are managed or their investments are significantly directed either by a common independent Investment Advisor/Manager or managerial contractor, or by two or more such advisors or contractors that are Affiliates of each other. This presumption may be rebutted by evidence satisfactory to the Agency.
 
 *Community Development Finance* means debt securities or equity-type investments in Rural Areas.
 
@@ -84,13 +86,13 @@
 
 *Corporate RBIC* has the meaning set forth in the definition of RBIC in this section.
 
-*Debenture* means a debt obligation issued by RBICs pursuant to section 384E of the Act and held or guaranteed by the Secretary. A Debenture may be prepaid at any time without penalty.
+*Debenture* means a debt obligation issued by RBICs pursuant to section 384E of the Act and held or guaranteed by the Agency. A Debenture may be prepaid at any time without penalty.
 
 *Debt Securities* means instruments evidencing a loan with an option or any other right to acquire Equity Securities in an Enterprise or its Affiliates, or a loan which by its terms is convertible into an equity position. Consideration must be paid for all options acquired.
 
-*Developmental Venture Capital* means Equity Capital invested in Rural Business Concerns, with an objective of fostering economic development in Rural Areas.
+*Developmental Capital* means Equity Capital invested in Rural Business Concerns, with an objective of fostering economic development in Rural Areas.
 
-*Distribution* means any transfer of cash or non-cash assets to the Secretary, the Secretary's agent or Trustee, or to partners in a Partnership RBIC, or to shareholders in a Corporate RBIC, or to members in an LLC RBIC. Capitalization of Retained Earnings Available for Distribution constitutes a Distribution to the RBIC's partners, shareholders, or members.
+*Distribution* means any transfer of cash or non-cash assets to the Agency, the Agency's agent or Trustee, or to partners in a Partnership RBIC, or to shareholders in a Corporate RBIC, or to members in an LLC RBIC. Capitalization of Retained Earnings Available for Distribution constitutes a Distribution to the RBIC's partners, shareholders, or members.
 
 *Enterprise* means a Person engaged in a business or commercial activity which charges for the goods and services it provides, whether such Person is operating for profit or is subject to any legal restrictions on the distribution of profits to its owners, members, or suppliers of its equity or quasi-equity capital. An Enterprise includes:
 
@@ -106,7 +108,7 @@
 
 *Equity Capital* means Equity Securities or Subordinated Debt With Equity Features.
 
-*Equity Securities* means stock of any class in a corporation, stock options, warrants, limited partnership interests in a limited partnership, membership interests in a limited liability company, or joint venture interests.
+*Equity Securities* means stock of any class in a corporation, stock options, warrants, limited partnership interests in a limited partnership, membership interests in a limited liability company, or joint interests.
 
 *Farm Credit System Institution* means an institution defined in section 1.2(a) of the Farm Credit Act of 1971 (12 U.S.C. 2002(a)).
 
@@ -124,9 +126,9 @@
 
 (5) Purchases of securities of an Enterprise through or from an underwriter as permitted by § 4290.825.
 
-*Guaranty Agreement* means the contract entered into by the Secretary which is a guarantee backed by the full faith and credit of the United States Government as to timely payment of principal and interest on Debentures and the Secretary's rights in connection with such guarantee.
+*Guaranty Agreement* means the contract entered into by the Agency which is a guarantee backed by the full faith and credit of the United States Government as to timely payment of principal and interest on Debentures and the Agency's rights in connection with such guarantee.
 
-*Includible Non-Cash Gains* means those non-cash gains (as reported on SBA Form 468 or other USDA-approved form(s)) that are realized in the form of Publicly Traded and Marketable securities or investment grade debt instruments. For purposes of this definition, investment grade debt instruments means those instruments that are rated “BBB” or “Baa”, or better, by Standard & Poor's Corporation or Moody's Investors Service, respectively. Non-rated debt may be considered to be investment grade if a RBIC obtains a written opinion from an investment banking firm acceptable to the Secretary stating that the non-rated debt instrument is equivalent in risk to the issuer's investment grade debt.
+*Includible Non-Cash Gains* means those non-cash gains (as reported on SBA Form 468 or other USDA-approved form(s)) that are realized in the form of Publicly Traded and Marketable securities or investment grade debt instruments. For purposes of this definition, investment grade debt instruments means those instruments that are rated “BBB” or “Baa”, or better, by Standard & Poor's Corporation or Moody's Investors Service, respectively. Non-rated debt may be considered to be investment grade if a RBIC obtains a written opinion from an investment banking firm acceptable to the Agency stating that the non-rated debt instrument is equivalent in risk to the issuer's investment grade debt.
 
 *Institutional Investor* means Entity Institutional Investor or Individual Institutional Investor, each defined as follows:
 
@@ -152,15 +154,15 @@
 
 (x) An entity whose primary purpose is to manage and invest non-Federal funds on behalf of at least three Institutional Investors described in paragraphs (l)(i) through (ix) of this definition, each of whom must have at least a 10 percent ownership interest in the entity.
 
-(xi) Any other entity that the Secretary determines to be an Institutional Investor.
+(xi) Any other entity that the Agency determines to be an Institutional Investor.
 
 (2) *Individual Institutional Investor.* (i) Any of the following individuals if he/she is also a permanent resident of the United States:
 
-(A) An individual who is an Accredited Investor (as defined in the Securities Act of 1933, as amended (15 U.S.C. 77a-77aa)) and whose commitment to the RBIC is backed by a letter of credit from a State or National bank acceptable to the Secretary.
+(A) An individual who is an Accredited Investor (as defined in the Securities Act of 1933, as amended (15 U.S.C. 77a-77aa)) and whose commitment to the RBIC is backed by a letter of credit from a State or National bank acceptable to the Agency.
 
-(B) An individual whose personal net worth is at least $2 million and at least ten times the amount of his or her commitment to the RBIC. The individual's personal net worth must not include the value of any equity in his or her most valuable residence.
+(B) An individual whose personal net worth is at least $2 million and at least ten times the amount of its commitment to the RBIC. The individual's personal net worth must not include the value of any equity in its most valuable residence.
 
-(C) An individual whose personal net worth, not including the value of any equity in his or her most valuable residence, is at least $10 million.
+(C) An individual whose personal net worth, not including the value of any equity in its most valuable residence, is at least $10 million.
 
 (ii) Any individual who is not a permanent resident of the United States but who otherwise satisfies paragraph (2)(i) of this definition provided such individual has irrevocably appointed an agent within the United States for the service of process.
 
@@ -168,7 +170,7 @@
 
 *Lending Institution* means a concern that is operating under regulations of a state or Federal licensing, supervising, or examining body, or whose shares are publicly traded and listed on a recognized stock exchange or is listed in the Automated Quotation System of the National Association of Securities Dealers (NASDAQ) and which has assets in excess of $500 million; and which, in either case, holds itself out to the public as engaged in the making of commercial and industrial loans and whose lending operations are not for the purpose of financing its own or an Associate's sales or business operations.
 
-*Leverage* means financial assistance provided to a RBIC by the Secretary either through the purchase or guaranty of a RBIC's Debentures and any other SBA financial assistance evidenced by a security of the RBIC.
+*Leverage* means financial assistance provided to a RBIC by the Agency either through the purchase or guaranty of a RBIC's Debentures and any other SBA financial assistance evidenced by a security of the RBIC.
 
 *Leverageable Capital* means Regulatory Capital, excluding unfunded commitments.
 
@@ -194,19 +196,17 @@
 
 *Original Issue Price* means the price paid by the purchaser for securities at the time of issuance.
 
-*Participation Agreement* means an agreement between the Secretary and an Applicant licensed as a RBIC pursuant to § 4290.390 of this part, that details the RBIC's operating plan and investment criteria and requires the RBIC to operate pursuant to the Act and this part.
+*Participation Agreement* means an agreement between the Agency and an Applicant licensed as a RBIC pursuant to § 4290.390 of this part, that details the RBIC's operating plan and investment criteria and requires the RBIC to operate pursuant to the Act and this part.
 
 *Partnership RBIC* has the meaning set forth in the definition of RBIC in this section.
 
 *Person* means a natural person or legal entity.
 
-*Pool* means an aggregation of guaranteed Debentures approved by the Secretary.
+*Pool* means an aggregation of guaranteed Debentures approved by the Agency.
 
 *Portfolio* means the securities representing a RBIC's total outstanding Financings of Enterprises. It does not include idle funds or assets acquired in liquidation of Portfolio securities.
 
 *Portfolio Concern* means any Enterprise Assisted by a RBIC.
-
-*Principal Office* means the location where the greatest number of the Enterprise's employees at any one location perform their work. However, for those Enterprises whose “primary industry” (*see* 13 CFR 121.107) is service or construction (*see* 13 CFR 121.201), the determination of principal office excludes the Enterprise's employees who perform the majority of their work at job-site locations to fulfill specific contract obligations.
 
 *Private Capital* has the meaning set forth in § 4290.230.
 
@@ -218,13 +218,13 @@
 
 (2) The aggregate amount of funds invested in any Applicant or RBIC by one or more States, or any political subdivisions, agencies or instrumentalities thereof, including any guarantee extended by such entities.
 
-*Regulatory Capital* means Private Capital, excluding non-cash assets contributed to a RBIC or an Applicant unless such assets have been converted to cash or have been approved by the Secretary for inclusion in Regulatory Capital. For purposes of this definition, sales of contributed non-cash assets with recourse or borrowings against such assets shall not constitute a conversion to cash.
+*Regulatory Capital* means Private Capital, excluding non-cash assets contributed to a RBIC or an Applicant unless such assets have been converted to cash or have been approved by the Agency for inclusion in Regulatory Capital. For purposes of this definition, sales of contributed non-cash assets with recourse or borrowings against such assets shall not constitute a conversion to cash.
 
-*Relevant Venture Capital Finance* means Equity Capital in Rural Business Concerns or benefiting Rural Areas.
+*Relevant Capital Finance* means Equity Capital in Rural Business Concerns or benefiting Rural Areas.
 
 *Retained Earnings Available for Distribution* means Undistributed Net Realized Earnings less any Unrealized Depreciation on Loans and Investments (as reported on SBA Form 468 or other USDA-approved form(s)), and represents the amount that a RBIC may distribute to investors as a profit Distribution, or transfer to Private Capital.
 
-*Rural Area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, according to the most recent decennial Census of the United States (decennial Census), or in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and any area that has been determined to be “rural in character” by the Under Secretary for Rural Development, or as otherwise identified in this definition.
+*Rural Area* means any area of a State not in a city or town that has a population of more than 50,000 inhabitants, according to the most recent decennial Census of the United States (decennial Census), or in the urbanized area contiguous and adjacent to a city or town that has a population of more than 50,000 inhabitants, and any area that has been determined to be “rural in character” by the Under Agency for Rural Development, or as otherwise identified in this definition.
 
 (1) An area that is attached to the urbanized area of a city or town with more than 50,000 inhabitants by a contiguous area of urbanized census blocks that is not more than 2 census blocks wide. Applicants from such an area should work with their Rural Development State Office to request a determination of whether their project is located in a rural area under this provision.
 
@@ -236,7 +236,7 @@
 
 (5) For the purpose of defining a rural area in the Republic of Palau, the Federated States of Micronesia, and the Republic of the Marshall Islands, the USDA shall determine what constitutes rural and rural area based on available population data.
 
-(6) The determination that an area is “rural in character” will be made by the Under Secretary of Rural Development. The process to request a determination under this provision is outlined in paragraph (6)(ii) of this definition.
+(6) The determination that an area is “rural in character” will be made by the Under Agency of Rural Development. The process to request a determination under this provision is outlined in paragraph (6)(ii) of this definition.
 
 (i) The determination that an area is “rural in character” under this definition will apply to areas that are within:
 
@@ -244,11 +244,7 @@
 
 (B) An urbanized area contiguous and adjacent to a city or town of greater than 50,000 inhabitants that is within one-quarter mile of a rural area.
 
-(ii) Units of local government may petition the Under Secretary of Rural Development for a “rural in character” designation by submitting a petition to both the appropriate Rural Development State Director and the Rural Business-Cooperative Service Administrator of USDA on behalf of the Under Secretary. The petition shall document how the area meets the requirements of paragraph (6)(i)(A) or (B) of this definition and discuss why the petitioner believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, and topography and how the local economy is tied to a rural economic base. Upon receiving a petition, the Under Secretary will consult with the applicable Governor or leader in a similar position and request comments to be submitted within 5 business days, unless such comments were submitted with the petition. The Under Secretary will release to the public a notice of a petition filed by a unit of local government not later than 30 days after receipt of the petition by way of publication in a local newspaper and posting on the Agency's Web site, and the Under Secretary will make a determination not less than 15 days, but no more than 60 days, after the release of the notice. Upon a negative determination, the Under Secretary will provide to the petitioner an opportunity to appeal a determination to the Under Secretary, and the petitioner will have 10 business days to appeal the determination and provide further information for consideration.
-
-*Rural Business Concern* means an Enterprise whose Principal Office is located in a Rural Area.
-
-*Rural Business Concern Investment* means a Financing in a Rural Business Concern whose Principal Office was located in a Rural Area at the time of the initial Financing.
+(ii) Units of local government may petition the Under Agency of Rural Development for a “rural in character” designation by submitting a petition to both the appropriate Rural Development State Director and the Rural Business-Cooperative Service Administrator of USDA on behalf of the Under Agency. The petition shall document how the area meets the requirements of paragraph (6)(i)(A) or (B) of this definition and discuss why the petitioner believes the area is “rural in character,” including, but not limited to, the area's population density, demographics, and topography and how the local economy is tied to a rural economic base. Upon receiving a petition, the Under Agency will consult with the applicable Governor or leader in a similar position and request comments to be submitted within 5 business days, unless such comments were submitted with the petition. The Under Agency will release to the public a notice of a petition filed by a unit of local government not later than 30 days after receipt of the petition by way of publication in a local newspaper and posting on the Agency's Web site, and the Under Agency will make a determination not less than 15 days, but no more than 60 days, after the release of the notice. Upon a negative determination, the Under Agency will provide to the petitioner an opportunity to appeal a determination to the Under Agency, and the petitioner will have 10 business days to appeal the determination and provide further information for consideration.
 
 *Rural Business Investment Company* or *RBIC* means a corporation organized as required by § 4290.100 (Corporate RBIC), a limited partnership organized as required by §§ 4290.100 and 4290.160 (Partnership RBIC), or a limited liability company organized as required by §§ 4290.100 and 4290.160 (LLC RBIC), that has been licensed as a RBIC pursuant to § 4290.390.
 
@@ -261,12 +257,6 @@
 (2) An uncle, aunt, nephew, niece, or first cousin; or
 
 (3) A spouse of any person described in paragraph (1) or (2) of this definition.
-
-*Secretary* means the Secretary of Agriculture or his or her designee.
-
-*Small Business Concern* means a for-profit Smaller Enterprise that meets the definition of “business concern” in 13 CFR 121.105 and that, together with its Affiliates, meets the small business size standards set forth in 13 CFR 121.201 or 13 CFR 121.301(c) for the industry in which it is primarily engaged on the date the Financing is made (the term “primarily engaged” for purposes of this definition is defined in 13 CFR 121.107).
-
-*Small Business Concern Investments* means a Financing in the form of Equity Capital in an Enterprise that qualified as both a Smaller Enterprise and a Small Business Concern at the time of the initial Financing.
 
 *Small Business Investment Company* or *SBIC* means a Licensee, as that term is defined in 13 CFR 107.50.
 
@@ -296,7 +286,7 @@
 
 *Trust Certificate Rate* means a fixed rate determined at the time Debentures are pooled.
 
-*Trust Certificates (TCs)* means certificates issued by the Secretary, the Secretary's agent or Trustee and representing ownership of all or a fractional part of a Trust or Pool of Debentures.
+*Trust Certificates (TCs)* means certificates issued by the Agency, the Agency's agent or Trustee and representing ownership of all or a fractional part of a Trust or Pool of Debentures.
 
 *Trustee* means the trustee or trustees of a Trust.
 
@@ -308,10 +298,10 @@
 
 *Unrealized Gain (Loss) on Securities Held* means the sum of the Unrealized Appreciation and Unrealized Depreciation on all of a RBIC's Loans and Investments, less estimated future income tax expense or estimated realizable future income tax benefit, as appropriate.
 
-*Urban Area* means an area containing a city (or its equivalent), or any equivalent geographic area determined by the Census Bureau and adopted by the Secretary for purposes of this definition (about which the Secretary will publish a document in the Federal Register from time to time), which had a population of over 150,000 in the most recent decennial Census and the urbanized areas containing or adjacent to that city, both as determined by the Bureau of the Census for the most recent decennial Census.
+*Urban Area* means an area containing a city (or its equivalent), or any equivalent geographic area determined by the Census Bureau and adopted by the Agency for purposes of this definition (about which the Agency will publish a document in the Federal Register from time to time), which had a population of over 150,000 in the most recent decennial Census and the urbanized areas containing or adjacent to that city, both as determined by the Bureau of the Census for the most recent decennial Census.
 
-*Urban Area Investment* means a Financing in an Enterprise whose Principal Office was located in an Urban Area at the time of the initial Financing.
+*Urban Area Investment* means a Financing in an Enterprise that primarily operates in an Urban Area at the time of the initial Financing.
 
 *USDA* means the U.S. Department of Agriculture, a department of the Federal government headquartered at 1400 Independence Avenue, SW., Washington, DC 20250.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015]
+[69 FR 32202, June 8, 2004, as amended at 76 FR 80221, Dec. 23, 2011; 79 FR 76018, Dec. 19, 2014; 80 FR 9914, Feb. 24, 2015; 85 FR 16522, Mar. 24, 2020]

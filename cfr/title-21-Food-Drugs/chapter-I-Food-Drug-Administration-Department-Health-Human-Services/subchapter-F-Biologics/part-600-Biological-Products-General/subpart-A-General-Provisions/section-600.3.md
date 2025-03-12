@@ -1,7 +1,5 @@
 ##### § 600.3 Definitions. #####
 
-Link to an amendment published at 85 FR 10063, Feb. 21, 2020.
-
 As used in this subchapter:
 
 (a) *Act* means the Public Health Service Act (58 Stat. 682), approved July 1, 1944.
@@ -18,7 +16,7 @@ As used in this subchapter:
 
 (g) *Products* includes biological products and trivalent organic arsenicals.
 
-(h) *Biological product* means any virus, therapeutic serum, toxin, antitoxin, or analogous product applicable to the prevention, treatment or cure of diseases or injuries of man:
+(h) *Biological product* means a virus, therapeutic serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, protein, or analogous product, or arsphenamine or derivative of arsphenamine (or any other trivalent organic arsenic compound), applicable to the prevention, treatment, or cure of a disease or condition of human beings.
 
 (1) A virus is interpreted to be a product containing the minute living cause of an infectious disease and includes but is not limited to filterable viruses, bacteria, rickettsia, fungi, and protozoa.
 
@@ -35,6 +33,8 @@ As used in this subchapter:
 (ii) To a therapeutic serum, if composed of whole blood or plasma or containing some organic constituent or product other than a hormone or an amino acid, derived from whole blood, plasma, or serum.
 
 (iii) To a toxin or antitoxin, if intended, irrespective of its source of origin, to be applicable to the prevention, treatment, or cure of disease or injuries of man through a specific immune process.
+
+(6) A protein is any alpha amino acid polymer with a specific, defined sequence that is greater than 40 amino acids in size. When two or more amino acid chains in an amino acid polymer are associated with each other in a manner that occurs in nature, the size of the amino acid polymer for purposes of this paragraph (h)(6) will be based on the total number of amino acids in those chains, and will not be limited to the number of amino acids in a contiguous sequence.
 
 (i) *Trivalent organic arsenicals* means arsphenamine and its derivatives (or any other trivalent organic arsenic compound) applicable to the prevention, treatment, or cure of diseases or injuries of man.
 
@@ -98,4 +98,4 @@ As used in this subchapter:
 
 (mm) *Resubmission* means a submission by the biologics license applicant or supplement applicant of all materials needed to fully address all deficiencies identified in the complete response letter. A biologics license application or supplement for which FDA issued a complete response letter, but which was withdrawn before approval and later submitted again, is not a resubmission.
 
-[38 FR 32048, Nov. 20, 1973, as amended at 40 FR 31313, July 25, 1975; 55 FR 11014, Mar. 26, 1990; 61 FR 24232, May 14, 1996; 62 FR 39901, July 24, 1997; 64 FR 56449, Oct. 20, 1999; 65 FR 66634, Nov. 7, 2000; 69 FR 18766, Apr. 8, 2004; 70 FR 14982, Mar. 24, 2005; 73 FR 39610, July 10, 2008; 77 FR 26174, May 3, 2012]
+[38 FR 32048, Nov. 20, 1973, as amended at 40 FR 31313, July 25, 1975; 55 FR 11014, Mar. 26, 1990; 61 FR 24232, May 14, 1996; 62 FR 39901, July 24, 1997; 64 FR 56449, Oct. 20, 1999; 65 FR 66634, Nov. 7, 2000; 69 FR 18766, Apr. 8, 2004; 70 FR 14982, Mar. 24, 2005; 73 FR 39610, July 10, 2008; 77 FR 26174, May 3, 2012; 85 FR 10063, Feb. 21, 2020]

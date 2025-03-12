@@ -24,6 +24,8 @@ An order to withdraw a qualified exemption applicable to a farm under § 112.5 m
 
 (g) A statement that any informal hearing on an appeal of the order must be conducted as a regulatory hearing under part 16 of this chapter, with certain exceptions described in § 112.208;
 
-(h) The mailing address, telephone number, email address, and facsimile number of the FDA district office and the name of the FDA District Director in whose district the farm is located (or for foreign farms, the same information for the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition); and
+(h) The mailing address, telephone number, email address, fax number, and name of the FDA Division Director in whose division the farm is located (or for foreign farms, the same information for the Director of the Office of Compliance in the Center for Food Safety and Applied Nutrition); and
 
 (i) The name and the title of the FDA representative who approved the order.
+
+[80 FR 74547, Nov. 27, 2015, as amended at 85 FR 16552, Mar. 24, 2020]

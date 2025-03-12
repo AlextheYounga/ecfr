@@ -1,10 +1,10 @@
-##### § 4290.507 Violations based on false filings and nonperformance of agreements with the Secretary or SBA. #####
+##### § 4290.507 Violations based on false filings and nonperformance of agreements with the Agency or SBA. #####
 
 The following shall constitute a violation of this part:
 
-(a) *Nonperformance.* Failure to perform any of the requirements of any Debenture or of any written agreement with the Secretary or SBA.
+(a) *Nonperformance.* Failure to perform any of the requirements of any Debenture or of any written agreement with the Agency or SBA.
 
-(b) *False statement.* In any document submitted to the Secretary or SBA:
+(b) *False statement.* In any document submitted to the Agency or SBA:
 
 (1) Any false statement knowingly made; or
 

@@ -10,7 +10,7 @@
 
 (3) You may make payments of mortgage principal and interest (including amounts in arrears when you acquired the asset), pay taxes when due, and pay for necessary insurance coverage.
 
-(d) *The Secretary approval of expenditures.* This paragraph (d) applies if you have outstanding Leverage or are applying for Leverage. Any application for the Secretary's approval under this paragraph must specify all expenses estimated to be necessary pending disposal of the assets. Without the Secretary's prior written approval:
+(d) *The Agency approval of expenditures.* This paragraph (d) applies if you have outstanding Leverage or are applying for Leverage. Any application for the Agency's approval under this paragraph must specify all expenses estimated to be necessary pending disposal of the assets. Without the Agency's prior written approval:
 
 (1) Your total expenditures under paragraphs (c)(1) and (c)(2) of this section plus your total Financing(s) to the Portfolio Concern must not exceed your overline limit under § 4290.740; and
 

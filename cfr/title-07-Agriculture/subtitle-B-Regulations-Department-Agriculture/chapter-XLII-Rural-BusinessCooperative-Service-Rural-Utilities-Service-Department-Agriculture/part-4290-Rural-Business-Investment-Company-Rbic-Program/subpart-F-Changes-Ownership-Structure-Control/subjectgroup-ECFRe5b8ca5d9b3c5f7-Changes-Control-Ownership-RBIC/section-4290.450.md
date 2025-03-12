@@ -1,6 +1,6 @@
 ##### § 4290.450 Notification of pledge of RBIC's shares. #####
 
-(a) You must notify the Secretary in writing, within 30 calendar days, of the terms of any transaction in which:
+(a) You must notify the Agency in writing, within 30 calendar days, of the terms of any transaction in which:
 
 (1) Any Person, or group of Persons acting in concert, pledges shares of your stock (or equivalent ownership interests) as collateral for indebtedness; and
 

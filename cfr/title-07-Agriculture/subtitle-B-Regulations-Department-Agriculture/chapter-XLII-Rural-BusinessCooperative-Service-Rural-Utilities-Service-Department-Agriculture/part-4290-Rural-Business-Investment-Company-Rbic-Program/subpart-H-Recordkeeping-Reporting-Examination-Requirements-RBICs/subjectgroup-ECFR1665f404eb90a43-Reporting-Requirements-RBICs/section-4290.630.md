@@ -1,12 +1,12 @@
-##### § 4290.630 Requirement for RBICs to file financial statements and supplementary information with the Secretary. #####
+##### § 4290.630 Requirement for RBICs to file financial statements and supplementary information with the Agency. #####
 
 (a) *Annual filing.* For each fiscal year, you must submit financial statements and supplementary information prepared on SBA Form 468 or other USDA-approved form(s). You must file SBA Form 468 (or other USDA-approved form(s)) on or before the last day of the third month following the end of your fiscal year, except for the information required under paragraphs (e) and (f) of this section, which must be filed on or before the last day of the fifth month following the end of your fiscal year.
 
-(1) *Audit of annual filing form.* An independent public accountant acceptable to the Secretary must audit the annual form submitted under paragraph (a) of this section.
+(1) *Audit of annual filing form.* An independent public accountant acceptable to the Agency must audit the annual form submitted under paragraph (a) of this section.
 
-(2) *Insurance requirement for public accountant.* Unless the Secretary approves otherwise, your independent public accountant must carry at least $1,000,000 of Errors and Omissions insurance, or be self-insured and have a net worth of at least $1,000,000.
+(2) *Insurance requirement for public accountant.* Unless the Agency approves otherwise, your independent public accountant must carry at least $1,000,000 of Errors and Omissions insurance, or be self-insured and have a net worth of at least $1,000,000.
 
-(b) *Interim filings.* When requested by the Secretary, you must file interim reports on SBA Form 468 or other USDA-approved form(s). The Secretary may require you to file the entire form or only certain statements and schedules. You must file such reports on or before the last day of the month following the end of the reporting period. When you submit a request for a draw under a Leverage commitment, you must also comply with any applicable filing requirements set forth in § 4290.1220.
+(b) *Interim filings.* When requested by the Agency, you must file interim reports on SBA Form 468 or other USDA-approved form(s). The Agency may require you to file the entire form or only certain statements and schedules. You must file such reports on or before the last day of the month following the end of the reporting period. When you submit a request for a draw under a Leverage commitment, you must also comply with any applicable filing requirements set forth in § 4290.1220.
 
 (c) *Standards for preparation.* You must prepare SBA Form 468 or other USDA-approved form(s) in accordance with SBA's Accounting Standards and Financial Reporting Requirements for SBICs, which you may obtain from SBA or at *http://www.sba.gov/content/accounting-standards-sbics.*
 

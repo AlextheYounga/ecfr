@@ -1,6 +1,6 @@
 ##### § 4290.600 General requirement for RBIC to maintain and preserve records. #####
 
-(a) Maintaining your accounting records. You must establish and maintain your accounting records using SBA's standard chart of accounts for SBICs, unless the Secretary approves otherwise. You may obtain this chart of accounts from SBA or at *http://www.sba.gov/sites/default/files/files/inv\_charts\_of\_accounts.pdf.*
+(a) Maintaining your accounting records. You must establish and maintain your accounting records using SBA's standard chart of accounts for SBICs, unless the Agency approves otherwise. You may obtain this chart of accounts from SBA or at *http://www.sba.gov/sites/default/files/files/inv\_charts\_of\_accounts.pdf.*
 
 (b) *Location of records.* You must keep the following records at your principal place of business or, in the case of paragraph (b)(3) of this section, at the branch office that is primarily responsible for the transaction:
 

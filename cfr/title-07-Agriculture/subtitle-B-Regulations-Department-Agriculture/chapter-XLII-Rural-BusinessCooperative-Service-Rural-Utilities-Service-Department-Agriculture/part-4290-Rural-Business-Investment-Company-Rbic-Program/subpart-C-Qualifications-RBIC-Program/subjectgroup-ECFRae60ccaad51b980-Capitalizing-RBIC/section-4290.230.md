@@ -20,7 +20,7 @@
 
 (4) Any portion of an unfunded commitment from an Institutional Investor with a net worth of less than $10 million that exceeds 10 percent of such Institutional Investor's net worth.
 
-(5) An unfunded commitment from an investor if the Secretary determines that the collectibility of the commitment is questionable.
+(5) An unfunded commitment from an investor if the Agency determines that the collectability of the commitment is questionable.
 
 (d) *Non-cash capital contributions.* Capital contributions in a form other than cash are subject to the limitations in § 4290.240 of this part.
 
@@ -28,4 +28,6 @@
 
 (1) Such Person's net worth is at least twice the amount borrowed; or
 
-(2) The Secretary gives his or her prior written approval of the capital contribution.
+(2) The Agency gives its prior written approval of the capital contribution.
+
+[69 FR 32202, June 8, 2004, as amended at 85 FR 16523, Mar. 24, 2020]

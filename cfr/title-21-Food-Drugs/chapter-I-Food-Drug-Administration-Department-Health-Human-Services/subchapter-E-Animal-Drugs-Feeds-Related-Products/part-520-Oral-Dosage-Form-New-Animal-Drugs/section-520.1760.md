@@ -6,7 +6,7 @@
 
 (b) *Sponsors.* See No. 055246 in § 510.600(c) of this chapter.
 
-(c) *Conditions of use in dogs* - (1) *Amount* - Administer orally as follows:
+(c) *Conditions of use in dogs*—(1) *Amount.* Administer orally as follows:
 
 (i) Chewable tablet: 2 mg/kg of body weight twice daily.
 

@@ -12,9 +12,9 @@
 
 (iii) It passes through substantially all of the proceeds of the Financing to another entity.
 
-(2) *Exception for pass-through of proceeds to subsidiary.* With the prior written approval of the Secretary, you may finance a passive Enterprise if it passes substantially all of the proceeds through to one or more subsidiary companies, each of which is an eligible Enterprise that is not passive. For the purpose of this paragraph (b)(2), “subsidiary company” means a company in which at least 50 percent of the outstanding voting securities are owned by the Financed passive Enterprise.
+(2) *Exception for pass-through of proceeds to subsidiary.* With the prior written approval of the Agency, you may finance a passive Enterprise if it passes substantially all of the proceeds through to one or more subsidiary companies, each of which is an eligible Enterprise that is not passive. For the purpose of this paragraph (b)(2), “subsidiary company” means a company in which at least 50 percent of the outstanding voting securities are owned by the Financed passive Enterprise.
 
-(3) *Exception for certain Partnership RBICs or LLC RBICs.* With the prior written approval of the Secretary, if you are a Partnership RBIC or LLC RBIC, you may form one or more wholly owned corporations in accordance with this paragraph (b)(3). The sole purpose of such corporation(s) must be to provide Financing to one or more eligible, unincorporated Enterprise. You may form such corporation(s) only if a direct Financing to such Enterprise would cause any of your investors to incur unrelated business taxable income under section 511 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 511). Your investment of funds in such corporation(s) will not constitute a violation of § 4290.730(a).
+(3) *Exception for certain Partnership RBICs or LLC RBICs.* With the prior written approval of the Agency, if you are a Partnership RBIC or LLC RBIC, you may form one or more wholly owned corporations in accordance with this paragraph (b)(3). The sole purpose of such corporation(s) must be to provide Financing to one or more eligible, unincorporated Enterprise. You may form such corporation(s) only if a direct Financing to such Enterprise would cause any of your investors to incur unrelated business taxable income under section 511 of the Internal Revenue Code of 1986, as amended (26 U.S.C. 511). Your investment of funds in such corporation(s) will not constitute a violation of § 4290.730(a).
 
 (c) *Real Estate Enterprises.* (1) You are not permitted to finance:
 
@@ -44,11 +44,15 @@
 
 (i) The funds will be used substantially for a foreign operation; or
 
-(ii) At the time of the Financing or within one year thereafter, more than 49 percent of the employees or tangible assets of the Enterprise are located outside the United States (unless you can show, to the Secretary's satisfaction, that the Financing was used for a specific domestic purpose).
+(ii) At the time of the Financing or within one year thereafter, more than 49 percent of the employees or tangible assets of the Enterprise are located outside the United States (unless you can show, to the Agency's satisfaction, that the Financing was used for a specific domestic purpose).
 
-(2) *Exception.* This paragraph (g) does not prohibit a Financing used to acquire foreign materials and equipment or foreign property rights for use or sale in the United States.
+(2) *Exception.* This paragraph (g) does not prohibit either:
 
-(h) *Financing RBICs, SBICs, or New Markets Venture Capital Companies (NMVC Companies).* (1) You are not permitted to provide funds, directly or indirectly, that will be used:
+(i) A Financing used to acquire foreign materials and equipment or foreign property rights for use or sale in the United States; or
+
+(ii) A Financing in a subsidiary based in the United States of foreign-owned entities with at least 51 percent U.S. ownership.
+
+(h) *Financing RBICs, SBICs, or New Markets Capital Companies (NMVC Companies).* (1) You are not permitted to provide funds, directly or indirectly, that will be used:
 
 (i) To purchase stock in or otherwise provide capital to a RBIC, SBIC or NMVC Company; or
 
@@ -56,10 +60,10 @@
 
 (2) “NMVC Company” is defined in 13 CFR 108.50.
 
-(i) *Entities ineligible for Farm Credit System Assistance.* If one or more Farm Credit System Institutions or their Affiliates owns more than 25 percent of the ownership interests of a Rural Business Investment Company, either alone or in conjunction with other Farm Credit System Institutions (or affiliates), the Rural Business Investment Company may not provide Financing to any entity that is not otherwise eligible to receive Financing from a Farm Credit System Institution under the Farm Credit Act of 1971 (12 U.S.C. 2001 *et seq.*).
+(i) *Entities ineligible for Farm Credit System Assistance.* If one or more Farm Credit System Institutions or their Affiliates owns more than 50 percent of the ownership interests of a Rural Business Investment Company, either alone or in conjunction with other Farm Credit System Institutions (or affiliates), the Rural Business Investment Company may not provide Financing to any entity that is not otherwise eligible to receive Financing from a Farm Credit System Institution under the Farm Credit Act of 1971 (12 U.S.C. 2001 *et seq.*).
 
 (j) *Gaming establishments.* You are not permitted to Finance an Enterprise that derives, or is expected to derive, more than one-third of its gross annual revenue from legal gaming activities.
 
-(k) *Change of ownership of an Enterprise.* You are not permitted to Finance a change of ownership of an Enterprise unless otherwise approved by the Secretary.
+(k) *Change in control of an Enterprise.* You are not permitted to Finance a change of more than 50 percent control of an Enterprise unless otherwise approved by the Agency.
 
-[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011]
+[69 FR 32202, June 8, 2004, as amended at 76 FR 80224, Dec. 23, 2011; 85 FR 16523, Mar. 24, 2020]

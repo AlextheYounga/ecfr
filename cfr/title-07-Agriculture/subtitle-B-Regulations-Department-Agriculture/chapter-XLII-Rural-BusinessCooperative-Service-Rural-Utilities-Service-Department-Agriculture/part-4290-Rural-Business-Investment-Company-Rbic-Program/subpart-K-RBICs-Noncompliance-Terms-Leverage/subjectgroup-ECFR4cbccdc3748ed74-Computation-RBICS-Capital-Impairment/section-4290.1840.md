@@ -20,7 +20,7 @@
 
 (2) Determine your Unrealized Appreciation on Publicly Traded and Marketable securities. This is your ”Class I Appreciation”.
 
-(3) Determine your Unrealized Appreciation on securities that are not Publicly Traded and Marketable and meet the following criteria, which must be substantiated to the Secretary's satisfaction (this is your “Class 2 Appreciation”):
+(3) Determine your Unrealized Appreciation on securities that are not Publicly Traded and Marketable and meet the following criteria, which must be substantiated to the Agency's satisfaction (this is your “Class 2 Appreciation”):
 
 (i) The Portfolio Concern that issued the security received a significant subsequent equity financing by an investor whose objectives were not primarily strategic and at a price that conclusively supports the Unrealized Appreciation;
 
