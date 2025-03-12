@@ -98,20 +98,21 @@
 
 Table 1 to Paragraph (b)(5) - Infant Meal Patterns
 
-|          Infants          |                    Birth through 5 months                    |                                   6 through 11 months                                    |
-|---------------------------|--------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|Breakfast, Lunch, or Supper|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|           6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and            |
-|                           |                                                              |                       0-1/2 ounce equivalent infant cereal; 2 3 or                       |
-|                           |                                                              | 0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or |
-|                           |                                                              |                                 0-2 ounces of cheese; or                                 |
-|                           |                                                              |                        0-4 ounces (volume) of cottage cheese; or                         |
-|                           |                                                              |0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and|
-|                           |                                                              |             0-2 tablespoons vegetable or fruit, or a combination of both 5 6             |
-|           Snack           |4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|           2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and            |
-|                           |                                                              |                           0-1/2 ounce equivalent bread; 3 7 or                           |
-|                           |                                                              |                         0-1/4 ounce equivalent crackers; 3 7 or                          |
-|                           |                                                              |  0-1/2 ounce equivalent infant cereal 2 3 or ready-to-eat breakfast cereal; 3 5 7 8 and  |
-|                           |                                                              |            0-2 tablespoons vegetable or fruit, or a combination of both.4 5 6            |
+|          Infants          |                    Birth through 5 months                    |                                           6 through 11 months                                           |
+|---------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|Breakfast, Lunch, or Supper|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                   6-8 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                   |
+|                           |                                                              |                    0-1/2 ounce equivalent infant cereal;<sup>2</sup><sup>3</sup> or                     |
+|                           |                                                              |        0-4 tablespoons meat, fish, poultry, whole egg, cooked dry beans, or cooked dry peas; or         |
+|                           |                                                              |                                        0-2 ounces of cheese; or                                         |
+|                           |                                                              |                                0-4 ounces (volume) of cottage cheese; or                                |
+|                           |                                                              |       0-4 ounces or1/2 cup of yogurt;<sup>4</sup> or a combination of the above;<sup>5</sup> and        |
+|                           |                                                              |          0-2 tablespoons vegetable or fruit, or a combination of both.<sup>5</sup><sup>6</sup>          |
+|           Snack           |4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                   2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                   |
+|                           |                                                              |                        0-1/2 ounce equivalent bread;<sup>3</sup><sup>7</sup> or                         |
+|                           |                                                              |                       0-1/4 ounce equivalent crackers;<sup>3</sup><sup>7</sup> or                       |
+|                           |                                                              |                    0-1/2 ounce equivalent infant cereal;<sup>2</sup><sup>3</sup> or                     |
+|                           |                                                              |0-1/4 ounce equivalent ready-to-eat breakfast cereal;<sup>3</sup><sup>5</sup><sup>7</sup><sup>8</sup> and|
+|                           |                                                              |          0-2 tablespoons vegetable or fruit, or a combination of both.<sup>5</sup><sup>6</sup>          |
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -219,7 +220,7 @@ Table 4 to Paragraph (c)(3) - Child and Adult Care Food Program Snack
 |          Food components and food items<sup>1</sup>          | Minimum quantities |                    |                                                                                                          |                  |                   |
 |--------------------------------------------------------------|--------------------|--------------------|----------------------------------------------------------------------------------------------------------|------------------|-------------------|
 |                           Ages 1-2                           |      Ages 3-5      |     Ages 6-12      |Ages 13-18<sup>2</sup>  <br/>(at-risk  <br/>afterschool  <br/>programs and  <br/>emergency  <br/>shelters)|Adult participants|                   |
-|                    Fluid Milk<sup>3</sup>                    |   4 fluid ounces   |   6 fluid ounces   |                                              8 fluid ounces                                              |  8 fluid ounces  |  8 fluid ounces.  |
+|                    Fluid Milk<sup>3</sup>                    |   4 fluid ounces   |   4 fluid ounces   |                                              8 fluid ounces                                              |  8 fluid ounces  |  8 fluid ounces.  |
 |       Meat/meat alternates (edible portion as served):       |                    |                    |                                                                                                          |                  |                   |
 |                 Lean meat, poultry, or fish                  |     1/2 ounce      |     1/2 ounce      |                                                 1 ounce                                                  |     1 ounce      |     1 ounce.      |
 |Tofu, soy products, or alternate protein products<sup>4</sup> |     1/2 ounce      |     1/2 ounce      |                                                 1 ounce                                                  |     1 ounce      |     1 ounce.      |
@@ -227,11 +228,11 @@ Table 4 to Paragraph (c)(3) - Child and Adult Care Food Program Snack
 |                          Large egg                           |        1/2         |        1/2         |                                                   1/2                                                    |       1/2        |       1/2.        |
 |                   Cooked dry beans or peas                   |      1/8 cup       |      1/8 cup       |                                                 1/4 cup                                                  |     1/4 cup      |     1/4 cup.      |
 | Peanut butter or soy nut butter or other nut or seed butters |       1 Tbsp       |       1 Tbsp       |                                                  2 Tbsp                                                  |      2 Tbsp      |      2 Tbsp.      |
-|Yogurt, plain or flavored unsweetened or sweetened<sup>5</sup>| 2 ounces or1/2 cup | 2 ounces or1/2 cup |                                            4 ounces or3/4 cup                                            |4 ounces or3/4 cup|4 ounces or1/2 cup.|
+|Yogurt, plain or flavored unsweetened or sweetened<sup>5</sup>| 2 ounces or1/4 cup | 2 ounces or1/4 cup |                                            4 ounces or1/2 cup                                            |4 ounces or1/2 cup|4 ounces or1/2 cup.|
 |            Peanuts, soy nuts, tree nuts, or seeds            |     1/2 ounce      |     1/2 ounce      |                                                 1 ounce                                                  |     1 ounce      |     1 ounce.      |
 |                    Vegetables<sup>6</sup>                    |      1/2 cup       |      1/2 cup       |                                                 3/4 cup                                                  |     3/4 cup      |     1/2 cup.      |
 |                      Fruits<sup>6</sup>                      |      1/2 cup       |      1/2 cup       |                                                 3/4 cup                                                  |     3/4 cup      |     1/2 cup.      |
-|                    Grains (oz. eq.) 7 8 9                    |1/2 ounce equivalent|1/2 ounce equivalent|                                            1 ounce equivalent                                            |1 ounce equivalent|1 ounce equivalent.|
+|     Grains (oz. eq.)<sup>7</sup><sup>8</sup><sup>9</sup>     |1/2 ounce equivalent|1/2 ounce equivalent|                                            1 ounce equivalent                                            |1 ounce equivalent|1 ounce equivalent.|
 
 Endnotes:
 
@@ -241,7 +242,7 @@ Endnotes:
 
 <sup>3</sup> Must be unflavored whole milk for children age one. Must be unflavored low-fat (1 percent fat or less) or unflavored fat-free (skim) milk for children two through five years old. Must be unflavored low-fat (1 percent fat or less) or unflavored or flavored fat-free (skim) milk for children 6 years old and older and adults. For adult participants, 6 ounces (weight) or3/4 cup (volume) of yogurt may be used to meet the equivalent of 8 ounces of fluid milk once per day when yogurt is not served as a meat alternate in the same meal.
 
-<sup>4</sup> Alternate protein products must meet the requirements in Appendix A to part 226 of this chapter.
+<sup>4</sup> Alternate protein products must meet the requirements in appendix A to this part.
 
 <sup>5</sup> Yogurt must contain no more than 23 grams of total sugars per 6 ounces.
 
@@ -321,4 +322,4 @@ Endnotes:
 
 (p) *Prohibition on using foods and beverages as punishments or rewards.* Meals served under this part must contribute to the development and socialization of children. Institutions and facilities must not use foods and beverages as punishments or rewards.
 
-[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020; 86 FR 57547, Oct. 18, 2021]
+[81 FR 24377, Apr. 25, 2016, as amended at 81 FR 75677, Nov. 1, 2016; 83 FR 56716, Nov. 30, 2017; 84 FR 50292, Sept. 25, 2019; 85 FR 7855, Feb. 12, 2020; 85 FR 74850, Nov. 24, 2020; 86 FR 57547, Oct. 18, 2021; 87 FR 4127, Jan. 27, 2022]

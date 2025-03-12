@@ -286,14 +286,14 @@ Endnotes:
 
 Table 6 to Paragraph (o)(4)(ii) - Infant Snack Meal Pattern
 
-|                    Birth through 5 months                    |                                 6 through 11 months                                  |
-|--------------------------------------------------------------|--------------------------------------------------------------------------------------|
-|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                      2-4 fluid ounces breastmilk<sup>1</sup> or                      |
-|                                                              |                               formula;<sup>2</sup> and                               |
-|                                                              |                         0-1/2 ounce equivalent bread; 3 4 or                         |
-|                                                              |                       0-1/4 ounce equivalent crackers; 3 4 or                        |
-|                                                              |0-1/2 ounce equivalent infant cereal 2 4 or ready-to-eat breakfast cereal; 3 4 5 6 and|
-|                                                              |           0-2 tablespoons vegetable or fruit, or a combination of both.6 7           |
+|                    Birth through 5 months                    |                                           6 through 11 months                                           |
+|--------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|4-6 fluid ounces breastmilk<sup>1</sup> or formula<sup>2</sup>|                   2-4 fluid ounces breastmilk<sup>1</sup> or formula;<sup>2</sup> and                   |
+|                                                              |                        0-1/2 ounce equivalent bread;<sup>3</sup><sup>4</sup> or                         |
+|                                                              |                       0-1/4 ounce equivalent crackers;<sup>3</sup><sup>4</sup> or                       |
+|                                                              |                    0-1/2 ounce equivalent infant cereal;<sup>2</sup><sup>4</sup> or                     |
+|                                                              |0-1/4 ounce equivalent ready-to-eat breakfast cereal;<sup>3</sup><sup>4</sup><sup>5</sup><sup>6</sup> and|
+|                                                              |          0-2 tablespoons vegetable or fruit, or a combination of both.<sup>6</sup><sup>7</sup>          |
 
 <sup>1</sup> Breastmilk or formula, or portions of both, must be served; however, it is recommended that breastmilk be served in place of formula from birth through 11 months. For some breastfed infants who regularly consume less than the minimum amount of breastmilk per feeding, a serving of less than the minimum amount of breastmilk may be offered, with additional breastmilk offered at a later time if the infant will consume more.
 
@@ -382,4 +382,4 @@ Table 8 to Paragraph (q)(2) - Infant Lunch Meal Pattern
 
 <sup>6</sup> Fruit and vegetable juices must not be served.
 
-[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021]
+[77 FR 4143, Jan. 26, 2012, as amended at 78 FR 13448, Feb. 28, 2013; 78 FR 39090, June 28, 2013; 81 FR 24372, Apr. 25, 2016; 81 FR 50185, July 29, 2016; 81 FR 75671, Nov. 1, 2016; 82 FR 56713, Nov. 30, 2017; 83 FR 63789, Dec. 12, 2018; 84 FR 50289, Sept. 25, 2019; 85 FR 7853, Feb. 12, 2020; 85 FR 74847, Nov. 24, 2020; 86 FR 57544, Oct. 18, 2021; 87 FR 4126, Jan. 27, 2022]

@@ -1,6 +1,6 @@
 ##### § 413.77 Direct GME payments: Determination of per resident amounts. #####
 
-Link to an amendment published at 86 FR 72516, Dec. 22, 2021.Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+Link to an amendment published at 86 FR 72516, Dec. 22, 2021.Link to an amendment published at 86 FR 73512, Dec. 27, 2021.Link to a correction published at 87 FR 4167, Jan. 27, 2022.
 
 (a) *Per resident amount for the base period.* (1) Except as provided in paragraph (d) of this section, the contractor determines a base-period per resident amount for each hospital as follows:
 
