@@ -1,7 +1,5 @@
 ##### § 413.75 Direct GME payments: General requirements. #####
 
-Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
-
 (a) *Statutory basis and scope* - (1) *Basis.* This section and §§ 413.76 through 413.83 implement section 1886(h) of the Act by establishing the methodology for Medicare payment of the cost of direct graduate medical educational activities.
 
 (2) *Scope.* This section and §§ 413.76 through 413.83 apply to Medicare payments to hospitals and hospital-based providers for the costs of approved residency programs in medicine, osteopathy, dentistry, and podiatry for cost reporting periods beginning on or after July 1, 1985.
@@ -112,9 +110,11 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 *Resident* means an intern, resident, or fellow who participates in an approved medical residency program, including programs in osteopathy, dentistry, and podiatry, as required in order to become certified by the appropriate specialty board. Effective for cost reporting periods beginning on or after October 1, 2010, *resident* means an intern, resident, or fellow who is formally accepted, enrolled, and participating in an approved medical residency program, including programs in osteopathy, dentistry, and podiatry, as required in order to become certified by the appropriate specialty board.
 
-*Rural track FTE limitation* means the maximum number of residents (as specified in § 413.79(k)) training in a rural track residency program that an urban hospital may include in its FTE count and that is in addition to the number of FTE residents already included in the hospital's FTE cap.
+*Rural track FTE limitation* means the maximum number of residents (as specified in § 413.79(k)) training in a rural track residency program that an urban hospital or rural hospital may include in its FTE count and that is in addition to the number of FTE residents already included in the hospital's FTE cap.
 
-*Rural track or integrated rural track* means an approved medical residency training program established by an urban hospital in which residents train for a portion of the program at the urban hospital and then rotate for a portion of the program to a rural hospital(s) or a rural nonhospital site(s).
+*Rural track or integrated rural track* means, for programs started in cost reporting periods prior to October 1, 2022, an approved medical residency training program established by an urban hospital in which residents train for a portion of the program at the urban hospital and then rotate for a portion of the program to a rural hospital(s) or a rural nonhospital site(s).
+
+*Rural Track Program* means, effective for cost reporting periods beginning on or after October 1, 2022, an ACGME-accredited program in which residents/fellows gain both urban and rural experience with more than half of the education and training for a resident/fellow taking place in a rural area as defined at 42 CFR 412.62(f)(iii).
 
 *Shared rotational arrangement* means a residency training program under which a resident(s) participates in training at two or more hospitals in that program.
 
@@ -136,4 +136,4 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (7) The name of the employer paying the resident's salary.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014]
+[69 FR 49254, Aug. 11, 2004, as amended at 70 FR 47489, Aug. 12, 2005; 71 FR 18666, Apr. 12, 2006; 71 FR 48141, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 47412, Aug. 22, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 50418, Aug. 16, 2010; 75 FR 72262, Nov. 24, 2010; 79 FR 50357, Aug. 22, 2014; 86 FR 73512, Dec. 27, 2021]

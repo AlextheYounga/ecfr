@@ -1,10 +1,8 @@
 ##### § 413.40 Ceiling on the rate of increase in hospital inpatient costs. #####
 
-Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
+(a) *Introduction*—(1) *Scope.* This section implements section 1886(b) of the Act, establishing a ceiling on the rate of increase in operating costs per case for hospital inpatient services furnished to Medicare beneficiaries that will be recognized as reasonable for purposes of determining the amount of Medicare payment. This rate-of-increase ceiling applies to hospital cost reporting periods beginning on or after October 1, 1982. This section also sets forth rules governing exemptions from and adjustments to the ceiling.
 
-(a) *Introduction* - (1) *Scope.* This section implements section 1886(b) of the Act, establishing a ceiling on the rate of increase in operating costs per case for hospital inpatient services furnished to Medicare beneficiaries that will be recognized as reasonable for purposes of determining the amount of Medicare payment. This rate-of-increase ceiling applies to hospital cost reporting periods beginning on or after October 1, 1982. This section also sets forth rules governing exemptions from and adjustments to the ceiling.
-
-(2) *Applicability.* (i) This section is not applicable to -
+(2) *Applicability.* (i) This section is not applicable to—
 
 (A) Hospitals reimbursed in accordance with section 1814(b)(3) of the Act or under State reimbursement control systems that have been approved under section 1886(c) of the Act and subpart C of part 403 of this chapter; or
 
@@ -16,7 +14,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (E) Long-term care hospitals, as defined in section 1886(d)(1)(B)(iv) of the Act, that are paid based on 100 percent of the Federal prospective payment rate for inpatient hospital services in accordance with section 123 of Public Law 106-113 and section 307 of Public Law 106-554 and § 412.533(b) and (c) of subpart O of part 412 of this subchapter for cost reporting periods beginning on or after October 1, 2002.
 
-(ii) For cost reporting periods beginning on or after October 1, 1983, this section applies to -
+(ii) For cost reporting periods beginning on or after October 1, 1983, this section applies to—
 
 (A) Hospitals excluded from the prospective payment systems described in § 412.1(a)(1) of this subchapter;
 
@@ -30,9 +28,9 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (v) For cost reporting periods beginning on or after October 1, 1983 and before October 1, 2002, this section applies to long-term care hospitals that are excluded from the prospective payment systems described in § 412.1(a)(1) of this subchapter. For cost reporting periods beginning on or after October 1, 2002, and before October 1, 2006, this section also applies to long-term care hospitals, subject to paragraph (a)(2)(i)(D) of this section.
 
-(3) *Definitions.* As used in this section -
+(3) *Definitions.* As used in this section—
 
-*Ceiling* is the aggregate upper limit on the amount of a hospital's net Medicare inpatient operating costs that the program will recognize for payment purposes. For each cost reporting period, the ceiling is determined by multiplying the updated target amount, as defined in this paragraph, for that period by the number of Medicare discharges during that period. For a hospital-within-a-hospital, as described in § 412.22(e) of this chapter, the number of Medicare discharges in a cost reporting period does not include discharges of a patient to another hospital in the same building on or on the same campus, if -
+*Ceiling* is the aggregate upper limit on the amount of a hospital's net Medicare inpatient operating costs that the program will recognize for payment purposes. For each cost reporting period, the ceiling is determined by multiplying the updated target amount, as defined in this paragraph, for that period by the number of Medicare discharges during that period. For a hospital-within-a-hospital, as described in § 412.22(e) of this chapter, the number of Medicare discharges in a cost reporting period does not include discharges of a patient to another hospital in the same building on or on the same campus, if—
 
 (A) The patient is subsequently readmitted to the hospital-within-a-hospital directly from the other hospital; and
 
@@ -50,7 +48,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 *Market basket index* is CMS's projection of the annual percentage increase in hospital inpatient operating costs. The market basket index is a wage and price index that incorporates weighted indicators of changes in wages and prices that are representative of the mix of goods and services included in the most common categories of hospital inpatient operating costs subject to the ceiling, as described in paragraph (c)(1) of this section.
 
-*Net inpatient operating costs* include the costs of certain preadmission services as specified in § 413.40(c)(2), the costs of routine services, ancillary services, and intensive care services (as defined in § 413.53(b)) incurred by a hospital in furnishing covered inpatient services to Medicare beneficiaries. Net inpatient operating costs exclude capital-related costs as described in § 413.130, the costs of approved medical education programs as described in §§ 413.75 through 413.83 and 413.85, and heart, kidney, and liver acquisition costs incurred by approved transplantation centers. These costs are identified and excluded from inpatient operating costs before the application of the ceiling.
+*Net inpatient operating costs* include the costs of certain preadmission services as specified in paragraph (c)(2) of this section, the costs of routine services, ancillary services, and intensive care services (as defined in § 413.53(b)) incurred by a hospital in furnishing covered inpatient services to Medicare beneficiaries. Net inpatient operating costs exclude capital-related costs as described in § 413.130, the costs of approved medical education programs as described in §§ 413.75 through 413.83 and 413.85, and organ acquisition costs as specified in subpart L of this part incurred by approved transplant programs. These costs are identified and excluded from inpatient operating costs before the application of the ceiling.
 
 *Rate-of-increase percentage* is the percentage by which each hospital's target amount from the preceding Federal fiscal year is increased.
 
@@ -60,7 +58,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 *Update factor* is the decimal equivalent of the rate-of-increase percentage. The update factor is the value by which a hospital's target amount for the preceding year is multiplied in order to determine the target amount for the following year. For example, if the rate-of-increase percentage for a year is 2.7 percent, the update factor for that year is 1.027.
 
-(b) *Cost reporting periods subject to the rate-of-increase ceiling* - (1) *Base period.* Each hospital's target amount is based on its allowable net inpatient operating costs per case from the cost reporting period of at least 12 months immediately preceding the first cost reporting period subject to the rate-of-increase ceiling established under this section. If the immediately preceding cost reporting period is a short reporting period (fewer than 12 months), the first period of at least 12 months subsequent to that short period is the base period.
+(b) *Cost reporting periods subject to the rate-of-increase ceiling*—(1) *Base period.* Each hospital's target amount is based on its allowable net inpatient operating costs per case from the cost reporting period of at least 12 months immediately preceding the first cost reporting period subject to the rate-of-increase ceiling established under this section. If the immediately preceding cost reporting period is a short reporting period (fewer than 12 months), the first period of at least 12 months subsequent to that short period is the base period.
 
 (i) The target amount established under this provision remains applicable to a hospital or excluded hospital unit, as described in §§ 412.25 through 412.30 of this chapter, despite intervening cost reporting periods during which the hospital or excluded hospital unit is not subject to the ceiling as a result of other provisions of the law or regulations, or nonparticipation in the Medicare program, unless the hospital or excluded hospital unit qualifies as a new hospital or excluded part hospital unit under the provisions of paragraph (f) of this section.
 
@@ -84,7 +82,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (B) The hospital would have had a disproportionate patient percentage (as defined in § 412.106) equal to or greater than 70 percent if it were a prospective payment hospital.
 
-(2) *Periods subject to the ceiling.* The ceiling established under this section applies to all cost reporting periods that -
+(2) *Periods subject to the ceiling.* The ceiling established under this section applies to all cost reporting periods that—
 
 (i) Begin on or after October 1, 1982; and
 
@@ -92,7 +90,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (3) *Periods of other than 12 months.* The ceiling established under this section does not apply to cost reporting periods of fewer than 12 months that occur in conjunction with a change in operation of the facility, as defined in paragraph (b)(1)(iii) of this section, as a result of changes in ownership, merger, or consolidation. However, the ceiling applies to cost reporting periods of fewer than 12 months that result solely from the approval of a hospital's request for a change in accounting cycle, as specified in § 413.24(f)(3).
 
-(c) *Costs subject to the ceiling* - (1) *Applicability.* The ceiling established under this section applies to net operating costs incurred by a hospital in furnishing inpatient hospital services to Medicare beneficiaries.
+(c) *Costs subject to the ceiling*—(1) *Applicability.* The ceiling established under this section applies to net operating costs incurred by a hospital in furnishing inpatient hospital services to Medicare beneficiaries.
 
 (2) Preadmission services otherwise payable under Medicare Part B furnished to a beneficiary on the date of the beneficiary's admission to the hospital and during the calendar day immediately preceding the date of the beneficiary's admission to the hospital that meet the condition specified in paragraph (c)(2)(i) of this section and at least one of the conditions specified in paragraphs (c)(2)(ii) through (c)(2)(iv):
 
@@ -122,7 +120,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (vi) *Federal fiscal year 1998.* The applicable rate-of-increase percentage for cost reporting periods beginning on or after October 1, 1997 is 0 percent.
 
-(vii) *Federal fiscal year 1999 through Federal fiscal year 2002.* The applicable rate-of-increase percentage for cost reporting periods beginning on or after October 1, 1998, and before October 1, 2002, based n data from the most recent available cost report, is:
+(vii) *Federal fiscal year 1999 through Federal fiscal year 2002.* The applicable rate-of-increase percentage for cost reporting periods beginning on or after October 1, 1998, and before October 1, 2002, based on data from the most recent available cost report, is:
 
 (A) The percentage increase in the market basket, if inpatient operating costs are equal to or exceed the ceiling amount by 10 percent or more of the ceiling.
 
@@ -148,13 +146,13 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (*2*) In the case of long-term care hospitals, for cost reporting periods beginning during FY 2001, the hospital-specific target amount is the net allowable costs in a base period increased by the applicable update factors multiplied by 1.25.
 
-(B) One of the following for the applicable cost reporting period -
+(B) One of the following for the applicable cost reporting period—
 
 (*1*) For cost reporting periods beginning during fiscal year 1998, the 75th percentile of target amounts for hospitals in the same class (psychiatric hospital or unit, rehabilitation hospital or unit, or long-term care hospital) for cost reporting periods ending during FY 1996, increased by the applicable market basket percentage up to the first cost reporting period beginning on or after October 1, 1997.
 
 (*2*) For cost reporting periods beginning during fiscal year 1999, the amount determined under paragraph (c)(4)(iii)(B)(*1*) of this section, increased by the market basket percentage up through the subject period, subject to the provisions of paragraph (c)(4)(iv) of this section.
 
-(*3*) For cost reporting periods beginning during fiscal year 2000 -
+(*3*) For cost reporting periods beginning during fiscal year 2000—
 
 (*i*) The labor-related portion and the nonlabor-related portion of the wage-neutralized 75th percentile of target amounts for hospitals in the same class (psychiatric hospital or unit, rehabilitation hospital or unit, or long-term care hospital) for cost reporting periods ending during FY 1996, are increased by the applicable market basket percentage up to the first cost reporting period beginning on or after October 1, 1999.
 
@@ -162,7 +160,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (*iii*) The wage-adjusted 75th percentile target amounts for hospitals in the same class is determined by adding the nonlabor-related portion of the wage-neutralized 75th percentile target amounts under paragraph (c)(4)(iii)(B)(*3*)(*i*) of this section and the hospital's wage-adjusted labor-related portion of the wage-neutralized 75th percentile target amounts determined under paragraph (c)(4)(iii)(B)(*3*)(*ii*) of this section, subject to the provisions of paragraph (c)(4)(iv) of this section.
 
-(*4*) For cost reporting periods beginning during fiscal years 2001 and 2002 -
+(*4*) For cost reporting periods beginning during fiscal years 2001 and 2002—
 
 (*i*) The amounts determined under paragraph (c)(4)(iii)(B)(3)(*i*) of this section are: increased by the market basket percentage up through the subject period; or in the case of a long-term care hospital for cost reporting periods beginning during FY 2001, the amounts determined under paragraph (c)(4)(iii)(B)(*3*)(*i*) of this section, increased by the market basket percentage up through the subject period and further increased by 2 percent.
 
@@ -178,23 +176,23 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (ii) In the case of cost reporting periods of less than 12 months, the target amount determined for a hospital's first cost reporting period beginning in a Federal fiscal year applies to subsequent periods beginning in the same Federal fiscal year.
 
-(d) *Application of the target amount in determining the amount of payment* - (1) *General process.* (i) At the end of each cost reporting period subject to this section, the hospital's contractor will compare a hospital's allowable net inpatient operating costs with that hospital's ceiling (as defined in paragraph (a)(3) of this section) for that period.
+(d) *Application of the target amount in determining the amount of payment*—(1) *General process.* (i) At the end of each cost reporting period subject to this section, the hospital's contractor will compare a hospital's allowable net inpatient operating costs with that hospital's ceiling (as defined in paragraph (a)(3) of this section) for that period.
 
 (ii) The hospital's actual allowable costs will be determined without regard to the lesser of cost or charges provisions of § 413.13, and in accordance with the provisions of paragraphs (d)(2) or (d)(3) of this section, as applicable.
 
-(2) *Net inpatient operating costs are less than or equal to the ceiling.* (i) For cost reporting periods beginning on or after October 1, 1997, if a hospital's allowable net inpatient operating costs do not exceed the hospital's ceiling, payment to the hospital will be determined on the basis of the lower of the -
+(2) *Net inpatient operating costs are less than or equal to the ceiling.* (i) For cost reporting periods beginning on or after October 1, 1997, if a hospital's allowable net inpatient operating costs do not exceed the hospital's ceiling, payment to the hospital will be determined on the basis of the lower of the—
 
 (A) Net inpatient operating costs plus 15 percent of the difference between inpatient operating costs and the ceiling; or
 
 (B) Net inpatient operating costs plus 2 percent of the ceiling.
 
-(ii) For psychiatric hospitals and units, for cost reporting periods beginning on or after October 1, 2000 and before October 1, 2001, if a hospital's allowable net inpatient operating costs do not exceed the hospital's ceiling, payment to the hospital will be determined on the basis of the lower of the -
+(ii) For psychiatric hospitals and units, for cost reporting periods beginning on or after October 1, 2000 and before October 1, 2001, if a hospital's allowable net inpatient operating costs do not exceed the hospital's ceiling, payment to the hospital will be determined on the basis of the lower of the—
 
 (A) Net inpatient operating costs plus 15 percent of the difference between inpatient operating costs and the ceiling; or
 
 (B) Net inpatient costs plus 3 percent of the ceiling.
 
-(3) *Net inpatient operating costs are greater than the ceiling.* For cost reporting periods beginning on or after October 1, 1997 -
+(3) *Net inpatient operating costs are greater than the ceiling.* For cost reporting periods beginning on or after October 1, 1997—
 
 (i) If a hospital's allowable net inpatient operating costs do not exceed 110 percent of the ceiling (or the adjusted ceiling, if applicable), payment will be the ceiling (or the adjusted ceiling, if applicable);
 
@@ -204,19 +202,19 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (B) 10 percent of the ceiling (or the adjusted ceiling, if applicable).
 
-(4) *Continuous improvement bonus payments.* (i) For cost reporting periods beginning on or after October 1, 1997, eligible hospitals (as defined in paragraph (d)(5) of this section) receive payments in addition to those in paragraph (d)(2) of this section, as applicable. These payments are equal to the lesser of -
+(4) *Continuous improvement bonus payments.* (i) For cost reporting periods beginning on or after October 1, 1997, eligible hospitals (as defined in paragraph (d)(5) of this section) receive payments in addition to those in paragraph (d)(2) of this section, as applicable. These payments are equal to the lesser of—
 
 (A) 50 percent of the amount by which the operating costs are less than the expected costs for the period; or
 
 (B) 1 percent of the ceiling.
 
-(ii) For cost reporting periods beginning on or after October 1, 2000, and before September 30, 2001, eligible psychiatric hospitals and units and long-term care hospitals (as defined in paragraph (d)(5) of this section) receive payments in addition to those in paragraph (d)(2) of this section, as applicable. These payments are equal to the lesser of -
+(ii) For cost reporting periods beginning on or after October 1, 2000, and before September 30, 2001, eligible psychiatric hospitals and units and long-term care hospitals (as defined in paragraph (d)(5) of this section) receive payments in addition to those in paragraph (d)(2) of this section, as applicable. These payments are equal to the lesser of—
 
 (A) 50 percent of the amount by which the operating costs are less than the expected costs for the period; or
 
 (B) 1.5 percent of the ceiling.
 
-(iii) For cost reporting periods beginning on or after October 1, 2001, and before September 30, 2002, eligible psychiatric hospitals and units and long-term care hospitals receive payments in addition to those in paragraph (d)(5) of this section, as applicable. These payments are equal to the lesser of -
+(iii) For cost reporting periods beginning on or after October 1, 2001, and before September 30, 2002, eligible psychiatric hospitals and units and long-term care hospitals receive payments in addition to those in paragraph (d)(5) of this section, as applicable. These payments are equal to the lesser of—
 
 (A) 50 percent of the amount by which the operating costs are less than the expected costs for the periods; or
 
@@ -234,7 +232,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (iii) The hospital's expected costs. The hospital's expected costs are the lesser of its allowable inpatient operating costs per discharge or the target amount for the previous cost reporting period, updated by the market basket percentage increase for the fiscal year.
 
-(e) *Hospital requests regarding adjustments to the payment allowed under the rate-of-increase ceiling* - (1) *Timing of application.* A hospital may request an adjustment to the rate-of-increase ceiling imposed under this section. The hospital's request must be received by the hospital's contractor no later than 180 days after the date on the contractor's initial notice of amount of program reimbursement (NPR) for the cost reporting period for which the hospital requests an adjustment.
+(e) *Hospital requests regarding adjustments to the payment allowed under the rate-of-increase ceiling*—(1) *Timing of application.* A hospital may request an adjustment to the rate-of-increase ceiling imposed under this section. The hospital's request must be received by the hospital's contractor no later than 180 days after the date on the contractor's initial notice of amount of program reimbursement (NPR) for the cost reporting period for which the hospital requests an adjustment.
 
 (2) *Contractor recommendation.* Unless CMS has authorized the contractor to make the decision, the contractor makes a recommendation on the hospital's request to CMS, which makes the decision. CMS issues a decision to the contractor no later than 180 days after receipt of the completed application and the contractor's recommendation.
 
@@ -248,7 +246,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (6) *Applicability.* The provisions in paragraphs (e)(1) through (e)(5) of this section apply to a hospital's initial request for an adjustment and to a request for a review of the original decision based on additional data.
 
-(f) *Comparison to the target amount for new hospitals and units* - (1) *New hospitals and units* - (i) *New hospitals.* For purposes of this section, a new hospital is a provider of hospital inpatient services that -
+(f) *Comparison to the target amount for new hospitals and units*—(1) *New hospitals and units*—(i) *New hospitals.* For purposes of this section, a new hospital is a provider of hospital inpatient services that—
 
 (A) Has operated as the type of hospital for which CMS granted it approval to participate in the Medicare program, under present or previous ownership (or both), for less than 2 full years; and
 
@@ -256,7 +254,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (ii) *New units.* A newly established unit that is excluded from the prospective payments system under the provisions of §§ 412.25 through 412.30 of this chapter does not qualify for the exemption afforded to a new hospital under paragraph (f)(2)(i) of this section unless the unit is located in an acute care hospital that, if it were subject to the provisions of this section, would qualify as a new hospital under paragraph (f)(1)(i) of this section.
 
-(2) *Comparison* - (i) *Exemptions.* (A) A new children's hospital is exempt from the rate-of-increase ceiling imposed under this section. The exemption begins when the hospital accepts its first patient and ends at the end of the first cost reporting period ending at least 2 years after the hospital accepts its first patient. The first cost reporting period of at least 12 months beginning at least 1 year after the hospital accepts its first patient is the base year, in accordance with paragraph (b) of this section.
+(2) *Comparison*—(i) *Exemptions.* (A) A new children's hospital is exempt from the rate-of-increase ceiling imposed under this section. The exemption begins when the hospital accepts its first patient and ends at the end of the first cost reporting period ending at least 2 years after the hospital accepts its first patient. The first cost reporting period of at least 12 months beginning at least 1 year after the hospital accepts its first patient is the base year, in accordance with paragraph (b) of this section.
 
 (B) Within 180 days of the date a hospital is excluded from the prospective payment system, the contractor determines whether the hospital is exempt from the rate-of-increase ceiling. The contractor notifies the hospital of its determination and the hospital's base period.
 
@@ -264,7 +262,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (ii) *Median target amount.* (A) For cost reporting periods beginning on or after October 1, 1997, the amount of payment for a new psychiatric hospital or unit, a new rehabilitation hospital or unit, or a new long-term care hospital that was not paid as an excluded hospital prior to October 1, 1997, is the lower of the hospital's net inpatient operating cost per case or 110 percent of the national median of the target amounts for the class of excluded hospitals and units (psychiatric, rehabilitation, long-term care) as adjusted for differences in wage levels and updated to the first cost reporting period in which the hospital receives payment. The second cost reporting period is subject to the same target amount as the first cost reporting period.
 
-(B) The national median of the target amounts is the FY 1996 median target amount -
+(B) The national median of the target amounts is the FY 1996 median target amount—
 
 (*1*) Adjusted to account for differences in area wage levels;
 
@@ -272,7 +270,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (3) *Risk-basis HMOs.* Items or services that are furnished to beneficiaries enrolled in an HMO by a hospital that is either owned or operated by a risk-basis HMO or related to a risk-basis HMO by common ownership or control are exempt from the rate-of-increase ceiling (see the definition of an entity with a risk sharing contract in § 417.401 of this chapter).
 
-(g) *Adjustments* - (1) *General rules.* (i) CMS adjusts the amount of the operating costs considered in establishing the rate-of-increase ceiling for one or more cost reporting periods, including both periods subject to the ceiling and the hospital's base period, under the circumstances specified in paragraphs (g)(2), (g)(3), and (g)(4) of this section.
+(g) *Adjustments*—(1) *General rules.* (i) CMS adjusts the amount of the operating costs considered in establishing the rate-of-increase ceiling for one or more cost reporting periods, including both periods subject to the ceiling and the hospital's base period, under the circumstances specified in paragraphs (g)(2), (g)(3), and (g)(4) of this section.
 
 (ii) When the hospital requests an adjustment, CMS makes an adjustment only to the extent that the hospital's operating costs are reasonable, attributable to the circumstances specified separately, identified by the hospital, and verified by the contractor.
 
@@ -284,7 +282,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (2) *Extraordinary circumstances.* CMS may make an adjustment to take into account unusual costs (in either a cost reporting period subject to the ceiling or the hospital's base period) due to extraordinary circumstances beyond the hospital's control. These circumstances include, but are not limited to, strikes, fire, earthquakes, floods, or similar unusual occurrences with substantial cost effects.
 
-(3) *Comparability of cost reporting periods* - (i) *Adjustment for distortion.* CMS may make an adjustment to take into account factors that would result in a significant distortion in the operating costs of inpatient hospital services between the base year and the cost reporting period subject to the limits.
+(3) *Comparability of cost reporting periods*—(i) *Adjustment for distortion.* CMS may make an adjustment to take into account factors that would result in a significant distortion in the operating costs of inpatient hospital services between the base year and the cost reporting period subject to the limits.
 
 (ii) *Factors.* The adjustments described in paragraph (g)(3)(i) of this section, include, but are not limited to, adjustments to take into account:
 
@@ -314,7 +312,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (h) [Reserved]
 
-(i) *Assignment of a new base period* - (1) *General rule.* (i) Effective with cost reporting periods beginning on or after April 1, 1990, CMS may assign a new base period to establish a revised ceiling if the new base period is more representative of the reasonable and necessary cost of furnishing inpatient services and all the following conditions apply:
+(i) *Assignment of a new base period*—(1) *General rule.* (i) Effective with cost reporting periods beginning on or after April 1, 1990, CMS may assign a new base period to establish a revised ceiling if the new base period is more representative of the reasonable and necessary cost of furnishing inpatient services and all the following conditions apply:
 
 (A) The actual allowable inpatient costs of the hospital in the cost reporting period that would be affected by the revised ceiling exceed the target amount established under paragraph (c) of this section.
 

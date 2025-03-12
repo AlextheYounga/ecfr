@@ -1,7 +1,5 @@
 ##### § 195.6 Unusually Sensitive Areas (USAs). #####
 
-Link to an amendment published at 86 FR 73186, Dec. 27, 2021.
-
 As used in this part, a USA means a drinking water or ecological resource area that is unusually sensitive to environmental damage from a hazardous liquid pipeline release.
 
 (a) An USA drinking water resource is:
@@ -20,11 +18,15 @@ As used in this part, a USA means a drinking water or ecological resource area t
 
 (3) A migratory waterbird concentration area;
 
-(4) An area containing an imperiled species, threatened or endangered species, depleted marine mammal species, or an imperiled ecological community where the species or community is aquatic, aquatic dependent, or terrestrial with a limited range; or
+(4) An area containing an imperiled species, threatened or endangered species, depleted marine mammal species, or an imperiled ecological community where the species or community is aquatic, aquatic dependent, or terrestrial with a limited range;
 
-(5) An area containing an imperiled species, threatened or endangered species, depleted marine mammal species, or imperiled ecological community where the species or community occurrence is considered to be one of the most viable, highest quality, or in the best condition, as identified by an element occurrence ranking (EORANK) of A (excellent quality) or B (good quality).
+(5) An area containing an imperiled species, threatened or endangered species, depleted marine mammal species, or imperiled ecological community where the species or community occurrence is considered to be one of the most viable, highest quality, or in the best condition, as identified by an element occurrence ranking (EORANK) of A (excellent quality) or B (good quality) or
 
-(c) As used in this part -
+(6) A coastal beach; or
+
+(7) Certain coastal waters.
+
+(c) Definitions used in this part—
 
 *Adequate Alternative Drinking Water Source* means a source of water that currently exists, can be used almost immediately with a minimal amount of effort and cost, involves no decline in water quality, and will meet the consumptive, hygiene, and fire fighting requirements of the existing population of impacted customers for at least one month for a surface water source of water and at least six months for a groundwater source.
 
@@ -40,7 +42,11 @@ As used in this part, a USA means a drinking water or ecological resource area t
 
 (4) Covered Aquifers (Class Id) that are any Class I aquifer overlain by less than 50 feet of low permeability, unconsolidated material, such as glacial till, lacustrian, and loess deposits.
 
+*Certain coastal waters* means the territorial sea of the United States; the Great Lakes and their connecting waters; and the marine and estuarine waters of the United States up to the head of tidal influence.
+
 *Class IIa aquifer* means a Higher Yield Bedrock Aquifer that is consolidated and is moderately vulnerable to contamination. These aquifers generally consist of fairly permeable sandstone or conglomerate that contain lesser amounts of interbedded fine grained clastics (shale, siltstone, mudstone) and occasionally carbonate units. In general, well yields must exceed 50 gallons per minute to be included in this class. Local fracturing may contribute to the dominant primary porosity and permeability of these systems.
+
+*Coastal beach* means any land between the high- and low-water marks of certain coastal waters.
 
 *Community Water System (CWS)* means a public water system that serves at least 15 service connections used by year-round residents of the area or regularly serves at least 25 year-round residents.
 
@@ -62,7 +68,7 @@ As used in this part, a USA means a drinking water or ecological resource area t
 
 *Non-transient Non-community Water System (NTNCWS)* means a public water system that regularly serves at least 25 of the same persons over six months per year. Examples of these systems include schools, factories, and hospitals that have their own water supplies.
 
-*Public Water System (PWS)* means a system that provides the public water for human consumption through pipes or other constructed conveyances, if such system has at least 15 service connections or regularly serves an average of at least 25 individuals daily at least 60 days out of the year. These systems include the sources of the water supplies - *i.e.,* surface or ground. PWS can be community, non-transient non-community, or transient non-community systems.
+*Public Water System (PWS)* means a system that provides the public water for human consumption through pipes or other constructed conveyances, if such system has at least 15 service connections or regularly serves an average of at least 25 individuals daily at least 60 days out of the year. These systems include the sources of the water supplies—*i.e.,* surface or ground. PWS can be community, non-transient non-community, or transient non-community systems.
 
 *Ramsar site* means a site that has been designated under The Convention on Wetlands of International Importance Especially as Waterfowl Habitat program. Ramsar sites are globally critical wetland areas that support migratory waterfowl. These include wetland areas that regularly support 20,000 waterfowl; wetland areas that regularly support substantial numbers of individuals from particular groups of waterfowl, indicative of wetland values, productivity, or diversity; and wetland areas that regularly support 1% of the individuals in a population of one species or subspecies of waterfowl.
 
@@ -84,4 +90,4 @@ As used in this part, a USA means a drinking water or ecological resource area t
 
 *Western Hemisphere Shorebird Reserve Network (WHSRN) site* means an area that contains migratory shorebird concentrations and has been designated as a hemispheric reserve, international reserve, regional reserve, or endangered species reserve. Hemispheric reserves host at least 500,000 shorebirds annually or 30% of a species flyway population. International reserves host 100,000 shorebirds annually or 15% of a species flyway population. Regional reserves host 20,000 shorebirds annually or 5% of a species flyway population. Endangered species reserves are critical to the survival of endangered species and no minimum number of birds is required.
 
-[Amdt. 195-71, 65 FR 80544, Dec. 21, 2000]
+[Amdt. 195-71, 65 FR 80544, Dec. 21, 2000, as amended at 86 FR 73186, Dec. 27, 2021]

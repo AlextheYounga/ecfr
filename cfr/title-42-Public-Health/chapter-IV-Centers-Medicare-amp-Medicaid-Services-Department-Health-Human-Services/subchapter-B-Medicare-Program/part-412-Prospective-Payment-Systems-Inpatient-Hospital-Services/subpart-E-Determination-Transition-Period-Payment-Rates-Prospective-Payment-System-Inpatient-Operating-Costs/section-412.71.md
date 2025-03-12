@@ -1,7 +1,5 @@
 ##### § 412.71 Determination of base-year inpatient operating costs. #####
 
-Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
-
 (a) *Base-year costs.* (1) For each hospital, the intermediary will estimate the hospital's Medicare Part A allowable inpatient operating costs, as described in § 412.2(c), for the 12-month or longer cost reporting period ending on or after September 30, 1982 and before September 30, 1983.
 
 (2) If the hospital's last cost reporting period ending before September 30, 1983 is for less than 12 months, the base period will be the hospital's most recent 12-month or longer cost reporting period ending before such short reporting period, with an appropriate adjustment for inflation. (The rules applicable to new hospitals are set forth in § 412.74.)
@@ -12,7 +10,7 @@ Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
 
 (2) Capital-related costs as described in § 413.130 of this chapter.
 
-(3) Kidney acquisition costs incurred by hospitals approved as renal transplantation centers as described in § 412.100. Kidney acquisition costs in the base year will be determined by multiplying the hospital's average kidney acquisition cost per kidney times the number of kidney transplants covered by Medicare Part A during the base period.
+(3) Kidney acquisition costs incurred by hospitals with approved kidney transplant programs as described in § 412.100. Kidney acquisition costs in the base year are determined by multiplying the hospital's average kidney acquisition cost per kidney times the number of kidney transplants covered by Medicare Part A during the base period.
 
 (4) Higher costs that were incurred for purposes of increasing base-year costs.
 
@@ -32,4 +30,4 @@ Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
 
 (d) *Intermediary's determination.* The intermediary uses the best data available at the time in estimating each hospital's base-year costs and the modifications to those costs authorized by paragraphs (b) and (c) of this section. The intermediary's estimate of base-year costs and modifications thereto is final and may not be changed after the first day of the first cost reporting period beginning on or after October 1, 1983, except as provided in § 412.72.
 
-[50 FR 12741, Mar. 29, 1985, as amended at 51 FR 34793, Sept. 30, 1986; 52 FR 33057, Sept. 1, 1987; 57 FR 33897, July 31, 1992; 57 FR 39822, Sept. 1, 1992; 59 FR 45398, Sept. 1, 1994; 60 FR 63188, Dec. 8, 1995]
+[50 FR 12741, Mar. 29, 1985, as amended at 51 FR 34793, Sept. 30, 1986; 52 FR 33057, Sept. 1, 1987; 57 FR 33897, July 31, 1992; 57 FR 39822, Sept. 1, 1992; 59 FR 45398, Sept. 1, 1994; 60 FR 63188, Dec. 8, 1995; 86 FR 73510, Dec. 27, 2021]

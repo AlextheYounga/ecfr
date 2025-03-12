@@ -1,35 +1,11 @@
-##### § 412.100 Special treatment: Renal transplantation centers. #####
+##### § 412.100 Special treatment: Kidney transplant programs. #####
 
-Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
+(a) *Adjustments for kidney transplant programs.* (1) CMS adjusts the inpatient prospective payment system (IPPS) rates for inpatient operating costs determined under subparts D and E of this part for hospitals with approved kidney transplant programs (discussed at § 482.104 of this chapter) to remove the net costs associated with kidney acquisition.
 
-(a) *Adjustments for renal transplantation centers.* (1) CMS adjusts the prospective payment rates for inpatient operating costs determined under subparts D and E of this part for hospitals approved as renal transplantation centers (described at §§ 405.2170 and 405.2171 of this chapter) to remove the estimated net expenses associated with kidney acquisition.
+(2)(i) Payment for Medicare kidney acquisition costs, as set forth in subpart L of part 413 of this chapter, is made on a reasonable cost basis apart from the prospective payment rate for inpatient operating costs.
 
-(2) Kidney acquisition costs are treated apart from the prospective payment rate for inpatient operating costs, and payment to the hospital is adjusted in each reporting period to reflect an amount necessary to compensate the hospital for reasonable expenses of kidney acquisition.
+(ii) IPPS payment to the hospital is adjusted in each cost reporting period to reflect an amount necessary to compensate the hospital for reasonable costs of Medicare kidney acquisition.
 
-(b) *Costs of kidney acquisition.* Expenses recognized under this section include costs of acquiring a kidney, from a live donor or a cadaver, irrespective of whether the kidney was obtained by the hospital or through an organ procurement agency. These costs include -
+(b) *Costs of kidney acquisition.* Kidney acquisition costs include costs incurred in the acquisition of a kidney from a living or a cadaveric donor, by the hospital or an organ procurement organization, as appropriate. These costs are listed in § 413.402(b) of this chapter.
 
-(1) Tissue typing, including tissue typing furnished by independent laboratories;
-
-(2) Donor and beneficiary evaluation;
-
-(3) Other costs associated with excising kidneys, such as donor general routine and special care services;
-
-(4) Operating room and other inpatient ancillary services applicable to the donor;
-
-(5) Preservation and perfusion costs;
-
-(6) Charges for registration of beneficiary with a kidney transplant registry;
-
-(7) Surgeons' fees for excising cadaver kidneys;
-
-(8) Transportation;
-
-(9) Costs of kidneys acquired from other providers or kidney procurement organizations;
-
-(10) Hospital costs normally classified as outpatient costs applicable to kidney excisions (services include donor and donee tissue typing, work-up, and related services furnished prior to admission);
-
-(11) Costs of services applicable to kidney excisions which are rendered by residents and interns not in approved teaching programs; and
-
-(12) All pre-admission physicians services, such as laboratory, electroencephalography, and surgeon fees for cadaver excisions, applicable to kidney excisions including the costs of physicians services.
-
-[50 FR 12741, Mar. 29, 1985, as amended at 57 FR 39824, Sept. 1, 1992]
+[ 86 FR 73511, Dec. 27, 2021]

@@ -1,14 +1,12 @@
 ##### § 412.90 General rules. #####
 
-Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
-
 (a) *Sole community hospitals.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital, by reason of factors such as isolated location, weather conditions, travel conditions, or absence of other hosptials, is the sole source of inpatient hospital services reasonably available in a geographic area to Medicare beneficiaries. If a hospital meets the criteria for such an exception under § 412.92(a), its prospective payment rates for inpatient operating costs are determined under § 412.92(d).
 
 (b) *Referral center.* CMS may adjust the prospective payment rates for inpatient operating costs determined under subpart D or E of this part if a hospital acts as a referral center for patients transferred from other hospitals. Criteria for identifying such referral centers are set forth in § 412.96.
 
 (c) [Reserved]
 
-(d) *Kidney acquisition costs incurred by hospitals approved as renal transplantation centers.* CMS pays for kidney acquisition costs incurred by renal transplanation centers on a reasonable cost basis. The criteria for this special payment provision are set forth in § 412.100.
+(d) *Kidney acquisition costs incurred by hospitals with approved kidney transplant programs.* CMS pays for kidney acquisition costs incurred by kidney transplant programs on a reasonable cost basis. The criteria for this special payment provision are set forth in § 412.100.
 
 (e) *Hospitals located in areas that are reclassified from urban to rural.* (1) CMS adjusts the rural Federal payment amounts for inpatient operating costs for hospitals located in geographic areas that are reclassified from urban to rural as defined in subpart D of this part. This adjustment is set forth in § 412.102.
 
@@ -26,4 +24,4 @@ Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
 
 (k) *Essential access community hospitals (EACHs).* If a hospital was designated as an EACH by CMS as described in § 412.109(a) and is located in a rural area as defined in § 412.109(b), CMS determines the prospective payment rate for that hospital, as it does for sole community hospitals, under § 412.92(d).
 
-[57 FR 39823, Sept. 1, 1992, as amended at 58 FR 30669, May 26, 1993; 62 FR 46028, Aug. 29, 1997; 64 FR 67051, Nov. 30, 1999; 65 FR 47047, Aug. 1, 2000; 70 FR 47485, Aug. 12, 2005; 71 FR 48138, Aug. 18, 2006; 82 FR 38511, Aug. 14, 2017; 83 FR 41701, Aug. 17, 2018]
+[57 FR 39823, Sept. 1, 1992, as amended at 58 FR 30669, May 26, 1993; 62 FR 46028, Aug. 29, 1997; 64 FR 67051, Nov. 30, 1999; 65 FR 47047, Aug. 1, 2000; 70 FR 47485, Aug. 12, 2005; 71 FR 48138, Aug. 18, 2006; 82 FR 38511, Aug. 14, 2017; 83 FR 41701, Aug. 17, 2018; 86 FR 73511, Dec. 27, 2021]

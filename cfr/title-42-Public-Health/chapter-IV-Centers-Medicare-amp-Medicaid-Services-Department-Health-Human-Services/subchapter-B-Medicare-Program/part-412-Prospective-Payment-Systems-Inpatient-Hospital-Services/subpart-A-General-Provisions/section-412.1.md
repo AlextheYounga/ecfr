@@ -1,12 +1,18 @@
 ##### § 412.1 Scope of part. #####
 
-Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
-
 (a) *Purpose.* (1) This part implements sections 1886(d) and (g) of the Act by establishing a prospective payment system for the operating costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1983, and a prospective payment system for the capital-related costs of inpatient hospital services furnished to Medicare beneficiaries in cost reporting periods beginning on or after October 1, 1991.
 
 (i) Under these prospective payment systems, payment for the operating and capital-related costs of inpatient hospital services furnished by hospitals subject to the systems (generally, short-term, acute-care hospitals) is made on the basis of prospectively determined rates and applied on a per discharge basis.
 
-(ii) Payment for other costs related to inpatient hospital services (organ acquisition costs incurred by hospitals with approved organ transplantation centers, the costs of qualified nonphysician anesthetist's services, as described in § 412.113(c), direct costs of approved nursing and allied health educational programs, costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic hematopoietic stem cell transplant as described in § 412.113(e)) is made on a reasonable cost basis.
+(ii) Payment for other costs related to inpatient hospital services is made on a reasonable cost basis as follows:
+
+(A) Organ acquisition costs incurred by hospitals with approved organ transplant programs.
+
+(B) The costs of qualified nonphysician anesthetist's services, as described in § 412.113(c).
+
+(C) Direct costs of approved nursing and allied health educational programs.
+
+(D) Costs related to hematopoietic stem cell acquisition for the purpose of an allogeneic hematopoietic stem cell transplant as described in § 412.113(e).
 
 (iii) Payment for the direct costs of graduate medical education is made on a per resident amount basis in accordance with §§ 413.75 through 413.83 of this chapter.
 
@@ -70,4 +76,4 @@ Link to an amendment published at 86 FR 73510, Dec. 27, 2021.
 
 (14) Subpart P describes the prospective payment system specified in paragraph (a)(3) of this section for rehabilitation hospitals and rehabilitation units and sets forth the general methodology for paying for the operating and capital-related costs of inpatient hospital services furnished by rehabilitation hospitals and rehabilitation units effective with cost reporting periods beginning on or after January 1, 2002.
 
-[66 FR 41385, Aug. 7, 2001, as amended at 67 FR 56048, Aug. 30, 2002; 69 FR 66976, Nov. 15, 2004; 70 FR 47484, Aug. 12, 2005; 73 FR 24879, May 6, 2008; 77 FR 53673, Aug. 31, 2012; 85 FR 59020, Sept. 18, 2020; 86 FR 45518, Aug. 13, 2021]
+[66 FR 41385, Aug. 7, 2001, as amended at 67 FR 56048, Aug. 30, 2002; 69 FR 66976, Nov. 15, 2004; 70 FR 47484, Aug. 12, 2005; 73 FR 24879, May 6, 2008; 77 FR 53673, Aug. 31, 2012; 85 FR 59020, Sept. 18, 2020; 86 FR 45518, Aug. 13, 2021; 86 FR 73510, Dec. 27, 2021]

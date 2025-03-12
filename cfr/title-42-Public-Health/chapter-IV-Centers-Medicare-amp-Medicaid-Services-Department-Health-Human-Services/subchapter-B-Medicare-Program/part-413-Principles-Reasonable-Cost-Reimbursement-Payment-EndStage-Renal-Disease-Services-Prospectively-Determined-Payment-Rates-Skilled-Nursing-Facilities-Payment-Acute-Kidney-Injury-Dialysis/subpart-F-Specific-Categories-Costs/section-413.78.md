@@ -1,20 +1,20 @@
 ##### § 413.78 Direct GME payments: Determination of the total number of FTE residents. #####
 
-Link to an amendment published at 86 FR 73513, Dec. 27, 2021.
-
 Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the provisions of § 413.81, the count of FTE residents is determined as follows:
 
 (a) Residents in an approved program working in all areas of the hospital complex may be counted.
 
-(b) No individual may be counted as more than one FTE. A hospital cannot claim the time spent by residents training at another hospital, except as provided in paragraph (i) of this section. Except as provided in paragraphs (c), (d), and (e) of this section, if a resident spends time in more than one hospital or in a nonprovider setting, the resident counts as partial FTE based on the proportion of time worked at the hospital to the total time worked. A part-time resident counts as a partial FTE based on the proportion of allowable time worked compared to the total time necessary to fill a full-time internship or residency slot.
+(b) (1) No individual resident may be counted as more than one FTE based on the total time spent in training at all sites. A hospital cannot claim the time spent by residents training at another hospital, except as provided in paragraph (i) of this section. Except as provided in paragraphs (c), (d), and (e) of this section, if a resident spends time in more than one hospital or in a non-provider setting, the resident counts as partial FTE based on the proportion of time worked at the hospital to the total time worked. A part-time resident counts as a partial FTE based on the proportion of allowable time worked compared to the total time necessary to fill a full-time internship or residency slot.
 
-(c) On or after July 1, 1987, and for portions of cost reporting periods occurring before January 1, 1999, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs is not excluded in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met -
+(2) Effective for a cost reporting period beginning on or after December 27, 2020, a hospital must report FTE residents on its Medicare cost report for a cost reporting period if it does not participate in a Medicare GME affiliation agreement (as defined under § 413.75(b)), and the hospital trains at least 1.0 FTE in an approved program or programs, or, if the hospital trains less than 1.0 FTE residents in an approved program or programs and this training results from the hospital's participation in a Medicare GME affiliation agreement (as defined under § 413.75(b)).
+
+(c) On or after July 1, 1987, and for portions of cost reporting periods occurring before January 1, 1999, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs is not excluded in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met—
 
 (1) The resident spends his or her time in patient care activities, as defined in § 413.75(b).
 
 (2) There is a written agreement between the hospital and the outside entity that states that the resident's compensation for training time spent outside of the hospital setting is to be paid by the hospital.
 
-(d) For portions of cost reporting periods occurring on or after January 1, 1999, and before October 1, 2004, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met -
+(d) For portions of cost reporting periods occurring on or after January 1, 1999, and before October 1, 2004, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met—
 
 (1) The resident spends his or her time in patient care activities, as defined in § 413.75(b).
 
@@ -36,7 +36,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (ii) There is a written agreement between the hospital and the nonhospital site that states that the hospital will incur the cost of the resident's salary and fringe benefits while the resident is training in the nonhospital site and the hospital is providing reasonable compensation to the nonhospital site for supervisory teaching activities. The agreement must indicate the compensation the hospital is providing to the nonhospital site for supervisory teaching activities.
 
-(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement -
+(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement—
 
 (A) The hospital must pay all or substantially all of the costs of the training program in a nonhospital setting(s) attributable to training that occurs during a month by the end of the sixth month following the month in which the training in the nonhospital site occurred. For the costs that would otherwise be required to be paid by the hospital during the period of August 29, 2005 through November 1, 2007, the participating hospital must pay the costs by April 29, 2008; or
 
@@ -44,7 +44,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (4) The hospital is subject to the principles of community support and redistribution of costs as specified in § 413.81.
 
-(f) For cost reporting periods beginning on or after July 1, 2007, and before July 1, 2010, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met -
+(f) For cost reporting periods beginning on or after July 1, 2007, and before July 1, 2010, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met—
 
 (1) The resident spends his or her time in patient care activities as defined at § 413.75(b), except that for cost reporting periods beginning on or after July 1, 2009, the time spent training in nonpatient care activities, such as didactic conferences and seminars, but excluding research not associated with the treatment or diagnosis of a particular patient, in a nonprovider setting that is primarily engaged in furnishing patient care activities, as defined at § 413.75(b), also may be counted.
 
@@ -56,7 +56,7 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (ii) There is a written agreement in place between the hospital and the nonhospital site before the training begins that states that the hospital will incur at least 90 percent of the total of the costs of the resident's salary and fringe benefits (and travel and lodging where applicable) while the resident is training in the nonhospital site and the portion of the cost of the teaching physician's salary attributable to nonpatient care direct GME activities. The written agreement must specify the total cost of the training program at the nonhospital site, and the amount the hospital will incur (at least 90 percent of the total), and must indicate the portion of the amount the hospital will incur that reflects residents' salaries and fringe benefits (and travel and lodging where applicable), and the portion of this amount that reflects teaching physician compensation. Hospitals may modify the amounts specified in the written agreement by the end of the academic year (that is, June 30) to reflect that at least 90 percent of the costs of the training program in the nonhospital site has been incurred.
 
-(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement -
+(iii) If the hospital has in place an emergency Medicare GME affiliation agreement in accordance with § 413.79(f)(6), during the period covered by the emergency Medicare GME affiliation agreement—
 
 (A) The hospital must pay all or substantially all of the costs of the training program in a nonhospital setting(s) attributable to training that occurs during a month by the end of the sixth month after the month in which the training in the nonhospital site occurs. For the costs that would otherwise be required to be incurred by the hospital during the period of August 29, 2005 through November 1, 2007, the participating hospital must incur the costs by April 29, 2008; or
 
@@ -64,9 +64,9 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (4) The hospital is subject to the principles of community support and redistribution of costs as specified in § 413.81.
 
-(g) For cost reporting periods beginning on or after July 1, 2010, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met -
+(g) For cost reporting periods beginning on or after July 1, 2010, the time residents spend in nonprovider settings such as freestanding clinics, nursing homes, and physicians' offices in connection with approved programs may be included in determining the number of FTE residents in the calculation of a hospital's resident count if the following conditions are met—
 
-(1) The resident spends his or her time -
+(1) The resident spends his or her time—
 
 (i) In patient care activities as defined at § 413.75(b); or
 
@@ -102,4 +102,4 @@ Subject to the weighting factors in §§ 413.79 and 413.80, and subject to the p
 
 (3) The time that the resident spent training immediately prior to and/or subsequent to the time frame that the Public Health Emergency (as defined in § 400.200 of this chapter) associated with COVID-19 was in effect is included in the FTE count for the sending hospital.
 
-[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014; 85 FR 27623, May 8, 2020]
+[69 FR 49254, Aug. 11, 2004, as amended at 71 FR 48142, Aug. 18, 2006; 72 FR 26995, May 11, 2007; 72 FR 66931, Nov. 27, 2007; 75 FR 72262, Nov. 24, 2010; 78 FR 50968, Aug. 19, 2013; 79 FR 50357, Aug. 22, 2014; 85 FR 27623, May 8, 2020; 86 FR 73513, Dec. 27, 2021]

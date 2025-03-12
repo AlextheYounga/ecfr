@@ -1,14 +1,12 @@
 ##### § 412.105 Special treatment: Hospitals that incur indirect costs for graduate medical education programs. #####
 
-Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
-
 CMS makes an additional payment to hospitals for indirect medical education costs using the following procedures:
 
 (a) *Basic data.* CMS determines the following for each hospital:
 
 (1) The hospital's ratio of full-time equivalent residents (except as limited under paragraph (f) of this section) to the number of beds (as determined under paragraph (b) of this section).
 
-(i) Except for the special circumstances for Medicare GME affiliated groups, emergency Medicare GME affiliated groups, and new programs described in paragraphs (f)(1)(vi) and (f)(1)(vii) of this section for cost reporting periods beginning on or after October 1, 1997, and for the special circumstances for closed hospitals or closed programs described in paragraph (f)(1)(ix) of this section for cost reporting periods beginning on or after October 1, 2002, this ratio may not exceed the ratio for the hospital's most recent prior cost reporting period after accounting for the cap on the number of allopathic and osteopathic full-time equivalent residents as described in paragraph (f)(1)(iv) of this section, and adding to the capped numerator any dental and podiatric full-time equivalent residents.
+(i) Except for the special circumstances for Medicare GME affiliated groups, emergency Medicare GME affiliated groups, and new programs described in paragraphs (f)(1)(vi) and (f)(1)(vii) of this section for cost reporting periods beginning on or after October 1, 1997, and for the special circumstances for closed hospitals or closed programs described in paragraph (f)(1)(ix) of this section for cost reporting periods beginning on or after October 1, 2002, and for Rural Track Programs within their 5-year cap building period described in paragraph (f)(1)(x)(B) in cost reporting periods beginning on or after October 1, 2022, this ratio may not exceed the ratio for the hospital's most recent prior cost reporting period after accounting for the cap on the number of allopathic and osteopathic full-time equivalent residents as described in paragraph (f)(1)(iv) of this section, and adding to the capped numerator any dental and podiatric full-time equivalent residents.
 
 (ii)(A) For new programs started prior to October 1, 2012, the exception for new programs described in paragraph (f)(1)(vii) of this section applies to each new program individually for which the full-time equivalent cap may be adjusted based on the period of years equal to the minimum accredited length of each new program.
 
@@ -20,7 +18,7 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (2) The hospital's DRG revenue for inpatient operating costs based on DRG-adjusted prospective payment rates for inpatient operating costs, excluding outlier payments for inpatient operating costs determined under subpart F of this part and additional payments made under the provisions of § 412.106.
 
-(b) *Determination of the number of beds.* For purposes of this section, the number of beds in a hospital is determined by counting the number of available bed days during the cost reporting period and dividing that number by the number of days in the cost reporting period. This count of available bed days excludes bed days associated with -
+(b) *Determination of the number of beds.* For purposes of this section, the number of beds in a hospital is determined by counting the number of available bed days during the cost reporting period and dividing that number by the number of days in the cost reporting period. This count of available bed days excludes bed days associated with—
 
 (1) Beds in a unit or ward that is not occupied to provide a level of care that would be payable under the acute care hospital inpatient prospective payment system at any time during the 3 preceding months (the beds in the unit or ward are to be excluded from the determination of available bed days during the current month);
 
@@ -56,7 +54,7 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (B) The payment of this amount will not affect any other payments, determinations, or budget neutrality adjustments.
 
-(v) For fiscal year 2001 -
+(v) For fiscal year 2001—
 
 (A) For discharges occurring on or after October 1, 2000 and before April 1, 2001, 1.54.
 
@@ -132,6 +130,8 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (*2*) Effective for portions of cost reporting periods beginning on or after July 1, 2011, a hospital may qualify to receive an increase in its otherwise applicable FTE resident cap (up to 75 additional FTEs) if the criteria specified in § 413.79(n) of this subchapter are met.
 
+(*3*) Effective for portions of cost reporting periods beginning on or after July 1, 2023, a hospital may qualify to receive an increase in its otherwise applicable FTE resident cap if the criteria specified in § 413.79(p) of this subchapter are met.
+
 (D) A rural hospital redesignated as urban after September 30, 2004, as a result of the most recent census data and implementation of the new labor market area definitions announced by OMB on June 6, 2003, may retain the increases to its full-time equivalent resident cap that it received under paragraphs (f)(1)(iv)(A) and (f)(1)(vii) of this section while it was located in a rural area. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may retain any existing increases to its FTE resident cap that it had received prior to when the redesignation became effective. Effective October 1, 2014, if a rural hospital is redesignated as urban due to the most recent OMB standards for delineating statistical areas adopted by CMS, the redesignated urban hospital may receive an increase to its FTE resident cap for a new program, in accordance with paragraph (e) of this section, if it received a letter of accreditation for the new program and/or started training residents in the new program prior to the redesignation becoming effective.
 
 (v)(A) For a hospital's cost reporting periods beginning on or after October 1, 1997, and before October 1, 1998, the total number of full-time equivalent residents for payment purposes is equal to the average of the actual full-time equivalent resident counts (subject to the requirements listed in paragraphs (f)(1)(ii)(C) and (f)(1)(iv) of this section) for that cost reporting period and the preceding cost reporting period.
@@ -144,11 +144,17 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (E) Subject to the provisions of paragraph (f)(1)(ix) of this section, full-time equivalent residents that are displaced by the closure of either another hospital or another hospital's program are added to the full-time equivalent count after applying the averaging rules in paragraph (f)(1)(v)(B) of this section for the receiving hospital for the duration of time that the displaced residents are training at the receiving hospital.
 
-(F) Subject to the provisions of paragraph (f)(1)(x) of this section, effective for cost reporting periods beginning on or after April 1, 2000, full-time equivalent residents at an urban hospital in a rural track program are included in the urban hospital's rolling average calculation described in this paragraph (f)(1)(v)(B).
+(F) (*1*) Subject to the provisions of paragraph (f)(1)(x) of this section, effective for cost reporting periods beginning on or after April 1, 2000, and beginning before October 1, 2022, full-time equivalent residents at an urban hospital in a rural track program are included in the urban hospital's rolling average calculation described in paragraph (f)(1)(v)(B) of this section.
+
+(*2*) Subject to the provisions of paragraph (f)(1)(x) of this section, for cost reporting periods beginning on or after October 1, 2022, full-time equivalent residents at an urban hospital or rural hospital in a Rural Track Program are excluded from the rolling average calculation described in paragraph (f)(1)(v)(B) of this section during the cost reporting periods prior to the beginning of the applicable hospital's cost reporting period that coincides with or follows the start of the sixth program year of each rural track.
 
 (vi) Hospitals that are part of the same Medicare GME affiliated group or emergency Medicare GME affiliated group (as defined in § 413.75(b) of this subchapter) may elect to apply the limit specified in paragraph (f)(1)(iv) of this section on an aggregate basis, as specified in § 413.79(f) of this subchapter. Effective beginning on or after October 1, 2008, home and host hospitals with valid emergency Medicare GME affiliation agreements are exempt from the application of the ratio cap specified in paragraph (a)(1)(i) of this section.
 
-(vii) If a hospital establishes a new medical residency training program, as defined in § 413.79(l) of this subchapter, the hospital's full-time equivalent cap may be adjusted in accordance with the provisions of § 413.79(e) of this subchapter.
+(vii) (A) If a hospital establishes a new medical residency training program, as defined in § 413.79(l) of this subchapter, the hospital's full-time equivalent cap may be adjusted in accordance with the provisions of § 413.79(e) of this subchapter.
+
+(B)(*1*) A hospital that, as of December 27, 2020, has a full-time equivalent cap of less than 1.0 FTE based on a cost reporting period beginning before October 1, 1997, that begins training residents in a new medical residency training program, as defined at § 413.79(l) of this subchapter, in a cost reporting period beginning on or after December 27, 2020, and before December 26, 2025, may receive an adjustment to its full-time equivalent cap when it trains at least 1.0 FTE in such new medical residency training program(s), to be calculated in accordance with § 413.79(e) of this subchapter.
+
+(*2*) A hospital that has a full-time equivalent cap of no more than 3.0 FTEs based on a cost reporting period beginning on or after October 1, 1997, and before December 27, 2020, that begins training residents in a new medical residency training program, as defined at § 413.79(l) of this subchapter, in a cost reporting period beginning on or after December 27, 2020 and before December 26, 2025, may receive an adjustment to its full-time equivalent cap when it trains more than 3.0 FTE in such new medical residency training program(s), to be calculated in accordance with the provisions of § 413.79(e) of this subchapter.
 
 (viii) A hospital that began construction of its facility prior to August 5, 1997, and sponsored new medical residency training programs on or after January 1, 1995 and on or before August 5, 1997, that either received initial accreditation by the appropriate accrediting body or temporarily trained residents at another hospital(s) until the facility was completed, may receive an adjustment to its full-time equivalent cap in accordance with the provisions of § 413.79(g) of this subchapter.
 
@@ -156,7 +162,9 @@ CMS makes an additional payment to hospitals for indirect medical education cost
 
 (B) A hospital may receive a permanent adjustment to its FTE resident cap as a result of slots that were redistributed from a closed hospital, as defined at § 413.79(h)(1)(i) of this subchapter, if the hospital meets the requirements at § 413.79(o) of this subchapter.
 
-(x) An urban hospital that establishes a new residency program (as defined in § 413.79(l) of this subchapter), or has an existing residency program, with a rural track (or an integrated rural track) may include in its FTE count residents in those rural tracks in accordance with the applicable provisions of § 413.79(k) of this subchapter.
+(x) (A) For rural track programs started in a cost reporting period beginning before October 1, 2022, an urban hospital that establishes a new residency program (as defined in § 413.79(l) of this subchapter), or has an existing residency program, with a rural track (or an integrated rural track) may include in its FTE count residents in those rural tracks in accordance with the applicable provisions of § 413.79(k) of this subchapter.
+
+(B) For cost reporting periods beginning on or after October 1, 2022, an urban hospital or rural hospital that establishes a new residency program (as defined in § 413.79(l) of this subchapter) that is a Rural Track Program (as defined at § 413.75(b) of this subchapter), or adds an additional site to a Rural Track Program, may include in its FTE count residents in the Rural Track Program in accordance with the applicable provisions of § 413.79(k) of this subchapter.
 
 (xi) Effective for discharges occurring in cost reporting periods beginning on or after November 29, 1999, a hospital may receive an adjustment to its FTE cap of up to three additional FTEs to the extent that the additional residents would have been counted as primary care residents for purposes of the hospital's FTE cap but for the fact that the additional residents were on maternity or disability leave or a similar approved leave of absence, in accordance with the provisions of § 413.79(i) of this subchapter.
 

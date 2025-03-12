@@ -1,7 +1,5 @@
 ##### § 412.113 Other payments. #####
 
-Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
-
 (a) *Capital-related costs* - (1) *Payment.* Subject to the reductions described in paragraph (a)(2) of this section, payment for capital-related costs (as described in § 413.130 of this chapter) for cost reporting periods beginning before October 1, 1991 is determined on a reasonable cost basis.
 
 (2) *Reduction to capital-related payments.* (i) Except for sole community hospitals as defined in § 412.92, the amount of capital-related payments for cost-reporting periods beginning before October 1, 1991 (including a return on equity capital as provided under § 413.157 of this chapter) is reduced by -
@@ -44,7 +42,7 @@ Link to an amendment published at 86 FR 73511, Dec. 27, 2021.
 
 (iv) For administrative purposes for the calendar years after 1990, the volume of surgical procedures for the immediately preceding year is the sum of the surgical procedures for the nine month period ending September 30, annualized for the twelve month period.
 
-(d) *Organ acquisition.* Payment for organ acquisition costs incurred by hospitals with approved transplantation centers is made on a reasonable cost basis. The term “Organs” is defined in § 486.302 of this chapter.
+(d) *Organ acquisition.* Payment for organ acquisition costs as specified in part 413, subpart L, incurred by hospitals with approved transplant programs is made on a reasonable cost basis.
 
 (e) *Allogeneic hematopoietic stem cell acquisition.* For cost reporting periods beginning on or after October 1, 2020, in the case of a subsection (d) hospital that furnishes an allogeneic hematopoietic stem cell transplant to an individual, payment to such hospital for hematopoietic stem cell acquisition costs is made on a reasonable cost basis.
 

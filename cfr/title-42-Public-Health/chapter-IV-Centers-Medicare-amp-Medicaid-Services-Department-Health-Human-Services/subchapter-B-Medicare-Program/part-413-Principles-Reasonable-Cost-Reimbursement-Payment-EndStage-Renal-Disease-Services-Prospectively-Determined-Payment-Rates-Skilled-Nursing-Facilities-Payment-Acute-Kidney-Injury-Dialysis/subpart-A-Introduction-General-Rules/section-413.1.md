@@ -1,7 +1,5 @@
 ##### § 413.1 Introduction. #####
 
-Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
-
 (a) *Basis, scope, and applicability* - (1) *Statutory basis* - (i) *Basic provisions.* (A) Section 1815 of the Act requires that the Secretary make interim payments to providers and periodically determine the amount that should be paid under Part A of Medicare to each provider for the services it furnishes.
 
 (B) Section 1814(b) of the Act (for Part A) and section 1833(a) (for Part B) provide for payment on the basis of the lesser of a provider's reasonable costs or customary charges.
@@ -40,7 +38,7 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (iv) End-stage renal disease (ESRD) facilities;
 
-(v) Organ procurement agencies (OPAs) and histocompatibility laboratories.
+(v) Organ procurement organizations (OPOs) and histocompatibility laboratories.
 
 (3) *Applicability.* The payment principles and related policies set forth in this part are binding on CMS and its fiscal contractors, on the Provider Reimbursement Review Board, and on the entities listed in paragraph (a)(2) of this section.
 
@@ -52,7 +50,15 @@ Link to an amendment published at 86 FR 73512, Dec. 27, 2021.
 
 (2) Payment to short-term general hospitals located in the 50 States and the District of Columbia for the operating costs of hospital inpatient services for cost reporting periods beginning on or after October 1, 1983, and for the capital-related costs of inpatient services for cost reporting periods beginning on or after October 1, 1991, are determined prospectively on a per discharge basis under part 412 of this chapter except as follows:
 
-(i) Payment for capital-related costs for cost reporting periods beginning before October 1, 1991, medical education costs, kidney acquisition costs, and the costs of certain anesthesia services, is described in § 412.113 of this chapter.
+(i) Payment for the following is described in § 412.113 of this chapter:
+
+(A) Capital related costs for cost reporting periods beginning before October 1991.
+
+(B) Medical education costs.
+
+(C) Organ acquisition costs as specified in part 413, subpart L.
+
+(D) The costs of certain anesthesia services.
 
 (ii) Payment to children's hospitals that are excluded from the prospective payment systems under subpart B of part 412 of this chapter, and hospitals outside the 50 States and the District of Columbia is on a reasonable cost basis, subject to the provisions of § 413.40.
 
