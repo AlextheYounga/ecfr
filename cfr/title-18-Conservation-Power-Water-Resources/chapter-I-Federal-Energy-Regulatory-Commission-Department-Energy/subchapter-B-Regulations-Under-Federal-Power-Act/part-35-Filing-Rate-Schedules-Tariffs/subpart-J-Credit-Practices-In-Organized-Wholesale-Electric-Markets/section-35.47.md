@@ -1,5 +1,7 @@
 ##### § 35.47 Tariff provisions regarding credit practices in organized wholesale electric markets. #####
 
+Link to an amendment published at 88 FR 40707, June 22, 2023.
+
 Each organized wholesale electric market must have tariff provisions that:
 
 (a) Limit the amount of unsecured credit extended by an organized wholesale electric market to no more than $50 million for each market participant; where a corporate family includes more than one market participant participating in the same organized wholesale electric market, the limit on the amount of unsecured credit extended by that organized wholesale electric market shall be no more than $50 million for the corporate family.

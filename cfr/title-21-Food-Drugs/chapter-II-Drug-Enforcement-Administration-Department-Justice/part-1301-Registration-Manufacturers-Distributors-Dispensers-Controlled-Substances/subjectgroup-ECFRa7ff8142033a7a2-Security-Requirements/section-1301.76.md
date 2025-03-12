@@ -1,5 +1,7 @@
 ##### § 1301.76 Other security controls for practitioners. #####
 
+Link to an amendment published at 88 FR 40712, June 22, 2023.
+
 (a) The registrant shall not employ, as an agent or employee who has access to controlled substances, any person who has been convicted of a felony offense relating to controlled substances or who, at any time, had an application for registration with the DEA denied, had a DEA registration revoked or has surrendered a DEA registration for cause. For purposes of this subsection, the term “for cause” means a surrender in lieu of, or as a consequence of, any federal or state administrative, civil or criminal action resulting from an investigation of the individual's handling of controlled substances.
 
 (b) The registrant shall notify the Field Division Office of the Administration in his area, in writing, of the theft or significant loss of any controlled substances within one business day of discovery of such loss or theft. The registrant shall also complete, and submit to the Field Division Office in his area, DEA Form 106 regarding the loss or theft. When determining whether a loss is significant, a registrant should consider, among others, the following factors:

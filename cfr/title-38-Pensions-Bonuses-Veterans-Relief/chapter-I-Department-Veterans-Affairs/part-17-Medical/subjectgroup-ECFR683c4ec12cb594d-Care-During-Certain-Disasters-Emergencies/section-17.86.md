@@ -1,7 +1,5 @@
 ##### § 17.86 Provision of hospital care and medical services during certain disasters and emergencies under 38 U.S.C. 1785. #####
 
-Link to an amendment published at 88 FR 32975, May 23, 2023.
-
 (a) This section sets forth regulations regarding the provision of hospital care and medical services under 38 U.S.C. 1785.
 
 (b) During and immediately following a disaster or emergency referred to in paragraph (c) of this section, VA under 38 U.S.C. 1785 may furnish hospital care and medical services to individuals (including those who otherwise do not have VA eligibility for such care and services) responding to, involved in, or otherwise affected by that disaster or emergency.
@@ -14,8 +12,16 @@ Link to an amendment published at 88 FR 32975, May 23, 2023.
 
 (d) For purposes of paragraph (b) of this section, the terms *hospital care* and *medical services* have the meanings given such terms by 38 U.S.C. 1701(5) and 1701(6).
 
-(e) Unless the cost of care is charged at rates agreed upon in a sharing agreement as described in § 17.102(e), the cost of hospital care and medical services provided under this section to an officer or employee of a department or agency of the United States (other than VA) or to a member of the Armed Forces shall be calculated in accordance with the provisions of § 17.102(c) and (h). Other individuals who receive hospital care or medical services under this section are responsible for the cost of the hospital care or medical services when charges are mandated by Federal law (including applicable appropriation acts) or when the cost of care or services is not reimbursed by other-than-VA Federal departments or agencies. When individuals are responsible under this section for the cost of hospital care or medical services, VA will bill in the amounts calculated in accordance with the provisions of § 17.102(h), without applying the exception provided in the first paragraph of § 17.102.
+(e) The cost of care for medical care and services provided under this section will be determined in accordance with the following:
+
+(1) If the care is provided to an officer or employee of a non-VA Federal agency VA will charge the rate agreed upon by the Secretary and the head of such department or agency or the Secretary concerned. If no such rate has been agreed to, VA will charge the Inter-Agency Rate as prescribed in § 17.102(c).
+
+(2) If the care is provided to a member of the Armed Forces VA will charge the rate agreed upon by the Secretary and the head of such branch or the Secretary concerned. If no such rate has been agreed to, VA will charge the Inter-Agency Rate as prescribed in § 17.102(c).
+
+(3) If the care is authorized under a sharing agreement as described in 38 U.S.C. 8111 or 8153 or § 17.240, VA will charge the rate determined in accordance with the sharing agreement.
+
+(4) If the care is provided to an individual who is responsible for the cost of the care, VA will charge the Cost-Based Rate as prescribed in § 17.102(c). Individuals will be responsible for the cost of care or services if mandated by Federal law (including applicable Appropriations Acts) or when the cost of care or services is not reimbursed by other-than-VA Federal departments or agencies.
 
 (f) VA may furnish care and services under this section to a veteran without regard to whether that individual is enrolled in the VA healthcare system under 38 U.S.C. 1705 and § 17.36 of this part.
 
-(Authority: 38 U.S.C. 501, 1785)[73 FR 26946, May 12, 2008]
+[73 FR 26946, May 12, 2008, as amended at 88 FR 32975, May 23, 2023]

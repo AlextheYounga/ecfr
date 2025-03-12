@@ -1,5 +1,7 @@
 ##### § 367.30 Fees under the Unified Carrier Registration Plan and Agreement for Registration Years Beginning in 2023 and Each Subsequent Registration Year Thereafter. #####
 
+Link to an amendment published at 88 FR 40723, June 22, 2023.
+
 Table 1 to § 367.30—Fees Under the Unified Carrier Registration Plan and Agreement for Registration Years Beginning in 2023 and Each Subsequent Registration Year Thereafter
 
 |Bracket|Number of commercial motor vehicles owned or operated by exempt or non-exempt motor carrier, motor private carrier, or freight  <br/>forwarder|Fee per entity for  <br/>exempt or non-exempt  <br/>motor carrier, motor  <br/>private carrier, or  <br/>freight forwarder|Fee per entity for  <br/>broker or leasing  <br/>company|

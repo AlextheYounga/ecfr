@@ -353,21 +353,19 @@ Table 3 to Paragraph (c)(5)(viii)(A)
 
 (ii) The AEDM is based on engineering or statistical analysis, computer simulation or modeling, or other analytical evaluation of performance data; and
 
-(A) For refrigeration systems, which are subject to an energy efficiency metric, the predicted efficiency for each model calculated by applying the AEDM may not be more than five percent greater than the efficiency determined from the corresponding test of the model.
-
-(B) For doors, which are subject to an energy consumption metric the predicted daily energy consumption for each model calculated by applying the AEDM may not be more than five percent less than the daily energy consumption determined from the corresponding test of the model.
-
-(C) The predicted energy efficiency or energy consumption for each model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
-
 (iii) The manufacturer has validated the AEDM, in accordance with paragraph (f)(2) of this section.
 
 (2) *Validation of an AEDM.* Before using an AEDM, the manufacturer must validate the AEDM's accuracy and reliability as follows:
 
 (i) The manufacturer must select at least the minimum number of basic models for each validation class specified in paragraph (f)(2)(iv) of this section to which the particular AEDM applies. Test a single unit of each basic model in accordance with paragraph (f)(2)(iii) of this section. Using the AEDM, calculate the energy use or energy efficiency for each of the selected basic models. Compare the results from the single unit test and the AEDM output according to paragraph (f)(2)(ii) of this section. The manufacturer is responsible for ensuring the accuracy and repeatability of the AEDM.
 
-(ii) *Individual model tolerances.* (A) The predicted efficiency for each model calculated by applying the AEDM may not be more than five percent greater than the efficiency determined from the corresponding test of the model.
+(ii) *Individual model tolerances.*
 
-(B) The predicted energy efficiency for each model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
+(A) For refrigeration systems, which are subject to an energy efficiency metric, the predicted efficiency for each model calculated by applying the AEDM may not be more than five percent greater than the efficiency determined from the corresponding test of the model.
+
+(B) For doors, which are subject to an energy consumption metric the predicted daily energy consumption for each model calculated by applying the AEDM may not be more than five percent less than the daily energy consumption determined from the corresponding test of the model.
+
+(C) The predicted energy efficiency or energy consumption for each model calculated by applying the AEDM must meet or exceed the applicable federal energy conservation standard.
 
 (iii) *Additional test unit requirements.* (A) Each AEDM must be supported by test data obtained from physical tests of current models; and
 

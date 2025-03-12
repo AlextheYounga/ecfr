@@ -1,27 +1,33 @@
 ##### § 17.102 Charges for care or services. #####
 
-Link to an amendment published at 88 FR 32975, May 23, 2023.
+Subject to the methodology set forth in paragraph (c) of this section, and notwithstanding the provisions of § 17.101, VA shall charge for VA care and services provided in the circumstances described as follows:
 
-Except as provided in § 17.101, charges at the indicated rates shall be made for Department of Veterans Affairs hospital care or medical services (including, but not limited to, dental services, supplies, medicines, orthopedic and prosthetic appliances, and domiciliary or nursing home care) as follows:
+(a) For hospital care or medical services provided:
 
-(a) *Furnished in error or on tentative eligibility.* Charges at rates prescribed by the Under Secretary for Health shall be made for inpatient or outpatient care or services (including domiciliary care) authorized for any person on the basis of eligibility as a veteran or a tentative eligibility determination under § 17.34 but he or she was subsequently found to have been ineligible for such care or services as a veteran because the military service or any other eligibility requirement was not met, or
+(1) As a humanitarian service in a medical emergency in accordance with 38 U.S.C. 1784 or 38 U.S.C. 1784A;
 
-(b) *Furnished in a medical emergency.* Charges at rates prescribed by the Under Secretary for Health shall be made for any inpatient or outpatient care or services rendered any person in a medical emergency who was not eligible for such care or services as a veteran, if:
+(2) During and immediately following a disaster or emergency in accordance with 38 U.S.C. 1785 and § 17.86;
 
-(1) The care or services were rendered as a humanitarian service, under § 17.43(b)(1) or § 17.95 to a person neither claiming eligibility as a veteran nor for whom the establishment of eligibility as a veteran was expected, or
+(3) While attending a national convention of an organization recognized under 38 U.S.C. 5902, for emergency medical treatment, in accordance with 38 U.S.C. 1711;
 
-(2) The person for whom care or services were rendered was a Department of Veterans Affairs employee or a member of a Department of Veterans Affairs employee's family; or
+(4) In error, on the basis of eligibility as a non-veteran recipient of VA hospital care and medical services under title 38 U.S.C., and such an individual subsequently is determined not to have been eligible for such care or services;
 
-(c) *Furnished beneficiaries of the Department of Defense or other Federal agencies.* Except as provided for in paragraph (f) of this section and the second sentence of this paragraph, charges at rates prescribed by the Office of Management and Budget shall be made for any inpatient or outpatient care or services authorized for a member of the Armed Forces on active duty or for any beneficiary or designee of any other Federal agency. Charges for services provided a member or former member of a uniformed service who is entitled to retired or retainer pay, or equivalent pay, will be at rates prescribed by the Secretary (E.O. 11609, dated July 22, 1971, 36 FR 13747), or
+(5) To a beneficiary of the Department of Defense or other Federal agency, to include for inpatient or outpatient care or services authorized for a member of the Armed Forces on active duty, a beneficiary or designee of any other Federal agency, and members or former members of a uniformed service who are entitled to retired or retainer pay, or equivalent pay; or
 
-(d) *Furnished pensioners of allied nations.* Charges at rates prescribed by the Under Secretary for Health shall be made for any inpatient or outpatient care or services rendered a pensioner of a nation allied with the United States in World War I and World War II; or
+(6) To a retiree of the uniformed services with a chronic disability for hospital care identified in Executive Orders 10122, 10400, and 11733 as well as § 17.44.
 
-(e) *Furnished under sharing agreements.* Charges at rates agreed upon in an agreement for sharing specialized medical resources shall be made for all medical care or services, either on an inpatient or outpatient basis, rendered to a person designated by the other party to the agreement as a patient to be benefited under the agreement; or
+(b) For hospital care, medical services, domiciliary care, or nursing home care provided:
 
-(f) *Furnished military retirees with chronic disability.* Charges for subsistence at rates prescribed by the Under Secretary for Health shall be made for the period during which hospital care is rendered when such care is rendered to a member or former member of the Armed Forces required to pay the subsistence rate under § 17.47 (b)(2) and (c)(2).
+(1) In error, on the basis of eligibility for such care and services as a veteran under §§ 17.34, 17.36, or 17.37, and such an individual was subsequently determined not to have been eligible for such care or services.
 
-(g) *Furnished for research purposes.* Charges will not be made for medical services, including transportation, furnished as part of an approved Department of Veterans Affairs research project, except that if the services are furnished to a person who is not eligible for the services as a veteran, the medical care appropriation shall be reimbursed from the research appropriation at the same rates used for billings under paragraph (b) of this section.
+(2) To a discharged member of the armed forces of a nation allied with the United States in World War I or World War II in accordance with 38 U.S.C. 109.
 
-(h) *Computation of charges.* The method for computing the charges under § 17.86 and under paragraphs (a), (b), (d), (f), and (g) and the last sentence of paragraph (c) of this section is based on the Monthly Program Cost Report (MPCR), which sets forth the actual basic costs and per diem rates by type of inpatient care, and actual basic costs and rates for outpatient care visits or prescriptions filled. Factors for depreciation of buildings and equipment and Central Office overhead are added, based on accounting manual instructions. Additional factors are added for interest on capital investment and for standard fringe benefit costs covering government employee retirement and disability costs. The current year billing rates are projected on prior year actual rates by applying the budgeted percentage increase. In addition, based on the detail available in the MPCR, VA intends to, on each bill break down the all-inclusive rate into its three principal components; namely, physician cost, ancillary services cost, and nursing, room and board cost. The rates generated by the foregoing methodology will be published by either VA or OMB in the ‘Notices’ section of the Federal Register.
+(3) Under a sharing agreement in accordance with 38 U.S.C. 8111 or 8153 and 17.240.
 
-(Authority: 38 U.S.C. 1729; sec. 19013, Pub. L. 99-272)[32 FR 11382, Aug. 5, 1967, as amended at 34 FR 7807, May 16, 1969; 35 FR 11470, July 17, 1970; 36 FR 18794, Sept. 22, 1971; 47 FR 50861, Nov. 10, 1982; 47 FR 58249, Dec.30, 1982; 52 FR 3010, Jan. 30, 1987. Redesignated and amended at 61 FR 21965, 21967, May 13, 1996; 62 FR 17072, Apr. 9, 1997. Redesignated and amended at 64 FR 22678, 22683, Apr. 27, 1999; 69 FR 1061, Jan. 7, 2004; 73 FR 26946, May 12, 2008]
+(4) Under any other provision of law that authorizes VA to provide care.
+
+(c) Unless rates or charges are otherwise established in contract, in a sharing agreement, or under Federal law, VA will charge under this section at rates based on the VHA Office of Finance Managerial Cost Accounting (MCA) Cost Reports, which sets forth the actual basic costs and per diem rates by type of inpatient care, and actual basic costs and rates for outpatient care visits. Factors for depreciation of buildings and equipment and Central Office overhead are added, based on accounting manual instructions. Additional factors are added for interest on capital investment and for standard fringe benefit costs covering government employee retirement and disability costs. The VHA Office of Finance MCA Cost Reports are used to determine two separate rates: one rate is the general Cost-Based Rate and the other rate is the Inter-Agency Rate. These rates are published annually by VA on the internet site of the Veterans Health Administration Office of Community Care's website at *https://www.va.gov/communitycare/revenue\_ops/payer\_rates.asp.*
+
+(d) The rates for prescription drugs that VA furnishes not administered during treatment are based on the actual cost of the drug plus a national average of VA administrative costs as described in § 17.101(m).
+
+[88 FR 32975, May 23, 2023]
