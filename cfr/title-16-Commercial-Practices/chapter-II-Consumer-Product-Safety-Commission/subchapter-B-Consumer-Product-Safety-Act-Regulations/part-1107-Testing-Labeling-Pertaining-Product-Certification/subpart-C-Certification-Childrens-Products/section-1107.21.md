@@ -1,5 +1,7 @@
 ##### § 1107.21 Periodic testing. #####
 
+Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
+
 (a) *General requirements for all manufacturers.* All manufacturers of children's products must conduct periodic testing. All periodic testing must be conducted by a third party conformity assessment body. Periodic testing must be conducted pursuant to either paragraph (b), (c), or (d) of this section or as provided in regulations under this title. The testing interval selected for periodic testing may be based on a fixed production interval, a set number of units produced, or another method chosen by the manufacturer based on the product produced and its manufacturing process, so long as the applicable maximum testing interval specified in paragraph (b), (c), or (d) of this section is not exceeded. Component part testing pursuant to 16 CFR part 1109 may be used to support the periodic testing requirements of this section.
 
 (b) A manufacturer must conduct periodic testing to ensure compliance with the applicable children's product safety rules at least once a year, except as otherwise provided in paragraphs (c), and (d) of this section or as provided in regulations under this title. If a manufacturer does not conduct production testing under paragraph (c) of this section, or testing by a testing laboratory under paragraph (d) of this section, the manufacturer must conduct periodic testing as follows:

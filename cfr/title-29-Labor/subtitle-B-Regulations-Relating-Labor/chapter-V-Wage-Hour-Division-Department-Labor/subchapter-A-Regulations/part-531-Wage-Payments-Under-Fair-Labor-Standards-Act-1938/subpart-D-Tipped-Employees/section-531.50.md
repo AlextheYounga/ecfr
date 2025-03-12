@@ -1,13 +1,15 @@
 ##### § 531.50 Statutory provisions with respect to tipped employees. #####
 
-Link to an amendment published at 85 FR 86789, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
+(a) With respect to tipped employees, section 3(m)(2)(A) provides that, in determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to—
 
-(a) With respect to tipped employees, section 3(m) provides that, in determining the wage an employer is required to pay a tipped employee, the amount paid such employee by the employee's employer shall be an amount equal to -
+(1) The cash wage paid such employee which for purposes of such determination shall not be less than the cash wage required to be paid such an employee on August 20, 1996 [*i.e.,* $2.13]; and
 
-(1) the cash wage paid such employee which for purposes of such determination shall be not less than the cash wage required to be paid such an employee on August 20, 1996 [*i.e.,* $2.13]; and
+(2) An additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (a)(1) of this section and section 6(a)(1) of the Act.
 
-(2) an additional amount on account of the tips received by such employee which amount is equal to the difference between the wage specified in paragraph (1) and the wage in effect under section 206(a)(1) of this title.
+(b) Section 3(m)(2)(A) also provides that an employer that takes a tip credit against its minimum wage obligations to its tipped employees must inform those employees of the provisions of that subsection, and that the employees must retain all of their tips, although the employer may require those employees to participate in a tip pool with other tipped employees that customarily and regularly receive tips.
 
-(b) “Tipped employee” is defined in section 3(t) of the Act as follows: *Tipped employee* means any employee engaged in an occupation in which he customarily and regularly receives more than $30 a month in tips.
+(c) Section 3(m)(2)(B) provides that an employer may not keep tips received by its employees for any purposes, including allowing managers and supervisors to keep any portion of employees' tips, regardless of whether the employer takes a tip credit under section 3(m)(2)(A).
 
-[76 FR 18855, Apr. 5, 2011]
+(d) “Tipped employee” is defined in section 3(t) of the Act as any employee engaged in an occupation in which he or she customarily and regularly receives more than $30 a month in tips.
+
+[85 FR 86789, Dec. 30, 2020]

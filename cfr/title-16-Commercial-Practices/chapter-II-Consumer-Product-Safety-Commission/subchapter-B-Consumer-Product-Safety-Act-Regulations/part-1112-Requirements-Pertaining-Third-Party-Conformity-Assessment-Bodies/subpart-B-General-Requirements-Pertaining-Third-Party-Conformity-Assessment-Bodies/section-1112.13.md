@@ -1,5 +1,7 @@
 ##### § 1112.13 How does a third party conformity assessment body apply for CPSC acceptance? #####
 
+Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
+
 (a) *Baseline Requirements.* Each third party conformity assessment body seeking CPSC acceptance must:
 
 (1) Submit a completed Consumer Product Conformity Assessment Body Registration Form (CPSC Form 223 or Application). In submitting a CPSC Form 223, the third party conformity assessment body must attest to facts and characteristics about its business that will determine whether the third party conformity assessment body is independent, firewalled, or governmental. The third party conformity assessment body also must attest that it has read, understood, and agrees to the regulations in this part. The third party conformity assessment body must update its CPSC Form 223 whenever any information previously supplied on the form changes.

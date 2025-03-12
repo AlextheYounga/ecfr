@@ -1,6 +1,4 @@
-##### § 516.28 Tipped employees. #####
-
-Link to an amendment published at 85 FR 86788, Dec. 30, 2020.Link to an amendment published at 86 FR 11641, Feb. 26, 2021.
+##### § 516.28 Tipped employees and employer-administered tip pools. #####
 
 (a) With respect to each tipped employee whose wages are determined pursuant to section 3(m) of the Act, the employer shall maintain and preserve payroll or other records containing all the information and data required in § 516.2(a) and, in addition, the following:
 
@@ -14,6 +12,10 @@ Link to an amendment published at 85 FR 86788, Dec. 30, 2020.Link to an amendmen
 
 (5) Hours worked each workday in occupations in which the employee receives tips, and total daily or weekly straight-time earnings for such hours.
 
-(b) [Reserved]
+(b) With respect to employees who receive tips but for whom a tip credit is not taken under section 3(m)(2)(A), any employer that collects tips received by employees to operate a mandatory tip-pooling or tip-sharing arrangement shall maintain and preserve payroll or other records containing the information and data required in § 516.2(a) and, in addition, the following:
 
-[52 FR 24896, July 1, 1987, as amended at 76 FR 18854, Apr. 5, 2011]
+(1) A symbol, letter, or other notation placed on the pay records identifying each employee who receive tips.
+
+(2) Weekly or monthly amount reported by the employee, to the employer, of tips received (this may consist of reports made by the employees to the employer on IRS Form 4070).
+
+[52 FR 24896, July 1, 1987, as amended at 76 FR 18854, Apr. 5, 2011; 85 FR 86788, Dec. 30, 2020]

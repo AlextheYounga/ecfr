@@ -1,5 +1,7 @@
 ##### § 1107.26 Recordkeeping. #####
 
+Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
+
 (a) A manufacturer of a children's product subject to an applicable children's product safety rule must maintain the following records:
 
 (1) A copy of the Children's Product Certificate for each product. The children's product covered by the certificate must be clearly identifiable and distinguishable from other products;

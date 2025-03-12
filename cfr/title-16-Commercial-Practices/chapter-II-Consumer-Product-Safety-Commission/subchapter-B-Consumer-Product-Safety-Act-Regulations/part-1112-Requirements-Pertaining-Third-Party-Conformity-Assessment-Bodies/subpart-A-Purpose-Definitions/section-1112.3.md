@@ -1,5 +1,7 @@
 ##### § 1112.3 Definitions. #####
 
+Link to an amendment published at 86 FR 22866, Apr. 30, 2021.
+
 Unless otherwise stated, the definitions of section 3 of the CPSA and additional definitions in the Consumer Product Safety Improvement Act of 2008, Public Law 110-314, apply for purposes of this part. The following definitions apply for purposes of this subpart:
 
 *Accreditation* means a procedure by which an authoritative body gives formal recognition that a third party conformity assessment body meets competence requirements to perform specific tasks. Accreditation recognizes a third party conformity assessment body's technical capability and is usually specific for tests of the systems, products, components, or materials for which the third party conformity assessment body claims proficiency.
