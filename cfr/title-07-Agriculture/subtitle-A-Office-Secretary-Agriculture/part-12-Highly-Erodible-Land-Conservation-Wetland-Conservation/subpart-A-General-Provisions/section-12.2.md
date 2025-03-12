@@ -12,7 +12,7 @@
 
 *Conservation District (CD)* means a subdivision of a State or local government organized pursuant to the applicable law to develop and implement soil and water conservation activities or programs.
 
-*Conservation plan* means the document that -
+*Conservation plan* means the document that—
 
 (1) Applies to highly erodible cropland;
 
@@ -20,7 +20,7 @@
 
 (3) Is approved by the local soil conservation district in consultation with the local committees established under section 8(b)(5) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)(5)) and the Natural Resources Conservation Service (NRCS) for purposes of compliance with this part.
 
-*Conservation system* means a combination of one or more conservation measures or management practices that are -
+*Conservation system* means a combination of one or more conservation measures or management practices that are—
 
 (1) Based on local resource conditions, available conservation technology, and the standards and guidelines contained in the NRCS field office technical guides (available from NRCS State offices); and
 
@@ -86,7 +86,7 @@
 
 *Tenant* means a person usually called a “cash tenant”, “fixed-rent tenant”, or “standing rent tenant” who rents land from another for a fixed amount of cash or a fixed amount of a commodity to be paid as rent; or a person (other than a sharecropper) usually called a “share tenant” who rents land from another person and pays as rent a share of the crops or proceeds therefrom. A tenant shall not be considered the farm operator unless the tenant is determined to be the operator pursuant to this part and 7 CFR part 718.
 
-*Wetland,* except when such term is a part of the term “converted wetland”, means land that -
+*Wetland,* except when such term is a part of the term “converted wetland”, means land that—
 
 (1) Has predominance of hydric soils;
 
@@ -94,7 +94,9 @@
 
 (3) Under normal circumstances does support a prevalence of such vegetation, except that this term does not include lands in Alaska identified as having a high potential for agricultural development and a predominance of permafrost soils.
 
-*Wetland determination* means a decision regarding whether or not an area is a wetland, including identification of wetland type and size. A wetland determination may include identification of an area as one of the following types of wetland -
+*Wetland delineation* means outlining the boundaries of a wetland determination on aerial photography, digital imagery, other graphic representation of the area, or on the land.
+
+*Wetland determination* means a decision regarding whether or not an area is a wetland, including identification of wetland type and size. A wetland determination may include identification of an area as one of the following types of wetland—
 
 (1) *Artificial wetland* is an area that was formerly non-wetland, but now meets wetland criteria due to human activities, such as:
 
@@ -110,37 +112,19 @@
 
 (ii) Before such action such land was wetland, farmed wetland, or farmed-wetland pasture and was neither highly erodible land nor highly erodible cropland;
 
-(4) *Farmed wetland* is a wetland that prior to December 23, 1985, was manipulated and used to produce an agricultural commodity, and on December 23, 1985, did not support woody vegetation, and met the following hydrologic criteria:
+(4) *Farmed wetland* is a wetland that prior to December 23, 1985, was manipulated and used to produce an agricultural commodity at least once before December 23, 1985, and on December 23, 1985, did not support woody vegetation, and met the following hydrologic criteria:
 
-(i) If not a playa, pocosin, or pothole, experienced inundation for 15 consecutive days or more during the growing season or 10 percent of the growing season, whichever is less, in most years (50 percent chance or more), as determined by having met any of the following hydrologic indicators:
+(i) If not a playa, pocosin, or pothole, experienced inundation for 15 consecutive days or more during the growing season or 10 percent of the growing season, whichever is less, in most years (50 percent chance or more), which requisite inundation is determined through:
 
-(A) Inundation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
+(A) Observation of wetland hydrology indicators as identified in the local NRCS Field Office Technical Guide;
 
-(B) The presence of any indicator from Group B (Evidence of Recent Inundation) of the wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
+(B) Procedures identified in State Off-Site Methods for wetland identification set forth in the local NRCS Field Office Technical Guide; or
 
-(C) The presence of conditions resulting from inundation during the growing season is observed on aerial imagery, and the imagery is determined to represent normal or drier than normal climatic conditions (that is, not abnormally wet); or
+(C) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data.
 
-(D) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation during the growing season in most years (50-percent chance or more).
+(ii) If a playa, pocosin, or pothole experienced ponding for 7 or more consecutive days during the growing season in most years (50-percent chance of more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more). Wetlands which are found to support wetland hydrology through Step 1 of the wetland determination process in § 12.30(c)(7) and application of the procedures described in § 12.31(c) will be determined to meet the requisite criteria.
 
-(ii) If a playa, pocosin, or pothole experienced ponding for 7 or more consecutive days during the growing season in most years (50-percent chance of more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more) as determined by having met any of the following hydrologic indicators:
-
-(A) Inundation or saturation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
-
-(B) The presence of one primary or two secondary wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
-
-(C) The presence of conditions resulting from inundation or saturation during the growing season is observed on aerial imagery, and the imagery is determined to represent hydrologic conditions that would be expected to occur under normal or drier than normal climatic conditions (that is, not abnormally wet); or
-
-(D) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation or saturation during the growing season in most years (50-percent chance or more).
-
-(5) *Farmed-wetland pasture* is wetland that was manipulated and managed for pasture or hayland prior to December 23, 1985, and on December 23, 1985, experienced inundation or ponding for 7 or more consecutive days during the growing season in most years (50-percent chance or more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more) as determined by having met any of the following hydrologic indicators:
-
-(i) Inundation or saturation is directly observed during a site visit conducted under a period of normal climatic conditions or drier;
-
-(ii) The presence of one primary or two secondary wetland hydrology indicators contained in the applicable regional supplement to the Corps of Engineers Wetland Delineation Manual is observed;
-
-(iii) The presence of conditions resulting from inundation or saturation during the growing season is observed on aerial imagery, and the imagery is determined to represent hydrologic conditions that would be expected to occur under normal, or drier than normal climatic conditions (that is, not abnormally wet); or
-
-(iv) The use of analytic techniques, such as the use of drainage equations or the evaluation of monitoring data, demonstrate that the wetland would experience inundation or saturation during the growing season in most years (50-percent chance or more).
+(5) *Farmed-wetland pasture* is a wetland that prior to December 23, 1985, was manipulated and managed for pasture or hayland, was not used to produce an agricultural commodity at least once before December 23, 1985, and on December 23, 1985, experienced inundation or ponding for 7 or more consecutive days during the growing season in most years (50-percent chance or more) or saturation for 14 or more consecutive days during the growing season in most years (50-percent chance or more). Wetlands which are found to support wetland hydrology through step 1 of the wetland determination process in § 12.30(c)(7) and application of the procedures described in § 12.31(c) will be determined to meet the requisite criteria.
 
 (6) *Not-inventoried land,* is an area for which no evaluation of soils, vegetation, or hydrology has been conducted to determine if wetland criteria are met;
 
@@ -154,10 +138,8 @@
 
 (9) *Wetland,* as defined above in this section.
 
-*Wetland delineation* means outlining the boundaries of a wetland determination on aerial photography, digital imagery, other graphic representation of the area, or on the land.
-
 *Wetland hydrology* means inundation or saturation by surface or groundwater during a growing season at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation.
 
 (b) *Terms for FSA operations.* In the regulations in this part, and in all instructions, forms, and documents in connection therewith, all other words and phrases specifically relating to FSA operations shall, unless required by the subject matter or the specific provisions of this part, have the meanings assigned to them in the regulations at part 718 of this title that govern reconstitutions of farms, allotments, and bases and any subsequent amendment thereto.
 
-[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996; 76 FR 4803, Jan. 27, 2011; 80 FR 22879, Apr. 24, 2015; 83 FR 63050, Dec. 7, 2018]
+[61 FR 47025, Sept. 6, 1996; 61 FR 53491, Oct. 11, 1996; 76 FR 4803, Jan. 27, 2011; 80 FR 22879, Apr. 24, 2015; 83 FR 63050, Dec. 7, 2018; 85 FR 35151, Aug. 28, 2020]

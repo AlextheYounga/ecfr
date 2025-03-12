@@ -12,7 +12,7 @@
 
 (3) *List of hydric soils.* (i) Hydric soils are those soils which meet criteria set forth in the publication “Hydric Soils of the United States 1985” which was developed by the National Technical Committee for Hydric Soils and which is incorporated by reference. This publication may be obtained upon request by writing NRCS at U.S. Department of Agriculture, P.O. Box 2890, Washington, DC 20013, and is available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call 202-741-6030, or go to: *http://www.archives.gov/federal\_register/code\_of\_federal\_regulations/ibr\_locations.html.* Incorporation of this publication by reference was approved by the Director of the Federal Register on June 24, 1986. The materials are incorporated as they exist on the date of the approval and a notice of any change in these materials will be published in the Federal Register.
 
-(ii) An official list of hydric soil map units shall be maintained at the local NRCS office and shall include -
+(ii) An official list of hydric soil map units shall be maintained at the local NRCS office and shall include—
 
 (A) All soils from the National List of Hydric Soils that can be found in that field office area, and
 
@@ -34,7 +34,7 @@
 
 (c) *Wetland Hydrology.* (1) Wetland Hydrology consists of inundation or saturation by surface or groundwater during a growing season at a frequency and duration sufficient to support a prevalence of hydrophytic vegetation.
 
-(2) When a wetland is affected by drainage manipulations that occurred prior to December 23, 1985, wetland hydrology shall be identified on the basis of the best-drained condition resulting from such drainage manipulations.
+(2) When a wetland is affected by drainage manipulations that occurred prior to December 23, 1985, and did not support woody vegetation on December 23, 1985, such that production of an agricultural commodity on that date was possible, wetland hydrology shall be identified on the basis of the best-drained condition resulting from such drainage manipulations.
 
 (3) The determination of wetland hydrology will be made in accordance with the current Federal wetland delineation methodology in use by NRCS at the time of the determination.
 
@@ -54,4 +54,4 @@
 
 (4) The NRCS local field office shall maintain a list of any activities and conditions which are determined by the Chief, or designee, exempt pursuant to this section and will provide the list to a person upon request.
 
-[61 FR 47025, Sept. 6, 1996, as amended at 69 FR 18803, Apr. 9, 2004; 76 FR 82077, Dec. 30, 2011; 80 FR 22885, Apr. 24, 2015; 83 FR 63052, Dec. 7, 2018]
+[61 FR 47025, Sept. 6, 1996, as amended at 69 FR 18803, Apr. 9, 2004; 76 FR 82077, Dec. 30, 2011; 80 FR 22885, Apr. 24, 2015; 83 FR 63052, Dec. 7, 2018; 85 FR 53152, Aug. 28, 2020]

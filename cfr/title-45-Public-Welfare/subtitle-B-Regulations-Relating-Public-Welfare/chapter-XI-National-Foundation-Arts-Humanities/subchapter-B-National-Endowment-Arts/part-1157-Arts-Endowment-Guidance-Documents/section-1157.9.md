@@ -1,0 +1,3 @@
+##### § 1157.9 Exigent circumstances. #####
+
+In emergency situations or when the Arts Endowment is required by statutory deadline or court order to act more quickly than normal review procedures allow, the Arts Endowment shall notify OIRA as soon as possible and, to the extent practicable, comply with the requirements of this part at the earliest opportunity. Wherever practicable, the Arts Endowment will alter its proceedings to permit sufficient time to comply with the procedures set forth in this part.

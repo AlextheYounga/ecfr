@@ -1,5 +1,7 @@
 ##### § 1305.2 Terms. #####
 
+Link to an amendment published at 85 FR 53209, Aug. 28, 2020.
+
 For the purposes of this subchapter, the following definitions apply:
 
 *ACF* means the Administration for Children and Families in the Department of Health and Human Services.

@@ -1,4 +1,7 @@
-##### § 9.10 911 Service. #####
+##### § 9.10 911 Service.
+- #####
+
+Link to an amendment published at 85 FR 53246, Aug. 28, 2020.
 
 (a) *Scope of section.* Except as described in paragraph (r) of this section, the following requirements of paragraphs (a) through (q) of this section are only applicable to CMRS providers, excluding mobile satellite service (MSS) operators, to the extent that they:
 

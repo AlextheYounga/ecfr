@@ -1,0 +1,3 @@
+##### § 17.525 Purpose. #####
+
+The purpose of §§ 17.525 through 17.531 is to establish the Specialty Education Loan Repayment Program (SELRP). The SELRP is an incentive program for certain individuals to meet VA's need for physicians in medical specialties for which VA determines that recruitment and retention of qualified personnel is difficult. Assistance under the SELRP may be in addition to other assistance available to individuals under the Educational Assistance Program under 38 U.S.C. 7601.

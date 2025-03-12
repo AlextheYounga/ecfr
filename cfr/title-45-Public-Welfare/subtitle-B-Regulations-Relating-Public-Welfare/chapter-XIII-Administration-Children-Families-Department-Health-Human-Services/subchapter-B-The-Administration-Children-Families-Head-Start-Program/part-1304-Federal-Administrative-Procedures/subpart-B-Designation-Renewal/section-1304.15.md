@@ -1,5 +1,7 @@
 ##### § 1304.15 Designation request, review and notification process. #####
 
+Link to an amendment published at 85 FR 53208, Aug. 28, 2020.
+
 (a) Grantees must apply to be considered for Designation Renewal.
 
 (1) For the transition period, each Head Start or Early Head Start agency wishing to be considered to have their designation as a Head Start or Early Head Start agency renewed for a five year period without competition shall request that status from ACF within six months of December 9, 2011.
