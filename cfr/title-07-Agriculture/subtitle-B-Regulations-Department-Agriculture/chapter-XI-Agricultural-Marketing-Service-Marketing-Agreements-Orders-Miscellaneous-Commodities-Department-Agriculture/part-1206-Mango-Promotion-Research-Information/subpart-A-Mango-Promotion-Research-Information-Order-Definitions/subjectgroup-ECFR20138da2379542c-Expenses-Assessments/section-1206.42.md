@@ -1,5 +1,7 @@
 ##### § 1206.42 Assessments. #####
 
+Link to an amendment published at 84 FR 5345, Feb. 21, 2019.
+
 (a) The funds to cover the Board's expenses shall be paid from assessments on first handlers and importers, donations from any person not subject to assessments under this Order, and other funds available to the Board and subject to the limitations contained therein.
 
 (b) The assessment rate shall be3/4 of a cent per pound on all mangos. The assessment rate will be reviewed and may be modified by the Board with the approval of the Department, after the first referendum is conducted as stated in § 1206.71(b). The Department will amend this section if the assessment rate is modified.

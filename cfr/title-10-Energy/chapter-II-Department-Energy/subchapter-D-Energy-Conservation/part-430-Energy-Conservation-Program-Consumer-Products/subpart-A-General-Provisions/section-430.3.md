@@ -238,19 +238,19 @@
 
 (2) ASME A112.19.2-2008, (“ASME A112.19.2-2008”), “Ceramic plumbing fixtures,” sections 7.1, 7.1.1, 7.1.2, 7.1.3, 7.1.4, 7.1.5, 7.4, 8.2, 8.2.1, 8.2.2, 8.2.3, 8.6, Table 5, and Table 6 approved August 2008, including Update No. 1, dated August 2009, and Update No. 2, dated March 2011, IBR approved for § 430.2 and appendix T to subpart B.
 
-(i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street, NW., Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
+(i) *AHAM.* Association of Home Appliance Manufacturers, 1111 19th Street NW, Suite 402, Washington, DC 20036, 202-872-5955, or go to *http://www.aham.org.*
 
-(1) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B.
+(1) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B of this part.
 
-(2) ANSI/AHAM DW-1-2010, *Household Electric Dishwashers,* (ANSI approved September 18, 2010), IBR approved for appendix C1 to subpart B.
+(2) ANSI/AHAM DW-1-2010, Household Electric Dishwashers, (ANSI approved September 18, 2010), IBR approved for appendix C1 to subpart B of this part.
 
-(3) AHAM HLD-1-2009 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, (2009), IBR approved for appendix D1 and D2 to subpart B.
+(3) AHAM HLD-1-2009 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, (2009), IBR approved for appendices D1 and D2 to subpart B of this part.
 
-(4) AHAM HRF-1-2008, (“HRF-1-2008”), Association of Home Appliance Manufacturers, Energy and Internal Volume of Refrigerating Appliances (2008), including Errata to Energy and Internal Volume of Refrigerating Appliances, Correction Sheet issued November 17, 2009, IBR approved for appendices A and B to subpart B.
+(4) AHAM HRF-1-2008, (“HRF-1-2008”), Association of Home Appliance Manufacturers, Energy and Internal Volume of Refrigerating Appliances (2008), including Errata to Energy and Internal Volume of Refrigerating Appliances, Correction Sheet issued November 17, 2009, IBR approved for appendices A and B to subpart B of this part.
 
-(5) AHAM OV-1-2011, (“AHAM OV-1”), Procedures for the Determination and Expression of the Volume of Household Microwave and Conventional Ovens, (2011), IBR approved for appendix I to subpart B.
+(5) ANSI/AHAM PAC-1-2015, (“ANSI/AHAM PAC-1-2015”), Portable Air Conditioners, June 19, 2015, IBR approved for appendix CC to subpart B of this part.
 
-(6) [Reserved]
+(6) ANSI/AHAM RAC-1-2008 (“ANSI/AHAM RAC-1”), Room Air Conditioners, (2008; ANSI approved July 7, 2008), IBR approved for appendix F to subpart B of this part.
 
 (j) *ASTM.* American Society for Testing and Materials International, 100 Barr Harbor Drive, P.O. Box C700, West Conshohocken, PA 19428-2959 (*www.astm.org*)
 
@@ -308,7 +308,55 @@
 
 (2) [Reserved]
 
-(p) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
+(p) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
+
+(1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
+
+(2) IEC Standard 60081, (“IEC 60081”), *Double-capped fluorescent lamps - Performance specifications,* (Amendment 4, Edition 5.0, 2010-02); IBR approved for appendix Q to subpart B.
+
+(3) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendix Y to subpart B, as follows:
+
+(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1 - Conditions for normal mode of operation;
+
+(ii) Clause 5.2.2.k;
+
+(iii) Section 5.3, UPS output specification, Section 5.3.2, Characteristics to be declared by the manufacturer, Clause 5.3.2.d;
+
+(iv) Clause 5.3.2.e;
+
+(v) Section 5.3.4 - Performance classification;
+
+(vi) Section 6.2, Routine test procedure, Section 6.2.2.7 - AC input failure;
+
+(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1 - Input - a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
+
+(viii) Annex G - Input mains failure - Test method
+
+(ix) Annex J - UPS Efficiency - Methods of measurement.
+
+(4) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
+
+(5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
+
+(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, X, X1, Y, Z, BB, and CC to subpart B.
+
+(7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
+
+(8) IEC 62301 (“IEC 62301-U”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for appendix U to this subpart, as follows:
+
+(i) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.1 - Supply voltage and frequency (first paragraph only),
+
+(ii) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.2 - Supply voltage waveform;
+
+(iii) Section 4.4 - General conditions for measurements: Power measuring instruments;
+
+(iv) Section 5.3 - Measurements: Procedure: Section 5.3.1 - General (except the last bulleted item), and
+
+(v) Section 5.3 - Measurements: Procedure: Section 5.3.2 - Sampling method (first two paragraphs and Note 1).
+
+(9) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
+
+(q) *IESNA.* Illuminating Engineering Society of North America, 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *http://www.iesna.org.*
 
 (1) *The IESNA Lighting Handbook, Reference & Application,* (“The IESNA Lighting Handbook”), 9th ed., Chapter 6, “Light Sources,” July 2000, IBR approved for § 430.2.
 
@@ -408,54 +456,6 @@
 
 (20) IES TM-28-14, (“IES TM-28”), Projecting Long-Term Luminous Flux Maintenance of LED Lamps and Luminaires, approved May 20, 2014; IBR approved for appendix BB to subpart B.
 
-(q) *IEC.* International Electrotechnical Commission, available from the American National Standards Institute, 25 W. 43rd Street, 4th Floor, New York, NY 10036, (212) 642-4900, or go to *http://webstore.ansi.org.*
-
-(1) IEC Standard 933-5:1992, (“IEC 60933-5 Ed. 1.0”), *Audio, video and audiovisual systems - Interconnections and matching values - Part 5: Y/C connector for video systems - Electrical matching values and description of the connector,* First Edition, 1992-12; IBR approved for § 430.2. (Note: IEC 933-5 is also known as IEC 60933-5.)
-
-(2) IEC Standard 60081, (“IEC 60081”), *Double-capped fluorescent lamps - Performance specifications,* (Amendment 4, Edition 5.0, 2010-02); IBR approved for appendix Q to subpart B.
-
-(3) IEC Standard 62040-3 Ed. 2.0, (“IEC 62040-3 Ed. 2.0”), *Uninterruptible power systems (UPS) - Part 3: Method of specifying the performance and test requirements,* Edition 2.0, 2011-03, IBR approved for appendix Y to subpart B, as follows:
-
-(i) Section 5, Electrical conditions, performance and declared values, Section 5.2, UPS input specification, Section 5.2.1 - Conditions for normal mode of operation;
-
-(ii) Clause 5.2.2.k;
-
-(iii) Section 5.3, UPS output specification, Section 5.3.2, Characteristics to be declared by the manufacturer, Clause 5.3.2.d;
-
-(iv) Clause 5.3.2.e;
-
-(v) Section 5.3.4 - Performance classification;
-
-(vi) Section 6.2, Routine test procedure, Section 6.2.2.7 - AC input failure;
-
-(vii) Section 6.4, Type test procedure (electrical), Section 6.4.1 - Input - a.c. supply compatibility (excluding 6.4.1.3, 6.4.1.4, 6.4.1.5, 6.4.1.6, 6.4.1.7, 6.4.1.8, 6.4.1.9 and 6.4.1.10);
-
-(viii) Annex G - Input mains failure - Test method
-
-(ix) Annex J - UPS Efficiency - Methods of measurement.
-
-(4) IEC Standard 62087:2011, (“IEC 62087 Ed. 3.0”), *Methods of measurement for the power consumption of audio, video, and related equipment,* Edition 3.0, 2011-04, Sections 3.1.1, 3.1.18, 11.4.1, 11.4.2, 11.4.5, 11.4.6, 11.4.8, 11.4.9, 11.4.10, 11.4.11, 11.5.5, and annexc.3; IBR approved for Appendix H to subpart B of this part.
-
-(5) International Electrotechnical Commission (IEC) Standard 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power* (first edition, June 2005), IBR approved for appendix F, and appendix I to subpart B.
-
-(6) IEC 62301 (“IEC 62301”), *Household electrical appliances - Measurement of standby power,* (Edition 2.0, 2011-01), IBR approved for appendices C1, D1, D2, G, H, I, J2, N, O, P, X, X1, Y, Z, BB, and CC to subpart B.
-
-(7) IEC 62301, (“IEC 62301-DD”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01); Section 5 - Measurements, IBR approved for appendix DD to subpart B.
-
-(8) IEC 62301 (“IEC 62301-U”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), IBR approved for appendix U to this subpart, as follows:
-
-(i) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.1 - Supply voltage and frequency (first paragraph only),
-
-(ii) Section 4.3 - General conditions for measurements: Power supply: Section 4.3.2 - Supply voltage waveform;
-
-(iii) Section 4.4 - General conditions for measurements: Power measuring instruments;
-
-(iv) Section 5.3 - Measurements: Procedure: Section 5.3.1 - General (except the last bulleted item), and
-
-(v) Section 5.3 - Measurements: Procedure: Section 5.3.2 - Sampling method (first two paragraphs and Note 1).
-
-(9) IEC 62301, (“IEC 62301-W”), Household electrical appliances - Measurement of standby power, (Edition 2.0, 2011-01), Section 5 - Measurements, IBR approved for appendix W to subpart B.
-
 (r) *U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy.* Resource Room of the Building Technologies Program, 950 L'Enfant Plaza SW., 6th Floor, Washington, DC 20024, 202-586-2945, (Energy Star materials are also found at *http://www.energystar.gov.*)
 
 (1) ITU-R BT.470-6, Conventional Television Systems, published November 1998; IBR approved for § 430.2.
@@ -490,4 +490,4 @@
 
 (3) UL 896-1993 (“UL 896”), Standard for Safety for Oil-Burning Stoves, Fifth Edition, dated July 29, 1993, including revisions through May 7, 2010, IBR approved for appendix O to subpart B.
 
-[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*Editorial Note:At 81 FR 91446, Dec. 16, 2016, § 430.3 was amended; however, a portion of the amendment could not be incorporated due to inaccurate amendatory instruction.
+[74 FR 12066, Mar. 23, 2009]Editorial Note:For Federal Register citations affecting § 430.3, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*

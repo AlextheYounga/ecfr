@@ -1,7 +1,5 @@
 ##### § 814.104 Original applications. #####
 
-Link to an amendment published at 83 FR 7388, Feb. 21, 2018.
-
 (a) *United States applicant or representative.* The applicant or an authorized representative shall sign the HDE. If the applicant does not reside or have a place of business within the United States, the HDE shall be countersigned by an authorized representative residing or maintaining a place of business in the United States and shall identify the representative's name and address.
 
 (b) *Contents.* Unless the applicant justifies an omission in accordance with paragraph (d) of this section, an HDE shall include:
@@ -14,7 +12,7 @@ Link to an amendment published at 83 FR 7388, Feb. 21, 2018.
 
 (4) All of the information required to be submitted under § 814.20(b), except that:
 
-(i) In lieu of the summaries, conclusions, and results from clinical investigations required under §§ 814.20(b)(3)(v)(B), (b)(3)(vi), and (b)(6)(ii), the applicant shall include the summaries, conclusions, and results of all clinical experience or investigations (whether adverse or supportive) reasonably obtainable by the applicant that are relevant to an assessment of the risks and probable benefits of the device; and
+(i) In lieu of the summaries, conclusions, and results from clinical investigations required under § 814.20(b)(3)(v)(B), (b)(3)(vi), and the introductory text of (b)(6)(ii), the applicant shall include the summaries, conclusions, and results of all clinical experience or investigations (whether adverse or supportive) reasonably obtainable by the applicant that are relevant to an assessment of the risks and probable benefits of the device and to the extent the applicant includes data from clinical investigations, the applicant shall include the statements described in § 814.20(b)(6)(ii)(A) and (B) with respect to clinical investigations conducted in the United States and the information described in § 814.20(b)(6)(ii)(C) with respect to clinical investigations conducted outside the United States; and
 
 (ii) In addition to the proposed labeling requirement set forth in § 814.20(b)(10), the labeling shall bear the following statement: Humanitarian Device. Authorized by Federal law for use in the [treatment or diagnosis] of [specify disease or condition]. The effectiveness of this device for this use has not been demonstrated;
 
@@ -32,4 +30,4 @@ Link to an amendment published at 83 FR 7388, Feb. 21, 2018.
 
 (3) For devices regulated by the Center for Drug Evaluation and Research, send this information to the Central Document Control Room, Center for Drug Evaluation and Research, Food and Drug Administration, 5901-B Ammendale Rd., Beltsville, MD 20705-1266.
 
-[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 75 FR 20915, Apr. 22, 2010; 79 FR 1740, Jan. 10, 2014; 80 FR 18094, Apr. 3, 2015]
+[61 FR 33244, June 26, 1996, as amended at 63 FR 59220, Nov. 3, 1998; 73 FR 49942, Aug. 25, 2008; 75 FR 20915, Apr. 22, 2010; 79 FR 1740, Jan. 10, 2014; 80 FR 18094, Apr. 3, 2015; 83 FR 7388, Feb. 21, 2018]

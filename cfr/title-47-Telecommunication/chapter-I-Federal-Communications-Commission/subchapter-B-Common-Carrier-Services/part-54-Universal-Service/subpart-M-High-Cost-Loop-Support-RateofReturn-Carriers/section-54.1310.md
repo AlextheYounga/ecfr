@@ -1,7 +1,5 @@
 ##### § 54.1310 Expense adjustment. #####
 
-Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
-
 (a) Until June 30, 2015, for study areas reporting 200,000 or fewer working loops pursuant to § 54.1305(h), the expense adjustment (additional interstate expense allocation) is equal to the sum of paragraphs (a)(1) and (2) of this section.
 
 (1) Sixty-five percent of the study area average unseparated loop cost per working loop as calculated pursuant to § 54.1309(b) in excess of 115 percent of the national average for this cost but not greater than 150 percent of the national average for this cost as calculated pursuant to § 54.1309(a) multiplied by the number of working loops reported in § 54.1305(h) for the study area; and

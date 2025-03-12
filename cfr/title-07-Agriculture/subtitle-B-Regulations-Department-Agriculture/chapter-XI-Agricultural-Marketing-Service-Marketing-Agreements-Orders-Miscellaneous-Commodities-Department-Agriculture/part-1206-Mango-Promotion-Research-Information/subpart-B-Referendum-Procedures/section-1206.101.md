@@ -1,5 +1,7 @@
 ##### § 1206.101 Definitions. #####
 
+Link to an amendment published at 84 FR 5346, Feb. 21, 2019.
+
 (a) *Administrator* means the Administrator of the Agricultural Marketing Service, with power to redelegate, or any officer or employee of the U.S. Department of Agriculture to whom authority has been delegated or may hereafter be delegated to act in the Administrator's stead.
 
 (b) *Department* means the U.S. Department of Agriculture or any officer or employee of the Department to whom authority has heretofore been delegated, or to whom authority may hereafter be delegated, to act in the Secretary's stead.

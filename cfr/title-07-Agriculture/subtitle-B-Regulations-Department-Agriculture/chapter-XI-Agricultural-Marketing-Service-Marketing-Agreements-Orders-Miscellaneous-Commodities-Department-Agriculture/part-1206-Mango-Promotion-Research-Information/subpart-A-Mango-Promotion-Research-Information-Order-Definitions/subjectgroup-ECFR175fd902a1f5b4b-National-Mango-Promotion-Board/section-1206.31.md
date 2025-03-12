@@ -1,5 +1,7 @@
 ##### § 1206.31 Nominations and appointments. #####
 
+Link to an amendment published at 84 FR 5345, Feb. 21, 2019.
+
 (a) Voting for first handler, importer, and domestic producer members will be made by mail ballot.
 
 (b) There shall be two nominees for each position on the Board.

@@ -1,7 +1,5 @@
 ##### § 54.901 Calculation of Connect America Fund Broadband Loop Support. #####
 
-Link to an amendment published at 84 FR 4733, Feb. 19, 2019.
-
 (a) Connect America Fund Broadband Loop Support (CAF BLS) available to a rate-of-return carrier shall equal the Interstate Common Line Revenue Requirement per Study Area, plus the Consumer Broadband-Only Revenue Requirement per Study Area as calculated in accordance with part 69 of this chapter, minus:
 
 (1) The study area revenues obtained from end user common line charges at their allowable maximum as determined by § 69.104(n) and (o) of this chapter;

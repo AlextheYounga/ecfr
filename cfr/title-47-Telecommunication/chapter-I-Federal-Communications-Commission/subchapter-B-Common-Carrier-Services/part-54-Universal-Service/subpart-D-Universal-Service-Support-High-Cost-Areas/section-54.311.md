@@ -1,7 +1,5 @@
 ##### § 54.311 Connect America Fund Alternative-Connect America Cost Model Support. #####
 
-Link to an amendment published at 84 FR 4731, Feb. 19, 2019.
-
 (a) *Voluntary election of model-based support.* A rate-of-return carrier (as that term is defined in § 54.5) receiving support pursuant to subparts K or M of this part shall have the opportunity to voluntarily elect, on a state-level basis, to receive Connect America Fund-Alternative Connect America Cost Model (CAF-ACAM) support as calculated by the Alternative-Connect America Cost Model (A-CAM) adopted by the Commission in lieu of support calculated pursuant to subparts K or M of this part. Any rate-of-return carrier not electing support pursuant to this section shall continue to receive support calculated pursuant to those mechanisms as specified in Commission rules for high-cost support.
 
 (b) *Geographic areas eligible for support.* CAF-ACAM model-based support will be made available for a specific number of locations in census blocks identified as eligible for each carrier by public notice. The eligible areas and number of locations for each state identified by the public notice shall not change during the term of support identified in paragraph (c) of this section.

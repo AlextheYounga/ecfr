@@ -1,5 +1,7 @@
 ##### § 1206.30 Establishment and membership. #####
 
+Link to an amendment published at 84 FR 5345, Feb. 21, 2019.
+
 (a) *Establishment of the National Mango Promotion Board.* There is hereby established a National Mango Promotion Board composed of eight importers, one first handler, two domestic producers, and seven foreign producers. The chairperson shall reside in the United States and the Board office shall also be located in the United States.
 
 (b) *Importer districts.* The importer seats shall be allocated based on the volume of mangos imported into the Customs Districts identified by their name and Code Number as defined in the Harmonized Tariff Schedule of the United States. The initial allocation will be two seats for District I, three seats for District II, two seats for District III, and one seat for District IV.

@@ -116,7 +116,15 @@
 
 (11) The following sample labels are presented for the purpose of illustration:
 
-![](/graphics/er27my16.013.gif)![](/graphics/er27my16.014.gif)![](/graphics/er27my16.015.gif)![](/graphics/er27my16.016.gif)
+![](/graphics/er27my16.413.gif)
+
+(ii) Multiple vitamins for children and adults (excludes Servings Per Container which is stated in the net quantity of contents declaration):
+
+![](/graphics/er21de18.014.gif)![](/graphics/er27my16.415.gif)
+
+(iv) Dietary supplement containing dietary ingredients with and without RDIs and DRVs:
+
+![](/graphics/er21de18.015.gif)![](/graphics/er27my16.417.gif)![](/graphics/er27my16.418.gif)![](/graphics/er27my16.419.gif)
 
 (12) If space is not adequate to list the required information as shown in the sample labels in paragraph (e)(11) of this section, the list may be split and continued to the right as long as the headings are repeated. The list to the right must be set off by a line that distinguishes it and sets it apart from the dietary ingredients and percent of Daily Value information given to the left. The following sample label illustrates this display:
 
@@ -158,18 +166,4 @@
 
 (j) Dietary supplements shall be subject to the misbranding provisions of § 101.9(k).
 
-[62 FR 49849, Sept. 23, 1997, as amended at 63 FR 30620, June 5, 1998; 66 FR 56035, Nov. 6, 2001; 71 FR 51726, Aug. 31, 2006; 71 FR 74791, Dec. 13, 2006; 81 FR 33994, May 27, 2016; 83 FR 65502, Dec. 21, 2018]Editorial Note:At 83 FR 65502, Dec. 21, 2018, § 101.36 was amended by revising paragraphs (e)(11)(ii) and (iv); however, the amendment could not be incorporated for technical reasons. For the convenience of the user, the revised text is set forth as follows:
-
-##### § 101.36 Nutrition labeling of dietary supplements. #####
-
-(e) \* \* \*
-
-(11) \* \* \*
-
-(ii) Multiple vitamins for children and adults (excludes Servings Per Container which is stated in the net quantity of contents declaration):
-
-![](/graphics/er21de18.014.gif)
-
-(iv) Dietary supplement containing dietary ingredients with and without RDIs and DRVs:
-
-![](/graphics/er21de18.015.gif)
+[62 FR 49849, Sept. 23, 1997, as amended at 63 FR 30620, June 5, 1998; 66 FR 56035, Nov. 6, 2001; 71 FR 51726, Aug. 31, 2006; 71 FR 74791, Dec. 13, 2006; 81 FR 33994, May 27, 2016; 83 FR 65502, Dec. 21, 2018]

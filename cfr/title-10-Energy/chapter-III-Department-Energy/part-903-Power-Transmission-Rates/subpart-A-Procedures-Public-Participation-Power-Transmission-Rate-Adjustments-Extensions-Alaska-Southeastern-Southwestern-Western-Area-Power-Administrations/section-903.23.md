@@ -6,6 +6,8 @@
 
 (2) The Administrator may allow for consultation and comment, as provided in these procedures, for such period as the Administrator may provide. One or more public information and comment forums may be held, as provided in these procedures, at such times and locations and with such advance Notice as the Administrator may provide.
 
-(3) Following notice of the proposed extension and the conclusion of any consultation and comment period, the Deputy Secretary may extend the rates on an interim basis.
+(3) Following notice of the proposed extension and the conclusion of any consultation and comment period, the Secretary or his or her designee may extend the rates on an interim basis.
 
-(b) Provisional Rates and other existing rates may be extended on a temporary basis by the Deputy Secretary without advance notice or comment pending further action pursuant to these regulations or by the FERC. The Deputy Secretary shall publish notice in the Federal Register of such extension and shall promptly advise the FERC of the extension.
+(b) Provisional Rates and other existing rates may be extended on a temporary basis by the Secretary or his or her designee without advance notice or comment pending further action pursuant to these regulations or by the FERC. The Secretary or his or her designee shall publish notice in the Federal Register of such extension and shall promptly advise the FERC of the extension.
+
+[50 FR 37837, Sept. 18, 1985, as amended at 84 FR 5350, Feb. 21, 2019]

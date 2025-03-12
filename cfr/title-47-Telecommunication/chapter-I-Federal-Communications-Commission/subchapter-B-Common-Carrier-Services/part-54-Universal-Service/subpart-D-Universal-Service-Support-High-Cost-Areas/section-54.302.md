@@ -1,7 +1,5 @@
 ##### § 54.302 Monthly per-line limit on universal service support. #####
 
-Link to an amendment published at 84 FR 4730, Feb. 19, 2019.
-
 (a) Beginning July 1, 2012 and until June 30, 2013, each study area's universal service monthly support (not including Connect America Fund support provided pursuant to § 54.304) on a per-line basis shall not exceed $250 per-line plus two-thirds of the difference between its uncapped per-line monthly support and $250. Beginning July 1, 2013 and until June 30, 2014, each study area's universal service monthly support on a per-line basis shall not exceed $250 per-line plus one third of the difference between its uncapped per-line monthly support and $250. Beginning July 1, 2014, each study area's universal service monthly per-line support shall not exceed $250.
 
 (b) For purposes of this section, universal service support is defined as the sum of the amounts calculated pursuant to §§ 54.1304, 54.1310, 54.305, and 54.901 through 54.904. Line counts for purposes of this section shall be as of the most recent line counts reported pursuant to § 54.903(a)(1).
