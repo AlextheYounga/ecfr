@@ -24,7 +24,7 @@
 
 (v) In IFQ regulatory areas 2C and 3A, RFQ held by an RQE may be harvested aboard charter vessels as defined at 50 CFR 300.61 of any size, regardless of the QS category from which that RFQ originated.
 
-(b) *Gear* - (1) *IFQ Fisheries.* Authorized fishing gear to harvest IFQ halibut and IFQ sablefish is defined in § 679.2.
+(b) *Gear*—(1) *IFQ Fisheries.* Authorized fishing gear to harvest IFQ halibut and IFQ sablefish is defined in § 679.2.
 
 (i) *IFQ halibut.* IFQ halibut must not be harvested with trawl gear in any IFQ regulatory area.
 
@@ -78,9 +78,13 @@
 
 (B) A medical transfer will be issued only for the IFQ derived from the QS held by the applicant; and
 
-(C) NMFS will not approve a medical transfer if the applicant has received a medical transfer in any 3 of the previous 7 calendar years for any medical condition.
+(C) Except as provided for in paragraph (d)(2)(iv)(C)(*1*) of this section, NMFS will not approve a medical transfer if the applicant has received a medical transfer in any 3 of the previous 7 calendar years for any medical reason.
 
-(v) *Medical transfer evaluations and appeals* - (A) *Initial evaluation.* The Regional Administrator will evaluate an application for a medical transfer submitted in accordance with paragraphs (d)(2)(iii) and (d)(2)(iv) of this section. An applicant who fails to submit the information specified in the application for a medical transfer will be provided a reasonable opportunity to submit the specified information or submit a revised application.
+(*1*) Medical transfers approved in 2020, 2021, or 2022 do not count toward the restriction detailed in paragraph (d)(2)(iv)(C) of this section.
+
+(*2*) [Reserved]
+
+(v) *Medical transfer evaluations and appeals*—(A) *Initial evaluation.* The Regional Administrator will evaluate an application for a medical transfer submitted in accordance with paragraphs (d)(2)(iii) and (d)(2)(iv) of this section. An applicant who fails to submit the information specified in the application for a medical transfer will be provided a reasonable opportunity to submit the specified information or submit a revised application.
 
 (B) *Initial administrative determinations (IAD).* The Regional Administrator will prepare and send an IAD to the applicant if the Regional Administrator determines that the application provided by the applicant is deficient or if the applicant fails to submit the specified information or a revised application. The IAD will indicate the deficiencies in the application, including any deficiencies with the information on the revised application. An applicant who receives an IAD may appeal under the appeals procedures set out at § 679.43.
 
@@ -110,7 +114,7 @@
 
 (i) In the GOA may lease the IFQ resulting from that QS only to an eligible community resident of the eligible community on whose behalf the QS is held; and
 
-(ii) In the Aleutian Islands subarea may lease the IFQ resulting from that QS to any person who has received an approved Application for Eligibility as described in paragraph (d) of this section prior to March 17, 2019 and only to an eligible community resident of Adak, AK, after March 17, 2019.
+(ii) In the Aleutian Islands subarea may lease the IFQ resulting from that QS to any person who has received an approved Application for Eligibility as described in § 679.41(d) prior to February 28, 2028, but only to an eligible community resident of Adak, AK, after February 28, 2028.
 
 (9) A CQE representing an eligible community in the Aleutian Islands subarea may receive by transfer or use sablefish QS only in the Aleutian Islands subarea.
 
@@ -146,7 +150,7 @@
 
 (i) In an IFQ regulatory area specified in § 679.41(e)(3)(i) through (e)(3)(iii) of this part may lease the IFQ resulting from that QS only to an eligible community resident of the eligible community represented by the CQE.
 
-(ii) In IFQ regulatory area 4B may lease the IFQ resulting from that QS to any person who has received an approved Application for Eligibility as described in paragraph (d) of this section prior to March 17, 2019 and only to an eligible community resident of Adak, AK, after March 17, 2019.
+(ii) In IFQ regulatory Area 4B may lease the IFQ resulting from that QS to any person who has received an approved Application for Eligibility as described in § 679.41(d) prior to February 28, 2028 but only to an eligible community resident of Adak, AK, after February 28, 2028.
 
 (8)(i) *Annual transfer limits.* The RQE may not receive by transfer more than 594,774 units of Area 2C halibut QS and more than 2,218,716 units of Area 3A halibut QS in a year.
 
@@ -158,7 +162,7 @@
 
 (C) The RQE may not hold more than 265,524 units of halibut QS that is assigned to vessel category B in IFQ regulatory area 2C.
 
-(g) *Limitations on QS blocks* - (1) *Number of blocks per species.* No person, individually or collectively, may hold more than two blocks of sablefish or three blocks of halibut in any IFQ regulatory area, except:
+(g) *Limitations on QS blocks*—(1) *Number of blocks per species.* No person, individually or collectively, may hold more than two blocks of sablefish or three blocks of halibut in any IFQ regulatory area, except:
 
 (i) A person, individually or collectively, who holds unblocked QS for a species in an IFQ regulatory area, may hold only one QS block for that species in that regulatory area; and
 
@@ -180,7 +184,7 @@
 
 (4) Holding or to hold blocks of QS. For purposes of this section, “holding” or “to hold” blocks of QS means being registered by NMFS as the person who received QS by initial assignment or approved transfer.
 
-(h) *Vessel limitations* - (1) *Halibut.* No vessel may be used, during any fishing year, to harvest more IFQ halibut than one-half percent of the combined total catch limits of halibut for IFQ regulatory areas 2C, 3A, 3B, 4A, 4B, 4C, 4D, and 4E, except that:
+(h) *Vessel limitations*—(1) *Halibut.* No vessel may be used, during any fishing year, to harvest more IFQ halibut than one-half percent of the combined total catch limits of halibut for IFQ regulatory areas 2C, 3A, 3B, 4A, 4B, 4C, 4D, and 4E, except that:
 
 (i) In IFQ regulatory area 2C, no vessel may be used to harvest more than 1 percent of the halibut catch limit for this area.
 
@@ -206,7 +210,7 @@
 
 (iii) Is represented on the vessel by a hired master employed by that individual and permitted in accordance with § 679.4(d)(2).
 
-(iv) *NMFS review of application for exemption* - (A) *Initial evaluation.* The Regional Administrator will evaluate an application for a hired master submitted in accordance with paragraphs (i)(1), (i)(6), and (i)(7) of this section. An applicant who fails to submit the information specified in the application for a hired master will be provided a reasonable opportunity to submit the specified information or submit a revised application.
+(iv) *NMFS review of application for exemption*—(A) *Initial evaluation.* The Regional Administrator will evaluate an application for a hired master submitted in accordance with paragraphs (i)(1), (i)(6), and (i)(7) of this section. An applicant who fails to submit the information specified in the application for a hired master will be provided a reasonable opportunity to submit the specified information or submit a revised application.
 
 (B) *Initial administrative determinations (IAD).* The Regional Administrator will prepare and send an IAD to an individual submitting an application for a hired master submitted in accordance with paragraphs (i)(1), (i)(6), and (i)(7) of this section if the Regional Administrator determines that the information required to be submitted to NMFS is deficient or if the applicant fails to submit the required information. The IAD will indicate the deficiencies with the information submitted. An applicant who receives an IAD may appeal under the appeals procedures set out at § 679.43.
 
@@ -274,7 +278,7 @@
 
 (10) Paragraphs (j)(1) and (j)(9) of this section do not apply to any QS assigned to vessel category B, C, or D received by transfer after February 12, 2010, by an entity described in paragraph (j)(1) except a hired master may be used to harvest IFQ derived from QS that were consolidated under § 679.41(e)(2) or (e)(3) after February 12, 2010, and before December 1, 2014.
 
-(k) *Sablefish vessel clearance requirements* - (1) *Bering Sea or Aleutian Islands.* Any vessel operator who fishes for IFQ sablefish in the Bering Sea or Aleutian Islands must possess a transmitting VMS transmitter while fishing for IFQ sablefish. The operator of the vessel must comply with VMS requirements at § 679.28(f)(3) through (5).
+(k) *Sablefish vessel clearance requirements*—(1) *Bering Sea or Aleutian Islands.* Any vessel operator who fishes for IFQ sablefish in the Bering Sea or Aleutian Islands must possess a transmitting VMS transmitter while fishing for IFQ sablefish. The operator of the vessel must comply with VMS requirements at § 679.28(f)(3) through (5).
 
 (2) *Gulf of Alaska.* A vessel operator using longline pot gear to fish for IFQ sablefish in the Gulf of Alaska must possess a transmitting VMS transmitter while fishing for sablefish. The operator of the vessel must comply with VMS requirements at § 679.28(f)(3) through (5).
 
@@ -294,7 +298,7 @@
 
 (3)-(4) [Reserved]
 
-(5) *Restrictions on GOA longline pot gear deployment and retrieval* - (i) *General.*(A) A vessel operator must mark longline pot gear used to fish IFQ sablefish in the GOA as specified in § 679.24(a).
+(5) *Restrictions on GOA longline pot gear deployment and retrieval*—(i) *General.* (A) A vessel operator must mark longline pot gear used to fish IFQ sablefish in the GOA as specified in § 679.24(a).
 
 (B) A vessel operator must deploy and retrieve longline pot gear to fish IFQ sablefish in the GOA only during the sablefish fishing period specified in § 679.23(g)(1).
 
@@ -304,19 +308,21 @@
 
 (A) In the Southeast Outside District of the GOA, a vessel operator is limited to deploying a maximum of 120 pots.
 
-(B) In the West Yakutat District of the GOA, a vessel operator is limited to deploying a maximum of 120 pots.
+(B) In the West Yakutat District of the GOA, a vessel operator is limited to deploying a maximum of 200 pots.
 
 (C) In the Central GOA regulatory area, a vessel operator is limited to deploying a maximum of 300 pots.
 
 (D) In the Western GOA regulatory area, a vessel operator is limited to deploying a maximum of 300 pots.
 
-(iii) *Gear retrieval.* (A) In the Southeast Outside District of the GOA, a catcher vessel operator must retrieve and remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish when the vessel makes an IFQ landing.
+(iii) *Gear retrieval.* (A) In the Southeast Outside District of the GOA, a catcher vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
 
 (B) In the Southeast Outside District of the GOA, a catcher/processor must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
 
-(C) In the West Yakutat District of the GOA and the Central GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
+(C) In the West Yakutat District of the GOA, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within five days of deploying the gear.
 
 (D) In the Western GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within seven days of deploying the gear.
+
+(E) In the Central GOA regulatory area, a vessel operator must redeploy or remove from the fishing grounds all longline pot gear that is assigned to the vessel and deployed to fish IFQ sablefish within seven days of deploying the gear.
 
 (iv) *Longline pot gear used on multiple vessels.* Longline pot gear assigned to one vessel and deployed to fish IFQ sablefish in the GOA must be removed from the fishing grounds, and returned to port before being deployed by another vessel to fish IFQ sablefish in the GOA.
 

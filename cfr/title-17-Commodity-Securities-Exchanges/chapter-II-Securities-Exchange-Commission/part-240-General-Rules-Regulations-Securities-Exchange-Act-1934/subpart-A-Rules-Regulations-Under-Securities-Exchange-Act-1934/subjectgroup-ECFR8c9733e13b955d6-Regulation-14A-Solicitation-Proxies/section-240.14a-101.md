@@ -1,6 +1,6 @@
 ##### § 240.14a-101 Schedule 14A. Information required in proxy statement. #####
 
-Link to an amendment published at 87 FR 80430, Dec. 29, 2022.Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
+Schedule 14A InformationProxy Statement Pursuant to Section 14(a) of the Securities Exchange Act of 1934(Amendment No. )Filed by the Registrant [ ] Filed by a party other than the Registrant [ ] Check the appropriate box: [ ] Preliminary Proxy Statement [ ] Confidential, for Use of the Commission Only (as permitted by Rule 14a-6(e)(2)) [ ] Definitive Proxy Statement [ ] Definitive Additional Materials [ ] Soliciting Material under § 240.14a-12(Name of Registrant as Specified In Its Charter)(Name of Person(s) Filing Proxy Statement, if other than the Registrant)
 
 Payment of Filing Fee (Check all boxes that apply):
 
@@ -54,7 +54,7 @@ E. In Item 13 of this Schedule, the reference to “meets the requirement of For
 
 2. Open-end investment companies registered under the Investment Company Act of 1940 are not required to respond to this item.
 
-*Item 4. Persons Making the Solicitation* - (a) Solicitations not subject to Rule 14a-12(c) (§ 240.14a-12(c)). (1) If the solicitation is made by the registrant, so state. Give the name of any director of the registrant who has informed the registrant in writing that he intends to oppose any action intended to be taken by the registrant and indicate the action which he intends to oppose.
+*Item 4. Persons Making the Solicitation*—(a) Solicitations not subject to Rule 14a-12(c) (§ 240.14a-12(c)). (1) If the solicitation is made by the registrant, so state. Give the name of any director of the registrant who has informed the registrant in writing that he intends to oppose any action intended to be taken by the registrant and indicate the action which he intends to oppose.
 
 (2) If the solicitation is made otherwise than by the registrant, so state and give the names of the participants in the solicitation, as defined in paragraphs (a) (iii), (iv), (v) and (vi) of Instruction 3 to this Item.
 
@@ -148,7 +148,7 @@ Except in the case of a solicitation subject to this regulation made in oppositi
 
 (xi) Furnish for the participant and associates of the participant the information required by Item 404(a) of Regulation S-K (§ 229.404(a) of this chapter).
 
-(xii) State whether or not the participant or any associates of the participant have any arrangement or understanding with any person -
+(xii) State whether or not the participant or any associates of the participant have any arrangement or understanding with any person—
 
 (A) with respect to any future employment by the registrant or its affiliates; or(B) with respect to any future transactions to which the registrant or any of its affiliates will or may be a party.If so, describe such arrangement or understanding and state the names of the parties thereto.
 
@@ -178,7 +178,7 @@ For purposes of this Item 5, beneficial ownership shall be determined in accorda
 
 (a) The information required by Item 103(c)(2) of Regulation S-K (§ 229.103(c)(2) of this chapter) with respect to directors and executive officers.
 
-(b) The information required by Items 401, 404(a) and (b), 405 and 407 of Regulation S-K (§§ 229.401, 229.404(a) and (b), 229.405 and 229.407 of this chapter), other than the information required by:
+(b) The information required by Items 401, 404(a) and (b), 405, 407 and 408(b) of Regulation S-K (§§ 229.401, 229.404(a) and (b), 229.405, 229.407, and 229.408(b) of this chapter), other than the information required by:
 
 (i) Paragraph (c)(3) of Item 407 of Regulation S-K (§ 229.407(c)(3) of this chapter); and
 
@@ -472,7 +472,7 @@ If, however, the transaction is a going-private transaction (as defined by § 24
 
 (7) *Past contacts, transactions or negotiations.* The information required by Items 1005(b) and 1011(a)(1) of Regulation M-A (§ 229.1005 of this chapter and § 229.1011 of this chapter), for the parties to the transaction and their affiliates during the periods for which financial statements are presented or incorporated by reference under this Item.
 
-(8) - (10) [Reserved]
+(8)—(10) [Reserved]
 
 (11) *Financial information.* If material, financial information required by Article 11 of Regulation S-X (§§ 210.10-01 through 229.11-03 of this chapter) with respect to this transaction.
 
@@ -482,7 +482,7 @@ Instructions to paragraph (b)(11):
 
 2. If current pro forma financial information with respect to all other transactions is incorporated by reference, you need only present the pro forma effect of this transaction.
 
-(c) *Information about the parties to the transaction* - (1) *Acquiring company.* Furnish the information required by Part B (Registrant Information) of Form S-4 (§ 239.25 of this chapter) or Form F-4 (§ 239.34 of this chapter), as applicable, for the acquiring company. However, financial statements need only be presented for the latest two fiscal years and interim periods.
+(c) *Information about the parties to the transaction*—(1) *Acquiring company.* Furnish the information required by Part B (Registrant Information) of Form S-4 (§ 239.25 of this chapter) or Form F-4 (§ 239.34 of this chapter), as applicable, for the acquiring company. However, financial statements need only be presented for the latest two fiscal years and interim periods.
 
 (2) *Acquired company.* Furnish the information required by Part C (Information with Respect to the Company Being Acquired) of Form S-4 (§ 239.25 of this chapter) or Form F-4 (§ 239.34 of this chapter), as applicable.
 
@@ -1060,7 +1060,7 @@ Registered funds that must pay registration fees using Form 24F-2 (§ 274.24) ar
 
 Calculation of Filing Fee Tables
 
-Table 1 - Transaction Valuation
+Table 1—Transaction Valuation
 
 |                           |Proposed  <br/>maximum  <br/>aggregate  <br/>value of  <br/>transaction|Fee rate|Amount of  <br/>filing fee|
 |---------------------------|-----------------------------------------------------------------------|--------|--------------------------|
@@ -1072,7 +1072,7 @@ Table 1 - Transaction Valuation
 |     Total Fee Offsets     |                                                                       |        |            X             |
 |        Net Fee Due        |                                                                       |        |            X             |
 
-Table 2 - Fee Offset Claims and Sources
+Table 2—Fee Offset Claims and Sources
 
 |                  |Registrant or filer name|Form or  <br/>filing type|File number|Initial filing date|Filing date|Fee offset claimed|Fee paid with fee  <br/>offset source|
 |------------------|------------------------|-------------------------|-----------|-------------------|-----------|------------------|-------------------------------------|

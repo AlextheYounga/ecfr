@@ -1,14 +1,16 @@
 ##### § 1336.50 Financial and administrative requirements. #####
 
+Link to an amendment published at 88 FR 12226, Feb. 27, 2023.
+
 (a) *General.* The following HHS regulations apply to all grants awarded under this part:
 
 45 CFR Part 16 Department grant appeals process.
 
 45 CFR Part 46 Protection of human subjects.
 
-45 CFR part 75 - Uniform Administrative Requirements, Cost Principles, and Audit Requirements for HHS Awards
+45 CFR part 75—Uniform Administrative Requirements, Cost Principles, and Audit Requirements for HHS Awards
 
-45 CFR Part 80 Nondiscrimination under programs receiving Federal assistance through the Department of Health and Human Services - Effectuation of title VI of the Civil Rights Act of 1964.
+45 CFR Part 80 Nondiscrimination under programs receiving Federal assistance through the Department of Health and Human Services—Effectuation of title VI of the Civil Rights Act of 1964.
 
 45 CFR Part 81 Practice and procedure for hearing under part 80.
 
@@ -18,7 +20,7 @@
 
 45 CFR Part 91 Nondiscrimination on the basis of age in programs or activities receiving Federal financial assistance from HHS.
 
-(b) *Cost sharing or matching* - (1) *Policy.* Recipients of financial assistance under sections 803, 804, and 805 of the Act are required to provide a matching share of 20 percent of the approved cost of the assisted project.
+(b) *Cost sharing or matching*—(1) *Policy.* Recipients of financial assistance under sections 803, 804, and 805 of the Act are required to provide a matching share of 20 percent of the approved cost of the assisted project.
 
 This requirement may be waived in accordance with the criteria in § 1336.50(b)(3). The matching share requirement may be met using either cash or in-kind contributions.
 

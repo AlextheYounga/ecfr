@@ -1,5 +1,7 @@
 ##### § 1212.400 Appeals. #####
 
+Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
+
 (a) Individuals may appeal when they:
 
 (1) Have requested amendment of a record and have received an adverse initial determination;

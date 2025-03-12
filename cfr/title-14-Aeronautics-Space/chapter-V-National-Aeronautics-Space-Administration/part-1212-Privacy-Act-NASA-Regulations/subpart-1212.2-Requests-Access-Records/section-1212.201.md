@@ -1,5 +1,7 @@
 ##### § 1212.201 Requesting a record. #####
 
+Link to an amendment published at 88 FR 12148, Feb. 27, 2023.
+
 (a) Individuals may request access to their Privacy Act records, either in person or in writing.
 
 (b) Individuals may also authorize a third party to have access to their Privacy Act records. This authorization shall be in writing, signed by the individual and contain the individual's address as well as the name and address of the representative being authorized access. The identities of both the subject individual and the representative must be verified in accordance with the procedures set forth in § 1212.202 of this part.

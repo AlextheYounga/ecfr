@@ -264,7 +264,7 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (i) For sablefish harvested from any GOA reporting area, all longline gear, longline pot gear, and, for purposes of determining initial IFQ allocation, all pot gear used to make a legal landing.
 
-(ii) For sablefish harvested from any BSAI reporting area, all hook-and-line gear and all pot gear.
+(ii) For sablefish harvested from any BSAI reporting area, all hook-and-line gear, jig gear, and all pot gear.
 
 (iii) For halibut harvested from any IFQ regulatory area, all fishing gear composed of lines with hooks attached, including one or more stationary, buoyed, and anchored lines with hooks attached.
 
@@ -316,13 +316,17 @@ In addition to the definitions in the Magnuson-Stevens Act and in part 600 of th
 
 (x) May have weights on the wing tips.
 
-(15) *Pot gear* means a portable structure designed and constructed to capture and retain fish alive in the water. This gear type includes longline pot and pot-and-line gear. Each groundfish pot must comply with the following:
+(15) *Pot gear* means a portable structure, rigid or collapsible, that is designed and constructed to capture and retain fish alive in the water. This gear type includes longline pot and pot-and-line gear. Each groundfish pot must comply with the following:
 
 (i) *Biodegradable panel.* Each pot used to fish for groundfish must be equipped with a biodegradable panel at least 18 inches (45.72 cm) in length that is parallel to, and within 6 inches (15.24 cm) of, the bottom of the pot, and that is sewn up with untreated cotton thread of no larger size than No. 30.
 
+(A) *Collapsible pot exception.* A collapsible pot (*e.g.,* slinky pot) used to fish for halibut IFQ or CDQ, or sablefish IFQ or CDQ, in accordance with paragraph (4) of this definition, is exempt from the biodegradable panel placement requirements described in paragraph (15)(i) of this definition. Instead, a collapsible pot must have either a biodegradable panel placed anywhere on the mesh of the collapsible pot, which is at least 18 inches (45.72 cm) in length and is made from untreated cotton thread of no larger size than No. 30, or one door on the pot must measure at least 18 inches (45.72 cm) in diameter and be wrapped with untreated cotton thread of no larger size than No. 30.
+
+(B) [Reserved]
+
 (ii) *Tunnel opening.* Each pot used to fish for groundfish must be equipped with rigid tunnel openings that are no wider than 9 inches (22.86 cm) and no higher than 9 inches (22.86 cm), or soft tunnel openings with dimensions that are no wider than 9 inches (22.86 cm).
 
-(iii) *Halibut retention exception.* If required to retain halibut when harvesting halibut from any IFQ regulatory area in the BSAI, vessel operators are exempt from requirements to comply with a tunnel opening for pots when fishing for IFQ or CDQ halibut or IFQ or CDQ sablefish in accordance with § 679.42(m).
+(iii) *Halibut retention exception.* If halibut retention is required when harvesting halibut from any IFQ regulatory area in the BSAI or GOA, the requirements to comply with a tunnel opening for pots when fishing for IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI in accordance with § 679.42(m), or for IFQ sablefish in the GOA in accordance with § 679.42(l), do not apply.
 
 (16) *Pot-and-line gear* means a stationary, buoyed line with a single pot attached, or the taking of fish by means of such a device.
 

@@ -1,5 +1,7 @@
 ##### § 1212.205 Exceptions to individual's rights of access. #####
 
+Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
+
 (a) The NASA Administrator has determined that the systems of records set forth in § 1212.501 are exempt from disclosure to the extent provided therein.
 
 (b) *Medical records.* Normally, an individual's medical record shall be disclosed to the individual, unless the system manages, in consultation with a medical doctor, determines that access to the record could have an adverse effect upon the individual. In this case, NASA shall allow access to the record by a medical doctor designated in writing by the requesting individual.

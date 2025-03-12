@@ -6,9 +6,9 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 (2) Markings shall be in characters at least 4 inches (10.16 cm) in height and 0.5 inch (1.27 cm) in width in a contrasting color visible above the water line and shall be maintained so the markings are clearly visible.
 
-(3) Each end of a set of longline pot gear deployed to fish IFQ sablefish in the GOA must have attached a cluster of four or more marker buoys including one hard buoy ball marked with the capital letters “LP” in accordance with paragraph (a)(2) of this section, a flag mounted on a pole, and radar reflector floating on the sea surface.
+(3) Each end of a set of longline pot gear deployed to fish IFQ sablefish in the GOA must have one hard buoy ball attached and marked with the capital letters “LP” in accordance with paragraph (a)(2) of this section.
 
-(b) *Gear restrictions* - (1) *Pots -*  - *Longline pot gear.* Any person using longline pot gear must treat any catch of groundfish as a prohibited species, except:
+(b) *Gear restrictions*—(1) *Pots—*—*Longline pot gear.* Any person using longline pot gear must treat any catch of groundfish as a prohibited species, except:
 
 (i) In the Aleutian Islands subarea.
 
@@ -24,21 +24,21 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 (4) *BSAI pollock nonpelagic trawl prohibition.* No person may use nonpelagic trawl gear to engage in directed fishing for pollock in the BSAI.
 
-(c) *Gear restrictions for sablefish* - (1) *Gear allocations.* Gear allocations of sablefish TAC are set out under § 679.20.
+(c) *Gear restrictions for sablefish*—(1) *Gear allocations.* Gear allocations of sablefish TAC are set out under § 679.20.
 
-(2) *Eastern GOA regulatory area* - (i) *General.* (A) No person may use any gear other than hook-and-line, longline pot, and trawl gear when fishing for sablefish in the Eastern GOA regulatory area.
+(2) *Eastern GOA regulatory area*—(i) *General.* (A) No person may use any gear other than hook-and-line, longline pot, jig, or trawl gear when fishing for sablefish in the Eastern GOA regulatory area.
 
-(B) No person may use any gear other than hook-and-line gear and longline pot gear to engage in directed fishing for IFQ sablefish.
+(B) No person may use any gear other than hook-and-line gear, longline pot gear, or jig gear to engage in directed fishing for IFQ sablefish.
 
-(ii) *Sablefish as prohibited species* - (A) *Trawl gear.* When operators of vessels using trawl gear have harvested 5 percent of the TAC for sablefish in the Eastern GOA regulatory area during any year, further trawl catches of sablefish must be treated as prohibited species as provided by § 679.21(a).
+(ii) *Sablefish as prohibited species*—(A) *Trawl gear.* When operators of vessels using trawl gear have harvested 5 percent of the TAC for sablefish in the Eastern GOA regulatory area during any year, further trawl catches of sablefish must be treated as prohibited species as provided by § 679.21(a).
 
 (B) *Other gear.* Operators of vessels using gear types other than those specified in paragraph (c)(2)(i) of this section in the Eastern GOA regulatory area must treat any catch of sablefish as a prohibited species as provided by § 679.21(a).
 
-(3) *Central and Western GOA regulatory areas; sablefish as prohibited species.* Operators of vessels using gear types other than hook-and-line, longline pot, and trawl gear in the Central and Western GOA regulatory areas must treat any catch of sablefish in these areas as a prohibited species as provided by § 679.21(a).
+(3) *Central and Western GOA regulatory areas; sablefish as prohibited species.* Operators of vessels using gear types other than hook-and-line, longline pot, jig, or trawl gear in the Central and Western GOA regulatory areas must treat any catch of sablefish in these areas as a prohibited species as provided by § 679.21(a).
 
-(4) *BSAI.* Operators of vessels using gear types other than hook-and-line, longline pot, pot-and-line, or trawl gear in the BSAI must treat sablefish as a prohibited species as provided by § 679.21(a).
+(4) *BSAI.* Operators of vessels using gear types other than hook-and-line, longline pot, pot-and-line, jig, or trawl gear in the BSAI must treat sablefish as a prohibited species as provided by § 679.21(a).
 
-(d) *Trawl gear test areas* - (1) *General.* For purposes of allowing pelagic and nonpelagic trawl fishermen to test trawl fishing gear, NMFS may establish, after consulting with the Council, locations for the testing of trawl fishing gear in areas that would otherwise be closed to trawling.
+(d) *Trawl gear test areas*—(1) *General.* For purposes of allowing pelagic and nonpelagic trawl fishermen to test trawl fishing gear, NMFS may establish, after consulting with the Council, locations for the testing of trawl fishing gear in areas that would otherwise be closed to trawling.
 
 (2) *Trawl gear testing.* For the purposes of this section, “trawl gear testing” means deploying trawl gear in areas designated in this paragraph (d) and in Figure 7 to this part under the following conditions.
 
@@ -74,7 +74,7 @@ Regulations pertaining to vessel and gear markings are set forth in this section
 
 55°00′ N. lat., 167°00′ W. long.55°00′ N. lat., 166°00′ W. long.54°40′ N. lat., 166°00′ W. long.54°40′ N. lat., 167°00′ W. long.55°00′ N. lat., 167°00′ W. long.
 
-(e) *Seabird avoidance program for vessels fishing with hook-and-line gear* - (1) *Applicability.* The operator of a vessel that is longer than 26 ft (7.9 m) LOA fishing with hook-and-line gear must comply with the seabird avoidance requirements as specified in paragraphs (e)(2) and (e)(3) of this section while fishing for any of the following species:
+(e) *Seabird avoidance program for vessels fishing with hook-and-line gear*—(1) *Applicability.* The operator of a vessel that is longer than 26 ft (7.9 m) LOA fishing with hook-and-line gear must comply with the seabird avoidance requirements as specified in paragraphs (e)(2) and (e)(3) of this section while fishing for any of the following species:
 
 (i) IFQ halibut or CDQ halibut.
 
@@ -200,7 +200,7 @@ Nothwithstanding any other paragraph in this part, operators of vessels 32 ft (9
 
 (ii) If the elevating devices raise the elevated section shown Figure 26 to this part more than 3.5 inches (8.9 cm), the space between elevating devices must be no more than 95 feet (29 m).
 
-(3) *Clearance measurements and line cross sections.* (i) The largest cross section of the line of the elevated section shown in Figure 26 to this part between elevating devices shall not be greater than the cross section of the material at the nearest measurement location, as selected based on the examples shown in Figure 25 to this part. The material at the measurement location must be -
+(3) *Clearance measurements and line cross sections.* (i) The largest cross section of the line of the elevated section shown in Figure 26 to this part between elevating devices shall not be greater than the cross section of the material at the nearest measurement location, as selected based on the examples shown in Figure 25 to this part. The material at the measurement location must be—
 
 (A) The same material as the line between elevating devices, as shown in Figures 25a and 25d to this part;
 

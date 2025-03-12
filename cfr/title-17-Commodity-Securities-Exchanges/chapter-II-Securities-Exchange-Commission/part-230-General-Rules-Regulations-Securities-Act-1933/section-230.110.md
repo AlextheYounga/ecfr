@@ -1,5 +1,7 @@
 ##### § 230.110 Business hours of the Commission. #####
 
+Link to an amendment published at 88 FR 12209, Feb. 27, 2023.
+
 (a) *General.* The principal office of the Commission, at 100 F Street, NE., Washington, DC 20549, is open each day, except Saturdays, Sundays, and Federal holidays, from 9 a.m. to 5:30 p.m., Eastern Standard Time or Eastern Daylight Saving Time, whichever is currently in effect, *provided that* hours for the filing of documents pursuant to the Act or the rules and regulations thereunder are as set forth in paragraphs (b), (c) and (d) of this section.
 
 (b) *Submissions made in paper.* Paper documents filed with or otherwise furnished to the Commission may be submitted each day, except Saturdays, Sundays and federal holidays, from 8 a.m. to 5:30 p.m., Eastern Standard Time or Eastern Daylight Saving Time, whichever is currently in effect.

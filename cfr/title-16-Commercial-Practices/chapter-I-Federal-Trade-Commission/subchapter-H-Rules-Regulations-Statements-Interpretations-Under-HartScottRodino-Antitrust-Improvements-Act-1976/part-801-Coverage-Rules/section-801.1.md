@@ -1,8 +1,6 @@
 ##### § 801.1 Definitions. #####
 
-Link to an amendment published at 88 FR 5750, Jan. 30, 2023.
-
-When used in the act and these rules -
+When used in the act and these rules—
 
 (a)(1) *Person.* Except as provided in paragraphs (a) and (b) of § 801.12, the term *person* means an ultimate parent entity and all entities which it controls directly or indirectly.
 
@@ -54,7 +52,7 @@ Example:If a stockbroker has stock in “street name” for the account of a nat
 
 (3) Except for a common trust fund or collective investment fund within the meaning of 12 CFR 9.18(a) (both of which are hereafter referred to in this paragraph as “collective investment funds”), and any revocable trust or an irrevocable trust in which the settlor retains a reversionary interest in the corpus, a trust, including a pension trust, shall hold all assets and voting securities constituting the corpus of the trust.
 
-Example:Under this paragraph the trust - and not the trustee - “holds” the voting securities and assets constituting the corpus of any irrevocable trust (in which the settlor retains no reversionary interest, and which is not a collective investment fund). Therefore, the trustee need not aggregate its holdings of any other assets or voting securities with the holdings of the trust for purposes of determining whether the requirements of the act apply to an acquisition by the trust. Similarly, the trustee, if making an acquisition for its own account, need not aggregate its holdings with those of any trusts for which it serves as trustee. (However, the trustee must aggregate any collective investment funds which it administers; see paragraph (c)(6) of this section.)
+Example:Under this paragraph the trust—and not the trustee—“holds” the voting securities and assets constituting the corpus of any irrevocable trust (in which the settlor retains no reversionary interest, and which is not a collective investment fund). Therefore, the trustee need not aggregate its holdings of any other assets or voting securities with the holdings of the trust for purposes of determining whether the requirements of the act apply to an acquisition by the trust. Similarly, the trustee, if making an acquisition for its own account, need not aggregate its holdings with those of any trusts for which it serves as trustee. (However, the trustee must aggregate any collective investment funds which it administers; see paragraph (c)(6) of this section.)
 
 (4) The assets and voting securities constituting the corpus of a revocable trust or the corpus of an irrevocable trust in which the settlor(s) retain(s) a reversionary interest in the corpus shall be holdings of the settlor(s) of such trust.
 
@@ -108,7 +106,7 @@ All of the entities under common investment management of the managing entity LL
 
 12. GP is the general partner of LP and has entered into a management contract to exercise investment discretion over LP's investments in portfolio companies. GP has entered into a contract with CORP, under which CORP will manage building maintenance and certain back office functions (e.g., maintenance of phones and computers, accounting, IT and human resources) for LP. GP is an associate of LP because it manages LP's investments. However, the management services provided by CORP do not constitute operational management, therefore, CORP is not an associate of LP.
 
-(e)(1)(i) *United States person.* The term *United States person* means a person the ultimate parent entity of which -
+(e)(1)(i) *United States person.* The term *United States person* means a person the ultimate parent entity of which—
 
 (A) Is incorporated in the United States, is organized under the laws of the United States or has its principal offices within the United States; or
 
@@ -116,7 +114,7 @@ All of the entities under common investment management of the managing entity LL
 
 (ii) *United States issuer.* The term *United States issuer* means an issuer which is incorporated in the United States, is organized under the laws of the United States or has its principal offices within the United States.
 
-(2)(i) *Foreign person.* The term *foreign person* means a person the ultimate parent entity of which -
+(2)(i) *Foreign person.* The term *foreign person* means a person the ultimate parent entity of which—
 
 (A) Is not incorporated in the United States, is not organized under the laws of the United States and does not have its principal offices within the United States; or
 
@@ -168,7 +166,7 @@ Example:If a person holds stock “solely for the purpose of investment” and t
 
 (l) *Commerce.* The term *commerce* shall have the meaning ascribed to that term in section 1 of the Clayton Act, 15 U.S.C. 12, or section 4 of the Federal Trade Commission Act, 15 U.S.C. 44.
 
-(m) *The act.* References to “the act” refer to Section 7A of the Clayton Act, 15 U.S.C. 18a, as added by section 201 of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, Pub. L. 94-435, 90 Stat. 1390, and as amended by Pub. L. 106-553, 114 Stat. 2762. References to “Section 7A( )” refer to subsections of Section 7A of the Clayton Act. References to “this section” refer to the section of these rules in which the term appears.
+(m) *The act.* References to “the act” refer to Section 7A of the Clayton Act, 15 U.S.C. 18a, as added by section 201 of the Hart-Scott-Rodino Antitrust Improvements Act of 1976, Public Law 94-435, 90 Stat. 1390, and as amended by Public Law 106-553, 114 Stat. 2762, and Public Law 117-328, Div. GG, 136 Stat. 4459. References to “Section 7A()” refer to subsections of Section 7A of the Clayton Act. References to “this section” refer to the section of these rules in which the term appears.
 
 (n) (*as adjusted*). The parenthetical “(as adjusted)” refers to the adjusted values published in the Federal Register notice titled “Revised Jurisdictional Threshold for Section 7A of the Clayton Act.” This Federal Register notice will be published in January of each year and the values contained therein will be effective as of the effective date published in the Federal Register notice and will remain effective until superseded in the next calendar year. The notice will also be available at *http://www.ftc.gov.* Such adjusted values will be calculated in accordance with Section 7A(a)(2)(A) and will be rounded up to the next highest $100,000.
 
@@ -178,4 +176,4 @@ Example:If a person holds stock “solely for the purpose of investment” and t
 
 (q) *Co-rights.* For purposes of paragraph (o) of this section and paragraph (g) of § 801.2, the term co-rights means shared rights retained by the patent holder to assist the recipient of the exclusive patent rights in developing and commercializing the product covered by the patent. These co-rights include, but are not limited to, co-development, co-promotion, co-marketing and co-commercialization.
 
-[43 FR 33537, July 31, 1978, as amended at 48 FR 34429, July 29, 1983; 52 FR 20063, May 29, 1987; 66 FR 8687, Feb. 1, 2001; 66 FR 23565, May 9, 2001; 68 FR 2430, Jan. 17, 2003; 70 FR 4990, Jan. 31, 2005; 70 FR 11510, Mar. 8, 2005; 70 FR 73372, Dec. 12, 2005; 70 FR 77313, Dec. 30, 2005; 76 FR 42479, July 19, 2011; 78 FR 68712, Nov. 15, 2013; 83 FR 32770, July 16, 2018]
+[43 FR 33537, July 31, 1978, as amended at 48 FR 34429, July 29, 1983; 52 FR 20063, May 29, 1987; 66 FR 8687, Feb. 1, 2001; 66 FR 23565, May 9, 2001; 68 FR 2430, Jan. 17, 2003; 70 FR 4990, Jan. 31, 2005; 70 FR 11510, Mar. 8, 2005; 70 FR 73372, Dec. 12, 2005; 70 FR 77313, Dec. 30, 2005; 76 FR 42479, July 19, 2011; 78 FR 68712, Nov. 15, 2013; 83 FR 32770, July 16, 2018; 88 FR 5750, Jan. 30, 2023]

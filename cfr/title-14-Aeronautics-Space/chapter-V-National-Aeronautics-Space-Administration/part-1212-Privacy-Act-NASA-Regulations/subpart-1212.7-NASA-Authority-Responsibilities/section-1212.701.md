@@ -1,5 +1,7 @@
 ##### § 1212.701 Associate Deputy Administrator. #####
 
+Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
+
 The Associate Deputy Administrator is responsible for:
 
 (a) Making final Agency determinations on appeals (§ 1212.400), except on those related to records originating in the Office of the Inspector General;

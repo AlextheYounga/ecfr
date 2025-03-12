@@ -1,7 +1,5 @@
 ##### § 300.25 Fisheries management. #####
 
-Link to an amendment published at 88 FR 5274, Jan. 27, 2023.
-
 (a) *Longline tuna catch limits.* (1) Fishing seasons for all tuna species begin on 0000 hours Coordinated Universal Time (UTC) January 1 and end either on 2400 hours UTC December 31 or when NMFS closes the fishery for a specific species.
 
 (2) There is a limit of 750 metric tons of bigeye tuna that may be caught by longline gear in the Convention Area by U.S. commercial fishing vessels that are over 24 meters in overall length. The catch limit within a calendar year is subject to increase if the United States receives a transfer of catch limit from another IATTC member or cooperating non-member, per paragraph (a)(5) of this section.
@@ -28,13 +26,13 @@ Link to an amendment published at 88 FR 5274, Jan. 27, 2023.
 
 (c) *Transshipments at sea.* No person subject to these regulations may transship purse seine-caught tuna from one vessel to another vessel at sea within the Convention Area.
 
-(d) *Observer requirements* - (1) *Purse seine vessels.* (i) The holder of an eastern tropical Pacific Ocean vessel permit, as required by § 216.24(b) of this title, must allow an observer duly authorized by the Administrator, West Coast Region, to accompany the vessel on all fishing trips in the IATTC Convention Area for the purpose of conducting research and observing operations, including collecting information that may be used in civil or criminal penalty proceedings, forfeiture actions, or permit sanctions, pursuant to the requirements in § 216.24(e) of this title. A vessel that fails to carry an observer in accordance with these requirements may not engage in fishing operations unless an exemption has been granted from these requirements as provided for in § 216.24(e)(1)(i) of this title.
+(d) *Observer requirements*—(1) *Purse seine vessels.* (i) The holder of an eastern tropical Pacific Ocean vessel permit, as required by § 216.24(b) of this title, must allow an observer duly authorized by the Administrator, West Coast Region, to accompany the vessel on all fishing trips in the IATTC Convention Area for the purpose of conducting research and observing operations, including collecting information that may be used in civil or criminal penalty proceedings, forfeiture actions, or permit sanctions, pursuant to the requirements in § 216.24(e) of this title. A vessel that fails to carry an observer in accordance with these requirements may not engage in fishing operations unless an exemption has been granted from these requirements as provided for in § 216.24(e)(1)(i) of this title.
 
 (ii) [Reserved]
 
 (2) [Reserved]
 
-(e) *Purse seine closures* - (1) *72-day closure.* A U.S. commercial purse seine fishing vessel that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two periods:
+(e) *Purse seine closures*—(1) *72-day closure.* A U.S. commercial purse seine fishing vessel that is of class size 4-6 (more than 182 metric tons carrying capacity) may not be used to fish with purse seine gear in the Convention Area for 72 days during one of the following two periods:
 
 (i) From 0000 hours Coordinated Universal Time (UTC) July 29 to 2400 hours UTC October 8; or
 
@@ -43,8 +41,6 @@ Link to an amendment published at 88 FR 5274, Jan. 27, 2023.
 (2) *Additional closure days for vessels that exceed bigeye tuna catch levels.* (i) In 2023 and 2024, U.S. purse seine vessels that exceed a certain annual catch level of bigeye tuna must increase the number of closure days they observe in the following year, as specified in table 1 to this paragraph (e)(2).
 
 (ii) The additional days of closure must be added to one of the two closure periods indicated in paragraph (e)(1) of this section. For vessels observing the first closure period, the additional days must be added at the beginning of the closure period. For vessels observing the second closure period, the additional days must be added to the end of the closure period. The HMS Branch will confirm the determination of annual catch levels for U.S. purse vessels based on information provided by the IATTC and notify any U.S. vessel that exceeds a given catch level.
-
-Table 1 to Paragraph (e)(2)
 
 |Catch level  <br/>(mt)  <br/>exceeded|Additional  <br/>closure days  <br/>observed|
 |-------------------------------------|--------------------------------------------|
@@ -86,7 +82,7 @@ Table 1 to Paragraph (e)(2)
 
 (5) A vessel operator, crew member, or other persons on board a fishing vessel of the United States that is used to fish for HMS must take all reasonable measures to avoid fishing gear entanglement or interaction with drifting data buoys.
 
-(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2022-2024* - (1) *Biennial catch limit for 2021-2022.* The biennial catch limit for 2021-2022 is 739 metric tons.
+(g) *Pacific bluefin tuna (Thunnus orientalis) commercial catch limits in the eastern Pacific Ocean for 2022-2024*—(1) *Biennial catch limit for 2021-2022.* The biennial catch limit for 2021-2022 is 739 metric tons.
 
 (2) *Biennial catch limit for 2023-2024.* The biennial catch limit for 2023-2024 is either:
 
@@ -141,9 +137,9 @@ Table 1 to Paragraph (e)(2)
 
 (iv) If the 2024 catch limit is 296 metric tons or less, the trip limit will be 5 metric tons for the entire calendar year.
 
-(6) *Closure of the fishery.* After NMFS determines that the annual catch limits under paragraphs (g)(3) through (5) of this section are expected to be reached, NMFS will close the fishery effective upon the date provided in the notice in accordance with paragraph (g)(7) of this section. Upon the effective date in the notice, targeting, retaining on board, transshipping or landing Pacific bluefin tuna in the Convention Area shall be prohibited through the end of the calendar year, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board, transshipped, and/or landed within 14 days after the effective date published in the fishing closure notice, to the extent authorized by applicable laws and regulations.
+(6) *In-season actions for trip limits and closure of the fishery.* If NMFS determines that action to change a trip limit needs to be taken under paragraphs (g)(3) through (5) of this section, the revised trip limit will be effective upon the date provided in a notification of in-season action in accordance with paragraph (g)(7) of this section. Upon the effective date of an in-season action to change trip limits under paragraphs (g)(3) through (5), targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area in violation of the in-season action shall be prohibited, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notification of in-season action may be retained on board and landed or transshipped within 24 hours after the effective date of the notice, to the extent authorized by applicable laws and regulations. After NMFS determines that the annual catch limits under paragraphs (g)(3) through (5) are expected to be reached, NMFS will close the fishery effective upon the date provided in the notification in accordance with paragraph (g)(7). Upon the effective date in the notification, targeting, retaining on board, transshipping, or landing Pacific bluefin tuna in the Convention Area shall be prohibited through the end of the calendar year, with the exception that any Pacific bluefin tuna already on board a fishing vessel on the effective date of the notice may be retained on board and landed or transshipped within 14 days after the effective date published in the fishing closure notification, to the extent authorized by applicable laws and regulations.
 
-(7) *Announcement and effective dates of in-season actions.* In-season actions taken under paragraphs (g)(2) through (6) of this section will be by notice in the Federal Register. The action will also be posted on the National Marine Fisheries Service West Coast Region website (*https://www.fisheries.noaa.gov/west-coast/sustainable-fisheries/pacific-bluefin-tuna-commercial-harvest-status*). In-season actions will be effective from the date and time specified in the Federal Register Notice.
+(7) *Announcement and effective dates of in-season actions.* If in-season actions under paragraphs (g)(2) through (6) of this section are needed, NMFS will post a notice on the NMFS web page announcing the in-season action, including effective dates. NMFS will also send emails with notice of the in-season action to affected vessel owners. This action will also be published in the Federal Register as soon as practicable. The in-season action will be effective upon the earlier of either receipt by email of such notice or publication in the Federal Register.
 
 (8) *Reversal of in-season actions.* If an in-season action taken under paragraphs (g)(2) through (6) of this section is based on overestimate of actual catch, NMFS will reverse that action in the timeliest possible manner, provided NMFS finds that reversing that action is consistent with the management objectives for the affected species. The fishery will be subject to the change in trip limit or reopened effective on the date provided in the notice in accordance with paragraph (g)(7) of this section.
 

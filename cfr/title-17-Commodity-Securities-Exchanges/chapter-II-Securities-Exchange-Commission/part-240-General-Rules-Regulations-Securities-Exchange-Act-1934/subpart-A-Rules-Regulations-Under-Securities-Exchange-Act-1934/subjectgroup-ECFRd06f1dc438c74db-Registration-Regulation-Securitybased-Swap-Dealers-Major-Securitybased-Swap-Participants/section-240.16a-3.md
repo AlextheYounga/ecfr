@@ -1,7 +1,5 @@
 ##### § 240.16a-3 Reporting transactions and holdings. #####
 
-Link to an amendment published at 87 FR 80430, Dec. 29, 2022.
-
 (a) Initial statements of beneficial ownership of equity securities required by section 16(a) of the Act shall be filed on Form 3. Statements of changes in beneficial ownership required by that section shall be filed on Form 4. Annual statements shall be filed on Form 5. At the election of the reporting person, any transaction required to be reported on Form 5 may be reported on an earlier filed Form 4. All such statements shall be prepared and filed in accordance with the requirements of the applicable form.
 
 (b) A person filing statements pursuant to section 16(a) of the Act with respect to any class of equity securities registered pursuant to section 12 of the Act need not file an additional statement on Form 3:
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 80430, Dec. 29, 2022.
 
 (i) All transactions during the most recent fiscal year that were exempt from section 16(b) of the Act, except:
 
-(A) Exercises and conversions of derivative securities exempt under either § 240.16b-3 or § 240.16b-6(b), and any transaction exempt under § 240.16b-3(d), § 240.16b-3(e), or § 240.16b-3(f) (these are required to be reported on Form 4);
+(A) Exercises and conversions of derivative securities exempt under either § 240.16b-3 or § 240.16b-6(b), dispositions by bona fide gifts exempt under § 240.16b-5, and any transaction exempt under § 240.16b-3(d), § 240.16b-3(e), or § 240.16b-3(f), (these are required to be reported on Form 4);
 
 (B) Transactions exempt from section 16(b) of the Act pursuant to § 240.16b-3(c), which shall be exempt from section 16(a) of the Act; and
 
@@ -36,7 +34,7 @@ Link to an amendment published at 87 FR 80430, Dec. 29, 2022.
 
 Persons no longer subject to section 16 of the Act, but who were subject to the Section at any time during the issuer's fiscal year, must file a Form 5 unless paragraph (f)(2) is satisfied. *See also* § 240.16a-2(b) regarding the reporting obligations of persons ceasing to be officers or directors.
 
-(g)(1) A Form 4 must be filed to report: All transactions not exempt from section 16(b) of the Act; All transactions exempt from section 16(b) of the Act pursuant to § 240.16b-3(d), § 240.16b-3(e), or § 240.16b-3(f); and all exercises and conversions of derivative securities, regardless of whether exempt from section 16(b) of the Act. Form 4 must be filed before the end of the second business day following the day on which the subject transaction has been executed.
+(g)(1) A Form 4 must be filed to report: All transactions not exempt from section 16(b) of the Act; all transactions exempt from section 16(b) of the Act pursuant to § 240.16b-3(d), § 240.16b-3(e), or § 240.16b-3(f); and dispositions by bona fide gifts and all exercises and conversions of derivative securities, regardless of whether exempt from section 16(b) of the Act. Form 4 must be filed before the end of the second business day following the day on which the subject transaction has been executed.
 
 (2) Solely for purposes of section 16(a)(2)(C) of the Act and paragraph (g)(1) of this section, the date on which the executing broker, dealer or plan administrator notifies the reporting person of the execution of the transaction is deemed the date of execution for a transaction where the following conditions are satisfied:
 
@@ -58,4 +56,4 @@ Persons no longer subject to section 16 of the Act, but who were subject to the 
 
 (k) Any issuer that maintains a corporate Web site shall post on that Web site by the end of the business day after filing any Form 3, 4 or 5 filed under section 16(a) of the Act as to the equity securities of that issuer. Each such form shall remain accessible on such issuer's Web site for at least a 12-month period. In the case of an issuer that is an investment company and that does not maintain its own Web site, if any of the issuer's investment adviser, sponsor, depositor, trustee, administrator, principal underwriter, or any affiliated person of the investment company maintains a Web site that includes the name of the issuer, the issuer shall comply with the posting requirements by posting the forms on one such Web site.
 
-[56 FR 7265, Feb. 21, 1991, as amended at 60 FR 26622, May 17, 1995; 61 FR 30392, 30404, June 14, 1996; 67 FR 43535, June 28, 2002; 67 FR 56467, Sept. 3, 2002; 68 FR 25799, May 13, 2003; 76 FR 71877, Nov. 21, 2011; 84 FR 12728, Apr. 2, 2019; 85 FR 78230, Dec. 4, 2020]
+[56 FR 7265, Feb. 21, 1991, as amended at 60 FR 26622, May 17, 1995; 61 FR 30392, 30404, June 14, 1996; 67 FR 43535, June 28, 2002; 67 FR 56467, Sept. 3, 2002; 68 FR 25799, May 13, 2003; 76 FR 71877, Nov. 21, 2011; 84 FR 12728, Apr. 2, 2019; 85 FR 78230, Dec. 4, 2020; 87 FR 80430, Dec. 29, 2022]

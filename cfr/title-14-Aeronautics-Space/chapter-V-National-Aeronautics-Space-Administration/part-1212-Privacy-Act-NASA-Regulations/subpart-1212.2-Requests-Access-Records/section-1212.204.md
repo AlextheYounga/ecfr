@@ -1,5 +1,7 @@
 ##### § 1212.204 Fees. #####
 
+Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
+
 (a) Fees will not be charged for:
 
 (1) Search for a retrieval of the requesting individual's records;

@@ -12,15 +12,15 @@
 
 (4) *Prohibited species taken seaward of the EEZ off Alaska.* No vessel fishing for groundfish in the GOA or BSAI may have on board any species listed in this paragraph (a) that was taken in waters seaward of these management areas, regardless of whether retention of such species was authorized by other applicable laws.
 
-(5) *Sablefish as a prohibited species.* (See § 679.24(c)(2)(ii).)
+(5) *Sablefish as a prohibited species.* (See § 679.24(c) for gear restrictions for sablefish.)
 
 (6) *Addresses.* Unless otherwise specified, submit information required under this section to NMFS as follows: by mail to the Regional Administrator, NMFS, P.O. Box 21668, Juneau, AK 99802; by courier to the Office of the Regional Administrator, 709 West 9th St., Juneau, AK 99801; or by fax to 907-586-7465. Forms are available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*).
 
-(b) *BSAI halibut PSC limits* - (1) *Establishment of BSAI halibut PSC limits.* Subject to the provisions in paragraphs (b)(1)(i) through (iv) of this section, the following four BSAI halibut PSC limits are established, which total 3,515 mt: Amendment 80 sector - 1,745 mt; BSAI trawl limited access sector - 745 mt; BSAI non-trawl sector - 710 mt; and CDQ Program - 315 mt (established as a PSQ reserve).
+(b) *BSAI halibut PSC limits*—(1) *Establishment of BSAI halibut PSC limits.* Subject to the provisions in paragraphs (b)(1)(i) through (iv) of this section, the following four BSAI halibut PSC limits are established, which total 3,515 mt: Amendment 80 sector—1,745 mt; BSAI trawl limited access sector—745 mt; BSAI non-trawl sector—710 mt; and CDQ Program—315 mt (established as a PSQ reserve).
 
 (i) *Amendment 80 sector.* The PSC limit of halibut caught while conducting any fishery in the Amendment 80 sector is an amount of halibut equivalent to 1,745 mt of halibut mortality. Halibut PSC limits within the Amendment 80 sector will be established for Amendment 80 cooperatives and the Amendment 80 limited access fishery according to the procedure and formulae in § 679.91(d) and (f). If halibut PSC is assigned to the Amendment 80 limited access fishery, it will be apportioned into PSC allowances for trawl fishery categories according to the procedure in paragraphs (b)(1)(ii)(A)(*2*) and (*3*) of this section.
 
-(ii) *BSAI trawl limited access sector* - (A) *General.* (*1*) The PSC limit of halibut caught while conducting any fishery in the BSAI trawl limited access sector is an amount of halibut equivalent to 745 mt of halibut mortality.
+(ii) *BSAI trawl limited access sector*—(A) *General.* (*1*) The PSC limit of halibut caught while conducting any fishery in the BSAI trawl limited access sector is an amount of halibut equivalent to 745 mt of halibut mortality.
 
 (*2*) NMFS, after consultation with the Council, will apportion the PSC limit set forth under paragraph (b)(1)(ii)(A)(*1*) of this section into PSC allowances for the trawl fishery categories defined in paragraphs (b)(1)(ii)(B)(*1*) through (*6*) of this section.
 
@@ -48,7 +48,7 @@
 
 (C) *Halibut PSC in midwater pollock fishery.* Any amount of halibut that is incidentally taken in the midwater pollock fishery, as defined in paragraph (b)(1)(ii)(B)(*1*) of this section, will be counted against the halibut PSC allowance specified for the pollock/Atka mackerel/“other species” category, as defined in paragraph (b)(1)(ii)(B)(*6*) of this section.
 
-(iii) *BSAI Non-trawl Sector* - (A) *General.* (*1*) The PSC limit of halibut caught while conducting any fishery in the BSAI non-trawl sector is an amount of halibut equivalent to 710 mt of halibut mortality.
+(iii) *BSAI Non-trawl Sector*—(A) *General.* (*1*) The PSC limit of halibut caught while conducting any fishery in the BSAI non-trawl sector is an amount of halibut equivalent to 710 mt of halibut mortality.
 
 (*2*) NMFS, after consultation with the Council, will apportion the PSC limit set forth under paragraph (b)(1)(iii)(A)(*1*) into PSC allowances for the non-trawl fishery categories defined under paragraph (b)(1)(iii)(B) of this section.
 
@@ -72,7 +72,7 @@
 
 (iv) *CDQ Program.* The PSC limit of halibut caught while conducting any fishery in the CDQ Program is an amount of halibut equivalent to 315 mt of halibut mortality. The PSC limit to the CDQ Program will be treated as a Prohibited Species Quota (PSQ) reserve to the CDQ Program for all purposes under 50 CFR part 679 including §§ 679.31 and 679.7(d)(3). The PSQ limit is not apportioned by gear, fishery, or season.
 
-(2) *Seasonal apportionments of BSAI halibut PSC allowances* - (i) *General.* NMFS, after consultation with the Council, may apportion a halibut PSC allowance on a seasonal basis.
+(2) *Seasonal apportionments of BSAI halibut PSC allowances*—(i) *General.* NMFS, after consultation with the Council, may apportion a halibut PSC allowance on a seasonal basis.
 
 (ii) *Factors to be considered.* NMFS will base any seasonal apportionment of a PSC allowance on the following types of information:
 
@@ -90,19 +90,19 @@
 
 (G) Economic effects of establishing seasonal prohibited species apportionments on segments of the target groundfish industry.
 
-(iii) *Seasonal trawl fishery PSC allowances* - (A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery PSC allowances made under paragraph (b)(2) of this section will be added to its respective fishery PSC allowance for the next season during a current fishing year.
+(iii) *Seasonal trawl fishery PSC allowances*—(A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery PSC allowances made under paragraph (b)(2) of this section will be added to its respective fishery PSC allowance for the next season during a current fishing year.
 
 (B) *Seasonal apportionment exceeded.* If a seasonal apportionment of a trawl fishery PSC allowance made under paragraph (b)(2) of this section is exceeded, the amount by which the seasonal apportionment is exceeded will be deducted from its respective apportionment for the next season during a current fishing year.
 
-(iv) *Seasonal non-trawl fishery PSC allowances* - (A) *Unused seasonal apportionments.* Any unused portion of a seasonal non-trawl fishery PSC allowance made under paragraph (b)(2) of this section will be reapportioned to the fishery's remaining seasonal PSC allowances during a current fishing year in a manner determined by NMFS, after consultation with the Council, based on the types of information listed under paragraph (b)(2)(ii) of this section.
+(iv) *Seasonal non-trawl fishery PSC allowances*—(A) *Unused seasonal apportionments.* Any unused portion of a seasonal non-trawl fishery PSC allowance made under paragraph (b)(2) of this section will be reapportioned to the fishery's remaining seasonal PSC allowances during a current fishing year in a manner determined by NMFS, after consultation with the Council, based on the types of information listed under paragraph (b)(2)(ii) of this section.
 
 (B) *Seasonal apportionment exceeded.* If a seasonal apportionment of a non-trawl fishery PSC allowance made under paragraph (b)(2) of this section is exceeded, the amount by which the seasonal apportionment is exceeded will be deducted from the fishery's remaining seasonal PSC allowances during a current fishing year in a manner determined by NMFS, after consultation with the Council, based on the types of information listed under paragraph (b)(2)(ii) of this section.
 
-(3) *Notification of allowances* - (i) *General.* NMFS will publish in the Federal Register**,** for up to two fishing years, the proposed and final BSAI halibut PSC allowances, the seasonal apportionments thereof, and the manner in which seasonal apportionments of non-trawl fishery PSC allowances will be managed.
+(3) *Notification of allowances*—(i) *General.* NMFS will publish in the Federal Register**,** for up to two fishing years, the proposed and final BSAI halibut PSC allowances, the seasonal apportionments thereof, and the manner in which seasonal apportionments of non-trawl fishery PSC allowances will be managed.
 
 (ii) *Public comment.* Public comment will be accepted by NMFS on the proposed PSC allowances seasonal apportionments thereof, and the manner in which seasonal apportionments of non-trawl fishery PSC allowances will be managed, for a period specified in the notice of proposed specifications published in the Federal Register**.**
 
-(4) *Management of BSAI halibut PSC allowances* - (i) *Trawl sector* - *Amendment 80 limited access fishery and BSAI trawl limited access sector: closures* - (A) *Exception.* When a PSC allowance, or seasonal apportionment thereof, specified for the pollock/Atka mackerel/“other species” fishery category, as defined in paragraph (b)(1)(ii)(B)(*6*) of this section is reached, only directed fishing for pollock is closed to trawl vessels using nonpelagic trawl gear.
+(4) *Management of BSAI halibut PSC allowances*—(i) *Trawl sector*—*Amendment 80 limited access fishery and BSAI trawl limited access sector: closures*—(A) *Exception.* When a PSC allowance, or seasonal apportionment thereof, specified for the pollock/Atka mackerel/“other species” fishery category, as defined in paragraph (b)(1)(ii)(B)(*6*) of this section is reached, only directed fishing for pollock is closed to trawl vessels using nonpelagic trawl gear.
 
 (B) *Closures.* Except as provided in paragraph (b)(4)(i)(A) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the trawl fishery categories listed in paragraphs (b)(1)(ii)(B)(*2*) through (*6*) of this section will catch the halibut PSC allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (b)(1)(i) or (b)(1)(ii) of this section, NMFS will publish in the Federal Register the closure of the entire BSAI to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season.
 
@@ -114,7 +114,7 @@
 
 (d) *GOA halibut PSC limits.* This section is applicable for vessels engaged in directed fishing for groundfish in the GOA.
 
-(1) *Notification and public comment* - (i) *Proposed and final apportionments.* NMFS will publish in the Federal Register proposed and final apportionments of the halibut PSC limits in paragraphs (d)(2) and (3) of this section in the notification required under § 679.20.
+(1) *Notification and public comment*—(i) *Proposed and final apportionments.* NMFS will publish in the Federal Register proposed and final apportionments of the halibut PSC limits in paragraphs (d)(2) and (3) of this section in the notification required under § 679.20.
 
 (ii) *Modification of apportionments.* NMFS, by notification in the Federal Register, may change the halibut PSC apportionments during the year for which they were specified, based on new information of the types set forth in this paragraph (d).
 
@@ -169,7 +169,7 @@
 
 (B) *Deep-water species fishery.* Fishing with trawl gear during any weekly reporting period that results in a retained catch of groundfish and is not a shallow-water species fishery as defined under paragraph (d)(3)(iii)(A) of this section.
 
-(4) *Seasonal apportionments* - (i) *General.* NMFS, after consultation with the Council, may apportion each halibut PSC limit or bycatch allowance specified under this paragraph (d) on a seasonal basis.
+(4) *Seasonal apportionments*—(i) *General.* NMFS, after consultation with the Council, may apportion each halibut PSC limit or bycatch allowance specified under this paragraph (d) on a seasonal basis.
 
 (ii) *Factors to be considered.* NMFS will base any seasonal apportionment of a halibut PSC limit or bycatch allowance on the following types of information:
 
@@ -203,13 +203,13 @@
 
 (5) *Apportionment among regulatory areas and districts.* Each halibut PSC limit specified under this paragraph (d) also may be apportioned among the GOA regulatory areas and districts.
 
-(6) *Halibut PSC closures* - (i) *Trawl gear fisheries.* If, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in either of the trawl fishery categories listed in paragraph (d)(3)(iii) (A) or (B) of this section will catch the halibut bycatch allowance, or apportionments thereof, specified for that fishery category under paragraph (d)(1) of this section, NMFS will publish notification in the Federal Register closing the entire GOA or the applicable regulatory area or district to directed fishing with trawl gear for each species and/or species group that comprises that fishing category; provided, however, that when the halibut bycatch allowance, or seasonal apportionment thereof, specified for the shallow-water species fishery is reached, fishing for pollock by vessels using pelagic trawl gear may continue, consistent with other provisions of this part.
+(6) *Halibut PSC closures*—(i) *Trawl gear fisheries.* If, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in either of the trawl fishery categories listed in paragraph (d)(3)(iii) (A) or (B) of this section will catch the halibut bycatch allowance, or apportionments thereof, specified for that fishery category under paragraph (d)(1) of this section, NMFS will publish notification in the Federal Register closing the entire GOA or the applicable regulatory area or district to directed fishing with trawl gear for each species and/or species group that comprises that fishing category; provided, however, that when the halibut bycatch allowance, or seasonal apportionment thereof, specified for the shallow-water species fishery is reached, fishing for pollock by vessels using pelagic trawl gear may continue, consistent with other provisions of this part.
 
 (ii) *Hook-and-line fisheries.* If, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the three hook-and-line gear and operational type fishery categories listed under paragraph (d)(2) of this section will catch the halibut PSC allowance, or apportionments thereof, specified for that fishery category under paragraph (d)(1) of this section, NMFS will publish notification in the Federal Register closing the entire GOA or the applicable regulatory area, district, or operation type to directed fishing with hook-and-line gear for each species and/or species group that composes that fishing category.
 
 (iii) *Pot gear fisheries.* If, during the fishing year, the Regional Administrator determines that the catch of halibut by operators of vessels using pot gear to participate in a directed fishery for groundfish will reach the halibut PSC limit, or seasonal apportionment thereof, NMFS will publish notification in the Federal Register prohibiting directed fishing for groundfish by vessels using pot gear for the remainder of the season to which the halibut PSC limit or seasonal apportionment applies.
 
-(iv) *Nonpelagic trawl gear fisheries* - (A) *Continued fishing under specified conditions.* When the vessels to which a halibut PSC limit applies have caught an amount of halibut equal to that PSC, the Regional Administrator may, by notification in the Federal Register, allow some or all of those vessels to continue to fish for groundfish using nonpelagic trawl gear under specified conditions, subject to the other provisions of this part.
+(iv) *Nonpelagic trawl gear fisheries*—(A) *Continued fishing under specified conditions.* When the vessels to which a halibut PSC limit applies have caught an amount of halibut equal to that PSC, the Regional Administrator may, by notification in the Federal Register, allow some or all of those vessels to continue to fish for groundfish using nonpelagic trawl gear under specified conditions, subject to the other provisions of this part.
 
 (B) *Factors to be considered.* In authorizing and conditioning such continued fishing with bottom-trawl gear, the Regional Administrator will take into account the following considerations, and issue relevant findings:
 
@@ -225,7 +225,7 @@
 
 (7) *AFA halibut bycatch limitations.* Halibut bycatch limits for AFA catcher vessels will be established according to the procedure and formula set out in § 679.64(b) and managed through directed fishing closures for AFA catcher vessels in the groundfish fisheries to which the halibut bycatch limit applies.
 
-(e) *BSAI PSC limits for crab and herring* - (1) *Trawl gear* - (i) *Red king crab in Zone 1.* The PSC limit of red king crab caught by trawl vessels while engaged in directed fishing for groundfish in Zone 1 during any fishing year will be specified for up to two fishing years by NMFS, after consultation with the Council, based on abundance and spawning biomass of red king crab using the criteria set out under paragraphs (e)(1)(i)(A) through (C) of this section. The following table refers to the PSC limits for red king crab that you must follow in Zone 1:
+(e) *BSAI PSC limits for crab and herring*—(1) *Trawl gear*—(i) *Red king crab in Zone 1.* The PSC limit of red king crab caught by trawl vessels while engaged in directed fishing for groundfish in Zone 1 during any fishing year will be specified for up to two fishing years by NMFS, after consultation with the Council, based on abundance and spawning biomass of red king crab using the criteria set out under paragraphs (e)(1)(i)(A) through (C) of this section. The following table refers to the PSC limits for red king crab that you must follow in Zone 1:
 
 |                                              When the number of mature female red king crab is ...                                               |The zone 1 PSC limit will be ...|
 |--------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
@@ -267,7 +267,7 @@
 
 (2) [Reserved]
 
-(3) *PSC apportionment to trawl fisheries* - (i) *General* - (A) *PSQ reserve.* The following allocations of the trawl gear PSC limits are made to the CDQ Program as PSQ reserves. The PSQ reserves are not apportioned by gear or fishery.
+(3) *PSC apportionment to trawl fisheries*—(i) *General*—(A) *PSQ reserve.* The following allocations of the trawl gear PSC limits are made to the CDQ Program as PSQ reserves. The PSQ reserves are not apportioned by gear or fishery.
 
 (*1*) *Crab PSQ.* 10.7 percent of each PSC limit set forth in paragraphs (e)(1)(i) through (iii) of this section.
 
@@ -275,7 +275,7 @@
 
 (B) *Fishery categories.* NMFS, after consultation with the Council and after subtraction of PSQ reserves and PSC CQ assigned to Amendment 80 cooperatives, will apportion each PSC limit set forth in paragraphs (e)(1)(i) through (vii) of this section into bycatch allowances for fishery categories defined in paragraph (e)(3)(iv) of this section, based on each category's proportional share of the anticipated incidental catch during a fishing year of prohibited species for which a PSC limit is specified and the need to optimize the amount of total groundfish harvested under established PSC limits.
 
-(ii) *Red king crab, C. bairdi, and C. opilio* - (A) *General.* For vessels engaged in directed fishing for groundfish in the BSAI, other than vessels fishing under a CQ permit assigned to an Amendment 80 cooperative, the PSC limits for red king crab, *C. bairdi,* and *C. opilio* will be apportioned to the trawl fishery categories defined in paragraphs (e)(3)(iv)(B) through (F) of this section.
+(ii) *Red king crab, C. bairdi, and C. opilio*—(A) *General.* For vessels engaged in directed fishing for groundfish in the BSAI, other than vessels fishing under a CQ permit assigned to an Amendment 80 cooperative, the PSC limits for red king crab, *C. bairdi,* and *C. opilio* will be apportioned to the trawl fishery categories defined in paragraphs (e)(3)(iv)(B) through (F) of this section.
 
 (B) *Red King Crab Savings Subarea* (RKCSS). (*1*) The RKCSS is the portion of the RKCSA between 56°00′ and 56°10′ N. lat. Notwithstanding other provisions of this part, vessels using non-pelagic trawl gear in the RKCSS may engage in directed fishing for groundfish in a given year, if the ADF&G had established a guideline harvest level the previous year for the red king crab fishery in the Bristol Bay area.
 
@@ -311,7 +311,7 @@
 
 (4) [Reserved]
 
-(5) *Seasonal apportionments of bycatch allowances* - (i) *General.* NMFS, after consultation with the Council, may apportion fishery bycatch allowances on a seasonal basis.
+(5) *Seasonal apportionments of bycatch allowances*—(i) *General.* NMFS, after consultation with the Council, may apportion fishery bycatch allowances on a seasonal basis.
 
 (ii) *Factors to be considered.* NMFS will base any seasonal apportionment of a bycatch allowance on the following types of information:
 
@@ -329,17 +329,17 @@
 
 (G) Economic effects of establishing seasonal prohibited species apportionments on segments of the target groundfish industry.
 
-(iii) *Seasonal trawl fishery bycatch allowances* - (A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery bycatch allowances made under this paragraph (e)(5) will be added to its respective fishery bycatch allowance for the next season during a current fishing year.
+(iii) *Seasonal trawl fishery bycatch allowances*—(A) *Unused seasonal apportionments.* Unused seasonal apportionments of trawl fishery bycatch allowances made under this paragraph (e)(5) will be added to its respective fishery bycatch allowance for the next season during a current fishing year.
 
 (B) *Seasonal apportionment exceeded.* If a seasonal apportionment of a trawl fishery bycatch allowance made under paragraph (d)(5) of this section is exceeded, the amount by which the seasonal apportionment is exceeded will be deducted from its respective apportionment for the next season during a current fishing year.
 
-(6) *Notification* - (i) *General.* NMFS will publish in the Federal Register, for up to two fishing years, the annual red king crab PSC limit, and, if applicable, the amount of this PSC limit specified for the RKCSS, the annual *C. bairdi* PSC limit, the annual *C. opilio* PSC limit, the proposed and final PSQ reserve amounts, the proposed and final bycatch allowances, and the seasonal apportionments thereof, as required by paragraph (e) of this section.
+(6) *Notification*—(i) *General.* NMFS will publish in the Federal Register, for up to two fishing years, the annual red king crab PSC limit, and, if applicable, the amount of this PSC limit specified for the RKCSS, the annual *C. bairdi* PSC limit, the annual *C. opilio* PSC limit, the proposed and final PSQ reserve amounts, the proposed and final bycatch allowances, and the seasonal apportionments thereof, as required by paragraph (e) of this section.
 
 (ii) *Public comment.* Public comment will be accepted by NMFS on the proposed annual red king crab PSC limit and, if applicable, the amount of this PSC limit specified for the RKCSS, the annual *C. bairdi* PSC limit, the annual *C. opilio* PSC limit, the proposed and final bycatch allowances, seasonal apportionments thereof, and the manner in which seasonal apportionments of non-trawl fishery bycatch allowances will be managed, for a period specified in the notice of proposed specifications published in the Federal Register**.**
 
-(7) *Trawl PSC closures* - (i) *Exception.* When a bycatch allowance, or seasonal apportionment thereof, specified for the pollock/Atka mackerel/“other species” fishery category is reached, only directed fishing for pollock is closed to trawl vessels using nonpelagic trawl gear.
+(7) *Trawl PSC closures*—(i) *Exception.* When a bycatch allowance, or seasonal apportionment thereof, specified for the pollock/Atka mackerel/“other species” fishery category is reached, only directed fishing for pollock is closed to trawl vessels using nonpelagic trawl gear.
 
-(ii) *Red king crab or C. bairdi Tanner crab, Zone 1, closure* - (A) *General.* Except as provided in paragraph (e)(7)(i) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the fishery categories listed in paragraphs (e)(3)(iv) (B) through (F) of this section will catch the Zone 1 bycatch allowance, or seasonal apportionment thereof, of red king crab or *C. bairdi* Tanner crab specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of Zone 1, including the RKCSS, to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season.
+(ii) *Red king crab or C. bairdi Tanner crab, Zone 1, closure*—(A) *General.* Except as provided in paragraph (e)(7)(i) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the fishery categories listed in paragraphs (e)(3)(iv) (B) through (F) of this section will catch the Zone 1 bycatch allowance, or seasonal apportionment thereof, of red king crab or *C. bairdi* Tanner crab specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of Zone 1, including the RKCSS, to directed fishing for each species and/or species group in that fishery category for the remainder of the year or for the remainder of the season.
 
 (B) *RKCSS.* If, during the fishing year the Regional Administrator determines that the amount of the red king crab PSC limit that is specified for the RKCSS under § 679.21(e)(3)(ii)(B) of this section will be caught, NMFS will publish in the Federal Register the closure of the RKCSS to directed fishing for groundfish with nonpelagic trawl gear for the remainder of the year.
 
@@ -349,29 +349,29 @@
 
 (v) [Reserved]
 
-(vi) *Pacific herring* - (A) *Closure.* Except as provided in paragraph (e)(7)(vi)(B) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the fishery categories listed in paragraphs (e)(3)(iv)(A) through (F) of this section in the BSAI will catch the herring bycatch allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of the Herring Savings Area as defined in Figure 4 to this part to directed fishing for each species and/or species group in that fishery category.
+(vi) *Pacific herring*—(A) *Closure.* Except as provided in paragraph (e)(7)(vi)(B) of this section, if, during the fishing year, the Regional Administrator determines that U.S. fishing vessels participating in any of the fishery categories listed in paragraphs (e)(3)(iv)(A) through (F) of this section in the BSAI will catch the herring bycatch allowance, or seasonal apportionment thereof, specified for that fishery category under paragraph (e)(3) of this section, NMFS will publish in the Federal Register the closure of the Herring Savings Area as defined in Figure 4 to this part to directed fishing for each species and/or species group in that fishery category.
 
-(B) *Exceptions* - (*1*) *Midwater pollock.* When the midwater pollock fishery category reaches its specified bycatch allowance, or seasonal apportionment thereof, the Herring Savings Areas are closed to directed fishing for pollock with trawl gear.
+(B) *Exceptions*—(*1*) *Midwater pollock.* When the midwater pollock fishery category reaches its specified bycatch allowance, or seasonal apportionment thereof, the Herring Savings Areas are closed to directed fishing for pollock with trawl gear.
 
 (*2*) *Pollock/Atka mackerel/ “other species”.* When the pollock/Atka mackerel/“other species” fishery category reaches its specified bycatch allowance, or seasonal apportionment thereof, the Herring Savings Areas are closed to directed fishing for pollock by trawl vessels using nonpelagic trawl gear.
 
-(f) *Salmon Bycatch Management in the BS Pollock Fishery* - (1) *Applicability.* This paragraph contains regulations governing the bycatch of salmon in the BS pollock fishery.
+(f) *Salmon Bycatch Management in the BS Pollock Fishery*—(1) *Applicability.* This paragraph contains regulations governing the bycatch of salmon in the BS pollock fishery.
 
 (2) *Chinook salmon prohibited species catch (PSC) limit.* Each year, NMFS will allocate to AFA sectors listed in paragraph (f)(3)(ii) of this section a portion of the applicable Chinook salmon PSC limit. NMFS will publish the applicable Chinook salmon PSC limit in the annual harvest specifications after determining if it is a low Chinook salmon abundance year. NMFS will determine that it is a low Chinook salmon abundance year when abundance of Chinook salmon in western Alaska is less than or equal to 250,000 Chinook salmon. By October 1 of each year, the State of Alaska will provide to NMFS an estimate of Chinook salmon abundance using the 3-System Index for western Alaska based on the Kuskokwim, Unalakleet, and Upper Yukon aggregate stock grouping.
 
-(i) An AFA sector will receive a portion of the 47,591 Chinook salmon PSC limit, or, in a low Chinook salmon abundance year, the 33,318 Chinook salmon PSC limit, if -
+(i) An AFA sector will receive a portion of the 47,591 Chinook salmon PSC limit, or, in a low Chinook salmon abundance year, the 33,318 Chinook salmon PSC limit, if —
 
 (A) No Chinook salmon bycatch incentive plan agreement (IPA) is approved by NMFS under paragraph (f)(12) of this section; or
 
 (B) That AFA sector has exceeded its performance standard under paragraph (f)(6) of this section.
 
-(ii) An AFA sector will receive a portion of the 60,000 Chinook salmon PSC limit, or, in a low Chinook salmon abundance year, the 45,000 Chinook salmon PSC limit, if -
+(ii) An AFA sector will receive a portion of the 60,000 Chinook salmon PSC limit, or, in a low Chinook salmon abundance year, the 45,000 Chinook salmon PSC limit, if—
 
 (A) At least one IPA is approved by NMFS under paragraph (f)(12) of this section; and
 
 (B) That AFA sector has not exceeded its performance standard under paragraph (f)(6) of this section.
 
-(3) *Allocations of the Chinook salmon PSC limits* - (i) *Seasonal apportionment.* NMFS will apportion the Chinook salmon PSC limits annually 70 percent to the A season and 30 percent to the B season, which are described in § 679.23(e)(2).
+(3) *Allocations of the Chinook salmon PSC limits*—(i) *Seasonal apportionment.* NMFS will apportion the Chinook salmon PSC limits annually 70 percent to the A season and 30 percent to the B season, which are described in § 679.23(e)(2).
 
 (ii) *AFA sectors.* Each year, NMFS will make allocations of the applicable Chinook salmon PSC limit to the following four AFA sectors:
 
@@ -384,7 +384,7 @@
 
 (iii) *Allocations to each AFA sector.* NMFS will allocate the Chinook salmon PSC limits to each AFA sector as follows:
 
-(A) If a sector is managed under the 60,000 Chinook salmon PSC limit, the maximum amount of Chinook salmon PSC allocated to each sector in each season and annually is -
+(A) If a sector is managed under the 60,000 Chinook salmon PSC limit, the maximum amount of Chinook salmon PSC allocated to each sector in each season and annually is—
 
 |     AFA sector      |  A season   |  B season  |Annual total |            |             |      |
 |---------------------|-------------|------------|-------------|------------|-------------|------|
@@ -454,7 +454,7 @@
 
 (F) Tables for each sector that provide the percent of the sector's pollock allocation, numbers of Chinook salmon associated with each vessel in the sector used to calculate the opt-out allocation and annual threshold amounts, and the percent of the pollock allocation associated with each vessel that NMFS will use to calculate IPA minimum participation assigned to each vessel.
 
-(4) *Reduction in allocations of the Chinook salmon PSC limit* - (i) *Reduction in sector allocations.* NMFS will reduce the seasonal allocation of the Chinook salmon PSC limit to the catcher/processor sector, the mothership sector, the inshore sector, or the CDQ Program under paragraph (f)(3)(iii)(A) or (B) of this section, if the owner of any permitted AFA vessel in that sector, or any CDQ group, does not participate in an approved IPA under paragraph (f)(12) of this section. NMFS will subtract the amount of Chinook salmon from each sector's allocation associated with each vessel not participating in an approved IPA.
+(4) *Reduction in allocations of the Chinook salmon PSC limit*—(i) *Reduction in sector allocations.* NMFS will reduce the seasonal allocation of the Chinook salmon PSC limit to the catcher/processor sector, the mothership sector, the inshore sector, or the CDQ Program under paragraph (f)(3)(iii)(A) or (B) of this section, if the owner of any permitted AFA vessel in that sector, or any CDQ group, does not participate in an approved IPA under paragraph (f)(12) of this section. NMFS will subtract the amount of Chinook salmon from each sector's allocation associated with each vessel not participating in an approved IPA.
 
 (ii) *Adjustments to the inshore sector and inshore cooperative allocations.* (A) If some members of an inshore cooperative do not participate in an approved IPA, NMFS will reduce the allocation to the cooperative to which those vessels belong, or the inshore open access fishery.
 
@@ -517,7 +517,7 @@
 
 (*2*) To make additions or deletions to the vessel owners represented by the entity for the next year, the entity representative must submit a complete application, as described in paragraph (f)(8)(ii) of this section, by December 1.
 
-(iii) *Entity representative.* (A) The entity's representative must -
+(iii) *Entity representative.* (A) The entity's representative must —
 
 (*1*) Act as the primary contact person for NMFS on issues relating to the operation of the entity;
 
@@ -529,7 +529,7 @@
 
 (B) Any vessel owner that is a member of an inshore cooperative, or a member of the entity that represents the catcher/processor sector or the mothership sector, may authorize the entity representative to sign a proposed IPA submitted to NMFS, under paragraph (f)(12) of this section, on his or her behalf. This authorization must be included in the contract submitted to NMFS, under paragraph (f)(8)(ii)(B) of this section, for the sector-level entities and in the contract submitted annually to NMFS by inshore cooperatives under § 679.61(d).
 
-(iv) *Agent for service of process.* The entity's agent for service of process must -
+(iv) *Agent for service of process.* The entity's agent for service of process must—
 
 (A) Be authorized to receive and respond to any legal process issued in the United States with respect to all owners and operators of vessels that are members of an entity receiving a transferable allocation of Chinook salmon PSC or with respect to a CDQ group. Service on or notice to the entity's appointed agent constitutes service on or notice to all members of the entity.
 
@@ -551,13 +551,13 @@
 
 (ii) *Post-delivery transfers.* If the Chinook salmon bycatch by an entity exceeds its seasonal allocation, the entity may receive transfers of Chinook salmon PSC to cover overages for that season. An entity may conduct transfers to cover an overage that results from Chinook salmon bycatch from any fishing trip by a vessel fishing on behalf of that entity that was completed or is in progress at the time the entity's allocation is first exceeded. Under § 679.7(d)(5)(ii)(C)(*2*) and (k)(8)(v)(B), vessels fishing on behalf of an entity that has exceeded its Chinook salmon PSC allocation for a season may not start a new fishing trip for pollock in the BS on behalf of that same entity for the remainder of that season.
 
-(iii) *Application for transfer of Chinook salmon PSC allocation* - (A) *Completed application.* NMFS will process a request for transfer of Chinook salmon PSC provided that a paper or electronic application is completed, with all information fields accurately filled in. Application forms are available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*) or from NMFS at the address in paragraph (b)(6) of this section.
+(iii) *Application for transfer of Chinook salmon PSC allocation*—(A) *Completed application.* NMFS will process a request for transfer of Chinook salmon PSC provided that a paper or electronic application is completed, with all information fields accurately filled in. Application forms are available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov/*) or from NMFS at the address in paragraph (b)(6) of this section.
 
-(B) *Certification of transferor* - (*1*) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
+(B) *Certification of transferor*—(*1*) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
 
 (*2*) *Electronic submittal.* The transferor's designated entity representative must log onto the NMFS online services system and create a transfer request as indicated on the computer screen. By using the transferor's NMFS ID, password, and Transfer Key, and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
-(C) *Certification of transferee* - (*1*) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
+(C) *Certification of transferee*—(*1*) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
 
 (*2*) *Electronic submittal.* The transferee's designated representative must log onto the NMFS online services system and accept the transfer request as indicated on the computer screen. By using the transferee's NMFS ID, password, and Transfer Key, the designated representative certifies that all information is true, correct, and complete.
 
@@ -569,11 +569,11 @@
 
 (iii) For each non-transferable Chinook salmon PSC allocation, NMFS will deduct from the B season allocation any amount of Chinook salmon bycatch in the A season that exceeds the amount available under the A season allocation.
 
-(11) *Rollover of unused A season allocation* - (i) *Rollovers of transferable allocations.* NMFS will add any Chinook salmon PSC allocation remaining at the end of the A season, after any transfers under paragraph (f)(9)(ii) of this section, to an entity's B season allocation.
+(11) *Rollover of unused A season allocation*—(i) *Rollovers of transferable allocations.* NMFS will add any Chinook salmon PSC allocation remaining at the end of the A season, after any transfers under paragraph (f)(9)(ii) of this section, to an entity's B season allocation.
 
 (ii) *Rollover of non-transferable allocations.* For a non-transferable allocation for the mothership sector, catcher/processor sector, or an inshore open access fishery, NMFS will add any Chinook salmon PSC remaining in that non-transferable allocation at the end of the A season to that B season non-transferable allocation.
 
-(12) *Salmon bycatch incentive plan agreements (IPAs)* - (i) *Minimum participation requirements.* More than one IPA may be approved by NMFS. Each IPA must have participants that represent the following:
+(12) *Salmon bycatch incentive plan agreements (IPAs)*—(i) *Minimum participation requirements.* More than one IPA may be approved by NMFS. Each IPA must have participants that represent the following:
 
 (A) *Minimum percent pollock.* Parties to an IPA must collectively represent at least 9 percent of the BS pollock quota.
 
@@ -597,7 +597,7 @@
 
 (D) *Third party group.* The IPA must identify at least one third party group. Third party groups include any entities representing western Alaskans who depend on salmon and have an interest in salmon bycatch reduction but do not directly fish in a groundfish fishery.
 
-(E) *Description of the incentive plan.* The IPA must contain a description of the following -
+(E) *Description of the incentive plan.* The IPA must contain a description of the following—
 
 (*1*) The incentive(s) that will be implemented under the IPA for the operator of each vessel participating in the IPA to avoid Chinook salmon and chum salmon bycatch under any condition of pollock and Chinook salmon abundance in all years.
 
@@ -629,11 +629,11 @@
 
 (G) *Signatures.* The names and signatures of the owner or representative for each vessel and CDQ group that is a party to the IPA. The representative of an inshore cooperative, or the representative of the entity formed to represent the AFA catcher/processor sector or the AFA mothership sector under paragraph (f)(8) of this section may sign a proposed IPA on behalf of all vessels that are members of that inshore cooperative or sector level entity.
 
-(iv) *Deadline and duration* - (A) *Deadline for proposed IPA.* A proposed IPA must be received by NMFS no later than 1700 hours, A.l.t., on October 1 of the year prior to the year for which the IPA is proposed to be effective.
+(iv) *Deadline and duration*—(A) *Deadline for proposed IPA.* A proposed IPA must be received by NMFS no later than 1700 hours, A.l.t., on October 1 of the year prior to the year for which the IPA is proposed to be effective.
 
 (B) *Duration.* Once approved, an IPA is effective starting January 1 of the year following the year in which NMFS approves the IPA, unless the IPA is approved between January 1 and January 19, in which case the IPA is effective starting in the year in which it is approved. Once approved, an IPA is effective until December 31 of the first year in which it is effective or until December 31 of the year in which the IPA representative notifies NMFS in writing that the IPA is no longer in effect, whichever is later. An IPA may not expire mid-year. No party may join or leave an IPA once it is approved, except as allowed under paragraph (f)(12)(v)(C) of this section.
 
-(v) *NMFS review of a proposed IPA* - (A) *Approval.* An IPA will be approved by NMFS if it meets the following requirements:
+(v) *NMFS review of a proposed IPA*—(A) *Approval.* An IPA will be approved by NMFS if it meets the following requirements:
 
 (*1*) Meets the minimum participation requirements in paragraph (f)(12)(i) of this section;
 
@@ -671,7 +671,7 @@
 
 (B) A description of how these incentive measures affected individual vessels;
 
-(C) An evaluation of whether incentive measures were effective in achieving salmon savings beyond levels that would have been achieved in absence of the measures, including the effectiveness of -
+(C) An evaluation of whether incentive measures were effective in achieving salmon savings beyond levels that would have been achieved in absence of the measures, including the effectiveness of—
 
 (*1*) Measures to ensure that chum salmon were avoided in areas and at times where chum salmon are likely to return to western Alaska;
 
@@ -719,7 +719,7 @@
 
 (i) *Salmon discard.* The operator of a vessel and the manager of a shoreside processor or SFP must not discard any salmon or transfer or process any salmon under the PSD Program at § 679.26 if the salmon were taken incidental to a directed fishery for pollock in the BS until the number of salmon has been determined by the observer and the observer's collection of any scientific data or biological samples from the salmon has been completed.
 
-(ii) *Salmon retention and storage.* (A) Operators of catcher/processors or motherships must -
+(ii) *Salmon retention and storage.* (A) Operators of catcher/processors or motherships must—
 
 (*1*) Sort and transport all salmon bycatch from each haul to an approved storage container located adjacent to the observer sampling station that allows an observer free and unobstructed access to the salmon (see § 679.28(d)(2)(i) and (d)(7)). The salmon storage container must remain in view of the observer from the observer sampling station at all times during the sorting of the haul.
 
@@ -729,7 +729,7 @@
 
 (*4*) Ensure no salmon of any species pass the observer sample collection point, as identified in the scale drawing of the observer sampling station (see § 679.28(d)(2)(i) and (d)(7)).
 
-(B) Operators of vessels delivering to shoreside processors or stationary floating processors must -
+(B) Operators of vessels delivering to shoreside processors or stationary floating processors must—
 
 (*1*) Retain all salmon taken incidental to a directed fishery for pollock in the BS until the salmon are delivered to the processor receiving the vessel's BS pollock catch.
 
@@ -739,7 +739,7 @@
 
 (*4*) Comply with the requirements in paragraphs (f)(15)(ii)(B)(*2*) and (*3*) of this section, before handling the catch prior to delivery.
 
-(C) Shoreside processors or stationary floating processors must -
+(C) Shoreside processors or stationary floating processors must—
 
 (*1*) Comply with the requirements in § 679.28(g)(7)(vii) for the receipt, sorting, and storage of salmon from deliveries of catch from the BS pollock fishery.
 
@@ -757,7 +757,7 @@
 
 (iv) *Discard of salmon.* Except for salmon under the PSD Program at § 679.26, all salmon must be returned to the sea as soon as is practicable, following notification by an observer that the number of salmon has been determined and the collection of scientific data or biological samples has been completed.
 
-(g) *Chinook salmon bycatch management in the AI pollock fishery* - (1) *Applicability.* This paragraph contains regulations governing the bycatch of Chinook salmon in the AI pollock fishery.
+(g) *Chinook salmon bycatch management in the AI pollock fishery*—(1) *Applicability.* This paragraph contains regulations governing the bycatch of Chinook salmon in the AI pollock fishery.
 
 (2) *AI Chinook salmon PSC limit.* (i) The PSC limit for Chinook salmon caught by vessels while harvesting pollock in the AI is 700 fish.
 
@@ -769,7 +769,7 @@
 
 (ii) From September 1 through December 31, if the Regional Administrator determines that the annual limit of AI Chinook salmon will be attained after April 15.
 
-(h) *GOA Chinook Salmon PSC Management* - (1) *Applicability.* Regulations in this paragraph apply to trawl vessels participating in the directed fishery for groundfish in the Western and Central reporting areas of the GOA and processors receiving deliveries from these vessels.
+(h) *GOA Chinook Salmon PSC Management*—(1) *Applicability.* Regulations in this paragraph apply to trawl vessels participating in the directed fishery for groundfish in the Western and Central reporting areas of the GOA and processors receiving deliveries from these vessels.
 
 (2) *GOA Chinook salmon PSC limits for the pollock sectors (fisheries).* (i) The annual PSC limit for vessels participating in the directed fishery for pollock in the Western reporting area of the GOA is 6,684 Chinook salmon.
 

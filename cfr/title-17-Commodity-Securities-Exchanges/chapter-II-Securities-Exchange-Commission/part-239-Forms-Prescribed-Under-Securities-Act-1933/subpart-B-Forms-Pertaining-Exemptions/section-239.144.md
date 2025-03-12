@@ -1,5 +1,7 @@
 ##### § 239.144 Form 144, for notice of proposed sale of securities pursuant to § 230.144 of this chapter. #####
 
+Link to an amendment published at 88 FR 12209, Feb. 27, 2023.
+
 (a) Except as indicated in paragraph (b) of this section, each person who intends to sell securities in reliance upon § 230.144 of this chapter shall file this form in electronic format by means of the Commission's Electronic Data, Gathering, Analysis, and Retrieval system (EDGAR) in accordance with the EDGAR rules set forth in Regulation S-T (17 CFR part 232 of this chapter).
 
 (b) This form need not be filed if the amount of securities to be sold during any period of three months does not exceed 5,000 shares or other units and the aggregate sale price does not exceed $50,000.

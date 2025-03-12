@@ -32,13 +32,16 @@ Table 1 to Paragraph (b)
 |      Yakutat       |          280A           |
 |      ARIZONA       |                         |
 |       Aguila       |          297C2          |
+|        Ajo         |          275A           |
 |    Desert Hills    |          292A           |
 |     Ehrenberg      |          228C2          |
 |     First Mesa     |          281C           |
+|      Fredonia      |          266C1          |
 |       Leupp        |          293C1          |
 |     Overgaard      |          234C1          |
 |       Parker       |          257C2          |
 |      Paulden       |          228C3          |
+|   Peach Springs    |          280A           |
 |        Pima        |          296A           |
 |       Salome       |          231A           |
 |       Sells        |          285A           |
@@ -47,6 +50,7 @@ Table 1 to Paragraph (b)
 |     Wickenburg     |          229C3          |
 |      ARKANSAS      |                         |
 |     Hermitage      |          300A           |
+|    Lake Village    |          278C3          |
 |       Rison        |          255A           |
 |       Strong       |          296C3          |
 |     CALIFORNIA     |                         |
@@ -64,12 +68,15 @@ Table 1 to Paragraph (b)
 |     Firebaugh      |          234A           |
 |     Ford City      |          271A           |
 |     Ft. Bragg      |          253B1          |
+|   Kettleman City   |          299A           |
 |      Lindsay       |          277B1          |
 |       Ludlow       |          261B1          |
 |      Portola       |          258A           |
 |     Randsburg      |          275A           |
 |     Sacramento     |          300B           |
+|       Tecopa       |          288A           |
 |      Visalia       |          241A           |
+|       Wasco        |          224A           |
 |      COLORADO      |                         |
 |  Battlement Mesa   |          275C3          |
 |       Calhan       |          284C3          |
@@ -131,6 +138,7 @@ Table 1 to Paragraph (b)
 |       Orange       |          247A           |
 |    West Tisbury    |          282A           |
 |      MICHIGAN      |                         |
+|     Bear Lake      |          264C3          |
 |       Carney       |          260A           |
 |       Custer       |          260A           |
 |      Houghton      |          242C1          |
@@ -140,14 +148,17 @@ Table 1 to Paragraph (b)
 |       Pigeon       |          267A           |
 |     MINNESOTA      |                         |
 |    Grand Marais    |          245C3          |
+|   Grand Portage    |          251A           |
 |    MISSISSIPPI     |                         |
 |       Bruce        |          233A           |
 |     Cleveland      |          226C2          |
+|     Greenwood      |          230C3          |
 |       McLain       |          245A           |
 |     New Albany     |          268A           |
 |    New Augusta     |          269A           |
 |      MISSOURI      |                         |
 |      Bourbon       |          231A           |
+|       Bunker       |          292C3          |
 |        Cuba        |          269A           |
 |      Eminence      |          281A           |
 |     Maryville      |          285C3          |
@@ -159,7 +170,7 @@ Table 1 to Paragraph (b)
 |       Bayard       |          251A           |
 |       NEVADA       |                         |
 |      Caliente      |          264A           |
-|       Owyhee       |          247C3          |
+|       Owyhee       |          247C1          |
 |      Tonopah       |          224A           |
 |   NEW HAMPSHIRE    |                         |
 |      Enfield       |          282A           |
@@ -171,6 +182,7 @@ Table 1 to Paragraph (b)
 |       Animas       |          279C1          |
 |     Carrizozo      |          261C2          |
 |       Chama        |          241C3          |
+|       Clovis       |          272C3          |
 |     Des Moines     |          287C           |
 |     Lovington      |          269C3          |
 |   Skyline-Ganipa   |          240A           |
@@ -249,7 +261,7 @@ Table 1 to Paragraph (b)
 |      Hereford      |          278C2          |
 |       Iraan        |          269C2          |
 |       Jayton       |          231C2          |
-|      Junction      |          277C3          |
+|      Junction      |   228C2, 277C3, 290A    |
 |       Kermit       |          289C3          |
 |     Knox City      |          293A           |
 |       Leakey       |       275A, 299A        |
@@ -287,6 +299,7 @@ Table 1 to Paragraph (b)
 |      Seymour       |          222C2          |
 |     Sheffield      |          224C2          |
 |     Silverton      |          221A           |
+|       Sonora       |          272C3          |
 |       Teague       |          237C3          |
 |      Trinity       |          251A           |
 |       Turkey       |          221C2          |
@@ -300,6 +313,7 @@ Table 1 to Paragraph (b)
 |      Milford       |          288C           |
 |     Paragonah      |          258A           |
 |      VERMONT       |                         |
+|       Barton       |          262A           |
 |      Hardwick      |                         |
 |    West Rutland    |          298A           |
 |      VIRGINIA      |                         |

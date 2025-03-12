@@ -1,8 +1,6 @@
 ##### § 185.103 Basis for civil penalties and assessments. #####
 
-Link to an amendment published at 88 FR 5246, Jan. 27, 2023.
-
-(a) In addition to any other remedy that may be prescribed by law, any person shall be subject to a civil penalty of not more than $12,537, where the person makes a claim and knows or has reason to know that the claim:
+(a) In addition to any other remedy that may be prescribed by law, any person shall be subject to a civil penalty of not more than $13,508, where the person makes a claim and knows or has reason to know that the claim:
 
 (1) In false, fictitious, or fraudulent;
 
@@ -34,7 +32,7 @@ Link to an amendment published at 88 FR 5246, Jan. 27, 2023.
 
 (ii) Is false, fictitious, or fraudulent because it omits a material fact that the person making the statement has a duty to include in such statement; and
 
-(2) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement may be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $12,537 for each such statement.
+(2) Contains, or is accompanied by, an express certification or affirmation of the truthfulness and accuracy of the contents of the statement may be subject, in addition to any other remedy that may be prescribed by law, to a civil penalty of not more than $13,508 for each such statement.
 
 (g) Each written representation, certification, or affirmation constitutes a separate statement.
 
@@ -46,4 +44,4 @@ Link to an amendment published at 88 FR 5246, Jan. 27, 2023.
 
 (k) In any case in which it is determined that more than one person is liable for making a claim under this section on which the Government has made payment (including transferred property or provided services), an assessment may be imposed against any such person or jointly and severally against any combination of such persons.
 
-[60 FR 7891, Feb. 10, 1995, as amended at 81 FR 46828, July 19, 2016; 83 FR 34935, July 24, 2018; 84 FR 51938, Oct. 1, 2019; 85 FR 42300, July 14, 2020; 87 FR 16094, Mar. 22, 2022]
+[60 FR 7891, Feb. 10, 1995, as amended at 81 FR 46828, July 19, 2016; 83 FR 34935, July 24, 2018; 84 FR 51938, Oct. 1, 2019; 85 FR 42300, July 14, 2020; 87 FR 16094, Mar. 22, 2022; 88 FR 5246, Jan. 27, 2023]

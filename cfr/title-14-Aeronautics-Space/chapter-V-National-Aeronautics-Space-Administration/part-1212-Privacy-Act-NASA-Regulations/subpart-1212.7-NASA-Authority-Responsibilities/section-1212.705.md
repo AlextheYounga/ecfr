@@ -1,5 +1,7 @@
 ##### § 1212.705 System manager. #####
 
+Link to an amendment published at 88 FR 12149, Feb. 27, 2023.
+
 (a) Each system manager is responsible for the following with regard to the system of records over which the system manager has cognizance:
 
 (1) Overall compliance with this part, NASA Policy Directive (NPD) 1382.17 and NASA Procedural Requirements (NPR) 1382.1.

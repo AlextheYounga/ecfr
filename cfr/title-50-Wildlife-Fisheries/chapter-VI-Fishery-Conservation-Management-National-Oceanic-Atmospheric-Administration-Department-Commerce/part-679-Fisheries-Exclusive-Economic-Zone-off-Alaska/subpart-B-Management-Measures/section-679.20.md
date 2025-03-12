@@ -2,7 +2,7 @@
 
 This section applies to vessels engaged in directed fishing for groundfish in the GOA and/or the BSAI and to vessels engaged in commercial fishing for Arctic fish in the Arctic Management Area.
 
-(a) *Harvest limits* - (1) *OY* - (i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
+(a) *Harvest limits*—(1) *OY*—(i) *BSAI and GOA.* The OY for BSAI and GOA target species is a range or specific amount that can be harvested consistently with this part, plus the amounts of “nonspecified species” taken incidentally to the harvest of target species. The species categories are defined in Table 1 of the specifications as provided in paragraph (c) of this section.
 
 (A) The OY for groundfish in the BSAI regulated by this section and by part 600 of this chapter is 1.4 million to 2.0 million mt.
 
@@ -18,23 +18,23 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (ii) *Socioeconomic considerations.* Socioeconomic considerations that are consistent with the goals of the fishery management plans for the groundfish fisheries of the BSAI and the GOA, including the need to promote efficiency in the utilization of fishery resources, including minimizing costs; the need to manage for the optimum marketable size of a species; the impact of groundfish harvests on prohibited species and the domestic target fisheries that utilize these species; the desire to enhance depleted stocks; the seasonal access to the groundfish fishery by domestic fishing vessels; the commercial importance of a fishery to local communities; the importance of a fishery to subsistence users; and the need to promote utilization of certain species.
 
-(4) *Sablefish TAC* - (i) *Eastern GOA regulatory area* - (A) *Fixed gear.* Vessels in the Eastern GOA regulatory area using fixed gear will be allocated 95 percent of the sablefish TAC.
+(4) *Sablefish TAC*—(i) *Eastern GOA regulatory area*—(A) *Fixed gear.* Vessels in the Eastern GOA regulatory area using fixed gear will be allocated 95 percent of the sablefish TAC.
 
 (B) *Trawl gear.* Vessels in the Eastern GOA regulatory area using trawl gear will be allocated 5 percent of the sablefish TAC for bycatch in other trawl fisheries.
 
-(ii) *Central and Western GOA regulatory areas* - (A) *Fixed gear.* Vessels in the Central and Western GOA regulatory areas using fixed gear will be allocated 80 percent of the sablefish TAC in each of the Central and Western GOA regulatory areas.
+(ii) *Central and Western GOA regulatory areas*—(A) *Fixed gear.* Vessels in the Central and Western GOA regulatory areas using fixed gear will be allocated 80 percent of the sablefish TAC in each of the Central and Western GOA regulatory areas.
 
 (B) *Trawl gear.* Vessels using trawl gear will be allocated 20 percent of the sablefish TAC in these areas.
 
-(iii) *Bering Sea subarea* - (A) *Hook-and-line or pot gear.* Vessels in the Bering Sea subarea using hook-and-line or pot gear will be allocated 50 percent of each TAC for sablefish.
+(iii) *Bering Sea subarea*—(A) *Fixed gear.* Vessels in the Bering Sea subarea using fixed gear will be allocated 50 percent of each TAC for sablefish.
 
 (B) *Trawl gear.* Vessels in the Bering Sea subarea using trawl gear will be allocated 50 percent of each TAC for sablefish.
 
-(iv) *Aleutian Islands subarea* - (A) *Hook-and-line or pot gear.* Vessels in the Aleutian Islands subarea using hook-and-line or pot gear will be allocated 75 percent of each TAC for sablefish.
+(iv) *Aleutian Islands subarea*—(A) *Fixed gear.* Vessels in the Aleutian Islands subarea using fixed gear will be allocated 75 percent of each TAC for sablefish.
 
 (B) *Trawl gear.* Vessels in the Aleutian Islands subarea using trawl gear will be allocated 25 percent of each TAC for sablefish.
 
-(5) *Pollock TAC* - (i) *Bering Sea Subarea* - (A) *AFA allocations.* The pollock TAC apportioned to the Bering Sea Subarea, after subtraction of the 10 percent CDQ reserve under § 679.31(a), will be allocated as follows:
+(5) *Pollock TAC*—(i) *Bering Sea Subarea*—(A) *AFA allocations.* The pollock TAC apportioned to the Bering Sea Subarea, after subtraction of the 10 percent CDQ reserve under § 679.31(a), will be allocated as follows:
 
 (*1*) *Incidental catch allowance.* The Regional Administrator will establish an incidental catch allowance to account for projected incidental catch of pollock by vessels engaged in directed fishing for groundfish other than pollock and by vessels harvesting non-pollock CDQ. If during a fishing year, the Regional Administrator determines that the incidental catch allowance has been set too high or too low, he/she may issue inseason notification in the Federal Register that reallocates incidental catch allowance to the directed fishing allowance, or vice versa, according to the proportions established under paragraph (a)(5)(i)(A) of this section.
 
@@ -60,7 +60,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*7*) *Excessive processing share.* NMFS will establish an excessive processing share limit equal to 30.0 percent of the sum of the directed fishing allowances established under paragraphs (a)(5)(i) and (a)(5)(ii) of this section. The excessive processing share limit will be published in the annual harvest specifications and is subject to revision on an inseason basis if NMFS reallocates unharvested amounts of the incidental catch allowance to the directed fishing allowance, or vice versa.
 
-(B) *BSAI seasonal allowances for AFA and CDQ* - (*1*) *Inshore, catcher/processor, mothership, and CDQ sectors.* The portions of the BS subarea pollock directed fishing allowances allocated to each sector under sections 206(a) and 206(b) of the AFA and the CDQ allowance in the BSAI will be divided into two seasonal allowances corresponding to the two fishing seasons set out at § 679.23(e)(2), as follows:
+(B) *BSAI seasonal allowances for AFA and CDQ*—(*1*) *Inshore, catcher/processor, mothership, and CDQ sectors.* The portions of the BS subarea pollock directed fishing allowances allocated to each sector under sections 206(a) and 206(b) of the AFA and the CDQ allowance in the BSAI will be divided into two seasonal allowances corresponding to the two fishing seasons set out at § 679.23(e)(2), as follows:
 
 (*i*) A Season, 45 percent;
 
@@ -78,7 +78,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*1*) *AI annual TAC limitations.* When the AI pollock ABC is less than 19,000 mt, the annual TAC will be no greater than the ABC. When the AI pollock ABC equals or exceeds 19,000 mt, the annual TAC will be equal to 19,000 mt.
 
-(*2*) *Allocations* - (*i*) *CDQ Directed fishing allowance.* 10 percent of the annual TAC will be allocated to the CDQ pollock reserve established under § 679.31(a)(2).
+(*2*) *Allocations*—(*i*) *CDQ Directed fishing allowance.* 10 percent of the annual TAC will be allocated to the CDQ pollock reserve established under § 679.31(a)(2).
 
 (*ii*) *Incidental catch allowance.* The Regional Administrator will determine the amount of the pollock incidental catch necessary to support an incidental catch allowance in the AI during the fishing year for each season. This amount of pollock will be deducted from the annual TAC. If during a fishing year, the Regional Administrator determines that the incidental catch allowance is excessive or inadequate, the Regional Administrator may reallocate the excess of the incidental catch allowance to the directed pollock fishery, or may reallocate pollock from the directed pollock fishery to the incidental catch allowance as necessary to support incidental catch of pollock in AI groundfish fisheries, by publication in the Federal Register.
 
@@ -112,15 +112,15 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*iii*) No more than 30 percent of the Aleutian Islands pollock ABC in Area 541.
 
-(iv) *GOA* - (A) *Apportionment by area.* The TAC for pollock in the combined GOA Western and Central Regulatory Areas will be apportioned among statistical areas 610, 620, and 630 in proportion to the distribution of the pollock biomass as determined by the most recent NMFS surveys.
+(iv) *GOA*—(A) *Apportionment by area.* The TAC for pollock in the combined GOA Western and Central Regulatory Areas will be apportioned among statistical areas 610, 620, and 630 in proportion to the distribution of the pollock biomass as determined by the most recent NMFS surveys.
 
 (B) *GOA Western and Central Regulatory Areas seasonal apportionments.* Each apportionment established under paragraph (a)(5)(iv)(A) of this section will be divided into two seasonal apportionments corresponding to the two fishing seasons specified in § 679.23(d)(2) as follows: A Season, 50 percent; and B Season, 50 percent. Within any fishing year, underharvest or overharvest of a seasonal apportionment may be added to or subtracted from remaining seasonal apportionments in a manner to be determined by the Regional Administrator, provided that any revised seasonal apportionment does not exceed 20 percent of the seasonal TAC apportionment for the statistical area. The reapportionment of underharvest will be applied to the subsequent season within the same statistical area up to the 20 percent limit specified in this paragraph. Any underharvest remaining beyond the 20 percent limit may be further apportioned to the subsequent season in the other statistical areas, in proportion to estimated biomass and in an amount no more than 20 percent of the seasonal TAC apportionment for the statistical area.
 
-(6) *GOA inshore/offshore allocations* - (i) *GOA pollock.* The apportionment of pollock in all GOA regulatory areas for each seasonal allowance described in paragraph (a)(5)(iv) of this section will be allocated entirely to vessels harvesting pollock for processing by the inshore component in the GOA after subtraction of an amount that is projected by the Regional Administrator to be caught by, or delivered to, the offshore component in the GOA incidental to directed fishing for other groundfish species.
+(6) *GOA inshore/offshore allocations*—(i) *GOA pollock.* The apportionment of pollock in all GOA regulatory areas for each seasonal allowance described in paragraph (a)(5)(iv) of this section will be allocated entirely to vessels harvesting pollock for processing by the inshore component in the GOA after subtraction of an amount that is projected by the Regional Administrator to be caught by, or delivered to, the offshore component in the GOA incidental to directed fishing for other groundfish species.
 
 (ii) *Eastern GOA Regulatory Area Pacific cod.* The apportionment of Pacific cod in the Eastern GOA Regulatory Area will be allocated 90 percent to vessels harvesting Pacific cod for processing by the inshore component and 10 percent to vessels harvesting Pacific cod for processing by the offshore component.
 
-(7) *Pacific cod TAC, BSAI* - (i) *CDQ reserve and seasonal allowances.* (A) A total of 10.7 percent of the annual Pacific cod TAC will be allocated to the CDQ Program in the annual harvest specifications required under paragraph (c) of this section. The Pacific cod CDQ allocation will be deducted from the annual Pacific cod TAC before allocations to the non-CDQ sectors are made under paragraph (a)(7)(ii) of this section.
+(7) *Pacific cod TAC, BSAI*—(i) *CDQ reserve and seasonal allowances.* (A) A total of 10.7 percent of the annual Pacific cod TAC will be allocated to the CDQ Program in the annual harvest specifications required under paragraph (c) of this section. The Pacific cod CDQ allocation will be deducted from the annual Pacific cod TAC before allocations to the non-CDQ sectors are made under paragraph (a)(7)(ii) of this section.
 
 (B) The BSAI Pacific cod CDQ gear allowances by season, as those seasons are specified under § 679.23(e)(5), are as follows:
 
@@ -133,7 +133,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 |                           (3) Jig                           |         40%         |         20%         |         40%         |
 |                (4) All other non-trawl gear                 |no seasonal allowance|no seasonal allowance|no seasonal allowance|
 
-(ii) *Non-CDQ allocations* - (A) *Sector allocations.* The remainder of the BSAI Pacific cod TAC after subtraction of the CDQ reserve for Pacific cod will be allocated to non-CDQ sectors as follows:
+(ii) *Non-CDQ allocations*—(A) *Sector allocations.* The remainder of the BSAI Pacific cod TAC after subtraction of the CDQ reserve for Pacific cod will be allocated to non-CDQ sectors as follows:
 
 |                   Sector                    |% Allocation|
 |---------------------------------------------|------------|
@@ -163,7 +163,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (C) *Pot gear sectors.* The Regional Administrator will reallocate any projected unharvested amounts of Pacific cod TAC from the pot catcher/processor sector to the greater than or equal to 60 ft (18.3 m) LOA pot catcher vessel sector, and from the greater than or equal to 60 ft (18.3 m) LOA pot catcher vessel sector to the pot catcher/processor sector before reallocating it to the hook-and-line catcher/processor sector.
 
-(iv) *Non-CDQ seasonal allowances* - (A) *Seasonal allowances by sector.* The BSAI Pacific cod sector allowances are apportioned by season, as those seasons are specified at § 679.23(e)(5), as follows:
+(iv) *Non-CDQ seasonal allowances*—(A) *Seasonal allowances by sector.* The BSAI Pacific cod sector allowances are apportioned by season, as those seasons are specified at § 679.23(e)(5), as follows:
 
 |                                               Sector                                               | Seasonal Allowances |                     |                     |
 |----------------------------------------------------------------------------------------------------|---------------------|---------------------|---------------------|
@@ -197,7 +197,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (vii) *Pacific cod harvest limitations.* During the annual harvest specifications process, the Regional Administrator will establish an Area 543 Pacific cod harvest limit based on Pacific cod abundance in Area 543 as determined by the annual stock assessment process. NMFS will first subtract the State GHL Pacific cod amount from the AI Pacific cod ABC. Then NMFS will determine the harvest limit in Area 543 by multiplying the percentage of Pacific cod estimated in Area 543 by the remaining ABC for AI Pacific cod.
 
-(viii) *Aleutian Islands Pacific Cod Catcher Vessel Harvest Set-Aside Program* - (A) *Calculation of the Aleutian Islands Pacific cod non-CDQ ICA and DFA.* Each year, during the annual harvest specifications process set forth at paragraph (c) of this section, NMFS will specify the Aleutian Islands Pacific cod non-CDQ incidental catch allowance and directed fishing allowance from the Aleutian Islands Pacific cod non-CDQ TAC as follows. Shortly after completion of the process set forth in paragraph (a)(7)(viii)(D) of this section, NMFS will announce through notice in the Federal Register whether the ICA and DFA will be in effect for the upcoming fishing year.
+(viii) *Aleutian Islands Pacific Cod Catcher Vessel Harvest Set-Aside Program*—(A) *Calculation of the Aleutian Islands Pacific cod non-CDQ ICA and DFA.* Each year, during the annual harvest specifications process set forth at paragraph (c) of this section, NMFS will specify the Aleutian Islands Pacific cod non-CDQ incidental catch allowance and directed fishing allowance from the Aleutian Islands Pacific cod non-CDQ TAC as follows. Shortly after completion of the process set forth in paragraph (a)(7)(viii)(D) of this section, NMFS will announce through notice in the Federal Register whether the ICA and DFA will be in effect for the upcoming fishing year.
 
 (*1*) *Aleutian Islands Pacific cod non-CDQ incidental catch allowance.* Each year, during the annual harvest specifications process set forth at paragraph (c) of this section, NMFS will specify an amount of Aleutian Islands Pacific cod that NMFS estimates will be taken as incidental catch in non-CDQ directed fisheries for groundfish other than Pacific cod in the Aleutian Islands. This amount will be the Aleutian Islands Pacific cod non-CDQ incidental catch allowance and will be deducted from the aggregate portion of Pacific cod TAC annually allocated to the non-CDQ sectors identified in paragraph (a)(7)(ii)(A) of this section.
 
@@ -207,7 +207,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (C) *Calculation of the Bering Sea Trawl CV A-Season Sector Limitation.* Each year, during the annual harvest specifications process set forth at paragraph (c) of this section, NMFS will specify the Bering Sea Trawl CV A-Season Sector Limitation and the amount of the trawl CV sector's A-season allocation that could be harvested in the Bering Sea subarea prior to March 21. The Bering Sea Trawl CV A-Season Sector Limitation will be an amount of Pacific cod equal to the lesser of either the Aleutian Islands Pacific cod non-CDQ directed fishing allowance as determined in paragraph (a)(7)(viii)(A)(*2*) of this section or 5,000 mt. The amount of the trawl CV sector's A-season allocation that could be harvested in the Bering Sea subarea prior to March 21 will be the amount of Pacific cod that remains after deducting the Bering Sea Trawl CV A-Season Sector Limitation from the amount of BSAI Pacific cod allocated to the trawl CV sector A-season as determined in paragraph (a)(7)(iv)(A)(*1*)(*i*) of this section. Shortly after completion of the process set forth in paragraph (a)(7)(viii)(D) of this section, NMFS will announce through notice in the Federal Register whether the Bering Sea Trawl CV A-Season Sector Limitation will be in effect for the upcoming fishing year.
 
-(D) *Annual notification of intent to process Aleutian Islands Pacific cod* - (*1*) *Submission of notification.* The provisions of paragraph (a)(7)(viii)(E) of this section will apply if the either the City Manager of the City of Adak or the City Administrator of the City of Atka submits to NMFS a timely and complete notification of its intent to process Aleutian Islands Pacific cod during the upcoming fishing year. This notification must be submitted annually to NMFS using the methods described below.
+(D) *Annual notification of intent to process Aleutian Islands Pacific cod*—(*1*) *Submission of notification.* The provisions of paragraph (a)(7)(viii)(E) of this section will apply if the either the City Manager of the City of Adak or the City Administrator of the City of Atka submits to NMFS a timely and complete notification of its intent to process Aleutian Islands Pacific cod during the upcoming fishing year. This notification must be submitted annually to NMFS using the methods described below.
 
 (*2*) *Submittal method.* An official notification of intent to process Aleutian Islands Pacific cod during the upcoming fishing year in the form of a letter or memorandum signed by the City Manager of the City of Adak or the City Administrator of the City of Atka must be submitted by certified mail through the United States Postal Service to: NMFS Alaska Region, Attn: Regional Administrator, P. O. Box 21668, Juneau, AK 99802. The City Manager or City Administrator must also submit an electronic copy of the official notification of intent and the certified mail receipt with postmark via email to *nmfs.akr.inseason@noaa.gov.* Email submission is in addition to submission via U.S. Postal Service; email submission does not replace the requirement to submit an official notification of intent via U.S. Postal Service.
 
@@ -239,7 +239,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*5*) *Harvest of Aleutian Islands Catcher Vessel Harvest Set-Aside.* If the Aleutian Islands Catcher Vessel Harvest Set-Aside is fully harvested prior to March 15, then paragraph (a)(7)(viii)(E)(*1*) of this section will not apply for the remainder of the fishing year.
 
-(8) *BSAI Atka mackerel* - (i) *Jig gear.* Vessels using jig gear will be allocated up to 2 percent of the TAC of Atka mackerel specified for the Eastern Aleutian Islands District and Bering Sea subarea, after subtraction of reserves, based on the following criteria:
+(8) *BSAI Atka mackerel*—(i) *Jig gear.* Vessels using jig gear will be allocated up to 2 percent of the TAC of Atka mackerel specified for the Eastern Aleutian Islands District and Bering Sea subarea, after subtraction of reserves, based on the following criteria:
 
 (A) The amount of Atka mackerel harvested by vessels using jig gear during recent fishing years;
 
@@ -275,25 +275,25 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (*2*) Atka mackerel ITAC assigned for harvest by the Amendment 80 limited access fishery in the B season may not be harvested in the A season.
 
-(v) *BSAI trawl limited access sector allocation* - (A) *BSAI trawl limited access sector directed fishing allowance.* The amount of Atka mackerel ITAC assigned as a directed fishing allowance to the BSAI trawl limited access sector is established in Table 33 to this part.
+(v) *BSAI trawl limited access sector allocation*—(A) *BSAI trawl limited access sector directed fishing allowance.* The amount of Atka mackerel ITAC assigned as a directed fishing allowance to the BSAI trawl limited access sector is established in Table 33 to this part.
 
 (B) *BSAI trawl limited access sector incidental catch allowance and ITAC rollover.* If, during a fishing year, the Regional Administrator determines that a portion of the Atka mackerel incidental catch allowance or ITAC assigned to the BSAI trawl limited access sector is unlikely to be harvested, the Regional Administrator may issue inseason notification in the Federal Register that reallocates that remaining amount of Atka mackerel directed fishing allowance to Amendment 80 cooperatives, according to the procedures established under § 679.91(f).
 
 (9) *BSAI shortraker rockfish and rougheye rockfish.* After subtraction of reserves, the TAC of shortraker rockfish and rougheye rockfish specified for the Aleutian Islands subarea will be allocated 30 percent to vessels using non-trawl gear and 70 percent to vessels using trawl gear.
 
-(10) *Amendment 80 species except Pacific cod and Atka mackerel* - (i) *ITAC allocation to the Amendment 80 and BSAI trawl limited access sectors.* The remainder of the TACs for each Amendment 80 species other than Atka mackerel and Pacific cod, after subtraction of the CDQ reserve and incidental catch allowance for the BSAI trawl limited access sector and vessels using non-trawl gear, will be allocated as ITAC to the Amendment 80 and BSAI trawl limited access sectors.
+(10) *Amendment 80 species except Pacific cod and Atka mackerel*—(i) *ITAC allocation to the Amendment 80 and BSAI trawl limited access sectors.* The remainder of the TACs for each Amendment 80 species other than Atka mackerel and Pacific cod, after subtraction of the CDQ reserve and incidental catch allowance for the BSAI trawl limited access sector and vessels using non-trawl gear, will be allocated as ITAC to the Amendment 80 and BSAI trawl limited access sectors.
 
 (ii) *Amendment 80 sector ITAC.* The allocation of ITAC for each Amendment 80 species other than Atka mackerel and Pacific cod to the Amendment 80 sector is established in Tables 33 and 34 to this part. The allocation of these species to the Amendment 80 sector will be further divided into separate allocations for each Amendment 80 cooperative and the Amendment 80 limited access fishery as described under § 679.91.
 
-(iii) *BSAI trawl limited access sector allocation* - (A) *BSAI trawl limited access sector directed fishing allowance.* The amount of ITAC for each Amendment 80 species other than Atka mackerel and Pacific cod assigned as a directed fishing allowance to the BSAI trawl limited access sector is established in Tables 33 and 34 to this part.
+(iii) *BSAI trawl limited access sector allocation*—(A) *BSAI trawl limited access sector directed fishing allowance.* The amount of ITAC for each Amendment 80 species other than Atka mackerel and Pacific cod assigned as a directed fishing allowance to the BSAI trawl limited access sector is established in Tables 33 and 34 to this part.
 
 (B) *BSAI trawl limited access sector ITAC rollover.* If, during a fishing year, the Regional Administrator determines that a portion of the incidental catch allowance or ITAC assigned to the BSAI trawl limited access sector for each Amendment 80 species other than Atka mackerel and Pacific cod is unlikely to be harvested, the Regional Administrator may issue inseason notification in the Federal Register that reallocates that remaining amount to Amendment 80 cooperatives, according to the procedures established under § 679.91(f).
 
 (11) *All other groundfish TAC.* The initial TAC for each target species and the “other species” category will be 85 percent of the TAC as provided under paragraph (b) of this section.
 
-(12) *GOA Pacific cod TAC* - (i) *Seasonal allowances by sector.* The Western and Central GOA Pacific cod TACs will be seasonally apportioned to the jig sector such that 60 percent of the TAC is apportioned to the A season and 40 percent of the TAC is apportioned to the B season, as specified in § 679.23(d)(3), before TAC is apportioned among other non-jig sectors. The Western and Central GOA Pacific cod TACs will be seasonally apportioned among the non-jig sectors such that 63.84 percent of the Western GOA TAC is apportioned to the A season and 36.16 percent of the Western GOA TAC is apportioned to the B season, and 64.16 percent of the Central GOA TAC is apportioned to the A season and 35.84 percent of the Central GOA TAC is apportioned to the B season, as specified in § 679.23(d)(3).
+(12) *GOA Pacific cod TAC*—(i) *Seasonal allowances by sector.* The Western and Central GOA Pacific cod TACs will be seasonally apportioned to the jig sector such that 60 percent of the TAC is apportioned to the A season and 40 percent of the TAC is apportioned to the B season, as specified in § 679.23(d)(3), before TAC is apportioned among other non-jig sectors. The Western and Central GOA Pacific cod TACs will be seasonally apportioned among the non-jig sectors such that 63.84 percent of the Western GOA TAC is apportioned to the A season and 36.16 percent of the Western GOA TAC is apportioned to the B season, and 64.16 percent of the Central GOA TAC is apportioned to the A season and 35.84 percent of the Central GOA TAC is apportioned to the B season, as specified in § 679.23(d)(3).
 
-(A) *Western GOA Regulatory Area* - *Jig sector.* A portion of the annual Pacific cod TAC will be allocated to vessels with an FFP that use jig gear, as determined in the annual harvest specification under paragraph (c)(7) of this section, before TAC is apportioned among other non-jig sectors. Other Pacific cod sector allowances are apportioned after allocation to the jig sector based on gear type and operation type as follows:
+(A) *Western GOA Regulatory Area*—*Jig sector.* A portion of the annual Pacific cod TAC will be allocated to vessels with an FFP that use jig gear, as determined in the annual harvest specification under paragraph (c)(7) of this section, before TAC is apportioned among other non-jig sectors. Other Pacific cod sector allowances are apportioned after allocation to the jig sector based on gear type and operation type as follows:
 
 |          Sector           |         Gear type         |           Operation type           |Seasonal allowances|     |
 |---------------------------|---------------------------|------------------------------------|-------------------|-----|
@@ -305,7 +305,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 |            (5)            |            Pot            |Catcher Vessel and Catcher/Processor|       19.80       |18.20|
 |            (6)            |         Nontrawl          |                Any                 |       0.00        |0.00 |
 
-(B) *Central GOA Regulatory Area* - *Jig sector.* A portion of the annual Pacific cod TAC will be allocated to vessels with an FFP that use jig gear, as determined in the annual harvest specification under paragraph (c)(7) of this section, before TAC is apportioned among other non-jig sectors. Other Pacific cod sector allowances are apportioned after allocation to the jig sector based on gear type, operation type, and length overall as follows:
+(B) *Central GOA Regulatory Area*—*Jig sector.* A portion of the annual Pacific cod TAC will be allocated to vessels with an FFP that use jig gear, as determined in the annual harvest specification under paragraph (c)(7) of this section, before TAC is apportioned among other non-jig sectors. Other Pacific cod sector allowances are apportioned after allocation to the jig sector based on gear type, operation type, and length overall as follows:
 
 |          Sector           |         Gear type         |           Operation type           |Length overall in feet|Seasonal allowances|        |
 |---------------------------|---------------------------|------------------------------------|----------------------|-------------------|--------|
@@ -318,11 +318,11 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 |            (6)            |            Pot            |Catcher Vessel and Catcher/Processor|         Any          |     17.82972      |9.97506 |
 |            (7)            |         Nontrawl          |                Any                 |         Any          |       0.00        |  0.00  |
 
-(ii) *Reapportionment of TAC* - (A) The Regional Administrator may apply any underage or overage of Pacific cod harvest by each sector from one season to the subsequent season. In adding or subtracting any underages or overages to the subsequent season, the Regional Administrator shall consider the incidental catch and any catch in the directed fishery by each sector.
+(ii) *Reapportionment of TAC*—(A) The Regional Administrator may apply any underage or overage of Pacific cod harvest by each sector from one season to the subsequent season. In adding or subtracting any underages or overages to the subsequent season, the Regional Administrator shall consider the incidental catch and any catch in the directed fishery by each sector.
 
 (B) If, during a fishing year, the Regional Administrator determines that a sector will be unable to harvest the entire amount of Pacific cod allocated to that sector under (a)(12)(i)(A) or (B) of this section, the Regional Administrator will reallocate the projected unused amount of Pacific cod to other sectors through notification in the Federal Register. Any reallocation decision by the Regional Administrator would consider a reallocation of the projected unused allocation to the CV sectors first, then to the combined CV and C/P pot sector, and then to all other C/P sectors, taking into account the capability of a sector, as determined by the NMFS Alaska Regional Administrator, to harvest the remaining Pacific cod TAC.
 
-(iii) *Catch accounting* - (A) Incidental Pacific cod harvested between the closure of the A season and opening of the B season shall be deducted from the B season TAC apportionment for that sector.
+(iii) *Catch accounting*—(A) Incidental Pacific cod harvested between the closure of the A season and opening of the B season shall be deducted from the B season TAC apportionment for that sector.
 
 (B) Each license holder that is assigned an LLP license with a catcher/processor operation type endorsement that is not assigned a catcher vessel operation type endorsement under the provisions at § 679.4(k)(10)(vii)(A) and (B) shall have all incidental and direct catch of Pacific cod deducted from the catcher/processor sector allocation and gear type designation corresponding to the gear used by that vessel.
 
@@ -334,7 +334,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iv) *Processing caps for FFP licensed vessels.* In the Western GOA, no more than 2 percent of the total Pacific cod TAC allocated to the Western GOA regulatory area can be delivered for processing to vessels operating under the authority of an FFP.
 
-(v) *Processing caps for FPP licensed vessels operating as CQE floating processors.* Harvesting vessels may deliver Pacific cod harvested in the directed Pacific cod TAC fishery, if the processing vessel receiving the Pacific cod -
+(v) *Processing caps for FPP licensed vessels operating as CQE floating processors.* Harvesting vessels may deliver Pacific cod harvested in the directed Pacific cod TAC fishery, if the processing vessel receiving the Pacific cod—
 
 (A) Does not meet the definition of a stationary floating processor at § 679.2;
 
@@ -342,19 +342,19 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (C) Is located within the marine municipal boundaries of a CQE community in the State waters adjacent to the Central or Western GOA as described in Table 21 to this part; and
 
-(D) The total amount of Pacific cod received or processed by all CQE floating processors does not exceed -
+(D) The total amount of Pacific cod received or processed by all CQE floating processors does not exceed—
 
 (*1*) 3 percent of the total Western GOA Pacific cod TAC; or
 
 (*2*) 3 percent of the total Central GOA Pacific cod TAC.
 
-(b) *Reserves* - (1) *BSAI* - (i) *Nonspecified reserve.* Fifteen percent of the BSAI TAC for each target species, except pollock, the hook-and-line and pot gear allocation for sablefish, and the Amendment 80 species, which includes Pacific cod, is automatically placed in the nonspecified reserve before allocation to any sector. The remaining 85 percent of each TAC is apportioned to the initial TAC for each target species that contributed to the nonspecified reserve. The nonspecified reserve is not designated by species or species group. Any amount of the nonspecified reserve may be apportioned to target species that contributed to the nonspecified reserve, provided that such apportionments are consistent with paragraph (a)(3) of this section and do not result in overfishing of a target species.
+(b) *Reserves*—(1) *BSAI*—(i) *Nonspecified reserve.* Fifteen percent of the BSAI TAC for each target species, except pollock, the fixed gear allocation for sablefish, and the Amendment 80 species, which includes Pacific cod, is automatically placed in the nonspecified reserve before allocation to any sector. The remaining 85 percent of each TAC is apportioned to the initial TAC for each target species that contributed to the nonspecified reserve. The nonspecified reserve is not designated by species or species group. Any amount of the nonspecified reserve may be apportioned to target species that contributed to the nonspecified reserve, provided that such apportionments are consistent with paragraph (a)(3) of this section and do not result in overfishing of a target species.
 
-(ii) *CDQ reserves* - (A) *Pollock CDQ reserves* - (*1*) *Bering Sea.* In the annual harvest specifications required by paragraph (c) of this section, 10 percent of the Bering Sea subarea pollock TAC will be allocated to a CDQ reserve as a directed fishing allowance.
+(ii) *CDQ reserves*—(A) *Pollock CDQ reserves*—(*1*) *Bering Sea.* In the annual harvest specifications required by paragraph (c) of this section, 10 percent of the Bering Sea subarea pollock TAC will be allocated to a CDQ reserve as a directed fishing allowance.
 
 (*2*) *Aleutian Islands subarea and Bogoslof District.* In the annual harvest specifications required by paragraph (c) of this section, 10 percent of the Aleutian Islands subarea and Bogoslof District pollock TACs will be allocated to a CDQ reserve as a directed fishing allowance unless the Aleutian Islands subarea or Bogoslof District is closed to directed fishing for pollock by regulation. If the Aleutian Islands subarea and/or Bogoslof District is closed to directed fishing for pollock by regulation, then no pollock CDQ reserve will be established for those areas and incidental harvest of pollock by CDQ groups will accrue against the incidental catch allowance for pollock established under paragraph (a)(5)(i)(A)(*1*) of this section.
 
-(B) *Fixed gear sablefish CDQ reserves.* Twenty percent of the hook-and-line or pot gear allocation of sablefish established under paragraphs (a)(4)(iii)(A) and (a)(4)(iv)(A) of this section will be allocated to a CDQ reserve for each subarea.
+(B) *Fixed gear sablefish CDQ reserves.* Twenty percent of the fixed gear allocation of sablefish established under paragraphs (a)(4)(iii)(A) and (a)(4)(iv)(A) of this section will be allocated to a CDQ reserve for each subarea.
 
 (C) *CDQ reserves for Amendment 80 species.* An amount equal to 10.7 percent of the BSAI TACs for Atka mackerel, Aleutian Islands Pacific ocean perch, yellowfin sole, rock sole, flathead sole, and Pacific cod will be allocated to a CDQ reserve for each of these species by management area, subarea, or district.
 
@@ -382,15 +382,15 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (ii) *Pacific cod reapportionment.* Any amounts of the GOA reserve that are reapportioned to the GOA Pacific cod fishery as provided by paragraph (b) of this section must be apportioned in the same proportion specified in paragraphs (a)(6)(ii) and (a)(12)(i) of this section.
 
-(3) *Apportionment of reserves* - (i) *Notification.* (A) As soon as practicable after April 1, June 1, and August 1, and on such other dates as NMFS determines appropriate, NMFS will, by notification in the Federal Register, apportion all or part of the BSAI or GOA reserve in accordance with this paragraph (b).
+(3) *Apportionment of reserves*—(i) *Notification.* (A) As soon as practicable after April 1, June 1, and August 1, and on such other dates as NMFS determines appropriate, NMFS will, by notification in the Federal Register, apportion all or part of the BSAI or GOA reserve in accordance with this paragraph (b).
 
 (B) No apportionment, retention, or PSC limit adjustment may take effect until notification has been published in the Federal Register with a statement of the findings upon which the apportionment, retention, or adjustment is based.
 
-(ii) *Apportionment* - (A) *General.* Except as provided in paragraph (b)(3)(ii)(B) of this section, NMFS will apportion the amount of BSAI or GOA reserve that will be harvested by U.S. vessels during the remainder of the year.
+(ii) *Apportionment*—(A) *General.* Except as provided in paragraph (b)(3)(ii)(B) of this section, NMFS will apportion the amount of BSAI or GOA reserve that will be harvested by U.S. vessels during the remainder of the year.
 
 (B) *Exception.* Part or all of the BSAI or GOA reserve may be withheld if an apportionment would adversely affect the conservation of groundfish resources or prohibited species.
 
-(iii) *Public comment* - (A) *Prior comment.* NMFS will provide all interested persons an opportunity to comment on the proposed apportionments, retentions, or PSC limit adjustments under this paragraph (b) before such apportionments, retentions, or adjustments are made, unless NMFS finds that there is good cause for not providing a prior comment opportunity, and publishes the reasons therefor in the notification of apportionment, retention, or adjustment.
+(iii) *Public comment*—(A) *Prior comment.* NMFS will provide all interested persons an opportunity to comment on the proposed apportionments, retentions, or PSC limit adjustments under this paragraph (b) before such apportionments, retentions, or adjustments are made, unless NMFS finds that there is good cause for not providing a prior comment opportunity, and publishes the reasons therefor in the notification of apportionment, retention, or adjustment.
 
 (B) *Submittal dates.* Comments provided for in this paragraph (b)(3)(iii) must be received by NMFS not later than 5 days before April 1, June 1, and August 1, or other dates that may be specified.
 
@@ -400,7 +400,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (E) *Data available.* The Regional Administrator will make available to the public during business hours the aggregate data upon which any preliminary TAC or PSC limit figure is based or the data upon which any apportionment or retention of surplus or reserve, or PSC limit adjustment was or is proposed to be based. These data will be available for a sufficient period to facilitate informed comment by interested persons.
 
-(c) *Annual specifications* - (1) *Proposed specifications* - (i) *Notification.* As soon as practicable after consultation with the Council, NMFS will publish proposed specifications for the groundfish fisheries in the BSAI and the GOA.
+(c) *Annual specifications*—(1) *Proposed specifications*—(i) *Notification.* As soon as practicable after consultation with the Council, NMFS will publish proposed specifications for the groundfish fisheries in the BSAI and the GOA.
 
 (ii) *Public comment.* NMFS will accept public comment on the proposed specifications established by this section and by § 679.21 for a period specified in the notice of proposed specifications published in the Federal Register.
 
@@ -412,7 +412,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (2) [Reserved]
 
-(3) *Final specifications* - (i) *Procedure and notification.* NMFS will consider comments received on the proposed specifications and, after consultation with the Council, will publish a notice of final specifications in the Federal Register unless NMFS determines that the final specifications would not be a logical outgrowth of the notice of proposed specifications. In that event, NMFS will either:
+(3) *Final specifications*—(i) *Procedure and notification.* NMFS will consider comments received on the proposed specifications and, after consultation with the Council, will publish a notice of final specifications in the Federal Register unless NMFS determines that the final specifications would not be a logical outgrowth of the notice of proposed specifications. In that event, NMFS will either:
 
 (A) Publish a revised notice of proposed specifications in the Federal Register for public comment, and after considering comments received on the revised proposed specifications, publish a notice of final specifications in the Federal Register; or
 
@@ -424,7 +424,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (B) The final harvest specifications will specify for up to two fishing years the annual ABC surpluses, ABC reserves, CDQ ABC reserves, CDQ ABC reserves for each CDQ group, Amendment 80 ABC reserves, and Amendment 80 ABC reserves for each Amendment 80 cooperative for flathead sole, rock sole, and yellowfin sole.
 
-(4) *AFA and inshore/offshore allocations* - (i) *BSAI pollock.* The annual harvest specifications will specify the allocation of pollock for processing by each AFA industry component in the BSAI, and any seasonal allowances thereof, as authorized under paragraph (a)(5) of this section.
+(4) *AFA and inshore/offshore allocations*—(i) *BSAI pollock.* The annual harvest specifications will specify the allocation of pollock for processing by each AFA industry component in the BSAI, and any seasonal allowances thereof, as authorized under paragraph (a)(5) of this section.
 
 (ii) *GOA pollock.* The annual harvest specifications will specify the allocation of GOA pollock for processing by the inshore component in the GOA and the offshore component in the GOA, and any seasonal allowances thereof, as authorized under paragraphs (a)(5) and (a)(6) of this section.
 
@@ -436,17 +436,17 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (7) *Western and Central GOA Pacific cod allocations.* The proposed and final harvest specifications will specify the allocation of GOA Pacific cod among gear types and any seasonal allowances thereof, as authorized under paragraph (a)(12) of this section.
 
-(d) *Fishery closures* - (1) *Directed fishing allowance* - (i) *General.* If the Regional Administrator determines that any allocation or apportionment of a target species specified under paragraph (c) of this section has been or will be reached, the Regional Administrator may establish a directed fishing allowance for that species or species group.
+(d) *Fishery closures*—(1) *Directed fishing allowance*—(i) *General.* If the Regional Administrator determines that any allocation or apportionment of a target species specified under paragraph (c) of this section has been or will be reached, the Regional Administrator may establish a directed fishing allowance for that species or species group.
 
-(ii) *Specified fishery amounts* - (A) *Inseason adjustments.* The category allocations or apportionments established under paragraph (c) of this section may be revised by inseason adjustments, as defined at § 679.25, for a given species or species group or pollock allowance, as identified by regulatory area, subarea, or district, and, if applicable, as further identified by gear type.
+(ii) *Specified fishery amounts*—(A) *Inseason adjustments.* The category allocations or apportionments established under paragraph (c) of this section may be revised by inseason adjustments, as defined at § 679.25, for a given species or species group or pollock allowance, as identified by regulatory area, subarea, or district, and, if applicable, as further identified by gear type.
 
 (B) *Incidental catch.* In establishing a directed fishing allowance, the Regional Administrator shall consider the amount of the allocation or apportionment established under paragraph (c) of this section that will be taken as incidental catch in directed fishing for other species in the same subarea, regulatory area, or district.
 
-(iii) *Directed fishing closure* - (A) *Notification.* If the Regional Administrator establishes a directed fishing allowance for a fishery allocation or apportionment under this paragraph (d), and that allowance has been or will be reached before the end of the fishing season or year, NMFS will publish notification in the Federal Register prohibiting directed fishing in the specified subarea, regulatory area, or district.
+(iii) *Directed fishing closure*—(A) *Notification.* If the Regional Administrator establishes a directed fishing allowance for a fishery allocation or apportionment under this paragraph (d), and that allowance has been or will be reached before the end of the fishing season or year, NMFS will publish notification in the Federal Register prohibiting directed fishing in the specified subarea, regulatory area, or district.
 
 (B) *Retention of incidental species.* Except as described in § 679.20(e)(3)(iii) and § 679.20(j), if directed fishing for a target species or species group is prohibited, a vessel may not retain that incidental species in an amount that exceeds the maximum retainable amount, as calculated under paragraphs (e) and (f) of this section, at any time during a fishing trip.
 
-(iv) *AFA sideboard limitations* - (A) If the Regional Administrator determines that any sideboard harvest limit for a group of AFA vessels established under § 679.64 has been or will be reached, the Regional Administrator may establish a sideboard directed fishing allowance for the species or species group applicable only to the identified group of AFA vessels.
+(iv) *AFA sideboard limitations*—(A) If the Regional Administrator determines that any sideboard harvest limit for a group of AFA vessels established under § 679.64 has been or will be reached, the Regional Administrator may establish a sideboard directed fishing allowance for the species or species group applicable only to the identified group of AFA vessels.
 
 (B) In establishing a directed fishing allowance under paragraph (d)(1)(iv)(A) of this section, the Regional Administrator will consider the amount of the sideboard limit established for a group of AFA vessels under § 679.64 that will be taken as incidental catch by those vessels in directed fishing for other species.
 
@@ -454,13 +454,13 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (D) Species or species groups for which directed fishing for sideboard limits by AFA vessels is prohibited are listed in Tables 54, 55, and 56 to this part.
 
-(v) *Amendment 80 GOA sideboard limits - GOA groundfish.* (A) If the Regional Administrator determines that a GOA sideboard limit for a GOA groundfish species as described under Table 37 to this part is sufficient to support a directed fishing allowance for that species, the Regional Administrator may establish a directed fishing allowance for the species applicable only to Amendment 80 vessels subject to the GOA groundfish sideboard limit.
+(v) *Amendment 80 GOA sideboard limits—GOA groundfish.* (A) If the Regional Administrator determines that a GOA sideboard limit for a GOA groundfish species as described under Table 37 to this part is sufficient to support a directed fishing allowance for that species, the Regional Administrator may establish a directed fishing allowance for the species applicable only to Amendment 80 vessels subject to the GOA groundfish sideboard limit.
 
 (B) If the Regional Administrator determines that a GOA groundfish sideboard limit as described under Table 37 to this part is insufficient to support a directed fishing allowance by Amendment 80 vessels for that species, then the Regional Administrator may set the directed fishing allowance to zero for that species for Amendment 80 vessels.
 
 (C) Upon determining that a GOA sideboard limit as described under Table 37 to this part for a species is or will be reached, the Regional Administrator will publish notification in the Federal Register prohibiting directed fishing for that species by the Amendment 80 vessels to which the GOA sideboard limit applies.
 
-(vi) *Amendment 80 GOA sideboard limits - halibut PSC.* (A) If the Regional Administrator determines that a GOA sideboard limit for halibut PSC is sufficient to support a directed fishery for a species or species group, management area, and season specified in Table 38 to this part, then the Regional Administrator may establish a halibut PSC sideboard limit for that species or species group, management area, and season applicable to the Amendment 80 vessels to which the halibut PSC limit applies.
+(vi) *Amendment 80 GOA sideboard limits—halibut PSC.* (A) If the Regional Administrator determines that a GOA sideboard limit for halibut PSC is sufficient to support a directed fishery for a species or species group, management area, and season specified in Table 38 to this part, then the Regional Administrator may establish a halibut PSC sideboard limit for that species or species group, management area, and season applicable to the Amendment 80 vessels to which the halibut PSC limit applies.
 
 (B) If the Regional Administrator determines that a halibut PSC sideboard limit is insufficient to support a directed fishery for a species or species group, management area, and season as specified in Table 38 to this part then the Regional Administrator may set the halibut PSC sideboard limit for that species or species group to zero for the Amendment 80 vessels to which the halibut PSC limit applies.
 
@@ -472,7 +472,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (2) *Groundfish as prohibited species closure.* When the Regional Administrator determines that the TAC of any target species specified under paragraph (c) of this section, or the share of any TAC assigned to any type of gear, has been or will be achieved prior to the end of a year, NMFS will publish notification in the Federal Register requiring that target species be treated in the same manner as a prohibited species, as described under § 679.21(a), for the remainder of the year, except rockfish species caught by catcher vessels using hook-and-line, pot, or jig gear as described in § 679.20(j).
 
-(3) *Overfishing closure* - (i) *Notification.* If, in making a determination under paragraph (d)(2) of this section, the Regional Administrator also determines that fishing for other target species or species groups in the area, district or part thereof where the notification applies, may lead to the overfishing of the species or species group for which the allocation or apportionment has been or will be reached, NMFS will publish notification in the Federal Register specifying limitations or prohibitions designed to prevent overfishing of that species or species group.
+(3) *Overfishing closure*—(i) *Notification.* If, in making a determination under paragraph (d)(2) of this section, the Regional Administrator also determines that fishing for other target species or species groups in the area, district or part thereof where the notification applies, may lead to the overfishing of the species or species group for which the allocation or apportionment has been or will be reached, NMFS will publish notification in the Federal Register specifying limitations or prohibitions designed to prevent overfishing of that species or species group.
 
 (ii) *Limitations and prohibitions.* These limitations and prohibitions may prohibit directed fishing for other species or species groups in the area, district, or part thereof where the notification applies, or may limit time, area, or gear types that may be used in directed fishing for the other species or species groups.
 
@@ -486,7 +486,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (4) *Harvest control for pollock, Atka mackerel, and Pacific cod.* If a biological assessment of stock condition for pollock, Pacific cod, or Atka mackerel within an area projects that the spawning biomass in that area will be equal to or below 20 percent of the projected unfished spawning biomass during a fishing year, the Regional Administrator will prohibit the directed fishery for the relevant species within the area. The Regional Administrator will prohibit the directed fishery under this paragraph by notification published in the Federal Register. The directed fishery will remain closed until a subsequent biological assessment projects that the spawning biomass for the species in the area will exceed 20 percent of the projected unfished spawning biomass during a fishing year.
 
-(e) *Maximum retainable amounts (MRA)* - (1) *Proportion of basis species.* The maximum retainable amount of an incidental catch species is calculated as a proportion of the basis species retained on board the vessel using:
+(e) *Maximum retainable amounts (MRA)*—(1) *Proportion of basis species.* The maximum retainable amount of an incidental catch species is calculated as a proportion of the basis species retained on board the vessel using:
 
 (i) The retainable percentages in Table 10 to this part for the GOA species categories (except the Rockfish Program fisheries, which are described in Table 30 to this part for the Rockfish Program fisheries); and
 
@@ -508,11 +508,11 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (v) For all vessels not listed in subpart F of this section, the maximum retainable amount for Atka mackerel harvested in the Bering Sea subarea is calculated at the end of each offload and is based on the basis species harvested since the previous offload. For purposes of this paragraph, offload means the removal of any fish or fish product from the vessel that harvested the fish or fish product to any other vessel or to shore.
 
-(f) *Directed fishing calculations and determinations* - (1) *Round-weight equivalents.* Any determination concerning directed fishing, the amount or percentage of any species, species group, or any fish or fish products must be calculated in round-weight equivalents.
+(f) *Directed fishing calculations and determinations*—(1) *Round-weight equivalents.* Any determination concerning directed fishing, the amount or percentage of any species, species group, or any fish or fish products must be calculated in round-weight equivalents.
 
 (2) *Retainable amounts.* Any groundfish species for which directed fishing is closed may not be used to calculate retainable amounts of other groundfish species. Only fish harvested under the CDQ Program may be used to calculate retainable amounts of other CDQ species.
 
-(g) *Allowable retention of pollock roe* - (1) *Percentage of pollock roe.* (i) Pollock roe retained on board a vessel at any time during a fishing trip must not exceed the following percentages of the total round-weight equivalent of pollock, as calculated from the primary pollock product on board the vessel during the same fishing trip:
+(g) *Allowable retention of pollock roe*—(1) *Percentage of pollock roe.* (i) Pollock roe retained on board a vessel at any time during a fishing trip must not exceed the following percentages of the total round-weight equivalent of pollock, as calculated from the primary pollock product on board the vessel during the same fishing trip:
 
 (A) 7 percent in the Gulf of Alaska, and
 
@@ -530,7 +530,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (3) *Pollock product recovery rates (PRRs).* Use the product types and standard PRRs for pollock found in Table 3 to this part to calculate round-weight equivalents for pollock for purposes of this paragraph (g).
 
-(4) *Calculation of retainable pollock roe* - (i) *Round-weight equivalent.* (A) To calculate the amount of pollock roe that can be retained on board during a fishing trip, first calculate the round-weight equivalent by dividing the total amount of primary product on board by the appropriate PRR.
+(4) *Calculation of retainable pollock roe*—(i) *Round-weight equivalent.* (A) To calculate the amount of pollock roe that can be retained on board during a fishing trip, first calculate the round-weight equivalent by dividing the total amount of primary product on board by the appropriate PRR.
 
 (B) To determine the maximum amount of pollock roe that can be retained on board a vessel during the same fishing trip, multiply the round-weight equivalent by 0.07 in the Gulf of Alaska or 0.09 in the Bering Sea and Aleutian Islands.
 
@@ -542,11 +542,11 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (iii) *Two or more products from same fish.* If two or more products, other than roe, are made from the same fish, the maximum amount of pollock roe that can be retained during a fishing trip is determined from the primary product.
 
-(5) *Primary pollock product* - (i) *Process prior to transfer.* Any primary pollock product used to calculate retainable amounts of pollock roe must be frozen, canned, or reduced to meal by the vessel retaining the pollock roe prior to any transfer of the product to another vessel.
+(5) *Primary pollock product*—(i) *Process prior to transfer.* Any primary pollock product used to calculate retainable amounts of pollock roe must be frozen, canned, or reduced to meal by the vessel retaining the pollock roe prior to any transfer of the product to another vessel.
 
 (ii) *No discard of processed product.* Any pollock product that has been processed may not be discarded at sea unless such discarding is necessary to meet other requirements of this part.
 
-(h) *Standard product types and standard PRRs* - (1) *Calculating round-weight equivalents from standard PRRs.* Round-weight equivalents for groundfish products are calculated using the product codes and standard PRRs specified in Table 3 to this part.
+(h) *Standard product types and standard PRRs*—(1) *Calculating round-weight equivalents from standard PRRs.* Round-weight equivalents for groundfish products are calculated using the product codes and standard PRRs specified in Table 3 to this part.
 
 (2) *Adjustments.* The Regional Administrator may adjust standard PRRs and product types specified in Table 3 to this part if he or she determines that existing standard PRRs are inaccurate or if new product types are developed.
 
@@ -560,7 +560,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (v) If NMFS makes any adjustment or announcement without providing a prior notification and opportunity for prior public comment, the Regional Administrator will receive public comments on the adjustment or announcement for a period of 15 days from the date of publication in the Federal Register.
 
-(i) *Forage fish, grenadiers, squids, and sculpins* - (1) *Definition.* See Table 2c to this part.
+(i) *Forage fish, grenadiers, squids, and sculpins*—(1) *Definition.* See Table 2c to this part.
 
 (2) *Applicability.* The provisions of this paragraph (i) apply to all vessels fishing for groundfish in the BSAI or GOA, and to all vessels processing groundfish harvested in the BSAI or GOA.
 
@@ -572,7 +572,7 @@ This section applies to vessels engaged in directed fishing for groundfish in th
 
 (6) *Allowable fish products for squids and sculpins.* Retained catch of squids and sculpins not exceeding the maximum retainable amount may be sold to a processor or processed into any product form, including (but not limited to) fishmeal, bait, and whole fish/food fish, for sale, barter, or trade.
 
-(j) *Full retention of rockfish by catcher vessels using hook-and-line, pot, or jig gear* - (1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit using hook-and-line, pot, or jig gear, must retain and land all rockfish that is caught while fishing for groundfish or IFQ or CDQ halibut in the BSAI or GOA.
+(j) *Full retention of rockfish by catcher vessels using hook-and-line, pot, or jig gear*—(1) *Retention and landing requirements.* The operator of a catcher vessel that is required to have a Federal fisheries permit using hook-and-line, pot, or jig gear, must retain and land all rockfish that is caught while fishing for groundfish or IFQ or CDQ halibut in the BSAI or GOA.
 
 (2) *Maximum commerce allowance (MCA) for rockfish in the BSAI and GOA.* Except as described in §§ 679.20(j)(3) and (4), when rockfish is closed to directed fishing, the operator of a catcher vessel that is required to have a Federal fisheries permit under § 679.4(b), or the manager of a shoreside processor that is required to have a Federal processor permit under § 679.4(f), must dispose of rockfish retained and landed in accordance with paragraph (j)(1) of this section as follows:
 

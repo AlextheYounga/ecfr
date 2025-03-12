@@ -2,7 +2,7 @@
 
 In addition to the general prohibitions specified in § 600.725 of this chapter, it is unlawful for any person to do any of the following:
 
-(a) *Groundfish of the GOA and BSAI* - (1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
+(a) *Groundfish of the GOA and BSAI*—(1) *Federal Fisheries Permit (FFP).* (i) Fish for groundfish in the BSAI or GOA with a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4.
 
 (ii) Conduct directed fishing for Atka mackerel, Pacific cod, or pollock with pot, hook-and-line, or trawl gear from a vessel of the United States that does not have on board a legible copy of a valid FFP issued under § 679.4 and endorsed for Atka mackerel, Pacific cod, or pollock under § 679.4(b).
 
@@ -62,7 +62,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iv) Intentionally submit false information on any report, application, or statement required under this part.
 
-(11) *Buying station or tender vessel* - (i) *Tender vessel.* Use a catcher vessel or catcher/processor as a tender vessel before offloading all groundfish or groundfish product harvested or processed by that vessel.
+(11) *Buying station or tender vessel*—(i) *Tender vessel.* Use a catcher vessel or catcher/processor as a tender vessel before offloading all groundfish or groundfish product harvested or processed by that vessel.
 
 (ii) *Associated processor.* Function as a tender vessel or buying station without an associated processor.
 
@@ -72,7 +72,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (i) Fail to release the halibut outboard a vessel's rails.
 
-(ii) Release halibut caught with longline gear by any method other than -
+(ii) Release halibut caught with longline gear by any method other than—
 
 (A) Cutting the gangion.
 
@@ -84,7 +84,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iv) Allow halibut caught with longline gear to contact the vessel, if such contact causes, or is capable of causing, the halibut to be stripped from the hook.
 
-(14) *Trawl gear performance standard* - (i) *BSAI.* Use a vessel to participate in a directed fishery for pollock using trawl gear and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
+(14) *Trawl gear performance standard*—(i) *BSAI.* Use a vessel to participate in a directed fishery for pollock using trawl gear and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
 
 (ii) *GOA.* Use a vessel to participate in a directed fishery for pollock using trawl gear when directed fishing for pollock with nonpelagic trawl gear is closed and have on board the vessel, at any particular time, 20 or more crabs of any species that have a carapace width of more than 1.5 inches (38 mm) at the widest dimension.
 
@@ -108,7 +108,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (22) *VMS for non-pelagic trawl and dredge gear vessels in the GOA.* Operate a federally permitted vessel in the GOA with non-pelagic trawl or dredge gear onboard without an operable VMS and without complying with the requirements at § 679.28(f).
 
-(b) *Prohibitions specific to the GOA* - (1) *Southeast outside trawl closure.* Use trawl gear in the GOA east of 140° W long.
+(b) *Prohibitions specific to the GOA*—(1) *Southeast outside trawl closure.* Use trawl gear in the GOA east of 140° W long.
 
 (2) *Catcher vessel harvest limit for pollock.* (i) Retain more than 300,000 lb (136 mt) of unprocessed pollock on board a catcher vessel issued a FFP at any time during a fishing trip as defined at § 679.2;
 
@@ -182,7 +182,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (2) *Prohibited species.* Conduct any fishing contrary to a notification issued under § 679.21.
 
-(3) *Parallel Pacific cod fisheries - participation requirements.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod from State of Alaska waters adjacent to the BSAI, when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*2*) through (*9*), unless:
+(3) *Parallel Pacific cod fisheries—participation requirements.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod from State of Alaska waters adjacent to the BSAI, when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A)(*2*) through (*9*), unless:
 
 (i) That non-trawl vessel is designated on both:
 
@@ -214,7 +214,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (*4*) A Pacific cod gear type endorsement.
 
-(4) *Parallel Pacific cod fisheries - closures.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod with trawl, pot, or hook-and-line gear from State of Alaska waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A) for trawl, pot, or hook-and-line gear, if directed fishing for Pacific cod is not open for the sector to which the vessel belongs in Federal waters.
+(4) *Parallel Pacific cod fisheries—closures.* Use a vessel named or required to be named on an FFP to catch and retain Pacific cod with trawl, pot, or hook-and-line gear from State of Alaska waters adjacent to the BSAI when Pacific cod caught by that vessel is deducted from the Federal TAC specified under § 679.20(a)(7)(ii)(A) for trawl, pot, or hook-and-line gear, if directed fishing for Pacific cod is not open for the sector to which the vessel belongs in Federal waters.
 
 (5) Conduct directed fishing for flatfish as defined in § 679.2 with a vessel required to be federally permitted in any reporting area of the Bering Sea subarea as described in Figure 1 to this part without meeting the requirements for modified nonpelagic trawl gear specified in § 679.24(f).
 
@@ -226,7 +226,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (3) For a CDQ group, exceed a CDQ or a halibut PSQ.
 
-(4) *Catch Accounting* - (i) *General.* (A) For the operator of a catcher/processor using trawl gear or a mothership, to harvest or take deliveries of CDQ or PSQ species without a valid scale inspection report signed by an authorized scale inspector under § 679.28(b)(2) on board the vessel.
+(4) *Catch Accounting*—(i) *General.* (A) For the operator of a catcher/processor using trawl gear or a mothership, to harvest or take deliveries of CDQ or PSQ species without a valid scale inspection report signed by an authorized scale inspector under § 679.28(b)(2) on board the vessel.
 
 (B) For the operator of a vessel required to have an observer sampling station described at § 679.28(d), to harvest or take deliveries of CDQ or PSQ species without a valid observer sampling station inspection report issued by NMFS under § 679.28(d)(10) on board the vessel.
 
@@ -244,17 +244,17 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (ii) *Fixed gear sablefish.* For any person on a vessel using fixed gear that is fishing for a CDQ group with an allocation of fixed gear sablefish CDQ, to discard sablefish harvested with fixed gear unless retention of sablefish is not authorized under § 679.23(e)(4)(ii) or, in waters within the State of Alaska, discard is required by laws of the State of Alaska.
 
-(5) *Prohibited species catch* - (i) *Crab* - (A) *Zone 1.* For the operator of a vessel, to use trawl gear to harvest groundfish CDQ in Zone 1 after the CDQ group's red king crab PSQ or *C. bairdi* Tanner crab PSQ in Zone 1 is attained.
+(5) *Prohibited species catch*—(i) *Crab*—(A) *Zone 1.* For the operator of a vessel, to use trawl gear to harvest groundfish CDQ in Zone 1 after the CDQ group's red king crab PSQ or *C. bairdi* Tanner crab PSQ in Zone 1 is attained.
 
 (B) *Zone 2.* For the operator of a vessel, to use trawl gear to harvest groundfish CDQ in Zone 2 after the CDQ group's PSQ for *C. bairdi* Tanner crab in Zone 2 is attained.
 
 (C) *COBLZ.* For the operator of a vessel, to use trawl gear to harvest groundfish CDQ in the *C. opilio* Bycatch Limitation Zone after the CDQ group's PSQ for *C. opilio* Tanner crab is attained.
 
-(ii) *Salmon* - (A) *Discard of salmon.* For any person, to discard salmon from a catcher vessel, catcher/processor, mothership, shoreside processor, or SFP or transfer or process any salmon under the PSD Program at § 679.26, if the salmon were taken incidental to a directed fishery for pollock CDQ in the Bering Sea, until the number of salmon has been determined by an observer and the collection of scientific data or biological samples from the salmon has been completed.
+(ii) *Salmon*—(A) *Discard of salmon.* For any person, to discard salmon from a catcher vessel, catcher/processor, mothership, shoreside processor, or SFP or transfer or process any salmon under the PSD Program at § 679.26, if the salmon were taken incidental to a directed fishery for pollock CDQ in the Bering Sea, until the number of salmon has been determined by an observer and the collection of scientific data or biological samples from the salmon has been completed.
 
 (B) *Non-Chinook salmon.* For the operator of a vessel, to use trawl gear to harvest pollock CDQ in the Chum Salmon Savings Area between September 1 and October 14 after the CDQ group's non-Chinook salmon PSQ is attained, unless the vessel is participating in an approved IPA under § 679.21(f)(12).
 
-(C) *Chinook salmon* - (*1*) *Overages of Chinook salmon PSC allocations.* For a CDQ group, to exceed a Chinook salmon PSC allocation issued under § 679.21(f) as of June 25 for the A season allocation and as of December 1 for the B season allocation.
+(C) *Chinook salmon*—(*1*) *Overages of Chinook salmon PSC allocations.* For a CDQ group, to exceed a Chinook salmon PSC allocation issued under § 679.21(f) as of June 25 for the A season allocation and as of December 1 for the B season allocation.
 
 (*2*) For the operator of a catcher vessel or catcher/processor, to start a new fishing trip for pollock CDQ in the BS in the A season or in the B season, if the CDQ group for which the vessel is fishing has exceeded its Chinook salmon PSC allocation issued under § 679.21(f) for that season.
 
@@ -389,19 +389,19 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (20) Deploy longline pot gear to fish IFQ sablefish in the GOA without marking the gear in accordance with § 679.24(a).
 
-(21) Fail to retrieve and remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel to fish IFQ sablefish in the Southeast Outside District of the GOA when the vessel makes an IFQ landing.
+(21) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel within five days of deploying the gear to fish IFQ sablefish in the Southeast Outside District of the GOA in accordance with § 679.42(l)(5)(iii)(A).
 
-(22) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the Southeast Outside District of the GOA.
+(22) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the Southeast Outside District of the GOA in accordance with § 679.42(l)(5)(iii)(B).
 
-(23) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the West Yakutat District of the GOA and the Central GOA regulatory area.
+(23) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within five days of deploying the gear to fish IFQ sablefish in the West Yakutat District of the GOA, and within seven days of deploying the gear to fish IFQ sablefish in the Central GOA regulatory area, in accordance with § 679.42(l)(5)(iii)(C) and (E).
 
-(24) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within seven days of deploying the gear to fish IFQ sablefish in the Western GOA regulatory area.
+(24) Fail to redeploy or remove from the fishing grounds all deployed longline pot gear that is assigned to, and used by, a catcher vessel or a catcher/processor within seven days of deploying the gear to fish IFQ sablefish in the Western GOA regulatory area in accordance with § 679.42(l)(5)(iii)(D).
 
 (25) Operate a catcher vessel or a catcher/processor using longline pot gear to fish IFQ sablefish or IFQ halibut in the GOA and fail to use functioning VMS equipment as required in § 679.42(k)(2).
 
 (26) Operate a catcher vessel or a catcher/processor using pot gear to fish for IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI and fail to use functioning VMS equipment as required in § 679.42(m).
 
-(g) *North Pacific Observer Program - Observers.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
+(g) *North Pacific Observer Program—Observers.* (1) Forcibly assault, resist, oppose, impede, intimidate, sexually harass, bribe, or interfere with an observer.
 
 (2) Interfere with or bias the sampling procedure employed by an observer, including physical, mechanical, or other sorting or discarding of catch before sampling.
 
@@ -421,7 +421,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (2) Engage in commercial fishing for salmon in the West Area of the Salmon Management Area, defined at § 679.2 and Figure 23 to this part.
 
-(i) *License Limitation Program* - (1) *Number of licenses.* (i) Hold more than 10 groundfish licenses in the name of that person at any time, except as provided in paragraphs (i)(1)(iii) and (i)(1)(v) of this section;
+(i) *License Limitation Program*—(1) *Number of licenses.* (i) Hold more than 10 groundfish licenses in the name of that person at any time, except as provided in paragraphs (i)(1)(iii) and (i)(1)(v) of this section;
 
 (ii) Hold more than five crab species licenses in the name of that person at any time, except as provided in paragraph (i)(1)(iii) of this section; or
 
@@ -459,7 +459,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (12) *Prohibitions specific to directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery as specified at § 679.20(a)(7)(ii)(A).* Use a catcher/processor to receive and process Pacific cod harvested and delivered by a catcher vessel directed fishing in the BSAI non-CDQ Pacific cod trawl catcher vessel fishery without a legible copy on board of a valid groundfish LLP license with Bering Sea or Aleutian Islands area, catcher/processor operation, and BSAI Pacific cod trawl mothership endorsements.
 
-(j) *North Pacific Observer Program - EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
+(j) *North Pacific Observer Program—EM Systems.* (1) Fish without an EM system when a vessel is required to carry an EM system under § 679.51(f).
 
 (2) Fish with an EM system without a copy of a valid NMFS-approved VMP on board when directed fishing in a fishery subject to EM coverage.
 
@@ -485,7 +485,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (k) *Prohibitions specific to the AFA.* It is unlawful for any person to do any of the following:
 
-(1) *Catcher/processors* - (i) *Permit requirement.* Use a catcher/processor to engage in directed fishing for non-CDQ BSAI pollock without a valid AFA catcher/processor permit on board the vessel.
+(1) *Catcher/processors*—(i) *Permit requirement.* Use a catcher/processor to engage in directed fishing for non-CDQ BSAI pollock without a valid AFA catcher/processor permit on board the vessel.
 
 (ii) *Fishing in the GOA.* Use a listed AFA catcher/processor or a catcher/processor designated on a listed AFA catcher/processor permit to harvest any species of fish in the GOA.
 
@@ -497,15 +497,15 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (v) *Directed fishing after a sideboard closure.* Use a listed AFA catcher/processor or a catcher/processor designated on a listed AFA catcher/processor permit to engage in directed fishing for a groundfish species or species group in the BSAI after the Regional Administrator has issued an AFA catcher/processor sideboard directed fishing closure for that groundfish species or species group under §§ 679.20(d)(1)(iv), 679.21(b)(4)(iii), or 679.21(e)(3)(v).
 
-(vi) *Catch weighing* - (A) *Listed AFA catcher/processors and catcher/processors designated on listed AFA catcher/processor permits.* Process any groundfish that was not weighed on a NMFS-approved scale that complies with the requirements of § 679.28(b). Catch may not be sorted before it is weighed and each haul must be sampled by an observer for species composition.
+(vi) *Catch weighing*—(A) *Listed AFA catcher/processors and catcher/processors designated on listed AFA catcher/processor permits.* Process any groundfish that was not weighed on a NMFS-approved scale that complies with the requirements of § 679.28(b). Catch may not be sorted before it is weighed and each haul must be sampled by an observer for species composition.
 
 (B) *Unlisted AFA catcher/processors and catcher/processors designated on unlisted AFA catcher/processor permits.* Process groundfish harvested in the BSAI pollock fishery that was not weighed on a NMFS-approved scale that complies with the requirements of § 679.28(b). Catch may not be sorted before it is weighed and each haul must be sampled by an observer for species composition.
 
-(vii) *Observer sampling station* - (A) *Listed AFA catcher/processors and catcher/processors designated on listed AFA catcher/processor permits.* Process any groundfish without an observer sampling station as described at § 679.28(d). A valid observer sampling station inspection report must be on board at all times when an observer sampling station is required.
+(vii) *Observer sampling station*—(A) *Listed AFA catcher/processors and catcher/processors designated on listed AFA catcher/processor permits.* Process any groundfish without an observer sampling station as described at § 679.28(d). A valid observer sampling station inspection report must be on board at all times when an observer sampling station is required.
 
 (B) *Unlisted AFA catcher/processors and catcher/processors designated on unlisted AFA catcher/processor permits.* Process groundfish harvested in the BSAI pollock fishery without an observer sampling station as described at § 679.28(d). A valid observer sampling station inspection report must be on board at all times when an observer sampling station is required.
 
-(2) *Motherships* - (i) *Permit requirement.* Use a mothership to process pollock harvested in a non-CDQ directed fishery for pollock in the BSAI without a valid AFA permit on board the mothership.
+(2) *Motherships*—(i) *Permit requirement.* Use a mothership to process pollock harvested in a non-CDQ directed fishery for pollock in the BSAI without a valid AFA permit on board the mothership.
 
 (ii) *Processing GOA groundfish.* Use an AFA mothership as a stationary floating processor for Pacific cod in the GOA and a mothership in the GOA during the same year.
 
@@ -513,7 +513,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (iv) *Observer sampling station.* Process any groundfish without an observer sampling station as described at § 679.28(d). A valid observer sampling station inspection report must be on board at all times when an observer sampling station is required.
 
-(3) *AFA inshore processors* - (i) *Permit requirement.* Use a shoreside processor or stationary floating processor to process pollock harvested in a non-CDQ directed fishery for pollock in the BS without a valid AFA inshore processor permit at the facility or on board vessel.
+(3) *AFA inshore processors*—(i) *Permit requirement.* Use a shoreside processor or stationary floating processor to process pollock harvested in a non-CDQ directed fishery for pollock in the BS without a valid AFA inshore processor permit at the facility or on board vessel.
 
 (ii) *Cooperative processing endorsement.* Use a shoreside processor or stationary floating processor required to have an AFA inshore processor permit to process groundfish harvested by a fishery cooperative formed under § 679.62 unless the AFA inshore processor permit contains a valid cooperative pollock processing endorsement.
 
@@ -535,13 +535,13 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (vii) *Restrictions for GOA Pacific cod and GOA pollock.* Use an AFA SFP to process GOA pollock or GOA Pacific cod in any location other than the location at which either GOA pollock or GOA Pacific cod were first processed by that SFP in the year 2002.
 
-(4) *Catcher vessels* - (i) *Permit requirement.* Use a catcher vessel to engage in directed fishing for non-CDQ BS pollock for delivery to any AFA processing sector (catcher/processor, mothership, or inshore) unless the vessel has a valid AFA catcher vessel permit on board that includes an endorsement for the sector of the BS pollock fishery in which the vessel is participating.
+(4) *Catcher vessels*—(i) *Permit requirement.* Use a catcher vessel to engage in directed fishing for non-CDQ BS pollock for delivery to any AFA processing sector (catcher/processor, mothership, or inshore) unless the vessel has a valid AFA catcher vessel permit on board that includes an endorsement for the sector of the BS pollock fishery in which the vessel is participating.
 
 (ii) [Reserved]
 
 (iii) *Groundfish sideboard closures.* Use an AFA catcher vessel to engage in directed fishing for a groundfish species or species group in the BSAI or GOA after the Regional Administrator has issued an AFA catcher vessel sideboard directed fishing closure for that groundfish species or species group under §§ 679.20(d)(1)(iv), 679.21(b)(4)(iii), or 679.21(e)(3)(iv), if the vessel's AFA permit does not contain a sideboard exemption for that groundfish species or species group.
 
-(5) *AFA inshore fishery cooperatives* - (i) *Overages by vessel.* Use an AFA catcher vessel listed on an AFA inshore cooperative fishing permit, or under contract to a fishery cooperative under § 679.62(c), to harvest non-CDQ BS pollock in excess of the fishery cooperative's annual allocation of pollock specified under § 679.62.
+(5) *AFA inshore fishery cooperatives*—(i) *Overages by vessel.* Use an AFA catcher vessel listed on an AFA inshore cooperative fishing permit, or under contract to a fishery cooperative under § 679.62(c), to harvest non-CDQ BS pollock in excess of the fishery cooperative's annual allocation of pollock specified under § 679.62.
 
 (ii) *Overages by fishery cooperative.* An inshore pollock fishery cooperative is prohibited from exceeding its annual allocation of BS pollock TAC.
 
@@ -549,7 +549,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (7) *Excessive processing shares.* It is unlawful for an AFA entity or a CDQ group to process an amount of BS pollock that exceeds the 30-percent excessive share limit specified under § 679.20(a)(5)(i)(A)(*7*). The amount of BS pollock processed by a CDQ group will be calculated through its proportional ownership of individuals, corporations, or other business concerns that process BS pollock. The owners and operators of the individual processors comprising the AFA entity or CDQ group that process BS pollock will be held jointly and severally liable for exceeding the excessive processing share limit.
 
-(8) *Salmon PSC* - (i) *Discard of salmon.* For any person, to discard any salmon from a catcher vessel, catcher/processor, mothership, or inshore processor, or transfer or process any salmon under the PSD Program at § 679.26, if the salmon were taken incidental to a directed fishery for pollock in the BS before the number of salmon has been determined by an observer and the collection of scientific data or biological samples from the salmon has been completed.
+(8) *Salmon PSC*—(i) *Discard of salmon.* For any person, to discard any salmon from a catcher vessel, catcher/processor, mothership, or inshore processor, or transfer or process any salmon under the PSD Program at § 679.26, if the salmon were taken incidental to a directed fishery for pollock in the BS before the number of salmon has been determined by an observer and the collection of scientific data or biological samples from the salmon has been completed.
 
 (ii) *Catcher/processors and motherships.* For the operator of a catcher/processor or a mothership, to begin sorting catch from a haul from a directed fishery for pollock in the BS before the observer has completed counting the salmon and collecting scientific data or biological samples from the previous haul.
 
@@ -559,13 +559,13 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (B) For the operator of a catcher vessel to fail to secure catch after the completion of catch handling and the collection of scientific data and biological samples as described in § 679.21(f)(15)(ii)(B)(*3*).
 
-(v) *Overages of Chinook salmon PSC allocations* - (A) For an inshore cooperative, the entity representing the AFA catcher/processor sector, or the entity representing the AFA mothership sector, to exceed a Chinook salmon PSC allocation issued under § 679.21(f) as of June 25 for the A season allocation and as of December 1 for the B season allocation.
+(v) *Overages of Chinook salmon PSC allocations*—(A) For an inshore cooperative, the entity representing the AFA catcher/processor sector, or the entity representing the AFA mothership sector, to exceed a Chinook salmon PSC allocation issued under § 679.21(f) as of June 25 for the A season allocation and as of December 1 for the B season allocation.
 
 (B) For a catcher vessel or catcher/processor, to start a fishing trip for pollock in the BS in the A season or in the B season if the vessel is fishing under a transferable Chinook salmon PSC allocation issued to an inshore cooperative, the entity representing the AFA catcher/processor sector, or the entity representing the AFA mothership sector under § 679.21(f) and the inshore cooperative or entity has exceeded its Chinook salmon PSC allocation for that season.
 
 (9) Fail to submit a timely and complete AFA cost recovery fee submission form and fee as required under § 679.66.
 
-(l) *Prohibitions specific to the AI directed pollock fishery* - (1) *Catcher/processors.* (i) Use a catcher/processor vessel to harvest pollock in the AI directed pollock fishery or process pollock harvested in the AI directed pollock fishery without a copy of NMFS' approval letter on board pursuant to § 679.4(m).
+(l) *Prohibitions specific to the AI directed pollock fishery*—(1) *Catcher/processors.* (i) Use a catcher/processor vessel to harvest pollock in the AI directed pollock fishery or process pollock harvested in the AI directed pollock fishery without a copy of NMFS' approval letter on board pursuant to § 679.4(m).
 
 (ii) Process any pollock harvested in the AI directed pollock fishery without complying with catch weighing and observer sampling station requirements set forth at paragraphs (k)(1)(vi) and (k)(1)(vii) of this section, respectively.
 
@@ -603,7 +603,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (m) [Reserved]
 
-(n) *Rockfish Program* - (1) *General.* (i) Use an LLP license assigned to a rockfish cooperative in any rockfish cooperative other than the rockfish cooperative to which that LLP license was initially assigned for that fishing year.
+(n) *Rockfish Program*—(1) *General.* (i) Use an LLP license assigned to a rockfish cooperative in any rockfish cooperative other than the rockfish cooperative to which that LLP license was initially assigned for that fishing year.
 
 (ii) Use an LLP license that was excluded from the Rockfish Program or that opted out of the Rockfish Program in any rockfish cooperative for that calendar year.
 
@@ -667,7 +667,7 @@ In addition to the general prohibitions specified in § 600.725 of this chapter,
 
 (v) Deliver groundfish caught by a catcher vessel directed fishing in the rockfish entry level longline fishery fishing after NMFS has closed directed fishing to the rockfish entry level longline fishery or November 15 of each calendar year, whichever occurs first.
 
-(o) *Amendment 80 Program* - (1) *Amendment 80 vessels.* (i) Use any vessel other than an Amendment 80 vessel to catch any amount of Amendment 80 species, crab PSC, or halibut PSC assigned to the Amendment 80 sector.
+(o) *Amendment 80 Program*—(1) *Amendment 80 vessels.* (i) Use any vessel other than an Amendment 80 vessel to catch any amount of Amendment 80 species, crab PSC, or halibut PSC assigned to the Amendment 80 sector.
 
 (ii) Use an Amendment 80 vessel to catch any amount of Amendment 80 species, crab PSC, or halibut PSC assigned to the BSAI trawl limited access sector.
 

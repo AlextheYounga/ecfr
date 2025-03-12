@@ -35,7 +35,7 @@
 
 (iv) Transfer information, including fish transferred out of the facility or off the vessel.
 
-(4) *Exemptions* - (i) *Catcher vessels less than 60 ft (18.3 m) LOA.* Except for vessels using pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section and the vessel activity report described at paragraph (k) of this section, the owner or operator of a catcher vessel less than 60 ft (18.3 m) LOA is not required to comply with the R&R requirements of this section.
+(4) *Exemptions*—(i) *Catcher vessels less than 60 ft (18.3 m) LOA.* Except for vessels using pot gear as described in paragraph (c)(3)(i)(B)(*1*) of this section and the vessel activity report described at paragraph (k) of this section, the owner or operator of a catcher vessel less than 60 ft (18.3 m) LOA is not required to comply with the R&R requirements of this section.
 
 (ii) *Catcher vessels that take groundfish in crab pot gear for use as crab bait on that vessel.* (A) Owners or operators of catcher vessels who, when crab is open anywhere or in the same area as an open crab season, take groundfish in crab pot gear for use as crab bait onboard their same vessels, and the bait is neither transferred nor sold, are not required to comply with R&R requirements of this section.
 
@@ -47,7 +47,7 @@
 
 (C) No groundfish species listed by NMFS as “prohibited” in a management or regulatory area may be taken in that area for use as bait.
 
-(5) *Inspection and retention of records* - (i) *Inspection of records.* The operator or manager must make available for inspection the R&R documentation in this section and in § 679.28 upon the request of an authorized officer.
+(5) *Inspection and retention of records*—(i) *Inspection of records.* The operator or manager must make available for inspection the R&R documentation in this section and in § 679.28 upon the request of an authorized officer.
 
 (ii) *Retention of records.* The operator or manager must retain the R&R documentation described in this section and in § 679.28:
 
@@ -65,9 +65,9 @@
 
 (b) *Representative.* The operator of a catcher vessel, mothership, catcher/processor, or tender vessel or manager of a shoreside processor, SFP, or buying station may identify one contact person to complete the logbook and forms and to respond to inquiries from NMFS. Designation of a representative under this paragraph (b) does not relieve the owner, operator, or manager of responsibility for compliance under paragraphs (a)(1) through (6) of this section.
 
-(c) *Logbooks* - (1) *Requirements* - (i) *Use of two or more vessel logbooks of same gear type.* If using more than one logbook of the same gear type in a fishing year onboard a vessel, the operator must ensure that the page numbers follow the consecutive order of the previous logbook.
+(c) *Logbooks*—(1) *Requirements*—(i) *Use of two or more vessel logbooks of same gear type.* If using more than one logbook of the same gear type in a fishing year onboard a vessel, the operator must ensure that the page numbers follow the consecutive order of the previous logbook.
 
-(ii) *Use of two or more vessel logbooks of different gear types.* If two or more different gear types are used onboard a vessel in a fishing year, the operator(s) of this vessel must use the same number of separate vessel logbooks for the different gear types, each separately paginated.
+(ii) *Use of two or more vessel logbooks of different gear types.* If two or more different gear types are used onboard a vessel in a fishing year, the operator(s) of this vessel may use the same vessel logbooks for different gear types, provided different gear types are recorded on separate pages.
 
 (iii) *Two vessel logbooks for pair trawl.* If two vessels are dragging a trawl between them (pair trawl), the operator of each vessel must maintain a separate logbook to record the amount of the catch retained and fish discarded by that vessel. Each of the two logbooks must be separately paginated.
 
@@ -93,7 +93,7 @@
 
 Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and-line; lgl = longline; trw = trawl; MS = mothership.
 
-(2) *Recording active and inactive time periods in the DFL or DCPL* - (i) *Account for each day of the fishing year.* The operator must account for each day of the fishing year, January 1 through December 31, in the DFL or DCPL and indicate whether the vessel or processor was active or inactive during the time period.
+(2) *Recording active and inactive time periods in the DFL or DCPL*—(i) *Account for each day of the fishing year.* The operator must account for each day of the fishing year, January 1 through December 31, in the DFL or DCPL and indicate whether the vessel or processor was active or inactive during the time period.
 
 (A) An active period by fishing category is defined in the following paragraphs under this section:
 
@@ -126,11 +126,11 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (iv) *Inactive two or more quarters.* If the inactive time period extends across two or more successive quarters, the operator must complete a logsheet for each inactive quarter. The first logsheet must indicate the first and last day of the first inactive quarter. Successive logsheets must indicate the first and last day of its respective inactive quarter.
 
-(3) *Longline and pot gear catcher vessel DFL and catcher/processor DCPL* - (i) *Responsibility* - (A) *Groundfish fisheries.* (*1*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA, that is required to have an FFP under § 679.4(b) and that is using longline or pot gear to harvest groundfish must maintain a longline and pot gear DFL.
+(3) *Longline and pot gear catcher vessel DFL and catcher/processor DCPL*—(i) *Responsibility*—(A) *Groundfish fisheries.* (*1*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA, that is required to have an FFP under § 679.4(b) and that is using longline or pot gear to harvest groundfish, must maintain a longline and pot gear DFL and may use the same logbook for longline and pot gear, provided different gear types are recorded on separate pages.
 
 (*2*) Except as described in paragraph (f)(1)(ii) of this section, the operator of a catcher/processor that is required to have an FFP under § 679.4(b) and that is using longline or pot gear to harvest groundfish must use a combination of catcher/processor longline and pot gear DCPL and eLandings to record and report daily processor identification information, catch-by-set information, groundfish production data, and groundfish and prohibited species discard or disposition data.
 
-(B) *IFQ or CDQ halibut, or IFQ or CDQ sablefish fisheries.* (*1*) The operator of a catcher vessel less than 60 ft (18.3 m) LOA, using longline pot gear to harvest IFQ sablefish or IFQ halibut in the GOA, or using pot gear to harvest IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI, must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section.
+(B) *IFQ or CDQ halibut, or IFQ or CDQ sablefish fisheries.* (*1*) The operator of a catcher vessel less than 60 ft (18.3 m) LOA, using longline pot gear to harvest IFQ sablefish or IFQ halibut in the GOA, or using pot gear to harvest IFQ or CDQ halibut or IFQ or CDQ sablefish in the BSAI, must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section and may use the same logbook for longline and pot gear, provided different gear types are recorded on separate pages.
 
 (*2*) Except as described in paragraph (f)(1)(i) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA in the GOA must maintain a longline and pot gear DFL according to paragraph (c)(3)(iv)(A)(*2*) of this section, when using longline gear or longline pot gear to harvest IFQ sablefish and when using gear composed of lines with hooks attached, setline gear (IPHC), or longline pot gear to harvest IFQ halibut.
 
@@ -142,7 +142,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (C) *CR crab fisheries.* The operator of a catcher vessel 60 ft (18.3 m) or greater LOA, using pot gear to harvest CR crab from the BSAI must maintain a longline and pot gear DFL.
 
-(ii) *Reporting time limits* - (A) *Catcher vessel.* The operator of a catcher vessel using longline or pot gear must record in the DFL the information from the following table for each set within the specified time limit:
+(ii) *Reporting time limits*—(A) *Catcher vessel.* The operator of a catcher vessel using longline or pot gear must record in the DFL the information from the following table for each set within the specified time limit:
 
 |                                                                                                                                              REPORTING TIME LIMITS, CATCHER VESSEL LONGLINE OR POT GEAR                                                                                                                                              |                                                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
@@ -168,9 +168,9 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (iii) *Required information, if inactive.* See paragraph (c)(2) of this section.
 
-(iv) *Required information, if active* - (A) *Catcher vessel, longline or pot gear.* (*1*) A catcher vessel using longline or pot gear is active when gear remains on the grounds in a reporting area (except reporting areas 300, 400, 550, or 690), regardless of the vessel location.
+(iv) *Required information, if active*—(A) *Catcher vessel, longline or pot gear.* (*1*) A catcher vessel using longline or pot gear is active when gear remains on the grounds in a reporting area (except reporting areas 300, 400, 550, or 690), regardless of the vessel location.
 
-(*2*) If a catcher vessel identified in paragraph (c)(3)(i)(A)(*1*) or (c)(3)(i)(B)(*1*) through (*3*) of this section is active, the operator must record in the longline and pot gear DFL, for one or more days on each logsheet, the information listed in paragraphs (c)(3)(v), (vi), (viii), and (x) of this section.
+(*2*) If a catcher vessel identified in paragraph (c)(3)(i)(A)(*1*) or (c)(3)(i)(B)(*1*) through (*3*) of this section is active, the operator must record in the longline and pot gear DFL, for one or more days on each logsheet, the information listed in paragraphs (c)(3)(v), (vi), (viii), and (x) of this section and may use the same logbook for longline and pot gear, provided different gear types are recorded on separate pages.
 
 (*3*) *Retain and record discard quantities over the MRA.* When a CV is fishing in an IFQ fishery and the fishery for Pacific cod is closed to directed fishing but not in PSC status in that reporting area as described in § 679.20, the operator must retain and record up to and including the maximum retainable amount (MRA) for Pacific cod as defined in Tables 10 or 11 to this part. Quantities over this amount must be discarded and recorded as discard in the logbook.
 
@@ -180,7 +180,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (*3*) *Retain and record discard quantities over the MRA.* When a catcher/processor is fishing in an IFQ fishery and the fishery for Pacific cod or rockfish is closed to directed fishing but not in PSC status in that reporting area as described in § 679.20, the operator must retain and record up to and including the MRA for Pacific cod or rockfish as defined in Table 10 or 11 to this part. Quantities over this amount must be discarded and recorded as discard in eLandings.
 
-(v) *Identification information* - (A) *Page number.* Number the pages in each logbook consecutively, beginning on the first page of the DFL or DCPL with page 1 for January 1 and continuing for the remainder of the fishing year.
+(v) *Identification information*—(A) *Page number.* Number the pages in each logbook consecutively, beginning on the first page of the DFL or DCPL with page 1 for January 1 and continuing for the remainder of the fishing year.
 
 (B) *Printed name and signature of operator.* The operator's name must be printed in the DFL or DCPL. The operator must sign each completed logsheet of the DFL or DCPL as verification of acceptance of the responsibility required in paragraph (a)(2) of this section
 
@@ -188,7 +188,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (D) *Other permit numbers (if applicable).* IFQ permit number of the operator, if any, and each permit number of any IFQ permit on which anyone aboard is authorized to fish; groundfish CDQ number; and halibut CDQ permit number.
 
-(E) *Reporting area* - (*1*) *Groundfish.* Record the Federal reporting area code (see Figures 1 and 3 to this part) where gear retrieval was completed, regardless of where the majority of the set took place. Use a separate logsheet for each reporting area.
+(E) *Reporting area*—(*1*) *Groundfish.* Record the Federal reporting area code (see Figures 1 and 3 to this part) where gear retrieval was completed, regardless of where the majority of the set took place. Use a separate logsheet for each reporting area.
 
 (*2*) *IFQ halibut and CDQ halibut.* Record the IPHC regulatory area (see Figure 15 to this part) where gear retrieval was completed, regardless of where the majority of the set took place.
 
@@ -219,13 +219,13 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (A) *Set number.* Sequentially by year.
 
-(B) *Gear deployment (or to set gear)* - (*1*) *Hook-and-line gear begin position.* Record date (mm/dd), time (in military format, A.l.t.), and the begin position (in latitude and longitude to the nearest minute; indicate E or W for longitude) when the first hook-and-line gear of a set enters the water.
+(B) *Gear deployment (or to set gear)*—(*1*) *Hook-and-line gear begin position.* Record date (mm/dd), time (in military format, A.l.t.), and the begin position (in latitude and longitude to the nearest minute; indicate E or W for longitude) when the first hook-and-line gear of a set enters the water.
 
 (*2*) *Jig or troll gear begin position.* Record date (mm/dd), time (in military format, A.l.t.), and the begin position (latitude and longitude to the nearest minute; indicate E or W for longitude) when the jig or troll gear enters the water.
 
 (*3*) *Pot gear begin position.* Record date (mm/dd), time (in military format, A.l.t.), and the begin position (latitude and longitude to the nearest minute; indicate E or W for longitude) when the pot gear enters the water.
 
-(C) *Gear retrieval (or to haul gear)* - (*1*) *Hook-and-line gear end position.* Date (mm/dd), time (in military format, A.l.t.), and end position coordinates (in latitude and longitude to the nearest minute; indicate E or W for longitude), where the last hook-and-line gear of a set leaves the water, regardless of where the majority of the set took place.
+(C) *Gear retrieval (or to haul gear)*—(*1*) *Hook-and-line gear end position.* Date (mm/dd), time (in military format, A.l.t.), and end position coordinates (in latitude and longitude to the nearest minute; indicate E or W for longitude), where the last hook-and-line gear of a set leaves the water, regardless of where the majority of the set took place.
 
 (*2*) *Jig or troll gear end position.* Date (mm/dd), time (in military format, A.l.t.), and end position coordinates (in latitude and longitude to the nearest minute; indicate E or W for longitude) where the jig or troll gear leaves the water.
 
@@ -277,11 +277,11 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (D) For the unloading port, enter the name of the port or port code (see Tables 14a and 14b to this part) of delivery location.
 
-(4) *Trawl gear catcher vessel DFL and catcher/processor DCPL* - (i) *Responsibility.* (A) Except as described in paragraph (f)(1)(iii) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA, that is required to have an FFP under § 679.4(b), and that is using trawl gear to harvest groundfish must maintain a trawl gear DFL, must complete one or more logsheets per day. Upon notification by the Regional Administrator, a DFL from the previous year may be used.
+(4) *Trawl gear catcher vessel DFL and catcher/processor DCPL*—(i) *Responsibility.* (A) Except as described in paragraph (f)(1)(iii) of this section, the operator of a catcher vessel 60 ft (18.3 m) or greater LOA, that is required to have an FFP under § 679.4(b), and that is using trawl gear to harvest groundfish must maintain a trawl gear DFL, must complete one or more logsheets per day. Upon notification by the Regional Administrator, a DFL from the previous year may be used.
 
 (B) Except as described in paragraph (f)(1)(iv) or (vii) of this section, the operator of a catcher/processor that is required to have an FFP under § 679.4(b) and that is using trawl gear to harvest groundfish is required to use a combination of catcher/processor trawl gear DCPL and eLandings to record and report daily processor identification information, catch-by-haul landing information, groundfish production data, and groundfish and prohibited species discard or disposition data. Under paragraph (f)(1)(vii) of this section, the operators of AFA catcher/processors or any catcher/processor harvesting pollock CDQ are required to use an ELB and no longer report using a DCPL.
 
-(ii) *Reporting time limits* - (A) *Catcher vessel.* The operator of a catcher vessel using trawl gear must record in the DFL the information in the following table for each haul within the specified time limit:
+(ii) *Reporting time limits*—(A) *Catcher vessel.* The operator of a catcher vessel using trawl gear must record in the DFL the information in the following table for each haul within the specified time limit:
 
 |                                                           REPORTING TIME LIMITS, CATCHER VESSEL TRAWL GEAR                                                           |                                                                                                                                                                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -308,7 +308,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (iii) *Required information, if inactive.* See paragraph (c)(2) of this section.
 
-(iv) *Required information, if active* - (A) *Catcher vessel.* (*1*) A catcher vessel using trawl gear is active when all or part of the trawl net is in the water.
+(iv) *Required information, if active*—(A) *Catcher vessel.* (*1*) A catcher vessel using trawl gear is active when all or part of the trawl net is in the water.
 
 (*2*) If the catcher vessel identified in paragraph (c)(4)(i)(A) of this section is active, the operator must record for one day per logsheet in the DFL, the information described in paragraphs (c)(4)(v), (vi), (viii), and (x) of this section.
 
@@ -398,7 +398,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (ii) *Required information, if active.* A shoreside processor or SFP is active when receiving or processing groundfish.
 
-(6) *Mothership DCPL* - (i) *Responsibility.* Except as described in paragraph (f)(1)(v) of this section, the operator of a mothership that is required to have an FFP under § 679.4(b), or the manager of a CQE floating processor that receives or processes any groundfish from the GOA or BSAI from vessels issued an FFP under § 679.4(b), is required to use a combination of mothership DCPL and eLandings to record and report daily processor identification information, delivery information, groundfish production data, and groundfish and prohibited species discard or disposition data. The operator or manager must enter into the DCPL any information for groundfish received from catcher vessels, groundfish received from processors for reprocessing or rehandling, and groundfish received from an associated tender vessel.
+(6) *Mothership DCPL*—(i) *Responsibility.* Except as described in paragraph (f)(1)(v) of this section, the operator of a mothership that is required to have an FFP under § 679.4(b), or the manager of a CQE floating processor that receives or processes any groundfish from the GOA or BSAI from vessels issued an FFP under § 679.4(b), is required to use a combination of mothership DCPL and eLandings to record and report daily processor identification information, delivery information, groundfish production data, and groundfish and prohibited species discard or disposition data. The operator or manager must enter into the DCPL any information for groundfish received from catcher vessels, groundfish received from processors for reprocessing or rehandling, and groundfish received from an associated tender vessel.
 
 (ii) *Reporting time limits.* The operator of a mothership must record in the DCPL or submit via eLandings the information in the following table for each groundfish delivery within the specified time limit:
 
@@ -478,7 +478,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (d) [Reserved]
 
-(e) *Interagency Electronic Reporting System (IERS) and eLandings* - (1) *Responsibility* - (i) *Hardware, software, and Internet connectivity.* A User must obtain at his or her own expense hardware, software, and Internet connectivity to support Internet submissions of commercial fishery landings for which participants report to NMFS: landing data, production data, and discard or disposition data. The User must enter this information via the Internet by logging on to the eLandings system at *http://elandings.alaska.gov* or other NMFS-approved software or by using the desktop client software.
+(e) *Interagency Electronic Reporting System (IERS) and eLandings*—(1) *Responsibility*—(i) *Hardware, software, and Internet connectivity.* A User must obtain at his or her own expense hardware, software, and Internet connectivity to support Internet submissions of commercial fishery landings for which participants report to NMFS: landing data, production data, and discard or disposition data. The User must enter this information via the Internet by logging on to the eLandings system at *http://elandings.alaska.gov* or other NMFS-approved software or by using the desktop client software.
 
 (ii) *Reporting of non-IFQ groundfish.* If the User is unable to submit commercial fishery landings of non-IFQ groundfish due to hardware, software, or Internet failure for a period longer than the required reporting time, contact NMFS Inseason Management at 907-586-7228 for instructions. When the hardware, software, or Internet is restored, the User must enter this same information into eLandings or other NMFS-approved software.
 
@@ -668,7 +668,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (B) The User for the Registered Buyer, plus the IFQ permit holder or the IFQ hired master permit holder or CDQ hired master permit holder, must acknowledge the accuracy of the printed IFQ halibut, CDQ halibut, or IFQ sablefish landing receipt, and if necessary, IFQ manual landing report, by entering printed name, signature, and date.
 
-(iii) *Time limits* - (A) *Landing hours.* A landing of IFQ halibut, CDQ halibut, or IFQ sablefish may commence only between 0600 hours, A.l.t., and 1800 hours, A.l.t., unless permission to land at a different time is granted in advance by a clearing officer.
+(iii) *Time limits*—(A) *Landing hours.* A landing of IFQ halibut, CDQ halibut, or IFQ sablefish may commence only between 0600 hours, A.l.t., and 1800 hours, A.l.t., unless permission to land at a different time is granted in advance by a clearing officer.
 
 (B) *Landing receipt signatures.* The User for the Registered Buyer and the IFQ permit holder, IFQ hired master permit holder, or CDQ hired master permit holder must sign the sablefish/halibut IFQ landing receipt within six hours after all IFQ halibut, CDQ halibut, and IFQ sablefish are offloaded from a harvesting vessel and prior to shipment or transfer of the fish from the landing site.
 
@@ -684,7 +684,7 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 (A) *Permit numbers.* RCR permit number, IFQ permit number, and IPQ permit number, as appropriate.
 
-(B) *Operation type and port code* - (*1*) If a shoreside processor, the port code is pre-filled automatically (see § 679.5(e)(4)).
+(B) *Operation type and port code*—(*1*) If a shoreside processor, the port code is pre-filled automatically (see § 679.5(e)(4)).
 
 (*2*) If a catcher/processor, the at-sea operation type is pre-filled automatically.
 
@@ -694,10 +694,10 @@ Note: CP = catcher/processor; CV = catcher vessel; pot = longline pot or pot-and
 
 CR Crab Regional Designations
 
-|N - North Region|                 Landed in the Bering Sea subarea north of 56°20′ N. lat.                 |
-|:---------------|:-----------------------------------------------------------------------------------------|
-|S - South Region|                  Landed in any area in Alaska, not in the North Region.                  |
-|W - West Region |West of 174° W. long. Only applicable for western Aleutian Islands golden king crab (WAG).|
+|N—North Region|                 Landed in the Bering Sea subarea north of 56°20′ N. lat.                 |
+|:-------------|:-----------------------------------------------------------------------------------------|
+|S—South Region|                  Landed in any area in Alaska, not in the North Region.                  |
+|W—West Region |West of 174° W. long. Only applicable for western Aleutian Islands golden king crab (WAG).|
 
 (C) *Delivery information.* As reported by IFQ permit holder.
 
@@ -719,7 +719,7 @@ CR Crab Regional Designations
 
 (*9*) Scale weight of deadloss (to the nearest pound) and scale weight of crab retained for personal use (to the nearest pound). Deadloss and personal use crab that an IPQ holder did not purchase are not debited from the IPQ holder's account.
 
-(D) *Crew and observer information* - (*1*) For crew size, enter the number of licensed crew aboard the vessel, including the operator.
+(D) *Crew and observer information*—(*1*) For crew size, enter the number of licensed crew aboard the vessel, including the operator.
 
 (*2*) Number of observers aboard.
 
@@ -755,11 +755,11 @@ CR Crab Regional Designations
 
 (F) *No production/no deliveries (inactive).* If there was no production or deliveries for the day, mark the “No Production” and/or “No Deliveries” boxes.
 
-(ii) *Submittal time limits* - (A) When active pursuant to paragraph (c)(5)(ii) of this section, the User for a shoreside processor or SFP must submit a production report by 1200 hours, A.l.t., each day to record the previous day's production information.
+(ii) *Submittal time limits*—(A) When active pursuant to paragraph (c)(5)(ii) of this section, the User for a shoreside processor or SFP must submit a production report by 1200 hours, A.l.t., each day to record the previous day's production information.
 
 (B) If a shoreside processor or SFP using eLandings is not taking deliveries over a weekend, the User or manager may submit the eLandings production report from Saturday and Sunday to NMFS by 1200 hours, A.l.t., on the following Monday.
 
-(10) *Catcher/processor or mothership information entered for production report* - (i) *Catcher/processor.* The operator of a catcher/processor that is issued an FFP under § 679.4 and that harvests groundfish is required to use eLandings or other NMFS-approved software to submit a production report to record and report daily processor identification information, groundfish production data, and groundfish and prohibited species discard or disposition data.
+(10) *Catcher/processor or mothership information entered for production report*—(i) *Catcher/processor.* The operator of a catcher/processor that is issued an FFP under § 679.4 and that harvests groundfish is required to use eLandings or other NMFS-approved software to submit a production report to record and report daily processor identification information, groundfish production data, and groundfish and prohibited species discard or disposition data.
 
 (ii) *Mothership.* The operator of a mothership that is issued an FFP under § 679.4, or the operator of a CQE floating processor that receives groundfish is required to use eLandings or other NMFS-approved software to submit a production report to record and report daily processor identification information, groundfish production data, and groundfish and prohibited species discard or disposition data.
 
@@ -789,17 +789,17 @@ CR Crab Regional Designations
 
 (L) *Discard weight.* Daily weight of groundfish and the daily weight of herring PSC to the nearest 0.001 mt.
 
-(M) *PSC numbers* - (*1*) *Non-AFA catcher/processors and all motherships.* Daily number of PSC animals (Pacific salmon, steelhead trout, Pacific halibut, king crabs, and Tanner crabs) by species codes and discard and disposition codes.
+(M) *PSC numbers*—(*1*) *Non-AFA catcher/processors and all motherships.* Daily number of PSC animals (Pacific salmon, steelhead trout, Pacific halibut, king crabs, and Tanner crabs) by species codes and discard and disposition codes.
 
 (*2*) *AFA and CDQ catcher/processors.* The operator of an AFA catcher/processor or any catcher/processor harvesting pollock CDQ must enter daily the number of non-salmon PSC animals (Pacific halibut, king crabs, and Tanner crabs) by species codes and discard and disposition codes. Salmon PSC animals are entered into the electronic logbook as described in paragraphs (f)(1)(iv) and (v) of this section.
 
 (N) *ADF&G statistical area.* Must be reported beginning January 1, 2009.
 
-(iv) *Submittal time limits* - (A) Except as described in paragraph (e)(10)(iv)(B) of this section, when a mothership is active pursuant to paragraph (c)(6)(iv) of this section, a catcher/processor longline or pot gear is active pursuant to paragraph (c)(3)(iv)(B) of this section, or a catcher/processor trawl gear is active pursuant to paragraph (c)(4)(iv)(B) of this section, the User for a mothership or catcher/processor must submit a production report by 2400 hours, A.l.t., each day to record the previous day's production information.
+(iv) *Submittal time limits*—(A) Except as described in paragraph (e)(10)(iv)(B) of this section, when a mothership is active pursuant to paragraph (c)(6)(iv) of this section, a catcher/processor longline or pot gear is active pursuant to paragraph (c)(3)(iv)(B) of this section, or a catcher/processor trawl gear is active pursuant to paragraph (c)(4)(iv)(B) of this section, the User for a mothership or catcher/processor must submit a production report by 2400 hours, A.l.t., each day to record the previous day's production information.
 
 (B) If a vessel is in the groundfish and halibut fishery full observer coverage category described at § 679.51(a)(2), the User may submit a production report for Friday, Saturday, and Sunday no later than 2400 hours, A.l.t., on the following Monday.
 
-(11) *Printing of landing reports, landing receipts, and production reports* - (i) The User daily must print a paper copy onsite or onboard of:
+(11) *Printing of landing reports, landing receipts, and production reports*—(i) The User daily must print a paper copy onsite or onboard of:
 
 (A) Each landing report.
 
@@ -811,7 +811,7 @@ CR Crab Regional Designations
 
 (ii) In addition to paragraph (e)(11)(i) of this section, the mothership operator or User must print an additional copy of each landing report and provide it to the operator of the catcher vessel delivering groundfish to the mothership by 1200 hours, A.l.t., on Tuesday following the end of applicable weekly reporting period.
 
-(12) *Retention and inspection of landing reports, landing receipts, and production reports* - (i) The User daily must retain a printed paper copy onsite or onboard of:
+(12) *Retention and inspection of landing reports, landing receipts, and production reports*—(i) The User daily must retain a printed paper copy onsite or onboard of:
 
 (A) Each landing report.
 
@@ -831,7 +831,7 @@ CR Crab Regional Designations
 
 (iv) The vessel operator must submit the catcher/processor landing report to NMFS by 2400 hours, A.l.t., on the day after the end of the fishing trip.
 
-(14) *Tender vessel landing report (“tLandings”)* - (i) *tLandings.* tLandings is an applications software for preparing electronic landing reports for commercial fishery landings to tender vessels.
+(14) *Tender vessel landing report (“tLandings”)*—(i) *tLandings.* tLandings is an applications software for preparing electronic landing reports for commercial fishery landings to tender vessels.
 
 (ii) *Tender vessel operator responsibility.* The operator of a tender vessel taking delivery of groundfish that is required to be reported to NMFS on a landing report under paragraph (e)(5) of this section must use tLandings to enter information about each landing of groundfish and must provide that information to the User defined under § 679.2.
 
@@ -875,11 +875,11 @@ CR Crab Regional Designations
 
 (D) The time, to the nearest minute A.l.t. when testing began.
 
-(2) *Requirements for using an ELB* - (i) *Use a NMFS-approved ELB.* The operator must use only a NMFS-approved ELB. The Regional Administrator maintains a list of approved ELBs on the Alaska Region NMFS website at *http://alaskafisheries.noaa.gov* (see also § 679.28(h) for approval of vendor software).
+(2) *Requirements for using an ELB*—(i) *Use a NMFS-approved ELB.* The operator must use only a NMFS-approved ELB. The Regional Administrator maintains a list of approved ELBs on the Alaska Region NMFS website at *http://alaskafisheries.noaa.gov* (see also § 679.28(h) for approval of vendor software).
 
 (ii) *Reporting groundfish by ELB.* If the User is unable to submit commercial fishery information due to hardware, software, or Internet failure for a period longer than the required reporting time, contact NMFS Inseason Management at (907) 586-7228 for instructions. When the hardware, software, or Internet is restored, the User must enter this same information into the electronic logbook (ELB) or other NMFS-approved software.
 
-(iii) *Enter all required information into the ELB* - (A) *Inactive.* The operator must enter all required information, if inactive (see paragraph (c)(2) of this section).
+(iii) *Enter all required information into the ELB*—(A) *Inactive.* The operator must enter all required information, if inactive (see paragraph (c)(2) of this section).
 
 (B) *Active.* The operator must enter all required information, if active (see paragraph (c)(3), (c)(4), or (c)(6) of this section, as appropriate).
 
@@ -903,7 +903,7 @@ CR Crab Regional Designations
 
 (B) If an observer is present, print a copy of the ELB discard report for the observer's use upon completion of each fishing trip or each offload of fish.
 
-(4) *Signatures* - (i) *ELB logsheet.* The operator daily must sign and date each printed ELB logsheet by 2400 hours, A.l.t. each day to record the previous day's ELB information. The signature of the operator is verification of acceptance of the responsibility required in paragraph (a)(2) of this section.
+(4) *Signatures*—(i) *ELB logsheet.* The operator daily must sign and date each printed ELB logsheet by 2400 hours, A.l.t. each day to record the previous day's ELB information. The signature of the operator is verification of acceptance of the responsibility required in paragraph (a)(2) of this section.
 
 (ii) *ELB discard report.* The operator daily must sign and date each printed ELB discard report upon completion of each fishing trip or each offload of fish. The signature of the operator is verification of acceptance of the responsibility required in paragraph (a)(2) of this section.
 
@@ -913,7 +913,7 @@ CR Crab Regional Designations
 
 (6) *Retention.* The operator must keep a signed copy of each ELB logsheet and each ELB discard report, filed in sequence for immediate access by authorized personnel as described at paragraph (a)(5) of this section.
 
-(7) *ELB data submission* - (i) *Catcher/processors.* The operator of a catcher/processor must transmit ELB data directly to NMFS online through eLandings or other NMFS-approved data transmission mechanism, by 2400 hours, A.l.t., each day to record the previous day's hauls.
+(7) *ELB data submission*—(i) *Catcher/processors.* The operator of a catcher/processor must transmit ELB data directly to NMFS online through eLandings or other NMFS-approved data transmission mechanism, by 2400 hours, A.l.t., each day to record the previous day's hauls.
 
 (ii) *Catcher vessels.* The operator of a catcher vessel must transmit ELB data directly to NMFS as an email attachment or to NMFS through a shoreside processor, SFP, or mothership who received his/her groundfish catch. Through a prior agreement with the catcher vessel, the operator of a mothership or the manager of a shoreside processor or SFP will forward the ELB data transfer to NMFS as an email attachment within 24 hours of completing receipt of the catcher vessel's catch.
 
@@ -923,7 +923,7 @@ CR Crab Regional Designations
 
 (iii) If a return receipt from NMFS is not received within 24 hours, the operator of the catcher vessel, the operator of a catcher/processor, the operator of the mothership, or the manager of the shoreside processor or SFP forwarding the ELB data export for the operator of the catcher vessel, must contact NMFS by telephone at 907-586-7228 or fax at 907-586-7131 for instructions.
 
-(g) *Product transfer report (PTR)* - (1) *General requirements.* Except as provided in paragraphs (g)(2)(i) through (v) of this section, the operator or manager must record on a PTR those species that are listed in Tables 2a and 2c to this part when those species are transferred out of the facility or off the vessel and may also record species listed in Table 2d to this part. For a comparison of forms used for shipping, transporting, or transferring fish or fish product, see Table 13 to this part.
+(g) *Product transfer report (PTR)*—(1) *General requirements.* Except as provided in paragraphs (g)(2)(i) through (v) of this section, the operator or manager must record on a PTR those species that are listed in Tables 2a and 2c to this part when those species are transferred out of the facility or off the vessel and may also record species listed in Table 2d to this part. For a comparison of forms used for shipping, transporting, or transferring fish or fish product, see Table 13 to this part.
 
 (i) *Groundfish and donated prohibited species.* The operator of a mothership or catcher/processor or the manager of a shoreside processor or SFP must complete and submit a separate PTR for each shipment of groundfish and donated prohibited species caught in groundfish fisheries. A PTR is not required to accompany a shipment.
 
@@ -931,9 +931,9 @@ CR Crab Regional Designations
 
 (iii) *CR crab.* A Registered Crab Receiver (RCR) must submit a separate PTR for each shipment of crab for which the RCR submitted a CR crab landing report or was required to submit a CR crab landing report. A PTR is not required to accompany a shipment.
 
-(2) *Exceptions* - (i) *Bait sales (non-IFQ groundfish only).* During one calendar day, the operator or manager may aggregate and record on one PTR the individual sales or shipments of non-IFQ groundfish to vessels for bait purposes during the day recording the amount of such bait product shipped from a vessel or facility that day.
+(2) *Exceptions*—(i) *Bait sales (non-IFQ groundfish only).* During one calendar day, the operator or manager may aggregate and record on one PTR the individual sales or shipments of non-IFQ groundfish to vessels for bait purposes during the day recording the amount of such bait product shipped from a vessel or facility that day.
 
-(ii) *Retail sales* - (A) *IFQ halibut, IFQ sablefish, CDQ halibut, and non-IFQ groundfish.* During one calendar day, the operator, manager, or Registered Buyer may aggregate and record on one PTR the amount of transferred retail product of IFQ halibut, IFQ sablefish, CDQ halibut, and non-IFQ groundfish if each sale weighs less than 10 lb or 4.5 kg.
+(ii) *Retail sales*—(A) *IFQ halibut, IFQ sablefish, CDQ halibut, and non-IFQ groundfish.* During one calendar day, the operator, manager, or Registered Buyer may aggregate and record on one PTR the amount of transferred retail product of IFQ halibut, IFQ sablefish, CDQ halibut, and non-IFQ groundfish if each sale weighs less than 10 lb or 4.5 kg.
 
 (B) *CR crab.* During one calendar day, the RCR may aggregate and record on one PTR the amount of transferred retail product of CR crab if each sale weighs less than 100 lb or 45 kg.
 
@@ -1020,9 +1020,9 @@ CR Crab Regional Designations
 
 (*2*) If a partial offload, for the products remaining on board after the transfer, the operator must enter: Species code, product code, and total product weight to the nearest kilogram or pound (indicate which) for each product.
 
-(h) *Check-in/Check-out report* - (1) *Requirement.* Except as described in paragraph (h)(2) of this section, the operator of a catcher/processor or mothership and manager of a shoreside processor or SFP must submit to NMFS a check-in report (BEGIN message) prior to becoming active and a check-out report (CEASE message) for every check-in report submitted. The check-in report and check-out report must be submitted by fax to 907-586-7131.
+(h) *Check-in/Check-out report*—(1) *Requirement.* Except as described in paragraph (h)(2) of this section, the operator of a catcher/processor or mothership and manager of a shoreside processor or SFP must submit to NMFS a check-in report (BEGIN message) prior to becoming active and a check-out report (CEASE message) for every check-in report submitted. The check-in report and check-out report must be submitted by fax to 907-586-7131.
 
-(2) *Exceptions* - (i) *VMS onboard.* The operator of a catcher/processor or mothership is not required to submit to NMFS a check-in report or check-out report if the vessel is carrying onboard a transmitting VMS that meets the requirements of § 679.28(f).
+(2) *Exceptions*—(i) *VMS onboard.* The operator of a catcher/processor or mothership is not required to submit to NMFS a check-in report or check-out report if the vessel is carrying onboard a transmitting VMS that meets the requirements of § 679.28(f).
 
 (ii) *Two adjacent reporting areas.* If on the same day a catcher/processor intends to fish in two adjacent reporting areas (an action which would require submittal of check-out reports and check-in reports multiple times a day when crossing back and forth across a reporting area boundary), and the two reporting areas have on that day and time an identical fishing status for every species, the operator must:
 
@@ -1150,7 +1150,7 @@ CR Crab Regional Designations
 
 (l) *IFQ halibut, CDQ halibut, IFQ sablefish, or CR crab R&R.* In addition to the R&R requirements in this section, in 50 CFR part 680 with respect to CR crab, and as prescribed in the annual management measures published in the Federal Register pursuant to § 300.62 of this title, the following reports and authorizations are required, when applicable: IFQ Prior Notice of Landing, Product Transfer Report (*see* § 679.5(g)), IFQ landing report, IFQ Transshipment Authorization, and IFQ Departure Report.
 
-(1) *IFQ Prior Notice of Landing (PNOL)* - (i) *Time limits and submittal.* (A) Except as provided in paragraph (l)(1)(iv) of this section, the operator of any vessel making an IFQ landing must notify OLE, Juneau, AK, no fewer than 3 hours before landing IFQ halibut, CDQ halibut, or IFQ sablefish, unless permission to commence an IFQ landing within 3 hours of notification is granted by a clearing officer.
+(1) *IFQ Prior Notice of Landing (PNOL)*—(i) *Time limits and submittal.* (A) Except as provided in paragraph (l)(1)(iv) of this section, the operator of any vessel making an IFQ landing must notify OLE, Juneau, AK, no fewer than 3 hours before landing IFQ halibut, CDQ halibut, or IFQ sablefish, unless permission to commence an IFQ landing within 3 hours of notification is granted by a clearing officer.
 
 (B) A PNOL must be made to the toll-free telephone number 800-304-4846 or to 907-586-7163 between the hours of 0600 hours, A.l.t., and 2400 hours, A.l.t.
 
@@ -1176,15 +1176,15 @@ CR Crab Regional Designations
 
 (I) If using longline pot gear in the GOA or pot gear in the BSAI, report the number of pots set, the number of pots lost, and the number of pots left deployed on the fishing grounds.
 
-(iv) *Exemption* - (A) *Halibut.* An IFQ landing of halibut of 500 lb or less of IFQ weight determined pursuant to § 679.40(h) and concurrent with a legal landing of salmon harvested using hand troll gear or power troll gear is exempt from the PNOL required by this section.
+(iv) *Exemption*—(A) *Halibut.* An IFQ landing of halibut of 500 lb or less of IFQ weight determined pursuant to § 679.40(h) and concurrent with a legal landing of salmon harvested using hand troll gear or power troll gear is exempt from the PNOL required by this section.
 
 (B) *Lingcod.* An IFQ landing of halibut of 500 lb or less of IFQ weight determined pursuant to § 679.40(h) and concurrent with a legal landing of lingcod harvested using dinglebar gear is exempt from the PNOL required by this section.
 
-(2) *IFQ landing* - (i) *Remain at landing site.* Once the landing has commenced, the IFQ permit holder, the IFQ hired master permit holder, or the CDQ hired master permit holder, and the harvesting vessel may not leave the landing site until the IFQ halibut, IFQ sablefish, or CDQ halibut account is properly debited (see § 679.40(h)).
+(2) *IFQ landing*—(i) *Remain at landing site.* Once the landing has commenced, the IFQ permit holder, the IFQ hired master permit holder, or the CDQ hired master permit holder, and the harvesting vessel may not leave the landing site until the IFQ halibut, IFQ sablefish, or CDQ halibut account is properly debited (see § 679.40(h)).
 
 (ii) *No movement of IFQ halibut, CDQ halibut, or IFQ sablefish.* The offloaded IFQ halibut, CDQ halibut, or IFQ sablefish may not be moved from the landing site until the IFQ Landing Report is completed through eLandings or other NMFS-approved software and the IFQ permit holder's or CDQ permit holder's account is properly debited (see § 679.40(h)).
 
-(iii) *Single offload site* - (A) *IFQ halibut and CDQ halibut.* The vessel operator who lands IFQ halibut or CDQ halibut must continuously and completely offload at a single offload site all halibut onboard the vessel.
+(iii) *Single offload site*—(A) *IFQ halibut and CDQ halibut.* The vessel operator who lands IFQ halibut or CDQ halibut must continuously and completely offload at a single offload site all halibut onboard the vessel.
 
 (B) *IFQ sablefish.* The vessel operator who lands IFQ sablefish must continuously and completely offload at a single offload site all sablefish onboard the vessel.
 
@@ -1214,11 +1214,11 @@ CR Crab Regional Designations
 
 (4) *IFQ departure report.* For a comparison of forms used for shipping, transporting, or transferring fish or fish product, *see* Table 13 to this part.
 
-(i) *General requirements* - (A) *Time limit and submittal.* A vessel operator who intends to make a landing of IFQ halibut, CDQ halibut, IFQ sablefish, or CR crab at any location other than in an IFQ regulatory area for halibut and sablefish or in a crab fishery for CR crab (*see* Table 1 to part 680) in the State of Alaska must submit an IFQ Departure Report, by telephone, to OLE, Juneau, AK, (800-304-4846 or 907-586-7163) between the hours of 0600 hours, A.l.t., and 2400 hours, A.l.t.
+(i) *General requirements*—(A) *Time limit and submittal.* A vessel operator who intends to make a landing of IFQ halibut, CDQ halibut, IFQ sablefish, or CR crab at any location other than in an IFQ regulatory area for halibut and sablefish or in a crab fishery for CR crab (*see* Table 1 to part 680) in the State of Alaska must submit an IFQ Departure Report, by telephone, to OLE, Juneau, AK, (800-304-4846 or 907-586-7163) between the hours of 0600 hours, A.l.t., and 2400 hours, A.l.t.
 
 (B) *Completion of fishing.* A vessel operator must submit an IFQ Departure Report after completion of all fishing and prior to departing the waters of the EEZ adjacent to the jurisdictional waters of the State of Alaska, the territorial sea of the State of Alaska, or the internal waters of the State of Alaska when IFQ halibut, CDQ halibut, IFQ sablefish, or CR crab are on board.
 
-(C) *Permit* - (*1*) *Registered Crab Receiver permit.* A vessel operator submitting an IFQ Departure Report for CR crab must have a Registered Crab Receiver permit.
+(C) *Permit*—(*1*) *Registered Crab Receiver permit.* A vessel operator submitting an IFQ Departure Report for CR crab must have a Registered Crab Receiver permit.
 
 (*2*) *Registered Buyer permit.* A vessel operator submitting an IFQ Departure Report for IFQ halibut, CDQ halibut, or IFQ sablefish must have a Registered Buyer permit.
 
@@ -1250,7 +1250,7 @@ CR Crab Regional Designations
 
 (iii) *Revision to Departure Report.* A vessel operator who intends to make an IFQ landing at a location different from the location named on the IFQ Departure report must submit a revised report naming the new location at least 12 hours in advance of the offload. Revisions must be submitted by telephone, to OLE, Juneau, AK, (800-304-4846 or 907-586-7163) between the hours of 0600 hours, A.l.t., and 2400 hours, A.l.t.
 
-(5) *Landing verification, inspection and record retention* - (i) *Verification and inspection.* Each IFQ landing and all fish retained on board the vessel making an IFQ landing are subject to verification and inspection by authorized officers.
+(5) *Landing verification, inspection and record retention*—(i) *Verification and inspection.* Each IFQ landing and all fish retained on board the vessel making an IFQ landing are subject to verification and inspection by authorized officers.
 
 (ii) *Record retention.* The IFQ permit holder, IFQ hired master permit holder, or CDQ hired master permit holder must retain a legible copy of all Landing Report receipts, and the Registered Buyer must retain a copy of all reports and receipts required by this section. All retained records must be available for inspection by an authorized officer:
 
@@ -1258,11 +1258,11 @@ CR Crab Regional Designations
 
 (B) Upon request of an authorized officer for 3 years after the end of the fishing year during which the records were made.
 
-(6) *Sampling* - (i) Each IFQ landing and all fish retained onboard a vessel making an IFQ landing are subject to sampling by NMFS-authorized observers.
+(6) *Sampling*—(i) Each IFQ landing and all fish retained onboard a vessel making an IFQ landing are subject to sampling by NMFS-authorized observers.
 
 (ii) Each IFQ halibut landing or CDQ halibut landing is subject to sampling for biological information by persons authorized by the IPHC.
 
-(7) *IFQ cost recovery program* - (i) *IFQ Registered Buyer Ex-vessel Volume and Value Report (IFQ Buyer Report)* - (A) *Applicability.* An IFQ Registered Buyer that operates as a shoreside processor and receives and purchases IFQ landings of sablefish or halibut or CDQ landings of halibut must submit annually to NMFS a complete IFQ Buyer Report as described in this paragraph (l) and as provided by NMFS for each reporting period, as described at § 679.5(1)(7)(i)(E), in which the Registered Buyer receives IFQ fish or CDQ halibut.
+(7) *IFQ cost recovery program*—(i) *IFQ Registered Buyer Ex-vessel Volume and Value Report (IFQ Buyer Report)*—(A) *Applicability.* An IFQ Registered Buyer that operates as a shoreside processor and receives and purchases IFQ landings of sablefish or halibut or CDQ landings of halibut must submit annually to NMFS a complete IFQ Buyer Report as described in this paragraph (l) and as provided by NMFS for each reporting period, as described at § 679.5(1)(7)(i)(E), in which the Registered Buyer receives IFQ fish or CDQ halibut.
 
 (B) *Due date.* A complete IFQ Buyer Report must be postmarked or received by the Regional Administrator not later than October 15 following the reporting period in which the IFQ Registered Buyer receives the IFQ fish or CDQ halibut.
 
@@ -1274,7 +1274,7 @@ CR Crab Regional Designations
 
 (*ii*) The monthly total gross ex-vessel value, in U.S. dollars, of IFQ pounds, by IFQ species or CDQ halibut, that were landed at the landing port location and purchased by the IFQ Registered Buyer;
 
-(*3*) *Value paid for price adjustments* - (*i*) *Retro-payments.* The monthly total U.S. dollar amount of any retro-payments (correlated by IFQ species or CDQ halibut, landing month(s), and month of payment) made in the current year to IFQ, or to CDQ halibut permit holders for landings made during the previous calendar year;
+(*3*) *Value paid for price adjustments*—(*i*) *Retro-payments.* The monthly total U.S. dollar amount of any retro-payments (correlated by IFQ species or CDQ halibut, landing month(s), and month of payment) made in the current year to IFQ, or to CDQ halibut permit holders for landings made during the previous calendar year;
 
 (*ii*) *Electronic submittal.* Certification, including the NMFS ID and password of the IFQ Registered Buyer; or
 
@@ -1284,7 +1284,7 @@ CR Crab Regional Designations
 
 (E) *Reporting period.* The reporting period of the IFQ Buyer Report shall extend from October 1 through September 30 of the following year, inclusive.
 
-(ii) *IFQ Permit Holder Fee Submission Form* - (A) *Applicability.* An IFQ permit holder who holds an IFQ permit against which a landing was made or an RQE that holds RFQ must submit to NMFS a complete IFQ Permit Holder Fee Submission Form provided by NMFS.
+(ii) *IFQ Permit Holder Fee Submission Form*—(A) *Applicability.* An IFQ permit holder who holds an IFQ permit against which a landing was made or an RQE that holds RFQ must submit to NMFS a complete IFQ Permit Holder Fee Submission Form provided by NMFS.
 
 (B) *Due date and submittal.* A complete IFQ Permit Holder Fee Submission Form must be postmarked or received by the Regional Administrator not later than January 31 following the calendar year in which any IFQ landing was made.
 
@@ -1304,7 +1304,7 @@ CR Crab Regional Designations
 
 (10) A report on annual IFQ regulatory areas 4B, 4C, and 4D Halibut IFQ transfer activities must be submitted to NMFS and the Council by a CDQ group as required at § 679.5(w).
 
-(m) *CDQ Vessel Registration* - (1) *Registration.* The representative for a CDQ group must register each vessel that is to receive the exemption from the LLP license requirements at § 679.4(k)(2)(vi) through the CDQ vessel registration system available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*). The CDQ group representative must log into the CDQ vessel registration system and provide the information required on the computer screen. NMFS will add each vessel successfully registered to the CDQ vessel registration list on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
+(m) *CDQ Vessel Registration*—(1) *Registration.* The representative for a CDQ group must register each vessel that is to receive the exemption from the LLP license requirements at § 679.4(k)(2)(vi) through the CDQ vessel registration system available on the NMFS Alaska Region Web site (*http://alaskafisheries.noaa.gov*). The CDQ group representative must log into the CDQ vessel registration system and provide the information required on the computer screen. NMFS will add each vessel successfully registered to the CDQ vessel registration list on the NMFS Alaska Region Web site at *http://alaskafisheries.noaa.gov.*
 
 (2) *Responsibility.* The CDQ group representative must successfully complete vessel registration through the CDQ vessel registration system before the vessel may be used to conduct groundfish CDQ fishing under § 679.32(c)(3)(iii) without an LLP license. By using the CDQ group's NMFS ID and password and submitting the vessel registration request, the CDQ group representative certifies that all information is true, correct, and complete.
 
@@ -1312,23 +1312,23 @@ CR Crab Regional Designations
 
 (4) *Removing a vessel from the CDQ vessel registration list.* A CDQ group representative may remove a vessel from the CDQ vessel registration system by logging into the online system and following the applicable instructions. A CDQ group representative may remove a registered vessel from the CDQ vessel registration list at any time but must certify at the time of removal that the vessel operator had been given notice by the CDQ group that the vessel is going to be removed from the list and that the vessel is not groundfish CDQ fishing at the time of removal. A vessel that is successfully removed from the CDQ vessel registration list is no longer exempt from the LLP requirements under § 679.4(k).
 
-(n) *CDQ and PSQ transfers* -
+(n) *CDQ and PSQ transfers*—
 
 (1) *CDQ or PSQ transfer.* NMFS will process a request for CDQ or PSQ transfer between CDQ groups provided that the requirements of this paragraph are met.
 
 (2) *Completed application.* A paper or electronic request form must be completed with all information fields accurately filled in by transferors and transferees, and all required additional documentation must be attached.
 
-(3) *Certification of transferor* - (i) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
+(3) *Certification of transferor*—(i) *Non-electronic submittal.* The transferor's designated representative must sign and date the application certifying that all information is true, correct, and complete. The transferor's designated representative must submit the paper application as indicated on the application.
 
 (ii) *Electronic submittal.* The transferor's designated representative must log into the system and create a transfer request as indicated on the computer screen. By using the transferor's NMFS ID, password, and Transfer Key and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
-(4) *Certification of transferee* - (i) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
+(4) *Certification of transferee*—(i) *Non-electronic submittal.* The transferee's designated representative must sign and date the application certifying that all information is true, correct, and complete.
 
 (ii) *Electronic submittal.* The transferee's designated representative must log into the system and create a transfer request as indicated on the computer screen. By using the transferee's NMFS ID, password, and Transfer Key and submitting the transfer request, the designated representative certifies that all information is true, correct, and complete.
 
 (o) [Reserved]
 
-(p) *Commercial Operator's Annual Report (COAR)* - (1) *Requirement.* The owner of a mothership or catcher/processor must annually complete and submit to ADF&G the appropriate Forms A through M and COAR certification page for each year in which the mothership or catcher/processor was issued a Federal Fisheries permit. The owner of a mothership must include all fish received and processed during the year, including fish received from an associated tender vessel. The ADF&G COAR is further described under Alaska Administrative Code (5 AAC 39.130) (see § 679.3 (b)(2)).
+(p) *Commercial Operator's Annual Report (COAR)*—(1) *Requirement.* The owner of a mothership or catcher/processor must annually complete and submit to ADF&G the appropriate Forms A through M and COAR certification page for each year in which the mothership or catcher/processor was issued a Federal Fisheries permit. The owner of a mothership must include all fish received and processed during the year, including fish received from an associated tender vessel. The ADF&G COAR is further described under Alaska Administrative Code (5 AAC 39.130) (see § 679.3 (b)(2)).
 
 (2) *Time limit and submittal of COAR.* The owner of a mothership or catcher/processor must submit to ADF&G the appropriate Forms A through M and COAR certification page by April 1 of the year following the year for which the report is required to the following address:
 
@@ -1350,7 +1350,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (vii) Enter printed or typed name, e-mail address, and telephone number of alternate contact.
 
-(4) *Buying information (exvessel), Forms A (1-3), C (1-2), E, G, I (1-2), and K* - (i) *Requirement.* The owner of a mothership (if the first purchaser of raw fish) must complete and submit the appropriate COAR buying forms (A (1-3), C (1-2), E, G, I (1-2), and K) for each species purchased from fishermen during the applicable year.
+(4) *Buying information (exvessel), Forms A (1-3), C (1-2), E, G, I (1-2), and K*—(i) *Requirement.* The owner of a mothership (if the first purchaser of raw fish) must complete and submit the appropriate COAR buying forms (A (1-3), C (1-2), E, G, I (1-2), and K) for each species purchased from fishermen during the applicable year.
 
 (ii) *Buying information required.* The owner of the mothership must record the following information on the appropriate COAR buying forms:
 
@@ -1370,7 +1370,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (5) *Production forms, Forms B (1-6), D, F, H, J (1-2), and K).* For purposes of this paragraph, the total wholesale value is the amount that the processor receives for the finished product (free on board pricing mothership or catcher/processor). For products finished but not yet sold (still held in inventory), calculate the estimated value using the average price received to date for that product.
 
-(i) *Requirement* - (A) *Mothership.* The owner of a mothership must record and submit the appropriate COAR production forms (B(1-6), D, F, H, J(1-2), and K) for all production that occurred for each species during the applicable year:
+(i) *Requirement*—(A) *Mothership.* The owner of a mothership must record and submit the appropriate COAR production forms (B(1-6), D, F, H, J(1-2), and K) for all production that occurred for each species during the applicable year:
 
 (*1*) That were purchased from fishermen on the grounds and/or dockside, including both processed and unprocessed seafood.
 
@@ -1378,7 +1378,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (B) *Catcher/processor.* The owner of a catcher/processor must record and submit the appropriate COAR production forms (B(1-6), D, F, H, J (1-2), and K) for each species harvested during the applicable year that were then either processed on the vessel or exported out of the State of Alaska.
 
-(ii) *Information required, non-canned production* - (A) Enter area of processing (see table 16 to this part). List production of Canadian-harvested fish separately.
+(ii) *Information required, non-canned production*—(A) Enter area of processing (see table 16 to this part). List production of Canadian-harvested fish separately.
 
 (B) Processed product. Processed product must be described by entering three codes:
 
@@ -1408,7 +1408,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (F) Enter number of cases.
 
-(6) *Custom production forms, Form L (1-2)* - (i) *Requirement.* The owner of a mothership or catcher/processor must record and submit COAR production form L (1-2) for each species in which custom production was done by the mothership or catcher/processor for another processor and for each species in which custom production was done for the mothership or catcher/processor by another processor.
+(6) *Custom production forms, Form L (1-2)*—(i) *Requirement.* The owner of a mothership or catcher/processor must record and submit COAR production form L (1-2) for each species in which custom production was done by the mothership or catcher/processor for another processor and for each species in which custom production was done for the mothership or catcher/processor by another processor.
 
 (ii) *Custom-production by mothership or catcher/processor for another processor.* If the mothership or catcher/processor custom-processed fish or shellfish for another processor during the applicable year, the owner of the mothership or catcher/processor must list the processor name and ADF&G processor code (if known) to describe that processor, but must not include any of that production in production form L (1-2).
 
@@ -1448,9 +1448,9 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (*7*) Number of cases.
 
-(7) *Fish buying retro payments/post-season adjustments, Form M* - (i) *Requirement.* The owner of a mothership must record and submit COAR production Form M to describe additional adjustments and/or bonuses awarded to a fisherman, including credit received by fishermen for gas expenses, ice, delivery premiums, and other miscellaneous expenses.
+(7) *Fish buying retro payments/post-season adjustments, Form M*—(i) *Requirement.* The owner of a mothership must record and submit COAR production Form M to describe additional adjustments and/or bonuses awarded to a fisherman, including credit received by fishermen for gas expenses, ice, delivery premiums, and other miscellaneous expenses.
 
-(ii) *Information required* - (A) Enter species name and code (see table 2 to this part).
+(ii) *Information required*—(A) Enter species name and code (see table 2 to this part).
 
 (B) Enter area purchased (see table 16 to this part)
 
@@ -1460,7 +1460,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (E) Enter total amount paid to fishermen (base + adjustment).
 
-(q) *AI directed pollock fishery catch reports* - (1) *Applicability.* The Aleut Corporation shall provide NMFS the identity of its designated contact for the Aleut Corporation. The Aleut Corporation shall submit to the Regional Administrator a pollock catch report containing information required by paragraph (q)(3) of this section.
+(q) *AI directed pollock fishery catch reports*—(1) *Applicability.* The Aleut Corporation shall provide NMFS the identity of its designated contact for the Aleut Corporation. The Aleut Corporation shall submit to the Regional Administrator a pollock catch report containing information required by paragraph (q)(3) of this section.
 
 (2) *Time limits and submittal.* (i) The Aleut Corporation must submit its AI directed pollock fishery catch reports by one of the following methods:
 
@@ -1486,9 +1486,9 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (v) ADF&G fish ticket number.
 
-(r) *Rockfish Program* - (1) *General.* The owners and operators of catcher vessels, catcher/processors, and shoreside processors authorized as participants in the Rockfish Program must comply with the applicable recordkeeping and reporting requirements of this section and must assign all catch to a rockfish cooperative or rockfish sideboard fishery, as applicable at the time of catch or receipt of groundfish. All owners of catcher vessels, catcher/processors, and shoreside processors authorized as participants in the Rockfish Program must ensure that their designated representatives or employees comply with all applicable recordkeeping and reporting requirements.
+(r) *Rockfish Program*—(1) *General.* The owners and operators of catcher vessels, catcher/processors, and shoreside processors authorized as participants in the Rockfish Program must comply with the applicable recordkeeping and reporting requirements of this section and must assign all catch to a rockfish cooperative or rockfish sideboard fishery, as applicable at the time of catch or receipt of groundfish. All owners of catcher vessels, catcher/processors, and shoreside processors authorized as participants in the Rockfish Program must ensure that their designated representatives or employees comply with all applicable recordkeeping and reporting requirements.
 
-(2) *Logbook* - (i) *DFL.* Operators of catcher vessels equal to or greater than 60 ft (18.3 m) LOA participating in a Rockfish Program fishery and using trawl gear must maintain a daily fishing logbook for trawl gear as described in paragraphs (a) and (c) of this section.
+(2) *Logbook*—(i) *DFL.* Operators of catcher vessels equal to or greater than 60 ft (18.3 m) LOA participating in a Rockfish Program fishery and using trawl gear must maintain a daily fishing logbook for trawl gear as described in paragraphs (a) and (c) of this section.
 
 (ii) *ELB.* Operators of catcher/processors permitted in the Rockfish Program must use a combination of NMFS-approved catcher/processor trawl gear ELB and eLandings to record and report groundfish and PSC information as described in paragraph (f) of this section to record Rockfish Program landings and production.
 
@@ -1502,7 +1502,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (7) *Vessel monitoring system (VMS) requirements* (see § 679.28(f)).
 
-(8) *Rockfish cooperative vessel check-in and check-out report* - (i) *Applicability* - (A) *Vessel check-in.* The designated representative of a rockfish cooperative must designate any vessel that is authorized to fish under the rockfish cooperative's CQ permit before that vessel may fish under that CQ permit through a check-in procedure. The designated representative for a rockfish cooperative must submit to NMFS, in accordance with (8)(ii), a check-in designation for a vessel:
+(8) *Rockfish cooperative vessel check-in and check-out report*—(i) *Applicability*—(A) *Vessel check-in.* The designated representative of a rockfish cooperative must designate any vessel that is authorized to fish under the rockfish cooperative's CQ permit before that vessel may fish under that CQ permit through a check-in procedure. The designated representative for a rockfish cooperative must submit to NMFS, in accordance with (8)(ii), a check-in designation for a vessel:
 
 (*1*) At least 24 hours prior to the time the catcher vessel begins a fishing trip to fish under a CQ permit; or
 
@@ -1530,7 +1530,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (9) *Rockfish CQ cost recovery fee submission* (See § 679.85).
 
-(10) *Rockfish Ex-vessel Volume and Value Report* - (i) *Applicability.* A rockfish processor (as defined at § 679.2) that receives and purchases landings of rockfish CQ groundfish must submit annually to NMFS a complete Rockfish Ex-vessel Volume and Value Report, as described in this paragraph (r)(10), for each reporting period for which the rockfish processor receives rockfish CQ groundfish.
+(10) *Rockfish Ex-vessel Volume and Value Report*—(i) *Applicability.* A rockfish processor (as defined at § 679.2) that receives and purchases landings of rockfish CQ groundfish must submit annually to NMFS a complete Rockfish Ex-vessel Volume and Value Report, as described in this paragraph (r)(10), for each reporting period for which the rockfish processor receives rockfish CQ groundfish.
 
 (ii) *Reporting period.* The reporting period of the Rockfish Ex-vessel Volume and Value Report shall extend from May 1 through November 15 of each year.
 
@@ -1542,7 +1542,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (v) *Submittal.* The rockfish processor must complete and submit online by electronic submission to NMFS the Rockfish Ex-vessel Volume and Value Report available at *https://alaskafisheries.noaa.gov.*
 
-(s) *Amendment 80 Program* - (1) *General.* The owners and operators of Amendment 80 vessels must comply with the applicable recordkeeping and reporting requirements of this section. All owners of Amendment 80 vessels must ensure that their designated representatives or employees comply with all applicable recordkeeping and reporting requirements.
+(s) *Amendment 80 Program*—(1) *General.* The owners and operators of Amendment 80 vessels must comply with the applicable recordkeeping and reporting requirements of this section. All owners of Amendment 80 vessels must ensure that their designated representatives or employees comply with all applicable recordkeeping and reporting requirements.
 
 (2) *Logbook-DCPL.* Operators of Amendment 80 vessels must use a daily cumulative production logbook for trawl gear as described in paragraph (a) of this section to record Amendment 80 Program landings and production.
 
@@ -1552,7 +1552,7 @@ ADF&G Division of Commercial Fisheries, Attn: COAR, P.O. Box 25526, Juneau, AK 9
 
 (5) *Product transfer report (PTR), processors.* Operators of Amendment 80 vessels must submit a PTR as described in paragraph (g) of this section.
 
-(6) *Annual Amendment 80 cooperative report* - (i) *Applicability.* An Amendment 80 cooperative issued a CQ permit must submit annually to the Regional Administrator an Amendment 80 cooperative report detailing the use of the cooperative's CQ.
+(6) *Annual Amendment 80 cooperative report*—(i) *Applicability.* An Amendment 80 cooperative issued a CQ permit must submit annually to the Regional Administrator an Amendment 80 cooperative report detailing the use of the cooperative's CQ.
 
 (ii) *Time limits and submittal.* (A) The annual Amendment 80 cooperative report must be submitted to the Regional Administrator by an electronic data file in a NMFS-approved format; by fax: 907-586-7557; or by mail sent to the Regional Administrator, NMFS Alaska Region, P.O. Box 21668, Juneau, AK 99802-1668; and
 
@@ -1578,9 +1578,9 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (7) *Vessel monitoring system (VMS) requirements* (see § 679.28(f)).
 
-(t) *Community Entity Quota Program Annual Report* - (1) *Applicability.* A CQE must submit an annual report on the CQE's administrative activities, business operation, and community fishing activities for each calendar year it holds any of the following: community charter halibut permits as described at § 300.67(k) of this title, halibut and sablefish individual fishing quota (IFQ) and quota shares (QS) as described at § 679.41(l)(3), and community Pacific cod endorsed non-trawl groundfish license limitation program (LLP) licenses as described at § 679.4(k)(10)(vi)(F)(*2*). The CQE may combine annual reports about its holdings of community charter halibut permits, IFQ, and LLPs in one report. A CQE must submit annual report data for the community charter halibut permit, IFQ, and LLP permits it held during the calendar year. A CQE is not required to submit an annual report for any calendar year in which it did not hold any community charter halibut permits, IFQ, or LLPs.
+(t) *Community Entity Quota Program Annual Report*—(1) *Applicability.* A CQE must submit an annual report on the CQE's administrative activities, business operation, and community fishing activities for each calendar year it holds any of the following: community charter halibut permits as described at § 300.67(k) of this title, halibut and sablefish individual fishing quota (IFQ) and quota shares (QS) as described at § 679.41(l)(3), and community Pacific cod endorsed non-trawl groundfish license limitation program (LLP) licenses as described at § 679.4(k)(10)(vi)(F)(*2*). The CQE may combine annual reports about its holdings of community charter halibut permits, IFQ, and LLPs in one report. A CQE must submit annual report data for the community charter halibut permit, IFQ, and LLP permits it held during the calendar year. A CQE is not required to submit an annual report for any calendar year in which it did not hold any community charter halibut permits, IFQ, or LLPs.
 
-(2) *Time limits and submittal.* By January 31, the CQE must submit a complete annual report for the prior calendar year to the Regional Administrator, National Marine Fisheries Service, P.O. Box 21668, Juneau, AK 99802, and to the governing body of each community represented by the CQE as identified in Table 21 to this part.
+(2) *Time limits and submittal.* By January 31, the CQE must submit a complete annual report for the prior calendar year to the Regional Administrator, and to the governing body of each community represented by the CQE as identified in Table 21 to this part.
 
 (3) *Complete annual report.* A complete annual report contains all general report requirements listed in paragraphs (t)(4)(i) through (t)(4)(iii) of this section and all program specific report requirements applicable to the CQE as described in paragraphs (t)(5)(i) through (t)(5)(iii).
 
@@ -1662,7 +1662,7 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (I) For each community whose residents made landings using one or more LLP groundfish licenses held by the CQE, provide any payments made to the CQE for use of the LLP groundfish licenses.
 
-(u) *BSAI Cost Recovery Volume and Value Reports* - (1) *Pacific Cod Ex-vessel Volume and Value Report* - (i) *Applicability.* A shoreside processor designated on an FPP, or a mothership designated on an FFP, that processes landings of either CDQ Pacific cod or BSAI Pacific cod harvested by a vessel using trawl gear must submit annually to NMFS a complete Pacific Cod Ex-vessel Volume and Value Report, as described in this paragraph (u)(1), for each reporting period for which the shorebased processor or mothership receives this Pacific cod.
+(u) *BSAI Cost Recovery Volume and Value Reports*—(1) *Pacific Cod Ex-vessel Volume and Value Report*—(i) *Applicability.* A shoreside processor designated on an FPP, or a mothership designated on an FFP, that processes landings of either CDQ Pacific cod or BSAI Pacific cod harvested by a vessel using trawl gear must submit annually to NMFS a complete Pacific Cod Ex-vessel Volume and Value Report, as described in this paragraph (u)(1), for each reporting period for which the shorebased processor or mothership receives this Pacific cod.
 
 (ii) *Reporting period.* The reporting period of the Pacific Cod Ex-vessel Volume and Value Report shall extend from January 1 to October 31 of the year in which the landings were made.
 
@@ -1674,7 +1674,7 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (v) *Submittal.* The submitter must complete and submit online to NMFS the Pacific Cod Ex-vessel Volume and Value Report available at *https://alaskafisheries.noaa.gov.*
 
-(2) *First Wholesale Volume and Value Report* - (i) *Applicability.* An Amendment 80 vessel owner that harvests groundfish species, other than Pacific cod, must submit annually to NMFS a complete First Wholesale Volume and Value Report, as described in this paragraph (u)(2), for each reporting period for which the Amendment 80 vessel harvests groundfish species, other than Pacific cod.
+(2) *First Wholesale Volume and Value Report*—(i) *Applicability.* An Amendment 80 vessel owner that harvests groundfish species, other than Pacific cod, must submit annually to NMFS a complete First Wholesale Volume and Value Report, as described in this paragraph (u)(2), for each reporting period for which the Amendment 80 vessel harvests groundfish species, other than Pacific cod.
 
 (ii) *Reporting period.* (A) The reporting period of the First Wholesale Volume and Value Report for all species except rock sole shall extend from January 1 to October 31 of the year in which the landings were made.
 
@@ -1688,7 +1688,7 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (v) *Submittal.* The Amendment 80 vessel owner must complete and submit online to NMFS the First Wholesale Volume and Value Report available at *https://alaskafisheries.noaa.gov.*
 
-(v) *Recreational Quota Entity Program Annual Report* - (1) *Applicability.* The RQE must submit a timely and complete annual report on the RQE's administrative activities and business operation for each calendar year that it holds halibut recreational fishing quota (RFQ) and quota shares (QS). The RQE may combine annual reports on its holdings of halibut QS and RFQ for IFQ regulatory areas 2C and 3A into one report. The RQE must submit annual report data for the halibut QS and RFQ it held during the calendar year. The RQE is not required to submit an annual report for any calendar year in which it did not hold any halibut QS or RFQ.
+(v) *Recreational Quota Entity Program Annual Report*—(1) *Applicability.* The RQE must submit a timely and complete annual report on the RQE's administrative activities and business operation for each calendar year that it holds halibut recreational fishing quota (RFQ) and quota shares (QS). The RQE may combine annual reports on its holdings of halibut QS and RFQ for IFQ regulatory areas 2C and 3A into one report. The RQE must submit annual report data for the halibut QS and RFQ it held during the calendar year. The RQE is not required to submit an annual report for any calendar year in which it did not hold any halibut QS or RFQ.
 
 (2) *Time limits and submittal.* By January 31, the RQE must submit a complete annual report for the prior calendar year to the North Pacific Fishery Management Council, 605 West 4th Ave., Suite 306, Anchorage, AK 99501-2252, and to NMFS-Alaska Regional Administrator, P.O. Box 21668, Juneau, AK 99802-1668.
 
@@ -1712,7 +1712,7 @@ Substituting the value for *GFroundweight* into the following equation:
 
 (iii) A description of the number of charter halibut permits and number of angler endorsements purchased and held by the RQE.
 
-(w) *Report on Area 4 halibut IFQ transfers to CDQ groups* - (1) *Applicability.* A CDQ group that receives IFQ regulatory area 4 halibut IFQ by transfer must submit a timely and complete report on the CDQ group's annual halibut IFQ transfer activities for each calendar year that it receives IFQ regulatory area 4 halibut IFQ by transfer. A CDQ group is not required to submit a report for any calendar year in which it did not receive any IFQ regulatory area 4 halibut IFQ by transfer.
+(w) *Report on Area 4 halibut IFQ transfers to CDQ groups*—(1) *Applicability.* A CDQ group that receives IFQ regulatory area 4 halibut IFQ by transfer must submit a timely and complete report on the CDQ group's annual halibut IFQ transfer activities for each calendar year that it receives IFQ regulatory area 4 halibut IFQ by transfer. A CDQ group is not required to submit a report for any calendar year in which it did not receive any IFQ regulatory area 4 halibut IFQ by transfer.
 
 (2) *Time limits and submittal.* A CDQ group must submit a complete report by January 31 of the year following a fishing year during which the CDQ group receives IFQ regulatory area 4B, 4C, or 4D halibut IFQ by transfer. The complete report must be submitted to the North Pacific Fishery Management Council, 605 West 4th Ave., Suite 306, Anchorage, AK 99501-2252, and to NMFS-Alaska Regional Administrator, P.O. Box 21668, Juneau, AK, 99802-1668.
 
