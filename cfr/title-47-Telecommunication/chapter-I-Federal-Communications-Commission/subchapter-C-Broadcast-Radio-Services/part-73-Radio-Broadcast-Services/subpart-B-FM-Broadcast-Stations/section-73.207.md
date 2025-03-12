@@ -1,14 +1,10 @@
 ##### § 73.207 Minimum distance separation between stations. #####
 
-Link to an amendment published at 87 FR 15342, Mar. 18, 2022.
-
 (a) Except for assignments made pursuant to § 73.213 or 73.215, FM allotments and assignments must be separated from other allotments and assignments on the same channel (co-channel) and five pairs of adjacent channels by not less than the minimum distances specified in paragraphs (b) and (c) of this section. The Commission will not accept petitions to amend the Table of Allotments unless the reference points meet all of the minimum distance separation requirements of this section. The Commission will not accept applications for new stations, or applications to change the channel or location of existing assignments unless transmitter sites meet the minimum distance separation requirements of this section, or such applications conform to the requirements of § 73.213 or 73.215. However, applications to modify the facilities of stations with short-spaced antenna locations authorized pursuant to prior waivers of the distance separation requirements may be accepted, provided that such applications propose to maintain or improve that particular spacing deficiency. Class D (secondary) assignments are subject only to the distance separation requirements contained in paragraph (b)(3) of this section. (See § 73.512 for rules governing the channel and location of Class D (secondary) assignments.)
 
-(b) The distances listed in Tables A, B, and C apply to allotments and assignments on the same channel and each of five pairs of adjacent channels. The five pairs of adjacent channels are the first (200 kHz above and 200 kHz below the channel under consideration), the second (400 kHz above and below), the third (600 kHz above and below), the fifty-third (10.6 MHz above and below), and the fifty-fourth (10.8 MHz above and below). The distances in the Tables apply regardless of whether the proposed station class appears first or second in the “Relation” column of the table.
+(b) The distances listed in Tables 1, 2, and 3 of this paragraph (b) apply to allotments and assignments on the same channel and each of five pairs of adjacent channels. The five pairs of adjacent channels are the first (200 kHz above and 200 kHz below the channel under consideration), the second (400 kHz above and below), the third (600 kHz above and below), the fifty-third (10.6 MHz above and below), and the fifty-fourth (10.8 MHz above and below). The distances in the Tables apply regardless of whether the proposed station class appears first or second in the “Relation” column of the table.
 
-(1) Domestic allotments and assignments must be separated from each other by not less than the distances in Table A which follows:
-
-Table A - Minimum Distance Separation Requirements in Kilometers (miles)
+(1) *Domestic distance separation.* Domestic allotments and assignments must be separated from each other by not less than the distances in Table 1 to this paragraph (b):
 
 |Relation|Co-channel| 200 kHz |400/600 kHz|10.6/10.8 MHz|
 |--------|----------|---------|-----------|-------------|
@@ -49,31 +45,33 @@ Table A - Minimum Distance Separation Requirements in Kilometers (miles)
 |C0 to C |281 (175) |220 (137)| 105 (65)  |   45 (28)   |
 | C to C |290 (180) |241 (150)| 105 (65)  |   48 (30)   |
 
-(2) Under the Canada-United States FM Broadcasting Agreement, domestic U.S. allotments and assignments within 320 kilometers (199 miles) of the common border must be separated from Canadian allotments and assignments by not less than the distances given in Table B, which follows. When applying Table B, U.S. Class C2 allotments and assignments are considered to be Class B; also, U.S. Class C3 allotments and assignments and U.S. Class A assignments operating with more than 3 kW ERP and 100 meters antenna HAAT (or equivalent lower ERP and higher antenna HAAT based on a class contour distance of 24 km) are considered to be Class B1.
+(2) *Canadian border distance separation.* Under the 1991 United States-Canada FM Broadcasting Agreement, as amended, any domestic U.S. allotment or assignment within 320 kilometers (199 miles) of the common border must either satisfy the contour overlap provisions set out in the Agreement or be separated from Canadian allotments and assignments by not less than the distance given in Table 2 to this paragraph (b), using the distance calculation methodology set out in the Agreement. When applying Table 2, U.S. Class C0 allotments and assignments are considered to be Class C; U.S. Class C2 allotments and assignments are considered to be Class B; and U.S. Class C3 allotments and assignments are considered to be Class B1.
 
-Table B - Minimum Distance Separation Requirements in Kilometers
+|Relation|Co-channel|200 kHz|400 kHz|600 kHz|10.6/10.8 MHz  <br/>(I.F.)|
+|--------|----------|-------|-------|-------|--------------------------|
+|A1 to A1|    78    |  45   |  24   |  20   |            4             |
+|A1 to A |   131    |  78   |  44   |  40   |            7             |
+|A1 to B1|   164    |  98   |  57   |  53   |            9             |
+|A1 to B |   190    |  117  |  71   |  67   |            12            |
+|A1 to C1|   223    |  148  |  92   |  88   |            19            |
+|A1 to C |   227    |  162  |  103  |  99   |            26            |
+| A to A |   151    |  98   |  51   |  42   |            10            |
+|A to B1 |   184    |  119  |  64   |  55   |            12            |
+| A to B |   210    |  137  |  78   |  69   |            15            |
+|A to C1 |   243    |  168  |  99   |  90   |            22            |
+| A to C |   247    |  182  |  110  |  101  |            29            |
+|B1 to B1|   197    |  131  |  70   |  57   |            24            |
+|B1 to B |   223    |  149  |  84   |  71   |            24            |
+|B1 to C1|   256    |  181  |  108  |  92   |            40            |
+|B1 to C |   259    |  195  |  116  |  103  |            40            |
+| B to B |   237    |  164  |  94   |  74   |            24            |
+|B to C1 |   271    |  195  |  115  |  95   |            40            |
+| B to C |   274    |  209  |  125  |  106  |            40            |
+|C1 to C1|   292    |  217  |  134  |  101  |            48            |
+|C1 to C |   302    |  230  |  144  |  111  |            48            |
+| C to C |   306    |  241  |  153  |  113  |            48            |
 
-|Relation|Co-Channel|Adjacent Channels| I.F.  |             |   |
-|--------|----------|-----------------|-------|-------------|---|
-| 0 kHz  | 200 kHz  |     400 kHz     |600 kHz|10.6/10.8 MHz|   |
-|  A-A   |   132    |       85        |  45   |     37      | 8 |
-|  A-B1  |   180    |       113       |  62   |     54      |16 |
-|  A-B   |   206    |       132       |  76   |     69      |16 |
-|  A-C1  |   239    |       164       |  98   |     90      |32 |
-|  A-C   |   242    |       177       |  108  |     100     |32 |
-| B1-B1  |   197    |       131       |  70   |     57      |24 |
-|  B1-B  |   223    |       149       |  84   |     71      |24 |
-| B1-C1  |   256    |       181       |  106  |     92      |40 |
-|  B1-C  |   259    |       195       |  116  |     103     |40 |
-|  B-B   |   237    |       164       |  94   |     74      |24 |
-|        |          |                 |       |             |   |
-|  B-C1  |   271    |       195       |  115  |     95      |40 |
-|  B-C   |   274    |       209       |  125  |     106     |40 |
-| C1-C1  |   292    |       217       |  134  |     101     |48 |
-|  C1-C  |   302    |       230       |  144  |     111     |48 |
-|  C-C   |   306    |       241       |  153  |     113     |48 |
-
-(3) Under the 1992 Mexico-United States FM Broadcasting Agreement, domestic U.S. assignments or allotments within 320 kilometers (199 miles) of the common border must be separated from Mexican assignments or allotments by not less than the distances given in Table C in this paragraph (b)(3). When applying Table C -
+(3) *Mexican border distance separation.* Under the 1992 United States-Mexico FM Broadcasting Agreement, any domestic U.S. assignment or allotment within 320 kilometers (199 miles) of the common border must either satisfy the contour overlap provisions set out in section 7.3 of the Agreement or be separated from Mexican assignments or allotments by not less than the distances given in Table 3 to this paragraph (b), using the distance calculation methodology set out in the Agreement. The minimum required distance separation between I.F. allotments and assignments cannot be reduced. When applying Table 3—
 
 (i) U.S. or Mexican assignments or allotments which have been notified internationally as Class A are limited to a maximum of 3.0 kW ERP at 100 meters HAAT, or the equivalent;
 
@@ -81,11 +79,11 @@ Table B - Minimum Distance Separation Requirements in Kilometers
 
 (iii) U.S. Class C3 assignments or allotments are considered Class B1;
 
-(iv) U.S. Class C2 assignments or allotments are considered Class B; and
+(iv) U.S. Class C2 assignments or allotments are considered Class B;
 
-(v) Class C1 assignments or allotments assume maximum facilities of 100 kW ERP at 300 meters HAAT. However, U.S. Class C1 stations may not, in any event, exceed the domestic U.S. limit of 100 kW ERP at 299 meters HAAT, or the equivalent.
+(v) Class C1 assignments or allotments assume maximum facilities of 100 kW ERP at 300 meters HAAT. However, U.S. Class C1 stations may not, in any event, exceed the domestic U.S. limit of 100 kW ERP at 299 meters HAAT, or the equivalent; and
 
-Table C - Minimum Distance Separation Requirements in Kilometers
+(vi) U.S. Class C0 assignments or allotments are considered Class C.
 
 |Relation|Co-Channel|200 kHz|400 kHz or 600 kHz|10.6 or 10.8 MHz (I.F.)|
 |--------|----------|-------|------------------|-----------------------|
@@ -113,8 +111,6 @@ Table C - Minimum Distance Separation Requirements in Kilometers
 
 (c) The distances listed below apply only to allotments and assignments on Channel 253 (98.5 MHz). The Commission will not accept petitions to amend the Table of Allotments, applications for new stations, or applications to change the channel or location of existing assignments where the following minimum distances (between transmitter sites, in kilometers) from any TV Channel 6 allotment or assignment are not met:
 
-Minimum Distance Separation From TV Channel 6 (82-88 MHz)
-
 |FM Class|TV Zone I|TV Zones II & III|
 |--------|---------|-----------------|
 |   A    |   17    |       22        |
@@ -125,4 +121,4 @@ Minimum Distance Separation From TV Channel 6 (82-88 MHz)
 |   C1   |   29    |       33        |
 |   C    |   36    |       41        |
 
-[48 FR 29504, June 27, 1983, as amended at 49 FR 10264, Mar. 20, 1984; 49 FR 19670, May 9, 1984; 49 FR 50047, Dec. 26, 1984; 51 FR 26250, July 22, 1986; 54 FR 14963, Apr. 14, 1989; 54 FR 16366, Apr. 24, 1989; 54 FR 19374, May 5, 1989; 54 FR 35338, Aug. 25, 1989; 56 FR 27426, June 14, 1991; 56 FR 57293, Nov. 8, 1991; 62 FR 50256, Sept. 25, 1997; 65 FR 79776, Dec. 20, 2000]
+[48 FR 29504, June 27, 1983, as amended at 49 FR 10264, Mar. 20, 1984; 49 FR 19670, May 9, 1984; 49 FR 50047, Dec. 26, 1984; 51 FR 26250, July 22, 1986; 54 FR 14963, Apr. 14, 1989; 54 FR 16366, Apr. 24, 1989; 54 FR 19374, May 5, 1989; 54 FR 35338, Aug. 25, 1989; 56 FR 27426, June 14, 1991; 56 FR 57293, Nov. 8, 1991; 62 FR 50256, Sept. 25, 1997; 65 FR 79776, Dec. 20, 2000; 87 FR 15342, Mar. 18, 2022]

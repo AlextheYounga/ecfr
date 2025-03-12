@@ -1,7 +1,5 @@
 ##### § 540.9 Miscellaneous. #####
 
-Link to an amendment published at 87 FR 15132, Mar. 17, 2022.
-
 (a) If any evidence filed with the application does not comply with the requirements of this subpart, or for any reason fails to provide adequate or satisfactory protection to the public, the Commission will notify the applicant stating the deficiencies thereof.
 
 (b) Any financial evidence submitted to the Commission under the rules of this subpart shall be written in the full and correct name of the person to whom the Certificate (Performance) is to be issued, and in case of a partnership, all partners shall be named.
@@ -12,13 +10,21 @@ Link to an amendment published at 87 FR 15132, Mar. 17, 2022.
 
 (e) Each applicant, insurer, escrow agent and guarantor shall furnish a written designation of a person in the United States as legal agent for service of process for the purposes of the rules of this subpart. Such designation must be acknowledged, in writing, by the designee and filed with the Commission. In any instance in which the designated agent cannot be served because of death, disability, or unavailability, the Secretary, Federal Maritime Commission, will be deemed to be the agent for service of process. A party serving the Secretary in accordance with the above provision must also serve the certificant, insurer, escrow agent, or guarantor, as the case may be, by certified mail or courier service at the last known address of them on file with the Commission.
 
-(f) [Reserved]
+(f) *Process for obtaining refunds from the financial instrument in the event of nonperformance.* (1) The passenger must make a written request for a refund from the PVO in accordance with the respective PVO's claims procedure.
+
+(2) In the event the passenger is unable to resolve the claim within 180 days, or such shorter claim resolution period for which the PVO's claims procedure provides, after nonperformance of transportation occurs or if the claim is denied by the PVO, the passenger may submit a claim against the financial instrument as per instructions on the Commission website. The claim may include a copy of the boarding pass, proof and amount of payment, the cancellation or delay notice, and dated proof of properly filed claim against the PVO or written notification as required in paragraph (f)(1) of this section. All documentation must clearly display the vessel and voyage with the scheduled and actual date of sailing.
+
+(3) Nothing in this rule shall be interpreted to preclude the consumer and the PVO from entering into an alternative form of compensation in full satisfaction of a required refund, such as a future cruise credit.
 
 (g) Financial data filed in connection with the rules of this subpart shall be confidential except in instances where information becomes relevant in connection with hearings which may be requested by applicant pursuant to § 540.8 (a) or (b).
 
-(h) Every person who has been issued a Certificate (Performance) must submit to the Commission a semi-annual statement of any changes with respect to the information contained in the application or documents submitted in support thereof or a statement that no changes have occurred. Negative statements are required to indicate no change. These statements must cover the 6-month period of January through June and July through December, and include a statement of the highest unearned passenger vessel revenue accrued for each month in the 6-month reporting period. Such statements will be due within 30 days after the close of every such 6-month period. The reports required by this paragraph shall be submitted to the Bureau of Certification and Licensing at its office in Washington, DC 20573 by certified mail, courier service, or electronic submission.
+(h) Every person who has been issued a Certificate (Performance) must submit to the Commission a semi-annual statement of any changes with respect to the information contained in the application or documents submitted in support thereof or a statement that no changes have occurred. Negative statements are required to indicate no change. These statements must cover the 6-month period of January through June and July through December and include a statement of the highest unearned passenger vessel revenue accrued for each month in the 6-month reporting period as well as any instances of nonperformance of transportation. Such statements will be due within 30 days after the close of every such 6-month period. The reports required by this paragraph shall be submitted to the Bureau of Certification and Licensing at its office in Washington, DC by certified mail, courier service, or electronic submission.
 
-(i) [Reserved]
+(i) *Information on How to Obtain Refunds.* (1) PVOs shall provide on their websites clear instructions on how passengers may obtain refunds in the event of nonperformance of transportation; and
+
+(2) PVOs shall submit an active web page address with their refund instructions for nonperformance of transportation to the Commission for publication on the Commission's website.
+
+(3) Form FMC-131 “Application for Certificate of Financial Responsibility” will include a required field for PVOs to provide the web page address of their refund instructions for nonperformance of transportation.
 
 (j) The amount of: the insurance as specified in § 540.5(a), the escrow account as specified in § 540.5(b), the guaranty as specified in § 540.5(c), or the surety bond as specified in § 540.6 shall not be required to exceed $15 million for one year after April 2, 2013. Twelve (12) months after April 2, 2013, the amount shall not exceed $22 million, and twenty four (24) months after April 2, 2013, the amount shall not exceed $30 million. Every two years, on the anniversary after the cap on required financial responsibility reaches $30 million, the cap shall automatically adjust to the nearest $1 million based on changes as reflected in the U.S. Bureau of Labor Statistics' Consumer Price Index. The Bureau of Certification and Licensing will determine the amount of each adjustment and transmit that information to the Secretary of the Federal Maritime Commission for publication on the Commission's Web site (*www.fmc.gov*) and in the Federal Register with an effective date that is no less than sixty (60) days after Federal Register publication.
 
@@ -40,4 +46,4 @@ Link to an amendment published at 87 FR 15132, Mar. 17, 2022.
 
 (8) Where a request is granted, the alternative financial responsibility shall remain in effect until the PVO's Certificate (Performance) expires under § 540.7(b) or until the Director, Bureau of Certification and Licensing determines otherwise based upon changing information pursuant to this paragraph or paragraph (l)(5) of this section. Additional information may be requested at any time by the Commission or BCL from a PVO whose request under this section has been granted.
 
-[49 FR 36313, Sept. 14, 1984, as amended at 55 FR 34568, Aug. 23, 1990; 78 FR 13278, Feb. 27, 2013]
+[49 FR 36313, Sept. 14, 1984, as amended at 55 FR 34568, Aug. 23, 1990; 78 FR 13278, Feb. 27, 2013; 87 FR 15132, Mar. 17, 2022]

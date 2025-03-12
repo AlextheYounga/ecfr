@@ -1,7 +1,5 @@
 ##### § 74.1235 Power limitations and antenna systems. #####
 
-Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
-
 (a) An application for an FM translator station filed by the licensee or permittee of the primary station to provide fill-in service within the primary station's coverage area will not be accepted for filing if it specifies an effective radiated power (ERP) which exceeds 250 watts.
 
 (b) An application for an FM translator station, other than one for fill-in service which is covered in paragraph (a) of this section, will not be accepted for filing if it specifies an effective radiated power (ERP) which exceeds the maximum ERP (MERP) value determined in accordance with this paragraph. The antenna height above average terrain (HAAT) shall be determined in accordance with § 73.313(d) of this chapter for each of 12 distinct radials, with each radial spaced 30 degrees apart and with the bearing of the first radial bearing true north. Each raidal HAAT value shall be rounded to the nearest meter. For each of the 12 radial directions, the MERP is the value corresponding to the calculated HAAT in the following tables that is appropriate for the location of the translator. For an application specifying a nondirectional transmitting antenna, the specified ERP must not exceed the smallest of the 12 MERP's. For an application specifying a directional transmitting antenna, the ERP in each azimuthal direction must not exceed the MERP for the closest of the 12 radial directions.
@@ -46,11 +44,9 @@ Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
 
 (c) The effective radiated power of FM booster stations shall be limited such that the predicted service contour of the booster station, computed in accordance with § 73.313 paragraphs (a) through (d) of this chapter, may not extend beyond the corresponding service contour of the primary FM station that the booster rebroadcasts. In no event shall the ERP of the booster station exceed 20% of the maximum allowable ERP for the primary station's class.
 
-(d) Applications for FM translator stations located within 320 km of the Canadian border will not be accepted if they specify more than 50 watts effective radiated power in any direction or have a 34 dBu interference contour, calculated in accordance with § 74.1204 of this part, that exceeds 32 km. FM translator stations located within 320 kilometers of the Mexican border must be separated from Mexican allotments and assignments in accordance with § 73.207(b)(3) of this chapter and are limited to a transmitter power output of 10 watts or less. For purposes of compliance with that section, FM translators will be considered as Class D FM stations.
+(d)(1) Translator or booster stations located within 125 kilometers of the Mexican border may not exceed an ERP of 50 watts (0.050 kW) in the direction of the Mexican border. Such stations also may not produce an interfering contour in excess of 32 km from the transmitter site in the direction of the Mexican border, nor may the 60 dBu service contour exceed 8.7 km from the transmitter site in the direction of the Mexican border.
 
-(1) Translator stations located within 125 kilometers of the Mexican border may operate with an ERP up to 50 watts (0.050 kW) ERP. A booster station may not produce a 34 dBu interfering contour in excess of 32 km from the transmitter site in the direction of the Mexican border, nor may the 60 dBu service contour of the booster station exceed 8.7 km from the transmitter site in the direction of the Mexican border.
-
-(2) Translator stations located between 125 kilometers and 320 kilometers from the Mexican border may operate with an ERP in excess of 50 watts, up to the maximum permitted ERP of 250 watts per § 74.1235(b)(2). However, in no event shall the location of the 60 dBu contour lie within 116.3 km of the Mexican border.
+(2) Translator or booster stations located between 125 kilometers and 320 kilometers from the Mexican border may operate with an ERP in excess of 50 watts. However, in no event shall the location of the 60 dBu contour lie within 116.3 km of the Mexican border.
 
 (3) Applications for translator or booster stations within 320 km of the Canadian border may employ an ERP up to a maximum of 250 watts, as specified in § 74.1235(a) and (b). The distance to the 34 dBu interfering contour may not exceed 60 km in any direction.
 
@@ -68,8 +64,8 @@ Note:
 
 Existing licensees and permittees that do not furnish data sufficient to calculate the contours in conformance with § 74.1204 will be assigned protected contours having the following radii:
 
-Up to 10 watts - 1 mile (1.6 km) from transmitter site.Up to 100 watts - 2 miles (3.2 km) from transmitter site.Up to 250 watts - 4 miles (6.5 km) from transmitter site.
+Up to 10 watts—1 mile (1.6 km) from transmitter site.Up to 100 watts—2 miles (3.2 km) from transmitter site.Up to 250 watts—4 miles (6.5 km) from transmitter site.
 
 (j) FM translator stations authorized prior to June 1, 1991, with facilities that do not comply with the ERP limitation of paragraph (a) or (b) of this section, as appropriate, may continue to operate, provided that operation is in conformance with § 74.1203 regarding interference. Applications for major changes in FM translator stations must specify facilities that comply with paragraph (a) or (b) of this section, as appropriate.
 
-[55 FR 50697, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42026, Aug. 6, 1993; 62 FR 51063, Sept. 30, 1997; 63 FR 33879, June 22, 1998; 63 FR 36605, July 7, 1998]
+[55 FR 50697, Dec. 10, 1990, as amended at 56 FR 56170, Nov. 1, 1991; 58 FR 42026, Aug. 6, 1993; 62 FR 51063, Sept. 30, 1997; 63 FR 33879, June 22, 1998; 63 FR 36605, July 7, 1998; 87 FR 15344, Mar. 18, 2022]

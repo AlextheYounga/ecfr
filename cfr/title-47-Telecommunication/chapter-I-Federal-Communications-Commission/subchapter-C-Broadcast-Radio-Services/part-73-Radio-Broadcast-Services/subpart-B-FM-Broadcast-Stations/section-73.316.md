@@ -1,7 +1,5 @@
 ##### § 73.316 FM antenna systems. #####
 
-Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
-
 (a) It shall be standard to employ horizontal polarization; however, circular or elliptical polarization may be employed if desired. Clockwise or counterclockwise rotation may be used. The supplemental vertically polarized effective radiated power required for circular or elliptical polarization shall in no event exceed the effective radiated power authorized.
 
 (b) *Directional antennas.* A directional antenna is an antenna that is designed or altered for the purpose of obtaining a non-circular radiation pattern.
@@ -34,10 +32,10 @@ Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
 
 RMS = the square root of:[(relative field value 1)2 + (relative field value 2)2 + .... + (last relative field value)2]total number of relative field values
 
-(B) where the relative field values are taken from at least 36 evenly spaced radials for the entire 360 degrees of azimuth. The application for license must also demonstrate that coverage of the community of license by the 70 dBu contour is maintained for stations authorized pursuant to § 73.215 on Channels 221 through 300, as required by § 73.315(a), while noncommercial educational stations operating on Channels 201 through 220 must show that the 60 dBu contour covers at least a portion of the community of license.
+(B) Where the relative field values are taken from at least 36 evenly spaced radials for the entire 360 degrees of azimuth. The application for license must also demonstrate that coverage of the community of license by the 70 dBu contour is maintained for stations authorized pursuant to § 73.215 on Channels 221 through 300, as required by § 73.315(a), while noncommercial educational stations operating on Channels 201 through 220 must show that the proposed transmitter location will provide a minimum field strength of 1 mV/m (60 dBu) over at least 50 percent of its community of license or reach 50 percent of the population within the community.
 
-(d) Applications proposing the use of FM transmitting antennas in the immediate vicinity (*i.e.* 60 meters or less) of other FM or TV broadcast antennas must include a showing as to the expected effect, if any, of such approximate operation.
+(d) Applications proposing the use of FM transmitting antennas in the immediate vicinity (*i.e.,* 60 meters or less) of other FM or TV broadcast antennas must include a showing as to the expected effect, if any, of such proximate operation.
 
 (e) Where an FM licensee or permittee proposes to mount its antenna on or near an AM tower, as defined in § 1.30002, the FM licensee or permittee must comply with § 1.30003 or § 1.30002, depending on whether the antenna is proposed to be mounted on an AM tower (§ 1.30003) or near an AM tower (§ 1.30002).
 
-[28 FR 13623, Dec. 14, 1963, as amended at 34 FR 14222, Sept. 10, 1969; 37 FR 25841, Dec. 5, 1972; 43 FR 53738, Nov. 17, 1978; 48 FR 29508, June 27, 1983; 51 FR 17028, May 8, 1986; 54 FR 9804, Mar. 8, 1989; 56 FR 57294, Nov. 8, 1991; 62 FR 51058, Sept. 30, 1997; 63 FR 70047, Dec. 18, 1998; 78 FR 66298, Nov. 5, 2013]
+[28 FR 13623, Dec. 14, 1963, as amended at 34 FR 14222, Sept. 10, 1969; 37 FR 25841, Dec. 5, 1972; 43 FR 53738, Nov. 17, 1978; 48 FR 29508, June 27, 1983; 51 FR 17028, May 8, 1986; 54 FR 9804, Mar. 8, 1989; 56 FR 57294, Nov. 8, 1991; 62 FR 51058, Sept. 30, 1997; 63 FR 70047, Dec. 18, 1998; 78 FR 66298, Nov. 5, 2013; 87 FR 15343, Mar. 18, 2022]

@@ -1,7 +1,5 @@
 ##### § 73.1690 Modification of transmission systems. #####
 
-Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
-
 The following procedures and restrictions apply to licensee modifications of authorized broadcast transmission system facilities.
 
 (a) The following changes are prohibited:
@@ -74,7 +72,7 @@ The following procedures and restrictions apply to licensee modifications of aut
 
 (8) FM commercial stations and FM noncommercial educational stations may decrease ERP on a modification of license application provided that exhibits are included to demonstrate that all five of the following requirements are met:
 
-(i) Commercial FM stations must continue to provide a 70 dBu principal community contour over the community of license, as required by § 73.315(a). Noncommercial educational FM stations must continue to provide a 60 dBu contour over at least a portion of the community of license. The 60 and 70 dBu contours must be predicted by use of the standard contour prediction method in § 73.313(b), (c), and (d).
+(i) Commercial FM stations must continue to provide a 70 dBu principal community contour over the community of license, as required by § 73.315(a). Noncommercial educational FM stations must continue to provide a 60 dBu contour over at least 50 percent of its community of license or reach 50 percent of the population within the community. The 60 and 70 dBu contours must be predicted by use of the standard contour prediction method in § 73.313(b), (c), and (d).
 
 (ii) For commercial FM stations only, there is no change in the authorized station class as defined in § 73.211.
 

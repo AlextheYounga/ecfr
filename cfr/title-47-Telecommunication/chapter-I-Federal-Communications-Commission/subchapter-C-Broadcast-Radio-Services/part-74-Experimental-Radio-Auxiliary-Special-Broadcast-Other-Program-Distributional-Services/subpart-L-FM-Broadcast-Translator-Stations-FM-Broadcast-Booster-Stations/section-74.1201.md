@@ -1,7 +1,5 @@
 ##### § 74.1201 Definitions. #####
 
-Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
-
 (a) *FM translator.* A station in the broadcasting service operated for the purpose of retransmitting the signals of an AM or FM radio broadcast station or another FM broadcast translator station without significantly altering any characteristics of the incoming signal other than its frequency and amplitude, in order to provide radio broadcast service to the general public.
 
 (b) *Commercial FM translator.* An FM broadcast translator station which rebroadcasts the signals of a commercial AM or FM radio broadcast station.
@@ -20,7 +18,7 @@ Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
 
 (i) *Other area.* The area where the coverage contour of an FM translator station extends beyond the protected contour of the primary station (*i.e.,* predicted 0.5 mV/m contour for commercial Class B stations, predicted 0.7 mV/m contour for commercial Class B1 stations, and predicted 1 mV/m contour for all other classes of stations).
 
-(j) *AM Fill-in area.* The area within the lesser of the 2 mV/m daytime contour of the AM radio broadcast station being rebroadcast and a 25-mile (40 km) radius centered at the AM transmitter site.
+(j) *AM Fill-in area.* The area within the greater of the 2 mV/m daytime contour of the AM radio broadcast station being rebroadcast or a 25-mile (40 km) radius centered at the AM transmitter site.
 
 (k) *Listener complaint.* A statement that is signed and dated by the listener and contains the following information:
 
@@ -34,4 +32,4 @@ Link to an amendment published at 87 FR 15344, Mar. 18, 2022.
 
 (l) *LPFM booster.* An FM broadcast booster station as defined in paragraph (f) of this section that is commonly-owned by an LPFM station for the purpose of retransmitting the signals of the commonly-owned LPFM station.
 
-[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31405, Aug. 20, 1987; 55 FR 50693, Dec. 10, 1990; 74 FR 45129, Sept. 1, 2009; 82 FR 13072, Mar. 9, 2017; 84 FR 27740, June 14, 2019; 85 FR 35574, June 11, 2020]Effective Date Note:At 82 FR 13072, Mar. 9, 2017, § 74.1201 was amended by revising the last two sentences of paragraph (g), effective Apr. 10, 2017. At 82 FR 13069, Mar. 9, 2017, the effective date was delayed indefinitely pending Office of Management and Budget approval of a nonsubstantive change in the rule as originally proposed.
+[35 FR 15388, Oct. 2, 1970, as amended at 45 FR 37842, June 5, 1980; 52 FR 31405, Aug. 20, 1987; 55 FR 50693, Dec. 10, 1990; 74 FR 45129, Sept. 1, 2009; 82 FR 13072, Mar. 9, 2017; 84 FR 27740, June 14, 2019; 85 FR 35574, June 11, 2020; 87 FR 15344, Mar. 18, 2022]Effective Date Note:At 82 FR 13072, Mar. 9, 2017, § 74.1201 was amended by revising the last two sentences of paragraph (g), effective Apr. 10, 2017. At 82 FR 13069, Mar. 9, 2017, the effective date was delayed indefinitely pending Office of Management and Budget approval of a nonsubstantive change in the rule as originally proposed.

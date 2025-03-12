@@ -1,8 +1,6 @@
 ##### § 73.509 Prohibited overlap. #####
 
-Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
-
-(a) An application for a new or modified NCE-FM station other than a Class D (secondary) station will not be accepted if the proposed operation would involve overlap of signal strength contours with any other station licensed by the Commission and operating in the reserved band (Channels 200-220, inclusive) as set forth below:
+(a) An application for a new or modified NCE-FM station other than a Class D (secondary) station will not be accepted if the proposed operation would involve overlap of signal strength contours with any other station licensed by the Commission and operating in the reserved band (Channels 200-220, inclusive) as set forth in Table 1 to this paragraph (a):
 
 |Frequency separation|      Contour of proposed station       |        Contour of other station        |
 |--------------------|----------------------------------------|----------------------------------------|
@@ -10,14 +8,13 @@ Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
 |      200 kHz       |0.5 mV/m (54 dBu)  <br/>1 mV/m (60 dBu)1|1 mV/m (60 dBu)  <br/>0.5 mV/m (54 dBu) |
 |  400 kHz/600 kHz   |100 mV/m (100 dBu)  <br/>1 mV/m (60 dBu)|1 mV/m (60 dBu)  <br/>100 mV/m (100 dBu)|
 
-(b) An application by a Class D (secondary) station, other than an application to change class, will not be accepted if the proposed operation would involve overlap of signal strength contours with any other station as set forth below:
+(b) An application by a Class D (secondary) station, other than an application to change class, will not be accepted if the proposed operation would involve overlap of signal strength contours with any other station as set forth in Table 2 to this paragraph (b):
 
-|Frequency separation|Contour of proposed station|Contour of any other station|
-|--------------------|---------------------------|----------------------------|
-|     Co-channel     |     0.1 mV/m (40 dBu)     |      1 mV/m (60 dBu).      |
-|      200 kHz       |     0.5 mV/m (54 dBu)     |      1 mV/m (60 dBu).      |
-|      400 kHz       |     10 mV/m (80 dBu)      |      1 mV/m (60 dBu).      |
-|      600 kHz       |    100 mV/m (100 dBu)     |      1 mV/m (60 dBu).      |
+|Frequency separation|Contour of  <br/>proposed station|Contour of  <br/>any other station|
+|--------------------|---------------------------------|----------------------------------|
+|     Co-channel     |        0.1 mV/m (40 dBu)        |         1 mV/m (60 dBu)          |
+|      200 kHz       |        0.5 mV/m (54 dBu)        |         1 mV/m (60 dBu)          |
+|    400/600 kHz     |       100 mV/m (100 dBu)        |         1 mV/m (60 dBu)          |
 
 (c) The following standards must be used to compute the distances to the pertinent contours:
 
@@ -39,4 +36,4 @@ Link to an amendment published at 87 FR 15343, Mar. 18, 2022.
 
 (e) The provisions of this section concerning prohibited overlap will not apply where the area of such overlap lies entirely over water.
 
-[50 FR 27962, July 9, 1985, as amended at 52 FR 43765, Nov. 16, 1987; 65 FR 79778, Dec. 20, 2000]
+[50 FR 27962, July 9, 1985, as amended at 52 FR 43765, Nov. 16, 1987; 65 FR 79778, Dec. 20, 2000; 87 FR 15343, Mar. 18, 2022]
