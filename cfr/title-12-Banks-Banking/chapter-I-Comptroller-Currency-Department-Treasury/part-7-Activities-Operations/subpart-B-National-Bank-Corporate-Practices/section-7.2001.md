@@ -1,3 +1,1 @@
-##### § 7.2001 Notice of shareholders' meetings. #####
-
-A national bank must mail shareholders notice of the time, place, and purpose of all shareholders' meetings at least 10 days prior to the meeting by first class mail, unless the OCC determines that an emergency circumstance exists. Where a national bank is a wholly-owned subsidiary, the sole shareholder is permitted to waive notice of the shareholder's meeting. The articles of association, bylaws, or law applicable to a national bank may require a longer period of notice.
+##### § 7.2001 [Reserved] #####

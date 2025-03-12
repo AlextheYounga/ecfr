@@ -24,7 +24,7 @@
 
 (4) Limits access granted to former Presidential appointees to items that the individual originated, reviewed, signed, or received while serving as a Presidential appointee; and
 
-(5) Receives from the DAS:
+(5) Receives from the Director for Security:
 
 (i) A determination that the individual is trustworthy; and
 
@@ -33,3 +33,5 @@
 (c) An individual seeking access should describe the information with sufficient specificity to locate and compile it with a reasonable amount of effort. If the access requested by a historical researcher or former Presidential appointee requires services for which fees are chargeable, the responsible component shall notify the individual in advance.
 
 (d) This section applies only to classified information originated by the Department, or to information in the sole custody of the Department. Otherwise, the individual shall be referred to the classifying agency.
+
+[66 FR 65650, Dec. 20, 2001, as amended at 85 FR 35376, June 10, 2020]
