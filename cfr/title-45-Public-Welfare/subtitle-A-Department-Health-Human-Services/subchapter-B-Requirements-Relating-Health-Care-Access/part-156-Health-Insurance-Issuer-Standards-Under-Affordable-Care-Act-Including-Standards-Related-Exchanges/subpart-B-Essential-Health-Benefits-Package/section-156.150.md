@@ -1,5 +1,7 @@
 ##### § 156.150 Application to stand-alone dental plans inside the Exchange. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) *Annual limitation on cost-sharing.* For a stand-alone dental plan covering the pediatric dental EHB under § 155.1065 of this subchapter in any Exchange, cost sharing may not exceed $350 for one covered child and $700 for two or more covered children.
 
 (1) For plan years beginning after 2017, for one covered child - the dollar limit applicable to a stand-alone dental plan for one covered child specified in this paragraph (a) increased by the percent increase of the consumer price index for dental services for the year 2 years prior to the applicable plan year over the consumer price index for dental services for 2016.

@@ -1,5 +1,7 @@
 ##### § 155.305 Eligibility standards. #####
 
+Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
+
 (a) *Eligibility for enrollment in a QHP through the Exchange.* The Exchange must determine an applicant eligible for enrollment in a QHP through the Exchange if he or she meets the following requirements:
 
 (1) *Citizenship, status as a national, or lawful presence.* Is a citizen or national of the United States, or is a non-citizen who is lawfully present in the United States, and is reasonably expected to be a citizen, national, or a non-citizen who is lawfully present for the entire period for which enrollment is sought;

@@ -1,5 +1,7 @@
 ##### § 156.298 Meaningful difference standard for Qualified Health Plans in the Federally-facilitated Exchanges. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) *General.* Subject to paragraph (b)(2) of this section, starting in the 2015 coverage year, in order to be certified as a QHP offered through a Federally-facilitated Exchange, a plan must be meaningfully different from all other QHPs offered by the same issuer of that plan within a service area and level of coverage in the Exchange, as defined in paragraph (b) of this section.
 
 (b) *Meaningful difference standard.* A plan is considered meaningfully different from another plan in the same service area and metal tier (including catastrophic plans) if a reasonable consumer would be able to identify one or more material differences among the following characteristics between the plan and other plan offerings:

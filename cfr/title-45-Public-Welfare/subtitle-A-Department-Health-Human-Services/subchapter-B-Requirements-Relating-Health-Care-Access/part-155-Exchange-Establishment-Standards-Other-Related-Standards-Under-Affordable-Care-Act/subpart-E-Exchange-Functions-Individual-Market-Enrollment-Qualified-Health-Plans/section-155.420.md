@@ -1,5 +1,7 @@
 ##### § 155.420 Special enrollment periods. #####
 
+Link to an amendment published at 83 FR 17062, Apr. 17, 2018.
+
 (a) *General requirements* - (1) *General parameters.* The Exchange must provide special enrollment periods consistent with this section, during which qualified individuals may enroll in QHPs and enrollees may change QHPs.
 
 (2) *Definition of dependent.* For the purpose of this section, “dependent”, has the same meaning as it does in 26 CFR 54.9801-2, referring to any individual who is or who may become eligible for coverage under the terms of a QHP because of a relationship to a qualified individual or enrollee.

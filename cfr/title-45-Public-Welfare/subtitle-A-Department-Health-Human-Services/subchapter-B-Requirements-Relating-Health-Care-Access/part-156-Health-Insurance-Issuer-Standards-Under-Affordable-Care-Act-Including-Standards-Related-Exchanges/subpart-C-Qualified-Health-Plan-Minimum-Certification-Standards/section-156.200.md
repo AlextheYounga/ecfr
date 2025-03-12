@@ -1,5 +1,7 @@
 ##### § 156.200 QHP issuer participation standards. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) *General requirement.* In order to participate in an Exchange, a health insurance issuer must have in effect a certification issued or recognized by the Exchange to demonstrate that each health plan it offers in the Exchange is a QHP.
 
 (b) *QHP issuer requirement.* A QHP issuer must -

@@ -1,5 +1,7 @@
 ##### § 155.735 Termination of SHOP enrollment or coverage. #####
 
+Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
+
 (a) *General requirements.* The SHOP must determine the timing, form, and manner in which coverage or enrollment in a QHP through the SHOP may be terminated.
 
 (b) *Termination of employer group health coverage or enrollment at the request of the employer.* (1) The SHOP must establish policies for advance notice of termination required from the employer and effective dates of termination.

@@ -1,5 +1,7 @@
 ##### § 155.715 Eligibility determination process for SHOP. #####
 
+Link to an amendment published at 83 FR 17065, Apr. 17, 2018.
+
 (a) *General requirement.* Before permitting the purchase of coverage in a QHP, the SHOP must determine that the employer or individual who requests coverage is eligible in accordance with the requirements of § 155.710.
 
 (b) *Applications.* The SHOP must accept a SHOP single employer application form from employers and the SHOP single employee application form from employees wishing to elect coverage through the SHOP, in accordance with the relevant standards of § 155.730.

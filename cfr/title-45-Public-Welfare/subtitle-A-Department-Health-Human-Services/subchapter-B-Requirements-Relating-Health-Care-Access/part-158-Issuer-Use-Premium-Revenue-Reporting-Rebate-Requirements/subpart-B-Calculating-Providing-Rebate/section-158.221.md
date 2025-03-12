@@ -1,5 +1,7 @@
 ##### § 158.221 Formula for calculating an issuer's medical loss ratio. #####
 
+Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+
 (a) *Medical loss ratio.* (1) An issuer's MLR is the ratio of the numerator, as defined in paragraph (b) of this section, to the denominator, as defined in paragraph (c) of this section, subject to the applicable credibility adjustment, if any, as provided in § 158.232 of this subpart.
 
 (2) An issuer's MLR shall be rounded to three decimal places. For example, if an MLR is 0.7988, it shall be rounded to 0.799 or 79.9 percent. If an MLR is 0.8253 or 82.53 percent, it shall be rounded to 0.825 or 82.5 percent.

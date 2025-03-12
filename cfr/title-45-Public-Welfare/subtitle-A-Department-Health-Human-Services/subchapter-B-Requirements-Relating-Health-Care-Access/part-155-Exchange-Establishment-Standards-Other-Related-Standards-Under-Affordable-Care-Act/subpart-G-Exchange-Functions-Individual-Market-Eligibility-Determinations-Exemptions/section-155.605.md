@@ -1,5 +1,7 @@
 ##### § 155.605 Eligibility standards for exemptions. #####
 
+Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
+
 (a) *Eligibility for an exemption through the Exchange.* Except as specified in paragraph (g) of this section, the Exchange must determine an applicant eligible for and issue a certificate of exemption for any month if the Exchange determines that he or she meets the requirements for one or more of the categories of exemptions described in this section for at least one day of the month.
 
 (b) *Duration of single exemption.* Except as specified in paragraphs (c)(2) and (d) of this section, the Exchange may provide a certificate of exemption only for the calendar year in which an applicant submitted an application for such exemption.

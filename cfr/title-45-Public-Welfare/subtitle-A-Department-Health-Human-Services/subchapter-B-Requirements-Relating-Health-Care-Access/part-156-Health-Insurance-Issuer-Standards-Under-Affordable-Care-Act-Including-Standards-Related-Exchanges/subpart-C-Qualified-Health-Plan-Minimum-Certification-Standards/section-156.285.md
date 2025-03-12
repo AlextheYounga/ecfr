@@ -1,5 +1,7 @@
 ##### § 156.285 Additional standards specific to SHOP. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) *SHOP rating and premium payment requirements.* QHP issuers offering a QHP through a SHOP must:
 
 (1) Accept payment from the SHOP on behalf of a qualified employer or an enrollee in accordance with § 155.705(b)(4) of this subchapter;

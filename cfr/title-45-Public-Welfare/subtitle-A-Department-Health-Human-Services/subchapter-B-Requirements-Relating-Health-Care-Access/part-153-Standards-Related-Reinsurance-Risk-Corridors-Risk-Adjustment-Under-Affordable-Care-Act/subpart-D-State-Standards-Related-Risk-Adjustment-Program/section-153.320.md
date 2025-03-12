@@ -1,5 +1,7 @@
 ##### § 153.320 Federally certified risk adjustment methodology. #####
 
+Link to an amendment published at 83 FR 17059, Apr. 17, 2018.
+
 (a) *General requirement.* Any risk adjustment methodology used by a State, or HHS on behalf of the State, must be a Federally certified risk adjustment methodology. A risk adjustment methodology may become Federally certified by one of the following processes:
 
 (1) The risk adjustment methodology is developed by HHS and published in advance of the benefit year in rulemaking; or

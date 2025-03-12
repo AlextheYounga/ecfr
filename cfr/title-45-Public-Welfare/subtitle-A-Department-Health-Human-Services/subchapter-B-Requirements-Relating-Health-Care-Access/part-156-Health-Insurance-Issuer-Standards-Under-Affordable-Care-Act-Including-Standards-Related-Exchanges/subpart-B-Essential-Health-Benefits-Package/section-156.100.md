@@ -1,5 +1,7 @@
 ##### § 156.100 State selection of benchmark. #####
 
+Link to an amendment published at 83 FR 17068, Apr. 17, 2018.
+
 Each State may identify a single EHB-benchmark plan according to the selection criteria described below:
 
 (a) *State selection of base-benchmark plan.* The options from which a base-benchmark plan may be selected by the State are the following:

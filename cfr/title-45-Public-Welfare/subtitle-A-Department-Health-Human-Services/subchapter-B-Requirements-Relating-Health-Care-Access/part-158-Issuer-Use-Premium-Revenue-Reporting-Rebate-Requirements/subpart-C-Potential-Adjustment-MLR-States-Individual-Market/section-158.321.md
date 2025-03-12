@@ -1,5 +1,7 @@
 ##### § 158.321 Information regarding the State's individual health insurance market. #####
 
+Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+
 (a) *State MLR standard.* The State must describe its current MLR standard for the individual market, if any, and the formula used to assess compliance with such standard.
 
 (b) *State market withdrawal requirements.* The State must describe any requirements it has with respect to withdrawals from the State's individual health insurance market. Such requirements include, but are not limited to, any notice that must be provided and any authority the State regulator may have to approve a withdrawal plan or ensure that enrollees of the exiting issuer have continuing coverage, as well as any penalties or sanctions that may be levied upon exit or limitations on re-entry.

@@ -1,5 +1,7 @@
 ##### § 155.730 Application standards for SHOP. #####
 
+Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
+
 (a) *General requirements.* Application forms used by the SHOP must meet the requirements set forth in this section.
 
 (b) *Single employer application.* The SHOP must use a single application to determine employer eligibility and to collect information necessary for purchasing coverage. Such application must collect the following -

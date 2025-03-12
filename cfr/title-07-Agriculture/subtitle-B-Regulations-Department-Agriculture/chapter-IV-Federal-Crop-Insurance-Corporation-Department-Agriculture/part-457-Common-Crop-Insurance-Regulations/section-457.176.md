@@ -76,9 +76,9 @@ United States Department of AgricultureFederal Crop Insurance CorporationCultiva
 
 *Seed clam.*
 
-(a) For clams placed in a field nursery or a nursery bag - a clam that is a minimum of 5 millimeters, measured at the longest shell distance that is parallel to the hinge.
+(a) For clams placed in a field nursery or a nursery bag—a clam that is a minimum of 5 millimeters, measured at the longest shell distance that is parallel to the hinge.
 
-(b) For all others - a clam which is a minimum of 10 millimeters, measured at the longest shell distance that is parallel to the hinge.
+(b) For all others—a clam which is a minimum of 10 millimeters, measured at the longest shell distance that is parallel to the hinge.
 
 *Separately named high-density aquaculture lease site.* The submerged subdivided land under a body of water suitable for the cultivation of clams and identified and named separately by the Division of Marine Resources or similar regulatory agency.
 
@@ -306,19 +306,15 @@ We will determine indemnities for any unit as follows:
 
 (g) The total of all indemnities for the crop year will not exceed the amount of insurance.
 
-15. Written Agreements
-
-The written agreement provisions in the Basic Provisions do not apply.
-
-16. Late Planting
+15. Late Planting
 
 Provisions of section 16 of the Basic Provisions do not apply.
 
-17. Prevented Planting
+16. Prevented Planting
 
 Provisions of section 17 of the Basic Provisions do not apply.
 
-18. Loss ExamplesSingle Unit Loss Example
+17. Loss ExamplesSingle Unit Loss Example
 
 Assume you have a 100 percent share, the inventory value reported by you is $100,000, and your coverage level is 75 percent. Your amount of insurance is $75,000 ($100,000 × .75). At the time of loss, unit value before loss is $95,000, unit value after loss is $30,000 and basic unit value before loss is $100,000. The deductible percentage is 25 percent (100−75), the crop year deductible is $25,000 (.25 × $100,000). Your indemnity would be calculated as follows:
 
@@ -366,4 +362,4 @@ Step (6) Result of step 5 minus the occurrence deductible; $52,000−$13,000 = $
 
 Step (7) Result of step 6 multiplied by your share; $39,000 × 1.000 = $39,000 indemnity payment.
 
-[82 FR 61135, Dec. 27, 2017]
+[82 FR 61135, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018]

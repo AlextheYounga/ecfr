@@ -1,5 +1,7 @@
 ##### § 158.322 Proposal for adjusted medical loss ratio. #####
 
+Link to an amendment published at 83 FR 17071, Apr. 17, 2018.
+
 A State must provide its own proposal as to the adjustment it seeks to the MLR standard. This proposal must include:
 
 (a) An explanation and justification of how the proposed adjustment to the MLR was determined;

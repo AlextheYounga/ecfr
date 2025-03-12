@@ -1,5 +1,7 @@
 ##### § 155.610 Eligibility process for exemptions. #####
 
+Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
+
 (a) *Application.* Except as specified in paragraphs (b) and (c) of this section, the Exchange must use an application established by HHS to collect information necessary for determining eligibility for and granting certificates of exemption as described in § 155.605.
 
 (b) *Alternative application.* If the Exchange seeks to use an alternative application, such application, as approved by HHS, must request the minimum information necessary for the purposes identified in paragraph (a) of this section.

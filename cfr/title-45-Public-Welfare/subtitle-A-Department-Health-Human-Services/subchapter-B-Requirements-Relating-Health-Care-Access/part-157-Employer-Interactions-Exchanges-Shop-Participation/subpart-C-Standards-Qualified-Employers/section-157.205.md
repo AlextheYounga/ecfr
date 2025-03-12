@@ -1,5 +1,7 @@
 ##### § 157.205 Qualified employer participation process in a SHOP. #####
 
+Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+
 (a) *General requirements.* When joining the SHOP, a qualified employer must comply with the requirements, processes, and timelines set forth by this part and must remain in compliance for the duration of the employer's participation in the SHOP.
 
 (b) *Selecting QHPs.* During an election period, a qualified employer may make coverage in a QHP available through the SHOP in accordance with the processes developed by the SHOP in accordance with § 155.705 of this subchapter.

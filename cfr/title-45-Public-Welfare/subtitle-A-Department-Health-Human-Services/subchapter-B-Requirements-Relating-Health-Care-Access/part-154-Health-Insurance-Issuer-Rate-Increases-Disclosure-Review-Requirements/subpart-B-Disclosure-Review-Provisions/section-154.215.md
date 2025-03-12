@@ -1,5 +1,7 @@
 ##### § 154.215 Submission of rate filing justification. #####
 
+Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
+
 (a) A health insurance issuer must submit to CMS and to the applicable State (if the State accepts such submissions) the information specified below on a form and in a manner prescribed by the Secretary.
 
 (1) For all single risk pool products, including new and discontinuing products, the Unified Rate Review Template, as described in paragraph (d) of this section;

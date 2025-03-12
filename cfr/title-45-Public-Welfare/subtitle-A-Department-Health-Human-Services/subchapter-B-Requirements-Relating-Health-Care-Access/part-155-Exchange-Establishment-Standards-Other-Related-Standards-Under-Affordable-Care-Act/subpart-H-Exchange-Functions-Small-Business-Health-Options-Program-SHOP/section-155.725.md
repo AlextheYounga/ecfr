@@ -1,5 +1,7 @@
 ##### § 155.725 Enrollment periods under SHOP. #####
 
+Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
+
 (a) *General requirements.* The SHOP must ensure that enrollment transactions are sent to QHP issuers and that such issuers adhere to coverage effective dates in accordance with this section.
 
 (b) *Rolling enrollment in the SHOP.* The SHOP must permit a qualified employer to purchase coverage for its small group at any point during the year. The employer's plan year must consist of the 12-month period beginning with the qualified employer's effective date of coverage, unless the plan is issued in a State that has elected to merge its individual and small group risk pools under section 1312(c)(3) of the Affordable Care Act, in which case the plan year will end on December 31 of the calendar year in which coverage first became effective.

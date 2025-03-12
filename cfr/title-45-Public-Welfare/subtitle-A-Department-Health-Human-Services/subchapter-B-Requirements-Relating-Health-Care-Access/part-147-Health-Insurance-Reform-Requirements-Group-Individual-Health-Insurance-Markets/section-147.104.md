@@ -1,5 +1,7 @@
 ##### § 147.104 Guaranteed availability of coverage. #####
 
+Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
+
 (a) *Guaranteed availability of coverage in the individual and group market.* Subject to paragraphs (b) through (d) of this section, a health insurance issuer that offers health insurance coverage in the individual, small group, or large group market in a State must offer to any individual or employer in the State all products that are approved for sale in the applicable market, and must accept any individual or employer that applies for any of those products.
 
 (b) *Enrollment periods.* A health insurance issuer may restrict enrollment in health insurance coverage to open or special enrollment periods.

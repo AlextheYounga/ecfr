@@ -1,5 +1,7 @@
 ##### § 147.102 Fair health insurance premiums. #####
 
+Link to an amendment published at 83 FR 17058, Apr. 17, 2018.
+
 (a) *In general.* With respect to the premium rate charged by a health insurance issuer in accordance with § 156.80 of this subchapter for health insurance coverage offered in the individual or small group market -
 
 (1) The rate may vary with respect to the particular plan or coverage involved only by determining the following:

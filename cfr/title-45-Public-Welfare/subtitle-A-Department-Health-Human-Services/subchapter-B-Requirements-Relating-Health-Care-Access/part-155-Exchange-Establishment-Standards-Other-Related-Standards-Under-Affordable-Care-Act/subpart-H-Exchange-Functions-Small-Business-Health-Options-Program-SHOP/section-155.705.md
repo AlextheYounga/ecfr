@@ -1,5 +1,7 @@
 ##### § 155.705 Functions of a SHOP. #####
 
+Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
+
 (a) *Exchange functions that apply to SHOP.* The SHOP must carry out all the required functions of an Exchange described in this subpart and in subparts C, E, K, and M of this part, except:
 
 (1) Requirements related to individual eligibility determinations in subpart D of this part;

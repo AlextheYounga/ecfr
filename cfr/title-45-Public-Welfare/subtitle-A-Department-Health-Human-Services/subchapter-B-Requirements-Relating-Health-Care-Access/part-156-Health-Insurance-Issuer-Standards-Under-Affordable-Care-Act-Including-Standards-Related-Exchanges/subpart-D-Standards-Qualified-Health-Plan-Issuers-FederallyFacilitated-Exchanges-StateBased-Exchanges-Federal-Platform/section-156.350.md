@@ -1,5 +1,7 @@
 ##### § 156.350 Eligibility and enrollment standards for Qualified Health Plan issuers on State-based Exchanges on the Federal platform. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) In order to participate in a State-based Exchange on the Federal platform, a QHP issuer must comply with HHS regulations, and guidance pertaining to issuer eligibility and enrollment functions as if the issuer were an issuer of a QHP on a Federally-facilitated Exchange. These requirements include -
 
 (1) Section 156.285(a)(4)(ii) regarding the premiums for plans offered on the SHOP;

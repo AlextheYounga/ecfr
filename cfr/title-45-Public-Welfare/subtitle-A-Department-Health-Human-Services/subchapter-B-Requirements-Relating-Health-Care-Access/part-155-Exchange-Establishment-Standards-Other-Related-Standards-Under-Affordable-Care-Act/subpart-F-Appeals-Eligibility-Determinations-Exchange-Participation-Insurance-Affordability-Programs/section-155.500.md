@@ -1,5 +1,7 @@
 ##### § 155.500 Definitions. #####
 
+Link to an amendment published at 83 FR 17063, Apr. 17, 2018.
+
 In addition to those definitions in §§ 155.20 and 155.300, for purposes of this subpart and § 155.740 of subpart H, the following terms have the following meanings:
 
 *Appeal record* means the appeal decision, all papers and requests filed in the proceeding, and, if a hearing was held, the transcript or recording of hearing testimony or an official report containing the substance of what happened at the hearing, and any exhibits introduced at the hearing.

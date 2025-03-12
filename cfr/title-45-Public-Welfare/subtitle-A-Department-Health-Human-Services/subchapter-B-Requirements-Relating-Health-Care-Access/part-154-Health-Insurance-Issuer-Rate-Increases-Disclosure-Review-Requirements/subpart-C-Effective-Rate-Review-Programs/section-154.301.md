@@ -1,5 +1,7 @@
 ##### § 154.301 CMS's determinations of Effective Rate Review Programs. #####
 
+Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
+
 (a) *Effective Rate Review Program.* In evaluating whether a State has an Effective Rate Review Program, CMS will apply the following criteria for the review of rates for the small group market and the individual market, and also, as applicable depending on State law, the review of rates for different types of products within those markets:
 
 (1) The State receives from issuers data and documentation in connection with rate increases that are sufficient to conduct the examination described in paragraph (a)(3) of this section.

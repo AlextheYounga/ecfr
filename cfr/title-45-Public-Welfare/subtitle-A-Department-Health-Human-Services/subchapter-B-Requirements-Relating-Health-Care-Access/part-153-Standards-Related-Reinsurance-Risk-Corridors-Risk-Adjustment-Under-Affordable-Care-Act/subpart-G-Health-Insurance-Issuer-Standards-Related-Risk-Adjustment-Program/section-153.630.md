@@ -1,5 +1,7 @@
 ##### § 153.630 Data validation requirements when HHS operates risk adjustment. #####
 
+Link to an amendment published at 83 FR 17059, Apr. 17, 2018.
+
 (a) *General requirement.* An issuer of a risk adjustment covered plan in a State where HHS is operating risk adjustment on behalf of the State for the applicable benefit year must have an initial and second validation audit performed on its risk adjustment data as described in this section.
 
 (b) *Initial validation audit.* (1) An issuer of a risk adjustment covered plan must engage one or more independent auditors to perform an initial validation audit of a sample of its risk adjustment data selected by HHS. The issuer must provide HHS with the identity of the initial validation auditor, and must attest to the absence of conflicts of interest between the initial validation auditor (or the members of its audit team, owners, directors, officers, or employees) and the issuer (or its owners, directors, officers, or employees), to its knowledge, following reasonable investigation, and must attest that it has obtained an equivalent representation from the initial validation auditor, in a timeframe and manner to be specified by HHS.

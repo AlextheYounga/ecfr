@@ -1,5 +1,7 @@
 ##### § 155.210 Navigator program standards. #####
 
+Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
+
 (a) *General requirements.* The Exchange must establish a Navigator program consistent with this section through which it awards grants to eligible public or private entities or individuals described in paragraph (c) of this section.
 
 (b) *Standards.* The Exchange must develop and publicly disseminate -

@@ -1,5 +1,7 @@
 ##### § 155.720 Enrollment of employees into QHPs under SHOP. #####
 
+Link to an amendment published at 83 FR 17066, Apr. 17, 2018.
+
 (a) *General requirements.* The SHOP must process the SHOP single employee applications of qualified employees to the applicable QHP issuers and facilitate the enrollment of qualified employees in QHPs. All references to QHPs in this section refer to QHPs offered through the SHOP.
 
 (b) *Enrollment timeline and process.* The SHOP must establish a uniform enrollment timeline and process for all QHP issuers and qualified employers to follow, which includes the following activities that must occur before the effective date of coverage for qualified employees:

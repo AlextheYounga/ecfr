@@ -230,11 +230,7 @@ In addition to the requirements of section 14 of the Basic Provisions:
 
 Sections 16 and 17 of the Basic Provisions do not apply to these Crop Provisions.
 
-13. Written Agreements
-
-Section 18 of the Basic Provisions does not apply to these Crop Provisions.
-
-14. Example of Your Insurance Protection
+13. Example of Your Insurance Protection
 
 You certify production records that support the yields per acre shown below:
 
@@ -264,4 +260,4 @@ Assume the unit produced 15,000 lbs. Your share is 100 percent.
 
 The indemnity is calculated as follows:
 
-2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017]
+2,871 × 10 acres = 28,710 lbs.28,710 lbs. −15,000 lbs. = 13,710 lbs.13,710 lbs. × $0.90 × 1.000 = $12,339.[82 FR 61131, Dec. 27, 2017, as amended at 83 FR 16767, Apr. 17, 2018]

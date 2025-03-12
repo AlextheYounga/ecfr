@@ -1,5 +1,7 @@
 ##### § 158.330 Criteria for assessing request for adjustment to the medical loss ratio. #####
 
+Link to an amendment published at 83 FR 17071, Apr. 17, 2018.
+
 The Secretary may consider the following criteria in assessing whether application of an 80 percent MLR, as calculated in accordance with this subpart, may destabilize the individual market in a State that has requested an adjustment to the 80 percent MLR:
 
 (a) The number of issuers reasonably likely to exit the State or to cease offering coverage in the State absent an adjustment to the 80 percent MLR and the resulting impact on competition in the State. In making this determination the Secretary may consider as to each issuer that is reasonably likely to exit the State:

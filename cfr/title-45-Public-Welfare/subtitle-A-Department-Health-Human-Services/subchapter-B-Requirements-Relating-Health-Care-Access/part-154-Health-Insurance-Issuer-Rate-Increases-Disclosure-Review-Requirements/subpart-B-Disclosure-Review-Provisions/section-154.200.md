@@ -1,5 +1,7 @@
 ##### § 154.200 Rate increases subject to review. #####
 
+Link to an amendment published at 83 FR 17060, Apr. 17, 2018.
+
 (a) A rate increase filed in a State, or effective in a State that does not require a rate increase to be filed, is subject to review if:
 
 (1) The rate increase is 10 percent or more applicable to a 12-month period that begins on January 1, as calculated under paragraph (c) of this section; or

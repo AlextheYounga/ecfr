@@ -1,5 +1,7 @@
 ##### § 155.215 Standards applicable to Navigators and Non-Navigator Assistance Personnel carrying out consumer assistance functions under §§ 155.205(d) and (e) and 155.210 in a Federally-facilitated Exchange and to Non-Navigator Assistance Personnel funded through an Exchange Establishment Grant. #####
 
+Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
+
 (a) *Conflict-of-interest standards.* The following conflict-of-interest standards apply in an Exchange operated by HHS during the exercise of its authority under § 155.105(f) and to non-Navigator assistance personnel funded through an Exchange Establishment Grant under section 1311(a) of the Affordable Care Act:
 
 (1) *Conflict-of-interest standards for Navigators.* (i) All Navigator entities, including Navigator grant applicants, must submit to the Exchange a written attestation that the Navigator, including the Navigator's staff:

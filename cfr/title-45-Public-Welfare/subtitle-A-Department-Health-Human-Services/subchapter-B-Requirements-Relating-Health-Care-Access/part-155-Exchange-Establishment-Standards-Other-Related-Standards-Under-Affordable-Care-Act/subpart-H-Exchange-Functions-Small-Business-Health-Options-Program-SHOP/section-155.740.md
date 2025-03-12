@@ -1,5 +1,7 @@
 ##### § 155.740 SHOP employer and employee eligibility appeals requirements. #####
 
+Link to an amendment published at 83 FR 17067, Apr. 17, 2018.
+
 (a) *Definitions.* The definitions in §§ 155.20, 155.300, and 155.500 apply to this section.
 
 (b) *General requirements.* (1) A State, establishing an Exchange that provides for the establishment of a SHOP pursuant to § 155.100 must provide an eligibility appeals process for the SHOP. Where a State has not established an Exchange that provides for the establishment of a SHOP pursuant to § 155.100, HHS will provide an eligibility appeals process for the SHOP that meets the requirements of this section and the requirements in paragraph (b)(2) of this section.

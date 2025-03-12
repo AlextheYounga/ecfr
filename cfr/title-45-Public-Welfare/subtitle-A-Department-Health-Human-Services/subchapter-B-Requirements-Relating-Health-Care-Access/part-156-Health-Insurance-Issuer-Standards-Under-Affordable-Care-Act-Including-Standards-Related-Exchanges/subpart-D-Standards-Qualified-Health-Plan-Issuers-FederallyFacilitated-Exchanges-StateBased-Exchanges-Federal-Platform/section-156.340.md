@@ -1,5 +1,7 @@
 ##### § 156.340 Standards for downstream and delegated entities. #####
 
+Link to an amendment published at 83 FR 17069, Apr. 17, 2018.
+
 (a) *General requirement.* Effective October 1, 2013, notwithstanding any relationship(s) that a QHP issuer may have with delegated and downstream entities, a QHP issuer maintains responsibility for its compliance and the compliance of any of its delegated or downstream entities, as applicable, with all applicable standards, including -
 
 (1) Standards of subpart C of part 156 with respect to each of its QHPs on an ongoing basis;

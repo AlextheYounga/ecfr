@@ -1,6 +1,6 @@
 ##### § 1182.2 Content of applications. #####
 
-Link to an amendment published at 83 FR 15080, Apr. 9, 2018.
+Link to an amendment published at 83 FR 15080, Apr. 9, 2018.Link to a correction published at 83 FR 16786, Apr. 17, 2018.
 
 (a) The application must contain the following information:
 

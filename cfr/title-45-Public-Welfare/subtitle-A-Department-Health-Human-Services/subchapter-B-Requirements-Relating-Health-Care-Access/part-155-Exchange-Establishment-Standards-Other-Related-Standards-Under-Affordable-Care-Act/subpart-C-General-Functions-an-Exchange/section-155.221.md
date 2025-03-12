@@ -1,5 +1,7 @@
 ##### § 155.221 Standards for HHS-approved vendors to perform audits of agents and brokers participating in direct enrollment. #####
 
+Link to an amendment published at 83 FR 17061, Apr. 17, 2018.
+
 (a) *Application for approval.* (1) A vendor must be approved by HHS, in a form and manner to be determined by HHS, to have its auditing services recognized for Web-brokers assisting with or facilitating enrollment in individual market or SHOP coverage through the Exchanges consistent with § 155.220.
 
 (2) HHS will approve vendors on an annual basis for a given plan year, and each vendor must submit an application for each year that approval is sought.

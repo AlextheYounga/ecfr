@@ -1,5 +1,7 @@
 ##### § 156.1230 Direct enrollment with the QHP issuer in a manner considered to be through the Exchange. #####
 
+Link to an amendment published at 83 FR 17070, Apr. 17, 2018.
+
 (a) A QHP issuer that is directly contacted by a potential applicant may, at the Exchange's option, enroll such applicant in a QHP in a manner that is considered through the Exchange. In order for the enrollment to be made directly with the issuer in a manner that is considered to be through the Exchange, the QHP issuer needs to comply with at least the following requirements:
 
 (1) *QHP issuer general requirements.* (i) The QHP issuer follows the enrollment process for qualified individuals consistent with § 156.265.

@@ -1,5 +1,7 @@
 ##### § 155.700 Standards for the establishment of a SHOP. #####
 
+Link to an amendment published at 83 FR 17064, Apr. 17, 2018.
+
 (a) *General requirement.* An Exchange must provide for the establishment of a SHOP that meets the requirements of this subpart and is designed to assist qualified employers and facilitate the enrollment of qualified employees into qualified health plans.
 
 (b) *Definition.* For the purposes of this subpart:
