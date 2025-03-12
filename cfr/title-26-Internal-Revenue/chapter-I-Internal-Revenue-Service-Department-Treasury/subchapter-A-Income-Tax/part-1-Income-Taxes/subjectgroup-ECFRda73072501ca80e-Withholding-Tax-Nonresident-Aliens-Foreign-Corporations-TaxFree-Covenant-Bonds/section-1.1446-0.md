@@ -162,6 +162,8 @@ This section lists the captions contained in §§ 1.1446-1 through 1.1446-7.
 
 (3) Coordination with section 1443.
 
+(4) Coordination with section 1446(f).
+
 (d) Reporting and crediting the 1446 tax.
 
 (1) Reporting 1446 tax.
@@ -230,7 +232,11 @@ This section lists the captions contained in §§ 1.1446-1 through 1.1446-7.
 
 (c) Paying and reporting 1446 tax.
 
-(d) Rules for designation of nominees to withhold tax under section 1446.
+(d) Rules for nominees required to withhold tax under section 1446.
+
+(1) In general.
+
+(2) Exception to nominee's withholding.
 
 (e) Determining foreign status of partners.
 
@@ -384,4 +390,4 @@ A) First certificate submitted for a partnership's taxable year.
 
 (g) Transition rule.
 
-§ 1.1446-7 Effective/Applicability date.[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008]
+§ 1.1446-7 Applicability dates.[T.D. 9200, 70 FR 28717, May 18, 2005, as amended by T.D. 9394, 73 FR 23074, Apr. 29, 2008; T.D. 9926, 85 FR 76933, Nov. 30, 2020]

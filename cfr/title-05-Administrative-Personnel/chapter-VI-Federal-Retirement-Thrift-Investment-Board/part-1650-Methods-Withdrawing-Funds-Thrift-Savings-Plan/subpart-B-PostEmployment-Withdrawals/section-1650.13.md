@@ -1,5 +1,7 @@
 ##### § 1650.13 Installment payments. #####
 
+Link to an amendment published at 85 FR 76420, Nov. 30, 2020.
+
 (a) A participant can elect to withdraw all or a portion of the account balance in a series of substantially equal installment payments, to be paid on a monthly, quarterly, or annual basis in one of the following manners:
 
 (1) *A specific dollar amount.* The amount elected must be at least $25 per installment; if the amount elected is less than $25 per installment, the request will be rejected. Payments will be made in the amount requested each installment period.

@@ -1,0 +1,27 @@
+##### § 251.17 Importation requirements. #####
+
+(a) Importers must ensure that each shipment of eligible prescription drugs imported or offered for import pursuant to this part is accompanied by an import entry for consumption filed electronically as a formal entry in ACE, or another CBP-authorized electronic data interchange system, and designated in such a system as a drug imported pursuant to this part.
+
+(b) The Importer may make entry for consumption and arrival of shipments containing eligible prescription drugs only at the CBP port of entry authorized by FDA to import eligible prescription drugs under section 804 of the Federal Food, Drug, and Cosmetic Act. The Importer must keep the product at a secured warehouse, location within a specific foreign trade zone, or other secure distribution facility controlled by or under contract with the Importer, and under appropriate environmental conditions to maintain the integrity of the products, until FDA issues an admissibility decision. The secured warehouse or other secure distribution facility must be within 30 miles of the authorized Port of Entry for examination.
+
+(c) If the entry for consumption is filed in ACE before the testing and relabeling of the eligible prescription drug, the Importer must submit an application to bring the drug into compliance and must relabel and test the drug in accordance with the plan approved by FDA pursuant to §§ 1.95 and 1.96 of this chapter.
+
+(d) Upon arrival in the United States of an initial shipment that contains a batch of an eligible prescription drug identified in a Pre-Import Request that has been granted by FDA, the Importer must select a statistically valid sample of that batch to send to a qualifying laboratory for Statutory Testing, unless the manufacturer conducts the Statutory Testing at a qualifying laboratory.
+
+(1) In the case of any subsequent shipment composed entirely of a batch of an eligible prescription drug that has already been tested in accordance with this part, the Importer must select a statistically valid sample of the shipment to send to a qualifying laboratory for Statutory Testing.
+
+(2) The Importer must send three sets of the samples sent to the qualifying laboratory in accordance with § 251.16 to the FDA field lab identified by FDA when the Agency granted the Pre-Import Request.
+
+(3) The Importer must submit to FDA a complete set of laboratory records, a detailed description of the sampling method used to select the sample of the eligible prescription drug sent to the qualifying laboratory, the testing protocols used, complete data derived from all tests necessary to ensure that the eligible prescription drug meets the specifications of the FDA-approved drug that are established in the NDA or ANDA, a Certificate of Analysis, and all relevant documentation demonstrating that the testing meets the requirements under section 804(e)(1) of the Federal Food, Drug, and Cosmetic Act, as well as any additional information FDA deems necessary to evaluate whether the drug meets manufacturing, quality, and safety standards.
+
+(e) If the manufacturer conducts the Statutory Testing, upon arrival in the United States of an initial shipment that contains a batch of an eligible prescription drug identified in a Pre-Import Request that has been granted by FDA, a statistically valid sample of that batch must be selected to send to a qualifying laboratory for the Statutory Testing.
+
+(1) In the case of any subsequent shipment composed entirely of a batch or batches of an eligible prescription drug that has already been tested in accordance with this part, the manufacturer must select a statistically valid sample of that shipment to send to a qualifying laboratory for that Statutory Testing.
+
+(2) The manufacturer must send three sets of the samples the manufacturer sent to the qualifying laboratory in accordance with § 251.16 to the FDA field lab identified by FDA when the Agency granted the Pre-Import Request.
+
+(3) The manufacturer must submit to FDA, directly in electronic form to the ESG or to an alternative transmission point identified by FDA, a complete set of laboratory records, a detailed description of the selection method for the sample of the eligible prescription drug sent to the qualifying laboratory, the testing methods used, complete data derived from all tests necessary to ensure that the eligible prescription drug meets the conditions in the FDA-approved drug's NDA or ANDA, a Certificate of Analysis, and all relevant documentation demonstrating that the testing meets the requirements under section 804(e)(1) of the Federal Food, Drug, and Cosmetic Act, as well as any additional information FDA deems necessary to evaluate whether the drug meets manufacturing, quality, and safety standards.
+
+(f) After FDA has reviewed the testing results provided by the Importer or manufacturer and determined that they are acceptable, FDA will notify the Importer and then the Importer must cause the eligible prescription drug to be relabeled with the required U.S. labeling.
+
+(g) After the eligible prescription drug has been shown by testing and relabeling to meet the requirements of section 804 of the Federal Food, Drug, and Cosmetic Act and this part, the Importer or the manufacturer must provide to FDA the written certification described in section 804(d)(1)(K) of the Federal Food, Drug, and Cosmetic Act in electronic format via the ESG or to an alternative transmission point identified by FDA.

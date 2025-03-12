@@ -1,5 +1,7 @@
 ##### § 1001.952 Exceptions. #####
 
+Link to an amendment published at 85 FR 76730, Nov. 30, 2020.
+
 The following payment practices shall not be treated as a criminal offense under section 1128B of the Act and shall not serve as the basis for an exclusion:
 
 (a) *Investment interests.* As used in section 1128B of the Act, “remuneration” does not include any payment that is a return on an investment interest, such as a dividend or interest income, made to an investor as long as all of the applicable standards are met within one of the following three categories of entities:

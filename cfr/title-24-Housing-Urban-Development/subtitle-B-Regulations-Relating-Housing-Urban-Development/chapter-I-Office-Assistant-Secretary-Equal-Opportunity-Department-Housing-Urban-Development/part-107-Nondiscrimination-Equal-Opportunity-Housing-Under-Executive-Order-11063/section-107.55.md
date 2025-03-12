@@ -1,0 +1,7 @@
+##### § 107.55 Compliance report. #####
+
+(a) Following completion of efforts under this part, the Director of the Office of Regional FH&EO or a designee shall prepare a compliance report promptly and the Assistant Secretary for FH&EO shall make a finding of compliance or noncompliance. If it is found that the respondent is in compliance, all persons concerned shall be notified of the finding. Where a finding of noncompliance is made, the report shall specify the violations found. The Director of the Office of Regional FH&EO shall send a copy of the report to the respondent by certified mail, return receipt requested, together with a Notice that the matter will be forwarded to the Assistant Secretary for FH&EO for a determination as to whether actions will be initiated for the imposition of sanctions. The Regional Director of the Office having jurisdiction over the programs involved and the Area Manager shall also receive a copy of the report and the notice of intention to refer the matter to the Assistant Secretary for FH&EO.
+
+(b) The Notice will provide that the respondent shall have seven (7) days to respond to the violations found and resolve and remedy matters in the compliance report. At the expiration of the seven (7) day period the matter shall be referred to the Assistant Secretary for FH&EO.
+
+(c) The complainant shall be sent a copy of the findings and compliance report and shall have seven (7) days to comment thereon.

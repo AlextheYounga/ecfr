@@ -1,35 +1,35 @@
 ##### § 180.209 Requirements for requalification of specification cylinders. #####
 
-Link to an amendment published at 85 FR 68797, Oct. 30, 2020.Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
+Link to an amendment published at 85 FR 75716, Nov. 25, 2020.
 
 (a) *Periodic qualification of cylinders.* Each specification cylinder that becomes due for periodic requalification, as specified in the following table, must be requalified and marked in conformance with the requirements of this subpart. Requalification records must be maintained in accordance with § 180.215. Table 1 follows:
 
-Table 1 - Requalification of Cylinders<sup>1</sup>
+Table 1 to Paragraph (a) - Requalification of Cylinders<sup>1</sup>
 
-|              Specification under which  <br/>cylinder was made               |                    Minimum test pressure  <br/>(psig)<sup>2</sup>                     |              Requalification period  <br/>(years)               |
-|------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------------|
-|                                    DOT 3                                     |                                       3000 psig                                       |                               5.                                |
-|                                 DOT 3A, 3AA                                  |      5/3 times service pressure, except noncorrosive service (see § 180.209(g))       |     5, 10, or 12 (see § 180.209(b), (e), (f), (h), and (j).     |
-|                                   DOT 3AL                                    |                              5/3 times service pressure                               |5, 10 or 12 (see § 180.209(e), (j) and § 180.209(m)<sup>3</sup>).|
-|                                DOT 3AX, 3AAX                                 |                              5/3 times service pressure                               |                    5, 10 (see § 180.209(e).                     |
-|                                   3B, 3BN                                    |                      2 times service pressure (see § 180.209(g))                      |                5 or 10 (see § 180.209(e), (f)).                 |
-|                                      3E                                      |                                  Test not required.                                   |                                                                 |
-|                                     3HT                                      |                              5/3 times service pressure                               |              3 (see §§ 180.209(k) and 180.213(c)).              |
-|                                      3T                                      |                              5/3 times service pressure                               |                               5.                                |
-|                                    4AA480                                    |                      2 times service pressure (see § 180.209(g))                      |               5 or 10 (see § 180.209(e) or (h)).                |
-|                            4B, 4BA, 4BW, 4B-240ET                            |       2 times service pressure, except non-corrosive service (see § 180.209(g))       |         5, 10, or 12 (see § 180.209(e), (f), and (j)).          |
-|                                 4D, 4DA, 4DS                                 |                                    2 times service                                    |                               5.                                |
-|                                    DOT 4E                                    |           2 times service pressure, except non-corrosive (see § 180.209(g))           |                   5 or 10 (see § 180.209(e)).                   |
-|                                      4L                                      |                                  Test not required.                                   |                                                                 |
-|                                    8, 8AL                                    |                                                                                       |                  10 or 20 (see § 180.209(i)).                   |
-|                     Exemption or special permit cylinder                     |                        See current exemption or special permit                        |            See current exemption or special permit.             |
-|Foreign cylinder (see § 173.301(j) of this subchapter for restrictions on use)|As marked on cylinder, but not less than 5/3 of any service or working pressure marking|            5 (see §§ 180.209(l) and 180.213(d)(2)).             |
+|                 Specification under which cylinder was made                  |                    Minimum test pressure  <br/>(psig)<sup>2</sup>                    |       Requalification period  <br/>(years)        |
+|------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|---------------------------------------------------|
+|                                      3                                       |                                      3000 psig                                       |                        5.                         |
+|                                   3A, 3AA                                    |     5/3 times service pressure, except non-corrosive service (see § 180.209(g))      |5, 10, or 12 (see § 180.209(b), (f), (h), and (j)).|
+|                                     3AL                                      |                              5/3 times service pressure                              |5 or 12 (see § 180.209(j) and<br/>(m)<sup>3</sup>).|
+|                                  3AX, 3AAX                                   |                              5/3 times service pressure                              |                        5.                         |
+|                                   3B, 3BN                                    |                     2 times service pressure (see § 180.209(g))                      |            5 or 10 (see § 180.209(f)).            |
+|                                      3E                                      |                                  Test not required                                   |                                                   |
+|                                     3HT                                      |                              5/3 times service pressure                              |       3 (see §§ 180.209(k) and 180.213(c)).       |
+|                                      3T                                      |                              5/3 times service pressure                              |                        5.                         |
+|                                    4AA480                                    |                     2 times service pressure (see § 180.209(g))                      |            5 or 10 (see § 180.209(h)).            |
+|                            4B, 4BA, 4BW, 4B-240ET                            |      2 times service pressure, except non-corrosive service (see § 180.209(g))       | 5, 7, 10, or 12 (see § 180.209(e), (f), and (j)). |
+|                                 4D, 4DA, 4DS                                 |                               2 times service pressure                               |                        5.                         |
+|                                      4E                                      |      2 times service pressure, except non-corrosive service (see § 180.209(g))       |         5, 10, or 12 (see § 180.209(e)).          |
+|                                      4L                                      |                                  Test not required                                   |                                                   |
+|                                    8, 8AL                                    |                                                                                      |           10 or 20 (see § 180.209(i)).            |
+|                     Exemption or special permit cylinder                     |                       See current exemption or special permit                        |     See current exemption or special permit.      |
+|Foreign cylinder (see § 173.301(j) of this subchapter for restrictions on use)|As marked on cylinder, but not less than5/3 of any service or working pressure marking|     5 (see §§ 180.209(l) and 180.213(d)(2)).      |
 
 <sup>1</sup> Any cylinder not exceeding 2 inches outside diameter and less than 2 feet in length is excepted from volumetric expansion test.
 
 <sup>2</sup> For cylinders not marked with a service pressure, see § 173.301a(b) of this subchapter.
 
-<sup>3</sup> This provision does not apply to cylinders used for carbon dioxide, fire extinguisher or other industrial gas service.
+<sup>3</sup> This provision does not apply to cylinders used for carbon dioxide, fire extinguisher, or other industrial gas service.
 
 (b) *DOT 3A or 3AA cylinders.* (1) A cylinder conforming to specification DOT 3A or 3AA with a water capacity of 56.7 kg (125 lb) or less that is removed from any cluster, bank, group, rack, or vehicle each time it is filled, may be requalified every ten years instead of every five years, provided the cylinder conforms to all of the following conditions:
 
@@ -53,7 +53,7 @@ Table 1 - Requalification of Cylinders<sup>1</sup>
 
 (d) *Cylinders 5.44 kg (12 lb) or less with service pressures of 300 psig or less.* A cylinder of 5.44 (12 lb) or less water capacity authorized for service pressure of 300 psig or less must be given a complete external visual inspection at the time periodic requalification becomes due. External visual inspection must be in accordance with CGA Pamphlet C-6 or C-6.1 (IBR, see § 171.7 of this subchapter). The cylinder may be proof pressure tested. The test is successful if the cylinder, when examined under test pressure, does not display a defect described in § 180.205(i)(1) (ii) or (iii). Upon successful completion of the test and inspection, the cylinder must be marked in accordance with § 180.213.
 
-(e) *Proof pressure test.* A cylinder made in conformance with DOT Specifications 4B, 4BA, 4BW, or 4E protected externally by a suitable corrosion-resistant coating and used exclusively for non-corrosive gas that is commercially free from corroding components may be requalified by volumetric expansion testing or proof pressure testing every 10 years instead of every 5 years. When subjected to a proof pressure test, the cylinder must be carefully examined under test pressure and removed from service if a leak or defect is found.
+(e) *Cylinders in non-corrosive gas service.* A cylinder made in conformance with DOT Specifications 4B, 4BA, 4BW, or 4E protected externally by a suitable corrosion-resistant coating and used exclusively for non-corrosive gas that is commercially free from corroding components may be requalified by volumetric expansion testing every 12 years instead of every 5 years. As an alternative, the cylinder may be subjected to a proof pressure test at least two times the marked service pressure, but this latter type of test must be repeated every 10 years after expiration of the initial 12-year period. When subjected to a proof pressure test, the cylinder must be carefully examined under test pressure and removed from service if a leak or defect is found.
 
 (f) *Poisonous materials.* A cylinder conforming to specification DOT 3A, 3AA, 3B, 4BA, or 4BW having a service pressure of 300 psig or less and used exclusively for methyl bromide, liquid; mixtures of methyl bromide and ethylene dibromide, liquid; mixtures of methyl bromide and chlorpicrin, liquid; mixtures of methyl bromide and petroleum solvents, liquid; or methyl bromide and nonflammable, nonliquefied compressed gas mixtures, liquid; commercially free of corroding components, and protected externally by a suitable corrosion resistant coating (such as galvanizing or painting) and internally by a suitable corrosion resistant lining (such as galvanizing) may be tested every 10 years instead of every five years, provided a visual internal and external examination of the cylinder is conducted every five years in accordance with CGA Pamphlet C-6. The cylinder must be examined at each filling, and rejected if a dent, corroded area, leak or other condition indicates possible weakness.
 
@@ -129,4 +129,4 @@ Requalification and Inspection of DOT-3AL Cylinders Made of Aluminum Alloy 6351-
 
 <sup>2</sup> The eddy current must be applied from the inside of the cylinder's neck to detect any sustained load cracking that has expanded into the neck threads.
 
-[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24662, May 8, 2003; 68 FR 55544, Sept. 26, 2003; 68 FR 48572, Aug. 14, 2003; 68 FR 75764, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 71 FR 51128, Aug. 29, 2005; 72 FR 55696, Oct. 1, 2007; 74 FR 53189, Oct. 16, 2009; 81 FR 3685, Jan. 21, 2016; 81 FR 35545, June 2, 2016]Editorial Note:At 71 FR 54397, Sept. 14, 2006, § 180.209 was amended in (a)(1) table 1; however, because of the inaccurate amendatory language, the amendment could not be incorporated.
+[67 FR 51660, Aug. 8, 2002, as amended at 68 FR 24662, May 8, 2003; 68 FR 55544, Sept. 26, 2003; 68 FR 48572, Aug. 14, 2003; 68 FR 75764, Dec. 31, 2003; 70 FR 73166, Dec. 9, 2005; 71 FR 51128, Aug. 29, 2005; 72 FR 55696, Oct. 1, 2007; 74 FR 53189, Oct. 16, 2009; 81 FR 3685, Jan. 21, 2016; 81 FR 35545, June 2, 2016; 85 FR 68797, Oct. 30, 2020]Editorial Note:At 71 FR 54397, Sept. 14, 2006, § 180.209 was amended in (a)(1) table 1; however, because of the inaccurate amendatory language, the amendment could not be incorporated.

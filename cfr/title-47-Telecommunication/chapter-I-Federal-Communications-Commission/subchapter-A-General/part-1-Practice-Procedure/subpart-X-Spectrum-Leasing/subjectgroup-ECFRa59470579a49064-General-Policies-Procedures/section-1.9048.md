@@ -1,5 +1,7 @@
 ##### § 1.9048 Special provisions relating to spectrum leasing arrangements involving licensees in the Public Safety Radio Services. #####
 
+Link to an amendment published at 85 FR 76479, Nov. 30, 2020.
+
 Licensees in the Public Safety Radio Services (*see* part 90, subpart B and § 90.311(a)(1)(i) of this chapter) may enter into spectrum leasing arrangements with other public safety entities eligible for such a license authorization as well as with entities providing communications in support of public safety operations (*see* § 90.523(b) of this chapter).
 
 [69 FR 77558, Dec. 27, 2004]

@@ -1,5 +1,7 @@
 ##### § 3282.307 Monitoring inspection fee establishment and distribution. #####
 
+Link to an amendment published at 85 FR 71834, Nov. 12, 2020.
+
 (a) Each approved State shall establish a monitoring inspection fee in an amount required by the Secretary. This fee shall be an amount paid by each manufactured home manufacturer in the State for each transportable section of each manufactured housing unit produced by the manufacturer in that State. In non-approved and conditionally-approved States, the fee shall be set by the Secretary.
 
 (b) The monitoring inspection fee shall be paid by the manufacturer to the Secretary or to the Secretary's Agent, who shall distribute a portion of the fees collected from all manufactured home manufacturers among the approved and conditionally-approved States in accordance with an agreement between the Secretary and the States and based upon the following formula:

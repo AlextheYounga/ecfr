@@ -1,5 +1,7 @@
 ##### § 79.109 Activating accessibility features. #####
 
+Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+
 (a) *Requirements applicable to digital apparatus.* (1) Manufacturers of digital apparatus designed to receive or play back video programming transmitted in digital format simultaneously with sound, including apparatus designed to receive or display video programming transmitted in digital format using Internet protocol, with built-in closed-captioning capability must ensure that closed captioning can be activated through a mechanism that is reasonably comparable to a button, key, or icon. Digital apparatus do not include navigation devices as defined in § 76.1200 of this chapter.
 
 (2) Manufacturers of digital apparatus designed to receive or play back video programming transmitted in digital format simultaneously with sound, including apparatus designed to receive or display video programming transmitted in digital format using Internet protocol, with built-in video description capability must ensure that video description can be activated through a mechanism that is reasonably comparable to a button, key, or icon. Digital apparatus do not include navigation devices as defined in § 76.1200 of this chapter.

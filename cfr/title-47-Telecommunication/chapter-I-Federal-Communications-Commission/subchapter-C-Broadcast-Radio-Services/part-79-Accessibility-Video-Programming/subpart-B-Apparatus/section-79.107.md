@@ -1,5 +1,7 @@
 ##### § 79.107 User interfaces provided by digital apparatus. #####
 
+Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+
 (a)(1) A manufacturer of digital apparatus manufactured in or imported for use in the United States and designed to receive or play back video programming transmitted in digital format simultaneously with sound, including apparatus designed to receive or display video programming transmitted in digital format using Internet protocol, must ensure that digital apparatus be designed, developed, and fabricated so that control of appropriate built-in functions included in the digital apparatus are accessible to and usable by individuals who are blind or visually impaired. Digital apparatus do not include navigation devices as defined in § 76.1200 of this chapter. Manufacturers must comply with the provisions of this section only if achievable as defined in § 79.107(c)(2).
 
 Note 1 to paragraph (a)(1):

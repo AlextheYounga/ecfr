@@ -1,0 +1,9 @@
+##### § 115.205 Certification procedures. #####
+
+(a) *Certification.* (1) If the Assistant Secretary determines, after application of criteria set forth in §§ 115.204, 115.206, and this section, that the state or local law, both “on its face” and “in operation,” provides substantive rights, procedures, remedies, and judicial review procedures for alleged discriminatory housing practices that are substantially equivalent to those provided in the Act, the Assistant Secretary may enter into a Memorandum of Understanding (MOU) with the agency.
+
+(2) The MOU is a written agreement providing for the referral of complaints to the agency and for communication procedures between the agency and HUD that are adequate to permit the Assistant Secretary to monitor the agency's continuing substantial equivalency certification.
+
+(3) The MOU, after it is signed by all appropriate signatories, may authorize an agency to be a certified agency for a period of not more than five years. Appropriate signatories include the Assistant Secretary, the FHEO regional director, and the authorized employee(s) of the agency.
+
+(b) In order to receive certification, during the 60 days prior to the expiration of the agency's interim agreement, the agency must certify to the Assistant Secretary that the state or local fair housing law, “on its face,” continues to be substantially equivalent to the Act (i.e., there have been no amendments to the state or local fair housing law, adoption of rules or procedures concerning the fair housing law, or judicial or other authoritative interpretations of the fair housing law that limit the effectiveness of the agency's fair housing law).

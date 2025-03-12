@@ -40,7 +40,7 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 *Prevented planting.* As defined in the Basic Provisions, except that the references to “final planting date” contained in the definition in the Basic Provisions are replaced with the “latest final planting date.”
 
-*Price election.* In addition to the provisions of the definition contained in the Basic Provisions, the price election for contract seed types will be the percentage you elect (not to exceed 100 percent) of the base contract price and used for the purposes of determining premium and indemnity for contract seed types under this policy.
+*Price election.* In addition to the definition contained in the Basic Provisions, the price election for contract seed types will be the percentage you elect (not to exceed 100 percent) of the base contract price and used for the purposes of determining premium and indemnity for contract seed types under this policy.
 
 *Processor/seed company.* Any business enterprise regularly engaged in the processing of contract seed types, that possesses all licenses and permits for marketing contract seed types required by the state in which it operates, and that owns, or has contracted, sufficient drying, screening, and bagging or packaging equipment to accept and process the contract seed types within a reasonable amount of time after harvest.
 
@@ -60,7 +60,7 @@ Department of AgricultureFederal Crop Insurance CorporationReinsured Policies(Ap
 
 2. Unit Division
 
-In addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm serial number and by irrigated and non-irrigated acreage as provided in the unit division provisions contained in the Basic Provisions, separate optional units may be established for each dry pea type. Contract seed types and dry pea types not grown under a processor/seed company contract may qualify for separate optional units even if they share a common variety provided each dry pea type is grown on separate acreage and the production is kept separate.
+In addition to, or instead of, establishing optional units by section, section equivalent, or FSA farm number and by irrigated and non-irrigated acreage as provided in the unit division provisions contained in the Basic Provisions, separate optional units may be established for each dry pea type. Contract seed types and dry pea types not grown under a processor/seed company contract may qualify for separate optional units even if they share a common variety provided each dry pea type is grown on separate acreage and the production is kept separate.
 
 3. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
@@ -68,7 +68,7 @@ In addition to, or instead of, establishing optional units by section, section e
 
 (b) In addition to the requirements of section 3 of the Basic Provisions:
 
-(1) If the actuarial documentsdo not designate separate price elections by type, you may select only one price election for all dry peas in the county insured under this policy.
+(1) If the actuarial documents do not designate separate price elections by type, you may select only one price election for all dry peas in the county insured under this policy.
 
 (2) If the actuarial documents designate separate price elections by type, you may select one price election for each dry pea type even if the prices for each type are the same. The price elections you choose for each type are not required to have the same percentage relationship to the maximum price offered by us for each type. For example, if you choose 100 percent of the maximum price election for one type, you may choose 75 percent of the maximum price election for another type.
 
@@ -115,17 +115,17 @@ In addition to the provisions of section 6 of the Basic Provisions, you must sub
 
 (i) Dry peas; or
 
-(ii) Contract seed types, if the processor/seed company contract is executed on or before the acreage reporting date; and
+(ii) Contract seed types, if the processor/seed company contract is executed on or before the acreage reporting date;
 
-(3) That are not (unless allowed by the Special Provisions or by written agreement):
+(3) That are not planted to plow down, graze, harvest as hay, or otherwise not planted for harvest as a mature dry pea crop; and
+
+(4) That are not (unless allowed by the Special Provisions or by written agreement):
 
 (i) Interplanted with another crop;
 
-(ii) Planted into an established grass or legume;
+(ii) Planted into an established grass or legume; or
 
-(iii) Planted as a nurse crop; or
-
-(4) That is not planted to plow down, graze, harvest as hay, or otherwise not planted to harvest as a mature dry pea crop.
+(iii) Planted as a nurse crop.
 
 (b) You will be considered to have a share in the insured crop if, under the processor/seed company contract, you retain control of the acreage on which the dry peas are grown, you are at risk of loss (i.e., if there is a reduction in quantity or quality of your dry pea production, you will receive less income under the contract), and the processor/seed company contract is in effect for the entire insurance period.
 
@@ -140,13 +140,12 @@ In addition to the provisions of section 9 of the Basic Provisions:
 (b) Any acreage of the insured crop damaged before the final planting date, to the extent that producers in the surrounding area would normally not further care for the crop, must be replanted unless we agree that it is not practical to replant.
 
 (c) When the Special Provisions designate both fall and spring-planted types, and the Winter Coverage Option is not in force for the acreage:
-al
 
 (1) Any fall-planted dry pea acreage that is damaged before the spring final planting date, to the extent that producers in the area would normally not further care for the crop, must be replanted to a fall-planted type of dry peas to obtain insurance based on the fall-planted type unless we agree that replanting is not practical. If it is not practical to replant to a fall-planted type of dry peas but it is practical to replant to a spring-planted type, you must replant to a spring-planted type to obtain insurance coverage based on the fall-planted type.
 
-(2) Any fall-planted dry pea acreage that is replanted to a spring-planted type when it was practical to replant the fall-planted type will be insured as the spring-planted type and the production guarantee, premium and price election applicable to the spring-planted type will be used. In this case, the acreage will be considered to be initially planted to the spring-planted type.
+(2) Any fall-planted dry pea acreage that is replanted to a spring-planted type when it was practical to replant the fall-planted type will be insured as the spring-planted type and the production guarantee, premium and price election applicable to the spring-planted type will be used. In this case, the acreage will be considered initially planted to the spring-planted type.
 
-(d) When the Special Provisions designate both fall and spring-planted types, and the Winter Coverage Option is in force for the acreage, insurance will be in accordance with the Winter Coverage Option (see section 15).
+(d) When the Special Provisions designate both fall-planted and spring-planted types, and the Winter Coverage Option is in force for the acreage, insurance will be in accordance with the Winter Coverage Option (see section 15).
 
 (e) Whenever the Special Provisions designate only a spring-planted type, any acreage of a fall-planted dry pea crop is not insured unless you request such coverage on or before the spring sales closing date, and we inspect and determine that the acreage has an adequate stand in the spring to produce the yield used to determine your production guarantee.
 
@@ -160,11 +159,9 @@ al
 
 9. Insurance Period
 
-9. Insurance Period.
-
 In accordance with the provisions of section 11 of the Basic Provisions, and subject to the provisions provided by the Winter Coverage Option (see section 15) if you elect such option, the insurance period is as follows:
 
-(a) If the Special Provisions designate both fall and spring-planted types, and the Winter Coverage Option is not in force for the acreage, you must report fall-planted acreage to your crop insurance agent on or before the spring sales closing date. Fall-planted types are only insurable if there is an adequate stand in the spring. Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not make that determination prior to the spring final planting date, unless otherwise specified in the Special Provisions. Fall-planted acreage must be reported and insured if it meets the requirements of section 8.
+(a) If the Special Provisions designate both fall-planted and spring-planted types types, and the Winter Coverage Option is not in force for the acreage, you must report fall-planted acreage to your crop insurance agent on or before the spring sales closing date. Fall-planted types are only insurable if there is an adequate stand in the spring. Insurance will attach to such acreage on the date we determine an adequate stand exists or on the spring final planting date if we do not make that determination prior to the spring final planting date, unless otherwise specified in the Special Provisions. Fall-planted acreage must be reported and insured if it meets the requirements of section 8.
 
 (b) The calendar date for the end of the insurance period for all insurable types of dry peas in the county is September 30 of the crop year in which the crop is normally harvested unless otherwise specified in the Special Provisions.
 
@@ -202,7 +199,7 @@ In accordance with the provisions of section 12 of the Basic Provisions, insuran
 
 (5) When the Winter Coverage Option is in effect for the acreage, damage must occur after the fall final planting date in those counties where both fall and spring types are designated in the Special Provisions;
 
-(6) Replanting payments are not available for damaged fall-planted dry pea acreage if you have not elected to cover such acreage under the Winter Coverage Option; and
+(6) Replanting payments are not available for damaged fall-planted types if you have not elected to cover such acreage under the Winter Coverage Option; and
 
 (7) The replanted crop must be seeded at a rate sufficient to achieve a total (undamaged and new seeding) plant population that will produce at least the yield used to determine your production guarantee.
 
@@ -278,15 +275,15 @@ Assume the same facts in example 1. Also assume you have a 100 percent share in 
 
 (2) 400,000-pound guarantee × $0.09 price election = $36,000 value of guarantee for the spring-planted smooth green dry edible pea type;
 
-(3) $36,000 (only one spring-planted smooth green dry edible pea type, no other types in this example to total)
+(3) $36,000 (only one spring-planted smooth green dry edible pea type; no other types in this example to total);
 
 (4) 100 acres × 5,000 pounds = 500,000-pound guarantee for the contract seed type;
 
 (5) 500,000-pound guarantee × $0.40 base contract price = $200,000 gross value of guarantee for the contract seed type;
 
-(6) $200,000 × 1.0 price election percentage = $200,000 value of guarantee for the contract seed type;
+(6) $200,000 × 1.00 price election percentage = $200,000 value of guarantee for the contract seed type;
 
-(7) $200,000 (only one contract seed type, no other types in this example to total);
+(7) $200,000 (only one contract seed type; no other types in this example to total);
 
 (8) $36,000 + $200,000 = $236,000 total value of guarantee;
 
@@ -340,7 +337,7 @@ Assume the same facts in example 1. Also assume you have a 100 percent share in 
 
 (2) All harvested production from the insurable acreage.
 
-(e) Mature dry pea production to count may be adjusted for excess moisture and quality deficiencies. If applying a moisture adjustment, it will be made prior to any adjustment for quality. Adjustment for excess moisture and quality deficiencies will not be applicable to contract seed types.
+(e) Mature dry pea production to count may be adjusted for excess moisture and quality deficiencies. Any adjustment for moisture will be made prior to any adjustment for quality. Adjustment for excess moisture and quality deficiencies will not be applicable to contract seed types.
 
 (1) Production will be reduced by 0.12 percent for each 0.1 percentage point of moisture in excess of 14 percent. We may obtain samples of the production to determine the moisture content.
 
@@ -388,7 +385,7 @@ The value will not be reduced for:
 
 14. Prevented Planting
 
-(a) In counties for which the Special Provisions designate both fall and spring-planted types, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
+(a) In counties for which the Special Provisions designate both fall-planted and spring-planted types, your prevented planting production guarantee will be based on your approved yield for spring-planted acreage of the insured crop.
 
 (b) Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional levels of coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
@@ -400,7 +397,7 @@ The value will not be reduced for:
 
 (c) In return for payment of the additional premium designated in the actuarial documents, this option is available in counties for which the actuarial documents provide premium rates for the Winter Coverage Option.
 
-(d) This option is available only in counties for which the Special Provisions designate both a both fall and spring-planted types.
+(d) This option is available only in counties for which the Special Provisions designate both fall-planted and spring-planted types.
 
 (e) You must select this option on your application for insurance, or on a form approved by us, on or before the sales closing date for the initial year in which you wish to insure dry peas under this option.
 
@@ -410,7 +407,7 @@ The value will not be reduced for:
 
 (3) This option may be canceled by you or us for any succeeding crop year by giving written notice to the other party on or before the cancellation date contained in section 15(g) preceding the crop year for which the cancellation of this option is to be effective.
 
-(4) You may change your coverage level or percentage of price election for dry pea types until the spring sales closing date if you have selected this option, but do not have any insured fall-plantedacreage or your fall-planted acreage is not eligible for this option.
+(4) You may change your coverage level or percentage of price election for dry pea types until the spring sales closing date if you have selected this option, but do not have any insured fall-planted acreage or your fall-planted acreage is not eligible for this option.
 
 (f) Coverage under this option begins on the later of the date we accept your application for coverage or on the fall final planting date designated in the Special Provisions. Coverage ends on the spring final planting date designated in the Special Provisions.
 

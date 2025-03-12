@@ -20,4 +20,4 @@ Link to an amendment published at 85 FR 74920, Nov. 24, 2020.
 
 (i) If all fishing year 2019 RSA pounds awarded to a project cannot be harvested during the 2019 fishing year, RSA TAC awarded to that project may be harvested through August 31, 2020.
 
-[76 FR 43769, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 81 FR 76525, Nov. 3, 2016; 83 FR 12862, Mar. 26, 2018]Effective Date Note:At 85 FR 33029, June 1, 2020, § 648.56 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020 through Nov. 28, 2020.
+[76 FR 43769, July 21, 2011, as amended at 77 FR 20740, Apr. 6, 2012; 81 FR 76525, Nov. 3, 2016; 83 FR 12862, Mar. 26, 2018]Effective Date Note:At 85 FR 33029, June 1, 2020, § 648.56 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020, through Nov. 28, 2020. At 85 FR 74920, Nov. 24, 2020, the effective date for these amendments was extended until June 21, 2021.

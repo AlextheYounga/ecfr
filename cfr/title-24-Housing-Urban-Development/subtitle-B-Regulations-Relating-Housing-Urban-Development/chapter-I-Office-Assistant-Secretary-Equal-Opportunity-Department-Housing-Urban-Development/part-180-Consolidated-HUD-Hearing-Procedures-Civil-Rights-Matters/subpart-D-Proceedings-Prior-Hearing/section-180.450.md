@@ -1,0 +1,3 @@
+##### § 180.450 Resolution of charge or notice of proposed adverse action. #####
+
+At any time before a final decision is issued, the parties may submit to the ALJ an agreement resolving the charge or notice of proposed adverse action. A charge under the Fair Housing Act can only be resolved with the agreement of the aggrieved person on whose behalf the charge was issued. If the agreement is in the public interest, the ALJ shall accept it by issuing an initial decision and consent order based on the agreement.

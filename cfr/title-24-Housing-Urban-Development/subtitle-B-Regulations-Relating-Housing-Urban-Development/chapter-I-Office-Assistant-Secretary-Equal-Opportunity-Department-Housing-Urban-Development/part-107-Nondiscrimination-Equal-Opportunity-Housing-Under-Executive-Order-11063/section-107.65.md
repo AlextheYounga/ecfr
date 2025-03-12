@@ -1,0 +1,3 @@
+##### § 107.65 Referral to the Attorney General. #####
+
+If the results of a complaint investigation or a compliance review demonstrate that any person, or specified class of persons, has violated E.O. 11063 or this part, and efforts to resolve the matter(s) by informal means have failed, the Assistant Secretary for FH&EO in appropriate cases shall recommend that the General Counsel refer the case to the Attorney General of the United States for appropriate civil or criminal action under section 303 of E.O. 11063.

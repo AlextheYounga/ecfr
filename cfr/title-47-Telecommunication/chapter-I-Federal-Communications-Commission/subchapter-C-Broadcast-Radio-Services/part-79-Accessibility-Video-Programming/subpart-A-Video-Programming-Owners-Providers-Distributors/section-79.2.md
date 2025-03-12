@@ -1,5 +1,7 @@
 ##### § 79.2 Accessibility of programming providing emergency information. #####
 
+Link to an amendment published at 85 FR 76484, Nov. 30, 2020.
+
 (a) *Definitions.* (1) For purposes of this section, the definitions in §§ 79.1 and 79.3 apply.
 
 (2) *Emergency information.* Information, about a current emergency, that is intended to further the protection of life, health, safety, and property, *i.e.*, critical details regarding the emergency and how to respond to the emergency. Examples of the types of emergencies covered include tornadoes, hurricanes, floods, tidal waves, earthquakes, icing conditions, heavy snows, widespread fires, discharge of toxic gases, widespread power failures, industrial explosions, civil disorders, school closings and changes in school bus schedules resulting from such conditions, and warnings and watches of impending changes in weather.

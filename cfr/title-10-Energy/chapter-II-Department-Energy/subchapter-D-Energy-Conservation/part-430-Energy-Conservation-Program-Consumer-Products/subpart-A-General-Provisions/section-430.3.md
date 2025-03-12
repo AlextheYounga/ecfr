@@ -1,7 +1,5 @@
 ##### § 430.3 Materials incorporated by reference. #####
 
-Link to an amendment published at 85 FR 68741, Oct. 30, 2020.
-
 (a) *General.* We incorporate by reference the following standards into this part. The material listed has been approved for incorporation by reference by the Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, the Department of Energy must publish a document in the Federal Register and the material must be available to the public. All approved material is available for inspection at U.S. Department of Energy, Office of Energy Efficiency and Renewable Energy, Building Technologies Program, 6th Floor, 950 L'Enfant Plaza, SW, Washington, DC 20024, (202) 586-2945, or go to: *www1.eere.energy.gov/buildings/appliance\_\_standards/.* Standards can be obtained from the sources listed in this section. Material is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, email *fedreg.legal@nara.gov,* or go to: *www.archives.gov/federal-register/cfr/ibr-locations.html.*
 
 (b) Air Movement and Control Association International, Inc. (AMCA), 30 West University Drive, Arlington Heights, IL 60004, (847) 394-0150, or by going to *http://www.amca.org/store/item.aspx?ItemId=81.*
@@ -258,7 +256,7 @@ The standards referenced in paragraphs (e)(6), (8), (11), (15), (16), (18), (19)
 
 (1) ANSI/AHAM DH-1-2008 (“ANSI/AHAM DH-1”), Dehumidifiers, ANSI approved May 9, 2008, IBR approved for appendices X and X1 to subpart B of this part.
 
-(2) ANSI/AHAM DW-1-2010, Household Electric Dishwashers, (ANSI approved September 18, 2010), IBR approved for appendix C1 to subpart B of this part.
+(2) ANSI/AHAM DW-1-2010, Household Electric Dishwashers, (ANSI approved September 18, 2010), IBR approved for § 430.32 and appendix C1 to subpart B of this part.
 
 (3) AHAM HLD-1-2009 (“AHAM HLD-1”), Household Tumble Type Clothes Dryers, (2009), IBR approved for appendices D1 and D2 to subpart B of this part.
 

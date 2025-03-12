@@ -1,0 +1,3 @@
+##### § 115.310 FHAP and the First Amendment. #####
+
+None of the funding made available under the FHAP may be used to investigate or prosecute any activity engaged in by one or more persons, including the filing or maintaining of a non-frivolous legal action, that may be protected by the First Amendment of the United States Constitution. HUD guidance is available that sets forth the procedures HUD will follow when it is asked to accept and dual-file a case that may implicate the First Amendment of the United States Constitution.

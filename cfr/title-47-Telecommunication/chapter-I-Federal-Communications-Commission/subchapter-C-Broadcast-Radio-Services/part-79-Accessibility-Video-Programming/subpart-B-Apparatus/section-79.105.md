@@ -1,5 +1,7 @@
 ##### § 79.105 Video description and emergency information accessibility requirements for all apparatus. #####
 
+Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+
 (a) Effective May 26, 2015, all apparatus that is designed to receive or play back video programming transmitted simultaneously with sound that is provided by entities subject to §§ 79.2 and 79.3, is manufactured in the United States or imported for use in the United States, and uses a picture screen of any size, must have the capability to decode and make available the secondary audio stream if technically feasible, unless otherwise provided in this section, which will facilitate the following services:
 
 (1) The transmission and delivery of video description services as required by § 79.3; and

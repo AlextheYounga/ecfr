@@ -1,6 +1,6 @@
 ##### § 4.73 Schedule of ratings - muscle injuries. #####
 
-Note:
+Link to an amendment published at 85 FR 76464, Nov. 30, 2020.Note:
 
 When evaluating any claim involving muscle injuries resulting in loss of use of any extremity or loss of use of both buttocks (diagnostic code 5317, Muscle Group XVII), refer to § 3.350 of this chapter to determine whether the veteran may be entitled to special monthly compensation.
 

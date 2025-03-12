@@ -1,0 +1,5 @@
+##### § 251.1 Scope of the part. #####
+
+(a) This part sets forth the procedures that Section 804 Importation Program sponsors (SIP Sponsors) must follow when submitting plans to implement time-limited programs to begin importation of drugs from Canada under section 804 of the Federal Food, Drug, and Cosmetic Act. This part also sets forth certain requirements that are necessary for such programs to be authorized by the Food and Drug Administration (FDA). Additionally, this part sets forth requirements for eligible prescription drugs and requirements for entities that engage in importation of eligible prescription drugs.
+
+(b) This part includes provisions that exempt eligible prescription drugs that meet certain requirements from section 502(f)(1) of the Federal Food, Drug, and Cosmetic Act. This part also includes provisions that exempt certain transactions involving eligible prescription drugs from certain requirements in section 582 of the Federal Food, Drug, and Cosmetic Act.

@@ -1,5 +1,7 @@
 ##### § 79.106 Video description and emergency information accessibility requirements for recording devices. #####
 
+Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+
 (a) Effective May 26, 2015, all apparatus that is designed to record video programming transmitted simultaneously with sound that is provided by entities subject to §§ 79.2 and 79.3 and is manufactured in the United States or imported for use in the United States, must comply with the provisions of this section except that apparatus must only do so if it is achievable as defined in § 79.105(b)(3).
 
 Note 1 to paragraph (a):

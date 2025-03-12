@@ -1,0 +1,3 @@
+##### § 180.635 Written testimony. #####
+
+The ALJ may accept and enter into the record direct testimony of witnesses made by verified written statement rather than by oral presentation at the hearing. Unless the ALJ fixes other time periods, affidavits shall be filed and served on the parties not later than 14 days prior to the hearing. Witnesses whose testimony is presented by affidavit shall be available for cross-examination as may be required.

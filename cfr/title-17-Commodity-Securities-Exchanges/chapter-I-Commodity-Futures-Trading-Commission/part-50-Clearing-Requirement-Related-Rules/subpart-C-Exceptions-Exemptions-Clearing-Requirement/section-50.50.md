@@ -1,5 +1,7 @@
 ##### § 50.50 Exceptions to the clearing requirement. #####
 
+Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
+
 (a) *Non-financial entities.* (1) A counterparty to a swap may elect the exception to the clearing requirement under section 2(h)(7)(A) of the Act if the counterparty:
 
 (i) Is not a “financial entity” as defined in section 2(h)(7)(C)(i) of the Act;

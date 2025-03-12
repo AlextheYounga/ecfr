@@ -1,7 +1,5 @@
 ##### § 430.32 Energy and water conservation standards and their compliance dates. #####
 
-Link to an amendment published at 85 FR 68741, Oct. 30, 2020.
-
 The energy and water (in the case of faucets, showerheads, water closets, and urinals) conservation standards for the covered product classes are:
 
 (a) *Refrigerators/refrigerator-freezers/freezers.* These standards do not apply to refrigerators and refrigerator-freezers with total refrigerated volume exceeding 39 cubic feet (1104 liters) or freezers with total refrigerated volume exceeding 30 cubic feet (850 liters). The energy standards as determined by the equations of the following table(s) shall be rounded off to the nearest kWh per year. If the equation calculation is halfway between the nearest two kWh per year values, the standard shall be rounded up to the higher of these values.
@@ -310,14 +308,11 @@ av = Total adjusted volume, expressed in Liters.
 
 (f) *Dishwashers.* (1) All dishwashers manufactured on or after May 30, 2013, shall meet the following standard -
 
-(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle.
+(i) Standard size dishwashers shall not exceed 307 kwh/year and 5.0 gallons per cycle. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1-2010 (incorporated by reference, see § 430.3) using the test load specified in section 2.7 of appendix C1 in subpart B of this part.
 
-(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle.
+(ii) Compact size dishwashers shall not exceed 222 kwh/year and 3.5 gallons per cycle. Compact size dishwashers have a capacity less than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1-2010 (incorporated by reference, see § 430.3) using the test load specified in section 2.7 of appendix C1 in subpart B of this part.
 
-|                                                                                                                      Product class                                                                                                                       |Energy factor  <br/>(cycles/kWh)|
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------|
-|        (i) Compact Dishwasher (capacity less than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1 [Incorporated by reference, see § 430.22] using the test load specified in section 2.7 of appendix C in subpart B)         |              0.62              |
-|(ii) Standard Dishwasher (capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1 [Incorporated by Reference, see § 430.22] using the test load specified in section 2.7 of appendix C in subpart B)|              0.46              |
+(iii) Standard size dishwashers with a “normal cycle”, as defined in section 1.12 of appendix C1 in subpart B of this part, of 60 minutes or less are not currently subject to energy or water conservation standards. Standard size dishwashers have a capacity equal to or greater than eight place settings plus six serving pieces as specified in ANSI/AHAM DW-1-2010 (incorporated by reference, see § 430.3) using the test load specified in section 2.7 of appendix C1 in subpart B of this part.
 
 (2) [Reserved]
 

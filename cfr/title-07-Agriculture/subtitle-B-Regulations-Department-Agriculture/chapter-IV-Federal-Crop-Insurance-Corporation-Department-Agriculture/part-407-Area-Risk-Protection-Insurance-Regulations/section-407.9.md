@@ -68,7 +68,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Class.* A specific subgroup of commodity type.
 
-*Code of Federal Regulations (CFR).* The codification of general rules published in the Federal Register by the Executive departments and agencies of the Federal Government. Rules published in the Federal Register by FCIC are contained in 7 CFR chapter IV. The full text of the CFR is available in electronic format at *http://ecfr.gpoaccess.gov/.*
+*Code of Federal Regulations (CFR).* The codification of general rules published in the Federal Register by the Executive departments and agencies of the Federal Government. Rules published in the Federal Register by FCIC are contained in 7 CFR chapter IV. The full text of the CFR is available in electronic format at *https://www.ecfr.gov/.*
 
 *Commodity.* An agricultural good or product that has economic value.
 
@@ -236,7 +236,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 *Tilled.* The termination of existing plants by plowing, disking, burning, application of chemicals, or by other means to prepare acreage for the production of a crop.
 
-*Total premium.* The amount of premium before subsidy, calculated in accordance with section 7(e)(1).
+*Total premium.* The amount of premium before subsidy, calculated in accordance with section 7(d)(1).
 
 *Transitional acreage.* Acreage on which organic farming practices are being followed that does not yet qualify to be designated as organic acreage.
 
@@ -376,7 +376,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (C) The termination date for the crop year prior to the crop year in which a scheduled payment is due under a written payment agreement if you fail to pay the amount owed by any payment date in any agreement to pay the debt.
 
-(ii) If you are ineligible and a policy has been terminated in accordance with section 2(k)(2), you will not receive any indemnity, and such ineligibility and termination of the policy may affect your eligibility for benefits under other USDA programs. Any indemnity that may be owed for the policy before it has been terminated will remain owed to you, but may be offset in accordance with section 2(j), unless your policy was terminated in accordance with sections (k)(2)(i)(A), (B) or (D).
+(ii) If you are ineligible and a policy has been terminated in accordance with section 2(k)(2), you will not receive any indemnity, and such ineligibility and termination of the policy may affect your eligibility for benefits under other USDA programs. Any indemnity that may be owed for the policy before it has been terminated will remain owed to you, but may be offset in accordance with section 2(j), unless your policy was terminated in accordance with sections 2(k)(2)(i)(A), (B), or (D).
 
 (2) With respect to termination:
 
@@ -390,7 +390,7 @@ AGREEMENT TO INSURE: In return for the commitment to pay a premium, and subject 
 
 (D) For execution of a written payment agreement and failure to make any scheduled payment, the termination date for the crop year prior to the crop year in which you failed to make the scheduled payment (for this purpose only, the crop year will start the day after the termination date and end on the next termination date, e.g., if the termination date is November 30 and you fail to make a payment on November 15, 2019, your policy will terminate on November 30, 2018, for the 2019 crop year).
 
-(ii) For all policies terminated under section 2(k)(2)(i)(A), (B) or (D), any indemnities paid subsequent to the termination date must be repaid.
+(ii) For all policies terminated under section 2(k)(2)(i)(A), (B), or (D), any indemnities paid subsequent to the termination date must be repaid.
 
 (iii) Once the policy is terminated, it cannot be reinstated for the current crop year unless:
 
@@ -972,7 +972,7 @@ Unless specified otherwise in the Crop Provisions, coverage begins at the later 
 
 (d) If you provided acceptable records in accordance with section 13(c), your double cropping history is limited to the highest number of acres double cropped within the applicable four-year period as determined in section 13(c)(4).
 
-(1) If the records you provided are from acreage you double cropped in at least two of the last four crop years, you may apply your history of double cropping to any acreage of the insured crop in the county (e.g., if you have double cropped 100 acres of wheat and soybeans in the county and you acquire an additional 100 acres in the county, you can apply that history of double cropped acreage to any of the 200 acres in the county as long as it does not exceed 100 acres); or
+(1) If the records you provided are from acreage you double cropped in at least two of the last four crop years, you may apply your history of double cropping to any acreage of the insured crop in the county (for example you have 100 cropland acres in the county and have double cropped wheat and soybeans on all 100 acres in the county and you acquire an additional 100 acres in the county, you can apply your history of 100 double cropped acres to any of the 200 acres in the county); or
 
 (2) If the records you provided are from acreage that another producer double cropped in at least two of the last four crop years, you may only use the history of double cropping for the same physical acres from which double cropping records were provided (e.g., if a neighbor has double cropped 100 acres of wheat and soybeans in the county and you acquire your neighbor's 100 double cropped acres and an additional 100 acres in the county, you can only apply your neighbor's history of double cropped acreage to the same 100 acres that your neighbor double cropped).
 
@@ -1228,7 +1228,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (d) With respect to any other determination under this policy:
 
-(1) If you and we fail to agree on any determination not covered by sections 23(a) and (c), the disagreement may be resolved through mediation. To resolve any dispute through mediation, you and we must both:
+(1) If you do not agree with any determination not covered by sections 23(a) and (c), the disagreement may be resolved through mediation. To resolve any dispute through mediation, you and we must both:
 
 (i) Agree to mediate the dispute;
 
@@ -1236,7 +1236,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (iii) Be present or have a designated representative who has authority to settle the case present, at the mediation.
 
-(2) If resolution cannot be reached through mediation, or you and we do not agree to mediation, the disagreement must be resolved through arbitration in accordance with the rules of the American Arbitration Association (AAA), unless otherwise stated in this subsection or rules are established by FCIC for this purpose. Any mediator or arbitrator with a familial, financial or other business relationship to you or us, or our agent or loss adjuster, is disqualified from hearing the dispute.
+(2) If the disagreement cannot be resolved through mediation, or you and we do not agree to mediation, you must timely seek resolution through arbitration in accordance with the rules of the American Arbitration Association (AAA), unless otherwise stated in this subsection or rules are established by FCIC for this purpose. Any mediator or arbitrator with a familial, financial or other business relationship to you or us, or our agent or loss adjuster, is disqualified from hearing the dispute.
 
 (3) If the dispute in any way involves a policy or procedure interpretation, regarding whether a specific policy provision or procedure is applicable to the situation, how it is applicable, or the meaning of any policy provision or procedure, either you or we must obtain an interpretation from FCIC in accordance with 7 CFR part 400, subpart X or such other procedures as established by FCIC.
 
@@ -1256,7 +1256,7 @@ You must not abandon any crop to us. We will not accept any crop as compensation
 
 (5) Regardless of whether mediation is elected:
 
-(i) The initiation of arbitration proceedings must occur within one year of the date we denied your claim or rendered the determination with which you disagree, whichever is later;
+(i) You must initiate arbitration proceedings within 1 year of the date we denied your claim or rendered the determination with which you disagree, whichever is later;
 
 (ii) If you fail to initiate arbitration in accordance with section 23(d)(5)(i) and complete the process, you will not be able to resolve the dispute through judicial review;
 
@@ -1378,4 +1378,4 @@ Step 1: Calculate the Dollar Amount of Insurance per AcreFormula: Expected count
 
 (3) Avoid an obligation or requirement under any Federal or State law.
 
-[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020]
+[78 FR 38507, June 26, 2013, as amended at 79 FR 2083, Jan. 13, 2014; 79 FR 37162, July 1, 2014; 80 FR 73639, Nov. 25, 2015; 81 FR 42473, June 30, 2016; 82 FR 55730, Nov. 24, 2017; 82 FR 58707, Dec. 14, 2017; 84 FR 30861, June 28, 2019; 85 FR 38754, June 29, 2020; 85 FR 76425, Nov. 30, 2020]

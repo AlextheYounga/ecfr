@@ -1,0 +1,7 @@
+##### § 115.201 The two phases of substantial equivalency certification. #####
+
+Substantial equivalency certification is granted if the Department determines that a state or local agency enforces a law that is substantially equivalent to the Fair Housing Act with regard to substantive rights, procedures, remedies, and the availability of judicial review. The Department has developed a two-phase process of substantial equivalency certification.
+
+(a) *Adequacy of Law.* In the first phase, the Assistant Secretary will determine whether, on its face, the fair housing law that the agency administers provides rights, procedures, remedies, and the availability of judicial review that are substantially equivalent to those provided in the federal Fair Housing Act. An affirmative conclusion may result in the Department offering the agency interim certification. An agency must obtain interim certification prior to obtaining certification.
+
+(b) *Adequacy of Performance.* In the second phase, the Assistant Secretary will determine whether, in operation, the fair housing law that the agency administers provides rights, procedures, remedies, and the availability of judicial review that are substantially equivalent to those provided in the federal Fair Housing Act. An affirmative conclusion will result in the Department offering the agency certification.

@@ -1,6 +1,4 @@
-##### § 578.99 Applicability of other federal requirements. #####
-
-Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
+##### § 578.99 Applicability of other Federal requirements. #####
 
 In addition to the requirements set forth in 24 CFR part 5, use of assistance provided under this part must comply with the following federal requirements:
 
@@ -26,9 +24,9 @@ In addition to the requirements set forth in 24 CFR part 5, use of assistance pr
 
 (h) *Davis-Bacon Act.* The provisions of the Davis-Bacon Act do not apply to this program.
 
-(i) *Section 3 of the Housing and Urban Development Act.* Recipients and subrecipients must, as applicable, comply with Section 3 of the Housing and Urban Development Act of 1968 and its implementing regulations at 24 CFR part 135, as applicable.
+(i) *Section 3 of the Housing and Urban Development Act.* Recipients and subrecipients must, as applicable, comply with Section 3 of the Housing and Urban Development Act of 1968 and its implementing regulations at 24 CFR part 75, as applicable.
 
-(j) *Protections for victims of domestic violence, dating violence, sexual assault, or stalking* - (1) *General.* The requirements set forth in 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking), implementing the requirements of VAWA apply to all permanent housing and transitional housing for which Continuum of Care program funds are used for acquisition, rehabilitation, new construction, leasing, rental assistance, or operating costs. The requirements also apply where funds are used for homelessness prevention, but only where the funds are used to provide short- and/or medium-term rental assistance. Safe havens are subject only to the requirements in paragraph (j)(9) of this section.
+(j) *Protections for victims of domestic violence, dating violence, sexual assault, or stalking*—(1) *General.* The requirements set forth in 24 CFR part 5, subpart L (Protection for Victims of Domestic Violence, Dating Violence, Sexual Assault, or Stalking), implementing the requirements of VAWA apply to all permanent housing and transitional housing for which Continuum of Care program funds are used for acquisition, rehabilitation, new construction, leasing, rental assistance, or operating costs. The requirements also apply where funds are used for homelessness prevention, but only where the funds are used to provide short- and/or medium-term rental assistance. Safe havens are subject only to the requirements in paragraph (j)(9) of this section.
 
 (2) *Definition of covered housing provider.* For the Continuum of Care program, “covered housing provider,” as such term is used in HUD's regulations in 24 CFR part 5, subpart L refers to:
 
@@ -96,4 +94,4 @@ In addition to the requirements set forth in 24 CFR part 5, use of assistance pr
 
 (iii) The terms “affiliated individual,” “dating violence,” “domestic violence,” “sexual assault,” and “stalking” are defined in 24 CFR 5.2003.
 
-[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016; 81 FR 87812, Dec. 6, 2016]
+[77 FR 45442, July 31, 2012, as amended at 80 FR 75940, Dec. 7, 2015; 81 FR 80810, Nov. 16, 2016; 81 FR 87812, Dec. 6, 2016; 85 FR 61568, Sept. 29, 2020]

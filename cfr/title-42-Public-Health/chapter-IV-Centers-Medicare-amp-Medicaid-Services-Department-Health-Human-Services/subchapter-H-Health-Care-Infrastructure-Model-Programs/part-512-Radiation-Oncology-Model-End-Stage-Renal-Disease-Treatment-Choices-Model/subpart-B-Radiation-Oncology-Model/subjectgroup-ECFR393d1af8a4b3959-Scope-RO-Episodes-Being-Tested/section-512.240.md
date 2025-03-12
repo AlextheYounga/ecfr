@@ -1,0 +1,3 @@
+##### § 512.240 Included modalities. #####
+
+The modalities included in the RO Model are 3-dimensional conformal RT (3DCRT), intensity-modulated RT (IMRT), stereotactic radiosurgery (SRS), stereotactic body RT (SBRT), proton beam therapy (PBT), image-guided radiation therapy (IGRT), and brachytherapy.

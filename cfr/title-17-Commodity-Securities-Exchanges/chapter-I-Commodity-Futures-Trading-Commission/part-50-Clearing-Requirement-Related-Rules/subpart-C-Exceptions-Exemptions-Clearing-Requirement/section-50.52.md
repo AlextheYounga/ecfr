@@ -1,5 +1,7 @@
 ##### § 50.52 Exemption for swaps between affiliates. #####
 
+Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
+
 (a) *Eligible affiliate counterparty status.* Subject to the conditions in paragraph (b) of this section:
 
 (1) Counterparties to a swap may elect not to clear a swap subject to the clearing requirement of section 2(h)(1)(A) of the Act and this part if:

@@ -1,0 +1,9 @@
+##### § 107.45 Resolution of matters. #####
+
+(a) Attempts to resolve and remedy matters found in a complaint investigation or a compliance review shall be made through the methods of conference, conciliation, and persuasion.
+
+(b) Resolution of matters pursuant to this section and § 107.40 need not be attempted where similar efforts by another Federal agency have been unsuccessful in ending and remedying the violation found with respect to the same respondent.
+
+(c) Efforts to remedy matters shall be directed toward achieving a just resolution of the probable violation and obtaining assurance(s) that the respondent will satisfactorily remedy any violation of E.O. 11063 and will take actions to eliminate the discriminatory practices and prevent reoccurrences. Compensation to individuals from the respondent may also be considered.
+
+(d) The terms of settlements shall be reduced to a written agreement, signed by the respondent and the Assistant Secretary for FH&EO or a designee. Such settlements shall seek to protect the interests of the complainant, if any, other persons similarly affected, and the public interest. A written notice of the disposition of matters pursuant to this section and of the terms of settlements shall be given to the Area Manager by the Assistant Secretary for FH&EO or a designee and to the complainant, if any. When the Assistant Secretary or a designee determines that there has been a violation of a settlement agreement, the Assistant Secretary immediately may take action to impose sanctions provided under this part, including the referral of the matter to the Attorney General for appropriate action.

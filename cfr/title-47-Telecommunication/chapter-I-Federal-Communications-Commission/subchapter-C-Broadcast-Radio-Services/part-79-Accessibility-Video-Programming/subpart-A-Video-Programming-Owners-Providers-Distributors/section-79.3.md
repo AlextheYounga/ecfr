@@ -1,5 +1,7 @@
 ##### § 79.3 Video description of video programming. #####
 
+Link to an amendment published at 85 FR 76485, Nov. 30, 2020.
+
 (a) *Definitions.* For purposes of this section the following definitions shall apply:
 
 (1) *Designated Market Areas (DMAs).* Unique, county-based geographic areas designated by The Nielsen Company, a television audience measurement service, based on television viewership in the counties that make up each DMA.

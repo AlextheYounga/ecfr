@@ -1,0 +1,5 @@
+##### § 115.101 Program administration. #####
+
+(a) *Authority and responsibility.* The Secretary has delegated the authority and responsibility for administering this part to the Assistant Secretary.
+
+(b) *Delegation of Authority.* The Assistant Secretary retains the right to make final decisions concerning the granting and withdrawal of substantial equivalency interim certification and certification. The Assistant Secretary delegates the authority and responsibility for administering the remainder of this part to the FHEO regional director. This includes assessing the performance of interim and certified agencies as described in § 115.206. This also includes the offering of a Performance Improvement Plan (PIP) as described in § 115.210 and the suspension of interim certification or certification due to performance deficiencies as described in § 115.210.

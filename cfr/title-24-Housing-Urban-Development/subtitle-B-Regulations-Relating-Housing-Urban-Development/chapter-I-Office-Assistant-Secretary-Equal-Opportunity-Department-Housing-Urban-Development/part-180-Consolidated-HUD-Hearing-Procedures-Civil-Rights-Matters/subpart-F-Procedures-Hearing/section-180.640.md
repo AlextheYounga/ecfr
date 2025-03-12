@@ -1,0 +1,3 @@
+##### § 180.640 In camera and protective orders. #####
+
+The ALJ may limit discovery or the introduction of evidence, or may issue such protective or other orders necessary to protect privileged communications. If the ALJ determines that information in documents containing privileged matters should be made available to a party, the ALJ may order the preparation of a summary or extract of the nonprivileged matter contained in the original.

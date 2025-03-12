@@ -1,6 +1,6 @@
 ##### § 457.108 Sunflower seed crop insurance provisions. #####
 
-The Sunflower Seed Crop Insurance Provisions for the 2017 and succeeding crop years are as follows:
+The Sunflower Seed Crop Insurance Provisions for the 2021 and succeeding crop years are as follows:
 
 Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop Provisions1. Definitions
 
@@ -8,7 +8,7 @@ Department of AgricultureFederal Crop Insurance CorporationSunflower Seed Crop P
 
 *Local market price.* The cash seed price per pound for oil type sunflower seed grading U.S. No. 2, or non-oil type sunflower seed with a test weight of at least 22 pounds per bushel and less than five percent (5%) kernel damage, offered by buyers in the area in which you normally market the sunflower seed. The local market price for oil type sunflower seed will reflect the maximum limits of quality deficiencies allowable for the U.S. No. 2 grade of sunflower seed. Factors not associated with grading of sunflower seed under the Official United States Standards for Grain including, but not limited to, oil or moisture content will not be considered.
 
-*Planted acreage.* In addition to the definition contained in the Basic Provisions, sunflower seed must initially be planted ini rows far enough apart to permit mechanical cultivation, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
+*Planted acreage.* In addition to the definition contained in the Basic Provisions, sunflower seed must initially be planted in rows far enough apart to permit mechanical cultivation, unless otherwise provided by the Special Provisions, actuarial documents, or by written agreement.
 
 2. Insurance Guarantees, Coverage Levels, and Prices for Determining Indemnities
 
@@ -170,7 +170,7 @@ If you elected revenue protection:
 
 (iv) Potential production on insured acreage you want to put to another use or you wish to abandon and no longer care for, if you and we agree on the appraised amount of production. Upon such agreement, the insurance period for that acreage will end if you put the acreage to another use or abandon the crop. If agreement on the appraised amount of production is not reached:
 
-(A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us, (The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or you fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count.); or
+(A) If you do not elect to continue to care for the crop, we may give you consent to put the acreage to another use if you agree to leave intact, and provide sufficient care for, representative samples of the crop in locations acceptable to us (The amount of production to count for such acreage will be based on the harvested production or appraisals from the samples at the time harvest should have occurred. If you do not leave the required samples intact, or you fail to provide sufficient care for the samples, our appraisal made prior to giving you consent to put the acreage to another use will be used to determine the amount of production to count.); or
 
 (B) If you elect to continue to care for the crop, the amount of production to count for the acreage will be the harvested production, or our reappraisal if additional damage occurs and the crop is not harvested; and
 
@@ -192,7 +192,7 @@ If you elected revenue protection:
 
 (3) Quality will be a factor in determining your loss only if:
 
-(i) The deficiencies, substances, or conditions, resulted from a cause of loss against which insurance is provided under these crop provisions and within the insurance period ;
+(i) The deficiencies, substances, or conditions, resulted from a cause of loss against which insurance is provided under these crop provisions and within the insurance period;
 
 (ii) All determinations of these deficiencies, substances, or conditions are made using samples of the production obtained by us or by a disinterested third party approved by us;
 
@@ -214,4 +214,4 @@ If you elected revenue protection:
 
 Your prevented planting coverage will be a percentage specified in the actuarial documents of your production guarantee for timely planted acreage. If you have additional coverage and pay an additional premium, you may increase your prevented planting coverage if such additional coverage is specified in the actuarial documents.
 
-[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016]
+[59 FR 67136, Dec. 29, 1994, as amended at 60 FR 62727, Dec. 7, 1995; 62 FR 63633, Dec. 2, 1997; 62 FR 65166, Dec. 10, 1997; 67 FR 55690, Aug. 30, 2002; 75 FR 15879, 15880, Mar. 30, 2010; 81 FR 84398, Nov. 23, 2016; 85 FR 76427, Nov. 30, 2020]

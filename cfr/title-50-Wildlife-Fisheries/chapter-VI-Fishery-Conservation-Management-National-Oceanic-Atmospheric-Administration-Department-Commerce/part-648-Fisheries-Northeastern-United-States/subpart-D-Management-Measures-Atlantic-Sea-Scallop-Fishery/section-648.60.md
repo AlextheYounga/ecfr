@@ -134,4 +134,4 @@ Table 9 to Paragraph (i)
 |NLSW4|  40°20′  |  69°30′   |
 |NLSW1|  40°20′  |  70°00′   |
 
-[85 FR 17764, Mar. 31, 2020]Effective Date Note:At 85 FR 33030, June 1, 2020, § 648.60 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020 through Nov. 28, 2020.
+[85 FR 17764, Mar. 31, 2020]Effective Date Note:At 85 FR 33030, June 1, 2020, § 648.60 was amended by suspending paragraph (f) and adding paragraph (i), effective June 1, 2020, through Nov. 28, 2020. At 85 FR 74920, Nov. 24, 2020, the effective date for these amendments was extended until June 21, 2021.

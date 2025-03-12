@@ -1,0 +1,7 @@
+##### 204.7501 Policy. #####
+
+(a) The contracting officer shall include in the solicitation the required CMMC level, if provided by the requiring activity. Contracting officers shall not award a contract, task order, or delivery order to an offeror that does not have a current (*i.e.,* not more than 3 years old) CMMC certificate at the level required by the solicitation.
+
+(b) Contractors are required to achieve, at time of award, a CMMC certificate at the level specified in the solicitation. Contractors are required to maintain a current (*i.e.,* not more than 3 years old) CMMC certificate at the specified level, if required by the statement of work or requirement document, throughout the life of the contract, task order, or delivery order. Contracting officers shall not exercise an option period or extend the period of performance on a contract, task order, or delivery order, unless the contract has a current (*i.e.,* not more than 3 years old) CMMC certificate at the level required by the contract, task order, or delivery order.
+
+(c) The CMMC Assessments shall not duplicate efforts from any other comparable DoD assessment, except for rare circumstances when a re-assessment may be necessary such as, but not limited to when there are indications of issues with cybersecurity and/or compliance with CMMC requirements.

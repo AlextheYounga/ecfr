@@ -1,5 +1,7 @@
 ##### § 50.51 Exemption for cooperatives. #####
 
+Link to an amendment published at 85 FR 76448, Nov. 30, 2020.
+
 *Exemption for cooperatives.* Exempt cooperatives may elect not to clear certain swaps identified in paragraph (b) of this section that are otherwise subject to the clearing requirement of section 2(h)(1)(A) of the Act if the following requirements are satisfied.
 
 (a) For the purposes of this paragraph, an *exempt cooperative* means a cooperative:

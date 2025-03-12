@@ -1,5 +1,7 @@
 ##### § 79.108 Video programming guides and menus provided by navigation devices. #####
 
+Link to an amendment published at 85 FR 76486, Nov. 30, 2020.
+
 (a)(1) Manufacturers that place navigation devices, as defined by § 76.1200 of this chapter, into the chain of commerce for purchase by consumers, and multichannel video programming distributors (“MVPDs”) as defined by § 76.1200 of this chapter that lease or sell such devices must ensure that the on-screen text menus and guides provided by navigation devices for the display or selection of multichannel video programming are audibly accessible in real time upon request by individuals who are blind or visually impaired. Manufacturers and MVPDs must comply with the provisions of this section only if doing so is achievable as defined in § 79.108(c)(2).
 
 Note 1 to paragraph (a)(1):

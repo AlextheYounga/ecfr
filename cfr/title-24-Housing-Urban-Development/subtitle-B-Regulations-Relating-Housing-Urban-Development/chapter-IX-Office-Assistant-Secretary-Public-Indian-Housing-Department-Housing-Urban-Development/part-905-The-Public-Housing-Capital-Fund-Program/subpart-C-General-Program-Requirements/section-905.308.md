@@ -1,7 +1,5 @@
 ##### § 905.308 Federal requirements applicable to all Capital Fund activities. #####
 
-Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
-
 (a) The PHA shall comply with the requirements of 24 CFR part 5 (General HUD Program Requirements; Waivers), 2 CFR part 200, and this part.
 
 (b) The PHA shall also comply with the following program requirements.
@@ -36,6 +34,6 @@ Link to an amendment published at 85 FR 61568, Sept. 29, 2020.
 
 (9) *Displacement, relocation, and real property acquisition.* All acquisition or rehabilitation activities carried out under the Capital Fund, including acquisition of any property for development, shall comply with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (URA) (42 U.S.C. 4601-4655) and with implementing regulations at 49 CFR part 24. Demolition or disposition under section 18 of the 1937 Act, 42 U.S.C. 1437p, is covered by the relocation provisions at 24 CFR 970.21.
 
-(10) *Procurement and contract requirement.* PHAs and their contractors shall comply with section 3 of the Housing and Community Development Act of 1968 (12 U.S.C. 1701u) and HUD's implementing rules at 24 CFR part 135.
+(10) *Procurement and contract requirement.* PHAs and their contractors shall comply with section 3 of the Housing and Community Development Act of 1968 (12 U.S.C. 1701u) and HUD's implementing rules at 24 CFR part 75.
 
-[78 FR 63770, Oct. 24, 2013, as amended at 80 FR 75942, Dec. 7, 2015]
+[78 FR 63770, Oct. 24, 2013, as amended at 80 FR 75942, Dec. 7, 2015; 85 FR 61568, Sept. 29, 2020]
