@@ -1,10 +1,8 @@
 ##### § 229.2 Definitions. #####
 
-Link to an amendment published at 84 FR 31696, July 3, 2019.
-
 As used in this part, and unless the context requires otherwise, the following terms have the meanings set forth in this section, and the terms not defined in this section have the meanings set forth in the Uniform Commercial Code:
 
-(a) *Account.* (1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, *account* means a deposit as defined in 12 CFR 204.2(a)(1)(i) that is a transaction account as described in 12 CFR 204.2(e). As defined in these sections, *account* generally includes accounts at a bank from which the account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, electronic payment, or other similar means for the purpose of making payments or transfers to third persons or others. *Account* also includes accounts at a bank from which the account holder may make third party payments at an ATM, remote service unit, or other electronic device, including by debit card, but the term does not include savings deposits or accounts described in 12 CFR 204.2(d)(2) even though such accounts permit third party transfers. An account may be in the form of -
+(a) *Account.* (1) Except as provided in paragraphs (a)(2) and (a)(3) of this section, *account* means a deposit as defined in 12 CFR 204.2(a)(1)(i) that is a transaction account as described in 12 CFR 204.2(e). As defined in these sections, *account* generally includes accounts at a bank from which the account holder is permitted to make transfers or withdrawals by negotiable or transferable instrument, payment order of withdrawal, telephone transfer, electronic payment, or other similar means for the purpose of making payments or transfers to third persons or others. *Account* also includes accounts at a bank from which the account holder may make third party payments at an ATM, remote service unit, or other electronic device, including by debit card, but the term does not include savings deposits or accounts described in 12 CFR 204.2(d)(2) even though such accounts permit third party transfers. An account may be in the form of—
 
 (i) A demand deposit account,
 
@@ -22,11 +20,11 @@ As used in this part, and unless the context requires otherwise, the following t
 
 (b) *Automated clearinghouse* or *ACH* means a facility that processes debit and credit transfers under rules established by a Federal Reserve Bank operating circular on automated clearinghouse items or under rules of an automated clearinghouse association.
 
-(c) *Automated teller machine* or *ATM* means an electronic device at which a natural person may make deposits to an account by cash or check and perform other account transactions.
+(c) *Automated teller machine* or *ATM* means an electronic device located in the United States at which a natural person may make deposits to an account by cash or check and perform other account transactions.
 
 (d) *Available for withdrawal* with respect to funds deposited means available for all uses generally permitted to the customer for actually and finally collected funds under the bank's account agreement or policies, such as for payment of checks drawn on the account, certification of checks drawn on the account, electronic payments, withdrawals by cash, and transfers between accounts.
 
-(e) *Bank* means -
+(e) *Bank* means—
 
 (1) An *insured bank* as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 18I3) or a bank that is eligible to apply to become an insured bank under section 5 of that Act (12 U.S.C. 1815);
 
@@ -52,7 +50,7 @@ For purposes of subpart D of this part and, in connection therewith, this subpar
 
 (h) *Cash* means United States coins and currency.
 
-(i) *Cashier's check* means a check that is -
+(i) *Cashier's check* means a check that is—
 
 (1) Drawn on a bank;
 
@@ -62,11 +60,11 @@ For purposes of subpart D of this part and, in connection therewith, this subpar
 
 (4) Provided to a customer of the bank or acquired from the bank for remittance purposes.
 
-(j) *Certified check* means a check with respect to which the drawee bank certifies by signature on the check of an officer or other authorized employee of the bank that -
+(j) *Certified check* means a check with respect to which the drawee bank certifies by signature on the check of an officer or other authorized employee of the bank that—
 
 (1) (i) The signature of the drawer on the check is genuine; and
 
-(ii) The bank has set aside funds that -
+(ii) The bank has set aside funds that—
 
 (A) Are equal to the amount of the check, and
 
@@ -74,7 +72,7 @@ For purposes of subpart D of this part and, in connection therewith, this subpar
 
 (2) The bank will pay the check upon presentment.
 
-(k) *Check* means -
+(k) *Check* means—
 
 (1) A negotiable demand draft drawn on or payable through or at an office of a bank;
 
@@ -110,13 +108,13 @@ The term *check* does not include a noncash item or an item payable in a medium 
 
 (s) *Local paying bank* means a paying bank that is located in the same check-processing region as the physical location of the branch, contractual branch, or proprietary ATM of the depositary bank in which that check was deposited.
 
-(t) *Merger transaction* means -
+(t) *Merger transaction* means—
 
 (1) A merger or consolidation of two or more banks; or
 
 (2) The transfer of substantially all of the assets of one or more banks or branches to another bank in consideration of the assumption by the acquiring bank of substantially all of the liabilities of the transferring banks, including the deposit liabilities.
 
-(u) *Noncash item* means an item that would otherwise be a check, except that -
+(u) *Noncash item* means an item that would otherwise be a check, except that—
 
 (1) A passbook, certificate, or other document is attached;
 
@@ -134,7 +132,7 @@ The term *check* does not include a noncash item or an item payable in a medium 
 
 (y) [Reserved]
 
-(z) *Paying bank* means -
+(z) *Paying bank* means—
 
 (1) The bank by which a check is payable, unless the check is payable at another bank and is sent to the other bank for payment or collection;
 
@@ -150,7 +148,7 @@ For purposes of subparts C and D, and in connection therewith, subpart A, *payin
 
 For purposes of subpart D of this part and, in connection therewith, this subpart A, *paying bank* also includes the Treasury of the United States or the United States Postal Service for a check that is payable by that entity and that is sent to that entity for payment or collection.
 
-(aa) *Proprietary ATM* means an ATM that is -
+(aa) *Proprietary ATM* means an ATM that is—
 
 (1) Owned or operated by, or operated exclusively for, the depositary bank;
 
@@ -164,7 +162,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (cc) *Returning bank* means a bank (other than the paying or depositary bank) handling a returned check or notice in lieu of return. A returning bank is also a collecting bank for purposes of UCC 4-202(b).
 
-(dd) *Routing number* means -
+(dd) *Routing number* means—
 
 (1) The number printed on the face of a check in fractional form on in nine-digit form;
 
@@ -174,11 +172,11 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (ee) *Similarly situated bank* means a bank of similar size, located in the same community, and with similar check handling activities as the paying bank or returning bank.
 
-(ff) *State* means a state, the District of Columbia, Puerto Rico, or the U.S. Virgin Islands. For purposes of subpart D of this part and, in connection therewith, this subpart A, *state* also means Guam, American Samoa, the Trust Territory of the Pacific Islands, the Northern Mariana Islands, and any other territory of the United States.
+(ff) *State* means a state, the District of Columbia, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the U.S. Virgin Islands. For purposes of subpart D of this part and, in connection therewith, this subpart A, *state* also means the Trust Territory of the Pacific Islands and any other territory of the United States.
 
 (gg) *Teller's check* means a check provided to a customer of a bank or acquired from a bank for remittance purposes, that is drawn by the bank, and drawn on another bank or payable through or at a bank.
 
-(hh) *Traveler's check* means an instrument for the payment of money that -
+(hh) *Traveler's check* means an instrument for the payment of money that—
 
 (1) Is drawn on or payable through or at a bank;
 
@@ -190,7 +188,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (ii) *Uniform Commercial Code, Code,* or *U.C.C.* means the Uniform Commercial Code as adopted in a state.
 
-(jj) *United States* means the states, including the District of Columbia, the U.S. Virgin Islands, and Puerto Rico.
+(jj) *United States* means the states, including the District of Columbia, the U.S. Virgin Islands, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and Puerto Rico.
 
 (kk) *Unit of general local government* means any city, county, parish, town, township, village, or other general purpose political subdivision of a state. The term does not include special purpose units of government, such as school districts or water districts.
 
@@ -208,7 +206,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (rr) *Collecting bank* means any bank handling a check for forward collection, except the paying bank.
 
-(ss) *Consumer* means a natural person who -
+(ss) *Consumer* means a natural person who—
 
 (1) With respect to a check handled for forward collection, draws the check on a consumer account; or
 
@@ -216,17 +214,17 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (tt) *Customer* means a person having an account with a bank.
 
-(uu) *Indemnifying bank.* Indemnifying bank means -
+(uu) *Indemnifying bank.* Indemnifying bank means—
 
 (1) For the purposes of § 229.34, a bank that provides an indemnity under § 229.34 with respect to remote deposit capture or an electronically-created item, or
 
 (2) For the purposes of § 229.53, a bank that provides an indemnity under § 229.53 with respect to a substitute check.
 
-(vv) *Magnetic ink character recognition line* and *MICR line* mean the numbers, which may include the routing number, account number, check number, check amount, and other information, that are (unless the Board by rule or order determines that different standards apply) -
+(vv) *Magnetic ink character recognition line* and *MICR line* mean the numbers, which may include the routing number, account number, check number, check amount, and other information, that are (unless the Board by rule or order determines that different standards apply)—
 
-(1) Printed near the bottom of a check in magnetic ink in accordance with American National Standard Specifications for Placement and Location of MICR Printing, X9.13 (hereinafter ANS X9.13) for an original check and American National Standard Specifications for an Image Replacement Document - IRD, X9.100-140 (hereinafter ANS X9.100-140) for a substitute check, or
+(1) Printed near the bottom of a check in magnetic ink in accordance with American National Standard Specifications for Placement and Location of MICR Printing, X9.13 (hereinafter ANS X9.13) for an original check and American National Standard Specifications for an Image Replacement Document— IRD, X9.100-140 (hereinafter ANS X9.100-140) for a substitute check, or
 
-(2) For purposes of subpart C and subpart D, contained in a record specified for MICR line data in an electronic check or electronic returned check in accordance with American National Standard Specifications for Electronic Exchange of Check Image Data - Domestic, X9.100-187 (hereinafter ANS X9.100 - 187).
+(2) For purposes of subpart C and subpart D, contained in a record specified for MICR line data in an electronic check or electronic returned check in accordance with American National Standard Specifications for Electronic Exchange of Check Image Data—Domestic, X9.100-187 (hereinafter ANS X9.100—187).
 
 (ww) *Original check* means the first paper check issued with respect to a particular payment transaction.
 
@@ -234,13 +232,13 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (yy) *Person* means a natural person, corporation, unincorporated company, partnership, government unit or instrumentality, trust, or any other entity or organization.
 
-(zz) *Reconverting bank* means -
+(zz) *Reconverting bank* means—
 
 (1) The bank that creates a substitute check; or
 
 (2) With respect to a substitute check that was created by a person that is not a bank, the first bank that transfers, presents, or returns that substitute check or, in lieu thereof, the first paper or electronic representation of that substitute check.
 
-(aaa) *Substitute check* means a paper reproduction of an original check that -
+(aaa) *Substitute check* means a paper reproduction of an original check that—
 
 (1) Contains an image of the front and back of the original check;
 
@@ -250,7 +248,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (4) Is suitable for automated processing in the same manner as the original check.
 
-(bbb) *Copy and sufficient copy.* (1) A *copy of an original check* means -
+(bbb) *Copy and sufficient copy.* (1) A *copy of an original check* means—
 
 (i) Any paper reproduction of an original check, including a paper printout of an electronic image of the check, a photocopy of the original check, or a substitute check; or
 
@@ -258,7 +256,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (2) A *sufficient copy* is a copy of an original check that accurately represents all of the information on the front and back of the original check as of the time the original check was truncated or is otherwise sufficient to determine whether or not a claim is valid.
 
-(ccc) *Transfer and consideration.* The terms *transfer* and *consideration* have the meanings set forth in the Uniform Commercial Code and in addition, for purposes of subpart D -
+(ccc) *Transfer and consideration.* The terms *transfer* and *consideration* have the meanings set forth in the Uniform Commercial Code and in addition, for purposes of subpart D—
 
 (1) The term *transfer* with respect to a substitute check or a paper or electronic representation of a substitute check means delivery of the substitute check or other representation of the substitute check by a bank to a person other than a bank; and
 
@@ -266,7 +264,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 
 (ddd) *Truncate* means to remove an original check from the forward collection or return process and send to a recipient, in lieu of such original check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without the subsequent delivery of the original check.
 
-(eee) *Truncating bank* means -
+(eee) *Truncating bank* means—
 
 (1) The bank that truncates the original check; or
 
@@ -275,7 +273,7 @@ If more than one bank meets the owned or operated criterion of paragraph (aa)(1)
 (fff) *Remotely created check* means a check that is not created by the paying bank and that does not bear a signature applied, or purported to be applied, by the person on whose account the check is drawn. For purposes of this definition, “account” means an account as defined in paragraph (a) of this section as well as a credit or other arrangement that allows a person to draw checks that are payable by, through, or at a bank.
 
 (ggg) *Electronic check* and *electronic returned check* mean an electronic image of, and electronic information derived from, a paper check or paper returned check, respectively,
-that -
+that—
 
 (1) Is sent to a receiving bank pursuant to an agreement between the sender and the receiving bank; and
 
@@ -283,4 +281,4 @@ that -
 
 (hhh) *Electronically-created item* means an electronic image that has all the attributes of an electronic check or electronic returned check but was created electronically and not derived from a paper check.
 
-[53 FR 19433, May 27, 1988, as amended at 53 FR 31292, Aug. 18, 1988; 53 FR 44324, Nov. 2, 1988; Reg. CC, 54 FR 13850, Apr. 6, 1989; 57 FR 46972, Oct. 14, 1992; 58 FR 2, Jan. 4, 1993; 60 FR 51670, Oct. 3, 1995; 62 FR 13809, Mar. 24, 1997; 69 FR 47309, 47310, Aug. 4, 2004; 70 FR 71225, Nov. 28, 2005; 82 FR 27578, June 15, 2017]
+[53 FR 19433, May 27, 1988, as amended at 53 FR 31292, Aug. 18, 1988; 53 FR 44324, Nov. 2, 1988; Reg. CC, 54 FR 13850, Apr. 6, 1989; 57 FR 46972, Oct. 14, 1992; 58 FR 2, Jan. 4, 1993; 60 FR 51670, Oct. 3, 1995; 62 FR 13809, Mar. 24, 1997; 69 FR 47309, 47310, Aug. 4, 2004; 70 FR 71225, Nov. 28, 2005; 82 FR 27578, June 15, 2017; 84 FR 31696, July 3, 2019]

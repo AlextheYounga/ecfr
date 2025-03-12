@@ -40,10 +40,12 @@
 
 (5) The county committee determines that tracts included in a farm are not being operated as a single farming unit.
 
-(d) Reconstitution shall not be approved if the county committee determines that the primary purpose of the reconstitution is to:
+(d) An owner can file a written request to have FSA reconstitute from original tracts areas that are less than 10 DCP cropland acres and less than 5 percent of the original tract, if such request is accompanied by sufficient data from which FSA can determine the political county and State of land in both the original tract and the proposed tract. Any owner-initiated requests for tract divisions for physical location will be performed and effective prospectively from date of request and approval by FSA.
+
+(e) Reconstitution shall not be approved if the county committee determines that the primary purpose of the reconstitution is to:
 
 (1) Circumvent the provisions of part 12 of this title; or
 
 (2) Circumvent any other chapter of this title.
 
-[68 FR 16178, Apr. 3, 2003, as amended at 80 FR 41996, July 16, 2015]
+[68 FR 16178, Apr. 3, 2003, as amended at 80 FR 41996, July 16, 2015; 84 FR 45887, Sept. 3, 2019]

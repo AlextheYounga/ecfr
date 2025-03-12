@@ -1,7 +1,5 @@
 ##### § 1003.1 Organization, jurisdiction, and powers of the Board of Immigration Appeals. #####
 
-Link to an amendment published at 84 FR 31470, July 2, 2019.
-
 (a)(1) *Organization.* There shall be in the Department of Justice a Board of Immigration Appeals, subject to the general supervision of the Director, Executive Office for Immigration Review (EOIR). The Board members shall be attorneys appointed by the Attorney General to act as the Attorney General's delegates in the cases that come before them. The Board shall consist of 21 members. A vacancy, or the absence or unavailability of a Board member, shall not impair the right of the remaining members to exercise all the powers of the Board. The Board members shall also be known as Appellate Immigration Judges.
 
 (2) *Chairman.* The Attorney General shall designate one of the Board members to serve as Chairman. The Attorney General may designate one or two Vice Chairmen to assist the Chairman in the performance of his duties and to exercise all of the powers and duties of the Chairman in the absence or unavailability of the Chairman. The Chairman of the Board of Immigration Appeals shall also be known as the Chief Appellate Immigration Judge, and a Vice Chairman of the Board of Immigration Appeals shall also be known as a Deputy Chief Appellate Immigration Judge.
@@ -150,13 +148,15 @@ Link to an amendment published at 84 FR 31470, July 2, 2019.
 
 (ii) The need to establish a precedent construing the meaning of laws, regulations, or procedures;
 
-(iii) The need to review a decision by an immigration judge or the Service that is not in conformity with the law or with applicable precedents;
+(iii) The need to review a decision by an immigration judge or DHS that is not in conformity with the law or with applicable precedents;
 
 (iv) The need to resolve a case or controversy of major national import;
 
-(v) The need to review a clearly erroneous factual determination by an immigration judge; or
+(v) The need to review a clearly erroneous factual determination by an immigration judge;
 
-(vi) The need to reverse the decision of an immigration judge or the Service, other than a reversal under § 1003.1(e)(5).
+(vi) The need to reverse the decision of an immigration judge or DHS, other than a reversal under § 1003.1(e)(5); or
+
+(vii) The need to resolve a complex, novel, unusual, or recurring issue of law or fact.
 
 (7) *Oral argument.* When an appeal has been taken, a request for oral argument if desired shall be included in the Notice of Appeal. A three-member panel or the Board *en banc* may hear oral argument, as a matter of discretion, at such date and time as is established under the Board's case management plan. Oral argument shall be held at the offices of the Board unless the Deputy Attorney General or his designee authorizes oral argument to be held elsewhere. The Service may be represented before the Board by an officer of the Service designated by the Service. No oral argument will be allowed in a case that is assigned for disposition by a single Board member.
 
@@ -174,9 +174,27 @@ Link to an amendment published at 84 FR 31470, July 2, 2019.
 
 (vi) The provisions of this paragraph (e)(8) establishing time limits for the adjudication of appeals reflect an internal management directive in favor of timely dispositions, but do not affect the validity of any decision issued by the Board and do not, and shall not be interpreted to, create any substantive or procedural rights enforceable before any immigration judge or the Board, or in any court of law or equity.
 
+(9) The provisions of paragraphs (e)(4)(i) and (e)(5) and (6) of this section are internal agency directives for the purpose of efficient management and disposition of cases pending before the Board and are not intended to create any substantive or procedural rights to a particular form of Board decision. A decision by the Board under paragraph (e)(4), (5), or (6) of this section carries the presumption that the Board properly and thoroughly considered all issues, arguments, and claims raised or presented by the parties on appeal or in a motion that were deemed appropriate to the disposition of the appeal or motion, whether or not specifically mentioned in the decision. A decision by the Board under paragraph (e)(4), (5), or (6) also carries the presumption that the Board did not need to consider any issue, argument, or claim not raised or presented by the parties on appeal or in a motion to the Board. In any decision under paragraph (e)(5) or (6) of this section, the Board may rule, in the exercise of its discretion as provided under this part, on any issue, argument, or claim not raised by the parties, and the Board may solicit supplemental briefing from the parties on the issues to be considered before rendering a decision.
+
 (f) *Service of Board decisions.* The decision of the Board shall be in writing and copies thereof shall be transmitted by the Board to the Service and a copy shall be served upon the alien or party affected as provided in part 292 of this chapter.
 
-(g) *Decisions as precedents.* Except as Board decisions may be modified or overruled by the Board or the Attorney General, decisions of the Board, and decisions of the Attorney General, shall be binding on all officers and employees of the Department of Homeland Security or immigration judges in the administration of the immigration laws of the United States. By majority vote of the permanent Board members, selected decisions of the Board rendered by a three-member panel or by the Board en banc may be designated to serve as precedents in all proceedings involving the same issue or issues. Selected decisions designated by the Board, decisions of the Attorney General, and decisions of the Secretary of Homeland Security to the extent authorized in paragraph (i) of this section, shall serve as precedents in all proceedings involving the same issue or issues.
+(g) *Decisions as precedents* - (1) *In general*. Except as Board decisions may be modified or overruled by the Board or the Attorney General, decisions of the Board and decisions of the Attorney General are binding on all officers and employees of DHS or immigration judges in the administration of the immigration laws of the United States.
+
+(2) *Precedent decisions.* Selected decisions designated by the Board, decisions of the Attorney General, and decisions of the Secretary of Homeland Security as provided in paragraph (h)(2)(i) of this section will be published and serve as precedents in all proceedings involving the same issue or issues.
+
+(3) *Designation of precedents.* By majority vote of the permanent Board members, or as directed by the Attorney General or his designee, selected decisions of the Board issued by a three-member panel or by the Board *en banc* may be designated to be published and to serve as precedents in all proceedings involving the same issue or issues. In determining whether to publish a precedent decision, the Board may take into account relevant considerations, in the exercise of discretion, including among other matters:
+
+(i) Whether the case involves a substantial issue of first impression;
+
+(ii) Whether the case involves a legal, factual, procedural, or discretionary issue that can be expected to arise frequently in immigration cases;
+
+(iii) Whether the issuance of a precedent decision is needed because the decision announces a new rule of law, or modifies, clarifies, or distinguishes a rule of law or prior precedent;
+
+(iv) Whether the case involves a conflict in decisions by immigration judges, the Board, or the federal courts;
+
+(v) Whether there is a need to achieve, maintain, or restore national uniformity of interpretation of issues under the immigration laws or regulations; and
+
+(vi) Whether the case warrants publication in light of other factors that give it general public interest.
 
 (h) *Referral of cases to the Attorney General.* (1) The Board shall refer to the Attorney General for review of its decision all cases that:
 

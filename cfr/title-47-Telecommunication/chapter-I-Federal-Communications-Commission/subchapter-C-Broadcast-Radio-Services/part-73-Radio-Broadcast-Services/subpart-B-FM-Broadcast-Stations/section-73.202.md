@@ -1,7 +1,5 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 84 FR 43526, Aug. 21, 2019.
-
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 
 (1) Channels designated with an asterisk may be used only by noncommercial educational broadcast stations. The rules governing the use of those channels are contained in part 73, subpart C of this chapter. An entity that would be eligible to operate a noncommercial educational broadcast station can, in conjunction with an initial petition for rulemaking filed pursuant to part 1, subpart C of this chapter, request that a nonreserved FM channel (channels 221 through 300) be allotted as reserved only for noncommercial educational broadcasting by demonstrating the following:
@@ -18,11 +16,18 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 
 (b) *Table of FM Allotments.*
 
+Table 1 to Paragraph (b)
+
 |                    |       Channel No.       |
 |--------------------|-------------------------|
 |      ALABAMA       |                         |
+|       Camden       |          230A           |
+|    Maplesville     |          292A           |
+|     Thomaston      |          280C3          |
 |      Waverly       |          262A           |
 |       ALASKA       |                         |
+|      Kotzebue      |          280A           |
+|      Yakutat       |          280A           |
 |      ARIZONA       |                         |
 |       Bagdad       |          269C3          |
 |    Desert Hills    |          292A           |
@@ -36,6 +41,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |        Pima        |         \*296A          |
 |     Quartzsite     |          275C3          |
 |     Rough Rock     |          258C2          |
+|       Salome       |          231A           |
 |       Sells        |          285A           |
 |     Snowflake      |          259C2          |
 |      Somerton      |         \*260C3         |
@@ -51,12 +57,16 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |      Alturas       |          277C           |
 |      Barstow       |          267A           |
 |     Boonville      |          300A           |
+|      Cartago       |          233A           |
 |     Cedarville     |          238A           |
+|      Coalinga      |          247B1          |
 |     Cottonwood     |          221A           |
+|     Earlimart      |          228A           |
 |       Essex        |          280B           |
 |     Ft. Bragg      |          253B1          |
 |       Hemet        |         \*273A          |
 |   Lake Isabella    |          239A           |
+|       Ludlow       |          261B1          |
 |      Portola       |          258A           |
 |     Randsburg      |          275A           |
 |    Shasta Lake     |          224A           |
@@ -67,6 +77,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |       Akron        |          279C1          |
 |  Battlement Mesa   |          275C3          |
 |      Dinosaur      |          262C1          |
+|      Dotsero       |          261A           |
 |     Dove Creek     |          229C3          |
 |       Eckley       |          257C1          |
 |        Hugo        |          222A           |
@@ -79,10 +90,12 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |DISTRICT OF COLUMBIA|                         |
 |      FLORIDA       |                         |
 |     Cross City     |          249C3          |
+| Fort Walton Beach  |          295A           |
 |  Horseshoe Beach   |         \*234C3         |
 |    Otter Creek     |         \*240A          |
 |      GEORGIA       |                         |
 |     Maysville      |          265A           |
+|      Pembroke      |          257C1          |
 |       Plains       |          290A           |
 |      Tignall       |          287A           |
 |       HAWAII       |                         |
@@ -100,7 +113,9 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |    Terre Haute     |         \*298B          |
 |        IOWA        |                         |
 |       Asbury       |         \*238A          |
+|     Dunkerton      |          280A           |
 |     Keosauqua      |         \*271C3         |
+|      Rockford      |          225A           |
 |        Rudd        |         \*268A          |
 |       KANSAS       |                         |
 |   Council Grove    |         \*281C3         |
@@ -113,6 +128,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |   Golden Meadow    |         \*289C2         |
 |    Haynesville     |          286A           |
 |      Hornbeck      |          269A           |
+|      Oil City      |          285A           |
 |      Rosepine      |          281A           |
 |       Wisner       |          300C3          |
 |       MAINE        |                         |
@@ -121,11 +137,13 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |   MASSACHUSETTS    |                         |
 |    West Tisbury    |         \*282A          |
 |      MICHIGAN      |                         |
+|       Carney       |          260A           |
 |       Custer       |          260A           |
 |      Houghton      |          242C1          |
 |   Lake Isabella    |          255A           |
 |     Lexington      |         \*256A          |
 |      Onekama       |          227C3          |
+|       Pigeon       |          267A           |
 |     MINNESOTA      |                         |
 |      Baudette      |          233C1          |
 |    Grand Marais    |          245C3          |
@@ -135,7 +153,10 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |       Bruce        |          233A           |
 |     Cleveland      |          226C2          |
 |        Drew        |          237A           |
+|       McLain       |          245A           |
 |    Mound Bayou     |          270A           |
+|     New Albany     |          268A           |
+|    New Augusta     |          269A           |
 |       Summit       |          228A           |
 |      MISSOURI      |                         |
 |      Bourbon       |          231A           |
@@ -147,20 +168,25 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |      Bozeman       |         \*240C3         |
 |      Cut Bank      |          265C2          |
 |        Lima        |          265C2          |
+|       Valler       |          289C1          |
 |      NEBRASKA      |                         |
 |       Bayard       |          251A           |
 |       NEVADA       |                         |
 |       Owyhee       |          247C3          |
 |   Silver Springs   |          273C           |
+|      Tonopah       |          224A           |
 |   NEW HAMPSHIRE    |                         |
 |      Enfield       |          282A           |
 |      Groveton      |          268A           |
 |     Jefferson      |          247A           |
+|     Stratford      |          254A           |
 |     NEW JERSEY     |                         |
 |     NEW MEXICO     |                         |
 |       Animas       |          279C1          |
+|       Chama        |          241C3          |
 |     Crownpoint     |          †297A          |
 |     Des Moines     |          287C           |
+|     Lovington      |          269C3          |
 |      Roswell       |          237C0          |
 |   Skyline-Ganipa   |          240A           |
 |      Tohatchi      |          268C2          |
@@ -168,6 +194,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |      NEW YORK      |                         |
 |      Amherst       |         \*221A          |
 |     Keeseville     |          231A           |
+|  Livingston Manor  |          296A           |
 |    Narrowsburg     |          275A           |
 |     Rhinebeck      |         \*273A          |
 |     Rosendale      |          255A           |
@@ -177,6 +204,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |   NORTH CAROLINA   |                         |
 |     Dillsboro      |         \*237A          |
 |    NORTH DAKOTA    |                         |
+|       Gackle       |          256C1          |
 |       Medina       |          222C1          |
 |       Sarles       |          290C1          |
 |        OHIO        |                         |
@@ -234,7 +262,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |       Bruni        |          293A           |
 |      Canadian      |          235C1          |
 |       Carbon       |          238A           |
-|  Carrizo Springs   |          295A           |
+|  Carrizo Springs   |       228A, 295A        |
 |    Centerville     |          274A           |
 |     Christine      |          245C3          |
 |      Cotulla       |       264A, 289A        |
@@ -256,7 +284,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |    George West     |          292A           |
 |     Goldwaithe     |          297A           |
 |       Goree        |          277A           |
-|       Groom        |          223A           |
+|       Groom        |       223A, 273A        |
 |      Guthrie       |          252A           |
 |    Hale Center     |          236C1          |
 |       Hamlin       |          283C2          |
@@ -329,6 +357,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |     Westbrook      |          272A           |
 |       Zapata       |          292A           |
 |        UTAH        |                         |
+|     Huntington     |          287C3          |
 |      Milford       |          288C           |
 |     Paragonah      |          258A           |
 |    Toquerville     |          281C           |
@@ -340,6 +369,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |     WASHINGTON     |                         |
 |     Coupeville     |          266A           |
 |       Dayton       |          272A           |
+|      Kahlotus      |          283A           |
 |     Oak Harbor     |      \*233A, 277A       |
 |      Raymond       |          300A           |
 |     Trout Lake     |          236A           |
@@ -352,6 +382,7 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |    New Holstein    |          258A           |
 |      Tomahawk      |          265C3          |
 |      WYOMING       |                         |
+|       Albin        |          282C3          |
 |       Baggs        |          277A           |
 |      Bairoil       |          235C3          |
 |       Basin        |          299C1          |
@@ -359,10 +390,15 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |       Dubois       |          242A           |
 |      Jackson       |         \*294C2         |
 |        Lusk        |          242A           |
+|      Manville      |          255C1          |
 |     Marbleton      |          257C1          |
+|    Medicine Bow    |          259C3          |
 |     Meeteetse      |          259C           |
 |    Pine Bluffs     |          287A           |
-|     Wheatland      |          286A           |
+|      Rawlins       |          298C2          |
+|       Rozet        |          256C3          |
+|     Wamsutter      |          285A           |
+|     Wheatland      |       286A, 293A        |
 |   AMERICAN SAMOA   |                         |
 |  CENTRAL MARIANAS  |                         |
 |      GARAPAN       |                         |
@@ -371,6 +407,6 @@ The provisions of this paragraph [(a)(2) of this section] become effective [3 ye
 |   VIRGIN ISLANDS   |                         |
 |  Charlotte Amalie  |          237B           |
 
-(Sec. 316, 66 Stat. 717; 47 U.S.C. 316; sec. 5, 48 Stat., as amended, 1068; 47 U.S.C. 154, 155; secs. 2, 3, 4, 301, 303, 307, 308, 309, 315, 317, 48 Stat. as amended, 1064, 1065, 1066, 1081, 1082, 1083, 1084, 1085, 1088, 1089; (47 U.S.C. 152, 153, 301, 303, 307, 308, 309, 315, 317); secs 1, 201-205, 208, 215, 218, 313, 314, 403, 404, 410, 602; 48 Stat. as amended; 1070, 1071, 1072, 1073, 1076, 1077, 1087, 1094, 1098, 1102 (47 U.S.C. 151, 201-205, 208, 215, 218, 313, 314, 403, 404, 410, 602))[30 FR 12711, Oct. 6, 1965]Editorial Notes:1. For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
+[30 FR 12711, Oct. 6, 1965]Editorial Notes:1. For Federal Register citations affecting § 73.202, see the List of CFR Sections Affected, which appears in the Finding Aids section of the printed volume and at *www.govinfo.gov.*
 
 2. At 77 FR 50053, Aug. 20, 2012, § 73.202(b), the Table of FM Allotments under California, was amended; however, the amendment could not be incorporated due to inaccurate amendatory instruction.

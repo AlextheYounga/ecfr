@@ -1,5 +1,7 @@
 ##### § 21.46 Depredation order for depredating scrub jays and Steller's jays in Washington and Oregon. #####
 
+Link to an amendment published at 84 FR 45924, September 4, 2019.
+
 Landowners, sharecroppers, tenants, or their employees or agents actually engaged in the production of nut crops in Washington and Oregon may, without a permit, take scrub jays (*Aphelocoma coerulescens*) and Steller's jays (*Cyanocitta stelleri*) when found committing or about to commit serious depredations to nut crops on the premises owned or occupied by such persons: *Provided:*
 
 (a) That scrub jays and Steller's jays may only be taken pursuant to this section between August 1 and December 1 in any year, in the Washington counties of Clark, Cowlitz, and Lewis; and the Oregon counties of Benton, Clackamas, Lane, Linn, Marion, Multnomah, Polk, Washington, and Yamhill.

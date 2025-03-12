@@ -17,3 +17,7 @@
 (ii) No credit will be given for disposing of excess tobacco other than that identified by a marketing card unless disposed of in the presence of FSA in accordance with § 718.109 of this part.
 
 (c) If a program participant refuses to furnish reports or data necessary to determine benefits in accordance with paragraph (a) of this section, or FSA determines that the report or data was erroneously provided through the lack of good faith, all program benefits relating to the report or data requested will be denied.
+
+(d) Program participants requesting program benefits as a beginning farmer or rancher, limited resource farmer or rancher, socially disadvantaged farmer or rancher, or veteran farmer or rancher must provide a certification of their status as a member of one of those groups as required by the applicable program provisions.
+
+[68 FR 16172, Apr. 3, 2003, as amended at 84 FR 45886, Sept. 3, 2019]

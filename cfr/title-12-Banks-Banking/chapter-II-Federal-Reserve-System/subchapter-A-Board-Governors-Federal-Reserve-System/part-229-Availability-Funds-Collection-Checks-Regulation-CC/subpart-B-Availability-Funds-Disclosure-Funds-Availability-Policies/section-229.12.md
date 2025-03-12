@@ -24,12 +24,12 @@ Link to an amendment published at 84 FR 31696, July 3, 2019.Link to a correction
 
 (d) *Time period adjustment for withdrawal by cash or similar means.* A depositary bank may extend by one business day the time that funds deposited in an account by one or more checks subject to paragraphs (b), (c), or (f) of this section are available for withdrawal by cash or similar means. Similar means include electronic payment, issuance of a cashier's or teller's check, or certification of a check, or other irrevocable commitment to pay, but do not include the granting of credit to a bank, a Federal Reserve Bank, or a Federal Home Loan Bank that presents a check to the depositary bank for payment. A depositary bank shall, however, make $400 of these funds available for withdrawal by cash or similar means not later than 5:00 p.m. on the business day on which the funds are available under paragraphs (b), (c), or (f) of this section. This $400 is in addition to the $100 available under § 229.10(c)(1)(vii).
 
-(e) *Extension of schedule for certain deposits in Alaska, Hawaii, Puerto Rico, and the U.S. Virgin Islands.* The depositary bank may extend the time periods set forth in this section by one business day in the case of any deposit, other than a deposit described in § 229.10, that is -
+(e) *Extension of schedule for certain deposits in Alaska, Hawaii, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, and the U.S. Virgin Islands.* The depositary bank may extend the time periods set forth in this section by one business day in the case of any deposit, other than a deposit described in § 229.10, that is -
 
-(1) Deposited in an account at a branch of a depositary bank if the branch is located in Alaska, Hawaii, Puerto Rico, or the U.S. Virgin Islands; and
+(1) Deposited in an account at a branch of a depositary bank if the branch is located in Alaska, Hawaii, Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, Guam, or the U.S. Virgin Islands; and
 
 (2) Deposited by a check drawn on or payable at or through a paying bank not located in the same state as the depositary bank.
 
 (f) *Deposits at nonproprietary ATMs.* A depositary bank shall make funds deposited in an account at a nonproprietary ATM by cash or check available for withdrawal not later than the fifth business day following the banking day on which the funds are deposited.
 
-[53 FR 19433, May 27, 1988, as amended by Reg. CC, 55 FR 50818, Dec. 11, 1990; 56 FR 7801, Feb. 26, 1991; 56 FR 66343, Dec. 23, 1991; 57 FR 36601, Aug. 14, 1992; 60 FR 51670, Oct. 3, 1995]
+[53 FR 19433, May 27, 1988, as amended by Reg. CC, 55 FR 50818, Dec. 11, 1990; 56 FR 7801, Feb. 26, 1991; 56 FR 66343, Dec. 23, 1991; 57 FR 36601, Aug. 14, 1992; 60 FR 51670, Oct. 3, 1995; 84 FR 31696, July 3, 2019]

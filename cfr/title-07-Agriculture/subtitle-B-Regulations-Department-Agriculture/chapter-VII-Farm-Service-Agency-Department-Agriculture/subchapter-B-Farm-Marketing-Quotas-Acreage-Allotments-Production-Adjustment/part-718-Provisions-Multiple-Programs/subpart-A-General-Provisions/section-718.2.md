@@ -22,7 +22,7 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 
 *Combination* means consolidation of two or more farms or parts of farms, having the same operator, into one farm.
 
-*Common land unit* means the smallest unit of land that has an identifiable border and all of the following in common:
+*Common land unit* means the smallest unit of land that has an identifiable border located in one physical location (county), as defined in this part, and all of the following in common:
 
 (1) Owner;
 
@@ -154,6 +154,8 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 
 (2) A person whose total household income was at or below the national poverty level for a family of four in each of the same two previous years referenced in paragraph (1) of this definition. (Limited resource farmer or rancher status can be determined using a Web site available through the Limited Resource Farmer and Rancher Online Self Determination Tool through National Resource and Conservation Service at *http://www.lrftool.sc.egov.usda.gov.*)
 
+(3) For legal entities, the sum of gross sales and household income must be considered for all members.
+
 *Measurement service* means a measurement of acreage or farm-stored commodities performed by a representative of FSA and paid for by the producer requesting the measurement.
 
 *Measurement service after planting* means determining a crop or designated acreage after planting but before the farm operator files a report of acreage for the crop.
@@ -193,6 +195,8 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 (2) Exercise separate responsibility for such interest; and
 
 (3) Be responsible for the cost of farming related to such interest from a fund or account separate from that of any other individual or entity.
+
+*Physical location* means the political county and State determined by FSA for identifying a tract or common land unit, as applicable, under this part. FSA will consider all the DCP cropland within an original tract to be in one single physical location county and State based upon 95 percent or more of the tract's DCP cropland. For DCP cropland that FSA determines lies outside the physical location (county) of the original tract that is 10 acres or more and more than 5 percent of the original tract, FSA will divide that land from the original tract and establish a new tract for that area.
 
 *Planted and considered planted (P&CP)* means with respect to an acreage amount, the sum of the planted and prevented planted acres on the farm approved by the FSA county committee for a crop. P&CP is limited to initially planted or prevented planted crop acreage, except for crops planted in an FSA approved double-cropping sequence. Subsequently planted crop acreage and replacement crop acreage are not included as P&CP.
 
@@ -250,7 +254,7 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 
 *Tolerance* means a prescribed amount within which the reported acreage and/or production may differ from the determined acreage and/or production and still be considered as correctly reported.
 
-*Tract* means a unit of contiguous land under one ownership, which is operated as a farm, or part of a farm.
+*Tract* means a unit of contiguous land under one ownership located in one physical location (county), as defined in this part, which is operated as a farm, or part of a farm.
 
 *Tract combination* means the combining of two or more tracts if the tracts have common ownership and are contiguous.
 
@@ -261,6 +265,14 @@ Except as provided in individual parts of chapters VII and XIV of this title, th
 *United States* means all 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico and any other territory or possession of the United States.
 
 *Upland cotton* means planted and stub cotton that is not considered extra long staple cotton, and that follows the standard planting and harvesting practices of the area and is produced from other than pure strain varieties of the Barbadense species, any hybrid thereof, or any other variety of cotton in which one or more of these varieties predominate. For program purposes, brown lint cotton is considered upland cotton.
+
+*Veteran farmer or rancher* means a farmer or rancher who has served in the United States Army, Navy, Marine Corps, Air Force, and Coast Guard, including the reserve components and who:
+
+(1) Has not operated a farm or ranch;
+
+(2) Has operated a farm or ranch for not more than 10 years; or
+
+(3) Is a veteran (as defined as a person who served in the active duty or either active duty for training or inactive duty during which the individual was disabled, and who was discharged or released therefrom under conditions other than dishonorable) who has first obtained status as a veteran during the most recent 10-year period.
 
 *Wheat* means wheat for feed or dual purpose variety that follows the standard planting and harvesting practice of wheat for the area in which the wheat is grown.
 

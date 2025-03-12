@@ -6,29 +6,27 @@
 
 (2) 35 percent of all administrative funds available nationally will be allocated to each FNS Regional Office in proportion to its share of the total current number of State agencies administering the program nationally.
 
-(b) *Allocation of administrative funds to State agencies.* Prior to receiving administrative funds, State agencies must submit a proposed budget reflecting planned administrative costs to the appropriate FNS Regional Office for approval. Planned administrative costs must be allowable under part 277 of this chapter. To the extent that funding levels permit, the FNS Regional Office allocates to each State agency administrative funds necessary to cover 75 percent of approved administrative costs.
+(b) *Allocation of administrative funds to State agencies.* Prior to receiving administrative funds, State agencies must submit a proposed budget reflecting planned administrative costs to the appropriate FNS Regional Office for approval. Planned administrative costs must be allowable under part 277 of this chapter. To the extent that funding levels permit, the FNS Regional Office allocates to each State agency administrative funds necessary to cover no less than 80 percent of approved administrative costs.
 
 (c) *State agency matching requirement.* State agencies must match administrative funds allocated to them as follows:
 
-(1) Unless Federal administrative funding is approved at a rate higher than 75 percent of approved administrative costs, in accordance with paragraph (c)(2) of this section, each State agency must contribute 25 percent of its total approved administrative costs. Cash or non-cash contributions, including third party in-kind contributions, and the value of services rendered by volunteers, may be used to meet the State agency matching requirement. In accordance with part 277 of this chapter, such contributions must:
+(1) Unless Federal administrative funding is approved at a rate higher than 80 percent of approved administrative costs, in accordance with paragraph (c)(3) of this section, each State agency must contribute 20 percent of its total approved administrative costs. Cash or non-cash contributions, including third party in-kind contributions, and the value of services rendered by volunteers, may be used to meet the State agency matching requirement. Funds provided from another Federal source may be used to meet the State agency matching requirement, provided that such use is consistent with the purpose of those funds and complies with this subsection. To use funds from another Federal source, the State agency must submit documentation for approval to the FNS Regional Office which shows the source, value, and purpose of those funds. In accordance with part 277 of this chapter, such contributions must:
 
 (i) Be verifiable;
 
-(ii) Not be contributed for another federally-assisted program, unless authorized by Federal legislation;
+(ii) Be necessary and reasonable to accomplish program objectives;
 
-(iii) Be necessary and reasonable to accomplish program objectives;
+(iii) Be allowable under part 277 of this chapter; and
 
-(iv) Be allowable under part 277 of this chapter;
+(iv) Be included in the approved budget.
 
-(v) Not be paid by the Federal Government under another assistance agreement unless authorized under the other agreement and its subject laws and regulations; and
+(2) Upon request from a State agency, an FNS Regional Office may approve a waiver reducing a State agency's matching requirement below 20 percent. To request a waiver, the State agency must submit compelling justification for the waiver to the appropriate FNS Regional Office. Compelling justification is based on either financial inability to meet the match requirement or the match requirement imposing a substantial burden. The request for the match waiver must be submitted with the following and in accordance with other FNS instructions:
 
-(vi) Be included in the approved budget.
+(i) For a waiver based on financial inability, a summary statement and recent financial documents showing that the State agency is unable to meet the 20 percent matching requirement and that additional administrative funds are necessary for the effective operation of the program; or
 
-(2) The State agency may request a waiver to reduce its matching requirement below 25 percent of approved administrative costs. In its proposed budget, the State agency must submit compelling justification to the appropriate FNS Regional Office that it is unable to meet the 25 percent matching requirement and that additional administrative funds are necessary for the effective operation of the program. The FNS Regional Office may, at its discretion, approve a reduction of the matching requirement and provide additional administrative funds to cover more than 75 percent of approved administrative costs to a State agency that provides compelling justification. In its compelling justification submission, the State agency must include a summary statement and recent financial documents, in accordance with FNS instructions. Compelling justification may include but is not limited to:
+(ii) For a waiver based on substantial burden, a signed letter from the leadership of the State agency or, in the case of an Indian Tribal Organization, from the Tribal Council, describing why meeting the 20 percent matching requirement would impose a substantial burden on the State agency, and why additional administrative funds are necessary for the effective operation of the program, along with supporting documentation, as needed.
 
-(i) The need for additional administrative funding for startup costs during the first year of program operation; or
-
-(ii) The need to prevent a reduction in the level of necessary and reasonable program services provided.
+(3) The FNS Regional Office may not reduce any benefits or services to State agencies that are granted a waiver.
 
 (d) *Use of funds by State agencies.* Any funds received under this section shall be used only for costs that are allowable under part 277 of this chapter, and that are incurred in operating the food distribution program. Such funds may not be used to pay costs that are, or may be, paid with funds provided from other Federal sources.
 
@@ -76,4 +74,4 @@
 
 (3) The appropriate provisions of part 277 are adaptable to this section for additional guidance.
 
-(Approved by the Office of Management and Budget under control number 0584-0071)(44 U.S.C. 3506)[44 FR 35928, June 19, 1979, as amended at 47 FR 746, Jan. 7, 1982. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982, as amended at 62 FR 53731, Oct. 16, 1997. Redesignated at 64 FR 73385, Dec. 30, 1999, as amended at 77 FR 50907, Aug. 23, 2012; 81 FR 66498, Sept. 28, 2016]
+(Approved by the Office of Management and Budget under control number 0584-0071)(44 U.S.C. 3506)[44 FR 35928, June 19, 1979, as amended at 47 FR 746, Jan. 7, 1982. Redesignated and amended by Amdt. 1, 47 FR 14137, Apr. 2, 1982, as amended at 62 FR 53731, Oct. 16, 1997. Redesignated at 64 FR 73385, Dec. 30, 1999, as amended at 77 FR 50907, Aug. 23, 2012; 81 FR 66498, Sept. 28, 2016; 84 FR 45877, Sept. 3, 2019]

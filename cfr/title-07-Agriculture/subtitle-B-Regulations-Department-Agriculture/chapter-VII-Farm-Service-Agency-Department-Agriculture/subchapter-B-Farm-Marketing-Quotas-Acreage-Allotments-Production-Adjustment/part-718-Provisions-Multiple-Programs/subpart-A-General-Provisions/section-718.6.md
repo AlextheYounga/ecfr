@@ -10,13 +10,13 @@
 
 (1) Planting, cultivating, growing, producing, harvesting, or storing a controlled substance in any crop year is ineligible during the crop year of conviction and the four succeeding crop years, for any of the following USDA benefits:
 
-(i) Any payments or benefits under the Direct and Counter Cyclical Program (DCP) in accordance with part 1412 of this title;
+(i) Any payments or benefits under part 1412 of this title;
 
-(ii) Any payments or benefits for losses to trees, crops, or livestock covered under disaster programs administered by FSA;
+(ii) Any payments or benefits for losses to crops or livestock covered under disaster programs administered by FSA;
 
 (iii) Any price support loan available in accordance with part 1421 of this title;
 
-(iv) Any price support or payment made under the Commodity Credit Corporation Charter Act;
+(iv) Any price support made under the Commodity Credit Corporation Charter Act;
 
 (v) A farm storage facility loan made under section 4(h) of the Commodity Credit Corporation Charter Act or any other Act;
 
@@ -32,4 +32,4 @@
 
 (c) If a person denied benefits under this section is a shareholder, beneficiary, or member of an entity or joint operation, benefits for which the entity or joint operation is eligible will be reduced, for the appropriate period, by a percentage equal to the total interest of the shareholder, beneficiary, or member.
 
-[72 FR 63284, Nov. 8, 2007]
+[72 FR 63284, Nov. 8, 2007, as amended at 84 FR 45886, Sept. 3, 2019]

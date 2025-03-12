@@ -1,0 +1,3 @@
+##### § 147.1 Purpose. #####
+
+The purpose of this part is to implement section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d), which requires that when Federal departments and agencies develop, procure, maintain, or use information and communication technology, they shall ensure that the information and communication technology is accessible to individuals with disabilities who are Federal employees, applicants for employment, or members of the public.

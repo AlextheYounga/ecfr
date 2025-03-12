@@ -10,9 +10,9 @@
 
 (4) Any other acreage on the farm enrolled in a Federal conservation program for which payments are made in exchange for not producing an agricultural commodity on the acreage.
 
-(b) The Deputy Administrator will give the owner of the farm the opportunity to select the base acres against which any reduction required in this section will be made. Absent the owner selecting the base acres for reduction, CCC will apply a pro-rata reduction against the base acres before computing and issuing any payments for the program year when a reduction becomes necessary.
+(b) The Deputy Administrator will give the owner of the farm the opportunity to select the base acres against which any reduction required in this section will be made. Absent the owner selecting the base acres for reduction, FSA will apply a pro-rata reduction against the base acres before computing and issuing any payments for the program year when a reduction becomes necessary.
 
-(c) In applying paragraph (a) of this section, CCC will take into account the practice of double cropping on a farm, as determined by CCC.
+(c) In applying paragraph (a) of this section, FSA will take into account the practice of double cropping on a farm, as determined by FSA.
 
 (d) For base acre reductions:
 
@@ -29,4 +29,4 @@ will be allowed when all owners of the farm execute and submit a written request
 
 (2) A properly constituted or reconstituted farm contains sufficient land that has not yet been subdivided and developed for multiple residential units or other nonfarming uses, and the producers on the farm demonstrate that the land remains devoted to commercial agricultural production or is likely to be returned to the previous agricultural use.
 
-[79 FR 46339, Aug. 8, 2014, as amended at 83 FR 40657, Aug. 16, 2018]
+[79 FR 46339, Aug. 8, 2014, as amended at 83 FR 40657, Aug. 16, 2018; 84 FR 45889, Sept. 3, 2019]
