@@ -1,0 +1,3 @@
+##### § 205.381 Applicability of emergency orders. #####
+
+An order for emergency measures under section 215A(b) of the Federal Power Act (emergency order) may apply to the Electric Reliability Organization, a regional entity or entities, or any owner, user, or operator of critical electric infrastructure or of defense critical electric infrastructure within the United States. Emergency measures may be issued if deemed necessary in the judgment of the Secretary to protect or restore the reliability of critical electric infrastructure or of defense critical electric infrastructure during a presidentially-declared grid security emergency.

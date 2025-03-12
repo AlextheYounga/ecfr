@@ -1,0 +1,3 @@
+##### § 205.326 Filing procedures and fees. #####
+
+Applications shall be forwarded to the Office of Utility Systems of the Economic Regulatory Administration and shall be accompanied by a filing fee of $150. The application fee will be charged irrespective of the ERA's disposition of the application. Fee payment shall be by check, draft, or money order payable to the Treasurer of the United States. Copies of applications shall be furnished to the Federal Energy Regulatory Commission and all affected State public utility regulatory agencies.

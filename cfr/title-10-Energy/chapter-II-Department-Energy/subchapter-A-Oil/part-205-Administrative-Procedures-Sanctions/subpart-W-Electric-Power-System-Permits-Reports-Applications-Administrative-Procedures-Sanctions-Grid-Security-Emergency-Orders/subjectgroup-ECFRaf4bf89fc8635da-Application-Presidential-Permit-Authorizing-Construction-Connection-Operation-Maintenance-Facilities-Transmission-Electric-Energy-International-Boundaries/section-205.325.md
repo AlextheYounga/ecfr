@@ -1,0 +1,3 @@
+##### § 205.325 Annual report. #####
+
+Persons receiving permits to construct, connect, operate or maintain electric transmission facilities at international boundaries shall submit to the ERA, by February 15 each year, a report covering each month of the preceding calendar year, detailing by category the gross amount of kilowatt-hours of energy received or delivered and the cost and revenue associated with each category.

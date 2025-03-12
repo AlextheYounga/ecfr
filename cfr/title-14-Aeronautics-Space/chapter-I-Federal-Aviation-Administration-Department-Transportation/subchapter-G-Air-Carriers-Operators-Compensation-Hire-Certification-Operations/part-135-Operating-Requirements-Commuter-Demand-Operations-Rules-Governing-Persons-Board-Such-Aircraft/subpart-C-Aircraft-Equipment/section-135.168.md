@@ -1,22 +1,22 @@
 ##### § 135.168 Emergency equipment: Overwater rotorcraft operations. #####
 
-(a) *Definitions.* For the purposes of this section, the following definitions apply -
+(a) *Definitions.* For the purposes of this section, the following definitions apply—
 
 *Autorotational distance* refers to the distance a rotorcraft can travel in autorotation as described by the manufacturer in the approved Rotorcraft Flight Manual.
 
 *Shoreline* means that area of the land adjacent to the water of an ocean, sea, lake, pond, river, or tidal basin that is above the high-water mark at which a rotorcraft could be landed safely. This does not include land areas which are unsuitable for landing such as vertical cliffs or land intermittently under water.
 
-(b) *Required equipment.* After April 24, 2017, except as provided for in paragraph (c), when authorized by the certificate holder's operations specifications, or when necessary only for takeoff or landing, no person may operate a rotorcraft beyond autorotational distance from the shoreline unless it carries:
+(b) *Required equipment.* Except when authorized by the certificate holder's operations specifications, or when necessary only for takeoff or landing, no person may operate a rotorcraft beyond autorotational distance from the shoreline unless it carries:
 
 (1) An approved life preserver equipped with an approved survivor locator light for each occupant of the rotorcraft. The life preserver must be worn by each occupant while the rotorcraft is beyond autorotational distance from the shoreline, except for a patient transported during a helicopter air ambulance operation, as defined in § 135.601(b)(1), when wearing a life preserver would be inadvisable for medical reasons; and
 
-(2) An approved and installed 406 MHz emergency locator transmitter (ELT) with 121.5 MHz homing capability. Batteries used in ELTs must be maintained in accordance with the following -
+(2) An approved and installed 406 MHz emergency locator transmitter (ELT) with 121.5 MHz homing capability. Batteries used in ELTs must be maintained in accordance with the following—
 
 (i) Non-rechargeable batteries must be replaced when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful lives have expired, as established by the transmitter manufacturer under its approval. The new expiration date for replacing the batteries must be legibly marked on the outside of the transmitter. The battery useful life requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals; or
 
 (ii) Rechargeable batteries used in the transmitter must be recharged when the transmitter has been in use for more than 1 cumulative hour or when 50% of their useful-life-of-charge has expired, as established by the transmitter manufacturer under its approval. The new expiration date for recharging the batteries must be legibly marked on the outside of the transmitter. The battery useful-life-of-charge requirements of this paragraph (b)(2) do not apply to batteries (such as water-activated batteries) that are essentially unaffected during probable storage intervals.
 
-(c) *Maintenance.* The equipment required by this section must be maintained in accordance with § 135.419.
+(c) [Reserved]
 
 (d) *ELT standards.* The ELT required by paragraph (b)(2) of this section must meet the requirements in:
 
@@ -42,4 +42,4 @@
 
 (ii) RTCA DO-204A, Minimum Operational Performance Standards (MOPS) 406 MHz Emergency Locator Transmitters (ELT), Dec. 6, 2007.
 
-[Doc. No. FAA-2010-0982, 79 FR 9973, Feb. 21, 2014]
+[Doc. No. FAA-2010-0982, 79 FR 9973, Feb. 21, 2014, as amended by Amdt. 135-138, 83 FR 1189, Jan. 10, 2018]

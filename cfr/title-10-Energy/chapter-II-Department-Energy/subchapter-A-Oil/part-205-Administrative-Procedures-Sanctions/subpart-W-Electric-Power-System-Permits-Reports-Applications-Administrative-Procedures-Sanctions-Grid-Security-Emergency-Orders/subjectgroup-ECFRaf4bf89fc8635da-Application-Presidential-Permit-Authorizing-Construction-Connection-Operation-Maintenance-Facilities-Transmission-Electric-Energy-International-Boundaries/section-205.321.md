@@ -1,0 +1,3 @@
+##### § 205.321 Time of filing. #####
+
+Pursuant to the DOE's responsibility under the National Environmental Policy Act, the DOE must make an environmental determination of the proposed action. If, as a result of this determination, an environmental impact statement (EIS) must be prepared, the permit processing time normally will be 18-24 months. If no environmental impact statement is required, then a six-month processing time normally would be sufficient.
