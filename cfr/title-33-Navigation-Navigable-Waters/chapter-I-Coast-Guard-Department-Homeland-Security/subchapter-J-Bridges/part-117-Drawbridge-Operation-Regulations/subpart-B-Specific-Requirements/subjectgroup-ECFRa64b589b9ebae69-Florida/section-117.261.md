@@ -1,7 +1,5 @@
 ##### § 117.261 Atlantic Intracoastal Waterway from St. Marys River to Key Largo. #####
 
-Link to an amendment published at 82 FR 18992, Apr. 25, 2017.
-
 (a) *General.* Public vessels of the United States and tugs with tows must be passed through the drawspan of each drawbridge listed in this section at anytime.
 
 (b) *McCormick Bridge, mile 747.5 at Jacksonville Beach.* The draw shall open on signal; except that during April, May, October and November from 7 a.m. to 9 a.m. and 4:30 p.m. to 6:30 p.m. Monday through Friday except Federal holidays, the draw need open only on the hour and half hour. During April, May, October and November from 12 noon to 6 p.m. Saturdays, Sundays and Federal holidays, the draw need open only on the hour and half hour.
@@ -97,6 +95,8 @@ Link to an amendment published at 82 FR 18992, Apr. 25, 2017.
 (ll) *N.E. 163rd Street (SR826) bridge, mile 1078.0 at Sunny Isles.* The draw shall open on signal; except that, from 7 a.m. to 6 p.m. on Monday through Friday except Federal holidays, and from 10 a.m. to 6 p.m. on Saturdays, Sundays, and Federal holidays, the draw need open only on the quarter-hour and three-quarter hour.
 
 (mm) *Broad Causeway bridge, mile 1081.4 at Bay Harbor Islands.* The draw shall open on signal; except that, from 8 a.m. to 6 p.m., the draw need open only on the quarter-hour and three-quarter hour.
+
+(mm-1) West 79th Street Bridge. The draw of the West 79th Street Bridge, at Miami, Florida will open on signal, except that from 7 a.m. to 7 p.m. Monday through Friday, except Federal holidays, the draw need only open on the hour and half hour.
 
 (nn) The Venetian Causeway Bridge (West), mile 1088.6, shall open on signal, except that from 7 a.m. to 7 p.m., Monday through Friday, except Federal holidays, the bridge need only open on the hour and half-hour.
 
