@@ -1,5 +1,7 @@
 ##### 552.211-90 Small parts. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(9), insert the following clause:
 
 Small Parts (JAN 2010)

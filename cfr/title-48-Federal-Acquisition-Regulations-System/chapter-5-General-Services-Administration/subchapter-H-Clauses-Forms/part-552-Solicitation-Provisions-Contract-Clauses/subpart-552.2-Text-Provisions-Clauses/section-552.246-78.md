@@ -1,5 +1,7 @@
 ##### 552.246-78 Inspection at Destination. #####
 
+Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
+
 As prescribed in 546.302-72 insert the following clause:
 
 Inspection at Destination (JUL 09)

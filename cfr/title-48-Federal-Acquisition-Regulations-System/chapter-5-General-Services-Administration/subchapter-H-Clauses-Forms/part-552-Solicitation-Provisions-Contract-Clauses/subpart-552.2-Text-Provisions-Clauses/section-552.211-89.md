@@ -1,5 +1,7 @@
 ##### 552.211-89 Non-manufactured wood packaging material for export. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(8), insert the following clause:
 
 Non-Manufactured Wood Packaging Material for Export (JUL 2016)

@@ -1,5 +1,7 @@
 ##### 552.246-77 Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 546.710(a), insert the following clause in solicitations and contracts that include FAR 52.246-17, Warranty of Supplies of a Noncomplex Nature.
 
 Additional Contract Warranty Provisions for Supplies of a Noncomplex Nature (JUL 09)

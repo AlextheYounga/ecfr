@@ -1,5 +1,7 @@
 ##### 552.211-70 Substantial Completion. #####
 
+Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+
 As prescribed in 511.404, insert the following clause:
 
 Substantial Completion (MAR 2019)

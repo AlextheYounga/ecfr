@@ -1,5 +1,7 @@
 ##### 552.232-39 Unenforceability of Unauthorized Obligations (FAR DEVIATION). #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 513.302-5 and 532.706-3, insert the following clause:
 
 Unenforceability of Unauthorized Obligations. (FAR DEVIATION) (FEB. 2018)

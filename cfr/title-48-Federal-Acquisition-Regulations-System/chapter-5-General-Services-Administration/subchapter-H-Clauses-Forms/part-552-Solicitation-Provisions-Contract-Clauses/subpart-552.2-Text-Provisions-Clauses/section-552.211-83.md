@@ -1,5 +1,7 @@
 ##### 552.211-83 Availability for Inspection, Testing, and Shipment/Delivery. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.404(c), insert the following clause:
 
 Availability for Inspection, Testing, and Shipment/Delivery (FEB 1996)

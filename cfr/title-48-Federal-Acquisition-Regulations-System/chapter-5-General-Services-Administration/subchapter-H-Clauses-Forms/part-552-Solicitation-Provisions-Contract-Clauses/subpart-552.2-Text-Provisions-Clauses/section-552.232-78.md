@@ -1,5 +1,7 @@
 ##### 552.232-78 Commercial Supplier Agreements - Unenforceable Clauses. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 513.302-5 and 532.706-3 insert the following clause:
 
 Commercial Supplier Agreements-Unenforceable Clauses (FEB. 2018)

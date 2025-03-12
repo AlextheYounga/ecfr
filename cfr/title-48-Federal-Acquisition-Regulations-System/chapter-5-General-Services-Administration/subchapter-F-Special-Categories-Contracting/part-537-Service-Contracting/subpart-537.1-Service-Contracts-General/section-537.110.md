@@ -1,5 +1,7 @@
 ##### 537.110 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
+
 The following provision and clauses apply to contracts for building services:
 
 (a) If the contract is expected to exceed the simplified acquisition threshold and it is not initiated with AbilityOne under the Javits-Wagner-O'Day Act insert 552.237-71, Qualifications of Employees, in the solicitation and contract. If needed, use supplemental provisions or clauses to describe specific requirements for employees performing work on the contract.

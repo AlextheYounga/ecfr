@@ -1,5 +1,7 @@
 ##### 552.211-81 Time of Shipment. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.404(b), insert the following clause:
 
 Time of Shipment (FEB 1996)

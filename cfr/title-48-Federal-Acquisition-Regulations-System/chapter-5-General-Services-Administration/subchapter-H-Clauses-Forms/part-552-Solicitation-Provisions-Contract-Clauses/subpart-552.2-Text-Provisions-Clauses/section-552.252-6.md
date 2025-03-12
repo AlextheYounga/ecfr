@@ -1,5 +1,7 @@
 ##### 552.252-6 Authorized Deviations in Clauses. #####
 
+Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
+
 As prescribed in 552.107-70(b), insert the following clause:
 
 Authorized Deviations in Clauses (Deviation FAR 52.252-6) (SEP 1999)

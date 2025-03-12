@@ -1,5 +1,7 @@
 ##### 552.211-91 Vehicle decals, stickers, and data plates. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(10), insert the following clause:
 
 Vehicle Decals, Stickers, and Data Plates (JAN 2010)

@@ -1,5 +1,7 @@
 ##### 552.216-75 Transactional Data Reporting. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 516.506(c), insert the following provision:
 
 Transactional Data Reporting (JUN 2016)

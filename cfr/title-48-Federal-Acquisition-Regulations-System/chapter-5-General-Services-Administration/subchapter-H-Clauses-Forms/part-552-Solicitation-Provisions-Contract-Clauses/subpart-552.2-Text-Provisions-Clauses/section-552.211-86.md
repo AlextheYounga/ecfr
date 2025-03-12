@@ -1,5 +1,7 @@
 ##### 552.211-86 Maximum weight per shipping container. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(5), insert the following clause:
 
 Maximum Weight per Shipping Container (JAN 2010)

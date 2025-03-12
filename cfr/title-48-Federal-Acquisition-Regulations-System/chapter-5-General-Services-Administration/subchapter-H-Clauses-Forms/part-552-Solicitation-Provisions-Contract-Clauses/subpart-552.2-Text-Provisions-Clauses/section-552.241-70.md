@@ -1,5 +1,7 @@
 ##### 552.241-70 Availability of Funds for the Next Fiscal Year or Quarter. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 541.501, insert the clause 552.241-70, Availability of Funds for the Next Fiscal Year or Quarter, instead of FAR 52.232-19, in all utility acquisitions.
 
 Availability of Funds for the Next Fiscal Year or Quarter (AUG 2010)

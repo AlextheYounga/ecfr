@@ -1,5 +1,7 @@
 ##### 552.242-70 Status Report of Orders and Shipments. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 542.1107, insert the following clause:
 
 Status Report of Orders and Shipments (FEB 9, 2009)

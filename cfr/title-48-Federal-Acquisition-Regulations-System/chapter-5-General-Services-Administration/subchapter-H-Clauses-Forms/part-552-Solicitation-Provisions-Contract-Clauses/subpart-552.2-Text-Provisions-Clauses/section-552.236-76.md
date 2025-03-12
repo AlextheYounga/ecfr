@@ -1,5 +1,7 @@
 ##### 552.236-76 Basis of Award - Sealed Bidding Construction #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 536.270-5(c), insert the following provision:
 
 Basis of Award - Sealed Bidding Construction (MAR 2019)

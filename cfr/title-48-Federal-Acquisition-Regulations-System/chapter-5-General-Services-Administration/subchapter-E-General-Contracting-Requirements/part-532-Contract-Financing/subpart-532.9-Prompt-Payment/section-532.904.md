@@ -1,5 +1,7 @@
 ##### 532.904 Determining payment due dates. #####
 
+Link to an amendment published at 86 FR 55520, Oct. 6, 2021.
+
 Payment due dates for construction contracts are addressed at FAR 32.904(d). The following procedures apply to construction and building service contracts:
 
 (a) The amount of final payment must include, as appropriate, deductions to cover any of the following:

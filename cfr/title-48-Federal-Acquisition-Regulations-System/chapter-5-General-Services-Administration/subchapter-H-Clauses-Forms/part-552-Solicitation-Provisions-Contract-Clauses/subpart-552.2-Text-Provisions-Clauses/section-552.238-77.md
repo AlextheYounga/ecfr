@@ -1,5 +1,7 @@
 ##### 552.238-77 Submission and Distribution of Authorized Federal Supply Schedule Price Lists. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 538.273(d)(1), insert the following clause:
 
 Submission and Distribution of Authorized Federal Supply Schedule Price Lists (FEB 2020)

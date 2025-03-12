@@ -1,5 +1,7 @@
 ##### 552.211-87 Export packing. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(6), insert the following clause:
 
 Export Packing (JAN 2010)

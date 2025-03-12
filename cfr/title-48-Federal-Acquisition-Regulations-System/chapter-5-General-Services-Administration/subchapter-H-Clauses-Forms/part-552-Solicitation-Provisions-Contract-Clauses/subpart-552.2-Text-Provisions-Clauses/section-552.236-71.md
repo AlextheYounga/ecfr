@@ -1,5 +1,7 @@
 ##### 552.236-71 Contractor Responsibilities. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 536.571, insert the following clause:
 
 Contractor Responsibilities (MAR 2019)

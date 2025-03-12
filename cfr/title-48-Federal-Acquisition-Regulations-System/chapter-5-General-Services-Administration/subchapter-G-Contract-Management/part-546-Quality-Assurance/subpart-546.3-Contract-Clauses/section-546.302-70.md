@@ -1,5 +1,7 @@
 ##### 546.302-70 Source inspection by Quality Approved Manufacturer for fixed-price supply contracts. #####
 
+Link to an amendment published at 86 FR 55521, Oct. 6, 2021.
+
 (a) For solicitations issued and contracts awarded by FAS that will exceed the simplified acquisition threshold and include the clause at 52.246-2, Inspection of Supplies - Fixed-Price:
 
 (1) The contracting officer shall insert the clause at 552.246-70, Source Inspection by Quality Approved Manufacturer, in solicitations and contracts that provide for source inspection for the Stock and Special Order Programs.

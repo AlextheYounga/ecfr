@@ -1,5 +1,7 @@
 ##### 552.211-75 Preservation, Packaging and Packing. #####
 
+Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(2), insert the following clause:
 
 Preservation, Packaging, and Packing (FEB 1996)

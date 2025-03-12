@@ -1,5 +1,7 @@
 ##### 552.216-73 Ordering Information. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 516.506(b), insert the following provision:
 
 Ordering Information (AUG 2010)

@@ -1,6 +1,6 @@
 ##### 515.209-70 Examination of records by GSA clause. #####
 
-Clause for Other Than Multiple Award Schedules
+Link to an amendment published at 86 FR 55519, Oct. 6, 2021.Clause for Other Than Multiple Award Schedules
 
 (a) *Examination of records by GSA clause for other than multiple award schedule (MAS) contracts.* Insert the clause at 552.215-70, Examination of Records by GSA, in all solicitations and contracts above the simplified acquisition threshold, including acquisitions of leasehold interests in real property, that meet any of the conditions listed below:
 

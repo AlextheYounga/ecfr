@@ -1,5 +1,7 @@
 ##### 511.404 Contract clauses. #####
 
+Link to an amendment published at 86 FR 55518, Oct. 6, 2021.
+
 (a) *Supplies or services* - (1) *Shelf-life items.* The contracting officer shall use the following clauses in solicitations and contracts that require delivery of shelf-life items within a specified number of months from the date of manufacture or production:
 
 (i) The contracting officer shall insert 552.211-79, Acceptable Age of Supplies, if the required shelf-life period is 12 months or less, and lengthy acceptance testing may be involved. For items having a limited shelf-life, substitute Alternate I when required by the program director.

@@ -1,5 +1,7 @@
 ##### 552.238-81 Price Reductions. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 538.273(d)(5) insert the following clause:
 
 Price Reductions (MAY 2019)

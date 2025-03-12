@@ -1,5 +1,7 @@
 ##### 552.227-71 Drawings and Other Data To Become Property of Government. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 527.409(b), substitute the following clause:
 
 Drawings and Other Data To Become Property of Government (MAY 1989)

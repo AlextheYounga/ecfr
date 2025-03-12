@@ -1,5 +1,7 @@
 ##### 552.211-94 Time of delivery. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed at 511.404(d), insert the following clause:
 
 Time of Delivery (JAN 2010)

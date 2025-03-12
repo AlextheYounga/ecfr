@@ -1,5 +1,7 @@
 ##### 552.241-71 Disputes (Utility Contracts). #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 541.501, insert clause 552.241-71, Disputes (Utility Contracts), in solicitations and contracts for utility services subject to the jurisdiction and regulation of a utility rate commission.
 
 Disputes (Utility Contracts) (AUG 2010)

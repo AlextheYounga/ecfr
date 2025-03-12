@@ -1,5 +1,7 @@
 ##### 552.211-76 Charges for packaging, packing, and marking. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(3), insert a clause substantially as follows:
 
 Charges for Packaging, Packing, and Marking (JAN 2010)

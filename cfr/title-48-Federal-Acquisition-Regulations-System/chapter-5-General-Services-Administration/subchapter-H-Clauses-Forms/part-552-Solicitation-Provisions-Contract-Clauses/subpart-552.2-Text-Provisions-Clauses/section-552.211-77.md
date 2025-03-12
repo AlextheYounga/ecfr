@@ -1,5 +1,7 @@
 ##### 552.211-77 Packing List. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(c), insert the following clause:
 
 Packing List (FEB 1996)

@@ -1,5 +1,7 @@
 ##### 552.211-10 Commencement, Prosecution, and Completion of Work. #####
 
+Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+
 As prescribed in 511.404, insert the following clause:
 
 Commencement, Prosecution, and Completion of Work (MAR 2019)

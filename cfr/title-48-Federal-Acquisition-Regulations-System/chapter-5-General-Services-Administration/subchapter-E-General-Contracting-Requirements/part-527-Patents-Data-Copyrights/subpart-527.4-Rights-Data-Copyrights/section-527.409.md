@@ -1,6 +1,6 @@
 ##### 527.409 Solicitation provisions and contract clauses. #####
 
-Architect-Engineer Services and Construction Contracts Involving Architect-Engineer Services
+Link to an amendment published at 86 FR 55520, Oct. 6, 2021.Architect-Engineer Services and Construction Contracts Involving Architect-Engineer Services
 
 Insert the following in solicitations and contracts for architect-engineer services and construction contracts involving architect-engineer services:
 

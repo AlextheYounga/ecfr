@@ -1,5 +1,7 @@
 ##### 552.232-1 Payments. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 532.908(a), insert the following clause:
 
 Payments (NOV 2009) (Deviation FAR 52.232-1)

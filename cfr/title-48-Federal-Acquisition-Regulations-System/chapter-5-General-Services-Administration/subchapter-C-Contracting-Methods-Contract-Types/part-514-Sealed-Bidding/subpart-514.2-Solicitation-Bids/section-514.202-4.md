@@ -1,5 +1,7 @@
 ##### 514.202-4 Bid samples. #####
 
+Link to an amendment published at 86 FR 55519, Oct. 6, 2021.
+
 (a) *Requirements for samples in invitations for bids.* (1) When bid samples are required, the contracting officer shall require bidders to submit samples produced by the manufacturer whose products will be supplied under the contract.
 
 (2) The FAR limits use of bid samples to cases where the contracting officer cannot describe some characteristics of a product adequately in the specification or purchase description. This usually applies to subjective characteristics. The contracting officer may determine that there is a need to examine objective characteristics of bid samples to determine the responsiveness of a bid. The contracting officer should base the determination on past experience or other valid considerations. In the solicitation, separately list “Subjective Characteristics” and “Objective Characteristics”.

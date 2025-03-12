@@ -1,5 +1,7 @@
 ##### 552.211-13 Time Extensions. #####
 
+Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+
 As prescribed in 511.504, insert the following clause:
 
 Time Extensions (MAR 2019)

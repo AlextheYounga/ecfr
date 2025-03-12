@@ -1,5 +1,7 @@
 ##### 532.908 Contract clauses. #####
 
+Link to an amendment published at 86 FR 55520, Oct. 6, 2021.
+
 (a) GSA has a FAR deviation that allows this agency to use the clause at 552.232-1, Payments, in lieu of the clause at FAR 52.232-1, Payments.
 
 (b) *General.* Before exercising the authority to modify the date for constructive acceptance or constructive approval of progress payments in paragraph (a)(5)(i) of the clause at FAR 52.232-25, Prompt Payment, the contracting officer must prepare a written justification explaining why a longer period is necessary. An official one level above the contracting officer must approve the justification. The time needed should be determined on a case-by-case basis, but the specified constructive acceptance period shall not exceed 30 days.

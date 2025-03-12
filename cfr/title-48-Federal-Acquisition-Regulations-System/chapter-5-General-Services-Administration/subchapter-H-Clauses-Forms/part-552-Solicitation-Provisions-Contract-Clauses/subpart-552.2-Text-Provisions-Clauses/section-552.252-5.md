@@ -1,5 +1,7 @@
 ##### 552.252-5 Authorized Deviations in Provisions. #####
 
+Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
+
 As prescribed in 552.107-70(a), insert the following provision:
 
 Authorized Deviations in Provisions (Deviation FAR 52.252-5) (SEP 1999)

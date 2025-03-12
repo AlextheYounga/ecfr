@@ -1,5 +1,7 @@
 ##### 552.270-31 Prompt Payment. #####
 
+Link to an amendment published at 86 FR 55525, Oct. 6, 2021.
+
 As prescribed in 570.703, insert the following clause:
 
 Prompt Payment (JUN 2011)

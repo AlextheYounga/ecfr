@@ -1,5 +1,7 @@
 ##### 552.217-73 Notice Regarding Information Collection Requirements. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 515.209-70(b), insert the following clause:
 
 Notice (JUN 2016)

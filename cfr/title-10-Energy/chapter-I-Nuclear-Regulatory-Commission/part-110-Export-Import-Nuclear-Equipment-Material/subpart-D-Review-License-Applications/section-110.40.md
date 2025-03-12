@@ -1,5 +1,7 @@
 ##### § 110.40 Commission review. #####
 
+Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
+
 (a) Immediately after receipt of a license application for an export or import requiring a specific license under this part, the Commission will initiate its licensing review and, to the maximum extent feasible, will expeditiously process the application concurrently with any applicable review by the Executive Branch.
 
 (b) The Commissioners shall review a license application for export of the following:

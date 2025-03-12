@@ -1,5 +1,7 @@
 ##### 552.211-79 Acceptable Age of Supplies. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.404(a)(1), insert the following clause:
 
 Acceptable Age of Supplies (FEB 1996)

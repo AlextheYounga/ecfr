@@ -1,5 +1,7 @@
 ##### 552.236-74 Evaluation of Options. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 536.270-5(a), insert the following provision:
 
 Evaluation of Options (MAR 2019)

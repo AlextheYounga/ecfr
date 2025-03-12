@@ -1,5 +1,7 @@
 ##### 519.870-8 Contract clauses. #####
 
+Link to an amendment published at 86 FR 55520, Oct. 6, 2021.
+
 (a) Insert the following clauses in solicitations, contracts, and orders issued under the MOU:
 
 (1) Insert the clause at 552.219-74, Section 8(a) Direct Award.

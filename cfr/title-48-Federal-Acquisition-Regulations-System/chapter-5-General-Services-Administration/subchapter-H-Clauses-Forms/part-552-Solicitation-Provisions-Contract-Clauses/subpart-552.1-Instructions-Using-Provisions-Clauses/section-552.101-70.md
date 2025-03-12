@@ -1,5 +1,7 @@
 ##### 552.101-70 Using part 552. #####
 
+Link to an amendment published at 86 FR 55522, Oct. 6, 2021.
+
 (a) *Definition.* “Clause,” as used in this subpart, means provision or clause as defined in FAR 52.101(a).
 
 (b) *Numbering.* (1) Clauses which are “substantially” the same as FAR clauses and clauses to be used instead of FAR clauses are identified as follows:

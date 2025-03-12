@@ -1,5 +1,7 @@
 ##### 552.246-70 Source Inspection by Quality Approved Manufacturer. #####
 
+Link to an amendment published at 86 FR 55524, Oct. 6, 2021.
+
 As prescribed in 546.302-70, insert the following clause:
 
 Source Inspection by Quality Approved Manufacturer (JUL 09)

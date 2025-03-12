@@ -1,5 +1,7 @@
 ##### § 110.41 Executive Branch review. #####
 
+Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
+
 (a) An application for a license to export the following will be promptly forwarded to the Executive Branch for review:
 
 (1) A production or utilization facility.

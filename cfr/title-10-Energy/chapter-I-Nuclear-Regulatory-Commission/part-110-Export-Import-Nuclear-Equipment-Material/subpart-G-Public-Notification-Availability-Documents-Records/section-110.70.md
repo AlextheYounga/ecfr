@@ -1,5 +1,7 @@
 ##### § 110.70 Public notice of receipt of an application. #####
 
+Link to an amendment published at 86 FR 55479, Oct. 6, 2021.
+
 (a) The Commission will notice the receipt of each license application, including applications for amendment or renewal, for an export or import for which a specific license is required by making a copy available at the NRC Web site, *http://www.nrc.gov.*
 
 (b) The Commission will also publish in the Federal Register a notice of receipt of each license application, including applications for amendment or renewal, to export the following:

@@ -1,5 +1,7 @@
 ##### 552.212-72 Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 512.301(a)(3), insert the following clause:
 
 Contract Terms and Conditions Required To Implement Statutes or Executive Orders Applicable to GSA Acquisition of Commercial Items (MAY 2019)

@@ -1,5 +1,7 @@
 ##### 511.204 Solicitation provisions and contract clauses. #####
 
+Link to an amendment published at 86 FR 55518, Oct. 6, 2021.
+
 (a) *Federal specifications.* The contracting officer shall insert the clause at 552.211-72, Reference to Specifications in Drawings, in solicitations and contracts citing Federal or agency specifications that contain drawings.
 
 (b) *Supply contracts that exceed the simplified acquisition threshold.* (1) The contracting officer shall include the clause at 552.211-73, Marking, in solicitations and contracts for supplies when deliveries may be made to both civilian and military activities and the contract amount is expected to exceed the simplified acquisition threshold.

@@ -1,5 +1,7 @@
 ##### 552.211-88 Vehicle export preparation. #####
 
+Link to an amendment published at 86 FR 55523, Oct. 6, 2021.
+
 As prescribed in 511.204(b)(7), insert the following clause:
 
 Vehicle Export Preparation (JAN 2010)
