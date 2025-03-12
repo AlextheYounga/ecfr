@@ -1,5 +1,7 @@
 ##### § 2635.203 Definitions. #####
 
+Link to an amendment published at 88 FR 33809, May 25, 2023.
+
 For purposes of this subpart, the following definitions apply:
 
 (a) *Agency* has the meaning set forth in § 2635.102(a). However, for purposes of this subpart, an executive department, as defined in 5 U.S.C. 101, may, by supplemental agency regulation, designate as a separate agency any component of that department which the department determines exercises distinct and separate functions.

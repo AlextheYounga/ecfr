@@ -890,7 +890,85 @@ From USGS 1:24,000 scale quadrangle map Casmalia.
 
 (ii) Map of Unit 6, Subunits 6A through 6C, follows:
 
-![](/graphics/er03no09.034.gif)Family Asteraceae: *Deinandra conjugens* (Otay tarplant)
+![](/graphics/er03no09.034.gif)Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle)
+
+(1) Critical habitat units are depicted for Chavez, Eddy, Guadalupe, Otero, and Socorro Counties, New Mexico, on the maps in this entry.
+
+(2) Within these areas, the physical or biological features essential to the conservation of Wright's marsh thistle consist of the following components:
+
+(i) Water-saturated soils with surface or subsurface water flow that allows permanent root saturation and seed germination;
+
+(ii) Alkaline soils;
+
+(iii) Full sunlight; and
+
+(iv) Diverse floral communities to attract pollinators.
+
+(3) Critical habitat does not include humanmade structures (such as buildings, aqueducts, runways, roads, and other paved areas) and the land on which they are located existing within the legal boundaries on May 25, 2023.
+
+(4) Data layers defining map units were created using the latest imagery available through Esri (*https://www.esri.com/en-us/home*). The source is DigitalGlobe, and the year of the imagery was 2016. Critical habitat units were then mapped using ArcGIS ArcMap 10.4. All data are in North America Albers Equal Area Conic projection, Datum North American 1983. The maps in this entry, as modified by any accompanying regulatory text, establish the boundaries of the critical habitat designation. The coordinates or plot points or both on which each map is based are available to the public at the Service's internet site at *https://www.fws.gov/office/new-mexico-ecological-services,* at *http://www.regulations.gov* under Docket No. FWS-R2-ES-2018-0071, and at the field office responsible for this designation. You may obtain field office location information by contacting one of the Service regional offices, the addresses of which are listed at 50 CFR 2.2.
+
+(5) Index map follows:
+
+Figure 1 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (5)![](/graphics/er25ap23.000.gif)
+
+(6) Unit 1: Santa Rosa, Guadalupe County, New Mexico.
+
+(i) Unit 1 consists of 26.6 hectares (ha) (65.7 acres (ac)) in Guadalupe County, New Mexico, and is composed of lands in State (12.65 ha (31.2 ac)), City of Santa Rosa (9.88 ha (24.4 ac)), and private (4.09 ha (10.16 ac)) ownership.
+
+(ii) Maps of Unit 1 follow:
+
+Figure 2 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (6)(ii)![](/graphics/er25ap23.001.gif)Figure 3 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (6)(ii)![](/graphics/er25ap23.002.gif)Figure 4 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (6)(ii)![](/graphics/er25ap23.003.gif)
+
+(7) Unit 2: Alamosa Springs, Socorro County, New Mexico.
+
+(i) Unit 2 consists of 1.58 ha (3.9 ac) in Socorro County, New Mexico, and is composed of lands in private ownership.
+
+(ii) Map of Unit 2 follows:
+
+Figure 5 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (7)(ii)![](/graphics/er25ap23.004.gif)
+
+(8) Unit 3: Bitter Lake, Chaves County, New Mexico.
+
+(i) Unit 3 consists of 19.0 ha (47.0 ac) in Chaves County, New Mexico, and is composed of lands under Federal management, specifically the U.S. Fish and Wildlife Service's Bitter Lake National Wildlife Refuge.
+
+(ii) Map of Unit 3 follows:
+
+Figure 6 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (8)(ii)![](/graphics/er25ap23.005.gif)
+
+(9) Unit 4 has been excluded from this critical habitat designation.
+
+(10) Unit 5: La Luz Canyon, Otero County, New Mexico.
+
+(i) Unit 5 consists of 0.01 ha (0.03 ac) in Otero County, New Mexico, and is composed of lands under Federal management, specifically the U.S. Forest Service's Lincoln National Forest.
+
+(ii) Map of Unit 5 follows:
+
+Figure 7 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (10)(ii)![](/graphics/er25ap23.006.gif)
+
+(11) Unit 6: Silver Springs, Otero County, New Mexico.
+
+(i) Unit 6 consists of 0.38 ha (0.95 ac) in Otero County, New Mexico, and is composed of lands under Federal management, specifically the U.S. Forest Service's Lincoln National Forest.
+
+(ii) Map of Unit 6 follows:
+
+Figure 8 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (11)(ii)![](/graphics/er25ap23.007.gif)
+
+(12) Unit 7: Karr/Haynes Canyon, Otero County, New Mexico.
+
+(i) Unit 7 consists of 1.79 ha (4.42 ac) in Otero County, New Mexico, and is composed of lands in private ownership.
+
+(ii) Map of Unit 7 follows:
+
+Figure 9 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (12)(ii)![](/graphics/er25ap23.008.gif)
+
+(13) Unit 8: Blue Springs, Eddy County, New Mexico.
+
+(i) Unit 8 consists of 14.04 ha (34.7 ac) in Eddy County, New Mexico, and is composed of lands in private ownership.
+
+(ii) Map of Unit 8 follows:
+
+Figure 10 to Family Asteraceae: *Cirsium wrightii* (Wright's marsh thistle) paragraph (13)(ii)![](/graphics/er25ap23.009.gif)Family Asteraceae: *Deinandra conjugens* (Otay tarplant)
 
 (1) Critical habitat units are depicted for San Diego County, California, on the maps below. The maps provided are for informational purposes only.
 

@@ -1,5 +1,7 @@
 ##### § 2634.907 Report contents. #####
 
+Link to an amendment published at 88 FR 33809, May 25, 2023.
+
 (a) Other than the reports described in § 2634.904(a)(3), each confidential financial disclosure report must comply with instructions issued by the Office of Government Ethics and include on the standardized form prescribed by OGE (see § 2634.601) the information described in paragraphs (b) through (g) of this section for the filer. Each report must also include the information described in paragraph (h) of this section for the filer's spouse and dependent children.
 
 (b) *Noninvestment income.* Each financial disclosure report must disclose the source of earned or other noninvestment income in excess of $1,000 received by the filer from any one source during the reporting period, including:

@@ -1,23 +1,19 @@
-##### 252.232-7002 Progress payments for foreign military sales acquisitions. #####
+##### 252.232-7002 Progress Payments for Foreign Military Sales Acquisitions. #####
 
 As prescribed in 232.502-4-70(a), use the following clause:
 
-Progress Payments for Foreign Military Sales Acquisitions (DEC 1991)
+Progress Payments for Foreign Military Sales Acquisitions (MAY 2023)
 
 If this contract includes foreign military sales (FMS) requirements, the Contractor shall—
 
-(a) Submit a separate progress payment request for each progress payment rate; and
+(a) Submit separate progress payment requests for the FMS and U.S. line items in the contract;
 
-(b) Submit a supporting schedule showing—
+(b) Submit a supporting schedule showing the amount of each request distributed to each country's requirements;
 
-(1) The amount of each request distributed to each country's requirements; and
+(c) Identify in each progress payment request the contract requirements to which it applies (*i.e.,* FMS or U.S.);
 
-(2) Total price per contract line item applicable to each separate progress payment rate.
+(d) Calculate each request on the basis of the prices, costs (including costs to complete), subcontract financing, and progress payment liquidations of the contract requirements to which it applies; and
 
-(c) Identify in each progress payment request the contract requirements to which it applies (i.e., FMS or U.S.);
+(e) Distribute costs among the countries in a manner acceptable to the Administrative Contracting Officer.
 
-(d) Calculate each request on the basis of the prices, costs (including costs to complete), subcontractor progress payments, and progress payment liquidations of the contract requirements to which it applies; and
-
-(e) Distribute costs among contract line items and countries in a manner acceptable to the Administrative Contracting Officer.
-
-(End of clause)
+(End of clause)[88 FR 33833, May 25, 2023]

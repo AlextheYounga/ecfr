@@ -1,6 +1,6 @@
 ##### § 60.29 Other losses of qualification and procedures for restoration of qualification. #####
 
-(a) Except as provided in paragraph (c) of this section, when the NSPM determines that the FSTD no longer meets qualification standards, the following procedure applies:
+(a) Except as provided in paragraph (c) of this section, when the responsible Flight Standards office determines that the FSTD no longer meets qualification standards, the following procedure applies:
 
 (1) The responsible Flight Standards office notifies the sponsor in writing that the FSTD no longer meets some or all of its qualification standards.
 

@@ -1,5 +1,7 @@
 ##### § 2635.204 Exceptions to the prohibition for acceptance of certain gifts. #####
 
+Link to an amendment published at 88 FR 33809, May 25, 2023.
+
 Subject to the limitations in § 2635.205, this section establishes exceptions to the prohibitions set forth in § 2635.202(a) and (b). Even though acceptance of a gift may be permitted by one of the exceptions contained in this section, it is never inappropriate and frequently prudent for an employee to decline a gift if acceptance would cause a reasonable person to question the employee's integrity or impartiality. Section 2635.201(b) identifies considerations for declining otherwise permissible gifts.
 
 (a) *Gifts of $20 or less.* An employee may accept unsolicited gifts having an aggregate market value of $20 or less per source per occasion, provided that the aggregate market value of individual gifts received from any one person under the authority of this paragraph (a) does not exceed $50 in a calendar year. This exception does not apply to gifts of cash or of investment interests such as stock, bonds, or certificates of deposit. Where the market value of a gift or the aggregate market value of gifts offered on any single occasion exceeds $20, the employee may not pay the excess value over $20 in order to accept that portion of the gift or those gifts worth $20. Where the aggregate value of tangible items offered on a single occasion exceeds $20, the employee may decline any distinct and separate item in order to accept those items aggregating $20 or less.

@@ -36,6 +36,4 @@
 
 (e) *Expiration.* This SFAR will remain in effect until January 7, 2027. The FAA may amend, rescind, or extend this SFAR, as necessary.
 
-Issued in Washington, DC, under the authority of 49 U.S.C. 106(f) and (g), 40101(d)(1), 40105(b)(1)(A), and 44701(a)(5).
-
 [Docket FAA-2007-27602, Amdt.91-339, 81 FR 726, Jan. 7, 2016, as amended by Amdt. 91-339A, 82 FR 58550, Dec. 13, 2017; Docket FAA-2018-0119, Amdt. 91-350, 83 FR 9172, Mar. 5, 2018; Amdt. 91-339B, 84 FR 67671, Dec. 11, 2019; Docket No. FAA-2007-27602; Amdt. No. 91-339C, 87 FR 79245, Dec. 27, 2022]

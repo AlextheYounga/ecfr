@@ -1,5 +1,7 @@
 ##### § 110.4 Contributions in the name of another; cash contributions (52 U.S.C. 30122, 30123, 30102(c)(2)). #####
 
+Link to an amendment published at 88 FR 33817, May 25, 2023.
+
 (a) [Reserved]
 
 (b) *Contributions in the name of another.* (1) No person shall—

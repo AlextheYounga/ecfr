@@ -6,6 +6,8 @@
 
 (2) The date on which the amount of funds obligated under the contract action is equal to more than 50 percent of the not-to-exceed price.
 
-(b) Submission of a qualifying proposal in accordance with the definitization schedule is a material element of the contract. If the contractor does not submit a timely qualifying proposal, the contracting officer may suspend or reduce progress payments under FAR 32.503-6, or take other appropriate action.
+(b)(1) Submission of a qualifying proposal in accordance with the definitization schedule is a material element of the contract. If the contractor does not submit a qualifying proposal in accordance with the contract definitization schedule, notwithstanding FAR 52.216-26, Payments of Allowable Costs Before Definitization, the contracting officer may withhold an amount necessary to protect the interests of the Government, not to exceed 5 percent of all subsequent financing requests, or take other appropriate actions (e.g., documenting the noncompliance in the contractor's past performance evaluation or terminating the contract for default).
 
-[56 FR 36345, July 31, 1991, as amended at 60 FR 29498, June 5, 1995; 63 FR 67803, Dec. 9, 1998; 84 FR 39206, Aug. 9, 2019]
+(2) Contracting officers shall document in the contract file the justification for withholding or not withholding payments if the qualifying proposal was not submitted in accordance with the contract definitization schedule.
+
+[56 FR 36345, July 31, 1991, as amended at 60 FR 29498, June 5, 1995; 63 FR 67803, Dec. 9, 1998; 84 FR 39206, Aug. 9, 2019; 88 FR 33837, May 25, 2023]
