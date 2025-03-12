@@ -1,6 +1,6 @@
 ##### § 310.13 Exemptions for DoD-wide systems. #####
 
-Link to an amendment published at 88 FR 11396, Feb. 23, 2023.
+Link to an amendment published at 88 FR 11396, Feb. 23, 2023.Link to an amendment published at 88 FR 24479, Apr. 21, 2023.
 
 (a) *Use of DoD-wide exemptions.* DoD-wide exemptions for DoD-wide systems of records are established pursuant to 5 U.S.C. 552a(j) and (k) of the Privacy Act.
 

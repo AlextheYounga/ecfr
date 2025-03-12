@@ -1,12 +1,12 @@
-##### § 17.1003 Emergency transportation. #####
+​
 
-Link to an amendment published at 88 FR 10841, Feb. 22, 2023.
+##### § 17.1003 Emergency transportation. #####
 
 Notwithstanding the provisions of § 17.1002, payment or reimbursement under 38 U.S.C. 1725 for ambulance services, including air ambulance services, may be made for transporting a veteran to a facility only if the following conditions are met:
 
 (a) Payment or reimbursement is authorized under 38 U.S.C. 1725 for emergency treatment provided at a non-VA facility, or payment or reimbursement would have been authorized under 38 U.S.C. 1725 for emergency treatment had:
 
-(1) The veteran's personal liability for the emergency treatment not been fully extinguished by payment by a third party, including under a health-plan contract; or
+(1) The veteran's personal liability for the emergency treatment not been fully extinguished by payment by a third party, including under a health-plan contract, or by VA; or
 
 (2) Death had not occurred before emergency treatment could be provided;
 
@@ -18,4 +18,4 @@ Notwithstanding the provisions of § 17.1002, payment or reimbursement under 38 
 
 (e) If the veteran is not eligible for reimbursement for any emergency treatment expenses under 38 U.S.C. 1728.
 
-(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 83 FR 979, Jan. 9, 2018]
+(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 83 FR 979, Jan. 9, 2018; 88 FR 10841, Feb. 22, 2023]

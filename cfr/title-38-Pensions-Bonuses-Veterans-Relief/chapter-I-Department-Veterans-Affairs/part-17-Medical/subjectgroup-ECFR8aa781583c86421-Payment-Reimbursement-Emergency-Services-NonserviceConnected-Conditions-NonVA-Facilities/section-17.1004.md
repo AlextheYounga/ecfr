@@ -1,6 +1,6 @@
-##### § 17.1004 Filing claims. #####
+​
 
-Link to an amendment published at 88 FR 10841, Feb. 22, 2023.
+##### § 17.1004 Filing claims. #####
 
 (a) A claimant for payment or reimbursement under 38 U.S.C. 1725 must be the entity that furnished the treatment, the veteran who paid for the treatment, or the person or organization that paid for such treatment on behalf of the veteran.
 
@@ -22,6 +22,6 @@ These regulations regarding payment or reimbursement for emergency services for 
 
 (e) If after reviewing a claim the decisionmaker determines that additional information is needed to make a determination regarding the claim, such official will contact the claimant in writing and request additional information. The additional information must be submitted to the decisionmaker within 30 days of receipt of the request or the claim will be treated as abandoned, except that if the claimant within the 30-day period requests in writing additional time, the time period for submission of the information may be extended as reasonably necessary for the requested information to be obtained.
 
-(f) Notwithstanding paragraph (d) of this section, VA will provide retroactive payment or reimbursement for emergency treatment received by the veteran on or after July 19, 2001, but more than 90 days before May 21, 2012, if the claimant files a claim for reimbursement no later than 1 year after May 21, 2012.
+(f) Notwithstanding paragraph (d) of this section, VA will provide retroactive payment or reimbursement for emergency treatment received by the veteran, on or after February 1, 2010 but more than 90 days before February 22, 2023, if the claimant was eligible for partial payment from a health-plan contract for the emergency treatment and the claimant files a claim for reimbursement no later than 1 year after February 22, 2023.
 
-(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0620)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 77 FR 23617, Apr. 20, 2012; 84 FR 26307, June 5, 2019]
+(The Office of Management and Budget has approved the information collection requirements in this section under control number 2900-0620)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 77 FR 23617, Apr. 20, 2012; 84 FR 26307, June 5, 2019; 88 FR 10841, Feb. 22, 2023]

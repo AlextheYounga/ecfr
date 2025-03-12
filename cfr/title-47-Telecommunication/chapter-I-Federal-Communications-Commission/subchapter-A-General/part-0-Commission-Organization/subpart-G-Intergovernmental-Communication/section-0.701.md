@@ -12,6 +12,6 @@ The Chairperson of the Commission will appoint members through an application pr
 Members unable to attend an IAC meeting should notify the IAC Chairperson a reasonable time in advance of the meeting and provide the name of the employee designated on their behalf.
 With the exception of Commission staff and individuals or groups having business before the IAC, no other persons may attend or participate in an IAC meeting.
 
-(e) *Commission support and oversight.* The Chairperson of the Commission, or Commissioner designated by the Chairperson for such purpose, will serve as a liaison between the IAC and the Commission and provide general oversight for its activities. . The IAC will also communicate directly with the Chief, Consumer & Governmental Affairs Bureau, concerning logistical assistance and staff support, and such other matters as are warranted.
+(e) *Commission support and oversight.* The Chairperson of the Commission, or Commissioner designated by the Chairperson for such purpose, will serve as a liaison between the IAC and the Commission and provide general oversight for its activities. The IAC will also communicate directly with the Chief, Consumer & Governmental Affairs Bureau, concerning logistical assistance and staff support, and such other matters as are warranted.
 
 [68 FR 52519, Sept. 4, 2003, as amended at 83 FR 733, Jan. 8, 2018; 88 FR 21433, Apr. 10, 2023]

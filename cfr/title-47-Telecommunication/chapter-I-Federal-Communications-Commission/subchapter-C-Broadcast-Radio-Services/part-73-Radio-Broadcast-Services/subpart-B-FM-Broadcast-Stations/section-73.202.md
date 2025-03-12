@@ -1,6 +1,6 @@
 ##### § 73.202 Table of Allotments. #####
 
-Link to an amendment published at 88 FR 19549, Apr. 3, 2023.Link to an amendment published at 88 FR 24340, Apr. 20, 2023.
+Link to an amendment published at 88 FR 19549, Apr. 3, 2023.Link to an amendment published at 88 FR 24340, Apr. 20, 2023.Link to an amendment published t 88 FR 24493, Apr. 21, 2023.
 
 (a) *General.* The following Table of Allotments contains the channels (other than noncommercial educational Channels 201-220) designated for use in communities in the United States, its territories, and possessions, and not currently assigned to a licensee or permittee or subject to a pending application for construction permit or license. All listed channels are for Class B stations in Zones I and I-A and for Class C stations in Zone II unless otherwise specifically designated. Channels to which licensed, permitted, and “reserved” facilities have been assigned are reflected in the Media Bureau's publicly available Consolidated Data Base System.
 

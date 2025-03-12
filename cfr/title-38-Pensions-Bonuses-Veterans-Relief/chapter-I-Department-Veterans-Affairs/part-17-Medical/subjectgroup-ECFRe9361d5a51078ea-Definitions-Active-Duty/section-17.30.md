@@ -1,5 +1,7 @@
 ##### § 17.30 Definitions. #####
 
+Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
+
 When used in Department of Veterans Affairs medical regulations, each of the following terms shall have the meaning ascribed to it in this section:
 
 (a) *Medical services.* The term *medical services* includes, in addition to medical examination, treatment, and rehabilitative services:

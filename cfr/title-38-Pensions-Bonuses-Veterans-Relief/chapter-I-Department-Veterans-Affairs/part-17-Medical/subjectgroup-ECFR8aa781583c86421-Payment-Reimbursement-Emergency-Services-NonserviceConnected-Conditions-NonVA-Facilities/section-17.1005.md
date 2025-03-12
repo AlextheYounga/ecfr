@@ -1,6 +1,6 @@
-##### § 17.1005 Payment limitations. #####
+​
 
-Link to an amendment published at 88 FR 10842, Feb. 22, 2023.
+##### § 17.1005 Payment limitations. #####
 
 (a) Payment or reimbursement for emergency treatment (including emergency transportation) under 38 U.S.C. 1725 will be calculated as follows:
 
@@ -16,7 +16,7 @@ Link to an amendment published at 88 FR 10842, Feb. 22, 2023.
 
 (4) Unless rejected and refunded by the provider within 30 days from the date of receipt, the provider will consider VA's payment made under paragraphs (a)(1), (a)(2), or (a)(3) of this section as payment in full and extinguish the veteran's liability to the provider. (Neither the absence of a contract or agreement between the Secretary and the provider nor any provision of a contract, agreement, or assignment to the contrary shall operate to modify, limit, or negate the requirement in the preceding sentence.)
 
-(5) VA will not reimburse a veteran under this section for any copayment, deductible, coinsurance, or similar payment that the veteran owes the third party or is obligated to pay under a health-plan contract.
+(5) VA will not reimburse a veteran under this section for any copayment, deductible, or similar payment that the veteran owes the third party or is obligated to pay under a health-plan contract.
 
 (b) Except as provided in paragraph (c) of this section, VA will not approve claims for payment or reimbursement of the costs of emergency treatment not previously authorized for any period beyond the date on which the medical emergency ended. For this purpose, VA considers that an emergency ends when the designated VA clinician at the VA facility has determined that, based on sound medical judgment, a veteran who received emergency treatment:
 
@@ -32,4 +32,4 @@ Link to an amendment published at 88 FR 10842, Feb. 22, 2023.
 
 (d) If a stabilized veteran who requires continued non-emergency treatment refuses to be transferred to an available VA facility (or other Federal facility that VA has an agreement with to furnish health care services for veterans), VA will make payment or reimbursement only for the expenses related to the initial evaluation and the emergency treatment furnished to the veteran up to the point of refusal of transfer by the veteran.
 
-(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23618, Apr. 20, 2012; 78 FR 36093, June 17, 2013; 83 FR 979, Jan. 9, 2018]
+(Authority: 38 U.S.C. 1725)[66 FR 36470, July 12, 2001, as amended at 68 FR 3404, Jan. 24, 2003; 76 FR 79071, Dec. 21, 2011; 77 FR 23618, Apr. 20, 2012; 78 FR 36093, June 17, 2013; 83 FR 979, Jan. 9, 2018; 88 FR 10842, Feb. 22, 2023]

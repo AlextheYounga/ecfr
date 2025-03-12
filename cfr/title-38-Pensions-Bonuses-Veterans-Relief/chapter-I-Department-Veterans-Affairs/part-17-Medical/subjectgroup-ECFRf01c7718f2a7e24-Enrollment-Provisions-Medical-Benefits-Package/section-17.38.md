@@ -1,5 +1,7 @@
 ##### § 17.38 Medical benefits package. #####
 
+Link to an amendment published at 88 FR 24483, Apr. 21, 2023.
+
 (a) Subject to paragraphs (b) and (c) of this section, the following hospital, outpatient, and extended care services constitute the “medical benefits package” (basic care and preventive care):
 
 (1) Basic care.

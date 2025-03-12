@@ -364,7 +364,9 @@ The standards referenced in paragraphs (e)(4), (5), (7), (9), (12), (16), (17), 
 
 (9) IEC 62301, (“IEC 62301-W”), Household electrical appliances—Measurement of standby power, (Edition 2.0, 2011-01), Section 5—Measurements, IBR approved for appendix W to subpart B.
 
-Note 2 to paragraph (q). The standards referenced in paragraphs (q)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
+Note 2 to paragraph (q).
+
+The standards referenced in paragraphs (q)(1) through (9) are also available from ANSI. See paragraph (e) of this section.
 
 (r) *IES.* Illuminating Engineering Society (formerly Illuminating Engineering Society of North America—IESNA), 120 Wall Street, Floor 17, New York, NY 10005-4001, 212-248-5000, or go to *www.ies.org.*
 
